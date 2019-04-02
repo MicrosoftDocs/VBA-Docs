@@ -1,5 +1,5 @@
 ---
-title: Presentation.SetPasswordEncryptionOptions Method (PowerPoint)
+title: Presentation.SetPasswordEncryptionOptions method (PowerPoint)
 keywords: vbapp10.chm583079
 f1_keywords:
 - vbapp10.chm583079
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.SetPasswordEncryptionOptions Method (PowerPoint)
+# Presentation.SetPasswordEncryptionOptions method (PowerPoint)
 
 Sets the options Microsoft PowerPoint uses for encrypting presentations with passwords.
 

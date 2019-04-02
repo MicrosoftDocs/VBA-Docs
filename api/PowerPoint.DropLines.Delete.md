@@ -1,5 +1,5 @@
 ---
-title: DropLines.Delete Method (PowerPoint)
+title: DropLines.Delete method (PowerPoint)
 keywords: vbapp10.chm701006
 f1_keywords:
 - vbapp10.chm701006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropLines.Delete Method (PowerPoint)
+# DropLines.Delete method (PowerPoint)
 
 Deletes the object.
 

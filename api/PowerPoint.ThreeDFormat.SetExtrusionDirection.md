@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetExtrusionDirection Method (PowerPoint)
+title: ThreeDFormat.SetExtrusionDirection method (PowerPoint)
 keywords: vbapp10.chm557006
 f1_keywords:
 - vbapp10.chm557006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetExtrusionDirection Method (PowerPoint)
+# ThreeDFormat.SetExtrusionDirection method (PowerPoint)
 
 Sets the direction that the extrusion's sweep path takes away from the extruded shape.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetPosition Method (PowerPoint)
+title: ShapeNodes.SetPosition method (PowerPoint)
 keywords: vbapp10.chm560008
 f1_keywords:
 - vbapp10.chm560008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetPosition Method (PowerPoint)
+# ShapeNodes.SetPosition method (PowerPoint)
 
 Sets the location of the node specified by  **Index**. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
 

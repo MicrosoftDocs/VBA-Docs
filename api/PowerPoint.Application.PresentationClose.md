@@ -1,5 +1,5 @@
 ---
-title: Application.PresentationClose Event (PowerPoint)
+title: Application.PresentationClose event (PowerPoint)
 keywords: vbapp10.chm621004
 f1_keywords:
 - vbapp10.chm621004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PresentationClose Event (PowerPoint)
+# Application.PresentationClose event (PowerPoint)
 
 Occurs immediately before any open presentation closes, as it is removed from the  **[Presentations](PowerPoint.Presentations.md)** collection.
 

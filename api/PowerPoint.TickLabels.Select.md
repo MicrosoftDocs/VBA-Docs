@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Select Method (PowerPoint)
+title: TickLabels.Select method (PowerPoint)
 keywords: vbapp10.chm719009
 f1_keywords:
 - vbapp10.chm719009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Select Method (PowerPoint)
+# TickLabels.Select method (PowerPoint)
 
 Selects the object.
 

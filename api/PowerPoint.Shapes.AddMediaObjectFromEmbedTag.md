@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddMediaObjectFromEmbedTag Method (PowerPoint)
+title: Shapes.AddMediaObjectFromEmbedTag method (PowerPoint)
 keywords: vbapp10.chm543033
 f1_keywords:
 - vbapp10.chm543033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddMediaObjectFromEmbedTag Method (PowerPoint)
+# Shapes.AddMediaObjectFromEmbedTag method (PowerPoint)
 
 Adds a media object from an embedded tag to a  **Shapes** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddPicture2 Method (PowerPoint)
+title: Shapes.AddPicture2 method (PowerPoint)
 ms.assetid: 2956fa14-40bb-458a-aef1-caceab15e067
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddPicture2 Method (PowerPoint)
+# Shapes.AddPicture2 method (PowerPoint)
 
 Creates a picture from an existing file. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new picture.
 

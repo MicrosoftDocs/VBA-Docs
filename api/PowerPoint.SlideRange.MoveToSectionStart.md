@@ -1,5 +1,5 @@
 ---
-title: SlideRange.MoveToSectionStart Method (PowerPoint)
+title: SlideRange.MoveToSectionStart method (PowerPoint)
 keywords: vbapp10.chm532045
 f1_keywords:
 - vbapp10.chm532045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.MoveToSectionStart Method (PowerPoint)
+# SlideRange.MoveToSectionStart method (PowerPoint)
 
 Moves the current position to the start of the specified section in the  **SlideRange** object.
 

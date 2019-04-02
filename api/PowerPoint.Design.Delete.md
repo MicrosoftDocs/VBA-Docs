@@ -1,5 +1,5 @@
 ---
-title: Design.Delete Method (PowerPoint)
+title: Design.Delete method (PowerPoint)
 keywords: vbapp10.chm644011
 f1_keywords:
 - vbapp10.chm644011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Design.Delete Method (PowerPoint)
+# Design.Delete method (PowerPoint)
 
 Deletes the specified  **Design** object.
 

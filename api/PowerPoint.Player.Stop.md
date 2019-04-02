@@ -1,5 +1,5 @@
 ---
-title: Player.Stop Method (PowerPoint)
+title: Player.Stop method (PowerPoint)
 keywords: vbapp10.chm726005
 f1_keywords:
 - vbapp10.chm726005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Player.Stop Method (PowerPoint)
+# Player.Stop method (PowerPoint)
 
 Stops the media playing in the specified object.
 

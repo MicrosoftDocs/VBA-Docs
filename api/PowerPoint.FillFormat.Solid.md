@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Solid Method (PowerPoint)
+title: FillFormat.Solid method (PowerPoint)
 keywords: vbapp10.chm552007
 f1_keywords:
 - vbapp10.chm552007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Solid Method (PowerPoint)
+# FillFormat.Solid method (PowerPoint)
 
 Sets the specified fill to a uniform color. Use this method to convert a gradient, textured, patterned, or background fill back to a solid fill.
 

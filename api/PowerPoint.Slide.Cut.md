@@ -1,5 +1,5 @@
 ---
-title: Slide.Cut Method (PowerPoint)
+title: Slide.Cut method (PowerPoint)
 keywords: vbapp10.chm531012
 f1_keywords:
 - vbapp10.chm531012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.Cut Method (PowerPoint)
+# Slide.Cut method (PowerPoint)
 
 Deletes the specified object and places it on the Clipboard.
 

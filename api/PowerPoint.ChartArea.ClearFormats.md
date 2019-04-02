@@ -1,5 +1,5 @@
 ---
-title: ChartArea.ClearFormats Method (PowerPoint)
+title: ChartArea.ClearFormats method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.ClearFormats
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.ClearFormats Method (PowerPoint)
+# ChartArea.ClearFormats method (PowerPoint)
 
 Clears the formatting of the object.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.LargeScroll Method (PowerPoint)
+title: DocumentWindow.LargeScroll method (PowerPoint)
 keywords: vbapp10.chm511017
 f1_keywords:
 - vbapp10.chm511017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.LargeScroll Method (PowerPoint)
+# DocumentWindow.LargeScroll method (PowerPoint)
 
 Scrolls through the specified document window by pages.
 

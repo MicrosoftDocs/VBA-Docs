@@ -1,5 +1,5 @@
 ---
-title: TextRange.Runs Method (PowerPoint)
+title: TextRange.Runs method (PowerPoint)
 keywords: vbapp10.chm569015
 f1_keywords:
 - vbapp10.chm569015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Runs Method (PowerPoint)
+# TextRange.Runs method (PowerPoint)
 
 Returns a  **TextRange** object that represents the specified subset of text runs. A text run consists of a range of characters that share the same font attributes.
 

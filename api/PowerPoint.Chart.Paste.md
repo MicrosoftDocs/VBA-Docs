@@ -1,5 +1,5 @@
 ---
-title: Chart.Paste Method (PowerPoint)
+title: Chart.Paste method (PowerPoint)
 keywords: vbapp10.chm684004
 f1_keywords:
 - vbapp10.chm684004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Paste Method (PowerPoint)
+# Chart.Paste method (PowerPoint)
 
 Pastes chart data from the Clipboard into the chart.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange.TrimText Method (PowerPoint)
+title: TextRange.TrimText method (PowerPoint)
 keywords: vbapp10.chm569016
 f1_keywords:
 - vbapp10.chm569016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.TrimText Method (PowerPoint)
+# TextRange.TrimText method (PowerPoint)
 
 Returns a  **TextRange** object that represents the specified text minus any trailing spaces.
 

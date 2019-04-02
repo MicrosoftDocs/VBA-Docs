@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.SlidesCount Method (PowerPoint)
+title: SectionProperties.SlidesCount method (PowerPoint)
 keywords: vbapp10.chm725006
 f1_keywords:
 - vbapp10.chm725006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.SlidesCount Method (PowerPoint)
+# SectionProperties.SlidesCount method (PowerPoint)
 
 Returns the number of slides in the specified section.
 

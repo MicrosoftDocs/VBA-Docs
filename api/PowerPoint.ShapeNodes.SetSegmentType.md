@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetSegmentType Method (PowerPoint)
+title: ShapeNodes.SetSegmentType method (PowerPoint)
 keywords: vbapp10.chm560009
 f1_keywords:
 - vbapp10.chm560009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetSegmentType Method (PowerPoint)
+# ShapeNodes.SetSegmentType method (PowerPoint)
 
 Sets the segment type of the segment that follows the specified node.
 

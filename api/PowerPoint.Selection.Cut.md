@@ -1,5 +1,5 @@
 ---
-title: Selection.Cut Method (PowerPoint)
+title: Selection.Cut method (PowerPoint)
 keywords: vbapp10.chm508003
 f1_keywords:
 - vbapp10.chm508003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Cut Method (PowerPoint)
+# Selection.Cut method (PowerPoint)
 
 Deletes the specified object and places it on the Clipboard.
 

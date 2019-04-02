@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.RangeFromPoint Method (PowerPoint)
+title: DocumentWindow.RangeFromPoint method (PowerPoint)
 keywords: vbapp10.chm511026
 f1_keywords:
 - vbapp10.chm511026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.RangeFromPoint Method (PowerPoint)
+# DocumentWindow.RangeFromPoint method (PowerPoint)
 
 Returns the  **Shape** object that is located at the point specified by the screen position coordinate pair. If no shape is located at the coordinate pair specified, then the method returns **Nothing**.
 

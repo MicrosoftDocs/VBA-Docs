@@ -1,5 +1,5 @@
 ---
-title: Floor.Paste Method (PowerPoint)
+title: Floor.Paste method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Paste
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Floor.Paste Method (PowerPoint)
+# Floor.Paste method (PowerPoint)
 
 Pastes a picture from the Clipboard on the floor of the specified chart.
 

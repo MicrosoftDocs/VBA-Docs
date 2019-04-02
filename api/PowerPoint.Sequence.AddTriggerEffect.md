@@ -1,5 +1,5 @@
 ---
-title: Sequence.AddTriggerEffect Method (PowerPoint)
+title: Sequence.AddTriggerEffect method (PowerPoint)
 keywords: vbapp10.chm651013
 f1_keywords:
 - vbapp10.chm651013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequence.AddTriggerEffect Method (PowerPoint)
+# Sequence.AddTriggerEffect method (PowerPoint)
 
 Adds a trigger effect to the animation in a  **Sequence** object.
 

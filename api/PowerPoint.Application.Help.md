@@ -1,5 +1,5 @@
 ---
-title: Application.Help Method (PowerPoint)
+title: Application.Help method (PowerPoint)
 keywords: vbapp10.chm502021
 f1_keywords:
 - vbapp10.chm502021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Help Method (PowerPoint)
+# Application.Help method (PowerPoint)
 
 Displays a Help topic.
 

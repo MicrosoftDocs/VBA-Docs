@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowDeactivate Event (PowerPoint)
+title: Application.ProtectedViewWindowDeactivate event (PowerPoint)
 keywords: vbapp10.chm621030
 f1_keywords:
 - vbapp10.chm621030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowDeactivate Event (PowerPoint)
+# Application.ProtectedViewWindowDeactivate event (PowerPoint)
 
 Occurs when a protected view window is deactivated.
 

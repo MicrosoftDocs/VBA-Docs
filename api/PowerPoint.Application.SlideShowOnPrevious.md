@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowOnPrevious Event (PowerPoint)
+title: Application.SlideShowOnPrevious event (PowerPoint)
 keywords: vbapp10.chm621024
 f1_keywords:
 - vbapp10.chm621024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideShowOnPrevious Event (PowerPoint)
+# Application.SlideShowOnPrevious event (PowerPoint)
 
 Occurs when the user clicks  **Previous** to move within the current slide.
 

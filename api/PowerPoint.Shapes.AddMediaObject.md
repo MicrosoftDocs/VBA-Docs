@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddMediaObject Method (PowerPoint)
+title: Shapes.AddMediaObject method (PowerPoint)
 keywords: vbapp10.chm543025
 f1_keywords:
 - vbapp10.chm543025
@@ -12,9 +12,9 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddMediaObject Method (PowerPoint)
+# Shapes.AddMediaObject method (PowerPoint)
 
-Deprecated in PowerPoint 2013. See [Shapes.AddMediaObject2 Method (PowerPoint)](PowerPoint.Shapes.AddMediaObject2.md). Creates a media object. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new media object.
+Deprecated in PowerPoint 2013. See [Shapes.AddMediaObject2 method (PowerPoint)](PowerPoint.Shapes.AddMediaObject2.md). Creates a media object. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new media object.
 
 
 ## Syntax

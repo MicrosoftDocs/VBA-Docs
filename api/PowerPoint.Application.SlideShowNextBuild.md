@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowNextBuild Event (PowerPoint)
+title: Application.SlideShowNextBuild event (PowerPoint)
 keywords: vbapp10.chm621012
 f1_keywords:
 - vbapp10.chm621012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideShowNextBuild Event (PowerPoint)
+# Application.SlideShowNextBuild event (PowerPoint)
 
 Occurs upon mouse-click or timing animation, but before the animated object becomes visible. .
 

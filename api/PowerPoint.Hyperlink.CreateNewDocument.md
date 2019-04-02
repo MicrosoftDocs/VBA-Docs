@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.CreateNewDocument Method (PowerPoint)
+title: Hyperlink.CreateNewDocument method (PowerPoint)
 keywords: vbapp10.chm526012
 f1_keywords:
 - vbapp10.chm526012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.CreateNewDocument Method (PowerPoint)
+# Hyperlink.CreateNewDocument method (PowerPoint)
 
 Creates a new Web presentation associated with the specified hyperlink.
 

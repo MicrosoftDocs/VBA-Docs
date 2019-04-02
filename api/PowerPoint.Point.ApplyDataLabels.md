@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyDataLabels Method (PowerPoint)
+title: Point.ApplyDataLabels method (PowerPoint)
 keywords: vbapp10.chm714004
 f1_keywords:
 - vbapp10.chm714004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point.ApplyDataLabels Method (PowerPoint)
+# Point.ApplyDataLabels method (PowerPoint)
 
 Applies data labels to a point.
 

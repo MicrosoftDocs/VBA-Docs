@@ -1,5 +1,5 @@
 ---
-title: LegendKey.ClearFormats Method (PowerPoint)
+title: LegendKey.ClearFormats method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.ClearFormats
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendKey.ClearFormats Method (PowerPoint)
+# LegendKey.ClearFormats method (PowerPoint)
 
 Clears the formatting of the object.
 

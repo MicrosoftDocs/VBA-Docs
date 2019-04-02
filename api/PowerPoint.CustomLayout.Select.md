@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Select Method (PowerPoint)
+title: CustomLayout.Select method (PowerPoint)
 keywords: vbapp10.chm672017
 f1_keywords:
 - vbapp10.chm672017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Select Method (PowerPoint)
+# CustomLayout.Select method (PowerPoint)
 
 Selects the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object.
 

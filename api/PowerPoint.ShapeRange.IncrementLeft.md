@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementLeft Method (PowerPoint)
+title: ShapeRange.IncrementLeft method (PowerPoint)
 keywords: vbapp10.chm548005
 f1_keywords:
 - vbapp10.chm548005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.IncrementLeft Method (PowerPoint)
+# ShapeRange.IncrementLeft method (PowerPoint)
 
 Moves the specified shape range horizontally by the specified number of points.
 

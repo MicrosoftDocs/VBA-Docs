@@ -1,5 +1,5 @@
 ---
-title: Chart.ClearToMatchStyle Method (PowerPoint)
+title: Chart.ClearToMatchStyle method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ClearToMatchStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ClearToMatchStyle Method (PowerPoint)
+# Chart.ClearToMatchStyle method (PowerPoint)
 
 Clears the chart elements formatting to automatic.
 

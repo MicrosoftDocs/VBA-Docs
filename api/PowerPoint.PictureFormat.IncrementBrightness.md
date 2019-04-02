@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementBrightness Method (PowerPoint)
+title: PictureFormat.IncrementBrightness method (PowerPoint)
 keywords: vbapp10.chm551002
 f1_keywords:
 - vbapp10.chm551002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IncrementBrightness Method (PowerPoint)
+# PictureFormat.IncrementBrightness method (PowerPoint)
 
 Changes the brightness of the picture by the specified amount. 
 

@@ -1,5 +1,5 @@
 ---
-title: AddIns.Remove Method (PowerPoint)
+title: AddIns.Remove method (PowerPoint)
 keywords: vbapp10.chm520005
 f1_keywords:
 - vbapp10.chm520005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIns.Remove Method (PowerPoint)
+# AddIns.Remove method (PowerPoint)
 
 Removes an add-in from the collection of add-ins.
 

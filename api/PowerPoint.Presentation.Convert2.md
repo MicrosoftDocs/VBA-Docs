@@ -1,5 +1,5 @@
 ---
-title: Presentation.Convert2 Method (PowerPoint)
+title: Presentation.Convert2 method (PowerPoint)
 keywords: vbapp10.chm583121
 f1_keywords:
 - vbapp10.chm583121
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Convert2 Method (PowerPoint)
+# Presentation.Convert2 method (PowerPoint)
 
 Converts a file to a different file type.
 

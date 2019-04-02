@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserTextured Method (PowerPoint)
+title: FillFormat.UserTextured method (PowerPoint)
 keywords: vbapp10.chm552010
 f1_keywords:
 - vbapp10.chm552010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.UserTextured Method (PowerPoint)
+# FillFormat.UserTextured method (PowerPoint)
 
 Fills the specified shape with small tiles of an image. 
 

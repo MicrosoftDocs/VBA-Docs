@@ -1,5 +1,5 @@
 ---
-title: ChartData.ActivateChartDataWindow Method (PowerPoint)
+title: ChartData.ActivateChartDataWindow method (PowerPoint)
 keywords: vbapp10.chm689005
 f1_keywords:
 - vbapp10.chm689005
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ChartData.ActivateChartDataWindow Method (PowerPoint)
+# ChartData.ActivateChartDataWindow method (PowerPoint)
 
 Opens a Excel data grid window that contains the full source data for the specified chart.
 

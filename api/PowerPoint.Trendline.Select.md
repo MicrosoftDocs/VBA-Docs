@@ -1,5 +1,5 @@
 ---
-title: Trendline.Select Method (PowerPoint)
+title: Trendline.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Select Method (PowerPoint)
+# Trendline.Select method (PowerPoint)
 
 Selects the object.
 

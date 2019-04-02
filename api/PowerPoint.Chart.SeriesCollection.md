@@ -1,5 +1,5 @@
 ---
-title: Chart.SeriesCollection Method (PowerPoint)
+title: Chart.SeriesCollection method (PowerPoint)
 keywords: vbapp10.chm684043
 f1_keywords:
 - vbapp10.chm684043
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.SeriesCollection Method (PowerPoint)
+# Chart.SeriesCollection method (PowerPoint)
 
 Returns all the series in the chart.
 

@@ -1,5 +1,5 @@
 ---
-title: Designs.Clone Method (PowerPoint)
+title: Designs.Clone method (PowerPoint)
 keywords: vbapp10.chm643006
 f1_keywords:
 - vbapp10.chm643006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Designs.Clone Method (PowerPoint)
+# Designs.Clone method (PowerPoint)
 
 Creates a copy of a  **[Design](PowerPoint.Design.md)** object.
 

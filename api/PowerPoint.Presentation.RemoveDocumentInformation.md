@@ -1,5 +1,5 @@
 ---
-title: Presentation.RemoveDocumentInformation Method (PowerPoint)
+title: Presentation.RemoveDocumentInformation method (PowerPoint)
 keywords: vbapp10.chm583094
 f1_keywords:
 - vbapp10.chm583094
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.RemoveDocumentInformation Method (PowerPoint)
+# Presentation.RemoveDocumentInformation method (PowerPoint)
 
 Removes document information, such as personal information, comments, and document properties, from a Microsoft PowerPoint presentation.
 

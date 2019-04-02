@@ -1,5 +1,5 @@
 ---
-title: Slides.FindBySlideID Method (PowerPoint)
+title: Slides.FindBySlideID method (PowerPoint)
 keywords: vbapp10.chm530004
 f1_keywords:
 - vbapp10.chm530004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slides.FindBySlideID Method (PowerPoint)
+# Slides.FindBySlideID method (PowerPoint)
 
 Returns a  **[Slide](PowerPoint.Slide.md)** object that represents the slide with the specified slide ID number. Each slide is automatically assigned a unique slide ID number when it is created. Use the **SlideID** property to return a slide's ID number.
 

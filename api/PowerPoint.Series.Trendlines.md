@@ -1,5 +1,5 @@
 ---
-title: Series.Trendlines Method (PowerPoint)
+title: Series.Trendlines method (PowerPoint)
 keywords: vbapp10.chm65690
 f1_keywords:
 - vbapp10.chm65690
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.Trendlines Method (PowerPoint)
+# Series.Trendlines method (PowerPoint)
 
 Returns a collection of all the trendlines for the series.
 

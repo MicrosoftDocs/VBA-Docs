@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleWidth Method (PowerPoint)
+title: Shape.ScaleWidth method (PowerPoint)
 keywords: vbapp10.chm547011
 f1_keywords:
 - vbapp10.chm547011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ScaleWidth Method (PowerPoint)
+# Shape.ScaleWidth method (PowerPoint)
 
 Scales the width of the shape by a specified factor. For pictures and OLE objects, you can indicate whether you want to scale the shape relative to the original size or relative to the current size. Shapes other than pictures and OLE objects are always scaled relative to their current width.
 

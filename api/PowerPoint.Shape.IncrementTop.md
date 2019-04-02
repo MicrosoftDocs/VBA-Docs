@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementTop Method (PowerPoint)
+title: Shape.IncrementTop method (PowerPoint)
 keywords: vbapp10.chm547007
 f1_keywords:
 - vbapp10.chm547007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.IncrementTop Method (PowerPoint)
+# Shape.IncrementTop method (PowerPoint)
 
 Moves the specified shape vertically by the specified number of points.
 

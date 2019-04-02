@@ -1,5 +1,5 @@
 ---
-title: Presentation.CanCheckIn Method (PowerPoint)
+title: Presentation.CanCheckIn method (PowerPoint)
 keywords: vbapp10.chm583066
 f1_keywords:
 - vbapp10.chm583066
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.CanCheckIn Method (PowerPoint)
+# Presentation.CanCheckIn method (PowerPoint)
 
 Returns  **True** if Microsoft PowerPoint can check in a specified presentation to a server.
 

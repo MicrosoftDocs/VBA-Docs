@@ -1,5 +1,5 @@
 ---
-title: Shape.Flip Method (PowerPoint)
+title: Shape.Flip method (PowerPoint)
 keywords: vbapp10.chm547004
 f1_keywords:
 - vbapp10.chm547004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Flip Method (PowerPoint)
+# Shape.Flip method (PowerPoint)
 
 Flips the specified shape around its horizontal or vertical axis.
 

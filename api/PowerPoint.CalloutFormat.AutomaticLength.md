@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutomaticLength Method (PowerPoint)
+title: CalloutFormat.AutomaticLength method (PowerPoint)
 keywords: vbapp10.chm559002
 f1_keywords:
 - vbapp10.chm559002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.AutomaticLength Method (PowerPoint)
+# CalloutFormat.AutomaticLength method (PowerPoint)
 
 Specifies that the first segment of the callout line (the segment attached to the text callout box) be scaled automatically when the callout is moved. Use the  **[CustomLength](PowerPoint.CalloutFormat.CustomLength.md)** method to specify that the first segment of the callout line retain the fixed length returned by the **Length** property whenever the callout is moved. Applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
 

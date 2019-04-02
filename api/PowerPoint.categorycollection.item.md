@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection.Item Method (PowerPoint)
+title: CategoryCollection.Item method (PowerPoint)
 keywords: vbapp10.chm737003
 f1_keywords:
 - vbapp10.chm737003
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryCollection.Item Method (PowerPoint)
+# CategoryCollection.Item method (PowerPoint)
 
 Returns an individual chart category.
 

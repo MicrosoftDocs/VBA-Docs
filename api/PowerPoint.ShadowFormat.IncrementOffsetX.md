@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.IncrementOffsetX Method (PowerPoint)
+title: ShadowFormat.IncrementOffsetX method (PowerPoint)
 keywords: vbapp10.chm554002
 f1_keywords:
 - vbapp10.chm554002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.IncrementOffsetX Method (PowerPoint)
+# ShadowFormat.IncrementOffsetX method (PowerPoint)
 
 Changes the horizontal offset of the shadow by the specified number of points. 
 

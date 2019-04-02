@@ -1,5 +1,5 @@
 ---
-title: Legend.LegendEntries Method (PowerPoint)
+title: Legend.LegendEntries method (PowerPoint)
 keywords: vbapp10.chm65709
 f1_keywords:
 - vbapp10.chm65709
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Legend.LegendEntries Method (PowerPoint)
+# Legend.LegendEntries method (PowerPoint)
 
 Returns a collection of legend entries for the legend.
 

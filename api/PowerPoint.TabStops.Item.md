@@ -1,5 +1,5 @@
 ---
-title: TabStops.Item Method (PowerPoint)
+title: TabStops.Item method (PowerPoint)
 keywords: vbapp10.chm573003
 f1_keywords:
 - vbapp10.chm573003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStops.Item Method (PowerPoint)
+# TabStops.Item method (PowerPoint)
 
 Returns a single tab stop from the specified  **TabStops** collection.
 

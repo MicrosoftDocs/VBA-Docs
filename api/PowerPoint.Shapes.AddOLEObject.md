@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddOLEObject Method (PowerPoint)
+title: Shapes.AddOLEObject method (PowerPoint)
 keywords: vbapp10.chm543022
 f1_keywords:
 - vbapp10.chm543022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddOLEObject Method (PowerPoint)
+# Shapes.AddOLEObject method (PowerPoint)
 
 Creates an OLE object. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new OLE object.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartWizard Method (PowerPoint)
+title: Chart.ChartWizard method (PowerPoint)
 keywords: vbapp10.chm684020
 f1_keywords:
 - vbapp10.chm684020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartWizard Method (PowerPoint)
+# Chart.ChartWizard method (PowerPoint)
 
 Modifies the properties of the given chart. You can use this method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties.
 

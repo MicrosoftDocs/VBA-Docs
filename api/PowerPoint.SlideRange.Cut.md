@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Cut Method (PowerPoint)
+title: SlideRange.Cut method (PowerPoint)
 keywords: vbapp10.chm532012
 f1_keywords:
 - vbapp10.chm532012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Cut Method (PowerPoint)
+# SlideRange.Cut method (PowerPoint)
 
 Deletes the specified object and places it on the Clipboard.
 

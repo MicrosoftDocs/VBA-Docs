@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.IsSectionExpanded Method (PowerPoint)
+title: DocumentWindow.IsSectionExpanded method (PowerPoint)
 keywords: vbapp10.chm511030
 f1_keywords:
 - vbapp10.chm511030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.IsSectionExpanded Method (PowerPoint)
+# DocumentWindow.IsSectionExpanded method (PowerPoint)
 
 Indicates whether the selected section is expanded in the  **DocumentWindow**.
 

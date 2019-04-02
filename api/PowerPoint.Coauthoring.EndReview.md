@@ -1,5 +1,5 @@
 ---
-title: Coauthoring.EndReview Method (PowerPoint)
+title: Coauthoring.EndReview method (PowerPoint)
 keywords: vbapp10.chm731005
 f1_keywords:
 - vbapp10.chm731005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Coauthoring.EndReview Method (PowerPoint)
+# Coauthoring.EndReview method (PowerPoint)
 
 Terminates merge mode and ends the review.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange.Words Method (PowerPoint)
+title: TextRange.Words method (PowerPoint)
 keywords: vbapp10.chm569012
 f1_keywords:
 - vbapp10.chm569012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Words Method (PowerPoint)
+# TextRange.Words method (PowerPoint)
 
 Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the specified subset of text words.
 

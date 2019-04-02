@@ -1,5 +1,5 @@
 ---
-title: Shape.PickupAnimation Method (PowerPoint)
+title: Shape.PickupAnimation method (PowerPoint)
 keywords: vbapp10.chm547090
 f1_keywords:
 - vbapp10.chm547090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.PickupAnimation Method (PowerPoint)
+# Shape.PickupAnimation method (PowerPoint)
 
 Picks up all animation from the  **Shape** object.
 

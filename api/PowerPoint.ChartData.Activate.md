@@ -1,5 +1,5 @@
 ---
-title: ChartData.Activate Method (PowerPoint)
+title: ChartData.Activate method (PowerPoint)
 keywords: vbapp10.chm689002
 f1_keywords:
 - vbapp10.chm689002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartData.Activate Method (PowerPoint)
+# ChartData.Activate method (PowerPoint)
 
 Activates the first window of the workbook associated with the chart.
 

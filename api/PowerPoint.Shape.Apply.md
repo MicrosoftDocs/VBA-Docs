@@ -1,5 +1,5 @@
 ---
-title: Shape.Apply Method (PowerPoint)
+title: Shape.Apply method (PowerPoint)
 keywords: vbapp10.chm547002
 f1_keywords:
 - vbapp10.chm547002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Apply Method (PowerPoint)
+# Shape.Apply method (PowerPoint)
 
 Applies to the specified shape formatting that's been copied by using the  **PickUp** method.
 

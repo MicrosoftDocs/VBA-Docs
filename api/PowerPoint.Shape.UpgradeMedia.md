@@ -1,5 +1,5 @@
 ---
-title: Shape.UpgradeMedia Method (PowerPoint)
+title: Shape.UpgradeMedia method (PowerPoint)
 keywords: vbapp10.chm547092
 f1_keywords:
 - vbapp10.chm547092
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.UpgradeMedia Method (PowerPoint)
+# Shape.UpgradeMedia method (PowerPoint)
 
 Converts a legacy media object to an updated media object.
 

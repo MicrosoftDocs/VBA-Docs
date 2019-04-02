@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.PresetDrop Method (PowerPoint)
+title: CalloutFormat.PresetDrop method (PowerPoint)
 keywords: vbapp10.chm559005
 f1_keywords:
 - vbapp10.chm559005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.PresetDrop Method (PowerPoint)
+# CalloutFormat.PresetDrop method (PowerPoint)
 
 Specifies whether the callout line attaches to the top, bottom, or center of the callout text box or whether it attaches at a point that's a specified distance from the top or bottom of the text box.
 

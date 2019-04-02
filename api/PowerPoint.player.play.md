@@ -1,5 +1,5 @@
 ---
-title: Player.Play Method (PowerPoint)
+title: Player.Play method (PowerPoint)
 keywords: vbapp10.chm726003
 f1_keywords:
 - vbapp10.chm726003
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Player.Play Method (PowerPoint)
+# Player.Play method (PowerPoint)
 
 Begins playback for the specified media.
 

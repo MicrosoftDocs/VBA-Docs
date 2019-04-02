@@ -1,5 +1,5 @@
 ---
-title: Chart.Refresh Method (PowerPoint)
+title: Chart.Refresh method (PowerPoint)
 keywords: vbapp10.chm684010
 f1_keywords:
 - vbapp10.chm684010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Refresh Method (PowerPoint)
+# Chart.Refresh method (PowerPoint)
 
 Causes the specified chart to be redrawn immediately.
 

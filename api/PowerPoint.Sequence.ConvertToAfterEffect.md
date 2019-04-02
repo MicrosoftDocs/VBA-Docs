@@ -1,5 +1,5 @@
 ---
-title: Sequence.ConvertToAfterEffect Method (PowerPoint)
+title: Sequence.ConvertToAfterEffect method (PowerPoint)
 keywords: vbapp10.chm651009
 f1_keywords:
 - vbapp10.chm651009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequence.ConvertToAfterEffect Method (PowerPoint)
+# Sequence.ConvertToAfterEffect method (PowerPoint)
 
 Specifies what an effect should do after it is finished. Returns an  **[Effect](PowerPoint.Effect.md)** object that represents an after effect.
 

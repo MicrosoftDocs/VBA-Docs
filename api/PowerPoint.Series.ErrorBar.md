@@ -1,5 +1,5 @@
 ---
-title: Series.ErrorBar Method (PowerPoint)
+title: Series.ErrorBar method (PowerPoint)
 keywords: vbapp10.chm65688
 f1_keywords:
 - vbapp10.chm65688
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.ErrorBar Method (PowerPoint)
+# Series.ErrorBar method (PowerPoint)
 
 Applies error bars to the series. 
 

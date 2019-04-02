@@ -1,5 +1,5 @@
 ---
-title: FillFormat.OneColorGradient Method (PowerPoint)
+title: FillFormat.OneColorGradient method (PowerPoint)
 keywords: vbapp10.chm552003
 f1_keywords:
 - vbapp10.chm552003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.OneColorGradient Method (PowerPoint)
+# FillFormat.OneColorGradient method (PowerPoint)
 
 Sets the specified fill to a one-color gradient.
 

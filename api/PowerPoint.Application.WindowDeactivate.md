@@ -1,5 +1,5 @@
 ---
-title: Application.WindowDeactivate Event (PowerPoint)
+title: Application.WindowDeactivate event (PowerPoint)
 keywords: vbapp10.chm621010
 f1_keywords:
 - vbapp10.chm621010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowDeactivate Event (PowerPoint)
+# Application.WindowDeactivate event (PowerPoint)
 
 Occurs when the application window or any document window is deactivated.
 

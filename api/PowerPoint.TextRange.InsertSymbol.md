@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertSymbol Method (PowerPoint)
+title: TextRange.InsertSymbol method (PowerPoint)
 keywords: vbapp10.chm569022
 f1_keywords:
 - vbapp10.chm569022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InsertSymbol Method (PowerPoint)
+# TextRange.InsertSymbol method (PowerPoint)
 
 Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents a symbol inserted into the specified text range.
 

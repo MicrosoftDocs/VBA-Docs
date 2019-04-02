@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.CustomLength Method (PowerPoint)
+title: CalloutFormat.CustomLength method (PowerPoint)
 keywords: vbapp10.chm559004
 f1_keywords:
 - vbapp10.chm559004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.CustomLength Method (PowerPoint)
+# CalloutFormat.CustomLength method (PowerPoint)
 
 Specifies that the first segment of the callout line (the segment attached to the text callout box) retain a fixed length whenever the callout is moved. 
 

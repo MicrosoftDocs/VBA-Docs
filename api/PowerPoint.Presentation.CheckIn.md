@@ -1,5 +1,5 @@
 ---
-title: Presentation.CheckIn Method (PowerPoint)
+title: Presentation.CheckIn method (PowerPoint)
 keywords: vbapp10.chm583065
 f1_keywords:
 - vbapp10.chm583065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.CheckIn Method (PowerPoint)
+# Presentation.CheckIn method (PowerPoint)
 
 Returns a presentation from a local computer to a server, and sets the local file to read-only so that it cannot be edited locally.
 

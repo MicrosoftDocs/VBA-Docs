@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes.Item Method (PowerPoint)
+title: ColorSchemes.Item method (PowerPoint)
 keywords: vbapp10.chm536003
 f1_keywords:
 - vbapp10.chm536003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorSchemes.Item Method (PowerPoint)
+# ColorSchemes.Item method (PowerPoint)
 
 Returns a single  **ColorScheme** object from the specified **ColorSchemes** collection.
 

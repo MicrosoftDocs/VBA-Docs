@@ -1,5 +1,5 @@
 ---
-title: CustomerData.Delete Method (PowerPoint)
+title: CustomerData.Delete method (PowerPoint)
 keywords: vbapp10.chm675005
 f1_keywords:
 - vbapp10.chm675005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomerData.Delete Method (PowerPoint)
+# CustomerData.Delete method (PowerPoint)
 
 Deletes the specified  **[CustomXMLPart](Office.CustomXMLPart.md)** object from the **[CustomerData](PowerPoint.CustomerData.md)** collection of a **[CustomLayout](PowerPoint.CustomLayout.md)**, **[Master](PowerPoint.Master.md)**, **[Presentation](PowerPoint.Presentation.md)**, **[Shape](PowerPoint.Shape.md)**, or **[Slide](PowerPoint.Slide.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: PrintRanges.Item Method (PowerPoint)
+title: PrintRanges.Item method (PowerPoint)
 keywords: vbapp10.chm518004
 f1_keywords:
 - vbapp10.chm518004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintRanges.Item Method (PowerPoint)
+# PrintRanges.Item method (PowerPoint)
 
 Returns a single  **PrintRange** object from the specified **PrintRanges** collection.
 

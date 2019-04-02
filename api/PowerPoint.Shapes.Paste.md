@@ -1,5 +1,5 @@
 ---
-title: Shapes.Paste Method (PowerPoint)
+title: Shapes.Paste method (PowerPoint)
 keywords: vbapp10.chm543026
 f1_keywords:
 - vbapp10.chm543026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Paste Method (PowerPoint)
+# Shapes.Paste method (PowerPoint)
 
 Pastes the shapes, slides, or text on the Clipboard into the specified  **Shapes** collection, at the top of the z-order. Each pasted object becomes a member of the specified **Shapes** collection. If the Clipboard contains entire slides, the slides will be pasted as shapes that contain the images of the slides. If the Clipboard contains a text range, the text will be pasted into a newly created **TextFrame** shape. Returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the pasted objects.
 

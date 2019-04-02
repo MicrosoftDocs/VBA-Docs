@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Select Method (PowerPoint)
+title: ErrorBars.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars.Select Method (PowerPoint)
+# ErrorBars.Select method (PowerPoint)
 
 Selects the object.
 

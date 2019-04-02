@@ -1,5 +1,5 @@
 ---
-title: ChartArea.ClearContents Method (PowerPoint)
+title: ChartArea.ClearContents method (PowerPoint)
 keywords: vbapp10.chm65649
 f1_keywords:
 - vbapp10.chm65649
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.ClearContents Method (PowerPoint)
+# ChartArea.ClearContents method (PowerPoint)
 
 Clears the data from a chart but leaves the formatting.
 

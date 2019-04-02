@@ -1,5 +1,5 @@
 ---
-title: Chart.SetDefaultChart Method (PowerPoint)
+title: Chart.SetDefaultChart method (PowerPoint)
 keywords: vbapp10.chm684006
 f1_keywords:
 - vbapp10.chm684006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.SetDefaultChart Method (PowerPoint)
+# Chart.SetDefaultChart method (PowerPoint)
 
 Specifies the name of the chart template that Microsoft Word uses when it creates new charts.
 

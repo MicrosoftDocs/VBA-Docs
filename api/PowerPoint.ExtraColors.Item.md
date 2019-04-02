@@ -1,5 +1,5 @@
 ---
-title: ExtraColors.Item Method (PowerPoint)
+title: ExtraColors.Item method (PowerPoint)
 keywords: vbapp10.chm529003
 f1_keywords:
 - vbapp10.chm529003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExtraColors.Item Method (PowerPoint)
+# ExtraColors.Item method (PowerPoint)
 
 Returns a single color from the specified  **ExtraColors** collection.
 

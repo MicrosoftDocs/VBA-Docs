@@ -1,5 +1,5 @@
 ---
-title: Application.AfterShapeSizeChange Event (PowerPoint)
+title: Application.AfterShapeSizeChange event (PowerPoint)
 keywords: vbapp10.chm621033
 f1_keywords:
 - vbapp10.chm621033
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterShapeSizeChange Event (PowerPoint)
+# Application.AfterShapeSizeChange event (PowerPoint)
 
 Occurs after an object (shape, picture, text box, chart, SmartArt as examples) has been resized on the slide.
 

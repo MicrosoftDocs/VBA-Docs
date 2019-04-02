@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartGroups Method (PowerPoint)
+title: Chart.ChartGroups method (PowerPoint)
 keywords: vbapp10.chm684018
 f1_keywords:
 - vbapp10.chm684018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartGroups Method (PowerPoint)
+# Chart.ChartGroups method (PowerPoint)
 
 Returns an object that represents either a single chart group or a collection of all the chart groups in the chart.
 

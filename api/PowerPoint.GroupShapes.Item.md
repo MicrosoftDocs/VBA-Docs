@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Item Method (PowerPoint)
+title: GroupShapes.Item method (PowerPoint)
 keywords: vbapp10.chm549003
 f1_keywords:
 - vbapp10.chm549003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GroupShapes.Item Method (PowerPoint)
+# GroupShapes.Item method (PowerPoint)
 
 Returns a single  **Shape** object from the specified **GroupShapes** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationY Method (PowerPoint)
+title: ThreeDFormat.IncrementRotationY method (PowerPoint)
 keywords: vbapp10.chm557003
 f1_keywords:
 - vbapp10.chm557003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationY Method (PowerPoint)
+# ThreeDFormat.IncrementRotationY method (PowerPoint)
 
 Changes the rotation of the specified shape around the y-axis by the specified number of degrees. 
 

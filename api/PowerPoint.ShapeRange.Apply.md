@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Apply Method (PowerPoint)
+title: ShapeRange.Apply method (PowerPoint)
 keywords: vbapp10.chm548002
 f1_keywords:
 - vbapp10.chm548002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Apply Method (PowerPoint)
+# ShapeRange.Apply method (PowerPoint)
 
 Applies to the specified shape range formatting that's been copied by using the  **PickUp** method.
 

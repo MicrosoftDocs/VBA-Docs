@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.First Method (PowerPoint)
+title: SlideShowView.First method (PowerPoint)
 keywords: vbapp10.chm513017
 f1_keywords:
 - vbapp10.chm513017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.First Method (PowerPoint)
+# SlideShowView.First method (PowerPoint)
 
 Sets the specified slide show view to display the first slide in the presentation.
 

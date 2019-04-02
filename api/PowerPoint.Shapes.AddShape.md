@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddShape Method (PowerPoint)
+title: Shapes.AddShape method (PowerPoint)
 keywords: vbapp10.chm543012
 f1_keywords:
 - vbapp10.chm543012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddShape Method (PowerPoint)
+# Shapes.AddShape method (PowerPoint)
 
 Creates an AutoShape. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new AutoShape.
 

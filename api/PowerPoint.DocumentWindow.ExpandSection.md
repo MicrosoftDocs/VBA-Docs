@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.ExpandSection Method (PowerPoint)
+title: DocumentWindow.ExpandSection method (PowerPoint)
 keywords: vbapp10.chm511031
 f1_keywords:
 - vbapp10.chm511031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.ExpandSection Method (PowerPoint)
+# DocumentWindow.ExpandSection method (PowerPoint)
 
 Expands the section in the current  **DocumentWindow**.
 

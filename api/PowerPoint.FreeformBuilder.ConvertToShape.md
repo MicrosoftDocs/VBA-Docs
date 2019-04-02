@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.ConvertToShape Method (PowerPoint)
+title: FreeformBuilder.ConvertToShape method (PowerPoint)
 keywords: vbapp10.chm546003
 f1_keywords:
 - vbapp10.chm546003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FreeformBuilder.ConvertToShape Method (PowerPoint)
+# FreeformBuilder.ConvertToShape method (PowerPoint)
 
 Creates a shape that has the geometric characteristics of the specified  **[FreeformBuilder](PowerPoint.FreeformBuilder.md)** object. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the new shape.
 

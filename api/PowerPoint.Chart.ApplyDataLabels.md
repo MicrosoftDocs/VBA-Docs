@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyDataLabels Method (PowerPoint)
+title: Chart.ApplyDataLabels method (PowerPoint)
 keywords: vbapp10.chm67458
 f1_keywords:
 - vbapp10.chm67458
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ApplyDataLabels Method (PowerPoint)
+# Chart.ApplyDataLabels method (PowerPoint)
 
 Applies data labels to all the series in a chart.
 

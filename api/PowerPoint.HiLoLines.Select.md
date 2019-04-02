@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Select Method (PowerPoint)
+title: HiLoLines.Select method (PowerPoint)
 keywords: vbapp10.chm706007
 f1_keywords:
 - vbapp10.chm706007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HiLoLines.Select Method (PowerPoint)
+# HiLoLines.Select method (PowerPoint)
 
 Selects the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Effect.MoveAfter Method (PowerPoint)
+title: Effect.MoveAfter method (PowerPoint)
 keywords: vbapp10.chm652006
 f1_keywords:
 - vbapp10.chm652006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.MoveAfter Method (PowerPoint)
+# Effect.MoveAfter method (PowerPoint)
 
 Moves one animation effect to after another animation effect.
 

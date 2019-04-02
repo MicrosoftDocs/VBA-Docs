@@ -1,5 +1,5 @@
 ---
-title: Rows.Add Method (PowerPoint)
+title: Rows.Add method (PowerPoint)
 keywords: vbapp10.chm625004
 f1_keywords:
 - vbapp10.chm625004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rows.Add Method (PowerPoint)
+# Rows.Add method (PowerPoint)
 
 Returns a  **[Row](PowerPoint.Row.md)** object that represents a row being added to a table.
 

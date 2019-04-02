@@ -1,5 +1,5 @@
 ---
-title: Presentation.ExportAsFixedFormat2 Method (PowerPoint)
+title: Presentation.ExportAsFixedFormat2 method (PowerPoint)
 keywords: vbapp10.chm583126
 f1_keywords:
 - vbapp10.chm583126
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.ExportAsFixedFormat2 Method (PowerPoint)
+# Presentation.ExportAsFixedFormat2 method (PowerPoint)
 
 Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed format, either PDF or XPS.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Patterned Method (PowerPoint)
+title: FillFormat.Patterned method (PowerPoint)
 keywords: vbapp10.chm552004
 f1_keywords:
 - vbapp10.chm552004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Patterned Method (PowerPoint)
+# FillFormat.Patterned method (PowerPoint)
 
 Sets the specified fill to a pattern.
 

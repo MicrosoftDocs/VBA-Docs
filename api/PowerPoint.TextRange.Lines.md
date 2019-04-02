@@ -1,5 +1,5 @@
 ---
-title: TextRange.Lines Method (PowerPoint)
+title: TextRange.Lines method (PowerPoint)
 keywords: vbapp10.chm569014
 f1_keywords:
 - vbapp10.chm569014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Lines Method (PowerPoint)
+# TextRange.Lines method (PowerPoint)
 
 Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the specified subset of text lines. For information about counting or looping through the lines in a text range, see the **[TextRange](PowerPoint.TextRange.md)** object.
 

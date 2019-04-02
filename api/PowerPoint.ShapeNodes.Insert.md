@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Insert Method (PowerPoint)
+title: ShapeNodes.Insert method (PowerPoint)
 keywords: vbapp10.chm560006
 f1_keywords:
 - vbapp10.chm560006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.Insert Method (PowerPoint)
+# ShapeNodes.Insert method (PowerPoint)
 
 Inserts a new segment after the specified node of the freeform.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomLayouts.Paste Method (PowerPoint)
+title: CustomLayouts.Paste method (PowerPoint)
 keywords: vbapp10.chm671005
 f1_keywords:
 - vbapp10.chm671005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayouts.Paste Method (PowerPoint)
+# CustomLayouts.Paste method (PowerPoint)
 
 Pastes the slides on the Clipboard into a custom layout and adds the custom layout to the  **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection.
 

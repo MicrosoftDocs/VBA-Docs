@@ -1,5 +1,5 @@
 ---
-title: Application.PresentationNewSlide Event (PowerPoint)
+title: Application.PresentationNewSlide event (PowerPoint)
 keywords: vbapp10.chm621008
 f1_keywords:
 - vbapp10.chm621008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PresentationNewSlide Event (PowerPoint)
+# Application.PresentationNewSlide event (PowerPoint)
 
 Occurs when a new slide is created in any open presentation, as the slide is added to the  **[Slides](PowerPoint.Slides.md)** collection.
 

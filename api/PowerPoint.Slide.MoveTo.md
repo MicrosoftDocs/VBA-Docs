@@ -1,5 +1,5 @@
 ---
-title: Slide.MoveTo Method (PowerPoint)
+title: Slide.MoveTo method (PowerPoint)
 keywords: vbapp10.chm531030
 f1_keywords:
 - vbapp10.chm531030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.MoveTo Method (PowerPoint)
+# Slide.MoveTo method (PowerPoint)
 
 Moves the specified object to a specific location within the same collection, renumbering all other items in the collection appropriately.
 

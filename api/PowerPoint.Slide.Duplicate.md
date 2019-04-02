@@ -1,5 +1,5 @@
 ---
-title: Slide.Duplicate Method (PowerPoint)
+title: Slide.Duplicate method (PowerPoint)
 keywords: vbapp10.chm531015
 f1_keywords:
 - vbapp10.chm531015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.Duplicate Method (PowerPoint)
+# Slide.Duplicate method (PowerPoint)
 
 Creates a duplicate of the specified  **Slide** object, adds the new slide to the **Slides** collection immediately after the slide specified originally, and then returns a **Slide** object that represents the duplicate slide.
 

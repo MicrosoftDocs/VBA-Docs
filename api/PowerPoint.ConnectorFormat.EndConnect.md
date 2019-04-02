@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnect Method (PowerPoint)
+title: ConnectorFormat.EndConnect method (PowerPoint)
 keywords: vbapp10.chm555004
 f1_keywords:
 - vbapp10.chm555004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnect Method (PowerPoint)
+# ConnectorFormat.EndConnect method (PowerPoint)
 
 Attaches the end of the specified connector to a specified shape. 
 

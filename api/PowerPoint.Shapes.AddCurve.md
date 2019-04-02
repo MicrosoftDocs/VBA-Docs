@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCurve Method (PowerPoint)
+title: Shapes.AddCurve method (PowerPoint)
 keywords: vbapp10.chm543007
 f1_keywords:
 - vbapp10.chm543007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddCurve Method (PowerPoint)
+# Shapes.AddCurve method (PowerPoint)
 
 Creates a Bézier curve. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new curve.
 

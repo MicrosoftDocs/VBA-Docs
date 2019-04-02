@@ -1,5 +1,5 @@
 ---
-title: Fonts.Replace Method (PowerPoint)
+title: Fonts.Replace method (PowerPoint)
 keywords: vbapp10.chm528004
 f1_keywords:
 - vbapp10.chm528004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Replace Method (PowerPoint)
+# Fonts.Replace method (PowerPoint)
 
 Replaces a font in the  **Fonts** collection.
 

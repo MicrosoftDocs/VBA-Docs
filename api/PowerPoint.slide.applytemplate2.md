@@ -1,5 +1,5 @@
 ---
-title: Slide.ApplyTemplate2 Method (PowerPoint)
+title: Slide.ApplyTemplate2 method (PowerPoint)
 keywords: vbapp10.chm531044
 f1_keywords:
 - vbapp10.chm531044
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.ApplyTemplate2 Method (PowerPoint)
+# Slide.ApplyTemplate2 method (PowerPoint)
 
 Applies a design template and theme variant to the slide.
 

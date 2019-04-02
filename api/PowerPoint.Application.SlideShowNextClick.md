@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowNextClick Event (PowerPoint)
+title: Application.SlideShowNextClick event (PowerPoint)
 keywords: vbapp10.chm621019
 f1_keywords:
 - vbapp10.chm621019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideShowNextClick Event (PowerPoint)
+# Application.SlideShowNextClick event (PowerPoint)
 
 Occurs on the next click of the slide.
 

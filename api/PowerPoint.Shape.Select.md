@@ -1,5 +1,5 @@
 ---
-title: Shape.Select Method (PowerPoint)
+title: Shape.Select method (PowerPoint)
 keywords: vbapp10.chm547052
 f1_keywords:
 - vbapp10.chm547052
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Select Method (PowerPoint)
+# Shape.Select method (PowerPoint)
 
 Selects the specified object.
 

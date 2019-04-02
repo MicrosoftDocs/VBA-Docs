@@ -1,5 +1,5 @@
 ---
-title: Presentations.CanCheckOut Method (PowerPoint)
+title: Presentations.CanCheckOut method (PowerPoint)
 keywords: vbapp10.chm522008
 f1_keywords:
 - vbapp10.chm522008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentations.CanCheckOut Method (PowerPoint)
+# Presentations.CanCheckOut method (PowerPoint)
 
 Returns  **True** if Microsoft PowerPoint can check out a specified presentation from a server.
 

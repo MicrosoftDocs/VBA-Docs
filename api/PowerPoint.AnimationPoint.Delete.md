@@ -1,5 +1,5 @@
 ---
-title: AnimationPoint.Delete Method (PowerPoint)
+title: AnimationPoint.Delete method (PowerPoint)
 keywords: vbapp10.chm664003
 f1_keywords:
 - vbapp10.chm664003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoint.Delete Method (PowerPoint)
+# AnimationPoint.Delete method (PowerPoint)
 
 Deletes the specified  **AnimationPoint** object.
 

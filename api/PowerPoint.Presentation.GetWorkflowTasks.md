@@ -1,5 +1,5 @@
 ---
-title: Presentation.GetWorkflowTasks Method (PowerPoint)
+title: Presentation.GetWorkflowTasks method (PowerPoint)
 keywords: vbapp10.chm583098
 f1_keywords:
 - vbapp10.chm583098
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.GetWorkflowTasks Method (PowerPoint)
+# Presentation.GetWorkflowTasks method (PowerPoint)
 
  Returns the Microsoft Office **WorkflowTasks** collection.
 

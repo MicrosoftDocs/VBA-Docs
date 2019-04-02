@@ -1,5 +1,5 @@
 ---
-title: Application.PresentationPrint Event (PowerPoint)
+title: Application.PresentationPrint event (PowerPoint)
 keywords: vbapp10.chm621015
 f1_keywords:
 - vbapp10.chm621015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PresentationPrint Event (PowerPoint)
+# Application.PresentationPrint event (PowerPoint)
 
 Occurs before a presentation is printed.
 

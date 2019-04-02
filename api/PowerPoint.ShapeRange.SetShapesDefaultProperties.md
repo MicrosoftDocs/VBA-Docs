@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SetShapesDefaultProperties Method (PowerPoint)
+title: ShapeRange.SetShapesDefaultProperties method (PowerPoint)
 keywords: vbapp10.chm548012
 f1_keywords:
 - vbapp10.chm548012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.SetShapesDefaultProperties Method (PowerPoint)
+# ShapeRange.SetShapesDefaultProperties method (PowerPoint)
 
 Applies the formatting for the specified shape to the default shape. Shapes created after this method has been used will have this formatting applied to them by default.
 

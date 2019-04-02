@@ -1,5 +1,5 @@
 ---
-title: Presentation.NewWindow Method (PowerPoint)
+title: Presentation.NewWindow method (PowerPoint)
 keywords: vbapp10.chm583029
 f1_keywords:
 - vbapp10.chm583029
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.NewWindow Method (PowerPoint)
+# Presentation.NewWindow method (PowerPoint)
 
  Opens a new window that contains the specified presentation. Returns a **[DocumentWindow](PowerPoint.DocumentWindow.md)** object that represents the new window.
 

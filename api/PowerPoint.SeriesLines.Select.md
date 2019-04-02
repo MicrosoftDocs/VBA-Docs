@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Select Method (PowerPoint)
+title: SeriesLines.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesLines.Select Method (PowerPoint)
+# SeriesLines.Select method (PowerPoint)
 
 Selects the object.
 

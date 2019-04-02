@@ -1,5 +1,5 @@
 ---
-title: Chart.SaveChartTemplate Method (PowerPoint)
+title: Chart.SaveChartTemplate method (PowerPoint)
 keywords: vbapp10.chm684008
 f1_keywords:
 - vbapp10.chm684008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.SaveChartTemplate Method (PowerPoint)
+# Chart.SaveChartTemplate method (PowerPoint)
 
 Saves a custom chart template to the list of available chart templates.
 

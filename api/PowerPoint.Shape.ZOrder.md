@@ -1,5 +1,5 @@
 ---
-title: Shape.ZOrder Method (PowerPoint)
+title: Shape.ZOrder method (PowerPoint)
 keywords: vbapp10.chm547014
 f1_keywords:
 - vbapp10.chm547014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ZOrder Method (PowerPoint)
+# Shape.ZOrder method (PowerPoint)
 
 Moves the specified shape in front of or behind other shapes in the collection (that is, changes the shape's position in the z-order).
 

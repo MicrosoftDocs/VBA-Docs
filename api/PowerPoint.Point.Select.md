@@ -1,5 +1,5 @@
 ---
-title: Point.Select Method (PowerPoint)
+title: Point.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Select Method (PowerPoint)
+# Point.Select method (PowerPoint)
 
 Selects the object.
 

@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.GotoClick Method (PowerPoint)
+title: SlideShowView.GotoClick method (PowerPoint)
 keywords: vbapp10.chm513028
 f1_keywords:
 - vbapp10.chm513028
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.GotoClick Method (PowerPoint)
+# SlideShowView.GotoClick method (PowerPoint)
 
 Plays an animation associated with a specified mouse click and any animations that follow on the slide.
 

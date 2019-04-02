@@ -1,5 +1,5 @@
 ---
-title: TextStyles.Item Method (PowerPoint)
+title: TextStyles.Item method (PowerPoint)
 keywords: vbapp10.chm578003
 f1_keywords:
 - vbapp10.chm578003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyles.Item Method (PowerPoint)
+# TextStyles.Item method (PowerPoint)
 
 Returns a single text style from the specified  **[TextStyles](PowerPoint.TextStyles.md)** collection.
 

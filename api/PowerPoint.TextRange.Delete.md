@@ -1,5 +1,5 @@
 ---
-title: TextRange.Delete Method (PowerPoint)
+title: TextRange.Delete method (PowerPoint)
 keywords: vbapp10.chm569029
 f1_keywords:
 - vbapp10.chm569029
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Delete Method (PowerPoint)
+# TextRange.Delete method (PowerPoint)
 
 Deletes the specified  **TextRange** object.
 

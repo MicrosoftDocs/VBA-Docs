@@ -1,5 +1,5 @@
 ---
-title: Application.Activate Method (PowerPoint)
+title: Application.Activate method (PowerPoint)
 keywords: vbapp10.chm502034
 f1_keywords:
 - vbapp10.chm502034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Activate Method (PowerPoint)
+# Application.Activate method (PowerPoint)
 
 Activates the specified object.
 

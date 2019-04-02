@@ -1,5 +1,5 @@
 ---
-title: AnimationBehaviors.Add Method (PowerPoint)
+title: AnimationBehaviors.Add method (PowerPoint)
 keywords: vbapp10.chm656004
 f1_keywords:
 - vbapp10.chm656004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehaviors.Add Method (PowerPoint)
+# AnimationBehaviors.Add method (PowerPoint)
 
 Returns an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object that represents a new animation behavior.
 

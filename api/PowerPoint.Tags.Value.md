@@ -1,5 +1,5 @@
 ---
-title: Tags.Value Method (PowerPoint)
+title: Tags.Value method (PowerPoint)
 keywords: vbapp10.chm611009
 f1_keywords:
 - vbapp10.chm611009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Value Method (PowerPoint)
+# Tags.Value method (PowerPoint)
 
 Returns the value of the specified tag as a  **String**.
 

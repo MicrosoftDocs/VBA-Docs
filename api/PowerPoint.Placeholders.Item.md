@@ -1,5 +1,5 @@
 ---
-title: Placeholders.Item Method (PowerPoint)
+title: Placeholders.Item method (PowerPoint)
 keywords: vbapp10.chm544003
 f1_keywords:
 - vbapp10.chm544003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Placeholders.Item Method (PowerPoint)
+# Placeholders.Item method (PowerPoint)
 
 Returns a single  **Shape** object from the specified **Placeholders** collection.
 

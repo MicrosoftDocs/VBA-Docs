@@ -1,5 +1,5 @@
 ---
-title: Presentation.PublishSlides Method (PowerPoint)
+title: Presentation.PublishSlides method (PowerPoint)
 keywords: vbapp10.chm583108
 f1_keywords:
 - vbapp10.chm583108
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.PublishSlides Method (PowerPoint)
+# Presentation.PublishSlides method (PowerPoint)
 
 Creates a Web presentation (in HTML format) containing slides from any loaded presentation. You can view the published presentation in a Web browser.
 

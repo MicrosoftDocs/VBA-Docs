@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertSlideNumber Method (PowerPoint)
+title: TextRange.InsertSlideNumber method (PowerPoint)
 keywords: vbapp10.chm569021
 f1_keywords:
 - vbapp10.chm569021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InsertSlideNumber Method (PowerPoint)
+# TextRange.InsertSlideNumber method (PowerPoint)
 
 Inserts the slide number of the current slide into the specified text range. Returns a  **TextRange** object that represents the slide number.
 

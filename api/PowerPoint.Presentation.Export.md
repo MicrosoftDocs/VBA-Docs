@@ -1,5 +1,5 @@
 ---
-title: Presentation.Export Method (PowerPoint)
+title: Presentation.Export method (PowerPoint)
 keywords: vbapp10.chm583038
 f1_keywords:
 - vbapp10.chm583038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Export Method (PowerPoint)
+# Presentation.Export method (PowerPoint)
 
 Exports each slide in the presentation, using the specified graphics filter, and saves the exported files in the specified folder.
 

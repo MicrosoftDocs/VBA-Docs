@@ -1,5 +1,5 @@
 ---
-title: SlideRange.ApplyTheme Method (PowerPoint)
+title: SlideRange.ApplyTheme method (PowerPoint)
 keywords: vbapp10.chm532039
 f1_keywords:
 - vbapp10.chm532039
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.ApplyTheme Method (PowerPoint)
+# SlideRange.ApplyTheme method (PowerPoint)
 
 Applies a theme or design template to the specified range of slides.
 

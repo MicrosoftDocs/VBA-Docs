@@ -1,5 +1,5 @@
 ---
-title: Table.ScaleProportionally Method (PowerPoint)
+title: Table.ScaleProportionally method (PowerPoint)
 keywords: vbapp10.chm622016
 f1_keywords:
 - vbapp10.chm622016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.ScaleProportionally Method (PowerPoint)
+# Table.ScaleProportionally method (PowerPoint)
 
 Scales all cell heights and widths, font sizes, and internal margins in the table by a specified proportion.
 

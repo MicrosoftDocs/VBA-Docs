@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.UpgradeMedia Method (PowerPoint)
+title: ShapeRange.UpgradeMedia method (PowerPoint)
 keywords: vbapp10.chm548102
 f1_keywords:
 - vbapp10.chm548102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.UpgradeMedia Method (PowerPoint)
+# ShapeRange.UpgradeMedia method (PowerPoint)
 
 Upgrades media within the specified  **ShapeRange** object.
 

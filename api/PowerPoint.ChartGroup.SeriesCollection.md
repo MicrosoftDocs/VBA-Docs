@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SeriesCollection Method (PowerPoint)
+title: ChartGroup.SeriesCollection method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.SeriesCollection
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.SeriesCollection Method (PowerPoint)
+# ChartGroup.SeriesCollection method (PowerPoint)
 
 Returns all the series in the chart group.
 

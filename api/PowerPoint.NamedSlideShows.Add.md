@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShows.Add Method (PowerPoint)
+title: NamedSlideShows.Add method (PowerPoint)
 keywords: vbapp10.chm515004
 f1_keywords:
 - vbapp10.chm515004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShows.Add Method (PowerPoint)
+# NamedSlideShows.Add method (PowerPoint)
 
 Creates a new named slide show and adds it to the collection of named slide shows in the specified presentation. Returns a  **[NamedSlideShow](PowerPoint.NamedSlideShow.md)** object that represents the new named slide show.
 

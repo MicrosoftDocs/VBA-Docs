@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextEffect Method (PowerPoint)
+title: Shapes.AddTextEffect method (PowerPoint)
 keywords: vbapp10.chm543013
 f1_keywords:
 - vbapp10.chm543013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddTextEffect Method (PowerPoint)
+# Shapes.AddTextEffect method (PowerPoint)
 
 Creates a WordArt object. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new WordArt object.
 

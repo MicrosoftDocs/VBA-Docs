@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyDataLabels Method (PowerPoint)
+title: Series.ApplyDataLabels method (PowerPoint)
 keywords: vbapp10.chm716004
 f1_keywords:
 - vbapp10.chm716004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.ApplyDataLabels Method (PowerPoint)
+# Series.ApplyDataLabels method (PowerPoint)
 
 Applies data labels to a series.
 

@@ -1,5 +1,5 @@
 ---
-title: Comments.Add Method (PowerPoint)
+title: Comments.Add method (PowerPoint)
 keywords: vbapp10.chm641004
 f1_keywords:
 - vbapp10.chm641004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comments.Add Method (PowerPoint)
+# Comments.Add method (PowerPoint)
 
 Returns a  **[Comment](PowerPoint.Comment.md)** object that represents a new comment added to a slide.
 

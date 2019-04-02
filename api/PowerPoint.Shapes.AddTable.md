@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTable Method (PowerPoint)
+title: Shapes.AddTable method (PowerPoint)
 keywords: vbapp10.chm543027
 f1_keywords:
 - vbapp10.chm543027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddTable Method (PowerPoint)
+# Shapes.AddTable method (PowerPoint)
 
 Adds a table shape to a slide.
 

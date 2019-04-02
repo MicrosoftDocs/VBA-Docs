@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowNextSlide Event (PowerPoint)
+title: Application.SlideShowNextSlide event (PowerPoint)
 keywords: vbapp10.chm621013
 f1_keywords:
 - vbapp10.chm621013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideShowNextSlide Event (PowerPoint)
+# Application.SlideShowNextSlide event (PowerPoint)
 
 Occurs immediately before the transition to the next slide. For the first slide, occurs immediately after the  **[SlideShowBegin](PowerPoint.Application.SlideShowBegin.md)** event.
 

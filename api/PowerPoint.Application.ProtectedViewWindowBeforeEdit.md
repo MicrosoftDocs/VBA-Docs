@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowBeforeEdit Event (PowerPoint)
+title: Application.ProtectedViewWindowBeforeEdit event (PowerPoint)
 keywords: vbapp10.chm621027
 f1_keywords:
 - vbapp10.chm621027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowBeforeEdit Event (PowerPoint)
+# Application.ProtectedViewWindowBeforeEdit event (PowerPoint)
 
 Occurs immediately before editing is enabled on the document in the specified protected view window.
 

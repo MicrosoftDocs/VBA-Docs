@@ -1,5 +1,5 @@
 ---
-title: Shape.ApplyAnimation Method (PowerPoint)
+title: Shape.ApplyAnimation method (PowerPoint)
 keywords: vbapp10.chm547091
 f1_keywords:
 - vbapp10.chm547091
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ApplyAnimation Method (PowerPoint)
+# Shape.ApplyAnimation method (PowerPoint)
 
 Applies the last picked up animation to the  **Shape** object.
 

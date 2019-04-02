@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Duplicate Method (PowerPoint)
+title: CustomLayout.Duplicate method (PowerPoint)
 keywords: vbapp10.chm672020
 f1_keywords:
 - vbapp10.chm672020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Duplicate Method (PowerPoint)
+# CustomLayout.Duplicate method (PowerPoint)
 
 Creates a duplicate of the specified custom layout, adds the new custom layout to the  **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection immediately after the original custom layout, and returns a **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents the duplicate layout.
 

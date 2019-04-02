@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Open Method (PowerPoint)
+title: ProtectedViewWindows.Open method (PowerPoint)
 keywords: vbapp10.chm733004
 f1_keywords:
 - vbapp10.chm733004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindows.Open Method (PowerPoint)
+# ProtectedViewWindows.Open method (PowerPoint)
 
 Open and return a  **ProtectedViewWindow** object from the **ProtectedViewWindows** collection.
 

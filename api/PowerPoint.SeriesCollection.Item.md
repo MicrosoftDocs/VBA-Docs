@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Item Method (PowerPoint)
+title: SeriesCollection.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesCollection.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection.Item Method (PowerPoint)
+# SeriesCollection.Item method (PowerPoint)
 
 Returns a single object from a collection.
 

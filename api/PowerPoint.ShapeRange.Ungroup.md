@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Ungroup Method (PowerPoint)
+title: ShapeRange.Ungroup method (PowerPoint)
 keywords: vbapp10.chm548013
 f1_keywords:
 - vbapp10.chm548013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Ungroup Method (PowerPoint)
+# ShapeRange.Ungroup method (PowerPoint)
 
 Ungroups any grouped shapes in the specified shape or range of shapes. Disassembles pictures and OLE objects within the specified shape or range of shapes. Returns the ungrouped shapes as a single  **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 

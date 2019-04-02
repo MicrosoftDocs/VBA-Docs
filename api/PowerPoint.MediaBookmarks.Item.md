@@ -1,5 +1,5 @@
 ---
-title: MediaBookmarks.Item Method (PowerPoint)
+title: MediaBookmarks.Item method (PowerPoint)
 keywords: vbapp10.chm730001
 f1_keywords:
 - vbapp10.chm730001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaBookmarks.Item Method (PowerPoint)
+# MediaBookmarks.Item method (PowerPoint)
 
 Returns the specified  **MediaBookmark**.
 

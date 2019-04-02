@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Close Method (PowerPoint)
+title: ProtectedViewWindow.Close method (PowerPoint)
 keywords: vbapp10.chm734014
 f1_keywords:
 - vbapp10.chm734014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Close Method (PowerPoint)
+# ProtectedViewWindow.Close method (PowerPoint)
 
 Closes the specified window.
 

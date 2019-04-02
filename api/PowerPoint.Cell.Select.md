@@ -1,5 +1,5 @@
 ---
-title: Cell.Select Method (PowerPoint)
+title: Cell.Select method (PowerPoint)
 keywords: vbapp10.chm628007
 f1_keywords:
 - vbapp10.chm628007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Select Method (PowerPoint)
+# Cell.Select method (PowerPoint)
 
 Selects the specified object.
 

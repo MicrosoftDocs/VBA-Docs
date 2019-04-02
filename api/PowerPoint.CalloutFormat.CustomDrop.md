@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.CustomDrop Method (PowerPoint)
+title: CalloutFormat.CustomDrop method (PowerPoint)
 keywords: vbapp10.chm559003
 f1_keywords:
 - vbapp10.chm559003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.CustomDrop Method (PowerPoint)
+# CalloutFormat.CustomDrop method (PowerPoint)
 
 Sets the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. This distance is measured from the top of the text box unless the  **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (the place that the callout points to). In this case the drop distance is measured from the bottom of the text box.
 

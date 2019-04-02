@@ -1,5 +1,5 @@
 ---
-title: Tags.Item Method (PowerPoint)
+title: Tags.Item method (PowerPoint)
 keywords: vbapp10.chm611003
 f1_keywords:
 - vbapp10.chm611003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Item Method (PowerPoint)
+# Tags.Item method (PowerPoint)
 
 Returns a single tag from the specified  **[Tags](PowerPoint.Tags.md)** collection.
 

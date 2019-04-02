@@ -1,5 +1,5 @@
 ---
-title: TabStops.Add Method (PowerPoint)
+title: TabStops.Add method (PowerPoint)
 keywords: vbapp10.chm573005
 f1_keywords:
 - vbapp10.chm573005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStops.Add Method (PowerPoint)
+# TabStops.Add method (PowerPoint)
 
 Creates a tab stop and adds it to the  **TabStops** collection.
 

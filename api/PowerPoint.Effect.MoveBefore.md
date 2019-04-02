@@ -1,5 +1,5 @@
 ---
-title: Effect.MoveBefore Method (PowerPoint)
+title: Effect.MoveBefore method (PowerPoint)
 keywords: vbapp10.chm652005
 f1_keywords:
 - vbapp10.chm652005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.MoveBefore Method (PowerPoint)
+# Effect.MoveBefore method (PowerPoint)
 
 Moves one animation effect to before another animation effect.
 

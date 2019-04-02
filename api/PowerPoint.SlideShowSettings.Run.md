@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.Run Method (PowerPoint)
+title: SlideShowSettings.Run method (PowerPoint)
 keywords: vbapp10.chm514008
 f1_keywords:
 - vbapp10.chm514008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.Run Method (PowerPoint)
+# SlideShowSettings.Run method (PowerPoint)
 
 Runs a slide show of the specified presentation. Returns a  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object.
 

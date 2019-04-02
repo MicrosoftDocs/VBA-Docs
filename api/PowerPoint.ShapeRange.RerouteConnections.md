@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RerouteConnections Method (PowerPoint)
+title: ShapeRange.RerouteConnections method (PowerPoint)
 keywords: vbapp10.chm548009
 f1_keywords:
 - vbapp10.chm548009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.RerouteConnections Method (PowerPoint)
+# ShapeRange.RerouteConnections method (PowerPoint)
 
 Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the  **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
 

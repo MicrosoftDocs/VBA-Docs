@@ -1,5 +1,5 @@
 ---
-title: DataTable.Delete Method (PowerPoint)
+title: DataTable.Delete method (PowerPoint)
 keywords: vbapp10.chm698008
 f1_keywords:
 - vbapp10.chm698008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataTable.Delete Method (PowerPoint)
+# DataTable.Delete method (PowerPoint)
 
 Deletes the object.
 

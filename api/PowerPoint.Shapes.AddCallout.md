@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCallout Method (PowerPoint)
+title: Shapes.AddCallout method (PowerPoint)
 keywords: vbapp10.chm543005
 f1_keywords:
 - vbapp10.chm543005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddCallout Method (PowerPoint)
+# Shapes.AddCallout method (PowerPoint)
 
 Creates a borderless line callout. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new callout.
 

@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.Delete Method (PowerPoint)
+title: AnimationBehavior.Delete method (PowerPoint)
 keywords: vbapp10.chm657012
 f1_keywords:
 - vbapp10.chm657012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.Delete Method (PowerPoint)
+# AnimationBehavior.Delete method (PowerPoint)
 
 Deletes the specified  **AnimationBehavior** object.
 

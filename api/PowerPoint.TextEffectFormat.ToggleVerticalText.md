@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.ToggleVerticalText Method (PowerPoint)
+title: TextEffectFormat.ToggleVerticalText method (PowerPoint)
 keywords: vbapp10.chm556002
 f1_keywords:
 - vbapp10.chm556002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.ToggleVerticalText Method (PowerPoint)
+# TextEffectFormat.ToggleVerticalText method (PowerPoint)
 
 Switches the text flow in the specified WordArt from horizontal to vertical, or vice versa.
 

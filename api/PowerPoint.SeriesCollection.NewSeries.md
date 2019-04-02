@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.NewSeries Method (PowerPoint)
+title: SeriesCollection.NewSeries method (PowerPoint)
 keywords: vbapp10.chm66653
 f1_keywords:
 - vbapp10.chm66653
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection.NewSeries Method (PowerPoint)
+# SeriesCollection.NewSeries method (PowerPoint)
 
 Creates a new series.
 

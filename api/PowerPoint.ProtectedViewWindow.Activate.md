@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Activate Method (PowerPoint)
+title: ProtectedViewWindow.Activate method (PowerPoint)
 keywords: vbapp10.chm734013
 f1_keywords:
 - vbapp10.chm734013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Activate Method (PowerPoint)
+# ProtectedViewWindow.Activate method (PowerPoint)
 
 Activates the specified window.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.SaveAs Method (PowerPoint)
+title: Presentation.SaveAs method (PowerPoint)
 keywords: vbapp10.chm583036
 f1_keywords:
 - vbapp10.chm583036
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
-# Presentation.SaveAs Method (PowerPoint)
+# Presentation.SaveAs method (PowerPoint)
 
 Saves a presentation that's never been saved, or saves a previously saved presentation under a different name.
 

@@ -1,5 +1,5 @@
 ---
-title: Placeholders.FindByName Method (PowerPoint)
+title: Placeholders.FindByName method (PowerPoint)
 keywords: vbapp10.chm544004
 f1_keywords:
 - vbapp10.chm544004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Placeholders.FindByName Method (PowerPoint)
+# Placeholders.FindByName method (PowerPoint)
 
 Finds the placeholder in the  **[Placeholders](PowerPoint.Placeholders.md)** collection at the specified index location or with the specified name.
 

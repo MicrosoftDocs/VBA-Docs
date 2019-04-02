@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Pause Method (PowerPoint)
+title: Broadcast.Pause method (PowerPoint)
 keywords: vbapp10.chm732007
 f1_keywords:
 - vbapp10.chm732007
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.Pause Method (PowerPoint)
+# Broadcast.Pause method (PowerPoint)
 
 Pauses the specified broadcast.
 

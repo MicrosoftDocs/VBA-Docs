@@ -1,5 +1,5 @@
 ---
-title: Slides.Range Method (PowerPoint)
+title: Slides.Range method (PowerPoint)
 keywords: vbapp10.chm530007
 f1_keywords:
 - vbapp10.chm530007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slides.Range Method (PowerPoint)
+# Slides.Range method (PowerPoint)
 
 Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents a subset of the slides in a **[Slides](PowerPoint.Slides.md)** collection.
 

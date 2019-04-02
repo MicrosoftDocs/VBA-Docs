@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ApplyAnimation Method (PowerPoint)
+title: ShapeRange.ApplyAnimation method (PowerPoint)
 keywords: vbapp10.chm548101
 f1_keywords:
 - vbapp10.chm548101
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ApplyAnimation Method (PowerPoint)
+# ShapeRange.ApplyAnimation method (PowerPoint)
 
 Applies animation to a  **ShapeRange** object.
 

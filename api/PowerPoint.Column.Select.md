@@ -1,5 +1,5 @@
 ---
-title: Column.Select Method (PowerPoint)
+title: Column.Select method (PowerPoint)
 keywords: vbapp10.chm624004
 f1_keywords:
 - vbapp10.chm624004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Select Method (PowerPoint)
+# Column.Select method (PowerPoint)
 
 Selects the specified object.
 

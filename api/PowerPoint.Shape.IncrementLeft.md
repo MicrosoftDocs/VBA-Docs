@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementLeft Method (PowerPoint)
+title: Shape.IncrementLeft method (PowerPoint)
 keywords: vbapp10.chm547005
 f1_keywords:
 - vbapp10.chm547005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.IncrementLeft Method (PowerPoint)
+# Shape.IncrementLeft method (PowerPoint)
 
 Moves the specified shape horizontally by the specified number of points.
 

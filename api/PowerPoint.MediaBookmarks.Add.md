@@ -1,5 +1,5 @@
 ---
-title: MediaBookmarks.Add Method (PowerPoint)
+title: MediaBookmarks.Add method (PowerPoint)
 keywords: vbapp10.chm730002
 f1_keywords:
 - vbapp10.chm730002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaBookmarks.Add Method (PowerPoint)
+# MediaBookmarks.Add method (PowerPoint)
 
 Adds a new  **MediaBookmark** at the specified time and using the specified name.
 

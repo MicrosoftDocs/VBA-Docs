@@ -1,5 +1,5 @@
 ---
-title: Sequences.Item Method (PowerPoint)
+title: Sequences.Item method (PowerPoint)
 keywords: vbapp10.chm650003
 f1_keywords:
 - vbapp10.chm650003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequences.Item Method (PowerPoint)
+# Sequences.Item method (PowerPoint)
 
 Returns a single  **Sequence** object from the specified **Sequences** collection.
 

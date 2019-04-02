@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementTop Method (PowerPoint)
+title: ShapeRange.IncrementTop method (PowerPoint)
 keywords: vbapp10.chm548007
 f1_keywords:
 - vbapp10.chm548007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.IncrementTop Method (PowerPoint)
+# ShapeRange.IncrementTop method (PowerPoint)
 
 Moves the specified shape range vertically by the specified number of points.
 

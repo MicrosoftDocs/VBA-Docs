@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivate Event (PowerPoint)
+title: Application.WindowActivate event (PowerPoint)
 keywords: vbapp10.chm621009
 f1_keywords:
 - vbapp10.chm621009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowActivate Event (PowerPoint)
+# Application.WindowActivate event (PowerPoint)
 
 Occurs when the application window or any document window is activated.
 

@@ -1,5 +1,5 @@
 ---
-title: CellRange.Item Method (PowerPoint)
+title: CellRange.Item method (PowerPoint)
 keywords: vbapp10.chm627003
 f1_keywords:
 - vbapp10.chm627003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Item Method (PowerPoint)
+# CellRange.Item method (PowerPoint)
 
 Returns a single  **Cell** object from the specified **CellRange** collection.
 

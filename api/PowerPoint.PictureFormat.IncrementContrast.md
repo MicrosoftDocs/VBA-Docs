@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementContrast Method (PowerPoint)
+title: PictureFormat.IncrementContrast method (PowerPoint)
 keywords: vbapp10.chm551003
 f1_keywords:
 - vbapp10.chm551003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IncrementContrast Method (PowerPoint)
+# PictureFormat.IncrementContrast method (PowerPoint)
 
 Changes the contrast of the picture by the specified amount. 
 

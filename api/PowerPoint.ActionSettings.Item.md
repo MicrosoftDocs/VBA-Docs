@@ -1,5 +1,5 @@
 ---
-title: ActionSettings.Item Method (PowerPoint)
+title: ActionSettings.Item method (PowerPoint)
 keywords: vbapp10.chm566003
 f1_keywords:
 - vbapp10.chm566003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ActionSettings.Item Method (PowerPoint)
+# ActionSettings.Item method (PowerPoint)
 
 Returns a single action setting from the specified  **ActionSettings** collection.
 

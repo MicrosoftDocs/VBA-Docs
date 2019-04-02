@@ -1,5 +1,5 @@
 ---
-title: Presentation.RejectAll Method (PowerPoint)
+title: Presentation.RejectAll method (PowerPoint)
 keywords: vbapp10.chm583116
 f1_keywords:
 - vbapp10.chm583116
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.RejectAll Method (PowerPoint)
+# Presentation.RejectAll method (PowerPoint)
 
 Rejects all changes.
 

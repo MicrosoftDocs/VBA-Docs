@@ -1,5 +1,5 @@
 ---
-title: TextRange.Paragraphs Method (PowerPoint)
+title: TextRange.Paragraphs method (PowerPoint)
 keywords: vbapp10.chm569010
 f1_keywords:
 - vbapp10.chm569010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Paragraphs Method (PowerPoint)
+# TextRange.Paragraphs method (PowerPoint)
 
 Returns a  **TextRange** object that represents the specified subset of text paragraphs.
 

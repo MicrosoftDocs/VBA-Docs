@@ -1,5 +1,5 @@
 ---
-title: Pane.Activate Method (PowerPoint)
+title: Pane.Activate method (PowerPoint)
 keywords: vbapp10.chm631002
 f1_keywords:
 - vbapp10.chm631002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pane.Activate Method (PowerPoint)
+# Pane.Activate method (PowerPoint)
 
 Activates the specified object.
 

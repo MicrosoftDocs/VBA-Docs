@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Delete Method (PowerPoint)
+title: TickLabels.Delete method (PowerPoint)
 keywords: vbapp10.chm719002
 f1_keywords:
 - vbapp10.chm719002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Delete Method (PowerPoint)
+# TickLabels.Delete method (PowerPoint)
 
 Deletes the object.
 

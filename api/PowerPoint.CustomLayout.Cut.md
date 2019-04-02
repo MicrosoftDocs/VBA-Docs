@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Cut Method (PowerPoint)
+title: CustomLayout.Cut method (PowerPoint)
 keywords: vbapp10.chm672018
 f1_keywords:
 - vbapp10.chm672018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Cut Method (PowerPoint)
+# CustomLayout.Cut method (PowerPoint)
 
 Deletes the specified object and places it on the Clipboard.
 

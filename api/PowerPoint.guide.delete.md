@@ -1,5 +1,5 @@
 ---
-title: Guide.Delete Method (PowerPoint)
+title: Guide.Delete method (PowerPoint)
 keywords: vbapp10.chm743003
 f1_keywords:
 - vbapp10.chm743003
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Guide.Delete Method (PowerPoint)
+# Guide.Delete method (PowerPoint)
 
 Removes the drawing guide from the presentation or custom layout.
 

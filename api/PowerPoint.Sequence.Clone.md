@@ -1,5 +1,5 @@
 ---
-title: Sequence.Clone Method (PowerPoint)
+title: Sequence.Clone method (PowerPoint)
 keywords: vbapp10.chm651005
 f1_keywords:
 - vbapp10.chm651005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequence.Clone Method (PowerPoint)
+# Sequence.Clone method (PowerPoint)
 
 Creates a copy of an  **[Effect](PowerPoint.Effect.md)** object, and adds it to the **[Sequences](PowerPoint.Sequences.md)** collection at the specified index position.
 

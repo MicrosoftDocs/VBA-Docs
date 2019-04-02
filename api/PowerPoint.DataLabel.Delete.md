@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Delete Method (PowerPoint)
+title: DataLabel.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Delete Method (PowerPoint)
+# DataLabel.Delete method (PowerPoint)
 
 Deletes the object.
 

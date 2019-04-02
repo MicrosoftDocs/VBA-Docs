@@ -1,5 +1,5 @@
 ---
-title: Broadcast.End Method (PowerPoint)
+title: Broadcast.End method (PowerPoint)
 keywords: vbapp10.chm732004
 f1_keywords:
 - vbapp10.chm732004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.End Method (PowerPoint)
+# Broadcast.End method (PowerPoint)
 
 Elevates to the system to delete the document from the Broadcast Documents library. 
 

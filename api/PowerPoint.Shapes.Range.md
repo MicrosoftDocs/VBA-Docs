@@ -1,5 +1,5 @@
 ---
-title: Shapes.Range Method (PowerPoint)
+title: Shapes.Range method (PowerPoint)
 keywords: vbapp10.chm543017
 f1_keywords:
 - vbapp10.chm543017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Range Method (PowerPoint)
+# Shapes.Range method (PowerPoint)
 
 Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents a subset of the shapes in a **[Shapes](PowerPoint.Shapes.md)** collection.
 

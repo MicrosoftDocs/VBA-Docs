@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Last Method (PowerPoint)
+title: SlideShowView.Last method (PowerPoint)
 keywords: vbapp10.chm513018
 f1_keywords:
 - vbapp10.chm513018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.Last Method (PowerPoint)
+# SlideShowView.Last method (PowerPoint)
 
 Sets the specified slide show view to display the last slide in the presentation.
 

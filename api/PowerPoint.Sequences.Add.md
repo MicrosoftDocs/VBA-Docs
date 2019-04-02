@@ -1,5 +1,5 @@
 ---
-title: Sequences.Add Method (PowerPoint)
+title: Sequences.Add method (PowerPoint)
 keywords: vbapp10.chm650004
 f1_keywords:
 - vbapp10.chm650004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequences.Add Method (PowerPoint)
+# Sequences.Add method (PowerPoint)
 
 Returns a  **[Sequence](PowerPoint.Sequence.md)** object that represents a new sequence.
 

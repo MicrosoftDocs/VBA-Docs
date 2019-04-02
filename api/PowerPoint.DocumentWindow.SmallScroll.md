@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.SmallScroll Method (PowerPoint)
+title: DocumentWindow.SmallScroll method (PowerPoint)
 keywords: vbapp10.chm511018
 f1_keywords:
 - vbapp10.chm511018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.SmallScroll Method (PowerPoint)
+# DocumentWindow.SmallScroll method (PowerPoint)
 
 Scrolls through the specified document window by lines and columns.
 

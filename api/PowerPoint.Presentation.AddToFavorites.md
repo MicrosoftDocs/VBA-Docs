@@ -1,5 +1,5 @@
 ---
-title: Presentation.AddToFavorites Method (PowerPoint)
+title: Presentation.AddToFavorites method (PowerPoint)
 keywords: vbapp10.chm583031
 f1_keywords:
 - vbapp10.chm583031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.AddToFavorites Method (PowerPoint)
+# Presentation.AddToFavorites method (PowerPoint)
 
 Adds a shortcut that represents the current selection in the specified presentation to the Windows Favorites folder.
 

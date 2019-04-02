@@ -1,5 +1,5 @@
 ---
-title: SoundEffect.ImportFromFile Method (PowerPoint)
+title: SoundEffect.ImportFromFile method (PowerPoint)
 keywords: vbapp10.chm540005
 f1_keywords:
 - vbapp10.chm540005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SoundEffect.ImportFromFile Method (PowerPoint)
+# SoundEffect.ImportFromFile method (PowerPoint)
 
 Specifies the sound that will be played whenever the specified shape is clicked or animated or whenever the specified slide transition occurs.
 

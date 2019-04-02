@@ -1,5 +1,5 @@
 ---
-title: RulerLevels.Item Method (PowerPoint)
+title: RulerLevels.Item method (PowerPoint)
 keywords: vbapp10.chm571003
 f1_keywords:
 - vbapp10.chm571003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RulerLevels.Item Method (PowerPoint)
+# RulerLevels.Item method (PowerPoint)
 
 Returns a single  **RulerLevel** object from the specified **RulerLevels** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Resume Method (PowerPoint)
+title: Broadcast.Resume method (PowerPoint)
 keywords: vbapp10.chm732008
 f1_keywords:
 - vbapp10.chm732008
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.Resume Method (PowerPoint)
+# Broadcast.Resume method (PowerPoint)
 
 Resumes the specified broadcast.
 

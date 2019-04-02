@@ -1,5 +1,5 @@
 ---
-title: PrintRange.Delete Method (PowerPoint)
+title: PrintRange.Delete method (PowerPoint)
 keywords: vbapp10.chm519005
 f1_keywords:
 - vbapp10.chm519005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintRange.Delete Method (PowerPoint)
+# PrintRange.Delete method (PowerPoint)
 
 Deletes the specified  **PrintRange** object.
 

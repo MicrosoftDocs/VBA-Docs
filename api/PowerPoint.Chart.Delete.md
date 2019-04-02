@@ -1,5 +1,5 @@
 ---
-title: Chart.Delete Method (PowerPoint)
+title: Chart.Delete method (PowerPoint)
 keywords: vbapp10.chm684024
 f1_keywords:
 - vbapp10.chm684024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Delete Method (PowerPoint)
+# Chart.Delete method (PowerPoint)
 
 Deletes the object.
 

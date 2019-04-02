@@ -1,5 +1,5 @@
 ---
-title: FileConverters.Item Method (PowerPoint)
+title: FileConverters.Item method (PowerPoint)
 keywords: vbapp10.chm679001
 f1_keywords:
 - vbapp10.chm679001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FileConverters.Item Method (PowerPoint)
+# FileConverters.Item method (PowerPoint)
 
 Returns an individual  **FileConverter** object in a collection.
 

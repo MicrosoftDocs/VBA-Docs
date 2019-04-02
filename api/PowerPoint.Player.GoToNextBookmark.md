@@ -1,5 +1,5 @@
 ---
-title: Player.GoToNextBookmark Method (PowerPoint)
+title: Player.GoToNextBookmark method (PowerPoint)
 keywords: vbapp10.chm726006
 f1_keywords:
 - vbapp10.chm726006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Player.GoToNextBookmark Method (PowerPoint)
+# Player.GoToNextBookmark method (PowerPoint)
 
 Goes to the next bookmark.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.FitToPage Method (PowerPoint)
+title: DocumentWindow.FitToPage method (PowerPoint)
 keywords: vbapp10.chm511015
 f1_keywords:
 - vbapp10.chm511015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.FitToPage Method (PowerPoint)
+# DocumentWindow.FitToPage method (PowerPoint)
 
 Adjusts the size of the specified document window to accommodate the information that's currently displayed.
 

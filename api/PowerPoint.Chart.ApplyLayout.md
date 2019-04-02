@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyLayout Method (PowerPoint)
+title: Chart.ApplyLayout method (PowerPoint)
 keywords: vbapp10.chm68004
 f1_keywords:
 - vbapp10.chm68004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ApplyLayout Method (PowerPoint)
+# Chart.ApplyLayout method (PowerPoint)
 
 Applies the layouts shown in the Ribbon.
 

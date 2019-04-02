@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Add Method (PowerPoint)
+title: Trendlines.Add method (PowerPoint)
 keywords: vbapp10.chm65717
 f1_keywords:
 - vbapp10.chm65717
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Trendlines.Add Method (PowerPoint)
+# Trendlines.Add method (PowerPoint)
 
 Creates a new trendline.
 

@@ -1,5 +1,5 @@
 ---
-title: View.PasteSpecial Method (PowerPoint)
+title: View.PasteSpecial method (PowerPoint)
 keywords: vbapp10.chm512010
 f1_keywords:
 - vbapp10.chm512010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.PasteSpecial Method (PowerPoint)
+# View.PasteSpecial method (PowerPoint)
 
 Pastes the current contents of the Clipboard into the view represented by the  **View** object.
 

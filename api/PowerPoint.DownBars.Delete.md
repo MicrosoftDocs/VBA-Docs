@@ -1,5 +1,5 @@
 ---
-title: DownBars.Delete Method (PowerPoint)
+title: DownBars.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DownBars.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DownBars.Delete Method (PowerPoint)
+# DownBars.Delete method (PowerPoint)
 
 Deletes the object.
 

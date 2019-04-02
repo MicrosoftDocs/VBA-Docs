@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Delete Method (PowerPoint)
+title: Gridlines.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Gridlines.Delete Method (PowerPoint)
+# Gridlines.Delete method (PowerPoint)
 
 Deletes the object.
 

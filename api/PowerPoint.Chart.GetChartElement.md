@@ -1,5 +1,5 @@
 ---
-title: Chart.GetChartElement Method (PowerPoint)
+title: Chart.GetChartElement method (PowerPoint)
 keywords: vbapp10.chm66945
 f1_keywords:
 - vbapp10.chm66945
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.GetChartElement Method (PowerPoint)
+# Chart.GetChartElement method (PowerPoint)
 
 Returns information about the chart element at the specified x-coordinate and y-coordinate. 
 

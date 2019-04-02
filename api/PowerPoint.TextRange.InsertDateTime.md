@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertDateTime Method (PowerPoint)
+title: TextRange.InsertDateTime method (PowerPoint)
 keywords: vbapp10.chm569020
 f1_keywords:
 - vbapp10.chm569020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InsertDateTime Method (PowerPoint)
+# TextRange.InsertDateTime method (PowerPoint)
 
 Inserts the date and time in the specified text range. Returns a  **TextRange** object that represents the inserted text.
 

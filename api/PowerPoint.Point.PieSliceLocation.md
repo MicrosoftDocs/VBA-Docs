@@ -1,5 +1,5 @@
 ---
-title: Point.PieSliceLocation Method (PowerPoint)
+title: Point.PieSliceLocation method (PowerPoint)
 keywords: vbapp10.chm714011
 f1_keywords:
 - vbapp10.chm714011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point.PieSliceLocation Method (PowerPoint)
+# Point.PieSliceLocation method (PowerPoint)
 
 Returns the vertical or horizontal position, in points, of a point on a chart item from the top or left edge of the object to the top or left edge of the chart area.
 

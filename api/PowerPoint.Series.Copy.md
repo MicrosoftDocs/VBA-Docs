@@ -1,5 +1,5 @@
 ---
-title: Series.Copy Method (PowerPoint)
+title: Series.Copy method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Copy
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.Copy Method (PowerPoint)
+# Series.Copy method (PowerPoint)
 
 If the series has a picture fill, copies the picture to the Clipboard.
 

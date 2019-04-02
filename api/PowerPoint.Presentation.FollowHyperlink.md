@@ -1,5 +1,5 @@
 ---
-title: Presentation.FollowHyperlink Method (PowerPoint)
+title: Presentation.FollowHyperlink method (PowerPoint)
 keywords: vbapp10.chm583030
 f1_keywords:
 - vbapp10.chm583030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.FollowHyperlink Method (PowerPoint)
+# Presentation.FollowHyperlink method (PowerPoint)
 
 Displays a cached document, if it has already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document and displays it in the appropriate application.
 

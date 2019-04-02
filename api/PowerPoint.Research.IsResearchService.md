@@ -1,5 +1,5 @@
 ---
-title: Research.IsResearchService Method (PowerPoint)
+title: Research.IsResearchService method (PowerPoint)
 keywords: vbapp10.chm676005
 f1_keywords:
 - vbapp10.chm676005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Research.IsResearchService Method (PowerPoint)
+# Research.IsResearchService method (PowerPoint)
 
 Indicates whether the GUID specified in the  _ServiceID_ parameter corresponds to a currently configured research service.
 

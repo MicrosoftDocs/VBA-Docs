@@ -1,5 +1,5 @@
 ---
-title: Presentation.EnsureAllMediaUpgraded Method (PowerPoint)
+title: Presentation.EnsureAllMediaUpgraded method (PowerPoint)
 keywords: vbapp10.chm583117
 f1_keywords:
 - vbapp10.chm583117
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.EnsureAllMediaUpgraded Method (PowerPoint)
+# Presentation.EnsureAllMediaUpgraded method (PowerPoint)
 
 Ensures that all media is up to date in a  **Presentation** object.
 

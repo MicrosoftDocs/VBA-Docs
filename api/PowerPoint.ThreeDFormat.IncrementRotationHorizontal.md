@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationHorizontal Method (PowerPoint)
+title: ThreeDFormat.IncrementRotationHorizontal method (PowerPoint)
 keywords: vbapp10.chm557021
 f1_keywords:
 - vbapp10.chm557021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationHorizontal Method (PowerPoint)
+# ThreeDFormat.IncrementRotationHorizontal method (PowerPoint)
 
 Rotates the  **ThreeDFormat** object along the horizontal axis by the specified number of degrees.
 

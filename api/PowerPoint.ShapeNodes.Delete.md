@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Delete Method (PowerPoint)
+title: ShapeNodes.Delete method (PowerPoint)
 keywords: vbapp10.chm560005
 f1_keywords:
 - vbapp10.chm560005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.Delete Method (PowerPoint)
+# ShapeNodes.Delete method (PowerPoint)
 
 Deletes a shape node.
 

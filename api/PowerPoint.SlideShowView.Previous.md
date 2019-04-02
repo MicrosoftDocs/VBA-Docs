@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Previous Method (PowerPoint)
+title: SlideShowView.Previous method (PowerPoint)
 keywords: vbapp10.chm513020
 f1_keywords:
 - vbapp10.chm513020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.Previous Method (PowerPoint)
+# SlideShowView.Previous method (PowerPoint)
 
 Shows the slide immediately preceding the slide that's currently displayed. 
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.SetSourceData Method (PowerPoint)
+title: Chart.SetSourceData method (PowerPoint)
 keywords: vbapp10.chm66949
 f1_keywords:
 - vbapp10.chm66949
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.SetSourceData Method (PowerPoint)
+# Chart.SetSourceData method (PowerPoint)
 
 Sets the source data range for the chart.
 

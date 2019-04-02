@@ -1,5 +1,5 @@
 ---
-title: TextRange.RemovePeriods Method (PowerPoint)
+title: TextRange.RemovePeriods method (PowerPoint)
 keywords: vbapp10.chm569033
 f1_keywords:
 - vbapp10.chm569033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.RemovePeriods Method (PowerPoint)
+# TextRange.RemovePeriods method (PowerPoint)
 
 Removes the period at the end of each paragraph in the specified text.
 

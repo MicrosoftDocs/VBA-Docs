@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Update Method (PowerPoint)
+title: LinkFormat.Update method (PowerPoint)
 keywords: vbapp10.chm563005
 f1_keywords:
 - vbapp10.chm563005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LinkFormat.Update Method (PowerPoint)
+# LinkFormat.Update method (PowerPoint)
 
 Updates the specified linked OLE object. 
 

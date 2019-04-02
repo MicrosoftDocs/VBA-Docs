@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetPresetCamera Method (PowerPoint)
+title: ThreeDFormat.SetPresetCamera method (PowerPoint)
 keywords: vbapp10.chm557019
 f1_keywords:
 - vbapp10.chm557019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetPresetCamera Method (PowerPoint)
+# ThreeDFormat.SetPresetCamera method (PowerPoint)
 
 Specifies the effects camera type and rotation to use for the specified  **ThreeDFormat** object.
 

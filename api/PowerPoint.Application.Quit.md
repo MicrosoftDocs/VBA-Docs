@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Method (PowerPoint)
+title: Application.Quit method (PowerPoint)
 keywords: vbapp10.chm502022
 f1_keywords:
 - vbapp10.chm502022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Quit Method (PowerPoint)
+# Application.Quit method (PowerPoint)
 
 Quits Microsoft PowerPoint. This is equivalent to clicking the  **Office** button and then clicking **Exit PowerPoint**.
 

@@ -1,5 +1,5 @@
 ---
-title: PlotArea.ClearFormats Method (PowerPoint)
+title: PlotArea.ClearFormats method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.ClearFormats
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.ClearFormats Method (PowerPoint)
+# PlotArea.ClearFormats method (PowerPoint)
 
 Clears the formatting of the object.
 

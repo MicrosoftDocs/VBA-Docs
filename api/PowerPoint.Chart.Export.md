@@ -1,5 +1,5 @@
 ---
-title: Chart.Export Method (PowerPoint)
+title: Chart.Export method (PowerPoint)
 keywords: vbapp10.chm684028
 f1_keywords:
 - vbapp10.chm684028
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Export Method (PowerPoint)
+# Chart.Export method (PowerPoint)
 
 Exports the chart in a graphic format.
 

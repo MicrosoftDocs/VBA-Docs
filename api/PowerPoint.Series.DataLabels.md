@@ -1,5 +1,5 @@
 ---
-title: Series.DataLabels Method (PowerPoint)
+title: Series.DataLabels method (PowerPoint)
 keywords: vbapp10.chm65693
 f1_keywords:
 - vbapp10.chm65693
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.DataLabels Method (PowerPoint)
+# Series.DataLabels method (PowerPoint)
 
 Returns an object that represents either a single data label (a  **[DataLabel](PowerPoint.DataLabel.md)** object) or a collection of all the data labels for the series (a **[DataLabels](PowerPoint.DataLabels.md)** collection).
 

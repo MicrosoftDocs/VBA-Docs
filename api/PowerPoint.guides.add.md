@@ -1,5 +1,5 @@
 ---
-title: Guides.Add Method (PowerPoint)
+title: Guides.Add method (PowerPoint)
 keywords: vbapp10.chm742004
 f1_keywords:
 - vbapp10.chm742004
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Guides.Add Method (PowerPoint)
+# Guides.Add method (PowerPoint)
 
 Adds a new drawing guide to the presentation, slide master, or custom layout.
 

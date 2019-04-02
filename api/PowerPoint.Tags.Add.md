@@ -1,5 +1,5 @@
 ---
-title: Tags.Add Method (PowerPoint)
+title: Tags.Add method (PowerPoint)
 keywords: vbapp10.chm611004
 f1_keywords:
 - vbapp10.chm611004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Add Method (PowerPoint)
+# Tags.Add method (PowerPoint)
 
 Adds a tag to the  **[Tags](PowerPoint.Tags.md)** collection of an object.
 

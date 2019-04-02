@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Copy Method (PowerPoint)
+title: CustomLayout.Copy method (PowerPoint)
 keywords: vbapp10.chm672019
 f1_keywords:
 - vbapp10.chm672019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Copy Method (PowerPoint)
+# CustomLayout.Copy method (PowerPoint)
 
 Copies the specified object to the Clipboard.
 

@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Item Method (PowerPoint)
+title: Trendlines.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendlines.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Trendlines.Item Method (PowerPoint)
+# Trendlines.Item method (PowerPoint)
 
 Returns a single object from a collection.
 

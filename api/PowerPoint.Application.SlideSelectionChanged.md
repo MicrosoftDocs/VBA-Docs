@@ -1,5 +1,5 @@
 ---
-title: Application.SlideSelectionChanged Event (PowerPoint)
+title: Application.SlideSelectionChanged event (PowerPoint)
 keywords: vbapp10.chm621016
 f1_keywords:
 - vbapp10.chm621016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideSelectionChanged Event (PowerPoint)
+# Application.SlideSelectionChanged event (PowerPoint)
 
 Occurs at different times depending on the current view.
 

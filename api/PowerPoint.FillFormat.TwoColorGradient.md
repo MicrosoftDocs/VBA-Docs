@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TwoColorGradient Method (PowerPoint)
+title: FillFormat.TwoColorGradient method (PowerPoint)
 keywords: vbapp10.chm552008
 f1_keywords:
 - vbapp10.chm552008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TwoColorGradient Method (PowerPoint)
+# FillFormat.TwoColorGradient method (PowerPoint)
 
 Sets the specified fill to a two-color gradient.
 

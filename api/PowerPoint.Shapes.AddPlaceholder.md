@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddPlaceholder Method (PowerPoint)
+title: Shapes.AddPlaceholder method (PowerPoint)
 keywords: vbapp10.chm543024
 f1_keywords:
 - vbapp10.chm543024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddPlaceholder Method (PowerPoint)
+# Shapes.AddPlaceholder method (PowerPoint)
 
 Restores a previously deleted placeholder on a slide. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the restored placeholder.
 

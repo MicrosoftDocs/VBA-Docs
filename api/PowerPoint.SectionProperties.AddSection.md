@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.AddSection Method (PowerPoint)
+title: SectionProperties.AddSection method (PowerPoint)
 keywords: vbapp10.chm725009
 f1_keywords:
 - vbapp10.chm725009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.AddSection Method (PowerPoint)
+# SectionProperties.AddSection method (PowerPoint)
 
 Adds a new section at the specified index position and returns the index of the newly created section.
 

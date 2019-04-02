@@ -1,5 +1,5 @@
 ---
-title: Presentation.ApplyTemplate Method (PowerPoint)
+title: Presentation.ApplyTemplate method (PowerPoint)
 keywords: vbapp10.chm583007
 f1_keywords:
 - vbapp10.chm583007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.ApplyTemplate Method (PowerPoint)
+# Presentation.ApplyTemplate method (PowerPoint)
 
 Applies a design template to the specified presentation.
 

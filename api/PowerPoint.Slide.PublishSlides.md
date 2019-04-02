@@ -1,5 +1,5 @@
 ---
-title: Slide.PublishSlides Method (PowerPoint)
+title: Slide.PublishSlides method (PowerPoint)
 keywords: vbapp10.chm531040
 f1_keywords:
 - vbapp10.chm531040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.PublishSlides Method (PowerPoint)
+# Slide.PublishSlides method (PowerPoint)
 
 Publishes the specified slide to the specified location.
 

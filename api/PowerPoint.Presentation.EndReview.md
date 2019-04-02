@@ -1,5 +1,5 @@
 ---
-title: Presentation.EndReview Method (PowerPoint)
+title: Presentation.EndReview method (PowerPoint)
 keywords: vbapp10.chm583071
 f1_keywords:
 - vbapp10.chm583071
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.EndReview Method (PowerPoint)
+# Presentation.EndReview method (PowerPoint)
 
 Ends the review cycle.
 

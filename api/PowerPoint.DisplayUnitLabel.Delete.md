@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Delete Method (PowerPoint)
+title: DisplayUnitLabel.Delete method (PowerPoint)
 keywords: vbapp10.chm699014
 f1_keywords:
 - vbapp10.chm699014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Delete Method (PowerPoint)
+# DisplayUnitLabel.Delete method (PowerPoint)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Axes.Item Method (PowerPoint)
+title: Axes.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Axes.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Axes.Item Method (PowerPoint)
+# Axes.Item method (PowerPoint)
 
 Returns a single  **[Axis](PowerPoint.Axis.md)** object from an **Axes** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Flip Method (PowerPoint)
+title: ShapeRange.Flip method (PowerPoint)
 keywords: vbapp10.chm548004
 f1_keywords:
 - vbapp10.chm548004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Flip Method (PowerPoint)
+# ShapeRange.Flip method (PowerPoint)
 
 Flips the specified shape range around its horizontal or vertical axis.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.Axes Method (PowerPoint)
+title: Chart.Axes method (PowerPoint)
 keywords: vbapp10.chm684016
 f1_keywords:
 - vbapp10.chm684016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Axes Method (PowerPoint)
+# Chart.Axes method (PowerPoint)
 
 Returns a collection of axes on the chart.
 

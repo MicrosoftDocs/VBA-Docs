@@ -1,5 +1,5 @@
 ---
-title: Application.AfterPresentationOpen Event (PowerPoint)
+title: Application.AfterPresentationOpen event (PowerPoint)
 keywords: vbapp10.chm621021
 f1_keywords:
 - vbapp10.chm621021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterPresentationOpen Event (PowerPoint)
+# Application.AfterPresentationOpen event (PowerPoint)
 
 Occurs after an existing presentation is opened.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentWindows.Arrange Method (PowerPoint)
+title: DocumentWindows.Arrange method (PowerPoint)
 keywords: vbapp10.chm509004
 f1_keywords:
 - vbapp10.chm509004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindows.Arrange Method (PowerPoint)
+# DocumentWindows.Arrange method (PowerPoint)
 
 Arranges all open document windows in the workspace.
 

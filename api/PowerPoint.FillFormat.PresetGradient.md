@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradient Method (PowerPoint)
+title: FillFormat.PresetGradient method (PowerPoint)
 keywords: vbapp10.chm552005
 f1_keywords:
 - vbapp10.chm552005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetGradient Method (PowerPoint)
+# FillFormat.PresetGradient method (PowerPoint)
 
 Sets the specified fill to a preset gradient.
 

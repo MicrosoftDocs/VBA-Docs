@@ -1,5 +1,5 @@
 ---
-title: AddIns.Add Method (PowerPoint)
+title: AddIns.Add method (PowerPoint)
 keywords: vbapp10.chm520004
 f1_keywords:
 - vbapp10.chm520004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIns.Add Method (PowerPoint)
+# AddIns.Add method (PowerPoint)
 
 Returns an  **AddIn** object that represents an add-in file added to the list of add-ins.
 

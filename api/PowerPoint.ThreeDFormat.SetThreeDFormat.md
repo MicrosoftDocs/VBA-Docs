@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetThreeDFormat Method (PowerPoint)
+title: ThreeDFormat.SetThreeDFormat method (PowerPoint)
 keywords: vbapp10.chm557005
 f1_keywords:
 - vbapp10.chm557005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetThreeDFormat Method (PowerPoint)
+# ThreeDFormat.SetThreeDFormat method (PowerPoint)
 
 Sets the preset extrusion format.
 

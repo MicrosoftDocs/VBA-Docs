@@ -1,5 +1,5 @@
 ---
-title: Application.PresentationBeforeSave Event (PowerPoint)
+title: Application.PresentationBeforeSave event (PowerPoint)
 keywords: vbapp10.chm621018
 f1_keywords:
 - vbapp10.chm621018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PresentationBeforeSave Event (PowerPoint)
+# Application.PresentationBeforeSave event (PowerPoint)
 
 Occurs before a presentation is saved.
 

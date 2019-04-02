@@ -1,5 +1,5 @@
 ---
-title: Research.SetLanguagePair Method (PowerPoint)
+title: Research.SetLanguagePair method (PowerPoint)
 keywords: vbapp10.chm676004
 f1_keywords:
 - vbapp10.chm676004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Research.SetLanguagePair Method (PowerPoint)
+# Research.SetLanguagePair method (PowerPoint)
 
 Sets the languages for the translation service.
 

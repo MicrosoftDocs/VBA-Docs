@@ -1,5 +1,5 @@
 ---
-title: Column.Delete Method (PowerPoint)
+title: Column.Delete method (PowerPoint)
 keywords: vbapp10.chm624005
 f1_keywords:
 - vbapp10.chm624005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Delete Method (PowerPoint)
+# Column.Delete method (PowerPoint)
 
 Deletes the specified  **Column** object.
 

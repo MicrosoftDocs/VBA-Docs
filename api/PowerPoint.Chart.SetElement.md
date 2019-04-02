@@ -1,5 +1,5 @@
 ---
-title: Chart.SetElement Method (PowerPoint)
+title: Chart.SetElement method (PowerPoint)
 keywords: vbapp10.chm684044
 f1_keywords:
 - vbapp10.chm684044
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.SetElement Method (PowerPoint)
+# Chart.SetElement method (PowerPoint)
 
 Sets chart elements on a chart. Read/write  **MsoChartElementType**.
 

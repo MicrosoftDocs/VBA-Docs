@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementRotation Method (PowerPoint)
+title: Shape.IncrementRotation method (PowerPoint)
 keywords: vbapp10.chm547006
 f1_keywords:
 - vbapp10.chm547006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.IncrementRotation Method (PowerPoint)
+# Shape.IncrementRotation method (PowerPoint)
 
 Changes the rotation of the specified shape around the z-axis by the specified number of degrees. Use the  **Rotation** property to set the absolute rotation of the shape.
 

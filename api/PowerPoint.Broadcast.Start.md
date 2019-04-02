@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Start Method (PowerPoint)
+title: Broadcast.Start method (PowerPoint)
 keywords: vbapp10.chm732003
 f1_keywords:
 - vbapp10.chm732003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.Start Method (PowerPoint)
+# Broadcast.Start method (PowerPoint)
 
 Returns a list of supported functionality and the maximum allowed file size. 
 

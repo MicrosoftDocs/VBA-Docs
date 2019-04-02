@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserPicture Method (PowerPoint)
+title: FillFormat.UserPicture method (PowerPoint)
 keywords: vbapp10.chm552009
 f1_keywords:
 - vbapp10.chm552009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.UserPicture Method (PowerPoint)
+# FillFormat.UserPicture method (PowerPoint)
 
 Fills the specified shape with one large image. 
 

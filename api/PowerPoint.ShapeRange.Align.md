@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Align Method (PowerPoint)
+title: ShapeRange.Align method (PowerPoint)
 keywords: vbapp10.chm548063
 f1_keywords:
 - vbapp10.chm548063
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Align Method (PowerPoint)
+# ShapeRange.Align method (PowerPoint)
 
 Aligns the shapes in the specified range of shapes.
 

@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Player Method (PowerPoint)
+title: SlideShowView.Player method (PowerPoint)
 keywords: vbapp10.chm513032
 f1_keywords:
 - vbapp10.chm513032
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.Player Method (PowerPoint)
+# SlideShowView.Player method (PowerPoint)
 
 Allows access to playback controls for the associated view in the current window.
 

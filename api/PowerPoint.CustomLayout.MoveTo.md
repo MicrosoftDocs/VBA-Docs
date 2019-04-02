@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.MoveTo Method (PowerPoint)
+title: CustomLayout.MoveTo method (PowerPoint)
 keywords: vbapp10.chm672021
 f1_keywords:
 - vbapp10.chm672021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.MoveTo Method (PowerPoint)
+# CustomLayout.MoveTo method (PowerPoint)
 
 Moves the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object to a different position in the **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection.
 

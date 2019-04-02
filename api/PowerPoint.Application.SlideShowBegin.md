@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowBegin Event (PowerPoint)
+title: Application.SlideShowBegin event (PowerPoint)
 keywords: vbapp10.chm621011
 f1_keywords:
 - vbapp10.chm621011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideShowBegin Event (PowerPoint)
+# Application.SlideShowBegin event (PowerPoint)
 
 Occurs when you start a slide show.
 

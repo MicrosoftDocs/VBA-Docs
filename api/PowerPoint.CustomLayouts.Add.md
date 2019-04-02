@@ -1,5 +1,5 @@
 ---
-title: CustomLayouts.Add Method (PowerPoint)
+title: CustomLayouts.Add method (PowerPoint)
 keywords: vbapp10.chm671004
 f1_keywords:
 - vbapp10.chm671004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayouts.Add Method (PowerPoint)
+# CustomLayouts.Add method (PowerPoint)
 
 Returns a  **CustomLayout** object that represents a new custom layout.
 

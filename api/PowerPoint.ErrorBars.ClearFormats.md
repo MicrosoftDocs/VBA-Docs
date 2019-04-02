@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.ClearFormats Method (PowerPoint)
+title: ErrorBars.ClearFormats method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.ClearFormats
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars.ClearFormats Method (PowerPoint)
+# ErrorBars.ClearFormats method (PowerPoint)
 
 Clears the formatting of the object.
 

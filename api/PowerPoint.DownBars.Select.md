@@ -1,5 +1,5 @@
 ---
-title: DownBars.Select Method (PowerPoint)
+title: DownBars.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DownBars.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DownBars.Select Method (PowerPoint)
+# DownBars.Select method (PowerPoint)
 
 Selects the object.
 

@@ -1,5 +1,5 @@
 ---
-title: AddIns.Item Method (PowerPoint)
+title: AddIns.Item method (PowerPoint)
 keywords: vbapp10.chm520003
 f1_keywords:
 - vbapp10.chm520003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIns.Item Method (PowerPoint)
+# AddIns.Item method (PowerPoint)
 
 Returns a single  **Addin** object from the specified **Addins** collection.
 

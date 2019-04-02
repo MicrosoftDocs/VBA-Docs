@@ -1,5 +1,5 @@
 ---
-title: Application.NewPresentation Event (PowerPoint)
+title: Application.NewPresentation event (PowerPoint)
 keywords: vbapp10.chm621007
 f1_keywords:
 - vbapp10.chm621007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.NewPresentation Event (PowerPoint)
+# Application.NewPresentation event (PowerPoint)
 
 Occurs after a presentation is created, as it is added to the  **[Presentations](PowerPoint.Presentations.md)** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange.Sentences Method (PowerPoint)
+title: TextRange.Sentences method (PowerPoint)
 keywords: vbapp10.chm569011
 f1_keywords:
 - vbapp10.chm569011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Sentences Method (PowerPoint)
+# TextRange.Sentences method (PowerPoint)
 
 Returns a  **TextRange** object that represents the specified subset of text sentences.
 

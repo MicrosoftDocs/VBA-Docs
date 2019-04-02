@@ -1,5 +1,5 @@
 ---
-title: TextRange.PasteSpecial Method (PowerPoint)
+title: TextRange.PasteSpecial method (PowerPoint)
 keywords: vbapp10.chm569040
 f1_keywords:
 - vbapp10.chm569040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.PasteSpecial Method (PowerPoint)
+# TextRange.PasteSpecial method (PowerPoint)
 
 Replaces the text range with the contents of the Clipboard in the format specified. 
 

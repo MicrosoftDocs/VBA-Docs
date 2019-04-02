@@ -1,5 +1,5 @@
 ---
-title: Presentation.PrintOut Method (PowerPoint)
+title: Presentation.PrintOut method (PowerPoint)
 keywords: vbapp10.chm583034
 f1_keywords:
 - vbapp10.chm583034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.PrintOut Method (PowerPoint)
+# Presentation.PrintOut method (PowerPoint)
 
 Prints the specified presentation.
 

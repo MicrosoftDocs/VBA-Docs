@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Distribute Method (PowerPoint)
+title: ShapeRange.Distribute method (PowerPoint)
 keywords: vbapp10.chm548064
 f1_keywords:
 - vbapp10.chm548064
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Distribute Method (PowerPoint)
+# ShapeRange.Distribute method (PowerPoint)
 
 Evenly distributes the shapes in the specified range of shapes. You can specify whether you want to distribute the shapes horizontally or vertically and whether you want to distribute them over the entire slide or just over the space they originally occupy.
 

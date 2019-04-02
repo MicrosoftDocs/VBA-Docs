@@ -1,5 +1,5 @@
 ---
-title: TextFrame.DeleteText Method (PowerPoint)
+title: TextFrame.DeleteText method (PowerPoint)
 keywords: vbapp10.chm558014
 f1_keywords:
 - vbapp10.chm558014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.DeleteText Method (PowerPoint)
+# TextFrame.DeleteText method (PowerPoint)
 
 Deletes the text associated with the specified shape.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.ShowInsertAppDialog Method (PowerPoint)
+title: DocumentWindow.ShowInsertAppDialog method (PowerPoint)
 keywords: vbapp10.chm511032
 f1_keywords:
 - vbapp10.chm511032
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.ShowInsertAppDialog Method (PowerPoint)
+# DocumentWindow.ShowInsertAppDialog method (PowerPoint)
 
 ## Syntax
 

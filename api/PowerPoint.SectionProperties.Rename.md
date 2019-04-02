@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.Rename Method (PowerPoint)
+title: SectionProperties.Rename method (PowerPoint)
 keywords: vbapp10.chm725005
 f1_keywords:
 - vbapp10.chm725005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.Rename Method (PowerPoint)
+# SectionProperties.Rename method (PowerPoint)
 
 Renames the specified section with the specified name.
 

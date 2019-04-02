@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowEnd Event (PowerPoint)
+title: Application.SlideShowEnd event (PowerPoint)
 keywords: vbapp10.chm621014
 f1_keywords:
 - vbapp10.chm621014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideShowEnd Event (PowerPoint)
+# Application.SlideShowEnd event (PowerPoint)
 
 Occurs after a slide show ends, immediately after the last  **[SlideShowNextSlide](PowerPoint.Application.SlideShowNextSlide.md)** event occurs.
 

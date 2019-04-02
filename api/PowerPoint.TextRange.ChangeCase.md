@@ -1,5 +1,5 @@
 ---
-title: TextRange.ChangeCase Method (PowerPoint)
+title: TextRange.ChangeCase method (PowerPoint)
 keywords: vbapp10.chm569031
 f1_keywords:
 - vbapp10.chm569031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.ChangeCase Method (PowerPoint)
+# TextRange.ChangeCase method (PowerPoint)
 
 Changes the case of the specified text.
 

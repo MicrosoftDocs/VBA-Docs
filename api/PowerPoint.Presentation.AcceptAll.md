@@ -1,5 +1,5 @@
 ---
-title: Presentation.AcceptAll Method (PowerPoint)
+title: Presentation.AcceptAll method (PowerPoint)
 keywords: vbapp10.chm583115
 f1_keywords:
 - vbapp10.chm583115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.AcceptAll Method (PowerPoint)
+# Presentation.AcceptAll method (PowerPoint)
 
 Accepts all changes.
 

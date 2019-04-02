@@ -1,5 +1,5 @@
 ---
-title: Presentation.Save Method (PowerPoint)
+title: Presentation.Save method (PowerPoint)
 keywords: vbapp10.chm583035
 f1_keywords:
 - vbapp10.chm583035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Save Method (PowerPoint)
+# Presentation.Save method (PowerPoint)
 
 Saves the specified presentation.
 

@@ -1,5 +1,5 @@
 ---
-title: Design.MoveTo Method (PowerPoint)
+title: Design.MoveTo method (PowerPoint)
 keywords: vbapp10.chm644010
 f1_keywords:
 - vbapp10.chm644010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Design.MoveTo Method (PowerPoint)
+# Design.MoveTo method (PowerPoint)
 
 Moves the specified object to a specific location within the same collection, renumbering all other items in the collection appropriately.
 

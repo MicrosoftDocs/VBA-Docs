@@ -1,5 +1,5 @@
 ---
-title: Application.OpenThemeFile Method (PowerPoint)
+title: Application.OpenThemeFile method (PowerPoint)
 keywords: vbapp10.chm502070
 f1_keywords:
 - vbapp10.chm502070
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OpenThemeFile Method (PowerPoint)
+# Application.OpenThemeFile method (PowerPoint)
 
 Opens the specified theme file (*thmx).
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Delete Method (PowerPoint)
+title: Hyperlink.Delete method (PowerPoint)
 keywords: vbapp10.chm526013
 f1_keywords:
 - vbapp10.chm526013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Delete Method (PowerPoint)
+# Hyperlink.Delete method (PowerPoint)
 
 Deletes the specified  **Hyperlink** object.
 

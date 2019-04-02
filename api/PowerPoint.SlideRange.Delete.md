@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Delete Method (PowerPoint)
+title: SlideRange.Delete method (PowerPoint)
 keywords: vbapp10.chm532016
 f1_keywords:
 - vbapp10.chm532016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Delete Method (PowerPoint)
+# SlideRange.Delete method (PowerPoint)
 
 Deletes the specified  **SlideRange** object.
 

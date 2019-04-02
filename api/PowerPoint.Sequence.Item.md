@@ -1,5 +1,5 @@
 ---
-title: Sequence.Item Method (PowerPoint)
+title: Sequence.Item method (PowerPoint)
 keywords: vbapp10.chm651003
 f1_keywords:
 - vbapp10.chm651003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequence.Item Method (PowerPoint)
+# Sequence.Item method (PowerPoint)
 
 Returns a single  **Effect** object from the specified **Sequence** collection.
 

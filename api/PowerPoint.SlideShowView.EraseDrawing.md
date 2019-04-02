@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.EraseDrawing Method (PowerPoint)
+title: SlideShowView.EraseDrawing method (PowerPoint)
 keywords: vbapp10.chm513016
 f1_keywords:
 - vbapp10.chm513016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.EraseDrawing Method (PowerPoint)
+# SlideShowView.EraseDrawing method (PowerPoint)
 
 Removes lines drawn during a slide show by using either the  **[DrawLine](PowerPoint.SlideShowView.DrawLine.md)** method or the pen tool.
 

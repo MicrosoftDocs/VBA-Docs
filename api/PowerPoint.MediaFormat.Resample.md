@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.Resample Method (PowerPoint)
+title: MediaFormat.Resample method (PowerPoint)
 keywords: vbapp10.chm724013
 f1_keywords:
 - vbapp10.chm724013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.Resample Method (PowerPoint)
+# MediaFormat.Resample method (PowerPoint)
 
 Adds the current media object to the queue and begins resampling, based on the specified parameters.
 

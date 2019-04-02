@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationX Method (PowerPoint)
+title: ThreeDFormat.IncrementRotationX method (PowerPoint)
 keywords: vbapp10.chm557002
 f1_keywords:
 - vbapp10.chm557002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationX Method (PowerPoint)
+# ThreeDFormat.IncrementRotationX method (PowerPoint)
 
 Changes the rotation of the specified shape around the x-axis by the specified number of degrees. 
 

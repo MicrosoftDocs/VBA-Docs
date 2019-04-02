@@ -1,5 +1,5 @@
 ---
-title: Presentation.CreateVideo Method (PowerPoint)
+title: Presentation.CreateVideo method (PowerPoint)
 keywords: vbapp10.chm583123
 f1_keywords:
 - vbapp10.chm583123
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.CreateVideo Method (PowerPoint)
+# Presentation.CreateVideo method (PowerPoint)
 
 Creates a video in a  **Presentation** object.
 

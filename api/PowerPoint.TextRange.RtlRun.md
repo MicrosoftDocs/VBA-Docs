@@ -1,5 +1,5 @@
 ---
-title: TextRange.RtlRun Method (PowerPoint)
+title: TextRange.RtlRun method (PowerPoint)
 keywords: vbapp10.chm569038
 f1_keywords:
 - vbapp10.chm569038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.RtlRun Method (PowerPoint)
+# TextRange.RtlRun method (PowerPoint)
 
 Sets the direction of text in a text range to read from right to left.
 

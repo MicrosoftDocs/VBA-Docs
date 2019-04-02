@@ -1,5 +1,5 @@
 ---
-title: TextRange.RotatedBounds Method (PowerPoint)
+title: TextRange.RotatedBounds method (PowerPoint)
 keywords: vbapp10.chm569036
 f1_keywords:
 - vbapp10.chm569036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.RotatedBounds Method (PowerPoint)
+# TextRange.RotatedBounds method (PowerPoint)
 
 Returns the coordinates of the vertices of the text bounding box for the specified text range.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleHeight Method (PowerPoint)
+title: Shape.ScaleHeight method (PowerPoint)
 keywords: vbapp10.chm547010
 f1_keywords:
 - vbapp10.chm547010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ScaleHeight Method (PowerPoint)
+# Shape.ScaleHeight method (PowerPoint)
 
 Scales the height of the shape by a specified factor.
 

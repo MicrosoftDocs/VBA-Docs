@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Edit Method (PowerPoint)
+title: ProtectedViewWindow.Edit method (PowerPoint)
 keywords: vbapp10.chm734015
 f1_keywords:
 - vbapp10.chm734015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Edit Method (PowerPoint)
+# ProtectedViewWindow.Edit method (PowerPoint)
 
 Changes the password of the  **ProtectedViewWindow** object.
 

@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Extend Method (PowerPoint)
+title: SeriesCollection.Extend method (PowerPoint)
 keywords: vbapp10.chm65763
 f1_keywords:
 - vbapp10.chm65763
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection.Extend Method (PowerPoint)
+# SeriesCollection.Extend method (PowerPoint)
 
 Adds new data points to an existing series collection.
 

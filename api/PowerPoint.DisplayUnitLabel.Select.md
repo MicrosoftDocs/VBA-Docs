@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Select Method (PowerPoint)
+title: DisplayUnitLabel.Select method (PowerPoint)
 keywords: vbapp10.chm699018
 f1_keywords:
 - vbapp10.chm699018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Select Method (PowerPoint)
+# DisplayUnitLabel.Select method (PowerPoint)
 
 Selects the object.
 

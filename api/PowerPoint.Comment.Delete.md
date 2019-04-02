@@ -1,5 +1,5 @@
 ---
-title: Comment.Delete Method (PowerPoint)
+title: Comment.Delete method (PowerPoint)
 keywords: vbapp10.chm642010
 f1_keywords:
 - vbapp10.chm642010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.Delete Method (PowerPoint)
+# Comment.Delete method (PowerPoint)
 
 Deletes the specified  **Comment** object.
 

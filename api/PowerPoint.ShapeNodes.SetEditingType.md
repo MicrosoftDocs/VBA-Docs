@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetEditingType Method (PowerPoint)
+title: ShapeNodes.SetEditingType method (PowerPoint)
 keywords: vbapp10.chm560007
 f1_keywords:
 - vbapp10.chm560007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetEditingType Method (PowerPoint)
+# ShapeNodes.SetEditingType method (PowerPoint)
 
 Sets the editing type of the specified node.
 

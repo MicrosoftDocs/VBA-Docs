@@ -1,5 +1,5 @@
 ---
-title: Shape.PickUp Method (PowerPoint)
+title: Shape.PickUp method (PowerPoint)
 keywords: vbapp10.chm547008
 f1_keywords:
 - vbapp10.chm547008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.PickUp Method (PowerPoint)
+# Shape.PickUp method (PowerPoint)
 
 Copies the formatting of the specified shape. Use the  **Apply** method to apply the copied formatting to another shape.
 

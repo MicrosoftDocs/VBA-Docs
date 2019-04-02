@@ -1,5 +1,5 @@
 ---
-title: Presentations.Item Method (PowerPoint)
+title: Presentations.Item method (PowerPoint)
 keywords: vbapp10.chm522003
 f1_keywords:
 - vbapp10.chm522003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentations.Item Method (PowerPoint)
+# Presentations.Item method (PowerPoint)
 
 Returns a single  **Presentation** object from the specified **Presentations** collection.
 

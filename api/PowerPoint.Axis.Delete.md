@@ -1,5 +1,5 @@
 ---
-title: Axis.Delete Method (PowerPoint)
+title: Axis.Delete method (PowerPoint)
 keywords: vbapp10.chm682007
 f1_keywords:
 - vbapp10.chm682007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.Delete Method (PowerPoint)
+# Axis.Delete method (PowerPoint)
 
 Deletes the object.
 

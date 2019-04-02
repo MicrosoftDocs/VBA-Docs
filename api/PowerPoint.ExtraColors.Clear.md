@@ -1,5 +1,5 @@
 ---
-title: ExtraColors.Clear Method (PowerPoint)
+title: ExtraColors.Clear method (PowerPoint)
 keywords: vbapp10.chm529005
 f1_keywords:
 - vbapp10.chm529005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExtraColors.Clear Method (PowerPoint)
+# ExtraColors.Clear method (PowerPoint)
 
 Clears the extra colors in a presentation.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell.Split Method (PowerPoint)
+title: Cell.Split method (PowerPoint)
 keywords: vbapp10.chm628006
 f1_keywords:
 - vbapp10.chm628006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Split Method (PowerPoint)
+# Cell.Split method (PowerPoint)
 
 Splits a single table cell into multiple cells.
 

@@ -1,5 +1,5 @@
 ---
-title: Floor.ClearFormats Method (PowerPoint)
+title: Floor.ClearFormats method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.ClearFormats
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Floor.ClearFormats Method (PowerPoint)
+# Floor.ClearFormats method (PowerPoint)
 
 Clears the formatting of the object.
 

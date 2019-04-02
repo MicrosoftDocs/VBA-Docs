@@ -1,5 +1,5 @@
 ---
-title: SlideRange.ApplyTemplate2 Method (PowerPoint)
+title: SlideRange.ApplyTemplate2 method (PowerPoint)
 keywords: vbapp10.chm532048
 f1_keywords:
 - vbapp10.chm532048
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.ApplyTemplate2 Method (PowerPoint)
+# SlideRange.ApplyTemplate2 method (PowerPoint)
 
 Applies a design template and theme variant to the slide range.
 

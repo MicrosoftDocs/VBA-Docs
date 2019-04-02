@@ -1,5 +1,5 @@
 ---
-title: Presentation.SendFaxOverInternet Method (PowerPoint)
+title: Presentation.SendFaxOverInternet method (PowerPoint)
 keywords: vbapp10.chm583085
 f1_keywords:
 - vbapp10.chm583085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.SendFaxOverInternet Method (PowerPoint)
+# Presentation.SendFaxOverInternet method (PowerPoint)
 
 Sends a presentation as a fax to the specified recipients.
 

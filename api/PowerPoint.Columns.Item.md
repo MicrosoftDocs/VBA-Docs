@@ -1,5 +1,5 @@
 ---
-title: Columns.Item Method (PowerPoint)
+title: Columns.Item method (PowerPoint)
 keywords: vbapp10.chm623003
 f1_keywords:
 - vbapp10.chm623003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.Item Method (PowerPoint)
+# Columns.Item method (PowerPoint)
 
 Returns a single  **Column** object from the specified **Columns** collection.
 

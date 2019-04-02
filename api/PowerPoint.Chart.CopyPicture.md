@@ -1,5 +1,5 @@
 ---
-title: Chart.CopyPicture Method (PowerPoint)
+title: Chart.CopyPicture method (PowerPoint)
 keywords: vbapp10.chm684022
 f1_keywords:
 - vbapp10.chm684022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.CopyPicture Method (PowerPoint)
+# Chart.CopyPicture method (PowerPoint)
 
 Copies the selected object to the Clipboard as a picture.
 

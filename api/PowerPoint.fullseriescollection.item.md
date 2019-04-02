@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Item Method (PowerPoint)
+title: FullSeriesCollection.Item method (PowerPoint)
 ms.assetid: fda36191-71f4-1f75-fa27-e09a38385e68
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# FullSeriesCollection.Item Method (PowerPoint)
+# FullSeriesCollection.Item method (PowerPoint)
 
 Returns an individual [Series](PowerPoint.Series.md) object from the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: UpBars.Select Method (PowerPoint)
+title: UpBars.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# UpBars.Select Method (PowerPoint)
+# UpBars.Select method (PowerPoint)
 
 Selects the object.
 
