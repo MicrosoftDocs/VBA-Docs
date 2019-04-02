@@ -7,34 +7,38 @@ ms.prod: excel
 api_name:
 - Excel.Worksheets
 ms.assetid: 5ec467a6-97e3-98d7-0b14-845d20c15910
-ms.date: 06/08/2017
+ms.date: 04/03/2019
 localization_priority: Normal
 ---
 
 
 # Worksheets object (Excel)
 
-A collection of all the  **[Worksheet](Excel.Worksheet.md)** objects in the specified or active workbook. Each **Worksheet** object represents a worksheet.
+A collection of all the **[Worksheet](Excel.Worksheet.md)** objects in the specified or active workbook. Each **Worksheet** object represents a worksheet.
 
 ## Remarks
 
-The  **Worksheet** object is also a member of the [Sheets](Excel.Sheets.md) collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
+The **Worksheet** object is also a member of the **[Sheets](Excel.Sheets.md)** collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
 
 ## Example
 
-Use the  **[Worksheets](Excel.Workbook.Worksheets.md)** property to return the **Worksheets** collection.The following example moves all the worksheets to the end of the workbook.
+Use the **[Worksheets](Excel.Workbook.Worksheets.md)** property of the **Workbook** object to return the **Worksheets** collection.The following example moves all the worksheets to the end of the workbook.
 
 ```vb
 Worksheets.Move After:=Sheets(Sheets.Count)
 ```
 
-Use the  **[Add](Excel.Worksheets.Add.md)** method to create a new worksheet and add it to the collection. The following example adds two new worksheets before sheet one of the active workbook.
+<br/>
+
+Use the **Add** method to create a new worksheet and add it to the collection. The following example adds two new worksheets before sheet one of the active workbook.
 
 ```vb
 Worksheets.Add Count:=2, Before:=Sheets(1)
 ```
 
-Use  **Worksheets** (_index_), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
+<br/>
+
+Use **Worksheets** (_index_), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
 
 ```vb
 Worksheets(1).Visible = False
@@ -66,6 +70,6 @@ Worksheets(1).Visible = False
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns the yield of a security that has an odd (short or long) last period.
 
 _expression_. `OddLYield`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

@@ -40,6 +40,6 @@ Use the **[PivotTables](Excel.SlicerCache.PivotTables.md)** property of the **Sl
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

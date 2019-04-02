@@ -21,7 +21,7 @@ Returns or sets an  **[MsoTextEffectAlignment](Office.MsoTextEffectAlignment.md)
 
 _expression_. `Alignment`
 
-_expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Example

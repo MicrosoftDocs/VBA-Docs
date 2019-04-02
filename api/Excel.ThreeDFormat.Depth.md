@@ -21,7 +21,7 @@ Returns or sets a  **Single** value that represents the depth of the shape's ext
 
 _expression_. `Depth`
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

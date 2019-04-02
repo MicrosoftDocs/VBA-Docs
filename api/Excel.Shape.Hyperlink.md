@@ -21,7 +21,7 @@ Returns a  **[Hyperlink](Excel.Hyperlink.md)** object that represents the hyperl
 
 _expression_.**Hyperlink**
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example

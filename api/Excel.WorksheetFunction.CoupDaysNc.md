@@ -21,7 +21,7 @@ Returns the number of days from the settlement date to the next coupon date.
 
 _expression_. `CoupDaysNc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

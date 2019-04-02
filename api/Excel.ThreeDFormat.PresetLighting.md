@@ -18,7 +18,7 @@ Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Re
 
 _expression_. `PresetLighting`
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

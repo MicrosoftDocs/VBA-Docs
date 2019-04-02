@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # XlBinsType Enumeration (PowerPoint)
 
-Constants passed to and returned by the [ChartGroup.BinsType](./Excel.chartgroup.binstype.md) property.
+Constants passed to and returned by the [ChartGroup.BinsType](Excel.chartgroup.binstype.md) property.
 
 
 

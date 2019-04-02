@@ -21,7 +21,7 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
 
 _expression_. `Characters`( `_Start_` , `_Length_` )
 
- _expression_ An expression that returns a [TextFrame](./Excel.TextFrame.md) object.
+ _expression_ An expression that returns a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Parameters

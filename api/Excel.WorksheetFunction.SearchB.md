@@ -21,7 +21,7 @@ SEARCH and SEARCHB locate one text string within a second text string, and retur
 
 _expression_. `SearchB`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Changes the access permissions for the workbook. This may require an updated ver
 
 _expression_. `ChangeFileAccess`( `_Mode_` , `_WritePassword_` , `_Notify_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Parameters

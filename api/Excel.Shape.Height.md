@@ -21,7 +21,7 @@ Returns or sets a  **Single** value that represents the height, in points, of th
 
 _expression_.**Height**
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also

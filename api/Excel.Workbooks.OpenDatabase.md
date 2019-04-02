@@ -21,7 +21,7 @@ Returns a  **Workbook** object representing a database.
 
 _expression_. `OpenDatabase`( `_Filename_` , `_CommandText_` , `_CommandType_` , `_BackgroundQuery_` , `_ImportDataAs_` )
 
-_expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
 
 ## Parameters

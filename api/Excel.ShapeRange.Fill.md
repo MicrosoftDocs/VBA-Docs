@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ShapeRange.Fill property (Excel)
 
-Returns a  **[FillFormat](Excel.FillFormat.md)** object for a specified shape or a **[ChartFillFormat](./Excel.ChartFillFormat.md)** object for a specified chart that contains fill formatting properties for the shape or chart. Read-only.
+Returns a  **[FillFormat](Excel.FillFormat.md)** object for a specified shape or a **[ChartFillFormat](Excel.ChartFillFormat.md)** object for a specified chart that contains fill formatting properties for the shape or chart. Read-only.
 
 
 ## Syntax
 
 _expression_. `Fill`
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Example

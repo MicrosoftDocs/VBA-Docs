@@ -21,7 +21,7 @@ Returns or sets a  **[MsoShapeType](Office.MsoShapeType.md)** value that represe
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also

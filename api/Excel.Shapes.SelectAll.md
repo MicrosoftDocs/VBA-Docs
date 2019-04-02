@@ -21,7 +21,7 @@ Selects all the shapes in the specified  **[Shapes](Excel.Shapes.md)** collectio
 
 _expression_. `SelectAll`
 
-_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Example

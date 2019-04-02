@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `LockAspectRatio`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Merges the styles from another workbook into the  **[Styles](Excel.Styles.md)** 
 
 _expression_. `Merge`( `_Workbook_` )
 
-_expression_ A variable that represents a [Styles](./Excel.Styles.md) object.
+_expression_ A variable that represents a [Styles](Excel.Styles.md) object.
 
 
 ## Parameters

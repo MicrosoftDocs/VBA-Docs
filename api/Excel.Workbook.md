@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook
 ms.assetid: 8c00aa60-c974-eed3-0812-3c9625eb0d4c
-ms.date: 06/08/2017
+ms.date: 04/03/2019
 localization_priority: Normal
 ---
 
@@ -19,55 +19,44 @@ Represents a Microsoft Excel workbook.
 
 ## Remarks
 
-The  **Workbook** object is a member of the [Workbooks](./Excel.Workbooks.md) collection. The **Workbooks** collection contains all the **Workbook** objects currently open in Microsoft Excel.
+The **Workbook** object is a member of the **[Workbooks](Excel.Workbooks.md)** collection. The **Workbooks** collection contains all the **Workbook** objects currently open in Microsoft Excel.
 
+The **[ThisWorkbook](Excel.Application.ThisWorkbook.md)** property of the **Application** object returns the workbook where the Visual Basic code is running. In most cases, this is the same as the active workbook. However, if the Visual Basic code is part of an add-in, the **ThisWorkbook** property won't return the active workbook. In this case, the active workbook is the workbook calling the add-in, whereas the **ThisWorkbook** property returns the add-in workbook.
 
-### ThisWorkbook Property
-
-The  [ThisWorkbook](./Excel.Application.ThisWorkbook.md) property returns the workbook where the Visual Basic code is running. In most cases, this is the same as the active workbook. However, if the Visual Basic code is part of an add-in, the **ThisWorkbook** property won't return the active workbook. In this case, the active workbook is the workbook calling the add-in, whereas the **ThisWorkbook** property returns the add-in workbook.
-
-If you'll be creating an add-in from your Visual Basic code, you should use the  **ThisWorkbook** property to qualify any statement that must be run on the workbook you compile into the add-in.
+If you are creating an add-in from your Visual Basic code, you should use the **ThisWorkbook** property to qualify any statement that must be run on the workbook that you compile into the add-in.
 
 
 ## Example
 
-Use  **Workbooks** (_index_), where _index_ is the workbook name or index number, to return a single [Workbook](Excel.Workbook.md) object. The following example activates workbook one.
-
+Use **[Workbooks](Excel.Application.Workbooks.md)** (_index_), where _index_ is the workbook name or index number, to return a single **Workbook** object. The following example activates workbook one.
 
 ```vb
 Workbooks(1).Activate
 ```
 
-The index number denotes the order in which the workbooks were opened or created.  `Workbooks(1)` is the first workbook created, and `Workbooks(Workbooks.Count)` is the last one created. Activating a workbook doesn't change its index number. All workbooks are included in the index count, even if they're hidden.
+The index number denotes the order in which the workbooks were opened or created. `Workbooks(1)` is the first workbook created, and `Workbooks(Workbooks.Count)` is the last one created. Activating a workbook doesn't change its index number. All workbooks are included in the index count, even if they are hidden.
 
+<br/>
 
+The **[Name](Excel.Workbook.Name.md)** property returns the workbook name. You cannot set the name by using this property; if you need to change the name, use the **[SaveAs](Excel.Workbook.SaveAs.md)** method to save the workbook under a different name. 
 
-The  **[Name](./Excel.Workbook.Name.md)** property returns the workbook name. You cannot set the name by using this property; if you need to change the name, use the **[SaveAs](./Excel.Workbook.SaveAs.md)** method to save the workbook under a different name. The following example activates Sheet1 in the workbook named Cogs.xls (the workbook must already be open in Microsoft Excel).
-
-
-
+The following example activates Sheet1 in the workbook named Cogs.xls (the workbook must already be open in Microsoft Excel).
 
 ```vb
 Workbooks("Cogs.xls").Worksheets("Sheet1").Activate
 ```
 
-The  **[ActiveWorkbook](./Excel.Application.ActiveWorkbook.md)** property returns the workbook that's currently active. The following example sets the name of the author for the active workbook.
+<br/>
 
-
-
-
-
+The **[ActiveWorkbook](Excel.Application.ActiveWorkbook.md)** property of the **Application** object returns the workbook that's currently active. The following example sets the name of the author for the active workbook.
 
 ```vb
 ActiveWorkbook.Author = "Jean Selva"
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+<br/>
 
-This example emails a worksheet tab from the active workbook using a specified email address and subject. To run this code, the active worksheet must contain the email address in cell A1, the subject in cell B1, and the name of the worksheet to send in cell C1.
-
-
-
+This example emails a worksheet tab from the active workbook by using a specified email address and subject. To run this code, the active worksheet must contain the email address in cell A1, the subject in cell B1, and the name of the worksheet to send in cell C1.
 
 ```vb
 Sub SendTab()
@@ -83,7 +72,7 @@ Sub SendTab()
    'using the subject line specified in cell B1.
    ActiveWorkbook.SendMail wks.Range("A1").Value, wks.Range("B1").Value
    
-   'Do not save changes and turn screen updating back on.
+   'Do not save changes, and turn screen updating back on.
    ActiveWorkbook.Close savechanges:=False
    Application.ScreenUpdating = True
 End Sub
@@ -324,6 +313,6 @@ End Sub
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

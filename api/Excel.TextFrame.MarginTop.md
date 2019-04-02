@@ -21,7 +21,7 @@ Returns or sets the distance (in points) between the top of the text frame and t
 
 _expression_. `MarginTop`
 
-_expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Example

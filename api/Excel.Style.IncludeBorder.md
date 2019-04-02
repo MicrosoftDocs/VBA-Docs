@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `IncludeBorder`
 
-_expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## Example

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AutoSize`
 
-_expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Example

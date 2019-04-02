@@ -21,7 +21,7 @@ Specifies whether the first row contains header information. Read/write  **[xlYe
 
 _expression_. `Header`
 
-_expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## Remarks

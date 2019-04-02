@@ -21,7 +21,7 @@ Returns or sets the style of the specified WordArt. Read/write  **MsoPresetTextE
 
 _expression_. `PresetTextEffect`
 
-_expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks

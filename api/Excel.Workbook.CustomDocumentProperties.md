@@ -21,7 +21,7 @@ Returns or sets a  **[DocumentProperties](Office.DocumentProperties.md)** collec
 
 _expression_. `CustomDocumentProperties`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Remarks

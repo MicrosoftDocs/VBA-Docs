@@ -21,7 +21,7 @@ Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that determine
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also

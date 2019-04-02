@@ -21,7 +21,7 @@ Returns an  **[Interior](Excel.Interior(object).md)** object that represents the
 
 _expression_.**Interior**
 
-_expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## See also

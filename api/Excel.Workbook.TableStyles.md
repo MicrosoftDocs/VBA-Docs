@@ -21,7 +21,7 @@ Returns a  **TableStyles** collection object for the current workbook that refer
 
 _expression_. `TableStyles`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 
 _expression_. `Shadow`
 
-_expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## See also

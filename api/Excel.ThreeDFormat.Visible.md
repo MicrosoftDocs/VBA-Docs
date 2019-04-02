@@ -21,7 +21,7 @@ Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that determine
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## See also

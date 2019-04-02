@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Split`
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Specifies the parent data label option (banner, overlapping, or none) for the sp
 
 _expression_. `ParentDataLabelOption`
 
-_expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## See also

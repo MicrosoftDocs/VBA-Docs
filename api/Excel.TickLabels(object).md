@@ -61,6 +61,6 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

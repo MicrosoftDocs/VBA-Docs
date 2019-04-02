@@ -21,7 +21,7 @@ Creates a new workbook. The new workbook becomes the active workbook.
 
 _expression_. `Add`( `_Template_` )
 
-_expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
 
 ## Parameters

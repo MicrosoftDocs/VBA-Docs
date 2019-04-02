@@ -21,7 +21,7 @@ Returns or sets the name of a macro that's run when the specified object is clic
 
 _expression_. `OnAction`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Remarks

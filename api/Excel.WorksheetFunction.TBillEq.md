@@ -21,7 +21,7 @@ Returns the bond-equivalent yield for a Treasury bill.
 
 _expression_. `TBillEq`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

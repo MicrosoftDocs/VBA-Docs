@@ -21,7 +21,7 @@ Adds new data points to an existing series collection.
 
 _expression_. `Extend`( `_Source_` , `_Rowcol_` , `_CategoryLabels_` )
 
-_expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
+_expression_ A variable that represents a [SeriesCollection](Excel.SeriesCollection.md) object.
 
 
 ## Parameters
@@ -59,6 +59,6 @@ Charts("Chart1").SeriesCollection.Extend _
 ## See also
 
 
-[SeriesCollection Object](./Excel.SeriesCollection.md)
+[SeriesCollection Object](Excel.SeriesCollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns or sets the data validation input message. Read/write  **String**.
 
 _expression_. `InputMessage`
 
-_expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## Example

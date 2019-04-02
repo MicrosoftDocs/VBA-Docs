@@ -21,7 +21,7 @@ Returns or sets the position of the light source relative to the extrusion. Read
 
 _expression_. `PresetLightingDirection`
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Changes the rotation of the specified shape around the z-axis by the specified n
 
 _expression_. `IncrementRotation`( `_Increment_` )
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Parameters

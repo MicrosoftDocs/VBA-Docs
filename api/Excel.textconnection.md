@@ -41,6 +41,6 @@ Contains Service Contract settings that enable Microsoft Excel to connect to a D
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

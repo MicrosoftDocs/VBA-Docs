@@ -21,7 +21,7 @@ Returns a  **[Pane](Excel.Pane.md)** object that represents the active pane in t
 
 _expression_. `ActivePane`
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks

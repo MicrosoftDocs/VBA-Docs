@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Obscured`
 
-_expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) object.
 
 
 ## Remarks

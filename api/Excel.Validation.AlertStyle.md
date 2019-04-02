@@ -21,7 +21,7 @@ Returns the validation alert style. Read-only  **[xlDVAlertStyle](Excel.XlDVAler
 
 _expression_. `AlertStyle`
 
-_expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## Remarks

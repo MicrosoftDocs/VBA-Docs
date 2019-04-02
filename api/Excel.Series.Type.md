@@ -21,7 +21,7 @@ Returns or sets a Long value that represents the series type.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Remarks

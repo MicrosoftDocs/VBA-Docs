@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WebOptions
 ms.assetid: d573637f-1891-4602-c961-091795e47356
-ms.date: 06/08/2017
+ms.date: 04/03/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,14 @@ Contains workbook-level attributes used by Microsoft Excel when you save a docum
 
 ## Remarks
 
- You can return or set attributes either at the application (global) level or at the workbook level. (Note that attribute values can be different from one workbook to another, depending on the attribute value at the time the workbook was saved.) Workbook-level attribute settings override application-level attribute settings. Application-level attributes are contained in the **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
+You can return or set attributes either at the application (global) level or at the workbook level. (Note that attribute values can be different from one workbook to another, depending on the attribute value at the time the workbook was saved.) Workbook-level attribute settings override application-level attribute settings. Application-level attributes are contained in the **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object.
 
 
 ## Example
 
-Use the  **[WebOptions](Excel.Workbook.WebOptions.md)** property to return the **WebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and then sets the `strImageFileType` variable accordingly.
+Use the **[WebOptions](Excel.Workbook.WebOptions.md)** property of the **Workbook** object to return the **WebOptions** object. 
 
+The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format, and then sets the `strImageFileType` variable accordingly.
 
 ```vb
 Set objAppWebOptions = Workbooks(1).WebOptions 
@@ -62,6 +63,6 @@ End With
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

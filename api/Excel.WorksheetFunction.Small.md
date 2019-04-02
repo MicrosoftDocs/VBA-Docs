@@ -21,7 +21,7 @@ Returns the k-th smallest value in a data set. Use this function to return value
 
 _expression_. `Small`( `_Arg1_` , `_Arg2_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets an  **[MsoShapeStyleIndex](Office.MsoShapeStyleIndex.md)** that 
 
 _expression_. `ShapeStyle`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also

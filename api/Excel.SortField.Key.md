@@ -21,7 +21,7 @@ Specifies the range that is currently being sorted on. Read-only.
 
 _expression_. `Key`
 
-_expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
+_expression_ A variable that represents a [SortField](Excel.SortField.md) object.
 
 
 ## Remarks

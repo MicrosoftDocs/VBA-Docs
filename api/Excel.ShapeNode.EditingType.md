@@ -21,7 +21,7 @@ If the specified node is a vertex, this property returns a value that indicates 
 
 _expression_. `EditingType`
 
-_expression_ A variable that represents a [ShapeNode](./Excel.ShapeNode.md) object.
+_expression_ A variable that represents a [ShapeNode](Excel.ShapeNode.md) object.
 
 
 ## Remarks

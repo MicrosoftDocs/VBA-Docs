@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Repeating`
 
-_expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
+_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
 
 
 ## See also

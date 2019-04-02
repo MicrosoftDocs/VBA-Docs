@@ -21,7 +21,7 @@ Returns or sets one of the constants of the  **[xlTopBottom](Excel.XlTopBottom.m
 
 _expression_. `TopBottom`
 
-_expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## See also

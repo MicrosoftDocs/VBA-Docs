@@ -21,7 +21,7 @@ Returns a value that indicates whether the segment associated with the specified
 
 _expression_. `SegmentType`
 
-_expression_ A variable that represents a [ShapeNode](./Excel.ShapeNode.md) object.
+_expression_ A variable that represents a [ShapeNode](Excel.ShapeNode.md) object.
 
 
 ## Remarks

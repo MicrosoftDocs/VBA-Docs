@@ -4350,7 +4350,7 @@
 ##### Properties
 ###### [Count](Excel.AllowEditRanges.Count.md)
 ###### [Item](Excel.AllowEditRanges.Item.md)
-#### [Application object](./Excel.Application(object).md)
+#### [Application object](Excel.Application(object).md)
 ##### Events
 ###### [AfterCalculate](Excel.Application.AfterCalculate.md)
 ###### [NewWorkbook](Excel.Application.NewWorkbook(even).md)
@@ -5043,7 +5043,7 @@
 ###### [Tab](Excel.Chart.Tab.md)
 ###### [Visible](Excel.Chart.Visible.md)
 ###### [Walls](Excel.Chart.Walls.md)
-#### [ChartArea object](./Excel.ChartArea(object).md)
+#### [ChartArea object](Excel.ChartArea(object).md)
 ##### Methods
 ###### [Clear](Excel.ChartArea.Clear.md)
 ###### [ClearContents](Excel.ChartArea.ClearContents.md)
@@ -5209,7 +5209,7 @@
 ###### [Parent](Excel.Charts.Parent.md)
 ###### [Visible](Excel.Charts.Visible.md)
 ###### [VPageBreaks](Excel.Charts.VPageBreaks.md)
-#### [ChartTitle object](./Excel.ChartTitle(object).md)
+#### [ChartTitle object](Excel.ChartTitle(object).md)
 ##### Methods
 ###### [Delete](Excel.ChartTitle.Delete.md)
 ###### [Select](Excel.ChartTitle.Select.md)
@@ -8043,7 +8043,7 @@
 ###### [Type](Excel.Series.Type.md)
 ###### [Values](Excel.Series.Values.md)
 ###### [XValues](Excel.Series.XValues.md)
-#### [SeriesCollection object](./Excel.SeriesCollection.md)
+#### [SeriesCollection object](Excel.SeriesCollection.md)
 ##### Methods
 ###### [Add](Excel.SeriesCollection.Add.md)
 ###### [Extend](Excel.SeriesCollection.Extend.md)

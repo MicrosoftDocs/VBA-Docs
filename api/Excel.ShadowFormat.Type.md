@@ -21,7 +21,7 @@ Returns or sets a  **[MsoShadowType](Office.MsoShadowType.md)** value that repre
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) object.
 
 
 ## See also

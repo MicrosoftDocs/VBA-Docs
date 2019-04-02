@@ -21,7 +21,7 @@ Returns a  **String** specifying the name of the algorithm encryption provider t
 
 _expression_. `EncryptionProvider`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## See also

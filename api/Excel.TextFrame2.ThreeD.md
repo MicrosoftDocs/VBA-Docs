@@ -18,7 +18,7 @@ Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D-ef
 
 _expression_. `ThreeD`
 
-_expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+_expression_ A variable that represents a [TextFrame2](Excel.TextFrame2.md) object.
 
 
 ## See also

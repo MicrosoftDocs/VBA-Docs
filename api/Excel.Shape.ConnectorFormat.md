@@ -21,7 +21,7 @@ Returns a  **[ConnectorFormat](Excel.ConnectorFormat.md)** object that contains 
 
 _expression_. `ConnectorFormat`
 
- _expression_ An expression that returns a [Shape](./Excel.Shape.md) object.
+ _expression_ An expression that returns a [Shape](Excel.Shape.md) object.
 
 
 ## Example

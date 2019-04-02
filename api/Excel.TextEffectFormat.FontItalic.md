@@ -21,7 +21,7 @@ Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write 
 
 _expression_. `FontItalic`
 
-_expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Deletes references to all the objects in the  **[ServerViewableItems](Excel.Serv
 
 _expression_. `DeleteAll`
 
-_expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
+_expression_ A variable that represents a [ServerViewableItems](Excel.ServerViewableItems.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ When set to  **True**, Microsoft Excel combines Korean auxiliary verbs and adjec
 
 _expression_. `KoreanCombineAux`
 
-_expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
 
 
 ## Example

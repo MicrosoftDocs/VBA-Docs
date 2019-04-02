@@ -21,7 +21,7 @@ Loads and parses a text file as a new workbook with a single sheet that contains
 
 _expression_. `OpenText`( `_Filename_` , `_Origin_` , `_StartRow_` , `_DataType_` , `_TextQualifier_` , `_ConsecutiveDelimiter_` , `_Tab_` , `_Semicolon_` , `_Comma_` , `_Space_` , `_Other_` , `_OtherChar_` , `_FieldInfo_` , `_TextVisualLayout_` , `_DecimalSeparator_` , `_ThousandsSeparator_` , `_TrailingMinusNumbers_` , `_Local_` )
 
-_expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
 
 ## Parameters

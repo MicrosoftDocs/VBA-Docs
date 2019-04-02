@@ -21,7 +21,7 @@ Deletes the  **[TableStyle](Excel.TableStyle.md)** object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
+_expression_ A variable that represents a [TableStyle](Excel.TableStyle.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object that is the parent o
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [SlicerPivotTables](./Excel.SlicerPivotTables.md) object.
+_expression_ A variable that represents a [SlicerPivotTables](Excel.SlicerPivotTables.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns a  **[PivotCaches](Excel.PivotCaches.md)** collection that represents al
 
 _expression_. `PivotCaches`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Return value

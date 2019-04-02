@@ -21,7 +21,7 @@ Returns or sets the gridline color as an index into the current color palette or
 
 _expression_. `GridlineColorIndex`
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks

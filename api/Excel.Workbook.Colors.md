@@ -21,7 +21,7 @@ Returns or sets colors in the palette for the workbook. The palette has 56 entri
 
 _expression_. `Colors`( `_Index_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Parameters

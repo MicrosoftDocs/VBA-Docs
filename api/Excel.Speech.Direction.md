@@ -21,7 +21,7 @@ Returns or sets the order in which the cells will be spoken. The value of the  *
 
 _expression_. `Direction`
 
-_expression_ A variable that represents a [Speech](./Excel.Speech.md) object.
+_expression_ A variable that represents a [Speech](Excel.Speech.md) object.
 
 
 ## Remarks

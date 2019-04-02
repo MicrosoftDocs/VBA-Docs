@@ -21,7 +21,7 @@ Returns the internal rate of return for a series of cash flows represented by th
 
 _expression_. `Irr`( `_Arg1_` , `_Arg2_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Installs the specified XML expansion pack on the user's computer, making an XML 
 
 _expression_. `InstallManifest`( `_Path_` , `_InstallForAllUsers_` )
 
-_expression_ A variable that represents a [XmlNamespaces](./Excel.XmlNamespaces.md) object.
+_expression_ A variable that represents a [XmlNamespaces](Excel.XmlNamespaces.md) object.
 
 
 ## Parameters

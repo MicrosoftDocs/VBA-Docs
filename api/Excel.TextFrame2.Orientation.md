@@ -18,7 +18,7 @@ Returns or sets a value that represents the text frame orientation. Read/write  
 
 _expression_.**Orientation**
 
-_expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+_expression_ A variable that represents a [TextFrame2](Excel.TextFrame2.md) object.
 
 
 ## Remarks

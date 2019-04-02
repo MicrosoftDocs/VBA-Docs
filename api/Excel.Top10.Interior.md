@@ -21,7 +21,7 @@ Returns an  **[Interior](Excel.Interior(object).md)** object that specifies a ce
 
 _expression_.**Interior**
 
-_expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## See also

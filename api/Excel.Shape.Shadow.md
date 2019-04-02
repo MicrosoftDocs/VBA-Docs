@@ -21,7 +21,7 @@ Returns a read-only  **[ShadowFormat](Excel.ShadowFormat.md)** object that conta
 
 _expression_. `Shadow`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also

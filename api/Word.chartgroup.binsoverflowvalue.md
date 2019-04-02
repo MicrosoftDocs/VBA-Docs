@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ChartGroup.BinsOverflowValue property (Word)
 
-If an [BinsOverflowEnabled](./Excel.chartgroup.binsoverflowenabled.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write  **Double**.
+If an [BinsOverflowEnabled](Excel.chartgroup.binsoverflowenabled.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write  **Double**.
 
 
 ## Syntax

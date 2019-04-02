@@ -18,7 +18,7 @@ Deletes the text from a text frame and all the associated text properties.
 
 _expression_. `DeleteText`
 
-_expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+_expression_ A variable that represents a [TextFrame2](Excel.TextFrame2.md) object.
 
 
 ## Remarks

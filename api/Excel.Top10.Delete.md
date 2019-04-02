@@ -21,7 +21,7 @@ Deletes the specified conditional formatting rule object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## See also

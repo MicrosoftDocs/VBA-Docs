@@ -21,7 +21,7 @@ Adds the cells specified by a given criteria.
 
 _expression_. `SumIf`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

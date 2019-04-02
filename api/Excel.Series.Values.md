@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value that represents a collection of all the val
 
 _expression_. `Values`
 
-_expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Set to  **True** to perform a case-sensitive sort or set to **False** to perform
 
 _expression_. `MatchCase`
 
-_expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## See also

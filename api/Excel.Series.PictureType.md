@@ -21,7 +21,7 @@ Returns or sets a  **[xlChartPictureType](Excel.XlChartPictureType.md)** value t
 
 _expression_. `PictureType`
 
-_expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Example

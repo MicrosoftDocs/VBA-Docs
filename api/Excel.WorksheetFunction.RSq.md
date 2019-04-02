@@ -21,7 +21,7 @@ Returns the square of the Pearson product moment correlation coefficient through
 
 _expression_. `RSq`( `_Arg1_` , `_Arg2_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

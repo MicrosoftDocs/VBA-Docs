@@ -7,26 +7,25 @@ ms.prod: excel
 api_name:
 - Excel.XPath
 ms.assetid: e13f2b3e-cef2-4e3c-f942-5347cf722e2d
-ms.date: 06/08/2017
+ms.date: 04/03/2019
 localization_priority: Normal
 ---
 
 
 # XPath object (Excel)
 
-Represents an XPath that has been mapped to a  **[Range](Excel.Range(object).md)** or **[ListColumn](Excel.ListColumn.md)** object.
+Represents an XPath that has been mapped to a **[Range](Excel.Range(object).md)** or **[ListColumn](Excel.ListColumn.md)** object.
 
+
+## Remarks
+
+Use the **SetValue** method to map an XPath to a range or list column. The **SetValue** method is also used to change the properties of an existing XPath.
+
+Use the **Clear** method to remove an XPath that has been mapped to a range or list column.
 
 ## Example
 
-Use the  **[SetValue](Excel.XPath.SetValue.md)** method to map an XPath to a range or list column. The **SetValue** method is also used to change the properties of an existing XPath.
-
-The following example creates an XML list based on the "Contacts" schema map that is attached to the workbook, then uses the  **SetValue** method to bind each column to an XPath.
-
-Use the  **[Clear](Excel.XPath.Clear.md)** method to remove an XPath that has been mapped to a range or list column.
-
-
-
+The following example creates an XML list based on the Contacts schema map that is attached to the workbook, and then uses the **SetValue** method to bind each column to an XPath.
 
 ```vb
 Sub CreateXMLList() 
@@ -75,6 +74,6 @@ End Sub
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

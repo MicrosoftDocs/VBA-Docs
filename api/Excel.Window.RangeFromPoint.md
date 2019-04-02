@@ -21,7 +21,7 @@ Returns the  **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** 
 
 _expression_. `RangeFromPoint`( `_x_` , `_y_` )
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Parameters

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction
 ms.assetid: 7b1d5639-363d-632c-2cf0-2232562646b6
-ms.date: 08/28/2018
+ms.date: 04/03/2019
 localization_priority: Priority
 ---
 
@@ -19,8 +19,9 @@ Used as a container for Microsoft Excel worksheet functions that can be called f
 
 ## Example
 
-Use the **[WorksheetFunction](Excel.Application.WorksheetFunction.md)** property to return the **WorksheetFunction** object. The following example displays the result of applying the **Min** worksheet function to the range A1:C10.
+Use the **[WorksheetFunction](Excel.Application.WorksheetFunction.md)** property of the **Application** object to return the **WorksheetFunction** object. 
 
+The following example displays the result of applying the **Min** worksheet function to the range A1:C10.
 
 ```vb
 Set myRange = Worksheets("Sheet1").Range("A1:C10") 
@@ -28,12 +29,9 @@ answer = Application.WorksheetFunction.Min(myRange)
 MsgBox answer
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+<br/>
 
-This example uses the  **CountA** worksheet function to determine how many cells in column A contain a value. For this example, the values in column A should be text. This example does a spell check on each value in column A, and if the value is spelled incorrectly, inserts the text "Wrong" into column B; otherwise, it inserts the text "OK" into column B.
-
-
-
+This example uses the **CountA** worksheet function to determine how many cells in column A contain a value. For this example, the values in column A should be text. This example does a spell check on each value in column A, and if the value is spelled incorrectly, inserts the text "Wrong" into column B; otherwise, it inserts the text "OK" into column B.
 
 ```vb
 Sub StartSpelling()
@@ -44,7 +42,7 @@ Sub StartSpelling()
    On Error GoTo ERRORHANDLER
    
    'Go through all the cells in column A, and perform a spellcheck on the value.
-   'If the value is spelled incorrectly, write "Wrong" in column B, otherwise write "OK".
+   'If the value is spelled incorrectly, write "Wrong" in column B; otherwise, write "OK".
    For iRow = 1 To WorksheetFunction.CountA(Columns(1))
       If Application.CheckSpelling( _
          Cells(iRow, 1).Value, , True) = False Then
@@ -61,11 +59,6 @@ ERRORHANDLER:
     
 End Sub
 ```
-
-
-### About the contributor
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## Methods
@@ -468,6 +461,6 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 ## See also
 
 - [Using a worksheet function in a Visual Basic macro in Excel](https://support.microsoft.com/help/291309/using-a-worksheet-function-in-a-visual-basic-macro-in-excel)
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

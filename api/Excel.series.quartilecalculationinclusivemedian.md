@@ -19,7 +19,7 @@ localization_priority: Normal
 
 _expression_. `QuartileCalculationInclusiveMedian`
 
-_expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## See also

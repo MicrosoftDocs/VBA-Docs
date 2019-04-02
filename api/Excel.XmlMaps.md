@@ -7,20 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.XmlMaps
 ms.assetid: 0cb16ec8-1120-0da3-508b-c1c9b0aa1701
-ms.date: 06/08/2017
+ms.date: 04/03/2019
 localization_priority: Normal
 ---
 
 
 # XmlMaps object (Excel)
 
-Represents the collection of  **[XmlMap](Excel.XmlMap.md)** objects that have been added to a workbook.
+Represents the collection of **[XmlMap](Excel.XmlMap.md)** objects that have been added to a workbook.
 
 
 ## Example
 
-Use the  **[Add](Excel.XmlMaps.Add.md)** method to add an XML map to a workbook.
-
+Use the **Add** method to add an XML map to a workbook.
 
 ```vb
 Sub AddXmlMap() 
@@ -45,6 +44,6 @@ End Sub
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

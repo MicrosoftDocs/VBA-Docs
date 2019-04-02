@@ -21,7 +21,7 @@ Returns the effective annual interest rate, given the nominal annual interest ra
 
 _expression_. `Effect`( `_Arg1_` , `_Arg2_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

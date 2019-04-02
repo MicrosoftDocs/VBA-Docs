@@ -21,7 +21,7 @@ Drags a page break out of the print area.
 
 _expression_. `DragOff`( `_Direction_` , `_RegionIndex_` )
 
-_expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
+_expression_ A variable that represents a [VPageBreak](Excel.VPageBreak.md) object.
 
 
 ## Parameters

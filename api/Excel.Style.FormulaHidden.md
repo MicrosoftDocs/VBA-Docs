@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates if the formula will be hidde
 
 _expression_. `FormulaHidden`
 
-_expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## Remarks

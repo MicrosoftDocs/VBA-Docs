@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates if the user is allowed acces
 
 _expression_. `AllowEdit`
 
-_expression_ A variable that represents an [UserAccess](./Excel.UserAccess.md) object.
+_expression_ A variable that represents an [UserAccess](Excel.UserAccess.md) object.
 
 
 ## See also

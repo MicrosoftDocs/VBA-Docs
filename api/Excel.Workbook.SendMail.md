@@ -21,7 +21,7 @@ Sends the workbook by using the installed mail system.
 
 _expression_. `SendMail`( `_Recipients_` , `_Subject_` , `_ReturnReceipt_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Parameters

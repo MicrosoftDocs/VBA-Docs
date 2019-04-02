@@ -21,7 +21,7 @@ Returns the ODBC Connection details for the specified  **WorkbookConnection** ob
 
 _expression_. `ODBCConnection`
 
-_expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## See also
