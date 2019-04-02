@@ -19,7 +19,7 @@ Saves a page as a picture file.
 
 ## Syntax
 
- _expression_. **SaveAsPicture**(**_Filename_**,  **_pbResolution_**)
+ _expression_. **SaveAsPicture**(**_FileName_**,  **_pbResolution_**)
 
  _expression_ A variable that represents a  **Page** object.
 

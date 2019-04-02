@@ -19,7 +19,7 @@ This object, member, or enumeration is deprecated and is not intended to be used
 
 ## Syntax
 
-_expression_. `SaveWorkspace`( `_Filename_` )
+_expression_. `SaveWorkspace`( `_FileName_` )
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Optional| **Variant**||
+| _FileName_|Optional| **Variant**||
 
 ## See also
 

@@ -19,7 +19,7 @@ Performs the specified action on a local resource pool.
 
 ## Syntax
 
-_expression_. `ResourceSharingPoolAction`( `_Action_`, `_Filename_`, `_ReadOnly_` )
+_expression_. `ResourceSharingPoolAction`( `_Action_`, `_FileName_`, `_ReadOnly_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -31,7 +31,7 @@ _expression_. `ResourceSharingPoolAction`( `_Action_`, `_Filename_`, `_ReadOnly_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _action_|Required|**Long**|The actions to perform on the resource pool. Can be one of the  **[PjPoolAction](Project.PjPoolAction.md)** constants.|
-| _Filename_|Optional|**String**|The file name of the resource pool on which to perform the action.|
+| _FileName_|Optional|**String**|The file name of the resource pool on which to perform the action.|
 | _ReadOnly_|Optional|**Boolean**|**True** if the files specified with **FileName** are opened read-only.|
 
 ## Return value

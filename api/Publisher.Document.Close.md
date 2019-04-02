@@ -31,7 +31,7 @@ You can use the  **Close** method only on an open **Document** object in another
 
 ## Example
 
-This example opens a publication in a new instance of Publisher for modification and then closes the publication. (Note that to make this example work, you must replace  _Filename_ with a valid file name .)
+This example opens a publication in a new instance of Publisher for modification and then closes the publication. (Note that to make this example work, you must replace  _FileName_ with a valid file name .)
 
 
 ```vb

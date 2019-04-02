@@ -38,6 +38,8 @@ Sub DisplayAddIns()
 End Sub
 ```
 
+<br/>
+
 Use the **Add** method to add an add-in to the list of available add-ins. The **Add** method adds an add-in to the list but doesn't install the add-in. Set the **[Installed](Excel.AddIn.Installed.md)** property of the add-in to **True** to install the add-in. 
 
 To install an add-in that doesn't appear in the list of available add-ins, you must first use the **Add** method and then set the **Installed** property. This can be done in a single step, as shown in the following example (note that you use the name of the add-in, not its title, with the **Add** method).
@@ -45,6 +47,8 @@ To install an add-in that doesn't appear in the list of available add-ins, you m
 ```vb
 AddIns.Add("generic.xll").Installed = True
 ```
+
+<br/>
 
 Use **AddIns** (_index_), where _index_ is the add-in title or index number, to return a single **AddIn** object. The following example installs the Analysis Toolpak add-in.
 

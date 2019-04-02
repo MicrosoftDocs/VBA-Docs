@@ -19,7 +19,7 @@ Deletes an item from the Organizer.
 
 ## Syntax
 
-_expression_. `OrganizerDeleteItem`( `_Type_`, `_Filename_`, `_Name_`, `_Task_` )
+_expression_. `OrganizerDeleteItem`( `_Type_`, `_FileName_`, `_Name_`, `_Task_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -31,7 +31,7 @@ _expression_. `OrganizerDeleteItem`( `_Type_`, `_Filename_`, `_Name_`, `_Task_` 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Long**|The type of item to delete. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
-| _Filename_|Required|**String**|The name of the file containing the item to delete.|
+| _FileName_|Required|**String**|The name of the file containing the item to delete.|
 | _Name_|Required|**String**|The name of the item to delete.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 

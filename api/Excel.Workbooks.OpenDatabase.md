@@ -19,7 +19,7 @@ Returns a  **Workbook** object representing a database.
 
 ## Syntax
 
-_expression_. `OpenDatabase`( `_Filename_` , `_CommandText_` , `_CommandType_` , `_BackgroundQuery_` , `_ImportDataAs_` )
+_expression_. `OpenDatabase`( `_FileName_` , `_CommandText_` , `_CommandType_` , `_BackgroundQuery_` , `_ImportDataAs_` )
 
 _expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The connection string which contains the location and file name of the database.|
+| _FileName_|Required| **String**|The connection string which contains the location and file name of the database.|
 | _CommandText_|Optional| **Variant**|The command text of the query.|
 | _CommandType_|Optional| **Variant**|The command type of the query. Specify one of the constants of the  **[xlCmdType](Excel.XlCmdType.md)** enumeration: **xlCmdCube**, **xlCmdList**, **xlCmdSql**, **xlCmdTable**, and **xlCmdDefault**.|
 | _BackgroundQuery_|Optional| **Variant**|This parameter is a variant data type but you can only pass a Boolean value. If you pass  **True**, the query is performed in the background (asynchronously). The default value is **False**.|

@@ -19,7 +19,7 @@ Sets the background graphic for a chart.
 
 ## Syntax
 
-_expression_. `SetBackgroundPicture`( `_Filename_` )
+_expression_. `SetBackgroundPicture`( `_FileName_` )
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the graphic file.|
+| _FileName_|Required| **String**|The name of the graphic file.|
 
 ## See also
 

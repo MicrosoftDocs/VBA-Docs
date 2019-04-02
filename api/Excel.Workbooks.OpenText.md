@@ -19,7 +19,7 @@ Loads and parses a text file as a new workbook with a single sheet that contains
 
 ## Syntax
 
-_expression_. `OpenText`( `_Filename_` , `_Origin_` , `_StartRow_` , `_DataType_` , `_TextQualifier_` , `_ConsecutiveDelimiter_` , `_Tab_` , `_Semicolon_` , `_Comma_` , `_Space_` , `_Other_` , `_OtherChar_` , `_FieldInfo_` , `_TextVisualLayout_` , `_DecimalSeparator_` , `_ThousandsSeparator_` , `_TrailingMinusNumbers_` , `_Local_` )
+_expression_. `OpenText`( `_FileName_` , `_Origin_` , `_StartRow_` , `_DataType_` , `_TextQualifier_` , `_ConsecutiveDelimiter_` , `_Tab_` , `_Semicolon_` , `_Comma_` , `_Space_` , `_Other_` , `_OtherChar_` , `_FieldInfo_` , `_TextVisualLayout_` , `_DecimalSeparator_` , `_ThousandsSeparator_` , `_TrailingMinusNumbers_` , `_Local_` )
 
 _expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|Specifies the file name of the text file to be opened and parsed.|
+| _FileName_|Required| **String**|Specifies the file name of the text file to be opened and parsed.|
 | _Origin_|Optional| **Variant**|Specifies the origin of the text file. Can be one of the following  **xlPlatform** constants: **xlMacintosh**, **xlWindows**, or **xlMSDOS**. Additionally, this could be an integer representing the code page number of the desired code page. For example, "1256" would specify that the encoding of the source text file is Arabic (Windows). If this argument is omitted, the method uses the current setting of the **File Origin** option in the **Text Import Wizard**.|
 | _StartRow_|Optional| **Variant**|The row number at which to start parsing text. The default value is 1.|
 | _DataType_|Optional| **Variant**| Specifies the column format of the data in the file. Can be one of the following **[xlTextParsingType](Excel.XlTextParsingType.md)** constants: **xlDelimited** or **xlFixedWidth**. If this argument is not specified, Microsoft Excel attempts to determine the column format when it opens the file.|

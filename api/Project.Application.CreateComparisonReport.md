@@ -19,7 +19,7 @@ Creates a comparison report between two versions of a project.
 
 ## Syntax
 
-_expression_. `CreateComparisonReport`( `_Filename_`, `_TaskTable_`, `_ResourceTable_`, `_Items_`, `_Columns_`, `_ShowLegend_` )
+_expression_. `CreateComparisonReport`( `_FileName_`, `_TaskTable_`, `_ResourceTable_`, `_Items_`, `_Columns_`, `_ShowLegend_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -30,7 +30,7 @@ _expression_. `CreateComparisonReport`( `_Filename_`, `_TaskTable_`, `_ResourceT
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Optional|**String**|Full path and name of the project file to compare.|
+| _FileName_|Optional|**String**|Full path and name of the project file to compare.|
 | _TaskTable_|Optional|**String**|Name of the table to use for comparison in a task view.|
 | _ResourceTable_|Optional|**String**|Name of the table to use for comparison in a resource view.|
 | _Items_|Optional|**[PjCompareVersionItems](Project.PjCompareVersionItems.md)**|Specifies the type of items to compare.|
