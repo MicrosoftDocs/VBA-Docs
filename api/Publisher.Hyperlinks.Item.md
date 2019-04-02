@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Item Property (Publisher)
+title: Hyperlinks.Item property (Publisher)
 keywords: vbapb10.chm6881280
 f1_keywords:
 - vbapb10.chm6881280
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Item Property (Publisher)
+# Hyperlinks.Item property (Publisher)
 
 Returns an individual object from a specified collection. Read-only.
 

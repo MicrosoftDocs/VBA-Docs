@@ -1,5 +1,5 @@
 ---
-title: Field.Result Property (Publisher)
+title: Field.Result property (Publisher)
 keywords: vbapb10.chm6094855
 f1_keywords:
 - vbapb10.chm6094855
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Field.Result Property (Publisher)
+# Field.Result property (Publisher)
 
 Returns a  **String** that represents the result of the specified field. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.Grow Method (Publisher)
+title: Font.Grow method (Publisher)
 keywords: vbapb10.chm5373990
 f1_keywords:
 - vbapb10.chm5373990
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Grow Method (Publisher)
+# Font.Grow method (Publisher)
 
 Increases the font size to the next available size.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.SetSortOrder Method (Publisher)
+title: MailMergeDataSource.SetSortOrder method (Publisher)
 keywords: vbapb10.chm6291489
 f1_keywords:
 - vbapb10.chm6291489
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.SetSortOrder Method (Publisher)
+# MailMergeDataSource.SetSortOrder method (Publisher)
 
 Sets the sort order for mail merge data.
 

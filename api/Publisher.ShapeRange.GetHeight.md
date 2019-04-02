@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.GetHeight Method (Publisher)
+title: ShapeRange.GetHeight method (Publisher)
 keywords: vbapb10.chm2293784
 f1_keywords:
 - vbapb10.chm2293784
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.GetHeight Method (Publisher)
+# ShapeRange.GetHeight method (Publisher)
 
 Returns the height of the shape or shape range as a  **Single** in the specified units.
 

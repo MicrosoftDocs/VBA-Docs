@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparencyColor Property (Publisher)
+title: PictureFormat.TransparencyColor property (Publisher)
 keywords: vbapb10.chm3604743
 f1_keywords:
 - vbapb10.chm3604743
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.TransparencyColor Property (Publisher)
+# PictureFormat.TransparencyColor property (Publisher)
 
 Returns or sets an  **MsoRGBType** constant that represents the transparency color. Read/write.
 

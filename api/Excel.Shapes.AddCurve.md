@@ -39,7 +39,7 @@ Shape
 
 ## Example
 
-The following example adds a two-segment Bézier curve to  `myDocument`.
+The following example adds a two-segment Bézier curve to  _myDocument_.
 
 
 ```vb

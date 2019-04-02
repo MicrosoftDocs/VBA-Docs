@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AutoShapeType Property (Publisher)
+title: ShapeRange.AutoShapeType property (Publisher)
 keywords: vbapb10.chm2293810
 f1_keywords:
 - vbapb10.chm2293810
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.AutoShapeType Property (Publisher)
+# ShapeRange.AutoShapeType property (Publisher)
 
 Returns or sets an  **MsoAutoShapeType**constant that specifies a  **ShapeRange** object's AutoShape type.
 

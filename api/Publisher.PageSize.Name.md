@@ -1,5 +1,5 @@
 ---
-title: PageSize.Name Property (Publisher)
+title: PageSize.Name property (Publisher)
 keywords: vbapb10.chm8847379
 f1_keywords:
 - vbapb10.chm8847379
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSize.Name Property (Publisher)
+# PageSize.Name property (Publisher)
 
 Returns the name of the blank page size represented by the parent  **PageSize** object. Read-only.
 

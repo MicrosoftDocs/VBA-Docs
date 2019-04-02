@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnectedShape Property (Publisher)
+title: ConnectorFormat.BeginConnectedShape property (Publisher)
 keywords: vbapb10.chm3211521
 f1_keywords:
 - vbapb10.chm3211521
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnectedShape Property (Publisher)
+# ConnectorFormat.BeginConnectedShape property (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape to which the beginning of the specified connector is attached.
 

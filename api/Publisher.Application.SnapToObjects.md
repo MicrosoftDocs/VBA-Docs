@@ -1,5 +1,5 @@
 ---
-title: Application.SnapToObjects Property (Publisher)
+title: Application.SnapToObjects property (Publisher)
 keywords: vbapb10.chm131111
 f1_keywords:
 - vbapb10.chm131111
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SnapToObjects Property (Publisher)
+# Application.SnapToObjects property (Publisher)
 
  **True** for Microsoft Publisher to use objects on a page to line up other objects. Read/write **Boolean**.
 

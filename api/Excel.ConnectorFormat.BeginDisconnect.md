@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ConnectorFormat](Excel.ConnectorFor
 
 ## Example
 
-This example adds two rectangles to  `myDocument`, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
+This example adds two rectangles to  _myDocument_, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
 
 
 ```vb

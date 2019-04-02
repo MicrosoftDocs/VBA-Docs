@@ -1,5 +1,5 @@
 ---
-title: Document.AvailableBuildingBlocks Property (Publisher)
+title: Document.AvailableBuildingBlocks property (Publisher)
 keywords: vbapb10.chm196762
 f1_keywords:
 - vbapb10.chm196762
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Document.AvailableBuildingBlocks Property (Publisher)
+# Document.AvailableBuildingBlocks property (Publisher)
 
 Returns the available members of the  **[BuildingBlocks](Publisher.BuildingBlocks.md)** collection of the current document. Read-only.
 

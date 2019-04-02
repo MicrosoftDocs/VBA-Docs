@@ -1,5 +1,5 @@
 ---
-title: FillFormat.RotateWithObject Property (Publisher)
+title: FillFormat.RotateWithObject property (Publisher)
 keywords: vbapb10.chm2359585
 f1_keywords:
 - vbapb10.chm2359585
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.RotateWithObject Property (Publisher)
+# FillFormat.RotateWithObject property (Publisher)
 
 Returns or sets whether the fill rotates with the specified shape. Read/write.
 

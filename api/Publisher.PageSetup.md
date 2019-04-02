@@ -1,5 +1,5 @@
 ---
-title: PageSetup Object (Publisher)
+title: PageSetup object (Publisher)
 keywords: vbapb10.chm7012351
 f1_keywords:
 - vbapb10.chm7012351
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup Object (Publisher)
+# PageSetup object (Publisher)
 
 Contains information about the page setup for the pages in a publication.
 

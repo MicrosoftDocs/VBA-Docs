@@ -1,5 +1,5 @@
 ---
-title: Application.PrintPreview Property (Publisher)
+title: Application.PrintPreview property (Publisher)
 keywords: vbapb10.chm131106
 f1_keywords:
 - vbapb10.chm131106
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PrintPreview Property (Publisher)
+# Application.PrintPreview property (Publisher)
 
  **True** to display in Print Preview the publication in the current view. Read/write **Boolean**.
 

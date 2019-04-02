@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarHyperlinks.Count Property (Publisher)
+title: WebNavigationBarHyperlinks.Count property (Publisher)
 keywords: vbapb10.chm8585219
 f1_keywords:
 - vbapb10.chm8585219
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarHyperlinks.Count Property (Publisher)
+# WebNavigationBarHyperlinks.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

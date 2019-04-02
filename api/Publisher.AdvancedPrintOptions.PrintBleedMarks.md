@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.PrintBleedMarks Property (Publisher)
+title: AdvancedPrintOptions.PrintBleedMarks property (Publisher)
 keywords: vbapb10.chm7077907
 f1_keywords:
 - vbapb10.chm7077907
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.PrintBleedMarks Property (Publisher)
+# AdvancedPrintOptions.PrintBleedMarks property (Publisher)
 
  **True** to print bleed marks in the specified publication. The default is **False**. Read/write  **Boolean**.
 

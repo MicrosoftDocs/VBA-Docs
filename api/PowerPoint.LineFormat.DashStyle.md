@@ -48,7 +48,7 @@ The value of the  **DashStyle** property can be one of these **MsoLineDashStyle*
 
 ## Example
 
-This example adds a blue dashed line to  `myDocument`.
+This example adds a blue dashed line to  _myDocument_.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: Row Object (Publisher)
+title: Row object (Publisher)
 keywords: vbapb10.chm4915199
 f1_keywords:
 - vbapb10.chm4915199
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row Object (Publisher)
+# Row object (Publisher)
 
 Represents a row in a table. The  **Row** object is a member of the **[Rows](Publisher.Rows.md)** collection. The **Rows** collection includes all the rows in a specified table.
  

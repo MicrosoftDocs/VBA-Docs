@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilters.Delete Method (Publisher)
+title: MailMergeFilters.Delete method (Publisher)
 keywords: vbapb10.chm6750213
 f1_keywords:
 - vbapb10.chm6750213
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeFilters.Delete Method (Publisher)
+# MailMergeFilters.Delete method (Publisher)
 
 Deletes the specified object.
 

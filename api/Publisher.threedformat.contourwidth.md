@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ContourWidth Property (Publisher)
+title: ThreeDFormat.ContourWidth property (Publisher)
 keywords: vbapb10.chm3801378
 f1_keywords:
 - vbapb10.chm3801378
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ContourWidth Property (Publisher)
+# ThreeDFormat.ContourWidth property (Publisher)
 
 Returns or sets a  **Single** that represents the width of the contour of a shape. Read/write.
 

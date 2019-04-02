@@ -36,7 +36,7 @@ The value of this property affects the appearance of solid-colored fills and lin
 
 ## Example
 
-This example sets the shadow for shape three on  `myDocument` to semitransparent red. If the shape doesn't already have a shadow, this example adds one to it.
+This example sets the shadow for shape three on  _myDocument_ to semitransparent red. If the shape doesn't already have a shadow, this example adds one to it.
 
 
 ```vb

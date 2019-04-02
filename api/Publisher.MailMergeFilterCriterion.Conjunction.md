@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion.Conjunction Property (Publisher)
+title: MailMergeFilterCriterion.Conjunction property (Publisher)
 keywords: vbapb10.chm6815750
 f1_keywords:
 - vbapb10.chm6815750
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion.Conjunction Property (Publisher)
+# MailMergeFilterCriterion.Conjunction property (Publisher)
 
 Returns or sets an  **MsoFilterConjunction** constant that represents how a filter criterion relates to other filter criteria in the **[MailMergeFilters](Publisher.MailMergeFilters.md)** object. Read/write.
 

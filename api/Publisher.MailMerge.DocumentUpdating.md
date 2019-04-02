@@ -1,5 +1,5 @@
 ---
-title: MailMerge.DocumentUpdating Property (Publisher)
+title: MailMerge.DocumentUpdating property (Publisher)
 keywords: vbapb10.chm6225925
 f1_keywords:
 - vbapb10.chm6225925
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.DocumentUpdating Property (Publisher)
+# MailMerge.DocumentUpdating property (Publisher)
 
 Returns or sets a  **Boolean** indicating whether the screen is updated while mail merge code is running. Default is **True** (the screen is updated). Read/write.
 

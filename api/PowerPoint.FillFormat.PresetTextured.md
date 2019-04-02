@@ -67,7 +67,7 @@ The value of the PresetTexturedargument can be one of these  **MsoPresetTexture*
 
 ## Example
 
-This example adds a rectangle with a green-marble textured fill to  `myDocument`.
+This example adds a rectangle with a green-marble textured fill to  _myDocument_.
 
 
 ```vb

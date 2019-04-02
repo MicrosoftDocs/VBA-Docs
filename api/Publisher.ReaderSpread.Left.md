@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread.Left Property (Publisher)
+title: ReaderSpread.Left property (Publisher)
 keywords: vbapb10.chm524291
 f1_keywords:
 - vbapb10.chm524291
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReaderSpread.Left Property (Publisher)
+# ReaderSpread.Left property (Publisher)
 
 Returns a  **Single** indicating the position (in points) of the left edge of the reader spread from the workspace. Read-only.
 

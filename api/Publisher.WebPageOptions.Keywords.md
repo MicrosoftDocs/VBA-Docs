@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.Keywords Property (Publisher)
+title: WebPageOptions.Keywords property (Publisher)
 keywords: vbapb10.chm544772
 f1_keywords:
 - vbapb10.chm544772
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebPageOptions.Keywords Property (Publisher)
+# WebPageOptions.Keywords property (Publisher)
 
 Returns or sets a  **String** that represents the keywords for a Web page within a Web publication. Read/write.
 

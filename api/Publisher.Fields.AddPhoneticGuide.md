@@ -1,5 +1,5 @@
 ---
-title: Fields.AddPhoneticGuide Method (Publisher)
+title: Fields.AddPhoneticGuide method (Publisher)
 keywords: vbapb10.chm6029320
 f1_keywords:
 - vbapb10.chm6029320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fields.AddPhoneticGuide Method (Publisher)
+# Fields.AddPhoneticGuide method (Publisher)
 
 Returns a  **[Field](Publisher.Field.md)** object that represents phonetic text added to the specified range.
 

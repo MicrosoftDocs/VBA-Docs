@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Orientation Property (Publisher)
+title: TextFrame.Orientation property (Publisher)
 keywords: vbapb10.chm3866659
 f1_keywords:
 - vbapb10.chm3866659
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.Orientation Property (Publisher)
+# TextFrame.Orientation property (Publisher)
 
 Returns or sets a  **PbTextOrientation**constant that represents how text flows in a text box. Read/write.
 

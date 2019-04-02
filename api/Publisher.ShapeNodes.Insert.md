@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Insert Method (Publisher)
+title: ShapeNodes.Insert method (Publisher)
 keywords: vbapb10.chm3473426
 f1_keywords:
 - vbapb10.chm3473426
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.Insert Method (Publisher)
+# ShapeNodes.Insert method (Publisher)
 
 Inserts a new segment after the specified node of the freeform drawing.
 

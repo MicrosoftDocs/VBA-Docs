@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Replace Method (Publisher)
+title: PictureFormat.Replace method (Publisher)
 keywords: vbapb10.chm3604786
 f1_keywords:
 - vbapb10.chm3604786
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Replace Method (Publisher)
+# PictureFormat.Replace method (Publisher)
 
 Replaces the specified picture. Returns  **Nothing**.
 

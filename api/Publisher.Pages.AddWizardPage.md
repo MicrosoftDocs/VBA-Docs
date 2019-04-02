@@ -1,5 +1,5 @@
 ---
-title: Pages.AddWizardPage Method (Publisher)
+title: Pages.AddWizardPage method (Publisher)
 keywords: vbapb10.chm458758
 f1_keywords:
 - vbapb10.chm458758
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.AddWizardPage Method (Publisher)
+# Pages.AddWizardPage method (Publisher)
 
 Adds the specified new wizard page to a specified location in a publication.
 

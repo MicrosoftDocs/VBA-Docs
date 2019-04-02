@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddWordArt Method (Publisher)
+title: Shapes.AddWordArt method (Publisher)
 keywords: vbapb10.chm2162761
 f1_keywords:
 - vbapb10.chm2162761
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddWordArt Method (Publisher)
+# Shapes.AddWordArt method (Publisher)
 
 Returns a  **Shape** object that represents the WordArt to be added to the publication.
 

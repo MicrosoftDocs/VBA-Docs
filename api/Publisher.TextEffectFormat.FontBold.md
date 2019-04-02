@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontBold Property (Publisher)
+title: TextEffectFormat.FontBold property (Publisher)
 keywords: vbapb10.chm3735809
 f1_keywords:
 - vbapb10.chm3735809
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontBold Property (Publisher)
+# TextEffectFormat.FontBold property (Publisher)
 
 Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is bold. Read/write.
 

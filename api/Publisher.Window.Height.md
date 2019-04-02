@@ -1,5 +1,5 @@
 ---
-title: Window.Height Property (Publisher)
+title: Window.Height property (Publisher)
 keywords: vbapb10.chm262151
 f1_keywords:
 - vbapb10.chm262151
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Height Property (Publisher)
+# Window.Height property (Publisher)
 
 Returns or sets a  **Long** that represents the height (in points) of the window. Read/write.
 

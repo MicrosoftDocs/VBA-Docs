@@ -1,5 +1,5 @@
 ---
-title: Application.Language Property (Publisher)
+title: Application.Language property (Publisher)
 keywords: vbapb10.chm131091
 f1_keywords:
 - vbapb10.chm131091
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Language Property (Publisher)
+# Application.Language property (Publisher)
 
 Returns a  **Long** that represents the language selected for the Microsoft Publisher user interface. Read-only.
 

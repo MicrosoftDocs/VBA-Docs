@@ -1,5 +1,5 @@
 ---
-title: Sections.Add Method (Publisher)
+title: Sections.Add method (Publisher)
 keywords: vbapb10.chm7340038
 f1_keywords:
 - vbapb10.chm7340038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sections.Add Method (Publisher)
+# Sections.Add method (Publisher)
 
 Adds a new  **Section** object to the specified **Sections** collection and returns the new **Section** object.
 

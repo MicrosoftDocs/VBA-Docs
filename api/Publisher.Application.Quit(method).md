@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Method (Publisher)
+title: Application.Quit method (Publisher)
 keywords: vbapb10.chm131129
 f1_keywords:
 - vbapb10.chm131129
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Quit Method (Publisher)
+# Application.Quit method (Publisher)
 
 Quits Microsoft Publisher. This is equivalent to clicking  **Exit** on the **File** menu.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.HasTransparencyColor Property (Publisher)
+title: PictureFormat.HasTransparencyColor property (Publisher)
 keywords: vbapb10.chm3604789
 f1_keywords:
 - vbapb10.chm3604789
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.HasTransparencyColor Property (Publisher)
+# PictureFormat.HasTransparencyColor property (Publisher)
 
 Returns a  **Boolean** that indicates whether a transparency color has been applied to the specified picture. Read-only.
 

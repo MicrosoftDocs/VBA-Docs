@@ -1,5 +1,5 @@
 ---
-title: Fields.Unlink Method (Publisher)
+title: Fields.Unlink method (Publisher)
 keywords: vbapb10.chm6029316
 f1_keywords:
 - vbapb10.chm6029316
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fields.Unlink Method (Publisher)
+# Fields.Unlink method (Publisher)
 
 Replaces the specified field or  **[Fields](Publisher.Fields.md)** collection with their most recent results.
 

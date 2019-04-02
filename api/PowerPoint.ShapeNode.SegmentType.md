@@ -43,7 +43,7 @@ The value returned by the  **SegmentType** property can be one of these **MsoSeg
 
 ## Example
 
-This example changes all straight segments to curved segments in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all straight segments to curved segments in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

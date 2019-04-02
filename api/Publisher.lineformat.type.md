@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Type Property (Publisher)
+title: LineFormat.Type property (Publisher)
 keywords: vbapb10.chm3408162
 f1_keywords:
 - vbapb10.chm3408162
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Type Property (Publisher)
+# LineFormat.Type property (Publisher)
 
 Returns the line fill-format type. Read-only.
 

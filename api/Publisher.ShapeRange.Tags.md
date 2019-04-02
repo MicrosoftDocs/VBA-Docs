@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Tags Property (Publisher)
+title: ShapeRange.Tags property (Publisher)
 keywords: vbapb10.chm2293865
 f1_keywords:
 - vbapb10.chm2293865
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Tags Property (Publisher)
+# ShapeRange.Tags property (Publisher)
 
 Returns a  **[Tags](Publisher.Tags.md)** collection representing tags or custom properties applied to a shape, shape range, page, or publication.
 

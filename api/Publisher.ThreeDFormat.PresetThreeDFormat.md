@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetThreeDFormat Property (Publisher)
+title: ThreeDFormat.PresetThreeDFormat property (Publisher)
 keywords: vbapb10.chm3801352
 f1_keywords:
 - vbapb10.chm3801352
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetThreeDFormat Property (Publisher)
+# ThreeDFormat.PresetThreeDFormat property (Publisher)
 
 Returns an  **MsoPresetThreeDFormat** constant that represents the preset extrusion format. Read-only.
 

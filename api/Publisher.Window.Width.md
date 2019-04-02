@@ -1,5 +1,5 @@
 ---
-title: Window.Width Property (Publisher)
+title: Window.Width property (Publisher)
 keywords: vbapb10.chm262150
 f1_keywords:
 - vbapb10.chm262150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Width Property (Publisher)
+# Window.Width property (Publisher)
 
 Returns or sets a  **Long** that represents the width (in points) of the window. Read/write.
 

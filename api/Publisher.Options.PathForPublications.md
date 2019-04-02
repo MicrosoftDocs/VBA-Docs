@@ -1,5 +1,5 @@
 ---
-title: Options.PathForPublications Property (Publisher)
+title: Options.PathForPublications property (Publisher)
 keywords: vbapb10.chm1048597
 f1_keywords:
 - vbapb10.chm1048597
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.PathForPublications Property (Publisher)
+# Options.PathForPublications property (Publisher)
 
 Returns a  **String** that represents the default folder for publications. Read.
 

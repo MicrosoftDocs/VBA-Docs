@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.ConnectString Property (Publisher)
+title: MailMergeDataSource.ConnectString property (Publisher)
 keywords: vbapb10.chm6291460
 f1_keywords:
 - vbapb10.chm6291460
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.ConnectString Property (Publisher)
+# MailMergeDataSource.ConnectString property (Publisher)
 
 Returns a  **String** that represents the connection to the specified mail merge data source. Read-only.
 

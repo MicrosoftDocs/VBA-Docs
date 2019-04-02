@@ -1,5 +1,5 @@
 ---
-title: Printer.PaperSource Property (Publisher)
+title: Printer.PaperSource property (Publisher)
 keywords: vbapb10.chm8978449
 f1_keywords:
 - vbapb10.chm8978449
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Printer.PaperSource Property (Publisher)
+# Printer.PaperSource property (Publisher)
 
 Returns the paper source setting found on the  **Publication and Paper Settings** tab in the **Print Setup** dialog box in the Microsoft Publisher user interface (**File** menu). Read-only.
 

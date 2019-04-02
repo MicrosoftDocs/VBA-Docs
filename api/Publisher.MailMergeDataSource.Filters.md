@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Filters Property (Publisher)
+title: MailMergeDataSource.Filters property (Publisher)
 keywords: vbapb10.chm6291463
 f1_keywords:
 - vbapb10.chm6291463
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.Filters Property (Publisher)
+# MailMergeDataSource.Filters property (Publisher)
 
 Returns a  **[MailMergeFilters](Publisher.MailMergeFilters.md)** object that represents filters applied to the mail merge or catalog merge data source.
 

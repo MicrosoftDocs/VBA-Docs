@@ -43,7 +43,7 @@ To change the rotation of a shape around the y-axis, use the  **[IncrementRotati
 
 ## Example
 
-This example tilts shape one on  `myDocument` up 10 degrees. Shape one must be an extruded shape for you to see the effect of this code.
+This example tilts shape one on  _myDocument_ up 10 degrees. Shape one must be an extruded shape for you to see the effect of this code.
 
 
 ```vb

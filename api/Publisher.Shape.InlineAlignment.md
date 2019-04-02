@@ -1,5 +1,5 @@
 ---
-title: Shape.InlineAlignment Property (Publisher)
+title: Shape.InlineAlignment property (Publisher)
 keywords: vbapb10.chm5308694
 f1_keywords:
 - vbapb10.chm5308694
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.InlineAlignment Property (Publisher)
+# Shape.InlineAlignment property (Publisher)
 
 Returns or sets a  **PbInlineAlignment** constant that indicates whether an inline shape has left, right, or in-text alignment. Read/write.
 

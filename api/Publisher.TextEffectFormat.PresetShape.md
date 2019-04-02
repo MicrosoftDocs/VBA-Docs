@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.PresetShape Property (Publisher)
+title: TextEffectFormat.PresetShape property (Publisher)
 keywords: vbapb10.chm3735815
 f1_keywords:
 - vbapb10.chm3735815
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.PresetShape Property (Publisher)
+# TextEffectFormat.PresetShape property (Publisher)
 
 Returns or sets an  **MsoPresetTextEffectShape** constant that represents the shape of the specified WordArt. Read/write.
 

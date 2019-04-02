@@ -1,5 +1,5 @@
 ---
-title: WebOptions.RelyOnVML Property (Publisher)
+title: WebOptions.RelyOnVML property (Publisher)
 keywords: vbapb10.chm8257543
 f1_keywords:
 - vbapb10.chm8257543
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebOptions.RelyOnVML Property (Publisher)
+# WebOptions.RelyOnVML property (Publisher)
 
 Returns or sets a  **Boolean** value that specifies whether image files are generated from drawing objects when a Web publication is saved. If **True**, image files are not generated. If  **False**, images are generated. The default value is  **False**. Read/write.
 

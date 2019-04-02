@@ -1,5 +1,5 @@
 ---
-title: CellRange.Row Property (Publisher)
+title: CellRange.Row property (Publisher)
 keywords: vbapb10.chm5177350
 f1_keywords:
 - vbapb10.chm5177350
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Row Property (Publisher)
+# CellRange.Row property (Publisher)
 
 Returns a  **Long** that represents the row number containing the specified cell. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Pages Property (Publisher)
+title: Document.Pages property (Publisher)
 keywords: vbapb10.chm196631
 f1_keywords:
 - vbapb10.chm196631
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Pages Property (Publisher)
+# Document.Pages property (Publisher)
 
 Returns a  **[Pages](Publisher.Pages.md)** collection representing all the pages in the specified publication.
 

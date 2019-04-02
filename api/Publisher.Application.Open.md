@@ -1,5 +1,5 @@
 ---
-title: Application.Open Method (Publisher)
+title: Application.Open method (Publisher)
 keywords: vbapb10.chm131128
 f1_keywords:
 - vbapb10.chm131128
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Open Method (Publisher)
+# Application.Open method (Publisher)
 
 Returns a  **[Document](Publisher.Document.md)** object that represents the newly opened publication.
 

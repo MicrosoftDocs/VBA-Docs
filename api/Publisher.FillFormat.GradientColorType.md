@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientColorType Property (Publisher)
+title: FillFormat.GradientColorType property (Publisher)
 keywords: vbapb10.chm2359554
 f1_keywords:
 - vbapb10.chm2359554
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientColorType Property (Publisher)
+# FillFormat.GradientColorType property (Publisher)
 
 Returns an  **MsoGradientColorType** constant indicating the gradient color type for the specified fill. Read-only.
 

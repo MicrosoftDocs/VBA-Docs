@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureName Property (Publisher)
+title: FillFormat.TextureName property (Publisher)
 keywords: vbapb10.chm2359561
 f1_keywords:
 - vbapb10.chm2359561
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureName Property (Publisher)
+# FillFormat.TextureName property (Publisher)
 
 Returns a  **String** indicating the name of the custom texture file for the specified fill. Read-only.
 

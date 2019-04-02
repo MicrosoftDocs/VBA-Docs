@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread.PageCount Property (Publisher)
+title: ReaderSpread.PageCount property (Publisher)
 keywords: vbapb10.chm524294
 f1_keywords:
 - vbapb10.chm524294
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReaderSpread.PageCount Property (Publisher)
+# ReaderSpread.PageCount property (Publisher)
 
 Returns a  **Long** indicating the number of pages in the specified reader spread. Read-only.
 

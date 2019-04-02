@@ -1,5 +1,5 @@
 ---
-title: Shape.HorizontalFlip Property (Publisher)
+title: Shape.HorizontalFlip property (Publisher)
 keywords: vbapb10.chm2228288
 f1_keywords:
 - vbapb10.chm2228288
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.HorizontalFlip Property (Publisher)
+# Shape.HorizontalFlip property (Publisher)
 
 Indicates whether the specified shape has been flipped around its horizontal axis. Read-only.
 

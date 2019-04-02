@@ -36,7 +36,7 @@ Applies to  **[Shape](PowerPoint.Shape.md)** objects that represent WordArt.
 
 ## Example
 
-This example sets the font style to bold for shape three on  `myDocument` if the shape is WordArt.
+This example sets the font style to bold for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb

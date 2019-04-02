@@ -1,5 +1,5 @@
 ---
-title: Font.AutomaticPairKerningThreshold Property (Publisher)
+title: Font.AutomaticPairKerningThreshold property (Publisher)
 keywords: vbapb10.chm5373975
 f1_keywords:
 - vbapb10.chm5373975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.AutomaticPairKerningThreshold Property (Publisher)
+# Font.AutomaticPairKerningThreshold property (Publisher)
 
 Returns or sets a  **Variant** value that represents the point size above which kerning is automatically adjusted for characters in the specified text range. Read/write.
 

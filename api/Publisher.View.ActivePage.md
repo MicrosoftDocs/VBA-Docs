@@ -1,5 +1,5 @@
 ---
-title: View.ActivePage Property (Publisher)
+title: View.ActivePage property (Publisher)
 keywords: vbapb10.chm327683
 f1_keywords:
 - vbapb10.chm327683
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.ActivePage Property (Publisher)
+# View.ActivePage property (Publisher)
 
 Returns a  **[Page](Publisher.Page.md)** object that represents the page currently displayed in the Microsoft Publisher window.
 

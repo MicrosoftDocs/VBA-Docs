@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradientType Property (Publisher)
+title: FillFormat.PresetGradientType property (Publisher)
 keywords: vbapb10.chm2359559
 f1_keywords:
 - vbapb10.chm2359559
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetGradientType Property (Publisher)
+# FillFormat.PresetGradientType property (Publisher)
 
 Returns an  **MsoPresetGradientType** constant that represents the preset gradient type for the specified fill. Read-only.
 

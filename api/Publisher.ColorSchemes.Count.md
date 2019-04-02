@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes.Count Property (Publisher)
+title: ColorSchemes.Count property (Publisher)
 keywords: vbapb10.chm2752514
 f1_keywords:
 - vbapb10.chm2752514
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorSchemes.Count Property (Publisher)
+# ColorSchemes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

@@ -26,7 +26,7 @@ _expression_. `Connector`
 
 ## Example
 
-This example deletes all connectors on  `myDocument`.
+This example deletes all connectors on  _myDocument_.
 
 
 ```vb

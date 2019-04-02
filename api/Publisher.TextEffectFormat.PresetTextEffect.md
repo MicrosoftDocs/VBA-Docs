@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.PresetTextEffect Property (Publisher)
+title: TextEffectFormat.PresetTextEffect property (Publisher)
 keywords: vbapb10.chm3735816
 f1_keywords:
 - vbapb10.chm3735816
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.PresetTextEffect Property (Publisher)
+# TextEffectFormat.PresetTextEffect property (Publisher)
 
 Returns or sets an  **MsoPresetTextEffect** constant that represents the style of the specified WordArt. The values for this property correspond to the formats in the **WordArt Gallery** dialog box, numbered from left to right, top to bottom. Read/write.
 

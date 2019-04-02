@@ -1,5 +1,5 @@
 ---
-title: Shape.Top Property (Publisher)
+title: Shape.Top property (Publisher)
 keywords: vbapb10.chm2228306
 f1_keywords:
 - vbapb10.chm2228306
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Top Property (Publisher)
+# Shape.Top property (Publisher)
 
 Returns or sets a  **Variant** that represents the distance between the top of the page and the top of a shape. Read/write.
 

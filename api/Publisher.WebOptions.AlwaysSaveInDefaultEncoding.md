@@ -1,5 +1,5 @@
 ---
-title: WebOptions.AlwaysSaveInDefaultEncoding Property (Publisher)
+title: WebOptions.AlwaysSaveInDefaultEncoding property (Publisher)
 keywords: vbapb10.chm8257539
 f1_keywords:
 - vbapb10.chm8257539
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebOptions.AlwaysSaveInDefaultEncoding Property (Publisher)
+# WebOptions.AlwaysSaveInDefaultEncoding property (Publisher)
 
 Returns or sets a  **Boolean** value that specifies whether Web pages within a Web publication should always be saved using default encoding. If **True**, Web pages within a publication will always be saved using the default encoding of the client computer. If  **False**, Web pages will not be saved using default encoding. The default value is  **False**. Read/write.
 

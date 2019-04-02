@@ -1,5 +1,5 @@
 ---
-title: BuildingBlocks.Parent Property (Publisher)
+title: BuildingBlocks.Parent property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.BuildingBlocks.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlocks.Parent Property (Publisher)
+# BuildingBlocks.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. Read-only.
 

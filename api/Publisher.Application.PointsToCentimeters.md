@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToCentimeters Method (Publisher)
+title: Application.PointsToCentimeters method (Publisher)
 keywords: vbapb10.chm131155
 f1_keywords:
 - vbapb10.chm131155
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PointsToCentimeters Method (Publisher)
+# Application.PointsToCentimeters method (Publisher)
 
 Converts a measurement from points to centimeters (1 cm = 28.35 points). Returns the converted measurement as a  **Single**.
 

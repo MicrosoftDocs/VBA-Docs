@@ -1,5 +1,5 @@
 ---
-title: WebCheckBox.Value Property (Publisher)
+title: WebCheckBox.Value property (Publisher)
 keywords: vbapb10.chm4325381
 f1_keywords:
 - vbapb10.chm4325381
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCheckBox.Value Property (Publisher)
+# WebCheckBox.Value property (Publisher)
 
 Returns or sets a  **String** that represents the value of a Web check box or option button. Read/write.
 

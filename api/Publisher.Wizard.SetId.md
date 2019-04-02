@@ -1,5 +1,5 @@
 ---
-title: Wizard.SetId Method (Publisher)
+title: Wizard.SetId method (Publisher)
 keywords: vbapb10.chm1441798
 f1_keywords:
 - vbapb10.chm1441798
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Wizard.SetId Method (Publisher)
+# Wizard.SetId method (Publisher)
 
 Specifies the type of the wizard (template) to which to convert the current publication type.
 

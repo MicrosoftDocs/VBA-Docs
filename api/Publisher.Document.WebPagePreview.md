@@ -1,5 +1,5 @@
 ---
-title: Document.WebPagePreview Method (Publisher)
+title: Document.WebPagePreview method (Publisher)
 keywords: vbapb10.chm196724
 f1_keywords:
 - vbapb10.chm196724
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.WebPagePreview Method (Publisher)
+# Document.WebPagePreview method (Publisher)
 
 Generates a Web page preview of the specified publication in Internet Explorer.
 

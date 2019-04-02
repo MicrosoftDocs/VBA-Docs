@@ -1,5 +1,5 @@
 ---
-title: LineFormat Object (Publisher)
+title: LineFormat object (Publisher)
 keywords: vbapb10.chm3473407
 f1_keywords:
 - vbapb10.chm3473407
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat Object (Publisher)
+# LineFormat object (Publisher)
 
 Represents line and arrowhead formatting. For a line, the  **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
  

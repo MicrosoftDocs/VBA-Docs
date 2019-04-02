@@ -1,5 +1,5 @@
 ---
-title: Shape.Apply Method (Publisher)
+title: Shape.Apply method (Publisher)
 keywords: vbapb10.chm2228240
 f1_keywords:
 - vbapb10.chm2228240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Apply Method (Publisher)
+# Shape.Apply method (Publisher)
 
 Applies formatting copied from another shape or shape range using the  **[PickUp](Publisher.Shape.PickUp.md)** method.
 

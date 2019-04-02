@@ -1,5 +1,5 @@
 ---
-title: Plate.InUse Property (Publisher)
+title: Plate.InUse property (Publisher)
 keywords: vbapb10.chm2883602
 f1_keywords:
 - vbapb10.chm2883602
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plate.InUse Property (Publisher)
+# Plate.InUse property (Publisher)
 
 Returns  **True** if the specified ink (represented by the plate) is used in the publication. Read-only **Boolean**.
 

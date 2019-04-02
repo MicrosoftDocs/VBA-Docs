@@ -1,5 +1,5 @@
 ---
-title: BorderArts.Count Property (Publisher)
+title: BorderArts.Count property (Publisher)
 keywords: vbapb10.chm7733251
 f1_keywords:
 - vbapb10.chm7733251
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BorderArts.Count Property (Publisher)
+# BorderArts.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

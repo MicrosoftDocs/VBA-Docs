@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Pattern Property (Publisher)
+title: LineFormat.Pattern property (Publisher)
 keywords: vbapb10.chm3408137
 f1_keywords:
 - vbapb10.chm3408137
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Pattern Property (Publisher)
+# LineFormat.Pattern property (Publisher)
 
 Returns or sets an  **MsoPatternType** constant that represents the pattern applied to the specified fill or line.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) obje
 
 ## Example
 
-This example adds a blue dashed line to  `myDocument`.
+This example adds a blue dashed line to  _myDocument_.
 
 
 ```vb
@@ -37,7 +37,7 @@ With myDocument.Shapes.AddLine(10, 10, 250, 250).Line
 End With
 ```
 
-This example adds a cross to  `myDocument` and then sets its border to be 8 points thick and red.
+This example adds a cross to  _myDocument_ and then sets its border to be 8 points thick and red.
 
 
 

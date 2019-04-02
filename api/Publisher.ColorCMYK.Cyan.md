@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK.Cyan Property (Publisher)
+title: ColorCMYK.Cyan property (Publisher)
 keywords: vbapb10.chm2621443
 f1_keywords:
 - vbapb10.chm2621443
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorCMYK.Cyan Property (Publisher)
+# ColorCMYK.Cyan property (Publisher)
 
 Sets or returns a  **Long** that represents the cyan component of a CMYK color. Value can be any number between 0 and 255. Read/write.
 

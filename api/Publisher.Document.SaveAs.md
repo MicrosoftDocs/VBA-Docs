@@ -1,5 +1,5 @@
 ---
-title: Document.SaveAs Method (Publisher)
+title: Document.SaveAs method (Publisher)
 keywords: vbapb10.chm196696
 f1_keywords:
 - vbapb10.chm196696
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SaveAs Method (Publisher)
+# Document.SaveAs method (Publisher)
 
 Saves the specified publication with a new name or format.
 

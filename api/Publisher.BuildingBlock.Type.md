@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Type Property (Publisher)
+title: BuildingBlock.Type property (Publisher)
 keywords: vbapb10.chm9502720
 f1_keywords:
 - vbapb10.chm9502720
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlock.Type Property (Publisher)
+# BuildingBlock.Type property (Publisher)
 
 A  **[PbBuildingBlockType enumeration (Publisher)](Publisher.pbbuildingblocktype.md)** value that represents the type of the building block. Read-only.
 

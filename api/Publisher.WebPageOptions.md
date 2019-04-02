@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions Object (Publisher)
+title: WebPageOptions object (Publisher)
 keywords: vbapb10.chm548863
 f1_keywords:
 - vbapb10.chm548863
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebPageOptions Object (Publisher)
+# WebPageOptions object (Publisher)
 
 Represents the properties of a single Web page within a Web publication, including options for adding the title and description of the page, background sounds, in addition to other options. The  **WebPageOptions** object is a member of the **[Page](Publisher.Page.md)** object.
  

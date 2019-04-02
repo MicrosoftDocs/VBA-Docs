@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Obscured Property (Publisher)
+title: ShadowFormat.Obscured property (Publisher)
 keywords: vbapb10.chm3670273
 f1_keywords:
 - vbapb10.chm3670273
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Obscured Property (Publisher)
+# ShadowFormat.Obscured property (Publisher)
 
 Returns or sets an  **MsoTriState** value indicating whether the shadow of the specified shape appears filled in and is obscured by the shape. Read/write.
 

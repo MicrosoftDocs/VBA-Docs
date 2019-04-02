@@ -26,7 +26,7 @@ _expression_. `ColorType`
 
 ## Example
 
-This example sets the color transformation to grayscale through  **[MsoPictureColorType](Office.MsoPictureColorType.md)** for shape one on `myDocument`. Shape one must be either a picture or an OLE object.
+This example sets the color transformation to grayscale through  **[MsoPictureColorType](Office.MsoPictureColorType.md)** for shape one on _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb

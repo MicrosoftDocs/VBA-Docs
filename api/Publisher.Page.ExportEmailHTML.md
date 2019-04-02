@@ -1,5 +1,5 @@
 ---
-title: Page.ExportEmailHTML Method (Publisher)
+title: Page.ExportEmailHTML method (Publisher)
 keywords: vbapb10.chm393273
 f1_keywords:
 - vbapb10.chm393273
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.ExportEmailHTML Method (Publisher)
+# Page.ExportEmailHTML method (Publisher)
 
 Exports the active page of the publication as an HTML file.
 

@@ -1,5 +1,5 @@
 ---
-title: LineFormat.GradientAngle Property (Publisher)
+title: LineFormat.GradientAngle property (Publisher)
 keywords: vbapb10.chm3408149
 f1_keywords:
 - vbapb10.chm3408149
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.GradientAngle Property (Publisher)
+# LineFormat.GradientAngle property (Publisher)
 
 Returns or sets the angle of the gradient fill for the specified fill format. Read/write.
 

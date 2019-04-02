@@ -1,5 +1,5 @@
 ---
-title: Options.UseCatalogAtStartup Property (Publisher)
+title: Options.UseCatalogAtStartup property (Publisher)
 keywords: vbapb10.chm1048612
 f1_keywords:
 - vbapb10.chm1048612
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.UseCatalogAtStartup Property (Publisher)
+# Options.UseCatalogAtStartup property (Publisher)
 
  **True** for Microsoft Publisher to show the catalog when starting. Read/write **Boolean**.
 

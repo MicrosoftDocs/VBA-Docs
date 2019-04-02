@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.TextStyle Property (Publisher)
+title: ParagraphFormat.TextStyle property (Publisher)
 keywords: vbapb10.chm5439508
 f1_keywords:
 - vbapb10.chm5439508
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.TextStyle Property (Publisher)
+# ParagraphFormat.TextStyle property (Publisher)
 
 Returns or sets a  **Variant** that represents the text style applied to a paragraph. Read/write.
 

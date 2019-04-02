@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.ConvertToShape Method (Publisher)
+title: FreeformBuilder.ConvertToShape method (Publisher)
 keywords: vbapb10.chm3276817
 f1_keywords:
 - vbapb10.chm3276817
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FreeformBuilder.ConvertToShape Method (Publisher)
+# FreeformBuilder.ConvertToShape method (Publisher)
 
 Creates a shape that has the geometric characteristics of the specified  **[FreeformBuilder](Publisher.FreeformBuilder.md)** object. Returns a **[Shape](Publisher.Shape.md)** object that represents the new shape.
 

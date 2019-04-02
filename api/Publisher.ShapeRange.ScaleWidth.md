@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ScaleWidth Method (Publisher)
+title: ShapeRange.ScaleWidth method (Publisher)
 keywords: vbapb10.chm2293798
 f1_keywords:
 - vbapb10.chm2293798
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ScaleWidth Method (Publisher)
+# ShapeRange.ScaleWidth method (Publisher)
 
 Scales the width of the shape by a specified factor. For pictures and OLE objects, you can indicate whether you want to scale the shape relative to the original size or relative to the current size.
 

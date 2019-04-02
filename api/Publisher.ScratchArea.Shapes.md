@@ -1,5 +1,5 @@
 ---
-title: ScratchArea.Shapes Property (Publisher)
+title: ScratchArea.Shapes property (Publisher)
 keywords: vbapb10.chm1179651
 f1_keywords:
 - vbapb10.chm1179651
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ScratchArea.Shapes Property (Publisher)
+# ScratchArea.Shapes property (Publisher)
 
 Returns a  **[Shapes](Publisher.Shapes.md)** collection that represents all the  **Shape** objects in the specified publication. This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell.BorderDiagonal Property (Publisher)
+title: Cell.BorderDiagonal property (Publisher)
 keywords: vbapb10.chm5111810
 f1_keywords:
 - vbapb10.chm5111810
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.BorderDiagonal Property (Publisher)
+# Cell.BorderDiagonal property (Publisher)
 
 Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the diagonal border for a specified table cell.
 

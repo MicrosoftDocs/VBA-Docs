@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.Bcc Property (Publisher)
+title: EmailMergeEnvelope.Bcc property (Publisher)
 keywords: vbapb10.chm9043974
 f1_keywords:
 - vbapb10.chm9043974
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.Bcc Property (Publisher)
+# EmailMergeEnvelope.Bcc property (Publisher)
 
 Gets or sets a semicolon-delimited list of email addresses that receive a blind carbon copy (BCC) of the email message. Read/write.
 

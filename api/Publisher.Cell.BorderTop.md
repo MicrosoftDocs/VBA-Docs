@@ -1,5 +1,5 @@
 ---
-title: Cell.BorderTop Property (Publisher)
+title: Cell.BorderTop property (Publisher)
 keywords: vbapb10.chm5111814
 f1_keywords:
 - vbapb10.chm5111814
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.BorderTop Property (Publisher)
+# Cell.BorderTop property (Publisher)
 
 Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the top border for a specified table cell.
 

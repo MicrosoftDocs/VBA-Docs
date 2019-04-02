@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Type Property (Publisher)
+title: ShadowFormat.Type property (Publisher)
 keywords: vbapb10.chm3670277
 f1_keywords:
 - vbapb10.chm3670277
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Type Property (Publisher)
+# ShadowFormat.Type property (Publisher)
 
 Specifies the shadow type of a shape. Read/write.
 

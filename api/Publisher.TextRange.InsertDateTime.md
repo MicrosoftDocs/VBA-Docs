@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertDateTime Method (Publisher)
+title: TextRange.InsertDateTime method (Publisher)
 keywords: vbapb10.chm5308453
 f1_keywords:
 - vbapb10.chm5308453
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InsertDateTime Method (Publisher)
+# TextRange.InsertDateTime method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the date and time inserted into a specified text range.
 

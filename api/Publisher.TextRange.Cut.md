@@ -1,5 +1,5 @@
 ---
-title: TextRange.Cut Method (Publisher)
+title: TextRange.Cut method (Publisher)
 keywords: vbapb10.chm5308473
 f1_keywords:
 - vbapb10.chm5308473
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Cut Method (Publisher)
+# TextRange.Cut method (Publisher)
 
 Deletes the specified object and places it on the Clipboard.
 

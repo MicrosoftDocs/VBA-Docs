@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ExtrusionColor Property (Publisher)
+title: ThreeDFormat.ExtrusionColor property (Publisher)
 keywords: vbapb10.chm3801345
 f1_keywords:
 - vbapb10.chm3801345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ExtrusionColor Property (Publisher)
+# ThreeDFormat.ExtrusionColor property (Publisher)
 
 Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the color of the shape's extrusion.
 

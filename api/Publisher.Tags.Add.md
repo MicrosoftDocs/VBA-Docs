@@ -1,5 +1,5 @@
 ---
-title: Tags.Add Method (Publisher)
+title: Tags.Add method (Publisher)
 keywords: vbapb10.chm4653060
 f1_keywords:
 - vbapb10.chm4653060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Add Method (Publisher)
+# Tags.Add method (Publisher)
 
 Adds a new  **Tag** object to the specified **Tags** object and returns the new **Tag** object.
 

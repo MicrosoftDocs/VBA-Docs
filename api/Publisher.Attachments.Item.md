@@ -1,5 +1,5 @@
 ---
-title: Attachments.Item Property (Publisher)
+title: Attachments.Item property (Publisher)
 keywords: vbapb10.chm569344
 f1_keywords:
 - vbapb10.chm569344
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Item Property (Publisher)
+# Attachments.Item property (Publisher)
 
 Returns the  **[Attachment](Publisher.Attachment.md)** object at the specified index position in the **[Attachments](Publisher.Attachments.md)** collection. Read-only. .
 

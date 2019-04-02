@@ -1,5 +1,5 @@
 ---
-title: InstalledPrinters.Item Property (Publisher)
+title: InstalledPrinters.Item property (Publisher)
 keywords: vbapb10.chm8912896
 f1_keywords:
 - vbapb10.chm8912896
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InstalledPrinters.Item Property (Publisher)
+# InstalledPrinters.Item property (Publisher)
 
 Returns the  **[Printer](Publisher.Printer.md)** object with the specified name or at the specified index position in the **[InstalledPrinters](Publisher.InstalledPrinters.md)** collection. Read-only.
 

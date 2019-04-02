@@ -1,5 +1,5 @@
 ---
-title: Tag.Value Property (Publisher)
+title: Tag.Value property (Publisher)
 keywords: vbapb10.chm4718596
 f1_keywords:
 - vbapb10.chm4718596
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tag.Value Property (Publisher)
+# Tag.Value property (Publisher)
 
 Returns or sets a  **Variant** that represents the value of a tag of a shape, page, or publication. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: WebListBoxItems.Item Method (Publisher)
+title: WebListBoxItems.Item method (Publisher)
 keywords: vbapb10.chm4128774
 f1_keywords:
 - vbapb10.chm4128774
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebListBoxItems.Item Method (Publisher)
+# WebListBoxItems.Item method (Publisher)
 
 Returns a  **String** corresponding to the value of a hidden field in a Web form or a list item in a Web list box control.
 

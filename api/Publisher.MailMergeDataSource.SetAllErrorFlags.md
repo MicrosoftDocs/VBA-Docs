@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.SetAllErrorFlags Method (Publisher)
+title: MailMergeDataSource.SetAllErrorFlags method (Publisher)
 keywords: vbapb10.chm6291488
 f1_keywords:
 - vbapb10.chm6291488
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.SetAllErrorFlags Method (Publisher)
+# MailMergeDataSource.SetAllErrorFlags method (Publisher)
 
 Marks all records in a mail merge data source as containing invalid data in an address field.
 

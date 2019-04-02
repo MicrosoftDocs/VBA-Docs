@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleHeight Method (Publisher)
+title: Shape.ScaleHeight method (Publisher)
 keywords: vbapb10.chm2228261
 f1_keywords:
 - vbapb10.chm2228261
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ScaleHeight Method (Publisher)
+# Shape.ScaleHeight method (Publisher)
 
 Scales the height of the shape by a specified factor. For pictures and OLE objects, you can indicate whether you want to scale the shape relative to the original size or relative to the current size.
 

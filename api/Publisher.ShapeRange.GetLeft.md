@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.GetLeft Method (Publisher)
+title: ShapeRange.GetLeft method (Publisher)
 keywords: vbapb10.chm2293782
 f1_keywords:
 - vbapb10.chm2293782
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.GetLeft Method (Publisher)
+# ShapeRange.GetLeft method (Publisher)
 
 Returns the distance of the shape's or shape range's left edge from the left edge of the leftmost page in the current view as a  **Single** in the specified units.
 

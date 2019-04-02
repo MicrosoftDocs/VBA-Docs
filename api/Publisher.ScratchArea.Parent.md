@@ -1,5 +1,5 @@
 ---
-title: ScratchArea.Parent Property (Publisher)
+title: ScratchArea.Parent property (Publisher)
 keywords: vbapb10.chm1179650
 f1_keywords:
 - vbapb10.chm1179650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ScratchArea.Parent Property (Publisher)
+# ScratchArea.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

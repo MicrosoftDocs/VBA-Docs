@@ -1,5 +1,5 @@
 ---
-title: TabStop.Parent Property (Publisher)
+title: TabStop.Parent property (Publisher)
 keywords: vbapb10.chm5636098
 f1_keywords:
 - vbapb10.chm5636098
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStop.Parent Property (Publisher)
+# TabStop.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

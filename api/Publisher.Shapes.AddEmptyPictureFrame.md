@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddEmptyPictureFrame Method (Publisher)
+title: Shapes.AddEmptyPictureFrame method (Publisher)
 keywords: vbapb10.chm2162757
 f1_keywords:
 - vbapb10.chm2162757
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddEmptyPictureFrame Method (Publisher)
+# Shapes.AddEmptyPictureFrame method (Publisher)
 
 Returns a  **Shape** object that represents an empty picture frame inserted at the specified coordinates.
 

@@ -1,5 +1,5 @@
 ---
-title: BorderArts Object (Publisher)
+title: BorderArts object (Publisher)
 keywords: vbapb10.chm7798783
 f1_keywords:
 - vbapb10.chm7798783
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BorderArts Object (Publisher)
+# BorderArts object (Publisher)
 
 A collection of all BorderArt available for use in the specified publication. BorderArt is predefined picture borders that can be applied to text boxes, picture frames, or rectangles.
  

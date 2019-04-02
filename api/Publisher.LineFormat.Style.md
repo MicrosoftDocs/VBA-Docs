@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Style Property (Publisher)
+title: LineFormat.Style property (Publisher)
 keywords: vbapb10.chm3408144
 f1_keywords:
 - vbapb10.chm3408144
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Style Property (Publisher)
+# LineFormat.Style property (Publisher)
 
 Returns or sets an  **MsoLineStyle** constant that represents the style of line to apply to a shape or border. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.WebCheckBox Property (Publisher)
+title: Shape.WebCheckBox property (Publisher)
 keywords: vbapb10.chm2228344
 f1_keywords:
 - vbapb10.chm2228344
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.WebCheckBox Property (Publisher)
+# Shape.WebCheckBox property (Publisher)
 
 Returns the  **[WebCheckBox](Publisher.WebCheckBox.md)** object associated with the specified shape.
 

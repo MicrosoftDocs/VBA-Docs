@@ -1,5 +1,5 @@
 ---
-title: Plate.Name Property (Publisher)
+title: Plate.Name property (Publisher)
 keywords: vbapb10.chm2883591
 f1_keywords:
 - vbapb10.chm2883591
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plate.Name Property (Publisher)
+# Plate.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 

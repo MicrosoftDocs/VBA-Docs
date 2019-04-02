@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Distribute Method (Publisher)
+title: ShapeRange.Distribute method (Publisher)
 keywords: vbapb10.chm2294017
 f1_keywords:
 - vbapb10.chm2294017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Distribute Method (Publisher)
+# ShapeRange.Distribute method (Publisher)
 
 Evenly distributes the shapes in the specified shape range.
 

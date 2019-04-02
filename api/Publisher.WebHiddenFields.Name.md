@@ -1,5 +1,5 @@
 ---
-title: WebHiddenFields.Name Method (Publisher)
+title: WebHiddenFields.Name method (Publisher)
 keywords: vbapb10.chm3997703
 f1_keywords:
 - vbapb10.chm3997703
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebHiddenFields.Name Method (Publisher)
+# WebHiddenFields.Name method (Publisher)
 
 Returns a  **String** that represents the name of a hidden Web field for a Web command button.
 

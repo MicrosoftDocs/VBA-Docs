@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.HorizontalScale Property (Publisher)
+title: PictureFormat.HorizontalScale property (Publisher)
 keywords: vbapb10.chm3604760
 f1_keywords:
 - vbapb10.chm3604760
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.HorizontalScale Property (Publisher)
+# PictureFormat.HorizontalScale property (Publisher)
 
 Returns a  **Long** that represents the scaling of the picture along its horizontal axis. The scaling is expressed as a percentage (for example, 200 equals 200 percent scaling). Read-only.
 

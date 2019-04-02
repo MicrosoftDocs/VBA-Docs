@@ -1,5 +1,5 @@
 ---
-title: Wizard.Properties Property (Publisher)
+title: Wizard.Properties property (Publisher)
 keywords: vbapb10.chm1441797
 f1_keywords:
 - vbapb10.chm1441797
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Wizard.Properties Property (Publisher)
+# Wizard.Properties property (Publisher)
 
 Returns a  **[WizardProperties](Publisher.WizardProperties.md)** collection representing all the settings that are part of the specified publication design or Design Gallery object's wizard.
 

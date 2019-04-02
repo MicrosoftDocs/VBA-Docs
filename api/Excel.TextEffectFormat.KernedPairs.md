@@ -39,7 +39,7 @@ _expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFor
 
 ## Example
 
-This example turns on character pair kerning for shape three on  `myDocument` if the shape is WordArt.
+This example turns on character pair kerning for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb

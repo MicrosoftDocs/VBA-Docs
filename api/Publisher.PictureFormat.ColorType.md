@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ColorType Property (Publisher)
+title: PictureFormat.ColorType property (Publisher)
 keywords: vbapb10.chm3604737
 f1_keywords:
 - vbapb10.chm3604737
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.ColorType Property (Publisher)
+# PictureFormat.ColorType property (Publisher)
 
 Returns or sets an  **MsoPictureColorType** constant indicating the type of color transformation applied to the specified picture or OLE object. Read/write.
 

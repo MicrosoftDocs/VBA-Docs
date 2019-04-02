@@ -60,7 +60,7 @@ The  _EditingType_ parameter value can be one of these **MsoEditingType** consta
 
 ## Example
 
-This example adds a smooth node with a curved segment after node four in shape three on  `myDocument`. Shape three must be a freeform drawing with at least four nodes.
+This example adds a smooth node with a curved segment after node four in shape three on  _myDocument_. Shape three must be a freeform drawing with at least four nodes.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: RulerGuide Object (Publisher)
+title: RulerGuide object (Publisher)
 keywords: vbapb10.chm720895
 f1_keywords:
 - vbapb10.chm720895
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RulerGuide Object (Publisher)
+# RulerGuide object (Publisher)
 
 Represents a gridline used to align objects on a page. The  **RulerGuide** object is a member of the **[RulerGuides](Publisher.RulerGuides.md)** collection.
  

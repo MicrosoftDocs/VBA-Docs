@@ -1,5 +1,5 @@
 ---
-title: Row.Delete Method (Publisher)
+title: Row.Delete method (Publisher)
 keywords: vbapb10.chm4849669
 f1_keywords:
 - vbapb10.chm4849669
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Delete Method (Publisher)
+# Row.Delete method (Publisher)
 
 Deletes the specified object.
 

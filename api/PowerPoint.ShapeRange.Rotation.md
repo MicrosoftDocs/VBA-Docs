@@ -38,7 +38,7 @@ To set the rotation of a three-dimensional shape around the x-axis or the y-axis
 
 ## Example
 
-This example matches the rotation of all shapes on  `myDocument` to the rotation of shape one.
+This example matches the rotation of all shapes on  _myDocument_ to the rotation of shape one.
 
 
 ```vb

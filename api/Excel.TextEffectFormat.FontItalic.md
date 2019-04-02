@@ -39,7 +39,7 @@ _expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFor
 
 ## Example
 
-This example sets the font to italic for the shape named "WordArt 4" in  `myDocument`.
+This example sets the font to italic for the shape named "WordArt 4" in  _myDocument_.
 
 
 ```vb

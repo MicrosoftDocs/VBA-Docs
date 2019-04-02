@@ -1,5 +1,5 @@
 ---
-title: Printer.PaperWidth Property (Publisher)
+title: Printer.PaperWidth property (Publisher)
 keywords: vbapb10.chm8978448
 f1_keywords:
 - vbapb10.chm8978448
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Printer.PaperWidth Property (Publisher)
+# Printer.PaperWidth property (Publisher)
 
 Gets or sets the width of a printed page in points. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Plate.InkName Property (Publisher)
+title: Plate.InkName property (Publisher)
 keywords: vbapb10.chm2883603
 f1_keywords:
 - vbapb10.chm2883603
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plate.InkName Property (Publisher)
+# Plate.InkName property (Publisher)
 
 Returns a  **PbInkName** constant that represents the name of the ink to be printed using this plate. Read-only.
 

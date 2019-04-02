@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.HiddenFields Property (Publisher)
+title: WebCommandButton.HiddenFields property (Publisher)
 keywords: vbapb10.chm3932177
 f1_keywords:
 - vbapb10.chm3932177
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCommandButton.HiddenFields Property (Publisher)
+# WebCommandButton.HiddenFields property (Publisher)
 
 Returns a  **WebHiddenFields** object that represents hidden Web fields attached to a Submit command button.
 

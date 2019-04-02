@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.ShowSelected Property (Publisher)
+title: WebNavigationBarSet.ShowSelected property (Publisher)
 keywords: vbapb10.chm8519696
 f1_keywords:
 - vbapb10.chm8519696
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.ShowSelected Property (Publisher)
+# WebNavigationBarSet.ShowSelected property (Publisher)
 
  **True** if the selected button is highlighted for the specified **WebNavigationBarSet** object. Read/write **Boolean**.
 

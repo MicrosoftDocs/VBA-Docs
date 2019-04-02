@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.EverValidated Property (Publisher)
+title: MailMergeDataSource.EverValidated property (Publisher)
 keywords: vbapb10.chm6291496
 f1_keywords:
 - vbapb10.chm6291496
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.EverValidated Property (Publisher)
+# MailMergeDataSource.EverValidated property (Publisher)
 
 Indicates whether the list of recipient addresses in the parent  **MailMergeDataSource** object has ever been validated. Read/write.
 

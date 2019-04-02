@@ -1,5 +1,5 @@
 ---
-title: Page.Height Property (Publisher)
+title: Page.Height property (Publisher)
 keywords: vbapb10.chm393240
 f1_keywords:
 - vbapb10.chm393240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Height Property (Publisher)
+# Page.Height property (Publisher)
 
 Returns a  **Long** that represent the height (in points) of a cell, range of cells, or page. Read-only.
 

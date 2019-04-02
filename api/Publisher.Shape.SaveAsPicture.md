@@ -1,5 +1,5 @@
 ---
-title: Shape.SaveAsPicture Method (Publisher)
+title: Shape.SaveAsPicture method (Publisher)
 keywords: vbapb10.chm2228375
 f1_keywords:
 - vbapb10.chm2228375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SaveAsPicture Method (Publisher)
+# Shape.SaveAsPicture method (Publisher)
 
 Saves a single shape as a picture file.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Regroup Method (Publisher)
+title: ShapeRange.Regroup method (Publisher)
 keywords: vbapb10.chm2294019
 f1_keywords:
 - vbapb10.chm2294019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Regroup Method (Publisher)
+# ShapeRange.Regroup method (Publisher)
 
 Regroups the group that the specified shape range belonged to previously. Returns the regrouped shapes as a single  **Shape** object.
 

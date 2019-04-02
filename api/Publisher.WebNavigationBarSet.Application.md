@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.Application Property (Publisher)
+title: WebNavigationBarSet.Application property (Publisher)
 keywords: vbapb10.chm8519681
 f1_keywords:
 - vbapb10.chm8519681
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.Application Property (Publisher)
+# WebNavigationBarSet.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 

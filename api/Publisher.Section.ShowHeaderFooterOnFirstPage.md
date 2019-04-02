@@ -1,5 +1,5 @@
 ---
-title: Section.ShowHeaderFooterOnFirstPage Property (Publisher)
+title: Section.ShowHeaderFooterOnFirstPage property (Publisher)
 keywords: vbapb10.chm7405574
 f1_keywords:
 - vbapb10.chm7405574
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Section.ShowHeaderFooterOnFirstPage Property (Publisher)
+# Section.ShowHeaderFooterOnFirstPage property (Publisher)
 
  **True** if the header and footer of the specified section will be visible. Read/write **Boolean**.
 

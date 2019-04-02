@@ -1,5 +1,5 @@
 ---
-title: Document.SaveFormat Property (Publisher)
+title: Document.SaveFormat property (Publisher)
 keywords: vbapb10.chm196656
 f1_keywords:
 - vbapb10.chm196656
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SaveFormat Property (Publisher)
+# Document.SaveFormat property (Publisher)
 
 Indicates the file format of the specified document. Read-only.
 

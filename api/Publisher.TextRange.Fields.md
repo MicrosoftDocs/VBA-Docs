@@ -1,5 +1,5 @@
 ---
-title: TextRange.Fields Property (Publisher)
+title: TextRange.Fields property (Publisher)
 keywords: vbapb10.chm5308469
 f1_keywords:
 - vbapb10.chm5308469
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Fields Property (Publisher)
+# TextRange.Fields property (Publisher)
 
 Returns a  **Fields** object that represents all the fields in the specified text range.
 

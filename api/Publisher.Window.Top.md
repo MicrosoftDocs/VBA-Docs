@@ -1,5 +1,5 @@
 ---
-title: Window.Top Property (Publisher)
+title: Window.Top property (Publisher)
 keywords: vbapb10.chm262148
 f1_keywords:
 - vbapb10.chm262148
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Top Property (Publisher)
+# Window.Top property (Publisher)
 
 Returns or sets a  **Long** that represents the distance between the top edge of the screen and the application window. Read/write.
 

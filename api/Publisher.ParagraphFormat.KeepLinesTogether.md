@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.KeepLinesTogether Property (Publisher)
+title: ParagraphFormat.KeepLinesTogether property (Publisher)
 keywords: vbapb10.chm5439537
 f1_keywords:
 - vbapb10.chm5439537
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.KeepLinesTogether Property (Publisher)
+# ParagraphFormat.KeepLinesTogether property (Publisher)
 
 Sets or returns an  **MsoTriState** that indicates whether all lines in the specified paragraph will remain in the same text box. Read/write.
 

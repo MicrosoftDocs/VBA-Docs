@@ -1,5 +1,5 @@
 ---
-title: Shapes.SelectAll Method (Publisher)
+title: Shapes.SelectAll method (Publisher)
 keywords: vbapb10.chm2162726
 f1_keywords:
 - vbapb10.chm2162726
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.SelectAll Method (Publisher)
+# Shapes.SelectAll method (Publisher)
 
 Selects all the shapes in the specified  **[Shapes](Publisher.Shapes.md)** collection.
 

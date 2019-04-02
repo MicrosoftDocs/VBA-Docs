@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.RestoreOriginalColors Method (Publisher)
+title: PictureFormat.RestoreOriginalColors method (Publisher)
 keywords: vbapb10.chm3604800
 f1_keywords:
 - vbapb10.chm3604800
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.RestoreOriginalColors Method (Publisher)
+# PictureFormat.RestoreOriginalColors method (Publisher)
 
 Restores the original colors of a picture that was recolored.
 

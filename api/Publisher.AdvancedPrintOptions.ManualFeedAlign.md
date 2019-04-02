@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.ManualFeedAlign Property (Publisher)
+title: AdvancedPrintOptions.ManualFeedAlign property (Publisher)
 keywords: vbapb10.chm7077928
 f1_keywords:
 - vbapb10.chm7077928
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.ManualFeedAlign Property (Publisher)
+# AdvancedPrintOptions.ManualFeedAlign property (Publisher)
 
 Gets or sets the alignment (left, right, or center) of where envelopes are fed to the printer's manual feed. Read/write.
 

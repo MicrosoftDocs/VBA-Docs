@@ -1,5 +1,5 @@
 ---
-title: CellBorder.Weight Property (Publisher)
+title: CellBorder.Weight property (Publisher)
 keywords: vbapb10.chm5242884
 f1_keywords:
 - vbapb10.chm5242884
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellBorder.Weight Property (Publisher)
+# CellBorder.Weight property (Publisher)
 
 Returns or sets a  **Variant** indicating the thickness of the specified line or cell border.
 

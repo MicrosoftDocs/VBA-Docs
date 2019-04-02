@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListType Property (Publisher)
+title: ParagraphFormat.ListType property (Publisher)
 keywords: vbapb10.chm5439521
 f1_keywords:
 - vbapb10.chm5439521
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListType Property (Publisher)
+# ParagraphFormat.ListType property (Publisher)
 
 Returns a  **PbListType** constant from the specified **ParagraphFormat** object. Read-only.
 

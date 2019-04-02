@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat Object (Publisher)
+title: ThreeDFormat object (Publisher)
 keywords: vbapb10.chm3866623
 f1_keywords:
 - vbapb10.chm3866623
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat Object (Publisher)
+# ThreeDFormat object (Publisher)
 
 Represents a shape's three-dimensional formatting.
  

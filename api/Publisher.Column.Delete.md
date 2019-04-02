@@ -1,5 +1,5 @@
 ---
-title: Column.Delete Method (Publisher)
+title: Column.Delete method (Publisher)
 keywords: vbapb10.chm4980741
 f1_keywords:
 - vbapb10.chm4980741
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Delete Method (Publisher)
+# Column.Delete method (Publisher)
 
 Deletes the specified object.
 

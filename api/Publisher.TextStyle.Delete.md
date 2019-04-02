@@ -1,5 +1,5 @@
 ---
-title: TextStyle.Delete Method (Publisher)
+title: TextStyle.Delete method (Publisher)
 keywords: vbapb10.chm5963792
 f1_keywords:
 - vbapb10.chm5963792
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyle.Delete Method (Publisher)
+# TextStyle.Delete method (Publisher)
 
 Deletes the specified object.
 

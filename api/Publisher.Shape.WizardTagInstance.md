@@ -1,5 +1,5 @@
 ---
-title: Shape.WizardTagInstance Property (Publisher)
+title: Shape.WizardTagInstance property (Publisher)
 keywords: vbapb10.chm2228339
 f1_keywords:
 - vbapb10.chm2228339
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.WizardTagInstance Property (Publisher)
+# Shape.WizardTagInstance property (Publisher)
 
 Returns or sets a  **Long** indicating the instance of the specified shape compared with other shapes having the same wizard tag. Read/write.
 

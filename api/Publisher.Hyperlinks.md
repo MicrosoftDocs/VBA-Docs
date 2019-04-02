@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks Object (Publisher)
+title: Hyperlinks object (Publisher)
 keywords: vbapb10.chm6946815
 f1_keywords:
 - vbapb10.chm6946815
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks Object (Publisher)
+# Hyperlinks object (Publisher)
 
 Represents the collection of  **[Hyperlink](Publisher.Hyperlink.md)** objects in a text range.
 

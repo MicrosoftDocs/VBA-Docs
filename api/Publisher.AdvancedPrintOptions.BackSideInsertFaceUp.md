@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.BackSideInsertFaceUp Property (Publisher)
+title: AdvancedPrintOptions.BackSideInsertFaceUp property (Publisher)
 keywords: vbapb10.chm7077924
 f1_keywords:
 - vbapb10.chm7077924
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.BackSideInsertFaceUp Property (Publisher)
+# AdvancedPrintOptions.BackSideInsertFaceUp property (Publisher)
 
 Gets or sets whether envelopes fed to the printer's manual feed should be inserted back-side first and face up. Read/write.
 

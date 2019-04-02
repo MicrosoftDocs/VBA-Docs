@@ -1,5 +1,5 @@
 ---
-title: Document.ConvertPublicationType Method (Publisher)
+title: Document.ConvertPublicationType method (Publisher)
 keywords: vbapb10.chm196737
 f1_keywords:
 - vbapb10.chm196737
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ConvertPublicationType Method (Publisher)
+# Document.ConvertPublicationType method (Publisher)
 
 Converts the specified publication to the specified publication type.
 

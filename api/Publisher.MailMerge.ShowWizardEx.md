@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ShowWizardEx Method (Publisher)
+title: MailMerge.ShowWizardEx method (Publisher)
 keywords: vbapb10.chm6225944
 f1_keywords:
 - vbapb10.chm6225944
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.ShowWizardEx Method (Publisher)
+# MailMerge.ShowWizardEx method (Publisher)
 
 Displays the specified catalog or mail merge wizard in a document.
 

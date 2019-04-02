@@ -1,5 +1,5 @@
 ---
-title: Shape.Cut Method (Publisher)
+title: Shape.Cut method (Publisher)
 keywords: vbapb10.chm2228241
 f1_keywords:
 - vbapb10.chm2228241
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Cut Method (Publisher)
+# Shape.Cut method (Publisher)
 
 Deletes the specified object and places it on the Clipboard.
 

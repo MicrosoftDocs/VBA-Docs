@@ -1,5 +1,5 @@
 ---
-title: Font.Name Property (Publisher)
+title: Font.Name property (Publisher)
 keywords: vbapb10.chm5373952
 f1_keywords:
 - vbapb10.chm5373952
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Name Property (Publisher)
+# Font.Name property (Publisher)
 
 Indicates the name of the specified font. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.MarginBottom Property (Publisher)
+title: TextFrame.MarginBottom property (Publisher)
 keywords: vbapb10.chm3866647
 f1_keywords:
 - vbapb10.chm3866647
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.MarginBottom Property (Publisher)
+# TextFrame.MarginBottom property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the bottom edge of a cell, text frame, or page. Read/write.
 

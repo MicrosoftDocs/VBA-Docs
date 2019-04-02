@@ -1,5 +1,5 @@
 ---
-title: Page.XOffsetWithinReaderSpread Property (Publisher)
+title: Page.XOffsetWithinReaderSpread property (Publisher)
 keywords: vbapb10.chm393236
 f1_keywords:
 - vbapb10.chm393236
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.XOffsetWithinReaderSpread Property (Publisher)
+# Page.XOffsetWithinReaderSpread property (Publisher)
 
 Returns a  **Single** that represents the distance (in points) from the left edge of the reader spread to the left edge of the page. Read-only.
 

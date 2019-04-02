@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.IsHorizontal Property (Publisher)
+title: WebNavigationBarSet.IsHorizontal property (Publisher)
 keywords: vbapb10.chm8519686
 f1_keywords:
 - vbapb10.chm8519686
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.IsHorizontal Property (Publisher)
+# WebNavigationBarSet.IsHorizontal property (Publisher)
 
  **True** if the specified **WebNavigationBarSet** has a horizontal orientation. Read-only **Boolean**.
 

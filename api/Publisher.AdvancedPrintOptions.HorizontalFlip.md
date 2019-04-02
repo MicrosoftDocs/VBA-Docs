@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.HorizontalFlip Property (Publisher)
+title: AdvancedPrintOptions.HorizontalFlip property (Publisher)
 keywords: vbapb10.chm7077892
 f1_keywords:
 - vbapb10.chm7077892
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.HorizontalFlip Property (Publisher)
+# AdvancedPrintOptions.HorizontalFlip property (Publisher)
 
  **True** to print a horizontally mirrored image of the specified publication. The default is **False**. Read/write  **Boolean**.
 

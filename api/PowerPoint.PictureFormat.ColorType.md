@@ -44,7 +44,7 @@ The value of the  **ColorType** property can be one of these **MsoPictureColorTy
 
 ## Example
 
-This example sets the color transformation to grayscale for shape one on  `myDocument`. Shape one must be either a picture or an OLE object.
+This example sets the color transformation to grayscale for shape one on  _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb

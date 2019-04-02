@@ -1,5 +1,5 @@
 ---
-title: CatalogMergeShapes.VerticalRepeat Property (Publisher)
+title: CatalogMergeShapes.VerticalRepeat property (Publisher)
 keywords: vbapb10.chm8388614
 f1_keywords:
 - vbapb10.chm8388614
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CatalogMergeShapes.VerticalRepeat Property (Publisher)
+# CatalogMergeShapes.VerticalRepeat property (Publisher)
 
 Returns a  **Long** that represents the number of times the catalog merge area will repeat down the target publication page when the catalog merge is executed. Read-only.
 

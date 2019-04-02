@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Close Method (Publisher)
+title: MailMergeDataSource.Close method (Publisher)
 keywords: vbapb10.chm6291493
 f1_keywords:
 - vbapb10.chm6291493
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.Close Method (Publisher)
+# MailMergeDataSource.Close method (Publisher)
 
 Closes the specified mail merge data source, cancels the mail merge, and converts all mail merge data fields to plain text.
 

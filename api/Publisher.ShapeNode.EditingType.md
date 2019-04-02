@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.EditingType Property (Publisher)
+title: ShapeNode.EditingType property (Publisher)
 keywords: vbapb10.chm3539200
 f1_keywords:
 - vbapb10.chm3539200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode.EditingType Property (Publisher)
+# ShapeNode.EditingType property (Publisher)
 
 If the specified node is a vertex, this property returns an  **MsoEditingType** constant indicating how changes made to the node affect the two segments connected to the node. If the node is a control point for a curved segment, this property returns the editing type of the adjacent vertex. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ID Property (Publisher)
+title: ShapeRange.ID property (Publisher)
 keywords: vbapb10.chm2293861
 f1_keywords:
 - vbapb10.chm2293861
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ID Property (Publisher)
+# ShapeRange.ID property (Publisher)
 
 Returns a  **Long** that represents the type of a shape, range of shapes, or property, type, or value of a wizard. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListBulletFontName Property (Publisher)
+title: ParagraphFormat.ListBulletFontName property (Publisher)
 keywords: vbapb10.chm5439525
 f1_keywords:
 - vbapb10.chm5439525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListBulletFontName Property (Publisher)
+# ParagraphFormat.ListBulletFontName property (Publisher)
 
 Sets or retrieves a  **String** representing the list bullet font name from the specified paragraphs. Read/write.
 

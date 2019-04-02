@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataFields Object (Publisher)
+title: MailMergeMappedDataFields object (Publisher)
 keywords: vbapb10.chm6553599
 f1_keywords:
 - vbapb10.chm6553599
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataFields Object (Publisher)
+# MailMergeMappedDataFields object (Publisher)
 
 A collection of  **[MailMergeMappedDataField](Publisher.MailMergeMappedDataField.md)** objects that represents the mapped data fields available in Microsoft Publisher.
  

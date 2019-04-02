@@ -1,5 +1,5 @@
 ---
-title: Shapes Object (Publisher)
+title: Shapes object (Publisher)
 keywords: vbapb10.chm2228223
 f1_keywords:
 - vbapb10.chm2228223
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes Object (Publisher)
+# Shapes object (Publisher)
 
 A collection of  **[Shape](./Publisher.Shape.md)** objects that represent all the shapes on a page of a publication. Each **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 

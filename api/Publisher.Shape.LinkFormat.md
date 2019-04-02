@@ -1,5 +1,5 @@
 ---
-title: Shape.LinkFormat Property (Publisher)
+title: Shape.LinkFormat property (Publisher)
 keywords: vbapb10.chm2228326
 f1_keywords:
 - vbapb10.chm2228326
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.LinkFormat Property (Publisher)
+# Shape.LinkFormat property (Publisher)
 
 Returns a  [LinkFormat](Publisher.LinkFormat.md)object that contains the properties that are unique to linked OLE objects. Read-only.
 

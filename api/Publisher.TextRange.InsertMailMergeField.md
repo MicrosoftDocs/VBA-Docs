@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertMailMergeField Method (Publisher)
+title: TextRange.InsertMailMergeField method (Publisher)
 keywords: vbapb10.chm5308483
 f1_keywords:
 - vbapb10.chm5308483
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InsertMailMergeField Method (Publisher)
+# TextRange.InsertMailMergeField method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a text data field for a mail merge or catalog merge.
 

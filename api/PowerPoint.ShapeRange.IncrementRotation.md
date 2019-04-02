@@ -39,7 +39,7 @@ To rotate a three-dimensional shape range around the x-axis or the y-axis, use t
 
 ## Example
 
-This example duplicates shape one on  `myDocument`, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
+This example duplicates shape one on  _myDocument_, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
 
 
 ```vb

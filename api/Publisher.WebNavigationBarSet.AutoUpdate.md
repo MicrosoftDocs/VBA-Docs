@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.AutoUpdate Property (Publisher)
+title: WebNavigationBarSet.AutoUpdate property (Publisher)
 keywords: vbapb10.chm8519689
 f1_keywords:
 - vbapb10.chm8519689
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.AutoUpdate Property (Publisher)
+# WebNavigationBarSet.AutoUpdate property (Publisher)
 
  **True** if all pages will be added to the specified Web navigation bar set and that adding new pages will update the navigation bar with a corresponding item. Pages must have the **AddHyperlinkToWebNavbar** set to **True** or **WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True** to be added or updated within the specified **WebNavigationBarSet**. Read/write  **Boolean**.
 

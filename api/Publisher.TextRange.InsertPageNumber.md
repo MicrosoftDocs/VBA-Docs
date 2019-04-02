@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertPageNumber Method (Publisher)
+title: TextRange.InsertPageNumber method (Publisher)
 keywords: vbapb10.chm5308486
 f1_keywords:
 - vbapb10.chm5308486
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InsertPageNumber Method (Publisher)
+# TextRange.InsertPageNumber method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a page number field in a publication.
 

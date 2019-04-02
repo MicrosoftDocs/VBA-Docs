@@ -1,5 +1,5 @@
 ---
-title: Document.ActiveView Property (Publisher)
+title: Document.ActiveView property (Publisher)
 keywords: vbapb10.chm196707
 f1_keywords:
 - vbapb10.chm196707
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ActiveView Property (Publisher)
+# Document.ActiveView property (Publisher)
 
 Returns a  **[View](Publisher.View.md)** object representing the view attributes for the specified document. Read-only.
 

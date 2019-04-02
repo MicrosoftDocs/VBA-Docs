@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSources.Item Method (Publisher)
+title: MailMergeDataSources.Item method (Publisher)
 keywords: vbapb10.chm7143427
 f1_keywords:
 - vbapb10.chm7143427
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSources.Item Method (Publisher)
+# MailMergeDataSources.Item method (Publisher)
 
 Returns the  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object at the specified index position in the **MailMergeDataSources** collection.
 

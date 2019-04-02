@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread.Height Property (Publisher)
+title: ReaderSpread.Height property (Publisher)
 keywords: vbapb10.chm524296
 f1_keywords:
 - vbapb10.chm524296
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReaderSpread.Height Property (Publisher)
+# ReaderSpread.Height property (Publisher)
 
 Returns a  **Single** that represents the height, in points, of the page. Read-only.
 

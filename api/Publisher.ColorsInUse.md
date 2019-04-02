@@ -1,5 +1,5 @@
 ---
-title: ColorsInUse Object (Publisher)
+title: ColorsInUse object (Publisher)
 keywords: vbapb10.chm3014655
 f1_keywords:
 - vbapb10.chm3014655
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorsInUse Object (Publisher)
+# ColorsInUse object (Publisher)
 
 A collection of  **[ColorFormat](Publisher.ColorFormat.md)** objects that represent the colors present in the specified publication.
  

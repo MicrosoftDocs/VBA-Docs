@@ -51,7 +51,7 @@ When you add WordArt to a document, the height and width of the WordArt are auto
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  `myDocument`.
+This example adds WordArt that contains the text "Test" to  _myDocument_.
 
 
 ```vb

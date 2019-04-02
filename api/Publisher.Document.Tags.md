@@ -1,5 +1,5 @@
 ---
-title: Document.Tags Property (Publisher)
+title: Document.Tags property (Publisher)
 keywords: vbapb10.chm196661
 f1_keywords:
 - vbapb10.chm196661
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Tags Property (Publisher)
+# Document.Tags property (Publisher)
 
 Returns a  **[Tags](Publisher.Tags.md)** collection representing tags or custom properties applied to a shape, shape range, page, or publication.
 

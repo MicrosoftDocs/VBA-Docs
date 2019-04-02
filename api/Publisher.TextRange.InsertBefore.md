@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertBefore Method (Publisher)
+title: TextRange.InsertBefore method (Publisher)
 keywords: vbapb10.chm5308449
 f1_keywords:
 - vbapb10.chm5308449
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InsertBefore Method (Publisher)
+# TextRange.InsertBefore method (Publisher)
 
 Appends a string to the beginning of the specified text range. Returns a  **TextRange** object that represents the appended text. When used without an argument, this method returns a zero-length string at the end of the specified range.
 

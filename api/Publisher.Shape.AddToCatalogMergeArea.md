@@ -1,5 +1,5 @@
 ---
-title: Shape.AddToCatalogMergeArea Method (Publisher)
+title: Shape.AddToCatalogMergeArea method (Publisher)
 keywords: vbapb10.chm5308688
 f1_keywords:
 - vbapb10.chm5308688
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.AddToCatalogMergeArea Method (Publisher)
+# Shape.AddToCatalogMergeArea method (Publisher)
 
 Adds the specified shape or shapes to the publication page's catalog merge area.
 

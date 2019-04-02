@@ -1,5 +1,5 @@
 ---
-title: MasterPages.Add Method (Publisher)
+title: MasterPages.Add method (Publisher)
 keywords: vbapb10.chm589828
 f1_keywords:
 - vbapb10.chm589828
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterPages.Add Method (Publisher)
+# MasterPages.Add method (Publisher)
 
 Adds a new  **Page** object to the specified **MasterPages** object and returns the new **Page** object.
 

@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder Object (Publisher)
+title: FreeformBuilder object (Publisher)
 keywords: vbapb10.chm3342335
 f1_keywords:
 - vbapb10.chm3342335
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FreeformBuilder Object (Publisher)
+# FreeformBuilder object (Publisher)
 
 Represents the geometry of a freeform while it is being built.
  

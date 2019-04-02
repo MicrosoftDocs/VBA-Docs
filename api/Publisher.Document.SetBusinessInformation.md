@@ -1,5 +1,5 @@
 ---
-title: Document.SetBusinessInformation Method (Publisher)
+title: Document.SetBusinessInformation method (Publisher)
 keywords: vbapb10.chm196757
 f1_keywords:
 - vbapb10.chm196757
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SetBusinessInformation Method (Publisher)
+# Document.SetBusinessInformation method (Publisher)
 
 Applies the specified business information set, which consists of a logo image and business contact information (such as the company name and address), to the current publication.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.PrintPageBackgrounds Property (Publisher)
+title: Document.PrintPageBackgrounds property (Publisher)
 keywords: vbapb10.chm196743
 f1_keywords:
 - vbapb10.chm196743
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintPageBackgrounds Property (Publisher)
+# Document.PrintPageBackgrounds property (Publisher)
 
 Returns or sets  **True** to include page backgrounds when printing pages from the specified publication. Default is **True**. Read/write  **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ConnectorFormat Property (Publisher)
+title: ShapeRange.ConnectorFormat property (Publisher)
 keywords: vbapb10.chm2293814
 f1_keywords:
 - vbapb10.chm2293814
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ConnectorFormat Property (Publisher)
+# ShapeRange.ConnectorFormat property (Publisher)
 
 Returns a  **[ConnectorFormat](Publisher.ConnectorFormat.md)** object that contains connector formatting properties. Applies to  **Shape** or **ShapeRange** objects that represent connectors.
 

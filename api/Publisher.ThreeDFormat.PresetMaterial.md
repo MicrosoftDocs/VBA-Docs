@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetMaterial Property (Publisher)
+title: ThreeDFormat.PresetMaterial property (Publisher)
 keywords: vbapb10.chm3801351
 f1_keywords:
 - vbapb10.chm3801351
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetMaterial Property (Publisher)
+# ThreeDFormat.PresetMaterial property (Publisher)
 
 Returns or sets an  **MsoPresetMaterial** constant that represents the extrusion surface material. Read/write.
 

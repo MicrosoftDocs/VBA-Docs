@@ -1,5 +1,5 @@
 ---
-title: Shape.Copy Method (Publisher)
+title: Shape.Copy method (Publisher)
 keywords: vbapb10.chm2228242
 f1_keywords:
 - vbapb10.chm2228242
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Copy Method (Publisher)
+# Shape.Copy method (Publisher)
 
 Copies the specified object to the Clipboard.
 

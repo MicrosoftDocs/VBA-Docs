@@ -1,5 +1,5 @@
 ---
-title: Sections.Count Property (Publisher)
+title: Sections.Count property (Publisher)
 keywords: vbapb10.chm7340034
 f1_keywords:
 - vbapb10.chm7340034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sections.Count Property (Publisher)
+# Sections.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

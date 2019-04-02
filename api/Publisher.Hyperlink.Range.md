@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Range Property (Publisher)
+title: Hyperlink.Range property (Publisher)
 keywords: vbapb10.chm4587526
 f1_keywords:
 - vbapb10.chm4587526
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Range Property (Publisher)
+# Hyperlink.Range property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object representing the base text to which the specified hyperlink has been applied.
 

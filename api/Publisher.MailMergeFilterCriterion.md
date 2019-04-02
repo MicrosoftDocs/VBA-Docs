@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion Object (Publisher)
+title: MailMergeFilterCriterion object (Publisher)
 keywords: vbapb10.chm6881279
 f1_keywords:
 - vbapb10.chm6881279
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion Object (Publisher)
+# MailMergeFilterCriterion object (Publisher)
 
 Represents a filter to be applied to an attached mail merge or catalog merge data source. The  **MailMergeFilterCriterion** object is a member of the **MailMergeFilters** object.
  

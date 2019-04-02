@@ -1,5 +1,5 @@
 ---
-title: CatalogMergeShapes Object (Publisher)
+title: CatalogMergeShapes object (Publisher)
 keywords: vbapb10.chm8454143
 f1_keywords:
 - vbapb10.chm8454143
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CatalogMergeShapes Object (Publisher)
+# CatalogMergeShapes object (Publisher)
 
 Represents the shapes contained in the catalog merge area of the specified publication.
  

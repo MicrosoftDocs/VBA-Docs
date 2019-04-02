@@ -1,5 +1,5 @@
 ---
-title: Application.ValidateAddressVisible Property (Publisher)
+title: Application.ValidateAddressVisible property (Publisher)
 keywords: vbapb10.chm131186
 f1_keywords:
 - vbapb10.chm131186
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ValidateAddressVisible Property (Publisher)
+# Application.ValidateAddressVisible property (Publisher)
 
 Determines whether  **Validate addresses** is available under **Refine recipients** in the **Mail Merge Recipients** dialog box in the Microsoft Publisher user interface (UI); and whether **Validate addresses** is available under **Prepare for Mailing** on the **Publisher Tasks** task pane in the Publisher UI. Read/write.
 

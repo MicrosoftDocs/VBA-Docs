@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) obje
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: Application.NewDocument Method (Publisher)
+title: Application.NewDocument method (Publisher)
 keywords: vbapb10.chm131127
 f1_keywords:
 - vbapb10.chm131127
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.NewDocument Method (Publisher)
+# Application.NewDocument method (Publisher)
 
 Returns a  **Document** object that represents a new publication.
 
@@ -25,8 +25,6 @@ Returns a  **Document** object that represents a new publication.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

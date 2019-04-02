@@ -26,7 +26,7 @@ When used without an object qualifier, returns an  **[Application](Word.Applicat
 
 ## Example
 
-The following example displays a message about the application that created  `myObject`.
+The following example displays a message about the application that created _myObject_.
 
 
 ```vb

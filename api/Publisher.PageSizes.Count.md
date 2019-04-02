@@ -1,5 +1,5 @@
 ---
-title: PageSizes.Count Property (Publisher)
+title: PageSizes.Count property (Publisher)
 keywords: vbapb10.chm8781828
 f1_keywords:
 - vbapb10.chm8781828
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSizes.Count Property (Publisher)
+# PageSizes.Count property (Publisher)
 
 Returns the number of  **PageSize** objects in the **PageSizes** collection of the active document. Read-only.
 

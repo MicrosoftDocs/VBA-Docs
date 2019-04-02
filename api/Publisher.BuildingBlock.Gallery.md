@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Gallery Property (Publisher)
+title: BuildingBlock.Gallery property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock.Gallery
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlock.Gallery Property (Publisher)
+# BuildingBlock.Gallery property (Publisher)
 
 A  **[PbBuildingBlockGallery](Publisher.pbbuildingblockgallery.md)** constant that indicates the building block gallery on the ribbon that contains the specified building block, if [ShowInGallery](Publisher.BuildingBlock.ShowInGallery.md) is **True**. Read/write.
 

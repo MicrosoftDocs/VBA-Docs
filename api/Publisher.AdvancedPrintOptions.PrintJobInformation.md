@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.PrintJobInformation Property (Publisher)
+title: AdvancedPrintOptions.PrintJobInformation property (Publisher)
 keywords: vbapb10.chm7077897
 f1_keywords:
 - vbapb10.chm7077897
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.PrintJobInformation Property (Publisher)
+# AdvancedPrintOptions.PrintJobInformation property (Publisher)
 
  **True** to print information about the print job on each plate. The default is **True**. Read/write  **Boolean**.
 

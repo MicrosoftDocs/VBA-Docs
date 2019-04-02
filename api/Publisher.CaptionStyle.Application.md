@@ -1,5 +1,5 @@
 ---
-title: CaptionStyle.Application Property (Publisher)
+title: CaptionStyle.Application property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.CaptionStyle.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CaptionStyle.Application Property (Publisher)
+# CaptionStyle.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Microsoft Publisher. Used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
 

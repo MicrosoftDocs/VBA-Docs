@@ -1,5 +1,5 @@
 ---
-title: Rows Object (Publisher)
+title: Rows object (Publisher)
 keywords: vbapb10.chm4980735
 f1_keywords:
 - vbapb10.chm4980735
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rows Object (Publisher)
+# Rows object (Publisher)
 
 A collection of  **[Row](Publisher.Row.md)** objects that represent the rows in a table.
  

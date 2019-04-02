@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.SetBackgroundSoundRepeat Method (Publisher)
+title: WebPageOptions.SetBackgroundSoundRepeat method (Publisher)
 keywords: vbapb10.chm544777
 f1_keywords:
 - vbapb10.chm544777
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebPageOptions.SetBackgroundSoundRepeat Method (Publisher)
+# WebPageOptions.SetBackgroundSoundRepeat method (Publisher)
 
 Specifies whether the background sound attached to a Web page should be played infinitely after the page is loaded in a Web browser, and if it should not, optionally specifies the number of times the background sound should be played.
 

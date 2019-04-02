@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.CustomDrop Method (Publisher)
+title: CalloutFormat.CustomDrop method (Publisher)
 keywords: vbapb10.chm2490385
 f1_keywords:
 - vbapb10.chm2490385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.CustomDrop Method (Publisher)
+# CalloutFormat.CustomDrop method (Publisher)
 
 Sets the vertical distance from the edge of the text bounding box to the place where the callout line attaches to the text box.
 

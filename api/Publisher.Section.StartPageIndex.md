@@ -1,5 +1,5 @@
 ---
-title: Section.StartPageIndex Property (Publisher)
+title: Section.StartPageIndex property (Publisher)
 keywords: vbapb10.chm7405571
 f1_keywords:
 - vbapb10.chm7405571
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Section.StartPageIndex Property (Publisher)
+# Section.StartPageIndex property (Publisher)
 
 Returns the page number of the page that the specified  **Section** object begins on. Read-only.
 

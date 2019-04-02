@@ -1,5 +1,5 @@
 ---
-title: Printer.Parent Property (Publisher)
+title: Printer.Parent property (Publisher)
 keywords: vbapb10.chm8978434
 f1_keywords:
 - vbapb10.chm8978434
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Printer.Parent Property (Publisher)
+# Printer.Parent property (Publisher)
 
 Returns the parent of the  **[Printer](Publisher.Printer.md)** object. Read-only.
 

@@ -31,7 +31,7 @@ _expression_. `Pattern`
 
 ## Example
 
-This example adds a patterned line to  `myDocument`.
+This example adds a patterned line to  _myDocument_.
 
 
 ```vb

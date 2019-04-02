@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Connector Property (Publisher)
+title: ShapeRange.Connector property (Publisher)
 keywords: vbapb10.chm2293813
 f1_keywords:
 - vbapb10.chm2293813
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Connector Property (Publisher)
+# ShapeRange.Connector property (Publisher)
 
 Returns an  **MsoTriState**value indicating whether the specified shape is a connector. Read-only.
 

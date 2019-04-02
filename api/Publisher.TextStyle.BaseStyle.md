@@ -1,5 +1,5 @@
 ---
-title: TextStyle.BaseStyle Property (Publisher)
+title: TextStyle.BaseStyle property (Publisher)
 keywords: vbapb10.chm5963783
 f1_keywords:
 - vbapb10.chm5963783
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyle.BaseStyle Property (Publisher)
+# TextStyle.BaseStyle property (Publisher)
 
 Returns or sets a  **String** that represents the style upon which the formatting of another style is based. Read/write.
 

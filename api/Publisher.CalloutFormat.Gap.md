@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Gap Property (Publisher)
+title: CalloutFormat.Gap property (Publisher)
 keywords: vbapb10.chm2490631
 f1_keywords:
 - vbapb10.chm2490631
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Gap Property (Publisher)
+# CalloutFormat.Gap property (Publisher)
 
 Returns or sets a  **Variant** indicating the horizontal distance between the end of the callout line and the text bounding box. Read/write.
 

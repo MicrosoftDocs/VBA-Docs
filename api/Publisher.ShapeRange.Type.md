@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Type Property (Publisher)
+title: ShapeRange.Type property (Publisher)
 keywords: vbapb10.chm2293843
 f1_keywords:
 - vbapb10.chm2293843
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Type Property (Publisher)
+# ShapeRange.Type property (Publisher)
 
 Specifies the shape type. Read-only.
 

@@ -49,7 +49,7 @@ The value of the  **PresetLightingDirection** property can be one of these **Mso
 
 ## Example
 
-This example specifies that the extrusion for shape one on  `myDocument` extend toward the top of the shape and that the lighting for the extrusion come from the left.
+This example specifies that the extrusion for shape one on  _myDocument_ extend toward the top of the shape and that the lighting for the extrusion come from the left.
 
 
 ```vb

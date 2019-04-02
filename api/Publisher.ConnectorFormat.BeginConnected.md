@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnected Property (Publisher)
+title: ConnectorFormat.BeginConnected property (Publisher)
 keywords: vbapb10.chm3211520
 f1_keywords:
 - vbapb10.chm3211520
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnected Property (Publisher)
+# ConnectorFormat.BeginConnected property (Publisher)
 
 Returns an  **MsoTriState**constant indicating whether the beginning of the specified connector is connected to a shape. Read-only.
 

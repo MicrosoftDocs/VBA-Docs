@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Duplicate Method (Publisher)
+title: ShapeRange.Duplicate method (Publisher)
 keywords: vbapb10.chm2293780
 f1_keywords:
 - vbapb10.chm2293780
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Duplicate Method (Publisher)
+# ShapeRange.Duplicate method (Publisher)
 
 Creates a duplicate of the specified  **[Shape](Publisher.Shape.md)** or **[ShapeRange](Publisher.ShapeRange.md)** object, adds the new shape or range of shapes to the **Shapes** collection immediately after the shape or range of shapes specified originally, and then returns the new **Shape** or **ShapeRange** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Tags.Parent Property (Publisher)
+title: Tags.Parent property (Publisher)
 keywords: vbapb10.chm4653058
 f1_keywords:
 - vbapb10.chm4653058
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Parent Property (Publisher)
+# Tags.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.Shrink Method (Publisher)
+title: Font.Shrink method (Publisher)
 keywords: vbapb10.chm5373991
 f1_keywords:
 - vbapb10.chm5373991
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Shrink Method (Publisher)
+# Font.Shrink method (Publisher)
 
 Decreases the font size to the next available size. If the selection or range contains more than one font size, each size is decreased to the next available setting.
 

@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutoLength Property (Publisher)
+title: CalloutFormat.AutoLength property (Publisher)
 keywords: vbapb10.chm2490627
 f1_keywords:
 - vbapb10.chm2490627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.AutoLength Property (Publisher)
+# CalloutFormat.AutoLength property (Publisher)
 
 Returns an  **MsoTriState**constant indicating whether the first segment of the callout line is scaled when the callout is moved. Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Read-only.
 

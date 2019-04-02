@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Pattern Property (Publisher)
+title: FillFormat.Pattern property (Publisher)
 keywords: vbapb10.chm2359558
 f1_keywords:
 - vbapb10.chm2359558
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Pattern Property (Publisher)
+# FillFormat.Pattern property (Publisher)
 
 Returns an  **MsoPatternType** constant that represents the pattern applied to the specified fill or line.
 

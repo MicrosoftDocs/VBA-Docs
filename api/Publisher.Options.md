@@ -1,5 +1,5 @@
 ---
-title: Options Object (Publisher)
+title: Options object (Publisher)
 keywords: vbapb10.chm1114111
 f1_keywords:
 - vbapb10.chm1114111
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options Object (Publisher)
+# Options object (Publisher)
 
 Represents application and publication options in Microsoft Publisher. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box (**Tools** menu).
 

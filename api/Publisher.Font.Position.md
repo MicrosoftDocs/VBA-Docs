@@ -1,5 +1,5 @@
 ---
-title: Font.Position Property (Publisher)
+title: Font.Position property (Publisher)
 keywords: vbapb10.chm5373988
 f1_keywords:
 - vbapb10.chm5373988
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Position Property (Publisher)
+# Font.Position property (Publisher)
 
 Returns or sets a  **Variant** representing the font position relative to the baseline of the text in the specified range. Positive values move the text above the normal baseline, negative values move the text below the baseline. Indeterminate values are returned as -9999.0. Read/write.
 

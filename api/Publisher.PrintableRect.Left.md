@@ -1,5 +1,5 @@
 ---
-title: PrintableRect.Left Property (Publisher)
+title: PrintableRect.Left property (Publisher)
 keywords: vbapb10.chm7536643
 f1_keywords:
 - vbapb10.chm7536643
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintableRect.Left Property (Publisher)
+# PrintableRect.Left property (Publisher)
 
 Returns a  **Single** indicating the distance (in points) from the left edge of the printer sheet to the left edge of the printable rectangle. Read-only.
 

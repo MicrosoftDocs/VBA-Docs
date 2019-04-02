@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundWidth Property (Publisher)
+title: TextRange.BoundWidth property (Publisher)
 keywords: vbapb10.chm5308438
 f1_keywords:
 - vbapb10.chm5308438
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.BoundWidth Property (Publisher)
+# TextRange.BoundWidth property (Publisher)
 
 Returns a  **Single** indicating the width, in points, of the bounding box for the specified text range. Read-only.
 

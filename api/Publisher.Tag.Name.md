@@ -1,5 +1,5 @@
 ---
-title: Tag.Name Property (Publisher)
+title: Tag.Name property (Publisher)
 keywords: vbapb10.chm4718595
 f1_keywords:
 - vbapb10.chm4718595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tag.Name Property (Publisher)
+# Tag.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 

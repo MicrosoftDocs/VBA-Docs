@@ -1,5 +1,5 @@
 ---
-title: Shapes.Paste Method (Publisher)
+title: Shapes.Paste method (Publisher)
 keywords: vbapb10.chm2162724
 f1_keywords:
 - vbapb10.chm2162724
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Paste Method (Publisher)
+# Shapes.Paste method (Publisher)
 
 Pastes the shapes or text on the Clipboard into the specified  **[Shapes](Publisher.Shapes.md)** collection, at the top of the z-order. Each pasted object becomes a member of the specified **Shapes** collection. If the Clipboard contains a text range, the text will be pasted into a newly created **TextFrame** shape. Returns a **[ShapeRange](Publisher.ShapeRange.md)** object that represents the pasted objects.
 

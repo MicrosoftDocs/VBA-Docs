@@ -36,7 +36,7 @@ Shape
 
 ## Example
 
-This example adds a freeform with five vertices to  `myDocument`.
+This example adds a freeform with five vertices to  _myDocument_.
 
 
 ```vb

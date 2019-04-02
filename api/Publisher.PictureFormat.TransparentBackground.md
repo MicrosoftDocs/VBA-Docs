@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparentBackground Property (Publisher)
+title: PictureFormat.TransparentBackground property (Publisher)
 keywords: vbapb10.chm3604744
 f1_keywords:
 - vbapb10.chm3604744
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.TransparentBackground Property (Publisher)
+# PictureFormat.TransparentBackground property (Publisher)
 
 Indicates whether the parts of the specified picture that are defined as the transparent color appear transparent. Read/write.
 

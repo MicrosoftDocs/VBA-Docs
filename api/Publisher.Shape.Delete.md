@@ -1,5 +1,5 @@
 ---
-title: Shape.Delete Method (Publisher)
+title: Shape.Delete method (Publisher)
 keywords: vbapb10.chm2228243
 f1_keywords:
 - vbapb10.chm2228243
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Delete Method (Publisher)
+# Shape.Delete method (Publisher)
 
 Deletes the specified object.
 

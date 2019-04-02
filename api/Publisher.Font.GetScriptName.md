@@ -1,5 +1,5 @@
 ---
-title: Font.GetScriptName Method (Publisher)
+title: Font.GetScriptName method (Publisher)
 keywords: vbapb10.chm5374000
 f1_keywords:
 - vbapb10.chm5374000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.GetScriptName Method (Publisher)
+# Font.GetScriptName method (Publisher)
 
 Returns a  **String** that represents the name of the font script being used in a text range.
 

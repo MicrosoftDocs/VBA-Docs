@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.BaseCMYK Property (Publisher)
+title: ColorFormat.BaseCMYK property (Publisher)
 keywords: vbapb10.chm2555921
 f1_keywords:
 - vbapb10.chm2555921
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.BaseCMYK Property (Publisher)
+# ColorFormat.BaseCMYK property (Publisher)
 
 Returns the base cyan-magenta-yellow-black (CMYK) color value of the parent  **ColorFormat** object before any tinting or shading is applied to the color. Read-only.
 

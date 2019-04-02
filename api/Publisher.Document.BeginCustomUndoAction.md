@@ -1,5 +1,5 @@
 ---
-title: Document.BeginCustomUndoAction Method (Publisher)
+title: Document.BeginCustomUndoAction method (Publisher)
 keywords: vbapb10.chm196709
 f1_keywords:
 - vbapb10.chm196709
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.BeginCustomUndoAction Method (Publisher)
+# Document.BeginCustomUndoAction method (Publisher)
 
 Specifies the starting point and label (textual description) of a group of actions that are wrapped to create a single undo action. The  **[EndCustomUndoAction](Publisher.Document.EndCustomUndoAction.md)** method is used to specify the endpoint of the actions used to create the single undo action. The wrapped group of actions can be undone with a single undo.
 

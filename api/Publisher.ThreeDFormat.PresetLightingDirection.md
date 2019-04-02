@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingDirection Property (Publisher)
+title: ThreeDFormat.PresetLightingDirection property (Publisher)
 keywords: vbapb10.chm3801349
 f1_keywords:
 - vbapb10.chm3801349
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetLightingDirection Property (Publisher)
+# ThreeDFormat.PresetLightingDirection property (Publisher)
 
 Returns or sets an  **MsoPresetLightingDirection** constant that represents the position of the light source relative to the extrusion. Read/write.
 

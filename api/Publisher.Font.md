@@ -1,5 +1,5 @@
 ---
-title: Font Object (Publisher)
+title: Font object (Publisher)
 keywords: vbapb10.chm5439487
 f1_keywords:
 - vbapb10.chm5439487
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font Object (Publisher)
+# Font object (Publisher)
 
 Contains font attributes (font name, font size, color, and so on) for an object.
 

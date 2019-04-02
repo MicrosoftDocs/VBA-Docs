@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.TextRange Property (Publisher)
+title: HeaderFooter.TextRange property (Publisher)
 keywords: vbapb10.chm7471108
 f1_keywords:
 - vbapb10.chm7471108
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeaderFooter.TextRange Property (Publisher)
+# HeaderFooter.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
 

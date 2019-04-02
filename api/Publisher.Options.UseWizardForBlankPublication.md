@@ -1,5 +1,5 @@
 ---
-title: Options.UseWizardForBlankPublication Property (Publisher)
+title: Options.UseWizardForBlankPublication property (Publisher)
 keywords: vbapb10.chm1048630
 f1_keywords:
 - vbapb10.chm1048630
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.UseWizardForBlankPublication Property (Publisher)
+# Options.UseWizardForBlankPublication property (Publisher)
 
 Gets or sets whether to use a wizard for blank publications. Read/Write.
 

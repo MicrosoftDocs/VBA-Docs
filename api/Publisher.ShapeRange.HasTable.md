@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HasTable Property (Publisher)
+title: ShapeRange.HasTable property (Publisher)
 keywords: vbapb10.chm2293857
 f1_keywords:
 - vbapb10.chm2293857
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.HasTable Property (Publisher)
+# ShapeRange.HasTable property (Publisher)
 
 Returns  **msoTrue** if the shape represents a **TableFrame** object or **msoFalse** if the shape represents any other object type. Read-only.
 

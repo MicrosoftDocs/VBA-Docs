@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextEffect Method (Publisher)
+title: Shapes.AddTextEffect method (Publisher)
 keywords: vbapb10.chm2162721
 f1_keywords:
 - vbapb10.chm2162721
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddTextEffect Method (Publisher)
+# Shapes.AddTextEffect method (Publisher)
 
 Adds a new  **Shape** object representing a WordArt object to the specified **Shapes** collection.
 

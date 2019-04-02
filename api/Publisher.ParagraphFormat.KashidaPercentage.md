@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.KashidaPercentage Property (Publisher)
+title: ParagraphFormat.KashidaPercentage property (Publisher)
 keywords: vbapb10.chm5439513
 f1_keywords:
 - vbapb10.chm5439513
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.KashidaPercentage Property (Publisher)
+# ParagraphFormat.KashidaPercentage property (Publisher)
 
 Returns or sets a  **Long** indicating the percentage by which kashidas are to be lengthened for the specified paragraphs. Valid values are from 0 to 100. Read/write.
 

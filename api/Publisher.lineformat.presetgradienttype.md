@@ -1,5 +1,5 @@
 ---
-title: LineFormat.PresetGradientType Property (Publisher)
+title: LineFormat.PresetGradientType property (Publisher)
 keywords: vbapb10.chm3408153
 f1_keywords:
 - vbapb10.chm3408153
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.PresetGradientType Property (Publisher)
+# LineFormat.PresetGradientType property (Publisher)
 
 Returns the preset gradient type for the specified line. Read-only.
 

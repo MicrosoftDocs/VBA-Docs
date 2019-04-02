@@ -1,5 +1,5 @@
 ---
-title: Shape.OLEFormat Property (Publisher)
+title: Shape.OLEFormat property (Publisher)
 keywords: vbapb10.chm2228327
 f1_keywords:
 - vbapb10.chm2228327
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.OLEFormat Property (Publisher)
+# Shape.OLEFormat property (Publisher)
 
 Returns an  **[OLEFormat](Publisher.OLEFormat.md)** object that contains OLE formatting properties for the specified shape. Applies to  **Shape** or **ShapeRange** objects that represent OLE objects.
 

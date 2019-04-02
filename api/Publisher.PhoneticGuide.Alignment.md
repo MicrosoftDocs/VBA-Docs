@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide.Alignment Property (Publisher)
+title: PhoneticGuide.Alignment property (Publisher)
 keywords: vbapb10.chm6160390
 f1_keywords:
 - vbapb10.chm6160390
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PhoneticGuide.Alignment Property (Publisher)
+# PhoneticGuide.Alignment property (Publisher)
 
 Returns a  **PbPhoneticGuideAlignmentType** constant that represents the position of phonetic characters above Japanese text. Read-only.
 

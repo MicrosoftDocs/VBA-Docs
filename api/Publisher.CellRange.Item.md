@@ -1,5 +1,5 @@
 ---
-title: CellRange.Item Method (Publisher)
+title: CellRange.Item method (Publisher)
 keywords: vbapb10.chm5177344
 f1_keywords:
 - vbapb10.chm5177344
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Item Method (Publisher)
+# CellRange.Item method (Publisher)
 
 Returns an individual  **Cell** object in the specified **CellRange** collection.
 

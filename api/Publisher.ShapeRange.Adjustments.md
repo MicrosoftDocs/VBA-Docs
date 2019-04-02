@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Adjustments Property (Publisher)
+title: ShapeRange.Adjustments property (Publisher)
 keywords: vbapb10.chm2293809
 f1_keywords:
 - vbapb10.chm2293809
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Adjustments Property (Publisher)
+# ShapeRange.Adjustments property (Publisher)
 
 Returns an  **[Adjustments](Publisher.Adjustments.md)** collection representing all adjustment handles for the specified **Shape** or **ShapeRange** object.
 

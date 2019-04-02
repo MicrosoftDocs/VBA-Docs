@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.NegativeImage Property (Publisher)
+title: AdvancedPrintOptions.NegativeImage property (Publisher)
 keywords: vbapb10.chm7077893
 f1_keywords:
 - vbapb10.chm7077893
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.NegativeImage Property (Publisher)
+# AdvancedPrintOptions.NegativeImage property (Publisher)
 
  **True** to print a negative image of the specified publication. The default is **False**. Read/write  **Boolean**.
 

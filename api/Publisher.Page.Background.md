@@ -1,5 +1,5 @@
 ---
-title: Page.Background Property (Publisher)
+title: Page.Background property (Publisher)
 keywords: vbapb10.chm393249
 f1_keywords:
 - vbapb10.chm393249
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Background Property (Publisher)
+# Page.Background property (Publisher)
 
 Sets or returns a  **PageBackground** object representing the background of the specified page.
 

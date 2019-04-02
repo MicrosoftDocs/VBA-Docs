@@ -1,5 +1,5 @@
 ---
-title: Application.InstalledPrinters Property (Publisher)
+title: Application.InstalledPrinters property (Publisher)
 keywords: vbapb10.chm131184
 f1_keywords:
 - vbapb10.chm131184
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.InstalledPrinters Property (Publisher)
+# Application.InstalledPrinters property (Publisher)
 
 Returns an  **[InstalledPrinters](Publisher.InstalledPrinters.md)** collection that represents the names of all the printers installed on the computer and to which Microsoft Publisher can print the publication. Read-only.
 

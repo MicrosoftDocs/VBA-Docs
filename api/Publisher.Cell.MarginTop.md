@@ -1,5 +1,5 @@
 ---
-title: Cell.MarginTop Property (Publisher)
+title: Cell.MarginTop property (Publisher)
 keywords: vbapb10.chm5111829
 f1_keywords:
 - vbapb10.chm5111829
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.MarginTop Property (Publisher)
+# Cell.MarginTop property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the top edge of a cell, text frame, or page. Read/write.
 

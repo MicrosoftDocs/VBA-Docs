@@ -1,5 +1,5 @@
 ---
-title: TextStyle Object (Publisher)
+title: TextStyle object (Publisher)
 keywords: vbapb10.chm6029311
 f1_keywords:
 - vbapb10.chm6029311
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyle Object (Publisher)
+# TextStyle object (Publisher)
 
 Represents a single built-in or user-defined style. The  **TextStyle** object includes style attributes (font, font style, paragraph spacing, and so on) as properties of the **TextStyle** object. The **TextStyle** object is a member of the **[TextStyles](Publisher.TextStyles.md)** collection. The **TextStyles** collection includes all the styles in the specified document.
  

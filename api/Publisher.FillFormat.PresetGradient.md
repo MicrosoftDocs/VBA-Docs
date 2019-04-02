@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradient Method (Publisher)
+title: FillFormat.PresetGradient method (Publisher)
 keywords: vbapb10.chm2359315
 f1_keywords:
 - vbapb10.chm2359315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetGradient Method (Publisher)
+# FillFormat.PresetGradient method (Publisher)
 
 Sets the specified fill to a preset gradient.
 

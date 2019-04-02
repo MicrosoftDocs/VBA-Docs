@@ -83,7 +83,7 @@ The  _PresetGradientType_ parameter value can be one of these **MsoPresetGradien
 
 ## Example
 
-This example adds a rectangle with a preset gradient fill to  `myDocument`.
+This example adds a rectangle with a preset gradient fill to  _myDocument_.
 
 
 ```vb

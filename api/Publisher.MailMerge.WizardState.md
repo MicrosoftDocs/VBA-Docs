@@ -1,5 +1,5 @@
 ---
-title: MailMerge.WizardState Property (Publisher)
+title: MailMerge.WizardState property (Publisher)
 keywords: vbapb10.chm6225929
 f1_keywords:
 - vbapb10.chm6225929
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.WizardState Property (Publisher)
+# MailMerge.WizardState property (Publisher)
 
 Returns or sets a  **Long** indicating the current Mail Merge wizard step for a publication. The **WizardState** property returns a number that equates to the current Mail Merge wizard step; a zero (0) means the Mail Merge wizard is closed. Read/write.
 

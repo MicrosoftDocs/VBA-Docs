@@ -1,5 +1,5 @@
 ---
-title: CaptionStyle.Name Property (Publisher)
+title: CaptionStyle.Name property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.CaptionStyle.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CaptionStyle.Name Property (Publisher)
+# CaptionStyle.Name property (Publisher)
 
 A string that represents the name of the caption style. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMerge.Parent Property (Publisher)
+title: MailMerge.Parent property (Publisher)
 keywords: vbapb10.chm6225922
 f1_keywords:
 - vbapb10.chm6225922
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.Parent Property (Publisher)
+# MailMerge.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

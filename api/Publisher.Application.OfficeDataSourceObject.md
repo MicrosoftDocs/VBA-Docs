@@ -1,5 +1,5 @@
 ---
-title: Application.OfficeDataSourceObject Property (Publisher)
+title: Application.OfficeDataSourceObject property (Publisher)
 keywords: vbapb10.chm131123
 f1_keywords:
 - vbapb10.chm131123
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OfficeDataSourceObject Property (Publisher)
+# Application.OfficeDataSourceObject property (Publisher)
 
 Returns an  **OfficeDataSourceObject** object representing the data source in a mail merge or catalog merge operation. Read-only.
 

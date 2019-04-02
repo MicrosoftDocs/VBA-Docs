@@ -1,5 +1,5 @@
 ---
-title: Application.CommandBars Property (Publisher)
+title: Application.CommandBars property (Publisher)
 keywords: vbapb10.chm131088
 f1_keywords:
 - vbapb10.chm131088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CommandBars Property (Publisher)
+# Application.CommandBars property (Publisher)
 
 Sets or returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Publisher.
 

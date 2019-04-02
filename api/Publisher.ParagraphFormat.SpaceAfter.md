@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SpaceAfter Property (Publisher)
+title: ParagraphFormat.SpaceAfter property (Publisher)
 keywords: vbapb10.chm5439496
 f1_keywords:
 - vbapb10.chm5439496
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.SpaceAfter Property (Publisher)
+# ParagraphFormat.SpaceAfter property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of spacing (in points) after one or more paragraphs. Read/write.
 

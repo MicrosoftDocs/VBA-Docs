@@ -1,5 +1,5 @@
 ---
-title: Column.Width Property (Publisher)
+title: Column.Width property (Publisher)
 keywords: vbapb10.chm4980739
 f1_keywords:
 - vbapb10.chm4980739
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Width Property (Publisher)
+# Column.Width property (Publisher)
 
 Returns or sets a  **Variant** that represents the width (in points) of a specified table column or shape. Read/write.
 

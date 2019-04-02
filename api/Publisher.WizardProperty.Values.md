@@ -1,5 +1,5 @@
 ---
-title: WizardProperty.Values Property (Publisher)
+title: WizardProperty.Values property (Publisher)
 keywords: vbapb10.chm1572872
 f1_keywords:
 - vbapb10.chm1572872
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WizardProperty.Values Property (Publisher)
+# WizardProperty.Values property (Publisher)
 
 Returns a  **[WizardValues](Publisher.WizardValues.md)** collection representing all the valid values for a wizard property.
 

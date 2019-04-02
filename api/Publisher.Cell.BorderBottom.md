@@ -1,5 +1,5 @@
 ---
-title: Cell.BorderBottom Property (Publisher)
+title: Cell.BorderBottom property (Publisher)
 keywords: vbapb10.chm5111811
 f1_keywords:
 - vbapb10.chm5111811
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.BorderBottom Property (Publisher)
+# Cell.BorderBottom property (Publisher)
 
 Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the bottom border for a specified table cell.
 

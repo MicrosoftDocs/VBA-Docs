@@ -1,5 +1,5 @@
 ---
-title: Application Object (Publisher)
+title: Application object (Publisher)
 keywords: vbapb10.chm536936447
 f1_keywords:
 - vbapb10.chm536936447
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application Object (Publisher)
+# Application object (Publisher)
 
 Represents the Microsoft Publisher application. The  **Application** object includes properties and methods that return top-level objects. For example, the **ActiveDocument** property returns a **Document** object.
 

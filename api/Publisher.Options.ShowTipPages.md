@@ -1,5 +1,5 @@
 ---
-title: Options.ShowTipPages Property (Publisher)
+title: Options.ShowTipPages property (Publisher)
 keywords: vbapb10.chm1048609
 f1_keywords:
 - vbapb10.chm1048609
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.ShowTipPages Property (Publisher)
+# Options.ShowTipPages property (Publisher)
 
  **True** for Microsoft Publisher to display tippages in balloons. Read/write **Boolean**.
 

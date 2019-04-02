@@ -1,5 +1,5 @@
 ---
-title: PageSize.Parent Property (Publisher)
+title: PageSize.Parent property (Publisher)
 keywords: vbapb10.chm8847363
 f1_keywords:
 - vbapb10.chm8847363
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSize.Parent Property (Publisher)
+# PageSize.Parent property (Publisher)
 
 Returns the parent of the  **[PageSize](Publisher.PageSizes.md)** object. Read-only.
 

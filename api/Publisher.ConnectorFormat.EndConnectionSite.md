@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnectionSite Property (Publisher)
+title: ConnectorFormat.EndConnectionSite property (Publisher)
 keywords: vbapb10.chm3211525
 f1_keywords:
 - vbapb10.chm3211525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnectionSite Property (Publisher)
+# ConnectorFormat.EndConnectionSite property (Publisher)
 
 Returns a  **Long** indicating the connection site to which the end of a connector is connected. Read-only.
 

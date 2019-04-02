@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.UseCharBasedFirstLineIndent Property (Publisher)
+title: ParagraphFormat.UseCharBasedFirstLineIndent property (Publisher)
 keywords: vbapb10.chm5439529
 f1_keywords:
 - vbapb10.chm5439529
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.UseCharBasedFirstLineIndent Property (Publisher)
+# ParagraphFormat.UseCharBasedFirstLineIndent property (Publisher)
 
 Returns or sets an  **MsoTriState** constant that specifies whether a paragraph is indented using East Asian character width. Read/write.
 

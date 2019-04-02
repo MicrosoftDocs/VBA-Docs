@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddConnector Method (Publisher)
+title: Shapes.AddConnector method (Publisher)
 keywords: vbapb10.chm2162705
 f1_keywords:
 - vbapb10.chm2162705
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddConnector Method (Publisher)
+# Shapes.AddConnector method (Publisher)
 
 Adds a new  **[Shape](Publisher.Shape.md)** object representing a connector to the specified **[Shapes](Publisher.Shapes.md)** collection.
 

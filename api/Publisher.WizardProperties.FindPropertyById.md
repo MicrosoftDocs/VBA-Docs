@@ -1,5 +1,5 @@
 ---
-title: WizardProperties.FindPropertyById Method (Publisher)
+title: WizardProperties.FindPropertyById method (Publisher)
 keywords: vbapb10.chm1507332
 f1_keywords:
 - vbapb10.chm1507332
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WizardProperties.FindPropertyById Method (Publisher)
+# WizardProperties.FindPropertyById method (Publisher)
 
 Returns a  **[WizardProperty](Publisher.WizardProperty.md)** object, based on the specified ID, from the collection of wizard properties associated with a publication design or a Design Gallery object's wizard.
 

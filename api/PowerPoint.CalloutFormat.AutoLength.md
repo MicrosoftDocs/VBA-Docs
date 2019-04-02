@@ -44,7 +44,7 @@ The value returned by the  **AutoLength** property can be one of these **MsoTriS
 
 ## Example
 
-This example switches between an automatically scaling first segment and one with a fixed length for the callout line for shape one on  `myDocument`. For the example to work, shape one must be a callout.
+This example switches between an automatically scaling first segment and one with a fixed length for the callout line for shape one on  _myDocument_. For the example to work, shape one must be a callout.
 
 
 ```vb

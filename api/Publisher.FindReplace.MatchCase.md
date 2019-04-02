@@ -1,5 +1,5 @@
 ---
-title: FindReplace.MatchCase Property (Publisher)
+title: FindReplace.MatchCase property (Publisher)
 keywords: vbapb10.chm8323080
 f1_keywords:
 - vbapb10.chm8323080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.MatchCase Property (Publisher)
+# FindReplace.MatchCase property (Publisher)
 
 Sets or returns a  **Boolean** that represents the case sensitivity of the search operation. Read/write.
 

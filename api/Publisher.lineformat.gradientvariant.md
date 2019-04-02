@@ -1,5 +1,5 @@
 ---
-title: LineFormat.GradientVariant Property (Publisher)
+title: LineFormat.GradientVariant property (Publisher)
 keywords: vbapb10.chm3408152
 f1_keywords:
 - vbapb10.chm3408152
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.GradientVariant Property (Publisher)
+# LineFormat.GradientVariant property (Publisher)
 
 Returns the gradient variant for the specified line as an integer value, usually from 1 to 4. Read-only.
 

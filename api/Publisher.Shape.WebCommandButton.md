@@ -1,5 +1,5 @@
 ---
-title: Shape.WebCommandButton Property (Publisher)
+title: Shape.WebCommandButton property (Publisher)
 keywords: vbapb10.chm2228340
 f1_keywords:
 - vbapb10.chm2228340
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.WebCommandButton Property (Publisher)
+# Shape.WebCommandButton property (Publisher)
 
 Returns the  **[WebCommandButton](Publisher.WebCommandButton.md)** object associated with the specified shape.
 

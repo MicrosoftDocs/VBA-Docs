@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatWord Property (Publisher)
+title: Options.AutoFormatWord property (Publisher)
 keywords: vbapb10.chm1048579
 f1_keywords:
 - vbapb10.chm1048579
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.AutoFormatWord Property (Publisher)
+# Options.AutoFormatWord property (Publisher)
 
  **True** for Microsoft Publisher to automatically format the entire word at the cursor position, even when no text is selected. Read/write **Boolean**.
 

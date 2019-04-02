@@ -54,7 +54,7 @@ The Variant parameter value can be from 1 to 4, corresponding to the four varian
 
 ## Example
 
-This example adds a rectangle with a two-color gradient fill to  `myDocument` and sets the background and foreground color for the fill.
+This example adds a rectangle with a two-color gradient fill to  _myDocument_ and sets the background and foreground color for the fill.
 
 
 ```vb

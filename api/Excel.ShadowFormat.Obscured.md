@@ -39,7 +39,7 @@ _expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) 
 
 ## Example
 
-This example sets the horizontal and vertical offsets for the shadow of shape three on  `myDocument`. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it. The shadow will be filled in and obscured by the shape, even if the shape has no fill.
+This example sets the horizontal and vertical offsets for the shadow of shape three on  _myDocument_. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it. The shadow will be filled in and obscured by the shape, even if the shape has no fill.
 
 
 ```vb

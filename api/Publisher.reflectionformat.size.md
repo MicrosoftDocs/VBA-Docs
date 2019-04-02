@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Size Property (Publisher)
+title: ReflectionFormat.Size property (Publisher)
 keywords: vbapb10.chm9699331
 f1_keywords:
 - vbapb10.chm9699331
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ReflectionFormat.Size Property (Publisher)
+# ReflectionFormat.Size property (Publisher)
 
 Returns or sets the size of the reflection as a percentage of the reflected shape from 0 to 100. Read/write.
 

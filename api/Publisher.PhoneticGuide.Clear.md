@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide.Clear Method (Publisher)
+title: PhoneticGuide.Clear method (Publisher)
 keywords: vbapb10.chm6160393
 f1_keywords:
 - vbapb10.chm6160393
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PhoneticGuide.Clear Method (Publisher)
+# PhoneticGuide.Clear method (Publisher)
 
 Removes the phonetic information from Japanese text.
 

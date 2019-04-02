@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.Name Property (Publisher)
+title: WebNavigationBarSet.Name property (Publisher)
 keywords: vbapb10.chm8519680
 f1_keywords:
 - vbapb10.chm8519680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.Name Property (Publisher)
+# WebNavigationBarSet.Name property (Publisher)
 
 Indicates the name of the specified Web navigation bar set. Read/write.
 

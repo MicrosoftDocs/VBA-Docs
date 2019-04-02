@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationY Method (Publisher)
+title: ThreeDFormat.IncrementRotationY method (Publisher)
 keywords: vbapb10.chm3801105
 f1_keywords:
 - vbapb10.chm3801105
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationY Method (Publisher)
+# ThreeDFormat.IncrementRotationY method (Publisher)
 
 Changes the rotation of the specified shape around the y-axis (vertical) by the specified number of degrees.
 

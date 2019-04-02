@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ColorModel Property (Publisher)
+title: PictureFormat.ColorModel property (Publisher)
 keywords: vbapb10.chm3604753
 f1_keywords:
 - vbapb10.chm3604753
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.ColorModel Property (Publisher)
+# PictureFormat.ColorModel property (Publisher)
 
 Returns a  **PbColorModel** constant that represents the color model of the picture. Read-only.
 

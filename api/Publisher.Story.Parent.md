@@ -1,5 +1,5 @@
 ---
-title: Story.Parent Property (Publisher)
+title: Story.Parent property (Publisher)
 keywords: vbapb10.chm5832706
 f1_keywords:
 - vbapb10.chm5832706
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Story.Parent Property (Publisher)
+# Story.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

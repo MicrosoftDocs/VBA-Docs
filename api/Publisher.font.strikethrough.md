@@ -1,5 +1,5 @@
 ---
-title: Font.StrikeThrough Property (Publisher)
+title: Font.StrikeThrough property (Publisher)
 keywords: vbapb10.chm5374017
 f1_keywords:
 - vbapb10.chm5374017
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Font.StrikeThrough Property (Publisher)
+# Font.StrikeThrough property (Publisher)
 
 Returns or sets an  **MsoTriState** constant that represents the state of the **StrikeThrough** property on the characters in a text range. Read/write.
 

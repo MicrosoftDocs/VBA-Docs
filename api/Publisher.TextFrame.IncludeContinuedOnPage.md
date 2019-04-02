@@ -1,5 +1,5 @@
 ---
-title: TextFrame.IncludeContinuedOnPage Property (Publisher)
+title: TextFrame.IncludeContinuedOnPage property (Publisher)
 keywords: vbapb10.chm3866664
 f1_keywords:
 - vbapb10.chm3866664
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.IncludeContinuedOnPage Property (Publisher)
+# TextFrame.IncludeContinuedOnPage property (Publisher)
 
 Determines whether the text "Continued on page  _pagenumber_" appears in a text box when Microsoft Publisher links text boxes. Read/write.
 

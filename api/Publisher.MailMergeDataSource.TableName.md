@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.TableName Property (Publisher)
+title: MailMergeDataSource.TableName property (Publisher)
 keywords: vbapb10.chm6291491
 f1_keywords:
 - vbapb10.chm6291491
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.TableName Property (Publisher)
+# MailMergeDataSource.TableName property (Publisher)
 
 Returns a  **String** that represents the name of the table within the data source file that contains the mail merge records. The returned value may be blank if the table name is unknown or not applicable to the current data source. Read-only.
 

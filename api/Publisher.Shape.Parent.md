@@ -1,5 +1,5 @@
 ---
-title: Shape.Parent Property (Publisher)
+title: Shape.Parent property (Publisher)
 keywords: vbapb10.chm2228226
 f1_keywords:
 - vbapb10.chm2228226
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Parent Property (Publisher)
+# Shape.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

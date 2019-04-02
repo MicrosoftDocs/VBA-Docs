@@ -1,5 +1,5 @@
 ---
-title: Attachments.Application Property (Publisher)
+title: Attachments.Application property (Publisher)
 keywords: vbapb10.chm569345
 f1_keywords:
 - vbapb10.chm569345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Application Property (Publisher)
+# Attachments.Application property (Publisher)
 
 Returns an  **Application** object that represents the creator of the parent **Attachments** collection. Read-only.
 

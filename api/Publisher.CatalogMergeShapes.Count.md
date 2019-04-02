@@ -1,5 +1,5 @@
 ---
-title: CatalogMergeShapes.Count Property (Publisher)
+title: CatalogMergeShapes.Count property (Publisher)
 keywords: vbapb10.chm8388611
 f1_keywords:
 - vbapb10.chm8388611
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CatalogMergeShapes.Count Property (Publisher)
+# CatalogMergeShapes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

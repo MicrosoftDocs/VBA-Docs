@@ -1,5 +1,5 @@
 ---
-title: Application.COMAddIns Property (Publisher)
+title: Application.COMAddIns property (Publisher)
 keywords: vbapb10.chm131081
 f1_keywords:
 - vbapb10.chm131081
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.COMAddIns Property (Publisher)
+# Application.COMAddIns property (Publisher)
 
 Returns a  **COMAddIns** collection that represents a reference to the Component Object Model (COM) add-ins currently loaded in Microsoft Publisher.
 

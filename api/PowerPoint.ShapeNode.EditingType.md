@@ -45,7 +45,7 @@ The value of the  **EditingType** property can be one of these **MsoEditingType*
 
 ## Example
 
-This example changes all corner nodes to smooth nodes in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all corner nodes to smooth nodes in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Visible Property (Publisher)
+title: ReflectionFormat.Visible property (Publisher)
 keywords: vbapb10.chm9699334
 f1_keywords:
 - vbapb10.chm9699334
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ReflectionFormat.Visible Property (Publisher)
+# ReflectionFormat.Visible property (Publisher)
 
  **True** if the specified object or the formatting applied to it is visible. Read/write **MsoTriState**.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.Insert Method (Publisher)
+title: MailMergeDataField.Insert method (Publisher)
 keywords: vbapb10.chm6422561
 f1_keywords:
 - vbapb10.chm6422561
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataField.Insert Method (Publisher)
+# MailMergeDataField.Insert method (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents a data field inserted into a publication.
 

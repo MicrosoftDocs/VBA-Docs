@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LeftMargin Property (Publisher)
+title: PageSetup.LeftMargin property (Publisher)
 keywords: vbapb10.chm6946819
 f1_keywords:
 - vbapb10.chm6946819
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.LeftMargin Property (Publisher)
+# PageSetup.LeftMargin property (Publisher)
 
 Returns a  **Variant** that represents the distance (in points) between the left edge of the printer sheet and the left edge of the publication pages when multiple pages are printed on a single sheet. Read-only.
 

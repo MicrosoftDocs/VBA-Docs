@@ -1,5 +1,5 @@
 ---
-title: Tags.Count Property (Publisher)
+title: Tags.Count property (Publisher)
 keywords: vbapb10.chm4653059
 f1_keywords:
 - vbapb10.chm4653059
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Count Property (Publisher)
+# Tags.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

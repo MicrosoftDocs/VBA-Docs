@@ -1,5 +1,5 @@
 ---
-title: OLEFormat Object (Publisher)
+title: OLEFormat object (Publisher)
 keywords: vbapb10.chm4521983
 f1_keywords:
 - vbapb10.chm4521983
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat Object (Publisher)
+# OLEFormat object (Publisher)
 
 Represents the OLE characteristics, other than linking (see the  **[LinkFormat](Publisher.LinkFormat.md)** object), for an OLE object, ActiveX control, or field.
  

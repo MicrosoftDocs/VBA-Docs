@@ -1,5 +1,5 @@
 ---
-title: Section Object (Publisher)
+title: Section object (Publisher)
 keywords: vbapb10.chm7471103
 f1_keywords:
 - vbapb10.chm7471103
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Section Object (Publisher)
+# Section object (Publisher)
 
 Represents a Section of a publication or document.
  

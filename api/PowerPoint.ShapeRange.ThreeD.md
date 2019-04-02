@@ -31,7 +31,7 @@ ThreeDFormat
 
 ## Example
 
-This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  `myDocument`.
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  _myDocument_.
 
 
 ```vb

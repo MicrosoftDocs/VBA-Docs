@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSets.AddSet Method (Publisher)
+title: WebNavigationBarSets.AddSet method (Publisher)
 keywords: vbapb10.chm8454148
 f1_keywords:
 - vbapb10.chm8454148
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSets.AddSet Method (Publisher)
+# WebNavigationBarSets.AddSet method (Publisher)
 
 Adds a new  **WebNavigationBarSet** object representing a Web navigation bar set to the specified **WebNavigationBarSets** collection. .
 

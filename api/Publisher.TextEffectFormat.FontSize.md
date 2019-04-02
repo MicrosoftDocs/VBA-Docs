@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontSize Property (Publisher)
+title: TextEffectFormat.FontSize property (Publisher)
 keywords: vbapb10.chm3735812
 f1_keywords:
 - vbapb10.chm3735812
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontSize Property (Publisher)
+# TextEffectFormat.FontSize property (Publisher)
 
 Returns or sets a  **Variant** that represents the font size for the specified WordArt, in points. Read/write.
 

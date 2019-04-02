@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnected Property (Publisher)
+title: ConnectorFormat.EndConnected property (Publisher)
 keywords: vbapb10.chm3211523
 f1_keywords:
 - vbapb10.chm3211523
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnected Property (Publisher)
+# ConnectorFormat.EndConnected property (Publisher)
 
 Returns an  **MsoTriState** constant indicating whether the end of the specified connector is connected to a shape. Read-only.
 

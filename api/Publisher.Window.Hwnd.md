@@ -1,5 +1,5 @@
 ---
-title: Window.Hwnd Property (Publisher)
+title: Window.Hwnd property (Publisher)
 keywords: vbapb10.chm262161
 f1_keywords:
 - vbapb10.chm262161
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Hwnd Property (Publisher)
+# Window.Hwnd property (Publisher)
 
 Returns a  **Long** indicating the handle to the Microsoft Publisher application window. Read-only.
 

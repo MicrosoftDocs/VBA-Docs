@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.Links Property (Publisher)
+title: WebNavigationBarSet.Links property (Publisher)
 keywords: vbapb10.chm8519697
 f1_keywords:
 - vbapb10.chm8519697
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.Links Property (Publisher)
+# WebNavigationBarSet.Links property (Publisher)
 
 Returns a  **WebNavigationBarHyperlinks** collection containing all of the hyperlinks in the specified Web navigation bar set. Read/write.
 

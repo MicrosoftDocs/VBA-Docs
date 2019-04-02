@@ -1,5 +1,5 @@
 ---
-title: Page.PageNumber Property (Publisher)
+title: Page.PageNumber property (Publisher)
 keywords: vbapb10.chm393220
 f1_keywords:
 - vbapb10.chm393220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.PageNumber Property (Publisher)
+# Page.PageNumber property (Publisher)
 
 Returns a  **String** that represents the current page number. Read-only.
 

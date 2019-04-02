@@ -26,7 +26,7 @@ _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) obje
 
 ## Example
 
-This example adds a blue dashed line to  `myDocument`.
+This example adds a blue dashed line to  _myDocument_.
 
 
 ```vb

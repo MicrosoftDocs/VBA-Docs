@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropLeft Property (Publisher)
+title: PictureFormat.CropLeft property (Publisher)
 keywords: vbapb10.chm3604740
 f1_keywords:
 - vbapb10.chm3604740
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.CropLeft Property (Publisher)
+# PictureFormat.CropLeft property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount by which the left edge of a picture or OLE object is cropped. Read/write.
 

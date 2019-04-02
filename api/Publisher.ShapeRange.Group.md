@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Group Method (Publisher)
+title: ShapeRange.Group method (Publisher)
 keywords: vbapb10.chm2294018
 f1_keywords:
 - vbapb10.chm2294018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Group Method (Publisher)
+# ShapeRange.Group method (Publisher)
 
 Groups the shapes in the specified shape range. Returns the grouped shapes as a single  **[Shape](Publisher.Shape.md)** object.
 

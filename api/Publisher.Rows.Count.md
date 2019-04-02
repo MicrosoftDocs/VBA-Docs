@@ -1,5 +1,5 @@
 ---
-title: Rows.Count Property (Publisher)
+title: Rows.Count property (Publisher)
 keywords: vbapb10.chm4915202
 f1_keywords:
 - vbapb10.chm4915202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rows.Count Property (Publisher)
+# Rows.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

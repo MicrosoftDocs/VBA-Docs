@@ -42,7 +42,7 @@ The value of the  **FontItalic** property can be one of these **MsoTriState** co
 
 ## Example
 
-This example sets the font to italic for the shape named "WordArt 4" on  `myDocument`.
+This example sets the font to italic for the shape named "WordArt 4" on  _myDocument_.
 
 
 ```vb

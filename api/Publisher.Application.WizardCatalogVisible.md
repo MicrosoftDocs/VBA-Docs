@@ -1,5 +1,5 @@
 ---
-title: Application.WizardCatalogVisible Property (Publisher)
+title: Application.WizardCatalogVisible property (Publisher)
 keywords: vbapb10.chm131173
 f1_keywords:
 - vbapb10.chm131173
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WizardCatalogVisible Property (Publisher)
+# Application.WizardCatalogVisible property (Publisher)
 
 Returns or sets a  **Boolean** indicating whether the Wizard Catalog is visible. Read/write.
 

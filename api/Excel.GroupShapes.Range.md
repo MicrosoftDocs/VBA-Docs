@@ -39,7 +39,7 @@ Although you can use the  **[Range](Excel.GroupShapes.Range.md)** property to re
 
 ## Example
 
-This example sets the fill pattern for shapes one and three on  `myDocument`.
+This example sets the fill pattern for shapes one and three on  _myDocument_.
 
 
 ```vb
@@ -72,7 +72,7 @@ set sr = Selection.ShapeRange ' create ShapeRange
  
 ```
 
-This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  `myDocument`.
+This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  _myDocument_.
 
 
 
@@ -86,7 +86,7 @@ Set objRange = myDocument.Shapes.Range(arShapes)
 objRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for shape one on  `myDocument`.
+This example sets the fill pattern for shape one on  _myDocument_.
 
 
 
@@ -97,7 +97,7 @@ Set myRange = myDocument.Shapes.Range(1)
 myRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example creates an array that contains all the AutoShapes on  `myDocument`, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
+This example creates an array that contains all the AutoShapes on  _myDocument_, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
 
 
 

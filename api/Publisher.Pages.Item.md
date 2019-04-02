@@ -1,5 +1,5 @@
 ---
-title: Pages.Item Property (Publisher)
+title: Pages.Item property (Publisher)
 keywords: vbapb10.chm458752
 f1_keywords:
 - vbapb10.chm458752
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Item Property (Publisher)
+# Pages.Item property (Publisher)
 
 Returns the specified  **[Page](Publisher.Page.md)** object from a **Pages** or **MasterPages** collection. Read-only.
 

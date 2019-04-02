@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.TextDirection Property (Publisher)
+title: ParagraphFormat.TextDirection property (Publisher)
 keywords: vbapb10.chm5439507
 f1_keywords:
 - vbapb10.chm5439507
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.TextDirection Property (Publisher)
+# ParagraphFormat.TextDirection property (Publisher)
 
 Returns or sets a  **PbTextDirection** constant indicating the direction in which text flows in the specified paragraph. Read/write.
 

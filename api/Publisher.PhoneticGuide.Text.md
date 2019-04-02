@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide.Text Property (Publisher)
+title: PhoneticGuide.Text property (Publisher)
 keywords: vbapb10.chm6160392
 f1_keywords:
 - vbapb10.chm6160392
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PhoneticGuide.Text Property (Publisher)
+# PhoneticGuide.Text property (Publisher)
 
 Returns a  **String** that represents the contents of phonetic text. Read-only.
 

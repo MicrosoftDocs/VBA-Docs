@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LockToBaseLine Property (Publisher)
+title: ParagraphFormat.LockToBaseLine property (Publisher)
 keywords: vbapb10.chm5439540
 f1_keywords:
 - vbapb10.chm5439540
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LockToBaseLine Property (Publisher)
+# ParagraphFormat.LockToBaseLine property (Publisher)
 
 Returns an  **MsoTristate** that represents whether or not text will be positioned along baseline guides. Read/write.
 

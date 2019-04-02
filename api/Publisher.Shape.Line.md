@@ -1,5 +1,5 @@
 ---
-title: Shape.Line Property (Publisher)
+title: Shape.Line property (Publisher)
 keywords: vbapb10.chm2228290
 f1_keywords:
 - vbapb10.chm2228290
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Line Property (Publisher)
+# Shape.Line property (Publisher)
 
 Returns a  **[LineFormat](Publisher.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the  **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.).
 

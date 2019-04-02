@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementTop Method (Publisher)
+title: ShapeRange.IncrementTop method (Publisher)
 keywords: vbapb10.chm2293794
 f1_keywords:
 - vbapb10.chm2293794
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.IncrementTop Method (Publisher)
+# ShapeRange.IncrementTop method (Publisher)
 
 Moves the specified shape or shape range vertically by the specified distance.
 

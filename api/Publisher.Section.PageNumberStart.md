@@ -1,5 +1,5 @@
 ---
-title: Section.PageNumberStart Property (Publisher)
+title: Section.PageNumberStart property (Publisher)
 keywords: vbapb10.chm7405572
 f1_keywords:
 - vbapb10.chm7405572
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Section.PageNumberStart Property (Publisher)
+# Section.PageNumberStart property (Publisher)
 
 Sets or returns the page number that the specified section starts with. Read/write  **Long**.
 

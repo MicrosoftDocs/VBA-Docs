@@ -19,7 +19,7 @@ Represents line and arrowhead formatting. For a line, the  **LineFormat** object
 
 ## Example
 
-Use the  **Line** property to return a **LineFormat** object. The following example adds a blue, dashed line to `myDocument`. There's a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
+Use the  **Line** property to return a **LineFormat** object. The following example adds a blue, dashed line to _myDocument_. There's a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
 
 
 ```vb

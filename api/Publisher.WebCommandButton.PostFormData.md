@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.PostFormData Property (Publisher)
+title: WebCommandButton.PostFormData property (Publisher)
 keywords: vbapb10.chm3932176
 f1_keywords:
 - vbapb10.chm3932176
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCommandButton.PostFormData Property (Publisher)
+# WebCommandButton.PostFormData property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified Web command button control uses the Microsoft Visual Basic **Get** or **Post** method when submitting form data to a Web server. Read/write.
 

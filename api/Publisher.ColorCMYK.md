@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK Object (Publisher)
+title: ColorCMYK object (Publisher)
 keywords: vbapb10.chm2686975
 f1_keywords:
 - vbapb10.chm2686975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorCMYK Object (Publisher)
+# ColorCMYK object (Publisher)
 
 Represents a cyan-magenta-yellow-black (CMYK) color value.
  

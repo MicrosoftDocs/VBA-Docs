@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.InvalidComments Property (Publisher)
+title: MailMergeDataSource.InvalidComments property (Publisher)
 keywords: vbapb10.chm6291473
 f1_keywords:
 - vbapb10.chm6291473
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.InvalidComments Property (Publisher)
+# MailMergeDataSource.InvalidComments property (Publisher)
 
 If the  **[InvalidAddress](Publisher.MailMergeDataSource.InvalidAddress.md)** property is **True**, this property returns or sets a  **String** that describes invalid data in a mail merge record. Read/write.
 

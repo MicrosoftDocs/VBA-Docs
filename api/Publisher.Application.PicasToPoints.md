@@ -1,5 +1,5 @@
 ---
-title: Application.PicasToPoints Method (Publisher)
+title: Application.PicasToPoints method (Publisher)
 keywords: vbapb10.chm131152
 f1_keywords:
 - vbapb10.chm131152
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PicasToPoints Method (Publisher)
+# Application.PicasToPoints method (Publisher)
 
 Converts a measurement from picas to points (1 pica = 12 points). Returns the converted measurement as a  **Single**.
 

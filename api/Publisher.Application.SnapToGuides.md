@@ -1,5 +1,5 @@
 ---
-title: Application.SnapToGuides Property (Publisher)
+title: Application.SnapToGuides property (Publisher)
 keywords: vbapb10.chm131110
 f1_keywords:
 - vbapb10.chm131110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SnapToGuides Property (Publisher)
+# Application.SnapToGuides property (Publisher)
 
  **True** for Microsoft Publisher to use the guides to align objects on a page in a publication. Read/write **Boolean**.
 

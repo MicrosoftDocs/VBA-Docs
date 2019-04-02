@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Depth Property (Publisher)
+title: ThreeDFormat.Depth property (Publisher)
 keywords: vbapb10.chm3801344
 f1_keywords:
 - vbapb10.chm3801344
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Depth Property (Publisher)
+# ThreeDFormat.Depth property (Publisher)
 
 Returns or sets a  **Variant** indicating the depth of the shape's extrusion. Read/write.
 

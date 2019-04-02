@@ -48,7 +48,7 @@ The following table shows how the  **Vertices** property associates the values i
 
 ## Example
 
-This example assigns the vertex coordinates for shape one on  `myDocument` to the array variable `vertArray()` and displays the coordinates for the first vertex.
+This example assigns the vertex coordinates for shape one on  _myDocument_ to the array variable `vertArray()` and displays the coordinates for the first vertex.
 
 
 ```vb
@@ -67,7 +67,7 @@ With myDocument.Shapes(1)
 End With
 ```
 
-This example creates a curve that has the same geometric description as shape one on  `myDocument`. Shape one must contain 3 _n_ +1 vertices for this example to succeed.
+This example creates a curve that has the same geometric description as shape one on  _myDocument_. Shape one must contain 3 _n_ +1 vertices for this example to succeed.
 
 
 

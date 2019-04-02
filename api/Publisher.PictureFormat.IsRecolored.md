@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IsRecolored Property (Publisher)
+title: PictureFormat.IsRecolored property (Publisher)
 keywords: vbapb10.chm3604791
 f1_keywords:
 - vbapb10.chm3604791
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IsRecolored Property (Publisher)
+# PictureFormat.IsRecolored property (Publisher)
 
 Returns  **True** if the image represented by the parent **PictureFormat** object has been recolored, either in the user interface or by using the ** [PictureFormat.Recolor](Publisher.PictureFormat.Recolor.md)** method. Read-only.
 

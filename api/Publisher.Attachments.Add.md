@@ -1,5 +1,5 @@
 ---
-title: Attachments.Add Method (Publisher)
+title: Attachments.Add method (Publisher)
 keywords: vbapb10.chm569349
 f1_keywords:
 - vbapb10.chm569349
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Add Method (Publisher)
+# Attachments.Add method (Publisher)
 
 Adds an  **Attachment** object to the **Attachments** collection of a Microsoft Publisher publication.
 

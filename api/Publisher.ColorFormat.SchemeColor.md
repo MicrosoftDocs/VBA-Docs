@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.SchemeColor Property (Publisher)
+title: ColorFormat.SchemeColor property (Publisher)
 keywords: vbapb10.chm2555910
 f1_keywords:
 - vbapb10.chm2555910
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.SchemeColor Property (Publisher)
+# ColorFormat.SchemeColor property (Publisher)
 
 Specifies the color of the current color scheme. Read/write.
 

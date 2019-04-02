@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundHeight Property (Publisher)
+title: TextRange.BoundHeight property (Publisher)
 keywords: vbapb10.chm5308436
 f1_keywords:
 - vbapb10.chm5308436
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.BoundHeight Property (Publisher)
+# TextRange.BoundHeight property (Publisher)
 
 Returns a  **Single** indicating the height, in points, of the bounding box for the specified text range. Read-only.
 

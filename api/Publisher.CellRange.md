@@ -1,5 +1,5 @@
 ---
-title: CellRange Object (Publisher)
+title: CellRange object (Publisher)
 keywords: vbapb10.chm5242879
 f1_keywords:
 - vbapb10.chm5242879
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellRange Object (Publisher)
+# CellRange object (Publisher)
 
 A collection of  **[Cell](Publisher.Cell.md)** objects in a table column or row. The **CellRange** collection represents all the cells in the specified column or row.
  

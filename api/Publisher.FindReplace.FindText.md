@@ -1,5 +1,5 @@
 ---
-title: FindReplace.FindText Property (Publisher)
+title: FindReplace.FindText property (Publisher)
 keywords: vbapb10.chm8323076
 f1_keywords:
 - vbapb10.chm8323076
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.FindText Property (Publisher)
+# FindReplace.FindText property (Publisher)
 
 Sets or retrieves a  **String** representing the text to find in the specified range or selection. Read/write.
 

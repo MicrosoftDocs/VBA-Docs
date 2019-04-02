@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.Set Method (Publisher)
+title: BorderArtFormat.Set method (Publisher)
 keywords: vbapb10.chm7602185
 f1_keywords:
 - vbapb10.chm7602185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BorderArtFormat.Set Method (Publisher)
+# BorderArtFormat.Set method (Publisher)
 
 Sets the type of BorderArt applied to the specified shape.
 

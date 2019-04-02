@@ -1,5 +1,5 @@
 ---
-title: TextRange.Find Property (Publisher)
+title: TextRange.Find property (Publisher)
 keywords: vbapb10.chm5308497
 f1_keywords:
 - vbapb10.chm5308497
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Find Property (Publisher)
+# TextRange.Find property (Publisher)
 
 Returns a  **FindReplace** object from the specified **TextRange** object. The **FindReplace** object is used to perform a text search and replace in the specified text range.
 

@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Update Method (Publisher)
+title: LinkFormat.Update method (Publisher)
 keywords: vbapb10.chm4390916
 f1_keywords:
 - vbapb10.chm4390916
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LinkFormat.Update Method (Publisher)
+# LinkFormat.Update method (Publisher)
 
 Updates the specified linked OLE object.
 

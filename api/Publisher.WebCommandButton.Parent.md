@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.Parent Property (Publisher)
+title: WebCommandButton.Parent property (Publisher)
 keywords: vbapb10.chm3932162
 f1_keywords:
 - vbapb10.chm3932162
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCommandButton.Parent Property (Publisher)
+# WebCommandButton.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

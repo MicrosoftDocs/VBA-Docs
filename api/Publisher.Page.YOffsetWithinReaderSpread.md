@@ -1,5 +1,5 @@
 ---
-title: Page.YOffsetWithinReaderSpread Property (Publisher)
+title: Page.YOffsetWithinReaderSpread property (Publisher)
 keywords: vbapb10.chm393237
 f1_keywords:
 - vbapb10.chm393237
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.YOffsetWithinReaderSpread Property (Publisher)
+# Page.YOffsetWithinReaderSpread property (Publisher)
 
 Returns a  **Single** that represents the distance (in points) from the top edge of the reader spread to the top edge of the page. Read-only.
 

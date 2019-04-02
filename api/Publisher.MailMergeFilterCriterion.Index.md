@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion.Index Property (Publisher)
+title: MailMergeFilterCriterion.Index property (Publisher)
 keywords: vbapb10.chm6815745
 f1_keywords:
 - vbapb10.chm6815745
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion.Index Property (Publisher)
+# MailMergeFilterCriterion.Index property (Publisher)
 
 Returns a  **Long** that represents the position of a particular item in a specified collection. .
 

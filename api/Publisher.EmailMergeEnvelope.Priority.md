@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.Priority Property (Publisher)
+title: EmailMergeEnvelope.Priority property (Publisher)
 keywords: vbapb10.chm9043976
 f1_keywords:
 - vbapb10.chm9043976
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.Priority Property (Publisher)
+# EmailMergeEnvelope.Priority property (Publisher)
 
 Gets or sets the priority of the merged email message represented by the parent  **EmailMergeEnvelope** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TextStyle.NextParagraphStyle Property (Publisher)
+title: TextStyle.NextParagraphStyle property (Publisher)
 keywords: vbapb10.chm5963784
 f1_keywords:
 - vbapb10.chm5963784
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyle.NextParagraphStyle Property (Publisher)
+# TextStyle.NextParagraphStyle property (Publisher)
 
 Returns or sets a  **String** that represents the paragraph style that follows the specified text style when a user presses ENTER. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Plates.Add Method (Publisher)
+title: Plates.Add method (Publisher)
 keywords: vbapb10.chm2818052
 f1_keywords:
 - vbapb10.chm2818052
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plates.Add Method (Publisher)
+# Plates.Add method (Publisher)
 
 Adds a new color plate to the specified  **Plates** object.
 

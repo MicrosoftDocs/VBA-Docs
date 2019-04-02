@@ -36,7 +36,7 @@ Because a group of shapes is treated as a single object, grouping and ungrouping
 
 ## Example
 
-This example ungroups any grouped shapes and disassembles any pictures or OLE objects on  `myDocument`.
+This example ungroups any grouped shapes and disassembles any pictures or OLE objects on  _myDocument_.
 
 
 ```vb
@@ -49,7 +49,7 @@ For Each s In myDocument.Shapes
 Next
 ```
 
-This example ungroups any grouped shapes on  `myDocument` without disassembling pictures or OLE objects on the slide.
+This example ungroups any grouped shapes on  _myDocument_ without disassembling pictures or OLE objects on the slide.
 
 
 

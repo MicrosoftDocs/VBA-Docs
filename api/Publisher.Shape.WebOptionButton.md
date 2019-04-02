@@ -1,5 +1,5 @@
 ---
-title: Shape.WebOptionButton Property (Publisher)
+title: Shape.WebOptionButton property (Publisher)
 keywords: vbapb10.chm2228343
 f1_keywords:
 - vbapb10.chm2228343
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.WebOptionButton Property (Publisher)
+# Shape.WebOptionButton property (Publisher)
 
 Returns the  **[WebOptionButton](Publisher.WebOptionButton.md)** object associated with the specified shape.
 

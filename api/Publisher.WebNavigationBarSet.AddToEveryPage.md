@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.AddToEveryPage Method (Publisher)
+title: WebNavigationBarSet.AddToEveryPage method (Publisher)
 keywords: vbapb10.chm8519698
 f1_keywords:
 - vbapb10.chm8519698
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.AddToEveryPage Method (Publisher)
+# WebNavigationBarSet.AddToEveryPage method (Publisher)
 
 Adds a  **ShapeRange** of type **pbWebNavigationBar** to each page of the current document.
 

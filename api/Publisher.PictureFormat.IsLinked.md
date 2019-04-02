@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IsLinked Property (Publisher)
+title: PictureFormat.IsLinked property (Publisher)
 keywords: vbapb10.chm3604769
 f1_keywords:
 - vbapb10.chm3604769
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IsLinked Property (Publisher)
+# PictureFormat.IsLinked property (Publisher)
 
 Returns a  **MsoTriState** constant indicating whether the specified picture is a linked picture or OLE object. Read-only.
 

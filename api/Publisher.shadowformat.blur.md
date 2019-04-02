@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Blur Property (Publisher)
+title: ShadowFormat.Blur property (Publisher)
 keywords: vbapb10.chm3670280
 f1_keywords:
 - vbapb10.chm3670280
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Blur Property (Publisher)
+# ShadowFormat.Blur property (Publisher)
 
 Returns or sets a  **Single** that represents the blur level for a shadow format. Read/write.
 

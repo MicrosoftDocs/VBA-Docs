@@ -1,5 +1,5 @@
 ---
-title: Fields.Count Property (Publisher)
+title: Fields.Count property (Publisher)
 keywords: vbapb10.chm6029315
 f1_keywords:
 - vbapb10.chm6029315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fields.Count Property (Publisher)
+# Fields.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

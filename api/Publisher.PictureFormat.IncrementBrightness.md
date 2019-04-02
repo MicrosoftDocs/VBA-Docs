@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementBrightness Method (Publisher)
+title: PictureFormat.IncrementBrightness method (Publisher)
 keywords: vbapb10.chm3604496
 f1_keywords:
 - vbapb10.chm3604496
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IncrementBrightness Method (Publisher)
+# PictureFormat.IncrementBrightness method (Publisher)
 
 Changes the brightness of the picture by the specified amount.
 

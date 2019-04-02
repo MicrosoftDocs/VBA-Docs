@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LeftIndent Property (Publisher)
+title: ParagraphFormat.LeftIndent property (Publisher)
 keywords: vbapb10.chm5439494
 f1_keywords:
 - vbapb10.chm5439494
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LeftIndent Property (Publisher)
+# ParagraphFormat.LeftIndent property (Publisher)
 
 Returns or sets a  **Variant** that represents the left indent value (in points) for the specified paragraphs. Read/write.
 

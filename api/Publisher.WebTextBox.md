@@ -1,5 +1,5 @@
 ---
-title: WebTextBox Object (Publisher)
+title: WebTextBox object (Publisher)
 keywords: vbapb10.chm4259839
 f1_keywords:
 - vbapb10.chm4259839
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebTextBox Object (Publisher)
+# WebTextBox object (Publisher)
 
 Represents a Web text box control. The  **WebTextBox** object is a member of the **Shape** object.
  

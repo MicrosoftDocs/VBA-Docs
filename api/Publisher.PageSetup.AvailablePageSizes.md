@@ -1,5 +1,5 @@
 ---
-title: PageSetup.AvailablePageSizes Property (Publisher)
+title: PageSetup.AvailablePageSizes property (Publisher)
 keywords: vbapb10.chm6946849
 f1_keywords:
 - vbapb10.chm6946849
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.AvailablePageSizes Property (Publisher)
+# PageSetup.AvailablePageSizes property (Publisher)
 
 Returns the  **PageSizes** collection that contains all the **[PageSize](Publisher.PageSize.md)** objects available in the current publication.
 

@@ -1,5 +1,5 @@
 ---
-title: WebOptions Object (Publisher)
+title: WebOptions object (Publisher)
 keywords: vbapb10.chm8323071
 f1_keywords:
 - vbapb10.chm8323071
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebOptions Object (Publisher)
+# WebOptions object (Publisher)
 
 Represents the properties of a Web publication, including options for saving and encoding the publication, and enabling Web-safe fonts and font schemes. The  **WebOptions** object is a member of the **[Application](Publisher.Application.md)** object.
  

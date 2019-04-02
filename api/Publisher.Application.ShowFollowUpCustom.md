@@ -1,5 +1,5 @@
 ---
-title: Application.ShowFollowUpCustom Property (Publisher)
+title: Application.ShowFollowUpCustom property (Publisher)
 keywords: vbapb10.chm131188
 f1_keywords:
 - vbapb10.chm131188
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowFollowUpCustom Property (Publisher)
+# Application.ShowFollowUpCustom property (Publisher)
 
 Gets or sets the string, if any, that appears as the fourth item under  **Prepare to follow-up on this mailing** on the third **Mail Merge** task pane in the Microsoft Publisher user interface. Read/write.
 

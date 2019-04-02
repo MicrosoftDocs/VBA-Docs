@@ -1,5 +1,5 @@
 ---
-title: PageSize.Application Property (Publisher)
+title: PageSize.Application property (Publisher)
 keywords: vbapb10.chm8847362
 f1_keywords:
 - vbapb10.chm8847362
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSize.Application Property (Publisher)
+# PageSize.Application property (Publisher)
 
 Returns an  **Application** object that represents the creator of the parent **PageSize** object. Read-only.
 

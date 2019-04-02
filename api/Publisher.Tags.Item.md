@@ -1,5 +1,5 @@
 ---
-title: Tags.Item Method (Publisher)
+title: Tags.Item method (Publisher)
 keywords: vbapb10.chm4653056
 f1_keywords:
 - vbapb10.chm4653056
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Item Method (Publisher)
+# Tags.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 

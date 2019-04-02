@@ -1,5 +1,5 @@
 ---
-title: Document.ExportAsFixedFormat Method (Publisher)
+title: Document.ExportAsFixedFormat method (Publisher)
 keywords: vbapb10.chm196758
 f1_keywords:
 - vbapb10.chm196758
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ExportAsFixedFormat Method (Publisher)
+# Document.ExportAsFixedFormat method (Publisher)
 
 Saves a Microsoft Publisher publication in PDF or XPS format. The conversion readies the document to be sent to commercial presses, to copy shops, for desktop printing, or for electronic distribution.
 

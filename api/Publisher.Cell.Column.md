@@ -1,5 +1,5 @@
 ---
-title: Cell.Column Property (Publisher)
+title: Cell.Column property (Publisher)
 keywords: vbapb10.chm5111815
 f1_keywords:
 - vbapb10.chm5111815
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Column Property (Publisher)
+# Cell.Column property (Publisher)
 
 Returns a  **Long** that represents the table column containing the specified cell. Read-only.
 

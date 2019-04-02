@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions Object (Publisher)
+title: AdvancedPrintOptions object (Publisher)
 keywords: vbapb10.chm7143423
 f1_keywords:
 - vbapb10.chm7143423
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions Object (Publisher)
+# AdvancedPrintOptions object (Publisher)
 
 Represents the advanced print settings for a publication.
  

@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.Attachments Property (Publisher)
+title: EmailMergeEnvelope.Attachments property (Publisher)
 keywords: vbapb10.chm9043975
 f1_keywords:
 - vbapb10.chm9043975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.Attachments Property (Publisher)
+# EmailMergeEnvelope.Attachments property (Publisher)
 
 Gets the list of a merged email message's attachments. Read-only.
 

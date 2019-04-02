@@ -1,5 +1,5 @@
 ---
-title: Row.Parent Property (Publisher)
+title: Row.Parent property (Publisher)
 keywords: vbapb10.chm4849668
 f1_keywords:
 - vbapb10.chm4849668
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Parent Property (Publisher)
+# Row.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

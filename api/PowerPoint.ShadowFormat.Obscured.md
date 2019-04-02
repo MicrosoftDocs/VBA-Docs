@@ -42,7 +42,7 @@ The value of the  **Obscured** property can be one of these **MsoTriState** cons
 
 ## Example
 
-This example sets the horizontal and vertical offsets of the shadow for shape three on  `myDocument`. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it. The shadow will be filled in and obscured by the shape, even if the shape has no fill.
+This example sets the horizontal and vertical offsets of the shadow for shape three on  _myDocument_. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it. The shadow will be filled in and obscured by the shape, even if the shape has no fill.
 
 
 ```vb

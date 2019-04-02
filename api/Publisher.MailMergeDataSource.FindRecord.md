@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.FindRecord Method (Publisher)
+title: MailMergeDataSource.FindRecord method (Publisher)
 keywords: vbapb10.chm6291480
 f1_keywords:
 - vbapb10.chm6291480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.FindRecord Method (Publisher)
+# MailMergeDataSource.FindRecord method (Publisher)
 
 Searches the contents of the specified mail merge data source for text in a particular field. Returns a  **Boolean** indicating whether the search text is found; **True** if the search text is found.
 

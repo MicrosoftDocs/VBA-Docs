@@ -50,7 +50,7 @@ The value of the  **BlackWhiteMode** property can be one of these **MsoBlackWhit
 
 ## Example
 
-This example sets shape one on  `myDocument` to appear in black-and-white mode. When you view the presentation in black-and-white mode, shape one will appear black, regardless of what color it is in color mode.
+This example sets shape one on  _myDocument_ to appear in black-and-white mode. When you view the presentation in black-and-white mode, shape one will appear black, regardless of what color it is in color mode.
 
 
 ```vb

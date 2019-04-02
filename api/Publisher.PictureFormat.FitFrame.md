@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.FitFrame Method (Publisher)
+title: PictureFormat.FitFrame method (Publisher)
 keywords: vbapb10.chm3604805
 f1_keywords:
 - vbapb10.chm3604805
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.FitFrame Method (Publisher)
+# PictureFormat.FitFrame method (Publisher)
 
 Fits the image represented by the  **PictureFormat** object to the frame of the picture. Returns nothing.
 

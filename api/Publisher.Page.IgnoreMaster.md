@@ -1,5 +1,5 @@
 ---
-title: Page.IgnoreMaster Property (Publisher)
+title: Page.IgnoreMaster property (Publisher)
 keywords: vbapb10.chm393233
 f1_keywords:
 - vbapb10.chm393233
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.IgnoreMaster Property (Publisher)
+# Page.IgnoreMaster property (Publisher)
 
  **True** for Microsoft Publisher to ignore the master page formatting for the specified page. Read/write **Boolean**.
 

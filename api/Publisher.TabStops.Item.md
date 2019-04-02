@@ -1,5 +1,5 @@
 ---
-title: TabStops.Item Method (Publisher)
+title: TabStops.Item method (Publisher)
 keywords: vbapb10.chm5570560
 f1_keywords:
 - vbapb10.chm5570560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStops.Item Method (Publisher)
+# TabStops.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 

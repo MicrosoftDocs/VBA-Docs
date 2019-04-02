@@ -1,5 +1,5 @@
 ---
-title: Page.Wizard Property (Publisher)
+title: Page.Wizard property (Publisher)
 keywords: vbapb10.chm393234
 f1_keywords:
 - vbapb10.chm393234
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Wizard Property (Publisher)
+# Page.Wizard property (Publisher)
 
 Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
 

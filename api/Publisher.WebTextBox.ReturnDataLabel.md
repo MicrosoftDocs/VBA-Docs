@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.ReturnDataLabel Property (Publisher)
+title: WebTextBox.ReturnDataLabel property (Publisher)
 keywords: vbapb10.chm4194311
 f1_keywords:
 - vbapb10.chm4194311
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebTextBox.ReturnDataLabel Property (Publisher)
+# WebTextBox.ReturnDataLabel property (Publisher)
 
 Returns or sets a  **String** that represents the text used by the Web page to label the specified Web object when the page is submitted. Read/write.
 

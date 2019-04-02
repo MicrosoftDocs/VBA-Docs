@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSources Object (Publisher)
+title: MailMergeDataSources object (Publisher)
 keywords: vbapb10.chm7274495
 f1_keywords:
 - vbapb10.chm7274495
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSources Object (Publisher)
+# MailMergeDataSources object (Publisher)
 
 Represents the collection of all  **MailMergeDataSource** objects in the active Microsoft Publisher document, each of which represents one of the data sources in a mail merge operation.
  

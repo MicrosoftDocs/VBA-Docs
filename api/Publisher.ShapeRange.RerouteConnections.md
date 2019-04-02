@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RerouteConnections Method (Publisher)
+title: ShapeRange.RerouteConnections method (Publisher)
 keywords: vbapb10.chm2293796
 f1_keywords:
 - vbapb10.chm2293796
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.RerouteConnections Method (Publisher)
+# ShapeRange.RerouteConnections method (Publisher)
 
 Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the  **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
 

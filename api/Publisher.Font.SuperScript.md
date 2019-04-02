@@ -1,5 +1,5 @@
 ---
-title: Font.SuperScript Property (Publisher)
+title: Font.SuperScript property (Publisher)
 keywords: vbapb10.chm5373972
 f1_keywords:
 - vbapb10.chm5373972
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.SuperScript Property (Publisher)
+# Font.SuperScript property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether characters are formatted as superscript in the specified text range. Read/write.
 

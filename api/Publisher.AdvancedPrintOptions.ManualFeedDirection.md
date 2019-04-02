@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.ManualFeedDirection Property (Publisher)
+title: AdvancedPrintOptions.ManualFeedDirection property (Publisher)
 keywords: vbapb10.chm7077929
 f1_keywords:
 - vbapb10.chm7077929
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.ManualFeedDirection Property (Publisher)
+# AdvancedPrintOptions.ManualFeedDirection property (Publisher)
 
 Gets or sets the orientation (landscape or portrait) of how envelopes are fed to the printer's manual feed. Read/write.
 

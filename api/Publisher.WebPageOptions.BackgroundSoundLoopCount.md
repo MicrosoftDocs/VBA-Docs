@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.BackgroundSoundLoopCount Property (Publisher)
+title: WebPageOptions.BackgroundSoundLoopCount property (Publisher)
 keywords: vbapb10.chm544776
 f1_keywords:
 - vbapb10.chm544776
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebPageOptions.BackgroundSoundLoopCount Property (Publisher)
+# WebPageOptions.BackgroundSoundLoopCount property (Publisher)
 
 Returns a  **Long** value that specifies the number of times the background sound attached to a Web page is played when the page is loaded in a Web browser. Read-only.
 

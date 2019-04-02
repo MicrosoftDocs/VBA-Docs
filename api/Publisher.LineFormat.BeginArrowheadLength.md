@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadLength Property (Publisher)
+title: LineFormat.BeginArrowheadLength property (Publisher)
 keywords: vbapb10.chm3408129
 f1_keywords:
 - vbapb10.chm3408129
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.BeginArrowheadLength Property (Publisher)
+# LineFormat.BeginArrowheadLength property (Publisher)
 
 Returns or sets an  **MsoArrowheadLength**constant indicating the length of the arrowhead at the beginning of the specified line. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK.SetCMYK Method (Publisher)
+title: ColorCMYK.SetCMYK method (Publisher)
 keywords: vbapb10.chm2621447
 f1_keywords:
 - vbapb10.chm2621447
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorCMYK.SetCMYK Method (Publisher)
+# ColorCMYK.SetCMYK method (Publisher)
 
 Sets a cyan-magenta-yellow-black (CMYK) color value.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.RecordCount Property (Publisher)
+title: MailMergeDataSource.RecordCount property (Publisher)
 keywords: vbapb10.chm6291477
 f1_keywords:
 - vbapb10.chm6291477
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.RecordCount Property (Publisher)
+# MailMergeDataSource.RecordCount property (Publisher)
 
 Returns a  **Long** that represents the number of records in the data source. Read-only.
 

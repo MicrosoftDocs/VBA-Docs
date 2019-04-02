@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Border Property (Publisher)
+title: CalloutFormat.Border property (Publisher)
 keywords: vbapb10.chm2490628
 f1_keywords:
 - vbapb10.chm2490628
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Border Property (Publisher)
+# CalloutFormat.Border property (Publisher)
 
 Returns or sets an  **MsoTriState**constant indicating whether the text in the specified callout is surrounded by a border. Read/write.
 

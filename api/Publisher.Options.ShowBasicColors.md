@@ -1,5 +1,5 @@
 ---
-title: Options.ShowBasicColors Property (Publisher)
+title: Options.ShowBasicColors property (Publisher)
 keywords: vbapb10.chm1048601
 f1_keywords:
 - vbapb10.chm1048601
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.ShowBasicColors Property (Publisher)
+# Options.ShowBasicColors property (Publisher)
 
 Returns or sets a  **Boolean** indicating whether Microsoft Publisher shows basic colors in the color palette; **True** to show basic colors in the palette. Read/write.
 

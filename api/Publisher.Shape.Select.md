@@ -1,5 +1,5 @@
 ---
-title: Shape.Select Method (Publisher)
+title: Shape.Select method (Publisher)
 keywords: vbapb10.chm2228263
 f1_keywords:
 - vbapb10.chm2228263
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Select Method (Publisher)
+# Shape.Select method (Publisher)
 
 Selects the specified object.
 

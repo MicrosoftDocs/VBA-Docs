@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Tabs Property (Publisher)
+title: ParagraphFormat.Tabs property (Publisher)
 keywords: vbapb10.chm5439506
 f1_keywords:
 - vbapb10.chm5439506
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Tabs Property (Publisher)
+# ParagraphFormat.Tabs property (Publisher)
 
 Returns a  **[TabStops](Publisher.TabStops.md)** object representing the custom and default tabs for a paragraph or group of paragraphs.
 

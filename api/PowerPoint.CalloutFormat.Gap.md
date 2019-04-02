@@ -31,7 +31,7 @@ Single
 
 ## Example
 
-This example sets the distance between the callout line and the text bounding box to 3 points for shape one on  `myDocument`. For the example to work, shape one must be a callout.
+This example sets the distance between the callout line and the text bounding box to 3 points for shape one on  _myDocument_. For the example to work, shape one must be a callout.
 
 
 ```vb

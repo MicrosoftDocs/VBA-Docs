@@ -1,5 +1,5 @@
 ---
-title: LineFormat.GradientStyle Property (Publisher)
+title: LineFormat.GradientStyle property (Publisher)
 keywords: vbapb10.chm3408151
 f1_keywords:
 - vbapb10.chm3408151
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.GradientStyle Property (Publisher)
+# LineFormat.GradientStyle property (Publisher)
 
 Returns the gradient style for the specified line. Read-only.
 

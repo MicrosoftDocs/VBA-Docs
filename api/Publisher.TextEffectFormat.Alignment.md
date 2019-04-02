@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Alignment Property (Publisher)
+title: TextEffectFormat.Alignment property (Publisher)
 keywords: vbapb10.chm3735808
 f1_keywords:
 - vbapb10.chm3735808
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Alignment Property (Publisher)
+# TextEffectFormat.Alignment property (Publisher)
 
 Returns or sets a  **MsoTextEffectAlignment** constant that represents the alignment for the specified text effect. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Help Method (Publisher)
+title: Application.Help method (Publisher)
 keywords: vbapb10.chm131125
 f1_keywords:
 - vbapb10.chm131125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Help Method (Publisher)
+# Application.Help method (Publisher)
 
 Displays online Help information.
 

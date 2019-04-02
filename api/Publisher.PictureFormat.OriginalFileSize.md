@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.OriginalFileSize Property (Publisher)
+title: PictureFormat.OriginalFileSize property (Publisher)
 keywords: vbapb10.chm3604772
 f1_keywords:
 - vbapb10.chm3604772
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.OriginalFileSize Property (Publisher)
+# PictureFormat.OriginalFileSize property (Publisher)
 
 Returns a  **Long** representing the size, in bytes, of the linked picture or OLE object. Read-only.
 

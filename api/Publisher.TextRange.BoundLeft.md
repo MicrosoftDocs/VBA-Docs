@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundLeft Property (Publisher)
+title: TextRange.BoundLeft property (Publisher)
 keywords: vbapb10.chm5308435
 f1_keywords:
 - vbapb10.chm5308435
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.BoundLeft Property (Publisher)
+# TextRange.BoundLeft property (Publisher)
 
 Returns a  **Single** indicating the distance, in points, from the left edge of the leftmost page to the left edge of the bounding box for the specified text range. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.EffectiveResolution Property (Publisher)
+title: PictureFormat.EffectiveResolution property (Publisher)
 keywords: vbapb10.chm3604755
 f1_keywords:
 - vbapb10.chm3604755
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.EffectiveResolution Property (Publisher)
+# PictureFormat.EffectiveResolution property (Publisher)
 
 Returns a  **Long** that represents, in dots per inch (dpi), the effective resolution of the picture. Read-only.
 

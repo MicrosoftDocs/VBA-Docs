@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.UseOnlyPublicationFonts Property (Publisher)
+title: AdvancedPrintOptions.UseOnlyPublicationFonts property (Publisher)
 keywords: vbapb10.chm7077894
 f1_keywords:
 - vbapb10.chm7077894
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.UseOnlyPublicationFonts Property (Publisher)
+# AdvancedPrintOptions.UseOnlyPublicationFonts property (Publisher)
 
 Returns or sets a  **Boolean** that represents whether to only use publication fonts for printing the specified publication. **True** to print the specified publication using only fonts downloaded from your computer. Read/write. The default is **True**.
 

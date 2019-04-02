@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutoAttach Property (Publisher)
+title: CalloutFormat.AutoAttach property (Publisher)
 keywords: vbapb10.chm2490626
 f1_keywords:
 - vbapb10.chm2490626
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.AutoAttach Property (Publisher)
+# CalloutFormat.AutoAttach property (Publisher)
 
 Returns or sets an  **MsoTriState**constant indicating whether the place where the callout line attaches to the callout text box changes depending on whether the origin of the callout line (where the callout points) is to the left or right of the callout text box. Read/write.
 

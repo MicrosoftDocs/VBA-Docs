@@ -1,5 +1,5 @@
 ---
-title: Document.MailEnvelope Property (Publisher)
+title: Document.MailEnvelope property (Publisher)
 keywords: vbapb10.chm196627
 f1_keywords:
 - vbapb10.chm196627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.MailEnvelope Property (Publisher)
+# Document.MailEnvelope property (Publisher)
 
 Returns an  **MsoEnvelope** object that represents an email header for a publication.
 

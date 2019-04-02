@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Category Property (Publisher)
+title: BuildingBlock.Category property (Publisher)
 keywords: vbapb10.chm9502725
 f1_keywords:
 - vbapb10.chm9502725
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlock.Category Property (Publisher)
+# BuildingBlock.Category property (Publisher)
 
 Gets or sets a string that represents the category for the building block. Read/Write.
 

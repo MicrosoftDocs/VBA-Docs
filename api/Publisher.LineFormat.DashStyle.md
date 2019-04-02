@@ -1,5 +1,5 @@
 ---
-title: LineFormat.DashStyle Property (Publisher)
+title: LineFormat.DashStyle property (Publisher)
 keywords: vbapb10.chm3408132
 f1_keywords:
 - vbapb10.chm3408132
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.DashStyle Property (Publisher)
+# LineFormat.DashStyle property (Publisher)
 
 Returns or sets an  **MsoLineDashStyle** constant indicating the dash style for the specified line. Read/write.
 

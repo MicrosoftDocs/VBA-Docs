@@ -1,5 +1,5 @@
 ---
-title: FillFormat.ForeColor Property (Publisher)
+title: FillFormat.ForeColor property (Publisher)
 keywords: vbapb10.chm2359553
 f1_keywords:
 - vbapb10.chm2359553
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.ForeColor Property (Publisher)
+# FillFormat.ForeColor property (Publisher)
 
 Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the foreground color for the fill, line, or shadow. Read/write.
 

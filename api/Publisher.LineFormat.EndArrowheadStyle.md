@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadStyle Property (Publisher)
+title: LineFormat.EndArrowheadStyle property (Publisher)
 keywords: vbapb10.chm3408134
 f1_keywords:
 - vbapb10.chm3408134
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.EndArrowheadStyle Property (Publisher)
+# LineFormat.EndArrowheadStyle property (Publisher)
 
 Returns or sets an  **MsoArrowheadStyle** constant indicating the style of the arrowhead at the end of the specified line. Read/write.
 

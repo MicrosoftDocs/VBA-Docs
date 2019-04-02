@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Select Method (Publisher)
+title: ShapeRange.Select method (Publisher)
 keywords: vbapb10.chm2293799
 f1_keywords:
 - vbapb10.chm2293799
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Select Method (Publisher)
+# ShapeRange.Select method (Publisher)
 
 Selects the specified object.
 

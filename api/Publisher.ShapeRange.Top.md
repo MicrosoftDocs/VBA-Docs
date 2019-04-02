@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Top Property (Publisher)
+title: ShapeRange.Top property (Publisher)
 keywords: vbapb10.chm2293842
 f1_keywords:
 - vbapb10.chm2293842
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Top Property (Publisher)
+# ShapeRange.Top property (Publisher)
 
 Returns a  **Variant** that represents the distance between the top of the page and the top shape in a range of shapes. Read-only.
 

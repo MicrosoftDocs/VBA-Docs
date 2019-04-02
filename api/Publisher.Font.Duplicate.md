@@ -1,5 +1,5 @@
 ---
-title: Font.Duplicate Method (Publisher)
+title: Font.Duplicate method (Publisher)
 keywords: vbapb10.chm5373992
 f1_keywords:
 - vbapb10.chm5373992
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Duplicate Method (Publisher)
+# Font.Duplicate method (Publisher)
 
 Creates a duplicate of the specified  **[Font](Publisher.Font.md)** object and then returns the new **Font** object.
 

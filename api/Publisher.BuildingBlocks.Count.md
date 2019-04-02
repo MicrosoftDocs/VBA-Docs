@@ -1,5 +1,5 @@
 ---
-title: BuildingBlocks.Count Property (Publisher)
+title: BuildingBlocks.Count property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.BuildingBlocks.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlocks.Count Property (Publisher)
+# BuildingBlocks.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

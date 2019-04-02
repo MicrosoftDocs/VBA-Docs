@@ -1,5 +1,5 @@
 ---
-title: Shape.Wizard Property (Publisher)
+title: Shape.Wizard property (Publisher)
 keywords: vbapb10.chm2228345
 f1_keywords:
 - vbapb10.chm2228345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Wizard Property (Publisher)
+# Shape.Wizard property (Publisher)
 
 Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
 

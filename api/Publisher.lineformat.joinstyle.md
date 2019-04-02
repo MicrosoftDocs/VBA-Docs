@@ -1,5 +1,5 @@
 ---
-title: LineFormat.JoinStyle Property (Publisher)
+title: LineFormat.JoinStyle property (Publisher)
 keywords: vbapb10.chm3408161
 f1_keywords:
 - vbapb10.chm3408161
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.JoinStyle Property (Publisher)
+# LineFormat.JoinStyle property (Publisher)
 
 Returns of sets the join style for the specified line. Read-write.
 

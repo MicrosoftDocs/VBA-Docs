@@ -1,5 +1,5 @@
 ---
-title: WebListBoxItems.AddItem Method (Publisher)
+title: WebListBoxItems.AddItem method (Publisher)
 keywords: vbapb10.chm4128772
 f1_keywords:
 - vbapb10.chm4128772
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebListBoxItems.AddItem Method (Publisher)
+# WebListBoxItems.AddItem method (Publisher)
 
 Adds list items to a Web list box control.
 

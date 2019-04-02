@@ -1,5 +1,5 @@
 ---
-title: Story.Table Property (Publisher)
+title: Story.Table property (Publisher)
 keywords: vbapb10.chm5832710
 f1_keywords:
 - vbapb10.chm5832710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Story.Table Property (Publisher)
+# Story.Table property (Publisher)
 
 Returns a  **Table** object that represents a table in Microsoft Publisher.
 

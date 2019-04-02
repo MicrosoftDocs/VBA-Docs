@@ -1,5 +1,5 @@
 ---
-title: Adjustments Object (Publisher)
+title: Adjustments object (Publisher)
 keywords: vbapb10.chm2490367
 f1_keywords:
 - vbapb10.chm2490367
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Adjustments Object (Publisher)
+# Adjustments object (Publisher)
 
 Contains a collection of adjustment values for the specified AutoShape or WordArt object. 
 

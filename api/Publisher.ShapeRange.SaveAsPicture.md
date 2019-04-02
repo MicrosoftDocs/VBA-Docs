@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SaveAsPicture Method (Publisher)
+title: ShapeRange.SaveAsPicture method (Publisher)
 keywords: vbapb10.chm2294050
 f1_keywords:
 - vbapb10.chm2294050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.SaveAsPicture Method (Publisher)
+# ShapeRange.SaveAsPicture method (Publisher)
 
 Saves a range of one or more shapes as a picture file.
 

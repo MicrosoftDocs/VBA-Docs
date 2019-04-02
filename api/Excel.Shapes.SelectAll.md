@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 ## Example
 
-This example selects all the shapes on  `myDocument` and creates a **[ShapeRange](Excel.ShapeRange.md)** collection containing all the shapes.
+This example selects all the shapes on  _myDocument_ and creates a **[ShapeRange](Excel.ShapeRange.md)** collection containing all the shapes.
 
 
 ```vb

@@ -26,7 +26,7 @@ _expression_. `Apply`
 
 ## Example
 
-This example copies the formatting of shape one on  `myDocument`, and then applies the copied formatting to shape two.
+This example copies the formatting of shape one on  _myDocument_, and then applies the copied formatting to shape two.
 
 
 ```vb

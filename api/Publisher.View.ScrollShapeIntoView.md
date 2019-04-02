@@ -1,5 +1,5 @@
 ---
-title: View.ScrollShapeIntoView Method (Publisher)
+title: View.ScrollShapeIntoView method (Publisher)
 keywords: vbapb10.chm327685
 f1_keywords:
 - vbapb10.chm327685
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.ScrollShapeIntoView Method (Publisher)
+# View.ScrollShapeIntoView method (Publisher)
 
 Scrolls the publication window so that the specified shape is displayed in the publication window or pane.
 

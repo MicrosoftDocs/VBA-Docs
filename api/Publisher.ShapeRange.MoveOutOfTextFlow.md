@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.MoveOutOfTextFlow Method (Publisher)
+title: ShapeRange.MoveOutOfTextFlow method (Publisher)
 keywords: vbapb10.chm2294032
 f1_keywords:
 - vbapb10.chm2294032
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.MoveOutOfTextFlow Method (Publisher)
+# ShapeRange.MoveOutOfTextFlow method (Publisher)
 
 Moves a given inline shape out of its containing text range, defined by  ** [TextRange Object](Publisher.TextRange.md)**, and makes the shape fixed.
 

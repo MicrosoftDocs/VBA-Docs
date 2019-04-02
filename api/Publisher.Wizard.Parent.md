@@ -1,5 +1,5 @@
 ---
-title: Wizard.Parent Property (Publisher)
+title: Wizard.Parent property (Publisher)
 keywords: vbapb10.chm1441794
 f1_keywords:
 - vbapb10.chm1441794
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Wizard.Parent Property (Publisher)
+# Wizard.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

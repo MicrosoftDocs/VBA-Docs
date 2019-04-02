@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginDisconnect Method (Publisher)
+title: ConnectorFormat.BeginDisconnect method (Publisher)
 keywords: vbapb10.chm3211281
 f1_keywords:
 - vbapb10.chm3211281
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginDisconnect Method (Publisher)
+# ConnectorFormat.BeginDisconnect method (Publisher)
 
 Detaches the beginning of the specified connector from the shape to which it is attached.
 

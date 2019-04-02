@@ -1,5 +1,5 @@
 ---
-title: Document.Close Method (Publisher)
+title: Document.Close method (Publisher)
 keywords: vbapb10.chm196680
 f1_keywords:
 - vbapb10.chm196680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Close Method (Publisher)
+# Document.Close method (Publisher)
 
 Closes the current publication and creates a blank publication in its place.
 

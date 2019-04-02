@@ -1,5 +1,5 @@
 ---
-title: TextRange.Duplicate Property (Publisher)
+title: TextRange.Duplicate property (Publisher)
 keywords: vbapb10.chm5308466
 f1_keywords:
 - vbapb10.chm5308466
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Duplicate Property (Publisher)
+# TextRange.Duplicate property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a duplicate of the specified text range.
 

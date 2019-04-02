@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IsEmpty Property (Publisher)
+title: PictureFormat.IsEmpty property (Publisher)
 keywords: vbapb10.chm3604788
 f1_keywords:
 - vbapb10.chm3604788
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IsEmpty Property (Publisher)
+# PictureFormat.IsEmpty property (Publisher)
 
 Returns a  **MsoTriState** constant that represents whether the specified shape is an empty picture frame. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.EmailSubject Property (Publisher)
+title: Hyperlink.EmailSubject property (Publisher)
 keywords: vbapb10.chm4587524
 f1_keywords:
 - vbapb10.chm4587524
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.EmailSubject Property (Publisher)
+# Hyperlink.EmailSubject property (Publisher)
 
 Sets or returns a  **String** that represents the subject for email messages generated to process Web form data. Read/write.
 

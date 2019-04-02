@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.EmailSubject Property (Publisher)
+title: WebCommandButton.EmailSubject property (Publisher)
 keywords: vbapb10.chm3932168
 f1_keywords:
 - vbapb10.chm3932168
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCommandButton.EmailSubject Property (Publisher)
+# WebCommandButton.EmailSubject property (Publisher)
 
 Sets or returns a  **String** that represents the subject for email messages generated to process Web form data. Read/write.
 

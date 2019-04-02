@@ -1,5 +1,5 @@
 ---
-title: Document.ColorScheme Property (Publisher)
+title: Document.ColorScheme property (Publisher)
 keywords: vbapb10.chm196614
 f1_keywords:
 - vbapb10.chm196614
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ColorScheme Property (Publisher)
+# Document.ColorScheme property (Publisher)
 
 Returns or sets the  **[ColorScheme](Publisher.ColorScheme.md)** object that represents the scheme colors for the specified publication. Read/write.
 

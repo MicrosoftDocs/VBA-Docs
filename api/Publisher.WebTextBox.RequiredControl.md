@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.RequiredControl Property (Publisher)
+title: WebTextBox.RequiredControl property (Publisher)
 keywords: vbapb10.chm4194310
 f1_keywords:
 - vbapb10.chm4194310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebTextBox.RequiredControl Property (Publisher)
+# WebTextBox.RequiredControl property (Publisher)
 
 Specifies whether an entry into a Web text box control is required. Read/write.
 

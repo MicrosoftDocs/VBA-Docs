@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.MappedTo Property (Publisher)
+title: MailMergeDataField.MappedTo property (Publisher)
 keywords: vbapb10.chm6422566
 f1_keywords:
 - vbapb10.chm6422566
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataField.MappedTo Property (Publisher)
+# MailMergeDataField.MappedTo property (Publisher)
 
 Returns the name of the recipient field (column) in the master data source (combined mail-merge recipient list) that the parent  **MailMergeDataField** object is mapped to. Read-only.
 

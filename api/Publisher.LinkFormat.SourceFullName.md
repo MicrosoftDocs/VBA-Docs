@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.SourceFullName Property (Publisher)
+title: LinkFormat.SourceFullName property (Publisher)
 keywords: vbapb10.chm4390915
 f1_keywords:
 - vbapb10.chm4390915
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LinkFormat.SourceFullName Property (Publisher)
+# LinkFormat.SourceFullName property (Publisher)
 
 Returns a  **String** that represents the path and name of the source file for the specified linked OLE object, picture, or field. Read-only.
 

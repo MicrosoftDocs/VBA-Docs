@@ -1,5 +1,5 @@
 ---
-title: Shape.Height Property (Publisher)
+title: Shape.Height property (Publisher)
 keywords: vbapb10.chm2228281
 f1_keywords:
 - vbapb10.chm2228281
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Height Property (Publisher)
+# Shape.Height property (Publisher)
 
 Returns or sets a  **Variant** that represents the height (in points) of a specified table row or shape. Read/write.
 

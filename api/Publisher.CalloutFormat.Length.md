@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Length Property (Publisher)
+title: CalloutFormat.Length property (Publisher)
 keywords: vbapb10.chm2490632
 f1_keywords:
 - vbapb10.chm2490632
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Length Property (Publisher)
+# CalloutFormat.Length property (Publisher)
 
 Returns a  **Variant** indicating the length (in points) of the first segment of the callout line (the segment attached to the text callout box) if the **[AutoLength](Publisher.CalloutFormat.AutoLength.md)** property of the specified callout is set to **False**. Otherwise, an error occurs. Read-only.
 

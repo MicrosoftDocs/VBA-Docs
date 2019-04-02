@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Visible Property (Publisher)
+title: GlowFormat.Visible property (Publisher)
 keywords: vbapb10.chm9633796
 f1_keywords:
 - vbapb10.chm9633796
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# GlowFormat.Visible Property (Publisher)
+# GlowFormat.Visible property (Publisher)
 
  **True** if the specified object or the formatting applied to it is visible. Read/write **MsoTriState**.
 

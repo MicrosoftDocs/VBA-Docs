@@ -1,5 +1,5 @@
 ---
-title: PrintableRect.Height Property (Publisher)
+title: PrintableRect.Height property (Publisher)
 keywords: vbapb10.chm7536646
 f1_keywords:
 - vbapb10.chm7536646
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintableRect.Height Property (Publisher)
+# PrintableRect.Height property (Publisher)
 
 Returns a  **Single** that represents the height, in points, of the printable rectangle. Read-only.
 

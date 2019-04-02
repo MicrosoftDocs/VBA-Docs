@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelTopDepth Property (Publisher)
+title: ThreeDFormat.BevelTopDepth property (Publisher)
 keywords: vbapb10.chm3801366
 f1_keywords:
 - vbapb10.chm3801366
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.BevelTopDepth Property (Publisher)
+# ThreeDFormat.BevelTopDepth property (Publisher)
 
 Returns or sets a  **Single** that represents the depth of the top bevel. Read/write.
 

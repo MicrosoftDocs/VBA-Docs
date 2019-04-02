@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarHyperlinks.Item Method (Publisher)
+title: WebNavigationBarHyperlinks.Item method (Publisher)
 keywords: vbapb10.chm8585216
 f1_keywords:
 - vbapb10.chm8585216
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarHyperlinks.Item Method (Publisher)
+# WebNavigationBarHyperlinks.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 

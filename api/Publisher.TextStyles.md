@@ -1,5 +1,5 @@
 ---
-title: TextStyles Object (Publisher)
+title: TextStyles object (Publisher)
 keywords: vbapb10.chm5963775
 f1_keywords:
 - vbapb10.chm5963775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyles Object (Publisher)
+# TextStyles object (Publisher)
 
 A collection of  **[TextStyle](Publisher.TextStyle.md)** objects that represent both the built-in and user-defined styles in a document.
  

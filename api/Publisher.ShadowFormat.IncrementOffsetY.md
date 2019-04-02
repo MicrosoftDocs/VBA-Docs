@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.IncrementOffsetY Method (Publisher)
+title: ShadowFormat.IncrementOffsetY method (Publisher)
 keywords: vbapb10.chm3670033
 f1_keywords:
 - vbapb10.chm3670033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.IncrementOffsetY Method (Publisher)
+# ShadowFormat.IncrementOffsetY method (Publisher)
 
 Incrementally changes the vertical offset of the shadow by the specified distance.
 

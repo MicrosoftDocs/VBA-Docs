@@ -1,5 +1,5 @@
 ---
-title: Document.ReadOnly Property (Publisher)
+title: Document.ReadOnly property (Publisher)
 keywords: vbapb10.chm196647
 f1_keywords:
 - vbapb10.chm196647
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ReadOnly Property (Publisher)
+# Document.ReadOnly property (Publisher)
 
 Returns  **True** if the publication is read-only; returns **False** if it is read/write. Read-only **Boolean**.
 

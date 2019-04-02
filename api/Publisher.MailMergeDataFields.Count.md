@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataFields.Count Property (Publisher)
+title: MailMergeDataFields.Count property (Publisher)
 keywords: vbapb10.chm6356993
 f1_keywords:
 - vbapb10.chm6356993
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataFields.Count Property (Publisher)
+# MailMergeDataFields.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

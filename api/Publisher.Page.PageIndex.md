@@ -1,5 +1,5 @@
 ---
-title: Page.PageIndex Property (Publisher)
+title: Page.PageIndex property (Publisher)
 keywords: vbapb10.chm393224
 f1_keywords:
 - vbapb10.chm393224
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.PageIndex Property (Publisher)
+# Page.PageIndex property (Publisher)
 
 Gets the index of the page in the  **Pages** collection of the active document. Read-only.
 

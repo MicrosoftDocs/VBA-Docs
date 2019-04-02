@@ -1,5 +1,5 @@
 ---
-title: RulerGuides.Item Property (Publisher)
+title: RulerGuides.Item property (Publisher)
 keywords: vbapb10.chm720896
 f1_keywords:
 - vbapb10.chm720896
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RulerGuides.Item Property (Publisher)
+# RulerGuides.Item property (Publisher)
 
 Returns an individual object from a specified collection. Read-only.
 

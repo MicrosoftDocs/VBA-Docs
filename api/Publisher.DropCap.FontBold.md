@@ -1,5 +1,5 @@
 ---
-title: DropCap.FontBold Property (Publisher)
+title: DropCap.FontBold property (Publisher)
 keywords: vbapb10.chm5505029
 f1_keywords:
 - vbapb10.chm5505029
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropCap.FontBold Property (Publisher)
+# DropCap.FontBold property (Publisher)
 
 Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is bold. Read/write.
 

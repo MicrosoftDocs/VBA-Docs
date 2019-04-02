@@ -1,5 +1,5 @@
 ---
-title: Attachment.Name Property (Publisher)
+title: Attachment.Name property (Publisher)
 keywords: vbapb10.chm573440
 f1_keywords:
 - vbapb10.chm573440
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.Name Property (Publisher)
+# Attachment.Name property (Publisher)
 
 Returns the name of the attachment. Read-only.
 

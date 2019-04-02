@@ -1,5 +1,5 @@
 ---
-title: Shapes.BuildFreeform Method (Publisher)
+title: Shapes.BuildFreeform method (Publisher)
 keywords: vbapb10.chm2162723
 f1_keywords:
 - vbapb10.chm2162723
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.BuildFreeform Method (Publisher)
+# Shapes.BuildFreeform method (Publisher)
 
 Builds a freeform object. Returns a  [FreeformBuilder](Publisher.FreeformBuilder.md)object that represents the freeform as it is being built.
 

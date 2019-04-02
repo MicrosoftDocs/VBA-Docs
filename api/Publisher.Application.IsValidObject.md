@@ -1,5 +1,5 @@
 ---
-title: Application.IsValidObject Method (Publisher)
+title: Application.IsValidObject method (Publisher)
 keywords: vbapb10.chm131126
 f1_keywords:
 - vbapb10.chm131126
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.IsValidObject Method (Publisher)
+# Application.IsValidObject method (Publisher)
 
 Determines whether the specified object variable references a valid object and returns a  **Boolean** value: **True** if the specified variable that references an object is valid, **False** if the object referenced by the variable has been deleted.
 

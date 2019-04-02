@@ -58,7 +58,7 @@ This property is read-only. To set the preset extrusion format, use the  **[SetT
 
 ## Example
 
-This example sets the extrusion format for shape one on  `myDocument` to 3D Style 12 if the shape initially has a custom extrusion format.
+This example sets the extrusion format for shape one on  _myDocument_ to 3D Style 12 if the shape initially has a custom extrusion format.
 
 
 ```vb

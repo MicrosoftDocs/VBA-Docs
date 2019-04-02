@@ -1,5 +1,5 @@
 ---
-title: TextRange.ContainingObject Property (Publisher)
+title: TextRange.ContainingObject property (Publisher)
 keywords: vbapb10.chm5308465
 f1_keywords:
 - vbapb10.chm5308465
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.ContainingObject Property (Publisher)
+# TextRange.ContainingObject property (Publisher)
 
 Returns an  **Object** that represents the object that contains the text range. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTable Method (Publisher)
+title: Shapes.AddTable method (Publisher)
 keywords: vbapb10.chm2162713
 f1_keywords:
 - vbapb10.chm2162713
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddTable Method (Publisher)
+# Shapes.AddTable method (Publisher)
 
 Adds a new  **Shape** object representing a table to the specified **Shapes** collection.
 

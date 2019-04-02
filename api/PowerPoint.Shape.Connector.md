@@ -42,7 +42,7 @@ The value of the  **Connector** property can be one of these **MsoTriState** con
 
 ## Example
 
-This example deletes all connectors on  `myDocument`.
+This example deletes all connectors on  _myDocument_.
 
 
 ```vb

@@ -57,7 +57,7 @@ _expression_ A variable that represents a [FreeformBuilder](Excel.FreeformBuilde
 
 ## Example
 
-This example adds a freeform with four segments to  `myDocument`.
+This example adds a freeform with four segments to  _myDocument_.
 
 
 ```vb

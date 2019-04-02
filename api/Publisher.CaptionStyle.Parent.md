@@ -1,5 +1,5 @@
 ---
-title: CaptionStyle.Parent Property (Publisher)
+title: CaptionStyle.Parent property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.CaptionStyle.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CaptionStyle.Parent Property (Publisher)
+# CaptionStyle.Parent property (Publisher)
 
 Returns the parent of the  **CaptionStyle** object. Read-only.
 

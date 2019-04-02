@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.PageID Property (Publisher)
+title: Hyperlink.PageID property (Publisher)
 keywords: vbapb10.chm4587525
 f1_keywords:
 - vbapb10.chm4587525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.PageID Property (Publisher)
+# Hyperlink.PageID property (Publisher)
 
 Returns or sets a  **Long** indicating the page in the publication that is the destination for the specified hyperlink. Read/write.
 

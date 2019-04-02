@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.StartInNextTextBox Property (Publisher)
+title: ParagraphFormat.StartInNextTextBox property (Publisher)
 keywords: vbapb10.chm5439539
 f1_keywords:
 - vbapb10.chm5439539
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.StartInNextTextBox Property (Publisher)
+# ParagraphFormat.StartInNextTextBox property (Publisher)
 
 Returns or sets an  **MsoTriState** constant that represents whether to always start the selected paragraph in the next linked text box. Read/write.
 

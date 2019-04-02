@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementLeft Method (Publisher)
+title: Shape.IncrementLeft method (Publisher)
 keywords: vbapb10.chm2228256
 f1_keywords:
 - vbapb10.chm2228256
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.IncrementLeft Method (Publisher)
+# Shape.IncrementLeft method (Publisher)
 
 Moves the specified shape or shape range horizontally by the specified distance.
 

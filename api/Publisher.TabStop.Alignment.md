@@ -1,5 +1,5 @@
 ---
-title: TabStop.Alignment Property (Publisher)
+title: TabStop.Alignment property (Publisher)
 keywords: vbapb10.chm5636100
 f1_keywords:
 - vbapb10.chm5636100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStop.Alignment Property (Publisher)
+# TabStop.Alignment property (Publisher)
 
 Returns or sets a  **PbTabAlignmentType** constant that represents the alignment for the specified tab stop. Read/write.
 

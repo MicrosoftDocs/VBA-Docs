@@ -1,5 +1,5 @@
 ---
-title: MailMerge.CreateShortcut Method (Publisher)
+title: MailMerge.CreateShortcut method (Publisher)
 keywords: vbapb10.chm6225942
 f1_keywords:
 - vbapb10.chm6225942
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.CreateShortcut Method (Publisher)
+# MailMerge.CreateShortcut method (Publisher)
 
 Creates a shortcut to the file that contains the list of recipients or products for a mail merge publication.
 

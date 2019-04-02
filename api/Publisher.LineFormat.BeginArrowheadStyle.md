@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadStyle Property (Publisher)
+title: LineFormat.BeginArrowheadStyle property (Publisher)
 keywords: vbapb10.chm3408130
 f1_keywords:
 - vbapb10.chm3408130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.BeginArrowheadStyle Property (Publisher)
+# LineFormat.BeginArrowheadStyle property (Publisher)
 
 Returns or sets an  **MsoArrowheadStyle**constant indicating the style of the arrowhead at the beginning of the specified line. Read/write.
 

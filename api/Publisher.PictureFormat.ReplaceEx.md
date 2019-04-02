@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ReplaceEx Method (Publisher)
+title: PictureFormat.ReplaceEx method (Publisher)
 keywords: vbapb10.chm3604808
 f1_keywords:
 - vbapb10.chm3604808
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.ReplaceEx Method (Publisher)
+# PictureFormat.ReplaceEx method (Publisher)
 
 Replaces the specified picture, optionally fitting the replacement picture to the frame or filling the frame. Returns nothing.
 

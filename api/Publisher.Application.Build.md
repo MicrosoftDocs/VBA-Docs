@@ -1,5 +1,5 @@
 ---
-title: Application.Build Property (Publisher)
+title: Application.Build property (Publisher)
 keywords: vbapb10.chm131078
 f1_keywords:
 - vbapb10.chm131078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Build Property (Publisher)
+# Application.Build property (Publisher)
 
 Returns a  **Long** that represents the Microsoft Publisher build number. Read-only.
 

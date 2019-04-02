@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.Value Property (Publisher)
+title: MailMergeDataField.Value property (Publisher)
 keywords: vbapb10.chm6422532
 f1_keywords:
 - vbapb10.chm6422532
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataField.Value Property (Publisher)
+# MailMergeDataField.Value property (Publisher)
 
 Returns a  **String** that represents the value of a mail merge data field record or a mapped data field. Read-only.
 

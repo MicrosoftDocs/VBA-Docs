@@ -1,5 +1,5 @@
 ---
-title: Cell.BorderRight Property (Publisher)
+title: Cell.BorderRight property (Publisher)
 keywords: vbapb10.chm5111813
 f1_keywords:
 - vbapb10.chm5111813
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.BorderRight Property (Publisher)
+# Cell.BorderRight property (Publisher)
 
 Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the right border for a specified table cell.
 

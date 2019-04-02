@@ -1,5 +1,5 @@
 ---
-title: Fields.Item Method (Publisher)
+title: Fields.Item method (Publisher)
 keywords: vbapb10.chm6029312
 f1_keywords:
 - vbapb10.chm6029312
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fields.Item Method (Publisher)
+# Fields.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.RedoActionsAvailable Property (Publisher)
+title: Document.RedoActionsAvailable property (Publisher)
 keywords: vbapb10.chm196727
 f1_keywords:
 - vbapb10.chm196727
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.RedoActionsAvailable Property (Publisher)
+# Document.RedoActionsAvailable property (Publisher)
 
 Returns the number of actions available on the redo stack. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat Object (Publisher)
+title: ShadowFormat object (Publisher)
 keywords: vbapb10.chm3735551
 f1_keywords:
 - vbapb10.chm3735551
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat Object (Publisher)
+# ShadowFormat object (Publisher)
 
 Represents shadow formatting for a shape.
  

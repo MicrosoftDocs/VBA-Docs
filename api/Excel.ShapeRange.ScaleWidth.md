@@ -49,7 +49,7 @@ _expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) obje
 
 ## Example
 
-This example scales all pictures and OLE objects on  `myDocument` to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
+This example scales all pictures and OLE objects on  _myDocument_ to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
 
 
 ```vb

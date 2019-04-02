@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTexture Property (Publisher)
+title: FillFormat.PresetTexture property (Publisher)
 keywords: vbapb10.chm2359560
 f1_keywords:
 - vbapb10.chm2359560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetTexture Property (Publisher)
+# FillFormat.PresetTexture property (Publisher)
 
 Returns an  **MsoPresetTexture** constant that represents the preset texture for the specified fill. Read-only.
 

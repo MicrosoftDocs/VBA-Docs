@@ -1,5 +1,5 @@
 ---
-title: WebListBoxItems.Count Property (Publisher)
+title: WebListBoxItems.Count property (Publisher)
 keywords: vbapb10.chm4128771
 f1_keywords:
 - vbapb10.chm4128771
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebListBoxItems.Count Property (Publisher)
+# WebListBoxItems.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

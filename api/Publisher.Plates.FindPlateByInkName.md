@@ -1,5 +1,5 @@
 ---
-title: Plates.FindPlateByInkName Method (Publisher)
+title: Plates.FindPlateByInkName method (Publisher)
 keywords: vbapb10.chm2818053
 f1_keywords:
 - vbapb10.chm2818053
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plates.FindPlateByInkName Method (Publisher)
+# Plates.FindPlateByInkName method (Publisher)
 
 Returns a  **Plate** object that represents the plate of the specified ink name.
 

@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.KernedPairs Property (Publisher)
+title: TextEffectFormat.KernedPairs property (Publisher)
 keywords: vbapb10.chm3735813
 f1_keywords:
 - vbapb10.chm3735813
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.KernedPairs Property (Publisher)
+# TextEffectFormat.KernedPairs property (Publisher)
 
 Sets or returns an  **MsoTriState** constant that indicates whether character pairs in a WordArt object have been kerned. Read/write.
 

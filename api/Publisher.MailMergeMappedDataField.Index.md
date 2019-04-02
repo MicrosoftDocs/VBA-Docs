@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataField.Index Property (Publisher)
+title: MailMergeMappedDataField.Index property (Publisher)
 keywords: vbapb10.chm6553604
 f1_keywords:
 - vbapb10.chm6553604
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataField.Index Property (Publisher)
+# MailMergeMappedDataField.Index property (Publisher)
 
 Returns a  **Long** that represents the position of a particular item in a specified collection. .
 

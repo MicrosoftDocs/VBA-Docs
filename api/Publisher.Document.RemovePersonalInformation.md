@@ -1,5 +1,5 @@
 ---
-title: Document.RemovePersonalInformation Property (Publisher)
+title: Document.RemovePersonalInformation property (Publisher)
 keywords: vbapb10.chm196742
 f1_keywords:
 - vbapb10.chm196742
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.RemovePersonalInformation Property (Publisher)
+# Document.RemovePersonalInformation property (Publisher)
 
 Returns or sets a  **Boolean** that represents whether to save personal information when the file is saved. Read/write.
 

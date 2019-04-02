@@ -1,5 +1,5 @@
 ---
-title: TextFrame.ValidLinkTarget Method (Publisher)
+title: TextFrame.ValidLinkTarget method (Publisher)
 keywords: vbapb10.chm3866662
 f1_keywords:
 - vbapb10.chm3866662
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.ValidLinkTarget Method (Publisher)
+# TextFrame.ValidLinkTarget method (Publisher)
 
 Determines whether the text frame of one shape can be linked to the text frame of another shape. Returns  **True** if **_LinkTarget_** is a valid target, **False** if **_LinkTarget_** already contains text or is already linked, or if the shape does not support attached text.
 

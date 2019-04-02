@@ -41,7 +41,7 @@ You cannot adjust the specified shape's rotation around the y-axis shape past th
 
 ## Example
 
-This example tilts shape one on  `myDocument` 10 degrees to the right. Shape one must be an extruded shape for you to see the effect of this code.
+This example tilts shape one on  _myDocument_ 10 degrees to the right. Shape one must be an extruded shape for you to see the effect of this code.
 
 
 ```vb

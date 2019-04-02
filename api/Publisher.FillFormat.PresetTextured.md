@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTextured Method (Publisher)
+title: FillFormat.PresetTextured method (Publisher)
 keywords: vbapb10.chm2359316
 f1_keywords:
 - vbapb10.chm2359316
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetTextured Method (Publisher)
+# FillFormat.PresetTextured method (Publisher)
 
 Sets the specified fill to a preset texture.
 

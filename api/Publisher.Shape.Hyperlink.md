@@ -1,5 +1,5 @@
 ---
-title: Shape.Hyperlink Property (Publisher)
+title: Shape.Hyperlink property (Publisher)
 keywords: vbapb10.chm2228323
 f1_keywords:
 - vbapb10.chm2228323
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Hyperlink Property (Publisher)
+# Shape.Hyperlink property (Publisher)
 
 Returns a  **[Hyperlink](Publisher.Hyperlink.md)** object representing the hyperlink associated with the specified shape.
 

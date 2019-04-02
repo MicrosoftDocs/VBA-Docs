@@ -1,5 +1,5 @@
 ---
-title: Printer.IsActivePrinter Property (Publisher)
+title: Printer.IsActivePrinter property (Publisher)
 keywords: vbapb10.chm8978436
 f1_keywords:
 - vbapb10.chm8978436
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Printer.IsActivePrinter Property (Publisher)
+# Printer.IsActivePrinter property (Publisher)
 
 Gets or sets the printer represented by the parent  **[Printer](Publisher.Printer.md)** object as the active printer. Read/write.
 

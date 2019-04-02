@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Radius Property (Publisher)
+title: SoftEdgeFormat.Radius property (Publisher)
 keywords: vbapb10.chm9568258
 f1_keywords:
 - vbapb10.chm9568258
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SoftEdgeFormat.Radius Property (Publisher)
+# SoftEdgeFormat.Radius property (Publisher)
 
 Returns or sets a  **Single** that represents the length of the radius for a soft edge effect. Read/write.
 

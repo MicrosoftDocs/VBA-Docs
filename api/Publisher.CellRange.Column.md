@@ -1,5 +1,5 @@
 ---
-title: CellRange.Column Property (Publisher)
+title: CellRange.Column property (Publisher)
 keywords: vbapb10.chm5177346
 f1_keywords:
 - vbapb10.chm5177346
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Column Property (Publisher)
+# CellRange.Column property (Publisher)
 
 Returns a  **Long** that represents the table column containing the specified cell. Read-only.
 

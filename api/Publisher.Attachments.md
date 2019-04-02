@@ -1,5 +1,5 @@
 ---
-title: Attachments Object (Publisher)
+title: Attachments object (Publisher)
 keywords: vbapb10.chm9175039
 f1_keywords:
 - vbapb10.chm9175039
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments Object (Publisher)
+# Attachments object (Publisher)
 
 The collection of  **[Attachment](Publisher.Attachment.md)** objects that represents all the attachments to a merged email message.
  

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.OriginalHasAlphaChannel Property (Publisher)
+title: PictureFormat.OriginalHasAlphaChannel property (Publisher)
 keywords: vbapb10.chm3604773
 f1_keywords:
 - vbapb10.chm3604773
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.OriginalHasAlphaChannel Property (Publisher)
+# PictureFormat.OriginalHasAlphaChannel property (Publisher)
 
 Returns an  **MsoTriState** constant depending on whether the original, linked picture contains an alpha channel. Read-only.
 

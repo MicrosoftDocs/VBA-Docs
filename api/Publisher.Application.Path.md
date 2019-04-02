@@ -1,5 +1,5 @@
 ---
-title: Application.Path Property (Publisher)
+title: Application.Path property (Publisher)
 keywords: vbapb10.chm131097
 f1_keywords:
 - vbapb10.chm131097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Path Property (Publisher)
+# Application.Path property (Publisher)
 
 Returns a  **String** indicating the full path to the file of the saved active publication, not including the last separator or file name.
 

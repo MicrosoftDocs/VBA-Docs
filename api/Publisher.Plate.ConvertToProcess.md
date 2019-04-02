@@ -1,5 +1,5 @@
 ---
-title: Plate.ConvertToProcess Method (Publisher)
+title: Plate.ConvertToProcess method (Publisher)
 keywords: vbapb10.chm2883601
 f1_keywords:
 - vbapb10.chm2883601
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plate.ConvertToProcess Method (Publisher)
+# Plate.ConvertToProcess method (Publisher)
 
 Converts the specified plate from spot color to process.
 

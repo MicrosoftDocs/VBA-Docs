@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadLength Property (Publisher)
+title: LineFormat.EndArrowheadLength property (Publisher)
 keywords: vbapb10.chm3408133
 f1_keywords:
 - vbapb10.chm3408133
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.EndArrowheadLength Property (Publisher)
+# LineFormat.EndArrowheadLength property (Publisher)
 
 Returns or sets an  **MsoArrowheadLength** constant indicating the length of the arrowhead at the end of the specified line. Read/write.
 

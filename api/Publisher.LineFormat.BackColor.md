@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BackColor Property (Publisher)
+title: LineFormat.BackColor property (Publisher)
 keywords: vbapb10.chm3408128
 f1_keywords:
 - vbapb10.chm3408128
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.BackColor Property (Publisher)
+# LineFormat.BackColor property (Publisher)
 
 Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the background color for the specified fill or patterned line. .
 

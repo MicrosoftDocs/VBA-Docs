@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.LeaveBlackAsBlack Property (Publisher)
+title: PictureFormat.LeaveBlackAsBlack property (Publisher)
 keywords: vbapb10.chm3604792
 f1_keywords:
 - vbapb10.chm3604792
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.LeaveBlackAsBlack Property (Publisher)
+# PictureFormat.LeaveBlackAsBlack property (Publisher)
 
 Returns  **True** if, when you recolor the image represented by the parent **PictureFormat** object, the black parts of the original image should remain black. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.Parent Property (Publisher)
+title: FreeformBuilder.Parent property (Publisher)
 keywords: vbapb10.chm3276802
 f1_keywords:
 - vbapb10.chm3276802
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FreeformBuilder.Parent Property (Publisher)
+# FreeformBuilder.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.GetTop Method (Publisher)
+title: Shape.GetTop method (Publisher)
 keywords: vbapb10.chm2228247
 f1_keywords:
 - vbapb10.chm2228247
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.GetTop Method (Publisher)
+# Shape.GetTop method (Publisher)
 
 Returns the distance of the shape's or shape range's top edge from the top edge of the leftmost page in the current view as a  **Single** in the specified units.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataFields.Application Property (Publisher)
+title: MailMergeDataFields.Application property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataFields.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataFields.Application Property (Publisher)
+# MailMergeDataFields.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 

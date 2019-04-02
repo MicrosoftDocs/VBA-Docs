@@ -39,7 +39,7 @@ Use the  **[OffsetX](PowerPoint.ShadowFormat.OffsetX.md)** property to set the a
 
 ## Example
 
-This example moves the shadow for shape three on  `myDocument` to the left by 3 points.
+This example moves the shadow for shape three on  _myDocument_ to the left by 3 points.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Size Property (Publisher)
+title: ShadowFormat.Size property (Publisher)
 keywords: vbapb10.chm3670281
 f1_keywords:
 - vbapb10.chm3670281
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Size Property (Publisher)
+# ShadowFormat.Size property (Publisher)
 
 Returns or sets a  **Single** that represents the width of the shadow. Read/write.
 

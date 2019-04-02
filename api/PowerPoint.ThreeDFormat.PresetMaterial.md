@@ -44,7 +44,7 @@ The value of the  **PresetMaterial** property can be one of these **MsoPresetMat
 
 ## Example
 
-This example specifies that the extrusion surface for shape one in  `myDocument` be wire frame.
+This example specifies that the extrusion surface for shape one in  _myDocument_ be wire frame.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Type Property (Publisher)
+title: SoftEdgeFormat.Type property (Publisher)
 keywords: vbapb10.chm9568257
 f1_keywords:
 - vbapb10.chm9568257
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SoftEdgeFormat.Type Property (Publisher)
+# SoftEdgeFormat.Type property (Publisher)
 
 Returns or sets a  **Single** that represents the length of the radius for a soft edge effect. Read/write.
 

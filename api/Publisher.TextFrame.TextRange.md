@@ -1,5 +1,5 @@
 ---
-title: TextFrame.TextRange Property (Publisher)
+title: TextFrame.TextRange property (Publisher)
 keywords: vbapb10.chm3866627
 f1_keywords:
 - vbapb10.chm3866627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.TextRange Property (Publisher)
+# TextFrame.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape, and properties and methods for manipulating the text.
 

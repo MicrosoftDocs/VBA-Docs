@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat Object (Publisher)
+title: SoftEdgeFormat object (Publisher)
 keywords: vbapb10.chm9633791
 f1_keywords:
 - vbapb10.chm9633791
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SoftEdgeFormat Object (Publisher)
+# SoftEdgeFormat object (Publisher)
 
 Represents the soft edge formatting for a shape or range of shapes.
  

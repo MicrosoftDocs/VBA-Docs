@@ -1,5 +1,5 @@
 ---
-title: Columns.Add Method (Publisher)
+title: Columns.Add method (Publisher)
 keywords: vbapb10.chm5046276
 f1_keywords:
 - vbapb10.chm5046276
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.Add Method (Publisher)
+# Columns.Add method (Publisher)
 
 Adds a new  **Column** object to the specified **Columns** collection and returns the new **Column** object.
 

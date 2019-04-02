@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetPosition Method (Publisher)
+title: ShapeNodes.SetPosition method (Publisher)
 keywords: vbapb10.chm3473428
 f1_keywords:
 - vbapb10.chm3473428
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetPosition Method (Publisher)
+# ShapeNodes.SetPosition method (Publisher)
 
 Sets the position of the specified node. Depending on the editing type of the node, this method may affect the position of adjacent nodes.
 

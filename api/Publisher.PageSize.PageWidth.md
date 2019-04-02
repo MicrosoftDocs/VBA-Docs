@@ -1,5 +1,5 @@
 ---
-title: PageSize.PageWidth Property (Publisher)
+title: PageSize.PageWidth property (Publisher)
 keywords: vbapb10.chm8847364
 f1_keywords:
 - vbapb10.chm8847364
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSize.PageWidth Property (Publisher)
+# PageSize.PageWidth property (Publisher)
 
 Gets or sets the page width of the blank page size represented by the parent  **PageSize** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TabStops Object (Publisher)
+title: TabStops object (Publisher)
 keywords: vbapb10.chm5636095
 f1_keywords:
 - vbapb10.chm5636095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStops Object (Publisher)
+# TabStops object (Publisher)
 
 A collection of  **[TabStop](Publisher.TabStop.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
  

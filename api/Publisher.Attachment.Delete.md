@@ -1,5 +1,5 @@
 ---
-title: Attachment.Delete Method (Publisher)
+title: Attachment.Delete method (Publisher)
 keywords: vbapb10.chm573441
 f1_keywords:
 - vbapb10.chm573441
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.Delete Method (Publisher)
+# Attachment.Delete method (Publisher)
 
 Deletes an  **Attachment** object from the **Attachments** collection of an email merge message.
 

@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.IncludePageOnNewWebNavigationBars Property (Publisher)
+title: WebPageOptions.IncludePageOnNewWebNavigationBars property (Publisher)
 keywords: vbapb10.chm544773
 f1_keywords:
 - vbapb10.chm544773
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebPageOptions.IncludePageOnNewWebNavigationBars Property (Publisher)
+# WebPageOptions.IncludePageOnNewWebNavigationBars property (Publisher)
 
 Returns or sets a  **Boolean** value that specifies whether a link to a Web page will be added to the automatic navigation bars of new pages. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.ButtonType Property (Publisher)
+title: WebCommandButton.ButtonType property (Publisher)
 keywords: vbapb10.chm3932178
 f1_keywords:
 - vbapb10.chm3932178
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCommandButton.ButtonType Property (Publisher)
+# WebCommandButton.ButtonType property (Publisher)
 
 Returns or sets a  **PbCommandButtonType** constant that indicates whether a Web command button will clear or submit form data. Read/write.
 

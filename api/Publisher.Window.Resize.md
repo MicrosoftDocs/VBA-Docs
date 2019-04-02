@@ -1,5 +1,5 @@
 ---
-title: Window.Resize Method (Publisher)
+title: Window.Resize method (Publisher)
 keywords: vbapb10.chm262164
 f1_keywords:
 - vbapb10.chm262164
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Resize Method (Publisher)
+# Window.Resize method (Publisher)
 
 Sizes the Microsoft Publisher application window.
 

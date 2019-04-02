@@ -1,5 +1,5 @@
 ---
-title: TextStyle.Name Property (Publisher)
+title: TextStyle.Name property (Publisher)
 keywords: vbapb10.chm5963782
 f1_keywords:
 - vbapb10.chm5963782
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyle.Name Property (Publisher)
+# TextStyle.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 

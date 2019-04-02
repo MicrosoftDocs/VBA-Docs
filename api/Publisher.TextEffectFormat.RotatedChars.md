@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.RotatedChars Property (Publisher)
+title: TextEffectFormat.RotatedChars property (Publisher)
 keywords: vbapb10.chm3735817
 f1_keywords:
 - vbapb10.chm3735817
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.RotatedChars Property (Publisher)
+# TextEffectFormat.RotatedChars property (Publisher)
 
  **msoTrue** if characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. **msoFalse** if characters in the specified WordArt retain their original orientation relative to the bounding shape. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WebOptions Property (Publisher)
+title: Application.WebOptions property (Publisher)
 keywords: vbapb10.chm131176
 f1_keywords:
 - vbapb10.chm131176
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WebOptions Property (Publisher)
+# Application.WebOptions property (Publisher)
 
 Returns a  **[WebOptions](Publisher.WebOptions.md)** object, which represents the properties of Web publications. Read-only.
 

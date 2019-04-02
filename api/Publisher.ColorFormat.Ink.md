@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Ink Property (Publisher)
+title: ColorFormat.Ink property (Publisher)
 keywords: vbapb10.chm2555911
 f1_keywords:
 - vbapb10.chm2555911
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.Ink Property (Publisher)
+# ColorFormat.Ink property (Publisher)
 
 Returns or sets a  **Long** indicating whether the specified color is a spot color, and if so, the spot plate to which it belongs. Valid values are **pbInkNone** (default; meaning that the color is not a spot color) or a number between 1 and _n_ where _n_ is the number of spot plates. Read/write.
 

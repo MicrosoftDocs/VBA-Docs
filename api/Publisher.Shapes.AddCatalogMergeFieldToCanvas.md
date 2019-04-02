@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCatalogMergeFieldToCanvas Method (Publisher)
+title: Shapes.AddCatalogMergeFieldToCanvas method (Publisher)
 keywords: vbapb10.chm2162760
 f1_keywords:
 - vbapb10.chm2162760
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddCatalogMergeFieldToCanvas Method (Publisher)
+# Shapes.AddCatalogMergeFieldToCanvas method (Publisher)
 
 Adds a catalog merge field of the specified type to the canvas. Returns nothing.
 

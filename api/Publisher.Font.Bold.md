@@ -1,5 +1,5 @@
 ---
-title: Font.Bold Property (Publisher)
+title: Font.Bold property (Publisher)
 keywords: vbapb10.chm5373955
 f1_keywords:
 - vbapb10.chm5373955
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Bold Property (Publisher)
+# Font.Bold property (Publisher)
 
 Returns or sets an  **MsoTriState**constant that represents the state of the  **Bold** property on the characters in a text range. Read/write.
 

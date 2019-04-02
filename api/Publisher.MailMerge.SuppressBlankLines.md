@@ -1,5 +1,5 @@
 ---
-title: MailMerge.SuppressBlankLines Property (Publisher)
+title: MailMerge.SuppressBlankLines property (Publisher)
 keywords: vbapb10.chm6225927
 f1_keywords:
 - vbapb10.chm6225927
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.SuppressBlankLines Property (Publisher)
+# MailMerge.SuppressBlankLines property (Publisher)
 
  **True** to suppress blank lines when mail merge fields in a mail merge main document are empty. Read/write **Boolean**.
 

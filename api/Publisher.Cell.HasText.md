@@ -1,5 +1,5 @@
 ---
-title: Cell.HasText Property (Publisher)
+title: Cell.HasText property (Publisher)
 keywords: vbapb10.chm5111824
 f1_keywords:
 - vbapb10.chm5111824
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.HasText Property (Publisher)
+# Cell.HasText property (Publisher)
 
 Returns a  **Boolean** value indicating whether the specified cell contains any text. Returns **True** if the specified cell contains text. Read-only.
 

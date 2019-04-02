@@ -1,5 +1,5 @@
 ---
-title: WizardValue Object (Publisher)
+title: WizardValue object (Publisher)
 keywords: vbapb10.chm2162687
 f1_keywords:
 - vbapb10.chm2162687
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WizardValue Object (Publisher)
+# WizardValue object (Publisher)
 
 Represents a possible value for the specified wizard property.
  

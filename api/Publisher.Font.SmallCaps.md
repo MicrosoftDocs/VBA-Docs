@@ -1,5 +1,5 @@
 ---
-title: Font.SmallCaps Property (Publisher)
+title: Font.SmallCaps property (Publisher)
 keywords: vbapb10.chm5373971
 f1_keywords:
 - vbapb10.chm5373971
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.SmallCaps Property (Publisher)
+# Font.SmallCaps property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as small caps. Read/write.
 

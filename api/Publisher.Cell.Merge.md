@@ -1,5 +1,5 @@
 ---
-title: Cell.Merge Method (Publisher)
+title: Cell.Merge method (Publisher)
 keywords: vbapb10.chm5111842
 f1_keywords:
 - vbapb10.chm5111842
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Merge Method (Publisher)
+# Cell.Merge method (Publisher)
 
 Merges the specified table cell with another cell. The result is a single table cell.
 

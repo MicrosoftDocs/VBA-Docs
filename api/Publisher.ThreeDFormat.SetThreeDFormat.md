@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetThreeDFormat Method (Publisher)
+title: ThreeDFormat.SetThreeDFormat method (Publisher)
 keywords: vbapb10.chm3801107
 f1_keywords:
 - vbapb10.chm3801107
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetThreeDFormat Method (Publisher)
+# ThreeDFormat.SetThreeDFormat method (Publisher)
 
 Sets the preset extrusion format. Each preset extrusion format contains a set of preset values for the 3-D properties of the extrusion.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.DisplayStatusBar Property (Publisher)
+title: Options.DisplayStatusBar property (Publisher)
 keywords: vbapb10.chm1048583
 f1_keywords:
 - vbapb10.chm1048583
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.DisplayStatusBar Property (Publisher)
+# Options.DisplayStatusBar property (Publisher)
 
  **True** for Microsoft Publisher to show the status bar at the bottom of the Publisher window. Read/write **Boolean**.
 

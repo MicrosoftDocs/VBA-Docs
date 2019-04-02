@@ -1,5 +1,5 @@
 ---
-title: Cell.Row Property (Publisher)
+title: Cell.Row property (Publisher)
 keywords: vbapb10.chm5111831
 f1_keywords:
 - vbapb10.chm5111831
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Row Property (Publisher)
+# Cell.Row property (Publisher)
 
 Returns a  **Long** that represents the row number containing the specified cell. Read-only.
 

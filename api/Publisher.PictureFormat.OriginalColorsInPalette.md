@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.OriginalColorsInPalette Property (Publisher)
+title: PictureFormat.OriginalColorsInPalette property (Publisher)
 keywords: vbapb10.chm3604771
 f1_keywords:
 - vbapb10.chm3604771
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.OriginalColorsInPalette Property (Publisher)
+# PictureFormat.OriginalColorsInPalette property (Publisher)
 
 Returns a  **Long** that represents the number of colors in the specified linked picture's palette. Read-only.
 

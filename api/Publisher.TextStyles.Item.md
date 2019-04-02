@@ -1,5 +1,5 @@
 ---
-title: TextStyles.Item Method (Publisher)
+title: TextStyles.Item method (Publisher)
 keywords: vbapb10.chm5898240
 f1_keywords:
 - vbapb10.chm5898240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyles.Item Method (Publisher)
+# TextStyles.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 

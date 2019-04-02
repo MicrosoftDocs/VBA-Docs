@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSources.Parent Property (Publisher)
+title: MailMergeDataSources.Parent property (Publisher)
 keywords: vbapb10.chm7143426
 f1_keywords:
 - vbapb10.chm7143426
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSources.Parent Property (Publisher)
+# MailMergeDataSources.Parent property (Publisher)
 
 Returns the parent of the  **[MailMergeDataSources](Publisher.MailMergeDataSources.md)** collection. Read-only.
 

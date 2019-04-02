@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread.Pages Property (Publisher)
+title: ReaderSpread.Pages property (Publisher)
 keywords: vbapb10.chm524293
 f1_keywords:
 - vbapb10.chm524293
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReaderSpread.Pages Property (Publisher)
+# ReaderSpread.Pages property (Publisher)
 
 Returns a  **[Page](Publisher.Page.md)** object representing one of the pages that compose the specified reader spread.
 

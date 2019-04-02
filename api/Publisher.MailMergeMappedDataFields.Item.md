@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataFields.Item Method (Publisher)
+title: MailMergeMappedDataFields.Item method (Publisher)
 keywords: vbapb10.chm6488064
 f1_keywords:
 - vbapb10.chm6488064
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataFields.Item Method (Publisher)
+# MailMergeMappedDataFields.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 

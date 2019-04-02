@@ -1,5 +1,5 @@
 ---
-title: TextRange.Lines Method (Publisher)
+title: TextRange.Lines method (Publisher)
 keywords: vbapb10.chm5308455
 f1_keywords:
 - vbapb10.chm5308455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Lines Method (Publisher)
+# TextRange.Lines method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the specified lines.
 

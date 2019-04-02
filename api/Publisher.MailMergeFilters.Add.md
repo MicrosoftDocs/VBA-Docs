@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilters.Add Method (Publisher)
+title: MailMergeFilters.Add method (Publisher)
 keywords: vbapb10.chm6750212
 f1_keywords:
 - vbapb10.chm6750212
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeFilters.Add Method (Publisher)
+# MailMergeFilters.Add method (Publisher)
 
 Adds a new filter criterion to the specified  **MailMergeFilters** object.
 

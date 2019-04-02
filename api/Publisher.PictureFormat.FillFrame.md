@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.FillFrame Method (Publisher)
+title: PictureFormat.FillFrame method (Publisher)
 keywords: vbapb10.chm3604804
 f1_keywords:
 - vbapb10.chm3604804
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.FillFrame Method (Publisher)
+# PictureFormat.FillFrame method (Publisher)
 
 Fills the frame of a picture with the image represented by the  **PictureFormat** object. Returns nothing.
 

@@ -1,5 +1,5 @@
 ---
-title: View Object (Publisher)
+title: View object (Publisher)
 keywords: vbapb10.chm393215
 f1_keywords:
 - vbapb10.chm393215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View Object (Publisher)
+# View object (Publisher)
 
 Contains the view attributes (show all, field shading, table gridlines, and so on) for a window or pane.
  

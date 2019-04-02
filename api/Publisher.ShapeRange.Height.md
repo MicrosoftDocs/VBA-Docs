@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Height Property (Publisher)
+title: ShapeRange.Height property (Publisher)
 keywords: vbapb10.chm2293817
 f1_keywords:
 - vbapb10.chm2293817
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Height Property (Publisher)
+# ShapeRange.Height property (Publisher)
 
 Returns a  **Variant** that represents the height (in points) of a specified range of shapes. Read-only.
 

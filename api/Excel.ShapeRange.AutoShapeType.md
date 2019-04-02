@@ -33,7 +33,7 @@ Use the  **[Type](Excel.ConnectorFormat.Type.md)** property of the **[ConnectorF
 
 ## Example
 
-This example replaces all 16-point stars with 32-point stars in  `myDocument`.
+This example replaces all 16-point stars with 32-point stars in  _myDocument_.
 
 
 ```vb

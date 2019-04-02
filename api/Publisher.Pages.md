@@ -1,5 +1,5 @@
 ---
-title: Pages Object (Publisher)
+title: Pages object (Publisher)
 keywords: vbapb10.chm524287
 f1_keywords:
 - vbapb10.chm524287
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages Object (Publisher)
+# Pages object (Publisher)
 
 Represents all the pages in a publication. The  **Pages** collection contains all the **[Page](Publisher.Page.md)** objects in a publication.
  

@@ -1,5 +1,5 @@
 ---
-title: Shapes.FindShapeByWizardTag Method (Publisher)
+title: Shapes.FindShapeByWizardTag method (Publisher)
 keywords: vbapb10.chm2162728
 f1_keywords:
 - vbapb10.chm2162728
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.FindShapeByWizardTag Method (Publisher)
+# Shapes.FindShapeByWizardTag method (Publisher)
 
 Returns a  **ShapeRange** object representing one or all of the shapes placed in a publication by a wizard and bearing the specified wizard tag.
 

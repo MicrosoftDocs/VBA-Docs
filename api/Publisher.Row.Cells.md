@@ -1,5 +1,5 @@
 ---
-title: Row.Cells Property (Publisher)
+title: Row.Cells property (Publisher)
 keywords: vbapb10.chm4849666
 f1_keywords:
 - vbapb10.chm4849666
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Cells Property (Publisher)
+# Row.Cells property (Publisher)
 
 Returns a  **[CellRange](Publisher.CellRange.md)** object that represents the cell or cells in row of a table.
 

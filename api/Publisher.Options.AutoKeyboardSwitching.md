@@ -1,5 +1,5 @@
 ---
-title: Options.AutoKeyboardSwitching Property (Publisher)
+title: Options.AutoKeyboardSwitching property (Publisher)
 keywords: vbapb10.chm1048627
 f1_keywords:
 - vbapb10.chm1048627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.AutoKeyboardSwitching Property (Publisher)
+# Options.AutoKeyboardSwitching property (Publisher)
 
  **True** for Microsoft Publisher to automatically switch the keyboard language to the language used for the text at the cursor position. Read/write **Boolean**.
 

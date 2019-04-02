@@ -1,5 +1,5 @@
 ---
-title: Fields.AddHorizontalInVertical Method (Publisher)
+title: Fields.AddHorizontalInVertical method (Publisher)
 keywords: vbapb10.chm6029319
 f1_keywords:
 - vbapb10.chm6029319
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fields.AddHorizontalInVertical Method (Publisher)
+# Fields.AddHorizontalInVertical method (Publisher)
 
 Inserts horizontal text into a stream of vertical text and returns the new horizontal text as a  **Field** object.
 

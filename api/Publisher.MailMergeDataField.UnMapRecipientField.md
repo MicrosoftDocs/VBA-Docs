@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.UnMapRecipientField Method (Publisher)
+title: MailMergeDataField.UnMapRecipientField method (Publisher)
 keywords: vbapb10.chm6422564
 f1_keywords:
 - vbapb10.chm6422564
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataField.UnMapRecipientField Method (Publisher)
+# MailMergeDataField.UnMapRecipientField method (Publisher)
 
 Undoes the mapping between the parent  **MailMergeDataField** object in a particular data source and the recipient field in the master data source (combined mail-merge recipient list) to which it is currently mapped.
 

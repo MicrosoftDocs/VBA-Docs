@@ -1,5 +1,5 @@
 ---
-title: Font.Glow Property (Publisher)
+title: Font.Glow property (Publisher)
 keywords: vbapb10.chm5374020
 f1_keywords:
 - vbapb10.chm5374020
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Glow Property (Publisher)
+# Font.Glow property (Publisher)
 
 Returns a  [GlowFormat](Publisher.glowformat.md) object that represents the glow formatting for the font used by the specified range of text. Read-only.
 

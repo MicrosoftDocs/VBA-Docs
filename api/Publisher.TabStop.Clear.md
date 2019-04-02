@@ -1,5 +1,5 @@
 ---
-title: TabStop.Clear Method (Publisher)
+title: TabStop.Clear method (Publisher)
 keywords: vbapb10.chm5636102
 f1_keywords:
 - vbapb10.chm5636102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStop.Clear Method (Publisher)
+# TabStop.Clear method (Publisher)
 
 Removes the specified custom tab stop.
 

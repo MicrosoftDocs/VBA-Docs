@@ -1,5 +1,5 @@
 ---
-title: WebListBoxItems.Delete Method (Publisher)
+title: WebListBoxItems.Delete method (Publisher)
 keywords: vbapb10.chm4128773
 f1_keywords:
 - vbapb10.chm4128773
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebListBoxItems.Delete Method (Publisher)
+# WebListBoxItems.Delete method (Publisher)
 
 Deletes the specified hidden Web field or Web list box item object.
 

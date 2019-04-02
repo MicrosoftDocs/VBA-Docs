@@ -1,5 +1,5 @@
 ---
-title: ColorScheme.Colors Property (Publisher)
+title: ColorScheme.Colors property (Publisher)
 keywords: vbapb10.chm2686978
 f1_keywords:
 - vbapb10.chm2686978
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorScheme.Colors Property (Publisher)
+# ColorScheme.Colors property (Publisher)
 
 Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing a color from the specified color scheme.
 

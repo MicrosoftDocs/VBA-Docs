@@ -1,5 +1,5 @@
 ---
-title: WebCheckBox.Parent Property (Publisher)
+title: WebCheckBox.Parent property (Publisher)
 keywords: vbapb10.chm4325378
 f1_keywords:
 - vbapb10.chm4325378
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCheckBox.Parent Property (Publisher)
+# WebCheckBox.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

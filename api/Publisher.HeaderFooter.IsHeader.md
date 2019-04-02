@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.IsHeader Property (Publisher)
+title: HeaderFooter.IsHeader property (Publisher)
 keywords: vbapb10.chm7471109
 f1_keywords:
 - vbapb10.chm7471109
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeaderFooter.IsHeader Property (Publisher)
+# HeaderFooter.IsHeader property (Publisher)
 
  **True** if the specified **HeaderFooter** object is a header, **False** if it is a footer. Read-only **Boolean**.
 

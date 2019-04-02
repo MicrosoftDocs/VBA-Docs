@@ -1,5 +1,5 @@
 ---
-title: Stories.Item Method (Publisher)
+title: Stories.Item method (Publisher)
 keywords: vbapb10.chm5701632
 f1_keywords:
 - vbapb10.chm5701632
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Stories.Item Method (Publisher)
+# Stories.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 

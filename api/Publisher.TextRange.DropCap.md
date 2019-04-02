@@ -1,5 +1,5 @@
 ---
-title: TextRange.DropCap Property (Publisher)
+title: TextRange.DropCap property (Publisher)
 keywords: vbapb10.chm5308472
 f1_keywords:
 - vbapb10.chm5308472
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.DropCap Property (Publisher)
+# TextRange.DropCap property (Publisher)
 
 Returns a  **[DropCap](Publisher.DropCap.md)** object that represents a dropped capital letter for the paragraphs in the specified text frame.
 

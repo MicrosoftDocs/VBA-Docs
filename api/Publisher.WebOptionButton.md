@@ -1,5 +1,5 @@
 ---
-title: WebOptionButton Object (Publisher)
+title: WebOptionButton object (Publisher)
 keywords: vbapb10.chm4325375
 f1_keywords:
 - vbapb10.chm4325375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebOptionButton Object (Publisher)
+# WebOptionButton object (Publisher)
 
 Represents a Web option button control. The  **WebOptionButton** object is a member of the **Shape** object.
  

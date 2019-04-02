@@ -1,5 +1,5 @@
 ---
-title: DropCap.Clear Method (Publisher)
+title: DropCap.Clear method (Publisher)
 keywords: vbapb10.chm5505042
 f1_keywords:
 - vbapb10.chm5505042
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropCap.Clear Method (Publisher)
+# DropCap.Clear method (Publisher)
 
 Removes the dropped capital letter formatting.
 

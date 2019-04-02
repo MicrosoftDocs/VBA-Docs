@@ -1,5 +1,5 @@
 ---
-title: Document.Undo Method (Publisher)
+title: Document.Undo method (Publisher)
 keywords: vbapb10.chm196704
 f1_keywords:
 - vbapb10.chm196704
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Undo Method (Publisher)
+# Document.Undo method (Publisher)
 
 Undoes the last action or a specified number of actions. Corresponds to the list of items that appears when you click the arrow beside the  **Undo** button on the **Standard** toolbar.
 

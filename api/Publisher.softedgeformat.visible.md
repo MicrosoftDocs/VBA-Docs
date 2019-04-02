@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Visible Property (Publisher)
+title: SoftEdgeFormat.Visible property (Publisher)
 keywords: vbapb10.chm9568259
 f1_keywords:
 - vbapb10.chm9568259
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SoftEdgeFormat.Visible Property (Publisher)
+# SoftEdgeFormat.Visible property (Publisher)
 
  **True** if the specified object, or the formatting applied to it, is visible. Read/write **MsoTriState**.
 

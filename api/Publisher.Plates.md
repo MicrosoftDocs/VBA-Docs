@@ -1,5 +1,5 @@
 ---
-title: Plates Object (Publisher)
+title: Plates object (Publisher)
 keywords: vbapb10.chm2883583
 f1_keywords:
 - vbapb10.chm2883583
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plates Object (Publisher)
+# Plates object (Publisher)
 
 A collection of  **Plate** objects in a publication.
  

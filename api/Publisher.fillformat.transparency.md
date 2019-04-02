@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Transparency Property (Publisher)
+title: FillFormat.Transparency property (Publisher)
 keywords: vbapb10.chm2359569
 f1_keywords:
 - vbapb10.chm2359569
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Transparency Property (Publisher)
+# FillFormat.Transparency property (Publisher)
 
 Returns or sets the degree of transparency of the specified fill for a shape as a value between 0.0 (opaque) and 1.0 (clear). Read/write.
 

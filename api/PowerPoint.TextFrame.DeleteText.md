@@ -26,7 +26,7 @@ _expression_. `DeleteText`
 
 ## Example
 
-If shape two on  `myDocument` contains text, this example deletes the text.
+If shape two on  _myDocument_ contains text, this example deletes the text.
 
 
 ```vb

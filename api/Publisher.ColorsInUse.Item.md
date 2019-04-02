@@ -1,5 +1,5 @@
 ---
-title: ColorsInUse.Item Property (Publisher)
+title: ColorsInUse.Item property (Publisher)
 keywords: vbapb10.chm2949120
 f1_keywords:
 - vbapb10.chm2949120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorsInUse.Item Property (Publisher)
+# ColorsInUse.Item property (Publisher)
 
 Returns an individual object from a specified collection. Read-only.
 

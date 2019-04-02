@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.NormalizedHeight Property (Publisher)
+title: TextEffectFormat.NormalizedHeight property (Publisher)
 keywords: vbapb10.chm3735814
 f1_keywords:
 - vbapb10.chm3735814
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.NormalizedHeight Property (Publisher)
+# TextEffectFormat.NormalizedHeight property (Publisher)
 
 Specifies whether all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write.
 

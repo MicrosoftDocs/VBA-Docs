@@ -1,5 +1,5 @@
 ---
-title: View.ZoomOut Method (Publisher)
+title: View.ZoomOut method (Publisher)
 keywords: vbapb10.chm327687
 f1_keywords:
 - vbapb10.chm327687
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.ZoomOut Method (Publisher)
+# View.ZoomOut method (Publisher)
 
 Decreases the magnification of the specified view.
 

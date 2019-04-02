@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Delete Method (Publisher)
+title: Hyperlink.Delete method (Publisher)
 keywords: vbapb10.chm4587541
 f1_keywords:
 - vbapb10.chm4587541
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Delete Method (Publisher)
+# Hyperlink.Delete method (Publisher)
 
 Deletes the specified object.
 

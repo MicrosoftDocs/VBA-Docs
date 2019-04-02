@@ -1,5 +1,5 @@
 ---
-title: PageSetup.VerticalGap Property (Publisher)
+title: PageSetup.VerticalGap property (Publisher)
 keywords: vbapb10.chm6946838
 f1_keywords:
 - vbapb10.chm6946838
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.VerticalGap Property (Publisher)
+# PageSetup.VerticalGap property (Publisher)
 
 Returns a  **Variant** that represents the distance (in points) between the bottom edge of one publication page and top edge of the publication page below it when more than one publication page is printed on a single printer page. Read-only.
 

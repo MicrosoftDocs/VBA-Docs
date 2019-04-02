@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Item Method (Publisher)
+title: GroupShapes.Item method (Publisher)
 keywords: vbapb10.chm3342336
 f1_keywords:
 - vbapb10.chm3342336
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GroupShapes.Item Method (Publisher)
+# GroupShapes.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 

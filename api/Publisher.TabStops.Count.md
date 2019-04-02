@@ -1,5 +1,5 @@
 ---
-title: TabStops.Count Property (Publisher)
+title: TabStops.Count property (Publisher)
 keywords: vbapb10.chm5570563
 f1_keywords:
 - vbapb10.chm5570563
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStops.Count Property (Publisher)
+# TabStops.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

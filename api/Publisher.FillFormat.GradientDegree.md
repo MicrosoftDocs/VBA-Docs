@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientDegree Property (Publisher)
+title: FillFormat.GradientDegree property (Publisher)
 keywords: vbapb10.chm2359555
 f1_keywords:
 - vbapb10.chm2359555
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientDegree Property (Publisher)
+# FillFormat.GradientDegree property (Publisher)
 
 Returns a  **Single** indicating how dark or light a one-color gradient fill is. A value of 0 (zero) means that black is mixed in with the shape's foreground color to form the gradient; a value of 1 means that white is mixed in; and values between 0 and 1 mean that a darker or lighter shade of the foreground color is mixed in. Read-only.
 

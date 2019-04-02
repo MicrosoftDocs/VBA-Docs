@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.DropType Property (Publisher)
+title: CalloutFormat.DropType property (Publisher)
 keywords: vbapb10.chm2490630
 f1_keywords:
 - vbapb10.chm2490630
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.DropType Property (Publisher)
+# CalloutFormat.DropType property (Publisher)
 
 Returns an  **MsoCalloutDropType** constant indicating where the callout line attaches to the callout text box. Read-only.
 

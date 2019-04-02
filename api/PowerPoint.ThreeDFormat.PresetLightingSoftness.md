@@ -43,7 +43,7 @@ The value of the  **PresetLightingSoftness** property can be one of these **MsoP
 
 ## Example
 
-This example specifies that the extrusion for shape one on  `myDocument` be lit brightly from the left.
+This example specifies that the extrusion for shape one on  _myDocument_ be lit brightly from the left.
 
 
 ```vb

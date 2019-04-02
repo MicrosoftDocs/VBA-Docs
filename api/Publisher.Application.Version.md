@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (Publisher)
+title: Application.Version property (Publisher)
 keywords: vbapb10.chm131121
 f1_keywords:
 - vbapb10.chm131121
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Version Property (Publisher)
+# Application.Version property (Publisher)
 
 Returns a  **String** indicating the version number of the currently-installed copy of Microsoft Publisher. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Page.PageType Property (Publisher)
+title: Page.PageType property (Publisher)
 keywords: vbapb10.chm393221
 f1_keywords:
 - vbapb10.chm393221
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.PageType Property (Publisher)
+# Page.PageType property (Publisher)
 
 Returns a  **PbPageType** constant that represents the page type. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Page.RulerGuides Property (Publisher)
+title: Page.RulerGuides property (Publisher)
 keywords: vbapb10.chm393225
 f1_keywords:
 - vbapb10.chm393225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.RulerGuides Property (Publisher)
+# Page.RulerGuides property (Publisher)
 
 Returns a  **[RulerGuides](Publisher.RulerGuides.md)** collection that represents gridlines used to align objects on a page.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HasPreviousLink Property (Publisher)
+title: TextFrame.HasPreviousLink property (Publisher)
 keywords: vbapb10.chm3866641
 f1_keywords:
 - vbapb10.chm3866641
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.HasPreviousLink Property (Publisher)
+# TextFrame.HasPreviousLink property (Publisher)
 
 Returns  **msoTrue** if the specified text frame has a valid link to a backward text box and **msoFalse** if it does not. Read-only.
 

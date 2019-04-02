@@ -39,7 +39,7 @@ If you want to fill the shape with small tiles of an image, use the  **[UserText
 
 ## Example
 
-This example adds two rectangles to  `myDocument`. The rectangle on the left is filled with one large image of the picture in Tiles.bmp; the rectangle on the right is filled with many small tiles of the picture in Tiles.bmp
+This example adds two rectangles to  _myDocument_. The rectangle on the left is filled with one large image of the picture in Tiles.bmp; the rectangle on the right is filled with many small tiles of the picture in Tiles.bmp
 
 
 ```vb

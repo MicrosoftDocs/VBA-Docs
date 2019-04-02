@@ -1,5 +1,5 @@
 ---
-title: Font.ContextualAlternates Property (Publisher)
+title: Font.ContextualAlternates property (Publisher)
 keywords: vbapb10.chm5374009
 f1_keywords:
 - vbapb10.chm5374009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.ContextualAlternates Property (Publisher)
+# Font.ContextualAlternates property (Publisher)
 
 Returns or sets an  **MsoTriState** constant that represents the state of the **ContextualAlternates** property on the characters in a text range. The **ContextualAlternates** property enables different shape choices for some characters depending on the context of the character and the design of the selected font. Read/write.
 

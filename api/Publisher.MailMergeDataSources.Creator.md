@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSources.Creator Property (Publisher)
+title: MailMergeDataSources.Creator property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSources.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSources.Creator Property (Publisher)
+# MailMergeDataSources.Creator property (Publisher)
 
 Returns a 32-bit integer that indicates the application in which the  **MailMergeDataSources** object was created. Read-only.
 

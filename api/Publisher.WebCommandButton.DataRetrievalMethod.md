@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.DataRetrievalMethod Property (Publisher)
+title: WebCommandButton.DataRetrievalMethod property (Publisher)
 keywords: vbapb10.chm3932166
 f1_keywords:
 - vbapb10.chm3932166
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCommandButton.DataRetrievalMethod Property (Publisher)
+# WebCommandButton.DataRetrievalMethod property (Publisher)
 
 Sets or returns a  **PbSubmitDataRetrievalMethodType** that represents the way data from a Web form is processed. Read/write.
 

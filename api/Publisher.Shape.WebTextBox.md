@@ -1,5 +1,5 @@
 ---
-title: Shape.WebTextBox Property (Publisher)
+title: Shape.WebTextBox property (Publisher)
 keywords: vbapb10.chm2228342
 f1_keywords:
 - vbapb10.chm2228342
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.WebTextBox Property (Publisher)
+# Shape.WebTextBox property (Publisher)
 
 Returns the  **[WebTextBox](Publisher.WebTextBox.md)** object associated with the specified shape.
 

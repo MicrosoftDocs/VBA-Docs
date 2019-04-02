@@ -1,5 +1,5 @@
 ---
-title: Application.EmusToPoints Method (Publisher)
+title: Application.EmusToPoints method (Publisher)
 keywords: vbapb10.chm131142
 f1_keywords:
 - vbapb10.chm131142
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EmusToPoints Method (Publisher)
+# Application.EmusToPoints method (Publisher)
 
 Converts a measurement from emus to points (12700 emus = 1 point). Returns the converted measurement as a  **Single**.
 

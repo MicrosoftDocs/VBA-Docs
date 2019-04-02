@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.HorizontalBaseLineSpacing Property (Publisher)
+title: LayoutGuides.HorizontalBaseLineSpacing property (Publisher)
 keywords: vbapb10.chm1114132
 f1_keywords:
 - vbapb10.chm1114132
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LayoutGuides.HorizontalBaseLineSpacing Property (Publisher)
+# LayoutGuides.HorizontalBaseLineSpacing property (Publisher)
 
 Returns a  **Single** that represents the horizontal baseline spacing of the specified **LayoutGuides** object. Read/write.
 

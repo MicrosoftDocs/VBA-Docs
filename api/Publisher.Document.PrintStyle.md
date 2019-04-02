@@ -1,5 +1,5 @@
 ---
-title: Document.PrintStyle Property (Publisher)
+title: Document.PrintStyle property (Publisher)
 keywords: vbapb10.chm196759
 f1_keywords:
 - vbapb10.chm196759
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintStyle Property (Publisher)
+# Document.PrintStyle property (Publisher)
 
 Read-only
 

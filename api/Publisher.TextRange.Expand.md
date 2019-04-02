@@ -1,5 +1,5 @@
 ---
-title: TextRange.Expand Method (Publisher)
+title: TextRange.Expand method (Publisher)
 keywords: vbapb10.chm5308421
 f1_keywords:
 - vbapb10.chm5308421
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Expand Method (Publisher)
+# TextRange.Expand method (Publisher)
 
 Expands the specified range or selection. Returns or sets a  **Long** that represents the number of specified units added to the range or selection.
 

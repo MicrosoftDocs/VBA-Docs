@@ -40,7 +40,7 @@ Nothing
 
 ## Example
 
-This example defines a shape range that contains all the AutoShapes on the  `myDocument` and then horizontally distributes the shapes in this range.
+This example defines a shape range that contains all the AutoShapes on the  _myDocument_ and then horizontally distributes the shapes in this range.
 
 
 ```vb

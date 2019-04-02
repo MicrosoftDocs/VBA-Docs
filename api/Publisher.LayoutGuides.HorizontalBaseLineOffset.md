@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.HorizontalBaseLineOffset Property (Publisher)
+title: LayoutGuides.HorizontalBaseLineOffset property (Publisher)
 keywords: vbapb10.chm1114131
 f1_keywords:
 - vbapb10.chm1114131
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LayoutGuides.HorizontalBaseLineOffset Property (Publisher)
+# LayoutGuides.HorizontalBaseLineOffset property (Publisher)
 
 Returns a  **Single** that represents the horizontal baseline offset of the specified **LayoutGuides** object. Read/Write.
 

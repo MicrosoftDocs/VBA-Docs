@@ -1,5 +1,5 @@
 ---
-title: FindReplace.Clear Method (Publisher)
+title: FindReplace.Clear method (Publisher)
 keywords: vbapb10.chm8323087
 f1_keywords:
 - vbapb10.chm8323087
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.Clear Method (Publisher)
+# FindReplace.Clear method (Publisher)
 
 Removes the specified search criteria in a find or replace operation.
 

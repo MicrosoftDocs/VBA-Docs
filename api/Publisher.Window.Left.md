@@ -1,5 +1,5 @@
 ---
-title: Window.Left Property (Publisher)
+title: Window.Left property (Publisher)
 keywords: vbapb10.chm262149
 f1_keywords:
 - vbapb10.chm262149
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Left Property (Publisher)
+# Window.Left property (Publisher)
 
 Returns or sets a  **Long** indicating the position (in points) of the left edge of the application window relative to the left edge of the screen. Read/write.
 

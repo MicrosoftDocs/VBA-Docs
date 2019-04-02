@@ -1,5 +1,5 @@
 ---
-title: WebOptions.Encoding Property (Publisher)
+title: WebOptions.Encoding property (Publisher)
 keywords: vbapb10.chm8257540
 f1_keywords:
 - vbapb10.chm8257540
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebOptions.Encoding Property (Publisher)
+# WebOptions.Encoding property (Publisher)
 
 Returns an  **MsoEncoding** constant that specifies the encoding of the Web publication. Read/write.
 

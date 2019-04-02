@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Delete Method (Publisher)
+title: BuildingBlock.Delete method (Publisher)
 keywords: vbapb10.chm9502727
 f1_keywords:
 - vbapb10.chm9502727
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlock.Delete Method (Publisher)
+# BuildingBlock.Delete method (Publisher)
 
 Deletes the specified  **BuildingBlock** object from the **[BuildingBlocks](Publisher.BuildingBlocks.md)** collection returned by the ** [Document.AvailableBuildingBlocks](Publisher.document.availablebuildingblocks.md)** property for the current document.
 

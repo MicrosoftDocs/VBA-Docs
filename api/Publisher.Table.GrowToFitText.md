@@ -1,5 +1,5 @@
 ---
-title: Table.GrowToFitText Property (Publisher)
+title: Table.GrowToFitText property (Publisher)
 keywords: vbapb10.chm4784132
 f1_keywords:
 - vbapb10.chm4784132
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.GrowToFitText Property (Publisher)
+# Table.GrowToFitText property (Publisher)
 
  **True** for cells in a table to increase vertically to fit text. Read/write.
 

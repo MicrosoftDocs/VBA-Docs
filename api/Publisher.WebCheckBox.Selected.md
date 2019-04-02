@@ -1,5 +1,5 @@
 ---
-title: WebCheckBox.Selected Property (Publisher)
+title: WebCheckBox.Selected property (Publisher)
 keywords: vbapb10.chm4325380
 f1_keywords:
 - vbapb10.chm4325380
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCheckBox.Selected Property (Publisher)
+# WebCheckBox.Selected property (Publisher)
 
 Specifies whether a Web check box or option button is selected. Read/write.
 

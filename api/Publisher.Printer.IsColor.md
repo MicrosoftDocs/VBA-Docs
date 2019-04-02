@@ -1,5 +1,5 @@
 ---
-title: Printer.IsColor Property (Publisher)
+title: Printer.IsColor property (Publisher)
 keywords: vbapb10.chm8978437
 f1_keywords:
 - vbapb10.chm8978437
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Printer.IsColor Property (Publisher)
+# Printer.IsColor property (Publisher)
 
 Returns  **True** if the device represented by the parent **Printer** object is a color printer. Read-only.
 

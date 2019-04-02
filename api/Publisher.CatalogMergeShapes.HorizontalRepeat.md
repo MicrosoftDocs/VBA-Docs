@@ -1,5 +1,5 @@
 ---
-title: CatalogMergeShapes.HorizontalRepeat Property (Publisher)
+title: CatalogMergeShapes.HorizontalRepeat property (Publisher)
 keywords: vbapb10.chm8388613
 f1_keywords:
 - vbapb10.chm8388613
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CatalogMergeShapes.HorizontalRepeat Property (Publisher)
+# CatalogMergeShapes.HorizontalRepeat property (Publisher)
 
 Returns a  **Long** that represents the number of times the catalog merge area will repeat across the target publication page when the catalog merge is executed. Read-only.
 

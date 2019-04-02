@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK.Magenta Property (Publisher)
+title: ColorCMYK.Magenta property (Publisher)
 keywords: vbapb10.chm2621444
 f1_keywords:
 - vbapb10.chm2621444
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorCMYK.Magenta Property (Publisher)
+# ColorCMYK.Magenta property (Publisher)
 
 Sets or returns a  **Long** that represents the magenta component of a CMYK color. Value can be any number between 0 and 255. Read/write.
 

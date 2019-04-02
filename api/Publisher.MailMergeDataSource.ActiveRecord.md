@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.ActiveRecord Property (Publisher)
+title: MailMergeDataSource.ActiveRecord property (Publisher)
 keywords: vbapb10.chm6291459
 f1_keywords:
 - vbapb10.chm6291459
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.ActiveRecord Property (Publisher)
+# MailMergeDataSource.ActiveRecord property (Publisher)
 
 Returns or sets a  **Long** that represents the active mail merge record. Read/write.
 

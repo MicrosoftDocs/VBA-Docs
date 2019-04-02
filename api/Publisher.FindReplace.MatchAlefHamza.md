@@ -1,5 +1,5 @@
 ---
-title: FindReplace.MatchAlefHamza Property (Publisher)
+title: FindReplace.MatchAlefHamza property (Publisher)
 keywords: vbapb10.chm8323079
 f1_keywords:
 - vbapb10.chm8323079
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.MatchAlefHamza Property (Publisher)
+# FindReplace.MatchAlefHamza property (Publisher)
 
 Sets or returns a  **Boolean** representing whether or not a search operation will match alefs and hamzas. Read/write.
 

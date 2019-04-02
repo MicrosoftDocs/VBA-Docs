@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope Object (Publisher)
+title: EmailMergeEnvelope object (Publisher)
 keywords: vbapb10.chm9109503
 f1_keywords:
 - vbapb10.chm9109503
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope Object (Publisher)
+# EmailMergeEnvelope object (Publisher)
 
 Represents the email container (envelope) that holds the Microsoft Publisher document that is merged into an email merge.
  

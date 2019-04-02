@@ -1,5 +1,5 @@
 ---
-title: Shape.ConnectionSiteCount Property (Publisher)
+title: Shape.ConnectionSiteCount property (Publisher)
 keywords: vbapb10.chm2228276
 f1_keywords:
 - vbapb10.chm2228276
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ConnectionSiteCount Property (Publisher)
+# Shape.ConnectionSiteCount property (Publisher)
 
 Returns a  **Long** indicating the count of connection sites on the current **Shape** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLine Method (Publisher)
+title: Shapes.AddLine method (Publisher)
 keywords: vbapb10.chm2162708
 f1_keywords:
 - vbapb10.chm2162708
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddLine Method (Publisher)
+# Shapes.AddLine method (Publisher)
 
 Adds a new  **[Shape](Publisher.Shape.md)** object representing a line to the specified **[Shapes](Publisher.Shapes.md)** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.AttachedToText Property (Publisher)
+title: Font.AttachedToText property (Publisher)
 keywords: vbapb10.chm5373989
 f1_keywords:
 - vbapb10.chm5373989
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.AttachedToText Property (Publisher)
+# Font.AttachedToText property (Publisher)
 
  **True** if the **Font** or **ParagraphFormat** object is attached to a **TextRange** object. If the object is attached to a **TextRange** object, the document will be updated when properties of the object are changed. If the object is not attached, nothing in the document will be changed until the object is applied to a **TextRange** or **Style** object. Read-only **Boolean**.
 

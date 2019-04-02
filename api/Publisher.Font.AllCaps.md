@@ -1,5 +1,5 @@
 ---
-title: Font.AllCaps Property (Publisher)
+title: Font.AllCaps property (Publisher)
 keywords: vbapb10.chm5373959
 f1_keywords:
 - vbapb10.chm5373959
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.AllCaps Property (Publisher)
+# Font.AllCaps property (Publisher)
 
 Returns or sets  **msoTrue** if the font is formatted as all capital letters, or returns one of the other **MsoTriState** constants if it is not. Read/write.
 

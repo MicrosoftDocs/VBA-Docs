@@ -31,7 +31,7 @@ Ruler
 
 ## Example
 
-This example sets a left-aligned tab stop at 2 inches (144 points) for the text in shape two on  `myDocument`.
+This example sets a left-aligned tab stop at 2 inches (144 points) for the text in shape two on  _myDocument_.
 
 
 ```vb

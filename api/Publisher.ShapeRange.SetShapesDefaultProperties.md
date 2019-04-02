@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SetShapesDefaultProperties Method (Publisher)
+title: ShapeRange.SetShapesDefaultProperties method (Publisher)
 keywords: vbapb10.chm2293800
 f1_keywords:
 - vbapb10.chm2293800
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.SetShapesDefaultProperties Method (Publisher)
+# ShapeRange.SetShapesDefaultProperties method (Publisher)
 
 Applies the formatting for the specified shape or shape range to the default shape. Shapes created after this method has been used will have this formatting applied to them by default.
 

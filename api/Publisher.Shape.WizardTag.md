@@ -1,5 +1,5 @@
 ---
-title: Shape.WizardTag Property (Publisher)
+title: Shape.WizardTag property (Publisher)
 keywords: vbapb10.chm2228324
 f1_keywords:
 - vbapb10.chm2228324
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.WizardTag Property (Publisher)
+# Shape.WizardTag property (Publisher)
 
 Returns or sets a  **PbWizardTag**constant indicating the function of a specified shape with respect to its publication design. Read/write.
 

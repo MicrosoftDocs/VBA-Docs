@@ -1,5 +1,5 @@
 ---
-title: Font.Swash Property (Publisher)
+title: Font.Swash property (Publisher)
 keywords: vbapb10.chm5374005
 f1_keywords:
 - vbapb10.chm5374005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Swash Property (Publisher)
+# Font.Swash property (Publisher)
 
 Returns or sets an  **MsoTriState** constant that represents the state of the **Swash** property on the characters in a text range. The **Swash** property enables embellishments to the characters, often in the form of bigger and more flamboyant serifs. Read/write.
 

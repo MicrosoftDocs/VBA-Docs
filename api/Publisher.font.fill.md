@@ -1,5 +1,5 @@
 ---
-title: Font.Fill Property (Publisher)
+title: Font.Fill property (Publisher)
 keywords: vbapb10.chm5374018
 f1_keywords:
 - vbapb10.chm5374018
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Fill Property (Publisher)
+# Font.Fill property (Publisher)
 
 Returns a  [FillFormat](Publisher.FillFormat.md) object that contains fill formatting properties for the font used by the specified range of text. Read-only.
 

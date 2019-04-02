@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarHyperlinks Object (Publisher)
+title: WebNavigationBarHyperlinks object (Publisher)
 keywords: vbapb10.chm540671
 f1_keywords:
 - vbapb10.chm540671
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarHyperlinks Object (Publisher)
+# WebNavigationBarHyperlinks object (Publisher)
 
 The  **WebNavigationBarHyperlinks** represents a collection of all the **Hyperlink** objects of the specified **WebNavigationBarSet** object.
  

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IsGreyScale Property (Publisher)
+title: PictureFormat.IsGreyScale property (Publisher)
 keywords: vbapb10.chm3604768
 f1_keywords:
 - vbapb10.chm3604768
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IsGreyScale Property (Publisher)
+# PictureFormat.IsGreyScale property (Publisher)
 
 Returns a  **MsoTriState** constant that indicates whether the picture is a greyscale image. Read-only.
 

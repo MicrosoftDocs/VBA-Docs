@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ContourColor Property (Publisher)
+title: ThreeDFormat.ContourColor property (Publisher)
 keywords: vbapb10.chm3801379
 f1_keywords:
 - vbapb10.chm3801379
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ContourColor Property (Publisher)
+# ThreeDFormat.ContourColor property (Publisher)
 
 Returns or sets a  **ColorFormat** object that represents color of the contour of a shape. Read/write.
 

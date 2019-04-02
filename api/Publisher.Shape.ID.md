@@ -1,5 +1,5 @@
 ---
-title: Shape.ID Property (Publisher)
+title: Shape.ID property (Publisher)
 keywords: vbapb10.chm2228325
 f1_keywords:
 - vbapb10.chm2228325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ID Property (Publisher)
+# Shape.ID property (Publisher)
 
 Returns a  **Long** that represents the type of a shape, range of shapes, or property, type, or value of a wizard. Read-only.
 

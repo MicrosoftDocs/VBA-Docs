@@ -1,5 +1,5 @@
 ---
-title: Shapes.CanvasArrangementType Property (Publisher)
+title: Shapes.CanvasArrangementType property (Publisher)
 keywords: vbapb10.chm2162758
 f1_keywords:
 - vbapb10.chm2162758
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.CanvasArrangementType Property (Publisher)
+# Shapes.CanvasArrangementType property (Publisher)
 
 A  **[pbCanvasArrangementType](Publisher.pbcanvasarrangementtype.md)** constant that specifies the arrangement type of the canvas. Read/write.
 

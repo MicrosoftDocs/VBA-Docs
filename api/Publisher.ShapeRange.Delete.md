@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Delete Method (Publisher)
+title: ShapeRange.Delete method (Publisher)
 keywords: vbapb10.chm2293779
 f1_keywords:
 - vbapb10.chm2293779
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Delete Method (Publisher)
+# ShapeRange.Delete method (Publisher)
 
 Deletes the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.HyphenationZone Property (Publisher)
+title: Options.HyphenationZone property (Publisher)
 keywords: vbapb10.chm1048593
 f1_keywords:
 - vbapb10.chm1048593
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.HyphenationZone Property (Publisher)
+# Options.HyphenationZone property (Publisher)
 
 Returns or sets a  **Variant** that represents the maximum amount of space that Microsoft Publisher leaves between the end of the last word in a line and the right margin. Read/write.
 

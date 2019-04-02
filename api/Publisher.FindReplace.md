@@ -1,5 +1,5 @@
 ---
-title: FindReplace Object (Publisher)
+title: FindReplace object (Publisher)
 keywords: vbapb10.chm8388607
 f1_keywords:
 - vbapb10.chm8388607
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FindReplace Object (Publisher)
+# FindReplace object (Publisher)
 
 Represents the criteria for a find operation. The properties and methods of the  **FindReplace** object correspond to the options in the **Find and Replace** dialog box.
  

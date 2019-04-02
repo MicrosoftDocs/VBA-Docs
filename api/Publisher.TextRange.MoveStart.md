@@ -1,5 +1,5 @@
 ---
-title: TextRange.MoveStart Method (Publisher)
+title: TextRange.MoveStart method (Publisher)
 keywords: vbapb10.chm5308423
 f1_keywords:
 - vbapb10.chm5308423
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.MoveStart Method (Publisher)
+# TextRange.MoveStart method (Publisher)
 
 Moves the start position of the specified range. This method returns a  **Long** that indicates the number of units by which the start position or the range or selection actually moved, or it returns 0 (zero) if the move was unsuccessful.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.EditRecord Method (Publisher)
+title: MailMergeDataSource.EditRecord method (Publisher)
 keywords: vbapb10.chm6291504
 f1_keywords:
 - vbapb10.chm6291504
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.EditRecord Method (Publisher)
+# MailMergeDataSource.EditRecord method (Publisher)
 
 Changes one of the data fields in one of the records in the master data source (the combined mail-merge recipient list).
 

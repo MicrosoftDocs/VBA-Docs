@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Name Property (Publisher)
+title: ShapeRange.Name property (Publisher)
 keywords: vbapb10.chm2293828
 f1_keywords:
 - vbapb10.chm2293828
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Name Property (Publisher)
+# ShapeRange.Name property (Publisher)
 
 Returns or sets a  **String** value indicating the name of the specified object. Read/write.
 

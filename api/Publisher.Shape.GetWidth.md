@@ -1,5 +1,5 @@
 ---
-title: Shape.GetWidth Method (Publisher)
+title: Shape.GetWidth method (Publisher)
 keywords: vbapb10.chm2228249
 f1_keywords:
 - vbapb10.chm2228249
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.GetWidth Method (Publisher)
+# Shape.GetWidth method (Publisher)
 
 Returns the width of the shape or shape range as a  **Single** in the specified units.
 

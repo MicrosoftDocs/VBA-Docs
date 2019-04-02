@@ -1,5 +1,5 @@
 ---
-title: Selection.TextRange Property (Publisher)
+title: Selection.TextRange property (Publisher)
 keywords: vbapb10.chm851974
 f1_keywords:
 - vbapb10.chm851974
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.TextRange Property (Publisher)
+# Selection.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
 

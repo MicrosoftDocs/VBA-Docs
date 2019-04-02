@@ -1,5 +1,5 @@
 ---
-title: GroupShapes Object (Publisher)
+title: GroupShapes object (Publisher)
 keywords: vbapb10.chm3407871
 f1_keywords:
 - vbapb10.chm3407871
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GroupShapes Object (Publisher)
+# GroupShapes object (Publisher)
 
 Represents the individual shapes within a grouped shape. Each shape is represented by a  **[Shape](Publisher.Shape.md)** object. Using the **[Item](Publisher.GroupShapes.Item.md)** method with this object, you can work with single shapes within a group without having to ungroup them.
  

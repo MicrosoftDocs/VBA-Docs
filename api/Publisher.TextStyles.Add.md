@@ -1,5 +1,5 @@
 ---
-title: TextStyles.Add Method (Publisher)
+title: TextStyles.Add method (Publisher)
 keywords: vbapb10.chm5898244
 f1_keywords:
 - vbapb10.chm5898244
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyles.Add Method (Publisher)
+# TextStyles.Add method (Publisher)
 
 Adds a new  **TextStyle** object to the specified **TextStyles** object and returns the new **TextStyle** object.
 

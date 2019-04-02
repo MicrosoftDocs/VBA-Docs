@@ -1,5 +1,5 @@
 ---
-title: Application.Name Property (Publisher)
+title: Application.Name property (Publisher)
 keywords: vbapb10.chm131094
 f1_keywords:
 - vbapb10.chm131094
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Name Property (Publisher)
+# Application.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 

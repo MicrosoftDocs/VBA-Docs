@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion.Column Property (Publisher)
+title: MailMergeFilterCriterion.Column property (Publisher)
 keywords: vbapb10.chm6815747
 f1_keywords:
 - vbapb10.chm6815747
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion.Column Property (Publisher)
+# MailMergeFilterCriterion.Column property (Publisher)
 
 Returns a  **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.DragAndDropText Property (Publisher)
+title: Options.DragAndDropText property (Publisher)
 keywords: vbapb10.chm1048584
 f1_keywords:
 - vbapb10.chm1048584
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.DragAndDropText Property (Publisher)
+# Options.DragAndDropText property (Publisher)
 
  **True** to enable dragging of text. Read/write **Boolean**.
 

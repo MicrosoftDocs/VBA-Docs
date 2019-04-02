@@ -1,5 +1,5 @@
 ---
-title: Application.FileDialog Property (Publisher)
+title: Application.FileDialog property (Publisher)
 keywords: vbapb10.chm131089
 f1_keywords:
 - vbapb10.chm131089
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileDialog Property (Publisher)
+# Application.FileDialog property (Publisher)
 
 Returns a  **FileDialog** object that represents a single instance of a file dialog box.
 

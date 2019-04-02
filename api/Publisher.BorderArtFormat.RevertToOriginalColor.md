@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.RevertToOriginalColor Method (Publisher)
+title: BorderArtFormat.RevertToOriginalColor method (Publisher)
 keywords: vbapb10.chm7602192
 f1_keywords:
 - vbapb10.chm7602192
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BorderArtFormat.RevertToOriginalColor Method (Publisher)
+# BorderArtFormat.RevertToOriginalColor method (Publisher)
 
 Sets the BorderArt on the specified shape back to its default color.
 

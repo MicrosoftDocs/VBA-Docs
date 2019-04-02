@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextFrame Property (Publisher)
+title: ShapeRange.TextFrame property (Publisher)
 keywords: vbapb10.chm2293840
 f1_keywords:
 - vbapb10.chm2293840
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.TextFrame Property (Publisher)
+# ShapeRange.TextFrame property (Publisher)
 
 Returns a  **[TextFrame](Publisher.TextFrame.md)** object that represents the text in a shape and the properties that control the margins and orientation of the text.
 

@@ -42,7 +42,7 @@ The value of the  **HorizontalFlip** property can be one of these **MsoTriState*
 
 ## Example
 
-This example restores each shape on  `myDocument` to its original state, if it is been flipped horizontally or vertically.
+This example restores each shape on  _myDocument_ to its original state, if it is been flipped horizontally or vertically.
 
 
 ```vb

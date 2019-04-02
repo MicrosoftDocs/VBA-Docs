@@ -1,5 +1,5 @@
 ---
-title: Document.ActiveWindow Property (Publisher)
+title: Document.ActiveWindow property (Publisher)
 keywords: vbapb10.chm196611
 f1_keywords:
 - vbapb10.chm196611
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ActiveWindow Property (Publisher)
+# Document.ActiveWindow property (Publisher)
 
 Returns a  **[Window](Publisher.Window.md)** object that represents the window with the focus. Because Microsoft Publisher only has one window, there is only one **Window** object to return.
 

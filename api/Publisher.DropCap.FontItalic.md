@@ -1,5 +1,5 @@
 ---
-title: DropCap.FontItalic Property (Publisher)
+title: DropCap.FontItalic property (Publisher)
 keywords: vbapb10.chm5505030
 f1_keywords:
 - vbapb10.chm5505030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropCap.FontItalic Property (Publisher)
+# DropCap.FontItalic property (Publisher)
 
 Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is italic. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.UndoClear Method (Publisher)
+title: Document.UndoClear method (Publisher)
 keywords: vbapb10.chm196705
 f1_keywords:
 - vbapb10.chm196705
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.UndoClear Method (Publisher)
+# Document.UndoClear method (Publisher)
 
 Clears the list of actions that can be undone for the specified publication. Corresponds to the list of items that appears when you click the arrow beside the  **Undo** button on the **Standard** toolbar.
 

@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.Item Method (Publisher)
+title: InlineShapes.Item method (Publisher)
 keywords: vbapb10.chm5767168
 f1_keywords:
 - vbapb10.chm5767168
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InlineShapes.Item Method (Publisher)
+# InlineShapes.Item method (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents an inline shape contained in a text range. This method is the default member of the **InlineShapes** collection.
 

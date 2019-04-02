@@ -1,5 +1,5 @@
 ---
-title: Printer.Index Property (Publisher)
+title: Printer.Index property (Publisher)
 keywords: vbapb10.chm8978432
 f1_keywords:
 - vbapb10.chm8978432
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Printer.Index Property (Publisher)
+# Printer.Index property (Publisher)
 
 Returns a  **Long** that represents the position of a particular printer in a specified printer collection.
 

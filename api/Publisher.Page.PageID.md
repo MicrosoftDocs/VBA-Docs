@@ -1,5 +1,5 @@
 ---
-title: Page.PageID Property (Publisher)
+title: Page.PageID property (Publisher)
 keywords: vbapb10.chm393223
 f1_keywords:
 - vbapb10.chm393223
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.PageID Property (Publisher)
+# Page.PageID property (Publisher)
 
 Returns a  **Long** indicating the unique identifier for a page in a publication. Read-only.
 

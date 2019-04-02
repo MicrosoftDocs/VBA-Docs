@@ -1,5 +1,5 @@
 ---
-title: Story.TextRange Property (Publisher)
+title: Story.TextRange property (Publisher)
 keywords: vbapb10.chm5832712
 f1_keywords:
 - vbapb10.chm5832712
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Story.TextRange Property (Publisher)
+# Story.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
 

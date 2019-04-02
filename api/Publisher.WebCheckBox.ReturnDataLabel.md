@@ -1,5 +1,5 @@
 ---
-title: WebCheckBox.ReturnDataLabel Property (Publisher)
+title: WebCheckBox.ReturnDataLabel property (Publisher)
 keywords: vbapb10.chm4325379
 f1_keywords:
 - vbapb10.chm4325379
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCheckBox.ReturnDataLabel Property (Publisher)
+# WebCheckBox.ReturnDataLabel property (Publisher)
 
 Returns or sets a  **String** that represents the text used by the Web page to label the specified Web object when the page is submitted. Read/write.
 

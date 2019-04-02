@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.PrintRegistrationMarks Property (Publisher)
+title: AdvancedPrintOptions.PrintRegistrationMarks property (Publisher)
 keywords: vbapb10.chm7077896
 f1_keywords:
 - vbapb10.chm7077896
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.PrintRegistrationMarks Property (Publisher)
+# AdvancedPrintOptions.PrintRegistrationMarks property (Publisher)
 
  **True** to print registration marks for the specified publication. The default is **True**. Read/write  **Boolean**.
 

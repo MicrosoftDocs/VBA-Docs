@@ -42,7 +42,7 @@ The value of the  **FontBold** property can be one of these **MsoTriState** cons
 
 ## Example
 
-This example sets the font to bold for shape three on  `myDocument` if the shape is WordArt.
+This example sets the font to bold for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb

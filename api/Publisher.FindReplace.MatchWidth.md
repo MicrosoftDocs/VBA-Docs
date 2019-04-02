@@ -1,5 +1,5 @@
 ---
-title: FindReplace.MatchWidth Property (Publisher)
+title: FindReplace.MatchWidth property (Publisher)
 keywords: vbapb10.chm8323084
 f1_keywords:
 - vbapb10.chm8323084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.MatchWidth Property (Publisher)
+# FindReplace.MatchWidth property (Publisher)
 
 Sets or returns a  **Boolean** representing whether or not a search operation will match the character width of the searched text. Read/Write.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell.MarginLeft Property (Publisher)
+title: Cell.MarginLeft property (Publisher)
 keywords: vbapb10.chm5111827
 f1_keywords:
 - vbapb10.chm5111827
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.MarginLeft Property (Publisher)
+# Cell.MarginLeft property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the left edge of a cell, text frame, or page. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment Object (Publisher)
+title: Attachment object (Publisher)
 keywords: vbapb10.chm9240575
 f1_keywords:
 - vbapb10.chm9240575
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment Object (Publisher)
+# Attachment object (Publisher)
 
 Represents an attachment to a merged email message.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Selection Property (Publisher)
+title: Application.Selection property (Publisher)
 keywords: vbapb10.chm131109
 f1_keywords:
 - vbapb10.chm131109
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Selection Property (Publisher)
+# Application.Selection property (Publisher)
 
 Returns a  **[Selection](Publisher.Selection.md)** object that represents a selected range or the cursor.
 

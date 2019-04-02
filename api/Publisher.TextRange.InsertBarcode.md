@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertBarcode Method (Publisher)
+title: TextRange.InsertBarcode method (Publisher)
 keywords: vbapb10.chm5308502
 f1_keywords:
 - vbapb10.chm5308502
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InsertBarcode Method (Publisher)
+# TextRange.InsertBarcode method (Publisher)
 
 Inserts a bar code field at the end of the text range represented by the parent  **TextRange** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.GroupItems Property (Publisher)
+title: ShapeRange.GroupItems property (Publisher)
 keywords: vbapb10.chm2293816
 f1_keywords:
 - vbapb10.chm2293816
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.GroupItems Property (Publisher)
+# ShapeRange.GroupItems property (Publisher)
 
 Returns a  **[GroupShapes](Publisher.GroupShapes.md)** collection if the specified shape is a group.
 

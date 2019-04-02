@@ -1,5 +1,5 @@
 ---
-title: Application.Assistance Property (Publisher)
+title: Application.Assistance property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.Application.Assistance
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Assistance Property (Publisher)
+# Application.Assistance property (Publisher)
 
 Gets a reference to the Microsoft Office (MSO) **IAssistance** object, which provides a means for developers to create a customized Help experience for users within Microsoft Office. Read-only.
 

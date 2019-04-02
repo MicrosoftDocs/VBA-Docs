@@ -1,5 +1,5 @@
 ---
-title: PrintableRect.Parent Property (Publisher)
+title: PrintableRect.Parent property (Publisher)
 keywords: vbapb10.chm7536641
 f1_keywords:
 - vbapb10.chm7536641
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintableRect.Parent Property (Publisher)
+# PrintableRect.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. Read-only.
 

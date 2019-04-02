@@ -24,7 +24,7 @@ You cannot apply three-dimensional formatting to some kinds of shapes, such as b
 
 ## Example
 
-Use the  **ThreeD** property to return a **ThreeDFormat** object. The following example adds an oval to `myDocument` and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
+Use the  **ThreeD** property to return a **ThreeDFormat** object. The following example adds an oval to _myDocument_ and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
 
 
 ```vb

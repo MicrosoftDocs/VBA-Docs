@@ -47,7 +47,7 @@ The  _SegmentType_ parameter value can be one of these **MsoSegmentType** consta
 
 ## Example
 
-This example changes all straight segments to curved segments in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all straight segments to curved segments in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

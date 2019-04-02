@@ -1,5 +1,5 @@
 ---
-title: Table Object (Publisher)
+title: Table object (Publisher)
 keywords: vbapb10.chm4849663
 f1_keywords:
 - vbapb10.chm4849663
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table Object (Publisher)
+# Table object (Publisher)
 
 Represents a single table.
 

@@ -1,5 +1,5 @@
 ---
-title: PrintableRect.Width Property (Publisher)
+title: PrintableRect.Width property (Publisher)
 keywords: vbapb10.chm7536645
 f1_keywords:
 - vbapb10.chm7536645
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintableRect.Width Property (Publisher)
+# PrintableRect.Width property (Publisher)
 
 Returns a  **Single** that represents the printable rectangle. Read-only.
 

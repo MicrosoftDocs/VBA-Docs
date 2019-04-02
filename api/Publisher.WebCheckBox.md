@@ -1,5 +1,5 @@
 ---
-title: WebCheckBox Object (Publisher)
+title: WebCheckBox object (Publisher)
 keywords: vbapb10.chm4390911
 f1_keywords:
 - vbapb10.chm4390911
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCheckBox Object (Publisher)
+# WebCheckBox object (Publisher)
 
 Represents a Web check box control. The  **WebCheckBox** object is a member of the **Shape** object.
  

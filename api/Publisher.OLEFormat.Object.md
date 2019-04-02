@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Object Property (Publisher)
+title: OLEFormat.Object property (Publisher)
 keywords: vbapb10.chm4456451
 f1_keywords:
 - vbapb10.chm4456451
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.Object Property (Publisher)
+# OLEFormat.Object property (Publisher)
 
 Returns an  **Object** that represents the specified OLE object's top-level interface. This property allows you to access the properties and methods of an ActiveX control or the application in which an OLE object was created. The OLE object must support OLE Automation for this property to work. Read-only.
 

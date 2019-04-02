@@ -1,5 +1,5 @@
 ---
-title: Story.Type Property (Publisher)
+title: Story.Type property (Publisher)
 keywords: vbapb10.chm5832711
 f1_keywords:
 - vbapb10.chm5832711
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Story.Type Property (Publisher)
+# Story.Type property (Publisher)
 
 Specifies the type of story. Read-only.
 

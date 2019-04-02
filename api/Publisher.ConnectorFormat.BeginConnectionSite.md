@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnectionSite Property (Publisher)
+title: ConnectorFormat.BeginConnectionSite property (Publisher)
 keywords: vbapb10.chm3211522
 f1_keywords:
 - vbapb10.chm3211522
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnectionSite Property (Publisher)
+# ConnectorFormat.BeginConnectionSite property (Publisher)
 
 Returns a  **Long** indicating the connection site to which the beginning of a connector is connected. Read-only.
 

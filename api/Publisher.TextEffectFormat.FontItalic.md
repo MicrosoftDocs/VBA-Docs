@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontItalic Property (Publisher)
+title: TextEffectFormat.FontItalic property (Publisher)
 keywords: vbapb10.chm3735810
 f1_keywords:
 - vbapb10.chm3735810
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontItalic Property (Publisher)
+# TextEffectFormat.FontItalic property (Publisher)
 
 Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is italic. Read/write.
 

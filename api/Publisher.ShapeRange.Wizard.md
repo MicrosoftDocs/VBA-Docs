@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Wizard Property (Publisher)
+title: ShapeRange.Wizard property (Publisher)
 keywords: vbapb10.chm2294021
 f1_keywords:
 - vbapb10.chm2294021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Wizard Property (Publisher)
+# ShapeRange.Wizard property (Publisher)
 
 Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
 

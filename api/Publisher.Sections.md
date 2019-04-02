@@ -1,5 +1,5 @@
 ---
-title: Sections Object (Publisher)
+title: Sections object (Publisher)
 keywords: vbapb10.chm7405567
 f1_keywords:
 - vbapb10.chm7405567
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sections Object (Publisher)
+# Sections object (Publisher)
 
 A collection of all the  **Section** objects in the document.
  

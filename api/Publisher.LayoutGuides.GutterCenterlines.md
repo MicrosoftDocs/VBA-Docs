@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.GutterCenterlines Property (Publisher)
+title: LayoutGuides.GutterCenterlines property (Publisher)
 keywords: vbapb10.chm1114130
 f1_keywords:
 - vbapb10.chm1114130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LayoutGuides.GutterCenterlines Property (Publisher)
+# LayoutGuides.GutterCenterlines property (Publisher)
 
 Returns or sets a value that specifies whether to add a center line between the columns and rows of the gutter guides in a master page. Read/write  **Boolean**.
 

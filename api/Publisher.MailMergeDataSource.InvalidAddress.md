@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.InvalidAddress Property (Publisher)
+title: MailMergeDataSource.InvalidAddress property (Publisher)
 keywords: vbapb10.chm6291472
 f1_keywords:
 - vbapb10.chm6291472
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.InvalidAddress Property (Publisher)
+# MailMergeDataSource.InvalidAddress property (Publisher)
 
  **True** to mark a record in a mail merge data source if it contains invalid data. Read/write **Boolean**.
 

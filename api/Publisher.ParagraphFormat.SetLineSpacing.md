@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SetLineSpacing Method (Publisher)
+title: ParagraphFormat.SetLineSpacing method (Publisher)
 keywords: vbapb10.chm5439511
 f1_keywords:
 - vbapb10.chm5439511
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.SetLineSpacing Method (Publisher)
+# ParagraphFormat.SetLineSpacing method (Publisher)
 
 Formats the line spacing of specified paragraphs.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataField Object (Publisher)
+title: MailMergeMappedDataField object (Publisher)
 keywords: vbapb10.chm6619135
 f1_keywords:
 - vbapb10.chm6619135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataField Object (Publisher)
+# MailMergeMappedDataField object (Publisher)
 
 Represents a single mapped data field. The  **MailMergeMappedDataField** object is a member of the **[MailMergeMappedDataFields](Publisher.MailMergeMappedDataFields.md)** collection. A mapped data field is a field contained within Microsoft Publisher that represents commonly used name or address information, such as First Name. If a data source contains a First Name field or a variation (such as First_Name, FirstName, First, or FName), the field in the data source will automatically map to the corresponding mapped data field. If a publication is to be merged with more than one data source, mapped data fields make it unnecessary to reenter the fields into the publication to agree with the field names in the database.
  

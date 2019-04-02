@@ -1,5 +1,5 @@
 ---
-title: Application.ChangeFileOpenDirectory Method (Publisher)
+title: Application.ChangeFileOpenDirectory method (Publisher)
 keywords: vbapb10.chm131124
 f1_keywords:
 - vbapb10.chm131124
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ChangeFileOpenDirectory Method (Publisher)
+# Application.ChangeFileOpenDirectory method (Publisher)
 
 Sets the folder in which Microsoft Publisher searches for documents. The specified folder's contents are listed the next time the  **Open Publication** dialog box (**File** menu) is displayed.
 

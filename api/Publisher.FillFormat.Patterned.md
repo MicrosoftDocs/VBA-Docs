@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Patterned Method (Publisher)
+title: FillFormat.Patterned method (Publisher)
 keywords: vbapb10.chm2359314
 f1_keywords:
 - vbapb10.chm2359314
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Patterned Method (Publisher)
+# FillFormat.Patterned method (Publisher)
 
 Sets the specified fill to a pattern.
 

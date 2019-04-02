@@ -36,7 +36,7 @@ The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightes
 
 ## Example
 
-This example sets the brightness for shape one on  `myDocument`. Shape one must be either a picture or an OLE object.
+This example sets the brightness for shape one on  _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb

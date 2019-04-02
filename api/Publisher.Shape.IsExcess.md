@@ -1,5 +1,5 @@
 ---
-title: Shape.IsExcess Property (Publisher)
+title: Shape.IsExcess property (Publisher)
 keywords: vbapb10.chm2228377
 f1_keywords:
 - vbapb10.chm2228377
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.IsExcess Property (Publisher)
+# Shape.IsExcess property (Publisher)
 
 Indicates whether the parent  **Shape** object is an excess shape after the document template (wizard) is changed by using the ** [Document.ChangeDocument](Publisher.Document.ChangeDocument.md)** method or by using the **Change Template** command in the user interface. Microsoft Publisher places any excess shape under **Extra Content** in the **Format Publication** task pane. Read-only.
 

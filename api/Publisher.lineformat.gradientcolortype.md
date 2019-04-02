@@ -1,5 +1,5 @@
 ---
-title: LineFormat.GradientColorType Property (Publisher)
+title: LineFormat.GradientColorType property (Publisher)
 keywords: vbapb10.chm3408150
 f1_keywords:
 - vbapb10.chm3408150
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.GradientColorType Property (Publisher)
+# LineFormat.GradientColorType property (Publisher)
 
 Returns the gradient color type for the specified line. Read-only.
 

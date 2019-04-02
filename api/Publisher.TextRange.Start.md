@@ -1,5 +1,5 @@
 ---
-title: TextRange.Start Property (Publisher)
+title: TextRange.Start property (Publisher)
 keywords: vbapb10.chm5308433
 f1_keywords:
 - vbapb10.chm5308433
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Start Property (Publisher)
+# TextRange.Start property (Publisher)
 
 Returns or sets a  **Long** that represents the starting character position of a text range. Read/write.
 

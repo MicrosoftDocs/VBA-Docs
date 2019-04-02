@@ -1,5 +1,5 @@
 ---
-title: TextRange.Select Method (Publisher)
+title: TextRange.Select method (Publisher)
 keywords: vbapb10.chm5308457
 f1_keywords:
 - vbapb10.chm5308457
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Select Method (Publisher)
+# TextRange.Select method (Publisher)
 
 Selects the specified object.
 

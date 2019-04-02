@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToMillimeters Method (Publisher)
+title: Application.PointsToMillimeters method (Publisher)
 keywords: vbapb10.chm131159
 f1_keywords:
 - vbapb10.chm131159
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PointsToMillimeters Method (Publisher)
+# Application.PointsToMillimeters method (Publisher)
 
 Converts a measurement from points to millimeters (1 mm = 2.835 points). Returns the converted measurement as a  **Single**.
 

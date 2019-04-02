@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat
 
 ## Example
 
-The following example sets the brightness for shape one on  `myDocument`. Shape one must be either a picture or an OLE object.
+The following example sets the brightness for shape one on  _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb

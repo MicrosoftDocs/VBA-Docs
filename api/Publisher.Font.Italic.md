@@ -1,5 +1,5 @@
 ---
-title: Font.Italic Property (Publisher)
+title: Font.Italic property (Publisher)
 keywords: vbapb10.chm5373968
 f1_keywords:
 - vbapb10.chm5373968
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Italic Property (Publisher)
+# Font.Italic property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as italic. Read/write.
 

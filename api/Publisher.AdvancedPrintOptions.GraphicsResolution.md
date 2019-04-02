@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.GraphicsResolution Property (Publisher)
+title: AdvancedPrintOptions.GraphicsResolution property (Publisher)
 keywords: vbapb10.chm7077909
 f1_keywords:
 - vbapb10.chm7077909
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.GraphicsResolution Property (Publisher)
+# AdvancedPrintOptions.GraphicsResolution property (Publisher)
 
 Returns or sets a  **PbPrintGraphics** constant representing the resolution at which the inserted graphics are to be printed in the specified publication. Read/write.
 

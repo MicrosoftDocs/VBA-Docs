@@ -1,5 +1,5 @@
 ---
-title: LineFormat.InsetPen Property (Publisher)
+title: LineFormat.InsetPen property (Publisher)
 keywords: vbapb10.chm3408148
 f1_keywords:
 - vbapb10.chm3408148
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.InsetPen Property (Publisher)
+# LineFormat.InsetPen property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether a specified shape's lines are drawn inside its boundaries. Read/write.
 

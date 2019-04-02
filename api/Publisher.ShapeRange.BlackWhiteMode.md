@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.BlackWhiteMode Property (Publisher)
+title: ShapeRange.BlackWhiteMode property (Publisher)
 keywords: vbapb10.chm2293872
 f1_keywords:
 - vbapb10.chm2293872
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.BlackWhiteMode Property (Publisher)
+# ShapeRange.BlackWhiteMode property (Publisher)
 
 Returns or sets an  **MsoBlackWhiteMode**constant indicating how the specified shape or shape range appears when the publication is viewed in black-and-white mode. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ThreeD Property (Publisher)
+title: ShapeRange.ThreeD property (Publisher)
 keywords: vbapb10.chm2293841
 f1_keywords:
 - vbapb10.chm2293841
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ThreeD Property (Publisher)
+# ShapeRange.ThreeD property (Publisher)
 
 Returns a  **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: DropCap.LinesUp Property (Publisher)
+title: DropCap.LinesUp property (Publisher)
 keywords: vbapb10.chm5505031
 f1_keywords:
 - vbapb10.chm5505031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropCap.LinesUp Property (Publisher)
+# DropCap.LinesUp property (Publisher)
 
 Returns or sets a  **Long** that represents the number of lines an initial dropped capital letter is raised above the line of text on which it exists. Read/write.
 

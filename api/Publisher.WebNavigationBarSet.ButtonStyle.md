@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.ButtonStyle Property (Publisher)
+title: WebNavigationBarSet.ButtonStyle property (Publisher)
 keywords: vbapb10.chm8519685
 f1_keywords:
 - vbapb10.chm8519685
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.ButtonStyle Property (Publisher)
+# WebNavigationBarSet.ButtonStyle property (Publisher)
 
 Sets or returns a  **PbWizardNavBarButtonStyle** constant that represents the style of the navigation bar buttons: large, small, or text-only. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PageSize Property (Publisher)
+title: PageSetup.PageSize property (Publisher)
 keywords: vbapb10.chm6946850
 f1_keywords:
 - vbapb10.chm6946850
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.PageSize Property (Publisher)
+# PageSetup.PageSize property (Publisher)
 
 Gets or sets the blank page size for the current publication. Read/write.
 

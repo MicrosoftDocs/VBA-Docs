@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToPixels Method (Publisher)
+title: Application.PointsToPixels method (Publisher)
 keywords: vbapb10.chm131161
 f1_keywords:
 - vbapb10.chm131161
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PointsToPixels Method (Publisher)
+# Application.PointsToPixels method (Publisher)
 
 Converts a measurement from points to pixels (1 pixel = 0.75 points). Returns the converted measurement as a  **Single**.
 

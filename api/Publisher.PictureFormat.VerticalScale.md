@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.VerticalScale Property (Publisher)
+title: PictureFormat.VerticalScale property (Publisher)
 keywords: vbapb10.chm3604784
 f1_keywords:
 - vbapb10.chm3604784
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.VerticalScale Property (Publisher)
+# PictureFormat.VerticalScale property (Publisher)
 
 Returns a  **Long** that represents the scaling of the picture along its vertical axis. The scaling is expressed as a percentage (for example, 200 equals 200 percent scaling). Read-only.
 

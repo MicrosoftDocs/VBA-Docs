@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Type Property (Publisher)
+title: FillFormat.Type property (Publisher)
 keywords: vbapb10.chm2359570
 f1_keywords:
 - vbapb10.chm2359570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Type Property (Publisher)
+# FillFormat.Type property (Publisher)
 
 Returns an  **MsoFillType** constant that represents the fill format type of a shape. Read-only.
 

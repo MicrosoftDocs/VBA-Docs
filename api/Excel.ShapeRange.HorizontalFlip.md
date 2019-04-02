@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) obje
 
 ## Example
 
-This example restores each shape on  `myDocument` to its original state if it's been flipped horizontally or vertically.
+This example restores each shape on  _myDocument_ to its original state if it's been flipped horizontally or vertically.
 
 
 ```vb

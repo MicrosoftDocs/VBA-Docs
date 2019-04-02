@@ -1,5 +1,5 @@
 ---
-title: Plate.Index Property (Publisher)
+title: Plate.Index property (Publisher)
 keywords: vbapb10.chm2883589
 f1_keywords:
 - vbapb10.chm2883589
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plate.Index Property (Publisher)
+# Plate.Index property (Publisher)
 
 Returns a  **Long** that represents the position of a particular item in a specified collection. .
 

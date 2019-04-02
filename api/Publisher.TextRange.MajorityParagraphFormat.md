@@ -1,5 +1,5 @@
 ---
-title: TextRange.MajorityParagraphFormat Property (Publisher)
+title: TextRange.MajorityParagraphFormat property (Publisher)
 keywords: vbapb10.chm5308468
 f1_keywords:
 - vbapb10.chm5308468
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.MajorityParagraphFormat Property (Publisher)
+# TextRange.MajorityParagraphFormat property (Publisher)
 
 Returns a  **[ParagraphFormat](Publisher.ParagraphFormat.md)** object that represents the paragraph formatting applied to most of the paragraphs in a text range.
 

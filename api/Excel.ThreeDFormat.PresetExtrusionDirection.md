@@ -45,7 +45,7 @@ This property is read-only. To set the value of this property, use the  **[SetEx
 
 ## Example
 
-This example changes each extrusion on  `myDocument` that extends toward the upper-left corner of the extrusion's front face to an extrusion that extends toward the lower-right corner of the front face.
+This example changes each extrusion on  _myDocument_ that extends toward the upper-left corner of the extrusion's front face to an extrusion that extends toward the lower-right corner of the front face.
 
 
 ```vb

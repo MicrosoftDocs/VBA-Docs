@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.Cc Property (Publisher)
+title: EmailMergeEnvelope.Cc property (Publisher)
 keywords: vbapb10.chm9043972
 f1_keywords:
 - vbapb10.chm9043972
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.Cc Property (Publisher)
+# EmailMergeEnvelope.Cc property (Publisher)
 
 Gets or sets the  **MailMergeDataField** object that represents the data-source field (column) that lists the email addresses of recipients you want to receive a carbon copy (CC) of the merged email message. Read/write.
 

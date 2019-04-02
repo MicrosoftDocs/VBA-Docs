@@ -1,5 +1,5 @@
 ---
-title: WizardValues.Item Property (Publisher)
+title: WizardValues.Item property (Publisher)
 keywords: vbapb10.chm1638400
 f1_keywords:
 - vbapb10.chm1638400
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WizardValues.Item Property (Publisher)
+# WizardValues.Item property (Publisher)
 
 Returns an individual object from a specified collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.PickUp Method (Publisher)
+title: Shape.PickUp method (Publisher)
 keywords: vbapb10.chm2228259
 f1_keywords:
 - vbapb10.chm2228259
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.PickUp Method (Publisher)
+# Shape.PickUp method (Publisher)
 
 Copies formatting from a shape or shape range so that it can be copied to another shape or shape range using the  **[Apply](Publisher.ShapeRange.Apply.md)** method.
 

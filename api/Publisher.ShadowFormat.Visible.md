@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Visible Property (Publisher)
+title: ShadowFormat.Visible property (Publisher)
 keywords: vbapb10.chm3670278
 f1_keywords:
 - vbapb10.chm3670278
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Visible Property (Publisher)
+# ShadowFormat.Visible property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 

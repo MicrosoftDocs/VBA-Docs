@@ -1,5 +1,5 @@
 ---
-title: Printer.DriverType Property (Publisher)
+title: Printer.DriverType property (Publisher)
 keywords: vbapb10.chm8978435
 f1_keywords:
 - vbapb10.chm8978435
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Printer.DriverType Property (Publisher)
+# Printer.DriverType property (Publisher)
 
 Specifies the type of driver supported by the printer. Read-only.
 

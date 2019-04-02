@@ -1,5 +1,5 @@
 ---
-title: Document.FindShapesByTag Method (Publisher)
+title: Document.FindShapesByTag method (Publisher)
 keywords: vbapb10.chm196689
 f1_keywords:
 - vbapb10.chm196689
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.FindShapesByTag Method (Publisher)
+# Document.FindShapesByTag method (Publisher)
 
 Returns a  **[ShapeRange](Publisher.ShapeRange.md)** object that represents the shapes with the specified tag.
 

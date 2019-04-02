@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.SegmentType Property (Publisher)
+title: ShapeNode.SegmentType property (Publisher)
 keywords: vbapb10.chm3539202
 f1_keywords:
 - vbapb10.chm3539202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode.SegmentType Property (Publisher)
+# ShapeNode.SegmentType property (Publisher)
 
 Returns an  **MsoSegmentType** constant that indicates whether the segment associated with the specified node is straight or curved. Read-only.
 

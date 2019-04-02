@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineSpacingRule Property (Publisher)
+title: ParagraphFormat.LineSpacingRule property (Publisher)
 keywords: vbapb10.chm5439505
 f1_keywords:
 - vbapb10.chm5439505
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LineSpacingRule Property (Publisher)
+# ParagraphFormat.LineSpacingRule property (Publisher)
 
 Returns or sets a  **PbLineSpacingRule** that represents the line spacing for the specified paragraphs. Read/write.
 

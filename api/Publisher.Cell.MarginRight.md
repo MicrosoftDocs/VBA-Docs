@@ -1,5 +1,5 @@
 ---
-title: Cell.MarginRight Property (Publisher)
+title: Cell.MarginRight property (Publisher)
 keywords: vbapb10.chm5111828
 f1_keywords:
 - vbapb10.chm5111828
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.MarginRight Property (Publisher)
+# Cell.MarginRight property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the right edge of a cell, text frame, or page. Read/write.
 

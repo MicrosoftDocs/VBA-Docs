@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PageHeight Property (Publisher)
+title: PageSetup.PageHeight property (Publisher)
 keywords: vbapb10.chm6946821
 f1_keywords:
 - vbapb10.chm6946821
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.PageHeight Property (Publisher)
+# PageSetup.PageHeight property (Publisher)
 
 Returns or sets a  **Variant** that represents the height of the pages in a publication. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell.Split Method (Publisher)
+title: Cell.Split method (Publisher)
 keywords: vbapb10.chm5111844
 f1_keywords:
 - vbapb10.chm5111844
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Split Method (Publisher)
+# Cell.Split method (Publisher)
 
 Splits a merged table cell back into its constituent cells. Returns a  **[CellRange](Publisher.CellRange.md)** object representing the constituent cells.
 

@@ -31,7 +31,7 @@ If you set the value of this property to anything other than  **msoCalloutAngleA
 
 ## Example
 
-This example sets to 90 degrees the callout angle for a callout named "callout1" on  `myDocument`.
+This example sets to 90 degrees the callout angle for a callout named "callout1" on  _myDocument_.
 
 
 ```vb

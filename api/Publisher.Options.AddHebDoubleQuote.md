@@ -1,5 +1,5 @@
 ---
-title: Options.AddHebDoubleQuote Property (Publisher)
+title: Options.AddHebDoubleQuote property (Publisher)
 keywords: vbapb10.chm1048629
 f1_keywords:
 - vbapb10.chm1048629
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.AddHebDoubleQuote Property (Publisher)
+# Options.AddHebDoubleQuote property (Publisher)
 
  **True** for Microsoft Publisher to display double quotes for Hebrew alphabet numbering. Default is **False**. Read/write  **Boolean**.
 

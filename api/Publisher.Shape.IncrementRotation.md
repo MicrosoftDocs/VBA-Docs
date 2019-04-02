@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementRotation Method (Publisher)
+title: Shape.IncrementRotation method (Publisher)
 keywords: vbapb10.chm2228257
 f1_keywords:
 - vbapb10.chm2228257
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.IncrementRotation Method (Publisher)
+# Shape.IncrementRotation method (Publisher)
 
 Changes the rotation of the specified shape around the z-axis (extends outward from the plane of the publication) by the specified number of degrees.
 

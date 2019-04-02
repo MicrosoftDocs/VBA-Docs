@@ -1,5 +1,5 @@
 ---
-title: Page.IsLeading Property (Publisher)
+title: Page.IsLeading property (Publisher)
 keywords: vbapb10.chm131102
 f1_keywords:
 - vbapb10.chm131102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.IsLeading Property (Publisher)
+# Page.IsLeading property (Publisher)
 
  **True** if the specified **Page** object is a leading page of a two-page spread. Read-only **Boolean**.
 

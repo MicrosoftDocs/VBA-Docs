@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.AddToRecipientFields Method (Publisher)
+title: MailMergeDataField.AddToRecipientFields method (Publisher)
 keywords: vbapb10.chm6422562
 f1_keywords:
 - vbapb10.chm6422562
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataField.AddToRecipientFields Method (Publisher)
+# MailMergeDataField.AddToRecipientFields method (Publisher)
 
 Adds the parent  **MailMergeDataField** object from a particular data source to the master data source (collection of data fields) for a mail-merge publication.
 

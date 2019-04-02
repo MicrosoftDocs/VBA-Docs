@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat Object (Publisher)
+title: CalloutFormat object (Publisher)
 keywords: vbapb10.chm2555903
 f1_keywords:
 - vbapb10.chm2555903
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat Object (Publisher)
+# CalloutFormat object (Publisher)
 
 Contains properties and methods that apply to line callouts.
  

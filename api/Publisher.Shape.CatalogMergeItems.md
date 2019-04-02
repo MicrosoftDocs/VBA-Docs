@@ -1,5 +1,5 @@
 ---
-title: Shape.CatalogMergeItems Property (Publisher)
+title: Shape.CatalogMergeItems property (Publisher)
 keywords: vbapb10.chm5308690
 f1_keywords:
 - vbapb10.chm5308690
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.CatalogMergeItems Property (Publisher)
+# Shape.CatalogMergeItems property (Publisher)
 
 Returns a  **CatalogMergeShapes** collection that represents the shapes included in the catalog merge area. Read-only.
 

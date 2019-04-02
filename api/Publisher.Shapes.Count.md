@@ -1,5 +1,5 @@
 ---
-title: Shapes.Count Property (Publisher)
+title: Shapes.Count property (Publisher)
 keywords: vbapb10.chm2162691
 f1_keywords:
 - vbapb10.chm2162691
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Count Property (Publisher)
+# Shapes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

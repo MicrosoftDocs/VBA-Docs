@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Count Property (Publisher)
+title: ShapeRange.Count property (Publisher)
 keywords: vbapb10.chm2293763
 f1_keywords:
 - vbapb10.chm2293763
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Count Property (Publisher)
+# ShapeRange.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

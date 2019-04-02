@@ -1,5 +1,5 @@
 ---
-title: Document.PrintOutEx Method (Publisher)
+title: Document.PrintOutEx method (Publisher)
 keywords: vbapb10.chm196755
 f1_keywords:
 - vbapb10.chm196755
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintOutEx Method (Publisher)
+# Document.PrintOutEx method (Publisher)
 
 Prints all or part of the specified publication.
 

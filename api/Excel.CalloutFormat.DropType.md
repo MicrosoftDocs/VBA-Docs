@@ -42,7 +42,7 @@ This property is read-only. Use the  **[PresetDrop](Excel.CalloutFormat.PresetDr
 
 ## Example
 
-This example replaces the custom drop for shape one on  `myDocument` with one of two preset drops, depending on whether the custom drop value is greater than or less than half the height of the callout text box. For the example to work, shape one must be a callout.
+This example replaces the custom drop for shape one on  _myDocument_ with one of two preset drops, depending on whether the custom drop value is greater than or less than half the height of the callout text box. For the example to work, shape one must be a callout.
 
 
 ```vb

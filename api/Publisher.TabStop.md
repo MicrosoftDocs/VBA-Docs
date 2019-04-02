@@ -1,5 +1,5 @@
 ---
-title: TabStop Object (Publisher)
+title: TabStop object (Publisher)
 keywords: vbapb10.chm5701631
 f1_keywords:
 - vbapb10.chm5701631
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStop Object (Publisher)
+# TabStop object (Publisher)
 
 Represents a single tab stop. The  **TabStop** object is a member of the **[TabStops](Publisher.TabStops.md)** collection. The **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
  

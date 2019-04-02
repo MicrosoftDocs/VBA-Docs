@@ -1,5 +1,5 @@
 ---
-title: FindReplace.MatchKashida Property (Publisher)
+title: FindReplace.MatchKashida property (Publisher)
 keywords: vbapb10.chm8323082
 f1_keywords:
 - vbapb10.chm8323082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.MatchKashida Property (Publisher)
+# FindReplace.MatchKashida property (Publisher)
 
 Sets or returns a  **Boolean** representing whether or not a search operation will match kashidas. Read/write.
 

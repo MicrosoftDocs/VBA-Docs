@@ -1,5 +1,5 @@
 ---
-title: Shape.Rotation Property (Publisher)
+title: Shape.Rotation property (Publisher)
 keywords: vbapb10.chm2228294
 f1_keywords:
 - vbapb10.chm2228294
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Rotation Property (Publisher)
+# Shape.Rotation property (Publisher)
 
 Returns or sets a  **Single** that represents the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write.
 

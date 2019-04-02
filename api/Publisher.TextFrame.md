@@ -1,5 +1,5 @@
 ---
-title: TextFrame Object (Publisher)
+title: TextFrame object (Publisher)
 keywords: vbapb10.chm3932159
 f1_keywords:
 - vbapb10.chm3932159
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame Object (Publisher)
+# TextFrame object (Publisher)
 
 Represents the text frame in a  **[Shape](./Publisher.Shape.md)** object. Contains the text in the text frame and the properties that control the margins and orientation of the text frame.
 

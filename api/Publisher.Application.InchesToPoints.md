@@ -1,5 +1,5 @@
 ---
-title: Application.InchesToPoints Method (Publisher)
+title: Application.InchesToPoints method (Publisher)
 keywords: vbapb10.chm131143
 f1_keywords:
 - vbapb10.chm131143
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.InchesToPoints Method (Publisher)
+# Application.InchesToPoints method (Publisher)
 
 Converts a measurement from inches to points (1 inch = 72 points). Returns the converted measurement as a  **Single**.
 

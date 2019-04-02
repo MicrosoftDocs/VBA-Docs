@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetEditingType Method (Publisher)
+title: ShapeNodes.SetEditingType method (Publisher)
 keywords: vbapb10.chm3473427
 f1_keywords:
 - vbapb10.chm3473427
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetEditingType Method (Publisher)
+# ShapeNodes.SetEditingType method (Publisher)
 
 Sets the editing type of the specified node. If the node is a control point for a curved segment, this method sets the editing type of the node adjacent to it that joins two segments. Depending on the editing type, this method may affect the position of adjacent nodes.
 

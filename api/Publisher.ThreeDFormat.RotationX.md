@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationX Property (Publisher)
+title: ThreeDFormat.RotationX property (Publisher)
 keywords: vbapb10.chm3801353
 f1_keywords:
 - vbapb10.chm3801353
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.RotationX Property (Publisher)
+# ThreeDFormat.RotationX property (Publisher)
 
 Returns or sets the rotation of the extruded shape around the x-axis in degrees. Can be a value from - 90 through 90. A positive value indicates upward rotation; a negative value indicates downward rotation. Read/write  **Single**.
 

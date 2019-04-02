@@ -1,5 +1,5 @@
 ---
-title: Plate.Color Property (Publisher)
+title: Plate.Color property (Publisher)
 keywords: vbapb10.chm2883587
 f1_keywords:
 - vbapb10.chm2883587
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plate.Color Property (Publisher)
+# Plate.Color property (Publisher)
 
 Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the color information for the specified object.
 

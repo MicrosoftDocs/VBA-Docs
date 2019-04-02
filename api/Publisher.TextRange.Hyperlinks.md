@@ -1,5 +1,5 @@
 ---
-title: TextRange.Hyperlinks Property (Publisher)
+title: TextRange.Hyperlinks property (Publisher)
 keywords: vbapb10.chm5308485
 f1_keywords:
 - vbapb10.chm5308485
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Hyperlinks Property (Publisher)
+# TextRange.Hyperlinks property (Publisher)
 
 Returns a  **[Hyperlinks](Publisher.Hyperlinks.md)** collection representing all the hyperlinks in the specified text range.
 

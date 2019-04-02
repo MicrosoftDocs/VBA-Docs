@@ -1,5 +1,5 @@
 ---
-title: Document.SurplusShapes Property (Publisher)
+title: Document.SurplusShapes property (Publisher)
 keywords: vbapb10.chm196754
 f1_keywords:
 - vbapb10.chm196754
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SurplusShapes Property (Publisher)
+# Document.SurplusShapes property (Publisher)
 
 Returns a  **ShapeRange** object that represents the collection of surplus shapes that Microsoft Publisher places under **Extra Content**in the  **Format Publication** task pane after the document template (wizard) is changed by using the ** [Document.ChangeDocument](Publisher.Document.ChangeDocument.md)** method or by using the **Change Template** command in the user interface. Read-only.
 

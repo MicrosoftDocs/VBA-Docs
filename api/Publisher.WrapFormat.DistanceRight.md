@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceRight Property (Publisher)
+title: WrapFormat.DistanceRight property (Publisher)
 keywords: vbapb10.chm786441
 f1_keywords:
 - vbapb10.chm786441
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceRight Property (Publisher)
+# WrapFormat.DistanceRight property (Publisher)
 
 When the  **[Type](Publisher.WrapFormat.Type.md)** property of the **[WrapFormat](Publisher.WrapFormat.md)** object is set to **pbWrapTypeSquare**, returns or sets a  **Variant** that represents the distance (in points) between the document text and the right edge of the specified shape. Read/write.
 

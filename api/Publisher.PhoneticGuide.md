@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide Object (Publisher)
+title: PhoneticGuide object (Publisher)
 keywords: vbapb10.chm6225919
 f1_keywords:
 - vbapb10.chm6225919
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PhoneticGuide Object (Publisher)
+# PhoneticGuide object (Publisher)
 
 Represents base text with supplementary text appearing above it as a guide to pronunciation.
  

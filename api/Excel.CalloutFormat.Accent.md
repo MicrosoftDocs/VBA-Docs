@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[CalloutFormat](Excel.CalloutFormat.
 
 ## Example
 
-This example adds to  `myDocument` an oval and a callout that points to the oval. The callout text won't have a border, but it will have a vertical accent bar that separates the text from the callout line.
+This example adds to  _myDocument_ an oval and a callout that points to the oval. The callout text won't have a border, but it will have a vertical accent bar that separates the text from the callout line.
 
 
 ```vb

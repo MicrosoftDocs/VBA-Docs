@@ -1,5 +1,5 @@
 ---
-title: Page.SaveAsPicture Method (Publisher)
+title: Page.SaveAsPicture method (Publisher)
 keywords: vbapb10.chm393272
 f1_keywords:
 - vbapb10.chm393272
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.SaveAsPicture Method (Publisher)
+# Page.SaveAsPicture method (Publisher)
 
 Saves a page as a picture file.
 

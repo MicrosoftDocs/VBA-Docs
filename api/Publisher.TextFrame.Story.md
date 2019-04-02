@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Story Property (Publisher)
+title: TextFrame.Story property (Publisher)
 keywords: vbapb10.chm3866663
 f1_keywords:
 - vbapb10.chm3866663
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.Story Property (Publisher)
+# TextFrame.Story property (Publisher)
 
 Returns a  **Story** object that represents the story properties in a text range.
 

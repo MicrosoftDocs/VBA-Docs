@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ExportRecipientList Method (Publisher)
+title: MailMerge.ExportRecipientList method (Publisher)
 keywords: vbapb10.chm6225941
 f1_keywords:
 - vbapb10.chm6225941
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.ExportRecipientList Method (Publisher)
+# MailMerge.ExportRecipientList method (Publisher)
 
 Exports the list of mail-merge recipients to a Microsoft Office Access (.mdb) file or to a comma-delimited text (.csv) file.
 

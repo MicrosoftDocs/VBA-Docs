@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RemoveFromCatalogMergeArea Method (Publisher)
+title: ShapeRange.RemoveFromCatalogMergeArea method (Publisher)
 keywords: vbapb10.chm2294049
 f1_keywords:
 - vbapb10.chm2294049
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.RemoveFromCatalogMergeArea Method (Publisher)
+# ShapeRange.RemoveFromCatalogMergeArea method (Publisher)
 
 Removes a shape from the specified page's catalog merge area. Removed shapes are not deleted, but instead remain in place on the page containing the catalog merge area.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeNode Object (Publisher)
+title: ShapeNode object (Publisher)
 keywords: vbapb10.chm3604479
 f1_keywords:
 - vbapb10.chm3604479
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode Object (Publisher)
+# ShapeNode object (Publisher)
 
 Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform. Nodes include the vertices between the segments of the freeform and the control points for curved segments. The  **ShapeNode** object is a member of the **[ShapeNodes](Publisher.ShapeNodes.md)** collection. The **ShapeNodes** collection contains all the nodes in a freeform.
  

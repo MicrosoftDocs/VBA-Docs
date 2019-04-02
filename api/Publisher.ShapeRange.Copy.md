@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Copy Method (Publisher)
+title: ShapeRange.Copy method (Publisher)
 keywords: vbapb10.chm2293778
 f1_keywords:
 - vbapb10.chm2293778
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Copy Method (Publisher)
+# ShapeRange.Copy method (Publisher)
 
 Copies the specified object to the Clipboard.
 

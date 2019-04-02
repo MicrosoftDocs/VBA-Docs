@@ -45,7 +45,7 @@ The value returned by the  **GradientColorType** property can be one of these **
 
 ## Example
 
-This example changes the fill for all shapes in  `myDocument` that have a two-color gradient fill to a preset gradient fill.
+This example changes the fill for all shapes in  _myDocument_ that have a two-color gradient fill to a preset gradient fill.
 
 
 ```vb

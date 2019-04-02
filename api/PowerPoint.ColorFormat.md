@@ -45,7 +45,7 @@ Use the [SchemeColor](PowerPoint.ColorFormat.SchemeColor.md) property to set the
 ActivePresentation.Slides(2).Shapes(1).TextFrame.TextRange.Font.Color.SchemeColor = ppTitle
 ```
 
-Use the [RGB](PowerPoint.ColorFormat.RGB.md) property to set a color to an explicit red-green-blue value. The following example adds a rectangle to `myDocument` and then sets the foreground color, background color, and gradient for the rectangle's fill.
+Use the [RGB](PowerPoint.ColorFormat.RGB.md) property to set a color to an explicit red-green-blue value. The following example adds a rectangle to _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: InstalledPrinters.Application Property (Publisher)
+title: InstalledPrinters.Application property (Publisher)
 keywords: vbapb10.chm8912898
 f1_keywords:
 - vbapb10.chm8912898
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InstalledPrinters.Application Property (Publisher)
+# InstalledPrinters.Application property (Publisher)
 
 Returns an  **Application** object that represents the creator of the parent **InstalledPrinters** object. Read-only.
 

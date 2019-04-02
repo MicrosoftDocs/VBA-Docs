@@ -1,5 +1,5 @@
 ---
-title: BorderArt.Parent Property (Publisher)
+title: BorderArt.Parent property (Publisher)
 keywords: vbapb10.chm7667714
 f1_keywords:
 - vbapb10.chm7667714
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BorderArt.Parent Property (Publisher)
+# BorderArt.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 

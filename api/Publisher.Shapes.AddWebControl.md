@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddWebControl Method (Publisher)
+title: Shapes.AddWebControl method (Publisher)
 keywords: vbapb10.chm2162722
 f1_keywords:
 - vbapb10.chm2162722
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddWebControl Method (Publisher)
+# Shapes.AddWebControl method (Publisher)
 
 Adds a new  **Shape** object representing a Web form control to the specified **Shapes** collection.
 

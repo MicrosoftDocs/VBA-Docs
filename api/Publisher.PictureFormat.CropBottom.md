@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropBottom Property (Publisher)
+title: PictureFormat.CropBottom property (Publisher)
 keywords: vbapb10.chm3604739
 f1_keywords:
 - vbapb10.chm3604739
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.CropBottom Property (Publisher)
+# PictureFormat.CropBottom property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount by which the bottom edge of a picture or OLE object is cropped. Read/write.
 

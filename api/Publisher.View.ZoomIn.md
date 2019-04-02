@@ -1,5 +1,5 @@
 ---
-title: View.ZoomIn Method (Publisher)
+title: View.ZoomIn method (Publisher)
 keywords: vbapb10.chm327686
 f1_keywords:
 - vbapb10.chm327686
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.ZoomIn Method (Publisher)
+# View.ZoomIn method (Publisher)
 
 Increases the magnification of the specified view.
 

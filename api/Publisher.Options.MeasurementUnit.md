@@ -1,5 +1,5 @@
 ---
-title: Options.MeasurementUnit Property (Publisher)
+title: Options.MeasurementUnit property (Publisher)
 keywords: vbapb10.chm1048594
 f1_keywords:
 - vbapb10.chm1048594
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.MeasurementUnit Property (Publisher)
+# Options.MeasurementUnit property (Publisher)
 
 Returns or sets a  **PbUnitType** constant representing the standard measurement unit for Microsoft Publisher. Read/write.
 

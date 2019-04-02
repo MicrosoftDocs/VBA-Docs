@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Visible Property (Publisher)
+title: FillFormat.Visible property (Publisher)
 keywords: vbapb10.chm2359571
 f1_keywords:
 - vbapb10.chm2359571
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Visible Property (Publisher)
+# FillFormat.Visible property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 

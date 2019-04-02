@@ -1,5 +1,5 @@
 ---
-title: Selection.TableCellRange Property (Publisher)
+title: Selection.TableCellRange property (Publisher)
 keywords: vbapb10.chm851975
 f1_keywords:
 - vbapb10.chm851975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.TableCellRange Property (Publisher)
+# Selection.TableCellRange property (Publisher)
 
 Returns a  **CellRange** object that represents the cells in a table selection.
 

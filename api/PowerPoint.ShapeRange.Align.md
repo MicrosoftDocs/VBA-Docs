@@ -35,7 +35,7 @@ _expression_. `Align`( `_AlignCmd_`, `_RelativeTo_` )
 
 ## Example
 
-This example aligns the left edges of all the shapes in the specified range in  `myDocument` with the left edge of the leftmost shape in the range.
+This example aligns the left edges of all the shapes in the specified range in  _myDocument_ with the left edge of the leftmost shape in the range.
 
 
 ```vb

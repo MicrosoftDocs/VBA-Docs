@@ -1,5 +1,5 @@
 ---
-title: DropCap.Size Property (Publisher)
+title: DropCap.Size property (Publisher)
 keywords: vbapb10.chm5505032
 f1_keywords:
 - vbapb10.chm5505032
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropCap.Size Property (Publisher)
+# DropCap.Size property (Publisher)
 
 Returns or sets a  **Long** that represents the number of lines high to format a dropped capital letter. Read/write.
 

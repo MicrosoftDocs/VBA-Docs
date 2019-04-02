@@ -1,5 +1,5 @@
 ---
-title: RulerGuide.Type Property (Publisher)
+title: RulerGuide.Type property (Publisher)
 keywords: vbapb10.chm655363
 f1_keywords:
 - vbapb10.chm655363
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RulerGuide.Type Property (Publisher)
+# RulerGuide.Type property (Publisher)
 
 Returns or sets a  **PbRulerGuideType** constant that represents the ruler guide type. Read/write.
 

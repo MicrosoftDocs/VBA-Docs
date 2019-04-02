@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnectedShape Property (Publisher)
+title: ConnectorFormat.EndConnectedShape property (Publisher)
 keywords: vbapb10.chm3211524
 f1_keywords:
 - vbapb10.chm3211524
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnectedShape Property (Publisher)
+# ConnectorFormat.EndConnectedShape property (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape to which the end of the specified connector is attached.
 

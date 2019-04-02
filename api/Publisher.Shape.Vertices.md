@@ -1,5 +1,5 @@
 ---
-title: Shape.Vertices Property (Publisher)
+title: Shape.Vertices property (Publisher)
 keywords: vbapb10.chm2228309
 f1_keywords:
 - vbapb10.chm2228309
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Vertices Property (Publisher)
+# Shape.Vertices property (Publisher)
 
 Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only  **Variant**.
 

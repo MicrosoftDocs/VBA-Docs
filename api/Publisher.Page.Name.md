@@ -1,5 +1,5 @@
 ---
-title: Page.Name Property (Publisher)
+title: Page.Name property (Publisher)
 keywords: vbapb10.chm131098
 f1_keywords:
 - vbapb10.chm131098
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Name Property (Publisher)
+# Page.Name property (Publisher)
 
 Returns or sets a  **String** value indicating the name of the specified object. Read/write.
 

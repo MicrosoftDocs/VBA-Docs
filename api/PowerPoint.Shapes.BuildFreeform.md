@@ -44,7 +44,7 @@ Use the **[AddNodes](PowerPoint.FreeformBuilder.AddNodes.md)** method to add seg
 
 ## Example
 
-This example adds a freeform with four segments to `myDocument`.
+This example adds a freeform with four segments to _myDocument_.
 
 
 ```vb

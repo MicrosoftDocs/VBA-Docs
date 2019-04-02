@@ -1,5 +1,5 @@
 ---
-title: MasterPages Object (Publisher)
+title: MasterPages object (Publisher)
 keywords: vbapb10.chm655359
 f1_keywords:
 - vbapb10.chm655359
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterPages Object (Publisher)
+# MasterPages object (Publisher)
 
 Represents the page master for a publication after which all pages in the publication will be designed. The  **MasterPages** object is a collection of **[Page](Publisher.Page.md)** objects.
  

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.VerticalFlip Property (Publisher)
+title: ShapeRange.VerticalFlip property (Publisher)
 keywords: vbapb10.chm2293844
 f1_keywords:
 - vbapb10.chm2293844
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.VerticalFlip Property (Publisher)
+# ShapeRange.VerticalFlip property (Publisher)
 
 Returns  **msoTrue** if the specified shape has been flipped around its vertical axis. Read-only.
 

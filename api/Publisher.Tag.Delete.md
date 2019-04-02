@@ -1,5 +1,5 @@
 ---
-title: Tag.Delete Method (Publisher)
+title: Tag.Delete method (Publisher)
 keywords: vbapb10.chm4718597
 f1_keywords:
 - vbapb10.chm4718597
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tag.Delete Method (Publisher)
+# Tag.Delete method (Publisher)
 
 Deletes the specified object.
 

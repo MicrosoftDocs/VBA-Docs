@@ -1,5 +1,5 @@
 ---
-title: RulerGuides.Count Property (Publisher)
+title: RulerGuides.Count property (Publisher)
 keywords: vbapb10.chm720899
 f1_keywords:
 - vbapb10.chm720899
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RulerGuides.Count Property (Publisher)
+# RulerGuides.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 

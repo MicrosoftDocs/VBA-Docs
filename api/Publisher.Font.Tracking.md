@@ -1,5 +1,5 @@
 ---
-title: Font.Tracking Property (Publisher)
+title: Font.Tracking property (Publisher)
 keywords: vbapb10.chm5373984
 f1_keywords:
 - vbapb10.chm5373984
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Tracking Property (Publisher)
+# Font.Tracking property (Publisher)
 
 Returns or sets a  **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
 

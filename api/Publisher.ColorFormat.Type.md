@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Type Property (Publisher)
+title: ColorFormat.Type property (Publisher)
 keywords: vbapb10.chm2555913
 f1_keywords:
 - vbapb10.chm2555913
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.Type Property (Publisher)
+# ColorFormat.Type property (Publisher)
 
 Returns or sets a  **PbColorType** constant that represents the shape color type. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.AdvancedPrintOptions Property (Publisher)
+title: Document.AdvancedPrintOptions property (Publisher)
 keywords: vbapb10.chm196713
 f1_keywords:
 - vbapb10.chm196713
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.AdvancedPrintOptions Property (Publisher)
+# Document.AdvancedPrintOptions property (Publisher)
 
 Returns an  **[AdvancedPrintOptions](Publisher.AdvancedPrintOptions.md)** object that represents the advanced print settings for a publication. Read-only.
 

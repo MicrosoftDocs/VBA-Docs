@@ -1,5 +1,5 @@
 ---
-title: Tags.Application Property (Publisher)
+title: Tags.Application property (Publisher)
 keywords: vbapb10.chm4653057
 f1_keywords:
 - vbapb10.chm4653057
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Application Property (Publisher)
+# Tags.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 

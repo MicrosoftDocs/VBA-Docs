@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilters.Item Method (Publisher)
+title: MailMergeFilters.Item method (Publisher)
 keywords: vbapb10.chm6750211
 f1_keywords:
 - vbapb10.chm6750211
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeFilters.Item Method (Publisher)
+# MailMergeFilters.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
