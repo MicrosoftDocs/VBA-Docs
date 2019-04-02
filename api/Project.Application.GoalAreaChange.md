@@ -1,5 +1,5 @@
 ---
-title: Application.GoalAreaChange Method (Project)
+title: Application.GoalAreaChange method (Project)
 keywords: vbapj.chm51
 f1_keywords:
 - vbapj.chm51
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GoalAreaChange Method (Project)
+# Application.GoalAreaChange method (Project)
 
 Changes Project Guide goal areas by triggering the  **[WindowGoalAreaChange](Project.Application.WindowGoalAreaChange.md)** event. Deprecated in Project.
 

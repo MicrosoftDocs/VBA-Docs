@@ -1,5 +1,5 @@
 ---
-title: Application.EditPaste Method (Project)
+title: Application.EditPaste method (Project)
 keywords: vbapj.chm206
 f1_keywords:
 - vbapj.chm206
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EditPaste Method (Project)
+# Application.EditPaste method (Project)
 
 Pastes the contents of the Clipboard into the active selection.
 

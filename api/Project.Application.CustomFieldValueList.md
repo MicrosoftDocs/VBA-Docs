@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldValueList Method (Project)
+title: Application.CustomFieldValueList method (Project)
 keywords: vbapj.chm40
 f1_keywords:
 - vbapj.chm40
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldValueList Method (Project)
+# Application.CustomFieldValueList method (Project)
 
 Sets options for a value list for a custom field.
 

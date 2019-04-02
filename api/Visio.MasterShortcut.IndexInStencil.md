@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.IndexInStencil Property (Visio)
+title: MasterShortcut.IndexInStencil property (Visio)
 keywords: vis_sdr.chm16013700
 f1_keywords:
 - vis_sdr.chm16013700
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.IndexInStencil Property (Visio)
+# MasterShortcut.IndexInStencil property (Visio)
 
 Gets or sets the index of a master or master shortcut object within its stencil. Read/write.
 

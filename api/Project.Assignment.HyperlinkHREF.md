@@ -1,5 +1,5 @@
 ---
-title: Assignment.HyperlinkHREF Property (Project)
+title: Assignment.HyperlinkHREF property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.HyperlinkHREF
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.HyperlinkHREF Property (Project)
+# Assignment.HyperlinkHREF property (Project)
 
 Gets or sets a combination of the hyperlink address and subaddress, separated by a "#". Read/write  **String**.
 

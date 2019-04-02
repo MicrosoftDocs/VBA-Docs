@@ -1,5 +1,5 @@
 ---
-title: Selection.Document Property (Visio)
+title: Selection.Document property (Visio)
 keywords: vis_sdr.chm11113430
 f1_keywords:
 - vis_sdr.chm11113430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Document Property (Visio)
+# Selection.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

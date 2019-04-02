@@ -1,5 +1,5 @@
 ---
-title: ValidationIssue.ObjectType Property (Visio)
+title: ValidationIssue.ObjectType property (Visio)
 keywords: vis_sdr.chm18613960
 f1_keywords:
 - vis_sdr.chm18613960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssue.ObjectType Property (Visio)
+# ValidationIssue.ObjectType property (Visio)
 
 Returns  **visObjTypeValidationIssue**, the type of this object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.Name Property (Visio)
+title: Font.Name property (Visio)
 keywords: vis_sdr.chm12013930
 f1_keywords:
 - vis_sdr.chm12013930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Name Property (Visio)
+# Font.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

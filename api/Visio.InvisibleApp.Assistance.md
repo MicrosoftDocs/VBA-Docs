@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Assistance Property (Visio)
+title: InvisibleApp.Assistance property (Visio)
 keywords: vis_sdr.chm17560060
 f1_keywords:
 - vis_sdr.chm17560060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Assistance Property (Visio)
+# InvisibleApp.Assistance property (Visio)
 
 Gets a reference to the Microsoft Office (MSO)  **IAssistance** object, which provides a means for developers to create a customized help experience for users within Microsoft Office. Read-only.
 

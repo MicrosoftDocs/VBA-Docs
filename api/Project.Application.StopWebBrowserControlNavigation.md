@@ -1,5 +1,5 @@
 ---
-title: Application.StopWebBrowserControlNavigation Method (Project)
+title: Application.StopWebBrowserControlNavigation method (Project)
 keywords: vbapj.chm55
 f1_keywords:
 - vbapj.chm55
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.StopWebBrowserControlNavigation Method (Project)
+# Application.StopWebBrowserControlNavigation method (Project)
 
 Stops a web page from loading in the active window. The  **StopWebBrowserControlNavigation** method has the same effect as clicking **Stop** on the **Web** toolbar.
 

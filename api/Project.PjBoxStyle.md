@@ -1,5 +1,5 @@
 ---
-title: PjBoxStyle Enumeration (Project)
+title: PjBoxStyle enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBoxStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBoxStyle Enumeration (Project)
+# PjBoxStyle enumeration (Project)
 
 Contains constants that specify the box style.
 

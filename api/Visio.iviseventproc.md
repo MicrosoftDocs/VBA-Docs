@@ -1,5 +1,5 @@
 ---
-title: IVisEventProc Object (Visio)
+title: IVisEventProc object (Visio)
 keywords: vis_sdr.chm60150
 f1_keywords:
 - vis_sdr.chm60150
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# IVisEventProc Object (Visio)
+# IVisEventProc object (Visio)
 
 The interface for handling event notifications in Microsoft Visio. 
 

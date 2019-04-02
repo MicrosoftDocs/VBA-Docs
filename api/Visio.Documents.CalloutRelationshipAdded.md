@@ -1,5 +1,5 @@
 ---
-title: Documents.CalloutRelationshipAdded Event (Visio)
+title: Documents.CalloutRelationshipAdded event (Visio)
 keywords: vis_sdr.chm10662075
 f1_keywords:
 - vis_sdr.chm10662075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.CalloutRelationshipAdded Event (Visio)
+# Documents.CalloutRelationshipAdded event (Visio)
 
 Occurs when a new callout relationship is added to a document.
 

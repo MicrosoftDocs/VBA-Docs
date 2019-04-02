@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.SubAddress Property (Visio)
+title: Hyperlink.SubAddress property (Visio)
 keywords: vis_sdr.chm15014460
 f1_keywords:
 - vis_sdr.chm15014460
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.SubAddress Property (Visio)
+# Hyperlink.SubAddress property (Visio)
 
 Gets or sets the subaddress in a shape's  **Hyperlink** object. Read/write.
 

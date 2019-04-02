@@ -1,5 +1,5 @@
 ---
-title: Project.VBASigned Property (Project)
+title: Project.VBASigned property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.VBASigned
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.VBASigned Property (Project)
+# Project.VBASigned property (Project)
 
  **True** if the Microsoft Visual Basic for Applications project is digitally signed. Read/write **Boolean**.
 

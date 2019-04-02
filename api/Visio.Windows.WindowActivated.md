@@ -1,5 +1,5 @@
 ---
-title: Windows.WindowActivated Event (Visio)
+title: Windows.WindowActivated event (Visio)
 keywords: vis_sdr.chm11719270
 f1_keywords:
 - vis_sdr.chm11719270
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.WindowActivated Event (Visio)
+# Windows.WindowActivated event (Visio)
 
 Occurs after the active window changes in a Microsoft Visio instance.
 

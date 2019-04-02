@@ -1,5 +1,5 @@
 ---
-title: Page.LinkShapesToDataRows Method (Visio)
+title: Page.LinkShapesToDataRows method (Visio)
 keywords: vis_sdr.chm10960155
 f1_keywords:
 - vis_sdr.chm10960155
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.LinkShapesToDataRows Method (Visio)
+# Page.LinkShapesToDataRows method (Visio)
 
 Links multiple rows in the specified data recordset, as specified by their data row IDs, to multiple shapes on the page, and optionally applies the current data graphic to the linked shapes.
 

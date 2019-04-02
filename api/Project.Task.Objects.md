@@ -1,5 +1,5 @@
 ---
-title: Task.Objects Property (Project)
+title: Task.Objects property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Objects
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Objects Property (Project)
+# Task.Objects property (Project)
 
 Gets the number of OLE objects contained within a  **Task** object. Any objects inserted in the Notes field of a task are not included in the count. Read-only **Long**.
 

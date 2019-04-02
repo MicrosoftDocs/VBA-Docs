@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextEffect Method (Project)
+title: Shapes.AddTextEffect method (Project)
 ms.prod: project-server
 ms.assetid: 5510367c-7f8d-3266-642f-61f3d45a18cf
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddTextEffect Method (Project)
+# Shapes.AddTextEffect method (Project)
 The  **AddTextEffect** method is not implemented in Project.
 
 ## Syntax

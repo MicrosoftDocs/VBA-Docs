@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.GetListSpacing Method (Visio)
+title: ContainerProperties.GetListSpacing method (Visio)
 keywords: vis_sdr.chm17662310
 f1_keywords:
 - vis_sdr.chm17662310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.GetListSpacing Method (Visio)
+# ContainerProperties.GetListSpacing method (Visio)
 
 Returns the gap between adjacent member shapes in the list.
 

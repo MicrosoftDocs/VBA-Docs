@@ -1,5 +1,5 @@
 ---
-title: Application.QueueMarkerEvent Method (Visio)
+title: Application.QueueMarkerEvent method (Visio)
 keywords: vis_sdr.chm10016455
 f1_keywords:
 - vis_sdr.chm10016455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.QueueMarkerEvent Method (Visio)
+# Application.QueueMarkerEvent method (Visio)
 
 Queues a  **MarkerEvent** event that fires after all other queued events.
 

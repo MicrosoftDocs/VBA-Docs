@@ -1,5 +1,5 @@
 ---
-title: VisUIObjSets Enumeration (Visio)
+title: VisUIObjSets enumeration (Visio)
 keywords: vis_sdr.chm70170
 f1_keywords:
 - vis_sdr.chm70170
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUIObjSets Enumeration (Visio)
+# VisUIObjSets enumeration (Visio)
 
 UI object-set identifiers, used with the  **SetID** and **ItemAtID** properties and the **AddAtID** method of the **AccelTable**, **MenuSet**, and **ToolbarSet** collections. Valid identifiers for particular collections are indicated.
 

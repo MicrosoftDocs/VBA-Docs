@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.FullName Property (Project)
+title: LookupTableEntry.FullName property (Project)
 keywords: vbapj.chm132391
 f1_keywords:
 - vbapj.chm132391
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry.FullName Property (Project)
+# LookupTableEntry.FullName property (Project)
 
 Gets the full name for the specified level and parent levels of the  **LookupTableEntry** for the outline code, complete with the separator string between the levels. Read-only **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.Stat Property (Visio)
+title: Selection.Stat property (Visio)
 keywords: vis_sdr.chm11114420
 f1_keywords:
 - vis_sdr.chm11114420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Stat Property (Visio)
+# Selection.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

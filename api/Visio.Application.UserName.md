@@ -1,5 +1,5 @@
 ---
-title: Application.UserName Property (Visio)
+title: Application.UserName property (Visio)
 keywords: vis_sdr.chm10014625
 f1_keywords:
 - vis_sdr.chm10014625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UserName Property (Visio)
+# Application.UserName property (Visio)
 
 Gets or sets the user name of an  **Application** object. Read/write.
 

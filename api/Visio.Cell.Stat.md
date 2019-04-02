@@ -1,5 +1,5 @@
 ---
-title: Cell.Stat Property (Visio)
+title: Cell.Stat property (Visio)
 keywords: vis_sdr.chm10114420
 f1_keywords:
 - vis_sdr.chm10114420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Stat Property (Visio)
+# Cell.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

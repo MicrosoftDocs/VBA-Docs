@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CustomToolbars Property (Visio)
+title: InvisibleApp.CustomToolbars property (Visio)
 keywords: vis_sdr.chm17513355
 f1_keywords:
 - vis_sdr.chm17513355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CustomToolbars Property (Visio)
+# InvisibleApp.CustomToolbars property (Visio)
 
 Gets a  **UIObject** object that represents the current custom toolbars and status bars of an **InvisibleApp** object. Read-only.
 

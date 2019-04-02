@@ -1,5 +1,5 @@
 ---
-title: Window.Scroll Method (Visio)
+title: Window.Scroll method (Visio)
 keywords: vis_sdr.chm11616520
 f1_keywords:
 - vis_sdr.chm11616520
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Scroll Method (Visio)
+# Window.Scroll method (Visio)
 
 Scrolls the contents of a window vertically, horizontally, or both.
 

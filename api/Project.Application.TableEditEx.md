@@ -1,5 +1,5 @@
 ---
-title: Application.TableEditEx Method (Project)
+title: Application.TableEditEx method (Project)
 keywords: vbapj.chm2172
 f1_keywords:
 - vbapj.chm2172
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TableEditEx Method (Project)
+# Application.TableEditEx method (Project)
 
 Creates, edits, or copies a table that can wrap text and include the  **Add New Column** feature.
 

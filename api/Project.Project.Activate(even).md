@@ -1,5 +1,5 @@
 ---
-title: Project.Activate Event (Project)
+title: Project.Activate event (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Activate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.Activate Event (Project)
+# Project.Activate event (Project)
 
 Occurs when switching to the project from another project, including when the project is opened or created.
 

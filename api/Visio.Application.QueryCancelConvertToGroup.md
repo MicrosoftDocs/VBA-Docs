@@ -1,5 +1,5 @@
 ---
-title: Application.QueryCancelConvertToGroup Event (Visio)
+title: Application.QueryCancelConvertToGroup event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelConvertToGroup
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.QueryCancelConvertToGroup Event (Visio)
+# Application.QueryCancelConvertToGroup event (Visio)
 
 Occurs before the application converts a selection of shapes to a group in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

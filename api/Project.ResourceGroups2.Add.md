@@ -1,5 +1,5 @@
 ---
-title: ResourceGroups2.Add Method (Project)
+title: ResourceGroups2.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.ResourceGroups2.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ResourceGroups2.Add Method (Project)
+# ResourceGroups2.Add method (Project)
 
 Adds a  **[Group2](Project.Group2.md)** object to a **ResourceGroups2** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages.QueryCancelPageDelete Event (Visio)
+title: Pages.QueryCancelPageDelete event (Visio)
 keywords: vis_sdr.chm11019315
 f1_keywords:
 - vis_sdr.chm11019315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.QueryCancelPageDelete Event (Visio)
+# Pages.QueryCancelPageDelete event (Visio)
 
 Occurs before the application deletes a page in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

@@ -1,5 +1,5 @@
 ---
-title: Layers Object (Visio)
+title: Layers object (Visio)
 keywords: vis_sdr.chm10125
 f1_keywords:
 - vis_sdr.chm10125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layers Object (Visio)
+# Layers object (Visio)
 
 Includes a  **Layer** object for each layer defined for a page or master.
 

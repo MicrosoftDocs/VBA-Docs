@@ -1,5 +1,5 @@
 ---
-title: Window.GetViewRect Method (Visio)
+title: Window.GetViewRect method (Visio)
 keywords: vis_sdr.chm11616325
 f1_keywords:
 - vis_sdr.chm11616325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.GetViewRect Method (Visio)
+# Window.GetViewRect method (Visio)
 
 Returns the page coordinates of a window's borders.
 

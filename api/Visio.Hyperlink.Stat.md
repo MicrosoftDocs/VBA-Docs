@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Stat Property (Visio)
+title: Hyperlink.Stat property (Visio)
 keywords: vis_sdr.chm15014420
 f1_keywords:
 - vis_sdr.chm15014420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Stat Property (Visio)
+# Hyperlink.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

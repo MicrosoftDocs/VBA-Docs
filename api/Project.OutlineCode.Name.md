@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.Name Property (Project)
+title: OutlineCode.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.Name Property (Project)
+# OutlineCode.Name property (Project)
 
 Gets the name of the  **OutlineCode** object. Read/write **String**.
 

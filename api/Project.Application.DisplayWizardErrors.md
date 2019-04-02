@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayWizardErrors Property (Project)
+title: Application.DisplayWizardErrors property (Project)
 keywords: vbapj.chm131754
 f1_keywords:
 - vbapj.chm131754
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayWizardErrors Property (Project)
+# Application.DisplayWizardErrors property (Project)
 
  **True** if the **Planning Wizard** displays messages about errors. Read/write **Boolean**.
 

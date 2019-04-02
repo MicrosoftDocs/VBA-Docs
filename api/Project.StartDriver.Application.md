@@ -1,5 +1,5 @@
 ---
-title: StartDriver.Application Property (Project)
+title: StartDriver.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.Application Property (Project)
+# StartDriver.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

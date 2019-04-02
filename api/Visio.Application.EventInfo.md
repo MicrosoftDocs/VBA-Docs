@@ -1,5 +1,5 @@
 ---
-title: Application.EventInfo Property (Visio)
+title: Application.EventInfo property (Visio)
 keywords: vis_sdr.chm10013475
 f1_keywords:
 - vis_sdr.chm10013475
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EventInfo Property (Visio)
+# Application.EventInfo property (Visio)
 
 Gets additional information associated with an event, if any exists. Read-only.
 

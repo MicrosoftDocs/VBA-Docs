@@ -1,5 +1,5 @@
 ---
-title: Master.NewBaseID Property (Visio)
+title: Master.NewBaseID property (Visio)
 keywords: vis_sdr.chm10713940
 f1_keywords:
 - vis_sdr.chm10713940
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.NewBaseID Property (Visio)
+# Master.NewBaseID property (Visio)
 
 Generates a new base ID for a master. Read-only.
 

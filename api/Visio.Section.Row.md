@@ -1,5 +1,5 @@
 ---
-title: Section.Row Property (Visio)
+title: Section.Row property (Visio)
 keywords: vis_sdr.chm15714240
 f1_keywords:
 - vis_sdr.chm15714240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Section.Row Property (Visio)
+# Section.Row property (Visio)
 
 Returns the row in a section specified by row index number. Read-only.
 

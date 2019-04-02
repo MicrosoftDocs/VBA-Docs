@@ -1,5 +1,5 @@
 ---
-title: Cell.Dependents Property (Visio)
+title: Cell.Dependents property (Visio)
 keywords: vis_sdr.chm10151825
 f1_keywords:
 - vis_sdr.chm10151825
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Dependents Property (Visio)
+# Cell.Dependents property (Visio)
 
 Returns an array of ShapeSheet cells that are dependent on a particular cell of a Microsoft Visio shape. Read-only.
 

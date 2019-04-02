@@ -1,5 +1,5 @@
 ---
-title: Application.CacheSettings Method (Project)
+title: Application.CacheSettings method (Project)
 keywords: vbapj.chm2276
 f1_keywords:
 - vbapj.chm2276
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CacheSettings Method (Project)
+# Application.CacheSettings method (Project)
 
 Displays the  **Cache Settings** dialog box. Available in Project Professional only.
 

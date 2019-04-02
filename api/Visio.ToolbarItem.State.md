@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.State Property (Visio)
+title: ToolbarItem.State property (Visio)
 keywords: vis_sdr.chm13514425
 f1_keywords:
 - vis_sdr.chm13514425
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.State Property (Visio)
+# ToolbarItem.State property (Visio)
 
 Determines a button's state, pressed or not pressed. Read/write.
 

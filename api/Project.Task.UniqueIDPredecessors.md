@@ -1,5 +1,5 @@
 ---
-title: Task.UniqueIDPredecessors Property (Project)
+title: Task.UniqueIDPredecessors property (Project)
 keywords: vbapj.chm132772
 f1_keywords:
 - vbapj.chm132772
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.UniqueIDPredecessors Property (Project)
+# Task.UniqueIDPredecessors property (Project)
 
 Gets or sets the unique identification (**UniqueID**) numbers of the predecessors of a task, separated by the list separator. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.Align Method (Visio)
+title: Selection.Align method (Visio)
 keywords: vis_sdr.chm11151435
 f1_keywords:
 - vis_sdr.chm11151435
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Align Method (Visio)
+# Selection.Align method (Visio)
 
 Aligns two or more selected shapes.
 

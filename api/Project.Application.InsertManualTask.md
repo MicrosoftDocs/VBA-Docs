@@ -1,5 +1,5 @@
 ---
-title: Application.InsertManualTask Method (Project)
+title: Application.InsertManualTask method (Project)
 keywords: vbapj.chm2169
 f1_keywords:
 - vbapj.chm2169
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.InsertManualTask Method (Project)
+# Application.InsertManualTask method (Project)
 
 Inserts a new manually scheduled task above the selected task row or cell in a Gantt chart.
 

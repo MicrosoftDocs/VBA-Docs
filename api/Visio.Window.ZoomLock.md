@@ -1,5 +1,5 @@
 ---
-title: Window.ZoomLock Property (Visio)
+title: Window.ZoomLock property (Visio)
 keywords: vis_sdr.chm11651460
 f1_keywords:
 - vis_sdr.chm11651460
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.ZoomLock Property (Visio)
+# Window.ZoomLock property (Visio)
 
 Determines whether zooming is disabled in a Microsoft Visio drawing window. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.PitchAndFamily Property (Visio)
+title: Font.PitchAndFamily property (Visio)
 keywords: vis_sdr.chm12014085
 f1_keywords:
 - vis_sdr.chm12014085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.PitchAndFamily Property (Visio)
+# Font.PitchAndFamily property (Visio)
 
 Returns the pitch and family code for a  **Font** object. Read-only.
 

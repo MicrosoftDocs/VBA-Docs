@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline7BudgetCost Property (Project)
+title: Task.Baseline7BudgetCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline7BudgetCost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline7BudgetCost Property (Project)
+# Task.Baseline7BudgetCost property (Project)
 
 Gets or sets the baseline7 budget cost for the rollup calculated value of all the cost resources within the project. Applies only to the project summary task. Read/write  **Variant**.
 

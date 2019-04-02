@@ -1,5 +1,5 @@
 ---
-title: Project.HoursPerWeek Property (Project)
+title: Project.HoursPerWeek property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.HoursPerWeek
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.HoursPerWeek Property (Project)
+# Project.HoursPerWeek property (Project)
 
 Gets or sets the number of hours per week for tasks in a project. Read/write  **Double**.
 

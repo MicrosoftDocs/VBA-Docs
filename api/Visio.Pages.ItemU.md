@@ -1,5 +1,5 @@
 ---
-title: Pages.ItemU Property (Visio)
+title: Pages.ItemU property (Visio)
 keywords: vis_sdr.chm11051980
 f1_keywords:
 - vis_sdr.chm11051980
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.ItemU Property (Visio)
+# Pages.ItemU property (Visio)
 
 Returns an object from a collection. Read-only.
 

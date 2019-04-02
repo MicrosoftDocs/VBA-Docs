@@ -1,5 +1,5 @@
 ---
-title: Application.NewTasksStartOn Method (Project)
+title: Application.NewTasksStartOn method (Project)
 keywords: vbapj.chm2295
 f1_keywords:
 - vbapj.chm2295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.NewTasksStartOn Method (Project)
+# Application.NewTasksStartOn method (Project)
 
 Specifies how the start date of a new task is set.
 

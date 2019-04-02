@@ -1,5 +1,5 @@
 ---
-title: EventList Object (Visio)
+title: EventList object (Visio)
 keywords: vis_sdr.chm10095
 f1_keywords:
 - vis_sdr.chm10095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EventList Object (Visio)
+# EventList object (Visio)
 
 Includes an  **Event** object for each event to which an object should respond. The object that possesses the event list is sometimes called the source object.
 

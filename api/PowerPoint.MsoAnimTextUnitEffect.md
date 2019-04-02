@@ -1,5 +1,5 @@
 ---
-title: MsoAnimTextUnitEffect Enumeration (PowerPoint)
+title: MsoAnimTextUnitEffect enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimTextUnitEffect
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimTextUnitEffect Enumeration (PowerPoint)
+# MsoAnimTextUnitEffect enumeration (PowerPoint)
 
 Specifies how special effects are applied to the animation for the specified text during a slide show. 
 

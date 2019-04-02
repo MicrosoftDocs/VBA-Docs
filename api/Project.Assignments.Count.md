@@ -1,5 +1,5 @@
 ---
-title: Assignments.Count Property (Project)
+title: Assignments.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignments.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignments.Count Property (Project)
+# Assignments.Count property (Project)
 
 Gets the number of items in the  **Assignments** collection. Read-only **Long**.
 

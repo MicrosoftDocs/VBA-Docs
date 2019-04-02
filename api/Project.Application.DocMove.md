@@ -1,5 +1,5 @@
 ---
-title: Application.DocMove Method (Project)
+title: Application.DocMove method (Project)
 keywords: vbapj.chm2015
 f1_keywords:
 - vbapj.chm2015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocMove Method (Project)
+# Application.DocMove method (Project)
 
 Moves the active window within the application window.
 

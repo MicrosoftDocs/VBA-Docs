@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (Visio)
+title: Application.Version property (Visio)
 keywords: vis_sdr.chm10014640
 f1_keywords:
 - vis_sdr.chm10014640
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Version Property (Visio)
+# Application.Version property (Visio)
 
 Returns the version of a running Microsoft Visio instance. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline6Cost Property (Project)
+title: Task.Baseline6Cost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline6Cost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline6Cost Property (Project)
+# Task.Baseline6Cost property (Project)
 
 Gets or sets the baseline cost for a  **Task**. Read/write **Variant**.
 

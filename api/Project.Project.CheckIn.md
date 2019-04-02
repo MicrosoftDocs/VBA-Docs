@@ -1,5 +1,5 @@
 ---
-title: Project.CheckIn Method (Project)
+title: Project.CheckIn method (Project)
 keywords: vbapj.chm132592
 f1_keywords:
 - vbapj.chm132592
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CheckIn Method (Project)
+# Project.CheckIn method (Project)
 
 Checks in the working copy of the project from a local computer to the SharePoint document library, and sets the local project to read-only so that it cannot be edited locally.
 

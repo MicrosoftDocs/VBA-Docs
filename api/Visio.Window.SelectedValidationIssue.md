@@ -1,5 +1,5 @@
 ---
-title: Window.SelectedValidationIssue Property (Visio)
+title: Window.SelectedValidationIssue property (Visio)
 keywords: vis_sdr.chm11662490
 f1_keywords:
 - vis_sdr.chm11662490
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.SelectedValidationIssue Property (Visio)
+# Window.SelectedValidationIssue property (Visio)
 
 Gets or sets the validation issue that is selected in the  **Issues** window. Read/write.
 

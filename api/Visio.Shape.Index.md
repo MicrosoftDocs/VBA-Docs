@@ -1,5 +1,5 @@
 ---
-title: Shape.Index Property (Visio)
+title: Shape.Index property (Visio)
 keywords: vis_sdr.chm11213695
 f1_keywords:
 - vis_sdr.chm11213695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Index Property (Visio)
+# Shape.Index property (Visio)
 
 Gets the ordinal position of a  **Shape** object in the **Shapes** collection. Read-only.
 

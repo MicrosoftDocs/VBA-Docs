@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseBaseCalendar Property (Project)
+title: Resource.EnterpriseBaseCalendar property (Project)
 keywords: vbapj.chm131813
 f1_keywords:
 - vbapj.chm131813
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseBaseCalendar Property (Project)
+# Resource.EnterpriseBaseCalendar property (Project)
 
  **True** if the resource calendar is an enterprise base calendar; **False** if the resource calendar is a local calendar. Read-only **Boolean**.
 

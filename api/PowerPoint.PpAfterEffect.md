@@ -1,5 +1,5 @@
 ---
-title: PpAfterEffect Enumeration (PowerPoint)
+title: PpAfterEffect enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpAfterEffect
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpAfterEffect Enumeration (PowerPoint)
+# PpAfterEffect enumeration (PowerPoint)
 
 Indicates whether the specified shape appears dimmed, hidden, or unchanged after it is built.
 

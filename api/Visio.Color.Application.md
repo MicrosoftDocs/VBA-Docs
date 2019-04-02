@@ -1,5 +1,5 @@
 ---
-title: Color.Application Property (Visio)
+title: Color.Application property (Visio)
 keywords: vis_sdr.chm12213090
 f1_keywords:
 - vis_sdr.chm12213090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Color.Application Property (Visio)
+# Color.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

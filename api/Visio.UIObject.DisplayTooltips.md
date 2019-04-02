@@ -1,5 +1,5 @@
 ---
-title: UIObject.DisplayTooltips Property (Visio)
+title: UIObject.DisplayTooltips property (Visio)
 keywords: vis_sdr.chm14913415
 f1_keywords:
 - vis_sdr.chm14913415
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UIObject.DisplayTooltips Property (Visio)
+# UIObject.DisplayTooltips property (Visio)
 
 Determines whether feature descriptions are shown in ScreenTips. Read/write.
 

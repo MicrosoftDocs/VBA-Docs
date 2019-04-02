@@ -1,5 +1,5 @@
 ---
-title: OlSensitivity Enumeration (Outlook)
+title: OlSensitivity enumeration (Outlook)
 keywords: vbaol11.chm3081
 f1_keywords:
 - vbaol11.chm3081
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSensitivity Enumeration (Outlook)
+# OlSensitivity enumeration (Outlook)
 
 Represents the sensitivity for the Microsoft Outlook item.
 

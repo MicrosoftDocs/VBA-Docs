@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.Delete Method (Project)
+title: TaskDependency.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependency.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.Delete Method (Project)
+# TaskDependency.Delete method (Project)
 
 Deletes the  **TableField** object from a **TableFields** collection.
 

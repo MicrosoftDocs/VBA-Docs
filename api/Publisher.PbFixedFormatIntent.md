@@ -1,5 +1,5 @@
 ---
-title: PbFixedFormatIntent Enumeration (Publisher)
+title: PbFixedFormatIntent enumeration (Publisher)
 keywords: vbapb10.chm65637
 f1_keywords:
 - vbapb10.chm65637
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbFixedFormatIntent Enumeration (Publisher)
+# PbFixedFormatIntent enumeration (Publisher)
 
 Constants passed to the  **[ExportAsFixedFormat](Publisher.Document.ExportAsFixedFormat.md)** method that specify how the user intends to share the resulting file.
 

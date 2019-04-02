@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.KanaFindAndReplace Property (Visio)
+title: ApplicationSettings.KanaFindAndReplace property (Visio)
 keywords: vis_sdr.chm16251725
 f1_keywords:
 - vis_sdr.chm16251725
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.KanaFindAndReplace Property (Visio)
+# ApplicationSettings.KanaFindAndReplace property (Visio)
 
 Gets whether additional options specific to Japanese in the  **Find** and **Replace** dialog boxes are available. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.PersistsEvents Property (Visio)
+title: InvisibleApp.PersistsEvents property (Visio)
 keywords: vis_sdr.chm17514080
 f1_keywords:
 - vis_sdr.chm17514080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.PersistsEvents Property (Visio)
+# InvisibleApp.PersistsEvents property (Visio)
 
 Indicates whether an object is capable of containing persistent events in its  **EventList** collection. Read-only.
 

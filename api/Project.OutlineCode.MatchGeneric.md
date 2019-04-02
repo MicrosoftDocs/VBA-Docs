@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.MatchGeneric Property (Project)
+title: OutlineCode.MatchGeneric property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.MatchGeneric
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.MatchGeneric Property (Project)
+# OutlineCode.MatchGeneric property (Project)
 
  **True** if Project uses the enterprise text custom field (which is equivalent to an outline code) in the Resource Substitution Wizard. Read/write **Boolean**.
 

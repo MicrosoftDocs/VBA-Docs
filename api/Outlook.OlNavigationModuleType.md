@@ -1,5 +1,5 @@
 ---
-title: OlNavigationModuleType Enumeration (Outlook)
+title: OlNavigationModuleType enumeration (Outlook)
 keywords: vbaol11.chm3145
 f1_keywords:
 - vbaol11.chm3145
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlNavigationModuleType Enumeration (Outlook)
+# OlNavigationModuleType enumeration (Outlook)
 
 Identifies the navigation module type of a  **[NavigationModule](Outlook.NavigationModule.md)** object.
 

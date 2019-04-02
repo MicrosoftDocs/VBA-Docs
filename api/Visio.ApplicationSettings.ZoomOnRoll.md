@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ZoomOnRoll Property (Visio)
+title: ApplicationSettings.ZoomOnRoll property (Visio)
 keywords: vis_sdr.chm16251455
 f1_keywords:
 - vis_sdr.chm16251455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ZoomOnRoll Property (Visio)
+# ApplicationSettings.ZoomOnRoll property (Visio)
 
 Determines whether zooming in to and out from a Microsoft Visio drawing by rolling the wheel of the mouse is enabled. Read/write.
 

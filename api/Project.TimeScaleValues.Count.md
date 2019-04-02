@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValues.Count Property (Project)
+title: TimeScaleValues.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValues.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValues.Count Property (Project)
+# TimeScaleValues.Count property (Project)
 
 Gets the number of items in the  **TimeScaleValues** collection. Read-only **Long**.
 

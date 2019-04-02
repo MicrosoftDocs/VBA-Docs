@@ -1,5 +1,5 @@
 ---
-title: Application.MailRoutingSlip Method (Project)
+title: Application.MailRoutingSlip method (Project)
 keywords: vbapj.chm125
 f1_keywords:
 - vbapj.chm125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailRoutingSlip Method (Project)
+# Application.MailRoutingSlip method (Project)
 
 Adds a mail routing slip for the active project.
 

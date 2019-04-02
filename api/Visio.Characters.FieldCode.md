@@ -1,5 +1,5 @@
 ---
-title: Characters.FieldCode Property (Visio)
+title: Characters.FieldCode property (Visio)
 keywords: vis_sdr.chm10213505
 f1_keywords:
 - vis_sdr.chm10213505
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.FieldCode Property (Visio)
+# Characters.FieldCode property (Visio)
 
 Returns the field code for a field represented by an object. Read-only.
 

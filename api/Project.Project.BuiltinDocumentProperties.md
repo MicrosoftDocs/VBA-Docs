@@ -1,5 +1,5 @@
 ---
-title: Project.BuiltinDocumentProperties Property (Project)
+title: Project.BuiltinDocumentProperties property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.BuiltinDocumentProperties
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.BuiltinDocumentProperties Property (Project)
+# Project.BuiltinDocumentProperties property (Project)
 
 Gets a  **DocumentProperties** collection representing the built-in properties of the document. Read-only **Object**.
 

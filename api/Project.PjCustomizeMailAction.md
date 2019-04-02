@@ -1,5 +1,5 @@
 ---
-title: PjCustomizeMailAction Enumeration (Project)
+title: PjCustomizeMailAction enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCustomizeMailAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCustomizeMailAction Enumeration (Project)
+# PjCustomizeMailAction enumeration (Project)
 
 Contains constants that specify the type of action. Obsolete.
 

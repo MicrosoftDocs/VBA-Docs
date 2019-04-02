@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.QueryCancelStyleDelete Event (Visio)
+title: DrawingControl.QueryCancelStyleDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelStyleDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.QueryCancelStyleDelete Event (Visio)
+# DrawingControl.QueryCancelStyleDelete event (Visio)
 
 Occurs before the application deletes a style in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

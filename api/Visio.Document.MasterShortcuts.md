@@ -1,5 +1,5 @@
 ---
-title: Document.MasterShortcuts Property (Visio)
+title: Document.MasterShortcuts property (Visio)
 keywords: vis_sdr.chm10513885
 f1_keywords:
 - vis_sdr.chm10513885
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.MasterShortcuts Property (Visio)
+# Document.MasterShortcuts property (Visio)
 
 Returns the  **MasterShortcuts** collection for a document stencil. Read-only.
 

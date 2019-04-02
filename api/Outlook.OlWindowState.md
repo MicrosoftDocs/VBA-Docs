@@ -1,5 +1,5 @@
 ---
-title: OlWindowState Enumeration (Outlook)
+title: OlWindowState enumeration (Outlook)
 keywords: vbaol11.chm3090
 f1_keywords:
 - vbaol11.chm3090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlWindowState Enumeration (Outlook)
+# OlWindowState enumeration (Outlook)
 
 Indicates the window state.
 

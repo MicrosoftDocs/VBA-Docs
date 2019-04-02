@@ -1,5 +1,5 @@
 ---
-title: Documents.ConnectionsDeleted Event (Visio)
+title: Documents.ConnectionsDeleted event (Visio)
 keywords: vis_sdr.chm10619100
 f1_keywords:
 - vis_sdr.chm10619100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.ConnectionsDeleted Event (Visio)
+# Documents.ConnectionsDeleted event (Visio)
 
 Occurs after connections between shapes have been removed.
 

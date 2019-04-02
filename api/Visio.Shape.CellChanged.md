@@ -1,5 +1,5 @@
 ---
-title: Shape.CellChanged Event (Visio)
+title: Shape.CellChanged event (Visio)
 keywords: vis_sdr.chm11219090
 f1_keywords:
 - vis_sdr.chm11219090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.CellChanged Event (Visio)
+# Shape.CellChanged event (Visio)
 
 Occurs after the value changes in a cell in a document.
 

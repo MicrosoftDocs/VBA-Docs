@@ -1,5 +1,5 @@
 ---
-title: Window.Refresh Method (Project)
+title: Window.Refresh method (Project)
 keywords: vbapj.chm131249
 f1_keywords:
 - vbapj.chm131249
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Refresh Method (Project)
+# Window.Refresh method (Project)
 
 Refreshes the window.
 

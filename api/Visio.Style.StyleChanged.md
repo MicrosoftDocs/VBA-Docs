@@ -1,5 +1,5 @@
 ---
-title: Style.StyleChanged Event (Visio)
+title: Style.StyleChanged event (Visio)
 keywords: vis_sdr.chm11419250
 f1_keywords:
 - vis_sdr.chm11419250
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.StyleChanged Event (Visio)
+# Style.StyleChanged event (Visio)
 
 Occurs after the name of a style is changed or a change to the style propagates to objects to which the style is applied.
 

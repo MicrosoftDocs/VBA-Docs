@@ -1,5 +1,5 @@
 ---
-title: Application.PanZoomZoomTo Method (Project)
+title: Application.PanZoomZoomTo method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.PanZoomZoomTo
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PanZoomZoomTo Method (Project)
+# Application.PanZoomZoomTo method (Project)
 
 Zooms the time range in or out for the Gantt chart in the active view.
 

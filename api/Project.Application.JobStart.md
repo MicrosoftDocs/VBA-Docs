@@ -1,5 +1,5 @@
 ---
-title: Application.JobStart Event (Project)
+title: Application.JobStart event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.JobStart
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.JobStart Event (Project)
+# Application.JobStart event (Project)
 
 Occurs before the queue job is put on the server queue. Project Professional only.
 

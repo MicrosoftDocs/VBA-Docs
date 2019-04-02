@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Vertices Property (Project)
+title: ShapeRange.Vertices property (Project)
 ms.prod: project-server
 ms.assetid: 5df31583-7e8a-2bc1-ed6b-719960fb7de1
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Vertices Property (Project)
+# ShapeRange.Vertices property (Project)
 Gets the coordinates of the vertices (and control points for a Bézier curve) as a series of coordinate pairs, for a shape range that contains a drawing. Read-only  **Variant**.
 
 ## Syntax

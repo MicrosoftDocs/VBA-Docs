@@ -1,5 +1,5 @@
 ---
-title: Chart.GetChartElement Method (Project)
+title: Chart.GetChartElement method (Project)
 keywords: vbapj.chm131624
 f1_keywords:
 - vbapj.chm131624
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.GetChartElement Method (Project)
+# Chart.GetChartElement method (Project)
 Returns information about the chart element at specified X and Y coordinates. This method will be removed in the released version of Project 2013.
 
 ## Syntax

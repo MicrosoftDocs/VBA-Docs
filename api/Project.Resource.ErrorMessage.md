@@ -1,5 +1,5 @@
 ---
-title: Resource.ErrorMessage Property (Project)
+title: Resource.ErrorMessage property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.ErrorMessage
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.ErrorMessage Property (Project)
+# Resource.ErrorMessage property (Project)
 
 Gets errors reported by the  **Import Resources Wizard** and by local resource error checks. Read-only **String**.
 

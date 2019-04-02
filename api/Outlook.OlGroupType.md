@@ -1,5 +1,5 @@
 ---
-title: OlGroupType Enumeration (Outlook)
+title: OlGroupType enumeration (Outlook)
 keywords: vbaol11.chm3144
 f1_keywords:
 - vbaol11.chm3144
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlGroupType Enumeration (Outlook)
+# OlGroupType enumeration (Outlook)
 
 Identifies the group type of a  **[NavigationGroup](Outlook.NavigationGroup.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WindowDeactivate Event (Word)
+title: Application.WindowDeactivate event (Word)
 keywords: vbawd10.chm4000010
 f1_keywords:
 - vbawd10.chm4000010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowDeactivate Event (Word)
+# Application.WindowDeactivate event (Word)
 
 Occurs when any document window is deactivated.
 

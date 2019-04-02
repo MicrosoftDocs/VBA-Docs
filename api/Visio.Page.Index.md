@@ -1,5 +1,5 @@
 ---
-title: Page.Index Property (Visio)
+title: Page.Index property (Visio)
 keywords: vis_sdr.chm10913695
 f1_keywords:
 - vis_sdr.chm10913695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Index Property (Visio)
+# Page.Index property (Visio)
 
 Gets or sets the ordinal position of a page in a  **Pages** collection. Read/write.
 

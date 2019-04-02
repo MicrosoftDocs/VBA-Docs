@@ -1,5 +1,5 @@
 ---
-title: Task.IsPublished Property (Project)
+title: Task.IsPublished property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.IsPublished
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.IsPublished Property (Project)
+# Task.IsPublished property (Project)
 
  **True** when the task and its assignments are published. Read/write **Variant**.
 

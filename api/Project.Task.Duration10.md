@@ -1,5 +1,5 @@
 ---
-title: Task.Duration10 Property (Project)
+title: Task.Duration10 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Duration10
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Duration10 Property (Project)
+# Task.Duration10 property (Project)
 
  Gets or sets the value of a task duration custom field. Read/write **Variant**.
 

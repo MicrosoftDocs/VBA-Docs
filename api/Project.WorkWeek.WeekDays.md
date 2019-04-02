@@ -1,5 +1,5 @@
 ---
-title: WorkWeek.WeekDays Property (Project)
+title: WorkWeek.WeekDays property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeek.WeekDays
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeek.WeekDays Property (Project)
+# WorkWeek.WeekDays property (Project)
 
 Gets a  **[WorkWeekDays](Project.Year.md)** collection representing the days in the work week. Read-only **WorkWeekDays**.
 

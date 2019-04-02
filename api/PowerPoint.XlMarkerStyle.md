@@ -1,5 +1,5 @@
 ---
-title: XlMarkerStyle Enumeration (PowerPoint)
+title: XlMarkerStyle enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlMarkerStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlMarkerStyle Enumeration (PowerPoint)
+# XlMarkerStyle enumeration (PowerPoint)
 
 Specifies the marker style for a point or series in a line chart, scatter chart, or radar chart.
 

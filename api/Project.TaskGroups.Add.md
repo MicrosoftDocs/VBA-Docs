@@ -1,5 +1,5 @@
 ---
-title: TaskGroups.Add Method (Project)
+title: TaskGroups.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskGroups.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskGroups.Add Method (Project)
+# TaskGroups.Add method (Project)
 
 Adds a  **Group** object to a **TaskGroups** collection.
 

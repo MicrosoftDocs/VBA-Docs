@@ -1,5 +1,5 @@
 ---
-title: Assignment.WorkVariance Property (Project)
+title: Assignment.WorkVariance property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.WorkVariance
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.WorkVariance Property (Project)
+# Assignment.WorkVariance property (Project)
 
 Gets the variance between the baseline work and the work for the assignment. Read-only  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: Exception.MonthItem Property (Project)
+title: Exception.MonthItem property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.MonthItem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.MonthItem Property (Project)
+# Exception.MonthItem property (Project)
 
 Gets or sets the day of the week value for a monthly type of exception. Read/write  **PjExceptionItem**.
 

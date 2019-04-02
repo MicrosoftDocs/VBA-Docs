@@ -1,5 +1,5 @@
 ---
-title: Cell.CellColor Property (Project)
+title: Cell.CellColor property (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell.CellColor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.CellColor Property (Project)
+# Cell.CellColor property (Project)
 
 Gets or sets the color of the cell background. Read/write  **PjColor**.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.UniqueID Property (Project)
+title: Task.UniqueID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.UniqueID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.UniqueID Property (Project)
+# Task.UniqueID property (Project)
 
 Gets the unique identification number of the task. Read-only  **Long**.
 

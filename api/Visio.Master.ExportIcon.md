@@ -1,5 +1,5 @@
 ---
-title: Master.ExportIcon Method (Visio)
+title: Master.ExportIcon method (Visio)
 keywords: vis_sdr.chm10716270
 f1_keywords:
 - vis_sdr.chm10716270
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.ExportIcon Method (Visio)
+# Master.ExportIcon method (Visio)
 
 Exports the icon for a  **Master** object to a named file or the Clipboard.
 

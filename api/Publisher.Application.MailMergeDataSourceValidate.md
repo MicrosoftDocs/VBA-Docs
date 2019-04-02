@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeDataSourceValidate Event (Publisher)
+title: Application.MailMergeDataSourceValidate event (Publisher)
 keywords: vbapb10.chm268435480
 f1_keywords:
 - vbapb10.chm268435480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeDataSourceValidate Event (Publisher)
+# Application.MailMergeDataSourceValidate event (Publisher)
 
 Occurs when a user performs address verification by clicking  **Validate** in the **Mail Merge Recipients** dialog box.
 

@@ -1,5 +1,5 @@
 ---
-title: ViewsSingle.Item Property (Project)
+title: ViewsSingle.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewsSingle.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewsSingle.Item Property (Project)
+# ViewsSingle.Item property (Project)
 
 Gets a single  **View** object from the **ViewsSingle** collection. Read-only **View**.
 

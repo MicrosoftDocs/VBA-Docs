@@ -1,5 +1,5 @@
 ---
-title: Chart.SetSourceData Method (Project)
+title: Chart.SetSourceData method (Project)
 keywords: vbapj.chm131632
 f1_keywords:
 - vbapj.chm131632
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.SetSourceData Method (Project)
+# Chart.SetSourceData method (Project)
 Sets a source data range from Excel for a chart.
 
 ## Syntax

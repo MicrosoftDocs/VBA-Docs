@@ -1,5 +1,5 @@
 ---
-title: Task.PreleveledStart Property (Project)
+title: Task.PreleveledStart property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.PreleveledStart
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.PreleveledStart Property (Project)
+# Task.PreleveledStart property (Project)
 
 Gets the start date of a task before leveling occurred. Read-only  **Variant**.
 

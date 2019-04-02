@@ -1,5 +1,5 @@
 ---
-title: PjCostRateTable Enumeration (Project)
+title: PjCostRateTable enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCostRateTable
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCostRateTable Enumeration (Project)
+# PjCostRateTable enumeration (Project)
 
 Contains constants that specify one of the five resource cost rate tables.
 

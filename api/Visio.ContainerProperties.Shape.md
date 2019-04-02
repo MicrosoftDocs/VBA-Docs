@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.Shape Property (Visio)
+title: ContainerProperties.Shape property (Visio)
 keywords: vis_sdr.chm17614320
 f1_keywords:
 - vis_sdr.chm17614320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.Shape Property (Visio)
+# ContainerProperties.Shape property (Visio)
 
 Returns the Microsoft Visio  **[Shape](Visio.Shape.md)** object that is associated with the container. Read-only.
 

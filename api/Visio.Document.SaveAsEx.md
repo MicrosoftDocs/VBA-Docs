@@ -1,5 +1,5 @@
 ---
-title: Document.SaveAsEx Method (Visio)
+title: Document.SaveAsEx method (Visio)
 keywords: vis_sdr.chm10516505
 f1_keywords:
 - vis_sdr.chm10516505
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SaveAsEx Method (Visio)
+# Document.SaveAsEx method (Visio)
 
 Saves a document with a file name using extra information passed in an argument.
 

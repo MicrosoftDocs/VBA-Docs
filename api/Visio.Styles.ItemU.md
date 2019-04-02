@@ -1,5 +1,5 @@
 ---
-title: Styles.ItemU Property (Visio)
+title: Styles.ItemU property (Visio)
 keywords: vis_sdr.chm11551980
 f1_keywords:
 - vis_sdr.chm11551980
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Styles.ItemU Property (Visio)
+# Styles.ItemU property (Visio)
 
 Returns an object from a collection. Read-only.
 

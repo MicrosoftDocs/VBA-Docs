@@ -1,5 +1,5 @@
 ---
-title: Application.ExitScope Event (Visio)
+title: Application.ExitScope event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.ExitScope
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ExitScope Event (Visio)
+# Application.ExitScope event (Visio)
 
 Queued when an internal command ends, or when an Automation client exits a scope by using the  **EndUndoScope** method.
 

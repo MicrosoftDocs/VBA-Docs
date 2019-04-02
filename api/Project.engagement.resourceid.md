@@ -1,5 +1,5 @@
 ---
-title: Engagement.ResourceID Property (Project)
+title: Engagement.ResourceID property (Project)
 ms.assetid: 11a1cb67-e799-5dbb-8361-8668a991eaee
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.ResourceID Property (Project)
+# Engagement.ResourceID property (Project)
 
 The ResourceID property for the Engagement object. Introduced in Office 2016.
 
@@ -22,6 +22,6 @@ _expression_. `ResourceID`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ViewCopy Method (Project)
+title: Application.ViewCopy method (Project)
 keywords: vbapj.chm300
 f1_keywords:
 - vbapj.chm300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewCopy Method (Project)
+# Application.ViewCopy method (Project)
 
 Copies the current view.
 

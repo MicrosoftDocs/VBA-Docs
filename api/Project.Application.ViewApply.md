@@ -1,5 +1,5 @@
 ---
-title: Application.ViewApply Method (Project)
+title: Application.ViewApply method (Project)
 keywords: vbapj.chm302
 f1_keywords:
 - vbapj.chm302
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewApply Method (Project)
+# Application.ViewApply method (Project)
 
 Applies a view to the active window.
 

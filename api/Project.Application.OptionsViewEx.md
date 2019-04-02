@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsViewEx Method (Project)
+title: Application.OptionsViewEx method (Project)
 keywords: vbapj.chm646
 f1_keywords:
 - vbapj.chm646
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsViewEx Method (Project)
+# Application.OptionsViewEx method (Project)
 
 Sets display options for the  **General**,  **Display**, and  **Advanced** tabs of the **Project Options** dialog box.
 

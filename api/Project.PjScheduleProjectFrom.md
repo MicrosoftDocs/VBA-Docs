@@ -1,5 +1,5 @@
 ---
-title: PjScheduleProjectFrom Enumeration (Project)
+title: PjScheduleProjectFrom enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjScheduleProjectFrom
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjScheduleProjectFrom Enumeration (Project)
+# PjScheduleProjectFrom enumeration (Project)
 
 Contains constants that specify the scheduling of a project.
 

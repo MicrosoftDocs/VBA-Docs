@@ -1,5 +1,5 @@
 ---
-title: PjEarnedValueMethod Enumeration (Project)
+title: PjEarnedValueMethod enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjEarnedValueMethod
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjEarnedValueMethod Enumeration (Project)
+# PjEarnedValueMethod enumeration (Project)
 
 Contains constants that specify the way that earned value is calculated. 
 

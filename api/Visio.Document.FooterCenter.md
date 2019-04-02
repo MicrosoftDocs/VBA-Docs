@@ -1,5 +1,5 @@
 ---
-title: Document.FooterCenter Property (Visio)
+title: Document.FooterCenter property (Visio)
 keywords: vis_sdr.chm10550580
 f1_keywords:
 - vis_sdr.chm10550580
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.FooterCenter Property (Visio)
+# Document.FooterCenter property (Visio)
 
 Gets or sets the text string that appears in the center portion of a document's footer. Read/write.
 

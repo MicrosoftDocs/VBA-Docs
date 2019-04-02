@@ -1,5 +1,5 @@
 ---
-title: Exceptions.Add Method (Project)
+title: Exceptions.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Exceptions.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exceptions.Add Method (Project)
+# Exceptions.Add method (Project)
 
 Adds an  **Exception** object to an **Exceptions** collection.
 

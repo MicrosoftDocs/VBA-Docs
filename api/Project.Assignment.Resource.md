@@ -1,5 +1,5 @@
 ---
-title: Assignment.Resource Property (Project)
+title: Assignment.Resource property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Resource
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Resource Property (Project)
+# Assignment.Resource property (Project)
 
 Gets the  **[Resource](Project.Resource.md)** object associated with the **[Assignment](Project.Assignment.md)**. Read-only **Resource**.
 

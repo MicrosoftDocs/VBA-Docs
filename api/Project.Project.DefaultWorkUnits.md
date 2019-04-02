@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultWorkUnits Property (Project)
+title: Project.DefaultWorkUnits property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DefaultWorkUnits
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultWorkUnits Property (Project)
+# Project.DefaultWorkUnits property (Project)
 
 Gets or sets the default work units for the project. Read/write  **PjUnit**.
 

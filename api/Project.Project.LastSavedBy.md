@@ -1,5 +1,5 @@
 ---
-title: Project.LastSavedBy Property (Project)
+title: Project.LastSavedBy property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.LastSavedBy
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.LastSavedBy Property (Project)
+# Project.LastSavedBy property (Project)
 
 Gets the name of the user who last saved a project. Read-only  **String**.
 

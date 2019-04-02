@@ -1,5 +1,5 @@
 ---
-title: Chart.HasDataTable Property (Project)
+title: Chart.HasDataTable property (Project)
 keywords: vbapj.chm131618
 f1_keywords:
 - vbapj.chm131618
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.HasDataTable Property (Project)
+# Chart.HasDataTable property (Project)
  **True** if the chart has a data table. Read/write **Boolean**.
 
 ## Syntax

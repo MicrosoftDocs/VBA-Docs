@@ -1,5 +1,5 @@
 ---
-title: PjResSubstitutionPoolOption Enumeration (Project)
+title: PjResSubstitutionPoolOption enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResSubstitutionPoolOption
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjResSubstitutionPoolOption Enumeration (Project)
+# PjResSubstitutionPoolOption enumeration (Project)
 
 Contains constants that specify the resource pooling option.
 

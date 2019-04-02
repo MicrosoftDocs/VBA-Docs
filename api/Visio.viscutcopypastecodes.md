@@ -1,5 +1,5 @@
 ---
-title: VisCutCopyPasteCodes Enumeration (Visio)
+title: VisCutCopyPasteCodes enumeration (Visio)
 keywords: vis_sdr.chm70355
 f1_keywords:
 - vis_sdr.chm70355
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisCutCopyPasteCodes Enumeration (Visio)
+# VisCutCopyPasteCodes enumeration (Visio)
 
 Flags to be passed to the  **Cut**, **Copy**, or **Paste** methods.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.OutlineOutdent Method (Project)
+title: Application.OutlineOutdent method (Project)
 keywords: vbapj.chm2018
 f1_keywords:
 - vbapj.chm2018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OutlineOutdent Method (Project)
+# Application.OutlineOutdent method (Project)
 
 Promotes a task in the outline.
 

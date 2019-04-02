@@ -1,5 +1,5 @@
 ---
-title: VisDrawSplineFlags Enumeration (Visio)
+title: VisDrawSplineFlags enumeration (Visio)
 keywords: vis_sdr.chm70105
 f1_keywords:
 - vis_sdr.chm70105
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDrawSplineFlags Enumeration (Visio)
+# VisDrawSplineFlags enumeration (Visio)
 
 Flags to pass to the  **DrawSpline** and **DrawPolyline** methods.
 

@@ -1,5 +1,5 @@
 ---
-title: Assignment.BookingType Property (Project)
+title: Assignment.BookingType property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.BookingType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.BookingType Property (Project)
+# Assignment.BookingType property (Project)
 
 Gets the booking type for an assignment. Can be one of the following  **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
 

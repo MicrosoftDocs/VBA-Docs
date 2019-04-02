@@ -1,5 +1,5 @@
 ---
-title: Color.Document Property (Visio)
+title: Color.Document property (Visio)
 keywords: vis_sdr.chm12213430
 f1_keywords:
 - vis_sdr.chm12213430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Color.Document Property (Visio)
+# Color.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

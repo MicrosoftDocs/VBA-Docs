@@ -1,5 +1,5 @@
 ---
-title: pbPresetWordArt Enumeration (Publisher)
+title: pbPresetWordArt enumeration (Publisher)
 keywords: vbapb10.chm65648
 f1_keywords:
 - vbapb10.chm65648
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# pbPresetWordArt Enumeration (Publisher)
+# pbPresetWordArt enumeration (Publisher)
 
 Constants that specify the type of preset WordArt, passed to the  **[Shapes.AddWordArt](Publisher.Shapes.AddWordArt.md)** method and passed to and returned by the **[TextEffectFormat.PresetWordArt](Publisher.TextEffectFormat.PresetWordArt.md)** property.
 

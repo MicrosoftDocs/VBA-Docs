@@ -1,5 +1,5 @@
 ---
-title: OlFormatSmartFrom Enumeration (Outlook)
+title: OlFormatSmartFrom enumeration (Outlook)
 keywords: vbaol11.chm3141
 f1_keywords:
 - vbaol11.chm3141
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormatSmartFrom Enumeration (Outlook)
+# OlFormatSmartFrom enumeration (Outlook)
 
 Indicates the format used to display the  **From** Outlook item property.
 

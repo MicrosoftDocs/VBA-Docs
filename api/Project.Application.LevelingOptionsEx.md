@@ -1,5 +1,5 @@
 ---
-title: Application.LevelingOptionsEx Method (Project)
+title: Application.LevelingOptionsEx method (Project)
 keywords: vbapj.chm2249
 f1_keywords:
 - vbapj.chm2249
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelingOptionsEx Method (Project)
+# Application.LevelingOptionsEx method (Project)
 
 Specifies leveling options for the active project, including leveling of manually scheduled tasks.
 

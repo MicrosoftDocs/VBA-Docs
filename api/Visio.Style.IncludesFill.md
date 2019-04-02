@@ -1,5 +1,5 @@
 ---
-title: Style.IncludesFill Property (Visio)
+title: Style.IncludesFill property (Visio)
 keywords: vis_sdr.chm11413680
 f1_keywords:
 - vis_sdr.chm11413680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.IncludesFill Property (Visio)
+# Style.IncludesFill property (Visio)
 
 Indicates whether the style includes fill attributes. Read/write.
 

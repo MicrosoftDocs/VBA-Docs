@@ -1,5 +1,5 @@
 ---
-title: Section.ContainingPageID Property (Visio)
+title: Section.ContainingPageID property (Visio)
 keywords: vis_sdr.chm15751695
 f1_keywords:
 - vis_sdr.chm15751695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Section.ContainingPageID Property (Visio)
+# Section.ContainingPageID property (Visio)
 
 Returns the ID of the page that contains the section. Read-only. .
 

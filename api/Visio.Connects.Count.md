@@ -1,5 +1,5 @@
 ---
-title: Connects.Count Property (Visio)
+title: Connects.Count property (Visio)
 keywords: vis_sdr.chm10413330
 f1_keywords:
 - vis_sdr.chm10413330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Connects.Count Property (Visio)
+# Connects.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

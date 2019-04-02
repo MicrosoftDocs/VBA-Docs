@@ -1,5 +1,5 @@
 ---
-title: OlInspectorClose Enumeration (Outlook)
+title: OlInspectorClose enumeration (Outlook)
 keywords: vbaol11.chm3063
 f1_keywords:
 - vbaol11.chm3063
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlInspectorClose Enumeration (Outlook)
+# OlInspectorClose enumeration (Outlook)
 
 Indicates the save mode.
 

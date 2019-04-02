@@ -1,5 +1,5 @@
 ---
-title: Assignment.BCWP Property (Project)
+title: Assignment.BCWP property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.BCWP
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.BCWP Property (Project)
+# Assignment.BCWP property (Project)
 
 Gets the budgeted cost of work performed for the assignment. Read-only  **Variant**.
 

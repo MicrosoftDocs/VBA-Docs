@@ -1,5 +1,5 @@
 ---
-title: Profile.UserName Property (Project)
+title: Profile.UserName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profile.UserName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Profile.UserName Property (Project)
+# Profile.UserName property (Project)
 
 Gets or sets the logon name of the current account profile. Read/write  **String**.
 

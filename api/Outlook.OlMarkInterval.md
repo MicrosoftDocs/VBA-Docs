@@ -1,5 +1,5 @@
 ---
-title: OlMarkInterval Enumeration (Outlook)
+title: OlMarkInterval enumeration (Outlook)
 keywords: vbaol11.chm3115
 f1_keywords:
 - vbaol11.chm3115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlMarkInterval Enumeration (Outlook)
+# OlMarkInterval enumeration (Outlook)
 
 Specifies the time period for which an Outlook item is marked as a task.
 

@@ -1,5 +1,5 @@
 ---
-title: MsoAnimEffectRestart Enumeration (PowerPoint)
+title: MsoAnimEffectRestart enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimEffectRestart
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimEffectRestart Enumeration (PowerPoint)
+# MsoAnimEffectRestart enumeration (PowerPoint)
 
 Specifies whether the animation effect restarts after the effect has started once.
 

@@ -1,5 +1,5 @@
 ---
-title: PpParagraphAlignment Enumeration (PowerPoint)
+title: PpParagraphAlignment enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpParagraphAlignment
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpParagraphAlignment Enumeration (PowerPoint)
+# PpParagraphAlignment enumeration (PowerPoint)
 
 Specifies the alignment for each paragraph in the specified paragraph format.
 

@@ -1,5 +1,5 @@
 ---
-title: Page.Paste Method (Visio)
+title: Page.Paste method (Visio)
 keywords: vis_sdr.chm10916430
 f1_keywords:
 - vis_sdr.chm10916430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Paste Method (Visio)
+# Page.Paste method (Visio)
 
 Pastes the contents of the Clipboard into an object.
 

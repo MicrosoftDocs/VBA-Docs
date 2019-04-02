@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultStr Property (Visio)
+title: Cell.ResultStr property (Visio)
 keywords: vis_sdr.chm10114230
 f1_keywords:
 - vis_sdr.chm10114230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.ResultStr Property (Visio)
+# Cell.ResultStr property (Visio)
 
 Gets the value of a ShapeSheet cell expressed as a string. Read-only.
 

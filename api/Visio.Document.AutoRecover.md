@@ -1,5 +1,5 @@
 ---
-title: Document.AutoRecover Property (Visio)
+title: Document.AutoRecover property (Visio)
 keywords: vis_sdr.chm10514710
 f1_keywords:
 - vis_sdr.chm10514710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.AutoRecover Property (Visio)
+# Document.AutoRecover property (Visio)
 
 Determines whether an open document that has unsaved changes is copied when automatic recovery is enabled. Read/write.
 

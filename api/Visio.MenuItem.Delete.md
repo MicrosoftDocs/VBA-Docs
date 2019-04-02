@@ -1,5 +1,5 @@
 ---
-title: MenuItem.Delete Method (Visio)
+title: MenuItem.Delete method (Visio)
 keywords: vis_sdr.chm12916165
 f1_keywords:
 - vis_sdr.chm12916165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.Delete Method (Visio)
+# MenuItem.Delete method (Visio)
 
 Deletes an object.
 

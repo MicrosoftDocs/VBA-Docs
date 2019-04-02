@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSets.Item Property (Visio)
+title: ValidationRuleSets.Item property (Visio)
 keywords: vis_sdr.chm18113765
 f1_keywords:
 - vis_sdr.chm18113765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSets.Item Property (Visio)
+# ValidationRuleSets.Item property (Visio)
 
 Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that has the specified universal name or index position. Read-only.
 

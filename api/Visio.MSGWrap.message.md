@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.message Property (Visio)
+title: MSGWrap.message property (Visio)
 keywords: vis_sdr.chm16150730
 f1_keywords:
 - vis_sdr.chm16150730
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap.message Property (Visio)
+# MSGWrap.message property (Visio)
 
 Gets or sets the  **message** member of the **MSG** structure being wrapped. Read/write.
 

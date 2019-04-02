@@ -1,5 +1,5 @@
 ---
-title: Page.ObjectType Property (Visio)
+title: Page.ObjectType property (Visio)
 keywords: vis_sdr.chm10913960
 f1_keywords:
 - vis_sdr.chm10913960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.ObjectType Property (Visio)
+# Page.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

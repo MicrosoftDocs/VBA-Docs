@@ -1,5 +1,5 @@
 ---
-title: ValidationRules.Document Property (Visio)
+title: ValidationRules.Document property (Visio)
 ms.prod: visio
 api_name:
 - Visio.ValidationRules.Document
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRules.Document Property (Visio)
+# ValidationRules.Document property (Visio)
 
 Returns the  **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
 

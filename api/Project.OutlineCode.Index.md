@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.Index Property (Project)
+title: OutlineCode.Index property (Project)
 keywords: vbapj.chm132461
 f1_keywords:
 - vbapj.chm132461
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.Index Property (Project)
+# OutlineCode.Index property (Project)
 
 Gets the index of an  **OutlineCode** object in the containing **OutlineCodes** collection. Read-only **Long**.
 

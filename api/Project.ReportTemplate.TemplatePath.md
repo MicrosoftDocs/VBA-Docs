@@ -1,5 +1,5 @@
 ---
-title: ReportTemplate.TemplatePath Property (Project)
+title: ReportTemplate.TemplatePath property (Project)
 ms.prod: project-server
 api_name:
 - Project.ReportTemplate.TemplatePath
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportTemplate.TemplatePath Property (Project)
+# ReportTemplate.TemplatePath property (Project)
 
 Gets the path and file name of the Visual Report template. Read-only  **String**.
 

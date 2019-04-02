@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.FieldID Property (Project)
+title: OutlineCode.FieldID property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.FieldID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.FieldID Property (Project)
+# OutlineCode.FieldID property (Project)
 
 Gets the identification number of the local outline code. Read-only  **PjCustomField**.
 

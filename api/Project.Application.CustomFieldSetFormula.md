@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldSetFormula Method (Project)
+title: Application.CustomFieldSetFormula method (Project)
 keywords: vbapj.chm36
 f1_keywords:
 - vbapj.chm36
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldSetFormula Method (Project)
+# Application.CustomFieldSetFormula method (Project)
 
 Specifies a formula to use when assigning a value to a custom field.
 

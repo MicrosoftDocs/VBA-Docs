@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline2Duration Property (Project)
+title: Task.Baseline2Duration property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline2Duration
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline2Duration Property (Project)
+# Task.Baseline2Duration property (Project)
 
 Gets or sets the baseline duration (in minutes) of a task. Read/write  **Variant**.
 

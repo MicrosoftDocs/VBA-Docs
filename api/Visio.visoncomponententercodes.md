@@ -1,5 +1,5 @@
 ---
-title: VisOnComponentEnterCodes Enumeration (Visio)
+title: VisOnComponentEnterCodes enumeration (Visio)
 keywords: vis_sdr.chm70360
 f1_keywords:
 - vis_sdr.chm70360
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisOnComponentEnterCodes Enumeration (Visio)
+# VisOnComponentEnterCodes enumeration (Visio)
 
 Flags to pass to the  **Application.OnComponentEnterState** method.
 

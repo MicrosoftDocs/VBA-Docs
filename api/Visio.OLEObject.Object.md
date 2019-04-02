@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Object Property (Visio)
+title: OLEObject.Object property (Visio)
 keywords: vis_sdr.chm15213950
 f1_keywords:
 - vis_sdr.chm15213950
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEObject.Object Property (Visio)
+# OLEObject.Object property (Visio)
 
 Returns an  **IDispatch** interface on the ActiveX control or embedded or linked OLE 2.0 object represented by a **Shape** object or an **OLEObject** object. Read-only.
 

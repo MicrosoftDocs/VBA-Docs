@@ -1,5 +1,5 @@
 ---
-title: Page.Drop Method (Visio)
+title: Page.Drop method (Visio)
 keywords: vis_sdr.chm10916235
 f1_keywords:
 - vis_sdr.chm10916235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Drop Method (Visio)
+# Page.Drop method (Visio)
 
 Creates one or more new  **Shape** objects by dropping an object onto a receiving object such as a master, drawing page, shape, or group.
 

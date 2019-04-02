@@ -1,5 +1,5 @@
 ---
-title: VisSelectArgs Enumeration (Visio)
+title: VisSelectArgs enumeration (Visio)
 keywords: vis_sdr.chm70070
 f1_keywords:
 - vis_sdr.chm70070
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSelectArgs Enumeration (Visio)
+# VisSelectArgs enumeration (Visio)
 
 Selection-type constants to be passed to the  **Selection.Select** and **Window.Select** methods.
 

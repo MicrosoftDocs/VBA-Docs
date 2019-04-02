@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalOutlineCodes Property (Project)
+title: Application.GlobalOutlineCodes property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.GlobalOutlineCodes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalOutlineCodes Property (Project)
+# Application.GlobalOutlineCodes property (Project)
 
 Gets or sets an  **[OutlineCodes](Project.outlinecodes(object).md)** collection in the Global.mpt file, along with enterprise text custom fields that use a lookup table. Read/write **OutlineCodes**.
 

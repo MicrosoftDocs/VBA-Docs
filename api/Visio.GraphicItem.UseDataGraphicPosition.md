@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.UseDataGraphicPosition Property (Visio)
+title: GraphicItem.UseDataGraphicPosition property (Visio)
 keywords: vis_sdr.chm16960450
 f1_keywords:
 - vis_sdr.chm16960450
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.UseDataGraphicPosition Property (Visio)
+# GraphicItem.UseDataGraphicPosition property (Visio)
 
 Gets or sets whether to use the current default callout position for graphic items of the data graphic master to whose  **GraphicItems** collection the graphic item belongs. Read/write.
 

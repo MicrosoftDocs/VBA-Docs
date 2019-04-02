@@ -1,5 +1,5 @@
 ---
-title: OlMouseButton Enumeration (Outlook)
+title: OlMouseButton enumeration (Outlook)
 keywords: vbaol11.chm1000033
 f1_keywords:
 - vbaol11.chm1000033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlMouseButton Enumeration (Outlook)
+# OlMouseButton enumeration (Outlook)
 
 Indicates which mouse button is pressed during a mouse event.
 

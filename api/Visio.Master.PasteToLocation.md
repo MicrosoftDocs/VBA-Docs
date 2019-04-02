@@ -1,5 +1,5 @@
 ---
-title: Master.PasteToLocation Method (Visio)
+title: Master.PasteToLocation method (Visio)
 keywords: vis_sdr.chm10762120
 f1_keywords:
 - vis_sdr.chm10762120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.PasteToLocation Method (Visio)
+# Master.PasteToLocation method (Visio)
 
 Pastes a shape to the specified location.
 

@@ -1,5 +1,5 @@
 ---
-title: Page.UniqueIDsToShapeIDs Method (Visio)
+title: Page.UniqueIDsToShapeIDs method (Visio)
 keywords: vis_sdr.chm10960165
 f1_keywords:
 - vis_sdr.chm10960165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.UniqueIDsToShapeIDs Method (Visio)
+# Page.UniqueIDsToShapeIDs method (Visio)
 
 Returns an array of shape IDs of shapes on the page, as specified by their unique IDs.
 

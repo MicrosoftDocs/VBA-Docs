@@ -1,5 +1,5 @@
 ---
-title: VisGraphicField Enumeration (Visio)
+title: VisGraphicField enumeration (Visio)
 keywords: vis_sdr.chm70470
 f1_keywords:
 - vis_sdr.chm70470
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisGraphicField Enumeration (Visio)
+# VisGraphicField enumeration (Visio)
 
 Graphic item primary-data-field constants passed to the  **[GraphicItem.SetExpression](Visio.GraphicItem.SetExpression.md)** method and returned by the **[GraphicItem.GetExpression](Visio.GraphicItem.GetExpression.md)** method.
 

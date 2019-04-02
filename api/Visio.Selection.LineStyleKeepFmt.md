@@ -1,5 +1,5 @@
 ---
-title: Selection.LineStyleKeepFmt Property (Visio)
+title: Selection.LineStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11113850
 f1_keywords:
 - vis_sdr.chm11113850
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.LineStyleKeepFmt Property (Visio)
+# Selection.LineStyleKeepFmt property (Visio)
 
 Applies a line style to an object while preserving local formatting. Read/write.
 

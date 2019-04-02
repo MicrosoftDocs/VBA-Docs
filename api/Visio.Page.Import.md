@@ -1,5 +1,5 @@
 ---
-title: Page.Import Method (Visio)
+title: Page.Import method (Visio)
 keywords: vis_sdr.chm10916355
 f1_keywords:
 - vis_sdr.chm10916355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Import Method (Visio)
+# Page.Import method (Visio)
 
 Imports a file into the current document.
 

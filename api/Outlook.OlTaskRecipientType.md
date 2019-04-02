@@ -1,5 +1,5 @@
 ---
-title: OlTaskRecipientType Enumeration (Outlook)
+title: OlTaskRecipientType enumeration (Outlook)
 keywords: vbaol11.chm3085
 f1_keywords:
 - vbaol11.chm3085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTaskRecipientType Enumeration (Outlook)
+# OlTaskRecipientType enumeration (Outlook)
 
 Indicates the task recipient type.
 

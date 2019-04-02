@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.KeyPress Event (Visio)
+title: InvisibleApp.KeyPress event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.KeyPress
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.KeyPress Event (Visio)
+# InvisibleApp.KeyPress event (Visio)
 
 Occurs when a keyboard key is pressed.
 

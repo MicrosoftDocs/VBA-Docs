@@ -1,5 +1,5 @@
 ---
-title: Assignment.PercentWorkComplete Property (Project)
+title: Assignment.PercentWorkComplete property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.PercentWorkComplete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.PercentWorkComplete Property (Project)
+# Assignment.PercentWorkComplete property (Project)
 
 Gets or sets the percentage of work complete for an assignment. Read/write  **Variant**.
 

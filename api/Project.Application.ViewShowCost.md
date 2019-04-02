@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowCost Method (Project)
+title: Application.ViewShowCost method (Project)
 keywords: vbapj.chm921
 f1_keywords:
 - vbapj.chm921
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowCost Method (Project)
+# Application.ViewShowCost method (Project)
 
 Displays cost information in the active view.
 

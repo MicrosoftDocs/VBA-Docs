@@ -1,5 +1,5 @@
 ---
-title: Cell.Text Property (Project)
+title: Cell.Text property (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell.Text
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Text Property (Project)
+# Cell.Text property (Project)
 
 Gets the text contents of the cell. Read-only  **String**.
 

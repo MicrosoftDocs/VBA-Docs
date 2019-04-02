@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayProjectGuide Property (Project)
+title: Application.DisplayProjectGuide property (Project)
 keywords: vbapj.chm132839
 f1_keywords:
 - vbapj.chm132839
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayProjectGuide Property (Project)
+# Application.DisplayProjectGuide property (Project)
 
  **True** if the **Project Guide** is shown by default on startup for all new projects. Read-only **Boolean**.
 

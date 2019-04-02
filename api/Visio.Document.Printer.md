@@ -1,5 +1,5 @@
 ---
-title: Document.Printer Property (Visio)
+title: Document.Printer property (Visio)
 keywords: vis_sdr.chm10550780
 f1_keywords:
 - vis_sdr.chm10550780
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Printer Property (Visio)
+# Document.Printer property (Visio)
 
 Specifies the name of the printer to use when printing the document. Read/write.
 

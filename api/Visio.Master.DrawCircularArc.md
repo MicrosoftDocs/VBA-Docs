@@ -1,5 +1,5 @@
 ---
-title: Master.DrawCircularArc Method (Visio)
+title: Master.DrawCircularArc method (Visio)
 keywords: vis_sdr.chm10752015
 f1_keywords:
 - vis_sdr.chm10752015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawCircularArc Method (Visio)
+# Master.DrawCircularArc method (Visio)
 
 Creates a new shape whose path consists of a circular arc defined by its center, radius, and start and end angles.
 

@@ -1,5 +1,5 @@
 ---
-title: AccelTables Object (Visio)
+title: AccelTables object (Visio)
 keywords: vis_sdr.chm10025
 f1_keywords:
 - vis_sdr.chm10025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelTables Object (Visio)
+# AccelTables object (Visio)
 
 Includes an  **AccelTable** object for each Microsoft Visio window context that has accelerators.
 

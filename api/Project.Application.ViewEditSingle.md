@@ -1,5 +1,5 @@
 ---
-title: Application.ViewEditSingle Method (Project)
+title: Application.ViewEditSingle method (Project)
 keywords: vbapj.chm303
 f1_keywords:
 - vbapj.chm303
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewEditSingle Method (Project)
+# Application.ViewEditSingle method (Project)
 
 Creates, edits, or copies a single-pane view.
 

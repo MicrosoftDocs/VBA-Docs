@@ -1,5 +1,5 @@
 ---
-title: Page.SetTheme Method (Visio)
+title: Page.SetTheme method (Visio)
 ms.prod: visio
 ms.assetid: 5a186f58-9a7a-bd8a-826b-85da75a4d59f
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Page.SetTheme Method (Visio)
+# Page.SetTheme method (Visio)
 
 Sets the theme for the specified page.
 

@@ -1,5 +1,5 @@
 ---
-title: PjComparison Enumeration (Project)
+title: PjComparison enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjComparison
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjComparison Enumeration (Project)
+# PjComparison enumeration (Project)
 
 Contains constants that specify the type of comparsion.
 

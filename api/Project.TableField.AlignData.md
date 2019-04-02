@@ -1,5 +1,5 @@
 ---
-title: TableField.AlignData Property (Project)
+title: TableField.AlignData property (Project)
 keywords: vbapj.chm132683
 f1_keywords:
 - vbapj.chm132683
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableField.AlignData Property (Project)
+# TableField.AlignData property (Project)
 
 Gets or sets the alignment of data in a table field. Read/write  **PjAlignment**.
 

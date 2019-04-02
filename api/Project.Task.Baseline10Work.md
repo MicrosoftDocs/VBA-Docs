@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline10Work Property (Project)
+title: Task.Baseline10Work property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline10Work
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline10Work Property (Project)
+# Task.Baseline10Work property (Project)
 
 Gets or sets the baseline work (in minutes) for a  **Task**. Read/write **Variant**.
 

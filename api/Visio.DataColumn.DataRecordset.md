@@ -1,5 +1,5 @@
 ---
-title: DataColumn.DataRecordset Property (Visio)
+title: DataColumn.DataRecordset property (Visio)
 keywords: vis_sdr.chm16760385
 f1_keywords:
 - vis_sdr.chm16760385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumn.DataRecordset Property (Visio)
+# DataColumn.DataRecordset property (Visio)
 
 Returns the  **[DataRecordset](Visio.DataColumn.DataRecordset.md)** object that contains the data column in its **[DataColumns](Visio.DataColumns.md)** collection. Read-only.
 

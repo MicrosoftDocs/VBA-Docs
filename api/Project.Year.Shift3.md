@@ -1,5 +1,5 @@
 ---
-title: Year.Shift3 Property (Project)
+title: Year.Shift3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Year.Shift3
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Year.Shift3 Property (Project)
+# Year.Shift3 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the third work shift throughout a year. Read-only **Shift**.
 

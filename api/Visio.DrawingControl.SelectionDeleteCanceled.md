@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.SelectionDeleteCanceled Event (Visio)
+title: DrawingControl.SelectionDeleteCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.SelectionDeleteCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.SelectionDeleteCanceled Event (Visio)
+# DrawingControl.SelectionDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelSelectionDelete** event.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.LiveDynamics Property (Visio)
+title: InvisibleApp.LiveDynamics property (Visio)
 keywords: vis_sdr.chm17513855
 f1_keywords:
 - vis_sdr.chm17513855
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.LiveDynamics Property (Visio)
+# InvisibleApp.LiveDynamics property (Visio)
 
 Controls whether Microsoft Visio recalculates shape properties during drag operations on every mouse move or only after the mouse button is released. Read/write.
 

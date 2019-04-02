@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldIndicatorDelete Method (Project)
+title: Application.CustomFieldIndicatorDelete method (Project)
 keywords: vbapj.chm39
 f1_keywords:
 - vbapj.chm39
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldIndicatorDelete Method (Project)
+# Application.CustomFieldIndicatorDelete method (Project)
 
 Removes a test condition from a custom field graphical indicator criteria list.
 

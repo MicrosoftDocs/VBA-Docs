@@ -1,5 +1,5 @@
 ---
-title: VisDocVersions Enumeration (Visio)
+title: VisDocVersions enumeration (Visio)
 keywords: vis_sdr.chm70150
 f1_keywords:
 - vis_sdr.chm70150
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDocVersions Enumeration (Visio)
+# VisDocVersions enumeration (Visio)
 
 Return values for the  **Document.Version** property.
 

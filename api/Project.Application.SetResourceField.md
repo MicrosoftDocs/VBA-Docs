@@ -1,5 +1,5 @@
 ---
-title: Application.SetResourceField Method (Project)
+title: Application.SetResourceField method (Project)
 keywords: vbapj.chm5
 f1_keywords:
 - vbapj.chm5
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetResourceField Method (Project)
+# Application.SetResourceField method (Project)
 
 Sets the value of a resource field.
 

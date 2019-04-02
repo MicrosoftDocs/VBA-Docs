@@ -1,5 +1,5 @@
 ---
-title: Shape.ContainingPage Property (Visio)
+title: Shape.ContainingPage property (Visio)
 keywords: vis_sdr.chm11213305
 f1_keywords:
 - vis_sdr.chm11213305
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ContainingPage Property (Visio)
+# Shape.ContainingPage property (Visio)
 
 Returns the page that contains an object.
 

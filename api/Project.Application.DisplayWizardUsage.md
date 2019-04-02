@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayWizardUsage Property (Project)
+title: Application.DisplayWizardUsage property (Project)
 keywords: vbapj.chm131756
 f1_keywords:
 - vbapj.chm131756
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayWizardUsage Property (Project)
+# Application.DisplayWizardUsage property (Project)
 
  **True** if the **Planning Wizard** displays tips about using Project more effectively. Read/write **Boolean**.
 

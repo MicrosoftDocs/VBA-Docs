@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Row Property (Visio)
+title: Hyperlink.Row property (Visio)
 keywords: vis_sdr.chm15014240
 f1_keywords:
 - vis_sdr.chm15014240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Row Property (Visio)
+# Hyperlink.Row property (Visio)
 
 Returns the row index of a hyperlink. Read-only.
 

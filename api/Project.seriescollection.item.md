@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Item Method (Project)
+title: SeriesCollection.Item method (Project)
 ms.prod: project-server
 ms.assetid: 3360bb21-9494-f39d-91e8-049a8fae6ad5
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection.Item Method (Project)
+# SeriesCollection.Item method (Project)
 Gets an individual  **Series** object in the series collection. Read-only **Series**.
 
 ## Syntax

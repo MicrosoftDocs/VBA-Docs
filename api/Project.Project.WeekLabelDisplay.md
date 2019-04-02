@@ -1,5 +1,5 @@
 ---
-title: Project.WeekLabelDisplay Property (Project)
+title: Project.WeekLabelDisplay property (Project)
 keywords: vbapj.chm132820
 f1_keywords:
 - vbapj.chm132820
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.WeekLabelDisplay Property (Project)
+# Project.WeekLabelDisplay property (Project)
 
 Gets or sets the abbreviation for "week" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
 

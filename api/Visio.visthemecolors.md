@@ -1,5 +1,5 @@
 ---
-title: VisThemeColors Enumeration (Visio)
+title: VisThemeColors enumeration (Visio)
 keywords: vis_sdr.chm70525
 f1_keywords:
 - vis_sdr.chm70525
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisThemeColors Enumeration (Visio)
+# VisThemeColors enumeration (Visio)
 
 Specifies theme color constants that are passed to and returned by the  **[Page.ThemeColors](Visio.Page.ThemeColors.md)** property.
 

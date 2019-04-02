@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSet.NameU Property (Visio)
+title: ValidationRuleSet.NameU property (Visio)
 keywords: vis_sdr.chm18251990
 f1_keywords:
 - vis_sdr.chm18251990
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSet.NameU Property (Visio)
+# ValidationRuleSet.NameU property (Visio)
 
 Specifies the universal name of the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object. This is the default property of the object. Read/write.
 

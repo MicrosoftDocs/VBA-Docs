@@ -1,5 +1,5 @@
 ---
-title: Application.WindowMoreWindows Method (Project)
+title: Application.WindowMoreWindows method (Project)
 keywords: vbapj.chm706
 f1_keywords:
 - vbapj.chm706
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowMoreWindows Method (Project)
+# Application.WindowMoreWindows method (Project)
 
 Displays the  **Activate** dialog box, which prompts the user to activate a window.
 

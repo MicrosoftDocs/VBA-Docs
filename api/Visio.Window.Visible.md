@@ -1,5 +1,5 @@
 ---
-title: Window.Visible Property (Visio)
+title: Window.Visible property (Visio)
 keywords: vis_sdr.chm11614650
 f1_keywords:
 - vis_sdr.chm11614650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Visible Property (Visio)
+# Window.Visible property (Visio)
 
 Determines whether a window is visible. Read/write.
 

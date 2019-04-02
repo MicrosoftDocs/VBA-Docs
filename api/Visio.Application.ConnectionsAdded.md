@@ -1,5 +1,5 @@
 ---
-title: Application.ConnectionsAdded Event (Visio)
+title: Application.ConnectionsAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.ConnectionsAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ConnectionsAdded Event (Visio)
+# Application.ConnectionsAdded event (Visio)
 
 Occurs after connections have been established between shapes.
 

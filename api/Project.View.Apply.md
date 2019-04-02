@@ -1,5 +1,5 @@
 ---
-title: View.Apply Method (Project)
+title: View.Apply method (Project)
 ms.prod: project-server
 api_name:
 - Project.View.Apply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# View.Apply Method (Project)
+# View.Apply method (Project)
 
 Applies the view.
 

@@ -1,5 +1,5 @@
 ---
-title: OlActionReplyStyle Enumeration (Outlook)
+title: OlActionReplyStyle enumeration (Outlook)
 keywords: vbaol11.chm3049
 f1_keywords:
 - vbaol11.chm3049
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlActionReplyStyle Enumeration (Outlook)
+# OlActionReplyStyle enumeration (Outlook)
 
 Specifies the reply style.
 

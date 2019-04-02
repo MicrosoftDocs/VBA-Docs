@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.Category Property (Visio)
+title: ValidationRule.Category property (Visio)
 keywords: vis_sdr.chm18413175
 f1_keywords:
 - vis_sdr.chm18413175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.Category Property (Visio)
+# ValidationRule.Category property (Visio)
 
 Represents the text displayed in the  **Category** column of the **Issues** window. Read/write.
 

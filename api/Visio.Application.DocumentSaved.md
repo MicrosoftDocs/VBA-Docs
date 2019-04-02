@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentSaved Event (Visio)
+title: Application.DocumentSaved event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.DocumentSaved
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentSaved Event (Visio)
+# Application.DocumentSaved event (Visio)
 
 Occurs after a document is saved.
 

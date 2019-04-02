@@ -1,5 +1,5 @@
 ---
-title: Application.UnregisterRibbonX Method (Visio)
+title: Application.UnregisterRibbonX method (Visio)
 keywords: vis_sdr.chm10062095
 f1_keywords:
 - vis_sdr.chm10062095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UnregisterRibbonX Method (Visio)
+# Application.UnregisterRibbonX method (Visio)
 
 Unregisters a previously registered  **IRibbonExtensibility** interface that a Microsoft Visio add-in implements.
 

@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSet.Description Property (Visio)
+title: ValidationRuleSet.Description property (Visio)
 keywords: vis_sdr.chm18213405
 f1_keywords:
 - vis_sdr.chm18213405
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSet.Description Property (Visio)
+# ValidationRuleSet.Description property (Visio)
 
 Specifies the description of the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that appears in the user interface. Read/write.
 

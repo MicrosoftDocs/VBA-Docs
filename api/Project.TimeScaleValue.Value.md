@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValue.Value Property (Project)
+title: TimeScaleValue.Value property (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.Value
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValue.Value Property (Project)
+# TimeScaleValue.Value property (Project)
 
 Gets or sets the value of a timephased data item. Work values are in minutes. Read/write  **Variant**.
 

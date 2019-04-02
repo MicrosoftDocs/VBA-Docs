@@ -1,5 +1,5 @@
 ---
-title: Application.DateDifference Method (Project)
+title: Application.DateDifference method (Project)
 keywords: vbapj.chm131207
 f1_keywords:
 - vbapj.chm131207
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DateDifference Method (Project)
+# Application.DateDifference method (Project)
 
 Returns the duration between two dates in minutes, for an automatically scheduled task.
 

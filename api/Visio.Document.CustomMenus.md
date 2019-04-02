@@ -1,5 +1,5 @@
 ---
-title: Document.CustomMenus Property (Visio)
+title: Document.CustomMenus property (Visio)
 keywords: vis_sdr.chm10513345
 f1_keywords:
 - vis_sdr.chm10513345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.CustomMenus Property (Visio)
+# Document.CustomMenus property (Visio)
 
 Gets a  **UIObject** object that represents the current custom menus and accelerators of a **Document** object. Read-only.
 

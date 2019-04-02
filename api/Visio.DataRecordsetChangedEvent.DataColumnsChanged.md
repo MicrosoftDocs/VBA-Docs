@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.DataColumnsChanged Property (Visio)
+title: DataRecordsetChangedEvent.DataColumnsChanged property (Visio)
 keywords: vis_sdr.chm17260475
 f1_keywords:
 - vis_sdr.chm17260475
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.DataColumnsChanged Property (Visio)
+# DataRecordsetChangedEvent.DataColumnsChanged property (Visio)
 
 Returns an array of names of data columns in a data recordset whose types have changed as a result of data in the data recordset being refreshed. Read-only.
 

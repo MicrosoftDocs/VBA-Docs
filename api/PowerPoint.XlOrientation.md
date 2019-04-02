@@ -1,5 +1,5 @@
 ---
-title: XlOrientation Enumeration (PowerPoint)
+title: XlOrientation enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlOrientation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlOrientation Enumeration (PowerPoint)
+# XlOrientation enumeration (PowerPoint)
 
 Specifies the text orientation.
 

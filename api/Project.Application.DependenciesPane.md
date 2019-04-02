@@ -1,5 +1,5 @@
 ---
-title: Application.DependenciesPane Method (Project)
+title: Application.DependenciesPane method (Project)
 keywords: vbapj.chm2281
 f1_keywords:
 - vbapj.chm2281
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DependenciesPane Method (Project)
+# Application.DependenciesPane method (Project)
 
 Displays the project  **Dependency** pane when connected to Project Server. Available in Project Professional only.
 

@@ -1,5 +1,5 @@
 ---
-title: PbPublicationLayout Enumeration (Publisher)
+title: PbPublicationLayout enumeration (Publisher)
 keywords: vbapb10.chm65617
 f1_keywords:
 - vbapb10.chm65617
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PbPublicationLayout Enumeration (Publisher)
+# PbPublicationLayout enumeration (Publisher)
 
 Represents the layout type of the specified publication.
 

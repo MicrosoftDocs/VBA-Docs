@@ -1,5 +1,5 @@
 ---
-title: ReportTable.RowsCount Property (Project)
+title: ReportTable.RowsCount property (Project)
 ms.prod: project-server
 ms.assetid: 313837bd-c929-ab9c-1b2f-93e2cfb38d7d
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ReportTable.RowsCount Property (Project)
+# ReportTable.RowsCount property (Project)
 Gets the number of rows in the table. Read-only  **Long**.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.QueueMarkerEvent Method (Visio)
+title: InvisibleApp.QueueMarkerEvent method (Visio)
 keywords: vis_sdr.chm17516455
 f1_keywords:
 - vis_sdr.chm17516455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.QueueMarkerEvent Method (Visio)
+# InvisibleApp.QueueMarkerEvent method (Visio)
 
 Queues a  **MarkerEvent** event that fires after all other queued events.
 

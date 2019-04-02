@@ -1,5 +1,5 @@
 ---
-title: Application.WindowNext Method (Project)
+title: Application.WindowNext method (Project)
 keywords: vbapj.chm2005
 f1_keywords:
 - vbapj.chm2005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowNext Method (Project)
+# Application.WindowNext method (Project)
 
 Activates the next window in the order in which windows were opened.
 

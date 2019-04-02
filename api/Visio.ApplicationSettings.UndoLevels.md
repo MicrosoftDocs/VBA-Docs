@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.UndoLevels Property (Visio)
+title: ApplicationSettings.UndoLevels property (Visio)
 keywords: vis_sdr.chm16251490
 f1_keywords:
 - vis_sdr.chm16251490
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.UndoLevels Property (Visio)
+# ApplicationSettings.UndoLevels property (Visio)
 
 Determines the number of consecutive actions the user can undo in Microsoft Visio. Read/write.
 

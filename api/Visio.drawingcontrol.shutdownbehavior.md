@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.ShutdownBehavior Property (Visio)
+title: DrawingControl.ShutdownBehavior property (Visio)
 ms.prod: visio
 ms.assetid: 19c3e160-4b1d-40f1-b41d-69f21fca1d0d
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.ShutdownBehavior Property (Visio)
+# DrawingControl.ShutdownBehavior property (Visio)
 
 Determines how the Visio Drawing Control unloads the Visio application when the  **DrawingControl** object is released. Read/write **Integer**.
 

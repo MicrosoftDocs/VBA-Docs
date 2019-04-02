@@ -1,5 +1,5 @@
 ---
-title: Page.ResizeToFitContents Method (Visio)
+title: Page.ResizeToFitContents method (Visio)
 keywords: vis_sdr.chm10950820
 f1_keywords:
 - vis_sdr.chm10950820
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.ResizeToFitContents Method (Visio)
+# Page.ResizeToFitContents method (Visio)
 
 Resizes the page, or the master's page, to fit tightly around the shapes or master that are on it.
 

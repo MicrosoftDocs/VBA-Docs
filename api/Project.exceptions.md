@@ -1,5 +1,5 @@
 ---
-title: Exceptions Object (Project)
+title: Exceptions object (Project)
 keywords: vbapj.chm131288
 f1_keywords:
 - vbapj.chm131288
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Exceptions Object (Project)
+# Exceptions object (Project)
 
  Contains a collection of **[Exception](Project.Exception.md)** objects.
  

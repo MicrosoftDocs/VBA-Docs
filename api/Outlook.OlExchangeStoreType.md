@@ -1,5 +1,5 @@
 ---
-title: OlExchangeStoreType Enumeration (Outlook)
+title: OlExchangeStoreType enumeration (Outlook)
 keywords: vbaol11.chm3106
 f1_keywords:
 - vbaol11.chm3106
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlExchangeStoreType Enumeration (Outlook)
+# OlExchangeStoreType enumeration (Outlook)
 
 Specifies the type of Exchange store.
 

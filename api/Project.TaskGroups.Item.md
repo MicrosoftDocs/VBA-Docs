@@ -1,5 +1,5 @@
 ---
-title: TaskGroups.Item Property (Project)
+title: TaskGroups.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskGroups.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskGroups.Item Property (Project)
+# TaskGroups.Item property (Project)
 
 Gets a single  **Group** object from the **TaskGroups** collection. Read-only **Group**.
 

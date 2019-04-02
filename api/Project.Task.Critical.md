@@ -1,5 +1,5 @@
 ---
-title: Task.Critical Property (Project)
+title: Task.Critical property (Project)
 keywords: vbapj.chm131694
 f1_keywords:
 - vbapj.chm131694
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Critical Property (Project)
+# Task.Critical property (Project)
 
  **True** if the task is on the critical path. Read-only **Boolean**.
 

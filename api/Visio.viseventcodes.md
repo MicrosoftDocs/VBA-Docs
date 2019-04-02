@@ -1,5 +1,5 @@
 ---
-title: VisEventCodes Enumeration (Visio)
+title: VisEventCodes enumeration (Visio)
 keywords: vis_sdr.chm70125
 f1_keywords:
 - vis_sdr.chm70125
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisEventCodes Enumeration (Visio)
+# VisEventCodes enumeration (Visio)
 
 Codes for Microsoft Visio events, event actions, and event IDs.
 

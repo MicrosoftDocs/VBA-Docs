@@ -1,5 +1,5 @@
 ---
-title: Application.CompareProjectVersions Method (Project)
+title: Application.CompareProjectVersions method (Project)
 keywords: vbapj.chm2183
 f1_keywords:
 - vbapj.chm2183
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CompareProjectVersions Method (Project)
+# Application.CompareProjectVersions method (Project)
 
 Displays the  **Compare Project Versions** dialog box to compare two versions of a project.
 

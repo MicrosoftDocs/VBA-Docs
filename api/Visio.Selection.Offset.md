@@ -1,5 +1,5 @@
 ---
-title: Selection.Offset Method (Visio)
+title: Selection.Offset method (Visio)
 keywords: vis_sdr.chm11151345
 f1_keywords:
 - vis_sdr.chm11151345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Offset Method (Visio)
+# Selection.Offset method (Visio)
 
 Offsets a selection a specified amount.
 

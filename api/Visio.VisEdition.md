@@ -1,5 +1,5 @@
 ---
-title: VisEdition Enumeration (Visio)
+title: VisEdition enumeration (Visio)
 keywords: vis_sdr.chm70700
 f1_keywords:
 - vis_sdr.chm70700
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisEdition Enumeration (Visio)
+# VisEdition enumeration (Visio)
 
 
 

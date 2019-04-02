@@ -1,5 +1,5 @@
 ---
-title: Application.WebRefresh Method (Project)
+title: Application.WebRefresh method (Project)
 keywords: vbapj.chm1303
 f1_keywords:
 - vbapj.chm1303
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WebRefresh Method (Project)
+# Application.WebRefresh method (Project)
 
 Displays the previously viewed document, without reading it from the cache.
 

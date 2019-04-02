@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.DocumentChanged Event (Visio)
+title: DrawingControl.DocumentChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.DocumentChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.DocumentChanged Event (Visio)
+# DrawingControl.DocumentChanged event (Visio)
 
 Occurs after certain properties of a document are changed.
 

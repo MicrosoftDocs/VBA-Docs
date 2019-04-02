@@ -1,5 +1,5 @@
 ---
-title: Shape.LinkToData Method (Visio)
+title: Shape.LinkToData method (Visio)
 keywords: vis_sdr.chm11260190
 f1_keywords:
 - vis_sdr.chm11260190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.LinkToData Method (Visio)
+# Shape.LinkToData method (Visio)
 
 Links a shape to a data row in a data recordset.
 

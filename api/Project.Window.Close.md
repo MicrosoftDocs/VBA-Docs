@@ -1,5 +1,5 @@
 ---
-title: Window.Close Method (Project)
+title: Window.Close method (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Close Method (Project)
+# Window.Close method (Project)
 
 Closes a pane or window.
 

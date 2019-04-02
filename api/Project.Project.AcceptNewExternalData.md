@@ -1,5 +1,5 @@
 ---
-title: Project.AcceptNewExternalData Property (Project)
+title: Project.AcceptNewExternalData property (Project)
 keywords: vbapj.chm131365
 f1_keywords:
 - vbapj.chm131365
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.AcceptNewExternalData Property (Project)
+# Project.AcceptNewExternalData property (Project)
 
  **True** if new or changed data relating to an external task is automatically accepted when the project is opened. Read/write **Boolean**.
 

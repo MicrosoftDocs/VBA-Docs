@@ -1,5 +1,5 @@
 ---
-title: Style.IncludesText Property (Visio)
+title: Style.IncludesText property (Visio)
 keywords: vis_sdr.chm11413690
 f1_keywords:
 - vis_sdr.chm11413690
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.IncludesText Property (Visio)
+# Style.IncludesText property (Visio)
 
 Indicates whether the style includes text attributes. Read/write.
 

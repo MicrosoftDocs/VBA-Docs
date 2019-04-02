@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.DesignModeEntered Event (Visio)
+title: DrawingControl.DesignModeEntered event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.DesignModeEntered
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.DesignModeEntered Event (Visio)
+# DrawingControl.DesignModeEntered event (Visio)
 
 Occurs before a document enters design mode.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.ObjectType Property (Visio)
+title: Font.ObjectType property (Visio)
 keywords: vis_sdr.chm12013960
 f1_keywords:
 - vis_sdr.chm12013960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.ObjectType Property (Visio)
+# Font.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

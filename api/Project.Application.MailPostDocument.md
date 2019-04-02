@@ -1,5 +1,5 @@
 ---
-title: Application.MailPostDocument Method (Project)
+title: Application.MailPostDocument method (Project)
 keywords: vbapj.chm131
 f1_keywords:
 - vbapj.chm131
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailPostDocument Method (Project)
+# Application.MailPostDocument method (Project)
 
 Displays the  **Send To Exchange Folder** dialog box to post a document to Microsoft Exchange.
 

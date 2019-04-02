@@ -1,5 +1,5 @@
 ---
-title: Project.ReportList Property (Project)
+title: Project.ReportList property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ReportList
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ReportList Property (Project)
+# Project.ReportList property (Project)
 
 Deprecated in Project. 
 

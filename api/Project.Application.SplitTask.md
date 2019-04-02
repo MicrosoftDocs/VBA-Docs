@@ -1,5 +1,5 @@
 ---
-title: Application.SplitTask Method (Project)
+title: Application.SplitTask method (Project)
 keywords: vbapj.chm1011
 f1_keywords:
 - vbapj.chm1011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SplitTask Method (Project)
+# Application.SplitTask method (Project)
 
 Enters the interactive task split mode, enabling the user to manually create task splits.
 

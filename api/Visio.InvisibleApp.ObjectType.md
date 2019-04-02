@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ObjectType Property (Visio)
+title: InvisibleApp.ObjectType property (Visio)
 keywords: vis_sdr.chm17513960
 f1_keywords:
 - vis_sdr.chm17513960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ObjectType Property (Visio)
+# InvisibleApp.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

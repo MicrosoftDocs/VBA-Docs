@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeInsertBarcode Event (Publisher)
+title: Application.MailMergeInsertBarcode event (Publisher)
 keywords: vbapb10.chm268435481
 f1_keywords:
 - vbapb10.chm268435481
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeInsertBarcode Event (Publisher)
+# Application.MailMergeInsertBarcode event (Publisher)
 
 Occurs when the user issues the command to insert postal barcodes into a mail-merge publication, either in the Microsoft Publisher user interface (UI), or programmatically.
 

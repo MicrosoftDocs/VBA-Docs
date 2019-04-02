@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.MouseUp Event (Visio)
+title: DrawingControl.MouseUp event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.MouseUp
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.MouseUp Event (Visio)
+# DrawingControl.MouseUp event (Visio)
 
 Occurs when a mouse button is released.
 

@@ -1,5 +1,5 @@
 ---
-title: Projects.Item Property (Project)
+title: Projects.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Projects.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Projects.Item Property (Project)
+# Projects.Item property (Project)
 
 Gets a single  **Project** object from the **Projects** collection. Read-only **Project**.
 

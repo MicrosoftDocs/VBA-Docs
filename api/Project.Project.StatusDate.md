@@ -1,5 +1,5 @@
 ---
-title: Project.StatusDate Property (Project)
+title: Project.StatusDate property (Project)
 keywords: vbapj.chm132611
 f1_keywords:
 - vbapj.chm132611
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.StatusDate Property (Project)
+# Project.StatusDate property (Project)
 
 Gets or sets the current status date for the project. If there is no status date, returns "NA". Read/write  **Variant**.
 

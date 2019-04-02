@@ -1,5 +1,5 @@
 ---
-title: Project.StartOnCurrentDate Property (Project)
+title: Project.StartOnCurrentDate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.StartOnCurrentDate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.StartOnCurrentDate Property (Project)
+# Project.StartOnCurrentDate property (Project)
 
  **True** if new tasks start on the current date. **False** if new tasks start on the project start date. Read/write **Boolean**.
 

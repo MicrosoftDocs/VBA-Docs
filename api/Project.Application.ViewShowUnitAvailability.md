@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowUnitAvailability Method (Project)
+title: Application.ViewShowUnitAvailability method (Project)
 keywords: vbapj.chm931
 f1_keywords:
 - vbapj.chm931
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowUnitAvailability Method (Project)
+# Application.ViewShowUnitAvailability method (Project)
 
 Displays unit availability information in the active Resource Graph view.
 

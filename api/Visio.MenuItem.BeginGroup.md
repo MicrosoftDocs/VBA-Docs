@@ -1,5 +1,5 @@
 ---
-title: MenuItem.BeginGroup Property (Visio)
+title: MenuItem.BeginGroup property (Visio)
 keywords: vis_sdr.chm12951115
 f1_keywords:
 - vis_sdr.chm12951115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.BeginGroup Property (Visio)
+# MenuItem.BeginGroup property (Visio)
 
 Determines whether a menu item appears at the beginning of a group of items on the menu. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CheckField Method (Project)
+title: Application.CheckField method (Project)
 keywords: vbapj.chm7
 f1_keywords:
 - vbapj.chm7
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CheckField Method (Project)
+# Application.CheckField method (Project)
 
 **True** if the selected tasks or resources meet the specified criteria.
 

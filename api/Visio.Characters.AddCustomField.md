@@ -1,5 +1,5 @@
 ---
-title: Characters.AddCustomField Method (Visio)
+title: Characters.AddCustomField method (Visio)
 keywords: vis_sdr.chm10216025
 f1_keywords:
 - vis_sdr.chm10216025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.AddCustomField Method (Visio)
+# Characters.AddCustomField method (Visio)
 
 Replaces the text represented by a  **Characters** object with a custom formula field that uses universal syntax.
 

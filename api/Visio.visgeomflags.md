@@ -1,5 +1,5 @@
 ---
-title: VisGeomFlags Enumeration (Visio)
+title: VisGeomFlags enumeration (Visio)
 keywords: vis_sdr.chm70245
 f1_keywords:
 - vis_sdr.chm70245
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisGeomFlags Enumeration (Visio)
+# VisGeomFlags enumeration (Visio)
 
 Flags to pass to methods of the  **Row** object that get and put vertex arrays, such as **GetPolylineData**.
 

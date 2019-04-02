@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleEdit Method (Project)
+title: Application.GanttBarStyleEdit method (Project)
 keywords: vbapj.chm2060
 f1_keywords:
 - vbapj.chm2060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleEdit Method (Project)
+# Application.GanttBarStyleEdit method (Project)
 
 Changes or creates a Gantt bar style.
 

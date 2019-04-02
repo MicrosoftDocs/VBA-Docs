@@ -1,5 +1,5 @@
 ---
-title: Shape.Section Property (Visio)
+title: Shape.Section property (Visio)
 keywords: vis_sdr.chm11214300
 f1_keywords:
 - vis_sdr.chm11214300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Section Property (Visio)
+# Shape.Section property (Visio)
 
 Returns the requested  **Section** object belonging to a shape. Read-only.
 

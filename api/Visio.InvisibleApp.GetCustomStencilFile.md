@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.GetCustomStencilFile Method (Visio)
+title: InvisibleApp.GetCustomStencilFile method (Visio)
 keywords: vis_sdr.chm17562115
 f1_keywords:
 - vis_sdr.chm17562115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.GetCustomStencilFile Method (Visio)
+# InvisibleApp.GetCustomStencilFile method (Visio)
 
 Returns the path to the specified custom stencil used to populate certain galleries in the Microsoft Visio user interface.
 

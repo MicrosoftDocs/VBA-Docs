@@ -1,5 +1,5 @@
 ---
-title: XlDataLabelPosition Enumeration (PowerPoint)
+title: XlDataLabelPosition enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDataLabelPosition
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlDataLabelPosition Enumeration (PowerPoint)
+# XlDataLabelPosition enumeration (PowerPoint)
 
 Specifies where the data label is positioned.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.CostCenter Property (Project)
+title: Resource.CostCenter property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.CostCenter
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.CostCenter Property (Project)
+# Resource.CostCenter property (Project)
 
 Sets or gets the identifier for the unit or organization that tracks costs for the resource. Read/write  **String**.
 

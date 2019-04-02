@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReportsEdit Method (Project)
+title: Application.VisualReportsEdit method (Project)
 keywords: vbapj.chm2143
 f1_keywords:
 - vbapj.chm2143
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.VisualReportsEdit Method (Project)
+# Application.VisualReportsEdit method (Project)
 
 Opens the default or a specified Visual Reports template for editing.
 

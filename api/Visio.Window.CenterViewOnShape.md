@@ -1,5 +1,5 @@
 ---
-title: Window.CenterViewOnShape Method (Visio)
+title: Window.CenterViewOnShape method (Visio)
 keywords: vis_sdr.chm11662275
 f1_keywords:
 - vis_sdr.chm11662275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.CenterViewOnShape Method (Visio)
+# Window.CenterViewOnShape method (Visio)
 
 Pans the Microsoft Visio drawing window to place the specified shape in the center of the view.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CalloutRelationshipAdded Event (Visio)
+title: InvisibleApp.CalloutRelationshipAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CalloutRelationshipAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CalloutRelationshipAdded Event (Visio)
+# InvisibleApp.CalloutRelationshipAdded event (Visio)
 
 Occurs when a new callout relationship is added to the application.
 

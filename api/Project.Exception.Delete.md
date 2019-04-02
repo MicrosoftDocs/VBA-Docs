@@ -1,5 +1,5 @@
 ---
-title: Exception.Delete Method (Project)
+title: Exception.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.Delete Method (Project)
+# Exception.Delete method (Project)
 
 Deletes the  **Exception** object from an **Exceptions** collection.
 

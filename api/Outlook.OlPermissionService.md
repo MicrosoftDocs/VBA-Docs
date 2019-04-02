@@ -1,5 +1,5 @@
 ---
-title: OlPermissionService Enumeration (Outlook)
+title: OlPermissionService enumeration (Outlook)
 keywords: vbaol11.chm3102
 f1_keywords:
 - vbaol11.chm3102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlPermissionService Enumeration (Outlook)
+# OlPermissionService enumeration (Outlook)
 
 Specifies the permission service used when sending an Information Rights Management (IRM) protected  **MailItem** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell Object (Project)
+title: Cell object (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Cell Object (Project)
+# Cell object (Project)
 
 
 

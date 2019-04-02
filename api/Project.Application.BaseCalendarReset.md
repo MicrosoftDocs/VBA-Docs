@@ -1,5 +1,5 @@
 ---
-title: Application.BaseCalendarReset Method (Project)
+title: Application.BaseCalendarReset method (Project)
 keywords: vbapj.chm617
 f1_keywords:
 - vbapj.chm617
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BaseCalendarReset Method (Project)
+# Application.BaseCalendarReset method (Project)
 
 Resets a base calendar.
 

@@ -1,5 +1,5 @@
 ---
-title: Windows.ObjectType Property (Visio)
+title: Windows.ObjectType property (Visio)
 keywords: vis_sdr.chm11713960
 f1_keywords:
 - vis_sdr.chm11713960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.ObjectType Property (Visio)
+# Windows.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

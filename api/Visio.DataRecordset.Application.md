@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.Application Property (Visio)
+title: DataRecordset.Application property (Visio)
 keywords: vis_sdr.chm16413090
 f1_keywords:
 - vis_sdr.chm16413090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.Application Property (Visio)
+# DataRecordset.Application property (Visio)
 
 Returns the instance of Microsoft Visio associated with a  **DataRecordset** object. Read-only.
 

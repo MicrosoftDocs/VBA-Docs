@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceCalendars Method (Project)
+title: Application.ResourceCalendars method (Project)
 keywords: vbapj.chm605
 f1_keywords:
 - vbapj.chm605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceCalendars Method (Project)
+# Application.ResourceCalendars method (Project)
 
 Displays the  **Change Working Time** dialog box, which prompts the user to manage calendars.
 

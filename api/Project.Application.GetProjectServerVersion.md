@@ -1,5 +1,5 @@
 ---
-title: Application.GetProjectServerVersion Method (Project)
+title: Application.GetProjectServerVersion method (Project)
 keywords: vbapj.chm131223
 f1_keywords:
 - vbapj.chm131223
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GetProjectServerVersion Method (Project)
+# Application.GetProjectServerVersion method (Project)
 
 This method checks the version of the Project Server for the active project. The method can also be used to check whether a particular server URL points to a valid and functioning Project Server.
 

@@ -1,5 +1,5 @@
 ---
-title: VisRasterExportOperation Enumeration (Visio)
+title: VisRasterExportOperation enumeration (Visio)
 keywords: vis_sdr.chm70735
 f1_keywords:
 - vis_sdr.chm70735
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRasterExportOperation Enumeration (Visio)
+# VisRasterExportOperation enumeration (Visio)
 
 
 

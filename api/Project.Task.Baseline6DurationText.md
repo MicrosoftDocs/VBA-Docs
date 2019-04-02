@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline6DurationText Property (Project)
+title: Task.Baseline6DurationText property (Project)
 keywords: vbapj.chm131516
 f1_keywords:
 - vbapj.chm131516
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline6DurationText Property (Project)
+# Task.Baseline6DurationText property (Project)
 
 Gets or sets a string representation of the baseline duration of a task. Read/write  **String**.
 

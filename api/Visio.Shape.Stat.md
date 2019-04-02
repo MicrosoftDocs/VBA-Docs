@@ -1,5 +1,5 @@
 ---
-title: Shape.Stat Property (Visio)
+title: Shape.Stat property (Visio)
 keywords: vis_sdr.chm11214420
 f1_keywords:
 - vis_sdr.chm11214420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Stat Property (Visio)
+# Shape.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

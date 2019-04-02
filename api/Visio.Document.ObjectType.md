@@ -1,5 +1,5 @@
 ---
-title: Document.ObjectType Property (Visio)
+title: Document.ObjectType property (Visio)
 keywords: vis_sdr.chm10513960
 f1_keywords:
 - vis_sdr.chm10513960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ObjectType Property (Visio)
+# Document.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

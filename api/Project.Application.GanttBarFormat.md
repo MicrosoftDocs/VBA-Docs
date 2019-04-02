@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarFormat Method (Project)
+title: Application.GanttBarFormat method (Project)
 keywords: vbapj.chm938
 f1_keywords:
 - vbapj.chm938
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarFormat Method (Project)
+# Application.GanttBarFormat method (Project)
 
 Changes the formatting of Gantt bars from their default styles.
 

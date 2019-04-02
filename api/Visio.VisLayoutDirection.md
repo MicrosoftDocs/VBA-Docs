@@ -1,5 +1,5 @@
 ---
-title: VisLayoutDirection Enumeration (Visio)
+title: VisLayoutDirection enumeration (Visio)
 keywords: vis_sdr.chm70640
 f1_keywords:
 - vis_sdr.chm70640
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisLayoutDirection Enumeration (Visio)
+# VisLayoutDirection enumeration (Visio)
 
 Specifies constants that define the layout directions for a diagram or selection; passed to the  **[ContainerProperties.RotateFlipList](Visio.ContainerProperties.RotateFlipList.md)** and **[Selection.LayoutChangeDirection](Visio.Selection.LayoutChangeDirection.md)** methods.
 

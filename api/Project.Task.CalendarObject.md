@@ -1,5 +1,5 @@
 ---
-title: Task.CalendarObject Property (Project)
+title: Task.CalendarObject property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.CalendarObject
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.CalendarObject Property (Project)
+# Task.CalendarObject property (Project)
 
 Gets the Calendar object to be used when scheduling the task. Read-only  **Calendar**.
 

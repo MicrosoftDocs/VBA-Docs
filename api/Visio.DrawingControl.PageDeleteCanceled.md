@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.PageDeleteCanceled Event (Visio)
+title: DrawingControl.PageDeleteCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.PageDeleteCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.PageDeleteCanceled Event (Visio)
+# DrawingControl.PageDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelPageDelete** event.
 

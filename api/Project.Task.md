@@ -1,5 +1,5 @@
 ---
-title: Task Object (Project)
+title: Task object (Project)
 keywords: vbapj.chm131335
 f1_keywords:
 - vbapj.chm131335
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task Object (Project)
+# Task object (Project)
 
 
 

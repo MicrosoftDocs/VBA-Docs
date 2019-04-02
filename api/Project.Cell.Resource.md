@@ -1,5 +1,5 @@
 ---
-title: Cell.Resource Property (Project)
+title: Cell.Resource property (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell.Resource
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Resource Property (Project)
+# Cell.Resource property (Project)
 
 Gets a  **[Resource](Project.Resource.md)** object representing the resource in the active cell. Read-only **Resource**.
 

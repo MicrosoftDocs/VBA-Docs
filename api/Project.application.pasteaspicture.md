@@ -1,5 +1,5 @@
 ---
-title: Application.PasteAsPicture Method (Project)
+title: Application.PasteAsPicture method (Project)
 keywords: vbapj.chm138
 f1_keywords:
 - vbapj.chm138
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PasteAsPicture Method (Project)
+# Application.PasteAsPicture method (Project)
 Pastes a copy of a report or a shape, where the copy is a picture.
 
 ## Syntax

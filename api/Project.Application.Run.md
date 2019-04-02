@@ -1,5 +1,5 @@
 ---
-title: Application.Run Method (Project)
+title: Application.Run method (Project)
 keywords: vbapj.chm131259
 f1_keywords:
 - vbapj.chm131259
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Run Method (Project)
+# Application.Run method (Project)
 
 Runs the specified procedure.
 

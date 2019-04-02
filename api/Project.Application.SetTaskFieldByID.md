@@ -1,5 +1,5 @@
 ---
-title: Application.SetTaskFieldByID Method (Project)
+title: Application.SetTaskFieldByID method (Project)
 keywords: vbapj.chm95
 f1_keywords:
 - vbapj.chm95
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetTaskFieldByID Method (Project)
+# Application.SetTaskFieldByID method (Project)
 
 Sets the value of a task field specified by the field identification number.
 

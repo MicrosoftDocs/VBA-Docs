@@ -1,5 +1,5 @@
 ---
-title: Shape.Group Method (Visio)
+title: Shape.Group method (Visio)
 keywords: vis_sdr.chm11216345
 f1_keywords:
 - vis_sdr.chm11216345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Group Method (Visio)
+# Shape.Group method (Visio)
 
 Groups the objects that are selected in a selection, or it converts a shape into a group.
 

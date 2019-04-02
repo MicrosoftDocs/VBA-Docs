@@ -1,5 +1,5 @@
 ---
-title: OlMultiLine Enumeration (Outlook)
+title: OlMultiLine enumeration (Outlook)
 keywords: vbaol11.chm3122
 f1_keywords:
 - vbaol11.chm3122
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlMultiLine Enumeration (Outlook)
+# OlMultiLine enumeration (Outlook)
 
 Indicates when multiple lines are displayed in a  **[TableView](Outlook.TableView.md)** object.
 

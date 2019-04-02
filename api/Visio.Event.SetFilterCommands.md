@@ -1,5 +1,5 @@
 ---
-title: Event.SetFilterCommands Method (Visio)
+title: Event.SetFilterCommands method (Visio)
 keywords: vis_sdr.chm12650830
 f1_keywords:
 - vis_sdr.chm12650830
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.SetFilterCommands Method (Visio)
+# Event.SetFilterCommands method (Visio)
 
 Specifies an array of command ranges and a  **True** or **False** value indicating how to filter events for each command range.
 

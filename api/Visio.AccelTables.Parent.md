@@ -1,5 +1,5 @@
 ---
-title: AccelTables.Parent Property (Visio)
+title: AccelTables.Parent property (Visio)
 keywords: vis_sdr.chm14814040
 f1_keywords:
 - vis_sdr.chm14814040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelTables.Parent Property (Visio)
+# AccelTables.Parent property (Visio)
 
 Determines the parent of an object. Read-only.
 

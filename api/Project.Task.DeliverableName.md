@@ -1,5 +1,5 @@
 ---
-title: Task.DeliverableName Property (Project)
+title: Task.DeliverableName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.DeliverableName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.DeliverableName Property (Project)
+# Task.DeliverableName property (Project)
 
 Gets or sets the name of the deliverable. Read/write  **String**.
 

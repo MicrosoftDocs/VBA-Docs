@@ -1,5 +1,5 @@
 ---
-title: PjCacheJobState Enumeration (Project)
+title: PjCacheJobState enumeration (Project)
 ms.prod: project-server
 ms.assetid: 48572c9f-8c3d-8f6d-f633-94f7fedcfe3b
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# PjCacheJobState Enumeration (Project)
+# PjCacheJobState enumeration (Project)
 Contains constants that specify the cache status of a job that Project Professional sends to the Project Server Queue Service.
 
 ## Members

@@ -1,5 +1,5 @@
 ---
-title: Masters.ObjectType Property (Visio)
+title: Masters.ObjectType property (Visio)
 keywords: vis_sdr.chm10813960
 f1_keywords:
 - vis_sdr.chm10813960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Masters.ObjectType Property (Visio)
+# Masters.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

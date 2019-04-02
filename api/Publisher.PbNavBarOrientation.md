@@ -1,5 +1,5 @@
 ---
-title: PbNavBarOrientation Enumeration (Publisher)
+title: PbNavBarOrientation enumeration (Publisher)
 keywords: vbapb10.chm65624
 f1_keywords:
 - vbapb10.chm65624
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbNavBarOrientation Enumeration (Publisher)
+# PbNavBarOrientation enumeration (Publisher)
 
 Represents the alignment of the navigation bar; vertical or horizontal.
 

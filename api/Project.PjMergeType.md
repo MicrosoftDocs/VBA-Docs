@@ -1,5 +1,5 @@
 ---
-title: PjMergeType Enumeration (Project)
+title: PjMergeType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMergeType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjMergeType Enumeration (Project)
+# PjMergeType enumeration (Project)
 
 Contains constants that specify how to merge data.
 

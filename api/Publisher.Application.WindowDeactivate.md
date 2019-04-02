@@ -1,5 +1,5 @@
 ---
-title: Application.WindowDeactivate Event (Publisher)
+title: Application.WindowDeactivate event (Publisher)
 keywords: vbapb10.chm268435458
 f1_keywords:
 - vbapb10.chm268435458
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowDeactivate Event (Publisher)
+# Application.WindowDeactivate event (Publisher)
 
 Occurs when the application window is deactivated.
 

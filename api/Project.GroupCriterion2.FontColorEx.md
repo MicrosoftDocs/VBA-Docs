@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.FontColorEx Property (Project)
+title: GroupCriterion2.FontColorEx property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.FontColorEx
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.FontColorEx Property (Project)
+# GroupCriterion2.FontColorEx property (Project)
 
 Gets or sets the color of the font for a field used as a criterion in a group definition. Read/write  **Long**.
 

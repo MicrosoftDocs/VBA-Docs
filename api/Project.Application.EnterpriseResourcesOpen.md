@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseResourcesOpen Method (Project)
+title: Application.EnterpriseResourcesOpen method (Project)
 keywords: vbapj.chm2088
 f1_keywords:
 - vbapj.chm2088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseResourcesOpen Method (Project)
+# Application.EnterpriseResourcesOpen method (Project)
 
 Opens the pool of enterprise resources for viewing in a temporary project. Available in Project Professional only.
 

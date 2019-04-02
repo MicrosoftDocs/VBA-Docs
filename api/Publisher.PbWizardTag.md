@@ -1,5 +1,5 @@
 ---
-title: PbWizardTag Enumeration (Publisher)
+title: PbWizardTag enumeration (Publisher)
 keywords: vbapb10.chm65604
 f1_keywords:
 - vbapb10.chm65604
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWizardTag Enumeration (Publisher)
+# PbWizardTag enumeration (Publisher)
 
 Indicates the function of a specified shape with respect to its publication design. 
 

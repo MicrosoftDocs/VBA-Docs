@@ -1,5 +1,5 @@
 ---
-title: Window.BackgroundColorGradient Property (Visio)
+title: Window.BackgroundColorGradient property (Visio)
 keywords: vis_sdr.chm11651910
 f1_keywords:
 - vis_sdr.chm11651910
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.BackgroundColorGradient Property (Visio)
+# Window.BackgroundColorGradient property (Visio)
 
 Determines the background gradient color of the active Microsoft Visio drawing window and its associated print preview and full-screen view windows. Read/write.
 

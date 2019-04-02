@@ -1,5 +1,5 @@
 ---
-title: PbFieldType Enumeration (Publisher)
+title: PbFieldType enumeration (Publisher)
 keywords: vbapb10.chm65559
 f1_keywords:
 - vbapb10.chm65559
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbFieldType Enumeration (Publisher)
+# PbFieldType enumeration (Publisher)
 
 Represents the field type. 
 

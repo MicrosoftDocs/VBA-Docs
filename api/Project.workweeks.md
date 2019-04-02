@@ -1,5 +1,5 @@
 ---
-title: WorkWeeks Object (Project)
+title: WorkWeeks object (Project)
 keywords: vbapj.chm131360
 f1_keywords:
 - vbapj.chm131360
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeeks Object (Project)
+# WorkWeeks object (Project)
 
  Contains a collection of **[WorkWeek](Project.WorkWeek.md)** objects.
  

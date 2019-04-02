@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforeDocumentClose Event (Visio)
+title: DrawingControl.BeforeDocumentClose event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeDocumentClose
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeDocumentClose Event (Visio)
+# DrawingControl.BeforeDocumentClose event (Visio)
 
 Occurs before a document is closed.
 

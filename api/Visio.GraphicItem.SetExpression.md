@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.SetExpression Method (Visio)
+title: GraphicItem.SetExpression method (Visio)
 keywords: vis_sdr.chm16960430
 f1_keywords:
 - vis_sdr.chm16960430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.SetExpression Method (Visio)
+# GraphicItem.SetExpression method (Visio)
 
 Sets the value of the expression string that is part of a  **GraphicItem** object?s rule, against which shape data (custom properties) are evaluated.
 

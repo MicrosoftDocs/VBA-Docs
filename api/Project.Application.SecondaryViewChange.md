@@ -1,5 +1,5 @@
 ---
-title: Application.SecondaryViewChange Event (Project)
+title: Application.SecondaryViewChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.SecondaryViewChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SecondaryViewChange Event (Project)
+# Application.SecondaryViewChange event (Project)
 
 Event occurs when a secondary view pane changes within a project window.
 

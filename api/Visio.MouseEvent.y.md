@@ -1,5 +1,5 @@
 ---
-title: MouseEvent.y Property (Visio)
+title: MouseEvent.y property (Visio)
 keywords: vis_sdr.chm17151470
 f1_keywords:
 - vis_sdr.chm17151470
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MouseEvent.y Property (Visio)
+# MouseEvent.y property (Visio)
 
 Returns the y-coordinate of the location in the Microsoft Visio window where a  **MouseDown**, **MouseMove**, or **MouseUp** event fired. Read-only.
 

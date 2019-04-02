@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarTextDateFormat Method (Project)
+title: Application.GanttBarTextDateFormat method (Project)
 keywords: vbapj.chm2081
 f1_keywords:
 - vbapj.chm2081
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarTextDateFormat Method (Project)
+# Application.GanttBarTextDateFormat method (Project)
 
 Sets the date format for text around bars on the Gantt Chart.
 

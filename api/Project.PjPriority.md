@@ -1,5 +1,5 @@
 ---
-title: PjPriority Enumeration (Project)
+title: PjPriority enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPriority
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjPriority Enumeration (Project)
+# PjPriority enumeration (Project)
 
 The  **PjPriority** enumeration is obsolete and should not be used. Actual task priority values range from 0 to 1000.
 

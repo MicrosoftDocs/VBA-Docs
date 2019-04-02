@@ -1,5 +1,5 @@
 ---
-title: OlFormRegistry Enumeration (Outlook)
+title: OlFormRegistry enumeration (Outlook)
 keywords: vbaol11.chm3060
 f1_keywords:
 - vbaol11.chm3060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormRegistry Enumeration (Outlook)
+# OlFormRegistry enumeration (Outlook)
 
 Indicates the form registry (library) where the  **Form** is stored.
 

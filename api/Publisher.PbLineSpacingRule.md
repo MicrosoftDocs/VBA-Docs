@@ -1,5 +1,5 @@
 ---
-title: PbLineSpacingRule Enumeration (Publisher)
+title: PbLineSpacingRule enumeration (Publisher)
 keywords: vbapb10.chm65552
 f1_keywords:
 - vbapb10.chm65552
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbLineSpacingRule Enumeration (Publisher)
+# PbLineSpacingRule enumeration (Publisher)
 
 Represents the line spacing for the specified paragraphs.
 

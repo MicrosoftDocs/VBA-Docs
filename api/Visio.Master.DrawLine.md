@@ -1,5 +1,5 @@
 ---
-title: Master.DrawLine Method (Visio)
+title: Master.DrawLine method (Visio)
 keywords: vis_sdr.chm10716200
 f1_keywords:
 - vis_sdr.chm10716200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawLine Method (Visio)
+# Master.DrawLine method (Visio)
 
 Adds a line to the  **Shapes** collection of a master.
 

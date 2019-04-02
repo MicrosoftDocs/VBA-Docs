@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectGuideUseDefaultFunctionalLayoutPage Property (Project)
+title: Project.ProjectGuideUseDefaultFunctionalLayoutPage property (Project)
 keywords: vbapj.chm131089
 f1_keywords:
 - vbapj.chm131089
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectGuideUseDefaultFunctionalLayoutPage Property (Project)
+# Project.ProjectGuideUseDefaultFunctionalLayoutPage property (Project)
 
  **True** if Project uses the default Project Guide. **False** if you are customizing the Project Guide. Read/write **Boolean**.
 

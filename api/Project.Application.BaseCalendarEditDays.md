@@ -1,5 +1,5 @@
 ---
-title: Application.BaseCalendarEditDays Method (Project)
+title: Application.BaseCalendarEditDays method (Project)
 keywords: vbapj.chm615
 f1_keywords:
 - vbapj.chm615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BaseCalendarEditDays Method (Project)
+# Application.BaseCalendarEditDays method (Project)
 
 Changes one or more days in a base calendar.
 

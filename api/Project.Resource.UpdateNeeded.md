@@ -1,5 +1,5 @@
 ---
-title: Resource.UpdateNeeded Property (Project)
+title: Resource.UpdateNeeded property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.UpdateNeeded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.UpdateNeeded Property (Project)
+# Resource.UpdateNeeded property (Project)
 
  **True** if at least one task to which the resource is assigned has updates that the resource needs to receive. Read-only **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.UsageViewEntryEx Method (Project)
+title: Application.UsageViewEntryEx method (Project)
 keywords: vbapj.chm2163
 f1_keywords:
 - vbapj.chm2163
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UsageViewEntryEx Method (Project)
+# Application.UsageViewEntryEx method (Project)
 
 Adds fields to the  **Details** pane and option menu for the Task Usage or Resource Usage views, and formats the styles to help distinguish detail rows.
 

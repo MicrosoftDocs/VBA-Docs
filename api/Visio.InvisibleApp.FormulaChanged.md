@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.FormulaChanged Event (Visio)
+title: InvisibleApp.FormulaChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.FormulaChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.FormulaChanged Event (Visio)
+# InvisibleApp.FormulaChanged event (Visio)
 
 Occurs after a formula changes in a cell in the object that receives the event.
 

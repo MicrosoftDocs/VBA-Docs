@@ -1,5 +1,5 @@
 ---
-title: Pane.Application Property (Project)
+title: Pane.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.Pane.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Pane.Application Property (Project)
+# Pane.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

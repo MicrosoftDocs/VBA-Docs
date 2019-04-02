@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementProposedStart Property (Project)
+title: Resource.EngagementProposedStart property (Project)
 keywords: vbapj.chm131806
 f1_keywords:
 - vbapj.chm131806
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementProposedStart Property (Project)
+# Resource.EngagementProposedStart property (Project)
 
 Returns the proposed start date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
 

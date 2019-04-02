@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.GetListMembers Method (Visio)
+title: ContainerProperties.GetListMembers method (Visio)
 keywords: vis_sdr.chm17662345
 f1_keywords:
 - vis_sdr.chm17662345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.GetListMembers Method (Visio)
+# ContainerProperties.GetListMembers method (Visio)
 
 Returns an array of shape identifiers (IDs) of member shapes in the list.
 

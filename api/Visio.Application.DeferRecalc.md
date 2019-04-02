@@ -1,5 +1,5 @@
 ---
-title: Application.DeferRecalc Property (Visio)
+title: Application.DeferRecalc property (Visio)
 keywords: vis_sdr.chm10013400
 f1_keywords:
 - vis_sdr.chm10013400
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DeferRecalc Property (Visio)
+# Application.DeferRecalc property (Visio)
 
 Determines whether the application recalculates cell formulas during a series of actions. Read/write.
 

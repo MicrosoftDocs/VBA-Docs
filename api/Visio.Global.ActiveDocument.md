@@ -1,5 +1,5 @@
 ---
-title: Global.ActiveDocument Property (Visio)
+title: Global.ActiveDocument property (Visio)
 keywords: vis_sdr.chm12813025
 f1_keywords:
 - vis_sdr.chm12813025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Global.ActiveDocument Property (Visio)
+# Global.ActiveDocument property (Visio)
 
 Returns the active  **Document** object, which is the document shown in the active window. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: LookupTable.Application Property (Project)
+title: LookupTable.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.LookupTable.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTable.Application Property (Project)
+# LookupTable.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

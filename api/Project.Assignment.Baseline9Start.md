@@ -1,5 +1,5 @@
 ---
-title: Assignment.Baseline9Start Property (Project)
+title: Assignment.Baseline9Start property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline9Start
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Baseline9Start Property (Project)
+# Assignment.Baseline9Start property (Project)
 
 Gets or sets the baseline start date of a task  **Assignment**. Read/write **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.SegmentFillColor Method (Project)
+title: Application.SegmentFillColor method (Project)
 keywords: vbapj.chm71
 f1_keywords:
 - vbapj.chm71
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SegmentFillColor Method (Project)
+# Application.SegmentFillColor method (Project)
 
 Sets the fill color for the assignment segments of a selected task in the Team Planner view.
 

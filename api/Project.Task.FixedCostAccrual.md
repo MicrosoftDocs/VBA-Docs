@@ -1,5 +1,5 @@
 ---
-title: Task.FixedCostAccrual Property (Project)
+title: Task.FixedCostAccrual property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.FixedCostAccrual
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.FixedCostAccrual Property (Project)
+# Task.FixedCostAccrual property (Project)
 
 Gets or sets the way the task accrues fixed costs. Read/write  **PjAccrueAt**.
 

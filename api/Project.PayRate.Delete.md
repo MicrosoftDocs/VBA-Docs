@@ -1,5 +1,5 @@
 ---
-title: PayRate.Delete Method (Project)
+title: PayRate.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRate.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PayRate.Delete Method (Project)
+# PayRate.Delete method (Project)
 
 Deletes the  **PayRate** object from a **PayRates** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.AutoSplitTasks Property (Project)
+title: Project.AutoSplitTasks property (Project)
 keywords: vbapj.chm131408
 f1_keywords:
 - vbapj.chm131408
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.AutoSplitTasks Property (Project)
+# Project.AutoSplitTasks property (Project)
 
  **True** if Project automatically splits tasks into parts for work complete and work remaining. Read/write **Boolean**.
 

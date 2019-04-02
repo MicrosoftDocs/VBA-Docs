@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ActiveDocument Property (Visio)
+title: InvisibleApp.ActiveDocument property (Visio)
 keywords: vis_sdr.chm17513025
 f1_keywords:
 - vis_sdr.chm17513025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ActiveDocument Property (Visio)
+# InvisibleApp.ActiveDocument property (Visio)
 
 Returns the active  **Document** object, which is the document shown in the active window. Read-only.
 

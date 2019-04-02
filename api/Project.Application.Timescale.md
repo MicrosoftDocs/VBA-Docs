@@ -1,5 +1,5 @@
 ---
-title: Application.Timescale Method (Project)
+title: Application.Timescale method (Project)
 keywords: vbapj.chm942
 f1_keywords:
 - vbapj.chm942
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Timescale Method (Project)
+# Application.Timescale method (Project)
 
 Displays the  **Timescale** dialog box, which prompts the user to set timescale options.
 

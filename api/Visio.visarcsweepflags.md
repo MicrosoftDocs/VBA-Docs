@@ -1,5 +1,5 @@
 ---
-title: VisArcSweepFlags Enumeration (Visio)
+title: VisArcSweepFlags enumeration (Visio)
 keywords: vis_sdr.chm70455
 f1_keywords:
 - vis_sdr.chm70455
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisArcSweepFlags Enumeration (Visio)
+# VisArcSweepFlags enumeration (Visio)
 
 Sweep flag constants used in conjunction with the  **DrawQuarterArc** method.
 

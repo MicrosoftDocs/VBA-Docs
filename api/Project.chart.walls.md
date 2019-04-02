@@ -1,5 +1,5 @@
 ---
-title: Chart.Walls Property (Project)
+title: Chart.Walls property (Project)
 ms.prod: project-server
 ms.assetid: 8404e5cb-8da2-49b4-c49a-488d67457681
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Walls Property (Project)
+# Chart.Walls property (Project)
 Gets an  **Office.IMsoWalls** object that represents the walls of a 3-D chart. Read-only **IMsoWalls**.
 
 ## Syntax

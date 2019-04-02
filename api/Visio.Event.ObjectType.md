@@ -1,5 +1,5 @@
 ---
-title: Event.ObjectType Property (Visio)
+title: Event.ObjectType property (Visio)
 keywords: vis_sdr.chm12613960
 f1_keywords:
 - vis_sdr.chm12613960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.ObjectType Property (Visio)
+# Event.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

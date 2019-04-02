@@ -1,5 +1,5 @@
 ---
-title: Application.WindowSidepaneDisplayChange Event (Project)
+title: Application.WindowSidepaneDisplayChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowSidepaneDisplayChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowSidepaneDisplayChange Event (Project)
+# Application.WindowSidepaneDisplayChange event (Project)
 
 Occurs when the user shows or hides the Project Guide.
 

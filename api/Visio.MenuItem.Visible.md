@@ -1,5 +1,5 @@
 ---
-title: MenuItem.Visible Property (Visio)
+title: MenuItem.Visible property (Visio)
 keywords: vis_sdr.chm12914650
 f1_keywords:
 - vis_sdr.chm12914650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.Visible Property (Visio)
+# MenuItem.Visible property (Visio)
 
 Determines whether an object is visible. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.BaselineBudgetWork Property (Project)
+title: Task.BaselineBudgetWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.BaselineBudgetWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.BaselineBudgetWork Property (Project)
+# Task.BaselineBudgetWork property (Project)
 
 Gets or sets the baseline budget work hours for all non-cost resources assigned to the project summary task. Read/write  **Variant**.
 

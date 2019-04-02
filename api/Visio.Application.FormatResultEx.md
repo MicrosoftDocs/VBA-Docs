@@ -1,5 +1,5 @@
 ---
-title: Application.FormatResultEx Method (Visio)
+title: Application.FormatResultEx method (Visio)
 keywords: vis_sdr.chm10051375
 f1_keywords:
 - vis_sdr.chm10051375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FormatResultEx Method (Visio)
+# Application.FormatResultEx method (Visio)
 
 Formats a string or number into a string according to a format picture, using specified units for scaling and formatting. Optionally, for date or time strings, sets the language and calendar type of the string.
 

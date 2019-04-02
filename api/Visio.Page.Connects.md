@@ -1,5 +1,5 @@
 ---
-title: Page.Connects Property (Visio)
+title: Page.Connects property (Visio)
 keywords: vis_sdr.chm10913290
 f1_keywords:
 - vis_sdr.chm10913290
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Connects Property (Visio)
+# Page.Connects property (Visio)
 
 Returns a  **Connects** collection for a shape, page, or master. Read-only.
 

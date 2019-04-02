@@ -1,5 +1,5 @@
 ---
-title: CalendarDrivers.TotalDetectedCount Property (Project)
+title: CalendarDrivers.TotalDetectedCount property (Project)
 ms.prod: project-server
 api_name:
 - Project.CalendarDrivers.TotalDetectedCount
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarDrivers.TotalDetectedCount Property (Project)
+# CalendarDrivers.TotalDetectedCount property (Project)
 
 Gets the total number of calendar drivers that affect the dates of a task. Read-only  **Long**.
 

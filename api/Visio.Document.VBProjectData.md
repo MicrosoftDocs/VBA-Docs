@@ -1,5 +1,5 @@
 ---
-title: Document.VBProjectData Property (Visio)
+title: Document.VBProjectData property (Visio)
 keywords: vis_sdr.chm10550925
 f1_keywords:
 - vis_sdr.chm10550925
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.VBProjectData Property (Visio)
+# Document.VBProjectData property (Visio)
 
 Returns the Microsoft Visual Basic project data stored with a document. Read-only.
 

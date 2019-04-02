@@ -1,5 +1,5 @@
 ---
-title: VisUIBarProtection Enumeration (Visio)
+title: VisUIBarProtection enumeration (Visio)
 keywords: vis_sdr.chm70290
 f1_keywords:
 - vis_sdr.chm70290
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUIBarProtection Enumeration (Visio)
+# VisUIBarProtection enumeration (Visio)
 
 Values passed to and returned by the  **MenuSet.Protection** and **Toolbar.Protection** properties.
 

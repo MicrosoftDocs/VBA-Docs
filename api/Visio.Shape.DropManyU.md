@@ -1,5 +1,5 @@
 ---
-title: Shape.DropManyU Method (Visio)
+title: Shape.DropManyU method (Visio)
 keywords: vis_sdr.chm11251930
 f1_keywords:
 - vis_sdr.chm11251930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DropManyU Method (Visio)
+# Shape.DropManyU method (Visio)
 
 Creates one or more new  **Shape** objects on a page, in a master, or in a group. It returns an array of the IDs of the **Shape** objects it produces.
 

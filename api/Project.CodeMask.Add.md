@@ -1,5 +1,5 @@
 ---
-title: CodeMask.Add Method (Project)
+title: CodeMask.Add method (Project)
 keywords: vbapj.chm131648
 f1_keywords:
 - vbapj.chm131648
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CodeMask.Add Method (Project)
+# CodeMask.Add method (Project)
 
 Returns a  **[CodeMaskLevel](Project.CodeMaskLevel.md)** object.
 

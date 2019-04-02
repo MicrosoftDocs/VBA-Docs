@@ -1,5 +1,5 @@
 ---
-title: Subproject.IsLoaded Property (Project)
+title: Subproject.IsLoaded property (Project)
 ms.prod: project-server
 api_name:
 - Project.Subproject.IsLoaded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Subproject.IsLoaded Property (Project)
+# Subproject.IsLoaded property (Project)
 
  **True** if the specified subproject is currently loaded. Read-only **Boolean**.
 

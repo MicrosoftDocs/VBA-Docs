@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSets Object (Visio)
+title: ValidationRuleSets object (Visio)
 keywords: vis_sdr.chm61065
 f1_keywords:
 - vis_sdr.chm61065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSets Object (Visio)
+# ValidationRuleSets object (Visio)
 
 Includes a  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object for each validation rule set in the document.
 

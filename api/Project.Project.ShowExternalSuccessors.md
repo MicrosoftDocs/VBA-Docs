@@ -1,5 +1,5 @@
 ---
-title: Project.ShowExternalSuccessors Property (Project)
+title: Project.ShowExternalSuccessors property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ShowExternalSuccessors
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ShowExternalSuccessors Property (Project)
+# Project.ShowExternalSuccessors property (Project)
 
  **True** if successor tasks linked from an external project should be displayed. Read-only **Boolean**.
 

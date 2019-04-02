@@ -1,5 +1,5 @@
 ---
-title: Assignment.Cost9 Property (Project)
+title: Assignment.Cost9 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Cost9
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Cost9 Property (Project)
+# Assignment.Cost9 property (Project)
 
 Gets or sets the value of the  **Cost9** roll-down custom field for the assignment. Read/write **Variant**.
 

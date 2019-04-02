@@ -1,5 +1,5 @@
 ---
-title: Application.EditDelete Method (Project)
+title: Application.EditDelete method (Project)
 keywords: vbapj.chm208
 f1_keywords:
 - vbapj.chm208
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EditDelete Method (Project)
+# Application.EditDelete method (Project)
 
 Deletes the selected row, selected column, or row containing the active cell from the active view. If a column is deleted, the data displayed in that column is unaffected; otherwise, the data is also deleted.
 

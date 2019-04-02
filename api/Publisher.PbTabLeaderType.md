@@ -1,5 +1,5 @@
 ---
-title: PbTabLeaderType Enumeration (Publisher)
+title: PbTabLeaderType enumeration (Publisher)
 keywords: vbapb10.chm65558
 f1_keywords:
 - vbapb10.chm65558
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbTabLeaderType Enumeration (Publisher)
+# PbTabLeaderType enumeration (Publisher)
 
 Represents the leader character for a tab stop. 
 

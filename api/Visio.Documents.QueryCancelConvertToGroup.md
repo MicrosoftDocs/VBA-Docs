@@ -1,5 +1,5 @@
 ---
-title: Documents.QueryCancelConvertToGroup Event (Visio)
+title: Documents.QueryCancelConvertToGroup event (Visio)
 keywords: vis_sdr.chm10619325
 f1_keywords:
 - vis_sdr.chm10619325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.QueryCancelConvertToGroup Event (Visio)
+# Documents.QueryCancelConvertToGroup event (Visio)
 
 Occurs before the application converts a selection of shapes to a group in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

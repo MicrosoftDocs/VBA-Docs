@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalTaskFilters Property (Project)
+title: Application.GlobalTaskFilters property (Project)
 keywords: vbapj.chm132265
 f1_keywords:
 - vbapj.chm132265
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalTaskFilters Property (Project)
+# Application.GlobalTaskFilters property (Project)
 
 Gets or sets a  **[Filters](Project.Filter.md)** collection representing the task filters in the Global.mpt file. Read/write **Filters**.
 

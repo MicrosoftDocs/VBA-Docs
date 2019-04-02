@@ -1,5 +1,5 @@
 ---
-title: PjAccrueAt Enumeration (Project)
+title: PjAccrueAt enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAccrueAt
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAccrueAt Enumeration (Project)
+# PjAccrueAt enumeration (Project)
 
 Contains constants that specify how the cost of a resource is accrued.
 

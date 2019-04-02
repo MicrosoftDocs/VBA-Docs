@@ -1,5 +1,5 @@
 ---
-title: Application.TaskOnTimelineEx Method (Project)
+title: Application.TaskOnTimelineEx method (Project)
 keywords: vbapj.chm159
 f1_keywords:
 - vbapj.chm159
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskOnTimelineEx Method (Project)
+# Application.TaskOnTimelineEx method (Project)
 
 Manages tasks on the Timeline pane or for a specified custom timeline, including specifying the bar that you want to add or remove. Introduced in Office 2016.
 

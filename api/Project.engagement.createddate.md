@@ -1,5 +1,5 @@
 ---
-title: Engagement.CreatedDate Property (Project)
+title: Engagement.CreatedDate property (Project)
 keywords: vbapj.chm131692
 f1_keywords:
 - vbapj.chm131692
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.CreatedDate Property (Project)
+# Engagement.CreatedDate property (Project)
 
 The CreatedDate property for the Engagement object. Introduced in Office 2016.
 
@@ -25,6 +25,6 @@ _expression_. `CreatedDate`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

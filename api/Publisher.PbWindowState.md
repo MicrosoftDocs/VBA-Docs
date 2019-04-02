@@ -1,5 +1,5 @@
 ---
-title: PbWindowState Enumeration (Publisher)
+title: PbWindowState enumeration (Publisher)
 keywords: vbapb10.chm65561
 f1_keywords:
 - vbapb10.chm65561
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWindowState Enumeration (Publisher)
+# PbWindowState enumeration (Publisher)
 
 Indicates the state of the Microsoft Publisher window. 
 

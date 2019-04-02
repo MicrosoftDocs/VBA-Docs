@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeWindowPageTurn Event (Visio)
+title: Application.BeforeWindowPageTurn event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeWindowPageTurn
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeWindowPageTurn Event (Visio)
+# Application.BeforeWindowPageTurn event (Visio)
 
 Occurs before a window is about to show a different page.
 

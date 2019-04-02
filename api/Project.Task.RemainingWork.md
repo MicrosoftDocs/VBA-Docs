@@ -1,5 +1,5 @@
 ---
-title: Task.RemainingWork Property (Project)
+title: Task.RemainingWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.RemainingWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.RemainingWork Property (Project)
+# Task.RemainingWork property (Project)
 
 Gets or sets the remaining work (in minutes) for the task. Read-only for summary tasks. Read/write  **Variant**.
 

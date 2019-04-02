@@ -1,5 +1,5 @@
 ---
-title: Application.PromptForSummaryInfo Property (Project)
+title: Application.PromptForSummaryInfo property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.PromptForSummaryInfo
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PromptForSummaryInfo Property (Project)
+# Application.PromptForSummaryInfo property (Project)
 
  **True** if the **Project Information** dialog box displays when a new project is created. Read/write **Boolean**.
 

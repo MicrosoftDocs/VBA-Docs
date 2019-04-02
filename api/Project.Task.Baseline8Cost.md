@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline8Cost Property (Project)
+title: Task.Baseline8Cost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline8Cost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline8Cost Property (Project)
+# Task.Baseline8Cost property (Project)
 
 Gets or sets the baseline cost for a  **Task**. Read/write **Variant**.
 

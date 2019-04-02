@@ -1,5 +1,5 @@
 ---
-title: PpSlideShowAdvanceMode Enumeration (PowerPoint)
+title: PpSlideShowAdvanceMode enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideShowAdvanceMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpSlideShowAdvanceMode Enumeration (PowerPoint)
+# PpSlideShowAdvanceMode enumeration (PowerPoint)
 
 Constants that specify the mode of advance of the slide show, passed to and returned by the  **AdvanceMode** property of the **SlideShowSettings** object.
 

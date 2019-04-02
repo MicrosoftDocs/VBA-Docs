@@ -1,5 +1,5 @@
 ---
-title: Project.Open Event (Project)
+title: Project.Open event (Project)
 keywords: vbapj.chm131191
 f1_keywords:
 - vbapj.chm131191
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.Open Event (Project)
+# Project.Open event (Project)
 
 Occurs when the project opens, but before the  **Activate** event.
 

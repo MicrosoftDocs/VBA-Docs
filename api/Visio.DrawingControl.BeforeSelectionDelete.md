@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforeSelectionDelete Event (Visio)
+title: DrawingControl.BeforeSelectionDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeSelectionDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeSelectionDelete Event (Visio)
+# DrawingControl.BeforeSelectionDelete event (Visio)
 
 Occurs before selected objects are deleted.
 

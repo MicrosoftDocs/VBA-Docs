@@ -1,5 +1,5 @@
 ---
-title: Layer.Page Property (Visio)
+title: Layer.Page property (Visio)
 keywords: vis_sdr.chm11813980
 f1_keywords:
 - vis_sdr.chm11813980
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.Page Property (Visio)
+# Layer.Page property (Visio)
 
 Gets the page that contains the layer. Read-only.
 

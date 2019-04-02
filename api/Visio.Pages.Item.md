@@ -1,5 +1,5 @@
 ---
-title: Pages.Item Property (Visio)
+title: Pages.Item property (Visio)
 keywords: vis_sdr.chm11013765
 f1_keywords:
 - vis_sdr.chm11013765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Item Property (Visio)
+# Pages.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 

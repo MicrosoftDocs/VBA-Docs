@@ -1,5 +1,5 @@
 ---
-title: Pages.GetNamesU Method (Visio)
+title: Pages.GetNamesU method (Visio)
 keywords: vis_sdr.chm11051940
 f1_keywords:
 - vis_sdr.chm11051940
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.GetNamesU Method (Visio)
+# Pages.GetNamesU method (Visio)
 
 Returns the universal names of all items in a collection.
 

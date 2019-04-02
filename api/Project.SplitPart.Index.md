@@ -1,5 +1,5 @@
 ---
-title: SplitPart.Index Property (Project)
+title: SplitPart.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitPart.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitPart.Index Property (Project)
+# SplitPart.Index property (Project)
 
 Gets the index of a  **SplitPart** object in the **SplitParts** containing object. Read-only **Long**.
 

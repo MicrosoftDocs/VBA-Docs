@@ -1,5 +1,5 @@
 ---
-title: OlAppointmentTimeField Enumeration (Outlook)
+title: OlAppointmentTimeField enumeration (Outlook)
 keywords: vbaol11.chm1000531
 f1_keywords:
 - vbaol11.chm1000531
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAppointmentTimeField Enumeration (Outlook)
+# OlAppointmentTimeField enumeration (Outlook)
 
 Specifies the time field in an appointment that the control is bound to.
 

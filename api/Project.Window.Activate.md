@@ -1,5 +1,5 @@
 ---
-title: Window.Activate Method (Project)
+title: Window.Activate method (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Activate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Activate Method (Project)
+# Window.Activate method (Project)
 
 Activates the window, bringing the window to the front of the z-order.
 

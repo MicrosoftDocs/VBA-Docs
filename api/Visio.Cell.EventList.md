@@ -1,5 +1,5 @@
 ---
-title: Cell.EventList Property (Visio)
+title: Cell.EventList property (Visio)
 keywords: vis_sdr.chm10113480
 f1_keywords:
 - vis_sdr.chm10113480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.EventList Property (Visio)
+# Cell.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Reports.Application Property (Project)
+title: Reports.Application property (Project)
 ms.prod: project-server
 ms.assetid: cf1b16b3-dfad-0bf4-df9c-78f5b7fd0c24
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Reports.Application Property (Project)
+# Reports.Application property (Project)
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 
 ## Syntax

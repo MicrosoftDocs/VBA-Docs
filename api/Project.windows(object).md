@@ -1,5 +1,5 @@
 ---
-title: Windows Object (Project)
+title: Windows object (Project)
 keywords: vbapj.chm131357
 f1_keywords:
 - vbapj.chm131357
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Windows Object (Project)
+# Windows object (Project)
 
 Contains a collection of  **[Window](Project.Window.md)** objects. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Project** object contains only the windows in the specified project.
  

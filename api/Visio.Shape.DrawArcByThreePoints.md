@@ -1,5 +1,5 @@
 ---
-title: Shape.DrawArcByThreePoints Method (Visio)
+title: Shape.DrawArcByThreePoints method (Visio)
 keywords: vis_sdr.chm11251415
 f1_keywords:
 - vis_sdr.chm11251415
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DrawArcByThreePoints Method (Visio)
+# Shape.DrawArcByThreePoints method (Visio)
 
 Creates a shape whose path consists of an arc defined by the three points passed as parameters.
 

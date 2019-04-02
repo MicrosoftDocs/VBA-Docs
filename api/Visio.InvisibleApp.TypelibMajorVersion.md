@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.TypelibMajorVersion Property (Visio)
+title: InvisibleApp.TypelibMajorVersion property (Visio)
 keywords: vis_sdr.chm17514695
 f1_keywords:
 - vis_sdr.chm17514695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.TypelibMajorVersion Property (Visio)
+# InvisibleApp.TypelibMajorVersion property (Visio)
 
 Returns the major version number of the Microsoft Visio type library. Read-only.
 

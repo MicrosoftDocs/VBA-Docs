@@ -1,5 +1,5 @@
 ---
-title: Selection.AddToContainers Method (Visio)
+title: Selection.AddToContainers method (Visio)
 keywords: vis_sdr.chm11162215
 f1_keywords:
 - vis_sdr.chm11162215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.AddToContainers Method (Visio)
+# Selection.AddToContainers method (Visio)
 
 Adds the selection of shapes to all underlying containers that allow it as a member.
 

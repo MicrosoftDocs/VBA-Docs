@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ClearCustomToolbars Method (Visio)
+title: InvisibleApp.ClearCustomToolbars method (Visio)
 keywords: vis_sdr.chm17516115
 f1_keywords:
 - vis_sdr.chm17516115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ClearCustomToolbars Method (Visio)
+# InvisibleApp.ClearCustomToolbars method (Visio)
 
 Restores the built-in Microsoft Visio user interface.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DrawingPaths Property (Visio)
+title: InvisibleApp.DrawingPaths property (Visio)
 keywords: vis_sdr.chm17513445
 f1_keywords:
 - vis_sdr.chm17513445
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DrawingPaths Property (Visio)
+# InvisibleApp.DrawingPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for drawings. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Exception.Name Property (Project)
+title: Exception.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.Name Property (Project)
+# Exception.Name property (Project)
 
 Gets the name of an  **Exception** object. Read/write **String**.
 

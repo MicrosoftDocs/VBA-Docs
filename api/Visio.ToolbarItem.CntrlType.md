@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.CntrlType Property (Visio)
+title: ToolbarItem.CntrlType property (Visio)
 keywords: vis_sdr.chm13513265
 f1_keywords:
 - vis_sdr.chm13513265
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.CntrlType Property (Visio)
+# ToolbarItem.CntrlType property (Visio)
 
 Gets or sets the control type of a menu, menu item, or toolbar item. Read/write.
 

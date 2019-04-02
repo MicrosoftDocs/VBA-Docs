@@ -1,5 +1,5 @@
 ---
-title: Fonts.Stat Property (Visio)
+title: Fonts.Stat property (Visio)
 keywords: vis_sdr.chm12114420
 f1_keywords:
 - vis_sdr.chm12114420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Stat Property (Visio)
+# Fonts.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Table.Parent Property (Project)
+title: Table.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Table.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Parent Property (Project)
+# Table.Parent property (Project)
 
 Gets the parent of the  **Table** object. Read-only **Project**.
 

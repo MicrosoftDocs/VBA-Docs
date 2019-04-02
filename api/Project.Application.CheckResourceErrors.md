@@ -1,5 +1,5 @@
 ---
-title: Application.CheckResourceErrors Method (Project)
+title: Application.CheckResourceErrors method (Project)
 keywords: vbapj.chm2258
 f1_keywords:
 - vbapj.chm2258
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CheckResourceErrors Method (Project)
+# Application.CheckResourceErrors method (Project)
 
 Checks for errors when resources are imports to the enterprise, or when enterprise resource pool is saved.
 

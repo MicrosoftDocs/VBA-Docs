@@ -1,5 +1,5 @@
 ---
-title: Engagements.Add Method (Project)
+title: Engagements.Add method (Project)
 ms.assetid: c3871f6a-ce2f-d0ae-ed91-658afaae25dd
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Engagements.Add Method (Project)
+# Engagements.Add method (Project)
 
 Adds a new Engagement to the Resource. Introduced in Office 2016.
 

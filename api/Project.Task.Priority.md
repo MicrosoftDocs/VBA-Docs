@@ -1,5 +1,5 @@
 ---
-title: Task.Priority Property (Project)
+title: Task.Priority property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Priority
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Priority Property (Project)
+# Task.Priority property (Project)
 
 Gets or sets the priority for the task. Read/write  **Variant**.
 

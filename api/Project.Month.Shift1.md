@@ -1,5 +1,5 @@
 ---
-title: Month.Shift1 Property (Project)
+title: Month.Shift1 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Shift1
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Month.Shift1 Property (Project)
+# Month.Shift1 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the first work shift in a month. Read-only **Shift**.
 

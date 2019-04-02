@@ -1,5 +1,5 @@
 ---
-title: Row.ObjectType Property (Visio)
+title: Row.ObjectType property (Visio)
 keywords: vis_sdr.chm15813960
 f1_keywords:
 - vis_sdr.chm15813960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.ObjectType Property (Visio)
+# Row.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

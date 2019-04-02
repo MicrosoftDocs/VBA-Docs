@@ -1,5 +1,5 @@
 ---
-title: Resource.Cost9 Property (Project)
+title: Resource.Cost9 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Cost9
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Cost9 Property (Project)
+# Resource.Cost9 property (Project)
 
 Gets or sets the value of the  **Cost9** custom field for the resource. Read/write **Variant**.
 

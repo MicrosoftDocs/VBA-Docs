@@ -1,5 +1,5 @@
 ---
-title: Application.SelectCellLeft Method (Project)
+title: Application.SelectCellLeft method (Project)
 keywords: vbapj.chm2047
 f1_keywords:
 - vbapj.chm2047
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectCellLeft Method (Project)
+# Application.SelectCellLeft method (Project)
 
 Selects cells to the left of the current selection.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.AddHyperlink Method (Visio)
+title: Shape.AddHyperlink method (Visio)
 ms.prod: visio
 api_name:
 - Visio.Shape.AddHyperlink
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.AddHyperlink Method (Visio)
+# Shape.AddHyperlink method (Visio)
 
 Adds a  **Hyperlink** object to a Microsoft Visio shape.
 

@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SetRasterExportResolution Method (Visio)
+title: ApplicationSettings.SetRasterExportResolution method (Visio)
 keywords: vis_sdr.chm16262265
 f1_keywords:
 - vis_sdr.chm16262265
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SetRasterExportResolution Method (Visio)
+# ApplicationSettings.SetRasterExportResolution method (Visio)
 
 Specifies the raster export resolution settings.
 

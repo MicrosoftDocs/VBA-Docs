@@ -1,5 +1,5 @@
 ---
-title: Application.WebGoForward Method (Project)
+title: Application.WebGoForward method (Project)
 keywords: vbapj.chm1301
 f1_keywords:
 - vbapj.chm1301
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WebGoForward Method (Project)
+# Application.WebGoForward method (Project)
 
 Goes to the next document in the history list.
 

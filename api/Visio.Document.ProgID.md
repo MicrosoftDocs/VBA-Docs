@@ -1,5 +1,5 @@
 ---
-title: Document.ProgID Property (Visio)
+title: Document.ProgID property (Visio)
 keywords: vis_sdr.chm10514160
 f1_keywords:
 - vis_sdr.chm10514160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ProgID Property (Visio)
+# Document.ProgID property (Visio)
 
 Returns the programmatic identifier of a shape that represents an ActiveX control, an embedded object, or linked object. Read-only.
 

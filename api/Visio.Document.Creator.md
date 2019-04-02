@@ -1,5 +1,5 @@
 ---
-title: Document.Creator Property (Visio)
+title: Document.Creator property (Visio)
 keywords: vis_sdr.chm10513335
 f1_keywords:
 - vis_sdr.chm10513335
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Creator Property (Visio)
+# Document.Creator property (Visio)
 
 Gets or sets the value of a document's author—one of the document's properties. Read/write.
 

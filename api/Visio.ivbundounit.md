@@ -1,5 +1,5 @@
 ---
-title: IVBUndoUnit Object (Visio)
+title: IVBUndoUnit object (Visio)
 keywords: vis_sdr.chm60145
 f1_keywords:
 - vis_sdr.chm60145
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# IVBUndoUnit Object (Visio)
+# IVBUndoUnit object (Visio)
 
 The interface on an undo unit in Microsoft Visio. An undo unit encapsulates the information necessary to undo or redo a single action.
 

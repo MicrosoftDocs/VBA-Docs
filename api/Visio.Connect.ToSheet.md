@@ -1,5 +1,5 @@
 ---
-title: Connect.ToSheet Property (Visio)
+title: Connect.ToSheet property (Visio)
 keywords: vis_sdr.chm10314585
 f1_keywords:
 - vis_sdr.chm10314585
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Connect.ToSheet Property (Visio)
+# Connect.ToSheet property (Visio)
 
 Returns the shape to which one or more connections are made. Read-only.
 

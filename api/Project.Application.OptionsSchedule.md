@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsSchedule Method (Project)
+title: Application.OptionsSchedule method (Project)
 keywords: vbapj.chm644
 f1_keywords:
 - vbapj.chm644
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsSchedule Method (Project)
+# Application.OptionsSchedule method (Project)
 
 Sets scheduling options.
 

@@ -1,5 +1,5 @@
 ---
-title: Windows.EventList Property (Visio)
+title: Windows.EventList property (Visio)
 keywords: vis_sdr.chm11713480
 f1_keywords:
 - vis_sdr.chm11713480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.EventList Property (Visio)
+# Windows.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 

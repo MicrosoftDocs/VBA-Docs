@@ -1,5 +1,5 @@
 ---
-title: SplitPart.Application Property (Project)
+title: SplitPart.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitPart.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitPart.Application Property (Project)
+# SplitPart.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

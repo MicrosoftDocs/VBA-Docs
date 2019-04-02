@@ -1,5 +1,5 @@
 ---
-title: Window.Paste Method (Visio)
+title: Window.Paste method (Visio)
 ms.prod: visio
 api_name:
 - Visio.Window.Paste
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Paste Method (Visio)
+# Window.Paste method (Visio)
 
 This object, member, or enumeration is deprecated and is not intended to be used in your code. Pastes the contents of the Clipboard into an object.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.MoveCompleted Property (Project)
+title: Project.MoveCompleted property (Project)
 keywords: vbapj.chm131106
 f1_keywords:
 - vbapj.chm131106
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.MoveCompleted Property (Project)
+# Project.MoveCompleted property (Project)
 
  **True** if a task that is scheduled after the status date has actual progress entered against it and the actual, completed portion of the task is moved so the completed work ends on the status date. Read/Write **Boolean**.
 

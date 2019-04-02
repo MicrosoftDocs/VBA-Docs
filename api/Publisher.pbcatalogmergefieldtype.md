@@ -1,5 +1,5 @@
 ---
-title: pbCatalogMergeFieldType Enumeration (Publisher)
+title: pbCatalogMergeFieldType enumeration (Publisher)
 keywords: vbapb10.chm65640
 f1_keywords:
 - vbapb10.chm65640
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# pbCatalogMergeFieldType Enumeration (Publisher)
+# pbCatalogMergeFieldType enumeration (Publisher)
 
 Represents the type of catalog merge field.
 

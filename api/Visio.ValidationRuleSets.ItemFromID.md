@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSets.ItemFromID Property (Visio)
+title: ValidationRuleSets.ItemFromID property (Visio)
 keywords: vis_sdr.chm18113775
 f1_keywords:
 - vis_sdr.chm18113775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSets.ItemFromID Property (Visio)
+# ValidationRuleSets.ItemFromID property (Visio)
 
 Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that matches the specified ID. Read-only.
 

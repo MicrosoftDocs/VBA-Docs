@@ -1,5 +1,5 @@
 ---
-title: Application.QuitCanceled Event (Visio)
+title: Application.QuitCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.QuitCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.QuitCanceled Event (Visio)
+# Application.QuitCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelQuit** event.
 

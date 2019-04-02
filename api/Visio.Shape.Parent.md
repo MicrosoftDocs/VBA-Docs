@@ -1,5 +1,5 @@
 ---
-title: Shape.Parent Property (Visio)
+title: Shape.Parent property (Visio)
 keywords: vis_sdr.chm11250755
 f1_keywords:
 - vis_sdr.chm11250755
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Parent Property (Visio)
+# Shape.Parent property (Visio)
 
 Determines the parent of a  **Shape** object. Read/write.
 

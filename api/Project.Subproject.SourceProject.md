@@ -1,5 +1,5 @@
 ---
-title: Subproject.SourceProject Property (Project)
+title: Subproject.SourceProject property (Project)
 ms.prod: project-server
 api_name:
 - Project.Subproject.SourceProject
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Subproject.SourceProject Property (Project)
+# Subproject.SourceProject property (Project)
 
 Gets a  **[Project](Project.Project.md)** object representing the master project. Read-only **Project**.
 

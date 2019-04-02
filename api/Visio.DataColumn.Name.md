@@ -1,5 +1,5 @@
 ---
-title: DataColumn.Name Property (Visio)
+title: DataColumn.Name property (Visio)
 keywords: vis_sdr.chm16713930
 f1_keywords:
 - vis_sdr.chm16713930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumn.Name Property (Visio)
+# DataColumn.Name property (Visio)
 
 Gets the unique name of the data column in its parent data recordset. Read-only.
 

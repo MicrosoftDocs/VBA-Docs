@@ -1,5 +1,5 @@
 ---
-title: Application.TaskDependencySync Method (Project)
+title: Application.TaskDependencySync method (Project)
 keywords: vbapj.chm94
 f1_keywords:
 - vbapj.chm94
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskDependencySync Method (Project)
+# Application.TaskDependencySync method (Project)
 
 Synchronizes task dependencies in the active project with changes in deliverables from other projects. Available only in Project Professional.
 

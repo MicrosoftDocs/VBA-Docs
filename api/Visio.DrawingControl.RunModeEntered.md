@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.RunModeEntered Event (Visio)
+title: DrawingControl.RunModeEntered event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.RunModeEntered
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.RunModeEntered Event (Visio)
+# DrawingControl.RunModeEntered event (Visio)
 
 Occurs after a document enters run mode.
 

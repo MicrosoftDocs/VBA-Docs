@@ -1,5 +1,5 @@
 ---
-title: Assignment.ActualStart Property (Project)
+title: Assignment.ActualStart property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ActualStart
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ActualStart Property (Project)
+# Assignment.ActualStart property (Project)
 
 Gets or sets the actual start date of the assignment. Read/write  **Variant**.
 

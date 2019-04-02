@@ -1,5 +1,5 @@
 ---
-title: VisDeleteFlags Enumeration (Visio)
+title: VisDeleteFlags enumeration (Visio)
 keywords: vis_sdr.chm70670
 f1_keywords:
 - vis_sdr.chm70670
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisDeleteFlags Enumeration (Visio)
+# VisDeleteFlags enumeration (Visio)
 
 Specifies constants that define particular sets of instruction to apply to a deletion; passed to the  **[Selection.DeleteEx](Visio.Selection.DeleteEx.md)** and **[Shape.DeleteEx](Visio.Shape.DeleteEx.md)** methods.
 

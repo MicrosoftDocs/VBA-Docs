@@ -1,5 +1,5 @@
 ---
-title: PbColorType Enumeration (Publisher)
+title: PbColorType enumeration (Publisher)
 keywords: vbapb10.chm65565
 f1_keywords:
 - vbapb10.chm65565
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbColorType Enumeration (Publisher)
+# PbColorType enumeration (Publisher)
 
 Represents the shape color type.
 

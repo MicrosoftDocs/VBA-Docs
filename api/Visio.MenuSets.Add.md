@@ -1,5 +1,5 @@
 ---
-title: MenuSets.Add Method (Visio)
+title: MenuSets.Add method (Visio)
 keywords: vis_sdr.chm13416005
 f1_keywords:
 - vis_sdr.chm13416005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSets.Add Method (Visio)
+# MenuSets.Add method (Visio)
 
 Adds a new object to a collection.
 

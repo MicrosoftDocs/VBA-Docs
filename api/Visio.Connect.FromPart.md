@@ -1,5 +1,5 @@
 ---
-title: Connect.FromPart Property (Visio)
+title: Connect.FromPart property (Visio)
 keywords: vis_sdr.chm10313585
 f1_keywords:
 - vis_sdr.chm10313585
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Connect.FromPart Property (Visio)
+# Connect.FromPart property (Visio)
 
 Returns the part of a shape from which a connection originates. Read-only.
 

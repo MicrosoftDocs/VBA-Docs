@@ -1,5 +1,5 @@
 ---
-title: Task.ResourceGroup Property (Project)
+title: Task.ResourceGroup property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ResourceGroup
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ResourceGroup Property (Project)
+# Task.ResourceGroup property (Project)
 
 Gets the names of groups associated with the resources assigned to a task, separated by the list separator. Read-only  **String**.
 

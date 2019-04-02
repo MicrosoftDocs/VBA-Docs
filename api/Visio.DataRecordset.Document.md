@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.Document Property (Visio)
+title: DataRecordset.Document property (Visio)
 keywords: vis_sdr.chm16413430
 f1_keywords:
 - vis_sdr.chm16413430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.Document Property (Visio)
+# DataRecordset.Document property (Visio)
 
 Gets the  **Document** object that contains the **DataRecordset** object. Read-only.
 

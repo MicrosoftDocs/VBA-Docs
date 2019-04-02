@@ -1,5 +1,5 @@
 ---
-title: VisFieldFormats Enumeration (Visio)
+title: VisFieldFormats enumeration (Visio)
 keywords: vis_sdr.chm70145
 f1_keywords:
 - vis_sdr.chm70145
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisFieldFormats Enumeration (Visio)
+# VisFieldFormats enumeration (Visio)
 
 Text field formats.
 

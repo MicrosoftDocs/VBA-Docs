@@ -1,5 +1,5 @@
 ---
-title: MsoAnimEffect Enumeration (PowerPoint)
+title: MsoAnimEffect enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimEffect
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimEffect Enumeration (PowerPoint)
+# MsoAnimEffect enumeration (PowerPoint)
 
 Specifies the type of animation effect.
 

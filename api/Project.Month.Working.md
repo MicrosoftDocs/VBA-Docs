@@ -1,5 +1,5 @@
 ---
-title: Month.Working Property (Project)
+title: Month.Working property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Working
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Month.Working Property (Project)
+# Month.Working property (Project)
 
  **True** if any day in the month is a working day. Read/write **Boolean**.
 

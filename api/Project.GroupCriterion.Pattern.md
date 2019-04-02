@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.Pattern Property (Project)
+title: GroupCriterion.Pattern property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.Pattern
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.Pattern Property (Project)
+# GroupCriterion.Pattern property (Project)
 
 Gets or sets the pattern of the cell for a field used as a criterion in a group definition. Read/write  **PjBackgroundPattern**.
 

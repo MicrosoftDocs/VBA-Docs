@@ -1,5 +1,5 @@
 ---
-title: PjDataTemplate Enumeration (Project)
+title: PjDataTemplate enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDataTemplate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjDataTemplate Enumeration (Project)
+# PjDataTemplate enumeration (Project)
 
 Contains constants that specify the operation to be performed on a box data template for a Network Diagram view.
 

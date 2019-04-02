@@ -1,5 +1,5 @@
 ---
-title: Application.EditUndo Method (Project)
+title: Application.EditUndo method (Project)
 keywords: vbapj.chm201
 f1_keywords:
 - vbapj.chm201
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EditUndo Method (Project)
+# Application.EditUndo method (Project)
 
 Cancels the last user-interface action.
 

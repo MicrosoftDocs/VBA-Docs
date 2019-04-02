@@ -1,5 +1,5 @@
 ---
-title: GraphicItems Object (Visio)
+title: GraphicItems object (Visio)
 keywords: vis_sdr.chm61030
 f1_keywords:
 - vis_sdr.chm61030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItems Object (Visio)
+# GraphicItems object (Visio)
 
 The collection of  **[GraphicItem](Visio.GraphicItem.md)** objects associated with a **Master** object of type **visTypeDataGraphic**.
 

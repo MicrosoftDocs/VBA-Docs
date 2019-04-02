@@ -1,5 +1,5 @@
 ---
-title: Characters.Text Property (Visio)
+title: Characters.Text property (Visio)
 keywords: vis_sdr.chm10214515
 f1_keywords:
 - vis_sdr.chm10214515
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.Text Property (Visio)
+# Characters.Text property (Visio)
 
 Returns the range of text represented by a  **Characters** object, which may be a subset of the shape's text depending on the values of the **Characters** object's **Begin** and **End** properties.Read/write.
 

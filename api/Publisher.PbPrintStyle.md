@@ -1,5 +1,5 @@
 ---
-title: PbPrintStyle Enumeration (Publisher)
+title: PbPrintStyle enumeration (Publisher)
 keywords: vbapb10.chm65635
 f1_keywords:
 - vbapb10.chm65635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPrintStyle Enumeration (Publisher)
+# PbPrintStyle enumeration (Publisher)
 
 Constants specifying the print style and passed to the  **PrintOutEx** and **ExportAsFixedFormat** methods.
 

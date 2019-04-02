@@ -1,5 +1,5 @@
 ---
-title: Color Object (Visio)
+title: Color object (Visio)
 keywords: vis_sdr.chm10055
 f1_keywords:
 - vis_sdr.chm10055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Color Object (Visio)
+# Color object (Visio)
 
 Represents a color in the color palette for a Microsoft Visio document.
 

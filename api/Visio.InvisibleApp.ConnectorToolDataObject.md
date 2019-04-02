@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ConnectorToolDataObject Property (Visio)
+title: InvisibleApp.ConnectorToolDataObject property (Visio)
 keywords: vis_sdr.chm17551835
 f1_keywords:
 - vis_sdr.chm17551835
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ConnectorToolDataObject Property (Visio)
+# InvisibleApp.ConnectorToolDataObject property (Visio)
 
 Returns an  **IDataObject** interface representing the active **Connector** tool used in the Microsoft Visio user interface. Read-only.
 

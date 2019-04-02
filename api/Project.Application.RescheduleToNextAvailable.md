@@ -1,5 +1,5 @@
 ---
-title: Application.RescheduleToNextAvailable Method (Project)
+title: Application.RescheduleToNextAvailable method (Project)
 keywords: vbapj.chm2193
 f1_keywords:
 - vbapj.chm2193
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RescheduleToNextAvailable Method (Project)
+# Application.RescheduleToNextAvailable method (Project)
 
 Reschedules the specified task to the next available time.
 

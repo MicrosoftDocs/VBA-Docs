@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseLastModifiedDate Property (Project)
+title: Resource.EnterpriseLastModifiedDate property (Project)
 keywords: vbapj.chm131856
 f1_keywords:
 - vbapj.chm131856
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseLastModifiedDate Property (Project)
+# Resource.EnterpriseLastModifiedDate property (Project)
 
 Gets the date and time when the resource was last checked in to the enterprise resource pool. Read-only  **Variant**.
 

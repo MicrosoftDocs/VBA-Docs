@@ -1,5 +1,5 @@
 ---
-title: ValidationIssue.TargetShape Property (Visio)
+title: ValidationIssue.TargetShape property (Visio)
 keywords: vis_sdr.chm18662685
 f1_keywords:
 - vis_sdr.chm18662685
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssue.TargetShape Property (Visio)
+# ValidationIssue.TargetShape property (Visio)
 
 Returns the  **[Shape](Visio.Shape.md)** object that is associated with the validation issue. Read-only.
 

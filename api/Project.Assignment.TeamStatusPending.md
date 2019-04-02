@@ -1,5 +1,5 @@
 ---
-title: Assignment.TeamStatusPending Property (Project)
+title: Assignment.TeamStatusPending property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.TeamStatusPending
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.TeamStatusPending Property (Project)
+# Assignment.TeamStatusPending property (Project)
 
  **True** if a response has not been received for a progress request message. **False** if the assigned resource has sent a response. Read/write **Boolean**.
 

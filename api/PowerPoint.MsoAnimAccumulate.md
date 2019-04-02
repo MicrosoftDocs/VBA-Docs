@@ -1,5 +1,5 @@
 ---
-title: MsoAnimAccumulate Enumeration (PowerPoint)
+title: MsoAnimAccumulate enumeration (PowerPoint)
 keywords: vbapp10.chm0
 f1_keywords:
 - vbapp10.chm0
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimAccumulate Enumeration (PowerPoint)
+# MsoAnimAccumulate enumeration (PowerPoint)
 
 Specifies whether animation behaviors accumulate. 
 

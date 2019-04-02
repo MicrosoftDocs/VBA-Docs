@@ -1,5 +1,5 @@
 ---
-title: Project.DetectCycle Property (Project)
+title: Project.DetectCycle property (Project)
 keywords: vbapj.chm131082
 f1_keywords:
 - vbapj.chm131082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DetectCycle Property (Project)
+# Project.DetectCycle property (Project)
 
 Gets a  **Tasks** collection that contains a set of circular task dependencies, if circular task references exist. Read-only **Tasks**.
 

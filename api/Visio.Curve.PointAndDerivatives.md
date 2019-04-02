@@ -1,5 +1,5 @@
 ---
-title: Curve.PointAndDerivatives Method (Visio)
+title: Curve.PointAndDerivatives method (Visio)
 keywords: vis_sdr.chm15516440
 f1_keywords:
 - vis_sdr.chm15516440
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Curve.PointAndDerivatives Method (Visio)
+# Curve.PointAndDerivatives method (Visio)
 
 Returns a point and its derivatives at a position along a curve's path.
 

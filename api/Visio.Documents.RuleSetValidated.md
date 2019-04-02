@@ -1,5 +1,5 @@
 ---
-title: Documents.RuleSetValidated Event (Visio)
+title: Documents.RuleSetValidated event (Visio)
 keywords: vis_sdr.chm10662085
 f1_keywords:
 - vis_sdr.chm10662085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.RuleSetValidated Event (Visio)
+# Documents.RuleSetValidated event (Visio)
 
 Occurs when a rule set is validated.
 

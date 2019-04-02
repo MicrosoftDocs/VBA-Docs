@@ -1,5 +1,5 @@
 ---
-title: Application.WebCopyHyperlink Method (Project)
+title: Application.WebCopyHyperlink method (Project)
 keywords: vbapj.chm1313
 f1_keywords:
 - vbapj.chm1313
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WebCopyHyperlink Method (Project)
+# Application.WebCopyHyperlink method (Project)
 
 Copies the hyperlink of the selected item to the Clipboard.
 

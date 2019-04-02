@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.AddOnArgs Property (Visio)
+title: ToolbarItem.AddOnArgs property (Visio)
 keywords: vis_sdr.chm13513045
 f1_keywords:
 - vis_sdr.chm13513045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.AddOnArgs Property (Visio)
+# ToolbarItem.AddOnArgs property (Visio)
 
 Gets or sets the argument string that you send to the add-on associated with a particular toolbar. Read/write.
 

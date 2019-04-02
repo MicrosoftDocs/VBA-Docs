@@ -1,5 +1,5 @@
 ---
-title: Application.IsReducedFunctionalityMode Method (Project)
+title: Application.IsReducedFunctionalityMode method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.IsReducedFunctionalityMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.IsReducedFunctionalityMode Method (Project)
+# Application.IsReducedFunctionalityMode method (Project)
 
 Indicates whether the installed Project application is in reduced functionality mode.
 

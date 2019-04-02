@@ -1,5 +1,5 @@
 ---
-title: Document.ZoomBehavior Property (Visio)
+title: Document.ZoomBehavior property (Visio)
 keywords: vis_sdr.chm10551465
 f1_keywords:
 - vis_sdr.chm10551465
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ZoomBehavior Property (Visio)
+# Document.ZoomBehavior property (Visio)
 
 Determines the zoom behavior for a Microsoft Visio document or window. Read/write.
 

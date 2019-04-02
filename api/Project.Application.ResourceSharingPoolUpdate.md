@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceSharingPoolUpdate Method (Project)
+title: Application.ResourceSharingPoolUpdate method (Project)
 keywords: vbapj.chm248
 f1_keywords:
 - vbapj.chm248
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceSharingPoolUpdate Method (Project)
+# Application.ResourceSharingPoolUpdate method (Project)
 
 Synchronizes the information in the sharer project with the information in the local resource pool project.
 

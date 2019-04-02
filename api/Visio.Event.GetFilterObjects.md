@@ -1,5 +1,5 @@
 ---
-title: Event.GetFilterObjects Method (Visio)
+title: Event.GetFilterObjects method (Visio)
 keywords: vis_sdr.chm12650605
 f1_keywords:
 - vis_sdr.chm12650605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.GetFilterObjects Method (Visio)
+# Event.GetFilterObjects method (Visio)
 
 Returns an array of object types and a  **True** or **False** value indicating how to filter events for that object.
 

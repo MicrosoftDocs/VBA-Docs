@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.RotateFlipList Method (Visio)
+title: ContainerProperties.RotateFlipList method (Visio)
 keywords: vis_sdr.chm17662360
 f1_keywords:
 - vis_sdr.chm17662360
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.RotateFlipList Method (Visio)
+# ContainerProperties.RotateFlipList method (Visio)
 
 Rotates or flips the list direction for a list of shapes.
 

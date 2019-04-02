@@ -1,5 +1,5 @@
 ---
-title: ViewCombination.Name Property (Project)
+title: ViewCombination.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewCombination.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewCombination.Name Property (Project)
+# ViewCombination.Name property (Project)
 
 Gets the name of a  **ViewCombination** object. Read/write **String**.
 

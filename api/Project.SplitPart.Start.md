@@ -1,5 +1,5 @@
 ---
-title: SplitPart.Start Property (Project)
+title: SplitPart.Start property (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitPart.Start
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitPart.Start Property (Project)
+# SplitPart.Start property (Project)
 
 Gets or sets the start date of the task split part. Read/write  **Variant**.
 

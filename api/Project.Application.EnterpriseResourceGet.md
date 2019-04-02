@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseResourceGet Method (Project)
+title: Application.EnterpriseResourceGet method (Project)
 keywords: vbapj.chm2094
 f1_keywords:
 - vbapj.chm2094
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseResourceGet Method (Project)
+# Application.EnterpriseResourceGet method (Project)
 
 Adds a single resource from the enterprise resource pool to the active project. Available in Project Professional only.
 

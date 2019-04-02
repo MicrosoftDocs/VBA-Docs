@@ -1,5 +1,5 @@
 ---
-title: ReportTemplate Object (Project)
+title: ReportTemplate object (Project)
 ms.prod: project-server
 api_name:
 - Project.ReportTemplate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportTemplate Object (Project)
+# ReportTemplate object (Project)
 
 Represents a template for a Visual Report. The  **ReportTemplate** object is a member of the **[ReportTemplates](Project.reporttemplates.md)** collection.
  

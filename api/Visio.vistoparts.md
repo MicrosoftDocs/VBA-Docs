@@ -1,5 +1,5 @@
 ---
-title: VisToParts Enumeration (Visio)
+title: VisToParts enumeration (Visio)
 keywords: vis_sdr.chm70165
 f1_keywords:
 - vis_sdr.chm70165
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisToParts Enumeration (Visio)
+# VisToParts enumeration (Visio)
 
 Values returned by the  **Connect.ToPart** property.
 

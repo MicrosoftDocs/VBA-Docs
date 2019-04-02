@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.Src Property (Visio)
+title: DrawingControl.Src property (Visio)
 keywords: vis_sdr.chm51015
 f1_keywords:
 - vis_sdr.chm51015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.Src Property (Visio)
+# DrawingControl.Src property (Visio)
 
 The full path, including file name, of the Microsoft Visio file used to initialize a  **DrawingControl** object. Read/write.
 

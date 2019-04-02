@@ -1,5 +1,5 @@
 ---
-title: Windows2 Object (Project)
+title: Windows2 object (Project)
 keywords: vbapj.chm131358
 f1_keywords:
 - vbapj.chm131358
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Windows2 Object (Project)
+# Windows2 object (Project)
 
 Represents a collection of windows in the application or project.
  

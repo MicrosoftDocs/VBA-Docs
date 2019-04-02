@@ -1,5 +1,5 @@
 ---
-title: PbRulerGuideType Enumeration (Publisher)
+title: PbRulerGuideType enumeration (Publisher)
 keywords: vbapb10.chm65594
 f1_keywords:
 - vbapb10.chm65594
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbRulerGuideType Enumeration (Publisher)
+# PbRulerGuideType enumeration (Publisher)
 
 Represents the ruler guide type.
 

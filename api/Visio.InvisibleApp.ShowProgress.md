@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShowProgress Property (Visio)
+title: InvisibleApp.ShowProgress property (Visio)
 keywords: vis_sdr.chm17514370
 f1_keywords:
 - vis_sdr.chm17514370
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShowProgress Property (Visio)
+# InvisibleApp.ShowProgress property (Visio)
 
 Determines whether a progress indicator is shown while performing certain operations. Read/write.
 

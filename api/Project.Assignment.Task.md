@@ -1,5 +1,5 @@
 ---
-title: Assignment.Task Property (Project)
+title: Assignment.Task property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Task
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Task Property (Project)
+# Assignment.Task property (Project)
 
 Gets the  **[Task](Project.Task.md)** object associated with the **[Assignment](Project.Assignment.md)**. Read-only **Task**.
 

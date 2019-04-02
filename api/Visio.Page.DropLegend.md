@@ -1,5 +1,5 @@
 ---
-title: Page.DropLegend Method (Visio)
+title: Page.DropLegend method (Visio)
 keywords: vis_sdr.chm10962175
 f1_keywords:
 - vis_sdr.chm10962175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.DropLegend Method (Visio)
+# Page.DropLegend method (Visio)
 
 Inserts a data graphics legend on a Microsoft Visio drawing page. Returns the list shape instance specified in the  _OuterList_ parameter.
 

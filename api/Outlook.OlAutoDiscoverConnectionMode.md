@@ -1,5 +1,5 @@
 ---
-title: OlAutoDiscoverConnectionMode Enumeration (Outlook)
+title: OlAutoDiscoverConnectionMode enumeration (Outlook)
 keywords: vbaol11.chm3302
 f1_keywords:
 - vbaol11.chm3302
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAutoDiscoverConnectionMode Enumeration (Outlook)
+# OlAutoDiscoverConnectionMode enumeration (Outlook)
 
 Specifies the type of connection to the Exchange server for the auto-discovery service.
 

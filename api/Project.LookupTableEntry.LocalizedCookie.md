@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.LocalizedCookie Property (Project)
+title: LookupTableEntry.LocalizedCookie property (Project)
 keywords: vbapj.chm132395
 f1_keywords:
 - vbapj.chm132395
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry.LocalizedCookie Property (Project)
+# LookupTableEntry.LocalizedCookie property (Project)
 
 Represents a token for the localized lookup table structure. Read-only  **String**.
 

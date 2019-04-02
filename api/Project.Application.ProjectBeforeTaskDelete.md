@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeTaskDelete Event (Project)
+title: Application.ProjectBeforeTaskDelete event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeTaskDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeTaskDelete Event (Project)
+# Application.ProjectBeforeTaskDelete event (Project)
 
 Occurs before a task is deleted.
 

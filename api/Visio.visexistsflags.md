@@ -1,5 +1,5 @@
 ---
-title: VisExistsFlags Enumeration (Visio)
+title: VisExistsFlags enumeration (Visio)
 keywords: vis_sdr.chm70080
 f1_keywords:
 - vis_sdr.chm70080
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisExistsFlags Enumeration (Visio)
+# VisExistsFlags enumeration (Visio)
 
 Flags to be passed to the  **Shape.SectionExists** property and similar properties.
 

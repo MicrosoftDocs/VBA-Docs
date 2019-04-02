@@ -1,5 +1,5 @@
 ---
-title: Assignment.ActualWork Property (Project)
+title: Assignment.ActualWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ActualWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ActualWork Property (Project)
+# Assignment.ActualWork property (Project)
 
 Gets or sets the actual work (in minutes) for the assignment. Read/write  **Variant**.
 

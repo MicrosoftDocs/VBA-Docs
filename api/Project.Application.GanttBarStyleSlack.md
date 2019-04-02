@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleSlack Method (Project)
+title: Application.GanttBarStyleSlack method (Project)
 keywords: vbapj.chm81
 f1_keywords:
 - vbapj.chm81
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleSlack Method (Project)
+# Application.GanttBarStyleSlack method (Project)
 
 Shows or hides the slack style for tasks on the active Gantt chart.
 

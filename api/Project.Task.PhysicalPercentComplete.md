@@ -1,5 +1,5 @@
 ---
-title: Task.PhysicalPercentComplete Property (Project)
+title: Task.PhysicalPercentComplete property (Project)
 keywords: vbapj.chm132501
 f1_keywords:
 - vbapj.chm132501
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.PhysicalPercentComplete Property (Project)
+# Task.PhysicalPercentComplete property (Project)
 
 Gets or sets the physical percent complete of a task. Read/write  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: ValidationIssue.Ignored Property (Visio)
+title: ValidationIssue.Ignored property (Visio)
 keywords: vis_sdr.chm18662650
 f1_keywords:
 - vis_sdr.chm18662650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssue.Ignored Property (Visio)
+# ValidationIssue.Ignored property (Visio)
 
 Determines whether the validation issue is currently ignored. Read/write.
 

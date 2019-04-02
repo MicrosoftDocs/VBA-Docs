@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.HostID Property (Visio)
+title: DrawingControl.HostID property (Visio)
 keywords: vis_sdr.chm52000
 f1_keywords:
 - vis_sdr.chm52000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.HostID Property (Visio)
+# DrawingControl.HostID property (Visio)
 
 String representation of the GUID of the host application of the Microsoft Visio Drawing Control. Read/write.
 

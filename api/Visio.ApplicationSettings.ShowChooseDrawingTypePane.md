@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ShowChooseDrawingTypePane Property (Visio)
+title: ApplicationSettings.ShowChooseDrawingTypePane property (Visio)
 keywords: vis_sdr.chm16251630
 f1_keywords:
 - vis_sdr.chm16251630
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ShowChooseDrawingTypePane Property (Visio)
+# ApplicationSettings.ShowChooseDrawingTypePane property (Visio)
 
 Determines if the  **New** tab appears when the user opens Microsoft Visio. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PbMergeType Enumeration (Publisher)
+title: PbMergeType enumeration (Publisher)
 keywords: vbapb10.chm6225939
 f1_keywords:
 - vbapb10.chm6225939
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbMergeType Enumeration (Publisher)
+# PbMergeType enumeration (Publisher)
 
 Constants that specify the type of mail merge, passed to and returned by the  ** [MailMergeDataSource.Type](Publisher.MailMergeDataSource.Type.md)** property.
 

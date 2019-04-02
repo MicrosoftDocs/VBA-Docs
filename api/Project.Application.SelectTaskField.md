@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTaskField Method (Project)
+title: Application.SelectTaskField method (Project)
 keywords: vbapj.chm2063
 f1_keywords:
 - vbapj.chm2063
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTaskField Method (Project)
+# Application.SelectTaskField method (Project)
 
 Selects a task field.
 

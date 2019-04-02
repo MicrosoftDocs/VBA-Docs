@@ -1,5 +1,5 @@
 ---
-title: TableFields.Add Method (Project)
+title: TableFields.Add method (Project)
 keywords: vbapj.chm132691
 f1_keywords:
 - vbapj.chm132691
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableFields.Add Method (Project)
+# TableFields.Add method (Project)
 
 Adds a  **TableField** object to a **TableFields** collection.
 

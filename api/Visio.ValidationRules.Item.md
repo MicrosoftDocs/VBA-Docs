@@ -1,5 +1,5 @@
 ---
-title: ValidationRules.Item Property (Visio)
+title: ValidationRules.Item property (Visio)
 keywords: vis_sdr.chm18313765
 f1_keywords:
 - vis_sdr.chm18313765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRules.Item Property (Visio)
+# ValidationRules.Item property (Visio)
 
 Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that has the specified index position. The **Item** property is the default property for all collections. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Paths.Application Property (Visio)
+title: Paths.Application property (Visio)
 keywords: vis_sdr.chm15313090
 f1_keywords:
 - vis_sdr.chm15313090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Paths.Application Property (Visio)
+# Paths.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

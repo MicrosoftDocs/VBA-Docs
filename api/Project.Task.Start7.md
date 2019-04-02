@@ -1,5 +1,5 @@
 ---
-title: Task.Start7 Property (Project)
+title: Task.Start7 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Start7
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Start7 Property (Project)
+# Task.Start7 property (Project)
 
 Gets or sets a Start local custom field for the task. Read-only for summary tasks. Read/write  **Variant**.
 

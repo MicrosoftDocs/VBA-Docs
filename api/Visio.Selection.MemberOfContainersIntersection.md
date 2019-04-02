@@ -1,5 +1,5 @@
 ---
-title: Selection.MemberOfContainersIntersection Method (Visio)
+title: Selection.MemberOfContainersIntersection method (Visio)
 keywords: vis_sdr.chm11162230
 f1_keywords:
 - vis_sdr.chm11162230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.MemberOfContainersIntersection Method (Visio)
+# Selection.MemberOfContainersIntersection method (Visio)
 
 Returns an array of identifiers of the shapes that belong to the normal or list containers that contain all the shapes in the selection.
 

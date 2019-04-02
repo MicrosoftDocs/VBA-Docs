@@ -1,5 +1,5 @@
 ---
-title: OlContactPhoneNumber Enumeration (Outlook)
+title: OlContactPhoneNumber enumeration (Outlook)
 keywords: vbaol11.chm3150
 f1_keywords:
 - vbaol11.chm3150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlContactPhoneNumber Enumeration (Outlook)
+# OlContactPhoneNumber enumeration (Outlook)
 
 Specifies the telephone number type.
 

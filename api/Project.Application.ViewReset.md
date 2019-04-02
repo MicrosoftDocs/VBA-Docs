@@ -1,5 +1,5 @@
 ---
-title: Application.ViewReset Method (Project)
+title: Application.ViewReset method (Project)
 keywords: vbapj.chm309
 f1_keywords:
 - vbapj.chm309
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewReset Method (Project)
+# Application.ViewReset method (Project)
 
 Resets the current view back to the global view definition. 
 

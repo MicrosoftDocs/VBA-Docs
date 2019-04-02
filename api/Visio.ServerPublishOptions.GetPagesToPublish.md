@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.GetPagesToPublish Method (Visio)
+title: ServerPublishOptions.GetPagesToPublish method (Visio)
 keywords: vis_sdr.chm17962380
 f1_keywords:
 - vis_sdr.chm17962380
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.GetPagesToPublish Method (Visio)
+# ServerPublishOptions.GetPagesToPublish method (Visio)
 
 Returns an array of pages that are set to be published to a server.
 

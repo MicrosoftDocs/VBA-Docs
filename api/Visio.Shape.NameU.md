@@ -1,5 +1,5 @@
 ---
-title: Shape.NameU Property (Visio)
+title: Shape.NameU property (Visio)
 keywords: vis_sdr.chm11251985
 f1_keywords:
 - vis_sdr.chm11251985
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.NameU Property (Visio)
+# Shape.NameU property (Visio)
 
 Specifies the universal name of a  **Shape** object. Read/write.
 

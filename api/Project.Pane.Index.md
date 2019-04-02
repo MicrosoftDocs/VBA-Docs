@@ -1,5 +1,5 @@
 ---
-title: Pane.Index Property (Project)
+title: Pane.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Pane.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Pane.Index Property (Project)
+# Pane.Index property (Project)
 
 Gets the index of a  **Pane** object in the containing object. Read-only **Variant**.
 

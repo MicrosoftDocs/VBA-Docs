@@ -1,5 +1,5 @@
 ---
-title: OlRecurrenceType Enumeration (Outlook)
+title: OlRecurrenceType enumeration (Outlook)
 keywords: vbaol11.chm3077
 f1_keywords:
 - vbaol11.chm3077
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlRecurrenceType Enumeration (Outlook)
+# OlRecurrenceType enumeration (Outlook)
 
 Specifies the recurrence pattern type.
 

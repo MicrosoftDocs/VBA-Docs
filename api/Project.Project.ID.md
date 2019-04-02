@@ -1,5 +1,5 @@
 ---
-title: Project.ID Property (Project)
+title: Project.ID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ID Property (Project)
+# Project.ID property (Project)
 
 Gets the identification number of a project. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Date9 Property (Project)
+title: Task.Date9 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Date9
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Date9 Property (Project)
+# Task.Date9 property (Project)
 
 Gets or sets the value of the  **Date9** custom field for the task. Read/write **Variant**.
 

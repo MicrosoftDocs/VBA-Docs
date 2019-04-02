@@ -1,5 +1,5 @@
 ---
-title: Window.WindowState Property (Visio)
+title: Window.WindowState property (Visio)
 keywords: vis_sdr.chm11614670
 f1_keywords:
 - vis_sdr.chm11614670
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.WindowState Property (Visio)
+# Window.WindowState property (Visio)
 
 Gets or sets the state of a window. Read/write.
 

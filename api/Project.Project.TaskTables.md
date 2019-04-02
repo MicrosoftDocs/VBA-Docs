@@ -1,5 +1,5 @@
 ---
-title: Project.TaskTables Property (Project)
+title: Project.TaskTables property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.TaskTables
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.TaskTables Property (Project)
+# Project.TaskTables property (Project)
 
 Gets a  **[Tables](Project.Table.md)** collection representing the task tables in the project. Read-only **Tables**.
 

@@ -1,5 +1,5 @@
 ---
-title: PjConstraint Enumeration (Project)
+title: PjConstraint enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjConstraint
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjConstraint Enumeration (Project)
+# PjConstraint enumeration (Project)
 
 Contains constants that specify the type of constraint.
 

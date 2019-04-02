@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceActiveDirectory Method (Project)
+title: Application.ResourceActiveDirectory method (Project)
 keywords: vbapj.chm2200
 f1_keywords:
 - vbapj.chm2200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceActiveDirectory Method (Project)
+# Application.ResourceActiveDirectory method (Project)
 
 Displays the  **Select Users or Groups** dialog box, where users can select resources for the project.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Text18 Property (Project)
+title: Resource.Text18 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Text18
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Text18 Property (Project)
+# Resource.Text18 property (Project)
 
 Gets or sets the value of a local Text custom field for the resource. Read/write  **String**.
 

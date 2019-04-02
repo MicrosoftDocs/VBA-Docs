@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeDocumentClose Event (Visio)
+title: Application.BeforeDocumentClose event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeDocumentClose
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeDocumentClose Event (Visio)
+# Application.BeforeDocumentClose event (Visio)
 
 Occurs before a document is closed.
 

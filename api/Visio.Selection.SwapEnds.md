@@ -1,5 +1,5 @@
 ---
-title: Selection.SwapEnds Method (Visio)
+title: Selection.SwapEnds method (Visio)
 keywords: vis_sdr.chm11150895
 f1_keywords:
 - vis_sdr.chm11150895
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.SwapEnds Method (Visio)
+# Selection.SwapEnds method (Visio)
 
 Swaps the begin and endpoints of a one-dimensional (1-D) shape.
 

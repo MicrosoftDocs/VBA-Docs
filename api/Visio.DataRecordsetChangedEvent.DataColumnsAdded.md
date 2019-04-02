@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.DataColumnsAdded Property (Visio)
+title: DataRecordsetChangedEvent.DataColumnsAdded property (Visio)
 keywords: vis_sdr.chm17260465
 f1_keywords:
 - vis_sdr.chm17260465
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.DataColumnsAdded Property (Visio)
+# DataRecordsetChangedEvent.DataColumnsAdded property (Visio)
 
 After data in a data recordset are refreshed, returns an array of names of data columns newly added to the data recordset as a result of the refresh operation. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Colors.Count Property (Visio)
+title: Colors.Count property (Visio)
 keywords: vis_sdr.chm12313330
 f1_keywords:
 - vis_sdr.chm12313330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Colors.Count Property (Visio)
+# Colors.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

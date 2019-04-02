@@ -1,5 +1,5 @@
 ---
-title: Engagement.Delete Method (Project)
+title: Engagement.Delete method (Project)
 ms.assetid: 87c34ec9-157f-5f76-150d-036161f35363
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.Delete Method (Project)
+# Engagement.Delete method (Project)
 
 Deletes an Engagement object to the resource plan view. Introduced in Office 2016.
 

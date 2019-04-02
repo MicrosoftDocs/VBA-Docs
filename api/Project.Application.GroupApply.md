@@ -1,5 +1,5 @@
 ---
-title: Application.GroupApply Method (Project)
+title: Application.GroupApply method (Project)
 keywords: vbapj.chm512
 f1_keywords:
 - vbapj.chm512
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GroupApply Method (Project)
+# Application.GroupApply method (Project)
 
 Sets the current group.
 

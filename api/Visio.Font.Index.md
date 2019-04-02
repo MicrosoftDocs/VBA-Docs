@@ -1,5 +1,5 @@
 ---
-title: Font.Index Property (Visio)
+title: Font.Index property (Visio)
 keywords: vis_sdr.chm12013695
 f1_keywords:
 - vis_sdr.chm12013695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Index Property (Visio)
+# Font.Index property (Visio)
 
 Gets the ordinal position of a  **Font** object in the **Fonts** collection. Read-only.
 

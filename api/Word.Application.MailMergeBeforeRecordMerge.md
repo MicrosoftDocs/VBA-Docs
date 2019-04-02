@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeBeforeRecordMerge Event (Word)
+title: Application.MailMergeBeforeRecordMerge event (Word)
 keywords: vbawd10.chm4000019
 f1_keywords:
 - vbawd10.chm4000019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeBeforeRecordMerge Event (Word)
+# Application.MailMergeBeforeRecordMerge event (Word)
 
 Occurs as a merge is executed for the individual records in a merge.
 

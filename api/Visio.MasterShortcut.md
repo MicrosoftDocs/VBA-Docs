@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut Object (Visio)
+title: MasterShortcut object (Visio)
 keywords: vis_sdr.chm10140
 f1_keywords:
 - vis_sdr.chm10140
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut Object (Visio)
+# MasterShortcut object (Visio)
 
 Represents a master shortcut in a stencil. A master shortcut references a master in a stencil.
 

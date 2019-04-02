@@ -1,5 +1,5 @@
 ---
-title: Shape.Vertices Property (Project)
+title: Shape.Vertices property (Project)
 ms.prod: project-server
 ms.assetid: 3db780f4-5407-f83b-f379-e9cdcc6c4946
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Vertices Property (Project)
+# Shape.Vertices property (Project)
 Gets the coordinates of the vertices (and control points for a Bézier curve) as a series of coordinate pairs, for a shape that is a drawing. Read-only  **Variant**.
 
 ## Syntax

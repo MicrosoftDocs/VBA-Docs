@@ -1,5 +1,5 @@
 ---
-title: Application.HelpLaunch Method (Project)
+title: Application.HelpLaunch method (Project)
 keywords: vbapj.chm810
 f1_keywords:
 - vbapj.chm810
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.HelpLaunch Method (Project)
+# Application.HelpLaunch method (Project)
 
 Starts a Help file.
 

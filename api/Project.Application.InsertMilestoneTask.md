@@ -1,5 +1,5 @@
 ---
-title: Application.InsertMilestoneTask Method (Project)
+title: Application.InsertMilestoneTask method (Project)
 keywords: vbapj.chm2170
 f1_keywords:
 - vbapj.chm2170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.InsertMilestoneTask Method (Project)
+# Application.InsertMilestoneTask method (Project)
 
 Inserts a new milestone task above the selected task row or cell in a Gantt chart.
 

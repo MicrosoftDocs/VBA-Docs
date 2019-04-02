@@ -1,5 +1,5 @@
 ---
-title: Project.CurrentGroup Property (Project)
+title: Project.CurrentGroup property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.CurrentGroup
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrentGroup Property (Project)
+# Project.CurrentGroup property (Project)
 
 Gets the name of the active group for the active project. Read-only  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSets.Add Method (Visio)
+title: ValidationRuleSets.Add method (Visio)
 keywords: vis_sdr.chm18116005
 f1_keywords:
 - vis_sdr.chm18116005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSets.Add Method (Visio)
+# ValidationRuleSets.Add method (Visio)
 
 Adds a new, empty  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of the document.
 

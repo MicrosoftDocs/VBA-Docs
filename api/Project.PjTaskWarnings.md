@@ -1,5 +1,5 @@
 ---
-title: PjTaskWarnings Enumeration (Project)
+title: PjTaskWarnings enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTaskWarnings
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTaskWarnings Enumeration (Project)
+# PjTaskWarnings enumeration (Project)
 
 Contains constants that specify warnings for tasks or assignments.
 

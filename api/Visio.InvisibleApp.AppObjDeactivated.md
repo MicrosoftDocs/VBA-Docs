@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AppObjDeactivated Event (Visio)
+title: InvisibleApp.AppObjDeactivated event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AppObjDeactivated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.AppObjDeactivated Event (Visio)
+# InvisibleApp.AppObjDeactivated event (Visio)
 
 Occurs after a Microsoft Visio instance becomes inactive.
 

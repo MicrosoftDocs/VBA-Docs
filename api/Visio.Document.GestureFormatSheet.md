@@ -1,5 +1,5 @@
 ---
-title: Document.GestureFormatSheet Property (Visio)
+title: Document.GestureFormatSheet property (Visio)
 keywords: vis_sdr.chm10513605
 f1_keywords:
 - vis_sdr.chm10513605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.GestureFormatSheet Property (Visio)
+# Document.GestureFormatSheet property (Visio)
 
 Returns a reference to a document's Gesture Format sheet, which contains the line, fill, and text formatting that is applied to shapes drawn on the page. Read-only.
 

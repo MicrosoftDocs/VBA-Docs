@@ -1,5 +1,5 @@
 ---
-title: Shape.FromConnects Property (Visio)
+title: Shape.FromConnects property (Visio)
 keywords: vis_sdr.chm11213580
 f1_keywords:
 - vis_sdr.chm11213580
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.FromConnects Property (Visio)
+# Shape.FromConnects property (Visio)
 
 Returns a  **Connects** collection of the shapes connected to a shape. Read-only.
 

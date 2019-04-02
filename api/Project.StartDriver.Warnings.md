@@ -1,5 +1,5 @@
 ---
-title: StartDriver.Warnings Property (Project)
+title: StartDriver.Warnings property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.Warnings
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.Warnings Property (Project)
+# StartDriver.Warnings property (Project)
 
 Gets a combination of  **[PjTaskWarnings](Project.PjTaskWarnings.md)** values that indicate whether there are problems for a specified task. Read-only **Long**.
 

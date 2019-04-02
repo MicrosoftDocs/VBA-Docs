@@ -1,5 +1,5 @@
 ---
-title: PbTextOrientation Enumeration (Publisher)
+title: PbTextOrientation enumeration (Publisher)
 keywords: vbapb10.chm65555
 f1_keywords:
 - vbapb10.chm65555
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbTextOrientation Enumeration (Publisher)
+# PbTextOrientation enumeration (Publisher)
 
 Represents how text flows in a text box.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Delete Method (Project)
+title: Task.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Delete Method (Project)
+# Task.Delete method (Project)
 
 Deletes the  **Task** object from a **Tasks** collection.
 

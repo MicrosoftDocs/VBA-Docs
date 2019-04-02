@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.DataAsXML Property (Visio)
+title: DataRecordset.DataAsXML property (Visio)
 keywords: vis_sdr.chm16460305
 f1_keywords:
 - vis_sdr.chm16460305
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.DataAsXML Property (Visio)
+# DataRecordset.DataAsXML property (Visio)
 
 Returns an XML string that fully describes a data recordset and conforms to the Microsoft ActiveX® Data Objects (ADO) classic XML schema. Read-only.
 

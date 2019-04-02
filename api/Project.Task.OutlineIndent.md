@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineIndent Method (Project)
+title: Task.OutlineIndent method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.OutlineIndent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineIndent Method (Project)
+# Task.OutlineIndent method (Project)
 
 Indents a task in the outline.
 

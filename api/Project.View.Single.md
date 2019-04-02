@@ -1,5 +1,5 @@
 ---
-title: View.Single Property (Project)
+title: View.Single property (Project)
 ms.prod: project-server
 api_name:
 - Project.View.Single
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# View.Single Property (Project)
+# View.Single property (Project)
 
  **True** if the view is a single view. Read-only **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Width Property (Project)
+title: ShapeRange.Width property (Project)
 ms.prod: project-server
 ms.assetid: f19e494e-8210-9ecb-338a-0134de53fc09
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Width Property (Project)
+# ShapeRange.Width property (Project)
 Gets or sets the width, in points, of the shapes within the range. Read/write  **Long**.
 
 ## Syntax

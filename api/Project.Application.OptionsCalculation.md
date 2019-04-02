@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsCalculation Method (Project)
+title: Application.OptionsCalculation method (Project)
 keywords: vbapj.chm606
 f1_keywords:
 - vbapj.chm606
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsCalculation Method (Project)
+# Application.OptionsCalculation method (Project)
 
 Sets calculation options.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.SetBegin Method (Visio)
+title: Shape.SetBegin method (Visio)
 keywords: vis_sdr.chm11216550
 f1_keywords:
 - vis_sdr.chm11216550
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SetBegin Method (Visio)
+# Shape.SetBegin method (Visio)
 
 Moves the begin point of a one-dimensional (1-D) shape to the coordinates represented by  _xPos_ and _yPos_.
 

@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.BuiltIn Property (Visio)
+title: ToolbarItem.BuiltIn property (Visio)
 keywords: vis_sdr.chm13513155
 f1_keywords:
 - vis_sdr.chm13513155
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.BuiltIn Property (Visio)
+# ToolbarItem.BuiltIn property (Visio)
 
 Determines whether an object is a default Microsoft Visio user interface object or a custom object. Read-only.
 

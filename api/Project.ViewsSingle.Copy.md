@@ -1,5 +1,5 @@
 ---
-title: ViewsSingle.Copy Method (Project)
+title: ViewsSingle.Copy method (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewsSingle.Copy
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewsSingle.Copy Method (Project)
+# ViewsSingle.Copy method (Project)
 
 Makes a copy of a group definition for the  **ViewsSingle** collection and returns a reference to the **[View](Project.ViewSingle.md)** object.
 

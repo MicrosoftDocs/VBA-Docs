@@ -1,5 +1,5 @@
 ---
-title: Document.Description Property (Visio)
+title: Document.Description property (Visio)
 keywords: vis_sdr.chm10513405
 f1_keywords:
 - vis_sdr.chm10513405
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Description Property (Visio)
+# Document.Description property (Visio)
 
 Gets or sets the description of a document, one of a document's properties. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: GroupCriteria.Parent Property (Project)
+title: GroupCriteria.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriteria.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriteria.Parent Property (Project)
+# GroupCriteria.Parent property (Project)
 
 Gets the parent of the  **GroupCriteria** object. Read-only **Group**.
 

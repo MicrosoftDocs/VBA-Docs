@@ -1,5 +1,5 @@
 ---
-title: Layers.EventList Property (Visio)
+title: Layers.EventList property (Visio)
 keywords: vis_sdr.chm11913480
 f1_keywords:
 - vis_sdr.chm11913480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layers.EventList Property (Visio)
+# Layers.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 

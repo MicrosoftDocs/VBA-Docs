@@ -1,5 +1,5 @@
 ---
-title: Application.OnUndoOrRedo Event (Project)
+title: Application.OnUndoOrRedo event (Project)
 keywords: vbapj.chm131132
 f1_keywords:
 - vbapj.chm131132
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OnUndoOrRedo Event (Project)
+# Application.OnUndoOrRedo event (Project)
 
 Occurs when a transaction is undone or redone.
 

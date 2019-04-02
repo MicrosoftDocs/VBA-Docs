@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceCalendarEditDays Method (Project)
+title: Application.ResourceCalendarEditDays method (Project)
 keywords: vbapj.chm620
 f1_keywords:
 - vbapj.chm620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceCalendarEditDays Method (Project)
+# Application.ResourceCalendarEditDays method (Project)
 
 Edits days in a resource calendar.
 

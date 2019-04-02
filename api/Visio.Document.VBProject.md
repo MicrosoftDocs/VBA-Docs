@@ -1,5 +1,5 @@
 ---
-title: Document.VBProject Property (Visio)
+title: Document.VBProject property (Visio)
 keywords: vis_sdr.chm10514635
 f1_keywords:
 - vis_sdr.chm10514635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.VBProject Property (Visio)
+# Document.VBProject property (Visio)
 
 Returns an automation object that you can use to control the Microsoft Visual Basic for Applications (VBA) project of the document. Read-only.
 

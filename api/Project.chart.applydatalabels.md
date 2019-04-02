@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyDataLabels Method (Project)
+title: Chart.ApplyDataLabels method (Project)
 ms.prod: project-server
 ms.assetid: cda031a4-ed86-1ec8-583d-44767785e3a1
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ApplyDataLabels Method (Project)
+# Chart.ApplyDataLabels method (Project)
 Applies data labels to all the series in a chart.
 
 ## Syntax

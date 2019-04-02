@@ -1,5 +1,5 @@
 ---
-title: Pages Object (Visio)
+title: Pages object (Visio)
 keywords: vis_sdr.chm10195
 f1_keywords:
 - vis_sdr.chm10195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages Object (Visio)
+# Pages object (Visio)
 
 Includes a  **Page** object for each drawing page in a document.
 

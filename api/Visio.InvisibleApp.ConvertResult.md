@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ConvertResult Method (Visio)
+title: InvisibleApp.ConvertResult method (Visio)
 keywords: vis_sdr.chm17516135
 f1_keywords:
 - vis_sdr.chm17516135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ConvertResult Method (Visio)
+# InvisibleApp.ConvertResult method (Visio)
 
 Converts a string or number into an equivalent number in different measurement units.
 

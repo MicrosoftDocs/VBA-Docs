@@ -1,5 +1,5 @@
 ---
-title: Shape.LockAspectRatio Property (Project)
+title: Shape.LockAspectRatio property (Project)
 ms.prod: project-server
 ms.assetid: b465aad3-d253-d6ce-0f6e-bb0638733647
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.LockAspectRatio Property (Project)
+# Shape.LockAspectRatio property (Project)
 Gets or sets a value that indicates whether the shape retains its original proportions when you resize it; that is, whether the aspect ratio of the shape is locked. Read-write  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**
 
 ## Syntax

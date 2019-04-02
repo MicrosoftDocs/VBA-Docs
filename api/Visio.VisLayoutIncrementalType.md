@@ -1,5 +1,5 @@
 ---
-title: VisLayoutIncrementalType Enumeration (Visio)
+title: VisLayoutIncrementalType enumeration (Visio)
 keywords: vis_sdr.chm70625
 f1_keywords:
 - vis_sdr.chm70625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisLayoutIncrementalType Enumeration (Visio)
+# VisLayoutIncrementalType enumeration (Visio)
 
 Specifies constants that define types of incremental layout; passed to the  **[Page.LayoutIncremental](Visio.Page.LayoutIncremental.md)** and **[Selection.LayoutIncremental](Visio.Selection.LayoutIncremental.md)** methods.
 

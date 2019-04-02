@@ -1,5 +1,5 @@
 ---
-title: WorkWeekDay.Index Property (Project)
+title: WorkWeekDay.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeekDay.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeekDay.Index Property (Project)
+# WorkWeekDay.Index property (Project)
 
 Gets the index of a  **WorkWeekDay** object in the **WorkWeekDays** containing object. Read-only **Integer**.
 

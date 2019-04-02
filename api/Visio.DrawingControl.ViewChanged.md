@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.ViewChanged Event (Visio)
+title: DrawingControl.ViewChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.ViewChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.ViewChanged Event (Visio)
+# DrawingControl.ViewChanged event (Visio)
 
 Occurs when the zoom level or scroll position of a drawing window changes.
 

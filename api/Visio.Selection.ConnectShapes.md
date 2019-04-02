@@ -1,5 +1,5 @@
 ---
-title: Selection.ConnectShapes Method (Visio)
+title: Selection.ConnectShapes method (Visio)
 keywords: vis_sdr.chm11152010
 f1_keywords:
 - vis_sdr.chm11152010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.ConnectShapes Method (Visio)
+# Selection.ConnectShapes method (Visio)
 
 Connects two or more selected shapes with a dynamic connector. Returns **Nothing**.
 

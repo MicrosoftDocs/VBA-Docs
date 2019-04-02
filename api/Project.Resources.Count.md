@@ -1,5 +1,5 @@
 ---
-title: Resources.Count Property (Project)
+title: Resources.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resources.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resources.Count Property (Project)
+# Resources.Count property (Project)
 
 Gets the number of items in the  **Resources** collection. Read-only **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.Ascending Property (Project)
+title: GroupCriterion.Ascending property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.Ascending
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.Ascending Property (Project)
+# GroupCriterion.Ascending property (Project)
 
  **True** if a field used as a criterion in a group definition is sorted in ascending order. **False** if the field is sorted in descending order. Read/write **Boolean**.
 

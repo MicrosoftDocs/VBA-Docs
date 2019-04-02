@@ -1,5 +1,5 @@
 ---
-title: Application.Layout Method (Project)
+title: Application.Layout method (Project)
 keywords: vbapj.chm941
 f1_keywords:
 - vbapj.chm941
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Layout Method (Project)
+# Application.Layout method (Project)
 
 Displays the  **Layout** dialog box, which allows the user to set layout options for the active view.
 

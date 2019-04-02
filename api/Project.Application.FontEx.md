@@ -1,5 +1,5 @@
 ---
-title: Application.FontEx Method (Project)
+title: Application.FontEx method (Project)
 keywords: vbapj.chm937
 f1_keywords:
 - vbapj.chm937
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FontEx Method (Project)
+# Application.FontEx method (Project)
 
 Sets the font for the text in the active cells.
 

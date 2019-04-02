@@ -1,5 +1,5 @@
 ---
-title: PbWizardPageType Enumeration (Publisher)
+title: PbWizardPageType enumeration (Publisher)
 keywords: vbapb10.chm65603
 f1_keywords:
 - vbapb10.chm65603
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWizardPageType Enumeration (Publisher)
+# PbWizardPageType enumeration (Publisher)
 
 The type of wizard page to add.
 

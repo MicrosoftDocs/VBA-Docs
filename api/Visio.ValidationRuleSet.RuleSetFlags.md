@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSet.RuleSetFlags Property (Visio)
+title: ValidationRuleSet.RuleSetFlags property (Visio)
 keywords: vis_sdr.chm18262640
 f1_keywords:
 - vis_sdr.chm18262640
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSet.RuleSetFlags Property (Visio)
+# ValidationRuleSet.RuleSetFlags property (Visio)
 
 Gets or sets special rule-set properties. Read/write.
 

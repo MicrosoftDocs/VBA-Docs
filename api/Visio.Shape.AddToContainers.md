@@ -1,5 +1,5 @@
 ---
-title: Shape.AddToContainers Method (Visio)
+title: Shape.AddToContainers method (Visio)
 keywords: vis_sdr.chm11262215
 f1_keywords:
 - vis_sdr.chm11262215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.AddToContainers Method (Visio)
+# Shape.AddToContainers method (Visio)
 
 Adds the shape to all underlying containers that allow it as a member.
 

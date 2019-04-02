@@ -1,5 +1,5 @@
 ---
-title: Application.AddonPaths Property (Visio)
+title: Application.AddonPaths property (Visio)
 keywords: vis_sdr.chm10013055
 f1_keywords:
 - vis_sdr.chm10013055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AddonPaths Property (Visio)
+# Application.AddonPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for third-party or user add-ons. Read/write.
 

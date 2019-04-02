@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportFlip Property (Visio)
+title: ApplicationSettings.RasterExportFlip property (Visio)
 keywords: vis_sdr.chm16262550
 f1_keywords:
 - vis_sdr.chm16262550
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportFlip Property (Visio)
+# ApplicationSettings.RasterExportFlip property (Visio)
 
 Determines the flip that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, GIF, JPG, PNG, or TIFF file. Read/write.
 

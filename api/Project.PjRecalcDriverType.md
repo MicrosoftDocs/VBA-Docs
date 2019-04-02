@@ -1,5 +1,5 @@
 ---
-title: PjRecalcDriverType Enumeration (Project)
+title: PjRecalcDriverType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjRecalcDriverType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjRecalcDriverType Enumeration (Project)
+# PjRecalcDriverType enumeration (Project)
 
 Contains constants that specify the type of driver that affects task recalculation.
 

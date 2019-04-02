@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Name Property (Project)
+title: ViewSingle.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Name Property (Project)
+# ViewSingle.Name property (Project)
 
 Gets the name of a  **ViewSingle** object. Read/write **String**.
 

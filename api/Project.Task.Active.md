@@ -1,5 +1,5 @@
 ---
-title: Task.Active Property (Project)
+title: Task.Active property (Project)
 keywords: vbapj.chm131367
 f1_keywords:
 - vbapj.chm131367
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Active Property (Project)
+# Task.Active property (Project)
 
  **True** if the task is active; otherwise, **False**. Read/write **Variant**.
 

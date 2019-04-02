@@ -1,5 +1,5 @@
 ---
-title: Task.ActualWork Property (Project)
+title: Task.ActualWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ActualWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ActualWork Property (Project)
+# Task.ActualWork property (Project)
 
 Gets or sets the actual work (in minutes) for the task. Read-only for summary tasks. Read/write  **Variant**.
 

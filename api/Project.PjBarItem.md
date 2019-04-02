@@ -1,5 +1,5 @@
 ---
-title: PjBarItem Enumeration (Project)
+title: PjBarItem enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBarItem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBarItem Enumeration (Project)
+# PjBarItem enumeration (Project)
 
 Contains constants that specify a bar item type.
 

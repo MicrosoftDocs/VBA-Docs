@@ -1,5 +1,5 @@
 ---
-title: DataColumns Object (Visio)
+title: DataColumns object (Visio)
 keywords: vis_sdr.chm61015
 f1_keywords:
 - vis_sdr.chm61015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumns Object (Visio)
+# DataColumns object (Visio)
 
 The collection of  **DataColumn** objects associated with a **DataRecordset** object.
 

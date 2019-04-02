@@ -1,5 +1,5 @@
 ---
-title: Availability.Index Property (Project)
+title: Availability.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Availability.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Availability.Index Property (Project)
+# Availability.Index property (Project)
 
 Gets the index of an  **Availability** object in the containing **Availabilities** collection. Read-only **Long**.
 

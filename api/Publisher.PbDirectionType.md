@@ -1,5 +1,5 @@
 ---
-title: PbDirectionType Enumeration (Publisher)
+title: PbDirectionType enumeration (Publisher)
 keywords: vbapb10.chm65553
 f1_keywords:
 - vbapb10.chm65553
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbDirectionType Enumeration (Publisher)
+# PbDirectionType enumeration (Publisher)
 
 Represents a global Microsoft Publisher option, indicating whether text flows from left to right or from right to left in a publication.
 

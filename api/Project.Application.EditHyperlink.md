@@ -1,5 +1,5 @@
 ---
-title: Application.EditHyperlink Method (Project)
+title: Application.EditHyperlink method (Project)
 keywords: vbapj.chm1310
 f1_keywords:
 - vbapj.chm1310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EditHyperlink Method (Project)
+# Application.EditHyperlink method (Project)
 
 Edits the hyperlink of the selected assignment, resource, or task.
 

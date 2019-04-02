@@ -1,5 +1,5 @@
 ---
-title: OlHorizontalLayout Enumeration (Outlook)
+title: OlHorizontalLayout enumeration (Outlook)
 keywords: vbaol11.chm1000538
 f1_keywords:
 - vbaol11.chm1000538
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlHorizontalLayout Enumeration (Outlook)
+# OlHorizontalLayout enumeration (Outlook)
 
 Specifies the alignment of controls in the horizontal direction.
 

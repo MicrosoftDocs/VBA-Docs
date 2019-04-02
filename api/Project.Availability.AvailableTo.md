@@ -1,5 +1,5 @@
 ---
-title: Availability.AvailableTo Property (Project)
+title: Availability.AvailableTo property (Project)
 keywords: vbapj.chm132560
 f1_keywords:
 - vbapj.chm132560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Availability.AvailableTo Property (Project)
+# Availability.AvailableTo property (Project)
 
 Gets the latest date that a resource is available for work on the project, as specified in the  **Availability** row of the **Resource Availability** grid for the resource. Read/write **Variant**.
 

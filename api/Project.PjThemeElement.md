@@ -1,5 +1,5 @@
 ---
-title: PjThemeElement Enumeration (Project)
+title: PjThemeElement enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjThemeElement
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjThemeElement Enumeration (Project)
+# PjThemeElement enumeration (Project)
 
 Contains constants that specify the theme element in Project Guide pages.
 

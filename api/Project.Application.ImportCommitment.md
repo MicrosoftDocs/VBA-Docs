@@ -1,5 +1,5 @@
 ---
-title: Application.ImportCommitment Method (Project)
+title: Application.ImportCommitment method (Project)
 keywords: vbapj.chm2098
 f1_keywords:
 - vbapj.chm2098
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ImportCommitment Method (Project)
+# Application.ImportCommitment method (Project)
 
 Imports the specified deliverable into a project.
 

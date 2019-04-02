@@ -1,5 +1,5 @@
 ---
-title: Window.BottomPane Property (Project)
+title: Window.BottomPane property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.BottomPane
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.BottomPane Property (Project)
+# Window.BottomPane property (Project)
 
 Gets a  **[Pane](Project.Pane.md)** object representing the bottom pane of a window. Read-only **Pane**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WindowSelectionChange Event (Project)
+title: Application.WindowSelectionChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowSelectionChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowSelectionChange Event (Project)
+# Application.WindowSelectionChange event (Project)
 
 Occurs when the selection handle is changed within a window in Project.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverablesGetByProject Method (Project)
+title: Project.DeliverablesGetByProject method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverablesGetByProject
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverablesGetByProject Method (Project)
+# Project.DeliverablesGetByProject method (Project)
 
 Gets a list of all deliverables for the specified enterprise project in the XML member of the returned object. Project Professional only.
 

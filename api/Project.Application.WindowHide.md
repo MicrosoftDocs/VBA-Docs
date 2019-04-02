@@ -1,5 +1,5 @@
 ---
-title: Application.WindowHide Method (Project)
+title: Application.WindowHide method (Project)
 keywords: vbapj.chm703
 f1_keywords:
 - vbapj.chm703
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowHide Method (Project)
+# Application.WindowHide method (Project)
 
 Hides a window.
 

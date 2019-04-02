@@ -1,5 +1,5 @@
 ---
-title: VisRotationTypes Enumeration (Visio)
+title: VisRotationTypes enumeration (Visio)
 keywords: vis_sdr.chm70380
 f1_keywords:
 - vis_sdr.chm70380
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisRotationTypes Enumeration (Visio)
+# VisRotationTypes enumeration (Visio)
 
 Rotation type constants to be passed to the  **Selection.Rotate** method.
 

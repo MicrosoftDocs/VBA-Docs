@@ -1,5 +1,5 @@
 ---
-title: Application.ReportPrintPreview Method (Project)
+title: Application.ReportPrintPreview method (Project)
 keywords: vbapj.chm112
 f1_keywords:
 - vbapj.chm112
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ReportPrintPreview Method (Project)
+# Application.ReportPrintPreview method (Project)
 
 Deprecated in Project. Shows an on-screen preview of a printed report.
 

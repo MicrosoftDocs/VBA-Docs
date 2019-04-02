@@ -1,5 +1,5 @@
 ---
-title: MenuSets Object (Visio)
+title: MenuSets object (Visio)
 keywords: vis_sdr.chm10175
 f1_keywords:
 - vis_sdr.chm10175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSets Object (Visio)
+# MenuSets object (Visio)
 
 Includes a  **MenuSet** object for each Microsoft Visio window context that has menus.
 

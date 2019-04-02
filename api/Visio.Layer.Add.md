@@ -1,5 +1,5 @@
 ---
-title: Layer.Add Method (Visio)
+title: Layer.Add method (Visio)
 keywords: vis_sdr.chm11816670
 f1_keywords:
 - vis_sdr.chm11816670
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.Add Method (Visio)
+# Layer.Add method (Visio)
 
 Adds a  **Shape** object to a **Layer** object.
 

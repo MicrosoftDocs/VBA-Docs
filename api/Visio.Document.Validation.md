@@ -1,5 +1,5 @@
 ---
-title: Document.Validation Property (Visio)
+title: Document.Validation property (Visio)
 keywords: vis_sdr.chm10562440
 f1_keywords:
 - vis_sdr.chm10562440
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Validation Property (Visio)
+# Document.Validation property (Visio)
 
 Returns the  **[Validation](Visio.Validation.md)** object that is associated with the document. Read-only.
 

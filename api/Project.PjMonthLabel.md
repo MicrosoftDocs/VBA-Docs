@@ -1,5 +1,5 @@
 ---
-title: PjMonthLabel Enumeration (Project)
+title: PjMonthLabel enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMonthLabel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjMonthLabel Enumeration (Project)
+# PjMonthLabel enumeration (Project)
 
 Contains constants that specify the display format for months in a timescale. The following table shows the months of September and October displayed with different formats.
 

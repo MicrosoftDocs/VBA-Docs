@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShapeLinkAdded Event (Visio)
+title: InvisibleApp.ShapeLinkAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeLinkAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShapeLinkAdded Event (Visio)
+# InvisibleApp.ShapeLinkAdded event (Visio)
 
 Occurs after a shape is linked to a data row.
 

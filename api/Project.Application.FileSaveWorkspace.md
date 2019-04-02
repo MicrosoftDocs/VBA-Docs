@@ -1,5 +1,5 @@
 ---
-title: Application.FileSaveWorkspace Method (Project)
+title: Application.FileSaveWorkspace method (Project)
 keywords: vbapj.chm108
 f1_keywords:
 - vbapj.chm108
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileSaveWorkspace Method (Project)
+# Application.FileSaveWorkspace method (Project)
 
 Saves a list of open files and the current settings in the  **Options** dialog box.
 

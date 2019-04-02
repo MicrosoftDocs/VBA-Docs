@@ -1,5 +1,5 @@
 ---
-title: VisRasterExportDataCompression Enumeration (Visio)
+title: VisRasterExportDataCompression enumeration (Visio)
 keywords: vis_sdr.chm70750
 f1_keywords:
 - vis_sdr.chm70750
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRasterExportDataCompression Enumeration (Visio)
+# VisRasterExportDataCompression enumeration (Visio)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: OlTaskStatus Enumeration (Outlook)
+title: OlTaskStatus enumeration (Outlook)
 keywords: vbaol11.chm3087
 f1_keywords:
 - vbaol11.chm3087
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTaskStatus Enumeration (Outlook)
+# OlTaskStatus enumeration (Outlook)
 
 Indicates the task status.
 

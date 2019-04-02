@@ -1,5 +1,5 @@
 ---
-title: Application.ComAddInsDialog Method (Project)
+title: Application.ComAddInsDialog method (Project)
 keywords: vbapj.chm2395
 f1_keywords:
 - vbapj.chm2395
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ComAddInsDialog Method (Project)
+# Application.ComAddInsDialog method (Project)
 
 Displays the  **COM Add-Ins** dialog box, which lists any COM add-ins available for installation.
 

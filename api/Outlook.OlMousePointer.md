@@ -1,5 +1,5 @@
 ---
-title: OlMousePointer Enumeration (Outlook)
+title: OlMousePointer enumeration (Outlook)
 keywords: vbaol11.chm1000019
 f1_keywords:
 - vbaol11.chm1000019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlMousePointer Enumeration (Outlook)
+# OlMousePointer enumeration (Outlook)
 
 Specifies the mouse cursor that is displayed while the mouse is positioned over a control and a drag/drop operation is not being performed.
 

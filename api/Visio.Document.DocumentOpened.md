@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentOpened Event (Visio)
+title: Document.DocumentOpened event (Visio)
 keywords: vis_sdr.chm10519130
 f1_keywords:
 - vis_sdr.chm10519130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.DocumentOpened Event (Visio)
+# Document.DocumentOpened event (Visio)
 
 Occurs after a document is opened.
 

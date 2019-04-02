@@ -1,5 +1,5 @@
 ---
-title: OlMeetingRecipientType Enumeration (Outlook)
+title: OlMeetingRecipientType enumeration (Outlook)
 keywords: vbaol11.chm3068
 f1_keywords:
 - vbaol11.chm3068
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlMeetingRecipientType Enumeration (Outlook)
+# OlMeetingRecipientType enumeration (Outlook)
 
 Indicates the recipient type for the meeting.
 

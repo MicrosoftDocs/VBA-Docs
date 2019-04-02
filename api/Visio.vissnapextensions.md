@@ -1,5 +1,5 @@
 ---
-title: VisSnapExtensions Enumeration (Visio)
+title: VisSnapExtensions enumeration (Visio)
 keywords: vis_sdr.chm70325
 f1_keywords:
 - vis_sdr.chm70325
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSnapExtensions Enumeration (Visio)
+# VisSnapExtensions enumeration (Visio)
 
 Flags passed to or returned by the  **Document.SnapExtensions** property.
 

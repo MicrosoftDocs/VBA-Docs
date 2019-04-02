@@ -1,5 +1,5 @@
 ---
-title: Document.CustomToolbarsFile Property (Visio)
+title: Document.CustomToolbarsFile property (Visio)
 keywords: vis_sdr.chm10513360
 f1_keywords:
 - vis_sdr.chm10513360
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.CustomToolbarsFile Property (Visio)
+# Document.CustomToolbarsFile property (Visio)
 
 Returns or sets the name of the file that defines custom toolbars and status bars for a  **Document** object. Read/write.
 

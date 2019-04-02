@@ -1,5 +1,5 @@
 ---
-title: Application.ClearCustomMenus Method (Visio)
+title: Application.ClearCustomMenus method (Visio)
 keywords: vis_sdr.chm10016110
 f1_keywords:
 - vis_sdr.chm10016110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ClearCustomMenus Method (Visio)
+# Application.ClearCustomMenus method (Visio)
 
 Restores the built-in Microsoft Visio user interface.
 

@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ShowFileOpenWarnings Property (Visio)
+title: ApplicationSettings.ShowFileOpenWarnings property (Visio)
 keywords: vis_sdr.chm16251625
 f1_keywords:
 - vis_sdr.chm16251625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ShowFileOpenWarnings Property (Visio)
+# ApplicationSettings.ShowFileOpenWarnings property (Visio)
 
 Determines if warning messages appear when the user attempts to open files in XML format that contain errors, such as invalid XML code. Read/write.
 

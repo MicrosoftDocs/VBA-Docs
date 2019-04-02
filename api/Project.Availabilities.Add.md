@@ -1,5 +1,5 @@
 ---
-title: Availabilities.Add Method (Project)
+title: Availabilities.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Availabilities.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Availabilities.Add Method (Project)
+# Availabilities.Add method (Project)
 
 Adds an  **Availability** object to an **Availabilities** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.FollowHyperlink Method (Project)
+title: Application.FollowHyperlink method (Project)
 keywords: vbapj.chm1307
 f1_keywords:
 - vbapj.chm1307
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FollowHyperlink Method (Project)
+# Application.FollowHyperlink method (Project)
 
 Opens the document specified by a hyperlink address.
 

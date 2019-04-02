@@ -1,5 +1,5 @@
 ---
-title: VisPageSizingBehaviors Enumeration (Visio)
+title: VisPageSizingBehaviors enumeration (Visio)
 keywords: vis_sdr.chm70445
 f1_keywords:
 - vis_sdr.chm70445
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisPageSizingBehaviors Enumeration (Visio)
+# VisPageSizingBehaviors enumeration (Visio)
 
 Values for the  **DrawingControl.PageSizingBehavior** property.
 

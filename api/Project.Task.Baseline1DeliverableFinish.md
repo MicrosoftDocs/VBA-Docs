@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline1DeliverableFinish Property (Project)
+title: Task.Baseline1DeliverableFinish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline1DeliverableFinish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline1DeliverableFinish Property (Project)
+# Task.Baseline1DeliverableFinish property (Project)
 
 Gets or sets the task baseline1 deliverables finish date. Read/write  **Variant**.
 

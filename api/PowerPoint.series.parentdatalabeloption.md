@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Series.ParentDataLabelOption property (PowerPoint)
 
-Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XlParentDataLabelOptions Enumeration (PowerPoint)](PowerPoint.xlparentdatalabeloptions.md).
+Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XlParentDataLabelOptions enumeration (PowerPoint)](PowerPoint.xlparentdatalabeloptions.md).
 
 
 ## Syntax

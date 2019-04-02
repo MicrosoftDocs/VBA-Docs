@@ -1,5 +1,5 @@
 ---
-title: Profile.Server Property (Project)
+title: Profile.Server property (Project)
 keywords: vbapj.chm132511
 f1_keywords:
 - vbapj.chm132511
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Profile.Server Property (Project)
+# Profile.Server property (Project)
 
 Gets or sets the name of the profile for Project Server. Read/write  **String**.
 

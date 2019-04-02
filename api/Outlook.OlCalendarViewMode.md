@@ -1,5 +1,5 @@
 ---
-title: OlCalendarViewMode Enumeration (Outlook)
+title: OlCalendarViewMode enumeration (Outlook)
 keywords: vbaol11.chm3126
 f1_keywords:
 - vbaol11.chm3126
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlCalendarViewMode Enumeration (Outlook)
+# OlCalendarViewMode enumeration (Outlook)
 
 Indicates the view mode specified in the  **[CalendarViewMode](Outlook.CalendarView.CalendarViewMode.md)** property of the **[CalendarView](Outlook.CalendarView.md)** object.
 

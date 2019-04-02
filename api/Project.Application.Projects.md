@@ -1,5 +1,5 @@
 ---
-title: Application.Projects Property (Project)
+title: Application.Projects property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Projects
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Projects Property (Project)
+# Application.Projects property (Project)
 
 Gets a  **[Projects](Project.projects.md)** collection representing the open projects. Read-only **Projects**.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.EMailAddress Property (Project)
+title: Resource.EMailAddress property (Project)
 keywords: vbapj.chm131785
 f1_keywords:
 - vbapj.chm131785
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EMailAddress Property (Project)
+# Resource.EMailAddress property (Project)
 
 Gets or sets the email address of the resource. Read/write  **String**.
 

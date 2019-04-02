@@ -1,5 +1,5 @@
 ---
-title: Application.ZoomCalendar Method (Project)
+title: Application.ZoomCalendar method (Project)
 keywords: vbapj.chm2347
 f1_keywords:
 - vbapj.chm2347
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ZoomCalendar Method (Project)
+# Application.ZoomCalendar method (Project)
 
 Zooms in on or out from the Calendar.
 

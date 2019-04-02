@@ -1,5 +1,5 @@
 ---
-title: Calendar.WorkWeeks Property (Project)
+title: Calendar.WorkWeeks property (Project)
 keywords: vbapj.chm132830
 f1_keywords:
 - vbapj.chm132830
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Calendar.WorkWeeks Property (Project)
+# Calendar.WorkWeeks property (Project)
 
 Gets a  **[WorkWeeks](Project.Year.md)** collection representing the work weeks defined in the calendar. Read-only **WorkWeeks**.
 

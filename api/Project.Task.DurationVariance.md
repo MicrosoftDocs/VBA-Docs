@@ -1,5 +1,5 @@
 ---
-title: Task.DurationVariance Property (Project)
+title: Task.DurationVariance property (Project)
 keywords: vbapj.chm131783
 f1_keywords:
 - vbapj.chm131783
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.DurationVariance Property (Project)
+# Task.DurationVariance property (Project)
 
 Gets the variance (in minutes) between the planned duration and the duration of the task. Read-only  **Variant**.
 

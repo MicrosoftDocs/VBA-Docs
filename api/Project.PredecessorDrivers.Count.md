@@ -1,5 +1,5 @@
 ---
-title: PredecessorDrivers.Count Property (Project)
+title: PredecessorDrivers.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.PredecessorDrivers.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PredecessorDrivers.Count Property (Project)
+# PredecessorDrivers.Count property (Project)
 
 Gets the number of items in the  **[PredecessorDrivers](Project.predecessordrivers.md)** collection. Read-only **Long**.
 

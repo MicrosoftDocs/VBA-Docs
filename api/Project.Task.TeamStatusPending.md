@@ -1,5 +1,5 @@
 ---
-title: Task.TeamStatusPending Property (Project)
+title: Task.TeamStatusPending property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.TeamStatusPending
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.TeamStatusPending Property (Project)
+# Task.TeamStatusPending property (Project)
 
  **True** if a response has not been received for at least one progress request message. Read-only **Boolean**.
 

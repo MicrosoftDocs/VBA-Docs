@@ -1,5 +1,5 @@
 ---
-title: Application.MailSend Method (Project)
+title: Application.MailSend method (Project)
 keywords: vbapj.chm120
 f1_keywords:
 - vbapj.chm120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailSend Method (Project)
+# Application.MailSend method (Project)
 
 Sends a mail message.
 

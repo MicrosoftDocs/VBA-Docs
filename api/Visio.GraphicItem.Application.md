@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.Application Property (Visio)
+title: GraphicItem.Application property (Visio)
 keywords: vis_sdr.chm16913090
 f1_keywords:
 - vis_sdr.chm16913090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.Application Property (Visio)
+# GraphicItem.Application property (Visio)
 
 Returns the instance of Microsoft Visio associated with a  **GraphicItem** object. Read-only.
 

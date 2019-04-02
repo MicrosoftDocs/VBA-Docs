@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.FontItalic Property (Project)
+title: GroupCriterion.FontItalic property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.FontItalic
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.FontItalic Property (Project)
+# GroupCriterion.FontItalic property (Project)
 
  **True** if the font for a field used as a criterion in a group definition is italic. Read/write **Boolean**.
 

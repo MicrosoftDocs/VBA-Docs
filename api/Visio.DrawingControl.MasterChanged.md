@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.MasterChanged Event (Visio)
+title: DrawingControl.MasterChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.MasterChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.MasterChanged Event (Visio)
+# DrawingControl.MasterChanged event (Visio)
 
 Occurs after properties of a master are changed and propagated to its instances.
 

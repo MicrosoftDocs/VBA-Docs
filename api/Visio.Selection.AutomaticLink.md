@@ -1,5 +1,5 @@
 ---
-title: Selection.AutomaticLink Method (Visio)
+title: Selection.AutomaticLink method (Visio)
 keywords: vis_sdr.chm11160210
 f1_keywords:
 - vis_sdr.chm11160210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.AutomaticLink Method (Visio)
+# Selection.AutomaticLink method (Visio)
 
 Links selected shapes to data rows in the specified data recordset automatically, without requiring you to specify the exact correspondence of all shapes and data rows. Returns the number of shapes linked.
 

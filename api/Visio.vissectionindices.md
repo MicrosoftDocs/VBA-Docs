@@ -1,5 +1,5 @@
 ---
-title: VisSectionIndices Enumeration (Visio)
+title: VisSectionIndices enumeration (Visio)
 keywords: vis_sdr.chm70018
 f1_keywords:
 - vis_sdr.chm70018
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSectionIndices Enumeration (Visio)
+# VisSectionIndices enumeration (Visio)
 
 Logical indices of ShapeSheet sections for  **Shape** or **Style** objects.
 

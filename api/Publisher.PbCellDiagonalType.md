@@ -1,5 +1,5 @@
 ---
-title: PbCellDiagonalType Enumeration (Publisher)
+title: PbCellDiagonalType enumeration (Publisher)
 keywords: vbapb10.chm65576
 f1_keywords:
 - vbapb10.chm65576
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbCellDiagonalType Enumeration (Publisher)
+# PbCellDiagonalType enumeration (Publisher)
 
 Represents a cell that is diagonally split.
 

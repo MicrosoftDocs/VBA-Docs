@@ -1,5 +1,5 @@
 ---
-title: Resource.Start6 Property (Project)
+title: Resource.Start6 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Start6
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Start6 Property (Project)
+# Resource.Start6 property (Project)
 
 Gets or sets a Start local custom field for the resource. Read/write  **Variant**.
 

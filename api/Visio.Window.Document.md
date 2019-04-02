@@ -1,5 +1,5 @@
 ---
-title: Window.Document Property (Visio)
+title: Window.Document property (Visio)
 keywords: vis_sdr.chm11613430
 f1_keywords:
 - vis_sdr.chm11613430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Document Property (Visio)
+# Window.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

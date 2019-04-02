@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforeMasterDelete Event (Visio)
+title: DrawingControl.BeforeMasterDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeMasterDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeMasterDelete Event (Visio)
+# DrawingControl.BeforeMasterDelete event (Visio)
 
 Occurs before a master is deleted from a document.
 

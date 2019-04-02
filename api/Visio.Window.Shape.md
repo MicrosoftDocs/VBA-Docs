@@ -1,5 +1,5 @@
 ---
-title: Window.Shape Property (Visio)
+title: Window.Shape property (Visio)
 keywords: vis_sdr.chm11614320
 f1_keywords:
 - vis_sdr.chm11614320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Shape Property (Visio)
+# Window.Shape property (Visio)
 
 Returns the  **Shape** object that owns a **Cell**, **Characters**, **Row**, or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
 

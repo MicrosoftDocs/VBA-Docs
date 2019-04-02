@@ -1,5 +1,5 @@
 ---
-title: Assignment.Baseline4Work Property (Project)
+title: Assignment.Baseline4Work property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline4Work
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Baseline4Work Property (Project)
+# Assignment.Baseline4Work property (Project)
 
 Gets or sets the baseline work (in minutes) for an  **Assignment**. Read/write **Variant**.
 

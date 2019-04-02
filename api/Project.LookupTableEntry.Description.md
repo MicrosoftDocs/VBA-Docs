@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.Description Property (Project)
+title: LookupTableEntry.Description property (Project)
 keywords: vbapj.chm132390
 f1_keywords:
 - vbapj.chm132390
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry.Description Property (Project)
+# LookupTableEntry.Description property (Project)
 
 Gets or sets the description of the individual entry. Read/write  **String**.
 

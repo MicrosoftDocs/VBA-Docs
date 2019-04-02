@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectAll Method (Visio)
+title: Selection.SelectAll method (Visio)
 keywords: vis_sdr.chm11116535
 f1_keywords:
 - vis_sdr.chm11116535
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.SelectAll Method (Visio)
+# Selection.SelectAll method (Visio)
 
 Selects all possible shapes in a window or selection.
 

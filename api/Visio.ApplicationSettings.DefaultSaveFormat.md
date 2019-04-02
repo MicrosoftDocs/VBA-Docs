@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.DefaultSaveFormat Property (Visio)
+title: ApplicationSettings.DefaultSaveFormat property (Visio)
 keywords: vis_sdr.chm16251830
 f1_keywords:
 - vis_sdr.chm16251830
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.DefaultSaveFormat Property (Visio)
+# ApplicationSettings.DefaultSaveFormat property (Visio)
 
 Determines the default format for saving Microsoft Visio files. Read/write.
 

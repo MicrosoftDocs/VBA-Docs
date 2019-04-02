@@ -1,5 +1,5 @@
 ---
-title: Window.WebBrowserControlWindow Method (Project)
+title: Window.WebBrowserControlWindow method (Project)
 keywords: vbapj.chm131101
 f1_keywords:
 - vbapj.chm131101
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.WebBrowserControlWindow Method (Project)
+# Window.WebBrowserControlWindow method (Project)
 
 Returns the DOM object for the Microsoft Internet Explorer window loaded in the Web browser control that is hosted within the specified window in Project.
 

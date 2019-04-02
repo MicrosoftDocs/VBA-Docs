@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.ObjectType Property (Visio)
+title: KeyboardEvent.ObjectType property (Visio)
 keywords: vis_sdr.chm17013960
 f1_keywords:
 - vis_sdr.chm17013960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent.ObjectType Property (Visio)
+# KeyboardEvent.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

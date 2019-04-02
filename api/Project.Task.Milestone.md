@@ -1,5 +1,5 @@
 ---
-title: Task.Milestone Property (Project)
+title: Task.Milestone property (Project)
 keywords: vbapj.chm132409
 f1_keywords:
 - vbapj.chm132409
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Milestone Property (Project)
+# Task.Milestone property (Project)
 
  **True** if the task is a milestone. Read/write **Variant**.
 

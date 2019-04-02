@@ -1,5 +1,5 @@
 ---
-title: Page.DrawRectangle Method (Visio)
+title: Page.DrawRectangle method (Visio)
 keywords: vis_sdr.chm10916220
 f1_keywords:
 - vis_sdr.chm10916220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.DrawRectangle Method (Visio)
+# Page.DrawRectangle method (Visio)
 
 Adds a rectangle to the  **Shapes** collection of a page, master, or group.
 

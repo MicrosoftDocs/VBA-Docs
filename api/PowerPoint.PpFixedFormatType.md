@@ -1,5 +1,5 @@
 ---
-title: PpFixedFormatType Enumeration (PowerPoint)
+title: PpFixedFormatType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpFixedFormatType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpFixedFormatType Enumeration (PowerPoint)
+# PpFixedFormatType enumeration (PowerPoint)
 
 Constants that specify the type of fixed-format file to export, passed to the  **ExportAsFixedFormat** method of the **Presentation** object.
 

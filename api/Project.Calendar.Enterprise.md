@@ -1,5 +1,5 @@
 ---
-title: Calendar.Enterprise Property (Project)
+title: Calendar.Enterprise property (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendar.Enterprise
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Calendar.Enterprise Property (Project)
+# Calendar.Enterprise property (Project)
 
  **True** if the calendar is an enterprise calendar, **False** if a local calendar. Read-only **Boolean**.
 

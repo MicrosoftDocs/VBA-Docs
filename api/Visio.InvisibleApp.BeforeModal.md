@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeModal Event (Visio)
+title: InvisibleApp.BeforeModal event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeModal
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeModal Event (Visio)
+# InvisibleApp.BeforeModal event (Visio)
 
 Occurs before a Microsoft Visio instance enters a modal state.
 

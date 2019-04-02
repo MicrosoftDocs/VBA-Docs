@@ -1,5 +1,5 @@
 ---
-title: Cell.Engagement Property (Project)
+title: Cell.Engagement property (Project)
 keywords: vbapj.chm131795
 f1_keywords:
 - vbapj.chm131795
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Engagement Property (Project)
+# Cell.Engagement property (Project)
 
 Gets or sets the engagement resource for a cell. 
 
@@ -25,6 +25,6 @@ _expression_. `Engagement`
 ## See also
 
 
-[Cell Object (Project)](Project.Cell.md)
+[Cell object (Project)](Project.Cell.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

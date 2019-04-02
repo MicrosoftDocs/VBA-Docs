@@ -1,5 +1,5 @@
 ---
-title: Documents.BeforeSelectionDelete Event (Visio)
+title: Documents.BeforeSelectionDelete event (Visio)
 keywords: vis_sdr.chm10619060
 f1_keywords:
 - vis_sdr.chm10619060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.BeforeSelectionDelete Event (Visio)
+# Documents.BeforeSelectionDelete event (Visio)
 
 Occurs before selected objects are deleted.
 

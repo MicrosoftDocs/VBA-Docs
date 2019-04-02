@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.ActionText Property (Visio)
+title: ToolbarItem.ActionText property (Visio)
 keywords: vis_sdr.chm13513015
 f1_keywords:
 - vis_sdr.chm13513015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.ActionText Property (Visio)
+# ToolbarItem.ActionText property (Visio)
 
 Gets or sets the action text for a toolbar item. Read/write. 
 

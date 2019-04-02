@@ -1,5 +1,5 @@
 ---
-title: Project.UniqueID Property (Project)
+title: Project.UniqueID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.UniqueID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.UniqueID Property (Project)
+# Project.UniqueID property (Project)
 
 Gets the unique identification number of the project, which is actually the  **UniqueID** value of the project summary task. Read-only **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceGraphBarStyles Method (Project)
+title: Application.ResourceGraphBarStyles method (Project)
 keywords: vbapj.chm2057
 f1_keywords:
 - vbapj.chm2057
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceGraphBarStyles Method (Project)
+# Application.ResourceGraphBarStyles method (Project)
 
 Sets the styles of bars on the Resource Graph view.
 

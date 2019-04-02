@@ -1,5 +1,5 @@
 ---
-title: Selection.AvoidPageBreaks Method (Visio)
+title: Selection.AvoidPageBreaks method (Visio)
 keywords: vis_sdr.chm11162200
 f1_keywords:
 - vis_sdr.chm11162200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.AvoidPageBreaks Method (Visio)
+# Selection.AvoidPageBreaks method (Visio)
 
 Makes small adjustments to selected shapes to move them off page breaks.
 

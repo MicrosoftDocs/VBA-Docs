@@ -1,5 +1,5 @@
 ---
-title: Resource.TimeScaleData Method (Project)
+title: Resource.TimeScaleData method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.TimeScaleData
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.TimeScaleData Method (Project)
+# Resource.TimeScaleData method (Project)
 
 Sets options for displaying timephased data for the resource.
 

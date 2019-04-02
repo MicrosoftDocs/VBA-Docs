@@ -1,5 +1,5 @@
 ---
-title: Project.BaselineSavedDate Property (Project)
+title: Project.BaselineSavedDate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.BaselineSavedDate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.BaselineSavedDate Property (Project)
+# Project.BaselineSavedDate property (Project)
 
 Gets date the specified baseline was last saved. Read-only  **Variant**.
 

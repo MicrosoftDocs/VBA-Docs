@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceCalendarReset Method (Project)
+title: Application.ResourceCalendarReset method (Project)
 keywords: vbapj.chm621
 f1_keywords:
 - vbapj.chm621
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceCalendarReset Method (Project)
+# Application.ResourceCalendarReset method (Project)
 
 Resets a resource calendar.
 

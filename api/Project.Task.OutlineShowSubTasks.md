@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineShowSubTasks Method (Project)
+title: Task.OutlineShowSubTasks method (Project)
 keywords: vbapj.chm131245
 f1_keywords:
 - vbapj.chm131245
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineShowSubTasks Method (Project)
+# Task.OutlineShowSubTasks method (Project)
 
 Shows the subtasks of the selected task or tasks.
 

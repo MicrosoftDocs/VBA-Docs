@@ -1,5 +1,5 @@
 ---
-title: Assignment.Project Property (Project)
+title: Assignment.Project property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Project
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Project Property (Project)
+# Assignment.Project property (Project)
 
 Gets the name of the project containing the  **Assignment**. Read-only **String**.
 

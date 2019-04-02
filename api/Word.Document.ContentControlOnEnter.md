@@ -1,5 +1,5 @@
 ---
-title: Document.ContentControlOnEnter Event (Word)
+title: Document.ContentControlOnEnter event (Word)
 keywords: vbawd10.chm4001013
 f1_keywords:
 - vbawd10.chm4001013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ContentControlOnEnter Event (Word)
+# Document.ContentControlOnEnter event (Word)
 
 Occurs when a user enters a content control.
 

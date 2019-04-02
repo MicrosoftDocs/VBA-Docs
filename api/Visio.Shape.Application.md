@@ -1,5 +1,5 @@
 ---
-title: Shape.Application Property (Visio)
+title: Shape.Application property (Visio)
 keywords: vis_sdr.chm11213090
 f1_keywords:
 - vis_sdr.chm11213090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Application Property (Visio)
+# Shape.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.XMLValidationError Event (Word)
+title: Application.XMLValidationError event (Word)
 keywords: vbawd10.chm4000026
 f1_keywords:
 - vbawd10.chm4000026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.XMLValidationError Event (Word)
+# Application.XMLValidationError event (Word)
 
 Occurs when there is a validation error in the document.
 

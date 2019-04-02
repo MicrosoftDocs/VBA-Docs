@@ -1,5 +1,5 @@
 ---
-title: Tasks.Add Method (Project)
+title: Tasks.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Tasks.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Tasks.Add Method (Project)
+# Tasks.Add method (Project)
 
 Adds a  **Task** object to a **Tasks** collection.
 

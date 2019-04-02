@@ -1,5 +1,5 @@
 ---
-title: Application.ConvertToGroupCanceled Event (Visio)
+title: Application.ConvertToGroupCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.ConvertToGroupCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ConvertToGroupCanceled Event (Visio)
+# Application.ConvertToGroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelConvertToGroup** event.
 

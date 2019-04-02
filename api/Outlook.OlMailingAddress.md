@@ -1,5 +1,5 @@
 ---
-title: OlMailingAddress Enumeration (Outlook)
+title: OlMailingAddress enumeration (Outlook)
 keywords: vbaol11.chm3066
 f1_keywords:
 - vbaol11.chm3066
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlMailingAddress Enumeration (Outlook)
+# OlMailingAddress enumeration (Outlook)
 
 Indicates the address to use as the mailing address.
 

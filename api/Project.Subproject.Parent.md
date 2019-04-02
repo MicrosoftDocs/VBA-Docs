@@ -1,5 +1,5 @@
 ---
-title: Subproject.Parent Property (Project)
+title: Subproject.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Subproject.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Subproject.Parent Property (Project)
+# Subproject.Parent property (Project)
 
 Gets the parent of the  **Subproject** object. Read-only **Project**.
 

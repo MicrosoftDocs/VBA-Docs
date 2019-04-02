@@ -1,5 +1,5 @@
 ---
-title: PbReplaceScope Enumeration (Publisher)
+title: PbReplaceScope enumeration (Publisher)
 keywords: vbapb10.chm65611
 f1_keywords:
 - vbapb10.chm65611
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbReplaceScope Enumeration (Publisher)
+# PbReplaceScope enumeration (Publisher)
 
 Specifies how many replacements are to be made: one, all, or none. 
 

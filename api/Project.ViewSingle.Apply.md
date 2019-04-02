@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Apply Method (Project)
+title: ViewSingle.Apply method (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.Apply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Apply Method (Project)
+# ViewSingle.Apply method (Project)
 
 Applies the single view.
 

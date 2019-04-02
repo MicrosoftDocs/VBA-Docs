@@ -1,5 +1,5 @@
 ---
-title: Task.FinishText Property (Project)
+title: Task.FinishText property (Project)
 keywords: vbapj.chm132229
 f1_keywords:
 - vbapj.chm132229
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.FinishText Property (Project)
+# Task.FinishText property (Project)
 
 Gets or sets a string representation of the task finish date. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.ShapeExitedTextEdit Event (Visio)
+title: DrawingControl.ShapeExitedTextEdit event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.ShapeExitedTextEdit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.ShapeExitedTextEdit Event (Visio)
+# DrawingControl.ShapeExitedTextEdit event (Visio)
 
 Occurs after a shape is no longer open for interactive text editing.
 

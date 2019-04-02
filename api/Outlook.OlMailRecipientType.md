@@ -1,5 +1,5 @@
 ---
-title: OlMailRecipientType Enumeration (Outlook)
+title: OlMailRecipientType enumeration (Outlook)
 keywords: vbaol11.chm3067
 f1_keywords:
 - vbaol11.chm3067
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlMailRecipientType Enumeration (Outlook)
+# OlMailRecipientType enumeration (Outlook)
 
 Indicates the recipient type for the  **Item**.
 

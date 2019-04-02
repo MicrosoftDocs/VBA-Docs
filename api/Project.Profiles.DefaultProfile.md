@@ -1,5 +1,5 @@
 ---
-title: Profiles.DefaultProfile Property (Project)
+title: Profiles.DefaultProfile property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profiles.DefaultProfile
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Profiles.DefaultProfile Property (Project)
+# Profiles.DefaultProfile property (Project)
 
 Gets or sets a  **[Profile](Project.Profile.md)** object that represents the default profile. Read/write **Profile**.
 

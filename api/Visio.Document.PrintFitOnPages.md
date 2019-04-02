@@ -1,5 +1,5 @@
 ---
-title: Document.PrintFitOnPages Property (Visio)
+title: Document.PrintFitOnPages property (Visio)
 keywords: vis_sdr.chm10514115
 f1_keywords:
 - vis_sdr.chm10514115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintFitOnPages Property (Visio)
+# Document.PrintFitOnPages property (Visio)
 
 Indicates whether drawings in a document are printed on a specified number of sheets across and down. Read/write.
 

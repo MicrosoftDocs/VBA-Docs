@@ -1,5 +1,5 @@
 ---
-title: OlEditorType Enumeration (Outlook)
+title: OlEditorType enumeration (Outlook)
 keywords: vbaol11.chm3057
 f1_keywords:
 - vbaol11.chm3057
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlEditorType Enumeration (Outlook)
+# OlEditorType enumeration (Outlook)
 
 Specifies the editor type.
 

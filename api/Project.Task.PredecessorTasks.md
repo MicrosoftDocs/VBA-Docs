@@ -1,5 +1,5 @@
 ---
-title: Task.PredecessorTasks Property (Project)
+title: Task.PredecessorTasks property (Project)
 keywords: vbapj.chm132503
 f1_keywords:
 - vbapj.chm132503
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.PredecessorTasks Property (Project)
+# Task.PredecessorTasks property (Project)
 
 Gets a  **[Tasks](Project.Task.md)** collection representing the predecessors of the task. Read-only **Tasks**.
 

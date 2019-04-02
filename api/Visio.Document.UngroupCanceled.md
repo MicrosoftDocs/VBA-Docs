@@ -1,5 +1,5 @@
 ---
-title: Document.UngroupCanceled Event (Visio)
+title: Document.UngroupCanceled event (Visio)
 keywords: vis_sdr.chm10519375
 f1_keywords:
 - vis_sdr.chm10519375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.UngroupCanceled Event (Visio)
+# Document.UngroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelUngroup** event.
 

@@ -1,5 +1,5 @@
 ---
-title: Path.ObjectType Property (Visio)
+title: Path.ObjectType property (Visio)
 keywords: vis_sdr.chm15413960
 f1_keywords:
 - vis_sdr.chm15413960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Path.ObjectType Property (Visio)
+# Path.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

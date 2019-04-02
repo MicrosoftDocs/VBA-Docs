@@ -1,5 +1,5 @@
 ---
-title: Shape.FillStyle Property (Visio)
+title: Shape.FillStyle property (Visio)
 keywords: vis_sdr.chm11213525
 f1_keywords:
 - vis_sdr.chm11213525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.FillStyle Property (Visio)
+# Shape.FillStyle property (Visio)
 
 Returns or sets the fill style for a shape. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BuiltInMenus Property (Visio)
+title: InvisibleApp.BuiltInMenus property (Visio)
 keywords: vis_sdr.chm17513160
 f1_keywords:
 - vis_sdr.chm17513160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BuiltInMenus Property (Visio)
+# InvisibleApp.BuiltInMenus property (Visio)
 
 Returns a  **UIObject** object that represents a copy of the built-in Microsoft Visio menus and accelerators. Read-only.
 

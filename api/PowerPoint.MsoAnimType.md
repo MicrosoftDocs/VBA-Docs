@@ -1,5 +1,5 @@
 ---
-title: MsoAnimType Enumeration (PowerPoint)
+title: MsoAnimType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimType Enumeration (PowerPoint)
+# MsoAnimType enumeration (PowerPoint)
 
 Specifies the type of animation.
 

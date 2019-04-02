@@ -1,5 +1,5 @@
 ---
-title: Shape.RowType Property (Visio)
+title: Shape.RowType property (Visio)
 keywords: vis_sdr.chm11214270
 f1_keywords:
 - vis_sdr.chm11214270
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.RowType Property (Visio)
+# Shape.RowType property (Visio)
 
 Gets or sets the type of a row in a Geometry, Connection Points, Controls, or Tabs ShapeSheet section. Read/write.
 

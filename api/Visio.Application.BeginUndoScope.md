@@ -1,5 +1,5 @@
 ---
-title: Application.BeginUndoScope Method (Visio)
+title: Application.BeginUndoScope method (Visio)
 keywords: vis_sdr.chm10016085
 f1_keywords:
 - vis_sdr.chm10016085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeginUndoScope Method (Visio)
+# Application.BeginUndoScope method (Visio)
 
 Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
 

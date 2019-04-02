@@ -1,5 +1,5 @@
 ---
-title: Document.ClearGestureFormatSheet Method (Visio)
+title: Document.ClearGestureFormatSheet method (Visio)
 keywords: vis_sdr.chm10516120
 f1_keywords:
 - vis_sdr.chm10516120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ClearGestureFormatSheet Method (Visio)
+# Document.ClearGestureFormatSheet method (Visio)
 
 Clears local formatting in a document's Gesture Format sheet.
 

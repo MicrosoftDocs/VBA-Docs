@@ -1,5 +1,5 @@
 ---
-title: Menu.Index Property (Visio)
+title: Menu.Index property (Visio)
 keywords: vis_sdr.chm13113695
 f1_keywords:
 - vis_sdr.chm13113695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menu.Index Property (Visio)
+# Menu.Index property (Visio)
 
 Gets the ordinal position of a  **Menu** object in a **Menus** collection. Read-only.
 

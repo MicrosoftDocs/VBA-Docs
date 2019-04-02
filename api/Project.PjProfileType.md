@@ -1,5 +1,5 @@
 ---
-title: PjProfileType Enumeration (Project)
+title: PjProfileType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjProfileType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjProfileType Enumeration (Project)
+# PjProfileType enumeration (Project)
 
 Contains constants that specify the type of profile.
 

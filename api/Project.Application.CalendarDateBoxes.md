@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarDateBoxes Method (Project)
+title: Application.CalendarDateBoxes method (Project)
 keywords: vbapj.chm2340
 f1_keywords:
 - vbapj.chm2340
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarDateBoxes Method (Project)
+# Application.CalendarDateBoxes method (Project)
 
 Customizes the top and bottom bands of date boxes in the Calendar view.
 

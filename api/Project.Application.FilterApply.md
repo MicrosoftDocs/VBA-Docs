@@ -1,5 +1,5 @@
 ---
-title: Application.FilterApply Method (Project)
+title: Application.FilterApply method (Project)
 keywords: vbapj.chm502
 f1_keywords:
 - vbapj.chm502
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilterApply Method (Project)
+# Application.FilterApply method (Project)
 
 Sets the current filter.
 

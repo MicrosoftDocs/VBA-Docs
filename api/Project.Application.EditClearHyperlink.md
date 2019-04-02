@@ -1,5 +1,5 @@
 ---
-title: Application.EditClearHyperlink Method (Project)
+title: Application.EditClearHyperlink method (Project)
 keywords: vbapj.chm1316
 f1_keywords:
 - vbapj.chm1316
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EditClearHyperlink Method (Project)
+# Application.EditClearHyperlink method (Project)
 
 Clears the Hyperlink, Hyperlink Address, Hyperlink SubAddress, and HyperlinkHREF fields of the selected assignment, resource, or task.
 

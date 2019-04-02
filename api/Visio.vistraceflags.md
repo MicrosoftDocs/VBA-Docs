@@ -1,5 +1,5 @@
 ---
-title: VisTraceFlags Enumeration (Visio)
+title: VisTraceFlags enumeration (Visio)
 keywords: vis_sdr.chm70220
 f1_keywords:
 - vis_sdr.chm70220
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisTraceFlags Enumeration (Visio)
+# VisTraceFlags enumeration (Visio)
 
 Flags to use with the  **Application.TraceFlags** property.
 

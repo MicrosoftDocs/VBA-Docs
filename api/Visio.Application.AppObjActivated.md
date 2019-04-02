@@ -1,5 +1,5 @@
 ---
-title: Application.AppObjActivated Event (Visio)
+title: Application.AppObjActivated event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.AppObjActivated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AppObjActivated Event (Visio)
+# Application.AppObjActivated event (Visio)
 
 Occurs after a Microsoft Visio instance becomes active.
 

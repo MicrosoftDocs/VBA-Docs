@@ -1,5 +1,5 @@
 ---
-title: Assignment.TaskSummaryName Property (Project)
+title: Assignment.TaskSummaryName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.TaskSummaryName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.TaskSummaryName Property (Project)
+# Assignment.TaskSummaryName property (Project)
 
 Gets the name of the summary task for the task in the assignment. Read-only  **String**.
 

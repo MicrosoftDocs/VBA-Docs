@@ -1,5 +1,5 @@
 ---
-title: VisSelectionTypes Enumeration (Visio)
+title: VisSelectionTypes enumeration (Visio)
 keywords: vis_sdr.chm70370
 f1_keywords:
 - vis_sdr.chm70370
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSelectionTypes Enumeration (Visio)
+# VisSelectionTypes enumeration (Visio)
 
 Selection types to be passed to the  **CreateSelection** method of the **Master**, **Page**, and **Shape** objects.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.Name Property (Visio)
+title: Master.Name property (Visio)
 keywords: vis_sdr.chm10713930
 f1_keywords:
 - vis_sdr.chm10713930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Name Property (Visio)
+# Master.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

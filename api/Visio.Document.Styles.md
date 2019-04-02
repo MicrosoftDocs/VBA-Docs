@@ -1,5 +1,5 @@
 ---
-title: Document.Styles Property (Visio)
+title: Document.Styles property (Visio)
 keywords: vis_sdr.chm10514455
 f1_keywords:
 - vis_sdr.chm10514455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Styles Property (Visio)
+# Document.Styles property (Visio)
 
 Returns the  **Styles** collection for a document. Read-only.
 

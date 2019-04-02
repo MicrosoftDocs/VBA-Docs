@@ -1,5 +1,5 @@
 ---
-title: Cell.Name Property (Visio)
+title: Cell.Name property (Visio)
 keywords: vis_sdr.chm10113930
 f1_keywords:
 - vis_sdr.chm10113930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Name Property (Visio)
+# Cell.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

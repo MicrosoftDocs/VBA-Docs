@@ -1,5 +1,5 @@
 ---
-title: Application.OperatingSystem Property (Project)
+title: Application.OperatingSystem property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.OperatingSystem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OperatingSystem Property (Project)
+# Application.OperatingSystem property (Project)
 
 Gets the name and version of the operating system. Read-only  **String**.
 

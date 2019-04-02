@@ -1,5 +1,5 @@
 ---
-title: PayRate.CostPerUse Property (Project)
+title: PayRate.CostPerUse property (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRate.CostPerUse
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PayRate.CostPerUse Property (Project)
+# PayRate.CostPerUse property (Project)
 
 Gets or sets the cost per use for the pay rate. Read/write  **Variant**.
 

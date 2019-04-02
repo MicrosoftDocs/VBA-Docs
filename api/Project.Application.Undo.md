@@ -1,5 +1,5 @@
 ---
-title: Application.Undo Method (Project)
+title: Application.Undo method (Project)
 keywords: vbapj.chm132718
 f1_keywords:
 - vbapj.chm132718
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Undo Method (Project)
+# Application.Undo method (Project)
 
 Executes an undo action on items in the  **Undo** list.
 

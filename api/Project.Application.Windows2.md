@@ -1,5 +1,5 @@
 ---
-title: Application.Windows2 Property (Project)
+title: Application.Windows2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Windows2
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Windows2 Property (Project)
+# Application.Windows2 property (Project)
 
 Gets a  **[Windows2](Project.windows2(object).md)** collection representing the open windows in the application. Read-only **Windows2**.
 

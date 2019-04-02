@@ -1,5 +1,5 @@
 ---
-title: Project.NewTasksCreatedAsManual Property (Project)
+title: Project.NewTasksCreatedAsManual property (Project)
 keywords: vbapj.chm131108
 f1_keywords:
 - vbapj.chm131108
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.NewTasksCreatedAsManual Property (Project)
+# Project.NewTasksCreatedAsManual property (Project)
 
  **True** if new tasks are created as manually scheduled tasks. **False** if new tasks are automatically scheduled. Read/write **Boolean**.
 

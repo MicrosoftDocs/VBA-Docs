@@ -1,5 +1,5 @@
 ---
-title: PbMailMergeDestination Enumeration (Publisher)
+title: PbMailMergeDestination enumeration (Publisher)
 keywords: vbapb10.chm65597
 f1_keywords:
 - vbapb10.chm65597
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbMailMergeDestination Enumeration (Publisher)
+# PbMailMergeDestination enumeration (Publisher)
 
 The destination of the mail merge or catalog merge results.
 

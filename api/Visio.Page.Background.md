@@ -1,5 +1,5 @@
 ---
-title: Page.Background Property (Visio)
+title: Page.Background property (Visio)
 keywords: vis_sdr.chm10913110
 f1_keywords:
 - vis_sdr.chm10913110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Background Property (Visio)
+# Page.Background property (Visio)
 
 Determines whether a page is a background page. Read/write.
 

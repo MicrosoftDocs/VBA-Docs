@@ -1,5 +1,5 @@
 ---
-title: Pane.Parent Property (Project)
+title: Pane.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Pane.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Pane.Parent Property (Project)
+# Pane.Parent property (Project)
 
 Gets the parent of the  **Pane** object. Read-only **Object**.
 

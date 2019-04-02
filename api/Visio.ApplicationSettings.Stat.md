@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.Stat Property (Visio)
+title: ApplicationSettings.Stat property (Visio)
 keywords: vis_sdr.chm16214420
 f1_keywords:
 - vis_sdr.chm16214420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.Stat Property (Visio)
+# ApplicationSettings.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

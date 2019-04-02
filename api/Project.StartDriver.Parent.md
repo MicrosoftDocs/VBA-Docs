@@ -1,5 +1,5 @@
 ---
-title: StartDriver.Parent Property (Project)
+title: StartDriver.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.Parent Property (Project)
+# StartDriver.Parent property (Project)
 
 Gets the parent of the  **StartDriver** object. Read-only **Task**.
 

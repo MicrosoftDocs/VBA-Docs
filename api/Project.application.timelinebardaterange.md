@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineBarDateRange Method (Project)
+title: Application.TimelineBarDateRange method (Project)
 keywords: vbapj.chm154
 f1_keywords:
 - vbapj.chm154
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimelineBarDateRange Method (Project)
+# Application.TimelineBarDateRange method (Project)
 
 Modifies the start and finish dates for a  **Timeline** bar. Introduced in Office 2016.
 

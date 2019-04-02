@@ -1,5 +1,5 @@
 ---
-title: Availabilities.Parent Property (Project)
+title: Availabilities.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Availabilities.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Availabilities.Parent Property (Project)
+# Availabilities.Parent property (Project)
 
 Gets the parent of the  **Availabilities** object. Read-only **Resource**.
 

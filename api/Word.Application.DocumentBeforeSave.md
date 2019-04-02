@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentBeforeSave Event (Word)
+title: Application.DocumentBeforeSave event (Word)
 keywords: vbawd10.chm400007
 f1_keywords:
 - vbawd10.chm400007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentBeforeSave Event (Word)
+# Application.DocumentBeforeSave event (Word)
 
 Occurs before any open document is saved.
 

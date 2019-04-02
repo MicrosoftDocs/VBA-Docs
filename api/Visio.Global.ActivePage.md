@@ -1,5 +1,5 @@
 ---
-title: Global.ActivePage Property (Visio)
+title: Global.ActivePage property (Visio)
 keywords: vis_sdr.chm12813030
 f1_keywords:
 - vis_sdr.chm12813030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Global.ActivePage Property (Visio)
+# Global.ActivePage property (Visio)
 
 Returns the active  **Page** object. Read-only.
 

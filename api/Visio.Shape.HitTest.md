@@ -1,5 +1,5 @@
 ---
-title: Shape.HitTest Method (Visio)
+title: Shape.HitTest method (Visio)
 keywords: vis_sdr.chm11213645
 f1_keywords:
 - vis_sdr.chm11213645
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.HitTest Method (Visio)
+# Shape.HitTest method (Visio)
 
 Determines if a given  _x,y_ position hits outside, inside, or on the boundary of a shape.
 

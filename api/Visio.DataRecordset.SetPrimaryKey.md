@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.SetPrimaryKey Method (Visio)
+title: DataRecordset.SetPrimaryKey method (Visio)
 keywords: vis_sdr.chm16460295
 f1_keywords:
 - vis_sdr.chm16460295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.SetPrimaryKey Method (Visio)
+# DataRecordset.SetPrimaryKey method (Visio)
 
 Sets the primary key setting value and the name of the primary key column or columns for the data recordset.
 

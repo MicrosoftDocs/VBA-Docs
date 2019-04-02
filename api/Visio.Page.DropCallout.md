@@ -1,5 +1,5 @@
 ---
-title: Page.DropCallout Method (Visio)
+title: Page.DropCallout method (Visio)
 keywords: vis_sdr.chm10962160
 f1_keywords:
 - vis_sdr.chm10962160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.DropCallout Method (Visio)
+# Page.DropCallout method (Visio)
 
 Creates a new callout  **[Shape](Visio.Shape.md)** object on the page near the specified target shape, and associates the callout with the target shape. Returns the callout shape.
 

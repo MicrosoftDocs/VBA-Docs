@@ -1,5 +1,5 @@
 ---
-title: Shapes.ItemU Property (Visio)
+title: Shapes.ItemU property (Visio)
 keywords: vis_sdr.chm11351980
 f1_keywords:
 - vis_sdr.chm11351980
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.ItemU Property (Visio)
+# Shapes.ItemU property (Visio)
 
 Returns an object from a collection. Read-only.
 

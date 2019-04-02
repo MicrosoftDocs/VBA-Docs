@@ -1,5 +1,5 @@
 ---
-title: Shape.RootShape Property (Visio)
+title: Shape.RootShape property (Visio)
 keywords: vis_sdr.chm11250825
 f1_keywords:
 - vis_sdr.chm11250825
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.RootShape Property (Visio)
+# Shape.RootShape property (Visio)
 
 Returns the top-level shape of an instance if this shape is part of a master instance. Read-only.
 

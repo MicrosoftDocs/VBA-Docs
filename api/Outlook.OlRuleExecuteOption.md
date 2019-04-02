@@ -1,5 +1,5 @@
 ---
-title: OlRuleExecuteOption Enumeration (Outlook)
+title: OlRuleExecuteOption enumeration (Outlook)
 keywords: vbaol11.chm3114
 f1_keywords:
 - vbaol11.chm3114
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlRuleExecuteOption Enumeration (Outlook)
+# OlRuleExecuteOption enumeration (Outlook)
 
 Specifies the type of messages in the specified folder or folders that a rule should be applied to.
 

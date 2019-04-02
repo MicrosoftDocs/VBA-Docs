@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivate Event (Word)
+title: Application.WindowActivate event (Word)
 keywords: vbawd10.chm400009
 f1_keywords:
 - vbawd10.chm400009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowActivate Event (Word)
+# Application.WindowActivate event (Word)
 
 Occurs when any document window is activated.
 

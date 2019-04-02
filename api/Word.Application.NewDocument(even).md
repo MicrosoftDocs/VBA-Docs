@@ -1,5 +1,5 @@
 ---
-title: Application.NewDocument Event (Word)
+title: Application.NewDocument event (Word)
 keywords: vbawd10.chm400008
 f1_keywords:
 - vbawd10.chm400008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.NewDocument Event (Word)
+# Application.NewDocument event (Word)
 
 Occurs when a new document is created.
 

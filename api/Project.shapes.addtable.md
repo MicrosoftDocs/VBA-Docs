@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTable Method (Project)
+title: Shapes.AddTable method (Project)
 ms.prod: project-server
 ms.assetid: d4f9942b-ebd5-20e6-c8d4-f7107d1e1eab
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddTable Method (Project)
+# Shapes.AddTable method (Project)
 Adds a table to the report, and returns a  **Shape** object that represents the table.
 
 ## Syntax

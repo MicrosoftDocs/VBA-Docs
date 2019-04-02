@@ -1,5 +1,5 @@
 ---
-title: Shape.GeometryCount Property (Visio)
+title: Shape.GeometryCount property (Visio)
 keywords: vis_sdr.chm11213600
 f1_keywords:
 - vis_sdr.chm11213600
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.GeometryCount Property (Visio)
+# Shape.GeometryCount property (Visio)
 
 Returns the number of Geometry sections for a shape. Read-only.
 

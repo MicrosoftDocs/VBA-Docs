@@ -1,5 +1,5 @@
 ---
-title: Application.LinksBetweenProjects Method (Project)
+title: Application.LinksBetweenProjects method (Project)
 keywords: vbapj.chm245
 f1_keywords:
 - vbapj.chm245
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LinksBetweenProjects Method (Project)
+# Application.LinksBetweenProjects method (Project)
 
 Specifies whether the  **Links between Projects** dialog box appears when opening a project containing cross-project links.
 

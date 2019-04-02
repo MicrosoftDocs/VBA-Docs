@@ -1,5 +1,5 @@
 ---
-title: Project.UseFYStartYear Property (Project)
+title: Project.UseFYStartYear property (Project)
 keywords: vbapj.chm132780
 f1_keywords:
 - vbapj.chm132780
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.UseFYStartYear Property (Project)
+# Project.UseFYStartYear property (Project)
 
  **True** if a fiscal year is determined by the year of the first month of that fiscal year. **False** if determined by the last month of the fiscal year. Read/write **Boolean**.
 

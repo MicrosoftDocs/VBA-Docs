@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.Level Property (Project)
+title: LookupTableEntry.Level property (Project)
 keywords: vbapj.chm132394
 f1_keywords:
 - vbapj.chm132394
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry.Level Property (Project)
+# LookupTableEntry.Level property (Project)
 
 Gets or sets the specific level of the lookup table entry. Can be an integer value between 1 and 255. Read/write  **Long**.
 

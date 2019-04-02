@@ -1,5 +1,5 @@
 ---
-title: VisVerticalAlignTypes Enumeration (Visio)
+title: VisVerticalAlignTypes enumeration (Visio)
 keywords: vis_sdr.chm70385
 f1_keywords:
 - vis_sdr.chm70385
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisVerticalAlignTypes Enumeration (Visio)
+# VisVerticalAlignTypes enumeration (Visio)
 
 Vertical alignment type values to pass to the  **Selection.Align** method.
 

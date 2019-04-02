@@ -1,5 +1,5 @@
 ---
-title: Project.ReadWssData Method (Project)
+title: Project.ReadWssData method (Project)
 keywords: vbapj.chm132840
 f1_keywords:
 - vbapj.chm132840
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ReadWssData Method (Project)
+# Project.ReadWssData method (Project)
 
 Returns the Project Workspace URLs for the active enterprise project as an XML string.
 

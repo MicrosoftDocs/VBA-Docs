@@ -1,5 +1,5 @@
 ---
-title: Selection.DeselectAll Method (Visio)
+title: Selection.DeselectAll method (Visio)
 keywords: vis_sdr.chm11116180
 f1_keywords:
 - vis_sdr.chm11116180
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.DeselectAll Method (Visio)
+# Selection.DeselectAll method (Visio)
 
 Deselects all shapes in a window or selection.
 

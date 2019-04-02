@@ -1,5 +1,5 @@
 ---
-title: Addons Object (Visio)
+title: Addons object (Visio)
 keywords: vis_sdr.chm10035
 f1_keywords:
 - vis_sdr.chm10035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Addons Object (Visio)
+# Addons object (Visio)
 
 Represents the set of installed add-ons known to an  **Application** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesFormatEx Method (Project)
+title: Application.DetailStylesFormatEx method (Project)
 keywords: vbapj.chm2164
 f1_keywords:
 - vbapj.chm2164
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DetailStylesFormatEx Method (Project)
+# Application.DetailStylesFormatEx method (Project)
 
 Sets the format of timescaled data fields in a Resource Usage view or Task Usage view, where colors can be hexadecimal values.
 

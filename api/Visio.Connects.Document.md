@@ -1,5 +1,5 @@
 ---
-title: Connects.Document Property (Visio)
+title: Connects.Document property (Visio)
 keywords: vis_sdr.chm10413430
 f1_keywords:
 - vis_sdr.chm10413430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Connects.Document Property (Visio)
+# Connects.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

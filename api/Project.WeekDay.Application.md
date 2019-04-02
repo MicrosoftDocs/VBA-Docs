@@ -1,5 +1,5 @@
 ---
-title: WeekDay.Application Property (Project)
+title: WeekDay.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.WeekDay.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WeekDay.Application Property (Project)
+# WeekDay.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

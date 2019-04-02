@@ -1,5 +1,5 @@
 ---
-title: Application.TypelibMinorVersion Property (Visio)
+title: Application.TypelibMinorVersion property (Visio)
 keywords: vis_sdr.chm10014700
 f1_keywords:
 - vis_sdr.chm10014700
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TypelibMinorVersion Property (Visio)
+# Application.TypelibMinorVersion property (Visio)
 
 Returns the minor version number of the Microsoft Visio type library. Read-only.
 

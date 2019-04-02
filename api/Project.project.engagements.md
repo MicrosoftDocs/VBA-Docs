@@ -1,5 +1,5 @@
 ---
-title: Project.Engagements Property (Project)
+title: Project.Engagements property (Project)
 keywords: vbapj.chm131808
 f1_keywords:
 - vbapj.chm131808
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Project.Engagements Property (Project)
+# Project.Engagements property (Project)
 
 Returns the root object for all Engagement properties. Introduced in Office 2016.
 

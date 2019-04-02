@@ -1,5 +1,5 @@
 ---
-title: Task.LateStart Property (Project)
+title: Task.LateStart property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.LateStart
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.LateStart Property (Project)
+# Task.LateStart property (Project)
 
 Gets the latest date on which a task can start. Read-only  **Variant**.
 

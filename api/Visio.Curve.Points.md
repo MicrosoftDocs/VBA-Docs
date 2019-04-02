@@ -1,5 +1,5 @@
 ---
-title: Curve.Points Method (Visio)
+title: Curve.Points method (Visio)
 keywords: vis_sdr.chm15514090
 f1_keywords:
 - vis_sdr.chm15514090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Curve.Points Method (Visio)
+# Curve.Points method (Visio)
 
 Returns an array of points that defines a polyline that approximates a  **Path** or **Curve** object within a given tolerance.
 

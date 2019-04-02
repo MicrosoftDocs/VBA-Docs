@@ -1,5 +1,5 @@
 ---
-title: Task.PreleveledFinish Property (Project)
+title: Task.PreleveledFinish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.PreleveledFinish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.PreleveledFinish Property (Project)
+# Task.PreleveledFinish property (Project)
 
 Gets the finish date of a task before leveling occurred. Read-only  **Variant**.
 

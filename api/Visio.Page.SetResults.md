@@ -1,5 +1,5 @@
 ---
-title: Page.SetResults Method (Visio)
+title: Page.SetResults method (Visio)
 keywords: vis_sdr.chm10916580
 f1_keywords:
 - vis_sdr.chm10916580
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.SetResults Method (Visio)
+# Page.SetResults method (Visio)
 
 Sets the results or formulas of one or more cells.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.Trim Method (Visio)
+title: Selection.Trim method (Visio)
 keywords: vis_sdr.chm11116615
 f1_keywords:
 - vis_sdr.chm11116615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Trim Method (Visio)
+# Selection.Trim method (Visio)
 
 Trims selected shapes into smaller shapes.
 

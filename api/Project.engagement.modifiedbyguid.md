@@ -1,5 +1,5 @@
 ---
-title: Engagement.ModifiedByGuid Property (Project)
+title: Engagement.ModifiedByGuid property (Project)
 keywords: vbapj.chm132411
 f1_keywords:
 - vbapj.chm132411
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.ModifiedByGuid Property (Project)
+# Engagement.ModifiedByGuid property (Project)
 
 The ModifiedByGuid property for the Engagement object. Introduced in Office 2016.
 
@@ -25,6 +25,6 @@ _expression_. `ModifiedByGuid`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

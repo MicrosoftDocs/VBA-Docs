@@ -1,5 +1,5 @@
 ---
-title: Master.Type Property (Visio)
+title: Master.Type property (Visio)
 keywords: vis_sdr.chm10751495
 f1_keywords:
 - vis_sdr.chm10751495
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Type Property (Visio)
+# Master.Type property (Visio)
 
 Returns the type of the  **Master** object. Read-only.
 

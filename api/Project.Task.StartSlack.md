@@ -1,5 +1,5 @@
 ---
-title: Task.StartSlack Property (Project)
+title: Task.StartSlack property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.StartSlack
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.StartSlack Property (Project)
+# Task.StartSlack property (Project)
 
 Gets the starting slack time of a task in minutes. Read-only  **Variant**.
 

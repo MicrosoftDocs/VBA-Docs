@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldMappingDialog Method (Project)
+title: Application.CustomFieldMappingDialog method (Project)
 keywords: vbapj.chm2256
 f1_keywords:
 - vbapj.chm2256
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldMappingDialog Method (Project)
+# Application.CustomFieldMappingDialog method (Project)
 
 Returns  **True** if custom task fields can be imported by using a mapping dialog.
 

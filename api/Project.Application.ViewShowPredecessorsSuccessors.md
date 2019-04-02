@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowPredecessorsSuccessors Method (Project)
+title: Application.ViewShowPredecessorsSuccessors method (Project)
 keywords: vbapj.chm917
 f1_keywords:
 - vbapj.chm917
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowPredecessorsSuccessors Method (Project)
+# Application.ViewShowPredecessorsSuccessors method (Project)
 
 Displays information about predecessor and successor tasks in the active task details view.
 

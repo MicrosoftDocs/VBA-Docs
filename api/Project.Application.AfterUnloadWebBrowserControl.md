@@ -1,5 +1,5 @@
 ---
-title: Application.AfterUnloadWebBrowserControl Method (Project)
+title: Application.AfterUnloadWebBrowserControl method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.AfterUnloadWebBrowserControl
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterUnloadWebBrowserControl Method (Project)
+# Application.AfterUnloadWebBrowserControl method (Project)
 
 Occurs after Project unloads a web page.
 

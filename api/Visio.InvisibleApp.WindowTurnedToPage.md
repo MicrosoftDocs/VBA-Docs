@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.WindowTurnedToPage Event (Visio)
+title: InvisibleApp.WindowTurnedToPage event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowTurnedToPage
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.WindowTurnedToPage Event (Visio)
+# InvisibleApp.WindowTurnedToPage event (Visio)
 
 Occurs after a window shows a different page.
 

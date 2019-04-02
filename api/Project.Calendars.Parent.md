@@ -1,5 +1,5 @@
 ---
-title: Calendars.Parent Property (Project)
+title: Calendars.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendars.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Calendars.Parent Property (Project)
+# Calendars.Parent property (Project)
 
 Gets the parent of the  **Calendars** object. Read-only **Project**.
 

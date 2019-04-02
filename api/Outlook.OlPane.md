@@ -1,5 +1,5 @@
 ---
-title: OlPane Enumeration (Outlook)
+title: OlPane enumeration (Outlook)
 keywords: vbaol11.chm3075
 f1_keywords:
 - vbaol11.chm3075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlPane Enumeration (Outlook)
+# OlPane enumeration (Outlook)
 
 Specifies the pane (window).
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Name Property (Project)
+title: Resource.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Name Property (Project)
+# Resource.Name property (Project)
 
 Gets the name of a  **Resource** object. Read/write **String**.
 

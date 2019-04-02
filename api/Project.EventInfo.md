@@ -1,5 +1,5 @@
 ---
-title: EventInfo Object (Project)
+title: EventInfo object (Project)
 keywords: vbapj.chm131286
 f1_keywords:
 - vbapj.chm131286
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EventInfo Object (Project)
+# EventInfo object (Project)
 
 Represents cancellation information for an event.
  

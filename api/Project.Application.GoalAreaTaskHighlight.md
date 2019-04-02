@@ -1,5 +1,5 @@
 ---
-title: Application.GoalAreaTaskHighlight Method (Project)
+title: Application.GoalAreaTaskHighlight method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.GoalAreaTaskHighlight
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GoalAreaTaskHighlight Method (Project)
+# Application.GoalAreaTaskHighlight method (Project)
 
 Highlights a specified task in the Project Guide. Deprecated in Project.
 

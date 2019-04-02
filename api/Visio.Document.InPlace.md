@@ -1,5 +1,5 @@
 ---
-title: Document.InPlace Property (Visio)
+title: Document.InPlace property (Visio)
 keywords: vis_sdr.chm10513705
 f1_keywords:
 - vis_sdr.chm10513705
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.InPlace Property (Visio)
+# Document.InPlace property (Visio)
 
 Specifies whether a document is open in place, or whether a document is being viewed through a window that is open in place. Read-only.
 

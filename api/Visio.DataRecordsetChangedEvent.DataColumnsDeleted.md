@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.DataColumnsDeleted Property (Visio)
+title: DataRecordsetChangedEvent.DataColumnsDeleted property (Visio)
 keywords: vis_sdr.chm17260470
 f1_keywords:
 - vis_sdr.chm17260470
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.DataColumnsDeleted Property (Visio)
+# DataRecordsetChangedEvent.DataColumnsDeleted property (Visio)
 
 After data in a data recordset are refreshed, returns an array of names of data columns deleted from the data recordset as a result of the refresh operation. Read-only.
 

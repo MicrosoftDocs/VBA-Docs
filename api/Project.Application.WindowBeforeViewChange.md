@@ -1,5 +1,5 @@
 ---
-title: Application.WindowBeforeViewChange Event (Project)
+title: Application.WindowBeforeViewChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowBeforeViewChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowBeforeViewChange Event (Project)
+# Application.WindowBeforeViewChange event (Project)
 
 Occurs when the top pane view is changed within a window in Project.
 

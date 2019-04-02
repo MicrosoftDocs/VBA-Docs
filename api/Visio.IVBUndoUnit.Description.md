@@ -1,5 +1,5 @@
 ---
-title: IVBUndoUnit.Description Property (Visio)
+title: IVBUndoUnit.Description property (Visio)
 keywords: vis_sdr.chm17313405
 f1_keywords:
 - vis_sdr.chm17313405
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IVBUndoUnit.Description Property (Visio)
+# IVBUndoUnit.Description property (Visio)
 
 Gets the description of an  **IVBUndoUnit** interface. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SplitPart.Finish Property (Project)
+title: SplitPart.Finish property (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitPart.Finish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitPart.Finish Property (Project)
+# SplitPart.Finish property (Project)
 
 Gets or sets the finish date of the part of a split task represented by the  **SplitPart** object. Read/write **Variant**.
 

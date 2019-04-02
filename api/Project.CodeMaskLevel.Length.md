@@ -1,5 +1,5 @@
 ---
-title: CodeMaskLevel.Length Property (Project)
+title: CodeMaskLevel.Length property (Project)
 keywords: vbapj.chm131651
 f1_keywords:
 - vbapj.chm131651
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CodeMaskLevel.Length Property (Project)
+# CodeMaskLevel.Length property (Project)
 
 Specifies the length for a given level in the code mask. Can be the string "Any" or an integer value between 1 and 255. Read/write  **Variant**.
 

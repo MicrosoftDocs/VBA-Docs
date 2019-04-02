@@ -1,5 +1,5 @@
 ---
-title: Application.ConnectorToolDataObject Property (Visio)
+title: Application.ConnectorToolDataObject property (Visio)
 keywords: vis_sdr.chm10051835
 f1_keywords:
 - vis_sdr.chm10051835
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ConnectorToolDataObject Property (Visio)
+# Application.ConnectorToolDataObject property (Visio)
 
 Returns an  **IDataObject** interface representing the active **Connector** tool used in the Microsoft Visio user interface. Read-only.
 

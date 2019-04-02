@@ -1,5 +1,5 @@
 ---
-title: WorkWeek.Finish Property (Project)
+title: WorkWeek.Finish property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeek.Finish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeek.Finish Property (Project)
+# WorkWeek.Finish property (Project)
 
 Gets or sets the finish date of a work week represented by the **WorkWeek** object. Read/write **Variant**.
 

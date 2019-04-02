@@ -1,5 +1,5 @@
 ---
-title: ValidationIssue.Rule Property (Visio)
+title: ValidationIssue.Rule property (Visio)
 keywords: vis_sdr.chm18662645
 f1_keywords:
 - vis_sdr.chm18662645
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssue.Rule Property (Visio)
+# ValidationIssue.Rule property (Visio)
 
 Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that generated the validation issue. Read-only.
 

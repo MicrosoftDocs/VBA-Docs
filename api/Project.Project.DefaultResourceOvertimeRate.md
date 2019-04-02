@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultResourceOvertimeRate Property (Project)
+title: Project.DefaultResourceOvertimeRate property (Project)
 keywords: vbapj.chm131731
 f1_keywords:
 - vbapj.chm131731
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultResourceOvertimeRate Property (Project)
+# Project.DefaultResourceOvertimeRate property (Project)
 
 Gets or sets the default overtime rate of pay for resources. Read/write  **Variant**.
 

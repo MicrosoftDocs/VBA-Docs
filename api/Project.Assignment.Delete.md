@@ -1,5 +1,5 @@
 ---
-title: Assignment.Delete Method (Project)
+title: Assignment.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Delete Method (Project)
+# Assignment.Delete method (Project)
 
 Deletes the  **Assignment** object from an **Assignments** collection.
 

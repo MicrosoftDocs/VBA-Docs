@@ -1,5 +1,5 @@
 ---
-title: Assignments.Application Property (Project)
+title: Assignments.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignments.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignments.Application Property (Project)
+# Assignments.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

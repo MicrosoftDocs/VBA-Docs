@@ -1,5 +1,5 @@
 ---
-title: UIObject.MenuAnimationStyle Property (Visio)
+title: UIObject.MenuAnimationStyle property (Visio)
 keywords: vis_sdr.chm14913900
 f1_keywords:
 - vis_sdr.chm14913900
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UIObject.MenuAnimationStyle Property (Visio)
+# UIObject.MenuAnimationStyle property (Visio)
 
 Gets or sets the way in which a menu is displayed. Read/write.
 

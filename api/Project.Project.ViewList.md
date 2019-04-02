@@ -1,5 +1,5 @@
 ---
-title: Project.ViewList Property (Project)
+title: Project.ViewList property (Project)
 keywords: vbapj.chm132796
 f1_keywords:
 - vbapj.chm132796
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ViewList Property (Project)
+# Project.ViewList property (Project)
 
 Gets the  **[List](Project.List.md)** object for the project. Read-only **List**.
 

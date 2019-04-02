@@ -1,5 +1,5 @@
 ---
-title: Assignment.TimeScaleData Method (Project)
+title: Assignment.TimeScaleData method (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.TimeScaleData
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.TimeScaleData Method (Project)
+# Assignment.TimeScaleData method (Project)
 
 Sets options for displaying timephased data.
 

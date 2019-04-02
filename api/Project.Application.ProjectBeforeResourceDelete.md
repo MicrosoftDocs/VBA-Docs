@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeResourceDelete Event (Project)
+title: Application.ProjectBeforeResourceDelete event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeResourceDelete Event (Project)
+# Application.ProjectBeforeResourceDelete event (Project)
 
 Occurs before a resource is deleted.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.GetRedoListCount Method (Project)
+title: Application.GetRedoListCount method (Project)
 keywords: vbapj.chm131093
 f1_keywords:
 - vbapj.chm131093
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GetRedoListCount Method (Project)
+# Application.GetRedoListCount method (Project)
 
  Returns the number of items in the redo list.
 

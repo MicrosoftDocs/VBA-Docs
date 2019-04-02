@@ -1,5 +1,5 @@
 ---
-title: Page.InsertFromFile Method (Visio)
+title: Page.InsertFromFile method (Visio)
 keywords: vis_sdr.chm10916365
 f1_keywords:
 - vis_sdr.chm10916365
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.InsertFromFile Method (Visio)
+# Page.InsertFromFile method (Visio)
 
 Adds a linked or embedded object to a page, master, or group.
 

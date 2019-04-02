@@ -1,5 +1,5 @@
 ---
-title: VisSavePreviewMode Enumeration (Visio)
+title: VisSavePreviewMode enumeration (Visio)
 keywords: vis_sdr.chm70345
 f1_keywords:
 - vis_sdr.chm70345
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSavePreviewMode Enumeration (Visio)
+# VisSavePreviewMode enumeration (Visio)
 
 Values passed to and returned by the  **Document.SavePreviewMode** property.
 

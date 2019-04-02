@@ -1,5 +1,5 @@
 ---
-title: Task.TimeScaleData Method (Project)
+title: Task.TimeScaleData method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.TimeScaleData
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.TimeScaleData Method (Project)
+# Task.TimeScaleData method (Project)
 
 Sets options for displaying timephased data for the task.
 

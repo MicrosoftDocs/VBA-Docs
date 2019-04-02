@@ -1,5 +1,5 @@
 ---
-title: Shape.RemoveFromContainers Method (Visio)
+title: Shape.RemoveFromContainers method (Visio)
 keywords: vis_sdr.chm11262220
 f1_keywords:
 - vis_sdr.chm11262220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.RemoveFromContainers Method (Visio)
+# Shape.RemoveFromContainers method (Visio)
 
 Removes the shape from all lists and containers of which it is a member.
 

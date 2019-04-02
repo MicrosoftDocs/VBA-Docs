@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.DrawingBackgroundColorGradient Property (Visio)
+title: ApplicationSettings.DrawingBackgroundColorGradient property (Visio)
 keywords: vis_sdr.chm16251805
 f1_keywords:
 - vis_sdr.chm16251805
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.DrawingBackgroundColorGradient Property (Visio)
+# ApplicationSettings.DrawingBackgroundColorGradient property (Visio)
 
 Determines the background gradient color of the Microsoft Visio drawing window for the current session. Read/write. 
 

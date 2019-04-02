@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineFormat Method (Project)
+title: Application.TimelineFormat method (Project)
 keywords: vbapj.chm64
 f1_keywords:
 - vbapj.chm64
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimelineFormat Method (Project)
+# Application.TimelineFormat method (Project)
 
 Formats the  **Timeline** view to specify the number of text lines in timeline tasks and whether to show or hide details.
 

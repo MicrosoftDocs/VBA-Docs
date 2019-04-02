@@ -1,5 +1,5 @@
 ---
-title: OutlineCodes.Item Property (Project)
+title: OutlineCodes.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCodes.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCodes.Item Property (Project)
+# OutlineCodes.Item property (Project)
 
 Gets a single  **OutlineCode** object from the **OutlineCodes** collection. Read-only **OutlineCode**.
 

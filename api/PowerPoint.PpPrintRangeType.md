@@ -1,5 +1,5 @@
 ---
-title: PpPrintRangeType Enumeration (PowerPoint)
+title: PpPrintRangeType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpPrintRangeType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpPrintRangeType Enumeration (PowerPoint)
+# PpPrintRangeType enumeration (PowerPoint)
 
 Specifies the type of print range for the presentation.
 

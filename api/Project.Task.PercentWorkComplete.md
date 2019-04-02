@@ -1,5 +1,5 @@
 ---
-title: Task.PercentWorkComplete Property (Project)
+title: Task.PercentWorkComplete property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.PercentWorkComplete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.PercentWorkComplete Property (Project)
+# Task.PercentWorkComplete property (Project)
 
 Gets or sets the percentage of work complete for a task. Read-only for summary tasks. Read/write  **Variant**.
 

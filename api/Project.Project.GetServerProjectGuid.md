@@ -1,5 +1,5 @@
 ---
-title: Project.GetServerProjectGuid Method (Project)
+title: Project.GetServerProjectGuid method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.GetServerProjectGuid
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.GetServerProjectGuid Method (Project)
+# Project.GetServerProjectGuid method (Project)
 
 Returns the GUID for the enterprise project.
 

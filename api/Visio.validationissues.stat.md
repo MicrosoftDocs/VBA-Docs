@@ -1,5 +1,5 @@
 ---
-title: ValidationIssues.Stat Property (Visio)
+title: ValidationIssues.Stat property (Visio)
 keywords: vis_sdr.chm18514420
 f1_keywords:
 - vis_sdr.chm18514420
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssues.Stat Property (Visio)
+# ValidationIssues.Stat property (Visio)
 
 ## Syntax
 

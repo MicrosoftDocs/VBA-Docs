@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.DataGraphic Property (Visio)
+title: GraphicItem.DataGraphic property (Visio)
 keywords: vis_sdr.chm16960415
 f1_keywords:
 - vis_sdr.chm16960415
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.DataGraphic Property (Visio)
+# GraphicItem.DataGraphic property (Visio)
 
 Returns the  **Master** object of type **visTypeDataGraphic** that contains the graphic item. Read-only.
 

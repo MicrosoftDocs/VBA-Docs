@@ -1,5 +1,5 @@
 ---
-title: Group2.MaintainHierarchy Property (Project)
+title: Group2.MaintainHierarchy property (Project)
 keywords: vbapj.chm132400
 f1_keywords:
 - vbapj.chm132400
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Group2.MaintainHierarchy Property (Project)
+# Group2.MaintainHierarchy property (Project)
 
 Gets or sets a value that specifies whether hierarchy is maintained in the group view. Read/write  **Boolean**.
 

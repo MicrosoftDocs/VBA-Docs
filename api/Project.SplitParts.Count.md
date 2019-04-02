@@ -1,5 +1,5 @@
 ---
-title: SplitParts.Count Property (Project)
+title: SplitParts.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitParts.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitParts.Count Property (Project)
+# SplitParts.Count property (Project)
 
 Gets the number of items in the  **SplitParts** collection. Read-only **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.RightAngleAxes Property (Project)
+title: Chart.RightAngleAxes property (Project)
 ms.prod: project-server
 ms.assetid: 51e8cde1-53c7-90ff-b5c7-72a091461f6b
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.RightAngleAxes Property (Project)
+# Chart.RightAngleAxes property (Project)
  **True** if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3-D line, 3-D column, and 3-D bar charts. Read/write **Boolean**.
 
 ## Syntax

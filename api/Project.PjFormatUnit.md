@@ -1,5 +1,5 @@
 ---
-title: PjFormatUnit Enumeration (Project)
+title: PjFormatUnit enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjFormatUnit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjFormatUnit Enumeration (Project)
+# PjFormatUnit enumeration (Project)
 
 Contains constants that specify the format of the units.
 

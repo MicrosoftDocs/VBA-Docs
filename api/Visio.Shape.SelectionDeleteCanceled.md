@@ -1,5 +1,5 @@
 ---
-title: Shape.SelectionDeleteCanceled Event (Visio)
+title: Shape.SelectionDeleteCanceled event (Visio)
 keywords: vis_sdr.chm11219365
 f1_keywords:
 - vis_sdr.chm11219365
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SelectionDeleteCanceled Event (Visio)
+# Shape.SelectionDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelSelectionDelete** event.
 

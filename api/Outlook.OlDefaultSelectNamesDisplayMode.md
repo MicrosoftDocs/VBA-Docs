@@ -1,5 +1,5 @@
 ---
-title: OlDefaultSelectNamesDisplayMode Enumeration (Outlook)
+title: OlDefaultSelectNamesDisplayMode enumeration (Outlook)
 keywords: vbaol11.chm3107
 f1_keywords:
 - vbaol11.chm3107
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlDefaultSelectNamesDisplayMode Enumeration (Outlook)
+# OlDefaultSelectNamesDisplayMode enumeration (Outlook)
 
 Specifies the default caption, the number of buttons, the button labels, and the address lists to display in the  **Select Names** dialog box without requiring a resource file for any localized caption and labels.
 

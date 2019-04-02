@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeShapeTextEdit Event (Visio)
+title: InvisibleApp.BeforeShapeTextEdit event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeShapeTextEdit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeShapeTextEdit Event (Visio)
+# InvisibleApp.BeforeShapeTextEdit event (Visio)
 
 Occurs before a shape is opened for text editing in the user interface.
 

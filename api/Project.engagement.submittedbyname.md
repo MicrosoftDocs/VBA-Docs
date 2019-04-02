@@ -1,5 +1,5 @@
 ---
-title: Engagement.SubmittedByName Property (Project)
+title: Engagement.SubmittedByName property (Project)
 keywords: vbapj.chm132670
 f1_keywords:
 - vbapj.chm132670
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.SubmittedByName Property (Project)
+# Engagement.SubmittedByName property (Project)
 
 The SubmittedByName property for the Engagement object. Introduced in Office 2016.
 
@@ -25,6 +25,6 @@ _expression_. `SubmittedByName`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

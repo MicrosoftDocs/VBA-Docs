@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SnapStrengthGridX Property (Visio)
+title: ApplicationSettings.SnapStrengthGridX property (Visio)
 keywords: vis_sdr.chm16251575
 f1_keywords:
 - vis_sdr.chm16251575
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SnapStrengthGridX Property (Visio)
+# ApplicationSettings.SnapStrengthGridX property (Visio)
 
 Specifies the distance in pixels along the x-axis that gridlines pull when snapping is enabled. Read/write.
 

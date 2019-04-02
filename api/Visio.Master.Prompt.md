@@ -1,5 +1,5 @@
 ---
-title: Master.Prompt Property (Visio)
+title: Master.Prompt property (Visio)
 keywords: vis_sdr.chm10714165
 f1_keywords:
 - vis_sdr.chm10714165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Prompt Property (Visio)
+# Master.Prompt property (Visio)
 
 Gets or sets the prompt string for a master or master shortcut. Read/write.
 

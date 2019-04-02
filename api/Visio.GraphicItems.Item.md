@@ -1,5 +1,5 @@
 ---
-title: GraphicItems.Item Property (Visio)
+title: GraphicItems.Item property (Visio)
 keywords: vis_sdr.chm16813765
 f1_keywords:
 - vis_sdr.chm16813765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItems.Item Property (Visio)
+# GraphicItems.Item property (Visio)
 
 Returns the  **GraphicItem** object at the specified index position in the **GraphicItems** collection. Read-only.
 

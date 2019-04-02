@@ -1,5 +1,5 @@
 ---
-title: OlBusyStatus Enumeration (Outlook)
+title: OlBusyStatus enumeration (Outlook)
 keywords: vbaol11.chm3053
 f1_keywords:
 - vbaol11.chm3053
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlBusyStatus Enumeration (Outlook)
+# OlBusyStatus enumeration (Outlook)
 
 Indicates a user's availability.
 

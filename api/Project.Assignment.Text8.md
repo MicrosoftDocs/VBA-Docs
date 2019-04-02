@@ -1,5 +1,5 @@
 ---
-title: Assignment.Text8 Property (Project)
+title: Assignment.Text8 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Text8
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Text8 Property (Project)
+# Assignment.Text8 property (Project)
 
 Gets or sets the value of a local Text custom field for the assignment. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DefaultZoomBehavior Property (Visio)
+title: InvisibleApp.DefaultZoomBehavior property (Visio)
 keywords: vis_sdr.chm17552070
 f1_keywords:
 - vis_sdr.chm17552070
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DefaultZoomBehavior Property (Visio)
+# InvisibleApp.DefaultZoomBehavior property (Visio)
 
 Determines the zoom behavior for all new Microsoft Visio documents and drawing windows. Read/write.
 

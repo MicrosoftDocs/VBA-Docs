@@ -1,5 +1,5 @@
 ---
-title: PjShape Enumeration (Project)
+title: PjShape enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjShape
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjShape Enumeration (Project)
+# PjShape enumeration (Project)
 
 Contains constants that specify the type of drawing.
 

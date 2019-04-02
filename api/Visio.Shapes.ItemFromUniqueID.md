@@ -1,5 +1,5 @@
 ---
-title: Shapes.ItemFromUniqueID Property (Visio)
+title: Shapes.ItemFromUniqueID property (Visio)
 keywords: vis_sdr.chm11362485
 f1_keywords:
 - vis_sdr.chm11362485
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.ItemFromUniqueID Property (Visio)
+# Shapes.ItemFromUniqueID property (Visio)
 
 Returns the  **[Shape](Visio.Shape.md)** object that matches the specified **[UniqueID](Visio.Shape.UniqueID.md)** property value. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.SelectedDataRecordset Property (Visio)
+title: Window.SelectedDataRecordset property (Visio)
 keywords: vis_sdr.chm11660245
 f1_keywords:
 - vis_sdr.chm11660245
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.SelectedDataRecordset Property (Visio)
+# Window.SelectedDataRecordset property (Visio)
 
 Gets or sets the data recordset that is displayed on the active tab of the  **External Data Window** in the Microsoft Visio user interface (UI). Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultTaskType Property (Project)
+title: Project.DefaultTaskType property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DefaultTaskType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultTaskType Property (Project)
+# Project.DefaultTaskType property (Project)
 
 Gets or sets the default task type. Read/write  **PjTaskFixedType**.
 

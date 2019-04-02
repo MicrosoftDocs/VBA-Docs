@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLayoutEx Method (Project)
+title: Application.BoxLayoutEx method (Project)
 keywords: vbapj.chm2157
 f1_keywords:
 - vbapj.chm2157
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxLayoutEx Method (Project)
+# Application.BoxLayoutEx method (Project)
 
 Specifies the layout of boxes in the active Network Diagram view (PERT chart), where the background color can be specified as a hexadecimal value.
 

@@ -1,5 +1,5 @@
 ---
-title: PjOrganizer Enumeration (Project)
+title: PjOrganizer enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjOrganizer
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjOrganizer Enumeration (Project)
+# PjOrganizer enumeration (Project)
 
 Contains constants that specify the type of items in the Organizer.
 

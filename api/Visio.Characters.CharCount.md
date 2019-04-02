@@ -1,5 +1,5 @@
 ---
-title: Characters.CharCount Property (Visio)
+title: Characters.CharCount property (Visio)
 keywords: vis_sdr.chm10213220
 f1_keywords:
 - vis_sdr.chm10213220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.CharCount Property (Visio)
+# Characters.CharCount property (Visio)
 
 Returns the number of characters in an object. Read-only.
 

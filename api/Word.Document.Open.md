@@ -1,5 +1,5 @@
 ---
-title: Document.Open Event (Word)
+title: Document.Open event (Word)
 keywords: vbawd10.chm4001005
 f1_keywords:
 - vbawd10.chm4001005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Open Event (Word)
+# Document.Open event (Word)
 
 Occurs when a document is opened.
 

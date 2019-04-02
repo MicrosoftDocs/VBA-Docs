@@ -1,5 +1,5 @@
 ---
-title: Cell.FieldName Property (Project)
+title: Cell.FieldName property (Project)
 keywords: vbapj.chm132239
 f1_keywords:
 - vbapj.chm132239
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.FieldName Property (Project)
+# Cell.FieldName property (Project)
 
 Gets the column title of the field in the active cell. If the title does not exist, then the field name is returned. Read-only  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.FileOpenEx Method (Project)
+title: Application.FileOpenEx method (Project)
 keywords: vbapj.chm102
 f1_keywords:
 - vbapj.chm102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileOpenEx Method (Project)
+# Application.FileOpenEx method (Project)
 
 Opens a project or imports data.
 

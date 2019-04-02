@@ -1,5 +1,5 @@
 ---
-title: Master.DataGraphicShowBorder Property (Visio)
+title: Master.DataGraphicShowBorder property (Visio)
 keywords: vis_sdr.chm10760120
 f1_keywords:
 - vis_sdr.chm10760120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DataGraphicShowBorder Property (Visio)
+# Master.DataGraphicShowBorder property (Visio)
 
 Gets or sets whether a border is displayed around the graphic items contained in the data graphic that are in default positions. Read/write.
 

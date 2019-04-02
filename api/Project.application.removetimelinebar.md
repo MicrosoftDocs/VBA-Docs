@@ -1,5 +1,5 @@
 ---
-title: Application.RemoveTimelineBar Method (Project)
+title: Application.RemoveTimelineBar method (Project)
 keywords: vbapj.chm158
 f1_keywords:
 - vbapj.chm158
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RemoveTimelineBar Method (Project)
+# Application.RemoveTimelineBar method (Project)
 
 Removes a  **Timeline** bar from the view. Introduced in Office 2016.
 

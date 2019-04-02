@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.GroupInterval Property (Project)
+title: GroupCriterion2.GroupInterval property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.GroupInterval
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.GroupInterval Property (Project)
+# GroupCriterion2.GroupInterval property (Project)
 
 Gets or sets the interval for a field used as a criterion in a group definition. Read/write  **Variant**.
 

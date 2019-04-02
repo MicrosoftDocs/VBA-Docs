@@ -1,5 +1,5 @@
 ---
-title: Assignment.ResourceGuid Property (Project)
+title: Assignment.ResourceGuid property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ResourceGuid
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ResourceGuid Property (Project)
+# Assignment.ResourceGuid property (Project)
 
 Gets the GUID of the resource for the assignment. Read-only  **String**.
 

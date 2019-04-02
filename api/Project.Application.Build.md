@@ -1,5 +1,5 @@
 ---
-title: Application.Build Property (Project)
+title: Application.Build property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Build
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Build Property (Project)
+# Application.Build property (Project)
 
 Gets the version and build number of Microsoft Project. Read-only  **String**.
 

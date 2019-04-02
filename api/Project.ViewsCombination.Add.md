@@ -1,5 +1,5 @@
 ---
-title: ViewsCombination.Add Method (Project)
+title: ViewsCombination.Add method (Project)
 keywords: vbapj.chm132807
 f1_keywords:
 - vbapj.chm132807
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewsCombination.Add Method (Project)
+# ViewsCombination.Add method (Project)
 
 Adds a  **ViewCombination** object to a **ViewsCombination** collection.
 

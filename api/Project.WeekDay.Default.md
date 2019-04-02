@@ -1,5 +1,5 @@
 ---
-title: WeekDay.Default Method (Project)
+title: WeekDay.Default method (Project)
 ms.prod: project-server
 api_name:
 - Project.WeekDay.Default
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WeekDay.Default Method (Project)
+# WeekDay.Default method (Project)
 
 Resets the  **WeekDay** item of a resource calendar to the value in the corresponding base calendar.
 

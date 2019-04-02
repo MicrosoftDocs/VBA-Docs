@@ -1,5 +1,5 @@
 ---
-title: Task.CalendarGuid Property (Project)
+title: Task.CalendarGuid property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.CalendarGuid
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.CalendarGuid Property (Project)
+# Task.CalendarGuid property (Project)
 
 Gets the GUID of the calendar for the task. Read-only  **String**.
 

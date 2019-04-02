@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupCalendar Method (Project)
+title: Application.FilePageSetupCalendar method (Project)
 keywords: vbapj.chm2361
 f1_keywords:
 - vbapj.chm2361
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupCalendar Method (Project)
+# Application.FilePageSetupCalendar method (Project)
 
 Sets up the Calendar for printing.
 

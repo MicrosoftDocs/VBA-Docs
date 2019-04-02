@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalResourceTables Property (Project)
+title: Application.GlobalResourceTables property (Project)
 keywords: vbapj.chm132297
 f1_keywords:
 - vbapj.chm132297
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalResourceTables Property (Project)
+# Application.GlobalResourceTables property (Project)
 
 Gets or sets a  **[Tables](Project.Table.md)** collection representing the resource tables of the Global.mpt file. Read/write **Tables**.
 

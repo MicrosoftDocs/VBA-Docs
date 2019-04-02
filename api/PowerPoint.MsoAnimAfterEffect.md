@@ -1,5 +1,5 @@
 ---
-title: MsoAnimAfterEffect Enumeration (PowerPoint)
+title: MsoAnimAfterEffect enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimAfterEffect
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimAfterEffect Enumeration (PowerPoint)
+# MsoAnimAfterEffect enumeration (PowerPoint)
 
 Indicates whether an after effect appears dimmed, hidden, or unchanged after it runs. 
 

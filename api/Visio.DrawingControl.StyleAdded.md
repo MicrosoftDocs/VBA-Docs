@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.StyleAdded Event (Visio)
+title: DrawingControl.StyleAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.StyleAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.StyleAdded Event (Visio)
+# DrawingControl.StyleAdded event (Visio)
 
 Occurs after a new style is added to a document.
 

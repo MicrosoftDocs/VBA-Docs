@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.MasterDeleteCanceled Event (Visio)
+title: DrawingControl.MasterDeleteCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.MasterDeleteCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.MasterDeleteCanceled Event (Visio)
+# DrawingControl.MasterDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelMasterDelete** event.
 

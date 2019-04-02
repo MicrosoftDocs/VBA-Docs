@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline6DurationEstimated Property (Project)
+title: Task.Baseline6DurationEstimated property (Project)
 keywords: vbapj.chm131515
 f1_keywords:
 - vbapj.chm131515
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline6DurationEstimated Property (Project)
+# Task.Baseline6DurationEstimated property (Project)
 
  **True** if the baseline duration of a task is an estimate. Read/write **Variant**.
 

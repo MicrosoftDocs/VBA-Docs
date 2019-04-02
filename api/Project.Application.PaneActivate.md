@@ -1,5 +1,5 @@
 ---
-title: Application.PaneActivate Event (Project)
+title: Application.PaneActivate event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.PaneActivate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PaneActivate Event (Project)
+# Application.PaneActivate event (Project)
 
 Occurs when the pane is activated.
 

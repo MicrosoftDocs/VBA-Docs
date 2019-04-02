@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivate Event (Project)
+title: Application.WindowActivate event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowActivate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowActivate Event (Project)
+# Application.WindowActivate event (Project)
 
 Occurs when any window within Project is activated. The  **WindowActivate** event does not occur when the application window is activated.
 

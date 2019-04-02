@@ -1,5 +1,5 @@
 ---
-title: Project.Saved Property (Project)
+title: Project.Saved property (Project)
 keywords: vbapj.chm132598
 f1_keywords:
 - vbapj.chm132598
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.Saved Property (Project)
+# Project.Saved property (Project)
 
  **True** if a project has not changed since it was last saved. Read-only **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.FontBold Property (Project)
+title: GroupCriterion.FontBold property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.FontBold
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.FontBold Property (Project)
+# GroupCriterion.FontBold property (Project)
 
  **True** if the font for a field used as a criterion in a group definition is bold. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Menu Object (Visio)
+title: Menu object (Visio)
 keywords: vis_sdr.chm10150
 f1_keywords:
 - vis_sdr.chm10150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menu Object (Visio)
+# Menu object (Visio)
 
  Represents a single menu on a Microsoft Visio menu bar.
 

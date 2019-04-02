@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Name Property (Visio)
+title: Hyperlink.Name property (Visio)
 keywords: vis_sdr.chm15013930
 f1_keywords:
 - vis_sdr.chm15013930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Name Property (Visio)
+# Hyperlink.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Assignment.Baseline2Finish Property (Project)
+title: Assignment.Baseline2Finish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline2Finish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Baseline2Finish Property (Project)
+# Assignment.Baseline2Finish property (Project)
 
 Gets or sets the baseline finish date of a task  **Assignment**. Read/write **Variant**.
 

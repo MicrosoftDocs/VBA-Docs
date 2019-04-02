@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineTextOnBar Method (Project)
+title: Application.TimelineTextOnBar method (Project)
 keywords: vbapj.chm63
 f1_keywords:
 - vbapj.chm63
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimelineTextOnBar Method (Project)
+# Application.TimelineTextOnBar method (Project)
 
 Changes the format of text to display as a callout or within the Timeline bar, for one or more selected tasks.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.OutlineShowSubTasks Method (Project)
+title: Application.OutlineShowSubTasks method (Project)
 keywords: vbapj.chm2021
 f1_keywords:
 - vbapj.chm2021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OutlineShowSubTasks Method (Project)
+# Application.OutlineShowSubTasks method (Project)
 
 Shows the subtasks of the selected task or tasks.
 

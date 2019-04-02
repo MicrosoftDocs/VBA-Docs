@@ -1,5 +1,5 @@
 ---
-title: Task.BudgetWork Property (Project)
+title: Task.BudgetWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.BudgetWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.BudgetWork Property (Project)
+# Task.BudgetWork property (Project)
 
 Gets or sets the rollup calculated value of all the budget work hours across all the non-cost resources in the project. Applies only to the project summary task. Read/write  **Variant**.
 

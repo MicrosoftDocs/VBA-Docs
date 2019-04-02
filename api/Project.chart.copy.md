@@ -1,5 +1,5 @@
 ---
-title: Chart.Copy Method (Project)
+title: Chart.Copy method (Project)
 keywords: vbapj.chm131611
 f1_keywords:
 - vbapj.chm131611
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Copy Method (Project)
+# Chart.Copy method (Project)
 Copies a chart.
 
 ## Syntax

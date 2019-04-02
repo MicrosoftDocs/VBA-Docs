@@ -1,5 +1,5 @@
 ---
-title: Resource.HyperlinkSubAddress Property (Project)
+title: Resource.HyperlinkSubAddress property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.HyperlinkSubAddress
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.HyperlinkSubAddress Property (Project)
+# Resource.HyperlinkSubAddress property (Project)
 
 Gets or sets the address of a location within the target document. Read/write  **String**.
 

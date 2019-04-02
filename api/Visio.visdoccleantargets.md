@@ -1,5 +1,5 @@
 ---
-title: VisDocCleanTargets Enumeration (Visio)
+title: VisDocCleanTargets enumeration (Visio)
 keywords: vis_sdr.chm70305
 f1_keywords:
 - vis_sdr.chm70305
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDocCleanTargets Enumeration (Visio)
+# VisDocCleanTargets enumeration (Visio)
 
 Flags passed to the  **Document.Clean** method to indicate which objects to examine.
 

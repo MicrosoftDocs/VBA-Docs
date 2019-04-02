@@ -1,5 +1,5 @@
 ---
-title: Shape.SetEnd Method (Visio)
+title: Shape.SetEnd method (Visio)
 keywords: vis_sdr.chm11216570
 f1_keywords:
 - vis_sdr.chm11216570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SetEnd Method (Visio)
+# Shape.SetEnd method (Visio)
 
 Moves the endpoint of a one-dimensional (1-D) shape to the coordinates represented by  _xPos_ and _yPos_.
 

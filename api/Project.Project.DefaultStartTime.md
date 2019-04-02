@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultStartTime Property (Project)
+title: Project.DefaultStartTime property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DefaultStartTime
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultStartTime Property (Project)
+# Project.DefaultStartTime property (Project)
 
 Gets or sets the default start time for the project. Read/write  **Variant**.
 

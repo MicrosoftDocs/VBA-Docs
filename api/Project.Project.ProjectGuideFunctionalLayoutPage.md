@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectGuideFunctionalLayoutPage Property (Project)
+title: Project.ProjectGuideFunctionalLayoutPage property (Project)
 keywords: vbapj.chm131088
 f1_keywords:
 - vbapj.chm131088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectGuideFunctionalLayoutPage Property (Project)
+# Project.ProjectGuideFunctionalLayoutPage property (Project)
 
 Gets or sets the Project Guide functional layout page for the specified project. Read/write  **String**.
 

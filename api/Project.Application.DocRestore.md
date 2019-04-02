@@ -1,5 +1,5 @@
 ---
-title: Application.DocRestore Method (Project)
+title: Application.DocRestore method (Project)
 keywords: vbapj.chm2016
 f1_keywords:
 - vbapj.chm2016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocRestore Method (Project)
+# Application.DocRestore method (Project)
 
 Sets the active window to its last nonmaximized state.
 

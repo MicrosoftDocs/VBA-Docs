@@ -1,5 +1,5 @@
 ---
-title: VisScrollbarStates Enumeration (Visio)
+title: VisScrollbarStates enumeration (Visio)
 keywords: vis_sdr.chm70210
 f1_keywords:
 - vis_sdr.chm70210
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisScrollbarStates Enumeration (Visio)
+# VisScrollbarStates enumeration (Visio)
 
 Constants passed to and returned by the  **Window.ShowScrollBars** property.
 

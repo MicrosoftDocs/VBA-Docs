@@ -1,5 +1,5 @@
 ---
-title: Reports.Item Property (Project)
+title: Reports.Item property (Project)
 ms.prod: project-server
 ms.assetid: d8202579-71de-c606-5a28-af285bca0a05
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Reports.Item Property (Project)
+# Reports.Item property (Project)
 Gets a single  **Report** object from the **Reports** collection. Read-only **Report**.
 
 ## Syntax

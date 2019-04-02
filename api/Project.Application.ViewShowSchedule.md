@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowSchedule Method (Project)
+title: Application.ViewShowSchedule method (Project)
 keywords: vbapj.chm918
 f1_keywords:
 - vbapj.chm918
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowSchedule Method (Project)
+# Application.ViewShowSchedule method (Project)
 
 Displays the schedule fields in a resource or task form.
 

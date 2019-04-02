@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforePageDelete Event (Visio)
+title: DrawingControl.BeforePageDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforePageDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforePageDelete Event (Visio)
+# DrawingControl.BeforePageDelete event (Visio)
 
 Occurs before a page is deleted.
 

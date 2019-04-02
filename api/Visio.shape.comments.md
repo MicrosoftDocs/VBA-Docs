@@ -1,5 +1,5 @@
 ---
-title: Shape.Comments Property (Visio)
+title: Shape.Comments property (Visio)
 ms.prod: visio
 ms.assetid: 498eca91-beb9-b764-0262-a935e5205710
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Comments Property (Visio)
+# Shape.Comments property (Visio)
 
 Returns a [Comments](Visio.comments.md) object that represents the collection of all the reviewer comments on the shape. Read-only.
 

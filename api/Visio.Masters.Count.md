@@ -1,5 +1,5 @@
 ---
-title: Masters.Count Property (Visio)
+title: Masters.Count property (Visio)
 keywords: vis_sdr.chm10813330
 f1_keywords:
 - vis_sdr.chm10813330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Masters.Count Property (Visio)
+# Masters.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OlShowItemCount Enumeration (Outlook)
+title: OlShowItemCount enumeration (Outlook)
 keywords: vbaol11.chm3099
 f1_keywords:
 - vbaol11.chm3099
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlShowItemCount Enumeration (Outlook)
+# OlShowItemCount enumeration (Outlook)
 
 Indicates which type of Microsoft Outlook item count is displayed for folders in the Outlook navigation pane.
 

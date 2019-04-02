@@ -1,5 +1,5 @@
 ---
-title: Application.PasteDestFormatting Method (Project)
+title: Application.PasteDestFormatting method (Project)
 keywords: vbapj.chm140
 f1_keywords:
 - vbapj.chm140
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PasteDestFormatting Method (Project)
+# Application.PasteDestFormatting method (Project)
 Pastes a copy of a report or a shape, where the copy is formatted in the default style or the style of the destination.
 
 ## Syntax

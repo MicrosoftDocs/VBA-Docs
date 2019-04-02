@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.FilterExpression Property (Visio)
+title: ValidationRule.FilterExpression property (Visio)
 keywords: vis_sdr.chm18462655
 f1_keywords:
 - vis_sdr.chm18462655
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.FilterExpression Property (Visio)
+# ValidationRule.FilterExpression property (Visio)
 
 Gets or sets the logical expression that determines whether the validation rule should be applied to a target object. Read/write.
 

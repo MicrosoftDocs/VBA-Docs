@@ -1,5 +1,5 @@
 ---
-title: Characters.EventList Property (Visio)
+title: Characters.EventList property (Visio)
 keywords: vis_sdr.chm10213480
 f1_keywords:
 - vis_sdr.chm10213480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.EventList Property (Visio)
+# Characters.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 

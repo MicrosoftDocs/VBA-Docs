@@ -1,5 +1,5 @@
 ---
-title: SplitParts.Item Property (Project)
+title: SplitParts.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitParts.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitParts.Item Property (Project)
+# SplitParts.Item property (Project)
 
 Gets a single  **SplitPart** object from the **SplitParts** collection. Read-only **SplitPart**.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline4FixedCost Property (Project)
+title: Task.Baseline4FixedCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline4FixedCost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline4FixedCost Property (Project)
+# Task.Baseline4FixedCost property (Project)
 
 Gets or sets the baseline4 fixed cost of any nonresource expense for a  **Task**. Read/write **Variant**.
 

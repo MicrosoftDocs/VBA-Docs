@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.LagType Property (Project)
+title: TaskDependency.LagType property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependency.LagType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.LagType Property (Project)
+# TaskDependency.LagType property (Project)
 
 Gets the unit of lag time between linked tasks. Read-only  **[PjFormatUnit](Project.PjFormatUnit.md)**.
 

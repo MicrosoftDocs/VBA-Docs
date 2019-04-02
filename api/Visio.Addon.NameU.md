@@ -1,5 +1,5 @@
 ---
-title: Addon.NameU Property (Visio)
+title: Addon.NameU property (Visio)
 keywords: vis_sdr.chm12451985
 f1_keywords:
 - vis_sdr.chm12451985
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Addon.NameU Property (Visio)
+# Addon.NameU property (Visio)
 
 Specifies the universal name of an  **Addon** object. Read-only.
 

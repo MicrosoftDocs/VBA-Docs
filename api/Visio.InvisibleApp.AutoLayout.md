@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AutoLayout Property (Visio)
+title: InvisibleApp.AutoLayout property (Visio)
 keywords: vis_sdr.chm17513105
 f1_keywords:
 - vis_sdr.chm17513105
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.AutoLayout Property (Visio)
+# InvisibleApp.AutoLayout property (Visio)
 
 Allows you to temporarily disable automatic layout functionality in Microsoft Visio and then re-enable it after you are finished with an action. Read/write.
 

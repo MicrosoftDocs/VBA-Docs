@@ -1,5 +1,5 @@
 ---
-title: Application.IsFunctionalitySupported Event (Project)
+title: Application.IsFunctionalitySupported event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.IsFunctionalitySupported
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.IsFunctionalitySupported Event (Project)
+# Application.IsFunctionalitySupported event (Project)
 
 Occurs after the  **LoadWebBrowserControl** method is called with the third parameter ( _FunctionalityName_) set.
 

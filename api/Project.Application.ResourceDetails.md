@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceDetails Method (Project)
+title: Application.ResourceDetails method (Project)
 keywords: vbapj.chm2116
 f1_keywords:
 - vbapj.chm2116
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceDetails Method (Project)
+# Application.ResourceDetails method (Project)
 
 Displays the details from a MAPI-compliant address book for a resource.
 

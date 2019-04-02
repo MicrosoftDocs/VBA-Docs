@@ -1,5 +1,5 @@
 ---
-title: CodeMaskLevel.Separator Property (Project)
+title: CodeMaskLevel.Separator property (Project)
 ms.prod: project-server
 api_name:
 - Project.CodeMaskLevel.Separator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CodeMaskLevel.Separator Property (Project)
+# CodeMaskLevel.Separator property (Project)
 
 Gets or sets the character that separates the levels of a code mask Read/write  **String**.
 

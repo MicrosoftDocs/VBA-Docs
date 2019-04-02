@@ -1,5 +1,5 @@
 ---
-title: Masters Object (Visio)
+title: Masters object (Visio)
 keywords: vis_sdr.chm10135
 f1_keywords:
 - vis_sdr.chm10135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Masters Object (Visio)
+# Masters object (Visio)
 
  Includes a **Master** object for each master in a document's stencil.
 

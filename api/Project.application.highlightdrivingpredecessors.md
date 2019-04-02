@@ -1,5 +1,5 @@
 ---
-title: Application.HighlightDrivingPredecessors Method (Project)
+title: Application.HighlightDrivingPredecessors method (Project)
 keywords: vbapj.chm148
 f1_keywords:
 - vbapj.chm148
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.HighlightDrivingPredecessors Method (Project)
+# Application.HighlightDrivingPredecessors method (Project)
 Sets or clears task driving predecessor highlighting for the task path feature.
 
 ## Syntax

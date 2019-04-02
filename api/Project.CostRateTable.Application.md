@@ -1,5 +1,5 @@
 ---
-title: CostRateTable.Application Property (Project)
+title: CostRateTable.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTable.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CostRateTable.Application Property (Project)
+# CostRateTable.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Undo Method (Visio)
+title: InvisibleApp.Undo method (Visio)
 keywords: vis_sdr.chm17516620
 f1_keywords:
 - vis_sdr.chm17516620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Undo Method (Visio)
+# InvisibleApp.Undo method (Visio)
 
 Reverses the most recent undo unit, if the undo unit can be reversed.
 

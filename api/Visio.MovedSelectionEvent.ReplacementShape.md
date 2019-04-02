@@ -1,5 +1,5 @@
 ---
-title: MovedSelectionEvent.ReplacementShape Property (Visio)
+title: MovedSelectionEvent.ReplacementShape property (Visio)
 keywords: vis_sdr.chm17814320
 f1_keywords:
 - vis_sdr.chm17814320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MovedSelectionEvent.ReplacementShape Property (Visio)
+# MovedSelectionEvent.ReplacementShape property (Visio)
 
 Returns a  **[Shape](Visio.Shape.md)** object that represents the shape that is in the source page and that replaces the source-page shapes or selection being moved to a sub-process page. Read-only.
 

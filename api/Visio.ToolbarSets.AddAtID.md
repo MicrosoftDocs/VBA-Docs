@@ -1,5 +1,5 @@
 ---
-title: ToolbarSets.AddAtID Method (Visio)
+title: ToolbarSets.AddAtID method (Visio)
 keywords: vis_sdr.chm14016020
 f1_keywords:
 - vis_sdr.chm14016020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarSets.AddAtID Method (Visio)
+# ToolbarSets.AddAtID method (Visio)
 
 Creates a new object with a specified ID in a collection.
 

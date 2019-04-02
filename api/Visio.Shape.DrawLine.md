@@ -1,5 +1,5 @@
 ---
-title: Shape.DrawLine Method (Visio)
+title: Shape.DrawLine method (Visio)
 keywords: vis_sdr.chm11216200
 f1_keywords:
 - vis_sdr.chm11216200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DrawLine Method (Visio)
+# Shape.DrawLine method (Visio)
 
 Adds a line to the  **Shapes** collection of a group shape.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Windows Property (Visio)
+title: Application.Windows property (Visio)
 keywords: vis_sdr.chm10014665
 f1_keywords:
 - vis_sdr.chm10014665
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Windows Property (Visio)
+# Application.Windows property (Visio)
 
 Returns the  **Windows** collection for a Microsoft Visio instance or window. Read-only.
 

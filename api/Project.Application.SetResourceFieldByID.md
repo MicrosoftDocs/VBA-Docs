@@ -1,5 +1,5 @@
 ---
-title: Application.SetResourceFieldByID Method (Project)
+title: Application.SetResourceFieldByID method (Project)
 keywords: vbapj.chm96
 f1_keywords:
 - vbapj.chm96
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetResourceFieldByID Method (Project)
+# Application.SetResourceFieldByID method (Project)
 
 Sets the value of a resource field specified by the field identification number.
 

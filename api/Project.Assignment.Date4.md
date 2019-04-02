@@ -1,5 +1,5 @@
 ---
-title: Assignment.Date4 Property (Project)
+title: Assignment.Date4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Date4
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Date4 Property (Project)
+# Assignment.Date4 property (Project)
 
 Gets or sets the value of the  **Date4** custom field for the assignment. Read/write **Variant**.
 

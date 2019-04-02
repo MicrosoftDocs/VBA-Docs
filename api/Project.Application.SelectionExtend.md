@@ -1,5 +1,5 @@
 ---
-title: Application.SelectionExtend Method (Project)
+title: Application.SelectionExtend method (Project)
 keywords: vbapj.chm2051
 f1_keywords:
 - vbapj.chm2051
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectionExtend Method (Project)
+# Application.SelectionExtend method (Project)
 
 Turns selection extension on or off.
 

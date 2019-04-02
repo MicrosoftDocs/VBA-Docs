@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ListAlignment Property (Visio)
+title: ContainerProperties.ListAlignment property (Visio)
 keywords: vis_sdr.chm17662595
 f1_keywords:
 - vis_sdr.chm17662595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.ListAlignment Property (Visio)
+# ContainerProperties.ListAlignment property (Visio)
 
 Specifies how to align and arrange a list shape that you want positioned perpendicular to the main list direction. Read/write.
 

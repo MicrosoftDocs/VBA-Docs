@@ -1,5 +1,5 @@
 ---
-title: Application.EnableCancelKey Property (Project)
+title: Application.EnableCancelKey property (Project)
 keywords: vbapj.chm131792
 f1_keywords:
 - vbapj.chm131792
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EnableCancelKey Property (Project)
+# Application.EnableCancelKey property (Project)
 
 Gets or sets a value that controls how the CTRL + BREAK key combination is handled when a macro is running. Read/write  **PjEnableCancelKey**.
 

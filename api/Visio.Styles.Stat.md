@@ -1,5 +1,5 @@
 ---
-title: Styles.Stat Property (Visio)
+title: Styles.Stat property (Visio)
 keywords: vis_sdr.chm11514420
 f1_keywords:
 - vis_sdr.chm11514420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Styles.Stat Property (Visio)
+# Styles.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

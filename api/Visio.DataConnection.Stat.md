@@ -1,5 +1,5 @@
 ---
-title: DataConnection.Stat Property (Visio)
+title: DataConnection.Stat property (Visio)
 keywords: vis_sdr.chm16514420
 f1_keywords:
 - vis_sdr.chm16514420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataConnection.Stat Property (Visio)
+# DataConnection.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

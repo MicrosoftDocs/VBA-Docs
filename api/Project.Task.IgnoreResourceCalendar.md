@@ -1,5 +1,5 @@
 ---
-title: Task.IgnoreResourceCalendar Property (Project)
+title: Task.IgnoreResourceCalendar property (Project)
 keywords: vbapj.chm132349
 f1_keywords:
 - vbapj.chm132349
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.IgnoreResourceCalendar Property (Project)
+# Task.IgnoreResourceCalendar property (Project)
 
  **True** if the resource calendar is ignored when scheduling the task. **False** if both the resource calendar and task calendar (if defined) are used when scheduling the task. Read/write **Variant**.
 

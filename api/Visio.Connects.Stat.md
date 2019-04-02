@@ -1,5 +1,5 @@
 ---
-title: Connects.Stat Property (Visio)
+title: Connects.Stat property (Visio)
 keywords: vis_sdr.chm10414420
 f1_keywords:
 - vis_sdr.chm10414420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Connects.Stat Property (Visio)
+# Connects.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.JobCompleted Event (Project)
+title: Application.JobCompleted event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.JobCompleted
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.JobCompleted Event (Project)
+# Application.JobCompleted event (Project)
 
 Occurs when a queued job originating from Project Professional is completed.
 

@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.ID Property (Visio)
+title: GraphicItem.ID property (Visio)
 keywords: vis_sdr.chm16913675
 f1_keywords:
 - vis_sdr.chm16913675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.ID Property (Visio)
+# GraphicItem.ID property (Visio)
 
 Gets the unique identifier of the  **GraphicItem** object. Read-only.
 

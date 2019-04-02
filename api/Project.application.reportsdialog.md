@@ -1,5 +1,5 @@
 ---
-title: Application.ReportsDialog Method (Project)
+title: Application.ReportsDialog method (Project)
 keywords: vbapj.chm2197
 f1_keywords:
 - vbapj.chm2197
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ReportsDialog Method (Project)
+# Application.ReportsDialog method (Project)
 Displays the  **Reports** dialog box, which enables you to select the Office Art style of custom and built-in reports.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Task.Duration Property (Project)
+title: Task.Duration property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Duration
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Duration Property (Project)
+# Task.Duration property (Project)
 
 Gets or sets the duration (in minutes) of a task. Read-only for summary tasks. Read/write  **Variant**.
 

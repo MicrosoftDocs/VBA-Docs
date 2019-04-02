@@ -1,5 +1,5 @@
 ---
-title: Task.LinkedFields Property (Project)
+title: Task.LinkedFields property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.LinkedFields
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.LinkedFields Property (Project)
+# Task.LinkedFields property (Project)
 
  **True** if the **Task** object contains fields that are linked to other applications through OLE. Read-only **Boolean**.
 

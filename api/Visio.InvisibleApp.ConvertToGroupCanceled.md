@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ConvertToGroupCanceled Event (Visio)
+title: InvisibleApp.ConvertToGroupCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ConvertToGroupCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ConvertToGroupCanceled Event (Visio)
+# InvisibleApp.ConvertToGroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelConvertToGroup** event.
 

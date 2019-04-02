@@ -1,5 +1,5 @@
 ---
-title: Selection.TextStyleKeepFmt Property (Visio)
+title: Selection.TextStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11114535
 f1_keywords:
 - vis_sdr.chm11114535
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.TextStyleKeepFmt Property (Visio)
+# Selection.TextStyleKeepFmt property (Visio)
 
 Applies a text style to an object while preserving local formatting. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PjVisualReportsTemplateType Enumeration (Project)
+title: PjVisualReportsTemplateType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjVisualReportsTemplateType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjVisualReportsTemplateType Enumeration (Project)
+# PjVisualReportsTemplateType enumeration (Project)
 
 Contains constants that specify the type of report template for the Visual Reports feature.
 

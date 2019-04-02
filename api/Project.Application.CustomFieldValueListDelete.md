@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldValueListDelete Method (Project)
+title: Application.CustomFieldValueListDelete method (Project)
 keywords: vbapj.chm42
 f1_keywords:
 - vbapj.chm42
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldValueListDelete Method (Project)
+# Application.CustomFieldValueListDelete method (Project)
 
 Removes an item from the value list for a custom field.
 

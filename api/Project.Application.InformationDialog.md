@@ -1,5 +1,5 @@
 ---
-title: Application.InformationDialog Method (Project)
+title: Application.InformationDialog method (Project)
 keywords: vbapj.chm217
 f1_keywords:
 - vbapj.chm217
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.InformationDialog Method (Project)
+# Application.InformationDialog method (Project)
 
 Displays the  **Assignment Information**,  **Resource Information**, or  **Task Information** dialog box for the selected assignment, resource, or task.
 

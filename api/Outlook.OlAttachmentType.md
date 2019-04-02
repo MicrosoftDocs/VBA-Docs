@@ -1,5 +1,5 @@
 ---
-title: OlAttachmentType Enumeration (Outlook)
+title: OlAttachmentType enumeration (Outlook)
 keywords: vbaol11.chm3052
 f1_keywords:
 - vbaol11.chm3052
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAttachmentType Enumeration (Outlook)
+# OlAttachmentType enumeration (Outlook)
 
 Specifies the attachment type.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ZoomIn Method (Project)
+title: Application.ZoomIn method (Project)
 keywords: vbapj.chm2036
 f1_keywords:
 - vbapj.chm2036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ZoomIn Method (Project)
+# Application.ZoomIn method (Project)
 
 Zooms in on the active view. Not available on the Resource Sheet, Task Sheet, or any of the form views.
 

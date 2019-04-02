@@ -1,5 +1,5 @@
 ---
-title: Windows.Application Property (Project)
+title: Windows.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.Windows.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.Application Property (Project)
+# Windows.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

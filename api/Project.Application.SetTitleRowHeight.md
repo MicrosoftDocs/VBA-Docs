@@ -1,5 +1,5 @@
 ---
-title: Application.SetTitleRowHeight Method (Project)
+title: Application.SetTitleRowHeight method (Project)
 keywords: vbapj.chm2120
 f1_keywords:
 - vbapj.chm2120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetTitleRowHeight Method (Project)
+# Application.SetTitleRowHeight method (Project)
 
 Sets the title row height of the active view.
 

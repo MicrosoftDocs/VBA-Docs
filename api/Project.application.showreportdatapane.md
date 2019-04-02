@@ -1,5 +1,5 @@
 ---
-title: Application.ShowReportDataPane Method (Project)
+title: Application.ShowReportDataPane method (Project)
 keywords: vbapj.chm152
 f1_keywords:
 - vbapj.chm152
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowReportDataPane Method (Project)
+# Application.ShowReportDataPane method (Project)
 Shows or hides the report data pane, when a chart shape or table shape is selected in a report.
 
 ## Syntax

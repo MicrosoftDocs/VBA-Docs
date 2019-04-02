@@ -1,5 +1,5 @@
 ---
-title: Resource.Initials Property (Project)
+title: Resource.Initials property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Initials
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Initials Property (Project)
+# Resource.Initials property (Project)
 
 Gets or sets the initials of a resource. Read/write  **String**.
 

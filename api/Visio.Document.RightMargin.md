@@ -1,5 +1,5 @@
 ---
-title: Document.RightMargin Property (Visio)
+title: Document.RightMargin property (Visio)
 keywords: vis_sdr.chm10514235
 f1_keywords:
 - vis_sdr.chm10514235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.RightMargin Property (Visio)
+# Document.RightMargin property (Visio)
 
 Specifies the right margin, which is used when printing. Read/write.
 

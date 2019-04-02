@@ -1,5 +1,5 @@
 ---
-title: Document.BeforeStyleDelete Event (Visio)
+title: Document.BeforeStyleDelete event (Visio)
 keywords: vis_sdr.chm10519070
 f1_keywords:
 - vis_sdr.chm10519070
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.BeforeStyleDelete Event (Visio)
+# Document.BeforeStyleDelete event (Visio)
 
 Occurs before a style is deleted.
 

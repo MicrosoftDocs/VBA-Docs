@@ -1,5 +1,5 @@
 ---
-title: RelatedShapePairEvent Object (Visio)
+title: RelatedShapePairEvent object (Visio)
 keywords: vis_sdr.chm61045
 f1_keywords:
 - vis_sdr.chm61045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RelatedShapePairEvent Object (Visio)
+# RelatedShapePairEvent object (Visio)
 
 Holds information about the shapes that are involved in a container relationship or a callout relationship.
 

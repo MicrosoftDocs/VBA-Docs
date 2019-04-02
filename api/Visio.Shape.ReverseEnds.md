@@ -1,5 +1,5 @@
 ---
-title: Shape.ReverseEnds Method (Visio)
+title: Shape.ReverseEnds method (Visio)
 keywords: vis_sdr.chm11216480
 f1_keywords:
 - vis_sdr.chm11216480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ReverseEnds Method (Visio)
+# Shape.ReverseEnds method (Visio)
 
 Reverses an object by flipping it both horizontally and vertically.
 

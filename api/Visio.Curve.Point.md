@@ -1,5 +1,5 @@
 ---
-title: Curve.Point Method (Visio)
+title: Curve.Point method (Visio)
 keywords: vis_sdr.chm15516435
 f1_keywords:
 - vis_sdr.chm15516435
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Curve.Point Method (Visio)
+# Curve.Point method (Visio)
 
 Returns a point at a position along a curve.
 

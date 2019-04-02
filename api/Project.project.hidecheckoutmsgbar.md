@@ -1,5 +1,5 @@
 ---
-title: Project.HideCheckoutMsgBar Method (Project)
+title: Project.HideCheckoutMsgBar method (Project)
 keywords: vbapj.chm131099
 f1_keywords:
 - vbapj.chm131099
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Project.HideCheckoutMsgBar Method (Project)
+# Project.HideCheckoutMsgBar method (Project)
 Hides the project checkout message bar.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.DataRecordset Property (Visio)
+title: DataRecordsetChangedEvent.DataRecordset property (Visio)
 keywords: vis_sdr.chm17260385
 f1_keywords:
 - vis_sdr.chm17260385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.DataRecordset Property (Visio)
+# DataRecordsetChangedEvent.DataRecordset property (Visio)
 
 Returns the  **DataRecordset** object associated with the **DataRecordsetChanged** event that fires when data in the data recordset are refreshed. Read-only.
 

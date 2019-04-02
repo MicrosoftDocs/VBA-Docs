@@ -1,5 +1,5 @@
 ---
-title: WorkWeek Object (Project)
+title: WorkWeek object (Project)
 keywords: vbapj.chm131359
 f1_keywords:
 - vbapj.chm131359
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeek Object (Project)
+# WorkWeek object (Project)
 
 Represents a single calendar work week. The  **WorkWeek** object is a member of the **[WorkWeeks](Project.workweeks.md)** collection.
  

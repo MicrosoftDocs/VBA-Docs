@@ -1,5 +1,5 @@
 ---
-title: Assignment.RemainingWork Property (Project)
+title: Assignment.RemainingWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.RemainingWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.RemainingWork Property (Project)
+# Assignment.RemainingWork property (Project)
 
 Gets or sets the remaining work (in minutes) for the assignment. Read/write  **Variant**.
 

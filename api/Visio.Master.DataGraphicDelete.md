@@ -1,5 +1,5 @@
 ---
-title: Master.DataGraphicDelete Method (Visio)
+title: Master.DataGraphicDelete method (Visio)
 keywords: vis_sdr.chm10760140
 f1_keywords:
 - vis_sdr.chm10760140
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DataGraphicDelete Method (Visio)
+# Master.DataGraphicDelete method (Visio)
 
 Deletes the  **Master** of type **visTypeDataGraphic** from the **Masters** collection of the document.
 

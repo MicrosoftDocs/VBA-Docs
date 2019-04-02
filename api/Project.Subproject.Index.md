@@ -1,5 +1,5 @@
 ---
-title: Subproject.Index Property (Project)
+title: Subproject.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Subproject.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Subproject.Index Property (Project)
+# Subproject.Index property (Project)
 
 Gets the index of a  **Subproject** object in the **Subprojects** containing object. Read-only **Long**.
 

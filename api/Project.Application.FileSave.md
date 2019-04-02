@@ -1,5 +1,5 @@
 ---
-title: Application.FileSave Method (Project)
+title: Application.FileSave method (Project)
 keywords: vbapj.chm106
 f1_keywords:
 - vbapj.chm106
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileSave Method (Project)
+# Application.FileSave method (Project)
 
 Saves the active project.
 

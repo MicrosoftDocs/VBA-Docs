@@ -1,5 +1,5 @@
 ---
-title: Month.Shift4 Property (Project)
+title: Month.Shift4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Shift4
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Month.Shift4 Property (Project)
+# Month.Shift4 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the fourth work shift in a month. Read-only **Shift**.
 

@@ -1,5 +1,5 @@
 ---
-title: PbTextUnit Enumeration (Publisher)
+title: PbTextUnit enumeration (Publisher)
 keywords: vbapb10.chm65544
 f1_keywords:
 - vbapb10.chm65544
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbTextUnit Enumeration (Publisher)
+# PbTextUnit enumeration (Publisher)
 
 The unit by which to expand a range.
 

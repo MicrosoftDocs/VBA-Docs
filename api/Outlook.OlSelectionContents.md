@@ -1,5 +1,5 @@
 ---
-title: OlSelectionContents Enumeration (Outlook)
+title: OlSelectionContents enumeration (Outlook)
 keywords: vbaol11.chm3530
 f1_keywords:
 - vbaol11.chm3530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSelectionContents Enumeration (Outlook)
+# OlSelectionContents enumeration (Outlook)
 
 Specifies the kinds of objects selected in the active explorer.
 

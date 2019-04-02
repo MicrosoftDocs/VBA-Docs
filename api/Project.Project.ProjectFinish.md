@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectFinish Property (Project)
+title: Project.ProjectFinish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ProjectFinish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectFinish Property (Project)
+# Project.ProjectFinish property (Project)
 
 Gets or sets the finish date for a project. Read/write  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: CalendarDrivers.Parent Property (Project)
+title: CalendarDrivers.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.CalendarDrivers.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarDrivers.Parent Property (Project)
+# CalendarDrivers.Parent property (Project)
 
 Gets the parent of the  **CalendarDrivers** object. Read-only **Task**.
 

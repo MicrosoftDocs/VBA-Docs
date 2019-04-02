@@ -1,5 +1,5 @@
 ---
-title: Application.Build Property (Visio)
+title: Application.Build property (Visio)
 keywords: vis_sdr.chm10050515
 f1_keywords:
 - vis_sdr.chm10050515
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Build Property (Visio)
+# Application.Build property (Visio)
 
 Returns the build number of the running instance. Read-only.
 

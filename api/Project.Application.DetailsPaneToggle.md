@@ -1,5 +1,5 @@
 ---
-title: Application.DetailsPaneToggle Method (Project)
+title: Application.DetailsPaneToggle method (Project)
 keywords: vbapj.chm85
 f1_keywords:
 - vbapj.chm85
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DetailsPaneToggle Method (Project)
+# Application.DetailsPaneToggle method (Project)
 
 Shows or hides the task or resource  **Details** pane for the selected item.
 

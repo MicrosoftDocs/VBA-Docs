@@ -1,5 +1,5 @@
 ---
-title: Application.TimescaleEdit Method (Project)
+title: Application.TimescaleEdit method (Project)
 keywords: vbapj.chm902
 f1_keywords:
 - vbapj.chm902
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimescaleEdit Method (Project)
+# Application.TimescaleEdit method (Project)
 
 Enables changing the scale and format of a timescale in a Gantt chart or other timephased view.
 

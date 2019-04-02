@@ -1,5 +1,5 @@
 ---
-title: UIObject.DisplayKeysInTooltips Property (Visio)
+title: UIObject.DisplayKeysInTooltips property (Visio)
 keywords: vis_sdr.chm14913410
 f1_keywords:
 - vis_sdr.chm14913410
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UIObject.DisplayKeysInTooltips Property (Visio)
+# UIObject.DisplayKeysInTooltips property (Visio)
 
 Determines whether ScreenTip text includes keyboard shortcuts. Read/write. 
 

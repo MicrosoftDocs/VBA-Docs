@@ -1,5 +1,5 @@
 ---
-title: Application.SelectColumn Method (Project)
+title: Application.SelectColumn method (Project)
 keywords: vbapj.chm2046
 f1_keywords:
 - vbapj.chm2046
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectColumn Method (Project)
+# Application.SelectColumn method (Project)
 
 Selects one or more columns.
 

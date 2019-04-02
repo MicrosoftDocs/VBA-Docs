@@ -1,5 +1,5 @@
 ---
-title: Reports Object (Project)
+title: Reports object (Project)
 ms.prod: project-server
 ms.assetid: a9f4a13b-1907-dbe8-8077-fb1226bb8bb9
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Reports Object (Project)
+# Reports object (Project)
 Contains a collection of  **[Report](Project.report.md)** objects, where each report is a custom report.
  
 

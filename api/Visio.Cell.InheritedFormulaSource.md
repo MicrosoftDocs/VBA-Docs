@@ -1,5 +1,5 @@
 ---
-title: Cell.InheritedFormulaSource Property (Visio)
+title: Cell.InheritedFormulaSource property (Visio)
 keywords: vis_sdr.chm10150680
 f1_keywords:
 - vis_sdr.chm10150680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.InheritedFormulaSource Property (Visio)
+# Cell.InheritedFormulaSource property (Visio)
 
 Returns the cell from which this cell inherited its formula. Read-only.
 

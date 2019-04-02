@@ -1,5 +1,5 @@
 ---
-title: Documents.AfterDocumentMerge Event (Visio)
+title: Documents.AfterDocumentMerge event (Visio)
 ms.prod: visio
 ms.assetid: cac0544d-77b9-b722-cfdb-e42475ce2558
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.AfterDocumentMerge Event (Visio)
+# Documents.AfterDocumentMerge event (Visio)
 
 Occurs when Visio incorporates changes from other users? versions of a document into a merged, co authored document.
 

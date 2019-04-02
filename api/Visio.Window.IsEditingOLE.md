@@ -1,5 +1,5 @@
 ---
-title: Window.IsEditingOLE Property (Visio)
+title: Window.IsEditingOLE property (Visio)
 keywords: vis_sdr.chm11613725
 f1_keywords:
 - vis_sdr.chm11613725
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.IsEditingOLE Property (Visio)
+# Window.IsEditingOLE property (Visio)
 
 Determines whether a drawing window contains an ActiveX control that has focus or an embedded or linked object that is being edited. Read-only.
 

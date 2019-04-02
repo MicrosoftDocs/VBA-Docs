@@ -1,5 +1,5 @@
 ---
-title: Documents.ConvertToGroupCanceled Event (Visio)
+title: Documents.ConvertToGroupCanceled event (Visio)
 keywords: vis_sdr.chm10619370
 f1_keywords:
 - vis_sdr.chm10619370
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.ConvertToGroupCanceled Event (Visio)
+# Documents.ConvertToGroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelConvertToGroup** event.
 

@@ -1,5 +1,5 @@
 ---
-title: DataConnection.Application Property (Visio)
+title: DataConnection.Application property (Visio)
 keywords: vis_sdr.chm16513090
 f1_keywords:
 - vis_sdr.chm16513090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataConnection.Application Property (Visio)
+# DataConnection.Application property (Visio)
 
 Returns the instance of Microsoft Visio associated with a  **DataConnection** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Drop Method (Visio)
+title: Document.Drop method (Visio)
 keywords: vis_sdr.chm10516235
 f1_keywords:
 - vis_sdr.chm10516235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Drop Method (Visio)
+# Document.Drop method (Visio)
 
 Creates a new  **Master** object by dropping an object onto a receiving object such as a stencil or document, or the **Masters** or **MasterShortcuts** collection.
 

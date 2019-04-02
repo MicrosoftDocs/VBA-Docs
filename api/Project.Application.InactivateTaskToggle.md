@@ -1,5 +1,5 @@
 ---
-title: Application.InactivateTaskToggle Method (Project)
+title: Application.InactivateTaskToggle method (Project)
 keywords: vbapj.chm91
 f1_keywords:
 - vbapj.chm91
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.InactivateTaskToggle Method (Project)
+# Application.InactivateTaskToggle method (Project)
 
 Toggles the state of a task between inactive and active.
 

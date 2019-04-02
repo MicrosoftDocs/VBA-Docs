@@ -1,5 +1,5 @@
 ---
-title: Styles.Document Property (Visio)
+title: Styles.Document property (Visio)
 keywords: vis_sdr.chm11513430
 f1_keywords:
 - vis_sdr.chm11513430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Styles.Document Property (Visio)
+# Styles.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

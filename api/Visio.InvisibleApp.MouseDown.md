@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MouseDown Event (Visio)
+title: InvisibleApp.MouseDown event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MouseDown
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MouseDown Event (Visio)
+# InvisibleApp.MouseDown event (Visio)
 
 Occurs when a mouse button is clicked.
 

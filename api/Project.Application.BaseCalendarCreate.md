@@ -1,5 +1,5 @@
 ---
-title: Application.BaseCalendarCreate Method (Project)
+title: Application.BaseCalendarCreate method (Project)
 keywords: vbapj.chm618
 f1_keywords:
 - vbapj.chm618
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BaseCalendarCreate Method (Project)
+# Application.BaseCalendarCreate method (Project)
 
 Creates a base calendar.
 

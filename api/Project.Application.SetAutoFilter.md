@@ -1,5 +1,5 @@
 ---
-title: Application.SetAutoFilter Method (Project)
+title: Application.SetAutoFilter method (Project)
 keywords: vbapj.chm2166
 f1_keywords:
 - vbapj.chm2166
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetAutoFilter Method (Project)
+# Application.SetAutoFilter method (Project)
 
 Sets the criteria for an AutoFilter for a specified field in a sheet view.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Document Property (Visio)
+title: Shape.Document property (Visio)
 keywords: vis_sdr.chm11213430
 f1_keywords:
 - vis_sdr.chm11213430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Document Property (Visio)
+# Shape.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

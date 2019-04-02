@@ -1,5 +1,5 @@
 ---
-title: Application.SaveSheetSelection Method (Project)
+title: Application.SaveSheetSelection method (Project)
 keywords: vbapj.chm2095
 f1_keywords:
 - vbapj.chm2095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SaveSheetSelection Method (Project)
+# Application.SaveSheetSelection method (Project)
 
 Saves row and column information for a selected sheet view.
 

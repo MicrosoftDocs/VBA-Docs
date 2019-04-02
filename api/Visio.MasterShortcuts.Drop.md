@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.Drop Method (Visio)
+title: MasterShortcuts.Drop method (Visio)
 keywords: vis_sdr.chm15916235
 f1_keywords:
 - vis_sdr.chm15916235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts.Drop Method (Visio)
+# MasterShortcuts.Drop method (Visio)
 
 Creates a new **Master** object by dropping an object onto a receiving object such as a stencil or document, or the **Masters** or **MasterShortcuts** collection.
 

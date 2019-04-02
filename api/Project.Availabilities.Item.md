@@ -1,5 +1,5 @@
 ---
-title: Availabilities.Item Property (Project)
+title: Availabilities.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Availabilities.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Availabilities.Item Property (Project)
+# Availabilities.Item property (Project)
 
 Gets a single  **Availability** object from the **Availabilities** collection. Read-only **Availability**.
 

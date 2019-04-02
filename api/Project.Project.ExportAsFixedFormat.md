@@ -1,5 +1,5 @@
 ---
-title: Project.ExportAsFixedFormat Method (Project)
+title: Project.ExportAsFixedFormat method (Project)
 keywords: vbapj.chm132843
 f1_keywords:
 - vbapj.chm132843
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ExportAsFixedFormat Method (Project)
+# Project.ExportAsFixedFormat method (Project)
 
 Exports the active project as a document in a custom PDF or XPS format.
 

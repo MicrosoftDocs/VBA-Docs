@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.AddFromConnectionFile Method (Visio)
+title: DataRecordsets.AddFromConnectionFile method (Visio)
 keywords: vis_sdr.chm16360275
 f1_keywords:
 - vis_sdr.chm16360275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.AddFromConnectionFile Method (Visio)
+# DataRecordsets.AddFromConnectionFile method (Visio)
 
 Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecordsets](Visio.DataRecordsets.md)** collection by using the connection and query information contained in an Office Data Connection (ODC) file to connect to and retrieve data from an OLEDB or ODBC data source.
 

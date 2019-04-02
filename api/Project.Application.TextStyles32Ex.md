@@ -1,5 +1,5 @@
 ---
-title: Application.TextStyles32Ex Method (Project)
+title: Application.TextStyles32Ex method (Project)
 keywords: vbapj.chm2150
 f1_keywords:
 - vbapj.chm2150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TextStyles32Ex Method (Project)
+# Application.TextStyles32Ex method (Project)
 
 Sets the text styles for tasks and resources in the active view, where colors can be hexadecimal RGB values.
 

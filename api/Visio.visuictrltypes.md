@@ -1,5 +1,5 @@
 ---
-title: VisUICtrlTypes Enumeration (Visio)
+title: VisUICtrlTypes enumeration (Visio)
 keywords: vis_sdr.chm70180
 f1_keywords:
 - vis_sdr.chm70180
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUICtrlTypes Enumeration (Visio)
+# VisUICtrlTypes enumeration (Visio)
 
 Constants that describe control types, used in conjuction with the  **CntrlType** property of the **Menu**, **MenuItem**, and **ToolbarItem** objects.
 

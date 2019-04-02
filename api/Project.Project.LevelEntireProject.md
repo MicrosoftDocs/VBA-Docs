@@ -1,5 +1,5 @@
 ---
-title: Project.LevelEntireProject Property (Project)
+title: Project.LevelEntireProject property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.LevelEntireProject
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.LevelEntireProject Property (Project)
+# Project.LevelEntireProject property (Project)
 
  **True** if all resources in the project are leveled. **False** if only overallocated resources within specified dates are leveled. Read/write **Boolean**.
 

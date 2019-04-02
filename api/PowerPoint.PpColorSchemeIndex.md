@@ -1,5 +1,5 @@
 ---
-title: PpColorSchemeIndex Enumeration (PowerPoint)
+title: PpColorSchemeIndex enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpColorSchemeIndex
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpColorSchemeIndex Enumeration (PowerPoint)
+# PpColorSchemeIndex enumeration (PowerPoint)
 
 Specifies the color in the applied color scheme that is associated with the specified object. 
 

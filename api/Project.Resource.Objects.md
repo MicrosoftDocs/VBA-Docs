@@ -1,5 +1,5 @@
 ---
-title: Resource.Objects Property (Project)
+title: Resource.Objects property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Objects
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Objects Property (Project)
+# Resource.Objects property (Project)
 
 Gets the number of OLE objects contained within a  **Resource** object. Any objects inserted in the Notes field of a resource are not included in the count. Read-only **Long**.
 

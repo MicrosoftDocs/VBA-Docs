@@ -1,5 +1,5 @@
 ---
-title: Assignment.ResourceType Property (Project)
+title: Assignment.ResourceType property (Project)
 keywords: vbapj.chm132577
 f1_keywords:
 - vbapj.chm132577
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ResourceType Property (Project)
+# Assignment.ResourceType property (Project)
 
 Gets the type of resource for the assignment. Read-only  **PjResourceTypes**.
 

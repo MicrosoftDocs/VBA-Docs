@@ -1,5 +1,5 @@
 ---
-title: Filters.Item Property (Project)
+title: Filters.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Filters.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Filters.Item Property (Project)
+# Filters.Item property (Project)
 
 Gets a single  **Filter** object from the **Filters** collection. Read-only **Filter**.
 

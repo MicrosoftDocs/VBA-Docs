@@ -1,5 +1,5 @@
 ---
-title: Chart.DisplayBlanksAs Property (Project)
+title: Chart.DisplayBlanksAs property (Project)
 ms.prod: project-server
 ms.assetid: 241fcca1-b736-799f-9f53-17751622e1e6
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.DisplayBlanksAs Property (Project)
+# Chart.DisplayBlanksAs property (Project)
 Gets or sets the way that blank cells are plotted on a chart. Can be one of the  **Office.XlDisplayBlanksAs** constants. Read/write **Long**.
 
 ## Syntax

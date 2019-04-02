@@ -1,5 +1,5 @@
 ---
-title: Project.AndMoveRemaining Property (Project)
+title: Project.AndMoveRemaining property (Project)
 keywords: vbapj.chm131077
 f1_keywords:
 - vbapj.chm131077
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.AndMoveRemaining Property (Project)
+# Project.AndMoveRemaining property (Project)
 
  **True** if the remaining work on a task that is scheduled after the status date is moved to start at the status date. Read/write **Boolean**.
 

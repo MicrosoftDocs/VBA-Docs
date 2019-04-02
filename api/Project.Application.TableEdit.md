@@ -1,5 +1,5 @@
 ---
-title: Application.TableEdit Method (Project)
+title: Application.TableEdit method (Project)
 keywords: vbapj.chm403
 f1_keywords:
 - vbapj.chm403
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TableEdit Method (Project)
+# Application.TableEdit method (Project)
 
 Creates, edits, or copies a table.
 

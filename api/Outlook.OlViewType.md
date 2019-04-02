@@ -1,5 +1,5 @@
 ---
-title: OlViewType Enumeration (Outlook)
+title: OlViewType enumeration (Outlook)
 keywords: vbaol11.chm3096
 f1_keywords:
 - vbaol11.chm3096
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlViewType Enumeration (Outlook)
+# OlViewType enumeration (Outlook)
 
 Indicates the view object type.
 

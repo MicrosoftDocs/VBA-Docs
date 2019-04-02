@@ -1,5 +1,5 @@
 ---
-title: Project.WBSCodeGenerate Property (Project)
+title: Project.WBSCodeGenerate property (Project)
 keywords: vbapj.chm132814
 f1_keywords:
 - vbapj.chm132814
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.WBSCodeGenerate Property (Project)
+# Project.WBSCodeGenerate property (Project)
 
  **True** if a work breakdown structure (WBS) code is automatically generated for new tasks in the project. Read/write **Boolean**.
 

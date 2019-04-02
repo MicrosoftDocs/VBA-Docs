@@ -1,5 +1,5 @@
 ---
-title: PayRate.EffectiveDate Property (Project)
+title: PayRate.EffectiveDate property (Project)
 keywords: vbapj.chm131790
 f1_keywords:
 - vbapj.chm131790
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PayRate.EffectiveDate Property (Project)
+# PayRate.EffectiveDate property (Project)
 
 Gets the date a pay rate for a resource goes into effect. Read-only  **Variant**.
 

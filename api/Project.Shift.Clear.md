@@ -1,5 +1,5 @@
 ---
-title: Shift.Clear Method (Project)
+title: Shift.Clear method (Project)
 ms.prod: project-server
 api_name:
 - Project.Shift.Clear
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Shift.Clear Method (Project)
+# Shift.Clear method (Project)
 
 Clears the start and finish times of a work shift.
 

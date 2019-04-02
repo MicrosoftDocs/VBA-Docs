@@ -1,5 +1,5 @@
 ---
-title: Page.NameU Property (Visio)
+title: Page.NameU property (Visio)
 keywords: vis_sdr.chm10951985
 f1_keywords:
 - vis_sdr.chm10951985
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.NameU Property (Visio)
+# Page.NameU property (Visio)
 
 Specifies the universal name of a  **Page** object. Read/write.
 

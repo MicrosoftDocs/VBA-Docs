@@ -1,5 +1,5 @@
 ---
-title: Application.WindowSidepaneTaskChange Event (Project)
+title: Application.WindowSidepaneTaskChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowSidepaneTaskChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowSidepaneTaskChange Event (Project)
+# Application.WindowSidepaneTaskChange event (Project)
 
 Occurs when a user selects different items in the  **Next Steps and Related Activities** menu in the Project Guide.
 

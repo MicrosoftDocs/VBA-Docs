@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementProposedFinish Property (Project)
+title: Resource.EngagementProposedFinish property (Project)
 keywords: vbapj.chm131804
 f1_keywords:
 - vbapj.chm131804
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementProposedFinish Property (Project)
+# Resource.EngagementProposedFinish property (Project)
 
 Returns the proposed finish date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
 

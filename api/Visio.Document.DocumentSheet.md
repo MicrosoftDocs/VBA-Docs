@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentSheet Property (Visio)
+title: Document.DocumentSheet property (Visio)
 keywords: vis_sdr.chm10513440
 f1_keywords:
 - vis_sdr.chm10513440
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.DocumentSheet Property (Visio)
+# Document.DocumentSheet property (Visio)
 
 Returns a  **Shape** object whose cells represent properties of the document. Read-only.
 

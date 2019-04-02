@@ -1,5 +1,5 @@
 ---
-title: Application.WindowHandle32 Property (Visio)
+title: Application.WindowHandle32 property (Visio)
 keywords: vis_sdr.chm10014660
 f1_keywords:
 - vis_sdr.chm10014660
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowHandle32 Property (Visio)
+# Application.WindowHandle32 property (Visio)
 
 Returns the 32-bit handle of a Microsoft Visio window. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.CustomUI Property (Visio)
+title: Document.CustomUI property (Visio)
 keywords: vis_sdr.chm10562690
 f1_keywords:
 - vis_sdr.chm10562690
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.CustomUI Property (Visio)
+# Document.CustomUI property (Visio)
 
 Gets or sets the Ribbon XML string that is passed to the document to customize the Microsoft Office Fluent user interface. Read/write.
 

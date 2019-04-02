@@ -1,5 +1,5 @@
 ---
-title: Chart.ClearToMatchColorStyle Method (Project)
+title: Chart.ClearToMatchColorStyle method (Project)
 keywords: vbapj.chm131615
 f1_keywords:
 - vbapj.chm131615
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ClearToMatchColorStyle Method (Project)
+# Chart.ClearToMatchColorStyle method (Project)
 Clears the formatting of the chart colors and sets color formatting to automatic.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Master.PageSheet Property (Visio)
+title: Master.PageSheet property (Visio)
 keywords: vis_sdr.chm10714000
 f1_keywords:
 - vis_sdr.chm10714000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.PageSheet Property (Visio)
+# Master.PageSheet property (Visio)
 
 Returns the page sheet (an object that represents the ShapeSheet spreadsheet) of a master. Read-only.
 

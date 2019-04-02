@@ -1,5 +1,5 @@
 ---
-title: Menu.MDIWindowMenu Property (Visio)
+title: Menu.MDIWindowMenu property (Visio)
 keywords: vis_sdr.chm13113895
 f1_keywords:
 - vis_sdr.chm13113895
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menu.MDIWindowMenu Property (Visio)
+# Menu.MDIWindowMenu property (Visio)
 
 Determines whether this menu can be used by the MDI window manager to list the currently open MDI windows. Read/write.
 

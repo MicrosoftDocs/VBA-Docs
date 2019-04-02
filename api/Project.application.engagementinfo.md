@@ -1,5 +1,5 @@
 ---
-title: Application.EngagementInfo Method (Project)
+title: Application.EngagementInfo method (Project)
 keywords: vbapj.chm160
 f1_keywords:
 - vbapj.chm160
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EngagementInfo Method (Project)
+# Application.EngagementInfo method (Project)
 
 Displays the engagement information dialog box user interface for the  **Resource Plan** view. Introduced in Office 2016.
 
@@ -45,6 +45,6 @@ _expression_. `EngagementInfo`( _EngagementUniqueID_,  _EngagementUniqueID_,  _R
 ## See also
 
 
-[Application Object (Project)](Project.Application.md)
+[Application object (Project)](Project.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Assignment.ResourceRequestType Property (Project)
+title: Assignment.ResourceRequestType property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ResourceRequestType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ResourceRequestType Property (Project)
+# Assignment.ResourceRequestType property (Project)
 
 Gets or sets the type of resource request for the assignment. Read/write  **PjResourceRequestType**.
 

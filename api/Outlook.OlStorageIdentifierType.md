@@ -1,5 +1,5 @@
 ---
-title: OlStorageIdentifierType Enumeration (Outlook)
+title: OlStorageIdentifierType enumeration (Outlook)
 keywords: vbaol11.chm3111
 f1_keywords:
 - vbaol11.chm3111
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlStorageIdentifierType Enumeration (Outlook)
+# OlStorageIdentifierType enumeration (Outlook)
 
 Specifies the type of identifier for a  **[StorageItem](Outlook.StorageItem.md)** object.
 

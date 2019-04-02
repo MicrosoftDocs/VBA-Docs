@@ -1,5 +1,5 @@
 ---
-title: Application.BoxZoom Method (Project)
+title: Application.BoxZoom method (Project)
 keywords: vbapj.chm308
 f1_keywords:
 - vbapj.chm308
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxZoom Method (Project)
+# Application.BoxZoom method (Project)
 
 Zooms in to or out from the Network Diagram.
 

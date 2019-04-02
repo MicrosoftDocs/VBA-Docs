@@ -1,5 +1,5 @@
 ---
-title: Window.KeyPress Event (Visio)
+title: Window.KeyPress event (Visio)
 keywords: vis_sdr.chm11652310
 f1_keywords:
 - vis_sdr.chm11652310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.KeyPress Event (Visio)
+# Window.KeyPress event (Visio)
 
 Occurs when a keyboard key is pressed.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.SwapEnds Method (Visio)
+title: Shape.SwapEnds method (Visio)
 keywords: vis_sdr.chm11250895
 f1_keywords:
 - vis_sdr.chm11250895
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SwapEnds Method (Visio)
+# Shape.SwapEnds method (Visio)
 
 Swaps the begin and endpoints of a one-dimensional (1-D) shape.
 

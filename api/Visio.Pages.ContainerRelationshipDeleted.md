@@ -1,5 +1,5 @@
 ---
-title: Pages.ContainerRelationshipDeleted Event (Visio)
+title: Pages.ContainerRelationshipDeleted event (Visio)
 keywords: vis_sdr.chm11062070
 f1_keywords:
 - vis_sdr.chm11062070
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.ContainerRelationshipDeleted Event (Visio)
+# Pages.ContainerRelationshipDeleted event (Visio)
 
 Occurs when a container relationship is deleted from the document.
 

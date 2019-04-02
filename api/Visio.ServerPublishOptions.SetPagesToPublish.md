@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.SetPagesToPublish Method (Visio)
+title: ServerPublishOptions.SetPagesToPublish method (Visio)
 keywords: vis_sdr.chm17962375
 f1_keywords:
 - vis_sdr.chm17962375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.SetPagesToPublish Method (Visio)
+# ServerPublishOptions.SetPagesToPublish method (Visio)
 
 Specifies the pages to publish to a server.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShapeChanged Event (Visio)
+title: InvisibleApp.ShapeChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShapeChanged Event (Visio)
+# InvisibleApp.ShapeChanged event (Visio)
 
 Occurs after a property of a shape that is not stored in a cell is changed in a document.
 

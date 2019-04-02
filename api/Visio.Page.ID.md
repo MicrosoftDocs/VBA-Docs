@@ -1,5 +1,5 @@
 ---
-title: Page.ID Property (Visio)
+title: Page.ID property (Visio)
 keywords: vis_sdr.chm10913675
 f1_keywords:
 - vis_sdr.chm10913675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.ID Property (Visio)
+# Page.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 

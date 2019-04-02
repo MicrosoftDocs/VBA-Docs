@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.Type Property (Visio)
+title: GraphicItem.Type property (Visio)
 keywords: vis_sdr.chm16914595
 f1_keywords:
 - vis_sdr.chm16914595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.Type Property (Visio)
+# GraphicItem.Type property (Visio)
 
 Returns the type of the graphic item. Read-only.
 

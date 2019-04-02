@@ -1,5 +1,5 @@
 ---
-title: Application.OutlineShowTasks Method (Project)
+title: Application.OutlineShowTasks method (Project)
 keywords: vbapj.chm27
 f1_keywords:
 - vbapj.chm27
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OutlineShowTasks Method (Project)
+# Application.OutlineShowTasks method (Project)
 
 Expands an outline to show all tasks up to the specified level and collapses any levels below.
 

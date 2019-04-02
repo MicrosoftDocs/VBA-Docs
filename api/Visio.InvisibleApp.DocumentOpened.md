@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DocumentOpened Event (Visio)
+title: InvisibleApp.DocumentOpened event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DocumentOpened
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DocumentOpened Event (Visio)
+# InvisibleApp.DocumentOpened event (Visio)
 
 Occurs after a document is opened.
 

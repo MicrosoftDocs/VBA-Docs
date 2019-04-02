@@ -1,5 +1,5 @@
 ---
-title: Year Object (Project)
+title: Year object (Project)
 keywords: vbapj.chm131361
 f1_keywords:
 - vbapj.chm131361
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Year Object (Project)
+# Year object (Project)
 
 Represents a year in a project calendar. The  **Year** object is a member of the **[Years](Project.years.md)** collection.
  

@@ -1,5 +1,5 @@
 ---
-title: OlImportance Enumeration (Outlook)
+title: OlImportance enumeration (Outlook)
 keywords: vbaol11.chm3062
 f1_keywords:
 - vbaol11.chm3062
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlImportance Enumeration (Outlook)
+# OlImportance enumeration (Outlook)
 
 Specifies the level of importance for an item marked by the creator of the item.
 

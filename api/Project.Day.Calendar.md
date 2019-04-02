@@ -1,5 +1,5 @@
 ---
-title: Day.Calendar Property (Project)
+title: Day.Calendar property (Project)
 ms.prod: project-server
 api_name:
 - Project.Day.Calendar
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Day.Calendar Property (Project)
+# Day.Calendar property (Project)
 
 Gets a  **[Calendar](Project.Calendar.md)** object representing the calendar containing the **Day** object. Read-only **Calendar**.
 

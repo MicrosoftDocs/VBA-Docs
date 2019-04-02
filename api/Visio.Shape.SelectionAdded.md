@@ -1,5 +1,5 @@
 ---
-title: Shape.SelectionAdded Event (Visio)
+title: Shape.SelectionAdded event (Visio)
 keywords: vis_sdr.chm11219215
 f1_keywords:
 - vis_sdr.chm11219215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SelectionAdded Event (Visio)
+# Shape.SelectionAdded event (Visio)
 
 Occurs after one or more shapes are added to a document.
 

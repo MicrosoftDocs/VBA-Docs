@@ -1,5 +1,5 @@
 ---
-title: StartDriver.PredecessorDrivers Property (Project)
+title: StartDriver.PredecessorDrivers property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.PredecessorDrivers
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.PredecessorDrivers Property (Project)
+# StartDriver.PredecessorDrivers property (Project)
 
 Gets the  **[PredecessorDrivers](Project.predecessordrivers.md)** collection object for the task start driver. Read-only **PredecessorDrivers**.
 

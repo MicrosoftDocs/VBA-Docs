@@ -1,5 +1,5 @@
 ---
-title: Selection.ItemStatus Property (Visio)
+title: Selection.ItemStatus property (Visio)
 keywords: vis_sdr.chm11113780
 f1_keywords:
 - vis_sdr.chm11113780
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.ItemStatus Property (Visio)
+# Selection.ItemStatus property (Visio)
 
 Indicates if an item in a  **Selection** object is subselected, if the group to which it belongs is selected, or if it is the primary item. Read-only.
 

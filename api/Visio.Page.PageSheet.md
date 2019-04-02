@@ -1,5 +1,5 @@
 ---
-title: Page.PageSheet Property (Visio)
+title: Page.PageSheet property (Visio)
 keywords: vis_sdr.chm10914000
 f1_keywords:
 - vis_sdr.chm10914000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.PageSheet Property (Visio)
+# Page.PageSheet property (Visio)
 
 Returns the page sheet (an object that represents the ShapeSheet spreadsheet) of a page. Read-only.
 

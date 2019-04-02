@@ -1,5 +1,5 @@
 ---
-title: Application.Publish Method (Project)
+title: Application.Publish method (Project)
 keywords: vbapj.chm2278
 f1_keywords:
 - vbapj.chm2278
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Publish Method (Project)
+# Application.Publish method (Project)
 
 Sends message to the Project Server Queueing Service to publish the local project cache to Project Server, and optionally to the associated SharePoint site for the project workspace. Project Professional only. 
 

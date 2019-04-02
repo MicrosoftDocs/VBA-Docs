@@ -1,5 +1,5 @@
 ---
-title: Application.SelectRow Method (Project)
+title: Application.SelectRow method (Project)
 keywords: vbapj.chm2045
 f1_keywords:
 - vbapj.chm2045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectRow Method (Project)
+# Application.SelectRow method (Project)
 
 Selects one or more rows.
 

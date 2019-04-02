@@ -1,5 +1,5 @@
 ---
-title: UIObject.AccelTables Property (Visio)
+title: UIObject.AccelTables property (Visio)
 keywords: vis_sdr.chm14913005
 f1_keywords:
 - vis_sdr.chm14913005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UIObject.AccelTables Property (Visio)
+# UIObject.AccelTables property (Visio)
 
 Returns the  **AccelTables** collection of a **UIObject** object. Read-only.
 

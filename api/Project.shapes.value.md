@@ -1,5 +1,5 @@
 ---
-title: Shapes.Value Property (Project)
+title: Shapes.Value property (Project)
 ms.prod: project-server
 ms.assetid: f10fef14-baee-ddd3-fb39-81fef0bc132d
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Value Property (Project)
+# Shapes.Value property (Project)
 Gets an individual  **Shape** object in the **Shapes** collection. Read-only **Shape**.
 
 ## Syntax

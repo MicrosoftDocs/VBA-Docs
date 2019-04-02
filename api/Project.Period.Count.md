@@ -1,5 +1,5 @@
 ---
-title: Period.Count Property (Project)
+title: Period.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Period.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Period.Count Property (Project)
+# Period.Count property (Project)
 
 Gets the number of days in the  **Period** object. Read-only **Integer**.
 

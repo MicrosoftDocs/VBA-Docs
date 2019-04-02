@@ -1,5 +1,5 @@
 ---
-title: Characters Object (Visio)
+title: Characters object (Visio)
 keywords: vis_sdr.chm10050
 f1_keywords:
 - vis_sdr.chm10050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters Object (Visio)
+# Characters object (Visio)
 
 Represents a shape's text with the text fields expanded to the number of characters they display in a drawing window.
 

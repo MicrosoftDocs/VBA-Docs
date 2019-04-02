@@ -1,5 +1,5 @@
 ---
-title: Application.ImportOutlookTasks Method (Project)
+title: Application.ImportOutlookTasks method (Project)
 keywords: vbapj.chm2121
 f1_keywords:
 - vbapj.chm2121
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ImportOutlookTasks Method (Project)
+# Application.ImportOutlookTasks method (Project)
 
 Displays the  **Import Outlook Tasks** dialog box, which allows tasks to be imported from Microsoft Outlook.
 

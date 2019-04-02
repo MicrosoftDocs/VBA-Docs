@@ -1,5 +1,5 @@
 ---
-title: Chart Object (Project)
+title: Chart object (Project)
 ms.prod: project-server
 ms.assetid: 810d4ec1-69d2-c432-b9da-57042b783b85
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart Object (Project)
+# Chart object (Project)
 The  **Chart** object represents a chart on a report in Project.
 
 

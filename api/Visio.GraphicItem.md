@@ -1,5 +1,5 @@
 ---
-title: GraphicItem Object (Visio)
+title: GraphicItem object (Visio)
 keywords: vis_sdr.chm61035
 f1_keywords:
 - vis_sdr.chm61035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem Object (Visio)
+# GraphicItem object (Visio)
 
 Represents a single component part of a data graphic master (a  **[Master](Visio.Master.md)** object of type **visTypeDataGraphic**) that is responsible for a specific graphical adornment of the master.
 

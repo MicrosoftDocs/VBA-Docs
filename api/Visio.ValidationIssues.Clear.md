@@ -1,5 +1,5 @@
 ---
-title: ValidationIssues.Clear Method (Visio)
+title: ValidationIssues.Clear method (Visio)
 keywords: vis_sdr.chm18562410
 f1_keywords:
 - vis_sdr.chm18562410
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssues.Clear Method (Visio)
+# ValidationIssues.Clear method (Visio)
 
 Removes all  **[ValidationIssue](Visio.ValidationIssue.md)** objects from the **[ValidationRules](Visio.ValidationRules.md)** collection of the document.
 

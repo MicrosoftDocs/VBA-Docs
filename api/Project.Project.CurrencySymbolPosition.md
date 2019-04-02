@@ -1,5 +1,5 @@
 ---
-title: Project.CurrencySymbolPosition Property (Project)
+title: Project.CurrencySymbolPosition property (Project)
 keywords: vbapj.chm131698
 f1_keywords:
 - vbapj.chm131698
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrencySymbolPosition Property (Project)
+# Project.CurrencySymbolPosition property (Project)
 
 Gets or sets the location of the currency symbol. Read/write  **PjPlacement**.
 

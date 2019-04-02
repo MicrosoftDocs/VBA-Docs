@@ -1,5 +1,5 @@
 ---
-title: Task.BaselineFinish Property (Project)
+title: Task.BaselineFinish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.BaselineFinish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.BaselineFinish Property (Project)
+# Task.BaselineFinish property (Project)
 
 Gets or sets the baseline finish date of a  **Task**. Read/write **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: CalendarDrivers.Count Property (Project)
+title: CalendarDrivers.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.CalendarDrivers.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarDrivers.Count Property (Project)
+# CalendarDrivers.Count property (Project)
 
 Gets the number of items in the  **CalendarDrivers** collection. Read-only **Long**.
 

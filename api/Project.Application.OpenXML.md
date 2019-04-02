@@ -1,5 +1,5 @@
 ---
-title: Application.OpenXML Method (Project)
+title: Application.OpenXML method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.OpenXML
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OpenXML Method (Project)
+# Application.OpenXML method (Project)
 
 Opens a project from an XML string.
 

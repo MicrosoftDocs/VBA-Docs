@@ -1,5 +1,5 @@
 ---
-title: Report.Delete Method (Project)
+title: Report.Delete method (Project)
 keywords: vbapj.chm132549
 f1_keywords:
 - vbapj.chm132549
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Report.Delete Method (Project)
+# Report.Delete method (Project)
 Deletes the report.
 
 ## Syntax

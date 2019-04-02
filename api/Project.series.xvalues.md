@@ -1,5 +1,5 @@
 ---
-title: Series.XValues Property (Project)
+title: Series.XValues property (Project)
 ms.prod: project-server
 ms.assetid: 2d35482c-0e90-ec98-219c-bb0911921ee6
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Series.XValues Property (Project)
+# Series.XValues property (Project)
 Gets the horizontal (X) axis values for the data series on a chart. Read-only  **Variant**.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Characters.AddFieldEx Method (Visio)
+title: Characters.AddFieldEx method (Visio)
 keywords: vis_sdr.chm10251445
 f1_keywords:
 - vis_sdr.chm10251445
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.AddFieldEx Method (Visio)
+# Characters.AddFieldEx method (Visio)
 
 Replaces the text represented by a  **Characters** object with a new field of the category, code, format, language ID, and calendar ID you specify.
 

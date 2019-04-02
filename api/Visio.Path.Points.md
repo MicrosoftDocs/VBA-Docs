@@ -1,5 +1,5 @@
 ---
-title: Path.Points Method (Visio)
+title: Path.Points method (Visio)
 keywords: vis_sdr.chm15414090
 f1_keywords:
 - vis_sdr.chm15414090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Path.Points Method (Visio)
+# Path.Points method (Visio)
 
 Returns an array of points that defines a polyline that approximates a  **Path** or **Curve** object within a given tolerance.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.GetProjectServerSettingsEx Method (Project)
+title: Application.GetProjectServerSettingsEx method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.GetProjectServerSettingsEx
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GetProjectServerSettingsEx Method (Project)
+# Application.GetProjectServerSettingsEx method (Project)
 
 Returns global Project settings in a single XML string. You can obtain settings specific to the active project, or you can obtain settings specific to the current project manager by calling a server-side object.
 

@@ -1,5 +1,5 @@
 ---
-title: PbTableDirectionType Enumeration (Publisher)
+title: PbTableDirectionType enumeration (Publisher)
 keywords: vbapb10.chm65577
 f1_keywords:
 - vbapb10.chm65577
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbTableDirectionType Enumeration (Publisher)
+# PbTableDirectionType enumeration (Publisher)
 
 Represents whether text in a table is read from left to right or from right to left. 
 

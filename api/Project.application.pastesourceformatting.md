@@ -1,5 +1,5 @@
 ---
-title: Application.PasteSourceFormatting Method (Project)
+title: Application.PasteSourceFormatting method (Project)
 keywords: vbapj.chm139
 f1_keywords:
 - vbapj.chm139
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PasteSourceFormatting Method (Project)
+# Application.PasteSourceFormatting method (Project)
 Pastes a copy of a report or a shape, where the copy maintains the formatting of the source.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: VisGraphicPositionHorizontal Enumeration (Visio)
+title: VisGraphicPositionHorizontal enumeration (Visio)
 keywords: vis_sdr.chm70510
 f1_keywords:
 - vis_sdr.chm70510
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisGraphicPositionHorizontal Enumeration (Visio)
+# VisGraphicPositionHorizontal enumeration (Visio)
 
 Constants passed to and returned by the  **GraphicItem.HorizontalPosition** property. Used to determine the horizontal position of a graphic item relative to its container or to a shape.
 

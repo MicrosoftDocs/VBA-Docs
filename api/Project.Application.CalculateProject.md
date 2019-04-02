@@ -1,5 +1,5 @@
 ---
-title: Application.CalculateProject Method (Project)
+title: Application.CalculateProject method (Project)
 keywords: vbapj.chm2034
 f1_keywords:
 - vbapj.chm2034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalculateProject Method (Project)
+# Application.CalculateProject method (Project)
 
 Calculates the active project.
 

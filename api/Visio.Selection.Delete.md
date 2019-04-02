@@ -1,5 +1,5 @@
 ---
-title: Selection.Delete Method (Visio)
+title: Selection.Delete method (Visio)
 keywords: vis_sdr.chm11116165
 f1_keywords:
 - vis_sdr.chm11116165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Delete Method (Visio)
+# Selection.Delete method (Visio)
 
 Deletes an object or selection.
 

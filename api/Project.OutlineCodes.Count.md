@@ -1,5 +1,5 @@
 ---
-title: OutlineCodes.Count Property (Project)
+title: OutlineCodes.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCodes.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCodes.Count Property (Project)
+# OutlineCodes.Count property (Project)
 
 Gets the number of items in the  **OutlineCodes** collection. Read-only **Long**.
 

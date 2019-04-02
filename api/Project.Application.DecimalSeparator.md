@@ -1,5 +1,5 @@
 ---
-title: Application.DecimalSeparator Property (Project)
+title: Application.DecimalSeparator property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DecimalSeparator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DecimalSeparator Property (Project)
+# Application.DecimalSeparator property (Project)
 
 Gets the character that separates the whole and fractional parts of a number. Read-only  **String**.
 

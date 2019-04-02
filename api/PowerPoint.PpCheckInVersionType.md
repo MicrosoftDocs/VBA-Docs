@@ -1,5 +1,5 @@
 ---
-title: PpCheckInVersionType Enumeration (PowerPoint)
+title: PpCheckInVersionType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpCheckInVersionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpCheckInVersionType Enumeration (PowerPoint)
+# PpCheckInVersionType enumeration (PowerPoint)
 
 Constants that specify the type of version of the Microsoft PowerPoint file to be checked in, passed to the  **CheckInWithVersion** method of the **Presentation** object.
 

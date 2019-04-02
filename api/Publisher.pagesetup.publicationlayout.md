@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # PageSetup.PublicationLayout Property (Publisher)
 
-Returns or sets a  [PbPublicationLayout Enumeration (Publisher)](Publisher.pbpublicationlayout.md) constant that indicates the layout of a publication. Read/write.
+Returns or sets a  [PbPublicationLayout enumeration (Publisher)](Publisher.pbpublicationlayout.md) constant that indicates the layout of a publication. Read/write.
 
 
 ## Syntax

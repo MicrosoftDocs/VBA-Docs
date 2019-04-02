@@ -1,5 +1,5 @@
 ---
-title: Application.Message Method (Project)
+title: Application.Message method (Project)
 keywords: vbapj.chm2
 f1_keywords:
 - vbapj.chm2
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Message Method (Project)
+# Application.Message method (Project)
 
 Displays a message in a message box.
 

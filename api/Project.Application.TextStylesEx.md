@@ -1,5 +1,5 @@
 ---
-title: Application.TextStylesEx Method (Project)
+title: Application.TextStylesEx method (Project)
 keywords: vbapj.chm901
 f1_keywords:
 - vbapj.chm901
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TextStylesEx Method (Project)
+# Application.TextStylesEx method (Project)
 
 Sets the text styles for tasks and resources in the active view.
 

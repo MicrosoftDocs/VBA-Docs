@@ -1,5 +1,5 @@
 ---
-title: PjGanttBarLink Enumeration (Project)
+title: PjGanttBarLink enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjGanttBarLink
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjGanttBarLink Enumeration (Project)
+# PjGanttBarLink enumeration (Project)
 
 Contains constants that specify the type of Gantt bar links.
 

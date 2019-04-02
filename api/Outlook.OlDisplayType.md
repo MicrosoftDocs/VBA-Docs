@@ -1,5 +1,5 @@
 ---
-title: OlDisplayType Enumeration (Outlook)
+title: OlDisplayType enumeration (Outlook)
 keywords: vbaol11.chm3056
 f1_keywords:
 - vbaol11.chm3056
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlDisplayType Enumeration (Outlook)
+# OlDisplayType enumeration (Outlook)
 
 Describes the nature of the address.
 

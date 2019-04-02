@@ -1,5 +1,5 @@
 ---
-title: Fonts Object (Visio)
+title: Fonts object (Visio)
 keywords: vis_sdr.chm10105
 f1_keywords:
 - vis_sdr.chm10105
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts Object (Visio)
+# Fonts object (Visio)
 
 Includes a  **Font** object for each font applied to text in a document or available on the system.
 

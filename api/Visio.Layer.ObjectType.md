@@ -1,5 +1,5 @@
 ---
-title: Layer.ObjectType Property (Visio)
+title: Layer.ObjectType property (Visio)
 keywords: vis_sdr.chm11813960
 f1_keywords:
 - vis_sdr.chm11813960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.ObjectType Property (Visio)
+# Layer.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

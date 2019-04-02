@@ -1,5 +1,5 @@
 ---
-title: Documents.Add Method (Visio)
+title: Documents.Add method (Visio)
 keywords: vis_sdr.chm10616660
 f1_keywords:
 - vis_sdr.chm10616660
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.Add Method (Visio)
+# Documents.Add method (Visio)
 
 Adds a new  **Document** object to the **Documents** collection.
 

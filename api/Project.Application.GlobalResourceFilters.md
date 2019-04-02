@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalResourceFilters Property (Project)
+title: Application.GlobalResourceFilters property (Project)
 keywords: vbapj.chm132296
 f1_keywords:
 - vbapj.chm132296
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalResourceFilters Property (Project)
+# Application.GlobalResourceFilters property (Project)
 
 Gets or sets a  **[Filters](Project.Filter.md)** collection representing the resource filters of the Global.mpt file. Read/write **Filters**.
 

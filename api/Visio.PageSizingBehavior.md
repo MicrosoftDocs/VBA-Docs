@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.PageSizingBehavior Property (Visio)
+title: DrawingControl.PageSizingBehavior property (Visio)
 keywords: vis_sdr.chm60138
 f1_keywords:
 - vis_sdr.chm60138
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.PageSizingBehavior Property (Visio)
+# DrawingControl.PageSizingBehavior property (Visio)
 
 Specifies how drawing pages and shapes in the Microsoft Visio Drawing Control react when the control is resized, usually when an existing drawing file is loaded into the control by means of the  **Src** property. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.LinkToTaskList Method (Project)
+title: Application.LinkToTaskList method (Project)
 keywords: vbapj.chm143
 f1_keywords:
 - vbapj.chm143
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LinkToTaskList Method (Project)
+# Application.LinkToTaskList method (Project)
 Links to a SharePoint tasks list.
 
 ## Syntax

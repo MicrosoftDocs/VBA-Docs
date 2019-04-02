@@ -1,5 +1,5 @@
 ---
-title: PbMailMergeDataFieldType Enumeration (Publisher)
+title: PbMailMergeDataFieldType enumeration (Publisher)
 keywords: vbapb10.chm65627
 f1_keywords:
 - vbapb10.chm65627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbMailMergeDataFieldType Enumeration (Publisher)
+# PbMailMergeDataFieldType enumeration (Publisher)
 
 Represents the type of data contained in the data field.
 

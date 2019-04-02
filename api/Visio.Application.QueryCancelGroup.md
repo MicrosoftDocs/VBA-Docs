@@ -1,5 +1,5 @@
 ---
-title: Application.QueryCancelGroup Event (Visio)
+title: Application.QueryCancelGroup event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelGroup
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.QueryCancelGroup Event (Visio)
+# Application.QueryCancelGroup event (Visio)
 
 Occurs before the application groups a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

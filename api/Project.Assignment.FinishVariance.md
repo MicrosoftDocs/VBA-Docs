@@ -1,5 +1,5 @@
 ---
-title: Assignment.FinishVariance Property (Project)
+title: Assignment.FinishVariance property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.FinishVariance
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.FinishVariance Property (Project)
+# Assignment.FinishVariance property (Project)
 
 Gets the variance (in minutes) between the baseline finish date and the finish date of an  **Assignment**. Read-only **Variant**.
 

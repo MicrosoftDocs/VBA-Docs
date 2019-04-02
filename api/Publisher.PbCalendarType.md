@@ -1,5 +1,5 @@
 ---
-title: PbCalendarType Enumeration (Publisher)
+title: PbCalendarType enumeration (Publisher)
 keywords: vbapb10.chm65605
 f1_keywords:
 - vbapb10.chm65605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbCalendarType Enumeration (Publisher)
+# PbCalendarType enumeration (Publisher)
 
 The calendar type to use when displaying the date or time.
 

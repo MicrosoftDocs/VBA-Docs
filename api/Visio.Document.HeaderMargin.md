@@ -1,5 +1,5 @@
 ---
-title: Document.HeaderMargin Property (Visio)
+title: Document.HeaderMargin property (Visio)
 keywords: vis_sdr.chm10550650
 f1_keywords:
 - vis_sdr.chm10550650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.HeaderMargin Property (Visio)
+# Document.HeaderMargin property (Visio)
 
 Gets or sets the margin of a document's header. Read/write.
 

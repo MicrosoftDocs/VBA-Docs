@@ -1,5 +1,5 @@
 ---
-title: AccelItem.Key Property (Visio)
+title: AccelItem.Key property (Visio)
 keywords: vis_sdr.chm14513790
 f1_keywords:
 - vis_sdr.chm14513790
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelItem.Key Property (Visio)
+# AccelItem.Key property (Visio)
 
 Gets or sets the ASCII key code value for an accelerator. Read/write.
 

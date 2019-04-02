@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeResourceChange Event (Project)
+title: Application.ProjectBeforeResourceChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeResourceChange Event (Project)
+# Application.ProjectBeforeResourceChange event (Project)
 
 Occurs before the user changes the value of a resource field.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.OvertimeRate Property (Project)
+title: Resource.OvertimeRate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.OvertimeRate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.OvertimeRate Property (Project)
+# Resource.OvertimeRate property (Project)
 
 Gets or sets the overtime rate of a resource. Read/write  **Variant**.
 

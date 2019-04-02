@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeMasterDelete Event (Visio)
+title: InvisibleApp.BeforeMasterDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeMasterDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeMasterDelete Event (Visio)
+# InvisibleApp.BeforeMasterDelete event (Visio)
 
 Occurs before a master is deleted from a document.
 

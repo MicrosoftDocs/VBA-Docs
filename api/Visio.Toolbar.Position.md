@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Position Property (Visio)
+title: Toolbar.Position property (Visio)
 keywords: vis_sdr.chm13714095
 f1_keywords:
 - vis_sdr.chm13714095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.Position Property (Visio)
+# Toolbar.Position property (Visio)
 
 Gets or sets the position of an object. Read/write.
 

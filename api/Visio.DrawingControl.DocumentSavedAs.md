@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.DocumentSavedAs Event (Visio)
+title: DrawingControl.DocumentSavedAs event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.DocumentSavedAs
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.DocumentSavedAs Event (Visio)
+# DrawingControl.DocumentSavedAs event (Visio)
 
 Occurs after a document is saved by using the  **Save As** command.
 

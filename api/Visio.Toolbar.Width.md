@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Width Property (Visio)
+title: Toolbar.Width property (Visio)
 keywords: vis_sdr.chm13714655
 f1_keywords:
 - vis_sdr.chm13714655
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.Width Property (Visio)
+# Toolbar.Width property (Visio)
 
 Gets the width of an object in pixels. Read/write.
 

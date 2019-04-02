@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.lParam Property (Visio)
+title: MSGWrap.lParam property (Visio)
 keywords: vis_sdr.chm16150705
 f1_keywords:
 - vis_sdr.chm16150705
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap.lParam Property (Visio)
+# MSGWrap.lParam property (Visio)
 
 Gets or sets the  **lParam** member of the **MSG** structure being wrapped. Read/write.
 

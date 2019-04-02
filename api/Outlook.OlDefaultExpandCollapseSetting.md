@@ -1,5 +1,5 @@
 ---
-title: OlDefaultExpandCollapseSetting Enumeration (Outlook)
+title: OlDefaultExpandCollapseSetting enumeration (Outlook)
 keywords: vbaol11.chm3121
 f1_keywords:
 - vbaol11.chm3121
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlDefaultExpandCollapseSetting Enumeration (Outlook)
+# OlDefaultExpandCollapseSetting enumeration (Outlook)
 
 Specifies the expand/collapse default value specified in the  **[DefaultExpandCollapseSetting](Outlook.TableView.DefaultExpandCollapseSetting.md)** property of the **[TableView](Outlook.TableView.md)** and **[TimelineView](Outlook.TimelineView.md)** objects.
 

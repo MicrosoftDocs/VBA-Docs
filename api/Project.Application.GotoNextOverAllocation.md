@@ -1,5 +1,5 @@
 ---
-title: Application.GotoNextOverAllocation Method (Project)
+title: Application.GotoNextOverAllocation method (Project)
 keywords: vbapj.chm214
 f1_keywords:
 - vbapj.chm214
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GotoNextOverAllocation Method (Project)
+# Application.GotoNextOverAllocation method (Project)
 
 Scrolls a timescale view to display the next overallocated resource.
 

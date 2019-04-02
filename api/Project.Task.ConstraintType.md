@@ -1,5 +1,5 @@
 ---
-title: Task.ConstraintType Property (Project)
+title: Task.ConstraintType property (Project)
 keywords: vbapj.chm131667
 f1_keywords:
 - vbapj.chm131667
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ConstraintType Property (Project)
+# Task.ConstraintType property (Project)
 
 Gets or sets a constraint type for a task. Read/write  **Variant**.
 

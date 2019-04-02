@@ -1,5 +1,5 @@
 ---
-title: Task.ResponsePending Property (Project)
+title: Task.ResponsePending property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ResponsePending
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ResponsePending Property (Project)
+# Task.ResponsePending property (Project)
 
  **True** if a response has not been received for at least one TeamAssign message. Read-only **Boolean**.
 

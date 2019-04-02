@@ -1,5 +1,5 @@
 ---
-title: Application.GanttChartWizard Method (Project)
+title: Application.GanttChartWizard method (Project)
 keywords: vbapj.chm2500
 f1_keywords:
 - vbapj.chm2500
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttChartWizard Method (Project)
+# Application.GanttChartWizard method (Project)
 
 Starts the GanttChartWizard.
 

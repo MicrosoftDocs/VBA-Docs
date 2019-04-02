@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarBarStylesEdit Method (Project)
+title: Application.CalendarBarStylesEdit method (Project)
 keywords: vbapj.chm2339
 f1_keywords:
 - vbapj.chm2339
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarBarStylesEdit Method (Project)
+# Application.CalendarBarStylesEdit method (Project)
 
 Changes the style of the specified type of bar in the Calendar view.
 

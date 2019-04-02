@@ -1,5 +1,5 @@
 ---
-title: Document.GlueSettings Property (Visio)
+title: Document.GlueSettings property (Visio)
 keywords: vis_sdr.chm10550625
 f1_keywords:
 - vis_sdr.chm10550625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.GlueSettings Property (Visio)
+# Document.GlueSettings property (Visio)
 
 Determines the objects that shapes glue to when glue is enabled in the document. Read/write.
 

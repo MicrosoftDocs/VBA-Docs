@@ -1,5 +1,5 @@
 ---
-title: Curve.Closed Property (Visio)
+title: Curve.Closed property (Visio)
 keywords: vis_sdr.chm15513250
 f1_keywords:
 - vis_sdr.chm15513250
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Curve.Closed Property (Visio)
+# Curve.Closed property (Visio)
 
 Determines if an object is closed (that is, if its begin point coincides with its endpoint). Read-only.
 

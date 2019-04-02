@@ -1,5 +1,5 @@
 ---
-title: Application.StatusBar Property (Project)
+title: Application.StatusBar property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.StatusBar
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.StatusBar Property (Project)
+# Application.StatusBar property (Project)
 
 Gets or sets text in the status bar. Read/write  **Variant**.
 

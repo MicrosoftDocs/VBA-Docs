@@ -1,5 +1,5 @@
 ---
-title: PbCommandButtonType Enumeration (Publisher)
+title: PbCommandButtonType enumeration (Publisher)
 keywords: vbapb10.chm65593
 f1_keywords:
 - vbapb10.chm65593
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbCommandButtonType Enumeration (Publisher)
+# PbCommandButtonType enumeration (Publisher)
 
 Indicates whether a Web command button will clear or submit form data.
 

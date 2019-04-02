@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.SelectionChanged Event (Visio)
+title: DrawingControl.SelectionChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.SelectionChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.SelectionChanged Event (Visio)
+# DrawingControl.SelectionChanged event (Visio)
 
 Occurs after a set of shapes selected in a window changes.
 

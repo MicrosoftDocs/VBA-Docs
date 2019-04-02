@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforePrint Event (Project)
+title: Application.ProjectBeforePrint event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforePrint
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforePrint Event (Project)
+# Application.ProjectBeforePrint event (Project)
 
 Occurs before a project is printed.
 

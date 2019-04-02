@@ -1,5 +1,5 @@
 ---
-title: Shape.ConvertToGroup Method (Visio)
+title: Shape.ConvertToGroup method (Visio)
 keywords: vis_sdr.chm11216140
 f1_keywords:
 - vis_sdr.chm11216140
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ConvertToGroup Method (Visio)
+# Shape.ConvertToGroup method (Visio)
 
 Converts a selection or an object from another application (a linked or embedded object) to a group.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.SetActiveCell Method (Project)
+title: Application.SetActiveCell method (Project)
 keywords: vbapj.chm6
 f1_keywords:
 - vbapj.chm6
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetActiveCell Method (Project)
+# Application.SetActiveCell method (Project)
 
 Sets the value of the active cell.
 

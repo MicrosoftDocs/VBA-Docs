@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarBestFitWeekHeight Method (Project)
+title: Application.CalendarBestFitWeekHeight method (Project)
 keywords: vbapj.chm2327
 f1_keywords:
 - vbapj.chm2327
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarBestFitWeekHeight Method (Project)
+# Application.CalendarBestFitWeekHeight method (Project)
 
 Changes the height of the active calendar box to display all task bars.
 

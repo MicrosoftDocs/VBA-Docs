@@ -1,5 +1,5 @@
 ---
-title: Task.ResourceInitials Property (Project)
+title: Task.ResourceInitials property (Project)
 keywords: vbapj.chm132569
 f1_keywords:
 - vbapj.chm132569
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ResourceInitials Property (Project)
+# Task.ResourceInitials property (Project)
 
 Gets the initials of the resources assigned to a task, separated by the list separator. Read-only  **String**.
 

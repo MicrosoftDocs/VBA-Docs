@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentOpened Event (Visio)
+title: Application.DocumentOpened event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.DocumentOpened
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentOpened Event (Visio)
+# Application.DocumentOpened event (Visio)
 
 Occurs after a document is opened.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages.Stat Property (Visio)
+title: Pages.Stat property (Visio)
 keywords: vis_sdr.chm11014420
 f1_keywords:
 - vis_sdr.chm11014420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Stat Property (Visio)
+# Pages.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

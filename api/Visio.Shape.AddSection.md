@@ -1,5 +1,5 @@
 ---
-title: Shape.AddSection Method (Visio)
+title: Shape.AddSection method (Visio)
 keywords: vis_sdr.chm11216060
 f1_keywords:
 - vis_sdr.chm11216060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.AddSection Method (Visio)
+# Shape.AddSection method (Visio)
 
 Adds a new section to a ShapeSheet spreadsheet.
 

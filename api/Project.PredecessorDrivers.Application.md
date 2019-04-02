@@ -1,5 +1,5 @@
 ---
-title: PredecessorDrivers.Application Property (Project)
+title: PredecessorDrivers.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.PredecessorDrivers.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PredecessorDrivers.Application Property (Project)
+# PredecessorDrivers.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

@@ -1,5 +1,5 @@
 ---
-title: Characters.FieldCategory Property (Visio)
+title: Characters.FieldCategory property (Visio)
 keywords: vis_sdr.chm10213500
 f1_keywords:
 - vis_sdr.chm10213500
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.FieldCategory Property (Visio)
+# Characters.FieldCategory property (Visio)
 
 Returns the field category for a field represented by an object. Read-only.
 

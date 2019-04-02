@@ -1,5 +1,5 @@
 ---
-title: Document.SetCustomMenus Method (Visio)
+title: Document.SetCustomMenus method (Visio)
 keywords: vis_sdr.chm10516560
 f1_keywords:
 - vis_sdr.chm10516560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SetCustomMenus Method (Visio)
+# Document.SetCustomMenus method (Visio)
 
 Replaces the current built-in or custom menus of an application or document.
 

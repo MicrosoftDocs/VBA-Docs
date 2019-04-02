@@ -1,5 +1,5 @@
 ---
-title: Task.Warning Property (Project)
+title: Task.Warning property (Project)
 keywords: vbapj.chm132818
 f1_keywords:
 - vbapj.chm132818
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Warning Property (Project)
+# Task.Warning property (Project)
 
 Gets the active warning for a task. Read-only  **Variant**.
 

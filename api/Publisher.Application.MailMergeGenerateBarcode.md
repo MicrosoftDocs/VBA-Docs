@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeGenerateBarcode Event (Publisher)
+title: Application.MailMergeGenerateBarcode event (Publisher)
 keywords: vbapb10.chm268435489
 f1_keywords:
 - vbapb10.chm268435489
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeGenerateBarcode Event (Publisher)
+# Application.MailMergeGenerateBarcode event (Publisher)
 
 Occurs when Microsoft Publisher requires data to generate barcodes in a mail-merge publication, in particular when the mail-merge recipient list changes.
 

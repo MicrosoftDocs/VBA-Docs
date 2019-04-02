@@ -1,5 +1,5 @@
 ---
-title: Selection.DataGraphic Property (Visio)
+title: Selection.DataGraphic property (Visio)
 keywords: vis_sdr.chm11160205
 f1_keywords:
 - vis_sdr.chm11160205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.DataGraphic Property (Visio)
+# Selection.DataGraphic property (Visio)
 
 Gets the data graphic master (**Master** object of type **visTypeDataGraphic**) of the primary shape in the selection. Sets the data graphic master of all shapes in the selection. Read/write.
 

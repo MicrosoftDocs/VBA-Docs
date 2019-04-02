@@ -1,5 +1,5 @@
 ---
-title: Application.ListSeparator Property (Project)
+title: Application.ListSeparator property (Project)
 keywords: vbapj.chm132385
 f1_keywords:
 - vbapj.chm132385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ListSeparator Property (Project)
+# Application.ListSeparator property (Project)
 
 Gets or sets the character that separates items in lists. Read/write  **String**.
 

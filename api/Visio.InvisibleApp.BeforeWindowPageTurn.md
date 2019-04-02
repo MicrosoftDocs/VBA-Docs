@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeWindowPageTurn Event (Visio)
+title: InvisibleApp.BeforeWindowPageTurn event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeWindowPageTurn
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeWindowPageTurn Event (Visio)
+# InvisibleApp.BeforeWindowPageTurn event (Visio)
 
 Occurs before a window is about to show a different page.
 

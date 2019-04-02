@@ -1,5 +1,5 @@
 ---
-title: Cell.ContainingPageID Property (Visio)
+title: Cell.ContainingPageID property (Visio)
 keywords: vis_sdr.chm10151695
 f1_keywords:
 - vis_sdr.chm10151695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.ContainingPageID Property (Visio)
+# Cell.ContainingPageID property (Visio)
 
 Returns the ID of the page that contains an object. Read-only.
 

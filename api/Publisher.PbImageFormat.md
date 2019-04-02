@@ -1,5 +1,5 @@
 ---
-title: PbImageFormat Enumeration (Publisher)
+title: PbImageFormat enumeration (Publisher)
 keywords: vbapb10.chm65626
 f1_keywords:
 - vbapb10.chm65626
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbImageFormat Enumeration (Publisher)
+# PbImageFormat enumeration (Publisher)
 
 Represents the image format of a picture as determined by Microsoft® Windows® Graphics Device Interface (GDI+).
 

@@ -1,5 +1,5 @@
 ---
-title: Application.MacroShowVba Method (Project)
+title: Application.MacroShowVba method (Project)
 keywords: vbapj.chm2245
 f1_keywords:
 - vbapj.chm2245
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MacroShowVba Method (Project)
+# Application.MacroShowVba method (Project)
 
 Starts the Visual Basic Editor.
 

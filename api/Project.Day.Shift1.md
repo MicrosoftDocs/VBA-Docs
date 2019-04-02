@@ -1,5 +1,5 @@
 ---
-title: Day.Shift1 Property (Project)
+title: Day.Shift1 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Day.Shift1
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Day.Shift1 Property (Project)
+# Day.Shift1 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the first work shift in a day. Read-only **Shift**.
 

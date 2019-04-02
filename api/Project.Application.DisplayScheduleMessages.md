@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayScheduleMessages Property (Project)
+title: Application.DisplayScheduleMessages property (Project)
 keywords: vbapj.chm131750
 f1_keywords:
 - vbapj.chm131750
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayScheduleMessages Property (Project)
+# Application.DisplayScheduleMessages property (Project)
 
  **True** if messages appear when scheduling problems occur. Read/write **Boolean**.
 

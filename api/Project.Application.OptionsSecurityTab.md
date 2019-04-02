@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsSecurityTab Method (Project)
+title: Application.OptionsSecurityTab method (Project)
 keywords: vbapj.chm2504
 f1_keywords:
 - vbapj.chm2504
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsSecurityTab Method (Project)
+# Application.OptionsSecurityTab method (Project)
 
 Displays a specific tab of the  **Trust Center** dialog box in Project.
 

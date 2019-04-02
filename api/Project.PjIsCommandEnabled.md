@@ -1,5 +1,5 @@
 ---
-title: PjIsCommandEnabled Enumeration (Project)
+title: PjIsCommandEnabled enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjIsCommandEnabled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjIsCommandEnabled Enumeration (Project)
+# PjIsCommandEnabled enumeration (Project)
 
 Contains constants that specify whether a command is enabled.
 

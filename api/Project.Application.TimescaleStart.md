@@ -1,5 +1,5 @@
 ---
-title: Application.TimescaleStart Property (Project)
+title: Application.TimescaleStart property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.TimescaleStart
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimescaleStart Property (Project)
+# Application.TimescaleStart property (Project)
 
 Gets the date that the timescale in the current view starts. Read-only  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.ResourceGroups Property (Project)
+title: Project.ResourceGroups property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ResourceGroups
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ResourceGroups Property (Project)
+# Project.ResourceGroups property (Project)
 
 Gets a  **[ResourceGroups](Project.resourcegroups(object).md)** collection that contains all the resource-based group definitions in the project. Read-only **ResourceGroups**.
 

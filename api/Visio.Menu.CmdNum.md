@@ -1,5 +1,5 @@
 ---
-title: Menu.CmdNum Property (Visio)
+title: Menu.CmdNum property (Visio)
 keywords: vis_sdr.chm13113255
 f1_keywords:
 - vis_sdr.chm13113255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menu.CmdNum Property (Visio)
+# Menu.CmdNum property (Visio)
 
 Gets or sets the command ID associated with a menu. Read/write.
 

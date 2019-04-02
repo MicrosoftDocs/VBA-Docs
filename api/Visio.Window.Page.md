@@ -1,5 +1,5 @@
 ---
-title: Window.Page Property (Visio)
+title: Window.Page property (Visio)
 keywords: vis_sdr.chm11651205
 f1_keywords:
 - vis_sdr.chm11651205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Page Property (Visio)
+# Window.Page property (Visio)
 
 Gets or sets the page that is displayed in a window. Read/write.
 

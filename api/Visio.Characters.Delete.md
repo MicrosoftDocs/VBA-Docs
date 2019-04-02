@@ -1,5 +1,5 @@
 ---
-title: Characters.Delete Method (Visio)
+title: Characters.Delete method (Visio)
 keywords: vis_sdr.chm10251425
 f1_keywords:
 - vis_sdr.chm10251425
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.Delete Method (Visio)
+# Characters.Delete method (Visio)
 
 Deletes an object or selection.
 

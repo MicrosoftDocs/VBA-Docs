@@ -1,5 +1,5 @@
 ---
-title: PbListSeparator Enumeration (Publisher)
+title: PbListSeparator enumeration (Publisher)
 keywords: vbapb10.chm65616
 f1_keywords:
 - vbapb10.chm65616
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbListSeparator Enumeration (Publisher)
+# PbListSeparator enumeration (Publisher)
 
 Constants that represent the list separator of the specified paragraphs, passed to and returned by the  **ParagraphFormat.ListNumberSeparator** property.
 

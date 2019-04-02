@@ -1,5 +1,5 @@
 ---
-title: OlMeetingResponse Enumeration (Outlook)
+title: OlMeetingResponse enumeration (Outlook)
 keywords: vbaol11.chm3069
 f1_keywords:
 - vbaol11.chm3069
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlMeetingResponse Enumeration (Outlook)
+# OlMeetingResponse enumeration (Outlook)
 
 Indicates the response to a meeting request.
 

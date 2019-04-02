@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineExport Method (Project)
+title: Application.TimelineExport method (Project)
 keywords: vbapj.chm66
 f1_keywords:
 - vbapj.chm66
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimelineExport Method (Project)
+# Application.TimelineExport method (Project)
 
 Copies an image of the active Timeline view to the Clipboard, for pasting into other applications.
 

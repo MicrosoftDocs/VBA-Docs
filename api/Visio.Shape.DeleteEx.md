@@ -1,5 +1,5 @@
 ---
-title: Shape.DeleteEx Method (Visio)
+title: Shape.DeleteEx method (Visio)
 keywords: vis_sdr.chm11262730
 f1_keywords:
 - vis_sdr.chm11262730
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DeleteEx Method (Visio)
+# Shape.DeleteEx method (Visio)
 
 Deletes the additional shapes that are associated with the shape, such as connectors and unselected container members, when the shape is deleted.
 

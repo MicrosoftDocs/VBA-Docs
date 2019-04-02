@@ -1,5 +1,5 @@
 ---
-title: Application.LookUpTableAddEx Method (Project)
+title: Application.LookUpTableAddEx method (Project)
 keywords: vbapj.chm635
 f1_keywords:
 - vbapj.chm635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LookUpTableAddEx Method (Project)
+# Application.LookUpTableAddEx method (Project)
 
 Appends items to the lookup table of a custom outline code definition.
 

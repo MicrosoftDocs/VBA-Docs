@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Name Property (Project)
+title: ShapeRange.Name property (Project)
 ms.prod: project-server
 ms.assetid: aff8caaf-a2bc-b530-69e5-7212ba771acd
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Name Property (Project)
+# ShapeRange.Name property (Project)
 Gets or sets the name of the shape range. Read-write  **String**.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Selection.LinkToData Method (Visio)
+title: Selection.LinkToData method (Visio)
 keywords: vis_sdr.chm11160190
 f1_keywords:
 - vis_sdr.chm11160190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.LinkToData Method (Visio)
+# Selection.LinkToData method (Visio)
 
 Links a selection of shapes to a single data row in a data recordset.
 

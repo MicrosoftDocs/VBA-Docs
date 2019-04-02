@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ContainerStyle Property (Visio)
+title: ContainerProperties.ContainerStyle property (Visio)
 keywords: vis_sdr.chm17651150
 f1_keywords:
 - vis_sdr.chm17651150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.ContainerStyle Property (Visio)
+# ContainerProperties.ContainerStyle property (Visio)
 
 Determines the visual appearance of the container. Read/write.
 

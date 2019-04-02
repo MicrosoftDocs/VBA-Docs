@@ -1,5 +1,5 @@
 ---
-title: MenuSet.Left Property (Visio)
+title: MenuSet.Left property (Visio)
 keywords: vis_sdr.chm13313825
 f1_keywords:
 - vis_sdr.chm13313825
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSet.Left Property (Visio)
+# MenuSet.Left property (Visio)
 
 Gets the distance in pixels between the left edge of the object and the left side of the docking area. Sets the distance in pixels between the left edge of an object and the left edge of the screen. Read/write.
 

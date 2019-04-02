@@ -1,5 +1,5 @@
 ---
-title: Window.MergePosition Property (Visio)
+title: Window.MergePosition property (Visio)
 keywords: vis_sdr.chm11650725
 f1_keywords:
 - vis_sdr.chm11650725
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.MergePosition Property (Visio)
+# Window.MergePosition property (Visio)
 
 Specifies the left-to-right tab position of a merged anchored window. Read/write.
 

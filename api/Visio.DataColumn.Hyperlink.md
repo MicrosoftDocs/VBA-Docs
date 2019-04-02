@@ -1,5 +1,5 @@
 ---
-title: DataColumn.Hyperlink Property (Visio)
+title: DataColumn.Hyperlink property (Visio)
 keywords: vis_sdr.chm16760410
 f1_keywords:
 - vis_sdr.chm16760410
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumn.Hyperlink Property (Visio)
+# DataColumn.Hyperlink property (Visio)
 
 Gets or sets whether the data column creates a hyperlink in a shape when the shape is linked to data. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotBy Property (Project)
+title: Chart.PlotBy property (Project)
 keywords: vbapj.chm131635
 f1_keywords:
 - vbapj.chm131635
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.PlotBy Property (Project)
+# Chart.PlotBy property (Project)
 Gets or sets the way columns or rows are used as data series on the chart. Can be one of the following  **Office.XlRowCol** constants: **xlColumns** or **xlRows**. Read/write  **Long**.
 
 ## Syntax

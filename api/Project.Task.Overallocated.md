@@ -1,5 +1,5 @@
 ---
-title: Task.Overallocated Property (Project)
+title: Task.Overallocated property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Overallocated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Overallocated Property (Project)
+# Task.Overallocated property (Project)
 
  **True** if any of the assignments for a task is overallocated. Read-only **Boolean**.
 

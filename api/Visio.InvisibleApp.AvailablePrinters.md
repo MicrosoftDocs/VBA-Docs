@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AvailablePrinters Property (Visio)
+title: InvisibleApp.AvailablePrinters property (Visio)
 keywords: vis_sdr.chm17550510
 f1_keywords:
 - vis_sdr.chm17550510
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.AvailablePrinters Property (Visio)
+# InvisibleApp.AvailablePrinters property (Visio)
 
 Returns a list of installed printers. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MenuSet Object (Visio)
+title: MenuSet object (Visio)
 keywords: vis_sdr.chm10170
 f1_keywords:
 - vis_sdr.chm10170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSet Object (Visio)
+# MenuSet object (Visio)
 
 Represents an entire menu set used by a Microsoft Visio window context.
 

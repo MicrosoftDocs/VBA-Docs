@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.IsValid Property (Project)
+title: LookupTableEntry.IsValid property (Project)
 keywords: vbapj.chm132393
 f1_keywords:
 - vbapj.chm132393
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry.IsValid Property (Project)
+# LookupTableEntry.IsValid property (Project)
 
  **True** if the lookup table entry conforms to the code mask. Read-only **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: PjLayoutScheme Enumeration (Project)
+title: PjLayoutScheme enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLayoutScheme
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLayoutScheme Enumeration (Project)
+# PjLayoutScheme enumeration (Project)
 
 Contains constants that specify the positioning scheme to use for display.
 

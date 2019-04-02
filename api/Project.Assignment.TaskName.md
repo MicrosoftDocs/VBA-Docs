@@ -1,5 +1,5 @@
 ---
-title: Assignment.TaskName Property (Project)
+title: Assignment.TaskName property (Project)
 keywords: vbapj.chm132710
 f1_keywords:
 - vbapj.chm132710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.TaskName Property (Project)
+# Assignment.TaskName property (Project)
 
 Gets or sets the name of the task in the assignment. Read/write  **String**.
 

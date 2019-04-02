@@ -1,5 +1,5 @@
 ---
-title: VisProtection Enumeration (Visio)
+title: VisProtection enumeration (Visio)
 keywords: vis_sdr.chm70335
 f1_keywords:
 - vis_sdr.chm70335
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisProtection Enumeration (Visio)
+# VisProtection enumeration (Visio)
 
 Flags to be passed to or returned by the  **Document.Protection** property.
 

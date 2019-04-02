@@ -1,5 +1,5 @@
 ---
-title: Layer.Stat Property (Visio)
+title: Layer.Stat property (Visio)
 keywords: vis_sdr.chm11814420
 f1_keywords:
 - vis_sdr.chm11814420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.Stat Property (Visio)
+# Layer.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

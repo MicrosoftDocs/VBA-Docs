@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Frame Property (Visio)
+title: Hyperlink.Frame property (Visio)
 keywords: vis_sdr.chm15013570
 f1_keywords:
 - vis_sdr.chm15013570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Frame Property (Visio)
+# Hyperlink.Frame property (Visio)
 
 Gets or sets the name of an HTML frame in the shape's  **Hyperlink** object. Read/write.
 

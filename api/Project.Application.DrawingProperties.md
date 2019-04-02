@@ -1,5 +1,5 @@
 ---
-title: Application.DrawingProperties Method (Project)
+title: Application.DrawingProperties method (Project)
 keywords: vbapj.chm2307
 f1_keywords:
 - vbapj.chm2307
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DrawingProperties Method (Project)
+# Application.DrawingProperties method (Project)
 
 Displays the  **Format Drawing** dialog box, which prompts the user to customize the active drawing object.
 

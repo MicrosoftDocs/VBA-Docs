@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeAssignmentNew2 Event (Project)
+title: Application.ProjectBeforeAssignmentNew2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentNew2
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeAssignmentNew2 Event (Project)
+# Application.ProjectBeforeAssignmentNew2 event (Project)
 
 Occurs before one or more assignments are created. Uses the  **EventInfo** object parameter.
 

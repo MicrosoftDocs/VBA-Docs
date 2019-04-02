@@ -1,5 +1,5 @@
 ---
-title: Page Object (Visio)
+title: Page object (Visio)
 keywords: vis_sdr.chm10190
 f1_keywords:
 - vis_sdr.chm10190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page Object (Visio)
+# Page object (Visio)
 
 Represents a drawing page, which can be either a foreground page or a background page.
 

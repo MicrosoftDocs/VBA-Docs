@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceAssignmentDialog Method (Project)
+title: Application.ResourceAssignmentDialog method (Project)
 keywords: vbapj.chm943
 f1_keywords:
 - vbapj.chm943
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceAssignmentDialog Method (Project)
+# Application.ResourceAssignmentDialog method (Project)
 
 Displays the  **Assign Resources** dialog box, expands or collapses the **Resource list options**, and specifies fields and filters.
 

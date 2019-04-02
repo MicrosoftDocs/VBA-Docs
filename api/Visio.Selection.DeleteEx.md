@@ -1,5 +1,5 @@
 ---
-title: Selection.DeleteEx Method (Visio)
+title: Selection.DeleteEx method (Visio)
 keywords: vis_sdr.chm11162730
 f1_keywords:
 - vis_sdr.chm11162730
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.DeleteEx Method (Visio)
+# Selection.DeleteEx method (Visio)
 
 Deletes additional shapes associated with the selection, such as connectors and unselected container members, when the selection is deleted.
 

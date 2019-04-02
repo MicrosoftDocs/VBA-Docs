@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.Index Property (Project)
+title: TaskDependency.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependency.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.Index Property (Project)
+# TaskDependency.Index property (Project)
 
 Gets the index of a  **TaskDependency** object in the **TaskDependencies** containing object. Read-only **Long**.
 

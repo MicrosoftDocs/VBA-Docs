@@ -1,5 +1,5 @@
 ---
-title: WorkWeek.Delete Method (Project)
+title: WorkWeek.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeek.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeek.Delete Method (Project)
+# WorkWeek.Delete method (Project)
 
 Deletes the  **WorkWeek** object from a **WorkWeeks** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.GraphicItems Property (Visio)
+title: Master.GraphicItems property (Visio)
 keywords: vis_sdr.chm10760135
 f1_keywords:
 - vis_sdr.chm10760135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.GraphicItems Property (Visio)
+# Master.GraphicItems property (Visio)
 
 Returns the  **GraphicItems** collection that the master contains. Read-only.
 

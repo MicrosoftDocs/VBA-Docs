@@ -1,5 +1,5 @@
 ---
-title: Application.UpdateProject Method (Project)
+title: Application.UpdateProject method (Project)
 keywords: vbapj.chm611
 f1_keywords:
 - vbapj.chm611
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UpdateProject Method (Project)
+# Application.UpdateProject method (Project)
 
 Updates progress information and reschedules work for tasks in a project.
 

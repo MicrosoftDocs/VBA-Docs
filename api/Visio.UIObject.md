@@ -1,5 +1,5 @@
 ---
-title: UIObject Object (Visio)
+title: UIObject object (Visio)
 keywords: vis_sdr.chm10300
 f1_keywords:
 - vis_sdr.chm10300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UIObject Object (Visio)
+# UIObject object (Visio)
 
 Represents a set of Microsoft Visio menus, toolbars, and accelerators, from either the built-in Visio user interface or a customized version of it. 
 

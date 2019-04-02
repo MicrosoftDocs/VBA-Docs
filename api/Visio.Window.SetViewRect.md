@@ -1,5 +1,5 @@
 ---
-title: Window.SetViewRect Method (Visio)
+title: Window.SetViewRect method (Visio)
 keywords: vis_sdr.chm11616585
 f1_keywords:
 - vis_sdr.chm11616585
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.SetViewRect Method (Visio)
+# Window.SetViewRect method (Visio)
 
 Sets the page coordinates of a window's borders by adjusting the zoom level and center scroll position.
 

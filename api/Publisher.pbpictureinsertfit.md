@@ -1,5 +1,5 @@
 ---
-title: pbPictureInsertFit Enumeration (Publisher)
+title: pbPictureInsertFit enumeration (Publisher)
 keywords: vbapb10.chm65641
 f1_keywords:
 - vbapb10.chm65641
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# pbPictureInsertFit Enumeration (Publisher)
+# pbPictureInsertFit enumeration (Publisher)
 
 Insert introduction here.
 

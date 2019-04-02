@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarWeekHeadingsEx Method (Project)
+title: Application.CalendarWeekHeadingsEx method (Project)
 keywords: vbapj.chm2341
 f1_keywords:
 - vbapj.chm2341
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarWeekHeadingsEx Method (Project)
+# Application.CalendarWeekHeadingsEx method (Project)
 
 Customizes headings in the Calendar.
 

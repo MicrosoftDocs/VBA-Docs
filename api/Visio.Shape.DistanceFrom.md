@@ -1,5 +1,5 @@
 ---
-title: Shape.DistanceFrom Property (Visio)
+title: Shape.DistanceFrom property (Visio)
 keywords: vis_sdr.chm11213420
 f1_keywords:
 - vis_sdr.chm11213420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DistanceFrom Property (Visio)
+# Shape.DistanceFrom property (Visio)
 
 Returns the distance from one shape to another, measured between the closest points on the two shapes. Both shapes must be on the same page or in the same master. Read-only.
 

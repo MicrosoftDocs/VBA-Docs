@@ -1,5 +1,5 @@
 ---
-title: Project.TrackingMethod Property (Project)
+title: Project.TrackingMethod property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.TrackingMethod
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.TrackingMethod Property (Project)
+# Project.TrackingMethod property (Project)
 
 Gets or sets the tracking method used by Project Server for the project. Read/write  **PjProjectServerTrackingMethod**.
 

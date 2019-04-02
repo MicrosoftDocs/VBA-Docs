@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalBaseCalendars Property (Project)
+title: Application.GlobalBaseCalendars property (Project)
 keywords: vbapj.chm132295
 f1_keywords:
 - vbapj.chm132295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalBaseCalendars Property (Project)
+# Application.GlobalBaseCalendars property (Project)
 
 Gets or sets a  **[Calendars](Project.Calendar.md)** collection representing the base calendars of the Global.mpt file. Read/write **Calendars**.
 

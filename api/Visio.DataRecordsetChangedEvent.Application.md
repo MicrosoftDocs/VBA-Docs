@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.Application Property (Visio)
+title: DataRecordsetChangedEvent.Application property (Visio)
 keywords: vis_sdr.chm17213090
 f1_keywords:
 - vis_sdr.chm17213090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.Application Property (Visio)
+# DataRecordsetChangedEvent.Application property (Visio)
 
 Returns the instance of Microsoft Visio associated with a  **DataRecordsetChangedEvent** object. Read-only.
 

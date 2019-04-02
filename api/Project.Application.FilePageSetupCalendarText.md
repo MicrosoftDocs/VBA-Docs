@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupCalendarText Method (Project)
+title: Application.FilePageSetupCalendarText method (Project)
 keywords: vbapj.chm2371
 f1_keywords:
 - vbapj.chm2371
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupCalendarText Method (Project)
+# Application.FilePageSetupCalendarText method (Project)
 
 Formats the text of calendar views for printing.
 

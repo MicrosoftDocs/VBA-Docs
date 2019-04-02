@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectSummaryInfoEx Method (Project)
+title: Application.ProjectSummaryInfoEx method (Project)
 keywords: vbapj.chm634
 f1_keywords:
 - vbapj.chm634
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectSummaryInfoEx Method (Project)
+# Application.ProjectSummaryInfoEx method (Project)
 
 Returns information about project summary, including the Project Utilization type and Project Utilization date information. Introduced in Office 2016.
 

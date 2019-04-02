@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Build Property (Visio)
+title: InvisibleApp.Build property (Visio)
 keywords: vis_sdr.chm17550515
 f1_keywords:
 - vis_sdr.chm17550515
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Build Property (Visio)
+# InvisibleApp.Build property (Visio)
 
 Returns the build number of the running instance. Read-only.
 

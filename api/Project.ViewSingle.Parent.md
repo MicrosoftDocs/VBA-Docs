@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Parent Property (Project)
+title: ViewSingle.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Parent Property (Project)
+# ViewSingle.Parent property (Project)
 
 Gets the parent of the  **ViewSingle** object. Read-only **Project**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeWizardStateChange Event (Word)
+title: Application.MailMergeWizardStateChange event (Word)
 keywords: vbawd10.chm4000023
 f1_keywords:
 - vbawd10.chm4000023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeWizardStateChange Event (Word)
+# Application.MailMergeWizardStateChange event (Word)
 
 Occurs when a user changes from a specified step to a specified step in the Mail Merge Wizard.
 

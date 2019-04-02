@@ -1,5 +1,5 @@
 ---
-title: VisSpatialRelationCodes Enumeration (Visio)
+title: VisSpatialRelationCodes enumeration (Visio)
 keywords: vis_sdr.chm70225
 f1_keywords:
 - vis_sdr.chm70225
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSpatialRelationCodes Enumeration (Visio)
+# VisSpatialRelationCodes enumeration (Visio)
 
 Codes for spatial relationships between shapes to be passed to the  **Shape.SpatialRelation** property.
 

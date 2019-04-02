@@ -1,5 +1,5 @@
 ---
-title: Documents.OpenEx Method (Visio)
+title: Documents.OpenEx method (Visio)
 keywords: vis_sdr.chm10616405
 f1_keywords:
 - vis_sdr.chm10616405
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.OpenEx Method (Visio)
+# Documents.OpenEx method (Visio)
 
 Opens an existing Microsoft Visio file, using extra information passed in as an argument.
 

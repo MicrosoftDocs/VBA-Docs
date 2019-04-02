@@ -1,5 +1,5 @@
 ---
-title: Assignment.Text4 Property (Project)
+title: Assignment.Text4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Text4
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Text4 Property (Project)
+# Assignment.Text4 property (Project)
 
 Gets or sets the value of a local Text custom field for the assignment. Read/write  **String**.
 

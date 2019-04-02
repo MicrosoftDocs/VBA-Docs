@@ -1,5 +1,5 @@
 ---
-title: Shape.Drop Method (Visio)
+title: Shape.Drop method (Visio)
 keywords: vis_sdr.chm11216235
 f1_keywords:
 - vis_sdr.chm11216235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Drop Method (Visio)
+# Shape.Drop method (Visio)
 
 Creates one or more new  **Shape** objects by dropping an object onto a receiving object such as a master, drawing page, shape, or group.
 

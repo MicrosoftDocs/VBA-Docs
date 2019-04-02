@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowSize Event (Word)
+title: Application.ProtectedViewWindowSize event (Word)
 ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindowSize
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowSize Event (Word)
+# Application.ProtectedViewWindowSize event (Word)
 
 
 

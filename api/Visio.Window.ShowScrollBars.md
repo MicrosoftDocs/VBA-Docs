@@ -1,5 +1,5 @@
 ---
-title: Window.ShowScrollBars Property (Visio)
+title: Window.ShowScrollBars property (Visio)
 keywords: vis_sdr.chm11650845
 f1_keywords:
 - vis_sdr.chm11650845
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.ShowScrollBars Property (Visio)
+# Window.ShowScrollBars property (Visio)
 
 Determines whether scroll bars are shown in the drawing window. Read/write.
 

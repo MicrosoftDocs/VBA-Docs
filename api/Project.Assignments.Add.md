@@ -1,5 +1,5 @@
 ---
-title: Assignments.Add Method (Project)
+title: Assignments.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignments.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignments.Add Method (Project)
+# Assignments.Add method (Project)
 
 Adds an  **Assignment** object to an **Assignments** collection.
 

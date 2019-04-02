@@ -1,5 +1,5 @@
 ---
-title: AccelItem.Shift Property (Visio)
+title: AccelItem.Shift property (Visio)
 keywords: vis_sdr.chm14514340
 f1_keywords:
 - vis_sdr.chm14514340
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelItem.Shift Property (Visio)
+# AccelItem.Shift property (Visio)
 
 Determines whether the SHIFT key is a modifier for an  **AccelItem** object. Read/write.
 

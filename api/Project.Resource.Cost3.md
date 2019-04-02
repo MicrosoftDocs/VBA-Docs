@@ -1,5 +1,5 @@
 ---
-title: Resource.Cost3 Property (Project)
+title: Resource.Cost3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Cost3
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Cost3 Property (Project)
+# Resource.Cost3 property (Project)
 
 Gets or sets the value of the  **Cost3** custom field for the resource. Read/write **Variant**.
 

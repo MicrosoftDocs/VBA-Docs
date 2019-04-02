@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectNamePrefix Property (Project)
+title: Project.ProjectNamePrefix property (Project)
 keywords: vbapj.chm132523
 f1_keywords:
 - vbapj.chm132523
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectNamePrefix Property (Project)
+# Project.ProjectNamePrefix property (Project)
 
 Gets the prefix of the project name of the specified project. Read-only  **String**.
 

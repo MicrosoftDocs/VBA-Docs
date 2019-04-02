@@ -1,5 +1,5 @@
 ---
-title: PpEntryEffect Enumeration (PowerPoint)
+title: PpEntryEffect enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpEntryEffect
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpEntryEffect Enumeration (PowerPoint)
+# PpEntryEffect enumeration (PowerPoint)
 
 Specifies the special effect applied to the animation for the specified shape or to the specified slide transition.
 

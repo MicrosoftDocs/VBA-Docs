@@ -1,5 +1,5 @@
 ---
-title: Document.Protection Property (Visio)
+title: Document.Protection property (Visio)
 keywords: vis_sdr.chm10550785
 f1_keywords:
 - vis_sdr.chm10550785
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Protection Property (Visio)
+# Document.Protection property (Visio)
 
 Determines how a document is protected from user customization. Read/write.
 

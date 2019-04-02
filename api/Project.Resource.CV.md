@@ -1,5 +1,5 @@
 ---
-title: Resource.CV Property (Project)
+title: Resource.CV property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.CV
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.CV Property (Project)
+# Resource.CV property (Project)
 
 Gets the cost variance for a  **Resource**. Read-only **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultFromInt Property (Visio)
+title: Cell.ResultFromInt property (Visio)
 keywords: vis_sdr.chm10114205
 f1_keywords:
 - vis_sdr.chm10114205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.ResultFromInt Property (Visio)
+# Cell.ResultFromInt property (Visio)
 
 Sets the value of a cell to an integer value. Read/write.
 

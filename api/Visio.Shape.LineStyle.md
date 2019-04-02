@@ -1,5 +1,5 @@
 ---
-title: Shape.LineStyle Property (Visio)
+title: Shape.LineStyle property (Visio)
 keywords: vis_sdr.chm11213845
 f1_keywords:
 - vis_sdr.chm11213845
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.LineStyle Property (Visio)
+# Shape.LineStyle property (Visio)
 
 Specifies the line style for an object. Read/write.
 

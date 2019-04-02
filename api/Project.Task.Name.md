@@ -1,5 +1,5 @@
 ---
-title: Task.Name Property (Project)
+title: Task.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Name Property (Project)
+# Task.Name property (Project)
 
 Gets or sets the name of a  **Task** object. Read/write **String**.
 

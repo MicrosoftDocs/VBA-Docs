@@ -1,5 +1,5 @@
 ---
-title: Application.FileOpenOrCreate Method (Project)
+title: Application.FileOpenOrCreate method (Project)
 keywords: vbapj.chm137
 f1_keywords:
 - vbapj.chm137
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileOpenOrCreate Method (Project)
+# Application.FileOpenOrCreate method (Project)
 Opens or creates a project file from a project site on SharePoint, by using the URL of the .MPP file that represents the project site.
 
 ## Syntax

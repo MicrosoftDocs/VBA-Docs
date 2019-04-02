@@ -1,5 +1,5 @@
 ---
-title: VisRuleSetFlags Enumeration (Visio)
+title: VisRuleSetFlags enumeration (Visio)
 keywords: vis_sdr.chm70680
 f1_keywords:
 - vis_sdr.chm70680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRuleSetFlags Enumeration (Visio)
+# VisRuleSetFlags enumeration (Visio)
 
 Specifies constants that define special rule-set behaviors; passed to and returned by the  **[ValidationRuleSet.RuleSetFlags](Visio.ValidationRuleSet.RuleSetFlags.md)** property.
 

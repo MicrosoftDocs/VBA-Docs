@@ -1,5 +1,5 @@
 ---
-title: Event.SetFilterObjects Method (Visio)
+title: Event.SetFilterObjects method (Visio)
 keywords: vis_sdr.chm12650835
 f1_keywords:
 - vis_sdr.chm12650835
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.SetFilterObjects Method (Visio)
+# Event.SetFilterObjects method (Visio)
 
 Specifies an array of object types and a  **True** or **False** value indicating how to filter events for each object.
 

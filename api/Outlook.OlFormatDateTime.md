@@ -1,5 +1,5 @@
 ---
-title: OlFormatDateTime Enumeration (Outlook)
+title: OlFormatDateTime enumeration (Outlook)
 keywords: vbaol11.chm3133
 f1_keywords:
 - vbaol11.chm3133
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormatDateTime Enumeration (Outlook)
+# OlFormatDateTime enumeration (Outlook)
 
 Indicates the format used to display date/time Outlook item properties.
 

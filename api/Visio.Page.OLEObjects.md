@@ -1,5 +1,5 @@
 ---
-title: Page.OLEObjects Property (Visio)
+title: Page.OLEObjects property (Visio)
 keywords: vis_sdr.chm10913965
 f1_keywords:
 - vis_sdr.chm10913965
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.OLEObjects Property (Visio)
+# Page.OLEObjects property (Visio)
 
 Returns the  **OLEObjects** collection of a page. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValues.Item Property (Project)
+title: TimeScaleValues.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValues.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValues.Item Property (Project)
+# TimeScaleValues.Item property (Project)
 
 Gets a single  **TimeScaleValue** object from the **TimeScaleValues** collection. Read-only **TimeScaleValue**.
 

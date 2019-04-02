@@ -1,5 +1,5 @@
 ---
-title: Application.ResetTPStyle Method (Project)
+title: Application.ResetTPStyle method (Project)
 keywords: vbapj.chm1508
 f1_keywords:
 - vbapj.chm1508
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResetTPStyle Method (Project)
+# Application.ResetTPStyle method (Project)
 
 Resets the specified Team Planner style to the default values.
 

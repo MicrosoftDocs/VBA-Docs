@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Parent Property (Project)
+title: SeriesCollection.Parent property (Project)
 ms.prod: project-server
 ms.assetid: de776459-31a9-f26a-dc66-1e169afc90fe
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection.Parent Property (Project)
+# SeriesCollection.Parent property (Project)
 Gets the parent object of the  **SeriesCollection** object. Read-only **Object**.
 
 ## Syntax

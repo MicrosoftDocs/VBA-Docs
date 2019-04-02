@@ -1,5 +1,5 @@
 ---
-title: Table.LockFirstColumn Property (Project)
+title: Table.LockFirstColumn property (Project)
 keywords: vbapj.chm132694
 f1_keywords:
 - vbapj.chm132694
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.LockFirstColumn Property (Project)
+# Table.LockFirstColumn property (Project)
 
  **True** if the first column of a table is locked. **False** if the first column is editable. Read/write **Boolean**.
 

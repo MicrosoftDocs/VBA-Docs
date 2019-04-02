@@ -1,5 +1,5 @@
 ---
-title: PpFrameColors Enumeration (PowerPoint)
+title: PpFrameColors enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpFrameColors
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpFrameColors Enumeration (PowerPoint)
+# PpFrameColors enumeration (PowerPoint)
 
 Specifies the text color for the outline pane and the background color for the outline and slide panes for Web presentations.
 

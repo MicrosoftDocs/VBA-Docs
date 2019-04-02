@@ -1,5 +1,5 @@
 ---
-title: Application.CustomizeField Method (Project)
+title: Application.CustomizeField method (Project)
 keywords: vbapj.chm2379
 f1_keywords:
 - vbapj.chm2379
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomizeField Method (Project)
+# Application.CustomizeField method (Project)
 
 Displays the  **Customize Fields** dialog box.
 

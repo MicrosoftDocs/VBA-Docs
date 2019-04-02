@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesFormat Method (Project)
+title: Application.DetailStylesFormat method (Project)
 keywords: vbapj.chm962
 f1_keywords:
 - vbapj.chm962
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DetailStylesFormat Method (Project)
+# Application.DetailStylesFormat method (Project)
 
 Sets the format of timescaled data fields in a Resource Usage view or Task Usage view.
 

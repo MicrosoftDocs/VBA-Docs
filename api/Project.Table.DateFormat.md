@@ -1,5 +1,5 @@
 ---
-title: Table.DateFormat Property (Project)
+title: Table.DateFormat property (Project)
 keywords: vbapj.chm132681
 f1_keywords:
 - vbapj.chm132681
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.DateFormat Property (Project)
+# Table.DateFormat property (Project)
 
 Gets or sets the date format of the table. Read/write  **PjDateFormat**.
 

@@ -1,5 +1,5 @@
 ---
-title: PbDateTimeFormat Enumeration (Publisher)
+title: PbDateTimeFormat enumeration (Publisher)
 keywords: vbapb10.chm65560
 f1_keywords:
 - vbapb10.chm65560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbDateTimeFormat Enumeration (Publisher)
+# PbDateTimeFormat enumeration (Publisher)
 
 A format for the date and time.
 

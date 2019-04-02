@@ -1,5 +1,5 @@
 ---
-title: Assignment.Notes Property (Project)
+title: Assignment.Notes property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Notes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Notes Property (Project)
+# Assignment.Notes property (Project)
 
 Gets or sets the notes for an assignment. Read/write  **String**.
 

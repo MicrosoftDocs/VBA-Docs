@@ -1,5 +1,5 @@
 ---
-title: Shape.Disconnect Method (Visio)
+title: Shape.Disconnect method (Visio)
 keywords: vis_sdr.chm11262255
 f1_keywords:
 - vis_sdr.chm11262255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Disconnect Method (Visio)
+# Shape.Disconnect method (Visio)
 
 Unglues the specified connector end points and offsets them the specified amount from the shapes to which they were joined.
 

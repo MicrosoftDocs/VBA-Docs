@@ -1,5 +1,5 @@
 ---
-title: Shape.DistanceFromPoint Property (Visio)
+title: Shape.DistanceFromPoint property (Visio)
 keywords: vis_sdr.chm11213425
 f1_keywords:
 - vis_sdr.chm11213425
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DistanceFromPoint Property (Visio)
+# Shape.DistanceFromPoint property (Visio)
 
 Returns the distance from a shape to a point. Read-only.
 

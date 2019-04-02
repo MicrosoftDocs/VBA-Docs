@@ -1,5 +1,5 @@
 ---
-title: Engagement.DraftWork Property (Project)
+title: Engagement.DraftWork property (Project)
 keywords: vbapj.chm131760
 f1_keywords:
 - vbapj.chm131760
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.DraftWork Property (Project)
+# Engagement.DraftWork property (Project)
 
 The DraftWork property for the Engagement object. Introduced in Office 2016.
 
@@ -25,6 +25,6 @@ _expression_. `DraftWork`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

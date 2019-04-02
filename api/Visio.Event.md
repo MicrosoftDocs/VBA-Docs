@@ -1,5 +1,5 @@
 ---
-title: Event Object (Visio)
+title: Event object (Visio)
 keywords: vis_sdr.chm10090
 f1_keywords:
 - vis_sdr.chm10090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event Object (Visio)
+# Event object (Visio)
 
 A member of the  **EventList** collection of a source object such as a **Document**. An event encapsulates an event code.
 

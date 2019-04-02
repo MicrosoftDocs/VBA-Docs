@@ -1,5 +1,5 @@
 ---
-title: PjBookingTypes Enumeration (Project)
+title: PjBookingTypes enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBookingTypes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBookingTypes Enumeration (Project)
+# PjBookingTypes enumeration (Project)
 
 Contains constants that specify the booking type.
 

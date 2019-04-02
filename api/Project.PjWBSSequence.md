@@ -1,5 +1,5 @@
 ---
-title: PjWBSSequence Enumeration (Project)
+title: PjWBSSequence enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjWBSSequence
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjWBSSequence Enumeration (Project)
+# PjWBSSequence enumeration (Project)
 
 Contains constants that specify the work breakdown structure (WBS) sequence.
 

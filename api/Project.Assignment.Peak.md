@@ -1,5 +1,5 @@
 ---
-title: Assignment.Peak Property (Project)
+title: Assignment.Peak property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Peak
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Peak Property (Project)
+# Assignment.Peak property (Project)
 
 Gets the largest number of resource units for the assignment. Read-only  **Variant**.
 

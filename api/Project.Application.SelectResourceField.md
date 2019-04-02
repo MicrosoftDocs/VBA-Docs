@@ -1,5 +1,5 @@
 ---
-title: Application.SelectResourceField Method (Project)
+title: Application.SelectResourceField method (Project)
 keywords: vbapj.chm2064
 f1_keywords:
 - vbapj.chm2064
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectResourceField Method (Project)
+# Application.SelectResourceField method (Project)
 
 Selects a resource field.
 

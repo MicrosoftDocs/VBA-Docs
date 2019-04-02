@@ -1,5 +1,5 @@
 ---
-title: VisUniqueIDArgs Enumeration (Visio)
+title: VisUniqueIDArgs enumeration (Visio)
 keywords: vis_sdr.chm70075
 f1_keywords:
 - vis_sdr.chm70075
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUniqueIDArgs Enumeration (Visio)
+# VisUniqueIDArgs enumeration (Visio)
 
 Action codes to be passed to the  **Shape.UniqueID** property.
 

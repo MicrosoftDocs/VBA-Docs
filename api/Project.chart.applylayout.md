@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyLayout Method (Project)
+title: Chart.ApplyLayout method (Project)
 keywords: vbapj.chm131609
 f1_keywords:
 - vbapj.chm131609
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ApplyLayout Method (Project)
+# Chart.ApplyLayout method (Project)
 Applies the specified chart layout and chart type to a selected chart.
 
 ## Syntax

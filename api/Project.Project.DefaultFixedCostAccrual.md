@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultFixedCostAccrual Property (Project)
+title: Project.DefaultFixedCostAccrual property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DefaultFixedCostAccrual
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultFixedCostAccrual Property (Project)
+# Project.DefaultFixedCostAccrual property (Project)
 
 Gets or sets the default method used to accrue fixed task costs in the project. Read/write  **PjAccrueAt**.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Duration8Estimated Property (Project)
+title: Task.Duration8Estimated property (Project)
 keywords: vbapj.chm131779
 f1_keywords:
 - vbapj.chm131779
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Duration8Estimated Property (Project)
+# Task.Duration8Estimated property (Project)
 
  **True** if a task duration custom field is an estimate. Read/write **Variant**.
 

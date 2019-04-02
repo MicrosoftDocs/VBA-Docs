@@ -1,5 +1,5 @@
 ---
-title: Task.Estimated Property (Project)
+title: Task.Estimated property (Project)
 keywords: vbapj.chm132202
 f1_keywords:
 - vbapj.chm132202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Estimated Property (Project)
+# Task.Estimated property (Project)
 
  **True** if the task duration is an estimate. **False** if the task duration is a set value. Read/write **Variant**.
 

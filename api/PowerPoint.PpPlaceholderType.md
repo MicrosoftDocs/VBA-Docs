@@ -1,5 +1,5 @@
 ---
-title: PpPlaceholderType Enumeration (PowerPoint)
+title: PpPlaceholderType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpPlaceholderType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpPlaceholderType Enumeration (PowerPoint)
+# PpPlaceholderType enumeration (PowerPoint)
 
 Specifies the type of placeholder.
 

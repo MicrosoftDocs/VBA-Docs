@@ -1,5 +1,5 @@
 ---
-title: Application.OrganizerDeleteItem Method (Project)
+title: Application.OrganizerDeleteItem method (Project)
 keywords: vbapj.chm128
 f1_keywords:
 - vbapj.chm128
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OrganizerDeleteItem Method (Project)
+# Application.OrganizerDeleteItem method (Project)
 
 Deletes an item from the Organizer.
 

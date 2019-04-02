@@ -1,5 +1,5 @@
 ---
-title: RelatedShapePairEvent.Stat Property (Visio)
+title: RelatedShapePairEvent.Stat property (Visio)
 keywords: vis_sdr.chm17714420
 f1_keywords:
 - vis_sdr.chm17714420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RelatedShapePairEvent.Stat Property (Visio)
+# RelatedShapePairEvent.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

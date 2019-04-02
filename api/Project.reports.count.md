@@ -1,5 +1,5 @@
 ---
-title: Reports.Count Property (Project)
+title: Reports.Count property (Project)
 ms.prod: project-server
 ms.assetid: 8f3d802e-bfeb-fc6f-f3ea-83e70c1b13b6
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Reports.Count Property (Project)
+# Reports.Count property (Project)
 Gets the number of items in the  **Reports** collection. Read-only **Long**.
 
 ## Syntax

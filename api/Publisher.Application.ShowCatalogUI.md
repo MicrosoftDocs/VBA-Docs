@@ -1,5 +1,5 @@
 ---
-title: Application.ShowCatalogUI Event (Publisher)
+title: Application.ShowCatalogUI event (Publisher)
 keywords: vbapb10.chm268435493
 f1_keywords:
 - vbapb10.chm268435493
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowCatalogUI Event (Publisher)
+# Application.ShowCatalogUI event (Publisher)
 
 Fires when the catalog of publication wizards is displayed in the Microsoft Publisher user interface.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Shape Property (Visio)
+title: Hyperlink.Shape property (Visio)
 keywords: vis_sdr.chm15014320
 f1_keywords:
 - vis_sdr.chm15014320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Shape Property (Visio)
+# Hyperlink.Shape property (Visio)
 
 Returns the  **Shape** object that owns a **Cell**, **Characters**, **Row**, or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
 

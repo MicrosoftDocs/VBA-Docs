@@ -1,5 +1,5 @@
 ---
-title: Application.Window Property (Visio)
+title: Application.Window property (Visio)
 keywords: vis_sdr.chm10051480
 f1_keywords:
 - vis_sdr.chm10051480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Window Property (Visio)
+# Application.Window property (Visio)
 
 Returns the window associated with the current instance of Microsoft Visio. Read-only.
 

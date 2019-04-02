@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowResourcesSuccessors Method (Project)
+title: Application.ViewShowResourcesSuccessors method (Project)
 keywords: vbapj.chm916
 f1_keywords:
 - vbapj.chm916
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowResourcesSuccessors Method (Project)
+# Application.ViewShowResourcesSuccessors method (Project)
 
 Displays information about resource assignments and successor tasks in the active task details view.
 

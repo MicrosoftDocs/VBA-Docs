@@ -1,5 +1,5 @@
 ---
-title: Application.COMAddIns Property (Project)
+title: Application.COMAddIns property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.COMAddIns
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.COMAddIns Property (Project)
+# Application.COMAddIns property (Project)
 
 Gets the  **COMAddIns** collection for Project, which represents the currently installed COM add-ins. Read-only **COMAddIns**.
 

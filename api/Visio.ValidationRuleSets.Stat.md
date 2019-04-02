@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSets.Stat Property (Visio)
+title: ValidationRuleSets.Stat property (Visio)
 keywords: vis_sdr.chm18114420
 f1_keywords:
 - vis_sdr.chm18114420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSets.Stat Property (Visio)
+# ValidationRuleSets.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

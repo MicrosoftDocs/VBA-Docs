@@ -1,5 +1,5 @@
 ---
-title: Application.TogglePreventResOveralloc Method (Project)
+title: Application.TogglePreventResOveralloc method (Project)
 keywords: vbapj.chm1501
 f1_keywords:
 - vbapj.chm1501
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TogglePreventResOveralloc Method (Project)
+# Application.TogglePreventResOveralloc method (Project)
 
 Toggles the  **Prevent Overallocations** command for the Team Planner view.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.RunModeEntered Event (Visio)
+title: InvisibleApp.RunModeEntered event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.RunModeEntered
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.RunModeEntered Event (Visio)
+# InvisibleApp.RunModeEntered event (Visio)
 
 Occurs after a document enters run mode.
 

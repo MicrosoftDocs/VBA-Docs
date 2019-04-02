@@ -1,5 +1,5 @@
 ---
-title: VisCellVals Enumeration (Visio)
+title: VisCellVals enumeration (Visio)
 keywords: vis_sdr.chm70035
 f1_keywords:
 - vis_sdr.chm70035
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisCellVals Enumeration (Visio)
+# VisCellVals enumeration (Visio)
 
 Symbolic values for certain cells.
 

@@ -1,5 +1,5 @@
 ---
-title: EventList.Item Property (Visio)
+title: EventList.Item property (Visio)
 keywords: vis_sdr.chm12713765
 f1_keywords:
 - vis_sdr.chm12713765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EventList.Item Property (Visio)
+# EventList.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 

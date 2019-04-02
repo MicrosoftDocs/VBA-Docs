@@ -1,5 +1,5 @@
 ---
-title: OlIconViewType Enumeration (Outlook)
+title: OlIconViewType enumeration (Outlook)
 keywords: vbaol11.chm3124
 f1_keywords:
 - vbaol11.chm3124
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlIconViewType Enumeration (Outlook)
+# OlIconViewType enumeration (Outlook)
 
 Indicates the view mode when using an  **[IconView](Outlook.IconView.md)** object.
 

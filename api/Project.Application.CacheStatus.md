@@ -1,5 +1,5 @@
 ---
-title: Application.CacheStatus Method (Project)
+title: Application.CacheStatus method (Project)
 keywords: vbapj.chm2282
 f1_keywords:
 - vbapj.chm2282
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CacheStatus Method (Project)
+# Application.CacheStatus method (Project)
 
 Displays the  **Cache Status** dialog box. Available in Project Professional only.
 

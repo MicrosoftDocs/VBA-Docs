@@ -1,5 +1,5 @@
 ---
-title: PjMessageType Enumeration (Project)
+title: PjMessageType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMessageType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjMessageType Enumeration (Project)
+# PjMessageType enumeration (Project)
 
 Contains constants that specify the buttons to be included in a message dialog box. 
 

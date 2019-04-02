@@ -1,5 +1,5 @@
 ---
-title: Application.ScreenUpdating Property (Visio)
+title: Application.ScreenUpdating property (Visio)
 keywords: vis_sdr.chm10014295
 f1_keywords:
 - vis_sdr.chm10014295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ScreenUpdating Property (Visio)
+# Application.ScreenUpdating property (Visio)
 
 Determines whether the screen is updated (redrawn) during a series of actions. Read/write.
 

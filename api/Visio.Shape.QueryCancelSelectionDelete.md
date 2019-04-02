@@ -1,5 +1,5 @@
 ---
-title: Shape.QueryCancelSelectionDelete Event (Visio)
+title: Shape.QueryCancelSelectionDelete event (Visio)
 keywords: vis_sdr.chm11219320
 f1_keywords:
 - vis_sdr.chm11219320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.QueryCancelSelectionDelete Event (Visio)
+# Shape.QueryCancelSelectionDelete event (Visio)
 
 Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

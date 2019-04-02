@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.ItemFromID Property (Visio)
+title: MasterShortcuts.ItemFromID property (Visio)
 keywords: vis_sdr.chm15913775
 f1_keywords:
 - vis_sdr.chm15913775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts.ItemFromID Property (Visio)
+# MasterShortcuts.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DDEPasteLink Method (Project)
+title: Application.DDEPasteLink method (Project)
 keywords: vbapj.chm207
 f1_keywords:
 - vbapj.chm207
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DDEPasteLink Method (Project)
+# Application.DDEPasteLink method (Project)
 
 Pastes the contents of the clipboard into the active selection, establishing a link with the application that supplies the information.
 

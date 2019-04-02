@@ -1,5 +1,5 @@
 ---
-title: Application.DistributeTableRows Method (Project)
+title: Application.DistributeTableRows method (Project)
 keywords: vbapj.chm1517
 f1_keywords:
 - vbapj.chm1517
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DistributeTableRows Method (Project)
+# Application.DistributeTableRows method (Project)
 Distributes the rows of a selected table in a report, so that all rows are the same height.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Application.WindowBeforeDoubleClick Event (Word)
+title: Application.WindowBeforeDoubleClick event (Word)
 keywords: vbawd10.chm4000013
 f1_keywords:
 - vbawd10.chm4000013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowBeforeDoubleClick Event (Word)
+# Application.WindowBeforeDoubleClick event (Word)
 
 Occurs when the editing area of a document window is double-clicked, before the default double-click action.
 

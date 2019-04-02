@@ -1,5 +1,5 @@
 ---
-title: Application.BoxCellEdit Method (Project)
+title: Application.BoxCellEdit method (Project)
 keywords: vbapj.chm2393
 f1_keywords:
 - vbapj.chm2393
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxCellEdit Method (Project)
+# Application.BoxCellEdit method (Project)
 
 Sets the properties of an individual cell in a data template for a Network Diagram view (PERT chart).
 

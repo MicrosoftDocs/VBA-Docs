@@ -1,5 +1,5 @@
 ---
-title: Project.HyperlinkColor Property (Project)
+title: Project.HyperlinkColor property (Project)
 keywords: vbapj.chm132343
 f1_keywords:
 - vbapj.chm132343
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.HyperlinkColor Property (Project)
+# Project.HyperlinkColor property (Project)
 
 Gets or sets the color used to denote unfollowed hyperlinks. Read/write  **PjColor**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.AppExecute Method (Project)
+title: Application.AppExecute method (Project)
 keywords: vbapj.chm8
 f1_keywords:
 - vbapj.chm8
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AppExecute Method (Project)
+# Application.AppExecute method (Project)
 
 Starts an application.
 

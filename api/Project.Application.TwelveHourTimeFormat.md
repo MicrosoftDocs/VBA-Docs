@@ -1,5 +1,5 @@
 ---
-title: Application.TwelveHourTimeFormat Property (Project)
+title: Application.TwelveHourTimeFormat property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.TwelveHourTimeFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TwelveHourTimeFormat Property (Project)
+# Application.TwelveHourTimeFormat property (Project)
 
  **True** if Project returns the time in a 12-hour format. **False** if the time is returned in a 24-hour format. Read-only **Boolean**.
 

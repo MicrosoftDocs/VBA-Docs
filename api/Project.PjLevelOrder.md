@@ -1,5 +1,5 @@
 ---
-title: PjLevelOrder Enumeration (Project)
+title: PjLevelOrder enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLevelOrder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLevelOrder Enumeration (Project)
+# PjLevelOrder enumeration (Project)
 
 Contains constants that specify the leveling order.
 

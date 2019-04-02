@@ -1,5 +1,5 @@
 ---
-title: Project.HourLabelDisplay Property (Project)
+title: Project.HourLabelDisplay property (Project)
 keywords: vbapj.chm132338
 f1_keywords:
 - vbapj.chm132338
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.HourLabelDisplay Property (Project)
+# Project.HourLabelDisplay property (Project)
 
 Gets or sets the abbreviation for "hour" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
 

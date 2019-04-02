@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.StartAt Property (Project)
+title: GroupCriterion2.StartAt property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.StartAt
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.StartAt Property (Project)
+# GroupCriterion2.StartAt property (Project)
 
 Gets or sets the start point of the intervals for a field used as a criterion in a group definition. Read/write  **Variant**.
 

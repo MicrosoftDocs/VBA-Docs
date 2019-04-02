@@ -1,5 +1,5 @@
 ---
-title: Application.FindNext Method (Project)
+title: Application.FindNext method (Project)
 keywords: vbapj.chm2032
 f1_keywords:
 - vbapj.chm2032
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FindNext Method (Project)
+# Application.FindNext method (Project)
 
 Repeats the last search and returns  **True** if the search value is found.
 

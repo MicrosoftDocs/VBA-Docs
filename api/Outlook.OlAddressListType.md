@@ -1,5 +1,5 @@
 ---
-title: OlAddressListType Enumeration (Outlook)
+title: OlAddressListType enumeration (Outlook)
 keywords: vbaol11.chm3109
 f1_keywords:
 - vbaol11.chm3109
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAddressListType Enumeration (Outlook)
+# OlAddressListType enumeration (Outlook)
 
 Represents the type of  **[AddressList](Outlook.AddressList.md)**.
 

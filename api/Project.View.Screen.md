@@ -1,5 +1,5 @@
 ---
-title: View.Screen Property (Project)
+title: View.Screen property (Project)
 ms.prod: project-server
 api_name:
 - Project.View.Screen
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# View.Screen Property (Project)
+# View.Screen property (Project)
 
 Gets the screen type for the view. Read-only  **PjViewScreen**.
 

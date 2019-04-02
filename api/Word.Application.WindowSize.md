@@ -1,5 +1,5 @@
 ---
-title: Application.WindowSize Event (Word)
+title: Application.WindowSize event (Word)
 keywords: vbawd10.chm4000024
 f1_keywords:
 - vbawd10.chm4000024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowSize Event (Word)
+# Application.WindowSize event (Word)
 
 Occurs when the application window is resized or moved.
 

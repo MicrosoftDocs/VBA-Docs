@@ -1,5 +1,5 @@
 ---
-title: Styles.Item Property (Visio)
+title: Styles.Item property (Visio)
 keywords: vis_sdr.chm11513765
 f1_keywords:
 - vis_sdr.chm11513765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Styles.Item Property (Visio)
+# Styles.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 

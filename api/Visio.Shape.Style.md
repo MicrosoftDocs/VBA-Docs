@@ -1,5 +1,5 @@
 ---
-title: Shape.Style Property (Visio)
+title: Shape.Style property (Visio)
 keywords: vis_sdr.chm11251160
 f1_keywords:
 - vis_sdr.chm11251160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Style Property (Visio)
+# Shape.Style property (Visio)
 
 Gets or sets the style for a  **Shape** object. Read/write.
 

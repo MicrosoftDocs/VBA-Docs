@@ -1,5 +1,5 @@
 ---
-title: Application.CustomizeIMEMode Method (Project)
+title: Application.CustomizeIMEMode method (Project)
 keywords: vbapj.chm254
 f1_keywords:
 - vbapj.chm254
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomizeIMEMode Method (Project)
+# Application.CustomizeIMEMode method (Project)
 
 Customizes which IME mode is used on a given field.
 

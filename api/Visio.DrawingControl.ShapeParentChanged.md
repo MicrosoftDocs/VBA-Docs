@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.ShapeParentChanged Event (Visio)
+title: DrawingControl.ShapeParentChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.ShapeParentChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.ShapeParentChanged Event (Visio)
+# DrawingControl.ShapeParentChanged event (Visio)
 
 Occurs after shapes are grouped or a group is ungrouped.
 

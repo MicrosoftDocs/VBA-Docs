@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverablesGetProviderProjects Method (Project)
+title: Project.DeliverablesGetProviderProjects method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverablesGetProviderProjects
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverablesGetProviderProjects Method (Project)
+# Project.DeliverablesGetProviderProjects method (Project)
 
 Returns a list of all of the projects that have deliverables.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.DrawBezier Method (Visio)
+title: Shape.DrawBezier method (Visio)
 keywords: vis_sdr.chm11216195
 f1_keywords:
 - vis_sdr.chm11216195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DrawBezier Method (Visio)
+# Shape.DrawBezier method (Visio)
 
 Creates a shape whose path is defined by the supplied sequence of Bezier control points.
 

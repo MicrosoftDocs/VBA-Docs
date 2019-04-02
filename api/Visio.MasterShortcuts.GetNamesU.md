@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.GetNamesU Method (Visio)
+title: MasterShortcuts.GetNamesU method (Visio)
 keywords: vis_sdr.chm15951940
 f1_keywords:
 - vis_sdr.chm15951940
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts.GetNamesU Method (Visio)
+# MasterShortcuts.GetNamesU method (Visio)
 
 Returns the universal names of all items in a collection.
 

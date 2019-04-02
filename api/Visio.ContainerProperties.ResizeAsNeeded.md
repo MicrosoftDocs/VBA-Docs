@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ResizeAsNeeded Property (Visio)
+title: ContainerProperties.ResizeAsNeeded property (Visio)
 keywords: vis_sdr.chm17662610
 f1_keywords:
 - vis_sdr.chm17662610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.ResizeAsNeeded Property (Visio)
+# ContainerProperties.ResizeAsNeeded property (Visio)
 
 Determines whether the container boundary resizes automatically to fit its contents. Read/write.
 

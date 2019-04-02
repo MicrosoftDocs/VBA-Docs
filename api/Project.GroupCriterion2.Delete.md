@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.Delete Method (Project)
+title: GroupCriterion2.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.Delete Method (Project)
+# GroupCriterion2.Delete method (Project)
 
 Deletes a  **GroupCriterion2** object from its containing **GroupCriteria2** collection.
 

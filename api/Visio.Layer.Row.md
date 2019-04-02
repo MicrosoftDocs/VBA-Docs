@@ -1,5 +1,5 @@
 ---
-title: Layer.Row Property (Visio)
+title: Layer.Row property (Visio)
 keywords: vis_sdr.chm11814240
 f1_keywords:
 - vis_sdr.chm11814240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.Row Property (Visio)
+# Layer.Row property (Visio)
 
 Returns the row index of a layer. Read-only.
 

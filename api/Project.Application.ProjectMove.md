@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectMove Method (Project)
+title: Application.ProjectMove method (Project)
 keywords: vbapj.chm2291
 f1_keywords:
 - vbapj.chm2291
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectMove Method (Project)
+# Application.ProjectMove method (Project)
 
 Moves the project start date to a new date.
 

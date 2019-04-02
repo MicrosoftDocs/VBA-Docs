@@ -1,5 +1,5 @@
 ---
-title: Application.EndUndoScope Method (Visio)
+title: Application.EndUndoScope method (Visio)
 keywords: vis_sdr.chm10016250
 f1_keywords:
 - vis_sdr.chm10016250
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EndUndoScope Method (Visio)
+# Application.EndUndoScope method (Visio)
 
 Ends or cancels a transaction that has a unique scope.
 

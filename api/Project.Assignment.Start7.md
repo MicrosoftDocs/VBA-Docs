@@ -1,5 +1,5 @@
 ---
-title: Assignment.Start7 Property (Project)
+title: Assignment.Start7 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Start7
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Start7 Property (Project)
+# Assignment.Start7 property (Project)
 
 Gets or sets a Start local custom field for the assignment. Read/write  **Variant**.
 

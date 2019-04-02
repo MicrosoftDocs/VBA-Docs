@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineCode7 Property (Project)
+title: Task.OutlineCode7 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.OutlineCode7
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineCode7 Property (Project)
+# Task.OutlineCode7 property (Project)
 
  Gets or sets the value of the outline code custom field for a task. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DefaultRectangleDataObject Property (Visio)
+title: InvisibleApp.DefaultRectangleDataObject property (Visio)
 keywords: vis_sdr.chm17560050
 f1_keywords:
 - vis_sdr.chm17560050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DefaultRectangleDataObject Property (Visio)
+# InvisibleApp.DefaultRectangleDataObject property (Visio)
 
 Returns an  **IDataObject** interface that represents the **Rectangle** tool used in the Microsoft Visio user interface. Read-only.
 

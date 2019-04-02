@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentLibraryVersionsDialog Method (Project)
+title: Application.DocumentLibraryVersionsDialog method (Project)
 keywords: vbapj.chm2342
 f1_keywords:
 - vbapj.chm2342
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentLibraryVersionsDialog Method (Project)
+# Application.DocumentLibraryVersionsDialog method (Project)
 
 Displays a dialog box that indicates the version for the active project when the project is stored in a SharePoint document library.
 

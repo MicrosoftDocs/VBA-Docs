@@ -1,5 +1,5 @@
 ---
-title: Application.InsertTask Method (Project)
+title: Application.InsertTask method (Project)
 keywords: vbapj.chm2167
 f1_keywords:
 - vbapj.chm2167
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.InsertTask Method (Project)
+# Application.InsertTask method (Project)
 
 Inserts a new task of the default mode above the selected task row or cell in a Gantt chart.
 

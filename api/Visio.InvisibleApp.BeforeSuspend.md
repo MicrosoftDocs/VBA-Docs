@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeSuspend Event (Visio)
+title: InvisibleApp.BeforeSuspend event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeSuspend
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeSuspend Event (Visio)
+# InvisibleApp.BeforeSuspend event (Visio)
 
 Occurs before the operating system enters a suspended state.
 

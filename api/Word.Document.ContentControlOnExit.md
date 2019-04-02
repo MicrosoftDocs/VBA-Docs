@@ -1,5 +1,5 @@
 ---
-title: Document.ContentControlOnExit Event (Word)
+title: Document.ContentControlOnExit event (Word)
 keywords: vbawd10.chm4001012
 f1_keywords:
 - vbawd10.chm4001012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ContentControlOnExit Event (Word)
+# Document.ContentControlOnExit event (Word)
 
 Occurs when a user leaves a content control.
 

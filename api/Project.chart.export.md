@@ -1,5 +1,5 @@
 ---
-title: Chart.Export Method (Project)
+title: Chart.Export method (Project)
 ms.prod: project-server
 ms.assetid: 4f0ed821-f1c1-0e0b-0583-51b660ffad90
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Export Method (Project)
+# Chart.Export method (Project)
 Exports a chart in a graphic file format.
 
 ## Syntax

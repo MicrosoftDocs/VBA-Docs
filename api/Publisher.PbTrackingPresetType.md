@@ -1,5 +1,5 @@
 ---
-title: PbTrackingPresetType Enumeration (Publisher)
+title: PbTrackingPresetType enumeration (Publisher)
 keywords: vbapb10.chm65563
 f1_keywords:
 - vbapb10.chm65563
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbTrackingPresetType Enumeration (Publisher)
+# PbTrackingPresetType enumeration (Publisher)
 
 Represents the preset tracking type for characters in the specified font in a text range.
 

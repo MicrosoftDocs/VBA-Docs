@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CommandBars Property (Visio)
+title: InvisibleApp.CommandBars property (Visio)
 keywords: vis_sdr.chm17550540
 f1_keywords:
 - vis_sdr.chm17550540
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CommandBars Property (Visio)
+# InvisibleApp.CommandBars property (Visio)
 
 Returns a reference to the  **CommandBars** collection that represents the command bars in the container application. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforeWindowSelDelete Event (Visio)
+title: DrawingControl.BeforeWindowSelDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeWindowSelDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeWindowSelDelete Event (Visio)
+# DrawingControl.BeforeWindowSelDelete event (Visio)
 
 Occurs before the shapes in the selection of a window are deleted.
 

@@ -1,5 +1,5 @@
 ---
-title: OlEnterFieldBehavior Enumeration (Outlook)
+title: OlEnterFieldBehavior enumeration (Outlook)
 keywords: vbaol11.chm1000023
 f1_keywords:
 - vbaol11.chm1000023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlEnterFieldBehavior Enumeration (Outlook)
+# OlEnterFieldBehavior enumeration (Outlook)
 
 Specifies the behavior when focus enters a control.
 

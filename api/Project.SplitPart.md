@@ -1,5 +1,5 @@
 ---
-title: SplitPart Object (Project)
+title: SplitPart object (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitPart
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitPart Object (Project)
+# SplitPart object (Project)
 
 Represents a task portion. The  **SplitPart** object is a member of the **[SplitParts](Project.splitparts.md)** collection.
  

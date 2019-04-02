@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.RuleSet Property (Visio)
+title: ValidationRule.RuleSet property (Visio)
 keywords: vis_sdr.chm18462670
 f1_keywords:
 - vis_sdr.chm18462670
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.RuleSet Property (Visio)
+# ValidationRule.RuleSet property (Visio)
 
 Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that contains the specified validation rule. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PjCopyPictureFor Enumeration (Project)
+title: PjCopyPictureFor enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCopyPictureFor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCopyPictureFor Enumeration (Project)
+# PjCopyPictureFor enumeration (Project)
 
 Contains constants that specify the intended target of the copy of a picture.
 

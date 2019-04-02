@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.DataConnection Property (Visio)
+title: DataRecordset.DataConnection property (Visio)
 keywords: vis_sdr.chm16460280
 f1_keywords:
 - vis_sdr.chm16460280
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.DataConnection Property (Visio)
+# DataRecordset.DataConnection property (Visio)
 
 Returns the  **[DataConnection](Visio.DataConnection.md)** object associated with the **DataRecordset** object. Read-only.
 

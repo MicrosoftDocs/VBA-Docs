@@ -1,5 +1,5 @@
 ---
-title: Page.PasteSpecial Method (Visio)
+title: Page.PasteSpecial method (Visio)
 keywords: vis_sdr.chm10951020
 f1_keywords:
 - vis_sdr.chm10951020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.PasteSpecial Method (Visio)
+# Page.PasteSpecial method (Visio)
 
 Inserts the contents of the Clipboard, allowing you to control the format of the pasted information and (optionally) establish a link to the source file (for example, a Microsoft Word document).
 

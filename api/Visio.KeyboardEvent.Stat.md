@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.Stat Property (Visio)
+title: KeyboardEvent.Stat property (Visio)
 keywords: vis_sdr.chm17014420
 f1_keywords:
 - vis_sdr.chm17014420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent.Stat Property (Visio)
+# KeyboardEvent.Stat property (Visio)
 
 Returns status information. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.Name Property (Visio)
+title: MasterShortcut.Name property (Visio)
 keywords: vis_sdr.chm16013930
 f1_keywords:
 - vis_sdr.chm16013930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.Name Property (Visio)
+# MasterShortcut.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

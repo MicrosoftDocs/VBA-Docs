@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReports Method (Project)
+title: Application.VisualReports method (Project)
 keywords: vbapj.chm2137
 f1_keywords:
 - vbapj.chm2137
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.VisualReports Method (Project)
+# Application.VisualReports method (Project)
 
 Opens the  **Visual Reports - Create Report** dialog box to the specified tab.
 

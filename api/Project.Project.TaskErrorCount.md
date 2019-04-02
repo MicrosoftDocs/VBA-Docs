@@ -1,5 +1,5 @@
 ---
-title: Project.TaskErrorCount Property (Project)
+title: Project.TaskErrorCount property (Project)
 keywords: vbapj.chm131114
 f1_keywords:
 - vbapj.chm131114
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.TaskErrorCount Property (Project)
+# Project.TaskErrorCount property (Project)
 
 Gets or sets the number of task errors associated with a project. Read/write  **Long**.
 

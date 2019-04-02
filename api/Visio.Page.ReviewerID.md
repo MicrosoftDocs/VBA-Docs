@@ -1,5 +1,5 @@
 ---
-title: Page.ReviewerID Property (Visio)
+title: Page.ReviewerID property (Visio)
 keywords: vis_sdr.chm10951670
 f1_keywords:
 - vis_sdr.chm10951670
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.ReviewerID Property (Visio)
+# Page.ReviewerID property (Visio)
 
 Gets the reviewer ID associated with the markup overlay. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Status Property (Project)
+title: Task.Status property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Status
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Status Property (Project)
+# Task.Status property (Project)
 
 Gets the status of a specified task. Read-only  **PjStatusType**.
 

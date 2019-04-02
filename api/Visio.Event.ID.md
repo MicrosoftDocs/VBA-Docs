@@ -1,5 +1,5 @@
 ---
-title: Event.ID Property (Visio)
+title: Event.ID property (Visio)
 keywords: vis_sdr.chm12613675
 f1_keywords:
 - vis_sdr.chm12613675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.ID Property (Visio)
+# Event.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 

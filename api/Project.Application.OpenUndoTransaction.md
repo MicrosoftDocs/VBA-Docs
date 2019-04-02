@@ -1,5 +1,5 @@
 ---
-title: Application.OpenUndoTransaction Method (Project)
+title: Application.OpenUndoTransaction method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.OpenUndoTransaction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OpenUndoTransaction Method (Project)
+# Application.OpenUndoTransaction method (Project)
 
 Create an undo transaction set for a series of operations.
 

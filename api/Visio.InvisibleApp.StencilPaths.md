@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.StencilPaths Property (Visio)
+title: InvisibleApp.StencilPaths property (Visio)
 keywords: vis_sdr.chm17514440
 f1_keywords:
 - vis_sdr.chm17514440
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.StencilPaths Property (Visio)
+# InvisibleApp.StencilPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for stencils. Read/write.
 

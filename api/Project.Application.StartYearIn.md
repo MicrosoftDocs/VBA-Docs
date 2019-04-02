@@ -1,5 +1,5 @@
 ---
-title: Application.StartYearIn Property (Project)
+title: Application.StartYearIn property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.StartYearIn
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.StartYearIn Property (Project)
+# Application.StartYearIn property (Project)
 
 Gets or sets the month number for the start of the fiscal year for new projects. Read/write  **PjMonth**.
 

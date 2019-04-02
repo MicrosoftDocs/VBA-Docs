@@ -1,5 +1,5 @@
 ---
-title: Application.AfterModal Event (Visio)
+title: Application.AfterModal event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.AfterModal
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterModal Event (Visio)
+# Application.AfterModal event (Visio)
 
 Occurs after the Microsoft Visio instance leaves a modal state.
 

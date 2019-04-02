@@ -1,5 +1,5 @@
 ---
-title: Document.PrintCenteredV Property (Visio)
+title: Document.PrintCenteredV property (Visio)
 keywords: vis_sdr.chm10514110
 f1_keywords:
 - vis_sdr.chm10514110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintCenteredV Property (Visio)
+# Document.PrintCenteredV property (Visio)
 
 Indicates whether drawings are centered between the top and bottom edges of the paper when printed. Read/write.
 

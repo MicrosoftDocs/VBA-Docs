@@ -1,5 +1,5 @@
 ---
-title: Cell.ObjectType Property (Visio)
+title: Cell.ObjectType property (Visio)
 keywords: vis_sdr.chm10113960
 f1_keywords:
 - vis_sdr.chm10113960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.ObjectType Property (Visio)
+# Cell.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

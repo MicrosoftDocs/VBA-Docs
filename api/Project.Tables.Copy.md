@@ -1,5 +1,5 @@
 ---
-title: Tables.Copy Method (Project)
+title: Tables.Copy method (Project)
 keywords: vbapj.chm132701
 f1_keywords:
 - vbapj.chm132701
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tables.Copy Method (Project)
+# Tables.Copy method (Project)
 
 Makes a copy of a group definition for the  **Tables** collection and returns a reference to the **[Table](Project.Table.md)** object.
 

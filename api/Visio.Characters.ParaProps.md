@@ -1,5 +1,5 @@
 ---
-title: Characters.ParaProps Property (Visio)
+title: Characters.ParaProps property (Visio)
 keywords: vis_sdr.chm10214030
 f1_keywords:
 - vis_sdr.chm10214030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.ParaProps Property (Visio)
+# Characters.ParaProps property (Visio)
 
 Sets the paragraph property of a  **Characters** object to a new value. Read/write.
 

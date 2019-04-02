@@ -1,5 +1,5 @@
 ---
-title: Project.ViewsCombination Property (Project)
+title: Project.ViewsCombination property (Project)
 keywords: vbapj.chm132806
 f1_keywords:
 - vbapj.chm132806
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ViewsCombination Property (Project)
+# Project.ViewsCombination property (Project)
 
 Gets a  **[ViewsCombination](Project.ViewCombination.md)** collection representing the combination views of the project. Read-only **ViewsCombination**.
 

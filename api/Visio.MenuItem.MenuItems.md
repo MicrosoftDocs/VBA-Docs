@@ -1,5 +1,5 @@
 ---
-title: MenuItem.MenuItems Property (Visio)
+title: MenuItem.MenuItems property (Visio)
 keywords: vis_sdr.chm12913905
 f1_keywords:
 - vis_sdr.chm12913905
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.MenuItems Property (Visio)
+# MenuItem.MenuItems property (Visio)
 
 Returns the  **MenuItems** collection of a **MenuItem** object. Read-only.
 

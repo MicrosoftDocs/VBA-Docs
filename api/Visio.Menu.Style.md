@@ -1,5 +1,5 @@
 ---
-title: Menu.Style Property (Visio)
+title: Menu.Style property (Visio)
 keywords: vis_sdr.chm13151150
 f1_keywords:
 - vis_sdr.chm13151150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menu.Style Property (Visio)
+# Menu.Style property (Visio)
 
 Determines whether a menu shows an icon, a caption, or some combination. Read/write.
 

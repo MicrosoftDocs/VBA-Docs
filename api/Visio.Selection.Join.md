@@ -1,5 +1,5 @@
 ---
-title: Selection.Join Method (Visio)
+title: Selection.Join method (Visio)
 keywords: vis_sdr.chm11116380
 f1_keywords:
 - vis_sdr.chm11116380
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Join Method (Visio)
+# Selection.Join method (Visio)
 
 Creates a new shape by joining selected shapes.
 

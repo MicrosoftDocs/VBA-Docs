@@ -1,5 +1,5 @@
 ---
-title: Shape.BeforeSelectionDelete Event (Visio)
+title: Shape.BeforeSelectionDelete event (Visio)
 keywords: vis_sdr.chm11219060
 f1_keywords:
 - vis_sdr.chm11219060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.BeforeSelectionDelete Event (Visio)
+# Shape.BeforeSelectionDelete event (Visio)
 
 Occurs before selected objects are deleted.
 

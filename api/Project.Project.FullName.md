@@ -1,5 +1,5 @@
 ---
-title: Project.FullName Property (Project)
+title: Project.FullName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.FullName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.FullName Property (Project)
+# Project.FullName property (Project)
 
 Gets the path and file name of a project. Read-only  **String**.
 

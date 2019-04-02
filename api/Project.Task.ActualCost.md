@@ -1,5 +1,5 @@
 ---
-title: Task.ActualCost Property (Project)
+title: Task.ActualCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ActualCost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ActualCost Property (Project)
+# Task.ActualCost property (Project)
 
 Gets or sets the actual cost for the task. Read/write  **Variant**.
 

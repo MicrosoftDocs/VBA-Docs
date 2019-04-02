@@ -1,5 +1,5 @@
 ---
-title: Font.CharSet Property (Visio)
+title: Font.CharSet property (Visio)
 keywords: vis_sdr.chm12013235
 f1_keywords:
 - vis_sdr.chm12013235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.CharSet Property (Visio)
+# Font.CharSet property (Visio)
 
 Returns the Microsoft Windows character set for a  **Font** object. Read-only.
 

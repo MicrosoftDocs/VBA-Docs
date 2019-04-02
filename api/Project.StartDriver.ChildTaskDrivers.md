@@ -1,5 +1,5 @@
 ---
-title: StartDriver.ChildTaskDrivers Property (Project)
+title: StartDriver.ChildTaskDrivers property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.ChildTaskDrivers
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.ChildTaskDrivers Property (Project)
+# StartDriver.ChildTaskDrivers property (Project)
 
 Gets the  **[ChildDrivers](Project.childdrivers.md)** object for the task **StartDriver** object. Read-only **ChildDrivers**.
 

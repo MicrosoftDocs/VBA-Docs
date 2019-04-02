@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldValueListAdd Method (Project)
+title: Application.CustomFieldValueListAdd method (Project)
 keywords: vbapj.chm41
 f1_keywords:
 - vbapj.chm41
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldValueListAdd Method (Project)
+# Application.CustomFieldValueListAdd method (Project)
 
 Adds an item to the value list for a custom field.
 

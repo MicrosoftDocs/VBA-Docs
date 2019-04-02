@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.LanguageHelp Property (Visio)
+title: InvisibleApp.LanguageHelp property (Visio)
 keywords: vis_sdr.chm17551700
 f1_keywords:
 - vis_sdr.chm17551700
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.LanguageHelp Property (Visio)
+# InvisibleApp.LanguageHelp property (Visio)
 
 Represents the language ID of the Help in the version of the Microsoft Visio instance represented by the parent object. Read-only.
 

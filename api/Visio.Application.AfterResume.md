@@ -1,5 +1,5 @@
 ---
-title: Application.AfterResume Event (Visio)
+title: Application.AfterResume event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.AfterResume
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterResume Event (Visio)
+# Application.AfterResume event (Visio)
 
 Occurs when the operating system resumes normal operation after having been suspended.
 

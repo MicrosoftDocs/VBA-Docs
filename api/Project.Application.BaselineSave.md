@@ -1,5 +1,5 @@
 ---
-title: Application.BaselineSave Method (Project)
+title: Application.BaselineSave method (Project)
 keywords: vbapj.chm610
 f1_keywords:
 - vbapj.chm610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BaselineSave Method (Project)
+# Application.BaselineSave method (Project)
 
 Creates a baseline plan.
 

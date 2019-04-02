@@ -1,5 +1,5 @@
 ---
-title: Master.DrawSpline Method (Visio)
+title: Master.DrawSpline method (Visio)
 keywords: vis_sdr.chm10716230
 f1_keywords:
 - vis_sdr.chm10716230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawSpline Method (Visio)
+# Master.DrawSpline method (Visio)
 
 Creates a new shape whose path follows a given sequence of points.
 

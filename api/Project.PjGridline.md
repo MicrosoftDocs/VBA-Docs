@@ -1,5 +1,5 @@
 ---
-title: PjGridline Enumeration (Project)
+title: PjGridline enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjGridline
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjGridline Enumeration (Project)
+# PjGridline enumeration (Project)
 
 Contains constants that specify the type of gridline.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.Application Property (Visio)
+title: Master.Application property (Visio)
 keywords: vis_sdr.chm10713090
 f1_keywords:
 - vis_sdr.chm10713090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Application Property (Visio)
+# Master.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

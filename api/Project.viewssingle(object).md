@@ -1,5 +1,5 @@
 ---
-title: ViewsSingle Object (Project)
+title: ViewsSingle object (Project)
 ms.prod: project-server
 ms.assetid: bd6f698b-780f-294a-037b-45c63b9a1c23
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ViewsSingle Object (Project)
+# ViewsSingle object (Project)
 
 Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
  

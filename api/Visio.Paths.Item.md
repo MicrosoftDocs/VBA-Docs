@@ -1,5 +1,5 @@
 ---
-title: Paths.Item Property (Visio)
+title: Paths.Item property (Visio)
 keywords: vis_sdr.chm15313765
 f1_keywords:
 - vis_sdr.chm15313765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Paths.Item Property (Visio)
+# Paths.Item property (Visio)
 
 Returns an object from a collection. The  **Item** property is the default property for all collections, and for the **Path** and **Selection** objects. Read-only.
 

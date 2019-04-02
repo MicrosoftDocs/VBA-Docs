@@ -1,5 +1,5 @@
 ---
-title: Application.ApplyReportLayoutTemplate Method (Project)
+title: Application.ApplyReportLayoutTemplate method (Project)
 keywords: vbapj.chm1524
 f1_keywords:
 - vbapj.chm1524
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ApplyReportLayoutTemplate Method (Project)
+# Application.ApplyReportLayoutTemplate method (Project)
 Applies the specified report template to the active report.
 
 ## Syntax

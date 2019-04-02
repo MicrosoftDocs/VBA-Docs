@@ -1,5 +1,5 @@
 ---
-title: Application.LevelingOptions Method (Project)
+title: Application.LevelingOptions method (Project)
 keywords: vbapj.chm608
 f1_keywords:
 - vbapj.chm608
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelingOptions Method (Project)
+# Application.LevelingOptions method (Project)
 
 Specifies leveling options for the active project.
 

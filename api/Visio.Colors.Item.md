@@ -1,5 +1,5 @@
 ---
-title: Colors.Item Property (Visio)
+title: Colors.Item property (Visio)
 keywords: vis_sdr.chm12313765
 f1_keywords:
 - vis_sdr.chm12313765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Colors.Item Property (Visio)
+# Colors.Item property (Visio)
 
 Returns an object from a collection. The  **Item** property is the default property for all collections, and for the **Path** and **Selection** objects. Read-only.
 

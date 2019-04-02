@@ -1,5 +1,5 @@
 ---
-title: Application.VBE Property (Visio)
+title: Application.VBE property (Visio)
 keywords: vis_sdr.chm10014630
 f1_keywords:
 - vis_sdr.chm10014630
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.VBE Property (Visio)
+# Application.VBE property (Visio)
 
 Gets the root object of the object model exposed by Microsoft Visual Basic for Applications (VBA). Use this property to access and manipulate the VBA projects associated with currently open Microsoft Visio documents. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MovedSelectionEvent Object (Visio)
+title: MovedSelectionEvent object (Visio)
 keywords: vis_sdr.chm61050
 f1_keywords:
 - vis_sdr.chm61050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MovedSelectionEvent Object (Visio)
+# MovedSelectionEvent object (Visio)
 
 Holds information about a selection that is moved from one location, such as a page or a document, to another.
 

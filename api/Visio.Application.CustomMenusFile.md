@@ -1,5 +1,5 @@
 ---
-title: Application.CustomMenusFile Property (Visio)
+title: Application.CustomMenusFile property (Visio)
 keywords: vis_sdr.chm10013350
 f1_keywords:
 - vis_sdr.chm10013350
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomMenusFile Property (Visio)
+# Application.CustomMenusFile property (Visio)
 
 Gets or sets the name of the file that defines custom menus and accelerators for an  **Application** object. Read/write.
 

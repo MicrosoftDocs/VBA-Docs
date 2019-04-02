@@ -1,5 +1,5 @@
 ---
-title: Master Object (Visio)
+title: Master object (Visio)
 keywords: vis_sdr.chm10130
 f1_keywords:
 - vis_sdr.chm10130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master Object (Visio)
+# Master object (Visio)
 
 Represents a master in a stencil.
 

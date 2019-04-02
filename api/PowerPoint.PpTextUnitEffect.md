@@ -1,5 +1,5 @@
 ---
-title: PpTextUnitEffect Enumeration (PowerPoint)
+title: PpTextUnitEffect enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpTextUnitEffect
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpTextUnitEffect Enumeration (PowerPoint)
+# PpTextUnitEffect enumeration (PowerPoint)
 
 Constants that specify how text-unit effects are animated, passed to and returned by the  **TextUnitEffect** property of the **AnimationSettings** object.
 

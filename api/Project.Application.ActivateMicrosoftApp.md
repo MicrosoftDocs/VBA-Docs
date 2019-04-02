@@ -1,5 +1,5 @@
 ---
-title: Application.ActivateMicrosoftApp Method (Project)
+title: Application.ActivateMicrosoftApp method (Project)
 keywords: vbapj.chm131193
 f1_keywords:
 - vbapj.chm131193
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActivateMicrosoftApp Method (Project)
+# Application.ActivateMicrosoftApp method (Project)
 
 Activates a Microsoft application if the application is running or starts a new instance if the application is not running.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeginUndoScope Method (Visio)
+title: InvisibleApp.BeginUndoScope method (Visio)
 keywords: vis_sdr.chm17516085
 f1_keywords:
 - vis_sdr.chm17516085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeginUndoScope Method (Visio)
+# InvisibleApp.BeginUndoScope method (Visio)
 
 Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
 

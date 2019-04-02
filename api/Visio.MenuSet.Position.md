@@ -1,5 +1,5 @@
 ---
-title: MenuSet.Position Property (Visio)
+title: MenuSet.Position property (Visio)
 keywords: vis_sdr.chm13314095
 f1_keywords:
 - vis_sdr.chm13314095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSet.Position Property (Visio)
+# MenuSet.Position property (Visio)
 
 Gets or sets the position of an object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Assignment.FixedMaterialAssignment Property (Project)
+title: Assignment.FixedMaterialAssignment property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.FixedMaterialAssignment
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.FixedMaterialAssignment Property (Project)
+# Assignment.FixedMaterialAssignment property (Project)
 
  **True** if the consumption of the assigned material resource occurs in a single, fixed amount. **False** if the consumption occurs at an hourly rate. Read-only **Boolean**.
 

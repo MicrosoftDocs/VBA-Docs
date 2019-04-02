@@ -1,5 +1,5 @@
 ---
-title: Document.Pages Property (Visio)
+title: Document.Pages property (Visio)
 keywords: vis_sdr.chm10513995
 f1_keywords:
 - vis_sdr.chm10513995
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Pages Property (Visio)
+# Document.Pages property (Visio)
 
 Returns the  **Pages** collection for a document. Read-only.
 

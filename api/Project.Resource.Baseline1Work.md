@@ -1,5 +1,5 @@
 ---
-title: Resource.Baseline1Work Property (Project)
+title: Resource.Baseline1Work property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Baseline1Work
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Baseline1Work Property (Project)
+# Resource.Baseline1Work property (Project)
 
 Gets or sets the baseline work (in minutes) for a  **Resource** Read/write **Variant**.
 

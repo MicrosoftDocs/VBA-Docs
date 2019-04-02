@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AfterResume Event (Visio)
+title: InvisibleApp.AfterResume event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AfterResume
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.AfterResume Event (Visio)
+# InvisibleApp.AfterResume event (Visio)
 
 Occurs when the operating system resumes normal operation after having been suspended.
 

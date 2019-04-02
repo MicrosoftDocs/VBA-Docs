@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeStyleDelete Event (Visio)
+title: Application.BeforeStyleDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeStyleDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeStyleDelete Event (Visio)
+# Application.BeforeStyleDelete event (Visio)
 
 Occurs before a style is deleted.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Date4 Property (Project)
+title: Task.Date4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Date4
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Date4 Property (Project)
+# Task.Date4 property (Project)
 
 Gets or sets the value of the  **Date4** custom field for the task. Read/write **Variant**.
 

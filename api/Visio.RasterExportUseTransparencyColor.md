@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportUseTransparencyColor Property (Visio)
+title: ApplicationSettings.RasterExportUseTransparencyColor property (Visio)
 keywords: vis_sdr.chm16262565
 f1_keywords:
 - vis_sdr.chm16262565
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportUseTransparencyColor Property (Visio)
+# ApplicationSettings.RasterExportUseTransparencyColor property (Visio)
 
 Determines whether Microsoft Visio applies, to the exported image, the transparency color that is specified in the  **RasterExportTransparencyColor** property when you call the **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a GIF or PNG file. Read/write.
 

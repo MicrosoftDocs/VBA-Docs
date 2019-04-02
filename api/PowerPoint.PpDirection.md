@@ -1,5 +1,5 @@
 ---
-title: PpDirection Enumeration (PowerPoint)
+title: PpDirection enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpDirection
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpDirection Enumeration (PowerPoint)
+# PpDirection enumeration (PowerPoint)
 
 Specifies the layout direction for text, table cells , or user interface.
 

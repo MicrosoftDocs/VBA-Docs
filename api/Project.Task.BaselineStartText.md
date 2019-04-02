@@ -1,5 +1,5 @@
 ---
-title: Task.BaselineStartText Property (Project)
+title: Task.BaselineStartText property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.BaselineStartText
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.BaselineStartText Property (Project)
+# Task.BaselineStartText property (Project)
 
 Gets or sets a string representation of the baseline start date of a task. Read/write  **String**.
 

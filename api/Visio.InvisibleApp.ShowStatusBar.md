@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShowStatusBar Property (Visio)
+title: InvisibleApp.ShowStatusBar property (Visio)
 keywords: vis_sdr.chm17514380
 f1_keywords:
 - vis_sdr.chm17514380
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShowStatusBar Property (Visio)
+# InvisibleApp.ShowStatusBar property (Visio)
 
 Determines whether the status bar is shown. Read/write. 
 

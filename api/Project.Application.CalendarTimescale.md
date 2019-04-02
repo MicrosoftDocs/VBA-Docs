@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarTimescale Method (Project)
+title: Application.CalendarTimescale method (Project)
 keywords: vbapj.chm2345
 f1_keywords:
 - vbapj.chm2345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarTimescale Method (Project)
+# Application.CalendarTimescale method (Project)
 
 Displays the  **Timescale** dialog box, which allows the user to customize the Calendar view.
 

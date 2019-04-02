@@ -1,5 +1,5 @@
 ---
-title: VisUIButtonState Enumeration (Visio)
+title: VisUIButtonState enumeration (Visio)
 keywords: vis_sdr.chm70295
 f1_keywords:
 - vis_sdr.chm70295
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUIButtonState Enumeration (Visio)
+# VisUIButtonState enumeration (Visio)
 
 Constants describing the state of buttons in command bars to be passed to and returned from the  **ToolbarItem.State** property
 

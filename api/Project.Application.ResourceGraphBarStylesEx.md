@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceGraphBarStylesEx Method (Project)
+title: Application.ResourceGraphBarStylesEx method (Project)
 keywords: vbapj.chm2153
 f1_keywords:
 - vbapj.chm2153
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceGraphBarStylesEx Method (Project)
+# Application.ResourceGraphBarStylesEx method (Project)
 
 Sets the styles of bars on the Resource Graph view, where colors can be hexadecimal values. 
 

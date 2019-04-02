@@ -1,5 +1,5 @@
 ---
-title: Assignment.UniqueID Property (Project)
+title: Assignment.UniqueID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.UniqueID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.UniqueID Property (Project)
+# Assignment.UniqueID property (Project)
 
 Gets the unique identification number of the assignment. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.UndoEnabled Property (Visio)
+title: Application.UndoEnabled property (Visio)
 keywords: vis_sdr.chm10014610
 f1_keywords:
 - vis_sdr.chm10014610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UndoEnabled Property (Visio)
+# Application.UndoEnabled property (Visio)
 
 Determines whether undo information is maintained in memory. Read/write.
 

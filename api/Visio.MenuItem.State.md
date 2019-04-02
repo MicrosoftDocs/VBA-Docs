@@ -1,5 +1,5 @@
 ---
-title: MenuItem.State Property (Visio)
+title: MenuItem.State property (Visio)
 keywords: vis_sdr.chm12914425
 f1_keywords:
 - vis_sdr.chm12914425
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.State Property (Visio)
+# MenuItem.State property (Visio)
 
 Determines a menu item's state, pressed or not pressed. Read/write.
 

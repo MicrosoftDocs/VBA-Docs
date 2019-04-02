@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableDependencyDelete Method (Project)
+title: Project.DeliverableDependencyDelete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableDependencyDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableDependencyDelete Method (Project)
+# Project.DeliverableDependencyDelete method (Project)
 
 Deletes the dependency on the deliverable.
 

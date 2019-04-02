@@ -1,5 +1,5 @@
 ---
-title: PjRowColSize Enumeration (Project)
+title: PjRowColSize enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjRowColSize
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjRowColSize Enumeration (Project)
+# PjRowColSize enumeration (Project)
 
 Contains constants that specify the size of a row or a column.
 

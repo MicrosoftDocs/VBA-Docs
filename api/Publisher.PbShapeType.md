@@ -1,5 +1,5 @@
 ---
-title: PbShapeType Enumeration (Publisher)
+title: PbShapeType enumeration (Publisher)
 keywords: vbapb10.chm65541
 f1_keywords:
 - vbapb10.chm65541
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbShapeType Enumeration (Publisher)
+# PbShapeType enumeration (Publisher)
 
  Represents the shape type.
 

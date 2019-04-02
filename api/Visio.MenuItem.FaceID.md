@@ -1,5 +1,5 @@
 ---
-title: MenuItem.FaceID Property (Visio)
+title: MenuItem.FaceID property (Visio)
 keywords: vis_sdr.chm12913495
 f1_keywords:
 - vis_sdr.chm12913495
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.FaceID Property (Visio)
+# MenuItem.FaceID property (Visio)
 
 Gets or sets the icon for an item. Read/write.
 

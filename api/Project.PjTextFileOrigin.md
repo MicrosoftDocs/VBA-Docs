@@ -1,5 +1,5 @@
 ---
-title: PjTextFileOrigin Enumeration (Project)
+title: PjTextFileOrigin enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTextFileOrigin
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTextFileOrigin Enumeration (Project)
+# PjTextFileOrigin enumeration (Project)
 
 Contains constants that specify the character set under which a text file was created. 
 

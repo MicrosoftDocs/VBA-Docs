@@ -1,5 +1,5 @@
 ---
-title: Style.NameU Property (Visio)
+title: Style.NameU property (Visio)
 keywords: vis_sdr.chm11451985
 f1_keywords:
 - vis_sdr.chm11451985
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.NameU Property (Visio)
+# Style.NameU property (Visio)
 
 Specifies the universal name of a  **Style** object. Read/write.
 

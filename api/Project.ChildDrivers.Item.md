@@ -1,5 +1,5 @@
 ---
-title: ChildDrivers.Item Property (Project)
+title: ChildDrivers.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.ChildDrivers.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChildDrivers.Item Property (Project)
+# ChildDrivers.Item property (Project)
 
 Gets a single  **Task** object from the **ChildDrivers** collection. Read-only **Task**.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.RemoveHiddenInformation Method (Visio)
+title: Document.RemoveHiddenInformation method (Visio)
 keywords: vis_sdr.chm10500000
 f1_keywords:
 - vis_sdr.chm10500000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.RemoveHiddenInformation Method (Visio)
+# Document.RemoveHiddenInformation method (Visio)
 
 Removes hidden information, such as personal information and external data, from a Microsoft Visio document.
 

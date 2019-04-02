@@ -1,5 +1,5 @@
 ---
-title: Fonts.Document Property (Visio)
+title: Fonts.Document property (Visio)
 keywords: vis_sdr.chm12113430
 f1_keywords:
 - vis_sdr.chm12113430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Document Property (Visio)
+# Fonts.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

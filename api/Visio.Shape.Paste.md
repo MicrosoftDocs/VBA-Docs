@@ -1,5 +1,5 @@
 ---
-title: Shape.Paste Method (Visio)
+title: Shape.Paste method (Visio)
 keywords: vis_sdr.chm11216430
 f1_keywords:
 - vis_sdr.chm11216430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Paste Method (Visio)
+# Shape.Paste method (Visio)
 
 Pastes the contents of the Clipboard into an object.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.InhibitSelectChange Property (Visio)
+title: InvisibleApp.InhibitSelectChange property (Visio)
 keywords: vis_sdr.chm17550675
 f1_keywords:
 - vis_sdr.chm17550675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.InhibitSelectChange Property (Visio)
+# InvisibleApp.InhibitSelectChange property (Visio)
 
 Determines whether shapes added to the drawing page by Automation are selected. Read/write.
 

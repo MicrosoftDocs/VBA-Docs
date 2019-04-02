@@ -1,5 +1,5 @@
 ---
-title: Application.ZoomOut Method (Project)
+title: Application.ZoomOut method (Project)
 keywords: vbapj.chm2035
 f1_keywords:
 - vbapj.chm2035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ZoomOut Method (Project)
+# Application.ZoomOut method (Project)
 
 Zooms out from the active view. Not available on the Resource Sheet, Task Sheet, or any of the form views.
 

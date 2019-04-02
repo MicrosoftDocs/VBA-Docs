@@ -1,5 +1,5 @@
 ---
-title: Application.SetTPField Method (Project)
+title: Application.SetTPField method (Project)
 keywords: vbapj.chm1513
 f1_keywords:
 - vbapj.chm1513
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetTPField Method (Project)
+# Application.SetTPField method (Project)
 
 Sets a value for the percent complete field of one or more tasks in the Team Planner view.
 

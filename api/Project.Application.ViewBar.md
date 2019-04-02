@@ -1,5 +1,5 @@
 ---
-title: Application.ViewBar Method (Project)
+title: Application.ViewBar method (Project)
 keywords: vbapj.chm966
 f1_keywords:
 - vbapj.chm966
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewBar Method (Project)
+# Application.ViewBar method (Project)
 
 Shows or hides the View Bar.
 

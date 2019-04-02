@@ -1,5 +1,5 @@
 ---
-title: Chart.UpdateChartData Method (Project)
+title: Chart.UpdateChartData method (Project)
 keywords: vbapj.chm131637
 f1_keywords:
 - vbapj.chm131637
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.UpdateChartData Method (Project)
+# Chart.UpdateChartData method (Project)
 Updates the specified Project data on a chart.
 
 ## Syntax

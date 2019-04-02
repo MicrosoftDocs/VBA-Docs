@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline9DeliverableStart Property (Project)
+title: Task.Baseline9DeliverableStart property (Project)
 keywords: vbapj.chm131558
 f1_keywords:
 - vbapj.chm131558
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline9DeliverableStart Property (Project)
+# Task.Baseline9DeliverableStart property (Project)
 
 Gets or sets the task baseline9 deliverables start date. Read/write  **Variant**.
 

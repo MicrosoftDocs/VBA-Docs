@@ -1,5 +1,5 @@
 ---
-title: Window.ShowRulers Property (Visio)
+title: Window.ShowRulers property (Visio)
 keywords: vis_sdr.chm11614375
 f1_keywords:
 - vis_sdr.chm11614375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.ShowRulers Property (Visio)
+# Window.ShowRulers property (Visio)
 
 Determines whether rulers are shown in the drawing window. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Project Object (Project)
+title: Project object (Project)
 ms.prod: project-server
 api_name:
 - Project.Project
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project Object (Project)
+# Project object (Project)
 
 Represents one project in the set of open projects. The  **Project** object is a member of the **[Projects](Project.projects.md)** collection.
 

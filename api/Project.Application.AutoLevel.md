@@ -1,5 +1,5 @@
 ---
-title: Application.AutoLevel Property (Project)
+title: Application.AutoLevel property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.AutoLevel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AutoLevel Property (Project)
+# Application.AutoLevel property (Project)
 
  **True** if resources are automatically leveled. Read/write **Boolean**.
 

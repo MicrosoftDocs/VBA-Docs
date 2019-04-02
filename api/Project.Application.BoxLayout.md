@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLayout Method (Project)
+title: Application.BoxLayout method (Project)
 keywords: vbapj.chm43
 f1_keywords:
 - vbapj.chm43
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxLayout Method (Project)
+# Application.BoxLayout method (Project)
 
 Specifies the layout of boxes in the active Network Diagram view (PERT chart).
 

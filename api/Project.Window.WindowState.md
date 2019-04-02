@@ -1,5 +1,5 @@
 ---
-title: Window.WindowState Property (Project)
+title: Window.WindowState property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.WindowState
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.WindowState Property (Project)
+# Window.WindowState property (Project)
 
 Gets or sets the state the window, where the state is maximized or normal. Read/write  **PjWindowState**.
 

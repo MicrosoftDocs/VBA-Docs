@@ -1,5 +1,5 @@
 ---
-title: VisLangFlags Enumeration (Visio)
+title: VisLangFlags enumeration (Visio)
 keywords: vis_sdr.chm70705
 f1_keywords:
 - vis_sdr.chm70705
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisLangFlags Enumeration (Visio)
+# VisLangFlags enumeration (Visio)
 
 
 

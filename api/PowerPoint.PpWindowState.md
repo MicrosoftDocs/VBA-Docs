@@ -1,5 +1,5 @@
 ---
-title: PpWindowState Enumeration (PowerPoint)
+title: PpWindowState enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpWindowState
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpWindowState Enumeration (PowerPoint)
+# PpWindowState enumeration (PowerPoint)
 
 Constants that specify the window state, passed to and returned by the  **WindowState** property of the **DocumentWindow** object.
 

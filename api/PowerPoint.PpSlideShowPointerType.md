@@ -1,5 +1,5 @@
 ---
-title: PpSlideShowPointerType Enumeration (PowerPoint)
+title: PpSlideShowPointerType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideShowPointerType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpSlideShowPointerType Enumeration (PowerPoint)
+# PpSlideShowPointerType enumeration (PowerPoint)
 
 Specifies the type of pointer for the slideshow.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages.PageChanged Event (Visio)
+title: Pages.PageChanged event (Visio)
 keywords: vis_sdr.chm11019205
 f1_keywords:
 - vis_sdr.chm11019205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.PageChanged Event (Visio)
+# Pages.PageChanged event (Visio)
 
 Occurs after the name of a page, the background page associated with a page, or the page type (foreground or background) changes.
 

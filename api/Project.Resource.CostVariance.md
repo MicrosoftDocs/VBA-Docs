@@ -1,5 +1,5 @@
 ---
-title: Resource.CostVariance Property (Project)
+title: Resource.CostVariance property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.CostVariance
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.CostVariance Property (Project)
+# Resource.CostVariance property (Project)
 
 Gets the variance between the baseline cost and the cost of a  **Resource**. Read-only **Variant**.
 

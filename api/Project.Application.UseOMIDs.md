@@ -1,5 +1,5 @@
 ---
-title: Application.UseOMIDs Property (Project)
+title: Application.UseOMIDs property (Project)
 keywords: vbapj.chm132781
 f1_keywords:
 - vbapj.chm132781
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UseOMIDs Property (Project)
+# Application.UseOMIDs property (Project)
 
 Gets or sets the corresponding  **Use internal IDs** option on the **Advanced** tab of the **Project Options** dialog box. Read/write **Boolean**.
 

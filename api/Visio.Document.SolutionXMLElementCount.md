@@ -1,5 +1,5 @@
 ---
-title: Document.SolutionXMLElementCount Property (Visio)
+title: Document.SolutionXMLElementCount property (Visio)
 keywords: vis_sdr.chm10550860
 f1_keywords:
 - vis_sdr.chm10550860
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SolutionXMLElementCount Property (Visio)
+# Document.SolutionXMLElementCount property (Visio)
 
 Returns the number of SolutionXML elements in a document. Read-only.
 

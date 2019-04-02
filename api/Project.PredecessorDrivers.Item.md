@@ -1,5 +1,5 @@
 ---
-title: PredecessorDrivers.Item Property (Project)
+title: PredecessorDrivers.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.PredecessorDrivers.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PredecessorDrivers.Item Property (Project)
+# PredecessorDrivers.Item property (Project)
 
 Gets a single  **TaskDependency** object from a **PredecessorDrivers** collection. Read-only **TaskDependency**.
 

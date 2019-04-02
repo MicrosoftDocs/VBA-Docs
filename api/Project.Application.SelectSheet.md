@@ -1,5 +1,5 @@
 ---
-title: Application.SelectSheet Method (Project)
+title: Application.SelectSheet method (Project)
 keywords: vbapj.chm2067
 f1_keywords:
 - vbapj.chm2067
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectSheet Method (Project)
+# Application.SelectSheet method (Project)
 
 Selects all cells in the active table.
 

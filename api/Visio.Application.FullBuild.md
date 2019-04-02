@@ -1,5 +1,5 @@
 ---
-title: Application.FullBuild Property (Visio)
+title: Application.FullBuild property (Visio)
 keywords: vis_sdr.chm10051220
 f1_keywords:
 - vis_sdr.chm10051220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FullBuild Property (Visio)
+# Application.FullBuild property (Visio)
 
 Returns the full build number of the running instance. Read-only. 
 

@@ -1,5 +1,5 @@
 ---
-title: Application.MouseMove Event (Visio)
+title: Application.MouseMove event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.MouseMove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MouseMove Event (Visio)
+# Application.MouseMove event (Visio)
 
 Occurs when the mouse is moved.
 

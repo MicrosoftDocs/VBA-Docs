@@ -1,5 +1,5 @@
 ---
-title: Shape.RowCount Property (Visio)
+title: Shape.RowCount property (Visio)
 keywords: vis_sdr.chm11214245
 f1_keywords:
 - vis_sdr.chm11214245
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.RowCount Property (Visio)
+# Shape.RowCount property (Visio)
 
 Returns the number of rows in a ShapeSheet section. Read-only.
 

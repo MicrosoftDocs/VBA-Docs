@@ -1,5 +1,5 @@
 ---
-title: Project.TaskFilters Property (Project)
+title: Project.TaskFilters property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.TaskFilters
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.TaskFilters Property (Project)
+# Project.TaskFilters property (Project)
 
 Gets a  **[Filters](Project.Filter.md)** collection of the task filters in the project. Read-only **Filters**.
 

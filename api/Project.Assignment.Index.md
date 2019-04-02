@@ -1,5 +1,5 @@
 ---
-title: Assignment.Index Property (Project)
+title: Assignment.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Index Property (Project)
+# Assignment.Index property (Project)
 
 Gets the index of an  **Assignment** object in the containing **Assignments** collection. Read-only **Long**.
 

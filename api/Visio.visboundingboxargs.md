@@ -1,5 +1,5 @@
 ---
-title: VisBoundingBoxArgs Enumeration (Visio)
+title: VisBoundingBoxArgs enumeration (Visio)
 keywords: vis_sdr.chm70060
 f1_keywords:
 - vis_sdr.chm70060
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisBoundingBoxArgs Enumeration (Visio)
+# VisBoundingBoxArgs enumeration (Visio)
 
 Flags to be passed to the  **BoundingBox** method of various objects.
 

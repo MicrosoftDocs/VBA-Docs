@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.QueryCancelReplaceShapes Event (Visio)
+title: InvisibleApp.QueryCancelReplaceShapes event (Visio)
 ms.prod: visio
 ms.assetid: 5e5d9b76-dfd4-1d02-d205-9e64350449d5
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.QueryCancelReplaceShapes Event (Visio)
+# InvisibleApp.QueryCancelReplaceShapes event (Visio)
 
 Occurs immediately after a shape-replacement operation is requested. If any event handler returns  **True**, the operation is canceled.
 

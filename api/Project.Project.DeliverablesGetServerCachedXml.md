@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverablesGetServerCachedXml Method (Project)
+title: Project.DeliverablesGetServerCachedXml method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverablesGetServerCachedXml
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverablesGetServerCachedXml Method (Project)
+# Project.DeliverablesGetServerCachedXml method (Project)
 
 Gets the cached XML data from Project Server for all of the deliverables and dependencies in a project.
 

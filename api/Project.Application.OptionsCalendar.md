@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsCalendar Method (Project)
+title: Application.OptionsCalendar method (Project)
 keywords: vbapj.chm649
 f1_keywords:
 - vbapj.chm649
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsCalendar Method (Project)
+# Application.OptionsCalendar method (Project)
 
 Sets options for the calendar of the active project.
 

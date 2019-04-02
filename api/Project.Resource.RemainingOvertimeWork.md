@@ -1,5 +1,5 @@
 ---
-title: Resource.RemainingOvertimeWork Property (Project)
+title: Resource.RemainingOvertimeWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.RemainingOvertimeWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.RemainingOvertimeWork Property (Project)
+# Resource.RemainingOvertimeWork property (Project)
 
 Gets the remaining overtime work (in minutes) for the resource. Read-only  **Variant**.
 

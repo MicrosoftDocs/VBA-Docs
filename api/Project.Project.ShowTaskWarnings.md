@@ -1,5 +1,5 @@
 ---
-title: Project.ShowTaskWarnings Property (Project)
+title: Project.ShowTaskWarnings property (Project)
 keywords: vbapj.chm131123
 f1_keywords:
 - vbapj.chm131123
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ShowTaskWarnings Property (Project)
+# Project.ShowTaskWarnings property (Project)
 
  **True** if task warnings in the active project are displayed; otherwise, **False**. Read/write **Boolean**.
 

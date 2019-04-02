@@ -1,5 +1,5 @@
 ---
-title: Resource.SetField Method (Project)
+title: Resource.SetField method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.SetField
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.SetField Method (Project)
+# Resource.SetField method (Project)
 
 Sets the value of the specified resource custom field.
 

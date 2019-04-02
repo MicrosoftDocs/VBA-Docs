@@ -1,5 +1,5 @@
 ---
-title: Cell.Section Property (Visio)
+title: Cell.Section property (Visio)
 keywords: vis_sdr.chm10151140
 f1_keywords:
 - vis_sdr.chm10151140
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Section Property (Visio)
+# Cell.Section property (Visio)
 
 Returns the index of the cell's section. Read-only.
 

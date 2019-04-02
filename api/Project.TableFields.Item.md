@@ -1,5 +1,5 @@
 ---
-title: TableFields.Item Property (Project)
+title: TableFields.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.TableFields.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TableFields.Item Property (Project)
+# TableFields.Item property (Project)
 
 Gets a single  **TableField** object from the **TableFields** collection. Read-only **TableField**.
 

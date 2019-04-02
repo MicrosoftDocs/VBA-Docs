@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectAssignmentNew Event (Project)
+title: Application.ProjectAssignmentNew event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectAssignmentNew
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectAssignmentNew Event (Project)
+# Application.ProjectAssignmentNew event (Project)
 
 Occurs when a new assignment is created.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.GroupBySummary Property (Project)
+title: Resource.GroupBySummary property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.GroupBySummary
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.GroupBySummary Property (Project)
+# Resource.GroupBySummary property (Project)
 
  **True** if the selected item in a resource view is in a group summary row; otherwise, **false**. Read-only **Boolean**.
 

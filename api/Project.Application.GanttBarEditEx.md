@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarEditEx Method (Project)
+title: Application.GanttBarEditEx method (Project)
 keywords: vbapj.chm2145
 f1_keywords:
 - vbapj.chm2145
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarEditEx Method (Project)
+# Application.GanttBarEditEx method (Project)
 
 Changes or creates a Gantt bar style, where colors can be hexadecimal values.
 

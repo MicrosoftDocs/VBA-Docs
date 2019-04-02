@@ -1,5 +1,5 @@
 ---
-title: Resource.Text23 Property (Project)
+title: Resource.Text23 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Text23
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Text23 Property (Project)
+# Resource.Text23 property (Project)
 
 Gets or sets the value of a local Text custom field for the resource. Read/write  **String**.
 

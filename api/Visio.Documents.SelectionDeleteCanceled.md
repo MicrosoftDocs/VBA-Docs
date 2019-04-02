@@ -1,5 +1,5 @@
 ---
-title: Documents.SelectionDeleteCanceled Event (Visio)
+title: Documents.SelectionDeleteCanceled event (Visio)
 keywords: vis_sdr.chm10619365
 f1_keywords:
 - vis_sdr.chm10619365
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.SelectionDeleteCanceled Event (Visio)
+# Documents.SelectionDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelSelectionDelete** event.
 

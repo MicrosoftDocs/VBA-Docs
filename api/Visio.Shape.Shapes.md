@@ -1,5 +1,5 @@
 ---
-title: Shape.Shapes Property (Visio)
+title: Shape.Shapes property (Visio)
 keywords: vis_sdr.chm11214330
 f1_keywords:
 - vis_sdr.chm11214330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Shapes Property (Visio)
+# Shape.Shapes property (Visio)
 
 Returns the  **Shapes** collection for a page, master, or group. Read-only.
 

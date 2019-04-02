@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.ImportIcon Method (Visio)
+title: MasterShortcut.ImportIcon method (Visio)
 keywords: vis_sdr.chm16016360
 f1_keywords:
 - vis_sdr.chm16016360
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.ImportIcon Method (Visio)
+# MasterShortcut.ImportIcon method (Visio)
 
 Imports the icon for a  **Master** object from a named file.
 

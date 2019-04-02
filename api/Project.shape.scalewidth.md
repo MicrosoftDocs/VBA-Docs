@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleWidth Method (Project)
+title: Shape.ScaleWidth method (Project)
 ms.prod: project-server
 ms.assetid: 78ab4771-8364-ab1d-5d52-924d7605b833
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ScaleWidth Method (Project)
+# Shape.ScaleWidth method (Project)
 Scales the width of the shape by a specified factor.
 
 ## Syntax

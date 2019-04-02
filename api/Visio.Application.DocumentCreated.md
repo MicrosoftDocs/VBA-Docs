@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentCreated Event (Visio)
+title: Application.DocumentCreated event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.DocumentCreated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentCreated Event (Visio)
+# Application.DocumentCreated event (Visio)
 
 Occurs after a document is created.
 

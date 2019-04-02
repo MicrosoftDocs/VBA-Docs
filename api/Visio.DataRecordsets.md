@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets Object (Visio)
+title: DataRecordsets object (Visio)
 keywords: vis_sdr.chm61000
 f1_keywords:
 - vis_sdr.chm61000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets Object (Visio)
+# DataRecordsets object (Visio)
 
 The collection of  **DataRecordset** objects associated with a **Document** object.
 

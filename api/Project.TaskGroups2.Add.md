@@ -1,5 +1,5 @@
 ---
-title: TaskGroups2.Add Method (Project)
+title: TaskGroups2.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskGroups2.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskGroups2.Add Method (Project)
+# TaskGroups2.Add method (Project)
 
 Adds a  **[Group2](Project.Group2.md)** object to the **TaskGroups2** collection.
 

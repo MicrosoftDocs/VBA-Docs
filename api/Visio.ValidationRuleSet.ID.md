@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSet.ID Property (Visio)
+title: ValidationRuleSet.ID property (Visio)
 keywords: vis_sdr.chm18213675
 f1_keywords:
 - vis_sdr.chm18213675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSet.ID Property (Visio)
+# ValidationRuleSet.ID property (Visio)
 
 Gets the unique identifier of the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Resources Object (Project)
+title: Resources object (Project)
 ms.prod: project-server
 ms.assetid: 84f8357a-358b-f2ae-e164-65c0c5abd383
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Resources Object (Project)
+# Resources object (Project)
 
 Contains a collection of  **[Resource](Project.Resource.md)** objects.
 

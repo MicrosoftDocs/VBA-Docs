@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.PageAdded Event (Visio)
+title: InvisibleApp.PageAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.PageAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.PageAdded Event (Visio)
+# InvisibleApp.PageAdded event (Visio)
 
 Occurs after a new page is added to a document.
 

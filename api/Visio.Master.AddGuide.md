@@ -1,5 +1,5 @@
 ---
-title: Master.AddGuide Method (Visio)
+title: Master.AddGuide method (Visio)
 keywords: vis_sdr.chm10716035
 f1_keywords:
 - vis_sdr.chm10716035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.AddGuide Method (Visio)
+# Master.AddGuide method (Visio)
 
 Adds a guide to a master.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeClearBaseline Event (Project)
+title: Application.ProjectBeforeClearBaseline event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeClearBaseline
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeClearBaseline Event (Project)
+# Application.ProjectBeforeClearBaseline event (Project)
 
 Occurs before a baseline is cleared. Uses the  **EventInfo** object parameter.
 

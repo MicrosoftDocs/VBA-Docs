@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.InstanceHandle64 Property (Visio)
+title: InvisibleApp.InstanceHandle64 property (Visio)
 keywords: vis_sdr.chm17562420
 f1_keywords:
 - vis_sdr.chm17562420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.InstanceHandle64 Property (Visio)
+# InvisibleApp.InstanceHandle64 property (Visio)
 
 Gets the instance handle of the  **[InvisibleApp](Visio.InvisibleApp.md)** object for a 64-bit version of Microsoft Visio. Read-only.
 

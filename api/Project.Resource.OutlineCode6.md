@@ -1,5 +1,5 @@
 ---
-title: Resource.OutlineCode6 Property (Project)
+title: Resource.OutlineCode6 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.OutlineCode6
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.OutlineCode6 Property (Project)
+# Resource.OutlineCode6 property (Project)
 
  Gets or sets the value of the outline code custom field for a resource. Read/write **String**.
 

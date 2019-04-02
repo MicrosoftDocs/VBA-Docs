@@ -1,5 +1,5 @@
 ---
-title: Window.SelectedCell Property (Visio)
+title: Window.SelectedCell property (Visio)
 keywords: vis_sdr.chm11660125
 f1_keywords:
 - vis_sdr.chm11660125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.SelectedCell Property (Visio)
+# Window.SelectedCell property (Visio)
 
 Returns the selected cell in the ShapeSheet window. Read-only.
 

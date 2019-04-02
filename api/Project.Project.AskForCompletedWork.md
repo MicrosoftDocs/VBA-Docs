@@ -1,5 +1,5 @@
 ---
-title: Project.AskForCompletedWork Property (Project)
+title: Project.AskForCompletedWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.AskForCompletedWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.AskForCompletedWork Property (Project)
+# Project.AskForCompletedWork property (Project)
 
 Gets or sets the way completed work is reported in team status messages. Read/write  **PjTeamStatusCompletedWork**.
 

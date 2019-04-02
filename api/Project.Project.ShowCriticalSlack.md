@@ -1,5 +1,5 @@
 ---
-title: Project.ShowCriticalSlack Property (Project)
+title: Project.ShowCriticalSlack property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ShowCriticalSlack
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ShowCriticalSlack Property (Project)
+# Project.ShowCriticalSlack property (Project)
 
 Gets or sets how much slack causes a task to be displayed as a critical task. Read/write  **Long**.
 

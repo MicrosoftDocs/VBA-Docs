@@ -1,5 +1,5 @@
 ---
-title: Application.QueryCancelSuspend Event (Visio)
+title: Application.QueryCancelSuspend event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelSuspend
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.QueryCancelSuspend Event (Visio)
+# Application.QueryCancelSuspend event (Visio)
 
 Occurs before the operating system enters a suspended state. If any event handler returns  **True**, the Microsoft Visio instance will deny the operating system's request.
 

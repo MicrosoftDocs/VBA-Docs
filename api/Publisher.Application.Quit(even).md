@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Event (Publisher)
+title: Application.Quit event (Publisher)
 keywords: vbapb10.chm268435461
 f1_keywords:
 - vbapb10.chm268435461
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Quit Event (Publisher)
+# Application.Quit event (Publisher)
 
 Occurs when the user exits Microsoft Publisher.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.CenterDrawing Method (Visio)
+title: Shapes.CenterDrawing method (Visio)
 keywords: vis_sdr.chm11316105
 f1_keywords:
 - vis_sdr.chm11316105
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.CenterDrawing Method (Visio)
+# Shapes.CenterDrawing method (Visio)
 
 Centers a page's, master's, or group's shapes with respect to the extent of the page, master, or group. .
 

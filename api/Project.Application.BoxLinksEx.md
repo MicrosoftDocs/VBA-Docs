@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLinksEx Method (Project)
+title: Application.BoxLinksEx method (Project)
 keywords: vbapj.chm2158
 f1_keywords:
 - vbapj.chm2158
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxLinksEx Method (Project)
+# Application.BoxLinksEx method (Project)
 
 Specifies the appearance of link lines in the active Network Diagram view, where colors can be hexadecimal values.
 

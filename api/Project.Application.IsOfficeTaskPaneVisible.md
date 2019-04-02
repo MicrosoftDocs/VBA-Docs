@@ -1,5 +1,5 @@
 ---
-title: Application.IsOfficeTaskPaneVisible Method (Project)
+title: Application.IsOfficeTaskPaneVisible method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.IsOfficeTaskPaneVisible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.IsOfficeTaskPaneVisible Method (Project)
+# Application.IsOfficeTaskPaneVisible method (Project)
 
 Returns  **True** if any of the Office task panes are visible.
 

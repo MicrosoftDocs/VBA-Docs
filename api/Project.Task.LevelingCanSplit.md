@@ -1,5 +1,5 @@
 ---
-title: Task.LevelingCanSplit Property (Project)
+title: Task.LevelingCanSplit property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.LevelingCanSplit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.LevelingCanSplit Property (Project)
+# Task.LevelingCanSplit property (Project)
 
  **True** if leveling can create splits in remaining work. Read/write **Boolean**.
 

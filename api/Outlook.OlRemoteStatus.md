@@ -1,5 +1,5 @@
 ---
-title: OlRemoteStatus Enumeration (Outlook)
+title: OlRemoteStatus enumeration (Outlook)
 keywords: vbaol11.chm3078
 f1_keywords:
 - vbaol11.chm3078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlRemoteStatus Enumeration (Outlook)
+# OlRemoteStatus enumeration (Outlook)
 
 Indicates the status of an item after it is received by a remote user.
 

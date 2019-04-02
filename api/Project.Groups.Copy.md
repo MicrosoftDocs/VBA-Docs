@@ -1,5 +1,5 @@
 ---
-title: Groups.Copy Method (Project)
+title: Groups.Copy method (Project)
 ms.prod: project-server
 api_name:
 - Project.Groups.Copy
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Groups.Copy Method (Project)
+# Groups.Copy method (Project)
 
 Makes a copy of a group definition for the  **Groups** collection and returns a reference to the **[Group](Project.Group.md)** object.
 

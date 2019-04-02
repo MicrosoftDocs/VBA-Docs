@@ -1,5 +1,5 @@
 ---
-title: Pages.PersistsEvents Property (Visio)
+title: Pages.PersistsEvents property (Visio)
 keywords: vis_sdr.chm11014080
 f1_keywords:
 - vis_sdr.chm11014080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.PersistsEvents Property (Visio)
+# Pages.PersistsEvents property (Visio)
 
 Indicates whether an object is capable of containing persistent events in its  **EventList** collection. Read-only.
 

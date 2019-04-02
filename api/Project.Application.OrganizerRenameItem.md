@@ -1,5 +1,5 @@
 ---
-title: Application.OrganizerRenameItem Method (Project)
+title: Application.OrganizerRenameItem method (Project)
 keywords: vbapj.chm130
 f1_keywords:
 - vbapj.chm130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OrganizerRenameItem Method (Project)
+# Application.OrganizerRenameItem method (Project)
 
 Renames an item in the Organizer.
 

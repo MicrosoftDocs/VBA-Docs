@@ -1,5 +1,5 @@
 ---
-title: Shape.Duplicate Method (Visio)
+title: Shape.Duplicate method (Visio)
 keywords: vis_sdr.chm11216245
 f1_keywords:
 - vis_sdr.chm11216245
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Duplicate Method (Visio)
+# Shape.Duplicate method (Visio)
 
 Duplicates an object.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.PurgeUndo Method (Visio)
+title: Document.PurgeUndo method (Visio)
 keywords: vis_sdr.chm10516450
 f1_keywords:
 - vis_sdr.chm10516450
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PurgeUndo Method (Visio)
+# Document.PurgeUndo method (Visio)
 
 Empties the Microsoft Visio queue of undo actions.
 

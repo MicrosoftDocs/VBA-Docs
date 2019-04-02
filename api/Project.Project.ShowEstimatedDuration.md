@@ -1,5 +1,5 @@
 ---
-title: Project.ShowEstimatedDuration Property (Project)
+title: Project.ShowEstimatedDuration property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ShowEstimatedDuration
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ShowEstimatedDuration Property (Project)
+# Project.ShowEstimatedDuration property (Project)
 
  **True** if task durations in the project are displayed with the estimated character. Read/write **Boolean**.
 

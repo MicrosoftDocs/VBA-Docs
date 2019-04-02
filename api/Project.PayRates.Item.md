@@ -1,5 +1,5 @@
 ---
-title: PayRates.Item Property (Project)
+title: PayRates.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRates.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PayRates.Item Property (Project)
+# PayRates.Item property (Project)
 
 Gets a single  **PayRate** object from the **PayRates** collection. Read-only **PayRate**.
 

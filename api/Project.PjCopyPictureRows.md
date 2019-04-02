@@ -1,5 +1,5 @@
 ---
-title: PjCopyPictureRows Enumeration (Project)
+title: PjCopyPictureRows enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCopyPictureRows
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCopyPictureRows Enumeration (Project)
+# PjCopyPictureRows enumeration (Project)
 
 Contains constants that specify which rows to copy to a picture.
 

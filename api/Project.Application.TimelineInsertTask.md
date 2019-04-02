@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineInsertTask Method (Project)
+title: Application.TimelineInsertTask method (Project)
 keywords: vbapj.chm65
 f1_keywords:
 - vbapj.chm65
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimelineInsertTask Method (Project)
+# Application.TimelineInsertTask method (Project)
 
 When the Timeline view is selected, displays the  **Task Information** dialog box, and then inserts a new task into the project and adds the task to the Timeline view.
 

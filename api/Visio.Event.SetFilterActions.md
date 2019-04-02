@@ -1,5 +1,5 @@
 ---
-title: Event.SetFilterActions Method (Visio)
+title: Event.SetFilterActions method (Visio)
 keywords: vis_sdr.chm12660260
 f1_keywords:
 - vis_sdr.chm12660260
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.SetFilterActions Method (Visio)
+# Event.SetFilterActions method (Visio)
 
 Specifies the extensions to the  **MouseMove** event that Visio reports.
 

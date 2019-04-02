@@ -1,5 +1,5 @@
 ---
-title: Project.TaskTableList Property (Project)
+title: Project.TaskTableList property (Project)
 keywords: vbapj.chm132713
 f1_keywords:
 - vbapj.chm132713
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.TaskTableList Property (Project)
+# Project.TaskTableList property (Project)
 
 Gets a  **[List](Project.List.md)** object representing all task tables in the project. Read-only **List**.
 

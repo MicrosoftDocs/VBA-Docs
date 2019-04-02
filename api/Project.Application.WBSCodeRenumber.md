@@ -1,5 +1,5 @@
 ---
-title: Application.WBSCodeRenumber Method (Project)
+title: Application.WBSCodeRenumber method (Project)
 keywords: vbapj.chm629
 f1_keywords:
 - vbapj.chm629
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WBSCodeRenumber Method (Project)
+# Application.WBSCodeRenumber method (Project)
 
 Renumbers work breakdown structure (WBS) codes for either the active project or selected tasks.
 

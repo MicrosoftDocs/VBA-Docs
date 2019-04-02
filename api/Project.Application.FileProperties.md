@@ -1,5 +1,5 @@
 ---
-title: Application.FileProperties Method (Project)
+title: Application.FileProperties method (Project)
 keywords: vbapj.chm626
 f1_keywords:
 - vbapj.chm626
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileProperties Method (Project)
+# Application.FileProperties method (Project)
 
 Displays the  **Properties** dialog box for the active project file.
 

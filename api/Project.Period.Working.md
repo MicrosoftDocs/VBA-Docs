@@ -1,5 +1,5 @@
 ---
-title: Period.Working Property (Project)
+title: Period.Working property (Project)
 ms.prod: project-server
 api_name:
 - Project.Period.Working
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Period.Working Property (Project)
+# Period.Working property (Project)
 
  **True** if any day in the calendar period is a working day. Read/write **Boolean**.
 

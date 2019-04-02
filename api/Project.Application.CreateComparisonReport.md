@@ -1,5 +1,5 @@
 ---
-title: Application.CreateComparisonReport Method (Project)
+title: Application.CreateComparisonReport method (Project)
 keywords: vbapj.chm2182
 f1_keywords:
 - vbapj.chm2182
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CreateComparisonReport Method (Project)
+# Application.CreateComparisonReport method (Project)
 
 Creates a comparison report between two versions of a project. 
 

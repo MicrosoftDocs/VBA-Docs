@@ -1,5 +1,5 @@
 ---
-title: Application.TimescaleNonWorking Method (Project)
+title: Application.TimescaleNonWorking method (Project)
 keywords: vbapj.chm914
 f1_keywords:
 - vbapj.chm914
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimescaleNonWorking Method (Project)
+# Application.TimescaleNonWorking method (Project)
 
 Sets the format of nonworking times.
 

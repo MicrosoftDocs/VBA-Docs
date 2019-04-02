@@ -1,5 +1,5 @@
 ---
-title: Cell.ContainingMasterID Property (Visio)
+title: Cell.ContainingMasterID property (Visio)
 keywords: vis_sdr.chm10151700
 f1_keywords:
 - vis_sdr.chm10151700
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.ContainingMasterID Property (Visio)
+# Cell.ContainingMasterID property (Visio)
 
 Returns the ID of the  **Master** object that contains an object. Read-only.
 

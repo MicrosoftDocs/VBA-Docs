@@ -1,5 +1,5 @@
 ---
-title: Task.DeliverableGuid Property (Project)
+title: Task.DeliverableGuid property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.DeliverableGuid
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.DeliverableGuid Property (Project)
+# Task.DeliverableGuid property (Project)
 
 Gets or sets the GUID of the task deliverable. Read/write  **String**.
 

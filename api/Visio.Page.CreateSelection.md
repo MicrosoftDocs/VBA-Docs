@@ -1,5 +1,5 @@
 ---
-title: Page.CreateSelection Method (Visio)
+title: Page.CreateSelection method (Visio)
 keywords: vis_sdr.chm10951430
 f1_keywords:
 - vis_sdr.chm10951430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.CreateSelection Method (Visio)
+# Page.CreateSelection method (Visio)
 
 Creates various types of  **Selection** objects.
 

@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.PageChanged Event (Visio)
+title: DrawingControl.PageChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.PageChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.PageChanged Event (Visio)
+# DrawingControl.PageChanged event (Visio)
 
 Occurs after the name of a page, the background page associated with a page, or the page type (foreground or background) changes.
 

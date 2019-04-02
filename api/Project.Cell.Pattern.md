@@ -1,5 +1,5 @@
 ---
-title: Cell.Pattern Property (Project)
+title: Cell.Pattern property (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell.Pattern
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Pattern Property (Project)
+# Cell.Pattern property (Project)
 
 Gets or sets the pattern of the cell for a field used as a criterion in a group definition. Read/write  **PjBackgroundPattern**.
 

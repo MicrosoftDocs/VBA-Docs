@@ -1,5 +1,5 @@
 ---
-title: Master.ID Property (Visio)
+title: Master.ID property (Visio)
 keywords: vis_sdr.chm10713675
 f1_keywords:
 - vis_sdr.chm10713675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.ID Property (Visio)
+# Master.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 

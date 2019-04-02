@@ -1,5 +1,5 @@
 ---
-title: CostRateTable.Parent Property (Project)
+title: CostRateTable.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTable.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CostRateTable.Parent Property (Project)
+# CostRateTable.Parent property (Project)
 
 Gets the parent of the  **CostRateTable** object. Read-only **Resource**.
 

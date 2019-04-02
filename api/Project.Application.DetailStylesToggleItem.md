@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesToggleItem Method (Project)
+title: Application.DetailStylesToggleItem method (Project)
 keywords: vbapj.chm960
 f1_keywords:
 - vbapj.chm960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DetailStylesToggleItem Method (Project)
+# Application.DetailStylesToggleItem method (Project)
 
 Toggles the display of a timescale data field in a usage view.
 

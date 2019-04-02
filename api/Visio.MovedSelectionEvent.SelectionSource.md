@@ -1,5 +1,5 @@
 ---
-title: MovedSelectionEvent.SelectionSource Property (Visio)
+title: MovedSelectionEvent.SelectionSource property (Visio)
 keywords: vis_sdr.chm17862625
 f1_keywords:
 - vis_sdr.chm17862625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MovedSelectionEvent.SelectionSource Property (Visio)
+# MovedSelectionEvent.SelectionSource property (Visio)
 
 Returns a  **[Selection](Visio.Selection.md)** object that represents the set of selected shapes before they are moved to a sub-process page. Read-only.
 

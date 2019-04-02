@@ -1,5 +1,5 @@
 ---
-title: Assignment.Finish9 Property (Project)
+title: Assignment.Finish9 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Finish9
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Finish9 Property (Project)
+# Assignment.Finish9 property (Project)
 
 Gets or sets the local Finish custom field of the assignment. Read/write  **Variant**.
 

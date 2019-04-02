@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.Window Property (Visio)
+title: DrawingControl.Window property (Visio)
 keywords: vis_sdr.chm51020
 f1_keywords:
 - vis_sdr.chm51020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.Window Property (Visio)
+# DrawingControl.Window property (Visio)
 
 Returns the window associated with an instance of the Microsoft Visio Drawing Control. Read-only.
 

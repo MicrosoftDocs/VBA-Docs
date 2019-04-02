@@ -1,5 +1,5 @@
 ---
-title: Application.MapEdit Method (Project)
+title: Application.MapEdit method (Project)
 keywords: vbapj.chm243
 f1_keywords:
 - vbapj.chm243
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MapEdit Method (Project)
+# Application.MapEdit method (Project)
 
 Creates or edits an import/export map.
 

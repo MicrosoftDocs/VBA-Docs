@@ -1,5 +1,5 @@
 ---
-title: Application.SelectCell Method (Project)
+title: Application.SelectCell method (Project)
 keywords: vbapj.chm2070
 f1_keywords:
 - vbapj.chm2070
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectCell Method (Project)
+# Application.SelectCell method (Project)
 
 Selects a cell.
 

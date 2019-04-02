@@ -1,5 +1,5 @@
 ---
-title: Masters.ConnectionsAdded Event (Visio)
+title: Masters.ConnectionsAdded event (Visio)
 keywords: vis_sdr.chm10819095
 f1_keywords:
 - vis_sdr.chm10819095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Masters.ConnectionsAdded Event (Visio)
+# Masters.ConnectionsAdded event (Visio)
 
 Occurs after connections have been established between shapes.
 

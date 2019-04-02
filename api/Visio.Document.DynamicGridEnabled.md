@@ -1,5 +1,5 @@
 ---
-title: Document.DynamicGridEnabled Property (Visio)
+title: Document.DynamicGridEnabled property (Visio)
 keywords: vis_sdr.chm10550560
 f1_keywords:
 - vis_sdr.chm10550560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.DynamicGridEnabled Property (Visio)
+# Document.DynamicGridEnabled property (Visio)
 
 Determines whether the dynamic grid is enabled. Read/write.
 

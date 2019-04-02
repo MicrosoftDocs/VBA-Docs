@@ -1,5 +1,5 @@
 ---
-title: Application.SelectResourceColumn Method (Project)
+title: Application.SelectResourceColumn method (Project)
 keywords: vbapj.chm2066
 f1_keywords:
 - vbapj.chm2066
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectResourceColumn Method (Project)
+# Application.SelectResourceColumn method (Project)
 
 Selects a column containing resource information.
 

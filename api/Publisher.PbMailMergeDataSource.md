@@ -1,5 +1,5 @@
 ---
-title: PbMailMergeDataSource Enumeration (Publisher)
+title: PbMailMergeDataSource enumeration (Publisher)
 keywords: vbapb10.chm65598
 f1_keywords:
 - vbapb10.chm65598
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbMailMergeDataSource Enumeration (Publisher)
+# PbMailMergeDataSource enumeration (Publisher)
 
 This enumeration is not implemented. Do not use.
 

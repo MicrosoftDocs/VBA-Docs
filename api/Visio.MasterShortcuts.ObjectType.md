@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.ObjectType Property (Visio)
+title: MasterShortcuts.ObjectType property (Visio)
 keywords: vis_sdr.chm15913960
 f1_keywords:
 - vis_sdr.chm15913960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts.ObjectType Property (Visio)
+# MasterShortcuts.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

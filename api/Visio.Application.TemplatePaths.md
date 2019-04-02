@@ -1,5 +1,5 @@
 ---
-title: Application.TemplatePaths Property (Visio)
+title: Application.TemplatePaths property (Visio)
 keywords: vis_sdr.chm10014510
 f1_keywords:
 - vis_sdr.chm10014510
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TemplatePaths Property (Visio)
+# Application.TemplatePaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for templates. Read/write.
 

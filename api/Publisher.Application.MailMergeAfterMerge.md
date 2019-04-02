@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeAfterMerge Event (Publisher)
+title: Application.MailMergeAfterMerge event (Publisher)
 keywords: vbapb10.chm268435465
 f1_keywords:
 - vbapb10.chm268435465
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeAfterMerge Event (Publisher)
+# Application.MailMergeAfterMerge event (Publisher)
 
 Occurs after all records in a mail merge have merged successfully.
 

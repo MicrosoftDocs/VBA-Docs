@@ -1,5 +1,5 @@
 ---
-title: Document.TimeEdited Property (Visio)
+title: Document.TimeEdited property (Visio)
 keywords: vis_sdr.chm10550910
 f1_keywords:
 - vis_sdr.chm10550910
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.TimeEdited Property (Visio)
+# Document.TimeEdited property (Visio)
 
 Returns the date and time the document was last edited. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.TaskOnTimeline Method (Project)
+title: Application.TaskOnTimeline method (Project)
 keywords: vbapj.chm60
 f1_keywords:
 - vbapj.chm60
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskOnTimeline Method (Project)
+# Application.TaskOnTimeline method (Project)
 
 Manages tasks on the Timeline pane or for a specified custom timeline.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineShowHide Method (Project)
+title: Application.TimelineShowHide method (Project)
 keywords: vbapj.chm62
 f1_keywords:
 - vbapj.chm62
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimelineShowHide Method (Project)
+# Application.TimelineShowHide method (Project)
 
 Shows or hides the specified feature in the Timeline view.
 

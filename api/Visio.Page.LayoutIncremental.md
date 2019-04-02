@@ -1,5 +1,5 @@
 ---
-title: Page.LayoutIncremental Method (Visio)
+title: Page.LayoutIncremental method (Visio)
 keywords: vis_sdr.chm10962140
 f1_keywords:
 - vis_sdr.chm10962140
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.LayoutIncremental Method (Visio)
+# Page.LayoutIncremental method (Visio)
 
 Makes small adjustments to the position of shapes on the drawing page to better align the shapes or to space them evenly from other shapes.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.BeforePageDelete Event (Visio)
+title: Document.BeforePageDelete event (Visio)
 keywords: vis_sdr.chm10519050
 f1_keywords:
 - vis_sdr.chm10519050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.BeforePageDelete Event (Visio)
+# Document.BeforePageDelete event (Visio)
 
 Occurs before a page is deleted.
 

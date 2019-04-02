@@ -1,5 +1,5 @@
 ---
-title: Fonts.Count Property (Visio)
+title: Fonts.Count property (Visio)
 keywords: vis_sdr.chm12113330
 f1_keywords:
 - vis_sdr.chm12113330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Count Property (Visio)
+# Fonts.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

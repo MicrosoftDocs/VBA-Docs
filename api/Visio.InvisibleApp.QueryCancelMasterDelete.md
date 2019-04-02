@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.QueryCancelMasterDelete Event (Visio)
+title: InvisibleApp.QueryCancelMasterDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QueryCancelMasterDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.QueryCancelMasterDelete Event (Visio)
+# InvisibleApp.QueryCancelMasterDelete event (Visio)
 
 Occurs before the application deletes a master in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

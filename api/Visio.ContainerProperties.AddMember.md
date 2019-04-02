@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.AddMember Method (Visio)
+title: ContainerProperties.AddMember method (Visio)
 keywords: vis_sdr.chm17662355
 f1_keywords:
 - vis_sdr.chm17662355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.AddMember Method (Visio)
+# ContainerProperties.AddMember method (Visio)
 
 Adds a shape or a set of shapes to the container.
 

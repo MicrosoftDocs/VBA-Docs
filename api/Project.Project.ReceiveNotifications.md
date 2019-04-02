@@ -1,5 +1,5 @@
 ---
-title: Project.ReceiveNotifications Property (Project)
+title: Project.ReceiveNotifications property (Project)
 keywords: vbapj.chm132537
 f1_keywords:
 - vbapj.chm132537
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ReceiveNotifications Property (Project)
+# Project.ReceiveNotifications property (Project)
 
  **True** if the manager receives notification when new messages arrive. Obsolete in Project. Read/write **Boolean**.
 

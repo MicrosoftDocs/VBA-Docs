@@ -1,5 +1,5 @@
 ---
-title: WorkWeekDay.Calendar Property (Project)
+title: WorkWeekDay.Calendar property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeekDay.Calendar
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeekDay.Calendar Property (Project)
+# WorkWeekDay.Calendar property (Project)
 
 Gets a  **[Calendar](Project.Calendar.md)** object representing the calendar that contains the **WorkWeekDay** object. Read-only **Calendar**.
 

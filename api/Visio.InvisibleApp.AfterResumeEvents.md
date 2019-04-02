@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AfterResumeEvents Event (Visio)
+title: InvisibleApp.AfterResumeEvents event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AfterResumeEvents
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.AfterResumeEvents Event (Visio)
+# InvisibleApp.AfterResumeEvents event (Visio)
 
 Occurs after firing of events is resumed.
 

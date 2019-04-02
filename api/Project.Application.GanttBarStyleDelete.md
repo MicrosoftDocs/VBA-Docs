@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleDelete Method (Project)
+title: Application.GanttBarStyleDelete method (Project)
 keywords: vbapj.chm2059
 f1_keywords:
 - vbapj.chm2059
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleDelete Method (Project)
+# Application.GanttBarStyleDelete method (Project)
 
 Deletes a Gantt bar style from the active Gantt Chart.
 

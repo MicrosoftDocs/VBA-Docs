@@ -1,5 +1,5 @@
 ---
-title: UIObject.ToolbarSets Property (Visio)
+title: UIObject.ToolbarSets property (Visio)
 keywords: vis_sdr.chm14914560
 f1_keywords:
 - vis_sdr.chm14914560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UIObject.ToolbarSets Property (Visio)
+# UIObject.ToolbarSets property (Visio)
 
 Returns the  **ToolbarSets** collection of a **UIObject** object. Read-only.
 

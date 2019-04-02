@@ -1,5 +1,5 @@
 ---
-title: Shape.DrawSpline Method (Visio)
+title: Shape.DrawSpline method (Visio)
 keywords: vis_sdr.chm11216230
 f1_keywords:
 - vis_sdr.chm11216230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DrawSpline Method (Visio)
+# Shape.DrawSpline method (Visio)
 
 Creates a new shape whose path follows a given sequence of points.
 

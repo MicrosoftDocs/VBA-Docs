@@ -1,5 +1,5 @@
 ---
-title: Calendar.BaseCalendar Property (Project)
+title: Calendar.BaseCalendar property (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendar.BaseCalendar
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Calendar.BaseCalendar Property (Project)
+# Calendar.BaseCalendar property (Project)
 
 Gets a  **[Calendar](Project.Calendar.md)** object representing a base calendar. Read-only **Object**.
 

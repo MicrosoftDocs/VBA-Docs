@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveWindow Property (Project)
+title: Application.ActiveWindow property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ActiveWindow
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveWindow Property (Project)
+# Application.ActiveWindow property (Project)
 
 Gets a  **[Window](Project.Window.md)** object that represents the active window. Read-only **Window**.
 

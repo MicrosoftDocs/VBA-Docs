@@ -1,5 +1,5 @@
 ---
-title: Document.MacrosEnabled Property (Visio)
+title: Document.MacrosEnabled property (Visio)
 keywords: vis_sdr.chm10552080
 f1_keywords:
 - vis_sdr.chm10552080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.MacrosEnabled Property (Visio)
+# Document.MacrosEnabled property (Visio)
 
 Specifies whether you can execute macros and process events in a document's Microsoft Visual Basic for Applications (VBA) project. Read-only.
 

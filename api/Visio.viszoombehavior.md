@@ -1,5 +1,5 @@
 ---
-title: VisZoomBehavior Enumeration (Visio)
+title: VisZoomBehavior enumeration (Visio)
 keywords: vis_sdr.chm70315
 f1_keywords:
 - vis_sdr.chm70315
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisZoomBehavior Enumeration (Visio)
+# VisZoomBehavior enumeration (Visio)
 
 Flags used in conjunction with the  **Application.DefaultZoomBehavior**, **Document.ZoomBehavior**, and **Window.ZoomBehavior** properties.
 

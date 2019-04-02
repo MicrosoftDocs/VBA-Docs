@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Item Property (Visio)
+title: OLEObjects.Item property (Visio)
 keywords: vis_sdr.chm15113765
 f1_keywords:
 - vis_sdr.chm15113765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEObjects.Item Property (Visio)
+# OLEObjects.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 

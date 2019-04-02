@@ -1,5 +1,5 @@
 ---
-title: Documents.ShapeLinkAdded Event (Visio)
+title: Documents.ShapeLinkAdded event (Visio)
 keywords: vis_sdr.chm10662015
 f1_keywords:
 - vis_sdr.chm10662015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.ShapeLinkAdded Event (Visio)
+# Documents.ShapeLinkAdded event (Visio)
 
 Occurs after a shape is linked to a data row.
 

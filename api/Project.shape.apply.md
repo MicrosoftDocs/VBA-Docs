@@ -1,5 +1,5 @@
 ---
-title: Shape.Apply Method (Project)
+title: Shape.Apply method (Project)
 ms.prod: project-server
 ms.assetid: 8d7a29f0-6a69-f643-6726-0c85247fb957
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Apply Method (Project)
+# Shape.Apply method (Project)
 Applies formatting to a shape, where the formatting information has been copied by using the  **[PickUp](Project.shape.pickup.md)** method.
 
 ## Syntax

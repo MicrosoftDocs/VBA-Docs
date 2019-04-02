@@ -1,5 +1,5 @@
 ---
-title: Selection.ContainingMasterID Property (Visio)
+title: Selection.ContainingMasterID property (Visio)
 keywords: vis_sdr.chm11151935
 f1_keywords:
 - vis_sdr.chm11151935
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.ContainingMasterID Property (Visio)
+# Selection.ContainingMasterID property (Visio)
 
 Returns the ID of the  **Master** object that contains an object. Read-only.
 

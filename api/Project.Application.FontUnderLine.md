@@ -1,5 +1,5 @@
 ---
-title: Application.FontUnderLine Method (Project)
+title: Application.FontUnderLine method (Project)
 keywords: vbapj.chm2324
 f1_keywords:
 - vbapj.chm2324
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FontUnderLine Method (Project)
+# Application.FontUnderLine method (Project)
 
 Applies or removes underlining from the selected text.
 

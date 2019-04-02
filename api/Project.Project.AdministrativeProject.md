@@ -1,5 +1,5 @@
 ---
-title: Project.AdministrativeProject Property (Project)
+title: Project.AdministrativeProject property (Project)
 keywords: vbapj.chm131075
 f1_keywords:
 - vbapj.chm131075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.AdministrativeProject Property (Project)
+# Project.AdministrativeProject property (Project)
 
 In Microsoft Project 2003, indicates whether the project is an administrative project. Read/write  **Boolean**. Not used in later versions of Project.
 

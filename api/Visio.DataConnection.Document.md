@@ -1,5 +1,5 @@
 ---
-title: DataConnection.Document Property (Visio)
+title: DataConnection.Document property (Visio)
 keywords: vis_sdr.chm16513430
 f1_keywords:
 - vis_sdr.chm16513430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataConnection.Document Property (Visio)
+# DataConnection.Document property (Visio)
 
 Gets the  **Document** object that contains the **DataConnection** object. Read-only.
 

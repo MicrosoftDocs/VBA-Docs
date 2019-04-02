@@ -1,5 +1,5 @@
 ---
-title: Application.BarRounding Method (Project)
+title: Application.BarRounding method (Project)
 keywords: vbapj.chm2080
 f1_keywords:
 - vbapj.chm2080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BarRounding Method (Project)
+# Application.BarRounding method (Project)
 
 Controls whether the start times of tasks are reflected by their corresponding task bars or the task bars are rounded to full days.
 

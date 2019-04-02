@@ -1,5 +1,5 @@
 ---
-title: Documents.BeforeDocumentSave Event (Visio)
+title: Documents.BeforeDocumentSave event (Visio)
 keywords: vis_sdr.chm10619030
 f1_keywords:
 - vis_sdr.chm10619030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.BeforeDocumentSave Event (Visio)
+# Documents.BeforeDocumentSave event (Visio)
 
 Occurs before a document is saved.
 

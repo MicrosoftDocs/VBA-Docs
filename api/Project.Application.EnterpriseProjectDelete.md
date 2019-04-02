@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseProjectDelete Method (Project)
+title: Application.EnterpriseProjectDelete method (Project)
 keywords: vbapj.chm2128
 f1_keywords:
 - vbapj.chm2128
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseProjectDelete Method (Project)
+# Application.EnterpriseProjectDelete method (Project)
 
 Deletes a project from the Project Server database. Available in Project Professional only.
 

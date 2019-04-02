@@ -1,5 +1,5 @@
 ---
-title: Assignment.Flag11 Property (Project)
+title: Assignment.Flag11 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Flag11
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Flag11 Property (Project)
+# Assignment.Flag11 property (Project)
 
  **True** if the flag associated with an **Assignment** is set. Read/write **Variant**.
 

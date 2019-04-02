@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayScrollBars Property (Project)
+title: Application.DisplayScrollBars property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayScrollBars
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayScrollBars Property (Project)
+# Application.DisplayScrollBars property (Project)
 
  **True** if the scroll bars are visible for all projects. Read/write **Boolean**.
 

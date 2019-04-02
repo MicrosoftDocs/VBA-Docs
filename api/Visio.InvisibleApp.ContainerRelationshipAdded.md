@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ContainerRelationshipAdded Event (Visio)
+title: InvisibleApp.ContainerRelationshipAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ContainerRelationshipAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ContainerRelationshipAdded Event (Visio)
+# InvisibleApp.ContainerRelationshipAdded event (Visio)
 
 Occurs when a new container relationship is added to the document.
 

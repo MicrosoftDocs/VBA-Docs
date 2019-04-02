@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLabel Method (Project)
+title: Shapes.AddLabel method (Project)
 ms.prod: project-server
 ms.assetid: 3fd21dbc-51b7-0e22-8c8a-359b1717932f
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddLabel Method (Project)
+# Shapes.AddLabel method (Project)
 Creates a label in a report, and returns a  **Shape** object that represents the new label.
 
 ## Syntax

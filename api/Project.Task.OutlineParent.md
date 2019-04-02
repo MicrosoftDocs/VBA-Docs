@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineParent Property (Project)
+title: Task.OutlineParent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.OutlineParent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineParent Property (Project)
+# Task.OutlineParent property (Project)
 
 Gets a  **[Task](Project.Task.md)** object representing the parent of a task in the outline structure. Read-only **Task**.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.ViewFit Property (Visio)
+title: Window.ViewFit property (Visio)
 keywords: vis_sdr.chm11614645
 f1_keywords:
 - vis_sdr.chm11614645
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.ViewFit Property (Visio)
+# Window.ViewFit property (Visio)
 
 Determines which auto-fit mode a window is in, if any. Read/write.
 

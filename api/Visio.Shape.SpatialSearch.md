@@ -1,5 +1,5 @@
 ---
-title: Shape.SpatialSearch Property (Visio)
+title: Shape.SpatialSearch property (Visio)
 keywords: vis_sdr.chm11214405
 f1_keywords:
 - vis_sdr.chm11214405
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SpatialSearch Property (Visio)
+# Shape.SpatialSearch property (Visio)
 
 Returns a  **Selection** object whose shapes meet certain criteria in relation to a point that is expressed in the coordinate space of a page, master, or group. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseInactive Property (Project)
+title: Resource.EnterpriseInactive property (Project)
 keywords: vbapj.chm131854
 f1_keywords:
 - vbapj.chm131854
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseInactive Property (Project)
+# Resource.EnterpriseInactive property (Project)
 
  **True** if the enterprise resource is inactivated. Read/write **Variant**.
 

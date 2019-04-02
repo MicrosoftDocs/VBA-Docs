@@ -1,5 +1,5 @@
 ---
-title: Application.RemoveHighlight Method (Project)
+title: Application.RemoveHighlight method (Project)
 keywords: vbapj.chm151
 f1_keywords:
 - vbapj.chm151
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RemoveHighlight Method (Project)
+# Application.RemoveHighlight method (Project)
 Removes task path highlighting on the Gantt chart.
 
 ## Syntax

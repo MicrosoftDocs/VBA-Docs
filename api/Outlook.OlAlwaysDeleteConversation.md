@@ -1,5 +1,5 @@
 ---
-title: OlAlwaysDeleteConversation Enumeration (Outlook)
+title: OlAlwaysDeleteConversation enumeration (Outlook)
 keywords: vbaol11.chm3420
 f1_keywords:
 - vbaol11.chm3420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAlwaysDeleteConversation Enumeration (Outlook)
+# OlAlwaysDeleteConversation enumeration (Outlook)
 
 Specifies constants that determine whether new items of the conversation are always moved to the Deleted Items folder of the specified delivery store.
 

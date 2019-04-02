@@ -1,5 +1,5 @@
 ---
-title: Application.PromptForSummary Property (Visio)
+title: Application.PromptForSummary property (Visio)
 keywords: vis_sdr.chm10014170
 f1_keywords:
 - vis_sdr.chm10014170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PromptForSummary Property (Visio)
+# Application.PromptForSummary property (Visio)
 
 Determines whether Microsoft Visio prompts for document properties when it saves a document. Read/write.
 

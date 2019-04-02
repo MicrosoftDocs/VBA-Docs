@@ -1,5 +1,5 @@
 ---
-title: Master.GetResults Method (Visio)
+title: Master.GetResults method (Visio)
 keywords: vis_sdr.chm10716320
 f1_keywords:
 - vis_sdr.chm10716320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.GetResults Method (Visio)
+# Master.GetResults method (Visio)
 
 Gets the results or formulas of many cells.
 

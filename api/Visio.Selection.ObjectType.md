@@ -1,5 +1,5 @@
 ---
-title: Selection.ObjectType Property (Visio)
+title: Selection.ObjectType property (Visio)
 keywords: vis_sdr.chm11113960
 f1_keywords:
 - vis_sdr.chm11113960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.ObjectType Property (Visio)
+# Selection.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

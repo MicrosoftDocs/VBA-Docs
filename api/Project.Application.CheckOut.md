@@ -1,5 +1,5 @@
 ---
-title: Application.CheckOut Method (Project)
+title: Application.CheckOut method (Project)
 keywords: vbapj.chm2332
 f1_keywords:
 - vbapj.chm2332
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CheckOut Method (Project)
+# Application.CheckOut method (Project)
 
 Checks out the active project file if it is stored in a SharePoint library.
 

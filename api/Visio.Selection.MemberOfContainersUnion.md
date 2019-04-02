@@ -1,5 +1,5 @@
 ---
-title: Selection.MemberOfContainersUnion Method (Visio)
+title: Selection.MemberOfContainersUnion method (Visio)
 keywords: vis_sdr.chm11162225
 f1_keywords:
 - vis_sdr.chm11162225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.MemberOfContainersUnion Method (Visio)
+# Selection.MemberOfContainersUnion method (Visio)
 
 Returns an array of identifiers of the shapes that belong to the normal or list containers that contain at least one of the shapes in the selection.
 

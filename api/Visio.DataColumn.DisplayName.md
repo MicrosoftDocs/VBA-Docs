@@ -1,5 +1,5 @@
 ---
-title: DataColumn.DisplayName Property (Visio)
+title: DataColumn.DisplayName property (Visio)
 keywords: vis_sdr.chm16760395
 f1_keywords:
 - vis_sdr.chm16760395
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumn.DisplayName Property (Visio)
+# DataColumn.DisplayName property (Visio)
 
 Specifies the name that appears for the data column on the tab of the parent data recordset in the  **External Data** window in the Microsoft Visio user interface. Read/write.
 

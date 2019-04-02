@@ -1,5 +1,5 @@
 ---
-title: Task.Duration2Estimated Property (Project)
+title: Task.Duration2Estimated property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Duration2Estimated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Duration2Estimated Property (Project)
+# Task.Duration2Estimated property (Project)
 
  **True** if a task duration custom field is an estimate. Read/write **Variant**.
 

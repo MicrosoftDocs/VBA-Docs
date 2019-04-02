@@ -1,5 +1,5 @@
 ---
-title: Documents.CanCheckOut Method (Visio)
+title: Documents.CanCheckOut method (Visio)
 keywords: vis_sdr.chm10652025
 f1_keywords:
 - vis_sdr.chm10652025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.CanCheckOut Method (Visio)
+# Documents.CanCheckOut method (Visio)
 
 Specifies whether a document can be checked out from a Microsoft SharePoint Server computer.
 

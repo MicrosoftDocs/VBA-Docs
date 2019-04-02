@@ -1,5 +1,5 @@
 ---
-title: Window.Caption Property (Visio)
+title: Window.Caption property (Visio)
 keywords: vis_sdr.chm11613170
 f1_keywords:
 - vis_sdr.chm11613170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Caption Property (Visio)
+# Window.Caption property (Visio)
 
 Gets or sets the caption for a window. Read/write.
 

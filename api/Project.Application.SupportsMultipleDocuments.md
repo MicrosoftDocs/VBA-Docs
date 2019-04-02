@@ -1,5 +1,5 @@
 ---
-title: Application.SupportsMultipleDocuments Property (Project)
+title: Application.SupportsMultipleDocuments property (Project)
 keywords: vbapj.chm132676
 f1_keywords:
 - vbapj.chm132676
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SupportsMultipleDocuments Property (Project)
+# Application.SupportsMultipleDocuments property (Project)
 
 Always  **True** for Project and any other application that supports multiple documents (projects). Read-only **Boolean**.
 

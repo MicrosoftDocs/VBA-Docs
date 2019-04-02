@@ -1,5 +1,5 @@
 ---
-title: Application.FormatCopy Method (Project)
+title: Application.FormatCopy method (Project)
 keywords: vbapj.chm2312
 f1_keywords:
 - vbapj.chm2312
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FormatCopy Method (Project)
+# Application.FormatCopy method (Project)
 
 Copies the formats of the selected cells.
 

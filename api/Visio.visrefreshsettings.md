@@ -1,5 +1,5 @@
 ---
-title: VisRefreshSettings Enumeration (Visio)
+title: VisRefreshSettings enumeration (Visio)
 keywords: vis_sdr.chm70490
 f1_keywords:
 - vis_sdr.chm70490
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisRefreshSettings Enumeration (Visio)
+# VisRefreshSettings enumeration (Visio)
 
 Data recordset refresh constants passed to and returned by the  **[DataRecordset.RefreshSettings](Visio.DataRecordset.RefreshSettings.md)** property.
 

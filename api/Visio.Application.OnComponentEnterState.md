@@ -1,5 +1,5 @@
 ---
-title: Application.OnComponentEnterState Method (Visio)
+title: Application.OnComponentEnterState method (Visio)
 keywords: vis_sdr.chm10052045
 f1_keywords:
 - vis_sdr.chm10052045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OnComponentEnterState Method (Visio)
+# Application.OnComponentEnterState method (Visio)
 
 Informs a Microsoft Visio instance that client code is causing the instance to enter or exit a particular state.
 

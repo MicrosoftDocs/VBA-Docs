@@ -1,5 +1,5 @@
 ---
-title: Resource.WorkVariance Property (Project)
+title: Resource.WorkVariance property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.WorkVariance
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.WorkVariance Property (Project)
+# Resource.WorkVariance property (Project)
 
 Gets the variance between the baseline work and the work for the resource. Read-only  **Variant**.
 

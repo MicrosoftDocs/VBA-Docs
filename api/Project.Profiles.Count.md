@@ -1,5 +1,5 @@
 ---
-title: Profiles.Count Property (Project)
+title: Profiles.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profiles.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Profiles.Count Property (Project)
+# Profiles.Count property (Project)
 
 Gets the number of account profiles that are defined for Project Professional. Read-only  **Long**.
 

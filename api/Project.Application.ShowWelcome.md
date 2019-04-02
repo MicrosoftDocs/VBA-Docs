@@ -1,5 +1,5 @@
 ---
-title: Application.ShowWelcome Property (Project)
+title: Application.ShowWelcome property (Project)
 keywords: vbapj.chm132583
 f1_keywords:
 - vbapj.chm132583
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowWelcome Property (Project)
+# Application.ShowWelcome property (Project)
 
  **True** if the **Welcome** dialog box appears when Project is started. Obsolete in Project. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Characters.Cut Method (Visio)
+title: Characters.Cut method (Visio)
 keywords: vis_sdr.chm10251015
 f1_keywords:
 - vis_sdr.chm10251015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.Cut Method (Visio)
+# Characters.Cut method (Visio)
 
 Deletes a text range and places it on the Clipboard.
 

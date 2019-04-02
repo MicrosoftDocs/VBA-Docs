@@ -1,5 +1,5 @@
 ---
-title: PjDataCategories Enumeration (Project)
+title: PjDataCategories enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDataCategories
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjDataCategories Enumeration (Project)
+# PjDataCategories enumeration (Project)
 
 Contains constants that specify the category of data.
 

@@ -1,5 +1,5 @@
 ---
-title: ValidationIssue.TargetPage Property (Visio)
+title: ValidationIssue.TargetPage property (Visio)
 keywords: vis_sdr.chm18662675
 f1_keywords:
 - vis_sdr.chm18662675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssue.TargetPage Property (Visio)
+# ValidationIssue.TargetPage property (Visio)
 
 Returns the  **[Page](Visio.Page.md)** object that is associated with the validation issue. Read-only.
 

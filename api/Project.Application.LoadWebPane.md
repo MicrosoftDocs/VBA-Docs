@@ -1,5 +1,5 @@
 ---
-title: Application.LoadWebPane Event (Project)
+title: Application.LoadWebPane event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.LoadWebPane
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LoadWebPane Event (Project)
+# Application.LoadWebPane event (Project)
 
 Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, or the  **Project/Resource Import Wizard**.
 

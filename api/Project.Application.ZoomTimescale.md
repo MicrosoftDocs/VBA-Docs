@@ -1,5 +1,5 @@
 ---
-title: Application.ZoomTimescale Method (Project)
+title: Application.ZoomTimescale method (Project)
 keywords: vbapj.chm307
 f1_keywords:
 - vbapj.chm307
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ZoomTimescale Method (Project)
+# Application.ZoomTimescale method (Project)
 
 Zooms in on or out from the Gantt Chart, Resource Graph, Resource Usage, or Task Usage view to show information about tasks or resources in a certain duration.
 

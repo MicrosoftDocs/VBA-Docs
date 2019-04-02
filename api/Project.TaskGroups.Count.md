@@ -1,5 +1,5 @@
 ---
-title: TaskGroups.Count Property (Project)
+title: TaskGroups.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskGroups.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskGroups.Count Property (Project)
+# TaskGroups.Count property (Project)
 
 Gets the number of items in the  **TaskGroups** collection. Read-only **Long**.
 

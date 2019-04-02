@@ -1,5 +1,5 @@
 ---
-title: MouseEvent.Application Property (Visio)
+title: MouseEvent.Application property (Visio)
 ms.prod: visio
 api_name:
 - Visio.MouseEvent.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MouseEvent.Application Property (Visio)
+# MouseEvent.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

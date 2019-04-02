@@ -1,5 +1,5 @@
 ---
-title: Application.TaskMove Method (Project)
+title: Application.TaskMove method (Project)
 keywords: vbapj.chm2289
 f1_keywords:
 - vbapj.chm2289
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskMove Method (Project)
+# Application.TaskMove method (Project)
 
 Moves the start date of one or more selected tasks the specified number of days.
 

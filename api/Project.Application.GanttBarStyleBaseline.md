@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleBaseline Method (Project)
+title: Application.GanttBarStyleBaseline method (Project)
 keywords: vbapj.chm83
 f1_keywords:
 - vbapj.chm83
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleBaseline Method (Project)
+# Application.GanttBarStyleBaseline method (Project)
 
 Shows or hides the specified baseline on Gantt bars of the active view.
 

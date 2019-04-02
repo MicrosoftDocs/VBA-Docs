@@ -1,5 +1,5 @@
 ---
-title: ValidationIssues.Item Property (Visio)
+title: ValidationIssues.Item property (Visio)
 keywords: vis_sdr.chm18513765
 f1_keywords:
 - vis_sdr.chm18513765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssues.Item Property (Visio)
+# ValidationIssues.Item property (Visio)
 
 Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that has the specified name or index position. The **Item** property is the default property for all collections. Read-only.
 

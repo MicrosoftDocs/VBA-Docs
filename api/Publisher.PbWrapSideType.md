@@ -1,5 +1,5 @@
 ---
-title: PbWrapSideType Enumeration (Publisher)
+title: PbWrapSideType enumeration (Publisher)
 keywords: vbapb10.chm65596
 f1_keywords:
 - vbapb10.chm65596
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWrapSideType Enumeration (Publisher)
+# PbWrapSideType enumeration (Publisher)
 
 Indicates whether text should wrap around a shape. 
 

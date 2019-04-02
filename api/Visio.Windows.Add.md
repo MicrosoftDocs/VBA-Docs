@@ -1,5 +1,5 @@
 ---
-title: Windows.Add Method (Visio)
+title: Windows.Add method (Visio)
 keywords: vis_sdr.chm11716685
 f1_keywords:
 - vis_sdr.chm11716685
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.Add Method (Visio)
+# Windows.Add method (Visio)
 
 Adds a new  **Window** object to the **Windows** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Import Property (Project)
+title: Resource.Import property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Import
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Import Property (Project)
+# Resource.Import property (Project)
 
  **True** if the Import Resources Wizard imports the local **Resource** into Project Server. Read/write **Variant**.
 

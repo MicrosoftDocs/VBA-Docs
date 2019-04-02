@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.HeadingStyle Property (Visio)
+title: ContainerProperties.HeadingStyle property (Visio)
 keywords: vis_sdr.chm17662620
 f1_keywords:
 - vis_sdr.chm17662620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.HeadingStyle Property (Visio)
+# ContainerProperties.HeadingStyle property (Visio)
 
 Determines the appearance and position of the heading of the container. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.FitCurve Method (Visio)
+title: Shape.FitCurve method (Visio)
 keywords: vis_sdr.chm11216275
 f1_keywords:
 - vis_sdr.chm11216275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.FitCurve Method (Visio)
+# Shape.FitCurve method (Visio)
 
 Reduces the number of geometry segments in a shape or shapes by replacing them with similar spline, arc, and line segments that approximate the paths of the initial segments. Typically, this reduces the number of segments in the shape.
 

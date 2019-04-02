@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectGuideContent Property (Project)
+title: Project.ProjectGuideContent property (Project)
 keywords: vbapj.chm131091
 f1_keywords:
 - vbapj.chm131091
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectGuideContent Property (Project)
+# Project.ProjectGuideContent property (Project)
 
 Gets or sets the name of the XML schema being used by the Project Guide. Read/write  **String**.
 

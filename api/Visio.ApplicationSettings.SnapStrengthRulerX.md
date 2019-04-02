@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SnapStrengthRulerX Property (Visio)
+title: ApplicationSettings.SnapStrengthRulerX property (Visio)
 keywords: vis_sdr.chm16251545
 f1_keywords:
 - vis_sdr.chm16251545
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SnapStrengthRulerX Property (Visio)
+# ApplicationSettings.SnapStrengthRulerX property (Visio)
 
 Specifies the distance in pixels along the x-axis that rulers pull when snapping is enabled. Read/write.
 

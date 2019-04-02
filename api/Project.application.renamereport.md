@@ -1,5 +1,5 @@
 ---
-title: Application.RenameReport Method (Project)
+title: Application.RenameReport method (Project)
 keywords: vbapj.chm153
 f1_keywords:
 - vbapj.chm153
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RenameReport Method (Project)
+# Application.RenameReport method (Project)
 Displays the  **Rename** dialog box, which includes the current name of the active report.
 
 ## Syntax

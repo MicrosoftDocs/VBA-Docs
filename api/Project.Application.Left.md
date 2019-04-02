@@ -1,5 +1,5 @@
 ---
-title: Application.Left Property (Project)
+title: Application.Left property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Left
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Left Property (Project)
+# Application.Left property (Project)
 
 Gets or sets the distance of the main window from the left edge of the screen in points. Read/write  **Long**.
 

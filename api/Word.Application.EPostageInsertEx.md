@@ -1,5 +1,5 @@
 ---
-title: Application.EPostageInsertEx Event (Word)
+title: Application.EPostageInsertEx event (Word)
 keywords: vbawd10.chm4000028
 f1_keywords:
 - vbawd10.chm4000028
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EPostageInsertEx Event (Word)
+# Application.EPostageInsertEx event (Word)
 
 Occurs when a user inserts electronic postage into a document.
 

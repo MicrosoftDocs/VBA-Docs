@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.NameU Property (Visio)
+title: MasterShortcut.NameU property (Visio)
 keywords: vis_sdr.chm16051985
 f1_keywords:
 - vis_sdr.chm16051985
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.NameU Property (Visio)
+# MasterShortcut.NameU property (Visio)
 
 Specifies the universal name of a  **MasterShortcut** object. Read/write.
 

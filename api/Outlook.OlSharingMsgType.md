@@ -1,5 +1,5 @@
 ---
-title: OlSharingMsgType Enumeration (Outlook)
+title: OlSharingMsgType enumeration (Outlook)
 keywords: vbaol11.chm3147
 f1_keywords:
 - vbaol11.chm3147
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSharingMsgType Enumeration (Outlook)
+# OlSharingMsgType enumeration (Outlook)
 
 Indicates the type of sharing message represented by a  **[SharingItem](Outlook.SharingItem.md)** object.
 

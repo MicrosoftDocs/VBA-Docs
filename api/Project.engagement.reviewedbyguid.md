@@ -1,5 +1,5 @@
 ---
-title: Engagement.ReviewedByGuid Property (Project)
+title: Engagement.ReviewedByGuid property (Project)
 ms.assetid: f7080dbb-93f2-fe06-38c2-ed56fd3d73c0
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.ReviewedByGuid Property (Project)
+# Engagement.ReviewedByGuid property (Project)
 
 The ReviewedByGuid property for the Engagement object. Introduced in Office 2016.
 
@@ -22,6 +22,6 @@ _expression_. `ReviewedByGuid`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

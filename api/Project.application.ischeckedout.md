@@ -1,5 +1,5 @@
 ---
-title: Application.IsCheckedOut Property (Project)
+title: Application.IsCheckedOut property (Project)
 ms.prod: project-server
 ms.assetid: 616f9342-9d9b-dd85-873c-3e40abfec019
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Application.IsCheckedOut Property (Project)
+# Application.IsCheckedOut property (Project)
 Gets whether an open project is checked out from Project Web App by the user. Read-only  **Boolean**.
 
 ## Syntax

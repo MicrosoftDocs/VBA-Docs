@@ -1,5 +1,5 @@
 ---
-title: PbPrintMode Enumeration (Publisher)
+title: PbPrintMode enumeration (Publisher)
 keywords: vbapb10.chm65581
 f1_keywords:
 - vbapb10.chm65581
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPrintMode Enumeration (Publisher)
+# PbPrintMode enumeration (Publisher)
 
 Represents whether the specified publication is printed as a composite or separations. 
 

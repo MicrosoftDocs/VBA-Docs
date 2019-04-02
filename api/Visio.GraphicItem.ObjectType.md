@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.ObjectType Property (Visio)
+title: GraphicItem.ObjectType property (Visio)
 keywords: vis_sdr.chm16913960
 f1_keywords:
 - vis_sdr.chm16913960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.ObjectType Property (Visio)
+# GraphicItem.ObjectType property (Visio)
 
 Returns  **visObjTypeGraphicItem**, the type of a **GraphicItem** object. Read-only.
 

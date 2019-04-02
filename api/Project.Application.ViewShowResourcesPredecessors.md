@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowResourcesPredecessors Method (Project)
+title: Application.ViewShowResourcesPredecessors method (Project)
 keywords: vbapj.chm915
 f1_keywords:
 - vbapj.chm915
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowResourcesPredecessors Method (Project)
+# Application.ViewShowResourcesPredecessors method (Project)
 
 Displays information about resource assignments and predecessor tasks in the active task details view.
 

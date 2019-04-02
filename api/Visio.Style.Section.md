@@ -1,5 +1,5 @@
 ---
-title: Style.Section Property (Visio)
+title: Style.Section property (Visio)
 keywords: vis_sdr.chm11414300
 f1_keywords:
 - vis_sdr.chm11414300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.Section Property (Visio)
+# Style.Section property (Visio)
 
 Returns the requested  **Section** object belonging to a style. Read-only.
 

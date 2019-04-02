@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.ShapeHelp Property (Visio)
+title: MasterShortcut.ShapeHelp property (Visio)
 keywords: vis_sdr.chm16014325
 f1_keywords:
 - vis_sdr.chm16014325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.ShapeHelp Property (Visio)
+# MasterShortcut.ShapeHelp property (Visio)
 
 Gets or sets the help string used when the user clicks  **Help** on the shortcut menu of a master shortcut. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.EarnedValueBaseline Property (Project)
+title: Project.EarnedValueBaseline property (Project)
 keywords: vbapj.chm131083
 f1_keywords:
 - vbapj.chm131083
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.EarnedValueBaseline Property (Project)
+# Project.EarnedValueBaseline property (Project)
 
 Gets or sets the baseline for the earned values of tasks. Read/write  **PjBaselines**.
 

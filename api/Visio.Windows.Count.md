@@ -1,5 +1,5 @@
 ---
-title: Windows.Count Property (Visio)
+title: Windows.Count property (Visio)
 keywords: vis_sdr.chm11713330
 f1_keywords:
 - vis_sdr.chm11713330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.Count Property (Visio)
+# Windows.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

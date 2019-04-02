@@ -1,5 +1,5 @@
 ---
-title: Application.LanguageSettings Property (Visio)
+title: Application.LanguageSettings property (Visio)
 keywords: vis_sdr.chm10060035
 f1_keywords:
 - vis_sdr.chm10060035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LanguageSettings Property (Visio)
+# Application.LanguageSettings property (Visio)
 
 Returns a reference to the Microsoft Office (MSO)  **LanguageSettings** interface. Read-only.
 

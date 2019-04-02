@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.KeyUp Event (Visio)
+title: DrawingControl.KeyUp event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.KeyUp
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.KeyUp Event (Visio)
+# DrawingControl.KeyUp event (Visio)
 
 Occurs when a keyboard key is released.
 

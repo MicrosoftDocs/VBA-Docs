@@ -1,5 +1,5 @@
 ---
-title: Task.StatusManagerName Property (Project)
+title: Task.StatusManagerName property (Project)
 keywords: vbapj.chm132658
 f1_keywords:
 - vbapj.chm132658
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.StatusManagerName Property (Project)
+# Task.StatusManagerName property (Project)
 
 Gets or sets the GUID of the enterprise resource responsible for accepting or rejecting assignment progress updates for the task. Read/write  **String**.
 

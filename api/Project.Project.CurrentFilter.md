@@ -1,5 +1,5 @@
 ---
-title: Project.CurrentFilter Property (Project)
+title: Project.CurrentFilter property (Project)
 keywords: vbapj.chm131700
 f1_keywords:
 - vbapj.chm131700
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrentFilter Property (Project)
+# Project.CurrentFilter property (Project)
 
 Gets the name of the active filter for a project. Read-only  **String**.
 

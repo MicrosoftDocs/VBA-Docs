@@ -1,5 +1,5 @@
 ---
-title: Page.GetCallouts Method (Visio)
+title: Page.GetCallouts method (Visio)
 keywords: vis_sdr.chm10962170
 f1_keywords:
 - vis_sdr.chm10962170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.GetCallouts Method (Visio)
+# Page.GetCallouts method (Visio)
 
 Returns the list of identifiers of the callout shapes on the page.
 

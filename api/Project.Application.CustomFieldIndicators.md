@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldIndicators Method (Project)
+title: Application.CustomFieldIndicators method (Project)
 keywords: vbapj.chm37
 f1_keywords:
 - vbapj.chm37
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldIndicators Method (Project)
+# Application.CustomFieldIndicators method (Project)
 
 Sets options for graphical indicators for a custom field.
 

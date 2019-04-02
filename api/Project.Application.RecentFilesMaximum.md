@@ -1,5 +1,5 @@
 ---
-title: Application.RecentFilesMaximum Property (Project)
+title: Application.RecentFilesMaximum property (Project)
 keywords: vbapj.chm132538
 f1_keywords:
 - vbapj.chm132538
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RecentFilesMaximum Property (Project)
+# Application.RecentFilesMaximum property (Project)
 
 Gets or sets the maximum number of recently used files to display in the  **Recent Projects** pane of the Backstage view. Read/write **Long**.
 

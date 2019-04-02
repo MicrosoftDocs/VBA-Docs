@@ -1,5 +1,5 @@
 ---
-title: VisRasterExportDataFormat Enumeration (Visio)
+title: VisRasterExportDataFormat enumeration (Visio)
 keywords: vis_sdr.chm70720
 f1_keywords:
 - vis_sdr.chm70720
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRasterExportDataFormat Enumeration (Visio)
+# VisRasterExportDataFormat enumeration (Visio)
 
 
 

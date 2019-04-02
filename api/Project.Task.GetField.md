@@ -1,5 +1,5 @@
 ---
-title: Task.GetField Method (Project)
+title: Task.GetField method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.GetField
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.GetField Method (Project)
+# Task.GetField method (Project)
 
 Returns the value of the specified task custom field.
 

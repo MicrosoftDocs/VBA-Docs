@@ -1,5 +1,5 @@
 ---
-title: Window.ShowConnectPoints Property (Visio)
+title: Window.ShowConnectPoints property (Visio)
 keywords: vis_sdr.chm11614345
 f1_keywords:
 - vis_sdr.chm11614345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.ShowConnectPoints Property (Visio)
+# Window.ShowConnectPoints property (Visio)
 
 Determines whether connection points are shown in a window. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.EventsEnabled Property (Visio)
+title: Application.EventsEnabled property (Visio)
 keywords: vis_sdr.chm10013485
 f1_keywords:
 - vis_sdr.chm10013485
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EventsEnabled Property (Visio)
+# Application.EventsEnabled property (Visio)
 
 Determines whether a Microsoft Visio instance fires events. Read/write.
 

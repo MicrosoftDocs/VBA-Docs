@@ -1,5 +1,5 @@
 ---
-title: Toolbar.ToolbarItems Property (Visio)
+title: Toolbar.ToolbarItems property (Visio)
 keywords: vis_sdr.chm13714550
 f1_keywords:
 - vis_sdr.chm13714550
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.ToolbarItems Property (Visio)
+# Toolbar.ToolbarItems property (Visio)
 
 Returns the  **ToolbarItems** collection of a **Toolbar** object. Read-only.
 

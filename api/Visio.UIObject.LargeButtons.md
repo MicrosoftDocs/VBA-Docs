@@ -1,5 +1,5 @@
 ---
-title: UIObject.LargeButtons Property (Visio)
+title: UIObject.LargeButtons property (Visio)
 keywords: vis_sdr.chm14913805
 f1_keywords:
 - vis_sdr.chm14913805
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UIObject.LargeButtons Property (Visio)
+# UIObject.LargeButtons property (Visio)
 
 Determines whether large toolbar buttons are shown. Read/write.
 

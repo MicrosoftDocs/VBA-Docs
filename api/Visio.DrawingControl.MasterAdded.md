@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.MasterAdded Event (Visio)
+title: DrawingControl.MasterAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.MasterAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.MasterAdded Event (Visio)
+# DrawingControl.MasterAdded event (Visio)
 
 Occurs after a new master is added to a document.
 

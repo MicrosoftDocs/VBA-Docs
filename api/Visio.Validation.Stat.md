@@ -1,5 +1,5 @@
 ---
-title: Validation.Stat Property (Visio)
+title: Validation.Stat property (Visio)
 keywords: vis_sdr.chm18014420
 f1_keywords:
 - vis_sdr.chm18014420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Validation.Stat Property (Visio)
+# Validation.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

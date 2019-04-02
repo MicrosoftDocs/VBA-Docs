@@ -1,5 +1,5 @@
 ---
-title: Application.WindowNewWindow Method (Project)
+title: Application.WindowNewWindow method (Project)
 keywords: vbapj.chm701
 f1_keywords:
 - vbapj.chm701
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowNewWindow Method (Project)
+# Application.WindowNewWindow method (Project)
 
 Creates a window.
 

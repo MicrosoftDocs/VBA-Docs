@@ -1,5 +1,5 @@
 ---
-title: Addons.Count Property (Visio)
+title: Addons.Count property (Visio)
 keywords: vis_sdr.chm12513330
 f1_keywords:
 - vis_sdr.chm12513330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Addons.Count Property (Visio)
+# Addons.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

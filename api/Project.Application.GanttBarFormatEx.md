@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarFormatEx Method (Project)
+title: Application.GanttBarFormatEx method (Project)
 keywords: vbapj.chm2165
 f1_keywords:
 - vbapj.chm2165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarFormatEx Method (Project)
+# Application.GanttBarFormatEx method (Project)
 
 Changes the formatting of Gantt bars from their default styles, where colors can be hexadecimal RGB values.
 

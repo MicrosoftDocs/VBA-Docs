@@ -1,5 +1,5 @@
 ---
-title: PjEngagementViolationType Enumeration (Project)
+title: PjEngagementViolationType enumeration (Project)
 ms.assetid: e65cf9c5-e122-a4ef-f8c1-efb27899e27b
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# PjEngagementViolationType Enumeration (Project)
+# PjEngagementViolationType enumeration (Project)
 
 Defines the different types of engagement violation types triggering indicators in the indicator column in sheet views on tasks/resources and assignments. Used internally for setting the right violation types on tasks and resources. Introduced in Office 2016.
 

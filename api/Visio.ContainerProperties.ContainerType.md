@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ContainerType Property (Visio)
+title: ContainerProperties.ContainerType property (Visio)
 keywords: vis_sdr.chm17662590
 f1_keywords:
 - vis_sdr.chm17662590
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.ContainerType Property (Visio)
+# ContainerProperties.ContainerType property (Visio)
 
 Determines whether the container is a normal container or a list container. Read-only.
 

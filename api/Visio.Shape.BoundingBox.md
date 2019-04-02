@@ -1,5 +1,5 @@
 ---
-title: Shape.BoundingBox Method (Visio)
+title: Shape.BoundingBox method (Visio)
 keywords: vis_sdr.chm11216090
 f1_keywords:
 - vis_sdr.chm11216090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.BoundingBox Method (Visio)
+# Shape.BoundingBox method (Visio)
 
 Returns a rectangle that tightly encloses a shape.
 

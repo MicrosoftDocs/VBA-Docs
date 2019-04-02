@@ -1,5 +1,5 @@
 ---
-title: Cell.Document Property (Visio)
+title: Cell.Document property (Visio)
 keywords: vis_sdr.chm10113430
 f1_keywords:
 - vis_sdr.chm10113430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Document Property (Visio)
+# Cell.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

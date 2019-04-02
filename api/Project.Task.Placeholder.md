@@ -1,5 +1,5 @@
 ---
-title: Task.Placeholder Property (Project)
+title: Task.Placeholder property (Project)
 keywords: vbapj.chm132502
 f1_keywords:
 - vbapj.chm132502
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Placeholder Property (Project)
+# Task.Placeholder property (Project)
 
  **True** if the task is a placeholder for another task. Read-only **Variant**.
 

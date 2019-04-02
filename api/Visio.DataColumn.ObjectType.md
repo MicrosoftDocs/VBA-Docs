@@ -1,5 +1,5 @@
 ---
-title: DataColumn.ObjectType Property (Visio)
+title: DataColumn.ObjectType property (Visio)
 keywords: vis_sdr.chm16713960
 f1_keywords:
 - vis_sdr.chm16713960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumn.ObjectType Property (Visio)
+# DataColumn.ObjectType property (Visio)
 
 Returns  **visObjTypeDataColumn**, the type of a **DataColumn** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldValueListGetItem Method (Project)
+title: Application.CustomFieldValueListGetItem method (Project)
 keywords: vbapj.chm131200
 f1_keywords:
 - vbapj.chm131200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldValueListGetItem Method (Project)
+# Application.CustomFieldValueListGetItem method (Project)
 
 Returns the value, description, or phonetic spelling of an item in the value list for a custom field.
 

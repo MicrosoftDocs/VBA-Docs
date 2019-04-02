@@ -1,5 +1,5 @@
 ---
-title: Application.LinkTasksEdit Method (Project)
+title: Application.LinkTasksEdit method (Project)
 keywords: vbapj.chm2052
 f1_keywords:
 - vbapj.chm2052
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LinkTasksEdit Method (Project)
+# Application.LinkTasksEdit method (Project)
 
 Edits task dependencies (task links).
 

@@ -1,5 +1,5 @@
 ---
-title: Project.TaskGroups Property (Project)
+title: Project.TaskGroups property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.TaskGroups
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.TaskGroups Property (Project)
+# Project.TaskGroups property (Project)
 
 Gets a  **[TaskGroups](Project.taskgroups(object).md)** collection representing all the task-based **Group** definitions in the project. Read-only **TaskGroups**.
 

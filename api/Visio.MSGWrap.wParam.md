@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.wParam Property (Visio)
+title: MSGWrap.wParam property (Visio)
 keywords: vis_sdr.chm16150930
 f1_keywords:
 - vis_sdr.chm16150930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap.wParam Property (Visio)
+# MSGWrap.wParam property (Visio)
 
 Gets or sets the  **wParam** member of the **MSG** structure being wrapped. Read/write.
 

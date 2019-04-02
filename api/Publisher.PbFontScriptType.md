@@ -1,5 +1,5 @@
 ---
-title: PbFontScriptType Enumeration (Publisher)
+title: PbFontScriptType enumeration (Publisher)
 keywords: vbapb10.chm65546
 f1_keywords:
 - vbapb10.chm65546
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbFontScriptType Enumeration (Publisher)
+# PbFontScriptType enumeration (Publisher)
 
 Represents the font script for a text range. 
 

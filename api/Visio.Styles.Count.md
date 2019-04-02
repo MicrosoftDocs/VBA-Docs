@@ -1,5 +1,5 @@
 ---
-title: Styles.Count Property (Visio)
+title: Styles.Count property (Visio)
 keywords: vis_sdr.chm11513330
 f1_keywords:
 - vis_sdr.chm11513330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Styles.Count Property (Visio)
+# Styles.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.NameU Property (Visio)
+title: Master.NameU property (Visio)
 keywords: vis_sdr.chm10751985
 f1_keywords:
 - vis_sdr.chm10751985
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.NameU Property (Visio)
+# Master.NameU property (Visio)
 
 Specifies the universal name of a  **Master** object. Read/write.
 

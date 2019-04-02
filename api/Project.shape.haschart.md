@@ -1,5 +1,5 @@
 ---
-title: Shape.HasChart Property (Project)
+title: Shape.HasChart property (Project)
 ms.prod: project-server
 ms.assetid: 4dba3972-c4aa-7f7a-47bb-5e7134965d9f
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.HasChart Property (Project)
+# Shape.HasChart property (Project)
 Gets a value that indicates whether the shape contains a chart. Read-only  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax

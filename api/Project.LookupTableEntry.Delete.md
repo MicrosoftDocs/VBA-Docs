@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.Delete Method (Project)
+title: LookupTableEntry.Delete method (Project)
 keywords: vbapj.chm132389
 f1_keywords:
 - vbapj.chm132389
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry.Delete Method (Project)
+# LookupTableEntry.Delete method (Project)
 
 Deletes the  **LookupTableEntry** object from a **LookupTable** collection.
 

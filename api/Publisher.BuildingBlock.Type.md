@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BuildingBlock.Type Property (Publisher)
 
-A  ** [PbBuildingBlockType Enumeration (Publisher)](Publisher.pbbuildingblocktype.md)** value that represents the type of the building block. Read-only.
+A  **[PbBuildingBlockType enumeration (Publisher)](Publisher.pbbuildingblocktype.md)** value that represents the type of the building block. Read-only.
 
 
 ## Syntax

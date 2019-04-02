@@ -1,5 +1,5 @@
 ---
-title: Shape.TransformXYTo Method (Visio)
+title: Shape.TransformXYTo method (Visio)
 keywords: vis_sdr.chm11216605
 f1_keywords:
 - vis_sdr.chm11216605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.TransformXYTo Method (Visio)
+# Shape.TransformXYTo method (Visio)
 
 Transforms a point expressed in the local coordinate system of one  **Shape** object to an equivalent point expressed in the local coordinate system of another **Shape** object.
 

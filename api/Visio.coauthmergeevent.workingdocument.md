@@ -1,5 +1,5 @@
 ---
-title: CoauthMergeEvent.WorkingDocument Property (Visio)
+title: CoauthMergeEvent.WorkingDocument property (Visio)
 ms.prod: visio
 ms.assetid: 0f3c4358-0d63-df7f-12fe-7f378bacca86
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# CoauthMergeEvent.WorkingDocument Property (Visio)
+# CoauthMergeEvent.WorkingDocument property (Visio)
 
 Returns a [Document](Visio.Document.md) object that represents a merged document that includes changes by the current user only. Read-only.
 

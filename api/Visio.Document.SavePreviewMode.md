@@ -1,5 +1,5 @@
 ---
-title: Document.SavePreviewMode Property (Visio)
+title: Document.SavePreviewMode property (Visio)
 keywords: vis_sdr.chm10514290
 f1_keywords:
 - vis_sdr.chm10514290
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SavePreviewMode Property (Visio)
+# Document.SavePreviewMode property (Visio)
 
 Determines whether and how a preview picture is saved in a file. Read/write.
 

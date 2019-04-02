@@ -1,5 +1,5 @@
 ---
-title: Application.ClearConstraint Method (Project)
+title: Application.ClearConstraint method (Project)
 keywords: vbapj.chm1514
 f1_keywords:
 - vbapj.chm1514
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ClearConstraint Method (Project)
+# Application.ClearConstraint method (Project)
 
 Clears the constraint on a specified task.
 

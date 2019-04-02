@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementDraftStart Property (Project)
+title: Resource.EngagementDraftStart property (Project)
 keywords: vbapj.chm131802
 f1_keywords:
 - vbapj.chm131802
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementDraftStart Property (Project)
+# Resource.EngagementDraftStart property (Project)
 
 Returns the draft start date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
 

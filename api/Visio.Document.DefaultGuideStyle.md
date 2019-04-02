@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultGuideStyle Property (Visio)
+title: Document.DefaultGuideStyle property (Visio)
 keywords: vis_sdr.chm10550550
 f1_keywords:
 - vis_sdr.chm10550550
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.DefaultGuideStyle Property (Visio)
+# Document.DefaultGuideStyle property (Visio)
 
 Gets or sets the default guide style of a document. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Macro Method (Project)
+title: Application.Macro method (Project)
 keywords: vbapj.chm1001
 f1_keywords:
 - vbapj.chm1001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Macro Method (Project)
+# Application.Macro method (Project)
 
 Runs a macro.
 

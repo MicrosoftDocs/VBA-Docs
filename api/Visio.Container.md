@@ -1,5 +1,5 @@
 ---
-title: Document.Container Property (Visio)
+title: Document.Container property (Visio)
 keywords: vis_sdr.chm10513295
 f1_keywords:
 - vis_sdr.chm10513295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Container Property (Visio)
+# Document.Container property (Visio)
 
 Returns an  **IDispatch** interface on the ActiveX container in which the document is contained or **Nothing** if the document is not in a container. Read-only.
 

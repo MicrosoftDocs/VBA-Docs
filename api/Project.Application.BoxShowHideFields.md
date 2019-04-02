@@ -1,5 +1,5 @@
 ---
-title: Application.BoxShowHideFields Method (Project)
+title: Application.BoxShowHideFields method (Project)
 keywords: vbapj.chm905
 f1_keywords:
 - vbapj.chm905
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxShowHideFields Method (Project)
+# Application.BoxShowHideFields method (Project)
 
 Shows or hides the task data fields of the active Network Diagram.
 

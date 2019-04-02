@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceSharing Method (Project)
+title: Application.ResourceSharing method (Project)
 keywords: vbapj.chm105
 f1_keywords:
 - vbapj.chm105
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceSharing Method (Project)
+# Application.ResourceSharing method (Project)
 
 Controls resource sharing, for local resources and projects.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarLayout Method (Project)
+title: Application.CalendarLayout method (Project)
 keywords: vbapj.chm2346
 f1_keywords:
 - vbapj.chm2346
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarLayout Method (Project)
+# Application.CalendarLayout method (Project)
 
 Changes how task bars are arranged on the Calendar.
 

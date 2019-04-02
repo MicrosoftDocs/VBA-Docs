@@ -1,5 +1,5 @@
 ---
-title: OlAlign Enumeration (Outlook)
+title: OlAlign enumeration (Outlook)
 keywords: vbaol11.chm3131
 f1_keywords:
 - vbaol11.chm3131
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAlign Enumeration (Outlook)
+# OlAlign enumeration (Outlook)
 
 Specifies the alignment for the  **[Label](Outlook.ColumnFormat.Label.md)** property of the **[ColumnFormat](Outlook.ColumnFormat.md)** object.
 

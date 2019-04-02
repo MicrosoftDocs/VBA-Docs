@@ -1,5 +1,5 @@
 ---
-title: Row.CellU Property (Visio)
+title: Row.CellU property (Visio)
 keywords: vis_sdr.chm15851960
 f1_keywords:
 - vis_sdr.chm15851960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.CellU Property (Visio)
+# Row.CellU property (Visio)
 
 Uses the universal name or index of a cell to return the cell. Read-only.
 

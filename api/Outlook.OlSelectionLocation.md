@@ -1,5 +1,5 @@
 ---
-title: OlSelectionLocation Enumeration (Outlook)
+title: OlSelectionLocation enumeration (Outlook)
 keywords: vbaol11.chm3480
 f1_keywords:
 - vbaol11.chm3480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSelectionLocation Enumeration (Outlook)
+# OlSelectionLocation enumeration (Outlook)
 
 Specifies the location of a selection in the Microsoft Outlook user interface.
 

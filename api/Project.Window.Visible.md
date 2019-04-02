@@ -1,5 +1,5 @@
 ---
-title: Window.Visible Property (Project)
+title: Window.Visible property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Visible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Visible Property (Project)
+# Window.Visible property (Project)
 
  **True** if the window is visible. Read/write **Boolean**.
 

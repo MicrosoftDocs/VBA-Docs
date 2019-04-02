@@ -1,5 +1,5 @@
 ---
-title: Application.UsableWidth Property (Project)
+title: Application.UsableWidth property (Project)
 keywords: vbapj.chm132778
 f1_keywords:
 - vbapj.chm132778
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UsableWidth Property (Project)
+# Application.UsableWidth property (Project)
 
 Gets the maximum width available for a project window in points. Read-only Double.
 

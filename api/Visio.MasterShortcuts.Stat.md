@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.Stat Property (Visio)
+title: MasterShortcuts.Stat property (Visio)
 keywords: vis_sdr.chm15914420
 f1_keywords:
 - vis_sdr.chm15914420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts.Stat Property (Visio)
+# MasterShortcuts.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

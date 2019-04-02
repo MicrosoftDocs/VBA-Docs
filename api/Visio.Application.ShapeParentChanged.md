@@ -1,5 +1,5 @@
 ---
-title: Application.ShapeParentChanged Event (Visio)
+title: Application.ShapeParentChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.ShapeParentChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShapeParentChanged Event (Visio)
+# Application.ShapeParentChanged event (Visio)
 
 Occurs after shapes are grouped or a group is ungrouped.
 

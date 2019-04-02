@@ -1,5 +1,5 @@
 ---
-title: Document.FollowHyperlink Method (Visio)
+title: Document.FollowHyperlink method (Visio)
 keywords: vis_sdr.chm10516295
 f1_keywords:
 - vis_sdr.chm10516295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.FollowHyperlink Method (Visio)
+# Document.FollowHyperlink method (Visio)
 
 Navigates to an arbitrary hyperlink.
 

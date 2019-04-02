@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayWindowsInTaskbar Property (Project)
+title: Application.DisplayWindowsInTaskbar property (Project)
 keywords: vbapj.chm132825
 f1_keywords:
 - vbapj.chm132825
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayWindowsInTaskbar Property (Project)
+# Application.DisplayWindowsInTaskbar property (Project)
 
  **True** if the opened projects are all displayed as separate buttons or button group items on the Microsoft Windows taskbar. Read/write **Boolean**.
 

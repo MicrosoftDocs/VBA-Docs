@@ -1,5 +1,5 @@
 ---
-title: Cell.Task Property (Project)
+title: Cell.Task property (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell.Task
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Task Property (Project)
+# Cell.Task property (Project)
 
 Gets a  **[Task](Project.Task.md)** object representing the task in the active cell. Read-only **Task**.
 

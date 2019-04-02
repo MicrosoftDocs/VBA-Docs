@@ -1,5 +1,5 @@
 ---
-title: PpSelectionType Enumeration (PowerPoint)
+title: PpSelectionType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSelectionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpSelectionType Enumeration (PowerPoint)
+# PpSelectionType enumeration (PowerPoint)
 
 Constants that specify the type of selection, returned by the  **Type** property of the **Selection** object.
 

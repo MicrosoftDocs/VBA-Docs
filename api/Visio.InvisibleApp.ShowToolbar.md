@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShowToolbar Property (Visio)
+title: InvisibleApp.ShowToolbar property (Visio)
 keywords: vis_sdr.chm17514385
 f1_keywords:
 - vis_sdr.chm17514385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShowToolbar Property (Visio)
+# InvisibleApp.ShowToolbar property (Visio)
 
 Determines whether toolbars and menu bars are visible. Read/write.
 

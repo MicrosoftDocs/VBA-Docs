@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeWizardFollowUpCustom Event (Publisher)
+title: Application.MailMergeWizardFollowUpCustom event (Publisher)
 keywords: vbapb10.chm268435490
 f1_keywords:
 - vbapb10.chm268435490
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeWizardFollowUpCustom Event (Publisher)
+# Application.MailMergeWizardFollowUpCustom event (Publisher)
 
 Fires when the string that appears as the fourth item under  **Prepare to follow-up on this mailing** on the third **Mail Merge** task pane in the Microsoft Publisher user interface is clicked.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.AutoSaveToGlobal Method (Project)
+title: Application.AutoSaveToGlobal method (Project)
 keywords: vbapj.chm1500
 f1_keywords:
 - vbapj.chm1500
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AutoSaveToGlobal Method (Project)
+# Application.AutoSaveToGlobal method (Project)
 
 Specifies whether to automatically add new views, field templates, filters, and groups to the global template (Global.mpt).
 

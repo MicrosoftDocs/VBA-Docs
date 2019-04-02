@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Window Property (Visio)
+title: InvisibleApp.Window property (Visio)
 keywords: vis_sdr.chm17551480
 f1_keywords:
 - vis_sdr.chm17551480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Window Property (Visio)
+# InvisibleApp.Window property (Visio)
 
 Returns the window associated with the current instance of Microsoft Visio. Read-only.
 

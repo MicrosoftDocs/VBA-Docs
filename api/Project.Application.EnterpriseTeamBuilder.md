@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseTeamBuilder Method (Project)
+title: Application.EnterpriseTeamBuilder method (Project)
 keywords: vbapj.chm2124
 f1_keywords:
 - vbapj.chm2124
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseTeamBuilder Method (Project)
+# Application.EnterpriseTeamBuilder method (Project)
 
 Displays the  **Build Team** dialog box. Available in Project Professional only.
 

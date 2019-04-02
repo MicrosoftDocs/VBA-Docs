@@ -1,5 +1,5 @@
 ---
-title: Connects.Application Property (Visio)
+title: Connects.Application property (Visio)
 keywords: vis_sdr.chm10413090
 f1_keywords:
 - vis_sdr.chm10413090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Connects.Application Property (Visio)
+# Connects.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.UpdateTasks Method (Project)
+title: Application.UpdateTasks method (Project)
 keywords: vbapj.chm2350
 f1_keywords:
 - vbapj.chm2350
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UpdateTasks Method (Project)
+# Application.UpdateTasks method (Project)
 
 Updates the selected tasks.
 

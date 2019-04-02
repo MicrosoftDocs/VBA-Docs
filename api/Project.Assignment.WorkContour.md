@@ -1,5 +1,5 @@
 ---
-title: Assignment.WorkContour Property (Project)
+title: Assignment.WorkContour property (Project)
 keywords: vbapj.chm132828
 f1_keywords:
 - vbapj.chm132828
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.WorkContour Property (Project)
+# Assignment.WorkContour property (Project)
 
 Gets or sets the type of work contour for the assignment. Read/write  **PjWorkContourType**.
 

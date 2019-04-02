@@ -1,5 +1,5 @@
 ---
-title: Shape.TextStyleKeepFmt Property (Visio)
+title: Shape.TextStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11214535
 f1_keywords:
 - vis_sdr.chm11214535
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.TextStyleKeepFmt Property (Visio)
+# Shape.TextStyleKeepFmt property (Visio)
 
 Applies a text style to an object while preserving local formatting. Read/write.
 

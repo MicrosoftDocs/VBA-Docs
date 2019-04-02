@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValues Object (Project)
+title: TimeScaleValues object (Project)
 ms.prod: project-server
 ms.assetid: d94a0346-7cf5-b734-b32d-430fba980824
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValues Object (Project)
+# TimeScaleValues object (Project)
 
 Contains a collection of  **[TimeScaleValue](Project.TimeScaleValue.md)** objects.
 

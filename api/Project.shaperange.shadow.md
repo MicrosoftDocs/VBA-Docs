@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Shadow Property (Project)
+title: ShapeRange.Shadow property (Project)
 ms.prod: project-server
 ms.assetid: 900d4206-a21b-19ea-4e41-149a9d5b373c
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Shadow Property (Project)
+# ShapeRange.Shadow property (Project)
 Gets or sets the shadow formatting properties for the shape range. Read-only  **[ShadowFormat](https://msdn.microsoft.com/library/office/ff195339%28v=office.15%29)**.
 
 ## Syntax

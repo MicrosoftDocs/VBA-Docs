@@ -1,5 +1,5 @@
 ---
-title: Project.Views Property (Project)
+title: Project.Views property (Project)
 keywords: vbapj.chm132805
 f1_keywords:
 - vbapj.chm132805
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.Views Property (Project)
+# Project.Views property (Project)
 
 Gets a  **[Views](Project.View.md)** collection representing the views of the project. Read-only **Views**.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.Flip Method (Visio)
+title: Selection.Flip method (Visio)
 keywords: vis_sdr.chm11151450
 f1_keywords:
 - vis_sdr.chm11151450
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Flip Method (Visio)
+# Selection.Flip method (Visio)
 
 Flips selected shapes either as a group or individually about their pins. Returns  **Nothing**.
 

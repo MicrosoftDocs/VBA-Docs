@@ -1,5 +1,5 @@
 ---
-title: Table.TableType Property (Project)
+title: Table.TableType property (Project)
 keywords: vbapj.chm132699
 f1_keywords:
 - vbapj.chm132699
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.TableType Property (Project)
+# Table.TableType property (Project)
 
 Gets the table type for the specified table. Read-only  **PjItemType**.
 

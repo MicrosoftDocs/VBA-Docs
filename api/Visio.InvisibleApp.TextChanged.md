@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.TextChanged Event (Visio)
+title: InvisibleApp.TextChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.TextChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.TextChanged Event (Visio)
+# InvisibleApp.TextChanged event (Visio)
 
 Occurs after the text of a shape is changed in a document.
 

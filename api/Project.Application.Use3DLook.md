@@ -1,5 +1,5 @@
 ---
-title: Application.Use3DLook Property (Project)
+title: Application.Use3DLook property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Use3DLook
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Use3DLook Property (Project)
+# Application.Use3DLook property (Project)
 
  **True** if bars and shapes in Gantt views are displayed in three dimensional form. **False** if bars and shapes are displayed with a flat appearance. Deprecated in Project. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: OlAlignment Enumeration (Outlook)
+title: OlAlignment enumeration (Outlook)
 keywords: vbaol11.chm1000026
 f1_keywords:
 - vbaol11.chm1000026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAlignment Enumeration (Outlook)
+# OlAlignment enumeration (Outlook)
 
 Specifies how a caption is aligned with the edge of a control.
 

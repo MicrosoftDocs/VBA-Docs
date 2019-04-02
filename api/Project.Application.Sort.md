@@ -1,5 +1,5 @@
 ---
-title: Application.Sort Method (Project)
+title: Application.Sort method (Project)
 keywords: vbapj.chm903
 f1_keywords:
 - vbapj.chm903
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Sort Method (Project)
+# Application.Sort method (Project)
 
 Sorts the tasks or resources in the active pane.
 

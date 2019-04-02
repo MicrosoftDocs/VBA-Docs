@@ -1,5 +1,5 @@
 ---
-title: Selection.FillStyleKeepFmt Property (Visio)
+title: Selection.FillStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11113530
 f1_keywords:
 - vis_sdr.chm11113530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.FillStyleKeepFmt Property (Visio)
+# Selection.FillStyleKeepFmt property (Visio)
 
 Applies a fill style to an object while preserving local formatting. Read/write.
 

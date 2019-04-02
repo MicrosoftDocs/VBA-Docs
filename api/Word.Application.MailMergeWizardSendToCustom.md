@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeWizardSendToCustom Event (Word)
+title: Application.MailMergeWizardSendToCustom event (Word)
 keywords: vbawd10.chm4000022
 f1_keywords:
 - vbawd10.chm4000022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeWizardSendToCustom Event (Word)
+# Application.MailMergeWizardSendToCustom event (Word)
 
 Occurs when the custom button is clicked during step six of the Mail Merge Wizard.
 

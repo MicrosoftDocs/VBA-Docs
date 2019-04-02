@@ -1,5 +1,5 @@
 ---
-title: WorkWeek.Parent Property (Project)
+title: WorkWeek.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeek.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeek.Parent Property (Project)
+# WorkWeek.Parent property (Project)
 
 Gets the parent of the  **WorkWeek** object. Read-only **Calendar**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Calculation Property (Project)
+title: Application.Calculation property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Calculation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Calculation Property (Project)
+# Application.Calculation property (Project)
 
 Gets or sets the calculation mode. Read/write  **PjCalculation**.
 

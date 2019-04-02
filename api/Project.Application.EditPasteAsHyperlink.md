@@ -1,5 +1,5 @@
 ---
-title: Application.EditPasteAsHyperlink Method (Project)
+title: Application.EditPasteAsHyperlink method (Project)
 keywords: vbapj.chm1308
 f1_keywords:
 - vbapj.chm1308
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EditPasteAsHyperlink Method (Project)
+# Application.EditPasteAsHyperlink method (Project)
 
 Pastes a hyperlink to the source of the contents of the Clipboard.
 

@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.ObjectType Property (Visio)
+title: DataRecordsets.ObjectType property (Visio)
 ms.prod: visio
 api_name:
 - Visio.DataRecordsets.ObjectType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.ObjectType Property (Visio)
+# DataRecordsets.ObjectType property (Visio)
 
 Returns  **visObjTypeDataRecordsets**, the type of a **DataRecordsets** object. Read-only.
 

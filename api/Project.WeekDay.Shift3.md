@@ -1,5 +1,5 @@
 ---
-title: WeekDay.Shift3 Property (Project)
+title: WeekDay.Shift3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.WeekDay.Shift3
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WeekDay.Shift3 Property (Project)
+# WeekDay.Shift3 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the third work shift in a weekday. Read-only **Shift**.
 

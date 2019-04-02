@@ -1,5 +1,5 @@
 ---
-title: IVBUndoUnit.UnitTypeCLSID Property (Visio)
+title: IVBUndoUnit.UnitTypeCLSID property (Visio)
 keywords: vis_sdr.chm17360170
 f1_keywords:
 - vis_sdr.chm17360170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IVBUndoUnit.UnitTypeCLSID Property (Visio)
+# IVBUndoUnit.UnitTypeCLSID property (Visio)
 
 Identifies an undo unit by its class ID (CLSID). Read-only.
 

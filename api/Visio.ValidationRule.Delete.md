@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.Delete Method (Visio)
+title: ValidationRule.Delete method (Visio)
 keywords: vis_sdr.chm18416165
 f1_keywords:
 - vis_sdr.chm18416165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.Delete Method (Visio)
+# ValidationRule.Delete method (Visio)
 
 Deletes the  **[ValidationRule](Visio.ValidationRule.md)** object from the document.
 

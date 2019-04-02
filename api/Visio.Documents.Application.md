@@ -1,5 +1,5 @@
 ---
-title: Documents.Application Property (Visio)
+title: Documents.Application property (Visio)
 keywords: vis_sdr.chm10613090
 f1_keywords:
 - vis_sdr.chm10613090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.Application Property (Visio)
+# Documents.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

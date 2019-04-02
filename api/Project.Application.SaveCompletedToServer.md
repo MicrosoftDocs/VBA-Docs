@@ -1,5 +1,5 @@
 ---
-title: Application.SaveCompletedToServer Event (Project)
+title: Application.SaveCompletedToServer event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.SaveCompletedToServer
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SaveCompletedToServer Event (Project)
+# Application.SaveCompletedToServer event (Project)
 
 Occurs when Project Professional successfully puts the  **Project Save** job in the Project Server Queue.
 

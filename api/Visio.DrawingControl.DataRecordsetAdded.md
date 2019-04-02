@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.DataRecordsetAdded Event (Visio)
+title: DrawingControl.DataRecordsetAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.DataRecordsetAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.DataRecordsetAdded Event (Visio)
+# DrawingControl.DataRecordsetAdded event (Visio)
 
 Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartGroups Property (Project)
+title: Chart.ChartGroups property (Project)
 keywords: vbapj.chm131625
 f1_keywords:
 - vbapj.chm131625
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartGroups Property (Project)
+# Chart.ChartGroups property (Project)
 Gets an object that represents either a single chart group or a collection of chart groups, where a chart group represents one or more series of data points that are plotted with the same format. Read-only  **Object**.
 
 ## Syntax

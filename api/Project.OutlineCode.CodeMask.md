@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.CodeMask Property (Project)
+title: OutlineCode.CodeMask property (Project)
 keywords: vbapj.chm132457
 f1_keywords:
 - vbapj.chm132457
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.CodeMask Property (Project)
+# OutlineCode.CodeMask property (Project)
 
 Gets a  **[CodeMask](Project.codemask.md)** collection representing the code mask for an outline code in Project. Read-only **CodeMask**.
 

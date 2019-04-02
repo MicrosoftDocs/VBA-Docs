@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsSpelling Method (Project)
+title: Application.OptionsSpelling method (Project)
 keywords: vbapj.chm614
 f1_keywords:
 - vbapj.chm614
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsSpelling Method (Project)
+# Application.OptionsSpelling method (Project)
 
 Sets options for the spelling checker.
 

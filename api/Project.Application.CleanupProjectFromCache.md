@@ -1,5 +1,5 @@
 ---
-title: Application.CleanupProjectFromCache Method (Project)
+title: Application.CleanupProjectFromCache method (Project)
 keywords: vbapj.chm2191
 f1_keywords:
 - vbapj.chm2191
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CleanupProjectFromCache Method (Project)
+# Application.CleanupProjectFromCache method (Project)
 
 Deletes the specified project file from the local cache. Available only in Project Professional.
 

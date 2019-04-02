@@ -1,5 +1,5 @@
 ---
-title: WorkWeeks.Add Method (Project)
+title: WorkWeeks.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeeks.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeeks.Add Method (Project)
+# WorkWeeks.Add method (Project)
 
 Adds a  **WorkWeek** object to a **WorkWeeks** collection.
 

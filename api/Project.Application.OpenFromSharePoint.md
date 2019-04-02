@@ -1,5 +1,5 @@
 ---
-title: Application.OpenFromSharePoint Method (Project)
+title: Application.OpenFromSharePoint method (Project)
 keywords: vbapj.chm2293
 f1_keywords:
 - vbapj.chm2293
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OpenFromSharePoint Method (Project)
+# Application.OpenFromSharePoint method (Project)
 
 Opens a project from a task list in SharePoint 2013. 
 

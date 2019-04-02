@@ -1,5 +1,5 @@
 ---
-title: Document.PrintOut Method (Visio)
+title: Document.PrintOut method (Visio)
 keywords: vis_sdr.chm10551340
 f1_keywords:
 - vis_sdr.chm10551340
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintOut Method (Visio)
+# Document.PrintOut method (Visio)
 
 Prints the contents of the active document and provides various printing options.
 

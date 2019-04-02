@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.TargetType Property (Visio)
+title: ValidationRule.TargetType property (Visio)
 keywords: vis_sdr.chm18462660
 f1_keywords:
 - vis_sdr.chm18462660
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.TargetType Property (Visio)
+# ValidationRule.TargetType property (Visio)
 
 Determines the type of object to which the validation rule applies. Read/write.
 

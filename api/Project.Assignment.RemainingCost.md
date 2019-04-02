@@ -1,5 +1,5 @@
 ---
-title: Assignment.RemainingCost Property (Project)
+title: Assignment.RemainingCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.RemainingCost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.RemainingCost Property (Project)
+# Assignment.RemainingCost property (Project)
 
 Gets the remaining cost for the assignment. Read-only  **Variant**.
 

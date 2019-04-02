@@ -1,5 +1,5 @@
 ---
-title: Cell Object (Visio)
+title: Cell object (Visio)
 keywords: vis_sdr.chm10045
 f1_keywords:
 - vis_sdr.chm10045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell Object (Visio)
+# Cell object (Visio)
 
 Holds a formula that evaluates to some value.
 

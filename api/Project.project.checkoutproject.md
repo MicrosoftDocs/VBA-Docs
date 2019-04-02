@@ -1,5 +1,5 @@
 ---
-title: Project.CheckoutProject Method (Project)
+title: Project.CheckoutProject method (Project)
 keywords: vbapj.chm131078
 f1_keywords:
 - vbapj.chm131078
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CheckoutProject Method (Project)
+# Project.CheckoutProject method (Project)
 Checks out an open project that is currently in read-only mode.
 
 ## Syntax

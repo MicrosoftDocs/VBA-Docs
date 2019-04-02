@@ -1,5 +1,5 @@
 ---
-title: WorkWeeks.Application Property (Project)
+title: WorkWeeks.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeeks.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeeks.Application Property (Project)
+# WorkWeeks.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

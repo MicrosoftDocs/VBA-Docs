@@ -1,5 +1,5 @@
 ---
-title: Document.DesignModeEntered Event (Visio)
+title: Document.DesignModeEntered event (Visio)
 keywords: vis_sdr.chm10519110
 f1_keywords:
 - vis_sdr.chm10519110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.DesignModeEntered Event (Visio)
+# Document.DesignModeEntered event (Visio)
 
 Occurs before a document enters design mode.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentCloseCanceled Event (Visio)
+title: Application.DocumentCloseCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.DocumentCloseCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentCloseCanceled Event (Visio)
+# Application.DocumentCloseCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelDocumentClose** event.
 

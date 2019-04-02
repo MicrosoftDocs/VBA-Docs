@@ -1,5 +1,5 @@
 ---
-title: Assignment.Number7 Property (Project)
+title: Assignment.Number7 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Number7
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Number7 Property (Project)
+# Assignment.Number7 property (Project)
 
 Gets or sets a Number local custom field for an assignment. Read/write  **Double**.
 

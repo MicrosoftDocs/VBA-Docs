@@ -1,5 +1,5 @@
 ---
-title: Font.ID Property (Visio)
+title: Font.ID property (Visio)
 keywords: vis_sdr.chm12013675
 f1_keywords:
 - vis_sdr.chm12013675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.ID Property (Visio)
+# Font.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 

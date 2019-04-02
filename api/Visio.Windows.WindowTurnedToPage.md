@@ -1,5 +1,5 @@
 ---
-title: Windows.WindowTurnedToPage Event (Visio)
+title: Windows.WindowTurnedToPage event (Visio)
 keywords: vis_sdr.chm11719285
 f1_keywords:
 - vis_sdr.chm11719285
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.WindowTurnedToPage Event (Visio)
+# Windows.WindowTurnedToPage event (Visio)
 
 Occurs after a window shows a different page.
 

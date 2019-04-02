@@ -1,5 +1,5 @@
 ---
-title: Document.SolutionXMLElement Property (Visio)
+title: Document.SolutionXMLElement property (Visio)
 keywords: vis_sdr.chm10550855
 f1_keywords:
 - vis_sdr.chm10550855
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SolutionXMLElement Property (Visio)
+# Document.SolutionXMLElement property (Visio)
 
 Contains solution-specific, well-formed XML data stored with a document. Read/write.
 

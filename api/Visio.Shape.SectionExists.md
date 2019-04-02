@@ -1,5 +1,5 @@
 ---
-title: Shape.SectionExists Property (Visio)
+title: Shape.SectionExists property (Visio)
 keywords: vis_sdr.chm11214305
 f1_keywords:
 - vis_sdr.chm11214305
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SectionExists Property (Visio)
+# Shape.SectionExists property (Visio)
 
 Determines whether a ShapeSheet section exists for a particular shape. Read-only.
 

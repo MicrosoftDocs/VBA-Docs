@@ -1,5 +1,5 @@
 ---
-title: Connect.ObjectType Property (Visio)
+title: Connect.ObjectType property (Visio)
 keywords: vis_sdr.chm10313960
 f1_keywords:
 - vis_sdr.chm10313960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Connect.ObjectType Property (Visio)
+# Connect.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

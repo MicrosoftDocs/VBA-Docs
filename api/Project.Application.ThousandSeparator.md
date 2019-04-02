@@ -1,5 +1,5 @@
 ---
-title: Application.ThousandSeparator Property (Project)
+title: Application.ThousandSeparator property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ThousandSeparator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ThousandSeparator Property (Project)
+# Application.ThousandSeparator property (Project)
 
 Gets the thousands separator symbol. Read-only  **String**.
 

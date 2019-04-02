@@ -1,5 +1,5 @@
 ---
-title: OlScrollBars Enumeration (Outlook)
+title: OlScrollBars enumeration (Outlook)
 keywords: vbaol11.chm1000020
 f1_keywords:
 - vbaol11.chm1000020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlScrollBars Enumeration (Outlook)
+# OlScrollBars enumeration (Outlook)
 
 Specifies which, if any, scroll bars to display for a control.
 

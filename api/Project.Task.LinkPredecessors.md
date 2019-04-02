@@ -1,5 +1,5 @@
 ---
-title: Task.LinkPredecessors Method (Project)
+title: Task.LinkPredecessors method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.LinkPredecessors
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.LinkPredecessors Method (Project)
+# Task.LinkPredecessors method (Project)
 
 Adds one or more predecessors to the task.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.OneD Property (Visio)
+title: Master.OneD property (Visio)
 keywords: vis_sdr.chm10713975
 f1_keywords:
 - vis_sdr.chm10713975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.OneD Property (Visio)
+# Master.OneD property (Visio)
 
 Determines whether an object behaves as a one-dimensional (1-D) object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.GroupCanceled Event (Visio)
+title: InvisibleApp.GroupCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.GroupCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.GroupCanceled Event (Visio)
+# InvisibleApp.GroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelGroup** event.
 

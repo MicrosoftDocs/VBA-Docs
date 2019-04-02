@@ -1,5 +1,5 @@
 ---
-title: PayRates.Parent Property (Project)
+title: PayRates.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRates.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PayRates.Parent Property (Project)
+# PayRates.Parent property (Project)
 
 Gets the parent of the  **PayRates** object. Read-only **Resource**.
 

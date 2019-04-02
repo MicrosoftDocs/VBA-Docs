@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowOpen Event (Word)
+title: Application.ProtectedViewWindowOpen event (Word)
 keywords: vbawd10.chm4000030
 f1_keywords:
 - vbawd10.chm4000030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowOpen Event (Word)
+# Application.ProtectedViewWindowOpen event (Word)
 
 Occurs when a protected view window is opened.
 

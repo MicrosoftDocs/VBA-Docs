@@ -1,5 +1,5 @@
 ---
-title: Selection.DrawRegion Method (Visio)
+title: Selection.DrawRegion method (Visio)
 keywords: vis_sdr.chm11116225
 f1_keywords:
 - vis_sdr.chm11116225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.DrawRegion Method (Visio)
+# Selection.DrawRegion method (Visio)
 
 Draws a new shape that represents the region containing a given point.
 

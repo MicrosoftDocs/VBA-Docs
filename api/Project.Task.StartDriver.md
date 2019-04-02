@@ -1,5 +1,5 @@
 ---
-title: Task.StartDriver Property (Project)
+title: Task.StartDriver property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.StartDriver
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.StartDriver Property (Project)
+# Task.StartDriver property (Project)
 
 Gets the  **[StartDriver](Project.StartDriver.md)** object for the task. Read-only **StartDriver**.
 

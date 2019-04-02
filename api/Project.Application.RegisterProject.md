@@ -1,5 +1,5 @@
 ---
-title: Application.RegisterProject Method (Project)
+title: Application.RegisterProject method (Project)
 keywords: vbapj.chm131250
 f1_keywords:
 - vbapj.chm131250
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RegisterProject Method (Project)
+# Application.RegisterProject method (Project)
 
 Registers the active project on Project Server.
 

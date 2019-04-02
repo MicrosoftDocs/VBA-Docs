@@ -1,5 +1,5 @@
 ---
-title: Application.DrawingCycleColor Method (Project)
+title: Application.DrawingCycleColor method (Project)
 keywords: vbapj.chm2315
 f1_keywords:
 - vbapj.chm2315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DrawingCycleColor Method (Project)
+# Application.DrawingCycleColor method (Project)
 
 Changes the color of the active drawing object.
 

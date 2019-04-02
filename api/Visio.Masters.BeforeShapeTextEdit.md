@@ -1,5 +1,5 @@
 ---
-title: Masters.BeforeShapeTextEdit Event (Visio)
+title: Masters.BeforeShapeTextEdit event (Visio)
 keywords: vis_sdr.chm10819380
 f1_keywords:
 - vis_sdr.chm10819380
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Masters.BeforeShapeTextEdit Event (Visio)
+# Masters.BeforeShapeTextEdit event (Visio)
 
 Occurs before a shape is opened for text editing in the user interface.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Addons Property (Visio)
+title: InvisibleApp.Addons property (Visio)
 keywords: vis_sdr.chm17513060
 f1_keywords:
 - vis_sdr.chm17513060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Addons Property (Visio)
+# InvisibleApp.Addons property (Visio)
 
 Returns the  **Addons** collection of an **Application** or **InvisibleApp** object. Read-only.
 

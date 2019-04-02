@@ -1,5 +1,5 @@
 ---
-title: Document.Save Method (Visio)
+title: Document.Save method (Visio)
 keywords: vis_sdr.chm10516495
 f1_keywords:
 - vis_sdr.chm10516495
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Save Method (Visio)
+# Document.Save method (Visio)
 
 Saves a document.
 

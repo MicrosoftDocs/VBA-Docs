@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveDocument Property (Visio)
+title: Application.ActiveDocument property (Visio)
 keywords: vis_sdr.chm10013025
 f1_keywords:
 - vis_sdr.chm10013025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveDocument Property (Visio)
+# Application.ActiveDocument property (Visio)
 
 Returns the active  **Document** object, which is the document shown in the active window. Read-only.
 

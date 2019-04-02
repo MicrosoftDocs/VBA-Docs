@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.DeveloperMode Property (Visio)
+title: ApplicationSettings.DeveloperMode property (Visio)
 keywords: vis_sdr.chm16251820
 f1_keywords:
 - vis_sdr.chm16251820
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.DeveloperMode Property (Visio)
+# ApplicationSettings.DeveloperMode property (Visio)
 
 Determines if certain user interface functions for the development environment in Microsoft Visio are enabled. Read/write.
 

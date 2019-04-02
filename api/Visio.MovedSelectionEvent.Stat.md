@@ -1,5 +1,5 @@
 ---
-title: MovedSelectionEvent.Stat Property (Visio)
+title: MovedSelectionEvent.Stat property (Visio)
 keywords: vis_sdr.chm17814420
 f1_keywords:
 - vis_sdr.chm17814420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MovedSelectionEvent.Stat Property (Visio)
+# MovedSelectionEvent.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

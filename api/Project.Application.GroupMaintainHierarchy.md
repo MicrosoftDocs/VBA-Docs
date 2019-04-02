@@ -1,5 +1,5 @@
 ---
-title: Application.GroupMaintainHierarchy Method (Project)
+title: Application.GroupMaintainHierarchy method (Project)
 keywords: vbapj.chm2296
 f1_keywords:
 - vbapj.chm2296
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GroupMaintainHierarchy Method (Project)
+# Application.GroupMaintainHierarchy method (Project)
 
 Shows or hides item hierarchy in task views or resource views where a group is applied.
 

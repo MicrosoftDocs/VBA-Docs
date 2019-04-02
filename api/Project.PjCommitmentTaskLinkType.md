@@ -1,5 +1,5 @@
 ---
-title: PjCommitmentTaskLinkType Enumeration (Project)
+title: PjCommitmentTaskLinkType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCommitmentTaskLinkType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCommitmentTaskLinkType Enumeration (Project)
+# PjCommitmentTaskLinkType enumeration (Project)
 
 Contains constants that specify the type of task link for a deliverable.
 

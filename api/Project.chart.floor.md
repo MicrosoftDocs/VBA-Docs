@@ -1,5 +1,5 @@
 ---
-title: Chart.Floor Property (Project)
+title: Chart.Floor property (Project)
 ms.prod: project-server
 ms.assetid: ae1f3f2b-e49c-63d1-f487-5d031fea20e5
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Floor Property (Project)
+# Chart.Floor property (Project)
 Gets an  **Office.IMsoFloor** object that represents the floor of a 3-D chart. Read-only **IMsoFloor**.
 
 ## Syntax

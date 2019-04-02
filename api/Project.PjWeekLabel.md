@@ -1,5 +1,5 @@
 ---
-title: PjWeekLabel Enumeration (Project)
+title: PjWeekLabel enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjWeekLabel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjWeekLabel Enumeration (Project)
+# PjWeekLabel enumeration (Project)
 
 Contains constants that specify the display format for weeks in a timescale.
 

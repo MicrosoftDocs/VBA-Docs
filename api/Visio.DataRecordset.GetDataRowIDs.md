@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.GetDataRowIDs Method (Visio)
+title: DataRecordset.GetDataRowIDs method (Visio)
 keywords: vis_sdr.chm16460310
 f1_keywords:
 - vis_sdr.chm16460310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.GetDataRowIDs Method (Visio)
+# DataRecordset.GetDataRowIDs method (Visio)
 
 Gets an array of the IDs of all the rows in the data recordset.
 

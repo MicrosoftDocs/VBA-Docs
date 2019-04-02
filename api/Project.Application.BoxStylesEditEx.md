@@ -1,5 +1,5 @@
 ---
-title: Application.BoxStylesEditEx Method (Project)
+title: Application.BoxStylesEditEx method (Project)
 keywords: vbapj.chm2154
 f1_keywords:
 - vbapj.chm2154
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxStylesEditEx Method (Project)
+# Application.BoxStylesEditEx method (Project)
 
 Sets the style of boxes in the Network Diagram view, where colors can be hexadecimal values.
 

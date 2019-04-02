@@ -1,5 +1,5 @@
 ---
-title: ActualStartDrivers.Count Property (Project)
+title: ActualStartDrivers.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.ActualStartDrivers.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ActualStartDrivers.Count Property (Project)
+# ActualStartDrivers.Count property (Project)
 
 Gets the number of  **Assignment** objects in the **ActualStartDrivers** collection. Read-only **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Engagement.DraftMaxUnits Property (Project)
+title: Engagement.DraftMaxUnits property (Project)
 keywords: vbapj.chm131758
 f1_keywords:
 - vbapj.chm131758
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.DraftMaxUnits Property (Project)
+# Engagement.DraftMaxUnits property (Project)
 
 The DraftMaxUnits property for the Engagement object. Introduced in Office 2016.
 
@@ -25,6 +25,6 @@ _expression_. `DraftMaxUnits`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

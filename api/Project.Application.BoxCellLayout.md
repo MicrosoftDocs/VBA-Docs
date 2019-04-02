@@ -1,5 +1,5 @@
 ---
-title: Application.BoxCellLayout Method (Project)
+title: Application.BoxCellLayout method (Project)
 keywords: vbapj.chm2392
 f1_keywords:
 - vbapj.chm2392
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxCellLayout Method (Project)
+# Application.BoxCellLayout method (Project)
 
 Sets the cell layout and size properties for a data template in the Network Diagram view. The initial layout of a new data template is 2 rows by 2 columns of 100% width cells with cell merging enabled.
 

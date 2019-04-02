@@ -1,5 +1,5 @@
 ---
-title: GraphicItems.Document Property (Visio)
+title: GraphicItems.Document property (Visio)
 keywords: vis_sdr.chm16813430
 f1_keywords:
 - vis_sdr.chm16813430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItems.Document Property (Visio)
+# GraphicItems.Document property (Visio)
 
 Gets the  **Document** object that contains the **Master** object of type **visTypeDataGraphic** that contains the **GraphicItems** collection. Read-only.
 

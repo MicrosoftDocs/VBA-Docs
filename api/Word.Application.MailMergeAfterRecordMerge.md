@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeAfterRecordMerge Event (Word)
+title: Application.MailMergeAfterRecordMerge event (Word)
 keywords: vbawd10.chm4000017
 f1_keywords:
 - vbawd10.chm4000017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeAfterRecordMerge Event (Word)
+# Application.MailMergeAfterRecordMerge event (Word)
 
 Occurs after each record in the data source successfully merges in a mail merge.
 

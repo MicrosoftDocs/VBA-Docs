@@ -1,5 +1,5 @@
 ---
-title: Window.SetWindowRect Method (Visio)
+title: Window.SetWindowRect method (Visio)
 keywords: vis_sdr.chm11616590
 f1_keywords:
 - vis_sdr.chm11616590
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.SetWindowRect Method (Visio)
+# Window.SetWindowRect method (Visio)
 
 Sets the size and position of the client area of a window.
 

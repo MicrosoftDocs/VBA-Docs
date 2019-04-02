@@ -1,5 +1,5 @@
 ---
-title: Application.UndoLevels Property (Project)
+title: Application.UndoLevels property (Project)
 keywords: vbapj.chm132407
 f1_keywords:
 - vbapj.chm132407
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UndoLevels Property (Project)
+# Application.UndoLevels property (Project)
 
 Gets or sets the number of undo levels. The default is 20. Read/write  **Long**.
 

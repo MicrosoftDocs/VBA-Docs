@@ -1,5 +1,5 @@
 ---
-title: Application.LocaleName Method (Project)
+title: Application.LocaleName method (Project)
 ms.assetid: 989d8c73-3452-2abe-fbaa-f68d532e353e
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LocaleName Method (Project)
+# Application.LocaleName method (Project)
 
 Language name that is used by Project, such as en-us or za-ch. Introduced in Office 2016.
 

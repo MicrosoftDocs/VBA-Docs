@@ -1,5 +1,5 @@
 ---
-title: Application.WindowArrangeAll Method (Project)
+title: Application.WindowArrangeAll method (Project)
 keywords: vbapj.chm702
 f1_keywords:
 - vbapj.chm702
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowArrangeAll Method (Project)
+# Application.WindowArrangeAll method (Project)
 
 Arranges all of the open windows in Project.
 

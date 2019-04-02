@@ -1,5 +1,5 @@
 ---
-title: Document.FooterLeft Property (Visio)
+title: Document.FooterLeft property (Visio)
 keywords: vis_sdr.chm10550585
 f1_keywords:
 - vis_sdr.chm10550585
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.FooterLeft Property (Visio)
+# Document.FooterLeft property (Visio)
 
 Gets or sets the text string that appears on the left side of a document's footer. Read/write.
 

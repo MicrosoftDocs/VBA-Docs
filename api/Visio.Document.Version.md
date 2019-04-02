@@ -1,5 +1,5 @@
 ---
-title: Document.Version Property (Visio)
+title: Document.Version property (Visio)
 keywords: vis_sdr.chm10551135
 f1_keywords:
 - vis_sdr.chm10551135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Version Property (Visio)
+# Document.Version property (Visio)
 
 Gets the version of a saved document or sets the version in which to save a document. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarDateShadingEdit Method (Project)
+title: Application.CalendarDateShadingEdit method (Project)
 keywords: vbapj.chm2343
 f1_keywords:
 - vbapj.chm2343
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarDateShadingEdit Method (Project)
+# Application.CalendarDateShadingEdit method (Project)
 
 Changes the background color and pattern of date boxes in the Calendar view.
 

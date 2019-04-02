@@ -1,5 +1,5 @@
 ---
-title: Master.Original Property (Visio)
+title: Master.Original property (Visio)
 keywords: vis_sdr.chm10750745
 f1_keywords:
 - vis_sdr.chm10750745
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Original Property (Visio)
+# Master.Original property (Visio)
 
 Returns the original master that produced this open master. Read-only.
 

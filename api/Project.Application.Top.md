@@ -1,5 +1,5 @@
 ---
-title: Application.Top Property (Project)
+title: Application.Top property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Top
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Top Property (Project)
+# Application.Top property (Project)
 
 Gets or sets the distance of the Project application window from the top edge of the screen in points. Read/write  **Long**.
 

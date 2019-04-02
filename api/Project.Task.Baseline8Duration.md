@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline8Duration Property (Project)
+title: Task.Baseline8Duration property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline8Duration
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline8Duration Property (Project)
+# Task.Baseline8Duration property (Project)
 
 Gets or sets the baseline duration (in minutes) of a task. Read/write  **Variant**.
 

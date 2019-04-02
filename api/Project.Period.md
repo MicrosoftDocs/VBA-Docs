@@ -1,5 +1,5 @@
 ---
-title: Period Object (Project)
+title: Period object (Project)
 ms.prod: project-server
 api_name:
 - Project.Period
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Period Object (Project)
+# Period object (Project)
 
 
  

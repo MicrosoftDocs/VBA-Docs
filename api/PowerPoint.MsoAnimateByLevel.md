@@ -1,5 +1,5 @@
 ---
-title: MsoAnimateByLevel Enumeration (PowerPoint)
+title: MsoAnimateByLevel enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimateByLevel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimateByLevel Enumeration (PowerPoint)
+# MsoAnimateByLevel enumeration (PowerPoint)
 
 Specifies for charts, diagrams, or text, the level to which the animation effect will be applied. The default value is  **msoAnimationLevelNone**.
 

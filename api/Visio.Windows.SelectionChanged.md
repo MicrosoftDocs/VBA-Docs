@@ -1,5 +1,5 @@
 ---
-title: Windows.SelectionChanged Event (Visio)
+title: Windows.SelectionChanged event (Visio)
 keywords: vis_sdr.chm11719220
 f1_keywords:
 - vis_sdr.chm11719220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.SelectionChanged Event (Visio)
+# Windows.SelectionChanged event (Visio)
 
 Occurs after a set of shapes selected in a window changes.
 

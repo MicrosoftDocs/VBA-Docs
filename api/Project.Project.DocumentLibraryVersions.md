@@ -1,5 +1,5 @@
 ---
-title: Project.DocumentLibraryVersions Property (Project)
+title: Project.DocumentLibraryVersions property (Project)
 keywords: vbapj.chm132594
 f1_keywords:
 - vbapj.chm132594
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DocumentLibraryVersions Property (Project)
+# Project.DocumentLibraryVersions property (Project)
 
 Gets a  **DocumentLibraryVersions** collection for the specified project. Read-only **DocumentLibraryVersions**.
 

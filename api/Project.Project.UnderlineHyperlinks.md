@@ -1,5 +1,5 @@
 ---
-title: Project.UnderlineHyperlinks Property (Project)
+title: Project.UnderlineHyperlinks property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.UnderlineHyperlinks
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.UnderlineHyperlinks Property (Project)
+# Project.UnderlineHyperlinks property (Project)
 
  **True** if hyperlinks are underlined. Read/write **Boolean**.
 

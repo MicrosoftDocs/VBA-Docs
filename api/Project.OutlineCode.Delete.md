@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.Delete Method (Project)
+title: OutlineCode.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.Delete Method (Project)
+# OutlineCode.Delete method (Project)
 
 Deletes the  **OutlineCode** object from an **OutlineCodes** collection.
 

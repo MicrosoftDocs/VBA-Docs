@@ -1,5 +1,5 @@
 ---
-title: Documents.QueryCancelUngroup Event (Visio)
+title: Documents.QueryCancelUngroup event (Visio)
 keywords: vis_sdr.chm10619330
 f1_keywords:
 - vis_sdr.chm10619330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.QueryCancelUngroup Event (Visio)
+# Documents.QueryCancelUngroup event (Visio)
 
 Occurs before the application ungroups a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

@@ -1,5 +1,5 @@
 ---
-title: PpDateTimeFormat Enumeration (PowerPoint)
+title: PpDateTimeFormat enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpDateTimeFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpDateTimeFormat Enumeration (PowerPoint)
+# PpDateTimeFormat enumeration (PowerPoint)
 
 Specifies the format for the automatically updated date and time. 
 

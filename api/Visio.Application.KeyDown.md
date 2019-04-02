@@ -1,5 +1,5 @@
 ---
-title: Application.KeyDown Event (Visio)
+title: Application.KeyDown event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.KeyDown
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.KeyDown Event (Visio)
+# Application.KeyDown event (Visio)
 
 Occurs when a keyboard key is pressed.
 

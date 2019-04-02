@@ -1,5 +1,5 @@
 ---
-title: VisMasterProperties Enumeration (Visio)
+title: VisMasterProperties enumeration (Visio)
 keywords: vis_sdr.chm70155
 f1_keywords:
 - vis_sdr.chm70155
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisMasterProperties Enumeration (Visio)
+# VisMasterProperties enumeration (Visio)
 
 Values for various properties of a Microsoft Visio master.
 

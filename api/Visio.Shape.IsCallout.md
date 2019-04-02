@@ -1,5 +1,5 @@
 ---
-title: Shape.IsCallout Property (Visio)
+title: Shape.IsCallout property (Visio)
 keywords: vis_sdr.chm11262475
 f1_keywords:
 - vis_sdr.chm11262475
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.IsCallout Property (Visio)
+# Shape.IsCallout property (Visio)
 
 Indicates whether the shape is a callout shape. Read-only.
 

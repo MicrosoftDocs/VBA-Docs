@@ -1,5 +1,5 @@
 ---
-title: Application.Inspector Method (Project)
+title: Application.Inspector method (Project)
 keywords: vbapj.chm163
 f1_keywords:
 - vbapj.chm163
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Inspector Method (Project)
+# Application.Inspector method (Project)
 
 Indicates the  **Task Inspector** for use with engagement data. Introduced in Office 2016.
 
@@ -30,6 +30,6 @@ _expression_. `Inspector`
 ## See also
 
 
-[Application Object (Project)](Project.Application.md)
+[Application object (Project)](Project.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

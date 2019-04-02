@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SetShapesDefaultProperties Method (Project)
+title: ShapeRange.SetShapesDefaultProperties method (Project)
 ms.prod: project-server
 ms.assetid: 52d1208c-f7b4-e5ef-5a9c-5e83546f98d1
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.SetShapesDefaultProperties Method (Project)
+# ShapeRange.SetShapesDefaultProperties method (Project)
 Applies the formatting of a default shape to each shape in the range.
 
 ## Syntax

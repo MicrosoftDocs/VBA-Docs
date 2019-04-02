@@ -1,5 +1,5 @@
 ---
-title: Cell.Formula Property (Visio)
+title: Cell.Formula property (Visio)
 keywords: vis_sdr.chm10113560
 f1_keywords:
 - vis_sdr.chm10113560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Formula Property (Visio)
+# Cell.Formula property (Visio)
 
 Gets or sets the formula for a  **Cell** object. Read/write.
 

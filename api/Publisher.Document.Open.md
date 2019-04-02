@@ -1,5 +1,5 @@
 ---
-title: Document.Open Event (Publisher)
+title: Document.Open event (Publisher)
 keywords: vbapb10.chm285212673
 f1_keywords:
 - vbapb10.chm285212673
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Open Event (Publisher)
+# Document.Open event (Publisher)
 
 Occurs when a publication is opening.
 

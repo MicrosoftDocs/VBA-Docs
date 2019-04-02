@@ -1,5 +1,5 @@
 ---
-title: Application.PaneClose Method (Project)
+title: Application.PaneClose method (Project)
 keywords: vbapj.chm2004
 f1_keywords:
 - vbapj.chm2004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PaneClose Method (Project)
+# Application.PaneClose method (Project)
 
 Closes the lower pane of the active window.
 

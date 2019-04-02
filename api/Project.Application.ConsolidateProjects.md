@@ -1,5 +1,5 @@
 ---
-title: Application.ConsolidateProjects Method (Project)
+title: Application.ConsolidateProjects method (Project)
 keywords: vbapj.chm124
 f1_keywords:
 - vbapj.chm124
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ConsolidateProjects Method (Project)
+# Application.ConsolidateProjects method (Project)
 
 Displays the data from one or more projects in a single window.
 

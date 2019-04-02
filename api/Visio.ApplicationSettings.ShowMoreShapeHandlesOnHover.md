@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ShowMoreShapeHandlesOnHover Property (Visio)
+title: ApplicationSettings.ShowMoreShapeHandlesOnHover property (Visio)
 keywords: vis_sdr.chm16260010
 f1_keywords:
 - vis_sdr.chm16260010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ShowMoreShapeHandlesOnHover Property (Visio)
+# ApplicationSettings.ShowMoreShapeHandlesOnHover property (Visio)
 
 Gets or sets whether to show additional shape handles when the mouse is paused over a shape. Read/write.
 

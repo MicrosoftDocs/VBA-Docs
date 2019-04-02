@@ -1,5 +1,5 @@
 ---
-title: Pages.Application Property (Visio)
+title: Pages.Application property (Visio)
 keywords: vis_sdr.chm11013090
 f1_keywords:
 - vis_sdr.chm11013090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Application Property (Visio)
+# Pages.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

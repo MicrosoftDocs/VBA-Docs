@@ -1,5 +1,5 @@
 ---
-title: Application.CompareProjectsPreviousVersionName Property (Project)
+title: Application.CompareProjectsPreviousVersionName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.CompareProjectsPreviousVersionName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CompareProjectsPreviousVersionName Property (Project)
+# Application.CompareProjectsPreviousVersionName property (Project)
 
 Gets or sets the name of the previous version of a project for a comparison of project versions. Read/write  **String**.
 

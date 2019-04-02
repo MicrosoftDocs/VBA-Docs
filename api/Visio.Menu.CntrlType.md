@@ -1,5 +1,5 @@
 ---
-title: Menu.CntrlType Property (Visio)
+title: Menu.CntrlType property (Visio)
 keywords: vis_sdr.chm13113265
 f1_keywords:
 - vis_sdr.chm13113265
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menu.CntrlType Property (Visio)
+# Menu.CntrlType property (Visio)
 
 Gets or sets the control type of a menu. Read/write.
 

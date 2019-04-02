@@ -1,5 +1,5 @@
 ---
-title: Shape.ID Property (Visio)
+title: Shape.ID property (Visio)
 keywords: vis_sdr.chm11213675
 f1_keywords:
 - vis_sdr.chm11213675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ID Property (Visio)
+# Shape.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 

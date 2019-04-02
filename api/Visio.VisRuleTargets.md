@@ -1,5 +1,5 @@
 ---
-title: VisRuleTargets Enumeration (Visio)
+title: VisRuleTargets enumeration (Visio)
 keywords: vis_sdr.chm70685
 f1_keywords:
 - vis_sdr.chm70685
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRuleTargets Enumeration (Visio)
+# VisRuleTargets enumeration (Visio)
 
 Specifies contants that define the target of the validation rule; passed to and returned by the  **[ValidationRule.TargetType](Visio.ValidationRule.TargetType.md)** property.
 

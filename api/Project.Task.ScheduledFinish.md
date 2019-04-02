@@ -1,5 +1,5 @@
 ---
-title: Task.ScheduledFinish Property (Project)
+title: Task.ScheduledFinish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ScheduledFinish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ScheduledFinish Property (Project)
+# Task.ScheduledFinish property (Project)
 
 Gets the scheduled (as opposed to actual) finish time of a task. Read-only  **Variant**
 

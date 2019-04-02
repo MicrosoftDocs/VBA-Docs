@@ -1,5 +1,5 @@
 ---
-title: Application.SummaryTasksShow Method (Project)
+title: Application.SummaryTasksShow method (Project)
 keywords: vbapj.chm45
 f1_keywords:
 - vbapj.chm45
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SummaryTasksShow Method (Project)
+# Application.SummaryTasksShow method (Project)
 
 Shows or hides summary tasks in the active Network Diagram.
 

@@ -1,5 +1,5 @@
 ---
-title: VisDataColumnProperties Enumeration (Visio)
+title: VisDataColumnProperties enumeration (Visio)
 keywords: vis_sdr.chm70500
 f1_keywords:
 - vis_sdr.chm70500
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDataColumnProperties Enumeration (Visio)
+# VisDataColumnProperties enumeration (Visio)
 
 Data-column-property constants passed to the  **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** and **[DataColumns.SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)** methods and returned by the **[DataColumn.GetProperty](Visio.DataColumn.GetProperty.md)** method.
 

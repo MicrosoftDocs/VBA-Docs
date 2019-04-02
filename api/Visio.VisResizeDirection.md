@@ -1,5 +1,5 @@
 ---
-title: VisResizeDirection Enumeration (Visio)
+title: VisResizeDirection enumeration (Visio)
 keywords: vis_sdr.chm70655
 f1_keywords:
 - vis_sdr.chm70655
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisResizeDirection Enumeration (Visio)
+# VisResizeDirection enumeration (Visio)
 
 Specifies the resize directions that correspond to the shape handles to move; passed to the  **[Shape.Resize](Visio.Shape.Resize.md)** and **[Selection.Resize](Visio.Selection.Resize.md)** methods.
 

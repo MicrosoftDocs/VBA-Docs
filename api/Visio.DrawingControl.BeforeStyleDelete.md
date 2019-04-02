@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforeStyleDelete Event (Visio)
+title: DrawingControl.BeforeStyleDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeStyleDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeStyleDelete Event (Visio)
+# DrawingControl.BeforeStyleDelete event (Visio)
 
 Occurs before a style is deleted.
 

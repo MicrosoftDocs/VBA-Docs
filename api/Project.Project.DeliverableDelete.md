@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableDelete Method (Project)
+title: Project.DeliverableDelete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableDelete Method (Project)
+# Project.DeliverableDelete method (Project)
 
 Deletes the deliverable.
 

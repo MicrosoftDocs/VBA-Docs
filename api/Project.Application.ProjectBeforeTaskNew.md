@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeTaskNew Event (Project)
+title: Application.ProjectBeforeTaskNew event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeTaskNew
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeTaskNew Event (Project)
+# Application.ProjectBeforeTaskNew event (Project)
 
 Occurs before one or more tasks are created.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BuiltInToolbars Property (Visio)
+title: InvisibleApp.BuiltInToolbars property (Visio)
 keywords: vis_sdr.chm17513165
 f1_keywords:
 - vis_sdr.chm17513165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BuiltInToolbars Property (Visio)
+# InvisibleApp.BuiltInToolbars property (Visio)
 
 Returns a  **UIObject** object that represents a copy of the built-in Microsoft Visio toolbars. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: GroupCriteria.Item Property (Project)
+title: GroupCriteria.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriteria.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriteria.Item Property (Project)
+# GroupCriteria.Item property (Project)
 
 Gets a single  **GroupCriterion** object from the **GroupCriteria** collection. Read-only **GroupCriterion**.
 

@@ -1,5 +1,5 @@
 ---
-title: VisAutoLinkFieldTypes Enumeration (Visio)
+title: VisAutoLinkFieldTypes enumeration (Visio)
 keywords: vis_sdr.chm70485
 f1_keywords:
 - vis_sdr.chm70485
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisAutoLinkFieldTypes Enumeration (Visio)
+# VisAutoLinkFieldTypes enumeration (Visio)
 
 Constants passed to the  **Selection.AutomaticLink** method, specifying the shape data (custom property) field to which to link shapes.
 

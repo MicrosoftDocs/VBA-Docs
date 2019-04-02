@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivate Method (Project)
+title: Application.WindowActivate method (Project)
 keywords: vbapj.chm705
 f1_keywords:
 - vbapj.chm705
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowActivate Method (Project)
+# Application.WindowActivate method (Project)
 
 Activates a window.
 

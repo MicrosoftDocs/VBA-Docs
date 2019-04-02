@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.Document Property (Visio)
+title: DrawingControl.Document property (Visio)
 keywords: vis_sdr.chm51995
 f1_keywords:
 - vis_sdr.chm51995
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.Document Property (Visio)
+# DrawingControl.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

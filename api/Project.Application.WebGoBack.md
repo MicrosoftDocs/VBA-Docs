@@ -1,5 +1,5 @@
 ---
-title: Application.WebGoBack Method (Project)
+title: Application.WebGoBack method (Project)
 keywords: vbapj.chm1300
 f1_keywords:
 - vbapj.chm1300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WebGoBack Method (Project)
+# Application.WebGoBack method (Project)
 
 Goes to the previous document in the history list.
 

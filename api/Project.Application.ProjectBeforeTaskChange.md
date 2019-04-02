@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeTaskChange Event (Project)
+title: Application.ProjectBeforeTaskChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeTaskChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeTaskChange Event (Project)
+# Application.ProjectBeforeTaskChange event (Project)
 
 Occurs before the user changes the value of a task field.
 

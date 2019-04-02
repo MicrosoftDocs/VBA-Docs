@@ -1,5 +1,5 @@
 ---
-title: PbHlinkTargetType Enumeration (Publisher)
+title: PbHlinkTargetType enumeration (Publisher)
 keywords: vbapb10.chm65607
 f1_keywords:
 - vbapb10.chm65607
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbHlinkTargetType Enumeration (Publisher)
+# PbHlinkTargetType enumeration (Publisher)
 
 Represents the type of hyperlink.
 

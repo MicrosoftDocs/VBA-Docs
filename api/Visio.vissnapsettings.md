@@ -1,5 +1,5 @@
 ---
-title: VisSnapSettings Enumeration (Visio)
+title: VisSnapSettings enumeration (Visio)
 keywords: vis_sdr.chm70320
 f1_keywords:
 - vis_sdr.chm70320
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSnapSettings Enumeration (Visio)
+# VisSnapSettings enumeration (Visio)
 
 Flags passed to or returned by the  **Document.SnapSettings** property.
 

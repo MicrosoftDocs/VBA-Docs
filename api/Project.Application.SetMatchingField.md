@@ -1,5 +1,5 @@
 ---
-title: Application.SetMatchingField Method (Project)
+title: Application.SetMatchingField method (Project)
 keywords: vbapj.chm11
 f1_keywords:
 - vbapj.chm11
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetMatchingField Method (Project)
+# Application.SetMatchingField method (Project)
 
 Sets the value in the field of selected tasks or resources that meet the specified criteria.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AddonPaths Property (Visio)
+title: InvisibleApp.AddonPaths property (Visio)
 keywords: vis_sdr.chm17513055
 f1_keywords:
 - vis_sdr.chm17513055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.AddonPaths Property (Visio)
+# InvisibleApp.AddonPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for third-party or user add-ons. Read/write.
 

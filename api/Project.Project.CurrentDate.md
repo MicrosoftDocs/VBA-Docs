@@ -1,5 +1,5 @@
 ---
-title: Project.CurrentDate Property (Project)
+title: Project.CurrentDate property (Project)
 keywords: vbapj.chm131699
 f1_keywords:
 - vbapj.chm131699
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrentDate Property (Project)
+# Project.CurrentDate property (Project)
 
 Gets or sets the current date for a project. Read/write  **Variant**.
 

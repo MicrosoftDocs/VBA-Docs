@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MouseMove Event (Visio)
+title: InvisibleApp.MouseMove event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MouseMove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MouseMove Event (Visio)
+# InvisibleApp.MouseMove event (Visio)
 
 Occurs when the mouse is moved.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentOpen Event (Publisher)
+title: Application.DocumentOpen event (Publisher)
 keywords: vbapb10.chm268435463
 f1_keywords:
 - vbapb10.chm268435463
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentOpen Event (Publisher)
+# Application.DocumentOpen event (Publisher)
 
 Occurs when opening a document.
 

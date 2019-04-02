@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.TargetMasterName Property (Visio)
+title: MasterShortcut.TargetMasterName property (Visio)
 keywords: vis_sdr.chm16014500
 f1_keywords:
 - vis_sdr.chm16014500
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.TargetMasterName Property (Visio)
+# MasterShortcut.TargetMasterName property (Visio)
 
 Gets or sets the name of the master to which the master shortcut refers. Read/write.
 

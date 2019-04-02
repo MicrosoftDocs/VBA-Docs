@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.COMAddIns Property (Visio)
+title: InvisibleApp.COMAddIns property (Visio)
 keywords: vis_sdr.chm17550535
 f1_keywords:
 - vis_sdr.chm17550535
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.COMAddIns Property (Visio)
+# InvisibleApp.COMAddIns property (Visio)
 
 Returns a reference to the  **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently registered in Microsoft Visio. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: UIObject.SaveToFile Method (Visio)
+title: UIObject.SaveToFile method (Visio)
 keywords: vis_sdr.chm14916510
 f1_keywords:
 - vis_sdr.chm14916510
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UIObject.SaveToFile Method (Visio)
+# UIObject.SaveToFile method (Visio)
 
 Saves the user interface represented by a  **UIObject** object in a file.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.TextChanged Event (Visio)
+title: Master.TextChanged event (Visio)
 keywords: vis_sdr.chm10719255
 f1_keywords:
 - vis_sdr.chm10719255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.TextChanged Event (Visio)
+# Master.TextChanged event (Visio)
 
 Occurs after the text of a shape is changed in a document.
 

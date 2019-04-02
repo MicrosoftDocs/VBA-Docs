@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.Delete Method (Visio)
+title: GraphicItem.Delete method (Visio)
 keywords: vis_sdr.chm16951425
 f1_keywords:
 - vis_sdr.chm16951425
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.Delete Method (Visio)
+# GraphicItem.Delete method (Visio)
 
 Deletes a  **GraphicItem** object from the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic**.
 

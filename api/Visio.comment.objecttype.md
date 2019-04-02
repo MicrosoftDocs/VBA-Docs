@@ -1,5 +1,5 @@
 ---
-title: Comment.ObjectType Property (Visio)
+title: Comment.ObjectType property (Visio)
 ms.prod: visio
 ms.assetid: bf0d786d-e1b6-65f1-3112-5dfd4ff324e9
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.ObjectType Property (Visio)
+# Comment.ObjectType property (Visio)
 
 Returns  **visObjTypeComment**, the type of a  **Comment** object. Read-only.
 

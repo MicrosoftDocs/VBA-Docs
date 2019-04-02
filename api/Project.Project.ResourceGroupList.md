@@ -1,5 +1,5 @@
 ---
-title: Project.ResourceGroupList Property (Project)
+title: Project.ResourceGroupList property (Project)
 keywords: vbapj.chm132565
 f1_keywords:
 - vbapj.chm132565
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ResourceGroupList Property (Project)
+# Project.ResourceGroupList property (Project)
 
 Gets a  **[List](Project.List.md)** object representing the resource groups in the active project. Read-only **List**.
 

@@ -1,5 +1,5 @@
 ---
-title: OlComboBoxStyle Enumeration (Outlook)
+title: OlComboBoxStyle enumeration (Outlook)
 keywords: vbaol11.chm1000025
 f1_keywords:
 - vbaol11.chm1000025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlComboBoxStyle Enumeration (Outlook)
+# OlComboBoxStyle enumeration (Outlook)
 
 Indicates the behavior of a combo box control.
 

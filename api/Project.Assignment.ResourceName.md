@@ -1,5 +1,5 @@
 ---
-title: Assignment.ResourceName Property (Project)
+title: Assignment.ResourceName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ResourceName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ResourceName Property (Project)
+# Assignment.ResourceName property (Project)
 
 Gets or sets the name of the resource for the assignment. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Event.Persistent Property (Visio)
+title: Event.Persistent property (Visio)
 keywords: vis_sdr.chm12614075
 f1_keywords:
 - vis_sdr.chm12614075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.Persistent Property (Visio)
+# Event.Persistent property (Visio)
 
 Determines whether an event persists with its document. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.RowsCellCount Property (Visio)
+title: Shape.RowsCellCount property (Visio)
 keywords: vis_sdr.chm11214265
 f1_keywords:
 - vis_sdr.chm11214265
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.RowsCellCount Property (Visio)
+# Shape.RowsCellCount property (Visio)
 
 Returns the number of cells in a row of a ShapeSheet section. Read-only.
 

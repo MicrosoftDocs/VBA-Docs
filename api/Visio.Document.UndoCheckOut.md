@@ -1,5 +1,5 @@
 ---
-title: Document.UndoCheckOut Method (Visio)
+title: Document.UndoCheckOut method (Visio)
 keywords: vis_sdr.chm10560090
 f1_keywords:
 - vis_sdr.chm10560090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.UndoCheckOut Method (Visio)
+# Document.UndoCheckOut method (Visio)
 
 Closes a Microsoft Visio document checked out from a Microsoft SharePoint Server site, deletes the local copy of the document, discarding any changes, undoes the checkout, and then reopens the document.
 

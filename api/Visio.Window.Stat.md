@@ -1,5 +1,5 @@
 ---
-title: Window.Stat Property (Visio)
+title: Window.Stat property (Visio)
 keywords: vis_sdr.chm11614420
 f1_keywords:
 - vis_sdr.chm11614420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Stat Property (Visio)
+# Window.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

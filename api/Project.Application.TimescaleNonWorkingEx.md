@@ -1,5 +1,5 @@
 ---
-title: Application.TimescaleNonWorkingEx Method (Project)
+title: Application.TimescaleNonWorkingEx method (Project)
 keywords: vbapj.chm2151
 f1_keywords:
 - vbapj.chm2151
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimescaleNonWorkingEx Method (Project)
+# Application.TimescaleNonWorkingEx method (Project)
 
 Sets the format of nonworking times, where color values can be hexadecimal RGB values.
 

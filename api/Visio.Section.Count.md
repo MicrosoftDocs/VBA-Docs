@@ -1,5 +1,5 @@
 ---
-title: Section.Count Property (Visio)
+title: Section.Count property (Visio)
 keywords: vis_sdr.chm15713330
 f1_keywords:
 - vis_sdr.chm15713330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Section.Count Property (Visio)
+# Section.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

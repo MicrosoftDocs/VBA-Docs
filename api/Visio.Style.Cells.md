@@ -1,5 +1,5 @@
 ---
-title: Style.Cells Property (Visio)
+title: Style.Cells property (Visio)
 keywords: vis_sdr.chm11413190
 f1_keywords:
 - vis_sdr.chm11413190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.Cells Property (Visio)
+# Style.Cells property (Visio)
 
 Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 

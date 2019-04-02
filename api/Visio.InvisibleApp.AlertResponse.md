@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AlertResponse Property (Visio)
+title: InvisibleApp.AlertResponse property (Visio)
 keywords: vis_sdr.chm17513070
 f1_keywords:
 - vis_sdr.chm17513070
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.AlertResponse Property (Visio)
+# InvisibleApp.AlertResponse property (Visio)
 
 Determines whether Microsoft Visio shows alerts and modal dialog boxes to the user. Read/write.
 

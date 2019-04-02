@@ -1,5 +1,5 @@
 ---
-title: Section Object (Visio)
+title: Section object (Visio)
 keywords: vis_sdr.chm10215
 f1_keywords:
 - vis_sdr.chm10215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Section Object (Visio)
+# Section object (Visio)
 
 Enables you to access and manipulate a section of a shape. A section of a shape corresponds to a section shown in the ShapeSheet window. A section contains rows and cells.
 

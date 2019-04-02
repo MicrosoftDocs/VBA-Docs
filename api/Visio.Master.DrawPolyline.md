@@ -1,5 +1,5 @@
 ---
-title: Master.DrawPolyline Method (Visio)
+title: Master.DrawPolyline method (Visio)
 keywords: vis_sdr.chm10716215
 f1_keywords:
 - vis_sdr.chm10716215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawPolyline Method (Visio)
+# Master.DrawPolyline method (Visio)
 
 Creates a shape whose path is a polyline along a given set of points.
 

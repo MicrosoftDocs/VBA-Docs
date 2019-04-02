@@ -1,5 +1,5 @@
 ---
-title: TaskGroups2 Object (Project)
+title: TaskGroups2 object (Project)
 ms.prod: project-server
 ms.assetid: 08346fd5-3dbd-23ea-9dc8-c2361ce043f4
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TaskGroups2 Object (Project)
+# TaskGroups2 object (Project)
 
 Represents all the task-based group definitions, where group hierarchy can be maintained.  **TaskGroups2** is a collection of **[Group2](Project.Group2.md)** objects.
  

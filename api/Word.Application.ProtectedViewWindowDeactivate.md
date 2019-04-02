@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowDeactivate Event (Word)
+title: Application.ProtectedViewWindowDeactivate event (Word)
 keywords: vbawd10.chm4000035
 f1_keywords:
 - vbawd10.chm4000035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowDeactivate Event (Word)
+# Application.ProtectedViewWindowDeactivate event (Word)
 
 Occurs when a protected view window is deactivated.
 

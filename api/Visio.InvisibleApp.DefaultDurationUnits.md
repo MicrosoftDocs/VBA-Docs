@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DefaultDurationUnits Property (Visio)
+title: InvisibleApp.DefaultDurationUnits property (Visio)
 keywords: vis_sdr.chm17551045
 f1_keywords:
 - vis_sdr.chm17551045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DefaultDurationUnits Property (Visio)
+# InvisibleApp.DefaultDurationUnits property (Visio)
 
 Determines the default unit of measure for quantities that represent durations. Read/write.
 

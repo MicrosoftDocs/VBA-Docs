@@ -1,5 +1,5 @@
 ---
-title: Group.ShowSummary Property (Project)
+title: Group.ShowSummary property (Project)
 ms.prod: project-server
 api_name:
 - Project.Group.ShowSummary
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Group.ShowSummary Property (Project)
+# Group.ShowSummary property (Project)
 
  **True** if summary rows are displayed for the group. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.OutlineSymbolsToggle Method (Project)
+title: Application.OutlineSymbolsToggle method (Project)
 keywords: vbapj.chm2082
 f1_keywords:
 - vbapj.chm2082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OutlineSymbolsToggle Method (Project)
+# Application.OutlineSymbolsToggle method (Project)
 
 Shows or hides outline symbols.
 

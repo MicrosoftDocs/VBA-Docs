@@ -1,5 +1,5 @@
 ---
-title: Application.IsUndoingOrRedoing Method (Project)
+title: Application.IsUndoingOrRedoing method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.IsUndoingOrRedoing
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.IsUndoingOrRedoing Method (Project)
+# Application.IsUndoingOrRedoing method (Project)
 
 Indicates whether Project is currently executing an undo or redo action.
 

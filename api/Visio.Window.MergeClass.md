@@ -1,5 +1,5 @@
 ---
-title: Window.MergeClass Property (Visio)
+title: Window.MergeClass property (Visio)
 keywords: vis_sdr.chm11650715
 f1_keywords:
 - vis_sdr.chm11650715
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.MergeClass Property (Visio)
+# Window.MergeClass property (Visio)
 
 Specifies a list of window classes that this anchored window can merge with. Read/write.
 

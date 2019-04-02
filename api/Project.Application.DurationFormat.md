@@ -1,5 +1,5 @@
 ---
-title: Application.DurationFormat Method (Project)
+title: Application.DurationFormat method (Project)
 keywords: vbapj.chm131212
 f1_keywords:
 - vbapj.chm131212
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DurationFormat Method (Project)
+# Application.DurationFormat method (Project)
 
 Returns a duration in the specified units.
 

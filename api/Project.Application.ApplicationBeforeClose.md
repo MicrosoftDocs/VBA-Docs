@@ -1,5 +1,5 @@
 ---
-title: Application.ApplicationBeforeClose Event (Project)
+title: Application.ApplicationBeforeClose event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ApplicationBeforeClose
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ApplicationBeforeClose Event (Project)
+# Application.ApplicationBeforeClose event (Project)
 
 Occurs before Project exits.
 

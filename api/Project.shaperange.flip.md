@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Flip Method (Project)
+title: ShapeRange.Flip method (Project)
 ms.prod: project-server
 ms.assetid: e9cc1139-de66-c49a-faf2-4e8adbbc6eab
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Flip Method (Project)
+# ShapeRange.Flip method (Project)
 Flips each shape in the shape range around its horizontal or vertical axis.
 
 ## Syntax

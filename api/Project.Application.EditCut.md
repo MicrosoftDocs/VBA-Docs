@@ -1,5 +1,5 @@
 ---
-title: Application.EditCut Method (Project)
+title: Application.EditCut method (Project)
 keywords: vbapj.chm202
 f1_keywords:
 - vbapj.chm202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EditCut Method (Project)
+# Application.EditCut method (Project)
 
 Cuts the selected items.
 

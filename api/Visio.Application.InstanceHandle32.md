@@ -1,5 +1,5 @@
 ---
-title: Application.InstanceHandle32 Property (Visio)
+title: Application.InstanceHandle32 property (Visio)
 keywords: vis_sdr.chm10013710
 f1_keywords:
 - vis_sdr.chm10013710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.InstanceHandle32 Property (Visio)
+# Application.InstanceHandle32 property (Visio)
 
 Gets the instance handle of the  **Application** object for a 32-bit version of Microsoft Visio. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ViewSingle Object (Project)
+title: ViewSingle object (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle Object (Project)
+# ViewSingle object (Project)
 
 Represents a single-pane view in Project. The  **ViewSingle** object is a member of the **[ViewsSingle](./Project.viewssingle(object).md)** collection.
 

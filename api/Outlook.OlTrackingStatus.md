@@ -1,5 +1,5 @@
 ---
-title: OlTrackingStatus Enumeration (Outlook)
+title: OlTrackingStatus enumeration (Outlook)
 keywords: vbaol11.chm3088
 f1_keywords:
 - vbaol11.chm3088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTrackingStatus Enumeration (Outlook)
+# OlTrackingStatus enumeration (Outlook)
 
 Indicates the most recent tracking status change for the recipient.
 

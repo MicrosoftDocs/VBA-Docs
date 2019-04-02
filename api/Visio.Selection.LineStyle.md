@@ -1,5 +1,5 @@
 ---
-title: Selection.LineStyle Property (Visio)
+title: Selection.LineStyle property (Visio)
 keywords: vis_sdr.chm11113845
 f1_keywords:
 - vis_sdr.chm11113845
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.LineStyle Property (Visio)
+# Selection.LineStyle property (Visio)
 
 Specifies the line style for an object. Read/write.
 

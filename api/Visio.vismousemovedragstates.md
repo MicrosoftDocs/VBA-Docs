@@ -1,5 +1,5 @@
 ---
-title: VisMouseMoveDragStates Enumeration (Visio)
+title: VisMouseMoveDragStates enumeration (Visio)
 keywords: vis_sdr.chm70550
 f1_keywords:
 - vis_sdr.chm70550
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisMouseMoveDragStates Enumeration (Visio)
+# VisMouseMoveDragStates enumeration (Visio)
 
 Constants returned by the  **MouseEvent.DragState** property.
 

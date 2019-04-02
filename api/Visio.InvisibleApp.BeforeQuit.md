@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeQuit Event (Visio)
+title: InvisibleApp.BeforeQuit event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeQuit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeQuit Event (Visio)
+# InvisibleApp.BeforeQuit event (Visio)
 
 Occurs before a Microsoft Visio instance terminates.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Baseline8BudgetWork Property (Project)
+title: Resource.Baseline8BudgetWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Baseline8BudgetWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Baseline8BudgetWork Property (Project)
+# Resource.Baseline8BudgetWork property (Project)
 
 Gets or sets the baseline8 budget work (in hours) for a  **Resource**. Read/write **Variant**.
 

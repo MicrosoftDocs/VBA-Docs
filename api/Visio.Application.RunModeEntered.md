@@ -1,5 +1,5 @@
 ---
-title: Application.RunModeEntered Event (Visio)
+title: Application.RunModeEntered event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.RunModeEntered
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RunModeEntered Event (Visio)
+# Application.RunModeEntered event (Visio)
 
 Occurs after a document enters run mode.
 

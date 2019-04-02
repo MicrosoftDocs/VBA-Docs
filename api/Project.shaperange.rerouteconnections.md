@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RerouteConnections Method (Project)
+title: ShapeRange.RerouteConnections method (Project)
 ms.prod: project-server
 ms.assetid: fac10082-a7e3-9d7d-af75-536a35e7b3ba
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.RerouteConnections Method (Project)
+# ShapeRange.RerouteConnections method (Project)
 The  **RerouteConnections** method is not implemented in Project.
 
 ## Syntax

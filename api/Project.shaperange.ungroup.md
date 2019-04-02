@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Ungroup Method (Project)
+title: ShapeRange.Ungroup method (Project)
 ms.prod: project-server
 ms.assetid: 8de156ed-3f6a-3132-6e7f-33c518a7a65e
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Ungroup Method (Project)
+# ShapeRange.Ungroup method (Project)
 The  **Ungroup** method is not implemented in Project.
 
 ## Syntax

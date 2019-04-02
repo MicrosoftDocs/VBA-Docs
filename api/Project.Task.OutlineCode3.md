@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineCode3 Property (Project)
+title: Task.OutlineCode3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.OutlineCode3
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineCode3 Property (Project)
+# Task.OutlineCode3 property (Project)
 
  Gets or sets the value of the outline code custom field for a task. Read/write **String**.
 

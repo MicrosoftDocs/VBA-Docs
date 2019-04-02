@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.RemoveMember Method (Visio)
+title: ContainerProperties.RemoveMember method (Visio)
 keywords: vis_sdr.chm17662335
 f1_keywords:
 - vis_sdr.chm17662335
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.RemoveMember Method (Visio)
+# ContainerProperties.RemoveMember method (Visio)
 
 Removes a shape or set of shapes from the container.
 

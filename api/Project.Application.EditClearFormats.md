@@ -1,5 +1,5 @@
 ---
-title: Application.EditClearFormats Method (Project)
+title: Application.EditClearFormats method (Project)
 keywords: vbapj.chm240
 f1_keywords:
 - vbapj.chm240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EditClearFormats Method (Project)
+# Application.EditClearFormats method (Project)
 
 Clears the format of the active cells.
 

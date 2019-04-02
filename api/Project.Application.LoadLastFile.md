@@ -1,5 +1,5 @@
 ---
-title: Application.LoadLastFile Property (Project)
+title: Application.LoadLastFile property (Project)
 keywords: vbapj.chm132386
 f1_keywords:
 - vbapj.chm132386
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LoadLastFile Property (Project)
+# Application.LoadLastFile property (Project)
 
  **True** if the file last opened opens automatically when Project is started. Read/write **Boolean**.
 

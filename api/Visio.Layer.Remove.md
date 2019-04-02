@@ -1,5 +1,5 @@
 ---
-title: Layer.Remove Method (Visio)
+title: Layer.Remove method (Visio)
 keywords: vis_sdr.chm11816470
 f1_keywords:
 - vis_sdr.chm11816470
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.Remove Method (Visio)
+# Layer.Remove method (Visio)
 
 Removes a shape from a layer.
 

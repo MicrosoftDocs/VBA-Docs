@@ -1,5 +1,5 @@
 ---
-title: Resource.BaseCalendar Property (Project)
+title: Resource.BaseCalendar property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.BaseCalendar
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.BaseCalendar Property (Project)
+# Resource.BaseCalendar property (Project)
 
 Gets or sets the name of the base calendar for a resource. Read/write  **String**.
 

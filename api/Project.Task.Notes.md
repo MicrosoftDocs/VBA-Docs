@@ -1,5 +1,5 @@
 ---
-title: Task.Notes Property (Project)
+title: Task.Notes property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Notes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Notes Property (Project)
+# Task.Notes property (Project)
 
 Gets or sets the notes for a task. Read/write  **String**.
 

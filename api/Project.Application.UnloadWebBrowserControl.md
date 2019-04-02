@@ -1,5 +1,5 @@
 ---
-title: Application.UnloadWebBrowserControl Method (Project)
+title: Application.UnloadWebBrowserControl method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.UnloadWebBrowserControl
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UnloadWebBrowserControl Method (Project)
+# Application.UnloadWebBrowserControl method (Project)
 
 Unloads the Web browser control and returns to the regular Project interface.
 

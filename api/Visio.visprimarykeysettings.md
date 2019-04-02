@@ -1,5 +1,5 @@
 ---
-title: VisPrimaryKeySettings Enumeration (Visio)
+title: VisPrimaryKeySettings enumeration (Visio)
 keywords: vis_sdr.chm70465
 f1_keywords:
 - vis_sdr.chm70465
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisPrimaryKeySettings Enumeration (Visio)
+# VisPrimaryKeySettings enumeration (Visio)
 
 Primary key settings constants passed to the  **[DataRecordset.SetPrimaryKey](Visio.DataRecordset.SetPrimaryKey.md)** method and returned by the **[DataRecordset.GetPrimaryKey](Visio.DataRecordset.GetPrimaryKey.md)** method.
 

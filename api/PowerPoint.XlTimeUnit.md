@@ -1,5 +1,5 @@
 ---
-title: XlTimeUnit Enumeration (PowerPoint)
+title: XlTimeUnit enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlTimeUnit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlTimeUnit Enumeration (PowerPoint)
+# XlTimeUnit enumeration (PowerPoint)
 
 Specifies the unit of time for chart axes and data series.
 

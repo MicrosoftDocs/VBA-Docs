@@ -1,5 +1,5 @@
 ---
-title: Document.Clean Method (Visio)
+title: Document.Clean method (Visio)
 keywords: vis_sdr.chm10552040
 f1_keywords:
 - vis_sdr.chm10552040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Clean Method (Visio)
+# Document.Clean method (Visio)
 
 Examines, reports, and repairs selected conditions in a document.
 

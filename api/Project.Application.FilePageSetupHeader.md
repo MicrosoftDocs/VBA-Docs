@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupHeader Method (Project)
+title: Application.FilePageSetupHeader method (Project)
 keywords: vbapj.chm2357
 f1_keywords:
 - vbapj.chm2357
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupHeader Method (Project)
+# Application.FilePageSetupHeader method (Project)
 
 Sets up headers for printing.
 

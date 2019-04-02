@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MouseUp Event (Visio)
+title: InvisibleApp.MouseUp event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MouseUp
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MouseUp Event (Visio)
+# InvisibleApp.MouseUp event (Visio)
 
 Occurs when a mouse button is released.
 

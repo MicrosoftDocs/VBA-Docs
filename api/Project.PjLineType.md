@@ -1,5 +1,5 @@
 ---
-title: PjLineType Enumeration (Project)
+title: PjLineType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLineType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLineType Enumeration (Project)
+# PjLineType enumeration (Project)
 
 Contains constants that specify a line pattern.
 

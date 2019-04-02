@@ -1,5 +1,5 @@
 ---
-title: Resource.CanLevel Property (Project)
+title: Resource.CanLevel property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.CanLevel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.CanLevel Property (Project)
+# Resource.CanLevel property (Project)
 
  **True** if the resource can be leveled. Read/write **Variant**.
 

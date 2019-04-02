@@ -1,5 +1,5 @@
 ---
-title: OlAttachmentBlockLevel Enumeration (Outlook)
+title: OlAttachmentBlockLevel enumeration (Outlook)
 keywords: vbaol11.chm3261
 f1_keywords:
 - vbaol11.chm3261
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAttachmentBlockLevel Enumeration (Outlook)
+# OlAttachmentBlockLevel enumeration (Outlook)
 
 Specifies whether there is any restriction on the type of attachments for an item.
 

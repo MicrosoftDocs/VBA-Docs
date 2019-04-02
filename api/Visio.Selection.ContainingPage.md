@@ -1,5 +1,5 @@
 ---
-title: Selection.ContainingPage Property (Visio)
+title: Selection.ContainingPage property (Visio)
 keywords: vis_sdr.chm11113305
 f1_keywords:
 - vis_sdr.chm11113305
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.ContainingPage Property (Visio)
+# Selection.ContainingPage property (Visio)
 
 Returns the page that contains an object.
 

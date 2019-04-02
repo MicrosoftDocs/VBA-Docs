@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeDataSourceLoad Event (Word)
+title: Application.MailMergeDataSourceLoad event (Word)
 keywords: vbawd10.chm4000020
 f1_keywords:
 - vbawd10.chm4000020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeDataSourceLoad Event (Word)
+# Application.MailMergeDataSourceLoad event (Word)
 
 Occurs when the data source is loaded for a mail merge.
 

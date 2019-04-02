@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentBeforePrint Event (Word)
+title: Application.DocumentBeforePrint event (Word)
 keywords: vbawd10.chm400006
 f1_keywords:
 - vbawd10.chm400006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentBeforePrint Event (Word)
+# Application.DocumentBeforePrint event (Word)
 
 Occurs before any open document is printed.
 

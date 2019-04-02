@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeShapeTextEdit Event (Visio)
+title: Application.BeforeShapeTextEdit event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeShapeTextEdit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeShapeTextEdit Event (Visio)
+# Application.BeforeShapeTextEdit event (Visio)
 
 Occurs before a shape is opened for text editing in the user interface.
 

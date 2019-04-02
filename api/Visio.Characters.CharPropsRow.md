@@ -1,5 +1,5 @@
 ---
-title: Characters.CharPropsRow Property (Visio)
+title: Characters.CharPropsRow property (Visio)
 keywords: vis_sdr.chm10213230
 f1_keywords:
 - vis_sdr.chm10213230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.CharPropsRow Property (Visio)
+# Characters.CharPropsRow property (Visio)
 
 Returns the index of the row in the Character section of a ShapeSheet window that contains character formatting information for a  **Characters** object. Read-only.
 

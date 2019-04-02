@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.SetListSpacing Method (Visio)
+title: ContainerProperties.SetListSpacing method (Visio)
 keywords: vis_sdr.chm17662315
 f1_keywords:
 - vis_sdr.chm17662315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.SetListSpacing Method (Visio)
+# ContainerProperties.SetListSpacing method (Visio)
 
 Sets the gap between adjacent member shapes in the list.
 

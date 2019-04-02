@@ -1,5 +1,5 @@
 ---
-title: Application.LayoutNow Method (Project)
+title: Application.LayoutNow method (Project)
 keywords: vbapj.chm907
 f1_keywords:
 - vbapj.chm907
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LayoutNow Method (Project)
+# Application.LayoutNow method (Project)
 
 Lays out the active view according to its layout options.
 

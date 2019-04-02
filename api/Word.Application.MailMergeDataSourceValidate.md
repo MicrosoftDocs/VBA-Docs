@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeDataSourceValidate Event (Word)
+title: Application.MailMergeDataSourceValidate event (Word)
 keywords: vbawd10.chm4000021
 f1_keywords:
 - vbawd10.chm4000021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeDataSourceValidate Event (Word)
+# Application.MailMergeDataSourceValidate event (Word)
 
 Occurs when a user validates mail merge recipients by clicking  **Validate** in the **Mail Merge Recipients** dialog box.
 

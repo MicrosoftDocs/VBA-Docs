@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineChildren Property (Project)
+title: Task.OutlineChildren property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.OutlineChildren
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineChildren Property (Project)
+# Task.OutlineChildren property (Project)
 
 Gets a  **[Tasks](Project.Task.md)** collection representing the children of a task in the outline structure. Read-only **Tasks**.
 

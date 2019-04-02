@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceWindowsAccount Method (Project)
+title: Application.ResourceWindowsAccount method (Project)
 keywords: vbapj.chm2394
 f1_keywords:
 - vbapj.chm2394
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceWindowsAccount Method (Project)
+# Application.ResourceWindowsAccount method (Project)
 
 Sets the security identifier for Microsoft Windows authentication for the selected resource(s), based upon a Microsoft Exchange Server Address Book.
 

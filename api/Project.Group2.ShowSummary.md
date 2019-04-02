@@ -1,5 +1,5 @@
 ---
-title: Group2.ShowSummary Property (Project)
+title: Group2.ShowSummary property (Project)
 ms.prod: project-server
 api_name:
 - Project.Group2.ShowSummary
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Group2.ShowSummary Property (Project)
+# Group2.ShowSummary property (Project)
 
  **True** if summary tasks are displayed in a task view that is organized by group. Read/write **Boolean**.
 

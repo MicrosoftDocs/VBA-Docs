@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseListSeparator Property (Project)
+title: Application.EnterpriseListSeparator property (Project)
 keywords: vbapj.chm131809
 f1_keywords:
 - vbapj.chm131809
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseListSeparator Property (Project)
+# Application.EnterpriseListSeparator property (Project)
 
 Gets or sets the separator character for enterprise lists. Read/write  **String**.
 

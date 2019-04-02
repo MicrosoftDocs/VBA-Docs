@@ -1,5 +1,5 @@
 ---
-title: Window.QueryCancelWindowClose Event (Visio)
+title: Window.QueryCancelWindowClose event (Visio)
 keywords: vis_sdr.chm11619300
 f1_keywords:
 - vis_sdr.chm11619300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.QueryCancelWindowClose Event (Visio)
+# Window.QueryCancelWindowClose event (Visio)
 
 Occurs before the application closes a window in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

@@ -1,5 +1,5 @@
 ---
-title: Days.Parent Property (Project)
+title: Days.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Days.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Days.Parent Property (Project)
+# Days.Parent property (Project)
 
 Gets the parent of the  **Days** object. Read-only **Month**.
 

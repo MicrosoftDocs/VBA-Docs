@@ -1,5 +1,5 @@
 ---
-title: Layer.Index Property (Visio)
+title: Layer.Index property (Visio)
 keywords: vis_sdr.chm11813695
 f1_keywords:
 - vis_sdr.chm11813695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.Index Property (Visio)
+# Layer.Index property (Visio)
 
 Gets the ordinal position of a  **Layer** object in the **Layers** collection. Read-only.
 

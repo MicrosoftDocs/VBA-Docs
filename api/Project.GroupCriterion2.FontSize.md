@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.FontSize Property (Project)
+title: GroupCriterion2.FontSize property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.FontSize
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.FontSize Property (Project)
+# GroupCriterion2.FontSize property (Project)
 
 Gets or sets the size of the font in points for a field used as a criterion in a group definition. Read/write  **Long**.
 

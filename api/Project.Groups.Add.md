@@ -1,5 +1,5 @@
 ---
-title: Groups.Add Method (Project)
+title: Groups.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Groups.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Groups.Add Method (Project)
+# Groups.Add method (Project)
 
 Adds a  **Group** object to a **Groups** collection.
 

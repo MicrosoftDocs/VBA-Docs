@@ -1,5 +1,5 @@
 ---
-title: Pages.ItemFromID Property (Visio)
+title: Pages.ItemFromID property (Visio)
 keywords: vis_sdr.chm11013775
 f1_keywords:
 - vis_sdr.chm11013775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.ItemFromID Property (Visio)
+# Pages.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 

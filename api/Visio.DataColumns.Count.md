@@ -1,5 +1,5 @@
 ---
-title: DataColumns.Count Property (Visio)
+title: DataColumns.Count property (Visio)
 keywords: vis_sdr.chm16613330
 f1_keywords:
 - vis_sdr.chm16613330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumns.Count Property (Visio)
+# DataColumns.Count property (Visio)
 
 Returns the number of  **DataColumn** objects in the **DataColumns** collection. Read-only.
 

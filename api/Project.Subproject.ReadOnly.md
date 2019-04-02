@@ -1,5 +1,5 @@
 ---
-title: Subproject.ReadOnly Property (Project)
+title: Subproject.ReadOnly property (Project)
 ms.prod: project-server
 api_name:
 - Project.Subproject.ReadOnly
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Subproject.ReadOnly Property (Project)
+# Subproject.ReadOnly property (Project)
 
  **True** if changes in the subproject affect its master project. Read/write **Boolean**.
 

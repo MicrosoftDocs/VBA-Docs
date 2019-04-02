@@ -1,5 +1,5 @@
 ---
-title: Assignment.ACWP Property (Project)
+title: Assignment.ACWP property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ACWP
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ACWP Property (Project)
+# Assignment.ACWP property (Project)
 
 Gets the actual cost of work performed for the assignment. Read-only  **Variant**.
 

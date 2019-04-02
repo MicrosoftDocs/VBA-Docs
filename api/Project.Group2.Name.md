@@ -1,5 +1,5 @@
 ---
-title: Group2.Name Property (Project)
+title: Group2.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Group2.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Group2.Name Property (Project)
+# Group2.Name property (Project)
 
 Gets or sets the name of a  **Group2** object. Read/write **String**.
 

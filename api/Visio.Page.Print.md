@@ -1,5 +1,5 @@
 ---
-title: Page.Print Method (Visio)
+title: Page.Print method (Visio)
 keywords: vis_sdr.chm10916445
 f1_keywords:
 - vis_sdr.chm10916445
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Print Method (Visio)
+# Page.Print method (Visio)
 
 Prints the contents of an object to the default printer.
 

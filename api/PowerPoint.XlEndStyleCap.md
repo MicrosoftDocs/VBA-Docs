@@ -1,5 +1,5 @@
 ---
-title: XlEndStyleCap Enumeration (PowerPoint)
+title: XlEndStyleCap enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlEndStyleCap
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlEndStyleCap Enumeration (PowerPoint)
+# XlEndStyleCap enumeration (PowerPoint)
 
 Specifies the end style for error bars.
 

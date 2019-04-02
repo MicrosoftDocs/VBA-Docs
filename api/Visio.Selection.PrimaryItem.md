@@ -1,5 +1,5 @@
 ---
-title: Selection.PrimaryItem Property (Visio)
+title: Selection.PrimaryItem property (Visio)
 keywords: vis_sdr.chm11114100
 f1_keywords:
 - vis_sdr.chm11114100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.PrimaryItem Property (Visio)
+# Selection.PrimaryItem property (Visio)
 
 Returns the  **Shape** object that is a **Selection** object's primary item. Read-only.
 

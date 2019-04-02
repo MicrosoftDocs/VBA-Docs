@@ -1,5 +1,5 @@
 ---
-title: Application.Alerts Method (Project)
+title: Application.Alerts method (Project)
 keywords: vbapj.chm10
 f1_keywords:
 - vbapj.chm10
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Alerts Method (Project)
+# Application.Alerts method (Project)
 
 Determines whether alerts appear when a macro runs.
 

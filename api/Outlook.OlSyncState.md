@@ -1,5 +1,5 @@
 ---
-title: OlSyncState Enumeration (Outlook)
+title: OlSyncState enumeration (Outlook)
 keywords: vbaol11.chm3091
 f1_keywords:
 - vbaol11.chm3091
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSyncState Enumeration (Outlook)
+# OlSyncState enumeration (Outlook)
 
 Indicates the synchronization state.
 

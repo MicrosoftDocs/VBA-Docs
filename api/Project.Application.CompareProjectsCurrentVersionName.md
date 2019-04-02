@@ -1,5 +1,5 @@
 ---
-title: Application.CompareProjectsCurrentVersionName Property (Project)
+title: Application.CompareProjectsCurrentVersionName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.CompareProjectsCurrentVersionName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CompareProjectsCurrentVersionName Property (Project)
+# Application.CompareProjectsCurrentVersionName property (Project)
 
 Gets or sets the name of the current version of a project for a comparison of project versions. Read/write  **String**.
 

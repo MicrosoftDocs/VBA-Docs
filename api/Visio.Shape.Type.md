@@ -1,5 +1,5 @@
 ---
-title: Shape.Type Property (Visio)
+title: Shape.Type property (Visio)
 keywords: vis_sdr.chm11214595
 f1_keywords:
 - vis_sdr.chm11214595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Type Property (Visio)
+# Shape.Type property (Visio)
 
 Returns the type of the object. Read-only.
 

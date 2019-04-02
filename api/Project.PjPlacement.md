@@ -1,5 +1,5 @@
 ---
-title: PjPlacement Enumeration (Project)
+title: PjPlacement enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPlacement
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjPlacement Enumeration (Project)
+# PjPlacement enumeration (Project)
 
 Contains constants that specify the placement of a symbol.
 

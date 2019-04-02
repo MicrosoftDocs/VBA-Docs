@@ -1,5 +1,5 @@
 ---
-title: Groups.Parent Property (Project)
+title: Groups.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Groups.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Groups.Parent Property (Project)
+# Groups.Parent property (Project)
 
 Gets the parent of the  **Groups** object. Read-only **Project**.
 

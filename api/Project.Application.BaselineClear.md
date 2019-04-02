@@ -1,5 +1,5 @@
 ---
-title: Application.BaselineClear Method (Project)
+title: Application.BaselineClear method (Project)
 keywords: vbapj.chm2384
 f1_keywords:
 - vbapj.chm2384
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BaselineClear Method (Project)
+# Application.BaselineClear method (Project)
 
 Clears the baseline data from the baseline fields or clears the data from a  **Start _n_** / **Finish _n_** pair of dates.
 

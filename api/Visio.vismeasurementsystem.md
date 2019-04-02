@@ -1,5 +1,5 @@
 ---
-title: VisMeasurementSystem Enumeration (Visio)
+title: VisMeasurementSystem enumeration (Visio)
 keywords: vis_sdr.chm70375
 f1_keywords:
 - vis_sdr.chm70375
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisMeasurementSystem Enumeration (Visio)
+# VisMeasurementSystem enumeration (Visio)
 
 Measurement system types to be passed to the  **Documents.AddEx** method.
 

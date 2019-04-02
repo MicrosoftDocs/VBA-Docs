@@ -1,5 +1,5 @@
 ---
-title: OlActionShowOn Enumeration (Outlook)
+title: OlActionShowOn enumeration (Outlook)
 keywords: vbaol11.chm3051
 f1_keywords:
 - vbaol11.chm3051
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlActionShowOn Enumeration (Outlook)
+# OlActionShowOn enumeration (Outlook)
 
 Identifies where an  **[Action](Outlook.Action.md)** is displayed as an available action.
 

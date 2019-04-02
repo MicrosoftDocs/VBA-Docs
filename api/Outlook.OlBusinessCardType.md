@@ -1,5 +1,5 @@
 ---
-title: OlBusinessCardType Enumeration (Outlook)
+title: OlBusinessCardType enumeration (Outlook)
 keywords: vbaol11.chm3231
 f1_keywords:
 - vbaol11.chm3231
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlBusinessCardType Enumeration (Outlook)
+# OlBusinessCardType enumeration (Outlook)
 
 Identifies the type of Electronic Business Card (EBC) format associated with a  **[ContactItem](Outlook.ContactItem.md)** object.
 

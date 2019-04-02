@@ -1,5 +1,5 @@
 ---
-title: Document.AddUndoUnit Method (Visio)
+title: Document.AddUndoUnit method (Visio)
 keywords: vis_sdr.chm10516075
 f1_keywords:
 - vis_sdr.chm10516075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.AddUndoUnit Method (Visio)
+# Document.AddUndoUnit method (Visio)
 
 Adds an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface to the Microsoft Visio undo queue.
 

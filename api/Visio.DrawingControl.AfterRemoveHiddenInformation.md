@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.AfterRemoveHiddenInformation Event (Visio)
+title: DrawingControl.AfterRemoveHiddenInformation event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.AfterRemoveHiddenInformation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.AfterRemoveHiddenInformation Event (Visio)
+# DrawingControl.AfterRemoveHiddenInformation event (Visio)
 
 Occurs when hidden information is removed from the document.
 

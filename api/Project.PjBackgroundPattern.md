@@ -1,5 +1,5 @@
 ---
-title: PjBackgroundPattern Enumeration (Project)
+title: PjBackgroundPattern enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBackgroundPattern
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBackgroundPattern Enumeration (Project)
+# PjBackgroundPattern enumeration (Project)
 
 Contains constants that specify the background pattern.
 

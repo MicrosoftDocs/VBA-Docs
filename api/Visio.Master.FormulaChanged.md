@@ -1,5 +1,5 @@
 ---
-title: Master.FormulaChanged Event (Visio)
+title: Master.FormulaChanged event (Visio)
 keywords: vis_sdr.chm10719160
 f1_keywords:
 - vis_sdr.chm10719160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.FormulaChanged Event (Visio)
+# Master.FormulaChanged event (Visio)
 
 Occurs after a formula changes in a cell in the object that receives the event.
 

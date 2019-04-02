@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ScreenUpdating Property (Visio)
+title: InvisibleApp.ScreenUpdating property (Visio)
 keywords: vis_sdr.chm17514295
 f1_keywords:
 - vis_sdr.chm17514295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ScreenUpdating Property (Visio)
+# InvisibleApp.ScreenUpdating property (Visio)
 
 Determines whether the screen is updated (redrawn) during a series of actions. Read/write.
 

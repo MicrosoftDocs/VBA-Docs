@@ -1,5 +1,5 @@
 ---
-title: Shape.OpenDrawWindow Method (Visio)
+title: Shape.OpenDrawWindow method (Visio)
 keywords: vis_sdr.chm11216400
 f1_keywords:
 - vis_sdr.chm11216400
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.OpenDrawWindow Method (Visio)
+# Shape.OpenDrawWindow method (Visio)
 
 Opens a new drawing window that displays a group.
 

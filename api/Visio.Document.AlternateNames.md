@@ -1,5 +1,5 @@
 ---
-title: Document.AlternateNames Property (Visio)
+title: Document.AlternateNames property (Visio)
 keywords: vis_sdr.chm10513085
 f1_keywords:
 - vis_sdr.chm10513085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.AlternateNames Property (Visio)
+# Document.AlternateNames property (Visio)
 
 Gets or sets the alternate names for a document. Read/write.
 

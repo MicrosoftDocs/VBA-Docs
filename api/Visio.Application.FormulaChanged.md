@@ -1,5 +1,5 @@
 ---
-title: Application.FormulaChanged Event (Visio)
+title: Application.FormulaChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.FormulaChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FormulaChanged Event (Visio)
+# Application.FormulaChanged event (Visio)
 
 Occurs after a formula changes in a cell in the object that receives the event.
 

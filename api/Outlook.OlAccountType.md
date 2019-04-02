@@ -1,5 +1,5 @@
 ---
-title: OlAccountType Enumeration (Outlook)
+title: OlAccountType enumeration (Outlook)
 keywords: vbaol11.chm3105
 f1_keywords:
 - vbaol11.chm3105
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAccountType Enumeration (Outlook)
+# OlAccountType enumeration (Outlook)
 
 Specifies the type of an  **[Account](Outlook.Account.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.FileOpenUsingBackstage Method (Project)
+title: Application.FileOpenUsingBackstage method (Project)
 keywords: vbapj.chm1010
 f1_keywords:
 - vbapj.chm1010
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileOpenUsingBackstage Method (Project)
+# Application.FileOpenUsingBackstage method (Project)
 Displays the  **Open** tab in the Backstage view.
 
 ## Syntax

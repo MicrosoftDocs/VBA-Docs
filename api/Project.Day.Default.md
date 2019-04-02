@@ -1,5 +1,5 @@
 ---
-title: Day.Default Method (Project)
+title: Day.Default method (Project)
 ms.prod: project-server
 api_name:
 - Project.Day.Default
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Day.Default Method (Project)
+# Day.Default method (Project)
 
 Resets the  **Day** item of a resource calendar to the value in the corresponding base calendar.
 

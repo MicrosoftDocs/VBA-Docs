@@ -1,5 +1,5 @@
 ---
-title: Resource.OvertimeWork Property (Project)
+title: Resource.OvertimeWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.OvertimeWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.OvertimeWork Property (Project)
+# Resource.OvertimeWork property (Project)
 
 Gets the overtime work for a resource. Read-only  **Variant**.
 

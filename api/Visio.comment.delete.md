@@ -1,5 +1,5 @@
 ---
-title: Comment.Delete Method (Visio)
+title: Comment.Delete method (Visio)
 ms.prod: visio
 ms.assetid: 7762f264-f680-5758-7c35-dfe9067b61ca
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.Delete Method (Visio)
+# Comment.Delete method (Visio)
 
 Deletes the specified comment.
 

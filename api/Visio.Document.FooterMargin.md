@@ -1,5 +1,5 @@
 ---
-title: Document.FooterMargin Property (Visio)
+title: Document.FooterMargin property (Visio)
 keywords: vis_sdr.chm10550590
 f1_keywords:
 - vis_sdr.chm10550590
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.FooterMargin Property (Visio)
+# Document.FooterMargin property (Visio)
 
 Gets or sets the margin of a document's footer. Read/write.
 

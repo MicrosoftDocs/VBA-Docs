@@ -1,5 +1,5 @@
 ---
-title: Assignment.OvertimeCost Property (Project)
+title: Assignment.OvertimeCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.OvertimeCost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.OvertimeCost Property (Project)
+# Assignment.OvertimeCost property (Project)
 
 Gets the overtime cost for an assignment. Read-only  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowObjects Method (Project)
+title: Application.ViewShowObjects method (Project)
 keywords: vbapj.chm920
 f1_keywords:
 - vbapj.chm920
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowObjects Method (Project)
+# Application.ViewShowObjects method (Project)
 
 Displays information about the task or resource object in the active details view.
 

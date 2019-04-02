@@ -1,5 +1,5 @@
 ---
-title: IVBUndoUnit.UnitSize Property (Visio)
+title: IVBUndoUnit.UnitSize property (Visio)
 keywords: vis_sdr.chm17360165
 f1_keywords:
 - vis_sdr.chm17360165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IVBUndoUnit.UnitSize Property (Visio)
+# IVBUndoUnit.UnitSize property (Visio)
 
 Returns the size of the undo unit in memory, in bytes. Read-only.
 

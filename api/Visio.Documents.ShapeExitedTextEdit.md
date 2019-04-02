@@ -1,5 +1,5 @@
 ---
-title: Documents.ShapeExitedTextEdit Event (Visio)
+title: Documents.ShapeExitedTextEdit event (Visio)
 keywords: vis_sdr.chm10619385
 f1_keywords:
 - vis_sdr.chm10619385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.ShapeExitedTextEdit Event (Visio)
+# Documents.ShapeExitedTextEdit event (Visio)
 
 Occurs after a shape is no longer open for interactive text editing.
 

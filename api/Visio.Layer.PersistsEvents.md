@@ -1,5 +1,5 @@
 ---
-title: Layer.PersistsEvents Property (Visio)
+title: Layer.PersistsEvents property (Visio)
 keywords: vis_sdr.chm11814080
 f1_keywords:
 - vis_sdr.chm11814080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.PersistsEvents Property (Visio)
+# Layer.PersistsEvents property (Visio)
 
 Indicates whether an object is capable of containing persistent events in its  **EventList** collection. Read-only.
 

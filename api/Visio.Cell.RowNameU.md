@@ -1,5 +1,5 @@
 ---
-title: Cell.RowNameU Property (Visio)
+title: Cell.RowNameU property (Visio)
 keywords: vis_sdr.chm10151990
 f1_keywords:
 - vis_sdr.chm10151990
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.RowNameU Property (Visio)
+# Cell.RowNameU property (Visio)
 
 Gets or sets the universal name of the row that contains the  **Cell** object. Read/write.
 

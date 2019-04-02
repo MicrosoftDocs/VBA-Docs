@@ -1,5 +1,5 @@
 ---
-title: VisDefaultColors Enumeration (Visio)
+title: VisDefaultColors enumeration (Visio)
 keywords: vis_sdr.chm70040
 f1_keywords:
 - vis_sdr.chm70040
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDefaultColors Enumeration (Visio)
+# VisDefaultColors enumeration (Visio)
 
 Indices of colors in the default palette.
 

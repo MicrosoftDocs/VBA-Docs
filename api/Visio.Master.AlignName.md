@@ -1,5 +1,5 @@
 ---
-title: Master.AlignName Property (Visio)
+title: Master.AlignName property (Visio)
 keywords: vis_sdr.chm10713075
 f1_keywords:
 - vis_sdr.chm10713075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.AlignName Property (Visio)
+# Master.AlignName property (Visio)
 
 Gets or sets the position of a master name in a stencil window. Read/write.
 

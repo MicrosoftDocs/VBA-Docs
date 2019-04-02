@@ -1,5 +1,5 @@
 ---
-title: Application.SetShowTaskWarnings Method (Project)
+title: Application.SetShowTaskWarnings method (Project)
 keywords: vbapj.chm2176
 f1_keywords:
 - vbapj.chm2176
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetShowTaskWarnings Method (Project)
+# Application.SetShowTaskWarnings method (Project)
 
 Sets the global  **Show Warnings** option for tasks.
 

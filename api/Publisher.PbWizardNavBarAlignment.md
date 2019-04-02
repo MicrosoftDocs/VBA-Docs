@@ -1,5 +1,5 @@
 ---
-title: PbWizardNavBarAlignment Enumeration (Publisher)
+title: PbWizardNavBarAlignment enumeration (Publisher)
 keywords: vbapb10.chm65615
 f1_keywords:
 - vbapb10.chm65615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWizardNavBarAlignment Enumeration (Publisher)
+# PbWizardNavBarAlignment enumeration (Publisher)
 
 Represents the horizontal alignment of the buttons in a Web navigation bar set.
 

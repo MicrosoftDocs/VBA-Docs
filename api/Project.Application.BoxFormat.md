@@ -1,5 +1,5 @@
 ---
-title: Application.BoxFormat Method (Project)
+title: Application.BoxFormat method (Project)
 keywords: vbapj.chm2388
 f1_keywords:
 - vbapj.chm2388
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxFormat Method (Project)
+# Application.BoxFormat method (Project)
 
 Formats individual boxes in the Network Diagram view (PERT chart).
 

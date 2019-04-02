@@ -1,5 +1,5 @@
 ---
-title: Page.Delete Method (Visio)
+title: Page.Delete method (Visio)
 keywords: vis_sdr.chm10951185
 f1_keywords:
 - vis_sdr.chm10951185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Delete Method (Visio)
+# Page.Delete method (Visio)
 
 Deletes a  **Page** object. Can also renumber remaining pages.
 

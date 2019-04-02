@@ -1,5 +1,5 @@
 ---
-title: Resources.UniqueID Property (Project)
+title: Resources.UniqueID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resources.UniqueID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resources.UniqueID Property (Project)
+# Resources.UniqueID property (Project)
 
 Gets a  **[Resource](Project.Resource.md)** object from its containing collection. Read-only **Resource**.
 

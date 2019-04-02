@@ -1,5 +1,5 @@
 ---
-title: Project.HonorConstraints Property (Project)
+title: Project.HonorConstraints property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.HonorConstraints
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.HonorConstraints Property (Project)
+# Project.HonorConstraints property (Project)
 
  **True** if tasks honor their constraint dates. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Engagement.CommittedWork Property (Project)
+title: Engagement.CommittedWork property (Project)
 keywords: vbapj.chm131661
 f1_keywords:
 - vbapj.chm131661
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.CommittedWork Property (Project)
+# Engagement.CommittedWork property (Project)
 
 The CommittedWork property for the Engagement object. Introduced in Office 2016.
 
@@ -25,6 +25,6 @@ _expression_. `CommittedWork`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

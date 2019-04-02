@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforePublish Event (Project)
+title: Application.ProjectBeforePublish event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforePublish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforePublish Event (Project)
+# Application.ProjectBeforePublish event (Project)
 
 Occurs before a  **Publish** operation is placed on the server queue. The **ProjectBeforePublish** event can be cancelled. Project Professional only.
 

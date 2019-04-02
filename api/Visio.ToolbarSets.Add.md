@@ -1,5 +1,5 @@
 ---
-title: ToolbarSets.Add Method (Visio)
+title: ToolbarSets.Add method (Visio)
 keywords: vis_sdr.chm14016005
 f1_keywords:
 - vis_sdr.chm14016005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarSets.Add Method (Visio)
+# ToolbarSets.Add method (Visio)
 
 Adds a new object to a collection.
 

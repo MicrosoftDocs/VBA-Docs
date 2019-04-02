@@ -1,5 +1,5 @@
 ---
-title: PjAccountType Enumeration (Project)
+title: PjAccountType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAccountType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAccountType Enumeration (Project)
+# PjAccountType enumeration (Project)
 
 Contains constants that specify the Project Server account type.
 

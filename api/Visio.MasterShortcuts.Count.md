@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.Count Property (Visio)
+title: MasterShortcuts.Count property (Visio)
 keywords: vis_sdr.chm15913330
 f1_keywords:
 - vis_sdr.chm15913330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts.Count Property (Visio)
+# MasterShortcuts.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

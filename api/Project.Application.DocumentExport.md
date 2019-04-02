@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentExport Method (Project)
+title: Application.DocumentExport method (Project)
 keywords: vbapj.chm2173
 f1_keywords:
 - vbapj.chm2173
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentExport Method (Project)
+# Application.DocumentExport method (Project)
 
 Exports the active project as a document in PDF or XPS format.
 

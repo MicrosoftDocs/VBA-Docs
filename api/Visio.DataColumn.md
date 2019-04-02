@@ -1,5 +1,5 @@
 ---
-title: DataColumn Object (Visio)
+title: DataColumn object (Visio)
 keywords: vis_sdr.chm61020
 f1_keywords:
 - vis_sdr.chm61020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumn Object (Visio)
+# DataColumn object (Visio)
 
 Allows custom mapping of the properties of a column of a data recordset to Microsoft Visio ShapeSheet spreadsheet cells.
 

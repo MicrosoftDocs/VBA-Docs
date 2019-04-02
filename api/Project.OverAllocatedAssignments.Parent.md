@@ -1,5 +1,5 @@
 ---
-title: OverAllocatedAssignments.Parent Property (Project)
+title: OverAllocatedAssignments.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.OverAllocatedAssignments.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OverAllocatedAssignments.Parent Property (Project)
+# OverAllocatedAssignments.Parent property (Project)
 
 Gets the parent of the  **OverAllocatedAssignments** object. Read-only **Task**.
 

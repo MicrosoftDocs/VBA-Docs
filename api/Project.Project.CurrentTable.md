@@ -1,5 +1,5 @@
 ---
-title: Project.CurrentTable Property (Project)
+title: Project.CurrentTable property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.CurrentTable
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrentTable Property (Project)
+# Project.CurrentTable property (Project)
 
 Gets the name of the active table for a project. Read-only  **String**.
 

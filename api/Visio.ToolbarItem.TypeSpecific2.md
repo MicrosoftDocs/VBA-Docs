@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.TypeSpecific2 Property (Visio)
+title: ToolbarItem.TypeSpecific2 property (Visio)
 keywords: vis_sdr.chm13514605
 f1_keywords:
 - vis_sdr.chm13514605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.TypeSpecific2 Property (Visio)
+# ToolbarItem.TypeSpecific2 property (Visio)
 
 Gets or sets the type of a toolbar item. Read/write.
 

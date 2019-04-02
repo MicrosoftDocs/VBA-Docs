@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.OnKeystrokeMessageForAddon Event (Visio)
+title: DrawingControl.OnKeystrokeMessageForAddon event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.OnKeystrokeMessageForAddon
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.OnKeystrokeMessageForAddon Event (Visio)
+# DrawingControl.OnKeystrokeMessageForAddon event (Visio)
 
 Occurs when Microsoft Visio receives a keystroke message from Microsoft Windows that is targeted at an add-on window or child of an add-on window.
 

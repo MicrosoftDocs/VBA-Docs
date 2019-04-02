@@ -1,5 +1,5 @@
 ---
-title: OlColor Enumeration (Outlook)
+title: OlColor enumeration (Outlook)
 keywords: vbaol11.chm3130
 f1_keywords:
 - vbaol11.chm3130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlColor Enumeration (Outlook)
+# OlColor enumeration (Outlook)
 
 Constants that represent colors.
 

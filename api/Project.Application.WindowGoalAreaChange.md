@@ -1,5 +1,5 @@
 ---
-title: Application.WindowGoalAreaChange Event (Project)
+title: Application.WindowGoalAreaChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowGoalAreaChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowGoalAreaChange Event (Project)
+# Application.WindowGoalAreaChange event (Project)
 
 Occurs after a user clicks a different goal area in the Project Guide.
 

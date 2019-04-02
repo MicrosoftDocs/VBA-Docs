@@ -1,5 +1,5 @@
 ---
-title: Shape.NameID Property (Visio)
+title: Shape.NameID property (Visio)
 keywords: vis_sdr.chm11213935
 f1_keywords:
 - vis_sdr.chm11213935
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.NameID Property (Visio)
+# Shape.NameID property (Visio)
 
 Returns a unique name for a shape. Read-only.
 

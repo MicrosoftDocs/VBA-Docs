@@ -1,5 +1,5 @@
 ---
-title: Master.ImportIcon Method (Visio)
+title: Master.ImportIcon method (Visio)
 keywords: vis_sdr.chm10716360
 f1_keywords:
 - vis_sdr.chm10716360
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.ImportIcon Method (Visio)
+# Master.ImportIcon method (Visio)
 
 Imports the icon for a  **Master** object from a named file.
 

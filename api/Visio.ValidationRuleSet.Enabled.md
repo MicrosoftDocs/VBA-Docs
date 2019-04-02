@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSet.Enabled Property (Visio)
+title: ValidationRuleSet.Enabled property (Visio)
 keywords: vis_sdr.chm18213455
 f1_keywords:
 - vis_sdr.chm18213455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSet.Enabled Property (Visio)
+# ValidationRuleSet.Enabled property (Visio)
 
 Determines whether the rules in the specified validation rule set are checked when validation is triggered for the current document. Read/write.
 

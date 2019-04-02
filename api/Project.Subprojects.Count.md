@@ -1,5 +1,5 @@
 ---
-title: Subprojects.Count Property (Project)
+title: Subprojects.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Subprojects.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Subprojects.Count Property (Project)
+# Subprojects.Count property (Project)
 
 Gets the number of items in the  **Subprojects** collection. Read-only **Long**.
 

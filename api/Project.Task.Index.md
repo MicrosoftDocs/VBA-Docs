@@ -1,5 +1,5 @@
 ---
-title: Task.Index Property (Project)
+title: Task.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Index Property (Project)
+# Task.Index property (Project)
 
 Gets the index of a  **Task** object in the **Tasks** containing object. Read-only **Long**.
 

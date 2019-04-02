@@ -1,5 +1,5 @@
 ---
-title: Assignments Object (Project)
+title: Assignments object (Project)
 ms.prod: project-server
 ms.assetid: 83661095-030c-0488-5763-320b6de6f381
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Assignments Object (Project)
+# Assignments object (Project)
 
 Contains a collection of **[Assignment](Project.Assignment.md)** objects for a task or resource.
 

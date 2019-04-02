@@ -1,5 +1,5 @@
 ---
-title: Application.FileSaveAs Method (Project)
+title: Application.FileSaveAs method (Project)
 keywords: vbapj.chm107
 f1_keywords:
 - vbapj.chm107
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileSaveAs Method (Project)
+# Application.FileSaveAs method (Project)
 
 Saves the active project to a new file name or exports data to a file.
 

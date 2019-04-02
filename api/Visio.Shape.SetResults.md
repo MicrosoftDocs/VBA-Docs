@@ -1,5 +1,5 @@
 ---
-title: Shape.SetResults Method (Visio)
+title: Shape.SetResults method (Visio)
 keywords: vis_sdr.chm11216580
 f1_keywords:
 - vis_sdr.chm11216580
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SetResults Method (Visio)
+# Shape.SetResults method (Visio)
 
 Sets the results or formulas of one or more cells.
 

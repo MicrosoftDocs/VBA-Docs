@@ -1,5 +1,5 @@
 ---
-title: Assignment.ResourceID Property (Project)
+title: Assignment.ResourceID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ResourceID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ResourceID Property (Project)
+# Assignment.ResourceID property (Project)
 
 Gets or sets the identification number of the resource for the assignment. Read/write  **Long**.
 

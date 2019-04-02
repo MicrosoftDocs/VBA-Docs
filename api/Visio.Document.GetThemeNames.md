@@ -1,5 +1,5 @@
 ---
-title: Document.GetThemeNames Method (Visio)
+title: Document.GetThemeNames method (Visio)
 keywords: vis_sdr.chm10560075
 f1_keywords:
 - vis_sdr.chm10560075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.GetThemeNames Method (Visio)
+# Document.GetThemeNames method (Visio)
 
 Returns a locale-specific array of names of themes contained in the document.
 

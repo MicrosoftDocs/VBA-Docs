@@ -1,5 +1,5 @@
 ---
-title: Task.Number10 Property (Project)
+title: Task.Number10 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Number10
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Number10 Property (Project)
+# Task.Number10 property (Project)
 
 Gets or sets a Number local custom field for a task. Read/write  **Double**.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.CurrencyCode Property (Project)
+title: Project.CurrencyCode property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.CurrencyCode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrencyCode Property (Project)
+# Project.CurrencyCode property (Project)
 
 Project property for the three-character ISO standard currency code of the project. Read/write  **String**.
 

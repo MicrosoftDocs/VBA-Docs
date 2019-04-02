@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline5FixedCostAccrual Property (Project)
+title: Task.Baseline5FixedCostAccrual property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline5FixedCostAccrual
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline5FixedCostAccrual Property (Project)
+# Task.Baseline5FixedCostAccrual property (Project)
 
 Gets or sets when the  **Task** baseline5 accrues fixed costs. Read/write **Long**. Can be one of the **[PjAccrueAt](Project.PjAccrueAt.md)** constants.
 

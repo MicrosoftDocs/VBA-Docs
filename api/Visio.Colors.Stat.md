@@ -1,5 +1,5 @@
 ---
-title: Colors.Stat Property (Visio)
+title: Colors.Stat property (Visio)
 keywords: vis_sdr.chm12314420
 f1_keywords:
 - vis_sdr.chm12314420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Colors.Stat Property (Visio)
+# Colors.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

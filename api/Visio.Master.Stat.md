@@ -1,5 +1,5 @@
 ---
-title: Master.Stat Property (Visio)
+title: Master.Stat property (Visio)
 keywords: vis_sdr.chm10714420
 f1_keywords:
 - vis_sdr.chm10714420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Stat Property (Visio)
+# Master.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

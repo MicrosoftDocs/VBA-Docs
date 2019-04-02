@@ -1,5 +1,5 @@
 ---
-title: VisRibbonXModes Enumeration (Visio)
+title: VisRibbonXModes enumeration (Visio)
 keywords: vis_sdr.chm70570
 f1_keywords:
 - vis_sdr.chm70570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRibbonXModes Enumeration (Visio)
+# VisRibbonXModes enumeration (Visio)
 
 Specifies constants that identify the various modes in which to display the custom UI; constant passed to the  **RegisterRibbonX** method.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.AutomationSecurity Property (Project)
+title: Application.AutomationSecurity property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.AutomationSecurity
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AutomationSecurity Property (Project)
+# Application.AutomationSecurity property (Project)
 
 Gets or sets a value that represents the security mode that Project uses when programmatically opening files. Read/write  **MsoAutomationSecurity**.
 

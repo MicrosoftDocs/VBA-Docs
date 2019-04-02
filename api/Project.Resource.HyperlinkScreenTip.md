@@ -1,5 +1,5 @@
 ---
-title: Resource.HyperlinkScreenTip Property (Project)
+title: Resource.HyperlinkScreenTip property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.HyperlinkScreenTip
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.HyperlinkScreenTip Property (Project)
+# Resource.HyperlinkScreenTip property (Project)
 
 Gets or sets a ScreenTip for the hyperlink. Read/write  **String**.
 

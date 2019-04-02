@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeAssignmentDelete Event (Project)
+title: Application.ProjectBeforeAssignmentDelete event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeAssignmentDelete Event (Project)
+# Application.ProjectBeforeAssignmentDelete event (Project)
 
 Occurs before an assignment is removed or replaced.
 

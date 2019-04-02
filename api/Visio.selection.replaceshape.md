@@ -1,5 +1,5 @@
 ---
-title: Selection.ReplaceShape Method (Visio)
+title: Selection.ReplaceShape method (Visio)
 ms.prod: visio
 ms.assetid: dc278901-77ce-e1fe-c44f-f464bbb1c360
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.ReplaceShape Method (Visio)
+# Selection.ReplaceShape method (Visio)
 
 Replaces the specified selection with one or more instances of the master passed as the first parameter, and returns an array containing the new shape or shapes.
 

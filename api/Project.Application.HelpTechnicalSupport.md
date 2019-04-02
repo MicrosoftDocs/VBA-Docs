@@ -1,5 +1,5 @@
 ---
-title: Application.HelpTechnicalSupport Method (Project)
+title: Application.HelpTechnicalSupport method (Project)
 keywords: vbapj.chm812
 f1_keywords:
 - vbapj.chm812
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.HelpTechnicalSupport Method (Project)
+# Application.HelpTechnicalSupport method (Project)
 
 Displays the **Project Help** window, with the **Help** Toolbar, **Assistance**, **Connection Status**, and **See Also** panes visible.
 

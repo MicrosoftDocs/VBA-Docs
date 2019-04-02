@@ -1,5 +1,5 @@
 ---
-title: Window.Index Property (Project)
+title: Window.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Index Property (Project)
+# Window.Index property (Project)
 
 Gets the index of a  **Window** object in the containing object. Read-only **Long**.
 

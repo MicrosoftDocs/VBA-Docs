@@ -1,5 +1,5 @@
 ---
-title: Shapes Object (Visio)
+title: Shapes object (Visio)
 keywords: vis_sdr.chm10230
 f1_keywords:
 - vis_sdr.chm10230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes Object (Visio)
+# Shapes object (Visio)
 
 Includes a  **Shape** object for each basic shape, group, guide, or object from another application (linked or embedded in Microsoft Visio) on a drawing page, master, or group.
 

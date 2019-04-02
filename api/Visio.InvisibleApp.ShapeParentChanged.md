@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShapeParentChanged Event (Visio)
+title: InvisibleApp.ShapeParentChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeParentChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShapeParentChanged Event (Visio)
+# InvisibleApp.ShapeParentChanged event (Visio)
 
 Occurs after shapes are grouped or a group is ungrouped.
 

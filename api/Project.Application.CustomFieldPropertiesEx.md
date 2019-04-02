@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldPropertiesEx Method (Project)
+title: Application.CustomFieldPropertiesEx method (Project)
 keywords: vbapj.chm35
 f1_keywords:
 - vbapj.chm35
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldPropertiesEx Method (Project)
+# Application.CustomFieldPropertiesEx method (Project)
 
 Sets attributes associated with a custom field.
 

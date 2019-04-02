@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultIUForce Property (Visio)
+title: Cell.ResultIUForce property (Visio)
 keywords: vis_sdr.chm10114225
 f1_keywords:
 - vis_sdr.chm10114225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.ResultIUForce Property (Visio)
+# Cell.ResultIUForce property (Visio)
 
 Sets a cell's value in internal units, even if the cell's formula is protected with the GUARD function. Read/write.
 

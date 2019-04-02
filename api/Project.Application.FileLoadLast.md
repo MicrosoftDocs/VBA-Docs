@@ -1,5 +1,5 @@
 ---
-title: Application.FileLoadLast Method (Project)
+title: Application.FileLoadLast method (Project)
 keywords: vbapj.chm117
 f1_keywords:
 - vbapj.chm117
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileLoadLast Method (Project)
+# Application.FileLoadLast method (Project)
 
 Opens one of the recently used files.
 

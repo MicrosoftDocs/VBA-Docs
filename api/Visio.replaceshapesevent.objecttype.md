@@ -1,5 +1,5 @@
 ---
-title: ReplaceShapesEvent.ObjectType Property (Visio)
+title: ReplaceShapesEvent.ObjectType property (Visio)
 ms.prod: visio
 ms.assetid: bcc442f0-aa4e-cd5a-d116-f3fb74459927
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ReplaceShapesEvent.ObjectType Property (Visio)
+# ReplaceShapesEvent.ObjectType property (Visio)
 
 Returns  **visObjTypeReplaceShapesEvent**, the type of the specified  **ReplaceShapesEvent** object. Read-only.
 

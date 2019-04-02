@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.EnableAutoConnect Property (Visio)
+title: ApplicationSettings.EnableAutoConnect property (Visio)
 keywords: vis_sdr.chm16260015
 f1_keywords:
 - vis_sdr.chm16260015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.EnableAutoConnect Property (Visio)
+# ApplicationSettings.EnableAutoConnect property (Visio)
 
 Determines whether the  **AutoConnect** feature is enabled in the Microsoft Visio user interface (UI). Read/write.
 

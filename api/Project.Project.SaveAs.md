@@ -1,5 +1,5 @@
 ---
-title: Project.SaveAs Method (Project)
+title: Project.SaveAs method (Project)
 keywords: vbapj.chm132597
 f1_keywords:
 - vbapj.chm132597
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.SaveAs Method (Project)
+# Project.SaveAs method (Project)
 
 Saves a file that is not the active project under a new file name.
 

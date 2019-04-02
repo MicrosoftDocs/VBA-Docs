@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CommandLine Property (Visio)
+title: InvisibleApp.CommandLine property (Visio)
 keywords: vis_sdr.chm17513280
 f1_keywords:
 - vis_sdr.chm17513280
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CommandLine Property (Visio)
+# InvisibleApp.CommandLine property (Visio)
 
 Determines how Microsoft Visio was started. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: VisFlipDirection Enumeration (Visio)
+title: VisFlipDirection enumeration (Visio)
 keywords: vis_sdr.chm70400
 f1_keywords:
 - vis_sdr.chm70400
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisFlipDirection Enumeration (Visio)
+# VisFlipDirection enumeration (Visio)
 
 Direction constants to pass to the  **Selection.Flip** method.
 

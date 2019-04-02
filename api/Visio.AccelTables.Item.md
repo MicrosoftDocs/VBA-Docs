@@ -1,5 +1,5 @@
 ---
-title: AccelTables.Item Property (Visio)
+title: AccelTables.Item property (Visio)
 keywords: vis_sdr.chm14813765
 f1_keywords:
 - vis_sdr.chm14813765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelTables.Item Property (Visio)
+# AccelTables.Item property (Visio)
 
 Returns an object from a collection. The  **Item** property is the default property for all collections. Read-only.
 

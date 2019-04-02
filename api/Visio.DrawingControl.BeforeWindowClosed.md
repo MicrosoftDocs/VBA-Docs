@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforeWindowClosed Event (Visio)
+title: DrawingControl.BeforeWindowClosed event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeWindowClosed
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeWindowClosed Event (Visio)
+# DrawingControl.BeforeWindowClosed event (Visio)
 
 Occurs before a window is closed.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.BoxFormatEx Method (Project)
+title: Application.BoxFormatEx method (Project)
 keywords: vbapj.chm2155
 f1_keywords:
 - vbapj.chm2155
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxFormatEx Method (Project)
+# Application.BoxFormatEx method (Project)
 
 Formats individual boxes in the Network Diagram view (PERT chart), where colors can be specified with hexadecimal values.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.StartWeekOn Property (Project)
+title: Project.StartWeekOn property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.StartWeekOn
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.StartWeekOn Property (Project)
+# Project.StartWeekOn property (Project)
 
 Gets or sets the first day of the week for the project. Read/write  **PjWeekday**.
 

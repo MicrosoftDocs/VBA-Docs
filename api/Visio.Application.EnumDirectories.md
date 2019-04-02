@@ -1,5 +1,5 @@
 ---
-title: Application.EnumDirectories Method (Visio)
+title: Application.EnumDirectories method (Visio)
 keywords: vis_sdr.chm10016255
 f1_keywords:
 - vis_sdr.chm10016255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EnumDirectories Method (Visio)
+# Application.EnumDirectories method (Visio)
 
 Returns an array naming the folders Microsoft Visio would search, given a list of paths.
 

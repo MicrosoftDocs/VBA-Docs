@@ -1,5 +1,5 @@
 ---
-title: Application.CreateProjectSite Method (Project)
+title: Application.CreateProjectSite method (Project)
 keywords: vbapj.chm142
 f1_keywords:
 - vbapj.chm142
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CreateProjectSite Method (Project)
+# Application.CreateProjectSite method (Project)
 Creates a site for the active project in a Project Web App instance on SharePoint Server 2013.
 
 ## Syntax

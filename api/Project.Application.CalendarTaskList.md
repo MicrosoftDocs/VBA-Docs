@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarTaskList Method (Project)
+title: Application.CalendarTaskList method (Project)
 keywords: vbapj.chm2354
 f1_keywords:
 - vbapj.chm2354
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarTaskList Method (Project)
+# Application.CalendarTaskList method (Project)
 
 Displays the list of tasks for a specific date.
 

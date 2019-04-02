@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.Application Property (Project)
+title: GroupCriterion2.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.Application Property (Project)
+# GroupCriterion2.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

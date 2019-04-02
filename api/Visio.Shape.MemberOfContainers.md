@@ -1,5 +1,5 @@
 ---
-title: Shape.MemberOfContainers Property (Visio)
+title: Shape.MemberOfContainers property (Visio)
 keywords: vis_sdr.chm11262465
 f1_keywords:
 - vis_sdr.chm11262465
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.MemberOfContainers Property (Visio)
+# Shape.MemberOfContainers property (Visio)
 
 Returns an array of  **Long** values that represent the identifiers of the container shapes that include the shape as a member. Read-only.
 

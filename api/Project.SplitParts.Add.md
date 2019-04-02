@@ -1,5 +1,5 @@
 ---
-title: SplitParts.Add Method (Project)
+title: SplitParts.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitParts.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitParts.Add Method (Project)
+# SplitParts.Add method (Project)
 
 Adds a  **SplitPart** object to a **SplitParts** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsInterfaceEx Method (Project)
+title: Application.OptionsInterfaceEx method (Project)
 keywords: vbapj.chm651
 f1_keywords:
 - vbapj.chm651
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsInterfaceEx Method (Project)
+# Application.OptionsInterfaceEx method (Project)
 
 Sets some display options and Project Guide options.
 

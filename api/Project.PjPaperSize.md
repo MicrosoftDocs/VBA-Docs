@@ -1,5 +1,5 @@
 ---
-title: PjPaperSize Enumeration (Project)
+title: PjPaperSize enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPaperSize
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjPaperSize Enumeration (Project)
+# PjPaperSize enumeration (Project)
 
 Contains constants that specify the paper size.
 

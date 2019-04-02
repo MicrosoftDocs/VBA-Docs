@@ -1,5 +1,5 @@
 ---
-title: PbUnitType Enumeration (Publisher)
+title: PbUnitType enumeration (Publisher)
 keywords: vbapb10.chm65543
 f1_keywords:
 - vbapb10.chm65543
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbUnitType Enumeration (Publisher)
+# PbUnitType enumeration (Publisher)
 
 Represents the standard measurement unit for Microsoft Publisher. 
 

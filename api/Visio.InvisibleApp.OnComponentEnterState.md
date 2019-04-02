@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.OnComponentEnterState Method (Visio)
+title: InvisibleApp.OnComponentEnterState method (Visio)
 keywords: vis_sdr.chm17552045
 f1_keywords:
 - vis_sdr.chm17552045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.OnComponentEnterState Method (Visio)
+# InvisibleApp.OnComponentEnterState method (Visio)
 
 Informs a Microsoft Visio instance that client code is causing the instance to enter or exit a particular state.
 

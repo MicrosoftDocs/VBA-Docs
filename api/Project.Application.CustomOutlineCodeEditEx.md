@@ -1,5 +1,5 @@
 ---
-title: Application.CustomOutlineCodeEditEx Method (Project)
+title: Application.CustomOutlineCodeEditEx method (Project)
 keywords: vbapj.chm631
 f1_keywords:
 - vbapj.chm631
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomOutlineCodeEditEx Method (Project)
+# Application.CustomOutlineCodeEditEx method (Project)
 
 Edits a local outline code custom field definition.
 

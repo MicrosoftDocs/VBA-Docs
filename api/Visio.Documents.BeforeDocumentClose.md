@@ -1,5 +1,5 @@
 ---
-title: Documents.BeforeDocumentClose Event (Visio)
+title: Documents.BeforeDocumentClose event (Visio)
 keywords: vis_sdr.chm10619025
 f1_keywords:
 - vis_sdr.chm10619025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.BeforeDocumentClose Event (Visio)
+# Documents.BeforeDocumentClose event (Visio)
 
 Occurs before a document is closed.
 

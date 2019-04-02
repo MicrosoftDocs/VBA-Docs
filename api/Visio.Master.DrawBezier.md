@@ -1,5 +1,5 @@
 ---
-title: Master.DrawBezier Method (Visio)
+title: Master.DrawBezier method (Visio)
 keywords: vis_sdr.chm10716195
 f1_keywords:
 - vis_sdr.chm10716195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawBezier Method (Visio)
+# Master.DrawBezier method (Visio)
 
 Creates a shape whose path is defined by the supplied sequence of Bezier control points.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages.ShapeLinkDeleted Event (Visio)
+title: Pages.ShapeLinkDeleted event (Visio)
 keywords: vis_sdr.chm11062020
 f1_keywords:
 - vis_sdr.chm11062020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.ShapeLinkDeleted Event (Visio)
+# Pages.ShapeLinkDeleted event (Visio)
 
 Occurs after the link between a shape and a data row is deleted.
 

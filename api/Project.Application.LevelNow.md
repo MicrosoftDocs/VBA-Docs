@@ -1,5 +1,5 @@
 ---
-title: Application.LevelNow Method (Project)
+title: Application.LevelNow method (Project)
 keywords: vbapj.chm609
 f1_keywords:
 - vbapj.chm609
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelNow Method (Project)
+# Application.LevelNow method (Project)
 
 Levels overallocated resources.
 

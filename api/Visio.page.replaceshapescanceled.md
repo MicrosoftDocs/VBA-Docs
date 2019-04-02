@@ -1,5 +1,5 @@
 ---
-title: Page.ReplaceShapesCanceled Event (Visio)
+title: Page.ReplaceShapesCanceled event (Visio)
 ms.prod: visio
 ms.assetid: 867b1fc1-96bd-cbeb-fd61-b02a96e039ca
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Page.ReplaceShapesCanceled Event (Visio)
+# Page.ReplaceShapesCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelReplaceShapes** event.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.Icon Property (Visio)
+title: Master.Icon property (Visio)
 keywords: vis_sdr.chm10750665
 f1_keywords:
 - vis_sdr.chm10750665
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Icon Property (Visio)
+# Master.Icon property (Visio)
 
 Returns the icon contained in a master. Read/write.
 

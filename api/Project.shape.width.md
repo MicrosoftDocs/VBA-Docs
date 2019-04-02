@@ -1,5 +1,5 @@
 ---
-title: Shape.Width Property (Project)
+title: Shape.Width property (Project)
 ms.prod: project-server
 ms.assetid: ddf3de99-8667-3d12-10dc-5d355542ae3e
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Width Property (Project)
+# Shape.Width property (Project)
 Gets or sets the width, in points, of the shape. Read/write  **Long**.
 
 ## Syntax

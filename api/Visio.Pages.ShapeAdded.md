@@ -1,5 +1,5 @@
 ---
-title: Pages.ShapeAdded Event (Visio)
+title: Pages.ShapeAdded event (Visio)
 keywords: vis_sdr.chm11019225
 f1_keywords:
 - vis_sdr.chm11019225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.ShapeAdded Event (Visio)
+# Pages.ShapeAdded event (Visio)
 
 Occurs after one or more shapes are added to a document.
 

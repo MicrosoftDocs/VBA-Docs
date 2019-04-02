@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.DrawingAids Property (Visio)
+title: ApplicationSettings.DrawingAids property (Visio)
 keywords: vis_sdr.chm16251815
 f1_keywords:
 - vis_sdr.chm16251815
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.DrawingAids Property (Visio)
+# ApplicationSettings.DrawingAids property (Visio)
 
 Determines whether drawing aids are currently active in Microsoft Visio. Read/write.
 

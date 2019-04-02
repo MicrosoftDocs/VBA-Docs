@@ -1,5 +1,5 @@
 ---
-title: Application.BarBoxStyles Method (Project)
+title: Application.BarBoxStyles method (Project)
 keywords: vbapj.chm904
 f1_keywords:
 - vbapj.chm904
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BarBoxStyles Method (Project)
+# Application.BarBoxStyles method (Project)
 
 Displays the  **Bar Styles**, **Box Styles**, or **Detail Styles** dialog box, which prompts the user to specify bar styles (in the Gantt Chart, Resource Graph, and Calendar views), box styles (in the Network Diagram view), or detail styles (in the Task Usage and Resource Usage views), respectively.
 

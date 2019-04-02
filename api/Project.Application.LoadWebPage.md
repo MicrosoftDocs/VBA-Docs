@@ -1,5 +1,5 @@
 ---
-title: Application.LoadWebPage Event (Project)
+title: Application.LoadWebPage event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.LoadWebPage
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LoadWebPage Event (Project)
+# Application.LoadWebPage event (Project)
 
 Occurs after the  **LoadWebBrowserControl** method is called. The method loads the Web browser control inside Project, and then the event is fired.
 

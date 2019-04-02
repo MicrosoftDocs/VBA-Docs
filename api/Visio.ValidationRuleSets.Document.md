@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSets.Document Property (Visio)
+title: ValidationRuleSets.Document property (Visio)
 keywords: vis_sdr.chm18113430
 f1_keywords:
 - vis_sdr.chm18113430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSets.Document Property (Visio)
+# ValidationRuleSets.Document property (Visio)
 
 Returns the  **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
 

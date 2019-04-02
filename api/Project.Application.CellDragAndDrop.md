@@ -1,5 +1,5 @@
 ---
-title: Application.CellDragAndDrop Property (Project)
+title: Application.CellDragAndDrop property (Project)
 keywords: vbapj.chm131603
 f1_keywords:
 - vbapj.chm131603
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CellDragAndDrop Property (Project)
+# Application.CellDragAndDrop property (Project)
 
  **True** if you can move and copy cells by dragging them. **False** if you can move and copy cells only by cutting or copying and then pasting them. Read/write **Boolean**.
 

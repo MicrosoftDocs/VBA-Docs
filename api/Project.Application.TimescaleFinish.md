@@ -1,5 +1,5 @@
 ---
-title: Application.TimescaleFinish Property (Project)
+title: Application.TimescaleFinish property (Project)
 keywords: vbapj.chm132757
 f1_keywords:
 - vbapj.chm132757
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimescaleFinish Property (Project)
+# Application.TimescaleFinish property (Project)
 
 Gets the date and time that the timescale in the current view ends. Read-only  **Variant**.
 

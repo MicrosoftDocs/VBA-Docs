@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.SaveAsWebObject Property (Visio)
+title: InvisibleApp.SaveAsWebObject property (Visio)
 keywords: vis_sdr.chm17551660
 f1_keywords:
 - vis_sdr.chm17551660
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.SaveAsWebObject Property (Visio)
+# InvisibleApp.SaveAsWebObject property (Visio)
 
 Returns a reference to the  **IDispatch** interface of a **VisSaveAsWeb** object. Read-only.
 

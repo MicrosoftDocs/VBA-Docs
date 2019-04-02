@@ -1,5 +1,5 @@
 ---
-title: Application.ColumnInsert Method (Project)
+title: Application.ColumnInsert method (Project)
 keywords: vbapj.chm228
 f1_keywords:
 - vbapj.chm228
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ColumnInsert Method (Project)
+# Application.ColumnInsert method (Project)
 
 Inserts a column to the left of the active column, and then displays the  **Field Settings** dialog box.
 

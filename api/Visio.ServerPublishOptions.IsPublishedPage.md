@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.IsPublishedPage Property (Visio)
+title: ServerPublishOptions.IsPublishedPage property (Visio)
 keywords: vis_sdr.chm17962635
 f1_keywords:
 - vis_sdr.chm17962635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.IsPublishedPage Property (Visio)
+# ServerPublishOptions.IsPublishedPage property (Visio)
 
 Returns  **True** if the specified page is designated to be included when the document is published as a .vdw file. Read-only.
 

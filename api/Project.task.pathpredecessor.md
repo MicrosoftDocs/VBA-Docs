@@ -1,5 +1,5 @@
 ---
-title: Task.PathPredecessor Property (Project)
+title: Task.PathPredecessor property (Project)
 keywords: vbapj.chm132490
 f1_keywords:
 - vbapj.chm132490
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Task.PathPredecessor Property (Project)
+# Task.PathPredecessor property (Project)
 Gets a value that indicates whether the task is a predecessor of the selected task, when the  **Predecessors** item is selected in the **Task Path** drop-down list. Read-only **Boolean**.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.UserName Property (Visio)
+title: InvisibleApp.UserName property (Visio)
 keywords: vis_sdr.chm17514625
 f1_keywords:
 - vis_sdr.chm17514625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.UserName Property (Visio)
+# InvisibleApp.UserName property (Visio)
 
 Gets or sets the user name of an  **Application** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PpSlideSizeType Enumeration (PowerPoint)
+title: PpSlideSizeType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideSizeType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpSlideSizeType Enumeration (PowerPoint)
+# PpSlideSizeType enumeration (PowerPoint)
 
 Constants that specify the size type for the slide, passed to and returned by the  **SlideSize** property of the **PageSetup** object.
 

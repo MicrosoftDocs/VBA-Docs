@@ -1,5 +1,5 @@
 ---
-title: Cell.FormulaForce Property (Visio)
+title: Cell.FormulaForce property (Visio)
 keywords: vis_sdr.chm10113565
 f1_keywords:
 - vis_sdr.chm10113565
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.FormulaForce Property (Visio)
+# Cell.FormulaForce property (Visio)
 
 Sets the formula in a  **Cell** object, even if the formula is protected with a GUARD function. Read/write.
 

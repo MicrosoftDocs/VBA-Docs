@@ -1,5 +1,5 @@
 ---
-title: Application.GanttShowDrawings Method (Project)
+title: Application.GanttShowDrawings method (Project)
 keywords: vbapj.chm2079
 f1_keywords:
 - vbapj.chm2079
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttShowDrawings Method (Project)
+# Application.GanttShowDrawings method (Project)
 
 Shows or hides drawings on the Gantt Chart.
 

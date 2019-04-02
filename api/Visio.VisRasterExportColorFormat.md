@@ -1,5 +1,5 @@
 ---
-title: VisRasterExportColorFormat Enumeration (Visio)
+title: VisRasterExportColorFormat enumeration (Visio)
 keywords: vis_sdr.chm70730
 f1_keywords:
 - vis_sdr.chm70730
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRasterExportColorFormat Enumeration (Visio)
+# VisRasterExportColorFormat enumeration (Visio)
 
 
 

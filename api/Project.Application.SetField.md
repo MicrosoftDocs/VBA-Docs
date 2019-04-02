@@ -1,5 +1,5 @@
 ---
-title: Application.SetField Method (Project)
+title: Application.SetField method (Project)
 keywords: vbapj.chm3
 f1_keywords:
 - vbapj.chm3
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetField Method (Project)
+# Application.SetField method (Project)
 
 Sets the value of a local custom field or enterprise custom field for the selected tasks or resources.
 

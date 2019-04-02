@@ -1,5 +1,5 @@
 ---
-title: Document.BeforeDocumentSave Event (Visio)
+title: Document.BeforeDocumentSave event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Document.BeforeDocumentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Document.BeforeDocumentSave Event (Visio)
+# Document.BeforeDocumentSave event (Visio)
 
 Occurs before a document is saved.
 

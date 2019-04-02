@@ -1,5 +1,5 @@
 ---
-title: Document.BeforeClose Event (Publisher)
+title: Document.BeforeClose event (Publisher)
 keywords: vbapb10.chm285212674
 f1_keywords:
 - vbapb10.chm285212674
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.BeforeClose Event (Publisher)
+# Document.BeforeClose event (Publisher)
 
 Occurs immediately before any open document closes.
 

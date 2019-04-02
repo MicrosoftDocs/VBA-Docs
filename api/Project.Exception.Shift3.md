@@ -1,5 +1,5 @@
 ---
-title: Exception.Shift3 Property (Project)
+title: Exception.Shift3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Shift3
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.Shift3 Property (Project)
+# Exception.Shift3 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the third work shift in a calendar exception for a day, month, period, weekday, or throughout a year. Read-only **Shift**.
 

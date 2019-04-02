@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeShapeDelete Event (Visio)
+title: Application.BeforeShapeDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeShapeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeShapeDelete Event (Visio)
+# Application.BeforeShapeDelete event (Visio)
 
 Occurs before a shape is deleted.
 

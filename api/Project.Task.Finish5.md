@@ -1,5 +1,5 @@
 ---
-title: Task.Finish5 Property (Project)
+title: Task.Finish5 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Finish5
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Finish5 Property (Project)
+# Task.Finish5 property (Project)
 
 Gets or sets the local Finish custom field of the task. Read/write  **Variant**.
 

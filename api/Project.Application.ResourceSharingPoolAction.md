@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceSharingPoolAction Method (Project)
+title: Application.ResourceSharingPoolAction method (Project)
 keywords: vbapj.chm2083
 f1_keywords:
 - vbapj.chm2083
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceSharingPoolAction Method (Project)
+# Application.ResourceSharingPoolAction method (Project)
 
 Performs the specified action on a local resource pool.
 

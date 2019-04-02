@@ -1,5 +1,5 @@
 ---
-title: Chart.Legend Property (Project)
+title: Chart.Legend property (Project)
 keywords: vbapj.chm131629
 f1_keywords:
 - vbapj.chm131629
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Legend Property (Project)
+# Chart.Legend property (Project)
 Gets an  **Office.IMsoLegend** object that represents the legend for a chart. Read-only **IMsoLegend**.
 
 ## Syntax

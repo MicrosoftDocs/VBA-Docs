@@ -1,5 +1,5 @@
 ---
-title: Document.FooterRight Property (Visio)
+title: Document.FooterRight property (Visio)
 keywords: vis_sdr.chm10550595
 f1_keywords:
 - vis_sdr.chm10550595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.FooterRight Property (Visio)
+# Document.FooterRight property (Visio)
 
 Gets or sets the text string that appears in the right portion of a document's footer. Read/write.
 

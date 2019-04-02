@@ -1,5 +1,5 @@
 ---
-title: Engagement.Comments Property (Project)
+title: Engagement.Comments property (Project)
 keywords: vbapj.chm131657
 f1_keywords:
 - vbapj.chm131657
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.Comments Property (Project)
+# Engagement.Comments property (Project)
 
 The Comments property for the Engagement object. Introduced in Office 2016.
 
@@ -25,6 +25,6 @@ _expression_. `Comments`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

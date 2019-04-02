@@ -1,5 +1,5 @@
 ---
-title: OlPictureAlignment Enumeration (Outlook)
+title: OlPictureAlignment enumeration (Outlook)
 keywords: vbaol11.chm1000499
 f1_keywords:
 - vbaol11.chm1000499
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlPictureAlignment Enumeration (Outlook)
+# OlPictureAlignment enumeration (Outlook)
 
 Specifies how an image is aligned with respect to text on a button.
 

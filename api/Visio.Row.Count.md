@@ -1,5 +1,5 @@
 ---
-title: Row.Count Property (Visio)
+title: Row.Count property (Visio)
 keywords: vis_sdr.chm15813330
 f1_keywords:
 - vis_sdr.chm15813330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Count Property (Visio)
+# Row.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

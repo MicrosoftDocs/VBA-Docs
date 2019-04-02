@@ -1,5 +1,5 @@
 ---
-title: VisWindowStates Enumeration (Visio)
+title: VisWindowStates enumeration (Visio)
 keywords: vis_sdr.chm70255
 f1_keywords:
 - vis_sdr.chm70255
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisWindowStates Enumeration (Visio)
+# VisWindowStates enumeration (Visio)
 
 Window-state codes passed to and returned by the  **Window.WindowState** property.
 

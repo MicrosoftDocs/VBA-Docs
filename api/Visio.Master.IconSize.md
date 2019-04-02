@@ -1,5 +1,5 @@
 ---
-title: Master.IconSize Property (Visio)
+title: Master.IconSize property (Visio)
 keywords: vis_sdr.chm10713665
 f1_keywords:
 - vis_sdr.chm10713665
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.IconSize Property (Visio)
+# Master.IconSize property (Visio)
 
 Gets or sets the size of a master icon. Read/write.
 

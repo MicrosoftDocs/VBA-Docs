@@ -1,5 +1,5 @@
 ---
-title: Application.FileCloseAllEx Method (Project)
+title: Application.FileCloseAllEx method (Project)
 keywords: vbapj.chm104
 f1_keywords:
 - vbapj.chm104
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileCloseAllEx Method (Project)
+# Application.FileCloseAllEx method (Project)
 
 Closes all projects.
 

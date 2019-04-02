@@ -1,5 +1,5 @@
 ---
-title: OlStoreType Enumeration (Outlook)
+title: OlStoreType enumeration (Outlook)
 keywords: vbaol11.chm3100
 f1_keywords:
 - vbaol11.chm3100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlStoreType Enumeration (Outlook)
+# OlStoreType enumeration (Outlook)
 
 Indicates the format in which the data file should be created.
 

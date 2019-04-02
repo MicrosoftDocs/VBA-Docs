@@ -1,5 +1,5 @@
 ---
-title: ActualStartDrivers.TotalDetectedCount Property (Project)
+title: ActualStartDrivers.TotalDetectedCount property (Project)
 ms.prod: project-server
 api_name:
 - Project.ActualStartDrivers.TotalDetectedCount
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ActualStartDrivers.TotalDetectedCount Property (Project)
+# ActualStartDrivers.TotalDetectedCount property (Project)
 
 Gets the total number of actual start drivers that affect the start date of a task. Read-only  **Long**.
 

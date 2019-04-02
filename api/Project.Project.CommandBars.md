@@ -1,5 +1,5 @@
 ---
-title: Project.CommandBars Property (Project)
+title: Project.CommandBars property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.CommandBars
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CommandBars Property (Project)
+# Project.CommandBars property (Project)
 
 Gets a  **CommandBars** collection that represents all the command bars in the project. Read-only **CommandBars**.
 

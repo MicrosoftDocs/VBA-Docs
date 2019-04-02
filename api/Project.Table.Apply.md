@@ -1,5 +1,5 @@
 ---
-title: Table.Apply Method (Project)
+title: Table.Apply method (Project)
 keywords: vbapj.chm132680
 f1_keywords:
 - vbapj.chm132680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Apply Method (Project)
+# Table.Apply method (Project)
 
 Applies the table to the current view.
 

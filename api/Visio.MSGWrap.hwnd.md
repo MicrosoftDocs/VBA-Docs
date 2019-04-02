@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.hwnd Property (Visio)
+title: MSGWrap.hwnd property (Visio)
 keywords: vis_sdr.chm16150660
 f1_keywords:
 - vis_sdr.chm16150660
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap.hwnd Property (Visio)
+# MSGWrap.hwnd property (Visio)
 
 Gets or sets the  **HWND** member of the **MSG** structure being wrapped. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WebStopLoading Method (Project)
+title: Application.WebStopLoading method (Project)
 keywords: vbapj.chm1302
 f1_keywords:
 - vbapj.chm1302
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WebStopLoading Method (Project)
+# Application.WebStopLoading method (Project)
 
 Stops loading the document.
 

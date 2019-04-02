@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.Delete Method (Visio)
+title: MasterShortcut.Delete method (Visio)
 keywords: vis_sdr.chm16016165
 f1_keywords:
 - vis_sdr.chm16016165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.Delete Method (Visio)
+# MasterShortcut.Delete method (Visio)
 
 Deletes an object.
 

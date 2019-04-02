@@ -1,5 +1,5 @@
 ---
-title: Selection.ContainingPageID Property (Visio)
+title: Selection.ContainingPageID property (Visio)
 keywords: vis_sdr.chm11151930
 f1_keywords:
 - vis_sdr.chm11151930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.ContainingPageID Property (Visio)
+# Selection.ContainingPageID property (Visio)
 
 Returns the ID of the page that contains an object. Read-only.
 

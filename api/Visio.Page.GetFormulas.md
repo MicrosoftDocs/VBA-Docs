@@ -1,5 +1,5 @@
 ---
-title: Page.GetFormulas Method (Visio)
+title: Page.GetFormulas method (Visio)
 keywords: vis_sdr.chm10916310
 f1_keywords:
 - vis_sdr.chm10916310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.GetFormulas Method (Visio)
+# Page.GetFormulas method (Visio)
 
 Returns the formulas of many cells.
 

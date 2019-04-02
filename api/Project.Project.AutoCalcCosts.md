@@ -1,5 +1,5 @@
 ---
-title: Project.AutoCalcCosts Property (Project)
+title: Project.AutoCalcCosts property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.AutoCalcCosts
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.AutoCalcCosts Property (Project)
+# Project.AutoCalcCosts property (Project)
 
  **True** if Project always calculates actual costs. **False** if users can enter actual costs, and Project does not calculate actual costs. Read/write **Boolean**.
 

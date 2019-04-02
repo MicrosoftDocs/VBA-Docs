@@ -1,5 +1,5 @@
 ---
-title: RelatedShapePairEvent.Document Property (Visio)
+title: RelatedShapePairEvent.Document property (Visio)
 keywords: vis_sdr.chm17713430
 f1_keywords:
 - vis_sdr.chm17713430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RelatedShapePairEvent.Document Property (Visio)
+# RelatedShapePairEvent.Document property (Visio)
 
 Gets the  **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
 

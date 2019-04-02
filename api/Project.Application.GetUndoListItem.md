@@ -1,5 +1,5 @@
 ---
-title: Application.GetUndoListItem Method (Project)
+title: Application.GetUndoListItem method (Project)
 keywords: vbapj.chm131097
 f1_keywords:
 - vbapj.chm131097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GetUndoListItem Method (Project)
+# Application.GetUndoListItem method (Project)
 
 Returns the label of the specified undo list item.
 

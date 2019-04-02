@@ -1,5 +1,5 @@
 ---
-title: Assignment.Duration4 Property (Project)
+title: Assignment.Duration4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Duration4
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Duration4 Property (Project)
+# Assignment.Duration4 property (Project)
 
  Gets or sets the value of an assignment duration custom field. Read/write **Variant**.
 

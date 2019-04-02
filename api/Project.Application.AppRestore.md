@@ -1,5 +1,5 @@
 ---
-title: Application.AppRestore Method (Project)
+title: Application.AppRestore method (Project)
 keywords: vbapj.chm2011
 f1_keywords:
 - vbapj.chm2011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AppRestore Method (Project)
+# Application.AppRestore method (Project)
 
 Restores the main window to its previous nonminimized or nonmaximized state.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.AddNewColumn Method (Project)
+title: Application.AddNewColumn method (Project)
 keywords: vbapj.chm710
 f1_keywords:
 - vbapj.chm710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AddNewColumn Method (Project)
+# Application.AddNewColumn method (Project)
 
 Adds a new column in a specified position, in views where columns can be added.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Reports Method (Project)
+title: Application.Reports method (Project)
 keywords: vbapj.chm2334
 f1_keywords:
 - vbapj.chm2334
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Reports Method (Project)
+# Application.Reports method (Project)
 
 The  **Reports** method is deprecated in Project.
 

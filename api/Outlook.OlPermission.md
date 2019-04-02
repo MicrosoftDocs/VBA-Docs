@@ -1,5 +1,5 @@
 ---
-title: OlPermission Enumeration (Outlook)
+title: OlPermission enumeration (Outlook)
 keywords: vbaol11.chm3101
 f1_keywords:
 - vbaol11.chm3101
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlPermission Enumeration (Outlook)
+# OlPermission enumeration (Outlook)
 
 Indicates the permission restrictions on an  **Item**.
 

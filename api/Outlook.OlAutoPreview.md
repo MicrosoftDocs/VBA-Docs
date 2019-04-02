@@ -1,5 +1,5 @@
 ---
-title: OlAutoPreview Enumeration (Outlook)
+title: OlAutoPreview enumeration (Outlook)
 keywords: vbaol11.chm3129
 f1_keywords:
 - vbaol11.chm3129
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAutoPreview Enumeration (Outlook)
+# OlAutoPreview enumeration (Outlook)
 
 Indicates how items will be automatically previewed.
 

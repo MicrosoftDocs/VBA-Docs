@@ -1,5 +1,5 @@
 ---
-title: Task.LinkSuccessors Method (Project)
+title: Task.LinkSuccessors method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.LinkSuccessors
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.LinkSuccessors Method (Project)
+# Task.LinkSuccessors method (Project)
 
 Adds one or more successors to the task.
 

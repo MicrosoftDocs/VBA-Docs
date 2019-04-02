@@ -1,5 +1,5 @@
 ---
-title: Style.ObjectType Property (Visio)
+title: Style.ObjectType property (Visio)
 keywords: vis_sdr.chm11413960
 f1_keywords:
 - vis_sdr.chm11413960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.ObjectType Property (Visio)
+# Style.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

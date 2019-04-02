@@ -1,5 +1,5 @@
 ---
-title: Project.ServerIdentification Property (Project)
+title: Project.ServerIdentification property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ServerIdentification
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ServerIdentification Property (Project)
+# Project.ServerIdentification property (Project)
 
 Gets or sets the way Project Professional users are identified to Project Server. Read/write  **PjAuthentication**.
 

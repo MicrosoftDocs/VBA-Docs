@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CurrentEdition Property (Visio)
+title: InvisibleApp.CurrentEdition property (Visio)
 keywords: vis_sdr.chm17562415
 f1_keywords:
 - vis_sdr.chm17562415
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CurrentEdition Property (Visio)
+# InvisibleApp.CurrentEdition property (Visio)
 
 Returns an enumerated value that represents the edition of the current instance of Microsoft Visio. Read-only.
 

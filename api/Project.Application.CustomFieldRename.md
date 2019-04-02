@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldRename Method (Project)
+title: Application.CustomFieldRename method (Project)
 keywords: vbapj.chm2378
 f1_keywords:
 - vbapj.chm2378
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldRename Method (Project)
+# Application.CustomFieldRename method (Project)
 
 Defines a friendly name for a custom field.
 

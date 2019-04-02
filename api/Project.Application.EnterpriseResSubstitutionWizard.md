@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseResSubstitutionWizard Method (Project)
+title: Application.EnterpriseResSubstitutionWizard method (Project)
 keywords: vbapj.chm2123
 f1_keywords:
 - vbapj.chm2123
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseResSubstitutionWizard Method (Project)
+# Application.EnterpriseResSubstitutionWizard method (Project)
 
 Runs the  **Resource Substitution Wizard**. Available in Project Professional only.
 

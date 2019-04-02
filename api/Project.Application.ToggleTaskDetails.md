@@ -1,5 +1,5 @@
 ---
-title: Application.ToggleTaskDetails Method (Project)
+title: Application.ToggleTaskDetails method (Project)
 keywords: vbapj.chm2298
 f1_keywords:
 - vbapj.chm2298
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ToggleTaskDetails Method (Project)
+# Application.ToggleTaskDetails method (Project)
 
 Shows or hides the  **Task Form** in the bottom pane of a split view.
 

@@ -1,5 +1,5 @@
 ---
-title: Page.DrawLine Method (Visio)
+title: Page.DrawLine method (Visio)
 keywords: vis_sdr.chm10916200
 f1_keywords:
 - vis_sdr.chm10916200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.DrawLine Method (Visio)
+# Page.DrawLine method (Visio)
 
 Adds a line to the  **Shapes** collection of a page.
 

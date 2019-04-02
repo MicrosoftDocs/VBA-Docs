@@ -1,5 +1,5 @@
 ---
-title: GroupCriteria.Count Property (Project)
+title: GroupCriteria.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriteria.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriteria.Count Property (Project)
+# GroupCriteria.Count property (Project)
 
 Gets the number of items in the  **GroupCriteria** collection. Read-only **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: XlChartPicturePlacement Enumeration (PowerPoint)
+title: XlChartPicturePlacement enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartPicturePlacement
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlChartPicturePlacement Enumeration (PowerPoint)
+# XlChartPicturePlacement enumeration (PowerPoint)
 
 Specifies the placement of a user-selected picture on a bar in a 3-D bar or column.
 

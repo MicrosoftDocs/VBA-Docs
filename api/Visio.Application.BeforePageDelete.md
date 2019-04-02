@@ -1,5 +1,5 @@
 ---
-title: Application.BeforePageDelete Event (Visio)
+title: Application.BeforePageDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforePageDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforePageDelete Event (Visio)
+# Application.BeforePageDelete event (Visio)
 
 Occurs before a page is deleted.
 

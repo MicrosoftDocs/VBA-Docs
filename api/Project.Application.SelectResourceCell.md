@@ -1,5 +1,5 @@
 ---
-title: Application.SelectResourceCell Method (Project)
+title: Application.SelectResourceCell method (Project)
 keywords: vbapj.chm2069
 f1_keywords:
 - vbapj.chm2069
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectResourceCell Method (Project)
+# Application.SelectResourceCell method (Project)
 
 Selects a cell containing resource information.
 

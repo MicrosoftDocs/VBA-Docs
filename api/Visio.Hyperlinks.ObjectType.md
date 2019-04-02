@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.ObjectType Property (Visio)
+title: Hyperlinks.ObjectType property (Visio)
 keywords: vis_sdr.chm15613960
 f1_keywords:
 - vis_sdr.chm15613960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.ObjectType Property (Visio)
+# Hyperlinks.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

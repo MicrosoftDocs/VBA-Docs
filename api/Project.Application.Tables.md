@@ -1,5 +1,5 @@
 ---
-title: Application.Tables Method (Project)
+title: Application.Tables method (Project)
 keywords: vbapj.chm401
 f1_keywords:
 - vbapj.chm401
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Tables Method (Project)
+# Application.Tables method (Project)
 
 Displays the  **More Tables** dialog box, which prompts the user to manage tables.
 

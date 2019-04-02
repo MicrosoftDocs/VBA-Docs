@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.ObjectType Property (Visio)
+title: DataRecordsetChangedEvent.ObjectType property (Visio)
 keywords: vis_sdr.chm17213960
 f1_keywords:
 - vis_sdr.chm17213960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.ObjectType Property (Visio)
+# DataRecordsetChangedEvent.ObjectType property (Visio)
 
 Returns  **visObjTypeDataRecordsetChangedEvent**, the type of a **DataRecordsetChangedEvent** object. Read-only.
 

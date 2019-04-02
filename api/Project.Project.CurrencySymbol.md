@@ -1,5 +1,5 @@
 ---
-title: Project.CurrencySymbol Property (Project)
+title: Project.CurrencySymbol property (Project)
 keywords: vbapj.chm131697
 f1_keywords:
 - vbapj.chm131697
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrencySymbol Property (Project)
+# Project.CurrencySymbol property (Project)
 
 Gets or sets the characters that denote currency values. Read/write  **String**.
 

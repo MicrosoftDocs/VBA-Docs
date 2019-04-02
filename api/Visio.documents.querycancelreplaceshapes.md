@@ -1,5 +1,5 @@
 ---
-title: Documents.QueryCancelReplaceShapes Event (Visio)
+title: Documents.QueryCancelReplaceShapes event (Visio)
 ms.prod: visio
 ms.assetid: d613730e-04c8-d17f-0ad1-19e976aa107d
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.QueryCancelReplaceShapes Event (Visio)
+# Documents.QueryCancelReplaceShapes event (Visio)
 
 Occurs immediately after a shape-replacement operation is requested. If any event handler returns  **True**, the operation is canceled.
 

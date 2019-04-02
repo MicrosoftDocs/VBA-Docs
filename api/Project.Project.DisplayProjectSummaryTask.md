@@ -1,5 +1,5 @@
 ---
-title: Project.DisplayProjectSummaryTask Property (Project)
+title: Project.DisplayProjectSummaryTask property (Project)
 keywords: vbapj.chm131748
 f1_keywords:
 - vbapj.chm131748
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DisplayProjectSummaryTask Property (Project)
+# Project.DisplayProjectSummaryTask property (Project)
 
  **True** if the summary task for a project is visible. Read/write **Boolean**.
 

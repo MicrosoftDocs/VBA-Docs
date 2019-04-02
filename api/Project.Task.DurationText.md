@@ -1,5 +1,5 @@
 ---
-title: Task.DurationText Property (Project)
+title: Task.DurationText property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.DurationText
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.DurationText Property (Project)
+# Task.DurationText property (Project)
 
 Gets or sets a string representation of the task duration. Read/write  **String**.
 

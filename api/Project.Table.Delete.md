@@ -1,5 +1,5 @@
 ---
-title: Table.Delete Method (Project)
+title: Table.Delete method (Project)
 keywords: vbapj.chm132682
 f1_keywords:
 - vbapj.chm132682
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Delete Method (Project)
+# Table.Delete method (Project)
 
 Deletes the  **Table** object from a **Tables** collection.
 

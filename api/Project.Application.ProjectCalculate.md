@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectCalculate Event (Project)
+title: Application.ProjectCalculate event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectCalculate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectCalculate Event (Project)
+# Application.ProjectCalculate event (Project)
 
 Occurs after a project is calculated.
 

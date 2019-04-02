@@ -1,5 +1,5 @@
 ---
-title: PpTextStyleType Enumeration (PowerPoint)
+title: PpTextStyleType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpTextStyleType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpTextStyleType Enumeration (PowerPoint)
+# PpTextStyleType enumeration (PowerPoint)
 
 Constants that specify the text style type, passed to the  **Item** method of the **TextStyles** collection.
 

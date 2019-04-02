@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeAssignmentChange Event (Project)
+title: Application.ProjectBeforeAssignmentChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeAssignmentChange Event (Project)
+# Application.ProjectBeforeAssignmentChange event (Project)
 
 Occurs before the user changes the value of an assignment field.
 

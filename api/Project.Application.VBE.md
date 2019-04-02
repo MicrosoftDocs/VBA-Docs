@@ -1,5 +1,5 @@
 ---
-title: Application.VBE Property (Project)
+title: Application.VBE property (Project)
 keywords: vbapj.chm132786
 f1_keywords:
 - vbapj.chm132786
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.VBE Property (Project)
+# Application.VBE property (Project)
 
 Gets the  **VBE** object that represents the Visual Basic Editor. Read-only **VBE**.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Flag13 Property (Project)
+title: Resource.Flag13 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Flag13
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Flag13 Property (Project)
+# Resource.Flag13 property (Project)
 
  **True** if the flag associated with a **Resource** is set. Read/write **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.NewWindow Property (Visio)
+title: Hyperlink.NewWindow property (Visio)
 keywords: vis_sdr.chm15013945
 f1_keywords:
 - vis_sdr.chm15013945
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.NewWindow Property (Visio)
+# Hyperlink.NewWindow property (Visio)
 
 Determines whether Microsoft Visio opens a window in a new location when it follows a hyperlink to open a Web page or another Visio document. Read/write.
 

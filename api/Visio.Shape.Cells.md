@@ -1,5 +1,5 @@
 ---
-title: Shape.Cells Property (Visio)
+title: Shape.Cells property (Visio)
 keywords: vis_sdr.chm11213190
 f1_keywords:
 - vis_sdr.chm11213190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Cells Property (Visio)
+# Shape.Cells property (Visio)
 
 Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 

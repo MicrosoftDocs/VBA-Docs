@@ -1,5 +1,5 @@
 ---
-title: Resource.OvertimeCost Property (Project)
+title: Resource.OvertimeCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.OvertimeCost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.OvertimeCost Property (Project)
+# Resource.OvertimeCost property (Project)
 
 Gets the overtime cost for a resource. Read-only  **Variant**.
 

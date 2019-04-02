@@ -1,5 +1,5 @@
 ---
-title: Shape.ConnectionSiteCount Property (Project)
+title: Shape.ConnectionSiteCount property (Project)
 ms.prod: project-server
 ms.assetid: 86727754-1d50-f10d-ec8e-91923c09d388
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ConnectionSiteCount Property (Project)
+# Shape.ConnectionSiteCount property (Project)
 Gets the number of connection sites on the shape. Read-only  **Long**.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeWindowSelDelete Event (Visio)
+title: Application.BeforeWindowSelDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeWindowSelDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeWindowSelDelete Event (Visio)
+# Application.BeforeWindowSelDelete event (Visio)
 
 Occurs before the shapes in the selection of a window are deleted.
 

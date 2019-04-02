@@ -1,5 +1,5 @@
 ---
-title: Task.SPI Property (Project)
+title: Task.SPI property (Project)
 keywords: vbapj.chm132589
 f1_keywords:
 - vbapj.chm132589
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.SPI Property (Project)
+# Task.SPI property (Project)
 
 Gets the value of the schedule performance index (SPI) calculation for the task. Read-only  **Double**.
 

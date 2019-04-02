@@ -1,5 +1,5 @@
 ---
-title: Application.WindowPrev Method (Project)
+title: Application.WindowPrev method (Project)
 keywords: vbapj.chm2006
 f1_keywords:
 - vbapj.chm2006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowPrev Method (Project)
+# Application.WindowPrev method (Project)
 
 Activates the window that was previously opened.
 

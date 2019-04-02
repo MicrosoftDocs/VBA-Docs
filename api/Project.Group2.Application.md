@@ -1,5 +1,5 @@
 ---
-title: Group2.Application Property (Project)
+title: Group2.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.Group2.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Group2.Application Property (Project)
+# Group2.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

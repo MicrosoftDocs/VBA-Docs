@@ -1,5 +1,5 @@
 ---
-title: Application.LoadWebPaneControl Method (Project)
+title: Application.LoadWebPaneControl method (Project)
 keywords: vbapj.chm56
 f1_keywords:
 - vbapj.chm56
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LoadWebPaneControl Method (Project)
+# Application.LoadWebPaneControl method (Project)
 
 Supports the Web pane that hosts the  **Task Drivers**,  **Project/Resource Import Wizard**, and  **Deliverables** features.
 

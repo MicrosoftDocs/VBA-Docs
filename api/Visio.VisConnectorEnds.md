@@ -1,5 +1,5 @@
 ---
-title: VisConnectorEnds Enumeration (Visio)
+title: VisConnectorEnds enumeration (Visio)
 keywords: vis_sdr.chm70585
 f1_keywords:
 - vis_sdr.chm70585
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisConnectorEnds Enumeration (Visio)
+# VisConnectorEnds enumeration (Visio)
 
 Specifies constants that define the end points of a connector; passed to the  **[Shape.Disconnect](Visio.Shape.Disconnect.md)** method.
 

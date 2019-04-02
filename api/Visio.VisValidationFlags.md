@@ -1,5 +1,5 @@
 ---
-title: VisValidationFlags Enumeration (Visio)
+title: VisValidationFlags enumeration (Visio)
 keywords: vis_sdr.chm70675
 f1_keywords:
 - vis_sdr.chm70675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisValidationFlags Enumeration (Visio)
+# VisValidationFlags enumeration (Visio)
 
 Specifies constants that define special validation behaviors; passed to the  **[Validation.Validate](Visio.Validation.Validate.md)** method.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.LengthIU Property (Visio)
+title: Shape.LengthIU property (Visio)
 keywords: vis_sdr.chm11213835
 f1_keywords:
 - vis_sdr.chm11213835
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.LengthIU Property (Visio)
+# Shape.LengthIU property (Visio)
 
 Returns the length (perimeter) of the shape in internal units. Read-only.
 

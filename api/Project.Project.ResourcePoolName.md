@@ -1,5 +1,5 @@
 ---
-title: Project.ResourcePoolName Property (Project)
+title: Project.ResourcePoolName property (Project)
 keywords: vbapj.chm132573
 f1_keywords:
 - vbapj.chm132573
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ResourcePoolName Property (Project)
+# Project.ResourcePoolName property (Project)
 
 Gets the name of the enterprise resource pool that a project uses in Project Professional. Read-only  **String**.
 

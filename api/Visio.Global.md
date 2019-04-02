@@ -1,5 +1,5 @@
 ---
-title: Global Object (Visio)
+title: Global object (Visio)
 keywords: vis_sdr.chm10000
 f1_keywords:
 - vis_sdr.chm10000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Global Object (Visio)
+# Global object (Visio)
 
 The Microsoft Visio global object is automatically available to Microsoft Visual Basic for Applications (VBA) code that is part of the VBA project of a Visio document. The Visio global object is not available to code in other contexts.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WebOpenStartPage Method (Project)
+title: Application.WebOpenStartPage method (Project)
 keywords: vbapj.chm1304
 f1_keywords:
 - vbapj.chm1304
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WebOpenStartPage Method (Project)
+# Application.WebOpenStartPage method (Project)
 
 Opens the Start Page.
 

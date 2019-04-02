@@ -1,5 +1,5 @@
 ---
-title: Engagement Object (Project)
+title: Engagement object (Project)
 ms.assetid: 3e7f7bed-e575-a5f4-25e5-1c1cbe1880bb
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement Object (Project)
+# Engagement object (Project)
 
 Collection of  **Engagement** objects. Introduced in Office 2016.
 

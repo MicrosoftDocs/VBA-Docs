@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseRequiredValues Property (Project)
+title: Resource.EnterpriseRequiredValues property (Project)
 keywords: vbapj.chm132119
 f1_keywords:
 - vbapj.chm132119
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseRequiredValues Property (Project)
+# Resource.EnterpriseRequiredValues property (Project)
 
  **True** if resource has enterprise required values. Read-only **Boolean**.
 

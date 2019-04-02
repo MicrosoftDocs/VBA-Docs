@@ -1,5 +1,5 @@
 ---
-title: OlAddressEntryUserType Enumeration (Outlook)
+title: OlAddressEntryUserType enumeration (Outlook)
 keywords: vbaol11.chm3110
 f1_keywords:
 - vbaol11.chm3110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAddressEntryUserType Enumeration (Outlook)
+# OlAddressEntryUserType enumeration (Outlook)
 
 Represents the type of user for the  **[AddressEntry](Outlook.AddressEntry.md)** or object derived from **AddressEntry**.
 

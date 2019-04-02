@@ -1,5 +1,5 @@
 ---
-title: Application.TaskComparison Method (Project)
+title: Application.TaskComparison method (Project)
 keywords: vbapj.chm2184
 f1_keywords:
 - vbapj.chm2184
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskComparison Method (Project)
+# Application.TaskComparison method (Project)
 
 In a project comparison report, shows the Gantt Chart view in all three project plans, to compare tasks.
 

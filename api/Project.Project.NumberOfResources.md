@@ -1,5 +1,5 @@
 ---
-title: Project.NumberOfResources Property (Project)
+title: Project.NumberOfResources property (Project)
 keywords: vbapj.chm132442
 f1_keywords:
 - vbapj.chm132442
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.NumberOfResources Property (Project)
+# Project.NumberOfResources property (Project)
 
 Gets the number of resources in a project, not including blank entries. Read-only  **Long**.
 

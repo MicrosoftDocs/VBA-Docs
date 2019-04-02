@@ -1,5 +1,5 @@
 ---
-title: Document.BuildingBlockInsert Event (Word)
+title: Document.BuildingBlockInsert event (Word)
 keywords: vbawd10.chm4001016
 f1_keywords:
 - vbawd10.chm4001016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.BuildingBlockInsert Event (Word)
+# Document.BuildingBlockInsert event (Word)
 
 Occurs when you insert a building block into a document. .
 

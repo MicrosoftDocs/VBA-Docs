@@ -1,5 +1,5 @@
 ---
-title: Shape.ObjectIsInherited Property (Visio)
+title: Shape.ObjectIsInherited property (Visio)
 keywords: vis_sdr.chm11213955
 f1_keywords:
 - vis_sdr.chm11213955
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ObjectIsInherited Property (Visio)
+# Shape.ObjectIsInherited property (Visio)
 
 Indicates if a shape represents an ActiveX or OLE object that is inherited from the shape's master. Read-only.
 

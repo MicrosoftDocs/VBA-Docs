@@ -1,5 +1,5 @@
 ---
-title: Calendar.Reset Method (Project)
+title: Calendar.Reset method (Project)
 keywords: vbapj.chm131258
 f1_keywords:
 - vbapj.chm131258
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Calendar.Reset Method (Project)
+# Calendar.Reset method (Project)
 
 Resets base calendar properties to their default values; resets resource calendar properties to the values in the corresponding base calendar.
 

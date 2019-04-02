@@ -1,5 +1,5 @@
 ---
-title: Resource.PeakUnits Property (Project)
+title: Resource.PeakUnits property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.PeakUnits
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.PeakUnits Property (Project)
+# Resource.PeakUnits property (Project)
 
 Gets the largest unit percentage of a resource used at one time. Read-only  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.WindowCloseCanceled Event (Visio)
+title: InvisibleApp.WindowCloseCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowCloseCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.WindowCloseCanceled Event (Visio)
+# InvisibleApp.WindowCloseCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelWindowClose** event.
 

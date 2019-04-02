@@ -1,5 +1,5 @@
 ---
-title: Task.WBSSuccessors Property (Project)
+title: Task.WBSSuccessors property (Project)
 keywords: vbapj.chm132816
 f1_keywords:
 - vbapj.chm132816
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.WBSSuccessors Property (Project)
+# Task.WBSSuccessors property (Project)
 
 Gets the work breakdown structure (WBS) codes of the task successors, separated by the list separator. Read-only  **String**.
 

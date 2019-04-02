@@ -1,5 +1,5 @@
 ---
-title: PjProjectServerTrackingMethod Enumeration (Project)
+title: PjProjectServerTrackingMethod enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjProjectServerTrackingMethod
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjProjectServerTrackingMethod Enumeration (Project)
+# PjProjectServerTrackingMethod enumeration (Project)
 
 Contains constants that specify the way Project Server tracks actuals for a project, such as actual start date, actual duration, or actual hours worked. 
 

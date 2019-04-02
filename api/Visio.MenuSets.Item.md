@@ -1,5 +1,5 @@
 ---
-title: MenuSets.Item Property (Visio)
+title: MenuSets.Item property (Visio)
 keywords: vis_sdr.chm13413765
 f1_keywords:
 - vis_sdr.chm13413765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSets.Item Property (Visio)
+# MenuSets.Item property (Visio)
 
 Returns a  **MenuSet** object from the **MenuSets** collection. Read-only.
 

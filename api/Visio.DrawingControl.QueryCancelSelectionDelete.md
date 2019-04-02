@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.QueryCancelSelectionDelete Event (Visio)
+title: DrawingControl.QueryCancelSelectionDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelSelectionDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.QueryCancelSelectionDelete Event (Visio)
+# DrawingControl.QueryCancelSelectionDelete event (Visio)
 
 Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.QueryCancelGroup Event (Visio)
+title: Master.QueryCancelGroup event (Visio)
 keywords: vis_sdr.chm10762000
 f1_keywords:
 - vis_sdr.chm10762000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.QueryCancelGroup Event (Visio)
+# Master.QueryCancelGroup event (Visio)
 
 Occurs before the application groups a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

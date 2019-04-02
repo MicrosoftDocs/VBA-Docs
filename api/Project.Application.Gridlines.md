@@ -1,5 +1,5 @@
 ---
-title: Application.Gridlines Method (Project)
+title: Application.Gridlines method (Project)
 keywords: vbapj.chm912
 f1_keywords:
 - vbapj.chm912
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Gridlines Method (Project)
+# Application.Gridlines method (Project)
 
 Displays the  **Gridlines** dialog box. This method is unavailable when the active view is the Network Diagram, Relationship Diagram, or a Form view.
 

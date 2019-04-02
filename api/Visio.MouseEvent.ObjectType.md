@@ -1,5 +1,5 @@
 ---
-title: MouseEvent.ObjectType Property (Visio)
+title: MouseEvent.ObjectType property (Visio)
 keywords: vis_sdr.chm17113960
 f1_keywords:
 - vis_sdr.chm17113960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MouseEvent.ObjectType Property (Visio)
+# MouseEvent.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

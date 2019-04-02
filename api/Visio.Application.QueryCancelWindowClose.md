@@ -1,5 +1,5 @@
 ---
-title: Application.QueryCancelWindowClose Event (Visio)
+title: Application.QueryCancelWindowClose event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelWindowClose
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.QueryCancelWindowClose Event (Visio)
+# Application.QueryCancelWindowClose event (Visio)
 
 Occurs before the application closes a window in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

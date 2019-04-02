@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks Object (Visio)
+title: Hyperlinks object (Visio)
 keywords: vis_sdr.chm10115
 f1_keywords:
 - vis_sdr.chm10115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks Object (Visio)
+# Hyperlinks object (Visio)
 
 Includes  **Hyperlink** objects. A **Hyperlinks** collection enables you to access and manipulate a shape's Hyperlinks section.
 

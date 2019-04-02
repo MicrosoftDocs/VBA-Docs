@@ -1,5 +1,5 @@
 ---
-title: Cell.Parent Property (Project)
+title: Cell.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Parent Property (Project)
+# Cell.Parent property (Project)
 
 Gets the parent of the  **Cell** object. Read-only **Object**.
 

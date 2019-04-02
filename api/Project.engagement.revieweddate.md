@@ -1,5 +1,5 @@
 ---
-title: Engagement.ReviewedDate Property (Project)
+title: Engagement.ReviewedDate property (Project)
 ms.assetid: a7cddc80-6ebe-7fd7-553c-ad7f478b8cab
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.ReviewedDate Property (Project)
+# Engagement.ReviewedDate property (Project)
 
 The ReviewedDate property for the Engagement object. Introduced in Office 2016.
 
@@ -22,6 +22,6 @@ _expression_. `ReviewedDate`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

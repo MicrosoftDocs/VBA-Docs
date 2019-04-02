@@ -1,5 +1,5 @@
 ---
-title: Documents.ItemFromID Property (Visio)
+title: Documents.ItemFromID property (Visio)
 keywords: vis_sdr.chm10613775
 f1_keywords:
 - vis_sdr.chm10613775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.ItemFromID Property (Visio)
+# Documents.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 

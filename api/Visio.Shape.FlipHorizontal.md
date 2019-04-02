@@ -1,5 +1,5 @@
 ---
-title: Shape.FlipHorizontal Method (Visio)
+title: Shape.FlipHorizontal method (Visio)
 keywords: vis_sdr.chm11216280
 f1_keywords:
 - vis_sdr.chm11216280
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.FlipHorizontal Method (Visio)
+# Shape.FlipHorizontal method (Visio)
 
 Flips an object horizontally.
 

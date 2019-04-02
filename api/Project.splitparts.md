@@ -1,5 +1,5 @@
 ---
-title: SplitParts Object (Project)
+title: SplitParts object (Project)
 ms.prod: project-server
 ms.assetid: bc36310c-9289-a363-f2d6-c8a0991725e5
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# SplitParts Object (Project)
+# SplitParts object (Project)
 
 Contains a collection of  **[SplitPart](Project.SplitPart.md)** objects.
  

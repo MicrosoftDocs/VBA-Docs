@@ -1,5 +1,5 @@
 ---
-title: Application.GetThemedColor Method (Project)
+title: Application.GetThemedColor method (Project)
 keywords: vbapj.chm131095
 f1_keywords:
 - vbapj.chm131095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GetThemedColor Method (Project)
+# Application.GetThemedColor method (Project)
 
 Returns the color of the specified theme element type in the Project Guide. Deprecated in Project.
 

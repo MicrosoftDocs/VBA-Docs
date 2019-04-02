@@ -1,5 +1,5 @@
 ---
-title: Resource.ACWP Property (Project)
+title: Resource.ACWP property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.ACWP
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.ACWP Property (Project)
+# Resource.ACWP property (Project)
 
 Gets the actual cost of work performed for the resource. Read-only  **Variant**.
 

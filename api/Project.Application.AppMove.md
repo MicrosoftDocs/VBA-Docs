@@ -1,5 +1,5 @@
 ---
-title: Application.AppMove Method (Project)
+title: Application.AppMove method (Project)
 keywords: vbapj.chm2010
 f1_keywords:
 - vbapj.chm2010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AppMove Method (Project)
+# Application.AppMove method (Project)
 
 Moves the main Project window.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.ResourcePhonetics Property (Project)
+title: Task.ResourcePhonetics property (Project)
 keywords: vbapj.chm132572
 f1_keywords:
 - vbapj.chm132572
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ResourcePhonetics Property (Project)
+# Task.ResourcePhonetics property (Project)
 
 Gets the phonetic representation of a resource name. Read-only  **String**.
 

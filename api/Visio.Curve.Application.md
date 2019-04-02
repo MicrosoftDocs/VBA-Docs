@@ -1,5 +1,5 @@
 ---
-title: Curve.Application Property (Visio)
+title: Curve.Application property (Visio)
 keywords: vis_sdr.chm15513090
 f1_keywords:
 - vis_sdr.chm15513090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Curve.Application Property (Visio)
+# Curve.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

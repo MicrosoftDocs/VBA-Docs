@@ -1,5 +1,5 @@
 ---
-title: Section.Stat Property (Visio)
+title: Section.Stat property (Visio)
 keywords: vis_sdr.chm15714420
 f1_keywords:
 - vis_sdr.chm15714420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Section.Stat Property (Visio)
+# Section.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: DataConnection.Timeout Property (Visio)
+title: DataConnection.Timeout property (Visio)
 keywords: vis_sdr.chm16560375
 f1_keywords:
 - vis_sdr.chm16560375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataConnection.Timeout Property (Visio)
+# DataConnection.Timeout property (Visio)
 
 Gets or sets how long (in seconds) to attempt to establish a data connection before terminating the attempt and generating an error. Read/write.
 

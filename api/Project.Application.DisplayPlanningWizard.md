@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayPlanningWizard Property (Project)
+title: Application.DisplayPlanningWizard property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayPlanningWizard
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayPlanningWizard Property (Project)
+# Application.DisplayPlanningWizard property (Project)
 
  **True** if the PlanningWizard is active. Read/write **Boolean**.
 

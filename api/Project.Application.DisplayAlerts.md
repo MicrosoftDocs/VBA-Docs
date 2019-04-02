@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayAlerts Property (Project)
+title: Application.DisplayAlerts property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayAlerts
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayAlerts Property (Project)
+# Application.DisplayAlerts property (Project)
 
  **True** if Project displays error messages when a macro runs. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: TableField.Width Property (Project)
+title: TableField.Width property (Project)
 keywords: vbapj.chm132690
 f1_keywords:
 - vbapj.chm132690
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableField.Width Property (Project)
+# TableField.Width property (Project)
 
 Gets or sets the width in points of the field column in a table. Read/write  **Long**.
 

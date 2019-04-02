@@ -1,5 +1,5 @@
 ---
-title: PjMSApplication Enumeration (Project)
+title: PjMSApplication enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMSApplication
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjMSApplication Enumeration (Project)
+# PjMSApplication enumeration (Project)
 
 Contains constants that specify the Microsoft application to activate.
 

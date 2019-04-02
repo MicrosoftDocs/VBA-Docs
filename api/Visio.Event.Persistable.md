@@ -1,5 +1,5 @@
 ---
-title: Event.Persistable Property (Visio)
+title: Event.Persistable property (Visio)
 keywords: vis_sdr.chm12614070
 f1_keywords:
 - vis_sdr.chm12614070
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.Persistable Property (Visio)
+# Event.Persistable property (Visio)
 
 Determines whether an event can potentially persist within its document. Read-only.
 

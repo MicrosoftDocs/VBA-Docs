@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.OnlyCompleteCodes Property (Project)
+title: OutlineCode.OnlyCompleteCodes property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.OnlyCompleteCodes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.OnlyCompleteCodes Property (Project)
+# OutlineCode.OnlyCompleteCodes property (Project)
 
  **True** if only outline codes with values at all levels of the code mask can be used. Read/write **Boolean**.
 

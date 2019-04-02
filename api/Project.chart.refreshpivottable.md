@@ -1,5 +1,5 @@
 ---
-title: Chart.RefreshPivotTable Method (Project)
+title: Chart.RefreshPivotTable method (Project)
 ms.prod: project-server
 ms.assetid: 3fed226a-2bb3-2112-01c9-d56a6defd346
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.RefreshPivotTable Method (Project)
+# Chart.RefreshPivotTable method (Project)
 Gets updated values from a pivot table data source.
 
 ## Syntax

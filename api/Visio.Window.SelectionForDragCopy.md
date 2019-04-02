@@ -1,5 +1,5 @@
 ---
-title: Window.SelectionForDragCopy Property (Visio)
+title: Window.SelectionForDragCopy property (Visio)
 keywords: vis_sdr.chm11662455
 f1_keywords:
 - vis_sdr.chm11662455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.SelectionForDragCopy Property (Visio)
+# Window.SelectionForDragCopy property (Visio)
 
 Returns the  **[Selection](Visio.Selection.md)** object that represents the collection of shapes that will participate in drag or copy operations, based on the current selection. Read-only.
 

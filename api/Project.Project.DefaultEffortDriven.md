@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultEffortDriven Property (Project)
+title: Project.DefaultEffortDriven property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DefaultEffortDriven
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultEffortDriven Property (Project)
+# Project.DefaultEffortDriven property (Project)
 
  **True** if new tasks are effort-driven by default. Read/write **Boolean**.
 

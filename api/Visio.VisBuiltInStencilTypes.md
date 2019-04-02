@@ -1,5 +1,5 @@
 ---
-title: VisBuiltInStencilTypes Enumeration (Visio)
+title: VisBuiltInStencilTypes enumeration (Visio)
 keywords: vis_sdr.chm70650
 f1_keywords:
 - vis_sdr.chm70650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisBuiltInStencilTypes Enumeration (Visio)
+# VisBuiltInStencilTypes enumeration (Visio)
 
 Specifies constants that identify the available stencils; passed to the  **GetBuiltInStencilFile** and **GetCustomStencilFile** methods.
 

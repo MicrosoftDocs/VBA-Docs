@@ -1,5 +1,5 @@
 ---
-title: Application.FileNew Method (Project)
+title: Application.FileNew method (Project)
 keywords: vbapj.chm101
 f1_keywords:
 - vbapj.chm101
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileNew Method (Project)
+# Application.FileNew method (Project)
 
 Creates a new project.
 

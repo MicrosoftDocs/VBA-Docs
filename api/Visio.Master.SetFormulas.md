@@ -1,5 +1,5 @@
 ---
-title: Master.SetFormulas Method (Visio)
+title: Master.SetFormulas method (Visio)
 keywords: vis_sdr.chm10716575
 f1_keywords:
 - vis_sdr.chm10716575
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.SetFormulas Method (Visio)
+# Master.SetFormulas method (Visio)
 
 Sets the formulas of one or more cells.
 

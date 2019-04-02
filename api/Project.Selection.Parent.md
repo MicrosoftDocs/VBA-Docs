@@ -1,5 +1,5 @@
 ---
-title: Selection.Parent Property (Project)
+title: Selection.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Selection.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Parent Property (Project)
+# Selection.Parent property (Project)
 
 Gets the parent of the  **Selection** object. Read-only **Object**.
 

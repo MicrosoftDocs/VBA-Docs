@@ -1,5 +1,5 @@
 ---
-title: Application.ChangeWorkingTimeEx Method (Project)
+title: Application.ChangeWorkingTimeEx method (Project)
 keywords: vbapj.chm625
 f1_keywords:
 - vbapj.chm625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ChangeWorkingTimeEx Method (Project)
+# Application.ChangeWorkingTimeEx method (Project)
 
 Displays the  **Change Working Time** dialog box, which prompts the user to change a calendar.
 

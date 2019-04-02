@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesAdd Method (Project)
+title: Application.DetailStylesAdd method (Project)
 keywords: vbapj.chm963
 f1_keywords:
 - vbapj.chm963
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DetailStylesAdd Method (Project)
+# Application.DetailStylesAdd method (Project)
 
 Adds another timescale data field to a usage view.
 

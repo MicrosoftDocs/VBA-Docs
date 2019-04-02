@@ -1,5 +1,5 @@
 ---
-title: Page.BeforeShapeDelete Event (Visio)
+title: Page.BeforeShapeDelete event (Visio)
 keywords: vis_sdr.chm10919065
 f1_keywords:
 - vis_sdr.chm10919065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.BeforeShapeDelete Event (Visio)
+# Page.BeforeShapeDelete event (Visio)
 
 Occurs before a shape is deleted.
 

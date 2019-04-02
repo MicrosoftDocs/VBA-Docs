@@ -1,5 +1,5 @@
 ---
-title: Master.Export Method (Visio)
+title: Master.Export method (Visio)
 keywords: vis_sdr.chm10716265
 f1_keywords:
 - vis_sdr.chm10716265
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Export Method (Visio)
+# Master.Export method (Visio)
 
 Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg, .dxf, .emf, .emz, .gif, .htm, .jpg, .png, .svg, .svgz, .tif, or .wmf.
 

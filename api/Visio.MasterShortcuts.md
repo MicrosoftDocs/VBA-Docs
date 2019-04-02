@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts Object (Visio)
+title: MasterShortcuts object (Visio)
 keywords: vis_sdr.chm10145
 f1_keywords:
 - vis_sdr.chm10145
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts Object (Visio)
+# MasterShortcuts object (Visio)
 
 Includes  **MasterShortcut** objects.
 

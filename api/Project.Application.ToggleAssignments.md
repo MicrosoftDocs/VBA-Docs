@@ -1,5 +1,5 @@
 ---
-title: Application.ToggleAssignments Method (Project)
+title: Application.ToggleAssignments method (Project)
 keywords: vbapj.chm246
 f1_keywords:
 - vbapj.chm246
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ToggleAssignments Method (Project)
+# Application.ToggleAssignments method (Project)
 
 Shows or hides assignments for one or more selected task or resources in usage views.
 

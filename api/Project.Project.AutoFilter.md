@@ -1,5 +1,5 @@
 ---
-title: Project.AutoFilter Property (Project)
+title: Project.AutoFilter property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.AutoFilter
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.AutoFilter Property (Project)
+# Project.AutoFilter property (Project)
 
 Gets or sets whether the AutoFilter feature is turned on for a project. Read/write  **Boolean**.
 

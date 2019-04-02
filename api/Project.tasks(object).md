@@ -1,5 +1,5 @@
 ---
-title: Tasks Object (Project)
+title: Tasks object (Project)
 ms.prod: project-server
 ms.assetid: b7482b5a-7fac-531e-6793-610faca2f954
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Tasks Object (Project)
+# Tasks object (Project)
 
 Contains a collection of  **[Task](Project.Task.md)** objects.
 

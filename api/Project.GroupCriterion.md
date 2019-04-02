@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion Object (Project)
+title: GroupCriterion object (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion Object (Project)
+# GroupCriterion object (Project)
 
 Represents a criterion in a group definition. The  **GroupCriterion** object is a member of the **[GroupCriteria](Project.groupcriteria.md)** collection.
  

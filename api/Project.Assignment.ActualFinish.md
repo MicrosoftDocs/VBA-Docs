@@ -1,5 +1,5 @@
 ---
-title: Assignment.ActualFinish Property (Project)
+title: Assignment.ActualFinish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ActualFinish
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ActualFinish Property (Project)
+# Assignment.ActualFinish property (Project)
 
 Gets or sets the actual finish date of an assignment. Read/write  **Variant**.
 

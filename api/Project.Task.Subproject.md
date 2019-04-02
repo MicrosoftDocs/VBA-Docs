@@ -1,5 +1,5 @@
 ---
-title: Task.Subproject Property (Project)
+title: Task.Subproject property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Subproject
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Subproject Property (Project)
+# Task.Subproject property (Project)
 
 Gets or sets the subproject name for the task. Read/write  **String**.
 

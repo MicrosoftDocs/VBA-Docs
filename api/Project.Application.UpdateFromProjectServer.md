@@ -1,5 +1,5 @@
 ---
-title: Application.UpdateFromProjectServer Method (Project)
+title: Application.UpdateFromProjectServer method (Project)
 keywords: vbapj.chm131263
 f1_keywords:
 - vbapj.chm131263
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UpdateFromProjectServer Method (Project)
+# Application.UpdateFromProjectServer method (Project)
 
 Updates a project from Project Server.
 

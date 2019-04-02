@@ -1,5 +1,5 @@
 ---
-title: GroupCriteria2.Add Method (Project)
+title: GroupCriteria2.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriteria2.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriteria2.Add Method (Project)
+# GroupCriteria2.Add method (Project)
 
 Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection.
 

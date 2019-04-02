@@ -1,5 +1,5 @@
 ---
-title: Document.SetCustomToolbars Method (Visio)
+title: Document.SetCustomToolbars method (Visio)
 keywords: vis_sdr.chm10516565
 f1_keywords:
 - vis_sdr.chm10516565
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SetCustomToolbars Method (Visio)
+# Document.SetCustomToolbars method (Visio)
 
 Replaces the current built-in or custom toolbars of an application or document.
 

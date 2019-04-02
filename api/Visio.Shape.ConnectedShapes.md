@@ -1,5 +1,5 @@
 ---
-title: Shape.ConnectedShapes Method (Visio)
+title: Shape.ConnectedShapes method (Visio)
 keywords: vis_sdr.chm11262240
 f1_keywords:
 - vis_sdr.chm11262240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ConnectedShapes Method (Visio)
+# Shape.ConnectedShapes method (Visio)
 
 Returns an array that contains the identifiers (IDs) of the shapes that are connected to the shape.
 

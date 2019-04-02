@@ -1,5 +1,5 @@
 ---
-title: PjWorkContourType Enumeration (Project)
+title: PjWorkContourType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjWorkContourType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjWorkContourType Enumeration (Project)
+# PjWorkContourType enumeration (Project)
 
 Contains constants that specify the type of a work contour.
 

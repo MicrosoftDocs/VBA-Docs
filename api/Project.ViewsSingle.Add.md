@@ -1,5 +1,5 @@
 ---
-title: ViewsSingle.Add Method (Project)
+title: ViewsSingle.Add method (Project)
 keywords: vbapj.chm132759
 f1_keywords:
 - vbapj.chm132759
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewsSingle.Add Method (Project)
+# ViewsSingle.Add method (Project)
 
 Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.HyperlinkColorEx Property (Project)
+title: Project.HyperlinkColorEx property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.HyperlinkColorEx
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.HyperlinkColorEx Property (Project)
+# Project.HyperlinkColorEx property (Project)
 
 Gets or sets a hexadecimal representation of the color used to denote unfollowed hyperlinks. Read/write  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.PaperSize Property (Visio)
+title: Document.PaperSize property (Visio)
 keywords: vis_sdr.chm10514020
 f1_keywords:
 - vis_sdr.chm10514020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PaperSize Property (Visio)
+# Document.PaperSize property (Visio)
 
 Gets or sets the paper size of a document. Read/write.
 

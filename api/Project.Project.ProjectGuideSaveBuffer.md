@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectGuideSaveBuffer Property (Project)
+title: Project.ProjectGuideSaveBuffer property (Project)
 keywords: vbapj.chm131087
 f1_keywords:
 - vbapj.chm131087
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectGuideSaveBuffer Property (Project)
+# Project.ProjectGuideSaveBuffer property (Project)
 
 Gets or sets an XML string representing the save buffer of the Project Guide. Read/write  **String**.
 

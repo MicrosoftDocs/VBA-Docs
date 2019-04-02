@@ -1,5 +1,5 @@
 ---
-title: Page.ShapeChanged Event (Visio)
+title: Page.ShapeChanged event (Visio)
 keywords: vis_sdr.chm10919230
 f1_keywords:
 - vis_sdr.chm10919230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.ShapeChanged Event (Visio)
+# Page.ShapeChanged event (Visio)
 
 Occurs after a property of a shape that is not stored in a cell is changed in a document.
 

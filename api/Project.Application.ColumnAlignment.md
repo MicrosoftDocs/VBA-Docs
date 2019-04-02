@@ -1,5 +1,5 @@
 ---
-title: Application.ColumnAlignment Method (Project)
+title: Application.ColumnAlignment method (Project)
 keywords: vbapj.chm2325
 f1_keywords:
 - vbapj.chm2325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ColumnAlignment Method (Project)
+# Application.ColumnAlignment method (Project)
 
 Sets the alignment of text in the active columns.
 

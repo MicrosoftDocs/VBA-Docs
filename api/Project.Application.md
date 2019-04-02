@@ -1,5 +1,5 @@
 ---
-title: Application Object (Project)
+title: Application object (Project)
 ms.prod: project-server
 api_name:
 - Project.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application Object (Project)
+# Application object (Project)
 
 Represents the entire Project application. The  **Application** object contains:
 

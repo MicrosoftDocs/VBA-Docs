@@ -1,5 +1,5 @@
 ---
-title: VisGuideTypes Enumeration (Visio)
+title: VisGuideTypes enumeration (Visio)
 keywords: vis_sdr.chm70110
 f1_keywords:
 - vis_sdr.chm70110
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisGuideTypes Enumeration (Visio)
+# VisGuideTypes enumeration (Visio)
 
 Guide type codes to be passed to the  **Page.AddGuide** method.
 

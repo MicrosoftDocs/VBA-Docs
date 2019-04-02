@@ -1,5 +1,5 @@
 ---
-title: Application.MouseDown Event (Visio)
+title: Application.MouseDown event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.MouseDown
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MouseDown Event (Visio)
+# Application.MouseDown event (Visio)
 
 Occurs when a mouse button is clicked.
 

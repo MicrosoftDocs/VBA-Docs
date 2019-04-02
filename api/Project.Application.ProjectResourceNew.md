@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectResourceNew Event (Project)
+title: Application.ProjectResourceNew event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectResourceNew
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectResourceNew Event (Project)
+# Application.ProjectResourceNew event (Project)
 
 Occurs before one or more resources is created.
 

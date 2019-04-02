@@ -1,5 +1,5 @@
 ---
-title: Page.DrawQuarterArc Method (Visio)
+title: Page.DrawQuarterArc method (Visio)
 keywords: vis_sdr.chm10951385
 f1_keywords:
 - vis_sdr.chm10951385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.DrawQuarterArc Method (Visio)
+# Page.DrawQuarterArc method (Visio)
 
 Creates a shape whose path consists of an elliptical arc defined by the two points and the flag passed in as arguments.
 

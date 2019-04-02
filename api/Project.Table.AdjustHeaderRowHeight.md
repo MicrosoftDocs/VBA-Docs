@@ -1,5 +1,5 @@
 ---
-title: Table.AdjustHeaderRowHeight Property (Project)
+title: Table.AdjustHeaderRowHeight property (Project)
 keywords: vbapj.chm132679
 f1_keywords:
 - vbapj.chm132679
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.AdjustHeaderRowHeight Property (Project)
+# Table.AdjustHeaderRowHeight property (Project)
 
  **True** if the header row height of the table can be adjusted. Read/write **Boolean**.
 

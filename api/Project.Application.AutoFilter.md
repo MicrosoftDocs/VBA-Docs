@@ -1,5 +1,5 @@
 ---
-title: Application.AutoFilter Method (Project)
+title: Application.AutoFilter method (Project)
 keywords: vbapj.chm22
 f1_keywords:
 - vbapj.chm22
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AutoFilter Method (Project)
+# Application.AutoFilter method (Project)
 
 Activates or deactivates the AutoFilter feature for the active project.
 

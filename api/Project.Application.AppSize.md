@@ -1,5 +1,5 @@
 ---
-title: Application.AppSize Method (Project)
+title: Application.AppSize method (Project)
 keywords: vbapj.chm2012
 f1_keywords:
 - vbapj.chm2012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AppSize Method (Project)
+# Application.AppSize method (Project)
 
 Sets the width and height of the main window.
 

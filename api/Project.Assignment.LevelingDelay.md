@@ -1,5 +1,5 @@
 ---
-title: Assignment.LevelingDelay Property (Project)
+title: Assignment.LevelingDelay property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.LevelingDelay
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.LevelingDelay Property (Project)
+# Assignment.LevelingDelay property (Project)
 
 Gets or sets the amount of time the assignment is delayed due to leveling. Read/write  **Variant**.
 

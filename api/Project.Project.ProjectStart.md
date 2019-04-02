@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectStart Property (Project)
+title: Project.ProjectStart property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ProjectStart
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectStart Property (Project)
+# Project.ProjectStart property (Project)
 
 Gets or sets the start date for a project. Read/write  **Variant**.
 

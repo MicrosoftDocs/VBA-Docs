@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Visible Property (Visio)
+title: InvisibleApp.Visible property (Visio)
 keywords: vis_sdr.chm17514650
 f1_keywords:
 - vis_sdr.chm17514650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Visible Property (Visio)
+# InvisibleApp.Visible property (Visio)
 
 Determines whether an object is visible. Read/write.
 

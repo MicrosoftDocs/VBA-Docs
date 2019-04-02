@@ -1,5 +1,5 @@
 ---
-title: ValidationRules.ObjectType Property (Visio)
+title: ValidationRules.ObjectType property (Visio)
 ms.prod: visio
 api_name:
 - Visio.ValidationRules.ObjectType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRules.ObjectType Property (Visio)
+# ValidationRules.ObjectType property (Visio)
 
 Returns  **visObjTypeValidationRules**, the type of this object. Read-only.
 

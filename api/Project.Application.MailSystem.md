@@ -1,5 +1,5 @@
 ---
-title: Application.MailSystem Method (Project)
+title: Application.MailSystem method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.MailSystem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailSystem Method (Project)
+# Application.MailSystem method (Project)
 
 Returns the type of email system installed on the host machine.
 

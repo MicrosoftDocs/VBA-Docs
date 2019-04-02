@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforeDocumentSave Event (Visio)
+title: DrawingControl.BeforeDocumentSave event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeDocumentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeDocumentSave Event (Visio)
+# DrawingControl.BeforeDocumentSave event (Visio)
 
 Occurs before a document is saved.
 

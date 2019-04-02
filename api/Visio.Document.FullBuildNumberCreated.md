@@ -1,5 +1,5 @@
 ---
-title: Document.FullBuildNumberCreated Property (Visio)
+title: Document.FullBuildNumberCreated property (Visio)
 keywords: vis_sdr.chm10551225
 f1_keywords:
 - vis_sdr.chm10551225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.FullBuildNumberCreated Property (Visio)
+# Document.FullBuildNumberCreated property (Visio)
 
 Returns the full build number of the instance used to create the document. Read-only.
 

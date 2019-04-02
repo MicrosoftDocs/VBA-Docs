@@ -1,5 +1,5 @@
 ---
-title: Task.SplitParts Property (Project)
+title: Task.SplitParts property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.SplitParts
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.SplitParts Property (Project)
+# Task.SplitParts property (Project)
 
 Gets a  **[SplitParts](Project.SplitPart.md)** collection that represents the portions of a split task. Read-only **SplitParts**.
 

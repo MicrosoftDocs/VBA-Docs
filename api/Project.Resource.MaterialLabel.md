@@ -1,5 +1,5 @@
 ---
-title: Resource.MaterialLabel Property (Project)
+title: Resource.MaterialLabel property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.MaterialLabel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.MaterialLabel Property (Project)
+# Resource.MaterialLabel property (Project)
 
 Gets or sets the label for a material resource. Read/write  **String**.
 

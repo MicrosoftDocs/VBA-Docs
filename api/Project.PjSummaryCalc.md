@@ -1,5 +1,5 @@
 ---
-title: PjSummaryCalc Enumeration (Project)
+title: PjSummaryCalc enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjSummaryCalc
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjSummaryCalc Enumeration (Project)
+# PjSummaryCalc enumeration (Project)
 
 Contains constants that specify the type of calculation to be performed for summary.
 

@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValue.Delete Method (Project)
+title: TimeScaleValue.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValue.Delete Method (Project)
+# TimeScaleValue.Delete method (Project)
 
 Deletes the  **TimeScaleValue** object from a **TimeScaleValues** collection.
 

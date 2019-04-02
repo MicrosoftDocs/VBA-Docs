@@ -1,5 +1,5 @@
 ---
-title: Project.VBProject Property (Project)
+title: Project.VBProject property (Project)
 keywords: vbapj.chm132787
 f1_keywords:
 - vbapj.chm132787
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.VBProject Property (Project)
+# Project.VBProject property (Project)
 
 Gets a  **VBProject** object that represents the Microsoft Visual Basic project. Read-only **VBProject**.
 

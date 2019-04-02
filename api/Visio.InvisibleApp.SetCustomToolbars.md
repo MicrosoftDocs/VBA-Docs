@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.SetCustomToolbars Method (Visio)
+title: InvisibleApp.SetCustomToolbars method (Visio)
 keywords: vis_sdr.chm17516565
 f1_keywords:
 - vis_sdr.chm17516565
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.SetCustomToolbars Method (Visio)
+# InvisibleApp.SetCustomToolbars method (Visio)
 
 Replaces the current built-in or custom toolbars of an application or document.
 

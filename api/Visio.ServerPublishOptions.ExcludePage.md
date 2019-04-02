@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.ExcludePage Method (Visio)
+title: ServerPublishOptions.ExcludePage method (Visio)
 keywords: vis_sdr.chm17962370
 f1_keywords:
 - vis_sdr.chm17962370
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.ExcludePage Method (Visio)
+# ServerPublishOptions.ExcludePage method (Visio)
 
 Excludes the specified page from being published when the document is published as a VDW file.
 

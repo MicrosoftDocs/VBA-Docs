@@ -1,5 +1,5 @@
 ---
-title: VisThemeEffects Enumeration (Visio)
+title: VisThemeEffects enumeration (Visio)
 keywords: vis_sdr.chm70530
 f1_keywords:
 - vis_sdr.chm70530
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisThemeEffects Enumeration (Visio)
+# VisThemeEffects enumeration (Visio)
 
 Theme effects constants passed to and returned by the  **Page.ThemeEffects** property. Thumbnails of theme effects are displayed in the **Effects** gallery in the Microsoft Visio user interface. Pause your mouse over a thumbnail to see the name of the theme effect.
 

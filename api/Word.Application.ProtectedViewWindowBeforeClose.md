@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowBeforeClose Event (Word)
+title: Application.ProtectedViewWindowBeforeClose event (Word)
 keywords: vbawd10.chm4000033
 f1_keywords:
 - vbawd10.chm4000033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowBeforeClose Event (Word)
+# Application.ProtectedViewWindowBeforeClose event (Word)
 
 Occurs immediately before a protected view window or a document in a protected view window closes.
 

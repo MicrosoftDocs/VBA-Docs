@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.UngroupCanceled Event (Visio)
+title: DrawingControl.UngroupCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.UngroupCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.UngroupCanceled Event (Visio)
+# DrawingControl.UngroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelUngroup** event.
 

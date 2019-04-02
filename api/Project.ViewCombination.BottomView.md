@@ -1,5 +1,5 @@
 ---
-title: ViewCombination.BottomView Property (Project)
+title: ViewCombination.BottomView property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewCombination.BottomView
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewCombination.BottomView Property (Project)
+# ViewCombination.BottomView property (Project)
 
 Gets or sets a  **[ViewSingle](Project.ViewSingle.md)** object representing the lower view of the combination view of the project. Read/write **ViewSingle**.
 

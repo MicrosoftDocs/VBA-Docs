@@ -1,5 +1,5 @@
 ---
-title: Selection.ContainingShape Property (Visio)
+title: Selection.ContainingShape property (Visio)
 keywords: vis_sdr.chm11113320
 f1_keywords:
 - vis_sdr.chm11113320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.ContainingShape Property (Visio)
+# Selection.ContainingShape property (Visio)
 
 Returns the  **Shape** object that contains an object or collection. Read-only.
 

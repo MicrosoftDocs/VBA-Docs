@@ -1,5 +1,5 @@
 ---
-title: Shape.UpdateAlignmentBox Method (Visio)
+title: Shape.UpdateAlignmentBox method (Visio)
 keywords: vis_sdr.chm11216635
 f1_keywords:
 - vis_sdr.chm11216635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.UpdateAlignmentBox Method (Visio)
+# Shape.UpdateAlignmentBox method (Visio)
 
 Updates the alignment box for a shape.
 

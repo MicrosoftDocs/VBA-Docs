@@ -1,5 +1,5 @@
 ---
-title: Windows.Item Property (Project)
+title: Windows.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Windows.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.Item Property (Project)
+# Windows.Item property (Project)
 
 Gets a single  **Window** object from the **Windows** collection. Read-only **Window**.
 

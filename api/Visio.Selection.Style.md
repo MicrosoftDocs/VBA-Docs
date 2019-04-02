@@ -1,5 +1,5 @@
 ---
-title: Selection.Style Property (Visio)
+title: Selection.Style property (Visio)
 keywords: vis_sdr.chm11151130
 f1_keywords:
 - vis_sdr.chm11151130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Style Property (Visio)
+# Selection.Style property (Visio)
 
 Gets or sets the style for a  **Selection** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.Master Property (Visio)
+title: Window.Master property (Visio)
 keywords: vis_sdr.chm11613870
 f1_keywords:
 - vis_sdr.chm11613870
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Master Property (Visio)
+# Window.Master property (Visio)
 
 Gets the master that is displayed in a window. Read-only.
 

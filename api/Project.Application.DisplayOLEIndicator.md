@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayOLEIndicator Property (Project)
+title: Application.DisplayOLEIndicator property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayOLEIndicator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayOLEIndicator Property (Project)
+# Application.DisplayOLEIndicator property (Project)
 
  **True** if an indicator appears in cells containing an OLE link. Read/write **Boolean**.
 

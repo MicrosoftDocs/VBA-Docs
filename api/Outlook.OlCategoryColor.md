@@ -1,5 +1,5 @@
 ---
-title: OlCategoryColor Enumeration (Outlook)
+title: OlCategoryColor enumeration (Outlook)
 keywords: vbaol11.chm3119
 f1_keywords:
 - vbaol11.chm3119
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlCategoryColor Enumeration (Outlook)
+# OlCategoryColor enumeration (Outlook)
 
 Indicates the color that is specified for a category or a font in a view.
 

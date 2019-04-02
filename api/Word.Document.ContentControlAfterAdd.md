@@ -1,5 +1,5 @@
 ---
-title: Document.ContentControlAfterAdd Event (Word)
+title: Document.ContentControlAfterAdd event (Word)
 keywords: vbawd10.chm4001010
 f1_keywords:
 - vbawd10.chm4001010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ContentControlAfterAdd Event (Word)
+# Document.ContentControlAfterAdd event (Word)
 
 Occurs after adding a content control to a document.
 

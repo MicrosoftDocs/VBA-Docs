@@ -1,5 +1,5 @@
 ---
-title: Project.LocalResourceErrorCount Method (Project)
+title: Project.LocalResourceErrorCount method (Project)
 keywords: vbapj.chm131113
 f1_keywords:
 - vbapj.chm131113
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.LocalResourceErrorCount Method (Project)
+# Project.LocalResourceErrorCount method (Project)
 
 Returns the number of local resource errors.
 

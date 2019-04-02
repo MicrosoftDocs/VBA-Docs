@@ -1,5 +1,5 @@
 ---
-title: Layers.Master Property (Visio)
+title: Layers.Master property (Visio)
 keywords: vis_sdr.chm11913870
 f1_keywords:
 - vis_sdr.chm11913870
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layers.Master Property (Visio)
+# Layers.Master property (Visio)
 
 Returns the master that contains the  **Layers** collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.VBE Property (Visio)
+title: InvisibleApp.VBE property (Visio)
 keywords: vis_sdr.chm17514630
 f1_keywords:
 - vis_sdr.chm17514630
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.VBE Property (Visio)
+# InvisibleApp.VBE property (Visio)
 
 Gets the root object of the object model exposed by Microsoft Visual Basic for Applications (VBA). Use this property to access and manipulate the VBA projects associated with currently open Microsoft Visio documents. Read-only.
 

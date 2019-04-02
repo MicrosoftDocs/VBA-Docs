@@ -1,5 +1,5 @@
 ---
-title: Selection.SetQuickStyle Method (Visio)
+title: Selection.SetQuickStyle method (Visio)
 ms.prod: visio
 ms.assetid: 39b810b5-0738-daed-0103-8a2df07559c6
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.SetQuickStyle Method (Visio)
+# Selection.SetQuickStyle method (Visio)
 
 Sets the quick style of the specified selection.
 

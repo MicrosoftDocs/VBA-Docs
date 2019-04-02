@@ -1,5 +1,5 @@
 ---
-title: Application.ShareProjectOnline Method (Project)
+title: Application.ShareProjectOnline method (Project)
 keywords: vbapj.chm74
 f1_keywords:
 - vbapj.chm74
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShareProjectOnline Method (Project)
+# Application.ShareProjectOnline method (Project)
 
 Opens the URL for information about sharing projects in the  **Share with Project Online** section in the Backstage view.
 

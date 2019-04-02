@@ -1,5 +1,5 @@
 ---
-title: Application.GetUndoListCount Method (Project)
+title: Application.GetUndoListCount method (Project)
 keywords: vbapj.chm131096
 f1_keywords:
 - vbapj.chm131096
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GetUndoListCount Method (Project)
+# Application.GetUndoListCount method (Project)
 
 Returns the number of items in the undo list.
 

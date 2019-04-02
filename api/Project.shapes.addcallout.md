@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCallout Method (Project)
+title: Shapes.AddCallout method (Project)
 ms.prod: project-server
 ms.assetid: 6c183677-d869-f493-7226-14cca4329aae
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddCallout Method (Project)
+# Shapes.AddCallout method (Project)
 Creates a borderless line callout in a report. Returns a  **Shape** object that represents the new callout.
 
 ## Syntax

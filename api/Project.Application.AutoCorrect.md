@@ -1,5 +1,5 @@
 ---
-title: Application.AutoCorrect Method (Project)
+title: Application.AutoCorrect method (Project)
 keywords: vbapj.chm627
 f1_keywords:
 - vbapj.chm627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AutoCorrect Method (Project)
+# Application.AutoCorrect method (Project)
 
 Displays the  **AutoCorrect** dialog box.
 

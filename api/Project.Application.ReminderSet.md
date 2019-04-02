@@ -1,5 +1,5 @@
 ---
-title: Application.ReminderSet Method (Project)
+title: Application.ReminderSet method (Project)
 keywords: vbapj.chm2383
 f1_keywords:
 - vbapj.chm2383
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ReminderSet Method (Project)
+# Application.ReminderSet method (Project)
 
 Sets a reminder in Microsoft Outlook for the start time or finish time of the active tasks.
 

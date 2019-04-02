@@ -1,5 +1,5 @@
 ---
-title: Shape.FlipVertical Method (Visio)
+title: Shape.FlipVertical method (Visio)
 keywords: vis_sdr.chm11216285
 f1_keywords:
 - vis_sdr.chm11216285
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.FlipVertical Method (Visio)
+# Shape.FlipVertical method (Visio)
 
 Flips an object vertically.
 

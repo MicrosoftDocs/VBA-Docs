@@ -1,5 +1,5 @@
 ---
-title: Task.BaselineStart Property (Project)
+title: Task.BaselineStart property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.BaselineStart
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.BaselineStart Property (Project)
+# Task.BaselineStart property (Project)
 
 Gets or sets the baseline start date of a  **Task**. Read/write **Variant**.
 

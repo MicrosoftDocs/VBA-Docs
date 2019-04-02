@@ -1,5 +1,5 @@
 ---
-title: Group2.GroupAssignments Property (Project)
+title: Group2.GroupAssignments property (Project)
 ms.prod: project-server
 api_name:
 - Project.Group2.GroupAssignments
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Group2.GroupAssignments Property (Project)
+# Group2.GroupAssignments property (Project)
 
  **True** if assignments are grouped, rather than tasks or resources. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: PjDateOrder Enumeration (Project)
+title: PjDateOrder enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDateOrder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjDateOrder Enumeration (Project)
+# PjDateOrder enumeration (Project)
 
 Contains constants that specify the order of a date value.
 

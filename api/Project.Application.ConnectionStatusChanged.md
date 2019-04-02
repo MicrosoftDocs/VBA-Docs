@@ -1,5 +1,5 @@
 ---
-title: Application.ConnectionStatusChanged Event (Project)
+title: Application.ConnectionStatusChanged event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ConnectionStatusChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ConnectionStatusChanged Event (Project)
+# Application.ConnectionStatusChanged event (Project)
 
 Occurs when the status of the connection with Project Server changes. Available only in Project Professional.
 

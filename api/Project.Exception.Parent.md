@@ -1,5 +1,5 @@
 ---
-title: Exception.Parent Property (Project)
+title: Exception.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.Parent Property (Project)
+# Exception.Parent property (Project)
 
 Gets the parent of the  **Exception** object. Read-only **Calendar**.
 

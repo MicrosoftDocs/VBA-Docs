@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineOutdent Method (Project)
+title: Task.OutlineOutdent method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.OutlineOutdent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineOutdent Method (Project)
+# Task.OutlineOutdent method (Project)
 
 Promotes a task in the outline.
 

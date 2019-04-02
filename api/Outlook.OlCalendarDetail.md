@@ -1,5 +1,5 @@
 ---
-title: OlCalendarDetail Enumeration (Outlook)
+title: OlCalendarDetail enumeration (Outlook)
 keywords: vbaol11.chm3118
 f1_keywords:
 - vbaol11.chm3118
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlCalendarDetail Enumeration (Outlook)
+# OlCalendarDetail enumeration (Outlook)
 
 Indicates the level of detail for calendar items that will be exported to an iCalendar (.ics) file. 
 

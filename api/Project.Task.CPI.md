@@ -1,5 +1,5 @@
 ---
-title: Task.CPI Property (Project)
+title: Task.CPI property (Project)
 keywords: vbapj.chm131592
 f1_keywords:
 - vbapj.chm131592
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.CPI Property (Project)
+# Task.CPI property (Project)
 
 Gets the cost performance index of a specified task. Read-only  **Double**.
 

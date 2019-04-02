@@ -1,5 +1,5 @@
 ---
-title: Filter.ShowRelatedSummaryRows Property (Project)
+title: Filter.ShowRelatedSummaryRows property (Project)
 keywords: vbapj.chm132626
 f1_keywords:
 - vbapj.chm132626
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Filter.ShowRelatedSummaryRows Property (Project)
+# Filter.ShowRelatedSummaryRows property (Project)
 
  **True** if related summary rows are displayed for the filter. Read/write **Boolean**.
 

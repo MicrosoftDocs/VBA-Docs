@@ -1,5 +1,5 @@
 ---
-title: Application.SelectAll Method (Project)
+title: Application.SelectAll method (Project)
 keywords: vbapj.chm216
 f1_keywords:
 - vbapj.chm216
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectAll Method (Project)
+# Application.SelectAll method (Project)
 
 Selects all cells on the active sheet.
 

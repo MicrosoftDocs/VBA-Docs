@@ -1,5 +1,5 @@
 ---
-title: Calendar.Exceptions Property (Project)
+title: Calendar.Exceptions property (Project)
 keywords: vbapj.chm132235
 f1_keywords:
 - vbapj.chm132235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Calendar.Exceptions Property (Project)
+# Calendar.Exceptions property (Project)
 
 Gets the  **[Exceptions](Project.exceptions.md)** collection object. Read-only **Exceptions**.
 

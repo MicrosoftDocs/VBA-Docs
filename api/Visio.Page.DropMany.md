@@ -1,5 +1,5 @@
 ---
-title: Page.DropMany Method (Visio)
+title: Page.DropMany method (Visio)
 keywords: vis_sdr.chm10916240
 f1_keywords:
 - vis_sdr.chm10916240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.DropMany Method (Visio)
+# Page.DropMany method (Visio)
 
 Creates one or more new  **Shape** objects on a page. It returns an array of the IDs of the **Shape** objects it produces.
 

@@ -1,5 +1,5 @@
 ---
-title: Validation.Validate Method (Visio)
+title: Validation.Validate method (Visio)
 keywords: vis_sdr.chm18062725
 f1_keywords:
 - vis_sdr.chm18062725
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Validation.Validate Method (Visio)
+# Validation.Validate method (Visio)
 
 Validates the specified validation rule set.
 

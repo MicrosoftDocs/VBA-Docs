@@ -1,5 +1,5 @@
 ---
-title: Tables.Add Method (Project)
+title: Tables.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Tables.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Tables.Add Method (Project)
+# Tables.Add method (Project)
 
 Adds a  **Table** object to a **Tables** collection.
 

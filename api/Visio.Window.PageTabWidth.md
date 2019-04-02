@@ -1,5 +1,5 @@
 ---
-title: Window.PageTabWidth Property (Visio)
+title: Window.PageTabWidth property (Visio)
 keywords: vis_sdr.chm11650750
 f1_keywords:
 - vis_sdr.chm11650750
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.PageTabWidth Property (Visio)
+# Window.PageTabWidth property (Visio)
 
 Gets or sets the width of the page tab control in a drawing window. Read/write.
 

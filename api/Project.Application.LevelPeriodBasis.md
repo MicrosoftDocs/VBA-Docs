@@ -1,5 +1,5 @@
 ---
-title: Application.LevelPeriodBasis Property (Project)
+title: Application.LevelPeriodBasis property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.LevelPeriodBasis
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelPeriodBasis Property (Project)
+# Application.LevelPeriodBasis property (Project)
 
 Gets or sets the period by which resources are checked for overallocations. Read/write  **PjLevelPeriodBasis**.
 

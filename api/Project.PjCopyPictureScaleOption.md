@@ -1,5 +1,5 @@
 ---
-title: PjCopyPictureScaleOption Enumeration (Project)
+title: PjCopyPictureScaleOption enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCopyPictureScaleOption
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCopyPictureScaleOption Enumeration (Project)
+# PjCopyPictureScaleOption enumeration (Project)
 
 Contains constants that specify how to treat a picture of the active view if it is larger than  **MaxImageWidth** by **MaxImageHeight**.
 

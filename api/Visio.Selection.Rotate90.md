@@ -1,5 +1,5 @@
 ---
-title: Selection.Rotate90 Method (Visio)
+title: Selection.Rotate90 method (Visio)
 keywords: vis_sdr.chm11116485
 f1_keywords:
 - vis_sdr.chm11116485
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Rotate90 Method (Visio)
+# Selection.Rotate90 method (Visio)
 
 Rotates an object 90 degrees counterclockwise.
 

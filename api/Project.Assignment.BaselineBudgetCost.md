@@ -1,5 +1,5 @@
 ---
-title: Assignment.BaselineBudgetCost Property (Project)
+title: Assignment.BaselineBudgetCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.BaselineBudgetCost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.BaselineBudgetCost Property (Project)
+# Assignment.BaselineBudgetCost property (Project)
 
 Gets or sets the baseline budget cost for an  **Assignment**. Read/write **Variant**.
 

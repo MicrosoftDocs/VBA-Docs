@@ -1,5 +1,5 @@
 ---
-title: Page.AutoSizeDrawing Method (Visio)
+title: Page.AutoSizeDrawing method (Visio)
 keywords: vis_sdr.chm10962185
 f1_keywords:
 - vis_sdr.chm10962185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.AutoSizeDrawing Method (Visio)
+# Page.AutoSizeDrawing method (Visio)
 
 Automatically resizes the drawing page by adding as many printer-paper-sized tiles as necessary to fit all shapes in the drawing onto the page.
 

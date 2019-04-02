@@ -1,5 +1,5 @@
 ---
-title: Application.Find Method (Project)
+title: Application.Find method (Project)
 keywords: vbapj.chm215
 f1_keywords:
 - vbapj.chm215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Find Method (Project)
+# Application.Find method (Project)
 
 Searches for an unfiltered value; returns  **True** if the value is found.
 

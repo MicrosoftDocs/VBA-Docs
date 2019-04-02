@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ProcessID Property (Visio)
+title: InvisibleApp.ProcessID property (Visio)
 keywords: vis_sdr.chm17514145
 f1_keywords:
 - vis_sdr.chm17514145
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ProcessID Property (Visio)
+# InvisibleApp.ProcessID property (Visio)
 
 Returns the unique identity of the current Microsoft Visio process. Read-only.
 

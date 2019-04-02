@@ -1,5 +1,5 @@
 ---
-title: Application.FilterEdit Method (Project)
+title: Application.FilterEdit method (Project)
 keywords: vbapj.chm503
 f1_keywords:
 - vbapj.chm503
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilterEdit Method (Project)
+# Application.FilterEdit method (Project)
 
 Creates, edits, or copies a filter.
 

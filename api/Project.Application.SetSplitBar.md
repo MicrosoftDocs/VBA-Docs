@@ -1,5 +1,5 @@
 ---
-title: Application.SetSplitBar Method (Project)
+title: Application.SetSplitBar method (Project)
 keywords: vbapj.chm31
 f1_keywords:
 - vbapj.chm31
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetSplitBar Method (Project)
+# Application.SetSplitBar method (Project)
 
 Positions the vertical split bar in a sheet view to display the specified number of columns.
 

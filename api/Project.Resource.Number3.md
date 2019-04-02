@@ -1,5 +1,5 @@
 ---
-title: Resource.Number3 Property (Project)
+title: Resource.Number3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Number3
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Number3 Property (Project)
+# Resource.Number3 property (Project)
 
 Gets or sets a Number local custom field for a resource. Read/write  **Double**.
 

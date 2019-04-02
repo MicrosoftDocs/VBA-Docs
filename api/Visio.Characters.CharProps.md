@@ -1,5 +1,5 @@
 ---
-title: Characters.CharProps Property (Visio)
+title: Characters.CharProps property (Visio)
 keywords: vis_sdr.chm10213225
 f1_keywords:
 - vis_sdr.chm10213225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.CharProps Property (Visio)
+# Characters.CharProps property (Visio)
 
 Sets a character property of a  **Characters** object to a new value. Write-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.VisualBoundingBox Method (Visio)
+title: Shape.VisualBoundingBox method (Visio)
 ms.assetid: 6a7d4622-8ba5-c598-4aaa-c6297cb4c008
 ms.date: 06/08/2017
 ms.prod: visio
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.VisualBoundingBox Method (Visio)
+# Shape.VisualBoundingBox method (Visio)
 
 Returns the bounding rectangle of the given shape. Introduced in Office 2016.
 
@@ -25,7 +25,7 @@ _expression_. `VisualBoundingBox`( _Flags_,  _Flags_,  _lpr8Left_,  _lpr8Bottom_
 |||||
 |:-----|:-----|:-----|:-----|
 |Name|Optional/Requires|Data Type|Description|
-| _Flags_|Required|INT16|A [VisBoundingBoxArgs Enumeration (Visio)](./Visio.visboundingboxargs.md)s constant that describe the returned rectangle.|
+| _Flags_|Required|INT16|A [VisBoundingBoxArgs enumeration (Visio)](./Visio.visboundingboxargs.md)s constant that describe the returned rectangle.|
 | _lpr8Left_|Required|DOUBLE|Left position values for the virtual bounding box.|
 | _lpr8Bottom_|Required|DOUBLE|Bottom position values for the virtual bounding box.|
 | _lpr8Right_|Required|DOUBLE|Right position values for the virtual bounding box.|
@@ -39,6 +39,6 @@ _expression_. `VisualBoundingBox`( _Flags_,  _Flags_,  _lpr8Left_,  _lpr8Bottom_
 ## See also
 
 
-[VisBoundingBoxArgs Enumeration (Visio)](./Visio.visboundingboxargs.md)
+[VisBoundingBoxArgs enumeration (Visio)](./Visio.visboundingboxargs.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

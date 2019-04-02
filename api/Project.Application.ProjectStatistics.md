@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectStatistics Method (Project)
+title: Application.ProjectStatistics method (Project)
 keywords: vbapj.chm602
 f1_keywords:
 - vbapj.chm602
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectStatistics Method (Project)
+# Application.ProjectStatistics method (Project)
 
 Displays the  **Project Statistics** dialog box.
 

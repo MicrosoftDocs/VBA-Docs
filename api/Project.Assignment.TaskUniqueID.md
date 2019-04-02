@@ -1,5 +1,5 @@
 ---
-title: Assignment.TaskUniqueID Property (Project)
+title: Assignment.TaskUniqueID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.TaskUniqueID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.TaskUniqueID Property (Project)
+# Assignment.TaskUniqueID property (Project)
 
 Gets or sets the unique identification number of the task in the assignment. Read/write  **Long**.
 

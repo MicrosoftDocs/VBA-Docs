@@ -1,5 +1,5 @@
 ---
-title: Application.ObjectVerb Method (Project)
+title: Application.ObjectVerb method (Project)
 keywords: vbapj.chm237
 f1_keywords:
 - vbapj.chm237
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ObjectVerb Method (Project)
+# Application.ObjectVerb method (Project)
 
 Instructs the active object to perform an action.
 

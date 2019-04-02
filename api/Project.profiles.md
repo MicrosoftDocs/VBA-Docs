@@ -1,5 +1,5 @@
 ---
-title: Profiles Object (Project)
+title: Profiles object (Project)
 ms.prod: project-server
 ms.assetid: 0e25c828-6482-4d68-f482-ae72c919f338
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Profiles Object (Project)
+# Profiles object (Project)
 
 Contains a collection of  **[Profile](Project.Profile.md)** objects, which are local or Project Server accounts that are defined in Project Professional.
  

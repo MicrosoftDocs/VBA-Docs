@@ -1,5 +1,5 @@
 ---
-title: Profile.Type Property (Project)
+title: Profile.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profile.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Profile.Type Property (Project)
+# Profile.Type property (Project)
 
  Gets a value that specifies whether the account profile being used is a local profile or for Project Server. Read-only **PjProfileType**.
 

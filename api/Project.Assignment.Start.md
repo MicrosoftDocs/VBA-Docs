@@ -1,5 +1,5 @@
 ---
-title: Assignment.Start Property (Project)
+title: Assignment.Start property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Start
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Start Property (Project)
+# Assignment.Start property (Project)
 
 Gets or sets the start date of the assignment. Read/write  **Variant**.
 

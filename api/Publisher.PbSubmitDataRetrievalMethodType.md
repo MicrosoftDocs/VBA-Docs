@@ -1,5 +1,5 @@
 ---
-title: PbSubmitDataRetrievalMethodType Enumeration (Publisher)
+title: PbSubmitDataRetrievalMethodType enumeration (Publisher)
 keywords: vbapb10.chm65591
 f1_keywords:
 - vbapb10.chm65591
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbSubmitDataRetrievalMethodType Enumeration (Publisher)
+# PbSubmitDataRetrievalMethodType enumeration (Publisher)
 
 Represents the way data from a Web form is processed. 
 

@@ -1,5 +1,5 @@
 ---
-title: VisGlueSettings Enumeration (Visio)
+title: VisGlueSettings enumeration (Visio)
 keywords: vis_sdr.chm70330
 f1_keywords:
 - vis_sdr.chm70330
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisGlueSettings Enumeration (Visio)
+# VisGlueSettings enumeration (Visio)
 
 Flags passed to or returned by the  **Document.GlueSettings** property.
 

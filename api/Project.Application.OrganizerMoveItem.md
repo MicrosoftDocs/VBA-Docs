@@ -1,5 +1,5 @@
 ---
-title: Application.OrganizerMoveItem Method (Project)
+title: Application.OrganizerMoveItem method (Project)
 keywords: vbapj.chm127
 f1_keywords:
 - vbapj.chm127
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OrganizerMoveItem Method (Project)
+# Application.OrganizerMoveItem method (Project)
 
 Moves an item in the Organizer.
 

@@ -1,5 +1,5 @@
 ---
-title: ValidationIssue Object (Visio)
+title: ValidationIssue object (Visio)
 keywords: vis_sdr.chm61090
 f1_keywords:
 - vis_sdr.chm61090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssue Object (Visio)
+# ValidationIssue object (Visio)
 
 Represents a single validation issue in the  **[ValidationIssues](Visio.ValidationIssues.md)** collection of a document.
 

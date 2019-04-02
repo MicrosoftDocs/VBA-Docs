@@ -1,5 +1,5 @@
 ---
-title: Resource.Finish3 Property (Project)
+title: Resource.Finish3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Finish3
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Finish3 Property (Project)
+# Resource.Finish3 property (Project)
 
 Gets or sets the local Finish custom field of the resource. Read/write  **Variant**.
 

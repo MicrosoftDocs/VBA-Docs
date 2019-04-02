@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowActivate Event (Word)
+title: Application.ProtectedViewWindowActivate event (Word)
 ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindowActivate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowActivate Event (Word)
+# Application.ProtectedViewWindowActivate event (Word)
 
 Occurs when any protected view window is activated.
 

@@ -1,5 +1,5 @@
 ---
-title: PbLinkedFileStatus Enumeration (Publisher)
+title: PbLinkedFileStatus enumeration (Publisher)
 keywords: vbapb10.chm65582
 f1_keywords:
 - vbapb10.chm65582
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbLinkedFileStatus Enumeration (Publisher)
+# PbLinkedFileStatus enumeration (Publisher)
 
 Indicates the status of the file linked to the specified picture. 
 

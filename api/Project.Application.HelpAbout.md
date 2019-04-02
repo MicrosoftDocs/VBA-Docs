@@ -1,5 +1,5 @@
 ---
-title: Application.HelpAbout Method (Project)
+title: Application.HelpAbout method (Project)
 keywords: vbapj.chm806
 f1_keywords:
 - vbapj.chm806
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.HelpAbout Method (Project)
+# Application.HelpAbout method (Project)
 
 Displays the  **About Microsoft Project** dialog box, which lists version, copyright, and license information.
 

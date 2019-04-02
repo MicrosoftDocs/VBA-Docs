@@ -1,5 +1,5 @@
 ---
-title: Document.ClearCustomToolbars Method (Visio)
+title: Document.ClearCustomToolbars method (Visio)
 keywords: vis_sdr.chm10516115
 f1_keywords:
 - vis_sdr.chm10516115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ClearCustomToolbars Method (Visio)
+# Document.ClearCustomToolbars method (Visio)
 
 Restores the built-in Microsoft Visio user interface.
 

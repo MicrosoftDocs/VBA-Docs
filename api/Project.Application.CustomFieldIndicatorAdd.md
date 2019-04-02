@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldIndicatorAdd Method (Project)
+title: Application.CustomFieldIndicatorAdd method (Project)
 keywords: vbapj.chm38
 f1_keywords:
 - vbapj.chm38
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldIndicatorAdd Method (Project)
+# Application.CustomFieldIndicatorAdd method (Project)
 
 Creates a test condition against the value of a custom field to determine which graphical indicator to display in place of the actual data.
 

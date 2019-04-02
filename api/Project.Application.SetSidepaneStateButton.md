@@ -1,5 +1,5 @@
 ---
-title: Application.SetSidepaneStateButton Method (Project)
+title: Application.SetSidepaneStateButton method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.SetSidepaneStateButton
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetSidepaneStateButton Method (Project)
+# Application.SetSidepaneStateButton method (Project)
 
 Sets the state of the  **Toggle** button in the Project Guide. Deprecated in Project.
 

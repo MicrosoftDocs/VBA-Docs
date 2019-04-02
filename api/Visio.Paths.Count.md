@@ -1,5 +1,5 @@
 ---
-title: Paths.Count Property (Visio)
+title: Paths.Count property (Visio)
 keywords: vis_sdr.chm15313330
 f1_keywords:
 - vis_sdr.chm15313330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Paths.Count Property (Visio)
+# Paths.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

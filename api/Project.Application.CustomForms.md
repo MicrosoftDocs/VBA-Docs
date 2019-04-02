@@ -1,5 +1,5 @@
 ---
-title: Application.CustomForms Method (Project)
+title: Application.CustomForms method (Project)
 keywords: vbapj.chm1003
 f1_keywords:
 - vbapj.chm1003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomForms Method (Project)
+# Application.CustomForms method (Project)
 
 Custom forms are not used in Project.
 

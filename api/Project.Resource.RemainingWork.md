@@ -1,5 +1,5 @@
 ---
-title: Resource.RemainingWork Property (Project)
+title: Resource.RemainingWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.RemainingWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.RemainingWork Property (Project)
+# Resource.RemainingWork property (Project)
 
 Gets or sets the remaining work (in minutes) for the resource. Read-only  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: VisCenterViewFlags Enumeration (Visio)
+title: VisCenterViewFlags enumeration (Visio)
 keywords: vis_sdr.chm70690
 f1_keywords:
 - vis_sdr.chm70690
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisCenterViewFlags Enumeration (Visio)
+# VisCenterViewFlags enumeration (Visio)
 
 Specifies constants that define the different ways to center the view; passed to the  **[Windows.CenterViewOnShape](Visio.Window.CenterViewOnShape.md)** method.
 

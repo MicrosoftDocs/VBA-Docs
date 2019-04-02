@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupMargins Method (Project)
+title: Application.FilePageSetupMargins method (Project)
 keywords: vbapj.chm2356
 f1_keywords:
 - vbapj.chm2356
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupMargins Method (Project)
+# Application.FilePageSetupMargins method (Project)
 
 Sets up margins for printing.
 

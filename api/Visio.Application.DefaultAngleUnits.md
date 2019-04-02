@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultAngleUnits Property (Visio)
+title: Application.DefaultAngleUnits property (Visio)
 keywords: vis_sdr.chm10051050
 f1_keywords:
 - vis_sdr.chm10051050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DefaultAngleUnits Property (Visio)
+# Application.DefaultAngleUnits property (Visio)
 
 Determines the default unit of measure for quantities that represent angles. Read/write.
 

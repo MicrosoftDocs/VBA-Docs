@@ -1,5 +1,5 @@
 ---
-title: Validation.Document Property (Visio)
+title: Validation.Document property (Visio)
 keywords: vis_sdr.chm18013430
 f1_keywords:
 - vis_sdr.chm18013430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Validation.Document Property (Visio)
+# Validation.Document property (Visio)
 
 Returns the  **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
 

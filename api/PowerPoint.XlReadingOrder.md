@@ -1,5 +1,5 @@
 ---
-title: XlReadingOrder Enumeration (PowerPoint)
+title: XlReadingOrder enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlReadingOrder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlReadingOrder Enumeration (PowerPoint)
+# XlReadingOrder enumeration (PowerPoint)
 
 Specifies the reading order for the specified object.
 

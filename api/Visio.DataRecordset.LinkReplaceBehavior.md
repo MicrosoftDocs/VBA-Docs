@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.LinkReplaceBehavior Property (Visio)
+title: DataRecordset.LinkReplaceBehavior property (Visio)
 keywords: vis_sdr.chm16460365
 f1_keywords:
 - vis_sdr.chm16460365
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.LinkReplaceBehavior Property (Visio)
+# DataRecordset.LinkReplaceBehavior property (Visio)
 
 Gets or sets how existing links between shapes and data rows are handled when methods that link shapes to data is called. Read/write.
 

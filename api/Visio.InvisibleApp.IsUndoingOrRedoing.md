@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.IsUndoingOrRedoing Property (Visio)
+title: InvisibleApp.IsUndoingOrRedoing property (Visio)
 keywords: vis_sdr.chm17513760
 f1_keywords:
 - vis_sdr.chm17513760
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.IsUndoingOrRedoing Property (Visio)
+# InvisibleApp.IsUndoingOrRedoing property (Visio)
 
 Determines whether the current event handler is being called as a result of an  **Undo** or **Redo** action in the application. Read-only.
 

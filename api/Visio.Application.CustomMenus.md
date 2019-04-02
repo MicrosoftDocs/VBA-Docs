@@ -1,5 +1,5 @@
 ---
-title: Application.CustomMenus Property (Visio)
+title: Application.CustomMenus property (Visio)
 keywords: vis_sdr.chm10013345
 f1_keywords:
 - vis_sdr.chm10013345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomMenus Property (Visio)
+# Application.CustomMenus property (Visio)
 
 Gets a  **UIObject** object that represents the current custom menus and accelerators of an **Application** object. Read-only.
 

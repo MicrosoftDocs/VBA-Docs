@@ -1,5 +1,5 @@
 ---
-title: Filters.Count Property (Project)
+title: Filters.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Filters.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Filters.Count Property (Project)
+# Filters.Count property (Project)
 
 Gets the number of items in the  **Filters** collection. Read-only **Long**.
 

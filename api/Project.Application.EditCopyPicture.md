@@ -1,5 +1,5 @@
 ---
-title: Application.EditCopyPicture Method (Project)
+title: Application.EditCopyPicture method (Project)
 keywords: vbapj.chm204
 f1_keywords:
 - vbapj.chm204
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EditCopyPicture Method (Project)
+# Application.EditCopyPicture method (Project)
 
 Copies the active view as a picture or an OLE object, or exports the active view to a GIF image file.
 

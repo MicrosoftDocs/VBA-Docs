@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.Document Property (Visio)
+title: DataRecordsets.Document property (Visio)
 ms.prod: visio
 api_name:
 - Visio.DataRecordsets.Document
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.Document Property (Visio)
+# DataRecordsets.Document property (Visio)
 
 Gets the  **Document** object that contains the **DataRecordsets** collection. Read-only.
 

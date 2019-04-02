@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineShowAllTasks Method (Project)
+title: Task.OutlineShowAllTasks method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.OutlineShowAllTasks
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineShowAllTasks Method (Project)
+# Task.OutlineShowAllTasks method (Project)
 
 Expands all summary tasks in the project.
 

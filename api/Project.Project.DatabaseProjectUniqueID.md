@@ -1,5 +1,5 @@
 ---
-title: Project.DatabaseProjectUniqueID Property (Project)
+title: Project.DatabaseProjectUniqueID property (Project)
 keywords: vbapj.chm131115
 f1_keywords:
 - vbapj.chm131115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DatabaseProjectUniqueID Property (Project)
+# Project.DatabaseProjectUniqueID property (Project)
 
 Gets the project unique ID for a project stored in a database. Read/write  **Variant**.
 

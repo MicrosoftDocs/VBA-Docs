@@ -1,5 +1,5 @@
 ---
-title: Application.LocaleID Method (Project)
+title: Application.LocaleID method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.LocaleID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LocaleID Method (Project)
+# Application.LocaleID method (Project)
 
 Returns the locale ID of the currently installed version of Project. .
 

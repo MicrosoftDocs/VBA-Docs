@@ -1,5 +1,5 @@
 ---
-title: Application.MakeFieldEnterprise Method (Project)
+title: Application.MakeFieldEnterprise method (Project)
 keywords: vbapj.chm2275
 f1_keywords:
 - vbapj.chm2275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MakeFieldEnterprise Method (Project)
+# Application.MakeFieldEnterprise method (Project)
 
 Adds a local custom field to Project Server as an enterprise custom field.
 

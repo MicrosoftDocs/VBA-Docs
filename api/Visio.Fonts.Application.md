@@ -1,5 +1,5 @@
 ---
-title: Fonts.Application Property (Visio)
+title: Fonts.Application property (Visio)
 keywords: vis_sdr.chm12113090
 f1_keywords:
 - vis_sdr.chm12113090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Application Property (Visio)
+# Fonts.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Characters.End Property (Visio)
+title: Characters.End property (Visio)
 keywords: vis_sdr.chm10213460
 f1_keywords:
 - vis_sdr.chm10213460
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Characters.End Property (Visio)
+# Characters.End property (Visio)
 
 Returns or sets the ending index of the indicated  **Characters** object representing a range of text in a shape. Read/write.
 

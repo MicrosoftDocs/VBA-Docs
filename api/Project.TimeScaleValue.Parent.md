@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValue.Parent Property (Project)
+title: TimeScaleValue.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValue.Parent Property (Project)
+# TimeScaleValue.Parent property (Project)
 
 Gets the parent of the  **TimeScaleValue** object. Read-only **Object**.
 

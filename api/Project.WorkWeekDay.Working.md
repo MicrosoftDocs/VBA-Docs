@@ -1,5 +1,5 @@
 ---
-title: WorkWeekDay.Working Property (Project)
+title: WorkWeekDay.Working property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeekDay.Working
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeekDay.Working Property (Project)
+# WorkWeekDay.Working property (Project)
 
  **True** if the **WorkWeekDay** is a working day. Read/write **Boolean**.
 

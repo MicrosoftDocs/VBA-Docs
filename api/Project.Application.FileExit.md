@@ -1,5 +1,5 @@
 ---
-title: Application.FileExit Method (Project)
+title: Application.FileExit method (Project)
 keywords: vbapj.chm114
 f1_keywords:
 - vbapj.chm114
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileExit Method (Project)
+# Application.FileExit method (Project)
 
 Quits Project.
 

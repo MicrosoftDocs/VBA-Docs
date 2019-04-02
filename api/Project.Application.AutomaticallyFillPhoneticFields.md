@@ -1,5 +1,5 @@
 ---
-title: Application.AutomaticallyFillPhoneticFields Property (Project)
+title: Application.AutomaticallyFillPhoneticFields property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.AutomaticallyFillPhoneticFields
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AutomaticallyFillPhoneticFields Property (Project)
+# Application.AutomaticallyFillPhoneticFields property (Project)
 
  **True** if phonetic information is automatically provided for resource names and custom fields. Read/write **Boolean**.
 

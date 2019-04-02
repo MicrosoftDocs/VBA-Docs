@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ApplyBackgroundToDocument Property (Visio)
+title: ApplicationSettings.ApplyBackgroundToDocument property (Visio)
 keywords: vis_sdr.chm16262500
 f1_keywords:
 - vis_sdr.chm16262500
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ApplyBackgroundToDocument Property (Visio)
+# ApplicationSettings.ApplyBackgroundToDocument property (Visio)
 
 Determines whether the selected background or border is applied to all pages in the document (**True**) or only to the current page (**False**). Read/write.
 

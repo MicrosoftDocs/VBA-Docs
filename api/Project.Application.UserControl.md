@@ -1,5 +1,5 @@
 ---
-title: Application.UserControl Property (Project)
+title: Application.UserControl property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.UserControl
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UserControl Property (Project)
+# Application.UserControl property (Project)
 
  **True** if the user directly starts the Project application. Read/write **Boolean**.
 

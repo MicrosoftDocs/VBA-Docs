@@ -1,5 +1,5 @@
 ---
-title: PjFieldTypes Enumeration (Project)
+title: PjFieldTypes enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjFieldTypes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjFieldTypes Enumeration (Project)
+# PjFieldTypes enumeration (Project)
 
 Contains constants that specify the type of custom field.
 

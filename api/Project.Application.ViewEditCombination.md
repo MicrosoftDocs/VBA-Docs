@@ -1,5 +1,5 @@
 ---
-title: Application.ViewEditCombination Method (Project)
+title: Application.ViewEditCombination method (Project)
 keywords: vbapj.chm304
 f1_keywords:
 - vbapj.chm304
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewEditCombination Method (Project)
+# Application.ViewEditCombination method (Project)
 
 Creates, edits, or copies a combination view.
 

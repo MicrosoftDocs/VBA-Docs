@@ -1,5 +1,5 @@
 ---
-title: Page.AutoSize Property (Visio)
+title: Page.AutoSize property (Visio)
 keywords: vis_sdr.chm10962450
 f1_keywords:
 - vis_sdr.chm10962450
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Page.AutoSize Property (Visio)
+# Page.AutoSize property (Visio)
 
 Determines whether Microsoft Visio automatically resizes the drawing page by adding printer-paper-sized sheets, as necessary, to fit the drawing's contents. Read/write.
 

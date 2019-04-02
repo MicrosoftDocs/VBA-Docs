@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ScaleWidth Method (Project)
+title: ShapeRange.ScaleWidth method (Project)
 ms.prod: project-server
 ms.assetid: 6087bb9c-c111-7f2e-95d9-334af18fe37d
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ScaleWidth Method (Project)
+# ShapeRange.ScaleWidth method (Project)
 Scales the width of the range of shapes by a specified factor.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: ValidationIssue.Delete Method (Visio)
+title: ValidationIssue.Delete method (Visio)
 keywords: vis_sdr.chm18616165
 f1_keywords:
 - vis_sdr.chm18616165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssue.Delete Method (Visio)
+# ValidationIssue.Delete method (Visio)
 
 Deletes the  **[ValidationIssue](Visio.ValidationIssue.md)** object from the document.
 

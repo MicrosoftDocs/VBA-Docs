@@ -1,5 +1,5 @@
 ---
-title: Selection.TextStyle Property (Visio)
+title: Selection.TextStyle property (Visio)
 keywords: vis_sdr.chm11114530
 f1_keywords:
 - vis_sdr.chm11114530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.TextStyle Property (Visio)
+# Selection.TextStyle property (Visio)
 
 Gets or sets the text style for an object. Read/write.
 

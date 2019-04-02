@@ -1,5 +1,5 @@
 ---
-title: MenuItem.TypeSpecific2 Property (Visio)
+title: MenuItem.TypeSpecific2 property (Visio)
 keywords: vis_sdr.chm12914605
 f1_keywords:
 - vis_sdr.chm12914605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.TypeSpecific2 Property (Visio)
+# MenuItem.TypeSpecific2 property (Visio)
 
 Gets or sets the type of a menu item. Read/write.
 

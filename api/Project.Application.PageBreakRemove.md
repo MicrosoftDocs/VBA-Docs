@@ -1,5 +1,5 @@
 ---
-title: Application.PageBreakRemove Method (Project)
+title: Application.PageBreakRemove method (Project)
 keywords: vbapj.chm935
 f1_keywords:
 - vbapj.chm935
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PageBreakRemove Method (Project)
+# Application.PageBreakRemove method (Project)
 
 Removes a manual page break from the active row.
 

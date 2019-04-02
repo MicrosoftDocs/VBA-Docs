@@ -1,5 +1,5 @@
 ---
-title: Exception.Month Property (Project)
+title: Exception.Month property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Month
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.Month Property (Project)
+# Exception.Month property (Project)
 
 Gets or sets the month for a yearly type of exception. Read/write  **PjMonth**.
 

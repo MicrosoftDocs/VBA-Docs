@@ -1,5 +1,5 @@
 ---
-title: ValidationIssues.Count Property (Visio)
+title: ValidationIssues.Count property (Visio)
 keywords: vis_sdr.chm18513330
 f1_keywords:
 - vis_sdr.chm18513330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssues.Count Property (Visio)
+# ValidationIssues.Count property (Visio)
 
 Returns the number of  **[ValidationIssue](Visio.ValidationIssue.md)** objects in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: VisListAlignment Enumeration (Visio)
+title: VisListAlignment enumeration (Visio)
 keywords: vis_sdr.chm70600
 f1_keywords:
 - vis_sdr.chm70600
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisListAlignment Enumeration (Visio)
+# VisListAlignment enumeration (Visio)
 
 Specifies constants that define different ways to align shapes; passed to and returned by the  **[ContainerProperties.ListAlignment](Visio.ContainerProperties.ListAlignment.md)** property.
 

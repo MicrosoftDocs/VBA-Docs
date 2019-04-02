@@ -1,5 +1,5 @@
 ---
-title: Style.CellsSRC Property (Visio)
+title: Style.CellsSRC property (Visio)
 keywords: vis_sdr.chm11413205
 f1_keywords:
 - vis_sdr.chm11413205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.CellsSRC Property (Visio)
+# Style.CellsSRC property (Visio)
 
 Returns a  **Cell** object that represents a ShapeSheet cell identified by section, row, and column indices. Read-only.
 

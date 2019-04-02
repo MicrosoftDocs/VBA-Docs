@@ -1,5 +1,5 @@
 ---
-title: Application.PathSeparator Property (Project)
+title: Application.PathSeparator property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.PathSeparator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PathSeparator Property (Project)
+# Application.PathSeparator property (Project)
 
 Gets the separator character for the file system path. Read/write  **String**.
 

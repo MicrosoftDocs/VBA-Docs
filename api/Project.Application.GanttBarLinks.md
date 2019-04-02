@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarLinks Method (Project)
+title: Application.GanttBarLinks method (Project)
 keywords: vbapj.chm2071
 f1_keywords:
 - vbapj.chm2071
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarLinks Method (Project)
+# Application.GanttBarLinks method (Project)
 
 Shows or hides task links on the Gantt Chart.
 

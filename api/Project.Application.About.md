@@ -1,5 +1,5 @@
 ---
-title: Application.About Method (Project)
+title: Application.About method (Project)
 keywords: vbapj.chm2376
 f1_keywords:
 - vbapj.chm2376
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.About Method (Project)
+# Application.About method (Project)
 
 Displays the  **About Microsoft Project** dialog box, which lists version, copyright, and license information about Project.
 

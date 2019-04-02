@@ -1,5 +1,5 @@
 ---
-title: LookupTable.AddChild Method (Project)
+title: LookupTable.AddChild method (Project)
 keywords: vbapj.chm132387
 f1_keywords:
 - vbapj.chm132387
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTable.AddChild Method (Project)
+# LookupTable.AddChild method (Project)
 
 Adds a lookup table entry to a  **[LookupTable](Project.lookuptable.md)** collection. Returns a reference to the **[LookupTableEntry](Project.LookupTableEntry.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.HyperlinkAddress Property (Project)
+title: Resource.HyperlinkAddress property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.HyperlinkAddress
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.HyperlinkAddress Property (Project)
+# Resource.HyperlinkAddress property (Project)
 
 Gets or sets the URL or UNC path of a document. Read/write **String**.
 

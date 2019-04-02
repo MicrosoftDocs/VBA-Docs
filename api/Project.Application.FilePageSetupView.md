@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupView Method (Project)
+title: Application.FilePageSetupView method (Project)
 keywords: vbapj.chm2360
 f1_keywords:
 - vbapj.chm2360
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupView Method (Project)
+# Application.FilePageSetupView method (Project)
 
 Sets up view-specific options for printing.
 

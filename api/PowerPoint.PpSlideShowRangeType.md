@@ -1,5 +1,5 @@
 ---
-title: PpSlideShowRangeType Enumeration (PowerPoint)
+title: PpSlideShowRangeType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideShowRangeType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpSlideShowRangeType Enumeration (PowerPoint)
+# PpSlideShowRangeType enumeration (PowerPoint)
 
 Constants that specify the type of the slideshow range, passed to and returned by the  **RangeType** property of the **SlideShowSettings** object.
 

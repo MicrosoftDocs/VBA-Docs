@@ -1,5 +1,5 @@
 ---
-title: Application.DayLeadingZero Property (Project)
+title: Application.DayLeadingZero property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DayLeadingZero
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DayLeadingZero Property (Project)
+# Application.DayLeadingZero property (Project)
 
  **True** if Project displays zeros before single-digit days in dates. Read-only **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: PbTextAutoFitType Enumeration (Publisher)
+title: PbTextAutoFitType enumeration (Publisher)
 keywords: vbapb10.chm65549
 f1_keywords:
 - vbapb10.chm65549
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbTextAutoFitType Enumeration (Publisher)
+# PbTextAutoFitType enumeration (Publisher)
 
 Represents how Microsoft Publisher automatically adjusts the text font size and the TextFrame objects size for best viewing. 
 

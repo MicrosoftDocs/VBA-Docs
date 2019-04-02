@@ -1,5 +1,5 @@
 ---
-title: RelatedShapePairEvent.ContainingPageID Property (Visio)
+title: RelatedShapePairEvent.ContainingPageID property (Visio)
 keywords: vis_sdr.chm17751695
 f1_keywords:
 - vis_sdr.chm17751695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RelatedShapePairEvent.ContainingPageID Property (Visio)
+# RelatedShapePairEvent.ContainingPageID property (Visio)
 
 Returns the identifier of the  **[Page](Visio.Page.md)** object that is associated with the **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)** object. Read-only.
 

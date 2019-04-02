@@ -1,5 +1,5 @@
 ---
-title: Application.GetPreviewEnabled Method (Visio)
+title: Application.GetPreviewEnabled method (Visio)
 keywords: vis_sdr.chm10062100
 f1_keywords:
 - vis_sdr.chm10062100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GetPreviewEnabled Method (Visio)
+# Application.GetPreviewEnabled method (Visio)
 
 Returns a value that indicates whether preview is enabled for the specified gallery in the Microsoft Visio user interface.
 

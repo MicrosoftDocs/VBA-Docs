@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTaskCell Method (Project)
+title: Application.SelectTaskCell method (Project)
 keywords: vbapj.chm2068
 f1_keywords:
 - vbapj.chm2068
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTaskCell Method (Project)
+# Application.SelectTaskCell method (Project)
 
 Selects a cell containing task information.
 

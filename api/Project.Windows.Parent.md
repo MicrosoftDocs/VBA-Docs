@@ -1,5 +1,5 @@
 ---
-title: Windows.Parent Property (Project)
+title: Windows.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Windows.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.Parent Property (Project)
+# Windows.Parent property (Project)
 
 Gets the parent of the  **Windows** object. Read-only **Object**.
 

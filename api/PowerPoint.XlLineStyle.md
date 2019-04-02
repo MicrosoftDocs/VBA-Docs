@@ -1,5 +1,5 @@
 ---
-title: XlLineStyle Enumeration (PowerPoint)
+title: XlLineStyle enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlLineStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlLineStyle Enumeration (PowerPoint)
+# XlLineStyle enumeration (PowerPoint)
 
 Specifies the line style for the border.
 

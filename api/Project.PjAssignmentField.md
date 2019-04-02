@@ -1,5 +1,5 @@
 ---
-title: PjAssignmentField Enumeration (Project)
+title: PjAssignmentField enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAssignmentField
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAssignmentField Enumeration (Project)
+# PjAssignmentField enumeration (Project)
 
 Contains constants that specify an assignment field in the Project database. For more information about working with fields in Project, see the "Fields reference overview" topic in Project Help.
 

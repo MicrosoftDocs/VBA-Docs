@@ -1,5 +1,5 @@
 ---
-title: Cell.Column Property (Visio)
+title: Cell.Column property (Visio)
 keywords: vis_sdr.chm10113275
 f1_keywords:
 - vis_sdr.chm10113275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Column Property (Visio)
+# Cell.Column property (Visio)
 
 Returns the column index of a cell. Read-only.
 

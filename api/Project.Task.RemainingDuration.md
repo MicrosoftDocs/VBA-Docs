@@ -1,5 +1,5 @@
 ---
-title: Task.RemainingDuration Property (Project)
+title: Task.RemainingDuration property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.RemainingDuration
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.RemainingDuration Property (Project)
+# Task.RemainingDuration property (Project)
 
 Gets or sets the remaining duration (in minutes) of the task. Read-only for summary tasks. Read/write  **Variant**.
 

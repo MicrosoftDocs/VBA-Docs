@@ -1,5 +1,5 @@
 ---
-title: Task.FreeSlack Property (Project)
+title: Task.FreeSlack property (Project)
 keywords: vbapj.chm132289
 f1_keywords:
 - vbapj.chm132289
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.FreeSlack Property (Project)
+# Task.FreeSlack property (Project)
 
 Gets the free slack for a task in minutes. Read-only  **Variant**.
 

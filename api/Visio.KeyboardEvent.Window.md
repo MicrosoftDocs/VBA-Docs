@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.Window Property (Visio)
+title: KeyboardEvent.Window property (Visio)
 keywords: vis_sdr.chm17051480
 f1_keywords:
 - vis_sdr.chm17051480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent.Window Property (Visio)
+# KeyboardEvent.Window property (Visio)
 
 Returns the window associated with a  **KeyboardEvent** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.UpdateProjOnSave Property (Project)
+title: Project.UpdateProjOnSave property (Project)
 keywords: vbapj.chm132776
 f1_keywords:
 - vbapj.chm132776
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.UpdateProjOnSave Property (Project)
+# Project.UpdateProjOnSave property (Project)
 
  **True** if Project updates the project schedule when saving a file. Obsolete in Project. Read-only **Boolean**.
 

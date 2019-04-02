@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarBarStylesEditEx Method (Project)
+title: Application.CalendarBarStylesEditEx method (Project)
 keywords: vbapj.chm2146
 f1_keywords:
 - vbapj.chm2146
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarBarStylesEditEx Method (Project)
+# Application.CalendarBarStylesEditEx method (Project)
 
 Changes the style of the specified type of bar in the Calendar view, where  _Color_ can be a hexadecimal value.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.NewTasksEstimated Property (Project)
+title: Application.NewTasksEstimated property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.NewTasksEstimated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.NewTasksEstimated Property (Project)
+# Application.NewTasksEstimated property (Project)
 
  **True** if new tasks in open projects have estimated durations. Read/write **Boolean**.
 

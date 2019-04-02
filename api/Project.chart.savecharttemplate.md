@@ -1,5 +1,5 @@
 ---
-title: Chart.SaveChartTemplate Method (Project)
+title: Chart.SaveChartTemplate method (Project)
 ms.prod: project-server
 ms.assetid: 496eb522-d758-ea4c-1cd9-4884c3b44189
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.SaveChartTemplate Method (Project)
+# Chart.SaveChartTemplate method (Project)
 Saves a custom chart template to the list of available chart templates or to a file.
 
 ## Syntax

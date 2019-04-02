@@ -1,5 +1,5 @@
 ---
-title: PjDocExportType Enumeration (Project)
+title: PjDocExportType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDocExportType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjDocExportType Enumeration (Project)
+# PjDocExportType enumeration (Project)
 
 Contains constants that specify the type of document export.
 

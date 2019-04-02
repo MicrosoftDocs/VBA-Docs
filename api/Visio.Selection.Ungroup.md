@@ -1,5 +1,5 @@
 ---
-title: Selection.Ungroup Method (Visio)
+title: Selection.Ungroup method (Visio)
 keywords: vis_sdr.chm11116625
 f1_keywords:
 - vis_sdr.chm11116625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Ungroup Method (Visio)
+# Selection.Ungroup method (Visio)
 
 Ungroups a group.
 

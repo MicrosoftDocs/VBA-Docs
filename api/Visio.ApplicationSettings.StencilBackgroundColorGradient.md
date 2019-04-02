@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.StencilBackgroundColorGradient Property (Visio)
+title: ApplicationSettings.StencilBackgroundColorGradient property (Visio)
 keywords: vis_sdr.chm16251530
 f1_keywords:
 - vis_sdr.chm16251530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.StencilBackgroundColorGradient Property (Visio)
+# ApplicationSettings.StencilBackgroundColorGradient property (Visio)
 
 Determines the background gradient color of the Microsoft Visio stencil window for the current session. Read/write. 
 

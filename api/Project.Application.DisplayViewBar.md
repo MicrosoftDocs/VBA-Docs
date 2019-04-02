@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayViewBar Property (Project)
+title: Application.DisplayViewBar property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayViewBar
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayViewBar Property (Project)
+# Application.DisplayViewBar property (Project)
 
  **True** if the **View Bar** is displayed. Read/write **Boolean**.
 

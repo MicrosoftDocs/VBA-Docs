@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveCell Property (Project)
+title: Application.ActiveCell property (Project)
 keywords: vbapj.chm131368
 f1_keywords:
 - vbapj.chm131368
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveCell Property (Project)
+# Application.ActiveCell property (Project)
 
 Gets a  **[Cell](Project.Cell.md)** object that represents the active cell. Read-only **Cell**.
 

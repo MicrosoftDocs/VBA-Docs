@@ -1,5 +1,5 @@
 ---
-title: Page.GetShapesLinkedToDataRow Method (Visio)
+title: Page.GetShapesLinkedToDataRow method (Visio)
 keywords: vis_sdr.chm10960150
 f1_keywords:
 - vis_sdr.chm10960150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.GetShapesLinkedToDataRow Method (Visio)
+# Page.GetShapesLinkedToDataRow method (Visio)
 
 Returns an array of all shapes on the active page linked to data in the specified data row in the specified data recordset.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.QuitCanceled Event (Visio)
+title: InvisibleApp.QuitCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QuitCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.QuitCanceled Event (Visio)
+# InvisibleApp.QuitCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelQuit** event.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.AfterRemoveHiddenInformation Event (Visio)
+title: Application.AfterRemoveHiddenInformation event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.AfterRemoveHiddenInformation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterRemoveHiddenInformation Event (Visio)
+# Application.AfterRemoveHiddenInformation event (Visio)
 
 Occurs when hidden information is removed from the document.
 

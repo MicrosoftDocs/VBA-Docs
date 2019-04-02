@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MarkerEvent Event (Visio)
+title: InvisibleApp.MarkerEvent event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MarkerEvent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MarkerEvent Event (Visio)
+# InvisibleApp.MarkerEvent event (Visio)
 
 Caused by calling the  **QueueMarkerEvent** method.
 

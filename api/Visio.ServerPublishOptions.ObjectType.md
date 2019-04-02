@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.ObjectType Property (Visio)
+title: ServerPublishOptions.ObjectType property (Visio)
 keywords: vis_sdr.chm17913960
 f1_keywords:
 - vis_sdr.chm17913960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.ObjectType Property (Visio)
+# ServerPublishOptions.ObjectType property (Visio)
 
 Returns  **visObjTypeServerPublishOptions**, the type of this object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PjBaselines Enumeration (Project)
+title: PjBaselines enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBaselines
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBaselines Enumeration (Project)
+# PjBaselines enumeration (Project)
 
 Contains constants that specify a baseline.
 

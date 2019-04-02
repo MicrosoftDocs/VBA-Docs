@@ -1,5 +1,5 @@
 ---
-title: Task.Split Method (Project)
+title: Task.Split method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Split
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Split Method (Project)
+# Task.Split method (Project)
 
 Splits the task into two portions.
 

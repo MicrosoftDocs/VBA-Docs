@@ -1,5 +1,5 @@
 ---
-title: PbPictureInsertAs Enumeration (Publisher)
+title: PbPictureInsertAs enumeration (Publisher)
 keywords: vbapb10.chm65628
 f1_keywords:
 - vbapb10.chm65628
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPictureInsertAs Enumeration (Publisher)
+# PbPictureInsertAs enumeration (Publisher)
 
 The manner in which you want the picture file inserted into the document: linked or embedded.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WorkOffline Method (Project)
+title: Application.WorkOffline method (Project)
 keywords: vbapj.chm2283
 f1_keywords:
 - vbapj.chm2283
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkOffline Method (Project)
+# Application.WorkOffline method (Project)
 
 Opens or closes the connection to Project Server. 
 

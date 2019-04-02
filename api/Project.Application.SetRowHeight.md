@@ -1,5 +1,5 @@
 ---
-title: Application.SetRowHeight Method (Project)
+title: Application.SetRowHeight method (Project)
 keywords: vbapj.chm2118
 f1_keywords:
 - vbapj.chm2118
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetRowHeight Method (Project)
+# Application.SetRowHeight method (Project)
 
 Sets the height of the specified rows.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CopyReport Method (Project)
+title: Application.CopyReport method (Project)
 keywords: vbapj.chm141
 f1_keywords:
 - vbapj.chm141
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CopyReport Method (Project)
+# Application.CopyReport method (Project)
 Makes a copy of the active report to the clipboard.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Application.PMText Property (Project)
+title: Application.PMText property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.PMText
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PMText Property (Project)
+# Application.PMText property (Project)
 
 Gets the text that Project displays next to evening hours in the 12-hour time format. Read-only  **String**.
 

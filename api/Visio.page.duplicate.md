@@ -1,5 +1,5 @@
 ---
-title: Page.Duplicate Method (Visio)
+title: Page.Duplicate method (Visio)
 keywords: vis_sdr.chm10962190
 f1_keywords:
 - vis_sdr.chm10962190
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Duplicate Method (Visio)
+# Page.Duplicate method (Visio)
 
 Duplicates the specified page and returns the new page.
 

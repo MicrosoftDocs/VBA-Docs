@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowWorkAvailability Method (Project)
+title: Application.ViewShowWorkAvailability method (Project)
 keywords: vbapj.chm930
 f1_keywords:
 - vbapj.chm930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowWorkAvailability Method (Project)
+# Application.ViewShowWorkAvailability method (Project)
 
 Displays work availability information in the active Resource Graph view.
 

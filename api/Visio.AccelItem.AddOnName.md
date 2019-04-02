@@ -1,5 +1,5 @@
 ---
-title: AccelItem.AddOnName Property (Visio)
+title: AccelItem.AddOnName property (Visio)
 keywords: vis_sdr.chm14513050
 f1_keywords:
 - vis_sdr.chm14513050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelItem.AddOnName Property (Visio)
+# AccelItem.AddOnName property (Visio)
 
 Gets or sets the name of an add-on or procedure that is run when its associated accelerator key is pressed. Read/write.
 

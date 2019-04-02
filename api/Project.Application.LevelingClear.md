@@ -1,5 +1,5 @@
 ---
-title: Application.LevelingClear Method (Project)
+title: Application.LevelingClear method (Project)
 keywords: vbapj.chm612
 f1_keywords:
 - vbapj.chm612
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelingClear Method (Project)
+# Application.LevelingClear method (Project)
 
 Removes the effects of leveling.
 

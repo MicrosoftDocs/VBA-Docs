@@ -1,5 +1,5 @@
 ---
-title: Shape.UniqueID Property (Visio)
+title: Shape.UniqueID property (Visio)
 keywords: vis_sdr.chm11214615
 f1_keywords:
 - vis_sdr.chm11214615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.UniqueID Property (Visio)
+# Shape.UniqueID property (Visio)
 
 Gets, deletes, or makes the GUID that uniquely identifies the shape within the scope of the application. Read-only.
 

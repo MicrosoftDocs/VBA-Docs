@@ -1,5 +1,5 @@
 ---
-title: Windows2.Parent Property (Project)
+title: Windows2.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Windows2.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Windows2.Parent Property (Project)
+# Windows2.Parent property (Project)
 
 Gets the parent of the  **Windows2** object. Read-only **Object**.
 

@@ -1,5 +1,5 @@
 ---
-title: OlTaskResponse Enumeration (Outlook)
+title: OlTaskResponse enumeration (Outlook)
 keywords: vbaol11.chm3086
 f1_keywords:
 - vbaol11.chm3086
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTaskResponse Enumeration (Outlook)
+# OlTaskResponse enumeration (Outlook)
 
 Indicates the response to a task request.
 

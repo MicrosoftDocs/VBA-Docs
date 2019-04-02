@@ -1,5 +1,5 @@
 ---
-title: Master.Paste Method (Visio)
+title: Master.Paste method (Visio)
 keywords: vis_sdr.chm10751170
 f1_keywords:
 - vis_sdr.chm10751170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Paste Method (Visio)
+# Master.Paste method (Visio)
 
 Pastes the contents of the Clipboard into an object.
 

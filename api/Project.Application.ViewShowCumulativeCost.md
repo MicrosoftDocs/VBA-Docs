@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowCumulativeCost Method (Project)
+title: Application.ViewShowCumulativeCost method (Project)
 keywords: vbapj.chm928
 f1_keywords:
 - vbapj.chm928
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowCumulativeCost Method (Project)
+# Application.ViewShowCumulativeCost method (Project)
 
 Displays cumulative cost information in the active Resource Graph view.
 

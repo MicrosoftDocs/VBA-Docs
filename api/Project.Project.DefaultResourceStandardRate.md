@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultResourceStandardRate Property (Project)
+title: Project.DefaultResourceStandardRate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DefaultResourceStandardRate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultResourceStandardRate Property (Project)
+# Project.DefaultResourceStandardRate property (Project)
 
 Gets or sets the default standard rate of pay for resources. Read/write  **Variant**.
 

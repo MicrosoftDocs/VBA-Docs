@@ -1,5 +1,5 @@
 ---
-title: Document.Colors Property (Visio)
+title: Document.Colors property (Visio)
 keywords: vis_sdr.chm10513270
 f1_keywords:
 - vis_sdr.chm10513270
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Colors Property (Visio)
+# Document.Colors property (Visio)
 
 Returns the  **Colors** collection of a **Document** object. Read-only.
 

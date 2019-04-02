@@ -1,5 +1,5 @@
 ---
-title: Application.FileCloseEx Method (Project)
+title: Application.FileCloseEx method (Project)
 keywords: vbapj.chm103
 f1_keywords:
 - vbapj.chm103
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileCloseEx Method (Project)
+# Application.FileCloseEx method (Project)
 
 Closes the active project.
 

@@ -1,5 +1,5 @@
 ---
-title: PjAssignResourcesListFields Enumeration (Project)
+title: PjAssignResourcesListFields enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAssignResourcesListFields
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAssignResourcesListFields Enumeration (Project)
+# PjAssignResourcesListFields enumeration (Project)
 
 Contains constants that specify the fields listing data.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskDependencies.Add Method (Project)
+title: TaskDependencies.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependencies.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependencies.Add Method (Project)
+# TaskDependencies.Add method (Project)
 
 Adds a  **TaskDependency** object to a **TaskDependencies** collection.
 

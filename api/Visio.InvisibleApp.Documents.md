@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Documents Property (Visio)
+title: InvisibleApp.Documents property (Visio)
 keywords: vis_sdr.chm17513435
 f1_keywords:
 - vis_sdr.chm17513435
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Documents Property (Visio)
+# InvisibleApp.Documents property (Visio)
 
 Returns the  **Documents** collection for a Microsoft Visio instance. Read-only.
 

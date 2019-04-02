@@ -1,5 +1,5 @@
 ---
-title: OlDragBehavior Enumeration (Outlook)
+title: OlDragBehavior enumeration (Outlook)
 keywords: vbaol11.chm1000024
 f1_keywords:
 - vbaol11.chm1000024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlDragBehavior Enumeration (Outlook)
+# OlDragBehavior enumeration (Outlook)
 
 Specifies the drag behavior of a control.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages.Document Property (Visio)
+title: Pages.Document property (Visio)
 keywords: vis_sdr.chm11013430
 f1_keywords:
 - vis_sdr.chm11013430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Document Property (Visio)
+# Pages.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 

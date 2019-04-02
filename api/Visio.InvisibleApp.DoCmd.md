@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DoCmd Method (Visio)
+title: InvisibleApp.DoCmd method (Visio)
 keywords: vis_sdr.chm17516190
 f1_keywords:
 - vis_sdr.chm17516190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DoCmd Method (Visio)
+# InvisibleApp.DoCmd method (Visio)
 
 Performs the command that has the indicated command ID.
 

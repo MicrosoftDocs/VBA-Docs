@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Table Property (Project)
+title: ViewSingle.Table property (Project)
 keywords: vbapj.chm132803
 f1_keywords:
 - vbapj.chm132803
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Table Property (Project)
+# ViewSingle.Table property (Project)
 
 Gets or sets a  **[Table](Project.Table.md)** object representing the table of the single view. Read/write **Table**.
 

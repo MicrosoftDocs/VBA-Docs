@@ -1,5 +1,5 @@
 ---
-title: Project.WBSVerifyUniqueness Property (Project)
+title: Project.WBSVerifyUniqueness property (Project)
 keywords: vbapj.chm132817
 f1_keywords:
 - vbapj.chm132817
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.WBSVerifyUniqueness Property (Project)
+# Project.WBSVerifyUniqueness property (Project)
 
  **True** if an edited work breakdown structure (WBS) code is verified to be unique. Read/write **Boolean**.
 

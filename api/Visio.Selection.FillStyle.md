@@ -1,5 +1,5 @@
 ---
-title: Selection.FillStyle Property (Visio)
+title: Selection.FillStyle property (Visio)
 keywords: vis_sdr.chm11113525
 f1_keywords:
 - vis_sdr.chm11113525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.FillStyle Property (Visio)
+# Selection.FillStyle property (Visio)
 
 Returns or sets the fill style for an object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupLegend Method (Project)
+title: Application.FilePageSetupLegend method (Project)
 keywords: vbapj.chm2359
 f1_keywords:
 - vbapj.chm2359
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupLegend Method (Project)
+# Application.FilePageSetupLegend method (Project)
 
 Creates a legend for printing views of task data.
 

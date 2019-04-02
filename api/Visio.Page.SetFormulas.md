@@ -1,5 +1,5 @@
 ---
-title: Page.SetFormulas Method (Visio)
+title: Page.SetFormulas method (Visio)
 keywords: vis_sdr.chm10916575
 f1_keywords:
 - vis_sdr.chm10916575
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.SetFormulas Method (Visio)
+# Page.SetFormulas method (Visio)
 
 Sets the formulas of one or more cells.
 

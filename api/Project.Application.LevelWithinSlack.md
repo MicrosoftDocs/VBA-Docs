@@ -1,5 +1,5 @@
 ---
-title: Application.LevelWithinSlack Property (Project)
+title: Application.LevelWithinSlack property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.LevelWithinSlack
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelWithinSlack Property (Project)
+# Application.LevelWithinSlack property (Project)
 
  **True** if leveling must occur within total slack. Read/write **Boolean**.
 

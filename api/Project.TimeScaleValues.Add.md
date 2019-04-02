@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValues.Add Method (Project)
+title: TimeScaleValues.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValues.Add
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValues.Add Method (Project)
+# TimeScaleValues.Add method (Project)
 
 Adds a  **TimeScaleValue** object to a **TimeScaleValues** collection.
 

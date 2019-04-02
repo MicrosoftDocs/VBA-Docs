@@ -1,5 +1,5 @@
 ---
-title: Cell.FormulaU Property (Visio)
+title: Cell.FormulaU property (Visio)
 keywords: vis_sdr.chm10151975
 f1_keywords:
 - vis_sdr.chm10151975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.FormulaU Property (Visio)
+# Cell.FormulaU property (Visio)
 
 Gets or sets the universal syntax formula for a  **Cell** object. Read/write.
 

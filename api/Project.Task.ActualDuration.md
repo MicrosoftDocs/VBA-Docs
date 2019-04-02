@@ -1,5 +1,5 @@
 ---
-title: Task.ActualDuration Property (Project)
+title: Task.ActualDuration property (Project)
 keywords: vbapj.chm131381
 f1_keywords:
 - vbapj.chm131381
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ActualDuration Property (Project)
+# Task.ActualDuration property (Project)
 
 Gets or sets the actual duration (in minutes) of a task. Read-only for summary tasks. Read/write  **Variant**.
 

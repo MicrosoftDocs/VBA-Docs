@@ -1,5 +1,5 @@
 ---
-title: Event.GetFilterActions Method (Visio)
+title: Event.GetFilterActions method (Visio)
 keywords: vis_sdr.chm12660255
 f1_keywords:
 - vis_sdr.chm12660255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.GetFilterActions Method (Visio)
+# Event.GetFilterActions method (Visio)
 
 Returns an array of the filter actions set for the  **Event** object.
 

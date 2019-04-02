@@ -1,5 +1,5 @@
 ---
-title: Document.HeaderFooterFont Property (Visio)
+title: Document.HeaderFooterFont property (Visio)
 keywords: vis_sdr.chm10550640
 f1_keywords:
 - vis_sdr.chm10550640
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.HeaderFooterFont Property (Visio)
+# Document.HeaderFooterFont property (Visio)
 
 Specifies the font used for the header and footer text. Read/write.
 

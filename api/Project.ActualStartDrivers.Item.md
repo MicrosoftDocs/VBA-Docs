@@ -1,5 +1,5 @@
 ---
-title: ActualStartDrivers.Item Property (Project)
+title: ActualStartDrivers.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.ActualStartDrivers.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ActualStartDrivers.Item Property (Project)
+# ActualStartDrivers.Item property (Project)
 
 Gets a single  **Assignment** object from an **ActualStartDrivers** collection. Read-only **Assignment**.
 

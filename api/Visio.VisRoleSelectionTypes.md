@@ -1,5 +1,5 @@
 ---
-title: VisRoleSelectionTypes Enumeration (Visio)
+title: VisRoleSelectionTypes enumeration (Visio)
 keywords: vis_sdr.chm70645
 f1_keywords:
 - vis_sdr.chm70645
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRoleSelectionTypes Enumeration (Visio)
+# VisRoleSelectionTypes enumeration (Visio)
 
 Specifies selections that contain all shapes of a given role; passed to the  **[Master.CreateSelection](Visio.Master.CreateSelection.md)**, **[Page.CreateSelection](Visio.Page.CreateSelection.md)**, and **[Shape.CreateSelection](Visio.Shape.CreateSelection.md)** methods.
 

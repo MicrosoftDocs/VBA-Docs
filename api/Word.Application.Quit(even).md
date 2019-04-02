@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Event (Word)
+title: Application.Quit event (Word)
 keywords: vbawd10.chm400002
 f1_keywords:
 - vbawd10.chm400002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Quit Event (Word)
+# Application.Quit event (Word)
 
 Occurs when the user exits Microsoft Word.
 

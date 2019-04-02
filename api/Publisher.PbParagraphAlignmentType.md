@@ -1,5 +1,5 @@
 ---
-title: PbParagraphAlignmentType Enumeration (Publisher)
+title: PbParagraphAlignmentType enumeration (Publisher)
 keywords: vbapb10.chm65550
 f1_keywords:
 - vbapb10.chm65550
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbParagraphAlignmentType Enumeration (Publisher)
+# PbParagraphAlignmentType enumeration (Publisher)
 
  Represents the alignment for the specified paragraphs.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.LastPrintedDate Property (Project)
+title: Project.LastPrintedDate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.LastPrintedDate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.LastPrintedDate Property (Project)
+# Project.LastPrintedDate property (Project)
 
 Gets the date a project was last printed. Read-only  **Variant**.
 

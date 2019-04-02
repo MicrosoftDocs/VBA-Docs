@@ -1,5 +1,5 @@
 ---
-title: View.Index Property (Project)
+title: View.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.View.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# View.Index Property (Project)
+# View.Index property (Project)
 
 Gets the index of a  **View** object in the **Views** containing object. Read-only **Long**.
 

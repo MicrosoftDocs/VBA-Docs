@@ -1,5 +1,5 @@
 ---
-title: Application.DateFormat Method (Project)
+title: Application.DateFormat method (Project)
 keywords: vbapj.chm131208
 f1_keywords:
 - vbapj.chm131208
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DateFormat Method (Project)
+# Application.DateFormat method (Project)
 
 Returns a date in the specified format.
 

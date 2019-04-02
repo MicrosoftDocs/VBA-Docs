@@ -1,5 +1,5 @@
 ---
-title: Shape.OpenSheetWindow Method (Visio)
+title: Shape.OpenSheetWindow method (Visio)
 keywords: vis_sdr.chm11216415
 f1_keywords:
 - vis_sdr.chm11216415
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.OpenSheetWindow Method (Visio)
+# Shape.OpenSheetWindow method (Visio)
 
 Opens a ShapeSheet window for a  **Shape** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.Rotate Method (Visio)
+title: Selection.Rotate method (Visio)
 keywords: vis_sdr.chm11151330
 f1_keywords:
 - vis_sdr.chm11151330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Rotate Method (Visio)
+# Selection.Rotate method (Visio)
 
 Rotates selected shapes either as a group or individually about their pins.
 

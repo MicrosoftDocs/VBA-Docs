@@ -1,5 +1,5 @@
 ---
-title: Cell.GlueTo Method (Visio)
+title: Cell.GlueTo method (Visio)
 keywords: vis_sdr.chm10116335
 f1_keywords:
 - vis_sdr.chm10116335
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.GlueTo Method (Visio)
+# Cell.GlueTo method (Visio)
 
 Glues one shape to another, from a cell in the first shape to a cell in the second shape.
 

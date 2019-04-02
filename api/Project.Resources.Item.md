@@ -1,5 +1,5 @@
 ---
-title: Resources.Item Property (Project)
+title: Resources.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resources.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resources.Item Property (Project)
+# Resources.Item property (Project)
 
 Gets a single  **Resource** object from the **Resources** collection. Read-only **Resource**.
 

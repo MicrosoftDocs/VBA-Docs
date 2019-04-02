@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseGlobalCheckOut Method (Project)
+title: Application.EnterpriseGlobalCheckOut method (Project)
 keywords: vbapj.chm2337
 f1_keywords:
 - vbapj.chm2337
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseGlobalCheckOut Method (Project)
+# Application.EnterpriseGlobalCheckOut method (Project)
 
 Checks out the enterprise global template from Project Server. Available in Project Professional only.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.AddNamedRow Method (Visio)
+title: Shape.AddNamedRow method (Visio)
 keywords: vis_sdr.chm11216045
 f1_keywords:
 - vis_sdr.chm11216045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.AddNamedRow Method (Visio)
+# Shape.AddNamedRow method (Visio)
 
 Adds a row that has the specified name to the specified ShapeSheet section.
 

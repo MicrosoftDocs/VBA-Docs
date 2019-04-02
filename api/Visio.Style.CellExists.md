@@ -1,5 +1,5 @@
 ---
-title: Style.CellExists Property (Visio)
+title: Style.CellExists property (Visio)
 keywords: vis_sdr.chm11413185
 f1_keywords:
 - vis_sdr.chm11413185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.CellExists Property (Visio)
+# Style.CellExists property (Visio)
 
 Determines whether a particular ShapeSheet cell exists in the scope of the search. Read-only.
 

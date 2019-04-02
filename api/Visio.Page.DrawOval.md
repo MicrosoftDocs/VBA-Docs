@@ -1,5 +1,5 @@
 ---
-title: Page.DrawOval Method (Visio)
+title: Page.DrawOval method (Visio)
 keywords: vis_sdr.chm10916210
 f1_keywords:
 - vis_sdr.chm10916210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.DrawOval Method (Visio)
+# Page.DrawOval method (Visio)
 
 Adds an oval (ellipse) to the  **Shapes** collection of a page.
 

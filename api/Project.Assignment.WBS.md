@@ -1,5 +1,5 @@
 ---
-title: Assignment.WBS Property (Project)
+title: Assignment.WBS property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.WBS
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.WBS Property (Project)
+# Assignment.WBS property (Project)
 
 Gets or sets the work breakdown structure (WBS) code of the assignment. Read/write **String**.
 

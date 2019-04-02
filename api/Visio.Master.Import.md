@@ -1,5 +1,5 @@
 ---
-title: Master.Import Method (Visio)
+title: Master.Import method (Visio)
 keywords: vis_sdr.chm10716355
 f1_keywords:
 - vis_sdr.chm10716355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Import Method (Visio)
+# Master.Import method (Visio)
 
 Imports a file into the current document.
 

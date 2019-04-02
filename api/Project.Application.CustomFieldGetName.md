@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldGetName Method (Project)
+title: Application.CustomFieldGetName method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.CustomFieldGetName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldGetName Method (Project)
+# Application.CustomFieldGetName method (Project)
 
 Returns the friendly name for a custom field.
 

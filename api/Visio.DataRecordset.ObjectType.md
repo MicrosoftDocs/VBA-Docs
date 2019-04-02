@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.ObjectType Property (Visio)
+title: DataRecordset.ObjectType property (Visio)
 keywords: vis_sdr.chm16413960
 f1_keywords:
 - vis_sdr.chm16413960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.ObjectType Property (Visio)
+# DataRecordset.ObjectType property (Visio)
 
 Returns  **visObjTypeDataRecordset**, the type of a **DataRecordset** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.IterationMode Property (Visio)
+title: Selection.IterationMode property (Visio)
 keywords: vis_sdr.chm11113785
 f1_keywords:
 - vis_sdr.chm11113785
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.IterationMode Property (Visio)
+# Selection.IterationMode property (Visio)
 
 Determines whether a  **Selection** object reports subselected shapes and groups in which a shape is selected. Read/write.
 

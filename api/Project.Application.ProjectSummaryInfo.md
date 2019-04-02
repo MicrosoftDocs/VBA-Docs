@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectSummaryInfo Method (Project)
+title: Application.ProjectSummaryInfo method (Project)
 keywords: vbapj.chm601
 f1_keywords:
 - vbapj.chm601
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectSummaryInfo Method (Project)
+# Application.ProjectSummaryInfo method (Project)
 
 Sets information about a project.
 

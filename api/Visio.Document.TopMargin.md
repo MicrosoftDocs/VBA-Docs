@@ -1,5 +1,5 @@
 ---
-title: Document.TopMargin Property (Visio)
+title: Document.TopMargin property (Visio)
 keywords: vis_sdr.chm10514580
 f1_keywords:
 - vis_sdr.chm10514580
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.TopMargin Property (Visio)
+# Document.TopMargin property (Visio)
 
 Specifies the top margin when printing a document. Read/write.
 

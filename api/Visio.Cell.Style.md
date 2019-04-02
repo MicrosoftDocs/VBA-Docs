@@ -1,5 +1,5 @@
 ---
-title: Cell.Style Property (Visio)
+title: Cell.Style property (Visio)
 keywords: vis_sdr.chm10151145
 f1_keywords:
 - vis_sdr.chm10151145
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Style Property (Visio)
+# Cell.Style property (Visio)
 
 Gets the style that contains a  **Cell** object. Read-only.
 

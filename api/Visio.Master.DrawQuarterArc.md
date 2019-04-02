@@ -1,5 +1,5 @@
 ---
-title: Master.DrawQuarterArc Method (Visio)
+title: Master.DrawQuarterArc method (Visio)
 keywords: vis_sdr.chm10751385
 f1_keywords:
 - vis_sdr.chm10751385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawQuarterArc Method (Visio)
+# Master.DrawQuarterArc method (Visio)
 
 Creates a shape whose path consists of an elliptical arc defined by the two points and the flag passed in as arguments.
 

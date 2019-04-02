@@ -1,5 +1,5 @@
 ---
-title: Application.ZoomReport Method (Project)
+title: Application.ZoomReport method (Project)
 keywords: vbapj.chm2196
 f1_keywords:
 - vbapj.chm2196
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ZoomReport Method (Project)
+# Application.ZoomReport method (Project)
 Zooms (enlarges or shrinks) the active report to the specified percentage of its original size.
 
 ## Syntax

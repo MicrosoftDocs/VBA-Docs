@@ -1,5 +1,5 @@
 ---
-title: Profile.Delete Method (Project)
+title: Profile.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Profile.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Profile.Delete Method (Project)
+# Profile.Delete method (Project)
 
 Deletes an account profile from the  **[Profiles](Project.profiles.md)** collection in Project.
 

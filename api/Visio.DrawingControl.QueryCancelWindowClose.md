@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.QueryCancelWindowClose Event (Visio)
+title: DrawingControl.QueryCancelWindowClose event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelWindowClose
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.QueryCancelWindowClose Event (Visio)
+# DrawingControl.QueryCancelWindowClose event (Visio)
 
 Occurs before the application closes a window in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

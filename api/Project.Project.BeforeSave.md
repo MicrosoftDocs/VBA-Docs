@@ -1,5 +1,5 @@
 ---
-title: Project.BeforeSave Event (Project)
+title: Project.BeforeSave event (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.BeforeSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.BeforeSave Event (Project)
+# Project.BeforeSave event (Project)
 
 Occurs before a project is saved.
 

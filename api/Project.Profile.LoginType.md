@@ -1,5 +1,5 @@
 ---
-title: Profile.LoginType Property (Project)
+title: Profile.LoginType property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profile.LoginType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Profile.LoginType Property (Project)
+# Profile.LoginType property (Project)
 
 Gets or sets the login type for an account profile in Project Professional. Read/write  **[PjLoginType](Project.PjLoginType.md)**.
 

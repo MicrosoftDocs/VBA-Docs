@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementDraftFinish Property (Project)
+title: Resource.EngagementDraftFinish property (Project)
 keywords: vbapj.chm131800
 f1_keywords:
 - vbapj.chm131800
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementDraftFinish Property (Project)
+# Resource.EngagementDraftFinish property (Project)
 
 Returns the draft finish date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
 

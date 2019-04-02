@@ -1,5 +1,5 @@
 ---
-title: Shape.AddRows Method (Visio)
+title: Shape.AddRows method (Visio)
 keywords: vis_sdr.chm11216055
 f1_keywords:
 - vis_sdr.chm11216055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.AddRows Method (Visio)
+# Shape.AddRows method (Visio)
 
 Adds the specified number of rows to a ShapeSheet section at a specified position.
 

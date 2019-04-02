@@ -1,5 +1,5 @@
 ---
-title: Month Object (Project)
+title: Month object (Project)
 ms.prod: project-server
 api_name:
 - Project.Month
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Month Object (Project)
+# Month object (Project)
 
 Represents a month in a year. The  **Month** object is a member of the **[Months](Project.months.md)** collection.
  

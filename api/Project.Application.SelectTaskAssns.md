@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTaskAssns Method (Project)
+title: Application.SelectTaskAssns method (Project)
 keywords: vbapj.chm1511
 f1_keywords:
 - vbapj.chm1511
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTaskAssns Method (Project)
+# Application.SelectTaskAssns method (Project)
 
 Selects all assignments for a selected task in the Team Planner view.
 

@@ -1,5 +1,5 @@
 ---
-title: VisShapeIDs Enumeration (Visio)
+title: VisShapeIDs enumeration (Visio)
 keywords: vis_sdr.chm70015
 f1_keywords:
 - vis_sdr.chm70015
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisShapeIDs Enumeration (Visio)
+# VisShapeIDs enumeration (Visio)
 
 Values related to the IDs of shapes.
 

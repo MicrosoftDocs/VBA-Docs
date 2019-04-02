@@ -1,5 +1,5 @@
 ---
-title: Task.TotalSlack Property (Project)
+title: Task.TotalSlack property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.TotalSlack
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.TotalSlack Property (Project)
+# Task.TotalSlack property (Project)
 
 Gets the total slack time for a task in minutes. Read-only  **Variant**.
 

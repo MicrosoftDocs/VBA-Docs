@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeWizardStateChange Event (Publisher)
+title: Application.MailMergeWizardStateChange event (Publisher)
 keywords: vbapb10.chm268435479
 f1_keywords:
 - vbapb10.chm268435479
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeWizardStateChange Event (Publisher)
+# Application.MailMergeWizardStateChange event (Publisher)
 
 Occurs when a user changes from a specified step to a specified step in the Mail Merge Wizard.
 

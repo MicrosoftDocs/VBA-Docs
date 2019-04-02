@@ -1,5 +1,5 @@
 ---
-title: Document Object (Visio)
+title: Document object (Visio)
 keywords: vis_sdr.chm10080
 f1_keywords:
 - vis_sdr.chm10080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document Object (Visio)
+# Document object (Visio)
 
 Represents a drawing file (.vsd or .vdx), stencil file (.vss or .vsx), or template file (.vst or .vtx) that is open in an instance of Microsoft Visio. A  **Document** object is a member of the **Documents** collection of an **Application** object.
 

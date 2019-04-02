@@ -1,5 +1,5 @@
 ---
-title: DataColumn.Document Property (Visio)
+title: DataColumn.Document property (Visio)
 keywords: vis_sdr.chm16713430
 f1_keywords:
 - vis_sdr.chm16713430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumn.Document Property (Visio)
+# DataColumn.Document property (Visio)
 
 Gets the  **Document** object that contains the **DataColumn** object. Read-only.
 

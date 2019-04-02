@@ -1,5 +1,5 @@
 ---
-title: CodeMaskLevel.Index Property (Project)
+title: CodeMaskLevel.Index property (Project)
 keywords: vbapj.chm131650
 f1_keywords:
 - vbapj.chm131650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CodeMaskLevel.Index Property (Project)
+# CodeMaskLevel.Index property (Project)
 
 Gets the index of a  **CodeMaskLevel** object in the containing **CodeMask** collection. Read-only **Long**.
 

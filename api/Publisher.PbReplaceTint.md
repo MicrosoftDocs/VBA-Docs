@@ -1,5 +1,5 @@
 ---
-title: PbReplaceTint Enumeration (Publisher)
+title: PbReplaceTint enumeration (Publisher)
 keywords: vbapb10.chm65629
 f1_keywords:
 - vbapb10.chm65629
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbReplaceTint Enumeration (Publisher)
+# PbReplaceTint enumeration (Publisher)
 
 Constants passed to the  **Plate.Delete** method specifying how to replace the colors in a deleted plate.
 

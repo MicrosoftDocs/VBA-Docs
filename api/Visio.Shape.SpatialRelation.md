@@ -1,5 +1,5 @@
 ---
-title: Shape.SpatialRelation Property (Visio)
+title: Shape.SpatialRelation property (Visio)
 keywords: vis_sdr.chm11214400
 f1_keywords:
 - vis_sdr.chm11214400
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SpatialRelation Property (Visio)
+# Shape.SpatialRelation property (Visio)
 
 Returns an integer that represents the spatial relationship of one shape to another shape. Both shapes must be on the same page or in the same master. Read-only.
 

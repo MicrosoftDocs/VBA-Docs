@@ -1,5 +1,5 @@
 ---
-title: Document.Fonts Property (Visio)
+title: Document.Fonts property (Visio)
 keywords: vis_sdr.chm10513550
 f1_keywords:
 - vis_sdr.chm10513550
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Fonts Property (Visio)
+# Document.Fonts property (Visio)
 
 Returns the  **Fonts** collection of a **Document** object. Read-only.
 

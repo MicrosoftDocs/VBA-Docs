@@ -1,5 +1,5 @@
 ---
-title: Application.FilePrint Method (Project)
+title: Application.FilePrint method (Project)
 keywords: vbapj.chm109
 f1_keywords:
 - vbapj.chm109
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePrint Method (Project)
+# Application.FilePrint method (Project)
 
 Prints the active view.
 

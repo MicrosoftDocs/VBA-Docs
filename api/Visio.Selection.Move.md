@@ -1,5 +1,5 @@
 ---
-title: Selection.Move Method (Visio)
+title: Selection.Move method (Visio)
 keywords: vis_sdr.chm11151355
 f1_keywords:
 - vis_sdr.chm11151355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Move Method (Visio)
+# Selection.Move method (Visio)
 
 Moves a selection a specified distance.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Table Property (Project)
+title: Shape.Table property (Project)
 ms.prod: project-server
 ms.assetid: 5e1fc97f-8ac8-db26-3a2d-c39261c23588
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Table Property (Project)
+# Shape.Table property (Project)
 Gets the  **ReportTable** object in the shape. Read-only[ReportTable](Project.reporttable.md).
 
 ## Syntax

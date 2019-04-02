@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultInt Property (Visio)
+title: Cell.ResultInt property (Visio)
 keywords: vis_sdr.chm10114215
 f1_keywords:
 - vis_sdr.chm10114215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.ResultInt Property (Visio)
+# Cell.ResultInt property (Visio)
 
 Gets the value of a cell expressed as an integer. Read-only.
 

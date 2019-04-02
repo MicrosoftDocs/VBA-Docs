@@ -1,5 +1,5 @@
 ---
-title: TaskDependencies.Item Property (Project)
+title: TaskDependencies.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependencies.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependencies.Item Property (Project)
+# TaskDependencies.Item property (Project)
 
 Gets a single  **TaskDependency** object from the **TaskDependencies** collection. Read-only **TaskDependency**.
 

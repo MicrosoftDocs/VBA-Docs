@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeDataSourceLoad Event (Publisher)
+title: Application.MailMergeDataSourceLoad event (Publisher)
 keywords: vbapb10.chm268435475
 f1_keywords:
 - vbapb10.chm268435475
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeDataSourceLoad Event (Publisher)
+# Application.MailMergeDataSourceLoad event (Publisher)
 
 Occurs when the data source is loaded for a mail merge.
 

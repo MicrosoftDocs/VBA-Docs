@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Settings Property (Visio)
+title: InvisibleApp.Settings property (Visio)
 keywords: vis_sdr.chm17551635
 f1_keywords:
 - vis_sdr.chm17551635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Settings Property (Visio)
+# InvisibleApp.Settings property (Visio)
 
 Returns an  **ApplicationSettings** object, which you can use to set Microsoft Visio application properties. Read-only.
 

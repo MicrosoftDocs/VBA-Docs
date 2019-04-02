@@ -1,5 +1,5 @@
 ---
-title: Addon.Name Property (Visio)
+title: Addon.Name property (Visio)
 keywords: vis_sdr.chm12413930
 f1_keywords:
 - vis_sdr.chm12413930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Addon.Name Property (Visio)
+# Addon.Name property (Visio)
 
 Specifies the locale-specific name of an  **Addon** object. Read-only.
 

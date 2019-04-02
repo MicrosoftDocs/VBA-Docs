@@ -1,5 +1,5 @@
 ---
-title: PjBoxSet Enumeration (Project)
+title: PjBoxSet enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBoxSet
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBoxSet Enumeration (Project)
+# PjBoxSet enumeration (Project)
 
 Contains constants that specify the creation, selection, or movement of a task in the Network Diagram view.
 

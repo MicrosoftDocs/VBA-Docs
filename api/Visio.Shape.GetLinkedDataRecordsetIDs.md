@@ -1,5 +1,5 @@
 ---
-title: Shape.GetLinkedDataRecordsetIDs Method (Visio)
+title: Shape.GetLinkedDataRecordsetIDs method (Visio)
 keywords: vis_sdr.chm11260220
 f1_keywords:
 - vis_sdr.chm11260220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.GetLinkedDataRecordsetIDs Method (Visio)
+# Shape.GetLinkedDataRecordsetIDs method (Visio)
 
 Gets the IDs of all the data recordsets that contain data rows linked to the shape.
 

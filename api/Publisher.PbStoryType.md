@@ -1,5 +1,5 @@
 ---
-title: PbStoryType Enumeration (Publisher)
+title: PbStoryType enumeration (Publisher)
 keywords: vbapb10.chm65542
 f1_keywords:
 - vbapb10.chm65542
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbStoryType Enumeration (Publisher)
+# PbStoryType enumeration (Publisher)
 
 Represents the type of story. 
 

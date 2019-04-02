@@ -1,5 +1,5 @@
 ---
-title: Document.PrintScale Property (Visio)
+title: Document.PrintScale property (Visio)
 keywords: vis_sdr.chm10514135
 f1_keywords:
 - vis_sdr.chm10514135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintScale Property (Visio)
+# Document.PrintScale property (Visio)
 
 Gets or sets how much drawings are reduced or enlarged when printed. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PbDriverType Enumeration (Publisher)
+title: PbDriverType enumeration (Publisher)
 keywords: vbapb10.chm65634
 f1_keywords:
 - vbapb10.chm65634
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbDriverType Enumeration (Publisher)
+# PbDriverType enumeration (Publisher)
 
 Driver-type constants returned by the  ** [Printer.DriverType](Publisher.Printer.DriverType.md)** property.
 

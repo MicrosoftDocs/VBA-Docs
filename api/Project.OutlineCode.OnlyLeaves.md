@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.OnlyLeaves Property (Project)
+title: OutlineCode.OnlyLeaves property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.OnlyLeaves
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.OnlyLeaves Property (Project)
+# OutlineCode.OnlyLeaves property (Project)
 
  **True** if only outline code lookup table values without children can be selected. Read/write **Boolean**.
 

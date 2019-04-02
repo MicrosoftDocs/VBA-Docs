@@ -1,5 +1,5 @@
 ---
-title: PbPhoneticGuideAlignmentType Enumeration (Publisher)
+title: PbPhoneticGuideAlignmentType enumeration (Publisher)
 keywords: vbapb10.chm65551
 f1_keywords:
 - vbapb10.chm65551
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPhoneticGuideAlignmentType Enumeration (Publisher)
+# PbPhoneticGuideAlignmentType enumeration (Publisher)
 
 Constants passed to the  ** [Fields.AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)** method that specify the alignment of the added phonetic text.
 

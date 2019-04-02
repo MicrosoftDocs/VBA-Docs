@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.KeyUp Event (Visio)
+title: InvisibleApp.KeyUp event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.KeyUp
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.KeyUp Event (Visio)
+# InvisibleApp.KeyUp event (Visio)
 
 Occurs when a keyboard key is released.
 

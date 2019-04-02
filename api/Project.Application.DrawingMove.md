@@ -1,5 +1,5 @@
 ---
-title: Application.DrawingMove Method (Project)
+title: Application.DrawingMove method (Project)
 keywords: vbapj.chm2311
 f1_keywords:
 - vbapj.chm2311
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DrawingMove Method (Project)
+# Application.DrawingMove method (Project)
 
 Moves the active drawing object forward or backward in the drawing layers.
 

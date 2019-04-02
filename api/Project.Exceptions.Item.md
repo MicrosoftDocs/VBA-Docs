@@ -1,5 +1,5 @@
 ---
-title: Exceptions.Item Property (Project)
+title: Exceptions.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exceptions.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exceptions.Item Property (Project)
+# Exceptions.Item property (Project)
 
 Gets a single  **Exception** object from the **Exceptions** collection. Read-only **Exception**.
 

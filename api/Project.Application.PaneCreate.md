@@ -1,5 +1,5 @@
 ---
-title: Application.PaneCreate Method (Project)
+title: Application.PaneCreate method (Project)
 keywords: vbapj.chm2003
 f1_keywords:
 - vbapj.chm2003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PaneCreate Method (Project)
+# Application.PaneCreate method (Project)
 
 Creates a lower pane for the active window.
 

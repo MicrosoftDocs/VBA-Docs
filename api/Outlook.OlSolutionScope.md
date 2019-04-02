@@ -1,5 +1,5 @@
 ---
-title: OlSolutionScope Enumeration (Outlook)
+title: OlSolutionScope enumeration (Outlook)
 keywords: vbaol11.chm3358
 f1_keywords:
 - vbaol11.chm3358
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSolutionScope Enumeration (Outlook)
+# OlSolutionScope enumeration (Outlook)
 
 Specifies whether the solution root and its subfolders are shown in their default modules.
 

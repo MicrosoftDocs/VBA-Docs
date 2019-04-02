@@ -1,5 +1,5 @@
 ---
-title: Application.DrawingReshape Method (Project)
+title: Application.DrawingReshape method (Project)
 keywords: vbapj.chm2314
 f1_keywords:
 - vbapj.chm2314
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DrawingReshape Method (Project)
+# Application.DrawingReshape method (Project)
 
 Toggles the drawing mode between resize and reshape.
 

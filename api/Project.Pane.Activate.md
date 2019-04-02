@@ -1,5 +1,5 @@
 ---
-title: Pane.Activate Method (Project)
+title: Pane.Activate method (Project)
 ms.prod: project-server
 api_name:
 - Project.Pane.Activate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Pane.Activate Method (Project)
+# Pane.Activate method (Project)
 
 Activates the pane. If the pane isn't in the active window, the window to which the pane belongs is also activated.
 

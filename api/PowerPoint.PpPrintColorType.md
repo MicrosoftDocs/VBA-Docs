@@ -1,5 +1,5 @@
 ---
-title: PpPrintColorType Enumeration (PowerPoint)
+title: PpPrintColorType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpPrintColorType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpPrintColorType Enumeration (PowerPoint)
+# PpPrintColorType enumeration (PowerPoint)
 
 Specifies the way the specified document will be printed: in black and white, in pure black and white (also referred to as high contrast), or in color.
 

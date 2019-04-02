@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.LockMembership Property (Visio)
+title: ContainerProperties.LockMembership property (Visio)
 keywords: vis_sdr.chm17662605
 f1_keywords:
 - vis_sdr.chm17662605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.LockMembership Property (Visio)
+# ContainerProperties.LockMembership property (Visio)
 
 Gets or sets a value that determines whether container members can be added, removed, or deleted. Read/write.
 

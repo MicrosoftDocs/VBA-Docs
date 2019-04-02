@@ -1,5 +1,5 @@
 ---
-title: Window.ID Property (Visio)
+title: Window.ID property (Visio)
 keywords: vis_sdr.chm11613675
 f1_keywords:
 - vis_sdr.chm11613675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.ID Property (Visio)
+# Window.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 

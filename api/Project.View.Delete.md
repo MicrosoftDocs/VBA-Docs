@@ -1,5 +1,5 @@
 ---
-title: View.Delete Method (Project)
+title: View.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.View.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# View.Delete Method (Project)
+# View.Delete method (Project)
 
 Deletes the  **View** object from a **Views** collection.
 

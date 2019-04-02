@@ -1,5 +1,5 @@
 ---
-title: Exception.Index Property (Project)
+title: Exception.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.Index Property (Project)
+# Exception.Index property (Project)
 
 Gets the index of an  **Exception** object in the containing **Exceptions** collection. Read-only **Long**.
 

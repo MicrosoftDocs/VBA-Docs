@@ -1,5 +1,5 @@
 ---
-title: Layers.ItemU Property (Visio)
+title: Layers.ItemU property (Visio)
 keywords: vis_sdr.chm11951980
 f1_keywords:
 - vis_sdr.chm11951980
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layers.ItemU Property (Visio)
+# Layers.ItemU property (Visio)
 
 Returns an object from a collection. Read-only.
 

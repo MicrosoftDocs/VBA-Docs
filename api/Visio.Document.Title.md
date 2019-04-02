@@ -1,5 +1,5 @@
 ---
-title: Document.Title Property (Visio)
+title: Document.Title property (Visio)
 keywords: vis_sdr.chm10514540
 f1_keywords:
 - vis_sdr.chm10514540
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Title Property (Visio)
+# Document.Title property (Visio)
 
 Gets or sets the value of the  **Title** field in a document's properties. Read/write.
 

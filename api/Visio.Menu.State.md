@@ -1,5 +1,5 @@
 ---
-title: Menu.State Property (Visio)
+title: Menu.State property (Visio)
 keywords: vis_sdr.chm13114425
 f1_keywords:
 - vis_sdr.chm13114425
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menu.State Property (Visio)
+# Menu.State property (Visio)
 
 Determines a menu's state, pressed or not pressed. Read/write.
 

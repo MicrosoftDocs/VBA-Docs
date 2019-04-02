@@ -1,5 +1,5 @@
 ---
-title: Document.OLEObjects Property (Visio)
+title: Document.OLEObjects property (Visio)
 keywords: vis_sdr.chm10513965
 f1_keywords:
 - vis_sdr.chm10513965
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.OLEObjects Property (Visio)
+# Document.OLEObjects property (Visio)
 
 Returns the  **OLEObjects** collection of a document. Read-only.
 

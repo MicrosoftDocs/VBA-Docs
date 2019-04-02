@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.Index Property (Project)
+title: GroupCriterion2.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.Index Property (Project)
+# GroupCriterion2.Index property (Project)
 
 Gets the index of an object in its containing collection. Read-only  **Long**.
 

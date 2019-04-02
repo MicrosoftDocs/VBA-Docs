@@ -1,5 +1,5 @@
 ---
-title: Application.BoxStylesEdit Method (Project)
+title: Application.BoxStylesEdit method (Project)
 keywords: vbapj.chm2387
 f1_keywords:
 - vbapj.chm2387
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxStylesEdit Method (Project)
+# Application.BoxStylesEdit method (Project)
 
 Sets the style of boxes in the Network Diagram view.
 

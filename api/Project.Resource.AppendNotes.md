@@ -1,5 +1,5 @@
 ---
-title: Resource.AppendNotes Method (Project)
+title: Resource.AppendNotes method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.AppendNotes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.AppendNotes Method (Project)
+# Resource.AppendNotes method (Project)
 
 Appends text to the Notes field.
 

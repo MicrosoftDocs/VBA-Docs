@@ -1,5 +1,5 @@
 ---
-title: Application.ColumnBestFit Method (Project)
+title: Application.ColumnBestFit method (Project)
 keywords: vbapj.chm2037
 f1_keywords:
 - vbapj.chm2037
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ColumnBestFit Method (Project)
+# Application.ColumnBestFit method (Project)
 
 Sets the width of a column to the width of its widest item.
 

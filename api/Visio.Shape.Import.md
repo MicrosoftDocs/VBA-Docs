@@ -1,5 +1,5 @@
 ---
-title: Shape.Import Method (Visio)
+title: Shape.Import method (Visio)
 keywords: vis_sdr.chm11216355
 f1_keywords:
 - vis_sdr.chm11216355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Import Method (Visio)
+# Shape.Import method (Visio)
 
 Imports a file into the current document.
 

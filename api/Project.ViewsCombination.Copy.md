@@ -1,5 +1,5 @@
 ---
-title: ViewsCombination.Copy Method (Project)
+title: ViewsCombination.Copy method (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewsCombination.Copy
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewsCombination.Copy Method (Project)
+# ViewsCombination.Copy method (Project)
 
 Makes a copy of a group definition for the  **ViewsCombination** collection and returns a reference to the **[View](Project.View.md)** object.
 

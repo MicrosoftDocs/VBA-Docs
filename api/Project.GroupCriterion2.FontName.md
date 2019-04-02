@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.FontName Property (Project)
+title: GroupCriterion2.FontName property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.FontName
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.FontName Property (Project)
+# GroupCriterion2.FontName property (Project)
 
 Gets or sets the name of the font for a field used as a criterion in a group definition. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Cost9 Property (Project)
+title: Task.Cost9 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Cost9
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Cost9 Property (Project)
+# Task.Cost9 property (Project)
 
 Gets or sets the value of the  **Cost9** custom field for the task. Read/write **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: Color.Flags Property (Visio)
+title: Color.Flags property (Visio)
 keywords: vis_sdr.chm12213540
 f1_keywords:
 - vis_sdr.chm12213540
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Color.Flags Property (Visio)
+# Color.Flags property (Visio)
 
 Gets or sets the flags that specify how you use a  **Color** object. Read/write.
 

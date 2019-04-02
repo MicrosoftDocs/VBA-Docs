@@ -1,5 +1,5 @@
 ---
-title: Selection.BringToFront Method (Visio)
+title: Selection.BringToFront method (Visio)
 keywords: vis_sdr.chm11116100
 f1_keywords:
 - vis_sdr.chm11116100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.BringToFront Method (Visio)
+# Selection.BringToFront method (Visio)
 
 Brings the shape or selected shapes to the front of the z-order.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.FilterClear Method (Project)
+title: Application.FilterClear method (Project)
 keywords: vbapj.chm505
 f1_keywords:
 - vbapj.chm505
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilterClear Method (Project)
+# Application.FilterClear method (Project)
 
 Removes any filter that is set on the current view.
 

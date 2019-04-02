@@ -1,5 +1,5 @@
 ---
-title: Task.RemainingOvertimeCost Property (Project)
+title: Task.RemainingOvertimeCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.RemainingOvertimeCost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.RemainingOvertimeCost Property (Project)
+# Task.RemainingOvertimeCost property (Project)
 
 Gets the remaining overtime cost for the task. Read-only  **Variant**.
 

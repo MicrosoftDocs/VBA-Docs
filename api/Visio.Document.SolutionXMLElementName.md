@@ -1,5 +1,5 @@
 ---
-title: Document.SolutionXMLElementName Property (Visio)
+title: Document.SolutionXMLElementName property (Visio)
 keywords: vis_sdr.chm10550870
 f1_keywords:
 - vis_sdr.chm10550870
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SolutionXMLElementName Property (Visio)
+# Document.SolutionXMLElementName property (Visio)
 
 Returns the name of the SolutionXML element. Read-only.
 

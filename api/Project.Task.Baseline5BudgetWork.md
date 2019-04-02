@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline5BudgetWork Property (Project)
+title: Task.Baseline5BudgetWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline5BudgetWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline5BudgetWork Property (Project)
+# Task.Baseline5BudgetWork property (Project)
 
 Gets or sets the baseline5 budget work for the rollup calculated budgeted work hours for all the work and the material resources for the project. Applies only to the project summary task. Read/write  **Variant**.
 

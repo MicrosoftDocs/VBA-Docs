@@ -1,5 +1,5 @@
 ---
-title: Application.SetTaskField Method (Project)
+title: Application.SetTaskField method (Project)
 keywords: vbapj.chm4
 f1_keywords:
 - vbapj.chm4
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetTaskField Method (Project)
+# Application.SetTaskField method (Project)
 
 Sets the value of a task field specified by the name of the field.
 

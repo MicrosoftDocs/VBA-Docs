@@ -1,5 +1,5 @@
 ---
-title: Application.FontStrikethrough Method (Project)
+title: Application.FontStrikethrough method (Project)
 keywords: vbapj.chm2294
 f1_keywords:
 - vbapj.chm2294
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FontStrikethrough Method (Project)
+# Application.FontStrikethrough method (Project)
 
 Applies or removes strikethrough formatting from the selected text.
 

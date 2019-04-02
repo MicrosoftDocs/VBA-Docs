@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseIsCheckedOut Property (Project)
+title: Resource.EnterpriseIsCheckedOut property (Project)
 keywords: vbapj.chm131855
 f1_keywords:
 - vbapj.chm131855
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseIsCheckedOut Property (Project)
+# Resource.EnterpriseIsCheckedOut property (Project)
 
  **True** if the resource is checked out from the enterprise resource pool. Read-only **Boolean**.
 

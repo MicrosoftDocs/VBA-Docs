@@ -1,5 +1,5 @@
 ---
-title: Task.RecalcFlags Property (Project)
+title: Task.RecalcFlags property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.RecalcFlags
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.RecalcFlags Property (Project)
+# Task.RecalcFlags property (Project)
 
 Gets a bit mask, flagging one or more conditions that are driving the task. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Assignment.ResourceUniqueID Property (Project)
+title: Assignment.ResourceUniqueID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ResourceUniqueID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ResourceUniqueID Property (Project)
+# Assignment.ResourceUniqueID property (Project)
 
 Gets or sets a unique identification number of the resource for the assignment. Read/write  **Long**.
 

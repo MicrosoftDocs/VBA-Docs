@@ -1,5 +1,5 @@
 ---
-title: Document.PaperWidth Property (Visio)
+title: Document.PaperWidth property (Visio)
 keywords: vis_sdr.chm10514025
 f1_keywords:
 - vis_sdr.chm10514025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.PaperWidth Property (Visio)
+# Document.PaperWidth property (Visio)
 
 Returns the width of a document's printed page. Read-only.
 

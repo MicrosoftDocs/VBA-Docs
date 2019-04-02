@@ -1,5 +1,5 @@
 ---
-title: Application.ShowOSFTaskPane Method (Project)
+title: Application.ShowOSFTaskPane method (Project)
 keywords: vbapj.chm2199
 f1_keywords:
 - vbapj.chm2199
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowOSFTaskPane Method (Project)
+# Application.ShowOSFTaskPane method (Project)
 Shows an empty Office Add-ins task pane.
 
 ## Syntax

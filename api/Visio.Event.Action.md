@@ -1,5 +1,5 @@
 ---
-title: Event.Action Property (Visio)
+title: Event.Action property (Visio)
 keywords: vis_sdr.chm12613010
 f1_keywords:
 - vis_sdr.chm12613010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.Action Property (Visio)
+# Event.Action property (Visio)
 
 Gets or sets the action code of an  **Event** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Month.Name Property (Project)
+title: Month.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Month.Name Property (Project)
+# Month.Name property (Project)
 
 Gets the name of a  **Month** object. Read-only **String**.
 

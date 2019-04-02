@@ -1,5 +1,5 @@
 ---
-title: Document.ClassID Property (Visio)
+title: Document.ClassID property (Visio)
 keywords: vis_sdr.chm10513240
 f1_keywords:
 - vis_sdr.chm10513240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ClassID Property (Visio)
+# Document.ClassID property (Visio)
 
 Returns the class ID string of the container application in which the document is embedded. Read-only.
 

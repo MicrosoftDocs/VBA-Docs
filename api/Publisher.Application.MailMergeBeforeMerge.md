@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeBeforeMerge Event (Publisher)
+title: Application.MailMergeBeforeMerge event (Publisher)
 keywords: vbapb10.chm268435473
 f1_keywords:
 - vbapb10.chm268435473
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeBeforeMerge Event (Publisher)
+# Application.MailMergeBeforeMerge event (Publisher)
 
 Occurs when a merge is executed before any records in a mail merge have merged.
 

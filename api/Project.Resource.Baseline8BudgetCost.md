@@ -1,5 +1,5 @@
 ---
-title: Resource.Baseline8BudgetCost Property (Project)
+title: Resource.Baseline8BudgetCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Baseline8BudgetCost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Baseline8BudgetCost Property (Project)
+# Resource.Baseline8BudgetCost property (Project)
 
 Gets or sets the baseline8 budget cost for a  **Resource**. Read/write **Variant**.
 

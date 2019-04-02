@@ -1,5 +1,5 @@
 ---
-title: PjBorder Enumeration (Project)
+title: PjBorder enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBorder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBorder Enumeration (Project)
+# PjBorder enumeration (Project)
 
 Contains constants that specify the type borders.
 

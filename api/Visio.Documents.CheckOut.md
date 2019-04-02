@@ -1,5 +1,5 @@
 ---
-title: Documents.CheckOut Method (Visio)
+title: Documents.CheckOut method (Visio)
 keywords: vis_sdr.chm10652035
 f1_keywords:
 - vis_sdr.chm10652035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.CheckOut Method (Visio)
+# Documents.CheckOut method (Visio)
 
 Marks a specified document as checked out and assigns edit privileges to the current user.
 

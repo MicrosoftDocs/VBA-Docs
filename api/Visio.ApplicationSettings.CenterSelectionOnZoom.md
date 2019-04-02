@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.CenterSelectionOnZoom Property (Visio)
+title: ApplicationSettings.CenterSelectionOnZoom property (Visio)
 keywords: vis_sdr.chm16251900
 f1_keywords:
 - vis_sdr.chm16251900
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.CenterSelectionOnZoom Property (Visio)
+# ApplicationSettings.CenterSelectionOnZoom property (Visio)
 
 Determines whether when the user zooms in, the selection appears in the center of the window. Read/write.
 

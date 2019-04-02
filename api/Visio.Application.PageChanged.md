@@ -1,5 +1,5 @@
 ---
-title: Application.PageChanged Event (Visio)
+title: Application.PageChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.PageChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PageChanged Event (Visio)
+# Application.PageChanged event (Visio)
 
 Occurs after the name of a page, the background page associated with a page, or the page type (foreground or background) changes.
 

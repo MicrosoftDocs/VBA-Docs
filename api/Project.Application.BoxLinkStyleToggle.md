@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLinkStyleToggle Method (Project)
+title: Application.BoxLinkStyleToggle method (Project)
 keywords: vbapj.chm48
 f1_keywords:
 - vbapj.chm48
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxLinkStyleToggle Method (Project)
+# Application.BoxLinkStyleToggle method (Project)
 
 Toggles the box link style between rectilinear links and straight links.
 

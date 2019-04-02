@@ -1,5 +1,5 @@
 ---
-title: Shape.ContainingPageID Property (Visio)
+title: Shape.ContainingPageID property (Visio)
 keywords: vis_sdr.chm11260135
 f1_keywords:
 - vis_sdr.chm11260135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ContainingPageID Property (Visio)
+# Shape.ContainingPageID property (Visio)
 
 Returns the ID of the page that contains an object. Read-only.
 

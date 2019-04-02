@@ -1,5 +1,5 @@
 ---
-title: Document.TimePrinted Property (Visio)
+title: Document.TimePrinted property (Visio)
 keywords: vis_sdr.chm10550915
 f1_keywords:
 - vis_sdr.chm10550915
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.TimePrinted Property (Visio)
+# Document.TimePrinted property (Visio)
 
 Returns the date and time the document was last printed. Read-only.
 

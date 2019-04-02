@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.GetPrimaryKey Method (Visio)
+title: DataRecordset.GetPrimaryKey method (Visio)
 keywords: vis_sdr.chm16460290
 f1_keywords:
 - vis_sdr.chm16460290
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.GetPrimaryKey Method (Visio)
+# DataRecordset.GetPrimaryKey method (Visio)
 
 Gets the primary key setting and the name of the primary key column or columns for the data recordset.
 

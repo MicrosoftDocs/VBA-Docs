@@ -1,5 +1,5 @@
 ---
-title: Days.Item Property (Project)
+title: Days.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Days.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Days.Item Property (Project)
+# Days.Item property (Project)
 
 Gets a single  **Day** object from the **Days** collection. Read-only **Day**.
 

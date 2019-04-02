@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReportsAdditionalTemplatePath Property (Project)
+title: Application.VisualReportsAdditionalTemplatePath property (Project)
 keywords: vbapj.chm131391
 f1_keywords:
 - vbapj.chm131391
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.VisualReportsAdditionalTemplatePath Property (Project)
+# Application.VisualReportsAdditionalTemplatePath property (Project)
 
 Gets or sets the additional path for Visual Reports templates. Read/write  **String**.
 

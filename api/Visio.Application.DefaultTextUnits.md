@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultTextUnits Property (Visio)
+title: Application.DefaultTextUnits property (Visio)
 keywords: vis_sdr.chm10051035
 f1_keywords:
 - vis_sdr.chm10051035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DefaultTextUnits Property (Visio)
+# Application.DefaultTextUnits property (Visio)
 
 Determines the default unit of measure for quantities that represent text metrics. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTimescaleRange Method (Project)
+title: Application.SelectTimescaleRange method (Project)
 keywords: vbapj.chm954
 f1_keywords:
 - vbapj.chm954
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTimescaleRange Method (Project)
+# Application.SelectTimescaleRange method (Project)
 
 Selects one or more timescale data cells in a usage view.
 

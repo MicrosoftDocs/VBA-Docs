@@ -1,5 +1,5 @@
 ---
-title: Application.COMAddIns Property (Visio)
+title: Application.COMAddIns property (Visio)
 keywords: vis_sdr.chm10050535
 f1_keywords:
 - vis_sdr.chm10050535
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.COMAddIns Property (Visio)
+# Application.COMAddIns property (Visio)
 
 Returns a reference to the  **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently registered in Microsoft Visio. Read-only.
 

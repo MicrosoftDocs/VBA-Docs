@@ -1,5 +1,5 @@
 ---
-title: Resource.Duration5 Property (Project)
+title: Resource.Duration5 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Duration5
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Duration5 Property (Project)
+# Resource.Duration5 property (Project)
 
  Gets or sets the value of a resource duration custom field. Read/write **Variant**.
 

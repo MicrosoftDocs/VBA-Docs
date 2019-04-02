@@ -1,5 +1,5 @@
 ---
-title: Addons.ItemU Property (Visio)
+title: Addons.ItemU property (Visio)
 keywords: vis_sdr.chm12551980
 f1_keywords:
 - vis_sdr.chm12551980
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Addons.ItemU Property (Visio)
+# Addons.ItemU property (Visio)
 
 Returns an object from a collection. Read-only.
 

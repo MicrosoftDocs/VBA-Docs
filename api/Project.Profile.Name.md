@@ -1,5 +1,5 @@
 ---
-title: Profile.Name Property (Project)
+title: Profile.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profile.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Profile.Name Property (Project)
+# Profile.Name property (Project)
 
 Gets the name of an account profile in Project Professional. Read/write  **String**.
 

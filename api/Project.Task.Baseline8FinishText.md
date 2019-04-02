@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline8FinishText Property (Project)
+title: Task.Baseline8FinishText property (Project)
 keywords: vbapj.chm131548
 f1_keywords:
 - vbapj.chm131548
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline8FinishText Property (Project)
+# Task.Baseline8FinishText property (Project)
 
 Gets or sets a string representation of the baseline finish date of a task. Read/write  **String**.
 

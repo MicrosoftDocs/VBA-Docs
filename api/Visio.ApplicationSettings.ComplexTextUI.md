@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ComplexTextUI Property (Visio)
+title: ApplicationSettings.ComplexTextUI property (Visio)
 keywords: vis_sdr.chm16251895
 f1_keywords:
 - vis_sdr.chm16251895
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ComplexTextUI Property (Visio)
+# ApplicationSettings.ComplexTextUI property (Visio)
 
 Gets whether complex text is displayed in the Microsoft Visio user interface. Read-only.
 

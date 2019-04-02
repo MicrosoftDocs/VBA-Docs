@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverablesClearAll Method (Project)
+title: Project.DeliverablesClearAll method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverablesClearAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverablesClearAll Method (Project)
+# Project.DeliverablesClearAll method (Project)
 
 Clears all deliverables in the project.
 

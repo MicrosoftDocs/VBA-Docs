@@ -1,5 +1,5 @@
 ---
-title: Days.Count Property (Project)
+title: Days.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Days.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Days.Count Property (Project)
+# Days.Count property (Project)
 
 Gets the number of items in the  **Days** collection. Read-only **Integer**.
 

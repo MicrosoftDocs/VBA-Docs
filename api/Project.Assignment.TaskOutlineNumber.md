@@ -1,5 +1,5 @@
 ---
-title: Assignment.TaskOutlineNumber Property (Project)
+title: Assignment.TaskOutlineNumber property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.TaskOutlineNumber
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.TaskOutlineNumber Property (Project)
+# Assignment.TaskOutlineNumber property (Project)
 
 Gets the task outline number of the assignment. Read-only  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.TimeCreated Property (Visio)
+title: Document.TimeCreated property (Visio)
 keywords: vis_sdr.chm10550905
 f1_keywords:
 - vis_sdr.chm10550905
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.TimeCreated Property (Visio)
+# Document.TimeCreated property (Visio)
 
 Returns the date and time the document was created. Read-only.
 

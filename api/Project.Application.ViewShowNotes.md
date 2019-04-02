@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowNotes Method (Project)
+title: Application.ViewShowNotes method (Project)
 keywords: vbapj.chm919
 f1_keywords:
 - vbapj.chm919
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowNotes Method (Project)
+# Application.ViewShowNotes method (Project)
 
 Displays notes for the task or resource in the active details view.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.CanCheckIn Property (Project)
+title: Project.CanCheckIn property (Project)
 keywords: vbapj.chm132590
 f1_keywords:
 - vbapj.chm132590
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.CanCheckIn Property (Project)
+# Project.CanCheckIn property (Project)
 
  **True** if Project Professional can check in a project to Project Server. Read-only **Boolean**.
 

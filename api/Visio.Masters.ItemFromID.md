@@ -1,5 +1,5 @@
 ---
-title: Masters.ItemFromID Property (Visio)
+title: Masters.ItemFromID property (Visio)
 keywords: vis_sdr.chm10813775
 f1_keywords:
 - vis_sdr.chm10813775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Masters.ItemFromID Property (Visio)
+# Masters.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 

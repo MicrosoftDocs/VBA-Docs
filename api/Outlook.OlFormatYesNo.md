@@ -1,5 +1,5 @@
 ---
-title: OlFormatYesNo Enumeration (Outlook)
+title: OlFormatYesNo enumeration (Outlook)
 keywords: vbaol11.chm3139
 f1_keywords:
 - vbaol11.chm3139
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormatYesNo Enumeration (Outlook)
+# OlFormatYesNo enumeration (Outlook)
 
 Indicates the format used to display yes/no Outlook item properties.
 

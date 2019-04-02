@@ -1,5 +1,5 @@
 ---
-title: Task.Hyperlink Property (Project)
+title: Task.Hyperlink property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Hyperlink
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Hyperlink Property (Project)
+# Task.Hyperlink property (Project)
 
 Gets or sets a friendly name representing a hyperlink address. The name may also be a URL or UNC path. Read/write  **String**.
 

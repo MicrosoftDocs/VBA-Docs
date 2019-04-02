@@ -1,5 +1,5 @@
 ---
-title: Assignment.Units Property (Project)
+title: Assignment.Units property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Units
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Units Property (Project)
+# Assignment.Units property (Project)
 
 Gets or sets the number of units completed for the assignment. Read-write  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Calendar Property (Project)
+title: Task.Calendar property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Calendar
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Calendar Property (Project)
+# Task.Calendar property (Project)
 
 Gets or sets the name of the calendar to be used when scheduling the task. Read/write  **String**.
 

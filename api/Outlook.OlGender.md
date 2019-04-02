@@ -1,5 +1,5 @@
 ---
-title: OlGender Enumeration (Outlook)
+title: OlGender enumeration (Outlook)
 keywords: vbaol11.chm3061
 f1_keywords:
 - vbaol11.chm3061
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlGender Enumeration (Outlook)
+# OlGender enumeration (Outlook)
 
 Constants representing gender.
 

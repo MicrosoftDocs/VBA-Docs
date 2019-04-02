@@ -1,5 +1,5 @@
 ---
-title: Calendar.Years Property (Project)
+title: Calendar.Years property (Project)
 keywords: vbapj.chm132836
 f1_keywords:
 - vbapj.chm132836
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Calendar.Years Property (Project)
+# Calendar.Years property (Project)
 
 Gets a  **[Years](Project.years.md)** collection representing the years in the calendar. Read-only **Years**.
 

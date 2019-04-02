@@ -1,5 +1,5 @@
 ---
-title: CostRateTables.Count Property (Project)
+title: CostRateTables.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTables.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CostRateTables.Count Property (Project)
+# CostRateTables.Count property (Project)
 
 Gets the number of items in the  **CostRateTables** collection. Read-only **Long**.
 

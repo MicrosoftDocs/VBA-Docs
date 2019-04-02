@@ -1,5 +1,5 @@
 ---
-title: Exception Object (Project)
+title: Exception object (Project)
 keywords: vbapj.chm131287
 f1_keywords:
 - vbapj.chm131287
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exception Object (Project)
+# Exception object (Project)
 
 Represents a single calendar exception. The  **Exception** object is a member of the **[Exceptions](./Project.exceptions.md)** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.FormatPainter Method (Project)
+title: Application.FormatPainter method (Project)
 keywords: vbapj.chm2333
 f1_keywords:
 - vbapj.chm2333
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FormatPainter Method (Project)
+# Application.FormatPainter method (Project)
 
 Paints the formatting of the selected object onto another object.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.IsDurationValid Property (Project)
+title: Task.IsDurationValid property (Project)
 ms.prod: project-server
 ms.assetid: 303c5cab-b83a-37b6-c1da-207e91c45a86
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Task.IsDurationValid Property (Project)
+# Task.IsDurationValid property (Project)
 
  **True** if the duration of a manually scheduled task is valid; otherwise, **False**. Read-only **Boolean**.
 

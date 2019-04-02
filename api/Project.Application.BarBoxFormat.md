@@ -1,5 +1,5 @@
 ---
-title: Application.BarBoxFormat Method (Project)
+title: Application.BarBoxFormat method (Project)
 keywords: vbapj.chm2389
 f1_keywords:
 - vbapj.chm2389
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BarBoxFormat Method (Project)
+# Application.BarBoxFormat method (Project)
 
 Displays the  **Format Bar** dialog box (if the Gantt Chart, Resource Graph, or Calendar is the active view) or **Format Box** dialog box (if the Network Diagram is the active view).
 

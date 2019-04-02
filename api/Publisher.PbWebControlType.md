@@ -1,5 +1,5 @@
 ---
-title: PbWebControlType Enumeration (Publisher)
+title: PbWebControlType enumeration (Publisher)
 keywords: vbapb10.chm65625
 f1_keywords:
 - vbapb10.chm65625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWebControlType Enumeration (Publisher)
+# PbWebControlType enumeration (Publisher)
 
 Specifies the type of Web form control to add.
 

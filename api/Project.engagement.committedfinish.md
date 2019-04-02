@@ -1,5 +1,5 @@
 ---
-title: Engagement.CommittedFinish Property (Project)
+title: Engagement.CommittedFinish property (Project)
 keywords: vbapj.chm131658
 f1_keywords:
 - vbapj.chm131658
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Engagement.CommittedFinish Property (Project)
+# Engagement.CommittedFinish property (Project)
 
 The CommittedFinish property for the Engagement object. Introduced in Office 2016.
 
@@ -25,6 +25,6 @@ _expression_. `CommittedFinish`
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

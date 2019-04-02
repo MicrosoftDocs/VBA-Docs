@@ -1,5 +1,5 @@
 ---
-title: Project.FollowedHyperlinkColorEx Property (Project)
+title: Project.FollowedHyperlinkColorEx property (Project)
 keywords: vbapj.chm132288
 f1_keywords:
 - vbapj.chm132288
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.FollowedHyperlinkColorEx Property (Project)
+# Project.FollowedHyperlinkColorEx property (Project)
 
 Gets or sets the color used to denote followed hyperlinks. Read/write  **Long**.
 

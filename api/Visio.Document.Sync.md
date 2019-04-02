@@ -1,5 +1,5 @@
 ---
-title: Document.Sync Property (Visio)
+title: Document.Sync property (Visio)
 keywords: vis_sdr.chm10560137
 f1_keywords:
 - vis_sdr.chm10560137
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Sync Property (Visio)
+# Document.Sync property (Visio)
 
 Returns a Microsoft Office  **Sync** object that provides information about the status of the active document in a shared workspace and the ability to perform a set of actions. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PjIndicator Enumeration (Project)
+title: PjIndicator enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjIndicator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjIndicator Enumeration (Project)
+# PjIndicator enumeration (Project)
 
 Contains constants that specify a graphical indicator.
 

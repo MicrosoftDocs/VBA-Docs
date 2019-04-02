@@ -1,5 +1,5 @@
 ---
-title: Assignment.Owner Property (Project)
+title: Assignment.Owner property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Owner
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Owner Property (Project)
+# Assignment.Owner property (Project)
 
 Gets or sets the name of the assignment owner. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.TransformXYFrom Method (Visio)
+title: Shape.TransformXYFrom method (Visio)
 keywords: vis_sdr.chm11216600
 f1_keywords:
 - vis_sdr.chm11216600
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.TransformXYFrom Method (Visio)
+# Shape.TransformXYFrom method (Visio)
 
 Transforms a point expressed in the local coordinate system of one  **Shape** object from an equivalent point expressed in the local coordinate system of another **Shape** object.
 

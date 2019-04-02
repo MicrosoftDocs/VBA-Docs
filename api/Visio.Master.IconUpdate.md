@@ -1,5 +1,5 @@
 ---
-title: Master.IconUpdate Property (Visio)
+title: Master.IconUpdate property (Visio)
 keywords: vis_sdr.chm10713670
 f1_keywords:
 - vis_sdr.chm10713670
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.IconUpdate Property (Visio)
+# Master.IconUpdate property (Visio)
 
 Determines whether a master icon is updated manually or automatically. Read/write.
 

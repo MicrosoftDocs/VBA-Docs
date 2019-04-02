@@ -1,5 +1,5 @@
 ---
-title: Task.Cost6 Property (Project)
+title: Task.Cost6 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Cost6
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Cost6 Property (Project)
+# Task.Cost6 property (Project)
 
 Gets or sets the value of the  **Cost6** custom field for the task. Read/write **Variant**.
 

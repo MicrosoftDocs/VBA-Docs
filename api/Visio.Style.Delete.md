@@ -1,5 +1,5 @@
 ---
-title: Style.Delete Method (Visio)
+title: Style.Delete method (Visio)
 keywords: vis_sdr.chm11416165
 f1_keywords:
 - vis_sdr.chm11416165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.Delete Method (Visio)
+# Style.Delete method (Visio)
 
 Deletes an object.
 

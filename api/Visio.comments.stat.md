@@ -1,5 +1,5 @@
 ---
-title: Comments.Stat Property (Visio)
+title: Comments.Stat property (Visio)
 ms.prod: visio
 ms.assetid: 1f5f29b2-236c-91b6-6d25-7bacc37ca96c
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Comments.Stat Property (Visio)
+# Comments.Stat property (Visio)
 
 Returns status information for an object. Read-only  **Integer**.
 

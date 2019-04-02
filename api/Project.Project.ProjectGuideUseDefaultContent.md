@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectGuideUseDefaultContent Property (Project)
+title: Project.ProjectGuideUseDefaultContent property (Project)
 keywords: vbapj.chm131090
 f1_keywords:
 - vbapj.chm131090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectGuideUseDefaultContent Property (Project)
+# Project.ProjectGuideUseDefaultContent property (Project)
 
  **True** if the Project Guide uses the default content. **False** if you want to use custom content for the Project Guide. Read/write **Boolean**.
 

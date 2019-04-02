@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SnapStrengthGridY Property (Visio)
+title: ApplicationSettings.SnapStrengthGridY property (Visio)
 keywords: vis_sdr.chm16251570
 f1_keywords:
 - vis_sdr.chm16251570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SnapStrengthGridY Property (Visio)
+# ApplicationSettings.SnapStrengthGridY property (Visio)
 
 Specifies the distance in pixels along the  _y_-axis that gridlines pull when snapping is enabled. Read/write.
 

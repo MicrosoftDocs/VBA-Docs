@@ -1,5 +1,5 @@
 ---
-title: Projects.CheckOut Method (Project)
+title: Projects.CheckOut method (Project)
 keywords: vbapj.chm132593
 f1_keywords:
 - vbapj.chm132593
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Projects.CheckOut Method (Project)
+# Projects.CheckOut method (Project)
 
 Checks out the specified file if it is stored in a SharePoint document library.
 

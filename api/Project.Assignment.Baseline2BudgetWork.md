@@ -1,5 +1,5 @@
 ---
-title: Assignment.Baseline2BudgetWork Property (Project)
+title: Assignment.Baseline2BudgetWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline2BudgetWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Baseline2BudgetWork Property (Project)
+# Assignment.Baseline2BudgetWork property (Project)
 
 Gets or sets the baseline2 budget work (in hours) for an  **Assignment**. Read/write **Variant**.
 

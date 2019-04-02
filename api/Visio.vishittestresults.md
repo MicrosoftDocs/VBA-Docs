@@ -1,5 +1,5 @@
 ---
-title: VisHitTestResults Enumeration (Visio)
+title: VisHitTestResults enumeration (Visio)
 keywords: vis_sdr.chm70065
 f1_keywords:
 - vis_sdr.chm70065
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisHitTestResults Enumeration (Visio)
+# VisHitTestResults enumeration (Visio)
 
 Result values returned by the  **Shape.HitTest** method.
 

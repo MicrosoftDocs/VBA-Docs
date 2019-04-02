@@ -1,5 +1,5 @@
 ---
-title: Application.SelectRange Method (Project)
+title: Application.SelectRange method (Project)
 keywords: vbapj.chm2062
 f1_keywords:
 - vbapj.chm2062
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectRange Method (Project)
+# Application.SelectRange method (Project)
 
 Selects one or more cells.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.QueryCancelMasterDelete Event (Visio)
+title: Document.QueryCancelMasterDelete event (Visio)
 keywords: vis_sdr.chm10519310
 f1_keywords:
 - vis_sdr.chm10519310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.QueryCancelMasterDelete Event (Visio)
+# Document.QueryCancelMasterDelete event (Visio)
 
 Occurs before the application deletes a master in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

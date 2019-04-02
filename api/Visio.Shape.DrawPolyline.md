@@ -1,5 +1,5 @@
 ---
-title: Shape.DrawPolyline Method (Visio)
+title: Shape.DrawPolyline method (Visio)
 keywords: vis_sdr.chm11216215
 f1_keywords:
 - vis_sdr.chm11216215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DrawPolyline Method (Visio)
+# Shape.DrawPolyline method (Visio)
 
 Creates a shape whose path is a polyline along a given set of points.
 

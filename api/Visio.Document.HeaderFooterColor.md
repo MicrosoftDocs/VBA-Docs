@@ -1,5 +1,5 @@
 ---
-title: Document.HeaderFooterColor Property (Visio)
+title: Document.HeaderFooterColor property (Visio)
 keywords: vis_sdr.chm10550635
 f1_keywords:
 - vis_sdr.chm10550635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.HeaderFooterColor Property (Visio)
+# Document.HeaderFooterColor property (Visio)
 
 Specifies the color of the header and footer text. Read/write.
 

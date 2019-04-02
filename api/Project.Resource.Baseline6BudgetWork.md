@@ -1,5 +1,5 @@
 ---
-title: Resource.Baseline6BudgetWork Property (Project)
+title: Resource.Baseline6BudgetWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Baseline6BudgetWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Baseline6BudgetWork Property (Project)
+# Resource.Baseline6BudgetWork property (Project)
 
 Gets or sets the baseline6 budget work (in hours) for a  **Resource**. Read/write **Variant**.
 

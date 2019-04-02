@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.CellColorEx Property (Project)
+title: GroupCriterion2.CellColorEx property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.CellColorEx
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.CellColorEx Property (Project)
+# GroupCriterion2.CellColorEx property (Project)
 
 Gets or sets the color of the cell background for a field used as a criterion in a group definition. Read/write  **Long**.
 

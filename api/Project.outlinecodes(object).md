@@ -1,5 +1,5 @@
 ---
-title: OutlineCodes Object (Project)
+title: OutlineCodes object (Project)
 ms.prod: project-server
 ms.assetid: a2e6d0c7-0741-91c6-61aa-f4bcc299e66f
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCodes Object (Project)
+# OutlineCodes object (Project)
 
 Contains a collection of  **[OutlineCode](Project.OutlineCode.md)** objects.
  

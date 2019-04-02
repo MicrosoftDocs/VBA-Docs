@@ -1,5 +1,5 @@
 ---
-title: Task.PathDrivingPredecessor Property (Project)
+title: Task.PathDrivingPredecessor property (Project)
 ms.prod: project-server
 ms.assetid: c78f744e-ed0d-8923-fb01-a0e40a14726f
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Task.PathDrivingPredecessor Property (Project)
+# Task.PathDrivingPredecessor property (Project)
 Gets a value that indicates whether the task is a predecessor that drives the selected task, when the  **Driving Predecessors** item is selected in the **Task Path** drop-down list. Read-only **Boolean**.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RecentFilesListSize Property (Visio)
+title: ApplicationSettings.RecentFilesListSize property (Visio)
 keywords: vis_sdr.chm16251680
 f1_keywords:
 - vis_sdr.chm16251680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RecentFilesListSize Property (Visio)
+# ApplicationSettings.RecentFilesListSize property (Visio)
 
 Determines the number of entries in the  **Recent Documents** list in the Microsoft Visio user interface. Read/write.
 

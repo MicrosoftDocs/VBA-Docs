@@ -1,5 +1,5 @@
 ---
-title: EventList.Application Property (Visio)
+title: EventList.Application property (Visio)
 keywords: vis_sdr.chm12713090
 f1_keywords:
 - vis_sdr.chm12713090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EventList.Application Property (Visio)
+# EventList.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

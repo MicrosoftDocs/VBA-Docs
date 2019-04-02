@@ -1,5 +1,5 @@
 ---
-title: Selection.Resources Property (Project)
+title: Selection.Resources property (Project)
 ms.prod: project-server
 api_name:
 - Project.Selection.Resources
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Resources Property (Project)
+# Selection.Resources property (Project)
 
 Gets a  **[Resources](Project.Resource.md)** collection that contains the resources in the selection. Read-only **Resources**.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.RemoveFromGroup Method (Visio)
+title: Selection.RemoveFromGroup method (Visio)
 keywords: vis_sdr.chm11116475
 f1_keywords:
 - vis_sdr.chm11116475
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.RemoveFromGroup Method (Visio)
+# Selection.RemoveFromGroup method (Visio)
 
 Removes selected shapes from a group.
 

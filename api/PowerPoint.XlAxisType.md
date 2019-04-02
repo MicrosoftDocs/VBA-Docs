@@ -1,5 +1,5 @@
 ---
-title: XlAxisType Enumeration (PowerPoint)
+title: XlAxisType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlAxisType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlAxisType Enumeration (PowerPoint)
+# XlAxisType enumeration (PowerPoint)
 
 Specifies the axis type.
 

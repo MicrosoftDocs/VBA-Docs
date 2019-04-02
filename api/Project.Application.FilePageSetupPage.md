@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupPage Method (Project)
+title: Application.FilePageSetupPage method (Project)
 keywords: vbapj.chm2355
 f1_keywords:
 - vbapj.chm2355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupPage Method (Project)
+# Application.FilePageSetupPage method (Project)
 
 Sets up pages for printing.
 

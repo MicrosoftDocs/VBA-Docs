@@ -1,5 +1,5 @@
 ---
-title: Colors.ObjectType Property (Visio)
+title: Colors.ObjectType property (Visio)
 keywords: vis_sdr.chm12313960
 f1_keywords:
 - vis_sdr.chm12313960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Colors.ObjectType Property (Visio)
+# Colors.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

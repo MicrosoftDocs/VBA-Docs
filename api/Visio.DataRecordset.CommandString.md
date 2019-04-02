@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.CommandString Property (Visio)
+title: DataRecordset.CommandString property (Visio)
 keywords: vis_sdr.chm16460300
 f1_keywords:
 - vis_sdr.chm16460300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.CommandString Property (Visio)
+# DataRecordset.CommandString property (Visio)
 
 Gets or sets the command string used to query the data source to create a data recordset or refresh an existing one. Read/write.
 

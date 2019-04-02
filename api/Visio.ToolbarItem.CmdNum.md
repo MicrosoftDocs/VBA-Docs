@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.CmdNum Property (Visio)
+title: ToolbarItem.CmdNum property (Visio)
 keywords: vis_sdr.chm13513255
 f1_keywords:
 - vis_sdr.chm13513255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.CmdNum Property (Visio)
+# ToolbarItem.CmdNum property (Visio)
 
 Gets or sets the command ID associated with a toolbar item. Read/write.
 

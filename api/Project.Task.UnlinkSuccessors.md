@@ -1,5 +1,5 @@
 ---
-title: Task.UnlinkSuccessors Method (Project)
+title: Task.UnlinkSuccessors method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.UnlinkSuccessors
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.UnlinkSuccessors Method (Project)
+# Task.UnlinkSuccessors method (Project)
 
 Removes one or more successors from the task.
 

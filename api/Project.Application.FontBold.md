@@ -1,5 +1,5 @@
 ---
-title: Application.FontBold Method (Project)
+title: Application.FontBold method (Project)
 keywords: vbapj.chm2320
 f1_keywords:
 - vbapj.chm2320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FontBold Method (Project)
+# Application.FontBold method (Project)
 
 Applies or removes bold formatting from the selected text.
 

@@ -1,5 +1,5 @@
 ---
-title: Global.ActiveWindow Property (Visio)
+title: Global.ActiveWindow property (Visio)
 keywords: vis_sdr.chm12813035
 f1_keywords:
 - vis_sdr.chm12813035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Global.ActiveWindow Property (Visio)
+# Global.ActiveWindow property (Visio)
 
 Returns the active  **Window** object. Read-only.
 

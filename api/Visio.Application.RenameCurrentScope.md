@@ -1,5 +1,5 @@
 ---
-title: Application.RenameCurrentScope Method (Visio)
+title: Application.RenameCurrentScope method (Visio)
 keywords: vis_sdr.chm10050815
 f1_keywords:
 - vis_sdr.chm10050815
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RenameCurrentScope Method (Visio)
+# Application.RenameCurrentScope method (Visio)
 
 Renames the top-level open undo scope.
 

@@ -1,5 +1,5 @@
 ---
-title: DataConnection.FileName Property (Visio)
+title: DataConnection.FileName property (Visio)
 keywords: vis_sdr.chm16560380
 f1_keywords:
 - vis_sdr.chm16560380
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataConnection.FileName Property (Visio)
+# DataConnection.FileName property (Visio)
 
 Gets the name of the Office Data Connection (ODC) file that contains the connection string and query command string for the data connection. Read-only.
 

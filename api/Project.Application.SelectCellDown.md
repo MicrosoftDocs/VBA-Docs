@@ -1,5 +1,5 @@
 ---
-title: Application.SelectCellDown Method (Project)
+title: Application.SelectCellDown method (Project)
 keywords: vbapj.chm2050
 f1_keywords:
 - vbapj.chm2050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectCellDown Method (Project)
+# Application.SelectCellDown method (Project)
 
 Selects cells directly below the current selection.
 

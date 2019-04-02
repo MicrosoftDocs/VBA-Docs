@@ -1,5 +1,5 @@
 ---
-title: Pages.AfterReplaceShapes Event (Visio)
+title: Pages.AfterReplaceShapes event (Visio)
 ms.prod: visio
 ms.assetid: 05c33bdd-e697-d36e-46a8-45705e9ad2c2
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.AfterReplaceShapes Event (Visio)
+# Pages.AfterReplaceShapes event (Visio)
 
 Occurs after a shape-replacement operation.
 

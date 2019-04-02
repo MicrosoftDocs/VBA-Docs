@@ -1,5 +1,5 @@
 ---
-title: Window.Parent Property (Visio)
+title: Window.Parent property (Visio)
 keywords: vis_sdr.chm11614040
 f1_keywords:
 - vis_sdr.chm11614040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Parent Property (Visio)
+# Window.Parent property (Visio)
 
 Determines the parent of an object. Read-only.
 

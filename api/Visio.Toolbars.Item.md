@@ -1,5 +1,5 @@
 ---
-title: Toolbars.Item Property (Visio)
+title: Toolbars.Item property (Visio)
 keywords: vis_sdr.chm13813765
 f1_keywords:
 - vis_sdr.chm13813765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbars.Item Property (Visio)
+# Toolbars.Item property (Visio)
 
 Returns an object from a collection. The  **Item** property is the default property for all collections. Read-only.
 

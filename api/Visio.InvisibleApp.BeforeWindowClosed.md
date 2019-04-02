@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeWindowClosed Event (Visio)
+title: InvisibleApp.BeforeWindowClosed event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeWindowClosed
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeWindowClosed Event (Visio)
+# InvisibleApp.BeforeWindowClosed event (Visio)
 
 Occurs before a window is closed.
 

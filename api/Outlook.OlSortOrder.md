@@ -1,5 +1,5 @@
 ---
-title: OlSortOrder Enumeration (Outlook)
+title: OlSortOrder enumeration (Outlook)
 keywords: vbaol11.chm3082
 f1_keywords:
 - vbaol11.chm3082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSortOrder Enumeration (Outlook)
+# OlSortOrder enumeration (Outlook)
 
 Indicates the sort order.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Marked Property (Project)
+title: Task.Marked property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Marked
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Marked Property (Project)
+# Task.Marked property (Project)
 
  **True** if the task is marked for further action of some kind. Read/write **Variant**.
 

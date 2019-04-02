@@ -1,5 +1,5 @@
 ---
-title: Chart.AutoFormat Method (Project)
+title: Chart.AutoFormat method (Project)
 ms.prod: project-server
 ms.assetid: 1f560c0e-aed8-c989-9721-8e30595ae56e
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.AutoFormat Method (Project)
+# Chart.AutoFormat method (Project)
 Changes the chart to a default format for another chart type.
 
 ## Syntax

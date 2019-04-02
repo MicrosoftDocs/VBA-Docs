@@ -1,5 +1,5 @@
 ---
-title: Task.FixedCost Property (Project)
+title: Task.FixedCost property (Project)
 keywords: vbapj.chm132231
 f1_keywords:
 - vbapj.chm132231
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Task.FixedCost Property (Project)
+# Task.FixedCost property (Project)
 
 Gets or sets a fixed cost for a task. Read/write  **Variant**.
 

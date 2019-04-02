@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ChartGroup.BinsType property (PowerPoint)
 
-Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [XlBinsType Enumeration (PowerPoint)](PowerPoint.xlbinstype.md).
+Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [XlBinsType enumeration (PowerPoint)](PowerPoint.xlbinstype.md).
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: PbSaveOptions Enumeration (Publisher)
+title: PbSaveOptions enumeration (Publisher)
 keywords: vbapb10.chm65538
 f1_keywords:
 - vbapb10.chm65538
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbSaveOptions Enumeration (Publisher)
+# PbSaveOptions enumeration (Publisher)
 
 Specifies what Microsoft Publisher should do if there is already an open publication with unsaved changes.
 

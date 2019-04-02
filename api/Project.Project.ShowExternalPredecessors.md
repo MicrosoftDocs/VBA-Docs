@@ -1,5 +1,5 @@
 ---
-title: Project.ShowExternalPredecessors Property (Project)
+title: Project.ShowExternalPredecessors property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ShowExternalPredecessors
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ShowExternalPredecessors Property (Project)
+# Project.ShowExternalPredecessors property (Project)
 
  **True** if predecessor tasks linked from an external project should be displayed. Read-only **Boolean**.
 

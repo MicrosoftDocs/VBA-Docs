@@ -1,5 +1,5 @@
 ---
-title: Task.GroupBySummary Property (Project)
+title: Task.GroupBySummary property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.GroupBySummary
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.GroupBySummary Property (Project)
+# Task.GroupBySummary property (Project)
 
  **True** if the selected item in a task view is in a group summary row; otherwise, **false**. Read-only **Boolean**.
 

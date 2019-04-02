@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementCommittedMaxUnits Property (Project)
+title: Resource.EngagementCommittedMaxUnits property (Project)
 keywords: vbapj.chm131797
 f1_keywords:
 - vbapj.chm131797
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementCommittedMaxUnits Property (Project)
+# Resource.EngagementCommittedMaxUnits property (Project)
 
 Returns the committed max units for the engagement. Read-only  **Integer**. Introduced in Office 2016.
 

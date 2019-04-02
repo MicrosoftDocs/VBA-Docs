@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportDataCompression Property (Visio)
+title: ApplicationSettings.RasterExportDataCompression property (Visio)
 keywords: vis_sdr.chm16262525
 f1_keywords:
 - vis_sdr.chm16262525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportDataCompression Property (Visio)
+# ApplicationSettings.RasterExportDataCompression property (Visio)
 
 Determines the data compression algorithm that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP or TIFF file. Read/write.
 

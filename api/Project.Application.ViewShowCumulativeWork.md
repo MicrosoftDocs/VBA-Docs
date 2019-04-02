@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowCumulativeWork Method (Project)
+title: Application.ViewShowCumulativeWork method (Project)
 keywords: vbapj.chm924
 f1_keywords:
 - vbapj.chm924
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowCumulativeWork Method (Project)
+# Application.ViewShowCumulativeWork method (Project)
 
 Displays cumulative work information in the active Resource Graph view.
 

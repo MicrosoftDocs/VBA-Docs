@@ -1,5 +1,5 @@
 ---
-title: Application.Visible Property (Project)
+title: Application.Visible property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Visible
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Visible Property (Project)
+# Application.Visible property (Project)
 
  **True** if the application is visible. Read/write **Boolean**.
 

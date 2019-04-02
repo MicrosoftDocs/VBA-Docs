@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.DropActions Property (Visio)
+title: MasterShortcut.DropActions property (Visio)
 keywords: vis_sdr.chm16013450
 f1_keywords:
 - vis_sdr.chm16013450
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.DropActions Property (Visio)
+# MasterShortcut.DropActions property (Visio)
 
 Defines special actions to be performed on shapes created by using a master shortcut. Read/write.
 

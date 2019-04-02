@@ -1,5 +1,5 @@
 ---
-title: PbNumberStylesType Enumeration (Publisher)
+title: PbNumberStylesType enumeration (Publisher)
 ms.prod: publisher
 ms.assetid: e56daa0b-12a2-409c-8cbe-664755280b2f
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# PbNumberStylesType Enumeration (Publisher)
+# PbNumberStylesType enumeration (Publisher)
 
 Constants passed to and returned by the  ** [Font.NumberStyle](Publisher.font.numberstyle.md)** property, specifying the state of the **NumberStyle** property on the numerical characters in a text range.
 

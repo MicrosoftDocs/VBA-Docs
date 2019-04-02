@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeSaveBaseline Event (Project)
+title: Application.ProjectBeforeSaveBaseline event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeSaveBaseline
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeSaveBaseline Event (Project)
+# Application.ProjectBeforeSaveBaseline event (Project)
 
 Occurs before a baseline is saved. Uses the  **EventInfo** object parameter.
 

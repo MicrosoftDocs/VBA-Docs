@@ -1,5 +1,5 @@
 ---
-title: MenuSet.Width Property (Visio)
+title: MenuSet.Width property (Visio)
 keywords: vis_sdr.chm13314655
 f1_keywords:
 - vis_sdr.chm13314655
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSet.Width Property (Visio)
+# MenuSet.Width property (Visio)
 
 Gets the width of an object in pixels. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Settings Property (Visio)
+title: Application.Settings property (Visio)
 keywords: vis_sdr.chm10051635
 f1_keywords:
 - vis_sdr.chm10051635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Settings Property (Visio)
+# Application.Settings property (Visio)
 
 Returns an **ApplicationSettings** object, which you can use to set Microsoft Visio application properties. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: AccelTable Object (Visio)
+title: AccelTable object (Visio)
 keywords: vis_sdr.chm10020
 f1_keywords:
 - vis_sdr.chm10020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelTable Object (Visio)
+# AccelTable object (Visio)
 
 Represents a Microsoft Windows accelerator table.
 

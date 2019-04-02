@@ -1,5 +1,5 @@
 ---
-title: PjVisualReportsDataLevel Enumeration (Project)
+title: PjVisualReportsDataLevel enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjVisualReportsDataLevel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjVisualReportsDataLevel Enumeration (Project)
+# PjVisualReportsDataLevel enumeration (Project)
 
 Contains constants that specify the time level of data to use in Visual Reports.
 

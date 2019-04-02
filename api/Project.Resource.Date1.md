@@ -1,5 +1,5 @@
 ---
-title: Resource.Date1 Property (Project)
+title: Resource.Date1 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Date1
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Date1 Property (Project)
+# Resource.Date1 property (Project)
 
 Gets or sets the value of the  **Date1** custom field for the resource. Read/write **Variant**.
 

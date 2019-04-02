@@ -1,5 +1,5 @@
 ---
-title: Project.DaysPerMonth Property (Project)
+title: Project.DaysPerMonth property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DaysPerMonth
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DaysPerMonth Property (Project)
+# Project.DaysPerMonth property (Project)
 
 Gets or sets the number of days per month for tasks in a project. Read/write  **Double**.
 

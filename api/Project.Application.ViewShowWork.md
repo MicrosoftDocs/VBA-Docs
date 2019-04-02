@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowWork Method (Project)
+title: Application.ViewShowWork method (Project)
 keywords: vbapj.chm922
 f1_keywords:
 - vbapj.chm922
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowWork Method (Project)
+# Application.ViewShowWork method (Project)
 
 Displays work information in the active details pane.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.ResourceFilterList Property (Project)
+title: Project.ResourceFilterList property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ResourceFilterList
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.ResourceFilterList Property (Project)
+# Project.ResourceFilterList property (Project)
 
 Gets a  **[List](Project.List.md)** object representing all resource filters in the project. Read-only **List**.
 

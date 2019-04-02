@@ -1,5 +1,5 @@
 ---
-title: Application.PageBreaksShow Method (Project)
+title: Application.PageBreaksShow method (Project)
 keywords: vbapj.chm933
 f1_keywords:
 - vbapj.chm933
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PageBreaksShow Method (Project)
+# Application.PageBreaksShow method (Project)
 
 Shows or hides page breaks on the Network Diagram.
 

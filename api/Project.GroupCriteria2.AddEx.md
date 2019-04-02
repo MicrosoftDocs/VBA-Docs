@@ -1,5 +1,5 @@
 ---
-title: GroupCriteria2.AddEx Method (Project)
+title: GroupCriteria2.AddEx method (Project)
 keywords: vbapj.chm132308
 f1_keywords:
 - vbapj.chm132308
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriteria2.AddEx Method (Project)
+# GroupCriteria2.AddEx method (Project)
 
 Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value.
 

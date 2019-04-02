@@ -1,5 +1,5 @@
 ---
-title: Filter.FilterType Property (Project)
+title: Filter.FilterType property (Project)
 keywords: vbapj.chm132215
 f1_keywords:
 - vbapj.chm132215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Filter.FilterType Property (Project)
+# Filter.FilterType property (Project)
 
 Gets the type of the filter. Read-only  **PjItemType**.
 

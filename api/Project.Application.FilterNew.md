@@ -1,5 +1,5 @@
 ---
-title: Application.FilterNew Method (Project)
+title: Application.FilterNew method (Project)
 keywords: vbapj.chm504
 f1_keywords:
 - vbapj.chm504
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FilterNew Method (Project)
+# Application.FilterNew method (Project)
 
 Shows the  **Filter Definition** dialog box, where the user can create a filter for a task-based view, resource-based view, or the default view filter.
 

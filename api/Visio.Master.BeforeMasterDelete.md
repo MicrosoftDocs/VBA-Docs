@@ -1,5 +1,5 @@
 ---
-title: Master.BeforeMasterDelete Event (Visio)
+title: Master.BeforeMasterDelete event (Visio)
 keywords: vis_sdr.chm10719040
 f1_keywords:
 - vis_sdr.chm10719040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.BeforeMasterDelete Event (Visio)
+# Master.BeforeMasterDelete event (Visio)
 
 Occurs before a master is deleted from a document.
 

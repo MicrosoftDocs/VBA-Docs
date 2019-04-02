@@ -1,5 +1,5 @@
 ---
-title: Master.GetFormulas Method (Visio)
+title: Master.GetFormulas method (Visio)
 keywords: vis_sdr.chm10716310
 f1_keywords:
 - vis_sdr.chm10716310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.GetFormulas Method (Visio)
+# Master.GetFormulas method (Visio)
 
 Returns the formulas of many cells.
 

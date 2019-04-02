@@ -1,5 +1,5 @@
 ---
-title: PbFixedFormatType Enumeration (Publisher)
+title: PbFixedFormatType enumeration (Publisher)
 keywords: vbapb10.chm65636
 f1_keywords:
 - vbapb10.chm65636
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbFixedFormatType Enumeration (Publisher)
+# PbFixedFormatType enumeration (Publisher)
 
 Constants passed to the  **[ExportAsFixedFormat](Publisher.Document.ExportAsFixedFormat.md)** method that specify the different file formats in which you can save fixed-format publications, PDF or XPS.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.MasterAdded Event (Visio)
+title: Application.MasterAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.MasterAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MasterAdded Event (Visio)
+# Application.MasterAdded event (Visio)
 
 Occurs after a new master is added to a document.
 

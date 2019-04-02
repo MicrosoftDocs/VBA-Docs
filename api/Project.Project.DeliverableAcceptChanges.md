@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableAcceptChanges Method (Project)
+title: Project.DeliverableAcceptChanges method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableAcceptChanges
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableAcceptChanges Method (Project)
+# Project.DeliverableAcceptChanges method (Project)
 
 Accepts the changes on the server for a deliverable.
 

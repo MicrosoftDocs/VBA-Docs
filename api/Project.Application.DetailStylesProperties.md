@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesProperties Method (Project)
+title: Application.DetailStylesProperties method (Project)
 keywords: vbapj.chm952
 f1_keywords:
 - vbapj.chm952
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DetailStylesProperties Method (Project)
+# Application.DetailStylesProperties method (Project)
 
 Sets the format of details in a usage view.
 

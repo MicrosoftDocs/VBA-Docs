@@ -1,5 +1,5 @@
 ---
-title: PjPageSetupCalendarItem Enumeration (Project)
+title: PjPageSetupCalendarItem enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPageSetupCalendarItem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjPageSetupCalendarItem Enumeration (Project)
+# PjPageSetupCalendarItem enumeration (Project)
 
 Contains constants that specify the calendar item to format.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.OnDataChangeDelay Property (Visio)
+title: InvisibleApp.OnDataChangeDelay property (Visio)
 keywords: vis_sdr.chm17513970
 f1_keywords:
 - vis_sdr.chm17513970
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.OnDataChangeDelay Property (Visio)
+# InvisibleApp.OnDataChangeDelay property (Visio)
 
 Gets or sets how long the Microsoft Visio instance waits before advising a container application that a Visio document being shown by the container has changed and should be redisplayed. Read/write.
 

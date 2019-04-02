@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforeDataRecordsetDelete Event (Visio)
+title: DrawingControl.BeforeDataRecordsetDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeDataRecordsetDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeDataRecordsetDelete Event (Visio)
+# DrawingControl.BeforeDataRecordsetDelete event (Visio)
 
 Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets** collection.
 

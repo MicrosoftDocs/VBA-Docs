@@ -1,5 +1,5 @@
 ---
-title: Shape.XYToPage Method (Visio)
+title: Shape.XYToPage method (Visio)
 keywords: vis_sdr.chm11216650
 f1_keywords:
 - vis_sdr.chm11216650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.XYToPage Method (Visio)
+# Shape.XYToPage method (Visio)
 
 Transforms a point expressed in the local coordinate system of a  **Shape** object to an equivalent point expressed in the local coordinate system of its **Page** or **Master** object.
 

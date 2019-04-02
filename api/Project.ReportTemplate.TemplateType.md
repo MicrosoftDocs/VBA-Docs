@@ -1,5 +1,5 @@
 ---
-title: ReportTemplate.TemplateType Property (Project)
+title: ReportTemplate.TemplateType property (Project)
 ms.prod: project-server
 api_name:
 - Project.ReportTemplate.TemplateType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportTemplate.TemplateType Property (Project)
+# ReportTemplate.TemplateType property (Project)
 
 Gets the Visual Report template type. Read-only  **PjVisualReportsTemplateType**.
 

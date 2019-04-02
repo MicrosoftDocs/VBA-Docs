@@ -1,5 +1,5 @@
 ---
-title: Application.SetTaskMode Method (Project)
+title: Application.SetTaskMode method (Project)
 keywords: vbapj.chm90
 f1_keywords:
 - vbapj.chm90
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SetTaskMode Method (Project)
+# Application.SetTaskMode method (Project)
 
 Changes the mode of the selected tasks, to manually scheduled or automatically scheduled.
 

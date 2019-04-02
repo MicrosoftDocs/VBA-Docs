@@ -1,5 +1,5 @@
 ---
-title: Selection.LayoutIncremental Method (Visio)
+title: Selection.LayoutIncremental method (Visio)
 keywords: vis_sdr.chm11162190
 f1_keywords:
 - vis_sdr.chm11162190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.LayoutIncremental Method (Visio)
+# Selection.LayoutIncremental method (Visio)
 
 Makes small adjustments to the position of shapes in the selection to better align the shapes or to space them evenly from other shapes.
 

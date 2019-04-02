@@ -1,5 +1,5 @@
 ---
-title: Application.HighlightPredecessors Method (Project)
+title: Application.HighlightPredecessors method (Project)
 keywords: vbapj.chm147
 f1_keywords:
 - vbapj.chm147
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.HighlightPredecessors Method (Project)
+# Application.HighlightPredecessors method (Project)
 Sets or clears task predecessor highlighting for the task path feature.
 
 ## Syntax

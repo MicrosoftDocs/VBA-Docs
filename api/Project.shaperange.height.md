@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Height Property (Project)
+title: ShapeRange.Height property (Project)
 ms.prod: project-server
 ms.assetid: 07e7edf0-c7e2-6eac-4be9-5936cc5e428a
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Height Property (Project)
+# ShapeRange.Height property (Project)
 Gets or sets the height of the shape range, in points. Read-write  **Single**.
 
 ## Syntax

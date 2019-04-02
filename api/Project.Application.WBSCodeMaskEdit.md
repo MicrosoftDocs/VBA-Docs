@@ -1,5 +1,5 @@
 ---
-title: Application.WBSCodeMaskEdit Method (Project)
+title: Application.WBSCodeMaskEdit method (Project)
 keywords: vbapj.chm630
 f1_keywords:
 - vbapj.chm630
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WBSCodeMaskEdit Method (Project)
+# Application.WBSCodeMaskEdit method (Project)
 
 Edits the work breakdown structure (WBS) code mask.
 

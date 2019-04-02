@@ -1,5 +1,5 @@
 ---
-title: Shape.Object Property (Visio)
+title: Shape.Object property (Visio)
 keywords: vis_sdr.chm11213950
 f1_keywords:
 - vis_sdr.chm11213950
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Object Property (Visio)
+# Shape.Object property (Visio)
 
 Returns an  **IDispatch** interface on the ActiveX control or embedded or linked OLE 2.0 object represented by a **Shape** object or an **OLEObject** object. Read-only.
 

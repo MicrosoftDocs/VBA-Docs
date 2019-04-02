@@ -1,5 +1,5 @@
 ---
-title: Chart.GapDepth Property (Project)
+title: Chart.GapDepth property (Project)
 ms.prod: project-server
 ms.assetid: 22b3c702-6b1e-140b-13a7-04b6cd4bdab2
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.GapDepth Property (Project)
+# Chart.GapDepth property (Project)
 Gets or sets the distance between the data series in a 3-D chart, as a percentage of the marker width. Read/write  **Long**.
 
 ## Syntax

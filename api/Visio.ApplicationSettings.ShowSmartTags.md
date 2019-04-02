@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ShowSmartTags Property (Visio)
+title: ApplicationSettings.ShowSmartTags property (Visio)
 keywords: vis_sdr.chm16251610
 f1_keywords:
 - vis_sdr.chm16251610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ShowSmartTags Property (Visio)
+# ApplicationSettings.ShowSmartTags property (Visio)
 
 Determines whether display of smart tags in Microsoft Visio is enabled. Read/write.
 

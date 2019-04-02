@@ -1,5 +1,5 @@
 ---
-title: Application.SelectCellRight Method (Project)
+title: Application.SelectCellRight method (Project)
 keywords: vbapj.chm2048
 f1_keywords:
 - vbapj.chm2048
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectCellRight Method (Project)
+# Application.SelectCellRight method (Project)
 
 Selects cells to the right of the current selection.
 

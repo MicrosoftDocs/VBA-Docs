@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsSave Method (Project)
+title: Application.OptionsSave method (Project)
 keywords: vbapj.chm650
 f1_keywords:
 - vbapj.chm650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsSave Method (Project)
+# Application.OptionsSave method (Project)
 
 Sets save options for project files.
 

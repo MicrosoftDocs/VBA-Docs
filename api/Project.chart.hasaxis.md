@@ -1,5 +1,5 @@
 ---
-title: Chart.HasAxis Property (Project)
+title: Chart.HasAxis property (Project)
 ms.prod: project-server
 ms.assetid: f1059a7e-01ac-cd41-78d6-dc88f52943f2
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.HasAxis Property (Project)
+# Chart.HasAxis property (Project)
 Gets or sets which axes exist on a chart. Read/write  **Variant**.
 
 ## Syntax

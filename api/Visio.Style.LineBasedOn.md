@@ -1,5 +1,5 @@
 ---
-title: Style.LineBasedOn Property (Visio)
+title: Style.LineBasedOn property (Visio)
 keywords: vis_sdr.chm11413840
 f1_keywords:
 - vis_sdr.chm11413840
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.LineBasedOn Property (Visio)
+# Style.LineBasedOn property (Visio)
 
 Gets or sets the line style on which a  **Style** object is based. Read/write.
 

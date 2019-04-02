@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValue.Clear Method (Project)
+title: TimeScaleValue.Clear method (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.Clear
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValue.Clear Method (Project)
+# TimeScaleValue.Clear method (Project)
 
 Clears the value of a timescaled data item.
 

@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.ItemU Property (Visio)
+title: MasterShortcuts.ItemU property (Visio)
 keywords: vis_sdr.chm15951980
 f1_keywords:
 - vis_sdr.chm15951980
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts.ItemU Property (Visio)
+# MasterShortcuts.ItemU property (Visio)
 
 Returns an object from a collection. Read-only.
 

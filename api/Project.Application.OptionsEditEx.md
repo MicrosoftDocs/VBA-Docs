@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsEditEx Method (Project)
+title: Application.OptionsEditEx method (Project)
 keywords: vbapj.chm2159
 f1_keywords:
 - vbapj.chm2159
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsEditEx Method (Project)
+# Application.OptionsEditEx method (Project)
 
 Sets options for Project, where colors can be hexadecimal values, or opens the  **Project Options** dialog box.
 

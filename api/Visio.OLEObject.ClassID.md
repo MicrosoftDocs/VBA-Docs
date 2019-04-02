@@ -1,5 +1,5 @@
 ---
-title: OLEObject.ClassID Property (Visio)
+title: OLEObject.ClassID property (Visio)
 keywords: vis_sdr.chm15213240
 f1_keywords:
 - vis_sdr.chm15213240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEObject.ClassID Property (Visio)
+# OLEObject.ClassID property (Visio)
 
 Returns the class ID string of a shape that represents an ActiveX control or an embedded or linked OLE object. Read-only.
 

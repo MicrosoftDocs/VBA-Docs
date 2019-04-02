@@ -1,5 +1,5 @@
 ---
-title: OlTaskDelegationState Enumeration (Outlook)
+title: OlTaskDelegationState enumeration (Outlook)
 keywords: vbaol11.chm3083
 f1_keywords:
 - vbaol11.chm3083
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTaskDelegationState Enumeration (Outlook)
+# OlTaskDelegationState enumeration (Outlook)
 
 Indicates the delegation state of a task.
 

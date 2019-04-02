@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline3Cost Property (Project)
+title: Task.Baseline3Cost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline3Cost
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline3Cost Property (Project)
+# Task.Baseline3Cost property (Project)
 
 Gets or sets the baseline cost for a  **Task**. Read/write **Variant**.
 

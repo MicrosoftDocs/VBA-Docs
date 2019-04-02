@@ -1,5 +1,5 @@
 ---
-title: Task.ID Property (Project)
+title: Task.ID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ID
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.ID Property (Project)
+# Task.ID property (Project)
 
 Gets the identification number of a task. Read-only  **Long**.
 

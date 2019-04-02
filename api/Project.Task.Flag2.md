@@ -1,5 +1,5 @@
 ---
-title: Task.Flag2 Property (Project)
+title: Task.Flag2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Flag2
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Flag2 Property (Project)
+# Task.Flag2 property (Project)
 
 Gets or sets the value of a task flag custom field. Read/write  **Variant**.
 

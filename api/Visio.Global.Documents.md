@@ -1,5 +1,5 @@
 ---
-title: Global.Documents Property (Visio)
+title: Global.Documents property (Visio)
 keywords: vis_sdr.chm12813435
 f1_keywords:
 - vis_sdr.chm12813435
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Global.Documents Property (Visio)
+# Global.Documents property (Visio)
 
 Returns the  **Documents** collection for a Microsoft Visio instance. Read-only.
 

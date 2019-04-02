@@ -1,5 +1,5 @@
 ---
-title: Task.BCWP Property (Project)
+title: Task.BCWP property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.BCWP
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.BCWP Property (Project)
+# Task.BCWP property (Project)
 
 Gets the budgeted cost of work performed for the task. Read-only  **Variant**.
 

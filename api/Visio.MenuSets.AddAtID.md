@@ -1,5 +1,5 @@
 ---
-title: MenuSets.AddAtID Method (Visio)
+title: MenuSets.AddAtID method (Visio)
 keywords: vis_sdr.chm13416020
 f1_keywords:
 - vis_sdr.chm13416020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSets.AddAtID Method (Visio)
+# MenuSets.AddAtID method (Visio)
 
 Creates a new object with a specified ID in a collection.
 

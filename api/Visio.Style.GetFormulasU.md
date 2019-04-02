@@ -1,5 +1,5 @@
 ---
-title: Style.GetFormulasU Method (Visio)
+title: Style.GetFormulasU method (Visio)
 keywords: vis_sdr.chm11451935
 f1_keywords:
 - vis_sdr.chm11451935
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.GetFormulasU Method (Visio)
+# Style.GetFormulasU method (Visio)
 
 Returns the formulas of many cells.
 

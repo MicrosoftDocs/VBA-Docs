@@ -1,5 +1,5 @@
 ---
-title: Page.AddGuide Method (Visio)
+title: Page.AddGuide method (Visio)
 keywords: vis_sdr.chm10916035
 f1_keywords:
 - vis_sdr.chm10916035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.AddGuide Method (Visio)
+# Page.AddGuide method (Visio)
 
 Adds a guide to a drawing page.
 

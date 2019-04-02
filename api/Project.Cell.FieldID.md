@@ -1,5 +1,5 @@
 ---
-title: Cell.FieldID Property (Project)
+title: Cell.FieldID property (Project)
 keywords: vbapj.chm132205
 f1_keywords:
 - vbapj.chm132205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.FieldID Property (Project)
+# Cell.FieldID property (Project)
 
 Gets the identification number of the task or resource field in the active cell. Read-only  **Long**.
 

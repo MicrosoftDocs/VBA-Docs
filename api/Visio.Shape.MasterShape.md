@@ -1,5 +1,5 @@
 ---
-title: Shape.MasterShape Property (Visio)
+title: Shape.MasterShape property (Visio)
 keywords: vis_sdr.chm11250710
 f1_keywords:
 - vis_sdr.chm11250710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.MasterShape Property (Visio)
+# Shape.MasterShape property (Visio)
 
 If this shape is part of a master instance, returns the shape in the master that this shape inherits from. Read-only.
 

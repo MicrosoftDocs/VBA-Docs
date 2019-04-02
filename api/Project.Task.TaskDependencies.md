@@ -1,5 +1,5 @@
 ---
-title: Task.TaskDependencies Property (Project)
+title: Task.TaskDependencies property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.TaskDependencies
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.TaskDependencies Property (Project)
+# Task.TaskDependencies property (Project)
 
 Gets a  **[TaskDependencies](Project.TaskDependency.md)** collection of dependent (predecessor and successor) tasks. Read-only **TaskDependencies**.
 

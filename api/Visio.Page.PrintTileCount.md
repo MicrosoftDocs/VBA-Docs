@@ -1,5 +1,5 @@
 ---
-title: Page.PrintTileCount Property (Visio)
+title: Page.PrintTileCount property (Visio)
 keywords: vis_sdr.chm10950800
 f1_keywords:
 - vis_sdr.chm10950800
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.PrintTileCount Property (Visio)
+# Page.PrintTileCount property (Visio)
 
 Returns the number of print tiles for a drawing page. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: List.Parent Property (Project)
+title: List.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.List.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# List.Parent Property (Project)
+# List.Parent property (Project)
 
 Gets the parent of the  **List** object. Read-only **Object**.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.SendToBack Method (Visio)
+title: Shape.SendToBack method (Visio)
 keywords: vis_sdr.chm11216545
 f1_keywords:
 - vis_sdr.chm11216545
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SendToBack Method (Visio)
+# Shape.SendToBack method (Visio)
 
 Moves the shape or selected shapes to the back of the z-order.
 

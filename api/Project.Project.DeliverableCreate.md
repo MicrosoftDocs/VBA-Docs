@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableCreate Method (Project)
+title: Project.DeliverableCreate method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableCreate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableCreate Method (Project)
+# Project.DeliverableCreate method (Project)
 
 Creates a deliverable for a published project that has a project workspace.
 

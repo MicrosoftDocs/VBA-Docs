@@ -1,5 +1,5 @@
 ---
-title: Application.OutlineHideSubTasks Method (Project)
+title: Application.OutlineHideSubTasks method (Project)
 keywords: vbapj.chm2020
 f1_keywords:
 - vbapj.chm2020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OutlineHideSubTasks Method (Project)
+# Application.OutlineHideSubTasks method (Project)
 
 Hides the subtasks of the selected task or tasks.
 

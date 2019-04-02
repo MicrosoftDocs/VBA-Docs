@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.WindowOpened Event (Visio)
+title: InvisibleApp.WindowOpened event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowOpened
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.WindowOpened Event (Visio)
+# InvisibleApp.WindowOpened event (Visio)
 
 Occurs after a window is opened.
 

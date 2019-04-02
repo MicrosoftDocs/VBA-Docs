@@ -1,5 +1,5 @@
 ---
-title: Resource.Overallocated Property (Project)
+title: Resource.Overallocated property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Overallocated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Overallocated Property (Project)
+# Resource.Overallocated property (Project)
 
  **True** if a resource is overallocated. Read-only **Boolean**.
 

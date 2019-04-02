@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ObjectType Property (Visio)
+title: ApplicationSettings.ObjectType property (Visio)
 keywords: vis_sdr.chm16213960
 f1_keywords:
 - vis_sdr.chm16213960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ObjectType Property (Visio)
+# ApplicationSettings.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 

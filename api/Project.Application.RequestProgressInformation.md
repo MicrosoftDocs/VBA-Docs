@@ -1,5 +1,5 @@
 ---
-title: Application.RequestProgressInformation Method (Project)
+title: Application.RequestProgressInformation method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.RequestProgressInformation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RequestProgressInformation Method (Project)
+# Application.RequestProgressInformation method (Project)
 
 Requests progress information from resources, republishes, and saves the active project. .
 

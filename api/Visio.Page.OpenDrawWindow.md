@@ -1,5 +1,5 @@
 ---
-title: Page.OpenDrawWindow Method (Visio)
+title: Page.OpenDrawWindow method (Visio)
 keywords: vis_sdr.chm10916400
 f1_keywords:
 - vis_sdr.chm10916400
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.OpenDrawWindow Method (Visio)
+# Page.OpenDrawWindow method (Visio)
 
 Opens a new drawing window that displays a page.
 

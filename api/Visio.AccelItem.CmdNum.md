@@ -1,5 +1,5 @@
 ---
-title: AccelItem.CmdNum Property (Visio)
+title: AccelItem.CmdNum property (Visio)
 keywords: vis_sdr.chm14513255
 f1_keywords:
 - vis_sdr.chm14513255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelItem.CmdNum Property (Visio)
+# AccelItem.CmdNum property (Visio)
 
 Gets or sets the command ID associated with an accelerator. Read/write.
 

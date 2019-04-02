@@ -1,5 +1,5 @@
 ---
-title: PjAssignmentUnits Enumeration (Project)
+title: PjAssignmentUnits enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAssignmentUnits
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAssignmentUnits Enumeration (Project)
+# PjAssignmentUnits enumeration (Project)
 
 Contains constants that specify assignment units.
 

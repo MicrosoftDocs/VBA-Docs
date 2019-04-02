@@ -1,5 +1,5 @@
 ---
-title: OlFolderDisplayMode Enumeration (Outlook)
+title: OlFolderDisplayMode enumeration (Outlook)
 keywords: vbaol11.chm3059
 f1_keywords:
 - vbaol11.chm3059
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFolderDisplayMode Enumeration (Outlook)
+# OlFolderDisplayMode enumeration (Outlook)
 
 Specifies the folder display mode.
 

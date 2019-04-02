@@ -1,5 +1,5 @@
 ---
-title: Shape.DropMany Method (Visio)
+title: Shape.DropMany method (Visio)
 keywords: vis_sdr.chm11216240
 f1_keywords:
 - vis_sdr.chm11216240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DropMany Method (Visio)
+# Shape.DropMany method (Visio)
 
 Creates one or more new  **Shape** objects in a group. It returns an array of the IDs of the **Shape** objects it produces.
 

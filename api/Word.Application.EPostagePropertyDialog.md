@@ -1,5 +1,5 @@
 ---
-title: Application.EPostagePropertyDialog Event (Word)
+title: Application.EPostagePropertyDialog event (Word)
 keywords: vbawd10.chm4000014
 f1_keywords:
 - vbawd10.chm4000014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.EPostagePropertyDialog Event (Word)
+# Application.EPostagePropertyDialog event (Word)
 
 Occurs when a user clicks the  **E-postage Properties** (**Labels and Envelopes** dialog box) button or **Print Electronic Postage** button.
 

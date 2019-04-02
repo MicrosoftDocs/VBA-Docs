@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.WindowActivated Event (Visio)
+title: DrawingControl.WindowActivated event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.WindowActivated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.WindowActivated Event (Visio)
+# DrawingControl.WindowActivated event (Visio)
 
 Occurs after the active window changes in a Microsoft Visio instance.
 

@@ -1,5 +1,5 @@
 ---
-title: AccelTable.Delete Method (Visio)
+title: AccelTable.Delete method (Visio)
 keywords: vis_sdr.chm14716165
 f1_keywords:
 - vis_sdr.chm14716165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelTable.Delete Method (Visio)
+# AccelTable.Delete method (Visio)
 
 Deletes an object.
 

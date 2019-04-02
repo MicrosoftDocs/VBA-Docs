@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.DeleteConnectorsEnabled Property (Visio)
+title: ApplicationSettings.DeleteConnectorsEnabled property (Visio)
 keywords: vis_sdr.chm16262510
 f1_keywords:
 - vis_sdr.chm16262510
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.DeleteConnectorsEnabled Property (Visio)
+# ApplicationSettings.DeleteConnectorsEnabled property (Visio)
 
 Determines whether connectors are deleted when a shape to which they are connected is deleted. Read/write.
 

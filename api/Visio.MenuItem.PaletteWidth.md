@@ -1,5 +1,5 @@
 ---
-title: MenuItem.PaletteWidth Property (Visio)
+title: MenuItem.PaletteWidth property (Visio)
 keywords: vis_sdr.chm12914010
 f1_keywords:
 - vis_sdr.chm12914010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.PaletteWidth Property (Visio)
+# MenuItem.PaletteWidth property (Visio)
 
 Gets or sets the width of a palette in pixels. Read/write.
 

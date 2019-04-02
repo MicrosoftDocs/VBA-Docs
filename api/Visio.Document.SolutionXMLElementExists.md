@@ -1,5 +1,5 @@
 ---
-title: Document.SolutionXMLElementExists Property (Visio)
+title: Document.SolutionXMLElementExists property (Visio)
 keywords: vis_sdr.chm10550865
 f1_keywords:
 - vis_sdr.chm10550865
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.SolutionXMLElementExists Property (Visio)
+# Document.SolutionXMLElementExists property (Visio)
 
 Indicates whether a named SolutionXML element exists in the document. Read-only.
 

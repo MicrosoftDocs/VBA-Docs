@@ -1,5 +1,5 @@
 ---
-title: Application.MouseUp Event (Visio)
+title: Application.MouseUp event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.MouseUp
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MouseUp Event (Visio)
+# Application.MouseUp event (Visio)
 
 Occurs when a mouse button is released.
 

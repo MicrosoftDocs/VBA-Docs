@@ -1,5 +1,5 @@
 ---
-title: Document.Sync Event (Word)
+title: Document.Sync event (Word)
 keywords: vbawd10.chm4001007
 f1_keywords:
 - vbawd10.chm4001007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Sync Event (Word)
+# Document.Sync event (Word)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

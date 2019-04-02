@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SetRasterExportSize Method (Visio)
+title: ApplicationSettings.SetRasterExportSize method (Visio)
 keywords: vis_sdr.chm16262280
 f1_keywords:
 - vis_sdr.chm16262280
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SetRasterExportSize Method (Visio)
+# ApplicationSettings.SetRasterExportSize method (Visio)
 
 Sets the raster export size.
 

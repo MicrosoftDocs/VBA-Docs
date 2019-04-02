@@ -1,5 +1,5 @@
 ---
-title: Task.Text7 Property (Project)
+title: Task.Text7 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Text7
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Text7 Property (Project)
+# Task.Text7 property (Project)
 
 Gets or sets the value of a local Text custom field for the task. Read/write  **String**.
 

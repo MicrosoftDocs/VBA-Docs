@@ -1,5 +1,5 @@
 ---
-title: Application.MailLogon Method (Project)
+title: Application.MailLogon method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.MailLogon
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MailLogon Method (Project)
+# Application.MailLogon method (Project)
 
 Logs on to a MAPI mail system and establishes a mail session. A mail session must be established before mail or document routing methods can be used.
 

@@ -1,5 +1,5 @@
 ---
-title: VisDocCleanActions Enumeration (Visio)
+title: VisDocCleanActions enumeration (Visio)
 keywords: vis_sdr.chm70310
 f1_keywords:
 - vis_sdr.chm70310
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDocCleanActions Enumeration (Visio)
+# VisDocCleanActions enumeration (Visio)
 
 Flags passed to the  **Document.Clean** method that indicate which document conditions to detect, report, and fix.
 

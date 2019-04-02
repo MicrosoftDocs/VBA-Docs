@@ -1,5 +1,5 @@
 ---
-title: PbListType Enumeration (Publisher)
+title: PbListType enumeration (Publisher)
 keywords: vbapb10.chm65609
 f1_keywords:
 - vbapb10.chm65609
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbListType Enumeration (Publisher)
+# PbListType enumeration (Publisher)
 
 Constants specifying the list type of a  **ParagraphFormat** object, passed to the **SetListType** method.
 

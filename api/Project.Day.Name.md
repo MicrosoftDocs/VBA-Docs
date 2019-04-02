@@ -1,5 +1,5 @@
 ---
-title: Day.Name Property (Project)
+title: Day.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Day.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Day.Name Property (Project)
+# Day.Name property (Project)
 
 Gets the name of a  **Day** object. Read-only **String**.
 

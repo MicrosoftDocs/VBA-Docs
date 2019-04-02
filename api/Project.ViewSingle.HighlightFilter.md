@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.HighlightFilter Property (Project)
+title: ViewSingle.HighlightFilter property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.HighlightFilter
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.HighlightFilter Property (Project)
+# ViewSingle.HighlightFilter property (Project)
 
  **True** if Project highlights the filter for a single view. Read/write **Boolean**.
 

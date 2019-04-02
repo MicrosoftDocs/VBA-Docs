@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SnapStrengthGeometryX Property (Visio)
+title: ApplicationSettings.SnapStrengthGeometryX property (Visio)
 keywords: vis_sdr.chm16251585
 f1_keywords:
 - vis_sdr.chm16251585
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SnapStrengthGeometryX Property (Visio)
+# ApplicationSettings.SnapStrengthGeometryX property (Visio)
 
 Specifies the distance in pixels along the  _x_ -axis that shape geometry pulls when snapping is enabled. Read/write.
 

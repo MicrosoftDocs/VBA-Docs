@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeDocumentSaveAs Event (Visio)
+title: InvisibleApp.BeforeDocumentSaveAs event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeDocumentSaveAs
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeDocumentSaveAs Event (Visio)
+# InvisibleApp.BeforeDocumentSaveAs event (Visio)
 
 Occurs just before a document is saved by using the  **Save As** command.
 

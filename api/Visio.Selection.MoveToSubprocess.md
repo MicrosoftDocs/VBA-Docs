@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveToSubprocess Method (Visio)
+title: Selection.MoveToSubprocess method (Visio)
 keywords: vis_sdr.chm11162210
 f1_keywords:
 - vis_sdr.chm11162210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.MoveToSubprocess Method (Visio)
+# Selection.MoveToSubprocess method (Visio)
 
 Moves the selection to the specified page, and drops a replacement shape on the source page and links it to the target page. Returns the selection of moved shapes on the target page.
 

@@ -1,5 +1,5 @@
 ---
-title: TableField.AutoWrap Property (Project)
+title: TableField.AutoWrap property (Project)
 keywords: vbapj.chm132685
 f1_keywords:
 - vbapj.chm132685
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableField.AutoWrap Property (Project)
+# TableField.AutoWrap property (Project)
 
  **True** if the text in table cells automatically wraps. Read/write **Boolean**.
 

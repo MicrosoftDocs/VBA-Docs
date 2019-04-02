@@ -1,5 +1,5 @@
 ---
-title: Profile Object (Project)
+title: Profile object (Project)
 ms.prod: project-server
 api_name:
 - Project.Profile
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Profile Object (Project)
+# Profile object (Project)
 
 
  
