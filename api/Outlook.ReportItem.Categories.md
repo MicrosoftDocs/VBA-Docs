@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Categories Property (Outlook)
+title: ReportItem.Categories property (Outlook)
 keywords: vbaol11.chm1642
 f1_keywords:
 - vbaol11.chm1642
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Categories Property (Outlook)
+# ReportItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

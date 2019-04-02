@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.PropertyChange Event (Outlook)
+title: TaskRequestUpdateItem.PropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.PropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.PropertyChange Event (Outlook)
+# TaskRequestUpdateItem.PropertyChange event (Outlook)
 
 Occurs when an explicit built-in property (for example,  **[Subject](Outlook.AppointmentItem.Subject.md)**) of an instance of the parent object is changed.
 

@@ -1,5 +1,5 @@
 ---
-title: Slides.Parent Property (PowerPoint)
+title: Slides.Parent property (PowerPoint)
 keywords: vbapp10.chm530002
 f1_keywords:
 - vbapp10.chm530002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slides.Parent Property (PowerPoint)
+# Slides.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

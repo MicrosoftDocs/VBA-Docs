@@ -1,5 +1,5 @@
 ---
-title: Theme.ThemeVariants Property (PowerPoint)
+title: Theme.ThemeVariants property (PowerPoint)
 keywords: vbapp10.chm740002
 f1_keywords:
 - vbapp10.chm740002
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Theme.ThemeVariants Property (PowerPoint)
+# Theme.ThemeVariants property (PowerPoint)
 
 Returns a  **[ThemeVariants](PowerPoint.themevariant.md)** collection that represents the variations in the theme.
 

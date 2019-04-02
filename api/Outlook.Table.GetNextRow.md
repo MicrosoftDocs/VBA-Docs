@@ -1,5 +1,5 @@
 ---
-title: Table.GetNextRow Method (Outlook)
+title: Table.GetNextRow method (Outlook)
 keywords: vbaol11.chm2231
 f1_keywords:
 - vbaol11.chm2231
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.GetNextRow Method (Outlook)
+# Table.GetNextRow method (Outlook)
 
 Moves the current row to the next row in the  **[Table](Outlook.Table.md)** and obtains that row in the **Table**.
 

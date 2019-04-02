@@ -1,5 +1,5 @@
 ---
-title: Placeholders.Count Property (PowerPoint)
+title: Placeholders.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Placeholders.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Placeholders.Count Property (PowerPoint)
+# Placeholders.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

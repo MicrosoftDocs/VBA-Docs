@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Body Property (Outlook)
+title: TaskRequestAcceptItem.Body property (Outlook)
 keywords: vbaol11.chm1777
 f1_keywords:
 - vbaol11.chm1777
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Body Property (Outlook)
+# TaskRequestAcceptItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 

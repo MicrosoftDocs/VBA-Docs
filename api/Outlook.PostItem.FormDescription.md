@@ -1,5 +1,5 @@
 ---
-title: PostItem.FormDescription Property (Outlook)
+title: PostItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1523
 f1_keywords:
 - vbaol11.chm1523
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.FormDescription Property (Outlook)
+# PostItem.FormDescription property (Outlook)
 
 Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified Outlook item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Top Property (PowerPoint)
+title: ProtectedViewWindow.Top property (PowerPoint)
 keywords: vbapp10.chm734010
 f1_keywords:
 - vbapp10.chm734010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Top Property (PowerPoint)
+# ProtectedViewWindow.Top property (PowerPoint)
 
 Returns or sets the distance in points from the top edge of the specified window to the top edge of the application window's client area. Read/write.
 

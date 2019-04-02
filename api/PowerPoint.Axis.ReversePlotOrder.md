@@ -1,5 +1,5 @@
 ---
-title: Axis.ReversePlotOrder Property (PowerPoint)
+title: Axis.ReversePlotOrder property (PowerPoint)
 keywords: vbapp10.chm682025
 f1_keywords:
 - vbapp10.chm682025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.ReversePlotOrder Property (PowerPoint)
+# Axis.ReversePlotOrder property (PowerPoint)
 
  **True** if Microsoft Word plots data points from last to first. Read/write **Boolean**.
 

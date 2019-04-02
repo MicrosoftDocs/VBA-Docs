@@ -1,5 +1,5 @@
 ---
-title: Folder.DefaultItemType Property (Outlook)
+title: Folder.DefaultItemType property (Outlook)
 keywords: vbaol11.chm1985
 f1_keywords:
 - vbaol11.chm1985
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.DefaultItemType Property (Outlook)
+# Folder.DefaultItemType property (Outlook)
 
 Returns a constant from the  **[OlItemType](Outlook.OlItemType.md)** enumeration indicating the default Outlook item type contained in the folder. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.Parent Property (Outlook)
+title: NavigationGroups.Parent property (Outlook)
 keywords: vbaol11.chm2855
 f1_keywords:
 - vbaol11.chm2855
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.Parent Property (Outlook)
+# NavigationGroups.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

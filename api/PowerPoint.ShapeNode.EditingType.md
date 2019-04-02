@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.EditingType Property (PowerPoint)
+title: ShapeNode.EditingType property (PowerPoint)
 keywords: vbapp10.chm561002
 f1_keywords:
 - vbapp10.chm561002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode.EditingType Property (PowerPoint)
+# ShapeNode.EditingType property (PowerPoint)
 
 If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. If the node is a control point for a curved segment, this property returns the editing type of the adjacent vertex. Read-only.
 

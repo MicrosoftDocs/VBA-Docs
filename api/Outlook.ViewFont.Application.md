@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Application Property (Outlook)
+title: ViewFont.Application property (Outlook)
 keywords: vbaol11.chm2691
 f1_keywords:
 - vbaol11.chm2691
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Application Property (Outlook)
+# ViewFont.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

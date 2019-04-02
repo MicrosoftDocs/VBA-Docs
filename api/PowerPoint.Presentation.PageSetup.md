@@ -1,5 +1,5 @@
 ---
-title: Presentation.PageSetup Property (PowerPoint)
+title: Presentation.PageSetup property (PowerPoint)
 keywords: vbapp10.chm583012
 f1_keywords:
 - vbapp10.chm583012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.PageSetup Property (PowerPoint)
+# Presentation.PageSetup property (PowerPoint)
 
 Returns a  **[PageSetup](PowerPoint.PageSetup.md)** object whose properties control slide setup attributes for the specified presentation. Read-only.
 

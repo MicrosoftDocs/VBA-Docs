@@ -1,5 +1,5 @@
 ---
-title: Rules.Item Method (Outlook)
+title: Rules.Item method (Outlook)
 keywords: vbaol11.chm2159
 f1_keywords:
 - vbaol11.chm2159
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rules.Item Method (Outlook)
+# Rules.Item method (Outlook)
 
 Obtains a  **[Rule](Outlook.Rule.md)** object specified by _Index_ , which is either a numerical index into the **[Rules](Outlook.Rules.md)** collection or the rule name.
 

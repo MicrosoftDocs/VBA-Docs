@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Move Method (Outlook)
+title: TaskRequestItem.Move method (Outlook)
 keywords: vbaol11.chm1902
 f1_keywords:
 - vbaol11.chm1902
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Move Method (Outlook)
+# TaskRequestItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

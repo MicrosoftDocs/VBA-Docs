@@ -1,5 +1,5 @@
 ---
-title: Explorer.CurrentFolder Property (Outlook)
+title: Explorer.CurrentFolder property (Outlook)
 keywords: vbaol11.chm2762
 f1_keywords:
 - vbaol11.chm2762
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.CurrentFolder Property (Outlook)
+# Explorer.CurrentFolder property (Outlook)
 
 Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the current folder displayed in the explorer. Read/write.
 

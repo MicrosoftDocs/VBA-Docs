@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Exit Event (Outlook)
+title: OlkComboBox.Exit event (Outlook)
 keywords: vbaol11.chm1000241
 f1_keywords:
 - vbaol11.chm1000241
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Exit Event (Outlook)
+# OlkComboBox.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 

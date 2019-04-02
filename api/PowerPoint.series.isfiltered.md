@@ -1,5 +1,5 @@
 ---
-title: Series.IsFiltered Property (PowerPoint)
+title: Series.IsFiltered property (PowerPoint)
 keywords: vbapp10.chm716009
 f1_keywords:
 - vbapp10.chm716009
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Series.IsFiltered Property (PowerPoint)
+# Series.IsFiltered property (PowerPoint)
 
 Returns or sets a  **Boolean** that determines whether the specified chart series is filtered out from the chart. Read-write.
 

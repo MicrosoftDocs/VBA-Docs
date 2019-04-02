@@ -1,5 +1,5 @@
 ---
-title: Chart.DepthPercent Property (PowerPoint)
+title: Chart.DepthPercent property (PowerPoint)
 keywords: vbapp10.chm684025
 f1_keywords:
 - vbapp10.chm684025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.DepthPercent Property (PowerPoint)
+# Chart.DepthPercent property (PowerPoint)
 
 Returns or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long**.
 

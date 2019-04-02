@@ -1,5 +1,5 @@
 ---
-title: Folders.FolderRemove Event (Outlook)
+title: Folders.FolderRemove event (Outlook)
 keywords: vbaol11.chm310
 f1_keywords:
 - vbaol11.chm310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.FolderRemove Event (Outlook)
+# Folders.FolderRemove event (Outlook)
 
 Occurs when a folder is removed from the specified  **[Folders](Outlook.Folders.md)** collection.
 

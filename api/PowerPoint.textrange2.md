@@ -1,5 +1,5 @@
 ---
-title: TextRange2 Object (PowerPoint)
+title: TextRange2 object (PowerPoint)
 ms.assetid: 88e2de08-3d15-406d-99a0-93c3cd661eda
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange2 Object (PowerPoint)
+# TextRange2 object (PowerPoint)
 
 Represents the text frame in a  **Shape** or **ShapeRange** objects.
 

@@ -1,5 +1,5 @@
 ---
-title: Exceptions.Count Property (Outlook)
+title: Exceptions.Count property (Outlook)
 keywords: vbaol11.chm294
 f1_keywords:
 - vbaol11.chm294
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exceptions.Count Property (Outlook)
+# Exceptions.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

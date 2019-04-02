@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.MouseDown Event (Outlook)
+title: OlkTimeControl.MouseDown event (Outlook)
 keywords: vbaol11.chm1000403
 f1_keywords:
 - vbaol11.chm1000403
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.MouseDown Event (Outlook)
+# OlkTimeControl.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 

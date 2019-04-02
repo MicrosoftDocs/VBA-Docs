@@ -1,5 +1,5 @@
 ---
-title: Inspector.EditorType Property (Outlook)
+title: Inspector.EditorType property (Outlook)
 keywords: vbaol11.chm2963
 f1_keywords:
 - vbaol11.chm2963
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.EditorType Property (Outlook)
+# Inspector.EditorType property (Outlook)
 
 Returns an  **[OlEditorType](Outlook.OlEditorType.md)** constant indicating the type of editor. Read-only.
 

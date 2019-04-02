@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.ShowCategoriesDialog Method (Outlook)
+title: RemoteItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1626
 f1_keywords:
 - vbaol11.chm1626
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.ShowCategoriesDialog Method (Outlook)
+# RemoteItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 

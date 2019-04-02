@@ -1,5 +1,5 @@
 ---
-title: Chart.BackWall Property (PowerPoint)
+title: Chart.BackWall property (PowerPoint)
 keywords: vbapp10.chm67914
 f1_keywords:
 - vbapp10.chm67914
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.BackWall Property (PowerPoint)
+# Chart.BackWall property (PowerPoint)
 
 Returns an object that allows the user to individually format the back wall of a 3-D chart. Read-only  **[Walls](PowerPoint.Walls.md)**.
 

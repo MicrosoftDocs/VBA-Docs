@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetMaterial Property (PowerPoint)
+title: ThreeDFormat.PresetMaterial property (PowerPoint)
 keywords: vbapp10.chm557014
 f1_keywords:
 - vbapp10.chm557014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetMaterial Property (PowerPoint)
+# ThreeDFormat.PresetMaterial property (PowerPoint)
 
 Returns or sets the extrusion surface material. Read/write.
 

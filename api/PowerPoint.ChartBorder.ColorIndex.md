@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.ColorIndex Property (PowerPoint)
+title: ChartBorder.ColorIndex property (PowerPoint)
 keywords: vbapp10.chm685002
 f1_keywords:
 - vbapp10.chm685002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartBorder.ColorIndex Property (PowerPoint)
+# ChartBorder.ColorIndex property (PowerPoint)
 
 Returns or sets the color of the border. Read/write  **Variant**.
 

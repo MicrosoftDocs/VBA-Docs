@@ -1,5 +1,5 @@
 ---
-title: MailItem.BeforeAttachmentPreview Event (Outlook)
+title: MailItem.BeforeAttachmentPreview event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.BeforeAttachmentPreview
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.BeforeAttachmentPreview Event (Outlook)
+# MailItem.BeforeAttachmentPreview event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is previewed.
 

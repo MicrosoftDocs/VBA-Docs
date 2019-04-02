@@ -1,5 +1,5 @@
 ---
-title: Trendline Object (PowerPoint)
+title: Trendline object (PowerPoint)
 keywords: vbapp10.chm720000
 f1_keywords:
 - vbapp10.chm720000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline Object (PowerPoint)
+# Trendline object (PowerPoint)
 
 Represents a trendline in a chart.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.ColorScheme Property (PowerPoint)
+title: Master.ColorScheme property (PowerPoint)
 keywords: vbapp10.chm533005
 f1_keywords:
 - vbapp10.chm533005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.ColorScheme Property (PowerPoint)
+# Master.ColorScheme property (PowerPoint)
 
 Returns or sets the  **[ColorScheme](PowerPoint.ColorScheme.md)** object that represents the scheme colors for the specified slide, slide range, or slide master. Read/write.
 

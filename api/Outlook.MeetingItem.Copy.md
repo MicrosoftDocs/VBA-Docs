@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Copy Method (Outlook)
+title: MeetingItem.Copy method (Outlook)
 keywords: vbaol11.chm1429
 f1_keywords:
 - vbaol11.chm1429
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Copy Method (Outlook)
+# MeetingItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

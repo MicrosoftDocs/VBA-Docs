@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ConversationTopic Property (Outlook)
+title: AppointmentItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm849
 f1_keywords:
 - vbaol11.chm849
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ConversationTopic Property (Outlook)
+# AppointmentItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 

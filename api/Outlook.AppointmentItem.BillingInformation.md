@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.BillingInformation Property (Outlook)
+title: AppointmentItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm844
 f1_keywords:
 - vbaol11.chm844
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.BillingInformation Property (Outlook)
+# AppointmentItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
 

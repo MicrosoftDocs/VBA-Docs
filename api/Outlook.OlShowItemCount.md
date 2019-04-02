@@ -26,6 +26,6 @@ Indicates which type of Microsoft Outlook item count is displayed for folders in
 
 ## Remarks
 
-Used by the [Folder.ShowItemCount Property (Outlook)](Outlook.Folder.ShowItemCount.md).
+Used by the [Folder.ShowItemCount property (Outlook)](Outlook.Folder.ShowItemCount.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

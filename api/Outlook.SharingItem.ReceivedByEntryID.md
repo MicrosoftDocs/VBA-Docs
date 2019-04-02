@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReceivedByEntryID Property (Outlook)
+title: SharingItem.ReceivedByEntryID property (Outlook)
 keywords: vbaol11.chm644
 f1_keywords:
 - vbaol11.chm644
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReceivedByEntryID Property (Outlook)
+# SharingItem.ReceivedByEntryID property (Outlook)
 
 Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** for the true recipient as set by the transport provider delivering the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 

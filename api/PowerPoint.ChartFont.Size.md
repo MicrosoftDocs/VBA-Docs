@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Size Property (PowerPoint)
+title: ChartFont.Size property (PowerPoint)
 keywords: vbapp10.chm704010
 f1_keywords:
 - vbapp10.chm704010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Size Property (PowerPoint)
+# ChartFont.Size property (PowerPoint)
 
 Returns or sets the size of the font. Read/write  **Variant**.
 

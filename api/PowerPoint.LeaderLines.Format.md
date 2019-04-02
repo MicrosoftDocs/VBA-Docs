@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Format Property (PowerPoint)
+title: LeaderLines.Format property (PowerPoint)
 keywords: vbapp10.chm708001
 f1_keywords:
 - vbapp10.chm708001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LeaderLines.Format Property (PowerPoint)
+# LeaderLines.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 

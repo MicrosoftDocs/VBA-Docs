@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.AddItem Method (Outlook)
+title: OlkComboBox.AddItem method (Outlook)
 keywords: vbaol11.chm1000230
 f1_keywords:
 - vbaol11.chm1000230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.AddItem Method (Outlook)
+# OlkComboBox.AddItem method (Outlook)
 
 Adds an item to the list, optionally specifying an index for the new item to appear in the list.
 

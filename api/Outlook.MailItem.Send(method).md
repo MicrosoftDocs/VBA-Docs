@@ -1,5 +1,5 @@
 ---
-title: MailItem.Send Method (Outlook)
+title: MailItem.Send method (Outlook)
 keywords: vbaol11.chm1369
 f1_keywords:
 - vbaol11.chm1369
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Send Method (Outlook)
+# MailItem.Send method (Outlook)
 
 Sends the email message.
 

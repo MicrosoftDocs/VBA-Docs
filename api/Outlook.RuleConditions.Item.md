@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.Item Method (Outlook)
+title: RuleConditions.Item method (Outlook)
 keywords: vbaol11.chm2301
 f1_keywords:
 - vbaol11.chm2301
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.Item Method (Outlook)
+# RuleConditions.Item method (Outlook)
 
 Obtains a  **[RuleCondition](Outlook.RuleCondition.md)** object specified by _Index_ which is a numerical index into the **[RuleConditions](Outlook.RuleConditions.md)** collection.
 

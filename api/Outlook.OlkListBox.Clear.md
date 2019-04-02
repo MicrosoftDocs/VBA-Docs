@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.Clear Method (Outlook)
+title: OlkListBox.Clear method (Outlook)
 keywords: vbaol11.chm1000275
 f1_keywords:
 - vbaol11.chm1000275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.Clear Method (Outlook)
+# OlkListBox.Clear method (Outlook)
 
 Removes all objects from the list.
 

@@ -1,5 +1,5 @@
 ---
-title: CalendarView.XML Property (Outlook)
+title: CalendarView.XML property (Outlook)
 keywords: vbaol11.chm2622
 f1_keywords:
 - vbaol11.chm2622
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.XML Property (Outlook)
+# CalendarView.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
 

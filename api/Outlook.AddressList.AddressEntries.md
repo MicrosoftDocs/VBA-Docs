@@ -1,5 +1,5 @@
 ---
-title: AddressList.AddressEntries Property (Outlook)
+title: AddressList.AddressEntries property (Outlook)
 keywords: vbaol11.chm2027
 f1_keywords:
 - vbaol11.chm2027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.AddressEntries Property (Outlook)
+# AddressList.AddressEntries property (Outlook)
 
 Returns the  **[AddressEntries](Outlook.AddressEntries.md)** collection for the specified object. Read-only.
 

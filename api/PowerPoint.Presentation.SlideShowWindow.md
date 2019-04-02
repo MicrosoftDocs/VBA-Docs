@@ -1,5 +1,5 @@
 ---
-title: Presentation.SlideShowWindow Property (PowerPoint)
+title: Presentation.SlideShowWindow property (PowerPoint)
 keywords: vbapp10.chm583047
 f1_keywords:
 - vbapp10.chm583047
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.SlideShowWindow Property (PowerPoint)
+# Presentation.SlideShowWindow property (PowerPoint)
 
 Returns a  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object that represents the slide show window in which the specified presentation is running. Read-only.
 

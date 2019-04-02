@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.BeforeAttachmentAdd Event (Outlook)
+title: AppointmentItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeAttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.BeforeAttachmentAdd Event (Outlook)
+# AppointmentItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 

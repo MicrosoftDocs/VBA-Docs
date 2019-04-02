@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.Dim Property (PowerPoint)
+title: EffectInformation.Dim property (PowerPoint)
 keywords: vbapp10.chm655007
 f1_keywords:
 - vbapp10.chm655007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EffectInformation.Dim Property (PowerPoint)
+# EffectInformation.Dim property (PowerPoint)
 
 Returns a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color to dim to after an animation is finished.
 

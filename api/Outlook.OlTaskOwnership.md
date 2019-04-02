@@ -26,6 +26,6 @@ Indicates the ownership state of the task.
 
 ## Remarks
 
-Used by the [TaskItem.Ownership Property (Outlook)](Outlook.TaskItem.Ownership.md).
+Used by the [TaskItem.Ownership property (Outlook)](Outlook.TaskItem.Ownership.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

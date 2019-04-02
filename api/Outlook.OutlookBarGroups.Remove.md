@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.Remove Method (Outlook)
+title: OutlookBarGroups.Remove method (Outlook)
 keywords: vbaol11.chm353
 f1_keywords:
 - vbaol11.chm353
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.Remove Method (Outlook)
+# OutlookBarGroups.Remove method (Outlook)
 
 Removes an object from the collection.
 

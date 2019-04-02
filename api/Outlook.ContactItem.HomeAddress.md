@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HomeAddress Property (Outlook)
+title: ContactItem.HomeAddress property (Outlook)
 keywords: vbaol11.chm1012
 f1_keywords:
 - vbaol11.chm1012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HomeAddress Property (Outlook)
+# ContactItem.HomeAddress property (Outlook)
 
 Returns or sets a  **String** representing the full, unparsed text of the home address for the contact. Read/write.
 

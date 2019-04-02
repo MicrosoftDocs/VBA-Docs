@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowPercentage Property (PowerPoint)
+title: DataLabels.ShowPercentage property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowPercentage
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.ShowPercentage Property (PowerPoint)
+# DataLabels.ShowPercentage property (PowerPoint)
 
  **True** to display the percentage value for the data labels on a chart. **False** to hide the value. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.Attachments Property (Outlook)
+title: PostItem.Attachments property (Outlook)
 keywords: vbaol11.chm1514
 f1_keywords:
 - vbaol11.chm1514
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Attachments Property (Outlook)
+# PostItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 

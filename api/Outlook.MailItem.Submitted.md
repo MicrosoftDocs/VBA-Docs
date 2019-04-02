@@ -1,5 +1,5 @@
 ---
-title: MailItem.Submitted Property (Outlook)
+title: MailItem.Submitted property (Outlook)
 keywords: vbaol11.chm1361
 f1_keywords:
 - vbaol11.chm1361
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Submitted Property (Outlook)
+# MailItem.Submitted property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the item has been submitted. Read-only.
 

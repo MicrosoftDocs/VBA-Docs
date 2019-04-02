@@ -1,5 +1,5 @@
 ---
-title: MailItem.SentOnBehalfOfName Property (Outlook)
+title: MailItem.SentOnBehalfOfName property (Outlook)
 keywords: vbaol11.chm1360
 f1_keywords:
 - vbaol11.chm1360
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.SentOnBehalfOfName Property (Outlook)
+# MailItem.SentOnBehalfOfName property (Outlook)
 
 Returns a  **String** indicating the display name for the intended sender of the mail message. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Size Property (Outlook)
+title: TaskRequestAcceptItem.Size property (Outlook)
 keywords: vbaol11.chm1796
 f1_keywords:
 - vbaol11.chm1796
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Size Property (Outlook)
+# TaskRequestAcceptItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 

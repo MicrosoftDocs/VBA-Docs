@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.VerticalAnchor Property (PowerPoint)
+title: TextFrame2.VerticalAnchor property (PowerPoint)
 keywords: vbapp10.chm678008
 f1_keywords:
 - vbapp10.chm678008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.VerticalAnchor Property (PowerPoint)
+# TextFrame2.VerticalAnchor property (PowerPoint)
 
  Returns or sets the vertical alignment of text in a text frame. Read/write.
 

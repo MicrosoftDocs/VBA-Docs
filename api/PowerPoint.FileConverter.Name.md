@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Name Property (PowerPoint)
+title: FileConverter.Name property (PowerPoint)
 keywords: vbapp10.chm680008
 f1_keywords:
 - vbapp10.chm680008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.Name Property (PowerPoint)
+# FileConverter.Name property (PowerPoint)
 
 Returns the name of the specified object. Read-only  **String**.
 

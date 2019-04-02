@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.SelText Property (Outlook)
+title: OlkTextBox.SelText property (Outlook)
 keywords: vbaol11.chm1000064
 f1_keywords:
 - vbaol11.chm1000064
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.SelText Property (Outlook)
+# OlkTextBox.SelText property (Outlook)
 
 Returns a  **String** that represents the currently selected portion of the value of the text box. Read-only.
 

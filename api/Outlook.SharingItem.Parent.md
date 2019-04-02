@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Parent Property (Outlook)
+title: SharingItem.Parent property (Outlook)
 keywords: vbaol11.chm596
 f1_keywords:
 - vbaol11.chm596
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Parent Property (Outlook)
+# SharingItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 

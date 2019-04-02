@@ -1,5 +1,5 @@
 ---
-title: Shape.BlackWhiteMode Property (PowerPoint)
+title: Shape.BlackWhiteMode property (PowerPoint)
 keywords: vbapp10.chm547017
 f1_keywords:
 - vbapp10.chm547017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.BlackWhiteMode Property (PowerPoint)
+# Shape.BlackWhiteMode property (PowerPoint)
 
 Returns or sets a value that indicates how the specified shape appears when the presentation is viewed in black-and-white mode. Read/write.
 

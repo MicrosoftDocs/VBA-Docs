@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Open Event (Outlook)
+title: DistListItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Open Event (Outlook)
+# DistListItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 

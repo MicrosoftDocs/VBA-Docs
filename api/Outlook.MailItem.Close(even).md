@@ -1,5 +1,5 @@
 ---
-title: MailItem.Close Event (Outlook)
+title: MailItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Close Event (Outlook)
+# MailItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 

@@ -1,5 +1,5 @@
 ---
-title: Reminder.Dismiss Method (Outlook)
+title: Reminder.Dismiss method (Outlook)
 keywords: vbaol11.chm558
 f1_keywords:
 - vbaol11.chm558
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.Dismiss Method (Outlook)
+# Reminder.Dismiss method (Outlook)
 
 Dismisses the current reminder.
 

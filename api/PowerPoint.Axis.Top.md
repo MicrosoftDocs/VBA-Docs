@@ -1,5 +1,5 @@
 ---
-title: Axis.Top Property (PowerPoint)
+title: Axis.Top property (PowerPoint)
 keywords: vbapp10.chm682039
 f1_keywords:
 - vbapp10.chm682039
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.Top Property (PowerPoint)
+# Axis.Top property (PowerPoint)
 
 Returns the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart). Read-only  **Double**.
 

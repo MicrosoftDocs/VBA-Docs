@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Application Property (PowerPoint)
+title: OLEFormat.Application property (PowerPoint)
 keywords: vbapp10.chm562001
 f1_keywords:
 - vbapp10.chm562001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.Application Property (PowerPoint)
+# OLEFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

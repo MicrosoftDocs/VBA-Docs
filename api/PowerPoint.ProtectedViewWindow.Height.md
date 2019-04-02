@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Height Property (PowerPoint)
+title: ProtectedViewWindow.Height property (PowerPoint)
 keywords: vbapp10.chm734012
 f1_keywords:
 - vbapp10.chm734012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Height Property (PowerPoint)
+# ProtectedViewWindow.Height property (PowerPoint)
 
 Returns or sets the height of the specified object, in points. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ShapeStyle Property (PowerPoint)
+title: ShapeRange.ShapeStyle property (PowerPoint)
 keywords: vbapp10.chm548088
 f1_keywords:
 - vbapp10.chm548088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ShapeStyle Property (PowerPoint)
+# ShapeRange.ShapeStyle property (PowerPoint)
 
 Sets or returns the shape style index for the specified object.
 

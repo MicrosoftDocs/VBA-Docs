@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Clear Method (Outlook)
+title: OlkComboBox.Clear method (Outlook)
 keywords: vbaol11.chm1000229
 f1_keywords:
 - vbaol11.chm1000229
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Clear Method (Outlook)
+# OlkComboBox.Clear method (Outlook)
 
 Removes all objects from the list in the combo box.
 

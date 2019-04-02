@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Shadow Property (PowerPoint)
+title: ChartTitle.Shadow property (PowerPoint)
 keywords: vbapp10.chm694007
 f1_keywords:
 - vbapp10.chm694007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Shadow Property (PowerPoint)
+# ChartTitle.Shadow property (PowerPoint)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
 

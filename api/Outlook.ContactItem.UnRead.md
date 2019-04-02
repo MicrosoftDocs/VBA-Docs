@@ -1,5 +1,5 @@
 ---
-title: ContactItem.UnRead Property (Outlook)
+title: ContactItem.UnRead property (Outlook)
 keywords: vbaol11.chm954
 f1_keywords:
 - vbaol11.chm954
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.UnRead Property (Outlook)
+# ContactItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 

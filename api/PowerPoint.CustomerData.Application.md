@@ -1,5 +1,5 @@
 ---
-title: CustomerData.Application Property (PowerPoint)
+title: CustomerData.Application property (PowerPoint)
 keywords: vbapp10.chm675001
 f1_keywords:
 - vbapp10.chm675001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomerData.Application Property (PowerPoint)
+# CustomerData.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified **CustomerData** object. Read-only.
 

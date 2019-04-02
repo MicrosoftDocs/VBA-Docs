@@ -1,5 +1,5 @@
 ---
-title: Master.CustomerData Property (PowerPoint)
+title: Master.CustomerData property (PowerPoint)
 keywords: vbapp10.chm533021
 f1_keywords:
 - vbapp10.chm533021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.CustomerData Property (PowerPoint)
+# Master.CustomerData property (PowerPoint)
 
 Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 

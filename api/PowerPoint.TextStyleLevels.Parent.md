@@ -1,5 +1,5 @@
 ---
-title: TextStyleLevels.Parent Property (PowerPoint)
+title: TextStyleLevels.Parent property (PowerPoint)
 keywords: vbapp10.chm580002
 f1_keywords:
 - vbapp10.chm580002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyleLevels.Parent Property (PowerPoint)
+# TextStyleLevels.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

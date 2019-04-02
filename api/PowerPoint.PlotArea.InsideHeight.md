@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideHeight Property (PowerPoint)
+title: PlotArea.InsideHeight property (PowerPoint)
 keywords: vbapp10.chm67206
 f1_keywords:
 - vbapp10.chm67206
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.InsideHeight Property (PowerPoint)
+# PlotArea.InsideHeight property (PowerPoint)
 
 Returns or sets the inside height, in points, of the plot area. Read/write  **Double**.
 

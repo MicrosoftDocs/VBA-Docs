@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowAllFieldButtons Property (PowerPoint)
+title: Chart.ShowAllFieldButtons property (PowerPoint)
 keywords: vbapp10.chm684053
 f1_keywords:
 - vbapp10.chm684053
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ShowAllFieldButtons Property (PowerPoint)
+# Chart.ShowAllFieldButtons property (PowerPoint)
 
 Returns or sets a value that indicates whether to display all field buttons on a PivotChart. Read/write.
 

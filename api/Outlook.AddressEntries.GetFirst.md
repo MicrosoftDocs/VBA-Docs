@@ -1,5 +1,5 @@
 ---
-title: AddressEntries.GetFirst Method (Outlook)
+title: AddressEntries.GetFirst method (Outlook)
 keywords: vbaol11.chm33
 f1_keywords:
 - vbaol11.chm33
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntries.GetFirst Method (Outlook)
+# AddressEntries.GetFirst method (Outlook)
 
 Returns the first object in the  **[AddressEntries](Outlook.AddressEntries.md)** collection.
 

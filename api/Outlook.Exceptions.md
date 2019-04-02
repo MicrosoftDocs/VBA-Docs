@@ -1,5 +1,5 @@
 ---
-title: Exceptions Object (Outlook)
+title: Exceptions object (Outlook)
 keywords: vbaol11.chm289
 f1_keywords:
 - vbaol11.chm289
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exceptions Object (Outlook)
+# Exceptions object (Outlook)
 
 Contains a group of  **[Exception](Outlook.Exception.md)** objects.
 

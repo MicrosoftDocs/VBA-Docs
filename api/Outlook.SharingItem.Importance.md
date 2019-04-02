@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Importance Property (Outlook)
+title: SharingItem.Importance property (Outlook)
 keywords: vbaol11.chm609
 f1_keywords:
 - vbaol11.chm609
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Importance Property (Outlook)
+# SharingItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

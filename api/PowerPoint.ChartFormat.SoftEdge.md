@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.SoftEdge Property (PowerPoint)
+title: ChartFormat.SoftEdge property (PowerPoint)
 keywords: vbapp10.chm691007
 f1_keywords:
 - vbapp10.chm691007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFormat.SoftEdge Property (PowerPoint)
+# ChartFormat.SoftEdge property (PowerPoint)
 
 Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Office.SoftEdgeFormat.md)**.
 

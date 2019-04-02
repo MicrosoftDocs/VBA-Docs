@@ -1,5 +1,5 @@
 ---
-title: Application.ActivePrinter Property (PowerPoint)
+title: Application.ActivePrinter property (PowerPoint)
 keywords: vbapp10.chm502017
 f1_keywords:
 - vbapp10.chm502017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActivePrinter Property (PowerPoint)
+# Application.ActivePrinter property (PowerPoint)
 
 Returns the name of the active printer. Read-only.
 

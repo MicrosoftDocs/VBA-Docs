@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Copy Method (Outlook)
+title: PeopleView.Copy method (Outlook)
 keywords: vbaol11.chm3574
 f1_keywords:
 - vbaol11.chm3574
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Copy Method (Outlook)
+# PeopleView.Copy method (Outlook)
 Creates a new [View](Outlook.View.md) object based on the existing[PeopleView](Outlook.peopleview.md) object.
 
 ## Version information

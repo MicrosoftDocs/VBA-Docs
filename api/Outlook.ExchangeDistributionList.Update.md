@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Update Method (Outlook)
+title: ExchangeDistributionList.Update method (Outlook)
 keywords: vbaol11.chm2123
 f1_keywords:
 - vbaol11.chm2123
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Update Method (Outlook)
+# ExchangeDistributionList.Update method (Outlook)
 
 Posts a change to the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object in the messaging system.
 

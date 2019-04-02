@@ -1,5 +1,5 @@
 ---
-title: NameSpace.ExchangeConnectionMode Property (Outlook)
+title: NameSpace.ExchangeConnectionMode property (Outlook)
 keywords: vbaol11.chm776
 f1_keywords:
 - vbaol11.chm776
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.ExchangeConnectionMode Property (Outlook)
+# NameSpace.ExchangeConnectionMode property (Outlook)
 
 Returns an  **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** constant that indicates the connection mode of the user's primary Exchange account. Read-only.
 

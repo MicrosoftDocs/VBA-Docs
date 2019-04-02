@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Paragraphs Property (PowerPoint)
+title: TextRange2.Paragraphs property (PowerPoint)
 ms.assetid: 0f43072e-8f46-4094-b67a-3388b2138c14
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.Paragraphs Property (PowerPoint)
+# TextRange2.Paragraphs property (PowerPoint)
 
 Gets a  **TextRange2** object that represents the specified subset of text paragraphs. Read-only.
 
@@ -61,6 +61,6 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

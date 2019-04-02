@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyPictToEnd Property (PowerPoint)
+title: Point.ApplyPictToEnd property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.ApplyPictToEnd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.ApplyPictToEnd Property (PowerPoint)
+# Point.ApplyPictToEnd property (PowerPoint)
 
  **True** if a picture is applied to the end of the point or all points in the series. Read/write **Boolean**.
 

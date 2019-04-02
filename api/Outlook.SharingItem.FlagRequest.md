@@ -1,5 +1,5 @@
 ---
-title: SharingItem.FlagRequest Property (Outlook)
+title: SharingItem.FlagRequest property (Outlook)
 keywords: vbaol11.chm639
 f1_keywords:
 - vbaol11.chm639
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.FlagRequest Property (Outlook)
+# SharingItem.FlagRequest property (Outlook)
 
 Returns or sets a  **String** indicating the requested action for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

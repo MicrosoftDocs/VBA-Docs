@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Words Property (PowerPoint)
+title: TextRange2.Words property (PowerPoint)
 ms.assetid: 40f37363-0d43-4c59-8d9e-f35d06762204
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.Words Property (PowerPoint)
+# TextRange2.Words property (PowerPoint)
 
 Gets a  **TextRange2** object that represents the specified subset of text words. Read-only.
 
@@ -49,6 +49,6 @@ If  _Length_ is greater than the number of words from the specified starting wor
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ViewFields.Item Method (Outlook)
+title: ViewFields.Item method (Outlook)
 keywords: vbaol11.chm2551
 f1_keywords:
 - vbaol11.chm2551
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFields.Item Method (Outlook)
+# ViewFields.Item method (Outlook)
 
 Returns a  **[ViewField](Outlook.ViewField.md)** object from the collection.
 

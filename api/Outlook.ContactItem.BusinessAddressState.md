@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddressState Property (Outlook)
+title: ContactItem.BusinessAddressState property (Outlook)
 keywords: vbaol11.chm975
 f1_keywords:
 - vbaol11.chm975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddressState Property (Outlook)
+# ContactItem.BusinessAddressState property (Outlook)
 
 Returns or sets a  **String** representing the state code portion of the business address for the contact. Read/write.
 

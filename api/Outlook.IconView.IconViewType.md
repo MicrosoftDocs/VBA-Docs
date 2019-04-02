@@ -1,5 +1,5 @@
 ---
-title: IconView.IconViewType Property (Outlook)
+title: IconView.IconViewType property (Outlook)
 keywords: vbaol11.chm2576
 f1_keywords:
 - vbaol11.chm2576
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.IconViewType Property (Outlook)
+# IconView.IconViewType property (Outlook)
 
 Returns or sets an  **[OlIconViewType](Outlook.OlIconViewType.md)** constant that determines how Outlook items are displayed in the **[IconView](Outlook.IconView.md)** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartCategory.Name Property (PowerPoint)
+title: ChartCategory.Name property (PowerPoint)
 keywords: vbapp10.chm736002
 f1_keywords:
 - vbapp10.chm736002
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCategory.Name Property (PowerPoint)
+# ChartCategory.Name property (PowerPoint)
 
 Returns or sets a  **String** that represents the name of a chart category. Read/write.
 

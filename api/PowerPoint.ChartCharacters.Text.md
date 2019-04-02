@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Text Property (PowerPoint)
+title: ChartCharacters.Text property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Text
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCharacters.Text Property (PowerPoint)
+# ChartCharacters.Text property (PowerPoint)
 
 Returns or sets the text for the specified object. Read/write  **String**.
 

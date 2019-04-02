@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.UnRead Property (Outlook)
+title: TaskRequestDeclineItem.UnRead property (Outlook)
 keywords: vbaol11.chm1847
 f1_keywords:
 - vbaol11.chm1847
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.UnRead Property (Outlook)
+# TaskRequestDeclineItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 

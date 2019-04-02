@@ -1,5 +1,5 @@
 ---
-title: Cell Object (PowerPoint)
+title: Cell object (PowerPoint)
 keywords: vbapp10.chm628000
 f1_keywords:
 - vbapp10.chm628000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell Object (PowerPoint)
+# Cell object (PowerPoint)
 
 Represents a table cell. The  **Cell** object is a member of the **[CellRange](./PowerPoint.CellRange.md)** collection. The **CellRange** collection represents all the cells in the specified column or row. To use the **CellRange** collection, use the **Cells** keyword.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.CrossesAt Property (PowerPoint)
+title: Axis.CrossesAt property (PowerPoint)
 keywords: vbapp10.chm682006
 f1_keywords:
 - vbapp10.chm682006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.CrossesAt Property (PowerPoint)
+# Axis.CrossesAt property (PowerPoint)
 
 Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write  **Double**.
 

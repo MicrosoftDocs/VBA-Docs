@@ -1,5 +1,5 @@
 ---
-title: Fonts.Parent Property (PowerPoint)
+title: Fonts.Parent property (PowerPoint)
 keywords: vbapp10.chm528002
 f1_keywords:
 - vbapp10.chm528002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Parent Property (PowerPoint)
+# Fonts.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

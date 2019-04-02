@@ -1,5 +1,5 @@
 ---
-title: FormDescription.UseWordMail Property (Outlook)
+title: FormDescription.UseWordMail property (Outlook)
 keywords: vbaol11.chm199
 f1_keywords:
 - vbaol11.chm199
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.UseWordMail Property (Outlook)
+# FormDescription.UseWordMail property (Outlook)
 
 Returns a  **Boolean** that indicates **True** to use Microsoft Office Word as the default editor for the form. Read/write.
 

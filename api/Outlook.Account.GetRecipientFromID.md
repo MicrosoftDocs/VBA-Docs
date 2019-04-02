@@ -1,5 +1,5 @@
 ---
-title: Account.GetRecipientFromID Method (Outlook)
+title: Account.GetRecipientFromID method (Outlook)
 keywords: vbaol11.chm3428
 f1_keywords:
 - vbaol11.chm3428
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.GetRecipientFromID Method (Outlook)
+# Account.GetRecipientFromID method (Outlook)
 
 Returns the **[Recipient](Outlook.Recipient.md)** object that is identified by the given entry ID.
 

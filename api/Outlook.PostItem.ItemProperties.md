@@ -1,5 +1,5 @@
 ---
-title: PostItem.ItemProperties Property (Outlook)
+title: PostItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1557
 f1_keywords:
 - vbaol11.chm1557
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ItemProperties Property (Outlook)
+# PostItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 

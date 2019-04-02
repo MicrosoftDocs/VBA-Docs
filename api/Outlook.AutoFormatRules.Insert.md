@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Insert Method (Outlook)
+title: AutoFormatRules.Insert method (Outlook)
 keywords: vbaol11.chm2720
 f1_keywords:
 - vbaol11.chm2720
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Insert Method (Outlook)
+# AutoFormatRules.Insert method (Outlook)
 
 Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and inserts it at the specified index within the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
 

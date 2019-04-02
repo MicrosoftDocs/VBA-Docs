@@ -1,5 +1,5 @@
 ---
-title: TextRuleCondition.Session Property (Outlook)
+title: TextRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2474
 f1_keywords:
 - vbaol11.chm2474
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRuleCondition.Session Property (Outlook)
+# TextRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

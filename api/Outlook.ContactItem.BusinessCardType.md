@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessCardType Property (Outlook)
+title: ContactItem.BusinessCardType property (Outlook)
 keywords: vbaol11.chm3230
 f1_keywords:
 - vbaol11.chm3230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessCardType Property (Outlook)
+# ContactItem.BusinessCardType property (Outlook)
 
 Returns an  **[OlBusinessCardType](Outlook.OlBusinessCardType.md)** constant that specifies the type of Electronic Business Card used by this contact. Read-only.
 

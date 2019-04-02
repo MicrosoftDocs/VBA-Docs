@@ -1,5 +1,5 @@
 ---
-title: NotesModule.Session Property (Outlook)
+title: NotesModule.Session property (Outlook)
 keywords: vbaol11.chm2874
 f1_keywords:
 - vbaol11.chm2874
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule.Session Property (Outlook)
+# NotesModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

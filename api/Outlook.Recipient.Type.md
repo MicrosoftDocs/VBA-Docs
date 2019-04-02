@@ -1,5 +1,5 @@
 ---
-title: Recipient.Type Property (Outlook)
+title: Recipient.Type property (Outlook)
 keywords: vbaol11.chm2355
 f1_keywords:
 - vbaol11.chm2355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Type Property (Outlook)
+# Recipient.Type property (Outlook)
 
 Returns or sets a **Long** representing the type of recipient. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TableView.ShowConversationByDate Property (Outlook)
+title: TableView.ShowConversationByDate property (Outlook)
 keywords: vbaol11.chm3515
 f1_keywords:
 - vbaol11.chm3515
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.ShowConversationByDate Property (Outlook)
+# TableView.ShowConversationByDate property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether items in a conversation are organized vertically left-aligned and ordered by the received date and time, with the most recent item on top. Read/write.
 

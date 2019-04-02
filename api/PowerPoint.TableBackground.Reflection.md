@@ -1,5 +1,5 @@
 ---
-title: TableBackground.Reflection Property (PowerPoint)
+title: TableBackground.Reflection property (PowerPoint)
 keywords: vbapp10.chm677003
 f1_keywords:
 - vbapp10.chm677003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableBackground.Reflection Property (PowerPoint)
+# TableBackground.Reflection property (PowerPoint)
 
 Returns an  **[ReflectionFormat](Office.ReflectionFormat.md)** object that represents the reflection effect associated with the table background. Read-only.
 

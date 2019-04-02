@@ -1,5 +1,5 @@
 ---
-title: FormNameRuleCondition.Session Property (Outlook)
+title: FormNameRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2450
 f1_keywords:
 - vbaol11.chm2450
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormNameRuleCondition.Session Property (Outlook)
+# FormNameRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

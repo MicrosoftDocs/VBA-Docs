@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.Parent Property (PowerPoint)
+title: ConnectorFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm555001
 f1_keywords:
 - vbapp10.chm555001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.Parent Property (PowerPoint)
+# ConnectorFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

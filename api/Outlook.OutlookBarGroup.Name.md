@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroup.Name Property (Outlook)
+title: OutlookBarGroup.Name property (Outlook)
 keywords: vbaol11.chm325
 f1_keywords:
 - vbaol11.chm325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroup.Name Property (Outlook)
+# OutlookBarGroup.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 

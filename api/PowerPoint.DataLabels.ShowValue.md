@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowValue Property (PowerPoint)
+title: DataLabels.ShowValue property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowValue
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.ShowValue Property (PowerPoint)
+# DataLabels.ShowValue property (PowerPoint)
 
  **True** to display the data label values for a specified chart. **False** to hide the values. Read/write **Boolean**.
 

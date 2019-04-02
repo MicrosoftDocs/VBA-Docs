@@ -1,5 +1,5 @@
 ---
-title: NavigationGroup.NavigationFolders Property (Outlook)
+title: NavigationGroup.NavigationFolders property (Outlook)
 keywords: vbaol11.chm2887
 f1_keywords:
 - vbaol11.chm2887
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroup.NavigationFolders Property (Outlook)
+# NavigationGroup.NavigationFolders property (Outlook)
 
 Returns a  **[NavigationFolders](Outlook.NavigationFolders.md)** object that contains the set of navigation folders associated with the **[NavigationGroup](Outlook.NavigationGroup.md)** object. Read-only.
 

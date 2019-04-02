@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.AfterWrite Event (Outlook)
+title: RemoteItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.AfterWrite Event (Outlook)
+# RemoteItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 

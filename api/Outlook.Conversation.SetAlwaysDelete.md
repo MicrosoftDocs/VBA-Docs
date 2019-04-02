@@ -1,5 +1,5 @@
 ---
-title: Conversation.SetAlwaysDelete Method (Outlook)
+title: Conversation.SetAlwaysDelete method (Outlook)
 keywords: vbaol11.chm3445
 f1_keywords:
 - vbaol11.chm3445
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.SetAlwaysDelete Method (Outlook)
+# Conversation.SetAlwaysDelete method (Outlook)
 
 Specifies a setting for the specified delivery store that indicates whether all existing items and all new items that arrive in the conversation are always moved to the Deleted Items folder in the specified delivery store.
 

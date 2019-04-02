@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule.Session Property (Outlook)
+title: SolutionsModule.Session property (Outlook)
 keywords: vbaol11.chm3362
 f1_keywords:
 - vbaol11.chm3362
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SolutionsModule.Session Property (Outlook)
+# SolutionsModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

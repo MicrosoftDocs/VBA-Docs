@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.IsConflict Property (Outlook)
+title: TaskRequestUpdateItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1961
 f1_keywords:
 - vbaol11.chm1961
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.IsConflict Property (Outlook)
+# TaskRequestUpdateItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 

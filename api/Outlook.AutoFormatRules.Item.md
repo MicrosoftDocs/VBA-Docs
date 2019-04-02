@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Item Method (Outlook)
+title: AutoFormatRules.Item method (Outlook)
 keywords: vbaol11.chm2718
 f1_keywords:
 - vbaol11.chm2718
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Item Method (Outlook)
+# AutoFormatRules.Item method (Outlook)
 
 Returns an  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object from the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Address Property (Outlook)
+title: AddressEntry.Address property (Outlook)
 keywords: vbaol11.chm2042
 f1_keywords:
 - vbaol11.chm2042
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.Address Property (Outlook)
+# AddressEntry.Address property (Outlook)
 
 Returns or sets a  **String** representing the email address of the **[AddressEntry](Outlook.AddressEntry.md)**. Read/write.
 

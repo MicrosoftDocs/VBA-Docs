@@ -1,5 +1,5 @@
 ---
-title: ItemProperty.Name Property (Outlook)
+title: ItemProperty.Name property (Outlook)
 keywords: vbaol11.chm523
 f1_keywords:
 - vbaol11.chm523
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperty.Name Property (Outlook)
+# ItemProperty.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read-only.
 

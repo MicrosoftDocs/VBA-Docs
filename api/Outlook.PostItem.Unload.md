@@ -1,5 +1,5 @@
 ---
-title: PostItem.Unload Event (Outlook)
+title: PostItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Unload Event (Outlook)
+# PostItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 

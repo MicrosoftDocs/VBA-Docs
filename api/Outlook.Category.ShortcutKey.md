@@ -1,5 +1,5 @@
 ---
-title: Category.ShortcutKey Property (Outlook)
+title: Category.ShortcutKey property (Outlook)
 keywords: vbaol11.chm2428
 f1_keywords:
 - vbaol11.chm2428
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Category.ShortcutKey Property (Outlook)
+# Category.ShortcutKey property (Outlook)
 
 Returns or sets an  **[OlCategoryShortcutKey](Outlook.OlCategoryShortcutKey.md)** constant that specifies the shortcut key used by the **[Category](Outlook.Category.md)** object. Read/write.
 

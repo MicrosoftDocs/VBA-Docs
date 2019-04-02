@@ -1,5 +1,5 @@
 ---
-title: Comment.Author Property (PowerPoint)
+title: Comment.Author property (PowerPoint)
 keywords: vbapp10.chm642003
 f1_keywords:
 - vbapp10.chm642003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.Author Property (PowerPoint)
+# Comment.Author property (PowerPoint)
 
 Returns a  **String** that represents the author as for a specified **[Comment](PowerPoint.Comment.md)** object. Read-only.
 

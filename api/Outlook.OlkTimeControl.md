@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl Object (Outlook)
+title: OlkTimeControl object (Outlook)
 keywords: vbaol11.chm1000415
 f1_keywords:
 - vbaol11.chm1000415
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl Object (Outlook)
+# OlkTimeControl object (Outlook)
 
 A control that displays the Outlook time drop-down menu. 
 

@@ -1,5 +1,5 @@
 ---
-title: Inspector.BeforeMove Event (Outlook)
+title: Inspector.BeforeMove event (Outlook)
 keywords: vbaol11.chm470
 f1_keywords:
 - vbaol11.chm470
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.BeforeMove Event (Outlook)
+# Inspector.BeforeMove event (Outlook)
 
 Occurs when the  **[Inspector](Outlook.Inspector.md)** is moved by the user.
 

@@ -1,5 +1,5 @@
 ---
-title: CardView.AutoFormatRules Property (Outlook)
+title: CardView.AutoFormatRules property (Outlook)
 keywords: vbaol11.chm2605
 f1_keywords:
 - vbaol11.chm2605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.AutoFormatRules Property (Outlook)
+# CardView.AutoFormatRules property (Outlook)
 
 Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that represents the set of formatting rules applicable to the **[CardView](Outlook.CardView.md)** object. Read-only.
 

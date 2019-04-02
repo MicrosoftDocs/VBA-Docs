@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Scrollbars Property (Outlook)
+title: OlkTextBox.Scrollbars property (Outlook)
 keywords: vbaol11.chm1000055
 f1_keywords:
 - vbaol11.chm1000055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Scrollbars Property (Outlook)
+# OlkTextBox.Scrollbars property (Outlook)
 
 Returns or sets an  **[olScrollBars](Outlook.OlScrollBars.md)** constant that specifies whether the control has a vertical scroll bar, horizontal scroll bar, or both. Read/write.
 

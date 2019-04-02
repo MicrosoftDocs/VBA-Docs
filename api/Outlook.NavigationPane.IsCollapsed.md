@@ -1,5 +1,5 @@
 ---
-title: NavigationPane.IsCollapsed Property (Outlook)
+title: NavigationPane.IsCollapsed property (Outlook)
 keywords: vbaol11.chm2790
 f1_keywords:
 - vbaol11.chm2790
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationPane.IsCollapsed Property (Outlook)
+# NavigationPane.IsCollapsed property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether the navigation pane is collapsed. Read/write.
 

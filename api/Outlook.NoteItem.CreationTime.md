@@ -1,5 +1,5 @@
 ---
-title: NoteItem.CreationTime Property (Outlook)
+title: NoteItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1480
 f1_keywords:
 - vbaol11.chm1480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.CreationTime Property (Outlook)
+# NoteItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 

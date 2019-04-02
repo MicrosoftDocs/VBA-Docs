@@ -1,5 +1,5 @@
 ---
-title: Recipient.MeetingResponseStatus Property (Outlook)
+title: Recipient.MeetingResponseStatus property (Outlook)
 keywords: vbaol11.chm2350
 f1_keywords:
 - vbaol11.chm2350
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.MeetingResponseStatus Property (Outlook)
+# Recipient.MeetingResponseStatus property (Outlook)
 
 Returns an  **[OlResponseStatus](Outlook.OlResponseStatus.md)** constant indicating the overall status of the response to the meeting request for the recipient. Read-only.
 

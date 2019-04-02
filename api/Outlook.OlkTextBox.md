@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox Object (Outlook)
+title: OlkTextBox object (Outlook)
 keywords: vbaol11.chm1000084
 f1_keywords:
 - vbaol11.chm1000084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox Object (Outlook)
+# OlkTextBox object (Outlook)
 
 A control that supports a single or multiple-line data entry.
 

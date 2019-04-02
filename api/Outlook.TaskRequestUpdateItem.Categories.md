@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Categories Property (Outlook)
+title: TaskRequestUpdateItem.Categories property (Outlook)
 keywords: vbaol11.chm1925
 f1_keywords:
 - vbaol11.chm1925
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Categories Property (Outlook)
+# TaskRequestUpdateItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

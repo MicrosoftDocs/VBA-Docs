@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.AfterEffect Property (PowerPoint)
+title: EffectInformation.AfterEffect property (PowerPoint)
 keywords: vbapp10.chm655003
 f1_keywords:
 - vbapp10.chm655003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EffectInformation.AfterEffect Property (PowerPoint)
+# EffectInformation.AfterEffect property (PowerPoint)
 
 Returns an  **PpAfterEffect** constant that indicates whether an after effect appears dimmed, hidden, or unchanged after it runs. Read-only.
 

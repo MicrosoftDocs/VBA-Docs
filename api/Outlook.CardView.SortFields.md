@@ -1,5 +1,5 @@
 ---
-title: CardView.SortFields Property (Outlook)
+title: CardView.SortFields property (Outlook)
 keywords: vbaol11.chm2597
 f1_keywords:
 - vbaol11.chm2597
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.SortFields Property (Outlook)
+# CardView.SortFields property (Outlook)
 
 Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[CardView](Outlook.CardView.md)** object are ordered. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PropertyPageSite.Parent Property (Outlook)
+title: PropertyPageSite.Parent property (Outlook)
 keywords: vbaol11.chm388
 f1_keywords:
 - vbaol11.chm388
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPageSite.Parent Property (Outlook)
+# PropertyPageSite.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

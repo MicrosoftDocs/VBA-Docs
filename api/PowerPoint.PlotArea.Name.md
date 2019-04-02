@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Name Property (PowerPoint)
+title: PlotArea.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.Name Property (PowerPoint)
+# PlotArea.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

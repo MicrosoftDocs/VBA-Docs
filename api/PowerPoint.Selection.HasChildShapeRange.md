@@ -1,5 +1,5 @@
 ---
-title: Selection.HasChildShapeRange Property (PowerPoint)
+title: Selection.HasChildShapeRange property (PowerPoint)
 keywords: vbapp10.chm508012
 f1_keywords:
 - vbapp10.chm508012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.HasChildShapeRange Property (PowerPoint)
+# Selection.HasChildShapeRange property (PowerPoint)
 
  **True** if the selection contains child shapes. Read-only.
 

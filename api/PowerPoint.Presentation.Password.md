@@ -1,5 +1,5 @@
 ---
-title: Presentation.Password Property (PowerPoint)
+title: Presentation.Password property (PowerPoint)
 keywords: vbapp10.chm583080
 f1_keywords:
 - vbapp10.chm583080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Password Property (PowerPoint)
+# Presentation.Password property (PowerPoint)
 
 Returns or sets the password that must be supplied to open the specified presentation. Read/write.
 

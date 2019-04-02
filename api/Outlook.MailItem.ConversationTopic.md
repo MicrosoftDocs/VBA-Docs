@@ -1,5 +1,5 @@
 ---
-title: MailItem.ConversationTopic Property (Outlook)
+title: MailItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1301
 f1_keywords:
 - vbaol11.chm1301
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ConversationTopic Property (Outlook)
+# MailItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 

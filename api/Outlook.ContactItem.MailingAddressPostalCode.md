@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MailingAddressPostalCode Property (Outlook)
+title: ContactItem.MailingAddressPostalCode property (Outlook)
 keywords: vbaol11.chm1037
 f1_keywords:
 - vbaol11.chm1037
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MailingAddressPostalCode Property (Outlook)
+# ContactItem.MailingAddressPostalCode property (Outlook)
 
 Returns or sets a  **String** representing the postal code (zip code) portion of the selected mailing address of the contact. Read/write.
 

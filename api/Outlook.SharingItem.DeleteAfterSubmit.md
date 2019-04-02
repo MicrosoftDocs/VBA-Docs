@@ -1,5 +1,5 @@
 ---
-title: SharingItem.DeleteAfterSubmit Property (Outlook)
+title: SharingItem.DeleteAfterSubmit property (Outlook)
 keywords: vbaol11.chm636
 f1_keywords:
 - vbaol11.chm636
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.DeleteAfterSubmit Property (Outlook)
+# SharingItem.DeleteAfterSubmit property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if a copy of the item is not saved upon being sent, and **False** if a copy is saved. Read/write.
 

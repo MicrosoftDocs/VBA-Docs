@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.NoEndDate Property (Outlook)
+title: RecurrencePattern.NoEndDate property (Outlook)
 keywords: vbaol11.chm281
 f1_keywords:
 - vbaol11.chm281
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.NoEndDate Property (Outlook)
+# RecurrencePattern.NoEndDate property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the recurrence pattern has no end date. Read/write.
 

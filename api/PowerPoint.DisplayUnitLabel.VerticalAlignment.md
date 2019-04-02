@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.VerticalAlignment Property (PowerPoint)
+title: DisplayUnitLabel.VerticalAlignment property (PowerPoint)
 keywords: vbapp10.chm699010
 f1_keywords:
 - vbapp10.chm699010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.VerticalAlignment Property (PowerPoint)
+# DisplayUnitLabel.VerticalAlignment property (PowerPoint)
 
 Returns or sets the vertical alignment of the specified object. Read/write  **Variant**.
 

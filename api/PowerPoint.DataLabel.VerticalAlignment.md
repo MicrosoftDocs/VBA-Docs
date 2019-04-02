@@ -1,5 +1,5 @@
 ---
-title: DataLabel.VerticalAlignment Property (PowerPoint)
+title: DataLabel.VerticalAlignment property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.VerticalAlignment
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.VerticalAlignment Property (PowerPoint)
+# DataLabel.VerticalAlignment property (PowerPoint)
 
 Returns or sets the vertical alignment of the specified object. Read/write  **Variant**.
 

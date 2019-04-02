@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.ConversationTopic Property (Outlook)
+title: DocumentItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1190
 f1_keywords:
 - vbaol11.chm1190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.ConversationTopic Property (Outlook)
+# DocumentItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 

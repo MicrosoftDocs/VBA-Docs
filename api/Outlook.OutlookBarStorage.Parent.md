@@ -1,5 +1,5 @@
 ---
-title: OutlookBarStorage.Parent Property (Outlook)
+title: OutlookBarStorage.Parent property (Outlook)
 keywords: vbaol11.chm371
 f1_keywords:
 - vbaol11.chm371
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarStorage.Parent Property (Outlook)
+# OutlookBarStorage.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

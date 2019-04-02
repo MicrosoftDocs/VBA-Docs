@@ -1,5 +1,5 @@
 ---
-title: SlideRange.BackgroundStyle Property (PowerPoint)
+title: SlideRange.BackgroundStyle property (PowerPoint)
 keywords: vbapp10.chm532042
 f1_keywords:
 - vbapp10.chm532042
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.BackgroundStyle Property (PowerPoint)
+# SlideRange.BackgroundStyle property (PowerPoint)
 
 Sets or returns the background style of the specified object. Read/write.
 

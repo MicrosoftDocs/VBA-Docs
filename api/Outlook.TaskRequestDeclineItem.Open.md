@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Open Event (Outlook)
+title: TaskRequestDeclineItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Open Event (Outlook)
+# TaskRequestDeclineItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 

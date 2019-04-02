@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationX Property (PowerPoint)
+title: ThreeDFormat.RotationX property (PowerPoint)
 keywords: vbapp10.chm557016
 f1_keywords:
 - vbapp10.chm557016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.RotationX Property (PowerPoint)
+# ThreeDFormat.RotationX property (PowerPoint)
 
 Returns or sets the rotation of the extruded shape around the x-axis, in degrees. Read/write.
 

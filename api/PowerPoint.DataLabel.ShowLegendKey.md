@@ -1,5 +1,5 @@
 ---
-title: DataLabel.ShowLegendKey Property (PowerPoint)
+title: DataLabel.ShowLegendKey property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.ShowLegendKey
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.ShowLegendKey Property (PowerPoint)
+# DataLabel.ShowLegendKey property (PowerPoint)
 
  **True** if the data label legend key is visible. Read/write **Boolean**.
 

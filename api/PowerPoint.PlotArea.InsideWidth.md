@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideWidth Property (PowerPoint)
+title: PlotArea.InsideWidth property (PowerPoint)
 keywords: vbapp10.chm67205
 f1_keywords:
 - vbapp10.chm67205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.InsideWidth Property (PowerPoint)
+# PlotArea.InsideWidth property (PowerPoint)
 
 Returns or sets the inside width, in points, of the plot area. Read/write  **Double**.
 

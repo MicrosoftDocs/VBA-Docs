@@ -1,5 +1,5 @@
 ---
-title: TableBackground.Picture Property (PowerPoint)
+title: TableBackground.Picture property (PowerPoint)
 keywords: vbapp10.chm677002
 f1_keywords:
 - vbapp10.chm677002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableBackground.Picture Property (PowerPoint)
+# TableBackground.Picture property (PowerPoint)
 
 Returns a  **[PictureFormat](PowerPoint.PictureFormat.md)** object that represents the formatting of the picture associated with the table background. Read-only.
 

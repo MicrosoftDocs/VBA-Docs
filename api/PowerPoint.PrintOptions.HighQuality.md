@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.HighQuality Property (PowerPoint)
+title: PrintOptions.HighQuality property (PowerPoint)
 keywords: vbapp10.chm517019
 f1_keywords:
 - vbapp10.chm517019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.HighQuality Property (PowerPoint)
+# PrintOptions.HighQuality property (PowerPoint)
 
 Indicates whether to print in high quality. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: View.MediaControlsHeight Property (PowerPoint)
+title: View.MediaControlsHeight property (PowerPoint)
 keywords: vbapp10.chm512018
 f1_keywords:
 - vbapp10.chm512018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.MediaControlsHeight Property (PowerPoint)
+# View.MediaControlsHeight property (PowerPoint)
 
 Returns the height, in points, of the media controls. Read-only.
 

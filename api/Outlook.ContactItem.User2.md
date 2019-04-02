@@ -1,5 +1,5 @@
 ---
-title: ContactItem.User2 Property (Outlook)
+title: ContactItem.User2 property (Outlook)
 keywords: vbaol11.chm1071
 f1_keywords:
 - vbaol11.chm1071
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.User2 Property (Outlook)
+# ContactItem.User2 property (Outlook)
 
 Returns or sets a  **String** specifying the second field on the Contacts form intended for miscellaneous use for the contact. Read/write.
 

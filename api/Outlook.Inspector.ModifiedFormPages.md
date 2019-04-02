@@ -1,5 +1,5 @@
 ---
-title: Inspector.ModifiedFormPages Property (Outlook)
+title: Inspector.ModifiedFormPages property (Outlook)
 keywords: vbaol11.chm2964
 f1_keywords:
 - vbaol11.chm2964
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.ModifiedFormPages Property (Outlook)
+# Inspector.ModifiedFormPages property (Outlook)
 
 Returns the  **[Pages](Outlook.Pages.md)** collection that represents all the pages for the item in the inspector. Read-only.
 

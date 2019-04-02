@@ -1,5 +1,5 @@
 ---
-title: TableView.Class Property (Outlook)
+title: TableView.Class property (Outlook)
 keywords: vbaol11.chm2500
 f1_keywords:
 - vbaol11.chm2500
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Class Property (Outlook)
+# TableView.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.ShowOnlyInitialAddressList Property (Outlook)
+title: SelectNamesDialog.ShowOnlyInitialAddressList property (Outlook)
 keywords: vbaol11.chm833
 f1_keywords:
 - vbaol11.chm833
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.ShowOnlyInitialAddressList Property (Outlook)
+# SelectNamesDialog.ShowOnlyInitialAddressList property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the **[AddressList](Outlook.AddressList.md)** represented by **[SelectNamesDialog.InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** is the only **AddressList** available in the drop-down list for **Address Book** in the **Select Names** dialog box. Read/write.
 

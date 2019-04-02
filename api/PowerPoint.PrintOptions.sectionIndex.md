@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.sectionIndex Property (PowerPoint)
+title: PrintOptions.sectionIndex property (PowerPoint)
 keywords: vbapp10.chm517018
 f1_keywords:
 - vbapp10.chm517018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.sectionIndex Property (PowerPoint)
+# PrintOptions.sectionIndex property (PowerPoint)
 
 Returns the index of the selected section in the  **PrintOptions** object. Read/write.
 

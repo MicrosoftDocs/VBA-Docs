@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection Object (Outlook)
+title: AttachmentSelection object (Outlook)
 keywords: vbaol11.chm3202
 f1_keywords:
 - vbaol11.chm3202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AttachmentSelection Object (Outlook)
+# AttachmentSelection object (Outlook)
 
 Contains a set of  **[Attachment](Outlook.Attachment.md)** objects that represent the selected attachments in an Outlook item.
 

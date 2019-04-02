@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.BeforeCheckNames Event (Outlook)
+title: TaskRequestDeclineItem.BeforeCheckNames event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeCheckNames
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.BeforeCheckNames Event (Outlook)
+# TaskRequestDeclineItem.BeforeCheckNames event (Outlook)
 
 Occurs just before Microsoft Outlook starts resolving names in the recipient collection for an item (which is an instance of the parent object).
 

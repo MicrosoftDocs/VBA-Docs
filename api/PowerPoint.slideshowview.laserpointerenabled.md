@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.LaserPointerEnabled Property (PowerPoint)
+title: SlideShowView.LaserPointerEnabled property (PowerPoint)
 keywords: vbapp10.chm513038
 f1_keywords:
 - vbapp10.chm513038
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.LaserPointerEnabled Property (PowerPoint)
+# SlideShowView.LaserPointerEnabled property (PowerPoint)
 
 Returns  **true** if the current slide show pointer is a laser pointer. This property is applicable only while the slide show is running. Read/write.
 

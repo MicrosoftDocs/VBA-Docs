@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.DownBars Property (PowerPoint)
+title: ChartGroup.DownBars property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.DownBars
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.DownBars Property (PowerPoint)
+# ChartGroup.DownBars property (PowerPoint)
 
 Returns the down bars on a line chart. Read-only  **[DownBars](PowerPoint.DownBars.md)**.
 

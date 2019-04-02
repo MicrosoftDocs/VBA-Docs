@@ -1,5 +1,5 @@
 ---
-title: OlkListBox Object (Outlook)
+title: OlkListBox object (Outlook)
 keywords: vbaol11.chm1000293
 f1_keywords:
 - vbaol11.chm1000293
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox Object (Outlook)
+# OlkListBox object (Outlook)
 
 A control that supports displaying a scrollable list of items.
 

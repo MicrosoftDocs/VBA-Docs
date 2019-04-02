@@ -1,5 +1,5 @@
 ---
-title: PostItem.MarkAsTask Method (Outlook)
+title: PostItem.MarkAsTask method (Outlook)
 keywords: vbaol11.chm3043
 f1_keywords:
 - vbaol11.chm3043
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.MarkAsTask Method (Outlook)
+# PostItem.MarkAsTask method (Outlook)
 
 Marks a  **[PostItem](Outlook.PostItem.md)** object as a task and assigns a task interval for the object.
 

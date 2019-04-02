@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BeforeAutoSave Event (Outlook)
+title: ContactItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BeforeAutoSave Event (Outlook)
+# ContactItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 

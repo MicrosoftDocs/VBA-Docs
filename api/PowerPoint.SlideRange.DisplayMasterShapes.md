@@ -1,5 +1,5 @@
 ---
-title: SlideRange.DisplayMasterShapes Property (PowerPoint)
+title: SlideRange.DisplayMasterShapes property (PowerPoint)
 keywords: vbapp10.chm532020
 f1_keywords:
 - vbapp10.chm532020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.DisplayMasterShapes Property (PowerPoint)
+# SlideRange.DisplayMasterShapes property (PowerPoint)
 
 Determines whether the specified range of slides displays the background objects on the slide master. Read/write.
 

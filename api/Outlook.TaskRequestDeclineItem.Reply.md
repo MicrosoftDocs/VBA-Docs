@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Reply Event (Outlook)
+title: TaskRequestDeclineItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Reply Event (Outlook)
+# TaskRequestDeclineItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item (which is an instance of the parent object).
 

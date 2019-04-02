@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.LastName Property (Outlook)
+title: ExchangeUser.LastName property (Outlook)
 keywords: vbaol11.chm2094
 f1_keywords:
 - vbaol11.chm2094
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.LastName Property (Outlook)
+# ExchangeUser.LastName property (Outlook)
 
 Returns a  **String** representing the last name of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

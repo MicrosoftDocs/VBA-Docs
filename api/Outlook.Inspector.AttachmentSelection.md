@@ -1,5 +1,5 @@
 ---
-title: Inspector.AttachmentSelection Property (Outlook)
+title: Inspector.AttachmentSelection property (Outlook)
 keywords: vbaol11.chm3486
 f1_keywords:
 - vbaol11.chm3486
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.AttachmentSelection Property (Outlook)
+# Inspector.AttachmentSelection property (Outlook)
 
 Returns an  **[AttachmentSelection](Outlook.AttachmentSelection.md)** object consisting of one or more attachments that are selected in the inspector. Read-only.
 

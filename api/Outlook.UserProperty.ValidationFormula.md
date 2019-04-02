@@ -1,5 +1,5 @@
 ---
-title: UserProperty.ValidationFormula Property (Outlook)
+title: UserProperty.ValidationFormula property (Outlook)
 keywords: vbaol11.chm220
 f1_keywords:
 - vbaol11.chm220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperty.ValidationFormula Property (Outlook)
+# UserProperty.ValidationFormula property (Outlook)
 
 Returns or sets a  **String** indicating the validation formula for the user property. Read/write.
 

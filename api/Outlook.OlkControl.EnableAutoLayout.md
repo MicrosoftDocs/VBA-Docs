@@ -1,5 +1,5 @@
 ---
-title: OlkControl.EnableAutoLayout Property (Outlook)
+title: OlkControl.EnableAutoLayout property (Outlook)
 keywords: vbaol11.chm1000543
 f1_keywords:
 - vbaol11.chm1000543
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkControl.EnableAutoLayout Property (Outlook)
+# OlkControl.EnableAutoLayout property (Outlook)
 
 Returns or sets a  **Boolean** that enables automatic adjustments of the layout for the control with respect to the rest of the form. Read/write.
 

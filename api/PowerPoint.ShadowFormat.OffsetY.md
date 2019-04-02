@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetY Property (PowerPoint)
+title: ShadowFormat.OffsetY property (PowerPoint)
 keywords: vbapp10.chm554007
 f1_keywords:
 - vbapp10.chm554007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetY Property (PowerPoint)
+# ShadowFormat.OffsetY property (PowerPoint)
 
 Returns or sets the vertical offset of the shadow from the specified shape, in points. Read/write.
 

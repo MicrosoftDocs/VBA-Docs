@@ -1,5 +1,5 @@
 ---
-title: CommandEffect.Command Property (PowerPoint)
+title: CommandEffect.Command property (PowerPoint)
 keywords: vbapp10.chm668004
 f1_keywords:
 - vbapp10.chm668004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CommandEffect.Command Property (PowerPoint)
+# CommandEffect.Command property (PowerPoint)
 
 Represents the command to be executed for the command effect. Read/write.
 

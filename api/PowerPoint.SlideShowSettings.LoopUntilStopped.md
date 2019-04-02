@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.LoopUntilStopped Property (PowerPoint)
+title: SlideShowSettings.LoopUntilStopped property (PowerPoint)
 keywords: vbapp10.chm514009
 f1_keywords:
 - vbapp10.chm514009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.LoopUntilStopped Property (PowerPoint)
+# SlideShowSettings.LoopUntilStopped property (PowerPoint)
 
 Determines whether specified slide show loops continuously until the user presses ESC. Read/write.
 

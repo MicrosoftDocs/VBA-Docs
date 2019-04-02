@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ConnectionSiteCount Property (PowerPoint)
+title: ShapeRange.ConnectionSiteCount property (PowerPoint)
 keywords: vbapp10.chm548019
 f1_keywords:
 - vbapp10.chm548019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ConnectionSiteCount Property (PowerPoint)
+# ShapeRange.ConnectionSiteCount property (PowerPoint)
 
 Returns the number of connection sites on the specified shape. Read-only.
 

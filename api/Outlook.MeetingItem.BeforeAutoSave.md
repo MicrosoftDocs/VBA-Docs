@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.BeforeAutoSave Event (Outlook)
+title: MeetingItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.BeforeAutoSave Event (Outlook)
+# MeetingItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 

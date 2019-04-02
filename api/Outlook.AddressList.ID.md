@@ -1,5 +1,5 @@
 ---
-title: AddressList.ID Property (Outlook)
+title: AddressList.ID property (Outlook)
 keywords: vbaol11.chm2028
 f1_keywords:
 - vbaol11.chm2028
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.ID Property (Outlook)
+# AddressList.ID property (Outlook)
 
 Returns a  **String** representing the unique identifier for the object. Read-only.
 

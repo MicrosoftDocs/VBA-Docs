@@ -1,5 +1,5 @@
 ---
-title: UserProperties.Count Property (Outlook)
+title: UserProperties.Count property (Outlook)
 keywords: vbaol11.chm207
 f1_keywords:
 - vbaol11.chm207
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperties.Count Property (Outlook)
+# UserProperties.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

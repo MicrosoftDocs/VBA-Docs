@@ -1,5 +1,5 @@
 ---
-title: Master Object (PowerPoint)
+title: Master object (PowerPoint)
 keywords: vbapp10.chm638000
 f1_keywords:
 - vbapp10.chm638000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master Object (PowerPoint)
+# Master object (PowerPoint)
 
 Represents a slide master, title master, handout master, notes master, or design master.
 

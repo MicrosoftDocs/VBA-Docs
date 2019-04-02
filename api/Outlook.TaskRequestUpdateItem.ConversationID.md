@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.ConversationID Property (Outlook)
+title: TaskRequestUpdateItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3506
 f1_keywords:
 - vbaol11.chm3506
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.ConversationID Property (Outlook)
+# TaskRequestUpdateItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md)** object belongs to. Read-only.
 

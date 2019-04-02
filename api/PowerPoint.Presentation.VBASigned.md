@@ -1,5 +1,5 @@
 ---
-title: Presentation.VBASigned Property (PowerPoint)
+title: Presentation.VBASigned property (PowerPoint)
 keywords: vbapp10.chm583059
 f1_keywords:
 - vbapp10.chm583059
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.VBASigned Property (PowerPoint)
+# Presentation.VBASigned property (PowerPoint)
 
 Determines whether the Visual Basic for Applications (VBA) project for the specified document has been digitally signed. Read-only.
 

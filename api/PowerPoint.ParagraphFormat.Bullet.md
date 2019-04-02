@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Bullet Property (PowerPoint)
+title: ParagraphFormat.Bullet property (PowerPoint)
 keywords: vbapp10.chm576004
 f1_keywords:
 - vbapp10.chm576004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Bullet Property (PowerPoint)
+# ParagraphFormat.Bullet property (PowerPoint)
 
 Returns a  **[BulletFormat](PowerPoint.BulletFormat.md)** object that represents bullet formatting for the specified paragraph format. Read-only.
 

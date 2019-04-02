@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.ID Property (Outlook)
+title: AddressEntry.ID property (Outlook)
 keywords: vbaol11.chm2044
 f1_keywords:
 - vbaol11.chm2044
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.ID Property (Outlook)
+# AddressEntry.ID property (Outlook)
 
 Returns a  **String** representing the unique identifier for the object. Read-only.
 

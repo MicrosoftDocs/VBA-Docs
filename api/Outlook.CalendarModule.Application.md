@@ -1,5 +1,5 @@
 ---
-title: CalendarModule.Application Property (Outlook)
+title: CalendarModule.Application property (Outlook)
 keywords: vbaol11.chm2822
 f1_keywords:
 - vbaol11.chm2822
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarModule.Application Property (Outlook)
+# CalendarModule.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

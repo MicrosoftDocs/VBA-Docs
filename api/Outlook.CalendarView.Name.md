@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Name Property (Outlook)
+title: CalendarView.Name property (Outlook)
 keywords: vbaol11.chm2618
 f1_keywords:
 - vbaol11.chm2618
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Name Property (Outlook)
+# CalendarView.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 

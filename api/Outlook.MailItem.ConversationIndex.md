@@ -1,5 +1,5 @@
 ---
-title: MailItem.ConversationIndex Property (Outlook)
+title: MailItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1300
 f1_keywords:
 - vbaol11.chm1300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ConversationIndex Property (Outlook)
+# MailItem.ConversationIndex property (Outlook)
 
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
 

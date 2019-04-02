@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Details Method (Outlook)
+title: ExchangeUser.Details method (Outlook)
 keywords: vbaol11.chm2074
 f1_keywords:
 - vbaol11.chm2074
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Details Method (Outlook)
+# ExchangeUser.Details method (Outlook)
 
 Displays a modal dialog box that provides detailed information about an  **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 

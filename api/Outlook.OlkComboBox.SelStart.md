@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.SelStart Property (Outlook)
+title: OlkComboBox.SelStart property (Outlook)
 keywords: vbaol11.chm1000221
 f1_keywords:
 - vbaol11.chm1000221
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.SelStart Property (Outlook)
+# OlkComboBox.SelStart property (Outlook)
 
 Returns or sets a  **Long** that specifies either the starting point of the selected text or the insertion point if no text has been selected. Read/write.
 

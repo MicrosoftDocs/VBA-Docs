@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Move Method (Outlook)
+title: SharingItem.Move method (Outlook)
 keywords: vbaol11.chm627
 f1_keywords:
 - vbaol11.chm627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Move Method (Outlook)
+# SharingItem.Move method (Outlook)
 
 Moves a  **[SharingItem](Outlook.SharingItem.md)** to a new folder.
 

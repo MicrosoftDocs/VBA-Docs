@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.RetentionPolicyName Property (Outlook)
+title: MeetingItem.RetentionPolicyName property (Outlook)
 keywords: vbaol11.chm3561
 f1_keywords:
 - vbaol11.chm3561
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.RetentionPolicyName Property (Outlook)
+# MeetingItem.RetentionPolicyName property (Outlook)
 
 Returns a  **String** that specifies the name of the retention policy. Read-only.
 

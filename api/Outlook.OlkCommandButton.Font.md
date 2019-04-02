@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.Font Property (Outlook)
+title: OlkCommandButton.Font property (Outlook)
 keywords: vbaol11.chm1000113
 f1_keywords:
 - vbaol11.chm1000113
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.Font Property (Outlook)
+# OlkCommandButton.Font property (Outlook)
 
 Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
 

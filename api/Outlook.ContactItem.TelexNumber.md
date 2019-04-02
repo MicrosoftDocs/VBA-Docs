@@ -1,5 +1,5 @@
 ---
-title: ContactItem.TelexNumber Property (Outlook)
+title: ContactItem.TelexNumber property (Outlook)
 keywords: vbaol11.chm1067
 f1_keywords:
 - vbaol11.chm1067
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.TelexNumber Property (Outlook)
+# ContactItem.TelexNumber property (Outlook)
 
 Returns or sets a  **String** indicating the telex number for the contact. Read/write.
 

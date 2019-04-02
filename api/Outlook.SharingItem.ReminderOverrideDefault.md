@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReminderOverrideDefault Property (Outlook)
+title: SharingItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm651
 f1_keywords:
 - vbaol11.chm651
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReminderOverrideDefault Property (Outlook)
+# SharingItem.ReminderOverrideDefault property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

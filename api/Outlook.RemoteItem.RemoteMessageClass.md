@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.RemoteMessageClass Property (Outlook)
+title: RemoteItem.RemoteMessageClass property (Outlook)
 keywords: vbaol11.chm1621
 f1_keywords:
 - vbaol11.chm1621
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.RemoteMessageClass Property (Outlook)
+# RemoteItem.RemoteMessageClass property (Outlook)
 
 Returns a  **String** indicating the message class for the remote item. Read-only.
 

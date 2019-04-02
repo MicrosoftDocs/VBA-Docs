@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutoAttach Property (PowerPoint)
+title: CalloutFormat.AutoAttach property (PowerPoint)
 keywords: vbapp10.chm559008
 f1_keywords:
 - vbapp10.chm559008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.AutoAttach Property (PowerPoint)
+# CalloutFormat.AutoAttach property (PowerPoint)
 
 Determines whether the place where the callout line attaches to the callout text box changes, depending on whether the origin of the callout line (where the callout points to) is to the left or right of the callout text box. Read/write.
 

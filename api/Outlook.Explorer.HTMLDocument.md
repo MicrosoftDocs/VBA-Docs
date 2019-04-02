@@ -1,5 +1,5 @@
 ---
-title: Explorer.HTMLDocument Property (Outlook)
+title: Explorer.HTMLDocument property (Outlook)
 keywords: vbaol11.chm2778
 f1_keywords:
 - vbaol11.chm2778
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.HTMLDocument Property (Outlook)
+# Explorer.HTMLDocument property (Outlook)
 
 Returns an  **HTMLDocument** object that specifies the HTML object model associated with the HTML document in the current view (assuming one exists). Read-only.
 

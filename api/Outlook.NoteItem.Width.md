@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Width Property (Outlook)
+title: NoteItem.Width property (Outlook)
 keywords: vbaol11.chm1491
 f1_keywords:
 - vbaol11.chm1491
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Width Property (Outlook)
+# NoteItem.Width property (Outlook)
 
 Returns or sets a  **Long** indicating the width (in pixels) of the specified object. Read/write.
 

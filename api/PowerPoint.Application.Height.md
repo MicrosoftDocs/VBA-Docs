@@ -1,5 +1,5 @@
 ---
-title: Application.Height Property (PowerPoint)
+title: Application.Height property (PowerPoint)
 keywords: vbapp10.chm502029
 f1_keywords:
 - vbapp10.chm502029
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Height Property (PowerPoint)
+# Application.Height property (PowerPoint)
 
 Returns or sets the height of the specified object, in points. Read/write.
 

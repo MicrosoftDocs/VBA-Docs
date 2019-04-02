@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.PropertyAccessor Property (Outlook)
+title: AddressEntry.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm2059
 f1_keywords:
 - vbaol11.chm2059
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.PropertyAccessor Property (Outlook)
+# AddressEntry.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[AddressEntry](Outlook.AddressEntry.md)** object. Read-only.
 

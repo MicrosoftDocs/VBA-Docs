@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Department Property (Outlook)
+title: ExchangeUser.Department property (Outlook)
 keywords: vbaol11.chm2091
 f1_keywords:
 - vbaol11.chm2091
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Department Property (Outlook)
+# ExchangeUser.Department property (Outlook)
 
 Returns a  **String** representing the department for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

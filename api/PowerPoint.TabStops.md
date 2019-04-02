@@ -1,5 +1,5 @@
 ---
-title: TabStops Object (PowerPoint)
+title: TabStops object (PowerPoint)
 keywords: vbapp10.chm573000
 f1_keywords:
 - vbapp10.chm573000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStops Object (PowerPoint)
+# TabStops object (PowerPoint)
 
 A collection of all the  **[TabStop](PowerPoint.TabStop.md)** objects on one ruler.
 

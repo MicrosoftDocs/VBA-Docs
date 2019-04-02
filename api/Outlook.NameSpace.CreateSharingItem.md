@@ -1,5 +1,5 @@
 ---
-title: NameSpace.CreateSharingItem Method (Outlook)
+title: NameSpace.CreateSharingItem method (Outlook)
 keywords: vbaol11.chm790
 f1_keywords:
 - vbaol11.chm790
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.CreateSharingItem Method (Outlook)
+# NameSpace.CreateSharingItem method (Outlook)
 
 Creates a new  **[SharingItem](Outlook.SharingItem.md)** object.
 

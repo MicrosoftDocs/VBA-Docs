@@ -1,5 +1,5 @@
 ---
-title: NavigationModules Object (Outlook)
+title: NavigationModules object (Outlook)
 keywords: vbaol11.chm3192
 f1_keywords:
 - vbaol11.chm3192
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModules Object (Outlook)
+# NavigationModules object (Outlook)
 
 Contains a read-only set of  **[NavigationModule](Outlook.NavigationModule.md)** objects that represent the navigation modules displayed by the navigation pane.
 

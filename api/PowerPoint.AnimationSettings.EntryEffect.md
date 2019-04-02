@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.EntryEffect Property (PowerPoint)
+title: AnimationSettings.EntryEffect property (PowerPoint)
 keywords: vbapp10.chm565005
 f1_keywords:
 - vbapp10.chm565005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.EntryEffect Property (PowerPoint)
+# AnimationSettings.EntryEffect property (PowerPoint)
 
 For the  **AnimationSettings** object, this property returns or sets the special effect applied to the animation for the specified shape. Read/write.
 

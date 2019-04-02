@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SenderEmailType Property (Outlook)
+title: SharingItem.SenderEmailType property (Outlook)
 keywords: vbaol11.chm687
 f1_keywords:
 - vbaol11.chm687
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SenderEmailType Property (Outlook)
+# SharingItem.SenderEmailType property (Outlook)
 
 Returns a  **String** that represents the type of entry for the email address of the sender of the **[SharingItem](Outlook.SharingItem.md)**, such as 'SMTP' for Internet address, 'EX' for a Microsoft Exchange server address, and so on. Read-only.
 

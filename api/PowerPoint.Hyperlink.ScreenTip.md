@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.ScreenTip Property (PowerPoint)
+title: Hyperlink.ScreenTip property (PowerPoint)
 keywords: vbapp10.chm526008
 f1_keywords:
 - vbapp10.chm526008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.ScreenTip Property (PowerPoint)
+# Hyperlink.ScreenTip property (PowerPoint)
 
 Returns or sets the ScreenTip text of a hyperlink. Read/write.
 

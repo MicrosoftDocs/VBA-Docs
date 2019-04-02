@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty.Application Property (Outlook)
+title: UserDefinedProperty.Application property (Outlook)
 keywords: vbaol11.chm1
 f1_keywords:
 - vbaol11.chm1
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty.Application Property (Outlook)
+# UserDefinedProperty.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

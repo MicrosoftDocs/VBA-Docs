@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ReminderSet Property (Outlook)
+title: ContactItem.ReminderSet property (Outlook)
 keywords: vbaol11.chm1106
 f1_keywords:
 - vbaol11.chm1106
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ReminderSet Property (Outlook)
+# ContactItem.ReminderSet property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if a reminder has been set for this item. Read/write.
 

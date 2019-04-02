@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Importance Property (Outlook)
+title: MeetingItem.Importance property (Outlook)
 keywords: vbaol11.chm1414
 f1_keywords:
 - vbaol11.chm1414
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Importance Property (Outlook)
+# MeetingItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 

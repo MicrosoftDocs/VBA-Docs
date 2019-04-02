@@ -1,5 +1,5 @@
 ---
-title: SendRuleAction.Class Property (Outlook)
+title: SendRuleAction.Class property (Outlook)
 keywords: vbaol11.chm2217
 f1_keywords:
 - vbaol11.chm2217
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SendRuleAction.Class Property (Outlook)
+# SendRuleAction.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

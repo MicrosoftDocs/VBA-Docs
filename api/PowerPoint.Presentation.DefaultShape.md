@@ -1,5 +1,5 @@
 ---
-title: Presentation.DefaultShape Property (PowerPoint)
+title: Presentation.DefaultShape property (PowerPoint)
 keywords: vbapp10.chm583019
 f1_keywords:
 - vbapp10.chm583019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.DefaultShape Property (PowerPoint)
+# Presentation.DefaultShape property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the default shape for the presentation. Read-only.
 

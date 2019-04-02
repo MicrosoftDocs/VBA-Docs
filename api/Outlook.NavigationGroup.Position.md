@@ -1,5 +1,5 @@
 ---
-title: NavigationGroup.Position Property (Outlook)
+title: NavigationGroup.Position property (Outlook)
 keywords: vbaol11.chm2889
 f1_keywords:
 - vbaol11.chm2889
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroup.Position Property (Outlook)
+# NavigationGroup.Position property (Outlook)
 
 Returns or sets a  **Long** value that represents the ordinal position of the **[NavigationGroup](Outlook.NavigationGroup.md)** object when displayed in the navigation pane. Read/write.
 

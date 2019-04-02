@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.PauseAnimation Property (PowerPoint)
+title: PlaySettings.PauseAnimation property (PowerPoint)
 keywords: vbapp10.chm568008
 f1_keywords:
 - vbapp10.chm568008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySettings.PauseAnimation Property (PowerPoint)
+# PlaySettings.PauseAnimation property (PowerPoint)
 
 Determines whether the slide show pauses until the specified media clip is finished playing. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadStyle Property (PowerPoint)
+title: LineFormat.EndArrowheadStyle property (PowerPoint)
 keywords: vbapp10.chm553008
 f1_keywords:
 - vbapp10.chm553008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.EndArrowheadStyle Property (PowerPoint)
+# LineFormat.EndArrowheadStyle property (PowerPoint)
 
 Returns or sets the style of the arrowhead at the end of the specified line. Read/write.
 

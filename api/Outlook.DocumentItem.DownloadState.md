@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.DownloadState Property (Outlook)
+title: DocumentItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1218
 f1_keywords:
 - vbaol11.chm1218
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.DownloadState Property (Outlook)
+# DocumentItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 

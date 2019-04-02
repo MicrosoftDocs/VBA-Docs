@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Body Property (Outlook)
+title: ReportItem.Body property (Outlook)
 keywords: vbaol11.chm1641
 f1_keywords:
 - vbaol11.chm1641
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Body Property (Outlook)
+# ReportItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 

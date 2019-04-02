@@ -1,5 +1,5 @@
 ---
-title: TimeZones.Parent Property (Outlook)
+title: TimeZones.Parent property (Outlook)
 keywords: vbaol11.chm3294
 f1_keywords:
 - vbaol11.chm3294
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZones.Parent Property (Outlook)
+# TimeZones.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

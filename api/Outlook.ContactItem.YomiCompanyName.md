@@ -1,5 +1,5 @@
 ---
-title: ContactItem.YomiCompanyName Property (Outlook)
+title: ContactItem.YomiCompanyName property (Outlook)
 keywords: vbaol11.chm1076
 f1_keywords:
 - vbaol11.chm1076
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.YomiCompanyName Property (Outlook)
+# ContactItem.YomiCompanyName property (Outlook)
 
 Returns or sets a  **String** indicating the Japanese phonetic rendering (yomigana) of the company name for the contact. Read/write.
 

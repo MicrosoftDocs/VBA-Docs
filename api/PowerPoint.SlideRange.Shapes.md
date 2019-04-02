@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Shapes Property (PowerPoint)
+title: SlideRange.Shapes property (PowerPoint)
 keywords: vbapp10.chm532003
 f1_keywords:
 - vbapp10.chm532003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Shapes Property (PowerPoint)
+# SlideRange.Shapes property (PowerPoint)
 
 Returns a  **[Shapes](PowerPoint.Shapes.md)** collection that represents all the elements that have been placed or inserted on the specified slide, slide master, or range of slides. Read-only.
 

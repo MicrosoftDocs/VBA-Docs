@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.StringToBinary Method (Outlook)
+title: PropertyAccessor.StringToBinary method (Outlook)
 keywords: vbaol11.chm1976
 f1_keywords:
 - vbaol11.chm1976
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.StringToBinary Method (Outlook)
+# PropertyAccessor.StringToBinary method (Outlook)
 
 Converts a string specified by  _Value_ to an array of bytes.
 

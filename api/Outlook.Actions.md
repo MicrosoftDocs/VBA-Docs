@@ -1,5 +1,5 @@
 ---
-title: Actions Object (Outlook)
+title: Actions object (Outlook)
 keywords: vbaol11.chm144
 f1_keywords:
 - vbaol11.chm144
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Actions Object (Outlook)
+# Actions object (Outlook)
 
 Contains a collection of  **[Action](Outlook.Action.md)** objects that represent all the specialized actions that can be executed on an Outlook item.
 

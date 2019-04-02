@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.Enabled Property (Outlook)
+title: OlkListBox.Enabled property (Outlook)
 keywords: vbaol11.chm1000253
 f1_keywords:
 - vbaol11.chm1000253
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.Enabled Property (Outlook)
+# OlkListBox.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 

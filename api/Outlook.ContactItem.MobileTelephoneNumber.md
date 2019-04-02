@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MobileTelephoneNumber Property (Outlook)
+title: ContactItem.MobileTelephoneNumber property (Outlook)
 keywords: vbaol11.chm1043
 f1_keywords:
 - vbaol11.chm1043
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MobileTelephoneNumber Property (Outlook)
+# ContactItem.MobileTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** representing the mobile telephone number for the contact. Read/write.
 

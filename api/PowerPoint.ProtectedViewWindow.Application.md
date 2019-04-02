@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Application Property (PowerPoint)
+title: ProtectedViewWindow.Application property (PowerPoint)
 keywords: vbapp10.chm734001
 f1_keywords:
 - vbapp10.chm734001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Application Property (PowerPoint)
+# ProtectedViewWindow.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

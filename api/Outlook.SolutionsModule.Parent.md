@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule.Parent Property (Outlook)
+title: SolutionsModule.Parent property (Outlook)
 keywords: vbaol11.chm3363
 f1_keywords:
 - vbaol11.chm3363
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SolutionsModule.Parent Property (Outlook)
+# SolutionsModule.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified **[SolutionsModule](Outlook.SolutionsModule.md)** object. Read-only.
 

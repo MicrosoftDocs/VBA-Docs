@@ -1,5 +1,5 @@
 ---
-title: TaskItem.OutlookInternalVersion Property (Outlook)
+title: TaskItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm1704
 f1_keywords:
 - vbaol11.chm1704
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.OutlookInternalVersion Property (Outlook)
+# TaskItem.OutlookInternalVersion property (Outlook)
 
 Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 

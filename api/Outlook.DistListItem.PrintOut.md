@@ -1,5 +1,5 @@
 ---
-title: DistListItem.PrintOut Method (Outlook)
+title: DistListItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1145
 f1_keywords:
 - vbaol11.chm1145
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.PrintOut Method (Outlook)
+# DistListItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 

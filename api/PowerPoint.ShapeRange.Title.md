@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Title Property (PowerPoint)
+title: ShapeRange.Title property (PowerPoint)
 keywords: vbapp10.chm548097
 f1_keywords:
 - vbapp10.chm548097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Title Property (PowerPoint)
+# ShapeRange.Title property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the slide title. Read-only.
 

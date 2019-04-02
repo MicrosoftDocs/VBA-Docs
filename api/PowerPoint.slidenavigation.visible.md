@@ -1,5 +1,5 @@
 ---
-title: SlideNavigation.Visible Property (PowerPoint)
+title: SlideNavigation.Visible property (PowerPoint)
 keywords: vbapp10.chm741002
 f1_keywords:
 - vbapp10.chm741002
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SlideNavigation.Visible Property (PowerPoint)
+# SlideNavigation.Visible property (PowerPoint)
 
 Specifies whether the slide navigation screen is displayed during a slide show. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Recipient.AddressEntry Property (Outlook)
+title: Recipient.AddressEntry property (Outlook)
 keywords: vbaol11.chm2345
 f1_keywords:
 - vbaol11.chm2345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.AddressEntry Property (Outlook)
+# Recipient.AddressEntry property (Outlook)
 
 Returns the  **[AddressEntry](Outlook.AddressEntry.md)** object corresponding to the resolved recipient. Read/write.
 

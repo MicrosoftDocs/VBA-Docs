@@ -1,5 +1,5 @@
 ---
-title: Attachment.Type Property (Outlook)
+title: Attachment.Type property (Outlook)
 keywords: vbaol11.chm2371
 f1_keywords:
 - vbaol11.chm2371
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.Type Property (Outlook)
+# Attachment.Type property (Outlook)
 
 Returns an  **[OlAttachmentType](Outlook.OlAttachmentType.md)** constant indicating the type of the specified object. Read-only.
 

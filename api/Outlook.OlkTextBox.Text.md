@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Text Property (Outlook)
+title: OlkTextBox.Text property (Outlook)
 keywords: vbaol11.chm1000058
 f1_keywords:
 - vbaol11.chm1000058
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Text Property (Outlook)
+# OlkTextBox.Text property (Outlook)
 
 Returns or sets a  **String** that is the text displayed in the control. Read/write.
 

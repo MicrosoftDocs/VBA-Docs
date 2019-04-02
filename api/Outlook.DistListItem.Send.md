@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Send Event (Outlook)
+title: DistListItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Send
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Send Event (Outlook)
+# DistListItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).
 

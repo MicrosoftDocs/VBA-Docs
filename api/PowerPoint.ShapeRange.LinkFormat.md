@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.LinkFormat Property (PowerPoint)
+title: ShapeRange.LinkFormat property (PowerPoint)
 keywords: vbapp10.chm548045
 f1_keywords:
 - vbapp10.chm548045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.LinkFormat Property (PowerPoint)
+# ShapeRange.LinkFormat property (PowerPoint)
 
 Returns a  **[LinkFormat](PowerPoint.LinkFormat.md)** object that contains the properties that are unique to linked OLE objects. Read-only.
 

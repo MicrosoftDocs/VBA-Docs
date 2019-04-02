@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.ThreeD Property (PowerPoint)
+title: ChartFormat.ThreeD property (PowerPoint)
 keywords: vbapp10.chm691009
 f1_keywords:
 - vbapp10.chm691009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFormat.ThreeD Property (PowerPoint)
+# ChartFormat.ThreeD property (PowerPoint)
 
 Returns the 3-D-effect formatting properties for the specified chart. Read-only  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.GroupAdd Event (Outlook)
+title: OutlookBarGroups.GroupAdd event (Outlook)
 keywords: vbaol11.chm355
 f1_keywords:
 - vbaol11.chm355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.GroupAdd Event (Outlook)
+# OutlookBarGroups.GroupAdd event (Outlook)
 
 Occurs when a new group has been added to the  **Shortcuts** pane.
 

@@ -1,5 +1,5 @@
 ---
-title: Trendline.Backward2 Property (PowerPoint)
+title: Trendline.Backward2 property (PowerPoint)
 keywords: vbapp10.chm68186
 f1_keywords:
 - vbapp10.chm68186
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Backward2 Property (PowerPoint)
+# Trendline.Backward2 property (PowerPoint)
 
 Returns or sets the number of periods (or units on a scatter chart) that the trendline extends backward. Read/write  **Double**.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationGroup Object (Outlook)
+title: NavigationGroup object (Outlook)
 keywords: vbaol11.chm3199
 f1_keywords:
 - vbaol11.chm3199
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroup Object (Outlook)
+# NavigationGroup object (Outlook)
 
 Represents a navigation group displayed by a navigation module in the navigation pane.
 

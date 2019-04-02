@@ -1,5 +1,5 @@
 ---
-title: TimeZones.CurrentTimeZone Property (Outlook)
+title: TimeZones.CurrentTimeZone property (Outlook)
 keywords: vbaol11.chm3298
 f1_keywords:
 - vbaol11.chm3298
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZones.CurrentTimeZone Property (Outlook)
+# TimeZones.CurrentTimeZone property (Outlook)
 
 Returns a  **[TimeZone](Outlook.TimeZone.md)** value that represents the current Windows system local time zone. Read-only.
 

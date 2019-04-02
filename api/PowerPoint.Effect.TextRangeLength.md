@@ -1,5 +1,5 @@
 ---
-title: Effect.TextRangeLength Property (PowerPoint)
+title: Effect.TextRangeLength property (PowerPoint)
 keywords: vbapp10.chm652013
 f1_keywords:
 - vbapp10.chm652013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.TextRangeLength Property (PowerPoint)
+# Effect.TextRangeLength property (PowerPoint)
 
 Returns or sets a  **Long** that represents the length of a text range. Read-only.
 

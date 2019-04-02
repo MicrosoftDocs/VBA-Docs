@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Strikethrough Property (Outlook)
+title: ViewFont.Strikethrough property (Outlook)
 keywords: vbaol11.chm2699
 f1_keywords:
 - vbaol11.chm2699
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Strikethrough Property (Outlook)
+# ViewFont.Strikethrough property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates if the font is struck through with a horizontal line in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
 

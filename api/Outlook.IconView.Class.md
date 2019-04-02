@@ -1,5 +1,5 @@
 ---
-title: IconView.Class Property (Outlook)
+title: IconView.Class property (Outlook)
 keywords: vbaol11.chm2558
 f1_keywords:
 - vbaol11.chm2558
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Class Property (Outlook)
+# IconView.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

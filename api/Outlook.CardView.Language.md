@@ -1,5 +1,5 @@
 ---
-title: CardView.Language Property (Outlook)
+title: CardView.Language property (Outlook)
 keywords: vbaol11.chm2588
 f1_keywords:
 - vbaol11.chm2588
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Language Property (Outlook)
+# CardView.Language property (Outlook)
 
 Returns or sets a  **String** value that represents the language setting for the view. Read/write.
 

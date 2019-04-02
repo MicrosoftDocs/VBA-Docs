@@ -1,5 +1,5 @@
 ---
-title: TaskItem.MessageClass Property (Outlook)
+title: TaskItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1701
 f1_keywords:
 - vbaol11.chm1701
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.MessageClass Property (Outlook)
+# TaskItem.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the Outlook item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Forward Method (Outlook)
+title: SharingItem.Forward method (Outlook)
 keywords: vbaol11.chm669
 f1_keywords:
 - vbaol11.chm669
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Forward Method (Outlook)
+# SharingItem.Forward method (Outlook)
 
 Executes the  **Forward** action for an item and returns the resulting copy as a **[SharingItem](Outlook.SharingItem.md)** object.
 

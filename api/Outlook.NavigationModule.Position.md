@@ -1,5 +1,5 @@
 ---
-title: NavigationModule.Position Property (Outlook)
+title: NavigationModule.Position property (Outlook)
 keywords: vbaol11.chm2809
 f1_keywords:
 - vbaol11.chm2809
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModule.Position Property (Outlook)
+# NavigationModule.Position property (Outlook)
 
 Returns or sets a  **Long** value that represents the ordinal position of the **[NavigationModule](Outlook.NavigationModule.md)** object when displayed in the navigation pane. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Path Property (PowerPoint)
+title: FileConverter.Path property (PowerPoint)
 keywords: vbapp10.chm680010
 f1_keywords:
 - vbapp10.chm680010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.Path Property (PowerPoint)
+# FileConverter.Path property (PowerPoint)
 
 Returns the disk or Web path to the specified object. Read-only  **String**.
 

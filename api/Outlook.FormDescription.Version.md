@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Version Property (Outlook)
+title: FormDescription.Version property (Outlook)
 keywords: vbaol11.chm200
 f1_keywords:
 - vbaol11.chm200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.Version Property (Outlook)
+# FormDescription.Version property (Outlook)
 
 Returns or sets a  **String** indicating the number of the version. Read/write.
 

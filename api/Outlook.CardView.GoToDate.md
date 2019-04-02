@@ -1,5 +1,5 @@
 ---
-title: CardView.GoToDate Method (Outlook)
+title: CardView.GoToDate method (Outlook)
 keywords: vbaol11.chm2595
 f1_keywords:
 - vbaol11.chm2595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.GoToDate Method (Outlook)
+# CardView.GoToDate method (Outlook)
 
 Changes the date used by the current view to display information.
 

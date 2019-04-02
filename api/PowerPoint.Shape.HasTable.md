@@ -1,5 +1,5 @@
 ---
-title: Shape.HasTable Property (PowerPoint)
+title: Shape.HasTable property (PowerPoint)
 keywords: vbapp10.chm547059
 f1_keywords:
 - vbapp10.chm547059
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.HasTable Property (PowerPoint)
+# Shape.HasTable property (PowerPoint)
 
 Returns whether the specified shape is a table. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection Object (PowerPoint)
+title: SeriesCollection object (PowerPoint)
 keywords: vbapp10.chm717000
 f1_keywords:
 - vbapp10.chm717000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection Object (PowerPoint)
+# SeriesCollection object (PowerPoint)
 
 Represents a collection of all the  **[Series](PowerPoint.Series.md)** objects in the specified chart or chart group.
 

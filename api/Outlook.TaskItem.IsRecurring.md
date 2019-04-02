@@ -1,5 +1,5 @@
 ---
-title: TaskItem.IsRecurring Property (Outlook)
+title: TaskItem.IsRecurring property (Outlook)
 keywords: vbaol11.chm1729
 f1_keywords:
 - vbaol11.chm1729
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.IsRecurring Property (Outlook)
+# TaskItem.IsRecurring property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the task is a recurring task. Read-only.
 

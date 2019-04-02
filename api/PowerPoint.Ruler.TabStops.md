@@ -1,5 +1,5 @@
 ---
-title: Ruler.TabStops Property (PowerPoint)
+title: Ruler.TabStops property (PowerPoint)
 keywords: vbapp10.chm570003
 f1_keywords:
 - vbapp10.chm570003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Ruler.TabStops Property (PowerPoint)
+# Ruler.TabStops property (PowerPoint)
 
 Returns a  **[TabStops](PowerPoint.TabStops.md)** collection that represents the tab stops for the specified text. Read-only.
 

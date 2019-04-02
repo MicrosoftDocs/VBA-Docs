@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.Count Property (Outlook)
+title: NavigationGroups.Count property (Outlook)
 keywords: vbaol11.chm2856
 f1_keywords:
 - vbaol11.chm2856
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.Count Property (Outlook)
+# NavigationGroups.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

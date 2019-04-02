@@ -1,5 +1,5 @@
 ---
-title: PostItem.Body Property (Outlook)
+title: PostItem.Body property (Outlook)
 keywords: vbaol11.chm1516
 f1_keywords:
 - vbaol11.chm1516
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Body Property (Outlook)
+# PostItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 

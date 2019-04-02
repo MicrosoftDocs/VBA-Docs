@@ -1,5 +1,5 @@
 ---
-title: RulerLevels.Application Property (PowerPoint)
+title: RulerLevels.Application property (PowerPoint)
 keywords: vbapp10.chm571001
 f1_keywords:
 - vbapp10.chm571001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RulerLevels.Application Property (PowerPoint)
+# RulerLevels.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

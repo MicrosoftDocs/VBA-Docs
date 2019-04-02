@@ -1,5 +1,5 @@
 ---
-title: TasksModule.Position Property (Outlook)
+title: TasksModule.Position property (Outlook)
 keywords: vbaol11.chm2848
 f1_keywords:
 - vbaol11.chm2848
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TasksModule.Position Property (Outlook)
+# TasksModule.Position property (Outlook)
 
 Returns or sets a  **Long** value that represents the ordinal position of the **[TasksModule](Outlook.TasksModule.md)** object when it is displayed in the navigation pane. Read/write.
 

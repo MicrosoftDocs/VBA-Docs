@@ -1,5 +1,5 @@
 ---
-title: Point.Left Property (PowerPoint)
+title: Point.Left property (PowerPoint)
 keywords: vbapp10.chm714009
 f1_keywords:
 - vbapp10.chm714009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Left Property (PowerPoint)
+# Point.Left property (PowerPoint)
 
 Returns a value that represents the distance, in points, from the left edge of the object to the left edge of the chart area. Read-only.
 

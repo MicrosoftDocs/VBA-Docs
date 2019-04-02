@@ -1,5 +1,5 @@
 ---
-title: PostItem.Read Event (Outlook)
+title: PostItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Read Event (Outlook)
+# PostItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 

@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.BeforeNavigate Event (Outlook)
+title: OutlookBarPane.BeforeNavigate event (Outlook)
 keywords: vbaol11.chm374
 f1_keywords:
 - vbaol11.chm374
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarPane.BeforeNavigate Event (Outlook)
+# OutlookBarPane.BeforeNavigate event (Outlook)
 
 Occurs when the user clicks a shortcut in the  **Shortcuts** pane to navigate to a different folder.
 

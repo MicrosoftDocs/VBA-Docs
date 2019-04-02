@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.AfterUpdate Event (Outlook)
+title: OlkTimeZoneControl.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000528
 f1_keywords:
 - vbaol11.chm1000528
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.AfterUpdate Event (Outlook)
+# OlkTimeZoneControl.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 

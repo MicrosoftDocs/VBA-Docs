@@ -1,5 +1,5 @@
 ---
-title: Timing.BounceEnd Property (PowerPoint)
+title: Timing.BounceEnd property (PowerPoint)
 keywords: vbapp10.chm653017
 f1_keywords:
 - vbapp10.chm653017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Timing.BounceEnd Property (PowerPoint)
+# Timing.BounceEnd property (PowerPoint)
 
 Read/write
 

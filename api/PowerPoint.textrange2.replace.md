@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Replace Method (PowerPoint)
+title: TextRange2.Replace method (PowerPoint)
 ms.assetid: 2c62469a-6e94-42cb-9329-c054688661fd
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.Replace Method (PowerPoint)
+# TextRange2.Replace method (PowerPoint)
 
 Finds specific text in a text range, replaces the found text with a specified string, and returns a  **TextRange2** object that represents the first occurrence of the found text. Returns **Nothing** if no match is found.
 
@@ -39,6 +39,6 @@ TextRange2
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

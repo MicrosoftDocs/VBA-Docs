@@ -1,5 +1,5 @@
 ---
-title: ColumnFormat.Application Property (Outlook)
+title: ColumnFormat.Application property (Outlook)
 keywords: vbaol11.chm2724
 f1_keywords:
 - vbaol11.chm2724
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColumnFormat.Application Property (Outlook)
+# ColumnFormat.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

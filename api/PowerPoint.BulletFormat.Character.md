@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Character Property (PowerPoint)
+title: BulletFormat.Character property (PowerPoint)
 keywords: vbapp10.chm577004
 f1_keywords:
 - vbapp10.chm577004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.Character Property (PowerPoint)
+# BulletFormat.Character property (PowerPoint)
 
 Returns or sets the Unicode character value that is used for bullets in the specified text. Read/write.
 

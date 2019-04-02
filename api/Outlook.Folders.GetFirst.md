@@ -1,5 +1,5 @@
 ---
-title: Folders.GetFirst Method (Outlook)
+title: Folders.GetFirst method (Outlook)
 keywords: vbaol11.chm47
 f1_keywords:
 - vbaol11.chm47
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.GetFirst Method (Outlook)
+# Folders.GetFirst method (Outlook)
 
 Returns the first object in the  **[Folders](Outlook.Folders.md)** collection.
 

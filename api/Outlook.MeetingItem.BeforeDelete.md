@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.BeforeDelete Event (Outlook)
+title: MeetingItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.BeforeDelete Event (Outlook)
+# MeetingItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 

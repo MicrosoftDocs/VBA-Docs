@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Formula Property (PowerPoint)
+title: AxisTitle.Formula property (PowerPoint)
 keywords: vbapp10.chm683024
 f1_keywords:
 - vbapp10.chm683024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Formula Property (PowerPoint)
+# AxisTitle.Formula property (PowerPoint)
 
 Returns or sets the object's formula in A1-style notation. Read-only.
 

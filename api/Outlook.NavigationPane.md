@@ -1,5 +1,5 @@
 ---
-title: NavigationPane Object (Outlook)
+title: NavigationPane object (Outlook)
 keywords: vbaol11.chm3021
 f1_keywords:
 - vbaol11.chm3021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationPane Object (Outlook)
+# NavigationPane object (Outlook)
 
 Represents the navigation pane displayed by the active  **[Explorer](Outlook.Explorer.md)** object.
 

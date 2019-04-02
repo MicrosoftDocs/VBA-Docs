@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.VideoFrameRate Property (PowerPoint)
+title: ResampleMediaTask.VideoFrameRate property (PowerPoint)
 keywords: vbapp10.chm727005
 f1_keywords:
 - vbapp10.chm727005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.VideoFrameRate Property (PowerPoint)
+# ResampleMediaTask.VideoFrameRate property (PowerPoint)
 
 Returns the video frame rate per second of the sample. Read-only.
 

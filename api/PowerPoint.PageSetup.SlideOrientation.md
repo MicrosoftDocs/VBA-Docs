@@ -1,5 +1,5 @@
 ---
-title: PageSetup.SlideOrientation Property (PowerPoint)
+title: PageSetup.SlideOrientation property (PowerPoint)
 keywords: vbapp10.chm527008
 f1_keywords:
 - vbapp10.chm527008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.SlideOrientation Property (PowerPoint)
+# PageSetup.SlideOrientation property (PowerPoint)
 
 Returns or sets the on-screen and printed orientation of slides in the specified presentation. Read/write.
 

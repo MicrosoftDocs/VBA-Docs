@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ReminderSoundFile Property (Outlook)
+title: AppointmentItem.ReminderSoundFile property (Outlook)
 keywords: vbaol11.chm896
 f1_keywords:
 - vbaol11.chm896
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ReminderSoundFile Property (Outlook)
+# AppointmentItem.ReminderSoundFile property (Outlook)
 
 Returns or sets a  **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
 

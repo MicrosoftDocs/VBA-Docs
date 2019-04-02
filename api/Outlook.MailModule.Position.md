@@ -1,5 +1,5 @@
 ---
-title: MailModule.Position Property (Outlook)
+title: MailModule.Position property (Outlook)
 keywords: vbaol11.chm2818
 f1_keywords:
 - vbaol11.chm2818
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailModule.Position Property (Outlook)
+# MailModule.Position property (Outlook)
 
 Returns or sets a  **Long** value that represents the ordinal position of the **[MailModule](Outlook.MailModule.md)** object when it is displayed in the navigation pane. Read/write.
 

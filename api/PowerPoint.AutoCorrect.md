@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect Object (PowerPoint)
+title: AutoCorrect object (PowerPoint)
 keywords: vbapp10.chm666000
 f1_keywords:
 - vbapp10.chm666000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoCorrect Object (PowerPoint)
+# AutoCorrect object (PowerPoint)
 
 Represents the AutoCorrect functionality in Microsoft PowerPoint.
 

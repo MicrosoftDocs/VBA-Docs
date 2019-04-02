@@ -1,5 +1,5 @@
 ---
-title: Presentation.ServerPolicy Property (PowerPoint)
+title: Presentation.ServerPolicy property (PowerPoint)
 keywords: vbapp10.chm583097
 f1_keywords:
 - vbapp10.chm583097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.ServerPolicy Property (PowerPoint)
+# Presentation.ServerPolicy property (PowerPoint)
 
 Returns a Microsoft Office  **[ServerPolicy](Office.ServerPolicy.md)** object. Read-only.
 

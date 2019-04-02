@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.MouseUp Event (Outlook)
+title: OlkCheckBox.MouseUp event (Outlook)
 keywords: vbaol11.chm1000153
 f1_keywords:
 - vbaol11.chm1000153
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.MouseUp Event (Outlook)
+# OlkCheckBox.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 

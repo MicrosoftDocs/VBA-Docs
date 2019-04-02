@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.AttachmentRead Event (Outlook)
+title: RemoteItem.AttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.AttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.AttachmentRead Event (Outlook)
+# RemoteItem.AttachmentRead event (Outlook)
 
 Occurs when an attachment in an instance of the parent object has been opened for reading.
 

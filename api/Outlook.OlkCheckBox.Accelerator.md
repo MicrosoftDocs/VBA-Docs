@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.Accelerator Property (Outlook)
+title: OlkCheckBox.Accelerator property (Outlook)
 keywords: vbaol11.chm1000134
 f1_keywords:
 - vbaol11.chm1000134
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.Accelerator Property (Outlook)
+# OlkCheckBox.Accelerator property (Outlook)
 
 Returns or sets a  **String** value that represents the accelerator or hot key for the control. Read/write.
 

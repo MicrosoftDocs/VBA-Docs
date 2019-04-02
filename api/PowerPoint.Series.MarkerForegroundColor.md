@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerForegroundColor Property (PowerPoint)
+title: Series.MarkerForegroundColor property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.MarkerForegroundColor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.MarkerForegroundColor Property (PowerPoint)
+# Series.MarkerForegroundColor property (PowerPoint)
 
 Sets the marker foreground color as an RGB value or returns the corresponding color index value. Read/write  **Long**.
 

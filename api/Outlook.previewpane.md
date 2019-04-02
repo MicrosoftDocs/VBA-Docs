@@ -1,5 +1,5 @@
 ---
-title: PreviewPane Object (Outlook)
+title: PreviewPane object (Outlook)
 keywords: vbaol11.chm3638
 f1_keywords:
 - vbaol11.chm3638
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PreviewPane Object (Outlook)
+# PreviewPane object (Outlook)
 
 Displays content in a "single pane mode" by showing only the Preview Pane view. 
 

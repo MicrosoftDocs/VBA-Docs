@@ -1,5 +1,5 @@
 ---
-title: Guide.Position Property (PowerPoint)
+title: Guide.Position property (PowerPoint)
 keywords: vbapp10.chm743005
 f1_keywords:
 - vbapp10.chm743005
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Guide.Position Property (PowerPoint)
+# Guide.Position property (PowerPoint)
 
 Returns or sets a  **Single** that represents the position of the drawing guide along the x- or y-axis. Read/write.
 

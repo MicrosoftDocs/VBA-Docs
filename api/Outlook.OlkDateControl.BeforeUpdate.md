@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.BeforeUpdate Event (Outlook)
+title: OlkDateControl.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000375
 f1_keywords:
 - vbaol11.chm1000375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.BeforeUpdate Event (Outlook)
+# OlkDateControl.BeforeUpdate event (Outlook)
 
 Occurs when the data in the control is changed through the user interface and is about to be saved to the item. 
 

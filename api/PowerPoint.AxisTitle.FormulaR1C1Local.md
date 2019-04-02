@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.FormulaR1C1Local Property (PowerPoint)
+title: AxisTitle.FormulaR1C1Local property (PowerPoint)
 keywords: vbapp10.chm683027
 f1_keywords:
 - vbapp10.chm683027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.FormulaR1C1Local Property (PowerPoint)
+# AxisTitle.FormulaR1C1Local property (PowerPoint)
 
 Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write.
 

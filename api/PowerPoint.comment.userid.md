@@ -1,5 +1,5 @@
 ---
-title: Comment.UserID Property (PowerPoint)
+title: Comment.UserID property (PowerPoint)
 keywords: vbapp10.chm642012
 f1_keywords:
 - vbapp10.chm642012
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.UserID Property (PowerPoint)
+# Comment.UserID property (PowerPoint)
 
 Returns a  **String** that represents user ID of the contact. Read-only.
 

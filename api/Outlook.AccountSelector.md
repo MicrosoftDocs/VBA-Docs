@@ -1,5 +1,5 @@
 ---
-title: AccountSelector Object (Outlook)
+title: AccountSelector object (Outlook)
 keywords: vbaol11.chm3456
 f1_keywords:
 - vbaol11.chm3456
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountSelector Object (Outlook)
+# AccountSelector object (Outlook)
 
 Provides the ability to obtain the account that is selected in the Microsoft Office Backstage view for the parent  **[Explorer](Outlook.Explorer.md)** object.
 

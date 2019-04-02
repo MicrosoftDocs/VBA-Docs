@@ -1,5 +1,5 @@
 ---
-title: Presentation.FarEastLineBreakLanguage Property (PowerPoint)
+title: Presentation.FarEastLineBreakLanguage property (PowerPoint)
 keywords: vbapp10.chm583048
 f1_keywords:
 - vbapp10.chm583048
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.FarEastLineBreakLanguage Property (PowerPoint)
+# Presentation.FarEastLineBreakLanguage property (PowerPoint)
 
 Returns or sets the language used to determine which line break level is used when the line break control option is turned on. Read/write.
 

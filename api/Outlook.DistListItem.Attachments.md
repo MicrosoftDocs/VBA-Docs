@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Attachments Property (Outlook)
+title: DistListItem.Attachments property (Outlook)
 keywords: vbaol11.chm1115
 f1_keywords:
 - vbaol11.chm1115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Attachments Property (Outlook)
+# DistListItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Design.SlideMaster Property (PowerPoint)
+title: Design.SlideMaster property (PowerPoint)
 keywords: vbapp10.chm644003
 f1_keywords:
 - vbapp10.chm644003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Design.SlideMaster Property (PowerPoint)
+# Design.SlideMaster property (PowerPoint)
 
 Returns a  **[Master](PowerPoint.Master.md)** object that represents the slide master. Read-only.
 

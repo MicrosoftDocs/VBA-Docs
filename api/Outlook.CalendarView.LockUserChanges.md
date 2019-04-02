@@ -1,5 +1,5 @@
 ---
-title: CalendarView.LockUserChanges Property (Outlook)
+title: CalendarView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2617
 f1_keywords:
 - vbaol11.chm2617
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.LockUserChanges Property (Outlook)
+# CalendarView.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the view. Read/write.
 

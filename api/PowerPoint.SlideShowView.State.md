@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.State Property (PowerPoint)
+title: SlideShowView.State property (PowerPoint)
 keywords: vbapp10.chm513006
 f1_keywords:
 - vbapp10.chm513006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.State Property (PowerPoint)
+# SlideShowView.State property (PowerPoint)
 
 Returns or sets the state of the slide show. Read/write.
 

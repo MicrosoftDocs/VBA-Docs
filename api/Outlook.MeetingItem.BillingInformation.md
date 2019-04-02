@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.BillingInformation Property (Outlook)
+title: MeetingItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1404
 f1_keywords:
 - vbaol11.chm1404
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.BillingInformation Property (Outlook)
+# MeetingItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
 

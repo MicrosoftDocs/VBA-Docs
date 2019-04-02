@@ -1,5 +1,5 @@
 ---
-title: Chart.HasAxis Property (PowerPoint)
+title: Chart.HasAxis property (PowerPoint)
 keywords: vbapp10.chm684031
 f1_keywords:
 - vbapp10.chm684031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.HasAxis Property (PowerPoint)
+# Chart.HasAxis property (PowerPoint)
 
 Returns or sets which axes exist on the chart. Read/write  **Variant**.
 

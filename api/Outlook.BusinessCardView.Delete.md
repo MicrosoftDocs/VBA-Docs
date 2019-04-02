@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Delete Method (Outlook)
+title: BusinessCardView.Delete method (Outlook)
 keywords: vbaol11.chm2923
 f1_keywords:
 - vbaol11.chm2923
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Delete Method (Outlook)
+# BusinessCardView.Delete method (Outlook)
 
 Deletes an object from a collection.
 

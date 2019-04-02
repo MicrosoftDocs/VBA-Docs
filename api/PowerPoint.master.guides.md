@@ -1,5 +1,5 @@
 ---
-title: Master.Guides Property (PowerPoint)
+title: Master.Guides property (PowerPoint)
 keywords: vbapp10.chm533022
 f1_keywords:
 - vbapp10.chm533022
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Guides Property (PowerPoint)
+# Master.Guides property (PowerPoint)
 
 Returns a  **[Guides](PowerPoint.guides.md)** collection that represents all of the drawing guides associated with the slide master, title master, handout master, notes master, or design master.
 

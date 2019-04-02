@@ -1,5 +1,5 @@
 ---
-title: TableView.RowFont Property (Outlook)
+title: TableView.RowFont property (Outlook)
 keywords: vbaol11.chm2533
 f1_keywords:
 - vbaol11.chm2533
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.RowFont Property (Outlook)
+# TableView.RowFont property (Outlook)
 
 Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when displaying rows in the **[TableView](Outlook.TableView.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Search.Tag Property (Outlook)
+title: Search.Tag property (Outlook)
 keywords: vbaol11.chm2258
 f1_keywords:
 - vbaol11.chm2258
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.Tag Property (Outlook)
+# Search.Tag property (Outlook)
 
 Returns a  **String** specifying the name of the current search. The **Tag** property is used to identify a specific search. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Rules Object (Outlook)
+title: Rules object (Outlook)
 keywords: vbaol11.chm3160
 f1_keywords:
 - vbaol11.chm3160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rules Object (Outlook)
+# Rules object (Outlook)
 
 Represents a set of  **[Rule](Outlook.Rule.md)** objects that are the rules available in the current session.
 

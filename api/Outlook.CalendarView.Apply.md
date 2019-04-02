@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Apply Method (Outlook)
+title: CalendarView.Apply method (Outlook)
 keywords: vbaol11.chm2611
 f1_keywords:
 - vbaol11.chm2611
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Apply Method (Outlook)
+# CalendarView.Apply method (Outlook)
 
 Applies the  **[CalendarView](Outlook.CalendarView.md)** object to the current view.
 

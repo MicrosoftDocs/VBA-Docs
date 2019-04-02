@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Application Property (Outlook)
+title: TaskRequestItem.Application property (Outlook)
 keywords: vbaol11.chm1868
 f1_keywords:
 - vbaol11.chm1868
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Application Property (Outlook)
+# TaskRequestItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

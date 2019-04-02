@@ -1,5 +1,5 @@
 ---
-title: Rules.Create Method (Outlook)
+title: Rules.Create method (Outlook)
 keywords: vbaol11.chm2160
 f1_keywords:
 - vbaol11.chm2160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rules.Create Method (Outlook)
+# Rules.Create method (Outlook)
 
 Creates a  **[Rule](Outlook.Rule.md)** object with the name specified by _Name_ and the type of rule specified by _RuleType_ .
 

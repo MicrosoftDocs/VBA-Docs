@@ -1,5 +1,5 @@
 ---
-title: Presentation.HandoutMaster Property (PowerPoint)
+title: Presentation.HandoutMaster property (PowerPoint)
 keywords: vbapp10.chm583010
 f1_keywords:
 - vbapp10.chm583010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.HandoutMaster Property (PowerPoint)
+# Presentation.HandoutMaster property (PowerPoint)
 
 Returns a  **[Master](PowerPoint.Master.md)** object that represents the handout master. Read-only.
 

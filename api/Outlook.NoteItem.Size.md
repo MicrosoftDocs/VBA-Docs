@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Size Property (Outlook)
+title: NoteItem.Size property (Outlook)
 keywords: vbaol11.chm1488
 f1_keywords:
 - vbaol11.chm1488
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Size Property (Outlook)
+# NoteItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 

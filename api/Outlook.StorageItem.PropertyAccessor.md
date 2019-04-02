@@ -1,5 +1,5 @@
 ---
-title: StorageItem.PropertyAccessor Property (Outlook)
+title: StorageItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm2150
 f1_keywords:
 - vbaol11.chm2150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.PropertyAccessor Property (Outlook)
+# StorageItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[StorageItem](Outlook.StorageItem.md)** object. Read-only.
 

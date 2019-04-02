@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.RetentionExpirationDate Property (Outlook)
+title: MeetingItem.RetentionExpirationDate property (Outlook)
 keywords: vbaol11.chm3560
 f1_keywords:
 - vbaol11.chm3560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.RetentionExpirationDate Property (Outlook)
+# MeetingItem.RetentionExpirationDate property (Outlook)
 
 Returns a  **Date** that specifies the date when the **[MeetingItem](Outlook.MeetingItem.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
 

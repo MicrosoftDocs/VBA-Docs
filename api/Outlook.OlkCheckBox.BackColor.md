@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.BackColor Property (Outlook)
+title: OlkCheckBox.BackColor property (Outlook)
 keywords: vbaol11.chm1000136
 f1_keywords:
 - vbaol11.chm1000136
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.BackColor Property (Outlook)
+# OlkCheckBox.BackColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the background color of the control. Read/write.
 

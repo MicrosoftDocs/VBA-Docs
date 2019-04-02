@@ -1,5 +1,5 @@
 ---
-title: Explorer Object (Outlook)
+title: Explorer object (Outlook)
 keywords: vbaol11.chm2985
 f1_keywords:
 - vbaol11.chm2985
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer Object (Outlook)
+# Explorer object (Outlook)
 
 Represents the window in which the contents of a folder are displayed.
 

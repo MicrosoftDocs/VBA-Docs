@@ -1,5 +1,5 @@
 ---
-title: Explorer.ViewSwitch Event (Outlook)
+title: Explorer.ViewSwitch event (Outlook)
 keywords: vbaol11.chm452
 f1_keywords:
 - vbaol11.chm452
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.ViewSwitch Event (Outlook)
+# Explorer.ViewSwitch event (Outlook)
 
 Occurs when the view in the explorer changes, either as a result of user action or through program code. 
 

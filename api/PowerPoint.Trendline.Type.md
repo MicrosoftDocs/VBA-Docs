@@ -1,5 +1,5 @@
 ---
-title: Trendline.Type Property (PowerPoint)
+title: Trendline.Type property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Type Property (PowerPoint)
+# Trendline.Type property (PowerPoint)
 
 Returns or sets the trendline type. Read/write  **[xlTrendlineType](PowerPoint.XlTrendlineType.md)**.
 

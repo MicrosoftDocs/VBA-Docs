@@ -1,5 +1,5 @@
 ---
-title: DocumentWindows.Application Property (PowerPoint)
+title: DocumentWindows.Application property (PowerPoint)
 keywords: vbapp10.chm509001
 f1_keywords:
 - vbapp10.chm509001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindows.Application Property (PowerPoint)
+# DocumentWindows.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

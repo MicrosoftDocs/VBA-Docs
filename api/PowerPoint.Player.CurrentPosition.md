@@ -1,5 +1,5 @@
 ---
-title: Player.CurrentPosition Property (PowerPoint)
+title: Player.CurrentPosition property (PowerPoint)
 keywords: vbapp10.chm726008
 f1_keywords:
 - vbapp10.chm726008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Player.CurrentPosition Property (PowerPoint)
+# Player.CurrentPosition property (PowerPoint)
 
 Gets or sets a  **Long** that represents the current position of the player in the media. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Companies Property (Outlook)
+title: DistListItem.Companies property (Outlook)
 keywords: vbaol11.chm1119
 f1_keywords:
 - vbaol11.chm1119
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Companies Property (Outlook)
+# DistListItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the Outlook item. Read/write.
 

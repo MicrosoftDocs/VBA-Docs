@@ -1,5 +1,5 @@
 ---
-title: TableView Object (Outlook)
+title: TableView object (Outlook)
 keywords: vbaol11.chm3204
 f1_keywords:
 - vbaol11.chm3204
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView Object (Outlook)
+# TableView object (Outlook)
 
 Represents a view that displays Outlook items in a table, with each item in a row and the details of the item in the columns.
 

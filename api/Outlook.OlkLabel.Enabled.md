@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.Enabled Property (Outlook)
+title: OlkLabel.Enabled property (Outlook)
 keywords: vbaol11.chm1000092
 f1_keywords:
 - vbaol11.chm1000092
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkLabel.Enabled Property (Outlook)
+# OlkLabel.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 

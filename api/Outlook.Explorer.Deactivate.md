@@ -1,5 +1,5 @@
 ---
-title: Explorer.Deactivate Event (Outlook)
+title: Explorer.Deactivate event (Outlook)
 keywords: vbaol11.chm454
 f1_keywords:
 - vbaol11.chm454
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Deactivate Event (Outlook)
+# Explorer.Deactivate event (Outlook)
 
 Occurs when an explorer stops being the active window, either as a result of user action or through program code.
 

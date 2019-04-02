@@ -1,5 +1,5 @@
 ---
-title: PostItem.Save Method (Outlook)
+title: PostItem.Save method (Outlook)
 keywords: vbaol11.chm1545
 f1_keywords:
 - vbaol11.chm1545
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Save Method (Outlook)
+# PostItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 

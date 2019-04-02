@@ -1,5 +1,5 @@
 ---
-title: FillFormat Object (PowerPoint)
+title: FillFormat object (PowerPoint)
 keywords: vbapp10.chm552000
 f1_keywords:
 - vbapp10.chm552000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat Object (PowerPoint)
+# FillFormat object (PowerPoint)
 
 Represents fill formatting for a shape. A shape can have a solid, gradient, texture, pattern, picture, or semi-transparent fill.
 

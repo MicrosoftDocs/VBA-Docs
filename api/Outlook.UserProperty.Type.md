@@ -1,5 +1,5 @@
 ---
-title: UserProperty.Type Property (Outlook)
+title: UserProperty.Type property (Outlook)
 keywords: vbaol11.chm219
 f1_keywords:
 - vbaol11.chm219
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperty.Type Property (Outlook)
+# UserProperty.Type property (Outlook)
 
 Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant indicating the type of the specified object. Read-only.
 

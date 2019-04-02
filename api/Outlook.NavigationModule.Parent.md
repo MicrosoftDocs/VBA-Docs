@@ -1,5 +1,5 @@
 ---
-title: NavigationModule.Parent Property (Outlook)
+title: NavigationModule.Parent property (Outlook)
 keywords: vbaol11.chm2806
 f1_keywords:
 - vbaol11.chm2806
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModule.Parent Property (Outlook)
+# NavigationModule.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

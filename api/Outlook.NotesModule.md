@@ -1,5 +1,5 @@
 ---
-title: NotesModule Object (Outlook)
+title: NotesModule object (Outlook)
 keywords: vbaol11.chm3198
 f1_keywords:
 - vbaol11.chm3198
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule Object (Outlook)
+# NotesModule object (Outlook)
 
 Represents the  **Notes** navigation module in the navigation pane of an explorer.
 

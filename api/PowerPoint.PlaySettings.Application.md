@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.Application Property (PowerPoint)
+title: PlaySettings.Application property (PowerPoint)
 keywords: vbapp10.chm568001
 f1_keywords:
 - vbapp10.chm568001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySettings.Application Property (PowerPoint)
+# PlaySettings.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

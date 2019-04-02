@@ -1,5 +1,5 @@
 ---
-title: TaskItem.BeforeRead Event (Outlook)
+title: TaskItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.BeforeRead Event (Outlook)
+# TaskItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 

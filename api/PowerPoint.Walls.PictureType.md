@@ -1,5 +1,5 @@
 ---
-title: Walls.PictureType Property (PowerPoint)
+title: Walls.PictureType property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.PictureType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Walls.PictureType Property (PowerPoint)
+# Walls.PictureType property (PowerPoint)
 
 Returns or sets a value that specifies how pictures are displayed on the walls and faces of a 3-D chart. Read/write  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtQuickStyles Property (PowerPoint)
+title: Application.SmartArtQuickStyles property (PowerPoint)
 keywords: vbapp10.chm502062
 f1_keywords:
 - vbapp10.chm502062
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SmartArtQuickStyles Property (PowerPoint)
+# Application.SmartArtQuickStyles property (PowerPoint)
 
 Returns the quick styles of the SmartArt diagram in the current  **Application** object. Read-only.
 

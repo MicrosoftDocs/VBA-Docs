@@ -1,5 +1,5 @@
 ---
-title: Attachments.Class Property (Outlook)
+title: Attachments.Class property (Outlook)
 keywords: vbaol11.chm171
 f1_keywords:
 - vbaol11.chm171
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Class Property (Outlook)
+# Attachments.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

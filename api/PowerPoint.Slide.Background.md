@@ -1,5 +1,5 @@
 ---
-title: Slide.Background Property (PowerPoint)
+title: Slide.Background property (PowerPoint)
 keywords: vbapp10.chm531007
 f1_keywords:
 - vbapp10.chm531007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.Background Property (PowerPoint)
+# Slide.Background property (PowerPoint)
 
 Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the slide background.
 

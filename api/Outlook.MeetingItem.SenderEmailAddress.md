@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.SenderEmailAddress Property (Outlook)
+title: MeetingItem.SenderEmailAddress property (Outlook)
 keywords: vbaol11.chm1469
 f1_keywords:
 - vbaol11.chm1469
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.SenderEmailAddress Property (Outlook)
+# MeetingItem.SenderEmailAddress property (Outlook)
 
 Returns a  **String** that represents the email address of the sender of the Outlook item. Read-only.
 

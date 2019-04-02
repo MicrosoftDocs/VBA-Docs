@@ -1,5 +1,5 @@
 ---
-title: DataLabel.AutoText Property (PowerPoint)
+title: DataLabel.AutoText property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.AutoText
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.AutoText Property (PowerPoint)
+# DataLabel.AutoText property (PowerPoint)
 
  **True** if the object automatically generates appropriate text based on context. Read/write **Boolean**.
 

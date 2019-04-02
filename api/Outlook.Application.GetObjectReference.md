@@ -1,5 +1,5 @@
 ---
-title: Application.GetObjectReference Method (Outlook)
+title: Application.GetObjectReference method (Outlook)
 keywords: vbaol11.chm734
 f1_keywords:
 - vbaol11.chm734
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GetObjectReference Method (Outlook)
+# Application.GetObjectReference method (Outlook)
 
 Creates a strong or weak object reference for a specified Outlook object.
 

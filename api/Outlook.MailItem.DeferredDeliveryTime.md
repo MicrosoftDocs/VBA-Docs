@@ -1,5 +1,5 @@
 ---
-title: MailItem.DeferredDeliveryTime Property (Outlook)
+title: MailItem.DeferredDeliveryTime property (Outlook)
 keywords: vbaol11.chm1332
 f1_keywords:
 - vbaol11.chm1332
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.DeferredDeliveryTime Property (Outlook)
+# MailItem.DeferredDeliveryTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time the mail message is to be delivered. Read/write.
 

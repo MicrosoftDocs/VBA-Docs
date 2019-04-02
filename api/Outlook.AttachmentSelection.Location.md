@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection.Location Property (Outlook)
+title: AttachmentSelection.Location property (Outlook)
 keywords: vbaol11.chm3482
 f1_keywords:
 - vbaol11.chm3482
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AttachmentSelection.Location Property (Outlook)
+# AttachmentSelection.Location property (Outlook)
 
 Returns a  **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant that specifies where the attachment selection is in the Microsoft Outlook user interface. Read-only
 

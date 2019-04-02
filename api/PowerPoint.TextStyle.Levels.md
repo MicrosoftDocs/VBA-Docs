@@ -1,5 +1,5 @@
 ---
-title: TextStyle.Levels Property (PowerPoint)
+title: TextStyle.Levels property (PowerPoint)
 keywords: vbapp10.chm579005
 f1_keywords:
 - vbapp10.chm579005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyle.Levels Property (PowerPoint)
+# TextStyle.Levels property (PowerPoint)
 
 Returns a  **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** object that represents outline text formatting. Read-only.
 

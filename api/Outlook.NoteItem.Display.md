@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Display Method (Outlook)
+title: NoteItem.Display method (Outlook)
 keywords: vbaol11.chm1495
 f1_keywords:
 - vbaol11.chm1495
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Display Method (Outlook)
+# NoteItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

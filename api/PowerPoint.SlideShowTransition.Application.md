@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.Application Property (PowerPoint)
+title: SlideShowTransition.Application property (PowerPoint)
 keywords: vbapp10.chm539001
 f1_keywords:
 - vbapp10.chm539001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition.Application Property (PowerPoint)
+# SlideShowTransition.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

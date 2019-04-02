@@ -1,5 +1,5 @@
 ---
-title: Inspector.CurrentItem Property (Outlook)
+title: Inspector.CurrentItem property (Outlook)
 keywords: vbaol11.chm2962
 f1_keywords:
 - vbaol11.chm2962
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.CurrentItem Property (Outlook)
+# Inspector.CurrentItem property (Outlook)
 
 Returns an  **Object** representing the current item being displayed in the inspector. Read-only.
 

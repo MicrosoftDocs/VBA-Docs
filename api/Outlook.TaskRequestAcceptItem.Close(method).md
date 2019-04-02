@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Close Method (Outlook)
+title: TaskRequestAcceptItem.Close method (Outlook)
 keywords: vbaol11.chm1800
 f1_keywords:
 - vbaol11.chm1800
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Close Method (Outlook)
+# TaskRequestAcceptItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 

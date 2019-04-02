@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.SampleWidth Property (PowerPoint)
+title: MediaFormat.SampleWidth property (PowerPoint)
 keywords: vbapp10.chm724021
 f1_keywords:
 - vbapp10.chm724021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.SampleWidth Property (PowerPoint)
+# MediaFormat.SampleWidth property (PowerPoint)
 
 Returns the resolution width of the media sample. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.Signatures Property (PowerPoint)
+title: Presentation.Signatures property (PowerPoint)
 keywords: vbapp10.chm583067
 f1_keywords:
 - vbapp10.chm583067
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Signatures Property (PowerPoint)
+# Presentation.Signatures property (PowerPoint)
 
 Returns a  **SignatureSet** object that represents a collection of digital signatures. Read-only.
 

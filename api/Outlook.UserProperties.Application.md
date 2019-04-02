@@ -1,5 +1,5 @@
 ---
-title: UserProperties.Application Property (Outlook)
+title: UserProperties.Application property (Outlook)
 keywords: vbaol11.chm203
 f1_keywords:
 - vbaol11.chm203
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperties.Application Property (Outlook)
+# UserProperties.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

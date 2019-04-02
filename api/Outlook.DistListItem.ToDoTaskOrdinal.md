@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ToDoTaskOrdinal Property (Outlook)
+title: DistListItem.ToDoTaskOrdinal property (Outlook)
 keywords: vbaol11.chm3034
 f1_keywords:
 - vbaol11.chm3034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ToDoTaskOrdinal Property (Outlook)
+# DistListItem.ToDoTaskOrdinal property (Outlook)
 
 Returns or sets a  **Date** value that represents the ordinal value of the task for the **[DistListItem](Outlook.DistListItem.md)**. Read/write.
 

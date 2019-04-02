@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayAlerts Property (PowerPoint)
+title: Application.DisplayAlerts property (PowerPoint)
 keywords: vbapp10.chm502050
 f1_keywords:
 - vbapp10.chm502050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayAlerts Property (PowerPoint)
+# Application.DisplayAlerts property (PowerPoint)
 
 Sets or returns whether Microsoft PowerPoint displays alerts while running a macro. Read/write.
 

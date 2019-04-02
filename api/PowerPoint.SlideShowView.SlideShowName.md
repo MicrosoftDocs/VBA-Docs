@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.SlideShowName Property (PowerPoint)
+title: SlideShowView.SlideShowName property (PowerPoint)
 keywords: vbapp10.chm513014
 f1_keywords:
 - vbapp10.chm513014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.SlideShowName Property (PowerPoint)
+# SlideShowView.SlideShowName property (PowerPoint)
 
 Returns the name of the custom slide show that's currently running in the specified slide show view. Read-only.
 

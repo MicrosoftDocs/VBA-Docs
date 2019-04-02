@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Method (Outlook)
+title: Application.Quit method (Outlook)
 keywords: vbaol11.chm718
 f1_keywords:
 - vbaol11.chm718
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Quit Method (Outlook)
+# Application.Quit method (Outlook)
 
 Closes all currently open windows. 
 

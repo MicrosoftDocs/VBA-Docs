@@ -1,5 +1,5 @@
 ---
-title: TaskItem Object (Outlook)
+title: TaskItem object (Outlook)
 keywords: vbaol11.chm2990
 f1_keywords:
 - vbaol11.chm2990
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem Object (Outlook)
+# TaskItem object (Outlook)
 
 Represents a task (an assigned, delegated, or self-imposed task to be performed within a specified time frame) in a Tasks folder.
 

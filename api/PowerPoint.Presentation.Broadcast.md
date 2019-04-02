@@ -1,5 +1,5 @@
 ---
-title: Presentation.Broadcast Property (PowerPoint)
+title: Presentation.Broadcast property (PowerPoint)
 keywords: vbapp10.chm583118
 f1_keywords:
 - vbapp10.chm583118
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Broadcast Property (PowerPoint)
+# Presentation.Broadcast property (PowerPoint)
 
 Returns the  **Broadcast** object of the current **Presentation** object. Read-only.
 

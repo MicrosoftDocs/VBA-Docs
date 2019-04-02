@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTexture Property (PowerPoint)
+title: FillFormat.PresetTexture property (PowerPoint)
 keywords: vbapp10.chm552019
 f1_keywords:
 - vbapp10.chm552019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetTexture Property (PowerPoint)
+# FillFormat.PresetTexture property (PowerPoint)
 
 Returns the preset texture for the specified fill. Read-only.
 

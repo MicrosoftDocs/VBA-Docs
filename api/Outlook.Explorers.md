@@ -1,5 +1,5 @@
 ---
-title: Explorers Object (Outlook)
+title: Explorers object (Outlook)
 keywords: vbaol11.chm2995
 f1_keywords:
 - vbaol11.chm2995
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorers Object (Outlook)
+# Explorers object (Outlook)
 
 Contains a set of  **[Explorer](Outlook.Explorer.md)** objects representing all explorers.
 

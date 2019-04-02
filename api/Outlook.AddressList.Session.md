@@ -1,5 +1,5 @@
 ---
-title: AddressList.Session Property (Outlook)
+title: AddressList.Session property (Outlook)
 keywords: vbaol11.chm2025
 f1_keywords:
 - vbaol11.chm2025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.Session Property (Outlook)
+# AddressList.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

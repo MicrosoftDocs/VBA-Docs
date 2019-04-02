@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.MarkForDownload Property (Outlook)
+title: AppointmentItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm917
 f1_keywords:
 - vbaol11.chm917
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.MarkForDownload Property (Outlook)
+# AppointmentItem.MarkForDownload property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 

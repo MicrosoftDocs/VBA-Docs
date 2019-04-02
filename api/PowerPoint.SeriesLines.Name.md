@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Name Property (PowerPoint)
+title: SeriesLines.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesLines.Name Property (PowerPoint)
+# SeriesLines.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

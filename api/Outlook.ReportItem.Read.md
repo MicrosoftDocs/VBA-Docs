@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Read Event (Outlook)
+title: ReportItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Read Event (Outlook)
+# ReportItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BCC Property (Outlook)
+title: SharingItem.BCC property (Outlook)
 keywords: vbaol11.chm633
 f1_keywords:
 - vbaol11.chm633
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BCC Property (Outlook)
+# SharingItem.BCC property (Outlook)
 
 Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

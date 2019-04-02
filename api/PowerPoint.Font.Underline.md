@@ -1,5 +1,5 @@
 ---
-title: Font.Underline Property (PowerPoint)
+title: Font.Underline property (PowerPoint)
 keywords: vbapp10.chm575008
 f1_keywords:
 - vbapp10.chm575008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Underline Property (PowerPoint)
+# Font.Underline property (PowerPoint)
 
 Determines whether the specified text (for the  **Font** object) or the font style (for the **FontInfo** object) is underlined. Read/write.
 

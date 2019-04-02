@@ -1,5 +1,5 @@
 ---
-title: Axis.BaseUnit Property (PowerPoint)
+title: Axis.BaseUnit property (PowerPoint)
 keywords: vbapp10.chm682033
 f1_keywords:
 - vbapp10.chm682033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.BaseUnit Property (PowerPoint)
+# Axis.BaseUnit property (PowerPoint)
 
 Returns or sets the base unit for the specified category axis. Read/write  **[xlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 

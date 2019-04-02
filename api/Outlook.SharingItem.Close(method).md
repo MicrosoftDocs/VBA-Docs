@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Close Method (Outlook)
+title: SharingItem.Close method (Outlook)
 keywords: vbaol11.chm623
 f1_keywords:
 - vbaol11.chm623
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Close Method (Outlook)
+# SharingItem.Close method (Outlook)
 
 Closes and optionally saves changes to the  **[SharingItem](Outlook.SharingItem.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.BeforeAttachmentRead Event (Outlook)
+title: DistListItem.BeforeAttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.BeforeAttachmentRead Event (Outlook)
+# DistListItem.BeforeAttachmentRead event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 

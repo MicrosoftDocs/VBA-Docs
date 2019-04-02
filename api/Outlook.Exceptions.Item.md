@@ -1,5 +1,5 @@
 ---
-title: Exceptions.Item Method (Outlook)
+title: Exceptions.Item method (Outlook)
 keywords: vbaol11.chm295
 f1_keywords:
 - vbaol11.chm295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exceptions.Item Method (Outlook)
+# Exceptions.Item method (Outlook)
 
 Returns an  **[Exception](Outlook.Exception.md)** object from the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Items Object (Outlook)
+title: Items object (Outlook)
 keywords: vbaol11.chm2998
 f1_keywords:
 - vbaol11.chm2998
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items Object (Outlook)
+# Items object (Outlook)
 
 Contains a collection of [Outlook item objects](../outlook/How-to/Items-Folders-and-Stores/outlook-item-objects.md) in a folder.
 

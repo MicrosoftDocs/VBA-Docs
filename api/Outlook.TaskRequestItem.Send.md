@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Send Event (Outlook)
+title: TaskRequestItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Send
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Send Event (Outlook)
+# TaskRequestItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).
 

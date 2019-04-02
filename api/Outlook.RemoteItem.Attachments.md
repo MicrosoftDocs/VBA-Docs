@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Attachments Property (Outlook)
+title: RemoteItem.Attachments property (Outlook)
 keywords: vbaol11.chm1587
 f1_keywords:
 - vbaol11.chm1587
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Attachments Property (Outlook)
+# RemoteItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 

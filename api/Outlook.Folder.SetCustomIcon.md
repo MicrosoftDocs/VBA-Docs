@@ -1,5 +1,5 @@
 ---
-title: Folder.SetCustomIcon Method (Outlook)
+title: Folder.SetCustomIcon method (Outlook)
 keywords: vbaol11.chm3317
 f1_keywords:
 - vbaol11.chm3317
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.SetCustomIcon Method (Outlook)
+# Folder.SetCustomIcon method (Outlook)
 
 Sets a custom icon that is specified by  _Picture_ for the folder.
 

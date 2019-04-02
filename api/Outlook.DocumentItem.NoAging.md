@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.NoAging Property (Outlook)
+title: DocumentItem.NoAging property (Outlook)
 keywords: vbaol11.chm1200
 f1_keywords:
 - vbaol11.chm1200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.NoAging Property (Outlook)
+# DocumentItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 

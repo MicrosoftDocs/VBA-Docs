@@ -1,5 +1,5 @@
 ---
-title: Inspectors Object (Outlook)
+title: Inspectors object (Outlook)
 keywords: vbaol11.chm2996
 f1_keywords:
 - vbaol11.chm2996
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspectors Object (Outlook)
+# Inspectors object (Outlook)
 
 Contains a set of  **[Inspector](Outlook.Inspector.md)** objects representing all inspectors.
 

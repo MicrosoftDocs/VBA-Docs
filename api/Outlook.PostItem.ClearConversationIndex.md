@@ -1,5 +1,5 @@
 ---
-title: PostItem.ClearConversationIndex Method (Outlook)
+title: PostItem.ClearConversationIndex method (Outlook)
 keywords: vbaol11.chm1552
 f1_keywords:
 - vbaol11.chm1552
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ClearConversationIndex Method (Outlook)
+# PostItem.ClearConversationIndex method (Outlook)
 
 Clears the index of the conversation thread for the post.
 

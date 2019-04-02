@@ -1,5 +1,5 @@
 ---
-title: Table.FindNextRow Method (Outlook)
+title: Table.FindNextRow method (Outlook)
 keywords: vbaol11.chm2229
 f1_keywords:
 - vbaol11.chm2229
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.FindNextRow Method (Outlook)
+# Table.FindNextRow method (Outlook)
 
 Finds the next row in the  **[Table](Outlook.Table.md)** that meets the criteria specified in a preceding **[Table.FindRow](Outlook.Table.FindRow.md)**.
 

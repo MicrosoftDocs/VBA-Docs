@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Class Property (Outlook)
+title: AppointmentItem.Class property (Outlook)
 keywords: vbaol11.chm839
 f1_keywords:
 - vbaol11.chm839
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Class Property (Outlook)
+# AppointmentItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.AutoRotateNumbers Property (PowerPoint)
+title: Font.AutoRotateNumbers property (PowerPoint)
 keywords: vbapp10.chm575018
 f1_keywords:
 - vbapp10.chm575018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.AutoRotateNumbers Property (PowerPoint)
+# Font.AutoRotateNumbers property (PowerPoint)
 
 Returns or sets lateral compression. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.BeforeAttachmentPreview Event (Outlook)
+title: RemoteItem.BeforeAttachmentPreview event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeAttachmentPreview
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.BeforeAttachmentPreview Event (Outlook)
+# RemoteItem.BeforeAttachmentPreview event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is previewed.
 

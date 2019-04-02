@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasUpDownBars Property (PowerPoint)
+title: ChartGroup.HasUpDownBars property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasUpDownBars
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.HasUpDownBars Property (PowerPoint)
+# ChartGroup.HasUpDownBars property (PowerPoint)
 
  **True** if a line chart has up and down bars. Read/write **Boolean**.
 

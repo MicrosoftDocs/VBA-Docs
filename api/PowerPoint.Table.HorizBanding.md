@@ -1,5 +1,5 @@
 ---
-title: Table.HorizBanding Property (PowerPoint)
+title: Table.HorizBanding property (PowerPoint)
 keywords: vbapp10.chm622012
 f1_keywords:
 - vbapp10.chm622012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.HorizBanding Property (PowerPoint)
+# Table.HorizBanding property (PowerPoint)
 
 Determines whether to display banded rows, in which even rows are formatted differently from odd rows. Read/write.
 

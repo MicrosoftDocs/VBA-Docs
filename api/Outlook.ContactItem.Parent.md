@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Parent Property (Outlook)
+title: ContactItem.Parent property (Outlook)
 keywords: vbaol11.chm929
 f1_keywords:
 - vbaol11.chm929
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Parent Property (Outlook)
+# ContactItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

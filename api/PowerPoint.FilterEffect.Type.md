@@ -1,5 +1,5 @@
 ---
-title: FilterEffect.Type Property (PowerPoint)
+title: FilterEffect.Type property (PowerPoint)
 keywords: vbapp10.chm669003
 f1_keywords:
 - vbapp10.chm669003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FilterEffect.Type Property (PowerPoint)
+# FilterEffect.Type property (PowerPoint)
 
 Represents the type of animation. Read/write.
 

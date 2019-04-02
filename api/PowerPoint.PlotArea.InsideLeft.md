@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideLeft Property (PowerPoint)
+title: PlotArea.InsideLeft property (PowerPoint)
 keywords: vbapp10.chm67203
 f1_keywords:
 - vbapp10.chm67203
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.InsideLeft Property (PowerPoint)
+# PlotArea.InsideLeft property (PowerPoint)
 
 Returns or sets the distance, in points, from the chart edge to the inside left edge of the plot area. Read/write  **Double**.
 

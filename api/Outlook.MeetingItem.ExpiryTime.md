@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.ExpiryTime Property (Outlook)
+title: MeetingItem.ExpiryTime property (Outlook)
 keywords: vbaol11.chm1439
 f1_keywords:
 - vbaol11.chm1439
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.ExpiryTime Property (Outlook)
+# MeetingItem.ExpiryTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time at which the item becomes invalid and can be deleted. Read/write.
 

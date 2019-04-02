@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.BeforeDelete Event (Outlook)
+title: AppointmentItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.BeforeDelete Event (Outlook)
+# AppointmentItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 

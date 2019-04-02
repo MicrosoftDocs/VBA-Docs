@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Column Property (PowerPoint)
+title: TextFrame2.Column property (PowerPoint)
 keywords: vbapp10.chm678017
 f1_keywords:
 - vbapp10.chm678017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.Column Property (PowerPoint)
+# TextFrame2.Column property (PowerPoint)
 
 Returns the  **[Column](PowerPoint.Column.md)** object that represents the columns of the specified text frame. Read-only.
 

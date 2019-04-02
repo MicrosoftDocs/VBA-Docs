@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Subject Property (Outlook)
+title: StorageItem.Subject property (Outlook)
 keywords: vbaol11.chm2151
 f1_keywords:
 - vbaol11.chm2151
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Subject Property (Outlook)
+# StorageItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 

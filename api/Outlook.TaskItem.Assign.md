@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Assign Method (Outlook)
+title: TaskItem.Assign method (Outlook)
 keywords: vbaol11.chm1749
 f1_keywords:
 - vbaol11.chm1749
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Assign Method (Outlook)
+# TaskItem.Assign method (Outlook)
 
 Assigns a task and returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents it.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Name Property (PowerPoint)
+title: CustomLayout.Name property (PowerPoint)
 keywords: vbapp10.chm672006
 f1_keywords:
 - vbapp10.chm672006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Name Property (PowerPoint)
+# CustomLayout.Name property (PowerPoint)
 
 Represents the display name of the specified custom layout. Read/write.
 

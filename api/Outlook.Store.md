@@ -1,5 +1,5 @@
 ---
-title: Store Object (Outlook)
+title: Store object (Outlook)
 keywords: vbaol11.chm3155
 f1_keywords:
 - vbaol11.chm3155
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store Object (Outlook)
+# Store object (Outlook)
 
 Represents a file on the local computer or a network drive that stores email messages and other items for an account in the current profile.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Font Property (Outlook)
+title: OlkComboBox.Font property (Outlook)
 keywords: vbaol11.chm1000202
 f1_keywords:
 - vbaol11.chm1000202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Font Property (Outlook)
+# OlkComboBox.Font property (Outlook)
 
 Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
 

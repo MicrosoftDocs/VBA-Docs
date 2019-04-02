@@ -1,5 +1,5 @@
 ---
-title: OrderFields.Parent Property (Outlook)
+title: OrderFields.Parent property (Outlook)
 keywords: vbaol11.chm2675
 f1_keywords:
 - vbaol11.chm2675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderFields.Parent Property (Outlook)
+# OrderFields.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

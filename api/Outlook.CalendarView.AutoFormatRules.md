@@ -1,5 +1,5 @@
 ---
-title: CalendarView.AutoFormatRules Property (Outlook)
+title: CalendarView.AutoFormatRules property (Outlook)
 keywords: vbaol11.chm2639
 f1_keywords:
 - vbaol11.chm2639
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.AutoFormatRules Property (Outlook)
+# CalendarView.AutoFormatRules property (Outlook)
 
 Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that represents the set of formatting rules applicable to the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 

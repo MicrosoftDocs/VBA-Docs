@@ -1,5 +1,5 @@
 ---
-title: RuleActions.AssignToCategory Property (Outlook)
+title: RuleActions.AssignToCategory property (Outlook)
 keywords: vbaol11.chm2196
 f1_keywords:
 - vbaol11.chm2196
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.AssignToCategory Property (Outlook)
+# RuleActions.AssignToCategory property (Outlook)
 
 Returns an  **[AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md)** object with **[AssignToCategoryRuleAction.ActionType](Outlook.AssignToCategoryRuleAction.ActionType.md)** being **olRuleAssignToCategory**. Read-only.
 

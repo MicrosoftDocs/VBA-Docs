@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.MaxLength Property (Outlook)
+title: OlkComboBox.MaxLength property (Outlook)
 keywords: vbaol11.chm1000210
 f1_keywords:
 - vbaol11.chm1000210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.MaxLength Property (Outlook)
+# OlkComboBox.MaxLength property (Outlook)
 
 Returns or sets a  **Long** that specifies the maximum number of characters for the **[Value](Outlook.OlkComboBox.Value.md)** of this control. Read/write.
 

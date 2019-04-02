@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Application Property (PowerPoint)
+title: ShadowFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Application Property (PowerPoint)
+# ShadowFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLighting Property (PowerPoint)
+title: ThreeDFormat.PresetLighting property (PowerPoint)
 keywords: vbapp10.chm557023
 f1_keywords:
 - vbapp10.chm557023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetLighting Property (PowerPoint)
+# ThreeDFormat.PresetLighting property (PowerPoint)
 
 Returns or sets the effects lighting used by the specified  **ThreeDFormat** object. Read/write.
 

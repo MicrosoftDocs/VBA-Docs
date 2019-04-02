@@ -1,5 +1,5 @@
 ---
-title: TextRuleCondition.ConditionType Property (Outlook)
+title: TextRuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2477
 f1_keywords:
 - vbaol11.chm2477
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRuleCondition.ConditionType Property (Outlook)
+# TextRuleCondition.ConditionType property (Outlook)
 
 Returns a constant from the  **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 

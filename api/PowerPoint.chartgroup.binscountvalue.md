@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsCountValue Property (PowerPoint)
+title: ChartGroup.BinsCountValue property (PowerPoint)
 keywords: vbapp10.chm692022
 f1_keywords:
 - vbapp10.chm692022
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.BinsCountValue Property (PowerPoint)
+# ChartGroup.BinsCountValue property (PowerPoint)
 
 Specifies the number of bins in the histogram chart. Read/write  **Long**.
 

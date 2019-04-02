@@ -1,5 +1,5 @@
 ---
-title: Series.ErrorBars Property (PowerPoint)
+title: Series.ErrorBars property (PowerPoint)
 keywords: vbapp10.chm65695
 f1_keywords:
 - vbapp10.chm65695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.ErrorBars Property (PowerPoint)
+# Series.ErrorBars property (PowerPoint)
 
 Returns the error bars for the series. Read-only  **[ErrorBars](PowerPoint.ErrorBars.md)**.
 

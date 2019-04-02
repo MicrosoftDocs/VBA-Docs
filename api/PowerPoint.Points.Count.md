@@ -1,5 +1,5 @@
 ---
-title: Points.Count Property (PowerPoint)
+title: Points.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Points.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Points.Count Property (PowerPoint)
+# Points.Count property (PowerPoint)
 
 Returns the number of objects in the collection. Read-only  **Long**.
 

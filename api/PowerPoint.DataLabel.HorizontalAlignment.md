@@ -1,5 +1,5 @@
 ---
-title: DataLabel.HorizontalAlignment Property (PowerPoint)
+title: DataLabel.HorizontalAlignment property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.HorizontalAlignment
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.HorizontalAlignment Property (PowerPoint)
+# DataLabel.HorizontalAlignment property (PowerPoint)
 
 Returns or sets the horizontal alignment for the specified object. Read/write  **Variant**.
 

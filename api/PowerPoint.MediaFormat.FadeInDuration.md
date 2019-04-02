@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.FadeInDuration Property (PowerPoint)
+title: MediaFormat.FadeInDuration property (PowerPoint)
 keywords: vbapp10.chm724008
 f1_keywords:
 - vbapp10.chm724008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.FadeInDuration Property (PowerPoint)
+# MediaFormat.FadeInDuration property (PowerPoint)
 
 Gets or sets the duration of the fade in of the media, in milliseconds. Read/write.
 

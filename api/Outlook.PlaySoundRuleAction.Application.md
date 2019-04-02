@@ -1,5 +1,5 @@
 ---
-title: PlaySoundRuleAction.Application Property (Outlook)
+title: PlaySoundRuleAction.Application property (Outlook)
 keywords: vbaol11.chm2271
 f1_keywords:
 - vbaol11.chm2271
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySoundRuleAction.Application Property (Outlook)
+# PlaySoundRuleAction.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

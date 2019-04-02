@@ -1,5 +1,5 @@
 ---
-title: Conflicts.GetNext Method (Outlook)
+title: Conflicts.GetNext method (Outlook)
 keywords: vbaol11.chm408
 f1_keywords:
 - vbaol11.chm408
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflicts.GetNext Method (Outlook)
+# Conflicts.GetNext method (Outlook)
 
 Returns the next object in the  **[Conflicts](Outlook.Conflicts.md)** collection.
 

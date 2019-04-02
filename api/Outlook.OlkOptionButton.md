@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton Object (Outlook)
+title: OlkOptionButton object (Outlook)
 keywords: vbaol11.chm1000192
 f1_keywords:
 - vbaol11.chm1000192
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton Object (Outlook)
+# OlkOptionButton object (Outlook)
 
 A control that supports a single exclusive selection within a defined group of option button choices.
 

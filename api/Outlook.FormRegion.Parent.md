@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Parent Property (Outlook)
+title: FormRegion.Parent property (Outlook)
 keywords: vbaol11.chm2388
 f1_keywords:
 - vbaol11.chm2388
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Parent Property (Outlook)
+# FormRegion.Parent property (Outlook)
 
 Returns the parent  **Object** of the form region. Read-only.
 

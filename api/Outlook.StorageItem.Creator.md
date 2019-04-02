@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Creator Property (Outlook)
+title: StorageItem.Creator property (Outlook)
 keywords: vbaol11.chm2152
 f1_keywords:
 - vbaol11.chm2152
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Creator Property (Outlook)
+# StorageItem.Creator property (Outlook)
 
 Returns and sets the solution that created the  **[StorageItem](Outlook.StorageItem.md)** object. Read/write.
 

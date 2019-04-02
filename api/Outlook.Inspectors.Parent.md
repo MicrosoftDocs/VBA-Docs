@@ -1,5 +1,5 @@
 ---
-title: Inspectors.Parent Property (Outlook)
+title: Inspectors.Parent property (Outlook)
 keywords: vbaol11.chm136
 f1_keywords:
 - vbaol11.chm136
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspectors.Parent Property (Outlook)
+# Inspectors.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

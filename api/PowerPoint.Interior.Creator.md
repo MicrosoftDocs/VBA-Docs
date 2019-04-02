@@ -1,5 +1,5 @@
 ---
-title: Interior.Creator Property (PowerPoint)
+title: Interior.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Interior.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Interior.Creator Property (PowerPoint)
+# Interior.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

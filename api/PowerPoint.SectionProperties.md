@@ -1,5 +1,5 @@
 ---
-title: SectionProperties Object (PowerPoint)
+title: SectionProperties object (PowerPoint)
 keywords: vbapp10.chm725000
 f1_keywords:
 - vbapp10.chm725000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties Object (PowerPoint)
+# SectionProperties object (PowerPoint)
 
 Contains properties and methods for manipulating sections in a presentation.
 

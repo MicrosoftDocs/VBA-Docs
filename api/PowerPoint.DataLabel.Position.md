@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Position Property (PowerPoint)
+title: DataLabel.Position property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Position
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Position Property (PowerPoint)
+# DataLabel.Position property (PowerPoint)
 
 Returns or sets the position of the data label. Read/write  **[xlDataLabelPosition](PowerPoint.XlDataLabelPosition.md)**.
 

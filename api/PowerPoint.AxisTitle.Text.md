@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Text Property (PowerPoint)
+title: AxisTitle.Text property (PowerPoint)
 keywords: vbapp10.chm683008
 f1_keywords:
 - vbapp10.chm683008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Text Property (PowerPoint)
+# AxisTitle.Text property (PowerPoint)
 
 Returns or sets the text for the specified object. Read/write  **String**.
 

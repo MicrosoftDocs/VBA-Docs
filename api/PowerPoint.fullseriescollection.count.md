@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Count Property (PowerPoint)
+title: FullSeriesCollection.Count property (PowerPoint)
 keywords: vbapp10.chm735002
 f1_keywords:
 - vbapp10.chm735002
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# FullSeriesCollection.Count Property (PowerPoint)
+# FullSeriesCollection.Count property (PowerPoint)
 
 Returns a  **Long** that represents the number of full series in the collection. Read-only.
 

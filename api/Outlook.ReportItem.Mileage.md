@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Mileage Property (Outlook)
+title: ReportItem.Mileage property (Outlook)
 keywords: vbaol11.chm1654
 f1_keywords:
 - vbaol11.chm1654
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Mileage Property (Outlook)
+# ReportItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection Object (Outlook)
+title: Selection object (Outlook)
 keywords: vbaol11.chm80
 f1_keywords:
 - vbaol11.chm80
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection Object (Outlook)
+# Selection object (Outlook)
 
 Contains the set of Outlook items currently selected in an explorer.
 

@@ -1,5 +1,5 @@
 ---
-title: Recipient.Parent Property (Outlook)
+title: Recipient.Parent property (Outlook)
 keywords: vbaol11.chm2343
 f1_keywords:
 - vbaol11.chm2343
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Parent Property (Outlook)
+# Recipient.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

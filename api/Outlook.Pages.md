@@ -1,5 +1,5 @@
 ---
-title: Pages Object (Outlook)
+title: Pages object (Outlook)
 keywords: vbaol11.chm390
 f1_keywords:
 - vbaol11.chm390
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages Object (Outlook)
+# Pages object (Outlook)
 
 Contains pages that represent the pages of an Inspector window.
 

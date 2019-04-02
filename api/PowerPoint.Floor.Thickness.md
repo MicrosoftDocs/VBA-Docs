@@ -1,5 +1,5 @@
 ---
-title: Floor.Thickness Property (PowerPoint)
+title: Floor.Thickness property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Thickness
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Floor.Thickness Property (PowerPoint)
+# Floor.Thickness property (PowerPoint)
 
 Returns or sets the thickness of the floor. Read/write  **Long**.
 

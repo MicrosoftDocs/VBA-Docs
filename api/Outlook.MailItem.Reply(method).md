@@ -1,5 +1,5 @@
 ---
-title: MailItem.Reply Method (Outlook)
+title: MailItem.Reply method (Outlook)
 keywords: vbaol11.chm1367
 f1_keywords:
 - vbaol11.chm1367
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Reply Method (Outlook)
+# MailItem.Reply method (Outlook)
 
 Creates a reply, pre-addressed to the original sender, from the original message.
 

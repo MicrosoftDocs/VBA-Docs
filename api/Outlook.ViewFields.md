@@ -1,5 +1,5 @@
 ---
-title: ViewFields Object (Outlook)
+title: ViewFields object (Outlook)
 keywords: vbaol11.chm3184
 f1_keywords:
 - vbaol11.chm3184
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFields Object (Outlook)
+# ViewFields object (Outlook)
 
 Represents the collection of  **[ViewField](Outlook.ViewField.md)** objects in a view.
 

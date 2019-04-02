@@ -1,5 +1,5 @@
 ---
-title: Application.WindowState Property (PowerPoint)
+title: Application.WindowState property (PowerPoint)
 keywords: vbapp10.chm502030
 f1_keywords:
 - vbapp10.chm502030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowState Property (PowerPoint)
+# Application.WindowState property (PowerPoint)
 
 Returns or sets the state of the specified window. Read/write.
 

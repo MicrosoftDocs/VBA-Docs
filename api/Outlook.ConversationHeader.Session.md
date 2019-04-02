@@ -1,5 +1,5 @@
 ---
-title: ConversationHeader.Session Property (Outlook)
+title: ConversationHeader.Session property (Outlook)
 keywords: vbaol11.chm3548
 f1_keywords:
 - vbaol11.chm3548
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConversationHeader.Session Property (Outlook)
+# ConversationHeader.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Title Property (Outlook)
+title: ContactItem.Title property (Outlook)
 keywords: vbaol11.chm1068
 f1_keywords:
 - vbaol11.chm1068
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Title Property (Outlook)
+# ContactItem.Title property (Outlook)
 
 Returns or sets a  **String** indicating the title for the contact. Read/write.
 

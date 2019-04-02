@@ -1,5 +1,5 @@
 ---
-title: Presentation.FarEastLineBreakLevel Property (PowerPoint)
+title: Presentation.FarEastLineBreakLevel property (PowerPoint)
 keywords: vbapp10.chm583043
 f1_keywords:
 - vbapp10.chm583043
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.FarEastLineBreakLevel Property (PowerPoint)
+# Presentation.FarEastLineBreakLevel property (PowerPoint)
 
 Returns or sets the line break based upon Asian character level. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: MailItem.HTMLBody Property (Outlook)
+title: MailItem.HTMLBody property (Outlook)
 keywords: vbaol11.chm1338
 f1_keywords:
 - vbaol11.chm1338
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.HTMLBody Property (Outlook)
+# MailItem.HTMLBody property (Outlook)
 
 Returns or sets a  **String** representing the HTML body of the specified item. Read/write.
 

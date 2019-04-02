@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BeforeAttachmentRead Event (Outlook)
+title: SharingItem.BeforeAttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BeforeAttachmentRead Event (Outlook)
+# SharingItem.BeforeAttachmentRead event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read.
 

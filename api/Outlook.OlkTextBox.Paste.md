@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Paste Method (Outlook)
+title: OlkTextBox.Paste method (Outlook)
 keywords: vbaol11.chm1000067
 f1_keywords:
 - vbaol11.chm1000067
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Paste Method (Outlook)
+# OlkTextBox.Paste method (Outlook)
 
 Pastes the contents of the clipboard in the control. 
 

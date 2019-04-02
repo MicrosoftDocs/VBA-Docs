@@ -31,6 +31,6 @@ Indicates the most recent tracking status change for the recipient.
 
 ## Remarks
 
-Used by the [Recipient.TrackingStatus Property (Outlook)](Outlook.Recipient.TrackingStatus.md).
+Used by the [Recipient.TrackingStatus property (Outlook)](Outlook.Recipient.TrackingStatus.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

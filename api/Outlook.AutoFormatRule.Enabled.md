@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRule.Enabled Property (Outlook)
+title: AutoFormatRule.Enabled property (Outlook)
 keywords: vbaol11.chm2709
 f1_keywords:
 - vbaol11.chm2709
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRule.Enabled Property (Outlook)
+# AutoFormatRule.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether the formatting rule represented by the **[AutoFormatRule](Outlook.AutoFormatRule.md)** object is enabled. Read/write.
 

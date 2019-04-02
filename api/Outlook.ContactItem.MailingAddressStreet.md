@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MailingAddressStreet Property (Outlook)
+title: ContactItem.MailingAddressStreet property (Outlook)
 keywords: vbaol11.chm1040
 f1_keywords:
 - vbaol11.chm1040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MailingAddressStreet Property (Outlook)
+# ContactItem.MailingAddressStreet property (Outlook)
 
 Returns or sets a  **String** representing the street address portion of the selected mailing address of the contact. Read/write.
 

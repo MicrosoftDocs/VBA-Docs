@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.AutoForwarded Property (Outlook)
+title: MeetingItem.AutoForwarded property (Outlook)
 keywords: vbaol11.chm1436
 f1_keywords:
 - vbaol11.chm1436
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.AutoForwarded Property (Outlook)
+# MeetingItem.AutoForwarded property (Outlook)
 
 A  **Boolean** value that returns **True** if the item was automatically forwarded. Read/write.
 

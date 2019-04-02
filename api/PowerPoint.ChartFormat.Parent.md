@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Parent Property (PowerPoint)
+title: ChartFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm691004
 f1_keywords:
 - vbapp10.chm691004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFormat.Parent Property (PowerPoint)
+# ChartFormat.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

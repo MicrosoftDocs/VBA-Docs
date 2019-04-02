@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.KeyDown Event (Outlook)
+title: OlkDateControl.KeyDown event (Outlook)
 keywords: vbaol11.chm1000369
 f1_keywords:
 - vbaol11.chm1000369
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.KeyDown Event (Outlook)
+# OlkDateControl.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 

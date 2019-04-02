@@ -1,5 +1,5 @@
 ---
-title: Rule.Execute Method (Outlook)
+title: Rule.Execute method (Outlook)
 keywords: vbaol11.chm2173
 f1_keywords:
 - vbaol11.chm2173
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rule.Execute Method (Outlook)
+# Rule.Execute method (Outlook)
 
 Applies a rule as a one-off operation.
 

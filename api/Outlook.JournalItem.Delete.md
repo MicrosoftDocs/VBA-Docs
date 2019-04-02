@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Delete Method (Outlook)
+title: JournalItem.Delete method (Outlook)
 keywords: vbaol11.chm1259
 f1_keywords:
 - vbaol11.chm1259
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Delete Method (Outlook)
+# JournalItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 

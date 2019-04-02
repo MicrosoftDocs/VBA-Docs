@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Id Property (PowerPoint)
+title: TableStyle.Id property (PowerPoint)
 keywords: vbapp10.chm674002
 f1_keywords:
 - vbapp10.chm674002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableStyle.Id Property (PowerPoint)
+# TableStyle.Id property (PowerPoint)
 
 Returns a string that identifies the table style. Read-only.
 

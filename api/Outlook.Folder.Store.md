@@ -1,5 +1,5 @@
 ---
-title: Folder.Store Property (Outlook)
+title: Folder.Store property (Outlook)
 keywords: vbaol11.chm2016
 f1_keywords:
 - vbaol11.chm2016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Store Property (Outlook)
+# Folder.Store property (Outlook)
 
 Returns a  **[Store](Outlook.Store.md)** object representing the store that contains the **[Folder](Outlook.Folder.md)** object. Read-only.
 

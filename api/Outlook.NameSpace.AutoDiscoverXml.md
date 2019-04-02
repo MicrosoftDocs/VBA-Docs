@@ -1,5 +1,5 @@
 ---
-title: NameSpace.AutoDiscoverXml Property (Outlook)
+title: NameSpace.AutoDiscoverXml property (Outlook)
 keywords: vbaol11.chm3263
 f1_keywords:
 - vbaol11.chm3263
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.AutoDiscoverXml Property (Outlook)
+# NameSpace.AutoDiscoverXml property (Outlook)
 
 Returns a  **String** that represents information in XML retrieved from the auto-discovery service for the Microsoft Exchange server that hosts the primary Exchange account. Read-only.
 

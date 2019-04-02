@@ -1,5 +1,5 @@
 ---
-title: Axes Object (PowerPoint)
+title: Axes object (PowerPoint)
 keywords: vbapp10.chm681000
 f1_keywords:
 - vbapp10.chm681000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axes Object (PowerPoint)
+# Axes object (PowerPoint)
 
 Represents a collection of all the  **[Axis](PowerPoint.Axis.md)** objects in the specified chart.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Parent Property (Outlook)
+title: AutoFormatRules.Parent property (Outlook)
 keywords: vbaol11.chm2716
 f1_keywords:
 - vbaol11.chm2716
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Parent Property (Outlook)
+# AutoFormatRules.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

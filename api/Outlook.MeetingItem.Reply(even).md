@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Reply Event (Outlook)
+title: MeetingItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Reply Event (Outlook)
+# MeetingItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item, or when the **Reply** method is called for the item, which is an instance of the parent object.
 

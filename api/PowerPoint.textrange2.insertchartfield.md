@@ -1,5 +1,5 @@
 ---
-title: TextRange2.InsertChartField Method (PowerPoint)
+title: TextRange2.InsertChartField method (PowerPoint)
 ms.assetid: 42c07916-74e1-46c2-8cbc-5777c9fe1ae4
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.InsertChartField Method (PowerPoint)
+# TextRange2.InsertChartField method (PowerPoint)
 
 Inserts a field into the body of a data label in a chart. 
 
@@ -42,6 +42,6 @@ _expression_. `InsertChartField`_(ChartFieldType,_ _Formula,_ _Position)_
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

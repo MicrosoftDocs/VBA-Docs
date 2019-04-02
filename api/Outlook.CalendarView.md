@@ -1,5 +1,5 @@
 ---
-title: CalendarView Object (Outlook)
+title: CalendarView object (Outlook)
 keywords: vbaol11.chm3208
 f1_keywords:
 - vbaol11.chm3208
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView Object (Outlook)
+# CalendarView object (Outlook)
 
 Represents a view that displays Outlook items in a calendar format.
 

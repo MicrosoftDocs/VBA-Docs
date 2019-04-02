@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Saved Property (Outlook)
+title: MeetingItem.Saved property (Outlook)
 keywords: vbaol11.chm1422
 f1_keywords:
 - vbaol11.chm1422
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Saved Property (Outlook)
+# MeetingItem.Saved property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 

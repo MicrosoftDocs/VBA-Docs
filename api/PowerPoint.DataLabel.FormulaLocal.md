@@ -1,5 +1,5 @@
 ---
-title: DataLabel.FormulaLocal Property (PowerPoint)
+title: DataLabel.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm696007
 f1_keywords:
 - vbapp10.chm696007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.FormulaLocal Property (PowerPoint)
+# DataLabel.FormulaLocal property (PowerPoint)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String**.
 

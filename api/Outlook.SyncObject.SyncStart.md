@@ -1,5 +1,5 @@
 ---
-title: SyncObject.SyncStart Event (Outlook)
+title: SyncObject.SyncStart event (Outlook)
 keywords: vbaol11.chm111
 f1_keywords:
 - vbaol11.chm111
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObject.SyncStart Event (Outlook)
+# SyncObject.SyncStart event (Outlook)
 
 Occurs when Microsoft Outlook begins synchronizing a user's folders using the specified  **Send\Receive** group.
 

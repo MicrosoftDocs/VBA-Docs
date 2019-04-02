@@ -1,5 +1,5 @@
 ---
-title: Explorer.ActiveInlineResponseWordEditor Property (Outlook)
+title: Explorer.ActiveInlineResponseWordEditor property (Outlook)
 keywords: vbaol11.chm3597
 f1_keywords:
 - vbaol11.chm3597
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.ActiveInlineResponseWordEditor Property (Outlook)
+# Explorer.ActiveInlineResponseWordEditor property (Outlook)
 Returns the Word [Document](./Word.Document.md) object of the active inline response that is displayed in the explorer Reading Pane. Read-only.
 
 ## Syntax

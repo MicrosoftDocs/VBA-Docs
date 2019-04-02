@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Save Method (Outlook)
+title: ReportItem.Save method (Outlook)
 keywords: vbaol11.chm1670
 f1_keywords:
 - vbaol11.chm1670
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Save Method (Outlook)
+# ReportItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 

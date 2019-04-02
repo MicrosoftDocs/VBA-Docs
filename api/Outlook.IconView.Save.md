@@ -1,5 +1,5 @@
 ---
-title: IconView.Save Method (Outlook)
+title: IconView.Save method (Outlook)
 keywords: vbaol11.chm2565
 f1_keywords:
 - vbaol11.chm2565
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Save Method (Outlook)
+# IconView.Save method (Outlook)
 
 Saves the view, or saves the changes to a view.
 

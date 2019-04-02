@@ -1,5 +1,5 @@
 ---
-title: Effect.Index Property (PowerPoint)
+title: Effect.Index property (PowerPoint)
 keywords: vbapp10.chm652008
 f1_keywords:
 - vbapp10.chm652008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.Index Property (PowerPoint)
+# Effect.Index property (PowerPoint)
 
 Returns a  **Long** that represents the index number for an animation effect or design. Read-only.
 

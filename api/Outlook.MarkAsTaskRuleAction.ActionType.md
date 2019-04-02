@@ -1,5 +1,5 @@
 ---
-title: MarkAsTaskRuleAction.ActionType Property (Outlook)
+title: MarkAsTaskRuleAction.ActionType property (Outlook)
 keywords: vbaol11.chm2284
 f1_keywords:
 - vbaol11.chm2284
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkAsTaskRuleAction.ActionType Property (Outlook)
+# MarkAsTaskRuleAction.ActionType property (Outlook)
 
 Returns a constant,  **olRuleActionMarkAsTask**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 

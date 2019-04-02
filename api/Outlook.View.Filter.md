@@ -1,5 +1,5 @@
 ---
-title: View.Filter Property (Outlook)
+title: View.Filter property (Outlook)
 keywords: vbaol11.chm2497
 f1_keywords:
 - vbaol11.chm2497
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Filter Property (Outlook)
+# View.Filter property (Outlook)
 
 Returns or sets a  **String** value that represents the filter for a view. Read/write.
 

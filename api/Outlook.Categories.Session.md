@@ -1,5 +1,5 @@
 ---
-title: Categories.Session Property (Outlook)
+title: Categories.Session property (Outlook)
 keywords: vbaol11.chm2433
 f1_keywords:
 - vbaol11.chm2433
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Categories.Session Property (Outlook)
+# Categories.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

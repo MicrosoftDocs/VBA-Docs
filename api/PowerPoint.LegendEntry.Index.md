@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Index Property (PowerPoint)
+title: LegendEntry.Index property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Index
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntry.Index Property (PowerPoint)
+# LegendEntry.Index property (PowerPoint)
 
 Returns the index number of the object within the collection of similar objects. Read-only  **Long**.
 

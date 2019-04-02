@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.Body Property (Outlook)
+title: RuleConditions.Body property (Outlook)
 keywords: vbaol11.chm2311
 f1_keywords:
 - vbaol11.chm2311
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.Body Property (Outlook)
+# RuleConditions.Body property (Outlook)
 
 Returns a  **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)** of **olConditionBody**. Read-only.
 

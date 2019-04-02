@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Application Property (PowerPoint)
+title: LineFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Application Property (PowerPoint)
+# LineFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

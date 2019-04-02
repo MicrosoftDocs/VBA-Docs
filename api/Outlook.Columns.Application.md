@@ -1,5 +1,5 @@
 ---
-title: Columns.Application Property (Outlook)
+title: Columns.Application property (Outlook)
 keywords: vbaol11.chm2735
 f1_keywords:
 - vbaol11.chm2735
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.Application Property (Outlook)
+# Columns.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[Columns](Outlook.Columns.md)** object. Read-only.
 

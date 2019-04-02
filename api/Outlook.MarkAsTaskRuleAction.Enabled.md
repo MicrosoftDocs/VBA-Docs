@@ -1,5 +1,5 @@
 ---
-title: MarkAsTaskRuleAction.Enabled Property (Outlook)
+title: MarkAsTaskRuleAction.Enabled property (Outlook)
 keywords: vbaol11.chm2283
 f1_keywords:
 - vbaol11.chm2283
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkAsTaskRuleAction.Enabled Property (Outlook)
+# MarkAsTaskRuleAction.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule action is enabled. Read/write.
 

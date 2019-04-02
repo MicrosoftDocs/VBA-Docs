@@ -1,5 +1,5 @@
 ---
-title: ItemProperties.Item Method (Outlook)
+title: ItemProperties.Item method (Outlook)
 keywords: vbaol11.chm536
 f1_keywords:
 - vbaol11.chm536
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperties.Item Method (Outlook)
+# ItemProperties.Item method (Outlook)
 
 Returns an  **[ItemProperty](Outlook.ItemProperty.md)** object from the collection.
 

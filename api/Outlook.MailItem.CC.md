@@ -1,5 +1,5 @@
 ---
-title: MailItem.CC Property (Outlook)
+title: MailItem.CC property (Outlook)
 keywords: vbaol11.chm1331
 f1_keywords:
 - vbaol11.chm1331
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.CC Property (Outlook)
+# MailItem.CC property (Outlook)
 
 Returns a  **String** representing the display list of carbon copy (CC) names for a **[MailItem](Outlook.MailItem.md)**. Read/write.
 

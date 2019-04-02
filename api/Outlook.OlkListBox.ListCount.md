@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.ListCount Property (Outlook)
+title: OlkListBox.ListCount property (Outlook)
 keywords: vbaol11.chm1000267
 f1_keywords:
 - vbaol11.chm1000267
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.ListCount Property (Outlook)
+# OlkListBox.ListCount property (Outlook)
 
 Returns a  **Long** that specifies the number of elements in the drop-down list of the list box control. Read-only.
 

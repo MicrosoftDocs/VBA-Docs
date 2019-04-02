@@ -1,5 +1,5 @@
 ---
-title: Selection.Session Property (Outlook)
+title: Selection.Session property (Outlook)
 keywords: vbaol11.chm83
 f1_keywords:
 - vbaol11.chm83
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Session Property (Outlook)
+# Selection.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

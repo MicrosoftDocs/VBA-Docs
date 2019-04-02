@@ -1,5 +1,5 @@
 ---
-title: ContactItem.YomiFirstName Property (Outlook)
+title: ContactItem.YomiFirstName property (Outlook)
 keywords: vbaol11.chm1077
 f1_keywords:
 - vbaol11.chm1077
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.YomiFirstName Property (Outlook)
+# ContactItem.YomiFirstName property (Outlook)
 
 Returns or sets a  **String** indicating the Japanese phonetic rendering (yomigana) of the first name for the contact. Read/write.
 

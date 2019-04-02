@@ -1,5 +1,5 @@
 ---
-title: Category.CategoryGradientTopColor Property (Outlook)
+title: Category.CategoryGradientTopColor property (Outlook)
 keywords: vbaol11.chm3267
 f1_keywords:
 - vbaol11.chm3267
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Category.CategoryGradientTopColor Property (Outlook)
+# Category.CategoryGradientTopColor property (Outlook)
 
 Returns an  **OLE_COLOR** value that represents the top gradient color of the color swatch displayed for a **[Category](Outlook.Category.md)** object. Read-only.
 

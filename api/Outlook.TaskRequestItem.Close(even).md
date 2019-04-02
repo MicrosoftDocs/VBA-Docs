@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Close Event (Outlook)
+title: TaskRequestItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Close Event (Outlook)
+# TaskRequestItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 

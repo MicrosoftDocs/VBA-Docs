@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartColor Property (PowerPoint)
+title: Chart.ChartColor property (PowerPoint)
 keywords: vbapp10.chm68003
 f1_keywords:
 - vbapp10.chm68003
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartColor Property (PowerPoint)
+# Chart.ChartColor property (PowerPoint)
 
 Returns or sets an integer that represents the color scheme for the chart. Read-write.
 

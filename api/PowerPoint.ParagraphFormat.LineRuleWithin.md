@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineRuleWithin Property (PowerPoint)
+title: ParagraphFormat.LineRuleWithin property (PowerPoint)
 keywords: vbapp10.chm576007
 f1_keywords:
 - vbapp10.chm576007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LineRuleWithin Property (PowerPoint)
+# ParagraphFormat.LineRuleWithin property (PowerPoint)
 
 Determines whether line spacing between base lines is set to a specific number of points or lines. Read/write.
 

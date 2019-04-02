@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Session Property (Outlook)
+title: ReportItem.Session property (Outlook)
 keywords: vbaol11.chm1636
 f1_keywords:
 - vbaol11.chm1636
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Session Property (Outlook)
+# ReportItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

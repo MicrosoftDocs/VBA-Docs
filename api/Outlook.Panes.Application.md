@@ -1,5 +1,5 @@
 ---
-title: Panes.Application Property (Outlook)
+title: Panes.Application property (Outlook)
 keywords: vbaol11.chm74
 f1_keywords:
 - vbaol11.chm74
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Panes.Application Property (Outlook)
+# Panes.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

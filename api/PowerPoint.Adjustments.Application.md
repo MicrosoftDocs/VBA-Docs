@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Application Property (PowerPoint)
+title: Adjustments.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Adjustments.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Adjustments.Application Property (PowerPoint)
+# Adjustments.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

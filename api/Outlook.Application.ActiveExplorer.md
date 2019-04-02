@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveExplorer Method (Outlook)
+title: Application.ActiveExplorer method (Outlook)
 keywords: vbaol11.chm712
 f1_keywords:
 - vbaol11.chm712
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveExplorer Method (Outlook)
+# Application.ActiveExplorer method (Outlook)
 
 Returns the topmost  **[Explorer](Outlook.Explorer.md)** object on the desktop.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.BackStyle Property (Outlook)
+title: OlkCategory.BackStyle property (Outlook)
 keywords: vbaol11.chm1000441
 f1_keywords:
 - vbaol11.chm1000441
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.BackStyle Property (Outlook)
+# OlkCategory.BackStyle property (Outlook)
 
 Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
 

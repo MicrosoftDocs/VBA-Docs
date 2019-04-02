@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Visible Property (PowerPoint)
+title: ThreeDFormat.Visible property (PowerPoint)
 keywords: vbapp10.chm557018
 f1_keywords:
 - vbapp10.chm557018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Visible Property (PowerPoint)
+# ThreeDFormat.Visible property (PowerPoint)
 
 Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
 

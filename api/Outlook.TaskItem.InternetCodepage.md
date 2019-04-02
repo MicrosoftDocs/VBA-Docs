@@ -1,5 +1,5 @@
 ---
-title: TaskItem.InternetCodepage Property (Outlook)
+title: TaskItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm1762
 f1_keywords:
 - vbaol11.chm1762
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.InternetCodepage Property (Outlook)
+# TaskItem.InternetCodepage property (Outlook)
 
 Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
 

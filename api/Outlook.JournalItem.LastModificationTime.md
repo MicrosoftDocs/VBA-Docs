@@ -1,5 +1,5 @@
 ---
-title: JournalItem.LastModificationTime Property (Outlook)
+title: JournalItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1244
 f1_keywords:
 - vbaol11.chm1244
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.LastModificationTime Property (Outlook)
+# JournalItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 

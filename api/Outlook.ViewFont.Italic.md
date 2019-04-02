@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Italic Property (Outlook)
+title: ViewFont.Italic property (Outlook)
 keywords: vbaol11.chm2696
 f1_keywords:
 - vbaol11.chm2696
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Italic Property (Outlook)
+# ViewFont.Italic property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates if the font is italicized in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
 

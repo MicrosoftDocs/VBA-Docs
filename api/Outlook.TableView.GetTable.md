@@ -1,5 +1,5 @@
 ---
-title: TableView.GetTable Method (Outlook)
+title: TableView.GetTable method (Outlook)
 keywords: vbaol11.chm3315
 f1_keywords:
 - vbaol11.chm3315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.GetTable Method (Outlook)
+# TableView.GetTable method (Outlook)
 
 Returns a  **[Table](Outlook.Table.md)** object that represents all of the Microsoft Outlook items that are contained in a **[TableView](Outlook.TableView.md)** object.
 

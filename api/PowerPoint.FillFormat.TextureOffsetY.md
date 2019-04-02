@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureOffsetY Property (PowerPoint)
+title: FillFormat.TextureOffsetY property (PowerPoint)
 keywords: vbapp10.chm552027
 f1_keywords:
 - vbapp10.chm552027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureOffsetY Property (PowerPoint)
+# FillFormat.TextureOffsetY property (PowerPoint)
 
  Returns or sets the vertical offset of the texture from the origin in points. Read/write.
 

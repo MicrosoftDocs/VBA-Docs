@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.BackColor Property (Outlook)
+title: OlkTimeControl.BackColor property (Outlook)
 keywords: vbaol11.chm1000380
 f1_keywords:
 - vbaol11.chm1000380
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.BackColor Property (Outlook)
+# OlkTimeControl.BackColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the background color of the control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Color Property (Outlook)
+title: ViewFont.Color property (Outlook)
 keywords: vbaol11.chm2701
 f1_keywords:
 - vbaol11.chm2701
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Color Property (Outlook)
+# ViewFont.Color property (Outlook)
 
 Returns or sets an  **[OlColor](Outlook.OlColor.md)** constant that indicates the color of the font in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
 

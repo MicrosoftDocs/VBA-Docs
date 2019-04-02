@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Size Property (Outlook)
+title: TaskRequestDeclineItem.Size property (Outlook)
 keywords: vbaol11.chm1845
 f1_keywords:
 - vbaol11.chm1845
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Size Property (Outlook)
+# TaskRequestDeclineItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application Object (Outlook)
+title: Application object (Outlook)
 keywords: vbaol11.chm2991
 f1_keywords:
 - vbaol11.chm2991
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application Object (Outlook)
+# Application object (Outlook)
 
 Represents the entire Microsoft Outlook application.
 

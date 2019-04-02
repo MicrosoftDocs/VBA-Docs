@@ -1,5 +1,5 @@
 ---
-title: JournalItem.DocPrinted Property (Outlook)
+title: JournalItem.DocPrinted property (Outlook)
 keywords: vbaol11.chm1267
 f1_keywords:
 - vbaol11.chm1267
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.DocPrinted Property (Outlook)
+# JournalItem.DocPrinted property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the journalized item was printed as part of the journalized session. Read/write.
 

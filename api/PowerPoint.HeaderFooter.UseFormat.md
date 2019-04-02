@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.UseFormat Property (PowerPoint)
+title: HeaderFooter.UseFormat property (PowerPoint)
 keywords: vbapp10.chm582005
 f1_keywords:
 - vbapp10.chm582005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeaderFooter.UseFormat Property (PowerPoint)
+# HeaderFooter.UseFormat property (PowerPoint)
 
 Determines whether the date and time object contains automatically updated information. Read/write.
 

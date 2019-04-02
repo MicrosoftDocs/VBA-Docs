@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShows.Application Property (PowerPoint)
+title: NamedSlideShows.Application property (PowerPoint)
 keywords: vbapp10.chm515001
 f1_keywords:
 - vbapp10.chm515001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShows.Application Property (PowerPoint)
+# NamedSlideShows.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

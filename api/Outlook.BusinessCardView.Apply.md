@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Apply Method (Outlook)
+title: BusinessCardView.Apply method (Outlook)
 keywords: vbaol11.chm2921
 f1_keywords:
 - vbaol11.chm2921
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Apply Method (Outlook)
+# BusinessCardView.Apply method (Outlook)
 
 Applies the  **[BusinessCardView](Outlook.BusinessCardView.md)** object to the current view.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Move Method (Outlook)
+title: DocumentItem.Move method (Outlook)
 keywords: vbaol11.chm1213
 f1_keywords:
 - vbaol11.chm1213
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Move Method (Outlook)
+# DocumentItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

@@ -1,5 +1,5 @@
 ---
-title: NameSpace.OpenSharedItem Method (Outlook)
+title: NameSpace.OpenSharedItem method (Outlook)
 keywords: vbaol11.chm789
 f1_keywords:
 - vbaol11.chm789
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.OpenSharedItem Method (Outlook)
+# NameSpace.OpenSharedItem method (Outlook)
 
 Opens a shared item from a specified path or URL.
 

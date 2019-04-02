@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.LineStyle Property (PowerPoint)
+title: ChartBorder.LineStyle property (PowerPoint)
 keywords: vbapp10.chm685003
 f1_keywords:
 - vbapp10.chm685003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartBorder.LineStyle Property (PowerPoint)
+# ChartBorder.LineStyle property (PowerPoint)
 
 Returns or sets the line style for the border. Read/write  **[xlLineStyle](PowerPoint.XlLineStyle.md)**, **xlGray25**, **xlGray50**, **xlGray75**, or **xlAutomatic**.
 

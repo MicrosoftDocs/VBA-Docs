@@ -1,5 +1,5 @@
 ---
-title: Results.Count Property (Outlook)
+title: Results.Count property (Outlook)
 keywords: vbaol11.chm502
 f1_keywords:
 - vbaol11.chm502
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.Count Property (Outlook)
+# Results.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

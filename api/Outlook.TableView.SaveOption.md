@@ -1,5 +1,5 @@
 ---
-title: TableView.SaveOption Property (Outlook)
+title: TableView.SaveOption property (Outlook)
 keywords: vbaol11.chm2511
 f1_keywords:
 - vbaol11.chm2511
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.SaveOption Property (Outlook)
+# TableView.SaveOption property (Outlook)
 
 Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 

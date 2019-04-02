@@ -1,5 +1,5 @@
 ---
-title: Font.Italic Property (PowerPoint)
+title: Font.Italic property (PowerPoint)
 keywords: vbapp10.chm575005
 f1_keywords:
 - vbapp10.chm575005
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Italic Property (PowerPoint)
+# Font.Italic property (PowerPoint)
 
  **True** if the font or range is formatted as italic. Read/write **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+title: MeetingItem.BeforeAttachmentWriteToTempFile event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeAttachmentWriteToTempFile
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+# MeetingItem.BeforeAttachmentWriteToTempFile event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is written to a temporary file.
 

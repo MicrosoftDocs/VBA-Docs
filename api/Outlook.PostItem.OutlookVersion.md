@@ -1,5 +1,5 @@
 ---
-title: PostItem.OutlookVersion Property (Outlook)
+title: PostItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1532
 f1_keywords:
 - vbaol11.chm1532
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.OutlookVersion Property (Outlook)
+# PostItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 

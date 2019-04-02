@@ -1,5 +1,5 @@
 ---
-title: Shapes Object (PowerPoint)
+title: Shapes object (PowerPoint)
 keywords: vbapp10.chm543000
 f1_keywords:
 - vbapp10.chm543000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes Object (PowerPoint)
+# Shapes object (PowerPoint)
 
 A collection of all the  **[Shape](./PowerPoint.Shape.md)** objects on the specified slide.
 

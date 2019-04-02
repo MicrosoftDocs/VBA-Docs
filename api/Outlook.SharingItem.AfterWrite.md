@@ -1,5 +1,5 @@
 ---
-title: SharingItem.AfterWrite Event (Outlook)
+title: SharingItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.AfterWrite Event (Outlook)
+# SharingItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 

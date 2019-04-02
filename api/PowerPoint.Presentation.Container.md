@@ -1,5 +1,5 @@
 ---
-title: Presentation.Container Property (PowerPoint)
+title: Presentation.Container property (PowerPoint)
 keywords: vbapp10.chm583041
 f1_keywords:
 - vbapp10.chm583041
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Container Property (PowerPoint)
+# Presentation.Container property (PowerPoint)
 
 Returns the object that contains the specified embedded presentation. Read-only.
 

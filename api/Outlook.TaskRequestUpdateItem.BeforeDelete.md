@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.BeforeDelete Event (Outlook)
+title: TaskRequestUpdateItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.BeforeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.BeforeDelete Event (Outlook)
+# TaskRequestUpdateItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 

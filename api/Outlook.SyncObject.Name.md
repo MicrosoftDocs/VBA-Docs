@@ -1,5 +1,5 @@
 ---
-title: SyncObject.Name Property (Outlook)
+title: SyncObject.Name property (Outlook)
 keywords: vbaol11.chm107
 f1_keywords:
 - vbaol11.chm107
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObject.Name Property (Outlook)
+# SyncObject.Name property (Outlook)
 
 Returns a  **String** value that represents the display name for the object. Read-only.
 

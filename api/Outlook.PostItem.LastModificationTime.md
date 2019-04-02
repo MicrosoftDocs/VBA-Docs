@@ -1,5 +1,5 @@
 ---
-title: PostItem.LastModificationTime Property (Outlook)
+title: PostItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1526
 f1_keywords:
 - vbaol11.chm1526
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.LastModificationTime Property (Outlook)
+# PostItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 

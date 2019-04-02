@@ -1,5 +1,5 @@
 ---
-title: Rule.ExecutionOrder Property (Outlook)
+title: Rule.ExecutionOrder property (Outlook)
 keywords: vbaol11.chm2169
 f1_keywords:
 - vbaol11.chm2169
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rule.ExecutionOrder Property (Outlook)
+# Rule.ExecutionOrder property (Outlook)
 
 Returns or sets a  **Long** that indicates the order of execution of the rule among other rules in the **[Rules](Outlook.Rules.md)** collection. Read/write.
 

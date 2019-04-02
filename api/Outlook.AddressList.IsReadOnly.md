@@ -1,5 +1,5 @@
 ---
-title: AddressList.IsReadOnly Property (Outlook)
+title: AddressList.IsReadOnly property (Outlook)
 keywords: vbaol11.chm2030
 f1_keywords:
 - vbaol11.chm2030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.IsReadOnly Property (Outlook)
+# AddressList.IsReadOnly property (Outlook)
 
 Returns a  **Boolean** value that indicates that the **[AddressList](Outlook.AddressList.md)** object cannot be modified. Read-only.
 

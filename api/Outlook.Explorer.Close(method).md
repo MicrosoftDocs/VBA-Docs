@@ -1,5 +1,5 @@
 ---
-title: Explorer.Close Method (Outlook)
+title: Explorer.Close method (Outlook)
 keywords: vbaol11.chm2763
 f1_keywords:
 - vbaol11.chm2763
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Close Method (Outlook)
+# Explorer.Close method (Outlook)
 
 Closes the  **[Explorer](Outlook.Explorer.md)** object.
 

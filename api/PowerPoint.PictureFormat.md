@@ -1,5 +1,5 @@
 ---
-title: PictureFormat Object (PowerPoint)
+title: PictureFormat object (PowerPoint)
 keywords: vbapp10.chm551000
 f1_keywords:
 - vbapp10.chm551000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat Object (PowerPoint)
+# PictureFormat object (PowerPoint)
 
 Contains properties and methods that apply to pictures and OLE objects. 
 

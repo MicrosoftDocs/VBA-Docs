@@ -1,5 +1,5 @@
 ---
-title: Placeholders.Application Property (PowerPoint)
+title: Placeholders.Application property (PowerPoint)
 keywords: vbapp10.chm544001
 f1_keywords:
 - vbapp10.chm544001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Placeholders.Application Property (PowerPoint)
+# Placeholders.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

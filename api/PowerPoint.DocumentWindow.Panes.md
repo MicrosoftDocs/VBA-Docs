@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Panes Property (PowerPoint)
+title: DocumentWindow.Panes property (PowerPoint)
 keywords: vbapp10.chm511023
 f1_keywords:
 - vbapp10.chm511023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.Panes Property (PowerPoint)
+# DocumentWindow.Panes property (PowerPoint)
 
 Returns a  **[Panes](PowerPoint.Panes.md)** collection that represents the panes in the document window. Read-only.
 

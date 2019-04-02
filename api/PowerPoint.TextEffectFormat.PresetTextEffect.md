@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.PresetTextEffect Property (PowerPoint)
+title: TextEffectFormat.PresetTextEffect property (PowerPoint)
 keywords: vbapp10.chm556011
 f1_keywords:
 - vbapp10.chm556011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.PresetTextEffect Property (PowerPoint)
+# TextEffectFormat.PresetTextEffect property (PowerPoint)
 
 Returns or sets the style of the specified WordArt. Read/write.
 

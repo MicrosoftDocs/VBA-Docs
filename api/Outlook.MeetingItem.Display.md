@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Display Method (Outlook)
+title: MeetingItem.Display method (Outlook)
 keywords: vbaol11.chm1431
 f1_keywords:
 - vbaol11.chm1431
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Display Method (Outlook)
+# MeetingItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

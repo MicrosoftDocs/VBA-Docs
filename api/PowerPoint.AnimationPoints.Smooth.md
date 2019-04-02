@@ -1,5 +1,5 @@
 ---
-title: AnimationPoints.Smooth Property (PowerPoint)
+title: AnimationPoints.Smooth property (PowerPoint)
 keywords: vbapp10.chm663005
 f1_keywords:
 - vbapp10.chm663005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoints.Smooth Property (PowerPoint)
+# AnimationPoints.Smooth property (PowerPoint)
 
 Determines whether the transition from one animation point to another is smoothed. Read/write.
 

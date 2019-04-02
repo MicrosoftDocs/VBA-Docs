@@ -1,5 +1,5 @@
 ---
-title: SlideNavigation Object (PowerPoint)
+title: SlideNavigation object (PowerPoint)
 keywords: vbapp10.chm741000
 f1_keywords:
 - vbapp10.chm741000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SlideNavigation Object (PowerPoint)
+# SlideNavigation object (PowerPoint)
 
 Represents the slide navigation screen in slide show view.
 

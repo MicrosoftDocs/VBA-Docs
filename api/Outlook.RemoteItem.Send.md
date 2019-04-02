@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Send Event (Outlook)
+title: RemoteItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Send
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Send Event (Outlook)
+# RemoteItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).
 

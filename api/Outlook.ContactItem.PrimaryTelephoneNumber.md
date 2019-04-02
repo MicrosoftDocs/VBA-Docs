@@ -1,5 +1,5 @@
 ---
-title: ContactItem.PrimaryTelephoneNumber Property (Outlook)
+title: ContactItem.PrimaryTelephoneNumber property (Outlook)
 keywords: vbaol11.chm1060
 f1_keywords:
 - vbaol11.chm1060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.PrimaryTelephoneNumber Property (Outlook)
+# ContactItem.PrimaryTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** specifying the primary telephone number for the contact. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Orientation Property (PowerPoint)
+title: TickLabels.Orientation property (PowerPoint)
 keywords: vbapp10.chm719008
 f1_keywords:
 - vbapp10.chm719008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Orientation Property (PowerPoint)
+# TickLabels.Orientation property (PowerPoint)
 
 Returns or sets the text orientation. Read/write  **Long**.
 

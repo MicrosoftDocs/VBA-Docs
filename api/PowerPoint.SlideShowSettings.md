@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings Object (PowerPoint)
+title: SlideShowSettings object (PowerPoint)
 keywords: vbapp10.chm514000
 f1_keywords:
 - vbapp10.chm514000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings Object (PowerPoint)
+# SlideShowSettings object (PowerPoint)
 
 Represents the slide show setup for a presentation.
 

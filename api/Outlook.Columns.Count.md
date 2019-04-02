@@ -1,5 +1,5 @@
 ---
-title: Columns.Count Property (Outlook)
+title: Columns.Count property (Outlook)
 keywords: vbaol11.chm2739
 f1_keywords:
 - vbaol11.chm2739
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.Count Property (Outlook)
+# Columns.Count property (Outlook)
 
 Returns a  **Long** representing the number of **[Column](Outlook.Column.md)** objects in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Folder.Folders Property (Outlook)
+title: Folder.Folders property (Outlook)
 keywords: vbaol11.chm1989
 f1_keywords:
 - vbaol11.chm1989
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Folders Property (Outlook)
+# Folder.Folders property (Outlook)
 
 Returns the  **[Folders](Outlook.Folders.md)** collection that represents all the folders contained in the specified **[Folder](Outlook.Folder.md)**. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem Object (Outlook)
+title: TaskRequestUpdateItem object (Outlook)
 keywords: vbaol11.chm3011
 f1_keywords:
 - vbaol11.chm3011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem Object (Outlook)
+# TaskRequestUpdateItem object (Outlook)
 
 Represents a response to a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** sent by the initiating user.
 

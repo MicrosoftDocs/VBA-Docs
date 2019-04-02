@@ -1,5 +1,5 @@
 ---
-title: TextRuleCondition Object (Outlook)
+title: TextRuleCondition object (Outlook)
 keywords: vbaol11.chm3183
 f1_keywords:
 - vbaol11.chm3183
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRuleCondition Object (Outlook)
+# TextRuleCondition object (Outlook)
 
 Represents a rule condition that the part of the message, which can be the body, header, or subject, as specified by  **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)**, contains the words specified in **[TextRuleCondition.Text](Outlook.TextRuleCondition.Text.md)**.
 

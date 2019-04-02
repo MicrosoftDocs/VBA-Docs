@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetParent Method (Outlook)
+title: Conversation.GetParent method (Outlook)
 keywords: vbaol11.chm3401
 f1_keywords:
 - vbaol11.chm3401
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.GetParent Method (Outlook)
+# Conversation.GetParent method (Outlook)
 
 Returns the parent item of the specified node in the conversation.
 

@@ -1,5 +1,5 @@
 ---
-title: TimeZone.DaylightDesignation Property (Outlook)
+title: TimeZone.DaylightDesignation property (Outlook)
 keywords: vbaol11.chm3283
 f1_keywords:
 - vbaol11.chm3283
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.DaylightDesignation Property (Outlook)
+# TimeZone.DaylightDesignation property (Outlook)
 
 Returns a  **String** that identifies the time zone in daylight time. Read-only.
 

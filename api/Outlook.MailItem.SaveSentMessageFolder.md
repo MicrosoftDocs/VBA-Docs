@@ -1,5 +1,5 @@
 ---
-title: MailItem.SaveSentMessageFolder Property (Outlook)
+title: MailItem.SaveSentMessageFolder property (Outlook)
 keywords: vbaol11.chm1356
 f1_keywords:
 - vbaol11.chm1356
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.SaveSentMessageFolder Property (Outlook)
+# MailItem.SaveSentMessageFolder property (Outlook)
 
 Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the folder in which a copy of the email message will be saved after being sent. Read/write.
 

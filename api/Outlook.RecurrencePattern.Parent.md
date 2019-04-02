@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Parent Property (Outlook)
+title: RecurrencePattern.Parent property (Outlook)
 keywords: vbaol11.chm272
 f1_keywords:
 - vbaol11.chm272
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Parent Property (Outlook)
+# RecurrencePattern.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

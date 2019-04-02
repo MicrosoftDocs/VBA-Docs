@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.TextToDisplay Property (PowerPoint)
+title: Hyperlink.TextToDisplay property (PowerPoint)
 keywords: vbapp10.chm526009
 f1_keywords:
 - vbapp10.chm526009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.TextToDisplay Property (PowerPoint)
+# Hyperlink.TextToDisplay property (PowerPoint)
 
 Returns or sets the display text for a hyperlink not associated with a graphic. Read/write.
 

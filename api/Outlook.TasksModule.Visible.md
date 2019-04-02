@@ -1,5 +1,5 @@
 ---
-title: TasksModule.Visible Property (Outlook)
+title: TasksModule.Visible property (Outlook)
 keywords: vbaol11.chm2849
 f1_keywords:
 - vbaol11.chm2849
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TasksModule.Visible Property (Outlook)
+# TasksModule.Visible property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether the **[TasksModule](Outlook.TasksModule.md)** object is displayed in the navigation pane. Read/write.
 

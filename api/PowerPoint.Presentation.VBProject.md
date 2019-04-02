@@ -1,5 +1,5 @@
 ---
-title: Presentation.VBProject Property (PowerPoint)
+title: Presentation.VBProject property (PowerPoint)
 keywords: vbapp10.chm583022
 f1_keywords:
 - vbapp10.chm583022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.VBProject Property (PowerPoint)
+# Presentation.VBProject property (PowerPoint)
 
 Returns a  **VBProject** object that represents the individual Visual Basic project for the presentation. Read-only.
 

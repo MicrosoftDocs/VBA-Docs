@@ -1,5 +1,5 @@
 ---
-title: Row.Parent Property (Outlook)
+title: Row.Parent property (Outlook)
 keywords: vbaol11.chm2242
 f1_keywords:
 - vbaol11.chm2242
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Parent Property (Outlook)
+# Row.Parent property (Outlook)
 
 Returns the parent object of the  **[Row](Outlook.Row.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressEntries.GetLast Method (Outlook)
+title: AddressEntries.GetLast method (Outlook)
 keywords: vbaol11.chm34
 f1_keywords:
 - vbaol11.chm34
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntries.GetLast Method (Outlook)
+# AddressEntries.GetLast method (Outlook)
 
 Returns the last object in the  **[AddressEntries](Outlook.AddressEntries.md)** collection.
 

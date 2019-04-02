@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Body Property (Outlook)
+title: TaskRequestDeclineItem.Body property (Outlook)
 keywords: vbaol11.chm1826
 f1_keywords:
 - vbaol11.chm1826
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Body Property (Outlook)
+# TaskRequestDeclineItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 

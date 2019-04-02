@@ -1,5 +1,5 @@
 ---
-title: Presentation.ReadOnly Property (PowerPoint)
+title: Presentation.ReadOnly property (PowerPoint)
 keywords: vbapp10.chm583023
 f1_keywords:
 - vbapp10.chm583023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.ReadOnly Property (PowerPoint)
+# Presentation.ReadOnly property (PowerPoint)
 
 Returns whether the specified presentation is read-only. Read-only.
 

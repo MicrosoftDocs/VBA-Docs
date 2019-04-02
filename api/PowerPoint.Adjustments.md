@@ -1,5 +1,5 @@
 ---
-title: Adjustments Object (PowerPoint)
+title: Adjustments object (PowerPoint)
 keywords: vbapp10.chm550000
 f1_keywords:
 - vbapp10.chm550000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Adjustments Object (PowerPoint)
+# Adjustments object (PowerPoint)
 
 Contains a collection of adjustment values for the specified AutoShape, WordArt object, or connector. 
 

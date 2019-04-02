@@ -1,5 +1,5 @@
 ---
-title: Presentation.CustomDocumentProperties Property (PowerPoint)
+title: Presentation.CustomDocumentProperties property (PowerPoint)
 keywords: vbapp10.chm583021
 f1_keywords:
 - vbapp10.chm583021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.CustomDocumentProperties Property (PowerPoint)
+# Presentation.CustomDocumentProperties property (PowerPoint)
 
 Returns a  **DocumentProperties** collection that represents all the custom document properties for the specified presentation. Read-only.
 

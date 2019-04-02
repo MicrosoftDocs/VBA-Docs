@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorUnitScale Property (PowerPoint)
+title: Axis.MajorUnitScale property (PowerPoint)
 keywords: vbapp10.chm682035
 f1_keywords:
 - vbapp10.chm682035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.MajorUnitScale Property (PowerPoint)
+# Axis.MajorUnitScale property (PowerPoint)
 
 Returns or sets the major unit scale value for the category axis when the  **[CategoryType](PowerPoint.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[xlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 

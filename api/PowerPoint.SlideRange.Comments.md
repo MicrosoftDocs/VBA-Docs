@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Comments Property (PowerPoint)
+title: SlideRange.Comments property (PowerPoint)
 keywords: vbapp10.chm532032
 f1_keywords:
 - vbapp10.chm532032
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Comments Property (PowerPoint)
+# SlideRange.Comments property (PowerPoint)
 
 Returns a  **[Comments](PowerPoint.Comments.md)** object that represents a collection of comments. Read-only.
 

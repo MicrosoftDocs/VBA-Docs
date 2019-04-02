@@ -1,5 +1,5 @@
 ---
-title: Presentations Object (PowerPoint)
+title: Presentations object (PowerPoint)
 keywords: vbapp10.chm522000
 f1_keywords:
 - vbapp10.chm522000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentations Object (PowerPoint)
+# Presentations object (PowerPoint)
 
 A collection of all the  **[Presentation](PowerPoint.Presentation.md)** objects in Microsoft PowerPoint. Each **Presentation** object represents a presentation that's currently open in PowerPoint.
 

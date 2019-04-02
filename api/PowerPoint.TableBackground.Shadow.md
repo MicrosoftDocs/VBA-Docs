@@ -1,5 +1,5 @@
 ---
-title: TableBackground.Shadow Property (PowerPoint)
+title: TableBackground.Shadow property (PowerPoint)
 keywords: vbapp10.chm677004
 f1_keywords:
 - vbapp10.chm677004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableBackground.Shadow Property (PowerPoint)
+# TableBackground.Shadow property (PowerPoint)
 
  Returns a **[ShadowFormat](PowerPoint.ShadowFormat.md)** object that represents the formatting of the shadow associated with the table background. Read-only.
 

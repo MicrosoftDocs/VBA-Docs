@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Body Property (Outlook)
+title: TaskItem.Body property (Outlook)
 keywords: vbaol11.chm1689
 f1_keywords:
 - vbaol11.chm1689
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Body Property (Outlook)
+# TaskItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 

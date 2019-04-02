@@ -1,5 +1,5 @@
 ---
-title: Search.Parent Property (Outlook)
+title: Search.Parent property (Outlook)
 keywords: vbaol11.chm2252
 f1_keywords:
 - vbaol11.chm2252
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.Parent Property (Outlook)
+# Search.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

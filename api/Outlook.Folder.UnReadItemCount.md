@@ -1,5 +1,5 @@
 ---
-title: Folder.UnReadItemCount Property (Outlook)
+title: Folder.UnReadItemCount property (Outlook)
 keywords: vbaol11.chm1993
 f1_keywords:
 - vbaol11.chm1993
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.UnReadItemCount Property (Outlook)
+# Folder.UnReadItemCount property (Outlook)
 
 Returns a  **Long** indicating the number of unread items in the folder. Read-only.
 

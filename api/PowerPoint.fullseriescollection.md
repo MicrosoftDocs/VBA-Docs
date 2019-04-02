@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection Object (PowerPoint)
+title: FullSeriesCollection object (PowerPoint)
 keywords: vbapp10.chm735000
 f1_keywords:
 - vbapp10.chm735000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# FullSeriesCollection Object (PowerPoint)
+# FullSeriesCollection object (PowerPoint)
 
 Represents the full collection of all chart series, both filtered and unfiltered.
 

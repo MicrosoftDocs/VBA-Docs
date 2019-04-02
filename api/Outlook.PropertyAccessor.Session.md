@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.Session Property (Outlook)
+title: PropertyAccessor.Session property (Outlook)
 keywords: vbaol11.chm1968
 f1_keywords:
 - vbaol11.chm1968
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.Session Property (Outlook)
+# PropertyAccessor.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

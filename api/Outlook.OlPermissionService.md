@@ -26,6 +26,6 @@ Specifies the permission service used when sending an Information Rights Managem
 
 ## Remarks
 
-See [SharingItem.PermissionService Property (Outlook)](Outlook.SharingItem.PermissionService.md) and [MailItem.PermissionService Property (Outlook)](Outlook.MailItem.PermissionService.md).
+See [SharingItem.PermissionService property (Outlook)](Outlook.SharingItem.PermissionService.md) and [MailItem.PermissionService property (Outlook)](Outlook.MailItem.PermissionService.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

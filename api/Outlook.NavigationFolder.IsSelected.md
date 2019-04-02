@@ -1,5 +1,5 @@
 ---
-title: NavigationFolder.IsSelected Property (Outlook)
+title: NavigationFolder.IsSelected property (Outlook)
 keywords: vbaol11.chm2905
 f1_keywords:
 - vbaol11.chm2905
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolder.IsSelected Property (Outlook)
+# NavigationFolder.IsSelected property (Outlook)
 
 Returns or sets a  **Boolean** variable that indicates whether the **[NavigationFolder](Outlook.NavigationFolder.md)** object is selected for display. Read/write.
 

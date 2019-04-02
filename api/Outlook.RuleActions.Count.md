@@ -1,5 +1,5 @@
 ---
-title: RuleActions.Count Property (Outlook)
+title: RuleActions.Count property (Outlook)
 keywords: vbaol11.chm2182
 f1_keywords:
 - vbaol11.chm2182
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.Count Property (Outlook)
+# RuleActions.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

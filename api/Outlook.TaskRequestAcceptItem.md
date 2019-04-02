@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem Object (Outlook)
+title: TaskRequestAcceptItem object (Outlook)
 keywords: vbaol11.chm3008
 f1_keywords:
 - vbaol11.chm3008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem Object (Outlook)
+# TaskRequestAcceptItem object (Outlook)
 
 Represents a response to a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** sent by the initiating user.
 

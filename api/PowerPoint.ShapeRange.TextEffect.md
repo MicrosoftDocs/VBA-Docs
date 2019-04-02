@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextEffect Property (PowerPoint)
+title: ShapeRange.TextEffect property (PowerPoint)
 keywords: vbapp10.chm548034
 f1_keywords:
 - vbapp10.chm548034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.TextEffect Property (PowerPoint)
+# ShapeRange.TextEffect property (PowerPoint)
 
 Returns a  **[TextEffectFormat](PowerPoint.TextEffectFormat.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
 

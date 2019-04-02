@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Complete Property (Outlook)
+title: TaskItem.Complete property (Outlook)
 keywords: vbaol11.chm1722
 f1_keywords:
 - vbaol11.chm1722
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Complete Property (Outlook)
+# TaskItem.Complete property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the task is completed. Read/write **Boolean**.
 

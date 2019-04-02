@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRule.Name Property (Outlook)
+title: AutoFormatRule.Name property (Outlook)
 keywords: vbaol11.chm2707
 f1_keywords:
 - vbaol11.chm2707
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRule.Name Property (Outlook)
+# AutoFormatRule.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 

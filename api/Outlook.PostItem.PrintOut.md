@@ -1,5 +1,5 @@
 ---
-title: PostItem.PrintOut Method (Outlook)
+title: PostItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1544
 f1_keywords:
 - vbaol11.chm1544
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.PrintOut Method (Outlook)
+# PostItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 

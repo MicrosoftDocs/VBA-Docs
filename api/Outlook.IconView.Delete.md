@@ -1,5 +1,5 @@
 ---
-title: IconView.Delete Method (Outlook)
+title: IconView.Delete method (Outlook)
 keywords: vbaol11.chm2563
 f1_keywords:
 - vbaol11.chm2563
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Delete Method (Outlook)
+# IconView.Delete method (Outlook)
 
 Deletes an object from a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: IconView Object (Outlook)
+title: IconView object (Outlook)
 keywords: vbaol11.chm3206
 f1_keywords:
 - vbaol11.chm3206
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView Object (Outlook)
+# IconView object (Outlook)
 
 Represents a view that displays Outlook items as a series of labeled icons.
 

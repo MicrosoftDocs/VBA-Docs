@@ -1,5 +1,5 @@
 ---
-title: SharingItem.RecipientReassignmentProhibited Property (Outlook)
+title: SharingItem.RecipientReassignmentProhibited property (Outlook)
 keywords: vbaol11.chm649
 f1_keywords:
 - vbaol11.chm649
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.RecipientReassignmentProhibited Property (Outlook)
+# SharingItem.RecipientReassignmentProhibited property (Outlook)
 
 Returns a  **Boolean** that indicates **true** if the recipient cannot forward the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Depth Property (PowerPoint)
+title: ThreeDFormat.Depth property (PowerPoint)
 keywords: vbapp10.chm557007
 f1_keywords:
 - vbapp10.chm557007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Depth Property (PowerPoint)
+# ThreeDFormat.Depth property (PowerPoint)
 
 Returns or sets the depth of the shape's extrusion. Read/write.
 

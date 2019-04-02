@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.NavigationFolderRemove Event (Outlook)
+title: NavigationGroups.NavigationFolderRemove event (Outlook)
 keywords: vbaol11.chm2915
 f1_keywords:
 - vbaol11.chm2915
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.NavigationFolderRemove Event (Outlook)
+# NavigationGroups.NavigationFolderRemove event (Outlook)
 
 Occurs after a navigation folder has been removed from the  **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 

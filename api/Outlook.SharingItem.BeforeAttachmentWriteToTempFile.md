@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+title: SharingItem.BeforeAttachmentWriteToTempFile event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAttachmentWriteToTempFile
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+# SharingItem.BeforeAttachmentWriteToTempFile event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is written to a temporary file.
 

@@ -27,7 +27,7 @@ Specifies the attachment type.
 
 ## Remarks
 
-Used as an optional parameter to the [Attachments.Add Method (Outlook)](Outlook.Attachments.Add.md) to specify the attachment type.
+Used as an optional parameter to the [Attachments.Add method (Outlook)](Outlook.Attachments.Add.md) to specify the attachment type.
 
 
 ## See also

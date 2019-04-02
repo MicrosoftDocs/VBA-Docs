@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl Object (Outlook)
+title: OlkBusinessCardControl object (Outlook)
 keywords: vbaol11.chm1000333
 f1_keywords:
 - vbaol11.chm1000333
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl Object (Outlook)
+# OlkBusinessCardControl object (Outlook)
 
 This control displays a business card.
 

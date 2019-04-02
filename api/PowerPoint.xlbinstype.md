@@ -24,6 +24,6 @@ Constants passed to and returned by the [ChartGroup.BinsType](Excel.chartgroup.b
 ## See also
 
 
-[ChartGroup.BinsType Property (PowerPoint)](PowerPoint.chartgroup.binstype.md)
+[ChartGroup.BinsType property (PowerPoint)](PowerPoint.chartgroup.binstype.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.TintAndShade Property (PowerPoint)
+title: ColorFormat.TintAndShade property (PowerPoint)
 keywords: vbapp10.chm506005
 f1_keywords:
 - vbapp10.chm506005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.TintAndShade Property (PowerPoint)
+# ColorFormat.TintAndShade property (PowerPoint)
 
 Sets or returns the lightening or darkening of the color of a specified shape. Read/write.
 

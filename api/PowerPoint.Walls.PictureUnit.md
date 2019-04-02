@@ -1,5 +1,5 @@
 ---
-title: Walls.PictureUnit Property (PowerPoint)
+title: Walls.PictureUnit property (PowerPoint)
 keywords: vbapp10.chm65698
 f1_keywords:
 - vbapp10.chm65698
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Walls.PictureUnit Property (PowerPoint)
+# Walls.PictureUnit property (PowerPoint)
 
 Returns or sets the unit for each picture on the chart if the  **[PictureType](PowerPoint.Series.PictureType.md)** property is set to **xlStackScale**; otherwise, this property is ignored. Read/write **Long**.
 

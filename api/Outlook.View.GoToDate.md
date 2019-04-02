@@ -1,5 +1,5 @@
 ---
-title: View.GoToDate Method (Outlook)
+title: View.GoToDate method (Outlook)
 keywords: vbaol11.chm2496
 f1_keywords:
 - vbaol11.chm2496
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.GoToDate Method (Outlook)
+# View.GoToDate method (Outlook)
 
 Changes the date used by the current view to display information.
 

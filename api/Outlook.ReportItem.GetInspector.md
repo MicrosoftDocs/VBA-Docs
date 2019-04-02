@@ -1,5 +1,5 @@
 ---
-title: ReportItem.GetInspector Property (Outlook)
+title: ReportItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1649
 f1_keywords:
 - vbaol11.chm1649
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.GetInspector Property (Outlook)
+# ReportItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 

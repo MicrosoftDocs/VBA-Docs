@@ -1,5 +1,5 @@
 ---
-title: Shape.Visible Property (PowerPoint)
+title: Shape.Visible property (PowerPoint)
 keywords: vbapp10.chm547041
 f1_keywords:
 - vbapp10.chm547041
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Visible Property (PowerPoint)
+# Shape.Visible property (PowerPoint)
 
 Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
 

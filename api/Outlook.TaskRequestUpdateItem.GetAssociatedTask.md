@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.GetAssociatedTask Method (Outlook)
+title: TaskRequestUpdateItem.GetAssociatedTask method (Outlook)
 keywords: vbaol11.chm1955
 f1_keywords:
 - vbaol11.chm1955
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.GetAssociatedTask Method (Outlook)
+# TaskRequestUpdateItem.GetAssociatedTask method (Outlook)
 
 Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the requested task.
 

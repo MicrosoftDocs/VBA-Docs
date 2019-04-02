@@ -1,5 +1,5 @@
 ---
-title: FormDescription.ScriptText Property (Outlook)
+title: FormDescription.ScriptText property (Outlook)
 keywords: vbaol11.chm197
 f1_keywords:
 - vbaol11.chm197
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.ScriptText Property (Outlook)
+# FormDescription.ScriptText property (Outlook)
 
 Returns a  **String** containing all the VBScript code in the form's Script Editor. Read-only.
 

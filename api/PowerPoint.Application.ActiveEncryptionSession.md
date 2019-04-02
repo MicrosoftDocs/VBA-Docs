@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveEncryptionSession Property (PowerPoint)
+title: Application.ActiveEncryptionSession property (PowerPoint)
 keywords: vbapp10.chm502059
 f1_keywords:
 - vbapp10.chm502059
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveEncryptionSession Property (PowerPoint)
+# Application.ActiveEncryptionSession property (PowerPoint)
 
 Represents the encryption session associated with the active presentation. Read-only.
 

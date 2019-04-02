@@ -1,5 +1,5 @@
 ---
-title: PrintOptions Object (PowerPoint)
+title: PrintOptions object (PowerPoint)
 keywords: vbapp10.chm517000
 f1_keywords:
 - vbapp10.chm517000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions Object (PowerPoint)
+# PrintOptions object (PowerPoint)
 
 Contains print options for a presentation.
 

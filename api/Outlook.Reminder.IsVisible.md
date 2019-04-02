@@ -1,5 +1,5 @@
 ---
-title: Reminder.IsVisible Property (Outlook)
+title: Reminder.IsVisible property (Outlook)
 keywords: vbaol11.chm561
 f1_keywords:
 - vbaol11.chm561
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.IsVisible Property (Outlook)
+# Reminder.IsVisible property (Outlook)
 
 Returns a  **Boolean** that determines if the reminder is currently visible. Read-only.
 

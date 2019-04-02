@@ -1,5 +1,5 @@
 ---
-title: ReportItem.OutlookInternalVersion Property (Outlook)
+title: ReportItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm1656
 f1_keywords:
 - vbaol11.chm1656
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.OutlookInternalVersion Property (Outlook)
+# ReportItem.OutlookInternalVersion property (Outlook)
 
 Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 

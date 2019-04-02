@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.MouseUp Event (Outlook)
+title: OlkDateControl.MouseUp event (Outlook)
 keywords: vbaol11.chm1000366
 f1_keywords:
 - vbaol11.chm1000366
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.MouseUp Event (Outlook)
+# OlkDateControl.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 

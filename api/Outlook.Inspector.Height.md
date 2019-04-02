@@ -1,5 +1,5 @@
 ---
-title: Inspector.Height Property (Outlook)
+title: Inspector.Height property (Outlook)
 keywords: vbaol11.chm2974
 f1_keywords:
 - vbaol11.chm2974
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Height Property (Outlook)
+# Inspector.Height property (Outlook)
 
 Returns or sets a  **Long** specifying the height (in pixels) of the inspector window. Read/write.
 

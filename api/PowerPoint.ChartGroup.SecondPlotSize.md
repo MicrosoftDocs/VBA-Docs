@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SecondPlotSize Property (PowerPoint)
+title: ChartGroup.SecondPlotSize property (PowerPoint)
 keywords: vbapp10.chm692017
 f1_keywords:
 - vbapp10.chm692017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.SecondPlotSize Property (PowerPoint)
+# ChartGroup.SecondPlotSize property (PowerPoint)
 
 Returns or sets the size, as a percentage of the primary pie, of the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write  **Long**.
 

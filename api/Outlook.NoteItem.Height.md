@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Height Property (Outlook)
+title: NoteItem.Height property (Outlook)
 keywords: vbaol11.chm1483
 f1_keywords:
 - vbaol11.chm1483
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Height Property (Outlook)
+# NoteItem.Height property (Outlook)
 
 Returns or sets a  **Long** specifying the height (in pixels) of the note window. Read/write.
 

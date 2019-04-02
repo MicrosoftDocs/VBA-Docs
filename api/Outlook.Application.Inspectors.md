@@ -1,5 +1,5 @@
 ---
-title: Application.Inspectors Property (Outlook)
+title: Application.Inspectors property (Outlook)
 keywords: vbaol11.chm721
 f1_keywords:
 - vbaol11.chm721
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Inspectors Property (Outlook)
+# Application.Inspectors property (Outlook)
 
 Returns an  **[Inspectors](Outlook.Inspectors.md)** collection object that contains the **[Inspector](Outlook.Inspector.md)** objects representing all open inspectors. Read-only.
 

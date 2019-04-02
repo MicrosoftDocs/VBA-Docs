@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Change Event (Outlook)
+title: OlkTimeControl.Change event (Outlook)
 keywords: vbaol11.chm1000411
 f1_keywords:
 - vbaol11.chm1000411
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Change Event (Outlook)
+# OlkTimeControl.Change event (Outlook)
 
 Occurs when the  **[Value](Outlook.OlkTimeControl.Value.md)** property changes.
 

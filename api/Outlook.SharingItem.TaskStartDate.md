@@ -1,5 +1,5 @@
 ---
-title: SharingItem.TaskStartDate Property (Outlook)
+title: SharingItem.TaskStartDate property (Outlook)
 keywords: vbaol11.chm3220
 f1_keywords:
 - vbaol11.chm3220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.TaskStartDate Property (Outlook)
+# SharingItem.TaskStartDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the start date of the task for this **[SharingItem](Outlook.SharingItem.md)** object. Read/write.
 

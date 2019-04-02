@@ -1,5 +1,5 @@
 ---
-title: TextRange.Start Property (PowerPoint)
+title: TextRange.Start property (PowerPoint)
 keywords: vbapp10.chm569004
 f1_keywords:
 - vbapp10.chm569004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Start Property (PowerPoint)
+# TextRange.Start property (PowerPoint)
 
 Returns the position of the first character in the specified text range relative to the first character in the shape that contains the text. Read-only.
 

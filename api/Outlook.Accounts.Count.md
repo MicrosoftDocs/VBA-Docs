@@ -1,5 +1,5 @@
 ---
-title: Accounts.Count Property (Outlook)
+title: Accounts.Count property (Outlook)
 keywords: vbaol11.chm749
 f1_keywords:
 - vbaol11.chm749
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Accounts.Count Property (Outlook)
+# Accounts.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

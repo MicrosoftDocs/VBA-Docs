@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Shadow Property (PowerPoint)
+title: LegendKey.Shadow property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.Shadow
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendKey.Shadow Property (PowerPoint)
+# LegendKey.Shadow property (PowerPoint)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
 

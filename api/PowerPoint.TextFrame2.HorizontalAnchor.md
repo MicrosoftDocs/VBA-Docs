@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.HorizontalAnchor Property (PowerPoint)
+title: TextFrame2.HorizontalAnchor property (PowerPoint)
 keywords: vbapp10.chm678007
 f1_keywords:
 - vbapp10.chm678007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.HorizontalAnchor Property (PowerPoint)
+# TextFrame2.HorizontalAnchor property (PowerPoint)
 
  Returns or sets the horizontal alignment of text in a text frame. Read/write.
 

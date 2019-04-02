@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Copy Method (Outlook)
+title: AppointmentItem.Copy method (Outlook)
 keywords: vbaol11.chm869
 f1_keywords:
 - vbaol11.chm869
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Copy Method (Outlook)
+# AppointmentItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

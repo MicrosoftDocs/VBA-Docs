@@ -1,5 +1,5 @@
 ---
-title: TextStyle.Ruler Property (PowerPoint)
+title: TextStyle.Ruler property (PowerPoint)
 keywords: vbapp10.chm579003
 f1_keywords:
 - vbapp10.chm579003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyle.Ruler Property (PowerPoint)
+# TextStyle.Ruler property (PowerPoint)
 
 Returns a  **[Ruler](PowerPoint.Ruler.md)** object that represents the ruler for the specified text. Read-only.
 

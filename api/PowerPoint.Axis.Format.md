@@ -1,5 +1,5 @@
 ---
-title: Axis.Format Property (PowerPoint)
+title: Axis.Format property (PowerPoint)
 keywords: vbapp10.chm682047
 f1_keywords:
 - vbapp10.chm682047
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.Format Property (PowerPoint)
+# Axis.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 

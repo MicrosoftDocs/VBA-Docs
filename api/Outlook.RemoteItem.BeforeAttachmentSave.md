@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.BeforeAttachmentSave Event (Outlook)
+title: RemoteItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.BeforeAttachmentSave Event (Outlook)
+# RemoteItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 

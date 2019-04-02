@@ -1,5 +1,5 @@
 ---
-title: TimeZone.DaylightBias Property (Outlook)
+title: TimeZone.DaylightBias property (Outlook)
 keywords: vbaol11.chm3287
 f1_keywords:
 - vbaol11.chm3287
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.DaylightBias Property (Outlook)
+# TimeZone.DaylightBias property (Outlook)
 
 Returns a  **Long** value that represents the time offset in minutes from the **[Bias](Outlook.TimeZone.Bias.md)** to account for daylight time in this time zone. Read-only.
 

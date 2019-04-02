@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.MouseIcon Property (Outlook)
+title: OlkTimeZoneControl.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000506
 f1_keywords:
 - vbaol11.chm1000506
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.MouseIcon Property (Outlook)
+# OlkTimeZoneControl.MouseIcon property (Outlook)
 
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 

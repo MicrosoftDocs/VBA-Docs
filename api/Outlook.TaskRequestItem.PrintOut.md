@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.PrintOut Method (Outlook)
+title: TaskRequestItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1903
 f1_keywords:
 - vbaol11.chm1903
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.PrintOut Method (Outlook)
+# TaskRequestItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 

@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnectionSite Property (PowerPoint)
+title: ConnectorFormat.BeginConnectionSite property (PowerPoint)
 keywords: vbapp10.chm555008
 f1_keywords:
 - vbapp10.chm555008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnectionSite Property (PowerPoint)
+# ConnectorFormat.BeginConnectionSite property (PowerPoint)
 
 Returns an integer that specifies the connection site that the beginning of a connector is connected to. Read-only. 
 

@@ -1,5 +1,5 @@
 ---
-title: JournalItem.MessageClass Property (Outlook)
+title: JournalItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1246
 f1_keywords:
 - vbaol11.chm1246
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.MessageClass Property (Outlook)
+# JournalItem.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the Outlook item. Read/write.
 

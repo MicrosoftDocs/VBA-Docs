@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.GetItem Method (Outlook)
+title: OlkListBox.GetItem method (Outlook)
 keywords: vbaol11.chm1000268
 f1_keywords:
 - vbaol11.chm1000268
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.GetItem Method (Outlook)
+# OlkListBox.GetItem method (Outlook)
 
 Obtains a  **String** that represents an item at the specified location in the list.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartFont.ColorIndex Property (PowerPoint)
+title: ChartFont.ColorIndex property (PowerPoint)
 keywords: vbapp10.chm704004
 f1_keywords:
 - vbapp10.chm704004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.ColorIndex Property (PowerPoint)
+# ChartFont.ColorIndex property (PowerPoint)
 
 Returns or sets the color of the font. Read/write  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: MailItem.Forward Method (Outlook)
+title: MailItem.Forward method (Outlook)
 keywords: vbaol11.chm1366
 f1_keywords:
 - vbaol11.chm1366
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Forward Method (Outlook)
+# MailItem.Forward method (Outlook)
 
 Executes the  **Forward** action for an item and returns the resulting copy as a **[MailItem](Outlook.MailItem.md)** object.
 

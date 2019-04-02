@@ -1,5 +1,5 @@
 ---
-title: RuleActions.NotifyRead Property (Outlook)
+title: RuleActions.NotifyRead property (Outlook)
 keywords: vbaol11.chm2189
 f1_keywords:
 - vbaol11.chm2189
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.NotifyRead Property (Outlook)
+# RuleActions.NotifyRead property (Outlook)
 
 Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionNotifyRead**. Read-only.
 

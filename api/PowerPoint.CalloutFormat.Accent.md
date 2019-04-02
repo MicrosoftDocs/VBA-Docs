@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Accent Property (PowerPoint)
+title: CalloutFormat.Accent property (PowerPoint)
 keywords: vbapp10.chm559006
 f1_keywords:
 - vbapp10.chm559006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Accent Property (PowerPoint)
+# CalloutFormat.Accent property (PowerPoint)
 
 Determines whether a vertical accent bar separates the callout text from the callout line. Read/write.
 

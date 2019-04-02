@@ -1,5 +1,5 @@
 ---
-title: Point.Name Property (PowerPoint)
+title: Point.Name property (PowerPoint)
 keywords: vbapp10.chm714006
 f1_keywords:
 - vbapp10.chm714006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Name Property (PowerPoint)
+# Point.Name property (PowerPoint)
 
 Returns the object name. Read-only.
 

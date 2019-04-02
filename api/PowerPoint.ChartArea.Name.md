@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Name Property (PowerPoint)
+title: ChartArea.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Name Property (PowerPoint)
+# ChartArea.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

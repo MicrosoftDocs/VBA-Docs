@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.YomiCompanyName Property (Outlook)
+title: ExchangeUser.YomiCompanyName property (Outlook)
 keywords: vbaol11.chm2102
 f1_keywords:
 - vbaol11.chm2102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.YomiCompanyName Property (Outlook)
+# ExchangeUser.YomiCompanyName property (Outlook)
 
 Returns a  **String** representing the Japanese phonetic rendering (yomigana) of the company name for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

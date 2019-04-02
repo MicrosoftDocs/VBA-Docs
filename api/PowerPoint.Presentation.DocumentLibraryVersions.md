@@ -1,5 +1,5 @@
 ---
-title: Presentation.DocumentLibraryVersions Property (PowerPoint)
+title: Presentation.DocumentLibraryVersions property (PowerPoint)
 keywords: vbapp10.chm583086
 f1_keywords:
 - vbapp10.chm583086
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.DocumentLibraryVersions Property (PowerPoint)
+# Presentation.DocumentLibraryVersions property (PowerPoint)
 
 Returns a  **DocumentLibraryVersions** collection that represents the collection of versions of a shared presentation that has versioning enabled and that is stored in a document library on a server.
 

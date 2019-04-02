@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.BuildByLevelEffect Property (PowerPoint)
+title: EffectInformation.BuildByLevelEffect property (PowerPoint)
 keywords: vbapp10.chm655006
 f1_keywords:
 - vbapp10.chm655006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EffectInformation.BuildByLevelEffect Property (PowerPoint)
+# EffectInformation.BuildByLevelEffect property (PowerPoint)
 
 Determines the level of the animation build effect. Read-only.
 

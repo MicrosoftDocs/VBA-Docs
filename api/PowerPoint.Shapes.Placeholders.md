@@ -1,5 +1,5 @@
 ---
-title: Shapes.Placeholders Property (PowerPoint)
+title: Shapes.Placeholders property (PowerPoint)
 keywords: vbapp10.chm543021
 f1_keywords:
 - vbapp10.chm543021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Placeholders Property (PowerPoint)
+# Shapes.Placeholders property (PowerPoint)
 
 Returns a  **[Placeholders](PowerPoint.Placeholders.md)** collection that represents the collection of all the placeholders on a slide. Read-only.
 

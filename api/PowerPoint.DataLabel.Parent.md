@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Parent Property (PowerPoint)
+title: DataLabel.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Parent Property (PowerPoint)
+# DataLabel.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

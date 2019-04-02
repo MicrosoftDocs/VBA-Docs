@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Contrast Property (PowerPoint)
+title: PictureFormat.Contrast property (PowerPoint)
 keywords: vbapp10.chm551006
 f1_keywords:
 - vbapp10.chm551006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Contrast Property (PowerPoint)
+# PictureFormat.Contrast property (PowerPoint)
 
 Returns or sets the contrast for the specified picture or OLE object.
 

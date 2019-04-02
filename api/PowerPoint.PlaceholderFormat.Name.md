@@ -1,5 +1,5 @@
 ---
-title: PlaceholderFormat.Name Property (PowerPoint)
+title: PlaceholderFormat.Name property (PowerPoint)
 keywords: vbapp10.chm545004
 f1_keywords:
 - vbapp10.chm545004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaceholderFormat.Name Property (PowerPoint)
+# PlaceholderFormat.Name property (PowerPoint)
 
 Returns or sets the name of the specified object. Read/write.
 

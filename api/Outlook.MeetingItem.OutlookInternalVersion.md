@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.OutlookInternalVersion Property (Outlook)
+title: MeetingItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm1420
 f1_keywords:
 - vbaol11.chm1420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.OutlookInternalVersion Property (Outlook)
+# MeetingItem.OutlookInternalVersion property (Outlook)
 
 Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Results.Class Property (Outlook)
+title: Results.Class property (Outlook)
 keywords: vbaol11.chm499
 f1_keywords:
 - vbaol11.chm499
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.Class Property (Outlook)
+# Results.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

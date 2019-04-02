@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ResetBusinessCard Method (Outlook)
+title: ContactItem.ResetBusinessCard method (Outlook)
 keywords: vbaol11.chm3228
 f1_keywords:
 - vbaol11.chm3228
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ResetBusinessCard Method (Outlook)
+# ContactItem.ResetBusinessCard method (Outlook)
 
 Resets the Electronic Business Card on the contact item to the default business card, deleting any custom layout and logo on the Electronic Business Card.
 

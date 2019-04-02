@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.MouseDown Event (Outlook)
+title: OlkListBox.MouseDown event (Outlook)
 keywords: vbaol11.chm1000282
 f1_keywords:
 - vbaol11.chm1000282
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.MouseDown Event (Outlook)
+# OlkListBox.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 

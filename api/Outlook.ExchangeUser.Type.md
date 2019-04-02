@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Type Property (Outlook)
+title: ExchangeUser.Type property (Outlook)
 keywords: vbaol11.chm2072
 f1_keywords:
 - vbaol11.chm2072
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Type Property (Outlook)
+# ExchangeUser.Type property (Outlook)
 
 Returns a  **String** representing the type of entry for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

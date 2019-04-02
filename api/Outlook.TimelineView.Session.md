@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Session Property (Outlook)
+title: TimelineView.Session property (Outlook)
 keywords: vbaol11.chm2644
 f1_keywords:
 - vbaol11.chm2644
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Session Property (Outlook)
+# TimelineView.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

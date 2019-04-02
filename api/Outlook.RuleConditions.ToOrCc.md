@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.ToOrCc Property (Outlook)
+title: RuleConditions.ToOrCc property (Outlook)
 keywords: vbaol11.chm2309
 f1_keywords:
 - vbaol11.chm2309
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.ToOrCc Property (Outlook)
+# RuleConditions.ToOrCc property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionToOrCc**. Read-only.
 

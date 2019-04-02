@@ -1,5 +1,5 @@
 ---
-title: Views.Count Property (Outlook)
+title: Views.Count property (Outlook)
 keywords: vbaol11.chm545
 f1_keywords:
 - vbaol11.chm545
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Views.Count Property (Outlook)
+# Views.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

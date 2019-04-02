@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddressPostalCode Property (Outlook)
+title: ContactItem.BusinessAddressPostalCode property (Outlook)
 keywords: vbaol11.chm973
 f1_keywords:
 - vbaol11.chm973
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddressPostalCode Property (Outlook)
+# ContactItem.BusinessAddressPostalCode property (Outlook)
 
 Returns or sets a  **String** representing the postal code (zip code) portion of the business address for the contact. Read/write.
 

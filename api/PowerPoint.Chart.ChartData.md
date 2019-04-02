@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartData Property (PowerPoint)
+title: Chart.ChartData property (PowerPoint)
 keywords: vbapp10.chm684011
 f1_keywords:
 - vbapp10.chm684011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartData Property (PowerPoint)
+# Chart.ChartData property (PowerPoint)
 
 Returns information about the linked or embedded data associated with a chart. Read-only  **[ChartData](PowerPoint.ChartData.md)**.
 

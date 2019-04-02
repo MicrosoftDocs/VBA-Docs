@@ -1,5 +1,5 @@
 ---
-title: CalendarModule.Visible Property (Outlook)
+title: CalendarModule.Visible property (Outlook)
 keywords: vbaol11.chm2829
 f1_keywords:
 - vbaol11.chm2829
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarModule.Visible Property (Outlook)
+# CalendarModule.Visible property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether the **[CalendarModule](Outlook.CalendarModule.md)** object is displayed in the navigation pane. Read/write.
 

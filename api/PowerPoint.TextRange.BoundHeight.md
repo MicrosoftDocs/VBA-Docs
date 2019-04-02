@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundHeight Property (PowerPoint)
+title: TextRange.BoundHeight property (PowerPoint)
 keywords: vbapp10.chm569009
 f1_keywords:
 - vbapp10.chm569009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.BoundHeight Property (PowerPoint)
+# TextRange.BoundHeight property (PowerPoint)
 
 Returns the height (in points) of the text bounding box for the specified text frame. Read-only.
 

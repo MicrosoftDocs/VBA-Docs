@@ -1,5 +1,5 @@
 ---
-title: PageSetup.FirstSlideNumber Property (PowerPoint)
+title: PageSetup.FirstSlideNumber property (PowerPoint)
 keywords: vbapp10.chm527003
 f1_keywords:
 - vbapp10.chm527003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.FirstSlideNumber Property (PowerPoint)
+# PageSetup.FirstSlideNumber property (PowerPoint)
 
 Returns or sets the slide number for the first slide in the presentation. Read/write.
 

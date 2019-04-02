@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayGridLines Property (PowerPoint)
+title: Application.DisplayGridLines property (PowerPoint)
 keywords: vbapp10.chm502047
 f1_keywords:
 - vbapp10.chm502047
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayGridLines Property (PowerPoint)
+# Application.DisplayGridLines property (PowerPoint)
 
 Determines whether to display gridlines in Microsoft PowerPoint. Read/write.
 

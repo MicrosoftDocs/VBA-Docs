@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.MouseMove Event (Outlook)
+title: OlkTimeZoneControl.MouseMove event (Outlook)
 keywords: vbaol11.chm1000519
 f1_keywords:
 - vbaol11.chm1000519
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.MouseMove Event (Outlook)
+# OlkTimeZoneControl.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 

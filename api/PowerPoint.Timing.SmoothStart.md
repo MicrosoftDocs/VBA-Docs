@@ -1,5 +1,5 @@
 ---
-title: Timing.SmoothStart Property (PowerPoint)
+title: Timing.SmoothStart property (PowerPoint)
 keywords: vbapp10.chm653013
 f1_keywords:
 - vbapp10.chm653013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Timing.SmoothStart Property (PowerPoint)
+# Timing.SmoothStart property (PowerPoint)
 
 Determines whether an animation should accelerate when it starts. Read/write.
 

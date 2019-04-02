@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ForceUpdateToAllAttendees Property (Outlook)
+title: AppointmentItem.ForceUpdateToAllAttendees property (Outlook)
 keywords: vbaol11.chm3226
 f1_keywords:
 - vbaol11.chm3226
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ForceUpdateToAllAttendees Property (Outlook)
+# AppointmentItem.ForceUpdateToAllAttendees property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether updates to the [AppointmentItem](Outlook.AppointmentItem.md) object should be sent to all attendees. Read/write.
 

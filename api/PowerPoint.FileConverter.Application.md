@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Application Property (PowerPoint)
+title: FileConverter.Application property (PowerPoint)
 keywords: vbapp10.chm680001
 f1_keywords:
 - vbapp10.chm680001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.Application Property (PowerPoint)
+# FileConverter.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application.
 

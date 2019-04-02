@@ -1,5 +1,5 @@
 ---
-title: AxisTitle Object (PowerPoint)
+title: AxisTitle object (PowerPoint)
 keywords: vbapp10.chm683000
 f1_keywords:
 - vbapp10.chm683000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle Object (PowerPoint)
+# AxisTitle object (PowerPoint)
 
 Represents a chart axis title.
 

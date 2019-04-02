@@ -1,5 +1,5 @@
 ---
-title: NavigationPane.Modules Property (Outlook)
+title: NavigationPane.Modules property (Outlook)
 keywords: vbaol11.chm2793
 f1_keywords:
 - vbaol11.chm2793
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationPane.Modules Property (Outlook)
+# NavigationPane.Modules property (Outlook)
 
 Returns a  **[NavigationModules](Outlook.NavigationModules.md)** object that represents the set of navigation modules contained by the navigation pane. Read-only.
 

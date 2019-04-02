@@ -1,5 +1,5 @@
 ---
-title: Account.ExchangeConnectionMode Property (Outlook)
+title: Account.ExchangeConnectionMode property (Outlook)
 keywords: vbaol11.chm3424
 f1_keywords:
 - vbaol11.chm3424
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.ExchangeConnectionMode Property (Outlook)
+# Account.ExchangeConnectionMode property (Outlook)
 
 Returns an  **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** constant that indicates the current connection mode for the Microsoft Exchange Server that hosts the account mailbox. Read-only
 

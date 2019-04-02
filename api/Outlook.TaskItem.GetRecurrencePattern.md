@@ -1,5 +1,5 @@
 ---
-title: TaskItem.GetRecurrencePattern Method (Outlook)
+title: TaskItem.GetRecurrencePattern method (Outlook)
 keywords: vbaol11.chm1752
 f1_keywords:
 - vbaol11.chm1752
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.GetRecurrencePattern Method (Outlook)
+# TaskItem.GetRecurrencePattern method (Outlook)
 
 Returns a  **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that represents the recurrence attributes of a task. If there is no existing recurrence pattern, a new empty **RecurrencePattern** object is returned.
 

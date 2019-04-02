@@ -1,5 +1,5 @@
 ---
-title: Stores.Application Property (Outlook)
+title: Stores.Application property (Outlook)
 keywords: vbaol11.chm814
 f1_keywords:
 - vbaol11.chm814
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Stores.Application Property (Outlook)
+# Stores.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

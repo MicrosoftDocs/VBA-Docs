@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty Object (Outlook)
+title: UserDefinedProperty object (Outlook)
 keywords: vbaol11.chm3151
 f1_keywords:
 - vbaol11.chm3151
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty Object (Outlook)
+# UserDefinedProperty object (Outlook)
 
 Represents the definition of a user-defined property for a **[Folder](Outlook.Folder.md)** object.
 

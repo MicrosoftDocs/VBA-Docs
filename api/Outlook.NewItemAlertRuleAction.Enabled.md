@@ -1,5 +1,5 @@
 ---
-title: NewItemAlertRuleAction.Enabled Property (Outlook)
+title: NewItemAlertRuleAction.Enabled property (Outlook)
 keywords: vbaol11.chm2292
 f1_keywords:
 - vbaol11.chm2292
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NewItemAlertRuleAction.Enabled Property (Outlook)
+# NewItemAlertRuleAction.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule action is enabled. Read/write.
 

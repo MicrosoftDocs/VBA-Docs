@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.MouseMove Event (Outlook)
+title: OlkTextBox.MouseMove event (Outlook)
 keywords: vbaol11.chm1000074
 f1_keywords:
 - vbaol11.chm1000074
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.MouseMove Event (Outlook)
+# OlkTextBox.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 

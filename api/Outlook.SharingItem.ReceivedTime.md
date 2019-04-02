@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReceivedTime Property (Outlook)
+title: SharingItem.ReceivedTime property (Outlook)
 keywords: vbaol11.chm648
 f1_keywords:
 - vbaol11.chm648
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReceivedTime Property (Outlook)
+# SharingItem.ReceivedTime property (Outlook)
 
 Returns a  **Date** indicating the date and time at which the **[SharingItem](Outlook.SharingItem.md)** was received. Read-only.
 

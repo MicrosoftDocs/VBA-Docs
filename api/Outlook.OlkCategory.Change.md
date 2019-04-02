@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.Change Event (Outlook)
+title: OlkCategory.Change event (Outlook)
 keywords: vbaol11.chm1000459
 f1_keywords:
 - vbaol11.chm1000459
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.Change Event (Outlook)
+# OlkCategory.Change event (Outlook)
 
 Occurs when a category selection has changed.
 

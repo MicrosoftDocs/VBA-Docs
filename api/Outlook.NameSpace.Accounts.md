@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Accounts Property (Outlook)
+title: NameSpace.Accounts property (Outlook)
 keywords: vbaol11.chm778
 f1_keywords:
 - vbaol11.chm778
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Accounts Property (Outlook)
+# NameSpace.Accounts property (Outlook)
 
 Returns an  **[Accounts](Outlook.Accounts.md)** collection object that represents all the **[Account](Outlook.Account.md)** objects in the current profile. Read-only.
 

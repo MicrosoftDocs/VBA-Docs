@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.AfterUpdate Event (Outlook)
+title: OlkComboBox.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000247
 f1_keywords:
 - vbaol11.chm1000247
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.AfterUpdate Event (Outlook)
+# OlkComboBox.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 

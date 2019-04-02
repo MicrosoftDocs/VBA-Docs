@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.Name Property (Outlook)
+title: OutlookBarPane.Name property (Outlook)
 keywords: vbaol11.chm365
 f1_keywords:
 - vbaol11.chm365
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarPane.Name Property (Outlook)
+# OutlookBarPane.Name property (Outlook)
 
 Returns a  **String** value that represents the display name for the object. Read-only.
 

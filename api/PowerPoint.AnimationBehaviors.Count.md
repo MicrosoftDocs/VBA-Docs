@@ -1,5 +1,5 @@
 ---
-title: AnimationBehaviors.Count Property (PowerPoint)
+title: AnimationBehaviors.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehaviors.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehaviors.Count Property (PowerPoint)
+# AnimationBehaviors.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Table.Parent Property (PowerPoint)
+title: Table.Parent property (PowerPoint)
 keywords: vbapp10.chm622002
 f1_keywords:
 - vbapp10.chm622002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Parent Property (PowerPoint)
+# Table.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

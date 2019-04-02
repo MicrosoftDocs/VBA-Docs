@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Session Property (Outlook)
+title: ExchangeDistributionList.Session property (Outlook)
 keywords: vbaol11.chm2110
 f1_keywords:
 - vbaol11.chm2110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Session Property (Outlook)
+# ExchangeDistributionList.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

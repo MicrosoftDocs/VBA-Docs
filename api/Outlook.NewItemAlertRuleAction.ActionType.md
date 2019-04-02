@@ -1,5 +1,5 @@
 ---
-title: NewItemAlertRuleAction.ActionType Property (Outlook)
+title: NewItemAlertRuleAction.ActionType property (Outlook)
 keywords: vbaol11.chm2293
 f1_keywords:
 - vbaol11.chm2293
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NewItemAlertRuleAction.ActionType Property (Outlook)
+# NewItemAlertRuleAction.ActionType property (Outlook)
 
 Returns a constant,  **olRuleActionNewItemAlert**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 

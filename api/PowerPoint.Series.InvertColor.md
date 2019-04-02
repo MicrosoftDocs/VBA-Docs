@@ -1,5 +1,5 @@
 ---
-title: Series.InvertColor Property (PowerPoint)
+title: Series.InvertColor property (PowerPoint)
 keywords: vbapp10.chm716007
 f1_keywords:
 - vbapp10.chm716007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.InvertColor Property (PowerPoint)
+# Series.InvertColor property (PowerPoint)
 
 Returns or sets the fill color for negative data points in a series. Read/write.
 

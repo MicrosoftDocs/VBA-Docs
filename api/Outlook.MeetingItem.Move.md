@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Move Method (Outlook)
+title: MeetingItem.Move method (Outlook)
 keywords: vbaol11.chm1432
 f1_keywords:
 - vbaol11.chm1432
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Move Method (Outlook)
+# MeetingItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

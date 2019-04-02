@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.ShowAndReturn Property (PowerPoint)
+title: Hyperlink.ShowAndReturn property (PowerPoint)
 keywords: vbapp10.chm526010
 f1_keywords:
 - vbapp10.chm526010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.ShowAndReturn Property (PowerPoint)
+# Hyperlink.ShowAndReturn property (PowerPoint)
 
 Determines if and under what circumstances Microsoft PowerPoint returns to the initiating slide show. Read/write.
 

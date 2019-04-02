@@ -1,5 +1,5 @@
 ---
-title: JournalItem.AttachmentRemove Event (Outlook)
+title: JournalItem.AttachmentRemove event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.AttachmentRemove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.AttachmentRemove Event (Outlook)
+# JournalItem.AttachmentRemove event (Outlook)
 
 Occurs when an attachment has been removed from an instance of the parent object.
 

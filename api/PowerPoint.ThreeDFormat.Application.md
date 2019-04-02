@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Application Property (PowerPoint)
+title: ThreeDFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Application Property (PowerPoint)
+# ThreeDFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

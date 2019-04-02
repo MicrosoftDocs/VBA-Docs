@@ -1,5 +1,5 @@
 ---
-title: TimeZone.StandardBias Property (Outlook)
+title: TimeZone.StandardBias property (Outlook)
 keywords: vbaol11.chm3286
 f1_keywords:
 - vbaol11.chm3286
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.StandardBias Property (Outlook)
+# TimeZone.StandardBias property (Outlook)
 
 Returns a  **Long** value that represents the time offset in minutes from the **[Bias](Outlook.TimeZone.Bias.md)** to account for standard time in this time zone. Read-only.
 

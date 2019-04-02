@@ -1,5 +1,5 @@
 ---
-title: MailItem.AutoForwarded Property (Outlook)
+title: MailItem.AutoForwarded property (Outlook)
 keywords: vbaol11.chm1329
 f1_keywords:
 - vbaol11.chm1329
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.AutoForwarded Property (Outlook)
+# MailItem.AutoForwarded property (Outlook)
 
 A  **Boolean** value that returns **True** if the item was automatically forwarded. Read/write.
 

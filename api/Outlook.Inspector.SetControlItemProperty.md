@@ -1,5 +1,5 @@
 ---
-title: Inspector.SetControlItemProperty Method (Outlook)
+title: Inspector.SetControlItemProperty method (Outlook)
 keywords: vbaol11.chm2980
 f1_keywords:
 - vbaol11.chm2980
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.SetControlItemProperty Method (Outlook)
+# Inspector.SetControlItemProperty method (Outlook)
 
 Binds a built-in property or custom property to a control in an inspector. 
 

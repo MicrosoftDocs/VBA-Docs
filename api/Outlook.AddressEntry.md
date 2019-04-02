@@ -1,5 +1,5 @@
 ---
-title: AddressEntry Object (Outlook)
+title: AddressEntry object (Outlook)
 keywords: vbaol11.chm2037
 f1_keywords:
 - vbaol11.chm2037
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry Object (Outlook)
+# AddressEntry object (Outlook)
 
 Represents a person, group, or public folder to which the messaging system can deliver messages.
 

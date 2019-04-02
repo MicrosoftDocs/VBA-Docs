@@ -1,5 +1,5 @@
 ---
-title: Selection.Count Property (Outlook)
+title: Selection.Count property (Outlook)
 keywords: vbaol11.chm85
 f1_keywords:
 - vbaol11.chm85
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Count Property (Outlook)
+# Selection.Count property (Outlook)
 
 Returns a  **Long** that indicates the number of items or conversation headers in the selection. Read-only.
 

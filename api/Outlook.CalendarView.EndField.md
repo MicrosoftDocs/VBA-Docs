@@ -1,5 +1,5 @@
 ---
-title: CalendarView.EndField Property (Outlook)
+title: CalendarView.EndField property (Outlook)
 keywords: vbaol11.chm2626
 f1_keywords:
 - vbaol11.chm2626
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.EndField Property (Outlook)
+# CalendarView.EndField property (Outlook)
 
 Returns or sets a  **String** value that represents the name of the property that ends the time duration for Outlook items displayed in the **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Width Property (PowerPoint)
+title: DocumentWindow.Width property (PowerPoint)
 keywords: vbapp10.chm511013
 f1_keywords:
 - vbapp10.chm511013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.Width Property (PowerPoint)
+# DocumentWindow.Width property (PowerPoint)
 
 Returns or sets the width of the specified object, in points. Read/write.
 

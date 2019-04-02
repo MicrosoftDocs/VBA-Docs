@@ -1,5 +1,5 @@
 ---
-title: ContactItem.CompanyLastFirstNoSpace Property (Outlook)
+title: ContactItem.CompanyLastFirstNoSpace property (Outlook)
 keywords: vbaol11.chm984
 f1_keywords:
 - vbaol11.chm984
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.CompanyLastFirstNoSpace Property (Outlook)
+# ContactItem.CompanyLastFirstNoSpace property (Outlook)
 
 Returns a  **String** representing the company name for the contact followed by the concatenated last name, first name, and middle name with no space between the last and first names. Read-only.
 

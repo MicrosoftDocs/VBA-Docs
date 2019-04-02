@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OtherTelephoneNumber Property (Outlook)
+title: ContactItem.OtherTelephoneNumber property (Outlook)
 keywords: vbaol11.chm1057
 f1_keywords:
 - vbaol11.chm1057
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OtherTelephoneNumber Property (Outlook)
+# ContactItem.OtherTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** representing the other telephone number for the contact. Read/write.
 

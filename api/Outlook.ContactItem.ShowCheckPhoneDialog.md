@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ShowCheckPhoneDialog Method (Outlook)
+title: ContactItem.ShowCheckPhoneDialog method (Outlook)
 keywords: vbaol11.chm1097
 f1_keywords:
 - vbaol11.chm1097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ShowCheckPhoneDialog Method (Outlook)
+# ContactItem.ShowCheckPhoneDialog method (Outlook)
 
 Displays the  **Check Phone Number** dialog box for a specified telephone number contained by a **[ContactItem](Outlook.ContactItem.md)** object.
 

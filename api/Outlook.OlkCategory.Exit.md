@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.Exit Event (Outlook)
+title: OlkCategory.Exit event (Outlook)
 keywords: vbaol11.chm1000455
 f1_keywords:
 - vbaol11.chm1000455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.Exit Event (Outlook)
+# OlkCategory.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 

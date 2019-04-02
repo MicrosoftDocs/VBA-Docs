@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.AfterWrite Event (Outlook)
+title: TaskRequestUpdateItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.AfterWrite Event (Outlook)
+# TaskRequestUpdateItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 

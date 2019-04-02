@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.GetConversation Method (Outlook)
+title: TaskRequestAcceptItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3500
 f1_keywords:
 - vbaol11.chm3500
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.GetConversation Method (Outlook)
+# TaskRequestAcceptItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

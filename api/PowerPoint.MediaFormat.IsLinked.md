@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.IsLinked Property (PowerPoint)
+title: MediaFormat.IsLinked property (PowerPoint)
 keywords: vbapp10.chm724016
 f1_keywords:
 - vbapp10.chm724016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.IsLinked Property (PowerPoint)
+# MediaFormat.IsLinked property (PowerPoint)
 
 Returns whether the media file is linked. Read-only.
 

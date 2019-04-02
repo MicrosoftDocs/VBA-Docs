@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Size Property (Outlook)
+title: StorageItem.Size property (Outlook)
 keywords: vbaol11.chm2148
 f1_keywords:
 - vbaol11.chm2148
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Size Property (Outlook)
+# StorageItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the **[StorageItem](Outlook.StorageItem.md)**. Read-only.
 

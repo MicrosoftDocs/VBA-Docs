@@ -1,5 +1,5 @@
 ---
-title: Slide.BackgroundStyle Property (PowerPoint)
+title: Slide.BackgroundStyle property (PowerPoint)
 keywords: vbapp10.chm531038
 f1_keywords:
 - vbapp10.chm531038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.BackgroundStyle Property (PowerPoint)
+# Slide.BackgroundStyle property (PowerPoint)
 
 Sets or returns the background style of the specified object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Update Method (Outlook)
+title: ExchangeUser.Update method (Outlook)
 keywords: vbaol11.chm2076
 f1_keywords:
 - vbaol11.chm2076
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Update Method (Outlook)
+# ExchangeUser.Update method (Outlook)
 
 Posts a change to the  **[ExchangeUser](Outlook.ExchangeUser.md)** object in the messaging system.
 

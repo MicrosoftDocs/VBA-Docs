@@ -1,5 +1,5 @@
 ---
-title: Table.VertBanding Property (PowerPoint)
+title: Table.VertBanding property (PowerPoint)
 keywords: vbapp10.chm622013
 f1_keywords:
 - vbapp10.chm622013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.VertBanding Property (PowerPoint)
+# Table.VertBanding property (PowerPoint)
 
 Determines whether to display banded columns, in which even columns are formatted differently from odd columns. Read/write.
 

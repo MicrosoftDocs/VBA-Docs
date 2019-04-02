@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Language Property (Outlook)
+title: ContactItem.Language property (Outlook)
 keywords: vbaol11.chm1026
 f1_keywords:
 - vbaol11.chm1026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Language Property (Outlook)
+# ContactItem.Language property (Outlook)
 
 Returns or sets a  **String** that represents the language in which the contact writes messages. Read/write.
 

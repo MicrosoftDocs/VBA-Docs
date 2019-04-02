@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.ViewType Property (Outlook)
+title: BusinessCardView.ViewType property (Outlook)
 keywords: vbaol11.chm2931
 f1_keywords:
 - vbaol11.chm2931
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.ViewType Property (Outlook)
+# BusinessCardView.ViewType property (Outlook)
 
 Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that represents the view type of the view. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Items.Restrict Method (Outlook)
+title: Items.Restrict method (Outlook)
 keywords: vbaol11.chm70
 f1_keywords:
 - vbaol11.chm70
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.Restrict Method (Outlook)
+# Items.Restrict method (Outlook)
 
 Applies a filter to the  **[Items](Outlook.Items.md)** collection, returning a new collection containing all of the items from the original that match the filter.
 

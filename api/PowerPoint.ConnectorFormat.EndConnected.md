@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnected Property (PowerPoint)
+title: ConnectorFormat.EndConnected property (PowerPoint)
 keywords: vbapp10.chm555009
 f1_keywords:
 - vbapp10.chm555009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnected Property (PowerPoint)
+# ConnectorFormat.EndConnected property (PowerPoint)
 
 Determines whether the end of the specified connector is connected to a shape. Read-only.
 

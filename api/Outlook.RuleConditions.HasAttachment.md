@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.HasAttachment Property (Outlook)
+title: RuleConditions.HasAttachment property (Outlook)
 keywords: vbaol11.chm2303
 f1_keywords:
 - vbaol11.chm2303
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.HasAttachment Property (Outlook)
+# RuleConditions.HasAttachment property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionHasAttachment**. Read-only.
 

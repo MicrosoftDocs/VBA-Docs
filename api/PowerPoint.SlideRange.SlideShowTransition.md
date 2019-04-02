@@ -1,5 +1,5 @@
 ---
-title: SlideRange.SlideShowTransition Property (PowerPoint)
+title: SlideRange.SlideShowTransition property (PowerPoint)
 keywords: vbapp10.chm532005
 f1_keywords:
 - vbapp10.chm532005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.SlideShowTransition Property (PowerPoint)
+# SlideRange.SlideShowTransition property (PowerPoint)
 
 Returns a  **[SlideShowTransition](PowerPoint.SlideShowTransition.md)** object that represents the special effects for the specified slide transition. Read-only.
 

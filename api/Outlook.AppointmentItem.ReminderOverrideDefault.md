@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ReminderOverrideDefault Property (Outlook)
+title: AppointmentItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm893
 f1_keywords:
 - vbaol11.chm893
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ReminderOverrideDefault Property (Outlook)
+# AppointmentItem.ReminderOverrideDefault property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the item. Read/write.
 

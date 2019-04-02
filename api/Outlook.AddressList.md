@@ -1,5 +1,5 @@
 ---
-title: AddressList Object (Outlook)
+title: AddressList object (Outlook)
 keywords: vbaol11.chm2022
 f1_keywords:
 - vbaol11.chm2022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList Object (Outlook)
+# AddressList object (Outlook)
 
 Represents an address book that contains a set of  **[AddressEntry](Outlook.AddressEntry.md)** objects.
 

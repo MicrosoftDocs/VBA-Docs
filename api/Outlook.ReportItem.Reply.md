@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Reply Event (Outlook)
+title: ReportItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Reply Event (Outlook)
+# ReportItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item (which is an instance of the parent object).
 

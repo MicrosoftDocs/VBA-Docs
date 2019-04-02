@@ -1,5 +1,5 @@
 ---
-title: PostItem.Move Method (Outlook)
+title: PostItem.Move method (Outlook)
 keywords: vbaol11.chm1543
 f1_keywords:
 - vbaol11.chm1543
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Move Method (Outlook)
+# PostItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

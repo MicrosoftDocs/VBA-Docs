@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.CreationTime Property (Outlook)
+title: RemoteItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1594
 f1_keywords:
 - vbaol11.chm1594
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.CreationTime Property (Outlook)
+# RemoteItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 

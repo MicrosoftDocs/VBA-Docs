@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.ReadingOrder Property (PowerPoint)
+title: AxisTitle.ReadingOrder property (PowerPoint)
 keywords: vbapp10.chm683021
 f1_keywords:
 - vbapp10.chm683021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.ReadingOrder Property (PowerPoint)
+# AxisTitle.ReadingOrder property (PowerPoint)
 
 Returns or sets an  **[xlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
 

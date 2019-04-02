@@ -1,5 +1,5 @@
 ---
-title: Results.GetPrevious Method (Outlook)
+title: Results.GetPrevious method (Outlook)
 keywords: vbaol11.chm508
 f1_keywords:
 - vbaol11.chm508
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.GetPrevious Method (Outlook)
+# Results.GetPrevious method (Outlook)
 
 Returns the previous object in the collection. 
 

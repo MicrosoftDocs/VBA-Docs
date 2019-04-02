@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.SenderEmailType Property (Outlook)
+title: MeetingItem.SenderEmailType property (Outlook)
 keywords: vbaol11.chm1470
 f1_keywords:
 - vbaol11.chm1470
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.SenderEmailType Property (Outlook)
+# MeetingItem.SenderEmailType property (Outlook)
 
 Returns a  **String** that represents the type of entry for the email address of the sender of the Outlook item, such as 'SMTP' for Internet address, 'EX' for a Microsoft Exchange server address, etc. Read-only.
 

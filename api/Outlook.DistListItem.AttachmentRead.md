@@ -1,5 +1,5 @@
 ---
-title: DistListItem.AttachmentRead Event (Outlook)
+title: DistListItem.AttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.AttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.AttachmentRead Event (Outlook)
+# DistListItem.AttachmentRead event (Outlook)
 
 Occurs when an attachment in an instance of the parent object has been opened for reading.
 

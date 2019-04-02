@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.KeyDown Event (Outlook)
+title: OlkCheckBox.KeyDown event (Outlook)
 keywords: vbaol11.chm1000156
 f1_keywords:
 - vbaol11.chm1000156
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.KeyDown Event (Outlook)
+# OlkCheckBox.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 

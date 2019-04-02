@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropLeft Property (PowerPoint)
+title: PictureFormat.CropLeft property (PowerPoint)
 keywords: vbapp10.chm551008
 f1_keywords:
 - vbapp10.chm551008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.CropLeft Property (PowerPoint)
+# PictureFormat.CropLeft property (PowerPoint)
 
 Returns or sets the number of points that are cropped off the left side of the specified picture or OLE object. Read/write.
 

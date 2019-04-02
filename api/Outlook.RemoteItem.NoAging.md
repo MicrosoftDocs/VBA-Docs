@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.NoAging Property (Outlook)
+title: RemoteItem.NoAging property (Outlook)
 keywords: vbaol11.chm1603
 f1_keywords:
 - vbaol11.chm1603
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.NoAging Property (Outlook)
+# RemoteItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 

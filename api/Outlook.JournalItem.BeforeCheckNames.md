@@ -1,5 +1,5 @@
 ---
-title: JournalItem.BeforeCheckNames Event (Outlook)
+title: JournalItem.BeforeCheckNames event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeCheckNames
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.BeforeCheckNames Event (Outlook)
+# JournalItem.BeforeCheckNames event (Outlook)
 
 Occurs just before Microsoft Outlook starts resolving names in the recipient collection for an item (which is an instance of the parent object).
 

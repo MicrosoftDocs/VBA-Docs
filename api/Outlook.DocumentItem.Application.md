@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Application Property (Outlook)
+title: DocumentItem.Application property (Outlook)
 keywords: vbaol11.chm1179
 f1_keywords:
 - vbaol11.chm1179
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Application Property (Outlook)
+# DocumentItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

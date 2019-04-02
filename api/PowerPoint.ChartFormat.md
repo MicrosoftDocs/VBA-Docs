@@ -1,5 +1,5 @@
 ---
-title: ChartFormat Object (PowerPoint)
+title: ChartFormat object (PowerPoint)
 keywords: vbapp10.chm691000
 f1_keywords:
 - vbapp10.chm691000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFormat Object (PowerPoint)
+# ChartFormat object (PowerPoint)
 
 Provides access to the OfficeArt formatting for chart elements. 
 

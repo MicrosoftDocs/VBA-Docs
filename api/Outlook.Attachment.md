@@ -1,5 +1,5 @@
 ---
-title: Attachment Object (Outlook)
+title: Attachment object (Outlook)
 keywords: vbaol11.chm2360
 f1_keywords:
 - vbaol11.chm2360
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment Object (Outlook)
+# Attachment object (Outlook)
 
 Represents a document or link to a document contained in an Outlook item.
 

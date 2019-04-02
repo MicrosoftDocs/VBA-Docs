@@ -1,5 +1,5 @@
 ---
-title: Presentations.Count Property (PowerPoint)
+title: Presentations.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentations.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Presentations.Count Property (PowerPoint)
+# Presentations.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

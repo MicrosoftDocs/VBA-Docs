@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.AttachmentRemove Event (Outlook)
+title: TaskRequestAcceptItem.AttachmentRemove event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.AttachmentRemove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.AttachmentRemove Event (Outlook)
+# TaskRequestAcceptItem.AttachmentRemove event (Outlook)
 
 Occurs when an attachment has been removed from an instance of the parent object.
 

@@ -1,5 +1,5 @@
 ---
-title: Inspector.Left Property (Outlook)
+title: Inspector.Left property (Outlook)
 keywords: vbaol11.chm2975
 f1_keywords:
 - vbaol11.chm2975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Left Property (Outlook)
+# Inspector.Left property (Outlook)
 
 Returns or sets a  **Long** specifying the position (in pixels) of the left vertical edge of an inspector window from the edge of the screen. Read/write.
 

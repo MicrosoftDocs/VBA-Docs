@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Parent Property (Outlook)
+title: TaskRequestAcceptItem.Parent property (Outlook)
 keywords: vbaol11.chm1773
 f1_keywords:
 - vbaol11.chm1773
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Parent Property (Outlook)
+# TaskRequestAcceptItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

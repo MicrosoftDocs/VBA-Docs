@@ -1,5 +1,5 @@
 ---
-title: FormRegion.SetControlItemProperty Method (Outlook)
+title: FormRegion.SetControlItemProperty method (Outlook)
 keywords: vbaol11.chm2401
 f1_keywords:
 - vbaol11.chm2401
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.SetControlItemProperty Method (Outlook)
+# FormRegion.SetControlItemProperty method (Outlook)
 
 Binds an explicit built-in property or a custom property to a control in the form region.
 

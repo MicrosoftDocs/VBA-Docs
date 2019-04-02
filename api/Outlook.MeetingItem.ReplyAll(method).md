@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.ReplyAll Method (Outlook)
+title: MeetingItem.ReplyAll method (Outlook)
 keywords: vbaol11.chm1457
 f1_keywords:
 - vbaol11.chm1457
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.ReplyAll Method (Outlook)
+# MeetingItem.ReplyAll method (Outlook)
 
 Creates a reply to all original recipients from the original message.
 

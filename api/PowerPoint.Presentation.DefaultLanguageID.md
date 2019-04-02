@@ -1,5 +1,5 @@
 ---
-title: Presentation.DefaultLanguageID Property (PowerPoint)
+title: Presentation.DefaultLanguageID property (PowerPoint)
 keywords: vbapp10.chm583050
 f1_keywords:
 - vbapp10.chm583050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.DefaultLanguageID Property (PowerPoint)
+# Presentation.DefaultLanguageID property (PowerPoint)
 
 Returns or sets the default language of a presentation. Read/write.
 

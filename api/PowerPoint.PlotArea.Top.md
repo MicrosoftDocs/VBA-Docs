@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Top Property (PowerPoint)
+title: PlotArea.Top property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Top
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.Top Property (PowerPoint)
+# PlotArea.Top property (PowerPoint)
 
 Returns or sets the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read/write  **Double**.
 

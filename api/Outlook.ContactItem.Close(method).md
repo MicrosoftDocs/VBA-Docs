@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Close Method (Outlook)
+title: ContactItem.Close method (Outlook)
 keywords: vbaol11.chm956
 f1_keywords:
 - vbaol11.chm956
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Close Method (Outlook)
+# ContactItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Event (Outlook)
+title: Application.Quit event (Outlook)
 keywords: vbaol11.chm434
 f1_keywords:
 - vbaol11.chm434
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Quit Event (Outlook)
+# Application.Quit event (Outlook)
 
 Occurs when Microsoft Outlook begins to close. 
 

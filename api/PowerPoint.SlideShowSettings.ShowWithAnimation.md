@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.ShowWithAnimation Property (PowerPoint)
+title: SlideShowSettings.ShowWithAnimation property (PowerPoint)
 keywords: vbapp10.chm514012
 f1_keywords:
 - vbapp10.chm514012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.ShowWithAnimation Property (PowerPoint)
+# SlideShowSettings.ShowWithAnimation property (PowerPoint)
 
 Determines whether the specified slide show displays shapes with assigned animation settings. Read/write.
 

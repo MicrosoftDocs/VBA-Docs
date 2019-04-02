@@ -1,5 +1,5 @@
 ---
-title: TasksModule.Session Property (Outlook)
+title: TasksModule.Session property (Outlook)
 keywords: vbaol11.chm2844
 f1_keywords:
 - vbaol11.chm2844
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TasksModule.Session Property (Outlook)
+# TasksModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

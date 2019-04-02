@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Move Method (Outlook)
+title: JournalItem.Move method (Outlook)
 keywords: vbaol11.chm1261
 f1_keywords:
 - vbaol11.chm1261
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Move Method (Outlook)
+# JournalItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

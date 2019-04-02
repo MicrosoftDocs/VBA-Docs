@@ -1,5 +1,5 @@
 ---
-title: SendRuleAction.Parent Property (Outlook)
+title: SendRuleAction.Parent property (Outlook)
 keywords: vbaol11.chm2219
 f1_keywords:
 - vbaol11.chm2219
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SendRuleAction.Parent Property (Outlook)
+# SendRuleAction.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

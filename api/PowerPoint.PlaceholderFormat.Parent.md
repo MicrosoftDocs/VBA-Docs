@@ -1,5 +1,5 @@
 ---
-title: PlaceholderFormat.Parent Property (PowerPoint)
+title: PlaceholderFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm545002
 f1_keywords:
 - vbapp10.chm545002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaceholderFormat.Parent Property (PowerPoint)
+# PlaceholderFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

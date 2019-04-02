@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.BeforeDelete Event (Outlook)
+title: RemoteItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.BeforeDelete Event (Outlook)
+# RemoteItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 

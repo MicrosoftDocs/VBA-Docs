@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Close Method (Outlook)
+title: NoteItem.Close method (Outlook)
 keywords: vbaol11.chm1492
 f1_keywords:
 - vbaol11.chm1492
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Close Method (Outlook)
+# NoteItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 

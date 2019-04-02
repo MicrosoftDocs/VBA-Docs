@@ -1,5 +1,5 @@
 ---
-title: Coauthoring Object (PowerPoint)
+title: Coauthoring object (PowerPoint)
 keywords: vbapp10.chm731000
 f1_keywords:
 - vbapp10.chm731000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Coauthoring Object (PowerPoint)
+# Coauthoring object (PowerPoint)
 
 Contains properties and methods for manipulating co authoring in a presentation.
 

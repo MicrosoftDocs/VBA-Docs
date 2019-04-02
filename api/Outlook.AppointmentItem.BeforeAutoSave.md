@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.BeforeAutoSave Event (Outlook)
+title: AppointmentItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.BeforeAutoSave Event (Outlook)
+# AppointmentItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 

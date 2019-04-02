@@ -1,5 +1,5 @@
 ---
-title: JournalItem.CreationTime Property (Outlook)
+title: JournalItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1239
 f1_keywords:
 - vbaol11.chm1239
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.CreationTime Property (Outlook)
+# JournalItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 

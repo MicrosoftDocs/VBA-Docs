@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.AudioSamplingRate Property (PowerPoint)
+title: MediaFormat.AudioSamplingRate property (PowerPoint)
 keywords: vbapp10.chm724018
 f1_keywords:
 - vbapp10.chm724018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.AudioSamplingRate Property (PowerPoint)
+# MediaFormat.AudioSamplingRate property (PowerPoint)
 
 Returns the audio sampling rate per second for the media. Read-only.
 

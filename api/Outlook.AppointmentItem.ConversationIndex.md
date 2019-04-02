@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ConversationIndex Property (Outlook)
+title: AppointmentItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm848
 f1_keywords:
 - vbaol11.chm848
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ConversationIndex Property (Outlook)
+# AppointmentItem.ConversationIndex property (Outlook)
 
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
 

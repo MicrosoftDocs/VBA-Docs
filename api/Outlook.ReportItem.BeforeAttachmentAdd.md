@@ -1,5 +1,5 @@
 ---
-title: ReportItem.BeforeAttachmentAdd Event (Outlook)
+title: ReportItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BeforeAttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.BeforeAttachmentAdd Event (Outlook)
+# ReportItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 

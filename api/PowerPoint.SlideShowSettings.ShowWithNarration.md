@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.ShowWithNarration Property (PowerPoint)
+title: SlideShowSettings.ShowWithNarration property (PowerPoint)
 keywords: vbapp10.chm514011
 f1_keywords:
 - vbapp10.chm514011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.ShowWithNarration Property (PowerPoint)
+# SlideShowSettings.ShowWithNarration property (PowerPoint)
 
 Determines whether the specified slide show is shown with narration. Read/write.
 

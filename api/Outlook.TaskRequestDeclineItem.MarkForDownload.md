@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.MarkForDownload Property (Outlook)
+title: TaskRequestDeclineItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1862
 f1_keywords:
 - vbaol11.chm1862
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.MarkForDownload Property (Outlook)
+# TaskRequestDeclineItem.MarkForDownload property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 

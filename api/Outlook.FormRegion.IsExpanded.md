@@ -1,5 +1,5 @@
 ---
-title: FormRegion.IsExpanded Property (Outlook)
+title: FormRegion.IsExpanded property (Outlook)
 keywords: vbaol11.chm2389
 f1_keywords:
 - vbaol11.chm2389
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.IsExpanded Property (Outlook)
+# FormRegion.IsExpanded property (Outlook)
 
 Returns a  **Boolean** that indicates if the form region is expanded. Read-only.
 

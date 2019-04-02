@@ -1,5 +1,5 @@
 ---
-title: Reminder.Class Property (Outlook)
+title: Reminder.Class property (Outlook)
 keywords: vbaol11.chm555
 f1_keywords:
 - vbaol11.chm555
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.Class Property (Outlook)
+# Reminder.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

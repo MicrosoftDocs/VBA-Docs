@@ -1,5 +1,5 @@
 ---
-title: Folder.StoreID Property (Outlook)
+title: Folder.StoreID property (Outlook)
 keywords: vbaol11.chm1992
 f1_keywords:
 - vbaol11.chm1992
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.StoreID Property (Outlook)
+# Folder.StoreID property (Outlook)
 
 Returns a  **String** indicating the store ID for the folder. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomerData.Count Property (PowerPoint)
+title: CustomerData.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomerData.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CustomerData.Count Property (PowerPoint)
+# CustomerData.Count property (PowerPoint)
 
 Returns the number of  **[CustomXMLPart](Office.CustomXMLPart.md)** objects in the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
 

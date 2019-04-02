@@ -1,5 +1,5 @@
 ---
-title: Point.Has3DEffect Property (PowerPoint)
+title: Point.Has3DEffect property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Has3DEffect
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Has3DEffect Property (PowerPoint)
+# Point.Has3DEffect property (PowerPoint)
 
  **True** if a point has a three-dimensional appearance. Read/write **Boolean**.
 

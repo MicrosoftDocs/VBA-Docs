@@ -1,5 +1,5 @@
 ---
-title: Inspector.SetCurrentFormPage Method (Outlook)
+title: Inspector.SetCurrentFormPage method (Outlook)
 keywords: vbaol11.chm2969
 f1_keywords:
 - vbaol11.chm2969
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.SetCurrentFormPage Method (Outlook)
+# Inspector.SetCurrentFormPage method (Outlook)
 
 Displays the specified form page or form region in the inspector.
 

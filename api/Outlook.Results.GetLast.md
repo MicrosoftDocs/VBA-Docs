@@ -1,5 +1,5 @@
 ---
-title: Results.GetLast Method (Outlook)
+title: Results.GetLast method (Outlook)
 keywords: vbaol11.chm506
 f1_keywords:
 - vbaol11.chm506
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.GetLast Method (Outlook)
+# Results.GetLast method (Outlook)
 
 Returns the last object in the collection. 
 

@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Recipients Property (Outlook)
+title: TaskItem.Recipients property (Outlook)
 keywords: vbaol11.chm1734
 f1_keywords:
 - vbaol11.chm1734
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Recipients Property (Outlook)
+# TaskItem.Recipients property (Outlook)
 
 Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the Outlook item. Read-only.
 

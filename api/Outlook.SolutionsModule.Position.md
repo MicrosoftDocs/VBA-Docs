@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule.Position Property (Outlook)
+title: SolutionsModule.Position property (Outlook)
 keywords: vbaol11.chm3366
 f1_keywords:
 - vbaol11.chm3366
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SolutionsModule.Position Property (Outlook)
+# SolutionsModule.Position property (Outlook)
 
 Returns or sets a  **Long** value that represents the ordinal position of the **[SolutionsModule](Outlook.SolutionsModule.md)** object when it is displayed in the **Navigation Pane**. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStops Property (PowerPoint)
+title: FillFormat.GradientStops property (PowerPoint)
 keywords: vbapp10.chm552025
 f1_keywords:
 - vbapp10.chm552025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientStops Property (PowerPoint)
+# FillFormat.GradientStops property (PowerPoint)
 
  Returns the **[GradientStops](Office.GradientStops.md)** collection associated with the specified fill format. Read-only.
 

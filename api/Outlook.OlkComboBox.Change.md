@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Change Event (Outlook)
+title: OlkComboBox.Change event (Outlook)
 keywords: vbaol11.chm1000245
 f1_keywords:
 - vbaol11.chm1000245
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Change Event (Outlook)
+# OlkComboBox.Change event (Outlook)
 
 Occurs when the selection in the list displayed by the control changes.
 

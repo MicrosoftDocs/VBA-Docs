@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ShowCategoriesDialog Method (Outlook)
+title: TaskItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1760
 f1_keywords:
 - vbaol11.chm1760
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ShowCategoriesDialog Method (Outlook)
+# TaskItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 

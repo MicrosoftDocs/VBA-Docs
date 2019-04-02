@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.GetProperties Method (Outlook)
+title: PropertyAccessor.GetProperties method (Outlook)
 keywords: vbaol11.chm1972
 f1_keywords:
 - vbaol11.chm1972
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.GetProperties Method (Outlook)
+# PropertyAccessor.GetProperties method (Outlook)
 
 Obtains the values of the properties specified by the one-dimensional array  _SchemaNames_ .
 

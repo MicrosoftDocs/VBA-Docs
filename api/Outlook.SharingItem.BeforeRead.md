@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BeforeRead Event (Outlook)
+title: SharingItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BeforeRead Event (Outlook)
+# SharingItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 

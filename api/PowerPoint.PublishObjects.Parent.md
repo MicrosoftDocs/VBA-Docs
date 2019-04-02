@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Parent Property (PowerPoint)
+title: PublishObjects.Parent property (PowerPoint)
 keywords: vbapp10.chm634002
 f1_keywords:
 - vbapp10.chm634002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PublishObjects.Parent Property (PowerPoint)
+# PublishObjects.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

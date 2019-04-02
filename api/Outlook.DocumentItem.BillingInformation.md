@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.BillingInformation Property (Outlook)
+title: DocumentItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1185
 f1_keywords:
 - vbaol11.chm1185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.BillingInformation Property (Outlook)
+# DocumentItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
 

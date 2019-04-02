@@ -1,5 +1,5 @@
 ---
-title: Column.Width Property (PowerPoint)
+title: Column.Width property (PowerPoint)
 keywords: vbapp10.chm624006
 f1_keywords:
 - vbapp10.chm624006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Width Property (PowerPoint)
+# Column.Width property (PowerPoint)
 
 Returns or sets the width of the specified object, in points. Read/write.
 

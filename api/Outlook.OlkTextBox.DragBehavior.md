@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.DragBehavior Property (Outlook)
+title: OlkTextBox.DragBehavior property (Outlook)
 keywords: vbaol11.chm1000041
 f1_keywords:
 - vbaol11.chm1000041
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.DragBehavior Property (Outlook)
+# OlkTextBox.DragBehavior property (Outlook)
 
 Returns or sets an  **[OlDragBehavior Enumeration](Outlook.OlDragBehavior.md)** constant that indicates whether the system enables the drag-and-drop feature for this control. Read/write.
 

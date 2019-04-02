@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.Session Property (Outlook)
+title: SelectNamesDialog.Session property (Outlook)
 keywords: vbaol11.chm823
 f1_keywords:
 - vbaol11.chm823
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.Session Property (Outlook)
+# SelectNamesDialog.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

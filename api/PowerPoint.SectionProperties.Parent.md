@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.Parent Property (PowerPoint)
+title: SectionProperties.Parent property (PowerPoint)
 keywords: vbapp10.chm725002
 f1_keywords:
 - vbapp10.chm725002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.Parent Property (PowerPoint)
+# SectionProperties.Parent property (PowerPoint)
 
 Returns the parent object for the specified object. Read-only.
 

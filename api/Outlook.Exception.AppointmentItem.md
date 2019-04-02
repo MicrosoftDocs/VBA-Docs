@@ -1,5 +1,5 @@
 ---
-title: Exception.AppointmentItem Property (Outlook)
+title: Exception.AppointmentItem property (Outlook)
 keywords: vbaol11.chm301
 f1_keywords:
 - vbaol11.chm301
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.AppointmentItem Property (Outlook)
+# Exception.AppointmentItem property (Outlook)
 
 Returns the  **[AppointmentItem](Outlook.AppointmentItem.md)** object that is the exception. Not valid for deleted appointments. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: NameSpace.ExchangeMailboxServerName Property (Outlook)
+title: NameSpace.ExchangeMailboxServerName property (Outlook)
 keywords: vbaol11.chm791
 f1_keywords:
 - vbaol11.chm791
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.ExchangeMailboxServerName Property (Outlook)
+# NameSpace.ExchangeMailboxServerName property (Outlook)
 
 Returns a  **String** value that represents the name of the Exchange server that hosts the primary Exchange account mailbox. Read-only.
 

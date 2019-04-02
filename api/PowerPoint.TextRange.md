@@ -1,5 +1,5 @@
 ---
-title: TextRange Object (PowerPoint)
+title: TextRange object (PowerPoint)
 keywords: vbapp10.chm569000
 f1_keywords:
 - vbapp10.chm569000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange Object (PowerPoint)
+# TextRange object (PowerPoint)
 
 Contains the text that's attached to a shape, and properties and methods for manipulating the text.
 

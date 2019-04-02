@@ -1,5 +1,5 @@
 ---
-title: ContactItem.CustomPropertyChange Event (Outlook)
+title: ContactItem.CustomPropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.CustomPropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.CustomPropertyChange Event (Outlook)
+# ContactItem.CustomPropertyChange event (Outlook)
 
 Occurs when a custom property of an item (which is an instance of the parent object) is changed. 
 

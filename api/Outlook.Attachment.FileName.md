@@ -1,5 +1,5 @@
 ---
-title: Attachment.FileName Property (Outlook)
+title: Attachment.FileName property (Outlook)
 keywords: vbaol11.chm2366
 f1_keywords:
 - vbaol11.chm2366
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.FileName Property (Outlook)
+# Attachment.FileName property (Outlook)
 
 Returns a  **String** representing the file name of the attachment. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Obscured Property (PowerPoint)
+title: ShadowFormat.Obscured property (PowerPoint)
 keywords: vbapp10.chm554005
 f1_keywords:
 - vbapp10.chm554005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Obscured Property (PowerPoint)
+# ShadowFormat.Obscured property (PowerPoint)
 
 Determines whether the shadow of the specified shape appears filled in and is obscured by the shape. Read/write.
 

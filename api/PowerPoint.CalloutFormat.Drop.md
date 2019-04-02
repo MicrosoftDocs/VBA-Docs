@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Drop Property (PowerPoint)
+title: CalloutFormat.Drop property (PowerPoint)
 keywords: vbapp10.chm559011
 f1_keywords:
 - vbapp10.chm559011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Drop Property (PowerPoint)
+# CalloutFormat.Drop property (PowerPoint)
 
 For callouts with an explicitly set drop value, this property returns the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. Read-only.
 

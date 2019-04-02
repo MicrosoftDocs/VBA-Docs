@@ -1,5 +1,5 @@
 ---
-title: SlideShowView Object (PowerPoint)
+title: SlideShowView object (PowerPoint)
 keywords: vbapp10.chm513000
 f1_keywords:
 - vbapp10.chm513000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView Object (PowerPoint)
+# SlideShowView object (PowerPoint)
 
 Represents the view in a slide show window.
 

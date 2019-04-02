@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MiddleName Property (Outlook)
+title: ContactItem.MiddleName property (Outlook)
 keywords: vbaol11.chm1042
 f1_keywords:
 - vbaol11.chm1042
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MiddleName Property (Outlook)
+# ContactItem.MiddleName property (Outlook)
 
 Returns or sets a  **String** representing the middle name for the contact. Read/write.
 

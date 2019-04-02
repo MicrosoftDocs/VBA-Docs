@@ -1,5 +1,5 @@
 ---
-title: MailItem.CreationTime Property (Outlook)
+title: MailItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1302
 f1_keywords:
 - vbaol11.chm1302
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.CreationTime Property (Outlook)
+# MailItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 

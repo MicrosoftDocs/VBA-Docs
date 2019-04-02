@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Item Property (Outlook)
+title: FormRegion.Item property (Outlook)
 keywords: vbaol11.chm2393
 f1_keywords:
 - vbaol11.chm2393
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Item Property (Outlook)
+# FormRegion.Item property (Outlook)
 
 Returns an  **Object** corresponding to the Outlook item bound to the form region. Read-only.
 

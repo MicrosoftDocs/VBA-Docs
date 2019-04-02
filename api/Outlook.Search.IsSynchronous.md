@@ -1,5 +1,5 @@
 ---
-title: Search.IsSynchronous Property (Outlook)
+title: Search.IsSynchronous property (Outlook)
 keywords: vbaol11.chm2254
 f1_keywords:
 - vbaol11.chm2254
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.IsSynchronous Property (Outlook)
+# Search.IsSynchronous property (Outlook)
 
 Returns a  **Boolean** indicating whether the search is synchronous. Read-only.
 

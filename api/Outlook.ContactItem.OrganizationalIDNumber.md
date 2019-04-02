@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OrganizationalIDNumber Property (Outlook)
+title: ContactItem.OrganizationalIDNumber property (Outlook)
 keywords: vbaol11.chm1048
 f1_keywords:
 - vbaol11.chm1048
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OrganizationalIDNumber Property (Outlook)
+# ContactItem.OrganizationalIDNumber property (Outlook)
 
 Returns or sets a  **String** representing the organizational ID number for the contact. Read/write.
 

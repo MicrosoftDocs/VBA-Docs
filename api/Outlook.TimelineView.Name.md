@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Name Property (Outlook)
+title: TimelineView.Name property (Outlook)
 keywords: vbaol11.chm2653
 f1_keywords:
 - vbaol11.chm2653
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Name Property (Outlook)
+# TimelineView.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 

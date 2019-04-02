@@ -1,5 +1,5 @@
 ---
-title: Series.PictureUnit2 Property (PowerPoint)
+title: Series.PictureUnit2 property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.PictureUnit2
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.PictureUnit2 Property (PowerPoint)
+# Series.PictureUnit2 property (PowerPoint)
 
 Returns or sets the unit for each picture on the chart if the  **[PictureType](PowerPoint.Series.PictureType.md)** property is set to **xlStackScale**; otherwise, this property is ignored. Read/write **Double**.
 

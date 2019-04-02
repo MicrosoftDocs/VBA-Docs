@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.BeforeUpdate Event (Outlook)
+title: OlkComboBox.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000248
 f1_keywords:
 - vbaol11.chm1000248
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.BeforeUpdate Event (Outlook)
+# OlkComboBox.BeforeUpdate event (Outlook)
 
 Occurs when the data in the control is changed through the user interface and is about to be saved to the item. 
 

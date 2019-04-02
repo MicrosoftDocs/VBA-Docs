@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Unload Event (Outlook)
+title: RemoteItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Unload Event (Outlook)
+# RemoteItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 

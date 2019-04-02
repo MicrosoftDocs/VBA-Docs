@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.Exit Event (Outlook)
+title: OlkCheckBox.Exit event (Outlook)
 keywords: vbaol11.chm1000155
 f1_keywords:
 - vbaol11.chm1000155
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.Exit Event (Outlook)
+# OlkCheckBox.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 

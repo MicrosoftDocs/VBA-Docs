@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.AdvanceOnTime Property (PowerPoint)
+title: SlideShowTransition.AdvanceOnTime property (PowerPoint)
 keywords: vbapp10.chm539004
 f1_keywords:
 - vbapp10.chm539004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition.AdvanceOnTime Property (PowerPoint)
+# SlideShowTransition.AdvanceOnTime property (PowerPoint)
 
 Determines whether the specified slide advances automatically after a specified amount of time has elapsed. Read/write.
 

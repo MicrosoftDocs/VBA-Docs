@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Clear Method (Outlook)
+title: OlkTextBox.Clear method (Outlook)
 keywords: vbaol11.chm1000068
 f1_keywords:
 - vbaol11.chm1000068
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Clear Method (Outlook)
+# OlkTextBox.Clear method (Outlook)
 
 Removes the text in the text box.
 

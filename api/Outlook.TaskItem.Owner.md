@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Owner Property (Outlook)
+title: TaskItem.Owner property (Outlook)
 keywords: vbaol11.chm1731
 f1_keywords:
 - vbaol11.chm1731
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Owner Property (Outlook)
+# TaskItem.Owner property (Outlook)
 
 Returns or sets a  **String** indicating the owner for the task.
 

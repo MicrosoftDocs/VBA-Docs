@@ -1,5 +1,5 @@
 ---
-title: TableBackground Object (PowerPoint)
+title: TableBackground object (PowerPoint)
 keywords: vbapp10.chm677000
 f1_keywords:
 - vbapp10.chm677000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableBackground Object (PowerPoint)
+# TableBackground object (PowerPoint)
 
 Represents the background associated with a  **Table** object.
 

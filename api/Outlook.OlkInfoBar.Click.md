@@ -1,5 +1,5 @@
 ---
-title: OlkInfoBar.Click Event (Outlook)
+title: OlkInfoBar.Click event (Outlook)
 keywords: vbaol11.chm1000299
 f1_keywords:
 - vbaol11.chm1000299
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkInfoBar.Click Event (Outlook)
+# OlkInfoBar.Click event (Outlook)
 
 Occurs when the control is clicked, either through user action or programmatically.
 

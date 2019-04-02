@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.BeforeAttachmentPreview Event (Outlook)
+title: TaskRequestUpdateItem.BeforeAttachmentPreview event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.BeforeAttachmentPreview
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.BeforeAttachmentPreview Event (Outlook)
+# TaskRequestUpdateItem.BeforeAttachmentPreview event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is previewed.
 

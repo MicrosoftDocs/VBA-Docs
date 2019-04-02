@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.KeyUp Event (Outlook)
+title: OlkDateControl.KeyUp event (Outlook)
 keywords: vbaol11.chm1000371
 f1_keywords:
 - vbaol11.chm1000371
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.KeyUp Event (Outlook)
+# OlkDateControl.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 

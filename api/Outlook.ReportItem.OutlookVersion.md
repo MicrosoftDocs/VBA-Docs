@@ -1,5 +1,5 @@
 ---
-title: ReportItem.OutlookVersion Property (Outlook)
+title: ReportItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1657
 f1_keywords:
 - vbaol11.chm1657
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.OutlookVersion Property (Outlook)
+# ReportItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 

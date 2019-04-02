@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Ruler Property (PowerPoint)
+title: TextFrame.Ruler property (PowerPoint)
 keywords: vbapp10.chm558009
 f1_keywords:
 - vbapp10.chm558009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.Ruler Property (PowerPoint)
+# TextFrame.Ruler property (PowerPoint)
 
 Returns a  **[Ruler](PowerPoint.Ruler.md)** object that represents the ruler for the specified text. Read-only.
 

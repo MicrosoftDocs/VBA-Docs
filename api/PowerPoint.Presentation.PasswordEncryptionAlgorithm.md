@@ -1,5 +1,5 @@
 ---
-title: Presentation.PasswordEncryptionAlgorithm Property (PowerPoint)
+title: Presentation.PasswordEncryptionAlgorithm property (PowerPoint)
 keywords: vbapp10.chm583076
 f1_keywords:
 - vbapp10.chm583076
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.PasswordEncryptionAlgorithm Property (PowerPoint)
+# Presentation.PasswordEncryptionAlgorithm property (PowerPoint)
 
 Returns the algorithm Microsoft PowerPoint uses for encrypting documents with passwords. Read-only.
 

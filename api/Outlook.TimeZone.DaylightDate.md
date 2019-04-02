@@ -1,5 +1,5 @@
 ---
-title: TimeZone.DaylightDate Property (Outlook)
+title: TimeZone.DaylightDate property (Outlook)
 keywords: vbaol11.chm3289
 f1_keywords:
 - vbaol11.chm3289
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.DaylightDate Property (Outlook)
+# TimeZone.DaylightDate property (Outlook)
 
 Returns a  **Date** value that represents the date and time in this time zone when time changes over to daylight time in the current year. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Parent Property (PowerPoint)
+title: FileConverter.Parent property (PowerPoint)
 keywords: vbapp10.chm680009
 f1_keywords:
 - vbapp10.chm680009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.Parent Property (PowerPoint)
+# FileConverter.Parent property (PowerPoint)
 
 Returns an  **Object** that represents the parent object of the specified **[FileConverter](PowerPoint.FileConverter.md)** object.
 

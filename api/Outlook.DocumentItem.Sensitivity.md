@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Sensitivity Property (Outlook)
+title: DocumentItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1204
 f1_keywords:
 - vbaol11.chm1204
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Sensitivity Property (Outlook)
+# DocumentItem.Sensitivity property (Outlook)
 
 Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 

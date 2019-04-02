@@ -1,5 +1,5 @@
 ---
-title: MailItem.PermissionService Property (Outlook)
+title: MailItem.PermissionService property (Outlook)
 keywords: vbaol11.chm1387
 f1_keywords:
 - vbaol11.chm1387
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.PermissionService Property (Outlook)
+# MailItem.PermissionService property (Outlook)
 
 Sets or returns an  **[OlPermissionService](Outlook.OlPermissionService.md)** constant that determines the permission service that will be used when sending a message protected by Information Rights Management (IRM). Read/write.
 

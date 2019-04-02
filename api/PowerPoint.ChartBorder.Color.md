@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.Color Property (PowerPoint)
+title: ChartBorder.Color property (PowerPoint)
 keywords: vbapp10.chm685001
 f1_keywords:
 - vbapp10.chm685001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartBorder.Color Property (PowerPoint)
+# ChartBorder.Color property (PowerPoint)
 
 Returns or sets the primary color of the object. Read/write  **Variant**.
 

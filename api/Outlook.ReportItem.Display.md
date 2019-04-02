@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Display Method (Outlook)
+title: ReportItem.Display method (Outlook)
 keywords: vbaol11.chm1667
 f1_keywords:
 - vbaol11.chm1667
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Display Method (Outlook)
+# ReportItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

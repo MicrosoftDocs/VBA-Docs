@@ -1,5 +1,5 @@
 ---
-title: Axis.BaseUnitIsAuto Property (PowerPoint)
+title: Axis.BaseUnitIsAuto property (PowerPoint)
 keywords: vbapp10.chm682034
 f1_keywords:
 - vbapp10.chm682034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.BaseUnitIsAuto Property (PowerPoint)
+# Axis.BaseUnitIsAuto property (PowerPoint)
 
  **True** if Microsoft Word chooses appropriate base units for the specified category axis. The default is **True**. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: View.DisplaySlideMiniature Property (PowerPoint)
+title: View.DisplaySlideMiniature property (PowerPoint)
 keywords: vbapp10.chm512008
 f1_keywords:
 - vbapp10.chm512008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.DisplaySlideMiniature Property (PowerPoint)
+# View.DisplaySlideMiniature property (PowerPoint)
 
 Determines if and when the slide miniature window is displayed automatically. Read/write.
 

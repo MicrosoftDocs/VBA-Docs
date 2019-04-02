@@ -1,5 +1,5 @@
 ---
-title: RemoteItem Object (Outlook)
+title: RemoteItem object (Outlook)
 keywords: vbaol11.chm3006
 f1_keywords:
 - vbaol11.chm3006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem Object (Outlook)
+# RemoteItem object (Outlook)
 
 Represents a remote item in an Inbox folder.
 

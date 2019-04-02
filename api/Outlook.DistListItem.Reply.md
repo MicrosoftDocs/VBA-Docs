@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Reply Event (Outlook)
+title: DistListItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Reply Event (Outlook)
+# DistListItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item (which is an instance of the parent object).
 

@@ -1,5 +1,5 @@
 ---
-title: TableView.MaxLinesInMultiLineView Property (Outlook)
+title: TableView.MaxLinesInMultiLineView property (Outlook)
 keywords: vbaol11.chm2520
 f1_keywords:
 - vbaol11.chm2520
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.MaxLinesInMultiLineView Property (Outlook)
+# TableView.MaxLinesInMultiLineView property (Outlook)
 
 Returns or sets a  **Long** value that determines the maximum number of lines displayed in multiline mode for the **[TableView](Outlook.TableView.md)** object. Read/write.
 

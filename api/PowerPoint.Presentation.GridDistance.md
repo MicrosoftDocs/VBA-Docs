@@ -1,5 +1,5 @@
 ---
-title: Presentation.GridDistance Property (PowerPoint)
+title: Presentation.GridDistance property (PowerPoint)
 keywords: vbapp10.chm583062
 f1_keywords:
 - vbapp10.chm583062
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.GridDistance Property (PowerPoint)
+# Presentation.GridDistance property (PowerPoint)
 
 Sets or returns a  **Single** that represents the distance between gridlines. Read/write.
 

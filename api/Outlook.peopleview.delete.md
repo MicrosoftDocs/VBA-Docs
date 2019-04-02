@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Delete Method (Outlook)
+title: PeopleView.Delete method (Outlook)
 keywords: vbaol11.chm3575
 f1_keywords:
 - vbaol11.chm3575
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Delete Method (Outlook)
+# PeopleView.Delete method (Outlook)
 Deletes this object from the collection of views in the current folder.
 
 ## Version information

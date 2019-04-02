@@ -1,5 +1,5 @@
 ---
-title: NavigationFolder.Folder Property (Outlook)
+title: NavigationFolder.Folder property (Outlook)
 keywords: vbaol11.chm2904
 f1_keywords:
 - vbaol11.chm2904
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolder.Folder Property (Outlook)
+# NavigationFolder.Folder property (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object that represents the shared or linked folder associated with the navigation folder. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Results.ItemChange Event (Outlook)
+title: Results.ItemChange event (Outlook)
 keywords: vbaol11.chm515
 f1_keywords:
 - vbaol11.chm515
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.ItemChange Event (Outlook)
+# Results.ItemChange event (Outlook)
 
 Occurs when an item in the specified collection is changed.
 

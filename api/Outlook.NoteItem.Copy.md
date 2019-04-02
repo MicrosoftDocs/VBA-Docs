@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Copy Method (Outlook)
+title: NoteItem.Copy method (Outlook)
 keywords: vbaol11.chm1493
 f1_keywords:
 - vbaol11.chm1493
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Copy Method (Outlook)
+# NoteItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

@@ -1,5 +1,5 @@
 ---
-title: Store.IsConversationEnabled Property (Outlook)
+title: Store.IsConversationEnabled property (Outlook)
 keywords: vbaol11.chm3518
 f1_keywords:
 - vbaol11.chm3518
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.IsConversationEnabled Property (Outlook)
+# Store.IsConversationEnabled property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the store supports Conversation view. Read-only.
 

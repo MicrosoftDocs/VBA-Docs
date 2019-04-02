@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OfficeLocation Property (Outlook)
+title: ContactItem.OfficeLocation property (Outlook)
 keywords: vbaol11.chm1047
 f1_keywords:
 - vbaol11.chm1047
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OfficeLocation Property (Outlook)
+# ContactItem.OfficeLocation property (Outlook)
 
 Returns or sets a  **String** specifying the specific office location (for example, Building 1 Room 1 or Suite 123) for the contact. Read/write.
 

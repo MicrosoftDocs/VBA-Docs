@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.DeleteProperties Method (Outlook)
+title: PropertyAccessor.DeleteProperties method (Outlook)
 keywords: vbaol11.chm1979
 f1_keywords:
 - vbaol11.chm1979
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.DeleteProperties Method (Outlook)
+# PropertyAccessor.DeleteProperties method (Outlook)
 
 Deletes the properties specified in the array  _SchemaNames_ .
 

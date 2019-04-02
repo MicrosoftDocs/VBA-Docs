@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat Object (PowerPoint)
+title: ConnectorFormat object (PowerPoint)
 keywords: vbapp10.chm555000
 f1_keywords:
 - vbapp10.chm555000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat Object (PowerPoint)
+# ConnectorFormat object (PowerPoint)
 
 Contains properties and methods that apply to connectors. 
 

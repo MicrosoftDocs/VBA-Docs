@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Text Property (PowerPoint)
+title: DataLabel.Text property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Text
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Text Property (PowerPoint)
+# DataLabel.Text property (PowerPoint)
 
 Returns or sets the text for the specified object. Read/write  **String**.
 

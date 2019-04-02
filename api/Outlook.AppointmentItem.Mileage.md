@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Mileage Property (Outlook)
+title: AppointmentItem.Mileage property (Outlook)
 keywords: vbaol11.chm858
 f1_keywords:
 - vbaol11.chm858
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Mileage Property (Outlook)
+# AppointmentItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 

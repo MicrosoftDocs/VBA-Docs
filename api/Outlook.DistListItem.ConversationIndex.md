@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ConversationIndex Property (Outlook)
+title: DistListItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1120
 f1_keywords:
 - vbaol11.chm1120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ConversationIndex Property (Outlook)
+# DistListItem.ConversationIndex property (Outlook)
 
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
 

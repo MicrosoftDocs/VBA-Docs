@@ -1,5 +1,5 @@
 ---
-title: Coauthoring.MergeMode Property (PowerPoint)
+title: Coauthoring.MergeMode property (PowerPoint)
 keywords: vbapp10.chm731003
 f1_keywords:
 - vbapp10.chm731003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Coauthoring.MergeMode Property (PowerPoint)
+# Coauthoring.MergeMode property (PowerPoint)
 
 Returns  **True** if the application is in merge mode. Read-only.
 

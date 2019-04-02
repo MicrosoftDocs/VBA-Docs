@@ -1,5 +1,5 @@
 ---
-title: SharingItem.AllowWriteAccess Property (Outlook)
+title: SharingItem.AllowWriteAccess property (Outlook)
 keywords: vbaol11.chm700
 f1_keywords:
 - vbaol11.chm700
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.AllowWriteAccess Property (Outlook)
+# SharingItem.AllowWriteAccess property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a sharing invitation should include write access to the folder. Read/write.
 

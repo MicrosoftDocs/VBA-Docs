@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ReminderOverrideDefault Property (Outlook)
+title: ContactItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm1104
 f1_keywords:
 - vbaol11.chm1104
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ReminderOverrideDefault Property (Outlook)
+# ContactItem.ReminderOverrideDefault property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the item. Read/write.
 

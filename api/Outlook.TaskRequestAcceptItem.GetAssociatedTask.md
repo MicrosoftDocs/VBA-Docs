@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.GetAssociatedTask Method (Outlook)
+title: TaskRequestAcceptItem.GetAssociatedTask method (Outlook)
 keywords: vbaol11.chm1808
 f1_keywords:
 - vbaol11.chm1808
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.GetAssociatedTask Method (Outlook)
+# TaskRequestAcceptItem.GetAssociatedTask method (Outlook)
 
 Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the requested task.
 

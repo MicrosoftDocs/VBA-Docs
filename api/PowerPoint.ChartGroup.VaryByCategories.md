@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.VaryByCategories Property (PowerPoint)
+title: ChartGroup.VaryByCategories property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.VaryByCategories
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.VaryByCategories Property (PowerPoint)
+# ChartGroup.VaryByCategories property (PowerPoint)
 
  **True** if Microsoft Word assigns a different color or pattern to each data marker. Read/write **Boolean**.
 

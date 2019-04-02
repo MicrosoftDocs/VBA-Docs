@@ -1,5 +1,5 @@
 ---
-title: View.LockUserChanges Property (Outlook)
+title: View.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2490
 f1_keywords:
 - vbaol11.chm2490
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.LockUserChanges Property (Outlook)
+# View.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the current view. Read/write.
 

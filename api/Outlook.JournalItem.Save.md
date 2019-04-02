@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Save Method (Outlook)
+title: JournalItem.Save method (Outlook)
 keywords: vbaol11.chm1263
 f1_keywords:
 - vbaol11.chm1263
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Save Method (Outlook)
+# JournalItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 

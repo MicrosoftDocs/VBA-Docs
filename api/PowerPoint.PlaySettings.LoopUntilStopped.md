@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.LoopUntilStopped Property (PowerPoint)
+title: PlaySettings.LoopUntilStopped property (PowerPoint)
 keywords: vbapp10.chm568005
 f1_keywords:
 - vbapp10.chm568005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySettings.LoopUntilStopped Property (PowerPoint)
+# PlaySettings.LoopUntilStopped property (PowerPoint)
 
 Determines whether the specified movie or sound loops continuously until either the next movie or sound starts, the user clicks the slide, or a slide transition occurs. Read/write.
 

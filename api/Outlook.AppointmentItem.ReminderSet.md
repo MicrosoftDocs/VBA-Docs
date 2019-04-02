@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ReminderSet Property (Outlook)
+title: AppointmentItem.ReminderSet property (Outlook)
 keywords: vbaol11.chm895
 f1_keywords:
 - vbaol11.chm895
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ReminderSet Property (Outlook)
+# AppointmentItem.ReminderSet property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if a reminder has been set for this item. Read/write.
 

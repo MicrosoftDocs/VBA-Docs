@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.SampleHeight Property (PowerPoint)
+title: ResampleMediaTask.SampleHeight property (PowerPoint)
 keywords: vbapp10.chm727006
 f1_keywords:
 - vbapp10.chm727006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.SampleHeight Property (PowerPoint)
+# ResampleMediaTask.SampleHeight property (PowerPoint)
 
 Returns the resolution height of the sample. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem Object (Outlook)
+title: TaskRequestItem object (Outlook)
 keywords: vbaol11.chm3010
 f1_keywords:
 - vbaol11.chm3010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem Object (Outlook)
+# TaskRequestItem object (Outlook)
 
 Represents a change to the recipient's Tasks list initiated by another party or as a result of a group tasking.
 

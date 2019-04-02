@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.AcceleratorsEnabled Property (PowerPoint)
+title: SlideShowView.AcceleratorsEnabled property (PowerPoint)
 keywords: vbapp10.chm513007
 f1_keywords:
 - vbapp10.chm513007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.AcceleratorsEnabled Property (PowerPoint)
+# SlideShowView.AcceleratorsEnabled property (PowerPoint)
 
 Determines whether shortcut keys are enabled during a slide show. Read/write.
 

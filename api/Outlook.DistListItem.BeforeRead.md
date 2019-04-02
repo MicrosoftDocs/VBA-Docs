@@ -1,5 +1,5 @@
 ---
-title: DistListItem.BeforeRead Event (Outlook)
+title: DistListItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.BeforeRead Event (Outlook)
+# DistListItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 

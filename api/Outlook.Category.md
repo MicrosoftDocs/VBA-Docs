@@ -1,5 +1,5 @@
 ---
-title: Category Object (Outlook)
+title: Category object (Outlook)
 keywords: vbaol11.chm3177
 f1_keywords:
 - vbaol11.chm3177
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Category Object (Outlook)
+# Category object (Outlook)
 
 Represents a user-defined category by which Outlook items can be grouped.
 

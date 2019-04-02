@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadStyle Property (PowerPoint)
+title: LineFormat.BeginArrowheadStyle property (PowerPoint)
 keywords: vbapp10.chm553004
 f1_keywords:
 - vbapp10.chm553004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.BeginArrowheadStyle Property (PowerPoint)
+# LineFormat.BeginArrowheadStyle property (PowerPoint)
 
 Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write.
 

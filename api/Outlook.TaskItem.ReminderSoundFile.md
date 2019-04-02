@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ReminderSoundFile Property (Outlook)
+title: TaskItem.ReminderSoundFile property (Outlook)
 keywords: vbaol11.chm1739
 f1_keywords:
 - vbaol11.chm1739
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ReminderSoundFile Property (Outlook)
+# TaskItem.ReminderSoundFile property (Outlook)
 
 Returns or sets a  **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
 

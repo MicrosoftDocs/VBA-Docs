@@ -1,5 +1,5 @@
 ---
-title: Slide.ThemeColorScheme Property (PowerPoint)
+title: Slide.ThemeColorScheme property (PowerPoint)
 keywords: vbapp10.chm531036
 f1_keywords:
 - vbapp10.chm531036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.ThemeColorScheme Property (PowerPoint)
+# Slide.ThemeColorScheme property (PowerPoint)
 
 Returns a  **ThemeColorScheme** object that represents the color scheme associated with the specified slide. Read-only.
 

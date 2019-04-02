@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetCamera Property (PowerPoint)
+title: ThreeDFormat.PresetCamera property (PowerPoint)
 keywords: vbapp10.chm557031
 f1_keywords:
 - vbapp10.chm557031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetCamera Property (PowerPoint)
+# ThreeDFormat.PresetCamera property (PowerPoint)
 
 Returns the effects camera type used by the specified  **ThreeDFormat** object. Read-only.
 

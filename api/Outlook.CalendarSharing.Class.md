@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.Class Property (Outlook)
+title: CalendarSharing.Class property (Outlook)
 keywords: vbaol11.chm2408
 f1_keywords:
 - vbaol11.chm2408
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarSharing.Class Property (Outlook)
+# CalendarSharing.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

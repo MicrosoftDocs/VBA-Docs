@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.GetOwners Method (Outlook)
+title: ExchangeDistributionList.GetOwners method (Outlook)
 keywords: vbaol11.chm2135
 f1_keywords:
 - vbaol11.chm2135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.GetOwners Method (Outlook)
+# ExchangeDistributionList.GetOwners method (Outlook)
 
 Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains all the owners of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**.
 

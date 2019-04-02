@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.MessageHeader Property (Outlook)
+title: RuleConditions.MessageHeader property (Outlook)
 keywords: vbaol11.chm2316
 f1_keywords:
 - vbaol11.chm2316
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.MessageHeader Property (Outlook)
+# RuleConditions.MessageHeader property (Outlook)
 
 Returns a  **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)** of **olConditionMessageHeader**. Read-only.
 

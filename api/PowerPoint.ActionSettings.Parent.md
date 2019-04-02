@@ -1,5 +1,5 @@
 ---
-title: ActionSettings.Parent Property (PowerPoint)
+title: ActionSettings.Parent property (PowerPoint)
 keywords: vbapp10.chm566002
 f1_keywords:
 - vbapp10.chm566002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ActionSettings.Parent Property (PowerPoint)
+# ActionSettings.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

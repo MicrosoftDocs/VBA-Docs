@@ -1,5 +1,5 @@
 ---
-title: ContactItem.LastFirstNoSpaceAndSuffix Property (Outlook)
+title: ContactItem.LastFirstNoSpaceAndSuffix property (Outlook)
 keywords: vbaol11.chm1082
 f1_keywords:
 - vbaol11.chm1082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.LastFirstNoSpaceAndSuffix Property (Outlook)
+# ContactItem.LastFirstNoSpaceAndSuffix property (Outlook)
 
 Returns a  **String** that contains the last name, first name, and suffix of the user without a space. Read-only
 

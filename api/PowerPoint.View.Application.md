@@ -1,5 +1,5 @@
 ---
-title: View.Application Property (PowerPoint)
+title: View.Application property (PowerPoint)
 keywords: vbapp10.chm512001
 f1_keywords:
 - vbapp10.chm512001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Application Property (PowerPoint)
+# View.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

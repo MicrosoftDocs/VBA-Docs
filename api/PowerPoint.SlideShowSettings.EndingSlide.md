@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.EndingSlide Property (PowerPoint)
+title: SlideShowSettings.EndingSlide property (PowerPoint)
 keywords: vbapp10.chm514006
 f1_keywords:
 - vbapp10.chm514006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.EndingSlide Property (PowerPoint)
+# SlideShowSettings.EndingSlide property (PowerPoint)
 
 Returns or sets the last slide to be displayed in the specified slide show. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Action.MessageClass Property (Outlook)
+title: Action.MessageClass property (Outlook)
 keywords: vbaol11.chm16
 f1_keywords:
 - vbaol11.chm16
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action.MessageClass Property (Outlook)
+# Action.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the **[Action](Outlook.Action.md)**. Read/write.
 

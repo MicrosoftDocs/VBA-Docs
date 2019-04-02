@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Open Event (Outlook)
+title: MeetingItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Open Event (Outlook)
+# MeetingItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 

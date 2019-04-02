@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.MobileTelephoneNumber Property (Outlook)
+title: ExchangeUser.MobileTelephoneNumber property (Outlook)
 keywords: vbaol11.chm2095
 f1_keywords:
 - vbaol11.chm2095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.MobileTelephoneNumber Property (Outlook)
+# ExchangeUser.MobileTelephoneNumber property (Outlook)
 
 Returns a  **String** representing the mobile telephone number for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Trendline.Parent Property (PowerPoint)
+title: Trendline.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Parent Property (PowerPoint)
+# Trendline.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

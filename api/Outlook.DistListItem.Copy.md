@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Copy Method (Outlook)
+title: DistListItem.Copy method (Outlook)
 keywords: vbaol11.chm1141
 f1_keywords:
 - vbaol11.chm1141
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Copy Method (Outlook)
+# DistListItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

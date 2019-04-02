@@ -1,5 +1,5 @@
 ---
-title: Options.ShowCoauthoringMergeChanges Property (PowerPoint)
+title: Options.ShowCoauthoringMergeChanges property (PowerPoint)
 keywords: vbapp10.chm667003
 f1_keywords:
 - vbapp10.chm667003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.ShowCoauthoringMergeChanges Property (PowerPoint)
+# Options.ShowCoauthoringMergeChanges property (PowerPoint)
 
 Returns or sets the show changes mode. Read/write.
 

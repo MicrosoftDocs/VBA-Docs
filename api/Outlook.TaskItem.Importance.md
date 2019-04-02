@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Importance Property (Outlook)
+title: TaskItem.Importance property (Outlook)
 keywords: vbaol11.chm1698
 f1_keywords:
 - vbaol11.chm1698
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Importance Property (Outlook)
+# TaskItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 

@@ -25,6 +25,6 @@ Indicates the reference type.
 
 ## Remarks
 
-Used as a parameter to the [Application.GetObjectReference Method (Outlook)](Outlook.Application.GetObjectReference.md).
+Used as a parameter to the [Application.GetObjectReference method (Outlook)](Outlook.Application.GetObjectReference.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

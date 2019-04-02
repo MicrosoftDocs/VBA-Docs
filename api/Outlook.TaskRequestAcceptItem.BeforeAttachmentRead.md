@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.BeforeAttachmentRead Event (Outlook)
+title: TaskRequestAcceptItem.BeforeAttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.BeforeAttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.BeforeAttachmentRead Event (Outlook)
+# TaskRequestAcceptItem.BeforeAttachmentRead event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 

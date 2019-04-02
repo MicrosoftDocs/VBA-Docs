@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Application Property (Outlook)
+title: BusinessCardView.Application property (Outlook)
 keywords: vbaol11.chm2917
 f1_keywords:
 - vbaol11.chm2917
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Application Property (Outlook)
+# BusinessCardView.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.EntryID Property (Outlook)
+title: RemoteItem.EntryID property (Outlook)
 keywords: vbaol11.chm1595
 f1_keywords:
 - vbaol11.chm1595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.EntryID Property (Outlook)
+# RemoteItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 

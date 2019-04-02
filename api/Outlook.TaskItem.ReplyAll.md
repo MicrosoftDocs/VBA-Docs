@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ReplyAll Event (Outlook)
+title: TaskItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ReplyAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ReplyAll Event (Outlook)
+# TaskItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).
 

@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.Font Property (Outlook)
+title: OlkDateControl.Font property (Outlook)
 keywords: vbaol11.chm1000349
 f1_keywords:
 - vbaol11.chm1000349
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.Font Property (Outlook)
+# OlkDateControl.Font property (Outlook)
 
 Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
 

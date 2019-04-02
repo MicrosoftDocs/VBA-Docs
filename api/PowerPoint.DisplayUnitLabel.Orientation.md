@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Orientation Property (PowerPoint)
+title: DisplayUnitLabel.Orientation property (PowerPoint)
 keywords: vbapp10.chm699006
 f1_keywords:
 - vbapp10.chm699006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Orientation Property (PowerPoint)
+# DisplayUnitLabel.Orientation property (PowerPoint)
 
 Returns or sets the text orientation. Read/write  **Long**.
 

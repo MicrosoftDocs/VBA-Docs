@@ -1,5 +1,5 @@
 ---
-title: TimeLine.MainSequence Property (PowerPoint)
+title: TimeLine.MainSequence property (PowerPoint)
 keywords: vbapp10.chm649003
 f1_keywords:
 - vbapp10.chm649003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeLine.MainSequence Property (PowerPoint)
+# TimeLine.MainSequence property (PowerPoint)
 
 Returns a  **[Sequence](PowerPoint.Sequence.md)** object that represents the collection of **[Effect](PowerPoint.Effect.md)** objects in the main animation sequence of a slide.
 

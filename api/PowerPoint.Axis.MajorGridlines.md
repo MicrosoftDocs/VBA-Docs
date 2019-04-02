@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorGridlines Property (PowerPoint)
+title: Axis.MajorGridlines property (PowerPoint)
 keywords: vbapp10.chm682011
 f1_keywords:
 - vbapp10.chm682011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.MajorGridlines Property (PowerPoint)
+# Axis.MajorGridlines property (PowerPoint)
 
 Returns the major gridlines for the specified axis. Read-only  **[Gridlines](PowerPoint.GridLines.md)**.
 

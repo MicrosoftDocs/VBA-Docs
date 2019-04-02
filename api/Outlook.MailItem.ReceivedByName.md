@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReceivedByName Property (Outlook)
+title: MailItem.ReceivedByName property (Outlook)
 keywords: vbaol11.chm1342
 f1_keywords:
 - vbaol11.chm1342
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ReceivedByName Property (Outlook)
+# MailItem.ReceivedByName property (Outlook)
 
 Returns a  **String** representing the display name of the true recipient for the mail message. Read-only.
 

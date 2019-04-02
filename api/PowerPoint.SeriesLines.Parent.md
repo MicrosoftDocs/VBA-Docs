@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Parent Property (PowerPoint)
+title: SeriesLines.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesLines.Parent Property (PowerPoint)
+# SeriesLines.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.ForwardAsICal Method (Outlook)
+title: CalendarSharing.ForwardAsICal method (Outlook)
 keywords: vbaol11.chm2412
 f1_keywords:
 - vbaol11.chm2412
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarSharing.ForwardAsICal Method (Outlook)
+# CalendarSharing.ForwardAsICal method (Outlook)
 
 Forwards calendar information from the parent  **[Folder](Outlook.Folder.md)** of the **[CalendarSharing](Outlook.CalendarSharing.md)** object as the payload of a **[MailItem](Outlook.MailItem.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: AddIn.Application Property (PowerPoint)
+title: AddIn.Application property (PowerPoint)
 keywords: vbapp10.chm521001
 f1_keywords:
 - vbapp10.chm521001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIn.Application Property (PowerPoint)
+# AddIn.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

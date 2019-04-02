@@ -1,5 +1,5 @@
 ---
-title: Folder Object (Outlook)
+title: Folder object (Outlook)
 keywords: vbaol11.chm3020
 f1_keywords:
 - vbaol11.chm3020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder Object (Outlook)
+# Folder object (Outlook)
 
 Represents an Outlook folder.
 

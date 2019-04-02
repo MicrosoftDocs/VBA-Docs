@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Border Property (PowerPoint)
+title: SeriesLines.Border property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Border
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesLines.Border Property (PowerPoint)
+# SeriesLines.Border property (PowerPoint)
 
 Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBorder.md)**.
 

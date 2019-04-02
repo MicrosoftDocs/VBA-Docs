@@ -1,5 +1,5 @@
 ---
-title: Shape.HasSmartArt Property (PowerPoint)
+title: Shape.HasSmartArt property (PowerPoint)
 keywords: vbapp10.chm547085
 f1_keywords:
 - vbapp10.chm547085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.HasSmartArt Property (PowerPoint)
+# Shape.HasSmartArt property (PowerPoint)
 
 Returns  **True** if the current **Shape** object contains a SmartArt diagram. Read-only.
 

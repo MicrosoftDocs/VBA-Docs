@@ -1,5 +1,5 @@
 ---
-title: ReportItem.ReadComplete Event (Outlook)
+title: ReportItem.ReadComplete event (Outlook)
 ms.assetid: f73cb164-0c88-f439-6474-a4502b6731ea
 ms.date: 06/08/2017
 ms.prod: outlook
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.ReadComplete Event (Outlook)
+# ReportItem.ReadComplete event (Outlook)
 Occurs when Outlook has completed reading the properties of the item.
 
 ## Version information

@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.UnRead Property (Outlook)
+title: AppointmentItem.UnRead property (Outlook)
 keywords: vbaol11.chm866
 f1_keywords:
 - vbaol11.chm866
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.UnRead Property (Outlook)
+# AppointmentItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 

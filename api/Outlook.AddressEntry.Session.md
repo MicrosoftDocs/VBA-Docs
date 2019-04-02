@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Session Property (Outlook)
+title: AddressEntry.Session property (Outlook)
 keywords: vbaol11.chm2040
 f1_keywords:
 - vbaol11.chm2040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.Session Property (Outlook)
+# AddressEntry.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

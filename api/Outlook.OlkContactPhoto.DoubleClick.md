@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.DoubleClick Event (Outlook)
+title: OlkContactPhoto.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000312
 f1_keywords:
 - vbaol11.chm1000312
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.DoubleClick Event (Outlook)
+# OlkContactPhoto.DoubleClick event (Outlook)
 
 Occurs when the control is double-clicked through user action or programmatically.
 

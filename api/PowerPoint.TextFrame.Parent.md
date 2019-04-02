@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Parent Property (PowerPoint)
+title: TextFrame.Parent property (PowerPoint)
 keywords: vbapp10.chm558001
 f1_keywords:
 - vbapp10.chm558001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.Parent Property (PowerPoint)
+# TextFrame.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

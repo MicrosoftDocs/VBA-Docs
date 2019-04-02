@@ -1,5 +1,5 @@
 ---
-title: IconView.XML Property (Outlook)
+title: IconView.XML property (Outlook)
 keywords: vbaol11.chm2572
 f1_keywords:
 - vbaol11.chm2572
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.XML Property (Outlook)
+# IconView.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
 

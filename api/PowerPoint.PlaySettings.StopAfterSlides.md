@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.StopAfterSlides Property (PowerPoint)
+title: PlaySettings.StopAfterSlides property (PowerPoint)
 keywords: vbapp10.chm568009
 f1_keywords:
 - vbapp10.chm568009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySettings.StopAfterSlides Property (PowerPoint)
+# PlaySettings.StopAfterSlides property (PowerPoint)
 
 Returns or sets the number of slides to be displayed before the media clip stops playing. Read/write.
 

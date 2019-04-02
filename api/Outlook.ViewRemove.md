@@ -1,5 +1,5 @@
 ---
-title: Views.ViewRemove Event (Outlook)
+title: Views.ViewRemove event (Outlook)
 keywords: vbaol11.chm552
 f1_keywords:
 - vbaol11.chm552
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Views.ViewRemove Event (Outlook)
+# Views.ViewRemove event (Outlook)
 
 Occurs when a view has been removed from the specified collection.
 

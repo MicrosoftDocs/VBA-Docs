@@ -1,5 +1,5 @@
 ---
-title: Explorer.ClearSearch Method (Outlook)
+title: Explorer.ClearSearch method (Outlook)
 keywords: vbaol11.chm2783
 f1_keywords:
 - vbaol11.chm2783
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.ClearSearch Method (Outlook)
+# Explorer.ClearSearch method (Outlook)
 
 Clears results from a Microsoft Instant Search in an  **[Explorer](Outlook.Explorer.md)** if results are displayed in the **Explorer**.
 

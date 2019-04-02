@@ -1,5 +1,5 @@
 ---
-title: AddressList.Class Property (Outlook)
+title: AddressList.Class property (Outlook)
 keywords: vbaol11.chm2024
 f1_keywords:
 - vbaol11.chm2024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.Class Property (Outlook)
+# AddressList.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

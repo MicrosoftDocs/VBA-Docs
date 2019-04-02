@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Close Event (Outlook)
+title: RemoteItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Close Event (Outlook)
+# RemoteItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 

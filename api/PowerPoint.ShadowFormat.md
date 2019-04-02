@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat Object (PowerPoint)
+title: ShadowFormat object (PowerPoint)
 keywords: vbapp10.chm554000
 f1_keywords:
 - vbapp10.chm554000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat Object (PowerPoint)
+# ShadowFormat object (PowerPoint)
 
 Represents shadow formatting for a shape.
 

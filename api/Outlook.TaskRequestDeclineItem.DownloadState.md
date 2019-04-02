@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.DownloadState Property (Outlook)
+title: TaskRequestDeclineItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1859
 f1_keywords:
 - vbaol11.chm1859
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.DownloadState Property (Outlook)
+# TaskRequestDeclineItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 

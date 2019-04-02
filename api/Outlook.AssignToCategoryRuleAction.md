@@ -1,5 +1,5 @@
 ---
-title: AssignToCategoryRuleAction Object (Outlook)
+title: AssignToCategoryRuleAction object (Outlook)
 keywords: vbaol11.chm3168
 f1_keywords:
 - vbaol11.chm3168
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AssignToCategoryRuleAction Object (Outlook)
+# AssignToCategoryRuleAction object (Outlook)
 
 Represents an action that assigns categories to a message.
 

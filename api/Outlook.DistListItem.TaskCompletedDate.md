@@ -1,5 +1,5 @@
 ---
-title: DistListItem.TaskCompletedDate Property (Outlook)
+title: DistListItem.TaskCompletedDate property (Outlook)
 keywords: vbaol11.chm1171
 f1_keywords:
 - vbaol11.chm1171
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.TaskCompletedDate Property (Outlook)
+# DistListItem.TaskCompletedDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the completion date of the task for this **[DistListItem](Outlook.DistListItem.md)**. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: CardView.Apply Method (Outlook)
+title: CardView.Apply method (Outlook)
 keywords: vbaol11.chm2583
 f1_keywords:
 - vbaol11.chm2583
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Apply Method (Outlook)
+# CardView.Apply method (Outlook)
 
 Applies the  **[CardView](Outlook.CardView.md)** object to the current view.
 

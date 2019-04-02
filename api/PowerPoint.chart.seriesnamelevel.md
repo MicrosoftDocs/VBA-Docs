@@ -1,5 +1,5 @@
 ---
-title: Chart.SeriesNameLevel Property (PowerPoint)
+title: Chart.SeriesNameLevel property (PowerPoint)
 keywords: vbapp10.chm684058
 f1_keywords:
 - vbapp10.chm684058
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.SeriesNameLevel Property (PowerPoint)
+# Chart.SeriesNameLevel property (PowerPoint)
 
 Returns or sets an [XlSeriesNameLevel](./Word.xlseriesnamelevel.md) constant that specifies the source level of the series names. Read-write.
 

@@ -1,5 +1,5 @@
 ---
-title: Axes.Parent Property (PowerPoint)
+title: Axes.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Axes.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Axes.Parent Property (PowerPoint)
+# Axes.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

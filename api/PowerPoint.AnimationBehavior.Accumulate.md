@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.Accumulate Property (PowerPoint)
+title: AnimationBehavior.Accumulate property (PowerPoint)
 keywords: vbapp10.chm657004
 f1_keywords:
 - vbapp10.chm657004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.Accumulate Property (PowerPoint)
+# AnimationBehavior.Accumulate property (PowerPoint)
 
 Determines whether animation behaviors accumulate. Read/write.
 

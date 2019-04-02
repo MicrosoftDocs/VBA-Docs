@@ -1,5 +1,5 @@
 ---
-title: ReportItem Object (Outlook)
+title: ReportItem object (Outlook)
 keywords: vbaol11.chm3007
 f1_keywords:
 - vbaol11.chm3007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem Object (Outlook)
+# ReportItem object (Outlook)
 
 Represents a mail-delivery report in an Inbox folder. 
 

@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Parent Property (Outlook)
+title: CalendarView.Parent property (Outlook)
 keywords: vbaol11.chm2610
 f1_keywords:
 - vbaol11.chm2610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Parent Property (Outlook)
+# CalendarView.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

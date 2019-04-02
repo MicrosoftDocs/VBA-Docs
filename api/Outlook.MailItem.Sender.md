@@ -1,5 +1,5 @@
 ---
-title: MailItem.Sender Property (Outlook)
+title: MailItem.Sender property (Outlook)
 keywords: vbaol11.chm3488
 f1_keywords:
 - vbaol11.chm3488
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Sender Property (Outlook)
+# MailItem.Sender property (Outlook)
 
 Returns or sets an [AddressEntry](Outlook.AddressEntry.md) object that corresponds to the user of the account from which the [MailItem](Outlook.MailItem.md) is sent. Read/write.
 

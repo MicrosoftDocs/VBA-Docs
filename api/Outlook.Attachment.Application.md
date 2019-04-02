@@ -1,5 +1,5 @@
 ---
-title: Attachment.Application Property (Outlook)
+title: Attachment.Application property (Outlook)
 keywords: vbaol11.chm2361
 f1_keywords:
 - vbaol11.chm2361
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.Application Property (Outlook)
+# Attachment.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

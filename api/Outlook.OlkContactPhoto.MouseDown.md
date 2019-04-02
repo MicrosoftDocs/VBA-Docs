@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.MouseDown Event (Outlook)
+title: OlkContactPhoto.MouseDown event (Outlook)
 keywords: vbaol11.chm1000313
 f1_keywords:
 - vbaol11.chm1000313
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.MouseDown Event (Outlook)
+# OlkContactPhoto.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 

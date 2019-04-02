@@ -1,5 +1,5 @@
 ---
-title: CalendarModule Object (Outlook)
+title: CalendarModule object (Outlook)
 keywords: vbaol11.chm3194
 f1_keywords:
 - vbaol11.chm3194
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarModule Object (Outlook)
+# CalendarModule object (Outlook)
 
 Represents the  **Calendar** navigation module in the navigation pane of an explorer.
 

@@ -1,5 +1,5 @@
 ---
-title: Views.Class Property (Outlook)
+title: Views.Class property (Outlook)
 keywords: vbaol11.chm542
 f1_keywords:
 - vbaol11.chm542
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Views.Class Property (Outlook)
+# Views.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

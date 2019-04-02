@@ -1,5 +1,5 @@
 ---
-title: SyncObjects.Parent Property (Outlook)
+title: SyncObjects.Parent property (Outlook)
 keywords: vbaol11.chm98
 f1_keywords:
 - vbaol11.chm98
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObjects.Parent Property (Outlook)
+# SyncObjects.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

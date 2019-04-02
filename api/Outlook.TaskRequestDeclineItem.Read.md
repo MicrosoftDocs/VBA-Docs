@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Read Event (Outlook)
+title: TaskRequestDeclineItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Read Event (Outlook)
+# TaskRequestDeclineItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 

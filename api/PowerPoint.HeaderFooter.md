@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter Object (PowerPoint)
+title: HeaderFooter object (PowerPoint)
 keywords: vbapp10.chm582000
 f1_keywords:
 - vbapp10.chm582000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeaderFooter Object (PowerPoint)
+# HeaderFooter object (PowerPoint)
 
 Represents a header, footer, date and time, slide number, or page number on a slide or master. All the  **HeaderFooter** objects for a slide or master are contained in a **[HeadersFooters](PowerPoint.HeadersFooters.md)** object.
 

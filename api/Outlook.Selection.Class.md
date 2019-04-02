@@ -1,5 +1,5 @@
 ---
-title: Selection.Class Property (Outlook)
+title: Selection.Class property (Outlook)
 keywords: vbaol11.chm82
 f1_keywords:
 - vbaol11.chm82
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Class Property (Outlook)
+# Selection.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

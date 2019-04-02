@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.PropertyAccessor Property (Outlook)
+title: RemoteItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1632
 f1_keywords:
 - vbaol11.chm1632
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.PropertyAccessor Property (Outlook)
+# RemoteItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[RemoteItem](Outlook.RemoteItem.md)** object. Read-only.
 

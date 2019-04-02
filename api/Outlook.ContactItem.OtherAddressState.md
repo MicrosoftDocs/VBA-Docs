@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OtherAddressState Property (Outlook)
+title: ContactItem.OtherAddressState property (Outlook)
 keywords: vbaol11.chm1054
 f1_keywords:
 - vbaol11.chm1054
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OtherAddressState Property (Outlook)
+# ContactItem.OtherAddressState property (Outlook)
 
 Returns or sets a  **String** representing the state portion of the other address for the contact. Read/write.
 

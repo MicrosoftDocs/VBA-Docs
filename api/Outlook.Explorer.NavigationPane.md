@@ -1,5 +1,5 @@
 ---
-title: Explorer.NavigationPane Property (Outlook)
+title: Explorer.NavigationPane property (Outlook)
 keywords: vbaol11.chm2782
 f1_keywords:
 - vbaol11.chm2782
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.NavigationPane Property (Outlook)
+# Explorer.NavigationPane property (Outlook)
 
 Returns a  **[NavigationPane](Outlook.NavigationPane.md)** object that represents the navigation pane for an **[Explorer](Outlook.Explorer.md)** object. Read-only.
 

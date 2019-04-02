@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.SourceFullName Property (PowerPoint)
+title: LinkFormat.SourceFullName property (PowerPoint)
 keywords: vbapp10.chm563003
 f1_keywords:
 - vbapp10.chm563003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LinkFormat.SourceFullName Property (PowerPoint)
+# LinkFormat.SourceFullName property (PowerPoint)
 
 Returns or sets the name and path of the source file for the linked OLE object. Read/write.
 

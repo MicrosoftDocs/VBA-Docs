@@ -1,5 +1,5 @@
 ---
-title: JournalItem.AfterWrite Event (Outlook)
+title: JournalItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.AfterWrite Event (Outlook)
+# JournalItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 

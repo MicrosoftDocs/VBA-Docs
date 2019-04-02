@@ -1,5 +1,5 @@
 ---
-title: Broadcast.SessionID Property (PowerPoint)
+title: Broadcast.SessionID property (PowerPoint)
 keywords: vbapp10.chm732012
 f1_keywords:
 - vbapp10.chm732012
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.SessionID Property (PowerPoint)
+# Broadcast.SessionID property (PowerPoint)
 
 If a broadcast is in progress, returns a  **String** that specifies the ID of the session. Read-only.
 

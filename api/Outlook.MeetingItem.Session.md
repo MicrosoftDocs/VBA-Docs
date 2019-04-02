@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Session Property (Outlook)
+title: MeetingItem.Session property (Outlook)
 keywords: vbaol11.chm1400
 f1_keywords:
 - vbaol11.chm1400
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Session Property (Outlook)
+# MeetingItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

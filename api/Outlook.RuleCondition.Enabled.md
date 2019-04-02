@@ -1,5 +1,5 @@
 ---
-title: RuleCondition.Enabled Property (Outlook)
+title: RuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2329
 f1_keywords:
 - vbaol11.chm2329
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleCondition.Enabled Property (Outlook)
+# RuleCondition.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the **[RuleCondition](Outlook.RuleCondition.md)** is enabled. Read/write.
 

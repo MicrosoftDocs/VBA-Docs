@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.AudioCompressionType Property (PowerPoint)
+title: MediaFormat.AudioCompressionType property (PowerPoint)
 keywords: vbapp10.chm724023
 f1_keywords:
 - vbapp10.chm724023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.AudioCompressionType Property (PowerPoint)
+# MediaFormat.AudioCompressionType property (PowerPoint)
 
 Returns the audio compression format. Read-only.
 

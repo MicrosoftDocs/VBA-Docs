@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes Object (PowerPoint)
+title: ColorSchemes object (PowerPoint)
 keywords: vbapp10.chm536000
 f1_keywords:
 - vbapp10.chm536000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorSchemes Object (PowerPoint)
+# ColorSchemes object (PowerPoint)
 
 A collection of all the  **[ColorScheme](PowerPoint.ColorScheme.md)** objects in the specified presentation. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used together on a slide.
 

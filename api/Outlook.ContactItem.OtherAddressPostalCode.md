@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OtherAddressPostalCode Property (Outlook)
+title: ContactItem.OtherAddressPostalCode property (Outlook)
 keywords: vbaol11.chm1052
 f1_keywords:
 - vbaol11.chm1052
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OtherAddressPostalCode Property (Outlook)
+# ContactItem.OtherAddressPostalCode property (Outlook)
 
 Returns or sets a  **String** representing the postal code portion of the other address for the contact. Read/write.
 

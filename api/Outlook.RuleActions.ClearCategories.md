@@ -1,5 +1,5 @@
 ---
-title: RuleActions.ClearCategories Property (Outlook)
+title: RuleActions.ClearCategories property (Outlook)
 keywords: vbaol11.chm3233
 f1_keywords:
 - vbaol11.chm3233
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.ClearCategories Property (Outlook)
+# RuleActions.ClearCategories property (Outlook)
 
 Returns a  **[RuleAction](Outlook.RuleAction.md)** object with a **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** of **olRuleActionClearCategories**. Read-only.
 

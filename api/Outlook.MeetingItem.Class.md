@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Class Property (Outlook)
+title: MeetingItem.Class property (Outlook)
 keywords: vbaol11.chm1399
 f1_keywords:
 - vbaol11.chm1399
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Class Property (Outlook)
+# MeetingItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

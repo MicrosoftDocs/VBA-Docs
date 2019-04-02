@@ -1,5 +1,5 @@
 ---
-title: DownBars.Application Property (PowerPoint)
+title: DownBars.Application property (PowerPoint)
 keywords: vbapp10.chm700002
 f1_keywords:
 - vbapp10.chm700002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DownBars.Application Property (PowerPoint)
+# DownBars.Application property (PowerPoint)
 
 When used without an object qualifier, returns an  **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 

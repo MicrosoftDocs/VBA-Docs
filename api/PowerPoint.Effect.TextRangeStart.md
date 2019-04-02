@@ -1,5 +1,5 @@
 ---
-title: Effect.TextRangeStart Property (PowerPoint)
+title: Effect.TextRangeStart property (PowerPoint)
 keywords: vbapp10.chm652012
 f1_keywords:
 - vbapp10.chm652012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.TextRangeStart Property (PowerPoint)
+# Effect.TextRangeStart property (PowerPoint)
 
 Returns or sets the start of a text range. Read-only.
 

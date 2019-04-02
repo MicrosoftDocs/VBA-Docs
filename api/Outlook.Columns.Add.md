@@ -1,5 +1,5 @@
 ---
-title: Columns.Add Method (Outlook)
+title: Columns.Add method (Outlook)
 keywords: vbaol11.chm2741
 f1_keywords:
 - vbaol11.chm2741
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.Add Method (Outlook)
+# Columns.Add method (Outlook)
 
 Adds the  **[Column](Outlook.Column.md)** specified by _Name_ to the **[Columns](Outlook.Columns.md)** collection and resets the **[Table](Outlook.Table.md)**.
 

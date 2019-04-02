@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ContourColor Property (PowerPoint)
+title: ThreeDFormat.ContourColor property (PowerPoint)
 keywords: vbapp10.chm557034
 f1_keywords:
 - vbapp10.chm557034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ContourColor Property (PowerPoint)
+# ThreeDFormat.ContourColor property (PowerPoint)
 
 Returns a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color of the specified **ThreeDFormat** object's contour. Read-only.
 

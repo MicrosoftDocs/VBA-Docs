@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.MousePointer Property (Outlook)
+title: OlkOptionButton.MousePointer property (Outlook)
 keywords: vbaol11.chm1000174
 f1_keywords:
 - vbaol11.chm1000174
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.MousePointer Property (Outlook)
+# OlkOptionButton.MousePointer property (Outlook)
 
 Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
 

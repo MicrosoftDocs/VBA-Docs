@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.KeyUp Event (Outlook)
+title: OlkCommandButton.KeyUp event (Outlook)
 keywords: vbaol11.chm1000129
 f1_keywords:
 - vbaol11.chm1000129
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.KeyUp Event (Outlook)
+# OlkCommandButton.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.KeyPress Event (Outlook)
+title: OlkTimeZoneControl.KeyPress event (Outlook)
 keywords: vbaol11.chm1000524
 f1_keywords:
 - vbaol11.chm1000524
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.KeyPress Event (Outlook)
+# OlkTimeZoneControl.KeyPress event (Outlook)
 
 Occurs when the user presses an ANSI key.
 

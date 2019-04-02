@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Click Event (Outlook)
+title: OlkTimeControl.Click event (Outlook)
 keywords: vbaol11.chm1000401
 f1_keywords:
 - vbaol11.chm1000401
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Click Event (Outlook)
+# OlkTimeControl.Click event (Outlook)
 
 Occurs when the user clicks inside the control.
 

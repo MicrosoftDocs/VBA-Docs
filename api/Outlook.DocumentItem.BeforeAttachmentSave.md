@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.BeforeAttachmentSave Event (Outlook)
+title: DocumentItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.BeforeAttachmentSave Event (Outlook)
+# DocumentItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 

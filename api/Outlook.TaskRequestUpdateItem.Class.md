@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Class Property (Outlook)
+title: TaskRequestUpdateItem.Class property (Outlook)
 keywords: vbaol11.chm1918
 f1_keywords:
 - vbaol11.chm1918
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Class Property (Outlook)
+# TaskRequestUpdateItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

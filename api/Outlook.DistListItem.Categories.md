@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Categories Property (Outlook)
+title: DistListItem.Categories property (Outlook)
 keywords: vbaol11.chm1118
 f1_keywords:
 - vbaol11.chm1118
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Categories Property (Outlook)
+# DistListItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

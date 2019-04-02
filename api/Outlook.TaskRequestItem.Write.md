@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Write Event (Outlook)
+title: TaskRequestItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Write Event (Outlook)
+# TaskRequestItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.TaskRequestItem.Save.md)** or **[SaveAs](Outlook.TaskRequestItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Class Property (Outlook)
+title: RemoteItem.Class property (Outlook)
 keywords: vbaol11.chm1583
 f1_keywords:
 - vbaol11.chm1583
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Class Property (Outlook)
+# RemoteItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

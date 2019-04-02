@@ -1,5 +1,5 @@
 ---
-title: Presentation.ExtraColors Property (PowerPoint)
+title: Presentation.ExtraColors property (PowerPoint)
 keywords: vbapp10.chm583014
 f1_keywords:
 - vbapp10.chm583014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.ExtraColors Property (PowerPoint)
+# Presentation.ExtraColors property (PowerPoint)
 
 Returns an  **[ExtraColors](PowerPoint.ExtraColors.md)** object that represents the extra colors available in the specified presentation. Read-only.
 

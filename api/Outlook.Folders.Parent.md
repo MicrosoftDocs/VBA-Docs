@@ -1,5 +1,5 @@
 ---
-title: Folders.Parent Property (Outlook)
+title: Folders.Parent property (Outlook)
 keywords: vbaol11.chm42
 f1_keywords:
 - vbaol11.chm42
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.Parent Property (Outlook)
+# Folders.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

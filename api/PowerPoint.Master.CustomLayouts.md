@@ -1,5 +1,5 @@
 ---
-title: Master.CustomLayouts Property (PowerPoint)
+title: Master.CustomLayouts property (PowerPoint)
 keywords: vbapp10.chm533017
 f1_keywords:
 - vbapp10.chm533017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.CustomLayouts Property (PowerPoint)
+# Master.CustomLayouts property (PowerPoint)
 
 Returns a  **[CustomLayouts](PowerPoint.CustomLayouts.md)** object that represents the custom layouts associated with the presentation design of the specified **[Master](PowerPoint.Master.md)** object. Read-only.
 

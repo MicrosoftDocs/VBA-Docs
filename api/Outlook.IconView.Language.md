@@ -1,5 +1,5 @@
 ---
-title: IconView.Language Property (Outlook)
+title: IconView.Language property (Outlook)
 keywords: vbaol11.chm2566
 f1_keywords:
 - vbaol11.chm2566
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Language Property (Outlook)
+# IconView.Language property (Outlook)
 
 Returns or sets a  **String** value that represents the language setting for the view. Read/write.
 

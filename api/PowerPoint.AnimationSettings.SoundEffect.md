@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.SoundEffect Property (PowerPoint)
+title: AnimationSettings.SoundEffect property (PowerPoint)
 keywords: vbapp10.chm565004
 f1_keywords:
 - vbapp10.chm565004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.SoundEffect Property (PowerPoint)
+# AnimationSettings.SoundEffect property (PowerPoint)
 
 Returns a  **SoundEffect** object that represents the sound to be played during the transition to the specified slide. REad-only.
 

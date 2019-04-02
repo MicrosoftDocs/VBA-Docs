@@ -1,5 +1,5 @@
 ---
-title: FormNameRuleCondition.ConditionType Property (Outlook)
+title: FormNameRuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2453
 f1_keywords:
 - vbaol11.chm2453
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormNameRuleCondition.ConditionType Property (Outlook)
+# FormNameRuleCondition.ConditionType property (Outlook)
 
 Returns a constant,  **olConditionFormName**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 

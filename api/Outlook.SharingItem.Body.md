@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Body Property (Outlook)
+title: SharingItem.Body property (Outlook)
 keywords: vbaol11.chm600
 f1_keywords:
 - vbaol11.chm600
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Body Property (Outlook)
+# SharingItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.NickName Property (Outlook)
+title: ContactItem.NickName property (Outlook)
 keywords: vbaol11.chm1046
 f1_keywords:
 - vbaol11.chm1046
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.NickName Property (Outlook)
+# ContactItem.NickName property (Outlook)
 
 Returns or sets a  **String** representing the nickname for the contact. Read/write.
 

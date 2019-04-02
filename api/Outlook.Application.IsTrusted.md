@@ -1,5 +1,5 @@
 ---
-title: Application.IsTrusted Property (Outlook)
+title: Application.IsTrusted property (Outlook)
 keywords: vbaol11.chm733
 f1_keywords:
 - vbaol11.chm733
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.IsTrusted Property (Outlook)
+# Application.IsTrusted property (Outlook)
 
 Returns a  **Boolean** to indicate if an add-in or external caller is considered trusted by Outlook. Read-only
 

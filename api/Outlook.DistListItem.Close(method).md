@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Close Method (Outlook)
+title: DistListItem.Close method (Outlook)
 keywords: vbaol11.chm1140
 f1_keywords:
 - vbaol11.chm1140
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Close Method (Outlook)
+# DistListItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 

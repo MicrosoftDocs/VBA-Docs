@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Remove Method (Outlook)
+title: AutoFormatRules.Remove method (Outlook)
 keywords: vbaol11.chm2721
 f1_keywords:
 - vbaol11.chm2721
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Remove Method (Outlook)
+# AutoFormatRules.Remove method (Outlook)
 
 Removes an object from the collection.
 

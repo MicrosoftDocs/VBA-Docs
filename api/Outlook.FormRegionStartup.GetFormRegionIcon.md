@@ -1,5 +1,5 @@
 ---
-title: FormRegionStartup.GetFormRegionIcon Method (Outlook)
+title: FormRegionStartup.GetFormRegionIcon method (Outlook)
 keywords: vbaol11.chm3307
 f1_keywords:
 - vbaol11.chm3307
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegionStartup.GetFormRegionIcon Method (Outlook)
+# FormRegionStartup.GetFormRegionIcon method (Outlook)
 
 Obtains an icon image that will be displayed for a particular type of icon for the form region.
 

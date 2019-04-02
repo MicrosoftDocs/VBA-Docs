@@ -1,5 +1,5 @@
 ---
-title: PostItem.Reply Event (Outlook)
+title: PostItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Reply Event (Outlook)
+# PostItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item, or when the **Reply** method is called for the item, which is an instance of the parent object.
 

@@ -1,5 +1,5 @@
 ---
-title: Timing.Parent Property (PowerPoint)
+title: Timing.Parent property (PowerPoint)
 keywords: vbapp10.chm653002
 f1_keywords:
 - vbapp10.chm653002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Timing.Parent Property (PowerPoint)
+# Timing.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

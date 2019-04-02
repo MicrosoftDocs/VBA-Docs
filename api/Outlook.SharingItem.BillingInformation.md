@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BillingInformation Property (Outlook)
+title: SharingItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm599
 f1_keywords:
 - vbaol11.chm599
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BillingInformation Property (Outlook)
+# SharingItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

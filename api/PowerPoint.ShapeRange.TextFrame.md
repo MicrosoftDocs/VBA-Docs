@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextFrame Property (PowerPoint)
+title: ShapeRange.TextFrame property (PowerPoint)
 keywords: vbapp10.chm548035
 f1_keywords:
 - vbapp10.chm548035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.TextFrame Property (PowerPoint)
+# ShapeRange.TextFrame property (PowerPoint)
 
 Returns a  **[TextFrame](PowerPoint.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape or master text style. Read-only.
 

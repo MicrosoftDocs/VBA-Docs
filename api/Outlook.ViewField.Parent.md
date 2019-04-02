@@ -1,5 +1,5 @@
 ---
-title: ViewField.Parent Property (Outlook)
+title: ViewField.Parent property (Outlook)
 keywords: vbaol11.chm2542
 f1_keywords:
 - vbaol11.chm2542
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewField.Parent Property (Outlook)
+# ViewField.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

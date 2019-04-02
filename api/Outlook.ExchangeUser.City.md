@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.City Property (Outlook)
+title: ExchangeUser.City property (Outlook)
 keywords: vbaol11.chm2088
 f1_keywords:
 - vbaol11.chm2088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.City Property (Outlook)
+# ExchangeUser.City property (Outlook)
 
 Returns a  **String** representing the city for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

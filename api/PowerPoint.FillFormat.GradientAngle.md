@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientAngle Property (PowerPoint)
+title: FillFormat.GradientAngle property (PowerPoint)
 keywords: vbapp10.chm552034
 f1_keywords:
 - vbapp10.chm552034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientAngle Property (PowerPoint)
+# FillFormat.GradientAngle property (PowerPoint)
 
 Returns or sets the angle of the gradient fill for the specified fill format. Read/write.
 

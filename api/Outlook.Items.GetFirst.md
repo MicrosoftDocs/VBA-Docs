@@ -1,5 +1,5 @@
 ---
-title: Items.GetFirst Method (Outlook)
+title: Items.GetFirst method (Outlook)
 keywords: vbaol11.chm64
 f1_keywords:
 - vbaol11.chm64
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.GetFirst Method (Outlook)
+# Items.GetFirst method (Outlook)
 
 Returns the first object in the collection. 
 

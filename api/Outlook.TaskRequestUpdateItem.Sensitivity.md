@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Sensitivity Property (Outlook)
+title: TaskRequestUpdateItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1942
 f1_keywords:
 - vbaol11.chm1942
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Sensitivity Property (Outlook)
+# TaskRequestUpdateItem.Sensitivity property (Outlook)
 
 Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 

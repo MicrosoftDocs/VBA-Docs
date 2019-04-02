@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.GetInspector Property (Outlook)
+title: MeetingItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1413
 f1_keywords:
 - vbaol11.chm1413
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.GetInspector Property (Outlook)
+# MeetingItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 

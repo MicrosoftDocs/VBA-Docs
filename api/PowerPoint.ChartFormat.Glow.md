@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Glow Property (PowerPoint)
+title: ChartFormat.Glow property (PowerPoint)
 keywords: vbapp10.chm691002
 f1_keywords:
 - vbapp10.chm691002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFormat.Glow Property (PowerPoint)
+# ChartFormat.Glow property (PowerPoint)
 
 Returns the glow formatting properties for the chart element. Read-only  **[GlowFormat](Office.GlowFormat.md)**.
 

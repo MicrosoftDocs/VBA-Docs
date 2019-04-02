@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.ReplyAll Event (Outlook)
+title: TaskRequestAcceptItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.ReplyAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.ReplyAll Event (Outlook)
+# TaskRequestAcceptItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).
 

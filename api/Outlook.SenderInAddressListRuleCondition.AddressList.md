@@ -1,5 +1,5 @@
 ---
-title: SenderInAddressListRuleCondition.AddressList Property (Outlook)
+title: SenderInAddressListRuleCondition.AddressList property (Outlook)
 keywords: vbaol11.chm2470
 f1_keywords:
 - vbaol11.chm2470
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SenderInAddressListRuleCondition.AddressList Property (Outlook)
+# SenderInAddressListRuleCondition.AddressList property (Outlook)
 
 Returns or sets an  **[AddressList](Outlook.AddressList.md)** object that represents the address list used to evaluate the rule condition. Read/write.
 

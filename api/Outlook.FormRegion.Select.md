@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Select Method (Outlook)
+title: FormRegion.Select method (Outlook)
 keywords: vbaol11.chm3216
 f1_keywords:
 - vbaol11.chm3216
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Select Method (Outlook)
+# FormRegion.Select method (Outlook)
 
 Makes the form region the active form region such that it becomes visible.
 

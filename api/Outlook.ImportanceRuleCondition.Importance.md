@@ -1,5 +1,5 @@
 ---
-title: ImportanceRuleCondition.Importance Property (Outlook)
+title: ImportanceRuleCondition.Importance property (Outlook)
 keywords: vbaol11.chm2338
 f1_keywords:
 - vbaol11.chm2338
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ImportanceRuleCondition.Importance Property (Outlook)
+# ImportanceRuleCondition.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative level of importance for the message. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Parent Property (Outlook)
+title: DistListItem.Parent property (Outlook)
 keywords: vbaol11.chm1113
 f1_keywords:
 - vbaol11.chm1113
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Parent Property (Outlook)
+# DistListItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

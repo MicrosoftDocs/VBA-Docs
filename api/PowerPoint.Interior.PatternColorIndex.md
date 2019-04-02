@@ -1,5 +1,5 @@
 ---
-title: Interior.PatternColorIndex Property (PowerPoint)
+title: Interior.PatternColorIndex property (PowerPoint)
 keywords: vbapp10.chm707006
 f1_keywords:
 - vbapp10.chm707006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Interior.PatternColorIndex Property (PowerPoint)
+# Interior.PatternColorIndex property (PowerPoint)
 
 Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[xlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 

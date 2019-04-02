@@ -1,5 +1,5 @@
 ---
-title: Store.Categories Property (Outlook)
+title: Store.Categories property (Outlook)
 keywords: vbaol11.chm3512
 f1_keywords:
 - vbaol11.chm3512
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.Categories Property (Outlook)
+# Store.Categories property (Outlook)
 
 Returns a  **[Categories](Outlook.Categories.md)** collection that represents all of the categories that are defined for the **[Store](Outlook.Store.md)**. Read-only.
 

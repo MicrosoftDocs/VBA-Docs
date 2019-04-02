@@ -1,5 +1,5 @@
 ---
-title: View.ViewType Property (Outlook)
+title: View.ViewType property (Outlook)
 keywords: vbaol11.chm2494
 f1_keywords:
 - vbaol11.chm2494
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.ViewType Property (Outlook)
+# View.ViewType property (Outlook)
 
 Returns an  **[OlViewType](Outlook.OlViewType.md)** constant representing the view type of a **[View](Outlook.View.md)** object. Read-only.
 

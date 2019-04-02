@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Copy Method (Outlook)
+title: JournalItem.Copy method (Outlook)
 keywords: vbaol11.chm1258
 f1_keywords:
 - vbaol11.chm1258
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Copy Method (Outlook)
+# JournalItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

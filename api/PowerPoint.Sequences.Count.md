@@ -1,5 +1,5 @@
 ---
-title: Sequences.Count Property (PowerPoint)
+title: Sequences.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequences.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Sequences.Count Property (PowerPoint)
+# Sequences.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

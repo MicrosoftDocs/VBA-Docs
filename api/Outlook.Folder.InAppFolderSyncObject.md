@@ -1,5 +1,5 @@
 ---
-title: Folder.InAppFolderSyncObject Property (Outlook)
+title: Folder.InAppFolderSyncObject property (Outlook)
 keywords: vbaol11.chm2008
 f1_keywords:
 - vbaol11.chm2008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.InAppFolderSyncObject Property (Outlook)
+# Folder.InAppFolderSyncObject property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the specified folder will be synchronized with the email server. Read/write.
 

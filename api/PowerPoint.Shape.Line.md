@@ -1,5 +1,5 @@
 ---
-title: Shape.Line Property (PowerPoint)
+title: Shape.Line property (PowerPoint)
 keywords: vbapp10.chm547027
 f1_keywords:
 - vbapp10.chm547027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Line Property (PowerPoint)
+# Shape.Line property (PowerPoint)
 
 Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.) Read-only.
 

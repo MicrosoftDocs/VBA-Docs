@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Locked Property (Outlook)
+title: FormDescription.Locked property (Outlook)
 keywords: vbaol11.chm190
 f1_keywords:
 - vbaol11.chm190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.Locked Property (Outlook)
+# FormDescription.Locked property (Outlook)
 
 Returns a  **Boolean** value that indicates **True** if the form cannot be modified. Read/write.
 

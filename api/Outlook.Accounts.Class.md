@@ -1,5 +1,5 @@
 ---
-title: Accounts.Class Property (Outlook)
+title: Accounts.Class property (Outlook)
 keywords: vbaol11.chm746
 f1_keywords:
 - vbaol11.chm746
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Accounts.Class Property (Outlook)
+# Accounts.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

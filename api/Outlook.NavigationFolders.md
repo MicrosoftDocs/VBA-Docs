@@ -1,5 +1,5 @@
 ---
-title: NavigationFolders Object (Outlook)
+title: NavigationFolders object (Outlook)
 keywords: vbaol11.chm3200
 f1_keywords:
 - vbaol11.chm3200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolders Object (Outlook)
+# NavigationFolders object (Outlook)
 
 Contains a set of  **[NavigationFolder](Outlook.navigationFolder.md)** objects that represent the navigation folders associated with a navigation group.
 

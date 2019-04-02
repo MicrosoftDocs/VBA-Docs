@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Session Property (Outlook)
+title: ContactItem.Session property (Outlook)
 keywords: vbaol11.chm928
 f1_keywords:
 - vbaol11.chm928
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Session Property (Outlook)
+# ContactItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

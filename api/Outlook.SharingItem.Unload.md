@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Unload Event (Outlook)
+title: SharingItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Unload Event (Outlook)
+# SharingItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 

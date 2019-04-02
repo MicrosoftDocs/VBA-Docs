@@ -1,5 +1,5 @@
 ---
-title: PrintRanges.Parent Property (PowerPoint)
+title: PrintRanges.Parent property (PowerPoint)
 keywords: vbapp10.chm518005
 f1_keywords:
 - vbapp10.chm518005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintRanges.Parent Property (PowerPoint)
+# PrintRanges.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

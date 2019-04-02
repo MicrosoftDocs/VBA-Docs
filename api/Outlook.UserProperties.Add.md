@@ -1,5 +1,5 @@
 ---
-title: UserProperties.Add Method (Outlook)
+title: UserProperties.Add method (Outlook)
 keywords: vbaol11.chm209
 f1_keywords:
 - vbaol11.chm209
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperties.Add Method (Outlook)
+# UserProperties.Add method (Outlook)
 
 Creates a new user property in the  **[UserProperties](Outlook.UserProperties.md)** collection.
 

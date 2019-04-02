@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientVariant Property (PowerPoint)
+title: FillFormat.GradientVariant property (PowerPoint)
 keywords: vbapp10.chm552016
 f1_keywords:
 - vbapp10.chm552016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientVariant Property (PowerPoint)
+# FillFormat.GradientVariant property (PowerPoint)
 
 Returns the gradient variant for the specified fill as an integer value from 1 to 4 for most gradient fills. Read-only.
 

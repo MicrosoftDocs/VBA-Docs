@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Copy Method (Outlook)
+title: TaskRequestItem.Copy method (Outlook)
 keywords: vbaol11.chm1899
 f1_keywords:
 - vbaol11.chm1899
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Copy Method (Outlook)
+# TaskRequestItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressRuleCondition.ConditionType Property (Outlook)
+title: AddressRuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2954
 f1_keywords:
 - vbaol11.chm2954
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressRuleCondition.ConditionType Property (Outlook)
+# AddressRuleCondition.ConditionType property (Outlook)
 
 Returns a constant from the  **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 

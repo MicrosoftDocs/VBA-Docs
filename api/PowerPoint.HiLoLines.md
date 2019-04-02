@@ -1,5 +1,5 @@
 ---
-title: HiLoLines Object (PowerPoint)
+title: HiLoLines object (PowerPoint)
 keywords: vbapp10.chm706000
 f1_keywords:
 - vbapp10.chm706000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HiLoLines Object (PowerPoint)
+# HiLoLines object (PowerPoint)
 
 Represents the high-low lines in a chart group.
 

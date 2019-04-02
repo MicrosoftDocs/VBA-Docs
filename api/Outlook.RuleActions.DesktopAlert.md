@@ -1,5 +1,5 @@
 ---
-title: RuleActions.DesktopAlert Property (Outlook)
+title: RuleActions.DesktopAlert property (Outlook)
 keywords: vbaol11.chm2187
 f1_keywords:
 - vbaol11.chm2187
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.DesktopAlert Property (Outlook)
+# RuleActions.DesktopAlert property (Outlook)
 
 Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionDesktopAlert**. Read-only.
 

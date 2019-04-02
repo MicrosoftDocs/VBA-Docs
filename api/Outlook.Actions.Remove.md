@@ -1,5 +1,5 @@
 ---
-title: Actions.Remove Method (Outlook)
+title: Actions.Remove method (Outlook)
 keywords: vbaol11.chm152
 f1_keywords:
 - vbaol11.chm152
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Actions.Remove Method (Outlook)
+# Actions.Remove method (Outlook)
 
 Removes an object from the collection.
 

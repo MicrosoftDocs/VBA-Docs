@@ -1,5 +1,5 @@
 ---
-title: ContactItem.User4 Property (Outlook)
+title: ContactItem.User4 property (Outlook)
 keywords: vbaol11.chm1073
 f1_keywords:
 - vbaol11.chm1073
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.User4 Property (Outlook)
+# ContactItem.User4 property (Outlook)
 
 Returns or sets a  **String** specifying the fourth field on the Contacts form intended for miscellaneous use for the contact. Read/write.
 

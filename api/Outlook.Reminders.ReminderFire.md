@@ -1,5 +1,5 @@
 ---
-title: Reminders.ReminderFire Event (Outlook)
+title: Reminders.ReminderFire event (Outlook)
 keywords: vbaol11.chm578
 f1_keywords:
 - vbaol11.chm578
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.ReminderFire Event (Outlook)
+# Reminders.ReminderFire event (Outlook)
 
 Occurs before the reminder is executed.
 

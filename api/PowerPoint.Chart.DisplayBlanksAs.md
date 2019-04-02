@@ -1,5 +1,5 @@
 ---
-title: Chart.DisplayBlanksAs Property (PowerPoint)
+title: Chart.DisplayBlanksAs property (PowerPoint)
 keywords: vbapp10.chm684026
 f1_keywords:
 - vbapp10.chm684026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.DisplayBlanksAs Property (PowerPoint)
+# Chart.DisplayBlanksAs property (PowerPoint)
 
 Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[xlDisplayBlanksAs](PowerPoint.XlDisplayBlanksAs.md)** constants. Read/write **Long**.
 

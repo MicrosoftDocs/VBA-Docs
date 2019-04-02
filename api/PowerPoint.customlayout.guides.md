@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Guides Property (PowerPoint)
+title: CustomLayout.Guides property (PowerPoint)
 keywords: vbapp10.chm672026
 f1_keywords:
 - vbapp10.chm672026
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Guides Property (PowerPoint)
+# CustomLayout.Guides property (PowerPoint)
 
 Returns the [Guides](./overview/PowerPoint.md) collection associated with a custom layout. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: StorageItem.EntryID Property (Outlook)
+title: StorageItem.EntryID property (Outlook)
 keywords: vbaol11.chm2143
 f1_keywords:
 - vbaol11.chm2143
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.EntryID Property (Outlook)
+# StorageItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 

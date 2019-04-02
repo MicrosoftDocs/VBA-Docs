@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.Exit Event (Outlook)
+title: OlkContactPhoto.Exit event (Outlook)
 keywords: vbaol11.chm1000317
 f1_keywords:
 - vbaol11.chm1000317
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.Exit Event (Outlook)
+# OlkContactPhoto.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 

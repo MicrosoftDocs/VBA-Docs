@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BackColor Property (PowerPoint)
+title: LineFormat.BackColor property (PowerPoint)
 keywords: vbapp10.chm553002
 f1_keywords:
 - vbapp10.chm553002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.BackColor Property (PowerPoint)
+# LineFormat.BackColor property (PowerPoint)
 
 Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the background color for the specified fill or patterned line. Read/write.
 

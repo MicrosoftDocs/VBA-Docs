@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty.Session Property (Outlook)
+title: UserDefinedProperty.Session property (Outlook)
 keywords: vbaol11.chm3
 f1_keywords:
 - vbaol11.chm3
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty.Session Property (Outlook)
+# UserDefinedProperty.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

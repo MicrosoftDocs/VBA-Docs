@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.StartTimeZone Property (Outlook)
+title: AppointmentItem.StartTimeZone property (Outlook)
 keywords: vbaol11.chm3275
 f1_keywords:
 - vbaol11.chm3275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.StartTimeZone Property (Outlook)
+# AppointmentItem.StartTimeZone property (Outlook)
 
 Returns or sets a  **[TimeZone](Outlook.TimeZone.md)** value that corresponds to the time zone for the start time of the appointment. Read/write.
 

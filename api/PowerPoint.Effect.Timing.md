@@ -1,5 +1,5 @@
 ---
-title: Effect.Timing Property (PowerPoint)
+title: Effect.Timing property (PowerPoint)
 keywords: vbapp10.chm652009
 f1_keywords:
 - vbapp10.chm652009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.Timing Property (PowerPoint)
+# Effect.Timing property (PowerPoint)
 
 Returns a  **[Timing](PowerPoint.Timing.md)** object that represents the timing properties for an animation sequence.
 

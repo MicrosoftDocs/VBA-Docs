@@ -1,5 +1,5 @@
 ---
-title: ConversationHeader.GetItems Method (Outlook)
+title: ConversationHeader.GetItems method (Outlook)
 keywords: vbaol11.chm3544
 f1_keywords:
 - vbaol11.chm3544
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConversationHeader.GetItems Method (Outlook)
+# ConversationHeader.GetItems method (Outlook)
 
 Obtains a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all of the items in the conversation that reside in the same folder as the selected conversation header.
 

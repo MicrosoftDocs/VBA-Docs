@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Name Property (PowerPoint)
+title: ShapeRange.Name property (PowerPoint)
 keywords: vbapp10.chm548029
 f1_keywords:
 - vbapp10.chm548029
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Name Property (PowerPoint)
+# ShapeRange.Name property (PowerPoint)
 
 When a shape is created, Microsoft PowerPoint automatically assigns it a name in the form  _ShapeType Number_, where _ShapeType_ identifies the type of shape or AutoShape, and _Number_ is an integer that's unique within the collection of shapes on the slide. For example, the automatically generated names of the shapes on a slide could be Placeholder 1, Oval 2, and Rectangle 3. To avoid conflict with automatically assigned names, don't use the form _ShapeType Number_ for user-defined names, where _ShapeType_ is a value that is used for automatically generated names, and _Number_ is any positive integer. A shape range must contain exactly one shape. Read/write.
 

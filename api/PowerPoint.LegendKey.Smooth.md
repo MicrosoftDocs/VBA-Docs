@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Smooth Property (PowerPoint)
+title: LegendKey.Smooth property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.Smooth
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendKey.Smooth Property (PowerPoint)
+# LegendKey.Smooth property (PowerPoint)
 
  **True** if curve smoothing is turned on for the legend key. Read/write **Boolean**.
 

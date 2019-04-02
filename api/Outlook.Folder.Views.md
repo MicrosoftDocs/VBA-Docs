@@ -1,5 +1,5 @@
 ---
-title: Folder.Views Property (Outlook)
+title: Folder.Views property (Outlook)
 keywords: vbaol11.chm2011
 f1_keywords:
 - vbaol11.chm2011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Views Property (Outlook)
+# Folder.Views property (Outlook)
 
 Returns the  **[Views](Outlook.Views.md)** collection object of the **[Folder](Outlook.Folder.md)** object. Read-only.
 

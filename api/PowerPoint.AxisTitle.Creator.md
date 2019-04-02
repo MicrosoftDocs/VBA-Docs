@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Creator Property (PowerPoint)
+title: AxisTitle.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Creator Property (PowerPoint)
+# AxisTitle.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

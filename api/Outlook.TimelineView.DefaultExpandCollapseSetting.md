@@ -1,5 +1,5 @@
 ---
-title: TimelineView.DefaultExpandCollapseSetting Property (Outlook)
+title: TimelineView.DefaultExpandCollapseSetting property (Outlook)
 keywords: vbaol11.chm2663
 f1_keywords:
 - vbaol11.chm2663
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.DefaultExpandCollapseSetting Property (Outlook)
+# TimelineView.DefaultExpandCollapseSetting property (Outlook)
 
 Returns or sets an  **[OlDefaultExpandCollapseSetting](Outlook.OlDefaultExpandCollapseSetting.md)** constant that determines the default expansion setting for groups in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.Companies Property (Outlook)
+title: PostItem.Companies property (Outlook)
 keywords: vbaol11.chm1518
 f1_keywords:
 - vbaol11.chm1518
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Companies Property (Outlook)
+# PostItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the Outlook item. Read/write.
 

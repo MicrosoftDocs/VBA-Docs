@@ -1,5 +1,5 @@
 ---
-title: Axis Object (PowerPoint)
+title: Axis object (PowerPoint)
 keywords: vbapp10.chm682000
 f1_keywords:
 - vbapp10.chm682000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis Object (PowerPoint)
+# Axis object (PowerPoint)
 
 Represents a single axis in a chart.
 

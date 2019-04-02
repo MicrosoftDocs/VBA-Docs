@@ -1,5 +1,5 @@
 ---
-title: SharingItem.PermissionTemplateGuid Property (Outlook)
+title: SharingItem.PermissionTemplateGuid property (Outlook)
 keywords: vbaol11.chm3511
 f1_keywords:
 - vbaol11.chm3511
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.PermissionTemplateGuid Property (Outlook)
+# SharingItem.PermissionTemplateGuid property (Outlook)
 
 Returns or sets a  **String** that represents the GUID of the template file to be applied to the **[SharingItem](Outlook.SharingItem.md)** in order to specify Information Rights Management (IRM) permissions. Read/write.
 

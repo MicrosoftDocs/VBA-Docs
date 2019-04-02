@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.BusinessTelephoneNumber Property (Outlook)
+title: ExchangeUser.BusinessTelephoneNumber property (Outlook)
 keywords: vbaol11.chm2087
 f1_keywords:
 - vbaol11.chm2087
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.BusinessTelephoneNumber Property (Outlook)
+# ExchangeUser.BusinessTelephoneNumber property (Outlook)
 
 Returns a  **String** representing the business telephone number for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

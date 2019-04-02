@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.PrintOut Method (Outlook)
+title: TaskRequestDeclineItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1854
 f1_keywords:
 - vbaol11.chm1854
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.PrintOut Method (Outlook)
+# TaskRequestDeclineItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 

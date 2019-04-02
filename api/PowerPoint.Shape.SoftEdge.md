@@ -1,5 +1,5 @@
 ---
-title: Shape.SoftEdge Property (PowerPoint)
+title: Shape.SoftEdge property (PowerPoint)
 keywords: vbapp10.chm547081
 f1_keywords:
 - vbapp10.chm547081
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.SoftEdge Property (PowerPoint)
+# Shape.SoftEdge property (PowerPoint)
 
 Returns the soft edge format for the specified shape. Read-only.
 

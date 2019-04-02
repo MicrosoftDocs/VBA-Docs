@@ -1,5 +1,5 @@
 ---
-title: SyncObject.Stop Method (Outlook)
+title: SyncObject.Stop method (Outlook)
 keywords: vbaol11.chm109
 f1_keywords:
 - vbaol11.chm109
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObject.Stop Method (Outlook)
+# SyncObject.Stop method (Outlook)
 
 Immediately ends synchronizing a user's folders using the specified  **Send/Receive** group.
 

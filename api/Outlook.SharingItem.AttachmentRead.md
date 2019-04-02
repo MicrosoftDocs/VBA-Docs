@@ -1,5 +1,5 @@
 ---
-title: SharingItem.AttachmentRead Event (Outlook)
+title: SharingItem.AttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.AttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.AttachmentRead Event (Outlook)
+# SharingItem.AttachmentRead event (Outlook)
 
 Occurs when an attachment in an instance of the parent object has been opened for reading.
 

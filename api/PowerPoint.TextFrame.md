@@ -1,5 +1,5 @@
 ---
-title: TextFrame Object (PowerPoint)
+title: TextFrame object (PowerPoint)
 keywords: vbapp10.chm558000
 f1_keywords:
 - vbapp10.chm558000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame Object (PowerPoint)
+# TextFrame object (PowerPoint)
 
 Represents the text frame in a  **Shape** object. Contains the text in the text frame and the properties and methods that control the alignment and anchoring of the text frame.
 

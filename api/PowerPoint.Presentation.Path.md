@@ -1,5 +1,5 @@
 ---
-title: Presentation.Path Property (PowerPoint)
+title: Presentation.Path property (PowerPoint)
 keywords: vbapp10.chm583026
 f1_keywords:
 - vbapp10.chm583026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Path Property (PowerPoint)
+# Presentation.Path property (PowerPoint)
 
 Returns a  **String** that represents the path to the specified **[Presentation](PowerPoint.Presentation.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Creator Property (PowerPoint)
+title: Trendlines.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendlines.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Trendlines.Creator Property (PowerPoint)
+# Trendlines.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

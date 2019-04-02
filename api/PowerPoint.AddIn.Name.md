@@ -1,5 +1,5 @@
 ---
-title: AddIn.Name Property (PowerPoint)
+title: AddIn.Name property (PowerPoint)
 keywords: vbapp10.chm521004
 f1_keywords:
 - vbapp10.chm521004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIn.Name Property (PowerPoint)
+# AddIn.Name property (PowerPoint)
 
 The name (title) of the add-in for file types that are registered. Read-only.
 

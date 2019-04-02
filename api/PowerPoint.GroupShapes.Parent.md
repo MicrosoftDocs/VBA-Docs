@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Parent Property (PowerPoint)
+title: GroupShapes.Parent property (PowerPoint)
 keywords: vbapp10.chm549001
 f1_keywords:
 - vbapp10.chm549001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GroupShapes.Parent Property (PowerPoint)
+# GroupShapes.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

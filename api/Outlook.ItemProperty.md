@@ -1,5 +1,5 @@
 ---
-title: ItemProperty Object (Outlook)
+title: ItemProperty object (Outlook)
 keywords: vbaol11.chm517
 f1_keywords:
 - vbaol11.chm517
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperty Object (Outlook)
+# ItemProperty object (Outlook)
 
 Represents information about a given item property for a Microsoft Outlook item object.
 

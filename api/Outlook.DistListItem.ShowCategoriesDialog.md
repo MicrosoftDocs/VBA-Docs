@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ShowCategoriesDialog Method (Outlook)
+title: DistListItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1158
 f1_keywords:
 - vbaol11.chm1158
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ShowCategoriesDialog Method (Outlook)
+# DistListItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 

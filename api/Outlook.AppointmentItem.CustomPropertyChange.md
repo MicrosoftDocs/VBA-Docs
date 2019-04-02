@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.CustomPropertyChange Event (Outlook)
+title: AppointmentItem.CustomPropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.CustomPropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.CustomPropertyChange Event (Outlook)
+# AppointmentItem.CustomPropertyChange event (Outlook)
 
 Occurs when a custom property of an item (which is an instance of the parent object) is changed. 
 

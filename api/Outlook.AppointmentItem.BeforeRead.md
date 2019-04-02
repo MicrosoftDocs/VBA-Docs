@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.BeforeRead Event (Outlook)
+title: AppointmentItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.BeforeRead Event (Outlook)
+# AppointmentItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 

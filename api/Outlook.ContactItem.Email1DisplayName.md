@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email1DisplayName Property (Outlook)
+title: ContactItem.Email1DisplayName property (Outlook)
 keywords: vbaol11.chm993
 f1_keywords:
 - vbaol11.chm993
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Email1DisplayName Property (Outlook)
+# ContactItem.Email1DisplayName property (Outlook)
 
 Returns a  **String** representing the display name of the first email address for the contact. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetExtrusionDirection Property (PowerPoint)
+title: ThreeDFormat.PresetExtrusionDirection property (PowerPoint)
 keywords: vbapp10.chm557011
 f1_keywords:
 - vbapp10.chm557011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetExtrusionDirection Property (PowerPoint)
+# ThreeDFormat.PresetExtrusionDirection property (PowerPoint)
 
 Returns the direction that the extrusion's sweep path takes away from the extruded shape (the front face of the extrusion). Read-only.
 

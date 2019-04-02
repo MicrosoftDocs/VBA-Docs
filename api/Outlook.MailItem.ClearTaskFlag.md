@@ -1,5 +1,5 @@
 ---
-title: MailItem.ClearTaskFlag Method (Outlook)
+title: MailItem.ClearTaskFlag method (Outlook)
 keywords: vbaol11.chm3040
 f1_keywords:
 - vbaol11.chm3040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ClearTaskFlag Method (Outlook)
+# MailItem.ClearTaskFlag method (Outlook)
 
 Clears the  **[MailItem](Outlook.MailItem.md)** object as a task.
 

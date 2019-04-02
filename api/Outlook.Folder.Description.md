@@ -1,5 +1,5 @@
 ---
-title: Folder.Description Property (Outlook)
+title: Folder.Description property (Outlook)
 keywords: vbaol11.chm1987
 f1_keywords:
 - vbaol11.chm1987
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Description Property (Outlook)
+# Folder.Description property (Outlook)
 
 Returns or sets a  **String** representing the description of the folder. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: UserProperty.ValidationText Property (Outlook)
+title: UserProperty.ValidationText property (Outlook)
 keywords: vbaol11.chm221
 f1_keywords:
 - vbaol11.chm221
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperty.ValidationText Property (Outlook)
+# UserProperty.ValidationText property (Outlook)
 
 Returns or sets a  **String** specifying the validation text for the specified user property. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks Object (PowerPoint)
+title: Hyperlinks object (PowerPoint)
 keywords: vbapp10.chm525000
 f1_keywords:
 - vbapp10.chm525000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks Object (PowerPoint)
+# Hyperlinks object (PowerPoint)
 
 A collection of all the  **[Hyperlink](PowerPoint.Hyperlink.md)** objects on a slide or master.
 

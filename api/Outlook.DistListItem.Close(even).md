@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Close Event (Outlook)
+title: DistListItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Close Event (Outlook)
+# DistListItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 

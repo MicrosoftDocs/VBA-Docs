@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.FollowMasterBackground Property (PowerPoint)
+title: CustomLayout.FollowMasterBackground property (PowerPoint)
 keywords: vbapp10.chm672023
 f1_keywords:
 - vbapp10.chm672023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.FollowMasterBackground Property (PowerPoint)
+# CustomLayout.FollowMasterBackground property (PowerPoint)
 
 Determines whether the specified custom layout follows the slide master background. Read/write.
 

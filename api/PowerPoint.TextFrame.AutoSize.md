@@ -1,5 +1,5 @@
 ---
-title: TextFrame.AutoSize Property (PowerPoint)
+title: TextFrame.AutoSize property (PowerPoint)
 keywords: vbapp10.chm558012
 f1_keywords:
 - vbapp10.chm558012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.AutoSize Property (PowerPoint)
+# TextFrame.AutoSize property (PowerPoint)
 
 Returns or sets a value that indicates whether the size of the specified shape is changed automatically to fit text within its boundaries. Read/write.
 

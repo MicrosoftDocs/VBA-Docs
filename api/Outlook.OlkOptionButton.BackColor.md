@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.BackColor Property (Outlook)
+title: OlkOptionButton.BackColor property (Outlook)
 keywords: vbaol11.chm1000166
 f1_keywords:
 - vbaol11.chm1000166
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.BackColor Property (Outlook)
+# OlkOptionButton.BackColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the background color of the control. Read/write.
 

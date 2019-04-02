@@ -1,5 +1,5 @@
 ---
-title: PlaySoundRuleAction.Class Property (Outlook)
+title: PlaySoundRuleAction.Class property (Outlook)
 keywords: vbaol11.chm2272
 f1_keywords:
 - vbaol11.chm2272
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySoundRuleAction.Class Property (Outlook)
+# PlaySoundRuleAction.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

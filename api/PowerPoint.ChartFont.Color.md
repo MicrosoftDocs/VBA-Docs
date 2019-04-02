@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Color Property (PowerPoint)
+title: ChartFont.Color property (PowerPoint)
 keywords: vbapp10.chm704003
 f1_keywords:
 - vbapp10.chm704003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Color Property (PowerPoint)
+# ChartFont.Color property (PowerPoint)
 
 Returns or sets the primary color of the object. Read/write  **Variant**.
 

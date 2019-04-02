@@ -1,5 +1,5 @@
 ---
-title: Shape Object (PowerPoint)
+title: Shape object (PowerPoint)
 keywords: vbapp10.chm547000
 f1_keywords:
 - vbapp10.chm547000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape Object (PowerPoint)
+# Shape object (PowerPoint)
 
 Represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 

@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.Type Property (PowerPoint)
+title: ConnectorFormat.Type property (PowerPoint)
 keywords: vbapp10.chm555012
 f1_keywords:
 - vbapp10.chm555012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.Type Property (PowerPoint)
+# ConnectorFormat.Type property (PowerPoint)
 
 Represents the type of connector. Read/write.
 

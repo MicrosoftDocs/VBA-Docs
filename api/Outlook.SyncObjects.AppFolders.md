@@ -1,5 +1,5 @@
 ---
-title: SyncObjects.AppFolders Property (Outlook)
+title: SyncObjects.AppFolders property (Outlook)
 keywords: vbaol11.chm101
 f1_keywords:
 - vbaol11.chm101
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObjects.AppFolders Property (Outlook)
+# SyncObjects.AppFolders property (Outlook)
 
 This property returns the  **SyncObject** object for application folders. Read-only.
 

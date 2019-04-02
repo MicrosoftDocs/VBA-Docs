@@ -1,5 +1,5 @@
 ---
-title: ReportItem.BeforeAttachmentSave Event (Outlook)
+title: ReportItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.BeforeAttachmentSave Event (Outlook)
+# ReportItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 

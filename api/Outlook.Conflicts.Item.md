@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Item Method (Outlook)
+title: Conflicts.Item method (Outlook)
 keywords: vbaol11.chm405
 f1_keywords:
 - vbaol11.chm405
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflicts.Item Method (Outlook)
+# Conflicts.Item method (Outlook)
 
 Returns an  **[Conflict](Outlook.Conflict.md)** object from the collection.
 

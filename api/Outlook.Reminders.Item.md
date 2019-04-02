@@ -1,5 +1,5 @@
 ---
-title: Reminders.Item Method (Outlook)
+title: Reminders.Item method (Outlook)
 keywords: vbaol11.chm571
 f1_keywords:
 - vbaol11.chm571
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.Item Method (Outlook)
+# Reminders.Item method (Outlook)
 
 Returns a  **[Reminder](Outlook.Reminder.md)** object from the collection.
 

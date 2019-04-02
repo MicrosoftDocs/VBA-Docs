@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Formula Property (PowerPoint)
+title: ChartTitle.Formula property (PowerPoint)
 keywords: vbapp10.chm694024
 f1_keywords:
 - vbapp10.chm694024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Formula Property (PowerPoint)
+# ChartTitle.Formula property (PowerPoint)
 
 Returns or sets the object's formula in A1-style notation. Read/write.
 

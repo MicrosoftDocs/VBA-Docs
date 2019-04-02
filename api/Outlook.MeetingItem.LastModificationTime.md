@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.LastModificationTime Property (Outlook)
+title: MeetingItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1415
 f1_keywords:
 - vbaol11.chm1415
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.LastModificationTime Property (Outlook)
+# MeetingItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 

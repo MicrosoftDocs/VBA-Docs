@@ -1,5 +1,5 @@
 ---
-title: Search.Results Property (Outlook)
+title: Search.Results property (Outlook)
 keywords: vbaol11.chm2255
 f1_keywords:
 - vbaol11.chm2255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.Results Property (Outlook)
+# Search.Results property (Outlook)
 
 Returns a  **[Results](Outlook.Results.md)** collection that specifies the results of the search. Read-only.
 

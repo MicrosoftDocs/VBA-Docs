@@ -1,5 +1,5 @@
 ---
-title: Recipients.Item Method (Outlook)
+title: Recipients.Item method (Outlook)
 keywords: vbaol11.chm231
 f1_keywords:
 - vbaol11.chm231
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipients.Item Method (Outlook)
+# Recipients.Item method (Outlook)
 
 Returns a  **[Recipient](Outlook.Recipient.md)** object from the collection.
 

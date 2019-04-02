@@ -1,5 +1,5 @@
 ---
-title: Design.Name Property (PowerPoint)
+title: Design.Name property (PowerPoint)
 keywords: vbapp10.chm644008
 f1_keywords:
 - vbapp10.chm644008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Design.Name Property (PowerPoint)
+# Design.Name property (PowerPoint)
 
 Returns or sets the name of the specified object. Read/write.
 

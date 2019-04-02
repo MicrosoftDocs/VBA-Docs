@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Application Property (PowerPoint)
+title: BulletFormat.Application property (PowerPoint)
 keywords: vbapp10.chm577001
 f1_keywords:
 - vbapp10.chm577001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.Application Property (PowerPoint)
+# BulletFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

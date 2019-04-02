@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Importance Property (Outlook)
+title: ReportItem.Importance property (Outlook)
 keywords: vbaol11.chm1650
 f1_keywords:
 - vbaol11.chm1650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Importance Property (Outlook)
+# ReportItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 

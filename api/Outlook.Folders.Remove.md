@@ -1,5 +1,5 @@
 ---
-title: Folders.Remove Method (Outlook)
+title: Folders.Remove method (Outlook)
 keywords: vbaol11.chm51
 f1_keywords:
 - vbaol11.chm51
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.Remove Method (Outlook)
+# Folders.Remove method (Outlook)
 
 Removes an object from the collection.
 

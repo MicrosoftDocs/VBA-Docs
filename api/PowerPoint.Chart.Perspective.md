@@ -1,5 +1,5 @@
 ---
-title: Chart.Perspective Property (PowerPoint)
+title: Chart.Perspective property (PowerPoint)
 keywords: vbapp10.chm684037
 f1_keywords:
 - vbapp10.chm684037
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Perspective Property (PowerPoint)
+# Chart.Perspective property (PowerPoint)
 
 Returns or sets the perspective for the 3-D chart view. Read/write  **Long**.
 

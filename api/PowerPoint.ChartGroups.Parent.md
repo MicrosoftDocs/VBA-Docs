@@ -1,5 +1,5 @@
 ---
-title: ChartGroups.Parent Property (PowerPoint)
+title: ChartGroups.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroups.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroups.Parent Property (PowerPoint)
+# ChartGroups.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

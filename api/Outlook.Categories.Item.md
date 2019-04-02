@@ -1,5 +1,5 @@
 ---
-title: Categories.Item Method (Outlook)
+title: Categories.Item method (Outlook)
 keywords: vbaol11.chm2436
 f1_keywords:
 - vbaol11.chm2436
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Categories.Item Method (Outlook)
+# Categories.Item method (Outlook)
 
 Returns a  **[Category](Outlook.Category.md)** object from the collection.
 

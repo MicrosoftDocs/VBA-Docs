@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.CustomAction Event (Outlook)
+title: RemoteItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.CustomAction Event (Outlook)
+# RemoteItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressLists.Item Method (Outlook)
+title: AddressLists.Item method (Outlook)
 keywords: vbaol11.chm93
 f1_keywords:
 - vbaol11.chm93
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressLists.Item Method (Outlook)
+# AddressLists.Item method (Outlook)
 
 Returns an  **[AddressList](Outlook.AddressList.md)** object from the collection.
 

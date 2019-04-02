@@ -1,5 +1,5 @@
 ---
-title: ReportItem.IsConflict Property (Outlook)
+title: ReportItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1677
 f1_keywords:
 - vbaol11.chm1677
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.IsConflict Property (Outlook)
+# ReportItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 

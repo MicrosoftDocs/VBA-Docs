@@ -1,5 +1,5 @@
 ---
-title: NavigationPane.CurrentModule Property (Outlook)
+title: NavigationPane.CurrentModule property (Outlook)
 keywords: vbaol11.chm2791
 f1_keywords:
 - vbaol11.chm2791
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationPane.CurrentModule Property (Outlook)
+# NavigationPane.CurrentModule property (Outlook)
 
 Returns or sets a  **[NavigationModule](Outlook.NavigationModule.md)** object that represents the currently selected navigation module in the navigation pane. Read/write.
 

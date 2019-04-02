@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Parent Property (Outlook)
+title: ViewFont.Parent property (Outlook)
 keywords: vbaol11.chm2694
 f1_keywords:
 - vbaol11.chm2694
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Parent Property (Outlook)
+# ViewFont.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

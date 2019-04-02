@@ -1,5 +1,5 @@
 ---
-title: ContactItem.FileAs Property (Outlook)
+title: ContactItem.FileAs property (Outlook)
 keywords: vbaol11.chm1003
 f1_keywords:
 - vbaol11.chm1003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.FileAs Property (Outlook)
+# ContactItem.FileAs property (Outlook)
 
 Returns or sets a  **String** indicating the default keyword string assigned to the contact when it is filed. Read/write.
 

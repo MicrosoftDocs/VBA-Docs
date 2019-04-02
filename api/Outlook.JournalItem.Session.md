@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Session Property (Outlook)
+title: JournalItem.Session property (Outlook)
 keywords: vbaol11.chm1229
 f1_keywords:
 - vbaol11.chm1229
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Session Property (Outlook)
+# JournalItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

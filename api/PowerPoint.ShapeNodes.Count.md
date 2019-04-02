@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Count Property (PowerPoint)
+title: ShapeNodes.Count property (PowerPoint)
 keywords: vbapp10.chm560002
 f1_keywords:
 - vbapp10.chm560002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.Count Property (PowerPoint)
+# ShapeNodes.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

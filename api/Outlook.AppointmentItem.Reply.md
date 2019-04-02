@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Reply Event (Outlook)
+title: AppointmentItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Reply Event (Outlook)
+# AppointmentItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item (which is an instance of the parent object).
 

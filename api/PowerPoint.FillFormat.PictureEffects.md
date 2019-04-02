@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PictureEffects Property (PowerPoint)
+title: FillFormat.PictureEffects property (PowerPoint)
 keywords: vbapp10.chm552033
 f1_keywords:
 - vbapp10.chm552033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PictureEffects Property (PowerPoint)
+# FillFormat.PictureEffects property (PowerPoint)
 
 Returns an object that represents the picture or texture fill for the specified fill format. Read-only.
 

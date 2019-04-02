@@ -1,5 +1,5 @@
 ---
-title: Store.FilePath Property (Outlook)
+title: Store.FilePath property (Outlook)
 keywords: vbaol11.chm803
 f1_keywords:
 - vbaol11.chm803
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.FilePath Property (Outlook)
+# Store.FilePath property (Outlook)
 
 Returns a  **String** representing the full file path for a Personal Folders File (.pst) or an Offline Folder File (.ost) store. Read-only.
 

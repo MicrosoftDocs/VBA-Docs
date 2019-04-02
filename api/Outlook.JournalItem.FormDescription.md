@@ -1,5 +1,5 @@
 ---
-title: JournalItem.FormDescription Property (Outlook)
+title: JournalItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1241
 f1_keywords:
 - vbaol11.chm1241
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.FormDescription Property (Outlook)
+# JournalItem.FormDescription property (Outlook)
 
 Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified Outlook item. Read-only.
 

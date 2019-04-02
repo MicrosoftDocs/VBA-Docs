@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Presentation Property (PowerPoint)
+title: ProtectedViewWindow.Presentation property (PowerPoint)
 keywords: vbapp10.chm734003
 f1_keywords:
 - vbapp10.chm734003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Presentation Property (PowerPoint)
+# ProtectedViewWindow.Presentation property (PowerPoint)
 
 Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents the presentation in which the specified window was created. Read-only.
 

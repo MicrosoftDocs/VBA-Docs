@@ -1,5 +1,5 @@
 ---
-title: PrintRange.End Property (PowerPoint)
+title: PrintRange.End property (PowerPoint)
 keywords: vbapp10.chm519004
 f1_keywords:
 - vbapp10.chm519004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintRange.End Property (PowerPoint)
+# PrintRange.End property (PowerPoint)
 
 Returns the number of the last slide in the specified print range. Read-only.
 

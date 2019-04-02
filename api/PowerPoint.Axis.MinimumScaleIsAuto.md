@@ -1,5 +1,5 @@
 ---
-title: Axis.MinimumScaleIsAuto Property (PowerPoint)
+title: Axis.MinimumScaleIsAuto property (PowerPoint)
 keywords: vbapp10.chm682020
 f1_keywords:
 - vbapp10.chm682020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.MinimumScaleIsAuto Property (PowerPoint)
+# Axis.MinimumScaleIsAuto property (PowerPoint)
 
  **True** if Microsoft Word calculates the minimum value for the value axis. Read/write **Boolean**.
 

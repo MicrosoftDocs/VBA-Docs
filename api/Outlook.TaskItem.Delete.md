@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Delete Method (Outlook)
+title: TaskItem.Delete method (Outlook)
 keywords: vbaol11.chm1714
 f1_keywords:
 - vbaol11.chm1714
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Delete Method (Outlook)
+# TaskItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 

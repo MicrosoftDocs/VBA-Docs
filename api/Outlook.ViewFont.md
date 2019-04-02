@@ -1,5 +1,5 @@
 ---
-title: ViewFont Object (Outlook)
+title: ViewFont object (Outlook)
 keywords: vbaol11.chm3188
 f1_keywords:
 - vbaol11.chm3188
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont Object (Outlook)
+# ViewFont object (Outlook)
 
 Represents the font used when formatting text in various portions of a view.
 

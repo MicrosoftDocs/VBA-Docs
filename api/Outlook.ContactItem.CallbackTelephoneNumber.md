@@ -1,5 +1,5 @@
 ---
-title: ContactItem.CallbackTelephoneNumber Property (Outlook)
+title: ContactItem.CallbackTelephoneNumber property (Outlook)
 keywords: vbaol11.chm980
 f1_keywords:
 - vbaol11.chm980
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.CallbackTelephoneNumber Property (Outlook)
+# ContactItem.CallbackTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** representing the callback telephone number for the contact. Read/write.
 

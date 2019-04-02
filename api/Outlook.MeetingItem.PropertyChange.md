@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.PropertyChange Event (Outlook)
+title: MeetingItem.PropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.PropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.PropertyChange Event (Outlook)
+# MeetingItem.PropertyChange event (Outlook)
 
 Occurs when an explicit built-in property (for example,  **[Subject](Outlook.AppointmentItem.Subject.md)**) of an instance of the parent object is changed.
 

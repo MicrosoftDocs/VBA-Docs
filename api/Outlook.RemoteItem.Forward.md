@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Forward Event (Outlook)
+title: RemoteItem.Forward event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Forward
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Forward Event (Outlook)
+# RemoteItem.Forward event (Outlook)
 
 Occurs when the user selects the  **Forward** action for an item (which is an instance of the parent object).
 

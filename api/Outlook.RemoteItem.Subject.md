@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Subject Property (Outlook)
+title: RemoteItem.Subject property (Outlook)
 keywords: vbaol11.chm1609
 f1_keywords:
 - vbaol11.chm1609
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Subject Property (Outlook)
+# RemoteItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationFolders.Add Method (Outlook)
+title: NavigationFolders.Add method (Outlook)
 keywords: vbaol11.chm2897
 f1_keywords:
 - vbaol11.chm2897
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolders.Add Method (Outlook)
+# NavigationFolders.Add method (Outlook)
 
 Adds the specified  **[Folder](Outlook.Folder.md)**, as a **[NavigationFolder](Outlook.NavigationFolder.md)** object, to the end of the **[NavigationFolders](Outlook.NavigationFolders.md)** collection.
 

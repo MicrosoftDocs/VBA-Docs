@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Close Event (Outlook)
+title: FormRegion.Close event (Outlook)
 keywords: vbaol11.chm2404
 f1_keywords:
 - vbaol11.chm2404
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Close Event (Outlook)
+# FormRegion.Close event (Outlook)
 
 Represents the closing of the frame for a form region, which occurs just before the  **[Close](Outlook.Inspector.Close(even).md)** event of the Inspector associated with the Outlook item.
 

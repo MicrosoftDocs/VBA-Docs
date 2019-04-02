@@ -1,5 +1,5 @@
 ---
-title: JournalItem.StartTimer Method (Outlook)
+title: JournalItem.StartTimer method (Outlook)
 keywords: vbaol11.chm1278
 f1_keywords:
 - vbaol11.chm1278
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.StartTimer Method (Outlook)
+# JournalItem.StartTimer method (Outlook)
 
 Starts the timer on the journal entry. This method allows programmatic control of the timer function. 
 

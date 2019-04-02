@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SaveAs Method (Outlook)
+title: SharingItem.SaveAs method (Outlook)
 keywords: vbaol11.chm630
 f1_keywords:
 - vbaol11.chm630
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SaveAs Method (Outlook)
+# SharingItem.SaveAs method (Outlook)
 
 Saves the  **[SharingItem](Outlook.SharingItem.md)** to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 

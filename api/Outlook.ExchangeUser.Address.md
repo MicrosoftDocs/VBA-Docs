@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Address Property (Outlook)
+title: ExchangeUser.Address property (Outlook)
 keywords: vbaol11.chm2065
 f1_keywords:
 - vbaol11.chm2065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Address Property (Outlook)
+# ExchangeUser.Address property (Outlook)
 
 Returns or sets a  **String** representing the X400 email address of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

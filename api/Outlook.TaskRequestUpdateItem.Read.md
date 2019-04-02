@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Read Event (Outlook)
+title: TaskRequestUpdateItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Read Event (Outlook)
+# TaskRequestUpdateItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 

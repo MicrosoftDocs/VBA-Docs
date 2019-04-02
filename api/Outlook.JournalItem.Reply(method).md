@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Reply Method (Outlook)
+title: JournalItem.Reply method (Outlook)
 keywords: vbaol11.chm1276
 f1_keywords:
 - vbaol11.chm1276
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Reply Method (Outlook)
+# JournalItem.Reply method (Outlook)
 
 Creates a reply, pre-addressed to the original sender, from the original message.
 

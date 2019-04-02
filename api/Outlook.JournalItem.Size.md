@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Size Property (Outlook)
+title: JournalItem.Size property (Outlook)
 keywords: vbaol11.chm1253
 f1_keywords:
 - vbaol11.chm1253
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Size Property (Outlook)
+# JournalItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 

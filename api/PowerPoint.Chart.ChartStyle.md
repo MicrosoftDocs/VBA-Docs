@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartStyle Property (PowerPoint)
+title: Chart.ChartStyle property (PowerPoint)
 keywords: vbapp10.chm68001
 f1_keywords:
 - vbapp10.chm68001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartStyle Property (PowerPoint)
+# Chart.ChartStyle property (PowerPoint)
 
 Returns or sets the chart style for the chart. Read/write  **Variant**.
 

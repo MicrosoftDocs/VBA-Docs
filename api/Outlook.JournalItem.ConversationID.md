@@ -1,5 +1,5 @@
 ---
-title: JournalItem.ConversationID Property (Outlook)
+title: JournalItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3471
 f1_keywords:
 - vbaol11.chm3471
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.ConversationID Property (Outlook)
+# JournalItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[JournalItem](Outlook.JournalItem.md)** object belongs to. Read-only.
 

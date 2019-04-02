@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Width Property (PowerPoint)
+title: ChartArea.Width property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Width
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Width Property (PowerPoint)
+# ChartArea.Width property (PowerPoint)
 
 Returns or sets the width, in points, of the object. Read/write  **Double**.
 

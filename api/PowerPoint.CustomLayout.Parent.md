@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Parent Property (PowerPoint)
+title: CustomLayout.Parent property (PowerPoint)
 keywords: vbapp10.chm672002
 f1_keywords:
 - vbapp10.chm672002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Parent Property (PowerPoint)
+# CustomLayout.Parent property (PowerPoint)
 
 Returns a reference to the slide master object that is the parent of the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object. Read-only.
 

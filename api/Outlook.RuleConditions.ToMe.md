@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.ToMe Property (Outlook)
+title: RuleConditions.ToMe property (Outlook)
 keywords: vbaol11.chm2308
 f1_keywords:
 - vbaol11.chm2308
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.ToMe Property (Outlook)
+# RuleConditions.ToMe property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionTo**. Read-only.
 

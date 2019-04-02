@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.MarginRight Property (PowerPoint)
+title: TextFrame2.MarginRight property (PowerPoint)
 keywords: vbapp10.chm678004
 f1_keywords:
 - vbapp10.chm678004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.MarginRight Property (PowerPoint)
+# TextFrame2.MarginRight property (PowerPoint)
 
 Returns or sets the distance (in points) between the right edge of the text frame and the right edge of the inscribed rectangle of the shape that contains the text. Read/write.
 

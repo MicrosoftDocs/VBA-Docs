@@ -1,5 +1,5 @@
 ---
-title: DistListItem.NoAging Property (Outlook)
+title: DistListItem.NoAging property (Outlook)
 keywords: vbaol11.chm1131
 f1_keywords:
 - vbaol11.chm1131
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.NoAging Property (Outlook)
+# DistListItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 

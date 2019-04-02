@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Importance Property (Outlook)
+title: DistListItem.Importance property (Outlook)
 keywords: vbaol11.chm1126
 f1_keywords:
 - vbaol11.chm1126
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Importance Property (Outlook)
+# DistListItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Orientation Property (PowerPoint)
+title: ChartTitle.Orientation property (PowerPoint)
 keywords: vbapp10.chm694006
 f1_keywords:
 - vbapp10.chm694006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Orientation Property (PowerPoint)
+# ChartTitle.Orientation property (PowerPoint)
 
 Returns or sets the text orientation. Read/write  **Long**.
 

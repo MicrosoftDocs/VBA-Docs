@@ -1,5 +1,5 @@
 ---
-title: Inspector.WindowState Property (Outlook)
+title: Inspector.WindowState property (Outlook)
 keywords: vbaol11.chm2978
 f1_keywords:
 - vbaol11.chm2978
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.WindowState Property (Outlook)
+# Inspector.WindowState property (Outlook)
 
 Returns or sets the property with a constant in the  **[OlWindowState](Outlook.OlWindowState.md)** enumeration specifying the window state of an explorer or inspector window. Read/write.
 

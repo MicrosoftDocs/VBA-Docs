@@ -1,5 +1,5 @@
 ---
-title: Conversation.Class Property (Outlook)
+title: Conversation.Class property (Outlook)
 keywords: vbaol11.chm3384
 f1_keywords:
 - vbaol11.chm3384
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.Class Property (Outlook)
+# Conversation.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that indicates the object's class. Read-only.
 

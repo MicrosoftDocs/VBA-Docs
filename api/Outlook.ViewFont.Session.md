@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Session Property (Outlook)
+title: ViewFont.Session property (Outlook)
 keywords: vbaol11.chm2693
 f1_keywords:
 - vbaol11.chm2693
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Session Property (Outlook)
+# ViewFont.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

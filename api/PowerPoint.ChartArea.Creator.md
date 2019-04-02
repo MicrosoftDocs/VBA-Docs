@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Creator Property (PowerPoint)
+title: ChartArea.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Creator Property (PowerPoint)
+# ChartArea.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

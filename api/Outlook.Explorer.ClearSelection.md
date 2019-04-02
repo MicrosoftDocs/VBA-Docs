@@ -1,5 +1,5 @@
 ---
-title: Explorer.ClearSelection Method (Outlook)
+title: Explorer.ClearSelection method (Outlook)
 keywords: vbaol11.chm3312
 f1_keywords:
 - vbaol11.chm3312
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.ClearSelection Method (Outlook)
+# Explorer.ClearSelection method (Outlook)
 
 Cancels any selection in the active explorer.
 

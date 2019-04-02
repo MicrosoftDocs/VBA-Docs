@@ -1,5 +1,5 @@
 ---
-title: AnimationBehaviors Object (PowerPoint)
+title: AnimationBehaviors object (PowerPoint)
 keywords: vbapp10.chm656000
 f1_keywords:
 - vbapp10.chm656000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehaviors Object (PowerPoint)
+# AnimationBehaviors object (PowerPoint)
 
 Represents a collection of  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** objects.
 

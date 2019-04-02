@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Cut Method (Outlook)
+title: OlkComboBox.Cut method (Outlook)
 keywords: vbaol11.chm1000226
 f1_keywords:
 - vbaol11.chm1000226
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Cut Method (Outlook)
+# OlkComboBox.Cut method (Outlook)
 
 Removes the contents of the control and copies the contents to the clipboard.
 

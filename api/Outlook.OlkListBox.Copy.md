@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.Copy Method (Outlook)
+title: OlkListBox.Copy method (Outlook)
 keywords: vbaol11.chm1000273
 f1_keywords:
 - vbaol11.chm1000273
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.Copy Method (Outlook)
+# OlkListBox.Copy method (Outlook)
 
 Copies the current selection in the drop-down list to the clipboard.
 

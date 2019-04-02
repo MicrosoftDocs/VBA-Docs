@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Move Method (Outlook)
+title: ContactItem.Move method (Outlook)
 keywords: vbaol11.chm960
 f1_keywords:
 - vbaol11.chm960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Move Method (Outlook)
+# ContactItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

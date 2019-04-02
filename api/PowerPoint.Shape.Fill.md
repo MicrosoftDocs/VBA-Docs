@@ -1,5 +1,5 @@
 ---
-title: Shape.Fill Property (PowerPoint)
+title: Shape.Fill property (PowerPoint)
 keywords: vbapp10.chm547022
 f1_keywords:
 - vbapp10.chm547022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Fill Property (PowerPoint)
+# Shape.Fill property (PowerPoint)
 
 Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object that contains fill formatting properties for the specified shape. Read-only.
 

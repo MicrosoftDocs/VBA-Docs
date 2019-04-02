@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Active Property (PowerPoint)
+title: ProtectedViewWindow.Active property (PowerPoint)
 keywords: vbapp10.chm734004
 f1_keywords:
 - vbapp10.chm734004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Active Property (PowerPoint)
+# ProtectedViewWindow.Active property (PowerPoint)
 
 Returns whether the specified window is active. Read-only.
 

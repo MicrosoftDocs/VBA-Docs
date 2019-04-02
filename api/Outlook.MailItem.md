@@ -1,5 +1,5 @@
 ---
-title: MailItem Object (Outlook)
+title: MailItem object (Outlook)
 keywords: vbaol11.chm2987
 f1_keywords:
 - vbaol11.chm2987
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem Object (Outlook)
+# MailItem object (Outlook)
 
 Represents a mail message.
 

@@ -1,5 +1,5 @@
 ---
-title: MailItem.VotingOptions Property (Outlook)
+title: MailItem.VotingOptions property (Outlook)
 keywords: vbaol11.chm1363
 f1_keywords:
 - vbaol11.chm1363
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.VotingOptions Property (Outlook)
+# MailItem.VotingOptions property (Outlook)
 
 Returns or sets a  **String** specifying a delimited string containing the voting options for the mail message. Read/write.
 

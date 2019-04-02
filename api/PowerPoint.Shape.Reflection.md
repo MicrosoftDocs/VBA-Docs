@@ -1,5 +1,5 @@
 ---
-title: Shape.Reflection Property (PowerPoint)
+title: Shape.Reflection property (PowerPoint)
 keywords: vbapp10.chm547083
 f1_keywords:
 - vbapp10.chm547083
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Reflection Property (PowerPoint)
+# Shape.Reflection property (PowerPoint)
 
 Returns the reflection format for the specified shape. Read-only.
 

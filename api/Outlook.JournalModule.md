@@ -1,5 +1,5 @@
 ---
-title: JournalModule Object (Outlook)
+title: JournalModule object (Outlook)
 keywords: vbaol11.chm3197
 f1_keywords:
 - vbaol11.chm3197
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalModule Object (Outlook)
+# JournalModule object (Outlook)
 
 Represents the  **Journal** navigation module in the navigation pane of an explorer.
 

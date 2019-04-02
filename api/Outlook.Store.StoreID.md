@@ -1,5 +1,5 @@
 ---
-title: Store.StoreID Property (Outlook)
+title: Store.StoreID property (Outlook)
 keywords: vbaol11.chm801
 f1_keywords:
 - vbaol11.chm801
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.StoreID Property (Outlook)
+# Store.StoreID property (Outlook)
 
 Returns a  **String** identifying the **[Store](Outlook.Store.md)**. Read-only.
 

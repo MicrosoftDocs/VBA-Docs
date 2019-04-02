@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Parent Property (Outlook)
+title: JournalItem.Parent property (Outlook)
 keywords: vbaol11.chm1230
 f1_keywords:
 - vbaol11.chm1230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Parent Property (Outlook)
+# JournalItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

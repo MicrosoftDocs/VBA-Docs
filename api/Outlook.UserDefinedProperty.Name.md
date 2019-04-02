@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty.Name Property (Outlook)
+title: UserDefinedProperty.Name property (Outlook)
 keywords: vbaol11.chm6
 f1_keywords:
 - vbaol11.chm6
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty.Name Property (Outlook)
+# UserDefinedProperty.Name property (Outlook)
 
 Returns a  **String** value that represents the display name for the object. Read-only.
 

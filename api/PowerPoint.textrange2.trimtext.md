@@ -1,5 +1,5 @@
 ---
-title: TextRange2.TrimText Method (PowerPoint)
+title: TextRange2.TrimText method (PowerPoint)
 ms.assetid: c96d3201-6f8c-437d-8df6-b12281c589bd
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.TrimText Method (PowerPoint)
+# TextRange2.TrimText method (PowerPoint)
 
 Returns a **TextRange2** object that represents the specified text that has the whitespace removed.
 
@@ -27,6 +27,6 @@ TextRange2
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

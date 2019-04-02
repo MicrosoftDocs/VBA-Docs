@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Creator Property (PowerPoint)
+title: DisplayUnitLabel.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Creator Property (PowerPoint)
+# DisplayUnitLabel.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

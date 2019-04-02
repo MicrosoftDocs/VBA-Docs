@@ -1,5 +1,5 @@
 ---
-title: TimeZones.Session Property (Outlook)
+title: TimeZones.Session property (Outlook)
 keywords: vbaol11.chm3293
 f1_keywords:
 - vbaol11.chm3293
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZones.Session Property (Outlook)
+# TimeZones.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OrderFields.Insert Method (Outlook)
+title: OrderFields.Insert method (Outlook)
 keywords: vbaol11.chm2681
 f1_keywords:
 - vbaol11.chm2681
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderFields.Insert Method (Outlook)
+# OrderFields.Insert method (Outlook)
 
 Creates a new  **[OrderField](Outlook.OrderField.md)** object and inserts it at the specified index within the **[OrderFields](Outlook.OrderFields.md)** collection.
 

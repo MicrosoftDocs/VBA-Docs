@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Application Property (Outlook)
+title: StorageItem.Application property (Outlook)
 keywords: vbaol11.chm2137
 f1_keywords:
 - vbaol11.chm2137
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Application Property (Outlook)
+# StorageItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

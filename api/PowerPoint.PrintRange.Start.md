@@ -1,5 +1,5 @@
 ---
-title: PrintRange.Start Property (PowerPoint)
+title: PrintRange.Start property (PowerPoint)
 keywords: vbapp10.chm519003
 f1_keywords:
 - vbapp10.chm519003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintRange.Start Property (PowerPoint)
+# PrintRange.Start property (PowerPoint)
 
 Returns the number of the first slide in the range of slides to be printed. Read-only.
 

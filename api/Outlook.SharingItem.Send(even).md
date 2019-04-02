@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Send Event (Outlook)
+title: SharingItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Send
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Send Event (Outlook)
+# SharingItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item, or when the **[Send](Outlook.SharingItem.Send(method).md)** method is called for the item, which is an instance of the parent object.
 

@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.Parent Property (Outlook)
+title: OutlookBarPane.Parent property (Outlook)
 keywords: vbaol11.chm362
 f1_keywords:
 - vbaol11.chm362
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarPane.Parent Property (Outlook)
+# OutlookBarPane.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: NotesModule.NavigationGroups Property (Outlook)
+title: NotesModule.NavigationGroups property (Outlook)
 keywords: vbaol11.chm2880
 f1_keywords:
 - vbaol11.chm2880
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule.NavigationGroups Property (Outlook)
+# NotesModule.NavigationGroups property (Outlook)
 
 Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[NotesModule](Outlook.NotesModule.md)** object. Read-only.
 

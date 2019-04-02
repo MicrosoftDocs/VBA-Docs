@@ -1,5 +1,5 @@
 ---
-title: JournalModule.Class Property (Outlook)
+title: JournalModule.Class property (Outlook)
 keywords: vbaol11.chm2863
 f1_keywords:
 - vbaol11.chm2863
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalModule.Class Property (Outlook)
+# JournalModule.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

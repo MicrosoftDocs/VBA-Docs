@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Creator Property (PowerPoint)
+title: HiLoLines.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.HiLoLines.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# HiLoLines.Creator Property (PowerPoint)
+# HiLoLines.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

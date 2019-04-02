@@ -1,5 +1,5 @@
 ---
-title: Attachments.Remove Method (Outlook)
+title: Attachments.Remove method (Outlook)
 keywords: vbaol11.chm177
 f1_keywords:
 - vbaol11.chm177
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Remove Method (Outlook)
+# Attachments.Remove method (Outlook)
 
 Removes an object from the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Sequence Object (PowerPoint)
+title: Sequence object (PowerPoint)
 keywords: vbapp10.chm651000
 f1_keywords:
 - vbapp10.chm651000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequence Object (PowerPoint)
+# Sequence object (PowerPoint)
 
 Represents a collection of  **[Effect](PowerPoint.Effect.md)** objects for a slide's interactive animation sequences. The **Sequence** collection is a member of the **[Sequences](PowerPoint.Sequences.md)** collection.
 

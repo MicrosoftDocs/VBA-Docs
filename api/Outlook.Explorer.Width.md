@@ -1,5 +1,5 @@
 ---
-title: Explorer.Width Property (Outlook)
+title: Explorer.Width property (Outlook)
 keywords: vbaol11.chm2772
 f1_keywords:
 - vbaol11.chm2772
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Width Property (Outlook)
+# Explorer.Width property (Outlook)
 
 Returns or sets a  **Long** indicating the width (in pixels) of the specified object. Read/write.
 

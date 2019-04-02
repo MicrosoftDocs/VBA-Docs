@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.FromRssFeed Property (Outlook)
+title: RuleConditions.FromRssFeed property (Outlook)
 keywords: vbaol11.chm3251
 f1_keywords:
 - vbaol11.chm3251
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.FromRssFeed Property (Outlook)
+# RuleConditions.FromRssFeed property (Outlook)
 
 Returns a  **[FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md)** object with a **[FromRssFeedRuleCondition.ConditionType](Outlook.FromRssFeedRuleCondition.ConditionType.md)** of **olConditionFromRssFeed**. Read-only.
 

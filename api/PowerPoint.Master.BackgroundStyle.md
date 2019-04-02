@@ -1,5 +1,5 @@
 ---
-title: Master.BackgroundStyle Property (PowerPoint)
+title: Master.BackgroundStyle property (PowerPoint)
 keywords: vbapp10.chm533020
 f1_keywords:
 - vbapp10.chm533020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.BackgroundStyle Property (PowerPoint)
+# Master.BackgroundStyle property (PowerPoint)
 
 Sets or returns the background style of the specified object. Read/write.
 

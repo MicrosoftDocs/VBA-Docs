@@ -1,5 +1,5 @@
 ---
-title: SlideRange.CustomLayout Property (PowerPoint)
+title: SlideRange.CustomLayout property (PowerPoint)
 keywords: vbapp10.chm532038
 f1_keywords:
 - vbapp10.chm532038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.CustomLayout Property (PowerPoint)
+# SlideRange.CustomLayout property (PowerPoint)
 
 Returns a  **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents the custom layout associated with the specified range of slides. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskItem.CancelResponseState Method (Outlook)
+title: TaskItem.CancelResponseState method (Outlook)
 keywords: vbaol11.chm1750
 f1_keywords:
 - vbaol11.chm1750
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.CancelResponseState Method (Outlook)
+# TaskItem.CancelResponseState method (Outlook)
 
 Resets an unsent response to a task request back to a simple task.
 

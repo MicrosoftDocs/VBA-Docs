@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.OutlookVersion Property (Outlook)
+title: RemoteItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1605
 f1_keywords:
 - vbaol11.chm1605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.OutlookVersion Property (Outlook)
+# RemoteItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 

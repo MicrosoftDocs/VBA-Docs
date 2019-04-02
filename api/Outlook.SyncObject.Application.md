@@ -1,5 +1,5 @@
 ---
-title: SyncObject.Application Property (Outlook)
+title: SyncObject.Application property (Outlook)
 keywords: vbaol11.chm103
 f1_keywords:
 - vbaol11.chm103
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObject.Application Property (Outlook)
+# SyncObject.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

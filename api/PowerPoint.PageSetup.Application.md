@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Application Property (PowerPoint)
+title: PageSetup.Application property (PowerPoint)
 keywords: vbapp10.chm527001
 f1_keywords:
 - vbapp10.chm527001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.Application Property (PowerPoint)
+# PageSetup.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

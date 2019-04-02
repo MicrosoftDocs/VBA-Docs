@@ -1,5 +1,5 @@
 ---
-title: Account.GetAddressEntryFromID Method (Outlook)
+title: Account.GetAddressEntryFromID method (Outlook)
 keywords: vbaol11.chm3427
 f1_keywords:
 - vbaol11.chm3427
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.GetAddressEntryFromID Method (Outlook)
+# Account.GetAddressEntryFromID method (Outlook)
 
 Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the address entry specified by the given entry ID.
 

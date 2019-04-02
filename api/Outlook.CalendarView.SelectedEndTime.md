@@ -1,5 +1,5 @@
 ---
-title: CalendarView.SelectedEndTime Property (Outlook)
+title: CalendarView.SelectedEndTime property (Outlook)
 keywords: vbaol11.chm3314
 f1_keywords:
 - vbaol11.chm3314
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.SelectedEndTime Property (Outlook)
+# CalendarView.SelectedEndTime property (Outlook)
 
 Returns a  **Date** that represents the end time of a selection in the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 

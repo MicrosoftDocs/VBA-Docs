@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.ConversationID Property (Outlook)
+title: RemoteItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3495
 f1_keywords:
 - vbaol11.chm3495
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.ConversationID Property (Outlook)
+# RemoteItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[RemoteItem](Outlook.RemoteItem.md)** object belongs to. Read-only.
 

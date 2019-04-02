@@ -1,5 +1,5 @@
 ---
-title: IconView.Name Property (Outlook)
+title: IconView.Name property (Outlook)
 keywords: vbaol11.chm2568
 f1_keywords:
 - vbaol11.chm2568
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Name Property (Outlook)
+# IconView.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TextStyle.Application Property (PowerPoint)
+title: TextStyle.Application property (PowerPoint)
 keywords: vbapp10.chm579001
 f1_keywords:
 - vbapp10.chm579001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyle.Application Property (PowerPoint)
+# TextStyle.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

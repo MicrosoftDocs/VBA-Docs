@@ -1,5 +1,5 @@
 ---
-title: TabStop.Position Property (PowerPoint)
+title: TabStop.Position property (PowerPoint)
 keywords: vbapp10.chm574004
 f1_keywords:
 - vbapp10.chm574004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStop.Position Property (PowerPoint)
+# TabStop.Position property (PowerPoint)
 
 Returns or sets the position of the specified tab stop, in points. Read/write.
 

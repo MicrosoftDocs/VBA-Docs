@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Height Property (PowerPoint)
+title: ShapeRange.Height property (PowerPoint)
 keywords: vbapp10.chm548024
 f1_keywords:
 - vbapp10.chm548024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Height Property (PowerPoint)
+# ShapeRange.Height property (PowerPoint)
 
 Returns or sets the height of the specified object, in points. Read/write.
 

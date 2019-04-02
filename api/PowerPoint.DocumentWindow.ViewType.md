@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.ViewType Property (PowerPoint)
+title: DocumentWindow.ViewType property (PowerPoint)
 keywords: vbapp10.chm511006
 f1_keywords:
 - vbapp10.chm511006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.ViewType Property (PowerPoint)
+# DocumentWindow.ViewType property (PowerPoint)
 
 Returns or sets the type of the view contained in the specified document window. Read/write.
 

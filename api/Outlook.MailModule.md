@@ -1,5 +1,5 @@
 ---
-title: MailModule Object (Outlook)
+title: MailModule object (Outlook)
 keywords: vbaol11.chm3193
 f1_keywords:
 - vbaol11.chm3193
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailModule Object (Outlook)
+# MailModule object (Outlook)
 
 Represents the  **Mail** navigation module in the navigation pane of an explorer.
 

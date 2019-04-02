@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Top Property (Outlook)
+title: NoteItem.Top property (Outlook)
 keywords: vbaol11.chm1490
 f1_keywords:
 - vbaol11.chm1490
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Top Property (Outlook)
+# NoteItem.Top property (Outlook)
 
 Returns or sets a  **Long** indicating the position (in pixels) of the top horizontal edge of a note window from the edge of the screen. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.GetProperty Method (Outlook)
+title: PropertyAccessor.GetProperty method (Outlook)
 keywords: vbaol11.chm1970
 f1_keywords:
 - vbaol11.chm1970
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.GetProperty Method (Outlook)
+# PropertyAccessor.GetProperty method (Outlook)
 
 Returns an  **Object** that represents the value of the property specified by _SchemaName_ .
 

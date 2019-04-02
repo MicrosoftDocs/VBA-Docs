@@ -1,5 +1,5 @@
 ---
-title: NewItemAlertRuleAction.Class Property (Outlook)
+title: NewItemAlertRuleAction.Class property (Outlook)
 keywords: vbaol11.chm2289
 f1_keywords:
 - vbaol11.chm2289
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NewItemAlertRuleAction.Class Property (Outlook)
+# NewItemAlertRuleAction.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

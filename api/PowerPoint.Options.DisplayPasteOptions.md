@@ -1,5 +1,5 @@
 ---
-title: Options.DisplayPasteOptions Property (PowerPoint)
+title: Options.DisplayPasteOptions property (PowerPoint)
 keywords: vbapp10.chm667001
 f1_keywords:
 - vbapp10.chm667001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options.DisplayPasteOptions Property (PowerPoint)
+# Options.DisplayPasteOptions property (PowerPoint)
 
 Determines whether Microsoft PowerPoint displays the  **Paste Options** button, which appears directly under newly pasted text. Read/write.
 

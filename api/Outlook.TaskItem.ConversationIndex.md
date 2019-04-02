@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ConversationIndex Property (Outlook)
+title: TaskItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1692
 f1_keywords:
 - vbaol11.chm1692
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ConversationIndex Property (Outlook)
+# TaskItem.ConversationIndex property (Outlook)
 
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.FTPSite Property (Outlook)
+title: ContactItem.FTPSite property (Outlook)
 keywords: vbaol11.chm1005
 f1_keywords:
 - vbaol11.chm1005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.FTPSite Property (Outlook)
+# ContactItem.FTPSite property (Outlook)
 
 Returns or sets a  **String** representing the FTP site entry for the contact. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.ChartUnitEffect Property (PowerPoint)
+title: AnimationSettings.ChartUnitEffect property (PowerPoint)
 keywords: vbapp10.chm565016
 f1_keywords:
 - vbapp10.chm565016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.ChartUnitEffect Property (PowerPoint)
+# AnimationSettings.ChartUnitEffect property (PowerPoint)
 
 Returns or sets a value that indicates whether the graph range is animated by series, category, or element. Read/write.
 

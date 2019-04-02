@@ -1,5 +1,5 @@
 ---
-title: Presentation.PasswordEncryptionFileProperties Property (PowerPoint)
+title: Presentation.PasswordEncryptionFileProperties property (PowerPoint)
 keywords: vbapp10.chm583078
 f1_keywords:
 - vbapp10.chm583078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.PasswordEncryptionFileProperties Property (PowerPoint)
+# Presentation.PasswordEncryptionFileProperties property (PowerPoint)
 
 Returns whether Microsoft PowerPoint encrypts file properties for password-protected documents. Read-only.
 

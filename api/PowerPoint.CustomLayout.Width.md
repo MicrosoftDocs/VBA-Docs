@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Width Property (PowerPoint)
+title: CustomLayout.Width property (PowerPoint)
 keywords: vbapp10.chm672009
 f1_keywords:
 - vbapp10.chm672009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Width Property (PowerPoint)
+# CustomLayout.Width property (PowerPoint)
 
 Returns the width of the specified custom layout, in points. Read-only.
 

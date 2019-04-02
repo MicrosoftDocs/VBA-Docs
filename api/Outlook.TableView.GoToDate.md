@@ -1,5 +1,5 @@
 ---
-title: TableView.GoToDate Method (Outlook)
+title: TableView.GoToDate method (Outlook)
 keywords: vbaol11.chm2515
 f1_keywords:
 - vbaol11.chm2515
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.GoToDate Method (Outlook)
+# TableView.GoToDate method (Outlook)
 
 Changes the date used by the current view to display information.
 

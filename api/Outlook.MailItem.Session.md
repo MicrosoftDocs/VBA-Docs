@@ -1,5 +1,5 @@
 ---
-title: MailItem.Session Property (Outlook)
+title: MailItem.Session property (Outlook)
 keywords: vbaol11.chm1292
 f1_keywords:
 - vbaol11.chm1292
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Session Property (Outlook)
+# MailItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

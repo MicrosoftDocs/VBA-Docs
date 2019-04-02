@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.PictureAlignment Property (Outlook)
+title: OlkCommandButton.PictureAlignment property (Outlook)
 keywords: vbaol11.chm1000500
 f1_keywords:
 - vbaol11.chm1000500
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.PictureAlignment Property (Outlook)
+# OlkCommandButton.PictureAlignment property (Outlook)
 
 Returns or sets an  **[OlPictureAlignment](Outlook.OlPictureAlignment.md)** constant that specifies the alignment of the image and the text on the button. Read/write.
 

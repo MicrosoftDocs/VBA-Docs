@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.OutlookVersion Property (Outlook)
+title: AppointmentItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm861
 f1_keywords:
 - vbaol11.chm861
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.OutlookVersion Property (Outlook)
+# AppointmentItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 

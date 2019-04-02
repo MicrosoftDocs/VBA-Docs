@@ -1,5 +1,5 @@
 ---
-title: NavigationFolder.DisplayName Property (Outlook)
+title: NavigationFolder.DisplayName property (Outlook)
 keywords: vbaol11.chm2909
 f1_keywords:
 - vbaol11.chm2909
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolder.DisplayName Property (Outlook)
+# NavigationFolder.DisplayName property (Outlook)
 
 Returns a  **String** representing the display name of the **[NavigationFolder](Outlook.NavigationFolder.md)** object. Read-only.
 

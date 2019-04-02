@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.Top Property (PowerPoint)
+title: SlideShowWindow.Top property (PowerPoint)
 keywords: vbapp10.chm507007
 f1_keywords:
 - vbapp10.chm507007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindow.Top Property (PowerPoint)
+# SlideShowWindow.Top property (PowerPoint)
 
 Returns or sets a  **Single** that represents the distance in points from the top edge of the document, application, and slide show window to the top edge of the application window's client area. Read/write.
 

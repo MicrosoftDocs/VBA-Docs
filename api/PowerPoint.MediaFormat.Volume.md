@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.Volume Property (PowerPoint)
+title: MediaFormat.Volume property (PowerPoint)
 keywords: vbapp10.chm724003
 f1_keywords:
 - vbapp10.chm724003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.Volume Property (PowerPoint)
+# MediaFormat.Volume property (PowerPoint)
 
 Gets or sets the volume of the media. Read/write.
 

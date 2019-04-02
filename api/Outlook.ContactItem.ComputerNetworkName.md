@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ComputerNetworkName Property (Outlook)
+title: ContactItem.ComputerNetworkName property (Outlook)
 keywords: vbaol11.chm988
 f1_keywords:
 - vbaol11.chm988
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ComputerNetworkName Property (Outlook)
+# ContactItem.ComputerNetworkName property (Outlook)
 
 Returns or sets a  **String** representing the name of the computer network for the contact. Read/write.
 

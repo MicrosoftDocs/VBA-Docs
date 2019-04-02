@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection.Application Property (PowerPoint)
+title: CategoryCollection.Application property (PowerPoint)
 keywords: vbapp10.chm737004
 f1_keywords:
 - vbapp10.chm737004
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryCollection.Application Property (PowerPoint)
+# CategoryCollection.Application property (PowerPoint)
 
 When used without an object qualifier, returns an  **[Application](PowerPoint.Application.md)** object that represents the PowerPoint application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.IsConflict Property (Outlook)
+title: SharingItem.IsConflict property (Outlook)
 keywords: vbaol11.chm680
 f1_keywords:
 - vbaol11.chm680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.IsConflict Property (Outlook)
+# SharingItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the **[SharingItem](Outlook.SharingItem.md)** is in conflict. Read-only.
 

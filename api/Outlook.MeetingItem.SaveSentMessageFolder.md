@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.SaveSentMessageFolder Property (Outlook)
+title: MeetingItem.SaveSentMessageFolder property (Outlook)
 keywords: vbaol11.chm1449
 f1_keywords:
 - vbaol11.chm1449
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.SaveSentMessageFolder Property (Outlook)
+# MeetingItem.SaveSentMessageFolder property (Outlook)
 
 Setting or getting this property has no noticeable effect. Do not use this property.
 

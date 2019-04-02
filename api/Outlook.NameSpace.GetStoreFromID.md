@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetStoreFromID Method (Outlook)
+title: NameSpace.GetStoreFromID method (Outlook)
 keywords: vbaol11.chm786
 f1_keywords:
 - vbaol11.chm786
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.GetStoreFromID Method (Outlook)
+# NameSpace.GetStoreFromID method (Outlook)
 
 Returns a  **[Store](Outlook.Store.md)** object that represents the store specified by _ID_ .
 

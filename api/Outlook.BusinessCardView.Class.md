@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Class Property (Outlook)
+title: BusinessCardView.Class property (Outlook)
 keywords: vbaol11.chm2918
 f1_keywords:
 - vbaol11.chm2918
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Class Property (Outlook)
+# BusinessCardView.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

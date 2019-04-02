@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Move Method (Outlook)
+title: DistListItem.Move method (Outlook)
 keywords: vbaol11.chm1144
 f1_keywords:
 - vbaol11.chm1144
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Move Method (Outlook)
+# DistListItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

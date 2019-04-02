@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Length Property (PowerPoint)
+title: CalloutFormat.Length property (PowerPoint)
 keywords: vbapp10.chm559014
 f1_keywords:
 - vbapp10.chm559014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Length Property (PowerPoint)
+# CalloutFormat.Length property (PowerPoint)
 
 When the  **[AutoLength](PowerPoint.CalloutFormat.AutoLength.md)** property of the specified callout is set to **False**, the **Length** property returns the length (in points) of the first segment of the callout line (the segment attached to the text callout box). Read-only.
 

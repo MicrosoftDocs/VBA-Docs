@@ -1,5 +1,5 @@
 ---
-title: PropertyPageSite.Application Property (Outlook)
+title: PropertyPageSite.Application property (Outlook)
 keywords: vbaol11.chm385
 f1_keywords:
 - vbaol11.chm385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPageSite.Application Property (Outlook)
+# PropertyPageSite.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

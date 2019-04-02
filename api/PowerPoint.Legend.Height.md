@@ -1,5 +1,5 @@
 ---
-title: Legend.Height Property (PowerPoint)
+title: Legend.Height property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Height
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Legend.Height Property (PowerPoint)
+# Legend.Height property (PowerPoint)
 
 Returns or sets the height, in points, of the object. Read/write  **Double**.
 

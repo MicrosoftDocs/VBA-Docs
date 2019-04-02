@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Superscript Property (PowerPoint)
+title: ChartFont.Superscript property (PowerPoint)
 keywords: vbapp10.chm704013
 f1_keywords:
 - vbapp10.chm704013
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Superscript Property (PowerPoint)
+# ChartFont.Superscript property (PowerPoint)
 
  **True** if the font is formatted as superscript. The default is **False**. Read/write **Variant**.
 

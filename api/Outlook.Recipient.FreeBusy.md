@@ -1,5 +1,5 @@
 ---
-title: Recipient.FreeBusy Method (Outlook)
+title: Recipient.FreeBusy method (Outlook)
 keywords: vbaol11.chm2357
 f1_keywords:
 - vbaol11.chm2357
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.FreeBusy Method (Outlook)
+# Recipient.FreeBusy method (Outlook)
 
 Returns free/busy information for the recipient.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BeforeAttachmentSave Event (Outlook)
+title: SharingItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BeforeAttachmentSave Event (Outlook)
+# SharingItem.BeforeAttachmentSave event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read.
 

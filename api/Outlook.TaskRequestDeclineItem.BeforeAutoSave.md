@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.BeforeAutoSave Event (Outlook)
+title: TaskRequestDeclineItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.BeforeAutoSave Event (Outlook)
+# TaskRequestDeclineItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 

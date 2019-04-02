@@ -1,5 +1,5 @@
 ---
-title: MailItem.AutoResolvedWinner Property (Outlook)
+title: MailItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1381
 f1_keywords:
 - vbaol11.chm1381
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.AutoResolvedWinner Property (Outlook)
+# MailItem.AutoResolvedWinner property (Outlook)
 
 Returns a  **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
 

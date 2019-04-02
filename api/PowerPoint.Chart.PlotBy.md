@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotBy Property (PowerPoint)
+title: Chart.PlotBy property (PowerPoint)
 keywords: vbapp10.chm65738
 f1_keywords:
 - vbapp10.chm65738
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.PlotBy Property (PowerPoint)
+# Chart.PlotBy property (PowerPoint)
 
 Returns or sets the way columns or rows are used as data series on the chart. Read/write  **Long**.
 

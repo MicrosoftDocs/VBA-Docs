@@ -1,5 +1,5 @@
 ---
-title: DistListItem.MarkForDownload Property (Outlook)
+title: DistListItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1162
 f1_keywords:
 - vbaol11.chm1162
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.MarkForDownload Property (Outlook)
+# DistListItem.MarkForDownload property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 

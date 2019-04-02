@@ -1,5 +1,5 @@
 ---
-title: AddIn.Path Property (PowerPoint)
+title: AddIn.Path property (PowerPoint)
 keywords: vbapp10.chm521005
 f1_keywords:
 - vbapp10.chm521005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIn.Path Property (PowerPoint)
+# AddIn.Path property (PowerPoint)
 
 Returns a  **String** that represents the path to the specified **[AddIn](PowerPoint.AddIn.md)** object. Read-only.
 

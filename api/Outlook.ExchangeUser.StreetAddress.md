@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.StreetAddress Property (Outlook)
+title: ExchangeUser.StreetAddress property (Outlook)
 keywords: vbaol11.chm2100
 f1_keywords:
 - vbaol11.chm2100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.StreetAddress Property (Outlook)
+# ExchangeUser.StreetAddress property (Outlook)
 
 Returns a  **String** representing the street address for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

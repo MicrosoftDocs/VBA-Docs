@@ -1,5 +1,5 @@
 ---
-title: Presentation.ChartDataPointTrack Property (PowerPoint)
+title: Presentation.ChartDataPointTrack property (PowerPoint)
 keywords: vbapp10.chm583125
 f1_keywords:
 - vbapp10.chm583125
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.ChartDataPointTrack Property (PowerPoint)
+# Presentation.ChartDataPointTrack property (PowerPoint)
 
 Returns or sets a  **Boolean** that specifies whether charts use cell-reference data-point tracking. Read-write.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskItem.PropertyAccessor Property (Outlook)
+title: TaskItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1767
 f1_keywords:
 - vbaol11.chm1767
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.PropertyAccessor Property (Outlook)
+# TaskItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[TaskItem](Outlook.TaskItem.md)** object. Read-only.
 

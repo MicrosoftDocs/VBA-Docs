@@ -1,5 +1,5 @@
 ---
-title: TableView.AllowInCellEditing Property (Outlook)
+title: TableView.AllowInCellEditing property (Outlook)
 keywords: vbaol11.chm2526
 f1_keywords:
 - vbaol11.chm2526
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.AllowInCellEditing Property (Outlook)
+# TableView.AllowInCellEditing property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether in-cell editing is allowed in the **[TableView](Outlook.TableView.md)** object. Read/write.
 

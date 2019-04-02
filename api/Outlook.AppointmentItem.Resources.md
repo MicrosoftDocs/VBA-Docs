@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Resources Property (Outlook)
+title: AppointmentItem.Resources property (Outlook)
 keywords: vbaol11.chm899
 f1_keywords:
 - vbaol11.chm899
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Resources Property (Outlook)
+# AppointmentItem.Resources property (Outlook)
 
 Returns a semicolon-delimited  **String** of resource names for the meeting. Read/write.
 

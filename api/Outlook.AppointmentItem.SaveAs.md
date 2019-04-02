@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.SaveAs Method (Outlook)
+title: AppointmentItem.SaveAs method (Outlook)
 keywords: vbaol11.chm875
 f1_keywords:
 - vbaol11.chm875
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.SaveAs Method (Outlook)
+# AppointmentItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 

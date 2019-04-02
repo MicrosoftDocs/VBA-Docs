@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.PhoneticCharacters Property (PowerPoint)
+title: ChartCharacters.PhoneticCharacters property (PowerPoint)
 keywords: vbapp10.chm67058
 f1_keywords:
 - vbapp10.chm67058
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCharacters.PhoneticCharacters Property (PowerPoint)
+# ChartCharacters.PhoneticCharacters property (PowerPoint)
 
 Returns or sets the phonetic text for the object. Read/write  **String**.
 

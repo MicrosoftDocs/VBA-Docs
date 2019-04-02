@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.HandoutOrder Property (PowerPoint)
+title: PrintOptions.HandoutOrder property (PowerPoint)
 keywords: vbapp10.chm517016
 f1_keywords:
 - vbapp10.chm517016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.HandoutOrder Property (PowerPoint)
+# PrintOptions.HandoutOrder property (PowerPoint)
 
 Returns or sets the page layout order in which slides appear on printed handouts that show multiple slides on one page. Read/write.
 

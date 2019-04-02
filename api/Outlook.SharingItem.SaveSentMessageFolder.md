@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SaveSentMessageFolder Property (Outlook)
+title: SharingItem.SaveSentMessageFolder property (Outlook)
 keywords: vbaol11.chm659
 f1_keywords:
 - vbaol11.chm659
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SaveSentMessageFolder Property (Outlook)
+# SharingItem.SaveSentMessageFolder property (Outlook)
 
 Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the folder in which a copy of the **[SharingItem](Outlook.SharingItem.md)** will be saved after being sent. Read/write.
 

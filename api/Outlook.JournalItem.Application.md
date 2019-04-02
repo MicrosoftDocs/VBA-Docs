@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Application Property (Outlook)
+title: JournalItem.Application property (Outlook)
 keywords: vbaol11.chm1227
 f1_keywords:
 - vbaol11.chm1227
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Application Property (Outlook)
+# JournalItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

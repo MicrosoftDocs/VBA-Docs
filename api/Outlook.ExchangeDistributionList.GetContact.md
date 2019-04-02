@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.GetContact Method (Outlook)
+title: ExchangeDistributionList.GetContact method (Outlook)
 keywords: vbaol11.chm2125
 f1_keywords:
 - vbaol11.chm2125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.GetContact Method (Outlook)
+# ExchangeDistributionList.GetContact method (Outlook)
 
 Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object does not correspond to a contact in a Contacts Address Book.
 

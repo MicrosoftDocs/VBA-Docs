@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.PrimarySmtpAddress Property (Outlook)
+title: ExchangeUser.PrimarySmtpAddress property (Outlook)
 keywords: vbaol11.chm2098
 f1_keywords:
 - vbaol11.chm2098
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.PrimarySmtpAddress Property (Outlook)
+# ExchangeUser.PrimarySmtpAddress property (Outlook)
 
 Returns a  **String** representing the primary Simple Mail Transfer Protocol (SMTP) address for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 

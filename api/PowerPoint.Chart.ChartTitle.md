@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartTitle Property (PowerPoint)
+title: Chart.ChartTitle property (PowerPoint)
 keywords: vbapp10.chm684019
 f1_keywords:
 - vbapp10.chm684019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartTitle Property (PowerPoint)
+# Chart.ChartTitle property (PowerPoint)
 
 Returns the title of the specified chart. Read-only  **[ChartTitle](PowerPoint.ChartTitle.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: ItemProperties.Add Method (Outlook)
+title: ItemProperties.Add method (Outlook)
 keywords: vbaol11.chm538
 f1_keywords:
 - vbaol11.chm538
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperties.Add Method (Outlook)
+# ItemProperties.Add method (Outlook)
 
 Adds an  **ItemProperty** object to the **ItemProperties** collection.
 

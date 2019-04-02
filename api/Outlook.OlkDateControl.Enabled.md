@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.Enabled Property (Outlook)
+title: OlkDateControl.Enabled property (Outlook)
 keywords: vbaol11.chm1000347
 f1_keywords:
 - vbaol11.chm1000347
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.Enabled Property (Outlook)
+# OlkDateControl.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.IntervalTime Property (Outlook)
+title: OlkTimeControl.IntervalTime property (Outlook)
 keywords: vbaol11.chm1000397
 f1_keywords:
 - vbaol11.chm1000397
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.IntervalTime Property (Outlook)
+# OlkTimeControl.IntervalTime property (Outlook)
 
 Returns or sets a  **Date** that specifies the number of minutes displayed as an interval used for the **olTimeStyleTimeDuration** style setting on the time control. Read/write.
 

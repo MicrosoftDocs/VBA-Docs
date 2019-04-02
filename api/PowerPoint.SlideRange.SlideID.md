@@ -1,5 +1,5 @@
 ---
-title: SlideRange.SlideID Property (PowerPoint)
+title: SlideRange.SlideID property (PowerPoint)
 keywords: vbapp10.chm532009
 f1_keywords:
 - vbapp10.chm532009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.SlideID Property (PowerPoint)
+# SlideRange.SlideID property (PowerPoint)
 
 Returns a unique ID number for the specified slide. Read-only.
 

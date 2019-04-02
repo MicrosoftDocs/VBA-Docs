@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeItemCut Event (Outlook)
+title: Explorer.BeforeItemCut event (Outlook)
 keywords: vbaol11.chm462
 f1_keywords:
 - vbaol11.chm462
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.BeforeItemCut Event (Outlook)
+# Explorer.BeforeItemCut event (Outlook)
 
 Occurs when an Outlook item is cut from a folder.
 

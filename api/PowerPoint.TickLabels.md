@@ -1,5 +1,5 @@
 ---
-title: TickLabels Object (PowerPoint)
+title: TickLabels object (PowerPoint)
 keywords: vbapp10.chm719000
 f1_keywords:
 - vbapp10.chm719000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels Object (PowerPoint)
+# TickLabels object (PowerPoint)
 
 Represents the tick-mark labels associated with tick marks on a chart axis.
 

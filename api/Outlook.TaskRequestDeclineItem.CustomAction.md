@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.CustomAction Event (Outlook)
+title: TaskRequestDeclineItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.CustomAction Event (Outlook)
+# TaskRequestDeclineItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 

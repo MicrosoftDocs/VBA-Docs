@@ -1,5 +1,5 @@
 ---
-title: Pages.Count Property (Outlook)
+title: Pages.Count property (Outlook)
 keywords: vbaol11.chm395
 f1_keywords:
 - vbaol11.chm395
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Count Property (Outlook)
+# Pages.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -27,6 +27,6 @@ _expression_ A variable that represents a [Pages](Outlook.Pages.md) object.
 ## See also
 
 
-[Pages Object (Outlook)](Outlook.Pages.md)
+[Pages object (Outlook)](Outlook.Pages.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

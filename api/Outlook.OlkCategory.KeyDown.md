@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.KeyDown Event (Outlook)
+title: OlkCategory.KeyDown event (Outlook)
 keywords: vbaol11.chm1000456
 f1_keywords:
 - vbaol11.chm1000456
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.KeyDown Event (Outlook)
+# OlkCategory.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 

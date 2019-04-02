@@ -1,5 +1,5 @@
 ---
-title: SharingItem.HTMLBody Property (Outlook)
+title: SharingItem.HTMLBody property (Outlook)
 keywords: vbaol11.chm641
 f1_keywords:
 - vbaol11.chm641
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.HTMLBody Property (Outlook)
+# SharingItem.HTMLBody property (Outlook)
 
 Returns or sets a  **String** representing the HTML body of the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

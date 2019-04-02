@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email1EntryID Property (Outlook)
+title: ContactItem.Email1EntryID property (Outlook)
 keywords: vbaol11.chm994
 f1_keywords:
 - vbaol11.chm994
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Email1EntryID Property (Outlook)
+# ContactItem.Email1EntryID property (Outlook)
 
 Returns a  **String** representing the entry ID of the first email address for the contact. Read-only.
 

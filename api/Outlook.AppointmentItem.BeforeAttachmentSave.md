@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.BeforeAttachmentSave Event (Outlook)
+title: AppointmentItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.BeforeAttachmentSave Event (Outlook)
+# AppointmentItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 

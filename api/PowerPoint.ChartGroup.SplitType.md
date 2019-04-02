@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SplitType Property (PowerPoint)
+title: ChartGroup.SplitType property (PowerPoint)
 keywords: vbapp10.chm692003
 f1_keywords:
 - vbapp10.chm692003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.SplitType Property (PowerPoint)
+# ChartGroup.SplitType property (PowerPoint)
 
 Returns or sets the way the two sections of either a pie-of-pie chart or a bar-of-pie chart are split. Read/write  **[xlChartSplitType](PowerPoint.XlChartSplitType.md)**.
 

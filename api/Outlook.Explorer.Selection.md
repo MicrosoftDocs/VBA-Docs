@@ -1,5 +1,5 @@
 ---
-title: Explorer.Selection Property (Outlook)
+title: Explorer.Selection property (Outlook)
 keywords: vbaol11.chm2770
 f1_keywords:
 - vbaol11.chm2770
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Selection Property (Outlook)
+# Explorer.Selection property (Outlook)
 
 Returns a  **[Selection](Outlook.Selection.md)** object that contains the item or items that are selected in the explorer window. Read-only.
 

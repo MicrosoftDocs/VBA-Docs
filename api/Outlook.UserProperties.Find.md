@@ -1,5 +1,5 @@
 ---
-title: UserProperties.Find Method (Outlook)
+title: UserProperties.Find method (Outlook)
 keywords: vbaol11.chm210
 f1_keywords:
 - vbaol11.chm210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperties.Find Method (Outlook)
+# UserProperties.Find method (Outlook)
 
 Locates and returns a  **[UserProperty](Outlook.UserProperty.md)** object for the requested property name, if it exists.
 

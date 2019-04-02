@@ -1,5 +1,5 @@
 ---
-title: NotesModule.Visible Property (Outlook)
+title: NotesModule.Visible property (Outlook)
 keywords: vbaol11.chm2879
 f1_keywords:
 - vbaol11.chm2879
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule.Visible Property (Outlook)
+# NotesModule.Visible property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether the **[NotesModule](Outlook.NotesModule.md)** object is displayed in the navigation pane. Read/write.
 

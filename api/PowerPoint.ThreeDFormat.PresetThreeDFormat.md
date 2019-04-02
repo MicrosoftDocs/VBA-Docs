@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetThreeDFormat Property (PowerPoint)
+title: ThreeDFormat.PresetThreeDFormat property (PowerPoint)
 keywords: vbapp10.chm557015
 f1_keywords:
 - vbapp10.chm557015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetThreeDFormat Property (PowerPoint)
+# ThreeDFormat.PresetThreeDFormat property (PowerPoint)
 
 Returns the preset extrusion format. Read-only.
 

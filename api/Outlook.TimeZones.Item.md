@@ -1,5 +1,5 @@
 ---
-title: TimeZones.Item Method (Outlook)
+title: TimeZones.Item method (Outlook)
 keywords: vbaol11.chm3296
 f1_keywords:
 - vbaol11.chm3296
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZones.Item Method (Outlook)
+# TimeZones.Item method (Outlook)
 
 Returns a  **[TimeZone](Outlook.TimeZone.md)** object from the collection.
 

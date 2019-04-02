@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.Item Method (Outlook)
+title: NavigationGroups.Item method (Outlook)
 keywords: vbaol11.chm2857
 f1_keywords:
 - vbaol11.chm2857
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.Item Method (Outlook)
+# NavigationGroups.Item method (Outlook)
 
 Returns a  **[NavigationGroup](Outlook.NavigationGroup.md)** object from the collection.
 

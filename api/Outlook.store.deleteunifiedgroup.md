@@ -1,5 +1,5 @@
 ---
-title: Store.DeleteUnifiedGroup Method (Outlook)
+title: Store.DeleteUnifiedGroup method (Outlook)
 keywords: vbaol11.chm3632
 f1_keywords:
 - vbaol11.chm3632
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Store.DeleteUnifiedGroup Method (Outlook)
+# Store.DeleteUnifiedGroup method (Outlook)
 
 Enables a unified group to be deleted.
 
@@ -37,6 +37,6 @@ The Smtp address used to delete the group.
 ## See also
 
 
-[Store Object (Outlook)](Outlook.Store.md)
+[Store object (Outlook)](Outlook.Store.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

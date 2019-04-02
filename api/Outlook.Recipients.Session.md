@@ -1,5 +1,5 @@
 ---
-title: Recipients.Session Property (Outlook)
+title: Recipients.Session property (Outlook)
 keywords: vbaol11.chm228
 f1_keywords:
 - vbaol11.chm228
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipients.Session Property (Outlook)
+# Recipients.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

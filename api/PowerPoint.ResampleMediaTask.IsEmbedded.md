@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.IsEmbedded Property (PowerPoint)
+title: ResampleMediaTask.IsEmbedded property (PowerPoint)
 keywords: vbapp10.chm727003
 f1_keywords:
 - vbapp10.chm727003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.IsEmbedded Property (PowerPoint)
+# ResampleMediaTask.IsEmbedded property (PowerPoint)
 
 Returns whether the sample is embedded. Read-only.
 

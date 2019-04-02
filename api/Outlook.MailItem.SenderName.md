@@ -1,5 +1,5 @@
 ---
-title: MailItem.SenderName Property (Outlook)
+title: MailItem.SenderName property (Outlook)
 keywords: vbaol11.chm1357
 f1_keywords:
 - vbaol11.chm1357
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.SenderName Property (Outlook)
+# MailItem.SenderName property (Outlook)
 
 Returns a  **String** indicating the display name of the sender for the Outlook item. Read-only.
 

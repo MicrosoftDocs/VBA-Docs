@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.SendUsingAccount Property (Outlook)
+title: MeetingItem.SendUsingAccount property (Outlook)
 keywords: vbaol11.chm3509
 f1_keywords:
 - vbaol11.chm3509
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.SendUsingAccount Property (Outlook)
+# MeetingItem.SendUsingAccount property (Outlook)
 
 Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account to use to send the **[MeetingItem](Outlook.MeetingItem.md)**. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.Crosses Property (PowerPoint)
+title: Axis.Crosses property (PowerPoint)
 keywords: vbapp10.chm682005
 f1_keywords:
 - vbapp10.chm682005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.Crosses Property (PowerPoint)
+# Axis.Crosses property (PowerPoint)
 
 Returns or sets the point on the specified axis where the other axis crosses. Read/write  **Long**.
 

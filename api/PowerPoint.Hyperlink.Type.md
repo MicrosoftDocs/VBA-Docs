@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Type Property (PowerPoint)
+title: Hyperlink.Type property (PowerPoint)
 keywords: vbapp10.chm526003
 f1_keywords:
 - vbapp10.chm526003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Type Property (PowerPoint)
+# Hyperlink.Type property (PowerPoint)
 
 Represents the type of hyperlink. Read-only.
 

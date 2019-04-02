@@ -1,5 +1,5 @@
 ---
-title: ContactItem.InternetFreeBusyAddress Property (Outlook)
+title: ContactItem.InternetFreeBusyAddress property (Outlook)
 keywords: vbaol11.chm1022
 f1_keywords:
 - vbaol11.chm1022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.InternetFreeBusyAddress Property (Outlook)
+# ContactItem.InternetFreeBusyAddress property (Outlook)
 
 Returns or sets a  **String** corresponding to the **Address** box on the **Details** tab for a contact. Read/write.
 

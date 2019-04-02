@@ -1,5 +1,5 @@
 ---
-title: Reminder.Caption Property (Outlook)
+title: Reminder.Caption property (Outlook)
 keywords: vbaol11.chm560
 f1_keywords:
 - vbaol11.chm560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.Caption Property (Outlook)
+# Reminder.Caption property (Outlook)
 
 Returns a  **String** representing the title. Read-only.
 

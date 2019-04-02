@@ -1,5 +1,5 @@
 ---
-title: ColumnFormat.Width Property (Outlook)
+title: ColumnFormat.Width property (Outlook)
 keywords: vbaol11.chm2730
 f1_keywords:
 - vbaol11.chm2730
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColumnFormat.Width Property (Outlook)
+# ColumnFormat.Width property (Outlook)
 
 Returns or sets a  **Long** value indicating the approximate width (in characters) of the column. Read/write.
 

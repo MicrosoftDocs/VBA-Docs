@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Italic Property (PowerPoint)
+title: ChartFont.Italic property (PowerPoint)
 keywords: vbapp10.chm704006
 f1_keywords:
 - vbapp10.chm704006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Italic Property (PowerPoint)
+# ChartFont.Italic property (PowerPoint)
 
  **True** if the font style is italic. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem Object (Outlook)
+title: DistListItem object (Outlook)
 keywords: vbaol11.chm2993
 f1_keywords:
 - vbaol11.chm2993
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem Object (Outlook)
+# DistListItem object (Outlook)
 
 Represents a distribution list in a Contacts folder.
 

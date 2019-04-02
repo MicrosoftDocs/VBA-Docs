@@ -1,5 +1,5 @@
 ---
-title: PropertyPages.Add Method (Outlook)
+title: PropertyPages.Add method (Outlook)
 keywords: vbaol11.chm167
 f1_keywords:
 - vbaol11.chm167
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPages.Add Method (Outlook)
+# PropertyPages.Add method (Outlook)
 
 Adds a new custom property page to the Microsoft Outlook **Options** dialog box or to the folder **Properties** dialog box.
 

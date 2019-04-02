@@ -1,5 +1,5 @@
 ---
-title: Panes Object (Outlook)
+title: Panes object (Outlook)
 keywords: vbaol11.chm73
 f1_keywords:
 - vbaol11.chm73
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Panes Object (Outlook)
+# Panes object (Outlook)
 
 Contains the panes displayed by the specified  **[Explorer](Outlook.Explorer.md)**.
 

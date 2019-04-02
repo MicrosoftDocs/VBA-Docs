@@ -1,5 +1,5 @@
 ---
-title: Master.SlideShowTransition Property (PowerPoint)
+title: Master.SlideShowTransition property (PowerPoint)
 keywords: vbapp10.chm533016
 f1_keywords:
 - vbapp10.chm533016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.SlideShowTransition Property (PowerPoint)
+# Master.SlideShowTransition property (PowerPoint)
 
 Returns a  **[SlideShowTransition](PowerPoint.SlideShowTransition.md)** object that represents the special effects for the specified slide transition. Read-only.
 

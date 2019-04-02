@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection.Session Property (Outlook)
+title: AttachmentSelection.Session property (Outlook)
 keywords: vbaol11.chm2941
 f1_keywords:
 - vbaol11.chm2941
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AttachmentSelection.Session Property (Outlook)
+# AttachmentSelection.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

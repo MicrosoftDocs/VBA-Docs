@@ -1,5 +1,5 @@
 ---
-title: SharingItem.OutlookVersion Property (Outlook)
+title: SharingItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm616
 f1_keywords:
 - vbaol11.chm616
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.OutlookVersion Property (Outlook)
+# SharingItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for a **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 

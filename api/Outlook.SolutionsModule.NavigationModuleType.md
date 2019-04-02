@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule.NavigationModuleType Property (Outlook)
+title: SolutionsModule.NavigationModuleType property (Outlook)
 keywords: vbaol11.chm3364
 f1_keywords:
 - vbaol11.chm3364
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SolutionsModule.NavigationModuleType Property (Outlook)
+# SolutionsModule.NavigationModuleType property (Outlook)
 
 Returns an  **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the **[SolutionsModule](Outlook.SolutionsModule.md)** object. Read-only.
 

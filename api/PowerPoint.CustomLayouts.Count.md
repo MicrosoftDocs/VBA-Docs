@@ -1,5 +1,5 @@
 ---
-title: CustomLayouts.Count Property (PowerPoint)
+title: CustomLayouts.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayouts.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayouts.Count Property (PowerPoint)
+# CustomLayouts.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

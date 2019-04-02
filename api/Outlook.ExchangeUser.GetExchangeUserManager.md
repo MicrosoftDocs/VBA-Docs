@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.GetExchangeUserManager Method (Outlook)
+title: ExchangeUser.GetExchangeUserManager method (Outlook)
 keywords: vbaol11.chm3238
 f1_keywords:
 - vbaol11.chm3238
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.GetExchangeUserManager Method (Outlook)
+# ExchangeUser.GetExchangeUserManager method (Outlook)
 
 Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents the manager of the Exchange user.
 

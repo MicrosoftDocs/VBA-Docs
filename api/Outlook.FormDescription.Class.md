@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Class Property (Outlook)
+title: FormDescription.Class property (Outlook)
 keywords: vbaol11.chm180
 f1_keywords:
 - vbaol11.chm180
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.Class Property (Outlook)
+# FormDescription.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

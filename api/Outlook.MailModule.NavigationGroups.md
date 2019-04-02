@@ -1,5 +1,5 @@
 ---
-title: MailModule.NavigationGroups Property (Outlook)
+title: MailModule.NavigationGroups property (Outlook)
 keywords: vbaol11.chm2820
 f1_keywords:
 - vbaol11.chm2820
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailModule.NavigationGroups Property (Outlook)
+# MailModule.NavigationGroups property (Outlook)
 
 Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[MailModule](Outlook.MailModule.md)** object. Read-only.
 

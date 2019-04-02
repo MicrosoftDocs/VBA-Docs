@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Categories Property (Outlook)
+title: MeetingItem.Categories property (Outlook)
 keywords: vbaol11.chm1406
 f1_keywords:
 - vbaol11.chm1406
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Categories Property (Outlook)
+# MeetingItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

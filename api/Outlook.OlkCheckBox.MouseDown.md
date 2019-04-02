@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.MouseDown Event (Outlook)
+title: OlkCheckBox.MouseDown event (Outlook)
 keywords: vbaol11.chm1000151
 f1_keywords:
 - vbaol11.chm1000151
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.MouseDown Event (Outlook)
+# OlkCheckBox.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 

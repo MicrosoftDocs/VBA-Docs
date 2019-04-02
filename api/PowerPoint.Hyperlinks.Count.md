@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Count Property (PowerPoint)
+title: Hyperlinks.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlinks.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Count Property (PowerPoint)
+# Hyperlinks.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.RTFBody Property (Outlook)
+title: MeetingItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3526
 f1_keywords:
 - vbaol11.chm3526
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.RTFBody Property (Outlook)
+# MeetingItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 

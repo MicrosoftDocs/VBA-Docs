@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShows.Count Property (PowerPoint)
+title: NamedSlideShows.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.NamedSlideShows.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShows.Count Property (PowerPoint)
+# NamedSlideShows.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

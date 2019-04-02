@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email2AddressType Property (Outlook)
+title: ContactItem.Email2AddressType property (Outlook)
 keywords: vbaol11.chm996
 f1_keywords:
 - vbaol11.chm996
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Email2AddressType Property (Outlook)
+# ContactItem.Email2AddressType property (Outlook)
 
 Returns or sets a  **String** representing the address type (such as EX or SMTP) of the second email entry for the contact. Read/write.
 

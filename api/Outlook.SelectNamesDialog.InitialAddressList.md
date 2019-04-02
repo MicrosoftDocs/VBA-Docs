@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.InitialAddressList Property (Outlook)
+title: SelectNamesDialog.InitialAddressList property (Outlook)
 keywords: vbaol11.chm835
 f1_keywords:
 - vbaol11.chm835
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.InitialAddressList Property (Outlook)
+# SelectNamesDialog.InitialAddressList property (Outlook)
 
 Returns or sets an  **[AddressList](Outlook.AddressList.md)** object that determines the initial address list to be displayed in the **Select Names** dialog box. Read/write.
 

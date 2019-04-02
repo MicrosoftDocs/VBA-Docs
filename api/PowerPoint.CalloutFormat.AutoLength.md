@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutoLength Property (PowerPoint)
+title: CalloutFormat.AutoLength property (PowerPoint)
 keywords: vbapp10.chm559009
 f1_keywords:
 - vbapp10.chm559009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.AutoLength Property (PowerPoint)
+# CalloutFormat.AutoLength property (PowerPoint)
 
 Determines whether the first segment of the callout retains the fixed length specified by the  **[Length](PowerPoint.CalloutFormat.Length.md)** property, or is scaled automatically, whenever the callout is moved. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Delete Method (Outlook)
+title: AddressEntry.Delete method (Outlook)
 keywords: vbaol11.chm2050
 f1_keywords:
 - vbaol11.chm2050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.Delete Method (Outlook)
+# AddressEntry.Delete method (Outlook)
 
 Deletes an object from the collection.
 

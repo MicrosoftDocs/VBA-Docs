@@ -1,5 +1,5 @@
 ---
-title: Fonts.Application Property (PowerPoint)
+title: Fonts.Application property (PowerPoint)
 keywords: vbapp10.chm528001
 f1_keywords:
 - vbapp10.chm528001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Application Property (PowerPoint)
+# Fonts.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

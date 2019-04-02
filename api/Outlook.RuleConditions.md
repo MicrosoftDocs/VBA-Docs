@@ -1,5 +1,5 @@
 ---
-title: RuleConditions Object (Outlook)
+title: RuleConditions object (Outlook)
 keywords: vbaol11.chm3172
 f1_keywords:
 - vbaol11.chm3172
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions Object (Outlook)
+# RuleConditions object (Outlook)
 
 Contains a set of  **[RuleCondition](Outlook.RuleCondition.md)** objects or objects derived from **RuleCondition**, representing the conditions or exception conditions that must be satisfied in order for the **[Rule](Outlook.Rule.md)** to execute.
 

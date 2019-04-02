@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Send Method (Outlook)
+title: MeetingItem.Send method (Outlook)
 keywords: vbaol11.chm1458
 f1_keywords:
 - vbaol11.chm1458
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Send Method (Outlook)
+# MeetingItem.Send method (Outlook)
 
 Sends the meeting item.
 

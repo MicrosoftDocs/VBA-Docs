@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ClearTaskFlag Method (Outlook)
+title: SharingItem.ClearTaskFlag method (Outlook)
 keywords: vbaol11.chm3224
 f1_keywords:
 - vbaol11.chm3224
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ClearTaskFlag Method (Outlook)
+# SharingItem.ClearTaskFlag method (Outlook)
 
 Clears the  **[SharingItem](Outlook.SharingItem.md)** object as a task.
 

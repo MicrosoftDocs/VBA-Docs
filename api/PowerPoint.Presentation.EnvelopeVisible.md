@@ -1,5 +1,5 @@
 ---
-title: Presentation.EnvelopeVisible Property (PowerPoint)
+title: Presentation.EnvelopeVisible property (PowerPoint)
 keywords: vbapp10.chm583057
 f1_keywords:
 - vbapp10.chm583057
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.EnvelopeVisible Property (PowerPoint)
+# Presentation.EnvelopeVisible property (PowerPoint)
 
 Determines whether the email message header is visible in the document window. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Size Property (Outlook)
+title: ContactItem.Size property (Outlook)
 keywords: vbaol11.chm952
 f1_keywords:
 - vbaol11.chm952
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Size Property (Outlook)
+# ContactItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.MessageClass Property (Outlook)
+title: TaskRequestUpdateItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1936
 f1_keywords:
 - vbaol11.chm1936
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.MessageClass Property (Outlook)
+# TaskRequestUpdateItem.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the Outlook item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Recipient.Address Property (Outlook)
+title: Recipient.Address property (Outlook)
 keywords: vbaol11.chm2344
 f1_keywords:
 - vbaol11.chm2344
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Address Property (Outlook)
+# Recipient.Address property (Outlook)
 
 Returns a  **String** representing the email address of the **[Recipient](Outlook.Recipient.md)**. Read-only.
 

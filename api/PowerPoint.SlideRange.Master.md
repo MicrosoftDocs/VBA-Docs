@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Master Property (PowerPoint)
+title: SlideRange.Master property (PowerPoint)
 keywords: vbapp10.chm532023
 f1_keywords:
 - vbapp10.chm532023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Master Property (PowerPoint)
+# SlideRange.Master property (PowerPoint)
 
 Returns a  **[Master](PowerPoint.Master.md)** object that represents the slide master. Read-only.
 

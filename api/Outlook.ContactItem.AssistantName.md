@@ -1,5 +1,5 @@
 ---
-title: ContactItem.AssistantName Property (Outlook)
+title: ContactItem.AssistantName property (Outlook)
 keywords: vbaol11.chm966
 f1_keywords:
 - vbaol11.chm966
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.AssistantName Property (Outlook)
+# ContactItem.AssistantName property (Outlook)
 
 Returns or sets a  **String** representing the name of the person who is the assistant for the contact. Read/write.
 

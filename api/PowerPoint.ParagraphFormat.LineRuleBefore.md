@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineRuleBefore Property (PowerPoint)
+title: ParagraphFormat.LineRuleBefore property (PowerPoint)
 keywords: vbapp10.chm576005
 f1_keywords:
 - vbapp10.chm576005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LineRuleBefore Property (PowerPoint)
+# ParagraphFormat.LineRuleBefore property (PowerPoint)
 
 Determines whether line spacing before the first line in each paragraph is set to a specific number of points or lines. Read/write.
 

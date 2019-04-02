@@ -1,5 +1,5 @@
 ---
-title: Actions.Add Method (Outlook)
+title: Actions.Add method (Outlook)
 keywords: vbaol11.chm151
 f1_keywords:
 - vbaol11.chm151
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Actions.Add Method (Outlook)
+# Actions.Add method (Outlook)
 
 Creates a new action in the  **[Actions](Outlook.Actions.md)** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Session Property (Outlook)
+title: RemoteItem.Session property (Outlook)
 keywords: vbaol11.chm1584
 f1_keywords:
 - vbaol11.chm1584
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Session Property (Outlook)
+# RemoteItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Companies Property (Outlook)
+title: TaskRequestDeclineItem.Companies property (Outlook)
 keywords: vbaol11.chm1828
 f1_keywords:
 - vbaol11.chm1828
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Companies Property (Outlook)
+# TaskRequestDeclineItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the Outlook item. Read/write.
 

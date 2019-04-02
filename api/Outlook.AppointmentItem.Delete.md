@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Delete Method (Outlook)
+title: AppointmentItem.Delete method (Outlook)
 keywords: vbaol11.chm870
 f1_keywords:
 - vbaol11.chm870
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Delete Method (Outlook)
+# AppointmentItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 

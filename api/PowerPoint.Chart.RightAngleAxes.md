@@ -1,5 +1,5 @@
 ---
-title: Chart.RightAngleAxes Property (PowerPoint)
+title: Chart.RightAngleAxes property (PowerPoint)
 keywords: vbapp10.chm684040
 f1_keywords:
 - vbapp10.chm684040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.RightAngleAxes Property (PowerPoint)
+# Chart.RightAngleAxes property (PowerPoint)
 
  **True** if the chart axes are at right angles, independent of chart rotation or elevation. Read/write **Boolean**.
 

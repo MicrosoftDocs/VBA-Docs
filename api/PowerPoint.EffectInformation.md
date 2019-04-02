@@ -1,5 +1,5 @@
 ---
-title: EffectInformation Object (PowerPoint)
+title: EffectInformation object (PowerPoint)
 keywords: vbapp10.chm655000
 f1_keywords:
 - vbapp10.chm655000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EffectInformation Object (PowerPoint)
+# EffectInformation object (PowerPoint)
 
 Represents various animation options for an  **[Effect](PowerPoint.Effect.md)** object.
 

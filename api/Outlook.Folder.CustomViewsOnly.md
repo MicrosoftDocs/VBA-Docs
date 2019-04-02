@@ -1,5 +1,5 @@
 ---
-title: Folder.CustomViewsOnly Property (Outlook)
+title: Folder.CustomViewsOnly property (Outlook)
 keywords: vbaol11.chm2010
 f1_keywords:
 - vbaol11.chm2010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.CustomViewsOnly Property (Outlook)
+# Folder.CustomViewsOnly property (Outlook)
 
 Returns or sets a  **Boolean** that determines which views are displayed on the **View** menu for a given folder. Read/write.
 

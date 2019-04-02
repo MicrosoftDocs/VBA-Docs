@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.KernedPairs Property (PowerPoint)
+title: TextEffectFormat.KernedPairs property (PowerPoint)
 keywords: vbapp10.chm556008
 f1_keywords:
 - vbapp10.chm556008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.KernedPairs Property (PowerPoint)
+# TextEffectFormat.KernedPairs property (PowerPoint)
 
 Determines whether the character pairs in the specified WordArt are kerned. Read/write.
 

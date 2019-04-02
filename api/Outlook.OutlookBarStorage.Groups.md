@@ -1,5 +1,5 @@
 ---
-title: OutlookBarStorage.Groups Property (Outlook)
+title: OutlookBarStorage.Groups property (Outlook)
 keywords: vbaol11.chm372
 f1_keywords:
 - vbaol11.chm372
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarStorage.Groups Property (Outlook)
+# OutlookBarStorage.Groups property (Outlook)
 
 Returns an  **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object representing the set of groups in the **Shortcuts** pane. Read-only.
 

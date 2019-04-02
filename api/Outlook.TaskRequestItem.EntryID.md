@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.EntryID Property (Outlook)
+title: TaskRequestItem.EntryID property (Outlook)
 keywords: vbaol11.chm1881
 f1_keywords:
 - vbaol11.chm1881
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.EntryID Property (Outlook)
+# TaskRequestItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 

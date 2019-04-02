@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.FrameSlides Property (PowerPoint)
+title: PrintOptions.FrameSlides property (PowerPoint)
 keywords: vbapp10.chm517005
 f1_keywords:
 - vbapp10.chm517005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.FrameSlides Property (PowerPoint)
+# PrintOptions.FrameSlides property (PowerPoint)
 
 Determines whether a thin frame is placed around the border of the printed slides. Read/write. 
 

@@ -1,5 +1,5 @@
 ---
-title: ViewFields.Count Property (Outlook)
+title: ViewFields.Count property (Outlook)
 keywords: vbaol11.chm2550
 f1_keywords:
 - vbaol11.chm2550
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFields.Count Property (Outlook)
+# ViewFields.Count property (Outlook)
 
 Returns a  **Long** value indicating the count of **[ViewField](Outlook.ViewField.md)** objects in the specified collection. Read-only.
 

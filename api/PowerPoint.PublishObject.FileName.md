@@ -1,5 +1,5 @@
 ---
-title: PublishObject.FileName Property (PowerPoint)
+title: PublishObject.FileName property (PowerPoint)
 keywords: vbapp10.chm635009
 f1_keywords:
 - vbapp10.chm635009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PublishObject.FileName Property (PowerPoint)
+# PublishObject.FileName property (PowerPoint)
 
 Returns or sets the path and file name of the Web presentation created when all or part of the active presentation is published. Read/write.
 

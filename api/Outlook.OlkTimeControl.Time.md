@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Time Property (Outlook)
+title: OlkTimeControl.Time property (Outlook)
 keywords: vbaol11.chm1000393
 f1_keywords:
 - vbaol11.chm1000393
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Time Property (Outlook)
+# OlkTimeControl.Time property (Outlook)
 
 Returns or sets a  **Date** that represents the time value currently selected in the control. Read/write.
 

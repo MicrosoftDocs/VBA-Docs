@@ -1,5 +1,5 @@
 ---
-title: TasksModule.Class Property (Outlook)
+title: TasksModule.Class property (Outlook)
 keywords: vbaol11.chm2843
 f1_keywords:
 - vbaol11.chm2843
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TasksModule.Class Property (Outlook)
+# TasksModule.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

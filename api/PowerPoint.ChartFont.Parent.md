@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Parent Property (PowerPoint)
+title: ChartFont.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Parent Property (PowerPoint)
+# ChartFont.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

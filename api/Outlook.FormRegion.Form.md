@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Form Property (Outlook)
+title: FormRegion.Form property (Outlook)
 keywords: vbaol11.chm2391
 f1_keywords:
 - vbaol11.chm2391
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Form Property (Outlook)
+# FormRegion.Form property (Outlook)
 
 Returns an  **Object** representing the **MSForms.UserForm** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CardView.SaveOption Property (Outlook)
+title: CardView.SaveOption property (Outlook)
 keywords: vbaol11.chm2591
 f1_keywords:
 - vbaol11.chm2591
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.SaveOption Property (Outlook)
+# CardView.SaveOption property (Outlook)
 
 Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 

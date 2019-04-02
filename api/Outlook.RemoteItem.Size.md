@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Size Property (Outlook)
+title: RemoteItem.Size property (Outlook)
 keywords: vbaol11.chm1608
 f1_keywords:
 - vbaol11.chm1608
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Size Property (Outlook)
+# RemoteItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 

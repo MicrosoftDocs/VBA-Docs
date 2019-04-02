@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Application Property (PowerPoint)
+title: TextFrame2.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.Application Property (PowerPoint)
+# TextFrame2.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified **TextFrame2** object. Read-only.
 

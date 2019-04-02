@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorUnitScale Property (PowerPoint)
+title: Axis.MinorUnitScale property (PowerPoint)
 keywords: vbapp10.chm682036
 f1_keywords:
 - vbapp10.chm682036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.MinorUnitScale Property (PowerPoint)
+# Axis.MinorUnitScale property (PowerPoint)
 
 Returns or sets the minor unit scale value for the category axis when the  **[CategoryType](PowerPoint.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[xlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 

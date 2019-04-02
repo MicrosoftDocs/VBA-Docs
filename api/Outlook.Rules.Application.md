@@ -1,5 +1,5 @@
 ---
-title: Rules.Application Property (Outlook)
+title: Rules.Application property (Outlook)
 keywords: vbaol11.chm2154
 f1_keywords:
 - vbaol11.chm2154
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rules.Application Property (Outlook)
+# Rules.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

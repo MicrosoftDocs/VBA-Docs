@@ -1,5 +1,5 @@
 ---
-title: AddIn.AutoLoad Property (PowerPoint)
+title: AddIn.AutoLoad property (PowerPoint)
 keywords: vbapp10.chm521007
 f1_keywords:
 - vbapp10.chm521007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIn.AutoLoad Property (PowerPoint)
+# AddIn.AutoLoad property (PowerPoint)
 
 Determines whether the specified add-in is automatically loaded each time PowerPoint is started. Read/write.
 

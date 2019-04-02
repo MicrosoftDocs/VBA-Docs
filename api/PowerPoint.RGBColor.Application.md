@@ -1,5 +1,5 @@
 ---
-title: RGBColor.Application Property (PowerPoint)
+title: RGBColor.Application property (PowerPoint)
 keywords: vbapp10.chm538001
 f1_keywords:
 - vbapp10.chm538001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RGBColor.Application Property (PowerPoint)
+# RGBColor.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

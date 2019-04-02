@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Save Method (Outlook)
+title: CalendarView.Save method (Outlook)
 keywords: vbaol11.chm2615
 f1_keywords:
 - vbaol11.chm2615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Save Method (Outlook)
+# CalendarView.Save method (Outlook)
 
 Saves the view, or saves the changes to a view.
 

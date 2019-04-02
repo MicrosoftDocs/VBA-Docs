@@ -1,5 +1,5 @@
 ---
-title: Font.BaselineOffset Property (PowerPoint)
+title: Font.BaselineOffset property (PowerPoint)
 keywords: vbapp10.chm575011
 f1_keywords:
 - vbapp10.chm575011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.BaselineOffset Property (PowerPoint)
+# Font.BaselineOffset property (PowerPoint)
 
 Returns or sets the baseline offset for the specified superscript or subscript characters. Read/write.
 

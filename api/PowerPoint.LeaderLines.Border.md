@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Border Property (PowerPoint)
+title: LeaderLines.Border property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Border
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LeaderLines.Border Property (PowerPoint)
+# LeaderLines.Border property (PowerPoint)
 
 Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBorder.md)**.
 

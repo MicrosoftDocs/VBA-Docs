@@ -1,5 +1,5 @@
 ---
-title: Search.Session Property (Outlook)
+title: Search.Session property (Outlook)
 keywords: vbaol11.chm2251
 f1_keywords:
 - vbaol11.chm2251
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.Session Property (Outlook)
+# Search.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

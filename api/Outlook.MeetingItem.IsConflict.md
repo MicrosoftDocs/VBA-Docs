@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.IsConflict Property (Outlook)
+title: MeetingItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1464
 f1_keywords:
 - vbaol11.chm1464
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.IsConflict Property (Outlook)
+# MeetingItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 

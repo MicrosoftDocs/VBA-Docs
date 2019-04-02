@@ -1,5 +1,5 @@
 ---
-title: Folders Object (Outlook)
+title: Folders object (Outlook)
 keywords: vbaol11.chm2997
 f1_keywords:
 - vbaol11.chm2997
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders Object (Outlook)
+# Folders object (Outlook)
 
 Contains a set of  **[Folder](Outlook.Folder.md)** objects that represent all the available Outlook folders in a specific subset at one level of the folder tree.
 

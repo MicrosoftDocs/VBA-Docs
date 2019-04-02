@@ -1,5 +1,5 @@
 ---
-title: ContactItem.UserProperties Property (Outlook)
+title: ContactItem.UserProperties property (Outlook)
 keywords: vbaol11.chm955
 f1_keywords:
 - vbaol11.chm955
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.UserProperties Property (Outlook)
+# ContactItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 

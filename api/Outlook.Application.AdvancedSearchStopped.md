@@ -1,5 +1,5 @@
 ---
-title: Application.AdvancedSearchStopped Event (Outlook)
+title: Application.AdvancedSearchStopped event (Outlook)
 keywords: vbaol11.chm436
 f1_keywords:
 - vbaol11.chm436
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AdvancedSearchStopped Event (Outlook)
+# Application.AdvancedSearchStopped event (Outlook)
 
 Occurs when a specified  **[Search](Outlook.Search.md)** object's **[Stop](Outlook.Search.Stop.md)** method has been executed.
 

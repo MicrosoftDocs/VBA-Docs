@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.PathFormat Property (PowerPoint)
+title: TextFrame2.PathFormat property (PowerPoint)
 keywords: vbapp10.chm678009
 f1_keywords:
 - vbapp10.chm678009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.PathFormat Property (PowerPoint)
+# TextFrame2.PathFormat property (PowerPoint)
 
  Returns or sets the path type for the specified text frame. Read/write.
 

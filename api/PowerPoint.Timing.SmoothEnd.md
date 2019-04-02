@@ -1,5 +1,5 @@
 ---
-title: Timing.SmoothEnd Property (PowerPoint)
+title: Timing.SmoothEnd property (PowerPoint)
 keywords: vbapp10.chm653014
 f1_keywords:
 - vbapp10.chm653014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Timing.SmoothEnd Property (PowerPoint)
+# Timing.SmoothEnd property (PowerPoint)
 
 Determines whether an animation should decelerate as it ends. Read/write.
 

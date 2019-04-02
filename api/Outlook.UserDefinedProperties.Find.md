@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperties.Find Method (Outlook)
+title: UserDefinedProperties.Find method (Outlook)
 keywords: vbaol11.chm589
 f1_keywords:
 - vbaol11.chm589
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperties.Find Method (Outlook)
+# UserDefinedProperties.Find method (Outlook)
 
 Locate a  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in the collection.
 

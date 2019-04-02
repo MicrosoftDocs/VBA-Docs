@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat Object (PowerPoint)
+title: ThreeDFormat object (PowerPoint)
 keywords: vbapp10.chm557000
 f1_keywords:
 - vbapp10.chm557000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat Object (PowerPoint)
+# ThreeDFormat object (PowerPoint)
 
 Represents a shape's three-dimensional formatting.
 

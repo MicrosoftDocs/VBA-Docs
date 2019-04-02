@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.EmailSubject Property (PowerPoint)
+title: Hyperlink.EmailSubject property (PowerPoint)
 keywords: vbapp10.chm526007
 f1_keywords:
 - vbapp10.chm526007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.EmailSubject Property (PowerPoint)
+# Hyperlink.EmailSubject property (PowerPoint)
 
 Returns or sets the text string of the hyperlink subject line. The subject line is appended to the Internet address (URL) of the hyperlink. Read/write.
 

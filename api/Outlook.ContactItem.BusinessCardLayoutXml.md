@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessCardLayoutXml Property (Outlook)
+title: ContactItem.BusinessCardLayoutXml property (Outlook)
 keywords: vbaol11.chm3227
 f1_keywords:
 - vbaol11.chm3227
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessCardLayoutXml Property (Outlook)
+# ContactItem.BusinessCardLayoutXml property (Outlook)
 
 Returns or sets a  **String** that represents the XML markup for the layout of the Electronic Business Card. Read/write.
 

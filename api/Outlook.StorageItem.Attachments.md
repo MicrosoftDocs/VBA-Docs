@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Attachments Property (Outlook)
+title: StorageItem.Attachments property (Outlook)
 keywords: vbaol11.chm2147
 f1_keywords:
 - vbaol11.chm2147
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Attachments Property (Outlook)
+# StorageItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 

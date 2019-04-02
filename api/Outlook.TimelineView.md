@@ -1,5 +1,5 @@
 ---
-title: TimelineView Object (Outlook)
+title: TimelineView object (Outlook)
 keywords: vbaol11.chm3185
 f1_keywords:
 - vbaol11.chm3185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView Object (Outlook)
+# TimelineView object (Outlook)
 
 Represents a view that displays Outlook items in a timeline.
 

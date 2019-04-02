@@ -1,5 +1,5 @@
 ---
-title: UpBars Object (PowerPoint)
+title: UpBars object (PowerPoint)
 keywords: vbapp10.chm722000
 f1_keywords:
 - vbapp10.chm722000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UpBars Object (PowerPoint)
+# UpBars object (PowerPoint)
 
 Represents the up bars in a chart group.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.OutlookVersion Property (Outlook)
+title: TaskRequestAcceptItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1793
 f1_keywords:
 - vbaol11.chm1793
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.OutlookVersion Property (Outlook)
+# TaskRequestAcceptItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 

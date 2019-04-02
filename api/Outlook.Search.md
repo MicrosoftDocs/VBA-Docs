@@ -1,5 +1,5 @@
 ---
-title: Search Object (Outlook)
+title: Search object (Outlook)
 keywords: vbaol11.chm2248
 f1_keywords:
 - vbaol11.chm2248
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search Object (Outlook)
+# Search object (Outlook)
 
 Contains information about individual searches performed against Outlook items.
 

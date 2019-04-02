@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Name Property (PowerPoint)
+title: ChartTitle.Name property (PowerPoint)
 keywords: vbapp10.chm694016
 f1_keywords:
 - vbapp10.chm694016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Name Property (PowerPoint)
+# ChartTitle.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

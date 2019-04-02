@@ -1,5 +1,5 @@
 ---
-title: Rule.Name Property (Outlook)
+title: Rule.Name property (Outlook)
 keywords: vbaol11.chm2168
 f1_keywords:
 - vbaol11.chm2168
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rule.Name Property (Outlook)
+# Rule.Name property (Outlook)
 
 Returns or sets a  **String** representing the name of the rule. Read/write.
 

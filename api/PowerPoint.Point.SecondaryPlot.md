@@ -1,5 +1,5 @@
 ---
-title: Point.SecondaryPlot Property (PowerPoint)
+title: Point.SecondaryPlot property (PowerPoint)
 keywords: vbapp10.chm67198
 f1_keywords:
 - vbapp10.chm67198
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point.SecondaryPlot Property (PowerPoint)
+# Point.SecondaryPlot property (PowerPoint)
 
  **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean**.
 

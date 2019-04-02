@@ -1,5 +1,5 @@
 ---
-title: Folder.Class Property (Outlook)
+title: Folder.Class property (Outlook)
 keywords: vbaol11.chm1982
 f1_keywords:
 - vbaol11.chm1982
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Class Property (Outlook)
+# Folder.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

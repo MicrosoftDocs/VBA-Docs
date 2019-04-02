@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.FollowColors Property (PowerPoint)
+title: OLEFormat.FollowColors property (PowerPoint)
 keywords: vbapp10.chm562006
 f1_keywords:
 - vbapp10.chm562006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.FollowColors Property (PowerPoint)
+# OLEFormat.FollowColors property (PowerPoint)
 
 Returns or sets the extent to which the colors in the specified object follow the slide's color scheme. Read/write.
 

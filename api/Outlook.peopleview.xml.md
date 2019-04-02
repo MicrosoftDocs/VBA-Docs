@@ -1,5 +1,5 @@
 ---
-title: PeopleView.XML Property (Outlook)
+title: PeopleView.XML property (Outlook)
 keywords: vbaol11.chm3584
 f1_keywords:
 - vbaol11.chm3584
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.XML Property (Outlook)
+# PeopleView.XML property (Outlook)
 Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
 
 ## Version information

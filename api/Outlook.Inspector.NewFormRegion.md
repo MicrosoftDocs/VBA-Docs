@@ -1,5 +1,5 @@
 ---
-title: Inspector.NewFormRegion Method (Outlook)
+title: Inspector.NewFormRegion method (Outlook)
 keywords: vbaol11.chm2981
 f1_keywords:
 - vbaol11.chm2981
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.NewFormRegion Method (Outlook)
+# Inspector.NewFormRegion method (Outlook)
 
 Opens a new page in design mode in the inspector for a new form region.
 

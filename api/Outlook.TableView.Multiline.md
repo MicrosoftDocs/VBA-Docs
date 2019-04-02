@@ -1,5 +1,5 @@
 ---
-title: TableView.MultiLine Property (Outlook)
+title: TableView.MultiLine property (Outlook)
 keywords: vbaol11.chm2524
 f1_keywords:
 - vbaol11.chm2524
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.MultiLine Property (Outlook)
+# TableView.MultiLine property (Outlook)
 
 Returns or sets an  **[OlMultiLine](Outlook.OlMultiLine.md)** constant that determines how multiple lines are displayed in the **[TableView](Outlook.TableView.md)** object. Read/write.
 

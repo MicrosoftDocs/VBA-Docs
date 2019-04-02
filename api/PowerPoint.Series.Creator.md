@@ -1,5 +1,5 @@
 ---
-title: Series.Creator Property (PowerPoint)
+title: Series.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.Creator Property (PowerPoint)
+# Series.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

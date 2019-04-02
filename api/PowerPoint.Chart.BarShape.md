@@ -1,5 +1,5 @@
 ---
-title: Chart.BarShape Property (PowerPoint)
+title: Chart.BarShape property (PowerPoint)
 keywords: vbapp10.chm684005
 f1_keywords:
 - vbapp10.chm684005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.BarShape Property (PowerPoint)
+# Chart.BarShape property (PowerPoint)
 
 Returns or sets the shape used for every series in a 3-D bar or column chart. Read/write  **[xlBarShape](PowerPoint.XlBarShape.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.AttachmentRemove Event (Outlook)
+title: PostItem.AttachmentRemove event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.AttachmentRemove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.AttachmentRemove Event (Outlook)
+# PostItem.AttachmentRemove event (Outlook)
 
 Occurs when an attachment has been removed from an instance of the parent object.
 

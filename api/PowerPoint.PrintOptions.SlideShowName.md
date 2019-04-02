@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.SlideShowName Property (PowerPoint)
+title: PrintOptions.SlideShowName property (PowerPoint)
 keywords: vbapp10.chm517014
 f1_keywords:
 - vbapp10.chm517014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.SlideShowName Property (PowerPoint)
+# PrintOptions.SlideShowName property (PowerPoint)
 
 Returns or sets the name of the custom slide show to print. Read/write .
 

@@ -1,5 +1,5 @@
 ---
-title: Folders.Count Property (Outlook)
+title: Folders.Count property (Outlook)
 keywords: vbaol11.chm43
 f1_keywords:
 - vbaol11.chm43
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.Count Property (Outlook)
+# Folders.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

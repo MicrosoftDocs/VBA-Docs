@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Move Method (Outlook)
+title: ReportItem.Move method (Outlook)
 keywords: vbaol11.chm1668
 f1_keywords:
 - vbaol11.chm1668
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Move Method (Outlook)
+# ReportItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

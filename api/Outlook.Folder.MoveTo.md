@@ -1,5 +1,5 @@
 ---
-title: Folder.MoveTo Method (Outlook)
+title: Folder.MoveTo method (Outlook)
 keywords: vbaol11.chm1998
 f1_keywords:
 - vbaol11.chm1998
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.MoveTo Method (Outlook)
+# Folder.MoveTo method (Outlook)
 
 Moves a folder to the specified destination folder.
 

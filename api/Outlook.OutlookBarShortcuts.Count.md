@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.Count Property (Outlook)
+title: OutlookBarShortcuts.Count property (Outlook)
 keywords: vbaol11.chm333
 f1_keywords:
 - vbaol11.chm333
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.Count Property (Outlook)
+# OutlookBarShortcuts.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

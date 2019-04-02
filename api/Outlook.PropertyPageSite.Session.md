@@ -1,5 +1,5 @@
 ---
-title: PropertyPageSite.Session Property (Outlook)
+title: PropertyPageSite.Session property (Outlook)
 keywords: vbaol11.chm387
 f1_keywords:
 - vbaol11.chm387
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPageSite.Session Property (Outlook)
+# PropertyPageSite.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

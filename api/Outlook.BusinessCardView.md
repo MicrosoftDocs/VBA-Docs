@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView Object (Outlook)
+title: BusinessCardView object (Outlook)
 keywords: vbaol11.chm3212
 f1_keywords:
 - vbaol11.chm3212
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView Object (Outlook)
+# BusinessCardView object (Outlook)
 
 Represents a view that displays data as a series of Electronic Business Card (EBC) images.
 

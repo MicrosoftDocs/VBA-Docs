@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Value Property (Outlook)
+title: OlkTimeControl.Value property (Outlook)
 keywords: vbaol11.chm1000396
 f1_keywords:
 - vbaol11.chm1000396
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Value Property (Outlook)
+# OlkTimeControl.Value property (Outlook)
 
 Returns or sets a  **Variant** that represents the content of the control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.WordWrap Property (PowerPoint)
+title: TextFrame.WordWrap property (PowerPoint)
 keywords: vbapp10.chm558013
 f1_keywords:
 - vbapp10.chm558013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.WordWrap Property (PowerPoint)
+# TextFrame.WordWrap property (PowerPoint)
 
 Determines whether lines break automatically to fit inside the shape. Read/write.
 

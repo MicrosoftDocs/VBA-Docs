@@ -1,5 +1,5 @@
 ---
-title: TableView.Copy Method (Outlook)
+title: TableView.Copy method (Outlook)
 keywords: vbaol11.chm2504
 f1_keywords:
 - vbaol11.chm2504
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Copy Method (Outlook)
+# TableView.Copy method (Outlook)
 
 Creates a new  **[View](Outlook.View.md)** object based on the existing **[TableView](Outlook.TableView.md)** object.
 

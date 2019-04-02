@@ -1,5 +1,5 @@
 ---
-title: ViewField Object (Outlook)
+title: ViewField object (Outlook)
 keywords: vbaol11.chm3205
 f1_keywords:
 - vbaol11.chm3205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewField Object (Outlook)
+# ViewField object (Outlook)
 
 Represents a view field, used to display information in a view.
 

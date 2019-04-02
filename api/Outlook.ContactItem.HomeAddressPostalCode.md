@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HomeAddressPostalCode Property (Outlook)
+title: ContactItem.HomeAddressPostalCode property (Outlook)
 keywords: vbaol11.chm1015
 f1_keywords:
 - vbaol11.chm1015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HomeAddressPostalCode Property (Outlook)
+# ContactItem.HomeAddressPostalCode property (Outlook)
 
 Returns or sets a  **String** representing the postal code portion of the home address for the contact. Read/write.
 

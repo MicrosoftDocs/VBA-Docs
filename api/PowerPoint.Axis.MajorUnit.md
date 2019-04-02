@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorUnit Property (PowerPoint)
+title: Axis.MajorUnit property (PowerPoint)
 keywords: vbapp10.chm682013
 f1_keywords:
 - vbapp10.chm682013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.MajorUnit Property (PowerPoint)
+# Axis.MajorUnit property (PowerPoint)
 
 Returns or sets the major units for the value axis. Read/write  **Double**.
 

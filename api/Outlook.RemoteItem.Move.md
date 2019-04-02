@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Move Method (Outlook)
+title: RemoteItem.Move method (Outlook)
 keywords: vbaol11.chm1616
 f1_keywords:
 - vbaol11.chm1616
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Move Method (Outlook)
+# RemoteItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

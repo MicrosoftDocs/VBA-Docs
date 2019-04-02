@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Class Property (Outlook)
+title: CalendarView.Class property (Outlook)
 keywords: vbaol11.chm2608
 f1_keywords:
 - vbaol11.chm2608
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Class Property (Outlook)
+# CalendarView.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

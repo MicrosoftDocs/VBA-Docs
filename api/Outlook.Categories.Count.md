@@ -1,5 +1,5 @@
 ---
-title: Categories.Count Property (Outlook)
+title: Categories.Count property (Outlook)
 keywords: vbaol11.chm2435
 f1_keywords:
 - vbaol11.chm2435
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Categories.Count Property (Outlook)
+# Categories.Count property (Outlook)
 
 Returns a  **Long** value indicating the count of **[Category](Outlook.Category.md)** objects in the specified collection. Read-only.
 

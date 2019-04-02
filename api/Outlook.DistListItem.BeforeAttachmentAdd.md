@@ -1,5 +1,5 @@
 ---
-title: DistListItem.BeforeAttachmentAdd Event (Outlook)
+title: DistListItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.BeforeAttachmentAdd Event (Outlook)
+# DistListItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 

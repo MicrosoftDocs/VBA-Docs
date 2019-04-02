@@ -1,5 +1,5 @@
 ---
-title: Series.PlotOrder Property (PowerPoint)
+title: Series.PlotOrder property (PowerPoint)
 keywords: vbapp10.chm65764
 f1_keywords:
 - vbapp10.chm65764
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.PlotOrder Property (PowerPoint)
+# Series.PlotOrder property (PowerPoint)
 
 Returns or sets the plot order for the selected series within the chart group. Read/write  **Long**.
 

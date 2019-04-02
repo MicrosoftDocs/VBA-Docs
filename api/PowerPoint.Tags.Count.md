@@ -1,5 +1,5 @@
 ---
-title: Tags.Count Property (PowerPoint)
+title: Tags.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Tags.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Count Property (PowerPoint)
+# Tags.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

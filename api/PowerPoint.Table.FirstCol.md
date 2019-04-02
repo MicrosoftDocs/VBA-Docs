@@ -1,5 +1,5 @@
 ---
-title: Table.FirstCol Property (PowerPoint)
+title: Table.FirstCol property (PowerPoint)
 keywords: vbapp10.chm622010
 f1_keywords:
 - vbapp10.chm622010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.FirstCol Property (PowerPoint)
+# Table.FirstCol property (PowerPoint)
 
 Determines whether to display special formatting for the first column of the specified table. Read/write.
 

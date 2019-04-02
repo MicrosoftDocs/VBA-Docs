@@ -1,5 +1,5 @@
 ---
-title: Table.GetArray Method (Outlook)
+title: Table.GetArray method (Outlook)
 keywords: vbaol11.chm2230
 f1_keywords:
 - vbaol11.chm2230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.GetArray Method (Outlook)
+# Table.GetArray method (Outlook)
 
 Obtains a two-dimensional array that contains a set of row and column values from the  **[Table](Outlook.Table.md)**.
 

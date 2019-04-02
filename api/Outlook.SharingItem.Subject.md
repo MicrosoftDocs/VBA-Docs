@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Subject Property (Outlook)
+title: SharingItem.Subject property (Outlook)
 keywords: vbaol11.chm620
 f1_keywords:
 - vbaol11.chm620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Subject Property (Outlook)
+# SharingItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Conversation.Application Property (Outlook)
+title: Conversation.Application property (Outlook)
 keywords: vbaol11.chm3383
 f1_keywords:
 - vbaol11.chm3383
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.Application Property (Outlook)
+# Conversation.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Microsoft Outlook application for the **[Conversation](Outlook.Conversation.md)** object. Read-only.
 

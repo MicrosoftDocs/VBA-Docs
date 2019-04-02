@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.TransferTime Property (Outlook)
+title: RemoteItem.TransferTime property (Outlook)
 keywords: vbaol11.chm1623
 f1_keywords:
 - vbaol11.chm1623
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.TransferTime Property (Outlook)
+# RemoteItem.TransferTime property (Outlook)
 
 Returns a  **Long** indicating the transfer time (in seconds) for the remote item. Read-only.
 

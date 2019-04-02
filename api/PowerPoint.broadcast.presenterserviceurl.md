@@ -1,5 +1,5 @@
 ---
-title: Broadcast.PresenterServiceUrl Property (PowerPoint)
+title: Broadcast.PresenterServiceUrl property (PowerPoint)
 keywords: vbapp10.chm732013
 f1_keywords:
 - vbapp10.chm732013
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.PresenterServiceUrl Property (PowerPoint)
+# Broadcast.PresenterServiceUrl property (PowerPoint)
 
 If a broadcast is in progress, returns a  **String** that represents the URL of the presenter service hosting the broadcast. Read-only.
 

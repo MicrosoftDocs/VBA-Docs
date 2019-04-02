@@ -1,5 +1,5 @@
 ---
-title: ContactItem.GetInspector Property (Outlook)
+title: ContactItem.GetInspector property (Outlook)
 keywords: vbaol11.chm941
 f1_keywords:
 - vbaol11.chm941
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.GetInspector Property (Outlook)
+# ContactItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 

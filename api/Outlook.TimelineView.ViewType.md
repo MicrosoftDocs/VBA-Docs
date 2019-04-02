@@ -1,5 +1,5 @@
 ---
-title: TimelineView.ViewType Property (Outlook)
+title: TimelineView.ViewType property (Outlook)
 keywords: vbaol11.chm2656
 f1_keywords:
 - vbaol11.chm2656
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.ViewType Property (Outlook)
+# TimelineView.ViewType property (Outlook)
 
 Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the view type of the view. Read-only.
 

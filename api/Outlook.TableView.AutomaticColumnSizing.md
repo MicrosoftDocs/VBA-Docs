@@ -1,5 +1,5 @@
 ---
-title: TableView.AutomaticColumnSizing Property (Outlook)
+title: TableView.AutomaticColumnSizing property (Outlook)
 keywords: vbaol11.chm2523
 f1_keywords:
 - vbaol11.chm2523
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.AutomaticColumnSizing Property (Outlook)
+# TableView.AutomaticColumnSizing property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether the columns in the **[TableView](Outlook.TableView.md)** object are automatically sized by Outlook. Read/write.
 

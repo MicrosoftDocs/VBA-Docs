@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.MouseUp Event (Outlook)
+title: OlkSenderPhoto.MouseUp event (Outlook)
 keywords: vbaol11.chm1000489
 f1_keywords:
 - vbaol11.chm1000489
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.MouseUp Event (Outlook)
+# OlkSenderPhoto.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 

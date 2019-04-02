@@ -1,5 +1,5 @@
 ---
-title: ReportItem.AttachmentRemove Event (Outlook)
+title: ReportItem.AttachmentRemove event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.AttachmentRemove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.AttachmentRemove Event (Outlook)
+# ReportItem.AttachmentRemove event (Outlook)
 
 Occurs when an attachment has been removed from an instance of the parent object.
 

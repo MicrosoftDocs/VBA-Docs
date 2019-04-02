@@ -1,5 +1,5 @@
 ---
-title: ContactItem Object (Outlook)
+title: ContactItem object (Outlook)
 keywords: vbaol11.chm2992
 f1_keywords:
 - vbaol11.chm2992
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem Object (Outlook)
+# ContactItem object (Outlook)
 
 Represents a contact in a Contacts folder.
 

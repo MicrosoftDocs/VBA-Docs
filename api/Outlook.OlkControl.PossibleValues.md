@@ -1,5 +1,5 @@
 ---
-title: OlkControl.PossibleValues Property (Outlook)
+title: OlkControl.PossibleValues property (Outlook)
 keywords: vbaol11.chm1000504
 f1_keywords:
 - vbaol11.chm1000504
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkControl.PossibleValues Property (Outlook)
+# OlkControl.PossibleValues property (Outlook)
 
 Returns or sets a  **String** that represents a list of possible values for the drop-down list for the control, seperated by semicolons. Read/write.
 

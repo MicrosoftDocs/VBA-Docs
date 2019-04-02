@@ -1,5 +1,5 @@
 ---
-title: DistListItem.TaskDueDate Property (Outlook)
+title: DistListItem.TaskDueDate property (Outlook)
 keywords: vbaol11.chm1169
 f1_keywords:
 - vbaol11.chm1169
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.TaskDueDate Property (Outlook)
+# DistListItem.TaskDueDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the due date of the task for this **[DistListItem](Outlook.DistListItem.md)**. Read/write.
 

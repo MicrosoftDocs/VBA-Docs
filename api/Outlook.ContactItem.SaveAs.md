@@ -1,5 +1,5 @@
 ---
-title: ContactItem.SaveAs Method (Outlook)
+title: ContactItem.SaveAs method (Outlook)
 keywords: vbaol11.chm963
 f1_keywords:
 - vbaol11.chm963
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.SaveAs Method (Outlook)
+# ContactItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 

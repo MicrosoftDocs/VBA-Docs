@@ -1,5 +1,5 @@
 ---
-title: Attachment.Size Property (Outlook)
+title: Attachment.Size property (Outlook)
 keywords: vbaol11.chm2375
 f1_keywords:
 - vbaol11.chm2375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.Size Property (Outlook)
+# Attachment.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the attachment. Read-only.
 

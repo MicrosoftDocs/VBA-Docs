@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ReminderSet Property (Outlook)
+title: TaskItem.ReminderSet property (Outlook)
 keywords: vbaol11.chm1738
 f1_keywords:
 - vbaol11.chm1738
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ReminderSet Property (Outlook)
+# TaskItem.ReminderSet property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if a reminder has been set for this item. Read/write.
 

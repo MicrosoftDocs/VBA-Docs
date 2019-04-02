@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Birthday Property (Outlook)
+title: ContactItem.Birthday property (Outlook)
 keywords: vbaol11.chm968
 f1_keywords:
 - vbaol11.chm968
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Birthday Property (Outlook)
+# ContactItem.Birthday property (Outlook)
 
 Returns or sets a  **Date** indicating the birthday for the contact. Read/write.
 

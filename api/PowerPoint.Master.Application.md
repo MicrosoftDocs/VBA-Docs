@@ -1,5 +1,5 @@
 ---
-title: Master.Application Property (PowerPoint)
+title: Master.Application property (PowerPoint)
 keywords: vbapp10.chm533001
 f1_keywords:
 - vbapp10.chm533001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Application Property (PowerPoint)
+# Master.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

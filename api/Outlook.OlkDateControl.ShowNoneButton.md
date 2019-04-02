@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.ShowNoneButton Property (Outlook)
+title: OlkDateControl.ShowNoneButton property (Outlook)
 keywords: vbaol11.chm1000355
 f1_keywords:
 - vbaol11.chm1000355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.ShowNoneButton Property (Outlook)
+# OlkDateControl.ShowNoneButton property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether to display the **None** button in the date control. Read/write.
 

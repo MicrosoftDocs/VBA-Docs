@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Home2TelephoneNumber Property (Outlook)
+title: ContactItem.Home2TelephoneNumber property (Outlook)
 keywords: vbaol11.chm1011
 f1_keywords:
 - vbaol11.chm1011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Home2TelephoneNumber Property (Outlook)
+# ContactItem.Home2TelephoneNumber property (Outlook)
 
 Returns or sets a  **String** representing the second home telephone number for the contact. Read/write.
 

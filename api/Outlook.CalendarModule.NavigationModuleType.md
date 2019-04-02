@@ -1,5 +1,5 @@
 ---
-title: CalendarModule.NavigationModuleType Property (Outlook)
+title: CalendarModule.NavigationModuleType property (Outlook)
 keywords: vbaol11.chm3243
 f1_keywords:
 - vbaol11.chm3243
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarModule.NavigationModuleType Property (Outlook)
+# CalendarModule.NavigationModuleType property (Outlook)
 
 Returns an  **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TimelineView.EndField Property (Outlook)
+title: TimelineView.EndField property (Outlook)
 keywords: vbaol11.chm2661
 f1_keywords:
 - vbaol11.chm2661
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.EndField Property (Outlook)
+# TimelineView.EndField property (Outlook)
 
 Returns or sets a  **String** value that represents the name of the property that ends the time duration for Outlook items displayed in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 

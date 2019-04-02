@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ReadComplete Event (Outlook)
+title: TaskItem.ReadComplete event (Outlook)
 ms.assetid: 0706a4b9-1035-bdf9-a48d-8d039a2001fa
 ms.date: 06/08/2017
 ms.prod: outlook
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ReadComplete Event (Outlook)
+# TaskItem.ReadComplete event (Outlook)
 Occurs when Outlook has completed reading the properties of the item.
 
 ## Version information

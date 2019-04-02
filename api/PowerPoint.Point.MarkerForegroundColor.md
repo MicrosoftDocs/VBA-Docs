@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerForegroundColor Property (PowerPoint)
+title: Point.MarkerForegroundColor property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.MarkerForegroundColor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.MarkerForegroundColor Property (PowerPoint)
+# Point.MarkerForegroundColor property (PowerPoint)
 
 Sets the marker foreground color as an RGB value or returns the corresponding color index value. Read/write  **Long**.
 

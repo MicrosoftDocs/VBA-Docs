@@ -1,5 +1,5 @@
 ---
-title: FormDescription Object (Outlook)
+title: FormDescription object (Outlook)
 keywords: vbaol11.chm178
 f1_keywords:
 - vbaol11.chm178
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription Object (Outlook)
+# FormDescription object (Outlook)
 
 Represents the general properties of an Outlook form.
 

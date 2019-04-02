@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.Parent Property (PowerPoint)
+title: FreeformBuilder.Parent property (PowerPoint)
 keywords: vbapp10.chm546001
 f1_keywords:
 - vbapp10.chm546001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FreeformBuilder.Parent Property (PowerPoint)
+# FreeformBuilder.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

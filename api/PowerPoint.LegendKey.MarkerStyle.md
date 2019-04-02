@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerStyle Property (PowerPoint)
+title: LegendKey.MarkerStyle property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.MarkerStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendKey.MarkerStyle Property (PowerPoint)
+# LegendKey.MarkerStyle property (PowerPoint)
 
 Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[xlMarkerStyle](PowerPoint.XlMarkerStyle.md)**.
 

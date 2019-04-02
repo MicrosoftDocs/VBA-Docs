@@ -1,5 +1,5 @@
 ---
-title: Explorer.IsPaneVisible Method (Outlook)
+title: Explorer.IsPaneVisible method (Outlook)
 keywords: vbaol11.chm2775
 f1_keywords:
 - vbaol11.chm2775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.IsPaneVisible Method (Outlook)
+# Explorer.IsPaneVisible method (Outlook)
 
 Returns a  **Boolean** indicating whether a specific explorer pane is visible.
 

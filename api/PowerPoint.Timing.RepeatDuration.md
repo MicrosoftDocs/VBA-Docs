@@ -1,5 +1,5 @@
 ---
-title: Timing.RepeatDuration Property (PowerPoint)
+title: Timing.RepeatDuration property (PowerPoint)
 keywords: vbapp10.chm653008
 f1_keywords:
 - vbapp10.chm653008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Timing.RepeatDuration Property (PowerPoint)
+# Timing.RepeatDuration property (PowerPoint)
 
 Sets or returns how long repeated animations should last, in seconds. Read/write.
 

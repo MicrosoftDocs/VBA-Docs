@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.GetExchangeDistributionListMembers Method (Outlook)
+title: ExchangeDistributionList.GetExchangeDistributionListMembers method (Outlook)
 keywords: vbaol11.chm3239
 f1_keywords:
 - vbaol11.chm3239
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.GetExchangeDistributionListMembers Method (Outlook)
+# ExchangeDistributionList.GetExchangeDistributionListMembers method (Outlook)
 
 Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection that represents the members of the Exchange distribution list.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Reply Event (Outlook)
+title: SharingItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Reply Event (Outlook)
+# SharingItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item, or when the **[Reply](Outlook.SharingItem.Reply(method).md)** method is called for the item, which is an instance of the parent object.
 

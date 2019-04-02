@@ -1,5 +1,5 @@
 ---
-title: AddressLists Object (Outlook)
+title: AddressLists object (Outlook)
 keywords: vbaol11.chm87
 f1_keywords:
 - vbaol11.chm87
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressLists Object (Outlook)
+# AddressLists object (Outlook)
 
 Contains a set of  **[AddressList](Outlook.AddressList.md)** objects.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.AfterWrite Event (Outlook)
+title: DistListItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.AfterWrite Event (Outlook)
+# DistListItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 

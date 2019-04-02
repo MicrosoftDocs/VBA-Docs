@@ -1,5 +1,5 @@
 ---
-title: Recipients Object (Outlook)
+title: Recipients object (Outlook)
 keywords: vbaol11.chm225
 f1_keywords:
 - vbaol11.chm225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipients Object (Outlook)
+# Recipients object (Outlook)
 
 Contains a collection of  **[Recipient](Outlook.Recipient.md)** objects for an Outlook item.
 

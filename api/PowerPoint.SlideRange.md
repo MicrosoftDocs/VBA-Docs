@@ -1,5 +1,5 @@
 ---
-title: SlideRange Object (PowerPoint)
+title: SlideRange object (PowerPoint)
 keywords: vbapp10.chm532000
 f1_keywords:
 - vbapp10.chm532000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange Object (PowerPoint)
+# SlideRange object (PowerPoint)
 
 A collection that represents a notes page or a slide range, which is a set of slides that can contain as little as a single slide or as much as all the slides in a presentation. 
 

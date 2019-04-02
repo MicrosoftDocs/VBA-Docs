@@ -1,5 +1,5 @@
 ---
-title: FormNameRuleCondition.FormName Property (Outlook)
+title: FormNameRuleCondition.FormName property (Outlook)
 keywords: vbaol11.chm2454
 f1_keywords:
 - vbaol11.chm2454
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormNameRuleCondition.FormName Property (Outlook)
+# FormNameRuleCondition.FormName property (Outlook)
 
 Returns or sets an  **Object** that represents an array of form identifiers to be evaluated by the rule condition. Read/write.
 

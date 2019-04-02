@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetX Property (PowerPoint)
+title: ShadowFormat.OffsetX property (PowerPoint)
 keywords: vbapp10.chm554006
 f1_keywords:
 - vbapp10.chm554006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetX Property (PowerPoint)
+# ShadowFormat.OffsetX property (PowerPoint)
 
 Returns or sets the horizontal offset of the shadow from the specified shape, in points. Read/write.
 

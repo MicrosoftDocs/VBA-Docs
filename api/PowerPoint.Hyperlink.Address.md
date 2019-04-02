@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Address Property (PowerPoint)
+title: Hyperlink.Address property (PowerPoint)
 keywords: vbapp10.chm526004
 f1_keywords:
 - vbapp10.chm526004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Address Property (PowerPoint)
+# Hyperlink.Address property (PowerPoint)
 
 Returns or sets the Internet address (URL) to the target document. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ToOrFromRuleCondition.Enabled Property (Outlook)
+title: ToOrFromRuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2460
 f1_keywords:
 - vbaol11.chm2460
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToOrFromRuleCondition.Enabled Property (Outlook)
+# ToOrFromRuleCondition.Enabled property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the rule condition is enabled. Read/write
 

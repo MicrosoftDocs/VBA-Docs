@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.GetOccurrence Method (Outlook)
+title: RecurrencePattern.GetOccurrence method (Outlook)
 keywords: vbaol11.chm288
 f1_keywords:
 - vbaol11.chm288
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.GetOccurrence Method (Outlook)
+# RecurrencePattern.GetOccurrence method (Outlook)
 
 Returns a specific instance of the  **[AppointmentItem](Outlook.AppointmentItem.md)** object on the specified date.
 

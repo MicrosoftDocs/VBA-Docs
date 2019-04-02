@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadWidth Property (PowerPoint)
+title: LineFormat.EndArrowheadWidth property (PowerPoint)
 keywords: vbapp10.chm553009
 f1_keywords:
 - vbapp10.chm553009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.EndArrowheadWidth Property (PowerPoint)
+# LineFormat.EndArrowheadWidth property (PowerPoint)
 
 Returns or sets the width of the arrowhead at the end of the specified line. Read/write.
 

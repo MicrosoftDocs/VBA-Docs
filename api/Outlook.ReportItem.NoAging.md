@@ -1,5 +1,5 @@
 ---
-title: ReportItem.NoAging Property (Outlook)
+title: ReportItem.NoAging property (Outlook)
 keywords: vbaol11.chm1655
 f1_keywords:
 - vbaol11.chm1655
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.NoAging Property (Outlook)
+# ReportItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 

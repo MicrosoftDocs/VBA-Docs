@@ -1,5 +1,5 @@
 ---
-title: Font.NameOther Property (PowerPoint)
+title: Font.NameOther property (PowerPoint)
 keywords: vbapp10.chm575019
 f1_keywords:
 - vbapp10.chm575019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.NameOther Property (PowerPoint)
+# Font.NameOther property (PowerPoint)
 
 Returns or sets the font used for characters whose character set numbers are greater than 127. Read/write.
 

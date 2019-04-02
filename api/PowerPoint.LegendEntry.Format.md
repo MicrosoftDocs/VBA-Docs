@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Format Property (PowerPoint)
+title: LegendEntry.Format property (PowerPoint)
 keywords: vbapp10.chm711001
 f1_keywords:
 - vbapp10.chm711001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntry.Format Property (PowerPoint)
+# LegendEntry.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 

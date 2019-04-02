@@ -1,5 +1,5 @@
 ---
-title: JournalItem.CustomAction Event (Outlook)
+title: JournalItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.CustomAction Event (Outlook)
+# JournalItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 

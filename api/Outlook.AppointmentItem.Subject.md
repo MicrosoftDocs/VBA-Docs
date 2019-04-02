@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Subject Property (Outlook)
+title: AppointmentItem.Subject property (Outlook)
 keywords: vbaol11.chm865
 f1_keywords:
 - vbaol11.chm865
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Subject Property (Outlook)
+# AppointmentItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 

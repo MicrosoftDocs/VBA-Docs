@@ -1,5 +1,5 @@
 ---
-title: ContactItem.PersonalHomePage Property (Outlook)
+title: ContactItem.PersonalHomePage property (Outlook)
 keywords: vbaol11.chm1059
 f1_keywords:
 - vbaol11.chm1059
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.PersonalHomePage Property (Outlook)
+# ContactItem.PersonalHomePage property (Outlook)
 
 Returns or sets a  **String** representing the URL of the personal web page for the contact. Read/write.
 

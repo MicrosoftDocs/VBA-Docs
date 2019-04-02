@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OtherAddressCity Property (Outlook)
+title: ContactItem.OtherAddressCity property (Outlook)
 keywords: vbaol11.chm1050
 f1_keywords:
 - vbaol11.chm1050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OtherAddressCity Property (Outlook)
+# ContactItem.OtherAddressCity property (Outlook)
 
 Returns or sets a  **String** representing the city portion of the other address for the contact. Read/write.
 

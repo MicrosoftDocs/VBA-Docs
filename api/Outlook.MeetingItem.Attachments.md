@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Attachments Property (Outlook)
+title: MeetingItem.Attachments property (Outlook)
 keywords: vbaol11.chm1403
 f1_keywords:
 - vbaol11.chm1403
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Attachments Property (Outlook)
+# MeetingItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 

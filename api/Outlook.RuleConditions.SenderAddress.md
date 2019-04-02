@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.SenderAddress Property (Outlook)
+title: RuleConditions.SenderAddress property (Outlook)
 keywords: vbaol11.chm2318
 f1_keywords:
 - vbaol11.chm2318
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.SenderAddress Property (Outlook)
+# RuleConditions.SenderAddress property (Outlook)
 
 Returns an  **[AddressRuleCondition](Outlook.AddressRuleCondition.md)** object with an **[AddressRuleCondition.ConditionType](Outlook.AddressRuleCondition.ConditionType.md)** of **olConditionSenderAddress**. Read-only.
 

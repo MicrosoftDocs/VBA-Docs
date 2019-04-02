@@ -1,5 +1,5 @@
 ---
-title: NoteItem.MarkForDownload Property (Outlook)
+title: NoteItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1503
 f1_keywords:
 - vbaol11.chm1503
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.MarkForDownload Property (Outlook)
+# NoteItem.MarkForDownload property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 

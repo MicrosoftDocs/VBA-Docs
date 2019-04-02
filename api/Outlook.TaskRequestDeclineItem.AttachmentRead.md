@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.AttachmentRead Event (Outlook)
+title: TaskRequestDeclineItem.AttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.AttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.AttachmentRead Event (Outlook)
+# TaskRequestDeclineItem.AttachmentRead event (Outlook)
 
 Occurs when an attachment in an instance of the parent object has been opened for reading.
 

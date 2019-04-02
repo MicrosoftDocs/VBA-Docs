@@ -1,5 +1,5 @@
 ---
-title: Views.Parent Property (Outlook)
+title: Views.Parent property (Outlook)
 keywords: vbaol11.chm544
 f1_keywords:
 - vbaol11.chm544
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Views.Parent Property (Outlook)
+# Views.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

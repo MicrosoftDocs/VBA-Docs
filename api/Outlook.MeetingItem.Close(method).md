@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Close Method (Outlook)
+title: MeetingItem.Close method (Outlook)
 keywords: vbaol11.chm1428
 f1_keywords:
 - vbaol11.chm1428
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Close Method (Outlook)
+# MeetingItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 

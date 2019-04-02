@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Category Property (Outlook)
+title: FormDescription.Category property (Outlook)
 keywords: vbaol11.chm183
 f1_keywords:
 - vbaol11.chm183
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.Category Property (Outlook)
+# FormDescription.Category property (Outlook)
 
 Returns or sets a  **String** representing the category assigned to the form description. Read/write.
 

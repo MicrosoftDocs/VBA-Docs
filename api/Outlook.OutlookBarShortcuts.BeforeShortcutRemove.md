@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.BeforeShortcutRemove Event (Outlook)
+title: OutlookBarShortcuts.BeforeShortcutRemove event (Outlook)
 keywords: vbaol11.chm379
 f1_keywords:
 - vbaol11.chm379
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.BeforeShortcutRemove Event (Outlook)
+# OutlookBarShortcuts.BeforeShortcutRemove event (Outlook)
 
 Occurs before a new shortcut is removed from a group in the  **Shortcuts** pane, either as a result of user action or through program code.
 

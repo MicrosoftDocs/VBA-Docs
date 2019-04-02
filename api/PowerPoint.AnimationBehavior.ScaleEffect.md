@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.ScaleEffect Property (PowerPoint)
+title: AnimationBehavior.ScaleEffect property (PowerPoint)
 keywords: vbapp10.chm657008
 f1_keywords:
 - vbapp10.chm657008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.ScaleEffect Property (PowerPoint)
+# AnimationBehavior.ScaleEffect property (PowerPoint)
 
 Returns a  **[ScaleEffect](PowerPoint.ScaleEffect.md)** object for a given animation behavior. Read-only.
 

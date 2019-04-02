@@ -1,5 +1,5 @@
 ---
-title: Folder.Name Property (Outlook)
+title: Folder.Name property (Outlook)
 keywords: vbaol11.chm1991
 f1_keywords:
 - vbaol11.chm1991
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Name Property (Outlook)
+# Folder.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactsModule.Visible Property (Outlook)
+title: ContactsModule.Visible property (Outlook)
 keywords: vbaol11.chm2839
 f1_keywords:
 - vbaol11.chm2839
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactsModule.Visible Property (Outlook)
+# ContactsModule.Visible property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether the **[ContactsModule](Outlook.ContactsModule.md)** object is displayed in the navigation pane. Read/write.
 

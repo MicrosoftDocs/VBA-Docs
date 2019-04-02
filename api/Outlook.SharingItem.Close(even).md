@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Close Event (Outlook)
+title: SharingItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Close Event (Outlook)
+# SharingItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 

@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat Object (PowerPoint)
+title: TextEffectFormat object (PowerPoint)
 keywords: vbapp10.chm556000
 f1_keywords:
 - vbapp10.chm556000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat Object (PowerPoint)
+# TextEffectFormat object (PowerPoint)
 
 Contains properties and methods that apply to WordArt objects.
 

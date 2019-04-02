@@ -1,5 +1,5 @@
 ---
-title: Broadcast.AttendeeUrl Property (PowerPoint)
+title: Broadcast.AttendeeUrl property (PowerPoint)
 keywords: vbapp10.chm732005
 f1_keywords:
 - vbapp10.chm732005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.AttendeeUrl Property (PowerPoint)
+# Broadcast.AttendeeUrl property (PowerPoint)
 
 Provides the attendee URL that the presenter must share with remote attendees. Read-only.
 

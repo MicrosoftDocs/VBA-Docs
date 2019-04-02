@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.BackStyle Property (Outlook)
+title: OlkDateControl.BackStyle property (Outlook)
 keywords: vbaol11.chm1000344
 f1_keywords:
 - vbaol11.chm1000344
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.BackStyle Property (Outlook)
+# OlkDateControl.BackStyle property (Outlook)
 
 Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
 

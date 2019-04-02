@@ -1,5 +1,5 @@
 ---
-title: TextStyles Object (PowerPoint)
+title: TextStyles object (PowerPoint)
 keywords: vbapp10.chm578000
 f1_keywords:
 - vbapp10.chm578000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyles Object (PowerPoint)
+# TextStyles object (PowerPoint)
 
 A collection of three text styles - title text, body text, and default text - each of which is represented by a  **[TextStyle](PowerPoint.TextStyle.md)** object.
 

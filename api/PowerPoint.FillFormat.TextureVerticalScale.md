@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureVerticalScale Property (PowerPoint)
+title: FillFormat.TextureVerticalScale property (PowerPoint)
 keywords: vbapp10.chm552030
 f1_keywords:
 - vbapp10.chm552030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureVerticalScale Property (PowerPoint)
+# FillFormat.TextureVerticalScale property (PowerPoint)
 
 Returns or sets the vertical scaling factor for the texture fill. Read/write.
 

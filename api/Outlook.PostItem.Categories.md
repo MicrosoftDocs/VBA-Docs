@@ -1,5 +1,5 @@
 ---
-title: PostItem.Categories Property (Outlook)
+title: PostItem.Categories property (Outlook)
 keywords: vbaol11.chm1517
 f1_keywords:
 - vbaol11.chm1517
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Categories Property (Outlook)
+# PostItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

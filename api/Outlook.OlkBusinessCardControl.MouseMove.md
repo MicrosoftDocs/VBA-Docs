@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl.MouseMove Event (Outlook)
+title: OlkBusinessCardControl.MouseMove event (Outlook)
 keywords: vbaol11.chm1000331
 f1_keywords:
 - vbaol11.chm1000331
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl.MouseMove Event (Outlook)
+# OlkBusinessCardControl.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 

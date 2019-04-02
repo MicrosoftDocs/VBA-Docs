@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Locked Property (Outlook)
+title: OlkTextBox.Locked property (Outlook)
 keywords: vbaol11.chm1000049
 f1_keywords:
 - vbaol11.chm1000049
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Locked Property (Outlook)
+# OlkTextBox.Locked property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether or not the control is locked from being changed. Read/write.
 

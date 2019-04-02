@@ -1,5 +1,5 @@
 ---
-title: Player.State Property (PowerPoint)
+title: Player.State property (PowerPoint)
 keywords: vbapp10.chm726009
 f1_keywords:
 - vbapp10.chm726009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Player.State Property (PowerPoint)
+# Player.State property (PowerPoint)
 
 Returns the current state of the player. Read-only.
 

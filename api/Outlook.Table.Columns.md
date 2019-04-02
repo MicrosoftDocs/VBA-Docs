@@ -1,5 +1,5 @@
 ---
-title: Table.Columns Property (Outlook)
+title: Table.Columns property (Outlook)
 keywords: vbaol11.chm2236
 f1_keywords:
 - vbaol11.chm2236
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Columns Property (Outlook)
+# Table.Columns property (Outlook)
 
 Returns a  **[Columns](Outlook.Columns.md)** collection object that contains the columns defined for the **[Table](Outlook.Table.md)**. Read-only.
 

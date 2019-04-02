@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStyle Property (PowerPoint)
+title: FillFormat.GradientStyle property (PowerPoint)
 keywords: vbapp10.chm552015
 f1_keywords:
 - vbapp10.chm552015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientStyle Property (PowerPoint)
+# FillFormat.GradientStyle property (PowerPoint)
 
 Returns the gradient style for the specified fill. Read-only.
 

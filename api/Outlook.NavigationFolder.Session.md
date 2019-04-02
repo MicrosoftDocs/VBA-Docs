@@ -1,5 +1,5 @@
 ---
-title: NavigationFolder.Session Property (Outlook)
+title: NavigationFolder.Session property (Outlook)
 keywords: vbaol11.chm2902
 f1_keywords:
 - vbaol11.chm2902
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolder.Session Property (Outlook)
+# NavigationFolder.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

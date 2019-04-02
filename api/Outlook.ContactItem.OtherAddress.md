@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OtherAddress Property (Outlook)
+title: ContactItem.OtherAddress property (Outlook)
 keywords: vbaol11.chm1049
 f1_keywords:
 - vbaol11.chm1049
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OtherAddress Property (Outlook)
+# ContactItem.OtherAddress property (Outlook)
 
 Returns or sets a  **String** representing the other address for the contact. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRule.Font Property (Outlook)
+title: AutoFormatRule.Font property (Outlook)
 keywords: vbaol11.chm2710
 f1_keywords:
 - vbaol11.chm2710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRule.Font Property (Outlook)
+# AutoFormatRule.Font property (Outlook)
 
 Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display Outlook items that satisfy the conditions for the formatting rule in the view. Read-only.
 

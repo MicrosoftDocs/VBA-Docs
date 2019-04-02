@@ -1,5 +1,5 @@
 ---
-title: Points.Parent Property (PowerPoint)
+title: Points.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Points.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Points.Parent Property (PowerPoint)
+# Points.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

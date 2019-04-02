@@ -1,5 +1,5 @@
 ---
-title: View.MediaControlsTop Property (PowerPoint)
+title: View.MediaControlsTop property (PowerPoint)
 keywords: vbapp10.chm512016
 f1_keywords:
 - vbapp10.chm512016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.MediaControlsTop Property (PowerPoint)
+# View.MediaControlsTop property (PowerPoint)
 
 Returns the distance, in points, from the top edge of the media control bounding box to the top edge of the slide. Read-only.
 

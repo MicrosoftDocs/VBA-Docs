@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.TransferSize Property (Outlook)
+title: RemoteItem.TransferSize property (Outlook)
 keywords: vbaol11.chm1622
 f1_keywords:
 - vbaol11.chm1622
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.TransferSize Property (Outlook)
+# RemoteItem.TransferSize property (Outlook)
 
 Returns a  **Long** specifying the transfer size (in bytes) for the remote item. Read-only.
 

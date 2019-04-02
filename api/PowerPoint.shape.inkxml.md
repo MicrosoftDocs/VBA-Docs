@@ -1,5 +1,5 @@
 ---
-title: Shape.InkXML Property (PowerPoint)
+title: Shape.InkXML property (PowerPoint)
 ms.assetid: 01e01d61-89a3-1314-fda5-6354d6590aa5
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.InkXML Property (PowerPoint)
+# Shape.InkXML property (PowerPoint)
 
 Returns a  **String** that contains the InkActionML associated with the specified shape. Read-only.
 

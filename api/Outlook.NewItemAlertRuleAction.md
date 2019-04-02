@@ -1,5 +1,5 @@
 ---
-title: NewItemAlertRuleAction Object (Outlook)
+title: NewItemAlertRuleAction object (Outlook)
 keywords: vbaol11.chm3171
 f1_keywords:
 - vbaol11.chm3171
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NewItemAlertRuleAction Object (Outlook)
+# NewItemAlertRuleAction object (Outlook)
 
 Represents an action that displays a new item alert to the user.
 

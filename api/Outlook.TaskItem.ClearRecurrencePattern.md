@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ClearRecurrencePattern Method (Outlook)
+title: TaskItem.ClearRecurrencePattern method (Outlook)
 keywords: vbaol11.chm1751
 f1_keywords:
 - vbaol11.chm1751
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ClearRecurrencePattern Method (Outlook)
+# TaskItem.ClearRecurrencePattern method (Outlook)
 
 Removes the recurrence settings and restores the single-occurrence state for an appointment or task.
 

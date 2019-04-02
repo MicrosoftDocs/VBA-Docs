@@ -1,5 +1,5 @@
 ---
-title: MailItem.Close Method (Outlook)
+title: MailItem.Close method (Outlook)
 keywords: vbaol11.chm1320
 f1_keywords:
 - vbaol11.chm1320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Close Method (Outlook)
+# MailItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 

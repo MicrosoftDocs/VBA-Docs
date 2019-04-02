@@ -1,5 +1,5 @@
 ---
-title: MoveOrCopyRuleAction.ActionType Property (Outlook)
+title: MoveOrCopyRuleAction.ActionType property (Outlook)
 keywords: vbaol11.chm2213
 f1_keywords:
 - vbaol11.chm2213
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MoveOrCopyRuleAction.ActionType Property (Outlook)
+# MoveOrCopyRuleAction.ActionType property (Outlook)
 
 Returns a constant,  **olRuleActionMoveToFolder**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 

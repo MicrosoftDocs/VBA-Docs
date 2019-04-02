@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.SchemeColor Property (PowerPoint)
+title: ColorFormat.SchemeColor property (PowerPoint)
 keywords: vbapp10.chm506004
 f1_keywords:
 - vbapp10.chm506004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.SchemeColor Property (PowerPoint)
+# ColorFormat.SchemeColor property (PowerPoint)
 
 Returns or sets the color in the applied color scheme that's associated with the specified object. Read/write.
 

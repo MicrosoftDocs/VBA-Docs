@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Save Method (Outlook)
+title: DistListItem.Save method (Outlook)
 keywords: vbaol11.chm1146
 f1_keywords:
 - vbaol11.chm1146
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Save Method (Outlook)
+# DistListItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 

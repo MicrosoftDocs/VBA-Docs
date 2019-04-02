@@ -1,5 +1,5 @@
 ---
-title: ContactItem.NetMeetingServer Property (Outlook)
+title: ContactItem.NetMeetingServer property (Outlook)
 keywords: vbaol11.chm1045
 f1_keywords:
 - vbaol11.chm1045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.NetMeetingServer Property (Outlook)
+# ContactItem.NetMeetingServer property (Outlook)
 
 Returns or sets a  **String** specifying the name of the Microsoft NetMeeting server being used for an online meeting. Read/write.
 

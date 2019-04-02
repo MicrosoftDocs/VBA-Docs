@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Unload Event (Outlook)
+title: JournalItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Unload Event (Outlook)
+# JournalItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 

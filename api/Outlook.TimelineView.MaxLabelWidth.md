@@ -1,5 +1,5 @@
 ---
-title: TimelineView.MaxLabelWidth Property (Outlook)
+title: TimelineView.MaxLabelWidth property (Outlook)
 keywords: vbaol11.chm2665
 f1_keywords:
 - vbaol11.chm2665
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.MaxLabelWidth Property (Outlook)
+# TimelineView.MaxLabelWidth property (Outlook)
 
 Returns or sets a  **Long** value that represents the maximum length (in characters) for the label of an Outlook item in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 

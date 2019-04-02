@@ -1,5 +1,5 @@
 ---
-title: Table Object (Outlook)
+title: Table object (Outlook)
 keywords: vbaol11.chm3166
 f1_keywords:
 - vbaol11.chm3166
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table Object (Outlook)
+# Table object (Outlook)
 
 Represents a set of item data from a  **[Folder](Outlook.Folder.md)** or **[Search](Outlook.Search.md)** object, with items as rows of the table and properties as columns of the table.
 

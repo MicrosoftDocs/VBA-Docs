@@ -1,5 +1,5 @@
 ---
-title: Recipient.Name Property (Outlook)
+title: Recipient.Name property (Outlook)
 keywords: vbaol11.chm2351
 f1_keywords:
 - vbaol11.chm2351
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Name Property (Outlook)
+# Recipient.Name property (Outlook)
 
 Returns a  **String** value that represents the display name for the object. Read-only.
 

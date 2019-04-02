@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes Object (PowerPoint)
+title: ShapeNodes object (PowerPoint)
 keywords: vbapp10.chm560000
 f1_keywords:
 - vbapp10.chm560000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes Object (PowerPoint)
+# ShapeNodes object (PowerPoint)
 
 A collection of all the  **[ShapeNode](PowerPoint.ShapeNode.md)** objects in the specified freeform.
 

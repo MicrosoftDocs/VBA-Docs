@@ -1,5 +1,5 @@
 ---
-title: MailItem.GetConversation Method (Outlook)
+title: MailItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3387
 f1_keywords:
 - vbaol11.chm3387
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.GetConversation Method (Outlook)
+# MailItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

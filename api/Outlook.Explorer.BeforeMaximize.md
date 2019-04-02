@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeMaximize Event (Outlook)
+title: Explorer.BeforeMaximize event (Outlook)
 keywords: vbaol11.chm457
 f1_keywords:
 - vbaol11.chm457
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.BeforeMaximize Event (Outlook)
+# Explorer.BeforeMaximize event (Outlook)
 
 Occurs when an explorer is maximized by the user.
 

@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Session Property (Outlook)
+title: StorageItem.Session property (Outlook)
 keywords: vbaol11.chm2139
 f1_keywords:
 - vbaol11.chm2139
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Session Property (Outlook)
+# StorageItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

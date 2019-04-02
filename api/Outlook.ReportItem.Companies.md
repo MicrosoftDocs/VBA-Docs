@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Companies Property (Outlook)
+title: ReportItem.Companies property (Outlook)
 keywords: vbaol11.chm1643
 f1_keywords:
 - vbaol11.chm1643
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Companies Property (Outlook)
+# ReportItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the Outlook item. Read/write.
 

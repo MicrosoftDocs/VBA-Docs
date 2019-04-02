@@ -1,5 +1,5 @@
 ---
-title: PostItem.Reply Method (Outlook)
+title: PostItem.Reply method (Outlook)
 keywords: vbaol11.chm1555
 f1_keywords:
 - vbaol11.chm1555
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Reply Method (Outlook)
+# PostItem.Reply method (Outlook)
 
 Creates a reply, pre-addressed to the original sender, from the original message.
 

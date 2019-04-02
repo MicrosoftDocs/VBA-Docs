@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Conflicts Property (Outlook)
+title: TaskRequestItem.Conflicts property (Outlook)
 keywords: vbaol11.chm1914
 f1_keywords:
 - vbaol11.chm1914
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Conflicts Property (Outlook)
+# TaskRequestItem.Conflicts property (Outlook)
 
 Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 

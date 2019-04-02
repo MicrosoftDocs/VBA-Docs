@@ -1,5 +1,5 @@
 ---
-title: Walls.Creator Property (PowerPoint)
+title: Walls.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Walls.Creator Property (PowerPoint)
+# Walls.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

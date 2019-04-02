@@ -1,5 +1,5 @@
 ---
-title: Accounts.Item Method (Outlook)
+title: Accounts.Item method (Outlook)
 keywords: vbaol11.chm750
 f1_keywords:
 - vbaol11.chm750
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Accounts.Item Method (Outlook)
+# Accounts.Item method (Outlook)
 
 Returns an  **[Account](Outlook.Account.md)** object specified by _Index_ .
 

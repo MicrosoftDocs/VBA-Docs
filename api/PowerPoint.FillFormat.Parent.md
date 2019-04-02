@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Parent Property (PowerPoint)
+title: FillFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm552001
 f1_keywords:
 - vbapp10.chm552001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Parent Property (PowerPoint)
+# FillFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

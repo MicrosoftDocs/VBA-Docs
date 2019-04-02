@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.Parent Property (PowerPoint)
+title: MediaFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm724002
 f1_keywords:
 - vbapp10.chm724002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.Parent Property (PowerPoint)
+# MediaFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: RuleAction Object (Outlook)
+title: RuleAction object (Outlook)
 keywords: vbaol11.chm3163
 f1_keywords:
 - vbaol11.chm3163
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleAction Object (Outlook)
+# RuleAction object (Outlook)
 
 Represents an action that is run when a  **[Rule](Outlook.Rule.md)** object executes.
 

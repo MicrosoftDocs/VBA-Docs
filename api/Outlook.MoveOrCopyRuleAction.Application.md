@@ -1,5 +1,5 @@
 ---
-title: MoveOrCopyRuleAction.Application Property (Outlook)
+title: MoveOrCopyRuleAction.Application property (Outlook)
 keywords: vbaol11.chm2208
 f1_keywords:
 - vbaol11.chm2208
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MoveOrCopyRuleAction.Application Property (Outlook)
+# MoveOrCopyRuleAction.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

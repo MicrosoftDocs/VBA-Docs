@@ -1,5 +1,5 @@
 ---
-title: Interior Object (PowerPoint)
+title: Interior object (PowerPoint)
 keywords: vbapp10.chm707000
 f1_keywords:
 - vbapp10.chm707000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Interior Object (PowerPoint)
+# Interior object (PowerPoint)
 
 Represents the interior of an object.
 

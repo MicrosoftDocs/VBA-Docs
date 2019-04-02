@@ -1,5 +1,5 @@
 ---
-title: Trendline.InterceptIsAuto Property (PowerPoint)
+title: Trendline.InterceptIsAuto property (PowerPoint)
 keywords: vbapp10.chm65723
 f1_keywords:
 - vbapp10.chm65723
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.InterceptIsAuto Property (PowerPoint)
+# Trendline.InterceptIsAuto property (PowerPoint)
 
  **True** if the point where the trendline crosses the value axis is automatically determined by the regression. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.RemoveMember Method (Outlook)
+title: DistListItem.RemoveMember method (Outlook)
 keywords: vbaol11.chm1160
 f1_keywords:
 - vbaol11.chm1160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.RemoveMember Method (Outlook)
+# DistListItem.RemoveMember method (Outlook)
 
 Removes an individual member from a given distribution list.
 

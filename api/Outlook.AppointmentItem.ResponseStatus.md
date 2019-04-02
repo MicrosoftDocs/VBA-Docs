@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ResponseStatus Property (Outlook)
+title: AppointmentItem.ResponseStatus property (Outlook)
 keywords: vbaol11.chm901
 f1_keywords:
 - vbaol11.chm901
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ResponseStatus Property (Outlook)
+# AppointmentItem.ResponseStatus property (Outlook)
 
 Returns an  **[OlResponseStatus](Outlook.OlResponseStatus.md)** constant indicating the overall status of the meeting for the current user for the appointment. Read-only.
 

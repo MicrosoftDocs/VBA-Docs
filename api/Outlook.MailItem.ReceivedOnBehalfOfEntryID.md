@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReceivedOnBehalfOfEntryID Property (Outlook)
+title: MailItem.ReceivedOnBehalfOfEntryID property (Outlook)
 keywords: vbaol11.chm1343
 f1_keywords:
 - vbaol11.chm1343
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ReceivedOnBehalfOfEntryID Property (Outlook)
+# MailItem.ReceivedOnBehalfOfEntryID property (Outlook)
 
 Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** of the user delegated to represent the recipient for the mail message. Read-only.
 

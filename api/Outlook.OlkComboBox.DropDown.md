@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.DropDown Method (Outlook)
+title: OlkComboBox.DropDown method (Outlook)
 keywords: vbaol11.chm1000232
 f1_keywords:
 - vbaol11.chm1000232
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.DropDown Method (Outlook)
+# OlkComboBox.DropDown method (Outlook)
 
 Expands the drop-down portion of the combo box.
 

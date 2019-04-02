@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Application Property (Outlook)
+title: RecurrencePattern.Application property (Outlook)
 keywords: vbaol11.chm269
 f1_keywords:
 - vbaol11.chm269
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Application Property (Outlook)
+# RecurrencePattern.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

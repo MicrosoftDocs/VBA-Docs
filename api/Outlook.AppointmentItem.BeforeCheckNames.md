@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.BeforeCheckNames Event (Outlook)
+title: AppointmentItem.BeforeCheckNames event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeCheckNames
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.BeforeCheckNames Event (Outlook)
+# AppointmentItem.BeforeCheckNames event (Outlook)
 
 Occurs just before Microsoft Outlook starts resolving names in the recipient collection for an item (which is an instance of the parent object).
 

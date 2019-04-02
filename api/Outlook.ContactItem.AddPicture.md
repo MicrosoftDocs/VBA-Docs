@@ -1,5 +1,5 @@
 ---
-title: ContactItem.AddPicture Method (Outlook)
+title: ContactItem.AddPicture method (Outlook)
 keywords: vbaol11.chm1090
 f1_keywords:
 - vbaol11.chm1090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.AddPicture Method (Outlook)
+# ContactItem.AddPicture method (Outlook)
 
 Adds a picture to a contact item.
 

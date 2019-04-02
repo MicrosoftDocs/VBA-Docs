@@ -26,6 +26,6 @@ Indicates the sort order.
 
 ## Remarks
 
-Used as an optional parameter to the [AddressEntries.Sort Method (Outlook)](Outlook.AddressEntries.Sort.md) to specify the order that address entries should be sorted by the _Property_ parameter.
+Used as an optional parameter to the [AddressEntries.Sort method (Outlook)](Outlook.AddressEntries.Sort.md) to specify the order that address entries should be sorted by the _Property_ parameter.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

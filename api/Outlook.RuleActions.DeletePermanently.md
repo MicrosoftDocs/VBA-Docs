@@ -1,5 +1,5 @@
 ---
-title: RuleActions.DeletePermanently Property (Outlook)
+title: RuleActions.DeletePermanently property (Outlook)
 keywords: vbaol11.chm2185
 f1_keywords:
 - vbaol11.chm2185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.DeletePermanently Property (Outlook)
+# RuleActions.DeletePermanently property (Outlook)
 
 Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionDeletePermanently**. Read-only.
 

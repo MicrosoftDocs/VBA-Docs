@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Attachments Property (Outlook)
+title: TaskRequestUpdateItem.Attachments property (Outlook)
 keywords: vbaol11.chm1922
 f1_keywords:
 - vbaol11.chm1922
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Attachments Property (Outlook)
+# TaskRequestUpdateItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 

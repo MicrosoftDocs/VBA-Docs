@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Formula Property (PowerPoint)
+title: DisplayUnitLabel.Formula property (PowerPoint)
 keywords: vbapp10.chm699024
 f1_keywords:
 - vbapp10.chm699024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Formula Property (PowerPoint)
+# DisplayUnitLabel.Formula property (PowerPoint)
 
 Returns or sets the object's formula in A1-style notation. Read/write.
 

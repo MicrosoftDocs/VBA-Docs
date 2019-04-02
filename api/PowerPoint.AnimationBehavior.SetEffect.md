@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.SetEffect Property (PowerPoint)
+title: AnimationBehavior.SetEffect property (PowerPoint)
 keywords: vbapp10.chm657015
 f1_keywords:
 - vbapp10.chm657015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.SetEffect Property (PowerPoint)
+# AnimationBehavior.SetEffect property (PowerPoint)
 
 Returns a  **SetEffect** object for the animation behavior. Read-only.
 

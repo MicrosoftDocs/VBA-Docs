@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.TextUnitEffect Property (PowerPoint)
+title: EffectInformation.TextUnitEffect property (PowerPoint)
 keywords: vbapp10.chm655010
 f1_keywords:
 - vbapp10.chm655010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EffectInformation.TextUnitEffect Property (PowerPoint)
+# EffectInformation.TextUnitEffect property (PowerPoint)
 
 Indicates whether the text in the specified shape is animated paragraph by paragraph, word by word, or letter by letter. Read-only.
 

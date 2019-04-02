@@ -1,5 +1,5 @@
 ---
-title: ContactItem.CarTelephoneNumber Property (Outlook)
+title: ContactItem.CarTelephoneNumber property (Outlook)
 keywords: vbaol11.chm981
 f1_keywords:
 - vbaol11.chm981
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.CarTelephoneNumber Property (Outlook)
+# ContactItem.CarTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** representing the car telephone number for the contact. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.AttachmentRemove Event (Outlook)
+title: DistListItem.AttachmentRemove event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.AttachmentRemove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.AttachmentRemove Event (Outlook)
+# DistListItem.AttachmentRemove event (Outlook)
 
 Occurs when an attachment has been removed from an instance of the parent object.
 

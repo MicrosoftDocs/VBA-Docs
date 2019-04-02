@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Categories Property (Outlook)
+title: TaskRequestDeclineItem.Categories property (Outlook)
 keywords: vbaol11.chm1827
 f1_keywords:
 - vbaol11.chm1827
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Categories Property (Outlook)
+# TaskRequestDeclineItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

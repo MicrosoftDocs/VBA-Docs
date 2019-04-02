@@ -1,5 +1,5 @@
 ---
-title: NoteItem.DownloadState Property (Outlook)
+title: NoteItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1501
 f1_keywords:
 - vbaol11.chm1501
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.DownloadState Property (Outlook)
+# NoteItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.ReadComplete Event (Outlook)
+title: DocumentItem.ReadComplete event (Outlook)
 ms.assetid: 5a47b0f4-dfa9-9cf6-8efa-7ab45c1f90d7
 ms.date: 06/08/2017
 ms.prod: outlook
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.ReadComplete Event (Outlook)
+# DocumentItem.ReadComplete event (Outlook)
 Occurs when Outlook has completed reading the properties of the item.
 
 ## Version information

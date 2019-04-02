@@ -1,5 +1,5 @@
 ---
-title: Slide.Hyperlinks Property (PowerPoint)
+title: Slide.Hyperlinks property (PowerPoint)
 keywords: vbapp10.chm531024
 f1_keywords:
 - vbapp10.chm531024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.Hyperlinks Property (PowerPoint)
+# Slide.Hyperlinks property (PowerPoint)
 
 Returns a  **[Hyperlinks](PowerPoint.Hyperlinks.md)** collection that represents all the hyperlinks on the specified slide. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: AccountRuleCondition.Session Property (Outlook)
+title: AccountRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2379
 f1_keywords:
 - vbaol11.chm2379
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountRuleCondition.Session Property (Outlook)
+# AccountRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

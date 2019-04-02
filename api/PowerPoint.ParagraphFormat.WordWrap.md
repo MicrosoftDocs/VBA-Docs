@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.WordWrap Property (PowerPoint)
+title: ParagraphFormat.WordWrap property (PowerPoint)
 keywords: vbapp10.chm576013
 f1_keywords:
 - vbapp10.chm576013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.WordWrap Property (PowerPoint)
+# ParagraphFormat.WordWrap property (PowerPoint)
 
 Used only with Kanji characters. Read/write.
 

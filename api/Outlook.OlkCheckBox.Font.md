@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.Font Property (Outlook)
+title: OlkCheckBox.Font property (Outlook)
 keywords: vbaol11.chm1000140
 f1_keywords:
 - vbaol11.chm1000140
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.Font Property (Outlook)
+# OlkCheckBox.Font property (Outlook)
 
 Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
 

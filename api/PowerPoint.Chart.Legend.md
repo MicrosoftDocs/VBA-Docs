@@ -1,5 +1,5 @@
 ---
-title: Chart.Legend Property (PowerPoint)
+title: Chart.Legend property (PowerPoint)
 keywords: vbapp10.chm684035
 f1_keywords:
 - vbapp10.chm684035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Legend Property (PowerPoint)
+# Chart.Legend property (PowerPoint)
 
 Returns the legend for the chart. Read-only  **[Legend](PowerPoint.Legend.md)**.
 

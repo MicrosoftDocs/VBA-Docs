@@ -1,5 +1,5 @@
 ---
-title: Folder.AddToPFFavorites Method (Outlook)
+title: Folder.AddToPFFavorites method (Outlook)
 keywords: vbaol11.chm2003
 f1_keywords:
 - vbaol11.chm2003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.AddToPFFavorites Method (Outlook)
+# Folder.AddToPFFavorites method (Outlook)
 
 Adds a Microsoft Exchange public folder to the public folder's Favorites folder.
 

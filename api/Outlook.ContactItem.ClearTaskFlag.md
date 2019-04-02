@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ClearTaskFlag Method (Outlook)
+title: ContactItem.ClearTaskFlag method (Outlook)
 keywords: vbaol11.chm3032
 f1_keywords:
 - vbaol11.chm3032
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ClearTaskFlag Method (Outlook)
+# ContactItem.ClearTaskFlag method (Outlook)
 
 Clears the  **[ContactItem](Outlook.ContactItem.md)** object as a task.
 

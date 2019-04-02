@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Creator Property (PowerPoint)
+title: SeriesLines.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesLines.Creator Property (PowerPoint)
+# SeriesLines.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

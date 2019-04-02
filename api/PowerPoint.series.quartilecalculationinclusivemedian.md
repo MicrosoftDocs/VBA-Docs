@@ -1,5 +1,5 @@
 ---
-title: Series.QuartileCalculationInclusiveMedian Property (PowerPoint)
+title: Series.QuartileCalculationInclusiveMedian property (PowerPoint)
 keywords: vbapp10.chm716011
 f1_keywords:
 - vbapp10.chm716011
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Series.QuartileCalculationInclusiveMedian Property (PowerPoint)
+# Series.QuartileCalculationInclusiveMedian property (PowerPoint)
 
  **True** if the series uses an inclusive median quartile calculation method. Read/write **Boolean**.
 

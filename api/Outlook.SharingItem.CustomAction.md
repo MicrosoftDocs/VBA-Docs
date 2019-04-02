@@ -1,5 +1,5 @@
 ---
-title: SharingItem.CustomAction Event (Outlook)
+title: SharingItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.CustomAction Event (Outlook)
+# SharingItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 

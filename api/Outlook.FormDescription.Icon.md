@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Icon Property (Outlook)
+title: FormDescription.Icon property (Outlook)
 keywords: vbaol11.chm189
 f1_keywords:
 - vbaol11.chm189
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.Icon Property (Outlook)
+# FormDescription.Icon property (Outlook)
 
 Returns or sets a  **String** representing the file name of the icon to be displayed for the form. Read/write.
 

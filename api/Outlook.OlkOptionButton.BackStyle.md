@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.BackStyle Property (Outlook)
+title: OlkOptionButton.BackStyle property (Outlook)
 keywords: vbaol11.chm1000167
 f1_keywords:
 - vbaol11.chm1000167
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.BackStyle Property (Outlook)
+# OlkOptionButton.BackStyle property (Outlook)
 
 Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
 

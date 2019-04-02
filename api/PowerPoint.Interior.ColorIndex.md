@@ -1,5 +1,5 @@
 ---
-title: Interior.ColorIndex Property (PowerPoint)
+title: Interior.ColorIndex property (PowerPoint)
 keywords: vbapp10.chm707002
 f1_keywords:
 - vbapp10.chm707002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Interior.ColorIndex Property (PowerPoint)
+# Interior.ColorIndex property (PowerPoint)
 
 Returns or sets the color of the interior. Read/write  **Variant**.
 

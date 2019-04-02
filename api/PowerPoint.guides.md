@@ -1,5 +1,5 @@
 ---
-title: Guides Object (PowerPoint)
+title: Guides object (PowerPoint)
 keywords: vbapp10.chm742000
 f1_keywords:
 - vbapp10.chm742000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Guides Object (PowerPoint)
+# Guides object (PowerPoint)
 
 A collection of [Guide](PowerPoint.guide.md) objects in a presentation or custom layout.
 

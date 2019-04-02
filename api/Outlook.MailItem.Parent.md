@@ -1,5 +1,5 @@
 ---
-title: MailItem.Parent Property (Outlook)
+title: MailItem.Parent property (Outlook)
 keywords: vbaol11.chm1293
 f1_keywords:
 - vbaol11.chm1293
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Parent Property (Outlook)
+# MailItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: JournalItem.End Property (Outlook)
+title: JournalItem.End property (Outlook)
 keywords: vbaol11.chm1271
 f1_keywords:
 - vbaol11.chm1271
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.End Property (Outlook)
+# JournalItem.End property (Outlook)
 
 Returns or sets a  **Date** indicating the end date and time of a Journal entry. Read/write.
 

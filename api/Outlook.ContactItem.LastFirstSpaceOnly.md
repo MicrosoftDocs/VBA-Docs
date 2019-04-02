@@ -1,5 +1,5 @@
 ---
-title: ContactItem.LastFirstSpaceOnly Property (Outlook)
+title: ContactItem.LastFirstSpaceOnly property (Outlook)
 keywords: vbaol11.chm1030
 f1_keywords:
 - vbaol11.chm1030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.LastFirstSpaceOnly Property (Outlook)
+# ContactItem.LastFirstSpaceOnly property (Outlook)
 
 Returns a  **String** representing the concatenated last name, first name, and middle name of the contact with spaces between them. Read-only.
 

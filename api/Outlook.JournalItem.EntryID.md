@@ -1,5 +1,5 @@
 ---
-title: JournalItem.EntryID Property (Outlook)
+title: JournalItem.EntryID property (Outlook)
 keywords: vbaol11.chm1240
 f1_keywords:
 - vbaol11.chm1240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.EntryID Property (Outlook)
+# JournalItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 

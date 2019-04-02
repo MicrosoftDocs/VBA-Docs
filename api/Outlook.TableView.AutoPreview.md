@@ -1,5 +1,5 @@
 ---
-title: TableView.AutoPreview Property (Outlook)
+title: TableView.AutoPreview property (Outlook)
 keywords: vbaol11.chm2536
 f1_keywords:
 - vbaol11.chm2536
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.AutoPreview Property (Outlook)
+# TableView.AutoPreview property (Outlook)
 
 Returns or sets an  **[OlAutoPreview](Outlook.OlAutoPreview.md)** constant that determines how items are automatically previewed by the **[TableView](Outlook.TableView.md)** object. Read/write.
 

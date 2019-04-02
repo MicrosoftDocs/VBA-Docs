@@ -1,5 +1,5 @@
 ---
-title: TabStops.DefaultSpacing Property (PowerPoint)
+title: TabStops.DefaultSpacing property (PowerPoint)
 keywords: vbapp10.chm573004
 f1_keywords:
 - vbapp10.chm573004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStops.DefaultSpacing Property (PowerPoint)
+# TabStops.DefaultSpacing property (PowerPoint)
 
 Returns or sets the default tab-stop spacing for the specified text, in points. Read/write.
 

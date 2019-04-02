@@ -1,5 +1,5 @@
 ---
-title: MailItem.Sent Property (Outlook)
+title: MailItem.Sent property (Outlook)
 keywords: vbaol11.chm1358
 f1_keywords:
 - vbaol11.chm1358
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Sent Property (Outlook)
+# MailItem.Sent property (Outlook)
 
 Returns a  **Boolean** value that indicates if a message has been sent. Read-only.
 

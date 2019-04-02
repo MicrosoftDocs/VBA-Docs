@@ -1,5 +1,5 @@
 ---
-title: RuleActions.Forward Property (Outlook)
+title: RuleActions.Forward property (Outlook)
 keywords: vbaol11.chm2193
 f1_keywords:
 - vbaol11.chm2193
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.Forward Property (Outlook)
+# RuleActions.Forward property (Outlook)
 
 Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionForward**. Read-only.
 

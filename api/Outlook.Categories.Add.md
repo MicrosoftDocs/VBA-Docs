@@ -1,5 +1,5 @@
 ---
-title: Categories.Add Method (Outlook)
+title: Categories.Add method (Outlook)
 keywords: vbaol11.chm2437
 f1_keywords:
 - vbaol11.chm2437
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Categories.Add Method (Outlook)
+# Categories.Add method (Outlook)
 
 Creates a new  **[Category](Outlook.Category.md)** object and appends it to the **[Categories](Outlook.Categories.md)** collection.
 

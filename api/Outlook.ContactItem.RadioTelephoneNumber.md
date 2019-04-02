@@ -1,5 +1,5 @@
 ---
-title: ContactItem.RadioTelephoneNumber Property (Outlook)
+title: ContactItem.RadioTelephoneNumber property (Outlook)
 keywords: vbaol11.chm1062
 f1_keywords:
 - vbaol11.chm1062
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.RadioTelephoneNumber Property (Outlook)
+# ContactItem.RadioTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** indicating the radio telephone number for the contact. Read/write.
 

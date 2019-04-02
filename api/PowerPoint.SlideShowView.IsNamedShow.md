@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.IsNamedShow Property (PowerPoint)
+title: SlideShowView.IsNamedShow property (PowerPoint)
 keywords: vbapp10.chm513013
 f1_keywords:
 - vbapp10.chm513013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.IsNamedShow Property (PowerPoint)
+# SlideShowView.IsNamedShow property (PowerPoint)
 
 Determines whether a custom (named) slide show is displayed in the specified slide show view. Read-only.
 

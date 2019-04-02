@@ -1,5 +1,5 @@
 ---
-title: Results.SetColumns Method (Outlook)
+title: Results.SetColumns method (Outlook)
 keywords: vbaol11.chm510
 f1_keywords:
 - vbaol11.chm510
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.SetColumns Method (Outlook)
+# Results.SetColumns method (Outlook)
 
 Caches certain properties for extremely fast access to those particular properties of an item within the collection. 
 

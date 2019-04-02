@@ -1,5 +1,5 @@
 ---
-title: Shape.Vertices Property (PowerPoint)
+title: Shape.Vertices property (PowerPoint)
 keywords: vbapp10.chm547040
 f1_keywords:
 - vbapp10.chm547040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Vertices Property (PowerPoint)
+# Shape.Vertices property (PowerPoint)
 
 Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only.
 

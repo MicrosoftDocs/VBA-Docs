@@ -1,5 +1,5 @@
 ---
-title: Comment.Text Property (PowerPoint)
+title: Comment.Text property (PowerPoint)
 keywords: vbapp10.chm642005
 f1_keywords:
 - vbapp10.chm642005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.Text Property (PowerPoint)
+# Comment.Text property (PowerPoint)
 
 Returns a  **String** that represents the text in a comment. Read-only.
 

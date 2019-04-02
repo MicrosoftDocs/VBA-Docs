@@ -1,5 +1,5 @@
 ---
-title: AddressEntries.Sort Method (Outlook)
+title: AddressEntries.Sort method (Outlook)
 keywords: vbaol11.chm37
 f1_keywords:
 - vbaol11.chm37
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntries.Sort Method (Outlook)
+# AddressEntries.Sort method (Outlook)
 
 Sorts the collection of items by the specified property. The index for the collection is reset to 1 upon completion of this method.
 

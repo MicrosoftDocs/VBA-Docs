@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Role Property (Outlook)
+title: TaskItem.Role property (Outlook)
 keywords: vbaol11.chm1741
 f1_keywords:
 - vbaol11.chm1741
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Role Property (Outlook)
+# TaskItem.Role property (Outlook)
 
 Returns or sets a  **String** containing the free-form text string associating the owner of a task with a role for the task. Read/write.
 

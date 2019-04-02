@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.KeyUp Event (Outlook)
+title: OlkCategory.KeyUp event (Outlook)
 keywords: vbaol11.chm1000458
 f1_keywords:
 - vbaol11.chm1000458
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.KeyUp Event (Outlook)
+# OlkCategory.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 

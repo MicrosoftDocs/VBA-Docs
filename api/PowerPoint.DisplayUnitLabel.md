@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel Object (PowerPoint)
+title: DisplayUnitLabel object (PowerPoint)
 keywords: vbapp10.chm699000
 f1_keywords:
 - vbapp10.chm699000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel Object (PowerPoint)
+# DisplayUnitLabel object (PowerPoint)
 
 Represents a unit label on an axis in the specified chart.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowValueFieldButtons Property (PowerPoint)
+title: Chart.ShowValueFieldButtons property (PowerPoint)
 keywords: vbapp10.chm684052
 f1_keywords:
 - vbapp10.chm684052
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ShowValueFieldButtons Property (PowerPoint)
+# Chart.ShowValueFieldButtons property (PowerPoint)
 
 Returns or sets a value that indicates whether to display the value field buttons on a PivotChart. Read/write.
 

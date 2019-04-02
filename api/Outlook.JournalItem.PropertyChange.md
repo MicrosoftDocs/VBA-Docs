@@ -1,5 +1,5 @@
 ---
-title: JournalItem.PropertyChange Event (Outlook)
+title: JournalItem.PropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.PropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.PropertyChange Event (Outlook)
+# JournalItem.PropertyChange event (Outlook)
 
 Occurs when an explicit built-in property (for example,  **[Subject](Outlook.AppointmentItem.Subject.md)**) of an instance of the parent object is changed.
 

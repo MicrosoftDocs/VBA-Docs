@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Parent Property (PowerPoint)
+title: LinkFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm563002
 f1_keywords:
 - vbapp10.chm563002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LinkFormat.Parent Property (PowerPoint)
+# LinkFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

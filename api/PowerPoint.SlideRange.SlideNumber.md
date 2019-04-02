@@ -1,5 +1,5 @@
 ---
-title: SlideRange.SlideNumber Property (PowerPoint)
+title: SlideRange.SlideNumber property (PowerPoint)
 keywords: vbapp10.chm532019
 f1_keywords:
 - vbapp10.chm532019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.SlideNumber Property (PowerPoint)
+# SlideRange.SlideNumber property (PowerPoint)
 
 Returns the slide number. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ActionSetting.ShowAndReturn Property (PowerPoint)
+title: ActionSetting.ShowAndReturn property (PowerPoint)
 keywords: vbapp10.chm567010
 f1_keywords:
 - vbapp10.chm567010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ActionSetting.ShowAndReturn Property (PowerPoint)
+# ActionSetting.ShowAndReturn property (PowerPoint)
 
 Determines if and under what circumstances Microsoft PowerPoint returns to the initiating slide show. Read/write.
 

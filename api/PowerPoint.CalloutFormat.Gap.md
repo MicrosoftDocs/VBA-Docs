@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Gap Property (PowerPoint)
+title: CalloutFormat.Gap property (PowerPoint)
 keywords: vbapp10.chm559013
 f1_keywords:
 - vbapp10.chm559013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Gap Property (PowerPoint)
+# CalloutFormat.Gap property (PowerPoint)
 
 Returns or sets the horizontal distance (in points) between the end of the callout line and the text bounding box. Read/write.
 

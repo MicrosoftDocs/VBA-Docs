@@ -1,5 +1,5 @@
 ---
-title: Store.GetRootFolder Method (Outlook)
+title: Store.GetRootFolder method (Outlook)
 keywords: vbaol11.chm806
 f1_keywords:
 - vbaol11.chm806
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.GetRootFolder Method (Outlook)
+# Store.GetRootFolder method (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object representing the root-level folder of the **[Store](Outlook.Store.md)**. Read-only.
 

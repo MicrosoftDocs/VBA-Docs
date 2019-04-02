@@ -1,5 +1,5 @@
 ---
-title: MediaBookmark.Index Property (PowerPoint)
+title: MediaBookmark.Index property (PowerPoint)
 keywords: vbapp10.chm729001
 f1_keywords:
 - vbapp10.chm729001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaBookmark.Index Property (PowerPoint)
+# MediaBookmark.Index property (PowerPoint)
 
 Returns the index position of the bookmark. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkControl.MinimumWidth Property (Outlook)
+title: OlkControl.MinimumWidth property (Outlook)
 keywords: vbaol11.chm1000544
 f1_keywords:
 - vbaol11.chm1000544
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkControl.MinimumWidth Property (Outlook)
+# OlkControl.MinimumWidth property (Outlook)
 
 Returns or sets a  **Long** that specifies the minimum width the control can be automatically sized down to. Read/write.
 

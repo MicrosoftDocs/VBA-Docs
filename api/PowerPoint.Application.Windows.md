@@ -1,5 +1,5 @@
 ---
-title: Application.Windows Property (PowerPoint)
+title: Application.Windows property (PowerPoint)
 keywords: vbapp10.chm503009
 f1_keywords:
 - vbapp10.chm503009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Windows Property (PowerPoint)
+# Application.Windows property (PowerPoint)
 
 Returns a  **[DocumentWindows](PowerPoint.DocumentWindows.md)** collection that represents all open document windows. Read-only.
 

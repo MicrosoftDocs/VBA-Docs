@@ -1,5 +1,5 @@
 ---
-title: Selection.Type Property (PowerPoint)
+title: Selection.Type property (PowerPoint)
 keywords: vbapp10.chm508007
 f1_keywords:
 - vbapp10.chm508007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Type Property (PowerPoint)
+# Selection.Type property (PowerPoint)
 
 Represents the type of objects in a selection. Read-only.
 

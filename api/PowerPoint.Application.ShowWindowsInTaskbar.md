@@ -1,5 +1,5 @@
 ---
-title: Application.ShowWindowsInTaskbar Property (PowerPoint)
+title: Application.ShowWindowsInTaskbar property (PowerPoint)
 keywords: vbapp10.chm502041
 f1_keywords:
 - vbapp10.chm502041
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowWindowsInTaskbar Property (PowerPoint)
+# Application.ShowWindowsInTaskbar property (PowerPoint)
 
 Determines whether there is a separate Windows taskbar button for each open presentation. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules Object (Outlook)
+title: AutoFormatRules object (Outlook)
 keywords: vbaol11.chm3210
 f1_keywords:
 - vbaol11.chm3210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules Object (Outlook)
+# AutoFormatRules object (Outlook)
 
 Represents the collection of  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects in a view.
 

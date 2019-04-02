@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Send Event (Outlook)
+title: AppointmentItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Send
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Send Event (Outlook)
+# AppointmentItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item, or when the **Send** method is called for the item, which is an instance of the parent object.
 

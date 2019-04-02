@@ -1,5 +1,5 @@
 ---
-title: PostItem.Send Event (Outlook)
+title: PostItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.Send
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Send Event (Outlook)
+# PostItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).
 

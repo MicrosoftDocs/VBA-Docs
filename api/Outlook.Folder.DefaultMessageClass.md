@@ -1,5 +1,5 @@
 ---
-title: Folder.DefaultMessageClass Property (Outlook)
+title: Folder.DefaultMessageClass property (Outlook)
 keywords: vbaol11.chm1986
 f1_keywords:
 - vbaol11.chm1986
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.DefaultMessageClass Property (Outlook)
+# Folder.DefaultMessageClass property (Outlook)
 
 Returns a  **String** representing the default message class for items in the folder. Read-only.
 

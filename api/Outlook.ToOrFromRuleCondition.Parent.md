@@ -1,5 +1,5 @@
 ---
-title: ToOrFromRuleCondition.Parent Property (Outlook)
+title: ToOrFromRuleCondition.Parent property (Outlook)
 keywords: vbaol11.chm2459
 f1_keywords:
 - vbaol11.chm2459
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToOrFromRuleCondition.Parent Property (Outlook)
+# ToOrFromRuleCondition.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

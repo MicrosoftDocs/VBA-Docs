@@ -1,5 +1,5 @@
 ---
-title: Table.LastCol Property (PowerPoint)
+title: Table.LastCol property (PowerPoint)
 keywords: vbapp10.chm622011
 f1_keywords:
 - vbapp10.chm622011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.LastCol Property (PowerPoint)
+# Table.LastCol property (PowerPoint)
 
 Determines whether to display special formatting for the last column of the specified table. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Views.Item Method (Outlook)
+title: Views.Item method (Outlook)
 keywords: vbaol11.chm546
 f1_keywords:
 - vbaol11.chm546
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Views.Item Method (Outlook)
+# Views.Item method (Outlook)
 
 Returns an  **[View](Outlook.View.md)** object from the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Delete Method (Outlook)
+title: RemoteItem.Delete method (Outlook)
 keywords: vbaol11.chm1614
 f1_keywords:
 - vbaol11.chm1614
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Delete Method (Outlook)
+# RemoteItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 

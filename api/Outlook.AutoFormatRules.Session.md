@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Session Property (Outlook)
+title: AutoFormatRules.Session property (Outlook)
 keywords: vbaol11.chm2715
 f1_keywords:
 - vbaol11.chm2715
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Session Property (Outlook)
+# AutoFormatRules.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

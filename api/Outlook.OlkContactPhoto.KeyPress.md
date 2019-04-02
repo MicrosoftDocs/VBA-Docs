@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.KeyPress Event (Outlook)
+title: OlkContactPhoto.KeyPress event (Outlook)
 keywords: vbaol11.chm1000319
 f1_keywords:
 - vbaol11.chm1000319
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.KeyPress Event (Outlook)
+# OlkContactPhoto.KeyPress event (Outlook)
 
 Occurs when the user presses an ANSI key.
 

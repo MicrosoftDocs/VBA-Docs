@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReminderTime Property (Outlook)
+title: SharingItem.ReminderTime property (Outlook)
 keywords: vbaol11.chm655
 f1_keywords:
 - vbaol11.chm655
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReminderTime Property (Outlook)
+# SharingItem.ReminderTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time at which the reminder should occur for the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

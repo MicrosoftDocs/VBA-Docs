@@ -1,5 +1,5 @@
 ---
-title: TaskItem.UserProperties Property (Outlook)
+title: TaskItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1711
 f1_keywords:
 - vbaol11.chm1711
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.UserProperties Property (Outlook)
+# TaskItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 

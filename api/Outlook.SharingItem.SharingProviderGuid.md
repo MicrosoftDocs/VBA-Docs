@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SharingProviderGuid Property (Outlook)
+title: SharingItem.SharingProviderGuid property (Outlook)
 keywords: vbaol11.chm697
 f1_keywords:
 - vbaol11.chm697
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SharingProviderGuid Property (Outlook)
+# SharingItem.SharingProviderGuid property (Outlook)
 
 Returns a  **String** that represents the GUID of the sharing provider used by the **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
 

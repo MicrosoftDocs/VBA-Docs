@@ -1,5 +1,5 @@
 ---
-title: ReportItem.AttachmentAdd Event (Outlook)
+title: ReportItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.AttachmentAdd Event (Outlook)
+# ReportItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 

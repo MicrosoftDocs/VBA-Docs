@@ -1,5 +1,5 @@
 ---
-title: Coauthoring.FavorServerEditsDuringMerge Property (PowerPoint)
+title: Coauthoring.FavorServerEditsDuringMerge property (PowerPoint)
 keywords: vbapp10.chm731004
 f1_keywords:
 - vbapp10.chm731004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Coauthoring.FavorServerEditsDuringMerge Property (PowerPoint)
+# Coauthoring.FavorServerEditsDuringMerge property (PowerPoint)
 
 Gets or sets whether the merged document favors server-side edits when conflicts occur. Read/write.
 

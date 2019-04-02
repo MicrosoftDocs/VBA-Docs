@@ -1,5 +1,5 @@
 ---
-title: Presentation.ContentTypeProperties Property (PowerPoint)
+title: Presentation.ContentTypeProperties property (PowerPoint)
 keywords: vbapp10.chm583087
 f1_keywords:
 - vbapp10.chm583087
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.ContentTypeProperties Property (PowerPoint)
+# Presentation.ContentTypeProperties property (PowerPoint)
 
 Returns the Microsoft Office  **MetaProperties** collection that describes the metadata stored in the presentation. Read-only.
 

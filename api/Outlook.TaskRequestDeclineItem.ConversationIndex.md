@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.ConversationIndex Property (Outlook)
+title: TaskRequestDeclineItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1829
 f1_keywords:
 - vbaol11.chm1829
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.ConversationIndex Property (Outlook)
+# TaskRequestDeclineItem.ConversationIndex property (Outlook)
 
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
 

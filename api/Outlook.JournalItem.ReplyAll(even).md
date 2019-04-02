@@ -1,5 +1,5 @@
 ---
-title: JournalItem.ReplyAll Event (Outlook)
+title: JournalItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.ReplyAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.ReplyAll Event (Outlook)
+# JournalItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item, or when the **ReplyAll** method is called for the item, which is an instance of the parent object.
 

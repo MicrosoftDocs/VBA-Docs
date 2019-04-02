@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.PasswordChar Property (Outlook)
+title: OlkTextBox.PasswordChar property (Outlook)
 keywords: vbaol11.chm1000054
 f1_keywords:
 - vbaol11.chm1000054
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.PasswordChar Property (Outlook)
+# OlkTextBox.PasswordChar property (Outlook)
 
 Returns or sets a  **String** that specifies a placeholder character that is to be displayed repetitively as a string instead of the actual characters entered in the text box. Read/write.
 

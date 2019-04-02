@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.Value Property (Outlook)
+title: OlkCheckBox.Value property (Outlook)
 keywords: vbaol11.chm1000145
 f1_keywords:
 - vbaol11.chm1000145
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.Value Property (Outlook)
+# OlkCheckBox.Value property (Outlook)
 
 Returns or sets a  **Variant** that specifies the state of the control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Columns.Remove Method (Outlook)
+title: Columns.Remove method (Outlook)
 keywords: vbaol11.chm2742
 f1_keywords:
 - vbaol11.chm2742
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.Remove Method (Outlook)
+# Columns.Remove method (Outlook)
 
 Removes the  **[Column](Outlook.Column.md)** object specified by _Index_ and resets the **[Table](Outlook.Table.md)**.
 

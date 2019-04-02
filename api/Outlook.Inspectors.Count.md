@@ -1,5 +1,5 @@
 ---
-title: Inspectors.Count Property (Outlook)
+title: Inspectors.Count property (Outlook)
 keywords: vbaol11.chm137
 f1_keywords:
 - vbaol11.chm137
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspectors.Count Property (Outlook)
+# Inspectors.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

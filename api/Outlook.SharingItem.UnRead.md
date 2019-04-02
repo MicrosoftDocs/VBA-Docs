@@ -1,5 +1,5 @@
 ---
-title: SharingItem.UnRead Property (Outlook)
+title: SharingItem.UnRead property (Outlook)
 keywords: vbaol11.chm621
 f1_keywords:
 - vbaol11.chm621
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.UnRead Property (Outlook)
+# SharingItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the **[SharingItem](Outlook.SharingItem.md)** has not been opened (read). Read/write.
 

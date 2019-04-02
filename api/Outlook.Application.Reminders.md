@@ -1,5 +1,5 @@
 ---
-title: Application.Reminders Property (Outlook)
+title: Application.Reminders property (Outlook)
 keywords: vbaol11.chm731
 f1_keywords:
 - vbaol11.chm731
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Reminders Property (Outlook)
+# Application.Reminders property (Outlook)
 
 Returns a  **[Reminders](Outlook.Reminders.md)** collection that represents all current reminders. Read-only.
 

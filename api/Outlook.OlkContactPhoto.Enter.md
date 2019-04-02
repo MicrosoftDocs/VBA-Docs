@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.Enter Event (Outlook)
+title: OlkContactPhoto.Enter event (Outlook)
 keywords: vbaol11.chm1000316
 f1_keywords:
 - vbaol11.chm1000316
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.Enter Event (Outlook)
+# OlkContactPhoto.Enter event (Outlook)
 
 Occurs before the control actually receives the focus from a control on the same form.
 

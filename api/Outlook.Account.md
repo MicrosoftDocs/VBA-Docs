@@ -1,5 +1,5 @@
 ---
-title: Account Object (Outlook)
+title: Account object (Outlook)
 keywords: vbaol11.chm3153
 f1_keywords:
 - vbaol11.chm3153
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account Object (Outlook)
+# Account object (Outlook)
 
 The  **Account** object represents an account that is defined for the current profile.
 

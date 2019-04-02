@@ -1,5 +1,5 @@
 ---
-title: ItemProperties Object (Outlook)
+title: ItemProperties object (Outlook)
 keywords: vbaol11.chm530
 f1_keywords:
 - vbaol11.chm530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperties Object (Outlook)
+# ItemProperties object (Outlook)
 
 A collection of all properties associated with the item.
 

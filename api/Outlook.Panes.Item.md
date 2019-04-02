@@ -1,5 +1,5 @@
 ---
-title: Panes.Item Method (Outlook)
+title: Panes.Item method (Outlook)
 keywords: vbaol11.chm79
 f1_keywords:
 - vbaol11.chm79
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Panes.Item Method (Outlook)
+# Panes.Item method (Outlook)
 
 Returns a pane from a collection.
 

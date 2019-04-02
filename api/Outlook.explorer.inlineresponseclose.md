@@ -1,5 +1,5 @@
 ---
-title: Explorer.InlineResponseClose Event (Outlook)
+title: Explorer.InlineResponseClose event (Outlook)
 keywords: vbaol11.chm3598
 f1_keywords:
 - vbaol11.chm3598
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.InlineResponseClose Event (Outlook)
+# Explorer.InlineResponseClose event (Outlook)
 Occurs when the user performs an action that causes the active inline response to close in the Reading Pane.
 
 ## Syntax

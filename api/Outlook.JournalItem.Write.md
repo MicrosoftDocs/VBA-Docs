@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Write Event (Outlook)
+title: JournalItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Write Event (Outlook)
+# JournalItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.JournalItem.Save.md)** or **[SaveAs](Outlook.JournalItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 

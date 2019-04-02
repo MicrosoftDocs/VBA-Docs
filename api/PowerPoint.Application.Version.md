@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (PowerPoint)
+title: Application.Version property (PowerPoint)
 keywords: vbapp10.chm502015
 f1_keywords:
 - vbapp10.chm502015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Version Property (PowerPoint)
+# Application.Version property (PowerPoint)
 
 Returns the Microsoft PowerPoint version number. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.GetAssociatedAppointment Method (Outlook)
+title: MeetingItem.GetAssociatedAppointment method (Outlook)
 keywords: vbaol11.chm1455
 f1_keywords:
 - vbaol11.chm1455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.GetAssociatedAppointment Method (Outlook)
+# MeetingItem.GetAssociatedAppointment method (Outlook)
 
 Returns an  **[AppointmentItem](Outlook.AppointmentItem.md)** object that represents the appointment associated with the meeting request.
 

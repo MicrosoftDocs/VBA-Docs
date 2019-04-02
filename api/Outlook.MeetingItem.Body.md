@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Body Property (Outlook)
+title: MeetingItem.Body property (Outlook)
 keywords: vbaol11.chm1405
 f1_keywords:
 - vbaol11.chm1405
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Body Property (Outlook)
+# MeetingItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 

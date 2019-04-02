@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.DisplayOnTitleSlide Property (PowerPoint)
+title: HeadersFooters.DisplayOnTitleSlide property (PowerPoint)
 keywords: vbapp10.chm542007
 f1_keywords:
 - vbapp10.chm542007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeadersFooters.DisplayOnTitleSlide Property (PowerPoint)
+# HeadersFooters.DisplayOnTitleSlide property (PowerPoint)
 
 Determines whether the footer, date and time, and slide number appear on the title slide. Applies to slide masters. Read/write. 
 

@@ -1,5 +1,5 @@
 ---
-title: RuleActions.Delete Property (Outlook)
+title: RuleActions.Delete property (Outlook)
 keywords: vbaol11.chm2186
 f1_keywords:
 - vbaol11.chm2186
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.Delete Property (Outlook)
+# RuleActions.Delete property (Outlook)
 
 Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionDelete**. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PlaceholderFormat.ContainedType Property (PowerPoint)
+title: PlaceholderFormat.ContainedType property (PowerPoint)
 keywords: vbapp10.chm545005
 f1_keywords:
 - vbapp10.chm545005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaceholderFormat.ContainedType Property (PowerPoint)
+# PlaceholderFormat.ContainedType property (PowerPoint)
 
 Returns the type of the shape that contains the specified placeholder format. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.SaveAs Method (Outlook)
+title: TaskRequestDeclineItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1856
 f1_keywords:
 - vbaol11.chm1856
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.SaveAs Method (Outlook)
+# TaskRequestDeclineItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 

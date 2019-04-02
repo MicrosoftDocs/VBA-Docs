@@ -1,5 +1,5 @@
 ---
-title: Font Object (PowerPoint)
+title: Font object (PowerPoint)
 keywords: vbapp10.chm575000
 f1_keywords:
 - vbapp10.chm575000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font Object (PowerPoint)
+# Font object (PowerPoint)
 
 Represents character formatting for text or a bullet. The  **Font** object is a member of the **[Fonts](./PowerPoint.Fonts.md)** collection. The **Fonts** collection contains all the fonts used in a presentation.
 

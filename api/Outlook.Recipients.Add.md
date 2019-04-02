@@ -1,5 +1,5 @@
 ---
-title: Recipients.Add Method (Outlook)
+title: Recipients.Add method (Outlook)
 keywords: vbaol11.chm232
 f1_keywords:
 - vbaol11.chm232
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipients.Add Method (Outlook)
+# Recipients.Add method (Outlook)
 
 Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collection.
 

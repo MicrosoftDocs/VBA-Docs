@@ -1,5 +1,5 @@
 ---
-title: Explorer.Close Event (Outlook)
+title: Explorer.Close event (Outlook)
 keywords: vbaol11.chm456
 f1_keywords:
 - vbaol11.chm456
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Close Event (Outlook)
+# Explorer.Close event (Outlook)
 
 Occurs when an explorer is being closed.
 

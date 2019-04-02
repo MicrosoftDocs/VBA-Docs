@@ -1,5 +1,5 @@
 ---
-title: ItemProperty.IsUserProperty Property (Outlook)
+title: ItemProperty.IsUserProperty property (Outlook)
 keywords: vbaol11.chm529
 f1_keywords:
 - vbaol11.chm529
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperty.IsUserProperty Property (Outlook)
+# ItemProperty.IsUserProperty property (Outlook)
 
 Returns a  **Boolean** value that indicates if the item property is a custom property created by the user. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.Permission Property (PowerPoint)
+title: Presentation.Permission property (PowerPoint)
 keywords: vbapp10.chm583082
 f1_keywords:
 - vbapp10.chm583082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Permission Property (PowerPoint)
+# Presentation.Permission property (PowerPoint)
 
 
 

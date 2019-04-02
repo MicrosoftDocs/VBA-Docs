@@ -1,5 +1,5 @@
 ---
-title: Presentation.InMergeMode Property (PowerPoint)
+title: Presentation.InMergeMode property (PowerPoint)
 keywords: vbapp10.chm583114
 f1_keywords:
 - vbapp10.chm583114
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.InMergeMode Property (PowerPoint)
+# Presentation.InMergeMode property (PowerPoint)
 
 Indicates whether the document window is in merge mode. Read-only
 

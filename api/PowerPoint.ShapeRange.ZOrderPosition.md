@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ZOrderPosition Property (PowerPoint)
+title: ShapeRange.ZOrderPosition property (PowerPoint)
 keywords: vbapp10.chm548043
 f1_keywords:
 - vbapp10.chm548043
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ZOrderPosition Property (PowerPoint)
+# ShapeRange.ZOrderPosition property (PowerPoint)
 
 Returns the position of the specified shape in the z-order. Read-only.
 

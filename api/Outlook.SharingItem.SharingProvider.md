@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SharingProvider Property (Outlook)
+title: SharingItem.SharingProvider property (Outlook)
 keywords: vbaol11.chm699
 f1_keywords:
 - vbaol11.chm699
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SharingProvider Property (Outlook)
+# SharingItem.SharingProvider property (Outlook)
 
 Returns an  **[OlSharingProvider](Outlook.OlSharingProvider.md)** constant that indicates the sharing provider used by the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 

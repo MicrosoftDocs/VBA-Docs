@@ -1,5 +1,5 @@
 ---
-title: PlaySoundRuleAction Object (Outlook)
+title: PlaySoundRuleAction object (Outlook)
 keywords: vbaol11.chm3169
 f1_keywords:
 - vbaol11.chm3169
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySoundRuleAction Object (Outlook)
+# PlaySoundRuleAction object (Outlook)
 
 Represents an action that plays a .wav file sound.
 

@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetFolderFromID Method (Outlook)
+title: NameSpace.GetFolderFromID method (Outlook)
 keywords: vbaol11.chm762
 f1_keywords:
 - vbaol11.chm762
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.GetFolderFromID Method (Outlook)
+# NameSpace.GetFolderFromID method (Outlook)
 
 Returns a **[Folder](Outlook.Folder.md)** object identified by the specified entry ID (if valid).
 

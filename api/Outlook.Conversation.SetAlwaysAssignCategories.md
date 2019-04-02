@@ -1,5 +1,5 @@
 ---
-title: Conversation.SetAlwaysAssignCategories Method (Outlook)
+title: Conversation.SetAlwaysAssignCategories method (Outlook)
 keywords: vbaol11.chm3444
 f1_keywords:
 - vbaol11.chm3444
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.SetAlwaysAssignCategories Method (Outlook)
+# Conversation.SetAlwaysAssignCategories method (Outlook)
 
 Applies one or more categories to all existing items and future items of the conversation.
 

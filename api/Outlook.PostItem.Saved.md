@@ -1,5 +1,5 @@
 ---
-title: PostItem.Saved Property (Outlook)
+title: PostItem.Saved property (Outlook)
 keywords: vbaol11.chm1533
 f1_keywords:
 - vbaol11.chm1533
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Saved Property (Outlook)
+# PostItem.Saved property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 

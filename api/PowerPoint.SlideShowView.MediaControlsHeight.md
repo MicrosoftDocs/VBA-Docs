@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.MediaControlsHeight Property (PowerPoint)
+title: SlideShowView.MediaControlsHeight property (PowerPoint)
 keywords: vbapp10.chm513037
 f1_keywords:
 - vbapp10.chm513037
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.MediaControlsHeight Property (PowerPoint)
+# SlideShowView.MediaControlsHeight property (PowerPoint)
 
 Returns the height of the media control bounding box. Read-only.
 

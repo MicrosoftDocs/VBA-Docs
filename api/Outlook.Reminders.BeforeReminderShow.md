@@ -1,5 +1,5 @@
 ---
-title: Reminders.BeforeReminderShow Event (Outlook)
+title: Reminders.BeforeReminderShow event (Outlook)
 keywords: vbaol11.chm575
 f1_keywords:
 - vbaol11.chm575
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.BeforeReminderShow Event (Outlook)
+# Reminders.BeforeReminderShow event (Outlook)
 
 Occurs before the  **Reminder** dialog box is displayed.
 

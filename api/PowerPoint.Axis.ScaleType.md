@@ -1,5 +1,5 @@
 ---
-title: Axis.ScaleType Property (PowerPoint)
+title: Axis.ScaleType property (PowerPoint)
 keywords: vbapp10.chm682026
 f1_keywords:
 - vbapp10.chm682026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.ScaleType Property (PowerPoint)
+# Axis.ScaleType property (PowerPoint)
 
 Returns or sets the value axis scale type. Read/write  **[xlScaleType](PowerPoint.XlScaleType.md)**.
 

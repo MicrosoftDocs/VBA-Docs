@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Top Property (PowerPoint)
+title: DisplayUnitLabel.Top property (PowerPoint)
 keywords: vbapp10.chm699009
 f1_keywords:
 - vbapp10.chm699009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Top Property (PowerPoint)
+# DisplayUnitLabel.Top property (PowerPoint)
 
 Returns or sets the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read/write  **Double**.
 

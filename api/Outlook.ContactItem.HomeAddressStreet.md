@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HomeAddressStreet Property (Outlook)
+title: ContactItem.HomeAddressStreet property (Outlook)
 keywords: vbaol11.chm1018
 f1_keywords:
 - vbaol11.chm1018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HomeAddressStreet Property (Outlook)
+# ContactItem.HomeAddressStreet property (Outlook)
 
 Returns or sets a  **String** representing the street portion of the home address for the contact. Read/write.
 

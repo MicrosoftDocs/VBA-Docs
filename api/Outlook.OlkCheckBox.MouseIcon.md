@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.MouseIcon Property (Outlook)
+title: OlkCheckBox.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000142
 f1_keywords:
 - vbaol11.chm1000142
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.MouseIcon Property (Outlook)
+# OlkCheckBox.MouseIcon property (Outlook)
 
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 

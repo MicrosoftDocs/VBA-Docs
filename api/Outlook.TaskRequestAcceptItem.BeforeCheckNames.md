@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.BeforeCheckNames Event (Outlook)
+title: TaskRequestAcceptItem.BeforeCheckNames event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.BeforeCheckNames
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.BeforeCheckNames Event (Outlook)
+# TaskRequestAcceptItem.BeforeCheckNames event (Outlook)
 
 Occurs just before Microsoft Outlook starts resolving names in the recipient collection for an item (which is an instance of the parent object).
 

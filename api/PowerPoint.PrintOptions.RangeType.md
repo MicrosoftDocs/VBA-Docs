@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.RangeType Property (PowerPoint)
+title: PrintOptions.RangeType property (PowerPoint)
 keywords: vbapp10.chm517011
 f1_keywords:
 - vbapp10.chm517011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.RangeType Property (PowerPoint)
+# PrintOptions.RangeType property (PowerPoint)
 
 Returns or sets the type of print range for the presentation. Read/write.
 

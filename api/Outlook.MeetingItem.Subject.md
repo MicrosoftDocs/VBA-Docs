@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Subject Property (Outlook)
+title: MeetingItem.Subject property (Outlook)
 keywords: vbaol11.chm1425
 f1_keywords:
 - vbaol11.chm1425
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Subject Property (Outlook)
+# MeetingItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 

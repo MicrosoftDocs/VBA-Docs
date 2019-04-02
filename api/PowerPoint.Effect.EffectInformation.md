@@ -1,5 +1,5 @@
 ---
-title: Effect.EffectInformation Property (PowerPoint)
+title: Effect.EffectInformation property (PowerPoint)
 keywords: vbapp10.chm652018
 f1_keywords:
 - vbapp10.chm652018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.EffectInformation Property (PowerPoint)
+# Effect.EffectInformation property (PowerPoint)
 
 Returns an  **[EffectInformation](PowerPoint.EffectInformation.md)** object that represents information for a specified animation effect.
 

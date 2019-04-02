@@ -1,5 +1,5 @@
 ---
-title: Point.DataLabel Property (PowerPoint)
+title: Point.DataLabel property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.DataLabel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.DataLabel Property (PowerPoint)
+# Point.DataLabel property (PowerPoint)
 
 Returns the data label associated with the point. Read-only  **[DataLabel](PowerPoint.DataLabel.md)**.
 

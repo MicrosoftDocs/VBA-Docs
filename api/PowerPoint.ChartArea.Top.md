@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Top Property (PowerPoint)
+title: ChartArea.Top property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Top
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Top Property (PowerPoint)
+# ChartArea.Top property (PowerPoint)
 
 Returns or sets the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart). Read/write  **Double**.
 

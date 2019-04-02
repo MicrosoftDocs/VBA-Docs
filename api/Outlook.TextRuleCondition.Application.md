@@ -1,5 +1,5 @@
 ---
-title: TextRuleCondition.Application Property (Outlook)
+title: TextRuleCondition.Application property (Outlook)
 keywords: vbaol11.chm2472
 f1_keywords:
 - vbaol11.chm2472
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRuleCondition.Application Property (Outlook)
+# TextRuleCondition.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

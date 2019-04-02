@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Class Property (Outlook)
+title: StorageItem.Class property (Outlook)
 keywords: vbaol11.chm2138
 f1_keywords:
 - vbaol11.chm2138
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Class Property (Outlook)
+# StorageItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

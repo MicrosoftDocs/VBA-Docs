@@ -1,5 +1,5 @@
 ---
-title: ContactItem.AttachmentAdd Event (Outlook)
+title: ContactItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.AttachmentAdd Event (Outlook)
+# ContactItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 

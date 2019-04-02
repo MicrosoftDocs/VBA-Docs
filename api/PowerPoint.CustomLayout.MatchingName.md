@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.MatchingName Property (PowerPoint)
+title: CustomLayout.MatchingName property (PowerPoint)
 keywords: vbapp10.chm672014
 f1_keywords:
 - vbapp10.chm672014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.MatchingName Property (PowerPoint)
+# CustomLayout.MatchingName property (PowerPoint)
 
 Represents the internal name of the specified custom layout. Read/write.
 

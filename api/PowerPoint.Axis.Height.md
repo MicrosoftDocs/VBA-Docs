@@ -1,5 +1,5 @@
 ---
-title: Axis.Height Property (PowerPoint)
+title: Axis.Height property (PowerPoint)
 keywords: vbapp10.chm682041
 f1_keywords:
 - vbapp10.chm682041
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.Height Property (PowerPoint)
+# Axis.Height property (PowerPoint)
 
 Returns the height, in points, of the object. Read-only  **Double**.
 

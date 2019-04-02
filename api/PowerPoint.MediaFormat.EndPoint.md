@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.EndPoint Property (PowerPoint)
+title: MediaFormat.EndPoint property (PowerPoint)
 keywords: vbapp10.chm724007
 f1_keywords:
 - vbapp10.chm724007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.EndPoint Property (PowerPoint)
+# MediaFormat.EndPoint property (PowerPoint)
 
 Gets or sets the time of the end point of the trim region of the media. Read/write.
 

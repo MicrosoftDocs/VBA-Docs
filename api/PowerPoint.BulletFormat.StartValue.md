@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.StartValue Property (PowerPoint)
+title: BulletFormat.StartValue property (PowerPoint)
 keywords: vbapp10.chm577011
 f1_keywords:
 - vbapp10.chm577011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.StartValue Property (PowerPoint)
+# BulletFormat.StartValue property (PowerPoint)
 
 Returns or sets the beginning value of a bulleted list when the  **[Type](PowerPoint.BulletFormat.Type.md)** property of the **BulletFormat** object is set to **ppBulletNumbered**. Read/write.
 

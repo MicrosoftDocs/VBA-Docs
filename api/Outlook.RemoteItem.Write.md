@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Write Event (Outlook)
+title: RemoteItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Write Event (Outlook)
+# RemoteItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.RemoteItem.Save.md)** or **[SaveAs](Outlook.RemoteItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.ConversationTopic Property (Outlook)
+title: TaskRequestDeclineItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1830
 f1_keywords:
 - vbaol11.chm1830
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.ConversationTopic Property (Outlook)
+# TaskRequestDeclineItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 

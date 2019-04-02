@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.Session Property (Outlook)
+title: OutlookBarPane.Session property (Outlook)
 keywords: vbaol11.chm361
 f1_keywords:
 - vbaol11.chm361
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarPane.Session Property (Outlook)
+# OutlookBarPane.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

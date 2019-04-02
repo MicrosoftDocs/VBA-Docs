@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ReplyAll Event (Outlook)
+title: ContactItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ReplyAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ReplyAll Event (Outlook)
+# ContactItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).
 

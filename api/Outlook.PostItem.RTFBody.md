@@ -1,5 +1,5 @@
 ---
-title: PostItem.RTFBody Property (Outlook)
+title: PostItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3527
 f1_keywords:
 - vbaol11.chm3527
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.RTFBody Property (Outlook)
+# PostItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 

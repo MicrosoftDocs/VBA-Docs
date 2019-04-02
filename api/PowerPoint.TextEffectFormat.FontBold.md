@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontBold Property (PowerPoint)
+title: TextEffectFormat.FontBold property (PowerPoint)
 keywords: vbapp10.chm556004
 f1_keywords:
 - vbapp10.chm556004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontBold Property (PowerPoint)
+# TextEffectFormat.FontBold property (PowerPoint)
 
 Determines whether the font in the specified WordArt is bold. Read/write.
 

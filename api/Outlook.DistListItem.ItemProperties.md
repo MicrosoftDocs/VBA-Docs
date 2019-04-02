@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ItemProperties Property (Outlook)
+title: DistListItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1161
 f1_keywords:
 - vbaol11.chm1161
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ItemProperties Property (Outlook)
+# DistListItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 

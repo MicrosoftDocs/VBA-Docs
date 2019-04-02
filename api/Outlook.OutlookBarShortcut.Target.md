@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.Target Property (Outlook)
+title: OutlookBarShortcut.Target property (Outlook)
 keywords: vbaol11.chm343
 f1_keywords:
 - vbaol11.chm343
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.Target Property (Outlook)
+# OutlookBarShortcut.Target property (Outlook)
 
 Returns a  **Variant** indicating the target of the specified shortcut in a **Shortcuts** pane group. Read-only.
 

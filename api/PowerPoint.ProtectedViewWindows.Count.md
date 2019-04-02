@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Count Property (PowerPoint)
+title: ProtectedViewWindows.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindows.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindows.Count Property (PowerPoint)
+# ProtectedViewWindows.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl.DoubleClick Event (Outlook)
+title: OlkBusinessCardControl.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000329
 f1_keywords:
 - vbaol11.chm1000329
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl.DoubleClick Event (Outlook)
+# OlkBusinessCardControl.DoubleClick event (Outlook)
 
 Occurs when the control is double-clicked through user action or programmatically.
 

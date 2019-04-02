@@ -1,5 +1,5 @@
 ---
-title: MailItem.SentOn Property (Outlook)
+title: MailItem.SentOn property (Outlook)
 keywords: vbaol11.chm1359
 f1_keywords:
 - vbaol11.chm1359
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.SentOn Property (Outlook)
+# MailItem.SentOn property (Outlook)
 
 Returns a  **Date** indicating the date and time on which the Outlook item was sent. Read-only.
 

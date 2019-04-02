@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.PlayOnEntry Property (PowerPoint)
+title: PlaySettings.PlayOnEntry property (PowerPoint)
 keywords: vbapp10.chm568006
 f1_keywords:
 - vbapp10.chm568006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySettings.PlayOnEntry Property (PowerPoint)
+# PlaySettings.PlayOnEntry property (PowerPoint)
 
 Determines whether the specified movie or sound is played automatically when it is animated. Read/write.
 

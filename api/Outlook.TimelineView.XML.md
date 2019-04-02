@@ -1,5 +1,5 @@
 ---
-title: TimelineView.XML Property (Outlook)
+title: TimelineView.XML property (Outlook)
 keywords: vbaol11.chm2657
 f1_keywords:
 - vbaol11.chm2657
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.XML Property (Outlook)
+# TimelineView.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
 

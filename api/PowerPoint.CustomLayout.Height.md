@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Height Property (PowerPoint)
+title: CustomLayout.Height property (PowerPoint)
 keywords: vbapp10.chm672008
 f1_keywords:
 - vbapp10.chm672008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Height Property (PowerPoint)
+# CustomLayout.Height property (PowerPoint)
 
 Returns the height of the specified object, in points. Read-only.
 

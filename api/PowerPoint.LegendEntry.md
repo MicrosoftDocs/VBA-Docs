@@ -1,5 +1,5 @@
 ---
-title: LegendEntry Object (PowerPoint)
+title: LegendEntry object (PowerPoint)
 keywords: vbapp10.chm711000
 f1_keywords:
 - vbapp10.chm711000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntry Object (PowerPoint)
+# LegendEntry object (PowerPoint)
 
 Represents a legend entry in a chart legend.
 

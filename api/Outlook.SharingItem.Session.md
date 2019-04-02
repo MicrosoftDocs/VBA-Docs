@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Session Property (Outlook)
+title: SharingItem.Session property (Outlook)
 keywords: vbaol11.chm595
 f1_keywords:
 - vbaol11.chm595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Session Property (Outlook)
+# SharingItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

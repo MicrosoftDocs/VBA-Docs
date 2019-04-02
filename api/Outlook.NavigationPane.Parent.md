@@ -1,5 +1,5 @@
 ---
-title: NavigationPane.Parent Property (Outlook)
+title: NavigationPane.Parent property (Outlook)
 keywords: vbaol11.chm2789
 f1_keywords:
 - vbaol11.chm2789
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationPane.Parent Property (Outlook)
+# NavigationPane.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

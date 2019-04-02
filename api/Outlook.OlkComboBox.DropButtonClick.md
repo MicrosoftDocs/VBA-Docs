@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.DropButtonClick Event (Outlook)
+title: OlkComboBox.DropButtonClick event (Outlook)
 keywords: vbaol11.chm1000246
 f1_keywords:
 - vbaol11.chm1000246
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.DropButtonClick Event (Outlook)
+# OlkComboBox.DropButtonClick event (Outlook)
 
 Occurs when the user clicks the drop button to expand the drop-down list in the combo box control, or when the  **[DropDown](Outlook.OlkComboBox.DropDown.md)** method is called programmatically.
 

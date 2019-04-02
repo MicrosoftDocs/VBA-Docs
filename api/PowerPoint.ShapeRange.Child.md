@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Child Property (PowerPoint)
+title: ShapeRange.Child property (PowerPoint)
 keywords: vbapp10.chm548075
 f1_keywords:
 - vbapp10.chm548075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Child Property (PowerPoint)
+# ShapeRange.Child property (PowerPoint)
 
  **MsoTrue** if the shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only.
 

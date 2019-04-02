@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Number Property (PowerPoint)
+title: BulletFormat.Number property (PowerPoint)
 keywords: vbapp10.chm577013
 f1_keywords:
 - vbapp10.chm577013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.Number Property (PowerPoint)
+# BulletFormat.Number property (PowerPoint)
 
 Returns the bullet number of a paragraph when the  **[Type](PowerPoint.BulletFormat.Type.md)** property of the **BulletFormat** object is set to **ppBulletNumbered**. Read-only.
 

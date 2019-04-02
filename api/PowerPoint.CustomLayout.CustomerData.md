@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.CustomerData Property (PowerPoint)
+title: CustomLayout.CustomerData property (PowerPoint)
 keywords: vbapp10.chm672025
 f1_keywords:
 - vbapp10.chm672025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.CustomerData Property (PowerPoint)
+# CustomLayout.CustomerData property (PowerPoint)
 
 Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object.
 

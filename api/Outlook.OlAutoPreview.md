@@ -26,6 +26,6 @@ Indicates how items will be automatically previewed.
 
 ## Remarks
 
-Used by the [TableView.AutoPreview Property (Outlook)](Outlook.TableView.AutoPreview.md) to determine how items are automatically previewed.
+Used by the [TableView.AutoPreview property (Outlook)](Outlook.TableView.AutoPreview.md) to determine how items are automatically previewed.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

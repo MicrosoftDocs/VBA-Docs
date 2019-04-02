@@ -1,5 +1,5 @@
 ---
-title: Stores Object (Outlook)
+title: Stores object (Outlook)
 keywords: vbaol11.chm3019
 f1_keywords:
 - vbaol11.chm3019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Stores Object (Outlook)
+# Stores object (Outlook)
 
 A set of  **[Store](Outlook.Store.md)** objects representing all the stores available in the current profile.
 

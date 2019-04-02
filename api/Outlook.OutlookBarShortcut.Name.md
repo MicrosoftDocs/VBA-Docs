@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.Name Property (Outlook)
+title: OutlookBarShortcut.Name property (Outlook)
 keywords: vbaol11.chm342
 f1_keywords:
 - vbaol11.chm342
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.Name Property (Outlook)
+# OutlookBarShortcut.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 

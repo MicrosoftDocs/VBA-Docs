@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveWindow Property (PowerPoint)
+title: Application.ActiveWindow property (PowerPoint)
 keywords: vbapp10.chm502004
 f1_keywords:
 - vbapp10.chm502004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveWindow Property (PowerPoint)
+# Application.ActiveWindow property (PowerPoint)
 
 Returns a  **[DocumentWindow](PowerPoint.DocumentWindow.md)** object that represents the active document window. Read-only.
 

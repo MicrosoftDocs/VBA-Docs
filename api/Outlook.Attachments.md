@@ -1,5 +1,5 @@
 ---
-title: Attachments Object (Outlook)
+title: Attachments object (Outlook)
 keywords: vbaol11.chm169
 f1_keywords:
 - vbaol11.chm169
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments Object (Outlook)
+# Attachments object (Outlook)
 
 Contains a set of  **[Attachment](Outlook.Attachment.md)** objects that represent the attachments in an Outlook item.
 

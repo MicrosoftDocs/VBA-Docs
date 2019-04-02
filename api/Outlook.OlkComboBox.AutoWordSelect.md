@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.AutoWordSelect Property (Outlook)
+title: OlkComboBox.AutoWordSelect property (Outlook)
 keywords: vbaol11.chm1000196
 f1_keywords:
 - vbaol11.chm1000196
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.AutoWordSelect Property (Outlook)
+# OlkComboBox.AutoWordSelect property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether a word or a character is the basic unit used to extend a selection. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.FormulaR1C1Local Property (PowerPoint)
+title: DisplayUnitLabel.FormulaR1C1Local property (PowerPoint)
 keywords: vbapp10.chm699027
 f1_keywords:
 - vbapp10.chm699027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.FormulaR1C1Local Property (PowerPoint)
+# DisplayUnitLabel.FormulaR1C1Local property (PowerPoint)
 
 Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **String**.
 

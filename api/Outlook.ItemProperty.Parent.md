@@ -1,5 +1,5 @@
 ---
-title: ItemProperty.Parent Property (Outlook)
+title: ItemProperty.Parent property (Outlook)
 keywords: vbaol11.chm521
 f1_keywords:
 - vbaol11.chm521
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperty.Parent Property (Outlook)
+# ItemProperty.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

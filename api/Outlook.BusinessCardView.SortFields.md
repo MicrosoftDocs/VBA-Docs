@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.SortFields Property (Outlook)
+title: BusinessCardView.SortFields property (Outlook)
 keywords: vbaol11.chm2936
 f1_keywords:
 - vbaol11.chm2936
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.SortFields Property (Outlook)
+# BusinessCardView.SortFields property (Outlook)
 
 Returns an  **[OrderFields](Outlook.OrderFields.md)** collection object that represents all the fields by which the view is sorted. Read-only.
 

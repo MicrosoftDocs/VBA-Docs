@@ -1,5 +1,5 @@
 ---
-title: DataTable.Parent Property (PowerPoint)
+title: DataTable.Parent property (PowerPoint)
 keywords: vbapp10.chm698009
 f1_keywords:
 - vbapp10.chm698009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataTable.Parent Property (PowerPoint)
+# DataTable.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

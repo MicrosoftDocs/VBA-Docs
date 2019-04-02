@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.DropDown Method (Outlook)
+title: OlkDateControl.DropDown method (Outlook)
 keywords: vbaol11.chm1000359
 f1_keywords:
 - vbaol11.chm1000359
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.DropDown Method (Outlook)
+# OlkDateControl.DropDown method (Outlook)
 
 Expands the calendar portion of the date control.
 

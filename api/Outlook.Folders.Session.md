@@ -1,5 +1,5 @@
 ---
-title: Folders.Session Property (Outlook)
+title: Folders.Session property (Outlook)
 keywords: vbaol11.chm41
 f1_keywords:
 - vbaol11.chm41
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.Session Property (Outlook)
+# Folders.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

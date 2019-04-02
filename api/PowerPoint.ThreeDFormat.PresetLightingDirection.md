@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingDirection Property (PowerPoint)
+title: ThreeDFormat.PresetLightingDirection property (PowerPoint)
 keywords: vbapp10.chm557012
 f1_keywords:
 - vbapp10.chm557012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetLightingDirection Property (PowerPoint)
+# ThreeDFormat.PresetLightingDirection property (PowerPoint)
 
 Returns or sets the position of the light source relative to the extrusion. Read/write.
 

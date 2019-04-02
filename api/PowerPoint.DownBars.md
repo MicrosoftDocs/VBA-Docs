@@ -1,5 +1,5 @@
 ---
-title: DownBars Object (PowerPoint)
+title: DownBars object (PowerPoint)
 keywords: vbapp10.chm700000
 f1_keywords:
 - vbapp10.chm700000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DownBars Object (PowerPoint)
+# DownBars object (PowerPoint)
 
 Represents the down bars in a chart group.
 

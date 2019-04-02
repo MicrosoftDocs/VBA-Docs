@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundTop Property (PowerPoint)
+title: TextRange.BoundTop property (PowerPoint)
 keywords: vbapp10.chm569007
 f1_keywords:
 - vbapp10.chm569007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.BoundTop Property (PowerPoint)
+# TextRange.BoundTop property (PowerPoint)
 
 Returns the distance (in points) from the top of the of the text bounding box for the specified text frame to the top of the slide. Read-only.
 

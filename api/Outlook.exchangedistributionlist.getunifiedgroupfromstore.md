@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.GetUnifiedGroupFromStore Method (Outlook)
+title: ExchangeDistributionList.GetUnifiedGroupFromStore method (Outlook)
 keywords: vbaol11.chm3630
 f1_keywords:
 - vbaol11.chm3630
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.GetUnifiedGroupFromStore Method (Outlook)
+# ExchangeDistributionList.GetUnifiedGroupFromStore method (Outlook)
 
 Determines if the object is a unified group (by way of a call to [IsUnifiedGroup](Outlook.exchangedistributionlist.isunifiedgroup.md)) and returns the  **Outlook.Folder** object associated with the group using the [GetUnifiedGroup](Outlook.exchangedistributionlist.getunifiedgroup.md) and **GetUnifiedGroupFromStore** methods.
 
@@ -30,6 +30,6 @@ Returns the  **Outlook.Folder** object associated with the group using the [GetU
 ## See also
 
 
-[ExchangeDistributionList Object (Outlook)](Outlook.ExchangeDistributionList.md)
+[ExchangeDistributionList object (Outlook)](Outlook.ExchangeDistributionList.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

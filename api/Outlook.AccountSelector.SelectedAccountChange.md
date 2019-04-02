@@ -1,5 +1,5 @@
 ---
-title: AccountSelector.SelectedAccountChange Event (Outlook)
+title: AccountSelector.SelectedAccountChange event (Outlook)
 keywords: vbaol11.chm3455
 f1_keywords:
 - vbaol11.chm3455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountSelector.SelectedAccountChange Event (Outlook)
+# AccountSelector.SelectedAccountChange event (Outlook)
 
 Occurs when the user selects a different account in the drop-down list under  **Account Information** on the **Info** tab of the Microsoft Office Backstage view.
 

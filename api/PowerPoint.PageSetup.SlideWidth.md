@@ -1,5 +1,5 @@
 ---
-title: PageSetup.SlideWidth Property (PowerPoint)
+title: PageSetup.SlideWidth property (PowerPoint)
 keywords: vbapp10.chm527005
 f1_keywords:
 - vbapp10.chm527005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.SlideWidth Property (PowerPoint)
+# PageSetup.SlideWidth property (PowerPoint)
 
 Returns or sets the slide width, in points. Read/write.
 

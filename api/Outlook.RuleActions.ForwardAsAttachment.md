@@ -1,5 +1,5 @@
 ---
-title: RuleActions.ForwardAsAttachment Property (Outlook)
+title: RuleActions.ForwardAsAttachment property (Outlook)
 keywords: vbaol11.chm2194
 f1_keywords:
 - vbaol11.chm2194
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.ForwardAsAttachment Property (Outlook)
+# RuleActions.ForwardAsAttachment property (Outlook)
 
 Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionForwardAsAttachment**. Read-only.
 

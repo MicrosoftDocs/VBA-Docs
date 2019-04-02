@@ -1,5 +1,5 @@
 ---
-title: Store.Class Property (Outlook)
+title: Store.Class property (Outlook)
 keywords: vbaol11.chm797
 f1_keywords:
 - vbaol11.chm797
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.Class Property (Outlook)
+# Store.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

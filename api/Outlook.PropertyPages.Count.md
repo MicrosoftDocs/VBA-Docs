@@ -1,5 +1,5 @@
 ---
-title: PropertyPages.Count Property (Outlook)
+title: PropertyPages.Count property (Outlook)
 keywords: vbaol11.chm165
 f1_keywords:
 - vbaol11.chm165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPages.Count Property (Outlook)
+# PropertyPages.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

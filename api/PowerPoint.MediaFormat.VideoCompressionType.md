@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.VideoCompressionType Property (PowerPoint)
+title: MediaFormat.VideoCompressionType property (PowerPoint)
 keywords: vbapp10.chm724022
 f1_keywords:
 - vbapp10.chm724022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.VideoCompressionType Property (PowerPoint)
+# MediaFormat.VideoCompressionType property (PowerPoint)
 
 Returns a  **String** that represents the video compression format of the media. Read-only.
 

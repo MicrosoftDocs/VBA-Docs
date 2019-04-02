@@ -1,5 +1,5 @@
 ---
-title: Timing.TriggerShape Property (PowerPoint)
+title: Timing.TriggerShape property (PowerPoint)
 keywords: vbapp10.chm653006
 f1_keywords:
 - vbapp10.chm653006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Timing.TriggerShape Property (PowerPoint)
+# Timing.TriggerShape property (PowerPoint)
 
 Sets or returns a  **Shape** object that represents the shape associated with an animation trigger. Read/write.
 

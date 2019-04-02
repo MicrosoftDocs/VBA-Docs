@@ -1,5 +1,5 @@
 ---
-title: ContactItem.TaskStartDate Property (Outlook)
+title: ContactItem.TaskStartDate property (Outlook)
 keywords: vbaol11.chm1101
 f1_keywords:
 - vbaol11.chm1101
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.TaskStartDate Property (Outlook)
+# ContactItem.TaskStartDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the start date of the task for this **[ContactItem](Outlook.ContactItem.md)** object. Read/write.
 

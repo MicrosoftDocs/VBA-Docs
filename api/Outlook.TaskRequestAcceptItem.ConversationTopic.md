@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.ConversationTopic Property (Outlook)
+title: TaskRequestAcceptItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1781
 f1_keywords:
 - vbaol11.chm1781
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.ConversationTopic Property (Outlook)
+# TaskRequestAcceptItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Logon Method (Outlook)
+title: NameSpace.Logon method (Outlook)
 keywords: vbaol11.chm767
 f1_keywords:
 - vbaol11.chm767
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Logon Method (Outlook)
+# NameSpace.Logon method (Outlook)
 
 Logs the user on to MAPI, obtaining a MAPI session.
 

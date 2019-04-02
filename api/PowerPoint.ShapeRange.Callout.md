@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Callout Property (PowerPoint)
+title: ShapeRange.Callout property (PowerPoint)
 keywords: vbapp10.chm548018
 f1_keywords:
 - vbapp10.chm548018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Callout Property (PowerPoint)
+# ShapeRange.Callout property (PowerPoint)
 
 Returns a  **[CalloutFormat](PowerPoint.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent line callouts. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.AttachmentAdd Event (Outlook)
+title: TaskRequestItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.AttachmentAdd Event (Outlook)
+# TaskRequestItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 

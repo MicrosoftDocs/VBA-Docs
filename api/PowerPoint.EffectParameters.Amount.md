@@ -1,5 +1,5 @@
 ---
-title: EffectParameters.Amount Property (PowerPoint)
+title: EffectParameters.Amount property (PowerPoint)
 keywords: vbapp10.chm654004
 f1_keywords:
 - vbapp10.chm654004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EffectParameters.Amount Property (PowerPoint)
+# EffectParameters.Amount property (PowerPoint)
 
 Returns or sets a  **Single** that represents the number of degrees an animated shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write.
 

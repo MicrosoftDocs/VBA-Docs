@@ -1,5 +1,5 @@
 ---
-title: Category.CategoryGradientBottomColor Property (Outlook)
+title: Category.CategoryGradientBottomColor property (Outlook)
 keywords: vbaol11.chm3268
 f1_keywords:
 - vbaol11.chm3268
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Category.CategoryGradientBottomColor Property (Outlook)
+# Category.CategoryGradientBottomColor property (Outlook)
 
 Returns an  **OLE_COLOR** value that represents the bottom gradient color of the color swatch displayed for a **[Category](Outlook.Category.md)** object. Read-only.
 

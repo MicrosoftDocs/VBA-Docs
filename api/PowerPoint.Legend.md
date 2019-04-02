@@ -1,5 +1,5 @@
 ---
-title: Legend Object (PowerPoint)
+title: Legend object (PowerPoint)
 keywords: vbapp10.chm709000
 f1_keywords:
 - vbapp10.chm709000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Legend Object (PowerPoint)
+# Legend object (PowerPoint)
 
 Represents the legend in a chart. Each chart can have only one legend.
 

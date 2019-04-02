@@ -1,5 +1,5 @@
 ---
-title: Pages.Class Property (Outlook)
+title: Pages.Class property (Outlook)
 keywords: vbaol11.chm392
 f1_keywords:
 - vbaol11.chm392
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Class Property (Outlook)
+# Pages.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

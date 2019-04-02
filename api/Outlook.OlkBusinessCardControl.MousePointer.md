@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl.MousePointer Property (Outlook)
+title: OlkBusinessCardControl.MousePointer property (Outlook)
 keywords: vbaol11.chm1000325
 f1_keywords:
 - vbaol11.chm1000325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl.MousePointer Property (Outlook)
+# OlkBusinessCardControl.MousePointer property (Outlook)
 
 Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
 

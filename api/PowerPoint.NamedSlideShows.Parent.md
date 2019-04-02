@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShows.Parent Property (PowerPoint)
+title: NamedSlideShows.Parent property (PowerPoint)
 keywords: vbapp10.chm515002
 f1_keywords:
 - vbapp10.chm515002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShows.Parent Property (PowerPoint)
+# NamedSlideShows.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

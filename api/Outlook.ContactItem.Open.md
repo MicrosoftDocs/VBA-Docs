@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Open Event (Outlook)
+title: ContactItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Open Event (Outlook)
+# ContactItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 

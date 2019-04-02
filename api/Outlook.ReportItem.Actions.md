@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Actions Property (Outlook)
+title: ReportItem.Actions property (Outlook)
 keywords: vbaol11.chm1638
 f1_keywords:
 - vbaol11.chm1638
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Actions Property (Outlook)
+# ReportItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 

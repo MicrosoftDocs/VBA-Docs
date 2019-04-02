@@ -1,5 +1,5 @@
 ---
-title: TaskItem.TeamTask Property (Outlook)
+title: TaskItem.TeamTask property (Outlook)
 keywords: vbaol11.chm1747
 f1_keywords:
 - vbaol11.chm1747
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.TeamTask Property (Outlook)
+# TaskItem.TeamTask property (Outlook)
 
 Returns a  **Boolean** that indicates **True** if the task is a team task. Read/write.
 

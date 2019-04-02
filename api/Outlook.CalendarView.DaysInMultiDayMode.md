@@ -1,5 +1,5 @@
 ---
-title: CalendarView.DaysInMultiDayMode Property (Outlook)
+title: CalendarView.DaysInMultiDayMode property (Outlook)
 keywords: vbaol11.chm2640
 f1_keywords:
 - vbaol11.chm2640
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.DaysInMultiDayMode Property (Outlook)
+# CalendarView.DaysInMultiDayMode property (Outlook)
 
 Returns or sets a  **Long** value that represents the number of consecutive days displayed in the **[CalendarView](Outlook.CalendarView.md)** object. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: Research.Application Property (PowerPoint)
+title: Research.Application property (PowerPoint)
 keywords: vbapp10.chm676001
 f1_keywords:
 - vbapp10.chm676001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Research.Application Property (PowerPoint)
+# Research.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application. Read-only.
 

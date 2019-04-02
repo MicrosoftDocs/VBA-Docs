@@ -1,5 +1,5 @@
 ---
-title: Application.FeatureInstall Property (PowerPoint)
+title: Application.FeatureInstall property (PowerPoint)
 keywords: vbapp10.chm502043
 f1_keywords:
 - vbapp10.chm502043
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FeatureInstall Property (PowerPoint)
+# Application.FeatureInstall property (PowerPoint)
 
 Returns or sets how Microsoft PowerPoint handles calls to methods and properties that require features not yet installed. Read/write.
 

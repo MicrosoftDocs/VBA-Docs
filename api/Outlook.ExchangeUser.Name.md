@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Name Property (Outlook)
+title: ExchangeUser.Name property (Outlook)
 keywords: vbaol11.chm2071
 f1_keywords:
 - vbaol11.chm2071
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Name Property (Outlook)
+# ExchangeUser.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read/write.
 

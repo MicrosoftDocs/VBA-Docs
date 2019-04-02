@@ -1,5 +1,5 @@
 ---
-title: Folder.CopyTo Method (Outlook)
+title: Folder.CopyTo method (Outlook)
 keywords: vbaol11.chm1994
 f1_keywords:
 - vbaol11.chm1994
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.CopyTo Method (Outlook)
+# Folder.CopyTo method (Outlook)
 
 Copies the current folder in its entirety to the destination folder. 
 

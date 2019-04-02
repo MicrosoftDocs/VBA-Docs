@@ -1,5 +1,5 @@
 ---
-title: ActionSetting.AnimateAction Property (PowerPoint)
+title: ActionSetting.AnimateAction property (PowerPoint)
 keywords: vbapp10.chm567005
 f1_keywords:
 - vbapp10.chm567005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ActionSetting.AnimateAction Property (PowerPoint)
+# ActionSetting.AnimateAction property (PowerPoint)
 
 Specifies whether the color of the specified shape is momentarily inverted when the specified mouse action occurs. Read/write.
 

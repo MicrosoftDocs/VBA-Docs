@@ -1,5 +1,5 @@
 ---
-title: Inspector.Width Property (Outlook)
+title: Inspector.Width property (Outlook)
 keywords: vbaol11.chm2977
 f1_keywords:
 - vbaol11.chm2977
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Width Property (Outlook)
+# Inspector.Width property (Outlook)
 
 Returns or sets a  **Long** indicating the width (in pixels) of the specified object. Read/write.
 

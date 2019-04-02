@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AutoShapeType Property (PowerPoint)
+title: ShapeRange.AutoShapeType property (PowerPoint)
 keywords: vbapp10.chm548016
 f1_keywords:
 - vbapp10.chm548016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.AutoShapeType Property (PowerPoint)
+# ShapeRange.AutoShapeType property (PowerPoint)
 
 Returns or sets the shape type for the specified  **ShapeRange** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write.
 

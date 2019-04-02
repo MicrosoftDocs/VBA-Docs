@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.RecurrenceType Property (Outlook)
+title: RecurrencePattern.RecurrenceType property (Outlook)
 keywords: vbaol11.chm285
 f1_keywords:
 - vbaol11.chm285
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.RecurrenceType Property (Outlook)
+# RecurrencePattern.RecurrenceType property (Outlook)
 
 Returns or sets an  **[OlRecurrenceType](Outlook.OlRecurrenceType.md)** constant specifying the frequency of occurrences for the recurrence pattern. Read/write.
 

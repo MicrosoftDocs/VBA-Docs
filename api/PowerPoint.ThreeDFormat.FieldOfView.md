@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.FieldOfView Property (PowerPoint)
+title: ThreeDFormat.FieldOfView property (PowerPoint)
 keywords: vbapp10.chm557035
 f1_keywords:
 - vbapp10.chm557035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.FieldOfView Property (PowerPoint)
+# ThreeDFormat.FieldOfView property (PowerPoint)
 
 Returns or sets the camera field of view for the specified  **ThreeDFormat** object, in degrees. Read/write.
 

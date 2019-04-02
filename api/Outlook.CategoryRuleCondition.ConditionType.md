@@ -1,5 +1,5 @@
 ---
-title: CategoryRuleCondition.ConditionType Property (Outlook)
+title: CategoryRuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2445
 f1_keywords:
 - vbaol11.chm2445
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryRuleCondition.ConditionType Property (Outlook)
+# CategoryRuleCondition.ConditionType property (Outlook)
 
 Returns a constant,  **olConditionCategory**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 

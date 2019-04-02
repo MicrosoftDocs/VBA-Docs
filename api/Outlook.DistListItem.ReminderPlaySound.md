@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ReminderPlaySound Property (Outlook)
+title: DistListItem.ReminderPlaySound property (Outlook)
 keywords: vbaol11.chm1174
 f1_keywords:
 - vbaol11.chm1174
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ReminderPlaySound Property (Outlook)
+# DistListItem.ReminderPlaySound property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder should play a sound when it occurs for this item. Read/write.
 

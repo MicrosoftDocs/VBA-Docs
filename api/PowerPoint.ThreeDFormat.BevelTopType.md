@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelTopType Property (PowerPoint)
+title: ThreeDFormat.BevelTopType property (PowerPoint)
 keywords: vbapp10.chm557025
 f1_keywords:
 - vbapp10.chm557025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.BevelTopType Property (PowerPoint)
+# ThreeDFormat.BevelTopType property (PowerPoint)
 
 Returns or set the top bevel type. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Conversation.SetAlwaysMoveToFolder Method (Outlook)
+title: Conversation.SetAlwaysMoveToFolder method (Outlook)
 keywords: vbaol11.chm3430
 f1_keywords:
 - vbaol11.chm3430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.SetAlwaysMoveToFolder Method (Outlook)
+# Conversation.SetAlwaysMoveToFolder method (Outlook)
 
 Sets a  **[Folder](Outlook.Folder.md)** object that indicates the folder to which all existing conversation items and new items that arrive in the conversation are always moved.
 

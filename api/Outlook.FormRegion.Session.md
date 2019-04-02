@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Session Property (Outlook)
+title: FormRegion.Session property (Outlook)
 keywords: vbaol11.chm2387
 f1_keywords:
 - vbaol11.chm2387
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Session Property (Outlook)
+# FormRegion.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

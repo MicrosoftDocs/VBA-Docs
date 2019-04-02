@@ -1,5 +1,5 @@
 ---
-title: DistListItem.OutlookInternalVersion Property (Outlook)
+title: DistListItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm1132
 f1_keywords:
 - vbaol11.chm1132
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.OutlookInternalVersion Property (Outlook)
+# DistListItem.OutlookInternalVersion property (Outlook)
 
 Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 

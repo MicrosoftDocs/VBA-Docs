@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.LastModificationTime Property (Outlook)
+title: TaskRequestDeclineItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1836
 f1_keywords:
 - vbaol11.chm1836
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.LastModificationTime Property (Outlook)
+# TaskRequestDeclineItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 

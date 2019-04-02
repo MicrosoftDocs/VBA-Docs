@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Mileage Property (Outlook)
+title: RemoteItem.Mileage property (Outlook)
 keywords: vbaol11.chm1602
 f1_keywords:
 - vbaol11.chm1602
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Mileage Property (Outlook)
+# RemoteItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 

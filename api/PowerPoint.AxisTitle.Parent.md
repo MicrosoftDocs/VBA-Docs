@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Parent Property (PowerPoint)
+title: AxisTitle.Parent property (PowerPoint)
 keywords: vbapp10.chm683017
 f1_keywords:
 - vbapp10.chm683017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Parent Property (PowerPoint)
+# AxisTitle.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

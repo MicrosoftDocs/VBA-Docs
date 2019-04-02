@@ -1,5 +1,5 @@
 ---
-title: Point.IsTotal Property (PowerPoint)
+title: Point.IsTotal property (PowerPoint)
 keywords: vbapp10.chm714012
 f1_keywords:
 - vbapp10.chm714012
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Point.IsTotal Property (PowerPoint)
+# Point.IsTotal property (PowerPoint)
 
  **True** if the point represents a total. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.HasMajorGridlines Property (PowerPoint)
+title: Axis.HasMajorGridlines property (PowerPoint)
 keywords: vbapp10.chm682008
 f1_keywords:
 - vbapp10.chm682008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.HasMajorGridlines Property (PowerPoint)
+# Axis.HasMajorGridlines property (PowerPoint)
 
  **True** if the axis has major gridlines. Read/write **Boolean**.
 

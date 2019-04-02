@@ -1,5 +1,5 @@
 ---
-title: Effect.Behaviors Property (PowerPoint)
+title: Effect.Behaviors property (PowerPoint)
 keywords: vbapp10.chm652017
 f1_keywords:
 - vbapp10.chm652017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.Behaviors Property (PowerPoint)
+# Effect.Behaviors property (PowerPoint)
 
 Returns a specified slide animation behavior as an  **[AnimationBehaviors](PowerPoint.AnimationBehaviors.md)** collection.
 

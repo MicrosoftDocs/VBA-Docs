@@ -1,5 +1,5 @@
 ---
-title: OlkFrameHeader.Enabled Property (Outlook)
+title: OlkFrameHeader.Enabled property (Outlook)
 keywords: vbaol11.chm1000465
 f1_keywords:
 - vbaol11.chm1000465
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkFrameHeader.Enabled Property (Outlook)
+# OlkFrameHeader.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 

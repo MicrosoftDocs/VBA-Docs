@@ -1,5 +1,5 @@
 ---
-title: FromRssFeedRuleCondition Object (Outlook)
+title: FromRssFeedRuleCondition object (Outlook)
 keywords: vbaol11.chm3260
 f1_keywords:
 - vbaol11.chm3260
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FromRssFeedRuleCondition Object (Outlook)
+# FromRssFeedRuleCondition object (Outlook)
 
 Represents a rule condition that evaluates whether an item is from a specified RSS subscription.
 

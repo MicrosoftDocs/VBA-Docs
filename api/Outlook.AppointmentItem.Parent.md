@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Parent Property (Outlook)
+title: AppointmentItem.Parent property (Outlook)
 keywords: vbaol11.chm841
 f1_keywords:
 - vbaol11.chm841
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Parent Property (Outlook)
+# AppointmentItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

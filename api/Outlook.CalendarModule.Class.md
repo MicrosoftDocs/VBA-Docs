@@ -1,5 +1,5 @@
 ---
-title: CalendarModule.Class Property (Outlook)
+title: CalendarModule.Class property (Outlook)
 keywords: vbaol11.chm2823
 f1_keywords:
 - vbaol11.chm2823
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarModule.Class Property (Outlook)
+# CalendarModule.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

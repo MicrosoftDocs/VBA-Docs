@@ -1,5 +1,5 @@
 ---
-title: PostItem.Parent Property (Outlook)
+title: PostItem.Parent property (Outlook)
 keywords: vbaol11.chm1512
 f1_keywords:
 - vbaol11.chm1512
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Parent Property (Outlook)
+# PostItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

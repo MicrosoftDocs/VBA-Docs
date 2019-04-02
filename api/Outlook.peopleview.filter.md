@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Filter Property (Outlook)
+title: PeopleView.Filter property (Outlook)
 keywords: vbaol11.chm3586
 f1_keywords:
 - vbaol11.chm3586
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Filter Property (Outlook)
+# PeopleView.Filter property (Outlook)
 Returns or sets a  **String** value that represents the filter for a view. Read/write.
 
 ## Version information

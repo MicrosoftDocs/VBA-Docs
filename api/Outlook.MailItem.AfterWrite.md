@@ -1,5 +1,5 @@
 ---
-title: MailItem.AfterWrite Event (Outlook)
+title: MailItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.AfterWrite Event (Outlook)
+# MailItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 

@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.PresetShape Property (PowerPoint)
+title: TextEffectFormat.PresetShape property (PowerPoint)
 keywords: vbapp10.chm556010
 f1_keywords:
 - vbapp10.chm556010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.PresetShape Property (PowerPoint)
+# TextEffectFormat.PresetShape property (PowerPoint)
 
 Returns or sets the shape of the specified WordArt. Read/write.
 

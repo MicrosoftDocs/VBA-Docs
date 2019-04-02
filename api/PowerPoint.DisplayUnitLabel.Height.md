@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Height Property (PowerPoint)
+title: DisplayUnitLabel.Height property (PowerPoint)
 keywords: vbapp10.chm699022
 f1_keywords:
 - vbapp10.chm699022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Height Property (PowerPoint)
+# DisplayUnitLabel.Height property (PowerPoint)
 
 Returns the height, in points, of the object. Read-only.
 

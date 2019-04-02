@@ -1,5 +1,5 @@
 ---
-title: ContactItem.CompanyName Property (Outlook)
+title: ContactItem.CompanyName property (Outlook)
 keywords: vbaol11.chm987
 f1_keywords:
 - vbaol11.chm987
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.CompanyName Property (Outlook)
+# ContactItem.CompanyName property (Outlook)
 
 Returns or sets a  **String** representing the company name for the contact. Read/write.
 

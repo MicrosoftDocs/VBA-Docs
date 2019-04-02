@@ -1,5 +1,5 @@
 ---
-title: Table.AlternativeText Property (PowerPoint)
+title: Table.AlternativeText property (PowerPoint)
 keywords: vbapp10.chm622018
 f1_keywords:
 - vbapp10.chm622018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.AlternativeText Property (PowerPoint)
+# Table.AlternativeText property (PowerPoint)
 
 Returns or sets the alternative text associated with a shape in a Web presentation. Read/write.
 

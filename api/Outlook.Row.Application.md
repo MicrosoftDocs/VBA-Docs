@@ -1,5 +1,5 @@
 ---
-title: Row.Application Property (Outlook)
+title: Row.Application property (Outlook)
 keywords: vbaol11.chm2239
 f1_keywords:
 - vbaol11.chm2239
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Application Property (Outlook)
+# Row.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[Row](Outlook.Row.md)** object. Read-only.
 

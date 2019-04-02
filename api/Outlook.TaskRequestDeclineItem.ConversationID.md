@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.ConversationID Property (Outlook)
+title: TaskRequestDeclineItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3503
 f1_keywords:
 - vbaol11.chm3503
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.ConversationID Property (Outlook)
+# TaskRequestDeclineItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md)** object belongs to. Read-only.
 

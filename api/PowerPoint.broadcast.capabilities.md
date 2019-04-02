@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Capabilities Property (PowerPoint)
+title: Broadcast.Capabilities property (PowerPoint)
 keywords: vbapp10.chm732011
 f1_keywords:
 - vbapp10.chm732011
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.Capabilities Property (PowerPoint)
+# Broadcast.Capabilities property (PowerPoint)
 
 Returns a  **Long** that represents the capabilities of the specified broadcast. Read-only.
 

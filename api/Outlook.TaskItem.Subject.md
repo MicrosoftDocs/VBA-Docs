@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Subject Property (Outlook)
+title: TaskItem.Subject property (Outlook)
 keywords: vbaol11.chm1709
 f1_keywords:
 - vbaol11.chm1709
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Subject Property (Outlook)
+# TaskItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 

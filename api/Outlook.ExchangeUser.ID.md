@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.ID Property (Outlook)
+title: ExchangeUser.ID property (Outlook)
 keywords: vbaol11.chm2067
 f1_keywords:
 - vbaol11.chm2067
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.ID Property (Outlook)
+# ExchangeUser.ID property (Outlook)
 
 Returns a  **String** representing the unique identifier for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 

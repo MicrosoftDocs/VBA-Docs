@@ -1,5 +1,5 @@
 ---
-title: IconView.IconPlacement Property (Outlook)
+title: IconView.IconPlacement property (Outlook)
 keywords: vbaol11.chm2577
 f1_keywords:
 - vbaol11.chm2577
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.IconPlacement Property (Outlook)
+# IconView.IconPlacement property (Outlook)
 
 Returns or sets an  **[OlIconViewPlacement](Outlook.OlIconViewPlacement.md)** value that determines how icons are placed within the **[IconView](Outlook.IconView.md)** object. Read/write.
 

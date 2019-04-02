@@ -1,5 +1,5 @@
 ---
-title: View.XML Property (Outlook)
+title: View.XML property (Outlook)
 keywords: vbaol11.chm2495
 f1_keywords:
 - vbaol11.chm2495
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.XML Property (Outlook)
+# View.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the current view. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Creator Property (PowerPoint)
+title: DataLabel.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Creator Property (PowerPoint)
+# DataLabel.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

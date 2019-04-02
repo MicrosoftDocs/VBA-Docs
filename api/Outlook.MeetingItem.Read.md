@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Read Event (Outlook)
+title: MeetingItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Read Event (Outlook)
+# MeetingItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 

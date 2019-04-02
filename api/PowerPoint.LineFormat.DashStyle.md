@@ -1,5 +1,5 @@
 ---
-title: LineFormat.DashStyle Property (PowerPoint)
+title: LineFormat.DashStyle property (PowerPoint)
 keywords: vbapp10.chm553006
 f1_keywords:
 - vbapp10.chm553006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.DashStyle Property (PowerPoint)
+# LineFormat.DashStyle property (PowerPoint)
 
 Returns or sets the dash style for the specified line. Read/write.
 

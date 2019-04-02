@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerBackgroundColorIndex Property (PowerPoint)
+title: Series.MarkerBackgroundColorIndex property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.MarkerBackgroundColorIndex
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.MarkerBackgroundColorIndex Property (PowerPoint)
+# Series.MarkerBackgroundColorIndex property (PowerPoint)
 
 Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[xlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.FileValidation Property (PowerPoint)
+title: Application.FileValidation property (PowerPoint)
 keywords: vbapp10.chm502069
 f1_keywords:
 - vbapp10.chm502069
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileValidation Property (PowerPoint)
+# Application.FileValidation property (PowerPoint)
 
 Returns or sets a value that indicates how PowerPoint will validate files before opening them. Read/write
 

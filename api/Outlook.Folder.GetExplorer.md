@@ -1,5 +1,5 @@
 ---
-title: Folder.GetExplorer Method (Outlook)
+title: Folder.GetExplorer method (Outlook)
 keywords: vbaol11.chm1997
 f1_keywords:
 - vbaol11.chm1997
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.GetExplorer Method (Outlook)
+# Folder.GetExplorer method (Outlook)
 
 Returns an  **[Explorer](Outlook.Explorer.md)** object that represents a new, inactive **Explorer** object initialized with the specified folder as the current folder.
 

@@ -1,5 +1,5 @@
 ---
-title: RGBColor.RGB Property (PowerPoint)
+title: RGBColor.RGB property (PowerPoint)
 keywords: vbapp10.chm538003
 f1_keywords:
 - vbapp10.chm538003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RGBColor.RGB Property (PowerPoint)
+# RGBColor.RGB property (PowerPoint)
 
 Returns or sets the red-green-blue (RGB) value of a specified color-scheme color or extra color when used with a  **PpColorSchemeIndex** constant. Read/write.
 

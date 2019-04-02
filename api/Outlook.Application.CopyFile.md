@@ -1,5 +1,5 @@
 ---
-title: Application.CopyFile Method (Outlook)
+title: Application.CopyFile method (Outlook)
 keywords: vbaol11.chm727
 f1_keywords:
 - vbaol11.chm727
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CopyFile Method (Outlook)
+# Application.CopyFile method (Outlook)
 
 Copies a file from a specified location into a Microsoft Outlook store.
 

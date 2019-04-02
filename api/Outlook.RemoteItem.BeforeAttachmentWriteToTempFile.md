@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+title: RemoteItem.BeforeAttachmentWriteToTempFile event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeAttachmentWriteToTempFile
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+# RemoteItem.BeforeAttachmentWriteToTempFile event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is written to a temporary file.
 

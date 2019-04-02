@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.Class Property (Outlook)
+title: PropertyAccessor.Class property (Outlook)
 keywords: vbaol11.chm1967
 f1_keywords:
 - vbaol11.chm1967
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.Class Property (Outlook)
+# PropertyAccessor.Class property (Outlook)
 
 Returns a constant in the [OlObjectClass](Outlook.OlObjectClass.md) enumeration indicating the class of the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. Read-only.
 

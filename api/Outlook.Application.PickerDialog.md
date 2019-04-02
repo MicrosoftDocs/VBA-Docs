@@ -1,5 +1,5 @@
 ---
-title: Application.PickerDialog Property (Outlook)
+title: Application.PickerDialog property (Outlook)
 keywords: vbaol11.chm3475
 f1_keywords:
 - vbaol11.chm3475
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PickerDialog Property (Outlook)
+# Application.PickerDialog property (Outlook)
 
 Returns a  **[PickerDialog](Office.PickerDialog.md)** object that provides the functionality to select people or data in a dialog box. Read-only.
 

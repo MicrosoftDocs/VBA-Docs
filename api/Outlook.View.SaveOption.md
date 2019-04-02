@@ -1,5 +1,5 @@
 ---
-title: View.SaveOption Property (Outlook)
+title: View.SaveOption property (Outlook)
 keywords: vbaol11.chm2492
 f1_keywords:
 - vbaol11.chm2492
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.SaveOption Property (Outlook)
+# View.SaveOption property (Outlook)
 
 Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 

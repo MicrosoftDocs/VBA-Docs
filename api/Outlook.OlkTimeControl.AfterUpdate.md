@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.AfterUpdate Event (Outlook)
+title: OlkTimeControl.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000413
 f1_keywords:
 - vbaol11.chm1000413
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.AfterUpdate Event (Outlook)
+# OlkTimeControl.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 

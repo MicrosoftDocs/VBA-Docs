@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Occurrences Property (Outlook)
+title: RecurrencePattern.Occurrences property (Outlook)
 keywords: vbaol11.chm282
 f1_keywords:
 - vbaol11.chm282
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Occurrences Property (Outlook)
+# RecurrencePattern.Occurrences property (Outlook)
 
 Returns or sets a  **Long** indicating the number of occurrences of the recurrence pattern. Read/write.
 

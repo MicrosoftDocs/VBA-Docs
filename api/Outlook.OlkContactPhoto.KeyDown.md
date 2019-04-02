@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.KeyDown Event (Outlook)
+title: OlkContactPhoto.KeyDown event (Outlook)
 keywords: vbaol11.chm1000318
 f1_keywords:
 - vbaol11.chm1000318
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.KeyDown Event (Outlook)
+# OlkContactPhoto.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 

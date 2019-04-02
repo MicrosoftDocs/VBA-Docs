@@ -1,5 +1,5 @@
 ---
-title: Columns.Application Property (PowerPoint)
+title: Columns.Application property (PowerPoint)
 keywords: vbapp10.chm623001
 f1_keywords:
 - vbapp10.chm623001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.Application Property (PowerPoint)
+# Columns.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.TextStyles Property (PowerPoint)
+title: Master.TextStyles property (PowerPoint)
 keywords: vbapp10.chm533011
 f1_keywords:
 - vbapp10.chm533011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.TextStyles Property (PowerPoint)
+# Master.TextStyles property (PowerPoint)
 
 Returns a  **[TextStyles](PowerPoint.TextStyles.md)** collection that represents three text styles — title text, body text, and default text — for the specified slide master. Read-only.
 

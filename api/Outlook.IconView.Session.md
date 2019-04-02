@@ -1,5 +1,5 @@
 ---
-title: IconView.Session Property (Outlook)
+title: IconView.Session property (Outlook)
 keywords: vbaol11.chm2559
 f1_keywords:
 - vbaol11.chm2559
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Session Property (Outlook)
+# IconView.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

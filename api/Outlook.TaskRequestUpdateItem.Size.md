@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Size Property (Outlook)
+title: TaskRequestUpdateItem.Size property (Outlook)
 keywords: vbaol11.chm1943
 f1_keywords:
 - vbaol11.chm1943
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Size Property (Outlook)
+# TaskRequestUpdateItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Close Method (Outlook)
+title: RemoteItem.Close method (Outlook)
 keywords: vbaol11.chm1612
 f1_keywords:
 - vbaol11.chm1612
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Close Method (Outlook)
+# RemoteItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 

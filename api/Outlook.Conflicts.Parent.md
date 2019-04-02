@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Parent Property (Outlook)
+title: Conflicts.Parent property (Outlook)
 keywords: vbaol11.chm403
 f1_keywords:
 - vbaol11.chm403
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflicts.Parent Property (Outlook)
+# Conflicts.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

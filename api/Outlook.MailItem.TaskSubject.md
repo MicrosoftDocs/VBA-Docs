@@ -1,5 +1,5 @@
 ---
-title: MailItem.TaskSubject Property (Outlook)
+title: MailItem.TaskSubject property (Outlook)
 keywords: vbaol11.chm1392
 f1_keywords:
 - vbaol11.chm1392
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.TaskSubject Property (Outlook)
+# MailItem.TaskSubject property (Outlook)
 
 Returns or sets a  **String** value that represents the subject of the task for the **[MailItem](Outlook.MailItem.md)** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: CardView.Parent Property (Outlook)
+title: CardView.Parent property (Outlook)
 keywords: vbaol11.chm2582
 f1_keywords:
 - vbaol11.chm2582
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Parent Property (Outlook)
+# CardView.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

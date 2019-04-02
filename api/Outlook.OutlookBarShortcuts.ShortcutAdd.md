@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.ShortcutAdd Event (Outlook)
+title: OutlookBarShortcuts.ShortcutAdd event (Outlook)
 keywords: vbaol11.chm377
 f1_keywords:
 - vbaol11.chm377
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.ShortcutAdd Event (Outlook)
+# OutlookBarShortcuts.ShortcutAdd event (Outlook)
 
 Occurs when a new shortcut is added to a  **Shortcuts** pane group.
 

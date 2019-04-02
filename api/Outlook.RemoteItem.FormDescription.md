@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.FormDescription Property (Outlook)
+title: RemoteItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1596
 f1_keywords:
 - vbaol11.chm1596
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.FormDescription Property (Outlook)
+# RemoteItem.FormDescription property (Outlook)
 
 Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified Outlook item. Read-only.
 

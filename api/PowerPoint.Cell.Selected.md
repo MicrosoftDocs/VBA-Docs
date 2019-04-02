@@ -1,5 +1,5 @@
 ---
-title: Cell.Selected Property (PowerPoint)
+title: Cell.Selected property (PowerPoint)
 keywords: vbapp10.chm628008
 f1_keywords:
 - vbapp10.chm628008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Selected Property (PowerPoint)
+# Cell.Selected property (PowerPoint)
 
 Returns  **True** if the specified table cell is selected. Read-only.
 

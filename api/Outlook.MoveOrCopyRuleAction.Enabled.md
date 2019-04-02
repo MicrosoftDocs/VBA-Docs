@@ -1,5 +1,5 @@
 ---
-title: MoveOrCopyRuleAction.Enabled Property (Outlook)
+title: MoveOrCopyRuleAction.Enabled property (Outlook)
 keywords: vbaol11.chm2212
 f1_keywords:
 - vbaol11.chm2212
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MoveOrCopyRuleAction.Enabled Property (Outlook)
+# MoveOrCopyRuleAction.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule action is enabled. Read/write.
 

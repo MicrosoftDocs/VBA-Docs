@@ -1,5 +1,5 @@
 ---
-title: Presentation.SharedWorkspace Property (PowerPoint)
+title: Presentation.SharedWorkspace property (PowerPoint)
 keywords: vbapp10.chm583083
 f1_keywords:
 - vbapp10.chm583083
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.SharedWorkspace Property (PowerPoint)
+# Presentation.SharedWorkspace property (PowerPoint)
 
 Returns a  **SharedWorkspace** object that represents the Document Workspace in which a specified presentation is located. Read-only.
 

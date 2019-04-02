@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.AnyCategory Property (Outlook)
+title: RuleConditions.AnyCategory property (Outlook)
 keywords: vbaol11.chm3234
 f1_keywords:
 - vbaol11.chm3234
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.AnyCategory Property (Outlook)
+# RuleConditions.AnyCategory property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionAnyCategory**. Read-only.
 

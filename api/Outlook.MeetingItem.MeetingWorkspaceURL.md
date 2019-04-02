@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.MeetingWorkspaceURL Property (Outlook)
+title: MeetingItem.MeetingWorkspaceURL property (Outlook)
 keywords: vbaol11.chm1465
 f1_keywords:
 - vbaol11.chm1465
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.MeetingWorkspaceURL Property (Outlook)
+# MeetingItem.MeetingWorkspaceURL property (Outlook)
 
 Returns a  **String** value that represents the URL for the Meeting Workspace that the meeting item is linked to. Read-only.
 

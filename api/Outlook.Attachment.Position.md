@@ -1,5 +1,5 @@
 ---
-title: Attachment.Position Property (Outlook)
+title: Attachment.Position property (Outlook)
 keywords: vbaol11.chm2370
 f1_keywords:
 - vbaol11.chm2370
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.Position Property (Outlook)
+# Attachment.Position property (Outlook)
 
 Returns or sets a  **Long** indicating the position of the attachment within the body of the item. Read/write.
 

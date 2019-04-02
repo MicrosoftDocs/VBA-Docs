@@ -1,5 +1,5 @@
 ---
-title: Application.ActivePresentation Property (PowerPoint)
+title: Application.ActivePresentation property (PowerPoint)
 keywords: vbapp10.chm503001
 f1_keywords:
 - vbapp10.chm503001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActivePresentation Property (PowerPoint)
+# Application.ActivePresentation property (PowerPoint)
 
 Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents the presentation open in the active window. Read-only.
 

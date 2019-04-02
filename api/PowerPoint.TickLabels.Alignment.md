@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Alignment Property (PowerPoint)
+title: TickLabels.Alignment property (PowerPoint)
 keywords: vbapp10.chm719016
 f1_keywords:
 - vbapp10.chm719016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Alignment Property (PowerPoint)
+# TickLabels.Alignment property (PowerPoint)
 
 Returns or sets the alignment for the specified phonetic text or tick label. Read/write  **Long**.
 

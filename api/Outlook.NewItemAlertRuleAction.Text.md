@@ -1,5 +1,5 @@
 ---
-title: NewItemAlertRuleAction.Text Property (Outlook)
+title: NewItemAlertRuleAction.Text property (Outlook)
 keywords: vbaol11.chm2294
 f1_keywords:
 - vbaol11.chm2294
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NewItemAlertRuleAction.Text Property (Outlook)
+# NewItemAlertRuleAction.Text property (Outlook)
 
 Returns or sets a  **String** that represents the text displayed in the new item alert dialog box. Read/write.
 

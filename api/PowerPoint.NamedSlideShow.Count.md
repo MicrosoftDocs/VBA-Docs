@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShow.Count Property (PowerPoint)
+title: NamedSlideShow.Count property (PowerPoint)
 keywords: vbapp10.chm516006
 f1_keywords:
 - vbapp10.chm516006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShow.Count Property (PowerPoint)
+# NamedSlideShow.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

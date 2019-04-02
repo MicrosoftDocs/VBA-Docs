@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.SlideShowTransition Property (PowerPoint)
+title: CustomLayout.SlideShowTransition property (PowerPoint)
 keywords: vbapp10.chm672013
 f1_keywords:
 - vbapp10.chm672013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.SlideShowTransition Property (PowerPoint)
+# CustomLayout.SlideShowTransition property (PowerPoint)
 
 Returns a  **[SlideShowTransition](PowerPoint.SlideShowTransition.md)** object that represents the special effects for the specified custom layout. Read-only.
 

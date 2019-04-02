@@ -1,5 +1,5 @@
 ---
-title: Accounts.AutoDiscoverComplete Event (Outlook)
+title: Accounts.AutoDiscoverComplete event (Outlook)
 keywords: vbaol11.chm3477
 f1_keywords:
 - vbaol11.chm3477
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Accounts.AutoDiscoverComplete Event (Outlook)
+# Accounts.AutoDiscoverComplete event (Outlook)
 
 Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange Server that is associated with the account, and has the related information available in the  **[AutoDiscoverXml](Outlook.Account.AutoDiscoverXml.md)** property of the **[Account](Outlook.Account.md)** object.
 

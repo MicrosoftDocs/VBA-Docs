@@ -1,5 +1,5 @@
 ---
-title: Floor.PictureType Property (PowerPoint)
+title: Floor.PictureType property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.PictureType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Floor.PictureType Property (PowerPoint)
+# Floor.PictureType property (PowerPoint)
 
 Returns or sets a value that specifies how pictures are displayed on the walls and faces of a 3-D chart. Read/write  **Variant**.
 

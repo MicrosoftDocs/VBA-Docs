@@ -1,5 +1,5 @@
 ---
-title: Application.Assistance Property (Outlook)
+title: Application.Assistance property (Outlook)
 keywords: vbaol11.chm3029
 f1_keywords:
 - vbaol11.chm3029
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Assistance Property (Outlook)
+# Application.Assistance property (Outlook)
 
 Returns an  **[IAssistance](Office.IAssistance.md)** object used to invoke help. Read-only.
 

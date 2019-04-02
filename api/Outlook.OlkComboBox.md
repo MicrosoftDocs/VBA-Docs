@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox Object (Outlook)
+title: OlkComboBox object (Outlook)
 keywords: vbaol11.chm1000249
 f1_keywords:
 - vbaol11.chm1000249
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox Object (Outlook)
+# OlkComboBox object (Outlook)
 
 A control that supports the display of a selection from a drop-down list of all choices.
 

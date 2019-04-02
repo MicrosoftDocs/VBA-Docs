@@ -1,5 +1,5 @@
 ---
-title: NavigationFolders.Count Property (Outlook)
+title: NavigationFolders.Count property (Outlook)
 keywords: vbaol11.chm2895
 f1_keywords:
 - vbaol11.chm2895
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolders.Count Property (Outlook)
+# NavigationFolders.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

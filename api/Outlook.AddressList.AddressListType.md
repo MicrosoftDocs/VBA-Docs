@@ -1,5 +1,5 @@
 ---
-title: AddressList.AddressListType Property (Outlook)
+title: AddressList.AddressListType property (Outlook)
 keywords: vbaol11.chm2033
 f1_keywords:
 - vbaol11.chm2033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.AddressListType Property (Outlook)
+# AddressList.AddressListType property (Outlook)
 
 Returns a constant from the  **[OlAddressListType](Outlook.OlAddressListType.md)** enumeration that represents the type of the **[AddressList](Outlook.AddressList.md)**. Read-only.
 

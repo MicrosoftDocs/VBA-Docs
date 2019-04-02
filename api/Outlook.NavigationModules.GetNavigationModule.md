@@ -1,5 +1,5 @@
 ---
-title: NavigationModules.GetNavigationModule Method (Outlook)
+title: NavigationModules.GetNavigationModule method (Outlook)
 keywords: vbaol11.chm3240
 f1_keywords:
 - vbaol11.chm3240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModules.GetNavigationModule Method (Outlook)
+# NavigationModules.GetNavigationModule method (Outlook)
 
 Retrieves a  **[NavigationModule](Outlook.NavigationModule.md)** object with the specified navigation module type from the navigation pane.
 

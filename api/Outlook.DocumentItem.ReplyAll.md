@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.ReplyAll Event (Outlook)
+title: DocumentItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.ReplyAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.ReplyAll Event (Outlook)
+# DocumentItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).
 

@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.Click Event (Outlook)
+title: OlkOptionButton.Click event (Outlook)
 keywords: vbaol11.chm1000179
 f1_keywords:
 - vbaol11.chm1000179
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.Click Event (Outlook)
+# OlkOptionButton.Click event (Outlook)
 
 Occurs when the user clicks inside the control.
 

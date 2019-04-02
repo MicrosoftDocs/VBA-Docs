@@ -1,5 +1,5 @@
 ---
-title: TasksModule Object (Outlook)
+title: TasksModule object (Outlook)
 keywords: vbaol11.chm3196
 f1_keywords:
 - vbaol11.chm3196
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TasksModule Object (Outlook)
+# TasksModule object (Outlook)
 
 Represents the  **Tasks** navigation module in the navigation pane of an explorer.
 

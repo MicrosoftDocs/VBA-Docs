@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AlternativeText Property (PowerPoint)
+title: ShapeRange.AlternativeText property (PowerPoint)
 keywords: vbapp10.chm548067
 f1_keywords:
 - vbapp10.chm548067
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.AlternativeText Property (PowerPoint)
+# ShapeRange.AlternativeText property (PowerPoint)
 
 Returns or sets the alternative text associated with a shape in a Web presentation. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Sequences Object (PowerPoint)
+title: Sequences object (PowerPoint)
 keywords: vbapp10.chm650000
 f1_keywords:
 - vbapp10.chm650000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequences Object (PowerPoint)
+# Sequences object (PowerPoint)
 
 Represents a collection of  **[Sequence](PowerPoint.Sequence.md)** objects. Use a **Sequence** object to add, find, modify, and clone animation effects.
 

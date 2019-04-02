@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Companies Property (Outlook)
+title: TaskItem.Companies property (Outlook)
 keywords: vbaol11.chm1691
 f1_keywords:
 - vbaol11.chm1691
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Companies Property (Outlook)
+# TaskItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the Outlook item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TableBackground.Fill Property (PowerPoint)
+title: TableBackground.Fill property (PowerPoint)
 keywords: vbapp10.chm677001
 f1_keywords:
 - vbapp10.chm677001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableBackground.Fill Property (PowerPoint)
+# TableBackground.Fill property (PowerPoint)
 
 Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object that represents the formatting of the fill associated with the table background. Read-only.
 

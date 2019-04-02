@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Class Property (Outlook)
+title: TaskItem.Class property (Outlook)
 keywords: vbaol11.chm1683
 f1_keywords:
 - vbaol11.chm1683
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Class Property (Outlook)
+# TaskItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

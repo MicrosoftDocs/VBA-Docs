@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Design Property (PowerPoint)
+title: SlideRange.Design property (PowerPoint)
 keywords: vbapp10.chm532033
 f1_keywords:
 - vbapp10.chm532033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Design Property (PowerPoint)
+# SlideRange.Design property (PowerPoint)
 
 Returns a  **Design** object representing a design.
 

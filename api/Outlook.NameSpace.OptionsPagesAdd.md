@@ -1,5 +1,5 @@
 ---
-title: NameSpace.OptionsPagesAdd Event (Outlook)
+title: NameSpace.OptionsPagesAdd event (Outlook)
 keywords: vbaol11.chm319
 f1_keywords:
 - vbaol11.chm319
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.OptionsPagesAdd Event (Outlook)
+# NameSpace.OptionsPagesAdd event (Outlook)
 
 Occurs whenever the  **Properties** dialog box for a folder is opened.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Parent Property (Outlook)
+title: Application.Parent property (Outlook)
 keywords: vbaol11.chm708
 f1_keywords:
 - vbaol11.chm708
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Parent Property (Outlook)
+# Application.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

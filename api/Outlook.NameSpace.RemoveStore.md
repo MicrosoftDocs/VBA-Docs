@@ -1,5 +1,5 @@
 ---
-title: NameSpace.RemoveStore Method (Outlook)
+title: NameSpace.RemoveStore method (Outlook)
 keywords: vbaol11.chm772
 f1_keywords:
 - vbaol11.chm772
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.RemoveStore Method (Outlook)
+# NameSpace.RemoveStore method (Outlook)
 
 Removes a Personal Folders file (.pst) from the current MAPI profile or session.
 

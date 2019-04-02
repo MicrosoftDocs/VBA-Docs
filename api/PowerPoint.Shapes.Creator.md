@@ -1,5 +1,5 @@
 ---
-title: Shapes.Creator Property (PowerPoint)
+title: Shapes.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Creator Property (PowerPoint)
+# Shapes.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRuleCondition.Parent Property (Outlook)
+title: TextRuleCondition.Parent property (Outlook)
 keywords: vbaol11.chm2475
 f1_keywords:
 - vbaol11.chm2475
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRuleCondition.Parent Property (Outlook)
+# TextRuleCondition.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

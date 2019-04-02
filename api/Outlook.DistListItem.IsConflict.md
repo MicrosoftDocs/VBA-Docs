@@ -1,5 +1,5 @@
 ---
-title: DistListItem.IsConflict Property (Outlook)
+title: DistListItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1163
 f1_keywords:
 - vbaol11.chm1163
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.IsConflict Property (Outlook)
+# DistListItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 

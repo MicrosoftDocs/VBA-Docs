@@ -1,5 +1,5 @@
 ---
-title: OrderFields.Count Property (Outlook)
+title: OrderFields.Count property (Outlook)
 keywords: vbaol11.chm2676
 f1_keywords:
 - vbaol11.chm2676
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderFields.Count Property (Outlook)
+# OrderFields.Count property (Outlook)
 
 Returns a  **Long** value indicating the count of **[OrderField](Outlook.OrderField.md)** objects in the specified collection. Read-only.
 

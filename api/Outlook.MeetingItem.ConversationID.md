@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.ConversationID Property (Outlook)
+title: MeetingItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3472
 f1_keywords:
 - vbaol11.chm3472
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.ConversationID Property (Outlook)
+# MeetingItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[MeetingItem](Outlook.MeetingItem.md)** object belongs to. Read-only.
 

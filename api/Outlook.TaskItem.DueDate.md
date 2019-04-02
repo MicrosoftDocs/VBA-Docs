@@ -1,5 +1,5 @@
 ---
-title: TaskItem.DueDate Property (Outlook)
+title: TaskItem.DueDate property (Outlook)
 keywords: vbaol11.chm1728
 f1_keywords:
 - vbaol11.chm1728
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.DueDate Property (Outlook)
+# TaskItem.DueDate property (Outlook)
 
 Returns or sets a  **Date** indicating the due date for the task. Read/write.
 

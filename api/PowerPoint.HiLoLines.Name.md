@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Name Property (PowerPoint)
+title: HiLoLines.Name property (PowerPoint)
 keywords: vbapp10.chm706002
 f1_keywords:
 - vbapp10.chm706002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HiLoLines.Name Property (PowerPoint)
+# HiLoLines.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: CategoryRuleCondition.Parent Property (Outlook)
+title: CategoryRuleCondition.Parent property (Outlook)
 keywords: vbaol11.chm2443
 f1_keywords:
 - vbaol11.chm2443
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryRuleCondition.Parent Property (Outlook)
+# CategoryRuleCondition.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

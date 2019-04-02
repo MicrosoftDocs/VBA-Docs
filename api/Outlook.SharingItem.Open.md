@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Open Event (Outlook)
+title: SharingItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Open Event (Outlook)
+# SharingItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 

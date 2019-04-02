@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.Accelerator Property (Outlook)
+title: OlkOptionButton.Accelerator property (Outlook)
 keywords: vbaol11.chm1000164
 f1_keywords:
 - vbaol11.chm1000164
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.Accelerator Property (Outlook)
+# OlkOptionButton.Accelerator property (Outlook)
 
 Returns or sets a  **String** value that represents the accelerator or hot key for the control. Read/write.
 

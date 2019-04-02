@@ -1,5 +1,5 @@
 ---
-title: FormRegionStartup Object (Outlook)
+title: FormRegionStartup object (Outlook)
 keywords: vbaol11.chm3213
 f1_keywords:
 - vbaol11.chm3213
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegionStartup Object (Outlook)
+# FormRegionStartup object (Outlook)
 
 Defines an interface that allows an add-in to specify the storage and the user interface of a form region, obtains an object for that form region, and determines when the form region is about to be displayed in a form or in the Reading Pane.
 

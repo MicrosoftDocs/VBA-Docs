@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.PatternEndDate Property (Outlook)
+title: RecurrencePattern.PatternEndDate property (Outlook)
 keywords: vbaol11.chm283
 f1_keywords:
 - vbaol11.chm283
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.PatternEndDate Property (Outlook)
+# RecurrencePattern.PatternEndDate property (Outlook)
 
 Returns or sets a  **Date** indicating the end date for the recurrence pattern. Read/write.
 

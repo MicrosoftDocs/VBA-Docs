@@ -1,5 +1,5 @@
 ---
-title: ViewFont.ExtendedColor Property (Outlook)
+title: ViewFont.ExtendedColor property (Outlook)
 keywords: vbaol11.chm3491
 f1_keywords:
 - vbaol11.chm3491
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.ExtendedColor Property (Outlook)
+# ViewFont.ExtendedColor property (Outlook)
 
 Returns or sets an  **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant as the font color of the view. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.InternetCodepage Property (Outlook)
+title: PostItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm1561
 f1_keywords:
 - vbaol11.chm1561
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.InternetCodepage Property (Outlook)
+# PostItem.InternetCodepage property (Outlook)
 
 Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
 

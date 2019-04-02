@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ReadComplete Event (Outlook)
+title: ContactItem.ReadComplete event (Outlook)
 ms.assetid: 1700ad85-3113-e937-9eb3-be78246fd4d5
 ms.date: 06/08/2017
 ms.prod: outlook
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ReadComplete Event (Outlook)
+# ContactItem.ReadComplete event (Outlook)
 Occurs when Outlook has completed reading the properties of the item.
 
 ## Version information

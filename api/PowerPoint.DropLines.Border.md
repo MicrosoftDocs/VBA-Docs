@@ -1,5 +1,5 @@
 ---
-title: DropLines.Border Property (PowerPoint)
+title: DropLines.Border property (PowerPoint)
 keywords: vbapp10.chm701003
 f1_keywords:
 - vbapp10.chm701003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropLines.Border Property (PowerPoint)
+# DropLines.Border property (PowerPoint)
 
 Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBorder.md)**.
 

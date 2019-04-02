@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.BackColor Property (Outlook)
+title: OlkLabel.BackColor property (Outlook)
 keywords: vbaol11.chm1000088
 f1_keywords:
 - vbaol11.chm1000088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkLabel.BackColor Property (Outlook)
+# OlkLabel.BackColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the background color of the control. Read/write.
 

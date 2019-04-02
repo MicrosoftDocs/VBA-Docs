@@ -1,5 +1,5 @@
 ---
-title: DataLabels.NumberFormatLocal Property (PowerPoint)
+title: DataLabels.NumberFormatLocal property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.NumberFormatLocal
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.NumberFormatLocal Property (PowerPoint)
+# DataLabels.NumberFormatLocal property (PowerPoint)
 
 Returns or sets the format code for the object as a string in the language of the user. Read/write  **Variant**.
 

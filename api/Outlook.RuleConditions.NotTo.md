@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.NotTo Property (Outlook)
+title: RuleConditions.NotTo property (Outlook)
 keywords: vbaol11.chm2306
 f1_keywords:
 - vbaol11.chm2306
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.NotTo Property (Outlook)
+# RuleConditions.NotTo property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionNotTo**. Read-only.
 

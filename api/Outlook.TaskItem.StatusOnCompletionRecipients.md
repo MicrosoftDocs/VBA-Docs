@@ -1,5 +1,5 @@
 ---
-title: TaskItem.StatusOnCompletionRecipients Property (Outlook)
+title: TaskItem.StatusOnCompletionRecipients property (Outlook)
 keywords: vbaol11.chm1745
 f1_keywords:
 - vbaol11.chm1745
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.StatusOnCompletionRecipients Property (Outlook)
+# TaskItem.StatusOnCompletionRecipients property (Outlook)
 
 Returns or sets a semicolon-delimited  **String** of display names for recipients who will receive status upon completion of the task. Read/write.
 

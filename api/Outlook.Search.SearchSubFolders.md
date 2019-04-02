@@ -1,5 +1,5 @@
 ---
-title: Search.SearchSubFolders Property (Outlook)
+title: Search.SearchSubFolders property (Outlook)
 keywords: vbaol11.chm2256
 f1_keywords:
 - vbaol11.chm2256
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.SearchSubFolders Property (Outlook)
+# Search.SearchSubFolders property (Outlook)
 
 Returns a  **Boolean** indicating whether the scope of the specified search included the subfolders of any folders searched. Read-only.
 

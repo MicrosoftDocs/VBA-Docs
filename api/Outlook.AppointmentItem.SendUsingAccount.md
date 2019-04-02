@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.SendUsingAccount Property (Outlook)
+title: AppointmentItem.SendUsingAccount property (Outlook)
 keywords: vbaol11.chm923
 f1_keywords:
 - vbaol11.chm923
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.SendUsingAccount Property (Outlook)
+# AppointmentItem.SendUsingAccount property (Outlook)
 
 Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account under which the **[AppointmentItem](Outlook.AppointmentItem.md)** is to be sent. Read/write.
 

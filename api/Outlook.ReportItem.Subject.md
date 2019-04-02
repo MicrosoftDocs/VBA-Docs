@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Subject Property (Outlook)
+title: ReportItem.Subject property (Outlook)
 keywords: vbaol11.chm1661
 f1_keywords:
 - vbaol11.chm1661
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Subject Property (Outlook)
+# ReportItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 

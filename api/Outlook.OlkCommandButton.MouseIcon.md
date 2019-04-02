@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.MouseIcon Property (Outlook)
+title: OlkCommandButton.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000114
 f1_keywords:
 - vbaol11.chm1000114
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.MouseIcon Property (Outlook)
+# OlkCommandButton.MouseIcon property (Outlook)
 
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 

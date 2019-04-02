@@ -1,5 +1,5 @@
 ---
-title: ReportItem.ItemProperties Property (Outlook)
+title: ReportItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1675
 f1_keywords:
 - vbaol11.chm1675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.ItemProperties Property (Outlook)
+# ReportItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressRuleCondition Object (Outlook)
+title: AddressRuleCondition object (Outlook)
 keywords: vbaol11.chm3203
 f1_keywords:
 - vbaol11.chm3203
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressRuleCondition Object (Outlook)
+# AddressRuleCondition object (Outlook)
 
 Represents a rule condition that evaluates whether the address for the recipient or sender of the message is contained in the address specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.
 

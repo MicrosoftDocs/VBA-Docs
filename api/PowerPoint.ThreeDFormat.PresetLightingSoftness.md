@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingSoftness Property (PowerPoint)
+title: ThreeDFormat.PresetLightingSoftness property (PowerPoint)
 keywords: vbapp10.chm557013
 f1_keywords:
 - vbapp10.chm557013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetLightingSoftness Property (PowerPoint)
+# ThreeDFormat.PresetLightingSoftness property (PowerPoint)
 
 Returns or sets the intensity of the extrusion lighting. Read/write.
 

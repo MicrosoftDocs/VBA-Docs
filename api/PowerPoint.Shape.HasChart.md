@@ -1,5 +1,5 @@
 ---
-title: Shape.HasChart Property (PowerPoint)
+title: Shape.HasChart property (PowerPoint)
 keywords: vbapp10.chm547078
 f1_keywords:
 - vbapp10.chm547078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.HasChart Property (PowerPoint)
+# Shape.HasChart property (PowerPoint)
 
 Returns whether the shape represented by the specified object contains a chart. Read-only.
 

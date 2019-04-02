@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ReferredBy Property (Outlook)
+title: ContactItem.ReferredBy property (Outlook)
 keywords: vbaol11.chm1063
 f1_keywords:
 - vbaol11.chm1063
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ReferredBy Property (Outlook)
+# ContactItem.ReferredBy property (Outlook)
 
 Returns or sets a  **String** specifying the referral name entry for the contact. Read/write.
 

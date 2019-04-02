@@ -1,5 +1,5 @@
 ---
-title: Action Object (Outlook)
+title: Action object (Outlook)
 keywords: vbaol11.chm9
 f1_keywords:
 - vbaol11.chm9
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action Object (Outlook)
+# Action object (Outlook)
 
 Represents a specialized action (for example, the voting options response) that can be executed on an Outlook item.
 

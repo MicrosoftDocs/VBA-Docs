@@ -1,5 +1,5 @@
 ---
-title: Folders.GetNext Method (Outlook)
+title: Folders.GetNext method (Outlook)
 keywords: vbaol11.chm49
 f1_keywords:
 - vbaol11.chm49
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.GetNext Method (Outlook)
+# Folders.GetNext method (Outlook)
 
 Returns the next object in the  **[Folders](Outlook.Folders.md)** collection.
 

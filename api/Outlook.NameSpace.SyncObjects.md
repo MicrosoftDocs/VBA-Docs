@@ -1,5 +1,5 @@
 ---
-title: NameSpace.SyncObjects Property (Outlook)
+title: NameSpace.SyncObjects property (Outlook)
 keywords: vbaol11.chm770
 f1_keywords:
 - vbaol11.chm770
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.SyncObjects Property (Outlook)
+# NameSpace.SyncObjects property (Outlook)
 
 Returns a  **[SyncObjects](Outlook.SyncObjects.md)** collection containing all Send\Receive groups. Read-only.
 

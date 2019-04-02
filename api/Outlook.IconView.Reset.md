@@ -1,5 +1,5 @@
 ---
-title: IconView.Reset Method (Outlook)
+title: IconView.Reset method (Outlook)
 keywords: vbaol11.chm2564
 f1_keywords:
 - vbaol11.chm2564
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Reset Method (Outlook)
+# IconView.Reset method (Outlook)
 
 Resets a built-in Microsoft Outlook view to its original settings.
 

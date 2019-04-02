@@ -1,5 +1,5 @@
 ---
-title: AssignToCategoryRuleAction.Application Property (Outlook)
+title: AssignToCategoryRuleAction.Application property (Outlook)
 keywords: vbaol11.chm2263
 f1_keywords:
 - vbaol11.chm2263
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AssignToCategoryRuleAction.Application Property (Outlook)
+# AssignToCategoryRuleAction.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

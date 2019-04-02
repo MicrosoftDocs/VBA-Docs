@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SpaceAfter Property (PowerPoint)
+title: ParagraphFormat.SpaceAfter property (PowerPoint)
 keywords: vbapp10.chm576009
 f1_keywords:
 - vbapp10.chm576009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.SpaceAfter Property (PowerPoint)
+# ParagraphFormat.SpaceAfter property (PowerPoint)
 
 Returns or sets the amount of space after the last line in each paragraph of the specified text, in points or lines. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl.MouseUp Event (Outlook)
+title: OlkBusinessCardControl.MouseUp event (Outlook)
 keywords: vbaol11.chm1000332
 f1_keywords:
 - vbaol11.chm1000332
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl.MouseUp Event (Outlook)
+# OlkBusinessCardControl.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 

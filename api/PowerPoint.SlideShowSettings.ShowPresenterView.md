@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.ShowPresenterView Property (PowerPoint)
+title: SlideShowSettings.ShowPresenterView property (PowerPoint)
 keywords: vbapp10.chm514016
 f1_keywords:
 - vbapp10.chm514016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.ShowPresenterView Property (PowerPoint)
+# SlideShowSettings.ShowPresenterView property (PowerPoint)
 
 Returns the presenter view of the  **SlideShowSettings** object. Read/write.
 

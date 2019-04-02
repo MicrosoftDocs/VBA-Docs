@@ -1,5 +1,5 @@
 ---
-title: CustomerData Object (PowerPoint)
+title: CustomerData object (PowerPoint)
 keywords: vbapp10.chm675000
 f1_keywords:
 - vbapp10.chm675000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomerData Object (PowerPoint)
+# CustomerData object (PowerPoint)
 
 Stores information about a customer (such as name, address, telephone number, and so on) or other information in XML form, as a collection of  **[CustomXMLPart](Office.CustomXMLPart.md)** objects associated with a Microsoft PowerPoint object.
 

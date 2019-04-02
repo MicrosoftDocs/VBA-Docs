@@ -1,5 +1,5 @@
 ---
-title: Chart.Elevation Property (PowerPoint)
+title: Chart.Elevation property (PowerPoint)
 keywords: vbapp10.chm684027
 f1_keywords:
 - vbapp10.chm684027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Elevation Property (PowerPoint)
+# Chart.Elevation property (PowerPoint)
 
 Returns or sets the elevation, in degrees, of the 3-D chart view. Read/write  **Long**.
 

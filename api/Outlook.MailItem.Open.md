@@ -1,5 +1,5 @@
 ---
-title: MailItem.Open Event (Outlook)
+title: MailItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Open Event (Outlook)
+# MailItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 

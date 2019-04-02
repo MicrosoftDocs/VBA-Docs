@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ShowBusinessCardEditor Method (Outlook)
+title: ContactItem.ShowBusinessCardEditor method (Outlook)
 keywords: vbaol11.chm1095
 f1_keywords:
 - vbaol11.chm1095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ShowBusinessCardEditor Method (Outlook)
+# ContactItem.ShowBusinessCardEditor method (Outlook)
 
 Displays the electronic business card (EBC) editor dialog box for the  **[ContactItem](Outlook.ContactItem.md)** object.
 

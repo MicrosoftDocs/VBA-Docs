@@ -1,5 +1,5 @@
 ---
-title: Presentation.DisplayComments Property (PowerPoint)
+title: Presentation.DisplayComments property (PowerPoint)
 keywords: vbapp10.chm583042
 f1_keywords:
 - vbapp10.chm583042
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.DisplayComments Property (PowerPoint)
+# Presentation.DisplayComments property (PowerPoint)
 
 Determines whether comments are displayed in the specified presentation. Read/write.
 

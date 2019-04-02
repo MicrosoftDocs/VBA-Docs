@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Shadow Property (PowerPoint)
+title: ShapeRange.Shadow property (PowerPoint)
 keywords: vbapp10.chm548033
 f1_keywords:
 - vbapp10.chm548033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Shadow Property (PowerPoint)
+# ShapeRange.Shadow property (PowerPoint)
 
 Returns a  **[ShadowFormat](PowerPoint.ShadowFormat.md)** object that contains shadow formatting properties for the specified shapes. Read-only.
 

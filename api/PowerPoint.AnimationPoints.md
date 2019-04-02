@@ -1,5 +1,5 @@
 ---
-title: AnimationPoints Object (PowerPoint)
+title: AnimationPoints object (PowerPoint)
 keywords: vbapp10.chm663000
 f1_keywords:
 - vbapp10.chm663000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoints Object (PowerPoint)
+# AnimationPoints object (PowerPoint)
 
 Represents a collection of animation points for a  **[PropertyEffect](PowerPoint.PropertyEffect.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Visible Property (PowerPoint)
+title: LineFormat.Visible property (PowerPoint)
 keywords: vbapp10.chm553014
 f1_keywords:
 - vbapp10.chm553014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Visible Property (PowerPoint)
+# LineFormat.Visible property (PowerPoint)
 
 Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
 

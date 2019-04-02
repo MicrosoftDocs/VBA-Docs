@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.StateOrProvince Property (Outlook)
+title: ExchangeUser.StateOrProvince property (Outlook)
 keywords: vbaol11.chm2099
 f1_keywords:
 - vbaol11.chm2099
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.StateOrProvince Property (Outlook)
+# ExchangeUser.StateOrProvince property (Outlook)
 
 Returns a  **String** representing the state or province for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

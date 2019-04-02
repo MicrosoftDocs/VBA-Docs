@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Application Property (Outlook)
+title: ExchangeDistributionList.Application property (Outlook)
 keywords: vbaol11.chm2108
 f1_keywords:
 - vbaol11.chm2108
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Application Property (Outlook)
+# ExchangeDistributionList.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 

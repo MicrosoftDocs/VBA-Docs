@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Forward Event (Outlook)
+title: TaskItem.Forward event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Forward
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Forward Event (Outlook)
+# TaskItem.Forward event (Outlook)
 
 Occurs when the user selects the  **Forward** action for an item (which is an instance of the parent object).
 

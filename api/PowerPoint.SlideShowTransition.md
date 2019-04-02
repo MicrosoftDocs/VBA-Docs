@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition Object (PowerPoint)
+title: SlideShowTransition object (PowerPoint)
 keywords: vbapp10.chm539000
 f1_keywords:
 - vbapp10.chm539000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition Object (PowerPoint)
+# SlideShowTransition object (PowerPoint)
 
 Contains information about how the specified slide advances during a slide show.
 

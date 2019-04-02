@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ConversationID Property (Outlook)
+title: SharingItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3497
 f1_keywords:
 - vbaol11.chm3497
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ConversationID Property (Outlook)
+# SharingItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[SharingItem](Outlook.SharingItem.md)** object belongs to. Read-only.
 

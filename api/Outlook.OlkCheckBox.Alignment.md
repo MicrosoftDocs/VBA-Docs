@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.Alignment Property (Outlook)
+title: OlkCheckBox.Alignment property (Outlook)
 keywords: vbaol11.chm1000135
 f1_keywords:
 - vbaol11.chm1000135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.Alignment Property (Outlook)
+# OlkCheckBox.Alignment property (Outlook)
 
 Returns or sets an  **[olAlignment](Outlook.OlAlignment.md)** constant that indicates the position of a control relative to its caption. Read/write.
 

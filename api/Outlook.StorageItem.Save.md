@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Save Method (Outlook)
+title: StorageItem.Save method (Outlook)
 keywords: vbaol11.chm2144
 f1_keywords:
 - vbaol11.chm2144
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Save Method (Outlook)
+# StorageItem.Save method (Outlook)
 
 Saves the  **[StorageItem](Outlook.StorageItem.md)**.
 

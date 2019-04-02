@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Selection Property (PowerPoint)
+title: DocumentWindow.Selection property (PowerPoint)
 keywords: vbapp10.chm511003
 f1_keywords:
 - vbapp10.chm511003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.Selection Property (PowerPoint)
+# DocumentWindow.Selection property (PowerPoint)
 
 Returns a  **[Selection](PowerPoint.Selection.md)** object that represents the selection in the specified document window. Read-only.
 

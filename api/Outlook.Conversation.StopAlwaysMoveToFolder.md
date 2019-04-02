@@ -1,5 +1,5 @@
 ---
-title: Conversation.StopAlwaysMoveToFolder Method (Outlook)
+title: Conversation.StopAlwaysMoveToFolder method (Outlook)
 keywords: vbaol11.chm3433
 f1_keywords:
 - vbaol11.chm3433
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.StopAlwaysMoveToFolder Method (Outlook)
+# Conversation.StopAlwaysMoveToFolder method (Outlook)
 
 Stops the action of always moving conversation items in the specified store to a specific folder.
 

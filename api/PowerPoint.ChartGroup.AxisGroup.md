@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.AxisGroup Property (PowerPoint)
+title: ChartGroup.AxisGroup property (PowerPoint)
 keywords: vbapp10.chm692007
 f1_keywords:
 - vbapp10.chm692007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.AxisGroup Property (PowerPoint)
+# ChartGroup.AxisGroup property (PowerPoint)
 
 Returns the type of axis group. Read/write  **[xlAxisGroup](PowerPoint.XlAxisGroup.md)**.
 

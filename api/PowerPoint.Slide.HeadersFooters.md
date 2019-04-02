@@ -1,5 +1,5 @@
 ---
-title: Slide.HeadersFooters Property (PowerPoint)
+title: Slide.HeadersFooters property (PowerPoint)
 keywords: vbapp10.chm531004
 f1_keywords:
 - vbapp10.chm531004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.HeadersFooters Property (PowerPoint)
+# Slide.HeadersFooters property (PowerPoint)
 
 Returns a  **[HeadersFooters](PowerPoint.HeadersFooters.md)** collection that represents the header, footer, date and time, and slide number associated with the slide, slide master, or range of slides. Read-only.
 

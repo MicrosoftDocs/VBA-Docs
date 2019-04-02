@@ -1,5 +1,5 @@
 ---
-title: ColumnFormat Object (Outlook)
+title: ColumnFormat object (Outlook)
 keywords: vbaol11.chm3189
 f1_keywords:
 - vbaol11.chm3189
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColumnFormat Object (Outlook)
+# ColumnFormat object (Outlook)
 
 Represents the display properties of an order field or view field in a view.
 

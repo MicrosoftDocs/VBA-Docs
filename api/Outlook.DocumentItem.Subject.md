@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Subject Property (Outlook)
+title: DocumentItem.Subject property (Outlook)
 keywords: vbaol11.chm1206
 f1_keywords:
 - vbaol11.chm1206
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Subject Property (Outlook)
+# DocumentItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.HorizontalAlignment Property (PowerPoint)
+title: DisplayUnitLabel.HorizontalAlignment property (PowerPoint)
 keywords: vbapp10.chm699004
 f1_keywords:
 - vbapp10.chm699004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.HorizontalAlignment Property (PowerPoint)
+# DisplayUnitLabel.HorizontalAlignment property (PowerPoint)
 
 Returns or sets the horizontal alignment for the specified object. Read/write  **Variant**.
 

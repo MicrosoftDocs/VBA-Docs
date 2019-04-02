@@ -1,5 +1,5 @@
 ---
-title: Inspector Object (Outlook)
+title: Inspector object (Outlook)
 keywords: vbaol11.chm2986
 f1_keywords:
 - vbaol11.chm2986
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector Object (Outlook)
+# Inspector object (Outlook)
 
 Represents the window in which an Outlook item is displayed.
 

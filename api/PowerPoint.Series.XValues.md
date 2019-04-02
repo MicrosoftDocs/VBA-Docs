@@ -1,5 +1,5 @@
 ---
-title: Series.XValues Property (PowerPoint)
+title: Series.XValues property (PowerPoint)
 keywords: vbapp10.chm66647
 f1_keywords:
 - vbapp10.chm66647
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.XValues Property (PowerPoint)
+# Series.XValues property (PowerPoint)
 
 Returns or sets an array of x values for a chart series. Read/write  **Variant**.
 

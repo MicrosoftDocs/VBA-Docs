@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Filter Property (Outlook)
+title: CalendarView.Filter property (Outlook)
 keywords: vbaol11.chm2624
 f1_keywords:
 - vbaol11.chm2624
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Filter Property (Outlook)
+# CalendarView.Filter property (Outlook)
 
 Returns or sets a  **String** value that represents the filter for a view. Read/write.
 

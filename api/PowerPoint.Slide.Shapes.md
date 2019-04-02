@@ -1,5 +1,5 @@
 ---
-title: Slide.Shapes Property (PowerPoint)
+title: Slide.Shapes property (PowerPoint)
 keywords: vbapp10.chm531003
 f1_keywords:
 - vbapp10.chm531003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.Shapes Property (PowerPoint)
+# Slide.Shapes property (PowerPoint)
 
 Returns a  **[Shapes](PowerPoint.Shapes.md)** collection that represents all the elements that have been placed or inserted on the specified slide, slide master, or range of slides. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.HorizontalAlignment Property (PowerPoint)
+title: ChartTitle.HorizontalAlignment property (PowerPoint)
 keywords: vbapp10.chm694004
 f1_keywords:
 - vbapp10.chm694004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.HorizontalAlignment Property (PowerPoint)
+# ChartTitle.HorizontalAlignment property (PowerPoint)
 
 Returns or sets the horizontal alignment for the specified object. Read/write  **Variant**.
 

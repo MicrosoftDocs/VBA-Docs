@@ -1,5 +1,5 @@
 ---
-title: DropLines.Name Property (PowerPoint)
+title: DropLines.Name property (PowerPoint)
 keywords: vbapp10.chm701001
 f1_keywords:
 - vbapp10.chm701001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropLines.Name Property (PowerPoint)
+# DropLines.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

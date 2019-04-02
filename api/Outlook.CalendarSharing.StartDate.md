@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.StartDate Property (Outlook)
+title: CalendarSharing.StartDate property (Outlook)
 keywords: vbaol11.chm2419
 f1_keywords:
 - vbaol11.chm2419
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarSharing.StartDate Property (Outlook)
+# CalendarSharing.StartDate property (Outlook)
 
 Returns or sets a  **Date** that represents the inclusive start date of the range of calendar items to be shared by the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
 

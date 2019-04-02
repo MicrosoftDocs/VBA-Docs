@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.TextAlign Property (Outlook)
+title: OlkDateControl.TextAlign property (Outlook)
 keywords: vbaol11.chm1000357
 f1_keywords:
 - vbaol11.chm1000357
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.TextAlign Property (Outlook)
+# OlkDateControl.TextAlign property (Outlook)
 
 Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that specifies how text is aligned in the control. Read/write.
 

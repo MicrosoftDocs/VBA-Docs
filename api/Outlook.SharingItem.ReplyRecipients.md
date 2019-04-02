@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReplyRecipients Property (Outlook)
+title: SharingItem.ReplyRecipients property (Outlook)
 keywords: vbaol11.chm658
 f1_keywords:
 - vbaol11.chm658
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReplyRecipients Property (Outlook)
+# SharingItem.ReplyRecipients property (Outlook)
 
 Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the reply recipient objects for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Attachments Property (Outlook)
+title: AppointmentItem.Attachments property (Outlook)
 keywords: vbaol11.chm843
 f1_keywords:
 - vbaol11.chm843
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Attachments Property (Outlook)
+# AppointmentItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 

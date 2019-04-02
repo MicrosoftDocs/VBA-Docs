@@ -1,5 +1,5 @@
 ---
-title: Presentation.BuiltInDocumentProperties Property (PowerPoint)
+title: Presentation.BuiltInDocumentProperties property (PowerPoint)
 keywords: vbapp10.chm583020
 f1_keywords:
 - vbapp10.chm583020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.BuiltInDocumentProperties Property (PowerPoint)
+# Presentation.BuiltInDocumentProperties property (PowerPoint)
 
 Returns a  **DocumentProperties** collection that represents all the built-in document properties for the specified presentation. Read-only.
 

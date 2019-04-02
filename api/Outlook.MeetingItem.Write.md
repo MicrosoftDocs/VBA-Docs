@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Write Event (Outlook)
+title: MeetingItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Write Event (Outlook)
+# MeetingItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.MeetingItem.Save.md)** or **[SaveAs](Outlook.MeetingItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 

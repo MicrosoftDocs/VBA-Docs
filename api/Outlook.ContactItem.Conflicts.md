@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Conflicts Property (Outlook)
+title: ContactItem.Conflicts property (Outlook)
 keywords: vbaol11.chm1089
 f1_keywords:
 - vbaol11.chm1089
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Conflicts Property (Outlook)
+# ContactItem.Conflicts property (Outlook)
 
 Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 

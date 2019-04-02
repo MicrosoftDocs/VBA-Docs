@@ -1,5 +1,5 @@
 ---
-title: Folder.Application Property (Outlook)
+title: Folder.Application property (Outlook)
 keywords: vbaol11.chm1981
 f1_keywords:
 - vbaol11.chm1981
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Application Property (Outlook)
+# Folder.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

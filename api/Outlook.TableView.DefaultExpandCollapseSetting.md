@@ -1,5 +1,5 @@
 ---
-title: TableView.DefaultExpandCollapseSetting Property (Outlook)
+title: TableView.DefaultExpandCollapseSetting property (Outlook)
 keywords: vbaol11.chm2522
 f1_keywords:
 - vbaol11.chm2522
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.DefaultExpandCollapseSetting Property (Outlook)
+# TableView.DefaultExpandCollapseSetting property (Outlook)
 
 Returns or sets an  **[OlDefaultExpandCollapseSetting](Outlook.OlDefaultExpandCollapseSetting.md)** constant that determines the default expansion setting for groups in the **[TableView](Outlook.TableView.md)** object. Read/write.
 

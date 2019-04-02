@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.DropButtonClick Event (Outlook)
+title: OlkTimeControl.DropButtonClick event (Outlook)
 keywords: vbaol11.chm1000412
 f1_keywords:
 - vbaol11.chm1000412
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.DropButtonClick Event (Outlook)
+# OlkTimeControl.DropButtonClick event (Outlook)
 
 Occurs when the user clicks the drop button to expand the time drop-down list in the time control.
 

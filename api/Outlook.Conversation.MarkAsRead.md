@@ -1,5 +1,5 @@
 ---
-title: Conversation.MarkAsRead Method (Outlook)
+title: Conversation.MarkAsRead method (Outlook)
 keywords: vbaol11.chm3442
 f1_keywords:
 - vbaol11.chm3442
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.MarkAsRead Method (Outlook)
+# Conversation.MarkAsRead method (Outlook)
 
 Marks all items in the conversation as read.
 

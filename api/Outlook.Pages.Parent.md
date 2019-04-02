@@ -1,5 +1,5 @@
 ---
-title: Pages.Parent Property (Outlook)
+title: Pages.Parent property (Outlook)
 keywords: vbaol11.chm394
 f1_keywords:
 - vbaol11.chm394
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Parent Property (Outlook)
+# Pages.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

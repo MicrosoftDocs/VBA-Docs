@@ -1,5 +1,5 @@
 ---
-title: View.MediaControlsWidth Property (PowerPoint)
+title: View.MediaControlsWidth property (PowerPoint)
 keywords: vbapp10.chm512017
 f1_keywords:
 - vbapp10.chm512017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.MediaControlsWidth Property (PowerPoint)
+# View.MediaControlsWidth property (PowerPoint)
 
 Returns the width, in points, of the media control bounding box. Read-only.
 

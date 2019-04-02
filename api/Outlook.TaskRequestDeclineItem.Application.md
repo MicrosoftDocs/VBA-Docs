@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Application Property (Outlook)
+title: TaskRequestDeclineItem.Application property (Outlook)
 keywords: vbaol11.chm1819
 f1_keywords:
 - vbaol11.chm1819
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Application Property (Outlook)
+# TaskRequestDeclineItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

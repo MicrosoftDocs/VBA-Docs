@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.PropertyEffect Property (PowerPoint)
+title: AnimationBehavior.PropertyEffect property (PowerPoint)
 keywords: vbapp10.chm657010
 f1_keywords:
 - vbapp10.chm657010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.PropertyEffect Property (PowerPoint)
+# AnimationBehavior.PropertyEffect property (PowerPoint)
 
 Returns a  **[PropertyEffect](PowerPoint.PropertyEffect.md)** object for a given animation behavior. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ReportItem.CreationTime Property (Outlook)
+title: ReportItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1646
 f1_keywords:
 - vbaol11.chm1646
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.CreationTime Property (Outlook)
+# ReportItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 

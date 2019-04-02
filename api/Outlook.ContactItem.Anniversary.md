@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Anniversary Property (Outlook)
+title: ContactItem.Anniversary property (Outlook)
 keywords: vbaol11.chm965
 f1_keywords:
 - vbaol11.chm965
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Anniversary Property (Outlook)
+# ContactItem.Anniversary property (Outlook)
 
 Returns or sets a  **Date** indicating the anniversary date for the contact. Read/write.
 

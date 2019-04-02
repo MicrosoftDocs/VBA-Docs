@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Display Method (Outlook)
+title: RemoteItem.Display method (Outlook)
 keywords: vbaol11.chm1615
 f1_keywords:
 - vbaol11.chm1615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Display Method (Outlook)
+# RemoteItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

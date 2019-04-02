@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Subject Property (Outlook)
+title: NoteItem.Subject property (Outlook)
 keywords: vbaol11.chm1489
 f1_keywords:
 - vbaol11.chm1489
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Subject Property (Outlook)
+# NoteItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read-only.
 

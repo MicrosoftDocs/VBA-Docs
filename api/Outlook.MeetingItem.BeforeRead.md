@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.BeforeRead Event (Outlook)
+title: MeetingItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.BeforeRead Event (Outlook)
+# MeetingItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 

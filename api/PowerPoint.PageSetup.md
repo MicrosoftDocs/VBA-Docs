@@ -1,5 +1,5 @@
 ---
-title: PageSetup Object (PowerPoint)
+title: PageSetup object (PowerPoint)
 keywords: vbapp10.chm527000
 f1_keywords:
 - vbapp10.chm527000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup Object (PowerPoint)
+# PageSetup object (PowerPoint)
 
 Contains information about the page setup for slides, notes pages, handouts, and outlines in a presentation.
 

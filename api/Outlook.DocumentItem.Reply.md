@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Reply Event (Outlook)
+title: DocumentItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Reply Event (Outlook)
+# DocumentItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item (which is an instance of the parent object).
 

@@ -1,5 +1,5 @@
 ---
-title: Font.Superscript Property (PowerPoint)
+title: Font.Superscript property (PowerPoint)
 keywords: vbapp10.chm575010
 f1_keywords:
 - vbapp10.chm575010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Superscript Property (PowerPoint)
+# Font.Superscript property (PowerPoint)
 
 Determines whether the specified text is superscript. Read/write.
 

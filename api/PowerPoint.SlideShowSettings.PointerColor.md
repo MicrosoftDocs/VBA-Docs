@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.PointerColor Property (PowerPoint)
+title: SlideShowSettings.PointerColor property (PowerPoint)
 keywords: vbapp10.chm514003
 f1_keywords:
 - vbapp10.chm514003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.PointerColor Property (PowerPoint)
+# SlideShowSettings.PointerColor property (PowerPoint)
 
 Returns the pointer color for the specified presentation as a  **[ColorFormat](PowerPoint.ColorFormat.md)** object. Read-only.
 

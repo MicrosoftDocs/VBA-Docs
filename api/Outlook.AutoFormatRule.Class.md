@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRule.Class Property (Outlook)
+title: AutoFormatRule.Class property (Outlook)
 keywords: vbaol11.chm2704
 f1_keywords:
 - vbaol11.chm2704
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRule.Class Property (Outlook)
+# AutoFormatRule.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

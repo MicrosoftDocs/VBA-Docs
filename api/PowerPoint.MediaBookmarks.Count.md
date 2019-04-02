@@ -1,5 +1,5 @@
 ---
-title: MediaBookmarks.Count Property (PowerPoint)
+title: MediaBookmarks.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaBookmarks.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MediaBookmarks.Count Property (PowerPoint)
+# MediaBookmarks.Count property (PowerPoint)
 
 Returns the number of bookmarks. Read-only.
 

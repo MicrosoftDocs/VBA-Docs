@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasRadarAxisLabels Property (PowerPoint)
+title: ChartGroup.HasRadarAxisLabels property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasRadarAxisLabels
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.HasRadarAxisLabels Property (PowerPoint)
+# ChartGroup.HasRadarAxisLabels property (PowerPoint)
 
  **True** if a radar chart has axis labels. Read/write **Boolean**.
 

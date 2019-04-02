@@ -1,5 +1,5 @@
 ---
-title: PostItem.CustomAction Event (Outlook)
+title: PostItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.CustomAction Event (Outlook)
+# PostItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 

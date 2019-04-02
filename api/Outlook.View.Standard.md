@@ -1,5 +1,5 @@
 ---
-title: View.Standard Property (Outlook)
+title: View.Standard property (Outlook)
 keywords: vbaol11.chm2493
 f1_keywords:
 - vbaol11.chm2493
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Standard Property (Outlook)
+# View.Standard property (Outlook)
 
 Returns a  **Boolean** that specifies whether or not the view is a built-in Outlook view. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.GetConversation Method (Outlook)
+title: TaskRequestDeclineItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3502
 f1_keywords:
 - vbaol11.chm3502
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.GetConversation Method (Outlook)
+# TaskRequestDeclineItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

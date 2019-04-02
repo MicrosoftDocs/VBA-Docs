@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.Creator Property (PowerPoint)
+title: ChartGroup.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.Creator Property (PowerPoint)
+# ChartGroup.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

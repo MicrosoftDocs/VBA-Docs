@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.BeforeAttachmentRead Event (Outlook)
+title: RemoteItem.BeforeAttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeAttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.BeforeAttachmentRead Event (Outlook)
+# RemoteItem.BeforeAttachmentRead event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 

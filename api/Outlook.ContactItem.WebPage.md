@@ -1,5 +1,5 @@
 ---
-title: ContactItem.WebPage Property (Outlook)
+title: ContactItem.WebPage property (Outlook)
 keywords: vbaol11.chm1075
 f1_keywords:
 - vbaol11.chm1075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.WebPage Property (Outlook)
+# ContactItem.WebPage property (Outlook)
 
 Returns or sets a  **String** indicating the URL of the web page for the contact. Read/write.
 

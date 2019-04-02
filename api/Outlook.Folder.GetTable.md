@@ -1,5 +1,5 @@
 ---
-title: Folder.GetTable Method (Outlook)
+title: Folder.GetTable method (Outlook)
 keywords: vbaol11.chm2018
 f1_keywords:
 - vbaol11.chm2018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.GetTable Method (Outlook)
+# Folder.GetTable method (Outlook)
 
 Obtains a  **[Table](Outlook.Table.md)** object that contains items filtered by _Filter_ .
 

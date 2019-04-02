@@ -1,5 +1,5 @@
 ---
-title: ReportItem.RetentionExpirationDate Property (Outlook)
+title: ReportItem.RetentionExpirationDate property (Outlook)
 keywords: vbaol11.chm3563
 f1_keywords:
 - vbaol11.chm3563
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.RetentionExpirationDate Property (Outlook)
+# ReportItem.RetentionExpirationDate property (Outlook)
 
 Returns a  **Date** that specifies the date when the **[ReportItem](Outlook.ReportItem.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
 

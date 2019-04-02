@@ -1,5 +1,5 @@
 ---
-title: Trendline.Intercept Property (PowerPoint)
+title: Trendline.Intercept property (PowerPoint)
 keywords: vbapp10.chm65722
 f1_keywords:
 - vbapp10.chm65722
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Intercept Property (PowerPoint)
+# Trendline.Intercept property (PowerPoint)
 
 Returns or sets the point where the trendline crosses the value axis. Read/write  **Double**.
 

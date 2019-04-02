@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.Timing Property (PowerPoint)
+title: AnimationBehavior.Timing property (PowerPoint)
 keywords: vbapp10.chm657011
 f1_keywords:
 - vbapp10.chm657011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.Timing Property (PowerPoint)
+# AnimationBehavior.Timing property (PowerPoint)
 
 Returns a  **[Timing](PowerPoint.Timing.md)** object that represents the timing properties for an animation sequence.
 

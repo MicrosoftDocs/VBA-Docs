@@ -1,5 +1,5 @@
 ---
-title: PropertyPage.Dirty Property (Outlook)
+title: PropertyPage.Dirty property (Outlook)
 keywords: vbaol11.chm382
 f1_keywords:
 - vbaol11.chm382
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPage.Dirty Property (Outlook)
+# PropertyPage.Dirty property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the contents of a custom property page have been altered. Read-only.
 

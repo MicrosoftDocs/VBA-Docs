@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.Class Property (Outlook)
+title: OutlookBarShortcut.Class property (Outlook)
 keywords: vbaol11.chm339
 f1_keywords:
 - vbaol11.chm339
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.Class Property (Outlook)
+# OutlookBarShortcut.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

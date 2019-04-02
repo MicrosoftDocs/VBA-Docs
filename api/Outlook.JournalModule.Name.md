@@ -1,5 +1,5 @@
 ---
-title: JournalModule.Name Property (Outlook)
+title: JournalModule.Name property (Outlook)
 keywords: vbaol11.chm2867
 f1_keywords:
 - vbaol11.chm2867
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalModule.Name Property (Outlook)
+# JournalModule.Name property (Outlook)
 
 Returns a  **String** value that represents the localized display name for the **[JournalModule](Outlook.JournalModule.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetSharedDefaultFolder Method (Outlook)
+title: NameSpace.GetSharedDefaultFolder method (Outlook)
 keywords: vbaol11.chm765
 f1_keywords:
 - vbaol11.chm765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.GetSharedDefaultFolder Method (Outlook)
+# NameSpace.GetSharedDefaultFolder method (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object that represents the specified default folder for the specified user.
 

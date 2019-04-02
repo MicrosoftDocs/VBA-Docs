@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.AnimateTextInReverse Property (PowerPoint)
+title: AnimationSettings.AnimateTextInReverse property (PowerPoint)
 keywords: vbapp10.chm565015
 f1_keywords:
 - vbapp10.chm565015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.AnimateTextInReverse Property (PowerPoint)
+# AnimationSettings.AnimateTextInReverse property (PowerPoint)
 
 Determines whether the specified shape is built in reverse order. Applies only to shapes (such as shapes containing lists) that can be built in more than one step. Read/write.
 

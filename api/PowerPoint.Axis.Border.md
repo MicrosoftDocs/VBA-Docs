@@ -1,5 +1,5 @@
 ---
-title: Axis.Border Property (PowerPoint)
+title: Axis.Border property (PowerPoint)
 keywords: vbapp10.chm682046
 f1_keywords:
 - vbapp10.chm682046
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.Border Property (PowerPoint)
+# Axis.Border property (PowerPoint)
 
 Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBorder.md)**.
 

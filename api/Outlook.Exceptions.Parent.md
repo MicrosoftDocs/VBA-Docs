@@ -1,5 +1,5 @@
 ---
-title: Exceptions.Parent Property (Outlook)
+title: Exceptions.Parent property (Outlook)
 keywords: vbaol11.chm293
 f1_keywords:
 - vbaol11.chm293
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exceptions.Parent Property (Outlook)
+# Exceptions.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

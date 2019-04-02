@@ -1,5 +1,5 @@
 ---
-title: Conflicts.GetLast Method (Outlook)
+title: Conflicts.GetLast method (Outlook)
 keywords: vbaol11.chm407
 f1_keywords:
 - vbaol11.chm407
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflicts.GetLast Method (Outlook)
+# Conflicts.GetLast method (Outlook)
 
 Returns the last object in the  **[Conflicts](Outlook.Conflicts.md)** collection.
 

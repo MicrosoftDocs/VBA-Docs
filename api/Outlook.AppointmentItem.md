@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem Object (Outlook)
+title: AppointmentItem object (Outlook)
 keywords: vbaol11.chm2988
 f1_keywords:
 - vbaol11.chm2988
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem Object (Outlook)
+# AppointmentItem object (Outlook)
 
 Represents a meeting, a one-time appointment, or a recurring appointment or meeting in the Calendar folder.
 

@@ -1,5 +1,5 @@
 ---
-title: Attachments.Count Property (Outlook)
+title: Attachments.Count property (Outlook)
 keywords: vbaol11.chm174
 f1_keywords:
 - vbaol11.chm174
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Count Property (Outlook)
+# Attachments.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

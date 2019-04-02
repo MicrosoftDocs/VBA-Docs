@@ -1,5 +1,5 @@
 ---
-title: ContactItem.IsConflict Property (Outlook)
+title: ContactItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1087
 f1_keywords:
 - vbaol11.chm1087
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.IsConflict Property (Outlook)
+# ContactItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 

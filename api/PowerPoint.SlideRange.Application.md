@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Application Property (PowerPoint)
+title: SlideRange.Application property (PowerPoint)
 keywords: vbapp10.chm532001
 f1_keywords:
 - vbapp10.chm532001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Application Property (PowerPoint)
+# SlideRange.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.AttachmentAdd Event (Outlook)
+title: MeetingItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.AttachmentAdd Event (Outlook)
+# MeetingItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 

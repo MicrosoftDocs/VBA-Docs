@@ -1,5 +1,5 @@
 ---
-title: Rules.Save Method (Outlook)
+title: Rules.Save method (Outlook)
 keywords: vbaol11.chm2161
 f1_keywords:
 - vbaol11.chm2161
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rules.Save Method (Outlook)
+# Rules.Save method (Outlook)
 
 Saves all rules in the  **[Rules](Outlook.Rules.md)** collection.
 

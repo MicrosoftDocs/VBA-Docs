@@ -1,5 +1,5 @@
 ---
-title: Explorer.Class Property (Outlook)
+title: Explorer.Class property (Outlook)
 keywords: vbaol11.chm2758
 f1_keywords:
 - vbaol11.chm2758
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Class Property (Outlook)
+# Explorer.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandEffect.bookmark Property (PowerPoint)
+title: CommandEffect.bookmark property (PowerPoint)
 keywords: vbapp10.chm668005
 f1_keywords:
 - vbapp10.chm668005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CommandEffect.bookmark Property (PowerPoint)
+# CommandEffect.bookmark property (PowerPoint)
 
 Sets or returns the bookmark of the specified object. Read/write.
 

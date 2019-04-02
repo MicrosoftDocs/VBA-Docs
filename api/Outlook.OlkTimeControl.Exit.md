@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Exit Event (Outlook)
+title: OlkTimeControl.Exit event (Outlook)
 keywords: vbaol11.chm1000407
 f1_keywords:
 - vbaol11.chm1000407
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Exit Event (Outlook)
+# OlkTimeControl.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.HasInkXML Property (PowerPoint)
+title: Shape.HasInkXML property (PowerPoint)
 ms.assetid: 3d985f9b-64e3-8712-fd5f-73d38ca56810
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.HasInkXML Property (PowerPoint)
+# Shape.HasInkXML property (PowerPoint)
 
 Returns an [MsoTriState](Office.MsoTriState.md) enumeration value that indicates whether the specified shape contains ink XML that can be retrieved via the [Shape.InkXML](PowerPoint.shape.inkxml.md) property. Read-only.
 

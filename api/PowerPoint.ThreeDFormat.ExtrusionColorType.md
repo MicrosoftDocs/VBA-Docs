@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ExtrusionColorType Property (PowerPoint)
+title: ThreeDFormat.ExtrusionColorType property (PowerPoint)
 keywords: vbapp10.chm557009
 f1_keywords:
 - vbapp10.chm557009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ExtrusionColorType Property (PowerPoint)
+# ThreeDFormat.ExtrusionColorType property (PowerPoint)
 
 Returns or sets a value that indicates whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Read/write.
 

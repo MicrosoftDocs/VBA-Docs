@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.DisplayType Property (Outlook)
+title: ExchangeDistributionList.DisplayType property (Outlook)
 keywords: vbaol11.chm2113
 f1_keywords:
 - vbaol11.chm2113
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.DisplayType Property (Outlook)
+# ExchangeDistributionList.DisplayType property (Outlook)
 
 Returns  **olDistList** which is a constant from the **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration representing the nature of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read-only.
 

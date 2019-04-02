@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MailingAddressCity Property (Outlook)
+title: ContactItem.MailingAddressCity property (Outlook)
 keywords: vbaol11.chm1035
 f1_keywords:
 - vbaol11.chm1035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MailingAddressCity Property (Outlook)
+# ContactItem.MailingAddressCity property (Outlook)
 
 Returns or sets a  **String** representing the city name portion of the selected mailing address of the contact. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Stores.Item Method (Outlook)
+title: Stores.Item method (Outlook)
 keywords: vbaol11.chm819
 f1_keywords:
 - vbaol11.chm819
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Stores.Item Method (Outlook)
+# Stores.Item method (Outlook)
 
 Returns a  **[Store](Outlook.Store.md)** object that is specified by _Index_ . Read-only.
 

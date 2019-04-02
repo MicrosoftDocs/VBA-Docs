@@ -1,5 +1,5 @@
 ---
-title: Timing.Accelerate Property (PowerPoint)
+title: Timing.Accelerate property (PowerPoint)
 keywords: vbapp10.chm653010
 f1_keywords:
 - vbapp10.chm653010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Timing.Accelerate Property (PowerPoint)
+# Timing.Accelerate property (PowerPoint)
 
 Returns or sets the percentage of the duration over which a timing acceleration should take place. Read/write.
 

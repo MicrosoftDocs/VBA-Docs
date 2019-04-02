@@ -28,6 +28,6 @@ Indicates a user's availability.
 
 ## Remarks
 
-The user's availability is based on scheduled appointments. See [AppointmentItem.BusyStatus Property (Outlook)](Outlook.AppointmentItem.BusyStatus.md).
+The user's availability is based on scheduled appointments. See [AppointmentItem.BusyStatus property (Outlook)](Outlook.AppointmentItem.BusyStatus.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

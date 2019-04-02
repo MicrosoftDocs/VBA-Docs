@@ -1,5 +1,5 @@
 ---
-title: ConversationHeader Object (Outlook)
+title: ConversationHeader object (Outlook)
 keywords: vbaol11.chm3549
 f1_keywords:
 - vbaol11.chm3549
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConversationHeader Object (Outlook)
+# ConversationHeader object (Outlook)
 
 Represents a Microsoft Outlook conversation header in a Conversation view.
 

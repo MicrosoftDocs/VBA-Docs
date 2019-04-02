@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection.Parent Property (Outlook)
+title: AttachmentSelection.Parent property (Outlook)
 keywords: vbaol11.chm2942
 f1_keywords:
 - vbaol11.chm2942
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AttachmentSelection.Parent Property (Outlook)
+# AttachmentSelection.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

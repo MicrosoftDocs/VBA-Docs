@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetGlobalAddressList Method (Outlook)
+title: NameSpace.GetGlobalAddressList method (Outlook)
 keywords: vbaol11.chm785
 f1_keywords:
 - vbaol11.chm785
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.GetGlobalAddressList Method (Outlook)
+# NameSpace.GetGlobalAddressList method (Outlook)
 
 Returns an  **[AddressList](Outlook.AddressList.md)** object that represents the Exchange Global Address List.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindows Property (PowerPoint)
+title: Application.ProtectedViewWindows property (PowerPoint)
 keywords: vbapp10.chm502064
 f1_keywords:
 - vbapp10.chm502064
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindows Property (PowerPoint)
+# Application.ProtectedViewWindows property (PowerPoint)
 
 Returns a  **[ProtectedViewWindows](PowerPoint.ProtectedViewWindows.md)** collection that represents all the **Protected View** windows that are open in the application. Read-only
 

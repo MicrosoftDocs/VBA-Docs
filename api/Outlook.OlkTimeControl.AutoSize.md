@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.AutoSize Property (Outlook)
+title: OlkTimeControl.AutoSize property (Outlook)
 keywords: vbaol11.chm1000378
 f1_keywords:
 - vbaol11.chm1000378
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.AutoSize Property (Outlook)
+# OlkTimeControl.AutoSize property (Outlook)
 
 Returns or sets a  **Boolean** that automatically sizes the control to display the entire contents. Read/write.
 

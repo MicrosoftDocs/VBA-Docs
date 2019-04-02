@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox Object (Outlook)
+title: OlkCheckBox object (Outlook)
 keywords: vbaol11.chm1000162
 f1_keywords:
 - vbaol11.chm1000162
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox Object (Outlook)
+# OlkCheckBox object (Outlook)
 
 A control that supports one or more selections in a defined group of check box choices.
 

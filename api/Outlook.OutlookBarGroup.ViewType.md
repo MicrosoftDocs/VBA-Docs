@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroup.ViewType Property (Outlook)
+title: OutlookBarGroup.ViewType property (Outlook)
 keywords: vbaol11.chm327
 f1_keywords:
 - vbaol11.chm327
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroup.ViewType Property (Outlook)
+# OutlookBarGroup.ViewType property (Outlook)
 
 Returns or sets an  **[OlOutlookBarViewType](Outlook.OlOutlookBarViewType.md)** constant representing the view type of an **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object. Read/write.
 

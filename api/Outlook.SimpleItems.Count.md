@@ -1,5 +1,5 @@
 ---
-title: SimpleItems.Count Property (Outlook)
+title: SimpleItems.Count property (Outlook)
 keywords: vbaol11.chm3397
 f1_keywords:
 - vbaol11.chm3397
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SimpleItems.Count Property (Outlook)
+# SimpleItems.Count property (Outlook)
 
 Returns a  **Long** that indicates the count of objects in the **[SimpleItems](Outlook.SimpleItems.md)** collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto Object (Outlook)
+title: OlkContactPhoto object (Outlook)
 keywords: vbaol11.chm1000322
 f1_keywords:
 - vbaol11.chm1000322
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto Object (Outlook)
+# OlkContactPhoto object (Outlook)
 
 A control that shows the contact picture for a contact item if a contact picture has been defined, or the contact picture button if no contact picture has been assigned. 
 

@@ -1,5 +1,5 @@
 ---
-title: Row.BinaryToString Method (Outlook)
+title: Row.BinaryToString method (Outlook)
 keywords: vbaol11.chm2243
 f1_keywords:
 - vbaol11.chm2243
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.BinaryToString Method (Outlook)
+# Row.BinaryToString method (Outlook)
 
 Obtains a  **String** representing a value that has been converted from a binary value for the parent **[Row](Outlook.Row.md)** at the column specified by _Index_ .
 

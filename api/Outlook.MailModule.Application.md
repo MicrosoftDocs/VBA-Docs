@@ -1,5 +1,5 @@
 ---
-title: MailModule.Application Property (Outlook)
+title: MailModule.Application property (Outlook)
 keywords: vbaol11.chm2812
 f1_keywords:
 - vbaol11.chm2812
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailModule.Application Property (Outlook)
+# MailModule.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

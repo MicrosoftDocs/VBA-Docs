@@ -1,5 +1,5 @@
 ---
-title: Shape.Table Property (PowerPoint)
+title: Shape.Table property (PowerPoint)
 keywords: vbapp10.chm547060
 f1_keywords:
 - vbapp10.chm547060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Table Property (PowerPoint)
+# Shape.Table property (PowerPoint)
 
 Returns a  **[Table](PowerPoint.Table.md)** object that represents a table in a shape or in a shape range. Read-only.
 

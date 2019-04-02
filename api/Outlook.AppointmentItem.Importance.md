@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Importance Property (Outlook)
+title: AppointmentItem.Importance property (Outlook)
 keywords: vbaol11.chm854
 f1_keywords:
 - vbaol11.chm854
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Importance Property (Outlook)
+# AppointmentItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 

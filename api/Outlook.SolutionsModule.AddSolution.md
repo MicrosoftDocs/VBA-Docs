@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule.AddSolution Method (Outlook)
+title: SolutionsModule.AddSolution method (Outlook)
 keywords: vbaol11.chm3368
 f1_keywords:
 - vbaol11.chm3368
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SolutionsModule.AddSolution Method (Outlook)
+# SolutionsModule.AddSolution method (Outlook)
 
 Adds a solution root folder and its subfolders to the  **Solutions** module.
 

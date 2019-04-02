@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Dial Method (Outlook)
+title: NameSpace.Dial method (Outlook)
 keywords: vbaol11.chm774
 f1_keywords:
 - vbaol11.chm774
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Dial Method (Outlook)
+# NameSpace.Dial method (Outlook)
 
 Displays the  **New Call** dialog box that allows users to dial the primary phone number of a specified contact.
 

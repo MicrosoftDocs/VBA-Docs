@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Application Property (Outlook)
+title: Conflicts.Application property (Outlook)
 keywords: vbaol11.chm400
 f1_keywords:
 - vbaol11.chm400
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflicts.Application Property (Outlook)
+# Conflicts.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

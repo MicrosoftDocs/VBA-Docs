@@ -1,5 +1,5 @@
 ---
-title: DataLabel.FormulaR1C1Local Property (PowerPoint)
+title: DataLabel.FormulaR1C1Local property (PowerPoint)
 keywords: vbapp10.chm696008
 f1_keywords:
 - vbapp10.chm696008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.FormulaR1C1Local Property (PowerPoint)
+# DataLabel.FormulaR1C1Local property (PowerPoint)
 
 Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **String**.
 

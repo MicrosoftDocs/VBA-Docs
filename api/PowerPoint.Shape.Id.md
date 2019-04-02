@@ -1,5 +1,5 @@
 ---
-title: Shape.Id Property (PowerPoint)
+title: Shape.Id property (PowerPoint)
 keywords: vbapp10.chm547069
 f1_keywords:
 - vbapp10.chm547069
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Id Property (PowerPoint)
+# Shape.Id property (PowerPoint)
 
 Returns a  **Long** that identifies the shape or range of shapes. Read-only.
 

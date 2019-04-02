@@ -1,5 +1,5 @@
 ---
-title: Inspector.BeforeMinimize Event (Outlook)
+title: Inspector.BeforeMinimize event (Outlook)
 keywords: vbaol11.chm469
 f1_keywords:
 - vbaol11.chm469
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.BeforeMinimize Event (Outlook)
+# Inspector.BeforeMinimize event (Outlook)
 
 Occurs when the active inspector is minimized by the user.
 

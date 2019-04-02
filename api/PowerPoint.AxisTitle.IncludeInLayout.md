@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.IncludeInLayout Property (PowerPoint)
+title: AxisTitle.IncludeInLayout property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.IncludeInLayout
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.IncludeInLayout Property (PowerPoint)
+# AxisTitle.IncludeInLayout property (PowerPoint)
 
  **True** if an axis title will occupy the chart layout space when a chart layout is being determined. The default is **True**. Read/write **Boolean**.
 

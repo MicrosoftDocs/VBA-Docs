@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontName Property (PowerPoint)
+title: TextEffectFormat.FontName property (PowerPoint)
 keywords: vbapp10.chm556006
 f1_keywords:
 - vbapp10.chm556006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontName Property (PowerPoint)
+# TextEffectFormat.FontName property (PowerPoint)
 
 Returns or sets the name of the font in the specified WordArt. Read/write.
 

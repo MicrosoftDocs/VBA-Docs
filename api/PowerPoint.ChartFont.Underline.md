@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Underline Property (PowerPoint)
+title: ChartFont.Underline property (PowerPoint)
 keywords: vbapp10.chm704014
 f1_keywords:
 - vbapp10.chm704014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Underline Property (PowerPoint)
+# ChartFont.Underline property (PowerPoint)
 
 Returns or sets the type of underline applied to the font. Can be one of the  **[xlUnderlineStyle](PowerPoint.XlUnderlineStyle.md)** constants. Read/write **Variant**.
 

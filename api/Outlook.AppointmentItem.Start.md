@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Start Property (Outlook)
+title: AppointmentItem.Start property (Outlook)
 keywords: vbaol11.chm902
 f1_keywords:
 - vbaol11.chm902
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Start Property (Outlook)
+# AppointmentItem.Start property (Outlook)
 
 Returns or sets a  **Date** indicating the starting date and time for the Outlook item. Read/write.
 

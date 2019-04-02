@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.Value Property (Outlook)
+title: OlkOptionButton.Value property (Outlook)
 keywords: vbaol11.chm1000175
 f1_keywords:
 - vbaol11.chm1000175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.Value Property (Outlook)
+# OlkOptionButton.Value property (Outlook)
 
 Returns or sets a  **Variant** that represents the state of the control. Read/write.
 

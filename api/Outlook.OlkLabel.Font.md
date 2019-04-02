@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.Font Property (Outlook)
+title: OlkLabel.Font property (Outlook)
 keywords: vbaol11.chm1000093
 f1_keywords:
 - vbaol11.chm1000093
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkLabel.Font Property (Outlook)
+# OlkLabel.Font property (Outlook)
 
 Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
 

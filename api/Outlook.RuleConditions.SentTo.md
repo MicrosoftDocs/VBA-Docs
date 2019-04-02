@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.SentTo Property (Outlook)
+title: RuleConditions.SentTo property (Outlook)
 keywords: vbaol11.chm2321
 f1_keywords:
 - vbaol11.chm2321
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.SentTo Property (Outlook)
+# RuleConditions.SentTo property (Outlook)
 
 Returns a  **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object with a **[ToOrFromRuleCondition.ConditionType](Outlook.ToOrFromRuleCondition.ConditionType.md)** of **olConditionSentTo**. Read-only.
 

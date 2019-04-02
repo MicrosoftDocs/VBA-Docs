@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ColorType Property (PowerPoint)
+title: PictureFormat.ColorType property (PowerPoint)
 keywords: vbapp10.chm551005
 f1_keywords:
 - vbapp10.chm551005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.ColorType Property (PowerPoint)
+# PictureFormat.ColorType property (PowerPoint)
 
 Returns or sets the type of color transformation applied to the specified picture or OLE object. Read/write.
 

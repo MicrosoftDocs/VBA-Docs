@@ -1,5 +1,5 @@
 ---
-title: TimeZones.Application Property (Outlook)
+title: TimeZones.Application property (Outlook)
 keywords: vbaol11.chm3291
 f1_keywords:
 - vbaol11.chm3291
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZones.Application Property (Outlook)
+# TimeZones.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

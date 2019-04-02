@@ -1,5 +1,5 @@
 ---
-title: FormRegionStartup.GetFormRegionStorage Method (Outlook)
+title: FormRegionStartup.GetFormRegionStorage method (Outlook)
 keywords: vbaol11.chm2946
 f1_keywords:
 - vbaol11.chm2946
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegionStartup.GetFormRegionStorage Method (Outlook)
+# FormRegionStartup.GetFormRegionStorage method (Outlook)
 
 Obtains appropriate storage for a form region based on the specified information.
 

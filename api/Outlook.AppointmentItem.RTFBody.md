@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.RTFBody Property (Outlook)
+title: AppointmentItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3524
 f1_keywords:
 - vbaol11.chm3524
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.RTFBody Property (Outlook)
+# AppointmentItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 

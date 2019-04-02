@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Application Property (PowerPoint)
+title: HeadersFooters.Application property (PowerPoint)
 keywords: vbapp10.chm542001
 f1_keywords:
 - vbapp10.chm542001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeadersFooters.Application Property (PowerPoint)
+# HeadersFooters.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

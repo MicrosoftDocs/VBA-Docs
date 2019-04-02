@@ -1,5 +1,5 @@
 ---
-title: Point.Width Property (PowerPoint)
+title: Point.Width property (PowerPoint)
 keywords: vbapp10.chm714008
 f1_keywords:
 - vbapp10.chm714008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Width Property (PowerPoint)
+# Point.Width property (PowerPoint)
 
 Returns the width, in points, of the object. Read-only.
 

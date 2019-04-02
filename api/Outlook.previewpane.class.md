@@ -1,5 +1,5 @@
 ---
-title: PreviewPane.Class Property (Outlook)
+title: PreviewPane.Class property (Outlook)
 keywords: vbaol11.chm3635
 f1_keywords:
 - vbaol11.chm3635
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PreviewPane.Class Property (Outlook)
+# PreviewPane.Class property (Outlook)
 
 Returns a constant in the [OlObjectClass](Outlook.OlObjectClass.md) enumeration indicating the class of the [PreviewPane](Outlook.previewpane.md) Object. Read-only.
 
@@ -26,6 +26,6 @@ _expression_ A variable that represents a 'PreviewPane' object.
 
 
 
-[PreviewPane Object (Outlook)](Outlook.previewpane.md)
+[PreviewPane object (Outlook)](Outlook.previewpane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

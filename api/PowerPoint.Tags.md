@@ -1,5 +1,5 @@
 ---
-title: Tags Object (PowerPoint)
+title: Tags object (PowerPoint)
 keywords: vbapp10.chm611000
 f1_keywords:
 - vbapp10.chm611000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags Object (PowerPoint)
+# Tags object (PowerPoint)
 
 Represents a tag or a custom property that you can create for a shape, slide, or presentation. 
 

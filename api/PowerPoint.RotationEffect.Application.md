@@ -1,5 +1,5 @@
 ---
-title: RotationEffect.Application Property (PowerPoint)
+title: RotationEffect.Application property (PowerPoint)
 keywords: vbapp10.chm661001
 f1_keywords:
 - vbapp10.chm661001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RotationEffect.Application Property (PowerPoint)
+# RotationEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

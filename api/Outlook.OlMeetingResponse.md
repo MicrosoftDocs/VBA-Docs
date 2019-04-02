@@ -26,6 +26,6 @@ Indicates the response to a meeting request.
 
 ## Remarks
 
-See [MeetingItem Object (Outlook)](Outlook.MeetingItem.md).
+See [MeetingItem object (Outlook)](Outlook.MeetingItem.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

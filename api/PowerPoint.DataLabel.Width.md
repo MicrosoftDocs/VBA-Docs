@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Width Property (PowerPoint)
+title: DataLabel.Width property (PowerPoint)
 keywords: vbapp10.chm696004
 f1_keywords:
 - vbapp10.chm696004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Width Property (PowerPoint)
+# DataLabel.Width property (PowerPoint)
 
 Returns the width, in points, of the object. Read-only.
 

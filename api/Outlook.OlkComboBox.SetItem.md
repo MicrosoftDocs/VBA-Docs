@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.SetItem Method (Outlook)
+title: OlkComboBox.SetItem method (Outlook)
 keywords: vbaol11.chm1000225
 f1_keywords:
 - vbaol11.chm1000225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.SetItem Method (Outlook)
+# OlkComboBox.SetItem method (Outlook)
 
 Sets the item at the specified location in the list of the combo box to the specified value.
 

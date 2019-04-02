@@ -1,5 +1,5 @@
 ---
-title: SharingItem.AddBusinessCard Method (Outlook)
+title: SharingItem.AddBusinessCard method (Outlook)
 keywords: vbaol11.chm3217
 f1_keywords:
 - vbaol11.chm3217
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.AddBusinessCard Method (Outlook)
+# SharingItem.AddBusinessCard method (Outlook)
 
 Appends contact information based on the Electronic Business Card (EBC) associated with the specified  **[ContactItem](Outlook.ContactItem.md)** object to the **[SharingItem](Outlook.SharingItem.md)** object.
 

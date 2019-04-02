@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.CopyTo Method (Outlook)
+title: AppointmentItem.CopyTo method (Outlook)
 keywords: vbaol11.chm3517
 f1_keywords:
 - vbaol11.chm3517
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.CopyTo Method (Outlook)
+# AppointmentItem.CopyTo method (Outlook)
 
 Copies the  **[AppointmentItem](Outlook.AppointmentItem.md)** to the folder that is specified by the _DestinationFolder_ parameter and returns an object that represents the item created in the destination folder by the copy operation.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Body Property (Outlook)
+title: ContactItem.Body property (Outlook)
 keywords: vbaol11.chm933
 f1_keywords:
 - vbaol11.chm933
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Body Property (Outlook)
+# ContactItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.ShowCategoriesDialog Method (Outlook)
+title: TaskRequestDeclineItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1860
 f1_keywords:
 - vbaol11.chm1860
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.ShowCategoriesDialog Method (Outlook)
+# TaskRequestDeclineItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 

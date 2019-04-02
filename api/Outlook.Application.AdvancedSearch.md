@@ -1,5 +1,5 @@
 ---
-title: Application.AdvancedSearch Method (Outlook)
+title: Application.AdvancedSearch method (Outlook)
 keywords: vbaol11.chm728
 f1_keywords:
 - vbaol11.chm728
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AdvancedSearch Method (Outlook)
+# Application.AdvancedSearch method (Outlook)
 
 Performs a search based on a specified DAV Searching and Locating (DASL) search string.
 

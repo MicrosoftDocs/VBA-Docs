@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.PresentationElapsedTime Property (PowerPoint)
+title: SlideShowView.PresentationElapsedTime property (PowerPoint)
 keywords: vbapp10.chm513008
 f1_keywords:
 - vbapp10.chm513008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.PresentationElapsedTime Property (PowerPoint)
+# SlideShowView.PresentationElapsedTime property (PowerPoint)
 
 Returns the number of seconds that have elapsed since the beginning of the specified slide show. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroup.Session Property (Outlook)
+title: OutlookBarGroup.Session property (Outlook)
 keywords: vbaol11.chm323
 f1_keywords:
 - vbaol11.chm323
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroup.Session Property (Outlook)
+# OutlookBarGroup.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

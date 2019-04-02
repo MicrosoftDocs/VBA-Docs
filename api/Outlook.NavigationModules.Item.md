@@ -1,5 +1,5 @@
 ---
-title: NavigationModules.Item Method (Outlook)
+title: NavigationModules.Item method (Outlook)
 keywords: vbaol11.chm2800
 f1_keywords:
 - vbaol11.chm2800
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModules.Item Method (Outlook)
+# NavigationModules.Item method (Outlook)
 
 Returns a  **[NavigationModule](Outlook.NavigationModule.md)** object from the collection.
 

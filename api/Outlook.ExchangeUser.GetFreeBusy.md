@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.GetFreeBusy Method (Outlook)
+title: ExchangeUser.GetFreeBusy method (Outlook)
 keywords: vbaol11.chm2075
 f1_keywords:
 - vbaol11.chm2075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.GetFreeBusy Method (Outlook)
+# ExchangeUser.GetFreeBusy method (Outlook)
 
 Obtains a  **String** representing the availability of the **[ExchangeUser](Outlook.ExchangeUser.md)** for a period of 30 days from the start date, beginning at midnight of the date specified.
 

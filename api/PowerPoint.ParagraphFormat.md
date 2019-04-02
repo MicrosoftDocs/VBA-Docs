@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat Object (PowerPoint)
+title: ParagraphFormat object (PowerPoint)
 keywords: vbapp10.chm576000
 f1_keywords:
 - vbapp10.chm576000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat Object (PowerPoint)
+# ParagraphFormat object (PowerPoint)
 
 Represents the paragraph formatting of a text range.
 

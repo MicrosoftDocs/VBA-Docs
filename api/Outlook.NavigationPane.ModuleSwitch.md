@@ -1,5 +1,5 @@
 ---
-title: NavigationPane.ModuleSwitch Event (Outlook)
+title: NavigationPane.ModuleSwitch event (Outlook)
 keywords: vbaol11.chm2911
 f1_keywords:
 - vbaol11.chm2911
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationPane.ModuleSwitch Event (Outlook)
+# NavigationPane.ModuleSwitch event (Outlook)
 
 Occurs after the selection changes for a navigation module in the  **[NavigationModules](Outlook.NavigationModules.md)** collection of the **[NavigationPane](Outlook.NavigationPane.md)** object.
 

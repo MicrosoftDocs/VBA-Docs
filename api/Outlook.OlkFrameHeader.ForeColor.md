@@ -1,5 +1,5 @@
 ---
-title: OlkFrameHeader.ForeColor Property (Outlook)
+title: OlkFrameHeader.ForeColor property (Outlook)
 keywords: vbaol11.chm1000464
 f1_keywords:
 - vbaol11.chm1000464
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkFrameHeader.ForeColor Property (Outlook)
+# OlkFrameHeader.ForeColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: AddIn Object (PowerPoint)
+title: AddIn object (PowerPoint)
 keywords: vbapp10.chm521000
 f1_keywords:
 - vbapp10.chm521000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIn Object (PowerPoint)
+# AddIn object (PowerPoint)
 
 Represents a single add-in, either loaded or not loaded. 
 

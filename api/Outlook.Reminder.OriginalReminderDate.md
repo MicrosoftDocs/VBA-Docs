@@ -1,5 +1,5 @@
 ---
-title: Reminder.OriginalReminderDate Property (Outlook)
+title: Reminder.OriginalReminderDate property (Outlook)
 keywords: vbaol11.chm564
 f1_keywords:
 - vbaol11.chm564
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.OriginalReminderDate Property (Outlook)
+# Reminder.OriginalReminderDate property (Outlook)
 
 Returns a  **Date** that specifies the original date and time that the specified reminder is set to occur. Read-only.
 

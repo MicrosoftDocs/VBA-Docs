@@ -1,5 +1,5 @@
 ---
-title: TimelineView.SaveOption Property (Outlook)
+title: TimelineView.SaveOption property (Outlook)
 keywords: vbaol11.chm2654
 f1_keywords:
 - vbaol11.chm2654
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.SaveOption Property (Outlook)
+# TimelineView.SaveOption property (Outlook)
 
 Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 

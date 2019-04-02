@@ -1,5 +1,5 @@
 ---
-title: View.Application Property (Outlook)
+title: View.Application property (Outlook)
 keywords: vbaol11.chm2480
 f1_keywords:
 - vbaol11.chm2480
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Application Property (Outlook)
+# View.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Class Property (Outlook)
+title: TimelineView.Class property (Outlook)
 keywords: vbaol11.chm2643
 f1_keywords:
 - vbaol11.chm2643
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Class Property (Outlook)
+# TimelineView.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

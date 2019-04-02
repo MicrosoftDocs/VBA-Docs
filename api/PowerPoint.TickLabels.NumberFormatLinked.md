@@ -1,5 +1,5 @@
 ---
-title: TickLabels.NumberFormatLinked Property (PowerPoint)
+title: TickLabels.NumberFormatLinked property (PowerPoint)
 keywords: vbapp10.chm719006
 f1_keywords:
 - vbapp10.chm719006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.NumberFormatLinked Property (PowerPoint)
+# TickLabels.NumberFormatLinked property (PowerPoint)
 
  **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: NameSpace.OpenSharedFolder Method (Outlook)
+title: NameSpace.OpenSharedFolder method (Outlook)
 keywords: vbaol11.chm788
 f1_keywords:
 - vbaol11.chm788
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.OpenSharedFolder Method (Outlook)
+# NameSpace.OpenSharedFolder method (Outlook)
 
 Opens a shared folder referenced through a URL or file name.
 

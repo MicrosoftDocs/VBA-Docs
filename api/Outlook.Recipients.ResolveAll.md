@@ -1,5 +1,5 @@
 ---
-title: Recipients.ResolveAll Method (Outlook)
+title: Recipients.ResolveAll method (Outlook)
 keywords: vbaol11.chm234
 f1_keywords:
 - vbaol11.chm234
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipients.ResolveAll Method (Outlook)
+# Recipients.ResolveAll method (Outlook)
 
 Attempts to resolve all the  **[Recipient](Outlook.Recipient.md)** objects in the **[Recipients](Outlook.Recipients.md)** collection against the Address Book.
 

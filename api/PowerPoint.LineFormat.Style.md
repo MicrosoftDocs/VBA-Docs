@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Style Property (PowerPoint)
+title: LineFormat.Style property (PowerPoint)
 keywords: vbapp10.chm553012
 f1_keywords:
 - vbapp10.chm553012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Style Property (PowerPoint)
+# LineFormat.Style property (PowerPoint)
 
 Returns or sets the line style. Read/write.
 

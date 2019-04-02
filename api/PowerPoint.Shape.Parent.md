@@ -1,5 +1,5 @@
 ---
-title: Shape.Parent Property (PowerPoint)
+title: Shape.Parent property (PowerPoint)
 keywords: vbapp10.chm547001
 f1_keywords:
 - vbapp10.chm547001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Parent Property (PowerPoint)
+# Shape.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

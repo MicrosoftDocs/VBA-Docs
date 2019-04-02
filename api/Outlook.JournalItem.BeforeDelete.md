@@ -1,5 +1,5 @@
 ---
-title: JournalItem.BeforeDelete Event (Outlook)
+title: JournalItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.BeforeDelete Event (Outlook)
+# JournalItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 

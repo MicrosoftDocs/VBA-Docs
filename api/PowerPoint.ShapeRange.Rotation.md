@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Rotation Property (PowerPoint)
+title: ShapeRange.Rotation property (PowerPoint)
 keywords: vbapp10.chm548031
 f1_keywords:
 - vbapp10.chm548031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Rotation Property (PowerPoint)
+# ShapeRange.Rotation property (PowerPoint)
 
 Returns or sets the number of degrees the specified shape is rotated around the z-axis. Read/write.
 

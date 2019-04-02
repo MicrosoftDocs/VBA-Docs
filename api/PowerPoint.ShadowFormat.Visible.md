@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Visible Property (PowerPoint)
+title: ShadowFormat.Visible property (PowerPoint)
 keywords: vbapp10.chm554010
 f1_keywords:
 - vbapp10.chm554010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Visible Property (PowerPoint)
+# ShadowFormat.Visible property (PowerPoint)
 
 Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Open Event (Outlook)
+title: TaskRequestAcceptItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Open Event (Outlook)
+# TaskRequestAcceptItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: Folder.IsSharePointFolder Property (Outlook)
+title: Folder.IsSharePointFolder property (Outlook)
 keywords: vbaol11.chm2014
 f1_keywords:
 - vbaol11.chm2014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.IsSharePointFolder Property (Outlook)
+# Folder.IsSharePointFolder property (Outlook)
 
 Returns a  **Boolean** that determines if the folder is a Microsoft SharePoint Foundation folder. Read-only.
 

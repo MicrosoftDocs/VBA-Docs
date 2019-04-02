@@ -1,5 +1,5 @@
 ---
-title: Sequences.Application Property (PowerPoint)
+title: Sequences.Application property (PowerPoint)
 keywords: vbapp10.chm650001
 f1_keywords:
 - vbapp10.chm650001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequences.Application Property (PowerPoint)
+# Sequences.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

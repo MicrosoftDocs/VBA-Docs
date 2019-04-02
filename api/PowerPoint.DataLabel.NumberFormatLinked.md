@@ -1,5 +1,5 @@
 ---
-title: DataLabel.NumberFormatLinked Property (PowerPoint)
+title: DataLabel.NumberFormatLinked property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.NumberFormatLinked
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.NumberFormatLinked Property (PowerPoint)
+# DataLabel.NumberFormatLinked property (PowerPoint)
 
  **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean**.
 

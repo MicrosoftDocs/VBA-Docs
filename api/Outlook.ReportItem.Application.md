@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Application Property (Outlook)
+title: ReportItem.Application property (Outlook)
 keywords: vbaol11.chm1634
 f1_keywords:
 - vbaol11.chm1634
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Application Property (Outlook)
+# ReportItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

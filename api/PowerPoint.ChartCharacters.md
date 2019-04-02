@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters Object (PowerPoint)
+title: ChartCharacters object (PowerPoint)
 keywords: vbapp10.chm686000
 f1_keywords:
 - vbapp10.chm686000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCharacters Object (PowerPoint)
+# ChartCharacters object (PowerPoint)
 
 Represents characters in an object that contains text. 
 

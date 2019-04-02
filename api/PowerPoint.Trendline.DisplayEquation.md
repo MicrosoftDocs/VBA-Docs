@@ -1,5 +1,5 @@
 ---
-title: Trendline.DisplayEquation Property (PowerPoint)
+title: Trendline.DisplayEquation property (PowerPoint)
 keywords: vbapp10.chm65726
 f1_keywords:
 - vbapp10.chm65726
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.DisplayEquation Property (PowerPoint)
+# Trendline.DisplayEquation property (PowerPoint)
 
  **True** if the equation for the trendline is displayed on the chart (in the same data label as the R-squared value). Read/write **Boolean**.
 

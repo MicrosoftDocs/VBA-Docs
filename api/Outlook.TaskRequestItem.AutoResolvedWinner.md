@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.AutoResolvedWinner Property (Outlook)
+title: TaskRequestItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1913
 f1_keywords:
 - vbaol11.chm1913
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.AutoResolvedWinner Property (Outlook)
+# TaskRequestItem.AutoResolvedWinner property (Outlook)
 
 Returns a  **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
 

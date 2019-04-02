@@ -1,5 +1,5 @@
 ---
-title: OlkPageControl Object (Outlook)
+title: OlkPageControl object (Outlook)
 keywords: vbaol11.chm1000339
 f1_keywords:
 - vbaol11.chm1000339
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkPageControl Object (Outlook)
+# OlkPageControl object (Outlook)
 
 A control that displays the contents of a page.
 

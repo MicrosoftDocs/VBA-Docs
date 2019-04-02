@@ -1,5 +1,5 @@
 ---
-title: PostItem.BodyFormat Property (Outlook)
+title: PostItem.BodyFormat property (Outlook)
 keywords: vbaol11.chm1558
 f1_keywords:
 - vbaol11.chm1558
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.BodyFormat Property (Outlook)
+# PostItem.BodyFormat property (Outlook)
 
 Returns or sets an  **[OlBodyFormat](Outlook.OlBodyFormat.md)** constant indicating the format of the body text. Read/write.
 

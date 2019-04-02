@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowAxisFieldButtons Property (PowerPoint)
+title: Chart.ShowAxisFieldButtons property (PowerPoint)
 keywords: vbapp10.chm684051
 f1_keywords:
 - vbapp10.chm684051
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ShowAxisFieldButtons Property (PowerPoint)
+# Chart.ShowAxisFieldButtons property (PowerPoint)
 
 Returns or sets a value that indicates whether to display axis field buttons on a PivotChart. Read/write
 

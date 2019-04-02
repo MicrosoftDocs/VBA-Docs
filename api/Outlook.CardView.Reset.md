@@ -1,5 +1,5 @@
 ---
-title: CardView.Reset Method (Outlook)
+title: CardView.Reset method (Outlook)
 keywords: vbaol11.chm2586
 f1_keywords:
 - vbaol11.chm2586
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Reset Method (Outlook)
+# CardView.Reset method (Outlook)
 
 Resets a built-in Microsoft Outlook view to its original settings.
 

@@ -1,5 +1,5 @@
 ---
-title: AssignToCategoryRuleAction.Parent Property (Outlook)
+title: AssignToCategoryRuleAction.Parent property (Outlook)
 keywords: vbaol11.chm2266
 f1_keywords:
 - vbaol11.chm2266
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AssignToCategoryRuleAction.Parent Property (Outlook)
+# AssignToCategoryRuleAction.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Store.IsInstantSearchEnabled Property (Outlook)
+title: Store.IsInstantSearchEnabled property (Outlook)
 keywords: vbaol11.chm3264
 f1_keywords:
 - vbaol11.chm3264
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.IsInstantSearchEnabled Property (Outlook)
+# Store.IsInstantSearchEnabled property (Outlook)
 
 Returns a  **Boolean** that indicates whether Instant Search is enabled and operational on a store. Read-only.
 

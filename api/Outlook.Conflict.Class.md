@@ -1,5 +1,5 @@
 ---
-title: Conflict.Class Property (Outlook)
+title: Conflict.Class property (Outlook)
 keywords: vbaol11.chm412
 f1_keywords:
 - vbaol11.chm412
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflict.Class Property (Outlook)
+# Conflict.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

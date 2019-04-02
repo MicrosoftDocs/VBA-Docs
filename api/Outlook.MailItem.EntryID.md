@@ -1,5 +1,5 @@
 ---
-title: MailItem.EntryID Property (Outlook)
+title: MailItem.EntryID property (Outlook)
 keywords: vbaol11.chm1303
 f1_keywords:
 - vbaol11.chm1303
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.EntryID Property (Outlook)
+# MailItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Parent Property (PowerPoint)
+title: ChartCharacters.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCharacters.Parent Property (PowerPoint)
+# ChartCharacters.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

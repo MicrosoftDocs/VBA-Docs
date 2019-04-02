@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Unload Event (Outlook)
+title: TaskItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Unload Event (Outlook)
+# TaskItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 

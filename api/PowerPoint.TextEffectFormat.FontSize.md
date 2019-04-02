@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontSize Property (PowerPoint)
+title: TextEffectFormat.FontSize property (PowerPoint)
 keywords: vbapp10.chm556007
 f1_keywords:
 - vbapp10.chm556007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontSize Property (PowerPoint)
+# TextEffectFormat.FontSize property (PowerPoint)
 
 Returns or sets the font size for the specified WordArt in points. Read/write.
 

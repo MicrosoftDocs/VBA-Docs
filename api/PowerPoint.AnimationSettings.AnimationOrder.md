@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.AnimationOrder Property (PowerPoint)
+title: AnimationSettings.AnimationOrder property (PowerPoint)
 keywords: vbapp10.chm565007
 f1_keywords:
 - vbapp10.chm565007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.AnimationOrder Property (PowerPoint)
+# AnimationSettings.AnimationOrder property (PowerPoint)
 
 Returns or sets an integer that represents the position of the specified shape within the collection of shapes to be animated. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.Hidden Property (PowerPoint)
+title: SlideShowTransition.Hidden property (PowerPoint)
 keywords: vbapp10.chm539007
 f1_keywords:
 - vbapp10.chm539007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition.Hidden Property (PowerPoint)
+# SlideShowTransition.Hidden property (PowerPoint)
 
 Determines whether the specified slide is hidden during a slide show. Read/write.
 

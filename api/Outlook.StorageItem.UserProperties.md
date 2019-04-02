@@ -1,5 +1,5 @@
 ---
-title: StorageItem.UserProperties Property (Outlook)
+title: StorageItem.UserProperties property (Outlook)
 keywords: vbaol11.chm2149
 f1_keywords:
 - vbaol11.chm2149
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.UserProperties Property (Outlook)
+# StorageItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 

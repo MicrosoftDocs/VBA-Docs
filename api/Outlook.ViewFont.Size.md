@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Size Property (Outlook)
+title: ViewFont.Size property (Outlook)
 keywords: vbaol11.chm2698
 f1_keywords:
 - vbaol11.chm2698
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Size Property (Outlook)
+# ViewFont.Size property (Outlook)
 
 Returns or sets a  **Long** value that represents the size (in points) of the font in the view. Read-only.
 

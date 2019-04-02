@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowWindows Property (PowerPoint)
+title: Application.SlideShowWindows property (PowerPoint)
 keywords: vbapp10.chm502006
 f1_keywords:
 - vbapp10.chm502006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideShowWindows Property (PowerPoint)
+# Application.SlideShowWindows property (PowerPoint)
 
 Returns a  **[SlideShowWindows](PowerPoint.SlideShowWindows.md)** collection that represents all open slide show windows. Read-only.
 

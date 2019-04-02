@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Application Property (Outlook)
+title: TimelineView.Application property (Outlook)
 keywords: vbaol11.chm2642
 f1_keywords:
 - vbaol11.chm2642
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Application Property (Outlook)
+# TimelineView.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

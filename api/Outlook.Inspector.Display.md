@@ -1,5 +1,5 @@
 ---
-title: Inspector.Display Method (Outlook)
+title: Inspector.Display method (Outlook)
 keywords: vbaol11.chm2966
 f1_keywords:
 - vbaol11.chm2966
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Display Method (Outlook)
+# Inspector.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

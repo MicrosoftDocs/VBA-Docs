@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask Object (PowerPoint)
+title: ResampleMediaTask object (PowerPoint)
 keywords: vbapp10.chm727000
 f1_keywords:
 - vbapp10.chm727000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask Object (PowerPoint)
+# ResampleMediaTask object (PowerPoint)
 
 
 

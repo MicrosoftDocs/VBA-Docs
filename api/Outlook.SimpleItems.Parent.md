@@ -1,5 +1,5 @@
 ---
-title: SimpleItems.Parent Property (Outlook)
+title: SimpleItems.Parent property (Outlook)
 keywords: vbaol11.chm3396
 f1_keywords:
 - vbaol11.chm3396
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SimpleItems.Parent Property (Outlook)
+# SimpleItems.Parent property (Outlook)
 
 Returns the parent  **Object** of the **[SimpleItems](Outlook.SimpleItems.md)** object. Read-only.
 

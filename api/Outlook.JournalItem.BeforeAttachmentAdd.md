@@ -1,5 +1,5 @@
 ---
-title: JournalItem.BeforeAttachmentAdd Event (Outlook)
+title: JournalItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeAttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.BeforeAttachmentAdd Event (Outlook)
+# JournalItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ConnectorFormat Property (PowerPoint)
+title: ShapeRange.ConnectorFormat property (PowerPoint)
 keywords: vbapp10.chm548021
 f1_keywords:
 - vbapp10.chm548021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ConnectorFormat Property (PowerPoint)
+# ShapeRange.ConnectorFormat property (PowerPoint)
 
 Returns a  **[ConnectorFormat](PowerPoint.ConnectorFormat.md)** object that contains connector formatting properties. Applies to **Shape** or **ShapeRange** objects that represent connectors. Read-only.
 

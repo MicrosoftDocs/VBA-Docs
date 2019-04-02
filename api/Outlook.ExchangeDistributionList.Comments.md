@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Comments Property (Outlook)
+title: ExchangeDistributionList.Comments property (Outlook)
 keywords: vbaol11.chm2133
 f1_keywords:
 - vbaol11.chm2133
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Comments Property (Outlook)
+# ExchangeDistributionList.Comments property (Outlook)
 
 Returns a  **String** representing the comments for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 

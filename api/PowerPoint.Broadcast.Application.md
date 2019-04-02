@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Application Property (PowerPoint)
+title: Broadcast.Application property (PowerPoint)
 keywords: vbapp10.chm732001
 f1_keywords:
 - vbapp10.chm732001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.Application Property (PowerPoint)
+# Broadcast.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

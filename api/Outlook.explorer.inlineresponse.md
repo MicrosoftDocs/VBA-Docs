@@ -1,5 +1,5 @@
 ---
-title: Explorer.InlineResponse Event (Outlook)
+title: Explorer.InlineResponse event (Outlook)
 keywords: vbaol11.chm3596
 f1_keywords:
 - vbaol11.chm3596
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.InlineResponse Event (Outlook)
+# Explorer.InlineResponse event (Outlook)
 Occurs when the user performs an action that causes an inline response to appear in the Reading Pane.
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Selection.Item Method (Outlook)
+title: Selection.Item method (Outlook)
 keywords: vbaol11.chm86
 f1_keywords:
 - vbaol11.chm86
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Item Method (Outlook)
+# Selection.Item method (Outlook)
 
 Returns a Microsoft Outlook item or conversation header from the selection.
 

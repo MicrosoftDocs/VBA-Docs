@@ -1,5 +1,5 @@
 ---
-title: Folders.GetLast Method (Outlook)
+title: Folders.GetLast method (Outlook)
 keywords: vbaol11.chm48
 f1_keywords:
 - vbaol11.chm48
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.GetLast Method (Outlook)
+# Folders.GetLast method (Outlook)
 
 Returns the last object in the  **[Folders](Outlook.Folders.md)** collection.
 

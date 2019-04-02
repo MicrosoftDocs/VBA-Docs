@@ -1,5 +1,5 @@
 ---
-title: JournalItem.GetConversation Method (Outlook)
+title: JournalItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3405
 f1_keywords:
 - vbaol11.chm3405
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.GetConversation Method (Outlook)
+# JournalItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

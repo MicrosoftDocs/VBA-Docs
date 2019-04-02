@@ -1,5 +1,5 @@
 ---
-title: Account.Application Property (Outlook)
+title: Account.Application property (Outlook)
 keywords: vbaol11.chm736
 f1_keywords:
 - vbaol11.chm736
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.Application Property (Outlook)
+# Account.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

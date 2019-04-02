@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.ForceResolution Property (Outlook)
+title: SelectNamesDialog.ForceResolution property (Outlook)
 keywords: vbaol11.chm832
 f1_keywords:
 - vbaol11.chm832
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.ForceResolution Property (Outlook)
+# SelectNamesDialog.ForceResolution property (Outlook)
 
 Returns or sets a  **Boolean** that determines if Outlook must resolve all recipients in the object specified by **[SelectNamesDialog.Recipients](Outlook.SelectNamesDialog.Recipients.md)** before the user can click **OK** to accept the typed or selected recipients in the **Select Names** dialog box. Read/write.
 

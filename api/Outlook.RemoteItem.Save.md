@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Save Method (Outlook)
+title: RemoteItem.Save method (Outlook)
 keywords: vbaol11.chm1618
 f1_keywords:
 - vbaol11.chm1618
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Save Method (Outlook)
+# RemoteItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 

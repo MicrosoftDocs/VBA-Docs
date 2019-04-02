@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.SampleWidth Property (PowerPoint)
+title: ResampleMediaTask.SampleWidth property (PowerPoint)
 keywords: vbapp10.chm727007
 f1_keywords:
 - vbapp10.chm727007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.SampleWidth Property (PowerPoint)
+# ResampleMediaTask.SampleWidth property (PowerPoint)
 
 Returns the resolution width of the sample. Read-only.
 

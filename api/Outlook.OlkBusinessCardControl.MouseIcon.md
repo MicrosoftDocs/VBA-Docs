@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl.MouseIcon Property (Outlook)
+title: OlkBusinessCardControl.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000324
 f1_keywords:
 - vbaol11.chm1000324
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl.MouseIcon Property (Outlook)
+# OlkBusinessCardControl.MouseIcon property (Outlook)
 
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 

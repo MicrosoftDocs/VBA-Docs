@@ -1,5 +1,5 @@
 ---
-title: Application.AutoCorrect Property (PowerPoint)
+title: Application.AutoCorrect property (PowerPoint)
 keywords: vbapp10.chm502053
 f1_keywords:
 - vbapp10.chm502053
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AutoCorrect Property (PowerPoint)
+# Application.AutoCorrect property (PowerPoint)
 
 Returns an  **[AutoCorrect](PowerPoint.AutoCorrect.md)** object that represents the AutoCorrect functionality in Microsoft PowerPoint.
 

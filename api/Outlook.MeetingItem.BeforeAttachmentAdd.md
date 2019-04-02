@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.BeforeAttachmentAdd Event (Outlook)
+title: MeetingItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeAttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.BeforeAttachmentAdd Event (Outlook)
+# MeetingItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 

@@ -1,5 +1,5 @@
 ---
-title: OrderFields Object (Outlook)
+title: OrderFields object (Outlook)
 keywords: vbaol11.chm3186
 f1_keywords:
 - vbaol11.chm3186
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderFields Object (Outlook)
+# OrderFields object (Outlook)
 
 Represents the collection of  **[OrderField](Outlook.OrderField.md)** objects in a view.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.NoLineBreakAfter Property (PowerPoint)
+title: Presentation.NoLineBreakAfter property (PowerPoint)
 keywords: vbapp10.chm583045
 f1_keywords:
 - vbapp10.chm583045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.NoLineBreakAfter Property (PowerPoint)
+# Presentation.NoLineBreakAfter property (PowerPoint)
 
 Returns or sets the characters that cannot end a line. Read/write.
 

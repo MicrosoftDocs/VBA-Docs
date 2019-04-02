@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.ReadingOrder Property (PowerPoint)
+title: DisplayUnitLabel.ReadingOrder property (PowerPoint)
 keywords: vbapp10.chm699021
 f1_keywords:
 - vbapp10.chm699021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.ReadingOrder Property (PowerPoint)
+# DisplayUnitLabel.ReadingOrder property (PowerPoint)
 
 Returns or sets an  **[xlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
 

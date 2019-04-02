@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.RTFBody Property (Outlook)
+title: TaskRequestDeclineItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3538
 f1_keywords:
 - vbaol11.chm3538
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.RTFBody Property (Outlook)
+# TaskRequestDeclineItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationGroup.Class Property (Outlook)
+title: NavigationGroup.Class property (Outlook)
 keywords: vbaol11.chm2883
 f1_keywords:
 - vbaol11.chm2883
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroup.Class Property (Outlook)
+# NavigationGroup.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

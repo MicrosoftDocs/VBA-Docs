@@ -1,5 +1,5 @@
 ---
-title: TimeZones Object (Outlook)
+title: TimeZones object (Outlook)
 keywords: vbaol11.chm3300
 f1_keywords:
 - vbaol11.chm3300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZones Object (Outlook)
+# TimeZones object (Outlook)
 
 A collection of  **[TimeZone](Outlook.TimeZone.md)** objects.
 

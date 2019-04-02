@@ -1,5 +1,5 @@
 ---
-title: ColorScheme Object (PowerPoint)
+title: ColorScheme object (PowerPoint)
 keywords: vbapp10.chm537000
 f1_keywords:
 - vbapp10.chm537000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorScheme Object (PowerPoint)
+# ColorScheme object (PowerPoint)
 
 Represents a color scheme, which is a set of eight colors used for the different elements of a slide, notes page, or handout, such as the title or background. (Note that the color schemes for slides, notes pages, and handouts in a presentation can be set independently.)
 

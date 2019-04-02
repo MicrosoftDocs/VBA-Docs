@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Organizer Property (Outlook)
+title: AppointmentItem.Organizer property (Outlook)
 keywords: vbaol11.chm889
 f1_keywords:
 - vbaol11.chm889
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Organizer Property (Outlook)
+# AppointmentItem.Organizer property (Outlook)
 
 Returns a  **String** representing the name of the organizer of the appointment. Read-only.
 

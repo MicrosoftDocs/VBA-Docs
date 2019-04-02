@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.UseTextFont Property (PowerPoint)
+title: BulletFormat.UseTextFont property (PowerPoint)
 keywords: vbapp10.chm577007
 f1_keywords:
 - vbapp10.chm577007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.UseTextFont Property (PowerPoint)
+# BulletFormat.UseTextFont property (PowerPoint)
 
 Determines whether the specified bullets are set to the font of the first text character in the paragraph. Read/write.
 

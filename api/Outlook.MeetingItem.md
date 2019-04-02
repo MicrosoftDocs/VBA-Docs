@@ -1,5 +1,5 @@
 ---
-title: MeetingItem Object (Outlook)
+title: MeetingItem object (Outlook)
 keywords: vbaol11.chm2989
 f1_keywords:
 - vbaol11.chm2989
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem Object (Outlook)
+# MeetingItem object (Outlook)
 
 Represents a change to the recipient's Calendar folder initiated by another party or as a result of a group action.
 

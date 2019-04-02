@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Close Method (Outlook)
+title: JournalItem.Close method (Outlook)
 keywords: vbaol11.chm1257
 f1_keywords:
 - vbaol11.chm1257
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Close Method (Outlook)
+# JournalItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 

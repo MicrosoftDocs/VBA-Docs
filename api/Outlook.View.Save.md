@@ -1,5 +1,5 @@
 ---
-title: View.Save Method (Outlook)
+title: View.Save method (Outlook)
 keywords: vbaol11.chm2488
 f1_keywords:
 - vbaol11.chm2488
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Save Method (Outlook)
+# View.Save method (Outlook)
 
 Saves the view, or saves the changes to a view.
 

@@ -1,5 +1,5 @@
 ---
-title: JournalModule.Parent Property (Outlook)
+title: JournalModule.Parent property (Outlook)
 keywords: vbaol11.chm2865
 f1_keywords:
 - vbaol11.chm2865
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalModule.Parent Property (Outlook)
+# JournalModule.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

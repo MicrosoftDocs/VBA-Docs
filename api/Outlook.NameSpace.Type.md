@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Type Property (Outlook)
+title: NameSpace.Type property (Outlook)
 keywords: vbaol11.chm758
 f1_keywords:
 - vbaol11.chm758
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Type Property (Outlook)
+# NameSpace.Type property (Outlook)
 
 Returns a  **String** indicating the type of the specified object. Read-only.
 

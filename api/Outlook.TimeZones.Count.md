@@ -1,5 +1,5 @@
 ---
-title: TimeZones.Count Property (Outlook)
+title: TimeZones.Count property (Outlook)
 keywords: vbaol11.chm3295
 f1_keywords:
 - vbaol11.chm3295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZones.Count Property (Outlook)
+# TimeZones.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

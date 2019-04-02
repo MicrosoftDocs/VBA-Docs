@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.Parent Property (Outlook)
+title: PropertyAccessor.Parent property (Outlook)
 keywords: vbaol11.chm1969
 f1_keywords:
 - vbaol11.chm1969
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.Parent Property (Outlook)
+# PropertyAccessor.Parent property (Outlook)
 
 Returns the parent object of the  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.UnRead Property (Outlook)
+title: TaskRequestItem.UnRead property (Outlook)
 keywords: vbaol11.chm1896
 f1_keywords:
 - vbaol11.chm1896
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.UnRead Property (Outlook)
+# TaskRequestItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 

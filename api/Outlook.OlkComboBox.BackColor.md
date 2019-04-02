@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.BackColor Property (Outlook)
+title: OlkComboBox.BackColor property (Outlook)
 keywords: vbaol11.chm1000197
 f1_keywords:
 - vbaol11.chm1000197
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.BackColor Property (Outlook)
+# OlkComboBox.BackColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the background color of the control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: UserProperty.Formula Property (Outlook)
+title: UserProperty.Formula property (Outlook)
 keywords: vbaol11.chm217
 f1_keywords:
 - vbaol11.chm217
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperty.Formula Property (Outlook)
+# UserProperty.Formula property (Outlook)
 
 Returns or sets a  **String** representing the formula for the user property. Read/write.
 

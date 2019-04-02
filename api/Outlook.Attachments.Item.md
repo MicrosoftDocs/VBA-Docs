@@ -1,5 +1,5 @@
 ---
-title: Attachments.Item Method (Outlook)
+title: Attachments.Item method (Outlook)
 keywords: vbaol11.chm175
 f1_keywords:
 - vbaol11.chm175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Item Method (Outlook)
+# Attachments.Item method (Outlook)
 
 Returns an  **[Attachment](Outlook.Attachment.md)** object from the collection.
 

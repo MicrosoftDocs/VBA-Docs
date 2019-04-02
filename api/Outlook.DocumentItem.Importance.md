@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Importance Property (Outlook)
+title: DocumentItem.Importance property (Outlook)
 keywords: vbaol11.chm1195
 f1_keywords:
 - vbaol11.chm1195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Importance Property (Outlook)
+# DocumentItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 

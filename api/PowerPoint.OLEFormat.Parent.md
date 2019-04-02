@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Parent Property (PowerPoint)
+title: OLEFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm562002
 f1_keywords:
 - vbapp10.chm562002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.Parent Property (PowerPoint)
+# OLEFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

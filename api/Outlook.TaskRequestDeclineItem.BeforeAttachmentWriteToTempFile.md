@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+title: TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+# TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is written to a temporary file.
 

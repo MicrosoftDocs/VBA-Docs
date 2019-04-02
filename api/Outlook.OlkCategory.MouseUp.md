@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.MouseUp Event (Outlook)
+title: OlkCategory.MouseUp event (Outlook)
 keywords: vbaol11.chm1000453
 f1_keywords:
 - vbaol11.chm1000453
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.MouseUp Event (Outlook)
+# OlkCategory.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 

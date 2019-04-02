@@ -1,5 +1,5 @@
 ---
-title: Shape.LockAspectRatio Property (PowerPoint)
+title: Shape.LockAspectRatio property (PowerPoint)
 keywords: vbapp10.chm547028
 f1_keywords:
 - vbapp10.chm547028
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.LockAspectRatio Property (PowerPoint)
+# Shape.LockAspectRatio property (PowerPoint)
 
 Determines whether the specified shape retains its original proportions when you resize it. Read/write.
 

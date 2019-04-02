@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.Parent Property (Outlook)
+title: CalendarSharing.Parent property (Outlook)
 keywords: vbaol11.chm2410
 f1_keywords:
 - vbaol11.chm2410
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarSharing.Parent Property (Outlook)
+# CalendarSharing.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

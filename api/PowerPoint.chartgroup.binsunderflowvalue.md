@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsUnderflowValue Property (PowerPoint)
+title: ChartGroup.BinsUnderflowValue property (PowerPoint)
 keywords: vbapp10.chm692026
 f1_keywords:
 - vbapp10.chm692026
@@ -10,9 +10,9 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.BinsUnderflowValue Property (PowerPoint)
+# ChartGroup.BinsUnderflowValue property (PowerPoint)
 
-If [ChartGroup.BinsUnderflowEnabled Property (PowerPoint)](PowerPoint.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write  **Double**.
+If [ChartGroup.BinsUnderflowEnabled property (PowerPoint)](PowerPoint.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write  **Double**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.m
 ## See also
 
 
-[ChartGroup Object (PowerPoint)](PowerPoint.ChartGroup.md)
+[ChartGroup object (PowerPoint)](PowerPoint.ChartGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

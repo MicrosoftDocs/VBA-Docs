@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Connector Property (PowerPoint)
+title: ShapeRange.Connector property (PowerPoint)
 keywords: vbapp10.chm548020
 f1_keywords:
 - vbapp10.chm548020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Connector Property (PowerPoint)
+# ShapeRange.Connector property (PowerPoint)
 
 Determines whether the specified shape is a connector. Read-only.
 

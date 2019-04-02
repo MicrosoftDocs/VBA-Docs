@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Save Method (Outlook)
+title: TaskRequestItem.Save method (Outlook)
 keywords: vbaol11.chm1904
 f1_keywords:
 - vbaol11.chm1904
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Save Method (Outlook)
+# TaskRequestItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 

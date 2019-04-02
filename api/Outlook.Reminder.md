@@ -1,5 +1,5 @@
 ---
-title: Reminder Object (Outlook)
+title: Reminder object (Outlook)
 keywords: vbaol11.chm3014
 f1_keywords:
 - vbaol11.chm3014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder Object (Outlook)
+# Reminder object (Outlook)
 
 Represents an Outlook reminder.
 

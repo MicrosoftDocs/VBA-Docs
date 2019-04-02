@@ -1,5 +1,5 @@
 ---
-title: TimeZone.ID Property (Outlook)
+title: TimeZone.ID property (Outlook)
 keywords: vbaol11.chm3304
 f1_keywords:
 - vbaol11.chm3304
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.ID Property (Outlook)
+# TimeZone.ID property (Outlook)
 
 Returns a  **String** that uniquely identifies the time zone. Read-only.
 

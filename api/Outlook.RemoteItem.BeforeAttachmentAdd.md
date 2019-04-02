@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.BeforeAttachmentAdd Event (Outlook)
+title: RemoteItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeAttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.BeforeAttachmentAdd Event (Outlook)
+# RemoteItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactsModule Object (Outlook)
+title: ContactsModule object (Outlook)
 keywords: vbaol11.chm3195
 f1_keywords:
 - vbaol11.chm3195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactsModule Object (Outlook)
+# ContactsModule object (Outlook)
 
 Represents the  **Contacts** navigation module in the navigation pane of an explorer.
 

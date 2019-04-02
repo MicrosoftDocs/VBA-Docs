@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Perspective Property (PowerPoint)
+title: ThreeDFormat.Perspective property (PowerPoint)
 keywords: vbapp10.chm557010
 f1_keywords:
 - vbapp10.chm557010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Perspective Property (PowerPoint)
+# ThreeDFormat.Perspective property (PowerPoint)
 
 Determines whether the extrusion appears in perspective. Read/write.
 

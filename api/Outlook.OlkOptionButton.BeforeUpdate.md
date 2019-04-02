@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.BeforeUpdate Event (Outlook)
+title: OlkOptionButton.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000191
 f1_keywords:
 - vbaol11.chm1000191
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.BeforeUpdate Event (Outlook)
+# OlkOptionButton.BeforeUpdate event (Outlook)
 
 Occurs when the data in the control is changed through the user interface and is about to be saved to the item. 
 

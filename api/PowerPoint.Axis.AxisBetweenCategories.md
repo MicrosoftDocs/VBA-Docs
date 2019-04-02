@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisBetweenCategories Property (PowerPoint)
+title: Axis.AxisBetweenCategories property (PowerPoint)
 keywords: vbapp10.chm682001
 f1_keywords:
 - vbapp10.chm682001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.AxisBetweenCategories Property (PowerPoint)
+# Axis.AxisBetweenCategories property (PowerPoint)
 
  **True** if the value axis crosses the category axis between categories. Read/write **Boolean**.
 

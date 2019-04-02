@@ -1,5 +1,5 @@
 ---
-title: ChartFont Object (PowerPoint)
+title: ChartFont object (PowerPoint)
 keywords: vbapp10.chm704000
 f1_keywords:
 - vbapp10.chm704000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFont Object (PowerPoint)
+# ChartFont object (PowerPoint)
 
 Contains the font attributes (font name, font size, color, and so on) for an object chart.
 

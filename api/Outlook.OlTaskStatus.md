@@ -28,6 +28,6 @@ Indicates the task status.
 
 ## Remarks
 
-Used by the [TaskItem.Status Property (Outlook)](Outlook.TaskItem.Status.md).
+Used by the [TaskItem.Status property (Outlook)](Outlook.TaskItem.Status.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

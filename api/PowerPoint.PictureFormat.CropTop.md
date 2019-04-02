@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropTop Property (PowerPoint)
+title: PictureFormat.CropTop property (PowerPoint)
 keywords: vbapp10.chm551010
 f1_keywords:
 - vbapp10.chm551010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.CropTop Property (PowerPoint)
+# PictureFormat.CropTop property (PowerPoint)
 
 Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write. 
 

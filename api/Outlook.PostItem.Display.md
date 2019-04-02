@@ -1,5 +1,5 @@
 ---
-title: PostItem.Display Method (Outlook)
+title: PostItem.Display method (Outlook)
 keywords: vbaol11.chm1542
 f1_keywords:
 - vbaol11.chm1542
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Display Method (Outlook)
+# PostItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

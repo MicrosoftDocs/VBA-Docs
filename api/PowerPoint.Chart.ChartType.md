@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartType Property (PowerPoint)
+title: Chart.ChartType property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ChartType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartType Property (PowerPoint)
+# Chart.ChartType property (PowerPoint)
 
 Returns or sets the chart type. Read/write  **[xlChartType](Excel.XlChartType.md)**.
 

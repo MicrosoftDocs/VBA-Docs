@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Background Property (PowerPoint)
+title: CustomLayout.Background property (PowerPoint)
 keywords: vbapp10.chm672005
 f1_keywords:
 - vbapp10.chm672005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Background Property (PowerPoint)
+# CustomLayout.Background property (PowerPoint)
 
 Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the slide background. Read-only.
 

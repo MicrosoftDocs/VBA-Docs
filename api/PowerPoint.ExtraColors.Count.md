@@ -1,5 +1,5 @@
 ---
-title: ExtraColors.Count Property (PowerPoint)
+title: ExtraColors.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ExtraColors.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ExtraColors.Count Property (PowerPoint)
+# ExtraColors.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

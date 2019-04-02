@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Item Property (PowerPoint)
+title: Adjustments.Item property (PowerPoint)
 keywords: vbapp10.chm550003
 f1_keywords:
 - vbapp10.chm550003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Adjustments.Item Property (PowerPoint)
+# Adjustments.Item property (PowerPoint)
 
 Returns or sets the adjustment value specified by the Index argument. Read/write.
 

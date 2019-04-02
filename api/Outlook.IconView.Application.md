@@ -1,5 +1,5 @@
 ---
-title: IconView.Application Property (Outlook)
+title: IconView.Application property (Outlook)
 keywords: vbaol11.chm2557
 f1_keywords:
 - vbaol11.chm2557
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Application Property (Outlook)
+# IconView.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

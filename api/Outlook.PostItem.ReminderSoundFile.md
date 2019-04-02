@@ -1,5 +1,5 @@
 ---
-title: PostItem.ReminderSoundFile Property (Outlook)
+title: PostItem.ReminderSoundFile property (Outlook)
 keywords: vbaol11.chm1579
 f1_keywords:
 - vbaol11.chm1579
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ReminderSoundFile Property (Outlook)
+# PostItem.ReminderSoundFile property (Outlook)
 
 Returns or sets a  **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
 

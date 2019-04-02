@@ -1,5 +1,5 @@
 ---
-title: CardView.LockUserChanges Property (Outlook)
+title: CardView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2589
 f1_keywords:
 - vbaol11.chm2589
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.LockUserChanges Property (Outlook)
+# CardView.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the view. Read/write.
 

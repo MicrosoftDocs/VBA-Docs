@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Categories Property (Outlook)
+title: JournalItem.Categories property (Outlook)
 keywords: vbaol11.chm1235
 f1_keywords:
 - vbaol11.chm1235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Categories Property (Outlook)
+# JournalItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

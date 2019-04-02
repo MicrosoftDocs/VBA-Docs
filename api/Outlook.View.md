@@ -1,5 +1,5 @@
 ---
-title: View Object (Outlook)
+title: View object (Outlook)
 keywords: vbaol11.chm2479
 f1_keywords:
 - vbaol11.chm2479
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View Object (Outlook)
+# View object (Outlook)
 
 Represents a customizable view used to sort, group, and view data.
 

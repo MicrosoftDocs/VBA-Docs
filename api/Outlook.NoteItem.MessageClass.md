@@ -1,5 +1,5 @@
 ---
-title: NoteItem.MessageClass Property (Outlook)
+title: NoteItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1486
 f1_keywords:
 - vbaol11.chm1486
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.MessageClass Property (Outlook)
+# NoteItem.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the Outlook item. Read/write.
 

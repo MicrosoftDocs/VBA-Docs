@@ -1,5 +1,5 @@
 ---
-title: MailItem.SaveAs Method (Outlook)
+title: MailItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1327
 f1_keywords:
 - vbaol11.chm1327
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.SaveAs Method (Outlook)
+# MailItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 

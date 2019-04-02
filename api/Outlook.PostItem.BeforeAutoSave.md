@@ -1,5 +1,5 @@
 ---
-title: PostItem.BeforeAutoSave Event (Outlook)
+title: PostItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.BeforeAutoSave Event (Outlook)
+# PostItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 

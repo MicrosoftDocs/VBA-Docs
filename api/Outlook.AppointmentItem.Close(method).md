@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Close Method (Outlook)
+title: AppointmentItem.Close method (Outlook)
 keywords: vbaol11.chm868
 f1_keywords:
 - vbaol11.chm868
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Close Method (Outlook)
+# AppointmentItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 

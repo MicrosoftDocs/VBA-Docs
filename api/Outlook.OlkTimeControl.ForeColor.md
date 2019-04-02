@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.ForeColor Property (Outlook)
+title: OlkTimeControl.ForeColor property (Outlook)
 keywords: vbaol11.chm1000386
 f1_keywords:
 - vbaol11.chm1000386
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.ForeColor Property (Outlook)
+# OlkTimeControl.ForeColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.
 

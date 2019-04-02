@@ -1,5 +1,5 @@
 ---
-title: Rule.Enabled Property (Outlook)
+title: Rule.Enabled property (Outlook)
 keywords: vbaol11.chm2171
 f1_keywords:
 - vbaol11.chm2171
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rule.Enabled Property (Outlook)
+# Rule.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** value that determines if the rule is to be applied. Read/write.
 

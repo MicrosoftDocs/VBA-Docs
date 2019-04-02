@@ -1,5 +1,5 @@
 ---
-title: EffectParameters Object (PowerPoint)
+title: EffectParameters object (PowerPoint)
 keywords: vbapp10.chm654000
 f1_keywords:
 - vbapp10.chm654000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EffectParameters Object (PowerPoint)
+# EffectParameters object (PowerPoint)
 
 Represents various animation parameters for an  **[Effect](PowerPoint.Effect.md)** object, such as colors, fonts, sizes, and directions.
 

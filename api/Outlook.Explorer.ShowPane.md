@@ -1,5 +1,5 @@
 ---
-title: Explorer.ShowPane Method (Outlook)
+title: Explorer.ShowPane method (Outlook)
 keywords: vbaol11.chm2776
 f1_keywords:
 - vbaol11.chm2776
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.ShowPane Method (Outlook)
+# Explorer.ShowPane method (Outlook)
 
 Displays or hides a specific pane in the explorer.
 

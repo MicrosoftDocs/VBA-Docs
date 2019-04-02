@@ -1,5 +1,5 @@
 ---
-title: TimeLine Object (PowerPoint)
+title: TimeLine object (PowerPoint)
 keywords: vbapp10.chm649000
 f1_keywords:
 - vbapp10.chm649000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeLine Object (PowerPoint)
+# TimeLine object (PowerPoint)
 
 Stores animation information for a  **Master**, **Slide**, or **SlideRange** object.
 

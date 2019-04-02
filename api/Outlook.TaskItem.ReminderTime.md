@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ReminderTime Property (Outlook)
+title: TaskItem.ReminderTime property (Outlook)
 keywords: vbaol11.chm1735
 f1_keywords:
 - vbaol11.chm1735
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ReminderTime Property (Outlook)
+# TaskItem.ReminderTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time at which the reminder should occur for the specified item. Read/write.
 

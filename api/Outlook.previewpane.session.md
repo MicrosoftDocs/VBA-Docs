@@ -1,5 +1,5 @@
 ---
-title: PreviewPane.Session Property (Outlook)
+title: PreviewPane.Session property (Outlook)
 keywords: vbaol11.chm3636
 f1_keywords:
 - vbaol11.chm3636
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PreviewPane.Session Property (Outlook)
+# PreviewPane.Session property (Outlook)
 
 Returns the [NameSpace](Outlook.NameSpace.md) for the current session. Read-only.
 
@@ -34,6 +34,6 @@ The  **Session** property and the [GetNamespace](Outlook.Application.GetNamespac
 ## See also
 
 
-[PreviewPane Object (Outlook)](Outlook.previewpane.md)
+[PreviewPane object (Outlook)](Outlook.previewpane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

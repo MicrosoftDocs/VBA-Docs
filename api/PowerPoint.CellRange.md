@@ -1,5 +1,5 @@
 ---
-title: CellRange Object (PowerPoint)
+title: CellRange object (PowerPoint)
 keywords: vbapp10.chm627000
 f1_keywords:
 - vbapp10.chm627000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellRange Object (PowerPoint)
+# CellRange object (PowerPoint)
 
 A collection of  **[Cell](PowerPoint.Cell.md)** objects in a table column or row. The **CellRange** collection represents all the cells in the specified column or row. To use the **CellRange** collection, use the **Cells** keyword.
 

@@ -1,5 +1,5 @@
 ---
-title: TextStyleLevel Object (PowerPoint)
+title: TextStyleLevel object (PowerPoint)
 keywords: vbapp10.chm581000
 f1_keywords:
 - vbapp10.chm581000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyleLevel Object (PowerPoint)
+# TextStyleLevel object (PowerPoint)
 
 Contains character and paragraph formatting information for an outline level. 
 

@@ -1,5 +1,5 @@
 ---
-title: OlkFrameHeader.Font Property (Outlook)
+title: OlkFrameHeader.Font property (Outlook)
 keywords: vbaol11.chm1000463
 f1_keywords:
 - vbaol11.chm1000463
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkFrameHeader.Font Property (Outlook)
+# OlkFrameHeader.Font property (Outlook)
 
 Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
 

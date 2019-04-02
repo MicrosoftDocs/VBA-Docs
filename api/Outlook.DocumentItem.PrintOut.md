@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.PrintOut Method (Outlook)
+title: DocumentItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1214
 f1_keywords:
 - vbaol11.chm1214
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.PrintOut Method (Outlook)
+# DocumentItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 

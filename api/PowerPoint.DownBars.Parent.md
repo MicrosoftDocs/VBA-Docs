@@ -1,5 +1,5 @@
 ---
-title: DownBars.Parent Property (PowerPoint)
+title: DownBars.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DownBars.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DownBars.Parent Property (PowerPoint)
+# DownBars.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

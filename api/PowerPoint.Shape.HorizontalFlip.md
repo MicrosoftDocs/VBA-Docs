@@ -1,5 +1,5 @@
 ---
-title: Shape.HorizontalFlip Property (PowerPoint)
+title: Shape.HorizontalFlip property (PowerPoint)
 keywords: vbapp10.chm547025
 f1_keywords:
 - vbapp10.chm547025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.HorizontalFlip Property (PowerPoint)
+# Shape.HorizontalFlip property (PowerPoint)
 
 Returns whether the specified shape is flipped around the horizontal axis. Read-only.
 

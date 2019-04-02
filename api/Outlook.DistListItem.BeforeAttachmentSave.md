@@ -1,5 +1,5 @@
 ---
-title: DistListItem.BeforeAttachmentSave Event (Outlook)
+title: DistListItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.BeforeAttachmentSave Event (Outlook)
+# DistListItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 

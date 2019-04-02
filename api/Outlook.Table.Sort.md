@@ -1,5 +1,5 @@
 ---
-title: Table.Sort Method (Outlook)
+title: Table.Sort method (Outlook)
 keywords: vbaol11.chm2235
 f1_keywords:
 - vbaol11.chm2235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Sort Method (Outlook)
+# Table.Sort method (Outlook)
 
 Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table**.
 

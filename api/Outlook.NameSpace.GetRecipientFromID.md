@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetRecipientFromID Method (Outlook)
+title: NameSpace.GetRecipientFromID method (Outlook)
 keywords: vbaol11.chm764
 f1_keywords:
 - vbaol11.chm764
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.GetRecipientFromID Method (Outlook)
+# NameSpace.GetRecipientFromID method (Outlook)
 
 Returns the  **[Recipient](Outlook.Recipient.md)** object that is identified by the specified entry ID (if valid).
 

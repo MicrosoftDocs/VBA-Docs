@@ -1,5 +1,5 @@
 ---
-title: RuleAction.Enabled Property (Outlook)
+title: RuleAction.Enabled property (Outlook)
 keywords: vbaol11.chm2205
 f1_keywords:
 - vbaol11.chm2205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleAction.Enabled Property (Outlook)
+# RuleAction.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the **[RuleAction](Outlook.RuleAction.md)** is enabled. Read/write.
 

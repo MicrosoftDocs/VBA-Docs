@@ -1,5 +1,5 @@
 ---
-title: AddressRuleCondition.Enabled Property (Outlook)
+title: AddressRuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2953
 f1_keywords:
 - vbaol11.chm2953
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressRuleCondition.Enabled Property (Outlook)
+# AddressRuleCondition.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule condition is enabled. Read/write.
 

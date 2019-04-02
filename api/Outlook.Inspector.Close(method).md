@@ -1,5 +1,5 @@
 ---
-title: Inspector.Close Method (Outlook)
+title: Inspector.Close method (Outlook)
 keywords: vbaol11.chm2965
 f1_keywords:
 - vbaol11.chm2965
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Close Method (Outlook)
+# Inspector.Close method (Outlook)
 
 Closes the  **[Inspector](Outlook.Inspector.md)** and optionally saves changes to the displayed Outlook item.
 
@@ -35,7 +35,7 @@ _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) obj
 ## Remarks
 
 
- **Note**  Do not use this method from within the [Inspector.Activate Event (Outlook)](Outlook.Inspector.Activate(even).md) event handler.
+ **Note**  Do not use this method from within the [Inspector.Activate event (Outlook)](Outlook.Inspector.Activate(even).md) event handler.
 
 
 ## Example

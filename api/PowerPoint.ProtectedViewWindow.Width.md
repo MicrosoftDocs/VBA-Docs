@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Width Property (PowerPoint)
+title: ProtectedViewWindow.Width property (PowerPoint)
 keywords: vbapp10.chm734011
 f1_keywords:
 - vbapp10.chm734011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Width Property (PowerPoint)
+# ProtectedViewWindow.Width property (PowerPoint)
 
 Returns or sets the width of the specified object, in points. Read/write.
 

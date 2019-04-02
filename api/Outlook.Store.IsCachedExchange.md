@@ -1,5 +1,5 @@
 ---
-title: Store.IsCachedExchange Property (Outlook)
+title: Store.IsCachedExchange property (Outlook)
 keywords: vbaol11.chm804
 f1_keywords:
 - vbaol11.chm804
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.IsCachedExchange Property (Outlook)
+# Store.IsCachedExchange property (Outlook)
 
 Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a cached Exchange store. Read-only.
 

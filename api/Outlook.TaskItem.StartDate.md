@@ -1,5 +1,5 @@
 ---
-title: TaskItem.StartDate Property (Outlook)
+title: TaskItem.StartDate property (Outlook)
 keywords: vbaol11.chm1743
 f1_keywords:
 - vbaol11.chm1743
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.StartDate Property (Outlook)
+# TaskItem.StartDate property (Outlook)
 
 Returns or sets a  **Date** indicating the start date for the task. Read/write.
 

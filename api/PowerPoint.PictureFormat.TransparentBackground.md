@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparentBackground Property (PowerPoint)
+title: PictureFormat.TransparentBackground property (PowerPoint)
 keywords: vbapp10.chm551012
 f1_keywords:
 - vbapp10.chm551012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.TransparentBackground Property (PowerPoint)
+# PictureFormat.TransparentBackground property (PowerPoint)
 
 Determines whether parts of the picture that are the color defined as the transparent color appear transparent. Applies to bitmaps only. Read/write. 
 

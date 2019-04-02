@@ -1,5 +1,5 @@
 ---
-title: SetEffect.To Property (PowerPoint)
+title: SetEffect.To property (PowerPoint)
 keywords: vbapp10.chm670004
 f1_keywords:
 - vbapp10.chm670004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SetEffect.To Property (PowerPoint)
+# SetEffect.To property (PowerPoint)
 
 Sets or returns a  **Variant** that represents the value or ending value of the **SetEffect** object's **Type** property. Read/write.
 

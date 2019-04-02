@@ -1,5 +1,5 @@
 ---
-title: Application.Caption Property (PowerPoint)
+title: Application.Caption property (PowerPoint)
 keywords: vbapp10.chm502010
 f1_keywords:
 - vbapp10.chm502010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Caption Property (PowerPoint)
+# Application.Caption property (PowerPoint)
 
 Returns the text that appears in the title bar of the application window. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskItem.SchedulePlusPriority Property (Outlook)
+title: TaskItem.SchedulePlusPriority property (Outlook)
 keywords: vbaol11.chm1742
 f1_keywords:
 - vbaol11.chm1742
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.SchedulePlusPriority Property (Outlook)
+# TaskItem.SchedulePlusPriority property (Outlook)
 
 Returns or sets a  **String** representing the Microsoft Schedule+ priority for the task. Read/write.
 

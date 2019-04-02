@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Reply Method (Outlook)
+title: MeetingItem.Reply method (Outlook)
 keywords: vbaol11.chm1456
 f1_keywords:
 - vbaol11.chm1456
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Reply Method (Outlook)
+# MeetingItem.Reply method (Outlook)
 
 Creates a reply, pre-addressed to the original sender, from the original message.
 

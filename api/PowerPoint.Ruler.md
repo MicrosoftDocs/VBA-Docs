@@ -1,5 +1,5 @@
 ---
-title: Ruler Object (PowerPoint)
+title: Ruler object (PowerPoint)
 keywords: vbapp10.chm570000
 f1_keywords:
 - vbapp10.chm570000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Ruler Object (PowerPoint)
+# Ruler object (PowerPoint)
 
 Represents the ruler for the text in the specified shape or for all text in the specified text style. Contains tab stops and the indentation settings for text outline levels.
 

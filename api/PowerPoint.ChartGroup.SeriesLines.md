@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SeriesLines Property (PowerPoint)
+title: ChartGroup.SeriesLines property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.SeriesLines
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.SeriesLines Property (PowerPoint)
+# ChartGroup.SeriesLines property (PowerPoint)
 
 Returns the series lines for a 2-D stacked bar, 2-D stacked column, pie-of-pie, or bar-of-pie chart. Read-only  **[SeriesLines](PowerPoint.SeriesLines.md)**.
 

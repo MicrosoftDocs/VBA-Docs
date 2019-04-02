@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.Item Method (Outlook)
+title: OutlookBarGroups.Item method (Outlook)
 keywords: vbaol11.chm351
 f1_keywords:
 - vbaol11.chm351
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.Item Method (Outlook)
+# OutlookBarGroups.Item method (Outlook)
 
 Returns an  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object from the collection.
 

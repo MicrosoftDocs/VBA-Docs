@@ -1,5 +1,5 @@
 ---
-title: TasksModule.Name Property (Outlook)
+title: TasksModule.Name property (Outlook)
 keywords: vbaol11.chm2847
 f1_keywords:
 - vbaol11.chm2847
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TasksModule.Name Property (Outlook)
+# TasksModule.Name property (Outlook)
 
 Returns a  **String** value that represents the localized display name for the **[TasksModule](Outlook.TasksModule.md)** object. Read-only.
 

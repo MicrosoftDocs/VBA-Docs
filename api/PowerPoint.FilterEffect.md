@@ -1,5 +1,5 @@
 ---
-title: FilterEffect Object (PowerPoint)
+title: FilterEffect object (PowerPoint)
 keywords: vbapp10.chm669000
 f1_keywords:
 - vbapp10.chm669000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FilterEffect Object (PowerPoint)
+# FilterEffect object (PowerPoint)
 
 Represents a filter effect for an animation behavior.
 

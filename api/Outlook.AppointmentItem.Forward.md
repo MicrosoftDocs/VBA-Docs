@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Forward Event (Outlook)
+title: AppointmentItem.Forward event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Forward
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Forward Event (Outlook)
+# AppointmentItem.Forward event (Outlook)
 
 Occurs when the user selects the  **Forward** action for an item (which is an instance of the parent object).
 

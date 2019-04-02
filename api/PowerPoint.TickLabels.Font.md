@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Font Property (PowerPoint)
+title: TickLabels.Font property (PowerPoint)
 keywords: vbapp10.chm719003
 f1_keywords:
 - vbapp10.chm719003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Font Property (PowerPoint)
+# TickLabels.Font property (PowerPoint)
 
 Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.ChartFont.md)**.
 

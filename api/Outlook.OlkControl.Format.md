@@ -1,5 +1,5 @@
 ---
-title: OlkControl.Format Property (Outlook)
+title: OlkControl.Format property (Outlook)
 keywords: vbaol11.chm1000542
 f1_keywords:
 - vbaol11.chm1000542
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkControl.Format Property (Outlook)
+# OlkControl.Format property (Outlook)
 
 Returns or sets a  **Long** that specifies how a value is to be displayed in the control. Read/write.
 

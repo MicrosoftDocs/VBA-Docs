@@ -1,5 +1,5 @@
 ---
-title: SyncObject.Class Property (Outlook)
+title: SyncObject.Class property (Outlook)
 keywords: vbaol11.chm104
 f1_keywords:
 - vbaol11.chm104
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObject.Class Property (Outlook)
+# SyncObject.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

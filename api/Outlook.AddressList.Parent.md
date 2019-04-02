@@ -1,5 +1,5 @@
 ---
-title: AddressList.Parent Property (Outlook)
+title: AddressList.Parent property (Outlook)
 keywords: vbaol11.chm2026
 f1_keywords:
 - vbaol11.chm2026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.Parent Property (Outlook)
+# AddressList.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

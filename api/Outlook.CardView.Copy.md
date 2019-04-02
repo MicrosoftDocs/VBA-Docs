@@ -1,5 +1,5 @@
 ---
-title: CardView.Copy Method (Outlook)
+title: CardView.Copy method (Outlook)
 keywords: vbaol11.chm2584
 f1_keywords:
 - vbaol11.chm2584
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Copy Method (Outlook)
+# CardView.Copy method (Outlook)
 
 Creates a new  **[View](Outlook.View.md)** object based on the existing **[CardView](Outlook.CardView.md)** object.
 

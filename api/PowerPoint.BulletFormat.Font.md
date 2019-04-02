@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Font Property (PowerPoint)
+title: BulletFormat.Font property (PowerPoint)
 keywords: vbapp10.chm577008
 f1_keywords:
 - vbapp10.chm577008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.Font Property (PowerPoint)
+# BulletFormat.Font property (PowerPoint)
 
 Returns a  **[Font](PowerPoint.Font.md)** object that represents character formatting. Read-only.
 

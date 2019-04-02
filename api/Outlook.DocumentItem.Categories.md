@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Categories Property (Outlook)
+title: DocumentItem.Categories property (Outlook)
 keywords: vbaol11.chm1187
 f1_keywords:
 - vbaol11.chm1187
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Categories Property (Outlook)
+# DocumentItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

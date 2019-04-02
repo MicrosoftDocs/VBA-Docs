@@ -1,5 +1,5 @@
 ---
-title: Application.CreateItem Method (Outlook)
+title: Application.CreateItem method (Outlook)
 keywords: vbaol11.chm714
 f1_keywords:
 - vbaol11.chm714
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CreateItem Method (Outlook)
+# Application.CreateItem method (Outlook)
 
 Creates and returns a new Microsoft Outlook item.
 

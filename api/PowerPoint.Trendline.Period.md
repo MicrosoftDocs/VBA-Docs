@@ -1,5 +1,5 @@
 ---
-title: Trendline.Period Property (PowerPoint)
+title: Trendline.Period property (PowerPoint)
 keywords: vbapp10.chm65720
 f1_keywords:
 - vbapp10.chm65720
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Period Property (PowerPoint)
+# Trendline.Period property (PowerPoint)
 
 Returns or sets the period for the moving-average trendline. Read/write  **Long**.
 

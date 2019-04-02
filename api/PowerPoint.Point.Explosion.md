@@ -1,5 +1,5 @@
 ---
-title: Point.Explosion Property (PowerPoint)
+title: Point.Explosion property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Explosion
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Explosion Property (PowerPoint)
+# Point.Explosion property (PowerPoint)
 
 Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long**.
 

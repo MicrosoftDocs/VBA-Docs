@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ClearConversationIndex Method (Outlook)
+title: SharingItem.ClearConversationIndex method (Outlook)
 keywords: vbaol11.chm668
 f1_keywords:
 - vbaol11.chm668
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ClearConversationIndex Method (Outlook)
+# SharingItem.ClearConversationIndex method (Outlook)
 
 Clears the index of the conversation thread for the  **[SharingItem](Outlook.SharingItem.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.Count Property (PowerPoint)
+title: Shapes.Count property (PowerPoint)
 keywords: vbapp10.chm543002
 f1_keywords:
 - vbapp10.chm543002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Count Property (PowerPoint)
+# Shapes.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

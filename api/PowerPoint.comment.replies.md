@@ -1,5 +1,5 @@
 ---
-title: Comment.Replies Property (PowerPoint)
+title: Comment.Replies property (PowerPoint)
 keywords: vbapp10.chm642014
 f1_keywords:
 - vbapp10.chm642014
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.Replies Property (PowerPoint)
+# Comment.Replies property (PowerPoint)
 
 Returns a [Comments](PowerPoint.Comments.md) collection of **Comment** objects that are children of the specified comment. Read-only.
 

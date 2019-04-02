@@ -1,5 +1,5 @@
 ---
-title: JournalItem.BeforeAttachmentSave Event (Outlook)
+title: JournalItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.BeforeAttachmentSave Event (Outlook)
+# JournalItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 

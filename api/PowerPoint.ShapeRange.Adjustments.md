@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Adjustments Property (PowerPoint)
+title: ShapeRange.Adjustments property (PowerPoint)
 keywords: vbapp10.chm548015
 f1_keywords:
 - vbapp10.chm548015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Adjustments Property (PowerPoint)
+# ShapeRange.Adjustments property (PowerPoint)
 
 Returns an  **[Adjustments](PowerPoint.Adjustments.md)** object that contains adjustment values for all the adjustments in the specified shape. Applies to any **ShapeRange** object that represents an AutoShape, WordArt, or a connector. Read-only.
 

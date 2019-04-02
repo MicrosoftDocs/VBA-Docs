@@ -1,5 +1,5 @@
 ---
-title: ViewField.ColumnFormat Property (Outlook)
+title: ViewField.ColumnFormat property (Outlook)
 keywords: vbaol11.chm2544
 f1_keywords:
 - vbaol11.chm2544
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewField.ColumnFormat Property (Outlook)
+# ViewField.ColumnFormat property (Outlook)
 
 Returns a  **[ColumnFormat](Outlook.ColumnFormat.md)** object that represents the formatting information for the **[ViewField](Outlook.ViewField.md)** object. Read-only.
 

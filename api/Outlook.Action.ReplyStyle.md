@@ -1,5 +1,5 @@
 ---
-title: Action.ReplyStyle Property (Outlook)
+title: Action.ReplyStyle property (Outlook)
 keywords: vbaol11.chm19
 f1_keywords:
 - vbaol11.chm19
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action.ReplyStyle Property (Outlook)
+# Action.ReplyStyle property (Outlook)
 
 Returns or sets an  **[OlActionReplyStyle](Outlook.OlActionReplyStyle.md)** constant indicating the text formatting reply style for the specified action. Read/write.
 

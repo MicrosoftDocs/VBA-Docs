@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut Object (Outlook)
+title: OutlookBarShortcut object (Outlook)
 keywords: vbaol11.chm337
 f1_keywords:
 - vbaol11.chm337
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut Object (Outlook)
+# OutlookBarShortcut object (Outlook)
 
 Represents a shortcut in a group in the  **Shortcuts** pane.
 

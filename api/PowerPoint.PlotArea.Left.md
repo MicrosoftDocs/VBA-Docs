@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Left Property (PowerPoint)
+title: PlotArea.Left property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Left
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.Left Property (PowerPoint)
+# PlotArea.Left property (PowerPoint)
 
 Returns or sets the distance, in points, from the left edge of the object to the left edge of the chart area. Read/write  **Double**.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientDegree Property (PowerPoint)
+title: FillFormat.GradientDegree property (PowerPoint)
 keywords: vbapp10.chm552014
 f1_keywords:
 - vbapp10.chm552014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientDegree Property (PowerPoint)
+# FillFormat.GradientDegree property (PowerPoint)
 
 Returns a value that indicates how dark or light a one-color gradient fill is. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SyncObjects.Count Property (Outlook)
+title: SyncObjects.Count property (Outlook)
 keywords: vbaol11.chm99
 f1_keywords:
 - vbaol11.chm99
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObjects.Count Property (Outlook)
+# SyncObjects.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

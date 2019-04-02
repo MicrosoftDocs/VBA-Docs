@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.ListIndex Property (Outlook)
+title: OlkListBox.ListIndex property (Outlook)
 keywords: vbaol11.chm1000266
 f1_keywords:
 - vbaol11.chm1000266
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.ListIndex Property (Outlook)
+# OlkListBox.ListIndex property (Outlook)
 
 Returns or sets a  **Long** that indicates the location of the currently selected element in the list of the combo box control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: MediaBookmarks Object (PowerPoint)
+title: MediaBookmarks object (PowerPoint)
 keywords: vbapp10.chm730000
 f1_keywords:
 - vbapp10.chm730000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaBookmarks Object (PowerPoint)
+# MediaBookmarks object (PowerPoint)
 
 A collection of [MediaBookmark](PowerPoint.MediaBookmark.md) objects.
 

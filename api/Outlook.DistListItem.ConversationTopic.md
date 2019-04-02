@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ConversationTopic Property (Outlook)
+title: DistListItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1121
 f1_keywords:
 - vbaol11.chm1121
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ConversationTopic Property (Outlook)
+# DistListItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 

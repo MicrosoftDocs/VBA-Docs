@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Width Property (PowerPoint)
+title: DisplayUnitLabel.Width property (PowerPoint)
 keywords: vbapp10.chm699023
 f1_keywords:
 - vbapp10.chm699023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Width Property (PowerPoint)
+# DisplayUnitLabel.Width property (PowerPoint)
 
 Returns the width, in points, of the object. Read-only.
 

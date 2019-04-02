@@ -1,5 +1,5 @@
 ---
-title: Shape.MediaType Property (PowerPoint)
+title: Shape.MediaType property (PowerPoint)
 keywords: vbapp10.chm547054
 f1_keywords:
 - vbapp10.chm547054
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.MediaType Property (PowerPoint)
+# Shape.MediaType property (PowerPoint)
 
 Returns the OLE media type. Read-only.
 

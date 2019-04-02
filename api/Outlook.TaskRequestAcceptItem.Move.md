@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Move Method (Outlook)
+title: TaskRequestAcceptItem.Move method (Outlook)
 keywords: vbaol11.chm1804
 f1_keywords:
 - vbaol11.chm1804
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Move Method (Outlook)
+# TaskRequestAcceptItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

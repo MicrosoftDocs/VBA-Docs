@@ -1,5 +1,5 @@
 ---
-title: Floor.Format Property (PowerPoint)
+title: Floor.Format property (PowerPoint)
 keywords: vbapp10.chm703001
 f1_keywords:
 - vbapp10.chm703001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Floor.Format Property (PowerPoint)
+# Floor.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 

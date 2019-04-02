@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SentOnBehalfOfName Property (Outlook)
+title: SharingItem.SentOnBehalfOfName property (Outlook)
 keywords: vbaol11.chm663
 f1_keywords:
 - vbaol11.chm663
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SentOnBehalfOfName Property (Outlook)
+# SharingItem.SentOnBehalfOfName property (Outlook)
 
 Returns or sets a  **String** indicating the display name for the intended sender of the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

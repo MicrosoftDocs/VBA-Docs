@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Characters Property (PowerPoint)
+title: DisplayUnitLabel.Characters property (PowerPoint)
 keywords: vbapp10.chm699002
 f1_keywords:
 - vbapp10.chm699002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Characters Property (PowerPoint)
+# DisplayUnitLabel.Characters property (PowerPoint)
 
 Returns a  **[ChartCharacters](PowerPoint.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
 

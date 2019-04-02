@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Application Property (Outlook)
+title: ExchangeUser.Application property (Outlook)
 keywords: vbaol11.chm2061
 f1_keywords:
 - vbaol11.chm2061
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Application Property (Outlook)
+# ExchangeUser.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read-only.
 

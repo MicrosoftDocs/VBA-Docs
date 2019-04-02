@@ -1,5 +1,5 @@
 ---
-title: PageSetup.SlideSize Property (PowerPoint)
+title: PageSetup.SlideSize property (PowerPoint)
 keywords: vbapp10.chm527006
 f1_keywords:
 - vbapp10.chm527006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.SlideSize Property (PowerPoint)
+# PageSetup.SlideSize property (PowerPoint)
 
 Returns or sets the slide size for the specified presentation. Read/write.
 

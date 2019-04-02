@@ -1,5 +1,5 @@
 ---
-title: MailItem.Forward Event (Outlook)
+title: MailItem.Forward event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.Forward
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Forward Event (Outlook)
+# MailItem.Forward event (Outlook)
 
 Occurs when the user selects the  **Forward** action for an item, or when the **Forward** method is called for the item, which is an instance of the parent object.
 

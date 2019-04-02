@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.AdvanceTime Property (PowerPoint)
+title: SlideShowTransition.AdvanceTime property (PowerPoint)
 keywords: vbapp10.chm539005
 f1_keywords:
 - vbapp10.chm539005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition.AdvanceTime Property (PowerPoint)
+# SlideShowTransition.AdvanceTime property (PowerPoint)
 
 Returns or sets the amount of time, in seconds, after which the specified slide transition will occur. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange.ActionSettings Property (PowerPoint)
+title: TextRange.ActionSettings property (PowerPoint)
 keywords: vbapp10.chm569003
 f1_keywords:
 - vbapp10.chm569003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.ActionSettings Property (PowerPoint)
+# TextRange.ActionSettings property (PowerPoint)
 
 Returns an  **[ActionSettings](PowerPoint.ActionSettings.md)** object that contains information about what action occurs when the user clicks or moves the mouse over the specified shape or text range during a slide show. Read-only.
 

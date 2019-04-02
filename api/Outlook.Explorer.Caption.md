@@ -1,5 +1,5 @@
 ---
-title: Explorer.Caption Property (Outlook)
+title: Explorer.Caption property (Outlook)
 keywords: vbaol11.chm2765
 f1_keywords:
 - vbaol11.chm2765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Caption Property (Outlook)
+# Explorer.Caption property (Outlook)
 
 Returns a  **String** representing the title. Read-only.
 

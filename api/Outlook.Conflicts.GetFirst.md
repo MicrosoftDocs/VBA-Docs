@@ -1,5 +1,5 @@
 ---
-title: Conflicts.GetFirst Method (Outlook)
+title: Conflicts.GetFirst method (Outlook)
 keywords: vbaol11.chm406
 f1_keywords:
 - vbaol11.chm406
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflicts.GetFirst Method (Outlook)
+# Conflicts.GetFirst method (Outlook)
 
 Returns the first object in the  **[Conflicts](Outlook.Conflicts.md)** collection.
 

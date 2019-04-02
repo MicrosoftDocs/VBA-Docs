@@ -1,5 +1,5 @@
 ---
-title: PostItem.ClearTaskFlag Method (Outlook)
+title: PostItem.ClearTaskFlag method (Outlook)
 keywords: vbaol11.chm3236
 f1_keywords:
 - vbaol11.chm3236
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ClearTaskFlag Method (Outlook)
+# PostItem.ClearTaskFlag method (Outlook)
 
 Clears the  **[PostItem](Outlook.PostItem.md)** object as a task.
 

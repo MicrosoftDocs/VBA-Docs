@@ -1,5 +1,5 @@
 ---
-title: TableView.XML Property (Outlook)
+title: TableView.XML property (Outlook)
 keywords: vbaol11.chm2514
 f1_keywords:
 - vbaol11.chm2514
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.XML Property (Outlook)
+# TableView.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.PointerType Property (PowerPoint)
+title: SlideShowView.PointerType property (PowerPoint)
 keywords: vbapp10.chm513005
 f1_keywords:
 - vbapp10.chm513005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.PointerType Property (PowerPoint)
+# SlideShowView.PointerType property (PowerPoint)
 
 Returns or sets the type of pointer used in the slide show. Read/write.
 

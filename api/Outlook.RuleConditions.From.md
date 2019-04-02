@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.From Property (Outlook)
+title: RuleConditions.From property (Outlook)
 keywords: vbaol11.chm2315
 f1_keywords:
 - vbaol11.chm2315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.From Property (Outlook)
+# RuleConditions.From property (Outlook)
 
 Returns a  **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object with a **[ToOrFromRuleCondition.ConditionType](Outlook.ToOrFromRuleCondition.ConditionType.md)** of **olConditionFrom**. Read-only.
 

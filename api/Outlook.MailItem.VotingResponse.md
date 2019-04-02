@@ -1,5 +1,5 @@
 ---
-title: MailItem.VotingResponse Property (Outlook)
+title: MailItem.VotingResponse property (Outlook)
 keywords: vbaol11.chm1364
 f1_keywords:
 - vbaol11.chm1364
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.VotingResponse Property (Outlook)
+# MailItem.VotingResponse property (Outlook)
 
 Returns or sets a  **String** specifying the voting response for the mail message. Read/write.
 

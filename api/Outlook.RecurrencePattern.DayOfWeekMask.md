@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.DayOfWeekMask Property (Outlook)
+title: RecurrencePattern.DayOfWeekMask property (Outlook)
 keywords: vbaol11.chm274
 f1_keywords:
 - vbaol11.chm274
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.DayOfWeekMask Property (Outlook)
+# RecurrencePattern.DayOfWeekMask property (Outlook)
 
 Returns or sets an  **[OlDaysOfWeek](Outlook.OlDaysOfWeek.md)** constant representing the mask for the days of the week on which the recurring appointment or task occurs. Read/write.
 

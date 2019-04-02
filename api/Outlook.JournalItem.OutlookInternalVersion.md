@@ -1,5 +1,5 @@
 ---
-title: JournalItem.OutlookInternalVersion Property (Outlook)
+title: JournalItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm1249
 f1_keywords:
 - vbaol11.chm1249
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.OutlookInternalVersion Property (Outlook)
+# JournalItem.OutlookInternalVersion property (Outlook)
 
 Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 

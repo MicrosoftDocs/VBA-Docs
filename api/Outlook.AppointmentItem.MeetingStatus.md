@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.MeetingStatus Property (Outlook)
+title: AppointmentItem.MeetingStatus property (Outlook)
 keywords: vbaol11.chm883
 f1_keywords:
 - vbaol11.chm883
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.MeetingStatus Property (Outlook)
+# AppointmentItem.MeetingStatus property (Outlook)
 
 Returns or sets an  **[OlMeetingStatus](Outlook.OlMeetingStatus.md)** constant specifying the meeting status of the appointment. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.AttachmentAdd Event (Outlook)
+title: RemoteItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.AttachmentAdd Event (Outlook)
+# RemoteItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 

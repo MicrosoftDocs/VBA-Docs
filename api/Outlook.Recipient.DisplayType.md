@@ -1,5 +1,5 @@
 ---
-title: Recipient.DisplayType Property (Outlook)
+title: Recipient.DisplayType property (Outlook)
 keywords: vbaol11.chm2347
 f1_keywords:
 - vbaol11.chm2347
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.DisplayType Property (Outlook)
+# Recipient.DisplayType property (Outlook)
 
 Returns a constant belonging to the  **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration that describes the nature of the **[Recipient](Outlook.Recipient.md)**. Read-only.
 

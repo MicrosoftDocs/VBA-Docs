@@ -1,5 +1,5 @@
 ---
-title: TextRange.Font Property (PowerPoint)
+title: TextRange.Font property (PowerPoint)
 keywords: vbapp10.chm569023
 f1_keywords:
 - vbapp10.chm569023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Font Property (PowerPoint)
+# TextRange.Font property (PowerPoint)
 
 Returns a  **[Font](PowerPoint.Font.md)** object that represents character formatting. Read-only.
 

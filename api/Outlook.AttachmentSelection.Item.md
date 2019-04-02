@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection.Item Method (Outlook)
+title: AttachmentSelection.Item method (Outlook)
 keywords: vbaol11.chm2944
 f1_keywords:
 - vbaol11.chm2944
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AttachmentSelection.Item Method (Outlook)
+# AttachmentSelection.Item method (Outlook)
 
 Returns an  **[Attachment](Outlook.Attachment.md)** object from the collection.
 

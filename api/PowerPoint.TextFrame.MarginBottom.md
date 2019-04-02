@@ -1,5 +1,5 @@
 ---
-title: TextFrame.MarginBottom Property (PowerPoint)
+title: TextFrame.MarginBottom property (PowerPoint)
 keywords: vbapp10.chm558002
 f1_keywords:
 - vbapp10.chm558002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.MarginBottom Property (PowerPoint)
+# TextFrame.MarginBottom property (PowerPoint)
 
 Returns or sets the distance (in points) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write.
 

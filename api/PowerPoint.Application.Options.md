@@ -1,5 +1,5 @@
 ---
-title: Application.Options Property (PowerPoint)
+title: Application.Options property (PowerPoint)
 keywords: vbapp10.chm502054
 f1_keywords:
 - vbapp10.chm502054
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Options Property (PowerPoint)
+# Application.Options property (PowerPoint)
 
 Returns an  **[Options](PowerPoint.Options.md)** object that represents application options in Microsoft PowerPoint.
 

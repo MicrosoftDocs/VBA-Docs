@@ -1,5 +1,5 @@
 ---
-title: MailItem.RemoteStatus Property (Outlook)
+title: MailItem.RemoteStatus property (Outlook)
 keywords: vbaol11.chm1353
 f1_keywords:
 - vbaol11.chm1353
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.RemoteStatus Property (Outlook)
+# MailItem.RemoteStatus property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant specifying the remote status of the mail message. Read/write.
 

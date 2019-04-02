@@ -1,5 +1,5 @@
 ---
-title: Axis.MaximumScaleIsAuto Property (PowerPoint)
+title: Axis.MaximumScaleIsAuto property (PowerPoint)
 keywords: vbapp10.chm682018
 f1_keywords:
 - vbapp10.chm682018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.MaximumScaleIsAuto Property (PowerPoint)
+# Axis.MaximumScaleIsAuto property (PowerPoint)
 
  **True** if Microsoft Word calculates the maximum value for the value axis. Read/write **Boolean**.
 

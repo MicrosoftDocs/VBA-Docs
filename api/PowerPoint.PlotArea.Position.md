@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Position Property (PowerPoint)
+title: PlotArea.Position property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Position
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.Position Property (PowerPoint)
+# PlotArea.Position property (PowerPoint)
 
 Returns or sets the position of the plot area on the chart. Read/write  **[xlChartElementPosition](PowerPoint.XlChartElementPosition.md)**.
 

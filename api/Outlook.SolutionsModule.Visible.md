@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule.Visible Property (Outlook)
+title: SolutionsModule.Visible property (Outlook)
 keywords: vbaol11.chm3367
 f1_keywords:
 - vbaol11.chm3367
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SolutionsModule.Visible Property (Outlook)
+# SolutionsModule.Visible property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether the **Solutions** module is displayed in the navigation pane. Read/write.
 

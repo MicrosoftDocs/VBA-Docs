@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Display Method (Outlook)
+title: DocumentItem.Display method (Outlook)
 keywords: vbaol11.chm1212
 f1_keywords:
 - vbaol11.chm1212
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Display Method (Outlook)
+# DocumentItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

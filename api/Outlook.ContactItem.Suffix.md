@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Suffix Property (Outlook)
+title: ContactItem.Suffix property (Outlook)
 keywords: vbaol11.chm1066
 f1_keywords:
 - vbaol11.chm1066
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Suffix Property (Outlook)
+# ContactItem.Suffix property (Outlook)
 
 Returns or sets a  **String** indicating the name suffix (such as Jr., III, or Ph.D.) for the specified contact. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Details Method (Outlook)
+title: AddressEntry.Details method (Outlook)
 keywords: vbaol11.chm2051
 f1_keywords:
 - vbaol11.chm2051
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.Details Method (Outlook)
+# AddressEntry.Details method (Outlook)
 
 Displays a modeless dialog box that provides detailed information about an  **[AddressEntry](Outlook.AddressEntry.md)** object.
 

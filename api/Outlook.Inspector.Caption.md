@@ -1,5 +1,5 @@
 ---
-title: Inspector.Caption Property (Outlook)
+title: Inspector.Caption property (Outlook)
 keywords: vbaol11.chm2973
 f1_keywords:
 - vbaol11.chm2973
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Caption Property (Outlook)
+# Inspector.Caption property (Outlook)
 
 Returns a  **String** representing the title. Read-only.
 

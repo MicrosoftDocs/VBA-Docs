@@ -1,5 +1,5 @@
 ---
-title: AddressEntries Object (Outlook)
+title: AddressEntries object (Outlook)
 keywords: vbaol11.chm24
 f1_keywords:
 - vbaol11.chm24
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntries Object (Outlook)
+# AddressEntries object (Outlook)
 
 Contains a collection of addresses for an  **[AddressList](Outlook.AddressList.md)** object.
 

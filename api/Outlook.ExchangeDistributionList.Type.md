@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Type Property (Outlook)
+title: ExchangeDistributionList.Type property (Outlook)
 keywords: vbaol11.chm2119
 f1_keywords:
 - vbaol11.chm2119
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Type Property (Outlook)
+# ExchangeDistributionList.Type property (Outlook)
 
 Returns a  **String** representing the type of entry for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 

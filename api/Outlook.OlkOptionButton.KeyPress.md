@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.KeyPress Event (Outlook)
+title: OlkOptionButton.KeyPress event (Outlook)
 keywords: vbaol11.chm1000187
 f1_keywords:
 - vbaol11.chm1000187
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.KeyPress Event (Outlook)
+# OlkOptionButton.KeyPress event (Outlook)
 
 Occurs when the user presses an ANSI key.
 

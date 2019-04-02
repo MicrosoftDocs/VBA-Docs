@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.EndStyle Property (PowerPoint)
+title: ErrorBars.EndStyle property (PowerPoint)
 keywords: vbapp10.chm66660
 f1_keywords:
 - vbapp10.chm66660
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars.EndStyle Property (PowerPoint)
+# ErrorBars.EndStyle property (PowerPoint)
 
 Returns or sets the end style for the error bars. Read/write  **Long**.
 

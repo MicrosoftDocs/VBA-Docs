@@ -1,5 +1,5 @@
 ---
-title: Borders Object (PowerPoint)
+title: Borders object (PowerPoint)
 keywords: vbapp10.chm629000
 f1_keywords:
 - vbapp10.chm629000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Borders Object (PowerPoint)
+# Borders object (PowerPoint)
 
 A collection of  **[LineFormat](PowerPoint.LineFormat.md)** objects that represent the borders and diagonal lines of a cell or range of cells in a table.
 

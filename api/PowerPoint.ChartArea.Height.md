@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Height Property (PowerPoint)
+title: ChartArea.Height property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Height
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Height Property (PowerPoint)
+# ChartArea.Height property (PowerPoint)
 
 Returns or sets the height, in points, of the object. Read/write  **Double**.
 

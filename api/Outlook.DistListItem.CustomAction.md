@@ -1,5 +1,5 @@
 ---
-title: DistListItem.CustomAction Event (Outlook)
+title: DistListItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.CustomAction Event (Outlook)
+# DistListItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 

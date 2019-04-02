@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList Object (Outlook)
+title: ExchangeDistributionList object (Outlook)
 keywords: vbaol11.chm3159
 f1_keywords:
 - vbaol11.chm3159
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList Object (Outlook)
+# ExchangeDistributionList object (Outlook)
 
 The  **ExchangeDistributionList** object provides detailed information about an **[AddressEntry](Outlook.AddressEntry.md)** that represents an Exchange distribution list.
 

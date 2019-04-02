@@ -1,5 +1,5 @@
 ---
-title: Conversation Object (Outlook)
+title: Conversation object (Outlook)
 keywords: vbaol11.chm3388
 f1_keywords:
 - vbaol11.chm3388
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation Object (Outlook)
+# Conversation object (Outlook)
 
 Represents a conversation that includes one or more items stored in one or more folders and stores.
 

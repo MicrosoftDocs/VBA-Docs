@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.View Property (PowerPoint)
+title: SlideShowWindow.View property (PowerPoint)
 keywords: vbapp10.chm507003
 f1_keywords:
 - vbapp10.chm507003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindow.View Property (PowerPoint)
+# SlideShowWindow.View property (PowerPoint)
 
 Returns a  **[SlideShowView](PowerPoint.SlideShowView.md)** object. Read-only.
 

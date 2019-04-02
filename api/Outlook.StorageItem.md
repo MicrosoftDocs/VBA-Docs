@@ -1,5 +1,5 @@
 ---
-title: StorageItem Object (Outlook)
+title: StorageItem object (Outlook)
 keywords: vbaol11.chm3017
 f1_keywords:
 - vbaol11.chm3017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem Object (Outlook)
+# StorageItem object (Outlook)
 
 A message object in MAPI that is always saved as a hidden item in the parent folder and stores private data for Outlook solutions.
 

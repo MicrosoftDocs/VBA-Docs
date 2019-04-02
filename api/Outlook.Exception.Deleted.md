@@ -1,5 +1,5 @@
 ---
-title: Exception.Deleted Property (Outlook)
+title: Exception.Deleted property (Outlook)
 keywords: vbaol11.chm302
 f1_keywords:
 - vbaol11.chm302
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.Deleted Property (Outlook)
+# Exception.Deleted property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[AppointmentItem](Outlook.AppointmentItem.md)** was deleted from the recurring pattern. Read-only
 

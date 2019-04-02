@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.SaveAs Method (Outlook)
+title: RemoteItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1619
 f1_keywords:
 - vbaol11.chm1619
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.SaveAs Method (Outlook)
+# RemoteItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 

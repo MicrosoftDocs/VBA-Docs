@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetSelectNamesDialog Method (Outlook)
+title: NameSpace.GetSelectNamesDialog method (Outlook)
 keywords: vbaol11.chm781
 f1_keywords:
 - vbaol11.chm781
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.GetSelectNamesDialog Method (Outlook)
+# NameSpace.GetSelectNamesDialog method (Outlook)
 
 Obtains a  **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object for the current session.
 

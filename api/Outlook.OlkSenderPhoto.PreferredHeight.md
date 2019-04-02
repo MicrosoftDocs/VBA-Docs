@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.PreferredHeight Property (Outlook)
+title: OlkSenderPhoto.PreferredHeight property (Outlook)
 keywords: vbaol11.chm1000482
 f1_keywords:
 - vbaol11.chm1000482
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.PreferredHeight Property (Outlook)
+# OlkSenderPhoto.PreferredHeight property (Outlook)
 
 Returns a  **Long** that specifies the application-preferred height of the sender picture. Read-only.
 

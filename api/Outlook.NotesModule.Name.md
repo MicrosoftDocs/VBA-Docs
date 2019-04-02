@@ -1,5 +1,5 @@
 ---
-title: NotesModule.Name Property (Outlook)
+title: NotesModule.Name property (Outlook)
 keywords: vbaol11.chm2877
 f1_keywords:
 - vbaol11.chm2877
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule.Name Property (Outlook)
+# NotesModule.Name property (Outlook)
 
 Returns a  **String** value that represents the localized display name for the **[NotesModule](Outlook.NotesModule.md)** object. Read-only.
 

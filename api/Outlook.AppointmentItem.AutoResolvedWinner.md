@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.AutoResolvedWinner Property (Outlook)
+title: AppointmentItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm920
 f1_keywords:
 - vbaol11.chm920
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.AutoResolvedWinner Property (Outlook)
+# AppointmentItem.AutoResolvedWinner property (Outlook)
 
 Returns a  **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
 

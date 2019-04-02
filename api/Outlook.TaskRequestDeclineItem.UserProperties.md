@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.UserProperties Property (Outlook)
+title: TaskRequestDeclineItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1848
 f1_keywords:
 - vbaol11.chm1848
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.UserProperties Property (Outlook)
+# TaskRequestDeclineItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 

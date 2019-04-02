@@ -1,5 +1,5 @@
 ---
-title: ShapeRange Object (PowerPoint)
+title: ShapeRange object (PowerPoint)
 keywords: vbapp10.chm548000
 f1_keywords:
 - vbapp10.chm548000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange Object (PowerPoint)
+# ShapeRange object (PowerPoint)
 
 Represents a shape range, which is a set of shapes on a document. A shape range can contain as few as a single shape or as many as all the shapes on the document.
 

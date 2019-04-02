@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Attachments Property (Outlook)
+title: JournalItem.Attachments property (Outlook)
 keywords: vbaol11.chm1232
 f1_keywords:
 - vbaol11.chm1232
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Attachments Property (Outlook)
+# JournalItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 

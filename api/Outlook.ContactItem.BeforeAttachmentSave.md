@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BeforeAttachmentSave Event (Outlook)
+title: ContactItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BeforeAttachmentSave Event (Outlook)
+# ContactItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 

@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReceivedTime Property (Outlook)
+title: MailItem.ReceivedTime property (Outlook)
 keywords: vbaol11.chm1345
 f1_keywords:
 - vbaol11.chm1345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ReceivedTime Property (Outlook)
+# MailItem.ReceivedTime property (Outlook)
 
 Returns a  **Date** indicating the date and time at which the item was received. Read-only.
 

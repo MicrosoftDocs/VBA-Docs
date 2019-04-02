@@ -1,5 +1,5 @@
 ---
-title: Inspector.Activate Event (Outlook)
+title: Inspector.Activate event (Outlook)
 keywords: vbaol11.chm465
 f1_keywords:
 - vbaol11.chm465
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Activate Event (Outlook)
+# Inspector.Activate event (Outlook)
 
 Occurs when an inspector becomes the active window, either as a result of user action or through program code. 
 

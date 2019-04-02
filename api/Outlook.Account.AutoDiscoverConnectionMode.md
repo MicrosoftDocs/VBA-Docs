@@ -1,5 +1,5 @@
 ---
-title: Account.AutoDiscoverConnectionMode Property (Outlook)
+title: Account.AutoDiscoverConnectionMode property (Outlook)
 keywords: vbaol11.chm3436
 f1_keywords:
 - vbaol11.chm3436
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.AutoDiscoverConnectionMode Property (Outlook)
+# Account.AutoDiscoverConnectionMode property (Outlook)
 
 Returns an  **[OlAutoDiscoverConnectionMode](Outlook.OlAutoDiscoverConnectionMode.md)** constant that specifies the type of connection to use for the auto-discovery service of the Microsoft Exchange server that hosts the account mailbox. Read-only.
 

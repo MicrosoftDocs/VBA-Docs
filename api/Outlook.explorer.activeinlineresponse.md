@@ -1,5 +1,5 @@
 ---
-title: Explorer.ActiveInlineResponse Property (Outlook)
+title: Explorer.ActiveInlineResponse property (Outlook)
 keywords: vbaol11.chm3595
 f1_keywords:
 - vbaol11.chm3595
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.ActiveInlineResponse Property (Outlook)
+# Explorer.ActiveInlineResponse property (Outlook)
 Returns an item object representing the active inline response item in the explorer reading pane. Read-only.
 
 ## Syntax

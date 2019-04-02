@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Actions Property (Outlook)
+title: TaskRequestItem.Actions property (Outlook)
 keywords: vbaol11.chm1872
 f1_keywords:
 - vbaol11.chm1872
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Actions Property (Outlook)
+# TaskRequestItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 

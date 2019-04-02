@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.ItemProperties Property (Outlook)
+title: TaskRequestUpdateItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1959
 f1_keywords:
 - vbaol11.chm1959
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.ItemProperties Property (Outlook)
+# TaskRequestUpdateItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 

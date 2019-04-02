@@ -1,5 +1,5 @@
 ---
-title: NavigationModules.Count Property (Outlook)
+title: NavigationModules.Count property (Outlook)
 keywords: vbaol11.chm2799
 f1_keywords:
 - vbaol11.chm2799
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModules.Count Property (Outlook)
+# NavigationModules.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

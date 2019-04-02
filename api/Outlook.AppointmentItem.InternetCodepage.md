@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.InternetCodepage Property (Outlook)
+title: AppointmentItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm916
 f1_keywords:
 - vbaol11.chm916
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.InternetCodepage Property (Outlook)
+# AppointmentItem.InternetCodepage property (Outlook)
 
 Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
 

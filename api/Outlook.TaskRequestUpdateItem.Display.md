@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Display Method (Outlook)
+title: TaskRequestUpdateItem.Display method (Outlook)
 keywords: vbaol11.chm1950
 f1_keywords:
 - vbaol11.chm1950
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Display Method (Outlook)
+# TaskRequestUpdateItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

@@ -1,5 +1,5 @@
 ---
-title: ReportItem.BeforeRead Event (Outlook)
+title: ReportItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.BeforeRead Event (Outlook)
+# ReportItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 

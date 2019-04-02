@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Recipients Property (Outlook)
+title: MeetingItem.Recipients property (Outlook)
 keywords: vbaol11.chm1445
 f1_keywords:
 - vbaol11.chm1445
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Recipients Property (Outlook)
+# MeetingItem.Recipients property (Outlook)
 
 Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the Outlook item. Read-only.
 

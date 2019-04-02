@@ -1,5 +1,5 @@
 ---
-title: JournalItem.BeforeAutoSave Event (Outlook)
+title: JournalItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.BeforeAutoSave Event (Outlook)
+# JournalItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 

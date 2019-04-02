@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ProjectText Property (PowerPoint)
+title: ThreeDFormat.ProjectText property (PowerPoint)
 keywords: vbapp10.chm557036
 f1_keywords:
 - vbapp10.chm557036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ProjectText Property (PowerPoint)
+# ThreeDFormat.ProjectText property (PowerPoint)
 
 Specifies whether text on the specified  **ThreeDFormat** object rotates with the object. Read/write.
 

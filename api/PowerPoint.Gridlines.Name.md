@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Name Property (PowerPoint)
+title: Gridlines.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Gridlines.Name Property (PowerPoint)
+# Gridlines.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

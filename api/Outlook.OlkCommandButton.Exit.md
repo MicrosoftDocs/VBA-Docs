@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.Exit Event (Outlook)
+title: OlkCommandButton.Exit event (Outlook)
 keywords: vbaol11.chm1000126
 f1_keywords:
 - vbaol11.chm1000126
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.Exit Event (Outlook)
+# OlkCommandButton.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 

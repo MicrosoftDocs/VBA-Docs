@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeMinimize Event (Outlook)
+title: Explorer.BeforeMinimize event (Outlook)
 keywords: vbaol11.chm458
 f1_keywords:
 - vbaol11.chm458
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.BeforeMinimize Event (Outlook)
+# Explorer.BeforeMinimize event (Outlook)
 
 Occurs when the active explorer is minimized by the user.
 

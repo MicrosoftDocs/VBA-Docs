@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Delete Method (Outlook)
+title: TimelineView.Delete method (Outlook)
 keywords: vbaol11.chm2648
 f1_keywords:
 - vbaol11.chm2648
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Delete Method (Outlook)
+# TimelineView.Delete method (Outlook)
 
 Deletes an object from a collection.
 

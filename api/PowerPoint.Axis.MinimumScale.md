@@ -1,5 +1,5 @@
 ---
-title: Axis.MinimumScale Property (PowerPoint)
+title: Axis.MinimumScale property (PowerPoint)
 keywords: vbapp10.chm682019
 f1_keywords:
 - vbapp10.chm682019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.MinimumScale Property (PowerPoint)
+# Axis.MinimumScale property (PowerPoint)
 
 Returns or sets the minimum value on the value axis. Read/write  **Double**.
 

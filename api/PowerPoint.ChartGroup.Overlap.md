@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.Overlap Property (PowerPoint)
+title: ChartGroup.Overlap property (PowerPoint)
 keywords: vbapp10.chm692013
 f1_keywords:
 - vbapp10.chm692013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.Overlap Property (PowerPoint)
+# ChartGroup.Overlap property (PowerPoint)
 
 Specifies how bars and columns are positioned. Read/write  **Long**.
 

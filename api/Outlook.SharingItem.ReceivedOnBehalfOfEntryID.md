@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReceivedOnBehalfOfEntryID Property (Outlook)
+title: SharingItem.ReceivedOnBehalfOfEntryID property (Outlook)
 keywords: vbaol11.chm646
 f1_keywords:
 - vbaol11.chm646
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReceivedOnBehalfOfEntryID Property (Outlook)
+# SharingItem.ReceivedOnBehalfOfEntryID property (Outlook)
 
 Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** of the user delegated to represent the recipient for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.AutoTab Property (Outlook)
+title: OlkTextBox.AutoTab property (Outlook)
 keywords: vbaol11.chm1000036
 f1_keywords:
 - vbaol11.chm1000036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.AutoTab Property (Outlook)
+# OlkTextBox.AutoTab property (Outlook)
 
 Returns or sets a  **Boolean** that specifies if a tab is inserted automatically when the control has been filled to the maximum length specified. Read/write.
 

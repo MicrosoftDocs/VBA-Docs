@@ -1,5 +1,5 @@
 ---
-title: Placeholders Object (PowerPoint)
+title: Placeholders object (PowerPoint)
 keywords: vbapp10.chm544000
 f1_keywords:
 - vbapp10.chm544000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Placeholders Object (PowerPoint)
+# Placeholders object (PowerPoint)
 
 A collection of all the  **Shape** objects that represent placeholders on the specified slide.
 

@@ -1,5 +1,5 @@
 ---
-title: PublishObject.SourceType Property (PowerPoint)
+title: PublishObject.SourceType property (PowerPoint)
 keywords: vbapp10.chm635004
 f1_keywords:
 - vbapp10.chm635004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PublishObject.SourceType Property (PowerPoint)
+# PublishObject.SourceType property (PowerPoint)
 
 Returns or sets the source type of the presentation to be published to HTML. Read/write.
 

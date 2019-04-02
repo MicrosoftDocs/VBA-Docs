@@ -1,5 +1,5 @@
 ---
-title: Effect.Paragraph Property (PowerPoint)
+title: Effect.Paragraph property (PowerPoint)
 keywords: vbapp10.chm652014
 f1_keywords:
 - vbapp10.chm652014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.Paragraph Property (PowerPoint)
+# Effect.Paragraph property (PowerPoint)
 
 Returns or sets the paragraph in a text range to which to apply animation effects. Read/write.
 

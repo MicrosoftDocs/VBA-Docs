@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.DownloadState Property (Outlook)
+title: TaskRequestAcceptItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1810
 f1_keywords:
 - vbaol11.chm1810
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.DownloadState Property (Outlook)
+# TaskRequestAcceptItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Folders.FolderAdd Event (Outlook)
+title: Folders.FolderAdd event (Outlook)
 keywords: vbaol11.chm308
 f1_keywords:
 - vbaol11.chm308
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.FolderAdd Event (Outlook)
+# Folders.FolderAdd event (Outlook)
 
 Occurs when a folder is added to the specified  **[Folders](Outlook.Folders.md)** collection.
 

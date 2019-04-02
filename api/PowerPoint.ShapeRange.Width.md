@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Width Property (PowerPoint)
+title: ShapeRange.Width property (PowerPoint)
 keywords: vbapp10.chm548042
 f1_keywords:
 - vbapp10.chm548042
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Width Property (PowerPoint)
+# ShapeRange.Width property (PowerPoint)
 
 Returns or sets the width of the specified object, in points. Read/write.
 

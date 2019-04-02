@@ -1,5 +1,5 @@
 ---
-title: Reminder.NextReminderDate Property (Outlook)
+title: Reminder.NextReminderDate property (Outlook)
 keywords: vbaol11.chm563
 f1_keywords:
 - vbaol11.chm563
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.NextReminderDate Property (Outlook)
+# Reminder.NextReminderDate property (Outlook)
 
 Returns a  **Date** that indicates the next time the specified reminder will occur. Read-only.
 

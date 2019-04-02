@@ -1,5 +1,5 @@
 ---
-title: Shape.MediaFormat Property (PowerPoint)
+title: Shape.MediaFormat property (PowerPoint)
 keywords: vbapp10.chm547089
 f1_keywords:
 - vbapp10.chm547089
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.MediaFormat Property (PowerPoint)
+# Shape.MediaFormat property (PowerPoint)
 
 Allows access to the new audio or video object. Read-only.
 

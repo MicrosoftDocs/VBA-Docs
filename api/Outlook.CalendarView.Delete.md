@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Delete Method (Outlook)
+title: CalendarView.Delete method (Outlook)
 keywords: vbaol11.chm2613
 f1_keywords:
 - vbaol11.chm2613
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Delete Method (Outlook)
+# CalendarView.Delete method (Outlook)
 
 Deletes an object from a collection.
 

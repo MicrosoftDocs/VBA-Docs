@@ -1,5 +1,5 @@
 ---
-title: PostItem.AttachmentAdd Event (Outlook)
+title: PostItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.AttachmentAdd Event (Outlook)
+# PostItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 

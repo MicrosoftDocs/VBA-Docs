@@ -42,6 +42,6 @@ Specifies the telephone number type.
 
 ## Remarks
 
-See [ContactItem Object (Outlook)](Outlook.ContactItem.md).
+See [ContactItem object (Outlook)](Outlook.ContactItem.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

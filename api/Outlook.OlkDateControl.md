@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl Object (Outlook)
+title: OlkDateControl object (Outlook)
 keywords: vbaol11.chm1000376
 f1_keywords:
 - vbaol11.chm1000376
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl Object (Outlook)
+# OlkDateControl object (Outlook)
 
 A control that supports the drop-down date picker used in inspectors for task and appointment items to select a date. 
 

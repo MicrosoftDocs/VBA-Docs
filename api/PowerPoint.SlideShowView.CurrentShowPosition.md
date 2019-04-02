@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.CurrentShowPosition Property (PowerPoint)
+title: SlideShowView.CurrentShowPosition property (PowerPoint)
 keywords: vbapp10.chm513027
 f1_keywords:
 - vbapp10.chm513027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.CurrentShowPosition Property (PowerPoint)
+# SlideShowView.CurrentShowPosition property (PowerPoint)
 
 Returns the position of the current slide within the slide show that is showing in the specified view. Read-only.
 

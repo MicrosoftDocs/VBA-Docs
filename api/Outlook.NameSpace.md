@@ -1,5 +1,5 @@
 ---
-title: NameSpace Object (Outlook)
+title: NameSpace object (Outlook)
 keywords: vbaol11.chm3000
 f1_keywords:
 - vbaol11.chm3000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace Object (Outlook)
+# NameSpace object (Outlook)
 
 Represents an abstract root object for any data source.
 

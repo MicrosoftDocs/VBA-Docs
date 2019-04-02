@@ -1,5 +1,5 @@
 ---
-title: Comment.Left Property (PowerPoint)
+title: Comment.Left property (PowerPoint)
 keywords: vbapp10.chm642008
 f1_keywords:
 - vbapp10.chm642008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.Left Property (PowerPoint)
+# Comment.Left property (PowerPoint)
 
 Returns a  **Single** that represents the distance in points from the left edge of the comment to the left edge of the slide. Read-only.
 

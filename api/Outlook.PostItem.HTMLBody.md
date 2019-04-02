@@ -1,5 +1,5 @@
 ---
-title: PostItem.HTMLBody Property (Outlook)
+title: PostItem.HTMLBody property (Outlook)
 keywords: vbaol11.chm1548
 f1_keywords:
 - vbaol11.chm1548
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.HTMLBody Property (Outlook)
+# PostItem.HTMLBody property (Outlook)
 
 Returns or sets a  **String** representing the HTML body of the specified item. Read/write.
 

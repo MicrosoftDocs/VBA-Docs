@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradientType Property (PowerPoint)
+title: FillFormat.PresetGradientType property (PowerPoint)
 keywords: vbapp10.chm552018
 f1_keywords:
 - vbapp10.chm552018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetGradientType Property (PowerPoint)
+# FillFormat.PresetGradientType property (PowerPoint)
 
 Returns the preset gradient type for the specified fill. Read-only. 
 

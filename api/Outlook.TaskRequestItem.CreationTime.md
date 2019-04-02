@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.CreationTime Property (Outlook)
+title: TaskRequestItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1880
 f1_keywords:
 - vbaol11.chm1880
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.CreationTime Property (Outlook)
+# TaskRequestItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 

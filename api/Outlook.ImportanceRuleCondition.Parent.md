@@ -1,5 +1,5 @@
 ---
-title: ImportanceRuleCondition.Parent Property (Outlook)
+title: ImportanceRuleCondition.Parent property (Outlook)
 keywords: vbaol11.chm2335
 f1_keywords:
 - vbaol11.chm2335
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ImportanceRuleCondition.Parent Property (Outlook)
+# ImportanceRuleCondition.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.VerticalFlip Property (PowerPoint)
+title: Shape.VerticalFlip property (PowerPoint)
 keywords: vbapp10.chm547039
 f1_keywords:
 - vbapp10.chm547039
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.VerticalFlip Property (PowerPoint)
+# Shape.VerticalFlip property (PowerPoint)
 
 Determines whether the specified shape is flipped around the vertical axis. Read-only.
 

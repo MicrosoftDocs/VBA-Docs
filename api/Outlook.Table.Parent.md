@@ -1,5 +1,5 @@
 ---
-title: Table.Parent Property (Outlook)
+title: Table.Parent property (Outlook)
 keywords: vbaol11.chm2227
 f1_keywords:
 - vbaol11.chm2227
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Parent Property (Outlook)
+# Table.Parent property (Outlook)
 
 Returns the parent  **Object** of the **[Table](Outlook.Table.md)** object. Read-only.
 

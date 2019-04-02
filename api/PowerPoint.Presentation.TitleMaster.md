@@ -1,5 +1,5 @@
 ---
-title: Presentation.TitleMaster Property (PowerPoint)
+title: Presentation.TitleMaster property (PowerPoint)
 keywords: vbapp10.chm583004
 f1_keywords:
 - vbapp10.chm583004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.TitleMaster Property (PowerPoint)
+# Presentation.TitleMaster property (PowerPoint)
 
 Returns a  **[Master](PowerPoint.Master.md)** object that represents the title master for the specified presentation.
 

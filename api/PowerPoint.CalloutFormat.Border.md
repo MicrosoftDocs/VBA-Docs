@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Border Property (PowerPoint)
+title: CalloutFormat.Border property (PowerPoint)
 keywords: vbapp10.chm559010
 f1_keywords:
 - vbapp10.chm559010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Border Property (PowerPoint)
+# CalloutFormat.Border property (PowerPoint)
 
 Determines whether the text in the specified callout is surrounded by a border. Read/write.
 

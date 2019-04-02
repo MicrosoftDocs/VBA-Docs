@@ -1,5 +1,5 @@
 ---
-title: Presentation.LayoutDirection Property (PowerPoint)
+title: Presentation.LayoutDirection property (PowerPoint)
 keywords: vbapp10.chm583028
 f1_keywords:
 - vbapp10.chm583028
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.LayoutDirection Property (PowerPoint)
+# Presentation.LayoutDirection property (PowerPoint)
 
 Returns or sets the layout direction for the user interface. Read/write.
 

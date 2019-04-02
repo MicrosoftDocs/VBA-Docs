@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowDataLabelsOverMaximum Property (PowerPoint)
+title: Chart.ShowDataLabelsOverMaximum property (PowerPoint)
 keywords: vbapp10.chm684009
 f1_keywords:
 - vbapp10.chm684009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ShowDataLabelsOverMaximum Property (PowerPoint)
+# Chart.ShowDataLabelsOverMaximum property (PowerPoint)
 
 Returns or sets a value that indicates whether to show the data labels when the value is greater than the maximum value on the value axis. Read/write  **Boolean**.
 

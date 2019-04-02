@@ -1,5 +1,5 @@
 ---
-title: Panes Object (PowerPoint)
+title: Panes object (PowerPoint)
 keywords: vbapp10.chm630000
 f1_keywords:
 - vbapp10.chm630000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Panes Object (PowerPoint)
+# Panes object (PowerPoint)
 
 A collection of  **[Pane](PowerPoint.Pane.md)** objects that represent the slide, outline, and notes panes in the document window for normal view, or the single pane of any other view in the document window.
 

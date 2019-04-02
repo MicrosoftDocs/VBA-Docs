@@ -1,5 +1,5 @@
 ---
-title: PostItem.UnRead Property (Outlook)
+title: PostItem.UnRead property (Outlook)
 keywords: vbaol11.chm1537
 f1_keywords:
 - vbaol11.chm1537
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.UnRead Property (Outlook)
+# PostItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 

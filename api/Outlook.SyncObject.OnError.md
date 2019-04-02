@@ -1,5 +1,5 @@
 ---
-title: SyncObject.OnError Event (Outlook)
+title: SyncObject.OnError event (Outlook)
 keywords: vbaol11.chm113
 f1_keywords:
 - vbaol11.chm113
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObject.OnError Event (Outlook)
+# SyncObject.OnError event (Outlook)
 
 Occurs when Microsoft Outlook encounters an error while synchronizing a user?s folders using the specified  **Send\Receive** group.
 

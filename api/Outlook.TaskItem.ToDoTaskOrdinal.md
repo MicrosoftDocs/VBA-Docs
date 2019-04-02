@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ToDoTaskOrdinal Property (Outlook)
+title: TaskItem.ToDoTaskOrdinal property (Outlook)
 keywords: vbaol11.chm3046
 f1_keywords:
 - vbaol11.chm3046
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ToDoTaskOrdinal Property (Outlook)
+# TaskItem.ToDoTaskOrdinal property (Outlook)
 
 Returns or sets a  **Date** value that represents the ordinal value of the task for the **[TaskItem](Outlook.TaskItem.md)**. Read/write.
 

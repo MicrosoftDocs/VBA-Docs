@@ -1,5 +1,5 @@
 ---
-title: Hyperlink Object (PowerPoint)
+title: Hyperlink object (PowerPoint)
 keywords: vbapp10.chm526000
 f1_keywords:
 - vbapp10.chm526000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink Object (PowerPoint)
+# Hyperlink object (PowerPoint)
 
 Represents a hyperlink associated with a non-placeholder shape or text. 
 

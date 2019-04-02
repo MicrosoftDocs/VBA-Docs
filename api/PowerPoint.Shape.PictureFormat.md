@@ -1,5 +1,5 @@
 ---
-title: Shape.PictureFormat Property (PowerPoint)
+title: Shape.PictureFormat property (PowerPoint)
 keywords: vbapp10.chm547032
 f1_keywords:
 - vbapp10.chm547032
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.PictureFormat Property (PowerPoint)
+# Shape.PictureFormat property (PowerPoint)
 
 Returns a  **[PictureFormat](PowerPoint.PictureFormat.md)** object that contains picture formatting properties for the specified shape. Read-only.
 

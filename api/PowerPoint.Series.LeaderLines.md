@@ -1,5 +1,5 @@
 ---
-title: Series.LeaderLines Property (PowerPoint)
+title: Series.LeaderLines property (PowerPoint)
 keywords: vbapp10.chm67202
 f1_keywords:
 - vbapp10.chm67202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.LeaderLines Property (PowerPoint)
+# Series.LeaderLines property (PowerPoint)
 
 Returns the leader lines for the series. Read-only  **[LeaderLines](PowerPoint.LeaderLines.md)**.
 

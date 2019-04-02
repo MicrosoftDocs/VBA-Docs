@@ -31,6 +31,6 @@ Indicates the view object type.
 
 ## Remarks
 
-Used by the  **ViewType** property of **View** objects and as a parameter to the [Views.Add Method (Outlook)](Outlook.Views.Add.md).
+Used by the  **ViewType** property of **View** objects and as a parameter to the [Views.Add method (Outlook)](Outlook.Views.Add.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

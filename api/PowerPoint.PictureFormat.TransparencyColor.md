@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparencyColor Property (PowerPoint)
+title: PictureFormat.TransparencyColor property (PowerPoint)
 keywords: vbapp10.chm551011
 f1_keywords:
 - vbapp10.chm551011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.TransparencyColor Property (PowerPoint)
+# PictureFormat.TransparencyColor property (PowerPoint)
 
 Returns or sets the transparent color for the specified picture as a red-green-blue (RGB) value. Read/write.
 

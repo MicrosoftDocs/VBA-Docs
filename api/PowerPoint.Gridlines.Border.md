@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Border Property (PowerPoint)
+title: Gridlines.Border property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Border
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Gridlines.Border Property (PowerPoint)
+# Gridlines.Border property (PowerPoint)
 
 Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBorder.md)**.
 

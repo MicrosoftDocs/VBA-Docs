@@ -1,5 +1,5 @@
 ---
-title: Table.GetRowCount Method (Outlook)
+title: Table.GetRowCount method (Outlook)
 keywords: vbaol11.chm2232
 f1_keywords:
 - vbaol11.chm2232
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.GetRowCount Method (Outlook)
+# Table.GetRowCount method (Outlook)
 
 Obtains the number of rows in the  **[Table](Outlook.Table.md)**.
 

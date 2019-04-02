@@ -1,5 +1,5 @@
 ---
-title: ChartBorder Object (PowerPoint)
+title: ChartBorder object (PowerPoint)
 keywords: vbapp10.chm685000
 f1_keywords:
 - vbapp10.chm685000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartBorder Object (PowerPoint)
+# ChartBorder object (PowerPoint)
 
 Represents the border of an object.
 

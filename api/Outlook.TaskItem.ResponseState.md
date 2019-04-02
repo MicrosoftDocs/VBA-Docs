@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ResponseState Property (Outlook)
+title: TaskItem.ResponseState property (Outlook)
 keywords: vbaol11.chm1740
 f1_keywords:
 - vbaol11.chm1740
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ResponseState Property (Outlook)
+# TaskItem.ResponseState property (Outlook)
 
 Returns an  **[OlTaskResponse](Outlook.OlTaskResponse.md)** constant indicating the overall status of the response to the specified task request. Read-only.
 

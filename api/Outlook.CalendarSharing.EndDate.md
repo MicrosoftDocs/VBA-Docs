@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.EndDate Property (Outlook)
+title: CalendarSharing.EndDate property (Outlook)
 keywords: vbaol11.chm2414
 f1_keywords:
 - vbaol11.chm2414
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarSharing.EndDate Property (Outlook)
+# CalendarSharing.EndDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the inclusive end date of the range of calendar items to be shared by the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
 

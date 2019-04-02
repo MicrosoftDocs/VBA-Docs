@@ -1,5 +1,5 @@
 ---
-title: MoveOrCopyRuleAction Object (Outlook)
+title: MoveOrCopyRuleAction object (Outlook)
 keywords: vbaol11.chm3164
 f1_keywords:
 - vbaol11.chm3164
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MoveOrCopyRuleAction Object (Outlook)
+# MoveOrCopyRuleAction object (Outlook)
 
 Represents an action that moves or copies a message.
 

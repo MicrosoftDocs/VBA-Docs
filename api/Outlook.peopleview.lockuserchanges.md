@@ -1,5 +1,5 @@
 ---
-title: PeopleView.LockUserChanges Property (Outlook)
+title: PeopleView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm3579
 f1_keywords:
 - vbaol11.chm3579
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.LockUserChanges Property (Outlook)
+# PeopleView.LockUserChanges property (Outlook)
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the view. Read/write.
 
 ## Version information

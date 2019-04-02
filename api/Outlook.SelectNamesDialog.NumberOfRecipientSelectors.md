@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.NumberOfRecipientSelectors Property (Outlook)
+title: SelectNamesDialog.NumberOfRecipientSelectors property (Outlook)
 keywords: vbaol11.chm834
 f1_keywords:
 - vbaol11.chm834
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.NumberOfRecipientSelectors Property (Outlook)
+# SelectNamesDialog.NumberOfRecipientSelectors property (Outlook)
 
 Returns or sets a  **[OlRecipientSelectors](Outlook.OlRecipientSelectors.md)** constant that determines the number of recipient edit boxes (each associated with a command button) displayed in the **Select Names** dialog box. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Application Property (PowerPoint)
+title: DataLabel.Application property (PowerPoint)
 keywords: vbapp10.chm696002
 f1_keywords:
 - vbapp10.chm696002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Application Property (PowerPoint)
+# DataLabel.Application property (PowerPoint)
 
 When used without an object qualifier, returns an  **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 

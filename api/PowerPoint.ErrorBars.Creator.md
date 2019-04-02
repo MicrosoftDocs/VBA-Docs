@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Creator Property (PowerPoint)
+title: ErrorBars.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars.Creator Property (PowerPoint)
+# ErrorBars.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

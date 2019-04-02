@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ReplyTime Property (Outlook)
+title: AppointmentItem.ReplyTime property (Outlook)
 keywords: vbaol11.chm897
 f1_keywords:
 - vbaol11.chm897
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ReplyTime Property (Outlook)
+# AppointmentItem.ReplyTime property (Outlook)
 
 Returns or sets a  **Date** indicating the reply time for the appointment. Read/write.
 

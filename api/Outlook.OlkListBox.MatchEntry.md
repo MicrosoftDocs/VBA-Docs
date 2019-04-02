@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.MatchEntry Property (Outlook)
+title: OlkListBox.MatchEntry property (Outlook)
 keywords: vbaol11.chm1000258
 f1_keywords:
 - vbaol11.chm1000258
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.MatchEntry Property (Outlook)
+# OlkListBox.MatchEntry property (Outlook)
 
 Returns or sets an  **[olMatchEntry](Outlook.OlMatchEntry.md)** constant that indicates how the control searches its list as the user types. Read/write.
 

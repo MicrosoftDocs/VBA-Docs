@@ -1,5 +1,5 @@
 ---
-title: Application.FileDialog Property (PowerPoint)
+title: Application.FileDialog property (PowerPoint)
 keywords: vbapp10.chm502046
 f1_keywords:
 - vbapp10.chm502046
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FileDialog Property (PowerPoint)
+# Application.FileDialog property (PowerPoint)
 
 Returns a  **FileDialog** object that represents a single instance of a file dialog box. Read-only.
 

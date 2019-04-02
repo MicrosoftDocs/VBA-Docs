@@ -1,5 +1,5 @@
 ---
-title: Presentation.Coauthoring Property (PowerPoint)
+title: Presentation.Coauthoring property (PowerPoint)
 keywords: vbapp10.chm583112
 f1_keywords:
 - vbapp10.chm583112
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Coauthoring Property (PowerPoint)
+# Presentation.Coauthoring property (PowerPoint)
 
 Returns a  **Coauthoring** object in the current **Presentation** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BeforeCheckNames Event (Outlook)
+title: SharingItem.BeforeCheckNames event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeCheckNames
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BeforeCheckNames Event (Outlook)
+# SharingItem.BeforeCheckNames event (Outlook)
 
 Occurs just before Microsoft Outlook starts resolving names in the recipient collection for an item (which is an instance of the parent object).
 

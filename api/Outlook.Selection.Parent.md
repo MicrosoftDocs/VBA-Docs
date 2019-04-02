@@ -1,5 +1,5 @@
 ---
-title: Selection.Parent Property (Outlook)
+title: Selection.Parent property (Outlook)
 keywords: vbaol11.chm84
 f1_keywords:
 - vbaol11.chm84
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Parent Property (Outlook)
+# Selection.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

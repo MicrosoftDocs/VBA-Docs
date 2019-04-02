@@ -1,5 +1,5 @@
 ---
-title: DistListItem.BeforeCheckNames Event (Outlook)
+title: DistListItem.BeforeCheckNames event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeCheckNames
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.BeforeCheckNames Event (Outlook)
+# DistListItem.BeforeCheckNames event (Outlook)
 
 Occurs just before Microsoft Outlook starts resolving names in the recipient collection for an item (which is an instance of the parent object).
 

@@ -1,5 +1,5 @@
 ---
-title: OlkInfoBar.MouseUp Event (Outlook)
+title: OlkInfoBar.MouseUp event (Outlook)
 keywords: vbaol11.chm1000303
 f1_keywords:
 - vbaol11.chm1000303
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkInfoBar.MouseUp Event (Outlook)
+# OlkInfoBar.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 

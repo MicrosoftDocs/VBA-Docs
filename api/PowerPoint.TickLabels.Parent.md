@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Parent Property (PowerPoint)
+title: TickLabels.Parent property (PowerPoint)
 keywords: vbapp10.chm719001
 f1_keywords:
 - vbapp10.chm719001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Parent Property (PowerPoint)
+# TickLabels.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

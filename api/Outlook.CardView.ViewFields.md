@@ -1,5 +1,5 @@
 ---
-title: CardView.ViewFields Property (Outlook)
+title: CardView.ViewFields property (Outlook)
 keywords: vbaol11.chm2602
 f1_keywords:
 - vbaol11.chm2602
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.ViewFields Property (Outlook)
+# CardView.ViewFields property (Outlook)
 
 Returns a  **[ViewFields](Outlook.ViewFields.md)** object that represents the set of fields with which Outlook items are displayed in the **[CardView](Outlook.CardView.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Pattern Property (PowerPoint)
+title: LineFormat.Pattern property (PowerPoint)
 keywords: vbapp10.chm553011
 f1_keywords:
 - vbapp10.chm553011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Pattern Property (PowerPoint)
+# LineFormat.Pattern property (PowerPoint)
 
 Sets or returns a value that represents the pattern applied to the specified line. Read/write.
 

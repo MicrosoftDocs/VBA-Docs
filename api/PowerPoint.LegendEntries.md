@@ -1,5 +1,5 @@
 ---
-title: LegendEntries Object (PowerPoint)
+title: LegendEntries object (PowerPoint)
 keywords: vbapp10.chm710000
 f1_keywords:
 - vbapp10.chm710000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntries Object (PowerPoint)
+# LegendEntries object (PowerPoint)
 
 A collection of all the  **[LegendEntry](PowerPoint.LegendEntry.md)** objects in the specified chart legend.
 

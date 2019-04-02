@@ -1,5 +1,5 @@
 ---
-title: FormDescription.PublishForm Method (Outlook)
+title: FormDescription.PublishForm method (Outlook)
 keywords: vbaol11.chm201
 f1_keywords:
 - vbaol11.chm201
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.PublishForm Method (Outlook)
+# FormDescription.PublishForm method (Outlook)
 
 Saves the definition of the  **[FormDescription](Outlook.FormDescription.md)** object in the specified form registry (library).
 

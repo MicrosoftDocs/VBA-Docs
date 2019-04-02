@@ -1,5 +1,5 @@
 ---
-title: TextRange.LanguageID Property (PowerPoint)
+title: TextRange.LanguageID property (PowerPoint)
 keywords: vbapp10.chm569037
 f1_keywords:
 - vbapp10.chm569037
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.LanguageID Property (PowerPoint)
+# TextRange.LanguageID property (PowerPoint)
 
 Returns or sets the language for the specified text range. Read/write.
 

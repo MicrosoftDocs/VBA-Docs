@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.ShowCategoriesDialog Method (Outlook)
+title: DocumentItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1219
 f1_keywords:
 - vbaol11.chm1219
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.ShowCategoriesDialog Method (Outlook)
+# DocumentItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 

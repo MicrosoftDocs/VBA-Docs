@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.Parent Property (PowerPoint)
+title: ShapeNode.Parent property (PowerPoint)
 keywords: vbapp10.chm561001
 f1_keywords:
 - vbapp10.chm561001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode.Parent Property (PowerPoint)
+# ShapeNode.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

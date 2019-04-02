@@ -1,5 +1,5 @@
 ---
-title: SharingItem.RetentionExpirationDate Property (Outlook)
+title: SharingItem.RetentionExpirationDate property (Outlook)
 keywords: vbaol11.chm3565
 f1_keywords:
 - vbaol11.chm3565
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.RetentionExpirationDate Property (Outlook)
+# SharingItem.RetentionExpirationDate property (Outlook)
 
 Returns a  **Date** that specifies the date when the **[SharingItem](Outlook.SharingItem.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
 

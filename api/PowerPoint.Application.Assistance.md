@@ -1,5 +1,5 @@
 ---
-title: Application.Assistance Property (PowerPoint)
+title: Application.Assistance property (PowerPoint)
 keywords: vbapp10.chm502058
 f1_keywords:
 - vbapp10.chm502058
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Assistance Property (PowerPoint)
+# Application.Assistance property (PowerPoint)
 
 Gets a reference to the Microsoft Office  **[IAssistance](Office.IAssistance.md)** object, which provides a means for developers to create a customized help experience for users within Microsoft Office. Read-only.
 

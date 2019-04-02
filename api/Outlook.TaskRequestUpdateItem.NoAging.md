@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.NoAging Property (Outlook)
+title: TaskRequestUpdateItem.NoAging property (Outlook)
 keywords: vbaol11.chm1938
 f1_keywords:
 - vbaol11.chm1938
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.NoAging Property (Outlook)
+# TaskRequestUpdateItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 

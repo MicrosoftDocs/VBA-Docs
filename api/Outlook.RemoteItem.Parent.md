@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Parent Property (Outlook)
+title: RemoteItem.Parent property (Outlook)
 keywords: vbaol11.chm1585
 f1_keywords:
 - vbaol11.chm1585
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Parent Property (Outlook)
+# RemoteItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

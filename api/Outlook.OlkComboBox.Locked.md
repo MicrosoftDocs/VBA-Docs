@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Locked Property (Outlook)
+title: OlkComboBox.Locked property (Outlook)
 keywords: vbaol11.chm1000207
 f1_keywords:
 - vbaol11.chm1000207
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Locked Property (Outlook)
+# OlkComboBox.Locked property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether or not the control is locked from being changed. Read/write.
 

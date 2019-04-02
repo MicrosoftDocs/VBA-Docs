@@ -1,5 +1,5 @@
 ---
-title: Store.IsDataFileStore Property (Outlook)
+title: Store.IsDataFileStore property (Outlook)
 keywords: vbaol11.chm805
 f1_keywords:
 - vbaol11.chm805
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.IsDataFileStore Property (Outlook)
+# Store.IsDataFileStore property (Outlook)
 
 Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a store for an Outlook data file, which is either a Personal Folders File (.pst) or an Offline Folder File (.ost). Read-only.
 

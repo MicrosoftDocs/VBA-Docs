@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty.Parent Property (Outlook)
+title: UserDefinedProperty.Parent property (Outlook)
 keywords: vbaol11.chm4
 f1_keywords:
 - vbaol11.chm4
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty.Parent Property (Outlook)
+# UserDefinedProperty.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

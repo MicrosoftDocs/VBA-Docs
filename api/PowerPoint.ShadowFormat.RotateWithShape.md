@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.RotateWithShape Property (PowerPoint)
+title: ShadowFormat.RotateWithShape property (PowerPoint)
 keywords: vbapp10.chm554014
 f1_keywords:
 - vbapp10.chm554014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.RotateWithShape Property (PowerPoint)
+# ShadowFormat.RotateWithShape property (PowerPoint)
 
 Returns or sets whether the specified shadow rotates when the shape it is associated with rotates. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.Sync Property (PowerPoint)
+title: Presentation.Sync property (PowerPoint)
 keywords: vbapp10.chm583084
 f1_keywords:
 - vbapp10.chm583084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Sync Property (PowerPoint)
+# Presentation.Sync property (PowerPoint)
 
 Returns a  **Sync** object that enables you to manage the synchronization of the local and server copies of a shared presentation stored in a Microsoft SharePoint Server shared workspace. Read-only.
 

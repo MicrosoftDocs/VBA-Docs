@@ -1,5 +1,5 @@
 ---
-title: Shape.TextFrame2 Property (PowerPoint)
+title: Shape.TextFrame2 property (PowerPoint)
 keywords: vbapp10.chm547077
 f1_keywords:
 - vbapp10.chm547077
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.TextFrame2 Property (PowerPoint)
+# Shape.TextFrame2 property (PowerPoint)
 
 Returns the  **[TextFrame2](PowerPoint.TextFrame2.md)** object associated with the specified **[Shape](PowerPoint.Shape.md)** object that contains the alignment and anchoring properties for the specified shape. Read-only.
 

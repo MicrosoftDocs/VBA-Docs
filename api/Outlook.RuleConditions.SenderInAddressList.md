@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.SenderInAddressList Property (Outlook)
+title: RuleConditions.SenderInAddressList property (Outlook)
 keywords: vbaol11.chm2319
 f1_keywords:
 - vbaol11.chm2319
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.SenderInAddressList Property (Outlook)
+# RuleConditions.SenderInAddressList property (Outlook)
 
 Returns a  **[SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md)** object with a **[SenderInAddressListRuleCondition.ConditionType](Outlook.SenderInAddressListRuleCondition.ConditionType.md)** of **olConditionAccount**. Read-only.
 

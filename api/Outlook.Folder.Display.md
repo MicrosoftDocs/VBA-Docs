@@ -1,5 +1,5 @@
 ---
-title: Folder.Display Method (Outlook)
+title: Folder.Display method (Outlook)
 keywords: vbaol11.chm1996
 f1_keywords:
 - vbaol11.chm1996
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Display Method (Outlook)
+# Folder.Display method (Outlook)
 
 Displays a new  **[Explorer](Outlook.Explorer.md)** object for the folder.
 

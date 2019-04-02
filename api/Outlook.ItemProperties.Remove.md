@@ -1,5 +1,5 @@
 ---
-title: ItemProperties.Remove Method (Outlook)
+title: ItemProperties.Remove method (Outlook)
 keywords: vbaol11.chm539
 f1_keywords:
 - vbaol11.chm539
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperties.Remove Method (Outlook)
+# ItemProperties.Remove method (Outlook)
 
 Removes an object from the collection.
 

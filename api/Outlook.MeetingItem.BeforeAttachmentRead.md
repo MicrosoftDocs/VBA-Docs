@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.BeforeAttachmentRead Event (Outlook)
+title: MeetingItem.BeforeAttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeAttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.BeforeAttachmentRead Event (Outlook)
+# MeetingItem.BeforeAttachmentRead event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 

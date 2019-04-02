@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Ordinal Property (Outlook)
+title: TaskItem.Ordinal property (Outlook)
 keywords: vbaol11.chm1730
 f1_keywords:
 - vbaol11.chm1730
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Ordinal Property (Outlook)
+# TaskItem.Ordinal property (Outlook)
 
 Returns or sets a  **Long** specifying the position in the view (ordinal) for the task. Read/write.
 

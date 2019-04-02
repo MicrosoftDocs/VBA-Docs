@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Display Method (Outlook)
+title: TaskRequestAcceptItem.Display method (Outlook)
 keywords: vbaol11.chm1803
 f1_keywords:
 - vbaol11.chm1803
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Display Method (Outlook)
+# TaskRequestAcceptItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

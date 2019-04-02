@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Shadow Property (PowerPoint)
+title: AxisTitle.Shadow property (PowerPoint)
 keywords: vbapp10.chm683007
 f1_keywords:
 - vbapp10.chm683007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Shadow Property (PowerPoint)
+# AxisTitle.Shadow property (PowerPoint)
 
 Returns or sets a value that determines whether the object has a shadow. Read/write  **Boolean**.
 

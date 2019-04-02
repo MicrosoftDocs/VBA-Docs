@@ -1,5 +1,5 @@
 ---
-title: ChartArea Object (PowerPoint)
+title: ChartArea object (PowerPoint)
 keywords: vbapp10.chm687000
 f1_keywords:
 - vbapp10.chm687000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea Object (PowerPoint)
+# ChartArea object (PowerPoint)
 
 Represents the chart area of a chart. 
 

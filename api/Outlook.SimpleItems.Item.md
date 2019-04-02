@@ -1,5 +1,5 @@
 ---
-title: SimpleItems.Item Method (Outlook)
+title: SimpleItems.Item method (Outlook)
 keywords: vbaol11.chm3398
 f1_keywords:
 - vbaol11.chm3398
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SimpleItems.Item Method (Outlook)
+# SimpleItems.Item method (Outlook)
 
 Returns an item in the  **[SimpleItems](Outlook.SimpleItems.md)** collection.
 

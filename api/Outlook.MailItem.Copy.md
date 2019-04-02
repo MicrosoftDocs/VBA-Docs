@@ -1,5 +1,5 @@
 ---
-title: MailItem.Copy Method (Outlook)
+title: MailItem.Copy method (Outlook)
 keywords: vbaol11.chm1321
 f1_keywords:
 - vbaol11.chm1321
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Copy Method (Outlook)
+# MailItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

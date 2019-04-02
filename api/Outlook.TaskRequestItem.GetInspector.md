@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.GetInspector Property (Outlook)
+title: TaskRequestItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1883
 f1_keywords:
 - vbaol11.chm1883
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.GetInspector Property (Outlook)
+# TaskRequestItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 

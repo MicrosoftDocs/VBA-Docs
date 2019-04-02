@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ResponseRequested Property (Outlook)
+title: AppointmentItem.ResponseRequested property (Outlook)
 keywords: vbaol11.chm900
 f1_keywords:
 - vbaol11.chm900
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ResponseRequested Property (Outlook)
+# AppointmentItem.ResponseRequested property (Outlook)
 
 Returns a  **Boolean** that indicates **True** if the sender would like a response to the meeting request for the appointment. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PlotArea Object (PowerPoint)
+title: PlotArea object (PowerPoint)
 keywords: vbapp10.chm713000
 f1_keywords:
 - vbapp10.chm713000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea Object (PowerPoint)
+# PlotArea object (PowerPoint)
 
 Represents the plot area of a chart.
 

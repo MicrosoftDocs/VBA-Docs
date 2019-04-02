@@ -1,5 +1,5 @@
 ---
-title: Row.GetValues Method (Outlook)
+title: Row.GetValues method (Outlook)
 keywords: vbaol11.chm2244
 f1_keywords:
 - vbaol11.chm2244
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.GetValues Method (Outlook)
+# Row.GetValues method (Outlook)
 
 Obtains a one-dimensional array containing the values for all columns at the  **[Row](Outlook.Row.md)** in the parent **[Table](Outlook.Table.md)**.
 

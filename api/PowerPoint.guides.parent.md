@@ -1,5 +1,5 @@
 ---
-title: Guides.Parent Property (PowerPoint)
+title: Guides.Parent property (PowerPoint)
 keywords: vbapp10.chm742002
 f1_keywords:
 - vbapp10.chm742002
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Guides.Parent Property (PowerPoint)
+# Guides.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

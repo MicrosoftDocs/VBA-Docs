@@ -1,5 +1,5 @@
 ---
-title: Column.Session Property (Outlook)
+title: Column.Session property (Outlook)
 keywords: vbaol11.chm2747
 f1_keywords:
 - vbaol11.chm2747
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Session Property (Outlook)
+# Column.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

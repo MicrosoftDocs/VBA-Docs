@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Mileage Property (Outlook)
+title: DocumentItem.Mileage property (Outlook)
 keywords: vbaol11.chm1199
 f1_keywords:
 - vbaol11.chm1199
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Mileage Property (Outlook)
+# DocumentItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 

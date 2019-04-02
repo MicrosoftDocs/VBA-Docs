@@ -1,5 +1,5 @@
 ---
-title: Category.CategoryID Property (Outlook)
+title: Category.CategoryID property (Outlook)
 keywords: vbaol11.chm2429
 f1_keywords:
 - vbaol11.chm2429
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Category.CategoryID Property (Outlook)
+# Category.CategoryID property (Outlook)
 
 Returns a  **String** value that represents the unique identifier for the **[Category](Outlook.Category.md)** object. Read-only.
 

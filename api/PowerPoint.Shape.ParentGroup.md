@@ -1,5 +1,5 @@
 ---
-title: Shape.ParentGroup Property (PowerPoint)
+title: Shape.ParentGroup property (PowerPoint)
 keywords: vbapp10.chm547067
 f1_keywords:
 - vbapp10.chm547067
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ParentGroup Property (PowerPoint)
+# Shape.ParentGroup property (PowerPoint)
 
 Returns a  **Shape** object that represents the common parent shape of a child shape or a range of child shapes.
 

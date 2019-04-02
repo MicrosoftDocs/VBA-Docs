@@ -1,5 +1,5 @@
 ---
-title: Items.Find Method (Outlook)
+title: Items.Find method (Outlook)
 keywords: vbaol11.chm62
 f1_keywords:
 - vbaol11.chm62
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.Find Method (Outlook)
+# Items.Find method (Outlook)
 
 Locates and returns a Microsoft Outlook item object that satisfies the given  _Filter_ .
 

@@ -1,5 +1,5 @@
 ---
-title: Reminder.Session Property (Outlook)
+title: Reminder.Session property (Outlook)
 keywords: vbaol11.chm556
 f1_keywords:
 - vbaol11.chm556
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.Session Property (Outlook)
+# Reminder.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

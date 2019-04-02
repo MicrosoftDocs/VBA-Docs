@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.BccLabel Property (Outlook)
+title: SelectNamesDialog.BccLabel property (Outlook)
 keywords: vbaol11.chm828
 f1_keywords:
 - vbaol11.chm828
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.BccLabel Property (Outlook)
+# SelectNamesDialog.BccLabel property (Outlook)
 
 Returns or sets a **String** for the text that appears on the **Bcc** command button on the **Select Names** dialog box. Read/write.
 

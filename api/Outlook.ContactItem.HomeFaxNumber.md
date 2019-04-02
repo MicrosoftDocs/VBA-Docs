@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HomeFaxNumber Property (Outlook)
+title: ContactItem.HomeFaxNumber property (Outlook)
 keywords: vbaol11.chm1019
 f1_keywords:
 - vbaol11.chm1019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HomeFaxNumber Property (Outlook)
+# ContactItem.HomeFaxNumber property (Outlook)
 
 Returns or sets a  **String** representing the home fax number for the contact. Read/write.
 

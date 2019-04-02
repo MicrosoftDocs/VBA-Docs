@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Parent Property (PowerPoint)
+title: TextRange2.Parent property (PowerPoint)
 ms.assetid: 0eaca5f5-de68-4d9b-96a3-0323dff39a4b
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.Parent Property (PowerPoint)
+# TextRange2.Parent property (PowerPoint)
 
 Gets the  **Parent** object for the **TextRange2** object. Read-only.
 
@@ -42,6 +42,6 @@ End With
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

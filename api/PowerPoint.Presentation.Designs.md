@@ -1,5 +1,5 @@
 ---
-title: Presentation.Designs Property (PowerPoint)
+title: Presentation.Designs property (PowerPoint)
 keywords: vbapp10.chm583063
 f1_keywords:
 - vbapp10.chm583063
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Designs Property (PowerPoint)
+# Presentation.Designs property (PowerPoint)
 
 Returns a  **[Designs](PowerPoint.Designs.md)** object that represents a collection of designs.
 

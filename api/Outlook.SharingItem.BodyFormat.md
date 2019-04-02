@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BodyFormat Property (Outlook)
+title: SharingItem.BodyFormat property (Outlook)
 keywords: vbaol11.chm675
 f1_keywords:
 - vbaol11.chm675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BodyFormat Property (Outlook)
+# SharingItem.BodyFormat property (Outlook)
 
 Returns or sets an  **[OlBodyFormat](Outlook.OlBodyFormat.md)** constant indicating the format of the body text. Read/write.
 

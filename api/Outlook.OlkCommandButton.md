@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton Object (Outlook)
+title: OlkCommandButton object (Outlook)
 keywords: vbaol11.chm1000132
 f1_keywords:
 - vbaol11.chm1000132
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton Object (Outlook)
+# OlkCommandButton object (Outlook)
 
 A control that supports a user action specified as a command.
 

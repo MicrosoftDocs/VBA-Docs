@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Parent Property (PowerPoint)
+title: PictureFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm551001
 f1_keywords:
 - vbapp10.chm551001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Parent Property (PowerPoint)
+# PictureFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

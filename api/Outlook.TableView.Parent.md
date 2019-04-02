@@ -1,5 +1,5 @@
 ---
-title: TableView.Parent Property (Outlook)
+title: TableView.Parent property (Outlook)
 keywords: vbaol11.chm2502
 f1_keywords:
 - vbaol11.chm2502
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Parent Property (Outlook)
+# TableView.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

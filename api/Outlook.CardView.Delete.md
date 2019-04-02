@@ -1,5 +1,5 @@
 ---
-title: CardView.Delete Method (Outlook)
+title: CardView.Delete method (Outlook)
 keywords: vbaol11.chm2585
 f1_keywords:
 - vbaol11.chm2585
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Delete Method (Outlook)
+# CardView.Delete method (Outlook)
 
 Deletes an object from a collection.
 

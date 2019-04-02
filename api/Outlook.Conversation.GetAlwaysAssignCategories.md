@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetAlwaysAssignCategories Method (Outlook)
+title: Conversation.GetAlwaysAssignCategories method (Outlook)
 keywords: vbaol11.chm3439
 f1_keywords:
 - vbaol11.chm3439
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.GetAlwaysAssignCategories Method (Outlook)
+# Conversation.GetAlwaysAssignCategories method (Outlook)
 
 Returns a  **String** that indicates the category or categories that are assigned to all new items that arrive in the conversation.
 

@@ -1,5 +1,5 @@
 ---
-title: Inspectors.Add Method (Outlook)
+title: Inspectors.Add method (Outlook)
 keywords: vbaol11.chm139
 f1_keywords:
 - vbaol11.chm139
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspectors.Add Method (Outlook)
+# Inspectors.Add method (Outlook)
 
 Creates a new inspector window.
 

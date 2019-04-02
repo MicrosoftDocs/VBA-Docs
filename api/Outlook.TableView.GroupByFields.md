@@ -1,5 +1,5 @@
 ---
-title: TableView.GroupByFields Property (Outlook)
+title: TableView.GroupByFields property (Outlook)
 keywords: vbaol11.chm2518
 f1_keywords:
 - vbaol11.chm2518
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.GroupByFields Property (Outlook)
+# TableView.GroupByFields property (Outlook)
 
 Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[TableView](Outlook.TableView.md)** object are grouped. Read-only.
 

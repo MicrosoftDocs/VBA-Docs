@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadLength Property (PowerPoint)
+title: LineFormat.BeginArrowheadLength property (PowerPoint)
 keywords: vbapp10.chm553003
 f1_keywords:
 - vbapp10.chm553003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.BeginArrowheadLength Property (PowerPoint)
+# LineFormat.BeginArrowheadLength property (PowerPoint)
 
 Returns or sets the length of the arrowhead at the beginning of the specified line. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationY Property (PowerPoint)
+title: ThreeDFormat.RotationY property (PowerPoint)
 keywords: vbapp10.chm557017
 f1_keywords:
 - vbapp10.chm557017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.RotationY Property (PowerPoint)
+# ThreeDFormat.RotationY property (PowerPoint)
 
 Returns or sets the rotation of the extruded shape around the y-axis, in degrees. Read/write.
 

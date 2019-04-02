@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.AudioCompressionType Property (PowerPoint)
+title: ResampleMediaTask.AudioCompressionType property (PowerPoint)
 keywords: vbapp10.chm727010
 f1_keywords:
 - vbapp10.chm727010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.AudioCompressionType Property (PowerPoint)
+# ResampleMediaTask.AudioCompressionType property (PowerPoint)
 
 Returns the audio compression type. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Session Property (Outlook)
+title: RecurrencePattern.Session property (Outlook)
 keywords: vbaol11.chm271
 f1_keywords:
 - vbaol11.chm271
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Session Property (Outlook)
+# RecurrencePattern.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

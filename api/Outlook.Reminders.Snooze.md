@@ -1,5 +1,5 @@
 ---
-title: Reminders.Snooze Event (Outlook)
+title: Reminders.Snooze event (Outlook)
 keywords: vbaol11.chm580
 f1_keywords:
 - vbaol11.chm580
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.Snooze Event (Outlook)
+# Reminders.Snooze event (Outlook)
 
 Occurs when a reminder is dismissed using the  **Snooze** button.
 

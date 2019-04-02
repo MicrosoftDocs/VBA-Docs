@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Comment Property (Outlook)
+title: FormDescription.Comment property (Outlook)
 keywords: vbaol11.chm185
 f1_keywords:
 - vbaol11.chm185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.Comment Property (Outlook)
+# FormDescription.Comment property (Outlook)
 
 Returns or sets a  **String** representing the text of a comment assigned to the form description. Read/write.
 

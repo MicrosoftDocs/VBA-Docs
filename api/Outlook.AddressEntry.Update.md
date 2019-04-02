@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Update Method (Outlook)
+title: AddressEntry.Update method (Outlook)
 keywords: vbaol11.chm2053
 f1_keywords:
 - vbaol11.chm2053
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.Update Method (Outlook)
+# AddressEntry.Update method (Outlook)
 
 Posts a change to the  **[AddressEntry](Outlook.AddressEntry.md)** object in the messaging system.
 

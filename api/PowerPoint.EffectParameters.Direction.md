@@ -1,5 +1,5 @@
 ---
-title: EffectParameters.Direction Property (PowerPoint)
+title: EffectParameters.Direction property (PowerPoint)
 keywords: vbapp10.chm654003
 f1_keywords:
 - vbapp10.chm654003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EffectParameters.Direction Property (PowerPoint)
+# EffectParameters.Direction property (PowerPoint)
 
 Determines the direction used for an animation effect. This property can be used only if the effect uses a direction. Read/write.
 

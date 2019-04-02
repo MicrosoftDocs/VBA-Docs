@@ -1,5 +1,5 @@
 ---
-title: Categories.Parent Property (Outlook)
+title: Categories.Parent property (Outlook)
 keywords: vbaol11.chm2434
 f1_keywords:
 - vbaol11.chm2434
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Categories.Parent Property (Outlook)
+# Categories.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

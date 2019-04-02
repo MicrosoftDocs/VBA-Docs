@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.Parent Property (Outlook)
+title: OutlookBarShortcuts.Parent property (Outlook)
 keywords: vbaol11.chm332
 f1_keywords:
 - vbaol11.chm332
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.Parent Property (Outlook)
+# OutlookBarShortcuts.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

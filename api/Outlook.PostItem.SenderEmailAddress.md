@@ -1,5 +1,5 @@
 ---
-title: PostItem.SenderEmailAddress Property (Outlook)
+title: PostItem.SenderEmailAddress property (Outlook)
 keywords: vbaol11.chm1567
 f1_keywords:
 - vbaol11.chm1567
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.SenderEmailAddress Property (Outlook)
+# PostItem.SenderEmailAddress property (Outlook)
 
 Returns a  **String** that represents the email address of the sender of the Outlook item. Read-only.
 

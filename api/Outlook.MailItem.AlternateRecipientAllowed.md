@@ -1,5 +1,5 @@
 ---
-title: MailItem.AlternateRecipientAllowed Property (Outlook)
+title: MailItem.AlternateRecipientAllowed property (Outlook)
 keywords: vbaol11.chm1328
 f1_keywords:
 - vbaol11.chm1328
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.AlternateRecipientAllowed Property (Outlook)
+# MailItem.AlternateRecipientAllowed property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the mail message can be forwarded. Read/write.
 

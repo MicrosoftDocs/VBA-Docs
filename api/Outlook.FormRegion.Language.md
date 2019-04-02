@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Language Property (Outlook)
+title: FormRegion.Language property (Outlook)
 keywords: vbaol11.chm2396
 f1_keywords:
 - vbaol11.chm2396
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Language Property (Outlook)
+# FormRegion.Language property (Outlook)
 
 Returns a  **Long** that indicates the LCID for the current language. Read-only.
 

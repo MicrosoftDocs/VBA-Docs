@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Transparency Property (PowerPoint)
+title: FillFormat.Transparency property (PowerPoint)
 keywords: vbapp10.chm552022
 f1_keywords:
 - vbapp10.chm552022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Transparency Property (PowerPoint)
+# FillFormat.Transparency property (PowerPoint)
 
 Returns or sets the degree of transparency of the specified fill, shadow, or line as a value between 0.0 (opaque) and 1.0 (clear). Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CreateItemFromTemplate Method (Outlook)
+title: Application.CreateItemFromTemplate method (Outlook)
 keywords: vbaol11.chm715
 f1_keywords:
 - vbaol11.chm715
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CreateItemFromTemplate Method (Outlook)
+# Application.CreateItemFromTemplate method (Outlook)
 
 Creates a new Microsoft Outlook item from an Outlook template (.oft) and returns the new item.
 

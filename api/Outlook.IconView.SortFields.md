@@ -1,5 +1,5 @@
 ---
-title: IconView.SortFields Property (Outlook)
+title: IconView.SortFields property (Outlook)
 keywords: vbaol11.chm2575
 f1_keywords:
 - vbaol11.chm2575
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.SortFields Property (Outlook)
+# IconView.SortFields property (Outlook)
 
 Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[IconView](Outlook.IconView.md)** object are ordered. Read-only.
 

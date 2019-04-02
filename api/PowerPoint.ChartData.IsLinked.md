@@ -1,5 +1,5 @@
 ---
-title: ChartData.IsLinked Property (PowerPoint)
+title: ChartData.IsLinked property (PowerPoint)
 keywords: vbapp10.chm689003
 f1_keywords:
 - vbapp10.chm689003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartData.IsLinked Property (PowerPoint)
+# ChartData.IsLinked property (PowerPoint)
 
  **True** if the data for the chart is linked to an external Microsoft Excel workbook. Read-only **Boolean**.
 

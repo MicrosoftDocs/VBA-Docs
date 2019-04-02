@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty.Class Property (Outlook)
+title: UserDefinedProperty.Class property (Outlook)
 keywords: vbaol11.chm2
 f1_keywords:
 - vbaol11.chm2
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty.Class Property (Outlook)
+# UserDefinedProperty.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

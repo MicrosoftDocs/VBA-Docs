@@ -1,5 +1,5 @@
 ---
-title: MailItem.To Property (Outlook)
+title: MailItem.To property (Outlook)
 keywords: vbaol11.chm1362
 f1_keywords:
 - vbaol11.chm1362
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.To Property (Outlook)
+# MailItem.To property (Outlook)
 
 Returns or sets a semicolon-delimited  **String** list of display names for the **To** recipients for the Outlook item. Read/write.
 

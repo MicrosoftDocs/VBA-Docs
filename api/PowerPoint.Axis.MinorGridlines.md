@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorGridlines Property (PowerPoint)
+title: Axis.MinorGridlines property (PowerPoint)
 keywords: vbapp10.chm682021
 f1_keywords:
 - vbapp10.chm682021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.MinorGridlines Property (PowerPoint)
+# Axis.MinorGridlines property (PowerPoint)
 
 Returns the minor gridlines for the specified axis. Read-only  **[Gridlines](PowerPoint.GridLines.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Mileage Property (Outlook)
+title: DistListItem.Mileage property (Outlook)
 keywords: vbaol11.chm1130
 f1_keywords:
 - vbaol11.chm1130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Mileage Property (Outlook)
+# DistListItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 

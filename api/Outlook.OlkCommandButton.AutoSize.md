@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.AutoSize Property (Outlook)
+title: OlkCommandButton.AutoSize property (Outlook)
 keywords: vbaol11.chm1000110
 f1_keywords:
 - vbaol11.chm1000110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.AutoSize Property (Outlook)
+# OlkCommandButton.AutoSize property (Outlook)
 
 Returns or sets a  **Boolean** that automatically sizes the control to display the entire contents. Read/write.
 

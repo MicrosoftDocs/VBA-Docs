@@ -1,5 +1,5 @@
 ---
-title: DataTable.Font Property (PowerPoint)
+title: DataTable.Font property (PowerPoint)
 keywords: vbapp10.chm698006
 f1_keywords:
 - vbapp10.chm698006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataTable.Font Property (PowerPoint)
+# DataTable.Font property (PowerPoint)
 
 Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.ChartFont.md)**.
 

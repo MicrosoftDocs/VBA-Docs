@@ -1,5 +1,5 @@
 ---
-title: Stores.Count Property (Outlook)
+title: Stores.Count property (Outlook)
 keywords: vbaol11.chm818
 f1_keywords:
 - vbaol11.chm818
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Stores.Count Property (Outlook)
+# Stores.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

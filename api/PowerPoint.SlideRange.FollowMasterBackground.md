@@ -1,5 +1,5 @@
 ---
-title: SlideRange.FollowMasterBackground Property (PowerPoint)
+title: SlideRange.FollowMasterBackground property (PowerPoint)
 keywords: vbapp10.chm532021
 f1_keywords:
 - vbapp10.chm532021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.FollowMasterBackground Property (PowerPoint)
+# SlideRange.FollowMasterBackground property (PowerPoint)
 
 Determines whether the range of slides follows the slide master background. Read/write.
 

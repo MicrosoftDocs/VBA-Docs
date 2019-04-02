@@ -1,5 +1,5 @@
 ---
-title: ContactItem.LastNameAndFirstName Property (Outlook)
+title: ContactItem.LastNameAndFirstName property (Outlook)
 keywords: vbaol11.chm1033
 f1_keywords:
 - vbaol11.chm1033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.LastNameAndFirstName Property (Outlook)
+# ContactItem.LastNameAndFirstName property (Outlook)
 
 Returns a  **String** representing the concatenated last name and first name for the contact. Read-only.
 

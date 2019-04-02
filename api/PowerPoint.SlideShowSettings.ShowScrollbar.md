@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.ShowScrollbar Property (PowerPoint)
+title: SlideShowSettings.ShowScrollbar property (PowerPoint)
 keywords: vbapp10.chm514015
 f1_keywords:
 - vbapp10.chm514015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.ShowScrollbar Property (PowerPoint)
+# SlideShowSettings.ShowScrollbar property (PowerPoint)
 
 Determines whether to display the scroll bar during a slide show in browse mode. Read/write.
 

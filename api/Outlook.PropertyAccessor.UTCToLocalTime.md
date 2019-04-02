@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.UTCToLocalTime Method (Outlook)
+title: PropertyAccessor.UTCToLocalTime method (Outlook)
 keywords: vbaol11.chm1974
 f1_keywords:
 - vbaol11.chm1974
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.UTCToLocalTime Method (Outlook)
+# PropertyAccessor.UTCToLocalTime method (Outlook)
 
 Converts the date-time value that is specified by  _Value_ and expressed in Coordinated Universal Time (UTC) to a value in local time.
 

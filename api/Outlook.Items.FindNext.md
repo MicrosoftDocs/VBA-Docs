@@ -1,5 +1,5 @@
 ---
-title: Items.FindNext Method (Outlook)
+title: Items.FindNext method (Outlook)
 keywords: vbaol11.chm63
 f1_keywords:
 - vbaol11.chm63
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.FindNext Method (Outlook)
+# Items.FindNext method (Outlook)
 
 After the  **[Find](Outlook.Items.Find.md)** method runs, this method finds and returns the next Outlook item in the specified collection.
 

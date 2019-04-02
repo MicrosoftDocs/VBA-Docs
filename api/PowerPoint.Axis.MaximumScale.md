@@ -1,5 +1,5 @@
 ---
-title: Axis.MaximumScale Property (PowerPoint)
+title: Axis.MaximumScale property (PowerPoint)
 keywords: vbapp10.chm682017
 f1_keywords:
 - vbapp10.chm682017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.MaximumScale Property (PowerPoint)
+# Axis.MaximumScale property (PowerPoint)
 
 Returns or sets the maximum value on the value axis. Read/write  **Double**.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.CustomPropertyChange Event (Outlook)
+title: TaskRequestUpdateItem.CustomPropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.CustomPropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.CustomPropertyChange Event (Outlook)
+# TaskRequestUpdateItem.CustomPropertyChange event (Outlook)
 
 Occurs when a custom property of an item (which is an instance of the parent object) is changed. 
 

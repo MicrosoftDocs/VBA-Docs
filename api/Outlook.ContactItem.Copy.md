@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Copy Method (Outlook)
+title: ContactItem.Copy method (Outlook)
 keywords: vbaol11.chm957
 f1_keywords:
 - vbaol11.chm957
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Copy Method (Outlook)
+# ContactItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

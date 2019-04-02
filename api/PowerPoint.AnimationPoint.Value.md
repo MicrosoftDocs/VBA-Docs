@@ -1,5 +1,5 @@
 ---
-title: AnimationPoint.Value Property (PowerPoint)
+title: AnimationPoint.Value property (PowerPoint)
 keywords: vbapp10.chm664005
 f1_keywords:
 - vbapp10.chm664005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoint.Value Property (PowerPoint)
+# AnimationPoint.Value property (PowerPoint)
 
 Sets or returns the value of a property for an animation point. Read/write.
 

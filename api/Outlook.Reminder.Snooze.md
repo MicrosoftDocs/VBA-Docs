@@ -1,5 +1,5 @@
 ---
-title: Reminder.Snooze Method (Outlook)
+title: Reminder.Snooze method (Outlook)
 keywords: vbaol11.chm559
 f1_keywords:
 - vbaol11.chm559
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.Snooze Method (Outlook)
+# Reminder.Snooze method (Outlook)
 
 Delays the reminder by a specified time. 
 

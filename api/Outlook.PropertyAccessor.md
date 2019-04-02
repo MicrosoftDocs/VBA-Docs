@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor Object (Outlook)
+title: PropertyAccessor object (Outlook)
 keywords: vbaol11.chm3157
 f1_keywords:
 - vbaol11.chm3157
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor Object (Outlook)
+# PropertyAccessor object (Outlook)
 
 Provides the ability to create, get, set, and delete properties on objects.
 

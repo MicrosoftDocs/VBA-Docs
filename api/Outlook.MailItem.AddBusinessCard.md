@@ -1,5 +1,5 @@
 ---
-title: MailItem.AddBusinessCard Method (Outlook)
+title: MailItem.AddBusinessCard method (Outlook)
 keywords: vbaol11.chm1389
 f1_keywords:
 - vbaol11.chm1389
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.AddBusinessCard Method (Outlook)
+# MailItem.AddBusinessCard method (Outlook)
 
 Appends contact information based on the Electronic Business Card (EBC) associated with the specified  **[ContactItem](Outlook.ContactItem.md)** object to the **[MailItem](Outlook.MailItem.md)** object.
 

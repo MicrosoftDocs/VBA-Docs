@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelTopDepth Property (PowerPoint)
+title: ThreeDFormat.BevelTopDepth property (PowerPoint)
 keywords: vbapp10.chm557027
 f1_keywords:
 - vbapp10.chm557027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.BevelTopDepth Property (PowerPoint)
+# ThreeDFormat.BevelTopDepth property (PowerPoint)
 
 Returns or sets the top bevel height for the specified  **ThreeDFormat** object, in points. Read/write.
 

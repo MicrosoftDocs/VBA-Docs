@@ -1,5 +1,5 @@
 ---
-title: Results Object (Outlook)
+title: Results object (Outlook)
 keywords: vbaol11.chm3012
 f1_keywords:
 - vbaol11.chm3012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results Object (Outlook)
+# Results object (Outlook)
 
 Contains data and results returned by the  **[Search](Outlook.Search.md)** object and the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.
 

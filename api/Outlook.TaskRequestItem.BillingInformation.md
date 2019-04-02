@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.BillingInformation Property (Outlook)
+title: TaskRequestItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1874
 f1_keywords:
 - vbaol11.chm1874
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.BillingInformation Property (Outlook)
+# TaskRequestItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
 

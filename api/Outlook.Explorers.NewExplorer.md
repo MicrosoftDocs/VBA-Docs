@@ -1,5 +1,5 @@
 ---
-title: Explorers.NewExplorer Event (Outlook)
+title: Explorers.NewExplorer event (Outlook)
 keywords: vbaol11.chm306
 f1_keywords:
 - vbaol11.chm306
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorers.NewExplorer Event (Outlook)
+# Explorers.NewExplorer event (Outlook)
 
 Occurs whenever a new explorer window is opened, either as a result of user action or through program code. 
 

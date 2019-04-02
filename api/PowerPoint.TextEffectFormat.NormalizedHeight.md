@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.NormalizedHeight Property (PowerPoint)
+title: TextEffectFormat.NormalizedHeight property (PowerPoint)
 keywords: vbapp10.chm556009
 f1_keywords:
 - vbapp10.chm556009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.NormalizedHeight Property (PowerPoint)
+# TextEffectFormat.NormalizedHeight property (PowerPoint)
 
 Determines whether the characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write.
 

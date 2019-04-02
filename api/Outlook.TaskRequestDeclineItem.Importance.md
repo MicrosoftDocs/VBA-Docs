@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Importance Property (Outlook)
+title: TaskRequestDeclineItem.Importance property (Outlook)
 keywords: vbaol11.chm1835
 f1_keywords:
 - vbaol11.chm1835
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Importance Property (Outlook)
+# TaskRequestDeclineItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 

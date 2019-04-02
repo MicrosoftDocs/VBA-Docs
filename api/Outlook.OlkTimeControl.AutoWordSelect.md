@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.AutoWordSelect Property (Outlook)
+title: OlkTimeControl.AutoWordSelect property (Outlook)
 keywords: vbaol11.chm1000379
 f1_keywords:
 - vbaol11.chm1000379
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.AutoWordSelect Property (Outlook)
+# OlkTimeControl.AutoWordSelect property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether a word or a character is the basic unit used to extend a selection. Read/write.
 

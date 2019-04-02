@@ -1,5 +1,5 @@
 ---
-title: SharingItem.OpenSharedFolder Method (Outlook)
+title: SharingItem.OpenSharedFolder method (Outlook)
 keywords: vbaol11.chm698
 f1_keywords:
 - vbaol11.chm698
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.OpenSharedFolder Method (Outlook)
+# SharingItem.OpenSharedFolder method (Outlook)
 
 Opens a shared folder offered by a sharing invitation.
 

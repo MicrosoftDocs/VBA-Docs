@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.SegmentType Property (PowerPoint)
+title: ShapeNode.SegmentType property (PowerPoint)
 keywords: vbapp10.chm561004
 f1_keywords:
 - vbapp10.chm561004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode.SegmentType Property (PowerPoint)
+# ShapeNode.SegmentType property (PowerPoint)
 
 Returns a value that indicates whether the segment associated with the specified node is straight or curved. Read-only.
 

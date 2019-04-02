@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.Recipients Property (Outlook)
+title: SelectNamesDialog.Recipients property (Outlook)
 keywords: vbaol11.chm827
 f1_keywords:
 - vbaol11.chm827
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.Recipients Property (Outlook)
+# SelectNamesDialog.Recipients property (Outlook)
 
 Returns a  **[Recipients](Outlook.Recipients.md)** collection object that represents the recipients selected in the **Select Names** dialog, or sets a **Recipients** collection object that represents the initial recipients to be displayed in the **Select Names** dialog box. Read/write.
 

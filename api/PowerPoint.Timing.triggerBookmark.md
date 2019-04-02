@@ -1,5 +1,5 @@
 ---
-title: Timing.TriggerBookmark Property (PowerPoint)
+title: Timing.TriggerBookmark property (PowerPoint)
 keywords: vbapp10.chm653019
 f1_keywords:
 - vbapp10.chm653019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Timing.TriggerBookmark Property (PowerPoint)
+# Timing.TriggerBookmark property (PowerPoint)
 
 Read/write
 

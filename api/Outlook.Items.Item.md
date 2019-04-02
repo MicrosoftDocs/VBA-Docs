@@ -1,5 +1,5 @@
 ---
-title: Items.Item Method (Outlook)
+title: Items.Item method (Outlook)
 keywords: vbaol11.chm58
 f1_keywords:
 - vbaol11.chm58
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.Item Method (Outlook)
+# Items.Item method (Outlook)
 
 Returns an Outlook item from a collection.
 

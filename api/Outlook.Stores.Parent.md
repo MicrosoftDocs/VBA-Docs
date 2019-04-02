@@ -1,5 +1,5 @@
 ---
-title: Stores.Parent Property (Outlook)
+title: Stores.Parent property (Outlook)
 keywords: vbaol11.chm817
 f1_keywords:
 - vbaol11.chm817
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Stores.Parent Property (Outlook)
+# Stores.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

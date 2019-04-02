@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.Change Event (Outlook)
+title: OlkContactPhoto.Change event (Outlook)
 keywords: vbaol11.chm1000321
 f1_keywords:
 - vbaol11.chm1000321
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.Change Event (Outlook)
+# OlkContactPhoto.Change event (Outlook)
 
 Occurs when the contact picture has changed.
 

@@ -1,5 +1,5 @@
 ---
-title: MediaFormat Object (PowerPoint)
+title: MediaFormat object (PowerPoint)
 keywords: vbapp10.chm724000
 f1_keywords:
 - vbapp10.chm724000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat Object (PowerPoint)
+# MediaFormat object (PowerPoint)
 
 Contains methods and properties that allow access to and control over audio and video media.
 

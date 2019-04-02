@@ -1,5 +1,5 @@
 ---
-title: JournalItem Object (Outlook)
+title: JournalItem object (Outlook)
 keywords: vbaol11.chm2999
 f1_keywords:
 - vbaol11.chm2999
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem Object (Outlook)
+# JournalItem object (Outlook)
 
 Represents a journal entry in a Journal folder. 
 

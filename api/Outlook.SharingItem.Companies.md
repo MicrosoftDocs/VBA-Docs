@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Companies Property (Outlook)
+title: SharingItem.Companies property (Outlook)
 keywords: vbaol11.chm602
 f1_keywords:
 - vbaol11.chm602
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Companies Property (Outlook)
+# SharingItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 

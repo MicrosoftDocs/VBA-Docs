@@ -1,5 +1,5 @@
 ---
-title: Ruler.Levels Property (PowerPoint)
+title: Ruler.Levels property (PowerPoint)
 keywords: vbapp10.chm570004
 f1_keywords:
 - vbapp10.chm570004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Ruler.Levels Property (PowerPoint)
+# Ruler.Levels property (PowerPoint)
 
 Returns a  **[RulerLevels](PowerPoint.RulerLevels.md)** object that represents outline indent formatting. Read-only.
 

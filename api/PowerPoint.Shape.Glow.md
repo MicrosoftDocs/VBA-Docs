@@ -1,5 +1,5 @@
 ---
-title: Shape.Glow Property (PowerPoint)
+title: Shape.Glow property (PowerPoint)
 keywords: vbapp10.chm547082
 f1_keywords:
 - vbapp10.chm547082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Glow Property (PowerPoint)
+# Shape.Glow property (PowerPoint)
 
 Returns the glow format for the specified shape. Read-only.
 

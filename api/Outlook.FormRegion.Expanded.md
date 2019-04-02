@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Expanded Event (Outlook)
+title: FormRegion.Expanded event (Outlook)
 keywords: vbaol11.chm2403
 f1_keywords:
 - vbaol11.chm2403
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Expanded Event (Outlook)
+# FormRegion.Expanded event (Outlook)
 
 Occurs when the form region expands or collapses
 

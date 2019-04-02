@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Size Property (Outlook)
+title: SharingItem.Size property (Outlook)
 keywords: vbaol11.chm619
 f1_keywords:
 - vbaol11.chm619
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Size Property (Outlook)
+# SharingItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 

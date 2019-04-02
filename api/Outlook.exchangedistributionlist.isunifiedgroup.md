@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.IsUnifiedGroup Method (Outlook)
+title: ExchangeDistributionList.IsUnifiedGroup method (Outlook)
 keywords: vbaol11.chm3628
 f1_keywords:
 - vbaol11.chm3628
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.IsUnifiedGroup Method (Outlook)
+# ExchangeDistributionList.IsUnifiedGroup method (Outlook)
 
 Determines if the object is a unified group.
 
@@ -30,6 +30,6 @@ Returns the  **Outlook.Folder** object associated with the group using the [GetU
 ## See also
 
 
-[ExchangeDistributionList Object (Outlook)](Outlook.ExchangeDistributionList.md)
+[ExchangeDistributionList object (Outlook)](Outlook.ExchangeDistributionList.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

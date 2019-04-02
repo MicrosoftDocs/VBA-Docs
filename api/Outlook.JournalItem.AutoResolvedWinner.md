@@ -1,5 +1,5 @@
 ---
-title: JournalItem.AutoResolvedWinner Property (Outlook)
+title: JournalItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1286
 f1_keywords:
 - vbaol11.chm1286
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.AutoResolvedWinner Property (Outlook)
+# JournalItem.AutoResolvedWinner property (Outlook)
 
 Returns a  **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
 

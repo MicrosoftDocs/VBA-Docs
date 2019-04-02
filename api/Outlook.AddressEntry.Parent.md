@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Parent Property (Outlook)
+title: AddressEntry.Parent property (Outlook)
 keywords: vbaol11.chm2041
 f1_keywords:
 - vbaol11.chm2041
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.Parent Property (Outlook)
+# AddressEntry.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

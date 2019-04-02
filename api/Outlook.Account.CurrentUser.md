@@ -1,5 +1,5 @@
 ---
-title: Account.CurrentUser Property (Outlook)
+title: Account.CurrentUser property (Outlook)
 keywords: vbaol11.chm3381
 f1_keywords:
 - vbaol11.chm3381
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.CurrentUser Property (Outlook)
+# Account.CurrentUser property (Outlook)
 
 Returns a  **[Recipient](Outlook.Recipient.md)** object that represents the current user identity for the account. Read-only.
 

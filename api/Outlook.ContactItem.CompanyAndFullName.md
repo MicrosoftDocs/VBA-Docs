@@ -1,5 +1,5 @@
 ---
-title: ContactItem.CompanyAndFullName Property (Outlook)
+title: ContactItem.CompanyAndFullName property (Outlook)
 keywords: vbaol11.chm983
 f1_keywords:
 - vbaol11.chm983
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.CompanyAndFullName Property (Outlook)
+# ContactItem.CompanyAndFullName property (Outlook)
 
 Returns a  **String** representing the concatenated company name and full name for the contact. Read-only.
 

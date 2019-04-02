@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperties.Add Method (Outlook)
+title: UserDefinedProperties.Add method (Outlook)
 keywords: vbaol11.chm588
 f1_keywords:
 - vbaol11.chm588
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperties.Add Method (Outlook)
+# UserDefinedProperties.Add method (Outlook)
 
 Creates a new  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object and appends it to the collection.
 

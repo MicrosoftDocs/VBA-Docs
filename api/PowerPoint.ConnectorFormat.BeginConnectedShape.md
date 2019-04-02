@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnectedShape Property (PowerPoint)
+title: ConnectorFormat.BeginConnectedShape property (PowerPoint)
 keywords: vbapp10.chm555007
 f1_keywords:
 - vbapp10.chm555007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnectedShape Property (PowerPoint)
+# ConnectorFormat.BeginConnectedShape property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the shape that the beginning of the specified connector is attached to. Read-only.
 

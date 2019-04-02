@@ -1,5 +1,5 @@
 ---
-title: MarkAsTaskRuleAction.MarkInterval Property (Outlook)
+title: MarkAsTaskRuleAction.MarkInterval property (Outlook)
 keywords: vbaol11.chm2286
 f1_keywords:
 - vbaol11.chm2286
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkAsTaskRuleAction.MarkInterval Property (Outlook)
+# MarkAsTaskRuleAction.MarkInterval property (Outlook)
 
 Returns or sets a constant in the  **[OlMarkInterval](Outlook.OlMarkInterval.md)** enumeration that represents the interval before the task is due. Read/write.
 

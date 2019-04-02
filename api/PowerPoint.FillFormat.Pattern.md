@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Pattern Property (PowerPoint)
+title: FillFormat.Pattern property (PowerPoint)
 keywords: vbapp10.chm552017
 f1_keywords:
 - vbapp10.chm552017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Pattern Property (PowerPoint)
+# FillFormat.Pattern property (PowerPoint)
 
 Sets or returns a value that represents the pattern applied to the specified fill. Read-only.
 

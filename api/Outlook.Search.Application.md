@@ -1,5 +1,5 @@
 ---
-title: Search.Application Property (Outlook)
+title: Search.Application property (Outlook)
 keywords: vbaol11.chm2249
 f1_keywords:
 - vbaol11.chm2249
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.Application Property (Outlook)
+# Search.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

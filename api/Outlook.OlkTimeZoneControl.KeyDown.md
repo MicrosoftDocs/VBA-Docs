@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.KeyDown Event (Outlook)
+title: OlkTimeZoneControl.KeyDown event (Outlook)
 keywords: vbaol11.chm1000523
 f1_keywords:
 - vbaol11.chm1000523
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.KeyDown Event (Outlook)
+# OlkTimeZoneControl.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 

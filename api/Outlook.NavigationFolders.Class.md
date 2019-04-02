@@ -1,5 +1,5 @@
 ---
-title: NavigationFolders.Class Property (Outlook)
+title: NavigationFolders.Class property (Outlook)
 keywords: vbaol11.chm2892
 f1_keywords:
 - vbaol11.chm2892
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolders.Class Property (Outlook)
+# NavigationFolders.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

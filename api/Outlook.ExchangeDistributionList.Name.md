@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Name Property (Outlook)
+title: ExchangeDistributionList.Name property (Outlook)
 keywords: vbaol11.chm2118
 f1_keywords:
 - vbaol11.chm2118
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Name Property (Outlook)
+# ExchangeDistributionList.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read/write.
 

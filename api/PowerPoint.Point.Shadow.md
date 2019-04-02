@@ -1,5 +1,5 @@
 ---
-title: Point.Shadow Property (PowerPoint)
+title: Point.Shadow property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Shadow
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Shadow Property (PowerPoint)
+# Point.Shadow property (PowerPoint)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
 

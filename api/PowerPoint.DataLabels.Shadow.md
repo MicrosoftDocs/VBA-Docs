@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Shadow Property (PowerPoint)
+title: DataLabels.Shadow property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Shadow
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.Shadow Property (PowerPoint)
+# DataLabels.Shadow property (PowerPoint)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Path Property (PowerPoint)
+title: Application.Path property (PowerPoint)
 keywords: vbapp10.chm502008
 f1_keywords:
 - vbapp10.chm502008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Path Property (PowerPoint)
+# Application.Path property (PowerPoint)
 
 Returns a  **String** that represents the path to the specified **[Application](PowerPoint.Application.md)** object. Read-only.
 

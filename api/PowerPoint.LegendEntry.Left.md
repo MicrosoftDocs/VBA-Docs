@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Left Property (PowerPoint)
+title: LegendEntry.Left property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Left
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntry.Left Property (PowerPoint)
+# LegendEntry.Left property (PowerPoint)
 
 Returns the distance, in points, from the left edge of the object to the left edge of the chart area. Read-only  **Double**.
 

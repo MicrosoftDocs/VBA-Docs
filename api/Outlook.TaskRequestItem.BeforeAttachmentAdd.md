@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.BeforeAttachmentAdd Event (Outlook)
+title: TaskRequestItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.BeforeAttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.BeforeAttachmentAdd Event (Outlook)
+# TaskRequestItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 

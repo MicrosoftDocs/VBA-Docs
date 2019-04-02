@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.DoubleClick Event (Outlook)
+title: OlkTimeZoneControl.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000517
 f1_keywords:
 - vbaol11.chm1000517
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.DoubleClick Event (Outlook)
+# OlkTimeZoneControl.DoubleClick event (Outlook)
 
 Occurs when the user double-clicks inside the control.
 

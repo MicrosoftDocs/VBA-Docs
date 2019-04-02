@@ -1,5 +1,5 @@
 ---
-title: Attachments.Parent Property (Outlook)
+title: Attachments.Parent property (Outlook)
 keywords: vbaol11.chm173
 f1_keywords:
 - vbaol11.chm173
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Parent Property (Outlook)
+# Attachments.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerForegroundColorIndex Property (PowerPoint)
+title: Point.MarkerForegroundColorIndex property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.MarkerForegroundColorIndex
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.MarkerForegroundColorIndex Property (PowerPoint)
+# Point.MarkerForegroundColorIndex property (PowerPoint)
 
 Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[xlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 

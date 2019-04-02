@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Details Method (Outlook)
+title: ExchangeDistributionList.Details method (Outlook)
 keywords: vbaol11.chm2121
 f1_keywords:
 - vbaol11.chm2121
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Details Method (Outlook)
+# ExchangeDistributionList.Details method (Outlook)
 
 Displays a modal dialog box that provides detailed information about an  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.AttachmentRead Event (Outlook)
+title: PostItem.AttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.AttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.AttachmentRead Event (Outlook)
+# PostItem.AttachmentRead event (Outlook)
 
 Occurs when an attachment in an instance of the parent object has been opened for reading.
 

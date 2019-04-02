@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.AfterWrite Event (Outlook)
+title: TaskRequestDeclineItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.AfterWrite Event (Outlook)
+# TaskRequestDeclineItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 

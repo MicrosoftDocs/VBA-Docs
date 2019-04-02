@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Application Property (PowerPoint)
+title: LinkFormat.Application property (PowerPoint)
 keywords: vbapp10.chm563001
 f1_keywords:
 - vbapp10.chm563001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LinkFormat.Application Property (PowerPoint)
+# LinkFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

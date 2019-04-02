@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Brightness Property (PowerPoint)
+title: PictureFormat.Brightness property (PowerPoint)
 keywords: vbapp10.chm551004
 f1_keywords:
 - vbapp10.chm551004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Brightness Property (PowerPoint)
+# PictureFormat.Brightness property (PowerPoint)
 
 Returns or sets the brightness of the specified picture or OLE object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Caption Property (PowerPoint)
+title: ChartCharacters.Caption property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Caption
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCharacters.Caption Property (PowerPoint)
+# ChartCharacters.Caption property (PowerPoint)
 
 Returns the text of this range of characters. Read-only  **String**.
 

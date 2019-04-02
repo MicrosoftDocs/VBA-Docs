@@ -1,5 +1,5 @@
 ---
-title: Inspector.HideFormPage Method (Outlook)
+title: Inspector.HideFormPage method (Outlook)
 keywords: vbaol11.chm2967
 f1_keywords:
 - vbaol11.chm2967
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.HideFormPage Method (Outlook)
+# Inspector.HideFormPage method (Outlook)
 
 Hides a form page or a form region in the inspector.
 

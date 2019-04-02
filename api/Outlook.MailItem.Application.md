@@ -1,5 +1,5 @@
 ---
-title: MailItem.Application Property (Outlook)
+title: MailItem.Application property (Outlook)
 keywords: vbaol11.chm1290
 f1_keywords:
 - vbaol11.chm1290
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Application Property (Outlook)
+# MailItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

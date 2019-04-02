@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Display Method (Outlook)
+title: SharingItem.Display method (Outlook)
 keywords: vbaol11.chm626
 f1_keywords:
 - vbaol11.chm626
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Display Method (Outlook)
+# SharingItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the **[SharingItem](Outlook.SharingItem.md)**.
 

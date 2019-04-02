@@ -1,5 +1,5 @@
 ---
-title: Font.NameAscii Property (PowerPoint)
+title: Font.NameAscii property (PowerPoint)
 keywords: vbapp10.chm575017
 f1_keywords:
 - vbapp10.chm575017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.NameAscii Property (PowerPoint)
+# Font.NameAscii property (PowerPoint)
 
 Returns or sets the font used for ASCII characters (characters with character set numbers within the range of 0 to 127). Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Inspectors.Class Property (Outlook)
+title: Inspectors.Class property (Outlook)
 keywords: vbaol11.chm134
 f1_keywords:
 - vbaol11.chm134
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspectors.Class Property (Outlook)
+# Inspectors.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

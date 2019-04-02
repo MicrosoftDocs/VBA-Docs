@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Text Property (PowerPoint)
+title: DisplayUnitLabel.Text property (PowerPoint)
 keywords: vbapp10.chm699008
 f1_keywords:
 - vbapp10.chm699008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Text Property (PowerPoint)
+# DisplayUnitLabel.Text property (PowerPoint)
 
 Returns or sets the text for the specified object. Read/write  **String**.
 

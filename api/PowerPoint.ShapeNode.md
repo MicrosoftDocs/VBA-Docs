@@ -1,5 +1,5 @@
 ---
-title: ShapeNode Object (PowerPoint)
+title: ShapeNode object (PowerPoint)
 keywords: vbapp10.chm561000
 f1_keywords:
 - vbapp10.chm561000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode Object (PowerPoint)
+# ShapeNode object (PowerPoint)
 
 Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform.
 

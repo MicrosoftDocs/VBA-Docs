@@ -1,5 +1,5 @@
 ---
-title: Chart.CategoryLabelLevel Property (PowerPoint)
+title: Chart.CategoryLabelLevel property (PowerPoint)
 keywords: vbapp10.chm684057
 f1_keywords:
 - vbapp10.chm684057
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.CategoryLabelLevel Property (PowerPoint)
+# Chart.CategoryLabelLevel property (PowerPoint)
 
 Returns or sets an [XlCategoryLabel](./Word.xlcategorylabellevel.md) constant that specifies the source level of the chart category labels. Read-write.
 

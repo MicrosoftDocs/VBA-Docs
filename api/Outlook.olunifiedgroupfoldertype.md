@@ -26,6 +26,6 @@ Specifies the folder to be obtained for unified groups. Because groups have both
 ## See also
 
 
-[Store.CreateUnifiedGroup Method (Outlook)](Outlook.store.createunifiedgroup.md)
+[Store.CreateUnifiedGroup method (Outlook)](Outlook.store.createunifiedgroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

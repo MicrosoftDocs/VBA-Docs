@@ -1,5 +1,5 @@
 ---
-title: Cell.Shape Property (PowerPoint)
+title: Cell.Shape property (PowerPoint)
 keywords: vbapp10.chm628003
 f1_keywords:
 - vbapp10.chm628003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Shape Property (PowerPoint)
+# Cell.Shape property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents a shape in a table cell. Read-only.
 

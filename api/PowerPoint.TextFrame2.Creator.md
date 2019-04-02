@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Creator Property (PowerPoint)
+title: TextFrame2.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.Creator Property (PowerPoint)
+# TextFrame2.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. Read-only.
 

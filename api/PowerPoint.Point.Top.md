@@ -1,5 +1,5 @@
 ---
-title: Point.Top Property (PowerPoint)
+title: Point.Top property (PowerPoint)
 keywords: vbapp10.chm714010
 f1_keywords:
 - vbapp10.chm714010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Top Property (PowerPoint)
+# Point.Top property (PowerPoint)
 
 Returns a value that represents the distance, in points, from the top edge of the object to the top edge of the chart area. Read-only.
 

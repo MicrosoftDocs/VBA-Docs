@@ -1,5 +1,5 @@
 ---
-title: GroupShapes Object (PowerPoint)
+title: GroupShapes object (PowerPoint)
 keywords: vbapp10.chm549000
 f1_keywords:
 - vbapp10.chm549000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GroupShapes Object (PowerPoint)
+# GroupShapes object (PowerPoint)
 
 Represents the individual shapes within a grouped shape. Each shape is represented by a  **[Shape](PowerPoint.Shape.md)** object. Using the [Item](PowerPoint.GroupShapes.Item.md)method with this object, you can work with single shapes within a group without having to ungroup them.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.HasNotesMaster Property (PowerPoint)
+title: Presentation.HasNotesMaster property (PowerPoint)
 keywords: vbapp10.chm583119
 f1_keywords:
 - vbapp10.chm583119
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.HasNotesMaster Property (PowerPoint)
+# Presentation.HasNotesMaster property (PowerPoint)
 
 Indicates whether the presentation has media that resides on a notes master. Read-only.
 

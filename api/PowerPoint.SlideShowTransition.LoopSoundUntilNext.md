@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.LoopSoundUntilNext Property (PowerPoint)
+title: SlideShowTransition.LoopSoundUntilNext property (PowerPoint)
 keywords: vbapp10.chm539008
 f1_keywords:
 - vbapp10.chm539008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition.LoopSoundUntilNext Property (PowerPoint)
+# SlideShowTransition.LoopSoundUntilNext property (PowerPoint)
 
 Specifies whether the sound that's been set for the specified slide transition loops until the next sound starts. Read/write.
 

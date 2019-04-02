@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.SelLength Property (Outlook)
+title: OlkTextBox.SelLength property (Outlook)
 keywords: vbaol11.chm1000063
 f1_keywords:
 - vbaol11.chm1000063
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.SelLength Property (Outlook)
+# OlkTextBox.SelLength property (Outlook)
 
 Returns or sets a  **Long** that specifies the number of characters in the current selection. Read/write.
 

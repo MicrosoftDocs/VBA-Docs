@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Type Property (Outlook)
+title: AddressEntry.Type property (Outlook)
 keywords: vbaol11.chm2049
 f1_keywords:
 - vbaol11.chm2049
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.Type Property (Outlook)
+# AddressEntry.Type property (Outlook)
 
 Returns or sets a  **String** representing the type of entry for this address such as an Internet Address, MacMail Address, or Microsoft Mail Address. Read/write.
 

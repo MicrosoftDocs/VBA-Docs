@@ -1,5 +1,5 @@
 ---
-title: MotionEffect.ToX Property (PowerPoint)
+title: MotionEffect.ToX property (PowerPoint)
 keywords: vbapp10.chm658007
 f1_keywords:
 - vbapp10.chm658007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MotionEffect.ToX Property (PowerPoint)
+# MotionEffect.ToX property (PowerPoint)
 
 Sets or returns a  **Single** that represents the horizontal position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percent of the screen width. Read/write.
 

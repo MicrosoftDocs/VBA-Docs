@@ -1,5 +1,5 @@
 ---
-title: PostItem.BillingInformation Property (Outlook)
+title: PostItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1515
 f1_keywords:
 - vbaol11.chm1515
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.BillingInformation Property (Outlook)
+# PostItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
 

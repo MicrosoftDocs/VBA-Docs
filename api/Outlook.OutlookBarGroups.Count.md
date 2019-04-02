@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.Count Property (Outlook)
+title: OutlookBarGroups.Count property (Outlook)
 keywords: vbaol11.chm350
 f1_keywords:
 - vbaol11.chm350
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.Count Property (Outlook)
+# OutlookBarGroups.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 

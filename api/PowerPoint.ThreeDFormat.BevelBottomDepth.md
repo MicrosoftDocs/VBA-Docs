@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelBottomDepth Property (PowerPoint)
+title: ThreeDFormat.BevelBottomDepth property (PowerPoint)
 keywords: vbapp10.chm557030
 f1_keywords:
 - vbapp10.chm557030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.BevelBottomDepth Property (PowerPoint)
+# ThreeDFormat.BevelBottomDepth property (PowerPoint)
 
 Returns or sets the bottom bevel height for the specified  **ThreeDFormat** object, in points. Read/write.
 

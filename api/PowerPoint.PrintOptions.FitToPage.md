@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.FitToPage Property (PowerPoint)
+title: PrintOptions.FitToPage property (PowerPoint)
 keywords: vbapp10.chm517004
 f1_keywords:
 - vbapp10.chm517004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.FitToPage Property (PowerPoint)
+# PrintOptions.FitToPage property (PowerPoint)
 
 Determines whether the slides will be scaled to fill the page they're printed on. Read/write.
 

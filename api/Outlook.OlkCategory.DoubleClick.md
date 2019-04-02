@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.DoubleClick Event (Outlook)
+title: OlkCategory.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000450
 f1_keywords:
 - vbaol11.chm1000450
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.DoubleClick Event (Outlook)
+# OlkCategory.DoubleClick event (Outlook)
 
 Occurs when the user double-clicks inside the control.
 

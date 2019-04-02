@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Weight Property (PowerPoint)
+title: LineFormat.Weight property (PowerPoint)
 keywords: vbapp10.chm553015
 f1_keywords:
 - vbapp10.chm553015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Weight Property (PowerPoint)
+# LineFormat.Weight property (PowerPoint)
 
 Returns or sets the thickness of the specified line, in points. Read/write.
 

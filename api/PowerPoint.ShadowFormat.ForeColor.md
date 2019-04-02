@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.ForeColor Property (PowerPoint)
+title: ShadowFormat.ForeColor property (PowerPoint)
 keywords: vbapp10.chm554004
 f1_keywords:
 - vbapp10.chm554004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.ForeColor Property (PowerPoint)
+# ShadowFormat.ForeColor property (PowerPoint)
 
 Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the foreground color for the fill, line, or shadow. Read/write.
 

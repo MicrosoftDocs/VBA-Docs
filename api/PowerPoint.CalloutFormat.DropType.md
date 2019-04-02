@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.DropType Property (PowerPoint)
+title: CalloutFormat.DropType property (PowerPoint)
 keywords: vbapp10.chm559012
 f1_keywords:
 - vbapp10.chm559012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.DropType Property (PowerPoint)
+# CalloutFormat.DropType property (PowerPoint)
 
 Returns a value that indicates where the callout line attaches to the callout text box. Read-only.
 

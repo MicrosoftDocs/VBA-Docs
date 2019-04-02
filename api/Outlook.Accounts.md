@@ -1,5 +1,5 @@
 ---
-title: Accounts Object (Outlook)
+title: Accounts object (Outlook)
 keywords: vbaol11.chm3154
 f1_keywords:
 - vbaol11.chm3154
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Accounts Object (Outlook)
+# Accounts object (Outlook)
 
 The  **Accounts** collection object contains a set of **[Account](Outlook.Account.md)** objects representing the accounts available for the current profile.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.CustomerData Property (PowerPoint)
+title: Presentation.CustomerData property (PowerPoint)
 keywords: vbapp10.chm583106
 f1_keywords:
 - vbapp10.chm583106
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.CustomerData Property (PowerPoint)
+# Presentation.CustomerData property (PowerPoint)
 
 Returns a  **CustomerData** object. Read-only.
 

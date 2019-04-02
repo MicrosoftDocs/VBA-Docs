@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Display Method (Outlook)
+title: JournalItem.Display method (Outlook)
 keywords: vbaol11.chm1260
 f1_keywords:
 - vbaol11.chm1260
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Display Method (Outlook)
+# JournalItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 

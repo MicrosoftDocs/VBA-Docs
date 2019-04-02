@@ -1,5 +1,5 @@
 ---
-title: Application.LanguageSettings Property (PowerPoint)
+title: Application.LanguageSettings property (PowerPoint)
 keywords: vbapp10.chm502039
 f1_keywords:
 - vbapp10.chm502039
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LanguageSettings Property (PowerPoint)
+# Application.LanguageSettings property (PowerPoint)
 
 Returns a  **LanguageSettings** object that contains information about the language settings in Microsoft PowerPoint. Read-only.
 

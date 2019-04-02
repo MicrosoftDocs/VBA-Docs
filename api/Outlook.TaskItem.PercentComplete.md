@@ -1,5 +1,5 @@
 ---
-title: TaskItem.PercentComplete Property (Outlook)
+title: TaskItem.PercentComplete property (Outlook)
 keywords: vbaol11.chm1733
 f1_keywords:
 - vbaol11.chm1733
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.PercentComplete Property (Outlook)
+# TaskItem.PercentComplete property (Outlook)
 
 Returns or sets a  **Long** indicating the percentage of the task completed at the current date and time. Read/write.
 

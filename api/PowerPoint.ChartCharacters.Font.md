@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Font Property (PowerPoint)
+title: ChartCharacters.Font property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Font
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCharacters.Font Property (PowerPoint)
+# ChartCharacters.Font property (PowerPoint)
 
 Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.ChartFont.md)**.
 

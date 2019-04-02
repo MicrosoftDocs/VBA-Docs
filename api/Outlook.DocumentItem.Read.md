@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Read Event (Outlook)
+title: DocumentItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Read Event (Outlook)
+# DocumentItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 

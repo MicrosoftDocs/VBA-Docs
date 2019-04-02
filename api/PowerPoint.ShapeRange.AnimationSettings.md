@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AnimationSettings Property (PowerPoint)
+title: ShapeRange.AnimationSettings property (PowerPoint)
 keywords: vbapp10.chm548047
 f1_keywords:
 - vbapp10.chm548047
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.AnimationSettings Property (PowerPoint)
+# ShapeRange.AnimationSettings property (PowerPoint)
 
 Returns an  **[AnimationSettings](PowerPoint.AnimationSettings.md)** object that represents all the special effects you can apply to the animation of the specified shape. Read-only.
 

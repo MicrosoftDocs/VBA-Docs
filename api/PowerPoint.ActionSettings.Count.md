@@ -1,5 +1,5 @@
 ---
-title: ActionSettings.Count Property (PowerPoint)
+title: ActionSettings.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSettings.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ActionSettings.Count Property (PowerPoint)
+# ActionSettings.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

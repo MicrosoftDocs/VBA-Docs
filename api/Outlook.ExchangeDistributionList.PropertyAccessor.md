@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.PropertyAccessor Property (Outlook)
+title: ExchangeDistributionList.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm2129
 f1_keywords:
 - vbaol11.chm2129
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.PropertyAccessor Property (Outlook)
+# ExchangeDistributionList.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 

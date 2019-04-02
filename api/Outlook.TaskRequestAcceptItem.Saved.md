@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Saved Property (Outlook)
+title: TaskRequestAcceptItem.Saved property (Outlook)
 keywords: vbaol11.chm1794
 f1_keywords:
 - vbaol11.chm1794
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Saved Property (Outlook)
+# TaskRequestAcceptItem.Saved property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 

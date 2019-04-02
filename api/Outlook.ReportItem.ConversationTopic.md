@@ -1,5 +1,5 @@
 ---
-title: ReportItem.ConversationTopic Property (Outlook)
+title: ReportItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1645
 f1_keywords:
 - vbaol11.chm1645
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.ConversationTopic Property (Outlook)
+# ReportItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 

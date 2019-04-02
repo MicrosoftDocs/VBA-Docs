@@ -1,5 +1,5 @@
 ---
-title: Explorer.Application Property (Outlook)
+title: Explorer.Application property (Outlook)
 keywords: vbaol11.chm2757
 f1_keywords:
 - vbaol11.chm2757
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Application Property (Outlook)
+# Explorer.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

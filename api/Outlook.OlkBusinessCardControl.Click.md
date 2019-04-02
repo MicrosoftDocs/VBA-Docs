@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl.Click Event (Outlook)
+title: OlkBusinessCardControl.Click event (Outlook)
 keywords: vbaol11.chm1000328
 f1_keywords:
 - vbaol11.chm1000328
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl.Click Event (Outlook)
+# OlkBusinessCardControl.Click event (Outlook)
 
 Occurs when the control is clicked, either through user action or programmatically.
 

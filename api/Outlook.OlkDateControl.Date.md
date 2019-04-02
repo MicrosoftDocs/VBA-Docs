@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.Date Property (Outlook)
+title: OlkDateControl.Date property (Outlook)
 keywords: vbaol11.chm1000345
 f1_keywords:
 - vbaol11.chm1000345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.Date Property (Outlook)
+# OlkDateControl.Date property (Outlook)
 
 Returns or sets the currently selected  **Date** value with the time set to 12:00 AM. Read/write.
 

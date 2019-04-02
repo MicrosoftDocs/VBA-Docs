@@ -1,5 +1,5 @@
 ---
-title: Folder.AddressBookName Property (Outlook)
+title: Folder.AddressBookName property (Outlook)
 keywords: vbaol11.chm2004
 f1_keywords:
 - vbaol11.chm2004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.AddressBookName Property (Outlook)
+# Folder.AddressBookName property (Outlook)
 
 Returns or sets a  **String** that indicates the Address Book name for the **[Folder](Outlook.Folder.md)** object representing a Contacts folder. Read/write.
 

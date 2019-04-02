@@ -1,5 +1,5 @@
 ---
-title: Presentation.Tags Property (PowerPoint)
+title: Presentation.Tags property (PowerPoint)
 keywords: vbapp10.chm583018
 f1_keywords:
 - vbapp10.chm583018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Tags Property (PowerPoint)
+# Presentation.Tags property (PowerPoint)
 
 Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
 

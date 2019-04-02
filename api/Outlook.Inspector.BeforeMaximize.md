@@ -1,5 +1,5 @@
 ---
-title: Inspector.BeforeMaximize Event (Outlook)
+title: Inspector.BeforeMaximize event (Outlook)
 keywords: vbaol11.chm468
 f1_keywords:
 - vbaol11.chm468
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.BeforeMaximize Event (Outlook)
+# Inspector.BeforeMaximize event (Outlook)
 
 Occurs when an inspector is maximized by the user.
 

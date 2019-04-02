@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.BlackAndWhite Property (PowerPoint)
+title: DocumentWindow.BlackAndWhite property (PowerPoint)
 keywords: vbapp10.chm511007
 f1_keywords:
 - vbapp10.chm511007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.BlackAndWhite Property (PowerPoint)
+# DocumentWindow.BlackAndWhite property (PowerPoint)
 
 Determines whether the document window display is black and white. Read/write.
 

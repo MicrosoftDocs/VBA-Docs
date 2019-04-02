@@ -1,5 +1,5 @@
 ---
-title: Exception.Session Property (Outlook)
+title: Exception.Session property (Outlook)
 keywords: vbaol11.chm299
 f1_keywords:
 - vbaol11.chm299
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.Session Property (Outlook)
+# Exception.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

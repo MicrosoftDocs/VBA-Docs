@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderVertical Property (PowerPoint)
+title: DataTable.HasBorderVertical property (PowerPoint)
 keywords: vbapp10.chm698003
 f1_keywords:
 - vbapp10.chm698003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataTable.HasBorderVertical Property (PowerPoint)
+# DataTable.HasBorderVertical property (PowerPoint)
 
  **True** if the chart data table has vertical cell borders. Read/write **Boolean**.
 

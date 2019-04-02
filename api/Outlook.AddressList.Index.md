@@ -1,5 +1,5 @@
 ---
-title: AddressList.Index Property (Outlook)
+title: AddressList.Index property (Outlook)
 keywords: vbaol11.chm2029
 f1_keywords:
 - vbaol11.chm2029
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.Index Property (Outlook)
+# AddressList.Index property (Outlook)
 
 Returns a  **Long** indicating the position of the object within the collection. Read-only.
 

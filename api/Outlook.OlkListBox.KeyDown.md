@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.KeyDown Event (Outlook)
+title: OlkListBox.KeyDown event (Outlook)
 keywords: vbaol11.chm1000287
 f1_keywords:
 - vbaol11.chm1000287
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.KeyDown Event (Outlook)
+# OlkListBox.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 

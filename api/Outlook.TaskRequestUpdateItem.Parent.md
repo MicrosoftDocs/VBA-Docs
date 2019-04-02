@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Parent Property (Outlook)
+title: TaskRequestUpdateItem.Parent property (Outlook)
 keywords: vbaol11.chm1920
 f1_keywords:
 - vbaol11.chm1920
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Parent Property (Outlook)
+# TaskRequestUpdateItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

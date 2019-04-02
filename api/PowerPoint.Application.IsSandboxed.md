@@ -1,5 +1,5 @@
 ---
-title: Application.IsSandboxed Property (PowerPoint)
+title: Application.IsSandboxed property (PowerPoint)
 keywords: vbapp10.chm502066
 f1_keywords:
 - vbapp10.chm502066
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.IsSandboxed Property (PowerPoint)
+# Application.IsSandboxed property (PowerPoint)
 
 Returns  **True** if the specified presentation is open in a **Protected View** window. Read-only.
 

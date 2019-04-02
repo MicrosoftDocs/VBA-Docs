@@ -1,5 +1,5 @@
 ---
-title: ContactItem.RemovePicture Method (Outlook)
+title: ContactItem.RemovePicture method (Outlook)
 keywords: vbaol11.chm1091
 f1_keywords:
 - vbaol11.chm1091
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.RemovePicture Method (Outlook)
+# ContactItem.RemovePicture method (Outlook)
 
 Removes a picture from a  **Contacts** item.
 

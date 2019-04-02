@@ -1,5 +1,5 @@
 ---
-title: PropertyPageSite.OnStatusChange Method (Outlook)
+title: PropertyPageSite.OnStatusChange method (Outlook)
 keywords: vbaol11.chm389
 f1_keywords:
 - vbaol11.chm389
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPageSite.OnStatusChange Method (Outlook)
+# PropertyPageSite.OnStatusChange method (Outlook)
 
 Notifies Microsoft Outlook that a custom property page has changed.
 

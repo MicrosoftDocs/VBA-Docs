@@ -1,5 +1,5 @@
 ---
-title: Folder.ShowAsOutlookAB Property (Outlook)
+title: Folder.ShowAsOutlookAB property (Outlook)
 keywords: vbaol11.chm2005
 f1_keywords:
 - vbaol11.chm2005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.ShowAsOutlookAB Property (Outlook)
+# Folder.ShowAsOutlookAB property (Outlook)
 
 Returns or sets a  **Boolean** variable that specifies whether the contact items folder will be displayed as an address list in the Outlook Address Book. Read/write.
 

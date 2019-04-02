@@ -1,5 +1,5 @@
 ---
-title: DocumentWindows.Count Property (PowerPoint)
+title: DocumentWindows.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindows.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindows.Count Property (PowerPoint)
+# DocumentWindows.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

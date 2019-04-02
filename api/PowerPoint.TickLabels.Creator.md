@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Creator Property (PowerPoint)
+title: TickLabels.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Creator Property (PowerPoint)
+# TickLabels.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

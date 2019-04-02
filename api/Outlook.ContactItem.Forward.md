@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Forward Event (Outlook)
+title: ContactItem.Forward event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Forward
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Forward Event (Outlook)
+# ContactItem.Forward event (Outlook)
 
 Occurs when the user selects the  **Forward** action for an item (which is an instance of the parent object).
 

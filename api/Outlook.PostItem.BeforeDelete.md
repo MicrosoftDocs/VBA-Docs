@@ -1,5 +1,5 @@
 ---
-title: PostItem.BeforeDelete Event (Outlook)
+title: PostItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.BeforeDelete Event (Outlook)
+# PostItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.GetInspector Property (Outlook)
+title: SharingItem.GetInspector property (Outlook)
 keywords: vbaol11.chm608
 f1_keywords:
 - vbaol11.chm608
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.GetInspector Property (Outlook)
+# SharingItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 

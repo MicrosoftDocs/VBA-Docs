@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.UnRead Property (Outlook)
+title: RemoteItem.UnRead property (Outlook)
 keywords: vbaol11.chm1610
 f1_keywords:
 - vbaol11.chm1610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.UnRead Property (Outlook)
+# RemoteItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 

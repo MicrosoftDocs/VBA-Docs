@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.MotionEffect Property (PowerPoint)
+title: AnimationBehavior.MotionEffect property (PowerPoint)
 keywords: vbapp10.chm657006
 f1_keywords:
 - vbapp10.chm657006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.MotionEffect Property (PowerPoint)
+# AnimationBehavior.MotionEffect property (PowerPoint)
 
 Returns a  **[MotionEffect](PowerPoint.MotionEffect.md)** object that represents the properties of a motion animation.
 

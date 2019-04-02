@@ -1,5 +1,5 @@
 ---
-title: Items.GetNext Method (Outlook)
+title: Items.GetNext method (Outlook)
 keywords: vbaol11.chm66
 f1_keywords:
 - vbaol11.chm66
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.GetNext Method (Outlook)
+# Items.GetNext method (Outlook)
 
 Returns the next object in the collection. 
 

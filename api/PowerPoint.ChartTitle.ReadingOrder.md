@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.ReadingOrder Property (PowerPoint)
+title: ChartTitle.ReadingOrder property (PowerPoint)
 keywords: vbapp10.chm694021
 f1_keywords:
 - vbapp10.chm694021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.ReadingOrder Property (PowerPoint)
+# ChartTitle.ReadingOrder property (PowerPoint)
 
 Returns or sets an  **[xlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
 

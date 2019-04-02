@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OutlookVersion Property (Outlook)
+title: ContactItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm949
 f1_keywords:
 - vbaol11.chm949
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OutlookVersion Property (Outlook)
+# ContactItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 

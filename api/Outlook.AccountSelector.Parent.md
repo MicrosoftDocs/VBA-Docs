@@ -1,5 +1,5 @@
 ---
-title: AccountSelector.Parent Property (Outlook)
+title: AccountSelector.Parent property (Outlook)
 keywords: vbaol11.chm3452
 f1_keywords:
 - vbaol11.chm3452
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountSelector.Parent Property (Outlook)
+# AccountSelector.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

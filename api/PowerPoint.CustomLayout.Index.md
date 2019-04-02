@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Index Property (PowerPoint)
+title: CustomLayout.Index property (PowerPoint)
 keywords: vbapp10.chm672016
 f1_keywords:
 - vbapp10.chm672016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Index Property (PowerPoint)
+# CustomLayout.Index property (PowerPoint)
 
 Returns the index position of the specified custom layout in the  **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection. Read-only.
 

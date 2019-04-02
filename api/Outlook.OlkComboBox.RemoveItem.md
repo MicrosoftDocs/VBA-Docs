@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.RemoveItem Method (Outlook)
+title: OlkComboBox.RemoveItem method (Outlook)
 keywords: vbaol11.chm1000231
 f1_keywords:
 - vbaol11.chm1000231
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.RemoveItem Method (Outlook)
+# OlkComboBox.RemoveItem method (Outlook)
 
 Removes the specified item from the list.
 

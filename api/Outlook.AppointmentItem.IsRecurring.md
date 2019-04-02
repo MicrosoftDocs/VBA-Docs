@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.IsRecurring Property (Outlook)
+title: AppointmentItem.IsRecurring property (Outlook)
 keywords: vbaol11.chm881
 f1_keywords:
 - vbaol11.chm881
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.IsRecurring Property (Outlook)
+# AppointmentItem.IsRecurring property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the appointment is a recurring appointment. Read-only.
 

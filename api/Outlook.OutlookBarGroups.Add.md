@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.Add Method (Outlook)
+title: OutlookBarGroups.Add method (Outlook)
 keywords: vbaol11.chm352
 f1_keywords:
 - vbaol11.chm352
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.Add Method (Outlook)
+# OutlookBarGroups.Add method (Outlook)
 
 Adds a new, empty group to the  **Shortcuts** pane.
 

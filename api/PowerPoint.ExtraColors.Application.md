@@ -1,5 +1,5 @@
 ---
-title: ExtraColors.Application Property (PowerPoint)
+title: ExtraColors.Application property (PowerPoint)
 keywords: vbapp10.chm529001
 f1_keywords:
 - vbapp10.chm529001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExtraColors.Application Property (PowerPoint)
+# ExtraColors.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

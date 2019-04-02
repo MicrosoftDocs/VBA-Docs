@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.Enter Event (Outlook)
+title: OlkListBox.Enter event (Outlook)
 keywords: vbaol11.chm1000285
 f1_keywords:
 - vbaol11.chm1000285
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.Enter Event (Outlook)
+# OlkListBox.Enter event (Outlook)
 
 Occurs when the control receives focus, immediately after the previous control's  **Exit** event.
 

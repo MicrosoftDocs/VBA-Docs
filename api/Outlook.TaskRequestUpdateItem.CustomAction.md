@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.CustomAction Event (Outlook)
+title: TaskRequestUpdateItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.CustomAction Event (Outlook)
+# TaskRequestUpdateItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 

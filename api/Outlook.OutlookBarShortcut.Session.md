@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.Session Property (Outlook)
+title: OutlookBarShortcut.Session property (Outlook)
 keywords: vbaol11.chm340
 f1_keywords:
 - vbaol11.chm340
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.Session Property (Outlook)
+# OutlookBarShortcut.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

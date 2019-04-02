@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Open Event (Outlook)
+title: JournalItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Open Event (Outlook)
+# JournalItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 

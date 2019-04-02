@@ -1,5 +1,5 @@
 ---
-title: Application.ProductCode Property (Outlook)
+title: Application.ProductCode property (Outlook)
 keywords: vbaol11.chm723
 f1_keywords:
 - vbaol11.chm723
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProductCode Property (Outlook)
+# Application.ProductCode property (Outlook)
 
 Returns a  **String** specifying the Microsoft Outlook globally unique identifier (GUID). Read-only.
 

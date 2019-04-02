@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.AfterUpdate Event (Outlook)
+title: OlkListBox.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000291
 f1_keywords:
 - vbaol11.chm1000291
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.AfterUpdate Event (Outlook)
+# OlkListBox.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 

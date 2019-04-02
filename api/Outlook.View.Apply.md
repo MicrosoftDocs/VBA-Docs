@@ -1,5 +1,5 @@
 ---
-title: View.Apply Method (Outlook)
+title: View.Apply method (Outlook)
 keywords: vbaol11.chm2484
 f1_keywords:
 - vbaol11.chm2484
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Apply Method (Outlook)
+# View.Apply method (Outlook)
 
 Applies the view to the Microsoft Outlook user interface.
 

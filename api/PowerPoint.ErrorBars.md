@@ -1,5 +1,5 @@
 ---
-title: ErrorBars Object (PowerPoint)
+title: ErrorBars object (PowerPoint)
 keywords: vbapp10.chm702000
 f1_keywords:
 - vbapp10.chm702000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars Object (PowerPoint)
+# ErrorBars object (PowerPoint)
 
 Represents the error bars on a chart series.
 

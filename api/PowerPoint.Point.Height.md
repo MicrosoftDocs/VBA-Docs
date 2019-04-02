@@ -1,5 +1,5 @@
 ---
-title: Point.Height Property (PowerPoint)
+title: Point.Height property (PowerPoint)
 keywords: vbapp10.chm714007
 f1_keywords:
 - vbapp10.chm714007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Height Property (PowerPoint)
+# Point.Height property (PowerPoint)
 
 Returns the height, in points, of the object. Read-only.
 

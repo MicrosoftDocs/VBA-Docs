@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.AfterEffect Property (PowerPoint)
+title: AnimationSettings.AfterEffect property (PowerPoint)
 keywords: vbapp10.chm565006
 f1_keywords:
 - vbapp10.chm565006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.AfterEffect Property (PowerPoint)
+# AnimationSettings.AfterEffect property (PowerPoint)
 
 Returns or sets a  **PpAfterEffect** constant that indicates whether the specified shape appears dimmed, hidden, or unchanged after it is built. Read/write.
 

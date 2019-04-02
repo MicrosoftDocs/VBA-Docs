@@ -1,5 +1,5 @@
 ---
-title: TimeZone Object (Outlook)
+title: TimeZone object (Outlook)
 keywords: vbaol11.chm3299
 f1_keywords:
 - vbaol11.chm3299
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone Object (Outlook)
+# TimeZone object (Outlook)
 
 Represents information for a time zone as supported by Microsoft Windows.
 

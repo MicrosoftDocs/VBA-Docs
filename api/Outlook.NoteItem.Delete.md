@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Delete Method (Outlook)
+title: NoteItem.Delete method (Outlook)
 keywords: vbaol11.chm1494
 f1_keywords:
 - vbaol11.chm1494
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Delete Method (Outlook)
+# NoteItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 

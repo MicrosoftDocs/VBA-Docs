@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule.Name Property (Outlook)
+title: SolutionsModule.Name property (Outlook)
 keywords: vbaol11.chm3365
 f1_keywords:
 - vbaol11.chm3365
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SolutionsModule.Name Property (Outlook)
+# SolutionsModule.Name property (Outlook)
 
 Returns a  **String** value that represents the localized display name for the **[SolutionsModule](Outlook.SolutionsModule.md)** object. Read-only.
 

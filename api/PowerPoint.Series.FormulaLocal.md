@@ -1,5 +1,5 @@
 ---
-title: Series.FormulaLocal Property (PowerPoint)
+title: Series.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm65799
 f1_keywords:
 - vbapp10.chm65799
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series.FormulaLocal Property (PowerPoint)
+# Series.FormulaLocal property (PowerPoint)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String**.
 

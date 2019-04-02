@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Delete Method (Outlook)
+title: StorageItem.Delete method (Outlook)
 keywords: vbaol11.chm2145
 f1_keywords:
 - vbaol11.chm2145
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Delete Method (Outlook)
+# StorageItem.Delete method (Outlook)
 
 Permanently removes the  **[StorageItem](Outlook.StorageItem.md)** object from the parent folder.
 

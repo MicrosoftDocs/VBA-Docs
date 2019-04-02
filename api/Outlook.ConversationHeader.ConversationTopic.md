@@ -1,5 +1,5 @@
 ---
-title: ConversationHeader.ConversationTopic Property (Outlook)
+title: ConversationHeader.ConversationTopic property (Outlook)
 keywords: vbaol11.chm3543
 f1_keywords:
 - vbaol11.chm3543
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConversationHeader.ConversationTopic Property (Outlook)
+# ConversationHeader.ConversationTopic property (Outlook)
 
 Returns a  **String** value that represents the topic of the conversation thread of the conversation header. Read-only.
 

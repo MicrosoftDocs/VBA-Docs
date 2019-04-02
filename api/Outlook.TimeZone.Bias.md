@@ -1,5 +1,5 @@
 ---
-title: TimeZone.Bias Property (Outlook)
+title: TimeZone.Bias property (Outlook)
 keywords: vbaol11.chm3285
 f1_keywords:
 - vbaol11.chm3285
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.Bias Property (Outlook)
+# TimeZone.Bias property (Outlook)
 
 Returns a  **Long** value that represents the difference in minutes of between the local time in this time zone and the Coordinated Universal Time (UTC). Read-only.
 

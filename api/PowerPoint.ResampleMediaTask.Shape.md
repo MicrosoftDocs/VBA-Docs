@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.Shape Property (PowerPoint)
+title: ResampleMediaTask.Shape property (PowerPoint)
 keywords: vbapp10.chm727011
 f1_keywords:
 - vbapp10.chm727011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.Shape Property (PowerPoint)
+# ResampleMediaTask.Shape property (PowerPoint)
 
 Returns the shape that is associated with the specified media asset. Read-only.
 

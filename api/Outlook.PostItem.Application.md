@@ -1,5 +1,5 @@
 ---
-title: PostItem.Application Property (Outlook)
+title: PostItem.Application property (Outlook)
 keywords: vbaol11.chm1509
 f1_keywords:
 - vbaol11.chm1509
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Application Property (Outlook)
+# PostItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

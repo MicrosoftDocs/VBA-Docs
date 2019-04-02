@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Save Method (Outlook)
+title: TaskRequestDeclineItem.Save method (Outlook)
 keywords: vbaol11.chm1855
 f1_keywords:
 - vbaol11.chm1855
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Save Method (Outlook)
+# TaskRequestDeclineItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 

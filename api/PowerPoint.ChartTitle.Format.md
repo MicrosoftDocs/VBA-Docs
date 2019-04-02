@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Format Property (PowerPoint)
+title: ChartTitle.Format property (PowerPoint)
 keywords: vbapp10.chm694019
 f1_keywords:
 - vbapp10.chm694019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Format Property (PowerPoint)
+# ChartTitle.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 

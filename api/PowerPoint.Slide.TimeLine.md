@@ -1,5 +1,5 @@
 ---
-title: Slide.TimeLine Property (PowerPoint)
+title: Slide.TimeLine property (PowerPoint)
 keywords: vbapp10.chm531031
 f1_keywords:
 - vbapp10.chm531031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.TimeLine Property (PowerPoint)
+# Slide.TimeLine property (PowerPoint)
 
 Returns a  **[TimeLine](PowerPoint.TimeLine.md)** object that represents the animation timeline for the slide. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Table.LastRow Property (PowerPoint)
+title: Table.LastRow property (PowerPoint)
 keywords: vbapp10.chm622009
 f1_keywords:
 - vbapp10.chm622009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.LastRow Property (PowerPoint)
+# Table.LastRow property (PowerPoint)
 
 Determines whether to display special formatting for the last row of the specified table. Read/write.
 

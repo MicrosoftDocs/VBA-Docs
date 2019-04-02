@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.SlideNavigation Property (PowerPoint)
+title: SlideShowWindow.SlideNavigation property (PowerPoint)
 keywords: vbapp10.chm507013
 f1_keywords:
 - vbapp10.chm507013
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindow.SlideNavigation Property (PowerPoint)
+# SlideShowWindow.SlideNavigation property (PowerPoint)
 
 Returns a  **[SlideNavigation](PowerPoint.slidenavigation.md)** object that represents the slide navigation screen in slide show view. Read-only
 

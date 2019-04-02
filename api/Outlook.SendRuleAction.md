@@ -1,5 +1,5 @@
 ---
-title: SendRuleAction Object (Outlook)
+title: SendRuleAction object (Outlook)
 keywords: vbaol11.chm3165
 f1_keywords:
 - vbaol11.chm3165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SendRuleAction Object (Outlook)
+# SendRuleAction object (Outlook)
 
 Represents an action that sends a message to one or more recipients.
 

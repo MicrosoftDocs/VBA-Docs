@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Delete Method (Outlook)
+title: MeetingItem.Delete method (Outlook)
 keywords: vbaol11.chm1430
 f1_keywords:
 - vbaol11.chm1430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Delete Method (Outlook)
+# MeetingItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 

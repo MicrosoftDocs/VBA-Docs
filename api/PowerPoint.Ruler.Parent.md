@@ -1,5 +1,5 @@
 ---
-title: Ruler.Parent Property (PowerPoint)
+title: Ruler.Parent property (PowerPoint)
 keywords: vbapp10.chm570002
 f1_keywords:
 - vbapp10.chm570002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Ruler.Parent Property (PowerPoint)
+# Ruler.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

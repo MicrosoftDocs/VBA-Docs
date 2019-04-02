@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.Application Property (Outlook)
+title: NavigationGroups.Application property (Outlook)
 keywords: vbaol11.chm2852
 f1_keywords:
 - vbaol11.chm2852
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.Application Property (Outlook)
+# NavigationGroups.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

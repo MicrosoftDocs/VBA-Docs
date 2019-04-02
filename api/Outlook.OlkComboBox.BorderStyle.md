@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.BorderStyle Property (Outlook)
+title: OlkComboBox.BorderStyle property (Outlook)
 keywords: vbaol11.chm1000198
 f1_keywords:
 - vbaol11.chm1000198
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.BorderStyle Property (Outlook)
+# OlkComboBox.BorderStyle property (Outlook)
 
 Returns or sets an  **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that defines the style of the border around the control. Read/write.
 

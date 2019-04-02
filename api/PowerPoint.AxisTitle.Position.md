@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Position Property (PowerPoint)
+title: AxisTitle.Position property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Position
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Position Property (PowerPoint)
+# AxisTitle.Position property (PowerPoint)
 
 Returns or sets the position of the axis title on the chart. Read/write  **[xlChartElementPosition](PowerPoint.XlChartElementPosition.md)**.
 

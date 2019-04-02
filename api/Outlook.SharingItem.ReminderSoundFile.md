@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReminderSoundFile Property (Outlook)
+title: SharingItem.ReminderSoundFile property (Outlook)
 keywords: vbaol11.chm654
 f1_keywords:
 - vbaol11.chm654
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReminderSoundFile Property (Outlook)
+# SharingItem.ReminderSoundFile property (Outlook)
 
 Returns or sets a  **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
 

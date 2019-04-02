@@ -1,5 +1,5 @@
 ---
-title: FormRegion Object (Outlook)
+title: FormRegion object (Outlook)
 keywords: vbaol11.chm3018
 f1_keywords:
 - vbaol11.chm3018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion Object (Outlook)
+# FormRegion object (Outlook)
 
 Represents a form region in an Outlook form.
 

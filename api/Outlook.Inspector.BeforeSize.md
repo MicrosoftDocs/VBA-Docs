@@ -1,5 +1,5 @@
 ---
-title: Inspector.BeforeSize Event (Outlook)
+title: Inspector.BeforeSize event (Outlook)
 keywords: vbaol11.chm471
 f1_keywords:
 - vbaol11.chm471
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.BeforeSize Event (Outlook)
+# Inspector.BeforeSize event (Outlook)
 
 Occurs when the user sizes the current  **[Inspector](Outlook.Inspector.md)**.
 

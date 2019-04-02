@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.WordWrap Property (Outlook)
+title: OlkOptionButton.WordWrap property (Outlook)
 keywords: vbaol11.chm1000176
 f1_keywords:
 - vbaol11.chm1000176
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.WordWrap Property (Outlook)
+# OlkOptionButton.WordWrap property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line. Read/write.
 

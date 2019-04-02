@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Parent Property (Outlook)
+title: TaskItem.Parent property (Outlook)
 keywords: vbaol11.chm1685
 f1_keywords:
 - vbaol11.chm1685
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Parent Property (Outlook)
+# TaskItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

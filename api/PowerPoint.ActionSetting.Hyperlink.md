@@ -1,5 +1,5 @@
 ---
-title: ActionSetting.Hyperlink Property (PowerPoint)
+title: ActionSetting.Hyperlink property (PowerPoint)
 keywords: vbapp10.chm567008
 f1_keywords:
 - vbapp10.chm567008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ActionSetting.Hyperlink Property (PowerPoint)
+# ActionSetting.Hyperlink property (PowerPoint)
 
 Returns a  **[Hyperlink](PowerPoint.Hyperlink.md)** object that represents the hyperlink for the specified shape. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Bold Property (Outlook)
+title: ViewFont.Bold property (Outlook)
 keywords: vbaol11.chm2695
 f1_keywords:
 - vbaol11.chm2695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Bold Property (Outlook)
+# ViewFont.Bold property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates if the font is bold in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
 

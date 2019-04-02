@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperties.Count Property (Outlook)
+title: UserDefinedProperties.Count property (Outlook)
 keywords: vbaol11.chm586
 f1_keywords:
 - vbaol11.chm586
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperties.Count Property (Outlook)
+# UserDefinedProperties.Count property (Outlook)
 
 Returns a  **Long** value that indicates the count of objects in the specified collection. Read-only.
 

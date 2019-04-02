@@ -1,5 +1,5 @@
 ---
-title: LineFormat.InsetPen Property (PowerPoint)
+title: LineFormat.InsetPen property (PowerPoint)
 keywords: vbapp10.chm553016
 f1_keywords:
 - vbapp10.chm553016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.InsetPen Property (PowerPoint)
+# LineFormat.InsetPen property (PowerPoint)
 
 Determines whether to draw lines on the inside of a specified shape. Read/write.
 

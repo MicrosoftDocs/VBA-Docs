@@ -1,5 +1,5 @@
 ---
-title: Inspector.OpenFormRegion Method (Outlook)
+title: Inspector.OpenFormRegion method (Outlook)
 keywords: vbaol11.chm2982
 f1_keywords:
 - vbaol11.chm2982
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.OpenFormRegion Method (Outlook)
+# Inspector.OpenFormRegion method (Outlook)
 
 Opens a page in design mode in the inspector for the specified form region.
 

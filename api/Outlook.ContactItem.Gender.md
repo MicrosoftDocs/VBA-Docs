@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Gender Property (Outlook)
+title: ContactItem.Gender property (Outlook)
 keywords: vbaol11.chm1008
 f1_keywords:
 - vbaol11.chm1008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Gender Property (Outlook)
+# ContactItem.Gender property (Outlook)
 
 Returns or sets an  **[OlGender](Outlook.OlGender.md)** constant indicating the gender of the contact. Read/write.
 

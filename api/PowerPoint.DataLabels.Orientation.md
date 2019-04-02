@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Orientation Property (PowerPoint)
+title: DataLabels.Orientation property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Orientation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.Orientation Property (PowerPoint)
+# DataLabels.Orientation property (PowerPoint)
 
 Returns or sets the text orientation. Read/write  **Long**.
 

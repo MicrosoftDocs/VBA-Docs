@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Mileage Property (Outlook)
+title: MeetingItem.Mileage property (Outlook)
 keywords: vbaol11.chm1418
 f1_keywords:
 - vbaol11.chm1418
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Mileage Property (Outlook)
+# MeetingItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 

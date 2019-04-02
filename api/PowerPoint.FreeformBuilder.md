@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder Object (PowerPoint)
+title: FreeformBuilder object (PowerPoint)
 keywords: vbapp10.chm546000
 f1_keywords:
 - vbapp10.chm546000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FreeformBuilder Object (PowerPoint)
+# FreeformBuilder object (PowerPoint)
 
 Represents the geometry of a freeform while it is being built.
 

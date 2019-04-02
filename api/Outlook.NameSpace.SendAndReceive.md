@@ -1,5 +1,5 @@
 ---
-title: NameSpace.SendAndReceive Method (Outlook)
+title: NameSpace.SendAndReceive method (Outlook)
 keywords: vbaol11.chm782
 f1_keywords:
 - vbaol11.chm782
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.SendAndReceive Method (Outlook)
+# NameSpace.SendAndReceive method (Outlook)
 
 Initiates immediate delivery of all undelivered messages submitted in the current session, and immediate receipt of mail for all accounts in the current profile. 
 

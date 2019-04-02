@@ -1,5 +1,5 @@
 ---
-title: Chart.HasDataTable Property (PowerPoint)
+title: Chart.HasDataTable property (PowerPoint)
 keywords: vbapp10.chm66932
 f1_keywords:
 - vbapp10.chm66932
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.HasDataTable Property (PowerPoint)
+# Chart.HasDataTable property (PowerPoint)
 
  **True** if the chart has a data table. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: OrderFields.Session Property (Outlook)
+title: OrderFields.Session property (Outlook)
 keywords: vbaol11.chm2674
 f1_keywords:
 - vbaol11.chm2674
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderFields.Session Property (Outlook)
+# OrderFields.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

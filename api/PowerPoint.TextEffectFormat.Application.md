@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Application Property (PowerPoint)
+title: TextEffectFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Application Property (PowerPoint)
+# TextEffectFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

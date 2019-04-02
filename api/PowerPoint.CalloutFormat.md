@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat Object (PowerPoint)
+title: CalloutFormat object (PowerPoint)
 keywords: vbapp10.chm559000
 f1_keywords:
 - vbapp10.chm559000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat Object (PowerPoint)
+# CalloutFormat object (PowerPoint)
 
 Contains properties and methods that apply to line callouts.
 

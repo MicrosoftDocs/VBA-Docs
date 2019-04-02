@@ -1,5 +1,5 @@
 ---
-title: Presentation Object (PowerPoint)
+title: Presentation object (PowerPoint)
 keywords: vbapp10.chm524000
 f1_keywords:
 - vbapp10.chm524000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation Object (PowerPoint)
+# Presentation object (PowerPoint)
 
 Represents a Microsoft PowerPoint presentation. 
 

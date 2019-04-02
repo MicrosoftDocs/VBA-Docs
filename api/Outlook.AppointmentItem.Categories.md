@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Categories Property (Outlook)
+title: AppointmentItem.Categories property (Outlook)
 keywords: vbaol11.chm846
 f1_keywords:
 - vbaol11.chm846
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Categories Property (Outlook)
+# AppointmentItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

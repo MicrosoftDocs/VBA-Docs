@@ -1,5 +1,5 @@
 ---
-title: Application.ShowStartupDialog Property (PowerPoint)
+title: Application.ShowStartupDialog property (PowerPoint)
 keywords: vbapp10.chm502051
 f1_keywords:
 - vbapp10.chm502051
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowStartupDialog Property (PowerPoint)
+# Application.ShowStartupDialog property (PowerPoint)
 
 Determines whether to display the  **New Presentation** task pane when Microsoft PowerPoint is started. Read/write.
 

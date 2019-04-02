@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Move Method (Outlook)
+title: NoteItem.Move method (Outlook)
 keywords: vbaol11.chm1496
 f1_keywords:
 - vbaol11.chm1496
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Move Method (Outlook)
+# NoteItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

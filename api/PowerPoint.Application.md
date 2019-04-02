@@ -1,5 +1,5 @@
 ---
-title: Application Object (PowerPoint)
+title: Application object (PowerPoint)
 keywords: vbapp10.chm504000
 f1_keywords:
 - vbapp10.chm504000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application Object (PowerPoint)
+# Application object (PowerPoint)
 
 Represents the entire Microsoft PowerPoint application. 
 

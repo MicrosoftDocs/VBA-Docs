@@ -1,5 +1,5 @@
 ---
-title: Inspectors.Application Property (Outlook)
+title: Inspectors.Application property (Outlook)
 keywords: vbaol11.chm133
 f1_keywords:
 - vbaol11.chm133
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspectors.Application Property (Outlook)
+# Inspectors.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

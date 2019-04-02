@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.ForeColor Property (Outlook)
+title: OlkCheckBox.ForeColor property (Outlook)
 keywords: vbaol11.chm1000141
 f1_keywords:
 - vbaol11.chm1000141
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.ForeColor Property (Outlook)
+# OlkCheckBox.ForeColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.
 

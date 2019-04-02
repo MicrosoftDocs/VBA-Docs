@@ -1,5 +1,5 @@
 ---
-title: Store.CreateUnifiedGroup Method (Outlook)
+title: Store.CreateUnifiedGroup method (Outlook)
 keywords: vbaol11.chm3631
 f1_keywords:
 - vbaol11.chm3631
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Store.CreateUnifiedGroup Method (Outlook)
+# Store.CreateUnifiedGroup method (Outlook)
 
 Enables a unified group to be created.
 
@@ -47,6 +47,6 @@ The smtp address used to create the group.
 ## See also
 
 
-[Store Object (Outlook)](Outlook.Store.md)
+[Store object (Outlook)](Outlook.Store.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

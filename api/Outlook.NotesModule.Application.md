@@ -1,5 +1,5 @@
 ---
-title: NotesModule.Application Property (Outlook)
+title: NotesModule.Application property (Outlook)
 keywords: vbaol11.chm2872
 f1_keywords:
 - vbaol11.chm2872
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule.Application Property (Outlook)
+# NotesModule.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

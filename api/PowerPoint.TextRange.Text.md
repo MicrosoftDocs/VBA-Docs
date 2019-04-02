@@ -1,5 +1,5 @@
 ---
-title: TextRange.Text Property (PowerPoint)
+title: TextRange.Text property (PowerPoint)
 keywords: vbapp10.chm569017
 f1_keywords:
 - vbapp10.chm569017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Text Property (PowerPoint)
+# TextRange.Text property (PowerPoint)
 
 Returns or sets a  **String** that represents the text contained in the specified object. Read/write.
 

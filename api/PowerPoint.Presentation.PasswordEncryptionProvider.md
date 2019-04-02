@@ -1,5 +1,5 @@
 ---
-title: Presentation.PasswordEncryptionProvider Property (PowerPoint)
+title: Presentation.PasswordEncryptionProvider property (PowerPoint)
 keywords: vbapp10.chm583075
 f1_keywords:
 - vbapp10.chm583075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.PasswordEncryptionProvider Property (PowerPoint)
+# Presentation.PasswordEncryptionProvider property (PowerPoint)
 
 Returns the name of the algorithm encryption provider that Microsoft PowerPoint uses when it encrypts documents with passwords. Read-only.
 

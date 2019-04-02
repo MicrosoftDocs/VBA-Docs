@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Categories Property (Outlook)
+title: NoteItem.Categories property (Outlook)
 keywords: vbaol11.chm1478
 f1_keywords:
 - vbaol11.chm1478
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Categories Property (Outlook)
+# NoteItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 

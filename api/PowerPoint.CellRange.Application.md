@@ -1,5 +1,5 @@
 ---
-title: CellRange.Application Property (PowerPoint)
+title: CellRange.Application property (PowerPoint)
 keywords: vbapp10.chm627001
 f1_keywords:
 - vbapp10.chm627001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Application Property (PowerPoint)
+# CellRange.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

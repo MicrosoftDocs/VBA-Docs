@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Vertices Property (PowerPoint)
+title: ShapeRange.Vertices property (PowerPoint)
 keywords: vbapp10.chm548040
 f1_keywords:
 - vbapp10.chm548040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Vertices Property (PowerPoint)
+# ShapeRange.Vertices property (PowerPoint)
 
 Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only.
 

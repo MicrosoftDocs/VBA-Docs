@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+title: TaskRequestItem.BeforeAttachmentWriteToTempFile event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.BeforeAttachmentWriteToTempFile
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+# TaskRequestItem.BeforeAttachmentWriteToTempFile event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is written to a temporary file.
 

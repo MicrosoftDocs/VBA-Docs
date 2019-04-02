@@ -1,5 +1,5 @@
 ---
-title: MailItem.Permission Property (Outlook)
+title: MailItem.Permission property (Outlook)
 keywords: vbaol11.chm1386
 f1_keywords:
 - vbaol11.chm1386
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Permission Property (Outlook)
+# MailItem.Permission property (Outlook)
 
 Sets or returns an  **[OlPermission](Outlook.OlPermission.md)** constant that determines what permissions to grant to the recipients of the email item. Read/write.
 

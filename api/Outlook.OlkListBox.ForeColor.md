@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.ForeColor Property (Outlook)
+title: OlkListBox.ForeColor property (Outlook)
 keywords: vbaol11.chm1000255
 f1_keywords:
 - vbaol11.chm1000255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.ForeColor Property (Outlook)
+# OlkListBox.ForeColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: NameSpace.AddressLists Property (Outlook)
+title: NameSpace.AddressLists property (Outlook)
 keywords: vbaol11.chm759
 f1_keywords:
 - vbaol11.chm759
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.AddressLists Property (Outlook)
+# NameSpace.AddressLists property (Outlook)
 
 Returns an  **[AddressLists](Outlook.AddressLists.md)** collection representing a collection of the address lists available for this session. Read-only.
 

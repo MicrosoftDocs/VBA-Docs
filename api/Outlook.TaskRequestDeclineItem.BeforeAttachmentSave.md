@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.BeforeAttachmentSave Event (Outlook)
+title: TaskRequestDeclineItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.BeforeAttachmentSave Event (Outlook)
+# TaskRequestDeclineItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 

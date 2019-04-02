@@ -1,5 +1,5 @@
 ---
-title: ContactsModule.Class Property (Outlook)
+title: ContactsModule.Class property (Outlook)
 keywords: vbaol11.chm2833
 f1_keywords:
 - vbaol11.chm2833
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactsModule.Class Property (Outlook)
+# ContactsModule.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Categories.Remove Method (Outlook)
+title: Categories.Remove method (Outlook)
 keywords: vbaol11.chm2438
 f1_keywords:
 - vbaol11.chm2438
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Categories.Remove Method (Outlook)
+# Categories.Remove method (Outlook)
 
 Removes an object from the collection.
 

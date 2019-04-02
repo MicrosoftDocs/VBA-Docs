@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Format Property (PowerPoint)
+title: HeaderFooter.Format property (PowerPoint)
 keywords: vbapp10.chm582006
 f1_keywords:
 - vbapp10.chm582006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeaderFooter.Format Property (PowerPoint)
+# HeaderFooter.Format property (PowerPoint)
 
 Returns or sets the format for the automatically updated date and time. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Left Property (PowerPoint)
+title: DataLabel.Left property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Left
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Left Property (PowerPoint)
+# DataLabel.Left property (PowerPoint)
 
 Returns or sets the distance, in points, from the left edge of the object to the left edge of the chart area. Read/write  **Double**.
 

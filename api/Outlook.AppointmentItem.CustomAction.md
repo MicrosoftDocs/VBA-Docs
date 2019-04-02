@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.CustomAction Event (Outlook)
+title: AppointmentItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.CustomAction Event (Outlook)
+# AppointmentItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 

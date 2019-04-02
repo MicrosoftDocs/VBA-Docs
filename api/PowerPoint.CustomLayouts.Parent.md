@@ -1,5 +1,5 @@
 ---
-title: CustomLayouts.Parent Property (PowerPoint)
+title: CustomLayouts.Parent property (PowerPoint)
 keywords: vbapp10.chm671002
 f1_keywords:
 - vbapp10.chm671002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayouts.Parent Property (PowerPoint)
+# CustomLayouts.Parent property (PowerPoint)
 
 Returns the parent object for the specified object. Read-only.
 

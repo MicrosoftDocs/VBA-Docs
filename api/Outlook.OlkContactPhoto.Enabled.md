@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.Enabled Property (Outlook)
+title: OlkContactPhoto.Enabled property (Outlook)
 keywords: vbaol11.chm1000306
 f1_keywords:
 - vbaol11.chm1000306
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.Enabled Property (Outlook)
+# OlkContactPhoto.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: NoteItem.PropertyAccessor Property (Outlook)
+title: NoteItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1507
 f1_keywords:
 - vbaol11.chm1507
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.PropertyAccessor Property (Outlook)
+# NoteItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[NoteItem](Outlook.NoteItem.md)** object. Read-only.
 

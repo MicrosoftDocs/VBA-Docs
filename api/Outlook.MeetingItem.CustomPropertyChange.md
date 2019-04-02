@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.CustomPropertyChange Event (Outlook)
+title: MeetingItem.CustomPropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.CustomPropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.CustomPropertyChange Event (Outlook)
+# MeetingItem.CustomPropertyChange event (Outlook)
 
 Occurs when a custom property of an item (which is an instance of the parent object) is changed. 
 

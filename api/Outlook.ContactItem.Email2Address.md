@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email2Address Property (Outlook)
+title: ContactItem.Email2Address property (Outlook)
 keywords: vbaol11.chm995
 f1_keywords:
 - vbaol11.chm995
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Email2Address Property (Outlook)
+# ContactItem.Email2Address property (Outlook)
 
 Returns or sets a  **String** representing the email address of the second email entry for the contact. Read/write.
 

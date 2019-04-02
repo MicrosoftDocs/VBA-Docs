@@ -1,5 +1,5 @@
 ---
-title: PostItem.ReminderOverrideDefault Property (Outlook)
+title: PostItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm1576
 f1_keywords:
 - vbaol11.chm1576
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ReminderOverrideDefault Property (Outlook)
+# PostItem.ReminderOverrideDefault property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ObjectVerbs Property (PowerPoint)
+title: OLEFormat.ObjectVerbs property (PowerPoint)
 keywords: vbapp10.chm562003
 f1_keywords:
 - vbapp10.chm562003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.ObjectVerbs Property (PowerPoint)
+# OLEFormat.ObjectVerbs property (PowerPoint)
 
 Returns a  **[ObjectVerbs](PowerPoint.ObjectVerbs.md)** collection that contains all the OLE verbs for the specified OLE object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Name Property (Outlook)
+title: Application.Name property (Outlook)
 keywords: vbaol11.chm710
 f1_keywords:
 - vbaol11.chm710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Name Property (Outlook)
+# Application.Name property (Outlook)
 
 Returns a  **String** value that represents the display name for the object. Read-only.
 

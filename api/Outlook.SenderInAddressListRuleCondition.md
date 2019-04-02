@@ -1,5 +1,5 @@
 ---
-title: SenderInAddressListRuleCondition Object (Outlook)
+title: SenderInAddressListRuleCondition object (Outlook)
 keywords: vbaol11.chm3182
 f1_keywords:
 - vbaol11.chm3182
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SenderInAddressListRuleCondition Object (Outlook)
+# SenderInAddressListRuleCondition object (Outlook)
 
 Represents a rule condition that the sender's address is in the address list specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.
 

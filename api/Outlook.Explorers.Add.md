@@ -1,5 +1,5 @@
 ---
-title: Explorers.Add Method (Outlook)
+title: Explorers.Add method (Outlook)
 keywords: vbaol11.chm122
 f1_keywords:
 - vbaol11.chm122
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorers.Add Method (Outlook)
+# Explorers.Add method (Outlook)
 
 Creates a new instance of the explorer window.
 

@@ -1,5 +1,5 @@
 ---
-title: IconView.ViewType Property (Outlook)
+title: IconView.ViewType property (Outlook)
 keywords: vbaol11.chm2571
 f1_keywords:
 - vbaol11.chm2571
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.ViewType Property (Outlook)
+# IconView.ViewType property (Outlook)
 
 Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the view type of the view. Read-only.
 

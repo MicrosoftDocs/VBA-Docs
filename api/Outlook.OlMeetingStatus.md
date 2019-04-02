@@ -28,6 +28,6 @@ Indicates the status of the meeting.
 
 ## Remarks
 
-See [AppointmentItem.MeetingStatus Property (Outlook)](Outlook.AppointmentItem.MeetingStatus.md).
+See [AppointmentItem.MeetingStatus property (Outlook)](Outlook.AppointmentItem.MeetingStatus.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

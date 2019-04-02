@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Click Event (Outlook)
+title: OlkComboBox.Click event (Outlook)
 keywords: vbaol11.chm1000235
 f1_keywords:
 - vbaol11.chm1000235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Click Event (Outlook)
+# OlkComboBox.Click event (Outlook)
 
 Occurs when the user clicks inside the control.
 

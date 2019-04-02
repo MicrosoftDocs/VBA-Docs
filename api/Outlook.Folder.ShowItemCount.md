@@ -1,5 +1,5 @@
 ---
-title: Folder.ShowItemCount Property (Outlook)
+title: Folder.ShowItemCount property (Outlook)
 keywords: vbaol11.chm2015
 f1_keywords:
 - vbaol11.chm2015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.ShowItemCount Property (Outlook)
+# Folder.ShowItemCount property (Outlook)
 
 Sets or returns a constant in the  **[OlShowItemCount](Outlook.OlShowItemCount.md)** enumeration that indicates whether to display the number of unread messages in the folder or the total number of items in the folder in the navigation pane. Read/write.
 

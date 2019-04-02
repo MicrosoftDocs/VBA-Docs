@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Application Property (PowerPoint)
+title: PublishObject.Application property (PowerPoint)
 keywords: vbapp10.chm635001
 f1_keywords:
 - vbapp10.chm635001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PublishObject.Application Property (PowerPoint)
+# PublishObject.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: OrderFields.Application Property (Outlook)
+title: OrderFields.Application property (Outlook)
 keywords: vbaol11.chm2672
 f1_keywords:
 - vbaol11.chm2672
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderFields.Application Property (Outlook)
+# OrderFields.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: FileConverter.OpenFormat Property (PowerPoint)
+title: FileConverter.OpenFormat property (PowerPoint)
 keywords: vbapp10.chm680011
 f1_keywords:
 - vbapp10.chm680011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.OpenFormat Property (PowerPoint)
+# FileConverter.OpenFormat property (PowerPoint)
 
 Returns the file format of the specified file converter. Read-only  **Long**.
 

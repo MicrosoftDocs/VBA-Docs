@@ -1,5 +1,5 @@
 ---
-title: TableView.ShowReadingPane Property (Outlook)
+title: TableView.ShowReadingPane property (Outlook)
 keywords: vbaol11.chm2530
 f1_keywords:
 - vbaol11.chm2530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.ShowReadingPane Property (Outlook)
+# TableView.ShowReadingPane property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether the Reading Pane is displayed in the **[TableView](Outlook.TableView.md)** object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyPictToSides Property (PowerPoint)
+title: Series.ApplyPictToSides property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.ApplyPictToSides
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.ApplyPictToSides Property (PowerPoint)
+# Series.ApplyPictToSides property (PowerPoint)
 
  **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean**.
 

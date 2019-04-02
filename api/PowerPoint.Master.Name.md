@@ -1,5 +1,5 @@
 ---
-title: Master.Name Property (PowerPoint)
+title: Master.Name property (PowerPoint)
 keywords: vbapp10.chm533007
 f1_keywords:
 - vbapp10.chm533007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Name Property (PowerPoint)
+# Master.Name property (PowerPoint)
 
 Returns or sets the name of the specified object. Read/write.
 

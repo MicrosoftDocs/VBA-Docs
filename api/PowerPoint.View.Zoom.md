@@ -1,5 +1,5 @@
 ---
-title: View.Zoom Property (PowerPoint)
+title: View.Zoom property (PowerPoint)
 keywords: vbapp10.chm512004
 f1_keywords:
 - vbapp10.chm512004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Zoom Property (PowerPoint)
+# View.Zoom property (PowerPoint)
 
 Returns or sets the zoom setting of the specified view as a percentage of normal size. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: JournalModule.NavigationModuleType Property (Outlook)
+title: JournalModule.NavigationModuleType property (Outlook)
 keywords: vbaol11.chm3246
 f1_keywords:
 - vbaol11.chm3246
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalModule.NavigationModuleType Property (Outlook)
+# JournalModule.NavigationModuleType property (Outlook)
 
 Returns an  **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
 

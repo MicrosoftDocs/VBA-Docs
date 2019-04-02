@@ -1,5 +1,5 @@
 ---
-title: ImportanceRuleCondition.Enabled Property (Outlook)
+title: ImportanceRuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2336
 f1_keywords:
 - vbaol11.chm2336
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ImportanceRuleCondition.Enabled Property (Outlook)
+# ImportanceRuleCondition.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule condition is enabled. Read/write.
 

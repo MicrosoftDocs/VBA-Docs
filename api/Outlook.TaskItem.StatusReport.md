@@ -1,5 +1,5 @@
 ---
-title: TaskItem.StatusReport Method (Outlook)
+title: TaskItem.StatusReport method (Outlook)
 keywords: vbaol11.chm1757
 f1_keywords:
 - vbaol11.chm1757
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.StatusReport Method (Outlook)
+# TaskItem.StatusReport method (Outlook)
 
 Sends a status report to all Cc recipients (recipients returned by the  **[StatusUpdateRecipients](Outlook.TaskItem.StatusUpdateRecipients.md)** property) with the current status for the task and returns an **Object** representing the status report.
 

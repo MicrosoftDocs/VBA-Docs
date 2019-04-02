@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.Create Method (Outlook)
+title: NavigationGroups.Create method (Outlook)
 keywords: vbaol11.chm2858
 f1_keywords:
 - vbaol11.chm2858
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.Create Method (Outlook)
+# NavigationGroups.Create method (Outlook)
 
 Creates and returns a new  **[NavigationGroup](Outlook.NavigationGroup.md)** object, added to the end of the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.Mileage Property (Outlook)
+title: PostItem.Mileage property (Outlook)
 keywords: vbaol11.chm1529
 f1_keywords:
 - vbaol11.chm1529
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Mileage Property (Outlook)
+# PostItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.GroupItems Property (PowerPoint)
+title: ShapeRange.GroupItems property (PowerPoint)
 keywords: vbapp10.chm548023
 f1_keywords:
 - vbapp10.chm548023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.GroupItems Property (PowerPoint)
+# ShapeRange.GroupItems property (PowerPoint)
 
 Returns a  **[GroupShapes](PowerPoint.GroupShapes.md)** object that represents the individual shapes in the specified group. Use the **Item** method of the **GroupShapes** object to return a single shape from the group. Read-only.
 

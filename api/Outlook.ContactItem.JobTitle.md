@@ -1,5 +1,5 @@
 ---
-title: ContactItem.JobTitle Property (Outlook)
+title: ContactItem.JobTitle property (Outlook)
 keywords: vbaol11.chm1024
 f1_keywords:
 - vbaol11.chm1024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.JobTitle Property (Outlook)
+# ContactItem.JobTitle property (Outlook)
 
 Returns or sets a  **String** representing the job title for the contact. Read/write.
 

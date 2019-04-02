@@ -1,5 +1,5 @@
 ---
-title: Presentation.Final Property (PowerPoint)
+title: Presentation.Final property (PowerPoint)
 keywords: vbapp10.chm583104
 f1_keywords:
 - vbapp10.chm583104
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Final Property (PowerPoint)
+# Presentation.Final property (PowerPoint)
 
 Determines whether the presentation is marked as final (read-only). Read/write.
 

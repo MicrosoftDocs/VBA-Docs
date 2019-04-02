@@ -1,5 +1,5 @@
 ---
-title: PropertyEffect.Property Property (PowerPoint)
+title: PropertyEffect.Property property (PowerPoint)
 keywords: vbapp10.chm662003
 f1_keywords:
 - vbapp10.chm662003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyEffect.Property Property (PowerPoint)
+# PropertyEffect.Property property (PowerPoint)
 
 Sets or returns an  **[MsoAnimProperty](PowerPoint.MsoAnimProperty.md)** constant that represents an animation property. Read/write.
 

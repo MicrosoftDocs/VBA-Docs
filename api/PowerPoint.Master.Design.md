@@ -1,5 +1,5 @@
 ---
-title: Master.Design Property (PowerPoint)
+title: Master.Design property (PowerPoint)
 keywords: vbapp10.chm533014
 f1_keywords:
 - vbapp10.chm533014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Design Property (PowerPoint)
+# Master.Design property (PowerPoint)
 
 Returns a  **Design** object representing a design.
 

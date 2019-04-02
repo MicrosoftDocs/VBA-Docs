@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser Object (Outlook)
+title: ExchangeUser object (Outlook)
 keywords: vbaol11.chm3158
 f1_keywords:
 - vbaol11.chm3158
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser Object (Outlook)
+# ExchangeUser object (Outlook)
 
 Provides detailed information about an  **[AddressEntry](Outlook.AddressEntry.md)** that represents a Microsoft Exchange mailbox user.
 

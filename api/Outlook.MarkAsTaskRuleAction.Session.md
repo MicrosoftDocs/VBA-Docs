@@ -1,5 +1,5 @@
 ---
-title: MarkAsTaskRuleAction.Session Property (Outlook)
+title: MarkAsTaskRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2281
 f1_keywords:
 - vbaol11.chm2281
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkAsTaskRuleAction.Session Property (Outlook)
+# MarkAsTaskRuleAction.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

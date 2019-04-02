@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Size Property (PowerPoint)
+title: ShadowFormat.Size property (PowerPoint)
 keywords: vbapp10.chm554013
 f1_keywords:
 - vbapp10.chm554013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Size Property (PowerPoint)
+# ShadowFormat.Size property (PowerPoint)
 
 Returns or sets the size of the specified shadow as a percentage of the shape size, from 0 to 200. Read/write.
 

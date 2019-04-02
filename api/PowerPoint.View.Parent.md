@@ -1,5 +1,5 @@
 ---
-title: View.Parent Property (PowerPoint)
+title: View.Parent property (PowerPoint)
 keywords: vbapp10.chm512002
 f1_keywords:
 - vbapp10.chm512002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Parent Property (PowerPoint)
+# View.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

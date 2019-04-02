@@ -1,5 +1,5 @@
 ---
-title: Slide.Tags Property (PowerPoint)
+title: Slide.Tags property (PowerPoint)
 keywords: vbapp10.chm531017
 f1_keywords:
 - vbapp10.chm531017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.Tags Property (PowerPoint)
+# Slide.Tags property (PowerPoint)
 
 Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
 

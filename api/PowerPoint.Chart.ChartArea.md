@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartArea Property (PowerPoint)
+title: Chart.ChartArea property (PowerPoint)
 keywords: vbapp10.chm684017
 f1_keywords:
 - vbapp10.chm684017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartArea Property (PowerPoint)
+# Chart.ChartArea property (PowerPoint)
 
 Returns the complete chart area for the chart. Read-only  **[ChartArea](PowerPoint.ChartArea.md)**.
 

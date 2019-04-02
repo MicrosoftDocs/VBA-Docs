@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HasPicture Property (Outlook)
+title: ContactItem.HasPicture property (Outlook)
 keywords: vbaol11.chm1092
 f1_keywords:
 - vbaol11.chm1092
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HasPicture Property (Outlook)
+# ContactItem.HasPicture property (Outlook)
 
 Returns a  **Boolean** value that is **True** if a **Contacts** item has a picture associated with it. Read-only
 

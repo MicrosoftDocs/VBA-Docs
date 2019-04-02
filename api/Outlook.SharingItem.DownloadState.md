@@ -1,5 +1,5 @@
 ---
-title: SharingItem.DownloadState Property (Outlook)
+title: SharingItem.DownloadState property (Outlook)
 keywords: vbaol11.chm676
 f1_keywords:
 - vbaol11.chm676
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.DownloadState Property (Outlook)
+# SharingItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 

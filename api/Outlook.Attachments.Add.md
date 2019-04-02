@@ -1,5 +1,5 @@
 ---
-title: Attachments.Add Method (Outlook)
+title: Attachments.Add method (Outlook)
 keywords: vbaol11.chm176
 f1_keywords:
 - vbaol11.chm176
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Add Method (Outlook)
+# Attachments.Add method (Outlook)
 
 Creates a new attachment in the  **[Attachments](Outlook.Attachments.md)** collection.
 

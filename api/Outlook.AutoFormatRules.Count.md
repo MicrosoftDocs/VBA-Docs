@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Count Property (Outlook)
+title: AutoFormatRules.Count property (Outlook)
 keywords: vbaol11.chm2717
 f1_keywords:
 - vbaol11.chm2717
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Count Property (Outlook)
+# AutoFormatRules.Count property (Outlook)
 
 Returns a  **Long** value indicating the count of **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects in the specified collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Explorer.Activate Method (Outlook)
+title: Explorer.Activate method (Outlook)
 keywords: vbaol11.chm2774
 f1_keywords:
 - vbaol11.chm2774
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Activate Method (Outlook)
+# Explorer.Activate method (Outlook)
 
 Activates an explorer window by bringing it to the foreground and setting keyboard focus.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ReminderTime Property (Outlook)
+title: DistListItem.ReminderTime property (Outlook)
 keywords: vbaol11.chm1177
 f1_keywords:
 - vbaol11.chm1177
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ReminderTime Property (Outlook)
+# DistListItem.ReminderTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time at which the reminder should occur for the specified item. Read/write.
 

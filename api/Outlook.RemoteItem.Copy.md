@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Copy Method (Outlook)
+title: RemoteItem.Copy method (Outlook)
 keywords: vbaol11.chm1613
 f1_keywords:
 - vbaol11.chm1613
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Copy Method (Outlook)
+# RemoteItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

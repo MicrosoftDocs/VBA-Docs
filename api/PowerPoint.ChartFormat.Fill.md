@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Fill Property (PowerPoint)
+title: ChartFormat.Fill property (PowerPoint)
 keywords: vbapp10.chm691001
 f1_keywords:
 - vbapp10.chm691001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFormat.Fill Property (PowerPoint)
+# ChartFormat.Fill property (PowerPoint)
 
 Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
 

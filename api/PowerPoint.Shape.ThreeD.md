@@ -1,5 +1,5 @@
 ---
-title: Shape.ThreeD Property (PowerPoint)
+title: Shape.ThreeD property (PowerPoint)
 keywords: vbapp10.chm547036
 f1_keywords:
 - vbapp10.chm547036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ThreeD Property (PowerPoint)
+# Shape.ThreeD property (PowerPoint)
 
 Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that contains 3-D - effect formatting properties for the specified shape. Read-only.
 

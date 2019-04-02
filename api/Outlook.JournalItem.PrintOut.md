@@ -1,5 +1,5 @@
 ---
-title: JournalItem.PrintOut Method (Outlook)
+title: JournalItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1262
 f1_keywords:
 - vbaol11.chm1262
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.PrintOut Method (Outlook)
+# JournalItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings. The  **PrintOut** method is the only Outlook method that can be used for printing.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ExpiryTime Property (Outlook)
+title: SharingItem.ExpiryTime property (Outlook)
 keywords: vbaol11.chm637
 f1_keywords:
 - vbaol11.chm637
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ExpiryTime Property (Outlook)
+# SharingItem.ExpiryTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time at which the **[SharingItem](Outlook.SharingItem.md)** becomes invalid and can be deleted. Read/write.
 

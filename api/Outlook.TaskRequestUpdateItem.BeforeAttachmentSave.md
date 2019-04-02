@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.BeforeAttachmentSave Event (Outlook)
+title: TaskRequestUpdateItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.BeforeAttachmentSave Event (Outlook)
+# TaskRequestUpdateItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 

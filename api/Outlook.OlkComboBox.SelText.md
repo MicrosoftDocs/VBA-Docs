@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.SelText Property (Outlook)
+title: OlkComboBox.SelText property (Outlook)
 keywords: vbaol11.chm1000223
 f1_keywords:
 - vbaol11.chm1000223
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.SelText Property (Outlook)
+# OlkComboBox.SelText property (Outlook)
 
 Returns a  **String** that represents the selected portion of the value of the combo box. Read-only.
 

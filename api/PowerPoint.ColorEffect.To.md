@@ -1,5 +1,5 @@
 ---
-title: ColorEffect.To Property (PowerPoint)
+title: ColorEffect.To property (PowerPoint)
 keywords: vbapp10.chm659005
 f1_keywords:
 - vbapp10.chm659005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorEffect.To Property (PowerPoint)
+# ColorEffect.To property (PowerPoint)
 
 Sets or returns a  **ColorFormat** object that represents the RGB color value of an animation behavior. Read/write.
 

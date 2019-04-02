@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.Width Property (PowerPoint)
+title: SlideShowWindow.Width property (PowerPoint)
 keywords: vbapp10.chm507008
 f1_keywords:
 - vbapp10.chm507008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindow.Width Property (PowerPoint)
+# SlideShowWindow.Width property (PowerPoint)
 
 Returns or sets the width of the specified object, in points. Read/write.
 

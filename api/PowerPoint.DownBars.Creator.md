@@ -1,5 +1,5 @@
 ---
-title: DownBars.Creator Property (PowerPoint)
+title: DownBars.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DownBars.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DownBars.Creator Property (PowerPoint)
+# DownBars.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

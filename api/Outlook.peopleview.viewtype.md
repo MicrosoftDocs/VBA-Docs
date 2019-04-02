@@ -1,5 +1,5 @@
 ---
-title: PeopleView.ViewType Property (Outlook)
+title: PeopleView.ViewType property (Outlook)
 keywords: vbaol11.chm3583
 f1_keywords:
 - vbaol11.chm3583
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.ViewType Property (Outlook)
+# PeopleView.ViewType property (Outlook)
 Returns an [OlViewType](Outlook.OlViewType.md) constant that indicates the view type of the view. Read-only.
 
 ## Version information

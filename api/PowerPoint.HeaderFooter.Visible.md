@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Visible Property (PowerPoint)
+title: HeaderFooter.Visible property (PowerPoint)
 keywords: vbapp10.chm582003
 f1_keywords:
 - vbapp10.chm582003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeaderFooter.Visible Property (PowerPoint)
+# HeaderFooter.Visible property (PowerPoint)
 
 Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
 

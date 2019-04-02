@@ -1,5 +1,5 @@
 ---
-title: ItemProperty.Value Property (Outlook)
+title: ItemProperty.Value property (Outlook)
 keywords: vbaol11.chm527
 f1_keywords:
 - vbaol11.chm527
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperty.Value Property (Outlook)
+# ItemProperty.Value property (Outlook)
 
 Returns or sets a  **Variant** indicating the value for the specified custom or explicit built-in property. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.Ranges Property (PowerPoint)
+title: PrintOptions.Ranges property (PowerPoint)
 keywords: vbapp10.chm517012
 f1_keywords:
 - vbapp10.chm517012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.Ranges Property (PowerPoint)
+# PrintOptions.Ranges property (PowerPoint)
 
 Returns the  **[PrintRanges](PowerPoint.PrintRanges.md)** object, which represents the ranges of slides in the presentation to be printed. Read-only.
 

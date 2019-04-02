@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Move Method (Outlook)
+title: AppointmentItem.Move method (Outlook)
 keywords: vbaol11.chm872
 f1_keywords:
 - vbaol11.chm872
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Move Method (Outlook)
+# AppointmentItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 

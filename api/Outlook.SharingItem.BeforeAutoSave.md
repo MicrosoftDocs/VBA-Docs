@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BeforeAutoSave Event (Outlook)
+title: SharingItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BeforeAutoSave Event (Outlook)
+# SharingItem.BeforeAutoSave event (Outlook)
 
 Occurs before the  **[SharingItem](Outlook.SharingItem.md)** is automatically saved by Outlook.
 

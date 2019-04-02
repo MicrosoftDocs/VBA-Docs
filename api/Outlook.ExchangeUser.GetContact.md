@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.GetContact Method (Outlook)
+title: ExchangeUser.GetContact method (Outlook)
 keywords: vbaol11.chm2078
 f1_keywords:
 - vbaol11.chm2078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.GetContact Method (Outlook)
+# ExchangeUser.GetContact method (Outlook)
 
 Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeUser](Outlook.ExchangeUser.md)** object does not correspond to a contact in a Contacts Address Book.
 

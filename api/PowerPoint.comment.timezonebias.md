@@ -1,5 +1,5 @@
 ---
-title: Comment.TimeZoneBias Property (PowerPoint)
+title: Comment.TimeZoneBias property (PowerPoint)
 keywords: vbapp10.chm642013
 f1_keywords:
 - vbapp10.chm642013
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.TimeZoneBias Property (PowerPoint)
+# Comment.TimeZoneBias property (PowerPoint)
 
 Returns a  **String** that specifies the local time zone adjustment for the contact. Read-only.
 

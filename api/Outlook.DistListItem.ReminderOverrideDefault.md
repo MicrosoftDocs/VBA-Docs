@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ReminderOverrideDefault Property (Outlook)
+title: DistListItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm1173
 f1_keywords:
 - vbaol11.chm1173
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ReminderOverrideDefault Property (Outlook)
+# DistListItem.ReminderOverrideDefault property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the item. Read/write.
 

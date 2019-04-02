@@ -1,5 +1,5 @@
 ---
-title: Reminders Object (Outlook)
+title: Reminders object (Outlook)
 keywords: vbaol11.chm3015
 f1_keywords:
 - vbaol11.chm3015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders Object (Outlook)
+# Reminders object (Outlook)
 
 Contains a collection of all the  **[Reminder](Outlook.Reminder.md)** objects in a Microsoft Outlook application that represent the reminders for all pending items.
 

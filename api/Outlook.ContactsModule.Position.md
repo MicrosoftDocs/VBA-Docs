@@ -1,5 +1,5 @@
 ---
-title: ContactsModule.Position Property (Outlook)
+title: ContactsModule.Position property (Outlook)
 keywords: vbaol11.chm2838
 f1_keywords:
 - vbaol11.chm2838
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactsModule.Position Property (Outlook)
+# ContactsModule.Position property (Outlook)
 
 Returns or sets a  **Long** value that represents the ordinal position of the **[ContactsModule](Outlook.ContactsModule.md)** object when it is displayed in the navigation pane. Read/write.
 

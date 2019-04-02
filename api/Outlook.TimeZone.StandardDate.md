@@ -1,5 +1,5 @@
 ---
-title: TimeZone.StandardDate Property (Outlook)
+title: TimeZone.StandardDate property (Outlook)
 keywords: vbaol11.chm3288
 f1_keywords:
 - vbaol11.chm3288
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.StandardDate Property (Outlook)
+# TimeZone.StandardDate property (Outlook)
 
 Returns a  **Date** value that represents the date and time in this time zone when time changes over to standard time. Read-only.
 

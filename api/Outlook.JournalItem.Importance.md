@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Importance Property (Outlook)
+title: JournalItem.Importance property (Outlook)
 keywords: vbaol11.chm1243
 f1_keywords:
 - vbaol11.chm1243
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Importance Property (Outlook)
+# JournalItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 

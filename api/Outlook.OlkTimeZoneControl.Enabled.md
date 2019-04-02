@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.Enabled Property (Outlook)
+title: OlkTimeZoneControl.Enabled property (Outlook)
 keywords: vbaol11.chm1000537
 f1_keywords:
 - vbaol11.chm1000537
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.Enabled Property (Outlook)
+# OlkTimeZoneControl.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 

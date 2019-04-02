@@ -1,5 +1,5 @@
 ---
-title: SharingItem.RemoteName Property (Outlook)
+title: SharingItem.RemoteName property (Outlook)
 keywords: vbaol11.chm694
 f1_keywords:
 - vbaol11.chm694
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.RemoteName Property (Outlook)
+# SharingItem.RemoteName property (Outlook)
 
 Returns a  **String** that represents the name of the sharing context for a **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
 

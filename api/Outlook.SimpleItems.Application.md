@@ -1,5 +1,5 @@
 ---
-title: SimpleItems.Application Property (Outlook)
+title: SimpleItems.Application property (Outlook)
 keywords: vbaol11.chm3393
 f1_keywords:
 - vbaol11.chm3393
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SimpleItems.Application Property (Outlook)
+# SimpleItems.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Microsoft Outlook application for the **[SimpleItems](Outlook.SimpleItems.md)** object. Read-only.
 

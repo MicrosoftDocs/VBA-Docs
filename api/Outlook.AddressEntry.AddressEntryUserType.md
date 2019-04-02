@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.AddressEntryUserType Property (Outlook)
+title: AddressEntry.AddressEntryUserType property (Outlook)
 keywords: vbaol11.chm2057
 f1_keywords:
 - vbaol11.chm2057
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.AddressEntryUserType Property (Outlook)
+# AddressEntry.AddressEntryUserType property (Outlook)
 
 Returns a constant from the  **[OlAddressEntryUserType](Outlook.OlAddressEntryUserType.md)** enumeration representing the user type of the **[AddressEntry](Outlook.AddressEntry.md)**. Read-only.
 

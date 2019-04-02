@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.YomiDisplayName Property (Outlook)
+title: ExchangeUser.YomiDisplayName property (Outlook)
 keywords: vbaol11.chm2105
 f1_keywords:
 - vbaol11.chm2105
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.YomiDisplayName Property (Outlook)
+# ExchangeUser.YomiDisplayName property (Outlook)
 
 Returns a  **String** representing the Japanese phonetic rendering (yomigana) of the Exchange display name for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 

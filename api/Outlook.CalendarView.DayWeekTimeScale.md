@@ -1,5 +1,5 @@
 ---
-title: CalendarView.DayWeekTimeScale Property (Outlook)
+title: CalendarView.DayWeekTimeScale property (Outlook)
 keywords: vbaol11.chm3025
 f1_keywords:
 - vbaol11.chm3025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.DayWeekTimeScale Property (Outlook)
+# CalendarView.DayWeekTimeScale property (Outlook)
 
 Returns or sets an  **[OlDayWeekTimeScale](Outlook.OlDayWeekTimeScale.md)** constant that represents the scale used to represent time periods in a **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
 

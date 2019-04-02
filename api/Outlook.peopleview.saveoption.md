@@ -1,5 +1,5 @@
 ---
-title: PeopleView.SaveOption Property (Outlook)
+title: PeopleView.SaveOption property (Outlook)
 keywords: vbaol11.chm3581
 f1_keywords:
 - vbaol11.chm3581
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.SaveOption Property (Outlook)
+# PeopleView.SaveOption property (Outlook)
 Returns an [OlViewSaveOption](Outlook.OlViewSaveOption.md) constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 
 ## Version information

@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerSize Property (PowerPoint)
+title: Series.MarkerSize property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.MarkerSize
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.MarkerSize Property (PowerPoint)
+# Series.MarkerSize property (PowerPoint)
 
 Returns or sets the data-marker size, in points. Read/write  **Long**.
 

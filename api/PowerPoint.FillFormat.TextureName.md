@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureName Property (PowerPoint)
+title: FillFormat.TextureName property (PowerPoint)
 keywords: vbapp10.chm552020
 f1_keywords:
 - vbapp10.chm552020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureName Property (PowerPoint)
+# FillFormat.TextureName property (PowerPoint)
 
 Returns the name of the custom texture file for the specified fill. Read-only.
 

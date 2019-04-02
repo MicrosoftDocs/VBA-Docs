@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.EntryID Property (Outlook)
+title: TaskRequestDeclineItem.EntryID property (Outlook)
 keywords: vbaol11.chm1832
 f1_keywords:
 - vbaol11.chm1832
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.EntryID Property (Outlook)
+# TaskRequestDeclineItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 

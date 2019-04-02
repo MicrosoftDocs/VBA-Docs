@@ -1,5 +1,5 @@
 ---
-title: DistListItem.AddMembers Method (Outlook)
+title: DistListItem.AddMembers method (Outlook)
 keywords: vbaol11.chm1154
 f1_keywords:
 - vbaol11.chm1154
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.AddMembers Method (Outlook)
+# DistListItem.AddMembers method (Outlook)
 
 Adds new members to a distribution list.
 

@@ -1,5 +1,5 @@
 ---
-title: UserProperties Object (Outlook)
+title: UserProperties object (Outlook)
 keywords: vbaol11.chm202
 f1_keywords:
 - vbaol11.chm202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperties Object (Outlook)
+# UserProperties object (Outlook)
 
 Contains  **[UserProperty](Outlook.UserProperty.md)** objects that represent the custom properties of an Outlook item.
 

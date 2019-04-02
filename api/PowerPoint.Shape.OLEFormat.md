@@ -1,5 +1,5 @@
 ---
-title: Shape.OLEFormat Property (PowerPoint)
+title: Shape.OLEFormat property (PowerPoint)
 keywords: vbapp10.chm547044
 f1_keywords:
 - vbapp10.chm547044
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.OLEFormat Property (PowerPoint)
+# Shape.OLEFormat property (PowerPoint)
 
 Returns an  **[OLEFormat](PowerPoint.OLEFormat.md)** object that contains OLE formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent OLE objects. Read-only.
 

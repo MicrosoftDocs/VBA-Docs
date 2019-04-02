@@ -1,5 +1,5 @@
 ---
-title: MailModule.Name Property (Outlook)
+title: MailModule.Name property (Outlook)
 keywords: vbaol11.chm2817
 f1_keywords:
 - vbaol11.chm2817
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailModule.Name Property (Outlook)
+# MailModule.Name property (Outlook)
 
 Returns a  **String** value that represents the localized display name for the **[MailModule](Outlook.MailModule.md)** object. Read-only.
 

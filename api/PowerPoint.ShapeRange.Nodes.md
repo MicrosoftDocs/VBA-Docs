@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Nodes Property (PowerPoint)
+title: ShapeRange.Nodes property (PowerPoint)
 keywords: vbapp10.chm548030
 f1_keywords:
 - vbapp10.chm548030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Nodes Property (PowerPoint)
+# ShapeRange.Nodes property (PowerPoint)
 
 Returns a  **[ShapeNodes](PowerPoint.ShapeNodes.md)** collection that represents the geometric description of the specified shape. Applies to **ShapeRange** objects that represent freeform drawings.
 

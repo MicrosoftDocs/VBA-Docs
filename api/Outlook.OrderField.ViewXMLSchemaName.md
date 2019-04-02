@@ -1,5 +1,5 @@
 ---
-title: OrderField.ViewXMLSchemaName Property (Outlook)
+title: OrderField.ViewXMLSchemaName property (Outlook)
 keywords: vbaol11.chm2687
 f1_keywords:
 - vbaol11.chm2687
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderField.ViewXMLSchemaName Property (Outlook)
+# OrderField.ViewXMLSchemaName property (Outlook)
 
 Returns a  **String** value that represents the XML schema name for the property referenced by the **[OrderField](Outlook.OrderField.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PlaySoundRuleAction.Parent Property (Outlook)
+title: PlaySoundRuleAction.Parent property (Outlook)
 keywords: vbaol11.chm2274
 f1_keywords:
 - vbaol11.chm2274
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySoundRuleAction.Parent Property (Outlook)
+# PlaySoundRuleAction.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

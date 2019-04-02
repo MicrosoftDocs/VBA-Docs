@@ -1,5 +1,5 @@
 ---
-title: PostItem.BeforeRead Event (Outlook)
+title: PostItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.BeforeRead Event (Outlook)
+# PostItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 

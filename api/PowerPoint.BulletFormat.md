@@ -1,5 +1,5 @@
 ---
-title: BulletFormat Object (PowerPoint)
+title: BulletFormat object (PowerPoint)
 keywords: vbapp10.chm577000
 f1_keywords:
 - vbapp10.chm577000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat Object (PowerPoint)
+# BulletFormat object (PowerPoint)
 
 Represents bullet formatting.
 

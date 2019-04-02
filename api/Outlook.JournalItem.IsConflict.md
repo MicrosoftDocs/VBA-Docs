@@ -1,5 +1,5 @@
 ---
-title: JournalItem.IsConflict Property (Outlook)
+title: JournalItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1285
 f1_keywords:
 - vbaol11.chm1285
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.IsConflict Property (Outlook)
+# JournalItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 

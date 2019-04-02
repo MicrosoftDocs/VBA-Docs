@@ -1,5 +1,5 @@
 ---
-title: View.MediaControlsVisible Property (PowerPoint)
+title: View.MediaControlsVisible property (PowerPoint)
 keywords: vbapp10.chm512014
 f1_keywords:
 - vbapp10.chm512014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.MediaControlsVisible Property (PowerPoint)
+# View.MediaControlsVisible property (PowerPoint)
 
 Indicates whether the media controls are currently visible. Read-only.
 

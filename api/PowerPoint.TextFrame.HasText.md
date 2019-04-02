@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HasText Property (PowerPoint)
+title: TextFrame.HasText property (PowerPoint)
 keywords: vbapp10.chm558007
 f1_keywords:
 - vbapp10.chm558007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.HasText Property (PowerPoint)
+# TextFrame.HasText property (PowerPoint)
 
 Returns whether the specified shape has text associated with it. Read-only.
 

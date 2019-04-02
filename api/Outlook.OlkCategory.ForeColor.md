@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.ForeColor Property (Outlook)
+title: OlkCategory.ForeColor property (Outlook)
 keywords: vbaol11.chm1000443
 f1_keywords:
 - vbaol11.chm1000443
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.ForeColor Property (Outlook)
+# OlkCategory.ForeColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.
 

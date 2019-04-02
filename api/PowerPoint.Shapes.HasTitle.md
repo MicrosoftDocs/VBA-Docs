@@ -1,5 +1,5 @@
 ---
-title: Shapes.HasTitle Property (PowerPoint)
+title: Shapes.HasTitle property (PowerPoint)
 keywords: vbapp10.chm543018
 f1_keywords:
 - vbapp10.chm543018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.HasTitle Property (PowerPoint)
+# Shapes.HasTitle property (PowerPoint)
 
 Returns whether the collection of objects on the specified slide contains a title placeholder. Read-only.
 

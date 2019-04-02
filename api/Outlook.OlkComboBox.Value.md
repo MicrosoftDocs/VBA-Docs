@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Value Property (Outlook)
+title: OlkComboBox.Value property (Outlook)
 keywords: vbaol11.chm1000218
 f1_keywords:
 - vbaol11.chm1000218
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Value Property (Outlook)
+# OlkComboBox.Value property (Outlook)
 
 Returns or sets a  **Variant** that represents the content selected in the list displayed by the control. Read/write.
 

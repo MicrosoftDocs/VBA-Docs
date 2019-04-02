@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Standard Property (Outlook)
+title: BusinessCardView.Standard property (Outlook)
 keywords: vbaol11.chm2930
 f1_keywords:
 - vbaol11.chm2930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Standard Property (Outlook)
+# BusinessCardView.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[BusinessCardView](Outlook.BusinessCardView.md)** object is a built-in Outlook view. Read-only.
 

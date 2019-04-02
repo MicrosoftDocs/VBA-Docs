@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Regenerate Property (Outlook)
+title: RecurrencePattern.Regenerate property (Outlook)
 keywords: vbaol11.chm286
 f1_keywords:
 - vbaol11.chm286
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Regenerate Property (Outlook)
+# RecurrencePattern.Regenerate property (Outlook)
 
 Returns a  **Boolean** that indicates **True** if the task should be regenerated following this pass through the recurrence pattern. Read/write.
 

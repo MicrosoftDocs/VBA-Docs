@@ -1,5 +1,5 @@
 ---
-title: NavigationGroup.GroupType Property (Outlook)
+title: NavigationGroup.GroupType property (Outlook)
 keywords: vbaol11.chm2886
 f1_keywords:
 - vbaol11.chm2886
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroup.GroupType Property (Outlook)
+# NavigationGroup.GroupType property (Outlook)
 
 Returns an  **[OlGroupType](Outlook.OlGroupType.md)** constant that indicates the group type for the **[NavigationGroup](Outlook.NavigationGroup.md)** object. Read-only.
 

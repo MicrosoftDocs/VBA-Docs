@@ -1,5 +1,5 @@
 ---
-title: Rule Object (Outlook)
+title: Rule object (Outlook)
 keywords: vbaol11.chm3161
 f1_keywords:
 - vbaol11.chm3161
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rule Object (Outlook)
+# Rule object (Outlook)
 
 Represents an Outlook rule.
 

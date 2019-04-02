@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern Object (Outlook)
+title: RecurrencePattern object (Outlook)
 keywords: vbaol11.chm268
 f1_keywords:
 - vbaol11.chm268
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern Object (Outlook)
+# RecurrencePattern object (Outlook)
 
 Represents the pattern of incidence of recurring appointments and tasks for the associated  **[AppointmentItem](Outlook.AppointmentItem.md)** and **[TaskItem](Outlook.TaskItem.md)** object.
 

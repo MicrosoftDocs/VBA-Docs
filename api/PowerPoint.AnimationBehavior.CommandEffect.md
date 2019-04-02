@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.CommandEffect Property (PowerPoint)
+title: AnimationBehavior.CommandEffect property (PowerPoint)
 keywords: vbapp10.chm657013
 f1_keywords:
 - vbapp10.chm657013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.CommandEffect Property (PowerPoint)
+# AnimationBehavior.CommandEffect property (PowerPoint)
 
 Returns a  **CommandEffect** object for the specified animation behavior. Read-only.
 

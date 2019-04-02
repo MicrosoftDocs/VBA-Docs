@@ -1,5 +1,5 @@
 ---
-title: TableView.Session Property (Outlook)
+title: TableView.Session property (Outlook)
 keywords: vbaol11.chm2501
 f1_keywords:
 - vbaol11.chm2501
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Session Property (Outlook)
+# TableView.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

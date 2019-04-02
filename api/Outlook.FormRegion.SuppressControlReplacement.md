@@ -1,5 +1,5 @@
 ---
-title: FormRegion.SuppressControlReplacement Property (Outlook)
+title: FormRegion.SuppressControlReplacement property (Outlook)
 keywords: vbaol11.chm3024
 f1_keywords:
 - vbaol11.chm3024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.SuppressControlReplacement Property (Outlook)
+# FormRegion.SuppressControlReplacement property (Outlook)
 
 Returns or sets a  **Boolean** that disables Outlook from automatically replacing a Forms 2.0 control by a themed Outlook control at design time and runtime. Read/write.
 
