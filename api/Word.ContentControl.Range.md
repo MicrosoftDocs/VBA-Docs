@@ -19,7 +19,7 @@ Returns a  **[Range](Word.Range.md)** that represents the contents of the conten
 
 ## Syntax
 
- _expression_. `Range`
+ _expression_.**Range**
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 

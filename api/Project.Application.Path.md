@@ -16,7 +16,7 @@ Gets the path of the WINPROJ.EXE application file. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

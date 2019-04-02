@@ -19,7 +19,7 @@ Creates a new style and adds it to the list of styles that are available for the
 
 ## Syntax
 
-_expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
 _expression_ A variable that represents a [Styles](Excel.Styles.md) object.
 

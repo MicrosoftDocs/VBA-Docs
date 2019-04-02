@@ -21,7 +21,7 @@ Returns or sets one of the constants of the  **[xlPivotConditionScope](Excel.XlP
 
 _expression_.**ScopeType**
 
-_expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks

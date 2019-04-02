@@ -19,7 +19,7 @@ Adds a new entry to the  **[AddressEntries](Outlook.AddressEntries.md)** collect
 
 ## Syntax
 
-_expression_. `Add`( `_Type_` , `_Name_` , `_Address_` )
+_expression_.**Add**( `_Type_` , `_Name_` , `_Address_` )
 
  _expression_ An [AddressEntries](./Outlook.AddressEntries.md) object that represents the new entry.
 

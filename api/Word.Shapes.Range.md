@@ -19,7 +19,7 @@ Returns a  **ShapeRange** object that represents the shapes within a range.
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
  _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 

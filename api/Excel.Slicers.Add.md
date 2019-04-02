@@ -19,7 +19,7 @@ Creates a new slicer and returns a  **[Slicer](Excel.Slicer.md)** object.
 
 ## Syntax
 
-_expression_. `Add`( `_SlicerDestination_` , `_Level_` , `_Name_` , `_Caption_` , `_Top_` , `_Left_` , `_Width_` , `_Height_` )
+_expression_.**Add**( `_SlicerDestination_` , `_Level_` , `_Name_` , `_Caption_` , `_Top_` , `_Left_` , `_Width_` , `_Height_` )
 
 _expression_ A variable that represents a [Slicers](Excel.Slicers.md) object.
 

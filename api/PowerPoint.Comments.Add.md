@@ -19,7 +19,7 @@ Returns a  **[Comment](PowerPoint.Comment.md)** object that represents a new com
 
 ## Syntax
 
- _expression_. `Add`( `_Left_`, `_Top_`, `_Author_`, `_AuthorInitials_`, `_Text_` )
+ _expression_.**Add**( `_Left_`, `_Top_`, `_Author_`, `_AuthorInitials_`, `_Text_` )
 
 _expression_ A variable that represents a [Comments](./PowerPoint.Comments.md) object.
 

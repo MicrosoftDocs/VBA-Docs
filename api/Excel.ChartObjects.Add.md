@@ -19,7 +19,7 @@ Creates a new embedded chart.
 
 ## Syntax
 
-_expression_. `Add`( `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_.**Add**( `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
 _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md)** object.
 

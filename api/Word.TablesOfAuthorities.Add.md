@@ -19,7 +19,7 @@ Returns a  **TableOfAuthorities** object that represents a table of authorities 
 
 ## Syntax
 
- _expression_. `Add`( `_Range_` , `_Category_` , `_Bookmark_` , `_Passim_` , `_KeepEntryFormatting_` , `_Separator_` , `_IncludeSequenceName_` , `_EntrySeparator_` , `_PageRangeSeparator_` , `_IncludeCategoryHeader_` , `_PageNumberSeparator_` )
+ _expression_.**Add**( `_Range_` , `_Category_` , `_Bookmark_` , `_Passim_` , `_KeepEntryFormatting_` , `_Separator_` , `_IncludeSequenceName_` , `_EntrySeparator_` , `_PageRangeSeparator_` , `_IncludeCategoryHeader_` , `_PageNumberSeparator_` )
 
  _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
 

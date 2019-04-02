@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # AddIns.Add method (Excel)
 
-Adds a new add-in file to the list of add-ins. Returns an **[AddIn](Excel.AddIn.md)** object.
+Adds a new add-in file to the list of add-ins. Returns an **[AddIn](Excel.AddIn.md)** object. 
 
 
 ## Syntax
 
-_expression_. `Add`( _FileName_ , _CopyFile_ )
+_expression_.**Add** (_FileName_, _CopyFile_)
 
 _expression_ A variable that represents an **[AddIns](Excel.AddIns.md)** object.
 

@@ -19,7 +19,7 @@ Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collecti
 
 ## Syntax
 
-_expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
 _expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
 

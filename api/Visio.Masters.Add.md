@@ -19,7 +19,7 @@ Adds a new object to a collection.
 
 ## Syntax
 
- _expression_. `Add`
+ _expression_.**Add**
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

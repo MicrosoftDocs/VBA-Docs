@@ -19,7 +19,7 @@ Creates a new action in the  **[Actions](Outlook.Actions.md)** collection.
 
 ## Syntax
 
-_expression_. `Add`
+_expression_.**Add**
 
 _expression_ A variable that represents an [Actions](./Outlook.Actions.md) object.
 

@@ -19,7 +19,7 @@ Creates an object that represents an item in a document saved to a web page. Suc
 
 ## Syntax
 
-_expression_. `Add`( `_SourceType_` , `_Filename_` , `_Sheet_` , `_Source_` , `_HtmlType_` , `_DivID_` , `_Title_` )
+_expression_.**Add**( `_SourceType_` , `_Filename_` , `_Sheet_` , `_Source_` , `_HtmlType_` , `_DivID_` , `_Title_` )
 
 _expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
 

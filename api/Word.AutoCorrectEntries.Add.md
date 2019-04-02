@@ -19,7 +19,7 @@ Returns an  **AutoCorrectEntry** object that represents a plain-text AutoCorrect
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Value_` )
+ _expression_.**Add** (_Name_, _Value_)
 
  _expression_ Required. A variable that represents an '[AutoCorrectEntries](Word.autocorrectentries.md)' collection.
 

@@ -19,7 +19,7 @@ Returns a  **String** that represents the path to the specified **[Presentation]
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

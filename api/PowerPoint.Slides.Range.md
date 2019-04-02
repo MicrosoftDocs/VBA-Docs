@@ -19,7 +19,7 @@ Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents a s
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 

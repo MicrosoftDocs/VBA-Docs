@@ -19,7 +19,7 @@ Returns an  **Endnote** object that represents an endnote added to a range.
 
 ## Syntax
 
- _expression_. `Add`( `_Range_` , `_Reference_` , `_Text_` )
+ _expression_.**Add**( `_Range_` , `_Reference_` , `_Text_` )
 
  _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 

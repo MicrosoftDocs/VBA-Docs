@@ -19,7 +19,7 @@ Returns a  **[RecentFiles](Excel.RecentFiles.md)** collection that represents th
 
 ## Syntax
 
-_expression_. `RecentFiles`
+_expression_.**RecentFiles**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 

@@ -12,7 +12,7 @@ Returns a  **ShapeRange** object that represents a subset of shapes in the **Sha
 
 ## Syntax
 
- _expression_. `Range` _(Index)_
+_expression_.**Range** (_Index_)
 
  _expression_ A variable that represents a 'Shapes' object.
 
