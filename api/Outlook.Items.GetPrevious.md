@@ -21,7 +21,7 @@ Returns the previous object in the collection.
 
 _expression_. `GetPrevious`
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Return value

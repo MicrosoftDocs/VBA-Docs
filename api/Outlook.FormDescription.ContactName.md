@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the name of the person to contact for
 
 _expression_. `ContactName`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## See also

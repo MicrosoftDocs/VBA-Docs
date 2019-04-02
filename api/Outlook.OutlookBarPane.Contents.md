@@ -21,7 +21,7 @@ Returns the  **[OutlookBarStorage](Outlook.OutlookBarStorage.md)** object for th
 
 _expression_. `Contents`
 
-_expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
+_expression_ A variable that represents an [OutlookBarPane](Outlook.OutlookBarPane.md) object.
 
 
 ## Example

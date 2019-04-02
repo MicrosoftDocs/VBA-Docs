@@ -21,7 +21,7 @@ Returns a  **String** that represents the currently selected portion of the valu
 
 _expression_. `SelText`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

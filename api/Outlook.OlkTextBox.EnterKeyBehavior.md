@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that defines the way the **ENTER** key behaves in
 
 _expression_. `EnterKeyBehavior`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

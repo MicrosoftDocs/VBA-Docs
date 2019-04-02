@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the start date and time of the
 
 _expression_. `StartInStartTimeZone`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

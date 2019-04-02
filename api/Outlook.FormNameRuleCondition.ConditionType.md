@@ -21,7 +21,7 @@ Returns a constant,  **olConditionFormName**, from the **[OlRuleConditionType](O
 
 _expression_. `ConditionType`
 
-_expression_ A variable that represents a [FormNameRuleCondition](./Outlook.FormNameRuleCondition.md) object.
+_expression_ A variable that represents a [FormNameRuleCondition](Outlook.FormNameRuleCondition.md) object.
 
 
 ## Remarks

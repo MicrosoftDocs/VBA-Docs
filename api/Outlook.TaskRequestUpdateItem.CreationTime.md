@@ -21,7 +21,7 @@ Returns a  **Date** indicating the creation time for the Outlook item. Read-only
 
 _expression_. `CreationTime`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

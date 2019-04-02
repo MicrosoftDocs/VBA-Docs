@@ -21,7 +21,7 @@ Returns a  **String** value that represents the localized display name for the *
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [NotesModule](./Outlook.NotesModule.md) object.
+_expression_ A variable that represents a [NotesModule](Outlook.NotesModule.md) object.
 
 
 ## See also

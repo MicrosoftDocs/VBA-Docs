@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the number of occurrences of the recurren
 
 _expression_. `Occurrences`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

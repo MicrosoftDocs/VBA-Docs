@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the display name for the **[
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [NavigationGroup](./Outlook.NavigationGroup.md) object.
+_expression_ A variable that represents a [NavigationGroup](Outlook.NavigationGroup.md) object.
 
 
 ## Remarks

@@ -30,7 +30,7 @@ The following is an example of the date control at runtime. This control support
 
 This control can bind to any built-in or custom  **DateTime** field. However, the control does not support any date format setting for the field, nor does it support the select range behavior that is available in the appointment inspector.
 
-If the  **[Click](./Outlook.OlkDateControl.Click.md)** event is implemented but the **[DropButtonClick](./Outlook.OlkDateControl.DropButtonClick.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
+If the  **[Click](Outlook.OlkDateControl.Click.md)** event is implemented but the **[DropButtonClick](Outlook.OlkDateControl.DropButtonClick.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
 
 For more information about Outlook controls, see [Controls in a Custom Form](../outlook/Concepts/Forms/controls-in-a-custom-form.md). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
 
@@ -41,20 +41,20 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 |Name|
 |:-----|
-|[AfterUpdate](./Outlook.OlkDateControl.AfterUpdate.md)|
-|[BeforeUpdate](./Outlook.OlkDateControl.BeforeUpdate.md)|
-|[Change](./Outlook.OlkDateControl.Change.md)|
-|[Click](./Outlook.OlkDateControl.Click.md)|
-|[DoubleClick](./Outlook.OlkDateControl.DoubleClick.md)|
-|[DropButtonClick](./Outlook.OlkDateControl.DropButtonClick.md)|
-|[Enter](./Outlook.OlkDateControl.Enter.md)|
-|[Exit](./Outlook.OlkDateControl.Exit.md)|
-|[KeyDown](./Outlook.OlkDateControl.KeyDown.md)|
-|[KeyPress](./Outlook.OlkDateControl.KeyPress.md)|
-|[KeyUp](./Outlook.OlkDateControl.KeyUp.md)|
-|[MouseDown](./Outlook.OlkDateControl.MouseDown.md)|
-|[MouseMove](./Outlook.OlkDateControl.MouseMove.md)|
-|[MouseUp](./Outlook.OlkDateControl.MouseUp.md)|
+|[AfterUpdate](Outlook.OlkDateControl.AfterUpdate.md)|
+|[BeforeUpdate](Outlook.OlkDateControl.BeforeUpdate.md)|
+|[Change](Outlook.OlkDateControl.Change.md)|
+|[Click](Outlook.OlkDateControl.Click.md)|
+|[DoubleClick](Outlook.OlkDateControl.DoubleClick.md)|
+|[DropButtonClick](Outlook.OlkDateControl.DropButtonClick.md)|
+|[Enter](Outlook.OlkDateControl.Enter.md)|
+|[Exit](Outlook.OlkDateControl.Exit.md)|
+|[KeyDown](Outlook.OlkDateControl.KeyDown.md)|
+|[KeyPress](Outlook.OlkDateControl.KeyPress.md)|
+|[KeyUp](Outlook.OlkDateControl.KeyUp.md)|
+|[MouseDown](Outlook.OlkDateControl.MouseDown.md)|
+|[MouseMove](Outlook.OlkDateControl.MouseMove.md)|
+|[MouseUp](Outlook.OlkDateControl.MouseUp.md)|
 
 ## Methods
 
@@ -62,7 +62,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 |Name|
 |:-----|
-|[DropDown](./Outlook.OlkDateControl.DropDown.md)|
+|[DropDown](Outlook.OlkDateControl.DropDown.md)|
 
 ## Properties
 
@@ -70,23 +70,23 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 |Name|
 |:-----|
-|[AutoSize](./Outlook.OlkDateControl.AutoSize.md)|
-|[AutoWordSelect](./Outlook.OlkDateControl.AutoWordSelect.md)|
-|[BackColor](./Outlook.OlkDateControl.BackColor.md)|
-|[BackStyle](./Outlook.OlkDateControl.BackStyle.md)|
-|[Date](./Outlook.OlkDateControl.Date.md)|
-|[Enabled](./Outlook.OlkDateControl.Enabled.md)|
-|[EnterFieldBehavior](./Outlook.OlkDateControl.EnterFieldBehavior.md)|
-|[Font](./Outlook.OlkDateControl.Font.md)|
-|[ForeColor](./Outlook.OlkDateControl.ForeColor.md)|
-|[HideSelection](./Outlook.OlkDateControl.HideSelection.md)|
-|[Locked](./Outlook.OlkDateControl.Locked.md)|
-|[MouseIcon](./Outlook.OlkDateControl.MouseIcon.md)|
-|[MousePointer](./Outlook.OlkDateControl.MousePointer.md)|
-|[ShowNoneButton](./Outlook.OlkDateControl.ShowNoneButton.md)|
-|[Text](./Outlook.OlkDateControl.Text.md)|
-|[TextAlign](./Outlook.OlkDateControl.TextAlign.md)|
-|[Value](./Outlook.OlkDateControl.Value.md)|
+|[AutoSize](Outlook.OlkDateControl.AutoSize.md)|
+|[AutoWordSelect](Outlook.OlkDateControl.AutoWordSelect.md)|
+|[BackColor](Outlook.OlkDateControl.BackColor.md)|
+|[BackStyle](Outlook.OlkDateControl.BackStyle.md)|
+|[Date](Outlook.OlkDateControl.Date.md)|
+|[Enabled](Outlook.OlkDateControl.Enabled.md)|
+|[EnterFieldBehavior](Outlook.OlkDateControl.EnterFieldBehavior.md)|
+|[Font](Outlook.OlkDateControl.Font.md)|
+|[ForeColor](Outlook.OlkDateControl.ForeColor.md)|
+|[HideSelection](Outlook.OlkDateControl.HideSelection.md)|
+|[Locked](Outlook.OlkDateControl.Locked.md)|
+|[MouseIcon](Outlook.OlkDateControl.MouseIcon.md)|
+|[MousePointer](Outlook.OlkDateControl.MousePointer.md)|
+|[ShowNoneButton](Outlook.OlkDateControl.ShowNoneButton.md)|
+|[Text](Outlook.OlkDateControl.Text.md)|
+|[TextAlign](Outlook.OlkDateControl.TextAlign.md)|
+|[Value](Outlook.OlkDateControl.Value.md)|
 
 ## See also
 

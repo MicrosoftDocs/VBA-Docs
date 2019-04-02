@@ -18,7 +18,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
 _expression_. `Unload`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the journalized item was pos
 
 _expression_. `DocPosted`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

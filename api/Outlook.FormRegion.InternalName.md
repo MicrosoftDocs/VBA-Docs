@@ -21,7 +21,7 @@ Returns a  **String** that represents the internal programmatic name of the form
 
 _expression_. `InternalName`
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks

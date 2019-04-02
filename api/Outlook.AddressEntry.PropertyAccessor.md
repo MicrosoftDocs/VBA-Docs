@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
-_expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## See also

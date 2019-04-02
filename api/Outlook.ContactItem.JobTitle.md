@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the job title for the contact. Read/w
 
 _expression_. `JobTitle`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Adds a Personal Folders file (.pst) in the specified format to the current profi
 
 _expression_. `AddStoreEx`( `_Store_` , `_Type_` )
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters

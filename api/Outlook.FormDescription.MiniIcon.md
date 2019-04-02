@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the file name of the mini-icon to be 
 
 _expression_. `MiniIcon`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## See also

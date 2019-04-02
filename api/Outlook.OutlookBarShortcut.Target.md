@@ -21,7 +21,7 @@ Returns a  **Variant** indicating the target of the specified shortcut in a **Sh
 
 _expression_. `Target`
 
-_expression_ A variable that represents an [OutlookBarShortcut](./Outlook.OutlookBarShortcut.md) object.
+_expression_ A variable that represents an [OutlookBarShortcut](Outlook.OutlookBarShortcut.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `SyncScrollingSideBySide`
+_expression_. `SyncScrollingSideBySide`
 
  _expression_ An expression that returns a 'Windows' collection.
 

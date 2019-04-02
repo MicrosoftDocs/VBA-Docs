@@ -21,7 +21,7 @@ Returns a  **String** representing the department for the **[ExchangeUser](Outlo
 
 _expression_. `Department`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

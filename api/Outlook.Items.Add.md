@@ -21,7 +21,7 @@ Creates a new Outlook item in the  **[Items](Outlook.Items.md)** collection for 
 
 _expression_.**Add** `_Type_`
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Parameters

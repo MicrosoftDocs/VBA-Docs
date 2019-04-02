@@ -21,7 +21,7 @@ Returns or sets a  **Long** specifying the number of units of a given recurrence
 
 _expression_. `Interval`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

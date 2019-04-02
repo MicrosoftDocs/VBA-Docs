@@ -21,7 +21,7 @@ Copies the contents of the control to the clipboard.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

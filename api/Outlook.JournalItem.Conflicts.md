@@ -21,7 +21,7 @@ Returns the  **[Conflicts](Outlook.Conflicts.md)** object that represents the it
 
 _expression_. `Conflicts`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

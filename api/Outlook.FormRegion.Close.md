@@ -21,7 +21,7 @@ Represents the closing of the frame for a form region, which occurs just before 
 
 _expression_. `Close`
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## See also

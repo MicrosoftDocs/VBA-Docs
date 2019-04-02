@@ -21,7 +21,7 @@ Executes the  **Forward** action for an item and returns the resulting copy as a
 
 _expression_. `Forward`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Return value

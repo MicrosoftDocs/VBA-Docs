@@ -21,7 +21,7 @@ Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind o
 
 _expression_. `GetSelection`( `_SelectionContents_` )
 
-_expression_ A variable that represents an [AttachmentSelection](./Outlook.AttachmentSelection.md) object.
+_expression_ A variable that represents an [AttachmentSelection](Outlook.AttachmentSelection.md) object.
 
 
 ## Parameters

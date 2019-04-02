@@ -19,7 +19,7 @@ Returns a  **[HeadingStyles](Word.headingstyles.md)** object that represents add
 
 ## Syntax
 
- _expression_. `HeadingStyles`
+_expression_. `HeadingStyles`
 
  _expression_ A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 

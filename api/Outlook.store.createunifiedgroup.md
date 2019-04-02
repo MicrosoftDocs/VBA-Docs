@@ -19,7 +19,7 @@ Enables a unified group to be created.
 
 _expression_. `CreateUnifiedGroup`( _Name_,  _Name_,  _Alias_,  _Description_,  _FAutoSubscribeMembers_,  _GroupType_)
 
-_expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 ## Parameters

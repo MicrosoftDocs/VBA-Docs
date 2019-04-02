@@ -21,7 +21,7 @@ Returns the  **[AddressEntry](Outlook.AddressEntry.md)** object corresponding to
 
 _expression_. `AddressEntry`
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## Remarks

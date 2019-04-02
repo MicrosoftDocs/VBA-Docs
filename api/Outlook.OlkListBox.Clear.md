@@ -21,7 +21,7 @@ Removes all objects from the list.
 
 _expression_. `Clear`
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## See also

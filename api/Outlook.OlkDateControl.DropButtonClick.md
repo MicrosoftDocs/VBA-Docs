@@ -21,7 +21,7 @@ Occurs when the user clicks the drop button to expand the calendar in the date c
 
 _expression_. `DropButtonClick`
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## See also

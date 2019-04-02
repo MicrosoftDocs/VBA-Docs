@@ -21,7 +21,7 @@ Returns or sets an  **[OlBodyFormat](Outlook.OlBodyFormat.md)** constant indicat
 
 _expression_. `BodyFormat`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

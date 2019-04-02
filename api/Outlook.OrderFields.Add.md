@@ -21,7 +21,7 @@ Creates a new  **[OrderField](Outlook.OrderField.md)** object and appends it to 
 
 _expression_.**Add**( `_PropertyName_` , `_IsDescending_` )
 
-_expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.md) object.
+_expression_ A variable that represents an [OrderFields](Outlook.OrderFields.md) object.
 
 
 ## Parameters

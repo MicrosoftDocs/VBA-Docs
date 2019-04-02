@@ -21,7 +21,7 @@ Applies the  **[CalendarView](Outlook.CalendarView.md)** object to the current v
 
 _expression_. `Apply`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## See also

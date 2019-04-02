@@ -49,7 +49,7 @@ myRecipient.Type = olCC
 
 |Name|
 |:-----|
-|[Delete](./Outlook.Recipient.Delete.md)|
+|[Delete](Outlook.Recipient.Delete.md)|
 |[FreeBusy](Outlook.Recipient.FreeBusy.md)|
 |[Resolve](Outlook.Recipient.Resolve.md)|
 

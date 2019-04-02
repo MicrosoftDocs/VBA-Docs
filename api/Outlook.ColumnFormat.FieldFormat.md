@@ -21,7 +21,7 @@ Returns or sets a  **Long** value that represents the display format of the prop
 
 _expression_. `FieldFormat`
 
-_expression_ A variable that represents a [ColumnFormat](./Outlook.ColumnFormat.md) object.
+_expression_ A variable that represents a [ColumnFormat](Outlook.ColumnFormat.md) object.
 
 
 ## Remarks

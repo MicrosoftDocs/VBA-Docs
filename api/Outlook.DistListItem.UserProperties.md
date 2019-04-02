@@ -21,7 +21,7 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 _expression_. `UserProperties`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Returns a  **[WdXMLNodeType](./overview/Word.md)** constant that represents the 
 
 ## Syntax
 
- _expression_. `NodeType`
+_expression_. `NodeType`
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

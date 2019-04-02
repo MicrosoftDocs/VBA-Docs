@@ -21,7 +21,7 @@ Returns a  **String** representing the first name of the **[ExchangeUser](Outloo
 
 _expression_. `FirstName`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

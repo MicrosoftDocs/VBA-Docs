@@ -21,7 +21,7 @@ Adds the specified field to the end of the  **[ViewFields](Outlook.ViewFields.md
 
  _expression_.**Add**( `_PropertyName_` )
 
-_expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the first business telephone number f
 
 _expression_. `BusinessTelephoneNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

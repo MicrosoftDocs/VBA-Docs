@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the completion date of the tas
 
 _expression_. `TaskCompletedDate`
 
- _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
+ _expression_ An expression that returns a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

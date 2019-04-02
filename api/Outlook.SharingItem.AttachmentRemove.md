@@ -18,7 +18,7 @@ Occurs when an attachment has been removed from an instance of the parent object
 
 _expression_. `AttachmentRemove`( `_Attachment_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

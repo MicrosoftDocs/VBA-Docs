@@ -21,7 +21,7 @@ Returns a  **String** representing the display name of the second email entry fo
 
 _expression_. `Email2DisplayName`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

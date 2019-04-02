@@ -21,7 +21,7 @@ Saves the search results to a Search Folder.
 
 _expression_. `Save` `_SchFldrName_`
 
-_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Parameters

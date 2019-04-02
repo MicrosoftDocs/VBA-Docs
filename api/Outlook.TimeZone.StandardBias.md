@@ -21,7 +21,7 @@ Returns a  **Long** value that represents the time offset in minutes from the **
 
 _expression_. `StandardBias`
 
-_expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object.
 
 
 ## Remarks

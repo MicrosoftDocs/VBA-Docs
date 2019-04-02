@@ -21,7 +21,7 @@ Returns or sets an  **[OlActionShowOn](Outlook.OlActionShowOn.md)** constant rep
 
 _expression_. `ShowOn`
 
-_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](Outlook.Action.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Removes the contents of the control and copies the contents to the clipboard.
 
 _expression_. `Cut`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

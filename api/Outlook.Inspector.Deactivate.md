@@ -21,7 +21,7 @@ Occurs when an inspector stops being the active window, either as a result of us
 
 _expression_. `Deactivate`
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Remarks

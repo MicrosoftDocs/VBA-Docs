@@ -21,7 +21,7 @@ Returns a constant from the  **[OlAddressListType](Outlook.OlAddressListType.md)
 
 _expression_. `AddressListType`
 
-_expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 
 
 ## See also

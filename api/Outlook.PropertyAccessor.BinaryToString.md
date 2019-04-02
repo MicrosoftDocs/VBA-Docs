@@ -21,7 +21,7 @@ Converts the array of bytes specified by  _Value_ to a **String**.
 
 _expression_. `BinaryToString`( `_Value_` )
 
-_expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters

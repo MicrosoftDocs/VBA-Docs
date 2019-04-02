@@ -21,7 +21,7 @@ Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all
 
 _expression_. `Attachments`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Saves the view, or saves the changes to a view.
 
 _expression_. `Save`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## See also

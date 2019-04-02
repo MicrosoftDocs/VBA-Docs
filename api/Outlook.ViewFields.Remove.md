@@ -21,7 +21,7 @@ Removes an object from the collection.
 
 _expression_. `Remove`( `_Index_` )
 
-_expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## Parameters

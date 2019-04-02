@@ -21,7 +21,7 @@ Returns or sets a  **Long** that determines the Internet code page used by the i
 
 _expression_. `InternetCodepage`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

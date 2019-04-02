@@ -21,7 +21,7 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 
 _expression_. `OutlookVersion`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## See also

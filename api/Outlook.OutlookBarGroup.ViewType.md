@@ -21,7 +21,7 @@ Returns or sets an  **[OlOutlookBarViewType](Outlook.OlOutlookBarViewType.md)** 
 
 _expression_. `ViewType`
 
- _expression_ An expression that returns a [OutlookBarGroup](./Outlook.OutlookBarGroup.md) object.
+ _expression_ An expression that returns a [OutlookBarGroup](Outlook.OutlookBarGroup.md) object.
 
 
 ## Remarks

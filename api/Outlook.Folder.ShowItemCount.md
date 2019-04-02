@@ -21,7 +21,7 @@ Sets or returns a constant in the  **[OlShowItemCount](Outlook.OlShowItemCount.m
 
 _expression_. `ShowItemCount`
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks

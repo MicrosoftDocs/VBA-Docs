@@ -21,7 +21,7 @@ Returns a  **Long** value indicating the count of **[OrderField](Outlook.OrderFi
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.md) object.
+_expression_ A variable that represents an [OrderFields](Outlook.OrderFields.md) object.
 
 
 ## See also

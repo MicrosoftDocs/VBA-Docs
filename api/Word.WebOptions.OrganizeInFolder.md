@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `OrganizeInFolder`
+_expression_. `OrganizeInFolder`
 
  _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 

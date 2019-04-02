@@ -21,7 +21,7 @@ Returns a  **String** representing the type of entry for the **[ExchangeDistribu
 
 _expression_.**Type**
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

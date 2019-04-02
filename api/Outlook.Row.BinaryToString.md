@@ -21,7 +21,7 @@ Obtains a  **String** representing a value that has been converted from a binary
 
 _expression_. `BinaryToString`( `_Index_` )
 
-_expression_ A variable that represents a [Row](./Outlook.Row.md) object.
+_expression_ A variable that represents a [Row](Outlook.Row.md) object.
 
 
 ## Parameters

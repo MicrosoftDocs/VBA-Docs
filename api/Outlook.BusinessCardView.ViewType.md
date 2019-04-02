@@ -21,7 +21,7 @@ Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that represents the
 
 _expression_. `ViewType`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## See also

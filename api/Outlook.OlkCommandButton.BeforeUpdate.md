@@ -21,7 +21,7 @@ Occurs when the data in the control is changed through the user interface and is
 
 _expression_.**BeforeUpdate** (_Cancel_)
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Parameters

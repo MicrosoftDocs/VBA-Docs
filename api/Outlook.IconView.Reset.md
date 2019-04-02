@@ -21,7 +21,7 @@ Resets a built-in Microsoft Outlook view to its original settings.
 
 _expression_. `Reset`
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks

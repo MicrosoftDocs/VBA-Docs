@@ -21,7 +21,7 @@ Returns or sets an  **[olAlignment](Outlook.OlAlignment.md)** constant that indi
 
 _expression_. `Alignment`
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks

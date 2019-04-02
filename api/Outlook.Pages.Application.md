@@ -21,13 +21,13 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
+_expression_ A variable that represents a [Pages](Outlook.Pages.md) object.
 
 
 ## See also
 
 
 
-[Pages Object](./Outlook.pages(object).md)
+[Pages Object](Outlook.pages(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

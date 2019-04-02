@@ -21,7 +21,7 @@ Returns an  **[OlGroupType](Outlook.OlGroupType.md)** constant that indicates th
 
 _expression_. `GroupType`
 
-_expression_ A variable that represents a [NavigationGroup](./Outlook.NavigationGroup.md) object.
+_expression_ A variable that represents a [NavigationGroup](Outlook.NavigationGroup.md) object.
 
 
 ## See also

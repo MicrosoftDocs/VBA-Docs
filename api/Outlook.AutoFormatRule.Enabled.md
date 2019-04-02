@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether the formatting rule 
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormatRule.md) object.
+_expression_ A variable that represents an [AutoFormatRule](Outlook.AutoFormatRule.md) object.
 
 
 ## Example

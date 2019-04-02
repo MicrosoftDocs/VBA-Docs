@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the subcategory assigned to the form 
 
 _expression_. `CategorySub`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## See also

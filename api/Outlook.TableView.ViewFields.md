@@ -21,7 +21,7 @@ Returns a  **[ViewFields](Outlook.ViewFields.md)** object that represents the se
 
 _expression_. `ViewFields`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## See also

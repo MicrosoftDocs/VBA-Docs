@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that enables the rendering of a downward-pointing
 
 _expression_. `DisplayDropArrow`
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks

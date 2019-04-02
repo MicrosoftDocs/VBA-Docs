@@ -21,7 +21,7 @@ Exports calendar information from the parent  **[Folder](Outlook.Folder.md)** of
 
 _expression_. `SaveAsICal`( `_Path_` )
 
- _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
+ _expression_ An expression that returns a [CalendarSharing](Outlook.CalendarSharing.md) object.
 
 
 ## Parameters

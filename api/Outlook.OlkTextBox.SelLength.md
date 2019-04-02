@@ -21,7 +21,7 @@ Returns or sets a  **Long** that specifies the number of characters in the curre
 
 _expression_. `SelLength`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

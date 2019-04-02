@@ -21,7 +21,7 @@ Returns a  **Long** indicating the number of unread items in the folder. Read-on
 
 _expression_. `UnReadItemCount`
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## See also

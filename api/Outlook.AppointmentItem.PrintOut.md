@@ -21,7 +21,7 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
 _expression_. `PrintOut`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

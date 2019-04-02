@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [OutlookBarGroup](./Outlook.OutlookBarGroup.md) object.
+_expression_ A variable that represents an [OutlookBarGroup](Outlook.OutlookBarGroup.md) object.
 
 
 ## See also

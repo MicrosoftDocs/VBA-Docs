@@ -21,7 +21,7 @@ Returns or sets a  **String** specifying the whole, unparsed full name for the c
 
 _expression_.**FullName**
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

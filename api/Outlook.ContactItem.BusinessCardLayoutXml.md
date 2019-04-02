@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the XML markup for the layout of t
 
 _expression_. `BusinessCardLayoutXml`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

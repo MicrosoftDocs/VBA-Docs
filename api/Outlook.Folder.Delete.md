@@ -21,7 +21,7 @@ Deletes an object from the collection.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **Long** indicating the size (in bytes) of the attachment. Read-only.
 
 _expression_. `Size`
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Remarks

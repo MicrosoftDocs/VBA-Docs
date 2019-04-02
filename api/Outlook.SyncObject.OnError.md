@@ -21,7 +21,7 @@ Occurs when Microsoft Outlook encounters an error while synchronizing a user?s f
 
 _expression_. `OnError`( `_Code_` , `_Description_` )
 
-_expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
+_expression_ A variable that represents a [SyncObject](Outlook.SyncObject.md) object.
 
 
 ## Parameters

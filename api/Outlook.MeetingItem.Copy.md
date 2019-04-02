@@ -21,7 +21,7 @@ Creates another instance of an object.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## See also

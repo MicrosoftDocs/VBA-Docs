@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ApplyStyleHeadingRows`
+_expression_. `ApplyStyleHeadingRows`
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 

@@ -21,7 +21,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 _expression_. `ItemProperties`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

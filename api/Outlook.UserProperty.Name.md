@@ -21,7 +21,7 @@ Returns a  **String** value that represents the display name for the object. Rea
 
  _expression_.**Name**
 
-_expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 
 
 ## See also

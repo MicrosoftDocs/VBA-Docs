@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the street address portion of the bus
 
 _expression_. `BusinessAddressStreet`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

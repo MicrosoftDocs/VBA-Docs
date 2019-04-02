@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the due date of the task for t
 
 _expression_. `TaskDueDate`
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

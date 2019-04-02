@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines whether the originator of t
 
 _expression_. `OriginatorDeliveryReportRequested`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

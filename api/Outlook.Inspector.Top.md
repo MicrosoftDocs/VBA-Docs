@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the position (in pixels) of the top horiz
 
 _expression_.**Top**
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## See also

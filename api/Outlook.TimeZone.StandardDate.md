@@ -21,7 +21,7 @@ Returns a  **Date** value that represents the date and time in this time zone wh
 
 _expression_. `StandardDate`
 
-_expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object.
 
 
 ## Remarks

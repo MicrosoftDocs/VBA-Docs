@@ -18,7 +18,7 @@ Occurs when the user selects the  **Send** action for an item (which is an insta
 
 _expression_. `Send`( `_Cancel_` )
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Parameters

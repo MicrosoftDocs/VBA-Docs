@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `DisplayEquation`
+_expression_. `DisplayEquation`
 
  _expression_ A variable that represents a '[Trendline](Word.Trendline.md)' object.
 

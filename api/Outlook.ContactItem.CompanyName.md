@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the company name for the contact. Rea
 
 _expression_. `CompanyName`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

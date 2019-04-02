@@ -19,7 +19,7 @@ Accepts all the tracked changes in a document or range, removes all revision mar
 
 ## Syntax
 
- _expression_. `AcceptAll`
+_expression_. `AcceptAll`
 
  _expression_ Required. A variable that represents a '[Revisions](Word.revisions.md)' collection.
 

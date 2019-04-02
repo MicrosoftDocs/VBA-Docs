@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `RestartNumberingAtSection`
+_expression_. `RestartNumberingAtSection`
 
  _expression_ An expression that returns a '[PageNumbers](Word.pagenumbers.md)' collection object.
 

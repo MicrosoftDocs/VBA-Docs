@@ -21,7 +21,7 @@ Changes the date used by the current view to display information.
 
 _expression_. `GoToDate`( `_Date_` )
 
-_expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Parameters

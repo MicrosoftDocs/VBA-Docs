@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the state code portion of the busines
 
 _expression_. `BusinessAddressState`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

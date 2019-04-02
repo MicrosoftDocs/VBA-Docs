@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether or not the control is lock
 
 _expression_.**Locked**
 
-_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Remarks

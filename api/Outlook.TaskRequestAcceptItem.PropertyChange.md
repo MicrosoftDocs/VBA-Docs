@@ -18,7 +18,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.App
 
 _expression_. `PropertyChange`( `_Name_` )
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Parameters

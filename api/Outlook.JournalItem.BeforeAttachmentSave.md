@@ -18,7 +18,7 @@ Occurs just before an attachment is saved.
 
 _expression_. `BeforeAttachmentSave`( `_Attachment_` , `_Cancel_` )
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Parameters

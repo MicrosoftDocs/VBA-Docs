@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates if the item property is a custom pro
 
 _expression_. `IsUserProperty`
 
-_expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
+_expression_ A variable that represents an [ItemProperty](Outlook.ItemProperty.md) object.
 
 
 ## Example

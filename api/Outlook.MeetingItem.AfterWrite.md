@@ -18,7 +18,7 @@ Occurs after Microsoft Outlook has saved the item.
 
 _expression_. `AfterWrite`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

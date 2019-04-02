@@ -19,7 +19,7 @@ Changes the horizontal offset of the shadow by the specified number of points.
 
 ## Syntax
 
- _expression_. `IncrementOffsetX`( `_Increment_` )
+_expression_. `IncrementOffsetX`( `_Increment_` )
 
  _expression_ Required. A variable that represents a '[ShadowFormat](Word.ShadowFormat.md)' object.
 

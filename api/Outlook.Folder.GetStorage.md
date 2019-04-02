@@ -21,7 +21,7 @@ Gets a  **[StorageItem](Outlook.StorageItem.md)** object on the parent **[Folder
 
 _expression_. `GetStorage`( `_StorageIdentifier_` , `_StorageIdentifierType_` )
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Parameters

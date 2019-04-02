@@ -21,7 +21,7 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 
 _expression_. `ShowCategoriesDialog`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## See also

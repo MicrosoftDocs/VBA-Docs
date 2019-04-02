@@ -21,7 +21,7 @@ Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.Act
 
 _expression_. `NotifyRead`
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks

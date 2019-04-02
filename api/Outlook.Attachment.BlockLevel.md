@@ -21,7 +21,7 @@ Returns an  **[OlAttachmentBlockLevel](Outlook.OlAttachmentBlockLevel.md)** cons
 
 _expression_. `BlockLevel`
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Remarks

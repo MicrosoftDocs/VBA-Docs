@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the whole, unparsed business address 
 
 _expression_. `BusinessAddress`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

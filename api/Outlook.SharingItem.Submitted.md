@@ -21,7 +21,7 @@ Returns a  **Boolean** value that is **True** if the **[SharingItem](Outlook.Sha
 
 _expression_. `Submitted`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

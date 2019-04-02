@@ -21,7 +21,7 @@ Returns or sets an  **[OlMultiLine](Outlook.OlMultiLine.md)** constant that dete
 
 _expression_. `Multiline`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks

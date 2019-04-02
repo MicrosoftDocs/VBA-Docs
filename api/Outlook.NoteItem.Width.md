@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the width (in pixels) of the specified ob
 
 _expression_.**Width**
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## See also

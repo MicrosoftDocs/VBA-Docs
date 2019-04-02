@@ -21,7 +21,7 @@ Returns a  **String** specifying the name of the current search. The **Tag** pro
 
 _expression_.**Tag**
 
-_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Remarks

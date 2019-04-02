@@ -21,7 +21,7 @@ Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the
 
 _expression_. `SortFields`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## See also

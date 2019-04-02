@@ -21,7 +21,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[Busin
 
 _expression_. `Copy`( `_Name_` , `_SaveOption_` )
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets a  **Long** that specifies either the starting point of the sele
 
 _expression_. `SelStart`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

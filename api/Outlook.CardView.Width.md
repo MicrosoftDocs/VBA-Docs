@@ -21,7 +21,7 @@ Returns or sets a  **Long** value indicating the width (in characters) of cards 
 
 _expression_.**Width**
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks

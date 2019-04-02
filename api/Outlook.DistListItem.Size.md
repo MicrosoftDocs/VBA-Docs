@@ -21,7 +21,7 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
 _expression_. `Size`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `RelyOnCSS`
+_expression_. `RelyOnCSS`
 
  _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 

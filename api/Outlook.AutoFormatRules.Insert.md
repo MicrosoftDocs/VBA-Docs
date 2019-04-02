@@ -21,7 +21,7 @@ Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and insert
 
 _expression_. `Insert`( `_Name_` , `_Index_` )
 
-_expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
+_expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatRules.md) object.
 
 
 ## Parameters

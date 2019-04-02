@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether this control displays full
 
 _expression_. `IntegralHeight`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

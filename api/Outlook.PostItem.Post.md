@@ -21,7 +21,7 @@ Sends (posts) the  **[PostItem](Outlook.PostItem.md)** object.
 
 _expression_. `Post`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

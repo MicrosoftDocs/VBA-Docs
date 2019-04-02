@@ -21,7 +21,7 @@ Returns a  **String** that represents the name of the sharing context for a **[S
 
 _expression_. `RemoteName`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

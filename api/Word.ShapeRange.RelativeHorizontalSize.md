@@ -19,7 +19,7 @@ Returns or sets a  **[WdRelativeHorizontalSize](Word.WdRelativeHorizontalSize.md
 
 ## Syntax
 
- _expression_. `RelativeHorizontalSize`
+_expression_. `RelativeHorizontalSize`
 
  _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
 

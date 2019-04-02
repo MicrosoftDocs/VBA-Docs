@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the radio telephone number for the cont
 
 _expression_. `RadioTelephoneNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

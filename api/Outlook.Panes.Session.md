@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [Panes](./Outlook.Panes.md) object.
+_expression_ A variable that represents a [Panes](Outlook.Panes.md) object.
 
 
 ## Remarks

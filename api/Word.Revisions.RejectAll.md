@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `RejectAll`
+_expression_. `RejectAll`
 
  _expression_ An expression that returns a 'Revisions' object.
 

@@ -21,7 +21,7 @@ Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicat
 
 _expression_. `Importance`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

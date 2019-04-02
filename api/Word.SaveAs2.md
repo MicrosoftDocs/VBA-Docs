@@ -19,7 +19,7 @@ Saves the specified document with a new name or format. Some of the arguments fo
 
 ## Syntax
 
- _expression_. `SaveAs2`( `_FileName_` , `_FileFormat_` , `_LockComments_` , `_Password_` , `_AddToRecentFiles_` , `_WritePassword_` , `_ReadOnlyRecommended_` , `_EmbedTrueTypeFonts_` , `_SaveNativePictureFormat_` , `_SaveFormsData_` , `_SaveAsAOCELetter_` , `_Encoding_` , `_InsertLineBreaks_` , `_AllowSubstitutions_` , `_LineEnding_` , `_AddBiDiMarks_` , `_CompatibilityMode_` )
+_expression_. `SaveAs2`( `_FileName_` , `_FileFormat_` , `_LockComments_` , `_Password_` , `_AddToRecentFiles_` , `_WritePassword_` , `_ReadOnlyRecommended_` , `_EmbedTrueTypeFonts_` , `_SaveNativePictureFormat_` , `_SaveFormsData_` , `_SaveAsAOCELetter_` , `_Encoding_` , `_InsertLineBreaks_` , `_AllowSubstitutions_` , `_LineEnding_` , `_AddBiDiMarks_` , `_CompatibilityMode_` )
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

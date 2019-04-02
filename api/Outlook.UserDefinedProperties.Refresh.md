@@ -21,7 +21,7 @@ Refreshes the contents of the collection from the store, retrieving any changes 
 
 _expression_. `Refresh`
 
-_expression_ A variable that represents a [UserDefinedProperties](./Outlook.UserDefinedProperties.md) object.
+_expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 
 
 ## See also

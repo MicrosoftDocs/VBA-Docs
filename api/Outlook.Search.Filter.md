@@ -21,7 +21,7 @@ Returns a  **String** value that represents the DASL statement used to restrict 
 
 _expression_. `Filter`
 
-_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Remarks

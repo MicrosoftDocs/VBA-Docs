@@ -19,7 +19,7 @@ Returns a  **[Pane](Word.Pane.md)** object that represents the active pane for t
 
 ## Syntax
 
- _expression_. `ActivePane`
+_expression_. `ActivePane`
 
  _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 

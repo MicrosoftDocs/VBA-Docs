@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [CalendarSharing](./Outlook.CalendarSharing.md) object.
+_expression_ A variable that represents a [CalendarSharing](Outlook.CalendarSharing.md) object.
 
 
 ## See also

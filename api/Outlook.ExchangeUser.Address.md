@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the X400 email address of the **[Exch
 
 _expression_. `Address`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

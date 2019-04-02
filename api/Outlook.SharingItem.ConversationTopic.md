@@ -21,7 +21,7 @@ Returns a  **String** representing the topic of the conversation thread of the *
 
 _expression_. `ConversationTopic`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

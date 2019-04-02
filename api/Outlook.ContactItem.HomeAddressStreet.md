@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the street portion of the home addres
 
 _expression_. `HomeAddressStreet`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

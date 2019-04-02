@@ -21,7 +21,7 @@ Activates an inspector window by bringing it to the foreground and setting keybo
 
 _expression_. `Activate`
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## See also

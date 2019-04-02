@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
  _expression_.**Name**
 
-_expression_ A variable that represents a [ViewFont](./Outlook.ViewFont.md) object.
+_expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 
 
 ## See also

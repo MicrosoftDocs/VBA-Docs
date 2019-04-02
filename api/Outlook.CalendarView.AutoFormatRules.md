@@ -21,7 +21,7 @@ Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that repres
 
 _expression_. `AutoFormatRules`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## See also

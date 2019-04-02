@@ -21,7 +21,7 @@ Returns a  **String** representing the unique identifier for the object. Read-on
 
 _expression_. `ID`
 
-_expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## Remarks

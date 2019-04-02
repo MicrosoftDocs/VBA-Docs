@@ -21,7 +21,7 @@ Starts the timer on the journal entry. This method allows programmatic control o
 
 _expression_. `StartTimer`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Occurs after the data in the control has been changed through the user interface
 
 _expression_.**AfterUpdate**
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

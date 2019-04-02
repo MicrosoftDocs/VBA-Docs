@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the middle name for the contact. Read
 
 _expression_. `MiddleName`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

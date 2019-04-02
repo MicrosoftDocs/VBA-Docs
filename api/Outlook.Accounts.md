@@ -28,7 +28,7 @@ The purpose of the  **Accounts** collection object and the **Account** object is
 
 |Name|
 |:-----|
-|[AutoDiscoverComplete](./Outlook.Accounts.AutoDiscoverComplete.md)|
+|[AutoDiscoverComplete](Outlook.Accounts.AutoDiscoverComplete.md)|
 
 ## Methods
 
@@ -36,7 +36,7 @@ The purpose of the  **Accounts** collection object and the **Account** object is
 
 |Name|
 |:-----|
-|[Item](./Outlook.Accounts.Item.md)|
+|[Item](Outlook.Accounts.Item.md)|
 
 ## Properties
 
@@ -44,11 +44,11 @@ The purpose of the  **Accounts** collection object and the **Account** object is
 
 |Name|
 |:-----|
-|[Application](./Outlook.Accounts.Application.md)|
-|[Class](./Outlook.Accounts.Class.md)|
-|[Count](./Outlook.Accounts.Count.md)|
-|[Parent](./Outlook.Accounts.Parent.md)|
-|[Session](./Outlook.Accounts.Session.md)|
+|[Application](Outlook.Accounts.Application.md)|
+|[Class](Outlook.Accounts.Class.md)|
+|[Count](Outlook.Accounts.Count.md)|
+|[Parent](Outlook.Accounts.Parent.md)|
+|[Session](Outlook.Accounts.Session.md)|
 
 ## See also
 

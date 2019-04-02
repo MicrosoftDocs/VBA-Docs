@@ -21,7 +21,7 @@ Returns a  **[NavigationModule](Outlook.NavigationModule.md)** object from the c
 
 _expression_.**Item** (_Index_)
 
- _expression_ An expression that returns a [NavigationModules](./Outlook.NavigationModules.md) object.
+ _expression_ An expression that returns a [NavigationModules](Outlook.NavigationModules.md) object.
 
 
 ## Parameters

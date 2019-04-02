@@ -21,7 +21,7 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents al
 
 _expression_. `Recipients`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

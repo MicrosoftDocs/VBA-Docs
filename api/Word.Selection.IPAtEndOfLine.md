@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IPAtEndOfLine`
+_expression_. `IPAtEndOfLine`
 
  _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
 

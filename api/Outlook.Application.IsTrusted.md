@@ -21,7 +21,7 @@ Returns a  **Boolean** to indicate if an add-in or external caller is considered
 
 _expression_. `IsTrusted`
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Remarks

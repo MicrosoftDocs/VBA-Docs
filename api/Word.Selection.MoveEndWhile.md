@@ -19,7 +19,7 @@ Moves the ending character position of a selection while any of the specified ch
 
 ## Syntax
 
- _expression_. `MoveEndWhile`( `_Cset_` , `_Count_` )
+_expression_. `MoveEndWhile`( `_Cset_` , `_Count_` )
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

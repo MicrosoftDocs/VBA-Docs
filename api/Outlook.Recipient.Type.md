@@ -21,7 +21,7 @@ Returns or sets a **Long** representing the type of recipient. Read/write.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## Remarks

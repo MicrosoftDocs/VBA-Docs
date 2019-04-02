@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 
 
 ## See also

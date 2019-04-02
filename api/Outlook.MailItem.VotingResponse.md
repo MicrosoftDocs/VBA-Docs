@@ -21,7 +21,7 @@ Returns or sets a  **String** specifying the voting response for the mail messag
 
 _expression_. `VotingResponse`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

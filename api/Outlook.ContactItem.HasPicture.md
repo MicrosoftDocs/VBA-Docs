@@ -21,7 +21,7 @@ Returns a  **Boolean** value that is **True** if a **Contacts** item has a pictu
 
 _expression_. `HasPicture`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example

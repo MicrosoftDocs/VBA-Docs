@@ -18,7 +18,7 @@ Occurs when the user selects the  **ReplyAll** action for an item (which is an i
 
 _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

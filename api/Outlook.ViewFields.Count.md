@@ -21,7 +21,7 @@ Returns a  **Long** value indicating the count of **[ViewField](Outlook.ViewFiel
 
  _expression_.**Count**
 
-_expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets a  **Date** that represents the time value currently selected in
 
 _expression_. `Time`
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

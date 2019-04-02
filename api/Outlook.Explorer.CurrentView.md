@@ -21,7 +21,7 @@ Returns or sets a  **Variant** representing the current view. Read/write.
 
 _expression_. `CurrentView`
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks

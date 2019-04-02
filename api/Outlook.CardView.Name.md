@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## See also

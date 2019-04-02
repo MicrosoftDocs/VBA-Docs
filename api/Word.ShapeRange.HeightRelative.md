@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the percentage of the target shape
 
 ## Syntax
 
- _expression_. `HeightRelative`
+_expression_. `HeightRelative`
 
  _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
 

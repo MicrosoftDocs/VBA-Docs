@@ -21,7 +21,7 @@ Resets an unsent response to a task request back to a simple task.
 
 _expression_. `CancelResponseState`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

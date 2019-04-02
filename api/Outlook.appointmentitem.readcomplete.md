@@ -14,7 +14,7 @@ Occurs when Outlook has completed reading the properties of the item.
 
 _expression_. `ReadComplete`_(Cancel)_
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Parameters

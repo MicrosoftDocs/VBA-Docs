@@ -21,7 +21,7 @@ Returns a  **Date** that specifies the date when the **[MeetingItem](Outlook.Mee
 
 _expression_. `RetentionExpirationDate`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

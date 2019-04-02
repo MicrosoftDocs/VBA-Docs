@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the date and time the mail message is to 
 
 _expression_. `DeferredDeliveryTime`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

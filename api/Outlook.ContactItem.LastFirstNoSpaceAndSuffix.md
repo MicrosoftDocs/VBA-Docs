@@ -21,7 +21,7 @@ Returns a  **String** that contains the last name, first name, and suffix of the
 
 _expression_. `LastFirstNoSpaceAndSuffix`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **Long** specifying the transfer size (in bytes) for the remote item.
 
 _expression_. `TransferSize`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## See also

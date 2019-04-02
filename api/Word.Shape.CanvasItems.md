@@ -19,7 +19,7 @@ Returns a  **[CanvasShapes](Word.CanvasShapes.md)** object that represents a col
 
 ## Syntax
 
- _expression_. `CanvasItems`
+_expression_. `CanvasItems`
 
  _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 

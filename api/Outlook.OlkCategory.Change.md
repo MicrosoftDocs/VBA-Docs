@@ -21,7 +21,7 @@ Occurs when a category selection has changed.
 
 _expression_. `Change`
 
-_expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## See also

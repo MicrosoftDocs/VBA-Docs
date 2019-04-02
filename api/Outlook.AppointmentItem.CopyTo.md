@@ -21,7 +21,7 @@ Copies the  **[AppointmentItem](Outlook.AppointmentItem.md)** to the folder that
 
 _expression_. `CopyTo`( `_DestinationFolder_` , `_CopyOptions_` )
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Parameters

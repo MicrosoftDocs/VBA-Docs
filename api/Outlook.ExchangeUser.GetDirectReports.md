@@ -21,7 +21,7 @@ Obtains an  **[AddressEntries](Outlook.AddressEntries.md)** collection object th
 
 _expression_. `GetDirectReports`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Return value

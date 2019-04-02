@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

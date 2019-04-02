@@ -21,7 +21,7 @@ Returns the  **[FormDescription](Outlook.FormDescription.md)** object that repre
 
 _expression_. `FormDescription`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

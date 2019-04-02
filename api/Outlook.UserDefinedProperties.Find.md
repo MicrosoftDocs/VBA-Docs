@@ -21,7 +21,7 @@ Locate a  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in
 
 _expression_. `Find`( `_Name_` )
 
-_expression_ A variable that represents a [UserDefinedProperties](./Outlook.UserDefinedProperties.md) object.
+_expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 
 
 ## Parameters

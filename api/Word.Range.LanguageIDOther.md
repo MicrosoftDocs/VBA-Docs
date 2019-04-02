@@ -19,7 +19,7 @@ Returns or sets the language for the specified range. Read/write  **WdLanguageID
 
 ## Syntax
 
- _expression_. `LanguageIDOther`
+_expression_. `LanguageIDOther`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

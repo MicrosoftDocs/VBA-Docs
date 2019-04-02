@@ -21,7 +21,7 @@ Occurs when the  **[Value](Outlook.OlkDateControl.Value.md)** property changes.
 
 _expression_. `Change`
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## See also

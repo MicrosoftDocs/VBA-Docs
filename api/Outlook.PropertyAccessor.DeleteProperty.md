@@ -21,7 +21,7 @@ Deletes the property specified by  _SchemaName_ .
 
 _expression_. `DeleteProperty`( `_SchemaName_` )
 
-_expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters

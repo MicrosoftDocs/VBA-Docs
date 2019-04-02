@@ -21,7 +21,7 @@ Returns or sets an [AddressEntry](Outlook.AddressEntry.md) object that correspon
 
 _expression_. `Sender`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **String** representing the full path to the linked attached file. Re
 
 _expression_. `PathName`
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Remarks

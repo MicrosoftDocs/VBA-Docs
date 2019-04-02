@@ -21,7 +21,7 @@ Returns a  **Long** that specifies the application-preferred width of the sender
 
 _expression_. `PreferredWidth`
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## Remarks

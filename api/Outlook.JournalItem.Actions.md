@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

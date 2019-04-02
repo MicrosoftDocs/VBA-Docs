@@ -21,7 +21,7 @@ Creates a reply, pre-addressed to the original sender, from the original message
 
 _expression_. `Reply`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Return value

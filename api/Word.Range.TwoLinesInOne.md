@@ -19,7 +19,7 @@ Returns or sets whether Microsoft Word sets two lines of text in one and specifi
 
 ## Syntax
 
- _expression_. `TwoLinesInOne`
+_expression_. `TwoLinesInOne`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

@@ -19,7 +19,7 @@ Returns an  **XMLNode** object that represents the next element in the document 
 
 ## Syntax
 
- _expression_. `NextSibling`
+_expression_. `NextSibling`
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

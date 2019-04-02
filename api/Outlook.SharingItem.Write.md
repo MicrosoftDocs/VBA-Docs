@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 _expression_. `Write`( `_Cancel_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

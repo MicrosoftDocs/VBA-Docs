@@ -21,7 +21,7 @@ Returns a  **[AccountRuleCondition](Outlook.AccountRuleCondition.md)** object wi
 
 _expression_. `Account`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

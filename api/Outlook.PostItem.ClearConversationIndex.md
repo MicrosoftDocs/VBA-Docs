@@ -21,7 +21,7 @@ Clears the index of the conversation thread for the post.
 
 _expression_. `ClearConversationIndex`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

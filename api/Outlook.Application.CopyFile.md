@@ -21,7 +21,7 @@ Copies a file from a specified location into a Microsoft Outlook store.
 
 _expression_. `CopyFile`( `_FilePath_` , `_DestFolderPath_` )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters

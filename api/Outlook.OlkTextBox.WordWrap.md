@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
 _expression_. `WordWrap`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

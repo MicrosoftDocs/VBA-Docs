@@ -21,7 +21,7 @@ Returns a  **Boolean** that determines if the reminder is currently visible. Rea
 
 _expression_.**IsVisible**
 
-_expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
+_expression_ A variable that represents a [Reminder](Outlook.Reminder.md) object.
 
 
 ## Remarks

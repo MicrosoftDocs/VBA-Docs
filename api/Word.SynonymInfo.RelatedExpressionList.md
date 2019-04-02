@@ -19,7 +19,7 @@ Returns a list of expressions related to the specified word or phrase. The list 
 
 ## Syntax
 
- _expression_. `RelatedExpressionList`
+_expression_. `RelatedExpressionList`
 
  _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 

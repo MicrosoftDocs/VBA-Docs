@@ -21,7 +21,7 @@ Occurs when a user presses a key.
 
 _expression_. `KeyDown`( `_KeyCode_` , `_Shift_` )
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Parameters

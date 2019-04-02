@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the contact names associated with the
 
 _expression_. `ContactNames`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

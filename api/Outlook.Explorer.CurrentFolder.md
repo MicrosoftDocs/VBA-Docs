@@ -21,7 +21,7 @@ Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the cu
 
 _expression_. `CurrentFolder`
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks

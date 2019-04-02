@@ -21,7 +21,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[CardV
 
 _expression_. `Copy`( `_Name_` , `_SaveOption_` )
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the address type (such as EX or SMTP)
 
 _expression_. `Email2AddressType`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

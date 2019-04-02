@@ -21,7 +21,7 @@ Returns a  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)** object 
 
 _expression_. `Category`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Occurs after a reminder is added.
 
 _expression_. `ReminderAdd`( `_ReminderObject_` )
 
-_expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Parameters

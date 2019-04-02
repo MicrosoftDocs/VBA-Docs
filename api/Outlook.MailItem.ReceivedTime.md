@@ -21,7 +21,7 @@ Returns a  **Date** indicating the date and time at which the item was received.
 
 _expression_. `ReceivedTime`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## See also

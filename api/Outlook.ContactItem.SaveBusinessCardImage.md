@@ -21,7 +21,7 @@ Saves an image of the business card generated from the specified  **[ContactItem
 
 _expression_. `SaveBusinessCardImage`( `_Path_` )
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

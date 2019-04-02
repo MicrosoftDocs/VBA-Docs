@@ -21,7 +21,7 @@ Returns an  **[OlRecurrenceState](Outlook.OlRecurrenceState.md)** constant indic
 
 _expression_. `RecurrenceState`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

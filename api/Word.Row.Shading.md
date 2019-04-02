@@ -19,7 +19,7 @@ Returns a  **[Shading](Word.Shading.md)** object that refers to the shading form
 
 ## Syntax
 
- _expression_. `Shading`
+_expression_. `Shading`
 
  _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 

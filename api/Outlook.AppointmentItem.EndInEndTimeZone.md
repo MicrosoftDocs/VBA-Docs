@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the end date and time of the a
 
 _expression_. `EndInEndTimeZone`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

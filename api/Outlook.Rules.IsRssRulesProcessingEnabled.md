@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that indicates whether RSS rules processing has b
 
 _expression_. `IsRssRulesProcessingEnabled`
 
-_expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
+_expression_ A variable that represents a [Rules](Outlook.Rules.md) object.
 
 
 ## Remarks

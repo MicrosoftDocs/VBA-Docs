@@ -21,7 +21,7 @@ Occurs when the control is double-clicked through user action.
 
 _expression_. `DoubleClick`
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## See also

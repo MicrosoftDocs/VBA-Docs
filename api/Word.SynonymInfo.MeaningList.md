@@ -19,7 +19,7 @@ Returns the list of meanings for the word or phrase. The list is returned as an 
 
 ## Syntax
 
- _expression_. `MeaningList`
+_expression_. `MeaningList`
 
  _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 

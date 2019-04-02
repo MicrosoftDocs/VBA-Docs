@@ -21,7 +21,7 @@ Creates a reply to all original recipients from the original message.
 
 _expression_. `ReplyAll`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Return value

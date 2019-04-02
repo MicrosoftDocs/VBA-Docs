@@ -19,7 +19,7 @@ Version Added: Outlook 2013
 
 _expression_. `ReadComplete`_(Cancel)_
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Parameters

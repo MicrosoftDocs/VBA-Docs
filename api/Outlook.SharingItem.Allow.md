@@ -21,7 +21,7 @@ Allows a sharing request and sends a sharing response to the sender of the  **[S
 
 _expression_. `Allow`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

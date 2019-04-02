@@ -21,7 +21,7 @@ Deletes the specified  **[NavigationGroup](Outlook.NavigationGroup.md)** object 
 
 _expression_.**Delete**( `_Group_` )
 
-_expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](Outlook.NavigationGroups.md) object.
 
 
 ## Parameters

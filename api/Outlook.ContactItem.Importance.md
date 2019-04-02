@@ -21,7 +21,7 @@ Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicat
 
 _expression_. `Importance`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

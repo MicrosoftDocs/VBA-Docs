@@ -18,7 +18,7 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 _expression_. `BeforeAttachmentSave`( `_Attachment_` , `_Cancel_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Contains the set of Outlook items currently selected in an explorer.
 
 ## Remarks
 
-Use the  **[Selection](./Outlook.Explorer.Selection.md)** property to return the **Selection** collection from the **[Explorer](Outlook.Explorer.md)** object.
+Use the  **[Selection](Outlook.Explorer.Selection.md)** property to return the **Selection** collection from the **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Example
@@ -38,8 +38,8 @@ Set mySelectedItems = myExplorer.Selection
 
 |Name|
 |:-----|
-|[GetSelection](./Outlook.Selection.GetSelection.md)|
-|[Item](./Outlook.Selection.Item.md)|
+|[GetSelection](Outlook.Selection.GetSelection.md)|
+|[Item](Outlook.Selection.Item.md)|
 
 ## Properties
 
@@ -47,12 +47,12 @@ Set mySelectedItems = myExplorer.Selection
 
 |Name|
 |:-----|
-|[Application](./Outlook.Selection.Application.md)|
-|[Class](./Outlook.Selection.Class.md)|
-|[Count](./Outlook.Selection.Count.md)|
-|[Location](./Outlook.Selection.Location.md)|
-|[Parent](./Outlook.Selection.Parent.md)|
-|[Session](./Outlook.Selection.Session.md)|
+|[Application](Outlook.Selection.Application.md)|
+|[Class](Outlook.Selection.Class.md)|
+|[Count](Outlook.Selection.Count.md)|
+|[Location](Outlook.Selection.Location.md)|
+|[Parent](Outlook.Selection.Parent.md)|
+|[Session](Outlook.Selection.Session.md)|
 
 ## See also
 

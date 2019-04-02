@@ -21,7 +21,7 @@ Returns a constant,  **olConditionCategory**, from the **[OlRuleConditionType](O
 
 _expression_. `ConditionType`
 
-_expression_ A variable that represents a [CategoryRuleCondition](./Outlook.CategoryRuleCondition.md) object.
+_expression_ A variable that represents a [CategoryRuleCondition](Outlook.CategoryRuleCondition.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Opens a shared folder referenced through a URL or file name.
 
 _expression_. `OpenSharedFolder`( `_Path_` , `_Name_` , `_DownloadAttachments_` , `_UseTTL_` )
 
- _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
+ _expression_ An expression that returns a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters

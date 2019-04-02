@@ -21,7 +21,7 @@ Returns the next object in the  **[Folders](Outlook.Folders.md)** collection.
 
 _expression_. `GetNext`
 
-_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Return value

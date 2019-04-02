@@ -21,7 +21,7 @@ Applies the  **[TimelineView](Outlook.TimelineView.md)** object to the current v
 
 _expression_. `Apply`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## See also

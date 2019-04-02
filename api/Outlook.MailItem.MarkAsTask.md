@@ -21,7 +21,7 @@ Marks a  **[MailItem](Outlook.MailItem.md)** object as a task and assigns a task
 
 _expression_. `MarkAsTask`( `_MarkInterval_` )
 
- _expression_ An expression that returns a [MailItem](./Outlook.MailItem.md) object.
+ _expression_ An expression that returns a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets a  **Long** that represents the index of the item at the top of 
 
 _expression_. `TopIndex`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Adds a new member to the specified distribution list. The distribution list cont
 
 _expression_. `AddMember`( `_Recipient_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

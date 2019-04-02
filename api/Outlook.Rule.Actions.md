@@ -21,7 +21,7 @@ Returns a  **[RuleActions](Outlook.RuleActions.md)** collection object that repr
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
+_expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 
 ## Remarks

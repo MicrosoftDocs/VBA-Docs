@@ -21,7 +21,7 @@ Prints the  **[SharingItem](Outlook.SharingItem.md)** using all default settings
 
 _expression_. `PrintOut`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

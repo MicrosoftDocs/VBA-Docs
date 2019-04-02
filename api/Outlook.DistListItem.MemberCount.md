@@ -21,7 +21,7 @@ Returns a  **Long** indicating the number of members in a distribution list. Rea
 
 _expression_. `MemberCount`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets an  **[OlGridLineStyle](Outlook.OlGridLineStyle.md)** constant t
 
 _expression_. `GridLineStyle`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Example

@@ -18,7 +18,7 @@ Occurs when an attachment has been removed from an instance of the parent object
 
 _expression_. `AttachmentRemove`( `_Attachment_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

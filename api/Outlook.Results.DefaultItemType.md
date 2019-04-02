@@ -21,7 +21,7 @@ Returns an  **[OlItemType](Outlook.OlItemType.md)** constant indicating the defa
 
 _expression_. `DefaultItemType`
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## See also

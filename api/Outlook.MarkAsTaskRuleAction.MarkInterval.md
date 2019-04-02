@@ -21,7 +21,7 @@ Returns or sets a constant in the  **[OlMarkInterval](Outlook.OlMarkInterval.md)
 
 _expression_. `MarkInterval`
 
-_expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkAsTaskRuleAction.md) object.
+_expression_ A variable that represents a [MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md) object.
 
 
 ## See also

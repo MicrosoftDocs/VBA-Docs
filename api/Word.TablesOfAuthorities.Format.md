@@ -19,7 +19,7 @@ Returns or sets the formatting for the tables of authorities in the specified do
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
  _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
 

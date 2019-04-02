@@ -21,7 +21,7 @@ Returns or sets an  **[OlColor](Outlook.OlColor.md)** constant that indicates th
 
 _expression_. `Color`
 
-_expression_ A variable that represents a [ViewFont](./Outlook.ViewFont.md) object.
+_expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 
 
 ## See also

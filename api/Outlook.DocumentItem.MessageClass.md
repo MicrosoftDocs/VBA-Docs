@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the message class for the Outlook ite
 
 _expression_. `MessageClass`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

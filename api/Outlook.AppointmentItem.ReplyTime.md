@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the reply time for the appointment. Read/
 
 _expression_. `ReplyTime`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

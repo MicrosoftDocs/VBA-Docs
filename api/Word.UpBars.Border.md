@@ -19,7 +19,7 @@ Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md
 
 ## Syntax
 
- _expression_. `Border`
+_expression_. `Border`
 
  _expression_ A variable that represents an '[UpBars](Word.UpBars.md)' object.
 

@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates **True** if the form will be discard
 
 _expression_. `OneOff`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## See also

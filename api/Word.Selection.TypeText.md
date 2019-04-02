@@ -19,7 +19,7 @@ Inserts the specified text.
 
 ## Syntax
 
- _expression_. `TypeText`( `_Text_` )
+_expression_. `TypeText`( `_Text_` )
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

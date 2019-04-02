@@ -19,7 +19,7 @@ Returns a  **Range** object that represents the anchoring range for the specifie
 
 ## Syntax
 
- _expression_. `Anchor`
+_expression_. `Anchor`
 
  _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 

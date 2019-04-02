@@ -21,7 +21,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the default fo
 
 _expression_. `GetDefaultFolder`( `_FolderType_` )
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the language setting for the
 
 _expression_. `Language`
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Clears the properties that have been cached with the  **[SetColumns](Outlook.Res
 
 _expression_. `ResetColumns`
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Remarks

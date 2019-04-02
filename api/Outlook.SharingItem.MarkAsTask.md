@@ -21,7 +21,7 @@ Marks a  **[SharingItem](Outlook.SharingItem.md)** object as a task and assigns 
 
 _expression_. `MarkAsTask`( `_MarkInterval_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

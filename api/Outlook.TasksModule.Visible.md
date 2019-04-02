@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines whether the **[TasksModule]
 
  _expression_.**Visible**
 
-_expression_ A variable that represents a [TasksModule](./Outlook.TasksModule.md) object.
+_expression_ A variable that represents a [TasksModule](Outlook.TasksModule.md) object.
 
 
 ## See also

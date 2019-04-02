@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
- _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
+ _expression_ An expression that returns a [NavigationModule](Outlook.NavigationModule.md) object.
 
 
 ## See also

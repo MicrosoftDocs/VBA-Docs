@@ -21,7 +21,7 @@ Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the 
 
 _expression_. `ViewType`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## See also

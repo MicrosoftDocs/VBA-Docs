@@ -21,7 +21,7 @@ Returns or sets a  **Variant** that specifies the state of the control. Read/wri
 
 _expression_.**Value**
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks

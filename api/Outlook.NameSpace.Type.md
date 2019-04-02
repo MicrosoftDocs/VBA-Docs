@@ -21,7 +21,7 @@ Returns a  **String** indicating the type of the specified object. Read-only.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[TimelineView](Outlook
 
 _expression_. `Standard`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks

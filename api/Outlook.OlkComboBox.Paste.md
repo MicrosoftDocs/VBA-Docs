@@ -21,7 +21,7 @@ Pastes the contents of the clipboard in the control.
 
 _expression_. `Paste`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

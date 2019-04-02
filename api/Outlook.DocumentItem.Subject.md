@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
 _expression_. `Subject`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

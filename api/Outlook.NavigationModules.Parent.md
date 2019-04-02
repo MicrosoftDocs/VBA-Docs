@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
- _expression_ An expression that returns a [NavigationModules](./Outlook.NavigationModules.md) object.
+ _expression_ An expression that returns a [NavigationModules](Outlook.NavigationModules.md) object.
 
 
 ## See also

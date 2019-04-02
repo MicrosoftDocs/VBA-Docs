@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [NewItemAlertRuleAction](./Outlook.NewItemAlertRuleAction.md) object.
+_expression_ A variable that represents a [NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md) object.
 
 
 ## Remarks

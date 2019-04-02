@@ -21,7 +21,7 @@ Occurs when a folder is removed from the specified  **[Folders](Outlook.Folders.
 
 _expression_. `FolderRemove`
 
-_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Remarks

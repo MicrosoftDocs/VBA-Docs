@@ -19,7 +19,7 @@ Removes character formatting that has been applied through character styles from
 
 ## Syntax
 
- _expression_. `ClearCharacterStyle`
+_expression_. `ClearCharacterStyle`
 
  _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
 

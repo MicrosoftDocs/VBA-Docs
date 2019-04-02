@@ -21,7 +21,7 @@ Returns or sets an  **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that 
 
 _expression_.**BorderStyle**
 
-_expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
+_expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) object.
 
 
 ## Remarks

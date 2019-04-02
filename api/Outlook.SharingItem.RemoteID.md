@@ -21,7 +21,7 @@ Returns a  **String** that represents the unique identifier of the sharing conte
 
 _expression_. `RemoteID`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

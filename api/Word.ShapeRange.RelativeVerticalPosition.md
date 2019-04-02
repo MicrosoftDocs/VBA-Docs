@@ -19,7 +19,7 @@ Specifies the relative vertical position of a range of shapes. Read/write **[WdR
 
 ## Syntax
 
- _expression_. `RelativeVerticalPosition`
+_expression_. `RelativeVerticalPosition`
 
  _expression_ An expression that represents a '[ShapeRange](Word.shaperange.md)' object.
 

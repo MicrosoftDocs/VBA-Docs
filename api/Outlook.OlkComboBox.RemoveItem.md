@@ -21,7 +21,7 @@ Removes the specified item from the list.
 
 _expression_. `RemoveItem`( `_Index_` )
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Parameters

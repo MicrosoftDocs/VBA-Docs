@@ -18,7 +18,7 @@ Occurs after Microsoft Outlook has saved the item.
 
 _expression_. `AfterWrite`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks

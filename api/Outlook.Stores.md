@@ -96,8 +96,8 @@ End Sub
 
 |Name|
 |:-----|
-|[BeforeStoreRemove](./Outlook.Stores.BeforeStoreRemove.md)|
-|[StoreAdd](./Outlook.Stores.StoreAdd.md)|
+|[BeforeStoreRemove](Outlook.Stores.BeforeStoreRemove.md)|
+|[StoreAdd](Outlook.Stores.StoreAdd.md)|
 
 ## Methods
 
@@ -105,7 +105,7 @@ End Sub
 
 |Name|
 |:-----|
-|[Item](./Outlook.Stores.Item.md)|
+|[Item](Outlook.Stores.Item.md)|
 
 ## Properties
 
@@ -113,11 +113,11 @@ End Sub
 
 |Name|
 |:-----|
-|[Application](./Outlook.Stores.Application.md)|
-|[Class](./Outlook.Stores.Class.md)|
-|[Count](./Outlook.Stores.Count.md)|
-|[Parent](./Outlook.Stores.Parent.md)|
-|[Session](./Outlook.Stores.Session.md)|
+|[Application](Outlook.Stores.Application.md)|
+|[Class](Outlook.Stores.Class.md)|
+|[Count](Outlook.Stores.Count.md)|
+|[Parent](Outlook.Stores.Parent.md)|
+|[Session](Outlook.Stores.Session.md)|
 
 ## See also
 

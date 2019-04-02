@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 _expression_. `ReminderSoundFile`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

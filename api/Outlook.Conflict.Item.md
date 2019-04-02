@@ -21,7 +21,7 @@ Returns an  **Object** corresponding to the specified Outlook item. Read-only.
 
 _expression_. `Item`
 
-_expression_ A variable that represents a [Conflict](./Outlook.Conflict.md) object.
+_expression_ A variable that represents a [Conflict](Outlook.Conflict.md) object.
 
 
 ## See also

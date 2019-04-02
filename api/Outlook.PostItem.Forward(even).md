@@ -18,7 +18,7 @@ Occurs when the user selects the  **Forward** action for an item, or when the **
 
 _expression_. `Forward`( `_Forward_` , `_Cancel_` )
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Parameters

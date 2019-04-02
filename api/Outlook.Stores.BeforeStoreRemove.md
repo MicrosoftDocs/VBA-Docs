@@ -21,7 +21,7 @@ Occurs when a  **[Store](Outlook.Store.md)** is about to be removed from the cur
 
 _expression_. `BeforeStoreRemove`( `_Store_` , `_Cancel_` )
 
-_expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
+_expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 
 ## Parameters

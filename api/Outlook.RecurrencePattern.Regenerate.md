@@ -21,7 +21,7 @@ Returns a  **Boolean** that indicates **True** if the task should be regenerated
 
 _expression_. `Regenerate`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

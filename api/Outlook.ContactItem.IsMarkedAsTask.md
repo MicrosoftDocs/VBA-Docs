@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[ContactItem](Outlook.
 
 _expression_. `IsMarkedAsTask`
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

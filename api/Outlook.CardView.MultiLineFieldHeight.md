@@ -21,7 +21,7 @@ Returns or sets a  **Long** value that determines the minimum number of lines fo
 
 _expression_. `MultiLineFieldHeight`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks

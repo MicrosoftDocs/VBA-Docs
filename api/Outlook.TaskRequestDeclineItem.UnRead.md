@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 
 _expression_. `UnRead`
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## See also

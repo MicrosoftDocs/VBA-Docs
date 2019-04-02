@@ -21,7 +21,7 @@ Returns or sets an  **[AddressList](Outlook.AddressList.md)** object that determ
 
 _expression_. `InitialAddressList`
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

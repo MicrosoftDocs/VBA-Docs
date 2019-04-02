@@ -21,7 +21,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 _expression_. `MouseIcon`
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Occurs when an item is deleted from the specified collection.
 
 _expression_. `ItemRemove`
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Remarks

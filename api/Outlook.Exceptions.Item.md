@@ -21,7 +21,7 @@ Returns an  **[Exception](Outlook.Exception.md)** object from the collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [Exceptions](./Outlook.Exceptions.md) object.
+_expression_ A variable that represents an [Exceptions](Outlook.Exceptions.md) object.
 
 
 ## Parameters

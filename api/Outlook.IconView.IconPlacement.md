@@ -21,7 +21,7 @@ Returns or sets an  **[OlIconViewPlacement](Outlook.OlIconViewPlacement.md)** va
 
 _expression_. `IconPlacement`
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks

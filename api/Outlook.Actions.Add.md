@@ -21,7 +21,7 @@ Creates a new action in the  **[Actions](Outlook.Actions.md)** collection.
 
 _expression_.**Add**
 
-_expression_ A variable that represents an [Actions](./Outlook.Actions.md) object.
+_expression_ A variable that represents an [Actions](Outlook.Actions.md) object.
 
 
 ## Return value

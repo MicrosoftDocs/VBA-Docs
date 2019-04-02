@@ -21,7 +21,7 @@ Returns or sets a  **String** specifying the primary telephone number for the co
 
 _expression_. `PrimaryTelephoneNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Sets the folder suffix for the specified document to the default suffix for the 
 
 ## Syntax
 
- _expression_. `UseDefaultFolderSuffix`
+_expression_. `UseDefaultFolderSuffix`
 
  _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 

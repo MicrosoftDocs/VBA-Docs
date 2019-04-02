@@ -21,7 +21,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[Table
 
 _expression_. `Copy`( `_Name_` , `_SaveOption_` )
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Parameters

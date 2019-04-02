@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether the subject informat
 
 _expression_. `BoldSubjects`
 
- _expression_ An expression that returns a [CalendarView](./Outlook.CalendarView.md) object.
+ _expression_ An expression that returns a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## See also

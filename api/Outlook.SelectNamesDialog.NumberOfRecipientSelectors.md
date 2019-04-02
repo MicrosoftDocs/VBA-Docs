@@ -21,7 +21,7 @@ Returns or sets a  **[OlRecipientSelectors](Outlook.OlRecipientSelectors.md)** c
 
 _expression_. `NumberOfRecipientSelectors`
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

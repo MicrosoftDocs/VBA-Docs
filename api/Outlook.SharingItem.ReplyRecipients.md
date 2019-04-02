@@ -21,7 +21,7 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents al
 
 _expression_. `ReplyRecipients`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets a  **String** specifying the fourth field on the Contacts form i
 
 _expression_. `User4`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

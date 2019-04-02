@@ -21,7 +21,7 @@ Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumera
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## See also

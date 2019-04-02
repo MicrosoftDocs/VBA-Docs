@@ -21,7 +21,7 @@ Converts a date/time value from one time zone to another time zone.
 
 _expression_. `ConvertTime`( `_SourceDateTime_` , `_SourceTimeZone_` , `_DestinationTimeZone_` )
 
-_expression_ A variable that represents a [TimeZones](./Outlook.TimeZones.md) object.
+_expression_ A variable that represents a [TimeZones](Outlook.TimeZones.md) object.
 
 
 ## Parameters

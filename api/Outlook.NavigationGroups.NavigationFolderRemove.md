@@ -21,7 +21,7 @@ Occurs after a navigation folder has been removed from the  **[NavigationGroups]
 
 _expression_. `NavigationFolderRemove`
 
-_expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](Outlook.NavigationGroups.md) object.
 
 
 ## See also

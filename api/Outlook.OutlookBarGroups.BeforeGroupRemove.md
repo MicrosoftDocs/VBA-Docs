@@ -21,7 +21,7 @@ Occurs before a new group is removed from the  **Shortcuts** pane, either as a r
 
 _expression_. `BeforeGroupRemove`( `_Group_` , `_Cancel_` )
 
-_expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBarGroups.md) object.
 
 
 ## Parameters

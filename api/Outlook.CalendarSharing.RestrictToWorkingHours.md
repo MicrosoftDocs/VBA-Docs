@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether calendar items that 
 
 _expression_. `RestrictToWorkingHours`
 
- _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
+ _expression_ An expression that returns a [CalendarSharing](Outlook.CalendarSharing.md) object.
 
 
 ## Return value

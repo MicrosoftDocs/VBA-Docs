@@ -22,7 +22,7 @@ Version Added: Outlook 2013
 
 _expression_. `ShowCheckAddressDialog`_(MailingAddress)_
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

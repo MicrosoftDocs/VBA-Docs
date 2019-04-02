@@ -21,7 +21,7 @@ Occurs when the user releases a key.
 
 _expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
 
-_expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](Outlook.OlkOptionButton.md) object.
 
 
 ## Parameters

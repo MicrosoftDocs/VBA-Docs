@@ -21,7 +21,7 @@ Applies the  **[IconView](Outlook.IconView.md)** object to the current view.
 
 _expression_. `Apply`
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the birthday for the contact. Read/write.
 
 _expression_. `Birthday`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

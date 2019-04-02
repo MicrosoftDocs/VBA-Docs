@@ -21,7 +21,7 @@ Creates a new page in the  **[Pages](Outlook.Pages.md)** collection.
 
 _expression_.**Add** `_Name_`
 
-_expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
+_expression_ A variable that represents a [Pages](Outlook.Pages.md) object.
 
 
 ## Parameters
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
 
 ## Return value
 
-A  **[Page](./Outlook.page.md)** object that represents the new page.
+A  **[Page](Outlook.page.md)** object that represents the new page.
 
 
 ## Remarks

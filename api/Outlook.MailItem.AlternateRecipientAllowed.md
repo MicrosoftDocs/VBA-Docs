@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the mail message can be forw
 
 _expression_. `AlternateRecipientAllowed`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Applies the  **[BusinessCardView](Outlook.BusinessCardView.md)** object to the c
 
 _expression_. `Apply`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Example

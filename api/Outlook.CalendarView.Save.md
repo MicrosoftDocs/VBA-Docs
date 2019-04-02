@@ -21,7 +21,7 @@ Saves the view, or saves the changes to a view.
 
 _expression_. `Save`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## See also

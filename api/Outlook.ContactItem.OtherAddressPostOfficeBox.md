@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the post office box portion of the ot
 
 _expression_. `OtherAddressPostOfficeBox`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **String** representing the email address of the **[Recipient](Outloo
 
 _expression_. `Address`
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## See also

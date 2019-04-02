@@ -21,7 +21,7 @@ Returns a  **String** representing the type of entry for the **[ExchangeUser](Ou
 
 _expression_.**Type**
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

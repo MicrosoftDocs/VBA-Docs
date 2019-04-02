@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that determines if the rule action is enabled. Re
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents a [NewItemAlertRuleAction](./Outlook.NewItemAlertRuleAction.md) object.
+_expression_ A variable that represents a [NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md) object.
 
 
 ## Remarks

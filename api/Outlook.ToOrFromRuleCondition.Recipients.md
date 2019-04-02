@@ -21,7 +21,7 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents th
 
 _expression_. `Recipients`
 
-_expression_ A variable that represents a [ToOrFromRuleCondition](./Outlook.ToOrFromRuleCondition.md) object.
+_expression_ A variable that represents a [ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md) object.
 
 
 ## Remarks

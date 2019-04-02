@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the message class for the **[SharingI
 
 _expression_. `MessageClass`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

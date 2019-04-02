@@ -21,7 +21,7 @@ Returns or sets an  **[OlGender](Outlook.OlGender.md)** constant indicating the 
 
 _expression_. `Gender`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

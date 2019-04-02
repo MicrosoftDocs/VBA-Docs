@@ -21,7 +21,7 @@ Returns a  **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object 
 
 _expression_. `SentTo`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

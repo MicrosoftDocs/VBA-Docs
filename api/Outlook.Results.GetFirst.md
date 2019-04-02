@@ -21,7 +21,7 @@ Returns the first object in the collection.
 
 _expression_. `GetFirst`
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Return value

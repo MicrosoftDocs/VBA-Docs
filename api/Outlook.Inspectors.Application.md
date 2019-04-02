@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
+_expression_ A variable that represents an [Inspectors](Outlook.Inspectors.md) object.
 
 
 ## See also

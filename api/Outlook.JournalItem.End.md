@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the end date and time of a Journal entry.
 
 _expression_. `End`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

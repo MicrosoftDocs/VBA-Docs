@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 
 _expression_. `NoAging`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## See also

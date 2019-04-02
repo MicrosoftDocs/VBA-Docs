@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `LineBetween`
+_expression_. `LineBetween`
 
  _expression_ An expression that returns a '[TextColumns](Word(textcolumns).md)' collection object.
 

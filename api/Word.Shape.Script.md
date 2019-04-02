@@ -19,7 +19,7 @@ Returns a  **Script** object, which represents a block of script or code for an 
 
 ## Syntax
 
- _expression_. `Script`
+_expression_. `Script`
 
  _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 

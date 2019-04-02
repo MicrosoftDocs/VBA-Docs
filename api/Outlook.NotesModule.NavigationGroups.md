@@ -21,7 +21,7 @@ Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that conta
 
 _expression_. `NavigationGroups`
 
-_expression_ A variable that represents a [NotesModule](./Outlook.NotesModule.md) object.
+_expression_ A variable that represents a [NotesModule](Outlook.NotesModule.md) object.
 
 
 ## See also

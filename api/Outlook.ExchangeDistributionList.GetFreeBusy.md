@@ -21,7 +21,7 @@ Returns  **Null** (**Nothing** in Visual Basic) because free-busy information is
 
 _expression_. `GetFreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
 
- _expression_ An expression that returns an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+ _expression_ An expression that returns an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

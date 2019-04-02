@@ -21,7 +21,7 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
 _expression_. `HeadingsFont`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## See also

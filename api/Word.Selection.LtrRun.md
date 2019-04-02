@@ -19,7 +19,7 @@ Sets the reading order and alignment of the specified run to left-to-right.
 
 ## Syntax
 
- _expression_. `LtrRun`
+_expression_. `LtrRun`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

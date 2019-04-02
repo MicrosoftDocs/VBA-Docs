@@ -21,7 +21,7 @@ Returns or sets a **String** for the text that appears on the **Cc** command but
 
 _expression_. `CcLabel`
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

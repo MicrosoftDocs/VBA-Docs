@@ -21,7 +21,7 @@ Returns the  **[AddressEntries](Outlook.AddressEntries.md)** collection for the 
 
 _expression_. `AddressEntries`
 
-_expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 
 
 ## See also

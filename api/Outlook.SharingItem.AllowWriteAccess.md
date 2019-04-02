@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether a sharing invitation
 
 _expression_. `AllowWriteAccess`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Return value

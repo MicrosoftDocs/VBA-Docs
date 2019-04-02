@@ -21,7 +21,7 @@ Returns a  **String** representing the message class for the **[FormDescription]
 
 _expression_. `MessageClass`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## Remarks

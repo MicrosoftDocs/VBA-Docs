@@ -21,7 +21,7 @@ Saves the Microsoft Outlook item to the specified path and in the format of the 
 
 _expression_. `SaveAs`( `_Path_` , `_Type_` )
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Parameters

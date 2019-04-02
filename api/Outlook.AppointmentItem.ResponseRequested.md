@@ -21,7 +21,7 @@ Returns a  **Boolean** that indicates **True** if the sender would like a respon
 
 _expression_. `ResponseRequested`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

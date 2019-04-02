@@ -19,7 +19,7 @@ Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextE
 
 ## Syntax
 
- _expression_. `PresetShape`
+_expression_. `PresetShape`
 
  _expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 

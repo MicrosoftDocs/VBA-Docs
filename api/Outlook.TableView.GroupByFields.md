@@ -21,7 +21,7 @@ Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the
 
 _expression_. `GroupByFields`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## See also

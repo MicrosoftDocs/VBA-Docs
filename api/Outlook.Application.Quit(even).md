@@ -21,7 +21,7 @@ Occurs when Microsoft Outlook begins to close.
 
 _expression_. `Quit`
 
- _expression_ An expression that returns an [Application](./Outlook.Application.md) object.
+ _expression_ An expression that returns an [Application](Outlook.Application.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Moves or extends the ending character position of a range or selection to the en
 
 ## Syntax
 
- _expression_. `EndOf`( `_Unit_` , `_Extend_` )
+_expression_. `EndOf`( `_Unit_` , `_Extend_` )
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

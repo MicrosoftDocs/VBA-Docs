@@ -21,7 +21,7 @@ Returns or sets an  **[OlDayWeekTimeScale](Outlook.OlDayWeekTimeScale.md)** cons
 
 _expression_. `DayWeekTimeScale`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns a  **String** representing the alias for the **[ExchangeDistributionList
 
 _expression_. `Alias`
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

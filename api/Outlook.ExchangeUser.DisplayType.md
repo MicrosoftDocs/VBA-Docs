@@ -21,7 +21,7 @@ Returns  **olUser** which is a constant from the **[OlDisplayType](Outlook.OlDis
 
 _expression_.**DisplayType**
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

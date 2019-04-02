@@ -21,7 +21,7 @@ Sorts the collection of items by the specified property. The index for the colle
 
 _expression_. `Sort`( `_Property_` , `_Descending_` )
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Parameters

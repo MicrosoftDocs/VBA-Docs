@@ -21,7 +21,7 @@ Returns a  **Boolean** that determines if the **[SharingItem](Outlook.SharingIte
 
 _expression_. `IsConflict`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

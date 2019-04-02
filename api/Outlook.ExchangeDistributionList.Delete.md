@@ -21,7 +21,7 @@ Deletes the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**
 
 _expression_.**Delete**
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

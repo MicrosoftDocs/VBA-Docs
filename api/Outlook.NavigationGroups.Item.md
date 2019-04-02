@@ -21,7 +21,7 @@ Returns a  **[NavigationGroup](Outlook.NavigationGroup.md)** object from the col
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](Outlook.NavigationGroups.md) object.
 
 
 ## Parameters

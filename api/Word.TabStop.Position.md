@@ -19,7 +19,7 @@ Returns or sets the position of a tab stop relative to the left margin. Read/wri
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
  _expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
 

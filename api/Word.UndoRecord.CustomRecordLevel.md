@@ -19,7 +19,7 @@ Returns a  **Long** that specifies the number of custom undo action calls that a
 
 ## Syntax
 
- _expression_. `CustomRecordLevel`
+_expression_. `CustomRecordLevel`
 
  _expression_ A variable that represents an **[UndoRecord](Word.UndoRecord.md)** object.
 

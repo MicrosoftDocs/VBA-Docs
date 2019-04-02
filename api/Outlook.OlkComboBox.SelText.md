@@ -21,7 +21,7 @@ Returns a  **String** that represents the selected portion of the value of the c
 
 _expression_. `SelText`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

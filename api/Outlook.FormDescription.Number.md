@@ -21,7 +21,7 @@ Returns or sets a  **String** corresponding to the number for the specified form
 
 _expression_. `Number`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## See also

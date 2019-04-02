@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the name, which does not need to be t
 
 _expression_. `DisplayName`
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `UnhideWhenUsed`
+_expression_. `UnhideWhenUsed`
 
  _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 

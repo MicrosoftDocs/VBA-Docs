@@ -21,7 +21,7 @@ Returns a  **String** representing the comments for the **[ExchangeUser](Outlook
 
 _expression_. `Comments`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Returns a  **[Bookmarks](Word.bookmarks.md)** collection that represents all the
 
 ## Syntax
 
- _expression_. `Bookmarks`
+_expression_. `Bookmarks`
 
  _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
 

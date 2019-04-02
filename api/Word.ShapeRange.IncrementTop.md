@@ -19,7 +19,7 @@ Moves the specified shape vertically by the specified number of points.
 
 ## Syntax
 
- _expression_. `IncrementTop`( `_Increment_` )
+_expression_. `IncrementTop`( `_Increment_` )
 
  _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 

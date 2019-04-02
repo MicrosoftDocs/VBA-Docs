@@ -21,7 +21,7 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 
 _expression_. `OutlookVersion`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## See also

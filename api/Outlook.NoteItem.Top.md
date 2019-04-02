@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the position (in pixels) of the top horiz
 
 _expression_.**Top**
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## See also

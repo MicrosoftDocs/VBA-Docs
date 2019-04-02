@@ -21,7 +21,7 @@ Returns a  **String** that indicates the relative position of the item within th
 
 _expression_. `ConversationIndex`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

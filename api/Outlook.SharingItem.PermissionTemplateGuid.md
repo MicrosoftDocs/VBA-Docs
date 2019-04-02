@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the GUID of the template file to b
 
 _expression_. `PermissionTemplateGuid`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

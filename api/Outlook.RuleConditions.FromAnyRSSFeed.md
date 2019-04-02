@@ -21,7 +21,7 @@ Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCo
 
 _expression_. `FromAnyRSSFeed`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

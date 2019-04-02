@@ -21,7 +21,7 @@ Returns a  **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a *
 
 _expression_. `Subject`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

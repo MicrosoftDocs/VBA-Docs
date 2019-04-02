@@ -21,7 +21,7 @@ Removes the item from the folder that contains the item.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

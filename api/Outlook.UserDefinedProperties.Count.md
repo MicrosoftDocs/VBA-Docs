@@ -21,7 +21,7 @@ Returns a  **Long** value that indicates the count of objects in the specified c
 
  _expression_.**Count**
 
-_expression_ A variable that represents a [UserDefinedProperties](./Outlook.UserDefinedProperties.md) object.
+_expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 
 
 ## See also

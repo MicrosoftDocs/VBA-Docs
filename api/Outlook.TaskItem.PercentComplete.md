@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the percentage of the task completed at t
 
 _expression_. `PercentComplete`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

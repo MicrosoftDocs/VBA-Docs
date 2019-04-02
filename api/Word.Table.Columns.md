@@ -19,7 +19,7 @@ Returns a  **[Columns](Word.columns.md)** collection that represents all the tab
 
 ## Syntax
 
- _expression_. `Columns`
+_expression_. `Columns`
 
  _expression_ A variable that represents a '[Table](Word.Table.md)' object.
 

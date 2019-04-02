@@ -18,7 +18,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.Sha
 
 _expression_. `PropertyChange`( `_Name_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

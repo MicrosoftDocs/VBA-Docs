@@ -21,7 +21,7 @@ Returns a  **String** representing the title. Read-only.
 
 _expression_.**Caption**
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the pager number for the contact. Rea
 
 _expression_. `PagerNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Displays the  **Check Phone Number** dialog box for a specified telephone number
 
 _expression_. `ShowCheckPhoneDialog`( `_PhoneNumber_` )
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

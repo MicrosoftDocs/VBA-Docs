@@ -21,7 +21,7 @@ Obtains a  **String** representing the availability of the **[ExchangeUser](Outl
 
 _expression_. `GetFreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Returns a  **CustomXMLPart** object that represents the custom XML part to which
 
 ## Syntax
 
- _expression_. `CustomXMLPart`
+_expression_. `CustomXMLPart`
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 

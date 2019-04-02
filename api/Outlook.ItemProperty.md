@@ -64,14 +64,14 @@ End Sub
 
 |Name|
 |:-----|
-|[Application](./Outlook.ItemProperty.Application.md)|
-|[Class](./Outlook.ItemProperty.Class.md)|
-|[IsUserProperty](./Outlook.ItemProperty.IsUserProperty.md)|
-|[Name](./Outlook.ItemProperty.Name.md)|
-|[Parent](./Outlook.ItemProperty.Parent.md)|
-|[Session](./Outlook.ItemProperty.Session.md)|
-|[Type](./Outlook.ItemProperty.Type.md)|
-|[Value](./Outlook.ItemProperty.Value.md)|
+|[Application](Outlook.ItemProperty.Application.md)|
+|[Class](Outlook.ItemProperty.Class.md)|
+|[IsUserProperty](Outlook.ItemProperty.IsUserProperty.md)|
+|[Name](Outlook.ItemProperty.Name.md)|
+|[Parent](Outlook.ItemProperty.Parent.md)|
+|[Session](Outlook.ItemProperty.Session.md)|
+|[Type](Outlook.ItemProperty.Type.md)|
+|[Value](Outlook.ItemProperty.Value.md)|
 
 ## See also
 

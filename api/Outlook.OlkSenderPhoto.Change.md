@@ -21,7 +21,7 @@ Occurs when the sender's contact picture has changed.
 
 _expression_. `Change`
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## Remarks

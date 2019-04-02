@@ -21,7 +21,7 @@ Returns an  **[Attachment](Outlook.Attachment.md)** object from the collection.
 
 _expression_.**Item** (_Index_)
 
- _expression_ An expression that returns an [AttachmentSelection](./Outlook.AttachmentSelection.md) object.
+ _expression_ An expression that returns an [AttachmentSelection](Outlook.AttachmentSelection.md) object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Represents a specialized action (for example, the voting options response) that 
 
 The  **Action** object is a member of the **[Actions](Outlook.Actions.md)** collection.
 
-Use  **[Actions](./Outlook.MailItem.Actions.md)** (_index_), where _index_ is the name of an available action, to return a single **Action** object from the **Actions** collection object of an Outlook item, such as **[MailItem](./Outlook.MailItem.md)**.
+Use  **[Actions](Outlook.MailItem.Actions.md)** (_index_), where _index_ is the name of an available action, to return a single **Action** object from the **Actions** collection object of an Outlook item, such as **[MailItem](Outlook.MailItem.md)**.
 
 
 ## Example
@@ -57,8 +57,8 @@ Set myReply = myItem.Actions("Reply").Execute
 
 |Name|
 |:-----|
-|[Delete](./Outlook.Action.Delete.md)|
-|[Execute](./Outlook.Action.Execute.md)|
+|[Delete](Outlook.Action.Delete.md)|
+|[Execute](Outlook.Action.Execute.md)|
 
 ## Properties
 
@@ -66,18 +66,18 @@ Set myReply = myItem.Actions("Reply").Execute
 
 |Name|
 |:-----|
-|[Application](./Outlook.Action.Application.md)|
-|[Class](./Outlook.Action.Class.md)|
-|[CopyLike](./Outlook.Action.CopyLike.md)|
-|[Enabled](./Outlook.Action.Enabled.md)|
-|[MessageClass](./Outlook.Action.MessageClass.md)|
-|[Name](./Outlook.Action.Name.md)|
-|[Parent](./Outlook.Action.Parent.md)|
-|[Prefix](./Outlook.Action.Prefix.md)|
-|[ReplyStyle](./Outlook.Action.ReplyStyle.md)|
-|[ResponseStyle](./Outlook.Action.ResponseStyle.md)|
-|[Session](./Outlook.Action.Session.md)|
-|[ShowOn](./Outlook.Action.ShowOn.md)|
+|[Application](Outlook.Action.Application.md)|
+|[Class](Outlook.Action.Class.md)|
+|[CopyLike](Outlook.Action.CopyLike.md)|
+|[Enabled](Outlook.Action.Enabled.md)|
+|[MessageClass](Outlook.Action.MessageClass.md)|
+|[Name](Outlook.Action.Name.md)|
+|[Parent](Outlook.Action.Parent.md)|
+|[Prefix](Outlook.Action.Prefix.md)|
+|[ReplyStyle](Outlook.Action.ReplyStyle.md)|
+|[ResponseStyle](Outlook.Action.ResponseStyle.md)|
+|[Session](Outlook.Action.Session.md)|
+|[ShowOn](Outlook.Action.ShowOn.md)|
 
 ## See also
 

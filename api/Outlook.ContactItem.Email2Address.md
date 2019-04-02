@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the email address of the second email
 
 _expression_. `Email2Address`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Creates another instance of an object.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example

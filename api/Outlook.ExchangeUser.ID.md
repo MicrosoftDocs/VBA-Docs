@@ -21,7 +21,7 @@ Returns a  **String** representing the unique identifier for the **[ExchangeUser
 
 _expression_. `ID`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

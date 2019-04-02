@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder should pla
 
 _expression_. `ReminderPlaySound`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

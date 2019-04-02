@@ -21,7 +21,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 _expression_. `Sensitivity`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

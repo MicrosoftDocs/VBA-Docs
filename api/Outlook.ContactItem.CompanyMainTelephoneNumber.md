@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the company main telephone number for
 
 _expression_. `CompanyMainTelephoneNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

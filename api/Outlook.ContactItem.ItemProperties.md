@@ -21,7 +21,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 _expression_. `ItemProperties`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

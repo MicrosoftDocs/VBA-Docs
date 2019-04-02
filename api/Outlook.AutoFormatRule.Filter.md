@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the filter for a custom form
 
 _expression_. `Filter`
 
-_expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormatRule.md) object.
+_expression_ A variable that represents an [AutoFormatRule](Outlook.AutoFormatRule.md) object.
 
 
 ## Remarks

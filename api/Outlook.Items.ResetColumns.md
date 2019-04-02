@@ -21,7 +21,7 @@ Clears the properties that have been cached with the  **[SetColumns](Outlook.Ite
 
 _expression_. `ResetColumns`
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Remarks

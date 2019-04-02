@@ -21,7 +21,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an insp
 
 _expression_. `GetInspector`
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## Remarks

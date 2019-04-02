@@ -21,7 +21,7 @@ Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant ind
 
 _expression_.**Type**
 
-_expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
+_expression_ A variable that represents an [ItemProperty](Outlook.ItemProperty.md) object.
 
 
 ## See also

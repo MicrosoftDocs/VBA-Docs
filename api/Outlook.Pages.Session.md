@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
+_expression_ A variable that represents a [Pages](Outlook.Pages.md) object.
 
 
 ## Remarks
@@ -42,6 +42,6 @@ Set objSession = Application.Session
 ## See also
 
 
-[Pages Object](./Outlook.pages(object).md)
+[Pages Object](Outlook.pages(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

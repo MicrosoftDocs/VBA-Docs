@@ -21,7 +21,7 @@ Occurs when the user presses a mouse button on the control.
 
 _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Parameters

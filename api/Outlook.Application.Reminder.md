@@ -21,7 +21,7 @@ Occurs immediately before a reminder is displayed.
 
 _expression_. `Reminder`( `_Item_` )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters

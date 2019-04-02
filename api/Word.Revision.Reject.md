@@ -19,7 +19,7 @@ Rejects the specified tracked change. The revision marks are removed, leaving th
 
 ## Syntax
 
- _expression_. `Reject`
+_expression_. `Reject`
 
  _expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
 

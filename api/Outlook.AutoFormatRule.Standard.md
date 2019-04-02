@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[AutoFormatRule](Outlo
 
 _expression_. `Standard`
 
-_expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormatRule.md) object.
+_expression_ A variable that represents an [AutoFormatRule](Outlook.AutoFormatRule.md) object.
 
 
 ## Remarks

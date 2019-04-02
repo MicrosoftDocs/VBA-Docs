@@ -21,7 +21,7 @@ Occurs before the reminder is executed.
 
 _expression_. `ReminderFire`( `_ReminderObject_` )
 
-_expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Parameters

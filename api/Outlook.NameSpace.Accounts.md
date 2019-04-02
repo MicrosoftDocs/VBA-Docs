@@ -21,7 +21,7 @@ Returns an  **[Accounts](Outlook.Accounts.md)** collection object that represent
 
 _expression_. `Accounts`
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Remarks

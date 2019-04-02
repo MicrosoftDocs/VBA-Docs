@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 
 _expression_. `Categories`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks

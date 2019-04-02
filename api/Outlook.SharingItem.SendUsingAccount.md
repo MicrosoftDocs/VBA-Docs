@@ -21,7 +21,7 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
 _expression_. `SendUsingAccount`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

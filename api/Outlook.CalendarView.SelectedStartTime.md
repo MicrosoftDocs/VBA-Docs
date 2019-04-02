@@ -21,7 +21,7 @@ Returns a **Date** that represents the start time of a selection in the **[Calen
 
 _expression_. `SelectedStartTime`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks

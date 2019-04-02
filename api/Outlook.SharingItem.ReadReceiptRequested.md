@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates **true** if a read receipt has been 
 
 _expression_. `ReadReceiptRequested`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

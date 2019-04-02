@@ -21,7 +21,7 @@ Returns a  **String** representing the display name of the form region. Read-onl
 
 _expression_. `DisplayName`
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks

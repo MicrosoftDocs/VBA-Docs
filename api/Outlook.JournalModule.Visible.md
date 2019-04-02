@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines whether the **[JournalModul
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [JournalModule](./Outlook.JournalModule.md) object.
+_expression_ A variable that represents a [JournalModule](Outlook.JournalModule.md) object.
 
 
 ## See also

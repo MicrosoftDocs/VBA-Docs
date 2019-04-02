@@ -18,7 +18,7 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 _expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

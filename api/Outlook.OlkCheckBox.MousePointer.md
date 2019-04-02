@@ -21,7 +21,7 @@ Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant tha
 
 _expression_. `MousePointer`
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks

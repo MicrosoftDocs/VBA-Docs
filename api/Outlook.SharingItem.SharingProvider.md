@@ -21,7 +21,7 @@ Returns an  **[OlSharingProvider](Outlook.OlSharingProvider.md)** constant that 
 
 _expression_. `SharingProvider`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

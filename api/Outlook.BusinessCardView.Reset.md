@@ -21,7 +21,7 @@ Resets a built-in Microsoft Outlook view to its original settings.
 
 _expression_. `Reset`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

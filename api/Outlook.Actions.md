@@ -19,7 +19,7 @@ Contains a collection of  **[Action](Outlook.Action.md)** objects that represent
 
 ## Remarks
 
-Use the  **Actions** property of any Outlook item, such as **[MailItem](./Outlook.MailItem.md)**, to return the **Actions** object.
+Use the  **Actions** property of any Outlook item, such as **[MailItem](Outlook.MailItem.md)**, to return the **Actions** object.
 
 Use  **Actions** (_index_), where _index_ is the name of an available action, to return a single **Action** object.
 
@@ -42,9 +42,9 @@ Set myReply = myItem.Actions("Reply").Execute
 
 |Name|
 |:-----|
-|[Add](./Outlook.Actions.Add.md)|
-|[Item](./Outlook.Actions.Item.md)|
-|[Remove](./Outlook.Actions.Remove.md)|
+|[Add](Outlook.Actions.Add.md)|
+|[Item](Outlook.Actions.Item.md)|
+|[Remove](Outlook.Actions.Remove.md)|
 
 ## Properties
 
@@ -52,11 +52,11 @@ Set myReply = myItem.Actions("Reply").Execute
 
 |Name|
 |:-----|
-|[Application](./Outlook.Actions.Application.md)|
-|[Class](./Outlook.Actions.Class.md)|
-|[Count](./Outlook.Actions.Count.md)|
-|[Parent](./Outlook.Actions.Parent.md)|
-|[Session](./Outlook.Actions.Session.md)|
+|[Application](Outlook.Actions.Application.md)|
+|[Class](Outlook.Actions.Class.md)|
+|[Count](Outlook.Actions.Count.md)|
+|[Parent](Outlook.Actions.Parent.md)|
+|[Session](Outlook.Actions.Session.md)|
 
 ## See also
 

@@ -21,7 +21,7 @@ Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that spec
 
 _expression_. `TextAlign`
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[MailItem](Outlook.Mai
 
 _expression_. `IsMarkedAsTask`
 
- _expression_ An expression that returns a [MailItem](./Outlook.MailItem.md) object.
+ _expression_ An expression that returns a [MailItem](Outlook.MailItem.md) object.
 
 
 ## See also
