@@ -19,7 +19,7 @@ Returns a  **[Field](Publisher.Field.md)** object that represents phonetic text 
 
 ## Syntax
 
- _expression_. **AddPhoneticGuide**(**_Range_**,  **_Text_**,  **_Alignment_**,  **_Raise_**,  **_FontName_**,  **_FontSize_**)
+ _expression_.**AddPhoneticGuide**(**_Range_**,  **_Text_**,  **_Alignment_**,  **_Raise_**,  **_FontName_**,  **_FontSize_**)
 
  _expression_ A variable that represents a  **Fields** object.
 

@@ -1,5 +1,5 @@
-# [Office VBA Reference](./overview/Index.md) 
-## [Access](./overview/Access.md)
+# [Office VBA Reference](overview/Index.md) 
+## [Access](overview/Access.md)
 ### [Concepts](../access/Concepts/Miscellaneous/concepts-access-vba-reference.md)
 #### ActiveX Data Objects (ADO)
 ##### [ADO for Visual C++ syntax index for COM](../access/concepts/miscellaneous/ado-for-visual-c-plus-plus-syntax-index-for-com.md)
@@ -314,7 +314,7 @@
 ##### [Use the SetOption method from DAO](../access/concepts/miscellaneous/using-the-setoption-method-from-dao.md)
 ##### [Use the status bar progress meter](../access/Concepts/Miscellaneous/use-the-status-bar-progress-meter.md)
 ##### [Write your own customized handler](../access/concepts/miscellaneous/writing-your-own-customized-handler.md)
-### [Object model](./overview/Access/object-model.md)
+### [Object model](overview/Access/object-model.md)
 #### [AccessObject object](Access.AccessObject.md)
 ##### Methods
 ###### [GetDependencyInfo](Access.AccessObject.GetDependencyInfo.md)
@@ -4149,7 +4149,7 @@
 ##### [AcWebUserDisplay](Access.AcWebUserDisplay.md)
 ##### [AcWebUserGroupsDisplay](Access.AcWebUserGroupsDisplay.md)
 ##### [AcWindowMode](Access.AcWindowMode.md)
-## [Excel](./overview/Excel.md)
+## [Excel](overview/Excel.md)
 ### [Concepts](../excel/Concepts/Miscellaneous/concepts-excel-vba-reference.md)
 #### [About the PowerPivot Model object in Excel](../excel/Concepts/about-the-powerpivot-model-object-in-excel.md)
 #### [About coauthoring](../excel/Concepts/about-coauthoring-in-excel.md)
@@ -4255,7 +4255,7 @@
 ##### [Improve calculation performance](../excel/Concepts/Excel-Performance/excel-improving-calcuation-performance.md)
 ##### [Performance and limit improvements](../excel/Concepts/Excel-Performance/excel-performance-and-limit-improvements.md)
 ##### [Tips for optimizing performance obstructions](../excel/Concepts/Excel-Performance/excel-tips-for-optimizing-performance-obstructions.md)
-### [Object model](./overview/Excel/object-model.md)
+### [Object model](overview/Excel/object-model.md)
 #### [AboveAverage object](Excel.AboveAverage.md)
 ##### Methods
 ###### [Delete](Excel.AboveAverage.Delete.md)
@@ -10690,15 +10690,15 @@
 ###### [Weight](Excel.Weight.md)
 ###### [Width](Excel.width.md)
 ###### [WindowState](Excel.WindowState.md)
-#### [Enumerations](./overview/Excel/enumerations-graph-visual-basic-reference.md)
-## [Office for Mac](./overview/Office-Mac.md)
+#### [Enumerations](overview/Excel/enumerations-graph-visual-basic-reference.md)
+## [Office for Mac](overview/Office-Mac.md)
 ### [Request access to multiple files](../Office-Mac/GrantAccessToMultipleFiles.md)
 ### [Run an AppleScript with VB](../Office-Mac/AppleScriptTask.md)
 ### [Differentiate between Office for Mac versions at compile time](../Office-Mac/MacOfficeVersion.md)
 ### [idMSOs supported in Excel for Mac](../Office-Mac/idMSOExcelMac.md) 
 ### [idMSOs supported in PowerPoint for Mac](../Office-Mac/idMSOPowerPointMac.md) 
 ### [idMSOs supported in Word for Mac](../Office-Mac/idMSOWordMac.md) 
-## [Outlook](./overview/Outlook.md)
+## [Outlook](overview/Outlook.md)
 ### [Concepts](../outlook/Concepts/Getting-Started/concepts-outlook-vba-reference.md)
 #### Getting started
 ##### [Add custom property pages](../outlook/Concepts/Getting-Started/adding-custom-property-pages.md)
@@ -11140,7 +11140,7 @@
 ##### [Outlook views](../outlook/How-to/Views/outlook-views.md)
 ##### [Filtering and specifying fields in a view](../outlook/How-to/Views/filtering-and-specifying-fields-in-a-view.md)
 ##### [Sorting fields in a view](../outlook/How-to/Views/sorting-fields-in-a-view.md)
-### [Object model](./overview/Outlook/object-model.md)
+### [Object model](overview/Outlook/object-model.md)
 #### [Account object](Outlook.Account.md)
 ##### Methods
 ###### [GetAddressEntryFromID](Outlook.Account.GetAddressEntryFromID.md)
@@ -15437,7 +15437,7 @@
 ##### [OlWindowState](Outlook.OlWindowState.md)
 ##### [OlxDefaultFolders](Outlook.olxdefaultfolde.md)
 #### [Outlook View control reference](Outlook.outlo.md)
-##### [Object model (Outlook View control reference)](./overview/Outlook/object-model-outlook-view-control-reference.md)
+##### [Object model (Outlook View control reference)](overview/Outlook/object-model-outlook-view-control-reference.md)
 ###### [ViewCtl object](Outlook.viewc.md)
 ###### Events
 ####### [Activate](Outlook.viewctl.activa.md)
@@ -15504,7 +15504,7 @@
 ####### [Selection](Outlook.viewctl.selecti.md)
 ####### [View](Outlook.viewctl.vi.md)
 ####### [ViewXML](Outlook.viewctl.viewx.md)
-#### [Outlook Forms Script reference](./overview/Outlook/outlook-forms-script-reference.md)
+#### [Outlook Forms Script reference](overview/Outlook/outlook-forms-script-reference.md)
 ##### [CheckBox object reference](Outlook.checkbox.object.md)
 ###### [CheckBox object](Outlook.checkbox.md)
 ###### Events
@@ -15965,7 +15965,7 @@
 ####### [TripleState](Outlook.togglebutton.triplestate.md)
 ####### [Value](Outlook.togglebutton.value.md)
 ####### [WordWrap](Outlook.togglebutton.wordwrap.md)
-## [PowerPoint](./overview/PowerPoint.md)
+## [PowerPoint](overview/PowerPoint.md)
 ### [Concepts](../powerpoint/Concepts/concepts-powerpoint-vba-reference.md)
 #### [Control and dialog box events](../powerpoint/Concepts/control-and-dialog-box-events-powerpoint.md)
 #### [Language-specific properties and methods](../powerpoint/Concepts/Language-specific-properties-and-methods-powerpoint.md)
@@ -15988,7 +15988,7 @@
 #### [Work with panes and views](../powerpoint/How-to/work-with-panes-and-views.md)
 #### [Work with shapes](../powerpoint/How-to/work-with-shapes-drawing-objects.md)
 #### [Work with tables](../powerpoint/How-to/work-with-tables.md)
-### [Object model](./overview/PowerPoint/object-model.md)
+### [Object model](overview/PowerPoint/object-model.md)
 #### [ActionSetting object](PowerPoint.ActionSetting.md)
 ##### Properties
 ###### [Action](PowerPoint.ActionSetting.Action.md)
@@ -19086,7 +19086,7 @@
 ##### [XlTrendlineType](PowerPoint.XlTrendlineType.md)
 ##### [XlUnderlineStyle](PowerPoint.XlUnderlineStyle.md)
 ##### [XlVAlign](PowerPoint.XlVAlign.md)
-## [Project](./overview/Project.md)
+## [Project](overview/Project.md)
 ### Concepts
 #### [Use events with Application and Project objects](../project/Concepts/using-events-with-application-and-project-objects.md)
 #### [OLE programmatic identifiers, late binding, and early binding](../project/Concepts/ole-programmatic-identifiers-late-binding-and-early-binding-project.md)
@@ -22540,12 +22540,12 @@
 ##### [PjWindowState](Project.PjWindowState.md)
 ##### [PjWorkContourType](Project.PjWorkContourType.md)
 ##### [PjYesNoAutomatic](Project.PjYesNoAutomatic.md)
-## [Publisher](./overview/Publisher.md)
+## [Publisher](overview/Publisher.md)
 ### [Concepts](../publisher/Concepts/concepts-publisher-vba-reference.md)
 #### [Return an object from a collection](../publisher/Concepts/returning-an-object-from-a-collection-publisher.md)
 #### [Use events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md)
 #### [Use events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md)
-### [Object model](./overview/Publisher/object-model.md)
+### [Object model](overview/Publisher/object-model.md)
 #### [Adjustments object](Publisher.Adjustments.md)
 ##### Properties
 ###### [Application](Publisher.Adjustments.Application.md)
@@ -24455,7 +24455,7 @@
 ##### [PbWrapSideType](Publisher.PbWrapSideType.md)
 ##### [PbWrapType](Publisher.PbWrapType.md)
 ##### [PbZoom](Publisher.PbZoom.md)
-## [Visio](./overview/Visio.md)
+## [Visio](overview/Visio.md)
 ### [Concepts](../visio/Concepts/concepts-visio-vba-reference.md)
 #### [Automation](../visio/Concepts/about-automation-visio.md)
 #### [Connecting to data in Visio](../visio/Concepts/about-connecting-to-data-in-visio.md)
@@ -24480,7 +24480,7 @@
 #### [Start the Visual Basic Editor](../visio/How-to/start-the-visual-basic-editor-visio.md)
 #### [Use Information Rights Management for Visio](../visio/How-to/use-information-rights-management-for-visio.md)
 #### [View Visio object, property, method, event, and constant descriptions](../visio/How-to/view-visio-object-property-method-event-and-constant-descriptions.md)
-### [Object model](./overview/Visio/object-model.md)
+### [Object model](overview/Visio/object-model.md)
 #### [AccelItem object](Visio.AccelItem.md)
 ##### Methods
 ###### [Delete](Visio.AccelItem.Delete.md)
@@ -27343,7 +27343,7 @@
 ##### [VisWindowStates](Visio.viswindowstates.md)
 ##### [VisWinTypes](Visio.viswintypes.md)
 ##### [VisZoomBehavior](Visio.viszoombehavior.md)
-### [Visio Save as Web reference](./overview/Visio/visio-save-as-web-reference.md)
+### [Visio Save as Web reference](overview/Visio/visio-save-as-web-reference.md)
 #### [Concepts](Visio.concepts.visio.save.md)
 ##### [About the Save as Web Page API](Visio.about.the.save.as.web.md)
 ##### [Persist Save as Web Page settings](Visio.persisting.save.as.web.md)
@@ -27385,9 +27385,9 @@
 ####### [ThemeName](Visio.ThemeName.md)
 ##### [Enumerations](Visio.enumerations.visio.save.md)
 ###### [VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md)
-### [Visio Viewer reference](./overview/Visio/visio-viewer-reference.md)
+### [Visio Viewer reference](overview/Visio/visio-viewer-reference.md)
 #### [Programming Visio Viewer](Visio.about.programming.md)
-#### [Object model](./overview/Visio/object-model-visio-viewer-reference.md)
+#### [Object model](overview/Visio/object-model-visio-viewer-reference.md)
 ##### [Viewer object](Visio.viewer.object.md)
 ###### Events
 ####### [OnDocumentLoaded](Visio.OnDocumentLoaded.md)
@@ -27467,7 +27467,7 @@
 ####### [ToolbarCustomizable](Visio.ToolbarCustomizable.md)
 ####### [ToolbarVisible](Visio.ToolbarVisible.md)
 ####### [Zoom](Visio.viewer.zoom.property.md)
-## [Word](./overview/Word.md)
+## [Word](overview/Word.md)
 ### [Concepts](../word/Concepts/Miscellaneous/concepts-word-vba-reference.md)
 #### Customizing Word
 ##### [Add controls to a document](../word/Concepts/Customizing-Word/adding-controls-to-a-document.md)
@@ -27543,7 +27543,7 @@
 ##### [Return text from a document](../word/Concepts/Miscellaneous/returning-text-from-a-document.md)
 ##### [Set control properties](../word/Concepts/Miscellaneous/setting-control-properties-word.md)
 ##### [Store values when a macro ends](../word/Concepts/Miscellaneous/storing-values-when-a-macro-ends.md)
-### [Object model](./overview/Word/object-model.md)
+### [Object model](overview/Word/object-model.md)
 #### [AddIn object](Word.AddIn.md)
 ##### Methods
 ###### [Delete](Word.AddIn.Delete.md)
@@ -34334,7 +34334,7 @@
 ##### [XlTrendlineType](Word.xltrendlinetype.md)
 ##### [XlUnderlineStyle](Word.xlunderlinestyle.md)
 ##### [XlVAlign](Word.xlvalign.md)
-## [Language reference](./overview/Language-Reference.md)
+## [Language reference](overview/Language-Reference.md)
 ### Concepts
 #### [Visual Basic](../Language/Reference/User-Interface-Help/visual-basic-conceptual-topics.md)
 ##### [64-bit Visual Basic for Applications overview](../Language/Concepts/Getting-Started/64-bit-visual-basic-for-applications-overview.md)
@@ -35839,7 +35839,7 @@
 ### Glossary
 #### [VBA Glossary](../Language/Glossary/glossary-vba.md)
 #### [VBE Glossary](../Language/Glossary/vbe-glossary.md)
-## [Library reference](./overview/Library-Reference.md)
+## [Library reference](overview/Library-Reference.md)
 ### [Concepts](../Library-Reference/Concepts/concepts-object-library-reference-for-office.md)
 #### [Customize the Office Fluent ribbon by using a managed COM add-in](../Library-Reference/Concepts/customize-the-office-fluent-ribbon-by-using-a-managed-com-add-in.md)
 #### [Customize the Office Fluent ribbon by using an Open XML formats file](../Library-Reference/Concepts/customize-the-office-fluent-ribbon-by-using-an-open-xml-formats-file.md)
@@ -35851,9 +35851,9 @@
 #### [Security notes for Office solution developers](../Library-Reference/Concepts/security-notes-for-microsoft-office-solution-developers.md)
 #### [Use the Document Inspector](../Library-Reference/Concepts/using-the-document-inspector.md)
 #### [What's new for VBA in Office 2016](../Library-Reference/Concepts/what-s-new-for-vba-in-office-2016.md)
-### [Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+### [Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 #### [BulletFormat2 object](Office.BulletFormat2.md)
-##### [BulletFormat2 members](./overview/Library-Reference/bulletformat2-members-office.md)
+##### [BulletFormat2 members](overview/Library-Reference/bulletformat2-members-office.md)
 ##### Properties 
 ###### [Application](Office.BulletFormat2.Application.md)
 ###### [Character](Office.BulletFormat2.Character.md)
@@ -35871,7 +35871,7 @@
 ##### Methods
 ###### [Picture](Office.BulletFormat2.Picture.md)
 #### [COMAddIn object](Office.COMAddIn.md)
-##### [COMAddIn members](./overview/Library-Reference/comaddin-members-office.md)
+##### [COMAddIn members](overview/Library-Reference/comaddin-members-office.md)
 ##### Properties 
 ###### [Application](Office.COMAddIn.Application.md)
 ###### [Connect](Office.COMAddIn.Connect.md)
@@ -35882,7 +35882,7 @@
 ###### [Parent](Office.COMAddIn.Parent.md)
 ###### [ProgId](Office.COMAddIn.ProgId.md)
 #### [COMAddIns object](Office.COMAddIns.md)
-##### [COMAddIns members](./overview/Library-Reference/comaddins-members-office.md)
+##### [COMAddIns members](overview/Library-Reference/comaddins-members-office.md)
 ##### Properties 
 ###### [Application](Office.COMAddIns.Application.md)
 ###### [Count](Office.COMAddIns.Count.md)
@@ -35892,7 +35892,7 @@
 ###### [Item](Office.COMAddIns.Item.md)
 ###### [Update](Office.COMAddIns.Update.md)
 #### [CommandBar object](Office.CommandBar.md)
-##### [CommandBar members](./overview/Library-Reference/commandbar-members-office.md)
+##### [CommandBar members](overview/Library-Reference/commandbar-members-office.md)
 ##### Properties 
 ###### [AdaptiveMenu](Office.CommandBar.AdaptiveMenu.md)
 ###### [Application](Office.CommandBar.Application.md)
@@ -35920,7 +35920,7 @@
 ###### [Reset](Office.CommandBar.Reset.md)
 ###### [ShowPopup](Office.CommandBar.ShowPopup.md)
 #### [CommandBarButton object](Office.CommandBarButton.md)
-##### [CommandBarButton members](./overview/Library-Reference/commandbarbutton-members-office.md)
+##### [CommandBarButton members](overview/Library-Reference/commandbarbutton-members-office.md)
 ##### Properties 
 ###### [Application](Office.CommandBarButton.Application.md)
 ###### [BeginGroup](Office.CommandBarButton.BeginGroup.md)
@@ -35967,7 +35967,7 @@
 ##### Events
 ###### [Click](Office.CommandBarButton.Click.md)
 #### [CommandBarComboBox object](Office.CommandBarComboBox.md)
-##### [CommandBarComboBox members](./overview/Library-Reference/commandbarcombobox-members-office.md)
+##### [CommandBarComboBox members](overview/Library-Reference/commandbarcombobox-members-office.md)
 ##### Properties 
 ###### [Application](Office.CommandBarComboBox.Application.md)
 ###### [BeginGroup](Office.CommandBarComboBox.BeginGroup.md)
@@ -36015,7 +36015,7 @@
 ##### Events
 ###### [Change](Office.CommandBarComboBox.Change.md)
 #### [CommandBarControl object](Office.CommandBarControl.md)
-##### [CommandBarControl members](./overview/Library-Reference/commandbarcontrol-members-office.md)
+##### [CommandBarControl members](overview/Library-Reference/commandbarcontrol-members-office.md)
 ##### Properties
 ###### [Application](Office.CommandBarControl.Application.md)
 ###### [BeginGroup](Office.CommandBarControl.BeginGroup.md)
@@ -36050,7 +36050,7 @@
 ###### [Reset](Office.CommandBarControl.Reset.md)
 ###### [SetFocus](Office.CommandBarControl.SetFocus.md)
 #### [CommandBarControls object](Office.CommandBarControls.md)
-##### [CommandBarControls members](./overview/Library-Reference/commandbarcontrols-members-office.md)
+##### [CommandBarControls members](overview/Library-Reference/commandbarcontrols-members-office.md)
 ##### Properties
 ###### [Application](Office.CommandBarControls.Application.md)
 ###### [Count](Office.CommandBarControls.Count.md)
@@ -36060,7 +36060,7 @@
 ##### Methods
 ###### [Add](Office.CommandBarControls.Add.md)
 #### [CommandBarPopup object](Office.CommandBarPopup.md)
-##### [CommandBarPopup members](./overview/Library-Reference/commandbarpopup-members-office.md)
+##### [CommandBarPopup members](overview/Library-Reference/commandbarpopup-members-office.md)
 ##### Properties
 ###### [Application](Office.CommandBarPopup.Application.md)
 ###### [BeginGroup](Office.CommandBarPopup.BeginGroup.md)
@@ -36098,7 +36098,7 @@
 ###### [Reset](Office.CommandBarPopup.Reset.md)
 ###### [SetFocus](Office.CommandBarPopup.SetFocus.md)
 #### [CommandBars object](Office.CommandBars.md)
-##### [CommandBars members](./overview/Library-Reference/commandbars-members-office.md)
+##### [CommandBars members](overview/Library-Reference/commandbars-members-office.md)
 ##### Properties
 ###### [ActionControl](Office.CommandBars.ActionControl.md)
 ###### [ActiveMenuBar](Office.CommandBars.ActiveMenuBar.md)
@@ -36132,7 +36132,7 @@
 ##### Events
 ###### [OnUpdate](Office.CommandBars.OnUpdate.md)
 #### [ContactCard object](Office.ContactCard.md)
-##### [ContactCard members](./overview/Library-Reference/contactcard-members-office.md)
+##### [ContactCard members](overview/Library-Reference/contactcard-members-office.md)
 ##### Properties
 ###### [Application](Office.ContactCard.Application.md)
 ###### [Creator](Office.ContactCard.Creator.md)
@@ -36140,7 +36140,7 @@
 ###### [Close](Office.ContactCard.Close.md)
 ###### [Show](Office.ContactCard.Show.md)
 #### [Crop object](Office.Crop.md)
-##### [Crop members](./overview/Library-Reference/crop-members-office.md)
+##### [Crop members](overview/Library-Reference/crop-members-office.md)
 ##### Properties
 ###### [Application](Office.Crop.Application.md)
 ###### [Creator](Office.Crop.Creator.md)
@@ -36153,7 +36153,7 @@
 ###### [ShapeTop](Office.Crop.ShapeTop.md)
 ###### [ShapeWidth](Office.Crop.ShapeWidth.md)
 #### [CustomTaskPane object](Office.CustomTaskPane.md)
-##### [CustomTaskPane members](./overview/Library-Reference/customtaskpane-members-office.md)
+##### [CustomTaskPane members](overview/Library-Reference/customtaskpane-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomTaskPane.Application.md)
 ###### [ContentControl](Office.CustomTaskPane.ContentControl.md)
@@ -36170,7 +36170,7 @@
 ###### [DockPositionStateChange](Office.CustomTaskPane.DockPositionStateChange.md)
 ###### [VisibleStateChange](Office.CustomTaskPane.VisibleStateChange.md)
 #### [CustomXMLNode object](Office.CustomXMLNode.md)
-##### [CustomXMLNode members](./overview/Library-Reference/customxmlnode-members-office.md)
+##### [CustomXMLNode members](overview/Library-Reference/customxmlnode-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLNode.Application.md)
 ###### [Attributes](Office.CustomXMLNode.Attributes.md)
@@ -36204,7 +36204,7 @@
 ###### [SelectNodes](Office.CustomXMLNode.SelectNodes.md)
 ###### [SelectSingleNode](Office.CustomXMLNode.SelectSingleNode.md)
 #### [CustomXMLNodes object](Office.CustomXMLNodes.md)
-##### [CustomXMLNodes members](./overview/Library-Reference/customxmlnodes-members-office.md)
+##### [CustomXMLNodes members](overview/Library-Reference/customxmlnodes-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLNodes.Application.md)
 ###### [Count](Office.CustomXMLNodes.Count.md)
@@ -36212,7 +36212,7 @@
 ###### [Item](Office.CustomXMLNodes.Item.md)
 ###### [Parent](Office.CustomXMLNodes.Parent.md)
 #### [CustomXMLPart object](Office.CustomXMLPart.md)
-##### [CustomXMLPart members](./overview/Library-Reference/customxmlpart-members-office.md)
+##### [CustomXMLPart members](overview/Library-Reference/customxmlpart-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLPart.Application.md)
 ###### [BuiltIn](Office.CustomXMLPart.BuiltIn.md)
@@ -36237,7 +36237,7 @@
 ###### [NodeAfterInsert](Office.CustomXMLPart.NodeAfterInsert.md)
 ###### [NodeAfterReplace](Office.CustomXMLPart.NodeAfterReplace.md)
 #### [CustomXMLParts object](Office.CustomXMLParts.md)
-##### [CustomXMLParts members](./overview/Library-Reference/customxmlparts-members-office.md)
+##### [CustomXMLParts members](overview/Library-Reference/customxmlparts-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLParts.Application.md)
 ###### [Count](Office.CustomXMLParts.Count.md)
@@ -36253,7 +36253,7 @@
 ###### [PartAfterLoad](Office.CustomXMLParts.PartAfterLoad.md)
 ###### [PartBeforeDelete](Office.CustomXMLParts.PartBeforeDelete.md)
 #### [CustomXMLPrefixMapping object](Office.CustomXMLPrefixMapping.md)
-##### [CustomXMLPrefixMapping members](./overview/Library-Reference/customxmlprefixmapping-members-office.md)
+##### [CustomXMLPrefixMapping members](overview/Library-Reference/customxmlprefixmapping-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLPrefixMapping.Application.md)
 ###### [Creator](Office.CustomXMLPrefixMapping.Creator.md)
@@ -36261,7 +36261,7 @@
 ###### [Parent](Office.CustomXMLPrefixMapping.Parent.md)
 ###### [Prefix](Office.CustomXMLPrefixMapping.Prefix.md)
 #### [CustomXMLPrefixMappings object](Office.CustomXMLPrefixMappings.md)
-##### [CustomXMLPrefixMappings members](./overview/Library-Reference/customxmlprefixmappings-members-office.md)
+##### [CustomXMLPrefixMappings members](overview/Library-Reference/customxmlprefixmappings-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLPrefixMappings.Application.md)
 ###### [Count](Office.CustomXMLPrefixMappings.Count.md)
@@ -36273,7 +36273,7 @@
 ###### [LookupNamespace](Office.CustomXMLPrefixMappings.LookupNamespace.md)
 ###### [LookupPrefix](Office.CustomXMLPrefixMappings.LookupPrefix.md)
 #### [CustomXMLSchema object](Office.CustomXMLSchema.md)
-##### [CustomXMLSchema members](./overview/Library-Reference/customxmlschema-members-office.md)
+##### [CustomXMLSchema members](overview/Library-Reference/customxmlschema-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLSchema.Application.md)
 ###### [Creator](Office.CustomXMLSchema.Creator.md)
@@ -36284,7 +36284,7 @@
 ###### [Delete](Office.CustomXMLSchema.Delete.md)
 ###### [Reload](Office.CustomXMLSchema.Reload.md)
 #### [CustomXMLSchemaCollection object](Office.CustomXMLSchemaCollection.md)
-##### [CustomXMLSchemaCollection members](./overview/Library-Reference/customxmlschemacollection-members-office.md)
+##### [CustomXMLSchemaCollection members](overview/Library-Reference/customxmlschemacollection-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLSchemaCollection.Application.md)
 ###### [Count](Office.CustomXMLSchemaCollection.Count.md)
@@ -36297,7 +36297,7 @@
 ###### [AddCollection](Office.CustomXMLSchemaCollection.AddCollection.md)
 ###### [Validate](Office.CustomXMLSchemaCollection.Validate.md)
 #### [CustomXMLValidationError object](Office.CustomXMLValidationError.md)
-##### [CustomXMLValidationError members](./overview/Library-Reference/customxmlvalidationerror-members-office.md)
+##### [CustomXMLValidationError members](overview/Library-Reference/customxmlvalidationerror-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLValidationError.Application.md)
 ###### [Creator](Office.CustomXMLValidationError.Creator.md)
@@ -36310,7 +36310,7 @@
 ##### Methods
 ###### [Delete](Office.CustomXMLValidationError.Delete.md)
 #### [CustomXMLValidationErrors object](Office.CustomXMLValidationErrors.md)
-##### [CustomXMLValidationErrors members](./overview/Library-Reference/customxmlvalidationerrors-members-office.md)
+##### [CustomXMLValidationErrors members](overview/Library-Reference/customxmlvalidationerrors-members-office.md)
 ##### Properties
 ###### [Application](Office.CustomXMLValidationErrors.Application.md)
 ###### [Count](Office.CustomXMLValidationErrors.Count.md)
@@ -36320,7 +36320,7 @@
 ##### Methods
 ###### [Add](Office.CustomXMLValidationErrors.Add.md)
 #### [DocumentInspector object](Office.DocumentInspector.md)
-##### [DocumentInspector members](./overview/Library-Reference/documentinspector-members-office.md)
+##### [DocumentInspector members](overview/Library-Reference/documentinspector-members-office.md)
 ##### Properties
 ###### [Application](Office.DocumentInspector.Application.md)
 ###### [Creator](Office.DocumentInspector.Creator.md)
@@ -36331,7 +36331,7 @@
 ###### [Fix](Office.DocumentInspector.Fix.md)
 ###### [Inspect](Office.DocumentInspector.Inspect.md)
 #### [DocumentInspectors object](Office.DocumentInspectors.md)
-##### [DocumentInspectors members](./overview/Library-Reference/documentinspectors-members-office.md)
+##### [DocumentInspectors members](overview/Library-Reference/documentinspectors-members-office.md)
 ##### Properties
 ###### [Application](Office.DocumentInspectors.Application.md)
 ###### [Count](Office.DocumentInspectors.Count.md)
@@ -36339,7 +36339,7 @@
 ###### [Item](Office.DocumentInspectors.Item.md)
 ###### [Parent](Office.DocumentInspectors.Parent.md)
 #### [DocumentLibraryVersions object](Office.DocumentLibraryVersions.md)
-##### [DocumentLibraryVersions members](./overview/Library-Reference/documentlibraryversions-members-office.md)
+##### [DocumentLibraryVersions members](overview/Library-Reference/documentlibraryversions-members-office.md)
 ##### Properties
 ###### [Application](Office.DocumentLibraryVersions.Application.md)
 ###### [Count](Office.DocumentLibraryVersions.Count.md)
@@ -36348,7 +36348,7 @@
 ###### [Item](Office.DocumentLibraryVersions.Item.md)
 ###### [Parent](Office.DocumentLibraryVersions.Parent.md)
 #### [DocumentProperty object](Office.DocumentProperty.md)
-##### [DocumentProperty members](./overview/Library-Reference/documentproperty-members-office.md)
+##### [DocumentProperty members](overview/Library-Reference/documentproperty-members-office.md)
 ##### Properties
 ###### [Application](Office.DocumentProperty.Application.md)
 ###### [Creator](Office.DocumentProperty.Creator.md)
@@ -36361,7 +36361,7 @@
 ##### Methods
 ###### [Delete](Office.DocumentProperty.Delete.md)
 #### [DocumentProperties object](Office.DocumentProperties.md)
-##### [DocumentProperties members](./overview/Library-Reference/documentproperties-members-office.md)
+##### [DocumentProperties members](overview/Library-Reference/documentproperties-members-office.md)
 ##### Properties
 ###### [Application](Office.DocumentProperties.Application.md)
 ###### [Count](Office.DocumentProperties.Count.md)
@@ -36371,21 +36371,21 @@
 ##### Methods
 ###### [Add](Office.DocumentProperties.Add.md)
 #### [EffectParameter object](Office.EffectParameter.md)
-##### [EffectParameter members](./overview/Library-Reference/effectparameter-members-office.md)
+##### [EffectParameter members](overview/Library-Reference/effectparameter-members-office.md)
 ##### Properties
 ###### [Application](Office.EffectParameter.Application.md)
 ###### [Creator](Office.EffectParameter.Creator.md)
 ###### [Name](Office.EffectParameter.Name.md)
 ###### [Value](Office.EffectParameter.Value.md)
 #### [EffectParameters object](Office.EffectParameters.md)
-##### [EffectParameters members](./overview/Library-Reference/effectparameters-members-office.md)
+##### [EffectParameters members](overview/Library-Reference/effectparameters-members-office.md)
 ##### Properties
 ###### [Application](Office.EffectParameters.Application.md)
 ###### [Count](Office.EffectParameters.Count.md)
 ###### [Creator](Office.EffectParameters.Creator.md)
 ###### [Item](Office.EffectParameters.Item.md)
 #### [EncryptionProvider object](Office.EncryptionProvider.md)
-##### [EncryptionProvider members](./overview/Library-Reference/encryptionprovider-members-office.md)
+##### [EncryptionProvider members](overview/Library-Reference/encryptionprovider-members-office.md)
 ##### Methods
 ###### [Authenticate](Office.EncryptionProvider.Authenticate.md)
 ###### [CloneSession](Office.EncryptionProvider.CloneSession.md)
@@ -36397,7 +36397,7 @@
 ###### [Save](Office.EncryptionProvider.Save.md)
 ###### [ShowSettings](Office.EncryptionProvider.ShowSettings.md)
 #### [FileDialog object](Office.FileDialog.md)
-##### [FileDialog members](./overview/Library-Reference/filedialog-members-office.md)
+##### [FileDialog members](overview/Library-Reference/filedialog-members-office.md)
 ##### Properties
 ###### [AllowMultiSelect](Office.FileDialog.AllowMultiSelect.md)
 ###### [Application](Office.FileDialog.Application.md)
@@ -36416,7 +36416,7 @@
 ###### [Execute](Office.FileDialog.Execute.md)
 ###### [Show](Office.FileDialog.Show.md)
 #### [FileDialogFilter object](Office.FileDialogFilter.md)
-##### [FileDialogFilter members](./overview/Library-Reference/filedialogfilter-members-office.md)
+##### [FileDialogFilter members](overview/Library-Reference/filedialogfilter-members-office.md)
 ##### Properties
 ###### [Application](Office.FileDialogFilter.Application.md)
 ###### [Creator](Office.FileDialogFilter.Creator.md)
@@ -36424,7 +36424,7 @@
 ###### [Extensions](Office.FileDialogFilter.Extensions.md)
 ###### [Parent](Office.FileDialogFilter.Parent.md)
 #### [FileDialogFilters object](Office.FileDialogFilters.md)
-##### [FileDialogFilters members](./overview/Library-Reference/filedialogfilters-members-office.md)
+##### [FileDialogFilters members](overview/Library-Reference/filedialogfilters-members-office.md)
 ##### Properties
 ###### [Application](Office.FileDialogFilters.Application.md)
 ###### [Count](Office.FileDialogFilters.Count.md)
@@ -36436,7 +36436,7 @@
 ###### [Delete](Office.FileDialogFilters.Delete.md)
 ###### [Item](Office.FileDialogFilters.Item.md)
 #### [FileDialogSelectedItems object](Office.FileDialogSelectedItems.md)
-##### [FileDialogSelectedItems members](./overview/Library-Reference/filedialogselecteditems-members-office.md)
+##### [FileDialogSelectedItems members](overview/Library-Reference/filedialogselecteditems-members-office.md)
 ##### Properties
 ###### [Application](Office.FileDialogSelectedItems.Application.md)
 ###### [Count](Office.FileDialogSelectedItems.Count.md)
@@ -36445,7 +36445,7 @@
 ##### Methods
 ###### [Item](Office.FileDialogSelectedItems.Item.md)
 #### [FileTypes object](Office.FileTypes.md)
-##### [FileTypes members](./overview/Library-Reference/filetypes-members-office.md)
+##### [FileTypes members](overview/Library-Reference/filetypes-members-office.md)
 ##### Properties
 ###### [Application](Office.FileTypes.Application.md)
 ###### [Count](Office.FileTypes.Count.md)
@@ -36455,7 +36455,7 @@
 ###### [Add](Office.FileTypes.Add.md)
 ###### [Remove](Office.FileTypes.Remove.md)
 #### [Font2 object](Office.Font2.md)
-##### [Font2 members](./overview/Library-Reference/font2-members-office.md)
+##### [Font2 members](overview/Library-Reference/font2-members-office.md)
 ##### Properties
 ###### [Allcaps](Office.Font2.Allcaps.md)
 ###### [Application](Office.Font2.Application.md)
@@ -36494,7 +36494,7 @@
 ###### [UnderlineStyle](Office.Font2.UnderlineStyle.md)
 ###### [WordArtformat](Office.Font2.WordArtformat.md)
 #### [GlowFormat object](Office.GlowFormat.md)
-##### [GlowFormat members](./overview/Library-Reference/glowformat-members-office.md)
+##### [GlowFormat members](overview/Library-Reference/glowformat-members-office.md)
 ##### Properties
 ###### [Application](Office.GlowFormat.Application.md)
 ###### [Color](Office.GlowFormat.Color.md)
@@ -36502,7 +36502,7 @@
 ###### [Radius](Office.GlowFormat.Radius.md)
 ###### [Transparency](Office.GlowFormat.Transparency.md)
 #### [GradientStop object](Office.GradientStop.md)
-##### [GradientStop members](./overview/Library-Reference/gradientstop-members-office.md)
+##### [GradientStop members](overview/Library-Reference/gradientstop-members-office.md)
 ##### Properties
 ###### [Application](Office.GradientStop.Application.md)
 ###### [Color](Office.GradientStop.Color.md)
@@ -36510,7 +36510,7 @@
 ###### [Position](Office.GradientStop.Position.md)
 ###### [Transparency](Office.GradientStop.Transparency.md)
 #### [GradientStops object](Office.GradientStops.md)
-##### [GradientStops members](./overview/Library-Reference/gradientstops-members-office.md)
+##### [GradientStops members](overview/Library-Reference/gradientstops-members-office.md)
 ##### Properties
 ###### [Application](Office.GradientStops.Application.md)
 ###### [Count](Office.GradientStops.Count.md)
@@ -36521,14 +36521,14 @@
 ###### [Insert](Office.GradientStops.Insert.md)
 ###### [Insert2](Office.GradientStops.Insert2.md)
 #### [IAssistance object](Office.IAssistance.md)
-##### [IAssistance members](./overview/Library-Reference/iassistance-members-office.md)
+##### [IAssistance members](overview/Library-Reference/iassistance-members-office.md)
 ##### Methods
 ###### [ClearDefaultContext](Office.IAssistance.ClearDefaultContext.md)
 ###### [SearchHelp](Office.IAssistance.SearchHelp.md)
 ###### [SetDefaultContext](Office.IAssistance.SetDefaultContext.md)
 ###### [ShowHelp](Office.IAssistance.ShowHelp.md)
 #### [IBlogExtensibility object](Office.IBlogExtensibility.md)
-##### [IBlogExtensibility members](./overview/Library-Reference/iblogextensibility-members-office.md)
+##### [IBlogExtensibility members](overview/Library-Reference/iblogextensibility-members-office.md)
 ##### Methods
 ###### [BlogProviderProperties](Office.IBlogExtensibility.BlogProviderProperties.md)
 ###### [GetCategories](Office.IBlogExtensibility.GetCategories.md)
@@ -36539,13 +36539,13 @@
 ###### [RepublishPost](Office.IBlogExtensibility.RepublishPost.md)
 ###### [SetupBlogAccount](Office.IBlogExtensibility.SetupBlogAccount.md)
 #### [IBlogPictureExtensibility object](Office.IBlogPictureExtensibility.md)
-##### [IBlogPictureExtensibility members](./overview/Library-Reference/iblogpictureextensibility-members-office.md)
+##### [IBlogPictureExtensibility members](overview/Library-Reference/iblogpictureextensibility-members-office.md)
 ##### Methods
 ###### [BlogPictureProviderProperties](Office.IBlogPictureExtensibility.BlogPictureProviderProperties.md)
 ###### [CreatePictureAccount](Office.IBlogPictureExtensibility.CreatePictureAccount.md)
 ###### [PublishPicture](Office.IBlogPictureExtensibility.PublishPicture.md)
 #### [IConverter object](Office.IConverter.md)
-##### [IConverter members](./overview/Library-Reference/iconverter-members-office.md)
+##### [IConverter members](overview/Library-Reference/iconverter-members-office.md)
 ##### Methods
 ###### [HrExport](Office.IConverter.HrExport.md)
 ###### [HrGetErrorString](Office.IConverter.HrGetErrorString.md)
@@ -36554,40 +36554,40 @@
 ###### [HrInitConverter](Office.IConverter.HrInitConverter.md)
 ###### [HrUninitConverter](Office.IConverter.HrUninitConverter.md)
 #### [IConverterApplicationPreferences object](Office.IConverterApplicationPreferences.md)
-##### [IConverterApplicationPreferences members](./overview/Library-Reference/iconverterapplicationpreferences-members-office.md)
+##### [IConverterApplicationPreferences members](overview/Library-Reference/iconverterapplicationpreferences-members-office.md)
 ##### Methods
 ###### [HrCheckFormat](Office.IConverterApplicationPreferences.HrCheckFormat.md)
 ###### [HrGetApplication](Office.IConverterApplicationPreferences.HrGetApplication.md)
 ###### [HrGetHWnd](Office.IConverterApplicationPreferences.HrGetHwnd.md)
 ###### [HrGetLcid](Office.IConverterApplicationPreferences.HrGetLcid.md)
 #### [IConverterPreferences object](Office.IConverterPreferences.md)
-##### [IConverterPreferences members](./overview/Library-Reference/iconverterpreferences-members-office.md)
+##### [IConverterPreferences members](overview/Library-Reference/iconverterpreferences-members-office.md)
 ##### Methods
 ###### [HrCheckFormat](Office.IConverterPreferences.HrCheckFormat.md)
 ###### [HrGetLossySave](Office.IConverterPreferences.HrGetLossySave.md)
 ###### [HrGetMacroEnabled](Office.IConverterPreferences.HrGetMacroEnabled.md)
 #### [IConverterUICallback object](Office.IConverterUICallback.md)
-##### [IConverterUICallback members](./overview/Library-Reference/iconverteruicallback-members-office.md)
+##### [IConverterUICallback members](overview/Library-Reference/iconverteruicallback-members-office.md)
 ##### Methods
 ###### [HrInputBox](Office.IConverterUICallback.HrInputBox.md)
 ###### [HrMessageBox](Office.IConverterUICallback.HrMessageBox.md)
 ###### [HrReportProgress](Office.IConverterUICallback.HrReportProgress.md)
 #### [ICTPFactory object](Office.ICTPFactory.md)
-##### [ICTPFactory members](./overview/Library-Reference/ictpfactory-members-office.md)
+##### [ICTPFactory members](overview/Library-Reference/ictpfactory-members-office.md)
 ##### Methods
 ###### [CreateCTP](Office.ICTPFactory.CreateCTP.md)
 #### [ICustomTaskPaneConsumer object](Office.ICustomTaskPaneConsumer.md)
-##### [ICustomTaskPaneConsumer members](./overview/Library-Reference/icustomtaskpaneconsumer-members-office.md)
+##### [ICustomTaskPaneConsumer members](overview/Library-Reference/icustomtaskpaneconsumer-members-office.md)
 ##### Methods
 ###### [CTPFactoryAvailable](Office.ICustomTaskPaneConsumer.CTPFactoryAvailable.md)
 #### [IDocumentInspector object](Office.IDocumentInspector.md)
-##### [IDocumentInspector members](./overview/Library-Reference/idocumentinspector-members-office.md)
+##### [IDocumentInspector members](overview/Library-Reference/idocumentinspector-members-office.md)
 ##### Methods
 ###### [Fix](Office.IDocumentInspector.Fix.md)
 ###### [GetInfo](Office.IDocumentInspector.GetInfo.md)
 ###### [Inspect](Office.IDocumentInspector.Inspect.md)
 #### [IMsoContactCard object](Office.IMsoContactCard.md)
-##### [IMsoContactCard members](./overview/Library-Reference/imsocontactcard-members-office.md)
+##### [IMsoContactCard members](overview/Library-Reference/imsocontactcard-members-office.md)
 ##### Properties
 ###### [Address](Office.IMsoContactCard.Address.md)
 ###### [AddressType](Office.IMsoContactCard.AddressType.md)
@@ -36596,17 +36596,17 @@
 ###### [Creator](Office.IMsoContactCard.Creator.md)
 ###### [Parent](Office.IMsoContactCard.Parent.md)
 #### [IRibbonControl object](Office.IRibbonControl.md)
-##### [IRibbonControl members](./overview/Library-Reference/iribboncontrol-members-office.md)
+##### [IRibbonControl members](overview/Library-Reference/iribboncontrol-members-office.md)
 ##### Properties
 ###### [Context](Office.IRibbonControl.Context.md)
 ###### [Id](Office.IRibbonControl.Id.md)
 ###### [Tag](Office.IRibbonControl.Tag.md)
 #### [IRibbonExtensibility object](Office.IRibbonExtensibility.md)
-##### [IRibbonExtensibility members](./overview/Library-Reference/iribbonextensibility-members-office.md)
+##### [IRibbonExtensibility members](overview/Library-Reference/iribbonextensibility-members-office.md)
 ##### Methods
 ###### [GetCustomUI](Office.IRibbonExtensibility.GetCustomUI.md)
 #### [IRibbonUI object](Office.IRibbonUI.md)
-##### [IRibbonUI members](./overview/Library-Reference/iribbonui-members-office.md)
+##### [IRibbonUI members](overview/Library-Reference/iribbonui-members-office.md)
 ##### Methods
 ###### [ActivateTab](Office.IRibbonUI.ActivateTab.md)
 ###### [ActivateTabMso](Office.IRibbonUI.ActivateTabMso.md)
@@ -36615,7 +36615,7 @@
 ###### [InvalidateControl](Office.IRibbonUI.InvalidateControl.md)
 ###### [InvalidateControlMso](Office.IRibbonUI.InvalidateControlMso.md)
 #### [LanguageSettings object](Office.LanguageSettings.md)
-##### [LanguageSettings members](./overview/Library-Reference/Languagesettings-members-office.md)
+##### [LanguageSettings members](overview/Library-Reference/Languagesettings-members-office.md)
 ##### Properties
 ###### [Application](Office.LanguageSettings.Application.md)
 ###### [Creator](Office.LanguageSettings.Creator.md)
@@ -36623,7 +36623,7 @@
 ###### [LanguagePreferredForEditing](Office.LanguageSettings.LanguagePreferredForEditing.md)
 ###### [Parent](Office.LanguageSettings.Parent.md)
 #### [MetaProperty object](Office.MetaProperty.md)
-##### [MetaProperty members](./overview/Library-Reference/metaproperty-members-office.md)
+##### [MetaProperty members](overview/Library-Reference/metaproperty-members-office.md)
 ##### Properties
 ###### [Application](Office.MetaProperty.Application.md)
 ###### [Creator](Office.MetaProperty.Creator.md)
@@ -36637,7 +36637,7 @@
 ##### Methods
 ###### [Validate](Office.MetaProperty.Validate.md)
 #### [MetaProperties object](Office.MetaProperties.md)
-##### [MetaProperties members](./overview/Library-Reference/metaproperties-members-office.md)
+##### [MetaProperties members](overview/Library-Reference/metaproperties-members-office.md)
 ##### Properties
 ###### [Application](Office.MetaProperties.Application.md)
 ###### [Count](Office.MetaProperties.Count.md)
@@ -36649,7 +36649,7 @@
 ###### [GetItemByInternalName](Office.MetaProperties.GetItemByInternalName.md)
 ###### [Validate](Office.MetaProperties.Validate.md)
 #### [MsoEnvelope object](Office.MsoEnvelope.md)
-##### [MsoEnvelope members](./overview/Library-Reference/msoenvelope-members-office.md)
+##### [MsoEnvelope members](overview/Library-Reference/msoenvelope-members-office.md)
 ##### Properties
 ###### [CommandBars](Office.MsoEnvelope.CommandBars.md)
 ###### [Introduction](Office.MsoEnvelope.Introduction.md)
@@ -36659,7 +36659,7 @@
 ###### [EnvelopeHide](Office.MsoEnvelope.EnvelopeHide.md)
 ###### [EnvelopeShow](Office.MsoEnvelope.EnvelopeShow.md)
 #### [NewFile object](Office.NewFile.md)
-##### [NewFile members](./overview/Library-Reference/newfile-members-office.md)
+##### [NewFile members](overview/Library-Reference/newfile-members-office.md)
 ##### Properties
 ###### [Application](Office.NewFile.Application.md)
 ###### [Creator](Office.NewFile.Creator.md)
@@ -36667,7 +36667,7 @@
 ###### [Add](Office.NewFile.Add.md)
 ###### [Remove](Office.NewFile.Remove.md)
 #### [ODSOColumn object](Office.ODSOColumn.md)
-##### [ODSOColumn members](./overview/Library-Reference/odsocolumn-members-office.md)
+##### [ODSOColumn members](overview/Library-Reference/odsocolumn-members-office.md)
 ##### Properties
 ###### [Application](Office.ODSOColumn.Application.md)
 ###### [Creator](Office.ODSOColumn.Creator.md)
@@ -36676,7 +36676,7 @@
 ###### [Parent](Office.ODSOColumn.Parent.md)
 ###### [Value](Office.ODSOColumn.Value.md)
 #### [ODSOColumns object](Office.ODSOColumns.md)
-##### [ODSOColumns members](./overview/Library-Reference/odsocolumns-members-office.md)
+##### [ODSOColumns members](overview/Library-Reference/odsocolumns-members-office.md)
 ##### Properties
 ###### [Application](Office.ODSOColumns.Application.md)
 ###### [Count](Office.ODSOColumns.Count.md)
@@ -36685,7 +36685,7 @@
 ##### Methods
 ###### [Item](Office.ODSOColumns.Item.md)
 #### [ODSOFilter object](Office.ODSOFilter.md)
-##### [ODSOFilter members](./overview/Library-Reference/odsofilter-members-office.md)
+##### [ODSOFilter members](overview/Library-Reference/odsofilter-members-office.md)
 ##### Properties
 ###### [Application](Office.ODSOFilter.Application.md)
 ###### [Column](Office.ODSOFilter.Column.md)
@@ -36696,7 +36696,7 @@
 ###### [Index](Office.ODSOFilter.Index.md)
 ###### [Parent](Office.ODSOFilter.Parent.md)
 #### [ODSOFilters object](Office.ODSOFilters.md)
-##### [ODSOFilters members](./overview/Library-Reference/odsofilters-members-office.md)
+##### [ODSOFilters members](overview/Library-Reference/odsofilters-members-office.md)
 ##### Properties
 ###### [Application](Office.ODSOFilters.Application.md)
 ###### [Count](Office.ODSOFilters.Count.md)
@@ -36707,7 +36707,7 @@
 ###### [Delete](Office.ODSOFilters.Delete.md)
 ###### [Item](Office.ODSOFilters.Item.md)
 #### [OfficeDataSourceObject object](Office.OfficeDataSourceObject.md)
-##### [OfficeDataSourceObject members](./overview/Library-Reference/officedatasourceobject-members-office.md)
+##### [OfficeDataSourceObject members](overview/Library-Reference/officedatasourceobject-members-office.md)
 ##### Properties
 ###### [Columns](Office.OfficeDataSourceObject.Columns.md)
 ###### [ConnectString](Office.OfficeDataSourceObject.ConnectString.md)
@@ -36721,7 +36721,7 @@
 ###### [Open](Office.OfficeDataSourceObject.Open.md)
 ###### [SetSortOrder](Office.OfficeDataSourceObject.SetSortOrder.md)
 #### [OfficeTheme object](Office.OfficeTheme.md)
-##### [OfficeTheme members](./overview/Library-Reference/officetheme-members-office.md)
+##### [OfficeTheme members](overview/Library-Reference/officetheme-members-office.md)
 ##### Properties
 ###### [Application](Office.OfficeTheme.Application.md)
 ###### [Creator](Office.OfficeTheme.Creator.md)
@@ -36730,7 +36730,7 @@
 ###### [ThemeEffectScheme](Office.OfficeTheme.ThemeEffectScheme.md)
 ###### [ThemeFontScheme](Office.OfficeTheme.ThemeFontScheme.md)
 #### [ParagraphFormat2 object](Office.ParagraphFormat2.md)
-##### [ParagraphFormat2 members](./overview/Library-Reference/paragraphformat2-members-office.md)
+##### [ParagraphFormat2 members](overview/Library-Reference/paragraphformat2-members-office.md)
 ##### Properties
 ###### [Alignment](Office.ParagraphFormat2.Alignment.md)
 ###### [Application](Office.ParagraphFormat2.Application.md)
@@ -36754,7 +36754,7 @@
 ###### [TextDirection](Office.ParagraphFormat2.TextDirection.md)
 ###### [WordWrap](Office.ParagraphFormat2.WordWrap.md)
 #### [Permission object](Office.Permission.md)
-##### [Permission members](./overview/Library-Reference/permission-members-office.md)
+##### [Permission members](overview/Library-Reference/permission-members-office.md)
 ##### Properties
 ###### [Application](Office.Permission.Application.md)
 ###### [Count](Office.Permission.Count.md)
@@ -36774,7 +36774,7 @@
 ###### [ApplyPolicy](Office.Permission.ApplyPolicy.md)
 ###### [RemoveAll](Office.Permission.RemoveAll.md)
 #### [PickerDialog object](Office.PickerDialog.md)
-##### [PickerDialog members](./overview/Library-Reference/pickerdialog-members-office.md)
+##### [PickerDialog members](overview/Library-Reference/pickerdialog-members-office.md)
 ##### Properties
 ###### [Application](Office.PickerDialog.Application.md)
 ###### [Creator](Office.PickerDialog.Creator.md)
@@ -36786,7 +36786,7 @@
 ###### [Resolve](Office.PickerDialog.Resolve.md)
 ###### [Show](Office.PickerDialog.Show.md)
 #### [PickerField object](Office.PickerField.md)
-##### [PickerField members](./overview/Library-Reference/pickerfield-members-office.md)
+##### [PickerField members](overview/Library-Reference/pickerfield-members-office.md)
 ##### Properties
 ###### [Application](Office.PickerField.Application.md)
 ###### [Creator](Office.PickerField.Creator.md)
@@ -36794,14 +36794,14 @@
 ###### [Name](Office.PickerField.Name.md)
 ###### [Type](Office.PickerField.Type.md)
 #### [PickerFields object](Office.PickerFields.md)
-##### [PickerFields members](./overview/Library-Reference/pickerfields-members-office.md)
+##### [PickerFields members](overview/Library-Reference/pickerfields-members-office.md)
 ##### Properties
 ###### [Application](Office.PickerFields.Application.md)
 ###### [Count](Office.PickerFields.Count.md)
 ###### [Creator](Office.PickerFields.Creator.md)
 ###### [Item](Office.PickerFields.Item.md)
 #### [PickerProperty object](Office.PickerProperty.md)
-##### [PickerProperty members](./overview/Library-Reference/pickerproperty-members-office.md)
+##### [PickerProperty members](overview/Library-Reference/pickerproperty-members-office.md)
 ##### Properties
 ###### [Application](Office.PickerProperty.Application.md)
 ###### [Creator](Office.PickerProperty.Creator.md)
@@ -36809,7 +36809,7 @@
 ###### [Type](Office.PickerProperty.Type.md)
 ###### [Value](Office.PickerProperty.Value.md)
 #### [PickerProperties object](Office.PickerProperties.md)
-##### [PickerProperties members](./overview/Library-Reference/pickerproperties-members-office.md)
+##### [PickerProperties members](overview/Library-Reference/pickerproperties-members-office.md)
 ##### Properties
 ###### [Application](Office.PickerProperties.Application.md)
 ###### [Count](Office.PickerProperties.Count.md)
@@ -36819,7 +36819,7 @@
 ###### [Add](Office.PickerProperties.Add.md)
 ###### [Remove](Office.PickerProperties.Remove.md)
 #### [PickerResult object](Office.PickerResult.md)
-##### [PickerResult members](./overview/Library-Reference/pickerresult-members-office.md)
+##### [PickerResult members](overview/Library-Reference/pickerresult-members-office.md)
 ##### Properties
 ###### [Application](Office.PickerResult.Application.md)
 ###### [Creator](Office.PickerResult.Creator.md)
@@ -36832,7 +36832,7 @@
 ###### [SubItems](Office.PickerResult.SubItems.md)
 ###### [Type](Office.PickerResult.Type.md)
 #### [PickerResults object](Office.PickerResults.md)
-##### [PickerResults members](./overview/Library-Reference/pickerresults-members-office.md)
+##### [PickerResults members](overview/Library-Reference/pickerresults-members-office.md)
 ##### Properties
 ###### [Application](Office.PickerResults.Application.md)
 ###### [Count](Office.PickerResults.Count.md)
@@ -36841,7 +36841,7 @@
 ##### Methods
 ###### [Add](Office.PickerResults.Add.md)
 #### [PictureEffect object](Office.PictureEffect.md)
-##### [PictureEffect members](./overview/Library-Reference/pictureeffect-members-office.md)
+##### [PictureEffect members](overview/Library-Reference/pictureeffect-members-office.md)
 ##### Properties
 ###### [Application](Office.PictureEffect.Application.md)
 ###### [Creator](Office.PictureEffect.Creator.md)
@@ -36852,7 +36852,7 @@
 ##### Methods
 ###### [Delete](Office.PictureEffect.Delete.md)
 #### [PictureEffects object](Office.PictureEffects.md)
-##### [PictureEffects members](./overview/Library-Reference/pictureeffects-members-office.md)
+##### [PictureEffects members](overview/Library-Reference/pictureeffects-members-office.md)
 ##### Properties
 ###### [Application](Office.PictureEffects.Application.md)
 ###### [Count](Office.PictureEffects.Count.md)
@@ -36862,7 +36862,7 @@
 ###### [Delete](Office.PictureEffects.Delete.md)
 ###### [Insert](Office.PictureEffects.Insert.md)
 #### [PolicyItem object](Office.PolicyItem.md)
-##### [PolicyItem members](./overview/Library-Reference/policyitem-members-office.md)
+##### [PolicyItem members](overview/Library-Reference/policyitem-members-office.md)
 ##### Properties
 ###### [Application](Office.PolicyItem.Application.md)
 ###### [Creator](Office.PolicyItem.Creator.md)
@@ -36872,7 +36872,7 @@
 ###### [Name](Office.PolicyItem.Name.md)
 ###### [Parent](Office.PolicyItem.Parent.md)
 #### [ReflectionFormat object](Office.ReflectionFormat.md)
-##### [ReflectionFormat members](./overview/Library-Reference/reflectionformat-members-office.md)
+##### [ReflectionFormat members](overview/Library-Reference/reflectionformat-members-office.md)
 ##### Properties
 ###### [Application](Office.ReflectionFormat.Application.md)
 ###### [Blur](Office.ReflectionFormat.Blur.md)
@@ -36882,7 +36882,7 @@
 ###### [Transparency](Office.ReflectionFormat.Transparency.md)
 ###### [Type](Office.ReflectionFormat.Type.md)
 #### [Ruler2 object](Office.Ruler2.md)
-##### [Ruler2 members](./overview/Library-Reference/ruler2-members-office.md)
+##### [Ruler2 members](overview/Library-Reference/ruler2-members-office.md)
 ##### Properties
 ###### [Application](Office.Ruler2.Application.md)
 ###### [Creator](Office.Ruler2.Creator.md)
@@ -36890,7 +36890,7 @@
 ###### [Parent](Office.Ruler2.Parent.md)
 ###### [TabStops](Office.Ruler2.TabStops.md)
 #### [RulerLevel2 object](Office.RulerLevel2.md)
-##### [RulerLevel2 members](./overview/Library-Reference/rulerlevel2-members-office.md)
+##### [RulerLevel2 members](overview/Library-Reference/rulerlevel2-members-office.md)
 ##### Properties
 ###### [Application](Office.RulerLevel2.Application.md)
 ###### [Creator](Office.RulerLevel2.Creator.md)
@@ -36898,7 +36898,7 @@
 ###### [LeftMargin](Office.RulerLevel2.LeftMargin.md)
 ###### [Parent](Office.RulerLevel2.Parent.md)
 #### [RulerLevels2 object](Office.RulerLevels2.md)
-##### [RulerLevels2 members](./overview/Library-Reference/rulerlevels2-members-office.md)
+##### [RulerLevels2 members](overview/Library-Reference/rulerlevels2-members-office.md)
 ##### Properties
 ###### [Application](Office.RulerLevels2.Application.md)
 ###### [Count](Office.RulerLevels2.Count.md)
@@ -36907,7 +36907,7 @@
 ##### Methods
 ###### [Item](Office.RulerLevels2.Item.md)
 #### [ScopeFolder object](Office.ScopeFolder.md)
-##### [ScopeFolder members](./overview/Library-Reference/scopefolder-members-office.md)
+##### [ScopeFolder members](overview/Library-Reference/scopefolder-members-office.md)
 ##### Properties
 ###### [Application](Office.ScopeFolder.Application.md)
 ###### [Creator](Office.ScopeFolder.Creator.md)
@@ -36917,14 +36917,14 @@
 ##### Methods
 ###### [AddToSearchFolders](Office.ScopeFolder.AddToSearchFolders.md)
 #### [ScopeFolders object](Office.ScopeFolders.md)
-##### [ScopeFolders members](./overview/Library-Reference/scopefolders-members-office.md)
+##### [ScopeFolders members](overview/Library-Reference/scopefolders-members-office.md)
 ##### Properties
 ###### [Application](Office.ScopeFolders.Application.md)
 ###### [Count](Office.ScopeFolders.Count.md)
 ###### [Creator](Office.ScopeFolders.Creator.md)
 ###### [Item](Office.ScopeFolders.Item.md)
 #### [SearchFolders object](Office.SearchFolders.md)
-##### [SearchFolders members](./overview/Library-Reference/searchfolders-members-office.md)
+##### [SearchFolders members](overview/Library-Reference/searchfolders-members-office.md)
 ##### Properties
 ###### [Application](Office.SearchFolders.Application.md)
 ###### [Count](Office.SearchFolders.Count.md)
@@ -36934,21 +36934,21 @@
 ###### [Add](Office.SearchFolders.Add.md)
 ###### [Remove](Office.SearchFolders.Remove.md)
 #### [SearchScope object](Office.SearchScope.md)
-##### [SearchScope members](./overview/Library-Reference/searchscope-members-office.md)
+##### [SearchScope members](overview/Library-Reference/searchscope-members-office.md)
 ##### Properties
 ###### [Application](Office.SearchScope.Application.md)
 ###### [Creator](Office.SearchScope.Creator.md)
 ###### [ScopeFolder](Office.SearchScope.ScopeFolder.md)
 ###### [Type](Office.SearchScope.Type.md)
 #### [SearchScopes object](Office.SearchScopes.md)
-##### [SearchScopes members](./overview/Library-Reference/searchscopes-members-office.md)
+##### [SearchScopes members](overview/Library-Reference/searchscopes-members-office.md)
 ##### Properties
 ###### [Application](Office.SearchScopes.Application.md)
 ###### [Count](Office.SearchScopes.Count.md)
 ###### [Creator](Office.SearchScopes.Creator.md)
 ###### [Item](Office.SearchScopes.Item.md)
 #### [ServerPolicy object](Office.ServerPolicy.md)
-##### [ServerPolicy members](./overview/Library-Reference/serverpolicy-members-office.md)
+##### [ServerPolicy members](overview/Library-Reference/serverpolicy-members-office.md)
 ##### Properties
 ###### [Application](Office.ServerPolicy.Application.md)
 ###### [BlockPreview](Office.ServerPolicy.BlockPreview.md)
@@ -36961,7 +36961,7 @@
 ###### [Parent](Office.ServerPolicy.Parent.md)
 ###### [Statement](Office.ServerPolicy.Statement.md)
 #### [SharedWorkspace object](Office.SharedWorkspace.md)
-##### [SharedWorkspace members](./overview/Library-Reference/sharedworkspace-members-office.md)
+##### [SharedWorkspace members](overview/Library-Reference/sharedworkspace-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspace.Application.md)
 ###### [Connected](Office.SharedWorkspace.Connected.md)
@@ -36983,7 +36983,7 @@
 ###### [Refresh](Office.SharedWorkspace.Refresh.md)
 ###### [RemoveDocument](Office.SharedWorkspace.RemoveDocument.md)
 #### [SharedWorkspaceFile object](Office.SharedWorkspaceFile.md)
-##### [SharedWorkspaceFile members](./overview/Library-Reference/sharedworkspacefile-members-office.md)
+##### [SharedWorkspaceFile members](overview/Library-Reference/sharedworkspacefile-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceFile.Application.md)
 ###### [CreatedBy](Office.SharedWorkspaceFile.CreatedBy.md)
@@ -36996,7 +36996,7 @@
 ##### Methods
 ###### [Delete](Office.SharedWorkspaceFile.Delete.md)
 #### [SharedWorkspaceFiles object](Office.SharedWorkspaceFiles.md)
-##### [SharedWorkspaceFiles members](./overview/Library-Reference/sharedworkspacefiles-members-office.md)
+##### [SharedWorkspaceFiles members](overview/Library-Reference/sharedworkspacefiles-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceFiles.Application.md)
 ###### [Count](Office.SharedWorkspaceFiles.Count.md)
@@ -37007,7 +37007,7 @@
 ##### Methods
 ###### [Add](Office.SharedWorkspaceFiles.Add.md)
 #### [SharedWorkspaceFolder object](Office.SharedWorkspaceFolder.md)
-##### [SharedWorkspaceFolder members](./overview/Library-Reference/sharedworkspacefolder-members-office.md)
+##### [SharedWorkspaceFolder members](overview/Library-Reference/sharedworkspacefolder-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceFolder.Application.md)
 ###### [Creator](Office.SharedWorkspaceFolder.Creator.md)
@@ -37016,7 +37016,7 @@
 ##### Methods
 ###### [Delete](Office.SharedWorkspaceFolder.Delete.md)
 #### [SharedWorkspaceFolders object](Office.SharedWorkspaceFolders.md)
-##### [SharedWorkspaceFolders members](./overview/Library-Reference/sharedworkspacefolders-members-office.md)
+##### [SharedWorkspaceFolders members](overview/Library-Reference/sharedworkspacefolders-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceFolders.Application.md)
 ###### [Count](Office.SharedWorkspaceFolders.Count.md)
@@ -37027,7 +37027,7 @@
 ##### Methods
 ###### [Add](Office.SharedWorkspaceFolders.Add.md)
 #### [SharedWorkspaceLink object](Office.SharedWorkspaceLink.md)
-##### [SharedWorkspaceLink members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
+##### [SharedWorkspaceLink members](overview/Library-Reference/sharedworkspacelink-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceLink.Application.md)
 ###### [CreatedBy](Office.SharedWorkspaceLink.CreatedBy.md)
@@ -37043,7 +37043,7 @@
 ###### [Delete](Office.SharedWorkspaceLink.Delete.md)
 ###### [Save](Office.SharedWorkspaceLink.Save.md)
 #### [SharedWorkspaceLinks object](Office.SharedWorkspaceLinks.md)
-##### [SharedWorkspaceLinks members](./overview/Library-Reference/sharedworkspacelinks-members-office.md)
+##### [SharedWorkspaceLinks members](overview/Library-Reference/sharedworkspacelinks-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceLinks.Application.md)
 ###### [Count](Office.SharedWorkspaceLinks.Count.md)
@@ -37054,7 +37054,7 @@
 ##### Methods
 ###### [Add](Office.SharedWorkspaceLinks.Add.md)
 #### [SharedWorkspaceMember object](Office.SharedWorkspaceMember.md)
-##### [SharedWorkspaceMember members](./overview/Library-Reference/sharedworkspacemember-members-office.md)
+##### [SharedWorkspaceMember members](overview/Library-Reference/sharedworkspacemember-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceMember.Application.md)
 ###### [Creator](Office.SharedWorkspaceMember.Creator.md)
@@ -37065,7 +37065,7 @@
 ##### Methods
 ###### [Delete](Office.SharedWorkspaceMember.Delete.md)
 #### [SharedWorkspaceMembers object](Office.SharedWorkspaceMembers.md)
-##### [SharedWorkspaceMembers members](./overview/Library-Reference/sharedworkspacemembers-members-office.md)
+##### [SharedWorkspaceMembers members](overview/Library-Reference/sharedworkspacemembers-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceMembers.Application.md)
 ###### [Count](Office.SharedWorkspaceMembers.Count.md)
@@ -37076,7 +37076,7 @@
 ##### Methods
 ###### [Add](Office.SharedWorkspaceMembers.Add.md)
 #### [SharedWorkspaceTask object](Office.SharedWorkspaceTask.md)
-##### [SharedWorkspaceTask members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
+##### [SharedWorkspaceTask members](overview/Library-Reference/sharedworkspacetask-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceTask.Application.md)
 ###### [AssignedTo](Office.SharedWorkspaceTask.AssignedTo.md)
@@ -37095,7 +37095,7 @@
 ###### [Delete](Office.SharedWorkspaceTask.Delete.md)
 ###### [Save](Office.SharedWorkspaceTask.Save.md)
 #### [SharedWorkspaceTasks object](Office.SharedWorkspaceTasks.md)
-##### [SharedWorkspaceTasks members](./overview/Library-Reference/sharedworkspacetasks-members-office.md)
+##### [SharedWorkspaceTasks members](overview/Library-Reference/sharedworkspacetasks-members-office.md)
 ##### Properties
 ###### [Application](Office.SharedWorkspaceTasks.Application.md)
 ###### [Count](Office.SharedWorkspaceTasks.Count.md)
@@ -37106,7 +37106,7 @@
 ##### Methods
 ###### [Add](Office.SharedWorkspaceTasks.Add.md)
 #### [Signature object](Office.Signature.md)
-##### [Signature members](./overview/Library-Reference/signature-members-office.md)
+##### [Signature members](overview/Library-Reference/signature-members-office.md)
 ##### Properties
 ###### [Application](Office.Signature.Application.md)
 ###### [CanSetup](Office.Signature.CanSetup.md)
@@ -37123,7 +37123,7 @@
 ###### [ShowDetails](Office.Signature.ShowDetails.md)
 ###### [Sign](Office.Signature.Sign.md)
 #### [SignatureInfo object](Office.SignatureInfo.md)
-##### [SignatureInfo members](./overview/Library-Reference/signatureinfo-members-office.md)
+##### [SignatureInfo members](overview/Library-Reference/signatureinfo-members-office.md)
 ##### Properties
 ###### [Application](Office.SignatureInfo.Application.md)
 ###### [CertificateVerificationResults](Office.SignatureInfo.CertificateVerificationResults.md)
@@ -37145,7 +37145,7 @@
 ###### [SelectSignatureCertificate](Office.SignatureInfo.SelectSignatureCertificate.md)
 ###### [ShowSignatureCertificate](Office.SignatureInfo.ShowSignatureCertificate.md)
 #### [SignatureProvider object](Office.SignatureProvider.md)
-##### [SignatureProvider members](./overview/Library-Reference/signatureprovider-members-office.md)
+##### [SignatureProvider members](overview/Library-Reference/signatureprovider-members-office.md)
 ##### Methods
 ###### [GenerateSignatureLineImage](Office.SignatureProvider.GenerateSignatureLineImage.md)
 ###### [GetProviderDetail](Office.SignatureProvider.GetProviderDetail.md)
@@ -37157,7 +37157,7 @@
 ###### [SignXmlDsig](Office.SignatureProvider.SignXmlDsig.md)
 ###### [VerifyXmlDsig](Office.SignatureProvider.VerifyXmlDsig.md)
 #### [SignatureSet object](Office.SignatureSet.md)
-##### [SignatureSet members](./overview/Library-Reference/signatureset-members-office.md)
+##### [SignatureSet members](overview/Library-Reference/signatureset-members-office.md)
 ##### Properties
 ###### [Application](Office.SignatureSet.Application.md)
 ###### [CanAddSignatureLine](Office.SignatureSet.CanAddSignatureLine.md)
@@ -37171,7 +37171,7 @@
 ###### [AddNonVisibleSignature](Office.SignatureSet.AddNonVisibleSignature.md)
 ###### [AddSignatureLine](Office.SignatureSet.AddSignatureLine.md)
 #### [SignatureSetup object](Office.SignatureSetup.md)
-##### [SignatureSetup members](./overview/Library-Reference/signaturesetup-members-office.md)
+##### [SignatureSetup members](overview/Library-Reference/signaturesetup-members-office.md)
 ##### Properties
 ###### [AdditionalXml](Office.SignatureSetup.AdditionalXml.md)
 ###### [AllowComments](Office.SignatureSetup.AllowComments.md)
@@ -37186,7 +37186,7 @@
 ###### [SuggestedSignerEmail](Office.SignatureSetup.SuggestedSignerEmail.md)
 ###### [SuggestedSignerLine2](Office.SignatureSetup.SuggestedSignerLine2.md)
 #### [SmartArt object](Office.SmartArt.md)
-##### [SmartArt members](./overview/Library-Reference/smartart-members-office.md)
+##### [SmartArt members](overview/Library-Reference/smartart-members-office.md)
 ##### Properties
 ###### [AllNodes](Office.SmartArt.AllNodes.md)
 ###### [Application](Office.SmartArt.Application.md)
@@ -37200,7 +37200,7 @@
 ##### Methods
 ###### [Reset](Office.SmartArt.Reset.md)
 #### [SmartArtColor object](Office.SmartArtColor.md)
-##### [SmartArtColor members](./overview/Library-Reference/smartartcolor-members-office.md)
+##### [SmartArtColor members](overview/Library-Reference/smartartcolor-members-office.md)
 ##### Properties
 ###### [Application](Office.SmartArtColor.Application.md)
 ###### [Category](Office.SmartArtColor.Category.md)
@@ -37210,7 +37210,7 @@
 ###### [Name](Office.SmartArtColor.Name.md)
 ###### [Parent](Office.SmartArtColor.Parent.md)
 #### [SmartArtColors object](Office.SmartArtColors.md)
-##### [SmartArtColors members](./overview/Library-Reference/smartartcolors-members-office.md)
+##### [SmartArtColors members](overview/Library-Reference/smartartcolors-members-office.md)
 ##### Properties
 ###### [Application](Office.SmartArtColors.Application.md)
 ###### [Count](Office.SmartArtColors.Count.md)
@@ -37219,7 +37219,7 @@
 ##### Methods
 ###### [Item](Office.SmartArtColors.Item.md)
 #### [SmartArtLayout object](Office.SmartArtLayout.md)
-##### [SmartArtLayout members](./overview/Library-Reference/smartartlayout-members-office.md)
+##### [SmartArtLayout members](overview/Library-Reference/smartartlayout-members-office.md)
 ##### Properties
 ###### [Application](Office.SmartArtLayout.Application.md)
 ###### [Category](Office.SmartArtLayout.Category.md)
@@ -37229,7 +37229,7 @@
 ###### [Name](Office.SmartArtLayout.Name.md)
 ###### [Parent](Office.SmartArtLayout.Parent.md)
 #### [SmartArtLayouts object](Office.SmartArtLayouts.md)
-##### [SmartArtLayouts members](./overview/Library-Reference/smartartlayouts-members-office.md)
+##### [SmartArtLayouts members](overview/Library-Reference/smartartlayouts-members-office.md)
 ##### Properties
 ###### [Application](Office.SmartArtLayouts.Application.md)
 ###### [Count](Office.SmartArtLayouts.Count.md)
@@ -37238,7 +37238,7 @@
 ##### Methods
 ###### [Item](Office.SmartArtLayouts.Item.md)
 #### [SmartArtNode object](Office.SmartArtNode.md)
-##### [SmartArtNode members](./overview/Library-Reference/smartartnode-members-office.md)
+##### [SmartArtNode members](overview/Library-Reference/smartartnode-members-office.md)
 ##### Properties
 ###### [Application](Office.SmartArtNode.Application.md)
 ###### [Creator](Office.SmartArtNode.Creator.md)
@@ -37261,7 +37261,7 @@
 ###### [ReorderUp](Office.SmartArtNode.ReorderUp.md)
 ###### [Smaller](Office.SmartArtNode.Smaller.md)
 #### [SmartArtNodes object](Office.SmartArtNodes.md)
-##### [SmartArtNodes members](./overview/Library-Reference/smartartnodes-members-office.md)
+##### [SmartArtNodes members](overview/Library-Reference/smartartnodes-members-office.md)
 ##### Properties
 ###### [Application](Office.SmartArtNodes.Application.md)
 ###### [Count](Office.SmartArtNodes.Count.md)
@@ -37271,7 +37271,7 @@
 ###### [Add](Office.SmartArtNodes.Add.md)
 ###### [Item](Office.SmartArtNodes.Item.md)
 #### [SmartArtQuickStyle object](Office.SmartArtQuickStyle.md)
-##### [SmartArtQuickStyle members](./overview/Library-Reference/smartartquickstyle-members-office.md)
+##### [SmartArtQuickStyle members](overview/Library-Reference/smartartquickstyle-members-office.md)
 ##### Properties
 ###### [Application](Office.SmartArtQuickStyle.Application.md)
 ###### [Category](Office.SmartArtQuickStyle.Category.md)
@@ -37281,7 +37281,7 @@
 ###### [Name](Office.SmartArtQuickStyle.Name.md)
 ###### [Parent](Office.SmartArtQuickStyle.Parent.md)
 #### [SmartArtQuickStyles object](Office.SmartArtQuickStyles.md)
-##### [SmartArtQuickStyles members](./overview/Library-Reference/smartartquickstyles-members-office.md)
+##### [SmartArtQuickStyles members](overview/Library-Reference/smartartquickstyles-members-office.md)
 ##### Properties
 ###### [Application](Office.SmartArtQuickStyles.Application.md)
 ###### [Count](Office.SmartArtQuickStyles.Count.md)
@@ -37290,7 +37290,7 @@
 ##### Methods
 ###### [Item](Office.SmartArtQuickStyles.Item.md)
 #### [SmartDocument object](Office.SmartDocument.md)
-##### [SmartDocument members](./overview/Library-Reference/smartdocument-members-office.md)
+##### [SmartDocument members](overview/Library-Reference/smartdocument-members-office.md)
 ##### Properties
 ###### [Application](Office.SmartDocument.Application.md)
 ###### [Creator](Office.SmartDocument.Creator.md)
@@ -37300,14 +37300,14 @@
 ###### [PickSolution](Office.SmartDocument.PickSolution.md)
 ###### [RefreshPane](Office.SmartDocument.RefreshPane.md)
 #### [SoftEdgeFormat object](Office.SoftEdgeFormat.md)
-##### [SoftEdgeFormat members](./overview/Library-Reference/softedgeformat-members-office.md)
+##### [SoftEdgeFormat members](overview/Library-Reference/softedgeformat-members-office.md)
 ##### Properties
 ###### [Application](Office.SoftEdgeFormat.Application.md)
 ###### [Creator](Office.SoftEdgeFormat.Creator.md)
 ###### [Radius](Office.SoftEdgeFormat.Radius.md)
 ###### [Type](Office.SoftEdgeFormat.Type.md)
 #### [Sync object](Office.Sync.md)
-##### [Sync members](./overview/Library-Reference/sync-members-office.md)
+##### [Sync members](overview/Library-Reference/sync-members-office.md)
 ##### Properties
 ###### [Application](Office.Sync.Application.md)
 ###### [Creator](Office.Sync.Creator.md)
@@ -37323,7 +37323,7 @@
 ###### [ResolveConflict](Office.Sync.ResolveConflict.md)
 ###### [Unsuspend](Office.Sync.Unsuspend.md)
 #### [TabStop2 object](Office.TabStop2.md)
-##### [TabStop2 members](./overview/Library-Reference/tabstop2-members-office.md)
+##### [TabStop2 members](overview/Library-Reference/tabstop2-members-office.md)
 ##### Properties
 ###### [Application](Office.TabStop2.Application.md)
 ###### [Creator](Office.TabStop2.Creator.md)
@@ -37333,7 +37333,7 @@
 ##### Methods
 ###### [Clear](Office.TabStop2.Clear.md)
 #### [TabStops2 object](Office.TabStops2.md)
-##### [TabStops2 members](./overview/Library-Reference/tabstops2-members-office.md)
+##### [TabStops2 members](overview/Library-Reference/tabstops2-members-office.md)
 ##### Properties
 ###### [Application](Office.TabStops2.Application.md)
 ###### [Count](Office.TabStops2.Count.md)
@@ -37344,7 +37344,7 @@
 ###### [Add](Office.TabStops2.Add.md)
 ###### [Item](Office.TabStops2.Item.md)
 #### [TextColumn2 object](Office.TextColumn2.md)
-##### [TextColumn2 members](./overview/Library-Reference/textcolumn2-members-office.md)
+##### [TextColumn2 members](overview/Library-Reference/textcolumn2-members-office.md)
 ##### Properties
 ###### [Application](Office.TextColumn2.Application.md)
 ###### [Count](Office.TextColumn2.Count.md)
@@ -37353,7 +37353,7 @@
 ###### [Spacing](Office.TextColumn2.Spacing.md)
 ###### [TextDirection](Office.TextColumn2.TextDirection.md)
 #### [TextFrame2 object](Office.TextFrame2.md)
-##### [TextFrame2 members](./overview/Library-Reference/textframe2-members-office.md)
+##### [TextFrame2 members](overview/Library-Reference/textframe2-members-office.md)
 ##### Properties
 ###### [Application](Office.TextFrame2.Application.md)
 ###### [AutoSize](Office.TextFrame2.AutoSize.md)
@@ -37379,7 +37379,7 @@
 ##### Methods
 ###### [DeleteText](Office.TextFrame2.DeleteText.md)
 #### [TextRange2 object](Office.TextRange2.md)
-##### [TextRange2 members](./overview/Library-Reference/textrange2-members-office.md)
+##### [TextRange2 members](overview/Library-Reference/textrange2-members-office.md)
 ##### Properties
 ###### [Application](Office.TextRange2.Application.md)
 ###### [BoundHeight](Office.TextRange2.BoundHeight.md)
@@ -37424,7 +37424,7 @@
 ###### [Select](Office.TextRange2.Select.md)
 ###### [TrimText](Office.TextRange2.TrimText.md)
 #### [ThemeColor object](Office.ThemeColor.md)
-##### [ThemeColor members](./overview/Library-Reference/themecolor-members-office.md)
+##### [ThemeColor members](overview/Library-Reference/themecolor-members-office.md)
 ##### Properties
 ###### [Application](Office.ThemeColor.Application.md)
 ###### [Creator](Office.ThemeColor.Creator.md)
@@ -37432,7 +37432,7 @@
 ###### [RGB](Office.ThemeColor.RGB.md)
 ###### [ThemeColorSchemeIndex](Office.ThemeColor.ThemeColorSchemeIndex.md)
 #### [ThemeColorScheme object](Office.ThemeColorScheme.md)
-##### [ThemeColorScheme members](./overview/Library-Reference/themecolorscheme-members-office.md)
+##### [ThemeColorScheme members](overview/Library-Reference/themecolorscheme-members-office.md)
 ##### Properties
 ###### [Application](Office.ThemeColorScheme.Application.md)
 ###### [Count](Office.ThemeColorScheme.Count.md)
@@ -37444,7 +37444,7 @@
 ###### [Load](Office.ThemeColorScheme.Load.md)
 ###### [Save](Office.ThemeColorScheme.Save.md)
 #### [ThemeEffectScheme object](Office.ThemeEffectScheme.md)
-##### [ThemeEffectScheme members](./overview/Library-Reference/themeeffectscheme-members-office.md)
+##### [ThemeEffectScheme members](overview/Library-Reference/themeeffectscheme-members-office.md)
 ##### Properties
 ###### [Application](Office.ThemeEffectScheme.Application.md)
 ###### [Creator](Office.ThemeEffectScheme.Creator.md)
@@ -37452,14 +37452,14 @@
 ##### Methods
 ###### [Load](Office.ThemeEffectScheme.Load.md)
 #### [ThemeFont object](Office.ThemeFont.md)
-##### [ThemeFont members](./overview/Library-Reference/themefont-members-office.md)
+##### [ThemeFont members](overview/Library-Reference/themefont-members-office.md)
 ##### Properties
 ###### [Application](Office.ThemeFont.Application.md)
 ###### [Creator](Office.ThemeFont.Creator.md)
 ###### [Name](Office.ThemeFont.Name.md)
 ###### [Parent](Office.ThemeFont.Parent.md)
 #### [ThemeFonts object](Office.ThemeFonts.md)
-##### [ThemeFonts members](./overview/Library-Reference/themefonts-members-office.md)
+##### [ThemeFonts members](overview/Library-Reference/themefonts-members-office.md)
 ##### Properties
 ###### [Application](Office.ThemeFonts.Application.md)
 ###### [Count](Office.ThemeFonts.Count.md)
@@ -37468,7 +37468,7 @@
 ##### Methods
 ###### [Item](Office.ThemeFonts.Item.md)
 #### [ThemeFontScheme object](Office.ThemeFontScheme.md)
-##### [ThemeFontScheme members](./overview/Library-Reference/themefontscheme-members-office.md)
+##### [ThemeFontScheme members](overview/Library-Reference/themefontscheme-members-office.md)
 ##### Properties
 ###### [Application](Office.ThemeFontScheme.Application.md)
 ###### [Creator](Office.ThemeFontScheme.Creator.md)
@@ -37479,7 +37479,7 @@
 ###### [Load](Office.ThemeFontScheme.Load.md)
 ###### [Save](Office.ThemeFontScheme.Save.md)
 #### [UserPermission object](Office.UserPermission.md)
-##### [UserPermission members](./overview/Library-Reference/userpermission-members-office.md)
+##### [UserPermission members](overview/Library-Reference/userpermission-members-office.md)
 ##### Properties
 ###### [Application](Office.UserPermission.Application.md)
 ###### [Creator](Office.UserPermission.Creator.md)
@@ -37490,7 +37490,7 @@
 ##### Methods
 ###### [Remove](Office.UserPermission.Remove.md)
 #### [WebPageFont object](Office.WebPageFont.md)
-##### [WebPageFont members](./overview/Library-Reference/webpagefont-members-office.md)
+##### [WebPageFont members](overview/Library-Reference/webpagefont-members-office.md)
 ##### Properties
 ###### [Application](Office.WebPageFont.Application.md)
 ###### [Creator](Office.WebPageFont.Creator.md)
@@ -37499,14 +37499,14 @@
 ###### [ProportionalFont](Office.WebPageFont.ProportionalFont.md)
 ###### [ProportionalFontSize](Office.WebPageFont.ProportionalFontSize.md)
 #### [WebPageFonts object](Office.WebPageFonts.md)
-##### [WebPageFonts members](./overview/Library-Reference/webpagefonts-members-office.md)
+##### [WebPageFonts members](overview/Library-Reference/webpagefonts-members-office.md)
 ##### Properties
 ###### [Application](Office.WebPageFonts.Application.md)
 ###### [Count](Office.WebPageFonts.Count.md)
 ###### [Creator](Office.WebPageFonts.Creator.md)
 ###### [Item](Office.WebPageFonts.Item.md)
 #### [WorkflowTask object](Office.WorkflowTask.md)
-##### [WorkflowTask members](./overview/Library-Reference/workflowtask-members-office.md)
+##### [WorkflowTask members](overview/Library-Reference/workflowtask-members-office.md)
 ##### Properties
 ###### [Application](Office.WorkflowTask.Application.md)
 ###### [AssignedTo](Office.WorkflowTask.AssignedTo.md)
@@ -37522,14 +37522,14 @@
 ##### Methods
 ###### [Show](Office.WorkflowTask.Show.md)
 #### [WorkflowTasks object](Office.WorkflowTasks.md)
-##### [WorkflowTasks members](./overview/Library-Reference/workflowtasks-members-office.md)
+##### [WorkflowTasks members](overview/Library-Reference/workflowtasks-members-office.md)
 ##### Properties
 ###### [Application](Office.WorkflowTasks.Application.md)
 ###### [Count](Office.WorkflowTasks.Count.md)
 ###### [Creator](Office.WorkflowTasks.Creator.md)
 ###### [Item](Office.WorkflowTasks.Item.md)
 #### [WorkflowTemplate object](Office.WorkflowTemplate.md)
-##### [WorkflowTemplate members](./overview/Library-Reference/workflowtemplate-members-office.md)
+##### [WorkflowTemplate members](overview/Library-Reference/workflowtemplate-members-office.md)
 ##### Properties
 ###### [Application](Office.WorkflowTemplate.Application.md)
 ###### [Creator](Office.WorkflowTemplate.Creator.md)
@@ -37541,13 +37541,13 @@
 ##### Methods
 ###### [Show](Office.WorkflowTemplate.Show.md)
 #### [WorkflowTemplates object](Office.WorkflowTemplates.md)
-##### [WorkflowTemplates members](./overview/Library-Reference/workflowtemplates-members-office.md)
+##### [WorkflowTemplates members](overview/Library-Reference/workflowtemplates-members-office.md)
 ##### Properties
 ###### [Application](Office.WorkflowTemplates.Application.md)
 ###### [Count](Office.WorkflowTemplates.Count.md)
 ###### [Creator](Office.WorkflowTemplates.Creator.md)
 ###### [Item](Office.WorkflowTemplates.Item.md)
-#### [Enumerations](./overview/Library-Reference/enumerations-office.md)
+#### [Enumerations](overview/Library-Reference/enumerations-office.md)
 ##### [BackstageGroupStyle](Office.BackstageGroupStyle.md)
 ##### [CertificateDetail](Office.CertificateDetail.md)
 ##### [CertificateVerificationResults](Office.CertificateVerificationResults.md)
@@ -37555,12 +37555,12 @@
 ##### [EncryptionCipherMode](Office.EncryptionCipherMode.md)
 ##### [EncryptionProviderDetail](Office.EncryptionProviderDetail.md)
 ##### [MailFormat](Office.MailFormat.md)
-##### [MsoAlertButtonType](./overview/Library-Reference/msoalertbuttontype-enumeration-office.md)
+##### [MsoAlertButtonType](overview/Library-Reference/msoalertbuttontype-enumeration-office.md)
 ##### [MsoAlertCancelType](Office.MsoAlertCancelType.md)
-##### [MsoAlertDefaultType](./overview/Library-Reference/msoalertdefaulttype-enumeration-office.md)
+##### [MsoAlertDefaultType](overview/Library-Reference/msoalertdefaulttype-enumeration-office.md)
 ##### [MsoAlertIconType](Office.MsoAlertIconType.md)
 ##### [MsoAlignCmd](Office.MsoAlignCmd.md)
-##### [MsoAnimationType](./overview/Library-Reference/msoanimationtype-enumeration-office.md)
+##### [MsoAnimationType](overview/Library-Reference/msoanimationtype-enumeration-office.md)
 ##### [MsoAppLanguageID](Office.MsoAppLanguageID.md)
 ##### [MsoArrowheadLength](Office.MsoArrowheadLength.md)
 ##### [MsoArrowheadStyle](Office.MsoArrowheadStyle.md)
@@ -37569,9 +37569,9 @@
 ##### [MsoAutoShapeType](Office.MsoAutoShapeType.md)
 ##### [MsoAutoSize](Office.MsoAutoSize.md)
 ##### [MsoBackgroundStyleIndex](Office.MsoBackgroundStyleIndex.md)
-##### [MsoBalloonButtonType](./overview/Library-Reference/msoballoonbuttontype-enumeration-office.md)
-##### [MsoBalloonErrorType](./overview/Library-Reference/msoballoonerrortype-enumeration-office.md)
-##### [MsoBalloonType](./overview/Library-Reference/msoballoontype-enumeration-office.md)
+##### [MsoBalloonButtonType](overview/Library-Reference/msoballoonbuttontype-enumeration-office.md)
+##### [MsoBalloonErrorType](overview/Library-Reference/msoballoonerrortype-enumeration-office.md)
+##### [MsoBalloonType](overview/Library-Reference/msoballoontype-enumeration-office.md)
 ##### [MsoBarPosition](Office.MsoBarPosition.md)
 ##### [MsoBarProtection](Office.MsoBarProtection.md)
 ##### [MsoBarRow](Office.MsoBarRow.md)
@@ -37581,10 +37581,10 @@
 ##### [MsoBlackWhiteMode](Office.MsoBlackWhiteMode.md)
 ##### [MsoBlogCategorySupport](Office.MsoBlogCategorySupport.md)
 ##### [MsoBlogImageType](Office.MsoBlogImageType.md)
-##### [MsoBroadcastCapabilities](./overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md)
-##### [MsoBroadcastState](./overview/Library-Reference/msobroadcaststate-enumeration-office.md)
+##### [MsoBroadcastCapabilities](overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md)
+##### [MsoBroadcastState](overview/Library-Reference/msobroadcaststate-enumeration-office.md)
 ##### [MsoBulletType](Office.MsoBulletType.md)
-##### [MsoButtonSetType](./overview/Library-Reference/msobuttonsettype-enumeration-office.md)
+##### [MsoButtonSetType](overview/Library-Reference/msobuttonsettype-enumeration-office.md)
 ##### [MsoButtonState](Office.MsoButtonState.md)
 ##### [MsoButtonStyle](Office.MsoButtonStyle.md)
 ##### [MsoCalloutAngleType](Office.MsoCalloutAngleType.md)
@@ -37592,7 +37592,7 @@
 ##### [MsoCalloutType](Office.MsoCalloutType.md)
 ##### [MsoCharacterSet](Office.MsoCharacterSet.md)
 ##### [MsoChartElementType](Office.MsoChartElementType.md)
-##### [MsoChartFieldType](./overview/Library-Reference/msochartfieldtype-enumeration-office.md)
+##### [MsoChartFieldType](overview/Library-Reference/msochartfieldtype-enumeration-office.md)
 ##### [MsoClipboardFormat](Office.MsoClipboardFormat.md)
 ##### [MsoColorType](Office.MsoColorType.md)
 ##### [MsoComboStyle](Office.MsoComboStyle.md)
@@ -37631,20 +37631,20 @@
 ##### [MsoGradientStyle](Office.MsoGradientStyle.md)
 ##### [MsoHorizontalAnchor](Office.MsoHorizontalAnchor.md)
 ##### [MsoHyperlinkType](Office.MsoHyperlinkType.md)
-##### [MsoIconType](./overview/Library-Reference/msoicontype-enumeration-office.md)
-##### [MsoIodGroup](./overview/Library-Reference/msoiodgroup-enumeration-office.md)
+##### [MsoIconType](overview/Library-Reference/msoicontype-enumeration-office.md)
+##### [MsoIodGroup](overview/Library-Reference/msoiodgroup-enumeration-office.md)
 ##### [MsoLanguageID](Office.MsoLanguageID.md)
 ##### [MsoLightRigType](Office.MsoLightRigType.md)
-##### [MsoLineCapStyle](./overview/Library-Reference/msolinecapstyle-enumeration-office.md)
+##### [MsoLineCapStyle](overview/Library-Reference/msolinecapstyle-enumeration-office.md)
 ##### [MsoLineDashStyle](Office.MsoLineDashStyle.md)
-##### [MsoLineFillType](./overview/Library-Reference/msolinefilltype-enumeration-office.md)
-##### [MsoLineJoinStyle](./overview/Library-Reference/msolinejoinstyle-enumeration-office.md)
+##### [MsoLineFillType](overview/Library-Reference/msolinefilltype-enumeration-office.md)
+##### [MsoLineJoinStyle](overview/Library-Reference/msolinejoinstyle-enumeration-office.md)
 ##### [MsoLineStyle](Office.MsoLineStyle.md)
 ##### [MsoMenuAnimation](Office.MsoMenuAnimation.md)
-##### [MsoMergeCmd](./overview/Library-Reference/msomergecmd-enumeration-office.md)
+##### [MsoMergeCmd](overview/Library-Reference/msomergecmd-enumeration-office.md)
 ##### [MsoMetaPropertyType](Office.MsoMetaPropertyType.md)
 ##### [MsoMixedType](Office.MsoMixedType.md)
-##### [MsoModeType](./overview/Library-Reference/msomodetype-enumeration-office.md)
+##### [MsoModeType](overview/Library-Reference/msomodetype-enumeration-office.md)
 ##### [MsoMoveRow](Office.MsoMoveRow.md)
 ##### [MsoNumberedBulletStyle](Office.MsoNumberedBulletStyle.md)
 ##### [MsoOLEMenuGroup](Office.MsoOLEMenuGroup.md)
@@ -37657,7 +37657,7 @@
 ##### [MsoPermission](Office.MsoPermission.md)
 ##### [MsoPickerField](Office.MsoPickerField.md)
 ##### [MsoPictureColorType](Office.MsoPictureColorType.md)
-##### [MsoPictureCompress](./overview/Library-Reference/msopicturecompress-enumeration-office.md)
+##### [MsoPictureCompress](overview/Library-Reference/msopicturecompress-enumeration-office.md)
 ##### [MsoPictureEffectType](Office.MsoPictureEffectType.md)
 ##### [MsoPresetCamera](Office.MsoPresetCamera.md)
 ##### [MsoPresetExtrusionDirection](Office.MsoPresetExtrusionDirection.md)
@@ -37674,7 +37674,7 @@
 ##### [MsoRelativeNodePosition](Office.MsoRelativeNodePosition.md)
 ##### [MsoScaleFrom](Office.MsoScaleFrom.md)
 ##### [MsoScreenSize](Office.MsoScreenSize.md)
-##### [MsoSearchIn](./overview/Library-Reference/msosearchin-enumeration-office.md)
+##### [MsoSearchIn](overview/Library-Reference/msosearchin-enumeration-office.md)
 ##### [MsoSegmentType](Office.MsoSegmentType.md)
 ##### [MsoShadowStyle](Office.MsoShadowStyle.md)
 ##### [MsoShadowType](Office.MsoShadowType.md)
@@ -37710,7 +37710,7 @@
 ##### [MsoTriState](Office.MsoTriState.md)
 ##### [MsoVerticalAnchor](Office.MsoVerticalAnchor.md)
 ##### [MsoWarpFormat](Office.MsoWarpFormat.md)
-##### [MsoWizardActType](./overview/Library-Reference/msowizardacttype-enumeration-office.md)
+##### [MsoWizardActType](overview/Library-Reference/msowizardacttype-enumeration-office.md)
 ##### [MsoWizardMsgType](Office.MsoWizardMsgType.md)
 ##### [MsoZOrderCmd](Office.MsoZOrderCmd.md)
 ##### [OutSpaceSlabStyle](Office.OutSpaceSlabStyle.md)

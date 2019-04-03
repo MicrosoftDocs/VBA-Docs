@@ -17,7 +17,7 @@ Returns or sets a  **Long** that specifies the amount of movement that occurs wh
 
 ## Syntax
 
-_expression_. **LargeChange**
+_expression_.**LargeChange**
 
 _expression_ A variable that represents a  **ScrollBar** object.
 

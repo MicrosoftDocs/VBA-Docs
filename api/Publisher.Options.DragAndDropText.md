@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. **DragAndDropText**
+ _expression_.**DragAndDropText**
 
  _expression_ A variable that represents a  **Options** object.
 

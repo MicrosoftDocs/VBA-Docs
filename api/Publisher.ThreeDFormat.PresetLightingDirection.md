@@ -19,7 +19,7 @@ Returns or sets an  **MsoPresetLightingDirection** constant that represents the 
 
 ## Syntax
 
- _expression_. **PresetLightingDirection**
+ _expression_.**PresetLightingDirection**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetLightingDirection
 
 ## Remarks
 
-The  **PresetLightingDirection** property value can be one of the ** [MsoPresetLightingDirection](Office.MsoPresetLightingDirection.md)** constants declared in the Microsoft Office type library.
+The  **PresetLightingDirection** property value can be one of the **[MsoPresetLightingDirection](Office.MsoPresetLightingDirection.md)** constants declared in the Microsoft Office type library.
 
 The lighting effects you set will not be apparent if the extrusion has a wireframe surface.
 

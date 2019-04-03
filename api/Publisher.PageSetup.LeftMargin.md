@@ -19,7 +19,7 @@ Returns a  **Variant** that represents the distance (in points) between the left
 
 ## Syntax
 
- _expression_. **LeftMargin**
+ _expression_.**LeftMargin**
 
  _expression_ A variable that represents a  **PageSetup** object.
 

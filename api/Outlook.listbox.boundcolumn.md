@@ -14,7 +14,7 @@ Returns or sets a  **Variant** that identifies the source of data in a multicolu
 
 ## Syntax
 
-_expression_. **BoundColumn**
+_expression_.**BoundColumn**
 
 _expression_ A variable that represents a  **ListBox** object.
 

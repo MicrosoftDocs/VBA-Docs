@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the starting character position of a
 
 ## Syntax
 
- _expression_. **Start**
+ _expression_.**Start**
 
  _expression_ A variable that represents a  **TextRange** object.
 

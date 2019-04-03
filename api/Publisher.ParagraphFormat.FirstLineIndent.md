@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the amount of space (measured in 
 
 ## Syntax
 
- _expression_. **FirstLineIndent**
+ _expression_.**FirstLineIndent**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

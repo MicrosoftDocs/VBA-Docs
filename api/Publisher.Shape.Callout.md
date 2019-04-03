@@ -19,7 +19,7 @@ Returns a  **[CalloutFormat](Publisher.CalloutFormat.md)** object representing t
 
 ## Syntax
 
- _expression_. **Callout**
+ _expression_.**Callout**
 
  _expression_ A variable that represents a  **Shape** object.
 

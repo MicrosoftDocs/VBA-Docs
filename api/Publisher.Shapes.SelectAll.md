@@ -19,7 +19,7 @@ Selects all the shapes in the specified  **[Shapes](Publisher.Shapes.md)** colle
 
 ## Syntax
 
- _expression_. **SelectAll**
+ _expression_.**SelectAll**
 
  _expression_ A variable that represents a  **Shapes** object.
 

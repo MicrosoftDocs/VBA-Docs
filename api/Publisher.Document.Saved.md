@@ -19,7 +19,7 @@ Returns  **True** if no changes have been made to a publication since it was las
 
 ## Syntax
 
- _expression_. **Saved**
+ _expression_.**Saved**
 
  _expression_ A variable that represents a  **Document** object.
 

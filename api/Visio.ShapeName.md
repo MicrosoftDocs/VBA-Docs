@@ -16,9 +16,9 @@ Gets the name of the shape at the specified index in the collection of shapes in
 
 ## Syntax
 
- _expression_. **ShapeName**(**_ShapeIndex_**)
+ _expression_.**ShapeName**(**_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

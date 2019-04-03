@@ -19,7 +19,7 @@ Returns a  **Variant** indicating the length (in points) of the first segment of
 
 ## Syntax
 
- _expression_. **Length**
+ _expression_.**Length**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 

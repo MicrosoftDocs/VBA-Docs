@@ -19,7 +19,7 @@ Returns or sets a  **String** representing the text displayed by a Web browser i
 
 ## Syntax
 
- _expression_. **AlternativeText**
+ _expression_.**AlternativeText**
 
  _expression_ A variable that represents a  **Shape** object.
 

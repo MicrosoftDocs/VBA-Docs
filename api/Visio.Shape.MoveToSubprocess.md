@@ -18,7 +18,7 @@ Moves the shape to the specified page and drops a replacement shape on the sourc
 
 ## Syntax
 
-_expression_. **MoveToSubprocess** (**_Page_**, **_ObjectToDrop_**, **_NewShape_**)
+_expression_.**MoveToSubprocess** (**_Page_**, **_ObjectToDrop_**, **_NewShape_**)
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

@@ -19,7 +19,7 @@ Returns an address from the default address book.
 
 ## Syntax
 
-_expression_. **GetAddress** (**_Name_**, **_AddressProperties_**, **_UseAutoText_**, **_DisplaySelectDialog_**, **_SelectDialog_**, **_CheckNamesDialog_**, **_RecentAddressesChoice_**, **_UpdateRecentAddresses_**)
+_expression_.**GetAddress** (**_Name_**, **_AddressProperties_**, **_UseAutoText_**, **_DisplaySelectDialog_**, **_SelectDialog_**, **_CheckNamesDialog_**, **_RecentAddressesChoice_**, **_UpdateRecentAddresses_**)
 
 _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object.
 

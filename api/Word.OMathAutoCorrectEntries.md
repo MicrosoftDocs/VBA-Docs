@@ -21,6 +21,6 @@ Represents a collection of math AutoCorrect entries. Use the  **[OMathAutoCorrec
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

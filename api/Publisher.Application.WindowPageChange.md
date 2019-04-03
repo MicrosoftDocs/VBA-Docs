@@ -19,7 +19,7 @@ Occurs when switching the view from one page to another page in a publication.
 
 ## Syntax
 
- _expression_. **WindowPageChange**(**_Vw_**, )
+ _expression_.**WindowPageChange**(**_Vw_**, )
 
  _expression_ A variable that represents an  **Application** object.
 

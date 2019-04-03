@@ -19,7 +19,7 @@ Returns a  **Long** that represents the number of times the catalog merge area w
 
 ## Syntax
 
- _expression_. **VerticalRepeat**
+ _expression_.**VerticalRepeat**
 
  _expression_ A variable that represents a  **CatalogMergeShapes** object.
 

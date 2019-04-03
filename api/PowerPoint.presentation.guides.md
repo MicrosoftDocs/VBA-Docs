@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Presentation.Guides property (PowerPoint)
 
-Returns the [Guides](./overview/PowerPoint.md) collection associated with a custom layout. Read-only.
+Returns the [Guides](overview/PowerPoint.md) collection associated with a custom layout. Read-only.
 
 
 ## Syntax

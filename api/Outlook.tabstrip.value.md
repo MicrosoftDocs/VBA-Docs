@@ -14,7 +14,7 @@ Returns or sets a  **Variant** that indicates the currently active tab. Read/wri
 
 ## Syntax
 
-_expression_. **Value**
+_expression_.**Value**
 
 _expression_ A variable that represents a  **TabStrip** object.
 

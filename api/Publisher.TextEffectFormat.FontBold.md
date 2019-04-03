@@ -19,14 +19,14 @@ Sets or returns an  **MsoTriState**constant that represents whether the font for
 
 ## Syntax
 
- _expression_. **FontBold**
+ _expression_.**FontBold**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
 
 ## Remarks
 
-The  **FontBold** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **FontBold** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

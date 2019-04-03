@@ -18,7 +18,7 @@ Highlights all found matches and returns a **Boolean** that represents whether m
 
 ## Syntax
 
-_expression_. **HitHighlight** (**_FindText_**, **_HighlightColor_**, **_TextColor_**, **_MatchCase_**, **_MatchWholeWord_**, **_MatchPrefix_**, **_MatchSuffix_**, **_MatchPhrase_**, **_MatchWildcards_**, **_MatchSoundsLike_**, **_MatchAllWordForms_**, **_MatchByte_**, **_MatchFuzzy_**, **_MatchKashida_**, **_MatchDiacritics_**, **_MatchAlefHamza_**, **_MatchControl_**, **_IgnoreSpace_**, **_IgnorePunct_**, **_HanjaPhoneticHangul_**)
+_expression_.**HitHighlight** (**_FindText_**, **_HighlightColor_**, **_TextColor_**, **_MatchCase_**, **_MatchWholeWord_**, **_MatchPrefix_**, **_MatchSuffix_**, **_MatchPhrase_**, **_MatchWildcards_**, **_MatchSoundsLike_**, **_MatchAllWordForms_**, **_MatchByte_**, **_MatchFuzzy_**, **_MatchKashida_**, **_MatchDiacritics_**, **_MatchAlefHamza_**, **_MatchControl_**, **_IgnoreSpace_**, **_IgnorePunct_**, **_HanjaPhoneticHangul_**)
 
 _expression_ An expression that returns a **Find** object.
 

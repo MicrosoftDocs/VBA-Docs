@@ -19,7 +19,7 @@ Returns a  **Long** that represents the number of colors in the specified linked
 
 ## Syntax
 
- _expression_. **OriginalColorsInPalette**
+ _expression_.**OriginalColorsInPalette**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

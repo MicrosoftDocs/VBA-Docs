@@ -19,7 +19,7 @@ Returns a  **[Pages](Publisher.Pages.md)** collection representing all the pages
 
 ## Syntax
 
- _expression_. **Pages**
+ _expression_.**Pages**
 
  _expression_ A variable that represents a  **Document** object.
 

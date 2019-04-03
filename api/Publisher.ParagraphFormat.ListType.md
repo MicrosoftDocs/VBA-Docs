@@ -19,7 +19,7 @@ Returns a  **PbListType** constant from the specified **ParagraphFormat** object
 
 ## Syntax
 
- _expression_. **ListType**
+ _expression_.**ListType**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

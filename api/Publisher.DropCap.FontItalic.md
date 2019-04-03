@@ -19,14 +19,14 @@ Sets or returns an  **MsoTriState**constant that represents whether the font for
 
 ## Syntax
 
- _expression_. **FontItalic**
+ _expression_.**FontItalic**
 
  _expression_ A variable that represents a  **DropCap** object.
 
 
 ## Remarks
 
-The  **FontItalic** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **FontItalic** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

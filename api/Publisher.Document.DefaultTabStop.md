@@ -19,7 +19,7 @@ Returns or sets a  **Variant** corresponding to the default tab stop for all tex
 
 ## Syntax
 
- _expression_. **DefaultTabStop**
+ _expression_.**DefaultTabStop**
 
  _expression_ A variable that represents a  **Document** object.
 

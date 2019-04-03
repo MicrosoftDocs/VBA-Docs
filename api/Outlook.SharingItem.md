@@ -253,7 +253,7 @@ End Sub
 ## See also
 
 
-[SharingItem Object Members](./overview/Outlook.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[SharingItem Object Members](overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

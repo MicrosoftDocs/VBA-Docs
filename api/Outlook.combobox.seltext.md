@@ -17,7 +17,7 @@ Returns or sets a  **String** that represents the selected text of a control. Re
 
 ## Syntax
 
-_expression_. **SelText**
+_expression_.**SelText**
 
 _expression_ A variable that represents a  **ComboBox** object.
 

@@ -19,7 +19,7 @@ Sets the BorderArt on the specified shape back to its default color.
 
 ## Syntax
 
- _expression_. **RevertToOriginalColor**
+ _expression_.**RevertToOriginalColor**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 

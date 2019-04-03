@@ -19,7 +19,7 @@ Sets the type of BorderArt applied to the specified shape.
 
 ## Syntax
 
- _expression_. **Set**(**_BorderArtName_**)
+ _expression_.**Set**(**_BorderArtName_**)
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 

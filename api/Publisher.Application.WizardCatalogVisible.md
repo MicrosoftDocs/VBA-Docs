@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** indicating whether the Wizard Catalog is visible.
 
 ## Syntax
 
- _expression_. **WizardCatalogVisible**
+ _expression_.**WizardCatalogVisible**
 
  _expression_ A variable that represents a  **Application** object.
 

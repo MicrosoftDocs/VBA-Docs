@@ -19,7 +19,7 @@ Returns an  **MsoTriState** constant indicating whether the specified linked pic
 
 ## Syntax
 
- _expression_. **OriginalIsTrueColor**
+ _expression_.**OriginalIsTrueColor**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

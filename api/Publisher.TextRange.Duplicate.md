@@ -19,7 +19,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a dupl
 
 ## Syntax
 
- _expression_. **Duplicate**
+ _expression_.**Duplicate**
 
  _expression_ A variable that represents a  **TextRange** object.
 

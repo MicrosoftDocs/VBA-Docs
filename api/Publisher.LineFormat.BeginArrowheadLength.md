@@ -19,7 +19,7 @@ Returns or sets an  **MsoArrowheadLength**constant indicating the length of the 
 
 ## Syntax
 
- _expression_. **BeginArrowheadLength**
+ _expression_.**BeginArrowheadLength**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -31,7 +31,7 @@ MsoArrowheadLength
 
 ## Remarks
 
-The  **BeginArrowheadLength** property value can be one of the ** [MsoArrowheadLength](Office.MsoArrowheadLength.md)** constants declared in the Microsoft Office type library.
+The  **BeginArrowheadLength** property value can be one of the **[MsoArrowheadLength](Office.MsoArrowheadLength.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[EndArrowheadLength](Publisher.LineFormat.EndArrowheadLength.md)** property to return or set the length of the arrowhead at the end of the line.
 

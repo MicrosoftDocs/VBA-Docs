@@ -19,7 +19,7 @@ Returns  **True** if the device represented by the parent **Printer** object is 
 
 ## Syntax
 
- _expression_. **IsDuplex**
+ _expression_.**IsDuplex**
 
  _expression_ A variable that represents a  **Printer** object.
 

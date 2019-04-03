@@ -19,7 +19,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** object that represents the 
 
 ## Syntax
 
- _expression_. **FindShapesByTag**(**_TagName_**)
+ _expression_.**FindShapesByTag**(**_TagName_**)
 
  _expression_ A variable that represents a  **Document** object.
 

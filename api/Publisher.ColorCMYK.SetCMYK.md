@@ -19,7 +19,7 @@ Sets a cyan-magenta-yellow-black (CMYK) color value.
 
 ## Syntax
 
- _expression_. **SetCMYK**(**_Cyan_**,  **_Magenta_**,  **_Yellow_**,  **_Black_**)
+ _expression_.**SetCMYK**(**_Cyan_**,  **_Magenta_**,  **_Yellow_**,  **_Black_**)
 
  _expression_ A variable that represents a  **ColorCMYK** object.
 

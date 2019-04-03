@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the resolution, in dots per inch (
 
 ## Syntax
 
- _expression_. **Resolution()**
+ _expression_.**Resolution()**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 

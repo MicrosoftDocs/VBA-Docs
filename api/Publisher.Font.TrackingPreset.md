@@ -19,7 +19,7 @@ Returns or sets a  **PbTrackingPresetType** constant representing the preset tra
 
 ## Syntax
 
- _expression_. **TrackingPreset**
+ _expression_.**TrackingPreset**
 
  _expression_ A variable that represents a  **Font** object.
 

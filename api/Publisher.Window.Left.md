@@ -19,7 +19,7 @@ Returns or sets a  **Long** indicating the position (in points) of the left edge
 
 ## Syntax
 
- _expression_. **Left**
+ _expression_.**Left**
 
  _expression_ A variable that represents a  **Window** object.
 

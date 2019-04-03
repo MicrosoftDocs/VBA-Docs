@@ -16,9 +16,9 @@ Occurs when the view of the current page is changed in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnViewChanged**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
+ _expression_.**OnViewChanged**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

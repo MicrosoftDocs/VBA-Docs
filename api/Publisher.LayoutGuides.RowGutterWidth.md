@@ -19,7 +19,7 @@ Returns or sets the width of the row gutters that are used by the  **LayoutGuide
 
 ## Syntax
 
- _expression_. **RowGutterWidth**
+ _expression_.**RowGutterWidth**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

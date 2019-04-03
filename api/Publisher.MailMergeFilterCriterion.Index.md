@@ -19,7 +19,7 @@ Returns a  **Long** that represents the position of a particular item in a speci
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_.**Index**
 
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 

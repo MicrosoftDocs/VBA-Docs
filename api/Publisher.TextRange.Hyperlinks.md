@@ -19,7 +19,7 @@ Returns a  **[Hyperlinks](Publisher.Hyperlinks.md)** collection representing all
 
 ## Syntax
 
- _expression_. **Hyperlinks**
+ _expression_.**Hyperlinks**
 
  _expression_ A variable that represents a  **TextRange** object.
 

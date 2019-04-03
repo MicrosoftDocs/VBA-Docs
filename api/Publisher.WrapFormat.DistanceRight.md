@@ -19,7 +19,7 @@ When the  **[Type](Publisher.WrapFormat.Type.md)** property of the **[WrapFormat
 
 ## Syntax
 
- _expression_. **DistanceRight**
+ _expression_.**DistanceRight**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 

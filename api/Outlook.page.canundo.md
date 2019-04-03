@@ -14,7 +14,7 @@ Returns a  **Boolean** that specifies whether the last user action can be undone
 
 ## Syntax
 
-_expression_. **CanUndo**
+_expression_.**CanUndo**
 
 _expression_ A variable that represents a  **Page** object.
 

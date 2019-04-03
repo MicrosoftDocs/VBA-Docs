@@ -19,7 +19,7 @@ Returns the number of lines of text in the text range represented by the parent 
 
 ## Syntax
 
- _expression_. **LinesCount**
+ _expression_.**LinesCount**
 
  _expression_ A variable that represents a  **TextRange** object.
 

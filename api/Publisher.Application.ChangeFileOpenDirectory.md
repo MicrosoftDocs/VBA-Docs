@@ -19,7 +19,7 @@ Sets the folder in which Microsoft Publisher searches for documents. The specifi
 
 ## Syntax
 
- _expression_. **ChangeFileOpenDirectory**(**_Dir_**)
+ _expression_.**ChangeFileOpenDirectory**(**_Dir_**)
 
  _expression_ A variable that represents an  **Application** object.
 

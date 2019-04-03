@@ -19,7 +19,7 @@ A  **ContentControlListEntry** object represents a list item in a drop-down list
 
 ## Remarks
 
-Use the  **[Add](Word.ContentControlListEntries.Add.md)** method of the **ContentControlListEntries** collection to create a new **ContentControlListEntry** object. Use the **[Item](./overview/Word.md)** method, or **[DropdownListEntries](Word.ContentControl.DropdownListEntries.md)** (Index), where Index is the ordinal position of the content control list item, to access an individual list item within the **ContentControlListEntries** collection.
+Use the  **[Add](Word.ContentControlListEntries.Add.md)** method of the **ContentControlListEntries** collection to create a new **ContentControlListEntry** object. Use the **[Item](overview/Word.md)** method, or **[DropdownListEntries](Word.ContentControl.DropdownListEntries.md)** (Index), where Index is the ordinal position of the content control list item, to access an individual list item within the **ContentControlListEntries** collection.
 
 
  **Note**  List entries must have unique display names. Attempting to add a list item that already exists raises a run-time error.
@@ -178,6 +178,6 @@ Next
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XMLNode.NodeType property (Word)
 
-Returns a  **[WdXMLNodeType](./overview/Word.md)** constant that represents the type of node.
+Returns a  **[WdXMLNodeType](overview/Word.md)** constant that represents the type of node.
 
 
 ## Syntax

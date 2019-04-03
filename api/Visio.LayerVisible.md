@@ -16,9 +16,9 @@ Gets or sets a value that indicates whether the specified layer is visible in th
 
 ## Syntax
 
- _expression_. **LayerVisible**(**_LayerIndex_**)
+ _expression_.**LayerVisible**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

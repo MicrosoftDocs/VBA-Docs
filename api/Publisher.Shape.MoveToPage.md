@@ -19,7 +19,7 @@ Moves a shape to the specified page.
 
 ## Syntax
 
- _expression_. **MoveToPage**(**_Page_**,  **_Left_**,  **_Top_**)
+ _expression_.**MoveToPage**(**_Page_**,  **_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

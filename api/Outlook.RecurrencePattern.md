@@ -82,7 +82,7 @@ Note that even after you release your reference and attempt to obtain a new refe
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[RecurrencePattern Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[RecurrencePattern Object Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Splits a merged table cell back into its constituent cells. Returns a  **[CellRa
 
 ## Syntax
 
- _expression_. **Split**
+ _expression_.**Split**
 
  _expression_ A variable that represents a  **Cell** object.
 

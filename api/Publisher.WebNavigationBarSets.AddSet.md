@@ -19,7 +19,7 @@ Adds a new  **WebNavigationBarSet** object representing a Web navigation bar set
 
 ## Syntax
 
- _expression_. **AddSet**(**_Name_**,  **_Design_**,  **_AutoUpdate_**)
+ _expression_.**AddSet**(**_Name_**,  **_Design_**,  **_AutoUpdate_**)
 
  _expression_ A variable that represents a  **WebNavigationBarSets** object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the number of letters included in th
 
 ## Syntax
 
- _expression_. **Span**
+ _expression_.**Span**
 
  _expression_ A variable that represents a  **DropCap** object.
 

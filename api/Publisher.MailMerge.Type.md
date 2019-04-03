@@ -19,9 +19,9 @@ Gets or sets the type of mail merge represented by the parent  **MailMerge** obj
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
- _expression_An expression that returns a  **MailMerge** object.
+ _expression_ An expression that returns a  **MailMerge** object.
 
 
 ## Return value

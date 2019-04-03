@@ -17,7 +17,7 @@ Returns or sets a  **[pbLigaturePresetType](Publisher.pbligaturepresettype.md)**
 
 ## Syntax
 
- _expression_. **Ligature**
+ _expression_.**Ligature**
 
  _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 

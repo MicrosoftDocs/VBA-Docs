@@ -14,7 +14,7 @@ Returns or sets a  **String**that represents the additional criteria to add to t
 
 ## Syntax
 
- _expression_. **FilterAppend**
+ _expression_.**FilterAppend**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

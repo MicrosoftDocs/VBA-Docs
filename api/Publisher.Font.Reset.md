@@ -19,7 +19,7 @@ Removes manual paragraph or text formatting from the specified object and leaves
 
 ## Syntax
 
- _expression_. **Reset**
+ _expression_.**Reset**
 
  _expression_ A variable that represents a  **Font** object.
 

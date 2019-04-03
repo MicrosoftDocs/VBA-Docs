@@ -19,7 +19,7 @@ Returns a  **Single** that represents the printable rectangle. Read-only.
 
 ## Syntax
 
- _expression_. **Width**
+ _expression_.**Width**
 
  _expression_ A variable that represents a  **PrintableRect** object.
 

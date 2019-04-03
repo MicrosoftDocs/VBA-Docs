@@ -19,7 +19,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape asso
 
 ## Syntax
 
- _expression_. **Shape**
+ _expression_.**Shape**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

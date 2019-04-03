@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PbDriverType enumeration (Publisher)
 
-Driver-type constants returned by the  ** [Printer.DriverType](Publisher.Printer.DriverType.md)** property.
+Driver-type constants returned by the  **[Printer.DriverType](Publisher.Printer.DriverType.md)** property.
 
 
 

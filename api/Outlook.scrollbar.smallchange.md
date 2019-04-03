@@ -17,7 +17,7 @@ Returns or sets an  **Integer** that specifies the amount of movement that occur
 
 ## Syntax
 
-_expression_. **SmallChange**
+_expression_.**SmallChange**
 
 _expression_ A variable that represents a  **ScrollBar** object.
 

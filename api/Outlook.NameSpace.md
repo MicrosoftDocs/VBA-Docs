@@ -95,8 +95,8 @@ The only data source supported is MAPI, which allows access to all Outlook data 
 ## See also
 
 
-[NameSpace Object Members](./overview/Outlook.md)
+[NameSpace Object Members](overview/Outlook.md)
 [How to: Obtain and Log On to an Instance of Outlook](../outlook/How-to/Security/obtain-and-log-on-to-an-instance-of-outlook.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

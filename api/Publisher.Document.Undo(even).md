@@ -19,7 +19,7 @@ Occurs when a user undoes the last action performed.
 
 ## Syntax
 
- _expression_. **Undo**
+ _expression_.**Undo**
 
  _expression_ A variable that represents a  **Document** object.
 

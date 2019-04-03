@@ -19,7 +19,7 @@ Deletes an  **Attachment** object from the **Attachments** collection of an emai
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_.**Delete**
 
  _expression_ A variable that represents an  **Attachment** object.
 

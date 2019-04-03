@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Shape.MoveIntoTextFlow method (Publisher)
 
-Moves a given shape into the text flow defined by  ** [TextRange Object](Publisher.TextRange.md)**. The shape will always be inserted inline at the beginning of the text flow.
+Moves a given shape into the text flow defined by  **[TextRange Object](Publisher.TextRange.md)**. The shape will always be inserted inline at the beginning of the text flow.
 
 
 ## Syntax
 
- _expression_. **MoveIntoTextFlow**(**_Range_**)
+ _expression_.**MoveIntoTextFlow**(**_Range_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

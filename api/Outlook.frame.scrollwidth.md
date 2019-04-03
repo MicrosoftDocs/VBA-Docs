@@ -17,7 +17,7 @@ Returns or sets a  **Single** that specify the width, in points, of the total ar
 
 ## Syntax
 
-_expression_. **ScrollWidth**
+_expression_.**ScrollWidth**
 
 _expression_ A variable that represents a  **Frame** object.
 

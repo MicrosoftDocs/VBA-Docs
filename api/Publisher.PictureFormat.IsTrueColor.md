@@ -19,7 +19,7 @@ Returns an  **MsoTriState** constant indicating whether the specified picture or
 
 ## Syntax
 
- _expression_. **IsTrueColor**
+ _expression_.**IsTrueColor**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

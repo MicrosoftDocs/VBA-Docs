@@ -16,9 +16,9 @@ Gets or sets the color of the page in the current drawing that is open in Micros
 
 ## Syntax
 
- _expression_. **PageColor**
+ _expression_.**PageColor**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value

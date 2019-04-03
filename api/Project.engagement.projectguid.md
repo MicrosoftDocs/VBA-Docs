@@ -22,6 +22,6 @@ _expression_. `ProjectGuid`
 ## See also
 
 
-[Engagement Object](./overview/Project.md)
+[Engagement Object](overview/Project.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

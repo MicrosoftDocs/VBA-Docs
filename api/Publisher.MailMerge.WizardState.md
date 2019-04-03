@@ -19,7 +19,7 @@ Returns or sets a  **Long** indicating the current Mail Merge wizard step for a 
 
 ## Syntax
 
- _expression_. **WizardState**
+ _expression_.**WizardState**
 
  _expression_ A variable that represents a  **MailMerge** object.
 

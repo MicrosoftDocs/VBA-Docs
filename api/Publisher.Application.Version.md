@@ -19,7 +19,7 @@ Returns a  **String** indicating the version number of the currently-installed c
 
 ## Syntax
 
- _expression_. **Version**
+ _expression_.**Version**
 
  _expression_ A variable that represents a  **Application** object.
 

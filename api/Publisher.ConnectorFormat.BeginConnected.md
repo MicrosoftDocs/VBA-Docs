@@ -19,7 +19,7 @@ Returns an  **MsoTriState**constant indicating whether the beginning of the spec
 
 ## Syntax
 
- _expression_. **BeginConnected**
+ _expression_.**BeginConnected**
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 
@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The  **BeginConnected** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **BeginConnected** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[EndConnected](Publisher.ConnectorFormat.EndConnected.md)** property to determine if the end of a connector is connected to a shape.
 

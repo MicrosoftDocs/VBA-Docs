@@ -19,14 +19,14 @@ Returns an  **MsoPatternType** constant that represents the pattern applied to t
 
 ## Syntax
 
- _expression_. **Pattern**
+ _expression_.**Pattern**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
 
 ## Remarks
 
-The  **Pattern** property value can be one of the ** [MsoPatternType](Office.MsoPatternType.md)** constants declared in the Microsoft Office type library.
+The  **Pattern** property value can be one of the **[MsoPatternType](Office.MsoPatternType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

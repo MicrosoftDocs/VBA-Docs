@@ -19,7 +19,7 @@ Returns a  **[Columns](Publisher.Columns.md)** collection that represents all th
 
 ## Syntax
 
- _expression_. **Columns**
+ _expression_.**Columns**
 
  _expression_ A variable that represents a  **Table** object.
 

@@ -19,7 +19,7 @@ Returns or sets  **msoTrue** if the font is formatted as all capital letters, or
 
 ## Syntax
 
- _expression_. **AllCaps**
+ _expression_.**AllCaps**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -33,7 +33,7 @@ MsoTriState
 
 Setting the  **AllCaps** property to **msoTrue** sets the **SmallCaps** property to **msoFalse**, and vice versa.
 
-The  **AllCaps** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **AllCaps** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

@@ -78,6 +78,6 @@ If an appointment item was originally created with a time zone value that no lon
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

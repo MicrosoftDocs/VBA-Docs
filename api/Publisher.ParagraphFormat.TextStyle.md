@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the text style applied to a parag
 
 ## Syntax
 
- _expression_. **TextStyle**
+ _expression_.**TextStyle**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

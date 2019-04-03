@@ -14,7 +14,7 @@ Creates and displays a new meeting request.
 
 ## Syntax
 
- _expression_. **NewMeetingRequest**
+ _expression_.**NewMeetingRequest**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

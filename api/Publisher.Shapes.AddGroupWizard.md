@@ -19,7 +19,7 @@ Adds a  **Shape** object representing a Design Gallery object to the publication
 
 ## Syntax
 
- _expression_. **AddGroupWizard**(**_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
+ _expression_.**AddGroupWizard**(**_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

@@ -16,9 +16,9 @@ Specifies the page number of the last page in the range when you save a range of
 
 ## Syntax
 
- _expression_. **EndPage**
+ _expression_.**EndPage**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
 
 
 ## Return value

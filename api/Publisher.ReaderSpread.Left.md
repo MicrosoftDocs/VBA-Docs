@@ -19,7 +19,7 @@ Returns a  **Single** indicating the position (in points) of the left edge of th
 
 ## Syntax
 
- _expression_. **Left**
+ _expression_.**Left**
 
  _expression_ A variable that represents a  **ReaderSpread** object.
 

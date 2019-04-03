@@ -19,7 +19,7 @@ Returns or sets an  **MsoPresetMaterial** constant that represents the extrusion
 
 ## Syntax
 
- _expression_. **PresetMaterial**
+ _expression_.**PresetMaterial**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetMaterial
 
 ## Remarks
 
-The  **PresetMaterial** property value can be one of the ** [MsoPresetMaterial](Office.MsoPresetMaterial.md)** constants declared in the Microsoft Office type library.
+The  **PresetMaterial** property value can be one of the **[MsoPresetMaterial](Office.MsoPresetMaterial.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. **IsTwoPageMaster**
+ _expression_.**IsTwoPageMaster**
 
  _expression_ A variable that represents an  **Page** object.
 

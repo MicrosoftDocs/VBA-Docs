@@ -104,6 +104,6 @@ Set myPage = myPages.Add("General")
 
 ## See also
 
-- [Object model (Outlook)](./overview/Outlook/object-model.md)
+- [Object model (Outlook)](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Specifies whether all characters (both uppercase and lowercase) in the specified
 
 ## Syntax
 
- _expression_. **NormalizedHeight**
+ _expression_.**NormalizedHeight**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

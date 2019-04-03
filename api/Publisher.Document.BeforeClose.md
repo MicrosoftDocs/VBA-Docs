@@ -19,7 +19,7 @@ Occurs immediately before any open document closes.
 
 ## Syntax
 
- _expression_. **BeforeClose**(**_Cancel_**)
+ _expression_.**BeforeClose**(**_Cancel_**)
 
  _expression_ A variable that represents a  **Document** object.
 

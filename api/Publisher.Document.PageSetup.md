@@ -19,7 +19,7 @@ Returns a  **[PageSetup](Publisher.PageSetup.md)** object representing a publica
 
 ## Syntax
 
- _expression_. **PageSetup**
+ _expression_.**PageSetup**
 
  _expression_ A variable that represents a  **Document** object.
 

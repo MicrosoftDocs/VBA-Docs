@@ -19,7 +19,7 @@ Gets or sets the printer represented by the parent  **[Printer](Publisher.Printe
 
 ## Syntax
 
- _expression_. **IsActivePrinter**
+ _expression_.**IsActivePrinter**
 
  _expression_ A variable that represents a  **Printer** object.
 

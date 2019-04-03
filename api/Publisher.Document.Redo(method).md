@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Document.Redo method (Publisher)
 
-Redoes the last action or a specified number of actions. Corresponds to the list of items that appears when you click the arrow beside the  **Redo** button on the **Standard** toolbar. Calling this method reverses the ** [Undo Method](Publisher.Document.Undo(method).md)** method.
+Redoes the last action or a specified number of actions. Corresponds to the list of items that appears when you click the arrow beside the  **Redo** button on the **Standard** toolbar. Calling this method reverses the **[Undo Method](Publisher.Document.Undo(method).md)** method.
 
 
 ## Syntax
 
- _expression_. **Redo**(**_Count_**)
+ _expression_.**Redo**(**_Count_**)
 
  _expression_ A variable that represents a  **Document** object.
 

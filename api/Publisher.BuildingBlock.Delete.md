@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # BuildingBlock.Delete method (Publisher)
 
-Deletes the specified  **BuildingBlock** object from the **[BuildingBlocks](Publisher.BuildingBlocks.md)** collection returned by the ** [Document.AvailableBuildingBlocks](Publisher.document.availablebuildingblocks.md)** property for the current document.
+Deletes the specified  **BuildingBlock** object from the **[BuildingBlocks](Publisher.BuildingBlocks.md)** collection returned by the **[Document.AvailableBuildingBlocks](Publisher.document.availablebuildingblocks.md)** property for the current document.
 
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_.**Delete**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

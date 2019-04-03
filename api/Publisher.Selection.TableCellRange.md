@@ -19,7 +19,7 @@ Returns a  **CellRange** object that represents the cells in a table selection.
 
 ## Syntax
 
- _expression_. **TableCellRange**
+ _expression_.**TableCellRange**
 
  _expression_ A variable that represents a  **Selection** object.
 

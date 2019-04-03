@@ -19,7 +19,7 @@ Returns an  **[OLEFormat](Publisher.OLEFormat.md)** object that contains OLE for
 
 ## Syntax
 
- _expression_. **OLEFormat**
+ _expression_.**OLEFormat**
 
  _expression_ A variable that represents a  **Shape** object.
 

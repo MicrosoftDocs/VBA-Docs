@@ -139,6 +139,6 @@ Use one of the following methods to insert characters into a  **TextRange** obje
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

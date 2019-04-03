@@ -19,7 +19,7 @@ Returns or sets a  **Variant** indicating the amount by which the top edge of a 
 
 ## Syntax
 
- _expression_. **CropTop**
+ _expression_.**CropTop**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

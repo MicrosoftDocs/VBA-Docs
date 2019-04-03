@@ -17,7 +17,7 @@ Returns or sets the degree of transparency for the glow effect as a value betwee
 
 ## Syntax
 
- _expression_. **Transparency**
+ _expression_.**Transparency**
 
  _expression_ A variable that represents a  **GlowFormat** object.
 

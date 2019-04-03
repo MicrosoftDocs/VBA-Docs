@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState**constant indicating whether the text in the s
 
 ## Syntax
 
- _expression_. **Border**
+ _expression_.**Border**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The  **Border** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **Border** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

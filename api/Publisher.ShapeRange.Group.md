@@ -19,7 +19,7 @@ Groups the shapes in the specified shape range. Returns the grouped shapes as a 
 
 ## Syntax
 
- _expression_. **Group**
+ _expression_.**Group**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

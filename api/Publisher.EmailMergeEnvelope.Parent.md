@@ -19,7 +19,7 @@ Returns the parent of the  **[EmailMergeEnvelope](Publisher.EmailMergeEnvelope.m
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 

@@ -16,9 +16,9 @@ Specifies the path where the Web page and its supporting files are placed. Read/
 
 ## Syntax
 
- _expression_. **TargetPath**
+ _expression_.**TargetPath**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
 
 
 ## Return value

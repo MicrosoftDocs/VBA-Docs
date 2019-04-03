@@ -14,7 +14,7 @@ Returns or sets a  **Long** that specifies the maximum and minimum acceptable va
 
 ## Syntax
 
-_expression_. **Min**
+_expression_.**Min**
 
 _expression_ A variable that represents a  **SpinButton** object.
 

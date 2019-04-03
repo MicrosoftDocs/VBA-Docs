@@ -19,7 +19,7 @@ Sets or returns a  **PageBackground** object representing the background of the 
 
 ## Syntax
 
- _expression_. **Background**
+ _expression_.**Background**
 
  _expression_ A variable that represents a  **Page** object.
 

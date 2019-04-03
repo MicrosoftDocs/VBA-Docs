@@ -19,7 +19,7 @@ Returns a  **[TextStyles](Publisher.TextStyles.md)** collection that contains a 
 
 ## Syntax
 
- _expression_. **TextStyles**
+ _expression_.**TextStyles**
 
  _expression_ A variable that represents a  **Document** object.
 

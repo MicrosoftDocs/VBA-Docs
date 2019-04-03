@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that specifies whether a link to a Web page
 
 ## Syntax
 
- _expression_. **IncludePageOnNewWebNavigationBars**
+ _expression_.**IncludePageOnNewWebNavigationBars**
 
  _expression_ A variable that represents an  **WebPageOptions** object.
 
@@ -37,7 +37,7 @@ Setting this property to  **False** does not remove links to the specified page 
 
 Setting this property to  **True** applies only to automatic navigation bars of new pages, and does not update existing automatic navigation bars within the Web publication.
 
-When adding a new page to the Web publication by using the  ** [Pages.Add](Publisher.Pages.Add.md)** method, the optional **AddHyperlinkToWebNavBar** parameter can be used to specify whether links to the new page will be added to existing automatic navigation bars. The value of this parameter is used to populate the value of the **IncludePageOnNewWebNavigationBars** property.
+When adding a new page to the Web publication by using the  **[Pages.Add](Publisher.Pages.Add.md)** method, the optional **AddHyperlinkToWebNavBar** parameter can be used to specify whether links to the new page will be added to existing automatic navigation bars. The value of this parameter is used to populate the value of the **IncludePageOnNewWebNavigationBars** property.
 
 
 ## Example

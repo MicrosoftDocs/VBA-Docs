@@ -19,7 +19,7 @@ Returns or sets a  **PbTableDirectionType** constant that represents whether tex
 
 ## Syntax
 
- _expression_. **TableDirection**
+ _expression_.**TableDirection**
 
  _expression_ A variable that represents a  **Table** object.
 

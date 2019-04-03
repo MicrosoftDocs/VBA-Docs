@@ -19,7 +19,7 @@ Sets the editing type of the specified node. If the node is a control point for 
 
 ## Syntax
 
- _expression_. **SetEditingType**(**_Index_**,  **_EditingType_**)
+ _expression_.**SetEditingType**(**_Index_**,  **_EditingType_**)
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 

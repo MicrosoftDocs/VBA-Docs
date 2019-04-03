@@ -19,9 +19,9 @@ Read/write
 
 ## Syntax
 
- _expression_. **PrintMode**
+ _expression_.**PrintMode**
 
- _expression_An expression that returns a  **[Printer](Publisher.Printer.md)** object.
+ _expression_ An expression that returns a  **[Printer](Publisher.Printer.md)** object.
 
 
 ## Return value

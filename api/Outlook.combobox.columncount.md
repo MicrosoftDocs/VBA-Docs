@@ -17,7 +17,7 @@ Returns or sets a  **Long** that represents the number of columns to display in 
 
 ## Syntax
 
-_expression_. **ColumnCount**
+_expression_.**ColumnCount**
 
 _expression_ A variable that represents a  **ComboBox** object.
 

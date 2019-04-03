@@ -68,6 +68,6 @@ ActiveDocument.Tables(1).Rows(1).Shading.Texture = _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

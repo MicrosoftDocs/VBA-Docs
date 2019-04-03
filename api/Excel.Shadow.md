@@ -23,7 +23,7 @@ _expression_. `Shadow`
  _expression_ Required. An expression that returns one of the above objects.
 Shadow property as it applies to the  **Font** object.
 True if the font is a shadow font or if the specified object has a shadow. Read/write Variant.
-_expression_. **Shadow**
+_expression_.**Shadow**
  _expression_ Required. An expression that returns one of the above objects.
 
 ## Remarks

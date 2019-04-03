@@ -25,9 +25,9 @@ Outlook provides several built-in  **CalendarView** objects, and you can also cr
 
 The  **CalendarView** object supports several different view modes, depending on the desired layout and time period in which to display Outlook items. Use the **[CalendarViewMode](Outlook.CalendarView.CalendarViewMode.md)** property to set the view mode, the **[StartField](Outlook.CalendarView.StartField.md)** property to specify the Outlook item property that contains the start date, and the **[EndField](Outlook.CalendarView.EndField.md)** property to specify the Outlook item property that contains the end date for Outlook items to be displayed.
 
-If you set the  **CalendarViewMode** property to any value other than **olCalendarViewMonth**, you can use the **[DayWeekFont](./overview/Outlook.md)** and **[DayWeekTimeFont](./overview/Outlook.md)** properties to configure the fonts used to display the day, date, and time labels in the view. Use the **[DayWeekTimeScale](Outlook.CalendarView.DayWeekTimeScale.md)** to configure the time scale used to display Outlook items within the view. If you set the **CalendarViewMode** to **olCalendarViewMultiDay**, you can use the **[DaysInMultiDayMode](Outlook.CalendarView.DaysInMultiDayMode.md)** property to determine the number of days to display in the view.
+If you set the  **CalendarViewMode** property to any value other than **olCalendarViewMonth**, you can use the **[DayWeekFont](overview/Outlook.md)** and **[DayWeekTimeFont](overview/Outlook.md)** properties to configure the fonts used to display the day, date, and time labels in the view. Use the **[DayWeekTimeScale](Outlook.CalendarView.DayWeekTimeScale.md)** to configure the time scale used to display Outlook items within the view. If you set the **CalendarViewMode** to **olCalendarViewMultiDay**, you can use the **[DaysInMultiDayMode](Outlook.CalendarView.DaysInMultiDayMode.md)** property to determine the number of days to display in the view.
 
-If you set the  **CalendarViewMode** to **olCalendarViewMonth**, you can use the **[MonthFont](./overview/Outlook.md)** property to configure the fonts used to display the month and day labels and the **[MonthShowEndTime](Outlook.CalendarView.MonthShowEndTime.md)** to indicate whether the end time for is displayed in the view.
+If you set the  **CalendarViewMode** to **olCalendarViewMonth**, you can use the **[MonthFont](overview/Outlook.md)** property to configure the fonts used to display the month and day labels and the **[MonthShowEndTime](Outlook.CalendarView.MonthShowEndTime.md)** to indicate whether the end time for is displayed in the view.
 
 You can also configure how Outlook items appear within the  **CalendarView** object. Use the **[BoldSubjects](Outlook.CalendarView.BoldSubjects.md)** property to indicate whether subjects for Outlook items are displayed in bold and the **[BoldDatesWithItems](Outlook.CalendarView.BoldDatesWithItems.md)** property to indicate whether dates in the Date Navigator that contain Outlook items are displayed in bold. Use the **[Filter](Outlook.CalendarView.Filter.md)** property to determine which Outlook items to display in the view.
 
@@ -81,7 +81,7 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[CalendarView Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[CalendarView Object Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Sets or returns a  **Long** that represents the cyan component of a CMYK color. 
 
 ## Syntax
 
- _expression_. **Cyan**
+ _expression_.**Cyan**
 
  _expression_ A variable that represents a  **ColorCMYK** object.
 

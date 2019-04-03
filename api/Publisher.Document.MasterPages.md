@@ -19,7 +19,7 @@ Returns the  **[MasterPages](Publisher.MasterPages.md)** collection for the spec
 
 ## Syntax
 
- _expression_. **MasterPages**
+ _expression_.**MasterPages**
 
  _expression_ A variable that represents a  **Document** object.
 

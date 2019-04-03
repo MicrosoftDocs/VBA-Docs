@@ -19,7 +19,7 @@ Creates a duplicate of the specified  **[ParagraphFormat](Publisher.ParagraphFor
 
 ## Syntax
 
- _expression_. **Duplicate**
+ _expression_.**Duplicate**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

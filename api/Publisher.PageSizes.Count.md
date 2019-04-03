@@ -19,7 +19,7 @@ Returns the number of  **PageSize** objects in the **PageSizes** collection of t
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **PageSizes** collection.
 

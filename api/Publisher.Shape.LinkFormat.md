@@ -19,7 +19,7 @@ Returns a  [LinkFormat](Publisher.LinkFormat.md)object that contains the propert
 
 ## Syntax
 
- _expression_. **LinkFormat**
+ _expression_.**LinkFormat**
 
  _expression_ A variable that represents a  **Shape** object.
 

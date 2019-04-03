@@ -19,7 +19,7 @@ Returns an  **MsoCalloutDropType** constant indicating where the callout line at
 
 ## Syntax
 
- _expression_. **DropType**
+ _expression_.**DropType**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -31,7 +31,7 @@ MsoCalloutDropType
 
 ## Remarks
 
-The  **DropType** property value can be one of the ** [MsoCalloutDropType](Office.MsoCalloutDropType.md)** constants declared in the Microsoft Office type library.
+The  **DropType** property value can be one of the **[MsoCalloutDropType](Office.MsoCalloutDropType.md)** constants declared in the Microsoft Office type library.
 
 If the callout drop type is  **msoCalloutDropCustom**, the values of the  **[Drop](Publisher.CalloutFormat.Drop.md)** and  **[AutoAttach](Publisher.CalloutFormat.AutoAttach.md)** properties and the relative positions of the callout text box and callout line origin (where the callout points) are used to determine where the callout line attaches to the text box.
 

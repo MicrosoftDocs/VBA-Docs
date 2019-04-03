@@ -19,7 +19,7 @@ Returns an individual  **Cell** object in the specified **CellRange** collection
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **CellRange** object.
 

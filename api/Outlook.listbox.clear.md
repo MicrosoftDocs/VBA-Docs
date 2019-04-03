@@ -14,7 +14,7 @@ Removes all entries in the list in a  **[ListBox](Outlook.listbox.md)**.
 
 ## Syntax
 
-_expression_. **Clear**
+_expression_.**Clear**
 
 _expression_ A variable that represents a  **ListBox** object.
 

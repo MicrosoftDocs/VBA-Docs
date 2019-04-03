@@ -19,7 +19,7 @@ Returns a  **String** that represents the file name of the specified picture or 
 
 ## Syntax
 
- _expression_. **Filename**
+ _expression_.**Filename**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

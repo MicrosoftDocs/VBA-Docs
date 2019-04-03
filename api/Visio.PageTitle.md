@@ -16,9 +16,9 @@ Specifies the name of the Web page as it appears in the browser's title bar. Rea
 
 ## Syntax
 
- _expression_. **PageTitle**
+ _expression_.**PageTitle**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
 
 
 ## Return value

@@ -19,7 +19,7 @@ Returns a  **ColorCMYK** object that represents CMYK color properties.
 
 ## Syntax
 
- _expression_. **CMYK**
+ _expression_.**CMYK**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

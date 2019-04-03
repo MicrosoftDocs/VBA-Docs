@@ -19,7 +19,7 @@ Specifies how many scope replacements are to be made: one, all, or none. Read/wr
 
 ## Syntax
 
- _expression_. **ReplaceScope**
+ _expression_.**ReplaceScope**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

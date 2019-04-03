@@ -17,7 +17,7 @@ Returns or sets a  **Single** that represents the depth of the bottom bevel. Rea
 
 ## Syntax
 
- _expression_. **BevelBottomDepth**
+ _expression_.**BevelBottomDepth**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

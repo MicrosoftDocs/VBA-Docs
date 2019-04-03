@@ -32,7 +32,7 @@ _expression_. `AddPicture2`( `_FileName_`, `_LinkToFile_`, `_SaveWithDocument_`,
 | _Top_|Required|**Single**|The position, measured in points, of the top edge of the picture relative to the top edge of the slide.|
 | _Width_|Optional|**Single**|The width of the picture, measured in points.|
 | _Height_|Optional|**Single**|The height of the picture, measured in points.|
-| _compress_|Optional|[MsoPictureCompress](./overview/Library-Reference/msopicturecompress-enumeration-office.md)|Determines whether the picture should be compressed when inserted.|
+| _compress_|Optional|[MsoPictureCompress](overview/Library-Reference/msopicturecompress-enumeration-office.md)|Determines whether the picture should be compressed when inserted.|
 
 ## Return value
 

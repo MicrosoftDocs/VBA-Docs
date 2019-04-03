@@ -24,7 +24,7 @@ _expression_. `Capabilities`
 
 ## Remarks
 
-The  **Capabilities** property can return the following[MSOBroadcastCapabilities](./overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md) values:
+The  **Capabilities** property can return the following[MSOBroadcastCapabilities](overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md) values:
 
 
 

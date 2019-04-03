@@ -19,7 +19,7 @@ Appends a string to the beginning of the specified text range. Returns a  **Text
 
 ## Syntax
 
- _expression_. **InsertBefore**(**_NewText_**)
+ _expression_.**InsertBefore**(**_NewText_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

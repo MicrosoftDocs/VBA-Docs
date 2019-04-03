@@ -24,7 +24,7 @@ Returns or sets a  **[pbNumberStyles](Publisher.pbnumberstylestype.md)** constan
 
 ## Return Value
 
- ** [pbNumberStyles](Publisher.pbnumberstylestype.md)**
+ **[pbNumberStyles](Publisher.pbnumberstylestype.md)**
 
 
 ## Remarks

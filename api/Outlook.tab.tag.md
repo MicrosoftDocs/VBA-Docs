@@ -14,7 +14,7 @@ Returns or sets a  **String** that specifies additional information about an obj
 
 ## Syntax
 
-_expression_. **Tag**
+_expression_.**Tag**
 
 _expression_ A variable that represents a  **Tab** object.
 

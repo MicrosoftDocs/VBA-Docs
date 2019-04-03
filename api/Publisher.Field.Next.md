@@ -19,7 +19,7 @@ Returns a  **[Field](Publisher.Field.md)** object that represents the next field
 
 ## Syntax
 
- _expression_. **Next**
+ _expression_.**Next**
 
  _expression_ A variable that represents a  **Field** object.
 

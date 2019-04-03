@@ -17,7 +17,7 @@ Returns or sets an  **Integer** that specifies the position of a **[Page](Outloo
 
 ## Syntax
 
-_expression_. **Index**
+_expression_.**Index**
 
 _expression_ A variable that represents a  **Page** object.
 

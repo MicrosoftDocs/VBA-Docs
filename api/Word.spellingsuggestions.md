@@ -37,6 +37,6 @@ You cannot add suggestions to or remove suggestions from the collection of spell
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

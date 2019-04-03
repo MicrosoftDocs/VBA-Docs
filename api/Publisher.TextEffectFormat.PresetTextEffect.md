@@ -19,7 +19,7 @@ Returns or sets an  **MsoPresetTextEffect** constant that represents the style o
 
 ## Syntax
 
- _expression_. **PresetTextEffect**
+ _expression_.**PresetTextEffect**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetTextEffect
 
 ## Remarks
 
-The  **PresetTextEffect** property value can be one of the ** [MsoPresetTextEffect](Office.MsoPresetTextEffect.md)** constants declared in the Microsoft Office type library.
+The  **PresetTextEffect** property value can be one of the **[MsoPresetTextEffect](Office.MsoPresetTextEffect.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns an object that represents the parent object of the specified object. For
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents a  **DropCap** object.
 

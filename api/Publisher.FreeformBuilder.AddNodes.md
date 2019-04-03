@@ -19,7 +19,7 @@ Inserts a new segment at the end of the freeform that is being created, and adds
 
 ## Syntax
 
- _expression_. **AddNodes**(**_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
+ _expression_.**AddNodes**(**_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
 
  _expression_ A variable that represents a  **FreeformBuilder** object.
 

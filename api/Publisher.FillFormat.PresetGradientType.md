@@ -19,7 +19,7 @@ Returns an  **MsoPresetGradientType** constant that represents the preset gradie
 
 ## Syntax
 
- _expression_. **PresetGradientType**
+ _expression_.**PresetGradientType**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetGradientType
 
 ## Remarks
 
-The  **PresetGradientType** property value can be one of the ** [MsoPresetGradientType](Office.MsoPresetGradientType.md)** constants declared in the Microsoft Office type library.
+The  **PresetGradientType** property value can be one of the **[MsoPresetGradientType](Office.MsoPresetGradientType.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[PresetGradient](Publisher.FillFormat.PresetGradient.md)** method to set the preset gradient type for the fill.
 

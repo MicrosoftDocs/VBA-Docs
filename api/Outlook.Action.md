@@ -82,7 +82,7 @@ Set myReply = myItem.Actions("Reply").Execute
 ## See also
 
 
-[Action Object Members](./overview/Outlook.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Action Object Members](overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

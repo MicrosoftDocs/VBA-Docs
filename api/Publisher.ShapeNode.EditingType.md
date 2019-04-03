@@ -19,7 +19,7 @@ If the specified node is a vertex, this property returns an  **MsoEditingType** 
 
 ## Syntax
 
- _expression_. **EditingType**
+ _expression_.**EditingType**
 
  _expression_ A variable that represents an  **ShapeNode** object.
 
@@ -33,7 +33,7 @@ MsoEditingType
 
 Use the  **[SetEditingType](Publisher.ShapeNodes.SetEditingType.md)** method to set the value of this property.
 
-The  **EditingType** property value can be one of the ** [MsoEditingType](Office.MsoEditingType.md)** constants declared in the Microsoft Office type library.
+The  **EditingType** property value can be one of the **[MsoEditingType](Office.MsoEditingType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

@@ -16,7 +16,7 @@ Gets a reference to the Microsoft Office (MSO) **IAssistance** object, which pro
 
 ## Syntax
 
- _expression_. **Assistance**
+ _expression_.**Assistance**
 
  _expression_ A variable that represents an  **Application** object.
 

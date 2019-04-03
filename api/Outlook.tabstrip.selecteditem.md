@@ -14,7 +14,7 @@ Returns an  **Object** that indicates the currently selected **[Tab](Outlook.tab
 
 ## Syntax
 
-_expression_. **SelectedItem**
+_expression_.**SelectedItem**
 
 _expression_ A variable that represents a  **TabStrip** object.
 

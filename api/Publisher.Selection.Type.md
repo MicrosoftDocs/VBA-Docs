@@ -19,7 +19,7 @@ Returns a  **PbSelectionType** constant that represents the selection type. Read
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **Selection** object.
 

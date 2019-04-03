@@ -16,9 +16,9 @@ Determines whether supporting files for the Web page to be created are placed in
 
 ## Syntax
 
- _expression_. **StoreInFolder**
+ _expression_.**StoreInFolder**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
 
 
 ## Return value

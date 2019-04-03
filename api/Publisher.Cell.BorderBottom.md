@@ -19,7 +19,7 @@ Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the botto
 
 ## Syntax
 
- _expression_. **BorderBottom**
+ _expression_.**BorderBottom**
 
  _expression_ A variable that represents a  **Cell** object.
 

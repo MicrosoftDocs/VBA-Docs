@@ -19,7 +19,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents 
 
 ## Syntax
 
- _expression_. **Range**(**_Index_**)
+ _expression_.**Range**(**_Index_**)
 
  _expression_ A variable that represents an  **InlineShapes** object.
 

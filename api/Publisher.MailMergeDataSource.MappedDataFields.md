@@ -19,7 +19,7 @@ Returns a  **[MailMergeMappedDataFields](Publisher.MailMergeMappedDataFields.md)
 
 ## Syntax
 
- _expression_. **MappedDataFields**
+ _expression_.**MappedDataFields**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

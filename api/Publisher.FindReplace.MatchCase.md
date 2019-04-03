@@ -19,7 +19,7 @@ Sets or returns a  **Boolean** that represents the case sensitivity of the searc
 
 ## Syntax
 
- _expression_. **MatchCase**
+ _expression_.**MatchCase**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

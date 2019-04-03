@@ -14,7 +14,7 @@ Returns or sets an  **Integer** that specifies the visual appearance of the list
 
 ## Syntax
 
-_expression_. **ListStyle**
+_expression_.**ListStyle**
 
 _expression_ A variable that represents a  **ListBox** object.
 

@@ -19,7 +19,7 @@ Sets or retrieves a  **String** representing the text to find in the specified r
 
 ## Syntax
 
- _expression_. **FindText**
+ _expression_.**FindText**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

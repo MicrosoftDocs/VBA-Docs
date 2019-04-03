@@ -14,7 +14,7 @@ Sets the day that is displayed in the control to the current day.
 
 ## Syntax
 
- _expression_. **GoToToday**
+ _expression_.**GoToToday**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

@@ -19,7 +19,7 @@ Returns or sets an  **MsoPictureColorType** constant indicating the type of colo
 
 ## Syntax
 
- _expression_. **ColorType**
+ _expression_.**ColorType**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -31,7 +31,7 @@ MsoPictureColorType
 
 ## Remarks
 
-The  **ColorType** property value can be one of the ** [MsoPictureColorType](Office.MsoPictureColorType.md)** constants declared in the Microsoft Office type library.
+The  **ColorType** property value can be one of the **[MsoPictureColorType](Office.MsoPictureColorType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

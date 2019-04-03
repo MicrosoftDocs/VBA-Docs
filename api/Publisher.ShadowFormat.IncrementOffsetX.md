@@ -19,7 +19,7 @@ Incrementally changes the horizontal offset of the shadow by the specified dista
 
 ## Syntax
 
- _expression_. **IncrementOffsetX**(**_Increment_**)
+ _expression_.**IncrementOffsetX**(**_Increment_**)
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 

@@ -14,7 +14,7 @@ Returns or sets a  **Boolean** that specifies whether a single row of column hea
 
 ## Syntax
 
-_expression_. **ColumnHeads**
+_expression_.**ColumnHeads**
 
 _expression_ A variable that represents a  **ListBox** object.
 

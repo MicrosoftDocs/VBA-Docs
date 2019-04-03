@@ -19,7 +19,7 @@ Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the top b
 
 ## Syntax
 
- _expression_. **BorderTop**
+ _expression_.**BorderTop**
 
  _expression_ A variable that represents a  **Cell** object.
 

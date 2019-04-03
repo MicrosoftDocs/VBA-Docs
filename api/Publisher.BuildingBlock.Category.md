@@ -19,7 +19,7 @@ Gets or sets a string that represents the category for the building block. Read/
 
 ## Syntax
 
- _expression_. **Category**
+ _expression_.**Category**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

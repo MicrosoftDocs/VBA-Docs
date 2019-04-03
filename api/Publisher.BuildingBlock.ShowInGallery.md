@@ -19,7 +19,7 @@ A  **Boolean** value that specifies whether the building block should be display
 
 ## Syntax
 
- _expression_. **ShowInGallery**
+ _expression_.**ShowInGallery**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

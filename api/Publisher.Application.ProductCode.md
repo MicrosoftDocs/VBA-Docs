@@ -19,7 +19,7 @@ Returns a  **String** indicating the Microsoft Publisher globally unique identif
 
 ## Syntax
 
- _expression_. **ProductCode**
+ _expression_.**ProductCode**
 
  _expression_ A variable that represents a  **Application** object.
 

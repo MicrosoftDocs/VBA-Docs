@@ -19,7 +19,7 @@ Returns or sets the  **[ColorScheme](Publisher.ColorScheme.md)** object that rep
 
 ## Syntax
 
- _expression_. **ColorScheme**
+ _expression_.**ColorScheme**
 
  _expression_ A variable that represents a  **Document** object.
 

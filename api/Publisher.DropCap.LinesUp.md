@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the number of lines an initial dropp
 
 ## Syntax
 
- _expression_. **LinesUp**
+ _expression_.**LinesUp**
 
  _expression_ A variable that represents a  **DropCap** object.
 

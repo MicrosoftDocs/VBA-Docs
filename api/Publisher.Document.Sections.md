@@ -19,7 +19,7 @@ Returns a  **Sections** object representing a collection of **Section** objects 
 
 ## Syntax
 
- _expression_. **Sections**
+ _expression_.**Sections**
 
  _expression_ A variable that represents a  **Document** object.
 

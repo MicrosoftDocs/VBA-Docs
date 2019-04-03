@@ -19,7 +19,7 @@ Returns or sets a  **Variant** value indicating the horizontal offset of the sha
 
 ## Syntax
 
- _expression_. **OffsetY**
+ _expression_.**OffsetY**
 
  _expression_ A variable that represents an  **ShadowFormat** object.
 

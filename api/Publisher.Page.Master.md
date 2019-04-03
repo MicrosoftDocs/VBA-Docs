@@ -19,7 +19,7 @@ Sets or returns a  **[Page](Publisher.Page.md)** object that represents the mast
 
 ## Syntax
 
- _expression_. **Master**
+ _expression_.**Master**
 
  _expression_ A variable that represents a  **Page** object.
 

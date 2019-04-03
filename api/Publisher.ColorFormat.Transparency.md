@@ -19,7 +19,7 @@ Gets or sets the degree of transparency of the color represented by the parent  
 
 ## Syntax
 
- _expression_. **Transparency**
+ _expression_.**Transparency**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

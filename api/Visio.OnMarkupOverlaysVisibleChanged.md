@@ -16,9 +16,9 @@ Occurs when the visibility of markup overlays changes in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnMarkupOverlaysVisibleChanged**(**_MarkupOverlaysVisible_**)
+ _expression_.**OnMarkupOverlaysVisibleChanged**(**_MarkupOverlaysVisible_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

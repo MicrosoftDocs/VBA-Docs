@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. **ShowHeaderFooterOnFirstPage**
+ _expression_.**ShowHeaderFooterOnFirstPage**
 
  _expression_ A variable that represents a  **Section** object.
 

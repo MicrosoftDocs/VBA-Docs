@@ -19,7 +19,7 @@ Returns a  **[WebListBoxItems](Publisher.WebListBoxItems.md)** object that repre
 
 ## Syntax
 
- _expression_. **ListBoxItems**
+ _expression_.**ListBoxItems**
 
  _expression_ A variable that represents a  **WebListBox** object.
 

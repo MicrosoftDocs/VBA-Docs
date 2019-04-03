@@ -14,7 +14,7 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
 ## Syntax
 
-_expression_. **BackColor**
+_expression_.**BackColor**
 
 _expression_ A variable that represents a  **ScrollBar** object.
 

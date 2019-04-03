@@ -19,7 +19,7 @@ Adds a new color plate to the specified  **Plates** object.
 
 ## Syntax
 
- _expression_. **Add**(**_PlateColor_**)
+ _expression_.**Add**(**_PlateColor_**)
 
  _expression_ A variable that represents a  **Plates** object.
 
@@ -34,7 +34,7 @@ Adds a new color plate to the specified  **Plates** object.
 
 ## Remarks
 
-If the  ** [ColorMode](./overview/Publisher.md)** property of the specified publication is not **pbColorModeSpot** or **pbColorModeSpotAndProcess**, an error occurs.
+If the  **[ColorMode](overview/Publisher.md)** property of the specified publication is not **pbColorModeSpot** or **pbColorModeSpotAndProcess**, an error occurs.
 
 
 ## Example

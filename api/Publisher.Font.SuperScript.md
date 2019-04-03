@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState** constant indicating whether characters are f
 
 ## Syntax
 
- _expression_. **SuperScript**
+ _expression_.**SuperScript**
 
  _expression_ A variable that represents a  **Font** object.
 

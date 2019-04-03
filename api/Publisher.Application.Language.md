@@ -19,7 +19,7 @@ Returns a  **Long** that represents the language selected for the Microsoft Publ
 
 ## Syntax
 
- _expression_. **Language**
+ _expression_.**Language**
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-The  **LanguageID** property value can be one of the ** [MsoLanguageID](Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
+The  **LanguageID** property value can be one of the **[MsoLanguageID](Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

@@ -19,14 +19,14 @@ Returns or sets an  **MsoBlackWhiteMode**constant indicating how the specified s
 
 ## Syntax
 
- _expression_. **BlackWhiteMode**
+ _expression_.**BlackWhiteMode**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks
 
-The  **BlackWhiteMode** property value can be one of the ** [MsoBlackWhiteMode](Office.MsoBlackWhiteMode.md)** constants declared in the Microsoft Office type library.
+The  **BlackWhiteMode** property value can be one of the **[MsoBlackWhiteMode](Office.MsoBlackWhiteMode.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

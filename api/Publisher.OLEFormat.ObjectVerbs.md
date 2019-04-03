@@ -19,7 +19,7 @@ Returns an  **[ObjectVerbs](Publisher.ObjectVerbs.md)** collection that contains
 
 ## Syntax
 
- _expression_. **ObjectVerbs**
+ _expression_.**ObjectVerbs**
 
  _expression_ A variable that represents an  **OLEFormat** object.
 

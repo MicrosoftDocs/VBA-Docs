@@ -19,7 +19,7 @@ Returns a  **Boolean** value indicating whether the specified cell contains any 
 
 ## Syntax
 
- _expression_. **HasText**
+ _expression_.**HasText**
 
  _expression_ A variable that represents a  **Cell** object.
 

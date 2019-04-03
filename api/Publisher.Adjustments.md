@@ -68,6 +68,6 @@ End Sub
 ## See also
 
 
-[Adjustments Object Members](./overview/Publisher.md)
+[Adjustments Object Members](overview/Publisher.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

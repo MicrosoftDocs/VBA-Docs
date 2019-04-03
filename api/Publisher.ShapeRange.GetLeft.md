@@ -19,7 +19,7 @@ Returns the distance of the shape's or shape range's left edge from the left edg
 
 ## Syntax
 
- _expression_. **GetLeft**(**_Unit_**)
+ _expression_.**GetLeft**(**_Unit_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

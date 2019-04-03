@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # PbNumberStylesType enumeration (Publisher)
 
-Constants passed to and returned by the  ** [Font.NumberStyle](Publisher.font.numberstyle.md)** property, specifying the state of the **NumberStyle** property on the numerical characters in a text range.
+Constants passed to and returned by the  **[Font.NumberStyle](Publisher.font.numberstyle.md)** property, specifying the state of the **NumberStyle** property on the numerical characters in a text range.
 
 
 

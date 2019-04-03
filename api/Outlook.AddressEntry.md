@@ -71,7 +71,7 @@ Set myAddressEntry = myRecipient.AddressEntry
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[AddressEntry Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[AddressEntry Object Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

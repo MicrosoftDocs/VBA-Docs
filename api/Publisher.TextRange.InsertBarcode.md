@@ -19,7 +19,7 @@ Inserts a bar code field at the end of the text range represented by the parent 
 
 ## Syntax
 
- _expression_. **InsertBarcode**
+ _expression_.**InsertBarcode**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -42,7 +42,7 @@ If you want to enable insertion of bar codes into the publication from the user 
 
 The following example shows how to use the  **InsertBarcode** method to insert a bar-code field into a text box in a publication. Insert this code into your VBA project, and run the **AttachToEvents** procedure before running the **InsertBarcode_Example** procedure.
 
-Before running the code in this example, use the  ** [MailMerge.OpenDataSource](Publisher.MailMerge.OpenDataSource.md)** method to connect to a data source. The data source must contain a bar-code column that lists bar codes for all mail-merge recipients. Replace _barcodeColumnIndex_ in the **MailMergeGenerateBarcode** event handler in the code with the index number of the data-source column that contains bar-code information.
+Before running the code in this example, use the  **[MailMerge.OpenDataSource](Publisher.MailMerge.OpenDataSource.md)** method to connect to a data source. The data source must contain a bar-code column that lists bar codes for all mail-merge recipients. Replace _barcodeColumnIndex_ in the **MailMergeGenerateBarcode** event handler in the code with the index number of the data-source column that contains bar-code information.
 
 Run the following code from the  **Visual Basic Editor** window, and not from the **Macros** dialog box. (On the **Tools** menu, point to **Macro**, and then click Macros.)
 

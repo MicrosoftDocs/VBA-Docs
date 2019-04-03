@@ -43,6 +43,6 @@ You can use the  **[Visible](Outlook.JournalModule.Visible.md)** property to det
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that specifies whether a Web publication wi
 
 ## Syntax
 
- _expression_. **OrganizeInFolder**
+ _expression_.**OrganizeInFolder**
 
  _expression_ A variable that represents an  **WebOptions** object.
 

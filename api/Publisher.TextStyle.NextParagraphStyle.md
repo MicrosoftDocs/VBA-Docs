@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the paragraph style that follows t
 
 ## Syntax
 
- _expression_. **NextParagraphStyle**
+ _expression_.**NextParagraphStyle**
 
  _expression_ A variable that represents a  **TextStyle** object.
 

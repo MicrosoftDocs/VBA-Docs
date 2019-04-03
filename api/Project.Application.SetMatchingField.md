@@ -19,7 +19,7 @@ Sets the value in the field of selected tasks or resources that meet the specifi
 
 ## Syntax
 
-_expression_. **SetMatchingField** (**_Field_**, **_Value_**, **_CheckField_**, **_CheckValue_**, **_CheckTest_**, **_CheckOperation_**, **_CheckField2_**, **_CheckValue2_**, **_CheckTest2_**)
+_expression_.**SetMatchingField** (**_Field_**, **_Value_**, **_CheckField_**, **_CheckValue_**, **_CheckTest_**, **_CheckOperation_**, **_CheckField2_**, **_CheckValue2_**, **_CheckTest2_**)
 
 _expression_ A variable that represents an **Application** object.
 

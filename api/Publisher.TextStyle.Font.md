@@ -19,7 +19,7 @@ Sets or returns a  **[Font](Publisher.Font.md)** object that represents characte
 
 ## Syntax
 
- _expression_. **Font**
+ _expression_.**Font**
 
  _expression_ A variable that represents a  **TextStyle** object.
 

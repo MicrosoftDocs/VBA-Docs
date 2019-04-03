@@ -19,7 +19,7 @@ Returns or sets an  **MsoLineStyle** constant that represents the style of line 
 
 ## Syntax
 
- _expression_. **Style**
+ _expression_.**Style**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

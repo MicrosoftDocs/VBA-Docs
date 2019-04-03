@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Document.EndCustomUndoAction method (Publisher)
 
-Specifies the endpoint of a group of actions that are wrapped to create a single undo action. The  ** [BeginCustomUndoAction Method](Publisher.Document.BeginCustomUndoAction.md)** method is used to specify the starting point and label (textual description) of the actions used to create the single undo action. The wrapped group of actions can be undone with a single undo.
+Specifies the endpoint of a group of actions that are wrapped to create a single undo action. The  **[BeginCustomUndoAction Method](Publisher.Document.BeginCustomUndoAction.md)** method is used to specify the starting point and label (textual description) of the actions used to create the single undo action. The wrapped group of actions can be undone with a single undo.
 
 
 ## Syntax
 
- _expression_. **EndCustomUndoAction**
+ _expression_.**EndCustomUndoAction**
 
  _expression_ A variable that represents a  **Document** object.
 

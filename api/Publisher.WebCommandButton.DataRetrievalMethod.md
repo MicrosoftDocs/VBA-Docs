@@ -19,7 +19,7 @@ Sets or returns a  **PbSubmitDataRetrievalMethodType** that represents the way d
 
 ## Syntax
 
- _expression_. **DataRetrievalMethod**
+ _expression_.**DataRetrievalMethod**
 
  _expression_ A variable that represents a  **WebCommandButton** object.
 

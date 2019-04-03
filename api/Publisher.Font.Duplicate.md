@@ -19,7 +19,7 @@ Creates a duplicate of the specified  **[Font](Publisher.Font.md)** object and t
 
 ## Syntax
 
- _expression_. **Duplicate**
+ _expression_.**Duplicate**
 
  _expression_ A variable that represents a  **Font** object.
 

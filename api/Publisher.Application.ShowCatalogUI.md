@@ -19,14 +19,14 @@ Fires when the catalog of publication wizards is displayed in the Microsoft Publ
 
 ## Syntax
 
- _expression_. **ShowCatalogUI**
+ _expression_.**ShowCatalogUI**
 
- _expression_An expression that returns a  **Application** object.
+ _expression_ An expression that returns a  **Application** object.
 
 
 ## Remarks
 
-You can use the  ** [Application.ShowWizardCatalog](Publisher.Application.ShowWizardCatalog.md)** method to display the wizard catalog in the user interface.
+You can use the  **[Application.ShowWizardCatalog](Publisher.Application.ShowWizardCatalog.md)** method to display the wizard catalog in the user interface.
 
 The  **ShowCatalogUI** event does not fire when the publication catalog is displayed when Publisher first starts. To determine if the catalog is displayed at that time, you can use the **[WizardCatalogVisible](Publisher.Application.WizardCatalogVisible.md)** property.
 

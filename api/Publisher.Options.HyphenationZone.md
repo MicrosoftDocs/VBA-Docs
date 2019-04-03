@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the maximum amount of space that 
 
 ## Syntax
 
- _expression_. **HyphenationZone**
+ _expression_.**HyphenationZone**
 
  _expression_ A variable that represents a  **Options** object.
 

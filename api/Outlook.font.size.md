@@ -14,7 +14,7 @@ Returns or sets a  **Currency** that indicates the height, in points, of display
 
 ## Syntax
 
-_expression_. **Size**
+_expression_.**Size**
 
 _expression_ A variable that represents a  **Font** object.
 

@@ -17,7 +17,7 @@ Returns a  **Long** that specifies the height, in points, of the client region i
 
 ## Syntax
 
-_expression_. **InsideHeight**
+_expression_.**InsideHeight**
 
 _expression_ A variable that represents a  **Frame** object.
 

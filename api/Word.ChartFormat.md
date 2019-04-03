@@ -26,6 +26,6 @@ Using a property or method that does not apply to the type of object the  **Char
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

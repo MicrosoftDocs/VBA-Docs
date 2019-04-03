@@ -19,7 +19,7 @@ Sets or retrieves a  **Long** that represents the starting number of a list. Rea
 
 ## Syntax
 
- _expression_. **ListNumberStart**
+ _expression_.**ListNumberStart**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

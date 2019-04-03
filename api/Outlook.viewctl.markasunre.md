@@ -14,7 +14,7 @@ Marks as unread all selected items in the control.
 
 ## Syntax
 
- _expression_. **MarkAsUnread**
+ _expression_.**MarkAsUnread**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

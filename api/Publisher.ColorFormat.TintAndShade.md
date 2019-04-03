@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the lightening or darkening of a s
 
 ## Syntax
 
- _expression_. **TintAndShade**
+ _expression_.**TintAndShade**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

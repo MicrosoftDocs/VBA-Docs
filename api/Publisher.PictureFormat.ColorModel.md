@@ -19,7 +19,7 @@ Returns a  **PbColorModel** constant that represents the color model of the pict
 
 ## Syntax
 
- _expression_. **ColorModel**
+ _expression_.**ColorModel**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

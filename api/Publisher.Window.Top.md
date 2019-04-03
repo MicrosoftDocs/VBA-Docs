@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the distance between the top edge of
 
 ## Syntax
 
- _expression_. **Top**
+ _expression_.**Top**
 
  _expression_ A variable that represents a  **Window** object.
 

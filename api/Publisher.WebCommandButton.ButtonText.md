@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the text that appears on the face 
 
 ## Syntax
 
- _expression_. **ButtonText**
+ _expression_.**ButtonText**
 
  _expression_ A variable that represents a  **WebCommandButton** object.
 

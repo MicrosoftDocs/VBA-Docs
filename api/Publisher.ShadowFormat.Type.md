@@ -19,13 +19,13 @@ Specifies the shadow type of a shape. Read/write.
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of the ** [MsoShadowType](Office.MsoShadowType.md)** constants declared in the Microsoft Office type library.
+The  **Type** property value can be one of the **[MsoShadowType](Office.MsoShadowType.md)** constants declared in the Microsoft Office type library.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Closes the current publication and creates a blank publication in its place.
 
 ## Syntax
 
- _expression_. **Close**
+ _expression_.**Close**
 
  _expression_ A variable that represents a  **Document** object.
 

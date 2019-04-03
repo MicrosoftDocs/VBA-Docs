@@ -19,7 +19,7 @@ Returns a  **Single** that represents the horizontal baseline spacing of the spe
 
 ## Syntax
 
- _expression_. **HorizontalBaseLineSpacing**
+ _expression_.**HorizontalBaseLineSpacing**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

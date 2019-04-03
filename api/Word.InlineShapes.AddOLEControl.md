@@ -39,7 +39,7 @@ ActiveX controls are represented as either  **Shape** objects or **[InlineShape]
 
 
 
-For information about available ActiveX control class types, see [OLE Programmatic Identifiers](./overview/Word.md).
+For information about available ActiveX control class types, see [OLE Programmatic Identifiers](overview/Word.md).
 
 
 ## See also

@@ -18,7 +18,7 @@ Sets the text styles for tasks and resources in the active view, where colors ca
 
 ## Syntax
 
-_expression_. **TextStyles32Ex** (**_Item_**, **_Font_**, **_Size_**, **_Bold_**, **_Italic_**, **_Underline_**, **_Color_**, **_CellColor_**, **_Pattern_**)
+_expression_.**TextStyles32Ex** (**_Item_**, **_Font_**, **_Size_**, **_Bold_**, **_Italic_**, **_Underline_**, **_Color_**, **_CellColor_**, **_Pattern_**)
 
 _expression_ An expression that returns an **Application** object.
 

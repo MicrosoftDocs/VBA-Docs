@@ -19,7 +19,7 @@ Returns or sets an  **MsoLineDashStyle** constant indicating the dash style for 
 
 ## Syntax
 
- _expression_. **DashStyle**
+ _expression_.**DashStyle**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -31,7 +31,7 @@ MsoLineDashStyle
 
 ## Remarks
 
-The  **DashStyle** property value can be one of the ** [MsoLineDashStyle](Office.MsoLineDashStyle.md)** constants declared in the Microsoft Office type library.
+The  **DashStyle** property value can be one of the **[MsoLineDashStyle](Office.MsoLineDashStyle.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

@@ -123,7 +123,7 @@ Unlike other Microsoft Outlook objects, you cannot create this object. Report it
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[ReportItem Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[ReportItem Object Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Returns or sets an  **MsoRGBType** that represents the red-green-blue (RGB) valu
 
 ## Syntax
 
- _expression_. **RGB**
+ _expression_.**RGB**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

@@ -19,7 +19,7 @@ Returns an  **MsoPresetThreeDFormat** constant that represents the preset extrus
 
 ## Syntax
 
- _expression_. **PresetThreeDFormat**
+ _expression_.**PresetThreeDFormat**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetThreeDFormat
 
 ## Remarks
 
-The  **PresetThreeDFormat** property value can be one of the ** [MsoPresetThreeDFormat](Office.MsoPresetThreeDFormat.md)** constants declared in the Microsoft Office type library.
+The  **PresetThreeDFormat** property value can be one of the **[MsoPresetThreeDFormat](Office.MsoPresetThreeDFormat.md)** constants declared in the Microsoft Office type library.
 
 Each preset extrusion format contains a set of preset values for the various properties of the extrusion. If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed**. 
 

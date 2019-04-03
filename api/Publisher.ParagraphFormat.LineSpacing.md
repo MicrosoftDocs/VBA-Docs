@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the line spacing (in number of li
 
 ## Syntax
 
- _expression_. **LineSpacing**
+ _expression_.**LineSpacing**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

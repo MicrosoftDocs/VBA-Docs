@@ -14,7 +14,7 @@ Creates and displays a new note item.
 
 ## Syntax
 
- _expression_. **NewNote**
+ _expression_.**NewNote**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

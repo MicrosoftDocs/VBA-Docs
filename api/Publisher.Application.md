@@ -136,6 +136,6 @@ End Sub
 ## See also
 
 
-[Application Object Members](./overview/Publisher.md)
+[Application Object Members](overview/Publisher.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,7 +17,7 @@ Returns or sets a  **Single** that represents the depth of the top bevel. Read/w
 
 ## Syntax
 
- _expression_. **BevelTopDepth**
+ _expression_.**BevelTopDepth**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

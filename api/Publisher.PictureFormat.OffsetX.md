@@ -19,7 +19,7 @@ Returns or sets a  **Variant** value indicating the vertical offset of the shado
 
 ## Syntax
 
- _expression_. **OffsetX**
+ _expression_.**OffsetX**
 
  _expression_ A variable that represents an  **ShadowFormat** object.
 

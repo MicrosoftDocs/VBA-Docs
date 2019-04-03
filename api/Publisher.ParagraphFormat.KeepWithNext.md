@@ -19,7 +19,7 @@ Sets or returns an  **MsoTriState** that indicates whether the following paragra
 
 ## Syntax
 
- _expression_. **KeepWithNext**
+ _expression_.**KeepWithNext**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

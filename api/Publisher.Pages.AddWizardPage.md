@@ -19,7 +19,7 @@ Adds the specified new wizard page to a specified location in a publication.
 
 ## Syntax
 
- _expression_. **AddWizardPage**(**_After_**,  **_PageType_**,  **_AddHyperlinkToWebNavBar_**)
+ _expression_.**AddWizardPage**(**_After_**,  **_PageType_**,  **_AddHyperlinkToWebNavBar_**)
 
  _expression_ A variable that represents a  **Pages** object.
 

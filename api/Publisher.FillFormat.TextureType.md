@@ -19,7 +19,7 @@ Returns an  **MsoTextureType** constant indicating the texture type for the spec
 
 ## Syntax
 
- _expression_. **TextureType**
+ _expression_.**TextureType**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

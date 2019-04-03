@@ -19,7 +19,7 @@ Returns a  **MsoTriState** constant that indicates whether the picture is a grey
 
 ## Syntax
 
- _expression_. **IsGreyScale**
+ _expression_.**IsGreyScale**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

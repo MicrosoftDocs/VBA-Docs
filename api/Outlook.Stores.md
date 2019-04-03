@@ -122,7 +122,7 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[Stores Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[Stores Object Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

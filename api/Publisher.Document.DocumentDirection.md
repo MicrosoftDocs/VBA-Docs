@@ -19,7 +19,7 @@ Returns or sets a  **PbDirectionType** constant that indicates whether text in t
 
 ## Syntax
 
- _expression_. **DocumentDirection**
+ _expression_.**DocumentDirection**
 
  _expression_ A variable that represents a  **Document** object.
 

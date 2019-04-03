@@ -41,6 +41,6 @@ CoAuthUpdate
 
 
 
-[CoAuthUpdates Object](./overview/Word.md)
+[CoAuthUpdates Object](overview/Word.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

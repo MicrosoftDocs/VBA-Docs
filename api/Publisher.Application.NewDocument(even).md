@@ -19,7 +19,7 @@ Occurs when a new publication is created.
 
 ## Syntax
 
- _expression_. **NewDocument**(**_Doc_**, )
+ _expression_.**NewDocument**(**_Doc_**, )
 
  _expression_ A variable that represents an  **Application** object.
 

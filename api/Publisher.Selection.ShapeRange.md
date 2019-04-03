@@ -19,7 +19,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents 
 
 ## Syntax
 
- _expression_. **ShapeRange**
+ _expression_.**ShapeRange**
 
  _expression_ A variable that represents a  **Selection** object.
 

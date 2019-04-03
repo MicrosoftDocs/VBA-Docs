@@ -19,7 +19,7 @@ Returns a  **Long** indicating the connection site to which the beginning of a c
 
 ## Syntax
 
- _expression_. **BeginConnectionSite**
+ _expression_.**BeginConnectionSite**
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 

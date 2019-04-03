@@ -19,7 +19,7 @@ Returns a  **Variant** that represents, in points, the width of the specified li
 
 ## Syntax
 
- _expression_. **OriginalWidth**
+ _expression_.**OriginalWidth**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

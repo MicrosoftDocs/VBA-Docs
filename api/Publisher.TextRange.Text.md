@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the text in a text range or WordAr
 
 ## Syntax
 
- _expression_. **Text**
+ _expression_.**Text**
 
  _expression_ A variable that represents a  **TextRange** object.
 

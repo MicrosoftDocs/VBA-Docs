@@ -17,7 +17,7 @@ Returns a  [ShadowFormat](Publisher.ShadowFormat.md) object that specifies the s
 
 ## Syntax
 
- _expression_. **TextShadow**
+ _expression_.**TextShadow**
 
  _expression_ A variable that represents a  **Font** object.
 

@@ -19,7 +19,7 @@ Returns an  **[AdvancedPrintOptions](Publisher.AdvancedPrintOptions.md)** object
 
 ## Syntax
 
- _expression_. **AdvancedPrintOptions**
+ _expression_.**AdvancedPrintOptions**
 
  _expression_ A variable that represents a  **Document** object.
 

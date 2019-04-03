@@ -176,7 +176,7 @@ Set myItem = Application.CreateItem(olTaskItem)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[TaskItem Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[TaskItem Object Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

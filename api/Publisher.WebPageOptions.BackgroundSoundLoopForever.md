@@ -19,7 +19,7 @@ Returns a  **Boolean** value that specifies whether the background sound attache
 
 ## Syntax
 
- _expression_. **BackgroundSoundLoopForever**
+ _expression_.**BackgroundSoundLoopForever**
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 

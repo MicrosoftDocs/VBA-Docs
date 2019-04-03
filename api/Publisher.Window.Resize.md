@@ -19,7 +19,7 @@ Sizes the Microsoft Publisher application window.
 
 ## Syntax
 
- _expression_. **Resize**(**_Width_**,  **_Height_**)
+ _expression_.**Resize**(**_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Window** object.
 

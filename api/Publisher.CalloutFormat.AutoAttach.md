@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState**constant indicating whether the place where t
 
 ## Syntax
 
- _expression_. **AutoAttach**
+ _expression_.**AutoAttach**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The  **AutoAttach** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **AutoAttach** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 When the value of this property is  **msoTrue**, the drop value (the vertical distance from the edge of the callout text box to the place where the callout line attaches) is measured from the top of the text box when the text box is to the right of the origin, and it is measured from the bottom of the text box when the text box is to the left of the origin. When the value of this property is  **msoFalse**, the drop value is always measured from the top of the text box, regardless of the relative positions of the text box and the origin. Use the  [CustomDrop](Publisher.CalloutFormat.CustomDrop.md)method to set the drop value, and use the  [Drop](Publisher.CalloutFormat.Drop.md)property to return the drop value.
 

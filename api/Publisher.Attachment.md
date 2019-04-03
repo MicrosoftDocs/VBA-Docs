@@ -72,6 +72,6 @@ End Sub
 ## See also
 
 
-[Attachment Object Members](./overview/Publisher.md)
+[Attachment Object Members](overview/Publisher.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

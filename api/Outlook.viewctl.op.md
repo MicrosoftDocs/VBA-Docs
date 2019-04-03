@@ -14,7 +14,7 @@ Opens the item or items that are currently selected in the control.
 
 ## Syntax
 
- _expression_. **Open**
+ _expression_.**Open**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

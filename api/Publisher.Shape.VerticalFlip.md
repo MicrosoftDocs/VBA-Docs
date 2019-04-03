@@ -19,7 +19,7 @@ Returns  **msoTrue** if the specified shape has been flipped around its vertical
 
 ## Syntax
 
- _expression_. **VerticalFlip**
+ _expression_.**VerticalFlip**
 
  _expression_ A variable that represents a  **Shape** object.
 

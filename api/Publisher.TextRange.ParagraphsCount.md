@@ -19,7 +19,7 @@ Returns the number of paragraphs of text in the text range represented by the pa
 
 ## Syntax
 
- _expression_. **ParagraphsCount**
+ _expression_.**ParagraphsCount**
 
  _expression_ A variable that represents a  **TextRange** object.
 

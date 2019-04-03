@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState** value indicating whether the shadow of the s
 
 ## Syntax
 
- _expression_. **Obscured**
+ _expression_.**Obscured**
 
  _expression_ A variable that represents an  **ShadowFormat** object.
 

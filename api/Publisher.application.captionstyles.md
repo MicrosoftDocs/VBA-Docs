@@ -17,7 +17,7 @@ Returns a  **[CaptionStyles](Publisher.Documents.md)** collection that represent
 
 ## Syntax
 
- _expression_. **CaptionStyles**
+ _expression_.**CaptionStyles**
 
  _expression_ A variable that represents a  **Application** object.
 

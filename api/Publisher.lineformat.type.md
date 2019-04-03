@@ -17,7 +17,7 @@ Returns the line fill-format type. Read-only.
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

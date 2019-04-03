@@ -18,7 +18,7 @@ Searches for an unfiltered value in a specified field, or in all available field
 
 ## Syntax
 
-_expression_. **ReplaceEx** (**_Field_**, **_Test_**, **_Value_**, **_Replacement_**, **_ReplaceAll_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**, **_SearchAllFields_**)
+_expression_.**ReplaceEx** (**_Field_**, **_Test_**, **_Value_**, **_Replacement_**, **_ReplaceAll_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**, **_SearchAllFields_**)
 
 _expression_ An expression that returns an **Application** object.
 

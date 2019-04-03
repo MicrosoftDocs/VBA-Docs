@@ -19,7 +19,7 @@ Returns a  **[Tags](Publisher.Tags.md)** collection representing tags or custom 
 
 ## Syntax
 
- _expression_. **Tags**
+ _expression_.**Tags**
 
  _expression_ A variable that represents a  **Shape** object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. **ContinueNumbersFromPreviousSection**
+ _expression_.**ContinueNumbersFromPreviousSection**
 
  _expression_ A variable that represents a  **Section** object.
 

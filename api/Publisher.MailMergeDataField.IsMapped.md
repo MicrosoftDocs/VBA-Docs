@@ -19,7 +19,7 @@ Indicates if the parent  **MailMergeDataField** object is mapped to a recipient 
 
 ## Syntax
 
- _expression_. **IsMapped**
+ _expression_.**IsMapped**
 
  _expression_ A variable that represents a  **MailMergeDataField** object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **Variant** value representing the size, in points, of the **
 
 ## Syntax
 
- _expression_. **SizeBi**
+ _expression_.**SizeBi**
 
  _expression_ A variable that represents a  **Font** object.
 

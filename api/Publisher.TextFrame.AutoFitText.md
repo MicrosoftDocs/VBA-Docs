@@ -19,7 +19,7 @@ Sets or returns a  **PbTextAutoFitType**constant that represents how Microsoft P
 
 ## Syntax
 
- _expression_. **AutoFitText**
+ _expression_.**AutoFitText**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

@@ -17,7 +17,7 @@ Returns or sets an  **Integer** that specifies the percentage to increase or dec
 
 ## Syntax
 
-_expression_. **Zoom**
+_expression_.**Zoom**
 
 _expression_ A variable that represents a  **Frame** object.
 

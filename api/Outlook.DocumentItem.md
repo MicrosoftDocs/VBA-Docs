@@ -122,6 +122,6 @@ Unlike other Outlook objects, you cannot create this object.
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

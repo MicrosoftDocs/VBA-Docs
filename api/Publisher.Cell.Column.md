@@ -19,7 +19,7 @@ Returns a  **Long** that represents the table column containing the specified ce
 
 ## Syntax
 
- _expression_. **Column**
+ _expression_.**Column**
 
  _expression_ A variable that represents a  **Cell** object.
 

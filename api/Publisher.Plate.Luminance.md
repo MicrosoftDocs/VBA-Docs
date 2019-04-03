@@ -19,7 +19,7 @@ Returns or sets a  **Long** indicating a calculated luminance value for the spec
 
 ## Syntax
 
- _expression_. **Luminance**
+ _expression_.**Luminance**
 
  _expression_ A variable that represents a  **Plate** object.
 
@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-This property is valid only for publications with a  ** [ColorMode](./overview/Publisher.md)** property value of **pbColorModeSpot** or for spot plates in a publication with a **ColorMode** property value of **pbColorModeSpotAndProcess**.
+This property is valid only for publications with a  **[ColorMode](overview/Publisher.md)** property value of **pbColorModeSpot** or for spot plates in a publication with a **ColorMode** property value of **pbColorModeSpotAndProcess**.
 
 
 ## Example

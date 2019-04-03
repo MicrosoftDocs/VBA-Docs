@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Timeline object (Project)
 
-Contains a collection of [Timeline](./overview/Project.md) objects. Introduced in Office 2016.
+Contains a collection of [Timeline](overview/Project.md) objects. Introduced in Office 2016.
 
 
 ## Remarks

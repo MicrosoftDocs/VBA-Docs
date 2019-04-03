@@ -16,9 +16,9 @@ Follows the hyperlink at the specified index in the specified shape in Microsoft
 
 ## Syntax
 
- _expression_. **FollowHyperlink**(**_ShapeIndex_**,  **_HyperlinkIndex_**)
+ _expression_.**FollowHyperlink**(**_ShapeIndex_**,  **_HyperlinkIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

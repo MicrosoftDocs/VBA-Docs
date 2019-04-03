@@ -19,7 +19,7 @@ Returns a  **String** that represents the default folder for publications. Read.
 
 ## Syntax
 
- _expression_. **PathForPublications**
+ _expression_.**PathForPublications**
 
  _expression_ A variable that represents a  **Options** object.
 

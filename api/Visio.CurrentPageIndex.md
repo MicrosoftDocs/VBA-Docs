@@ -16,9 +16,9 @@ Gets or sets the index of the page displayed when a drawing opens in Microsoft V
 
 ## Syntax
 
- _expression_. **CurrentPageIndex**
+ _expression_.**CurrentPageIndex**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value

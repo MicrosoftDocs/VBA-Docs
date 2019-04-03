@@ -19,7 +19,7 @@ Returns an  **MsoEnvelope** object that represents an email header for a publica
 
 ## Syntax
 
- _expression_. **MailEnvelope**
+ _expression_.**MailEnvelope**
 
  _expression_ A variable that represents a  **Document** object.
 

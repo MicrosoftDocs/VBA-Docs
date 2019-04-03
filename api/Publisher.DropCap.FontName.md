@@ -19,7 +19,7 @@ Sets or returns a  **String** that represents the name of the font applied to a 
 
 ## Syntax
 
- _expression_. **FontName**
+ _expression_.**FontName**
 
  _expression_ A variable that represents a  **DropCap** object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **MsoPresetLightingSoftness** constant that represents the in
 
 ## Syntax
 
- _expression_. **PresetLightingSoftness**
+ _expression_.**PresetLightingSoftness**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetLightingSoftness
 
 ## Remarks
 
-The  **PresetLightingSoftness** property value can be one of the ** [MsoPresetLightingSoftness](Office.MsoPresetLightingSoftness.md)** constants declared in the Microsoft Office type library.
+The  **PresetLightingSoftness** property value can be one of the **[MsoPresetLightingSoftness](Office.MsoPresetLightingSoftness.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

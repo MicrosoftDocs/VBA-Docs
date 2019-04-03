@@ -19,7 +19,7 @@ Returns a  **Single** that represents the height, in points, of the printable re
 
 ## Syntax
 
- _expression_. **Height**
+ _expression_.**Height**
 
  _expression_ A variable that represents a  **PrintableRect** object.
 

@@ -19,7 +19,7 @@ Sets or returns a  **Boolean** that represents whether or not the vertical basel
 
 ## Syntax
 
- _expression_. **ViewVerticalBaseLineGuides**
+ _expression_.**ViewVerticalBaseLineGuides**
 
  _expression_ A variable that represents a  **Document** object.
 

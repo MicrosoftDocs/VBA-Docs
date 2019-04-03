@@ -19,7 +19,7 @@ Returns a  **[RulerGuides](Publisher.RulerGuides.md)** collection that represent
 
 ## Syntax
 
- _expression_. **RulerGuides**
+ _expression_.**RulerGuides**
 
  _expression_ A variable that represents a  **Page** object.
 

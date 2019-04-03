@@ -19,7 +19,7 @@ Returns a  **Long** that represent the height (in points) of a cell, range of ce
 
 ## Syntax
 
- _expression_. **Height**
+ _expression_.**Height**
 
  _expression_ A variable that represents a  **Page** object.
 

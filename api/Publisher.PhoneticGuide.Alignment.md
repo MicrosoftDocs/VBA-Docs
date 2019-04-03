@@ -19,7 +19,7 @@ Returns a  **PbPhoneticGuideAlignmentType** constant that represents the positio
 
 ## Syntax
 
- _expression_. **Alignment**
+ _expression_.**Alignment**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 

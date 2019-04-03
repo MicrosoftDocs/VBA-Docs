@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Shape.MoveOutOfTextFlow method (Publisher)
 
-Moves a given inline shape out of its containing text range, defined by  ** [TextRange Object](Publisher.TextRange.md)**, and makes the shape fixed.
+Moves a given inline shape out of its containing text range, defined by  **[TextRange Object](Publisher.TextRange.md)**, and makes the shape fixed.
 
 
 ## Syntax
 
- _expression_. **MoveOutOfTextFlow**
+ _expression_.**MoveOutOfTextFlow**
 
  _expression_ A variable that represents a  **Shape** object.
 

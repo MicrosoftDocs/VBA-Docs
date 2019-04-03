@@ -16,9 +16,9 @@ Returns a string that describes the specified error message code in Microsoft Vi
 
 ## Syntax
 
- _expression_. **GetErrorMessage**(**_ErrorCode_**)
+ _expression_.**GetErrorMessage**(**_ErrorCode_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

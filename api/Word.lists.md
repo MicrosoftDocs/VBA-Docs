@@ -74,6 +74,6 @@ You can manipulate the individual  **[List](Word.List.md)** objects within a doc
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

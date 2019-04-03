@@ -19,7 +19,7 @@ Returns a  **Single** indicating the distance, in points, from the top edge of t
 
 ## Syntax
 
- _expression_. **BoundTop**
+ _expression_.**BoundTop**
 
  _expression_ A variable that represents a  **TextRange** object.
 

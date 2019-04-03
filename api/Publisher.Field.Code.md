@@ -19,7 +19,7 @@ Returns a  **String** that represents the text displayed when the page view is s
 
 ## Syntax
 
- _expression_. **Code**
+ _expression_.**Code**
 
  _expression_ A variable that represents a  **Field** object.
 

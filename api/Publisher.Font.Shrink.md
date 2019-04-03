@@ -19,7 +19,7 @@ Decreases the font size to the next available size. If the selection or range co
 
 ## Syntax
 
- _expression_. **Shrink**
+ _expression_.**Shrink**
 
  _expression_ A variable that represents a  **Font** object.
 

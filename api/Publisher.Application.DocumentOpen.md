@@ -19,7 +19,7 @@ Occurs when opening a document.
 
 ## Syntax
 
- _expression_. **DocumentOpen**(**_Doc_**)
+ _expression_.**DocumentOpen**(**_Doc_**)
 
  _expression_ A variable that represents an  **Application** object.
 

@@ -16,9 +16,9 @@ Gets or sets a value that indicates whether high-quality rendering is enabled in
 
 ## Syntax
 
- _expression_. **HighQualityRender**
+ _expression_.**HighQualityRender**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value

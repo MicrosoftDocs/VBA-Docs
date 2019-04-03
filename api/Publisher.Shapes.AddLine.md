@@ -19,7 +19,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a line to the sp
 
 ## Syntax
 
- _expression_. **AddLine**(**_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
+ _expression_.**AddLine**(**_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

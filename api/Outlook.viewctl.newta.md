@@ -14,7 +14,7 @@ Creates and displays a new task.
 
 ## Syntax
 
- _expression_. **NewTask**
+ _expression_.**NewTask**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

@@ -19,7 +19,7 @@ Returns or sets an  **MsoRGBType** constant that represents the transparency col
 
 ## Syntax
 
- _expression_. **TransparencyColor**
+ _expression_.**TransparencyColor**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

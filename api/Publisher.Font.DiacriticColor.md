@@ -19,7 +19,7 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the 2
 
 ## Syntax
 
- _expression_. **DiacriticColor**
+ _expression_.**DiacriticColor**
 
  _expression_ A variable that represents a  **Font** object.
 

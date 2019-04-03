@@ -69,6 +69,6 @@ ActiveDocument.Sentences(1).InsertAfter "The house is blue. "
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

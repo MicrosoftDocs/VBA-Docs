@@ -108,7 +108,7 @@ Table 2 describes the meaning of  _Arg1_ and _Arg2_ after the method returns. Va
 |PivotFieldIndex|Specifies the offset within the  **Excel.PivotFields** collection for a specific column (series), data, page, or row (category) field. The value is **-1** if the drop zone type is **xlDataField**.|
 |PointIndex|Specifies the offset within the  **Office.IMsoSeries.Points** collection for a specific point within a series. A value of **1** indicates that all data points are selected.|
 |SeriesIndex|Specifies the offset within the  **Office.IMsoChart.SeriesCollection** for a specific series.|
-|ShapeIndex|Specifies the offset within the [Shapes](./overview/Project.md) collection for a specific shape.|
+|ShapeIndex|Specifies the offset within the [Shapes](overview/Project.md) collection for a specific shape.|
 |TrendlineIndex|Specifies the offset within the  **Office.IMsoSeries.Trendlines** collection for a specific trendline within a series.|
 
 ## Example

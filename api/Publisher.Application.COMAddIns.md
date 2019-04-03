@@ -19,7 +19,7 @@ Returns a  **COMAddIns** collection that represents a reference to the Component
 
 ## Syntax
 
- _expression_. **COMAddIns**
+ _expression_.**COMAddIns**
 
  _expression_ A variable that represents a  **Application** object.
 

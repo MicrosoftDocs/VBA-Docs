@@ -19,7 +19,7 @@ Returns a  **String** that represents the text to which the specified phonetic t
 
 ## Syntax
 
- _expression_. **BaseText**
+ _expression_.**BaseText**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 

@@ -16,9 +16,9 @@ Specifies the secondary output format for the Web page. Read/write.
 
 ## Syntax
 
- _expression_. **SecFormat**
+ _expression_.**SecFormat**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
 
 
 ## Return value

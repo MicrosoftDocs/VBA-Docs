@@ -19,7 +19,7 @@ Sets or returns an  **MsoTriState** that indicates whether all lines in the spec
 
 ## Syntax
 
- _expression_. **KeepLinesTogether**
+ _expression_.**KeepLinesTogether**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

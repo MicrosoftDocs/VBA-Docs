@@ -17,7 +17,7 @@ Returns or sets a  **Boolean** that specifies whether the control has more than 
 
 ## Syntax
 
-_expression_. **MultiRow**
+_expression_.**MultiRow**
 
 _expression_ A variable that represents a  **MultiPage** object.
 

@@ -19,7 +19,7 @@ Returns a  **String** that represents the name of the Web navigation bar set the
 
 ## Syntax
 
- _expression_. **WebNavigationBarSetName**
+ _expression_.**WebNavigationBarSetName**
 
  _expression_ A variable that represents a  **Shape** object.
 

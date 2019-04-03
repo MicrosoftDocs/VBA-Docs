@@ -14,7 +14,7 @@ Returns or sets the accelerator key for a control. Read/write.
 
 ## Syntax
 
-_expression_. **Accelerator**
+_expression_.**Accelerator**
 
 _expression_ A variable that represents a  **Label** object.
 

@@ -17,7 +17,7 @@ Returns or sets a  **Long** that specifies the border color of an object. Read/w
 
 ## Syntax
 
-_expression_. **BorderColor**
+_expression_.**BorderColor**
 
 _expression_ A variable that represents a  **ComboBox** object.
 

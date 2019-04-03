@@ -19,7 +19,7 @@ Returns or sets the value of the first line indent (in East Asian character widt
 
 ## Syntax
 
- _expression_. **CharBasedFirstLineIndent**
+ _expression_.**CharBasedFirstLineIndent**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

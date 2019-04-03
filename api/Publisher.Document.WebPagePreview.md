@@ -19,7 +19,7 @@ Generates a Web page preview of the specified publication in Internet Explorer.
 
 ## Syntax
 
- _expression_. **WebPagePreview**
+ _expression_.**WebPagePreview**
 
  _expression_ A variable that represents a  **Document** object.
 

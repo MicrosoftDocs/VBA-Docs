@@ -19,7 +19,7 @@ Returns a  **Fields** object that represents all the fields in the specified tex
 
 ## Syntax
 
- _expression_. **Fields**
+ _expression_.**Fields**
 
  _expression_ A variable that represents a  **TextRange** object.
 

@@ -19,7 +19,7 @@ Resets the extrusion rotation around the x-axis (horizontal) and the y-axis (ver
 
 ## Syntax
 
- _expression_. **ResetRotation**
+ _expression_.**ResetRotation**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

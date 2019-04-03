@@ -19,7 +19,7 @@ A  **[pbCanvasArrangementType](Publisher.pbcanvasarrangementtype.md)** constant 
 
 ## Syntax
 
- _expression_. **CanvasArrangementType**
+ _expression_.**CanvasArrangementType**
 
  _expression_ A variable that represents a  **[Shapes](Publisher.Shapes.md)** object.
 

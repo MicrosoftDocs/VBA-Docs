@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Broadcast.State property (PowerPoint)
 
-Returns an [MSOBroadcastState](./overview/Library-Reference/msobroadcaststate-enumeration-office.md) constant that describes the current broadcast state. Read-only.
+Returns an [MSOBroadcastState](overview/Library-Reference/msobroadcaststate-enumeration-office.md) constant that describes the current broadcast state. Read-only.
 
 
 ## Syntax

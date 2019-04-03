@@ -17,7 +17,7 @@ Reverses the effect of the most recent  **Undo** action.
 
 ## Syntax
 
-_expression_. **RedoAction**
+_expression_.**RedoAction**
 
 _expression_ A variable that represents a  **Frame** object.
 

@@ -16,9 +16,9 @@ Gets the color of the markup overlay associated with the specified reviewer in t
 
 ## Syntax
 
- _expression_. **ReviewerColor**(**_ReviewerIndex_**)
+ _expression_.**ReviewerColor**(**_ReviewerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

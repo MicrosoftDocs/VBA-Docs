@@ -19,7 +19,7 @@ Replaces the specified field or  **[Fields](Publisher.Fields.md)** collection wi
 
 ## Syntax
 
- _expression_. **Unlink**
+ _expression_.**Unlink**
 
  _expression_ A variable that represents a  **Field** object.
 

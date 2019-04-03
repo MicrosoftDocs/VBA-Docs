@@ -19,7 +19,7 @@ Returns or sets a  **Long** indicating whether the specified color is a spot col
 
 ## Syntax
 
- _expression_. **Ink**
+ _expression_.**Ink**
 
  _expression_ A variable that represents an  **ColorFormat** object.
 

@@ -19,7 +19,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents an inline shap
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents an  **InlineShapes** object.
 

@@ -19,7 +19,7 @@ Removes a picture shape from an image, and resets the crop region to the origina
 
 ## Syntax
 
- _expression_. **ClearCrop**
+ _expression_.**ClearCrop**
 
  _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 

@@ -16,7 +16,7 @@ Occurs before the user changes the value of a resource field. Uses the **EventIn
 
 ## Syntax
 
-_expression_. **ProjectBeforeResourceChange2** (**_res_**, **_Field_**, **_NewVal_**, **_Info_**)
+_expression_.**ProjectBeforeResourceChange2** (**_res_**, **_Field_**, **_NewVal_**, **_Info_**)
 
 _expression_ A variable that represents an **Application** object.
 

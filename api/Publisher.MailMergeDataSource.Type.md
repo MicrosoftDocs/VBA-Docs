@@ -19,7 +19,7 @@ Returns a  **Long** that represents the type of mail merge or catalog merge data
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

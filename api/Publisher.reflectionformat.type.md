@@ -17,7 +17,7 @@ Returns or sets an  **MsoReflectionType** constant that represents the type and 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **ReflectionFormat** object.
 

@@ -19,7 +19,7 @@ Adds a new  **Row** object to the specified **Rows** collection and returns the 
 
 ## Syntax
 
- _expression_. **Add**(**_BeforeRow_**)
+ _expression_.**Add**(**_BeforeRow_**)
 
  _expression_ A variable that represents a  **Rows** object.
 

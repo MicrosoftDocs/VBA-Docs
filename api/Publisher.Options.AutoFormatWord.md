@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. **AutoFormatWord**
+ _expression_.**AutoFormatWord**
 
  _expression_ A variable that represents an  **Options** object.
 

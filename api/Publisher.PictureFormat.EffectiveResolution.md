@@ -19,7 +19,7 @@ Returns a  **Long** that represents, in dots per inch (dpi), the effective resol
 
 ## Syntax
 
- _expression_. **EffectiveResolution**
+ _expression_.**EffectiveResolution**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

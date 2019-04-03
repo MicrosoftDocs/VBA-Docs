@@ -19,7 +19,7 @@ Returns the  **[WebCommandButton](Publisher.WebCommandButton.md)** object associ
 
 ## Syntax
 
- _expression_. **WebCommandButton**
+ _expression_.**WebCommandButton**
 
  _expression_ A variable that represents a  **Shape** object.
 

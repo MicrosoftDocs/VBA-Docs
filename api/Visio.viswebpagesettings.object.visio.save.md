@@ -20,7 +20,7 @@ Many of the properties of the  **VisWebPageSettings** object correspond to the s
 
 For example, the  **[PageTitle](Visio.PageTitle.md)** property, which contains the title that appears in the title bar when a web page is displayed in a browser, corresponds to the value in the **Page title** box in the **Set Page Title** dialog box (in the **Save As** dialog box, click **Change Title**). Also, the  **[DispScreenRes](Visio.DispScreenRes.md)** property corresponds to the value selected in the **Target Monitor** list on the **Advanced** tab of the **Save As Web Page** dialog box (in the **Save As** dialog box, in the **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
 
-When you want to create a web page, use the  **[WebPageSettings](Visio.WebPageSettings.md)** property of the ** [VisSaveAsWeb](./overview/Visio.md)** object to get a reference to the **VisWebPageSettings** object, which you can use to set the web page's properties, as shown in the following example.
+When you want to create a web page, use the  **[WebPageSettings](Visio.WebPageSettings.md)** property of the **[VisSaveAsWeb](overview/Visio.md)** object to get a reference to the **VisWebPageSettings** object, which you can use to set the web page's properties, as shown in the following example.
 
 
 

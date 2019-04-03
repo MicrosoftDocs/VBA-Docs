@@ -19,7 +19,7 @@ Adds a new ruler guide to the specified  **RulerGuides** collection.
 
 ## Syntax
 
- _expression_. **Add**(**_Position_**,  **_Type_**)
+ _expression_.**Add**(**_Position_**,  **_Type_**)
 
  _expression_ A variable that represents a  **RulerGuides** object.
 

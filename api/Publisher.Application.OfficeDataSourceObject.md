@@ -19,7 +19,7 @@ Returns an  **OfficeDataSourceObject** object representing the data source in a 
 
 ## Syntax
 
- _expression_. **OfficeDataSourceObject**
+ _expression_.**OfficeDataSourceObject**
 
  _expression_ A variable that represents an  **Application** object.
 

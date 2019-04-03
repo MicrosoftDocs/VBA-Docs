@@ -19,7 +19,7 @@ Returns the number of words in the text range represented by the parent  **TextR
 
 ## Syntax
 
- _expression_. **WordsCount**
+ _expression_.**WordsCount**
 
  _expression_ A variable that represents a  **TextRange** object.
 

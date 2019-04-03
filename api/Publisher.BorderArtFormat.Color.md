@@ -19,7 +19,7 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the c
 
 ## Syntax
 
- _expression_. **Color**
+ _expression_.**Color**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 

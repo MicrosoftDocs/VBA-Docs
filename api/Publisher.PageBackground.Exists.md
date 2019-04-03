@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. **Exists**
+ _expression_.**Exists**
 
  _expression_ A variable that represents a  **PageBackground** object.
 

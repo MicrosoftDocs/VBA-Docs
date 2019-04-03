@@ -19,7 +19,7 @@ Returns a  **String** that represents the name of the font applied to phonetic i
 
 ## Syntax
 
- _expression_. **FontName**
+ _expression_.**FontName**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 

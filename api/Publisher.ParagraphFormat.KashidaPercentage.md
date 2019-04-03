@@ -19,7 +19,7 @@ Returns or sets a  **Long** indicating the percentage by which kashidas are to b
 
 ## Syntax
 
- _expression_. **KashidaPercentage**
+ _expression_.**KashidaPercentage**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

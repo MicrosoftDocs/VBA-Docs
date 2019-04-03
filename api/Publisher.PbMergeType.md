@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PbMergeType enumeration (Publisher)
 
-Constants that specify the type of mail merge, passed to and returned by the  ** [MailMergeDataSource.Type](Publisher.MailMergeDataSource.Type.md)** property.
+Constants that specify the type of mail merge, passed to and returned by the  **[MailMergeDataSource.Type](Publisher.MailMergeDataSource.Type.md)** property.
 
 
 

@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the time interval in minutes for aut
 
 ## Syntax
 
- _expression_. **SaveAutoRecoverInfoInterval**
+ _expression_.**SaveAutoRecoverInfoInterval**
 
  _expression_ A variable that represents a  **Options** object.
 

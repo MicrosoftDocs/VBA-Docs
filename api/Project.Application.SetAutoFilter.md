@@ -18,7 +18,7 @@ Sets the criteria for an AutoFilter for a specified field in a sheet view.
 
 ## Syntax
 
-_expression_. **SetAutoFilter** (**_FieldName_**, **_FilterType_**, **_Test1_**, **_Criteria1_**, **_Operation_**, **_Test2_**, **_Criteria2_**)
+_expression_.**SetAutoFilter** (**_FieldName_**, **_FilterType_**, **_Test1_**, **_Criteria1_**, **_Operation_**, **_Test2_**, **_Criteria2_**)
 
 _expression_ An expression that returns an **Application** object.
 

@@ -19,7 +19,7 @@ Gets or sets the orientation (landscape or portrait) of how envelopes are fed to
 
 ## Syntax
 
- _expression_. **ManualFeedDirection**
+ _expression_.**ManualFeedDirection**
 
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
@@ -31,7 +31,7 @@ PbOrientationType
 
 ## Remarks
 
-The  **ManualFeedDirection** property setting, in conjunction with the ** [AdvancedPrintOptions.ManualFeedAlign](Publisher.AdvancedPrintOptions.ManualFeedAlign.md)** property setting, corresponds to the **Envelope feed method** setting in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the  **Printer Details** tab, click **Advanced Printer Setup**. On the  **Printer Setup Wizard** tab, click **Envelope Setup Dialog**)
+The  **ManualFeedDirection** property setting, in conjunction with the **[AdvancedPrintOptions.ManualFeedAlign](Publisher.AdvancedPrintOptions.ManualFeedAlign.md)** property setting, corresponds to the **Envelope feed method** setting in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the  **Printer Details** tab, click **Advanced Printer Setup**. On the  **Printer Setup Wizard** tab, click **Envelope Setup Dialog**)
 
 Possible values for  **ManualFeedDirection** are **pbOrientationLandscape** (2) and **pbOrientationPortrait** (1).
 

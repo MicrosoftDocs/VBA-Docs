@@ -39,6 +39,6 @@ This method corresponds to the  **Expand All Headings** command on the **Expand/
 
 
 
-[View Members](./overview/Word.md)
+[View Members](overview/Word.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

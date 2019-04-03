@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. **RotatedChars**
+ _expression_.**RotatedChars**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

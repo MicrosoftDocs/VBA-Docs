@@ -17,7 +17,7 @@ Returns or sets a  **Long** that specifies the vertical offset of the texture fr
 
 ## Syntax
 
- _expression_. **TextureOffsetY**
+ _expression_.**TextureOffsetY**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

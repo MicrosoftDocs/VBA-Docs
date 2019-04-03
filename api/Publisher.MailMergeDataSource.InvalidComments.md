@@ -19,7 +19,7 @@ If the  **[InvalidAddress](Publisher.MailMergeDataSource.InvalidAddress.md)** pr
 
 ## Syntax
 
- _expression_. **InvalidComments**
+ _expression_.**InvalidComments**
 
  _expression_ A variable that represents an  **MailMergeDataSource** object.
 

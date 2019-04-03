@@ -18,7 +18,7 @@ Saves a file that is not the active project under a new file name.
 
 ## Syntax
 
-_expression_. **SaveAs** (**_Name_**, **_Format_**, **_Backup_**, **_ReadOnly_**, **_TaskInformation_**, **_Filtered_**, **_Table_**, **_UserID_**, **_DatabasePassWord_**, **_FormatID_**, **_Map_**, **_ClearBaseline_**, **_ClearActuals_**, **_ClearResourceRates_**, **_ClearFixedCosts_**)
+_expression_.**SaveAs** (**_Name_**, **_Format_**, **_Backup_**, **_ReadOnly_**, **_TaskInformation_**, **_Filtered_**, **_Table_**, **_UserID_**, **_DatabasePassWord_**, **_FormatID_**, **_Map_**, **_ClearBaseline_**, **_ClearActuals_**, **_ClearResourceRates_**, **_ClearFixedCosts_**)
 
 _expression_ A variable that represents a **Project** object.
 

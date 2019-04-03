@@ -19,7 +19,7 @@ Performs the specified Find or Replace operation.
 
 ## Syntax
 
- _expression_. **Execute**
+ _expression_.**Execute**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

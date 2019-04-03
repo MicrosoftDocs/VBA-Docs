@@ -14,7 +14,7 @@ Returns a  **[SoftEdgeFormat](Publisher.softedgeformat.md)** object that represe
 
 ## Syntax
 
- _expression_. **SoftEdge**
+ _expression_.**SoftEdge**
 
  _expression_ A variable that represents a  **Shape** object.
 

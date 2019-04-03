@@ -19,7 +19,7 @@ Returns an individual object in a specified collection.
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

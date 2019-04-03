@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState** constant indicating whether the specified ob
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_.**Visible**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

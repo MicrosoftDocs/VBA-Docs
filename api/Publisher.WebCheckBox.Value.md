@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the value of a Web check box or op
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_.**Value**
 
  _expression_ A variable that represents a  **WebCheckBox** object.
 

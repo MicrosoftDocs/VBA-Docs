@@ -19,7 +19,7 @@ Returns the  **[Printer](Publisher.Printer.md)** object with the specified name 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents an  **InstalledPrinters** collection.
 

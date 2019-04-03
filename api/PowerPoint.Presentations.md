@@ -83,6 +83,6 @@ Presentations.Open FileName:="sales.ppt", ReadOnly:=True
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

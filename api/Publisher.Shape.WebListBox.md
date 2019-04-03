@@ -19,7 +19,7 @@ Returns the  **[WebListBox](Publisher.WebListBox.md)** object associated with th
 
 ## Syntax
 
- _expression_. **WebListBox**
+ _expression_.**WebListBox**
 
  _expression_ A variable that represents a  **Shape** object.
 

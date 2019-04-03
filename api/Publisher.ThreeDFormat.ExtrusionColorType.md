@@ -19,7 +19,7 @@ Returns or sets an  **MsoExtrusionColorType** constant indicating whether the ex
 
 ## Syntax
 
- _expression_. **ExtrusionColorType**
+ _expression_.**ExtrusionColorType**
 
  _expression_ A variable that represents an  **ThreeDFormat** object.
 
@@ -31,7 +31,7 @@ MsoExtrusionColorType
 
 ## Remarks
 
-The  **ExtrusionColorType** property value can be one of the ** [MsoExtrusionColorType](Office.MsoExtrusionColorType.md)** constants declared in the Microsoft Office type library.
+The  **ExtrusionColorType** property value can be one of the **[MsoExtrusionColorType](Office.MsoExtrusionColorType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

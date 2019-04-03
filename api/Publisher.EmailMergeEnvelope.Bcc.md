@@ -19,7 +19,7 @@ Gets or sets a semicolon-delimited list of email addresses that receive a blind 
 
 ## Syntax
 
- _expression_. **Bcc**
+ _expression_.**Bcc**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 

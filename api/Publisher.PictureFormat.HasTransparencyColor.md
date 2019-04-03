@@ -19,7 +19,7 @@ Returns a  **Boolean** that indicates whether a transparency color has been appl
 
 ## Syntax
 
- _expression_. **HasTransparencyColor**
+ _expression_.**HasTransparencyColor**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

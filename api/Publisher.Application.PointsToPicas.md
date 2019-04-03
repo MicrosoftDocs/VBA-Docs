@@ -19,7 +19,7 @@ Converts a measurement from points to picas (1 pica = 12 points). Returns the co
 
 ## Syntax
 
- _expression_. **PointsToPicas**(**_Value_**)
+ _expression_.**PointsToPicas**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 

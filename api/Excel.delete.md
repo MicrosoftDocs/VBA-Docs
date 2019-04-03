@@ -21,7 +21,7 @@ _expression_.**Delete**
  _expression_ Required. An expression that returns one of the above objects.
 Delete method as it applies to the  **Range** object.
 Deletes the specified object.
-_expression_. **Delete**(**_Shift_**)
+_expression_.**Delete**(**_Shift_**)
  _expression_ Required. An expression that returns one of the above objects.
  **Shift** Optional
  **xlDeleteShiftDirection**

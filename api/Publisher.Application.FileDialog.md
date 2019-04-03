@@ -19,7 +19,7 @@ Returns a  **FileDialog** object that represents a single instance of a file dia
 
 ## Syntax
 
- _expression_. **FileDialog**(**_Type_**)
+ _expression_.**FileDialog**(**_Type_**)
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -39,7 +39,7 @@ FileDialog
 
 ## Remarks
 
-The Type parmater can be one of the  ** [MsoFileDialogType](Office.MsoFileDialogType.md)** constants declared in the Microsoft Office type library.
+The Type parmater can be one of the  **[MsoFileDialogType](Office.MsoFileDialogType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

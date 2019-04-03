@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the font size for the specified W
 
 ## Syntax
 
- _expression_. **FontSize**
+ _expression_.**FontSize**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

@@ -19,7 +19,7 @@ Returns a  **[ParagraphFormat](Publisher.ParagraphFormat.md)** object that repre
 
 ## Syntax
 
- _expression_. **MajorityParagraphFormat**
+ _expression_.**MajorityParagraphFormat**
 
  _expression_ A variable that represents a  **TextRange** object.
 

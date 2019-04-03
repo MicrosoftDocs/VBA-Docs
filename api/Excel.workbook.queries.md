@@ -25,6 +25,6 @@ Returns a **[Queries](Excel.workbookquery.md)** collection that represents all t
 
 [Workbook Object](Excel.Workbook.md)
 
-[Workbook Object Members](./overview/Excel.md)
+[Workbook Object Members](overview/Excel.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Returns an individual object from a specified collection. Read-only.
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **RulerGuides** object.
 

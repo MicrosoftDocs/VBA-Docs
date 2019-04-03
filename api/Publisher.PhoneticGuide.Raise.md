@@ -19,7 +19,7 @@ Returns a  **Variant** indicating the distance between the top of the base text 
 
 ## Syntax
 
- _expression_. **Raise**
+ _expression_.**Raise**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 

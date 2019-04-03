@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the left indent value (in points)
 
 ## Syntax
 
- _expression_. **LeftIndent**
+ _expression_.**LeftIndent**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

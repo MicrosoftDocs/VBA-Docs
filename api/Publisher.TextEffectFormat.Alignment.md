@@ -19,13 +19,13 @@ Returns or sets a  **MsoTextEffectAlignment** constant that represents the align
 
 ## Syntax
 
- _expression_. **Alignment**
+ _expression_.**Alignment**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
 
 ## Remarks
 
-The  **Alignment** property value can be one of the ** [MsoTextEffectAlignment](Office.MsoTextEffectAlignment.md)** constants declared in the Microsoft Office type library.
+The  **Alignment** property value can be one of the **[MsoTextEffectAlignment](Office.MsoTextEffectAlignment.md)** constants declared in the Microsoft Office type library.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

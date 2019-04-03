@@ -19,7 +19,7 @@ Returns the number of  **[Attachment](Publisher.Attachment.md)** objects in the 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents an  **Attachments** collection.
 

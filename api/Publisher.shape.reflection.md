@@ -14,7 +14,7 @@ Returns a  [ReflectionFormat](Publisher.reflectionformat.md) object that represe
 
 ## Syntax
 
- _expression_. **Reflection**
+ _expression_.**Reflection**
 
  _expression_ A variable that represents a  **Shape** object.
 

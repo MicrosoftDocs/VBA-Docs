@@ -19,7 +19,7 @@ Returns or sets an  **MsoFilterConjunction** constant that represents how a filt
 
 ## Syntax
 
- _expression_. **Conjunction**
+ _expression_.**Conjunction**
 
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 

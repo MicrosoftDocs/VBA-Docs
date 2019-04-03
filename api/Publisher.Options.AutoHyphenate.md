@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. **AutoHyphenate**
+ _expression_.**AutoHyphenate**
 
  _expression_ A variable that represents an  **Options** object.
 

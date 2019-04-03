@@ -17,7 +17,7 @@ Specifies the style of line endings, as well as the format of dashed lines. Read
 
 ## Syntax
 
- _expression_. **CapStyle**
+ _expression_.**CapStyle**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

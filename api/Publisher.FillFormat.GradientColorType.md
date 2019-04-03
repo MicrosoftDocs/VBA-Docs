@@ -19,7 +19,7 @@ Returns an  **MsoGradientColorType** constant indicating the gradient color type
 
 ## Syntax
 
- _expression_. **GradientColorType**
+ _expression_.**GradientColorType**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -33,7 +33,7 @@ MsoGradientColorType
 
 Use the  [OneColorGradient](Publisher.FillFormat.OneColorGradient.md),  [PresetGradient](Publisher.FillFormat.PresetGradient.md), or  **[TwoColorGradient](Publisher.FillFormat.TwoColorGradient.md)** method to set the gradient type for the fill.
 
-The  **GradientColorType** property value can be one of the ** [MsoGradientColorType](Office.MsoGradientColorType.md)** constants declared in the Microsoft Office type library.
+The  **GradientColorType** property value can be one of the **[MsoGradientColorType](Office.MsoGradientColorType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

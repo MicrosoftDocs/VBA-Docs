@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # pbEmailMergePriority enumeration (Publisher)
 
-Constants for merged email message priority passed to and returned by the  ** [EmailMergeEnvelope.Priority](Publisher.EmailMergeEnvelope.Priority.md)** property.
+Constants for merged email message priority passed to and returned by the  **[EmailMergeEnvelope.Priority](Publisher.EmailMergeEnvelope.Priority.md)** property.
 
 
 

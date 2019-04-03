@@ -16,7 +16,7 @@ Occurs before the user changes the value of a task field. Uses the **EventInfo**
 
 ## Syntax
 
-_expression_. **ProjectBeforeTaskChange2** (**_tsk_**, **_Field_**, **_NewVal_**, **_Info_**)
+_expression_.**ProjectBeforeTaskChange2** (**_tsk_**, **_Field_**, **_NewVal_**, **_Info_**)
 
 _expression_ A variable that represents an **Application** object.
 

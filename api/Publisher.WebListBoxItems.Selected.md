@@ -19,7 +19,7 @@ Selects or cancels the selection of an item in a Web list box control.
 
 ## Syntax
 
- _expression_. **Selected**(**_Index_**,  **_SelectState_**)
+ _expression_.**Selected**(**_Index_**,  **_SelectState_**)
 
  _expression_ A variable that represents a  **WebListBoxItems** object.
 

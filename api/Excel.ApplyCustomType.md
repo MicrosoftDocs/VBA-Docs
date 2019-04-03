@@ -103,7 +103,7 @@ _expression_. `ApplyCustomType`( `_ChartType_`)
 
 ApplyCustomType method as it applies to the  **Chart** object.
 Applies a standard or custom chart type to a chart.
-_expression_. **ApplyCustomType**(**_ChartType_**,  **_TypeName_**)
+_expression_.**ApplyCustomType**(**_ChartType_**,  **_TypeName_**)
  _expression_ Required. An expression that returns one of the above objects.
  **ChartType**Required 
  **xlChartType**

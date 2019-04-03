@@ -19,7 +19,7 @@ Returns  **msoTrue** if the shape represents a **TableFrame** object or **msoFal
 
 ## Syntax
 
- _expression_. **HasTable**
+ _expression_.**HasTable**
 
  _expression_ A variable that represents a  **Shape** object.
 

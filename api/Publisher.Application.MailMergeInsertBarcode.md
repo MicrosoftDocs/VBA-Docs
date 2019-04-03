@@ -19,7 +19,7 @@ Occurs when the user issues the command to insert postal barcodes into a mail-me
 
 ## Syntax
 
- _expression_. **MailMergeInsertBarcode**(**_Doc_**,  **_OkToInsert_**)
+ _expression_.**MailMergeInsertBarcode**(**_Doc_**,  **_OkToInsert_**)
 
  _expression_ A variable that represents an  **Application** object.
 

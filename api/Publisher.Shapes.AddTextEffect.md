@@ -19,7 +19,7 @@ Adds a new  **Shape** object representing a WordArt object to the specified **Sh
 
 ## Syntax
 
- _expression_. **AddTextEffect**(**_PresetTextEffect_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
+ _expression_.**AddTextEffect**(**_PresetTextEffect_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -52,7 +52,7 @@ The height and width of the WordArt object is determined by its text and formatt
 
 Use the  **[TextEffect](Publisher.Shape.TextEffect.md)** property to return a **[TextEffectFormat](Publisher.TextEffectFormat.md)** object whose properties can be used to edit an existing WordArt object.
 
-The PresetTextEffect parameter can be one of the  ** [MsoPresetTextEffect](Office.MsoPresetTextEffect.md)** constants declared in the Microsoft Office type library. The **msoTextEffectMixed** constant is not supported.
+The PresetTextEffect parameter can be one of the  **[MsoPresetTextEffect](Office.MsoPresetTextEffect.md)** constants declared in the Microsoft Office type library. The **msoTextEffectMixed** constant is not supported.
 
 The FontBold parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 

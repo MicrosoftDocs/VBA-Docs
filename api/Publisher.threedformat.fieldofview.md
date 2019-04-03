@@ -17,7 +17,7 @@ Returns or sets a  **Single** that represents the amount of perspective for a sh
 
 ## Syntax
 
- _expression_. **FieldOfView**
+ _expression_.**FieldOfView**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

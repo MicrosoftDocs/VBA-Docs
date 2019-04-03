@@ -19,7 +19,7 @@ Returns or sets an  **MsoArrowheadStyle** constant indicating the style of the a
 
 ## Syntax
 
- _expression_. **EndArrowheadStyle**
+ _expression_.**EndArrowheadStyle**
 
  _expression_ A variable that represents an  **LineFormat** object.
 
@@ -33,7 +33,7 @@ MsoArrowheadStyle
 
 Use the  **[BeginArrowheadStyle](Publisher.LineFormat.BeginArrowheadStyle.md)** property to return or set the style of the arrowhead at the beginning of the line.
 
-The  **EndArrowheadStyle** property value can be one of the ** [MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** constants declared in the Microsoft Office type library.
+The  **EndArrowheadStyle** property value can be one of the **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

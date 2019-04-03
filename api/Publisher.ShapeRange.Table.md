@@ -19,7 +19,7 @@ Returns a  **Table** object that represents a table in Microsoft Publisher.
 
 ## Syntax
 
- _expression_. **Table**
+ _expression_.**Table**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **String** which represents the name of the field in the mail
 
 ## Syntax
 
- _expression_. **DataFieldName**
+ _expression_.**DataFieldName**
 
  _expression_ A variable that represents a  **MailMergeMappedDataField** object.
 

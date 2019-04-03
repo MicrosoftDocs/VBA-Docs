@@ -19,7 +19,7 @@ Returns the  **[WebCheckBox](Publisher.WebCheckBox.md)** object associated with 
 
 ## Syntax
 
- _expression_. **WebCheckBox**
+ _expression_.**WebCheckBox**
 
  _expression_ A variable that represents a  **Shape** object.
 

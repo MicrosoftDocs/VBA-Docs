@@ -19,7 +19,7 @@ Returns or sets a  **MsoLanguageID** constant that represents the language for t
 
 ## Syntax
 
- _expression_. **LanguageID**
+ _expression_.**LanguageID**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -31,7 +31,7 @@ MsoLanguageID
 
 ## Remarks
 
-The  **LanguageID** property value can be one of the ** [MsoLanguageID](Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
+The  **LanguageID** property value can be one of the **[MsoLanguageID](Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

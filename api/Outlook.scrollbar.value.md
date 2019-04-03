@@ -14,7 +14,7 @@ Returns or sets a  **Variant** that specifies the state of a **[ScrollBar](Outlo
 
 ## Syntax
 
-_expression_. **Value**
+_expression_.**Value**
 
 _expression_ A variable that represents a  **ScrollBar** object.
 

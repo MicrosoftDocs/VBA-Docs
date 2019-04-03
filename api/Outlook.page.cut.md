@@ -14,7 +14,7 @@ Removes selected information from an object and transfers it to the Clipboard.
 
 ## Syntax
 
-_expression_. **Cut**
+_expression_.**Cut**
 
 _expression_ A variable that represents a  **Page** object.
 

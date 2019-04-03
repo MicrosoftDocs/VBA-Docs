@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # pbCanvasArrangementType enumeration (Publisher)
 
-Constants passed to and returned by the  ** [Shapes.CanvasArrangementType](Publisher.Shapes.CanvasArrangementType.md)** property, specifying the arrangement type of the canvas.
+Constants passed to and returned by the  **[Shapes.CanvasArrangementType](Publisher.Shapes.CanvasArrangementType.md)** property, specifying the arrangement type of the canvas.
 
 
 

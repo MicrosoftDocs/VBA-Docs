@@ -14,7 +14,7 @@ Returns or sets a  **String** that represents the namespace property of the cont
 
 ## Syntax
 
- _expression_. **Namespace**
+ _expression_.**Namespace**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

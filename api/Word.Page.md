@@ -40,7 +40,7 @@ The  **Top** and **Left** properties of the **Page** object always return 0 (zer
 
 |Name|
 |:-----|
-|[SaveAsPNG](./overview/Word.md)|
+|[SaveAsPNG](overview/Word.md)|
 
 ## Properties
 
@@ -62,6 +62,6 @@ The  **Top** and **Left** properties of the **Page** object always return 0 (zer
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. **InvalidAddress**
+ _expression_.**InvalidAddress**
 
  _expression_ A variable that represents an  **MailMergeDataSource** object.
 

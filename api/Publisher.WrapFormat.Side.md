@@ -19,7 +19,7 @@ Returns or sets a  **PbWrapSideType** constant that indicates whether text shoul
 
 ## Syntax
 
- _expression_. **Side**
+ _expression_.**Side**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 

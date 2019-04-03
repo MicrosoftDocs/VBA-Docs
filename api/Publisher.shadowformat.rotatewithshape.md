@@ -17,7 +17,7 @@ Returns or sets an  **MsoTriState** constant that represents whether to rotate t
 
 ## Syntax
 
- _expression_. **RotateWithShape**
+ _expression_.**RotateWithShape**
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 

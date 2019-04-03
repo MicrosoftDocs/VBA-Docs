@@ -19,7 +19,7 @@ Sets or returns a  **PbPageNumberFormat** constant that represents the formattin
 
 ## Syntax
 
- _expression_. **PageNumberFormat**
+ _expression_.**PageNumberFormat**
 
  _expression_ A variable that represents a  **Section** object.
 

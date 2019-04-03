@@ -19,7 +19,7 @@ Returns a  **[ReaderSpread](Publisher.ReaderSpread.md)** object that represents 
 
 ## Syntax
 
- _expression_. **ReaderSpread**
+ _expression_.**ReaderSpread**
 
  _expression_ A variable that represents a  **Page** object.
 

@@ -19,7 +19,7 @@ Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication
 
 ## Syntax
 
- _expression_. **Wizard**
+ _expression_.**Wizard**
 
  _expression_ A variable that represents a  **Document** object.
 

@@ -19,7 +19,7 @@ Returns a **[ShapeRange](Publisher.ShapeRange.md)** object that represents a sub
 
 ## Syntax
 
-_expression_. **Range**(**_Index_**)
+_expression_.**Range**(**_Index_**)
 
 _expression_ A variable that represents a **CatalogMergeShapes** object.
 

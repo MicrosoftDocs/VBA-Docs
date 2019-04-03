@@ -16,7 +16,7 @@ Based on the enumerated screen-resolution value passed to the method in the eRes
 
 ## Syntax
 
- _expression_. **GetPhysicalDimensions**(**_eRes_**, **_pnWidth_**, **_pnHeight_**)
+ _expression_.**GetPhysicalDimensions**(**_eRes_**, **_pnWidth_**, **_pnHeight_**)
 
 
 
@@ -27,7 +27,7 @@ Based on the enumerated screen-resolution value passed to the method in the eRes
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|eRes|Required| ** [VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md)**|A screen-resolution value.|
+|eRes|Required| **[VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md)**|A screen-resolution value.|
 |pnWidth |Required| **Long**|The number of horizontal screen pixels.|
 |pnHeight |Required| **Long**|The number of vertical screen pixels.|
 
