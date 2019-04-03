@@ -19,7 +19,7 @@ Returns or sets the category axis type. Read/write  **[XlCategoryType](PowerPoin
 
 ## Syntax
 
-_expression_. `CategoryType`
+_expression_.**CategoryType**
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

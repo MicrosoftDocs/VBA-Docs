@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Axis.CategoryType property (Word)
 
-Returns or sets the category axis type. Read/write  **[XlCategoryType](Word.xlcategorytype.md)**.
+Returns or sets the category axis type. Read/write **[XlCategoryType](Word.xlcategorytype.md)**.
 
 
 ## Syntax
 
-_expression_. `CategoryType`
+_expression_.**CategoryType**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+_expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
@@ -46,9 +46,6 @@ End With
 ```
 
 
-## See also
 
-
-[Axis Object](Word.Axis.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

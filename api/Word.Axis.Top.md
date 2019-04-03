@@ -21,7 +21,7 @@ Returns the distance, in points, from the top edge of the object to the top of r
 
  _expression_.**Top**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## See also

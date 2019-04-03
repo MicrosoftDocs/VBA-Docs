@@ -21,7 +21,7 @@ Returns or sets the minimum value on the value axis. Read/write  **Double**.
 
 _expression_. `MinimumScale`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
