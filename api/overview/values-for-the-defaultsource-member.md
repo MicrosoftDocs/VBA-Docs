@@ -14,7 +14,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |1|Upper or only one bin|
 |2|Lower bin|

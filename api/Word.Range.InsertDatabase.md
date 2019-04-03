@@ -66,7 +66,7 @@ The value of the Style argument can be the sum of any combination of the followi
 
 
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |0 (zero)|None|
 |1|Borders|

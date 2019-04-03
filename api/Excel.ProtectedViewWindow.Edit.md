@@ -46,7 +46,7 @@ You can specify one of the values, listed in the following table, in the  _Updat
 
 
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |0|External references (links) will not be updated when the workbook is opened.|
 |3|External references (links) will be updated when the workbook is opened.|

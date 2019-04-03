@@ -46,7 +46,7 @@ Variant
 
 The following table lists the values that can be passed in the Type argument. Can be one or a sum of the values. For example, for an input box that can accept both text and numbers, set _Type_ to 1 + 2.
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |0|A formula|
 |1|A number|

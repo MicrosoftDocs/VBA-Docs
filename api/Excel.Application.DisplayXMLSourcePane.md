@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.Application.DisplayXMLSourcePane
 ms.assetid: 1dea98ac-8d36-4745-cb6a-9a607e863ff2
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
 
 # Application.DisplayXMLSourcePane method (Excel)
 
-Opens the  **XML Source** task pane and displays the XML map specified by the _XmlMap_ argument.
+Opens the **XML Source** task pane and displays the XML map specified by the _XmlMap_ argument.
 
 
 ## Syntax
 
-_expression_. `DisplayXMLSourcePane`( `_XmlMap_` )
+_expression_.**DisplayXMLSourcePane** (_XmlMap_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,8 +32,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-You can use the following code to hide the  **XML Source** task pane.
-
+You can use the following code to hide the **XML Source** task pane.
 
 ```vb
 Application.CommandBars("XML Source").Visible = False
@@ -44,8 +41,7 @@ Application.CommandBars("XML Source").Visible = False
 
 ## Example
 
-The following example adds an XML map named Customers to the active workbook, and then displays the XML map in the  **XML Source** task pane.
-
+The following example adds an XML map named Customers to the active workbook, and then displays the XML map in the **XML Source** task pane.
 
 ```vb
 Sub DisplayXMLMap() 
@@ -62,9 +58,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
