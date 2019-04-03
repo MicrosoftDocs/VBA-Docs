@@ -21,7 +21,7 @@ Creates and returns a  **LetterContent** object based on the specified letter el
 
 _expression_. `CreateLetterContent`( `_DateFormat_` , `_IncludeHeaderFooter_` , `_PageDesign_` , `_LetterStyle_` , `_Letterhead_` , `_LetterheadLocation_` , `_LetterheadSize_` , `_RecipientName_` , `_RecipientAddress_` , `_Salutation_` , `_SalutationType_` , `_RecipientReference_` , `_MailingInstructions_` , `_AttentionLine_` , `_Subject_` , `_CCList_` , `_ReturnAddress_` , `_SenderName_` , `_Closing_` , `_SenderCompany_` , `_SenderJobTitle_` , `_SenderInitials_` , `_EnclosureNumber_` , `_InfoBlock_` , `_RecipientCode_` , `_RecipientGender_` , `_ReturnAddressShortForm_` , `_SenderCity_` , `_SenderCode_` , `_SenderGender_` , `_SenderReference_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Switches the specified document from print preview to the previous view.
 
 _expression_. `ClosePrintPreview`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **[Comments](Word.comments.md)** collection that represents all the c
 
 _expression_. `Comments`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

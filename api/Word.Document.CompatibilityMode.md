@@ -21,7 +21,7 @@ Returns a  **Long** that specifies the compatibility mode that Word uses when op
 
 _expression_. `CompatibilityMode`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

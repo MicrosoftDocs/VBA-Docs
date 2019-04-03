@@ -21,7 +21,7 @@ Accepts all revisions in the specified document that are displayed on the screen
 
 _expression_. `AcceptAllRevisionsShown`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

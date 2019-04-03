@@ -19,7 +19,7 @@ Removes protection from a sheet or workbook. This method has no effect if the sh
 
 ## Syntax
 
-_expression_. `Unprotect`( `_Password_` )
+_expression_.**Unprotect** (_Password_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

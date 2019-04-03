@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `EmbedLinguisticData`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

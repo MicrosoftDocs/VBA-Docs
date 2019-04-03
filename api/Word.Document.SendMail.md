@@ -21,7 +21,7 @@ Opens a message window for sending the specified document through Microsoft Exch
 
 _expression_. `SendMail`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Sets or returns a  **WdShowFilter** constant that represents the styles and form
 
 _expression_. `FormattingShowFilter`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

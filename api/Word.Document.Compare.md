@@ -21,7 +21,7 @@ Displays revision marks that indicate where the specified document differs from 
 
 _expression_. `Compare`( `_Name_` , `_AuthorName_` , `_CompareTarget_` , `_DetectFormatChanges_` , `_IgnoreAllComparisonWarnings_` , `_AddToRecentFiles_` , `_RemovePersonalInformation_` , `_RemoveDateAndTime_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns a  **SmartDocument** object that represents the settings for a smart doc
 
 _expression_. `SmartDocument`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

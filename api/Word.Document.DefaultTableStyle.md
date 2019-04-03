@@ -21,7 +21,7 @@ Returns a  **Variant** that represents the table style that is applied to all ne
 
 _expression_. `DefaultTableStyle`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Example

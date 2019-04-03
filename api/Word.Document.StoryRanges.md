@@ -21,7 +21,7 @@ Returns a  **[StoryRanges](Word.storyranges.md)** collection that represents all
 
 _expression_. `StoryRanges`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

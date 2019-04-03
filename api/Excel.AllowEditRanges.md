@@ -26,7 +26,7 @@ After an **AllowEditRanges** collection has been returned, you can use the **Add
 
 ## Example
 
-In this example, Microsoft Excel allows edits to range "A1:A4" on the active worksheet, and then notifies the user of the title and address of the specified range.
+In this example, Microsoft Excel allows edits to range A1:A4 on the active worksheet, and then notifies the user of the title and address of the specified range.
 
 ```vb
 Sub UseAllowEditRanges() 

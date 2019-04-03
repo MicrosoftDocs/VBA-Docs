@@ -21,7 +21,7 @@ Repaginates the entire document.
 
 _expression_. `Repaginate`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

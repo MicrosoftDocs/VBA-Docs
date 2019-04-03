@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AllowEditRanges.Item
 ms.assetid: c6ac67af-258d-c2bf-3169-f42a5b037f2e
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
@@ -26,15 +26,13 @@ _expression_ A variable that represents an **[AllowEditRanges](Excel.AllowEditRa
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number of the object.|
 
 ## Example
 
-This example allows edits to range ("A1:A4") on the active worksheet, notifies the user, then changes the password for this specified range and notifies the user of this change.
+This example allows edits to range A1:A4 on the active worksheet, notifies the user, changes the password for this specified range, and then notifies the user of this change.
 
 
 ```vb
@@ -63,9 +61,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[AllowEditRanges Collection](Excel.AllowEditRanges.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
