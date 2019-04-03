@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.CalculateUntilAsyncQueriesDone
 ms.assetid: 5796365e-5a79-3e4b-023e-3a1a120e92df
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,11 @@ Runs all pending queries to OLEDB and OLAP data sources.
 
 ## Syntax
 
-_expression_. `CalculateUntilAsyncQueriesDone`
+_expression_.**CalculateUntilAsyncQueriesDone**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
