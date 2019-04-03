@@ -18,7 +18,7 @@ Indicates the number of output formats that are installed on the user's computer
 
  _expression_.**FormatCount**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value

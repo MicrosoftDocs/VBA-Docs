@@ -18,7 +18,7 @@ Determines whether the  **Search Pages** control for searching for shapes in a d
 
  _expression_.**Search**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value

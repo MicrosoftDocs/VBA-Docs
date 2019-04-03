@@ -18,7 +18,7 @@ Places the friendly name of the output format specified by the index passed to t
 
  _expression_.**GetFormatName**(**_nIndex_**,  **_pVal_**)
 
- _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Parameters

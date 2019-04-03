@@ -20,7 +20,7 @@ The **VisSaveAsWeb** object contains the methods and property settings that are 
     
 - The supporting files associated with the project, for example, the graphics files (GIFs and JPGs), script files, data (XML) files, and cascading style sheet (CSS) files.
     
-To set the properties for your web page, use the **[WebPageSettings](Visio.WebPageSettings.md)** property of the **VisSaveAsWeb** object to get a **[VisWebPageSettings](overview/Visio.md)** object. After the properties are set, perform the following steps.
+To set the properties for your web page, use the **[WebPageSettings](Visio.WebPageSettings.md)** property of the **VisSaveAsWeb** object to get a **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object. After the properties are set, perform the following steps.
 
 
 1. Call the **[AttachToVisioDoc](Visio.AttachToVisioDoc.md)** method to specify the drawing to be saved as a web page. For example:

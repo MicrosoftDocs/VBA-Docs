@@ -18,7 +18,7 @@ Determines whether the  **Go to Page** navigation control is displayed in a Web 
 
  _expression_.**NavBar**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value

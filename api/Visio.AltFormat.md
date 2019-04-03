@@ -18,7 +18,7 @@ Determines whether a secondary output format for the Web page is defined. Read/w
 
  _expression_.**AltFormat**
 
- _expression_ An expression that returns a  **[VisWebPageSettings](overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
