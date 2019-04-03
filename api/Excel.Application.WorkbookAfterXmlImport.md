@@ -33,7 +33,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The target workbook.|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The XML map that was used to import data.|
 | _IsRefresh_|Required| **Boolean**| **True** if the event was triggered by refreshing an existing connection to XML data, **False** if a new mapping was created.|
-| _Result_|Required| **[xlXmlImportResult](Excel.XlXmlImportResult.md)**|Indicates the results of the refresh or import operation.|
+| _Result_|Required| **[XlXmlImportResult](Excel.XlXmlImportResult.md)**|Indicates the results of the refresh or import operation.|
 
 ## Return value
 

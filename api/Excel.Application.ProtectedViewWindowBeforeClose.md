@@ -31,7 +31,7 @@ _expression_ A variable that represents an '[Application](Excel.Application(obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the  **Protected View** window that is closed.|
-| _Reason_|Required| **[xlProtectedViewCloseReason](Excel.XlProtectedViewCloseReason.md)**|A constant that specifies the reason the  **Protected View** window is closed.|
+| _Reason_|Required| **[XlProtectedViewCloseReason](Excel.XlProtectedViewCloseReason.md)**|A constant that specifies the reason the  **Protected View** window is closed.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the window does not close when the procedure is finished.|
 
 ## Return value

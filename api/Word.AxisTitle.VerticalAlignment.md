@@ -26,7 +26,7 @@ _expression_. `VerticalAlignment`
 
 ## Remarks
 
-The value of this property can be set to one of the following  **[xlConstants](Word.XlConstants.md)** constants:
+The value of this property can be set to one of the following  **[XlConstants](Word.XlConstants.md)** constants:
 
 
 -  **xlBottom**

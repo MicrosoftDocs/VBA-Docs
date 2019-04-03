@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotTable.Version property (Excel)
 
-Returns a  **[xlPivotTableVersionList](Excel.XlPivotTableVersionList.md)** value that represents the Microsoft Excel version number.
+Returns a  **[XlPivotTableVersionList](Excel.XlPivotTableVersionList.md)** value that represents the Microsoft Excel version number.
 
 
 ## Syntax

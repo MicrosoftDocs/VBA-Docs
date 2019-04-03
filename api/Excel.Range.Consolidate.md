@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sources_|Optional| **Variant**|The sources of the consolidation as an array of text reference strings in R1C1-style notation. The references must include the full path of sheets to be consolidated.|
-| _Function_|Optional| **Variant**|One of the constants of  **[xlConsolidationFunction](Excel.XlConsolidationFunction.md)** which specifies the type of consolidation.|
+| _Function_|Optional| **Variant**|One of the constants of  **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)** which specifies the type of consolidation.|
 | _TopRow_|Optional| **Variant**| **True** to consolidate data based on column titles in the top row of the consolidation ranges. **False** to consolidate data by position. The default value is **False**.|
 | _LeftColumn_|Optional| **Variant**| **True** to consolidate data based on row titles in the left column of the consolidation ranges. **False** to consolidate data by position. The default value is **False**.|
 | _CreateLinks_|Optional| **Variant**| **True** to have the consolidation use worksheet links. **False** to have the consolidation copy the data. The default value is **False**.|

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartFont.Background property (PowerPoint)
 
-Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[xlBackground](PowerPoint.XlBackground.md)**.
+Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[XlBackground](PowerPoint.XlBackground.md)**.
 
 
 ## Syntax

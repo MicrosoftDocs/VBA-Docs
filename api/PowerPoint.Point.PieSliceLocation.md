@@ -30,8 +30,8 @@ _expression_. `PieSliceLocation`( `_loc_`, `_Index_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _loc_|Required|**[xlPieSliceLocation](Excel.XlPieSliceLocation.md)**|Specifies a horizontal or vertical coordinate.|
-| _Index_|Optional|**[xlPieSliceIndex](Excel.XlPieSliceIndex.md)**|Specifies which pie slice position coordinate to return. The default is  **xlOuterCenterPoint**.|
+| _loc_|Required|**[XlPieSliceLocation](Excel.XlPieSliceLocation.md)**|Specifies a horizontal or vertical coordinate.|
+| _Index_|Optional|**[XlPieSliceIndex](Excel.XlPieSliceIndex.md)**|Specifies which pie slice position coordinate to return. The default is  **xlOuterCenterPoint**.|
 
 ## Return value
 

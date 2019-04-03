@@ -26,7 +26,7 @@ _expression_. `SizeRepresents`
 
 ## Remarks
 
-This property can be either of the following  **[xlSizeRepresents](Word.xlsizerepresents.md)** constants:
+This property can be either of the following  **[XlSizeRepresents](Word.xlsizerepresents.md)** constants:
 
 
 -  **xlSizeIsArea**

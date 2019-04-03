@@ -26,7 +26,7 @@ _expression_. `HorizontalAlignment`
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[xlConstants](PowerPoint.XlConstants.md)** constants:
+You can set the value of this property to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
 -  **xlCenter**

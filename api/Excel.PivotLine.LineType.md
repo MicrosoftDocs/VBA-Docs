@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotLine.LineType property (Excel)
 
-Returns an  **[xlPivotLineType](Excel.XlPivotLineType.md)** constant that indicates the type of PivotLine. Read-only.
+Returns an  **[XlPivotLineType](Excel.XlPivotLineType.md)** constant that indicates the type of PivotLine. Read-only.
 
 
 ## Syntax

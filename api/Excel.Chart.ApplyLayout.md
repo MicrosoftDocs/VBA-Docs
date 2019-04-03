@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required| **Long**|Specifies the type of layout. The type of layout is denoted by a number from 1 to 10.|
-| _ChartType_|Optional| **[xlChartType](Excel.XlChartType.md)**|The type of chart.|
+| _ChartType_|Optional| **[XlChartType](Excel.XlChartType.md)**|The type of chart.|
 
 ## Remarks
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.Type property (Excel)
 
-Returns an  **[xlAxisType](Excel.XlAxisType.md)** value that represents the Axis type.
+Returns an  **[XlAxisType](Excel.XlAxisType.md)** value that represents the Axis type.
 
 
 ## Syntax

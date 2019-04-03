@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' 
 
 ## Return value
 
- **[xlAllocationMethod](Excel.XlAllocationMethod.md)**
+ **[XlAllocationMethod](Excel.XlAllocationMethod.md)**
 
 
 ## Remarks

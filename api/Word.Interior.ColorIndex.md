@@ -26,7 +26,7 @@ _expression_. `ColorIndex`
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](Word.xlcolorindex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.DisplayUnit property (PowerPoint)
 
-Returns or sets the unit label for the value axis. Read/write  **[xlDisplayUnit](PowerPoint.XlDisplayUnit.md)**, **xlCustom**, or **xlNone**.
+Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit](PowerPoint.XlDisplayUnit.md)**, **xlCustom**, or **xlNone**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Font.ThemeFont property (Excel)
 
-Returns or sets the theme font in the applied font scheme that is associated with the specified object. Read/write  **[xlThemeFont](Excel.XlThemeFont.md)**.
+Returns or sets the theme font in the applied font scheme that is associated with the specified object. Read/write  **[XlThemeFont](Excel.XlThemeFont.md)**.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Which_|Required| **[xlRunAutoMacro](Excel.XlRunAutoMacro.md)**|Specifies the automatic macro to run.|
+| _Which_|Required| **[XlRunAutoMacro](Excel.XlRunAutoMacro.md)**|Specifies the automatic macro to run.|
 
 ## Remarks
 

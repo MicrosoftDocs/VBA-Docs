@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.PrintComments property (Excel)
 
-Returns or sets the way comments are printed with the sheet. Read/write  **[xlPrintLocation](Excel.XlPrintLocation.md)**.
+Returns or sets the way comments are printed with the sheet. Read/write  **[XlPrintLocation](Excel.XlPrintLocation.md)**.
 
 
 ## Syntax

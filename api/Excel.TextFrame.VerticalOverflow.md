@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' obje
 
 ## Return value
 
- **[xlOartVerticalOverflow](Excel.XlOartVerticalOverflow.md)**
+ **[XlOartVerticalOverflow](Excel.XlOartVerticalOverflow.md)**
 
 
 ## Remarks

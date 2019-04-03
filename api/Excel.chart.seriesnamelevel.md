@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Chart.SeriesNameLevel property (Excel)
 
-Returns a  **[xlSeriesNameLevel enumeration (Excel)](Excel.xlseriesnamelevel.md)** constant referring to the level of where the series names are being sourced from. **Integer** Read/Write.
+Returns a  **[XlSeriesNameLevel enumeration (Excel)](Excel.xlseriesnamelevel.md)** constant referring to the level of where the series names are being sourced from. **Integer** Read/Write.
 
 
 ## Syntax

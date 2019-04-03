@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # PivotField.Orientation property (Excel)
 
-Returns or sets a  **[xlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)** value that represents the location of the field in the specified PivotTable report.
+Returns or sets a  **[XlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)** value that represents the location of the field in the specified PivotTable report.
 
 
 ## Syntax
 
 _expression_.**Orientation**
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks

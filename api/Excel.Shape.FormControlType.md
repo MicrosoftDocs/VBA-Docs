@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.FormControlType property (Excel)
 
-Returns the Microsoft Excel control type. Read-only  **[xlFormControl](Excel.XlFormControl.md)**.
+Returns the Microsoft Excel control type. Read-only  **[XlFormControl](Excel.XlFormControl.md)**.
 
 
 ## Syntax

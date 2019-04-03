@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCell.CustomSubtotalFunction property (Excel)
 
-Returns the custom subtotal function field setting of a  **PivotCell** object. Read-only **[xlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
+Returns the custom subtotal function field setting of a  **PivotCell** object. Read-only **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
 
 
 ## Syntax

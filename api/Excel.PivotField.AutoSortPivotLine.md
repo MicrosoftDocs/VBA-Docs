@@ -21,7 +21,7 @@ Returns the name of the PivotLine used to sort the specified PivotTable field au
 
 _expression_. `AutoSortPivotLine`
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## See also

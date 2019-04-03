@@ -30,8 +30,8 @@ _expression_. `PieSliceLocation`( `_loc_` , `_Index_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _loc_|Required| **[xlPieSliceLocation](Word.xlpieslicelocation.md)**|Specifies a horizontal or vertical coordinate.|
-| _Index_|Optional| **[xlPieSliceIndex](Word.xlpiesliceindex.md)**|Specifies which pie slice position coordinate to return. The default value is  **xlOuterCenterPoint**.|
+| _loc_|Required| **[XlPieSliceLocation](Word.xlpieslicelocation.md)**|Specifies a horizontal or vertical coordinate.|
+| _Index_|Optional| **[XlPieSliceIndex](Word.xlpiesliceindex.md)**|Specifies which pie slice position coordinate to return. The default value is  **xlOuterCenterPoint**.|
 
 ## Return value
 

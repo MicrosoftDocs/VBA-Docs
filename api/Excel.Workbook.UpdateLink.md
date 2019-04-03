@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|The name of the Microsoft Excel or DDE/OLE link to be updated, as returned from the  **[LinkSources](Excel.Workbook.LinkSources.md)** method.|
-| _Type_|Optional| **Variant**|One of the constants of  **[xlLinkType](Excel.XlLinkType.md)** specifying the type of link.|
+| _Type_|Optional| **Variant**|One of the constants of  **[XlLinkType](Excel.XlLinkType.md)** specifying the type of link.|
 
 ## Remarks
 

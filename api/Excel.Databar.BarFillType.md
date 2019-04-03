@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 ## Return value
 
- **[xlDataBarFillType](Excel.XlDataBarFillType.md)**
+ **[XlDataBarFillType](Excel.XlDataBarFillType.md)**
 
 
 ## Remarks

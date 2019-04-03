@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.PlotBy property (Excel)
 
-Returns or sets the way columns or rows are used as data series on the chart. Can be one of the following  **[xlRowCol](Excel.XlRowCol.md)** constants: **xlColumns** or **xlRows**. Read/write **Long**.
+Returns or sets the way columns or rows are used as data series on the chart. Can be one of the following  **[XlRowCol](Excel.XlRowCol.md)** constants: **xlColumns** or **xlRows**. Read/write **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.MajorUnitScale property (Excel)
 
-Returns or sets the major unit scale value for the category axis when the  **CategoryType** property is set to **xlTimeScale**. Read/write **[xlTimeUnit](Excel.XlTimeUnit.md)**.
+Returns or sets the major unit scale value for the category axis when the  **CategoryType** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](Excel.XlTimeUnit.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.MailSystem property (Excel)
 
-Returns the mail system that's installed on the host machine. Read-only  **[xlMailSystem](Excel.XlMailSystem.md)**.
+Returns the mail system that's installed on the host machine. Read-only  **[XlMailSystem](Excel.XlMailSystem.md)**.
 
 
 ## Syntax

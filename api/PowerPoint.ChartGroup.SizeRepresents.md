@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md
 
 ## Remarks
 
-This property can be either of the following  **[xlSizeRepresents](PowerPoint.XlSizeRepresents.md)** constants:
+This property can be either of the following  **[XlSizeRepresents](PowerPoint.XlSizeRepresents.md)** constants:
 
 
 -  **xlSizeIsArea**

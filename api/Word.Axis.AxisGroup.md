@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.AxisGroup property (Word)
 
-Returns the type of axis group. Read-only  **[xlAxisGroup](Word.xlaxisgroup.md)**.
+Returns the type of axis group. Read-only  **[XlAxisGroup](Word.xlaxisgroup.md)**.
 
 
 ## Syntax

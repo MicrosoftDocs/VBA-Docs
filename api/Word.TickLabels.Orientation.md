@@ -26,7 +26,7 @@ Returns or sets the text orientation. Read/write  **Long**.
 
 ## Remarks
 
-The value of this property can be an integer from -90 through 90 degrees or one of the  **[xlTickLabelOrientation](Word.xlticklabelorientation.md)** constants.
+The value of this property can be an integer from -90 through 90 degrees or one of the  **[XlTickLabelOrientation](Word.xlticklabelorientation.md)** constants.
 
 
 ## See also

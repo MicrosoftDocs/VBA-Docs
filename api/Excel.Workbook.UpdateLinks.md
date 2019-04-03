@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Workbook.UpdateLinks property (Excel)
 
-Returns or sets an  **[xlUpdateLink](Excel.XlUpdateLinks.md)** constant indicating a workbook's setting for updating embedded OLE links. Read/write.
+Returns or sets an  **[XlUpdateLink](Excel.XlUpdateLinks.md)** constant indicating a workbook's setting for updating embedded OLE links. Read/write.
 
 
 ## Syntax

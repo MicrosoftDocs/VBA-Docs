@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[SparkVerticalAxis](Excel.SparkVertic
 
 ## Return value
 
- **[xlSparkScale](Excel.XlSparkScale.md)**
+ **[XlSparkScale](Excel.XlSparkScale.md)**
 
 
 ## See also

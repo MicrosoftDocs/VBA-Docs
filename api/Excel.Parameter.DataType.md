@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Parameter.DataType property (Excel)
 
-Returns or sets a  **[xlParameterDataType](Excel.XlParameterDataType.md)** value that represents the data type of the specified query parameter.
+Returns or sets a  **[XlParameterDataType](Excel.XlParameterDataType.md)** value that represents the data type of the specified query parameter.
 
 
 ## Syntax

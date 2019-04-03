@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListColumn.TotalsCalculation property (Excel)
 
-Determines the type of calculation in the Totals row of the list column based on the value of the  **[xlTotalsCalculation](Excel.XlTotalsCalculation.md)** enumeration. Read/write.
+Determines the type of calculation in the Totals row of the list column based on the value of the  **[XlTotalsCalculation](Excel.XlTotalsCalculation.md)** enumeration. Read/write.
 
 
 ## Syntax

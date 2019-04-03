@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Name.MacroType property (Excel)
 
-Returns or sets what the name refers to. Read/write  **[xlXLMMacroType](Excel.XlXLMMacroType.md)**.
+Returns or sets what the name refers to. Read/write  **[XlXLMMacroType](Excel.XlXLMMacroType.md)**.
 
 
 ## Syntax

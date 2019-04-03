@@ -30,8 +30,8 @@ _expression_ A variable that represents an **[Axes](Excel.Axes(object).md)** obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[xlAxisType](Excel.XlAxisType.md)**|The axis type.|
-| _AxisGroup_|Optional| **[xlAxisGroup](Excel.XlAxisGroup.md)**|The axis.|
+| _Type_|Required| **[XlAxisType](Excel.XlAxisType.md)**|The axis type.|
+| _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|The axis.|
 
 ## Return value
 

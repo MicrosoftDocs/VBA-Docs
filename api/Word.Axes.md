@@ -18,7 +18,7 @@ Represents a collection of all the  **[Axis](Word.Axis.md)** objects in the spec
 
 Use the  **[Axes](Word.Chart.Axes.md)** method to return the **Axes** collection.
 
-Use  **Axes** ( _Type_ , _AxisGroup_ ), where _Type_ is the axis type and _AxisGroup_ is the axis group, to return an **Axes** collection that contains a single **Axis** object. _Type_ can be one of the following **[xlAxisType](Word.xlaxistype.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[xlAxisGroup](Word.xlaxisgroup.md)** constants: **xlPrimary** or **xlSecondary**.
+Use  **Axes** ( _Type_ , _AxisGroup_ ), where _Type_ is the axis type and _AxisGroup_ is the axis group, to return an **Axes** collection that contains a single **Axis** object. _Type_ can be one of the following **[XlAxisType](Word.xlaxistype.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](Word.xlaxisgroup.md)** constants: **xlPrimary** or **xlSecondary**.
 
 
 ## Example

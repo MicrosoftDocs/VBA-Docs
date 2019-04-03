@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-pr
 
 ## Remarks
 
-The value of this property can be an integer value from - 90 to 90 degrees or one of the  **[xlTickLabelOrientation](Excel.XlTickLabelOrientation.md)** constants.
+The value of this property can be an integer value from - 90 to 90 degrees or one of the  **[XlTickLabelOrientation](Excel.XlTickLabelOrientation.md)** constants.
 
 
 ## See also

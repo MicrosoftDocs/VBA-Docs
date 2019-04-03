@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 |:-----|:-----|:-----|:-----|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The XML map that will be used to import data.|
 | _IsRefresh_|Required| **Boolean**| **True** if the event was triggered by refreshing an existing connection to XML data; **False** if the event was triggered by importing from a different data source.|
-| _Result_|Required| **[xlXmlImportResult](Excel.XlXmlImportResult.md)**|Indicates the results of the refresh or import operation.|
+| _Result_|Required| **[XlXmlImportResult](Excel.XlXmlImportResult.md)**|Indicates the results of the refresh or import operation.|
 
 ## Return value
 

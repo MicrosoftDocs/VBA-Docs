@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Calculation property (Excel)
 
-Returns or sets a  **[xlCalculation](Excel.XlCalculation.md)** value that represents the calculation mode.
+Returns or sets a  **[XlCalculation](Excel.XlCalculation.md)** value that represents the calculation mode.
 
 
 ## Syntax

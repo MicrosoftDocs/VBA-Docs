@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.MajorTickMark property (Excel)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[xlTickMark](Excel.XlTickMark.md)**.
+Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](Excel.XlTickMark.md)**.
 
 
 ## Syntax

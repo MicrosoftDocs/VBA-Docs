@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartGroup.AxisGroup property (Word)
 
-Returns the type of axis group. Read/write  **[xlAxisGroup](Word.xlaxisgroup.md)**.
+Returns the type of axis group. Read/write  **[XlAxisGroup](Word.xlaxisgroup.md)**.
 
 
 ## Syntax

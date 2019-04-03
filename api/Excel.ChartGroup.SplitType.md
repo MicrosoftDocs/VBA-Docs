@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartGroup.SplitType property (Excel)
 
-Returns or sets the way the two sections of either a pie of pie chart or a bar of pie chart are split. Read/write  **[xlChartSplitType](Excel.XlChartSplitType.md)**.
+Returns or sets the way the two sections of either a pie of pie chart or a bar of pie chart are split. Read/write  **[XlChartSplitType](Excel.XlChartSplitType.md)**.
 
 
 ## Syntax

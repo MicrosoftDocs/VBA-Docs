@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartGroup.SizeRepresents property (Excel)
 
-Returns or sets what the bubble size represents on a bubble chart. Can be either of the following  **[xlSizeRepresents](Excel.XlSizeRepresents.md)** constants: **xlSizeIsArea** or **xlSizeIsWidth**. Read/write **Long**.
+Returns or sets what the bubble size represents on a bubble chart. Can be either of the following  **[XlSizeRepresents](Excel.XlSizeRepresents.md)** constants: **xlSizeIsArea** or **xlSizeIsWidth**. Read/write **Long**.
 
 
 ## Syntax

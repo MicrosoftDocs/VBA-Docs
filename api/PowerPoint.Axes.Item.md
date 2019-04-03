@@ -27,8 +27,8 @@ _expression_ A variable that represents an '[Axes](PowerPoint.Axes.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**[xlAxisType](PowerPoint.XlAxisType.md)**|The axis type.|
-| _AxisGroup_|Optional|**[xlAxisGroup](PowerPoint.XlAxisGroup.md)**|The axis.|
+| _Type_|Required|**[XlAxisType](PowerPoint.XlAxisType.md)**|The axis type.|
+| _AxisGroup_|Optional|**[XlAxisGroup](PowerPoint.XlAxisGroup.md)**|The axis.|
 
 ## Example
 

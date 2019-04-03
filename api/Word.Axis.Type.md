@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.Type property (Word)
 
-Returns the axis type. Read-only  **[xlAxisType](Word.xlaxistype.md)**.
+Returns the axis type. Read-only  **[XlAxisType](Word.xlaxistype.md)**.
 
 
 ## Syntax

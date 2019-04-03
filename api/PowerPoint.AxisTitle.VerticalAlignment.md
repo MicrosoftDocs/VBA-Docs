@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)
 
 ## Remarks
 
-The value of this property can be set to one of the following  **[xlConstants](PowerPoint.XlConstants.md)** constants:
+The value of this property can be set to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
 -  **xlBottom**

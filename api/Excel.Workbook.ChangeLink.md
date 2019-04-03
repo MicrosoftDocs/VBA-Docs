@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the Microsoft Excel or DDE/OLE link to be changed, as it was returned from the  **[LinkSources](Excel.Workbook.LinkSources.md)** method.|
 | _NewName_|Required| **String**|The new name of the link.|
-| _Type_|Optional| **[xlLinkType](Excel.XlLinkType.md)**|The link type.|
+| _Type_|Optional| **[XlLinkType](Excel.XlLinkType.md)**|The link type.|
 
 ## Example
 

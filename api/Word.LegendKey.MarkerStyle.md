@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LegendKey.MarkerStyle property (Word)
 
-Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[xlMarkerStyle](Word.xlmarkerstyle.md)**.
+Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](Word.xlmarkerstyle.md)**.
 
 
 ## Syntax

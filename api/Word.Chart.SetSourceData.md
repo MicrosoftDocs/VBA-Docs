@@ -31,7 +31,7 @@ _expression_. `SetSourceData`( `_Source_` , `_PlotBy_` )
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **String**|The address of the chart data range that contains the source data.|
-| _PlotBy_|Optional| **Variant**|Specifies the way the data will be plotted. Can be either of the following  **[xlRowCol](Word.xlrowcol.md)** constants: **xlColumns** or **xlRows**.|
+| _PlotBy_|Optional| **Variant**|Specifies the way the data will be plotted. Can be either of the following  **[XlRowCol](Word.xlrowcol.md)** constants: **xlColumns** or **xlRows**.|
 
 ## Example
 

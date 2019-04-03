@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LegendKey.PictureType property (Word)
 
-Returns or sets the way pictures are displayed on a legend key. Read/write  **[xlChartPictureType](Word.xlchartpicturetype.md)**.
+Returns or sets the way pictures are displayed on a legend key. Read/write  **[XlChartPictureType](Word.xlchartpicturetype.md)**.
 
 
 ## Syntax

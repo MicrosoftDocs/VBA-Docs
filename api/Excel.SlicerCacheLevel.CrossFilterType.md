@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheL
 
 ## Return value
 
- **[xlSlicerCrossFilterType](Excel.XlSlicerCrossFilterType.md)**
+ **[XlSlicerCrossFilterType](Excel.XlSlicerCrossFilterType.md)**
 
 
 ## Remarks

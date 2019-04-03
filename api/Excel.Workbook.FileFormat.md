@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Workbook.FileFormat property (Excel)
 
-Returns the file format and/or type of the workbook. Read-only  **[xlFileFormat](Excel.XlFileFormat.md)**.
+Returns the file format and/or type of the workbook. Read-only  **[XlFileFormat](Excel.XlFileFormat.md)**.
 
 
 ## Syntax

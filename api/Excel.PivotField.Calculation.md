@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # PivotField.Calculation property (Excel)
 
-Returns or sets a  **[xlPivotFieldCalculation](Excel.XlPivotFieldCalculation.md)** value that represents the type of calculation performed by the specified field. This property is valid only for data fields.
+Returns or sets a  **[XlPivotFieldCalculation](Excel.XlPivotFieldCalculation.md)** value that represents the type of calculation performed by the specified field. This property is valid only for data fields.
 
 
 ## Syntax
 
 _expression_. `Calculation`
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example

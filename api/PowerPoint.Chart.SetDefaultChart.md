@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required|**Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special  **[xlChartGallery](PowerPoint.XlChartGallery.md)** constant, **xlBuiltIn**, to specify a built-in chart template.|
+| _Name_|Required|**Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special  **[XlChartGallery](PowerPoint.XlChartGallery.md)** constant, **xlBuiltIn**, to specify a built-in chart template.|
 
 ## Example
 

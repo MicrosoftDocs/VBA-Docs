@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) o
 
 ## Remarks
 
-Can be one of the **[xlUnderlineStyle](Excel.XlUnderlineStyle.md)** constants.
+Can be one of the **[XlUnderlineStyle](Excel.XlUnderlineStyle.md)** constants.
 
 ## Example
 

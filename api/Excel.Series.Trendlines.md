@@ -19,7 +19,7 @@ Returns an object that represents a single trendline (a  **[Trendline](Excel.Tre
 
 ## Syntax
 
-_expression_. `Trendlines`( `_Index_` )
+_expression_. `Trendlines` (_Index_)
 
 _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 

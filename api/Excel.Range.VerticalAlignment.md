@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 
 ## Remarks
 
-The value of this property can be set to one of the **[xlVAlign](Excel.XlVAlign.md)** constants (**xlVAlignBottom**, **xlVAlignCenter**, **xlVAlignDistributed**, **xlVAlignJustify**, or **xlVAlignTop**).
+The value of this property can be set to one of the **[XlVAlign](Excel.XlVAlign.md)** constants (**xlVAlignBottom**, **xlVAlignCenter**, **xlVAlignDistributed**, **xlVAlignJustify**, or **xlVAlignTop**).
 
 
 ## See also

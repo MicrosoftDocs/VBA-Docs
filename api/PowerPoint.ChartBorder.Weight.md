@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartBorder.Weight property (PowerPoint)
 
-Returns or sets the weight of the border. Read/write  **[xlBorderWeight](PowerPoint.XlBorderWeight.md)**.
+Returns or sets the weight of the border. Read/write  **[XlBorderWeight](PowerPoint.XlBorderWeight.md)**.
 
 
 ## Syntax

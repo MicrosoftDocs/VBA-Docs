@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Borders](Excel.Borders.md)** object
 
 This property returns  **Null** if all four borders aren't the same color.
 
-The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](Excel.XlColorIndex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Repeat_|Required| **[xlPivotFieldRepeatLabels](Excel.XlPivotFieldRepeatLabels.md)**||
+| _Repeat_|Required| **[XlPivotFieldRepeatLabels](Excel.XlPivotFieldRepeatLabels.md)**||
 
 ## Return value
 

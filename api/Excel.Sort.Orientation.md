@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sort.Orientation property (Excel)
 
-Specifies the orientation for the sort. Read/write  **[xlSortOrientation](Excel.XlSortOrientation.md)**.
+Specifies the orientation for the sort. Read/write  **[XlSortOrientation](Excel.XlSortOrientation.md)**.
 
 
 ## Syntax

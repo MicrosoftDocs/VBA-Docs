@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlicerCache.SortItems property (Excel)
 
-Returns or sets the sort order of the items in the slicer. Read/write  **[xlSlicerSort](Excel.XlSlicerSort.md)**.
+Returns or sets the sort order of the items in the slicer. Read/write  **[XlSlicerSort](Excel.XlSlicerSort.md)**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' 
 
 ## Return value
 
- **[xlSlicerSort](Excel.XlSlicerSort.md)**
+ **[XlSlicerSort](Excel.XlSlicerSort.md)**
 
 
 ## Remarks

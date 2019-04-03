@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.CommandType property (Excel)
 
-Returns or sets one of the  **xlCmdType** constants. Read/write **[xlCmdType](Excel.XlCmdType.md)**.
+Returns or sets one of the  **xlCmdType** constants. Read/write **[XlCmdType](Excel.XlCmdType.md)**.
 
 
 ## Syntax

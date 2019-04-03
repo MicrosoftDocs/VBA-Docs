@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormatCondition.Type property (Excel)
 
-Returns a  **Long** value, containing a **[xlFormatConditionType](Excel.XlFormatConditionType.md)** value, that represents the object type.
+Returns a  **Long** value, containing a **[XlFormatConditionType](Excel.XlFormatConditionType.md)** value, that represents the object type.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.CategoryType property (Excel)
 
-Returns or sets the category axis type. Read/write  **[xlCategoryType](Excel.XlCategoryType.md)**.
+Returns or sets the category axis type. Read/write  **[XlCategoryType](Excel.XlCategoryType.md)**.
 
 
 ## Syntax

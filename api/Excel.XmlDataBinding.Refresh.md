@@ -26,7 +26,7 @@ _expression_ A variable that represents a [XmlDataBinding](Excel.XmlDataBinding.
 
 ## Return value
 
-An  **[xlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
+An  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
 
 
 ## See also

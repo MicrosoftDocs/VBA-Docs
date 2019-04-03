@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBar
 
 ## Return value
 
- **[xlDataBarNegativeColorType](Excel.XlDataBarNegativeColorType.md)**
+ **[XlDataBarNegativeColorType](Excel.XlDataBarNegativeColorType.md)**
 
 
 ## Remarks

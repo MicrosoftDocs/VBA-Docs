@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) o
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](Excel.XlColorIndex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

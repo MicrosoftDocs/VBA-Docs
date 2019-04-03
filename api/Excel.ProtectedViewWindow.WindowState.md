@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ProtectedViewWindow](Excel.Protected
 
 ## Return value
 
- **[xlProtectedViewWindowState](Excel.XlProtectedViewWindowState.md)**
+ **[XlProtectedViewWindowState](Excel.XlProtectedViewWindowState.md)**
 
 
 ## Example

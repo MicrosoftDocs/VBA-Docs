@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ChartBorder](PowerPoint.ChartBorder.
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](PowerPoint.XlColorIndex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

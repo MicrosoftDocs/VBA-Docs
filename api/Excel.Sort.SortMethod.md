@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sort.SortMethod property (Excel)
 
-Specifies the sort method for Chinese languages. Read/write  **[xlSortMethod](Excel.XlSortMethod.md)**.
+Specifies the sort method for Chinese languages. Read/write  **[XlSortMethod](Excel.XlSortMethod.md)**.
 
 
 ## Syntax

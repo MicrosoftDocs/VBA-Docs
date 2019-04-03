@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.CategoryType property (PowerPoint)
 
-Returns or sets the category axis type. Read/write  **[xlCategoryType](PowerPoint.XlCategoryType.md)**.
+Returns or sets the category axis type. Read/write  **[XlCategoryType](PowerPoint.XlCategoryType.md)**.
 
 
 ## Syntax

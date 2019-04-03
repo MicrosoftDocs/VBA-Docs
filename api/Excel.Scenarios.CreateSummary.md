@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ReportType_|Optional| **[xlSummaryReportType](Excel.XlSummaryReportType.md)**|Specifies whether the summary report is a PivotTable or standard summary.|
+| _ReportType_|Optional| **[XlSummaryReportType](Excel.XlSummaryReportType.md)**|Specifies whether the summary report is a PivotTable or standard summary.|
 | _ResultCells_|Optional| **Variant**|A  **Range** object that represents the result cells on the specified worksheet. Normally, this range refers to one or more cells containing the formulas that depend on the changing cell values for your model ? that is, the cells that show the results of a particular scenario. If this argument is omitted, there are no result cells included in the report.|
 
 ## Return value

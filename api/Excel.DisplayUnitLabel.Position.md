@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DisplayUnitLabel.Position property (Excel)
 
-Returns or sets the position of the unit label on an axis in the chart. Read/write  **[xlChartElementPosition](Excel.XlChartElementPosition.md)**.
+Returns or sets the position of the unit label on an axis in the chart. Read/write  **[XlChartElementPosition](Excel.XlChartElementPosition.md)**.
 
 
 ## Syntax

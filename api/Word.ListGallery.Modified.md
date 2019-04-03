@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Modified`( `_Index_` )
+_expression_. `Modified` (_Index_)
 
  _expression_ An expression that returns a '[ListGallery](Word.ListGallery.md)' object.
 

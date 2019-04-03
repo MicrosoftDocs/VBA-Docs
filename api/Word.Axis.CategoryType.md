@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.CategoryType property (Word)
 
-Returns or sets the category axis type. Read/write  **[xlCategoryType](Word.xlcategorytype.md)**.
+Returns or sets the category axis type. Read/write  **[XlCategoryType](Word.xlcategorytype.md)**.
 
 
 ## Syntax

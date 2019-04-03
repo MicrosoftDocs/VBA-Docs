@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.QueryType property (Excel)
 
-Indicates the type of query used by Microsoft Excel to populate the query table. Read-only  **[xlQueryType](Excel.XlQueryType.md)**.
+Indicates the type of query used by Microsoft Excel to populate the query table. Read-only  **[XlQueryType](Excel.XlQueryType.md)**.
 
 
 ## Syntax

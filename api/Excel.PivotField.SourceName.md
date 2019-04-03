@@ -21,7 +21,7 @@ Returns a  **String** value that represents the specified object?s name as it ap
 
 _expression_. `SourceName`
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Validation.IMEMode property (Excel)
 
-Returns or sets the description of the Japanese input rules. Can be one of the  **[xlIMEMode](Excel.XlIMEMode.md)** constants listed in the following table. Read/write **Long**.
+Returns or sets the description of the Japanese input rules. Can be one of the  **[XlIMEMode](Excel.XlIMEMode.md)** constants listed in the following table. Read/write **Long**.
 
 
 ## Syntax

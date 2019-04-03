@@ -35,7 +35,7 @@ _expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
 
 ## Return value
 
-A  **[xlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
+A  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
 
 
 ## Remarks

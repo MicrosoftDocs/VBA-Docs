@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataLabels.Position property (Excel)
 
-Returns or sets a  **[xlDataLabelPosition](Excel.XlDataLabelPosition.md)** value that represents the position of the data label.
+Returns or sets a  **[XlDataLabelPosition](Excel.XlDataLabelPosition.md)** value that represents the position of the data label.
 
 
 ## Syntax

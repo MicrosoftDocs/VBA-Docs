@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[DataBarBorder](Excel.DataBarBorder.m
 
 ## Return value
 
- **[xlDataBarBorderType](Excel.XlDataBarBorderType.md)**
+ **[XlDataBarBorderType](Excel.XlDataBarBorderType.md)**
 
 
 ## Example

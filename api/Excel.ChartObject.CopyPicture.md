@@ -30,8 +30,8 @@ _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)*
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[xlPictureAppearance](Excel.XlPictureAppearance.md)**|. Specifies how the picture should be copied. The default value is  **xlScreen**.|
-| _Format_|Optional| **[xlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|. The format of the picture. The default value is  **xlPicture**.|
+| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**|. Specifies how the picture should be copied. The default value is  **xlScreen**.|
+| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|. The format of the picture. The default value is  **xlPicture**.|
 
 ## Return value
 

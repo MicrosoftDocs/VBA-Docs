@@ -23,7 +23,7 @@ _expression_. `PictureType`
 
 ## Remarks
 
-You can set this property to one of the following  **[xlChartPictureType](PowerPoint.XlChartPictureType.md)** constants: **xlStack** or **xlStretch**.
+You can set this property to one of the following  **[XlChartPictureType](PowerPoint.XlChartPictureType.md)** constants: **xlStack** or **xlStretch**.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.MajorTickMark property (PowerPoint)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[xlTickMark](PowerPoint.XlTickMark.md)**.
+Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](PowerPoint.XlTickMark.md)**.
 
 
 ## Syntax

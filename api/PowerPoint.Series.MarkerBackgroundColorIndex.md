@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Series.MarkerBackgroundColorIndex property (PowerPoint)
 
-Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[xlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
+Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax

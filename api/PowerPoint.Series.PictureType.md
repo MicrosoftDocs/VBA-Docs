@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Series.PictureType property (PowerPoint)
 
-Returns or sets a value that specifies how pictures are displayed on a column or bar picture chart. Read/write  **[xlChartPictureType](PowerPoint.XlChartPictureType.md)**.
+Returns or sets a value that specifies how pictures are displayed on a column or bar picture chart. Read/write  **[XlChartPictureType](PowerPoint.XlChartPictureType.md)**.
 
 
 ## Syntax

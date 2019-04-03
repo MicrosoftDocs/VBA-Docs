@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartGroup.SplitType property (Word)
 
-Returns or sets the way the two sections of either a pie-of-pie chart or a bar-of-pie chart are split. Read/write  **[xlChartSplitType](Word.xlchartsplittype.md)**.
+Returns or sets the way the two sections of either a pie-of-pie chart or a bar-of-pie chart are split. Read/write  **[XlChartSplitType](Word.xlchartsplittype.md)**.
 
 
 ## Syntax

@@ -21,7 +21,7 @@ Gets or sets whether the specified  **[PivotField](Excel.PivotField.md)** is sho
 
 _expression_. `ShowDetail`
 
- _expression_ An expression that returns a [PivotField](Excel.PivotField.md) object.
+ _expression_ An expression that returns a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## See also

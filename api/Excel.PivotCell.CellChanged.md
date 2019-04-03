@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' obje
 
 ## Return value
 
- **[xlCellChangedState](Excel.XlCellChangedState.md)**
+ **[XlCellChangedState](Excel.XlCellChangedState.md)**
 
 
 ## Remarks

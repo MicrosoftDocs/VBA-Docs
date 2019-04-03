@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.CalculationInterruptKey property (Excel)
 
-Sets or returns an  **[xlCalculationInterruptKey](Excel.XlCalculationInterruptKey.md)** constant that specifies the key that can interrupt Microsoft Excel when performing calculations. Read/write.
+Sets or returns an  **[XlCalculationInterruptKey](Excel.XlCalculationInterruptKey.md)** constant that specifies the key that can interrupt Microsoft Excel when performing calculations. Read/write.
 
 
 ## Syntax

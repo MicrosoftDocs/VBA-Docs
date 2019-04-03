@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.BaseUnit property (Excel)
 
-Returns or sets the base unit for the specified category axis. Read/write  **[xlTimeUnit](Excel.XlTimeUnit.md)**.
+Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](Excel.XlTimeUnit.md)**.
 
 
 ## Syntax

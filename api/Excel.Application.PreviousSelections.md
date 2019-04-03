@@ -19,7 +19,7 @@ Returns an array of the last four ranges or names selected. Each element in the 
 
 ## Syntax
 
-_expression_. `PreviousSelections`( `_Index_` )
+_expression_. `PreviousSelections` (_Index_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 

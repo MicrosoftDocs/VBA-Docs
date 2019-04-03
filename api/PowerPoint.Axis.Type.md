@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.Type property (PowerPoint)
 
-Returns the axis type. Read-only  **[xlAxisType](PowerPoint.XlAxisType.md)**.
+Returns the axis type. Read-only  **[XlAxisType](PowerPoint.XlAxisType.md)**.
 
 
 ## Syntax

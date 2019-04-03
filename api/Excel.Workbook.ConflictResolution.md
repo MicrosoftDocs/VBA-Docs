@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Workbook.ConflictResolution property (Excel)
 
-Returns or sets the way conflicts are to be resolved whenever a shared workbook is updated. Read/write  **[xlSaveConflictResolution](Excel.XlSaveConflictResolution.md)**.
+Returns or sets the way conflicts are to be resolved whenever a shared workbook is updated. Read/write  **[XlSaveConflictResolution](Excel.XlSaveConflictResolution.md)**.
 
 
 ## Syntax

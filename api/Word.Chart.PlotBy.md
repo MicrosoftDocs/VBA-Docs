@@ -26,7 +26,7 @@ _expression_. `PlotBy`
 
 ## Remarks
 
-The value of this property can be one of the following  **[xlRowCol](Word.xlrowcol.md)** constants:
+The value of this property can be one of the following  **[XlRowCol](Word.xlrowcol.md)** constants:
 
 
 -  **xlColumns**

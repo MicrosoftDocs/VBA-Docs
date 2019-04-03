@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' ob
 
 ## Return value
 
- **[xlAllocation](Excel.XlAllocation.md)**
+ **[XlAllocation](Excel.XlAllocation.md)**
 
 
 ## Remarks

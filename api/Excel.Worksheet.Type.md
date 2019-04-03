@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Worksheet.Type property (Excel)
 
-Returns an  **[xlSheetType](Excel.XlSheetType.md)** value that represents the worksheet type.
+Returns an  **[XlSheetType](Excel.XlSheetType.md)** value that represents the worksheet type.
 
 
 ## Syntax

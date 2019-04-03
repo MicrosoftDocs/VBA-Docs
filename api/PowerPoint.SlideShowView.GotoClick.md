@@ -19,7 +19,7 @@ Plays an animation associated with a specified mouse click and any animations th
 
 ## Syntax
 
-_expression_. `GotoClick`( `_Index_` )
+_expression_. `GotoClick` (_Index_)
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

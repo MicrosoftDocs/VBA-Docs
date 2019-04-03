@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.BaseUnit property (PowerPoint)
 
-Returns or sets the base unit for the specified category axis. Read/write  **[xlTimeUnit](PowerPoint.XlTimeUnit.md)**.
+Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 
 
 ## Syntax

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # PivotField.LayoutForm property (Excel)
 
-Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[xlLayoutFormType](Excel.XlLayoutFormType.md)**.
+Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[XlLayoutFormType](Excel.XlLayoutFormType.md)**.
 
 
 ## Syntax
 
 _expression_. `LayoutForm`
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks

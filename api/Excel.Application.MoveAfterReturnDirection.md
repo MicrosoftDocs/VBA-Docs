@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.MoveAfterReturnDirection property (Excel)
 
-Returns or sets the direction in which the active cell is moved when the user presses ENTER. Read/write  **[xlDirection](Excel.XlDirection.md)**.
+Returns or sets the direction in which the active cell is moved when the user presses ENTER. Read/write  **[XlDirection](Excel.XlDirection.md)**.
 
 
 ## Syntax

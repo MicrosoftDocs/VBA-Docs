@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartGroup.AxisGroup property (PowerPoint)
 
-Returns the type of axis group. Read/write  **[xlAxisGroup](PowerPoint.XlAxisGroup.md)**.
+Returns the type of axis group. Read/write  **[XlAxisGroup](PowerPoint.XlAxisGroup.md)**.
 
 
 ## Syntax

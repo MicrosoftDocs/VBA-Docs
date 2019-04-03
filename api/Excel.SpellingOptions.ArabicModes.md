@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.ArabicModes property (Excel)
 
-Returns or sets the mode for the Arabic spelling checker. Read/write  **[xlArabicModes](Excel.XlArabicModes.md)**.
+Returns or sets the mode for the Arabic spelling checker. Read/write  **[XlArabicModes](Excel.XlArabicModes.md)**.
 
 
 ## Syntax

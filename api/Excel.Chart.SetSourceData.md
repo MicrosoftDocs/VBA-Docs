@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Range**|The range that contains the source data.|
-| _PlotBy_|Optional| **Variant**|Specifies the way the data is to be plotted. Can be either of the following  **[xlRowCol](Excel.XlRowCol.md)** constants: **xlColumns** or **xlRows**.|
+| _PlotBy_|Optional| **Variant**|Specifies the way the data is to be plotted. Can be either of the following  **[XlRowCol](Excel.XlRowCol.md)** constants: **xlColumns** or **xlRows**.|
 
 ## Example
 

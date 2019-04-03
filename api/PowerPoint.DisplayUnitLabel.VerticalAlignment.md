@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.Display
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[xlConstants](PowerPoint.XlConstants.md)** constants:
+You can set the value of this property to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
 -  **xlBottom**

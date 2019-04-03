@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.HebrewModes property (Excel)
 
-Returns or sets the mode for the Hebrew spelling checker. Read/write  **[xlHebrewModes](Excel.XlHebrewModes.md)**.
+Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebrewModes](Excel.XlHebrewModes.md)**.
 
 
 ## Syntax

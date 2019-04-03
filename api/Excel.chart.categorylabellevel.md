@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Chart.CategoryLabelLevel property (Excel)
 
-Returns a  **[xlCategoryLabelLevel enumeration (Excel)](Excel.xlcategorylabellevel.md)** constant referring to the level of where the category labels are being sourced from. **Integer** Read/Write.
+Returns a  **[XlCategoryLabelLevel enumeration (Excel)](Excel.xlcategorylabellevel.md)** constant referring to the level of where the category labels are being sourced from. **Integer** Read/Write.
 
 
 ## Syntax

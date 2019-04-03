@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # DataLabel.Position property (PowerPoint)
 
-Returns or sets the position of the data label. Read/write  **[xlDataLabelPosition](PowerPoint.XlDataLabelPosition.md)**.
+Returns or sets the position of the data label. Read/write  **[XlDataLabelPosition](PowerPoint.XlDataLabelPosition.md)**.
 
 
 ## Syntax

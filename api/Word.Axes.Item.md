@@ -27,8 +27,8 @@ _expression_. `Item`( `_Type_` , `_AxisGroup_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[xlAxisType](Word.xlaxistype.md)**|One of the enumeration values that specifies the axis type.|
-| _AxisGroup_|Optional| **[xlAxisGroup](Word.xlaxisgroup.md)**|One of the enumeration values that specifies the axis.|
+| _Type_|Required| **[XlAxisType](Word.xlaxistype.md)**|One of the enumeration values that specifies the axis type.|
+| _AxisGroup_|Optional| **[XlAxisGroup](Word.xlaxisgroup.md)**|One of the enumeration values that specifies the axis.|
 
 ## Example
 

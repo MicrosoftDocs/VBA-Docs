@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the link.|
-| _Type_|Required| **[xlLinkType](Excel.XlLinkType.md)**|The type of link.|
+| _Type_|Required| **[XlLinkType](Excel.XlLinkType.md)**|The type of link.|
 
 ## Example
 

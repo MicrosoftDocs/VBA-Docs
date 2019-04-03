@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Style.Orientation property (Excel)
 
-Returns or sets a  **[xlOrientation](Excel.XlOrientation.md)** value that represents the text orientation.
+Returns or sets a  **[XlOrientation](Excel.XlOrientation.md)** value that represents the text orientation.
 
 
 ## Syntax

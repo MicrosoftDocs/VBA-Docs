@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.ChartType property (Excel)
 
-Returns or sets the chart type. Read/write  **[xlChartType](Excel.XlChartType.md)**.
+Returns or sets the chart type. Read/write  **[XlChartType](Excel.XlChartType.md)**.
 
 
 ## Syntax
