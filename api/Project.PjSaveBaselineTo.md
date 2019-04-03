@@ -1,5 +1,5 @@
 ---
-title: PjSaveBaselineTo Enumeration (Project)
+title: PjSaveBaselineTo enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjSaveBaselineTo
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjSaveBaselineTo Enumeration (Project)
+# PjSaveBaselineTo enumeration (Project)
 
 Contains constants that specify which fields to copy into.
 

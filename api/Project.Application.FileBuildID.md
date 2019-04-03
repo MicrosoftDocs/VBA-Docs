@@ -1,5 +1,5 @@
 ---
-title: Application.FileBuildID Property (Project)
+title: Application.FileBuildID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.FileBuildID
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FileBuildID Property (Project)
+# Application.FileBuildID property (Project)
 
 Gets the file build identification number (ID) of the specified project. The build ID consists of the version and build of the Project application that created the file. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `FileBuildID`( `_Name_`, `_UserID_`, `_DatabasePassWord_` )
+_expression_. `FileBuildID`( `_Name_`, `_UserID_`, `_DatabasePassWord_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Group Property (Project)
+title: ViewSingle.Group property (Project)
 keywords: vbapj.chm132802
 f1_keywords:
 - vbapj.chm132802
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Group Property (Project)
+# ViewSingle.Group property (Project)
 
 Gets or sets a  **[Group](Project.Group.md)** object for a single view. Read/write **Group**.
 
 
 ## Syntax
 
- _expression_. `Group`
+_expression_. `Group`
 
  _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 

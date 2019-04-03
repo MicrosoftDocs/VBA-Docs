@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty.Delete Method (Outlook)
+title: UserDefinedProperty.Delete method (Outlook)
 keywords: vbaol11.chm3047
 f1_keywords:
 - vbaol11.chm3047
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty.Delete Method (Outlook)
+# UserDefinedProperty.Delete method (Outlook)
 
 Deletes an object from the collection.
 
@@ -21,7 +21,7 @@ Deletes an object from the collection.
 
  _expression_.**Delete**
 
-_expression_ A variable that represents a [UserDefinedProperty](./Outlook.UserDefinedProperty.md) object.
+_expression_ A variable that represents a [UserDefinedProperty](Outlook.UserDefinedProperty.md) object.
 
 
 ## See also

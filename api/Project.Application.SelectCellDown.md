@@ -1,5 +1,5 @@
 ---
-title: Application.SelectCellDown Method (Project)
+title: Application.SelectCellDown method (Project)
 keywords: vbapj.chm2050
 f1_keywords:
 - vbapj.chm2050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectCellDown Method (Project)
+# Application.SelectCellDown method (Project)
 
 Selects cells directly below the current selection.
 
 
 ## Syntax
 
- _expression_. `SelectCellDown`( `_NumCells_`, `_Extend_` )
+_expression_. `SelectCellDown`( `_NumCells_`, `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

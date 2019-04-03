@@ -1,5 +1,5 @@
 ---
-title: Font.NameFarEast Property (PowerPoint)
+title: Font.NameFarEast property (PowerPoint)
 keywords: vbapp10.chm575016
 f1_keywords:
 - vbapp10.chm575016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.NameFarEast Property (PowerPoint)
+# Font.NameFarEast property (PowerPoint)
 
 Returns or sets the Asian font name. Read/write.
 
 
 ## Syntax
 
- _expression_. `NameFarEast`
+_expression_. `NameFarEast`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 

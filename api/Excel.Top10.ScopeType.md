@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Top10.ScopeType property (Excel)
 
-Returns or sets one of the constants of the  **[xlPivotConditionScope](Excel.XlPivotConditionScope.md)** enumeration, which determines the scope of the conditional format when it is applied to a PivotTable.
+Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlPivotConditionScope.md)** enumeration, which determines the scope of the conditional format when it is applied to a PivotTable.
 
 
 ## Syntax
 
 _expression_.**ScopeType**
 
-_expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## Remarks

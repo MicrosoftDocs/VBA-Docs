@@ -1,5 +1,5 @@
 ---
-title: Document.HeaderLeft Property (Visio)
+title: Document.HeaderLeft property (Visio)
 keywords: vis_sdr.chm10550645
 f1_keywords:
 - vis_sdr.chm10550645
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.HeaderLeft Property (Visio)
+# Document.HeaderLeft property (Visio)
 
 Gets or sets the text string that appears in the left portion of a document's header. Read/write.
 
 
 ## Syntax
 
- _expression_. `HeaderLeft`
+_expression_. `HeaderLeft`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

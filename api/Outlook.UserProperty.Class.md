@@ -1,5 +1,5 @@
 ---
-title: UserProperty.Class Property (Outlook)
+title: UserProperty.Class property (Outlook)
 keywords: vbaol11.chm214
 f1_keywords:
 - vbaol11.chm214
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperty.Class Property (Outlook)
+# UserProperty.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_.**Class**
 
-_expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerBackgroundColorIndex Property (PowerPoint)
+title: Point.MarkerBackgroundColorIndex property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.MarkerBackgroundColorIndex
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Point.MarkerBackgroundColorIndex Property (PowerPoint)
+# Point.MarkerBackgroundColorIndex property (PowerPoint)
 
-Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[xlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
+Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerBackgroundColorIndex`
+_expression_. `MarkerBackgroundColorIndex`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

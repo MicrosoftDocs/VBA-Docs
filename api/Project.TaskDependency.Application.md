@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.Application Property (Project)
+title: TaskDependency.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependency.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.Application Property (Project)
+# TaskDependency.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

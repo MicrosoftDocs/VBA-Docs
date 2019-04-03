@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Interior.Pattern property (Word)
 
-Returns or sets a  **Variant** value, containing an **[xlPattern](Word.xlpattern.md)** constant, that represents the interior pattern.
+Returns or sets a  **Variant** value, containing an **[XlPattern](Word.xlpattern.md)** constant, that represents the interior pattern.
 
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
  _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 

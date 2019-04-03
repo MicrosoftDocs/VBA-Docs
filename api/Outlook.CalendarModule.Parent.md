@@ -1,5 +1,5 @@
 ---
-title: CalendarModule.Parent Property (Outlook)
+title: CalendarModule.Parent property (Outlook)
 keywords: vbaol11.chm2825
 f1_keywords:
 - vbaol11.chm2825
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarModule.Parent Property (Outlook)
+# CalendarModule.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [CalendarModule](./Outlook.CalendarModule.md) object.
+_expression_ A variable that represents a [CalendarModule](Outlook.CalendarModule.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Class Property (Outlook)
+title: PeopleView.Class property (Outlook)
 keywords: vbaol11.chm3570
 f1_keywords:
 - vbaol11.chm3570
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Class Property (Outlook)
+# PeopleView.Class property (Outlook)
 Returns an [OlObjectClass](Outlook.OlObjectClass.md) constant indicating the object's class. Read-only.
 
 ## Version information
@@ -34,6 +34,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 
 [PeopleView Object](Outlook.peopleview.md)
-[PeopleView Members](./overview/Outlook.md)
+[PeopleView Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

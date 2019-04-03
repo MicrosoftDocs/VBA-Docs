@@ -1,5 +1,5 @@
 ---
-title: Selection.SlideRange Property (PowerPoint)
+title: Selection.SlideRange property (PowerPoint)
 keywords: vbapp10.chm508008
 f1_keywords:
 - vbapp10.chm508008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.SlideRange Property (PowerPoint)
+# Selection.SlideRange property (PowerPoint)
 
 Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents a range of selected slides. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideRange`
+_expression_. `SlideRange`
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 

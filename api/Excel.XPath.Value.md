@@ -21,7 +21,7 @@ Returns a  **String** that represents the XPath for the specified object.
 
 _expression_.**Value**
 
-_expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
+_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
 
 
 ## See also

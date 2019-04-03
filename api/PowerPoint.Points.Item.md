@@ -1,5 +1,5 @@
 ---
-title: Points.Item Method (PowerPoint)
+title: Points.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Points.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Points.Item Method (PowerPoint)
+# Points.Item method (PowerPoint)
 
 Returns a single object from a collection.
 

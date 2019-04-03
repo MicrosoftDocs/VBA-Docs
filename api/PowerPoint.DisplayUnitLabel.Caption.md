@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Caption Property (PowerPoint)
+title: DisplayUnitLabel.Caption property (PowerPoint)
 keywords: vbapp10.chm699001
 f1_keywords:
 - vbapp10.chm699001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Caption Property (PowerPoint)
+# DisplayUnitLabel.Caption property (PowerPoint)
 
 Returns or sets the display unit label text. Read/write  **String**.
 

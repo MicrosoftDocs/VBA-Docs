@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.PaletteWidth Property (Visio)
+title: ToolbarItem.PaletteWidth property (Visio)
 keywords: vis_sdr.chm13514010
 f1_keywords:
 - vis_sdr.chm13514010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.PaletteWidth Property (Visio)
+# ToolbarItem.PaletteWidth property (Visio)
 
 Gets or sets the width of a palette in pixels. Read/write.
 
 
 ## Syntax
 
- _expression_. `PaletteWidth`
+_expression_. `PaletteWidth`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Enabled Property (Visio)
+title: Toolbar.Enabled property (Visio)
 keywords: vis_sdr.chm13713455
 f1_keywords:
 - vis_sdr.chm13713455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.Enabled Property (Visio)
+# Toolbar.Enabled property (Visio)
 
 Determines whether or not an object is currently enabled. Read/write.
 

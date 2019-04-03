@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.WindowState Property (PowerPoint)
+title: DocumentWindow.WindowState property (PowerPoint)
 keywords: vbapp10.chm511009
 f1_keywords:
 - vbapp10.chm511009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.WindowState Property (PowerPoint)
+# DocumentWindow.WindowState property (PowerPoint)
 
 Returns or sets the state of the specified window. Read/write.
 
 
 ## Syntax
 
- _expression_. `WindowState`
+_expression_. `WindowState`
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

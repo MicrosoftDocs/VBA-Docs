@@ -1,5 +1,5 @@
 ---
-title: FromRssFeedRuleCondition.Class Property (Outlook)
+title: FromRssFeedRuleCondition.Class property (Outlook)
 keywords: vbaol11.chm3254
 f1_keywords:
 - vbaol11.chm3254
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FromRssFeedRuleCondition.Class Property (Outlook)
+# FromRssFeedRuleCondition.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [FromRssFeedRuleCondition](./Outlook.FromRssFeedRuleCondition.md) object.
+_expression_ A variable that represents a [FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md) object.
 
 
 ## See also

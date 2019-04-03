@@ -1,5 +1,5 @@
 ---
-title: PjFilterViewType Enumeration (Project)
+title: PjFilterViewType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjFilterViewType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjFilterViewType Enumeration (Project)
+# PjFilterViewType enumeration (Project)
 
 Contains constants that specify the type of filter for a view.
 

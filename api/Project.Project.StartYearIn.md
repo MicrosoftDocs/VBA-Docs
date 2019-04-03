@@ -1,5 +1,5 @@
 ---
-title: Project.StartYearIn Property (Project)
+title: Project.StartYearIn property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.StartYearIn
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.StartYearIn Property (Project)
+# Project.StartYearIn property (Project)
 
 Gets or sets the month number for the start of the fiscal year for the project. Read/write  **PjMonth**.
 
 
 ## Syntax
 
- _expression_. `StartYearIn`
+_expression_. `StartYearIn`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

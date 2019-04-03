@@ -1,5 +1,5 @@
 ---
-title: StorageItem.CreationTime Property (Outlook)
+title: StorageItem.CreationTime property (Outlook)
 keywords: vbaol11.chm3237
 f1_keywords:
 - vbaol11.chm3237
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.CreationTime Property (Outlook)
+# StorageItem.CreationTime property (Outlook)
 
 Returns a  **DateTime** value that indicates the creation time for the **[StorageItem](Outlook.StorageItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **DateTime** value that indicates the creation time for the **[Storag
 
 _expression_. `CreationTime`
 
-_expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
+_expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) object.
 
 
 ## See also

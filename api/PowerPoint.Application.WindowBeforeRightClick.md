@@ -1,5 +1,5 @@
 ---
-title: Application.WindowBeforeRightClick Event (PowerPoint)
+title: Application.WindowBeforeRightClick event (PowerPoint)
 keywords: vbapp10.chm621002
 f1_keywords:
 - vbapp10.chm621002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowBeforeRightClick Event (PowerPoint)
+# Application.WindowBeforeRightClick event (PowerPoint)
 
 Occurs when you right-click a shape, a slide, a notes page, or some text. This event is triggered by the  **MouseUp** event.
 
 
 ## Syntax
 
- _expression_. `WindowBeforeRightClick`( `_Sel_`, `_Cancel_` )
+_expression_. `WindowBeforeRightClick`( `_Sel_`, `_Cancel_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

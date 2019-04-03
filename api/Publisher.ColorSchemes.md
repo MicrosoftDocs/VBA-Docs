@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes Object (Publisher)
+title: ColorSchemes object (Publisher)
 keywords: vbapb10.chm2818047
 f1_keywords:
 - vbapb10.chm2818047
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorSchemes Object (Publisher)
+# ColorSchemes object (Publisher)
 
 A collection of all the  **[ColorScheme](Publisher.ColorScheme.md)** objects in Microsoft Publisher. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used in a publication.
  

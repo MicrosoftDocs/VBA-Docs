@@ -1,5 +1,5 @@
 ---
-title: ResourceGroups2 Object (Project)
+title: ResourceGroups2 object (Project)
 ms.prod: project-server
 ms.assetid: b1328c39-42bc-4e9b-e268-1f308cd7ebb1
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ResourceGroups2 Object (Project)
+# ResourceGroups2 object (Project)
 
 Represents all of the resource-based group definitions, where group hierarchy can be maintained.  **ResourceGroups2** is a collection of **[Group2](Project.Group2.md)** objects.
  

@@ -1,5 +1,5 @@
 ---
-title: FindReplace.Forward Property (Publisher)
+title: FindReplace.Forward property (Publisher)
 keywords: vbapb10.chm8323078
 f1_keywords:
 - vbapb10.chm8323078
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.Forward Property (Publisher)
+# FindReplace.Forward property (Publisher)
 
 Sets or retrieves a  **Boolean** representing the direction of the text search. **True** if the find operation searches forward through the document. **False** if it searches backward through the document. Read/write.
 
 
 ## Syntax
 
- _expression_. **Forward**
+ _expression_.**Forward**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

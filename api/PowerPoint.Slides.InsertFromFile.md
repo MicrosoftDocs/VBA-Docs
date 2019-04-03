@@ -1,5 +1,5 @@
 ---
-title: Slides.InsertFromFile Method (PowerPoint)
+title: Slides.InsertFromFile method (PowerPoint)
 keywords: vbapp10.chm530006
 f1_keywords:
 - vbapp10.chm530006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slides.InsertFromFile Method (PowerPoint)
+# Slides.InsertFromFile method (PowerPoint)
 
 Inserts slides from a file into a presentation, at the specified location. Returns an  **Integer** that represents the number of slides inserted.
 
 
 ## Syntax
 
- _expression_. `InsertFromFile`( `_FileName_`, `_Index_`, `_SlideStart_`, `_SlideEnd_` )
+_expression_. `InsertFromFile`( `_FileName_`, `_Index_`, `_SlideStart_`, `_SlideEnd_` )
 
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.HideSelection Property (Outlook)
+title: OlkDateControl.HideSelection property (Outlook)
 keywords: vbaol11.chm1000351
 f1_keywords:
 - vbaol11.chm1000351
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.HideSelection Property (Outlook)
+# OlkDateControl.HideSelection property (Outlook)
 
 Returns or sets a  **Boolean** that specifies if a selection is displayed or hidden for the control when the control loses focus. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies if a selection is displayed or hid
 
 _expression_. `HideSelection`
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Remarks

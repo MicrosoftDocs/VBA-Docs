@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotArea Property (Project)
+title: Chart.PlotArea property (Project)
 ms.prod: project-server
 ms.assetid: 4d378a40-7417-1c1d-7424-9eb5cc7367c2
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.PlotArea Property (Project)
+# Chart.PlotArea property (Project)
 Gets an  **Office.IMsoPlotArea** object that represents the plot area of a chart. Read-only **IMsoPlotArea**.
 
 ## Syntax
 
- _expression_. `PlotArea`
+_expression_. `PlotArea`
 
  _expression_ A variable that represents a 'Chart' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.RevisionNumber Property (Project)
+title: Project.RevisionNumber property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.RevisionNumber
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.RevisionNumber Property (Project)
+# Project.RevisionNumber property (Project)
 
 Gets the number of times a project has been saved. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `RevisionNumber`
+_expression_. `RevisionNumber`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

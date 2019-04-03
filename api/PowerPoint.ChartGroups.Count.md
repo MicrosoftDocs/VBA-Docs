@@ -1,5 +1,5 @@
 ---
-title: ChartGroups.Count Property (PowerPoint)
+title: ChartGroups.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroups.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroups.Count Property (PowerPoint)
+# ChartGroups.Count property (PowerPoint)
 
 Returns the number of objects in the collection. Read-only  **Long**.
 

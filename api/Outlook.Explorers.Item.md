@@ -1,5 +1,5 @@
 ---
-title: Explorers.Item Method (Outlook)
+title: Explorers.Item method (Outlook)
 keywords: vbaol11.chm121
 f1_keywords:
 - vbaol11.chm121
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorers.Item Method (Outlook)
+# Explorers.Item method (Outlook)
 
 Returns an  **[Explorer](Outlook.Explorer.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns an  **[Explorer](Outlook.Explorer.md)** object from the collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
+_expression_ A variable that represents an [Explorers](Outlook.Explorers.md) object.
 
 
 ## Parameters

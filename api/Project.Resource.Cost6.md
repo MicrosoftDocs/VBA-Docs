@@ -1,5 +1,5 @@
 ---
-title: Resource.Cost6 Property (Project)
+title: Resource.Cost6 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Cost6
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Cost6 Property (Project)
+# Resource.Cost6 property (Project)
 
 Gets or sets the value of the  **Cost6** custom field for the resource. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Cost6`
+_expression_. `Cost6`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

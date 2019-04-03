@@ -1,5 +1,5 @@
 ---
-title: Application.LinkTasksEdit Method (Project)
+title: Application.LinkTasksEdit method (Project)
 keywords: vbapj.chm2052
 f1_keywords:
 - vbapj.chm2052
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LinkTasksEdit Method (Project)
+# Application.LinkTasksEdit method (Project)
 
 Edits task dependencies (task links).
 
 
 ## Syntax
 
- _expression_. `LinkTasksEdit`( `_From_`, `_To_`, `_Delete_`, `_Type_`, `_Lag_`, `_PredecessorProjectName_`, `_SuccessorProjectName_` )
+_expression_. `LinkTasksEdit`( `_From_`, `_To_`, `_Delete_`, `_Type_`, `_Lag_`, `_PredecessorProjectName_`, `_SuccessorProjectName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

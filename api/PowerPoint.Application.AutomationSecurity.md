@@ -1,5 +1,5 @@
 ---
-title: Application.AutomationSecurity Property (PowerPoint)
+title: Application.AutomationSecurity property (PowerPoint)
 keywords: vbapp10.chm502048
 f1_keywords:
 - vbapp10.chm502048
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AutomationSecurity Property (PowerPoint)
+# Application.AutomationSecurity property (PowerPoint)
 
 Represents the security mode that Microsoft PowerPoint uses when it opens files programmatically. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutomationSecurity`
+_expression_. `AutomationSecurity`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

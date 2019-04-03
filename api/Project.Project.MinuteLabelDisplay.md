@@ -1,5 +1,5 @@
 ---
-title: Project.MinuteLabelDisplay Property (Project)
+title: Project.MinuteLabelDisplay property (Project)
 keywords: vbapj.chm132410
 f1_keywords:
 - vbapj.chm132410
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.MinuteLabelDisplay Property (Project)
+# Project.MinuteLabelDisplay property (Project)
 
 Gets or sets the abbreviation for "minute" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `MinuteLabelDisplay`
+_expression_. `MinuteLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: TableView.AutomaticGrouping Property (Outlook)
+title: TableView.AutomaticGrouping property (Outlook)
 keywords: vbaol11.chm2521
 f1_keywords:
 - vbaol11.chm2521
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.AutomaticGrouping Property (Outlook)
+# TableView.AutomaticGrouping property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether the automatic grouping is active in the **[TableView](Outlook.TableView.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether the automatic groupi
 
 _expression_. `AutomaticGrouping`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks

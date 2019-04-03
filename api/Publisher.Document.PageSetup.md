@@ -1,5 +1,5 @@
 ---
-title: Document.PageSetup Property (Publisher)
+title: Document.PageSetup property (Publisher)
 keywords: vbapb10.chm196632
 f1_keywords:
 - vbapb10.chm196632
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.PageSetup Property (Publisher)
+# Document.PageSetup property (Publisher)
 
 Returns a  **[PageSetup](Publisher.PageSetup.md)** object representing a publication's page size, page layout and paper settings. Read-only.
 
 
 ## Syntax
 
- _expression_. **PageSetup**
+ _expression_.**PageSetup**
 
  _expression_ A variable that represents a  **Document** object.
 

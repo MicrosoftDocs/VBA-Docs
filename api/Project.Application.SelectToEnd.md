@@ -1,5 +1,5 @@
 ---
-title: Application.SelectToEnd Method (Project)
+title: Application.SelectToEnd method (Project)
 keywords: vbapj.chm1510
 f1_keywords:
 - vbapj.chm1510
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectToEnd Method (Project)
+# Application.SelectToEnd method (Project)
 
 For the selected assignment in the Team Planner view, selects from the beginning to the end of assignments for that resource.
 
 
 ## Syntax
 
- _expression_. `SelectToEnd`
+_expression_. `SelectToEnd`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

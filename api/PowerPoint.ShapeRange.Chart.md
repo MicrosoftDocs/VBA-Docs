@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Chart Property (PowerPoint)
+title: ShapeRange.Chart property (PowerPoint)
 keywords: vbapp10.chm548093
 f1_keywords:
 - vbapp10.chm548093
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Chart Property (PowerPoint)
+# ShapeRange.Chart property (PowerPoint)
 
 Returns the  **Chart** object of the current **ShapeRange** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Chart`
+_expression_. `Chart`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MustFlushScopeBeginning Event (Visio)
+title: InvisibleApp.MustFlushScopeBeginning event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MustFlushScopeBeginning
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MustFlushScopeBeginning Event (Visio)
+# InvisibleApp.MustFlushScopeBeginning event (Visio)
 
 Occurs before the Microsoft Visio instance is forced to flush its event queue.
 

@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyPictToEnd Property (PowerPoint)
+title: Series.ApplyPictToEnd property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.ApplyPictToEnd
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Series.ApplyPictToEnd Property (PowerPoint)
+# Series.ApplyPictToEnd property (PowerPoint)
 
  **True** if a picture is applied to the end of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyPictToEnd`
+_expression_. `ApplyPictToEnd`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Table.Background Property (PowerPoint)
+title: Table.Background property (PowerPoint)
 keywords: vbapp10.chm622015
 f1_keywords:
 - vbapp10.chm622015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.Background Property (PowerPoint)
+# Table.Background property (PowerPoint)
 
 Returns the  **TableBackground** object associated with the specified table. Read-only.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
  _expression_ An expression that returns a [Table](./PowerPoint.Table.md) object.
 

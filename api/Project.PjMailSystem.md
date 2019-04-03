@@ -1,5 +1,5 @@
 ---
-title: PjMailSystem Enumeration (Project)
+title: PjMailSystem enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMailSystem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjMailSystem Enumeration (Project)
+# PjMailSystem enumeration (Project)
 
 Contains constants that specify the type of email system.
 

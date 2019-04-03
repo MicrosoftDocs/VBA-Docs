@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperties.Remove Method (Outlook)
+title: UserDefinedProperties.Remove method (Outlook)
 keywords: vbaol11.chm590
 f1_keywords:
 - vbaol11.chm590
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperties.Remove Method (Outlook)
+# UserDefinedProperties.Remove method (Outlook)
 
 Removes an object from the collection.
 
 
 ## Syntax
 
- _expression_. `Remove`( `_Index_` )
+_expression_. `Remove` (_Index_)
 
-_expression_ A variable that represents a [UserDefinedProperties](./Outlook.UserDefinedProperties.md) object.
+_expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 
 
 ## Parameters

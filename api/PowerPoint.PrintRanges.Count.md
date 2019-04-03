@@ -1,5 +1,5 @@
 ---
-title: PrintRanges.Count Property (PowerPoint)
+title: PrintRanges.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintRanges.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PrintRanges.Count Property (PowerPoint)
+# PrintRanges.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

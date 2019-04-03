@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReportsSaveDatabase Method (Project)
+title: Application.VisualReportsSaveDatabase method (Project)
 keywords: vbapj.chm2138
 f1_keywords:
 - vbapj.chm2138
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.VisualReportsSaveDatabase Method (Project)
+# Application.VisualReportsSaveDatabase method (Project)
 
 Saves a Visual Reports database to the default directory or to a specified directory.
 
 
 ## Syntax
 
- _expression_. `VisualReportsSaveDatabase`( `_strNamePath_`, `_PjVisualReportsDataLevel_` )
+_expression_. `VisualReportsSaveDatabase`( `_strNamePath_`, `_PjVisualReportsDataLevel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

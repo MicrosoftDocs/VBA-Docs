@@ -1,5 +1,5 @@
 ---
-title: Application.HelpAnswerWizard Method (Project)
+title: Application.HelpAnswerWizard method (Project)
 keywords: vbapj.chm816
 f1_keywords:
 - vbapj.chm816
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.HelpAnswerWizard Method (Project)
+# Application.HelpAnswerWizard method (Project)
 
 Displays the **Project Help** window, with the **Help** Toolbar, **Assistance**, **Connection Status**, and **See Also** panes visible.
 
 
 ## Syntax
 
- _expression_. `HelpAnswerWizard`
+_expression_. `HelpAnswerWizard`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

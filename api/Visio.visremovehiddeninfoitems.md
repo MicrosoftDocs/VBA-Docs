@@ -1,5 +1,5 @@
 ---
-title: VisRemoveHiddenInfoItems Enumeration (Visio)
+title: VisRemoveHiddenInfoItems enumeration (Visio)
 keywords: vis_sdr.chm70460
 f1_keywords:
 - vis_sdr.chm70460
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisRemoveHiddenInfoItems Enumeration (Visio)
+# VisRemoveHiddenInfoItems enumeration (Visio)
 
 Document information constants passed to the  **Document.RemoveHiddenInformation** method.
 

@@ -1,5 +1,5 @@
 ---
-title: View.PrintOptions Property (PowerPoint)
+title: View.PrintOptions property (PowerPoint)
 keywords: vbapp10.chm512011
 f1_keywords:
 - vbapp10.chm512011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# View.PrintOptions Property (PowerPoint)
+# View.PrintOptions property (PowerPoint)
 
 Returns a  **[PrintOptions](PowerPoint.PrintOptions.md)** object that represents print options that are saved with the specified presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `PrintOptions`
+_expression_. `PrintOptions`
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.WindowState Property (PowerPoint)
+title: ProtectedViewWindow.WindowState property (PowerPoint)
 keywords: vbapp10.chm734005
 f1_keywords:
 - vbapp10.chm734005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.WindowState Property (PowerPoint)
+# ProtectedViewWindow.WindowState property (PowerPoint)
 
 Returns or sets the state of the specified window. Read/write.
 
 
 ## Syntax
 
- _expression_. `WindowState`
+_expression_. `WindowState`
 
  _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 

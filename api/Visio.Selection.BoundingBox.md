@@ -1,5 +1,5 @@
 ---
-title: Selection.BoundingBox Method (Visio)
+title: Selection.BoundingBox method (Visio)
 keywords: vis_sdr.chm11116090
 f1_keywords:
 - vis_sdr.chm11116090
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.BoundingBox Method (Visio)
+# Selection.BoundingBox method (Visio)
 
 Returns a rectangle that tightly encloses the shapes of a selection.
 
 
 ## Syntax
 
- _expression_. `BoundingBox`( `_Flags_` , `_lpr8Left_` , `_lpr8Bottom_` , `_lpr8Right_` , `_lpr8Top_` )
+_expression_. `BoundingBox`( `_Flags_` , `_lpr8Left_` , `_lpr8Bottom_` , `_lpr8Right_` , `_lpr8Top_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

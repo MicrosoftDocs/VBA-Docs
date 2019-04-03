@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.AddIssue Method (Visio)
+title: ValidationRule.AddIssue method (Visio)
 keywords: vis_sdr.chm18462405
 f1_keywords:
 - vis_sdr.chm18462405
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.AddIssue Method (Visio)
+# ValidationRule.AddIssue method (Visio)
 
 Creates a new validation issue that is based on the validation rule, and adds it to the document.
 
 
 ## Syntax
 
- _expression_. `AddIssue`( `_[TargetPage]_` , `_[TargetShape]_` )
+_expression_. `AddIssue`( `_[TargetPage]_` , `_[TargetShape]_` )
 
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 

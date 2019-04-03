@@ -1,5 +1,5 @@
 ---
-title: PjStatusType Enumeration (Project)
+title: PjStatusType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjStatusType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjStatusType Enumeration (Project)
+# PjStatusType enumeration (Project)
 
 Contains constants that specify the status of a task.
 

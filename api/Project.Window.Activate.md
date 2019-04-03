@@ -1,5 +1,5 @@
 ---
-title: Window.Activate Method (Project)
+title: Window.Activate method (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Activate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Activate Method (Project)
+# Window.Activate method (Project)
 
 Activates the window, bringing the window to the front of the z-order.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

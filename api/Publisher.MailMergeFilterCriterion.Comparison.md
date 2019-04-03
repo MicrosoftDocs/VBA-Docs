@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion.Comparison Property (Publisher)
+title: MailMergeFilterCriterion.Comparison property (Publisher)
 keywords: vbapb10.chm6815748
 f1_keywords:
 - vbapb10.chm6815748
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion.Comparison Property (Publisher)
+# MailMergeFilterCriterion.Comparison property (Publisher)
 
 Returns or sets an  **MsoFilterComparison** constant that represents how to compare the [Column](Publisher.Cell.Column.md) and **[CompareTo](Publisher.MailMergeFilterCriterion.CompareTo.md)** properties. Read/write.
 
 
 ## Syntax
 
- _expression_. **Comparison**
+ _expression_.**Comparison**
 
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
@@ -31,7 +31,7 @@ MsoFilterComparison
 
 ## Remarks
 
-The  **Comparison** property value can be one of the ** [MsoFilterComparison](Office.MsoFilterComparison.md)** constants declared in the Microsoft Office type library.
+The  **Comparison** property value can be one of the **[MsoFilterComparison](Office.MsoFilterComparison.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

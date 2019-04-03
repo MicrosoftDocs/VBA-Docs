@@ -1,5 +1,5 @@
 ---
-title: Application.BoxAlign Method (Project)
+title: Application.BoxAlign method (Project)
 keywords: vbapj.chm29
 f1_keywords:
 - vbapj.chm29
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxAlign Method (Project)
+# Application.BoxAlign method (Project)
 
 Aligns the specified part of the selected boxes in the active Network Diagram view with the same part of the box that has the focus.
 
 
 ## Syntax
 
- _expression_. `BoxAlign`( `_Alignment_` )
+_expression_. `BoxAlign`( `_Alignment_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

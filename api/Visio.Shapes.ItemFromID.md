@@ -1,5 +1,5 @@
 ---
-title: Shapes.ItemFromID Property (Visio)
+title: Shapes.ItemFromID property (Visio)
 keywords: vis_sdr.chm11313775
 f1_keywords:
 - vis_sdr.chm11313775
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.ItemFromID Property (Visio)
+# Shapes.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_nID_` )
+_expression_. `ItemFromID`( `_nID_` )
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) collection.
 

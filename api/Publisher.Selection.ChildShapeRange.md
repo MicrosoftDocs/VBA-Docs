@@ -1,5 +1,5 @@
 ---
-title: Selection.ChildShapeRange Property (Publisher)
+title: Selection.ChildShapeRange property (Publisher)
 keywords: vbapb10.chm851973
 f1_keywords:
 - vbapb10.chm851973
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.ChildShapeRange Property (Publisher)
+# Selection.ChildShapeRange property (Publisher)
 
 Returns a  **[ShapeRange](Publisher.ShapeRange.md)** object representing the child shapes of a selection.
 
 
 ## Syntax
 
- _expression_. **ChildShapeRange**
+ _expression_.**ChildShapeRange**
 
  _expression_ A variable that represents a  **Selection** object.
 

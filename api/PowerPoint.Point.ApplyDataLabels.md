@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyDataLabels Method (PowerPoint)
+title: Point.ApplyDataLabels method (PowerPoint)
 keywords: vbapp10.chm714004
 f1_keywords:
 - vbapp10.chm714004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Point.ApplyDataLabels Method (PowerPoint)
+# Point.ApplyDataLabels method (PowerPoint)
 
 Applies data labels to a point.
 
 
 ## Syntax
 
- _expression_. `ApplyDataLabels`( `_Type_`, `_LegendKey_`, `_AutoText_`, `_HasLeaderLines_`, `_ShowSeriesName_`, `_ShowCategoryName_`, `_ShowValue_`, `_ShowPercentage_`, `_ShowBubbleSize_`, `_Separator_` )
+_expression_. `ApplyDataLabels`( `_Type_`, `_LegendKey_`, `_AutoText_`, `_HasLeaderLines_`, `_ShowSeriesName_`, `_ShowCategoryName_`, `_ShowValue_`, `_ShowPercentage_`, `_ShowBubbleSize_`, `_Separator_` )
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
@@ -30,7 +30,7 @@ Applies data labels to a point.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**[xlDataLabelsType](PowerPoint.XlDataLabelsType.md)**|The type of data label to apply.|
+| _Type_|Optional|**[XlDataLabelsType](PowerPoint.XlDataLabelsType.md)**|The type of data label to apply.|
 | _LegendKey_|Optional|**Variant**|**True** to show the legend key next to the point. The default is **False**.|
 | _AutoText_|Optional|**Variant**|**True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional|**Variant**|For the  **[Chart](PowerPoint.Chart.md)** and **[Series](PowerPoint.Series.md)** objects, **True** if the series has leader lines.|

@@ -19,7 +19,7 @@ Arranges all open document windows in the application workspace.
 
 ## Syntax
 
- _expression_. `Arrange`( `_ArrangeStyle_` )
+_expression_. `Arrange`( `_ArrangeStyle_` )
 
  _expression_ A variable that represents a '[Windows](Word.windows.md)' collection.
 

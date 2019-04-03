@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineRuleAfter Property (PowerPoint)
+title: ParagraphFormat.LineRuleAfter property (PowerPoint)
 keywords: vbapp10.chm576006
 f1_keywords:
 - vbapp10.chm576006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LineRuleAfter Property (PowerPoint)
+# ParagraphFormat.LineRuleAfter property (PowerPoint)
 
 Determines whether line spacing after the last line in each paragraph is set to a specific number of points or lines. Read/write.
 
 
 ## Syntax
 
- _expression_. `LineRuleAfter`
+_expression_. `LineRuleAfter`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 

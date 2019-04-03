@@ -1,5 +1,5 @@
 ---
-title: List Object (Project)
+title: List object (Project)
 ms.prod: project-server
 api_name:
 - Project.List
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# List Object (Project)
+# List object (Project)
 
 Represents a collection of strings or numbers that contain field identification numbers, field names, reports, resource filters, resource tables, resource views, task filters, task tables, task views, or views. (There is no collection for  **List** objects.) It can be accessed through the **List** properties of the appropriate objects.
 

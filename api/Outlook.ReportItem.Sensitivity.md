@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Sensitivity Property (Outlook)
+title: ReportItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1659
 f1_keywords:
 - vbaol11.chm1659
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Sensitivity Property (Outlook)
+# ReportItem.Sensitivity property (Outlook)
 
 Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 _expression_. `Sensitivity`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks

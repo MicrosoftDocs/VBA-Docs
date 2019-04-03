@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Fill Property (Publisher)
+title: ShapeRange.Fill property (Publisher)
 keywords: vbapb10.chm2293815
 f1_keywords:
 - vbapb10.chm2293815
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Fill Property (Publisher)
+# ShapeRange.Fill property (Publisher)
 
  Returns a **[FillFormat](Publisher.FillFormat.md)** object representing the fill for the specified shape or table cell.
 
 
 ## Syntax
 
- _expression_. **Fill**
+ _expression_.**Fill**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

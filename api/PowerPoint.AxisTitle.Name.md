@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Name Property (PowerPoint)
+title: AxisTitle.Name property (PowerPoint)
 keywords: vbapp10.chm683016
 f1_keywords:
 - vbapp10.chm683016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Name Property (PowerPoint)
+# AxisTitle.Name property (PowerPoint)
 
 Returns a  **String** value that represents the name of the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.Selection Property (Visio)
+title: Window.Selection property (Visio)
 keywords: vis_sdr.chm11614310
 f1_keywords:
 - vis_sdr.chm11614310
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Selection Property (Visio)
+# Window.Selection property (Visio)
 
 Returns a  **Selection** object that represents what is presently selected in the window, or assigns a selection created by the **CreateSelection** method to a **Selection** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Selection`
+_expression_.**Selection**
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

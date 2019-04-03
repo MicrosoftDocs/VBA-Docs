@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddConnector Method (Publisher)
+title: Shapes.AddConnector method (Publisher)
 keywords: vbapb10.chm2162705
 f1_keywords:
 - vbapb10.chm2162705
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddConnector Method (Publisher)
+# Shapes.AddConnector method (Publisher)
 
 Adds a new  **[Shape](Publisher.Shape.md)** object representing a connector to the specified **[Shapes](Publisher.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddConnector**(**_Type_**,  **_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
+ _expression_.**AddConnector**(**_Type_**,  **_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

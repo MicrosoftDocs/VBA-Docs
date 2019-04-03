@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.Document Property (Visio)
+title: ContainerProperties.Document property (Visio)
 keywords: vis_sdr.chm17613430
 f1_keywords:
 - vis_sdr.chm17613430
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.Document Property (Visio)
+# ContainerProperties.Document property (Visio)
 
 Gets the  **[Document](Visio.Document.md)** object that is associated with the **[ContainerProperties](Visio.ContainerProperties.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ An expression that returns a [ContainerProperties](./Visio.ContainerProperties.md) object.
 

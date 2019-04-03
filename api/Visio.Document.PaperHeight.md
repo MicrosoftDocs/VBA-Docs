@@ -1,5 +1,5 @@
 ---
-title: Document.PaperHeight Property (Visio)
+title: Document.PaperHeight property (Visio)
 keywords: vis_sdr.chm10514015
 f1_keywords:
 - vis_sdr.chm10514015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.PaperHeight Property (Visio)
+# Document.PaperHeight property (Visio)
 
 Returns the height of a document's printed page. Read-only.
 
 
 ## Syntax
 
- _expression_. `PaperHeight`( `_UnitsNameOrCode_` )
+_expression_. `PaperHeight`( `_UnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

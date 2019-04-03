@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Parent Property (PowerPoint)
+title: ChartArea.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Parent Property (PowerPoint)
+# ChartArea.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

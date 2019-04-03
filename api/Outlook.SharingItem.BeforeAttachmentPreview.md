@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BeforeAttachmentPreview Event (Outlook)
+title: SharingItem.BeforeAttachmentPreview event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAttachmentPreview
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BeforeAttachmentPreview Event (Outlook)
+# SharingItem.BeforeAttachmentPreview event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is previewed.
 
@@ -18,7 +18,7 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 _expression_. `BeforeAttachmentPreview`( `_Attachment_` , `_Cancel_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

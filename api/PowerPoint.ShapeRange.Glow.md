@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Glow Property (PowerPoint)
+title: ShapeRange.Glow property (PowerPoint)
 keywords: vbapp10.chm548091
 f1_keywords:
 - vbapp10.chm548091
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Glow Property (PowerPoint)
+# ShapeRange.Glow property (PowerPoint)
 
 Returns the glow format for the specified range of shapes. Read-only.
 
 
 ## Syntax
 
- _expression_. `Glow`
+_expression_. `Glow`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

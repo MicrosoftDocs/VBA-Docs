@@ -1,5 +1,5 @@
 ---
-title: Interior.Parent Property (PowerPoint)
+title: Interior.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Interior.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Interior.Parent Property (PowerPoint)
+# Interior.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

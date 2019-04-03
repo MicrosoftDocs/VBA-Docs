@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetThreeDFormat Property (Publisher)
+title: ThreeDFormat.PresetThreeDFormat property (Publisher)
 keywords: vbapb10.chm3801352
 f1_keywords:
 - vbapb10.chm3801352
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetThreeDFormat Property (Publisher)
+# ThreeDFormat.PresetThreeDFormat property (Publisher)
 
 Returns an  **MsoPresetThreeDFormat** constant that represents the preset extrusion format. Read-only.
 
 
 ## Syntax
 
- _expression_. **PresetThreeDFormat**
+ _expression_.**PresetThreeDFormat**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetThreeDFormat
 
 ## Remarks
 
-The  **PresetThreeDFormat** property value can be one of the ** [MsoPresetThreeDFormat](Office.MsoPresetThreeDFormat.md)** constants declared in the Microsoft Office type library.
+The  **PresetThreeDFormat** property value can be one of the **[MsoPresetThreeDFormat](Office.MsoPresetThreeDFormat.md)** constants declared in the Microsoft Office type library.
 
 Each preset extrusion format contains a set of preset values for the various properties of the extrusion. If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed**. 
 

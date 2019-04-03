@@ -1,5 +1,5 @@
 ---
-title: Application.FilePrintSetup Method (Project)
+title: Application.FilePrintSetup method (Project)
 keywords: vbapj.chm113
 f1_keywords:
 - vbapj.chm113
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePrintSetup Method (Project)
+# Application.FilePrintSetup method (Project)
 
 Specifies the active printer.
 
 
 ## Syntax
 
- _expression_. `FilePrintSetup`( `_Printer_` )
+_expression_. `FilePrintSetup`( `_Printer_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

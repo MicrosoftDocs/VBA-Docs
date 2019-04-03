@@ -1,5 +1,5 @@
 ---
-title: FillFormat.RotateWithObject Property (Publisher)
+title: FillFormat.RotateWithObject property (Publisher)
 keywords: vbapb10.chm2359585
 f1_keywords:
 - vbapb10.chm2359585
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.RotateWithObject Property (Publisher)
+# FillFormat.RotateWithObject property (Publisher)
 
 Returns or sets whether the fill rotates with the specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **RotateWithObject**
+ _expression_.**RotateWithObject**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -29,7 +29,7 @@ Returns or sets whether the fill rotates with the specified shape. Read/write.
 
 ## Remarks
 
-The value returned by the  **RotateWithObject** property can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants listed in the following table.
+The value returned by the  **RotateWithObject** property can be one of the **[MsoTriState](Office.MsoTriState.md)** constants listed in the following table.
 
 
 

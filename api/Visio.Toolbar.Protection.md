@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Protection Property (Visio)
+title: Toolbar.Protection property (Visio)
 keywords: vis_sdr.chm13714180
 f1_keywords:
 - vis_sdr.chm13714180
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.Protection Property (Visio)
+# Toolbar.Protection property (Visio)
 
 Determines how a  **Toolbar** object is protected from user customization. Read/write.
 
 
 ## Syntax
 
- _expression_. `Protection`
+_expression_. `Protection`
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 

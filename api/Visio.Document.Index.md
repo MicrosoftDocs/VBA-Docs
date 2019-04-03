@@ -1,5 +1,5 @@
 ---
-title: Document.Index Property (Visio)
+title: Document.Index property (Visio)
 keywords: vis_sdr.chm10513695
 f1_keywords:
 - vis_sdr.chm10513695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Index Property (Visio)
+# Document.Index property (Visio)
 
 Gets the ordinal position of a  **Document** object in the **Documents** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

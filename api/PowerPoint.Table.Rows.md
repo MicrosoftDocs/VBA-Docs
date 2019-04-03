@@ -1,5 +1,5 @@
 ---
-title: Table.Rows Property (PowerPoint)
+title: Table.Rows property (PowerPoint)
 keywords: vbapp10.chm622004
 f1_keywords:
 - vbapp10.chm622004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.Rows Property (PowerPoint)
+# Table.Rows property (PowerPoint)
 
 Returns a  **[Rows](PowerPoint.Rows.md)** collection that represents all the rows in a table. Read-only.
 
 
 ## Syntax
 
- _expression_. `Rows`
+_expression_. `Rows`
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

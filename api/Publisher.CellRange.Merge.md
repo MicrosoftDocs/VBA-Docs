@@ -1,5 +1,5 @@
 ---
-title: CellRange.Merge Method (Publisher)
+title: CellRange.Merge method (Publisher)
 keywords: vbapb10.chm5177352
 f1_keywords:
 - vbapb10.chm5177352
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Merge Method (Publisher)
+# CellRange.Merge method (Publisher)
 
 Merges the specified table cells with one another. The result is a single table cell.
 
 
 ## Syntax
 
- _expression_. **Merge**
+ _expression_.**Merge**
 
  _expression_ A variable that represents a  **CellRange** object.
 

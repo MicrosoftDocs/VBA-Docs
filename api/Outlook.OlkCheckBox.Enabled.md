@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.Enabled Property (Outlook)
+title: OlkCheckBox.Enabled property (Outlook)
 keywords: vbaol11.chm1000139
 f1_keywords:
 - vbaol11.chm1000139
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.Enabled Property (Outlook)
+# OlkCheckBox.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that indicates if the control is allowed to funct
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks

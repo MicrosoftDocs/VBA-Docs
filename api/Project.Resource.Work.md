@@ -1,5 +1,5 @@
 ---
-title: Resource.Work Property (Project)
+title: Resource.Work property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Work
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Work Property (Project)
+# Resource.Work property (Project)
 
 Gets the work (in minutes) for the resource. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Work`
+_expression_. `Work`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

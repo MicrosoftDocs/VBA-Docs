@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListNumberStart Property (Publisher)
+title: ParagraphFormat.ListNumberStart property (Publisher)
 keywords: vbapb10.chm5439527
 f1_keywords:
 - vbapb10.chm5439527
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListNumberStart Property (Publisher)
+# ParagraphFormat.ListNumberStart property (Publisher)
 
 Sets or retrieves a  **Long** that represents the starting number of a list. Read/write.
 
 
 ## Syntax
 
- _expression_. **ListNumberStart**
+ _expression_.**ListNumberStart**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

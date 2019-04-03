@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Type Property (PowerPoint)
+title: CalloutFormat.Type property (PowerPoint)
 keywords: vbapp10.chm559015
 f1_keywords:
 - vbapp10.chm559015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Type Property (PowerPoint)
+# CalloutFormat.Type property (PowerPoint)
 
 Represents the type of callout. Read/write.
 

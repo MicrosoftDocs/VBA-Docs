@@ -1,5 +1,5 @@
 ---
-title: Application.OnKeystrokeMessageForAddon Event (Visio)
+title: Application.OnKeystrokeMessageForAddon event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.OnKeystrokeMessageForAddon
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OnKeystrokeMessageForAddon Event (Visio)
+# Application.OnKeystrokeMessageForAddon event (Visio)
 
 Occurs when Microsoft Visio receives a keystroke message from Microsoft Windows that is targeted at an add-on window or child of an add-on window.
 

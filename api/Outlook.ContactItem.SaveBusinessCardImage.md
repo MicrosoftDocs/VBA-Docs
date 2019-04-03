@@ -1,5 +1,5 @@
 ---
-title: ContactItem.SaveBusinessCardImage Method (Outlook)
+title: ContactItem.SaveBusinessCardImage method (Outlook)
 keywords: vbaol11.chm1096
 f1_keywords:
 - vbaol11.chm1096
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.SaveBusinessCardImage Method (Outlook)
+# ContactItem.SaveBusinessCardImage method (Outlook)
 
 Saves an image of the business card generated from the specified  **[ContactItem](Outlook.ContactItem.md)** object.
 
@@ -21,7 +21,7 @@ Saves an image of the business card generated from the specified  **[ContactItem
 
 _expression_. `SaveBusinessCardImage`( `_Path_` )
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Explorer.SelectionChange Event (Outlook)
+title: Explorer.SelectionChange event (Outlook)
 keywords: vbaol11.chm455
 f1_keywords:
 - vbaol11.chm455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.SelectionChange Event (Outlook)
+# Explorer.SelectionChange event (Outlook)
 
 Occurs when the user selects a different or additional Microsoft Outlook item programmatically or by interacting with the user interface.
 

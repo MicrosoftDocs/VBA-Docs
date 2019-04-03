@@ -1,5 +1,5 @@
 ---
-title: Document.EnvelopeVisible Property (Publisher)
+title: Document.EnvelopeVisible property (Publisher)
 keywords: vbapb10.chm196618
 f1_keywords:
 - vbapb10.chm196618
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.EnvelopeVisible Property (Publisher)
+# Document.EnvelopeVisible property (Publisher)
 
 Returns or sets a  **Boolean** indicating whether the email message header is visible in the publication window. Read/write.
 
 
 ## Syntax
 
- _expression_. **EnvelopeVisible**
+ _expression_.**EnvelopeVisible**
 
  _expression_ A variable that represents an  **Document** object.
 

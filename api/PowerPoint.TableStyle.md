@@ -1,5 +1,5 @@
 ---
-title: TableStyle Object (PowerPoint)
+title: TableStyle object (PowerPoint)
 keywords: vbapp10.chm674000
 f1_keywords:
 - vbapp10.chm674000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableStyle Object (PowerPoint)
+# TableStyle object (PowerPoint)
 
 Represents the current table style.
 

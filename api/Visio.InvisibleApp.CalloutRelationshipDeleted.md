@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CalloutRelationshipDeleted Event (Visio)
+title: InvisibleApp.CalloutRelationshipDeleted event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CalloutRelationshipDeleted
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CalloutRelationshipDeleted Event (Visio)
+# InvisibleApp.CalloutRelationshipDeleted event (Visio)
 
 Occurs when a callout relationship is deleted from the application.
 

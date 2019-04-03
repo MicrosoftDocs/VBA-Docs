@@ -1,5 +1,5 @@
 ---
-title: Application.SelectCellUp Method (Project)
+title: Application.SelectCellUp method (Project)
 keywords: vbapj.chm2049
 f1_keywords:
 - vbapj.chm2049
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectCellUp Method (Project)
+# Application.SelectCellUp method (Project)
 
 Selects cells upward from the current selection.
 
 
 ## Syntax
 
- _expression_. `SelectCellUp`( `_NumCells_`, `_Extend_` )
+_expression_. `SelectCellUp`( `_NumCells_`, `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

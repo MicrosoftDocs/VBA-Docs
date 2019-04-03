@@ -1,5 +1,5 @@
 ---
-title: Application.OpenServerPage Method (Project)
+title: Application.OpenServerPage method (Project)
 keywords: vbapj.chm636
 f1_keywords:
 - vbapj.chm636
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OpenServerPage Method (Project)
+# Application.OpenServerPage method (Project)
 
 Opens the specified page from Project Web App.
 
 
 ## Syntax
 
- _expression_. `OpenServerPage`( `_Page_` )
+_expression_. `OpenServerPage`( `_Page_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

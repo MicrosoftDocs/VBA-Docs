@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.DoVerb Method (Publisher)
+title: OLEFormat.DoVerb method (Publisher)
 keywords: vbapb10.chm4456455
 f1_keywords:
 - vbapb10.chm4456455
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.DoVerb Method (Publisher)
+# OLEFormat.DoVerb method (Publisher)
 
 Requests that an OLE object perform one of its verbs.
 
 
 ## Syntax
 
- _expression_. **DoVerb**(**_iVerb_**)
+ _expression_.**DoVerb**(**_iVerb_**)
 
  _expression_ A variable that represents an  **OLEFormat** object.
 

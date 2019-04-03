@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.AttachmentRead Event (Outlook)
+title: TaskRequestItem.AttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.AttachmentRead
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.AttachmentRead Event (Outlook)
+# TaskRequestItem.AttachmentRead event (Outlook)
 
 Occurs when an attachment in an instance of the parent object has been opened for reading.
 
 
 ## Syntax
 
- _expression_. `AttachmentRead`( `_Attachment_` )
+_expression_. `AttachmentRead`( `_Attachment_` )
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Parameters

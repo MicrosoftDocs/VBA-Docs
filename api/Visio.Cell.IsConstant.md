@@ -1,5 +1,5 @@
 ---
-title: Cell.IsConstant Property (Visio)
+title: Cell.IsConstant property (Visio)
 keywords: vis_sdr.chm10113715
 f1_keywords:
 - vis_sdr.chm10113715
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.IsConstant Property (Visio)
+# Cell.IsConstant property (Visio)
 
 Determines whether a formula of the cell is a constant expression. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsConstant`
+_expression_. `IsConstant`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

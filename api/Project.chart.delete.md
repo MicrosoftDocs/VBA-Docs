@@ -1,5 +1,5 @@
 ---
-title: Chart.Delete Method (Project)
+title: Chart.Delete method (Project)
 keywords: vbapj.chm131614
 f1_keywords:
 - vbapj.chm131614
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Delete Method (Project)
+# Chart.Delete method (Project)
 Deletes a chart on an active report.
 
 ## Syntax

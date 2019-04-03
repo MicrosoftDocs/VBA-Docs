@@ -1,5 +1,5 @@
 ---
-title: PublishObject.SpeakerNotes Property (PowerPoint)
+title: PublishObject.SpeakerNotes property (PowerPoint)
 keywords: vbapp10.chm635008
 f1_keywords:
 - vbapp10.chm635008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PublishObject.SpeakerNotes Property (PowerPoint)
+# PublishObject.SpeakerNotes property (PowerPoint)
 
 Determines whether speaker notes are to be published with the presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `SpeakerNotes`
+_expression_. `SpeakerNotes`
 
  _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 

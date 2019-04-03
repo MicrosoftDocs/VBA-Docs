@@ -1,5 +1,5 @@
 ---
-title: AccelItem.Parent Property (Visio)
+title: AccelItem.Parent property (Visio)
 keywords: vis_sdr.chm14514040
 f1_keywords:
 - vis_sdr.chm14514040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelItem.Parent Property (Visio)
+# AccelItem.Parent property (Visio)
 
 Determines the parent of an object. Read-only.
 

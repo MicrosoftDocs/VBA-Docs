@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.Delete Method (PowerPoint)
+title: SectionProperties.Delete method (PowerPoint)
 keywords: vbapp10.chm725011
 f1_keywords:
 - vbapp10.chm725011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.Delete Method (PowerPoint)
+# SectionProperties.Delete method (PowerPoint)
 
 Deletes the section break that sets off the specified section, and optionally deletes all the slides in the section.
 

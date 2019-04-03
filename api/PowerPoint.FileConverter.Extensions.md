@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Extensions Property (PowerPoint)
+title: FileConverter.Extensions property (PowerPoint)
 keywords: vbapp10.chm680006
 f1_keywords:
 - vbapp10.chm680006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.Extensions Property (PowerPoint)
+# FileConverter.Extensions property (PowerPoint)
 
 Returns the file name extensions associated with the specified  **FileConverter** object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Extensions`
+_expression_. `Extensions`
 
  _expression_ A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 

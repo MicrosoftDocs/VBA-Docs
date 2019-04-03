@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Close Method (Outlook)
+title: ReportItem.Close method (Outlook)
 keywords: vbaol11.chm1664
 f1_keywords:
 - vbaol11.chm1664
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Close Method (Outlook)
+# ReportItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 
@@ -21,7 +21,7 @@ Closes and optionally saves changes to the Outlook item.
 
 _expression_. `Close`( `_SaveMode_` )
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Parameters

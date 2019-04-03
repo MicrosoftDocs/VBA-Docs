@@ -1,5 +1,5 @@
 ---
-title: Group Object (Project)
+title: Group object (Project)
 ms.prod: project-server
 api_name:
 - Project.Group
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Group Object (Project)
+# Group object (Project)
 
 Represents a group definition. A  **Group** object is a member of the **[ResourceGroups](Project.resourcegroups(object).md)** collection or the **[TaskGroups](Project.taskgroups(object).md)** collection.
  

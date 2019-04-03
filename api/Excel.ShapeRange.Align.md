@@ -21,7 +21,7 @@ Aligns the shapes in the specified range of shapes.
 
 _expression_. `Align`( `_AlignCmd_` , `_RelativeTo_` )
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Parameters
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) ob
 
 ## Example
 
-This example aligns the left edges of all the shapes in the specified range in  `myDocument` with the left edge of the leftmost shape in the range.
+This example aligns the left edges of all the shapes in the specified range in  _myDocument_ with the left edge of the leftmost shape in the range.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: FormNameRuleCondition.Enabled Property (Outlook)
+title: FormNameRuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2452
 f1_keywords:
 - vbaol11.chm2452
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormNameRuleCondition.Enabled Property (Outlook)
+# FormNameRuleCondition.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule condition is enabled. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that determines if the rule condition is enabled.
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents a [FormNameRuleCondition](./Outlook.FormNameRuleCondition.md) object.
+_expression_ A variable that represents a [FormNameRuleCondition](Outlook.FormNameRuleCondition.md) object.
 
 
 ## Remarks

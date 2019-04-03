@@ -1,5 +1,5 @@
 ---
-title: Application.SubmitSelectedEngagementsForProject Method (Project)
+title: Application.SubmitSelectedEngagementsForProject method (Project)
 keywords: vbapj.chm162
 f1_keywords:
 - vbapj.chm162
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SubmitSelectedEngagementsForProject Method (Project)
+# Application.SubmitSelectedEngagementsForProject method (Project)
 
 Submits all selected engagements in the project to the resource manager for review. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `SubmitSelectedEngagementsForProject`
+_expression_. `SubmitSelectedEngagementsForProject`
 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 

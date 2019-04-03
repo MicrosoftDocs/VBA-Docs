@@ -1,5 +1,5 @@
 ---
-title: SoundEffect.Type Property (PowerPoint)
+title: SoundEffect.Type property (PowerPoint)
 keywords: vbapp10.chm540004
 f1_keywords:
 - vbapp10.chm540004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SoundEffect.Type Property (PowerPoint)
+# SoundEffect.Type property (PowerPoint)
 
 Represents the type of sound effect. Read/write.
 

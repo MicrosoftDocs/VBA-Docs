@@ -1,5 +1,5 @@
 ---
-title: Application.ToggleTPResourceExpand Method (Project)
+title: Application.ToggleTPResourceExpand method (Project)
 keywords: vbapj.chm73
 f1_keywords:
 - vbapj.chm73
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ToggleTPResourceExpand Method (Project)
+# Application.ToggleTPResourceExpand method (Project)
 
 Expands or collapses the specified resource row in the Team Planner view, when there is more than one assignment within the same time span for the resource.
 
 
 ## Syntax
 
- _expression_. `ToggleTPResourceExpand`( `_ResourceUniqueID_` )
+_expression_. `ToggleTPResourceExpand`( `_ResourceUniqueID_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

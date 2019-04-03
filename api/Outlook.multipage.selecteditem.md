@@ -17,7 +17,7 @@ Returns an  **Object** that indicates the currently selected **[Page](Outlook.pa
 
 ## Syntax
 
-_expression_. **SelectedItem**
+_expression_.**SelectedItem**
 
 _expression_ A variable that represents a  **MultiPage** object.
 

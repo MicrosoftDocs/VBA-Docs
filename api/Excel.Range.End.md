@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Required| **[xlDirection](Excel.XlDirection.md)**|The direction in which to move.|
+| _Direction_|Required| **[XlDirection](Excel.XlDirection.md)**|The direction in which to move.|
 
 ## Example
 

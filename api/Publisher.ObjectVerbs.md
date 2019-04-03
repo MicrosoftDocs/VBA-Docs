@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs Object (Publisher)
+title: ObjectVerbs object (Publisher)
 keywords: vbapb10.chm4587519
 f1_keywords:
 - vbapb10.chm4587519
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ObjectVerbs Object (Publisher)
+# ObjectVerbs object (Publisher)
 
 Represents the collection of OLE verbs for the specified OLE object. OLE verbs are the operations supported by an OLE object. Commonly used OLE verbs are play and edit.
  

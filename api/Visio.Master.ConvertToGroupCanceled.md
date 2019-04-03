@@ -1,5 +1,5 @@
 ---
-title: Master.ConvertToGroupCanceled Event (Visio)
+title: Master.ConvertToGroupCanceled event (Visio)
 keywords: vis_sdr.chm10719370
 f1_keywords:
 - vis_sdr.chm10719370
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.ConvertToGroupCanceled Event (Visio)
+# Master.ConvertToGroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelConvertToGroup** event.
 

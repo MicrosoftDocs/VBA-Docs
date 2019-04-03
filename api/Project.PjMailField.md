@@ -1,5 +1,5 @@
 ---
-title: PjMailField Enumeration (Project)
+title: PjMailField enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMailField
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjMailField Enumeration (Project)
+# PjMailField enumeration (Project)
 
 Contains constants that specify the mail field. Obsolete.
 

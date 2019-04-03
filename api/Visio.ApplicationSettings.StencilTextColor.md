@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.StencilTextColor Property (Visio)
+title: ApplicationSettings.StencilTextColor property (Visio)
 keywords: vis_sdr.chm16251515
 f1_keywords:
 - vis_sdr.chm16251515
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.StencilTextColor Property (Visio)
+# ApplicationSettings.StencilTextColor property (Visio)
 
 Determines the color of text in stencil windows in Microsoft Visio for the current session. Read/write.
 
 
 ## Syntax
 
- _expression_. `StencilTextColor`
+_expression_. `StencilTextColor`
 
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

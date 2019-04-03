@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.OutlookVersion Property (Outlook)
+title: TaskRequestDeclineItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1842
 f1_keywords:
 - vbaol11.chm1842
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.OutlookVersion Property (Outlook)
+# TaskRequestDeclineItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 
 _expression_. `OutlookVersion`
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## See also

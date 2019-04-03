@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ConversationID Property (Outlook)
+title: TaskItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3474
 f1_keywords:
 - vbaol11.chm3474
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ConversationID Property (Outlook)
+# TaskItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[TaskItem](Outlook.TaskItem.md)** object belongs to. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conver
 
 _expression_. `ConversationID`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

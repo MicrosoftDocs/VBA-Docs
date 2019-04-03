@@ -1,5 +1,5 @@
 ---
-title: VisAutoConnectDir Enumeration (Visio)
+title: VisAutoConnectDir enumeration (Visio)
 keywords: vis_sdr.chm70505
 f1_keywords:
 - vis_sdr.chm70505
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisAutoConnectDir Enumeration (Visio)
+# VisAutoConnectDir enumeration (Visio)
 
 Auto-connect direction constants passed to the  **Shape.AutoConnect** method.
 

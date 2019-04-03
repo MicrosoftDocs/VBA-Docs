@@ -1,5 +1,5 @@
 ---
-title: Window.Scroll Method (Visio)
+title: Window.Scroll method (Visio)
 keywords: vis_sdr.chm11616520
 f1_keywords:
 - vis_sdr.chm11616520
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Scroll Method (Visio)
+# Window.Scroll method (Visio)
 
 Scrolls the contents of a window vertically, horizontally, or both.
 
 
 ## Syntax
 
- _expression_. `Scroll`( `_nxFlags_` , `_nyFlags_` )
+_expression_. `Scroll`( `_nxFlags_` , `_nyFlags_` )
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

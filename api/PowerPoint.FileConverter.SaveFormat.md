@@ -1,5 +1,5 @@
 ---
-title: FileConverter.SaveFormat Property (PowerPoint)
+title: FileConverter.SaveFormat property (PowerPoint)
 keywords: vbapp10.chm680012
 f1_keywords:
 - vbapp10.chm680012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.SaveFormat Property (PowerPoint)
+# FileConverter.SaveFormat property (PowerPoint)
 
 Returns the file format of the specified document or file converter. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `SaveFormat`
+_expression_. `SaveFormat`
 
  _expression_ Required. A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: EventList.ItemFromID Property (Visio)
+title: EventList.ItemFromID property (Visio)
 keywords: vis_sdr.chm12713775
 f1_keywords:
 - vis_sdr.chm12713775
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EventList.ItemFromID Property (Visio)
+# EventList.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_nID_` )
+_expression_. `ItemFromID`( `_nID_` )
 
  _expression_ A variable that represents an [EventList](./Visio.EventList.md) collection.
 

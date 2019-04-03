@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Ownership Property (Outlook)
+title: TaskItem.Ownership property (Outlook)
 keywords: vbaol11.chm1732
 f1_keywords:
 - vbaol11.chm1732
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Ownership Property (Outlook)
+# TaskItem.Ownership property (Outlook)
 
 Returns an  **[OlTaskOwnership](Outlook.OlTaskOwnership.md)** specifying the ownership state of the task. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlTaskOwnership](Outlook.OlTaskOwnership.md)** specifying the own
 
 _expression_. `Ownership`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: PjResourceRequestType Enumeration (Project)
+title: PjResourceRequestType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResourceRequestType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjResourceRequestType Enumeration (Project)
+# PjResourceRequestType enumeration (Project)
 
 Contains constants that specify the type of resource request.
 

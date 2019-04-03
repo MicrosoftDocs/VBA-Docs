@@ -1,5 +1,5 @@
 ---
-title: Selection.TextRange2 Property (PowerPoint)
+title: Selection.TextRange2 property (PowerPoint)
 keywords: vbapp10.chm508013
 f1_keywords:
 - vbapp10.chm508013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.TextRange2 Property (PowerPoint)
+# Selection.TextRange2 property (PowerPoint)
 
 Returns the  **TextRange2** object of the current **Selection** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextRange2`
+_expression_. `TextRange2`
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 

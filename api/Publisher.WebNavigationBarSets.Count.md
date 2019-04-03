@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSets.Count Property (Publisher)
+title: WebNavigationBarSets.Count property (Publisher)
 keywords: vbapb10.chm8454147
 f1_keywords:
 - vbapb10.chm8454147
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSets.Count Property (Publisher)
+# WebNavigationBarSets.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **WebNavigationBarSets** object.
 

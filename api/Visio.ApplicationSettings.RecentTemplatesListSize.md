@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RecentTemplatesListSize Property (Visio)
+title: ApplicationSettings.RecentTemplatesListSize property (Visio)
 keywords: vis_sdr.chm16262515
 f1_keywords:
 - vis_sdr.chm16262515
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RecentTemplatesListSize Property (Visio)
+# ApplicationSettings.RecentTemplatesListSize property (Visio)
 
 Determines the number of entries in the  **Recent Templates** list in the Microsoft Visio user interface. Read/write.
 
 
 ## Syntax
 
- _expression_. `RecentTemplatesListSize`
+_expression_. `RecentTemplatesListSize`
 
  _expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

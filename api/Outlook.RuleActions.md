@@ -1,5 +1,5 @@
 ---
-title: RuleActions Object (Outlook)
+title: RuleActions object (Outlook)
 keywords: vbaol11.chm3162
 f1_keywords:
 - vbaol11.chm3162
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions Object (Outlook)
+# RuleActions object (Outlook)
 
 The  **RuleActions** object contains a set of **[RuleAction](Outlook.RuleAction.md)** objects or objects derived from **RuleAction**, representing the actions that are executed on a **[Rule](Outlook.Rule.md)** object.
 
@@ -66,6 +66,6 @@ For more information on rule actions, see [Specifying Rule Actions](../outlook/H
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

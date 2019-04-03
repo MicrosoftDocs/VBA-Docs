@@ -1,5 +1,5 @@
 ---
-title: Application.WebHideToolbars Method (Project)
+title: Application.WebHideToolbars method (Project)
 keywords: vbapj.chm1306
 f1_keywords:
 - vbapj.chm1306
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WebHideToolbars Method (Project)
+# Application.WebHideToolbars method (Project)
 
 Shows or hides all toolbars except the  **Menu** and **Web** toolbars. Obsolete in Project.
 
 
 ## Syntax
 
- _expression_. `WebHideToolbars`( `_Hide_` )
+_expression_. `WebHideToolbars`( `_Hide_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.RemoveMembers Method (Outlook)
+title: DistListItem.RemoveMembers method (Outlook)
 keywords: vbaol11.chm1155
 f1_keywords:
 - vbaol11.chm1155
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.RemoveMembers Method (Outlook)
+# DistListItem.RemoveMembers method (Outlook)
 
 Removes members from a distribution list.
 
@@ -21,7 +21,7 @@ Removes members from a distribution list.
 
 _expression_. `RemoveMembers`( `_Recipients_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Select Method (PowerPoint)
+title: ShapeRange.Select method (PowerPoint)
 keywords: vbapp10.chm548052
 f1_keywords:
 - vbapp10.chm548052
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Select Method (PowerPoint)
+# ShapeRange.Select method (PowerPoint)
 
 Selects the specified object.
 

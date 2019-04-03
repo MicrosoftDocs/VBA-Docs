@@ -1,5 +1,5 @@
 ---
-title: Shape.Data2 Property (Visio)
+title: Shape.Data2 property (Visio)
 keywords: vis_sdr.chm11213370
 f1_keywords:
 - vis_sdr.chm11213370
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Data2 Property (Visio)
+# Shape.Data2 property (Visio)
 
 Gets or sets the value of the  **Data2** field for a **Shape** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Data2`
+_expression_. `Data2`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

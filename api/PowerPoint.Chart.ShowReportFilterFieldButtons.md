@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowReportFilterFieldButtons Property (PowerPoint)
+title: Chart.ShowReportFilterFieldButtons property (PowerPoint)
 keywords: vbapp10.chm684049
 f1_keywords:
 - vbapp10.chm684049
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.ShowReportFilterFieldButtons Property (PowerPoint)
+# Chart.ShowReportFilterFieldButtons property (PowerPoint)
 
 Returns or sets a value that indicates whether to display the report filter field buttons on a PivotChart. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowReportFilterFieldButtons`
+_expression_. `ShowReportFilterFieldButtons`
 
 _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 

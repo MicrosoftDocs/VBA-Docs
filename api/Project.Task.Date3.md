@@ -1,5 +1,5 @@
 ---
-title: Task.Date3 Property (Project)
+title: Task.Date3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Date3
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Date3 Property (Project)
+# Task.Date3 property (Project)
 
 Gets or sets the value of the  **Date3** custom field for the task. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Date3`
+_expression_. `Date3`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

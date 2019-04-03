@@ -1,5 +1,5 @@
 ---
-title: Project.IsTemplate Property (Project)
+title: Project.IsTemplate property (Project)
 keywords: vbapj.chm131103
 f1_keywords:
 - vbapj.chm131103
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.IsTemplate Property (Project)
+# Project.IsTemplate property (Project)
 
 Gets or sets a value that indicates whether the project is a template. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsTemplate`
+_expression_. `IsTemplate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

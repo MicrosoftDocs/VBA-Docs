@@ -1,5 +1,5 @@
 ---
-title: Master.IsChanged Property (Visio)
+title: Master.IsChanged property (Visio)
 keywords: vis_sdr.chm10750700
 f1_keywords:
 - vis_sdr.chm10750700
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.IsChanged Property (Visio)
+# Master.IsChanged property (Visio)
 
 Indicates whether a master has changed since it was opened. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsChanged`
+_expression_. `IsChanged`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

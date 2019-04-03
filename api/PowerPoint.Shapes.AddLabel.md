@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLabel Method (PowerPoint)
+title: Shapes.AddLabel method (PowerPoint)
 keywords: vbapp10.chm543008
 f1_keywords:
 - vbapp10.chm543008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddLabel Method (PowerPoint)
+# Shapes.AddLabel method (PowerPoint)
 
 Creates a label. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new label.
 
 
 ## Syntax
 
- _expression_. `AddLabel`( `_Orientation_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
+_expression_. `AddLabel`( `_Orientation_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

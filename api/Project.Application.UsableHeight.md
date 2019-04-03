@@ -1,5 +1,5 @@
 ---
-title: Application.UsableHeight Property (Project)
+title: Application.UsableHeight property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.UsableHeight
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.UsableHeight Property (Project)
+# Application.UsableHeight property (Project)
 
 Gets the maximum height available for a project window in points. Read-only  **Double**.
 
 
 ## Syntax
 
- _expression_. `UsableHeight`
+_expression_. `UsableHeight`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

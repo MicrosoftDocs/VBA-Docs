@@ -1,5 +1,5 @@
 ---
-title: Project.HonorConstraints Property (Project)
+title: Project.HonorConstraints property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.HonorConstraints
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.HonorConstraints Property (Project)
+# Project.HonorConstraints property (Project)
 
  **True** if tasks honor their constraint dates. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HonorConstraints`
+_expression_. `HonorConstraints`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

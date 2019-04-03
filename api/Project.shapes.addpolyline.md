@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddPolyline Method (Project)
+title: Shapes.AddPolyline method (Project)
 ms.prod: project-server
 ms.assetid: c61cbaf3-b687-b137-e4a2-8f9061dfc0f0
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddPolyline Method (Project)
+# Shapes.AddPolyline method (Project)
 Creates an open polyline or a closed polygon drawing, and returns a  **Shape** object that represents the new polyline or polygon.
 
 ## Syntax
 
- _expression_. `AddPolyline` _(SafeArrayOfPoints)_
+_expression_. `AddPolyline` _(SafeArrayOfPoints)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.GetInspector Property (Outlook)
+title: DistListItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1125
 f1_keywords:
 - vbaol11.chm1125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.GetInspector Property (Outlook)
+# DistListItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an insp
 
 _expression_. `GetInspector`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

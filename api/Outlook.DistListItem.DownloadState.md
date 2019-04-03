@@ -1,5 +1,5 @@
 ---
-title: DistListItem.DownloadState Property (Outlook)
+title: DistListItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1157
 f1_keywords:
 - vbaol11.chm1157
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.DownloadState Property (Outlook)
+# DistListItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadSt
 
 _expression_. `DownloadState`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Example

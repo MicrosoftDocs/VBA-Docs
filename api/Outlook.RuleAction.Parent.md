@@ -1,5 +1,5 @@
 ---
-title: RuleAction.Parent Property (Outlook)
+title: RuleAction.Parent property (Outlook)
 keywords: vbaol11.chm2204
 f1_keywords:
 - vbaol11.chm2204
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleAction.Parent Property (Outlook)
+# RuleAction.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [RuleAction](./Outlook.RuleAction.md) object.
+_expression_ A variable that represents a [RuleAction](Outlook.RuleAction.md) object.
 
 
 ## Remarks

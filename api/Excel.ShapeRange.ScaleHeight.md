@@ -21,7 +21,7 @@ Scales the height of the shape by a specified factor. For pictures and OLE objec
 
 _expression_. `ScaleHeight`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Parameters
@@ -49,7 +49,7 @@ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) ob
 
 ## Example
 
-This example scales all pictures and OLE objects on  `myDocument` to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
+This example scales all pictures and OLE objects on  _myDocument_ to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
 
 
 ```vb

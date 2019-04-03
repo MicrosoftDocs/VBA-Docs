@@ -1,5 +1,5 @@
 ---
-title: Designs Object (PowerPoint)
+title: Designs object (PowerPoint)
 keywords: vbapp10.chm643000
 f1_keywords:
 - vbapp10.chm643000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Designs Object (PowerPoint)
+# Designs object (PowerPoint)
 
 Represents a collection of slide design templates.
 

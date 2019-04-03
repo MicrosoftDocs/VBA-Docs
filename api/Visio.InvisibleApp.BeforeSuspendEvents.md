@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeSuspendEvents Event (Visio)
+title: InvisibleApp.BeforeSuspendEvents event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeSuspendEvents
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeSuspendEvents Event (Visio)
+# InvisibleApp.BeforeSuspendEvents event (Visio)
 
 Occurs before firing of events is suspended.
 

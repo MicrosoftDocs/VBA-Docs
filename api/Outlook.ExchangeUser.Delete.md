@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Delete Method (Outlook)
+title: ExchangeUser.Delete method (Outlook)
 keywords: vbaol11.chm2073
 f1_keywords:
 - vbaol11.chm2073
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Delete Method (Outlook)
+# ExchangeUser.Delete method (Outlook)
 
 Deletes the  **[ExchangeUser](Outlook.ExchangeUser.md)** object from the **[AddressEntries](Outlook.AddressEntries.md)** collection object to which it belongs.
 
@@ -21,7 +21,7 @@ Deletes the  **[ExchangeUser](Outlook.ExchangeUser.md)** object from the **[Addr
 
 _expression_.**Delete**
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

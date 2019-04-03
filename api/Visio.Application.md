@@ -1,5 +1,5 @@
 ---
-title: Application Object (Visio)
+title: Application object (Visio)
 keywords: vis_sdr.chm10040
 f1_keywords:
 - vis_sdr.chm10040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application Object (Visio)
+# Application object (Visio)
 
 Represents an instance of Visio. An external program typically creates or retrieves an  **Application** object before it can retrieve other Visio objects from that instance. Use the Microsoft Visual Basic **CreateObject** function or the **New** keyword to run a new instance, or use the **GetObject** function to retrieve an instance that is already running. You can also use the **CreateObject** function with the **InvisibleApp** object to run a new instance that is invisible. Set the value of the **InvisibleApp** object's **Visible** property to **True** to show it.
 

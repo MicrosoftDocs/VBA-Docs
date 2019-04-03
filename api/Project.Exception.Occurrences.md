@@ -1,5 +1,5 @@
 ---
-title: Exception.Occurrences Property (Project)
+title: Exception.Occurrences property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Occurrences
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Exception.Occurrences Property (Project)
+# Exception.Occurrences property (Project)
 
 Gets the number of occurrences of the calendar exception. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Occurrences`
+_expression_. `Occurrences`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

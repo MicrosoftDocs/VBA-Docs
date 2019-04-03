@@ -19,7 +19,7 @@ Adds a new conditional format.
 
 ## Syntax
 
-_expression_. `Add`( `_Type_` , `_Operator_` , `_Formula1_` , `_Formula2_` )
+_expression_.**Add**( `_Type_` , `_Operator_` , `_Formula1_` , `_Formula2_` )
 
 _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [FormatConditions](Excel.FormatConditi
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[xlFormatConditionType](Excel.XlFormatConditionType.md)**|. Specifies whether the conditional format is based on a cell value or an expression.|
+| _Type_|Required| **[XlFormatConditionType](Excel.XlFormatConditionType.md)**|. Specifies whether the conditional format is based on a cell value or an expression.|
 | _Operator_|Optional| **Variant**|The conditional format operator. Can be one of the following  **xlFormatConditionOperator** constants: **xlBetween**, **xlEqual**, **xlGreater**, **xlGreaterEqual**, **xlLess**, **xlLessEqual**, **xlNotBetween**, or **xlNotEqual**. If _Type_ is **xlExpression**, the _Operator_ argument is ignored.|
 | _Formula1_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula.|
 | _Formula2_|Optional| **Variant**|The value or expression associated with the second part of the conditional format when  _Operator_ is **xlBetween** or **xlNotBetween** (otherwise, this argument is ignored). Can be a constant value, a string value, a cell reference, or a formula.|

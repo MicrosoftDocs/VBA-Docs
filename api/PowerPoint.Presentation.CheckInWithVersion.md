@@ -1,5 +1,5 @@
 ---
-title: Presentation.CheckInWithVersion Method (PowerPoint)
+title: Presentation.CheckInWithVersion method (PowerPoint)
 keywords: vbapp10.chm583095
 f1_keywords:
 - vbapp10.chm583095
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.CheckInWithVersion Method (PowerPoint)
+# Presentation.CheckInWithVersion method (PowerPoint)
 
 Returns a presentation from a local computer to a server, and sets the local file to read-only so that it cannot be edited locally.
 
 
 ## Syntax
 
- _expression_. `CheckInWithVersion`( `_SaveChanges_`, `_Comments_`, `_MakePublic_`, `_VersionType_` )
+_expression_. `CheckInWithVersion`( `_SaveChanges_`, `_Comments_`, `_MakePublic_`, `_VersionType_` )
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

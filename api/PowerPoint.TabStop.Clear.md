@@ -1,5 +1,5 @@
 ---
-title: TabStop.Clear Method (PowerPoint)
+title: TabStop.Clear method (PowerPoint)
 keywords: vbapp10.chm574005
 f1_keywords:
 - vbapp10.chm574005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TabStop.Clear Method (PowerPoint)
+# TabStop.Clear method (PowerPoint)
 
 Clears the specified tab stop from the ruler and deletes it from the  **TabStops** collection.
 
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_. `Clear`
 
  _expression_ A variable that represents a [TabStop](./PowerPoint.TabStop.md) object.
 

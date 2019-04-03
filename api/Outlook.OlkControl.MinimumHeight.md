@@ -1,5 +1,5 @@
 ---
-title: OlkControl.MinimumHeight Property (Outlook)
+title: OlkControl.MinimumHeight property (Outlook)
 keywords: vbaol11.chm1000508
 f1_keywords:
 - vbaol11.chm1000508
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkControl.MinimumHeight Property (Outlook)
+# OlkControl.MinimumHeight property (Outlook)
 
 Returns or sets a  **Long** that specifies the minimum height the control can be automatically sized down to. Read/write.
 

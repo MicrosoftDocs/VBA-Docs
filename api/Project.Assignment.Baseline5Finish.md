@@ -1,5 +1,5 @@
 ---
-title: Assignment.Baseline5Finish Property (Project)
+title: Assignment.Baseline5Finish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline5Finish
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Baseline5Finish Property (Project)
+# Assignment.Baseline5Finish property (Project)
 
 Gets or sets the baseline finish date of a task  **Assignment**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline5Finish`
+_expression_. `Baseline5Finish`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

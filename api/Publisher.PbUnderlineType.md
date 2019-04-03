@@ -1,5 +1,5 @@
 ---
-title: PbUnderlineType Enumeration (Publisher)
+title: PbUnderlineType enumeration (Publisher)
 keywords: vbapb10.chm65562
 f1_keywords:
 - vbapb10.chm65562
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbUnderlineType Enumeration (Publisher)
+# PbUnderlineType enumeration (Publisher)
 
 Indicates the type of underline for the selected characters in the specified font in a text range.
 

@@ -1,5 +1,5 @@
 ---
-title: PropertyEffect Object (PowerPoint)
+title: PropertyEffect object (PowerPoint)
 keywords: vbapp10.chm662000
 f1_keywords:
 - vbapp10.chm662000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyEffect Object (PowerPoint)
+# PropertyEffect object (PowerPoint)
 
 Represents a property effect for an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.Application Property (Visio)
+title: MSGWrap.Application property (Visio)
 keywords: vis_sdr.chm16113090
 f1_keywords:
 - vis_sdr.chm16113090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap.Application Property (Visio)
+# MSGWrap.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

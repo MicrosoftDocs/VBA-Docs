@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Size Property (Outlook)
+title: DocumentItem.Size property (Outlook)
 keywords: vbaol11.chm1205
 f1_keywords:
 - vbaol11.chm1205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Size Property (Outlook)
+# DocumentItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
 _expression_. `Size`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## See also

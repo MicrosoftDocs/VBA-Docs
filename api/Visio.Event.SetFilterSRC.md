@@ -1,5 +1,5 @@
 ---
-title: Event.SetFilterSRC Method (Visio)
+title: Event.SetFilterSRC method (Visio)
 keywords: vis_sdr.chm12650840
 f1_keywords:
 - vis_sdr.chm12650840
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Event.SetFilterSRC Method (Visio)
+# Event.SetFilterSRC method (Visio)
 
 Specifies an array of cell ranges and a  **True** or **False** value indicating how to filter events for each cell range.
 
 
 ## Syntax
 
- _expression_. `SetFilterSRC`( `_SRCStream()_` )
+_expression_. `SetFilterSRC`( `_SRCStream()_` )
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 

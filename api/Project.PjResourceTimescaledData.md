@@ -1,5 +1,5 @@
 ---
-title: PjResourceTimescaledData Enumeration (Project)
+title: PjResourceTimescaledData enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResourceTimescaledData
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjResourceTimescaledData Enumeration (Project)
+# PjResourceTimescaledData enumeration (Project)
 
 Contains constants that specify a resource field for timescaled data in the Project database. For more information about working with fields in Project, see the "Fields reference overview" topic in Project Help.
 

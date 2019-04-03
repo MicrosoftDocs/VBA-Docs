@@ -1,5 +1,5 @@
 ---
-title: Cell.Assignment Property (Project)
+title: Cell.Assignment property (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell.Assignment
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.Assignment Property (Project)
+# Cell.Assignment property (Project)
 
 Gets the  **[Assignment](Project.Assignment.md)** associated with the **[Cell](Project.Cell.md)**. Read-only **Assignment**.
 
 
 ## Syntax
 
- _expression_. `Assignment`
+_expression_. `Assignment`
 
  _expression_ An expression that returns a [Cell](./Project.Cell.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetRootItems Method (Outlook)
+title: Conversation.GetRootItems method (Outlook)
 keywords: vbaol11.chm3402
 f1_keywords:
 - vbaol11.chm3402
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.GetRootItems Method (Outlook)
+# Conversation.GetRootItems method (Outlook)
 
 Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all root items in the conversation.
 

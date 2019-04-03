@@ -1,5 +1,5 @@
 ---
-title: MoveOrCopyRuleAction.Session Property (Outlook)
+title: MoveOrCopyRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2210
 f1_keywords:
 - vbaol11.chm2210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MoveOrCopyRuleAction.Session Property (Outlook)
+# MoveOrCopyRuleAction.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [MoveOrCopyRuleAction](./Outlook.MoveOrCopyRuleAction.md) object.
+_expression_ A variable that represents a [MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md) object.
 
 
 ## Remarks

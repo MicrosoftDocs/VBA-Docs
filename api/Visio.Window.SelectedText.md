@@ -1,5 +1,5 @@
 ---
-title: Window.SelectedText Property (Visio)
+title: Window.SelectedText property (Visio)
 keywords: vis_sdr.chm11651640
 f1_keywords:
 - vis_sdr.chm11651640
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.SelectedText Property (Visio)
+# Window.SelectedText property (Visio)
 
 Returns the selected text in the Microsoft Visio drawing window as a  **Characters** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `SelectedText`
+_expression_. `SelectedText`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

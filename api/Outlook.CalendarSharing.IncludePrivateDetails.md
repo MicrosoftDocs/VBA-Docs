@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.IncludePrivateDetails Property (Outlook)
+title: CalendarSharing.IncludePrivateDetails property (Outlook)
 keywords: vbaol11.chm2417
 f1_keywords:
 - vbaol11.chm2417
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarSharing.IncludePrivateDetails Property (Outlook)
+# CalendarSharing.IncludePrivateDetails property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether private details for calendar items should be included in the iCalendar (.ics) file created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** or **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** methods of the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether private details for 
 
 _expression_. `IncludePrivateDetails`
 
- _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
+ _expression_ An expression that returns a [CalendarSharing](Outlook.CalendarSharing.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: TableField.Index Property (Project)
+title: TableField.Index property (Project)
 keywords: vbapj.chm132688
 f1_keywords:
 - vbapj.chm132688
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TableField.Index Property (Project)
+# TableField.Index property (Project)
 
 Gets the index of a  **TableField** object in the **TableFields** containing object. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 

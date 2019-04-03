@@ -1,5 +1,5 @@
 ---
-title: Application.FileConverters Property (PowerPoint)
+title: Application.FileConverters property (PowerPoint)
 keywords: vbapp10.chm502060
 f1_keywords:
 - vbapp10.chm502060
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FileConverters Property (PowerPoint)
+# Application.FileConverters property (PowerPoint)
 
 Returns information about installed file converters. Returns  **null** if there are no converters installed. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `FileConverters`( `_Index1_`, `_Index2_` )
+_expression_. `FileConverters`( `_Index1_`, `_Index2_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

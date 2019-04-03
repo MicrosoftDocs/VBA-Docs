@@ -1,5 +1,5 @@
 ---
-title: Action.Parent Property (Outlook)
+title: Action.Parent property (Outlook)
 keywords: vbaol11.chm13
 f1_keywords:
 - vbaol11.chm13
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action.Parent Property (Outlook)
+# Action.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](Outlook.Action.md) object.
 
 
 ## See also

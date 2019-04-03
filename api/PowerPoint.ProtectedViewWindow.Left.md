@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Left Property (PowerPoint)
+title: ProtectedViewWindow.Left property (PowerPoint)
 keywords: vbapp10.chm734009
 f1_keywords:
 - vbapp10.chm734009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Left Property (PowerPoint)
+# ProtectedViewWindow.Left property (PowerPoint)
 
 Returns or sets the distance in points from the left edge of the specified window to the left edge of the application window's client area. Read/write.
 

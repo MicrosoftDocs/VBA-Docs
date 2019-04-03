@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.Change Event (Outlook)
+title: OlkSenderPhoto.Change event (Outlook)
 keywords: vbaol11.chm1000492
 f1_keywords:
 - vbaol11.chm1000492
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.Change Event (Outlook)
+# OlkSenderPhoto.Change event (Outlook)
 
 Occurs when the sender's contact picture has changed. 
 
@@ -21,7 +21,7 @@ Occurs when the sender's contact picture has changed.
 
 _expression_. `Change`
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## Remarks

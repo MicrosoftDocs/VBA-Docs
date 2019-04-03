@@ -1,5 +1,5 @@
 ---
-title: Resource.Text24 Property (Project)
+title: Resource.Text24 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Text24
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Text24 Property (Project)
+# Resource.Text24 property (Project)
 
 Gets or sets the value of a local Text custom field for the resource. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Text24`
+_expression_. `Text24`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

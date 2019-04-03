@@ -1,5 +1,5 @@
 ---
-title: Shape.GroupItems Property (Publisher)
+title: Shape.GroupItems property (Publisher)
 keywords: vbapb10.chm2228280
 f1_keywords:
 - vbapb10.chm2228280
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.GroupItems Property (Publisher)
+# Shape.GroupItems property (Publisher)
 
 Returns a  **[GroupShapes](Publisher.GroupShapes.md)** collection if the specified shape is a group.
 
 
 ## Syntax
 
- _expression_. **GroupItems**
+ _expression_.**GroupItems**
 
  _expression_ A variable that represents a  **Shape** object.
 

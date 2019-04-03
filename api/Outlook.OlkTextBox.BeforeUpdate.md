@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.BeforeUpdate Event (Outlook)
+title: OlkTextBox.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000083
 f1_keywords:
 - vbaol11.chm1000083
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.BeforeUpdate Event (Outlook)
+# OlkTextBox.BeforeUpdate event (Outlook)
 
 Occurs when the data in the control is changed through the user interface and is about to be saved to the item. 
 
@@ -21,7 +21,7 @@ Occurs when the data in the control is changed through the user interface and is
 
 _expression_.**BeforeUpdate** (_Cancel_)
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Parameters

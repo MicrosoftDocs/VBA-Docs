@@ -1,5 +1,5 @@
 ---
-title: Rows.Item Method (Publisher)
+title: Rows.Item method (Publisher)
 keywords: vbapb10.chm4915200
 f1_keywords:
 - vbapb10.chm4915200
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Rows.Item Method (Publisher)
+# Rows.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **Rows** object.
 

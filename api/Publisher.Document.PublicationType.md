@@ -1,5 +1,5 @@
 ---
-title: Document.PublicationType Property (Publisher)
+title: Document.PublicationType property (Publisher)
 keywords: vbapb10.chm196736
 f1_keywords:
 - vbapb10.chm196736
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.PublicationType Property (Publisher)
+# Document.PublicationType property (Publisher)
 
 Returns a  **PbPublicationType** constant that represents the type of the specified publication. Read-only.
 
 
 ## Syntax
 
- _expression_. **PublicationType**
+ _expression_.**PublicationType**
 
  _expression_ A variable that represents a  **Document** object.
 

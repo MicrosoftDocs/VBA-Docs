@@ -1,5 +1,5 @@
 ---
-title: Application.Font32Ex Method (Project)
+title: Application.Font32Ex method (Project)
 keywords: vbapj.chm2149
 f1_keywords:
 - vbapj.chm2149
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Font32Ex Method (Project)
+# Application.Font32Ex method (Project)
 
 Sets the font for the text in the active cells, where the text color can be a hexadecimal value.
 
 
 ## Syntax
 
- _expression_. `Font32Ex`( `_Name_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_`, `_Reset_`, `_CellColor_`, `_Pattern_`, `_Strikethrough_` )
+_expression_. `Font32Ex`( `_Name_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_`, `_Reset_`, `_CellColor_`, `_Pattern_`, `_Strikethrough_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

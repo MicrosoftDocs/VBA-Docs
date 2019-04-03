@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupView Method (Project)
+title: Application.FilePageSetupView method (Project)
 keywords: vbapj.chm2360
 f1_keywords:
 - vbapj.chm2360
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupView Method (Project)
+# Application.FilePageSetupView method (Project)
 
 Sets up view-specific options for printing.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupView`( `_Name_`, `_AllSheetColumns_`, `_RepeatColumns_`, `_PrintNotes_`, `_PrintBlankPages_`, `_BestPageFitTimescale_`, `_PrintColumnTotals_`, `_PrintRowTotals_` )
+_expression_. `FilePageSetupView`( `_Name_`, `_AllSheetColumns_`, `_RepeatColumns_`, `_PrintNotes_`, `_PrintBlankPages_`, `_BestPageFitTimescale_`, `_PrintColumnTotals_`, `_PrintRowTotals_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

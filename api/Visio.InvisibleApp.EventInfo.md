@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.EventInfo Property (Visio)
+title: InvisibleApp.EventInfo property (Visio)
 keywords: vis_sdr.chm17513475
 f1_keywords:
 - vis_sdr.chm17513475
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.EventInfo Property (Visio)
+# InvisibleApp.EventInfo property (Visio)
 
 Gets additional information associated with an event, if any exists. Read-only.
 
 
 ## Syntax
 
- _expression_. `EventInfo`( `_eventSeqNum_` )
+_expression_. `EventInfo`( `_eventSeqNum_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

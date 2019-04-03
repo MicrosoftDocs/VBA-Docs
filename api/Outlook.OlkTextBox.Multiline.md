@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.MultiLine Property (Outlook)
+title: OlkTextBox.MultiLine property (Outlook)
 keywords: vbaol11.chm1000053
 f1_keywords:
 - vbaol11.chm1000053
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.MultiLine Property (Outlook)
+# OlkTextBox.MultiLine property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether a control can accept and d
 
 _expression_. `Multiline`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

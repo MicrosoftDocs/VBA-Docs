@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Write Event (Outlook)
+title: TaskRequestUpdateItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Write
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Write Event (Outlook)
+# TaskRequestUpdateItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.TaskRequestUpdateItem.Save.md)** or **[SaveAs](Outlook.TaskRequestUpdateItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
 
 ## Syntax
 
- _expression_. `Write`( `_Cancel_` )
+_expression_. `Write`( `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters

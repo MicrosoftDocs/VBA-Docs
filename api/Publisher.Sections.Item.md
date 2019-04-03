@@ -1,5 +1,5 @@
 ---
-title: Sections.Item Property (Publisher)
+title: Sections.Item property (Publisher)
 keywords: vbapb10.chm7340035
 f1_keywords:
 - vbapb10.chm7340035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Sections.Item Property (Publisher)
+# Sections.Item property (Publisher)
 
 Returns an individual object from a specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **Sections** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Delete Method (Project)
+title: Resource.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Delete Method (Project)
+# Resource.Delete method (Project)
 
 Deletes the  **Resource** object from a **Resources** collection.
 

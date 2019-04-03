@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.SelectionMargin Property (Outlook)
+title: OlkTextBox.SelectionMargin property (Outlook)
 keywords: vbaol11.chm1000056
 f1_keywords:
 - vbaol11.chm1000056
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.SelectionMargin Property (Outlook)
+# OlkTextBox.SelectionMargin property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether the user can select a line of text by clicking in the region to the left of the text. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether the user can select a line
 
 _expression_. `SelectionMargin`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

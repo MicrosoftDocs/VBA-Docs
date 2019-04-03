@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Width Property (PowerPoint)
+title: ChartTitle.Width property (PowerPoint)
 keywords: vbapp10.chm694023
 f1_keywords:
 - vbapp10.chm694023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Width Property (PowerPoint)
+# ChartTitle.Width property (PowerPoint)
 
 Returns or sets a  **Double** value that represents the width, in points, of the object. Read-only.
 

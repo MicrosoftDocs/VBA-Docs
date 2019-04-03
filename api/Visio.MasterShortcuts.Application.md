@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.Application Property (Visio)
+title: MasterShortcuts.Application property (Visio)
 keywords: vis_sdr.chm15913090
 f1_keywords:
 - vis_sdr.chm15913090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts.Application Property (Visio)
+# MasterShortcuts.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

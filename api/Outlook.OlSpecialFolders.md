@@ -1,5 +1,5 @@
 ---
-title: OlSpecialFolders Enumeration (Outlook)
+title: OlSpecialFolders enumeration (Outlook)
 keywords: vbaol11.chm3148
 f1_keywords:
 - vbaol11.chm3148
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSpecialFolders Enumeration (Outlook)
+# OlSpecialFolders enumeration (Outlook)
 
 Specifies the types of special folders in a store.
 

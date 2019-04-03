@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectAfterSave Event (Project)
+title: Application.ProjectAfterSave event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectAfterSave
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectAfterSave Event (Project)
+# Application.ProjectAfterSave event (Project)
 
 Occurs after a project has been saved.
 
 
 ## Syntax
 
- _expression_. `ProjectAfterSave`
+_expression_. `ProjectAfterSave`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

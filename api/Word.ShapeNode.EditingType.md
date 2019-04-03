@@ -19,7 +19,7 @@ If the specified node is a vertex, this property returns a value that indicates 
 
 ## Syntax
 
- _expression_. `EditingType`
+_expression_. `EditingType`
 
  _expression_ Required. A variable that represents a '[ShapeNode](Word.ShapeNode.md)' object.
 

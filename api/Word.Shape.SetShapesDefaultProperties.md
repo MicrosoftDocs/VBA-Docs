@@ -19,7 +19,7 @@ Applies the formatting of the default shape for a document to the specified shap
 
 ## Syntax
 
- _expression_. `SetShapesDefaultProperties`
+_expression_. `SetShapesDefaultProperties`
 
  _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 

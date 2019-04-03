@@ -1,5 +1,5 @@
 ---
-title: Shape.PlaceholderFormat Property (PowerPoint)
+title: Shape.PlaceholderFormat property (PowerPoint)
 keywords: vbapp10.chm547046
 f1_keywords:
 - vbapp10.chm547046
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.PlaceholderFormat Property (PowerPoint)
+# Shape.PlaceholderFormat property (PowerPoint)
 
 Returns a  **[PlaceholderFormat](PowerPoint.PlaceholderFormat.md)** object that contains the properties that are unique to placeholders. Read-only.
 
 
 ## Syntax
 
- _expression_. `PlaceholderFormat`
+_expression_. `PlaceholderFormat`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.EndTimeZone Property (Outlook)
+title: AppointmentItem.EndTimeZone property (Outlook)
 keywords: vbaol11.chm3276
 f1_keywords:
 - vbaol11.chm3276
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.EndTimeZone Property (Outlook)
+# AppointmentItem.EndTimeZone property (Outlook)
 
 Returns or sets a  **[TimeZone](Outlook.TimeZone.md)** value that corresponds to the end time of the appointment. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **[TimeZone](Outlook.TimeZone.md)** value that corresponds to
 
 _expression_. `EndTimeZone`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

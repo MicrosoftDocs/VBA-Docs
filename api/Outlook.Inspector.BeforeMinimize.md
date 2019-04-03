@@ -1,5 +1,5 @@
 ---
-title: Inspector.BeforeMinimize Event (Outlook)
+title: Inspector.BeforeMinimize event (Outlook)
 keywords: vbaol11.chm469
 f1_keywords:
 - vbaol11.chm469
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.BeforeMinimize Event (Outlook)
+# Inspector.BeforeMinimize event (Outlook)
 
 Occurs when the active inspector is minimized by the user.
 
@@ -21,7 +21,7 @@ Occurs when the active inspector is minimized by the user.
 
 _expression_. `BeforeMinimize`( `_Cancel_` )
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters

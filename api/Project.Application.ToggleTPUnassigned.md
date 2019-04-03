@@ -1,5 +1,5 @@
 ---
-title: Application.ToggleTPUnassigned Method (Project)
+title: Application.ToggleTPUnassigned method (Project)
 keywords: vbapj.chm1506
 f1_keywords:
 - vbapj.chm1506
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ToggleTPUnassigned Method (Project)
+# Application.ToggleTPUnassigned method (Project)
 
 Shows or hides the  **Unassigned Tasks** section in the Team Planner view.
 
 
 ## Syntax
 
- _expression_. `ToggleTPUnassigned`
+_expression_. `ToggleTPUnassigned`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

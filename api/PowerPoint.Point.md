@@ -1,5 +1,5 @@
 ---
-title: Point Object (PowerPoint)
+title: Point object (PowerPoint)
 keywords: vbapp10.chm714000
 f1_keywords:
 - vbapp10.chm714000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point Object (PowerPoint)
+# Point object (PowerPoint)
 
 Represents a single point in a series in a chart.
 

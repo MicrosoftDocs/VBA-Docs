@@ -1,5 +1,5 @@
 ---
-title: ScaleEffect.FromY Property (PowerPoint)
+title: ScaleEffect.FromY property (PowerPoint)
 keywords: vbapp10.chm660006
 f1_keywords:
 - vbapp10.chm660006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ScaleEffect.FromY Property (PowerPoint)
+# ScaleEffect.FromY property (PowerPoint)
 
 Returns or sets a  **Single** that represents the starting height of a **[ScaleEffect](PowerPoint.ScaleEffect.md)** object, specified as a percentage of the screen width. Read/write.
 
 
 ## Syntax
 
- _expression_. `FromY`
+_expression_. `FromY`
 
  _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Curve.ObjectType Property (Visio)
+title: Curve.ObjectType property (Visio)
 keywords: vis_sdr.chm15513960
 f1_keywords:
 - vis_sdr.chm15513960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Curve.ObjectType Property (Visio)
+# Curve.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 

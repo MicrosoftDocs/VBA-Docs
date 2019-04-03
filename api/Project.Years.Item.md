@@ -1,5 +1,5 @@
 ---
-title: Years.Item Property (Project)
+title: Years.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Years.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Years.Item Property (Project)
+# Years.Item property (Project)
 
 Gets a single  **Year** object from the **Years** collection. Read-only **Year**.
 

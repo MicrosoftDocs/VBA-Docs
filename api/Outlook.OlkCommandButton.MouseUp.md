@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.MouseUp Event (Outlook)
+title: OlkCommandButton.MouseUp event (Outlook)
 keywords: vbaol11.chm1000124
 f1_keywords:
 - vbaol11.chm1000124
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.MouseUp Event (Outlook)
+# OlkCommandButton.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 
@@ -21,7 +21,7 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Parameters

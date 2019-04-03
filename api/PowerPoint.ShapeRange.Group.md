@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Group Method (PowerPoint)
+title: ShapeRange.Group method (PowerPoint)
 keywords: vbapp10.chm548061
 f1_keywords:
 - vbapp10.chm548061
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Group Method (PowerPoint)
+# ShapeRange.Group method (PowerPoint)
 
 Groups the shapes in the specified range. Returns the grouped shapes as a single  **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Syntax
 
- _expression_. `Group`
+_expression_. `Group`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
@@ -36,7 +36,7 @@ Because a group of shapes is treated as a single shape, grouping and ungrouping 
 
 ## Example
 
-This example adds two shapes to  `myDocument`, groups the two new shapes, sets the fill for the group, rotates the group, and sends the group to the back of the drawing layer.
+This example adds two shapes to  _myDocument_, groups the two new shapes, sets the fill for the group, rotates the group, and sends the group to the back of the drawing layer.
 
 
 ```vb

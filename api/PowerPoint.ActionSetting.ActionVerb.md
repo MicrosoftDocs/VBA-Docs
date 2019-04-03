@@ -1,5 +1,5 @@
 ---
-title: ActionSetting.ActionVerb Property (PowerPoint)
+title: ActionSetting.ActionVerb property (PowerPoint)
 keywords: vbapp10.chm567004
 f1_keywords:
 - vbapp10.chm567004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ActionSetting.ActionVerb Property (PowerPoint)
+# ActionSetting.ActionVerb property (PowerPoint)
 
 Returns or sets a string that contains the OLE verb that will be run when the user clicks the specified shape or passes the mouse pointer over it during a slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `ActionVerb`
+_expression_. `ActionVerb`
 
 _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 

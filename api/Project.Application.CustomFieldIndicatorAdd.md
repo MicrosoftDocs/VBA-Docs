@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldIndicatorAdd Method (Project)
+title: Application.CustomFieldIndicatorAdd method (Project)
 keywords: vbapj.chm38
 f1_keywords:
 - vbapj.chm38
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldIndicatorAdd Method (Project)
+# Application.CustomFieldIndicatorAdd method (Project)
 
 Creates a test condition against the value of a custom field to determine which graphical indicator to display in place of the actual data.
 
 
 ## Syntax
 
- _expression_. `CustomFieldIndicatorAdd`( `_FieldID_`, `_Test_`, `_Value_`, `_IndicatorID_`, `_CriteriaList_`, `_Index_` )
+_expression_. `CustomFieldIndicatorAdd`( `_FieldID_`, `_Test_`, `_Value_`, `_IndicatorID_`, `_CriteriaList_`, `_Index_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

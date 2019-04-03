@@ -1,5 +1,5 @@
 ---
-title: TextRange.ParagraphFormat Property (Publisher)
+title: TextRange.ParagraphFormat property (Publisher)
 keywords: vbapb10.chm5308439
 f1_keywords:
 - vbapb10.chm5308439
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.ParagraphFormat Property (Publisher)
+# TextRange.ParagraphFormat property (Publisher)
 
 Returns a  **[ParagraphFormat](Publisher.ParagraphFormat.md)** object representing the paragraph formatting for the specified text range or text style.
 
 
 ## Syntax
 
- _expression_. **ParagraphFormat**
+ _expression_.**ParagraphFormat**
 
  _expression_ A variable that represents a  **TextRange** object.
 

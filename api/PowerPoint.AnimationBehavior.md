@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior Object (PowerPoint)
+title: AnimationBehavior object (PowerPoint)
 keywords: vbapp10.chm657000
 f1_keywords:
 - vbapp10.chm657000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior Object (PowerPoint)
+# AnimationBehavior object (PowerPoint)
 
 Represents the behavior of an animation effect, the main animation sequence, or an interactive animation sequence. The  **AnimationBehavior** object is a member of the **[AnimationBehaviors](PowerPoint.AnimationBehaviors.md)** collection.
 

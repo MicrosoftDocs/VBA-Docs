@@ -1,5 +1,5 @@
 ---
-title: ChildDrivers.Application Property (Project)
+title: ChildDrivers.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.ChildDrivers.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChildDrivers.Application Property (Project)
+# ChildDrivers.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

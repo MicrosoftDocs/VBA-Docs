@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Version Property (Visio)
+title: InvisibleApp.Version property (Visio)
 keywords: vis_sdr.chm17514640
 f1_keywords:
 - vis_sdr.chm17514640
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Version Property (Visio)
+# InvisibleApp.Version property (Visio)
 
 Returns the version of a running Microsoft Visio instance. Read-only.
 
 
 ## Syntax
 
- _expression_. `Version`
+_expression_. `Version`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

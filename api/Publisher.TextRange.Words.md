@@ -1,5 +1,5 @@
 ---
-title: TextRange.Words Method (Publisher)
+title: TextRange.Words method (Publisher)
 keywords: vbapb10.chm5308456
 f1_keywords:
 - vbapb10.chm5308456
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Words Method (Publisher)
+# TextRange.Words method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the specified subset of text words.
 
 
 ## Syntax
 
- _expression_. **Words**(**_Start_**,  **_Length_**)
+ _expression_.**Words**(**_Start_**,  **_Length_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

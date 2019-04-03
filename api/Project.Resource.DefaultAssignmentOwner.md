@@ -1,5 +1,5 @@
 ---
-title: Resource.DefaultAssignmentOwner Property (Project)
+title: Resource.DefaultAssignmentOwner property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.DefaultAssignmentOwner
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.DefaultAssignmentOwner Property (Project)
+# Resource.DefaultAssignmentOwner property (Project)
 
 Sets or gets the user name responsible for providing progress updates for assignments made to the resource. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `DefaultAssignmentOwner`
+_expression_. `DefaultAssignmentOwner`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

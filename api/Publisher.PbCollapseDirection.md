@@ -1,5 +1,5 @@
 ---
-title: PbCollapseDirection Enumeration (Publisher)
+title: PbCollapseDirection enumeration (Publisher)
 keywords: vbapb10.chm65547
 f1_keywords:
 - vbapb10.chm65547
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbCollapseDirection Enumeration (Publisher)
+# PbCollapseDirection enumeration (Publisher)
 
 The direction in which to collapse the range or selection.
 

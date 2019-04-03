@@ -1,5 +1,5 @@
 ---
-title: Application.ObjectLinks Method (Project)
+title: Application.ObjectLinks method (Project)
 keywords: vbapj.chm238
 f1_keywords:
 - vbapj.chm238
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ObjectLinks Method (Project)
+# Application.ObjectLinks method (Project)
 
 Displays the  **Links** dialog box, which prompts the user to edit OLE links in the active project.
 
 
 ## Syntax
 
- _expression_. `ObjectLinks`
+_expression_. `ObjectLinks`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

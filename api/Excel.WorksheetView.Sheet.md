@@ -21,7 +21,7 @@ Returns the sheet name for the specified  **[WorksheetView](Excel.WorksheetView.
 
 _expression_. `Sheet`
 
-_expression_ A variable that represents a [WorksheetView](./Excel.WorksheetView.md) object.
+_expression_ A variable that represents a [WorksheetView](Excel.WorksheetView.md) object.
 
 
 ## See also

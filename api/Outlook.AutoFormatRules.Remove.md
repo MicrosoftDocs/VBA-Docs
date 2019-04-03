@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Remove Method (Outlook)
+title: AutoFormatRules.Remove method (Outlook)
 keywords: vbaol11.chm2721
 f1_keywords:
 - vbaol11.chm2721
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Remove Method (Outlook)
+# AutoFormatRules.Remove method (Outlook)
 
 Removes an object from the collection.
 
 
 ## Syntax
 
-_expression_. `Remove`( `_Index_` )
+_expression_. `Remove` (_Index_)
 
-_expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
+_expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatRules.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MasterAdded Event (Visio)
+title: InvisibleApp.MasterAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MasterAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MasterAdded Event (Visio)
+# InvisibleApp.MasterAdded event (Visio)
 
 Occurs after a new master is added to a document.
 

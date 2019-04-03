@@ -1,5 +1,5 @@
 ---
-title: TabStop.Type Property (PowerPoint)
+title: TabStop.Type property (PowerPoint)
 keywords: vbapp10.chm574003
 f1_keywords:
 - vbapp10.chm574003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStop.Type Property (PowerPoint)
+# TabStop.Type property (PowerPoint)
 
 Represents the formatting of a tab stop. Read/write.
 

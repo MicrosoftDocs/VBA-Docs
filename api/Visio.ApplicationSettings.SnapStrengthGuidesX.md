@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SnapStrengthGuidesX Property (Visio)
+title: ApplicationSettings.SnapStrengthGuidesX property (Visio)
 keywords: vis_sdr.chm16251565
 f1_keywords:
 - vis_sdr.chm16251565
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SnapStrengthGuidesX Property (Visio)
+# ApplicationSettings.SnapStrengthGuidesX property (Visio)
 
 Specifies the distance in pixels along the x-axis that guides pull when snapping is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapStrengthGuidesX`
+_expression_. `SnapStrengthGuidesX`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ItemProperty.Type Property (Outlook)
+title: ItemProperty.Type property (Outlook)
 keywords: vbaol11.chm524
 f1_keywords:
 - vbaol11.chm524
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperty.Type Property (Outlook)
+# ItemProperty.Type property (Outlook)
 
 Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant indicating the type of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant ind
 
 _expression_.**Type**
 
-_expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
+_expression_ A variable that represents an [ItemProperty](Outlook.ItemProperty.md) object.
 
 
 ## See also

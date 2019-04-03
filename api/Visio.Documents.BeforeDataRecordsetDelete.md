@@ -1,5 +1,5 @@
 ---
-title: Documents.BeforeDataRecordsetDelete Event (Visio)
+title: Documents.BeforeDataRecordsetDelete event (Visio)
 keywords: vis_sdr.chm10662030
 f1_keywords:
 - vis_sdr.chm10662030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.BeforeDataRecordsetDelete Event (Visio)
+# Documents.BeforeDataRecordsetDelete event (Visio)
 
 Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets** collection.
 

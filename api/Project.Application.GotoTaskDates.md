@@ -1,5 +1,5 @@
 ---
-title: Application.GotoTaskDates Method (Project)
+title: Application.GotoTaskDates method (Project)
 keywords: vbapj.chm2054
 f1_keywords:
 - vbapj.chm2054
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GotoTaskDates Method (Project)
+# Application.GotoTaskDates method (Project)
 
 Scrolls the Gantt Chart, Resource Usage, or Task Usage view to display the starting date of the active task, or scrolls the Calendar to view the month containing the starting date of the active task.
 
 
 ## Syntax
 
- _expression_. `GotoTaskDates`
+_expression_. `GotoTaskDates`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

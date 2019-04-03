@@ -1,5 +1,5 @@
 ---
-title: Window.Move Method (Publisher)
+title: Window.Move method (Publisher)
 keywords: vbapb10.chm262163
 f1_keywords:
 - vbapb10.chm262163
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Move Method (Publisher)
+# Window.Move method (Publisher)
 
 Moves the active document window.
 
 
 ## Syntax
 
- _expression_. **Move**(**_Left_**,  **_Top_**)
+ _expression_.**Move**(**_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Window** object.
 

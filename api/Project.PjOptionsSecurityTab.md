@@ -1,5 +1,5 @@
 ---
-title: PjOptionsSecurityTab Enumeration (Project)
+title: PjOptionsSecurityTab enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjOptionsSecurityTab
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjOptionsSecurityTab Enumeration (Project)
+# PjOptionsSecurityTab enumeration (Project)
 
 Contains constants that specify the tabs for settings that are available in the  **Trust Center** dialog box in **Project Options**.
 

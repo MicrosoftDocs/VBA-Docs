@@ -1,5 +1,5 @@
 ---
-title: Application.ShowWizardCatalog Method (Publisher)
+title: Application.ShowWizardCatalog method (Publisher)
 keywords: vbapb10.chm131189
 f1_keywords:
 - vbapb10.chm131189
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowWizardCatalog Method (Publisher)
+# Application.ShowWizardCatalog method (Publisher)
 
 Displays the  **Publication Types** catalog for the wizard of the specified type.
 
 
 ## Syntax
 
- _expression_. **ShowWizardCatalog**(**_Wizard_**)
+ _expression_.**ShowWizardCatalog**(**_Wizard_**)
 
  _expression_ A variable that represents an  **Application** object.
 

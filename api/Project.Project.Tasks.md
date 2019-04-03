@@ -1,5 +1,5 @@
 ---
-title: Project.Tasks Property (Project)
+title: Project.Tasks property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Tasks
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Tasks Property (Project)
+# Project.Tasks property (Project)
 
 Gets a  **[Tasks](Project.Task.md)** collection representing the tasks in the project. Read-only **Tasks**.
 
 
 ## Syntax
 
- _expression_. `Tasks`
+_expression_. `Tasks`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

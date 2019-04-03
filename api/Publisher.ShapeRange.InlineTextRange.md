@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.InlineTextRange Property (Publisher)
+title: ShapeRange.InlineTextRange property (Publisher)
 keywords: vbapb10.chm2294023
 f1_keywords:
 - vbapb10.chm2294023
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.InlineTextRange Property (Publisher)
+# ShapeRange.InlineTextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that reflects the position of the inline shape in its containing text range. Read-only.
 
 
 ## Syntax
 
- _expression_. **InlineTextRange**
+ _expression_.**InlineTextRange**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

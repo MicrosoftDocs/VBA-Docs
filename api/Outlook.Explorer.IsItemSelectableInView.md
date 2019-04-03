@@ -1,5 +1,5 @@
 ---
-title: Explorer.IsItemSelectableInView Method (Outlook)
+title: Explorer.IsItemSelectableInView method (Outlook)
 keywords: vbaol11.chm3308
 f1_keywords:
 - vbaol11.chm3308
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.IsItemSelectableInView Method (Outlook)
+# Explorer.IsItemSelectableInView method (Outlook)
 
 Returns a value that indicates whether the specified Microsoft Outlook item can be selected in the current view of the active explorer.
 

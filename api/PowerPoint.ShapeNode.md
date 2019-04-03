@@ -1,5 +1,5 @@
 ---
-title: ShapeNode Object (PowerPoint)
+title: ShapeNode object (PowerPoint)
 keywords: vbapp10.chm561000
 f1_keywords:
 - vbapp10.chm561000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode Object (PowerPoint)
+# ShapeNode object (PowerPoint)
 
 Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform.
 
@@ -24,7 +24,7 @@ Represents the geometry and the geometry-editing properties of the nodes in a us
 
 ## Example
 
-Use  **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on `myDocument` is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
+Use  **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on _myDocument_ is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
 
 
 ```vb

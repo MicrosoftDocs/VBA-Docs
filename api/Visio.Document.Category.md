@@ -1,5 +1,5 @@
 ---
-title: Document.Category Property (Visio)
+title: Document.Category property (Visio)
 keywords: vis_sdr.chm10513175
 f1_keywords:
 - vis_sdr.chm10513175
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Category Property (Visio)
+# Document.Category property (Visio)
 
 Gets or sets the value of a document's category, one of the document properties. Read/write.
 
 
 ## Syntax
 
- _expression_. `Category`
+_expression_. `Category`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

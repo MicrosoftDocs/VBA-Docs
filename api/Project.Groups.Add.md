@@ -1,5 +1,5 @@
 ---
-title: Groups.Add Method (Project)
+title: Groups.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Groups.Add
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Groups.Add Method (Project)
+# Groups.Add method (Project)
 
 Adds a  **Group** object to a **Groups** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_`, `_FieldName_` )
+ _expression_.**Add**( `_Name_`, `_FieldName_` )
 
  _expression_ A variable that represents a 'Groups' object.
 

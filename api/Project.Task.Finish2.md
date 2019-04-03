@@ -1,5 +1,5 @@
 ---
-title: Task.Finish2 Property (Project)
+title: Task.Finish2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Finish2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Finish2 Property (Project)
+# Task.Finish2 property (Project)
 
 Gets or sets the local Finish custom field of the task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Finish2`
+_expression_. `Finish2`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

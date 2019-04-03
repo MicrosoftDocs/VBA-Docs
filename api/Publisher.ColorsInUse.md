@@ -1,5 +1,5 @@
 ---
-title: ColorsInUse Object (Publisher)
+title: ColorsInUse object (Publisher)
 keywords: vbapb10.chm3014655
 f1_keywords:
 - vbapb10.chm3014655
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorsInUse Object (Publisher)
+# ColorsInUse object (Publisher)
 
 A collection of  **[ColorFormat](Publisher.ColorFormat.md)** objects that represent the colors present in the specified publication.
  
@@ -31,7 +31,7 @@ For process color and spot color publications, colors are based on inks. For a g
 
 ## Example
 
-Use the  **[ColorsInUse](./overview/Publisher.md)** property of the **[Document](Publisher.Document.md)** object to return the **ColorsInUse** collection.
+Use the  **[ColorsInUse](overview/Publisher.md)** property of the **[Document](Publisher.Document.md)** object to return the **ColorsInUse** collection.
  
 
  

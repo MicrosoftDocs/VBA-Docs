@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AllowClickAndTypeMouse`
+_expression_. `AllowClickAndTypeMouse`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

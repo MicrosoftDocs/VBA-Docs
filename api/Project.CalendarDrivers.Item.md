@@ -1,5 +1,5 @@
 ---
-title: CalendarDrivers.Item Property (Project)
+title: CalendarDrivers.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.CalendarDrivers.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarDrivers.Item Property (Project)
+# CalendarDrivers.Item property (Project)
 
 Gets a single  **Resource** object from the **CalendarDrivers** collection. Read-only **Resource**.
 

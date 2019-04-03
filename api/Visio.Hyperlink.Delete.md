@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Delete Method (Visio)
+title: Hyperlink.Delete method (Visio)
 keywords: vis_sdr.chm15016165
 f1_keywords:
 - vis_sdr.chm15016165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Delete Method (Visio)
+# Hyperlink.Delete method (Visio)
 
 Deletes an object or selection.
 

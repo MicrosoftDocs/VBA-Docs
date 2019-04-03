@@ -1,5 +1,5 @@
 ---
-title: Document.Masters Property (Visio)
+title: Document.Masters property (Visio)
 keywords: vis_sdr.chm10513875
 f1_keywords:
 - vis_sdr.chm10513875
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Masters Property (Visio)
+# Document.Masters property (Visio)
 
 Returns the  **Masters** collection for a document's stencil. Read-only.
 
 
 ## Syntax
 
- _expression_. `Masters`
+_expression_. `Masters`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

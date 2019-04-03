@@ -1,5 +1,5 @@
 ---
-title: Cell.Selected Property (Publisher)
+title: Cell.Selected property (Publisher)
 keywords: vbapb10.chm5111832
 f1_keywords:
 - vbapb10.chm5111832
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.Selected Property (Publisher)
+# Cell.Selected property (Publisher)
 
 Returns  **True** if a cell is selected. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Selected**
+ _expression_.**Selected**
 
  _expression_ A variable that represents a  **Cell** object.
 

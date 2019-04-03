@@ -1,5 +1,5 @@
 ---
-title: Application.Sort Method (Project)
+title: Application.Sort method (Project)
 keywords: vbapj.chm903
 f1_keywords:
 - vbapj.chm903
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Sort Method (Project)
+# Application.Sort method (Project)
 
 Sorts the tasks or resources in the active pane.
 
 
 ## Syntax
 
- _expression_. `Sort`( `_Key1_`, `_Ascending1_`, `_Key2_`, `_Ascending2_`, `_Key3_`, `_Ascending3_`, `_Renumber_`, `_Outline_` )
+_expression_. `Sort`( `_Key1_`, `_Ascending1_`, `_Key2_`, `_Ascending2_`, `_Key3_`, `_Ascending3_`, `_Renumber_`, `_Outline_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: AccountRuleCondition.Class Property (Outlook)
+title: AccountRuleCondition.Class property (Outlook)
 keywords: vbaol11.chm2378
 f1_keywords:
 - vbaol11.chm2378
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountRuleCondition.Class Property (Outlook)
+# AccountRuleCondition.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [AccountRuleCondition](./Outlook.AccountRuleCondition.md) object.
+_expression_ A variable that represents an [AccountRuleCondition](Outlook.AccountRuleCondition.md) object.
 
 
 ## See also

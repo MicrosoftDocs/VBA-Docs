@@ -1,5 +1,5 @@
 ---
-title: Resource.BCWP Property (Project)
+title: Resource.BCWP property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.BCWP
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.BCWP Property (Project)
+# Resource.BCWP property (Project)
 
 Gets the budgeted cost of work performed for the resource. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BCWP`
+_expression_. `BCWP`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

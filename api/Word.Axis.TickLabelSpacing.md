@@ -19,9 +19,9 @@ Returns or sets the number of categories or series between tick-mark labels. Rea
 
 ## Syntax
 
- _expression_. `TickLabelSpacing`
+_expression_. `TickLabelSpacing`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks

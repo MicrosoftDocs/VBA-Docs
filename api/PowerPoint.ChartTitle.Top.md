@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Top Property (PowerPoint)
+title: ChartTitle.Top property (PowerPoint)
 keywords: vbapp10.chm694009
 f1_keywords:
 - vbapp10.chm694009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Top Property (PowerPoint)
+# ChartTitle.Top property (PowerPoint)
 
 Returns or sets the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read/write  **Double**.
 

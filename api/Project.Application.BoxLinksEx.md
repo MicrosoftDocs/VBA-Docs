@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLinksEx Method (Project)
+title: Application.BoxLinksEx method (Project)
 keywords: vbapj.chm2158
 f1_keywords:
 - vbapj.chm2158
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxLinksEx Method (Project)
+# Application.BoxLinksEx method (Project)
 
 Specifies the appearance of link lines in the active Network Diagram view, where colors can be hexadecimal values.
 
 
 ## Syntax
 
- _expression_. `BoxLinksEx`( `_Style_`, `_ShowArrows_`, `_ShowLabels_`, `_ColorMode_`, `_CriticalColor_`, `_NoncriticalColor_` )
+_expression_. `BoxLinksEx`( `_Style_`, `_ShowArrows_`, `_ShowLabels_`, `_ColorMode_`, `_CriticalColor_`, `_NoncriticalColor_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

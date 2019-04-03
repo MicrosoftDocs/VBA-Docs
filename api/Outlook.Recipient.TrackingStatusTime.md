@@ -1,5 +1,5 @@
 ---
-title: Recipient.TrackingStatusTime Property (Outlook)
+title: Recipient.TrackingStatusTime property (Outlook)
 keywords: vbaol11.chm2354
 f1_keywords:
 - vbaol11.chm2354
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.TrackingStatusTime Property (Outlook)
+# Recipient.TrackingStatusTime property (Outlook)
 
 Returns or sets a  **Date** indicating the tracking status date and time for the recipient. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the tracking status date and time for the
 
 _expression_. `TrackingStatusTime`
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## See also

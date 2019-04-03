@@ -1,5 +1,5 @@
 ---
-title: Application.CommitmentsPane Method (Project)
+title: Application.CommitmentsPane method (Project)
 keywords: vbapj.chm2280
 f1_keywords:
 - vbapj.chm2280
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CommitmentsPane Method (Project)
+# Application.CommitmentsPane method (Project)
 
 Opens the  **Deliverables** pane. Available only in Project Professional.
 
 
 ## Syntax
 
- _expression_. `CommitmentsPane`
+_expression_. `CommitmentsPane`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

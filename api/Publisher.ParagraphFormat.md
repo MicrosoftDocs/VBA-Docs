@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat Object (Publisher)
+title: ParagraphFormat object (Publisher)
 keywords: vbapb10.chm5505023
 f1_keywords:
 - vbapb10.chm5505023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat Object (Publisher)
+# ParagraphFormat object (Publisher)
 
 Represents all the formatting for a paragraph.
 

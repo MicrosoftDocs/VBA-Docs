@@ -1,5 +1,5 @@
 ---
-title: MediaBookmark.Name Property (PowerPoint)
+title: MediaBookmark.Name property (PowerPoint)
 keywords: vbapp10.chm729002
 f1_keywords:
 - vbapp10.chm729002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaBookmark.Name Property (PowerPoint)
+# MediaBookmark.Name property (PowerPoint)
 
 Returns the name of the bookmark. Read-only.
 

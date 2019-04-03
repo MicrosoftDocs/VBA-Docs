@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessFaxNumber Property (Outlook)
+title: ContactItem.BusinessFaxNumber property (Outlook)
 keywords: vbaol11.chm977
 f1_keywords:
 - vbaol11.chm977
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessFaxNumber Property (Outlook)
+# ContactItem.BusinessFaxNumber property (Outlook)
 
 Returns or sets a  **String** representing the business fax number for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the business fax number for the conta
 
 _expression_. `BusinessFaxNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

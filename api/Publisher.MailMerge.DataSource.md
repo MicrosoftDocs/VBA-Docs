@@ -1,5 +1,5 @@
 ---
-title: MailMerge.DataSource Property (Publisher)
+title: MailMerge.DataSource property (Publisher)
 keywords: vbapb10.chm6225923
 f1_keywords:
 - vbapb10.chm6225923
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.DataSource Property (Publisher)
+# MailMerge.DataSource property (Publisher)
 
 Returns a  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object that refers to the data source attached to a mail merge or catalog merge main publication.
 
 
 ## Syntax
 
- _expression_. **DataSource**
+ _expression_.**DataSource**
 
  _expression_ A variable that represents a  **MailMerge** object.
 

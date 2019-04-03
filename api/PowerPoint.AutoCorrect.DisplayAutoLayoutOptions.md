@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.DisplayAutoLayoutOptions Property (PowerPoint)
+title: AutoCorrect.DisplayAutoLayoutOptions property (PowerPoint)
 keywords: vbapp10.chm666002
 f1_keywords:
 - vbapp10.chm666002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AutoCorrect.DisplayAutoLayoutOptions Property (PowerPoint)
+# AutoCorrect.DisplayAutoLayoutOptions property (PowerPoint)
 
 Determines whether Microsoft PowerPoint should display the  **AutoLayout Options** button. Read/write.
 
 
 ## Syntax
 
- _expression_. `DisplayAutoLayoutOptions`
+_expression_. `DisplayAutoLayoutOptions`
 
 _expression_ A variable that represents an [AutoCorrect](./PowerPoint.AutoCorrect.md) object.
 

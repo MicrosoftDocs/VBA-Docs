@@ -1,5 +1,5 @@
 ---
-title: Application.ShowChanges Property (Visio)
+title: Application.ShowChanges property (Visio)
 keywords: vis_sdr.chm10014690
 f1_keywords:
 - vis_sdr.chm10014690
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowChanges Property (Visio)
+# Application.ShowChanges property (Visio)
 
 Determines whether the screen is updated (redrawn) during a series of actions. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowChanges`
+_expression_. `ShowChanges`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

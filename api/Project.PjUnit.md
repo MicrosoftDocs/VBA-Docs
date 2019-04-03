@@ -1,5 +1,5 @@
 ---
-title: PjUnit Enumeration (Project)
+title: PjUnit enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjUnit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjUnit Enumeration (Project)
+# PjUnit enumeration (Project)
 
 Contains constants that specify a unit of time.
 

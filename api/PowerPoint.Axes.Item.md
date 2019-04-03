@@ -1,5 +1,5 @@
 ---
-title: Axes.Item Method (PowerPoint)
+title: Axes.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Axes.Item
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Axes.Item Method (PowerPoint)
+# Axes.Item method (PowerPoint)
 
 Returns a single  **[Axis](PowerPoint.Axis.md)** object from an **Axes** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Type_`, `_AxisGroup_` )
+_expression_. `Item`( `_Type_`, `_AxisGroup_` )
 
 _expression_ A variable that represents an '[Axes](PowerPoint.Axes.md)' object.
 
@@ -27,8 +27,8 @@ _expression_ A variable that represents an '[Axes](PowerPoint.Axes.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**[xlAxisType](PowerPoint.XlAxisType.md)**|The axis type.|
-| _AxisGroup_|Optional|**[xlAxisGroup](PowerPoint.XlAxisGroup.md)**|The axis.|
+| _Type_|Required|**[XlAxisType](PowerPoint.XlAxisType.md)**|The axis type.|
+| _AxisGroup_|Optional|**[XlAxisGroup](PowerPoint.XlAxisGroup.md)**|The axis.|
 
 ## Example
 

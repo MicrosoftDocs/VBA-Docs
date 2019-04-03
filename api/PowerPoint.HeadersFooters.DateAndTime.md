@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.DateAndTime Property (PowerPoint)
+title: HeadersFooters.DateAndTime property (PowerPoint)
 keywords: vbapp10.chm542003
 f1_keywords:
 - vbapp10.chm542003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# HeadersFooters.DateAndTime Property (PowerPoint)
+# HeadersFooters.DateAndTime property (PowerPoint)
 
 Returns a  **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents the date and time item that appears in the lower-left corner of a slide or in the upper-right corner of a notes page, handout, or outline. Read-only.
 
 
 ## Syntax
 
- _expression_. `DateAndTime`
+_expression_. `DateAndTime`
 
  _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 

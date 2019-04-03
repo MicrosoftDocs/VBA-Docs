@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.FilterEffect Property (PowerPoint)
+title: AnimationBehavior.FilterEffect property (PowerPoint)
 keywords: vbapp10.chm657014
 f1_keywords:
 - vbapp10.chm657014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.FilterEffect Property (PowerPoint)
+# AnimationBehavior.FilterEffect property (PowerPoint)
 
 Returns a  **FilterEffect** object that represents a filter effect for an animation behavior. Read-only.
 
 
 ## Syntax
 
- _expression_. `FilterEffect`
+_expression_. `FilterEffect`
 
 _expression_ A variable that represents a [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 

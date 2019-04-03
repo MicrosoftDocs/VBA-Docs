@@ -1,5 +1,5 @@
 ---
-title: Task.ActualFinish Property (Project)
+title: Task.ActualFinish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ActualFinish
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.ActualFinish Property (Project)
+# Task.ActualFinish property (Project)
 
 Gets or sets the actual finish date of a task. Read-only for summary tasks. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualFinish`
+_expression_. `ActualFinish`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

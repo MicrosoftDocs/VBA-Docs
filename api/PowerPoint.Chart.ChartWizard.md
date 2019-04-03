@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartWizard Method (PowerPoint)
+title: Chart.ChartWizard method (PowerPoint)
 keywords: vbapp10.chm684020
 f1_keywords:
 - vbapp10.chm684020
@@ -12,13 +12,13 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartWizard Method (PowerPoint)
+# Chart.ChartWizard method (PowerPoint)
 
 Modifies the properties of the given chart. You can use this method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties.
 
 ## Syntax
 
-_expression_. **ChartWizard** (**_Source_**, **_Gallery_**, **_Format_**, **_PlotBy_**, **_CategoryLabels_**, **_SeriesLabels_**, **_HasLegend_**, **_Title_**, **_CategoryTitle_**, **_ValueTitle_**, **_ExtraTitle_**)
+_expression_.**ChartWizard** (**_Source_**, **_Gallery_**, **_Format_**, **_PlotBy_**, **_CategoryLabels_**, **_SeriesLabels_**, **_HasLegend_**, **_Title_**, **_CategoryTitle_**, **_ValueTitle_**, **_ExtraTitle_**)
 
 _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
@@ -28,9 +28,9 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Optional|**Variant**|The range that contains the source data for the new chart. If this argument is omitted, Word edits the active chart sheet or the selected chart on the active worksheet.|
-| _Gallery_|Optional|**Variant**|One of the **[xlChartType](./Excel.XlChartType.md)** constants that specifies the chart type.|
+| _Gallery_|Optional|**Variant**|One of the **[XlChartType](Excel.XlChartType.md)** constants that specifies the chart type.|
 | _Format_|Optional|**Variant**|The option number for the built-in autoformats. Can be a number from 1 through 10, depending on the gallery type. If this argument is omitted, Word chooses a default value based on the gallery type and data source.|
-| _PlotBy_|Optional|**Variant**|Specifies whether the data for each series is in rows or columns. Can be one of the following **[xlRowCol](PowerPoint.XlRowCol.md)** constants: **xlRows** or **xlColumns**.|
+| _PlotBy_|Optional|**Variant**|Specifies whether the data for each series is in rows or columns. Can be one of the following **[XlRowCol](PowerPoint.XlRowCol.md)** constants: **xlRows** or **xlColumns**.|
 | _CategoryLabels_|Optional|**Variant**|An integer that specifies the number of rows or columns within the source range that contain category labels. Allowed values are from 0 (zero) through one less than the maximum number of the corresponding categories or series.|
 | _SeriesLabels_|Optional|**Variant**|An integer that specifies the number of rows or columns within the source range that contain series labels. Allowed values are from 0 (zero) through one less than the maximum number of the corresponding categories or series.|
 | _HasLegend_|Optional|**Variant**|**True** to include a legend.|

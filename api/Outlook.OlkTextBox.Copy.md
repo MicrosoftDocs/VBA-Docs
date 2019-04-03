@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Copy Method (Outlook)
+title: OlkTextBox.Copy method (Outlook)
 keywords: vbaol11.chm1000066
 f1_keywords:
 - vbaol11.chm1000066
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Copy Method (Outlook)
+# OlkTextBox.Copy method (Outlook)
 
 Copies the contents of the control to the clipboard.
 
@@ -21,7 +21,7 @@ Copies the contents of the control to the clipboard.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

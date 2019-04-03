@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetAddressEntryFromID Method (Outlook)
+title: NameSpace.GetAddressEntryFromID method (Outlook)
 keywords: vbaol11.chm784
 f1_keywords:
 - vbaol11.chm784
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.GetAddressEntryFromID Method (Outlook)
+# NameSpace.GetAddressEntryFromID method (Outlook)
 
 Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the address entry for the specified _ID_ .
 

@@ -1,5 +1,5 @@
 ---
-title: View.Paste Method (PowerPoint)
+title: View.Paste method (PowerPoint)
 keywords: vbapp10.chm512005
 f1_keywords:
 - vbapp10.chm512005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# View.Paste Method (PowerPoint)
+# View.Paste method (PowerPoint)
 
 Pastes the contents of the Clipboard into the active view. Attempting to paste an object into a view that won't accept it causes an error. 
 
 
 ## Syntax
 
- _expression_. `Paste`
+_expression_. `Paste`
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

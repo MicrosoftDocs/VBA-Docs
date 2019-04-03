@@ -1,5 +1,5 @@
 ---
-title: TickLabels.MultiLevel Property (PowerPoint)
+title: TickLabels.MultiLevel property (PowerPoint)
 keywords: vbapp10.chm719013
 f1_keywords:
 - vbapp10.chm719013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.MultiLevel Property (PowerPoint)
+# TickLabels.MultiLevel property (PowerPoint)
 
 Returns or sets a value that indicates whether an axis is multilevel. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MultiLevel`
+_expression_. `MultiLevel`
 
  _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: MailItem.PropertyAccessor Property (Outlook)
+title: MailItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1388
 f1_keywords:
 - vbaol11.chm1388
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.PropertyAccessor Property (Outlook)
+# MailItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[MailItem](Outlook.MailItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## See also

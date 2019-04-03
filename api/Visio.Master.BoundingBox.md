@@ -1,5 +1,5 @@
 ---
-title: Master.BoundingBox Method (Visio)
+title: Master.BoundingBox method (Visio)
 keywords: vis_sdr.chm10716090
 f1_keywords:
 - vis_sdr.chm10716090
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.BoundingBox Method (Visio)
+# Master.BoundingBox method (Visio)
 
 Returns a rectangle that tightly encloses the shapes of a master.
 
 
 ## Syntax
 
- _expression_. `BoundingBox`( `_Flags_` , `_lpr8Left_` , `_lpr8Bottom_` , `_lpr8Right_` , `_lpr8Top_` )
+_expression_. `BoundingBox`( `_Flags_` , `_lpr8Left_` , `_lpr8Bottom_` , `_lpr8Right_` , `_lpr8Top_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

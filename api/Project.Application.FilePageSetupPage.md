@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupPage Method (Project)
+title: Application.FilePageSetupPage method (Project)
 keywords: vbapj.chm2355
 f1_keywords:
 - vbapj.chm2355
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupPage Method (Project)
+# Application.FilePageSetupPage method (Project)
 
 Sets up pages for printing.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupPage`( `_Name_`, `_Portrait_`, `_PercentScale_`, `_PagesTall_`, `_PagesWide_`, `_PaperSize_`, `_FirstPageNumber_` )
+_expression_. `FilePageSetupPage`( `_Name_`, `_Portrait_`, `_PercentScale_`, `_PagesTall_`, `_PagesWide_`, `_PaperSize_`, `_FirstPageNumber_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: NewItemAlertRuleAction.Parent Property (Outlook)
+title: NewItemAlertRuleAction.Parent property (Outlook)
 keywords: vbaol11.chm2291
 f1_keywords:
 - vbaol11.chm2291
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NewItemAlertRuleAction.Parent Property (Outlook)
+# NewItemAlertRuleAction.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [NewItemAlertRuleAction](./Outlook.NewItemAlertRuleAction.md) object.
+_expression_ A variable that represents a [NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md) object.
 
 
 ## Remarks

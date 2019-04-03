@@ -1,5 +1,5 @@
 ---
-title: CardView.Application Property (Outlook)
+title: CardView.Application property (Outlook)
 keywords: vbaol11.chm2579
 f1_keywords:
 - vbaol11.chm2579
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Application Property (Outlook)
+# CardView.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.Application Property (Publisher)
+title: EmailMergeEnvelope.Application property (Publisher)
 keywords: vbapb10.chm9043969
 f1_keywords:
 - vbapb10.chm9043969
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.Application Property (Publisher)
+# EmailMergeEnvelope.Application property (Publisher)
 
 Returns an  **Application** object that represents the creator of the parent **EmailMergeEnvelope** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_.**Application**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 

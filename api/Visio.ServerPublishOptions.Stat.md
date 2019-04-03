@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.Stat Property (Visio)
+title: ServerPublishOptions.Stat property (Visio)
 keywords: vis_sdr.chm17914420
 f1_keywords:
 - vis_sdr.chm17914420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.Stat Property (Visio)
+# ServerPublishOptions.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 

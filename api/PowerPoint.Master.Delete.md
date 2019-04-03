@@ -1,5 +1,5 @@
 ---
-title: Master.Delete Method (PowerPoint)
+title: Master.Delete method (PowerPoint)
 keywords: vbapp10.chm533008
 f1_keywords:
 - vbapp10.chm533008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Delete Method (PowerPoint)
+# Master.Delete method (PowerPoint)
 
 Deletes the specified  **Master** object.
 

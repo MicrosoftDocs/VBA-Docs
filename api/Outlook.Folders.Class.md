@@ -1,5 +1,5 @@
 ---
-title: Folders.Class Property (Outlook)
+title: Folders.Class property (Outlook)
 keywords: vbaol11.chm40
 f1_keywords:
 - vbaol11.chm40
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.Class Property (Outlook)
+# Folders.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## See also

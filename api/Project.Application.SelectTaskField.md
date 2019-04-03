@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTaskField Method (Project)
+title: Application.SelectTaskField method (Project)
 keywords: vbapj.chm2063
 f1_keywords:
 - vbapj.chm2063
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTaskField Method (Project)
+# Application.SelectTaskField method (Project)
 
 Selects a task field.
 
 
 ## Syntax
 
- _expression_. `SelectTaskField`( `_Row_`, `_Column_`, `_RowRelative_`, `_Width_`, `_Height_`, `_Extend_`, `_Add_` )
+_expression_. `SelectTaskField`( `_Row_`, `_Column_`, `_RowRelative_`, `_Width_`, `_Height_`, `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

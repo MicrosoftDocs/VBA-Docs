@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Actions Property (Outlook)
+title: DocumentItem.Actions property (Outlook)
 keywords: vbaol11.chm1183
 f1_keywords:
 - vbaol11.chm1183
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Actions Property (Outlook)
+# DocumentItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## See also

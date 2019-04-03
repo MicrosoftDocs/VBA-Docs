@@ -1,5 +1,5 @@
 ---
-title: NotesModule.NavigationModuleType Property (Outlook)
+title: NotesModule.NavigationModuleType property (Outlook)
 keywords: vbaol11.chm3235
 f1_keywords:
 - vbaol11.chm3235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule.NavigationModuleType Property (Outlook)
+# NotesModule.NavigationModuleType property (Outlook)
 
 Returns an  **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** cons
 
 _expression_. `NavigationModuleType`
 
- _expression_ An expression that returns a [NotesModule](./Outlook.NotesModule.md) object.
+ _expression_ An expression that returns a [NotesModule](Outlook.NotesModule.md) object.
 
 
 ## Remarks

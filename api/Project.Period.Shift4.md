@@ -1,5 +1,5 @@
 ---
-title: Period.Shift4 Property (Project)
+title: Period.Shift4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Period.Shift4
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Period.Shift4 Property (Project)
+# Period.Shift4 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the fourth work shift in a time period. Read-only **Shift**.
 
 
 ## Syntax
 
- _expression_. `Shift4`
+_expression_. `Shift4`
 
  _expression_ A variable that represents a [Period](./Project.Period.md) object.
 

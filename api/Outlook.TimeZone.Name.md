@@ -1,5 +1,5 @@
 ---
-title: TimeZone.Name Property (Outlook)
+title: TimeZone.Name property (Outlook)
 keywords: vbaol11.chm3282
 f1_keywords:
 - vbaol11.chm3282
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.Name Property (Outlook)
+# TimeZone.Name property (Outlook)
 
 Returns a  **String** that represents the identifier of the time zone. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that represents the identifier of the time zone. Read-only
 
  _expression_.**Name**
 
-_expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object.
 
 
 ## Remarks

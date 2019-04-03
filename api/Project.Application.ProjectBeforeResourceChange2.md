@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeResourceChange2 Event (Project)
+title: Application.ProjectBeforeResourceChange2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceChange2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeResourceChange2 Event (Project)
+# Application.ProjectBeforeResourceChange2 event (Project)
 
 Occurs before the user changes the value of a resource field. Uses the **EventInfo** object parameter.
 
 
 ## Syntax
 
-_expression_. **ProjectBeforeResourceChange2** (**_res_**, **_Field_**, **_NewVal_**, **_Info_**)
+_expression_.**ProjectBeforeResourceChange2** (**_res_**, **_Field_**, **_NewVal_**, **_Info_**)
 
 _expression_ A variable that represents an **Application** object.
 

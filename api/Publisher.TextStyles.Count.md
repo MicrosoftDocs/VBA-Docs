@@ -1,5 +1,5 @@
 ---
-title: TextStyles.Count Property (Publisher)
+title: TextStyles.Count property (Publisher)
 keywords: vbapb10.chm5898243
 f1_keywords:
 - vbapb10.chm5898243
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextStyles.Count Property (Publisher)
+# TextStyles.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **TextStyles** object.
 

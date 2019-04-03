@@ -21,7 +21,7 @@ Returns or sets the ratio of the horizontal space allotted to each character in 
 
 _expression_. `Tracking`
 
-_expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks
@@ -40,7 +40,7 @@ The following table gives the values of the  **Tracking** property that correspo
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  `myDocument` and specifies that the characters be very tightly spaced.
+This example adds WordArt that contains the text "Test" to  _myDocument_ and specifies that the characters be very tightly spaced.
 
 
 ```vb

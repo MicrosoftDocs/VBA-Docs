@@ -21,12 +21,12 @@ Returns the number of connection sites on the specified shape. Read-only  **Long
 
 _expression_. `ConnectionSiteCount`
 
- _expression_ An expression that returns a [ShapeRange](./Excel.ShapeRange.md) object.
+ _expression_ An expression that returns a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Example
 
-This example adds two rectangles to  `myDocument` and joins them with two connectors. The beginnings of both connectors attach to connection site one on the first rectangle; the ends of the connectors attach to the first and last connection sites of the second rectangle.
+This example adds two rectangles to  _myDocument_ and joins them with two connectors. The beginnings of both connectors attach to connection site one on the first rectangle; the ends of the connectors attach to the first and last connection sites of the second rectangle.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Add Method (Outlook)
+title: AutoFormatRules.Add method (Outlook)
 keywords: vbaol11.chm2719
 f1_keywords:
 - vbaol11.chm2719
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Add Method (Outlook)
+# AutoFormatRules.Add method (Outlook)
 
 Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and appends it to the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
 
 
 ## Syntax
 
-_expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
-_expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
+_expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatRules.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableRefreshServerCache Method (Project)
+title: Project.DeliverableRefreshServerCache method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableRefreshServerCache
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableRefreshServerCache Method (Project)
+# Project.DeliverableRefreshServerCache method (Project)
 
 Checks for updates on the server and refreshes the cache for deliverable and dependencies for the project.
 
 
 ## Syntax
 
- _expression_. `DeliverableRefreshServerCache`
+_expression_. `DeliverableRefreshServerCache`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

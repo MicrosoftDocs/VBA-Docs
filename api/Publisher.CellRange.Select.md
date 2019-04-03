@@ -1,5 +1,5 @@
 ---
-title: CellRange.Select Method (Publisher)
+title: CellRange.Select method (Publisher)
 keywords: vbapb10.chm5177353
 f1_keywords:
 - vbapb10.chm5177353
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Select Method (Publisher)
+# CellRange.Select method (Publisher)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. **Select**
+ _expression_.**Select**
 
  _expression_ A variable that represents a  **CellRange** object.
 

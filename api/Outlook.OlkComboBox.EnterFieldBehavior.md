@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.EnterFieldBehavior Property (Outlook)
+title: OlkComboBox.EnterFieldBehavior property (Outlook)
 keywords: vbaol11.chm1000201
 f1_keywords:
 - vbaol11.chm1000201
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.EnterFieldBehavior Property (Outlook)
+# OlkComboBox.EnterFieldBehavior property (Outlook)
 
 Returns or sets an  **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** constant that specifies the selection behavior when entering the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** 
 
 _expression_. `EnterFieldBehavior`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

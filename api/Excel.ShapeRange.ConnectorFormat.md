@@ -21,12 +21,12 @@ Returns a  **[ConnectorFormat](Excel.ConnectorFormat.md)** object that contains 
 
 _expression_. `ConnectorFormat`
 
- _expression_ An expression that returns a [ShapeRange](./Excel.ShapeRange.md) object.
+ _expression_ An expression that returns a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Example
 
-This example adds two rectangles to  `myDocument`, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
+This example adds two rectangles to  _myDocument_, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
 
 
 ```vb

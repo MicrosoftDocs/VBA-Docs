@@ -1,5 +1,5 @@
 ---
-title: AddIn.Registered Property (PowerPoint)
+title: AddIn.Registered property (PowerPoint)
 keywords: vbapp10.chm521006
 f1_keywords:
 - vbapp10.chm521006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AddIn.Registered Property (PowerPoint)
+# AddIn.Registered property (PowerPoint)
 
 Determines whether the specified add-in is registered in the Windows registry. Read/write.
 
 
 ## Syntax
 
- _expression_. `Registered`
+_expression_. `Registered`
 
 _expression_ A variable that represents a [AddIn](./PowerPoint.AddIn.md) object.
 

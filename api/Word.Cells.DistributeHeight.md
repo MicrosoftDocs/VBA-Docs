@@ -19,7 +19,7 @@ Adjusts the height of the specified cells so that they are equal.
 
 ## Syntax
 
- _expression_. `DistributeHeight`
+_expression_. `DistributeHeight`
 
  _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 

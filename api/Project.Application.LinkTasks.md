@@ -1,5 +1,5 @@
 ---
-title: Application.LinkTasks Method (Project)
+title: Application.LinkTasks method (Project)
 keywords: vbapj.chm210
 f1_keywords:
 - vbapj.chm210
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LinkTasks Method (Project)
+# Application.LinkTasks method (Project)
 
 Links the selected tasks in the Gantt Chart, Calendar, Task Sheet, or Task Usage view.
 
 
 ## Syntax
 
- _expression_. `LinkTasks`
+_expression_. `LinkTasks`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

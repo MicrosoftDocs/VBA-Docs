@@ -1,5 +1,5 @@
 ---
-title: Task.EAC Property (Project)
+title: Task.EAC property (Project)
 keywords: vbapj.chm131784
 f1_keywords:
 - vbapj.chm131784
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.EAC Property (Project)
+# Task.EAC property (Project)
 
 Gets the estimate at completion (EAC) for the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `EAC`
+_expression_. `EAC`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

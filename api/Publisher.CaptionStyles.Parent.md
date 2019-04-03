@@ -1,5 +1,5 @@
 ---
-title: CaptionStyles.Parent Property (Publisher)
+title: CaptionStyles.Parent property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.CaptionStyles.Parent
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# CaptionStyles.Parent Property (Publisher)
+# CaptionStyles.Parent property (Publisher)
 
 Returns the parent of the  **CaptionStyles** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents a  **CaptionStyles** object.
 

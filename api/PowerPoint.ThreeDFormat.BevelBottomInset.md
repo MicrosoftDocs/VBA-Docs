@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelBottomInset Property (PowerPoint)
+title: ThreeDFormat.BevelBottomInset property (PowerPoint)
 keywords: vbapp10.chm557029
 f1_keywords:
 - vbapp10.chm557029
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.BevelBottomInset Property (PowerPoint)
+# ThreeDFormat.BevelBottomInset property (PowerPoint)
 
 Returns or sets the bottom bevel inset for the specified  **ThreeDFormat** object, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `BevelBottomInset`
+_expression_. `BevelBottomInset`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

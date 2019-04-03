@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.StartUTC Property (Outlook)
+title: AppointmentItem.StartUTC property (Outlook)
 keywords: vbaol11.chm3271
 f1_keywords:
 - vbaol11.chm3271
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.StartUTC Property (Outlook)
+# AppointmentItem.StartUTC property (Outlook)
 
 Returns or sets a  **Date** value that represents the start date and time of the appointment expressed in the Coordinated Universal Time (UTC) standard. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the start date and time of the
 
 _expression_. `StartUTC`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

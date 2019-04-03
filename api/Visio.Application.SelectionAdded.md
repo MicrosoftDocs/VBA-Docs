@@ -1,5 +1,5 @@
 ---
-title: Application.SelectionAdded Event (Visio)
+title: Application.SelectionAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.SelectionAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectionAdded Event (Visio)
+# Application.SelectionAdded event (Visio)
 
 Occurs after one or more shapes are added to a document.
 

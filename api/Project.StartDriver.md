@@ -1,5 +1,5 @@
 ---
-title: StartDriver Object (Project)
+title: StartDriver object (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# StartDriver Object (Project)
+# StartDriver object (Project)
 
 Represents the  **StartDriver** of the **Task**.
 

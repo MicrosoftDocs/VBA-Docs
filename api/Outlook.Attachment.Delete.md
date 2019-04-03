@@ -1,5 +1,5 @@
 ---
-title: Attachment.Delete Method (Outlook)
+title: Attachment.Delete method (Outlook)
 keywords: vbaol11.chm2372
 f1_keywords:
 - vbaol11.chm2372
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.Delete Method (Outlook)
+# Attachment.Delete method (Outlook)
 
 Deletes an object from the collection.
 
@@ -21,7 +21,7 @@ Deletes an object from the collection.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## See also

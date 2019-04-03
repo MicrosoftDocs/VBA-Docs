@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.Application Property (Visio)
+title: ServerPublishOptions.Application property (Visio)
 keywords: vis_sdr.chm17913090
 f1_keywords:
 - vis_sdr.chm17913090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.Application Property (Visio)
+# ServerPublishOptions.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

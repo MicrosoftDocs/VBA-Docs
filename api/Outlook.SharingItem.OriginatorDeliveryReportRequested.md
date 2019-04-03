@@ -1,5 +1,5 @@
 ---
-title: SharingItem.OriginatorDeliveryReportRequested Property (Outlook)
+title: SharingItem.OriginatorDeliveryReportRequested property (Outlook)
 keywords: vbaol11.chm642
 f1_keywords:
 - vbaol11.chm642
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.OriginatorDeliveryReportRequested Property (Outlook)
+# SharingItem.OriginatorDeliveryReportRequested property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether the originator of the **[SharingItem](Outlook.SharingItem.md)** will receive a delivery report. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines whether the originator of t
 
 _expression_. `OriginatorDeliveryReportRequested`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

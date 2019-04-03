@@ -1,5 +1,5 @@
 ---
-title: Resource.Availabilities Property (Project)
+title: Resource.Availabilities property (Project)
 keywords: vbapj.chm131411
 f1_keywords:
 - vbapj.chm131411
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Availabilities Property (Project)
+# Resource.Availabilities property (Project)
 
 Returns an  **[Availabilities](Project.availabilities.md)** collection representing all the available periods defined for the resource in the **Resource Availability** grid. Read-only **Availabilities**.
 
 
 ## Syntax
 
- _expression_. `Availabilities`
+_expression_. `Availabilities`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

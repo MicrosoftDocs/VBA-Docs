@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton Object (Publisher)
+title: WebCommandButton object (Publisher)
 keywords: vbapb10.chm3997695
 f1_keywords:
 - vbapb10.chm3997695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebCommandButton Object (Publisher)
+# WebCommandButton object (Publisher)
 
 Represents a Web command button control. The  **WebCommandButton** object is a member of the **Shape** object.
  

@@ -1,5 +1,5 @@
 ---
-title: DataLabel.NumberFormat Property (PowerPoint)
+title: DataLabel.NumberFormat property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.NumberFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.NumberFormat Property (PowerPoint)
+# DataLabel.NumberFormat property (PowerPoint)
 
 Returns or sets the format code for the object. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskItem.AttachmentAdd Event (Outlook)
+title: TaskItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.AttachmentAdd Event (Outlook)
+# TaskItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 _expression_. `AttachmentAdd`( `_Attachment_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

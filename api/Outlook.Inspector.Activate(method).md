@@ -1,5 +1,5 @@
 ---
-title: Inspector.Activate Method (Outlook)
+title: Inspector.Activate method (Outlook)
 keywords: vbaol11.chm2979
 f1_keywords:
 - vbaol11.chm2979
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Activate Method (Outlook)
+# Inspector.Activate method (Outlook)
 
 Activates an inspector window by bringing it to the foreground and setting keyboard focus.
 
@@ -21,7 +21,7 @@ Activates an inspector window by bringing it to the foreground and setting keybo
 
 _expression_. `Activate`
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## See also

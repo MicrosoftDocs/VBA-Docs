@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DisplayEquation`
 
-_expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
+_expression_ A variable that represents a [Trendline](Excel.Trendline-graph-object.md) object.
 
 
 ## Example

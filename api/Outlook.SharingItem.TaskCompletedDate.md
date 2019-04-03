@@ -1,5 +1,5 @@
 ---
-title: SharingItem.TaskCompletedDate Property (Outlook)
+title: SharingItem.TaskCompletedDate property (Outlook)
 keywords: vbaol11.chm3221
 f1_keywords:
 - vbaol11.chm3221
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.TaskCompletedDate Property (Outlook)
+# SharingItem.TaskCompletedDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the completion date of the task for this **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the completion date of the tas
 
 _expression_. `TaskCompletedDate`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

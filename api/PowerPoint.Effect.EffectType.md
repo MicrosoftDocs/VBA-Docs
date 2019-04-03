@@ -1,5 +1,5 @@
 ---
-title: Effect.EffectType Property (PowerPoint)
+title: Effect.EffectType property (PowerPoint)
 keywords: vbapp10.chm652010
 f1_keywords:
 - vbapp10.chm652010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Effect.EffectType Property (PowerPoint)
+# Effect.EffectType property (PowerPoint)
 
 Sets or returns an  **MsoAnimEffect** constant that represents an animation effect type. Read/write.
 
 
 ## Syntax
 
- _expression_. `EffectType`
+_expression_. `EffectType`
 
 _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 

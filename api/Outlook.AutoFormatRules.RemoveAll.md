@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.RemoveAll Method (Outlook)
+title: AutoFormatRules.RemoveAll method (Outlook)
 keywords: vbaol11.chm2722
 f1_keywords:
 - vbaol11.chm2722
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.RemoveAll Method (Outlook)
+# AutoFormatRules.RemoveAll method (Outlook)
 
 Removes all custom formatting rules from the  **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
 
@@ -21,7 +21,7 @@ Removes all custom formatting rules from the  **[AutoFormatRules](Outlook.AutoFo
 
 _expression_. `RemoveAll`
 
-_expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
+_expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatRules.md) object.
 
 
 ## Remarks

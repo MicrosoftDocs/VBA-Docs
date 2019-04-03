@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayEntryBar Property (Project)
+title: Application.DisplayEntryBar property (Project)
 keywords: vbapj.chm131730
 f1_keywords:
 - vbapj.chm131730
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayEntryBar Property (Project)
+# Application.DisplayEntryBar property (Project)
 
 Gets or sets a value that determines whether the data entry bar is visible.  **True** if the data entry bar is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayEntryBar`
+_expression_. `DisplayEntryBar`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

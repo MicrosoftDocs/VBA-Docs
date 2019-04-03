@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.MousePointer Property (Outlook)
+title: OlkContactPhoto.MousePointer property (Outlook)
 keywords: vbaol11.chm1000308
 f1_keywords:
 - vbaol11.chm1000308
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.MousePointer Property (Outlook)
+# OlkContactPhoto.MousePointer property (Outlook)
 
 Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant tha
 
 _expression_. `MousePointer`
 
-_expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactPhoto.md) object.
 
 
 ## Remarks

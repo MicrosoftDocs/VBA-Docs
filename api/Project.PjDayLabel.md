@@ -1,5 +1,5 @@
 ---
-title: PjDayLabel Enumeration (Project)
+title: PjDayLabel enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDayLabel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjDayLabel Enumeration (Project)
+# PjDayLabel enumeration (Project)
 
 Contains constants that specify the display format for days in a timescale.
 

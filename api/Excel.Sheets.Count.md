@@ -21,7 +21,7 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
+_expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
 
 
 ## See also

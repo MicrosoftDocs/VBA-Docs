@@ -21,7 +21,7 @@ Returns the straight-line depreciation of an asset for one period.
 
 _expression_. `Sln`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

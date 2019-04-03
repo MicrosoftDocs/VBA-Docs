@@ -1,5 +1,5 @@
 ---
-title: Engagement.ModifiedDate Property (Project)
+title: Engagement.ModifiedDate property (Project)
 keywords: vbapj.chm132413
 f1_keywords:
 - vbapj.chm132413
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Engagement.ModifiedDate Property (Project)
+# Engagement.ModifiedDate property (Project)
 
 The ModifiedDate property for the Engagement object. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `ModifiedDate`
+_expression_. `ModifiedDate`
 
  _expression_ A variable that represents a 'Engagement' object.
 
@@ -25,6 +25,6 @@ The ModifiedDate property for the Engagement object. Introduced in Office 2016.
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

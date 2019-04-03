@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextEffect Property (Publisher)
+title: ShapeRange.TextEffect property (Publisher)
 keywords: vbapb10.chm2293833
 f1_keywords:
 - vbapb10.chm2293833
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.TextEffect Property (Publisher)
+# ShapeRange.TextEffect property (Publisher)
 
 Returns a  **[TextEffectFormat](Publisher.TextEffectFormat.md)** object that represents the text formatting properties of a WordArt object.
 
 
 ## Syntax
 
- _expression_. **TextEffect**
+ _expression_.**TextEffect**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

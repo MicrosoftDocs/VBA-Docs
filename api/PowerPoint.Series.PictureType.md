@@ -1,5 +1,5 @@
 ---
-title: Series.PictureType Property (PowerPoint)
+title: Series.PictureType property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.PictureType
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Series.PictureType Property (PowerPoint)
+# Series.PictureType property (PowerPoint)
 
-Returns or sets a value that specifies how pictures are displayed on a column or bar picture chart. Read/write  **[xlChartPictureType](PowerPoint.XlChartPictureType.md)**.
+Returns or sets a value that specifies how pictures are displayed on a column or bar picture chart. Read/write  **[XlChartPictureType](PowerPoint.XlChartPictureType.md)**.
 
 
 ## Syntax
 
- _expression_. `PictureType`
+_expression_. `PictureType`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

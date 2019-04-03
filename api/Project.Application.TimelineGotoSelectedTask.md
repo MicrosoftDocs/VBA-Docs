@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineGotoSelectedTask Method (Project)
+title: Application.TimelineGotoSelectedTask method (Project)
 keywords: vbapj.chm61
 f1_keywords:
 - vbapj.chm61
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TimelineGotoSelectedTask Method (Project)
+# Application.TimelineGotoSelectedTask method (Project)
 
 When a task is selected in the Timeline view,  **TimelineGotoSelectedTask** selects the same task in the main view.
 
 
 ## Syntax
 
- _expression_. `TimelineGotoSelectedTask`
+_expression_. `TimelineGotoSelectedTask`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

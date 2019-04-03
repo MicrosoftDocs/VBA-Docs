@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.TextUnitEffect Property (PowerPoint)
+title: AnimationSettings.TextUnitEffect property (PowerPoint)
 keywords: vbapp10.chm565012
 f1_keywords:
 - vbapp10.chm565012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.TextUnitEffect Property (PowerPoint)
+# AnimationSettings.TextUnitEffect property (PowerPoint)
 
 Indicates whether the text in the specified shape is animated paragraph by paragraph, word by word, or letter by letter. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextUnitEffect`
+_expression_. `TextUnitEffect`
 
 _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

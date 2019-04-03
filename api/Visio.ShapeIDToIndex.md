@@ -16,9 +16,9 @@ Gets the index in the collection of shapes of the shape with the specified ID in
 
 ## Syntax
 
- _expression_. **ShapeIDToIndex**(**_ShapeID_**)
+ _expression_.**ShapeIDToIndex**(**_ShapeID_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

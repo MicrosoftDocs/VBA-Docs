@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.AnimateBackground Property (PowerPoint)
+title: AnimationSettings.AnimateBackground property (PowerPoint)
 keywords: vbapp10.chm565014
 f1_keywords:
 - vbapp10.chm565014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.AnimateBackground Property (PowerPoint)
+# AnimationSettings.AnimateBackground property (PowerPoint)
 
 If the specified object is an AutoShape, specifies if the shape is animated separately from the text it contains. Read/write.
 
 
 ## Syntax
 
- _expression_. `AnimateBackground`
+_expression_. `AnimateBackground`
 
 _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

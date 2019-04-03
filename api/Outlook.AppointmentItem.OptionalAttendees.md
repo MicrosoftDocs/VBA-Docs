@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.OptionalAttendees Property (Outlook)
+title: AppointmentItem.OptionalAttendees property (Outlook)
 keywords: vbaol11.chm888
 f1_keywords:
 - vbaol11.chm888
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.OptionalAttendees Property (Outlook)
+# AppointmentItem.OptionalAttendees property (Outlook)
 
 Returns or sets a  **String** representing the display string of optional attendees names for the appointment. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the display string of optional attend
 
 _expression_. `OptionalAttendees`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

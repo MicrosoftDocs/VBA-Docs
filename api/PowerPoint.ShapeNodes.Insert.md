@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Insert Method (PowerPoint)
+title: ShapeNodes.Insert method (PowerPoint)
 keywords: vbapp10.chm560006
 f1_keywords:
 - vbapp10.chm560006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.Insert Method (PowerPoint)
+# ShapeNodes.Insert method (PowerPoint)
 
 Inserts a new segment after the specified node of the freeform.
 
 
 ## Syntax
 
- _expression_. `Insert`( `_Index_`, `_SegmentType_`, `_EditingType_`, `_X1_`, `_Y1_`, `_X2_`, `_Y2_`, `_X3_`, `_Y3_` )
+_expression_. `Insert`( `_Index_`, `_SegmentType_`, `_EditingType_`, `_X1_`, `_Y1_`, `_X2_`, `_Y2_`, `_X3_`, `_Y3_` )
 
  _expression_ A variable that represents an [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
@@ -60,7 +60,7 @@ The  _EditingType_ parameter value can be one of these **MsoEditingType** consta
 
 ## Example
 
-This example adds a smooth node with a curved segment after node four in shape three on  `myDocument`. Shape three must be a freeform drawing with at least four nodes.
+This example adds a smooth node with a curved segment after node four in shape three on  _myDocument_. Shape three must be a freeform drawing with at least four nodes.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Sensitivity Property (Outlook)
+title: TaskRequestDeclineItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1844
 f1_keywords:
 - vbaol11.chm1844
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Sensitivity Property (Outlook)
+# TaskRequestDeclineItem.Sensitivity property (Outlook)
 
 Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 _expression_. `Sensitivity`
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Slide.FollowMasterBackground Property (PowerPoint)
+title: Slide.FollowMasterBackground property (PowerPoint)
 keywords: vbapp10.chm531021
 f1_keywords:
 - vbapp10.chm531021
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.FollowMasterBackground Property (PowerPoint)
+# Slide.FollowMasterBackground property (PowerPoint)
 
 Determines whether the slide follows the slide master background. Read/write.
 
 
 ## Syntax
 
- _expression_. `FollowMasterBackground`
+_expression_. `FollowMasterBackground`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

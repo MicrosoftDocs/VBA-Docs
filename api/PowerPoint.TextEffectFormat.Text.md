@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Text Property (PowerPoint)
+title: TextEffectFormat.Text property (PowerPoint)
 keywords: vbapp10.chm556013
 f1_keywords:
 - vbapp10.chm556013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Text Property (PowerPoint)
+# TextEffectFormat.Text property (PowerPoint)
 
 Returns or sets a  **String** that represents the text contained in the specified object. Read/write.
 

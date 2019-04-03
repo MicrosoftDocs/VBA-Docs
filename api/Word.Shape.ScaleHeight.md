@@ -19,7 +19,7 @@ Scales the height of the shape by a specified factor.
 
 ## Syntax
 
- _expression_. `ScaleHeight`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
+_expression_. `ScaleHeight`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
 
  _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 

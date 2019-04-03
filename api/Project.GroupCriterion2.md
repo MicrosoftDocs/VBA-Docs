@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2 Object (Project)
+title: GroupCriterion2 object (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2 Object (Project)
+# GroupCriterion2 object (Project)
 
 Represents a criterion in a group definition where the group hierarchy can be maintained and cell color can be a hexadecimal value. The  **GroupCriterion2** object is a member of the **[GroupCriteria2](Project.groupcriteria2.md)** collection.
  

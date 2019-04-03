@@ -1,5 +1,5 @@
 ---
-title: Font.Name Property (PowerPoint)
+title: Font.Name property (PowerPoint)
 keywords: vbapp10.chm575015
 f1_keywords:
 - vbapp10.chm575015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font.Name Property (PowerPoint)
+# Font.Name property (PowerPoint)
 
 Returns or sets the name of the specified object. Read/write.
 

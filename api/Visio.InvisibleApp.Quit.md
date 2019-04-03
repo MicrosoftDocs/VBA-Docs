@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Quit Method (Visio)
+title: InvisibleApp.Quit method (Visio)
 keywords: vis_sdr.chm17516460
 f1_keywords:
 - vis_sdr.chm17516460
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Quit Method (Visio)
+# InvisibleApp.Quit method (Visio)
 
 Closes the indicated instance of Microsoft Visio.
 
 
 ## Syntax
 
- _expression_. `Quit`
+_expression_. `Quit`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

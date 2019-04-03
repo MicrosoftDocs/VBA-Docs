@@ -21,7 +21,7 @@ Drags a page break out of the print area.
 
 _expression_. `DragOff`( `_Direction_` , `_RegionIndex_` )
 
-_expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
+_expression_ A variable that represents a [VPageBreak](Excel.VPageBreak.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Required| **[xlDirection](Excel.XlDirection.md)**|The direction in which the page break is dragged.|
+| _Direction_|Required| **[XlDirection](Excel.XlDirection.md)**|The direction in which the page break is dragged.|
 | _RegionIndex_|Required| **Long**|The print-area region index for the page break (the region where the mouse pointer is located when the mouse button is pressed if the user drags the page break). If the print area is contiguous, there?s only one print region. If the print area is discontiguous, there?s more than one print region.|
 
 ## Remarks

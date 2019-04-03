@@ -1,5 +1,5 @@
 ---
-title: Calendars.Item Property (Project)
+title: Calendars.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendars.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Calendars.Item Property (Project)
+# Calendars.Item property (Project)
 
 Gets a single  **Calendar** object from the **Calendars** collection. Read-only **Calendar**.
 

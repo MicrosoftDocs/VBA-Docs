@@ -1,5 +1,5 @@
 ---
-title: Documents.BeforeDocumentSaveAs Event (Visio)
+title: Documents.BeforeDocumentSaveAs event (Visio)
 keywords: vis_sdr.chm10619035
 f1_keywords:
 - vis_sdr.chm10619035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.BeforeDocumentSaveAs Event (Visio)
+# Documents.BeforeDocumentSaveAs event (Visio)
 
 Occurs just before a document is saved by using the  **Save As** command.
 

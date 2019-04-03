@@ -1,5 +1,5 @@
 ---
-title: CodeMask.Count Property (Project)
+title: CodeMask.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.CodeMask.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CodeMask.Count Property (Project)
+# CodeMask.Count property (Project)
 
 Gets the number of items in the  **CodeMask** object. Read-only **Long**.
 

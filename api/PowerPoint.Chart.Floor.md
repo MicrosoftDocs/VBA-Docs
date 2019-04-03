@@ -1,5 +1,5 @@
 ---
-title: Chart.Floor Property (PowerPoint)
+title: Chart.Floor property (PowerPoint)
 keywords: vbapp10.chm684029
 f1_keywords:
 - vbapp10.chm684029
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.Floor Property (PowerPoint)
+# Chart.Floor property (PowerPoint)
 
 Returns the floor of the 3-D chart. Read-only  **[Floor](PowerPoint.Floor.md)**.
 
 
 ## Syntax
 
- _expression_. `Floor`
+_expression_. `Floor`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Conversation.ConversationID Property (Outlook)
+title: Conversation.ConversationID property (Outlook)
 keywords: vbaol11.chm3467
 f1_keywords:
 - vbaol11.chm3467
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.ConversationID Property (Outlook)
+# Conversation.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conver
 
 _expression_. `ConversationID`
 
-_expression_ A variable that represents a [Conversation](./Outlook.Conversation.md) object.
+_expression_ A variable that represents a [Conversation](Outlook.Conversation.md) object.
 
 
 ## Remarks

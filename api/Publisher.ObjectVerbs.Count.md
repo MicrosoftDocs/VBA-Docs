@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs.Count Property (Publisher)
+title: ObjectVerbs.Count property (Publisher)
 keywords: vbapb10.chm4521987
 f1_keywords:
 - vbapb10.chm4521987
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ObjectVerbs.Count Property (Publisher)
+# ObjectVerbs.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents an  **ObjectVerbs** object.
 

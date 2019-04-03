@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultEarnedValueMethod Property (Project)
+title: Project.DefaultEarnedValueMethod property (Project)
 keywords: vbapj.chm131081
 f1_keywords:
 - vbapj.chm131081
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultEarnedValueMethod Property (Project)
+# Project.DefaultEarnedValueMethod property (Project)
 
 Gets or sets the default method for calculating earned value for a project. Read/write  **PjEarnedValueMethod**.
 
 
 ## Syntax
 
- _expression_. `DefaultEarnedValueMethod`
+_expression_. `DefaultEarnedValueMethod`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.GetBuiltInStencilFile Method (Visio)
+title: InvisibleApp.GetBuiltInStencilFile method (Visio)
 keywords: vis_sdr.chm17562110
 f1_keywords:
 - vis_sdr.chm17562110
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.GetBuiltInStencilFile Method (Visio)
+# InvisibleApp.GetBuiltInStencilFile method (Visio)
 
 Returns the file path to the specified built-in, hidden stencil used to populate certain galleries in the Microsoft Visio user interface.
 
 
 ## Syntax
 
- _expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
+_expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
 
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 

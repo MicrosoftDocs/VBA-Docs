@@ -1,5 +1,5 @@
 ---
-title: NavigationFolders Object (Outlook)
+title: NavigationFolders object (Outlook)
 keywords: vbaol11.chm3200
 f1_keywords:
 - vbaol11.chm3200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolders Object (Outlook)
+# NavigationFolders object (Outlook)
 
 Contains a set of  **[NavigationFolder](Outlook.navigationFolder.md)** objects that represent the navigation folders associated with a navigation group.
 
@@ -53,6 +53,6 @@ Note that if you delete a  **Folder** using **[Folder.Delete](Outlook.Folder.Del
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

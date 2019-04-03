@@ -1,5 +1,5 @@
 ---
-title: Engagement.SubmittedByGuid Property (Project)
+title: Engagement.SubmittedByGuid property (Project)
 keywords: vbapj.chm132669
 f1_keywords:
 - vbapj.chm132669
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Engagement.SubmittedByGuid Property (Project)
+# Engagement.SubmittedByGuid property (Project)
 
 The SubmittedByGuid property for the Engagement object. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `SubmittedByGuid`
+_expression_. `SubmittedByGuid`
 
  _expression_ A variable that represents a 'Engagement' object.
 
@@ -25,6 +25,6 @@ The SubmittedByGuid property for the Engagement object. Introduced in Office 201
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

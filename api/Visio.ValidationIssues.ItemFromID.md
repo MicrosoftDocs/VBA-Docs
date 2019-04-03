@@ -1,5 +1,5 @@
 ---
-title: ValidationIssues.ItemFromID Property (Visio)
+title: ValidationIssues.ItemFromID property (Visio)
 keywords: vis_sdr.chm18513775
 f1_keywords:
 - vis_sdr.chm18513775
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssues.ItemFromID Property (Visio)
+# ValidationIssues.ItemFromID property (Visio)
 
 Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that matches the specified ID. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_IssueID_` )
+_expression_. `ItemFromID`( `_IssueID_` )
 
  _expression_ A variable that represents a '[ValidationIssues](Visio.ValidationIssues.md)' object.
 

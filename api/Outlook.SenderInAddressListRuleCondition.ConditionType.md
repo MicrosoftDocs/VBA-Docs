@@ -1,5 +1,5 @@
 ---
-title: SenderInAddressListRuleCondition.ConditionType Property (Outlook)
+title: SenderInAddressListRuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2469
 f1_keywords:
 - vbaol11.chm2469
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SenderInAddressListRuleCondition.ConditionType Property (Outlook)
+# SenderInAddressListRuleCondition.ConditionType property (Outlook)
 
 Returns a constant,  **olConditionSenderInAddressBook**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant,  **olConditionSenderInAddressBook**, from the **[OlRuleCondi
 
 _expression_. `ConditionType`
 
-_expression_ A variable that represents a [SenderInAddressListRuleCondition](./Outlook.SenderInAddressListRuleCondition.md) object.
+_expression_ A variable that represents a [SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md) object.
 
 
 ## Remarks

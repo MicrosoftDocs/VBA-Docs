@@ -1,5 +1,5 @@
 ---
-title: OlRecurrenceState Enumeration (Outlook)
+title: OlRecurrenceState enumeration (Outlook)
 keywords: vbaol11.chm3076
 f1_keywords:
 - vbaol11.chm3076
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlRecurrenceState Enumeration (Outlook)
+# OlRecurrenceState enumeration (Outlook)
 
 Indicates the recurrence state of an  **AppointmentItem**.
 
@@ -27,6 +27,6 @@ Indicates the recurrence state of an  **AppointmentItem**.
 
 ## Remarks
 
-See [AppointmentItem.RecurrenceState Property (Outlook)](Outlook.AppointmentItem.RecurrenceState.md).
+See [AppointmentItem.RecurrenceState property (Outlook)](Outlook.AppointmentItem.RecurrenceState.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

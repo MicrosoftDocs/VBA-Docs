@@ -1,5 +1,5 @@
 ---
-title: NavigationModule.Session Property (Outlook)
+title: NavigationModule.Session property (Outlook)
 keywords: vbaol11.chm2805
 f1_keywords:
 - vbaol11.chm2805
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModule.Session Property (Outlook)
+# NavigationModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
- _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
+ _expression_ An expression that returns a [NavigationModule](Outlook.NavigationModule.md) object.
 
 
 ## Remarks

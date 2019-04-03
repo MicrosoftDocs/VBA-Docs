@@ -1,5 +1,5 @@
 ---
-title: Timing.Restart Property (PowerPoint)
+title: Timing.Restart property (PowerPoint)
 keywords: vbapp10.chm653016
 f1_keywords:
 - vbapp10.chm653016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Timing.Restart Property (PowerPoint)
+# Timing.Restart property (PowerPoint)
 
 Represents whether the animation effect restarts after the effect has started once. Read/write.
 
 
 ## Syntax
 
- _expression_. `Restart`
+_expression_. `Restart`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

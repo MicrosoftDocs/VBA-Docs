@@ -1,5 +1,5 @@
 ---
-title: Series.PlotColorIndex Property (PowerPoint)
+title: Series.PlotColorIndex property (PowerPoint)
 keywords: vbapp10.chm716006
 f1_keywords:
 - vbapp10.chm716006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.PlotColorIndex Property (PowerPoint)
+# Series.PlotColorIndex property (PowerPoint)
 
 Returns an index value that is used internally to associate series formatting with chart elements. Read-only.
 
 
 ## Syntax
 
- _expression_. `PlotColorIndex`
+_expression_. `PlotColorIndex`
 
  _expression_ A variable that represents a [Series](./PowerPoint.Series.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Type Property (Project)
+title: Resource.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource.Type Property (Project)
+# Resource.Type property (Project)
 
 Gets or sets the type of the resource (work, material, or cost). Read/write  **PjResourceTypes**.
 

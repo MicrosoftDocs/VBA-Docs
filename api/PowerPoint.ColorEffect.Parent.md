@@ -1,5 +1,5 @@
 ---
-title: ColorEffect.Parent Property (PowerPoint)
+title: ColorEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm659002
 f1_keywords:
 - vbapp10.chm659002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorEffect.Parent Property (PowerPoint)
+# ColorEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

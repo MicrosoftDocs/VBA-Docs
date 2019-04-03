@@ -1,5 +1,5 @@
 ---
-title: Application.FormViewShow Method (Project)
+title: Application.FormViewShow method (Project)
 keywords: vbapj.chm2074
 f1_keywords:
 - vbapj.chm2074
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FormViewShow Method (Project)
+# Application.FormViewShow method (Project)
 
 Shows or hides the form view in the lower pane.
 
 
 ## Syntax
 
- _expression_. `FormViewShow`
+_expression_. `FormViewShow`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

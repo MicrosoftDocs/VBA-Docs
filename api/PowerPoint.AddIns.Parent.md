@@ -1,5 +1,5 @@
 ---
-title: AddIns.Parent Property (PowerPoint)
+title: AddIns.Parent property (PowerPoint)
 keywords: vbapp10.chm520002
 f1_keywords:
 - vbapp10.chm520002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIns.Parent Property (PowerPoint)
+# AddIns.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

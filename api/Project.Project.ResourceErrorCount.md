@@ -1,5 +1,5 @@
 ---
-title: Project.ResourceErrorCount Method (Project)
+title: Project.ResourceErrorCount method (Project)
 keywords: vbapj.chm131110
 f1_keywords:
 - vbapj.chm131110
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ResourceErrorCount Method (Project)
+# Project.ResourceErrorCount method (Project)
 
 Returns the number of resource errors.
 
 
 ## Syntax
 
- _expression_. `ResourceErrorCount`
+_expression_. `ResourceErrorCount`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivate Method (Project)
+title: Application.WindowActivate method (Project)
 keywords: vbapj.chm705
 f1_keywords:
 - vbapj.chm705
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowActivate Method (Project)
+# Application.WindowActivate method (Project)
 
 Activates a window.
 
 
 ## Syntax
 
- _expression_. `WindowActivate`( `_WindowName_`, `_DialogID_`, `_TopPane_` )
+_expression_. `WindowActivate`( `_WindowName_`, `_DialogID_`, `_TopPane_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: VisContainerFlags Enumeration (Visio)
+title: VisContainerFlags enumeration (Visio)
 keywords: vis_sdr.chm70620
 f1_keywords:
 - vis_sdr.chm70620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisContainerFlags Enumeration (Visio)
+# VisContainerFlags enumeration (Visio)
 
 Specifies which container member shape IDs to return; constants passed to the  **[ContainerProperties.GetMemberShapes](Visio.ContainerProperties.GetMemberShapes.md)** method.
 

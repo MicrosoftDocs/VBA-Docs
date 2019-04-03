@@ -1,5 +1,5 @@
 ---
-title: Windows.PersistsEvents Property (Visio)
+title: Windows.PersistsEvents property (Visio)
 keywords: vis_sdr.chm11714080
 f1_keywords:
 - vis_sdr.chm11714080
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Windows.PersistsEvents Property (Visio)
+# Windows.PersistsEvents property (Visio)
 
 Indicates whether an object is capable of containing persistent events in its  **EventList** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `PersistsEvents`
+_expression_. `PersistsEvents`
 
  _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 

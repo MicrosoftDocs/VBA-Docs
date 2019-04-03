@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that indicates whether a document is final. Read/
 
 ## Syntax
 
- _expression_. `Final`
+_expression_. `Final`
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 

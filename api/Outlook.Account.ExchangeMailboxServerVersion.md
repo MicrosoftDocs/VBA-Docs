@@ -1,5 +1,5 @@
 ---
-title: Account.ExchangeMailboxServerVersion Property (Outlook)
+title: Account.ExchangeMailboxServerVersion property (Outlook)
 keywords: vbaol11.chm3551
 f1_keywords:
 - vbaol11.chm3551
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.ExchangeMailboxServerVersion Property (Outlook)
+# Account.ExchangeMailboxServerVersion property (Outlook)
 
 Returns a  **String** value that represents the full version number of the Microsoft Exchange Server that hosts the account mailbox. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.KeyUp Event (Outlook)
+title: OlkTextBox.KeyUp event (Outlook)
 keywords: vbaol11.chm1000080
 f1_keywords:
 - vbaol11.chm1000080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.KeyUp Event (Outlook)
+# OlkTextBox.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 
@@ -21,7 +21,7 @@ Occurs when the user releases a key.
 
 _expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Resource.Baseline4BudgetCost Property (Project)
+title: Resource.Baseline4BudgetCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Baseline4BudgetCost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Baseline4BudgetCost Property (Project)
+# Resource.Baseline4BudgetCost property (Project)
 
 Gets or sets the baseline4 budget cost for a  **Resource**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline4BudgetCost`
+_expression_. `Baseline4BudgetCost`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

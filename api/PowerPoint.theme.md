@@ -1,5 +1,5 @@
 ---
-title: Theme Object (PowerPoint)
+title: Theme object (PowerPoint)
 keywords: vbapp10.chm740000
 f1_keywords:
 - vbapp10.chm740000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Theme Object (PowerPoint)
+# Theme object (PowerPoint)
 
 Represents a theme (a collection of colors, fonts, and effects).
 

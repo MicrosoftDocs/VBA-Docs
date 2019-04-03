@@ -1,5 +1,5 @@
 ---
-title: LookupTable.Count Property (Project)
+title: LookupTable.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.LookupTable.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTable.Count Property (Project)
+# LookupTable.Count property (Project)
 
 Gets the number of items in the  **LookupTable** collection. Read-only **Long**.
 

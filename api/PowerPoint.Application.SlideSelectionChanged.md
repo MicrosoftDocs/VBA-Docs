@@ -1,5 +1,5 @@
 ---
-title: Application.SlideSelectionChanged Event (PowerPoint)
+title: Application.SlideSelectionChanged event (PowerPoint)
 keywords: vbapp10.chm621016
 f1_keywords:
 - vbapp10.chm621016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideSelectionChanged Event (PowerPoint)
+# Application.SlideSelectionChanged event (PowerPoint)
 
 Occurs at different times depending on the current view.
 
 
 ## Syntax
 
- _expression_. `SlideSelectionChanged`( `_SldRange_` )
+_expression_. `SlideSelectionChanged`( `_SldRange_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

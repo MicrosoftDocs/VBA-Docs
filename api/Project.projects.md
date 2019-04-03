@@ -1,5 +1,5 @@
 ---
-title: Projects Object (Project)
+title: Projects object (Project)
 keywords: vbapj.chm131311
 f1_keywords:
 - vbapj.chm131311
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Projects Object (Project)
+# Projects object (Project)
 
 Contains a collection of **[Project](Project.Project.md)** objects.
 

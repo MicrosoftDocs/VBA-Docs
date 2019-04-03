@@ -19,7 +19,7 @@ Returns or sets the sender code. Not used in the U.S. English version of Microso
 
 ## Syntax
 
- _expression_. `SenderCode`
+_expression_. `SenderCode`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 

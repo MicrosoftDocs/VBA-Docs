@@ -1,5 +1,5 @@
 ---
-title: OlDayWeekTimeScale Enumeration (Outlook)
+title: OlDayWeekTimeScale enumeration (Outlook)
 keywords: vbaol11.chm3127
 f1_keywords:
 - vbaol11.chm3127
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlDayWeekTimeScale Enumeration (Outlook)
+# OlDayWeekTimeScale enumeration (Outlook)
 
 Specifies the scale of time periods used to display Outlook items in a  **[CalendarView](Outlook.CalendarView.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskItem.DelegationState Property (Outlook)
+title: TaskItem.DelegationState property (Outlook)
 keywords: vbaol11.chm1726
 f1_keywords:
 - vbaol11.chm1726
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.DelegationState Property (Outlook)
+# TaskItem.DelegationState property (Outlook)
 
 Returns an  **[OlTaskDelegationState](Outlook.OlTaskDelegationState.md)** constant indicating the delegation state of the task. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlTaskDelegationState](Outlook.OlTaskDelegationState.md)** consta
 
 _expression_. `DelegationState`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

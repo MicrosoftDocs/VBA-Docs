@@ -1,5 +1,5 @@
 ---
-title: Series.Delete Method (PowerPoint)
+title: Series.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.Delete Method (PowerPoint)
+# Series.Delete method (PowerPoint)
 
 Deletes the object.
 

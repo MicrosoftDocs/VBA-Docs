@@ -1,5 +1,5 @@
 ---
-title: Presentation.Guides Property (PowerPoint)
+title: Presentation.Guides property (PowerPoint)
 keywords: vbapp10.chm583127
 f1_keywords:
 - vbapp10.chm583127
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Guides Property (PowerPoint)
+# Presentation.Guides property (PowerPoint)
 
-Returns the [Guides](./overview/PowerPoint.md) collection associated with a custom layout. Read-only.
+Returns the [Guides](overview/PowerPoint.md) collection associated with a custom layout. Read-only.
 
 
 ## Syntax
 
- _expression_. `Guides`
+_expression_. `Guides`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

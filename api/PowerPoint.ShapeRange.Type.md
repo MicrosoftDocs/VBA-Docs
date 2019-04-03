@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Type Property (PowerPoint)
+title: ShapeRange.Type property (PowerPoint)
 keywords: vbapp10.chm548038
 f1_keywords:
 - vbapp10.chm548038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Type Property (PowerPoint)
+# ShapeRange.Type property (PowerPoint)
 
 Represents the type of shape or shapes in a range of shapes. Read-only.
 

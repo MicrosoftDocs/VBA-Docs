@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.AudioSamplingRate Property (PowerPoint)
+title: ResampleMediaTask.AudioSamplingRate property (PowerPoint)
 keywords: vbapp10.chm727004
 f1_keywords:
 - vbapp10.chm727004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.AudioSamplingRate Property (PowerPoint)
+# ResampleMediaTask.AudioSamplingRate property (PowerPoint)
 
 Returns the audio sampling rate per second. Read-only.
 
 
 ## Syntax
 
- _expression_. `AudioSamplingRate`
+_expression_. `AudioSamplingRate`
 
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet Object (Publisher)
+title: WebNavigationBarSet object (Publisher)
 keywords: vbapb10.chm8585215
 f1_keywords:
 - vbapb10.chm8585215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet Object (Publisher)
+# WebNavigationBarSet object (Publisher)
 
 Represents a Web navigation bar set for the current document. The  **WebNavigationBarSet** object is a member of the **WebNavigationBarSets** collection, which includes all of the Web navigation bar sets in the current document.
  

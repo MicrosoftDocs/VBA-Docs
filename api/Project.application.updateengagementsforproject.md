@@ -1,5 +1,5 @@
 ---
-title: Application.UpdateEngagementsForProject Method (Project)
+title: Application.UpdateEngagementsForProject method (Project)
 keywords: vbapj.chm156
 f1_keywords:
 - vbapj.chm156
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Application.UpdateEngagementsForProject Method (Project)
+# Application.UpdateEngagementsForProject method (Project)
 
 Update the Engagements for a Project. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `UpdateEngagementsForProject`
+_expression_. `UpdateEngagementsForProject`
 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 

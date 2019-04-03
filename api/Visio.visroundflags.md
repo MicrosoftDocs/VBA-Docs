@@ -1,5 +1,5 @@
 ---
-title: VisRoundFlags Enumeration (Visio)
+title: VisRoundFlags enumeration (Visio)
 keywords: vis_sdr.chm70090
 f1_keywords:
 - vis_sdr.chm70090
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisRoundFlags Enumeration (Visio)
+# VisRoundFlags enumeration (Visio)
 
 Constants to pass to the  **Cell.ResultInt** property.
 

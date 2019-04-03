@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentSaved Event (Visio)
+title: Document.DocumentSaved event (Visio)
 keywords: vis_sdr.chm10519135
 f1_keywords:
 - vis_sdr.chm10519135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.DocumentSaved Event (Visio)
+# Document.DocumentSaved event (Visio)
 
 Occurs after a document is saved.
 

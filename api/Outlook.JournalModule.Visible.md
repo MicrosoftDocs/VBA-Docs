@@ -1,5 +1,5 @@
 ---
-title: JournalModule.Visible Property (Outlook)
+title: JournalModule.Visible property (Outlook)
 keywords: vbaol11.chm2869
 f1_keywords:
 - vbaol11.chm2869
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalModule.Visible Property (Outlook)
+# JournalModule.Visible property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether the **[JournalModule](Outlook.JournalModule.md)** object is displayed in the navigation pane. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines whether the **[JournalModul
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [JournalModule](./Outlook.JournalModule.md) object.
+_expression_ A variable that represents a [JournalModule](Outlook.JournalModule.md) object.
 
 
 ## See also

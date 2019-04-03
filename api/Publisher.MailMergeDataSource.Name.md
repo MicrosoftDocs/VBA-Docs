@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Name Property (Publisher)
+title: MailMergeDataSource.Name property (Publisher)
 keywords: vbapb10.chm6291476
 f1_keywords:
 - vbapb10.chm6291476
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.Name Property (Publisher)
+# MailMergeDataSource.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_.**Name**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

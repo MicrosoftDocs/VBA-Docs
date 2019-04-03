@@ -1,5 +1,5 @@
 ---
-title: Profile.ConnectionState Property (Project)
+title: Profile.ConnectionState property (Project)
 keywords: vbapj.chm131665
 f1_keywords:
 - vbapj.chm131665
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Profile.ConnectionState Property (Project)
+# Profile.ConnectionState property (Project)
 
 Gets the connection state of Project Professional, which allows you to determine whether the online mode is for a local profile or for Project Server. Read-only  **PjProfileConnectionState**.
 
 
 ## Syntax
 
- _expression_. `ConnectionState`
+_expression_. `ConnectionState`
 
  _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 

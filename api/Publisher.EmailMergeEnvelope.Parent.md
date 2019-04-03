@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.Parent Property (Publisher)
+title: EmailMergeEnvelope.Parent property (Publisher)
 keywords: vbapb10.chm9043970
 f1_keywords:
 - vbapb10.chm9043970
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.Parent Property (Publisher)
+# EmailMergeEnvelope.Parent property (Publisher)
 
 Returns the parent of the  **[EmailMergeEnvelope](Publisher.EmailMergeEnvelope.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 

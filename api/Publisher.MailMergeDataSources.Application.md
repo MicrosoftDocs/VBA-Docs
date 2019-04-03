@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSources.Application Property (Publisher)
+title: MailMergeDataSources.Application property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSources.Application
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSources.Application Property (Publisher)
+# MailMergeDataSources.Application property (Publisher)
 
 Returns an  **Application** object that represents the creator of the parent **MailMergeDataSources** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_.**Application**
 
  _expression_ A variable that represents a  **MailMergeDataSources** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.CcLabel Property (Outlook)
+title: SelectNamesDialog.CcLabel property (Outlook)
 keywords: vbaol11.chm829
 f1_keywords:
 - vbaol11.chm829
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.CcLabel Property (Outlook)
+# SelectNamesDialog.CcLabel property (Outlook)
 
 Returns or sets a **String** for the text that appears on the **Cc** command button on the **Select Names** dialog box. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a **String** for the text that appears on the **Cc** command but
 
 _expression_. `CcLabel`
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

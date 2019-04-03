@@ -1,5 +1,5 @@
 ---
-title: Document.PrintPagesDown Property (Visio)
+title: Document.PrintPagesDown property (Visio)
 keywords: vis_sdr.chm10514130
 f1_keywords:
 - vis_sdr.chm10514130
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintPagesDown Property (Visio)
+# Document.PrintPagesDown property (Visio)
 
 Gets or sets the number of sheets of paper on which a drawing is printed vertically. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintPagesDown`
+_expression_. `PrintPagesDown`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

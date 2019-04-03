@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.ObjectThemeColor Property (PowerPoint)
+title: ColorFormat.ObjectThemeColor property (PowerPoint)
 keywords: vbapp10.chm506006
 f1_keywords:
 - vbapp10.chm506006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.ObjectThemeColor Property (PowerPoint)
+# ColorFormat.ObjectThemeColor property (PowerPoint)
 
 Returns or sets the theme color of the specified  **ColorFormat** object. Read/Write.
 
 
 ## Syntax
 
- _expression_. `ObjectThemeColor`
+_expression_. `ObjectThemeColor`
 
  _expression_ An expression that returns a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 

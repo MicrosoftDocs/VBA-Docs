@@ -1,5 +1,5 @@
 ---
-title: Items.ItemChange Event (Outlook)
+title: Items.ItemChange event (Outlook)
 keywords: vbaol11.chm315
 f1_keywords:
 - vbaol11.chm315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.ItemChange Event (Outlook)
+# Items.ItemChange event (Outlook)
 
 Occurs when an item in the specified collection is changed. This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
@@ -21,7 +21,7 @@ Occurs when an item in the specified collection is changed. This event is not av
 
 _expression_. `ItemChange`( `_Item_` )
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Parameters

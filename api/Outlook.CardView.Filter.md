@@ -1,5 +1,5 @@
 ---
-title: CardView.Filter Property (Outlook)
+title: CardView.Filter property (Outlook)
 keywords: vbaol11.chm2596
 f1_keywords:
 - vbaol11.chm2596
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Filter Property (Outlook)
+# CardView.Filter property (Outlook)
 
 Returns or sets a  **String** value that represents the filter for a view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the filter for a view. Read/
 
 _expression_. `Filter`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks

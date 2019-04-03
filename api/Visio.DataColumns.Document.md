@@ -1,5 +1,5 @@
 ---
-title: DataColumns.Document Property (Visio)
+title: DataColumns.Document property (Visio)
 keywords: vis_sdr.chm16613430
 f1_keywords:
 - vis_sdr.chm16613430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumns.Document Property (Visio)
+# DataColumns.Document property (Visio)
 
 Gets the  **Document** object that contains the **DataColumns** collection. Read-only.
 
@@ -22,7 +22,7 @@ Gets the  **Document** object that contains the **DataColumns** collection. Read
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ An expression that returns a [DataColumns](./Visio.DataColumns.md) object.
 

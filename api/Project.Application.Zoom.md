@@ -1,5 +1,5 @@
 ---
-title: Application.Zoom Method (Project)
+title: Application.Zoom method (Project)
 keywords: vbapj.chm306
 f1_keywords:
 - vbapj.chm306
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Zoom Method (Project)
+# Application.Zoom method (Project)
 
 Displays the  **Zoom** dialog box, which prompts the user to change the timescale range of the active view.
 
 
 ## Syntax
 
- _expression_. `Zoom`
+_expression_. `Zoom`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

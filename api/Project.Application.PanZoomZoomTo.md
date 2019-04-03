@@ -1,5 +1,5 @@
 ---
-title: Application.PanZoomZoomTo Method (Project)
+title: Application.PanZoomZoomTo method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.PanZoomZoomTo
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PanZoomZoomTo Method (Project)
+# Application.PanZoomZoomTo method (Project)
 
 Zooms the time range in or out for the Gantt chart in the active view.
 
 
 ## Syntax
 
- _expression_. `PanZoomZoomTo`( `_Start_`, `_Finish_` )
+_expression_. `PanZoomZoomTo`( `_Start_`, `_Finish_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ViewFields.Session Property (Outlook)
+title: ViewFields.Session property (Outlook)
 keywords: vbaol11.chm2548
 f1_keywords:
 - vbaol11.chm2548
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFields.Session Property (Outlook)
+# ViewFields.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
  _expression_.**Session**
 
-_expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## Remarks

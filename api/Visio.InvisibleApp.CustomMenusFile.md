@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CustomMenusFile Property (Visio)
+title: InvisibleApp.CustomMenusFile property (Visio)
 keywords: vis_sdr.chm17513350
 f1_keywords:
 - vis_sdr.chm17513350
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CustomMenusFile Property (Visio)
+# InvisibleApp.CustomMenusFile property (Visio)
 
 Gets or sets the name of the file that defines custom menus and accelerators for an  **InvisibleApp** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `CustomMenusFile`
+_expression_. `CustomMenusFile`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

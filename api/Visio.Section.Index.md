@@ -1,5 +1,5 @@
 ---
-title: Section.Index Property (Visio)
+title: Section.Index property (Visio)
 keywords: vis_sdr.chm15713695
 f1_keywords:
 - vis_sdr.chm15713695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Section.Index Property (Visio)
+# Section.Index property (Visio)
 
 Gets the ordinal position of an object in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 

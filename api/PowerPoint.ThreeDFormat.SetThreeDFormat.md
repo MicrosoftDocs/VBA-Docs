@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetThreeDFormat Method (PowerPoint)
+title: ThreeDFormat.SetThreeDFormat method (PowerPoint)
 keywords: vbapp10.chm557005
 f1_keywords:
 - vbapp10.chm557005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetThreeDFormat Method (PowerPoint)
+# ThreeDFormat.SetThreeDFormat method (PowerPoint)
 
 Sets the preset extrusion format.
 
 
 ## Syntax
 
- _expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
+_expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -66,7 +66,7 @@ The value of the PresetThreeDFormat parameter can be one of these  **MsoPresetTh
 
 ## Example
 
-This example adds an oval to  `myDocument` and sets its extrusion format to 3D Style 12.
+This example adds an oval to  _myDocument_ and sets its extrusion format to 3D Style 12.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Delete Method (Outlook)
+title: DistListItem.Delete method (Outlook)
 keywords: vbaol11.chm1142
 f1_keywords:
 - vbaol11.chm1142
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Delete Method (Outlook)
+# DistListItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
@@ -21,7 +21,7 @@ Removes the item from the folder that contains the item.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

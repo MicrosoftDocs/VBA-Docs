@@ -1,5 +1,5 @@
 ---
-title: Document.ReadOnly Property (Visio)
+title: Document.ReadOnly property (Visio)
 keywords: vis_sdr.chm10514185
 f1_keywords:
 - vis_sdr.chm10514185
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ReadOnly Property (Visio)
+# Document.ReadOnly property (Visio)
 
 Indicates whether a file is open as read-only. Read-only.
 
 
 ## Syntax
 
- _expression_. `ReadOnly`
+_expression_. `ReadOnly`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

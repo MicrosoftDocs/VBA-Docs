@@ -1,5 +1,5 @@
 ---
-title: Documents.CalloutRelationshipDeleted Event (Visio)
+title: Documents.CalloutRelationshipDeleted event (Visio)
 keywords: vis_sdr.chm10662080
 f1_keywords:
 - vis_sdr.chm10662080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.CalloutRelationshipDeleted Event (Visio)
+# Documents.CalloutRelationshipDeleted event (Visio)
 
 Occurs when a callout relationship is deleted from a document.
 

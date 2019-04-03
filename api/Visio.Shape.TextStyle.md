@@ -1,5 +1,5 @@
 ---
-title: Shape.TextStyle Property (Visio)
+title: Shape.TextStyle property (Visio)
 keywords: vis_sdr.chm11214530
 f1_keywords:
 - vis_sdr.chm11214530
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.TextStyle Property (Visio)
+# Shape.TextStyle property (Visio)
 
 Gets or sets the text style for an object. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextStyle`
+_expression_. `TextStyle`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

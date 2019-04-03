@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the z-axis for the shape. Read/wri
 
 ## Syntax
 
- _expression_. `Z`
+_expression_. `Z`
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

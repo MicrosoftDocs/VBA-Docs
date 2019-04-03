@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto Object (Outlook)
+title: OlkSenderPhoto object (Outlook)
 keywords: vbaol11.chm1000498
 f1_keywords:
 - vbaol11.chm1000498
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto Object (Outlook)
+# OlkSenderPhoto object (Outlook)
 
 A control that displays the sender's contact picture for items that can be received via email.
 
@@ -61,6 +61,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TimelineView.ShowWeekNumbers Property (Outlook)
+title: TimelineView.ShowWeekNumbers property (Outlook)
 keywords: vbaol11.chm2664
 f1_keywords:
 - vbaol11.chm2664
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.ShowWeekNumbers Property (Outlook)
+# TimelineView.ShowWeekNumbers property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether week number labels are displayed in the timeline scale for the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowWeekNumbers`
+_expression_. `ShowWeekNumbers`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks

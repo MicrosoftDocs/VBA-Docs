@@ -1,5 +1,5 @@
 ---
-title: Explorers.Parent Property (Outlook)
+title: Explorers.Parent property (Outlook)
 keywords: vbaol11.chm119
 f1_keywords:
 - vbaol11.chm119
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorers.Parent Property (Outlook)
+# Explorers.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
+_expression_ A variable that represents an [Explorers](Outlook.Explorers.md) object.
 
 
 ## See also

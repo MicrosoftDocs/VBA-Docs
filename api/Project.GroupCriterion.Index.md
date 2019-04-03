@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.Index Property (Project)
+title: GroupCriterion.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.Index Property (Project)
+# GroupCriterion.Index property (Project)
 
 Gets the index of a  **GroupCriterion** object in the containing **GroupCriteria** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 

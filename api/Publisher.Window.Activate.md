@@ -1,5 +1,5 @@
 ---
-title: Window.Activate Method (Publisher)
+title: Window.Activate method (Publisher)
 keywords: vbapb10.chm262162
 f1_keywords:
 - vbapb10.chm262162
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Activate Method (Publisher)
+# Window.Activate method (Publisher)
 
 Activates a window or OLE object.
 
 
 ## Syntax
 
- _expression_. **Activate**
+ _expression_.**Activate**
 
  _expression_ A variable that represents a  **Window** object.
 

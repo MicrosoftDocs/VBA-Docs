@@ -1,5 +1,5 @@
 ---
-title: SharingItem.RetentionPolicyName Property (Outlook)
+title: SharingItem.RetentionPolicyName property (Outlook)
 keywords: vbaol11.chm3564
 f1_keywords:
 - vbaol11.chm3564
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.RetentionPolicyName Property (Outlook)
+# SharingItem.RetentionPolicyName property (Outlook)
 
 Returns a  **String** that specifies the name of the retention policy. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that specifies the name of the retention policy. Read-only
 
 _expression_. `RetentionPolicyName`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

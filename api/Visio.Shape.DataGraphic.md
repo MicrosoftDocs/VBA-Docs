@@ -1,5 +1,5 @@
 ---
-title: Shape.DataGraphic Property (Visio)
+title: Shape.DataGraphic property (Visio)
 keywords: vis_sdr.chm11260205
 f1_keywords:
 - vis_sdr.chm11260205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.DataGraphic Property (Visio)
+# Shape.DataGraphic property (Visio)
 
 Gets or sets the data graphic master (**Master** of type **visTypeDataGraphic**) that is associated with the shape. Read/write.
 
@@ -22,7 +22,7 @@ Gets or sets the data graphic master (**Master** of type **visTypeDataGraphic**)
 
 ## Syntax
 
- _expression_. `DataGraphic`
+_expression_. `DataGraphic`
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IsLinked Property (Publisher)
+title: PictureFormat.IsLinked property (Publisher)
 keywords: vbapb10.chm3604769
 f1_keywords:
 - vbapb10.chm3604769
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IsLinked Property (Publisher)
+# PictureFormat.IsLinked property (Publisher)
 
 Returns a  **MsoTriState** constant indicating whether the specified picture is a linked picture or OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **IsLinked**
+ _expression_.**IsLinked**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 
@@ -33,7 +33,7 @@ MsoTriState
 
 Returns  **msoFalse** for pasted or embedded pictures and OLE objects.
 
-If a picture or OLE object is linked, several additional properties of the  **[PictureFormat](Publisher.PictureFormat.md)** object dealing with the original picture (such as ** [OriginalFileSize](Publisher.PictureFormat.OriginalFileSize.md)**) are accessible.
+If a picture or OLE object is linked, several additional properties of the  **[PictureFormat](Publisher.PictureFormat.md)** object dealing with the original picture (such as **[OriginalFileSize](Publisher.PictureFormat.OriginalFileSize.md)**) are accessible.
 
 The  **IsLinked** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 

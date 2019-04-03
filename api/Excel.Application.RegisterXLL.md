@@ -19,7 +19,7 @@ Loads an XLL code resource and automatically registers the functions and command
 
 ## Syntax
 
-_expression_. `RegisterXLL`( `_Filename_` )
+_expression_. `RegisterXLL`( `_FileName_` )
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|Specifies the name of the XLL to be loaded.|
+| _FileName_|Required| **String**|Specifies the name of the XLL to be loaded.|
 
 ## Return value
 

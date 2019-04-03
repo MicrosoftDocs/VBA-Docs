@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.FreeformDrawingSmoothing Property (Visio)
+title: ApplicationSettings.FreeformDrawingSmoothing property (Visio)
 keywords: vis_sdr.chm16251785
 f1_keywords:
 - vis_sdr.chm16251785
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.FreeformDrawingSmoothing Property (Visio)
+# ApplicationSettings.FreeformDrawingSmoothing property (Visio)
 
 Determines how precisely mouse movements are smoothed when drawing a spline. Read/write.
 
 
 ## Syntax
 
- _expression_. `FreeformDrawingSmoothing`
+_expression_. `FreeformDrawingSmoothing`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DesignModeEntered Event (Visio)
+title: Application.DesignModeEntered event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.DesignModeEntered
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DesignModeEntered Event (Visio)
+# Application.DesignModeEntered event (Visio)
 
 Occurs before a document enters design mode.
 

@@ -1,5 +1,5 @@
 ---
-title: FilterEffect.Reveal Property (PowerPoint)
+title: FilterEffect.Reveal property (PowerPoint)
 keywords: vbapp10.chm669005
 f1_keywords:
 - vbapp10.chm669005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FilterEffect.Reveal Property (PowerPoint)
+# FilterEffect.Reveal property (PowerPoint)
 
 Determines how the embedded objects will be revealed. Read/write.
 
 
 ## Syntax
 
- _expression_. `Reveal`
+_expression_. `Reveal`
 
  _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 

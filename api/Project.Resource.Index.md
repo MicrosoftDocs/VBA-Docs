@@ -1,5 +1,5 @@
 ---
-title: Resource.Index Property (Project)
+title: Resource.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Index Property (Project)
+# Resource.Index property (Project)
 
 Gets the index of a  **Resource** object in the containing **Resources** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

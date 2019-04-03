@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.ReplyAll Event (Outlook)
+title: TaskRequestDeclineItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.ReplyAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.ReplyAll Event (Outlook)
+# TaskRequestDeclineItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **ReplyAll** action for an item (which is an i
 
 _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

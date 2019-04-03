@@ -1,5 +1,5 @@
 ---
-title: Printer.PrintMode Property (Publisher)
+title: Printer.PrintMode property (Publisher)
 keywords: vbapb10.chm7077908
 f1_keywords:
 - vbapb10.chm7077908
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Printer.PrintMode Property (Publisher)
+# Printer.PrintMode property (Publisher)
 
 Read/write
 
 
 ## Syntax
 
- _expression_. **PrintMode**
+ _expression_.**PrintMode**
 
- _expression_An expression that returns a  **[Printer](Publisher.Printer.md)** object.
+ _expression_ An expression that returns a  **[Printer](Publisher.Printer.md)** object.
 
 
 ## Return value

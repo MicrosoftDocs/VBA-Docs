@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.Parent Property (PowerPoint)
+title: PrintOptions.Parent property (PowerPoint)
 keywords: vbapp10.chm517008
 f1_keywords:
 - vbapp10.chm517008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.Parent Property (PowerPoint)
+# PrintOptions.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

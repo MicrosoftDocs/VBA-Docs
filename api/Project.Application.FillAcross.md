@@ -1,5 +1,5 @@
 ---
-title: Application.FillAcross Method (Project)
+title: Application.FillAcross method (Project)
 keywords: vbapj.chm244
 f1_keywords:
 - vbapj.chm244
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FillAcross Method (Project)
+# Application.FillAcross method (Project)
 
 Fills the selected cells or columns with the values in the specified cell or column of the selection.
 
 
 ## Syntax
 
- _expression_. `FillAcross`( `_Right_` )
+_expression_. `FillAcross`( `_Right_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

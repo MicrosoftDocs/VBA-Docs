@@ -1,5 +1,5 @@
 ---
-title: OlExchangeConnectionMode Enumeration (Outlook)
+title: OlExchangeConnectionMode enumeration (Outlook)
 keywords: vbaol11.chm3098
 f1_keywords:
 - vbaol11.chm3098
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlExchangeConnectionMode Enumeration (Outlook)
+# OlExchangeConnectionMode enumeration (Outlook)
 
 Specifies whether the account is connected to an Exchange server and if so, the connection mode.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem Object (Outlook)
+title: TaskRequestDeclineItem object (Outlook)
 keywords: vbaol11.chm3009
 f1_keywords:
 - vbaol11.chm3009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem Object (Outlook)
+# TaskRequestDeclineItem object (Outlook)
 
 Represents a response to a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** sent by the initiating user.
 
@@ -125,6 +125,6 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

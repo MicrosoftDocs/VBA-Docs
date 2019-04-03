@@ -1,5 +1,5 @@
 ---
-title: Task.HyperlinkSubAddress Property (Project)
+title: Task.HyperlinkSubAddress property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.HyperlinkSubAddress
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.HyperlinkSubAddress Property (Project)
+# Task.HyperlinkSubAddress property (Project)
 
 Gets or sets the address of a location within the target document. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkSubAddress`
+_expression_. `HyperlinkSubAddress`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

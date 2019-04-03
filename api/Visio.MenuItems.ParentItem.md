@@ -1,5 +1,5 @@
 ---
-title: MenuItems.ParentItem Property (Visio)
+title: MenuItems.ParentItem property (Visio)
 keywords: vis_sdr.chm13014045
 f1_keywords:
 - vis_sdr.chm13014045
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MenuItems.ParentItem Property (Visio)
+# MenuItems.ParentItem property (Visio)
 
 Returns the parent object of a hierarchical menu. Read-only.
 
 
 ## Syntax
 
- _expression_. `ParentItem`
+_expression_. `ParentItem`
 
  _expression_ A variable that represents a [MenuItems](./Visio.MenuItems.md) object.
 

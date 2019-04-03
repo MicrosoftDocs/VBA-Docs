@@ -1,5 +1,5 @@
 ---
-title: Inspector.BeforeMove Event (Outlook)
+title: Inspector.BeforeMove event (Outlook)
 keywords: vbaol11.chm470
 f1_keywords:
 - vbaol11.chm470
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.BeforeMove Event (Outlook)
+# Inspector.BeforeMove event (Outlook)
 
 Occurs when the  **[Inspector](Outlook.Inspector.md)** is moved by the user.
 
@@ -21,7 +21,7 @@ Occurs when the  **[Inspector](Outlook.Inspector.md)** is moved by the user.
 
 _expression_. `BeforeMove`( `_Cancel_` )
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters

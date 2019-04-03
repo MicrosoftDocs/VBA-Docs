@@ -1,5 +1,5 @@
 ---
-title: Shape.Adjustments Property (Publisher)
+title: Shape.Adjustments property (Publisher)
 keywords: vbapb10.chm2228273
 f1_keywords:
 - vbapb10.chm2228273
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Adjustments Property (Publisher)
+# Shape.Adjustments property (Publisher)
 
 Returns an  **[Adjustments](Publisher.Adjustments.md)** collection representing all adjustment handles for the specified **Shape** or **ShapeRange** object.
 
 
 ## Syntax
 
- _expression_. **Adjustments**
+ _expression_.**Adjustments**
 
  _expression_ A variable that represents a  **Shape** object.
 

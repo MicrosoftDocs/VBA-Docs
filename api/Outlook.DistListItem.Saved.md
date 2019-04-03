@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Saved Property (Outlook)
+title: DistListItem.Saved property (Outlook)
 keywords: vbaol11.chm1134
 f1_keywords:
 - vbaol11.chm1134
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Saved Property (Outlook)
+# DistListItem.Saved property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 
 _expression_. `Saved`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Account.DisplayName Property (Outlook)
+title: Account.DisplayName property (Outlook)
 keywords: vbaol11.chm741
 f1_keywords:
 - vbaol11.chm741
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.DisplayName Property (Outlook)
+# Account.DisplayName property (Outlook)
 
 Returns a  **String** representing the display name of the email **[Account](Outlook.Account.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the display name of the email **[Account](Out
 
 _expression_. `DisplayName`
 
-_expression_ A variable that represents an [Account](./Outlook.Account.md) object.
+_expression_ A variable that represents an [Account](Outlook.Account.md) object.
 
 
 ## Remarks

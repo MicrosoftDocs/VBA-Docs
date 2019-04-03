@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Name Property (Outlook)
+title: ViewFont.Name property (Outlook)
 keywords: vbaol11.chm2697
 f1_keywords:
 - vbaol11.chm2697
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Name Property (Outlook)
+# ViewFont.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
  _expression_.**Name**
 
-_expression_ A variable that represents a [ViewFont](./Outlook.ViewFont.md) object.
+_expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 
 
 ## See also

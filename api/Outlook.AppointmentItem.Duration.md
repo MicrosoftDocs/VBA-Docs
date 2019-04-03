@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Duration Property (Outlook)
+title: AppointmentItem.Duration property (Outlook)
 keywords: vbaol11.chm878
 f1_keywords:
 - vbaol11.chm878
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Duration Property (Outlook)
+# AppointmentItem.Duration property (Outlook)
 
 Returns or sets a  **Long** indicating the duration (in minutes) of the **[AppointmentItem](Outlook.AppointmentItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the duration (in minutes) of the **[Appoi
 
 _expression_. `Duration`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Example

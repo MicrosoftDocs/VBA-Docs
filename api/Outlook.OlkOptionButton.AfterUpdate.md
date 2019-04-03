@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.AfterUpdate Event (Outlook)
+title: OlkOptionButton.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000190
 f1_keywords:
 - vbaol11.chm1000190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.AfterUpdate Event (Outlook)
+# OlkOptionButton.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 
@@ -21,7 +21,7 @@ Occurs after the data in the control has been changed through the user interface
 
 _expression_.**AfterUpdate**
 
-_expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](Outlook.OlkOptionButton.md) object.
 
 
 ## Remarks

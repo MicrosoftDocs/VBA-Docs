@@ -1,5 +1,5 @@
 ---
-title: MotionEffect.Parent Property (PowerPoint)
+title: MotionEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm658002
 f1_keywords:
 - vbapp10.chm658002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MotionEffect.Parent Property (PowerPoint)
+# MotionEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: PbSelectionType Enumeration (Publisher)
+title: PbSelectionType enumeration (Publisher)
 keywords: vbapb10.chm65567
 f1_keywords:
 - vbapb10.chm65567
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbSelectionType Enumeration (Publisher)
+# PbSelectionType enumeration (Publisher)
 
 Represents the selection type. 
 

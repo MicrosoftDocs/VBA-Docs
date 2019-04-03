@@ -1,5 +1,5 @@
 ---
-title: Task.HyperlinkHREF Property (Project)
+title: Task.HyperlinkHREF property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.HyperlinkHREF
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.HyperlinkHREF Property (Project)
+# Task.HyperlinkHREF property (Project)
 
 Gets or sets a combination of the hyperlink address and subaddress, separated by a "#". Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkHREF`
+_expression_. `HyperlinkHREF`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -16,9 +16,9 @@ Gets or sets the transparency of the color of the layer at the specified index i
 
 ## Syntax
 
- _expression_. **LayerColorTrans**(**_LayerIndex_**)
+ _expression_.**LayerColorTrans**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

@@ -40,7 +40,7 @@ When you attach a connector to an object, the size and position of the connector
 
 ## Example
 
-This example adds two rectangles to  `myDocument` and connects them with a curved connector. Notice that the **RerouteConnections** method makes it irrelevant what values you supply for the _ConnectionSite_ arguments used with the **BeginConnect** and **EndConnect** methods.
+This example adds two rectangles to  _myDocument_ and connects them with a curved connector. Notice that the **RerouteConnections** method makes it irrelevant what values you supply for the _ConnectionSite_ arguments used with the **BeginConnect** and **EndConnect** methods.
 
 
 ```vb

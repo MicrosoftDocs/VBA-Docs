@@ -1,5 +1,5 @@
 ---
-title: Walls Object (PowerPoint)
+title: Walls object (PowerPoint)
 keywords: vbapp10.chm723000
 f1_keywords:
 - vbapp10.chm723000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Walls Object (PowerPoint)
+# Walls object (PowerPoint)
 
 Represents the walls of a 3-D chart. 
 

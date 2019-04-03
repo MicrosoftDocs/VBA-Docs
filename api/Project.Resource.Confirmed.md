@@ -1,5 +1,5 @@
 ---
-title: Resource.Confirmed Property (Project)
+title: Resource.Confirmed property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Confirmed
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Confirmed Property (Project)
+# Resource.Confirmed property (Project)
 
 Gets the results of task assignments in a Project mail message.  **True** if the resource has accepted all of his or her assignments. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Confirmed`
+_expression_. `Confirmed`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

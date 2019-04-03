@@ -1,5 +1,5 @@
 ---
-title: Group.Delete Method (Project)
+title: Group.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Group.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Group.Delete Method (Project)
+# Group.Delete method (Project)
 
 Deletes the  **Group** object from a **ResourceGroups** or **TaskGroups** collection.
 

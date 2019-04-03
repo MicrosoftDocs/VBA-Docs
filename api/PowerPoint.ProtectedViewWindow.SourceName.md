@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.SourceName Property (PowerPoint)
+title: ProtectedViewWindow.SourceName property (PowerPoint)
 keywords: vbapp10.chm734008
 f1_keywords:
 - vbapp10.chm734008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.SourceName Property (PowerPoint)
+# ProtectedViewWindow.SourceName property (PowerPoint)
 
 Returns the source name of the current  **ProtectedViewWindow** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SourceName`
+_expression_. `SourceName`
 
  _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 

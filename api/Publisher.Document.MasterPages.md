@@ -1,5 +1,5 @@
 ---
-title: Document.MasterPages Property (Publisher)
+title: Document.MasterPages property (Publisher)
 keywords: vbapb10.chm196629
 f1_keywords:
 - vbapb10.chm196629
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.MasterPages Property (Publisher)
+# Document.MasterPages property (Publisher)
 
 Returns the  **[MasterPages](Publisher.MasterPages.md)** collection for the specified publication.
 
 
 ## Syntax
 
- _expression_. **MasterPages**
+ _expression_.**MasterPages**
 
  _expression_ A variable that represents a  **Document** object.
 

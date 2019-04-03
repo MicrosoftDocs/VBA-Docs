@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.DownloadState Property (Outlook)
+title: MeetingItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1460
 f1_keywords:
 - vbaol11.chm1460
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.DownloadState Property (Outlook)
+# MeetingItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadSt
 
 _expression_. `DownloadState`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Example

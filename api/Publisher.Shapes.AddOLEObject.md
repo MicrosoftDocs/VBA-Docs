@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddOLEObject Method (Publisher)
+title: Shapes.AddOLEObject method (Publisher)
 keywords: vbapb10.chm2162709
 f1_keywords:
 - vbapb10.chm2162709
@@ -12,21 +12,19 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddOLEObject Method (Publisher)
+# Shapes.AddOLEObject method (Publisher)
 
-Adds a new  **[Shape](Publisher.Shape.md)** object representing an OLE object to the specified **[Shapes](Publisher.Shapes.md)** collection.
+Adds a new **[Shape](Publisher.Shape.md)** object representing an OLE object to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddOLEObject**(**_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_ClassName_**,  **_Filename_**,  **_Link_**)
+_expression_.**AddOLEObject** (_Left_, _Top_, _Width_, _Height_, _ClassName_, _FileName_, _Link_)
 
- _expression_ A variable that represents a  **Shapes** object.
+_expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,7 +33,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing an OLE object to
 |Width|Optional| **Variant**|The width of the shape representing the OLE object. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
 |Height|Optional| **Variant**|The height of the shape representing the OLE object. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
 |ClassName|Optional| **String**|The class name of the OLE object to be added.|
-|Filename|Optional| **String**|The file name of the OLE object to be added. If the path is not specified, the current working folder is used.|
+|FileName|Optional| **String**|The file name of the OLE object to be added. If the path is not specified, the current working folder is used.|
 |Link|Optional| **MsoTriState**|Determines whether the OLE object is linked to or embedded in the publication.|
 
 ## Return value
@@ -49,7 +47,7 @@ For the Left, Top, Width, and Height arguments, numeric values are evaluated in 
 
 You must specify either a ClassName or FileName. If neither argument is specified, or if both are specified, an error occurs.
 
-The Link parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The Link parameter can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

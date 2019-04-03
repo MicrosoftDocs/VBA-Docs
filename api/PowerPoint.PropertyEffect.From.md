@@ -1,5 +1,5 @@
 ---
-title: PropertyEffect.From Property (PowerPoint)
+title: PropertyEffect.From property (PowerPoint)
 keywords: vbapp10.chm662005
 f1_keywords:
 - vbapp10.chm662005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PropertyEffect.From Property (PowerPoint)
+# PropertyEffect.From property (PowerPoint)
 
 Sets or returns a  **Variant** that represents the starting value of an object's property. Read/write.
 
 
 ## Syntax
 
- _expression_. `From`
+_expression_. `From`
 
  _expression_ A variable that represents a [PropertyEffect](./PowerPoint.PropertyEffect.md) object.
 

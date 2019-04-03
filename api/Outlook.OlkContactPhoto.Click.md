@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.Click Event (Outlook)
+title: OlkContactPhoto.Click event (Outlook)
 keywords: vbaol11.chm1000311
 f1_keywords:
 - vbaol11.chm1000311
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.Click Event (Outlook)
+# OlkContactPhoto.Click event (Outlook)
 
 Occurs when the control is clicked, either through user action or programmatically.
 
@@ -21,7 +21,7 @@ Occurs when the control is clicked, either through user action or programmatical
 
 _expression_. `Click`
 
-_expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactPhoto.md) object.
 
 
 ## See also

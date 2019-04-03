@@ -1,5 +1,5 @@
 ---
-title: CommandEffect.Type Property (PowerPoint)
+title: CommandEffect.Type property (PowerPoint)
 keywords: vbapp10.chm668003
 f1_keywords:
 - vbapp10.chm668003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CommandEffect.Type Property (PowerPoint)
+# CommandEffect.Type property (PowerPoint)
 
 Represents the type of animation. Read/write.
 

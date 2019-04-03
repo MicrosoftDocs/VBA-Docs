@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.MoveIntoTextFlow Method (Publisher)
+title: ShapeRange.MoveIntoTextFlow method (Publisher)
 keywords: vbapb10.chm2294025
 f1_keywords:
 - vbapb10.chm2294025
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.MoveIntoTextFlow Method (Publisher)
+# ShapeRange.MoveIntoTextFlow method (Publisher)
 
-Moves a given shape into the text flow defined by  ** [TextRange Object](Publisher.TextRange.md)**. The shape will always be inserted inline at the beginning of the text flow.
+Moves a given shape into the text flow defined by  **[TextRange Object](Publisher.TextRange.md)**. The shape will always be inserted inline at the beginning of the text flow.
 
 
 ## Syntax
 
- _expression_. **MoveIntoTextFlow**(**_Range_**)
+ _expression_.**MoveIntoTextFlow**(**_Range_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

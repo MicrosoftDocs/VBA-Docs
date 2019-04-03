@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Close Method (Outlook)
+title: TaskItem.Close method (Outlook)
 keywords: vbaol11.chm1712
 f1_keywords:
 - vbaol11.chm1712
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Close Method (Outlook)
+# TaskItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 
@@ -21,7 +21,7 @@ Closes and optionally saves changes to the Outlook item.
 
 _expression_. `Close`( `_SaveMode_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

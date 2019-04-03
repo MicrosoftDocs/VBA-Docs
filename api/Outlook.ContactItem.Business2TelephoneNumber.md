@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Business2TelephoneNumber Property (Outlook)
+title: ContactItem.Business2TelephoneNumber property (Outlook)
 keywords: vbaol11.chm969
 f1_keywords:
 - vbaol11.chm969
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Business2TelephoneNumber Property (Outlook)
+# ContactItem.Business2TelephoneNumber property (Outlook)
 
 Returns or sets a  **String** representing the second business telephone number for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the second business telephone number 
 
 _expression_. `Business2TelephoneNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

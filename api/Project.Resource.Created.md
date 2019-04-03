@@ -1,5 +1,5 @@
 ---
-title: Resource.Created Property (Project)
+title: Resource.Created property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Created
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Created Property (Project)
+# Resource.Created property (Project)
 
 Gets the date a  **Resource** was created. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `Created`
+_expression_. `Created`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

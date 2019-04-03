@@ -1,5 +1,5 @@
 ---
-title: Slides Object (PowerPoint)
+title: Slides object (PowerPoint)
 keywords: vbapp10.chm530000
 f1_keywords:
 - vbapp10.chm530000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slides Object (PowerPoint)
+# Slides object (PowerPoint)
 
 A collection of all the  **[Slide](PowerPoint.Slide.md)** objects in the specified presentation.
 

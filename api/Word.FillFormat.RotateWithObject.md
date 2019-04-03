@@ -19,7 +19,7 @@ Returns or sets whether the fill rotates with the specified shape. Read/write.
 
 ## Syntax
 
- _expression_. `RotateWithObject`
+_expression_. `RotateWithObject`
 
  _expression_ An expression that returns a [FillFormat](./Word.FillFormat.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **Long** that specifies the vertical offset of the texture fr
 
 ## Syntax
 
- _expression_. `TextureOffsetY`
+_expression_. `TextureOffsetY`
 
  _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 

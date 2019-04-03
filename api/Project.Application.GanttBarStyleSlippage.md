@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleSlippage Method (Project)
+title: Application.GanttBarStyleSlippage method (Project)
 keywords: vbapj.chm84
 f1_keywords:
 - vbapj.chm84
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleSlippage Method (Project)
+# Application.GanttBarStyleSlippage method (Project)
 
 Shows or hides slippage for the specified baseline on Gantt bars of the active view.
 
 
 ## Syntax
 
- _expression_. `GanttBarStyleSlippage`( `_Baseline_`, `_Show_` )
+_expression_. `GanttBarStyleSlippage`( `_Baseline_`, `_Show_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

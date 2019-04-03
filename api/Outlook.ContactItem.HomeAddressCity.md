@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HomeAddressCity Property (Outlook)
+title: ContactItem.HomeAddressCity property (Outlook)
 keywords: vbaol11.chm1013
 f1_keywords:
 - vbaol11.chm1013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HomeAddressCity Property (Outlook)
+# ContactItem.HomeAddressCity property (Outlook)
 
 Returns or sets a  **String** representing the city portion of the home address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the city portion of the home address 
 
 _expression_. `HomeAddressCity`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

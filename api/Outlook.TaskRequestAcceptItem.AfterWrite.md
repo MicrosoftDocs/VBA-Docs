@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.AfterWrite Event (Outlook)
+title: TaskRequestAcceptItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.AfterWrite Event (Outlook)
+# TaskRequestAcceptItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 
@@ -18,7 +18,7 @@ Occurs after Microsoft Outlook has saved the item.
 
 _expression_. `AfterWrite`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

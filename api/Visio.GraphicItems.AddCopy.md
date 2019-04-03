@@ -1,5 +1,5 @@
 ---
-title: GraphicItems.AddCopy Method (Visio)
+title: GraphicItems.AddCopy method (Visio)
 keywords: vis_sdr.chm16860420
 f1_keywords:
 - vis_sdr.chm16860420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItems.AddCopy Method (Visio)
+# GraphicItems.AddCopy method (Visio)
 
 Adds a copy of a  **GraphicItem** object to the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic**.
 
@@ -22,7 +22,7 @@ Adds a copy of a  **GraphicItem** object to the **GraphicItems** collection of a
 
 ## Syntax
 
- _expression_. `AddCopy`( `_GraphicItem_` )
+_expression_. `AddCopy`( `_GraphicItem_` )
 
  _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
 

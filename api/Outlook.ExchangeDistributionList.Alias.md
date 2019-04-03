@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Alias Property (Outlook)
+title: ExchangeDistributionList.Alias property (Outlook)
 keywords: vbaol11.chm2132
 f1_keywords:
 - vbaol11.chm2132
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Alias Property (Outlook)
+# ExchangeDistributionList.Alias property (Outlook)
 
 Returns a  **String** representing the alias for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the alias for the **[ExchangeDistributionList
 
 _expression_. `Alias`
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

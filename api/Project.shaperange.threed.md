@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ThreeD Property (Project)
+title: ShapeRange.ThreeD property (Project)
 ms.prod: project-server
 ms.assetid: 45b6c08e-14a6-2045-3faf-6a83202412bb
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ThreeD Property (Project)
+# ShapeRange.ThreeD property (Project)
 Gets a  **ThreeDFormat** object that contains 3-D formatting properties for the shape range. Read-only **[ThreeDFormat](https://msdn.microsoft.com/library/office/ff836783%28v=office.15%29)**.
 
 ## Syntax
 
- _expression_. `ThreeD`
+_expression_. `ThreeD`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

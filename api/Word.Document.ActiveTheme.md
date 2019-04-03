@@ -19,7 +19,7 @@ Returns the name of the active theme plus the theme formatting options for the s
 
 ## Syntax
 
- _expression_. `ActiveTheme`
+_expression_. `ActiveTheme`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

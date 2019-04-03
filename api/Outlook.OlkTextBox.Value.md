@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Value Property (Outlook)
+title: OlkTextBox.Value property (Outlook)
 keywords: vbaol11.chm1000060
 f1_keywords:
 - vbaol11.chm1000060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Value Property (Outlook)
+# OlkTextBox.Value property (Outlook)
 
 Returns or sets a  **Variant** that represents the content of the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Variant** that represents the content of the control. Read/
 
 _expression_.**Value**
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

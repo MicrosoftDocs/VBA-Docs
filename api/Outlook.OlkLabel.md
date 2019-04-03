@@ -1,5 +1,5 @@
 ---
-title: OlkLabel Object (Outlook)
+title: OlkLabel object (Outlook)
 keywords: vbaol11.chm1000107
 f1_keywords:
 - vbaol11.chm1000107
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkLabel Object (Outlook)
+# OlkLabel object (Outlook)
 
 The basic label control, used for displaying text for read-only purposes.
 
@@ -69,6 +69,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

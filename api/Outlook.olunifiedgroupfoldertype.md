@@ -1,5 +1,5 @@
 ---
-title: OlUnifiedGroupFolderType Enumeration (Outlook)
+title: OlUnifiedGroupFolderType enumeration (Outlook)
 keywords: vbaol11.chm3626
 f1_keywords:
 - vbaol11.chm3626
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# OlUnifiedGroupFolderType Enumeration (Outlook)
+# OlUnifiedGroupFolderType enumeration (Outlook)
 
 Specifies the folder to be obtained for unified groups. Because groups have both a mail and a calendar folder, you can specify either the  **olGroupMailFolder** or **olGroupCalendarFolder**.
 
@@ -26,6 +26,6 @@ Specifies the folder to be obtained for unified groups. Because groups have both
 ## See also
 
 
-[Store.CreateUnifiedGroup Method (Outlook)](Outlook.store.createunifiedgroup.md)
+[Store.CreateUnifiedGroup method (Outlook)](Outlook.store.createunifiedgroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

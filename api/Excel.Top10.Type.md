@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Top10.Type property (Excel)
 
-Returns one of the constants of the  **[xlFormatConditionType](Excel.XlFormatConditionType.md)** enumeration, which specifies the type of conditional format. Read-only.
+Returns one of the constants of the  **[XlFormatConditionType](Excel.XlFormatConditionType.md)** enumeration, which specifies the type of conditional format. Read-only.
 
 
 ## Syntax
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## Remarks

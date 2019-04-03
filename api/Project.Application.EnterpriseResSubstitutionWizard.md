@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseResSubstitutionWizard Method (Project)
+title: Application.EnterpriseResSubstitutionWizard method (Project)
 keywords: vbapj.chm2123
 f1_keywords:
 - vbapj.chm2123
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseResSubstitutionWizard Method (Project)
+# Application.EnterpriseResSubstitutionWizard method (Project)
 
 Runs the  **Resource Substitution Wizard**. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `EnterpriseResSubstitutionWizard`( `_ProjectList_`, `_PoolOption_`, `_RBSorResourceList_`, `_FreezeHorizonDate_`, `_UpdateProjects_`, `_SaveReport_`, `_Path_`, `_AssignProposedResources_`, `_LevelProposedBookings_` )
+_expression_. `EnterpriseResSubstitutionWizard`( `_ProjectList_`, `_PoolOption_`, `_RBSorResourceList_`, `_FreezeHorizonDate_`, `_UpdateProjects_`, `_SaveReport_`, `_Path_`, `_AssignProposedResources_`, `_LevelProposedBookings_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

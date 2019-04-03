@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.WordWrap Property (Outlook)
+title: OlkCheckBox.WordWrap property (Outlook)
 keywords: vbaol11.chm1000146
 f1_keywords:
 - vbaol11.chm1000146
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.WordWrap Property (Outlook)
+# OlkCheckBox.WordWrap property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
 _expression_. `WordWrap`
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.Name Method (PowerPoint)
+title: SectionProperties.Name method (PowerPoint)
 keywords: vbapp10.chm725004
 f1_keywords:
 - vbapp10.chm725004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.Name Method (PowerPoint)
+# SectionProperties.Name method (PowerPoint)
 
 Returns the name of the specified section as a  **String**.
 

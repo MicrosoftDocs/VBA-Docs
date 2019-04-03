@@ -1,5 +1,5 @@
 ---
-title: Cell.Select Method (Publisher)
+title: Cell.Select method (Publisher)
 keywords: vbapb10.chm5111843
 f1_keywords:
 - vbapb10.chm5111843
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.Select Method (Publisher)
+# Cell.Select method (Publisher)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. **Select**
+ _expression_.**Select**
 
  _expression_ A variable that represents a  **Cell** object.
 

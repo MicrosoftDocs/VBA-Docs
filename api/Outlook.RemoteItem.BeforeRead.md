@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.BeforeRead Event (Outlook)
+title: RemoteItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.BeforeRead Event (Outlook)
+# RemoteItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 
@@ -18,7 +18,7 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
 _expression_. `BeforeRead`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks

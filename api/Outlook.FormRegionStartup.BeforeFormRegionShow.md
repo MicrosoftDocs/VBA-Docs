@@ -1,5 +1,5 @@
 ---
-title: FormRegionStartup.BeforeFormRegionShow Method (Outlook)
+title: FormRegionStartup.BeforeFormRegionShow method (Outlook)
 keywords: vbaol11.chm2947
 f1_keywords:
 - vbaol11.chm2947
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegionStartup.BeforeFormRegionShow Method (Outlook)
+# FormRegionStartup.BeforeFormRegionShow method (Outlook)
 
 Allows an add-in to update the user interface of a form region before it is displayed. 
 

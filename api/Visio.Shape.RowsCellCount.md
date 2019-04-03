@@ -1,5 +1,5 @@
 ---
-title: Shape.RowsCellCount Property (Visio)
+title: Shape.RowsCellCount property (Visio)
 keywords: vis_sdr.chm11214265
 f1_keywords:
 - vis_sdr.chm11214265
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.RowsCellCount Property (Visio)
+# Shape.RowsCellCount property (Visio)
 
 Returns the number of cells in a row of a ShapeSheet section. Read-only.
 
 
 ## Syntax
 
- _expression_. `RowsCellCount`( `_Section_` , `_Row_` )
+_expression_. `RowsCellCount`( `_Section_` , `_Row_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

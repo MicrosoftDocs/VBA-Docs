@@ -1,5 +1,5 @@
 ---
-title: MsoAnimFilterEffectType Enumeration (PowerPoint)
+title: MsoAnimFilterEffectType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimFilterEffectType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimFilterEffectType Enumeration (PowerPoint)
+# MsoAnimFilterEffectType enumeration (PowerPoint)
 
 Constants that specify the type of animation filter effect, passed to and returned by the  **Type** property of the **FilterEffect** object.
 

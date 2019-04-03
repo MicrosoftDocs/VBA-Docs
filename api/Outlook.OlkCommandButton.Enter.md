@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.Enter Event (Outlook)
+title: OlkCommandButton.Enter event (Outlook)
 keywords: vbaol11.chm1000125
 f1_keywords:
 - vbaol11.chm1000125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.Enter Event (Outlook)
+# OlkCommandButton.Enter event (Outlook)
 
 Occurs before the control actually receives the focus from a control on the same form.
 
@@ -21,7 +21,7 @@ Occurs before the control actually receives the focus from a control on the same
 
 _expression_.**Enter**
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## See also

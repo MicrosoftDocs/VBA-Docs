@@ -1,5 +1,5 @@
 ---
-title: VisAutoLinkBehaviors Enumeration (Visio)
+title: VisAutoLinkBehaviors enumeration (Visio)
 keywords: vis_sdr.chm70535
 f1_keywords:
 - vis_sdr.chm70535
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisAutoLinkBehaviors Enumeration (Visio)
+# VisAutoLinkBehaviors enumeration (Visio)
 
 Linking behavior constants passed to the  **[Selection.AutomaticLink](Visio.Selection.AutomaticLink.md)** method.
 

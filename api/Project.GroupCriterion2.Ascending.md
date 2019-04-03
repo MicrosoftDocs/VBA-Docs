@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion2.Ascending Property (Project)
+title: GroupCriterion2.Ascending property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.Ascending
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion2.Ascending Property (Project)
+# GroupCriterion2.Ascending property (Project)
 
  **True** if a field used as a criterion in a **Group2** definition is sorted in ascending order. **False** if the field is sorted in descending order. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Ascending`
+_expression_. `Ascending`
 
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 

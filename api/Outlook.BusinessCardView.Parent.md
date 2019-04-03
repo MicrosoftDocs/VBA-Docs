@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Parent Property (Outlook)
+title: BusinessCardView.Parent property (Outlook)
 keywords: vbaol11.chm2920
 f1_keywords:
 - vbaol11.chm2920
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Parent Property (Outlook)
+# BusinessCardView.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+_expression_ A variable that represents a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: PpMouseActivation Enumeration (PowerPoint)
+title: PpMouseActivation enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpMouseActivation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpMouseActivation Enumeration (PowerPoint)
+# PpMouseActivation enumeration (PowerPoint)
 
 The action setting for a  **MouseClick** or **MouseOver** event.
 

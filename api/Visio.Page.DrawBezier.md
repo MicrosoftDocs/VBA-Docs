@@ -1,5 +1,5 @@
 ---
-title: Page.DrawBezier Method (Visio)
+title: Page.DrawBezier method (Visio)
 keywords: vis_sdr.chm10916195
 f1_keywords:
 - vis_sdr.chm10916195
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.DrawBezier Method (Visio)
+# Page.DrawBezier method (Visio)
 
 Creates a shape whose path is defined by the supplied sequence of Bezier control points.
 
 
 ## Syntax
 
- _expression_. `DrawBezier`( `_xyArray()_` , `_degree_` , `_Flags_` )
+_expression_. `DrawBezier`( `_xyArray()_` , `_degree_` , `_Flags_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

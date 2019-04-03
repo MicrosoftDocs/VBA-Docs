@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs.Item Method (Publisher)
+title: ObjectVerbs.Item method (Publisher)
 keywords: vbapb10.chm4521984
 f1_keywords:
 - vbapb10.chm4521984
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ObjectVerbs.Item Method (Publisher)
+# ObjectVerbs.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents an  **ObjectVerbs** object.
 

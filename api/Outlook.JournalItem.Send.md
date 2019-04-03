@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Send Event (Outlook)
+title: JournalItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Send
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Send Event (Outlook)
+# JournalItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **Send** action for an item (which is an insta
 
 _expression_. `Send`( `_Cancel_` )
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Parameters

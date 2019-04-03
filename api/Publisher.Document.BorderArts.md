@@ -1,5 +1,5 @@
 ---
-title: Document.BorderArts Property (Publisher)
+title: Document.BorderArts property (Publisher)
 keywords: vbapb10.chm196721
 f1_keywords:
 - vbapb10.chm196721
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.BorderArts Property (Publisher)
+# Document.BorderArts property (Publisher)
 
 Returns a  **[BorderArts](Publisher.BorderArts.md)** collection that represents the BorderArt types available for use in the specified publication. Read-only.
 
 
 ## Syntax
 
- _expression_. **BorderArts**
+ _expression_.**BorderArts**
 
  _expression_ A variable that represents a  **Document** object.
 

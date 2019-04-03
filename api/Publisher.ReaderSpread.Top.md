@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread.Top Property (Publisher)
+title: ReaderSpread.Top property (Publisher)
 keywords: vbapb10.chm524292
 f1_keywords:
 - vbapb10.chm524292
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ReaderSpread.Top Property (Publisher)
+# ReaderSpread.Top property (Publisher)
 
 Returns the a  **Single** that represents the distance (in points) from the top edge of the workspace to the top edge of the page. Read-only.
 
 
 ## Syntax
 
- _expression_. **Top**
+ _expression_.**Top**
 
  _expression_ A variable that represents a  **ReaderSpread** object.
 

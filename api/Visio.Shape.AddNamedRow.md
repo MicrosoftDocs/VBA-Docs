@@ -1,5 +1,5 @@
 ---
-title: Shape.AddNamedRow Method (Visio)
+title: Shape.AddNamedRow method (Visio)
 keywords: vis_sdr.chm11216045
 f1_keywords:
 - vis_sdr.chm11216045
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.AddNamedRow Method (Visio)
+# Shape.AddNamedRow method (Visio)
 
 Adds a row that has the specified name to the specified ShapeSheet section.
 
 
 ## Syntax
 
- _expression_. `AddNamedRow`( `_Section_` , `_RowName_` , `_RowTag_` )
+_expression_. `AddNamedRow`( `_Section_` , `_RowName_` , `_RowTag_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Field.Type Property (Publisher)
+title: Field.Type property (Publisher)
 keywords: vbapb10.chm6094853
 f1_keywords:
 - vbapb10.chm6094853
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Field.Type Property (Publisher)
+# Field.Type property (Publisher)
 
 Specifies the field type. Read-only.
 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **Field** object.
 

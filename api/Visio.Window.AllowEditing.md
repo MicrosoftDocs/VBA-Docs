@@ -1,5 +1,5 @@
 ---
-title: Window.AllowEditing Property (Visio)
+title: Window.AllowEditing property (Visio)
 keywords: vis_sdr.chm11650505
 f1_keywords:
 - vis_sdr.chm11650505
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.AllowEditing Property (Visio)
+# Window.AllowEditing property (Visio)
 
 Determines whether the  **Edit Stencil** command is enabled or disabled in a stencil window. Read/write.
 
 
 ## Syntax
 
- _expression_. `AllowEditing`
+_expression_. `AllowEditing`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Documents Property (Publisher)
+title: Application.Documents property (Publisher)
 keywords: vbapb10.chm131174
 f1_keywords:
 - vbapb10.chm131174
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Documents Property (Publisher)
+# Application.Documents property (Publisher)
 
 Returns a  **[Documents](Publisher.Documents.md)** collection that represents all open publications. Read-only.
 
 
 ## Syntax
 
- _expression_. **Documents**
+ _expression_.**Documents**
 
  _expression_ A variable that represents a  **Application** object.
 

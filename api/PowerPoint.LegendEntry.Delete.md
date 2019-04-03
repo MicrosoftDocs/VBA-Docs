@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Delete Method (PowerPoint)
+title: LegendEntry.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntry.Delete Method (PowerPoint)
+# LegendEntry.Delete method (PowerPoint)
 
 Deletes the object.
 

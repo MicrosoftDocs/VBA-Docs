@@ -1,5 +1,5 @@
 ---
-title: TextStyleLevels.Item Method (PowerPoint)
+title: TextStyleLevels.Item method (PowerPoint)
 keywords: vbapp10.chm580003
 f1_keywords:
 - vbapp10.chm580003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyleLevels.Item Method (PowerPoint)
+# TextStyleLevels.Item method (PowerPoint)
 
 Returns a single text style level from the specified  **TextStyleLevels** collection.
 

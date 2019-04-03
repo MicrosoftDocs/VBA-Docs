@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Duplicate Method (Publisher)
+title: ParagraphFormat.Duplicate method (Publisher)
 keywords: vbapb10.chm5439510
 f1_keywords:
 - vbapb10.chm5439510
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Duplicate Method (Publisher)
+# ParagraphFormat.Duplicate method (Publisher)
 
 Creates a duplicate of the specified  **[ParagraphFormat](Publisher.ParagraphFormat.md)** object and then returns the new **ParagraphFormat** object.
 
 
 ## Syntax
 
- _expression_. **Duplicate**
+ _expression_.**Duplicate**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ShowCheckFullNameDialog Method (Outlook)
+title: ContactItem.ShowCheckFullNameDialog method (Outlook)
 keywords: vbaol11.chm3593
 f1_keywords:
 - vbaol11.chm3593
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ShowCheckFullNameDialog Method (Outlook)
+# ContactItem.ShowCheckFullNameDialog method (Outlook)
 Displays the  **Check Full Name** dialog box to verify name details of the contact.
 
 ## Version information
@@ -22,7 +22,7 @@ Version Added: Outlook 2013
 
 _expression_. `ShowCheckFullNameDialog`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

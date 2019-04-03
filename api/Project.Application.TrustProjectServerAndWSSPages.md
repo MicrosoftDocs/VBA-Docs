@@ -1,5 +1,5 @@
 ---
-title: Application.TrustProjectServerAndWSSPages Property (Project)
+title: Application.TrustProjectServerAndWSSPages property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.TrustProjectServerAndWSSPages
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TrustProjectServerAndWSSPages Property (Project)
+# Application.TrustProjectServerAndWSSPages property (Project)
 
 Gets or sets a value that indicates whether Web pages in Project Web App and SharePoint sites for project workspaces are trusted. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TrustProjectServerAndWSSPages`
+_expression_. `TrustProjectServerAndWSSPages`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.NumberOfTasks Property (Project)
+title: Project.NumberOfTasks property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.NumberOfTasks
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.NumberOfTasks Property (Project)
+# Project.NumberOfTasks property (Project)
 
 Gets the number of tasks in a project, not including blank entries. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `NumberOfTasks`
+_expression_. `NumberOfTasks`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

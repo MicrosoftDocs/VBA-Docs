@@ -1,5 +1,5 @@
 ---
-title: Conversation.MarkAsUnread Method (Outlook)
+title: Conversation.MarkAsUnread method (Outlook)
 keywords: vbaol11.chm3443
 f1_keywords:
 - vbaol11.chm3443
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.MarkAsUnread Method (Outlook)
+# Conversation.MarkAsUnread method (Outlook)
 
 Marks all items in the conversation as unread.
 

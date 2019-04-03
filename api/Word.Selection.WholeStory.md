@@ -19,7 +19,7 @@ Expands a selection to include the entire story.
 
 ## Syntax
 
- _expression_. `WholeStory`
+_expression_. `WholeStory`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

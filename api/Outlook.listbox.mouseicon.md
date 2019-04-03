@@ -14,7 +14,7 @@ Returns a  **String** that represents the full path name of a custom icon that i
 
 ## Syntax
 
-_expression_. **MouseIcon**
+_expression_.**MouseIcon**
 
 _expression_ A variable that represents a  **ListBox** object.
 

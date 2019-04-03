@@ -1,5 +1,5 @@
 ---
-title: ConversationHeader Object (Outlook)
+title: ConversationHeader object (Outlook)
 keywords: vbaol11.chm3549
 f1_keywords:
 - vbaol11.chm3549
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConversationHeader Object (Outlook)
+# ConversationHeader object (Outlook)
 
 Represents a Microsoft Outlook conversation header in a Conversation view.
 
@@ -58,6 +58,6 @@ In Outlook, a conversation groups messages that share the same subject and belon
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

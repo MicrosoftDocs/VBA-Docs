@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.DeleteSetAndInstances Method (Publisher)
+title: WebNavigationBarSet.DeleteSetAndInstances method (Publisher)
 keywords: vbapb10.chm8519683
 f1_keywords:
 - vbapb10.chm8519683
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.DeleteSetAndInstances Method (Publisher)
+# WebNavigationBarSet.DeleteSetAndInstances method (Publisher)
 
 Deletes a Web navigation bar set and all instances of it in the current document.
 
 
 ## Syntax
 
- _expression_. **DeleteSetAndInstances**
+ _expression_.**DeleteSetAndInstances**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 

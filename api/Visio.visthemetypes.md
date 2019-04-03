@@ -1,5 +1,5 @@
 ---
-title: VisThemeTypes Enumeration (Visio)
+title: VisThemeTypes enumeration (Visio)
 keywords: vis_sdr.chm70520
 f1_keywords:
 - vis_sdr.chm70520
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisThemeTypes Enumeration (Visio)
+# VisThemeTypes enumeration (Visio)
 
 Theme types passed to the  **Document.GetThemeNames** and **Document.GetThemeNamesU** methods, as well as the **Page.GetTheme** method.
 

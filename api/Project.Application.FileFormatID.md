@@ -1,5 +1,5 @@
 ---
-title: Application.FileFormatID Property (Project)
+title: Application.FileFormatID property (Project)
 keywords: vbapj.chm131218
 f1_keywords:
 - vbapj.chm131218
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FileFormatID Property (Project)
+# Application.FileFormatID property (Project)
 
 Gets a value that indicates the file format for the specified project. Possible formats are those that Project can directly open as a project file. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `FileFormatID`( `_Name_`, `_UserID_`, `_DatabasePassWord_` )
+_expression_. `FileFormatID`( `_Name_`, `_UserID_`, `_DatabasePassWord_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

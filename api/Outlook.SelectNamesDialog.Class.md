@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.Class Property (Outlook)
+title: SelectNamesDialog.Class property (Outlook)
 keywords: vbaol11.chm822
 f1_keywords:
 - vbaol11.chm822
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.Class Property (Outlook)
+# SelectNamesDialog.Class property (Outlook)
 
 Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumera
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## See also

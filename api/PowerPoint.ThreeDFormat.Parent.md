@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Parent Property (PowerPoint)
+title: ThreeDFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm557001
 f1_keywords:
 - vbapp10.chm557001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Parent Property (PowerPoint)
+# ThreeDFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

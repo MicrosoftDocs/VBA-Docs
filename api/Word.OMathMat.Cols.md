@@ -19,7 +19,7 @@ Returns an  **[OMathMatCols](Word.OMathMatCols.md)** collection that represents 
 
 ## Syntax
 
- _expression_. `Cols`
+_expression_. `Cols`
 
  _expression_ An expression that returns an '[OMathMat](Word.OMathMat.md)' object.
 

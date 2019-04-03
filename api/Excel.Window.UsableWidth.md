@@ -21,7 +21,7 @@ Returns the maximum width of the space that a window can occupy in the applicati
 
 _expression_. `UsableWidth`
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example

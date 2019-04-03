@@ -1,5 +1,5 @@
 ---
-title: PjVisualReportsTab Enumeration (Project)
+title: PjVisualReportsTab enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjVisualReportsTab
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjVisualReportsTab Enumeration (Project)
+# PjVisualReportsTab enumeration (Project)
 
 Contains constants that specify which tab in the  **Visual Reports - Create Report** dialog box to display.
 

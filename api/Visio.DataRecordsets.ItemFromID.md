@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.ItemFromID Property (Visio)
+title: DataRecordsets.ItemFromID property (Visio)
 keywords: vis_sdr.chm16313775
 f1_keywords:
 - vis_sdr.chm16313775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.ItemFromID Property (Visio)
+# DataRecordsets.ItemFromID property (Visio)
 
 Returns a  **DataRecordset** object from the **DataRecordsets** collection by using the unique ID of the object. Read-only.
 
@@ -22,7 +22,7 @@ Returns a  **DataRecordset** object from the **DataRecordsets** collection by us
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_ID_` )
+_expression_. `ItemFromID`( `_ID_` )
 
  _expression_ A variable that represents a [DataRecordsets](./Visio.DataRecordsets.md) object.
 

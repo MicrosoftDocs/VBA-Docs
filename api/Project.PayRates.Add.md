@@ -1,5 +1,5 @@
 ---
-title: PayRates.Add Method (Project)
+title: PayRates.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRates.Add
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# PayRates.Add Method (Project)
+# PayRates.Add method (Project)
 
 Adds a  **PayRate** object to a **PayRates** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_EffectiveDate_`, `_StdRate_`, `_OvtRate_`, `_CostPerUse_` )
+ _expression_.**Add**( `_EffectiveDate_`, `_StdRate_`, `_OvtRate_`, `_CostPerUse_` )
 
  _expression_ A variable that represents a 'PayRates' object.
 

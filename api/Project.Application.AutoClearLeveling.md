@@ -1,5 +1,5 @@
 ---
-title: Application.AutoClearLeveling Property (Project)
+title: Application.AutoClearLeveling property (Project)
 keywords: vbapj.chm131400
 f1_keywords:
 - vbapj.chm131400
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AutoClearLeveling Property (Project)
+# Application.AutoClearLeveling property (Project)
 
  **True** if Project clears old leveling values before leveling. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoClearLeveling`
+_expression_. `AutoClearLeveling`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

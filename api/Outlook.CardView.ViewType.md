@@ -1,5 +1,5 @@
 ---
-title: CardView.ViewType Property (Outlook)
+title: CardView.ViewType property (Outlook)
 keywords: vbaol11.chm2593
 f1_keywords:
 - vbaol11.chm2593
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.ViewType Property (Outlook)
+# CardView.ViewType property (Outlook)
 
 Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the view type of the view. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the 
 
 _expression_. `ViewType`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## See also

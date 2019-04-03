@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartTitle.Position property (Excel)
 
-Returns or sets the position of the chart title on the chart. Read/write  **[xlChartElementPosition](Excel.XlChartElementPosition.md)**.
+Returns or sets the position of the chart title on the chart. Read/write  **[XlChartElementPosition](Excel.XlChartElementPosition.md)**.
 
 
 ## Syntax

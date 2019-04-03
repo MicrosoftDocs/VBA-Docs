@@ -1,5 +1,5 @@
 ---
-title: WebOptions.ShowOnlyWebFonts Property (Publisher)
+title: WebOptions.ShowOnlyWebFonts property (Publisher)
 keywords: vbapb10.chm8257544
 f1_keywords:
 - vbapb10.chm8257544
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebOptions.ShowOnlyWebFonts Property (Publisher)
+# WebOptions.ShowOnlyWebFonts property (Publisher)
 
 Returns or sets a **Boolean** value that specifies whether only Web-safe fonts and font schemes should be used when the Web site is viewed in a browser. If **True**, only Web-safe fonts and font schemes are used. If  **False**, display is not limited to Web-safe fonts and font schemes. The default value is  **False**. Read/write.
 
 
 ## Syntax
 
- _expression_. **ShowOnlyWebFonts**
+ _expression_.**ShowOnlyWebFonts**
 
  _expression_ A variable that represents a  **WebOptions** object.
 

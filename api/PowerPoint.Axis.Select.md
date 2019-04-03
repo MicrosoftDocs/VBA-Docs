@@ -1,5 +1,5 @@
 ---
-title: Axis.Select Method (PowerPoint)
+title: Axis.Select method (PowerPoint)
 keywords: vbapp10.chm682027
 f1_keywords:
 - vbapp10.chm682027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.Select Method (PowerPoint)
+# Axis.Select method (PowerPoint)
 
 Selects the object.
 

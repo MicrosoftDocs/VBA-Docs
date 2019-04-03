@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveWindow Method (Outlook)
+title: Application.ActiveWindow method (Outlook)
 keywords: vbaol11.chm726
 f1_keywords:
 - vbaol11.chm726
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveWindow Method (Outlook)
+# Application.ActiveWindow method (Outlook)
 
 Returns an object representing the current Microsoft Outlook window on the desktop, either an  **[Explorer](Outlook.Explorer.md)** or an **[Inspector](Outlook.Inspector.md)** object.
 
@@ -21,7 +21,7 @@ Returns an object representing the current Microsoft Outlook window on the deskt
 
 _expression_. `ActiveWindow`
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Return value

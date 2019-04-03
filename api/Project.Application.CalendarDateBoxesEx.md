@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarDateBoxesEx Method (Project)
+title: Application.CalendarDateBoxesEx method (Project)
 keywords: vbapj.chm2148
 f1_keywords:
 - vbapj.chm2148
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarDateBoxesEx Method (Project)
+# Application.CalendarDateBoxesEx method (Project)
 
 Customizes the top and bottom bands of date boxes in the Calendar view.
 
 
 ## Syntax
 
- _expression_. `CalendarDateBoxesEx`( `_TopLeft_`, `_TopRight_`, `_BottomLeft_`, `_BottomRight_`, `_TopColor_`, `_BottomColor_`, `_TopPattern_`, `_BottomPattern_` )
+_expression_. `CalendarDateBoxesEx`( `_TopLeft_`, `_TopRight_`, `_BottomLeft_`, `_BottomRight_`, `_TopColor_`, `_BottomColor_`, `_TopPattern_`, `_BottomPattern_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

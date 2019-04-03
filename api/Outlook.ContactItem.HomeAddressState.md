@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HomeAddressState Property (Outlook)
+title: ContactItem.HomeAddressState property (Outlook)
 keywords: vbaol11.chm1017
 f1_keywords:
 - vbaol11.chm1017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HomeAddressState Property (Outlook)
+# ContactItem.HomeAddressState property (Outlook)
 
 Returns or sets a  **String** representing the state portion of the home address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the state portion of the home address
 
 _expression_. `HomeAddressState`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

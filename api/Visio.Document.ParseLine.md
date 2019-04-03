@@ -1,5 +1,5 @@
 ---
-title: Document.ParseLine Method (Visio)
+title: Document.ParseLine method (Visio)
 keywords: vis_sdr.chm10516425
 f1_keywords:
 - vis_sdr.chm10516425
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ParseLine Method (Visio)
+# Document.ParseLine method (Visio)
 
 Parses a line of Microsoft Visual Basic code.
 
 
 ## Syntax
 
- _expression_. `ParseLine`( `_Line_` )
+_expression_. `ParseLine`( `_Line_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Name Property (PowerPoint)
+title: DataLabels.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.Name Property (PowerPoint)
+# DataLabels.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

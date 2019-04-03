@@ -1,5 +1,5 @@
 ---
-title: Assignment.Duration1 Property (Project)
+title: Assignment.Duration1 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Duration1
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Duration1 Property (Project)
+# Assignment.Duration1 property (Project)
 
  Gets or sets the value of an assignment duration custom field. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Duration1`
+_expression_. `Duration1`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

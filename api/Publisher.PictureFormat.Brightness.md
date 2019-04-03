@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Brightness Property (Publisher)
+title: PictureFormat.Brightness property (Publisher)
 keywords: vbapb10.chm3604736
 f1_keywords:
 - vbapb10.chm3604736
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Brightness Property (Publisher)
+# PictureFormat.Brightness property (Publisher)
 
 Returns or sets a  **Single** indicating the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write.
 
 
 ## Syntax
 
- _expression_. **Brightness**
+ _expression_.**Brightness**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

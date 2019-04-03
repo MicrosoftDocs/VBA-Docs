@@ -1,5 +1,5 @@
 ---
-title: TableField Object (Project)
+title: TableField object (Project)
 ms.prod: project-server
 api_name:
 - Project.TableField
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TableField Object (Project)
+# TableField object (Project)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Angle Property (PowerPoint)
+title: CalloutFormat.Angle property (PowerPoint)
 keywords: vbapp10.chm559007
 f1_keywords:
 - vbapp10.chm559007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Angle Property (PowerPoint)
+# CalloutFormat.Angle property (PowerPoint)
 
 Returns or sets the angle of the callout line. If the callout line contains more than one line segment, this property returns or sets the angle of the segment that is farthest from the callout text box. Read/write.
 
 
 ## Syntax
 
- _expression_. `Angle`
+_expression_. `Angle`
 
 _expression_ A variable that represents an [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
@@ -46,7 +46,7 @@ The value of the  **Angle** property can be one of these **MsoCalloutAngleType**
 
 ## Example
 
-This example sets to 90 degrees the callout angle for a callout named "co1" on  `myDocument`.
+This example sets to 90 degrees the callout angle for a callout named "co1" on  _myDocument_.
 
 
 ```vb

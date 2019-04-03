@@ -1,5 +1,5 @@
 ---
-title: Views.Parent Property (Project)
+title: Views.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Views.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Views.Parent Property (Project)
+# Views.Parent property (Project)
 
 Gets the parent of the  **Views** object. Read-only **Project**.
 

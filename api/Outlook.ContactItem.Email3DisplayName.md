@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email3DisplayName Property (Outlook)
+title: ContactItem.Email3DisplayName property (Outlook)
 keywords: vbaol11.chm1001
 f1_keywords:
 - vbaol11.chm1001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Email3DisplayName Property (Outlook)
+# ContactItem.Email3DisplayName property (Outlook)
 
 Returns a  **String** representing the display name of the third email entry for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the display name of the third email entry for
 
 _expression_. `Email3DisplayName`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

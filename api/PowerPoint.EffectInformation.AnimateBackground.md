@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.AnimateBackground Property (PowerPoint)
+title: EffectInformation.AnimateBackground property (PowerPoint)
 keywords: vbapp10.chm655004
 f1_keywords:
 - vbapp10.chm655004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EffectInformation.AnimateBackground Property (PowerPoint)
+# EffectInformation.AnimateBackground property (PowerPoint)
 
 Returns  **msoTrue** if the specified effect is a background animation. Read-only.
 
 
 ## Syntax
 
- _expression_. `AnimateBackground`
+_expression_. `AnimateBackground`
 
 _expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
 

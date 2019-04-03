@@ -21,7 +21,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the active
 
 _expression_. `ActiveCell`
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks

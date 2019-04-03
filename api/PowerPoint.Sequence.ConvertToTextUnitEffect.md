@@ -1,5 +1,5 @@
 ---
-title: Sequence.ConvertToTextUnitEffect Method (PowerPoint)
+title: Sequence.ConvertToTextUnitEffect method (PowerPoint)
 keywords: vbapp10.chm651012
 f1_keywords:
 - vbapp10.chm651012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Sequence.ConvertToTextUnitEffect Method (PowerPoint)
+# Sequence.ConvertToTextUnitEffect method (PowerPoint)
 
 Returns an  **[Effect](PowerPoint.Effect.md)** object that represents how text should be animated.
 
 
 ## Syntax
 
- _expression_. `ConvertToTextUnitEffect`( `_Effect_`, `_unitEffect_` )
+_expression_. `ConvertToTextUnitEffect`( `_Effect_`, `_unitEffect_` )
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 

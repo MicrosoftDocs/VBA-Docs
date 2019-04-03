@@ -1,5 +1,5 @@
 ---
-title: Document.Close Method (Visio)
+title: Document.Close method (Visio)
 keywords: vis_sdr.chm10516125
 f1_keywords:
 - vis_sdr.chm10516125
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Close Method (Visio)
+# Document.Close method (Visio)
 
 Closes a document.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

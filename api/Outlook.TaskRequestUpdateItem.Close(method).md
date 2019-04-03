@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Close Method (Outlook)
+title: TaskRequestUpdateItem.Close method (Outlook)
 keywords: vbaol11.chm1947
 f1_keywords:
 - vbaol11.chm1947
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Close Method (Outlook)
+# TaskRequestUpdateItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 
 
 ## Syntax
 
- _expression_. `Close`( `_SaveMode_` )
+_expression_. `Close`( `_SaveMode_` )
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters

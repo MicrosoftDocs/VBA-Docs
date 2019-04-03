@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Class Property (Outlook)
+title: FormRegion.Class property (Outlook)
 keywords: vbaol11.chm2386
 f1_keywords:
 - vbaol11.chm2386
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Class Property (Outlook)
+# FormRegion.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## See also

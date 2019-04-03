@@ -1,5 +1,5 @@
 ---
-title: Application.CalculateAll Method (Project)
+title: Application.CalculateAll method (Project)
 keywords: vbapj.chm607
 f1_keywords:
 - vbapj.chm607
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CalculateAll Method (Project)
+# Application.CalculateAll method (Project)
 
 Calculates all open projects.
 
 
 ## Syntax
 
- _expression_. `CalculateAll`
+_expression_. `CalculateAll`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.BoldBi Property (Publisher)
+title: Font.BoldBi property (Publisher)
 keywords: vbapb10.chm5373956
 f1_keywords:
 - vbapb10.chm5373956
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.BoldBi Property (Publisher)
+# Font.BoldBi property (Publisher)
 
 Returns or sets an  **MsoTriState**constant indicating whether the font is bold; used with text in a right-to-left language. Read/write.
 
 
 ## Syntax
 
- _expression_. **BoldBi**
+ _expression_.**BoldBi**
 
  _expression_ A variable that represents a  **Font** object.
 

@@ -1,5 +1,5 @@
 ---
-title: PrintablePlates Object (Publisher)
+title: PrintablePlates object (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.PrintablePlates
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PrintablePlates Object (Publisher)
+# PrintablePlates object (Publisher)
 
 This object or member is deprecated and is not intended to be used in your code.
 

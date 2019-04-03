@@ -1,5 +1,5 @@
 ---
-title: Document.TextStyles Property (Publisher)
+title: Document.TextStyles property (Publisher)
 keywords: vbapb10.chm196662
 f1_keywords:
 - vbapb10.chm196662
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.TextStyles Property (Publisher)
+# Document.TextStyles property (Publisher)
 
 Returns a  **[TextStyles](Publisher.TextStyles.md)** collection that contains a publication's text styles.
 
 
 ## Syntax
 
- _expression_. **TextStyles**
+ _expression_.**TextStyles**
 
  _expression_ A variable that represents a  **Document** object.
 

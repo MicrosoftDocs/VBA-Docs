@@ -1,5 +1,5 @@
 ---
-title: Shape.SectionExists Property (Visio)
+title: Shape.SectionExists property (Visio)
 keywords: vis_sdr.chm11214305
 f1_keywords:
 - vis_sdr.chm11214305
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.SectionExists Property (Visio)
+# Shape.SectionExists property (Visio)
 
 Determines whether a ShapeSheet section exists for a particular shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `SectionExists`( `_Section_` , `_fExistsLocally_` )
+_expression_. `SectionExists`( `_Section_` , `_fExistsLocally_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

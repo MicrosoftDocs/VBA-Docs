@@ -1,5 +1,5 @@
 ---
-title: Project.AndMoveCompleted Property (Project)
+title: Project.AndMoveCompleted property (Project)
 keywords: vbapj.chm131076
 f1_keywords:
 - vbapj.chm131076
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.AndMoveCompleted Property (Project)
+# Project.AndMoveCompleted property (Project)
 
  **True** if the actual, completed portion of a task that is scheduled before the status date is moved to end at the status date. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AndMoveCompleted`
+_expression_. `AndMoveCompleted`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

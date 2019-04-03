@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Copy Method (Visio)
+title: Hyperlink.Copy method (Visio)
 keywords: vis_sdr.chm15016145
 f1_keywords:
 - vis_sdr.chm15016145
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Copy Method (Visio)
+# Hyperlink.Copy method (Visio)
 
 Copies a hyperlink to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

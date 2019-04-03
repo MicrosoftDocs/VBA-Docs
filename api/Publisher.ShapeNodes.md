@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes Object (Publisher)
+title: ShapeNodes object (Publisher)
 keywords: vbapb10.chm3538943
 f1_keywords:
 - vbapb10.chm3538943
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes Object (Publisher)
+# ShapeNodes object (Publisher)
 
 A collection of all the  **[ShapeNode](Publisher.ShapeNode.md)** objects in the specified freeform. Each **ShapeNode** object represents either a node between segments in a freeform or a control point for a curved segment of a freeform. You can create a freeform manually or by using the **[BuildFreeform](Publisher.Shapes.BuildFreeform.md)** and **[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)** methods.
  

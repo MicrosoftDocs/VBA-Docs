@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # ChartFont.Background property (Word)
 
-Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[xlBackground](Word.xlbackground.md)**.
+Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[XlBackground](Word.xlbackground.md)**.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
  _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 

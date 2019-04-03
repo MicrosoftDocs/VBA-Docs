@@ -1,5 +1,5 @@
 ---
-title: Document.Template Property (Visio)
+title: Document.Template property (Visio)
 keywords: vis_sdr.chm10514505
 f1_keywords:
 - vis_sdr.chm10514505
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Template Property (Visio)
+# Document.Template property (Visio)
 
 Returns the name of the template from which the document was created. Read-only.
 
 
 ## Syntax
 
- _expression_. `Template`
+_expression_. `Template`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

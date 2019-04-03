@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.OriginalResolution Property (Publisher)
+title: PictureFormat.OriginalResolution property (Publisher)
 keywords: vbapb10.chm3604776
 f1_keywords:
 - vbapb10.chm3604776
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.OriginalResolution Property (Publisher)
+# PictureFormat.OriginalResolution property (Publisher)
 
 Returns a  **Long** that represents, in dots per inch (dpi), the resolution at which the linked picture was originally scanned. Read-only.
 
 
 ## Syntax
 
- _expression_. **OriginalResolution**
+ _expression_.**OriginalResolution**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

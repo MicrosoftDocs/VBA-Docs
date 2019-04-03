@@ -43,6 +43,6 @@ You cannot add fields to the  **MailMergeDataFields** collection. All data field
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

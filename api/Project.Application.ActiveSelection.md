@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveSelection Property (Project)
+title: Application.ActiveSelection property (Project)
 keywords: vbapj.chm131378
 f1_keywords:
 - vbapj.chm131378
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveSelection Property (Project)
+# Application.ActiveSelection property (Project)
 
 Gets a  **[Selection](Project.Selection.md)** object that represents the active selection. Read-only **Selection**.
 
 
 ## Syntax
 
- _expression_. `ActiveSelection`
+_expression_. `ActiveSelection`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

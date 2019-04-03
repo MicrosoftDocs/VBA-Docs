@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.Picture Property (Outlook)
+title: OlkCommandButton.Picture property (Outlook)
 keywords: vbaol11.chm1000496
 f1_keywords:
 - vbaol11.chm1000496
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.Picture Property (Outlook)
+# OlkCommandButton.Picture property (Outlook)
 
 Returns or sets a  **StdPicture** value that represents the picture that is displayed on the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **StdPicture** value that represents the picture that is disp
 
 _expression_. `Picture`
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns an  **[XmlNamespace](Excel.XmlNamespace.md)** object that represents the
 
 _expression_. `Namespace`
 
-_expression_ A variable that represents a [XmlSchema](./Excel.XmlSchema.md) object.
+_expression_ A variable that represents a [XmlSchema](Excel.XmlSchema.md) object.
 
 
 ## See also

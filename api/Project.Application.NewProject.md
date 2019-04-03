@@ -1,5 +1,5 @@
 ---
-title: Application.NewProject Event (Project)
+title: Application.NewProject event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.NewProject
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.NewProject Event (Project)
+# Application.NewProject event (Project)
 
 Occurs when a new project is created, including the default project that is created each time Project starts.
 
 
 ## Syntax
 
- _expression_. `NewProject`( `_pj_` )
+_expression_. `NewProject`( `_pj_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

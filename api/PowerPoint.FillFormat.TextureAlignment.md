@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureAlignment Property (PowerPoint)
+title: FillFormat.TextureAlignment property (PowerPoint)
 keywords: vbapp10.chm552028
 f1_keywords:
 - vbapp10.chm552028
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureAlignment Property (PowerPoint)
+# FillFormat.TextureAlignment property (PowerPoint)
 
 Returns or sets the alignment (the origin of the coordinate grid) for the tiling of the texture fill. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextureAlignment`
+_expression_. `TextureAlignment`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 

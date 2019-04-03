@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.Exit Event (Outlook)
+title: OlkDateControl.Exit event (Outlook)
 keywords: vbaol11.chm1000368
 f1_keywords:
 - vbaol11.chm1000368
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.Exit Event (Outlook)
+# OlkDateControl.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 
 
 ## Syntax
 
-_expression_. **Exit** (**_Cancel_**)
+_expression_.**Exit** (**_Cancel_**)
 
 _expression_ A variable that represents an **OlkDateControl** object.
 

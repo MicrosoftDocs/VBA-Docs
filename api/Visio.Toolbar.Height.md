@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Height Property (Visio)
+title: Toolbar.Height property (Visio)
 keywords: vis_sdr.chm13713615
 f1_keywords:
 - vis_sdr.chm13713615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.Height Property (Visio)
+# Toolbar.Height property (Visio)
 
 Gets or sets the height of a toolbar. Read/write.
 

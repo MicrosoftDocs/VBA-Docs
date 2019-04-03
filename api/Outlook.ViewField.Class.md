@@ -1,5 +1,5 @@
 ---
-title: ViewField.Class Property (Outlook)
+title: ViewField.Class property (Outlook)
 keywords: vbaol11.chm2540
 f1_keywords:
 - vbaol11.chm2540
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewField.Class Property (Outlook)
+# ViewField.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_.**Class**
 
-_expression_ A variable that represents a [ViewField](./Outlook.ViewField.md) object.
+_expression_ A variable that represents a [ViewField](Outlook.ViewField.md) object.
 
 
 ## See also

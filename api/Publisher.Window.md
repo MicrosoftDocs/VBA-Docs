@@ -1,5 +1,5 @@
 ---
-title: Window Object (Publisher)
+title: Window object (Publisher)
 keywords: vbapb10.chm327679
 f1_keywords:
 - vbapb10.chm327679
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window Object (Publisher)
+# Window object (Publisher)
 
 Represents a window. Many publication characteristics, such as scroll bars and rulers, are actually properties of the window.
  

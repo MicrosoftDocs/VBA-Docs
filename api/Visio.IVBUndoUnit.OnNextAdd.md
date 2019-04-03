@@ -1,5 +1,5 @@
 ---
-title: IVBUndoUnit.OnNextAdd Method (Visio)
+title: IVBUndoUnit.OnNextAdd method (Visio)
 keywords: vis_sdr.chm17360160
 f1_keywords:
 - vis_sdr.chm17360160
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# IVBUndoUnit.OnNextAdd Method (Visio)
+# IVBUndoUnit.OnNextAdd method (Visio)
 
 Notifies an undo unit that another undo unit has been added to the undo stack. Returns  **Nothing**.
 
 
 ## Syntax
 
- _expression_. `OnNextAdd`
+_expression_. `OnNextAdd`
 
  _expression_ A variable that represents an 'IVBUndoUnit' object.
 

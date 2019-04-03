@@ -1,5 +1,5 @@
 ---
-title: Application.EditGoTo Method (Project)
+title: Application.EditGoTo method (Project)
 keywords: vbapj.chm213
 f1_keywords:
 - vbapj.chm213
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EditGoTo Method (Project)
+# Application.EditGoTo method (Project)
 
 Scrolls to a resource, task, or date.
 
 
 ## Syntax
 
- _expression_. `EditGoTo`( `_ID_`, `_Date_` )
+_expression_. `EditGoTo`( `_ID_`, `_Date_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

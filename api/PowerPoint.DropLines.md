@@ -1,5 +1,5 @@
 ---
-title: DropLines Object (PowerPoint)
+title: DropLines object (PowerPoint)
 keywords: vbapp10.chm701000
 f1_keywords:
 - vbapp10.chm701000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropLines Object (PowerPoint)
+# DropLines object (PowerPoint)
 
 Represents the drop lines in a chart group.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.InsertFromFile Method (Visio)
+title: Shape.InsertFromFile method (Visio)
 keywords: vis_sdr.chm11216365
 f1_keywords:
 - vis_sdr.chm11216365
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.InsertFromFile Method (Visio)
+# Shape.InsertFromFile method (Visio)
 
 Adds a linked or embedded object to a page, master, or group.
 
 
 ## Syntax
 
- _expression_. `InsertFromFile`( `_FileName_` , `_Flags_` )
+_expression_. `InsertFromFile`( `_FileName_` , `_Flags_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

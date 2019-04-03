@@ -1,5 +1,5 @@
 ---
-title: CardView.Standard Property (Outlook)
+title: CardView.Standard property (Outlook)
 keywords: vbaol11.chm2592
 f1_keywords:
 - vbaol11.chm2592
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Standard Property (Outlook)
+# CardView.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[CardView](Outlook.CardView.md)** object is a built-in Outlook view. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[CardView](Outlook.Car
 
 _expression_. `Standard`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks

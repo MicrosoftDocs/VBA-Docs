@@ -1,5 +1,5 @@
 ---
-title: SharingItem.LastModificationTime Property (Outlook)
+title: SharingItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm610
 f1_keywords:
 - vbaol11.chm610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.LastModificationTime Property (Outlook)
+# SharingItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the **[SharingItem](Outlook.SharingItem.md)** was last modified. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** specifying the date and time that the **[SharingItem](Outloo
 
 _expression_. `LastModificationTime`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: PostItem.ConversationTopic Property (Outlook)
+title: PostItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1520
 f1_keywords:
 - vbaol11.chm1520
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ConversationTopic Property (Outlook)
+# PostItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the topic of the conversation thread of the O
 
 _expression_. `ConversationTopic`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

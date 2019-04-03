@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.AnimateTextInReverse Property (PowerPoint)
+title: EffectInformation.AnimateTextInReverse property (PowerPoint)
 keywords: vbapp10.chm655005
 f1_keywords:
 - vbapp10.chm655005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EffectInformation.AnimateTextInReverse Property (PowerPoint)
+# EffectInformation.AnimateTextInReverse property (PowerPoint)
 
 Determines whether the specified shape is built in reverse order. Applies only to shapes (such as shapes containing lists) that can be built in more than one step. Read/write.
 
 
 ## Syntax
 
- _expression_. `AnimateTextInReverse`
+_expression_. `AnimateTextInReverse`
 
 _expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
 

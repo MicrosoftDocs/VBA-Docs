@@ -21,7 +21,7 @@ Returns or sets the location of the horizontal window split, in points. Read/wri
 
 _expression_. `SplitHorizontal`
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example

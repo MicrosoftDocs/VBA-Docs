@@ -1,5 +1,5 @@
 ---
-title: Document.WebNavigationBarSets Property (Publisher)
+title: Document.WebNavigationBarSets property (Publisher)
 keywords: vbapb10.chm196741
 f1_keywords:
 - vbapb10.chm196741
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.WebNavigationBarSets Property (Publisher)
+# Document.WebNavigationBarSets property (Publisher)
 
 Returns a  **WebNavigationBarSets** object representing a collection of all **WebNavigationBarSet** objects in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. **WebNavigationBarSets**
+ _expression_.**WebNavigationBarSets**
 
  _expression_ A variable that represents a  **Document** object.
 

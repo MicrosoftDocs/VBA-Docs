@@ -1,5 +1,5 @@
 ---
-title: OlActionCopyLike Enumeration (Outlook)
+title: OlActionCopyLike enumeration (Outlook)
 keywords: vbaol11.chm3048
 f1_keywords:
 - vbaol11.chm3048
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlActionCopyLike Enumeration (Outlook)
+# OlActionCopyLike enumeration (Outlook)
 
 Specifies how item properties will be copied.
 

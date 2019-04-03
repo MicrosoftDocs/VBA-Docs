@@ -1,5 +1,5 @@
 ---
-title: Master.DataGraphicVerticalPosition Property (Visio)
+title: Master.DataGraphicVerticalPosition property (Visio)
 keywords: vis_sdr.chm10760130
 f1_keywords:
 - vis_sdr.chm10760130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DataGraphicVerticalPosition Property (Visio)
+# Master.DataGraphicVerticalPosition property (Visio)
 
 Gets or sets the default vertical callout position for members of the  **GraphicItems** collection of the **Master** object of type **visTypeDataGraphic**. Read/write.
 
@@ -22,7 +22,7 @@ Gets or sets the default vertical callout position for members of the  **Graphic
 
 ## Syntax
 
- _expression_. `DataGraphicVerticalPosition`
+_expression_. `DataGraphicVerticalPosition`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 

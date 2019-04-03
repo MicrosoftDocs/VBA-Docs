@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ViewChanged Event (Visio)
+title: InvisibleApp.ViewChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ViewChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ViewChanged Event (Visio)
+# InvisibleApp.ViewChanged event (Visio)
 
 Occurs when the zoom level or scroll position of a drawing window changes.
 

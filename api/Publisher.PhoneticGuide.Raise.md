@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide.Raise Property (Publisher)
+title: PhoneticGuide.Raise property (Publisher)
 keywords: vbapb10.chm6160389
 f1_keywords:
 - vbapb10.chm6160389
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PhoneticGuide.Raise Property (Publisher)
+# PhoneticGuide.Raise property (Publisher)
 
 Returns a  **Variant** indicating the distance between the top of the base text and the bottom of the guide text. Read-only.
 
 
 ## Syntax
 
- _expression_. **Raise**
+ _expression_.**Raise**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 

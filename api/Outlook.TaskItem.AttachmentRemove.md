@@ -1,5 +1,5 @@
 ---
-title: TaskItem.AttachmentRemove Event (Outlook)
+title: TaskItem.AttachmentRemove event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.AttachmentRemove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.AttachmentRemove Event (Outlook)
+# TaskItem.AttachmentRemove event (Outlook)
 
 Occurs when an attachment has been removed from an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been removed from an instance of the parent object
 
 _expression_. `AttachmentRemove`( `_Attachment_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

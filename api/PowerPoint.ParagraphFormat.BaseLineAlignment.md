@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.BaseLineAlignment Property (PowerPoint)
+title: ParagraphFormat.BaseLineAlignment property (PowerPoint)
 keywords: vbapp10.chm576011
 f1_keywords:
 - vbapp10.chm576011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.BaseLineAlignment Property (PowerPoint)
+# ParagraphFormat.BaseLineAlignment property (PowerPoint)
 
 Returns or sets the base line alignment for the specified paragraph. Read/write.
 
 
 ## Syntax
 
- _expression_. `BaseLineAlignment`
+_expression_. `BaseLineAlignment`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 

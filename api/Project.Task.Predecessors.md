@@ -1,5 +1,5 @@
 ---
-title: Task.Predecessors Property (Project)
+title: Task.Predecessors property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Predecessors
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Predecessors Property (Project)
+# Task.Predecessors property (Project)
 
 Gets or sets a list of the identification numbers of a task's predecessors. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Predecessors`
+_expression_. `Predecessors`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

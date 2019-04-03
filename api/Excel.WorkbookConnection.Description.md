@@ -21,7 +21,7 @@ Returns or sets a brief description for a  **WorkbookConnection** object. Read/w
 
 _expression_. `Description`
 
-_expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## Remarks

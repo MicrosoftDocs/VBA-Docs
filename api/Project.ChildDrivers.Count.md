@@ -1,5 +1,5 @@
 ---
-title: ChildDrivers.Count Property (Project)
+title: ChildDrivers.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.ChildDrivers.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChildDrivers.Count Property (Project)
+# ChildDrivers.Count property (Project)
 
 Gets the number of items in the  **[ChildDrivers](Project.childdrivers.md)** collection. Read-only **Long**.
 

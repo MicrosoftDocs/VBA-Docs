@@ -1,5 +1,5 @@
 ---
-title: VisWinTypes Enumeration (Visio)
+title: VisWinTypes enumeration (Visio)
 keywords: vis_sdr.chm70005
 f1_keywords:
 - vis_sdr.chm70005
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisWinTypes Enumeration (Visio)
+# VisWinTypes enumeration (Visio)
 
 Type and ID codes returned by  **Window.Type**, **Window.SubType**, and **Window.ID**.
 

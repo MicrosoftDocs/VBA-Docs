@@ -1,5 +1,5 @@
 ---
-title: Resource.UniqueID Property (Project)
+title: Resource.UniqueID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.UniqueID
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.UniqueID Property (Project)
+# Resource.UniqueID property (Project)
 
 Gets the unique identification number of the resource. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `UniqueID`
+_expression_. `UniqueID`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

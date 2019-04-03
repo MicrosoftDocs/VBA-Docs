@@ -1,5 +1,5 @@
 ---
-title: Application.ObjectChangeIcon Method (Project)
+title: Application.ObjectChangeIcon method (Project)
 keywords: vbapj.chm235
 f1_keywords:
 - vbapj.chm235
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ObjectChangeIcon Method (Project)
+# Application.ObjectChangeIcon method (Project)
 
 Displays the  **Change Icon** dialog box to enable changing the icon of an active bitmap or drawing object that is added in a Gantt chart or other view.
 
 
 ## Syntax
 
- _expression_. `ObjectChangeIcon`
+_expression_. `ObjectChangeIcon`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

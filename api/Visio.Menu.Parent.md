@@ -1,5 +1,5 @@
 ---
-title: Menu.Parent Property (Visio)
+title: Menu.Parent property (Visio)
 keywords: vis_sdr.chm13114040
 f1_keywords:
 - vis_sdr.chm13114040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menu.Parent Property (Visio)
+# Menu.Parent property (Visio)
 
 Determines the parent of an object. Read-only.
 

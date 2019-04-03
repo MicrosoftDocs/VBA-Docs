@@ -1,5 +1,5 @@
 ---
-title: PageSize.PageHeight Property (Publisher)
+title: PageSize.PageHeight property (Publisher)
 keywords: vbapb10.chm8847365
 f1_keywords:
 - vbapb10.chm8847365
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSize.PageHeight Property (Publisher)
+# PageSize.PageHeight property (Publisher)
 
 Gets or sets the page height of the blank page size represented by the parent  **PageSize** object. Read/write.
 
 
 ## Syntax
 
- _expression_. **PageHeight**
+ _expression_.**PageHeight**
 
  _expression_ A variable that represents a  **PageSize** object.
 

@@ -1,5 +1,5 @@
 ---
-title: MenuItems Object (Visio)
+title: MenuItems object (Visio)
 keywords: vis_sdr.chm10160
 f1_keywords:
 - vis_sdr.chm10160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItems Object (Visio)
+# MenuItems object (Visio)
 
  Contains a **MenuItem** object for each command on a Microsoft Visio menu.
 

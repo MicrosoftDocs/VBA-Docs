@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.IsUnifiedGroup Method (Outlook)
+title: ExchangeUser.IsUnifiedGroup method (Outlook)
 keywords: vbaol11.chm3622
 f1_keywords:
 - vbaol11.chm3622
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.IsUnifiedGroup Method (Outlook)
+# ExchangeUser.IsUnifiedGroup method (Outlook)
 
 Determines if the object is a unified group.
 
@@ -19,7 +19,7 @@ Determines if the object is a unified group.
 
 _expression_. `IsUnifiedGroup`
 
-_expression_ A variable that represents a [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents a [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectResourceNew Event (Project)
+title: Application.ProjectResourceNew event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectResourceNew
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectResourceNew Event (Project)
+# Application.ProjectResourceNew event (Project)
 
 Occurs before one or more resources is created.
 
 
 ## Syntax
 
- _expression_. `ProjectResourceNew`( `_pj_`, `_ID_` )
+_expression_. `ProjectResourceNew`( `_pj_`, `_ID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

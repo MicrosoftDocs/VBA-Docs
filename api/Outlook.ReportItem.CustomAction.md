@@ -1,5 +1,5 @@
 ---
-title: ReportItem.CustomAction Event (Outlook)
+title: ReportItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.CustomAction Event (Outlook)
+# ReportItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 
@@ -18,7 +18,7 @@ Occurs when a custom action of an item (which is an instance of the parent objec
 
 _expression_. `CustomAction`( `_Action_` , `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Parameters

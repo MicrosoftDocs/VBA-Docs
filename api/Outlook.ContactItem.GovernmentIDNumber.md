@@ -1,5 +1,5 @@
 ---
-title: ContactItem.GovernmentIDNumber Property (Outlook)
+title: ContactItem.GovernmentIDNumber property (Outlook)
 keywords: vbaol11.chm1009
 f1_keywords:
 - vbaol11.chm1009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.GovernmentIDNumber Property (Outlook)
+# ContactItem.GovernmentIDNumber property (Outlook)
 
 Returns or sets a  **String** representing the government ID number for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the government ID number for the cont
 
 _expression_. `GovernmentIDNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

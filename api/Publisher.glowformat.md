@@ -1,5 +1,5 @@
 ---
-title: GlowFormat Object (Publisher)
+title: GlowFormat object (Publisher)
 keywords: vbapb10.chm9699327
 f1_keywords:
 - vbapb10.chm9699327
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# GlowFormat Object (Publisher)
+# GlowFormat object (Publisher)
 
 Represents the glow formatting for a shape or a range of shapes.
  

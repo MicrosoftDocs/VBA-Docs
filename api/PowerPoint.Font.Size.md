@@ -1,5 +1,5 @@
 ---
-title: Font.Size Property (PowerPoint)
+title: Font.Size property (PowerPoint)
 keywords: vbapp10.chm575014
 f1_keywords:
 - vbapp10.chm575014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Size Property (PowerPoint)
+# Font.Size property (PowerPoint)
 
 Returns or sets the character size, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 

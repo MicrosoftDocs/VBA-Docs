@@ -1,5 +1,5 @@
 ---
-title: Axes.Count Property (PowerPoint)
+title: Axes.Count property (PowerPoint)
 keywords: vbapp10.chm681001
 f1_keywords:
 - vbapp10.chm681001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axes.Count Property (PowerPoint)
+# Axes.Count property (PowerPoint)
 
 Returns the number of objects in the collection. Read-only  **Long**.
 

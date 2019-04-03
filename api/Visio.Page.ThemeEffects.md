@@ -1,5 +1,5 @@
 ---
-title: Page.ThemeEffects Property (Visio)
+title: Page.ThemeEffects property (Visio)
 keywords: vis_sdr.chm10960185
 f1_keywords:
 - vis_sdr.chm10960185
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.ThemeEffects Property (Visio)
+# Page.ThemeEffects property (Visio)
 
 Gets or sets the current theme effect for the page. Read/write.
 
 
 ## Syntax
 
- _expression_. `ThemeEffects`
+_expression_. `ThemeEffects`
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 

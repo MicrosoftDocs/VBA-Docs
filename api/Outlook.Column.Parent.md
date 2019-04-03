@@ -1,5 +1,5 @@
 ---
-title: Column.Parent Property (Outlook)
+title: Column.Parent property (Outlook)
 keywords: vbaol11.chm2748
 f1_keywords:
 - vbaol11.chm2748
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Parent Property (Outlook)
+# Column.Parent property (Outlook)
 
 Returns the parent object of the  **[Column](Outlook.Column.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent object of the  **[Column](Outlook.Column.md)** object. Read-o
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Column](./Outlook.Column.md) object.
+_expression_ A variable that represents a [Column](Outlook.Column.md) object.
 
 
 ## See also

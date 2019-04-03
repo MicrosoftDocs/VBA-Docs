@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Subject Property (Outlook)
+title: TaskRequestAcceptItem.Subject property (Outlook)
 keywords: vbaol11.chm1797
 f1_keywords:
 - vbaol11.chm1797
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Subject Property (Outlook)
+# TaskRequestAcceptItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
 _expression_. `Subject`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

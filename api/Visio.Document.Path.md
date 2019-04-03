@@ -1,5 +1,5 @@
 ---
-title: Document.Path Property (Visio)
+title: Document.Path property (Visio)
 keywords: vis_sdr.chm10514050
 f1_keywords:
 - vis_sdr.chm10514050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Path Property (Visio)
+# Document.Path property (Visio)
 
 Returns the drive and folder path of the Microsoft Visio document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserTextured Method (Publisher)
+title: FillFormat.UserTextured method (Publisher)
 keywords: vbapb10.chm2359320
 f1_keywords:
 - vbapb10.chm2359320
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.UserTextured Method (Publisher)
+# FillFormat.UserTextured method (Publisher)
 
 Fills the specified shape with small tiles of an image.
 
 
 ## Syntax
 
- _expression_. **UserTextured**(**_TextureFile_**)
+ _expression_.**UserTextured**(**_TextureFile_**)
 
  _expression_ A variable that represents a  **FillFormat** object.
 

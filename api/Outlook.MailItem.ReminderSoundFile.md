@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReminderSoundFile Property (Outlook)
+title: MailItem.ReminderSoundFile property (Outlook)
 keywords: vbaol11.chm1351
 f1_keywords:
 - vbaol11.chm1351
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ReminderSoundFile Property (Outlook)
+# MailItem.ReminderSoundFile property (Outlook)
 
 Returns or sets a  **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 _expression_. `ReminderSoundFile`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

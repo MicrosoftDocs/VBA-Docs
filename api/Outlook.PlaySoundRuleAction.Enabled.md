@@ -1,5 +1,5 @@
 ---
-title: PlaySoundRuleAction.Enabled Property (Outlook)
+title: PlaySoundRuleAction.Enabled property (Outlook)
 keywords: vbaol11.chm2275
 f1_keywords:
 - vbaol11.chm2275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySoundRuleAction.Enabled Property (Outlook)
+# PlaySoundRuleAction.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule action is enabled. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that determines if the rule action is enabled. Re
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents a [PlaySoundRuleAction](./Outlook.PlaySoundRuleAction.md) object.
+_expression_ A variable that represents a [PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md) object.
 
 
 ## Remarks

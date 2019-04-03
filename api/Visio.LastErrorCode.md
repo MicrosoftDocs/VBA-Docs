@@ -16,9 +16,9 @@ Gets the last error code returned by Microsoft Visio Viewer. Read-only.
 
 ## Syntax
 
- _expression_. **LastErrorCode**
+ _expression_.**LastErrorCode**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value

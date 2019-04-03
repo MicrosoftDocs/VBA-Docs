@@ -1,5 +1,5 @@
 ---
-title: SharingItem.CC Property (Outlook)
+title: SharingItem.CC property (Outlook)
 keywords: vbaol11.chm634
 f1_keywords:
 - vbaol11.chm634
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.CC Property (Outlook)
+# SharingItem.CC property (Outlook)
 
 Returns a  **String** representing the display list of carbon copy (CC) names for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the display list of carbon copy (CC) names fo
 
 _expression_. `CC`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

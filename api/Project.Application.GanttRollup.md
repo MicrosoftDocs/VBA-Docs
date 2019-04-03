@@ -1,5 +1,5 @@
 ---
-title: Application.GanttRollup Method (Project)
+title: Application.GanttRollup method (Project)
 keywords: vbapj.chm2119
 f1_keywords:
 - vbapj.chm2119
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttRollup Method (Project)
+# Application.GanttRollup method (Project)
 
 Specifies the rollup behavior of bars on the Gantt Chart.
 
 
 ## Syntax
 
- _expression_. `GanttRollup`( `_AlwaysRollup_`, `_HideWhenSummaryExpanded_` )
+_expression_. `GanttRollup`( `_AlwaysRollup_`, `_HideWhenSummaryExpanded_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

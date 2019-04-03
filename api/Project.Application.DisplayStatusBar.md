@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayStatusBar Property (Project)
+title: Application.DisplayStatusBar property (Project)
 keywords: vbapj.chm131752
 f1_keywords:
 - vbapj.chm131752
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayStatusBar Property (Project)
+# Application.DisplayStatusBar property (Project)
 
  **True** if the status bar is displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayStatusBar`
+_expression_. `DisplayStatusBar`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

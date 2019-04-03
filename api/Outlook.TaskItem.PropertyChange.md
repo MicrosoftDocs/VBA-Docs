@@ -1,5 +1,5 @@
 ---
-title: TaskItem.PropertyChange Event (Outlook)
+title: TaskItem.PropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.PropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.PropertyChange Event (Outlook)
+# TaskItem.PropertyChange event (Outlook)
 
 Occurs when an explicit built-in property (for example,  **[Subject](Outlook.TaskItem.Subject.md)**) of an instance of the parent object is changed.
 
@@ -18,7 +18,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.Tas
 
 _expression_. `PropertyChange`( `_Name_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

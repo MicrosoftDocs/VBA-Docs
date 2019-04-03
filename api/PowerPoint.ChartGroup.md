@@ -1,5 +1,5 @@
 ---
-title: ChartGroup Object (PowerPoint)
+title: ChartGroup object (PowerPoint)
 keywords: vbapp10.chm692000
 f1_keywords:
 - vbapp10.chm692000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup Object (PowerPoint)
+# ChartGroup object (PowerPoint)
 
 Represents one or more series plotted in a chart with the same format.
 

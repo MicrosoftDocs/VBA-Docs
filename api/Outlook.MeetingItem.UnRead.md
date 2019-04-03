@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.UnRead Property (Outlook)
+title: MeetingItem.UnRead property (Outlook)
 keywords: vbaol11.chm1426
 f1_keywords:
 - vbaol11.chm1426
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.UnRead Property (Outlook)
+# MeetingItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 
 _expression_. `UnRead`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

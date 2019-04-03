@@ -1,5 +1,5 @@
 ---
-title: Account.AutoDiscoverXml Property (Outlook)
+title: Account.AutoDiscoverXml property (Outlook)
 keywords: vbaol11.chm3422
 f1_keywords:
 - vbaol11.chm3422
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.AutoDiscoverXml Property (Outlook)
+# Account.AutoDiscoverXml property (Outlook)
 
 Returns a  **String** that represents information in XML retrieved from the auto-discovery service of the Microsoft Exchange Server that is associated with the account. Read-only.
 

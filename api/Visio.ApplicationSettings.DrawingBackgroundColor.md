@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.DrawingBackgroundColor Property (Visio)
+title: ApplicationSettings.DrawingBackgroundColor property (Visio)
 keywords: vis_sdr.chm16251810
 f1_keywords:
 - vis_sdr.chm16251810
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.DrawingBackgroundColor Property (Visio)
+# ApplicationSettings.DrawingBackgroundColor property (Visio)
 
 Determines the background color of the Microsoft Visio drawing window for the current session. Read/write.
 
 
 ## Syntax
 
- _expression_. `DrawingBackgroundColor`
+_expression_. `DrawingBackgroundColor`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

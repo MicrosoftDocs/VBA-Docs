@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverablesGetXml Method (Project)
+title: Project.DeliverablesGetXml method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverablesGetXml
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverablesGetXml Method (Project)
+# Project.DeliverablesGetXml method (Project)
 
 Gets the XML data from Project Professional for all of the deliverables and dependencies in a project.
 
 
 ## Syntax
 
- _expression_. `DeliverablesGetXml`
+_expression_. `DeliverablesGetXml`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

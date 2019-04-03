@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ReadComplete Event (Outlook)
+title: AppointmentItem.ReadComplete event (Outlook)
 ms.assetid: 749e8d58-c15c-0b63-5486-cc2aa2190638
 ms.date: 06/08/2017
 ms.prod: outlook
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ReadComplete Event (Outlook)
+# AppointmentItem.ReadComplete event (Outlook)
 Occurs when Outlook has completed reading the properties of the item.
 
 ## Syntax
 
 _expression_. `ReadComplete`_(Cancel)_
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Selection.GetContainers Method (Visio)
+title: Selection.GetContainers method (Visio)
 keywords: vis_sdr.chm11162165
 f1_keywords:
 - vis_sdr.chm11162165
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.GetContainers Method (Visio)
+# Selection.GetContainers method (Visio)
 
 Returns an array of shape identifiers (IDs) of the container shapes in the selection.
 
 
 ## Syntax
 
- _expression_. `GetContainers`( `_NestedOptions_` )
+_expression_. `GetContainers`( `_NestedOptions_` )
 
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 

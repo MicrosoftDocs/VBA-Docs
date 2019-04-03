@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Font Property (Outlook)
+title: OlkTimeControl.Font property (Outlook)
 keywords: vbaol11.chm1000385
 f1_keywords:
 - vbaol11.chm1000385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Font Property (Outlook)
+# OlkTimeControl.Font property (Outlook)
 
 Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **StdFont** that represents the font used to render the text inside t
 
 _expression_.**Font**
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

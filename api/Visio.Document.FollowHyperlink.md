@@ -1,5 +1,5 @@
 ---
-title: Document.FollowHyperlink Method (Visio)
+title: Document.FollowHyperlink method (Visio)
 keywords: vis_sdr.chm10516295
 f1_keywords:
 - vis_sdr.chm10516295
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.FollowHyperlink Method (Visio)
+# Document.FollowHyperlink method (Visio)
 
 Navigates to an arbitrary hyperlink.
 
 
 ## Syntax
 
- _expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_ExtraInfo_` , `_Frame_` , `_NewWindow_` , `_res1_` , `_res2_` , `_res3_` )
+_expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_ExtraInfo_` , `_Frame_` , `_NewWindow_` , `_res1_` , `_res2_` , `_res3_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

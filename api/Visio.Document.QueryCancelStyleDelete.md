@@ -1,5 +1,5 @@
 ---
-title: Document.QueryCancelStyleDelete Event (Visio)
+title: Document.QueryCancelStyleDelete event (Visio)
 keywords: vis_sdr.chm10519305
 f1_keywords:
 - vis_sdr.chm10519305
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.QueryCancelStyleDelete Event (Visio)
+# Document.QueryCancelStyleDelete event (Visio)
 
 Occurs before the application deletes a style in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

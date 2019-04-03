@@ -1,5 +1,5 @@
 ---
-title: Event.Enabled Property (Visio)
+title: Event.Enabled property (Visio)
 keywords: vis_sdr.chm12613455
 f1_keywords:
 - vis_sdr.chm12613455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.Enabled Property (Visio)
+# Event.Enabled property (Visio)
 
 Determines whether or not an  **Event** object is currently enabled. Read/write.
 

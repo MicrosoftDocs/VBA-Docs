@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.CalendarDetail Property (Outlook)
+title: CalendarSharing.CalendarDetail property (Outlook)
 keywords: vbaol11.chm2413
 f1_keywords:
 - vbaol11.chm2413
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarSharing.CalendarDetail Property (Outlook)
+# CalendarSharing.CalendarDetail property (Outlook)
 
 Returns or sets an  **[OlCalendarDetail](Outlook.OlCalendarDetail.md)** value indicating the level of detail for calendar items included in the iCalendar (.ics) file created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** or **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** methods of the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlCalendarDetail](Outlook.OlCalendarDetail.md)** value in
 
 _expression_. `CalendarDetail`
 
- _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
+ _expression_ An expression that returns a [CalendarSharing](Outlook.CalendarSharing.md) object.
 
 
 ## Return value

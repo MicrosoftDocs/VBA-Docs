@@ -1,5 +1,5 @@
 ---
-title: Assignment.Start4 Property (Project)
+title: Assignment.Start4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Start4
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Start4 Property (Project)
+# Assignment.Start4 property (Project)
 
 Gets or sets a Start local custom field for the assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Start4`
+_expression_. `Start4`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

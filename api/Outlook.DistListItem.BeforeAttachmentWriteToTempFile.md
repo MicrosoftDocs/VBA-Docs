@@ -1,5 +1,5 @@
 ---
-title: DistListItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+title: DistListItem.BeforeAttachmentWriteToTempFile event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAttachmentWriteToTempFile
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+# DistListItem.BeforeAttachmentWriteToTempFile event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is written to a temporary file.
 
@@ -18,7 +18,7 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 _expression_. `BeforeAttachmentWriteToTempFile`( `_Attachment_` , `_Cancel_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

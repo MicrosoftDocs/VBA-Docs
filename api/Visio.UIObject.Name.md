@@ -1,5 +1,5 @@
 ---
-title: UIObject.Name Property (Visio)
+title: UIObject.Name property (Visio)
 keywords: vis_sdr.chm14913930
 f1_keywords:
 - vis_sdr.chm14913930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UIObject.Name Property (Visio)
+# UIObject.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

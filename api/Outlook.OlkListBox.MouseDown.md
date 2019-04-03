@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.MouseDown Event (Outlook)
+title: OlkListBox.MouseDown event (Outlook)
 keywords: vbaol11.chm1000282
 f1_keywords:
 - vbaol11.chm1000282
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.MouseDown Event (Outlook)
+# OlkListBox.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 
@@ -21,7 +21,7 @@ Occurs when the user presses a mouse button on the control.
 
 _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Parameters

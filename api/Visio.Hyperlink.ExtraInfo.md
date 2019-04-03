@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.ExtraInfo Property (Visio)
+title: Hyperlink.ExtraInfo property (Visio)
 keywords: vis_sdr.chm15013490
 f1_keywords:
 - vis_sdr.chm15013490
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.ExtraInfo Property (Visio)
+# Hyperlink.ExtraInfo property (Visio)
 
 Returns or sets extra URL request information used to resolve the hyperlink's URL. Read/write.
 
 
 ## Syntax
 
- _expression_. `ExtraInfo`
+_expression_. `ExtraInfo`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

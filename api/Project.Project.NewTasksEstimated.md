@@ -1,5 +1,5 @@
 ---
-title: Project.NewTasksEstimated Property (Project)
+title: Project.NewTasksEstimated property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.NewTasksEstimated
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.NewTasksEstimated Property (Project)
+# Project.NewTasksEstimated property (Project)
 
  **True** if new tasks in the active project have estimated durations. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `NewTasksEstimated`
+_expression_. `NewTasksEstimated`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

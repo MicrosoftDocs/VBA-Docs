@@ -1,5 +1,5 @@
 ---
-title: Task.ActualStart Property (Project)
+title: Task.ActualStart property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ActualStart
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.ActualStart Property (Project)
+# Task.ActualStart property (Project)
 
 Gets or sets the actual start date of the task. Read-only for summary tasks. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualStart`
+_expression_. `ActualStart`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

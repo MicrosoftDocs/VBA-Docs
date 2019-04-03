@@ -1,5 +1,5 @@
 ---
-title: Document.BuildNumberCreated Property (Visio)
+title: Document.BuildNumberCreated property (Visio)
 keywords: vis_sdr.chm10550520
 f1_keywords:
 - vis_sdr.chm10550520
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.BuildNumberCreated Property (Visio)
+# Document.BuildNumberCreated property (Visio)
 
 Returns the build number of the instance used to create the document. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuildNumberCreated`
+_expression_. `BuildNumberCreated`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

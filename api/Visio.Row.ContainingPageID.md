@@ -1,5 +1,5 @@
 ---
-title: Row.ContainingPageID Property (Visio)
+title: Row.ContainingPageID property (Visio)
 keywords: vis_sdr.chm15851695
 f1_keywords:
 - vis_sdr.chm15851695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.ContainingPageID Property (Visio)
+# Row.ContainingPageID property (Visio)
 
 Returns the ID of the page that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingPageID`
+_expression_. `ContainingPageID`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

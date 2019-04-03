@@ -1,5 +1,5 @@
 ---
-title: Selection.RemoveFromContainers Method (Visio)
+title: Selection.RemoveFromContainers method (Visio)
 keywords: vis_sdr.chm11162220
 f1_keywords:
 - vis_sdr.chm11162220
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.RemoveFromContainers Method (Visio)
+# Selection.RemoveFromContainers method (Visio)
 
 Removes the selection of shapes from all lists and containers of which the selection is a member.
 
 
 ## Syntax
 
- _expression_. `RemoveFromContainers`
+_expression_. `RemoveFromContainers`
 
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 

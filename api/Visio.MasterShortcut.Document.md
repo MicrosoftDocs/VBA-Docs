@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.Document Property (Visio)
+title: MasterShortcut.Document property (Visio)
 keywords: vis_sdr.chm16013430
 f1_keywords:
 - vis_sdr.chm16013430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.Document Property (Visio)
+# MasterShortcut.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.RotateWithShape Property (Publisher)
+title: ShadowFormat.RotateWithShape property (Publisher)
 keywords: vbapb10.chm3670288
 f1_keywords:
 - vbapb10.chm3670288
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.RotateWithShape Property (Publisher)
+# ShadowFormat.RotateWithShape property (Publisher)
 
 Returns or sets an  **MsoTriState** constant that represents whether to rotate the shadow when rotating the shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **RotateWithShape**
+ _expression_.**RotateWithShape**
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 

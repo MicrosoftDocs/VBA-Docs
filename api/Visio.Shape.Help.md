@@ -1,5 +1,5 @@
 ---
-title: Shape.Help Property (Visio)
+title: Shape.Help property (Visio)
 keywords: vis_sdr.chm11213620
 f1_keywords:
 - vis_sdr.chm11213620
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Help Property (Visio)
+# Shape.Help property (Visio)
 
 Gets or sets the Help string for a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `Help`
+_expression_. `Help`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

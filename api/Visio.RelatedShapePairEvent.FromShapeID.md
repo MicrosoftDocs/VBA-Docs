@@ -1,5 +1,5 @@
 ---
-title: RelatedShapePairEvent.FromShapeID Property (Visio)
+title: RelatedShapePairEvent.FromShapeID property (Visio)
 keywords: vis_sdr.chm17762580
 f1_keywords:
 - vis_sdr.chm17762580
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# RelatedShapePairEvent.FromShapeID Property (Visio)
+# RelatedShapePairEvent.FromShapeID property (Visio)
 
 Returns the identifier of the first (container or callout) shape in the related shape pair. Read-only.
 
 
 ## Syntax
 
- _expression_. `FromShapeID`
+_expression_. `FromShapeID`
 
  _expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
 

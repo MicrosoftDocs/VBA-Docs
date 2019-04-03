@@ -1,5 +1,5 @@
 ---
-title: Timing.Duration Property (PowerPoint)
+title: Timing.Duration property (PowerPoint)
 keywords: vbapp10.chm653003
 f1_keywords:
 - vbapp10.chm653003
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Timing.Duration Property (PowerPoint)
+# Timing.Duration property (PowerPoint)
 
 Returns or sets the length of an animation in seconds. Read/write.
 
 
 ## Syntax
 
- _expression_. `Duration`
+_expression_. `Duration`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

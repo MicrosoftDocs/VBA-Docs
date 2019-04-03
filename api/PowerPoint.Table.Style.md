@@ -1,5 +1,5 @@
 ---
-title: Table.Style Property (PowerPoint)
+title: Table.Style property (PowerPoint)
 keywords: vbapp10.chm622014
 f1_keywords:
 - vbapp10.chm622014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.Style Property (PowerPoint)
+# Table.Style property (PowerPoint)
 
 Returns a  **[TableStyle](PowerPoint.TableStyle.md)** object that contains information about the specified table's current table style. Read-only.
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

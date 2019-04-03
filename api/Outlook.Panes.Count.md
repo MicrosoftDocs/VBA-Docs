@@ -1,5 +1,5 @@
 ---
-title: Panes.Count Property (Outlook)
+title: Panes.Count property (Outlook)
 keywords: vbaol11.chm78
 f1_keywords:
 - vbaol11.chm78
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Panes.Count Property (Outlook)
+# Panes.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [Panes](./Outlook.Panes.md) object.
+_expression_ A variable that represents a [Panes](Outlook.Panes.md) object.
 
 
 ## See also

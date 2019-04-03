@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Tracking Property (Publisher)
+title: TextEffectFormat.Tracking property (Publisher)
 keywords: vbapb10.chm3735825
 f1_keywords:
 - vbapb10.chm3735825
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Tracking Property (Publisher)
+# TextEffectFormat.Tracking property (Publisher)
 
 Returns or sets a  **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **Tracking**
+ _expression_.**Tracking**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

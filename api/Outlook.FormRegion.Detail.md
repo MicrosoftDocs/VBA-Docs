@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Detail Property (Outlook)
+title: FormRegion.Detail property (Outlook)
 keywords: vbaol11.chm2392
 f1_keywords:
 - vbaol11.chm2392
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Detail Property (Outlook)
+# FormRegion.Detail property (Outlook)
 
 Returns or sets a  **String** representing the text displayed at runtime in the header after the display name of an adjoining form region. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the text displayed at runtime in the 
 
 _expression_. `Detail`
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks

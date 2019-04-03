@@ -1,5 +1,5 @@
 ---
-title: AccountSelector.Class Property (Outlook)
+title: AccountSelector.Class property (Outlook)
 keywords: vbaol11.chm3450
 f1_keywords:
 - vbaol11.chm3450
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountSelector.Class Property (Outlook)
+# AccountSelector.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that indicates the class of the object. Read-only.
 

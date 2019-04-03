@@ -1,5 +1,5 @@
 ---
-title: JournalItem.OutlookVersion Property (Outlook)
+title: JournalItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1250
 f1_keywords:
 - vbaol11.chm1250
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.OutlookVersion Property (Outlook)
+# JournalItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 
 _expression_. `OutlookVersion`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

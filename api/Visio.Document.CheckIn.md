@@ -1,5 +1,5 @@
 ---
-title: Document.CheckIn Method (Visio)
+title: Document.CheckIn method (Visio)
 keywords: vis_sdr.chm10552030
 f1_keywords:
 - vis_sdr.chm10552030
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.CheckIn Method (Visio)
+# Document.CheckIn method (Visio)
 
 Returns a document from a local computer to a Microsoft SharePoint Server computer.
 
 
 ## Syntax
 
- _expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
+_expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

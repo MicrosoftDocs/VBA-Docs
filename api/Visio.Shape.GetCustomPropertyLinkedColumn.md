@@ -1,5 +1,5 @@
 ---
-title: Shape.GetCustomPropertyLinkedColumn Method (Visio)
+title: Shape.GetCustomPropertyLinkedColumn method (Visio)
 keywords: vis_sdr.chm11260235
 f1_keywords:
 - vis_sdr.chm11260235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.GetCustomPropertyLinkedColumn Method (Visio)
+# Shape.GetCustomPropertyLinkedColumn method (Visio)
 
 Gets the name of the data column linked to the shape data (custom property) row in the shape's ShapeSheet spreadsheet specified by the custom property index.
 
@@ -22,7 +22,7 @@ Gets the name of the data column linked to the shape data (custom property) row 
 
 ## Syntax
 
- _expression_. `GetCustomPropertyLinkedColumn`( `_DataRecordsetID_` , `_CustomPropertyIndex_` )
+_expression_. `GetCustomPropertyLinkedColumn`( `_DataRecordsetID_` , `_CustomPropertyIndex_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

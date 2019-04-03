@@ -1,5 +1,5 @@
 ---
-title: Selection.FitCurve Method (Visio)
+title: Selection.FitCurve method (Visio)
 keywords: vis_sdr.chm11116275
 f1_keywords:
 - vis_sdr.chm11116275
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.FitCurve Method (Visio)
+# Selection.FitCurve method (Visio)
 
 Reduces the number of geometry segments in a shape or shapes by replacing them with similar spline, arc, and line segments that approximate the paths of the initial segments. Typically, this reduces the number of segments in the shape.
 
 
 ## Syntax
 
- _expression_. `FitCurve`( `_Tolerance_` , `_Flags_` )
+_expression_. `FitCurve`( `_Tolerance_` , `_Flags_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

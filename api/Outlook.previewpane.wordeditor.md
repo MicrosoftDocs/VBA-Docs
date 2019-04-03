@@ -1,5 +1,5 @@
 ---
-title: PreviewPane.WordEditor Property (Outlook)
+title: PreviewPane.WordEditor property (Outlook)
 keywords: vbaol11.chm3640
 f1_keywords:
 - vbaol11.chm3640
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PreviewPane.WordEditor Property (Outlook)
+# PreviewPane.WordEditor property (Outlook)
 
 Returns the Microsoft Word Document Object Model of the message being displayed. Read-only.
 
@@ -46,6 +46,6 @@ The  **WordEditor** property is only valid if[IsWordMail](Outlook.Inspector.IsWo
 
 
 
-[PreviewPane Object (Outlook)](Outlook.previewpane.md)
+[PreviewPane object (Outlook)](Outlook.previewpane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

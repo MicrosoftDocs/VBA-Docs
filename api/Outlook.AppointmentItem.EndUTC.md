@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.EndUTC Property (Outlook)
+title: AppointmentItem.EndUTC property (Outlook)
 keywords: vbaol11.chm3272
 f1_keywords:
 - vbaol11.chm3272
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.EndUTC Property (Outlook)
+# AppointmentItem.EndUTC property (Outlook)
 
 Returns or sets a  **Date** value that represents the end date and time of the appointment expressed in the Coordinated Universal Time (UTC) standard. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the end date and time of the a
 
 _expression_. `EndUTC`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

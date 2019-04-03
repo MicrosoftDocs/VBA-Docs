@@ -1,5 +1,5 @@
 ---
-title: PostItem.SenderEmailType Property (Outlook)
+title: PostItem.SenderEmailType property (Outlook)
 keywords: vbaol11.chm1568
 f1_keywords:
 - vbaol11.chm1568
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.SenderEmailType Property (Outlook)
+# PostItem.SenderEmailType property (Outlook)
 
 Returns a  **String** that represents the type of entry for the email address of the sender of the Outlook item, such as 'SMTP' for Internet address, 'EX' for a Microsoft Exchange server address, etc. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that represents the type of entry for the email address of
 
 _expression_. `SenderEmailType`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

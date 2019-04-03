@@ -1,5 +1,5 @@
 ---
-title: Layer.NameU Property (Visio)
+title: Layer.NameU property (Visio)
 keywords: vis_sdr.chm11851985
 f1_keywords:
 - vis_sdr.chm11851985
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Layer.NameU Property (Visio)
+# Layer.NameU property (Visio)
 
 Specifies the universal name of a  **Layer** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `NameU`
+_expression_. `NameU`
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 

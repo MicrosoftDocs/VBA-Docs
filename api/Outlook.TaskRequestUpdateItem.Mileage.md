@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Mileage Property (Outlook)
+title: TaskRequestUpdateItem.Mileage property (Outlook)
 keywords: vbaol11.chm1937
 f1_keywords:
 - vbaol11.chm1937
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Mileage Property (Outlook)
+# TaskRequestUpdateItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Mileage`
+_expression_. `Mileage`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Class Property (Outlook)
+title: ExchangeDistributionList.Class property (Outlook)
 keywords: vbaol11.chm2109
 f1_keywords:
 - vbaol11.chm2109
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Class Property (Outlook)
+# ExchangeDistributionList.Class property (Outlook)
 
 Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumera
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## See also

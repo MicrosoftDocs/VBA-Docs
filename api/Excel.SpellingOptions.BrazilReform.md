@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptio
 
 ## Return value
 
- **[xlPortugueseReform](Excel.XlPortugueseReform.md)**
+ **[XlPortugueseReform](Excel.XlPortugueseReform.md)**
 
 
 ## Remarks

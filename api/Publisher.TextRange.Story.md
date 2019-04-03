@@ -1,5 +1,5 @@
 ---
-title: TextRange.Story Property (Publisher)
+title: TextRange.Story property (Publisher)
 keywords: vbapb10.chm5308470
 f1_keywords:
 - vbapb10.chm5308470
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Story Property (Publisher)
+# TextRange.Story property (Publisher)
 
 Returns a  **Story** object that represents the story properties in a text range.
 
 
 ## Syntax
 
- _expression_. **Story**
+ _expression_.**Story**
 
  _expression_ A variable that represents a  **TextRange** object.
 

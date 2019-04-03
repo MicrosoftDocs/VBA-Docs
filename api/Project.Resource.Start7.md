@@ -1,5 +1,5 @@
 ---
-title: Resource.Start7 Property (Project)
+title: Resource.Start7 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Start7
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Start7 Property (Project)
+# Resource.Start7 property (Project)
 
 Gets or sets a Start local custom field for the resource. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Start7`
+_expression_. `Start7`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.AddBusinessCardLogoPicture Method (Outlook)
+title: ContactItem.AddBusinessCardLogoPicture method (Outlook)
 keywords: vbaol11.chm3229
 f1_keywords:
 - vbaol11.chm3229
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.AddBusinessCardLogoPicture Method (Outlook)
+# ContactItem.AddBusinessCardLogoPicture method (Outlook)
 
 Adds a logo picture to the current Electronic Business Card of the contact item.
 
@@ -21,7 +21,7 @@ Adds a logo picture to the current Electronic Business Card of the contact item.
 
 _expression_. `AddBusinessCardLogoPicture`( `_Path_` )
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

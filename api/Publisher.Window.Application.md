@@ -1,5 +1,5 @@
 ---
-title: Window.Application Property (Publisher)
+title: Window.Application property (Publisher)
 keywords: vbapb10.chm262145
 f1_keywords:
 - vbapb10.chm262145
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Application Property (Publisher)
+# Window.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_.**Application**
 
  _expression_ A variable that represents a  **Window** object.
 

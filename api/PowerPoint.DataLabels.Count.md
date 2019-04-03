@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Count Property (PowerPoint)
+title: DataLabels.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.Count Property (PowerPoint)
+# DataLabels.Count property (PowerPoint)
 
 Returns the number of objects in the collection. Read-only  **Long**.
 

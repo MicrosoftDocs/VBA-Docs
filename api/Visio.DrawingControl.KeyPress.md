@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.KeyPress Event (Visio)
+title: DrawingControl.KeyPress event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.KeyPress
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.KeyPress Event (Visio)
+# DrawingControl.KeyPress event (Visio)
 
 Occurs when a keyboard key is pressed.
 

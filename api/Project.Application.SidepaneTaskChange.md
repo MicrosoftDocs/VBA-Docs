@@ -1,5 +1,5 @@
 ---
-title: Application.SidepaneTaskChange Method (Project)
+title: Application.SidepaneTaskChange method (Project)
 keywords: vbapj.chm53
 f1_keywords:
 - vbapj.chm53
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SidepaneTaskChange Method (Project)
+# Application.SidepaneTaskChange method (Project)
 
 Changes the side pane that is displayed in  **Project Guide**.
 
 
 ## Syntax
 
- _expression_. `SidepaneTaskChange`( `_ID_`, `_IsGoalArea_` )
+_expression_. `SidepaneTaskChange`( `_ID_`, `_IsGoalArea_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

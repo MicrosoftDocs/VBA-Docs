@@ -1,5 +1,5 @@
 ---
-title: View.Language Property (Outlook)
+title: View.Language property (Outlook)
 keywords: vbaol11.chm2489
 f1_keywords:
 - vbaol11.chm2489
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# View.Language Property (Outlook)
+# View.Language property (Outlook)
 
 Returns or sets a  **String** value that represents the language setting for the object that defines the language used in the menu. Read/write.
 
 
 ## Syntax
 
- _expression_. `Language`
+_expression_. `Language`
 
-_expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Remarks

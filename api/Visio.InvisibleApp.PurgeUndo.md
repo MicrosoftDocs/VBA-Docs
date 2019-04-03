@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.PurgeUndo Method (Visio)
+title: InvisibleApp.PurgeUndo method (Visio)
 keywords: vis_sdr.chm17516450
 f1_keywords:
 - vis_sdr.chm17516450
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.PurgeUndo Method (Visio)
+# InvisibleApp.PurgeUndo method (Visio)
 
 Empties the Microsoft Visio queue of undo actions.
 
 
 ## Syntax
 
- _expression_. `PurgeUndo`
+_expression_. `PurgeUndo`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

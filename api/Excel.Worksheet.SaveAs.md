@@ -21,7 +21,7 @@ Saves changes to the chart or worksheet in a different file.
 
 _expression_. `SaveAs`( `_FileName_` , `_FileFormat_` , `_Password_` , `_WriteResPassword_` , `_ReadOnlyRecommended_` , `_CreateBackup_` , `_AddToMru_` , `_TextCodepage_` , `_TextVisualLayout_` , `_Local_` )
 
-_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
 
 
 ## Parameters
@@ -30,8 +30,8 @@ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**| **Variant**. A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.|
-| _FileFormat_|Optional| **Variant**|The file format to use when you save the file. For a list of valid choices, see the  **[xlFileFormat](Excel.XlFileFormat.md)** enumeration. For an existing file, the default format is the last file format specified; for a new file, the default is the format of the version of Excel being used.|
+| _FileName_|Required| **String**| **Variant**. A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.|
+| _FileFormat_|Optional| **Variant**|The file format to use when you save the file. For a list of valid choices, see the  **[XlFileFormat](Excel.XlFileFormat.md)** enumeration. For an existing file, the default format is the last file format specified; for a new file, the default is the format of the version of Excel being used.|
 | _Password_|Optional| **Variant**|A case-sensitive string (no more than 15 characters) that indicates the protection password to be given to the file.|
 | _WriteResPassword_|Optional| **Variant**|A string that indicates the write-reservation password for this file. If a file is saved with the password and the password isn't supplied when the file is opened, the file is opened as read-only.|
 | _ReadOnlyRecommended_|Optional| **Variant**| **True** to display a message when the file is opened, recommending that the file be opened as read-only.|

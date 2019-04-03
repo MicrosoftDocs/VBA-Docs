@@ -1,5 +1,5 @@
 ---
-title: OlkControl Object (Outlook)
+title: OlkControl object (Outlook)
 keywords: vbaol11.chm1000510
 f1_keywords:
 - vbaol11.chm1000510
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# OlkControl Object (Outlook)
+# OlkControl object (Outlook)
 
 Defines a set of control properties common to some Microsoft Outlook controls.
 
@@ -61,6 +61,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

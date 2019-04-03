@@ -1,5 +1,5 @@
 ---
-title: Explorer.Panes Property (Outlook)
+title: Explorer.Panes property (Outlook)
 keywords: vbaol11.chm2769
 f1_keywords:
 - vbaol11.chm2769
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Panes Property (Outlook)
+# Explorer.Panes property (Outlook)
 
 Returns a  **[Panes](Outlook.Panes.md)** collection object representing the panes displayed by the specified explorer.
 
@@ -21,7 +21,7 @@ Returns a  **[Panes](Outlook.Panes.md)** collection object representing the pane
 
 _expression_. `Panes`
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Example

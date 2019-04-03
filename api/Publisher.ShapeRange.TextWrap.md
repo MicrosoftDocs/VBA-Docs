@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextWrap Property (Publisher)
+title: ShapeRange.TextWrap property (Publisher)
 keywords: vbapb10.chm2294020
 f1_keywords:
 - vbapb10.chm2294020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.TextWrap Property (Publisher)
+# ShapeRange.TextWrap property (Publisher)
 
 Returns a  **[WrapFormat](Publisher.WrapFormat.md)** object that represents the properties for wrapping text around a shape or shape range.
 
 
 ## Syntax
 
- _expression_. **TextWrap**
+ _expression_.**TextWrap**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

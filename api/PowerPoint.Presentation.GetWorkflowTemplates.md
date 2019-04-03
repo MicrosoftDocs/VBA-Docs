@@ -1,5 +1,5 @@
 ---
-title: Presentation.GetWorkflowTemplates Method (PowerPoint)
+title: Presentation.GetWorkflowTemplates method (PowerPoint)
 keywords: vbapp10.chm583099
 f1_keywords:
 - vbapp10.chm583099
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.GetWorkflowTemplates Method (PowerPoint)
+# Presentation.GetWorkflowTemplates method (PowerPoint)
 
 Returns the Microsoft Office  **WorkflowTemplates** collection.
 
 
 ## Syntax
 
- _expression_. `GetWorkflowTemplates`
+_expression_. `GetWorkflowTemplates`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

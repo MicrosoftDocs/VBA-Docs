@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Table Property (Publisher)
+title: ShapeRange.Table property (Publisher)
 keywords: vbapb10.chm2293864
 f1_keywords:
 - vbapb10.chm2293864
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Table Property (Publisher)
+# ShapeRange.Table property (Publisher)
 
 Returns a  **Table** object that represents a table in Microsoft Publisher.
 
 
 ## Syntax
 
- _expression_. **Table**
+ _expression_.**Table**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

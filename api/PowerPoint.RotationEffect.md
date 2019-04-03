@@ -1,5 +1,5 @@
 ---
-title: RotationEffect Object (PowerPoint)
+title: RotationEffect object (PowerPoint)
 keywords: vbapp10.chm661000
 f1_keywords:
 - vbapp10.chm661000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RotationEffect Object (PowerPoint)
+# RotationEffect object (PowerPoint)
 
 Represents a rotation effect for an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
 

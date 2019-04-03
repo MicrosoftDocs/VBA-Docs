@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Comments Property (Outlook)
+title: ExchangeUser.Comments property (Outlook)
 keywords: vbaol11.chm2089
 f1_keywords:
 - vbaol11.chm2089
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Comments Property (Outlook)
+# ExchangeUser.Comments property (Outlook)
 
 Returns a  **String** representing the comments for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the comments for the **[ExchangeUser](Outlook
 
 _expression_. `Comments`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

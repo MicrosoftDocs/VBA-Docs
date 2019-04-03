@@ -1,5 +1,5 @@
 ---
-title: Application.CurrentEdition Property (Visio)
+title: Application.CurrentEdition property (Visio)
 keywords: vis_sdr.chm10062415
 f1_keywords:
 - vis_sdr.chm10062415
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CurrentEdition Property (Visio)
+# Application.CurrentEdition property (Visio)
 
 Returns an enumerated value that represents the edition of the current instance of Microsoft Visio. Read-only.
 
 
 ## Syntax
 
- _expression_. `CurrentEdition`
+_expression_. `CurrentEdition`
 
  _expression_ An expression that returns an '[Application](Visio.Application.md)' object.
 

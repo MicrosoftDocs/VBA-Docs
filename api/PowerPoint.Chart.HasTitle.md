@@ -1,5 +1,5 @@
 ---
-title: Chart.HasTitle Property (PowerPoint)
+title: Chart.HasTitle property (PowerPoint)
 keywords: vbapp10.chm684033
 f1_keywords:
 - vbapp10.chm684033
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.HasTitle Property (PowerPoint)
+# Chart.HasTitle property (PowerPoint)
 
  **True** if the axis or chart has a visible title. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasTitle`
+_expression_. `HasTitle`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

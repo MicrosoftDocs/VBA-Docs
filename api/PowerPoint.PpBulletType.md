@@ -1,5 +1,5 @@
 ---
-title: PpBulletType Enumeration (PowerPoint)
+title: PpBulletType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpBulletType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpBulletType Enumeration (PowerPoint)
+# PpBulletType enumeration (PowerPoint)
 
 Specifies the type of bullet.
 

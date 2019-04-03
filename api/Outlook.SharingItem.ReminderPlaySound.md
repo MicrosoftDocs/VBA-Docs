@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReminderPlaySound Property (Outlook)
+title: SharingItem.ReminderPlaySound property (Outlook)
 keywords: vbaol11.chm652
 f1_keywords:
 - vbaol11.chm652
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReminderPlaySound Property (Outlook)
+# SharingItem.ReminderPlaySound property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder should play a sound when it occurs for the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder should pla
 
 _expression_. `ReminderPlaySound`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

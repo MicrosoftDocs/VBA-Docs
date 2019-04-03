@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `InvalidAddress`
+_expression_. `InvalidAddress`
 
  _expression_ An expression that returns a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

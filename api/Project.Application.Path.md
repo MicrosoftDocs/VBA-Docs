@@ -1,5 +1,5 @@
 ---
-title: Application.Path Property (Project)
+title: Application.Path property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Path
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Path Property (Project)
+# Application.Path property (Project)
 
 Gets the path of the WINPROJ.EXE application file. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

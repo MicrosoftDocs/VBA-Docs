@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.RecipientAddress Property (Outlook)
+title: RuleConditions.RecipientAddress property (Outlook)
 keywords: vbaol11.chm2317
 f1_keywords:
 - vbaol11.chm2317
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.RecipientAddress Property (Outlook)
+# RuleConditions.RecipientAddress property (Outlook)
 
 Returns an  **[AddressRuleCondition](Outlook.AddressRuleCondition.md)** object with an **[AddressRuleCondition.ConditionType](Outlook.AddressRuleCondition.ConditionType.md)** of **olConditionRecipientAddress**. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[AddressRuleCondition](Outlook.AddressRuleCondition.md)** object w
 
 _expression_. `RecipientAddress`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

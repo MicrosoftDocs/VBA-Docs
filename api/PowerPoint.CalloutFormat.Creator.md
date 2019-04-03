@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Creator Property (PowerPoint)
+title: CalloutFormat.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Creator Property (PowerPoint)
+# CalloutFormat.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 

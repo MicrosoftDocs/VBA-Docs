@@ -1,5 +1,5 @@
 ---
-title: Application.ClearConstraint Method (Project)
+title: Application.ClearConstraint method (Project)
 keywords: vbapj.chm1514
 f1_keywords:
 - vbapj.chm1514
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ClearConstraint Method (Project)
+# Application.ClearConstraint method (Project)
 
 Clears the constraint on a specified task.
 
 
 ## Syntax
 
- _expression_. `ClearConstraint`( `_TaskID_` )
+_expression_. `ClearConstraint`( `_TaskID_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

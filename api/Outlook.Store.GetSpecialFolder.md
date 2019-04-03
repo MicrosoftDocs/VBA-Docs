@@ -1,5 +1,5 @@
 ---
-title: Store.GetSpecialFolder Method (Outlook)
+title: Store.GetSpecialFolder method (Outlook)
 keywords: vbaol11.chm812
 f1_keywords:
 - vbaol11.chm812
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.GetSpecialFolder Method (Outlook)
+# Store.GetSpecialFolder method (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object for a special folder specified by _FolderType_ in a given store.
 
@@ -21,7 +21,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object for a special folder specified
 
 _expression_. `GetSpecialFolder`( `_FolderType_` )
 
-_expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 ## Parameters

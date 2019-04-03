@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AlwaysInFront`
+_expression_. `AlwaysInFront`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 

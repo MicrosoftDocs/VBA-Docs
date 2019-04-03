@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs Object (PowerPoint)
+title: ObjectVerbs object (PowerPoint)
 keywords: vbapp10.chm564000
 f1_keywords:
 - vbapp10.chm564000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ObjectVerbs Object (PowerPoint)
+# ObjectVerbs object (PowerPoint)
 
 Represents the collection of OLE verbs for the specified OLE object. OLE verbs are the operations supported by an OLE object. Commonly used OLE verbs are "play" and "edit."
 

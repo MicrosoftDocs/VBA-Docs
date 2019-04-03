@@ -1,5 +1,5 @@
 ---
-title: Application.RecurringTaskInsert Method (Project)
+title: Application.RecurringTaskInsert method (Project)
 keywords: vbapj.chm2303
 f1_keywords:
 - vbapj.chm2303
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.RecurringTaskInsert Method (Project)
+# Application.RecurringTaskInsert method (Project)
 
 Displays the  **Recurring Task Information** dialog box, which prompts the user to insert a recurring task.
 
 
 ## Syntax
 
- _expression_. `RecurringTaskInsert`
+_expression_. `RecurringTaskInsert`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

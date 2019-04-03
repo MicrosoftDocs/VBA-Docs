@@ -1,5 +1,5 @@
 ---
-title: Trendline.Order Property (PowerPoint)
+title: Trendline.Order property (PowerPoint)
 keywords: vbapp10.chm65728
 f1_keywords:
 - vbapp10.chm65728
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Order Property (PowerPoint)
+# Trendline.Order property (PowerPoint)
 
 Returns or sets the trendline order (an integer greater than 1) when the trendline type is  **xlPolynomial**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Order`
+_expression_. `Order`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

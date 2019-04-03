@@ -1,5 +1,5 @@
 ---
-title: Documents.ObjectType Property (Visio)
+title: Documents.ObjectType property (Visio)
 keywords: vis_sdr.chm10613960
 f1_keywords:
 - vis_sdr.chm10613960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Documents.ObjectType Property (Visio)
+# Documents.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

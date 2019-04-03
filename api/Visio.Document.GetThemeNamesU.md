@@ -1,5 +1,5 @@
 ---
-title: Document.GetThemeNamesU Method (Visio)
+title: Document.GetThemeNamesU method (Visio)
 keywords: vis_sdr.chm10560080
 f1_keywords:
 - vis_sdr.chm10560080
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.GetThemeNamesU Method (Visio)
+# Document.GetThemeNamesU method (Visio)
 
 Returns a locale-independent array of names of themes contained in the document.
 
 
 ## Syntax
 
- _expression_. `GetThemeNamesU`( `_eType_` , `_NameArray()_` )
+_expression_. `GetThemeNamesU`( `_eType_` , `_NameArray()_` )
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 

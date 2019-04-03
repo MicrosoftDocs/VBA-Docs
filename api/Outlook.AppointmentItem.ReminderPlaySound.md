@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ReminderPlaySound Property (Outlook)
+title: AppointmentItem.ReminderPlaySound property (Outlook)
 keywords: vbaol11.chm894
 f1_keywords:
 - vbaol11.chm894
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ReminderPlaySound Property (Outlook)
+# AppointmentItem.ReminderPlaySound property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder should play a sound when it occurs for this item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder should pla
 
 _expression_. `ReminderPlaySound`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

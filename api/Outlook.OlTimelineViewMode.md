@@ -1,5 +1,5 @@
 ---
-title: OlTimelineViewMode Enumeration (Outlook)
+title: OlTimelineViewMode enumeration (Outlook)
 keywords: vbaol11.chm3128
 f1_keywords:
 - vbaol11.chm3128
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTimelineViewMode Enumeration (Outlook)
+# OlTimelineViewMode enumeration (Outlook)
 
 Indicates the view mode when using a  **[TimelineView](Outlook.TimelineView.md)** object.
 

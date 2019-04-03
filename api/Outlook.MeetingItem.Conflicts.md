@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Conflicts Property (Outlook)
+title: MeetingItem.Conflicts property (Outlook)
 keywords: vbaol11.chm1468
 f1_keywords:
 - vbaol11.chm1468
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Conflicts Property (Outlook)
+# MeetingItem.Conflicts property (Outlook)
 
 Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
@@ -21,7 +21,7 @@ Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the ite
 
 _expression_. `Conflicts`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

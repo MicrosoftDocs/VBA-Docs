@@ -1,5 +1,5 @@
 ---
-title: Colors.Document Property (Visio)
+title: Colors.Document property (Visio)
 keywords: vis_sdr.chm12313430
 f1_keywords:
 - vis_sdr.chm12313430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Colors.Document Property (Visio)
+# Colors.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [Colors](./Visio.Colors.md) object.
 

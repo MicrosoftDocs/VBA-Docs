@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarDateShadingEditEx Method (Project)
+title: Application.CalendarDateShadingEditEx method (Project)
 keywords: vbapj.chm2147
 f1_keywords:
 - vbapj.chm2147
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarDateShadingEditEx Method (Project)
+# Application.CalendarDateShadingEditEx method (Project)
 
 Changes the background color and pattern of date boxes in the Calendar view.
 
 
 ## Syntax
 
- _expression_. `CalendarDateShadingEditEx`( `_Item_`, `_Pattern_`, `_Color_` )
+_expression_. `CalendarDateShadingEditEx`( `_Item_`, `_Pattern_`, `_Color_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Menu.ActionText Property (Visio)
+title: Menu.ActionText property (Visio)
 keywords: vis_sdr.chm13113015
 f1_keywords:
 - vis_sdr.chm13113015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Menu.ActionText Property (Visio)
+# Menu.ActionText property (Visio)
 
 Gets or sets the action text for a menu. Read/write.
 
 
 ## Syntax
 
- _expression_. `ActionText`
+_expression_. `ActionText`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 

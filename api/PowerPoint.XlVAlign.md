@@ -1,5 +1,5 @@
 ---
-title: XlVAlign Enumeration (PowerPoint)
+title: XlVAlign enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlVAlign
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlVAlign Enumeration (PowerPoint)
+# XlVAlign enumeration (PowerPoint)
 
 Specifies the vertical alignment for the object.
 

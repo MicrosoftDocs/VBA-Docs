@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ListDirection Property (Visio)
+title: ContainerProperties.ListDirection property (Visio)
 keywords: vis_sdr.chm17662600
 f1_keywords:
 - vis_sdr.chm17662600
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.ListDirection Property (Visio)
+# ContainerProperties.ListDirection property (Visio)
 
 Determines the primary list direction of the container shapes. Read/write.
 
 
 ## Syntax
 
- _expression_. `ListDirection`
+_expression_. `ListDirection`
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

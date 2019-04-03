@@ -1,5 +1,5 @@
 ---
-title: DataColumn.Visible Property (Visio)
+title: DataColumn.Visible property (Visio)
 keywords: vis_sdr.chm16714650
 f1_keywords:
 - vis_sdr.chm16714650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumn.Visible Property (Visio)
+# DataColumn.Visible property (Visio)
 
 Specifies whether the data column appears on the tab for its parent data recordset in the  **External Data** window in the Microsoft Visio user interface. Read/write.
 

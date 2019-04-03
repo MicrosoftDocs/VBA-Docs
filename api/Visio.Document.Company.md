@@ -1,5 +1,5 @@
 ---
-title: Document.Company Property (Visio)
+title: Document.Company property (Visio)
 keywords: vis_sdr.chm10513285
 f1_keywords:
 - vis_sdr.chm10513285
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Company Property (Visio)
+# Document.Company property (Visio)
 
 Gets or sets the name of the company the document belongs to, one of the document's properties. Read/write.
 
 
 ## Syntax
 
- _expression_. `Company`
+_expression_. `Company`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

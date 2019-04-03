@@ -1,5 +1,5 @@
 ---
-title: VisSelectMode Enumeration (Visio)
+title: VisSelectMode enumeration (Visio)
 keywords: vis_sdr.chm70235
 f1_keywords:
 - vis_sdr.chm70235
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSelectMode Enumeration (Visio)
+# VisSelectMode enumeration (Visio)
 
 Constants passed to and returned by the  **Selection.IterationMode** property and the **CreateSelection** method.
 

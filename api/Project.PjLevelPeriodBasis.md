@@ -1,5 +1,5 @@
 ---
-title: PjLevelPeriodBasis Enumeration (Project)
+title: PjLevelPeriodBasis enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLevelPeriodBasis
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLevelPeriodBasis Enumeration (Project)
+# PjLevelPeriodBasis enumeration (Project)
 
 Contains constants that specify the time period for leveling.
 

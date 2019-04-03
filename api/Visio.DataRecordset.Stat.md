@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.Stat Property (Visio)
+title: DataRecordset.Stat property (Visio)
 keywords: vis_sdr.chm16414420
 f1_keywords:
 - vis_sdr.chm16414420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.Stat Property (Visio)
+# DataRecordset.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
@@ -22,7 +22,7 @@ Returns status information for an object. Read-only.
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [DataRecordset](./Visio.DataRecordset.md) object.
 

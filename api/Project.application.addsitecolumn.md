@@ -1,5 +1,5 @@
 ---
-title: Application.AddSiteColumn Method (Project)
+title: Application.AddSiteColumn method (Project)
 keywords: vbapj.chm1012
 f1_keywords:
 - vbapj.chm1012
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.AddSiteColumn Method (Project)
+# Application.AddSiteColumn method (Project)
 Adds a column that becomes available for the tasks list in the synchronized SharePoint site for the active project.
 
 ## Syntax
 
- _expression_. `AddSiteColumn` _(ProjectField_,  _SharePointName)_
+_expression_. `AddSiteColumn` _(ProjectField_,  _SharePointName)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

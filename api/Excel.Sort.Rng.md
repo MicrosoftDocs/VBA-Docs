@@ -21,7 +21,7 @@ Return the range of values on which the sort is performed. Read-only.
 
 _expression_. `Rng`
 
-_expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## See also

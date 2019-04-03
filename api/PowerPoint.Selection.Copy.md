@@ -1,5 +1,5 @@
 ---
-title: Selection.Copy Method (PowerPoint)
+title: Selection.Copy method (PowerPoint)
 keywords: vbapp10.chm508004
 f1_keywords:
 - vbapp10.chm508004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Copy Method (PowerPoint)
+# Selection.Copy method (PowerPoint)
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Guides.Item Method (PowerPoint)
+title: Guides.Item method (PowerPoint)
 keywords: vbapp10.chm742003
 f1_keywords:
 - vbapp10.chm742003
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Guides.Item Method (PowerPoint)
+# Guides.Item method (PowerPoint)
 
 Returns a [Guide](PowerPoint.guide.md) object from the collection.
 

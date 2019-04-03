@@ -1,5 +1,5 @@
 ---
-title: View.Name Property (Project)
+title: View.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.View.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# View.Name Property (Project)
+# View.Name property (Project)
 
 Gets the name of a  **View** object. Read/write **String**.
 

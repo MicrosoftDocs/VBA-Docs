@@ -1,5 +1,5 @@
 ---
-title: Application.BoxFormatEx Method (Project)
+title: Application.BoxFormatEx method (Project)
 keywords: vbapj.chm2155
 f1_keywords:
 - vbapj.chm2155
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxFormatEx Method (Project)
+# Application.BoxFormatEx method (Project)
 
 Formats individual boxes in the Network Diagram view (PERT chart), where colors can be specified with hexadecimal values.
 
 
 ## Syntax
 
- _expression_. `BoxFormatEx`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_HorizontalGridlines_`, `_VerticalGridlines_`, `_BorderShape_`, `_BorderColor_`, `_BorderWidth_`, `_BackgroundColor_`, `_BackgroundPattern_`, `_Reset_` )
+_expression_. `BoxFormatEx`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_HorizontalGridlines_`, `_VerticalGridlines_`, `_BorderShape_`, `_BorderColor_`, `_BorderWidth_`, `_BackgroundColor_`, `_BackgroundPattern_`, `_Reset_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

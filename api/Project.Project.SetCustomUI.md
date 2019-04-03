@@ -1,5 +1,5 @@
 ---
-title: Project.SetCustomUI Method (Project)
+title: Project.SetCustomUI method (Project)
 keywords: vbapj.chm131080
 f1_keywords:
 - vbapj.chm131080
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.SetCustomUI Method (Project)
+# Project.SetCustomUI method (Project)
 
 Sets the internal XML value for a custom ribbon user interface of the project.
 
 
 ## Syntax
 
- _expression_. `SetCustomUI`( `_CustomUIXML_` )
+_expression_. `SetCustomUI`( `_CustomUIXML_` )
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

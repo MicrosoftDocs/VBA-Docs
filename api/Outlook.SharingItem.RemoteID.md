@@ -1,5 +1,5 @@
 ---
-title: SharingItem.RemoteID Property (Outlook)
+title: SharingItem.RemoteID property (Outlook)
 keywords: vbaol11.chm695
 f1_keywords:
 - vbaol11.chm695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.RemoteID Property (Outlook)
+# SharingItem.RemoteID property (Outlook)
 
 Returns a  **String** that represents the unique identifier of the sharing context for a **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that represents the unique identifier of the sharing conte
 
 _expression_. `RemoteID`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

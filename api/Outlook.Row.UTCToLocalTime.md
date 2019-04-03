@@ -1,5 +1,5 @@
 ---
-title: Row.UTCToLocalTime Method (Outlook)
+title: Row.UTCToLocalTime method (Outlook)
 keywords: vbaol11.chm2247
 f1_keywords:
 - vbaol11.chm2247
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Row.UTCToLocalTime Method (Outlook)
+# Row.UTCToLocalTime method (Outlook)
 
 Obtains a  **Date** value in a **[Table](Outlook.Table.md)** specified by the **[Row](Outlook.Row.md)** object at _Index_ , that has been converted from Coordinated Universal Time (UTC) to local time.
 
 
 ## Syntax
 
-_expression_. `UTCToLocalTime`( `_Index_` )
+_expression_. `UTCToLocalTime` (_Index_)
 
-_expression_ A variable that represents a [Row](./Outlook.Row.md) object.
+_expression_ A variable that represents a [Row](Outlook.Row.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivated Event (Visio)
+title: Application.WindowActivated event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.WindowActivated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowActivated Event (Visio)
+# Application.WindowActivated event (Visio)
 
 Occurs after the active window changes in a Microsoft Visio instance.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.ContainingShape Property (Visio)
+title: Shapes.ContainingShape property (Visio)
 keywords: vis_sdr.chm11313320
 f1_keywords:
 - vis_sdr.chm11313320
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.ContainingShape Property (Visio)
+# Shapes.ContainingShape property (Visio)
 
 Returns the  **Shape** object that contains an object or collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingShape`
+_expression_. `ContainingShape`
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.PreviousLinkedTextFrame Property (Publisher)
+title: TextFrame.PreviousLinkedTextFrame property (Publisher)
 keywords: vbapb10.chm3866656
 f1_keywords:
 - vbapb10.chm3866656
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.PreviousLinkedTextFrame Property (Publisher)
+# TextFrame.PreviousLinkedTextFrame property (Publisher)
 
 Returns a  **[TextFrame](Publisher.TextFrame.md)** object representing the text frame from which text flows to the specified text frame.
 
 
 ## Syntax
 
- _expression_. **PreviousLinkedTextFrame**
+ _expression_.**PreviousLinkedTextFrame**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

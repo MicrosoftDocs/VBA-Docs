@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Item Method (PowerPoint)
+title: ShapeRange.Item method (PowerPoint)
 keywords: vbapp10.chm548057
 f1_keywords:
 - vbapp10.chm548057
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Item Method (PowerPoint)
+# ShapeRange.Item method (PowerPoint)
 
 Returns a single  **Shape** object from the specified **ShapeRange** collection.
 

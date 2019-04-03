@@ -1,5 +1,5 @@
 ---
-title: Document.WizardAfterChange Event (Publisher)
+title: Document.WizardAfterChange event (Publisher)
 keywords: vbapb10.chm285212676
 f1_keywords:
 - vbapb10.chm285212676
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.WizardAfterChange Event (Publisher)
+# Document.WizardAfterChange event (Publisher)
 
 Occurs after the user chooses an option in the wizard pane that changes any of the following settings in the publication: page layout (page size, fold type, orientation, label product), print setup (paper size, print tiling), adding or deleting objects, adding or deleting pages, or object or page formatting (size, position, fill, border, background, default text, text formatting).
 
 
 ## Syntax
 
- _expression_. **WizardAfterChange**
+ _expression_.**WizardAfterChange**
 
  _expression_ A variable that represents a  **Document** object.
 

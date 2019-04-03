@@ -1,5 +1,5 @@
 ---
-title: PjAlignment Enumeration (Project)
+title: PjAlignment enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAlignment
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAlignment Enumeration (Project)
+# PjAlignment enumeration (Project)
 
 Contains constants that specify how data is aligned in a container, for example how text is aligned in a text box. 
 

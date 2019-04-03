@@ -1,5 +1,5 @@
 ---
-title: Columns.Count Property (PowerPoint)
+title: Columns.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Columns.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.Count Property (PowerPoint)
+# Columns.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReportsView Method (Project)
+title: Application.VisualReportsView method (Project)
 keywords: vbapj.chm2141
 f1_keywords:
 - vbapj.chm2141
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.VisualReportsView Method (Project)
+# Application.VisualReportsView method (Project)
 
 Opens the specified Visual Reports template with the specified level of time.
 
 
 ## Syntax
 
- _expression_. `VisualReportsView`( `_strVisualReportTemplateFile_`, `_PjVisualReportsDataLevel_` )
+_expression_. `VisualReportsView`( `_strVisualReportTemplateFile_`, `_PjVisualReportsDataLevel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

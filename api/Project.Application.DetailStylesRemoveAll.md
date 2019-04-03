@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesRemoveAll Method (Project)
+title: Application.DetailStylesRemoveAll method (Project)
 keywords: vbapj.chm965
 f1_keywords:
 - vbapj.chm965
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DetailStylesRemoveAll Method (Project)
+# Application.DetailStylesRemoveAll method (Project)
 
 Removes all timescale data fields from a usage view.
 
 
 ## Syntax
 
- _expression_. `DetailStylesRemoveAll`
+_expression_. `DetailStylesRemoveAll`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

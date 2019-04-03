@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.DragBehavior Property (Outlook)
+title: OlkComboBox.DragBehavior property (Outlook)
 keywords: vbaol11.chm1000199
 f1_keywords:
 - vbaol11.chm1000199
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.DragBehavior Property (Outlook)
+# OlkComboBox.DragBehavior property (Outlook)
 
 Returns or sets an  **[OlDragBehavior Enumeration](Outlook.OlDragBehavior.md)** constant that indicates whether the system enables the drag-and-drop feature for this control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlDragBehavior Enumeration](Outlook.OlDragBehavior.md)** 
 
 _expression_. `DragBehavior`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

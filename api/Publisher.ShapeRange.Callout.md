@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Callout Property (Publisher)
+title: ShapeRange.Callout property (Publisher)
 keywords: vbapb10.chm2293811
 f1_keywords:
 - vbapb10.chm2293811
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Callout Property (Publisher)
+# ShapeRange.Callout property (Publisher)
 
 Returns a  **[CalloutFormat](Publisher.CalloutFormat.md)** object representing the formatting of a line callout.
 
 
 ## Syntax
 
- _expression_. **Callout**
+ _expression_.**Callout**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCurve Method (Project)
+title: Shapes.AddCurve method (Project)
 ms.prod: project-server
 ms.assetid: 16ea0f55-268a-b224-cc94-3d7e74de6265
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddCurve Method (Project)
+# Shapes.AddCurve method (Project)
 Adds a Bézier curve to a report, and returns a  **Shape** object that represents the curve.
 
 ## Syntax
 
- _expression_. `AddCurve` _(SafeArrayOfPoints)_
+_expression_. `AddCurve` _(SafeArrayOfPoints)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

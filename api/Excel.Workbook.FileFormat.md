@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Workbook.FileFormat property (Excel)
 
-Returns the file format and/or type of the workbook. Read-only  **[xlFileFormat](Excel.XlFileFormat.md)**.
+Returns the file format and/or type of the workbook. Read-only  **[XlFileFormat](Excel.XlFileFormat.md)**.
 
 
 ## Syntax
 
 _expression_. `FileFormat`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Remarks

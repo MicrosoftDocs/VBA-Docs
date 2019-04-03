@@ -1,5 +1,5 @@
 ---
-title: Slide.MoveToSectionStart Method (PowerPoint)
+title: Slide.MoveToSectionStart method (PowerPoint)
 keywords: vbapp10.chm531041
 f1_keywords:
 - vbapp10.chm531041
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.MoveToSectionStart Method (PowerPoint)
+# Slide.MoveToSectionStart method (PowerPoint)
 
 Moves the current slide to the start of the specified section.
 
 
 ## Syntax
 
- _expression_. `MoveToSectionStart`( `_toSection_` )
+_expression_. `MoveToSectionStart`( `_toSection_` )
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

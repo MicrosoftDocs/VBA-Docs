@@ -1,5 +1,5 @@
 ---
-title: Table.Rows Property (Publisher)
+title: Table.Rows property (Publisher)
 keywords: vbapb10.chm4784134
 f1_keywords:
 - vbapb10.chm4784134
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.Rows Property (Publisher)
+# Table.Rows property (Publisher)
 
 Returns a  **[Rows](Publisher.Rows.md)** collection that represents all the table rows in a range, selection, or table.
 
 
 ## Syntax
 
- _expression_. **Rows**
+ _expression_.**Rows**
 
  _expression_ A variable that represents a  **Table** object.
 

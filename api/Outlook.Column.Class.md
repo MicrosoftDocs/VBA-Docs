@@ -1,5 +1,5 @@
 ---
-title: Column.Class Property (Outlook)
+title: Column.Class property (Outlook)
 keywords: vbaol11.chm2746
 f1_keywords:
 - vbaol11.chm2746
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Class Property (Outlook)
+# Column.Class property (Outlook)
 
 Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[Column](Outlook.Column.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumera
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [Column](./Outlook.Column.md) object.
+_expression_ A variable that represents a [Column](Outlook.Column.md) object.
 
 
 ## See also

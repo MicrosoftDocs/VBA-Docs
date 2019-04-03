@@ -1,5 +1,5 @@
 ---
-title: Application.BuiltInToolbars Property (Visio)
+title: Application.BuiltInToolbars property (Visio)
 keywords: vis_sdr.chm10013165
 f1_keywords:
 - vis_sdr.chm10013165
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BuiltInToolbars Property (Visio)
+# Application.BuiltInToolbars property (Visio)
 
 Returns a  **UIObject** object that represents a copy of the built-in Microsoft Visio toolbars. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuiltInToolbars`( `_fIgnored_` )
+_expression_. `BuiltInToolbars`( `_fIgnored_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

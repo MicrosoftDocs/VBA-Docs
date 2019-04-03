@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ShowWizardEx Method (Publisher)
+title: MailMerge.ShowWizardEx method (Publisher)
 keywords: vbapb10.chm6225944
 f1_keywords:
 - vbapb10.chm6225944
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.ShowWizardEx Method (Publisher)
+# MailMerge.ShowWizardEx method (Publisher)
 
 Displays the specified catalog or mail merge wizard in a document.
 
 
 ## Syntax
 
- _expression_. **ShowWizardEx**(**_ShowDocumentStep_**,  **_ShowTemplateStep_**,  **_ShowDataStep_**,  **_ShowWriteStep_**,  **_ShowPreviewStep_**,  **_ShowMergeStep_**, **_MergeType_**, **_iStep_**)
+ _expression_.**ShowWizardEx**(**_ShowDocumentStep_**,  **_ShowTemplateStep_**,  **_ShowDataStep_**,  **_ShowWriteStep_**,  **_ShowPreviewStep_**,  **_ShowMergeStep_**, **_MergeType_**, **_iStep_**)
 
  _expression_ A variable that represents a  **MailMerge** object.
 

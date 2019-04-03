@@ -21,12 +21,12 @@ When used without an object qualifier, returns an  **[Application](Word.Applicat
 
  _expression_.**Application**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Example
 
-The following example displays a message about the application that created  `myObject`.
+The following example displays a message about the application that created _myObject_.
 
 
 ```vb

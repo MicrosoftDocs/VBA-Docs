@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Pagination`
+_expression_. `Pagination`
 
  _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 

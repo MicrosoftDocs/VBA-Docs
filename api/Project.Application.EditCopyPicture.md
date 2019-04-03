@@ -1,5 +1,5 @@
 ---
-title: Application.EditCopyPicture Method (Project)
+title: Application.EditCopyPicture method (Project)
 keywords: vbapj.chm204
 f1_keywords:
 - vbapj.chm204
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EditCopyPicture Method (Project)
+# Application.EditCopyPicture method (Project)
 
 Copies the active view as a picture or an OLE object, or exports the active view to a GIF image file.
 
 
 ## Syntax
 
- _expression_. `EditCopyPicture`( `_Object_`, `_ForPrinter_`, `_SelectedRows_`, `_FromDate_`, `_ToDate_`, `_Filename_`, `_ScaleOption_`, `_MaxImageHeight_`, `_MaxImageWidth_`, `_MeasurementUnits_` )
+_expression_. `EditCopyPicture`( `_Object_`, `_ForPrinter_`, `_SelectedRows_`, `_FromDate_`, `_ToDate_`, `_FileName_`, `_ScaleOption_`, `_MaxImageHeight_`, `_MaxImageWidth_`, `_MeasurementUnits_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -35,7 +35,7 @@ Copies the active view as a picture or an OLE object, or exports the active view
 | _SelectedRows_|Optional|**Boolean**|**True** if Project copies only the selected rows. **False** if the program copies all visible rows.|
 | _FromDate_|Optional|**Variant**|The beginning of the timescale for the copied picture. If  **Object** is **True**, **FromDate** is ignored. If **FromDate** is specified and **ToDate** is not, Project will use the last entered date for the end of the timescale. If that would create a negative time span, the program will use the latest timescale date visible in the active view. The default value is the earliest timescale date visible in the active view.|
 | _ToDate_|Optional|**Variant**|The end of the timescale for the copied picture. If  **Object** is **True**, **ToDate** is ignored. If **ToDate** is specified and **FromDate** is not, Project will use the last entered date for the beginning of the timescale. If that would create a negative time span, the program will use the earliest timescale date visible in the active view. The default value is the latest timescale date visible in the active view.|
-| _Filename_|Optional|**String**|The file name for the GIF image file. If  **ForPrinter** is **pjGIF**, **FileName** is required. If **Object** is **True**, or **ForPrinter** is not **pjGIF**, **FileName** is ignored.|
+| _FileName_|Optional|**String**|The file name for the GIF image file. If  **ForPrinter** is **pjGIF**, **FileName** is required. If **Object** is **True**, or **ForPrinter** is not **pjGIF**, **FileName** is ignored.|
 | _ScaleOption_|Optional|**Long**|Specifies how to treat a picture of the active view if it is larger than  **MaxImageWidth** by **MaxImageHeight** (default 22 inches by 22 inches). The default value is **pjCopyPictureKeepRange**. Can be one of the **[PjCopyPictureScaleOption](Project.PjCopyPictureScaleOption.md)** constants.|
 | _MaxImageHeight_|Optional|**Double**|Specifies the maximum height of the picture. The accepted range of  **MaxImageHeight** is 1 to 22 inches (2.54 to 55.88 centimeters). The default value is 22 (inches).|
 | _MaxImageWidth_|Optional|**Double**|Specifies the maximum width of the picture. The accepted range of  **MaxImageWidth** is 1 to 22 inches (2.54 to 55.88 centimeters). The default value is 22 (inches).|

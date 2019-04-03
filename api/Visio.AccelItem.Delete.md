@@ -1,5 +1,5 @@
 ---
-title: AccelItem.Delete Method (Visio)
+title: AccelItem.Delete method (Visio)
 keywords: vis_sdr.chm14516165
 f1_keywords:
 - vis_sdr.chm14516165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelItem.Delete Method (Visio)
+# AccelItem.Delete method (Visio)
 
 Deletes an object.
 

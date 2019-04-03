@@ -1,5 +1,5 @@
 ---
-title: OlReferenceType Enumeration (Outlook)
+title: OlReferenceType enumeration (Outlook)
 keywords: vbaol11.chm3149
 f1_keywords:
 - vbaol11.chm3149
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlReferenceType Enumeration (Outlook)
+# OlReferenceType enumeration (Outlook)
 
 Indicates the reference type.
 
@@ -25,6 +25,6 @@ Indicates the reference type.
 
 ## Remarks
 
-Used as a parameter to the [Application.GetObjectReference Method (Outlook)](Outlook.Application.GetObjectReference.md).
+Used as a parameter to the [Application.GetObjectReference method (Outlook)](Outlook.Application.GetObjectReference.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

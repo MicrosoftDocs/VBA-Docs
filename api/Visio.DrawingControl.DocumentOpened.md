@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.DocumentOpened Event (Visio)
+title: DrawingControl.DocumentOpened event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.DocumentOpened
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.DocumentOpened Event (Visio)
+# DrawingControl.DocumentOpened event (Visio)
 
 Occurs after a document is opened.
 

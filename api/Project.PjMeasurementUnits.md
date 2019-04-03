@@ -1,5 +1,5 @@
 ---
-title: PjMeasurementUnits Enumeration (Project)
+title: PjMeasurementUnits enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMeasurementUnits
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjMeasurementUnits Enumeration (Project)
+# PjMeasurementUnits enumeration (Project)
 
 Contains constants that specify the units of measurement.
 

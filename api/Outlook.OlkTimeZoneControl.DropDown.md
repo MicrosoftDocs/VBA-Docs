@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.DropDown Method (Outlook)
+title: OlkTimeZoneControl.DropDown method (Outlook)
 keywords: vbaol11.chm1000514
 f1_keywords:
 - vbaol11.chm1000514
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.DropDown Method (Outlook)
+# OlkTimeZoneControl.DropDown method (Outlook)
 
 Expands the drop-down portion of the time zone control.
 
@@ -21,7 +21,7 @@ Expands the drop-down portion of the time zone control.
 
 _expression_. `DropDown`
 
-_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Remarks

@@ -28,7 +28,7 @@ _expression_ A variable that represents a [Tab](Excel.Tab.md) object.
 
 Once a **Tab** object is returned, you can use the **ColorIndex** property to determine the settings of a tab for a chart or worksheet.
 
-The color is specified as an index value in the current color palette from 1 to 56 or **[xlColorIndexNone](Excel.XlColorIndex.md)**.
+The color is specified as an index value in the current color palette from 1 to 56 or **[XlColorIndexNone](Excel.XlColorIndex.md)**.
 
 ## Example
 

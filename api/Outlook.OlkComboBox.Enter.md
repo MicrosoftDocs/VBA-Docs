@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Enter Event (Outlook)
+title: OlkComboBox.Enter event (Outlook)
 keywords: vbaol11.chm1000240
 f1_keywords:
 - vbaol11.chm1000240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Enter Event (Outlook)
+# OlkComboBox.Enter event (Outlook)
 
 Occurs when the control receives focus, immediately after the previous control's  **Exit** event.
 
@@ -21,7 +21,7 @@ Occurs when the control receives focus, immediately after the previous control's
 
 _expression_.**Enter**
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

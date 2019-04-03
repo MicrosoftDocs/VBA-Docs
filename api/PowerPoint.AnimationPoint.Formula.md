@@ -1,5 +1,5 @@
 ---
-title: AnimationPoint.Formula Property (PowerPoint)
+title: AnimationPoint.Formula property (PowerPoint)
 keywords: vbapp10.chm664006
 f1_keywords:
 - vbapp10.chm664006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoint.Formula Property (PowerPoint)
+# AnimationPoint.Formula property (PowerPoint)
 
 Returns or sets a  **String** that represents a formula to use for calculating an animation. Read/write.
 
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_. `Formula`
 
 _expression_ A variable that represents a [AnimationPoint](./PowerPoint.AnimationPoint.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.ResampleFromProfile Method (PowerPoint)
+title: MediaFormat.ResampleFromProfile method (PowerPoint)
 keywords: vbapp10.chm724014
 f1_keywords:
 - vbapp10.chm724014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.ResampleFromProfile Method (PowerPoint)
+# MediaFormat.ResampleFromProfile method (PowerPoint)
 
 Adds the current media object to the queue and begins resampling base on the specified profile.
 
 
 ## Syntax
 
- _expression_. `ResampleFromProfile`( `_profile_` )
+_expression_. `ResampleFromProfile`( `_profile_` )
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

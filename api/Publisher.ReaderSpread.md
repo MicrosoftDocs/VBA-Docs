@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread Object (Publisher)
+title: ReaderSpread object (Publisher)
 keywords: vbapb10.chm589823
 f1_keywords:
 - vbapb10.chm589823
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReaderSpread Object (Publisher)
+# ReaderSpread object (Publisher)
 
 Represents the reader spread (not the printer spread) for the page. A reader spread generally contains one or two pages. The  **ReaderSpread** object properties provide information about whether pages are facing and how those pages are laid out. For example, in facing page view, pages two and three can be side-by-side or one on top of the other.
  

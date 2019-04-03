@@ -1,5 +1,5 @@
 ---
-title: SyncObject Object (Outlook)
+title: SyncObject object (Outlook)
 keywords: vbaol11.chm2984
 f1_keywords:
 - vbaol11.chm2984
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObject Object (Outlook)
+# SyncObject object (Outlook)
 
 Represents a  **Send\Receive** group for a user.
 
@@ -71,6 +71,6 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

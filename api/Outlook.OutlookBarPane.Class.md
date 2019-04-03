@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.Class Property (Outlook)
+title: OutlookBarPane.Class property (Outlook)
 keywords: vbaol11.chm360
 f1_keywords:
 - vbaol11.chm360
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarPane.Class Property (Outlook)
+# OutlookBarPane.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
+_expression_ A variable that represents an [OutlookBarPane](Outlook.OutlookBarPane.md) object.
 
 
 ## See also

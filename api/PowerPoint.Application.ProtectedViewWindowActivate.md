@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowActivate Event (PowerPoint)
+title: Application.ProtectedViewWindowActivate event (PowerPoint)
 keywords: vbapp10.chm621029
 f1_keywords:
 - vbapp10.chm621029
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowActivate Event (PowerPoint)
+# Application.ProtectedViewWindowActivate event (PowerPoint)
 
 Occurs when any protected view window is activated.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowActivate`( `_ProtViewWindow_`, )
+_expression_. `ProtectedViewWindowActivate`( `_ProtViewWindow_`, )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

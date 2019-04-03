@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Worksheet.Type property (Excel)
 
-Returns an  **[xlSheetType](Excel.XlSheetType.md)** value that represents the worksheet type.
+Returns an  **[XlSheetType](Excel.XlSheetType.md)** value that represents the worksheet type.
 
 
 ## Syntax
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
 
 
 ## See also

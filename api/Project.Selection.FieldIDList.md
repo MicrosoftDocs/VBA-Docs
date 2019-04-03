@@ -1,5 +1,5 @@
 ---
-title: Selection.FieldIDList Property (Project)
+title: Selection.FieldIDList property (Project)
 keywords: vbapj.chm132206
 f1_keywords:
 - vbapj.chm132206
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.FieldIDList Property (Project)
+# Selection.FieldIDList property (Project)
 
 Gets a  **[List](Project.List.md)** object representing all field identification numbers for the selected fields. Read-only **List**.
 
 
 ## Syntax
 
- _expression_. `FieldIDList`
+_expression_. `FieldIDList`
 
  _expression_ A variable that represents a [Selection](./Project.Selection.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Style Property (PowerPoint)
+title: LineFormat.Style property (PowerPoint)
 keywords: vbapp10.chm553012
 f1_keywords:
 - vbapp10.chm553012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Style Property (PowerPoint)
+# LineFormat.Style property (PowerPoint)
 
 Returns or sets the line style. Read/write.
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
@@ -45,7 +45,7 @@ The value of the  **Style** property can be one of these **MsoLineStyle** consta
 
 ## Example
 
-This example adds a thick, blue, compound line to  `myDocument`. The compound line consists of a thick line with a thin line on either side of it.
+This example adds a thick, blue, compound line to  _myDocument_. The compound line consists of a thick line with a thin line on either side of it.
 
 
 ```vb

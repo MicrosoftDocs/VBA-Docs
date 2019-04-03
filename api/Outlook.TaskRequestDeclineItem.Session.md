@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Session Property (Outlook)
+title: TaskRequestDeclineItem.Session property (Outlook)
 keywords: vbaol11.chm1821
 f1_keywords:
 - vbaol11.chm1821
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Session Property (Outlook)
+# TaskRequestDeclineItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: SendRuleAction.Enabled Property (Outlook)
+title: SendRuleAction.Enabled property (Outlook)
 keywords: vbaol11.chm2220
 f1_keywords:
 - vbaol11.chm2220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SendRuleAction.Enabled Property (Outlook)
+# SendRuleAction.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule action is enabled. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that determines if the rule action is enabled. Re
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents a [SendRuleAction](./Outlook.SendRuleAction.md) object.
+_expression_ A variable that represents a [SendRuleAction](Outlook.SendRuleAction.md) object.
 
 
 ## Remarks

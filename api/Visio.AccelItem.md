@@ -1,5 +1,5 @@
 ---
-title: AccelItem Object (Visio)
+title: AccelItem object (Visio)
 keywords: vis_sdr.chm10010
 f1_keywords:
 - vis_sdr.chm10010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelItem Object (Visio)
+# AccelItem object (Visio)
 
 Represents a single accelerator used by Visio.
 

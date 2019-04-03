@@ -1,5 +1,5 @@
 ---
-title: Action.Enabled Property (Outlook)
+title: Action.Enabled property (Outlook)
 keywords: vbaol11.chm15
 f1_keywords:
 - vbaol11.chm15
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action.Enabled Property (Outlook)
+# Action.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that is **True** if the action is enabled in the application. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that is **True** if the action is enabled in the 
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](Outlook.Action.md) object.
 
 
 ## See also

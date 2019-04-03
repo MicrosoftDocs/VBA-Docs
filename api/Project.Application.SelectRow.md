@@ -1,5 +1,5 @@
 ---
-title: Application.SelectRow Method (Project)
+title: Application.SelectRow method (Project)
 keywords: vbapj.chm2045
 f1_keywords:
 - vbapj.chm2045
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectRow Method (Project)
+# Application.SelectRow method (Project)
 
 Selects one or more rows.
 
 
 ## Syntax
 
- _expression_. `SelectRow`( `_Row_`, `_RowRelative_`, `_Height_`, `_Extend_`, `_Add_` )
+_expression_. `SelectRow`( `_Row_`, `_RowRelative_`, `_Height_`, `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

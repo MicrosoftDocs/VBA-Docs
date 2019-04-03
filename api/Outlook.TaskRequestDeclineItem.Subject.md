@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Subject Property (Outlook)
+title: TaskRequestDeclineItem.Subject property (Outlook)
 keywords: vbaol11.chm1846
 f1_keywords:
 - vbaol11.chm1846
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Subject Property (Outlook)
+# TaskRequestDeclineItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
 _expression_. `Subject`
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: JournalItem.GetInspector Property (Outlook)
+title: JournalItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1242
 f1_keywords:
 - vbaol11.chm1242
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.GetInspector Property (Outlook)
+# JournalItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an insp
 
 _expression_. `GetInspector`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Adds a connection from the specified file.
 
 ## Syntax
 
-_expression_. `AddFromFile`( `_Filename_` , `_Filename_` , `_Filename_` )
+_expression_. `AddFromFile`( `_FileName_` , `_FileName_` , `_FileName_` )
 
 _expression_ A variable that represents a **[Connections](Excel.Connections.md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Connections](Excel.Connections.md)*
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|Name of the file.|
+| _FileName_|Required| **String**|Name of the file.|
 | _CreateModelConnection_|Optional| **Boolean**|Specifies whether to create the connection to the model.|
 | _ImportRelationships_|Optional| **Boolean**|Specifies whether to import the connection relationship.|
 

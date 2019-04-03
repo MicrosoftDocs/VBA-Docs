@@ -1,5 +1,5 @@
 ---
-title: Application.MarkerEvent Event (Visio)
+title: Application.MarkerEvent event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.MarkerEvent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MarkerEvent Event (Visio)
+# Application.MarkerEvent event (Visio)
 
 Caused by calling the  **QueueMarkerEvent** method.
 

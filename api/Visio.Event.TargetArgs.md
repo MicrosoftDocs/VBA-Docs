@@ -1,5 +1,5 @@
 ---
-title: Event.TargetArgs Property (Visio)
+title: Event.TargetArgs property (Visio)
 keywords: vis_sdr.chm12614490
 f1_keywords:
 - vis_sdr.chm12614490
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Event.TargetArgs Property (Visio)
+# Event.TargetArgs property (Visio)
 
 Gets or sets the arguments to be sent to the target of an event. Read/write.
 
 
 ## Syntax
 
- _expression_. `TargetArgs`
+_expression_. `TargetArgs`
 
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 

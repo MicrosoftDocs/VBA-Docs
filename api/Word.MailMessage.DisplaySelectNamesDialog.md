@@ -19,7 +19,7 @@ Displays the  **Select Names** dialog box, in which the user can add addresses t
 
 ## Syntax
 
- _expression_. `DisplaySelectNamesDialog`
+_expression_. `DisplaySelectNamesDialog`
 
  _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 

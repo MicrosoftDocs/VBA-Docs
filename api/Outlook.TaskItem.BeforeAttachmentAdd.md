@@ -1,5 +1,5 @@
 ---
-title: TaskItem.BeforeAttachmentAdd Event (Outlook)
+title: TaskItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.BeforeAttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.BeforeAttachmentAdd Event (Outlook)
+# TaskItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs before an attachment is added to an instance of the parent object.
 
 _expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Resource.RemainingCost Property (Project)
+title: Resource.RemainingCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.RemainingCost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.RemainingCost Property (Project)
+# Resource.RemainingCost property (Project)
 
 Gets the remaining cost for the resource. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `RemainingCost`
+_expression_. `RemainingCost`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

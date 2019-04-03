@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Parent Property (PowerPoint)
+title: HeadersFooters.Parent property (PowerPoint)
 keywords: vbapp10.chm542002
 f1_keywords:
 - vbapp10.chm542002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeadersFooters.Parent Property (PowerPoint)
+# HeadersFooters.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

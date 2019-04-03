@@ -1,5 +1,5 @@
 ---
-title: Conflict.Session Property (Outlook)
+title: Conflict.Session property (Outlook)
 keywords: vbaol11.chm413
 f1_keywords:
 - vbaol11.chm413
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflict.Session Property (Outlook)
+# Conflict.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [Conflict](./Outlook.Conflict.md) object.
+_expression_ A variable that represents a [Conflict](Outlook.Conflict.md) object.
 
 
 ## Remarks

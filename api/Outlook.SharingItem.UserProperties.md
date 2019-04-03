@@ -1,5 +1,5 @@
 ---
-title: SharingItem.UserProperties Property (Outlook)
+title: SharingItem.UserProperties property (Outlook)
 keywords: vbaol11.chm622
 f1_keywords:
 - vbaol11.chm622
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.UserProperties Property (Outlook)
+# SharingItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 _expression_. `UserProperties`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

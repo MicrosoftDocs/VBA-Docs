@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `NoProofing`
+_expression_. `NoProofing`
 
  _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
 

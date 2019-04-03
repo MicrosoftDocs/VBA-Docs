@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.SortOrder Property (Project)
+title: OutlineCode.SortOrder property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.SortOrder
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.SortOrder Property (Project)
+# OutlineCode.SortOrder property (Project)
 
 Gets or sets the order by which the outline code items are sorted. Read/write  **[PjListOrder](Project.PjListOrder.md)**.
 
 
 ## Syntax
 
- _expression_. `SortOrder`
+_expression_. `SortOrder`
 
  _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 

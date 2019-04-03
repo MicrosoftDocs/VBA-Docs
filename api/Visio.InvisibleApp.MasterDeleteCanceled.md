@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MasterDeleteCanceled Event (Visio)
+title: InvisibleApp.MasterDeleteCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MasterDeleteCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MasterDeleteCanceled Event (Visio)
+# InvisibleApp.MasterDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelMasterDelete** event.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseTeamMember Method (Project)
+title: Resource.EnterpriseTeamMember method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.EnterpriseTeamMember
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseTeamMember Method (Project)
+# Resource.EnterpriseTeamMember method (Project)
 
 Indicates whether the resource belongs to the project.  **True** if the resource is a member of the team for the specified project; otherwise **False**. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `EnterpriseTeamMember`( `_Project_` )
+_expression_. `EnterpriseTeamMember`( `_Project_` )
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

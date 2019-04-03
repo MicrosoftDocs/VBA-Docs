@@ -1,5 +1,5 @@
 ---
-title: Series.Select Method (PowerPoint)
+title: Series.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.Select Method (PowerPoint)
+# Series.Select method (PowerPoint)
 
 Selects the object.
 

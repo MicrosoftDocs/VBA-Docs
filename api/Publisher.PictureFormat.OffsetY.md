@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetY Property (Publisher)
+title: ShadowFormat.OffsetY property (Publisher)
 keywords: vbapb10.chm3670275
 f1_keywords:
 - vbapb10.chm3670275
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetY Property (Publisher)
+# ShadowFormat.OffsetY property (Publisher)
 
 Returns or sets a  **Variant** value indicating the horizontal offset of the shadow from the specified shape. A positive value offsets the shadow to the right of the shape; a negative value offsets it to the left. Read/write.
 
 
 ## Syntax
 
- _expression_. **OffsetY**
+ _expression_.**OffsetY**
 
  _expression_ A variable that represents an  **ShadowFormat** object.
 

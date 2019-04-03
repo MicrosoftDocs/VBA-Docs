@@ -1,5 +1,5 @@
 ---
-title: ToOrFromRuleCondition.Session Property (Outlook)
+title: ToOrFromRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2458
 f1_keywords:
 - vbaol11.chm2458
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToOrFromRuleCondition.Session Property (Outlook)
+# ToOrFromRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
  _expression_.**Session**
 
-_expression_ A variable that represents a [ToOrFromRuleCondition](./Outlook.ToOrFromRuleCondition.md) object.
+_expression_ A variable that represents a [ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md) object.
 
 
 ## Remarks

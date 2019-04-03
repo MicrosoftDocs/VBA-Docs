@@ -1,5 +1,5 @@
 ---
-title: Shapes Object (Project)
+title: Shapes object (Project)
 ms.prod: project-server
 ms.assetid: 6e42040c-dd5a-de4c-afa8-f9e33d1e5054
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes Object (Project)
+# Shapes object (Project)
 Represents a collection of  **[Shape](./Project.shape.md)** objects in a custom report.
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: DataConnection.ObjectType Property (Visio)
+title: DataConnection.ObjectType property (Visio)
 keywords: vis_sdr.chm16513960
 f1_keywords:
 - vis_sdr.chm16513960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataConnection.ObjectType Property (Visio)
+# DataConnection.ObjectType property (Visio)
 
 Returns  **visObjTypeDataConnection**, the type of a **DataConnection** object. Read-only.
 
@@ -22,7 +22,7 @@ Returns  **visObjTypeDataConnection**, the type of a **DataConnection** object. 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ An expression that returns a [DataConnection](./Visio.DataConnection.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Row.Index Property (Visio)
+title: Row.Index property (Visio)
 keywords: vis_sdr.chm15813695
 f1_keywords:
 - vis_sdr.chm15813695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.Index Property (Visio)
+# Row.Index property (Visio)
 
 Gets the ordinal position of an object in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

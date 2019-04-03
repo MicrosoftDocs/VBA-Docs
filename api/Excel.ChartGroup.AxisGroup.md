@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Return value
 
- **[xlAxisGroup](Excel.XlAxisGroup.md)**
+ **[XlAxisGroup](Excel.XlAxisGroup.md)**
 
 
 ## Remarks

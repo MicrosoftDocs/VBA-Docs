@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.BeforeAttachmentRead Event (Outlook)
+title: TaskRequestItem.BeforeAttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.BeforeAttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.BeforeAttachmentRead Event (Outlook)
+# TaskRequestItem.BeforeAttachmentRead event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 
@@ -18,7 +18,7 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 _expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Parameters

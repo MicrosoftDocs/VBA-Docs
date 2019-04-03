@@ -1,5 +1,5 @@
 ---
-title: Rows.Application Property (PowerPoint)
+title: Rows.Application property (PowerPoint)
 keywords: vbapp10.chm625001
 f1_keywords:
 - vbapp10.chm625001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rows.Application Property (PowerPoint)
+# Rows.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

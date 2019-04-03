@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes.Parent Property (PowerPoint)
+title: ColorSchemes.Parent property (PowerPoint)
 keywords: vbapp10.chm536002
 f1_keywords:
 - vbapp10.chm536002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorSchemes.Parent Property (PowerPoint)
+# ColorSchemes.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

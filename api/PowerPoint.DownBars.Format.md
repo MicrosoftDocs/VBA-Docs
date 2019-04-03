@@ -1,5 +1,5 @@
 ---
-title: DownBars.Format Property (PowerPoint)
+title: DownBars.Format property (PowerPoint)
 keywords: vbapp10.chm700001
 f1_keywords:
 - vbapp10.chm700001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DownBars.Format Property (PowerPoint)
+# DownBars.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
 _expression_ A variable that represents a '[DownBars](PowerPoint.DownBars.md)' object.
 

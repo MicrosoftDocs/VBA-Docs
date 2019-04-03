@@ -1,5 +1,5 @@
 ---
-title: MsoAnimDirection Enumeration (PowerPoint)
+title: MsoAnimDirection enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimDirection
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimDirection Enumeration (PowerPoint)
+# MsoAnimDirection enumeration (PowerPoint)
 
 Specifies the direction used for an animation effect.
 

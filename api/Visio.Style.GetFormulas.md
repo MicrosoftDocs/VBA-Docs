@@ -1,5 +1,5 @@
 ---
-title: Style.GetFormulas Method (Visio)
+title: Style.GetFormulas method (Visio)
 keywords: vis_sdr.chm11416310
 f1_keywords:
 - vis_sdr.chm11416310
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Style.GetFormulas Method (Visio)
+# Style.GetFormulas method (Visio)
 
 Returns the formulas of many cells.
 
 
 ## Syntax
 
- _expression_. `GetFormulas`( `_SRCStream()_` , `_formulaArray()_` )
+_expression_. `GetFormulas`( `_SRCStream()_` , `_formulaArray()_` )
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

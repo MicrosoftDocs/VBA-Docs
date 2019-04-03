@@ -19,14 +19,14 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ProtectedForForms`
+_expression_. `ProtectedForForms`
 
  _expression_ An expression that returns a '[Section](Word.Section.md)' object.
 
 
 ## Remarks
 
-When a section is protected for forms, you can select and modify text only in form fields. To protect an entire document, use the  **[Protect](./overview/Word.md)** method of the **[Document](Word.Document.md)** object.
+When a section is protected for forms, you can select and modify text only in form fields. To protect an entire document, use the  **[Protect](overview/Word.md)** method of the **[Document](Word.Document.md)** object.
 
 
 ## Example

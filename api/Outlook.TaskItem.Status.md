@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Status Property (Outlook)
+title: TaskItem.Status property (Outlook)
 keywords: vbaol11.chm1744
 f1_keywords:
 - vbaol11.chm1744
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Status Property (Outlook)
+# TaskItem.Status property (Outlook)
 
 Returns or sets an  **[OlTaskStatus](Outlook.OlTaskStatus.md)** constant specifying the status for the task. Corresponds to the **Status** field of a **[TaskItem](Outlook.TaskItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlTaskStatus](Outlook.OlTaskStatus.md)** constant specify
 
 _expression_. `Status`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

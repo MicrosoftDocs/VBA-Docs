@@ -19,7 +19,7 @@ Returns a collection of all the trendlines for the series.
 
 ## Syntax
 
- _expression_. `Trendlines`( `_Index_` )
+_expression_. `Trendlines` (_Index_)
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 

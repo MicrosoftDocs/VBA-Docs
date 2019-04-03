@@ -1,5 +1,5 @@
 ---
-title: Menu.IsHierarchical Property (Visio)
+title: Menu.IsHierarchical property (Visio)
 keywords: vis_sdr.chm13113740
 f1_keywords:
 - vis_sdr.chm13113740
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Menu.IsHierarchical Property (Visio)
+# Menu.IsHierarchical property (Visio)
 
 Indicates whether a menu is hierarchical; that is, whether it contains a drop-down menu that contains more items, which can in turn be accessed by iterating through the  **MenuItems** collection of the menu. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsHierarchical`
+_expression_. `IsHierarchical`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 

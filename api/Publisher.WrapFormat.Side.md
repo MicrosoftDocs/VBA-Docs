@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.Side Property (Publisher)
+title: WrapFormat.Side property (Publisher)
 keywords: vbapb10.chm786436
 f1_keywords:
 - vbapb10.chm786436
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WrapFormat.Side Property (Publisher)
+# WrapFormat.Side property (Publisher)
 
 Returns or sets a  **PbWrapSideType** constant that indicates whether text should wrap around a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Side**
+ _expression_.**Side**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 

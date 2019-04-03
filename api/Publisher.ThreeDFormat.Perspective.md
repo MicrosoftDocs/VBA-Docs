@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Perspective Property (Publisher)
+title: ThreeDFormat.Perspective property (Publisher)
 keywords: vbapb10.chm3801347
 f1_keywords:
 - vbapb10.chm3801347
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Perspective Property (Publisher)
+# ThreeDFormat.Perspective property (Publisher)
 
  **msoTrue** if the extrusion appears in perspective — that is, if the walls of the extrusion narrow toward a vanishing point. **msoFalse** if the extrusion is a parallel, or orthographic, projection — that is, if the walls don't narrow toward a vanishing point. Read/write.
 
 
 ## Syntax
 
- _expression_. **Perspective**
+ _expression_.**Perspective**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

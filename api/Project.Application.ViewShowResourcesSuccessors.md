@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowResourcesSuccessors Method (Project)
+title: Application.ViewShowResourcesSuccessors method (Project)
 keywords: vbapj.chm916
 f1_keywords:
 - vbapj.chm916
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowResourcesSuccessors Method (Project)
+# Application.ViewShowResourcesSuccessors method (Project)
 
 Displays information about resource assignments and successor tasks in the active task details view.
 
 
 ## Syntax
 
- _expression_. `ViewShowResourcesSuccessors`
+_expression_. `ViewShowResourcesSuccessors`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

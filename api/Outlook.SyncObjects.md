@@ -1,5 +1,5 @@
 ---
-title: SyncObjects Object (Outlook)
+title: SyncObjects object (Outlook)
 keywords: vbaol11.chm94
 f1_keywords:
 - vbaol11.chm94
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObjects Object (Outlook)
+# SyncObjects object (Outlook)
 
 Contains a set of  **[SyncObject](Outlook.SyncObject.md)** objects representing the **Send/Receive** groups for a user.
 
@@ -58,6 +58,6 @@ Set mySyncObjects = Application.GetNameSpace("MAPI").SyncObjects
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Master.Width Property (PowerPoint)
+title: Master.Width property (PowerPoint)
 keywords: vbapp10.chm533010
 f1_keywords:
 - vbapp10.chm533010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Width Property (PowerPoint)
+# Master.Width property (PowerPoint)
 
 Returns the width of the specified object, in points. Read-only.
 

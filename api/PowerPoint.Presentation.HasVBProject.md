@@ -1,5 +1,5 @@
 ---
-title: Presentation.HasVBProject Property (PowerPoint)
+title: Presentation.HasVBProject property (PowerPoint)
 keywords: vbapp10.chm583102
 f1_keywords:
 - vbapp10.chm583102
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.HasVBProject Property (PowerPoint)
+# Presentation.HasVBProject property (PowerPoint)
 
 Returns whether the active presentation contains a Microsoft Visual Basic for Applications (VBA) project. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasVBProject`
+_expression_. `HasVBProject`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

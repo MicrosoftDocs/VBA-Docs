@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.Length Property (PowerPoint)
+title: MediaFormat.Length property (PowerPoint)
 keywords: vbapp10.chm724005
 f1_keywords:
 - vbapp10.chm724005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.Length Property (PowerPoint)
+# MediaFormat.Length property (PowerPoint)
 
 Returns the total length of the media in time units. Read-only.
 
 
 ## Syntax
 
- _expression_. `Length`
+_expression_. `Length`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

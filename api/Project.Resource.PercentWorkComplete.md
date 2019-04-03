@@ -1,5 +1,5 @@
 ---
-title: Resource.PercentWorkComplete Property (Project)
+title: Resource.PercentWorkComplete property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.PercentWorkComplete
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.PercentWorkComplete Property (Project)
+# Resource.PercentWorkComplete property (Project)
 
 Gets or sets the percentage of work complete for a resource. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `PercentWorkComplete`
+_expression_. `PercentWorkComplete`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

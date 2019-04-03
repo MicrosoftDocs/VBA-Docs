@@ -1,5 +1,5 @@
 ---
-title: Page.LayoutRoutePassive Property (Visio)
+title: Page.LayoutRoutePassive property (Visio)
 keywords: vis_sdr.chm10962445
 f1_keywords:
 - vis_sdr.chm10962445
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.LayoutRoutePassive Property (Visio)
+# Page.LayoutRoutePassive property (Visio)
 
 Determines whether to enable advanced connector routing logic on the page. Read/write.
 
 
 ## Syntax
 
- _expression_. `LayoutRoutePassive`
+_expression_. `LayoutRoutePassive`
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

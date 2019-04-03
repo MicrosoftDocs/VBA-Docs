@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.IsConflict Property (Outlook)
+title: AppointmentItem.IsConflict property (Outlook)
 keywords: vbaol11.chm918
 f1_keywords:
 - vbaol11.chm918
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.IsConflict Property (Outlook)
+# AppointmentItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item on the local computer is different from the copy on the server. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that determines if the item on the local computer is diff
 
 _expression_. `IsConflict`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

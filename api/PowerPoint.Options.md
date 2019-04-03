@@ -1,5 +1,5 @@
 ---
-title: Options Object (PowerPoint)
+title: Options object (PowerPoint)
 keywords: vbapp10.chm667000
 f1_keywords:
 - vbapp10.chm667000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Options Object (PowerPoint)
+# Options object (PowerPoint)
 
 Represents application options in Microsoft PowerPoint.
 

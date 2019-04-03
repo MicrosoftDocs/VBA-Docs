@@ -1,5 +1,5 @@
 ---
-title: Layer.CellsC Property (Visio)
+title: Layer.CellsC property (Visio)
 keywords: vis_sdr.chm11813195
 f1_keywords:
 - vis_sdr.chm11813195
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Layer.CellsC Property (Visio)
+# Layer.CellsC property (Visio)
 
 Returns a  **Cell** object that represents a ShapeSheet cell in a row in the Layers section. Read-only.
 
 
 ## Syntax
 
- _expression_. `CellsC`( `_Column_` )
+_expression_. `CellsC`( `_Column_` )
 
  _expression_ An expression that returns a [Layer](./Visio.Layer.md) object.
 

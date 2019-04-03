@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock Object (Publisher)
+title: BuildingBlock object (Publisher)
 keywords: vbapb10.chm9568255
 f1_keywords:
 - vbapb10.chm9568255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlock Object (Publisher)
+# BuildingBlock object (Publisher)
 
 Represents a single building block. The  **BuildingBlock** object is a member of the **[BuildingBlocks](Publisher.BuildingBlocks.md)** collection.
  

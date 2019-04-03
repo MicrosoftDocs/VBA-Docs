@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Conflicts Property (Outlook)
+title: JournalItem.Conflicts property (Outlook)
 keywords: vbaol11.chm1287
 f1_keywords:
 - vbaol11.chm1287
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Conflicts Property (Outlook)
+# JournalItem.Conflicts property (Outlook)
 
 Returns the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[Conflicts](Outlook.Conflicts.md)** object that represents the it
 
 _expression_. `Conflicts`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

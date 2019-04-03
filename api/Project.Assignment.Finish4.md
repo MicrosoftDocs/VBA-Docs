@@ -1,5 +1,5 @@
 ---
-title: Assignment.Finish4 Property (Project)
+title: Assignment.Finish4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Finish4
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Finish4 Property (Project)
+# Assignment.Finish4 property (Project)
 
 Gets or sets the local Finish custom field of the assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Finish4`
+_expression_. `Finish4`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

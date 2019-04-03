@@ -1,5 +1,5 @@
 ---
-title: Calendar.Delete Method (Project)
+title: Calendar.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendar.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Calendar.Delete Method (Project)
+# Calendar.Delete method (Project)
 
 Deletes the  **Calendar** object from a **Calendars** collection.
 

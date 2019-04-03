@@ -1,5 +1,5 @@
 ---
-title: Assignment.RemainingOvertimeCost Property (Project)
+title: Assignment.RemainingOvertimeCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.RemainingOvertimeCost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.RemainingOvertimeCost Property (Project)
+# Assignment.RemainingOvertimeCost property (Project)
 
 Gets the remaining overtime cost for the assignment. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `RemainingOvertimeCost`
+_expression_. `RemainingOvertimeCost`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

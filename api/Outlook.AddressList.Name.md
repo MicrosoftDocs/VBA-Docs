@@ -1,5 +1,5 @@
 ---
-title: AddressList.Name Property (Outlook)
+title: AddressList.Name property (Outlook)
 keywords: vbaol11.chm2031
 f1_keywords:
 - vbaol11.chm2031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.Name Property (Outlook)
+# AddressList.Name property (Outlook)
 
 Returns a  **String** value that represents the display name for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the display name for the object. Rea
 
 _expression_.**Name**
 
-_expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 
 
 ## See also

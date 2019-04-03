@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows Object (PowerPoint)
+title: ProtectedViewWindows object (PowerPoint)
 keywords: vbapp10.chm733000
 f1_keywords:
 - vbapp10.chm733000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindows Object (PowerPoint)
+# ProtectedViewWindows object (PowerPoint)
 
 Represents a collection of  **ProtectedViewWindow** objects.
 

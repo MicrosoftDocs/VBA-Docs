@@ -1,5 +1,5 @@
 ---
-title: Application.HighlightSuccessors Method (Project)
+title: Application.HighlightSuccessors method (Project)
 keywords: vbapj.chm149
 f1_keywords:
 - vbapj.chm149
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.HighlightSuccessors Method (Project)
+# Application.HighlightSuccessors method (Project)
 Sets or clears task successor highlighting for the task path feature.
 
 ## Syntax
 
- _expression_. `HighlightSuccessors` _(Set)_
+_expression_. `HighlightSuccessors` _(Set)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

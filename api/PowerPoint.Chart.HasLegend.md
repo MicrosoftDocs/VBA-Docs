@@ -1,5 +1,5 @@
 ---
-title: Chart.HasLegend Property (PowerPoint)
+title: Chart.HasLegend property (PowerPoint)
 keywords: vbapp10.chm684032
 f1_keywords:
 - vbapp10.chm684032
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.HasLegend Property (PowerPoint)
+# Chart.HasLegend property (PowerPoint)
 
  **True** if the chart has a legend. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasLegend`
+_expression_. `HasLegend`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

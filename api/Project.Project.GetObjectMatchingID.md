@@ -1,5 +1,5 @@
 ---
-title: Project.GetObjectMatchingID Method (Project)
+title: Project.GetObjectMatchingID method (Project)
 keywords: vbapj.chm132294
 f1_keywords:
 - vbapj.chm132294
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.GetObjectMatchingID Method (Project)
+# Project.GetObjectMatchingID method (Project)
 
 Returns the matching identification name of an object.
 
 
 ## Syntax
 
- _expression_. `GetObjectMatchingID`( `_ObjectType_`, `_ObjectName_` )
+_expression_. `GetObjectMatchingID`( `_ObjectType_`, `_ObjectName_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

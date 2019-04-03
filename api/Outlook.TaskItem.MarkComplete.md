@@ -1,5 +1,5 @@
 ---
-title: TaskItem.MarkComplete Method (Outlook)
+title: TaskItem.MarkComplete method (Outlook)
 keywords: vbaol11.chm1753
 f1_keywords:
 - vbaol11.chm1753
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.MarkComplete Method (Outlook)
+# TaskItem.MarkComplete method (Outlook)
 
 Marks the task as completed.
 
@@ -21,7 +21,7 @@ Marks the task as completed.
 
 _expression_. `MarkComplete`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Shape.Flip Method (Publisher)
+title: Shape.Flip method (Publisher)
 keywords: vbapb10.chm2228245
 f1_keywords:
 - vbapb10.chm2228245
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Flip Method (Publisher)
+# Shape.Flip method (Publisher)
 
 Flips the specified shape around its horizontal or vertical axis, or flips all the shapes in the specified shape range around their horizontal or vertical axes.
 
 
 ## Syntax
 
- _expression_. **Flip**(**_FlipCmd_**)
+ _expression_.**Flip**(**_FlipCmd_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

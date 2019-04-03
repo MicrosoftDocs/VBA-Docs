@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # PivotField.Function property (Excel)
 
-Returns or sets the function used to summarize the PivotTable field (data fields only). Read/write  **[xlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
+Returns or sets the function used to summarize the PivotTable field (data fields only). Read/write  **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
 
 
 ## Syntax
 
 _expression_. `Function`
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks

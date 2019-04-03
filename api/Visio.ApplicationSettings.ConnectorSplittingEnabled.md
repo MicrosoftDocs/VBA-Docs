@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ConnectorSplittingEnabled Property (Visio)
+title: ApplicationSettings.ConnectorSplittingEnabled property (Visio)
 keywords: vis_sdr.chm16251890
 f1_keywords:
 - vis_sdr.chm16251890
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ConnectorSplittingEnabled Property (Visio)
+# ApplicationSettings.ConnectorSplittingEnabled property (Visio)
 
 Determines whether connector splitting is enabled in Microsoft Visio. Read/write.
 
 
 ## Syntax
 
- _expression_. `ConnectorSplittingEnabled`
+_expression_. `ConnectorSplittingEnabled`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

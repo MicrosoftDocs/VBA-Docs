@@ -1,5 +1,5 @@
 ---
-title: Slide.Copy Method (PowerPoint)
+title: Slide.Copy method (PowerPoint)
 keywords: vbapp10.chm531013
 f1_keywords:
 - vbapp10.chm531013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.Copy Method (PowerPoint)
+# Slide.Copy method (PowerPoint)
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PjExceptionType Enumeration (Project)
+title: PjExceptionType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjExceptionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjExceptionType Enumeration (Project)
+# PjExceptionType enumeration (Project)
 
 Contains constants that specify a type of calendar exception.
 

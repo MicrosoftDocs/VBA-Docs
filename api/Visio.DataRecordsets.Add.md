@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.Add Method (Visio)
+title: DataRecordsets.Add method (Visio)
 keywords: vis_sdr.chm16316005
 f1_keywords:
 - vis_sdr.chm16316005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.Add Method (Visio)
+# DataRecordsets.Add method (Visio)
 
 Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecordsets](Visio.DataRecordsets.md)** collection by connecting to and retrieving data from an OLEDB or ODBC data source.
 
@@ -22,7 +22,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
 ## Syntax
 
- _expression_. `Add`( `_ConnectionIDOrString_` , `_CommandString_` , `_AddOptions_` , `_Name_` )
+ _expression_.**Add**( `_ConnectionIDOrString_` , `_CommandString_` , `_AddOptions_` , `_Name_` )
 
  _expression_ A variable that represents a [DataRecordsets](./Visio.DataRecordsets.md) object.
 

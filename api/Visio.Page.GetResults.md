@@ -1,5 +1,5 @@
 ---
-title: Page.GetResults Method (Visio)
+title: Page.GetResults method (Visio)
 keywords: vis_sdr.chm10916320
 f1_keywords:
 - vis_sdr.chm10916320
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.GetResults Method (Visio)
+# Page.GetResults method (Visio)
 
 Gets the results or formulas of many cells.
 
 
 ## Syntax
 
- _expression_. `GetResults`( `_SID_SRCStream()_` , `_Flags_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` )
+_expression_. `GetResults`( `_SID_SRCStream()_` , `_Flags_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

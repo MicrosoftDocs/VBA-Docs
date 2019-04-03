@@ -1,5 +1,5 @@
 ---
-title: DocumentWindows.Item Method (PowerPoint)
+title: DocumentWindows.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindows.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindows.Item Method (PowerPoint)
+# DocumentWindows.Item method (PowerPoint)
 
 Returns a single  **DocumentWindow** object from the specified **DocumentWindows** collection.
 

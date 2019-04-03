@@ -1,5 +1,5 @@
 ---
-title: UpBars.Delete Method (PowerPoint)
+title: UpBars.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# UpBars.Delete Method (PowerPoint)
+# UpBars.Delete method (PowerPoint)
 
 Deletes the object.
 

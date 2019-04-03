@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.ColorEffect Property (PowerPoint)
+title: AnimationBehavior.ColorEffect property (PowerPoint)
 keywords: vbapp10.chm657007
 f1_keywords:
 - vbapp10.chm657007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.ColorEffect Property (PowerPoint)
+# AnimationBehavior.ColorEffect property (PowerPoint)
 
 Returns a  **[ColorEffect](PowerPoint.ColorEffect.md)** object that represents the color properties for a specified animation behavior.
 
 
 ## Syntax
 
- _expression_. `ColorEffect`
+_expression_. `ColorEffect`
 
 _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 

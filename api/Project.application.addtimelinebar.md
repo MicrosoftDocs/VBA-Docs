@@ -1,5 +1,5 @@
 ---
-title: Application.AddTimelineBar Method (Project)
+title: Application.AddTimelineBar method (Project)
 keywords: vbapj.chm157
 f1_keywords:
 - vbapj.chm157
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AddTimelineBar Method (Project)
+# Application.AddTimelineBar method (Project)
 
 Adds a  **timeline** bar to the view. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `AddTimelineBar`
+_expression_. `AddTimelineBar`
 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 

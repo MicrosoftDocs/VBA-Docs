@@ -1,5 +1,5 @@
 ---
-title: Fonts Object (PowerPoint)
+title: Fonts object (PowerPoint)
 keywords: vbapp10.chm528000
 f1_keywords:
 - vbapp10.chm528000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts Object (PowerPoint)
+# Fonts object (PowerPoint)
 
 A collection of all the  **[Font](PowerPoint.Font.md)** objects in the specified presentation.
 

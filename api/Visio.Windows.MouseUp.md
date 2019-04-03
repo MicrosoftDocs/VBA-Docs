@@ -1,5 +1,5 @@
 ---
-title: Windows.MouseUp Event (Visio)
+title: Windows.MouseUp event (Visio)
 keywords: vis_sdr.chm11751300
 f1_keywords:
 - vis_sdr.chm11751300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.MouseUp Event (Visio)
+# Windows.MouseUp event (Visio)
 
 Occurs when a mouse button is released.
 

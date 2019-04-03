@@ -1,5 +1,5 @@
 ---
-title: Application.JobStart Event (Project)
+title: Application.JobStart event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.JobStart
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.JobStart Event (Project)
+# Application.JobStart event (Project)
 
 Occurs before the queue job is put on the server queue. Project Professional only.
 
 
 ## Syntax
 
- _expression_. `JobStart`( `_bstrName_`, `_bstrprojGuid_`, `_bstrjobGuid_`, `_jobType_`, `_lResult_` )
+_expression_. `JobStart`( `_bstrName_`, `_bstrprojGuid_`, `_bstrjobGuid_`, `_jobType_`, `_lResult_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

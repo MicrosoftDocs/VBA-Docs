@@ -1,5 +1,5 @@
 ---
-title: Application.PresentationBeforeClose Event (PowerPoint)
+title: Application.PresentationBeforeClose event (PowerPoint)
 keywords: vbapp10.chm621025
 f1_keywords:
 - vbapp10.chm621025
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PresentationBeforeClose Event (PowerPoint)
+# Application.PresentationBeforeClose event (PowerPoint)
 
 Represents a  **Presentation** object before it closes.
 
 
 ## Syntax
 
- _expression_. `PresentationBeforeClose`( `_Pres_`, `_Cancel_` )
+_expression_. `PresentationBeforeClose`( `_Pres_`, `_Cancel_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

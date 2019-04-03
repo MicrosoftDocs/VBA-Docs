@@ -1,5 +1,5 @@
 ---
-title: ContactItem.LastModificationTime Property (Outlook)
+title: ContactItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm943
 f1_keywords:
 - vbaol11.chm943
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.LastModificationTime Property (Outlook)
+# ContactItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** specifying the date and time that the Outlook item was last 
 
 _expression_. `LastModificationTime`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

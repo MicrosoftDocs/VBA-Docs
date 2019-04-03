@@ -1,5 +1,5 @@
 ---
-title: WeekDay.Name Property (Project)
+title: WeekDay.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.WeekDay.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WeekDay.Name Property (Project)
+# WeekDay.Name property (Project)
 
 Gets the name of a  **Weekday** object. Read-only **String**.
 

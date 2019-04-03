@@ -19,7 +19,7 @@ Inserts an XE (Index Entry) field after all instances of the text in  **Range**.
 
 ## Syntax
 
- _expression_. `MarkAllEntries`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_CrossReference_` , `_CrossReferenceAutoText_` , `_BookmarkName_` , `_Bold_` , `_Italic_` )
+_expression_. `MarkAllEntries`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_CrossReference_` , `_CrossReferenceAutoText_` , `_BookmarkName_` , `_Bold_` , `_Italic_` )
 
  _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 

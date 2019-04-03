@@ -1,5 +1,5 @@
 ---
-title: Application.OutlineShowAllTasks Method (Project)
+title: Application.OutlineShowAllTasks method (Project)
 keywords: vbapj.chm2022
 f1_keywords:
 - vbapj.chm2022
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OutlineShowAllTasks Method (Project)
+# Application.OutlineShowAllTasks method (Project)
 
 Expands all summary tasks in the project.
 
 
 ## Syntax
 
- _expression_. `OutlineShowAllTasks`
+_expression_. `OutlineShowAllTasks`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

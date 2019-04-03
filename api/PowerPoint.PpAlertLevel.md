@@ -1,5 +1,5 @@
 ---
-title: PpAlertLevel Enumeration (PowerPoint)
+title: PpAlertLevel enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpAlertLevel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpAlertLevel Enumeration (PowerPoint)
+# PpAlertLevel enumeration (PowerPoint)
 
 Specifies whether Microsoft PowerPoint displays alerts while running a macro.
 

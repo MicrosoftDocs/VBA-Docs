@@ -1,5 +1,5 @@
 ---
-title: Page.OriginalPage Property (Visio)
+title: Page.OriginalPage property (Visio)
 keywords: vis_sdr.chm10951695
 f1_keywords:
 - vis_sdr.chm10951695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.OriginalPage Property (Visio)
+# Page.OriginalPage property (Visio)
 
  Returns the **Page** object that represents the original Microsoft Visio drawing page that was marked up on separate markup overlays by reviewers of the drawing. Read-only.
 
 
 ## Syntax
 
- _expression_. `OriginalPage`
+_expression_. `OriginalPage`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

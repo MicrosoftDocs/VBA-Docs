@@ -1,5 +1,5 @@
 ---
-title: ContactItem.LastFirstNoSpace Property (Outlook)
+title: ContactItem.LastFirstNoSpace property (Outlook)
 keywords: vbaol11.chm1028
 f1_keywords:
 - vbaol11.chm1028
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.LastFirstNoSpace Property (Outlook)
+# ContactItem.LastFirstNoSpace property (Outlook)
 
 Returns a  **String** representing the concatenated last name, first name, and middle name of the contact with no space between the last name and the first name. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the concatenated last name, first name, and m
 
 _expression_. `LastFirstNoSpace`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

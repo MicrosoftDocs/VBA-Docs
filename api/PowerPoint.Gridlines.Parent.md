@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Parent Property (PowerPoint)
+title: Gridlines.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Gridlines.Parent Property (PowerPoint)
+# Gridlines.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

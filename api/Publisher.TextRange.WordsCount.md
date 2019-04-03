@@ -1,5 +1,5 @@
 ---
-title: TextRange.WordsCount Property (Publisher)
+title: TextRange.WordsCount property (Publisher)
 keywords: vbapb10.chm5308499
 f1_keywords:
 - vbapb10.chm5308499
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.WordsCount Property (Publisher)
+# TextRange.WordsCount property (Publisher)
 
 Returns the number of words in the text range represented by the parent  **TextRange** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **WordsCount**
+ _expression_.**WordsCount**
 
  _expression_ A variable that represents a  **TextRange** object.
 

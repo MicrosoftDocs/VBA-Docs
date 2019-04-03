@@ -1,5 +1,5 @@
 ---
-title: Characters.ParaPropsRow Property (Visio)
+title: Characters.ParaPropsRow property (Visio)
 keywords: vis_sdr.chm10214035
 f1_keywords:
 - vis_sdr.chm10214035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.ParaPropsRow Property (Visio)
+# Characters.ParaPropsRow property (Visio)
 
 Returns the index of the row in the Paragraph section of a ShapeSheet window that contains paragraph-formatting information for a  **Characters** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ParaPropsRow`( `_BiasLorR_` )
+_expression_. `ParaPropsRow`( `_BiasLorR_` )
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

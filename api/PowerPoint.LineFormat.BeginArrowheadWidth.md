@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadWidth Property (PowerPoint)
+title: LineFormat.BeginArrowheadWidth property (PowerPoint)
 keywords: vbapp10.chm553005
 f1_keywords:
 - vbapp10.chm553005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.BeginArrowheadWidth Property (PowerPoint)
+# LineFormat.BeginArrowheadWidth property (PowerPoint)
 
 Returns or sets the width of the arrowhead at the beginning of the specified line. Read/write.
 
 
 ## Syntax
 
- _expression_. `BeginArrowheadWidth`
+_expression_. `BeginArrowheadWidth`
 
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
@@ -43,7 +43,7 @@ The value of the  **BeginArrowheadWidth** property can be one of these **MsoArro
 
 ## Example
 
-This example adds a line to  `myDocument`. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
+This example adds a line to  _myDocument_. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
 
 ```vb

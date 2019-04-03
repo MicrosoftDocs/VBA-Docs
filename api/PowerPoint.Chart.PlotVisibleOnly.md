@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotVisibleOnly Property (PowerPoint)
+title: Chart.PlotVisibleOnly property (PowerPoint)
 keywords: vbapp10.chm684039
 f1_keywords:
 - vbapp10.chm684039
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.PlotVisibleOnly Property (PowerPoint)
+# Chart.PlotVisibleOnly property (PowerPoint)
 
  **True** if only visible cells are plotted. **False** if both visible and hidden cells are plotted. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PlotVisibleOnly`
+_expression_. `PlotVisibleOnly`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

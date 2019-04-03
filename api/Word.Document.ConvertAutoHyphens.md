@@ -19,7 +19,7 @@ Converts hyphens created by automatic hyphenation to manual hyphens.
 
 ## Syntax
 
- _expression_. `ConvertAutoHyphens`
+_expression_. `ConvertAutoHyphens`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

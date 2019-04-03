@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalTaskTables Property (Project)
+title: Application.GlobalTaskTables property (Project)
 keywords: vbapj.chm132299
 f1_keywords:
 - vbapj.chm132299
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalTaskTables Property (Project)
+# Application.GlobalTaskTables property (Project)
 
 Gets or sets a  **[Tables](Project.Table.md)** collection representing the task tables of the Global.mpt file. Read/write **Tables**.
 
 
 ## Syntax
 
- _expression_. `GlobalTaskTables`
+_expression_. `GlobalTaskTables`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

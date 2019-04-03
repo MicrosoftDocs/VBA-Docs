@@ -21,7 +21,7 @@ Returns the name of the custom subtotal used to sort the specified PivotTable fi
 
 _expression_. `AutoSortCustomSubtotal`
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks

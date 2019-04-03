@@ -1,5 +1,5 @@
 ---
-title: Month.Days Property (Project)
+title: Month.Days property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Days
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Month.Days Property (Project)
+# Month.Days property (Project)
 
 Gets a  **[Days](Project.Day.md)** collection representing the days in the month. Read-only **Days**.
 
 
 ## Syntax
 
- _expression_. `Days`
+_expression_. `Days`
 
  _expression_ A variable that represents a [Month](./Project.Month.md) object.
 

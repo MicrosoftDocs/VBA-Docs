@@ -1,5 +1,5 @@
 ---
-title: Application.AdvancedSearchComplete Event (Outlook)
+title: Application.AdvancedSearchComplete event (Outlook)
 keywords: vbaol11.chm435
 f1_keywords:
 - vbaol11.chm435
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AdvancedSearchComplete Event (Outlook)
+# Application.AdvancedSearchComplete event (Outlook)
 
 Occurs when the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method has completed.
 
@@ -21,7 +21,7 @@ Occurs when the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** met
 
 _expression_. `AdvancedSearchComplete`( `_SearchObject_` )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters

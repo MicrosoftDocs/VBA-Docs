@@ -1,5 +1,5 @@
 ---
-title: ExtraColors Object (PowerPoint)
+title: ExtraColors object (PowerPoint)
 keywords: vbapp10.chm529000
 f1_keywords:
 - vbapp10.chm529000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExtraColors Object (PowerPoint)
+# ExtraColors object (PowerPoint)
 
 Represents the extra colors in a presentation. The object can contain up to eight colors, each of which is represented by an red-green-blue (RGB) value.
 

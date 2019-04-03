@@ -1,5 +1,5 @@
 ---
-title: OverAllocatedAssignments.Item Property (Project)
+title: OverAllocatedAssignments.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.OverAllocatedAssignments.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OverAllocatedAssignments.Item Property (Project)
+# OverAllocatedAssignments.Item property (Project)
 
 Gets a single  **Assignment** object from the **OverAllocatedAssignments** collection. Read-only **[Assignment](Project.Assignment.md)**.
 

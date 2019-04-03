@@ -1,5 +1,5 @@
 ---
-title: Windows2.Count Property (Project)
+title: Windows2.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Windows2.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Windows2.Count Property (Project)
+# Windows2.Count property (Project)
 
 Gets the number of items in the  **Windows2** collection. Read-only **Long**.
 

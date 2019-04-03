@@ -1,5 +1,5 @@
 ---
-title: ReportItem.MessageClass Property (Outlook)
+title: ReportItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1653
 f1_keywords:
 - vbaol11.chm1653
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.MessageClass Property (Outlook)
+# ReportItem.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the message class for the Outlook ite
 
 _expression_. `MessageClass`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks

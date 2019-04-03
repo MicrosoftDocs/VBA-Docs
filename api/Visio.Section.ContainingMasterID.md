@@ -1,5 +1,5 @@
 ---
-title: Section.ContainingMasterID Property (Visio)
+title: Section.ContainingMasterID property (Visio)
 keywords: vis_sdr.chm15751700
 f1_keywords:
 - vis_sdr.chm15751700
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Section.ContainingMasterID Property (Visio)
+# Section.ContainingMasterID property (Visio)
 
 Returns the ID of the  **Master** object that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingMasterID`
+_expression_. `ContainingMasterID`
 
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 

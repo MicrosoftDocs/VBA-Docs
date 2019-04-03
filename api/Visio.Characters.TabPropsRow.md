@@ -1,5 +1,5 @@
 ---
-title: Characters.TabPropsRow Property (Visio)
+title: Characters.TabPropsRow property (Visio)
 keywords: vis_sdr.chm10214480
 f1_keywords:
 - vis_sdr.chm10214480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.TabPropsRow Property (Visio)
+# Characters.TabPropsRow property (Visio)
 
 Returns the index of the row in the Tabs section of the ShapeSheet that contains tab formatting information for a  **Characters** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `TabPropsRow`( `_BiasLorR_` )
+_expression_. `TabPropsRow`( `_BiasLorR_` )
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

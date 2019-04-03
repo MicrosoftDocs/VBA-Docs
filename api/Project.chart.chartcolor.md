@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartColor Property (Project)
+title: Chart.ChartColor property (Project)
 ms.prod: project-server
 ms.assetid: bd8b5b9c-abfe-761b-a4bd-2978c43b9565
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.ChartColor Property (Project)
+# Chart.ChartColor property (Project)
 Gets or sets the index of chart colors for the active chart. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. `ChartColor`
+_expression_. `ChartColor`
 
  _expression_ A variable that represents a 'Chart' object.
 

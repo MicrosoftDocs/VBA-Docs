@@ -1,5 +1,5 @@
 ---
-title: Folder.UserDefinedProperties Property (Outlook)
+title: Folder.UserDefinedProperties property (Outlook)
 keywords: vbaol11.chm2021
 f1_keywords:
 - vbaol11.chm2021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.UserDefinedProperties Property (Outlook)
+# Folder.UserDefinedProperties property (Outlook)
 
 Returns a  **[UserDefinedProperties](Outlook.UserDefinedProperties.md)** object that represents the user-defined custom properties for the **[Folder](Outlook.Folder.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[UserDefinedProperties](Outlook.UserDefinedProperties.md)** object 
 
 _expression_. `UserDefinedProperties`
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## See also

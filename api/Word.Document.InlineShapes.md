@@ -19,7 +19,7 @@ Returns an  **[InlineShapes](Word.Document.InlineShapes.md)** collection that re
 
 ## Syntax
 
- _expression_. `InlineShapes`
+_expression_. `InlineShapes`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

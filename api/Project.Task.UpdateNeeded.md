@@ -1,5 +1,5 @@
 ---
-title: Task.UpdateNeeded Property (Project)
+title: Task.UpdateNeeded property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.UpdateNeeded
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.UpdateNeeded Property (Project)
+# Task.UpdateNeeded property (Project)
 
  **True** if at least one resource assigned to the task needs to be updated regarding the status of the task. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UpdateNeeded`
+_expression_. `UpdateNeeded`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.AutoScaling Property (Project)
+title: Chart.AutoScaling property (Project)
 ms.prod: project-server
 ms.assetid: d7e1c8f7-8a2b-0474-1b4a-28a63605e929
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.AutoScaling Property (Project)
+# Chart.AutoScaling property (Project)
  **True** if Project scales a 3-D chart so that it is closer in size to the equivalent 2-D chart. Read/write **Boolean**.
 
 ## Syntax
 
- _expression_. `AutoScaling`
+_expression_. `AutoScaling`
 
  _expression_ A variable that represents a 'Chart' object.
 

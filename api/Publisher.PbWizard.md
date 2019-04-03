@@ -1,5 +1,5 @@
 ---
-title: PbWizard Enumeration (Publisher)
+title: PbWizard enumeration (Publisher)
 keywords: vbapb10.chm65601
 f1_keywords:
 - vbapb10.chm65601
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWizard Enumeration (Publisher)
+# PbWizard enumeration (Publisher)
 
 The wizard to use to create the new publication.
 

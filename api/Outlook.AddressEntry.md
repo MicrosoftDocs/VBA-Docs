@@ -1,5 +1,5 @@
 ---
-title: AddressEntry Object (Outlook)
+title: AddressEntry object (Outlook)
 keywords: vbaol11.chm2037
 f1_keywords:
 - vbaol11.chm2037
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry Object (Outlook)
+# AddressEntry object (Outlook)
 
 Represents a person, group, or public folder to which the messaging system can deliver messages.
 
@@ -42,13 +42,13 @@ Set myAddressEntry = myRecipient.AddressEntry
 
 |Name|
 |:-----|
-|[Delete](./Outlook.AddressEntry.Delete.md)|
-|[Details](./Outlook.AddressEntry.Details.md)|
-|[GetContact](./Outlook.AddressEntry.GetContact.md)|
-|[GetExchangeDistributionList](./Outlook.AddressEntry.GetExchangeDistributionList.md)|
-|[GetExchangeUser](./Outlook.AddressEntry.GetExchangeUser.md)|
-|[GetFreeBusy](./Outlook.AddressEntry.GetFreeBusy.md)|
-|[Update](./Outlook.AddressEntry.Update.md)|
+|[Delete](Outlook.AddressEntry.Delete.md)|
+|[Details](Outlook.AddressEntry.Details.md)|
+|[GetContact](Outlook.AddressEntry.GetContact.md)|
+|[GetExchangeDistributionList](Outlook.AddressEntry.GetExchangeDistributionList.md)|
+|[GetExchangeUser](Outlook.AddressEntry.GetExchangeUser.md)|
+|[GetFreeBusy](Outlook.AddressEntry.GetFreeBusy.md)|
+|[Update](Outlook.AddressEntry.Update.md)|
 
 ## Properties
 
@@ -56,22 +56,22 @@ Set myAddressEntry = myRecipient.AddressEntry
 
 |Name|
 |:-----|
-|[Address](./Outlook.AddressEntry.Address.md)|
-|[AddressEntryUserType](./Outlook.AddressEntry.AddressEntryUserType.md)|
-|[Application](./Outlook.AddressEntry.Application.md)|
-|[Class](./Outlook.AddressEntry.Class.md)|
-|[DisplayType](./Outlook.AddressEntry.DisplayType.md)|
-|[ID](./Outlook.AddressEntry.ID.md)|
-|[Name](./Outlook.AddressEntry.Name.md)|
-|[Parent](./Outlook.AddressEntry.Parent.md)|
-|[PropertyAccessor](./Outlook.AddressEntry.PropertyAccessor.md)|
-|[Session](./Outlook.AddressEntry.Session.md)|
-|[Type](./Outlook.AddressEntry.Type.md)|
+|[Address](Outlook.AddressEntry.Address.md)|
+|[AddressEntryUserType](Outlook.AddressEntry.AddressEntryUserType.md)|
+|[Application](Outlook.AddressEntry.Application.md)|
+|[Class](Outlook.AddressEntry.Class.md)|
+|[DisplayType](Outlook.AddressEntry.DisplayType.md)|
+|[ID](Outlook.AddressEntry.ID.md)|
+|[Name](Outlook.AddressEntry.Name.md)|
+|[Parent](Outlook.AddressEntry.Parent.md)|
+|[PropertyAccessor](Outlook.AddressEntry.PropertyAccessor.md)|
+|[Session](Outlook.AddressEntry.Session.md)|
+|[Type](Outlook.AddressEntry.Type.md)|
 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[AddressEntry Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[AddressEntry Object Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

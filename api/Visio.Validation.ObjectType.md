@@ -1,5 +1,5 @@
 ---
-title: Validation.ObjectType Property (Visio)
+title: Validation.ObjectType property (Visio)
 keywords: vis_sdr.chm18013960
 f1_keywords:
 - vis_sdr.chm18013960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Validation.ObjectType Property (Visio)
+# Validation.ObjectType property (Visio)
 
 Returns  **visObjTypeValidation**, the type of this object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 

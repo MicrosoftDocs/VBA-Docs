@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Chart.DisplayBlanksAs property (Word)
 
-Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[xlDisplayBlanksAs](Word.xldisplayblanksas.md)** constants. Read/write **Long**.
+Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[XlDisplayBlanksAs](Word.xldisplayblanksas.md)** constants. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `DisplayBlanksAs`
+_expression_. `DisplayBlanksAs`
 
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 

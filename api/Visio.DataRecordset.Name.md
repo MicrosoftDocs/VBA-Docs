@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.Name Property (Visio)
+title: DataRecordset.Name property (Visio)
 keywords: vis_sdr.chm16413930
 f1_keywords:
 - vis_sdr.chm16413930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.Name Property (Visio)
+# DataRecordset.Name property (Visio)
 
 Gets or sets the display name of the data recordset. Read/write.
 

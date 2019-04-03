@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK.Yellow Property (Publisher)
+title: ColorCMYK.Yellow property (Publisher)
 keywords: vbapb10.chm2621446
 f1_keywords:
 - vbapb10.chm2621446
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorCMYK.Yellow Property (Publisher)
+# ColorCMYK.Yellow property (Publisher)
 
 Sets or returns a  **Long** that represents the yellow component of a CMYK color. Value can be any number between 0 and 255. Read/write.
 
 
 ## Syntax
 
- _expression_. **Yellow**
+ _expression_.**Yellow**
 
  _expression_ A variable that represents a  **ColorCMYK** object.
 

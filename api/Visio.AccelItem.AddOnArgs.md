@@ -1,5 +1,5 @@
 ---
-title: AccelItem.AddOnArgs Property (Visio)
+title: AccelItem.AddOnArgs property (Visio)
 keywords: vis_sdr.chm14513045
 f1_keywords:
 - vis_sdr.chm14513045
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AccelItem.AddOnArgs Property (Visio)
+# AccelItem.AddOnArgs property (Visio)
 
 Gets or sets the argument string that you send to the add-on associated with a particular accelerator key. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddOnArgs`
+_expression_. `AddOnArgs`
 
  _expression_ An expression that returns a [AccelItem](./Visio.AccelItem.md) object.
 

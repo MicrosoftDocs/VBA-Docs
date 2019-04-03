@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email3Address Property (Outlook)
+title: ContactItem.Email3Address property (Outlook)
 keywords: vbaol11.chm999
 f1_keywords:
 - vbaol11.chm999
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Email3Address Property (Outlook)
+# ContactItem.Email3Address property (Outlook)
 
 Returns or sets a  **String** representing the email address of the third email entry for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the email address of the third email 
 
 _expression_. `Email3Address`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example

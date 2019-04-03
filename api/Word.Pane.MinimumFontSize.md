@@ -19,7 +19,7 @@ Returns or sets the minimum font size (in points) displayed for the specified pa
 
 ## Syntax
 
- _expression_. `MinimumFontSize`
+_expression_. `MinimumFontSize`
 
  _expression_ An expression that returns a '[Pane](Word.Pane.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: PpRevisionInfo Enumeration (PowerPoint)
+title: PpRevisionInfo enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpRevisionInfo
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpRevisionInfo Enumeration (PowerPoint)
+# PpRevisionInfo enumeration (PowerPoint)
 
 Constants that specify the status of revision information in a presentation. In previous versions of Microsoft PowerPoint, these constants were returned by the  **HasRevisionInfo** property of the **Presentation** object. In Microsoft Office PowerPoint 2007, the **HasRevisionInfo** property was deprecated.
 

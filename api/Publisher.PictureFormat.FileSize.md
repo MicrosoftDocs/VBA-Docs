@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.FileSize Property (Publisher)
+title: PictureFormat.FileSize property (Publisher)
 keywords: vbapb10.chm3604757
 f1_keywords:
 - vbapb10.chm3604757
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.FileSize Property (Publisher)
+# PictureFormat.FileSize property (Publisher)
 
 Returns a  **Long** that represents, in bytes, the size of the picture or OLE object as it appears in the specified publication. Read-only.
 
 
 ## Syntax
 
- _expression_. **FileSize**
+ _expression_.**FileSize**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

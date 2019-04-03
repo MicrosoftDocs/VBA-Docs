@@ -1,5 +1,5 @@
 ---
-title: CodeMask.Item Property (Project)
+title: CodeMask.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.CodeMask.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CodeMask.Item Property (Project)
+# CodeMask.Item property (Project)
 
 Gets a single  **CodeMaskLevel** object from the **CodeMask** collection. Read-only **CodeMaskLevel**.
 

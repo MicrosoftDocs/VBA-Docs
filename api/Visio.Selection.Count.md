@@ -1,5 +1,5 @@
 ---
-title: Selection.Count Property (Visio)
+title: Selection.Count property (Visio)
 keywords: vis_sdr.chm11113330
 f1_keywords:
 - vis_sdr.chm11113330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Count Property (Visio)
+# Selection.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.SuccessorTasks Property (Project)
+title: Task.SuccessorTasks property (Project)
 keywords: vbapj.chm132673
 f1_keywords:
 - vbapj.chm132673
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.SuccessorTasks Property (Project)
+# Task.SuccessorTasks property (Project)
 
 Gets a  **[Tasks](Project.Task.md)** collection representing the successors of the task. Read-only **Tasks**.
 
 
 ## Syntax
 
- _expression_. `SuccessorTasks`
+_expression_. `SuccessorTasks`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.DataTable Property (PowerPoint)
+title: Chart.DataTable property (PowerPoint)
 keywords: vbapp10.chm684003
 f1_keywords:
 - vbapp10.chm684003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.DataTable Property (PowerPoint)
+# Chart.DataTable property (PowerPoint)
 
 Returns the chart data table. Read-only  **[DataTable](PowerPoint.DataTable.md)**.
 
 
 ## Syntax
 
- _expression_. `DataTable`
+_expression_. `DataTable`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

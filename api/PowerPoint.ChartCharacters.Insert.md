@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Insert Method (PowerPoint)
+title: ChartCharacters.Insert method (PowerPoint)
 keywords: vbapp10.chm65788
 f1_keywords:
 - vbapp10.chm65788
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartCharacters.Insert Method (PowerPoint)
+# ChartCharacters.Insert method (PowerPoint)
 
 Inserts a string preceding the selected characters.
 
 
 ## Syntax
 
- _expression_. `Insert`( `_String_` )
+_expression_. `Insert`( `_String_` )
 
 _expression_ A variable that represents a '[ChartCharacters](PowerPoint.ChartCharacters.md)' object.
 

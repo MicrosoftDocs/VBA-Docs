@@ -1,5 +1,5 @@
 ---
-title: TableView.ViewFields Property (Outlook)
+title: TableView.ViewFields property (Outlook)
 keywords: vbaol11.chm2517
 f1_keywords:
 - vbaol11.chm2517
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.ViewFields Property (Outlook)
+# TableView.ViewFields property (Outlook)
 
 Returns a  **[ViewFields](Outlook.ViewFields.md)** object that represents the set of fields with which Outlook items are displayed in the **[TableView](Outlook.TableView.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[ViewFields](Outlook.ViewFields.md)** object that represents the se
 
 _expression_. `ViewFields`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## See also

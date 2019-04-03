@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.WidowControl Property (Publisher)
+title: ParagraphFormat.WidowControl property (Publisher)
 keywords: vbapb10.chm5439536
 f1_keywords:
 - vbapb10.chm5439536
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.WidowControl Property (Publisher)
+# ParagraphFormat.WidowControl property (Publisher)
 
 Sets or returns an  **MsoTriState** that represents whether or not the first or last line of the specified paragraph can appear by itself in a text box. Read/write.
 
 
 ## Syntax
 
- _expression_. **WidowControl**
+ _expression_.**WidowControl**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

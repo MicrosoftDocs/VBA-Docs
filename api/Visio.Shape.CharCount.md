@@ -1,5 +1,5 @@
 ---
-title: Shape.CharCount Property (Visio)
+title: Shape.CharCount property (Visio)
 keywords: vis_sdr.chm11213220
 f1_keywords:
 - vis_sdr.chm11213220
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CharCount Property (Visio)
+# Shape.CharCount property (Visio)
 
 Returns the number of characters in an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CharCount`
+_expression_. `CharCount`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

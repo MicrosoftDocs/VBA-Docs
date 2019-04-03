@@ -1,5 +1,5 @@
 ---
-title: ColumnFormat.FieldFormat Property (Outlook)
+title: ColumnFormat.FieldFormat property (Outlook)
 keywords: vbaol11.chm2729
 f1_keywords:
 - vbaol11.chm2729
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColumnFormat.FieldFormat Property (Outlook)
+# ColumnFormat.FieldFormat property (Outlook)
 
 Returns or sets a  **Long** value that represents the display format of the property to which the **[ColumnFormat](Outlook.ColumnFormat.md)** object is associated. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** value that represents the display format of the prop
 
 _expression_. `FieldFormat`
 
-_expression_ A variable that represents a [ColumnFormat](./Outlook.ColumnFormat.md) object.
+_expression_ A variable that represents a [ColumnFormat](Outlook.ColumnFormat.md) object.
 
 
 ## Remarks

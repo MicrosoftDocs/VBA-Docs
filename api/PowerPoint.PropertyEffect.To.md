@@ -1,5 +1,5 @@
 ---
-title: PropertyEffect.To Property (PowerPoint)
+title: PropertyEffect.To property (PowerPoint)
 keywords: vbapp10.chm662006
 f1_keywords:
 - vbapp10.chm662006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PropertyEffect.To Property (PowerPoint)
+# PropertyEffect.To property (PowerPoint)
 
 Sets or returns a  **Variant** that represents the ending value of an object's property. Read/write.
 
 
 ## Syntax
 
- _expression_. `To`
+_expression_. `To`
 
  _expression_ A variable that represents a [PropertyEffect](./PowerPoint.PropertyEffect.md) object.
 

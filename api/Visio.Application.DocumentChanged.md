@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentChanged Event (Visio)
+title: Application.DocumentChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.DocumentChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentChanged Event (Visio)
+# Application.DocumentChanged event (Visio)
 
 Occurs after certain properties of a document are changed.
 

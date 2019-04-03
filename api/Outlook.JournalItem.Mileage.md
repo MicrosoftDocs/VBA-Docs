@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Mileage Property (Outlook)
+title: JournalItem.Mileage property (Outlook)
 keywords: vbaol11.chm1247
 f1_keywords:
 - vbaol11.chm1247
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Mileage Property (Outlook)
+# JournalItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the mileage for an item. Read/write.
 
 _expression_. `Mileage`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

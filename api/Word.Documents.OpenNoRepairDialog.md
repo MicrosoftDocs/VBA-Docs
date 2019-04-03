@@ -19,7 +19,7 @@ Opens the specified document and adds it to the [Documents](Word.documents.md) c
 
 ## Syntax
 
- _expression_. `OpenNoRepairDialog`( `_FileName_` , `_ConfirmConversions_` , `_ReadOnly_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_Format_` , `_Encoding_` , `_Visible_` , `_OpenAndRepair_` , `_DocumentDirection_` , `_NoEncodingDialog_` , `_XMLTransform_` )
+_expression_. `OpenNoRepairDialog`( `_FileName_` , `_ConfirmConversions_` , `_ReadOnly_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_Format_` , `_Encoding_` , `_Visible_` , `_OpenAndRepair_` , `_DocumentDirection_` , `_NoEncodingDialog_` , `_XMLTransform_` )
 
  _expression_ A variable that represents a '[Documents](Word.documents.md)' object.
 

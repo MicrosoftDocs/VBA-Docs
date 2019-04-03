@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.TextLevelEffect Property (PowerPoint)
+title: AnimationSettings.TextLevelEffect property (PowerPoint)
 keywords: vbapp10.chm565011
 f1_keywords:
 - vbapp10.chm565011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.TextLevelEffect Property (PowerPoint)
+# AnimationSettings.TextLevelEffect property (PowerPoint)
 
 Indicates whether the text in the specified shape is animated by first-level paragraphs, second-level paragraphs, or some other level of paragraphs (up to fifth-level paragraphs). Read/write.
 
 
 ## Syntax
 
- _expression_. `TextLevelEffect`
+_expression_. `TextLevelEffect`
 
 _expression_ A variable that represents a [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

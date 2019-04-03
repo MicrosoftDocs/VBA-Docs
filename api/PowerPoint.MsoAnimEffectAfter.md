@@ -1,5 +1,5 @@
 ---
-title: MsoAnimEffectAfter Enumeration (PowerPoint)
+title: MsoAnimEffectAfter enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimEffectAfter
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimEffectAfter Enumeration (PowerPoint)
+# MsoAnimEffectAfter enumeration (PowerPoint)
 
 Not used with PowerPoint.
 

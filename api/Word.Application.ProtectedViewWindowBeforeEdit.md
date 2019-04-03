@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowBeforeEdit Event (Word)
+title: Application.ProtectedViewWindowBeforeEdit event (Word)
 keywords: vbawd10.chm4000031
 f1_keywords:
 - vbawd10.chm4000031
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowBeforeEdit Event (Word)
+# Application.ProtectedViewWindowBeforeEdit event (Word)
 
 Occurs immediately before editing is enabled on the document in the specified protected view window.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowBeforeEdit`( `_PvWindow_` , `_Cancel_` )
+_expression_. `ProtectedViewWindowBeforeEdit`( `_PvWindow_` , `_Cancel_` )
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.TopPane Property (Project)
+title: Window.TopPane property (Project)
 keywords: vbapj.chm132762
 f1_keywords:
 - vbapj.chm132762
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.TopPane Property (Project)
+# Window.TopPane property (Project)
 
 Gets a  **[Pane](Project.Pane.md)** object representing the top pane of the window. Read-only **Pane**.
 
 
 ## Syntax
 
- _expression_. `TopPane`
+_expression_. `TopPane`
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

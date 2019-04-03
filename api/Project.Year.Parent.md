@@ -1,5 +1,5 @@
 ---
-title: Year.Parent Property (Project)
+title: Year.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Year.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Year.Parent Property (Project)
+# Year.Parent property (Project)
 
 Gets the parent of the  **Year** object. Read-only **Calendar**.
 

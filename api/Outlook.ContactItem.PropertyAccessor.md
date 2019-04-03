@@ -1,5 +1,5 @@
 ---
-title: ContactItem.PropertyAccessor Property (Outlook)
+title: ContactItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1093
 f1_keywords:
 - vbaol11.chm1093
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.PropertyAccessor Property (Outlook)
+# ContactItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **ContactItem** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

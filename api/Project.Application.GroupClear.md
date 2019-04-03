@@ -1,5 +1,5 @@
 ---
-title: Application.GroupClear Method (Project)
+title: Application.GroupClear method (Project)
 keywords: vbapj.chm515
 f1_keywords:
 - vbapj.chm515
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GroupClear Method (Project)
+# Application.GroupClear method (Project)
 
 Removes the current group from the view.
 
 
 ## Syntax
 
- _expression_. `GroupClear`
+_expression_. `GroupClear`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

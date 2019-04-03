@@ -1,5 +1,5 @@
 ---
-title: PropertyPage Object (Outlook)
+title: PropertyPage object (Outlook)
 keywords: vbaol11.chm380
 f1_keywords:
 - vbaol11.chm380
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPage Object (Outlook)
+# PropertyPage object (Outlook)
 
 Represents a custom property page in the  **Options** dialog box or in the folder **Properties** dialog box.
 
@@ -81,6 +81,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

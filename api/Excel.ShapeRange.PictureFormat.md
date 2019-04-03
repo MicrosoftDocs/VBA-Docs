@@ -21,12 +21,12 @@ Returns a  **[PictureFormat](Excel.PictureFormat.md)** object that contains pict
 
 _expression_. `PictureFormat`
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Example
 
-This example sets the brightness and contrast for shape one on  `myDocument`. Shape one must be a picture or an OLE object.
+This example sets the brightness and contrast for shape one on  _myDocument_. Shape one must be a picture or an OLE object.
 
 
 ```vb

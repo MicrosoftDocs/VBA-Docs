@@ -1,5 +1,5 @@
 ---
-title: Resource.SetField Method (Project)
+title: Resource.SetField method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.SetField
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.SetField Method (Project)
+# Resource.SetField method (Project)
 
 Sets the value of the specified resource custom field.
 
 
 ## Syntax
 
- _expression_. `SetField`( `_FieldID_`, `_Value_` )
+_expression_. `SetField`( `_FieldID_`, `_Value_` )
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

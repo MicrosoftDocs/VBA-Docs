@@ -1,5 +1,5 @@
 ---
-title: TableView.Filter Property (Outlook)
+title: TableView.Filter property (Outlook)
 keywords: vbaol11.chm2516
 f1_keywords:
 - vbaol11.chm2516
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Filter Property (Outlook)
+# TableView.Filter property (Outlook)
 
 Returns or sets a  **String** value that represents the filter for a view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the filter for a view. Read/
 
 _expression_. `Filter`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks

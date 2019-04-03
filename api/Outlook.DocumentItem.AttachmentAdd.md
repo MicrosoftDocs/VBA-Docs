@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.AttachmentAdd Event (Outlook)
+title: DocumentItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.AttachmentAdd Event (Outlook)
+# DocumentItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 _expression_. `AttachmentAdd`( `_Attachment_` )
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AutoKeyboardSwitching`
+_expression_. `AutoKeyboardSwitching`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 

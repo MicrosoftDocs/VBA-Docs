@@ -1,5 +1,5 @@
 ---
-title: DistListItem.TaskStartDate Property (Outlook)
+title: DistListItem.TaskStartDate property (Outlook)
 keywords: vbaol11.chm1170
 f1_keywords:
 - vbaol11.chm1170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.TaskStartDate Property (Outlook)
+# DistListItem.TaskStartDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the start date of the task for this **[DistListItem](Outlook.DistListItem.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the start date of the task for
 
 _expression_. `TaskStartDate`
 
- _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
+ _expression_ An expression that returns a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

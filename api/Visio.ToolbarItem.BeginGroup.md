@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.BeginGroup Property (Visio)
+title: ToolbarItem.BeginGroup property (Visio)
 keywords: vis_sdr.chm13551115
 f1_keywords:
 - vis_sdr.chm13551115
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.BeginGroup Property (Visio)
+# ToolbarItem.BeginGroup property (Visio)
 
 Determines whether a toolbar item appears at the beginning of a group of items on the toolbar. Read/write.
 
 
 ## Syntax
 
- _expression_. `BeginGroup`
+_expression_. `BeginGroup`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 

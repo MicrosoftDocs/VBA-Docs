@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.PatternStartDate Property (Outlook)
+title: RecurrencePattern.PatternStartDate property (Outlook)
 keywords: vbaol11.chm284
 f1_keywords:
 - vbaol11.chm284
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.PatternStartDate Property (Outlook)
+# RecurrencePattern.PatternStartDate property (Outlook)
 
 Returns or sets a  **Date** indicating the start date for the recurrence pattern. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the start date for the recurrence pattern
 
 _expression_. `PatternStartDate`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## See also

@@ -16,9 +16,9 @@ Determines whether a shape's custom properties (shape data) are displayed in the
 
 ## Syntax
 
- _expression_. **PropControl**
+ _expression_.**PropControl**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value

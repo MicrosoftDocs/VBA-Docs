@@ -1,5 +1,5 @@
 ---
-title: Selection.BreakLinkToData Method (Visio)
+title: Selection.BreakLinkToData method (Visio)
 keywords: vis_sdr.chm11160195
 f1_keywords:
 - vis_sdr.chm11160195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.BreakLinkToData Method (Visio)
+# Selection.BreakLinkToData method (Visio)
 
 Breaks links between all shapes in the selection and data rows in the specified data recordset.
 
@@ -22,7 +22,7 @@ Breaks links between all shapes in the selection and data rows in the specified 
 
 ## Syntax
 
- _expression_. `BreakLinkToData`( `_DataRecordsetID_` )
+_expression_. `BreakLinkToData`( `_DataRecordsetID_` )
 
  _expression_ An expression that returns a [Selection](./Visio.Selection.md) object.
 

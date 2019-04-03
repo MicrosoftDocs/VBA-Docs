@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DialogFont Property (Visio)
+title: InvisibleApp.DialogFont property (Visio)
 keywords: vis_sdr.chm17552075
 f1_keywords:
 - vis_sdr.chm17552075
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DialogFont Property (Visio)
+# InvisibleApp.DialogFont property (Visio)
 
 Returns information about the fonts that Microsoft Visio uses in its dialog boxes. Read-only.
 
 
 ## Syntax
 
- _expression_. `DialogFont`
+_expression_. `DialogFont`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

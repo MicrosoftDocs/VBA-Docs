@@ -1,5 +1,5 @@
 ---
-title: PropertyEffect.Points Property (PowerPoint)
+title: PropertyEffect.Points property (PowerPoint)
 keywords: vbapp10.chm662004
 f1_keywords:
 - vbapp10.chm662004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PropertyEffect.Points Property (PowerPoint)
+# PropertyEffect.Points property (PowerPoint)
 
 Returns an  **AnimationPoints** object that represents a point in an animation.
 
 
 ## Syntax
 
- _expression_. `Points`
+_expression_. `Points`
 
  _expression_ A variable that represents a [PropertyEffect](./PowerPoint.PropertyEffect.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.VerticalAlignment Property (PowerPoint)
+title: ChartTitle.VerticalAlignment property (PowerPoint)
 keywords: vbapp10.chm694010
 f1_keywords:
 - vbapp10.chm694010
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.VerticalAlignment Property (PowerPoint)
+# ChartTitle.VerticalAlignment property (PowerPoint)
 
 Returns or sets the vertical alignment of the specified object. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_. `VerticalAlignment`
 
 _expression_ A variable that represents a '[ChartTitle](PowerPoint.ChartTitle.md)' object.
 
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[xlConstants](PowerPoint.XlConstants.md)** constants:
+You can set the value of this property to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
 -  **xlBottom**

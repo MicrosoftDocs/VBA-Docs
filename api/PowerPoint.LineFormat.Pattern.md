@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Pattern Property (PowerPoint)
+title: LineFormat.Pattern property (PowerPoint)
 keywords: vbapp10.chm553011
 f1_keywords:
 - vbapp10.chm553011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Pattern Property (PowerPoint)
+# LineFormat.Pattern property (PowerPoint)
 
 Sets or returns a value that represents the pattern applied to the specified line. Read/write.
 
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
@@ -31,7 +31,7 @@ Sets or returns a value that represents the pattern applied to the specified lin
 
 ## Example
 
-This example adds a patterned line to  `myDocument`.
+This example adds a patterned line to  _myDocument_.
 
 
 ```vb

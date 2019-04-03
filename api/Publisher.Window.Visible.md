@@ -1,5 +1,5 @@
 ---
-title: Window.Visible Property (Publisher)
+title: Window.Visible property (Publisher)
 keywords: vbapb10.chm262153
 f1_keywords:
 - vbapb10.chm262153
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Visible Property (Publisher)
+# Window.Visible property (Publisher)
 
  **True** if the window is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_.**Visible**
 
  _expression_ A variable that represents a  **Window** object.
 

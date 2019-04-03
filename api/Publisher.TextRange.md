@@ -1,5 +1,5 @@
 ---
-title: TextRange Object (Publisher)
+title: TextRange object (Publisher)
 keywords: vbapb10.chm5373951
 f1_keywords:
 - vbapb10.chm5373951
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange Object (Publisher)
+# TextRange object (Publisher)
 
 Contains the text that is attached to a shape, in addition to properties and methods for manipulating the text. This topic describes how to: 
 

@@ -1,5 +1,5 @@
 ---
-title: Font.NumberStyle Property (Publisher)
+title: Font.NumberStyle property (Publisher)
 keywords: vbapb10.chm5374006
 f1_keywords:
 - vbapb10.chm5374006
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Font.NumberStyle Property (Publisher)
+# Font.NumberStyle property (Publisher)
 
 Returns or sets a  **[pbNumberStyles](Publisher.pbnumberstylestype.md)** constant that represents the state of the **NumberStyles** property on the numerical characters in a text range. Read/write.
 
@@ -24,7 +24,7 @@ Returns or sets a  **[pbNumberStyles](Publisher.pbnumberstylestype.md)** constan
 
 ## Return Value
 
- ** [pbNumberStyles](Publisher.pbnumberstylestype.md)**
+ **[pbNumberStyles](Publisher.pbnumberstylestype.md)**
 
 
 ## Remarks

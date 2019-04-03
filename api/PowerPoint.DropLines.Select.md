@@ -1,5 +1,5 @@
 ---
-title: DropLines.Select Method (PowerPoint)
+title: DropLines.Select method (PowerPoint)
 keywords: vbapp10.chm701007
 f1_keywords:
 - vbapp10.chm701007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropLines.Select Method (PowerPoint)
+# DropLines.Select method (PowerPoint)
 
 Selects the object.
 

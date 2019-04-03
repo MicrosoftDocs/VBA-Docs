@@ -1,5 +1,5 @@
 ---
-title: PjViewType Enumeration (Project)
+title: PjViewType enumeration (Project)
 ms.prod: project-server
 ms.assetid: b9173645-e4f9-e514-a5a3-1d57241e3a66
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# PjViewType Enumeration (Project)
+# PjViewType enumeration (Project)
 
 Contains constants that specify a view in Project.
 

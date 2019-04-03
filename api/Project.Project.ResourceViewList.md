@@ -1,5 +1,5 @@
 ---
-title: Project.ResourceViewList Property (Project)
+title: Project.ResourceViewList property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ResourceViewList
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ResourceViewList Property (Project)
+# Project.ResourceViewList property (Project)
 
 Gets a  **[List](Project.List.md)** object representing all resource views in the active project. Read-only **List**.
 
 
 ## Syntax
 
- _expression_. `ResourceViewList`
+_expression_. `ResourceViewList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

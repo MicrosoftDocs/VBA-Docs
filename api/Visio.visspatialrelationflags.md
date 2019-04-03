@@ -1,5 +1,5 @@
 ---
-title: VisSpatialRelationFlags Enumeration (Visio)
+title: VisSpatialRelationFlags enumeration (Visio)
 keywords: vis_sdr.chm70230
 f1_keywords:
 - vis_sdr.chm70230
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSpatialRelationFlags Enumeration (Visio)
+# VisSpatialRelationFlags enumeration (Visio)
 
 Flags passed to various properties of the  **Shape** object, including the **DistanceFrom**, **DistanceFromPoint**, **SpatialNeighbors**, **SpatialRelation**, and **SpatialSearch** properties.
 

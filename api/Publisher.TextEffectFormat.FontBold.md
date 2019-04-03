@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontBold Property (Publisher)
+title: TextEffectFormat.FontBold property (Publisher)
 keywords: vbapb10.chm3735809
 f1_keywords:
 - vbapb10.chm3735809
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontBold Property (Publisher)
+# TextEffectFormat.FontBold property (Publisher)
 
 Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is bold. Read/write.
 
 
 ## Syntax
 
- _expression_. **FontBold**
+ _expression_.**FontBold**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
 
 ## Remarks
 
-The  **FontBold** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **FontBold** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

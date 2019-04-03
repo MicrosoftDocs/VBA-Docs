@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementContrast Method (Publisher)
+title: PictureFormat.IncrementContrast method (Publisher)
 keywords: vbapb10.chm3604497
 f1_keywords:
 - vbapb10.chm3604497
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IncrementContrast Method (Publisher)
+# PictureFormat.IncrementContrast method (Publisher)
 
 Changes the contrast of the picture by the specified amount.
 
 
 ## Syntax
 
- _expression_. **IncrementContrast**(**_Increment_**)
+ _expression_.**IncrementContrast**(**_Increment_**)
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

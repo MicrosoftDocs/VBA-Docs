@@ -1,5 +1,5 @@
 ---
-title: Effect.MoveTo Method (PowerPoint)
+title: Effect.MoveTo method (PowerPoint)
 keywords: vbapp10.chm652004
 f1_keywords:
 - vbapp10.chm652004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Effect.MoveTo Method (PowerPoint)
+# Effect.MoveTo method (PowerPoint)
 
 Moves the specified object to a specific location within the same collection, renumbering all other items in the collection appropriately.
 
 
 ## Syntax
 
- _expression_. `MoveTo`( `_toPos_` )
+_expression_. `MoveTo`( `_toPos_` )
 
 _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Count Property (Visio)
+title: OLEObjects.Count property (Visio)
 keywords: vis_sdr.chm15113330
 f1_keywords:
 - vis_sdr.chm15113330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEObjects.Count Property (Visio)
+# OLEObjects.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

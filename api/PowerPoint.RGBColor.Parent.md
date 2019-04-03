@@ -1,5 +1,5 @@
 ---
-title: RGBColor.Parent Property (PowerPoint)
+title: RGBColor.Parent property (PowerPoint)
 keywords: vbapp10.chm538002
 f1_keywords:
 - vbapp10.chm538002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RGBColor.Parent Property (PowerPoint)
+# RGBColor.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Documents.DocumentCloseCanceled Event (Visio)
+title: Documents.DocumentCloseCanceled event (Visio)
 keywords: vis_sdr.chm10619340
 f1_keywords:
 - vis_sdr.chm10619340
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.DocumentCloseCanceled Event (Visio)
+# Documents.DocumentCloseCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelDocumentClose** event.
 

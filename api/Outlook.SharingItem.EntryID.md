@@ -1,5 +1,5 @@
 ---
-title: SharingItem.EntryID Property (Outlook)
+title: SharingItem.EntryID property (Outlook)
 keywords: vbaol11.chm606
 f1_keywords:
 - vbaol11.chm606
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.EntryID Property (Outlook)
+# SharingItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the **[SharingItem](Ou
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

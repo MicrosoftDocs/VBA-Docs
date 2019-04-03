@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetThreeDFormat Property (PowerPoint)
+title: ThreeDFormat.PresetThreeDFormat property (PowerPoint)
 keywords: vbapp10.chm557015
 f1_keywords:
 - vbapp10.chm557015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetThreeDFormat Property (PowerPoint)
+# ThreeDFormat.PresetThreeDFormat property (PowerPoint)
 
 Returns the preset extrusion format. Read-only.
 
 
 ## Syntax
 
- _expression_. `PresetThreeDFormat`
+_expression_. `PresetThreeDFormat`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -64,7 +64,7 @@ The value of the  **PresetThreeDFormat** property can be one of these **MsoPrese
 
 ## Example
 
-This example sets the extrusion format for shape one on  `myDocument` to 3D Style 12 if the shape initially has a custom extrusion format.
+This example sets the extrusion format for shape one on  _myDocument_ to 3D Style 12 if the shape initially has a custom extrusion format.
 
 
 ```vb

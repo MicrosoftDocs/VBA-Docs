@@ -1,5 +1,5 @@
 ---
-title: XlLegendPosition Enumeration (PowerPoint)
+title: XlLegendPosition enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlLegendPosition
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlLegendPosition Enumeration (PowerPoint)
+# XlLegendPosition enumeration (PowerPoint)
 
 Specifies the position of the legend on a chart.
 

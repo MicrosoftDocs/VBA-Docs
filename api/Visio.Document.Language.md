@@ -1,5 +1,5 @@
 ---
-title: Document.Language Property (Visio)
+title: Document.Language property (Visio)
 keywords: vis_sdr.chm10551705
 f1_keywords:
 - vis_sdr.chm10551705
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Language Property (Visio)
+# Document.Language property (Visio)
 
 Represents the language ID of the version of the Microsoft Visio instance represented by the parent object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Language`
+_expression_. `Language`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

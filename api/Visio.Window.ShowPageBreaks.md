@@ -1,5 +1,5 @@
 ---
-title: Window.ShowPageBreaks Property (Visio)
+title: Window.ShowPageBreaks property (Visio)
 keywords: vis_sdr.chm11614365
 f1_keywords:
 - vis_sdr.chm11614365
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ShowPageBreaks Property (Visio)
+# Window.ShowPageBreaks property (Visio)
 
 Determines whether page breaks are shown in a window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowPageBreaks`
+_expression_. `ShowPageBreaks`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `BoldBi`
+_expression_. `BoldBi`
 
  _expression_ An expression that returns a '[Range](Word.Range.md)' object.
 

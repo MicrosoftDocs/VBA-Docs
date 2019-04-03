@@ -1,5 +1,5 @@
 ---
-title: Application.BoxGetXPosition Method (Project)
+title: Application.BoxGetXPosition method (Project)
 keywords: vbapj.chm131246
 f1_keywords:
 - vbapj.chm131246
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxGetXPosition Method (Project)
+# Application.BoxGetXPosition method (Project)
 
 Returns the horizontal position of the upper-left corner of a box in the active Network Diagram. At a zoom setting of 100%, the number of nonscaleable units returned by  **BoxGetXPosition** is equivalent to an equal number of pixels.
 
 
 ## Syntax
 
- _expression_. `BoxGetXPosition`( `_TaskID_`, `_ProjectName_` )
+_expression_. `BoxGetXPosition`( `_TaskID_`, `_ProjectName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape Object (Publisher)
+title: Shape object (Publisher)
 keywords: vbapb10.chm2293759
 f1_keywords:
 - vbapb10.chm2293759
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape Object (Publisher)
+# Shape object (Publisher)
 
 Represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, ActiveX control, or picture. The  **Shape** object is a member of the **[Shapes](./Publisher.Shapes.md)** collection, which includes all the shapes on a page or in a selection.
 

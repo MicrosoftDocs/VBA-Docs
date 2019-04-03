@@ -1,5 +1,5 @@
 ---
-title: SharingItem.RTFBody Property (Outlook)
+title: SharingItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3537
 f1_keywords:
 - vbaol11.chm3537
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.RTFBody Property (Outlook)
+# SharingItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 

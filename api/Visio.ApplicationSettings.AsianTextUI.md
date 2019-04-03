@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.AsianTextUI Property (Visio)
+title: ApplicationSettings.AsianTextUI property (Visio)
 keywords: vis_sdr.chm16251920
 f1_keywords:
 - vis_sdr.chm16251920
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.AsianTextUI Property (Visio)
+# ApplicationSettings.AsianTextUI property (Visio)
 
 Gets whether Asian text is displayed in the Microsoft Visio user interface. Read-only.
 
 
 ## Syntax
 
- _expression_. `AsianTextUI`
+_expression_. `AsianTextUI`
 
  _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

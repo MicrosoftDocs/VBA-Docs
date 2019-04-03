@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.SectionID Method (PowerPoint)
+title: SectionProperties.SectionID method (PowerPoint)
 keywords: vbapp10.chm725012
 f1_keywords:
 - vbapp10.chm725012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.SectionID Method (PowerPoint)
+# SectionProperties.SectionID method (PowerPoint)
 
 Returns a string that represents the unique identifier of the specified section.
 
 
 ## Syntax
 
- _expression_. `SectionID`( `_sectionIndex_` )
+_expression_. `SectionID`( `_sectionIndex_` )
 
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 

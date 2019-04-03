@@ -1,5 +1,5 @@
 ---
-title: Resource.Project Property (Project)
+title: Resource.Project property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Project
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Project Property (Project)
+# Resource.Project property (Project)
 
 Gets the name of the project containing the  **Resource**. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Project`
+_expression_. `Project`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

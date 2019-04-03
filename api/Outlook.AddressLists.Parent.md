@@ -1,5 +1,5 @@
 ---
-title: AddressLists.Parent Property (Outlook)
+title: AddressLists.Parent property (Outlook)
 keywords: vbaol11.chm91
 f1_keywords:
 - vbaol11.chm91
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressLists.Parent Property (Outlook)
+# AddressLists.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [AddressLists](./Outlook.AddressLists.md) object.
+_expression_ A variable that represents an [AddressLists](Outlook.AddressLists.md) object.
 
 
 ## See also

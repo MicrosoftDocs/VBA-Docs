@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Active Property (PowerPoint)
+title: DocumentWindow.Active property (PowerPoint)
 keywords: vbapp10.chm511008
 f1_keywords:
 - vbapp10.chm511008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.Active Property (PowerPoint)
+# DocumentWindow.Active property (PowerPoint)
 
 Returns whether the specified pane or window is active. Read-only.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_. `Active`
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ProductCode Property (Publisher)
+title: Application.ProductCode property (Publisher)
 keywords: vbapb10.chm131105
 f1_keywords:
 - vbapb10.chm131105
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProductCode Property (Publisher)
+# Application.ProductCode property (Publisher)
 
 Returns a  **String** indicating the Microsoft Publisher globally unique identifier (GUID). Read-only.
 
 
 ## Syntax
 
- _expression_. **ProductCode**
+ _expression_.**ProductCode**
 
  _expression_ A variable that represents a  **Application** object.
 

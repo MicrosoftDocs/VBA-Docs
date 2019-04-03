@@ -21,12 +21,12 @@ Applies to the specified shape formatting that's been copied by using the  **[Pi
 
 _expression_. `Apply`
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Example
 
-This example copies the formatting of shape one on  `myDocument` and then applies the copied formatting to shape two.
+This example copies the formatting of shape one on  _myDocument_ and then applies the copied formatting to shape two.
 
 
 ```vb

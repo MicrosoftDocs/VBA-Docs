@@ -1,5 +1,5 @@
 ---
-title: Master.DrawLine Method (Visio)
+title: Master.DrawLine method (Visio)
 keywords: vis_sdr.chm10716200
 f1_keywords:
 - vis_sdr.chm10716200
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawLine Method (Visio)
+# Master.DrawLine method (Visio)
 
 Adds a line to the  **Shapes** collection of a master.
 
 
 ## Syntax
 
- _expression_. `DrawLine`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` )
+_expression_. `DrawLine`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

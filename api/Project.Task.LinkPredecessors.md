@@ -1,5 +1,5 @@
 ---
-title: Task.LinkPredecessors Method (Project)
+title: Task.LinkPredecessors method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.LinkPredecessors
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.LinkPredecessors Method (Project)
+# Task.LinkPredecessors method (Project)
 
 Adds one or more predecessors to the task.
 
 
 ## Syntax
 
- _expression_. `LinkPredecessors`( `_Tasks_`, `_Link_`, `_Lag_` )
+_expression_. `LinkPredecessors`( `_Tasks_`, `_Link_`, `_Lag_` )
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

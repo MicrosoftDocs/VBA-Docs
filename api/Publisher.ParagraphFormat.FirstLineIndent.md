@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.FirstLineIndent Property (Publisher)
+title: ParagraphFormat.FirstLineIndent property (Publisher)
 keywords: vbapb10.chm5439493
 f1_keywords:
 - vbapb10.chm5439493
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.FirstLineIndent Property (Publisher)
+# ParagraphFormat.FirstLineIndent property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (measured in points) to indent the first line in a paragraph. Read/write.
 
 
 ## Syntax
 
- _expression_. **FirstLineIndent**
+ _expression_.**FirstLineIndent**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

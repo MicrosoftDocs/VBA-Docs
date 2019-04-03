@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowNextClick Event (PowerPoint)
+title: Application.SlideShowNextClick event (PowerPoint)
 keywords: vbapp10.chm621019
 f1_keywords:
 - vbapp10.chm621019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideShowNextClick Event (PowerPoint)
+# Application.SlideShowNextClick event (PowerPoint)
 
 Occurs on the next click of the slide.
 
 
 ## Syntax
 
- _expression_. `SlideShowNextClick`( `_Wn_`, `_nEffect_` )
+_expression_. `SlideShowNextClick`( `_Wn_`, `_nEffect_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

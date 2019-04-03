@@ -1,5 +1,5 @@
 ---
-title: Application.Height Property (Project)
+title: Application.Height property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Height
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Height Property (Project)
+# Application.Height property (Project)
 
 Gets or sets the height of the main window in points. Read/write  **Long**.
 

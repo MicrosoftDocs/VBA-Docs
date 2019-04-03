@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.GetRecurrencePattern Method (Outlook)
+title: AppointmentItem.GetRecurrencePattern method (Outlook)
 keywords: vbaol11.chm905
 f1_keywords:
 - vbaol11.chm905
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.GetRecurrencePattern Method (Outlook)
+# AppointmentItem.GetRecurrencePattern method (Outlook)
 
 Returns a  **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that represents the recurrence attributes of an appointment.
 
@@ -21,7 +21,7 @@ Returns a  **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that rep
 
 _expression_. `GetRecurrencePattern`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Return value

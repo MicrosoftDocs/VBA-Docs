@@ -1,5 +1,5 @@
 ---
-title: Tags.Delete Method (PowerPoint)
+title: Tags.Delete method (PowerPoint)
 keywords: vbapp10.chm611005
 f1_keywords:
 - vbapp10.chm611005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Delete Method (PowerPoint)
+# Tags.Delete method (PowerPoint)
 
 Deletes a tag.
 

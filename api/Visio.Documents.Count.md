@@ -1,5 +1,5 @@
 ---
-title: Documents.Count Property (Visio)
+title: Documents.Count property (Visio)
 keywords: vis_sdr.chm10613330
 f1_keywords:
 - vis_sdr.chm10613330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.Count Property (Visio)
+# Documents.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

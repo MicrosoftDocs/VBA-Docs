@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Activate Method (PowerPoint)
+title: DocumentWindow.Activate method (PowerPoint)
 keywords: vbapp10.chm511016
 f1_keywords:
 - vbapp10.chm511016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.Activate Method (PowerPoint)
+# DocumentWindow.Activate method (PowerPoint)
 
 Activates the specified object.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

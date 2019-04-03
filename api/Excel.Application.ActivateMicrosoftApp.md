@@ -19,7 +19,7 @@ Activates a Microsoft application. If the application is already running, this m
 
 ## Syntax
 
-_expression_. `ActivateMicrosoftApp`( `_Index_` )
+_expression_. `ActivateMicrosoftApp` (_Index_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **[xlMSApplication](Excel.XlMSApplication.md)**|Specifies the Microsoft application to activate.|
+| _Index_|Required| **[XlMSApplication](Excel.XlMSApplication.md)**|Specifies the Microsoft application to activate.|
 
 ## Example
 

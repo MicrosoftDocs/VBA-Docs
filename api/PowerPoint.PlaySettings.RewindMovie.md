@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.RewindMovie Property (PowerPoint)
+title: PlaySettings.RewindMovie property (PowerPoint)
 keywords: vbapp10.chm568007
 f1_keywords:
 - vbapp10.chm568007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PlaySettings.RewindMovie Property (PowerPoint)
+# PlaySettings.RewindMovie property (PowerPoint)
 
 Determines whether the first frame of the specified movie is automatically redisplayed as soon as the movie has finished playing. Read/write.
 
 
 ## Syntax
 
- _expression_. `RewindMovie`
+_expression_. `RewindMovie`
 
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 

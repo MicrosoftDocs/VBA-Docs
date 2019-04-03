@@ -1,5 +1,5 @@
 ---
-title: WebOptionButton.Selected Property (Publisher)
+title: WebOptionButton.Selected property (Publisher)
 keywords: vbapb10.chm4259844
 f1_keywords:
 - vbapb10.chm4259844
@@ -12,20 +12,20 @@ localization_priority: Normal
 ---
 
 
-# WebOptionButton.Selected Property (Publisher)
+# WebOptionButton.Selected property (Publisher)
 
 Specifies whether a Web check box or option button is selected. Read/write.
 
 
 ## Syntax
 
- _expression_. **Selected**
+ _expression_.**Selected**
 
  _expression_ A variable that represents a  **WebOptionButton** object.
 
 
 ## Remarks
 
-The  **Selected** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **Selected** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

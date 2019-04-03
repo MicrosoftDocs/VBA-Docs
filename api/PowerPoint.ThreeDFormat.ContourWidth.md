@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ContourWidth Property (PowerPoint)
+title: ThreeDFormat.ContourWidth property (PowerPoint)
 keywords: vbapp10.chm557033
 f1_keywords:
 - vbapp10.chm557033
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ContourWidth Property (PowerPoint)
+# ThreeDFormat.ContourWidth property (PowerPoint)
 
 Returns or sets the width of the contour around the specified  **ThreeDFormat** object, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `ContourWidth`
+_expression_. `ContourWidth`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

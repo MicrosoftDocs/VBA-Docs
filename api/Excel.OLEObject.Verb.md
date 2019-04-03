@@ -30,7 +30,7 @@ _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Verb_|Optional| **[xlOLEVerb](Excel.XlOLEVerb.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **xlOLEVerb** constants **xlOpen** and **xlPrimary**).|
+| _Verb_|Optional| **[XlOLEVerb](Excel.XlOLEVerb.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **xlOLEVerb** constants **xlOpen** and **xlPrimary**).|
 
 ## Return value
 

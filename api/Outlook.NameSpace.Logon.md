@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Logon Method (Outlook)
+title: NameSpace.Logon method (Outlook)
 keywords: vbaol11.chm767
 f1_keywords:
 - vbaol11.chm767
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Logon Method (Outlook)
+# NameSpace.Logon method (Outlook)
 
 Logs the user on to MAPI, obtaining a MAPI session.
 
@@ -21,7 +21,7 @@ Logs the user on to MAPI, obtaining a MAPI session.
 
 _expression_. `Logon`( `_Profile_` , `_Password_` , `_ShowDialog_` , `_NewSession_` )
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters

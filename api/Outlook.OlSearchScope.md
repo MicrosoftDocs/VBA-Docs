@@ -1,5 +1,5 @@
 ---
-title: OlSearchScope Enumeration (Outlook)
+title: OlSearchScope enumeration (Outlook)
 keywords: vbaol11.chm3248
 f1_keywords:
 - vbaol11.chm3248
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSearchScope Enumeration (Outlook)
+# OlSearchScope enumeration (Outlook)
 
 Specifies the scope in terms of folders for the search. 
 

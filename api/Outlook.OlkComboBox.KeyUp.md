@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.KeyUp Event (Outlook)
+title: OlkComboBox.KeyUp event (Outlook)
 keywords: vbaol11.chm1000244
 f1_keywords:
 - vbaol11.chm1000244
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.KeyUp Event (Outlook)
+# OlkComboBox.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 
@@ -21,7 +21,7 @@ Occurs when the user releases a key.
 
 _expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddShape Method (Publisher)
+title: Shapes.AddShape method (Publisher)
 keywords: vbapb10.chm2162712
 f1_keywords:
 - vbapb10.chm2162712
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddShape Method (Publisher)
+# Shapes.AddShape method (Publisher)
 
 Adds a new  **Shape** object representing an AutoShape to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddShape**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+ _expression_.**AddShape**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Width Property (Publisher)
+title: ShapeRange.Width property (Publisher)
 keywords: vbapb10.chm2293847
 f1_keywords:
 - vbapb10.chm2293847
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Width Property (Publisher)
+# ShapeRange.Width property (Publisher)
 
 Returns a  **Variant** that represents the width (in points) of a specified range of shapes. Read-only.
 
 
 ## Syntax
 
- _expression_. **Width**
+ _expression_.**Width**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

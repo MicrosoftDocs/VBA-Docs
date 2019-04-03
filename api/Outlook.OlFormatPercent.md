@@ -1,5 +1,5 @@
 ---
-title: OlFormatPercent Enumeration (Outlook)
+title: OlFormatPercent enumeration (Outlook)
 keywords: vbaol11.chm3138
 f1_keywords:
 - vbaol11.chm3138
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormatPercent Enumeration (Outlook)
+# OlFormatPercent enumeration (Outlook)
 
 Indicates the format used to display percent Outlook item properties.
 

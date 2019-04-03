@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Permission Property (Outlook)
+title: SharingItem.Permission property (Outlook)
 keywords: vbaol11.chm689
 f1_keywords:
 - vbaol11.chm689
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Permission Property (Outlook)
+# SharingItem.Permission property (Outlook)
 
 Sets or returns an  **[OlPermission](Outlook.OlPermission.md)** constant that determines what permissions to grant the recipients on the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Sets or returns an  **[OlPermission](Outlook.OlPermission.md)** constant that de
 
 _expression_. `Permission`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

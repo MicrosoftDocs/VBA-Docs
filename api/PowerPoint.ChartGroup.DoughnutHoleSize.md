@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.DoughnutHoleSize Property (PowerPoint)
+title: ChartGroup.DoughnutHoleSize property (PowerPoint)
 keywords: vbapp10.chm692009
 f1_keywords:
 - vbapp10.chm692009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.DoughnutHoleSize Property (PowerPoint)
+# ChartGroup.DoughnutHoleSize property (PowerPoint)
 
 Returns or sets the size of the hole in a doughnut chart group. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `DoughnutHoleSize`
+_expression_. `DoughnutHoleSize`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

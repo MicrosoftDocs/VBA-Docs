@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Hyperlinks Property (PowerPoint)
+title: CustomLayout.Hyperlinks property (PowerPoint)
 keywords: vbapp10.chm672010
 f1_keywords:
 - vbapp10.chm672010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Hyperlinks Property (PowerPoint)
+# CustomLayout.Hyperlinks property (PowerPoint)
 
 Returns a  **[Hyperlinks](PowerPoint.Hyperlinks.md)** collection that represents all hyperlinks on the slide associated with the specified custom layout. Read-only.
 
 
 ## Syntax
 
- _expression_. `Hyperlinks`
+_expression_. `Hyperlinks`
 
 _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

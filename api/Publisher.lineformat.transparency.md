@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Transparency Property (Publisher)
+title: LineFormat.Transparency property (Publisher)
 keywords: vbapb10.chm3408145
 f1_keywords:
 - vbapb10.chm3408145
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Transparency Property (Publisher)
+# LineFormat.Transparency property (Publisher)
 
 Returns or sets the degree of transparency of lines. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. **Transparency**
+ _expression_.**Transparency**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

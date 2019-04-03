@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.EntryID Property (Outlook)
+title: AppointmentItem.EntryID property (Outlook)
 keywords: vbaol11.chm851
 f1_keywords:
 - vbaol11.chm851
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.EntryID Property (Outlook)
+# AppointmentItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

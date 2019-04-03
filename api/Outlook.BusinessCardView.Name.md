@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Name Property (Outlook)
+title: BusinessCardView.Name property (Outlook)
 keywords: vbaol11.chm2928
 f1_keywords:
 - vbaol11.chm2928
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Name Property (Outlook)
+# BusinessCardView.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+_expression_ A variable that represents a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Application.GoalAreaHighlight Method (Project)
+title: Application.GoalAreaHighlight method (Project)
 keywords: vbapj.chm131221
 f1_keywords:
 - vbapj.chm131221
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GoalAreaHighlight Method (Project)
+# Application.GoalAreaHighlight method (Project)
 
 Highlights a goal area on the  **Project Guide** toolbar to indicate it is currently selected. Deprecated in _pjgenericshort_.
 
 
 ## Syntax
 
- _expression_. `GoalAreaHighlight`( `_goalArea_` )
+_expression_. `GoalAreaHighlight`( `_goalArea_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

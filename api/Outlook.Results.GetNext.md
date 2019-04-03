@@ -1,5 +1,5 @@
 ---
-title: Results.GetNext Method (Outlook)
+title: Results.GetNext method (Outlook)
 keywords: vbaol11.chm507
 f1_keywords:
 - vbaol11.chm507
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.GetNext Method (Outlook)
+# Results.GetNext method (Outlook)
 
 Returns the next object in the collection. 
 
@@ -21,7 +21,7 @@ Returns the next object in the collection.
 
 _expression_. `GetNext`
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Return value

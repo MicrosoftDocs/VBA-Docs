@@ -1,5 +1,5 @@
 ---
-title: Masters.AddEx Method (Visio)
+title: Masters.AddEx method (Visio)
 keywords: vis_sdr.chm10851450
 f1_keywords:
 - vis_sdr.chm10851450
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Masters.AddEx Method (Visio)
+# Masters.AddEx method (Visio)
 
 Adds a new  **Master** object of the specified type to the **Masters** collection of a Microsoft Visio document.
 
 
 ## Syntax
 
- _expression_. `AddEx`( `_Type_` )
+_expression_. `AddEx`( `_Type_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

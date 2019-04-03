@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Type Property (Outlook)
+title: SharingItem.Type property (Outlook)
 keywords: vbaol11.chm701
 f1_keywords:
 - vbaol11.chm701
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Type Property (Outlook)
+# SharingItem.Type property (Outlook)
 
 Returns or sets an  **[OlSharingMsgType](Outlook.OlSharingMsgType.md)** constant that indicates the type of sharing message represented by the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlSharingMsgType](Outlook.OlSharingMsgType.md)** constant
 
 _expression_.**Type**
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

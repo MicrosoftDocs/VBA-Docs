@@ -1,5 +1,5 @@
 ---
-title: Task.BaselineWork Property (Project)
+title: Task.BaselineWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.BaselineWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.BaselineWork Property (Project)
+# Task.BaselineWork property (Project)
 
 Gets or sets the baseline work (in minutes) for a  **Task**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `BaselineWork`
+_expression_. `BaselineWork`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

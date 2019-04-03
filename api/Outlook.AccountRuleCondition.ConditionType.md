@@ -1,5 +1,5 @@
 ---
-title: AccountRuleCondition.ConditionType Property (Outlook)
+title: AccountRuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2382
 f1_keywords:
 - vbaol11.chm2382
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountRuleCondition.ConditionType Property (Outlook)
+# AccountRuleCondition.ConditionType property (Outlook)
 
 Returns a constant,  **olConditionAccount**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant,  **olConditionAccount**, from the **[OlRuleConditionType](Ou
 
 _expression_. `ConditionType`
 
-_expression_ A variable that represents an [AccountRuleCondition](./Outlook.AccountRuleCondition.md) object.
+_expression_ A variable that represents an [AccountRuleCondition](Outlook.AccountRuleCondition.md) object.
 
 
 ## Remarks

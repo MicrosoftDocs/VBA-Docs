@@ -1,5 +1,5 @@
 ---
-title: WrapFormat Object (Publisher)
+title: WrapFormat object (Publisher)
 keywords: vbapb10.chm851967
 f1_keywords:
 - vbapb10.chm851967
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WrapFormat Object (Publisher)
+# WrapFormat object (Publisher)
 
 Represents all the properties for wrapping text around a shape or shape range.
  

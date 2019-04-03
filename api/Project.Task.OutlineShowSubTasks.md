@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineShowSubTasks Method (Project)
+title: Task.OutlineShowSubTasks method (Project)
 keywords: vbapj.chm131245
 f1_keywords:
 - vbapj.chm131245
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineShowSubTasks Method (Project)
+# Task.OutlineShowSubTasks method (Project)
 
 Shows the subtasks of the selected task or tasks.
 
 
 ## Syntax
 
- _expression_. `OutlineShowSubTasks`
+_expression_. `OutlineShowSubTasks`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

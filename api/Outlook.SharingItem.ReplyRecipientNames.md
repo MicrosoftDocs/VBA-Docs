@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReplyRecipientNames Property (Outlook)
+title: SharingItem.ReplyRecipientNames property (Outlook)
 keywords: vbaol11.chm657
 f1_keywords:
 - vbaol11.chm657
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReplyRecipientNames Property (Outlook)
+# SharingItem.ReplyRecipientNames property (Outlook)
 
 Returns a semicolon-delimited  **String** list of reply recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a semicolon-delimited  **String** list of reply recipients for the **[Sh
 
 _expression_. `ReplyRecipientNames`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

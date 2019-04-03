@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Series.MarkerForegroundColorIndex property (Excel)
 
-Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[xlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Applies only to line, scatter, and radar charts. Read/write **Long**.
+Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Applies only to line, scatter, and radar charts. Read/write **Long**.
 
 
 ## Syntax
 
 _expression_. `MarkerForegroundColorIndex`
 
-_expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## See also

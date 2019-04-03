@@ -1,5 +1,5 @@
 ---
-title: Row.ObjectType Property (Visio)
+title: Row.ObjectType property (Visio)
 keywords: vis_sdr.chm15813960
 f1_keywords:
 - vis_sdr.chm15813960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.ObjectType Property (Visio)
+# Row.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.CalloutsAssociated Property (Visio)
+title: Shape.CalloutsAssociated property (Visio)
 keywords: vis_sdr.chm11262480
 f1_keywords:
 - vis_sdr.chm11262480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CalloutsAssociated Property (Visio)
+# Shape.CalloutsAssociated property (Visio)
 
 Returns an array of  **Long** values that represent the collection of identifiers for all of the callout shapes that are associated with the target shape by a callout relationship. Read-only.
 
 
 ## Syntax
 
- _expression_. `CalloutsAssociated`
+_expression_. `CalloutsAssociated`
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 

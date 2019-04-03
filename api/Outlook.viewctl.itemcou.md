@@ -14,7 +14,7 @@ Returns a  **Long** that indicates the count of objects in the current folder di
 
 ## Syntax
 
- _expression_. **ItemCount**
+ _expression_.**ItemCount**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

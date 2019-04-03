@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectTaskNew Event (Project)
+title: Application.ProjectTaskNew event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectTaskNew
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectTaskNew Event (Project)
+# Application.ProjectTaskNew event (Project)
 
 Occurs when a new task is created.
 
 
 ## Syntax
 
- _expression_. `ProjectTaskNew`( `_pj_`, `_ID_` )
+_expression_. `ProjectTaskNew`( `_pj_`, `_ID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Legend.Creator Property (PowerPoint)
+title: Legend.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Legend.Creator Property (PowerPoint)
+# Legend.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

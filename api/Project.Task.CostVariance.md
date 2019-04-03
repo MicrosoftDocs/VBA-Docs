@@ -1,5 +1,5 @@
 ---
-title: Task.CostVariance Property (Project)
+title: Task.CostVariance property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.CostVariance
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.CostVariance Property (Project)
+# Task.CostVariance property (Project)
 
 Gets the variance between the baseline cost and the cost of a  **Task**. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `CostVariance`
+_expression_. `CostVariance`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

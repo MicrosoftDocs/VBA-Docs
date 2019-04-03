@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat Object (Publisher)
+title: ReflectionFormat object (Publisher)
 keywords: vbapb10.chm9764863
 f1_keywords:
 - vbapb10.chm9764863
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ReflectionFormat Object (Publisher)
+# ReflectionFormat object (Publisher)
 
 Represents the reflection formatting for a shape or range of shapes.
  

@@ -21,7 +21,7 @@ Returns a  **[ReflectionFormat](Office.ReflectionFormat.md)** object for a speci
 
 _expression_. `Reflection`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also

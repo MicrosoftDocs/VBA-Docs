@@ -1,5 +1,5 @@
 ---
-title: Trendline.NameIsAuto Property (PowerPoint)
+title: Trendline.NameIsAuto property (PowerPoint)
 keywords: vbapp10.chm65724
 f1_keywords:
 - vbapp10.chm65724
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Trendline.NameIsAuto Property (PowerPoint)
+# Trendline.NameIsAuto property (PowerPoint)
 
  **True** if Microsoft Word automatically determines the name of the trendline. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `NameIsAuto`
+_expression_. `NameIsAuto`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

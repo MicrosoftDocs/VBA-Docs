@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.GetSelected Method (Outlook)
+title: OlkListBox.GetSelected method (Outlook)
 keywords: vbaol11.chm1000270
 f1_keywords:
 - vbaol11.chm1000270
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.GetSelected Method (Outlook)
+# OlkListBox.GetSelected method (Outlook)
 
 Returns a  **Boolean** that indicates if the indexed item is currently selected.
 
 
 ## Syntax
 
-_expression_. `GetSelected`( `_Index_` )
+_expression_. `GetSelected` (_Index_)
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Parameters

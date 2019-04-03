@@ -1,5 +1,5 @@
 ---
-title: Shapes.Item Method (PowerPoint)
+title: Shapes.Item method (PowerPoint)
 keywords: vbapp10.chm543003
 f1_keywords:
 - vbapp10.chm543003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Item Method (PowerPoint)
+# Shapes.Item method (PowerPoint)
 
 Returns a single  **Shape** object from the specified **Shapes** collection.
 

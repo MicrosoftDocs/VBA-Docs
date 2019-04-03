@@ -21,7 +21,7 @@ Returns a **[Worksheet](excel.worksheet.md)** object that represents the active 
 
 _expression_. `ActiveSheet`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Remarks

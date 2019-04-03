@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.DrawLine Method (PowerPoint)
+title: SlideShowView.DrawLine method (PowerPoint)
 keywords: vbapp10.chm513015
 f1_keywords:
 - vbapp10.chm513015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.DrawLine Method (PowerPoint)
+# SlideShowView.DrawLine method (PowerPoint)
 
 Draws a line in the specified slide show view.
 
 
 ## Syntax
 
- _expression_. `DrawLine`( `_BeginX_`, `_BeginY_`, `_EndX_`, `_EndY_` )
+_expression_. `DrawLine`( `_BeginX_`, `_BeginY_`, `_EndX_`, `_EndY_` )
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

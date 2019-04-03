@@ -1,5 +1,5 @@
 ---
-title: Application.BuiltInMenus Property (Visio)
+title: Application.BuiltInMenus property (Visio)
 keywords: vis_sdr.chm10013160
 f1_keywords:
 - vis_sdr.chm10013160
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BuiltInMenus Property (Visio)
+# Application.BuiltInMenus property (Visio)
 
 Returns a  **UIObject** object that represents a copy of the built-in Microsoft Visio menus and accelerators. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuiltInMenus`
+_expression_. `BuiltInMenus`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

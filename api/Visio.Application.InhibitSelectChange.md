@@ -1,5 +1,5 @@
 ---
-title: Application.InhibitSelectChange Property (Visio)
+title: Application.InhibitSelectChange property (Visio)
 keywords: vis_sdr.chm10050675
 f1_keywords:
 - vis_sdr.chm10050675
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.InhibitSelectChange Property (Visio)
+# Application.InhibitSelectChange property (Visio)
 
 Determines whether shapes added to the drawing page by Automation are selected. Read/write.
 
 
 ## Syntax
 
- _expression_. `InhibitSelectChange`
+_expression_. `InhibitSelectChange`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

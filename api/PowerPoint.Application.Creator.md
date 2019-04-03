@@ -1,5 +1,5 @@
 ---
-title: Application.Creator Property (PowerPoint)
+title: Application.Creator property (PowerPoint)
 keywords: vbapp10.chm502018
 f1_keywords:
 - vbapp10.chm502018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Creator Property (PowerPoint)
+# Application.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 

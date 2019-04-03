@@ -1,5 +1,5 @@
 ---
-title: Shape.Layout Method (Visio)
+title: Shape.Layout method (Visio)
 keywords: vis_sdr.chm11216385
 f1_keywords:
 - vis_sdr.chm11216385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Layout Method (Visio)
+# Shape.Layout method (Visio)
 
 Lays out the shapes or reroutes the connectors (or both) for the page, master, group, or selection.
 

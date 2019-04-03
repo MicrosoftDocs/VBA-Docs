@@ -1,5 +1,5 @@
 ---
-title: Application.SelectEnd Method (Project)
+title: Application.SelectEnd method (Project)
 keywords: vbapj.chm2042
 f1_keywords:
 - vbapj.chm2042
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectEnd Method (Project)
+# Application.SelectEnd method (Project)
 
 Selects the last cell in the active table that contains a resource or task.
 
 
 ## Syntax
 
- _expression_. `SelectEnd`( `_Extend_` )
+_expression_. `SelectEnd`( `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

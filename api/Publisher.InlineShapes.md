@@ -1,5 +1,5 @@
 ---
-title: InlineShapes Object (Publisher)
+title: InlineShapes object (Publisher)
 keywords: vbapb10.chm5832703
 f1_keywords:
 - vbapb10.chm5832703
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InlineShapes Object (Publisher)
+# InlineShapes object (Publisher)
 
 Contains a collection of  **[Shape](Publisher.Shape.md)** objects, which represent objects in the drawing layer, where **Shape.IsInline** is **True**. The collection of shapes is limited to shapes within a given text range.
  

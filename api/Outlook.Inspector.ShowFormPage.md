@@ -1,5 +1,5 @@
 ---
-title: Inspector.ShowFormPage Method (Outlook)
+title: Inspector.ShowFormPage method (Outlook)
 keywords: vbaol11.chm2970
 f1_keywords:
 - vbaol11.chm2970
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.ShowFormPage Method (Outlook)
+# Inspector.ShowFormPage method (Outlook)
 
 Displays a button in the  **Show** group of the Microsoft Office Fluent ribbon for the inspector, clicking which shows the page or form region specified by _PageName_.
 
@@ -21,7 +21,7 @@ Displays a button in the  **Show** group of the Microsoft Office Fluent ribbon f
 
 _expression_. `ShowFormPage`( `_PageName_` )
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Account Property (Outlook)
+title: ContactItem.Account property (Outlook)
 keywords: vbaol11.chm964
 f1_keywords:
 - vbaol11.chm964
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Account Property (Outlook)
+# ContactItem.Account property (Outlook)
 
 Returns or sets a  **String** representing the account for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the account for the contact. Read/wri
 
 _expression_. `Account`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

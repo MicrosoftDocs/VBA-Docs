@@ -21,7 +21,7 @@ Returns or sets an  **[MsoTriState](Office.MsoTriState.md)** that represents whe
 
 _expression_. `RotateWithShape`
 
-_expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) object.
 
 
 ## See also

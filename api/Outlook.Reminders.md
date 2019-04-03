@@ -1,5 +1,5 @@
 ---
-title: Reminders Object (Outlook)
+title: Reminders object (Outlook)
 keywords: vbaol11.chm3015
 f1_keywords:
 - vbaol11.chm3015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders Object (Outlook)
+# Reminders object (Outlook)
 
 Contains a collection of all the  **[Reminder](Outlook.Reminder.md)** objects in a Microsoft Outlook application that represent the reminders for all pending items.
 
@@ -113,6 +113,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

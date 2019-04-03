@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Action_|Required| **[xlFilterAction](Excel.XlFilterAction.md)**|One of the constants of  **xlFilterAction** specifying whether to make a copy or filter the list in place.|
+| _Action_|Required| **[XlFilterAction](Excel.XlFilterAction.md)**|One of the constants of  **xlFilterAction** specifying whether to make a copy or filter the list in place.|
 | _CriteriaRange_|Optional| **Variant**|The criteria range. If this argument is omitted, there are no criteria.|
 | _CopyToRange_|Optional| **Variant**|The destination range for the copied rows if  _Action_ is **xlFilterCopy**. Otherwise, this argument is ignored.|
 | _Unique_|Optional| **Variant**| **True** to filter unique records only. **False** to filter all records that meet the criteria. The default value is **False**.|

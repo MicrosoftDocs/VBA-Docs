@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.ForeColor Property (Publisher)
+title: ShadowFormat.ForeColor property (Publisher)
 keywords: vbapb10.chm3670272
 f1_keywords:
 - vbapb10.chm3670272
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.ForeColor Property (Publisher)
+# ShadowFormat.ForeColor property (Publisher)
 
 Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the foreground color for the fill, line, or shadow. Read/write.
 
 
 ## Syntax
 
- _expression_. **ForeColor**
+ _expression_.**ForeColor**
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 

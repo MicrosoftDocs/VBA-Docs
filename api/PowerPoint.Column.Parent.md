@@ -1,5 +1,5 @@
 ---
-title: Column.Parent Property (PowerPoint)
+title: Column.Parent property (PowerPoint)
 keywords: vbapp10.chm624002
 f1_keywords:
 - vbapp10.chm624002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Parent Property (PowerPoint)
+# Column.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

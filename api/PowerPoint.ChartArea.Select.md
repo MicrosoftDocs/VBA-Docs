@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Select Method (PowerPoint)
+title: ChartArea.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Select Method (PowerPoint)
+# ChartArea.Select method (PowerPoint)
 
 Selects the object.
 

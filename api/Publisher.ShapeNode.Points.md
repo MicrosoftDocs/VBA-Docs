@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.Points Property (Publisher)
+title: ShapeNode.Points property (Publisher)
 keywords: vbapb10.chm3539201
 f1_keywords:
 - vbapb10.chm3539201
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode.Points Property (Publisher)
+# ShapeNode.Points property (Publisher)
 
 Gets the  _x-_ and _y-_ coordinates of the shape node. Read-only.
 
 
 ## Syntax
 
- _expression_. **Points**
+ _expression_.**Points**
 
  _expression_ A variable that represents a  **ShapeNode** object.
 

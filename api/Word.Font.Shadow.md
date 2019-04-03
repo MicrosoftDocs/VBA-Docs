@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_. `Shadow`
 
  _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 

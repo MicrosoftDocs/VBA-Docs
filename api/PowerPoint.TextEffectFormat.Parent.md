@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Parent Property (PowerPoint)
+title: TextEffectFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm556001
 f1_keywords:
 - vbapp10.chm556001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Parent Property (PowerPoint)
+# TextEffectFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

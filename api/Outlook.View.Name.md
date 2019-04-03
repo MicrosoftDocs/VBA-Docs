@@ -1,5 +1,5 @@
 ---
-title: View.Name Property (Outlook)
+title: View.Name property (Outlook)
 keywords: vbaol11.chm2491
 f1_keywords:
 - vbaol11.chm2491
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Name Property (Outlook)
+# View.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
  _expression_.**Name**
 
-_expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## See also

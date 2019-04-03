@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.WindowTurnedToPage Event (Visio)
+title: DrawingControl.WindowTurnedToPage event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.WindowTurnedToPage
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.WindowTurnedToPage Event (Visio)
+# DrawingControl.WindowTurnedToPage event (Visio)
 
 Occurs after a window shows a different page.
 

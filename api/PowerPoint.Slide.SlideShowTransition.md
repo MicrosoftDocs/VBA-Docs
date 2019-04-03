@@ -1,5 +1,5 @@
 ---
-title: Slide.SlideShowTransition Property (PowerPoint)
+title: Slide.SlideShowTransition property (PowerPoint)
 keywords: vbapp10.chm531005
 f1_keywords:
 - vbapp10.chm531005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.SlideShowTransition Property (PowerPoint)
+# Slide.SlideShowTransition property (PowerPoint)
 
 Returns a  **[SlideShowTransition](PowerPoint.SlideShowTransition.md)** object that represents the special effects for the specified slide transition. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideShowTransition`
+_expression_. `SlideShowTransition`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Line Property (PowerPoint)
+title: ChartFormat.Line property (PowerPoint)
 keywords: vbapp10.chm691003
 f1_keywords:
 - vbapp10.chm691003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartFormat.Line Property (PowerPoint)
+# ChartFormat.Line property (PowerPoint)
 
 Returns the line formatting properties for the specified chart element. Read-only  **[LineFormat](PowerPoint.LineFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Line`
+_expression_. `Line`
 
 _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.md)' object.
 

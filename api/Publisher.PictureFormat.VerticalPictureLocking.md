@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.VerticalPictureLocking Property (Publisher)
+title: PictureFormat.VerticalPictureLocking property (Publisher)
 keywords: vbapb10.chm3604745
 f1_keywords:
 - vbapb10.chm3604745
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.VerticalPictureLocking Property (Publisher)
+# PictureFormat.VerticalPictureLocking property (Publisher)
 
 Returns or sets a  **PbVerticalPictureLocking** constant indicating where newly inserted pictures appear in relation to the specified frame. Read/write.
 
 
 ## Syntax
 
- _expression_. **VerticalPictureLocking**
+ _expression_.**VerticalPictureLocking**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

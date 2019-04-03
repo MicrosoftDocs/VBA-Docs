@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyChartTemplate Method (PowerPoint)
+title: Chart.ApplyChartTemplate method (PowerPoint)
 keywords: vbapp10.chm684007
 f1_keywords:
 - vbapp10.chm684007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.ApplyChartTemplate Method (PowerPoint)
+# Chart.ApplyChartTemplate method (PowerPoint)
 
 Applies a standard or custom chart type to a chart.
 
 
 ## Syntax
 
- _expression_. `ApplyChartTemplate`( `_FileName_` )
+_expression_. `ApplyChartTemplate`( `_FileName_` )
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

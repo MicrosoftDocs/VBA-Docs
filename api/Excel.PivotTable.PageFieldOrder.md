@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotTable.PageFieldOrder property (Excel)
 
-Returns or sets the order in which page fields are added to the PivotTable report's layout. Can be one of the following  **[xlOrder](Excel.XlOrder.md)** constants: **xlDownThenOver** or **xlOverThenDown**. The default constant is **xlDownThenOver**. Read/write **Long**.
+Returns or sets the order in which page fields are added to the PivotTable report's layout. Can be one of the following  **[XlOrder](Excel.XlOrder.md)** constants: **xlDownThenOver** or **xlOverThenDown**. The default constant is **xlDownThenOver**. Read/write **Long**.
 
 
 ## Syntax

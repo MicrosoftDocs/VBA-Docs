@@ -1,5 +1,5 @@
 ---
-title: PageSizes.Application Property (Publisher)
+title: PageSizes.Application property (Publisher)
 keywords: vbapb10.chm8781826
 f1_keywords:
 - vbapb10.chm8781826
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSizes.Application Property (Publisher)
+# PageSizes.Application property (Publisher)
 
 Returns an  **Application** object that represents the creator of the parent **PageSizes** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_.**Application**
 
  _expression_ A variable that represents a  **PageSizes** collection.
 

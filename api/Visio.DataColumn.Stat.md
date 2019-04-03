@@ -1,5 +1,5 @@
 ---
-title: DataColumn.Stat Property (Visio)
+title: DataColumn.Stat property (Visio)
 keywords: vis_sdr.chm16714420
 f1_keywords:
 - vis_sdr.chm16714420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumn.Stat Property (Visio)
+# DataColumn.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
@@ -22,7 +22,7 @@ Returns status information for an object. Read-only.
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [DataColumn](./Visio.DataColumn.md) object.
 

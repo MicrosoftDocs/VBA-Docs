@@ -1,5 +1,5 @@
 ---
-title: OlResponseStatus Enumeration (Outlook)
+title: OlResponseStatus enumeration (Outlook)
 keywords: vbaol11.chm3079
 f1_keywords:
 - vbaol11.chm3079
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlResponseStatus Enumeration (Outlook)
+# OlResponseStatus enumeration (Outlook)
 
 Indicates the response to a meeting request.
 
@@ -29,6 +29,6 @@ Indicates the response to a meeting request.
 
 ## Remarks
 
-Used by [Recipient.MeetingResponseStatus Property (Outlook)](Outlook.Recipient.MeetingResponseStatus.md) and [AppointmentItem.ResponseStatus Property (Outlook)](Outlook.AppointmentItem.ResponseStatus.md).
+Used by [Recipient.MeetingResponseStatus property (Outlook)](Outlook.Recipient.MeetingResponseStatus.md) and [AppointmentItem.ResponseStatus property (Outlook)](Outlook.AppointmentItem.ResponseStatus.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

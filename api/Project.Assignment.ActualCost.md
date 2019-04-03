@@ -1,5 +1,5 @@
 ---
-title: Assignment.ActualCost Property (Project)
+title: Assignment.ActualCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ActualCost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.ActualCost Property (Project)
+# Assignment.ActualCost property (Project)
 
 Gets or sets the actual cost for the assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualCost`
+_expression_. `ActualCost`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

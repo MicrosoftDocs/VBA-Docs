@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.Document Property (Visio)
+title: ServerPublishOptions.Document property (Visio)
 keywords: vis_sdr.chm17913430
 f1_keywords:
 - vis_sdr.chm17913430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.Document Property (Visio)
+# ServerPublishOptions.Document property (Visio)
 
 Gets the  **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
 
@@ -22,7 +22,7 @@ Gets the  **[Document](Visio.Document.md)** object that is associated with an ob
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 

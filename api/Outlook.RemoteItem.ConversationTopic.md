@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.ConversationTopic Property (Outlook)
+title: RemoteItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1593
 f1_keywords:
 - vbaol11.chm1593
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.ConversationTopic Property (Outlook)
+# RemoteItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the topic of the conversation thread of the O
 
 _expression_. `ConversationTopic`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## See also

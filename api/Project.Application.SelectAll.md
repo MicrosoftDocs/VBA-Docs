@@ -1,5 +1,5 @@
 ---
-title: Application.SelectAll Method (Project)
+title: Application.SelectAll method (Project)
 keywords: vbapj.chm216
 f1_keywords:
 - vbapj.chm216
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectAll Method (Project)
+# Application.SelectAll method (Project)
 
 Selects all cells on the active sheet.
 
 
 ## Syntax
 
- _expression_. `SelectAll`
+_expression_. `SelectAll`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Application Property (PowerPoint)
+title: GroupShapes.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.GroupShapes.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# GroupShapes.Application Property (PowerPoint)
+# GroupShapes.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

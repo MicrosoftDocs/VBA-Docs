@@ -1,5 +1,5 @@
 ---
-title: Borders.Application Property (PowerPoint)
+title: Borders.Application property (PowerPoint)
 keywords: vbapp10.chm629001
 f1_keywords:
 - vbapp10.chm629001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Borders.Application Property (PowerPoint)
+# Borders.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.CustomMenusFile Property (Visio)
+title: Document.CustomMenusFile property (Visio)
 keywords: vis_sdr.chm10513350
 f1_keywords:
 - vis_sdr.chm10513350
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.CustomMenusFile Property (Visio)
+# Document.CustomMenusFile property (Visio)
 
 Gets or sets the name of the file that defines custom menus and accelerators for a  **Document** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `CustomMenusFile`
+_expression_. `CustomMenusFile`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

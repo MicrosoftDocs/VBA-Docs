@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.NavigationFolderAdd Event (Outlook)
+title: NavigationGroups.NavigationFolderAdd event (Outlook)
 keywords: vbaol11.chm2914
 f1_keywords:
 - vbaol11.chm2914
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.NavigationFolderAdd Event (Outlook)
+# NavigationGroups.NavigationFolderAdd event (Outlook)
 
 Occurs after a folder is added to a  **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
@@ -21,7 +21,7 @@ Occurs after a folder is added to a  **[NavigationGroups](Outlook.NavigationGrou
 
 _expression_. `NavigationFolderAdd`( `_NavigationFolder_` )
 
-_expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](Outlook.NavigationGroups.md) object.
 
 
 ## Parameters

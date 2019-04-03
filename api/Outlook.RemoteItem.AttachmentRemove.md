@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.AttachmentRemove Event (Outlook)
+title: RemoteItem.AttachmentRemove event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.AttachmentRemove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.AttachmentRemove Event (Outlook)
+# RemoteItem.AttachmentRemove event (Outlook)
 
 Occurs when an attachment has been removed from an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been removed from an instance of the parent object
 
 _expression_. `AttachmentRemove`( `_Attachment_` )
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Parameters

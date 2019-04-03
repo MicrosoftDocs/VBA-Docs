@@ -1,5 +1,5 @@
 ---
-title: Row.Class Property (Outlook)
+title: Row.Class property (Outlook)
 keywords: vbaol11.chm2240
 f1_keywords:
 - vbaol11.chm2240
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Class Property (Outlook)
+# Row.Class property (Outlook)
 
 Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[Row](Outlook.Row.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumera
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [Row](./Outlook.Row.md) object.
+_expression_ A variable that represents a [Row](Outlook.Row.md) object.
 
 
 ## See also

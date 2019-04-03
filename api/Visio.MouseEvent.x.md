@@ -1,5 +1,5 @@
 ---
-title: MouseEvent.x Property (Visio)
+title: MouseEvent.x property (Visio)
 keywords: vis_sdr.chm17151475
 f1_keywords:
 - vis_sdr.chm17151475
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MouseEvent.x Property (Visio)
+# MouseEvent.x property (Visio)
 
 Returns the x-coordinate of the location in the Microsoft Visio window where a  **MouseDown**, **MouseMove**, or **MouseUp** event fired. Read-only.
 
 
 ## Syntax
 
- _expression_. `x`
+_expression_. `x`
 
  _expression_ A variable that represents a [MouseEvent](./Visio.MouseEvent.md) object.
 

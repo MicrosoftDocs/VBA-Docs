@@ -1,5 +1,5 @@
 ---
-title: Resource.MaxUnits Property (Project)
+title: Resource.MaxUnits property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.MaxUnits
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.MaxUnits Property (Project)
+# Resource.MaxUnits property (Project)
 
 Gets or sets the maximum percent availability of the resource. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `MaxUnits`
+_expression_. `MaxUnits`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

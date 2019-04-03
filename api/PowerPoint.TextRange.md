@@ -1,5 +1,5 @@
 ---
-title: TextRange Object (PowerPoint)
+title: TextRange object (PowerPoint)
 keywords: vbapp10.chm569000
 f1_keywords:
 - vbapp10.chm569000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange Object (PowerPoint)
+# TextRange object (PowerPoint)
 
 Contains the text that's attached to a shape, and properties and methods for manipulating the text.
 
@@ -37,7 +37,7 @@ The following examples describe how to:
 
 ## Example
 
-Use the [TextRange](./PowerPoint.TextFrame.TextRange.md)property of the  **[TextFrame](PowerPoint.TextFrame.md)** object to return a **TextRange** object for any shape you specify. Use the [Text](./PowerPoint.TextRange.Text.md)property to return the string of text in the  **TextRange** object. The following example adds a rectangle to `myDocument` and sets the text it contains.
+Use the [TextRange](./PowerPoint.TextFrame.TextRange.md)property of the  **[TextFrame](PowerPoint.TextFrame.md)** object to return a **TextRange** object for any shape you specify. Use the [Text](./PowerPoint.TextRange.Text.md)property to return the string of text in the  **TextRange** object. The following example adds a rectangle to _myDocument_ and sets the text it contains.
 
 
 ```vb
@@ -139,6 +139,6 @@ Use one of the following methods to insert characters into a  **TextRange** obje
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseRequiredValues Property (Project)
+title: Resource.EnterpriseRequiredValues property (Project)
 keywords: vbapj.chm132119
 f1_keywords:
 - vbapj.chm132119
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseRequiredValues Property (Project)
+# Resource.EnterpriseRequiredValues property (Project)
 
  **True** if resource has enterprise required values. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseRequiredValues`
+_expression_. `EnterpriseRequiredValues`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

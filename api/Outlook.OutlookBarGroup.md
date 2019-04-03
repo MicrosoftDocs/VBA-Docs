@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroup Object (Outlook)
+title: OutlookBarGroup object (Outlook)
 keywords: vbaol11.chm320
 f1_keywords:
 - vbaol11.chm320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroup Object (Outlook)
+# OutlookBarGroup object (Outlook)
 
 Represents a group of shortcuts in the  **Shortcuts** pane of an explorer window.
 
@@ -49,6 +49,6 @@ Set myOlBarGroup = myOutlookBarGroups.Item("Other Shortcuts")
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

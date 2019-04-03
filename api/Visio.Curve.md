@@ -1,5 +1,5 @@
 ---
-title: Curve Object (Visio)
+title: Curve object (Visio)
 keywords: vis_sdr.chm10075
 f1_keywords:
 - vis_sdr.chm10075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Curve Object (Visio)
+# Curve object (Visio)
 
 An item in a  **Path** object that represents a consecutive sequence of rows in the Geometry section of its **Path** object.
 

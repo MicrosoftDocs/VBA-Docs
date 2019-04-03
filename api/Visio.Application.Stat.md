@@ -1,5 +1,5 @@
 ---
-title: Application.Stat Property (Visio)
+title: Application.Stat property (Visio)
 keywords: vis_sdr.chm10014420
 f1_keywords:
 - vis_sdr.chm10014420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Stat Property (Visio)
+# Application.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: AccelItem.Control Property (Visio)
+title: AccelItem.Control property (Visio)
 keywords: vis_sdr.chm14513325
 f1_keywords:
 - vis_sdr.chm14513325
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AccelItem.Control Property (Visio)
+# AccelItem.Control property (Visio)
 
 Determines whether the CTRL key modifies the accelerator key in an  **AccelItem** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Control`
+_expression_. `Control`
 
  _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 

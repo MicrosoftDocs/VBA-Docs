@@ -1,5 +1,5 @@
 ---
-title: Application.WebOpenFavorites Method (Project)
+title: Application.WebOpenFavorites method (Project)
 keywords: vbapj.chm1320
 f1_keywords:
 - vbapj.chm1320
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WebOpenFavorites Method (Project)
+# Application.WebOpenFavorites method (Project)
 
 Opens the Favorites folder.
 
 
 ## Syntax
 
- _expression_. `WebOpenFavorites`
+_expression_. `WebOpenFavorites`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

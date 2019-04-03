@@ -1,5 +1,5 @@
 ---
-title: Document.Saved Property (Visio)
+title: Document.Saved property (Visio)
 keywords: vis_sdr.chm10514285
 f1_keywords:
 - vis_sdr.chm10514285
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Saved Property (Visio)
+# Document.Saved property (Visio)
 
 Indicates whether a document has any unsaved changes. Read/write.
 
 
 ## Syntax
 
- _expression_. `Saved`
+_expression_. `Saved`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

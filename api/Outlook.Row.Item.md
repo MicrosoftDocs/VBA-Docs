@@ -1,5 +1,5 @@
 ---
-title: Row.Item Method (Outlook)
+title: Row.Item method (Outlook)
 keywords: vbaol11.chm2245
 f1_keywords:
 - vbaol11.chm2245
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Item Method (Outlook)
+# Row.Item method (Outlook)
 
 Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)** object at the column specified by _Index_ .
 
@@ -21,7 +21,7 @@ Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Row](./Outlook.Row.md) object.
+_expression_ A variable that represents a [Row](Outlook.Row.md) object.
 
 
 ## Parameters

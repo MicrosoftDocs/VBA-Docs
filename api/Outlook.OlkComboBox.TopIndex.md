@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.TopIndex Property (Outlook)
+title: OlkComboBox.TopIndex property (Outlook)
 keywords: vbaol11.chm1000217
 f1_keywords:
 - vbaol11.chm1000217
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.TopIndex Property (Outlook)
+# OlkComboBox.TopIndex property (Outlook)
 
 Returns or sets a  **Long** that represents the index of the item at the top of the displayed portion of the list in the combo box. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that represents the index of the item at the top of 
 
 _expression_. `TopIndex`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

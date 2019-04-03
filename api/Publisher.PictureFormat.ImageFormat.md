@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ImageFormat Property (Publisher)
+title: PictureFormat.ImageFormat property (Publisher)
 keywords: vbapb10.chm3604761
 f1_keywords:
 - vbapb10.chm3604761
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.ImageFormat Property (Publisher)
+# PictureFormat.ImageFormat property (Publisher)
 
 Returns a  **PbImageFormat** constant that represents the image format of a picture as determined by Microsoft Windows Graphics Device Interface (GDI+). Read-only.
 
 
 ## Syntax
 
- _expression_. **ImageFormat**
+ _expression_.**ImageFormat**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementDraftMaxUnits Property (Project)
+title: Resource.EngagementDraftMaxUnits property (Project)
 keywords: vbapj.chm131801
 f1_keywords:
 - vbapj.chm131801
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementDraftMaxUnits Property (Project)
+# Resource.EngagementDraftMaxUnits property (Project)
 
 Returns the draft max units for the engagement. Read-only  **Integer**. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `EngagementDraftMaxUnits`
+_expression_. `EngagementDraftMaxUnits`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

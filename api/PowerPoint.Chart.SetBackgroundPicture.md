@@ -1,5 +1,5 @@
 ---
-title: Chart.SetBackgroundPicture Method (PowerPoint)
+title: Chart.SetBackgroundPicture method (PowerPoint)
 keywords: vbapp10.chm684002
 f1_keywords:
 - vbapp10.chm684002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.SetBackgroundPicture Method (PowerPoint)
+# Chart.SetBackgroundPicture method (PowerPoint)
 
 Sets the background graphic for a chart.
 
 
 ## Syntax
 
- _expression_. `SetBackgroundPicture`( `_FileName_` )
+_expression_. `SetBackgroundPicture`( `_FileName_` )
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

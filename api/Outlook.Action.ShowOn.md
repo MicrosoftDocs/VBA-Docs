@@ -1,5 +1,5 @@
 ---
-title: Action.ShowOn Property (Outlook)
+title: Action.ShowOn property (Outlook)
 keywords: vbaol11.chm21
 f1_keywords:
 - vbaol11.chm21
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action.ShowOn Property (Outlook)
+# Action.ShowOn property (Outlook)
 
 Returns or sets an  **[OlActionShowOn](Outlook.OlActionShowOn.md)** constant representing the location where the action will be shown. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlActionShowOn](Outlook.OlActionShowOn.md)** constant rep
 
 _expression_. `ShowOn`
 
-_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](Outlook.Action.md) object.
 
 
 ## See also

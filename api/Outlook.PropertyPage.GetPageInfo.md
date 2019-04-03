@@ -1,5 +1,5 @@
 ---
-title: PropertyPage.GetPageInfo Method (Outlook)
+title: PropertyPage.GetPageInfo method (Outlook)
 keywords: vbaol11.chm381
 f1_keywords:
 - vbaol11.chm381
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPage.GetPageInfo Method (Outlook)
+# PropertyPage.GetPageInfo method (Outlook)
 
 Returns Help information about a custom property page.
 
@@ -21,7 +21,7 @@ Returns Help information about a custom property page.
 
 _expression_. `GetPageInfo`( `_HelpFile_` , `_HelpContext_` )
 
-_expression_ A variable that represents a [PropertyPage](./Outlook.PropertyPage.md) object.
+_expression_ A variable that represents a [PropertyPage](Outlook.PropertyPage.md) object.
 
 
 ## Parameters

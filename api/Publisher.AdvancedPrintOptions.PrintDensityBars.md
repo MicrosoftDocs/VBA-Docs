@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.PrintDensityBars Property (Publisher)
+title: AdvancedPrintOptions.PrintDensityBars property (Publisher)
 keywords: vbapb10.chm7077904
 f1_keywords:
 - vbapb10.chm7077904
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.PrintDensityBars Property (Publisher)
+# AdvancedPrintOptions.PrintDensityBars property (Publisher)
 
  **True** to print a density bar for the specified publication. The default is **True**. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. **PrintDensityBars**
+ _expression_.**PrintDensityBars**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 

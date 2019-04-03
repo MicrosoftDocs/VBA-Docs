@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OtherAddressStreet Property (Outlook)
+title: ContactItem.OtherAddressStreet property (Outlook)
 keywords: vbaol11.chm1055
 f1_keywords:
 - vbaol11.chm1055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OtherAddressStreet Property (Outlook)
+# ContactItem.OtherAddressStreet property (Outlook)
 
 Returns or sets a  **String** representing the street portion of the other address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the street portion of the other addre
 
 _expression_. `OtherAddressStreet`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

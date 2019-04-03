@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.AdvanceMode Property (PowerPoint)
+title: SlideShowSettings.AdvanceMode property (PowerPoint)
 keywords: vbapp10.chm514007
 f1_keywords:
 - vbapp10.chm514007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.AdvanceMode Property (PowerPoint)
+# SlideShowSettings.AdvanceMode property (PowerPoint)
 
 Returns or sets a value that indicates how the slide show advances. Read/write.
 
 
 ## Syntax
 
- _expression_. `AdvanceMode`
+_expression_. `AdvanceMode`
 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 

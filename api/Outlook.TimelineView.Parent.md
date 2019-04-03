@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Parent Property (Outlook)
+title: TimelineView.Parent property (Outlook)
 keywords: vbaol11.chm2645
 f1_keywords:
 - vbaol11.chm2645
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Parent Property (Outlook)
+# TimelineView.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
  _expression_.**Parent**
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## See also

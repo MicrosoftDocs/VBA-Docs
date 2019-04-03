@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.Click Event (Outlook)
+title: OlkCategory.Click event (Outlook)
 keywords: vbaol11.chm1000449
 f1_keywords:
 - vbaol11.chm1000449
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.Click Event (Outlook)
+# OlkCategory.Click event (Outlook)
 
 Occurs when the user clicks inside the control.
 
@@ -21,7 +21,7 @@ Occurs when the user clicks inside the control.
 
 _expression_. `Click`
 
-_expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## See also

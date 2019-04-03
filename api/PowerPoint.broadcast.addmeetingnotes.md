@@ -1,5 +1,5 @@
 ---
-title: Broadcast.AddMeetingNotes Method (PowerPoint)
+title: Broadcast.AddMeetingNotes method (PowerPoint)
 keywords: vbapp10.chm732009
 f1_keywords:
 - vbapp10.chm732009
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.AddMeetingNotes Method (PowerPoint)
+# Broadcast.AddMeetingNotes method (PowerPoint)
 
 Adds shared meeting notes for the specified broadcast that are accessible to attendees who use either Microsoft OneNote 2013 rich client or web app.
 
 
 ## Syntax
 
- _expression_. `AddMeetingNotes`_(notesUrl,_ _notesWacUrl)_
+_expression_. `AddMeetingNotes`_(notesUrl,_ _notesWacUrl)_
 
 _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 

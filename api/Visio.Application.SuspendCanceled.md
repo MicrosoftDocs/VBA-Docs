@@ -1,5 +1,5 @@
 ---
-title: Application.SuspendCanceled Event (Visio)
+title: Application.SuspendCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.SuspendCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SuspendCanceled Event (Visio)
+# Application.SuspendCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelSuspend** event.
 

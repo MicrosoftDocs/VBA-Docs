@@ -1,5 +1,5 @@
 ---
-title: Group2.Index Property (Project)
+title: Group2.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Group2.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Group2.Index Property (Project)
+# Group2.Index property (Project)
 
 Gets the index of a  **Group2** object in a **ResourceGroups2** collection or **TaskGroups2** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MessageClass Property (Outlook)
+title: ContactItem.MessageClass property (Outlook)
 keywords: vbaol11.chm945
 f1_keywords:
 - vbaol11.chm945
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MessageClass Property (Outlook)
+# ContactItem.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the message class for the Outlook ite
 
 _expression_. `MessageClass`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

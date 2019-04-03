@@ -1,5 +1,5 @@
 ---
-title: OlBodyFormat Enumeration (Outlook)
+title: OlBodyFormat enumeration (Outlook)
 keywords: vbaol11.chm3092
 f1_keywords:
 - vbaol11.chm3092
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlBodyFormat Enumeration (Outlook)
+# OlBodyFormat enumeration (Outlook)
 
 Specifies the format of the body text of an item.
 

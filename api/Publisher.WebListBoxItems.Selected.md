@@ -1,5 +1,5 @@
 ---
-title: WebListBoxItems.Selected Method (Publisher)
+title: WebListBoxItems.Selected method (Publisher)
 keywords: vbapb10.chm4128775
 f1_keywords:
 - vbapb10.chm4128775
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebListBoxItems.Selected Method (Publisher)
+# WebListBoxItems.Selected method (Publisher)
 
 Selects or cancels the selection of an item in a Web list box control.
 
 
 ## Syntax
 
- _expression_. **Selected**(**_Index_**,  **_SelectState_**)
+ _expression_.**Selected**(**_Index_**,  **_SelectState_**)
 
  _expression_ A variable that represents a  **WebListBoxItems** object.
 

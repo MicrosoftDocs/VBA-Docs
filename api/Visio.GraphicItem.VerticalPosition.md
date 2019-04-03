@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.VerticalPosition Property (Visio)
+title: GraphicItem.VerticalPosition property (Visio)
 keywords: vis_sdr.chm16960445
 f1_keywords:
 - vis_sdr.chm16960445
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.VerticalPosition Property (Visio)
+# GraphicItem.VerticalPosition property (Visio)
 
 Gets or sets the vertical position of the  **GraphicItem** object relative to the shape to which it is applied. Read/write.
 
@@ -22,7 +22,7 @@ Gets or sets the vertical position of the  **GraphicItem** object relative to th
 
 ## Syntax
 
- _expression_. `VerticalPosition`
+_expression_. `VerticalPosition`
 
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 

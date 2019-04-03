@@ -1,5 +1,5 @@
 ---
-title: Document.SharedWorkspace Property (Visio)
+title: Document.SharedWorkspace property (Visio)
 keywords: vis_sdr.chm10560136
 f1_keywords:
 - vis_sdr.chm10560136
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.SharedWorkspace Property (Visio)
+# Document.SharedWorkspace property (Visio)
 
 Returns a Microsoft Office  **SharedWorkspace** object that provides access to the Office Document Workspace object model. Read-only.
 
 
 ## Syntax
 
- _expression_. `SharedWorkspace`
+_expression_. `SharedWorkspace`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

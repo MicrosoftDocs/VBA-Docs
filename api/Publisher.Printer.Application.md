@@ -1,5 +1,5 @@
 ---
-title: Printer.Application Property (Publisher)
+title: Printer.Application property (Publisher)
 keywords: vbapb10.chm8978433
 f1_keywords:
 - vbapb10.chm8978433
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Printer.Application Property (Publisher)
+# Printer.Application property (Publisher)
 
 Returns an  **Application** object that represents the creator of the parent **Printer** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_.**Application**
 
  _expression_ A variable that represents a  **Printer** object.
 

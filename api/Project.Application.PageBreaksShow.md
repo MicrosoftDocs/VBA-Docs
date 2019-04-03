@@ -1,5 +1,5 @@
 ---
-title: Application.PageBreaksShow Method (Project)
+title: Application.PageBreaksShow method (Project)
 keywords: vbapj.chm933
 f1_keywords:
 - vbapj.chm933
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PageBreaksShow Method (Project)
+# Application.PageBreaksShow method (Project)
 
 Shows or hides page breaks on the Network Diagram.
 
 
 ## Syntax
 
- _expression_. `PageBreaksShow`( `_Show_` )
+_expression_. `PageBreaksShow`( `_Show_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.FreeformDrawingPrecision Property (Visio)
+title: ApplicationSettings.FreeformDrawingPrecision property (Visio)
 keywords: vis_sdr.chm16251790
 f1_keywords:
 - vis_sdr.chm16251790
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.FreeformDrawingPrecision Property (Visio)
+# ApplicationSettings.FreeformDrawingPrecision property (Visio)
 
 Determines the margin of error allowed when the  **Freeform** tool is drawing a straight line before it switches to drawing a spline. Read/write.
 
 
 ## Syntax
 
- _expression_. `FreeformDrawingPrecision`
+_expression_. `FreeformDrawingPrecision`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

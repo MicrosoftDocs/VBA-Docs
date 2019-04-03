@@ -1,5 +1,5 @@
 ---
-title: WorkWeekDay.Default Method (Project)
+title: WorkWeekDay.Default method (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeekDay.Default
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# WorkWeekDay.Default Method (Project)
+# WorkWeekDay.Default method (Project)
 
 Resets the  **WorkWeekDay** item of a resource calendar to the value in the corresponding base calendar.
 
 
 ## Syntax
 
- _expression_. `Default`
+_expression_. `Default`
 
  _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 

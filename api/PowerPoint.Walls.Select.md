@@ -1,5 +1,5 @@
 ---
-title: Walls.Select Method (PowerPoint)
+title: Walls.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Walls.Select Method (PowerPoint)
+# Walls.Select method (PowerPoint)
 
 Selects the object.
 

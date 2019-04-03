@@ -1,5 +1,5 @@
 ---
-title: Document.FindShapeByWizardTag Method (Publisher)
+title: Document.FindShapeByWizardTag method (Publisher)
 keywords: vbapb10.chm196690
 f1_keywords:
 - vbapb10.chm196690
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.FindShapeByWizardTag Method (Publisher)
+# Document.FindShapeByWizardTag method (Publisher)
 
 Returns a  **ShapeRange** object representing one or all of the shapes placed in a publication by a wizard and bearing the specified wizard tag.
 
 
 ## Syntax
 
- _expression_. **FindShapeByWizardTag**(**_WizardTag_**,  **_Instance_**)
+ _expression_.**FindShapeByWizardTag**(**_WizardTag_**,  **_Instance_**)
 
  _expression_ A variable that represents a  **Document** object.
 

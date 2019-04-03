@@ -1,5 +1,5 @@
 ---
-title: PjTeamPlannerStyle Enumeration (Project)
+title: PjTeamPlannerStyle enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTeamPlannerStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTeamPlannerStyle Enumeration (Project)
+# PjTeamPlannerStyle enumeration (Project)
 
 Contains constants that specify the Team Planner style to edit in Project.
 

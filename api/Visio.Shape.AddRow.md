@@ -1,5 +1,5 @@
 ---
-title: Shape.AddRow Method (Visio)
+title: Shape.AddRow method (Visio)
 keywords: vis_sdr.chm11216050
 f1_keywords:
 - vis_sdr.chm11216050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.AddRow Method (Visio)
+# Shape.AddRow method (Visio)
 
 Adds a row to a ShapeSheet section at a specified position.
 
 
 ## Syntax
 
- _expression_. `AddRow`( `_Section_` , `_Row_` , `_RowTag_` )
+_expression_. `AddRow`( `_Section_` , `_Row_` , `_RowTag_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

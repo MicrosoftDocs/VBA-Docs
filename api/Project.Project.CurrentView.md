@@ -1,5 +1,5 @@
 ---
-title: Project.CurrentView Property (Project)
+title: Project.CurrentView property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.CurrentView
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrentView Property (Project)
+# Project.CurrentView property (Project)
 
 Gets the name of the active view for a project. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `CurrentView`
+_expression_. `CurrentView`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

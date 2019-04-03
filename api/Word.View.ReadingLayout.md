@@ -19,7 +19,7 @@ Sets or returns a  **Boolean** that represents whether a document is being viewe
 
 ## Syntax
 
- _expression_. `ReadingLayout`
+_expression_. `ReadingLayout`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 

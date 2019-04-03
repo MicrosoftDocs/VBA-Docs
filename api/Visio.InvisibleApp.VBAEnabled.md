@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.VBAEnabled Property (Visio)
+title: InvisibleApp.VBAEnabled property (Visio)
 keywords: vis_sdr.chm17552085
 f1_keywords:
 - vis_sdr.chm17552085
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.VBAEnabled Property (Visio)
+# InvisibleApp.VBAEnabled property (Visio)
 
 Specifies whether Microsoft Visual Basic for Applications (VBA) is enabled in the application. Read-only.
 
 
 ## Syntax
 
- _expression_. `VBAEnabled`
+_expression_. `VBAEnabled`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

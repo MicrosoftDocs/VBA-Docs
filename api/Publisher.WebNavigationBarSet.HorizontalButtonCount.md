@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.HorizontalButtonCount Property (Publisher)
+title: WebNavigationBarSet.HorizontalButtonCount property (Publisher)
 keywords: vbapb10.chm8519687
 f1_keywords:
 - vbapb10.chm8519687
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.HorizontalButtonCount Property (Publisher)
+# WebNavigationBarSet.HorizontalButtonCount property (Publisher)
 
 Sets or returns a  **Long** representing the number of buttons in each row of buttons for a Web navigation bar set. Read/write. **Long**.
 
 
 ## Syntax
 
- _expression_. **HorizontalButtonCount**
+ _expression_.**HorizontalButtonCount**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 

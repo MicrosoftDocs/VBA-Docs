@@ -1,5 +1,5 @@
 ---
-title: Window.Left Property (Project)
+title: Window.Left property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Left
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Left Property (Project)
+# Window.Left property (Project)
 
 Gets or sets the distance of a project window from the left edge of the main window in points. Read/write  **Long**.
 

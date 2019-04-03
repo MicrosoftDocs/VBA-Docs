@@ -1,5 +1,5 @@
 ---
-title: ToOrFromRuleCondition.Recipients Property (Outlook)
+title: ToOrFromRuleCondition.Recipients property (Outlook)
 keywords: vbaol11.chm2462
 f1_keywords:
 - vbaol11.chm2462
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# ToOrFromRuleCondition.Recipients Property (Outlook)
+# ToOrFromRuleCondition.Recipients property (Outlook)
 
 Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents the recipient list for the evaluation of the rule condition. Read-only.
 
 
 ## Syntax
 
- _expression_. `Recipients`
+_expression_. `Recipients`
 
-_expression_ A variable that represents a [ToOrFromRuleCondition](./Outlook.ToOrFromRuleCondition.md) object.
+_expression_ A variable that represents a [ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md) object.
 
 
 ## Remarks

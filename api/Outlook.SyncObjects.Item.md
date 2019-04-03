@@ -1,5 +1,5 @@
 ---
-title: SyncObjects.Item Method (Outlook)
+title: SyncObjects.Item method (Outlook)
 keywords: vbaol11.chm100
 f1_keywords:
 - vbaol11.chm100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObjects.Item Method (Outlook)
+# SyncObjects.Item method (Outlook)
 
 Returns a  **[SyncObject](Outlook.SyncObject.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns a  **[SyncObject](Outlook.SyncObject.md)** object from the collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [SyncObjects](./Outlook.SyncObjects.md) object.
+_expression_ A variable that represents a [SyncObjects](Outlook.SyncObjects.md) object.
 
 
 ## Parameters

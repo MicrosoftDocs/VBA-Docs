@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectAssignmentNew Event (Project)
+title: Application.ProjectAssignmentNew event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectAssignmentNew
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectAssignmentNew Event (Project)
+# Application.ProjectAssignmentNew event (Project)
 
 Occurs when a new assignment is created.
 
 
 ## Syntax
 
- _expression_. `ProjectAssignmentNew`( `_pj_`, `_ID_` )
+_expression_. `ProjectAssignmentNew`( `_pj_`, `_ID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

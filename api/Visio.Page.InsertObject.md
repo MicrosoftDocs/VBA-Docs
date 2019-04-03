@@ -1,5 +1,5 @@
 ---
-title: Page.InsertObject Method (Visio)
+title: Page.InsertObject method (Visio)
 keywords: vis_sdr.chm10916370
 f1_keywords:
 - vis_sdr.chm10916370
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.InsertObject Method (Visio)
+# Page.InsertObject method (Visio)
 
 Adds a new embedded object or ActiveX control to a page, master, or group.
 
 
 ## Syntax
 
- _expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
+_expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

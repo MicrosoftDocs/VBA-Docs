@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.MergeShapes Method (Project)
+title: ShapeRange.MergeShapes method (Project)
 ms.prod: project-server
 ms.assetid: c470a800-6010-111b-831d-023e480fca31
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.MergeShapes Method (Project)
+# ShapeRange.MergeShapes method (Project)
 The  **MergeShapes** method is not implemented in Project.
 
 ## Syntax
 
- _expression_. `MergeShapes` _(MergeCmd,_ _PrimaryShape)_
+_expression_. `MergeShapes` _(MergeCmd,_ _PrimaryShape)_
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

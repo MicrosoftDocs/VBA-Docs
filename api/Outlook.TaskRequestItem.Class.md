@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Class Property (Outlook)
+title: TaskRequestItem.Class property (Outlook)
 keywords: vbaol11.chm1869
 f1_keywords:
 - vbaol11.chm1869
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Class Property (Outlook)
+# TaskRequestItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## See also

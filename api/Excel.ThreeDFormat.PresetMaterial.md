@@ -21,7 +21,7 @@ Returns or sets the extrusion surface material. Read/write  **MsoPresetMaterial*
 
 _expression_. `PresetMaterial`
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
@@ -39,7 +39,7 @@ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md
 
 ## Example
 
-This example specifies that the extrusion surface for shape one in  `myDocument` be wire frame.
+This example specifies that the extrusion surface for shape one in  _myDocument_ be wire frame.
 
 
 ```vb

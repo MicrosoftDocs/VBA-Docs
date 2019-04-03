@@ -1,5 +1,5 @@
 ---
-title: Master.DataGraphicHidden Property (Visio)
+title: Master.DataGraphicHidden property (Visio)
 keywords: vis_sdr.chm10760100
 f1_keywords:
 - vis_sdr.chm10760100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DataGraphicHidden Property (Visio)
+# Master.DataGraphicHidden property (Visio)
 
 Hides or displays a data graphic in the  **Data Graphics** task pane in the Microsoft Visio user interface. Read/write.
 
@@ -22,7 +22,7 @@ Hides or displays a data graphic in the  **Data Graphics** task pane in the Micr
 
 ## Syntax
 
- _expression_. `DataGraphicHidden`
+_expression_. `DataGraphicHidden`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 

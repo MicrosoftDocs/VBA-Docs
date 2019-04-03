@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Object Property (PowerPoint)
+title: OLEFormat.Object property (PowerPoint)
 keywords: vbapp10.chm562004
 f1_keywords:
 - vbapp10.chm562004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.Object Property (PowerPoint)
+# OLEFormat.Object property (PowerPoint)
 
 Returns the object that represents the specified OLE object's top-level interface. Read-only.
 

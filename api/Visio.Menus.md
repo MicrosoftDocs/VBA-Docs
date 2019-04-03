@@ -1,5 +1,5 @@
 ---
-title: Menus Object (Visio)
+title: Menus object (Visio)
 keywords: vis_sdr.chm10165
 f1_keywords:
 - vis_sdr.chm10165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menus Object (Visio)
+# Menus object (Visio)
 
 Includes a  **Menu** object for each menu in a Microsoft Visio menu set.
 

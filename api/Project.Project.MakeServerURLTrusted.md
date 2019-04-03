@@ -1,5 +1,5 @@
 ---
-title: Project.MakeServerURLTrusted Method (Project)
+title: Project.MakeServerURLTrusted method (Project)
 keywords: vbapj.chm132401
 f1_keywords:
 - vbapj.chm132401
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.MakeServerURLTrusted Method (Project)
+# Project.MakeServerURLTrusted method (Project)
 
-Adds the URL specified in the  **[ServerURL](./overview/Project.md)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.
+Adds the URL specified in the  **[ServerURL](overview/Project.md)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.
 
 
 ## Syntax
 
- _expression_. `MakeServerURLTrusted`
+_expression_. `MakeServerURLTrusted`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

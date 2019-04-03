@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Actions Property (Outlook)
+title: AppointmentItem.Actions property (Outlook)
 keywords: vbaol11.chm842
 f1_keywords:
 - vbaol11.chm842
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Actions Property (Outlook)
+# AppointmentItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

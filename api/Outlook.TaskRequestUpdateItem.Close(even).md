@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Close Event (Outlook)
+title: TaskRequestUpdateItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Close
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Close Event (Outlook)
+# TaskRequestUpdateItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 
 
 ## Syntax
 
- _expression_. `Close`( `_Cancel_` )
+_expression_. `Close`( `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters

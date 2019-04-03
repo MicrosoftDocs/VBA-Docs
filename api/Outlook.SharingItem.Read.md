@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Read Event (Outlook)
+title: SharingItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Read Event (Outlook)
+# SharingItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
 _expression_. `Read`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

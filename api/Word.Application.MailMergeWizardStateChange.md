@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeWizardStateChange Event (Word)
+title: Application.MailMergeWizardStateChange event (Word)
 keywords: vbawd10.chm4000023
 f1_keywords:
 - vbawd10.chm4000023
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeWizardStateChange Event (Word)
+# Application.MailMergeWizardStateChange event (Word)
 
 Occurs when a user changes from a specified step to a specified step in the Mail Merge Wizard.
 
 
 ## Syntax
 
- _expression_. `Private Sub object_MailMergeWizardStateChange`( `_ByVal Doc As Document_` , `_FromState As Long_` , `_ToState As Long_` , `_Handled As Boolean_` )
+_expression_. `Private Sub object_MailMergeWizardStateChange`( `_ByVal Doc As Document_` , `_FromState As Long_` , `_ToState As Long_` , `_Handled As Boolean_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 

@@ -19,7 +19,7 @@ Returns an  **XMLNode** object that represents the first node that matches the X
 
 ## Syntax
 
- _expression_. `SelectSingleNode`( `_XPath_` , `_PrefixMapping_` , `_FastSearchSkippingTextNodes_` )
+_expression_. `SelectSingleNode`( `_XPath_` , `_PrefixMapping_` , `_FastSearchSkippingTextNodes_` )
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

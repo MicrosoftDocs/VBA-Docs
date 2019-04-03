@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultForce Property (Visio)
+title: Cell.ResultForce property (Visio)
 keywords: vis_sdr.chm10114200
 f1_keywords:
 - vis_sdr.chm10114200
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.ResultForce Property (Visio)
+# Cell.ResultForce property (Visio)
 
 Sets a cell's value, even if the cell's formula is protected with the GUARD function. Read/write.
 
 
 ## Syntax
 
- _expression_. `ResultForce`( `_UnitsNameOrCode_` )
+_expression_. `ResultForce`( `_UnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

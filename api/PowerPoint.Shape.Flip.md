@@ -1,5 +1,5 @@
 ---
-title: Shape.Flip Method (PowerPoint)
+title: Shape.Flip method (PowerPoint)
 keywords: vbapp10.chm547004
 f1_keywords:
 - vbapp10.chm547004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Flip Method (PowerPoint)
+# Shape.Flip method (PowerPoint)
 
 Flips the specified shape around its horizontal or vertical axis.
 
 
 ## Syntax
 
- _expression_. `Flip`( `_FlipCmd_` )
+_expression_. `Flip`( `_FlipCmd_` )
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -44,7 +44,7 @@ The  _FlipCmd_ parameter value can be one of these **MsoFlipCmd** constants.
 
 ## Example
 
-This example adds a triangle to  `myDocument`, duplicates the triangle, and then flips the duplicate triangle vertically and makes it red.
+This example adds a triangle to  _myDocument_, duplicates the triangle, and then flips the duplicate triangle vertically and makes it red.
 
 
 ```vb

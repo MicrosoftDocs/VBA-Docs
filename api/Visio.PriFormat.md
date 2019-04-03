@@ -16,9 +16,9 @@ Specifies the primary output format for the Web page. Read/write.
 
 ## Syntax
 
- _expression_. **PriFormat**
+ _expression_.**PriFormat**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value

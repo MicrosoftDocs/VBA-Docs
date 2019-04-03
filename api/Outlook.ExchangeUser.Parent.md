@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Parent Property (Outlook)
+title: ExchangeUser.Parent property (Outlook)
 keywords: vbaol11.chm2064
 f1_keywords:
 - vbaol11.chm2064
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Parent Property (Outlook)
+# ExchangeUser.Parent property (Outlook)
 
 Returns the parent  **Object** of the **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the **[ExchangeUser](Outlook.ExchangeUser.md)*
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: IconView.GoToDate Method (Outlook)
+title: IconView.GoToDate method (Outlook)
 keywords: vbaol11.chm2573
 f1_keywords:
 - vbaol11.chm2573
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.GoToDate Method (Outlook)
+# IconView.GoToDate method (Outlook)
 
 Changes the date used by the current view to display information.
 
@@ -21,7 +21,7 @@ Changes the date used by the current view to display information.
 
 _expression_. `GoToDate`( `_Date_` )
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Row.ContainingMasterID Property (Visio)
+title: Row.ContainingMasterID property (Visio)
 keywords: vis_sdr.chm15851700
 f1_keywords:
 - vis_sdr.chm15851700
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.ContainingMasterID Property (Visio)
+# Row.ContainingMasterID property (Visio)
 
 Returns the ID of the  **Master** object that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingMasterID`
+_expression_. `ContainingMasterID`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

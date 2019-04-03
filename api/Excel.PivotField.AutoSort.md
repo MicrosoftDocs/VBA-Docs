@@ -19,19 +19,17 @@ Establishes automatic field-sorting rules for PivotTable reports.
 
 ## Syntax
 
-_expression_. `AutoSort`( `_Order_` , `_Field_` , `_PivotLine_` , `_CustomSubtotal_` )
+_expression_.**AutoSort** (_Order_, _Field_, _PivotLine_, _CustomSubtotal_)
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Order_|Required| **Long**|One of the constants of  **[xlSortOrder](Excel.XlSortOrder.md)** specifying the sort order.|
-| _Field_|Required| **String**|The name of the sort key field. You must specify the unique name (as returned from the  **[SourceName](Excel.PivotField.SourceName.md)** property), and not the displayed name.|
+| _Order_|Required| **Long**|One of the constants of **[XlSortOrder](Excel.XlSortOrder.md)** specifying the sort order.|
+| _Field_|Required| **String**|The name of the sort key field. You must specify the unique name (as returned from the **[SourceName](Excel.PivotField.SourceName.md)** property), and not the displayed name.|
 | _PivotLine_|Optional| **Variant**|A line on a column or row in a PivotTable report.|
 | _CustomSubtotal_|Optional| **Variant**|The custom subtotal field.|
 
@@ -39,16 +37,12 @@ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) obje
 
 This example sorts the Company field in descending order, based on the sum of sales.
 
-
 ```vb
 ActiveSheet.PivotTables(1).PivotField("Company") _ 
  .AutoSort xlDescending, "Sum of Sales"
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

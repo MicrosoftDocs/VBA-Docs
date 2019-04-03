@@ -1,5 +1,5 @@
 ---
-title: Font.Stat Property (Visio)
+title: Font.Stat property (Visio)
 keywords: vis_sdr.chm12014420
 f1_keywords:
 - vis_sdr.chm12014420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Stat Property (Visio)
+# Font.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 

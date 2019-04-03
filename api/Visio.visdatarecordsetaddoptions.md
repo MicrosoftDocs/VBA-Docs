@@ -1,5 +1,5 @@
 ---
-title: VisDataRecordsetAddOptions Enumeration (Visio)
+title: VisDataRecordsetAddOptions enumeration (Visio)
 keywords: vis_sdr.chm70495
 f1_keywords:
 - vis_sdr.chm70495
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDataRecordsetAddOptions Enumeration (Visio)
+# VisDataRecordsetAddOptions enumeration (Visio)
 
 Constants passed to the  **DataRecordsets.Add** method, specifying characteristics of the data recordset to be added.
 

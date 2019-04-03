@@ -1,5 +1,5 @@
 ---
-title: Shape Object (Visio)
+title: Shape object (Visio)
 keywords: vis_sdr.chm10225
 f1_keywords:
 - vis_sdr.chm10225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape Object (Visio)
+# Shape object (Visio)
 
 Represents anything you can select in a drawing window: a basic shape, a group, a guide, or an object from another application embedded or linked in Microsoft Visio.
 

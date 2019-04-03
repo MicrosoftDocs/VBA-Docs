@@ -1,5 +1,5 @@
 ---
-title: Assignments.Item Property (Project)
+title: Assignments.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignments.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignments.Item Property (Project)
+# Assignments.Item property (Project)
 
 Gets a single  **Assignment** object from the **Assignments** collection. Read-only **Assignment**.
 

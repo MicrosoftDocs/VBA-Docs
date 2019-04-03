@@ -1,5 +1,5 @@
 ---
-title: PbBuildingBlockType Enumeration (Publisher)
+title: PbBuildingBlockType enumeration (Publisher)
 keywords: vbapb10.chm65660
 f1_keywords:
 - vbapb10.chm65660
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PbBuildingBlockType Enumeration (Publisher)
+# PbBuildingBlockType enumeration (Publisher)
 
 Constants that represent building block types.
 

@@ -19,9 +19,9 @@ Closes the object.
 
 ## Syntax
 
-_expression_. `Close`( `_SaveChanges_` , `_Filename_` , `_RouteWorkbook_` )
+_expression_. `Close`( `_SaveChanges_` , `_FileName_` , `_RouteWorkbook_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Parameters
@@ -30,8 +30,8 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional| **Variant**|If there are no changes to the workbook, this argument is ignored. If there are changes to the workbook and the workbook appears in other open windows, this argument is ignored. If there are changes to the workbook but the workbook doesn't appear in any other open windows, this argument specifies whether changes should be saved. If set to  **True**, changes are saved to the workbook. If there is not yet a file name associated with the workbook, then _FileName_ is used. If _Filename_ is omitted, the user is asked to supply a file name.|
-| _Filename_|Optional| **Variant**|Save changes under this file name.|
+| _SaveChanges_|Optional| **Variant**|If there are no changes to the workbook, this argument is ignored. If there are changes to the workbook and the workbook appears in other open windows, this argument is ignored. If there are changes to the workbook but the workbook doesn't appear in any other open windows, this argument specifies whether changes should be saved. If set to  **True**, changes are saved to the workbook. If there is not yet a file name associated with the workbook, then _FileName_ is used. If _FileName_ is omitted, the user is asked to supply a file name.|
+| _FileName_|Optional| **Variant**|Save changes under this file name.|
 | _RouteWorkbook_|Optional| **Variant**|If the workbook doesn't need to be routed to the next recipient (if it has no routing slip or has already been routed), this argument is ignored. Otherwise, Microsoft Excel routes the workbook according to the value of this parameter. If set to  **True**, the workbook is sent to the next recipient. If set to **False**, the workbook is not sent. If omitted, the user is asked whether the workbook should be sent.|
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddWebControl Method (Publisher)
+title: Shapes.AddWebControl method (Publisher)
 keywords: vbapb10.chm2162722
 f1_keywords:
 - vbapb10.chm2162722
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddWebControl Method (Publisher)
+# Shapes.AddWebControl method (Publisher)
 
 Adds a new  **Shape** object representing a Web form control to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddWebControl**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_LaunchPropertiesWindow_**)
+ _expression_.**AddWebControl**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_LaunchPropertiesWindow_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

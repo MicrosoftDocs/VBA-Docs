@@ -1,5 +1,5 @@
 ---
-title: Chart.AlternativeText Property (PowerPoint)
+title: Chart.AlternativeText property (PowerPoint)
 keywords: vbapp10.chm684054
 f1_keywords:
 - vbapp10.chm684054
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.AlternativeText Property (PowerPoint)
+# Chart.AlternativeText property (PowerPoint)
 
 Returns or sets the alternative text associated with a shape in a Web presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `AlternativeText`
+_expression_. `AlternativeText`
 
 _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 

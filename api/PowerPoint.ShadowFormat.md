@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat Object (PowerPoint)
+title: ShadowFormat object (PowerPoint)
 keywords: vbapp10.chm554000
 f1_keywords:
 - vbapp10.chm554000
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat Object (PowerPoint)
+# ShadowFormat object (PowerPoint)
 
 Represents shadow formatting for a shape.
 
 
 ## Example
 
-Use the  **Shadow** property to return a **ShadowFormat** object. The following example adds a shadowed rectangle to `myDocument`. The semitransparent, blue shadow is offset 5 points to the right of the rectangle and 3 points above it.
+Use the  **Shadow** property to return a **ShadowFormat** object. The following example adds a shadowed rectangle to _myDocument_. The semitransparent, blue shadow is offset 5 points to the right of the rectangle and 3 points above it.
 
 
 ```vb

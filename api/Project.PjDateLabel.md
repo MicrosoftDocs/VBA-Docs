@@ -1,5 +1,5 @@
 ---
-title: PjDateLabel Enumeration (Project)
+title: PjDateLabel enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDateLabel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjDateLabel Enumeration (Project)
+# PjDateLabel enumeration (Project)
 
 Contains constants that specify the display format for date and time labels in a timescale.
 

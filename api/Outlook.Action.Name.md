@@ -1,5 +1,5 @@
 ---
-title: Action.Name Property (Outlook)
+title: Action.Name property (Outlook)
 keywords: vbaol11.chm17
 f1_keywords:
 - vbaol11.chm17
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action.Name Property (Outlook)
+# Action.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 _expression_.**Name**
 
-_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](Outlook.Action.md) object.
 
 
 ## See also

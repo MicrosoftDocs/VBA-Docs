@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SpaceBefore Property (PowerPoint)
+title: ParagraphFormat.SpaceBefore property (PowerPoint)
 keywords: vbapp10.chm576008
 f1_keywords:
 - vbapp10.chm576008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.SpaceBefore Property (PowerPoint)
+# ParagraphFormat.SpaceBefore property (PowerPoint)
 
 Returns or sets the amount of space before the first line in each paragraph of the specified text, in points or lines. Read/write.
 
 
 ## Syntax
 
- _expression_. `SpaceBefore`
+_expression_. `SpaceBefore`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 

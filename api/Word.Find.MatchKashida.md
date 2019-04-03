@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `MatchKashida`
+_expression_. `MatchKashida`
 
  _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 

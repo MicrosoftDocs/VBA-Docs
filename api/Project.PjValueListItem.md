@@ -1,5 +1,5 @@
 ---
-title: PjValueListItem Enumeration (Project)
+title: PjValueListItem enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjValueListItem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjValueListItem Enumeration (Project)
+# PjValueListItem enumeration (Project)
 
 Contains constants that specify the type of information in the list item.
 

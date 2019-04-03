@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultTabStop Property (Publisher)
+title: Document.DefaultTabStop property (Publisher)
 keywords: vbapb10.chm196616
 f1_keywords:
 - vbapb10.chm196616
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.DefaultTabStop Property (Publisher)
+# Document.DefaultTabStop property (Publisher)
 
 Returns or sets a  **Variant** corresponding to the default tab stop for all text in the active publication. Valid range is 1 to 1584 points (0.014" to 22"). Once set, numeric values are considered to be in points. **String** values may be in any unit supported by Microsoft Publisher. Point values are always returned. If values are outside the valid range, an error is returned. Read/write.
 
 
 ## Syntax
 
- _expression_. **DefaultTabStop**
+ _expression_.**DefaultTabStop**
 
  _expression_ A variable that represents a  **Document** object.
 

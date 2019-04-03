@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Companies Property (Outlook)
+title: TaskRequestUpdateItem.Companies property (Outlook)
 keywords: vbaol11.chm1926
 f1_keywords:
 - vbaol11.chm1926
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Companies Property (Outlook)
+# TaskRequestUpdateItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the Outlook item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Companies`
+_expression_. `Companies`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

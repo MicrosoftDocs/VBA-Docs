@@ -1,5 +1,5 @@
 ---
-title: WebOptions.OrganizeInFolder Property (Publisher)
+title: WebOptions.OrganizeInFolder property (Publisher)
 keywords: vbapb10.chm8257542
 f1_keywords:
 - vbapb10.chm8257542
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebOptions.OrganizeInFolder Property (Publisher)
+# WebOptions.OrganizeInFolder property (Publisher)
 
 Returns or sets a  **Boolean** value that specifies whether a Web publication will be saved in a flat structure or hierarchical structure. If **False**, all files in the Web publication will be saved in a flat structure within the root folder. If  **True**, the files will be saved in a hierarchical structure within the root folder. The default value is  **True**. Read/write.
 
 
 ## Syntax
 
- _expression_. **OrganizeInFolder**
+ _expression_.**OrganizeInFolder**
 
  _expression_ A variable that represents an  **WebOptions** object.
 

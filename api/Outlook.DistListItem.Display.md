@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Display Method (Outlook)
+title: DistListItem.Display method (Outlook)
 keywords: vbaol11.chm1143
 f1_keywords:
 - vbaol11.chm1143
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Display Method (Outlook)
+# DistListItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
@@ -21,7 +21,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 _expression_. `Display`( `_Modal_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

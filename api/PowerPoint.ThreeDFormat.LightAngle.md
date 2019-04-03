@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.LightAngle Property (PowerPoint)
+title: ThreeDFormat.LightAngle property (PowerPoint)
 keywords: vbapp10.chm557037
 f1_keywords:
 - vbapp10.chm557037
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.LightAngle Property (PowerPoint)
+# ThreeDFormat.LightAngle property (PowerPoint)
 
 Sets or returns the angle at which light impacts the shape whose three-dimensional format is represented by the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. `LightAngle`
+_expression_. `LightAngle`
 
  _expression_ An expression that returns a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

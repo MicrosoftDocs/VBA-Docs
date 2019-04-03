@@ -1,5 +1,5 @@
 ---
-title: Application.ShowIgnoredTaskWarnings Method (Project)
+title: Application.ShowIgnoredTaskWarnings method (Project)
 keywords: vbapj.chm2178
 f1_keywords:
 - vbapj.chm2178
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowIgnoredTaskWarnings Method (Project)
+# Application.ShowIgnoredTaskWarnings method (Project)
 
 Shows any ignored warnings for tasks; turns on the warning symbol in the  **Indicators** column.
 
 
 ## Syntax
 
- _expression_. `ShowIgnoredTaskWarnings`
+_expression_. `ShowIgnoredTaskWarnings`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

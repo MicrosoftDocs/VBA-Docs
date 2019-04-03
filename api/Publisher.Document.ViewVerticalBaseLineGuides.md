@@ -1,5 +1,5 @@
 ---
-title: Document.ViewVerticalBaseLineGuides Property (Publisher)
+title: Document.ViewVerticalBaseLineGuides property (Publisher)
 keywords: vbapb10.chm196729
 f1_keywords:
 - vbapb10.chm196729
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ViewVerticalBaseLineGuides Property (Publisher)
+# Document.ViewVerticalBaseLineGuides property (Publisher)
 
 Sets or returns a  **Boolean** that represents whether or not the vertical baseline guides are visible in the specified **Document** object. **True** if they are visible. **False** if they are not visible. Read/write.
 
 
 ## Syntax
 
- _expression_. **ViewVerticalBaseLineGuides**
+ _expression_.**ViewVerticalBaseLineGuides**
 
  _expression_ A variable that represents a  **Document** object.
 

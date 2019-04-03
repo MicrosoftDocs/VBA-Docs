@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Parent Property (PowerPoint)
+title: BulletFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm577002
 f1_keywords:
 - vbapp10.chm577002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.Parent Property (PowerPoint)
+# BulletFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

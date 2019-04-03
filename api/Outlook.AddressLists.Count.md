@@ -1,5 +1,5 @@
 ---
-title: AddressLists.Count Property (Outlook)
+title: AddressLists.Count property (Outlook)
 keywords: vbaol11.chm92
 f1_keywords:
 - vbaol11.chm92
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressLists.Count Property (Outlook)
+# AddressLists.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [AddressLists](./Outlook.AddressLists.md) object.
+_expression_ A variable that represents an [AddressLists](Outlook.AddressLists.md) object.
 
 
 ## See also

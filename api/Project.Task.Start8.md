@@ -1,5 +1,5 @@
 ---
-title: Task.Start8 Property (Project)
+title: Task.Start8 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Start8
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Start8 Property (Project)
+# Task.Start8 property (Project)
 
 Gets or sets a Start local custom field for the task. Read-only for summary tasks. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Start8`
+_expression_. `Start8`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

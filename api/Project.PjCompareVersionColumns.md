@@ -1,5 +1,5 @@
 ---
-title: PjCompareVersionColumns Enumeration (Project)
+title: PjCompareVersionColumns enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCompareVersionColumns
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCompareVersionColumns Enumeration (Project)
+# PjCompareVersionColumns enumeration (Project)
 
 Contains constants that specify how to compare views of project versions.
 

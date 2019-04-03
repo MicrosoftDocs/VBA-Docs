@@ -1,5 +1,5 @@
 ---
-title: Resource.TeamStatusPending Property (Project)
+title: Resource.TeamStatusPending property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.TeamStatusPending
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.TeamStatusPending Property (Project)
+# Resource.TeamStatusPending property (Project)
 
  **True** if the resource has not responded to at least one progress request message. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TeamStatusPending`
+_expression_. `TeamStatusPending`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

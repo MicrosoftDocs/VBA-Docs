@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.SetItem Method (Outlook)
+title: OlkListBox.SetItem method (Outlook)
 keywords: vbaol11.chm1000269
 f1_keywords:
 - vbaol11.chm1000269
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.SetItem Method (Outlook)
+# OlkListBox.SetItem method (Outlook)
 
 Sets the item at the specified location in the list to the specified value.
 
@@ -21,7 +21,7 @@ Sets the item at the specified location in the list to the specified value.
 
 _expression_. `SetItem`( `_Index_` , `_Item_` )
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties Object (Visio)
+title: ContainerProperties object (Visio)
 keywords: vis_sdr.chm61040
 f1_keywords:
 - vis_sdr.chm61040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties Object (Visio)
+# ContainerProperties object (Visio)
 
 Represents the set of properties that are specific to a container.
 

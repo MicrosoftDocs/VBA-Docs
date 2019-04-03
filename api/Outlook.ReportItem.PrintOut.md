@@ -1,5 +1,5 @@
 ---
-title: ReportItem.PrintOut Method (Outlook)
+title: ReportItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1669
 f1_keywords:
 - vbaol11.chm1669
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.PrintOut Method (Outlook)
+# ReportItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 
@@ -21,7 +21,7 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
 _expression_. `PrintOut`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Stat Property (Visio)
+title: InvisibleApp.Stat property (Visio)
 keywords: vis_sdr.chm17514420
 f1_keywords:
 - vis_sdr.chm17514420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Stat Property (Visio)
+# InvisibleApp.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

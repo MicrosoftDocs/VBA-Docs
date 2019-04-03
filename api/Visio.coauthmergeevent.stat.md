@@ -1,5 +1,5 @@
 ---
-title: CoauthMergeEvent.Stat Property (Visio)
+title: CoauthMergeEvent.Stat property (Visio)
 ms.prod: visio
 ms.assetid: d8a96b8e-36b5-c61f-8cea-76266f7eed39
 ms.date: 06/08/2017
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# CoauthMergeEvent.Stat Property (Visio)
+# CoauthMergeEvent.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a 'CoauthMergeEvent' object.
 

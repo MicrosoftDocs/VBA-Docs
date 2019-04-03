@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontName Property (Publisher)
+title: TextEffectFormat.FontName property (Publisher)
 keywords: vbapb10.chm3735811
 f1_keywords:
 - vbapb10.chm3735811
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontName Property (Publisher)
+# TextEffectFormat.FontName property (Publisher)
 
 Sets or returns a  **String** that represents the name of the font applied to a dropped capital letter or WordArt text effect. Read/write.
 
 
 ## Syntax
 
- _expression_. **FontName**
+ _expression_.**FontName**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: PpSoundEffectType Enumeration (PowerPoint)
+title: PpSoundEffectType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSoundEffectType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpSoundEffectType Enumeration (PowerPoint)
+# PpSoundEffectType enumeration (PowerPoint)
 
 Constants that specify the type of sound effect, passed to and returned by the  **Type** property of the **SoundEffect** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeQuit Event (Visio)
+title: Application.BeforeQuit event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeQuit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeQuit Event (Visio)
+# Application.BeforeQuit event (Visio)
 
 Occurs before a Microsoft Visio instance terminates.
 

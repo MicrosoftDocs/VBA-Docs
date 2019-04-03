@@ -1,5 +1,5 @@
 ---
-title: Font.SubScript Property (Publisher)
+title: Font.SubScript property (Publisher)
 keywords: vbapb10.chm5373973
 f1_keywords:
 - vbapb10.chm5373973
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.SubScript Property (Publisher)
+# Font.SubScript property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether characters are formatted as subscript in the specified text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **SubScript**
+ _expression_.**SubScript**
 
  _expression_ A variable that represents a  **Font** object.
 

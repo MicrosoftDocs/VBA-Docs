@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Weight Property (Publisher)
+title: LineFormat.Weight property (Publisher)
 keywords: vbapb10.chm3408147
 f1_keywords:
 - vbapb10.chm3408147
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Weight Property (Publisher)
+# LineFormat.Weight property (Publisher)
 
 Returns or sets a  **Variant** indicating the thickness of the specified line or cell border.
 
 
 ## Syntax
 
- _expression_. **Weight**
+ _expression_.**Weight**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

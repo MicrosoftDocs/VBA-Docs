@@ -1,5 +1,5 @@
 ---
-title: Project.VersionName Property (Project)
+title: Project.VersionName property (Project)
 keywords: vbapj.chm132790
 f1_keywords:
 - vbapj.chm132790
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.VersionName Property (Project)
+# Project.VersionName property (Project)
 
 Gets the version name of the project. Obsolete in Project. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `VersionName`
+_expression_. `VersionName`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

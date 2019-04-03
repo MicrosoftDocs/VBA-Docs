@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.PickUp Method (Publisher)
+title: ShapeRange.PickUp method (Publisher)
 keywords: vbapb10.chm2293795
 f1_keywords:
 - vbapb10.chm2293795
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.PickUp Method (Publisher)
+# ShapeRange.PickUp method (Publisher)
 
 Copies formatting from a shape or shape range so that it can be copied to another shape or shape range using the  **[Apply](Publisher.ShapeRange.Apply.md)** method.
 
 
 ## Syntax
 
- _expression_. **PickUp**
+ _expression_.**PickUp**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

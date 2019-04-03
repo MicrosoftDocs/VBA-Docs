@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Unload Event (Outlook)
+title: ContactItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Unload Event (Outlook)
+# ContactItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
@@ -18,7 +18,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
 _expression_. `Unload`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

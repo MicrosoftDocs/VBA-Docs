@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Propagate Method (PowerPoint)
+title: DataLabels.Propagate method (PowerPoint)
 keywords: vbapp10.chm697003
 f1_keywords:
 - vbapp10.chm697003
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.Propagate Method (PowerPoint)
+# DataLabels.Propagate method (PowerPoint)
 
 Propagates the contents and formatting of the specified data label to all the other data labels in the series.
 
 
 ## Syntax
 
- _expression_. `Propagate`_(Index)_
+_expression_. `Propagate`_(Index)_
 
 _expression_ A variable that represents a [DataLabels](./PowerPoint.DataLabels.md) object.
 

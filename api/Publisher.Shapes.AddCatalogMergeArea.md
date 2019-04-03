@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCatalogMergeArea Method (Publisher)
+title: Shapes.AddCatalogMergeArea method (Publisher)
 keywords: vbapb10.chm2162752
 f1_keywords:
 - vbapb10.chm2162752
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddCatalogMergeArea Method (Publisher)
+# Shapes.AddCatalogMergeArea method (Publisher)
 
 Adds a  **Shape** object that represents the specified publication's catalog merge area.
 
 
 ## Syntax
 
- _expression_. **AddCatalogMergeArea**
+ _expression_.**AddCatalogMergeArea**
 
  _expression_ A variable that represents a  **Shapes** object.
 

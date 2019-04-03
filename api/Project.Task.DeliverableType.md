@@ -1,5 +1,5 @@
 ---
-title: Task.DeliverableType Property (Project)
+title: Task.DeliverableType property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.DeliverableType
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.DeliverableType Property (Project)
+# Task.DeliverableType property (Project)
 
 Gets or sets the type of deliverable for the task. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `DeliverableType`
+_expression_. `DeliverableType`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

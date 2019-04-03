@@ -1,5 +1,5 @@
 ---
-title: Table.FirstRow Property (PowerPoint)
+title: Table.FirstRow property (PowerPoint)
 keywords: vbapp10.chm622008
 f1_keywords:
 - vbapp10.chm622008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.FirstRow Property (PowerPoint)
+# Table.FirstRow property (PowerPoint)
 
 Determine whether to display special formatting for the first row of the specified table. Read/write.
 
 
 ## Syntax
 
- _expression_. `FirstRow`
+_expression_. `FirstRow`
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

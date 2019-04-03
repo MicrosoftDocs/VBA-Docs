@@ -1,5 +1,5 @@
 ---
-title: Application.AddUndoUnit Method (Visio)
+title: Application.AddUndoUnit method (Visio)
 keywords: vis_sdr.chm10016075
 f1_keywords:
 - vis_sdr.chm10016075
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AddUndoUnit Method (Visio)
+# Application.AddUndoUnit method (Visio)
 
 Adds an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface to the Microsoft Visio undo queue.
 
 
 ## Syntax
 
- _expression_. `AddUndoUnit`( `_pUndoUnit_` )
+_expression_. `AddUndoUnit`( `_pUndoUnit_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

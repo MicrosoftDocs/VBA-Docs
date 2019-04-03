@@ -1,5 +1,5 @@
 ---
-title: Window.WindowCloseCanceled Event (Visio)
+title: Window.WindowCloseCanceled event (Visio)
 keywords: vis_sdr.chm11619345
 f1_keywords:
 - vis_sdr.chm11619345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.WindowCloseCanceled Event (Visio)
+# Window.WindowCloseCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelWindowClose** event.
 

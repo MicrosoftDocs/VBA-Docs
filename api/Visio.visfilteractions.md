@@ -1,5 +1,5 @@
 ---
-title: VisFilterActions Enumeration (Visio)
+title: VisFilterActions enumeration (Visio)
 ms.prod: visio
 ms.assetid: 1b96bdba-e5e8-0e24-697d-3791c059fa15
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# VisFilterActions Enumeration (Visio)
+# VisFilterActions enumeration (Visio)
 
 Drag-state extensions of the  **MouseMove** event to filter, corresponding to user mouse actions related to dragging and dropping Microsoft Visio objects. Passed to the **Event.SetFilterActions** method and returned by the **Event.GetFilterActions** method. By filtering, you can specify which mouse actions (event extensions) you want to listen to.
 

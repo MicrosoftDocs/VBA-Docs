@@ -1,5 +1,5 @@
 ---
-title: Page.PrintTile Method (Visio)
+title: Page.PrintTile method (Visio)
 keywords: vis_sdr.chm10950795
 f1_keywords:
 - vis_sdr.chm10950795
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.PrintTile Method (Visio)
+# Page.PrintTile method (Visio)
 
 Prints a single tile of a drawing page.
 
 
 ## Syntax
 
- _expression_. `PrintTile`( `_nTile_` )
+_expression_. `PrintTile`( `_nTile_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

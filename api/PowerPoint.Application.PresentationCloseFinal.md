@@ -1,5 +1,5 @@
 ---
-title: Application.PresentationCloseFinal Event (PowerPoint)
+title: Application.PresentationCloseFinal event (PowerPoint)
 keywords: vbapp10.chm621031
 f1_keywords:
 - vbapp10.chm621031
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PresentationCloseFinal Event (PowerPoint)
+# Application.PresentationCloseFinal event (PowerPoint)
 
 Represents closing the final  **Presentation** object.
 
 
 ## Syntax
 
- _expression_. `PresentationCloseFinal`( `_Pres_`, )
+_expression_. `PresentationCloseFinal`( `_Pres_`, )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

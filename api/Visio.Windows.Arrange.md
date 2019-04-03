@@ -1,5 +1,5 @@
 ---
-title: Windows.Arrange Method (Visio)
+title: Windows.Arrange method (Visio)
 keywords: vis_sdr.chm11716080
 f1_keywords:
 - vis_sdr.chm11716080
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Windows.Arrange Method (Visio)
+# Windows.Arrange method (Visio)
 
 Arranges the windows in a  **Windows** collection.
 
 
 ## Syntax
 
- _expression_. `Arrange`( `_nArrangeFlags_` )
+_expression_. `Arrange`( `_nArrangeFlags_` )
 
  _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 

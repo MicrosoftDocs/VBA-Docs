@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Tags Property (PowerPoint)
+title: SlideRange.Tags property (PowerPoint)
 keywords: vbapp10.chm532017
 f1_keywords:
 - vbapp10.chm532017
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Tags Property (PowerPoint)
+# SlideRange.Tags property (PowerPoint)
 
 Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Tags`
+_expression_. `Tags`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 

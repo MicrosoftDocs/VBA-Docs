@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.AddFromXML Method (Visio)
+title: DataRecordsets.AddFromXML method (Visio)
 keywords: vis_sdr.chm16360270
 f1_keywords:
 - vis_sdr.chm16360270
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.AddFromXML Method (Visio)
+# DataRecordsets.AddFromXML method (Visio)
 
 Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecordsets](Visio.DataRecordsets.md)** collection, and fills the resulting data recordset with data supplied in the form of an XML string.
 
@@ -22,7 +22,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
 ## Syntax
 
- _expression_. `AddFromXML`( `_XMLString_` , `_AddOptions_` , `_Name_` )
+_expression_. `AddFromXML`( `_XMLString_` , `_AddOptions_` , `_Name_` )
 
  _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 

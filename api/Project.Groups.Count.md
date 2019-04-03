@@ -1,5 +1,5 @@
 ---
-title: Groups.Count Property (Project)
+title: Groups.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Groups.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Groups.Count Property (Project)
+# Groups.Count property (Project)
 
 Gets the number of items in the  **Groups** collection. Read-only **Long**. .
 

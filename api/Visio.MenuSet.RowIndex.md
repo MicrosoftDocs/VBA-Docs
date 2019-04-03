@@ -1,5 +1,5 @@
 ---
-title: MenuSet.RowIndex Property (Visio)
+title: MenuSet.RowIndex property (Visio)
 keywords: vis_sdr.chm13314255
 f1_keywords:
 - vis_sdr.chm13314255
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MenuSet.RowIndex Property (Visio)
+# MenuSet.RowIndex property (Visio)
 
 Gets or sets the docking order of a  **MenuSet** object in relation to other items in the same docking area. Read/write.
 
 
 ## Syntax
 
- _expression_. `RowIndex`
+_expression_. `RowIndex`
 
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 

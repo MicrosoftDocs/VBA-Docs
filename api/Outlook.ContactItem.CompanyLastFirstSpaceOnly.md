@@ -1,5 +1,5 @@
 ---
-title: ContactItem.CompanyLastFirstSpaceOnly Property (Outlook)
+title: ContactItem.CompanyLastFirstSpaceOnly property (Outlook)
 keywords: vbaol11.chm985
 f1_keywords:
 - vbaol11.chm985
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.CompanyLastFirstSpaceOnly Property (Outlook)
+# ContactItem.CompanyLastFirstSpaceOnly property (Outlook)
 
 Returns a  **String** representing the company name for the contact followed by the concatenated last name, first name, and middle name with spaces between the last, first, and middle names. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the company name for the contact followed by 
 
 _expression_. `CompanyLastFirstSpaceOnly`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

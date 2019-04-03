@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceCalendarEditDays Method (Project)
+title: Application.ResourceCalendarEditDays method (Project)
 keywords: vbapj.chm620
 f1_keywords:
 - vbapj.chm620
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceCalendarEditDays Method (Project)
+# Application.ResourceCalendarEditDays method (Project)
 
 Edits days in a resource calendar.
 
 
 ## Syntax
 
- _expression_. `ResourceCalendarEditDays`( `_ProjectName_`, `_ResourceName_`, `_StartDate_`, `_EndDate_`, `_WeekDay_`, `_Working_`, `_Default_`, `_From1_`, `_To1_`, `_From2_`, `_To2_`, `_From3_`, `_To3_`, `_From4_`, `_To4_`, `_From5_`, `_To5_` )
+_expression_. `ResourceCalendarEditDays`( `_ProjectName_`, `_ResourceName_`, `_StartDate_`, `_EndDate_`, `_WeekDay_`, `_Working_`, `_Default_`, `_From1_`, `_To1_`, `_From2_`, `_To2_`, `_From3_`, `_To3_`, `_From4_`, `_To4_`, `_From5_`, `_To5_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

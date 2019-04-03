@@ -19,7 +19,7 @@ Returns a  **String** value that represents the complete path to the application
 
 ## Syntax
 
-_expression_. `Path`
+_expression_.**Path**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 

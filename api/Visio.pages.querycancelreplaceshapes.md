@@ -1,5 +1,5 @@
 ---
-title: Pages.QueryCancelReplaceShapes Event (Visio)
+title: Pages.QueryCancelReplaceShapes event (Visio)
 ms.prod: visio
 ms.assetid: d11ff976-0016-da6b-92fb-379baa7e8f94
 ms.date: 06/08/2017
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# Pages.QueryCancelReplaceShapes Event (Visio)
+# Pages.QueryCancelReplaceShapes event (Visio)
 
 Occurs immediately after a shape-replacement operation is requested. If any event handler returns  **True**, the operation is canceled.
 
 
 ## Syntax
 
- _expression_. `QueryCancelReplaceShapes`( _replaceShapes_)
+_expression_. `QueryCancelReplaceShapes`( _replaceShapes_)
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 

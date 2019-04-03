@@ -1,5 +1,5 @@
 ---
-title: Shape.CellsU Property (Visio)
+title: Shape.CellsU property (Visio)
 keywords: vis_sdr.chm11251955
 f1_keywords:
 - vis_sdr.chm11251955
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CellsU Property (Visio)
+# Shape.CellsU property (Visio)
 
 Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 
 
 ## Syntax
 
- _expression_. `CellsU`( `_localeIndependentCellName_` )
+_expression_. `CellsU`( `_localeIndependentCellName_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

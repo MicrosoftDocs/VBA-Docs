@@ -1,5 +1,5 @@
 ---
-title: Task.HideBar Property (Project)
+title: Task.HideBar property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.HideBar
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.HideBar Property (Project)
+# Task.HideBar property (Project)
 
  **True** if a task bar does not appear on the Gantt Chart or Calendar. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `HideBar`
+_expression_. `HideBar`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

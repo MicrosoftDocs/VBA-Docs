@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindows.Item Method (PowerPoint)
+title: SlideShowWindows.Item method (PowerPoint)
 keywords: vbapp10.chm510003
 f1_keywords:
 - vbapp10.chm510003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindows.Item Method (PowerPoint)
+# SlideShowWindows.Item method (PowerPoint)
 
 Returns a single  **SlideShowWindow** object from the specified **SlideShowWindows** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Inspector.PageChange Event (Outlook)
+title: Inspector.PageChange event (Outlook)
 keywords: vbaol11.chm472
 f1_keywords:
 - vbaol11.chm472
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.PageChange Event (Outlook)
+# Inspector.PageChange event (Outlook)
 
 Occurs when the active form page changes, either programmatically or by user action, on an [Inspector](Outlook.Inspector.md) object.
 
@@ -21,7 +21,7 @@ Occurs when the active form page changes, either programmatically or by user act
 
 _expression_. `PageChange`( `_ActivePageName_` )
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters

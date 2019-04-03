@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Cut Method (PowerPoint)
+title: ShapeRange.Cut method (PowerPoint)
 keywords: vbapp10.chm548050
 f1_keywords:
 - vbapp10.chm548050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Cut Method (PowerPoint)
+# ShapeRange.Cut method (PowerPoint)
 
 Deletes the specified object and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`
+_expression_. `Cut`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

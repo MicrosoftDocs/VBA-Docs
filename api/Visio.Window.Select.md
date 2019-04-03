@@ -1,5 +1,5 @@
 ---
-title: Window.Select Method (Visio)
+title: Window.Select method (Visio)
 keywords: vis_sdr.chm11616530
 f1_keywords:
 - vis_sdr.chm11616530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Select Method (Visio)
+# Window.Select method (Visio)
 
 Selects or clears an object.
 

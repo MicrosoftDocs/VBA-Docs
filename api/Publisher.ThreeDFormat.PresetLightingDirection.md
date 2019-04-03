@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingDirection Property (Publisher)
+title: ThreeDFormat.PresetLightingDirection property (Publisher)
 keywords: vbapb10.chm3801349
 f1_keywords:
 - vbapb10.chm3801349
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetLightingDirection Property (Publisher)
+# ThreeDFormat.PresetLightingDirection property (Publisher)
 
 Returns or sets an  **MsoPresetLightingDirection** constant that represents the position of the light source relative to the extrusion. Read/write.
 
 
 ## Syntax
 
- _expression_. **PresetLightingDirection**
+ _expression_.**PresetLightingDirection**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetLightingDirection
 
 ## Remarks
 
-The  **PresetLightingDirection** property value can be one of the ** [MsoPresetLightingDirection](Office.MsoPresetLightingDirection.md)** constants declared in the Microsoft Office type library.
+The  **PresetLightingDirection** property value can be one of the **[MsoPresetLightingDirection](Office.MsoPresetLightingDirection.md)** constants declared in the Microsoft Office type library.
 
 The lighting effects you set will not be apparent if the extrusion has a wireframe surface.
 

@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.KeyButtonState Property (Visio)
+title: KeyboardEvent.KeyButtonState property (Visio)
 keywords: vis_sdr.chm17051715
 f1_keywords:
 - vis_sdr.chm17051715
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent.KeyButtonState Property (Visio)
+# KeyboardEvent.KeyButtonState property (Visio)
 
 Returns the state of mouse buttons and the SHIFT and CTRL keys associated with a keyboard event. Read-only.
 

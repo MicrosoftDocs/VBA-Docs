@@ -1,5 +1,5 @@
 ---
-title: DistListItem.AttachmentAdd Event (Outlook)
+title: DistListItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.AttachmentAdd Event (Outlook)
+# DistListItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 _expression_. `AttachmentAdd`( `_Attachment_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

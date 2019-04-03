@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultRectangleDataObject Property (Visio)
+title: Application.DefaultRectangleDataObject property (Visio)
 keywords: vis_sdr.chm10060050
 f1_keywords:
 - vis_sdr.chm10060050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DefaultRectangleDataObject Property (Visio)
+# Application.DefaultRectangleDataObject property (Visio)
 
 Returns an  **IDataObject** interface that represents the **Rectangle** tool used in the Microsoft Visio user interface. Read-only.
 
 
 ## Syntax
 
- _expression_. `DefaultRectangleDataObject`
+_expression_. `DefaultRectangleDataObject`
 
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets the mode for the European Portuguese speller. Read/write [WdPort
 
 ## Syntax
 
- _expression_. `PortugalReform`
+_expression_. `PortugalReform`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

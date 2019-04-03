@@ -1,5 +1,5 @@
 ---
-title: ContactItem.TTYTDDTelephoneNumber Property (Outlook)
+title: ContactItem.TTYTDDTelephoneNumber property (Outlook)
 keywords: vbaol11.chm1069
 f1_keywords:
 - vbaol11.chm1069
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.TTYTDDTelephoneNumber Property (Outlook)
+# ContactItem.TTYTDDTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** specifying the TTY/TDD telephone number for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** specifying the TTY/TDD telephone number for the co
 
 _expression_. `TTYTDDTelephoneNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

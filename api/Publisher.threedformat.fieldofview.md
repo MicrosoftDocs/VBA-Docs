@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.FieldOfView Property (Publisher)
+title: ThreeDFormat.FieldOfView property (Publisher)
 keywords: vbapb10.chm3801380
 f1_keywords:
 - vbapb10.chm3801380
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.FieldOfView Property (Publisher)
+# ThreeDFormat.FieldOfView property (Publisher)
 
 Returns or sets a  **Single** that represents the amount of perspective for a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **FieldOfView**
+ _expression_.**FieldOfView**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

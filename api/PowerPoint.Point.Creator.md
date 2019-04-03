@@ -1,5 +1,5 @@
 ---
-title: Point.Creator Property (PowerPoint)
+title: Point.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Creator Property (PowerPoint)
+# Point.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

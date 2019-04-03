@@ -1,5 +1,5 @@
 ---
-title: Page.Shapes Property (Publisher)
+title: Page.Shapes property (Publisher)
 keywords: vbapb10.chm393219
 f1_keywords:
 - vbapb10.chm393219
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Shapes Property (Publisher)
+# Page.Shapes property (Publisher)
 
 Returns a  **[Shapes](Publisher.Shapes.md)** collection that represents all the  **Shape** objects in the specified publication. This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
 
 
 ## Syntax
 
- _expression_. **Shapes**
+ _expression_.**Shapes**
 
  _expression_ A variable that represents a  **Page** object.
 

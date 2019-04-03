@@ -1,5 +1,5 @@
 ---
-title: Document.ContentControlBeforeDelete Event (Word)
+title: Document.ContentControlBeforeDelete event (Word)
 keywords: vbawd10.chm4001011
 f1_keywords:
 - vbawd10.chm4001011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ContentControlBeforeDelete Event (Word)
+# Document.ContentControlBeforeDelete event (Word)
 
 Occurs before removing a content control from a document.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRuleCondition.Class Property (Outlook)
+title: TextRuleCondition.Class property (Outlook)
 keywords: vbaol11.chm2473
 f1_keywords:
 - vbaol11.chm2473
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRuleCondition.Class Property (Outlook)
+# TextRuleCondition.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_.**Class**
 
-_expression_ A variable that represents a [TextRuleCondition](./Outlook.TextRuleCondition.md) object.
+_expression_ A variable that represents a [TextRuleCondition](Outlook.TextRuleCondition.md) object.
 
 
 ## See also

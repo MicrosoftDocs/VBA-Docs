@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarEditEx Method (Project)
+title: Application.GanttBarEditEx method (Project)
 keywords: vbapj.chm2145
 f1_keywords:
 - vbapj.chm2145
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarEditEx Method (Project)
+# Application.GanttBarEditEx method (Project)
 
 Changes or creates a Gantt bar style, where colors can be hexadecimal values.
 
 
 ## Syntax
 
- _expression_. `GanttBarEditEx`( `_Item_`, `_Create_`, `_Name_`, `_StartShape_`, `_StartType_`, `_StartColor_`, `_MiddleShape_`, `_MiddleColor_`, `_MiddlePattern_`, `_EndShape_`, `_EndType_`, `_EndColor_`, `_ShowFor_`, `_Row_`, `_From_`, `_To_`, `_BottomText_`, `_TopText_`, `_LeftText_`, `_RightText_`, `_InsideText_` )
+_expression_. `GanttBarEditEx`( `_Item_`, `_Create_`, `_Name_`, `_StartShape_`, `_StartType_`, `_StartColor_`, `_MiddleShape_`, `_MiddleColor_`, `_MiddlePattern_`, `_EndShape_`, `_EndType_`, `_EndColor_`, `_ShowFor_`, `_Row_`, `_From_`, `_To_`, `_BottomText_`, `_TopText_`, `_LeftText_`, `_RightText_`, `_InsideText_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

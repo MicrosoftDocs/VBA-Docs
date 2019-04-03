@@ -1,5 +1,5 @@
 ---
-title: Selection.Duplicate Method (Visio)
+title: Selection.Duplicate method (Visio)
 keywords: vis_sdr.chm11116245
 f1_keywords:
 - vis_sdr.chm11116245
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Duplicate Method (Visio)
+# Selection.Duplicate method (Visio)
 
 Duplicates a selection.
 
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_. `Duplicate`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

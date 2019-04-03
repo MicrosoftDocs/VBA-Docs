@@ -1,5 +1,5 @@
 ---
-title: Project.Activate Method (Project)
+title: Project.Activate method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Activate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Activate Method (Project)
+# Project.Activate method (Project)
 
 Activates the project.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

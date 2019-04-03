@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline10BudgetWork Property (Project)
+title: Task.Baseline10BudgetWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline10BudgetWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline10BudgetWork Property (Project)
+# Task.Baseline10BudgetWork property (Project)
 
 Gets or sets the baseline10 budget work for the rollup calculated budgeted work hours for all the work and the material resources for the project. Applies only to the project summary task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline10BudgetWork`
+_expression_. `Baseline10BudgetWork`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

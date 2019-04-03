@@ -1,5 +1,5 @@
 ---
-title: Project.LevelClearDates Method (Project)
+title: Project.LevelClearDates method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.LevelClearDates
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.LevelClearDates Method (Project)
+# Project.LevelClearDates method (Project)
 
 Sets the leveling range to include the entire project.
 
 
 ## Syntax
 
- _expression_. `LevelClearDates`
+_expression_. `LevelClearDates`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

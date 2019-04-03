@@ -1,5 +1,5 @@
 ---
-title: OlFormatCurrency Enumeration (Outlook)
+title: OlFormatCurrency enumeration (Outlook)
 keywords: vbaol11.chm3132
 f1_keywords:
 - vbaol11.chm3132
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormatCurrency Enumeration (Outlook)
+# OlFormatCurrency enumeration (Outlook)
 
 Indicates the format used to display currency Outlook item properties.
 

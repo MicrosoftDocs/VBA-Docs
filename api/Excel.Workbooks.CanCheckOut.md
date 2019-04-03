@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `CanCheckOut`( `_Filename_` )
+_expression_. `CanCheckOut`( `_FileName_` )
 
-_expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the file to check out.|
+| _FileName_|Required| **String**|The name of the file to check out.|
 
 ## Return value
 

@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.GlobalAppointmentID Property (Outlook)
+title: AppointmentItem.GlobalAppointmentID property (Outlook)
 keywords: vbaol11.chm924
 f1_keywords:
 - vbaol11.chm924
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.GlobalAppointmentID Property (Outlook)
+# AppointmentItem.GlobalAppointmentID property (Outlook)
 
 Returns a  **String** value that represents a unique global identifier for the **[AppointmentItem](Outlook.AppointmentItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents a unique global identifier for the *
 
 _expression_. `GlobalAppointmentID`
 
- _expression_ An expression that returns an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+ _expression_ An expression that returns an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

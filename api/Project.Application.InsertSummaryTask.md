@@ -1,5 +1,5 @@
 ---
-title: Application.InsertSummaryTask Method (Project)
+title: Application.InsertSummaryTask method (Project)
 keywords: vbapj.chm2180
 f1_keywords:
 - vbapj.chm2180
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.InsertSummaryTask Method (Project)
+# Application.InsertSummaryTask method (Project)
 
 Inserts a new summary task above the selected task row or cell in a Gantt chart.
 
 
 ## Syntax
 
- _expression_. `InsertSummaryTask`
+_expression_. `InsertSummaryTask`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

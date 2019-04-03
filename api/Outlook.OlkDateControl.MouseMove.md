@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.MouseMove Event (Outlook)
+title: OlkDateControl.MouseMove event (Outlook)
 keywords: vbaol11.chm1000365
 f1_keywords:
 - vbaol11.chm1000365
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.MouseMove Event (Outlook)
+# OlkDateControl.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
@@ -21,7 +21,7 @@ Occurs after a mouse movement has been registered over the control.
 
 _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Parameters

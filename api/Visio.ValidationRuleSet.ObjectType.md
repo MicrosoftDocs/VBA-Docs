@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSet.ObjectType Property (Visio)
+title: ValidationRuleSet.ObjectType property (Visio)
 keywords: vis_sdr.chm18213960
 f1_keywords:
 - vis_sdr.chm18213960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSet.ObjectType Property (Visio)
+# ValidationRuleSet.ObjectType property (Visio)
 
 Returns  **visObjTypeValidationRuleSet**, the type of this object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a '[ValidationRuleSet](Visio.ValidationRuleSet.md)' object.
 

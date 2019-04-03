@@ -21,7 +21,7 @@ Returns or sets the currently displayed page of the specified PivotTable report.
 
 _expression_. `CurrentPageName`
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Player.GoToPreviousBookmark Method (PowerPoint)
+title: Player.GoToPreviousBookmark method (PowerPoint)
 keywords: vbapp10.chm726007
 f1_keywords:
 - vbapp10.chm726007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Player.GoToPreviousBookmark Method (PowerPoint)
+# Player.GoToPreviousBookmark method (PowerPoint)
 
 Goes to the previous bookmark.
 
 
 ## Syntax
 
- _expression_. `GoToPreviousBookmark`
+_expression_. `GoToPreviousBookmark`
 
  _expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
 

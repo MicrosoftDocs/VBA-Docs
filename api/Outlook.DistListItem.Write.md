@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Write Event (Outlook)
+title: DistListItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Write Event (Outlook)
+# DistListItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.DistListItem.Save.md)** or **[SaveAs](Outlook.DistListItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 _expression_. `Write`( `_Cancel_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

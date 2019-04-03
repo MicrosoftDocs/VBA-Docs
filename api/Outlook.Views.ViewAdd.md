@@ -1,5 +1,5 @@
 ---
-title: Views.ViewAdd Event (Outlook)
+title: Views.ViewAdd event (Outlook)
 keywords: vbaol11.chm551
 f1_keywords:
 - vbaol11.chm551
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Views.ViewAdd Event (Outlook)
+# Views.ViewAdd event (Outlook)
 
 Occurs when a view is added to the collection. Microsoft Outlook creates the new view and passes it to this event.
 
 
 ## Syntax
 
- _expression_. `ViewAdd`( `_View_` )
+_expression_. `ViewAdd`( `_View_` )
 
-_expression_ A variable that represents a [Views](./Outlook.Views.md) object.
+_expression_ A variable that represents a [Views](Outlook.Views.md) object.
 
 
 ## Parameters

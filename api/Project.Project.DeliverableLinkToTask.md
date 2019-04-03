@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableLinkToTask Method (Project)
+title: Project.DeliverableLinkToTask method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableLinkToTask
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableLinkToTask Method (Project)
+# Project.DeliverableLinkToTask method (Project)
 
 Links a deliverable to a task.
 
 
 ## Syntax
 
- _expression_. `DeliverableLinkToTask`( `_DeliverableGuid_`, `_TaskGuid_` )
+_expression_. `DeliverableLinkToTask`( `_DeliverableGuid_`, `_TaskGuid_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

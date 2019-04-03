@@ -1,5 +1,5 @@
 ---
-title: Broadcast.IsBroadcasting Property (PowerPoint)
+title: Broadcast.IsBroadcasting property (PowerPoint)
 keywords: vbapp10.chm732006
 f1_keywords:
 - vbapp10.chm732006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.IsBroadcasting Property (PowerPoint)
+# Broadcast.IsBroadcasting property (PowerPoint)
 
 Indicates whether the file is in the Broadcast Documents library. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsBroadcasting`
+_expression_. `IsBroadcasting`
 
 _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 

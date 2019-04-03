@@ -1,5 +1,5 @@
 ---
-title: Document.Stories Property (Publisher)
+title: Document.Stories property (Publisher)
 keywords: vbapb10.chm196659
 f1_keywords:
 - vbapb10.chm196659
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Stories Property (Publisher)
+# Document.Stories property (Publisher)
 
 Returns a  **[Stories](Publisher.Stories.md)** collection containing all stories in the publication.
 
 
 ## Syntax
 
- _expression_. **Stories**
+ _expression_.**Stories**
 
  _expression_ A variable that represents a  **Document** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Table.MoveToStart Method (Outlook)
+title: Table.MoveToStart method (Outlook)
 keywords: vbaol11.chm2233
 f1_keywords:
 - vbaol11.chm2233
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.MoveToStart Method (Outlook)
+# Table.MoveToStart method (Outlook)
 
 Moves the current row of the  **[Table](Outlook.Table.md)** to just before the first row of the **Table**.
 
@@ -21,7 +21,7 @@ Moves the current row of the  **[Table](Outlook.Table.md)** to just before the f
 
 _expression_. `MoveToStart`
 
-_expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.Index Property (Visio)
+title: ToolbarItem.Index property (Visio)
 keywords: vis_sdr.chm13513695
 f1_keywords:
 - vis_sdr.chm13513695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.Index Property (Visio)
+# ToolbarItem.Index property (Visio)
 
 Gets the ordinal position of a  **ToolbarItem** object in the **ToolbarItems** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 

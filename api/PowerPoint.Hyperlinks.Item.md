@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Item Method (PowerPoint)
+title: Hyperlinks.Item method (PowerPoint)
 keywords: vbapp10.chm525003
 f1_keywords:
 - vbapp10.chm525003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Item Method (PowerPoint)
+# Hyperlinks.Item method (PowerPoint)
 
 Returns a single  **Hyperlink** object from the specified **Hyperlinks** collection.
 

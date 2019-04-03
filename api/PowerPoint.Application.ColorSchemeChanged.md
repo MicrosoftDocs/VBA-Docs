@@ -1,5 +1,5 @@
 ---
-title: Application.ColorSchemeChanged Event (PowerPoint)
+title: Application.ColorSchemeChanged event (PowerPoint)
 keywords: vbapp10.chm621017
 f1_keywords:
 - vbapp10.chm621017
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ColorSchemeChanged Event (PowerPoint)
+# Application.ColorSchemeChanged event (PowerPoint)
 
 Occurs after a color scheme is changed.
 
 
 ## Syntax
 
- _expression_. `ColorSchemeChanged`( `_SldRange_` )
+_expression_. `ColorSchemeChanged`( `_SldRange_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

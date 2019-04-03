@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Reply Event (Outlook)
+title: DistListItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Reply Event (Outlook)
+# DistListItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item (which is an instance of the parent object).
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **Reply** action for an item (which is an inst
 
 _expression_. `Reply`( `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

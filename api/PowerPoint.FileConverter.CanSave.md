@@ -1,5 +1,5 @@
 ---
-title: FileConverter.CanSave Property (PowerPoint)
+title: FileConverter.CanSave property (PowerPoint)
 keywords: vbapp10.chm680003
 f1_keywords:
 - vbapp10.chm680003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.CanSave Property (PowerPoint)
+# FileConverter.CanSave property (PowerPoint)
 
  **True** if the specified file converter is designed to save files. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CanSave`
+_expression_. `CanSave`
 
  _expression_ A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 

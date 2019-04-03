@@ -1,5 +1,5 @@
 ---
-title: PbOrientationType Enumeration (Publisher)
+title: PbOrientationType enumeration (Publisher)
 keywords: vbapb10.chm65573
 f1_keywords:
 - vbapb10.chm65573
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbOrientationType Enumeration (Publisher)
+# PbOrientationType enumeration (Publisher)
 
 Represents the orientation used to print envelopes.
 

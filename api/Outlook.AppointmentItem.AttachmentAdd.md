@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.AttachmentAdd Event (Outlook)
+title: AppointmentItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.AttachmentAdd Event (Outlook)
+# AppointmentItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 _expression_. `AttachmentAdd`( `_Attachment_` )
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Parameters

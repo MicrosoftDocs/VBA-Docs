@@ -1,5 +1,5 @@
 ---
-title: IconView.Standard Property (Outlook)
+title: IconView.Standard property (Outlook)
 keywords: vbaol11.chm2570
 f1_keywords:
 - vbaol11.chm2570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Standard Property (Outlook)
+# IconView.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[IconView](Outlook.IconView.md)** object is a built-in Outlook view. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[IconView](Outlook.Ico
 
 _expression_. `Standard`
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks

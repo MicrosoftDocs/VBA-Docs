@@ -1,5 +1,5 @@
 ---
-title: AnimationPoint.Time Property (PowerPoint)
+title: AnimationPoint.Time property (PowerPoint)
 keywords: vbapp10.chm664004
 f1_keywords:
 - vbapp10.chm664004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoint.Time Property (PowerPoint)
+# AnimationPoint.Time property (PowerPoint)
 
 Sets or returns the time at a given animation point. Read/write.
 
 
 ## Syntax
 
- _expression_. `Time`
+_expression_. `Time`
 
 _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Instance Property (Outlook)
+title: RecurrencePattern.Instance property (Outlook)
 keywords: vbaol11.chm278
 f1_keywords:
 - vbaol11.chm278
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Instance Property (Outlook)
+# RecurrencePattern.Instance property (Outlook)
 
 Returns or sets a  **Long** specifying the count for which the recurrence pattern is valid for a given interval. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** specifying the count for which the recurrence patter
 
 _expression_. `Instance`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

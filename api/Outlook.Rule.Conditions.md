@@ -1,5 +1,5 @@
 ---
-title: Rule.Conditions Property (Outlook)
+title: Rule.Conditions property (Outlook)
 keywords: vbaol11.chm2175
 f1_keywords:
 - vbaol11.chm2175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rule.Conditions Property (Outlook)
+# Rule.Conditions property (Outlook)
 
 Returns a  **[RuleConditions](Outlook.RuleConditions.md)** collection object that represents all the available rule conditions for the rule. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleConditions](Outlook.RuleConditions.md)** collection object tha
 
 _expression_. `Conditions`
 
-_expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
+_expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 
 ## Remarks

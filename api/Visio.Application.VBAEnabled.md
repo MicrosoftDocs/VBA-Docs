@@ -1,5 +1,5 @@
 ---
-title: Application.VBAEnabled Property (Visio)
+title: Application.VBAEnabled property (Visio)
 keywords: vis_sdr.chm10052085
 f1_keywords:
 - vis_sdr.chm10052085
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.VBAEnabled Property (Visio)
+# Application.VBAEnabled property (Visio)
 
 Specifies whether Microsoft Visual Basic for Applications (VBA) is enabled in the application. Read-only.
 
 
 ## Syntax
 
- _expression_. `VBAEnabled`
+_expression_. `VBAEnabled`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

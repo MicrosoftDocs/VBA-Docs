@@ -1,5 +1,5 @@
 ---
-title: Hyperlink Object (Visio)
+title: Hyperlink object (Visio)
 keywords: vis_sdr.chm10110
 f1_keywords:
 - vis_sdr.chm10110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink Object (Visio)
+# Hyperlink object (Visio)
 
 Completely encapsulates the properties and behavior of a hyperlink. A shape can have one or more hyperlinks that navigate to any named location, such as another page, a local document, or a URL. A  **Hyperlink** object enables you to access and manipulate the shape's Hyperlink row.
 

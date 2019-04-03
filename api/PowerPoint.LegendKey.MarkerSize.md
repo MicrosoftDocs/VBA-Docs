@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerSize Property (PowerPoint)
+title: LegendKey.MarkerSize property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.MarkerSize
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# LegendKey.MarkerSize Property (PowerPoint)
+# LegendKey.MarkerSize property (PowerPoint)
 
 Returns or sets the data-marker size, in points. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerSize`
+_expression_. `MarkerSize`
 
  _expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeResourceNew Event (Project)
+title: Application.ProjectBeforeResourceNew event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceNew
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeResourceNew Event (Project)
+# Application.ProjectBeforeResourceNew event (Project)
 
 Occurs before one or more resources are created.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeResourceNew`( `_pj_`, `_Cancel_` )
+_expression_. `ProjectBeforeResourceNew`( `_pj_`, `_Cancel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

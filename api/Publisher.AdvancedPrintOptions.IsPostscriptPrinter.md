@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.IsPostscriptPrinter Property (Publisher)
+title: AdvancedPrintOptions.IsPostscriptPrinter property (Publisher)
 keywords: vbapb10.chm7077921
 f1_keywords:
 - vbapb10.chm7077921
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.IsPostscriptPrinter Property (Publisher)
+# AdvancedPrintOptions.IsPostscriptPrinter property (Publisher)
 
 Returns  **True** if the active printer is a PostScript printer. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **IsPostscriptPrinter**
+ _expression_.**IsPostscriptPrinter**
 
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 

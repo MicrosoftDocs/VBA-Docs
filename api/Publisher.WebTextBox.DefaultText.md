@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.DefaultText Property (Publisher)
+title: WebTextBox.DefaultText property (Publisher)
 keywords: vbapb10.chm4194307
 f1_keywords:
 - vbapb10.chm4194307
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebTextBox.DefaultText Property (Publisher)
+# WebTextBox.DefaultText property (Publisher)
 
 Returns or sets a  **String** that represents the default text in a Web text box control. Read/write.
 
 
 ## Syntax
 
- _expression_. **DefaultText**
+ _expression_.**DefaultText**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 

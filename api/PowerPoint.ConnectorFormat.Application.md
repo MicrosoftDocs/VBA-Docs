@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.Application Property (PowerPoint)
+title: ConnectorFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.Application Property (PowerPoint)
+# ConnectorFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

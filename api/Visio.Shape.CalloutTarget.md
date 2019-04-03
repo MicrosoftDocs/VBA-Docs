@@ -1,5 +1,5 @@
 ---
-title: Shape.CalloutTarget Property (Visio)
+title: Shape.CalloutTarget property (Visio)
 keywords: vis_sdr.chm11262470
 f1_keywords:
 - vis_sdr.chm11262470
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CalloutTarget Property (Visio)
+# Shape.CalloutTarget property (Visio)
 
 Gets or sets the target shape that is associated with the callout shape by a callout relationship. Read/write.
 
 
 ## Syntax
 
- _expression_. `CalloutTarget`
+_expression_. `CalloutTarget`
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 

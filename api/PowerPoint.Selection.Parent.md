@@ -1,5 +1,5 @@
 ---
-title: Selection.Parent Property (PowerPoint)
+title: Selection.Parent property (PowerPoint)
 keywords: vbapp10.chm508002
 f1_keywords:
 - vbapp10.chm508002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Parent Property (PowerPoint)
+# Selection.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

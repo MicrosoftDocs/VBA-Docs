@@ -1,5 +1,5 @@
 ---
-title: Task.EarlyStart Property (Project)
+title: Task.EarlyStart property (Project)
 keywords: vbapj.chm131787
 f1_keywords:
 - vbapj.chm131787
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.EarlyStart Property (Project)
+# Task.EarlyStart property (Project)
 
 Gets the earliest date on which a task can start. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `EarlyStart`
+_expression_. `EarlyStart`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

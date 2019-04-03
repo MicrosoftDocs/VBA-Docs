@@ -1,5 +1,5 @@
 ---
-title: PageSizes.Item Property (Publisher)
+title: PageSizes.Item property (Publisher)
 keywords: vbapb10.chm8781825
 f1_keywords:
 - vbapb10.chm8781825
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSizes.Item Property (Publisher)
+# PageSizes.Item property (Publisher)
 
 Returns the  **[PageSize](Publisher.PageSize.md)** object with the specified name or at the specified index position in the **[PageSizes](Publisher.PageSizes.md)** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **PageSizes** collection.
 

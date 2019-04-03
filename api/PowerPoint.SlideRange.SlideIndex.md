@@ -1,5 +1,5 @@
 ---
-title: SlideRange.SlideIndex Property (PowerPoint)
+title: SlideRange.SlideIndex property (PowerPoint)
 keywords: vbapp10.chm532018
 f1_keywords:
 - vbapp10.chm532018
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.SlideIndex Property (PowerPoint)
+# SlideRange.SlideIndex property (PowerPoint)
 
 Returns the index number of the specified slide within the  **Slides** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideIndex`
+_expression_. `SlideIndex`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 

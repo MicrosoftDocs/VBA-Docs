@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.BeforeAttachmentSave Event (Outlook)
+title: TaskRequestItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.BeforeAttachmentSave Event (Outlook)
+# TaskRequestItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 
@@ -18,7 +18,7 @@ Occurs just before an attachment is saved.
 
 _expression_. `BeforeAttachmentSave`( `_Attachment_` , `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Parameters

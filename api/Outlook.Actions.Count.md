@@ -1,5 +1,5 @@
 ---
-title: Actions.Count Property (Outlook)
+title: Actions.Count property (Outlook)
 keywords: vbaol11.chm149
 f1_keywords:
 - vbaol11.chm149
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Actions.Count Property (Outlook)
+# Actions.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [Actions](./Outlook.Actions.md) object.
+_expression_ A variable that represents an [Actions](Outlook.Actions.md) object.
 
 
 ## See also

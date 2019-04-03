@@ -1,5 +1,5 @@
 ---
-title: PjServerVersionInfo Enumeration (Project)
+title: PjServerVersionInfo enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjServerVersionInfo
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjServerVersionInfo Enumeration (Project)
+# PjServerVersionInfo enumeration (Project)
 
 Contains constants that specify how to format data from Project Server versions.
 

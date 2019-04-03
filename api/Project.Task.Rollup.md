@@ -1,5 +1,5 @@
 ---
-title: Task.Rollup Property (Project)
+title: Task.Rollup property (Project)
 keywords: vbapj.chm132588
 f1_keywords:
 - vbapj.chm132588
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Rollup Property (Project)
+# Task.Rollup property (Project)
 
  **True** if the dates of a subtask appear on its corresponding summary task bar. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Rollup`
+_expression_. `Rollup`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: LeaderLines Object (PowerPoint)
+title: LeaderLines object (PowerPoint)
 keywords: vbapp10.chm708000
 f1_keywords:
 - vbapp10.chm708000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LeaderLines Object (PowerPoint)
+# LeaderLines object (PowerPoint)
 
 Represents leader lines on a chart. Leader lines connect data labels to data points.
 

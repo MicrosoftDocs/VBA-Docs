@@ -1,5 +1,5 @@
 ---
-title: Project.ShowTaskSuggestions Property (Project)
+title: Project.ShowTaskSuggestions property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ShowTaskSuggestions
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ShowTaskSuggestions Property (Project)
+# Project.ShowTaskSuggestions property (Project)
 
  **True** if task suggestions in the active project are displayed; otherwise, **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowTaskSuggestions`
+_expression_. `ShowTaskSuggestions`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.AddressEntryUserType Property (Outlook)
+title: ExchangeDistributionList.AddressEntryUserType property (Outlook)
 keywords: vbaol11.chm2127
 f1_keywords:
 - vbaol11.chm2127
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.AddressEntryUserType Property (Outlook)
+# ExchangeDistributionList.AddressEntryUserType property (Outlook)
 
 Returns  **olExchangeDistributionListAddressEntry** which is a constant from the **[OlAddressEntryUserType](Outlook.OlAddressEntryUserType.md)** enumeration representing the user type of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns  **olExchangeDistributionListAddressEntry** which is a constant from the
 
 _expression_. `AddressEntryUserType`
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

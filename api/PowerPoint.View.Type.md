@@ -1,5 +1,5 @@
 ---
-title: View.Type Property (PowerPoint)
+title: View.Type property (PowerPoint)
 keywords: vbapp10.chm512003
 f1_keywords:
 - vbapp10.chm512003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Type Property (PowerPoint)
+# View.Type property (PowerPoint)
 
 Represents the type of view. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Enterprise Property (Project)
+title: Resource.Enterprise property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Enterprise
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Enterprise Property (Project)
+# Resource.Enterprise property (Project)
 
  **True** if the resource is an enterprise resource, **False** if a local resource. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Enterprise`
+_expression_. `Enterprise`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

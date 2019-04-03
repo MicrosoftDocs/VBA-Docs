@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.NewSeries Method (PowerPoint)
+title: SeriesCollection.NewSeries method (PowerPoint)
 keywords: vbapp10.chm66653
 f1_keywords:
 - vbapp10.chm66653
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection.NewSeries Method (PowerPoint)
+# SeriesCollection.NewSeries method (PowerPoint)
 
 Creates a new series.
 
 
 ## Syntax
 
- _expression_. `NewSeries`
+_expression_. `NewSeries`
 
  _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 

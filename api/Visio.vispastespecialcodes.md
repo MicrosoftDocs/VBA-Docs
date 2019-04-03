@@ -1,5 +1,5 @@
 ---
-title: VisPasteSpecialCodes Enumeration (Visio)
+title: VisPasteSpecialCodes enumeration (Visio)
 keywords: vis_sdr.chm70350
 f1_keywords:
 - vis_sdr.chm70350
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisPasteSpecialCodes Enumeration (Visio)
+# VisPasteSpecialCodes enumeration (Visio)
 
 Format codes passed to the  **PasteSpecial** method.
 

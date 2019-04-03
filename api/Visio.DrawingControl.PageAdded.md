@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.PageAdded Event (Visio)
+title: DrawingControl.PageAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.PageAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.PageAdded Event (Visio)
+# DrawingControl.PageAdded event (Visio)
 
 Occurs after a new page is added to a document.
 

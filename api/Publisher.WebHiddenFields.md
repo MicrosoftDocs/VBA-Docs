@@ -1,5 +1,5 @@
 ---
-title: WebHiddenFields Object (Publisher)
+title: WebHiddenFields object (Publisher)
 keywords: vbapb10.chm4063231
 f1_keywords:
 - vbapb10.chm4063231
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebHiddenFields Object (Publisher)
+# WebHiddenFields object (Publisher)
 
 Represents hidden Web fields that allow a Web page to pass non-visible data to the Web server when a Web page is submitted. The  **WebHiddenFields** object enables control of all the hidden fields attached to a Submit command button.
  

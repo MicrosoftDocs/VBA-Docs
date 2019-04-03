@@ -19,9 +19,9 @@ Creates a new trendline.
 
 ## Syntax
 
-_expression_. `Add`( `_Type_` , `_Order_` , `_Period_` , `_Forward_` , `_Backward_` , `_Intercept_` , `_DisplayEquation_` , `_DisplayRSquared_` , `_Name_` )
+_expression_.**Add**( `_Type_` , `_Order_` , `_Period_` , `_Forward_` , `_Backward_` , `_Intercept_` , `_DisplayEquation_` , `_DisplayRSquared_` , `_Name_` )
 
-_expression_ A variable that represents a [Trendlines](./Excel.Trendlines(object).md) object.
+_expression_ A variable that represents a [Trendlines](Excel.Trendlines(object).md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Trendlines](./Excel.Trendlines(object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **[xlTrendlineType](Excel.XlTrendlineType.md)**|The trendline type.|
+| _Type_|Optional| **[XlTrendlineType](Excel.XlTrendlineType.md)**|The trendline type.|
 | _Order_|Optional| **Variant**| **Variant**. if _Type_ is **xlPolynomial**. The trendline order. Must be an integer from 2 to 6, inclusive.|
 | _Period_|Optional| **Variant**|if  _Type_ is **xlMovingAvg**. The trendline period. Must be an integer greater than 1 and less than the number of data points in the series you are adding a trendline to.|
 | _Forward_|Optional| **Variant**|The number of periods (or units on a scatter chart) that the trendline extends forward.|

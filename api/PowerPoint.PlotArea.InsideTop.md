@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideTop Property (PowerPoint)
+title: PlotArea.InsideTop property (PowerPoint)
 keywords: vbapp10.chm67204
 f1_keywords:
 - vbapp10.chm67204
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.InsideTop Property (PowerPoint)
+# PlotArea.InsideTop property (PowerPoint)
 
 Returns or sets the distance, in points, from the chart edge to the inside top edge of the plot area. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `InsideTop`
+_expression_. `InsideTop`
 
  _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureVerticalScale Property (Publisher)
+title: FillFormat.TextureVerticalScale property (Publisher)
 keywords: vbapb10.chm2359577
 f1_keywords:
 - vbapb10.chm2359577
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureVerticalScale Property (Publisher)
+# FillFormat.TextureVerticalScale property (Publisher)
 
 Returns or sets a  **Single** that specifies the vertical scaling factor for the texture fill. Read/write.
 
 
 ## Syntax
 
- _expression_. **TextureVerticalScale**
+ _expression_.**TextureVerticalScale**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

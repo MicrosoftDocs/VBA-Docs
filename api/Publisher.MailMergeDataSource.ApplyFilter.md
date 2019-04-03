@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.ApplyFilter Method (Publisher)
+title: MailMergeDataSource.ApplyFilter method (Publisher)
 keywords: vbapb10.chm6291492
 f1_keywords:
 - vbapb10.chm6291492
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.ApplyFilter Method (Publisher)
+# MailMergeDataSource.ApplyFilter method (Publisher)
 
 Applies a filter to a mail merge data source to remove (or filter out) specified records containing (or not containing) specific data.
 
 
 ## Syntax
 
- _expression_. **ApplyFilter**
+ _expression_.**ApplyFilter**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

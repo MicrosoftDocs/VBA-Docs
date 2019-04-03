@@ -1,5 +1,5 @@
 ---
-title: Style.ID Property (Visio)
+title: Style.ID property (Visio)
 keywords: vis_sdr.chm11413675
 f1_keywords:
 - vis_sdr.chm11413675
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Style.ID Property (Visio)
+# Style.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

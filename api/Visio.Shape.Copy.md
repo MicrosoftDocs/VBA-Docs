@@ -1,5 +1,5 @@
 ---
-title: Shape.Copy Method (Visio)
+title: Shape.Copy method (Visio)
 keywords: vis_sdr.chm11251005
 f1_keywords:
 - vis_sdr.chm11251005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Copy Method (Visio)
+# Shape.Copy method (Visio)
 
 Copies a shape to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Flags_` )
+_expression_. `Copy`( `_Flags_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

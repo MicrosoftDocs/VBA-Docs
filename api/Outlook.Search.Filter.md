@@ -1,5 +1,5 @@
 ---
-title: Search.Filter Property (Outlook)
+title: Search.Filter property (Outlook)
 keywords: vbaol11.chm2253
 f1_keywords:
 - vbaol11.chm2253
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.Filter Property (Outlook)
+# Search.Filter property (Outlook)
 
 Returns a  **String** value that represents the DASL statement used to restrict the search to a specified subset of data. Read-only
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the DASL statement used to restrict 
 
 _expression_. `Filter`
 
-_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Remarks

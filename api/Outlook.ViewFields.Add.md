@@ -1,5 +1,5 @@
 ---
-title: ViewFields.Add Method (Outlook)
+title: ViewFields.Add method (Outlook)
 keywords: vbaol11.chm2552
 f1_keywords:
 - vbaol11.chm2552
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# ViewFields.Add Method (Outlook)
+# ViewFields.Add method (Outlook)
 
 Adds the specified field to the end of the  **[ViewFields](Outlook.ViewFields.md)** collection for the view.
 
 
 ## Syntax
 
- _expression_. `Add`( `_PropertyName_` )
+ _expression_.**Add**( `_PropertyName_` )
 
-_expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## Parameters

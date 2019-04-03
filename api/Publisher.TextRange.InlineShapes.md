@@ -1,5 +1,5 @@
 ---
-title: TextRange.InlineShapes Property (Publisher)
+title: TextRange.InlineShapes property (Publisher)
 keywords: vbapb10.chm5308498
 f1_keywords:
 - vbapb10.chm5308498
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InlineShapes Property (Publisher)
+# TextRange.InlineShapes property (Publisher)
 
 Returns an  **[InlineShapes](Publisher.InlineShapes.md)** collection, which represents the inline shapes contained within a text range. Read-only.
 
 
 ## Syntax
 
- _expression_. **InlineShapes**
+ _expression_.**InlineShapes**
 
  _expression_ A variable that represents an  **TextRange** object.
 

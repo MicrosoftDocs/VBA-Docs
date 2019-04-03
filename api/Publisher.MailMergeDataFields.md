@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataFields Object (Publisher)
+title: MailMergeDataFields object (Publisher)
 keywords: vbapb10.chm6422527
 f1_keywords:
 - vbapb10.chm6422527
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataFields Object (Publisher)
+# MailMergeDataFields object (Publisher)
 
 A collection of  **[MailMergeDataField](Publisher.MailMergeDataField.md)** objects that represent the data fields in a mail merge or catalog merge data source.
  

@@ -1,5 +1,5 @@
 ---
-title: Folder.EntryID Property (Outlook)
+title: Folder.EntryID property (Outlook)
 keywords: vbaol11.chm1988
 f1_keywords:
 - vbaol11.chm1988
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.EntryID Property (Outlook)
+# Folder.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks

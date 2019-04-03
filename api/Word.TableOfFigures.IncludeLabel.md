@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IncludeLabel`
+_expression_. `IncludeLabel`
 
  _expression_ An expression that returns a '[TableOfFigures](Word.TableOfFigures.md)' object.
 

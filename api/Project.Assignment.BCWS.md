@@ -1,5 +1,5 @@
 ---
-title: Assignment.BCWS Property (Project)
+title: Assignment.BCWS property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.BCWS
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.BCWS Property (Project)
+# Assignment.BCWS property (Project)
 
 Gets the budgeted cost of work scheduled for the assignment. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BCWS`
+_expression_. `BCWS`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

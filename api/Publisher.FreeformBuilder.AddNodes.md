@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.AddNodes Method (Publisher)
+title: FreeformBuilder.AddNodes method (Publisher)
 keywords: vbapb10.chm3276816
 f1_keywords:
 - vbapb10.chm3276816
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FreeformBuilder.AddNodes Method (Publisher)
+# FreeformBuilder.AddNodes method (Publisher)
 
 Inserts a new segment at the end of the freeform that is being created, and adds the nodes that define the segment. You can use this method as many times as you want to add nodes to the freeform you are creating. When you finish adding nodes, use the  **[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)** method to create the freeform you just defined.
 
 
 ## Syntax
 
- _expression_. **AddNodes**(**_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
+ _expression_.**AddNodes**(**_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
 
  _expression_ A variable that represents a  **FreeformBuilder** object.
 

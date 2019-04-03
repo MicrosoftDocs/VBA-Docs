@@ -19,7 +19,7 @@ Closes the specified window.
 
 ## Syntax
 
- _expression_. `Close`( `_SaveChanges_` , `_RouteDocument_` )
+_expression_. `Close`( `_SaveChanges_` , `_RouteDocument_` )
 
  _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 

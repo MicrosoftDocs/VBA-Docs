@@ -1,5 +1,5 @@
 ---
-title: Application.KeyPress Event (Visio)
+title: Application.KeyPress event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.KeyPress
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.KeyPress Event (Visio)
+# Application.KeyPress event (Visio)
 
 Occurs when a keyboard key is pressed.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.FormDescription Property (Outlook)
+title: SharingItem.FormDescription property (Outlook)
 keywords: vbaol11.chm607
 f1_keywords:
 - vbaol11.chm607
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.FormDescription Property (Outlook)
+# SharingItem.FormDescription property (Outlook)
 
 Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[FormDescription](Outlook.FormDescription.md)** object that repre
 
 _expression_. `FormDescription`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

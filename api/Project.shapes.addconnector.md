@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddConnector Method (Project)
+title: Shapes.AddConnector method (Project)
 ms.prod: project-server
 ms.assetid: bfd75cf3-f70b-8d19-bf28-94e2f4b227dd
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddConnector Method (Project)
+# Shapes.AddConnector method (Project)
 Creates a connector and returns a  **Shape** object the represents the new connector.
 
 ## Syntax
 
- _expression_. `AddConnector` _(Type,_ _BeginX,_ _BeginY,_ _EndX,_ _EndY)_
+_expression_. `AddConnector` _(Type,_ _BeginX,_ _BeginY,_ _EndX,_ _EndY)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

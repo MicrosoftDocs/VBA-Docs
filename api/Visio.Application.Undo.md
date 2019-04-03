@@ -1,5 +1,5 @@
 ---
-title: Application.Undo Method (Visio)
+title: Application.Undo method (Visio)
 keywords: vis_sdr.chm10016620
 f1_keywords:
 - vis_sdr.chm10016620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Undo Method (Visio)
+# Application.Undo method (Visio)
 
 Reverses the most recent undo unit, if the undo unit can be reversed.
 

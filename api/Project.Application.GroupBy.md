@@ -1,5 +1,5 @@
 ---
-title: Application.GroupBy Method (Project)
+title: Application.GroupBy method (Project)
 keywords: vbapj.chm513
 f1_keywords:
 - vbapj.chm513
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GroupBy Method (Project)
+# Application.GroupBy method (Project)
 
 Displays the  **Customize Group By** dialog box.
 
 
 ## Syntax
 
- _expression_. `GroupBy`
+_expression_. `GroupBy`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.VAC Property (Project)
+title: Task.VAC property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.VAC
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.VAC Property (Project)
+# Task.VAC property (Project)
 
 Gets the VAC (Variance At Completion) cost for the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `VAC`
+_expression_. `VAC`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

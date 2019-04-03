@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HomeAddressCountry Property (Outlook)
+title: ContactItem.HomeAddressCountry property (Outlook)
 keywords: vbaol11.chm1014
 f1_keywords:
 - vbaol11.chm1014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HomeAddressCountry Property (Outlook)
+# ContactItem.HomeAddressCountry property (Outlook)
 
 Returns or sets a  **String** representing the country/region portion of the home address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the country/region portion of the hom
 
 _expression_. `HomeAddressCountry`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

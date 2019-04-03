@@ -1,5 +1,5 @@
 ---
-title: WizardValues.Count Property (Publisher)
+title: WizardValues.Count property (Publisher)
 keywords: vbapb10.chm1638403
 f1_keywords:
 - vbapb10.chm1638403
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WizardValues.Count Property (Publisher)
+# WizardValues.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **WizardValues** object.
 

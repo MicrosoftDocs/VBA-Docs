@@ -1,5 +1,5 @@
 ---
-title: VisConnectedShapesFlags Enumeration (Visio)
+title: VisConnectedShapesFlags enumeration (Visio)
 keywords: vis_sdr.chm70575
 f1_keywords:
 - vis_sdr.chm70575
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisConnectedShapesFlags Enumeration (Visio)
+# VisConnectedShapesFlags enumeration (Visio)
 
 Specifies constants that identify shapes by the directionality of their connectors; passed to the  **[Shape.ConnectedShapes](Visio.Shape.ConnectedShapes.md)** method.
 

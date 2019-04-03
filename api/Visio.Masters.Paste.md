@@ -1,5 +1,5 @@
 ---
-title: Masters.Paste Method (Visio)
+title: Masters.Paste method (Visio)
 keywords: vis_sdr.chm10851170
 f1_keywords:
 - vis_sdr.chm10851170
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Masters.Paste Method (Visio)
+# Masters.Paste method (Visio)
 
 Pastes the contents of the Clipboard into an object.
 
 
 ## Syntax
 
- _expression_. `Paste`( `_Flags_` )
+_expression_. `Paste`( `_Flags_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

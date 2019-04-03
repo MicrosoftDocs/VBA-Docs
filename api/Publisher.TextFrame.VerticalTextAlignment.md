@@ -1,5 +1,5 @@
 ---
-title: TextFrame.VerticalTextAlignment Property (Publisher)
+title: TextFrame.VerticalTextAlignment property (Publisher)
 keywords: vbapb10.chm3866660
 f1_keywords:
 - vbapb10.chm3866660
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.VerticalTextAlignment Property (Publisher)
+# TextFrame.VerticalTextAlignment property (Publisher)
 
 Returns or sets a  **PbVerticalTextAlignmentType**constant that represents the vertical alignment of text in a text box. Read/write.
 
 
 ## Syntax
 
- _expression_. **VerticalTextAlignment**
+ _expression_.**VerticalTextAlignment**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

@@ -1,5 +1,5 @@
 ---
-title: DropCap.Span Property (Publisher)
+title: DropCap.Span property (Publisher)
 keywords: vbapb10.chm5505033
 f1_keywords:
 - vbapb10.chm5505033
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DropCap.Span Property (Publisher)
+# DropCap.Span property (Publisher)
 
 Returns or sets a  **Long** that represents the number of letters included in the specified dropped capital letter. Read/write.
 
 
 ## Syntax
 
- _expression_. **Span**
+ _expression_.**Span**
 
  _expression_ A variable that represents a  **DropCap** object.
 

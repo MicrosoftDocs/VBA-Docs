@@ -19,7 +19,7 @@ Returns or sets border formatting for the specified object. Read/write  **Long**
 
 ## Syntax
 
- _expression_. `Enable`
+_expression_. `Enable`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' collection.
 

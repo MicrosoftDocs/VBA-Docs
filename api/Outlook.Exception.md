@@ -1,5 +1,5 @@
 ---
-title: Exception Object (Outlook)
+title: Exception object (Outlook)
 keywords: vbaol11.chm296
 f1_keywords:
 - vbaol11.chm296
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exception Object (Outlook)
+# Exception object (Outlook)
 
 Represents information about one instance of an  **[AppointmentItem](Outlook.AppointmentItem.md)** object which is an exception to a recurring series.
 
@@ -84,6 +84,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

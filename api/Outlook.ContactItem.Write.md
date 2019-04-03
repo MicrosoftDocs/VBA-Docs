@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Write Event (Outlook)
+title: ContactItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Write Event (Outlook)
+# ContactItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.ContactItem.Save.md)** or **[SaveAs](Outlook.ContactItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 _expression_. `Write`( `_Cancel_` )
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

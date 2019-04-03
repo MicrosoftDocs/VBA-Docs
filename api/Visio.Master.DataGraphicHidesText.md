@@ -1,5 +1,5 @@
 ---
-title: Master.DataGraphicHidesText Property (Visio)
+title: Master.DataGraphicHidesText property (Visio)
 keywords: vis_sdr.chm10760115
 f1_keywords:
 - vis_sdr.chm10760115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DataGraphicHidesText Property (Visio)
+# Master.DataGraphicHidesText property (Visio)
 
 Displays or hides the text of a shape or of the primary shape in a selection when a data graphic is applied to the shape or to the selection. Read/write.
 
@@ -22,7 +22,7 @@ Displays or hides the text of a shape or of the primary shape in a selection whe
 
 ## Syntax
 
- _expression_. `DataGraphicHidesText`
+_expression_. `DataGraphicHidesText`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 

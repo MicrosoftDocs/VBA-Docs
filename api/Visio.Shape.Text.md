@@ -1,5 +1,5 @@
 ---
-title: Shape.Text Property (Visio)
+title: Shape.Text property (Visio)
 keywords: vis_sdr.chm11251175
 f1_keywords:
 - vis_sdr.chm11251175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Text Property (Visio)
+# Shape.Text property (Visio)
 
 Returns all of the shape's text. Read/write.
 

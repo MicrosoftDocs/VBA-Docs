@@ -1,5 +1,5 @@
 ---
-title: Series.Name Property (PowerPoint)
+title: Series.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.Name Property (PowerPoint)
+# Series.Name property (PowerPoint)
 
 Returns or sets the name of the object. Read/write  **String**.
 

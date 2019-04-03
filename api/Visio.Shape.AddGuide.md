@@ -1,5 +1,5 @@
 ---
-title: Shape.AddGuide Method (Visio)
+title: Shape.AddGuide method (Visio)
 keywords: vis_sdr.chm11216035
 f1_keywords:
 - vis_sdr.chm11216035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.AddGuide Method (Visio)
+# Shape.AddGuide method (Visio)
 
 Adds a guide to a group shape.
 
 
 ## Syntax
 
- _expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
+_expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

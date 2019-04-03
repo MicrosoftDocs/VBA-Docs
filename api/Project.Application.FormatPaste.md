@@ -1,5 +1,5 @@
 ---
-title: Application.FormatPaste Method (Project)
+title: Application.FormatPaste method (Project)
 keywords: vbapj.chm2313
 f1_keywords:
 - vbapj.chm2313
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FormatPaste Method (Project)
+# Application.FormatPaste method (Project)
 
 Pastes formats (copied with the  **FormatCopy** method) into the selected cells.
 
 
 ## Syntax
 
- _expression_. `FormatPaste`
+_expression_. `FormatPaste`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

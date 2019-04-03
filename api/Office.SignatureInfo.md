@@ -37,7 +37,7 @@ End Sub
 ## See also
 
 - [SignatureInfo object members](overview/Library-Reference/signatureinfo-members-office.md)
-- [Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 

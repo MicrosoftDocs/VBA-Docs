@@ -19,7 +19,7 @@ Returns or sets the width type for the specified  **HorizontalLineFormat** objec
 
 ## Syntax
 
- _expression_. `WidthType`
+_expression_. `WidthType`
 
  _expression_ Required. A variable that represents a '[HorizontalLineFormat](Word.HorizontalLineFormat.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.Parent Property (PowerPoint)
+title: ChartBorder.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartBorder.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartBorder.Parent Property (PowerPoint)
+# ChartBorder.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

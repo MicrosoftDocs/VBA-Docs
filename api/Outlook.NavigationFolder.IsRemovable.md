@@ -1,5 +1,5 @@
 ---
-title: NavigationFolder.IsRemovable Property (Outlook)
+title: NavigationFolder.IsRemovable property (Outlook)
 keywords: vbaol11.chm2908
 f1_keywords:
 - vbaol11.chm2908
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolder.IsRemovable Property (Outlook)
+# NavigationFolder.IsRemovable property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[NavigationFolder](Outlook.NavigationFolder.md)** object can be removed from the navigation pane. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[NavigationFolder](Out
 
 _expression_. `IsRemovable`
 
-_expression_ A variable that represents a [NavigationFolder](./Outlook.NavigationFolder.md) object.
+_expression_ A variable that represents a [NavigationFolder](Outlook.NavigationFolder.md) object.
 
 
 ## Remarks

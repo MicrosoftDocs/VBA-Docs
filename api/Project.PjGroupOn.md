@@ -1,5 +1,5 @@
 ---
-title: PjGroupOn Enumeration (Project)
+title: PjGroupOn enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjGroupOn
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjGroupOn Enumeration (Project)
+# PjGroupOn enumeration (Project)
 
 Contains constants that specify the type of grouping.
 

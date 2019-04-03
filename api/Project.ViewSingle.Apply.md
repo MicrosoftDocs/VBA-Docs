@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Apply Method (Project)
+title: ViewSingle.Apply method (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.Apply
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Apply Method (Project)
+# ViewSingle.Apply method (Project)
 
 Applies the single view.
 
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_. `Apply`
 
  _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 

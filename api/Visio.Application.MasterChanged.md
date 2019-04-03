@@ -1,5 +1,5 @@
 ---
-title: Application.MasterChanged Event (Visio)
+title: Application.MasterChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.MasterChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MasterChanged Event (Visio)
+# Application.MasterChanged event (Visio)
 
 Occurs after properties of a master are changed and propagated to its instances.
 

@@ -1,5 +1,5 @@
 ---
-title: VisPublishDataRecordsets Enumeration (Visio)
+title: VisPublishDataRecordsets enumeration (Visio)
 keywords: vis_sdr.chm70660
 f1_keywords:
 - vis_sdr.chm70660
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisPublishDataRecordsets Enumeration (Visio)
+# VisPublishDataRecordsets enumeration (Visio)
 
 Specifies constants that define which data recordsets to publish; passed to the  **[ServerPublishOptions.SetRecordsetsToPublish](Visio.ServerPublishOptions.SetRecordsetsToPublish.md)** method and returned by the **[ServerPublishOptions.GetRecordsetsToPublish](Visio.ServerPublishOptions.GetRecordsetsToPublish.md)** method.
 

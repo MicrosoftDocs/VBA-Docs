@@ -1,5 +1,5 @@
 ---
-title: PlaceholderFormat.Type Property (PowerPoint)
+title: PlaceholderFormat.Type property (PowerPoint)
 keywords: vbapp10.chm545003
 f1_keywords:
 - vbapp10.chm545003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaceholderFormat.Type Property (PowerPoint)
+# PlaceholderFormat.Type property (PowerPoint)
 
 Represents the type of placeholder. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: VisDocModeArgs Enumeration (Visio)
+title: VisDocModeArgs enumeration (Visio)
 keywords: vis_sdr.chm70215
 f1_keywords:
 - vis_sdr.chm70215
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDocModeArgs Enumeration (Visio)
+# VisDocModeArgs enumeration (Visio)
 
 Flags passed to or returned by the  **Document.Mode** property and IDs returned by **Document.ID**.
 

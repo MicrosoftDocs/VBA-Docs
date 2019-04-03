@@ -1,5 +1,5 @@
 ---
-title: Attachments.Count Property (Publisher)
+title: Attachments.Count property (Publisher)
 keywords: vbapb10.chm569347
 f1_keywords:
 - vbapb10.chm569347
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Count Property (Publisher)
+# Attachments.Count property (Publisher)
 
 Returns the number of  **[Attachment](Publisher.Attachment.md)** objects in the **[Attachments](Publisher.Attachments.md)** collection of an **[EmailMergeEnvelope](Publisher.EmailMergeEnvelope.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents an  **Attachments** collection.
 

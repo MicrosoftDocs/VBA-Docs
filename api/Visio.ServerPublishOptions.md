@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions Object (Visio)
+title: ServerPublishOptions object (Visio)
 keywords: vis_sdr.chm61055
 f1_keywords:
 - vis_sdr.chm61055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions Object (Visio)
+# ServerPublishOptions object (Visio)
 
 Represents the settings to apply when you save a Web Drawing (as a .vdw file) to use on a Microsoft SharePoint site in conjunction with Visio Services.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.MapEdit Method (Project)
+title: Application.MapEdit method (Project)
 keywords: vbapj.chm243
 f1_keywords:
 - vbapj.chm243
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MapEdit Method (Project)
+# Application.MapEdit method (Project)
 
 Creates or edits an import/export map.
 
 
 ## Syntax
 
- _expression_. `MapEdit`( `_Name_`, `_Create_`, `_OverwriteExisting_`, `_NewName_`, `_DataCategory_`, `_CategoryEnabled_`, `_TableName_`, `_FieldName_`, `_ExternalFieldName_`, `_ExportFilter_`, `_ImportMethod_`, `_MergeKey_`, `_HeaderRow_`, `_AssignmentData_`, `_TextDelimiter_`, `_TextFileOrigin_`, `_UseHtmlTemplate_`, `_TemplateFile_`, `_IncludeImage_`, `_ImageFile_` )
+_expression_. `MapEdit`( `_Name_`, `_Create_`, `_OverwriteExisting_`, `_NewName_`, `_DataCategory_`, `_CategoryEnabled_`, `_TableName_`, `_FieldName_`, `_ExternalFieldName_`, `_ExportFilter_`, `_ImportMethod_`, `_MergeKey_`, `_HeaderRow_`, `_AssignmentData_`, `_TextDelimiter_`, `_TextFileOrigin_`, `_UseHtmlTemplate_`, `_TemplateFile_`, `_IncludeImage_`, `_ImageFile_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

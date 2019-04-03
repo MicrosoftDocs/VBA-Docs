@@ -1,5 +1,5 @@
 ---
-title: MoveOrCopyRuleAction.Class Property (Outlook)
+title: MoveOrCopyRuleAction.Class property (Outlook)
 keywords: vbaol11.chm2209
 f1_keywords:
 - vbaol11.chm2209
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MoveOrCopyRuleAction.Class Property (Outlook)
+# MoveOrCopyRuleAction.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [MoveOrCopyRuleAction](./Outlook.MoveOrCopyRuleAction.md) object.
+_expression_ A variable that represents a [MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md) object.
 
 
 ## See also

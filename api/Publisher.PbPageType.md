@@ -1,5 +1,5 @@
 ---
-title: PbPageType Enumeration (Publisher)
+title: PbPageType enumeration (Publisher)
 keywords: vbapb10.chm65539
 f1_keywords:
 - vbapb10.chm65539
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPageType Enumeration (Publisher)
+# PbPageType enumeration (Publisher)
 
 Represents the page type. 
 

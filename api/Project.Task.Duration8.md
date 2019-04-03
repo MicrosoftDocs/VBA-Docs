@@ -1,5 +1,5 @@
 ---
-title: Task.Duration8 Property (Project)
+title: Task.Duration8 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Duration8
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Duration8 Property (Project)
+# Task.Duration8 property (Project)
 
  Gets or sets the value of a task duration custom field. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Duration8`
+_expression_. `Duration8`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

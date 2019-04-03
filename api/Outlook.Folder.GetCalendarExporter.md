@@ -1,5 +1,5 @@
 ---
-title: Folder.GetCalendarExporter Method (Outlook)
+title: Folder.GetCalendarExporter method (Outlook)
 keywords: vbaol11.chm2020
 f1_keywords:
 - vbaol11.chm2020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.GetCalendarExporter Method (Outlook)
+# Folder.GetCalendarExporter method (Outlook)
 
 Creates a  **[CalendarSharing](Outlook.CalendarSharing.md)** object for the specified **[Folder](Outlook.Folder.md)**.
 
@@ -21,7 +21,7 @@ Creates a  **[CalendarSharing](Outlook.CalendarSharing.md)** object for the spec
 
 _expression_. `GetCalendarExporter`
 
- _expression_ An expression that returns a [Folder](./Outlook.Folder.md) object.
+ _expression_ An expression that returns a [Folder](Outlook.Folder.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns or sets a  **String** for the write password of a workbook. Read/write.
 
 _expression_. `WritePassword`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Example

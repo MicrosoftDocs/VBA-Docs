@@ -19,9 +19,9 @@ Adds a reference to the  **[ServerViewableItems](Excel.ServerViewableItems.md)**
 
 ## Syntax
 
-_expression_. `Add`( `_Obj_` )
+_expression_.**Add**( `_Obj_` )
 
-_expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
+_expression_ A variable that represents a [ServerViewableItems](Excel.ServerViewableItems.md) object.
 
 
 ## Parameters

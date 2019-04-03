@@ -21,7 +21,7 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
 _expression_. `ZOrder`( `_ZOrderCmd_` )
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Parameters
@@ -49,7 +49,7 @@ Use the  **[ZOrderPosition](Excel.ShapeRange.ZOrderPosition.md)** property to de
 
 ## Example
 
-This example adds an oval to  `myDocument` and then places the oval second from the back in the z-order if there is at least one other shape on the document.
+This example adds an oval to  _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the document.
 
 
 ```vb

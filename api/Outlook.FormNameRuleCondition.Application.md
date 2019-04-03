@@ -1,5 +1,5 @@
 ---
-title: FormNameRuleCondition.Application Property (Outlook)
+title: FormNameRuleCondition.Application property (Outlook)
 keywords: vbaol11.chm2448
 f1_keywords:
 - vbaol11.chm2448
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormNameRuleCondition.Application Property (Outlook)
+# FormNameRuleCondition.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [FormNameRuleCondition](./Outlook.FormNameRuleCondition.md) object.
+_expression_ A variable that represents a [FormNameRuleCondition](Outlook.FormNameRuleCondition.md) object.
 
 
 ## See also

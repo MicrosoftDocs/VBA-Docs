@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Type Property (Publisher)
+title: ReflectionFormat.Type property (Publisher)
 keywords: vbapb10.chm9699329
 f1_keywords:
 - vbapb10.chm9699329
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ReflectionFormat.Type Property (Publisher)
+# ReflectionFormat.Type property (Publisher)
 
 Returns or sets an  **MsoReflectionType** constant that represents the type and distance from the shape of the reflection. Read/write.
 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **ReflectionFormat** object.
 

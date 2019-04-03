@@ -1,5 +1,5 @@
 ---
-title: CatalogMergeShapes.Item Method (Publisher)
+title: CatalogMergeShapes.Item method (Publisher)
 keywords: vbapb10.chm8388608
 f1_keywords:
 - vbapb10.chm8388608
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CatalogMergeShapes.Item Method (Publisher)
+# CatalogMergeShapes.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **CatalogMergeShapes** object.
 

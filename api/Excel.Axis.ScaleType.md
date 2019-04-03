@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.ScaleType property (Excel)
 
-Returns or sets the value axis scale type. Read/write  **[xlScaleType](Excel.XlScaleType.md)**.
+Returns or sets the value axis scale type. Read/write  **[XlScaleType](Excel.XlScaleType.md)**.
 
 
 ## Syntax

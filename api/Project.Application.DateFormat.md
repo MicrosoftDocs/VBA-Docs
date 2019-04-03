@@ -1,5 +1,5 @@
 ---
-title: Application.DateFormat Method (Project)
+title: Application.DateFormat method (Project)
 keywords: vbapj.chm131208
 f1_keywords:
 - vbapj.chm131208
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DateFormat Method (Project)
+# Application.DateFormat method (Project)
 
 Returns a date in the specified format.
 
 
 ## Syntax
 
- _expression_. `DateFormat`( `_Date_`, `_Format_` )
+_expression_. `DateFormat`( `_Date_`, `_Format_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

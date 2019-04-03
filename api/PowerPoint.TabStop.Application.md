@@ -1,5 +1,5 @@
 ---
-title: TabStop.Application Property (PowerPoint)
+title: TabStop.Application property (PowerPoint)
 keywords: vbapp10.chm574001
 f1_keywords:
 - vbapp10.chm574001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TabStop.Application Property (PowerPoint)
+# TabStop.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

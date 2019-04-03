@@ -1,5 +1,5 @@
 ---
-title: Window.Width Property (Project)
+title: Window.Width property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Width
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Width Property (Project)
+# Window.Width property (Project)
 
 Gets or sets the width in points of the window. Read/write  **Long**.
 

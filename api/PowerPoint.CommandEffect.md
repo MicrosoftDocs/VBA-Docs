@@ -1,5 +1,5 @@
 ---
-title: CommandEffect Object (PowerPoint)
+title: CommandEffect object (PowerPoint)
 keywords: vbapp10.chm668000
 f1_keywords:
 - vbapp10.chm668000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CommandEffect Object (PowerPoint)
+# CommandEffect object (PowerPoint)
 
 Represents a command effect for an animation behavior. You can send events, call functions, and send OLE verbs to embedded objects using this object.
 

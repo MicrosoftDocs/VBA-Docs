@@ -1,5 +1,5 @@
 ---
-title: Document.UserCustomUI Property (Visio)
+title: Document.UserCustomUI property (Visio)
 keywords: vis_sdr.chm10562695
 f1_keywords:
 - vis_sdr.chm10562695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.UserCustomUI Property (Visio)
+# Document.UserCustomUI property (Visio)
 
 Gets or sets the Ribbon XML string that is passed to the document to customize the  **Quick Access** toolbar or the Ribbon. Read/write.
 
 
 ## Syntax
 
- _expression_. `UserCustomUI`
+_expression_. `UserCustomUI`
 
  _expression_ A variable that represents a '[Document](Visio.Document.md)' object.
 

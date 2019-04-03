@@ -48,7 +48,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 ## See also
 
 - [PickerResult object members](overview/Library-Reference/pickerresult-members-office.md)
-- [Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 

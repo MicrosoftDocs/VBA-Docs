@@ -21,7 +21,7 @@ Creates a WordArt object. Returns a  **[Shape](Excel.Shape.md)** object that rep
 
 _expression_. `AddTextEffect`( `_PresetTextEffect_` , `_Text_` , `_FontName_` , `_FontSize_` , `_FontBold_` , `_FontItalic_` , `_Left_` , `_Top_` )
 
-_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -51,7 +51,7 @@ When you add WordArt to a document, the height and width of the WordArt are auto
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  `myDocument`.
+This example adds WordArt that contains the text "Test" to  _myDocument_.
 
 
 ```vb

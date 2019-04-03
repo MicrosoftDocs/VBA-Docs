@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Border Property (PowerPoint)
+title: HiLoLines.Border property (PowerPoint)
 keywords: vbapp10.chm706003
 f1_keywords:
 - vbapp10.chm706003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# HiLoLines.Border Property (PowerPoint)
+# HiLoLines.Border property (PowerPoint)
 
 Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBorder.md)**.
 
 
 ## Syntax
 
- _expression_. `Border`
+_expression_. `Border`
 
  _expression_ A variable that represents a '[HiLoLines](PowerPoint.HiLoLines.md)' object.
 

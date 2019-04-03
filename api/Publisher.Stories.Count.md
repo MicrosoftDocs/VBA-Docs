@@ -1,5 +1,5 @@
 ---
-title: Stories.Count Property (Publisher)
+title: Stories.Count property (Publisher)
 keywords: vbapb10.chm5701635
 f1_keywords:
 - vbapb10.chm5701635
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Stories.Count Property (Publisher)
+# Stories.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **Stories** object.
 

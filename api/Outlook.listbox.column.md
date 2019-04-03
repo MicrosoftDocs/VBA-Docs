@@ -14,7 +14,7 @@ Returns or sets a  **Variant** that represents a single value, a column of value
 
 ## Syntax
 
-_expression_. **Column**(**_pvargColumn_**,  **_pvargIndex_**)
+_expression_.**Column**(**_pvargColumn_**,  **_pvargIndex_**)
 
 _expression_ A variable that represents a  **ListBox** object.
 

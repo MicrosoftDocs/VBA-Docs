@@ -1,5 +1,5 @@
 ---
-title: Axis.HasMinorGridlines Property (PowerPoint)
+title: Axis.HasMinorGridlines property (PowerPoint)
 keywords: vbapp10.chm682009
 f1_keywords:
 - vbapp10.chm682009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.HasMinorGridlines Property (PowerPoint)
+# Axis.HasMinorGridlines property (PowerPoint)
 
  **True** if the axis has minor gridlines. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasMinorGridlines`
+_expression_. `HasMinorGridlines`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

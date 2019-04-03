@@ -1,5 +1,5 @@
 ---
-title: ContactsModule.NavigationModuleType Property (Outlook)
+title: ContactsModule.NavigationModuleType property (Outlook)
 keywords: vbaol11.chm3244
 f1_keywords:
 - vbaol11.chm3244
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactsModule.NavigationModuleType Property (Outlook)
+# ContactsModule.NavigationModuleType property (Outlook)
 
 Returns an  **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** cons
 
 _expression_. `NavigationModuleType`
 
- _expression_ An expression that returns a [ContactsModule](./Outlook.ContactsModule.md) object.
+ _expression_ An expression that returns a [ContactsModule](Outlook.ContactsModule.md) object.
 
 
 ## Remarks

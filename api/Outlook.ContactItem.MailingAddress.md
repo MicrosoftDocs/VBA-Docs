@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MailingAddress Property (Outlook)
+title: ContactItem.MailingAddress property (Outlook)
 keywords: vbaol11.chm1034
 f1_keywords:
 - vbaol11.chm1034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MailingAddress Property (Outlook)
+# ContactItem.MailingAddress property (Outlook)
 
 Returns or sets a  **String** representing the full, unparsed selected mailing address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the full, unparsed selected mailing a
 
 _expression_. `MailingAddress`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

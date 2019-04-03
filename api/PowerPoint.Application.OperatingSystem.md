@@ -1,5 +1,5 @@
 ---
-title: Application.OperatingSystem Property (PowerPoint)
+title: Application.OperatingSystem property (PowerPoint)
 keywords: vbapp10.chm502016
 f1_keywords:
 - vbapp10.chm502016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OperatingSystem Property (PowerPoint)
+# Application.OperatingSystem property (PowerPoint)
 
 Returns the name of the operating system. Read-only.
 
 
 ## Syntax
 
- _expression_. `OperatingSystem`
+_expression_. `OperatingSystem`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

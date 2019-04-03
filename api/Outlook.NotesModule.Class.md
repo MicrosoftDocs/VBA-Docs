@@ -1,5 +1,5 @@
 ---
-title: NotesModule.Class Property (Outlook)
+title: NotesModule.Class property (Outlook)
 keywords: vbaol11.chm2873
 f1_keywords:
 - vbaol11.chm2873
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule.Class Property (Outlook)
+# NotesModule.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [NotesModule](./Outlook.NotesModule.md) object.
+_expression_ A variable that represents a [NotesModule](Outlook.NotesModule.md) object.
 
 
 ## Remarks

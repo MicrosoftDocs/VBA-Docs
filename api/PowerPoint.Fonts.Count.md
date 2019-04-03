@@ -1,5 +1,5 @@
 ---
-title: Fonts.Count Property (PowerPoint)
+title: Fonts.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Fonts.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Count Property (PowerPoint)
+# Fonts.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

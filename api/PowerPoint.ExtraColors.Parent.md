@@ -1,5 +1,5 @@
 ---
-title: ExtraColors.Parent Property (PowerPoint)
+title: ExtraColors.Parent property (PowerPoint)
 keywords: vbapp10.chm529002
 f1_keywords:
 - vbapp10.chm529002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExtraColors.Parent Property (PowerPoint)
+# ExtraColors.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DisplaySharedWorkspace Method (Project)
+title: Application.DisplaySharedWorkspace method (Project)
 keywords: vbapj.chm2363
 f1_keywords:
 - vbapj.chm2363
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplaySharedWorkspace Method (Project)
+# Application.DisplaySharedWorkspace method (Project)
 
 Displays the  **Shared Workspace** pane. Available only in Project Professional.
 
 
 ## Syntax
 
- _expression_. `DisplaySharedWorkspace`
+_expression_. `DisplaySharedWorkspace`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

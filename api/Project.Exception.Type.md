@@ -1,5 +1,5 @@
 ---
-title: Exception.Type Property (Project)
+title: Exception.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.Type Property (Project)
+# Exception.Type property (Project)
 
 Gets or sets the type of calendar exception. Read/write  **PjExceptionType**.
 

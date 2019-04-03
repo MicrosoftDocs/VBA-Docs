@@ -1,5 +1,5 @@
 ---
-title: Windows.KeyDown Event (Visio)
+title: Windows.KeyDown event (Visio)
 keywords: vis_sdr.chm11751325
 f1_keywords:
 - vis_sdr.chm11751325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.KeyDown Event (Visio)
+# Windows.KeyDown event (Visio)
 
 Occurs when a keyboard key is pressed.
 

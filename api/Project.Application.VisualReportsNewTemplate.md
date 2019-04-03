@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReportsNewTemplate Method (Project)
+title: Application.VisualReportsNewTemplate method (Project)
 keywords: vbapj.chm2140
 f1_keywords:
 - vbapj.chm2140
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.VisualReportsNewTemplate Method (Project)
+# Application.VisualReportsNewTemplate method (Project)
 
 Creates a Visual Reports template for Microsoft Excel or Microsoft Visio.
 
 
 ## Syntax
 
- _expression_. `VisualReportsNewTemplate`( `_PjVisualReportsTemplateType_`, `_PjVisualReportsCubeType_`, `_ReportAlLFields_`, `_PjVisualReportsDataLevel_` )
+_expression_. `VisualReportsNewTemplate`( `_PjVisualReportsTemplateType_`, `_PjVisualReportsCubeType_`, `_ReportAlLFields_`, `_PjVisualReportsDataLevel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Write Event (Outlook)
+title: TaskRequestDeclineItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Write Event (Outlook)
+# TaskRequestDeclineItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.TaskRequestDeclineItem.Save.md)** or **[SaveAs](Outlook.TaskRequestDeclineItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 _expression_. `Write`( `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

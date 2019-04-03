@@ -1,5 +1,5 @@
 ---
-title: Document.DiagramServicesEnabled Property (Visio)
+title: Document.DiagramServicesEnabled property (Visio)
 keywords: vis_sdr.chm10562435
 f1_keywords:
 - vis_sdr.chm10562435
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.DiagramServicesEnabled Property (Visio)
+# Document.DiagramServicesEnabled property (Visio)
 
 Determines which, if any, diagram services are enabled for the document. Read/write.
 
 
 ## Syntax
 
- _expression_. `DiagramServicesEnabled`
+_expression_. `DiagramServicesEnabled`
 
  _expression_ An expression that returns a '[Document](Visio.Document.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: MenuItem.TypeSpecific1 Property (Visio)
+title: MenuItem.TypeSpecific1 property (Visio)
 keywords: vis_sdr.chm12914600
 f1_keywords:
 - vis_sdr.chm12914600
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.TypeSpecific1 Property (Visio)
+# MenuItem.TypeSpecific1 property (Visio)
 
 Gets or sets the type of a menu item. Read/write.
 
 
 ## Syntax
 
- _expression_. `TypeSpecific1`
+_expression_. `TypeSpecific1`
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 

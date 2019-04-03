@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentDirection Property (Publisher)
+title: Document.DocumentDirection property (Publisher)
 keywords: vbapb10.chm196648
 f1_keywords:
 - vbapb10.chm196648
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.DocumentDirection Property (Publisher)
+# Document.DocumentDirection property (Publisher)
 
 Returns or sets a  **PbDirectionType** constant that indicates whether text in the document is read from left to right or from right to left. Read/write.
 
 
 ## Syntax
 
- _expression_. **DocumentDirection**
+ _expression_.**DocumentDirection**
 
  _expression_ A variable that represents a  **Document** object.
 

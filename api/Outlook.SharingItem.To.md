@@ -1,5 +1,5 @@
 ---
-title: SharingItem.To Property (Outlook)
+title: SharingItem.To property (Outlook)
 keywords: vbaol11.chm665
 f1_keywords:
 - vbaol11.chm665
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.To Property (Outlook)
+# SharingItem.To property (Outlook)
 
 Returns or sets a semicolon-delimited  **String** list of display names for the **To** recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a semicolon-delimited  **String** list of display names for the 
 
 _expression_. `To`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

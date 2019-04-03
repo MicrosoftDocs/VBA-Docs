@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Save Method (Outlook)
+title: SharingItem.Save method (Outlook)
 keywords: vbaol11.chm629
 f1_keywords:
 - vbaol11.chm629
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Save Method (Outlook)
+# SharingItem.Save method (Outlook)
 
 Saves the  **[SharingItem](Outlook.SharingItem.md)** to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 
@@ -21,7 +21,7 @@ Saves the  **[SharingItem](Outlook.SharingItem.md)** to the current folder or, i
 
 _expression_. `Save`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: PbSubmitDataFormatType Enumeration (Publisher)
+title: PbSubmitDataFormatType enumeration (Publisher)
 keywords: vbapb10.chm65592
 f1_keywords:
 - vbapb10.chm65592
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbSubmitDataFormatType Enumeration (Publisher)
+# PbSubmitDataFormatType enumeration (Publisher)
 
 Represents the format to use when saving Web form data to a file. 
 

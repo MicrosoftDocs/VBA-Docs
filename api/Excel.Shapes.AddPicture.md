@@ -19,9 +19,9 @@ Creates a picture from an existing file. Returns a  **Shape** object that repres
 
 ## Syntax
 
-_expression_. `AddPicture`( `_Filename_` , `_LinkToFile_` , `_SaveWithDocument_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_. `AddPicture`( `_FileName_` , `_LinkToFile_` , `_SaveWithDocument_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
-_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The file from which the OLE object is to be created.|
+| _FileName_|Required| **String**|The file from which the OLE object is to be created.|
 | _LinkToFile_|Required| **[MsoTriState](Office.MsoTriState.md)**| The file to link to.|
 | _SaveWithDocument_|Required| **[MsoTriState](Office.MsoTriState.md)**|To save the picture with the document.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the picture relative to the upper-left corner of the document.|
@@ -66,7 +66,7 @@ Shape
 
 ## Example
 
-This example adds a picture created from the file Music.bmp to  `myDocument`. The inserted picture is linked to the file from which it was created and is saved with  `myDocument`.
+This example adds a picture created from the file Music.bmp to  _myDocument_. The inserted picture is linked to the file from which it was created and is saved with  _myDocument_.
 
 
 ```vb

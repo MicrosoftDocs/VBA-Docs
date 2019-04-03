@@ -1,5 +1,5 @@
 ---
-title: MenuSet.Height Property (Visio)
+title: MenuSet.Height property (Visio)
 keywords: vis_sdr.chm13313615
 f1_keywords:
 - vis_sdr.chm13313615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSet.Height Property (Visio)
+# MenuSet.Height property (Visio)
 
 Gets or sets the height of a menu set. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: OlRuleConditionType Enumeration (Outlook)
+title: OlRuleConditionType enumeration (Outlook)
 keywords: vbaol11.chm3116
 f1_keywords:
 - vbaol11.chm3116
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlRuleConditionType Enumeration (Outlook)
+# OlRuleConditionType enumeration (Outlook)
 
 Specifies the type of rule condition or exception condition of a rule.
 

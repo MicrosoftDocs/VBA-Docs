@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.PrintOut Method (Outlook)
+title: TaskRequestAcceptItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1805
 f1_keywords:
 - vbaol11.chm1805
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.PrintOut Method (Outlook)
+# TaskRequestAcceptItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 
@@ -21,7 +21,7 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
 _expression_. `PrintOut`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## See also

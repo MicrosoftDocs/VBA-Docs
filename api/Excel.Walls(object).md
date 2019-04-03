@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Walls
 ms.assetid: 9c6f0c5b-dbb8-7d71-44b7-29987e750cd3
-ms.date: 06/08/2017
+ms.date: 04/03/2019
 localization_priority: Normal
 ---
 
@@ -19,8 +19,9 @@ Represents the walls of a 3-D chart. This object isn't a collection. There's no 
 
 ## Example
 
-Use the  **[Walls](Excel.Chart.Walls.md)** property to return the **Walls** object. The following example sets the pattern on the walls for embedded chart one on Sheet1. If the chart isn't a 3-D chart, this example will fail.
+Use the **[Walls](Excel.Chart.Walls.md)** property of the **Chart** object to return the **Walls** object. 
 
+The following example sets the pattern on the walls for embedded chart one on Sheet1. If the chart isn't a 3-D chart, this example fails.
 
 ```vb
 Worksheets("Sheet1").ChartObjects(1).Chart _ 
@@ -46,6 +47,6 @@ Worksheets("Sheet1").ChartObjects(1).Chart _
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

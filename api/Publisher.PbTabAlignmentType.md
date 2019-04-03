@@ -1,5 +1,5 @@
 ---
-title: PbTabAlignmentType Enumeration (Publisher)
+title: PbTabAlignmentType enumeration (Publisher)
 keywords: vbapb10.chm65557
 f1_keywords:
 - vbapb10.chm65557
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbTabAlignmentType Enumeration (Publisher)
+# PbTabAlignmentType enumeration (Publisher)
 
 Represents the alignment for the specified tab stop.
 

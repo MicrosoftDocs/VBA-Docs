@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `PrintPreview`
+_expression_. `PrintPreview`
 
  _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 

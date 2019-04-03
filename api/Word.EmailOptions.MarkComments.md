@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `MarkComments`
+_expression_. `MarkComments`
 
  _expression_ An expression that returns an '[EmailOptions](Word.EmailOptions.md)' object.
 

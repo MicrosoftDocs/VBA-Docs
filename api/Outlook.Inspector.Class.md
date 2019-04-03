@@ -1,5 +1,5 @@
 ---
-title: Inspector.Class Property (Outlook)
+title: Inspector.Class property (Outlook)
 keywords: vbaol11.chm2958
 f1_keywords:
 - vbaol11.chm2958
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Class Property (Outlook)
+# Inspector.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## See also

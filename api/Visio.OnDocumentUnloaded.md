@@ -16,9 +16,9 @@ Occurs after the current document in Microsoft Visio Viewer is unloaded.
 
 ## Syntax
 
- _expression_. **OnDocumentUnloaded**
+ _expression_.**OnDocumentUnloaded**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Remarks

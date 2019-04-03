@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Application Property (Outlook)
+title: DistListItem.Application property (Outlook)
 keywords: vbaol11.chm1110
 f1_keywords:
 - vbaol11.chm1110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Application Property (Outlook)
+# DistListItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also

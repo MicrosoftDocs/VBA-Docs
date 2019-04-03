@@ -1,5 +1,5 @@
 ---
-title: TaskItem.CreationTime Property (Outlook)
+title: TaskItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1694
 f1_keywords:
 - vbaol11.chm1694
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.CreationTime Property (Outlook)
+# TaskItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the creation time for the Outlook item. Read-only
 
 _expression_. `CreationTime`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

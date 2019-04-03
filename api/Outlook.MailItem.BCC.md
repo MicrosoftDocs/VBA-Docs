@@ -1,5 +1,5 @@
 ---
-title: MailItem.BCC Property (Outlook)
+title: MailItem.BCC property (Outlook)
 keywords: vbaol11.chm1330
 f1_keywords:
 - vbaol11.chm1330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.BCC Property (Outlook)
+# MailItem.BCC property (Outlook)
 
 Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[MailItem](Outlook.MailItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the display list of blind carbon copy (BCC) n
 
 _expression_. `BCC`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ItemProperties Property (Outlook)
+title: ContactItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1081
 f1_keywords:
 - vbaol11.chm1081
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ItemProperties Property (Outlook)
+# ContactItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 _expression_. `ItemProperties`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

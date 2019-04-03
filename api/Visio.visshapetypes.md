@@ -1,5 +1,5 @@
 ---
-title: VisShapeTypes Enumeration (Visio)
+title: VisShapeTypes enumeration (Visio)
 keywords: vis_sdr.chm70010
 f1_keywords:
 - vis_sdr.chm70010
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisShapeTypes Enumeration (Visio)
+# VisShapeTypes enumeration (Visio)
 
 Shape type codes returned by the  **Shape.Type** and **Shape.ForeignType** properties.
 

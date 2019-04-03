@@ -1,5 +1,5 @@
 ---
-title: Application.AddIns Property (PowerPoint)
+title: Application.AddIns property (PowerPoint)
 keywords: vbapp10.chm502019
 f1_keywords:
 - vbapp10.chm502019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AddIns Property (PowerPoint)
+# Application.AddIns property (PowerPoint)
 
 Returns the program-specific  **AddIns** collection that represents all the add-ins listed in the **Add-Ins** dialog box (click the **Office** button, click **PowerPoint Options**, click  **Add-Ins**, click  **PowerPoint Add-Ins** on the **Manage** list). Read-only.
 
 
 ## Syntax
 
- _expression_. `AddIns`
+_expression_. `AddIns`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

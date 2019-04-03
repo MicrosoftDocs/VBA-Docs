@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CustomToolbarsFile Property (Visio)
+title: InvisibleApp.CustomToolbarsFile property (Visio)
 keywords: vis_sdr.chm17513360
 f1_keywords:
 - vis_sdr.chm17513360
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CustomToolbarsFile Property (Visio)
+# InvisibleApp.CustomToolbarsFile property (Visio)
 
 Returns or sets the name of the file that defines custom toolbars and status bars for an  **InvisibleApp** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `CustomToolbarsFile`
+_expression_. `CustomToolbarsFile`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

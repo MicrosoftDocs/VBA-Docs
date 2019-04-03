@@ -16,9 +16,9 @@ Gets or sets the color of the layer at the specified index position in the curre
 
 ## Syntax
 
- _expression_. **LayerColor**(**_LayerIndex_**)
+ _expression_.**LayerColor**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

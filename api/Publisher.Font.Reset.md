@@ -1,5 +1,5 @@
 ---
-title: Font.Reset Method (Publisher)
+title: Font.Reset method (Publisher)
 keywords: vbapb10.chm5373993
 f1_keywords:
 - vbapb10.chm5373993
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Reset Method (Publisher)
+# Font.Reset method (Publisher)
 
 Removes manual paragraph or text formatting from the specified object and leaves only the formatting specified by the current text style.
 
 
 ## Syntax
 
- _expression_. **Reset**
+ _expression_.**Reset**
 
  _expression_ A variable that represents a  **Font** object.
 

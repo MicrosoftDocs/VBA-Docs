@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.Application Property (Visio)
+title: ValidationRule.Application property (Visio)
 keywords: vis_sdr.chm18413090
 f1_keywords:
 - vis_sdr.chm18413090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.Application Property (Visio)
+# ValidationRule.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

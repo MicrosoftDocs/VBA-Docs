@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Application Property (Outlook)
+title: AutoFormatRules.Application property (Outlook)
 keywords: vbaol11.chm2713
 f1_keywords:
 - vbaol11.chm2713
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Application Property (Outlook)
+# AutoFormatRules.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
+_expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatRules.md) object.
 
 
 ## See also

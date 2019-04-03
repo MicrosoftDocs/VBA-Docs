@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ExtrusionColorType Property (Publisher)
+title: ThreeDFormat.ExtrusionColorType property (Publisher)
 keywords: vbapb10.chm3801346
 f1_keywords:
 - vbapb10.chm3801346
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ExtrusionColorType Property (Publisher)
+# ThreeDFormat.ExtrusionColorType property (Publisher)
 
 Returns or sets an  **MsoExtrusionColorType** constant indicating whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Read/write.
 
 
 ## Syntax
 
- _expression_. **ExtrusionColorType**
+ _expression_.**ExtrusionColorType**
 
  _expression_ A variable that represents an  **ThreeDFormat** object.
 
@@ -31,7 +31,7 @@ MsoExtrusionColorType
 
 ## Remarks
 
-The  **ExtrusionColorType** property value can be one of the ** [MsoExtrusionColorType](Office.MsoExtrusionColorType.md)** constants declared in the Microsoft Office type library.
+The  **ExtrusionColorType** property value can be one of the **[MsoExtrusionColorType](Office.MsoExtrusionColorType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

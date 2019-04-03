@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutoLength Property (Publisher)
+title: CalloutFormat.AutoLength property (Publisher)
 keywords: vbapb10.chm2490627
 f1_keywords:
 - vbapb10.chm2490627
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.AutoLength Property (Publisher)
+# CalloutFormat.AutoLength property (Publisher)
 
 Returns an  **MsoTriState**constant indicating whether the first segment of the callout line is scaled when the callout is moved. Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Read-only.
 
 
 ## Syntax
 
- _expression_. **AutoLength**
+ _expression_.**AutoLength**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The  **AutoLength** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **AutoLength** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 Use the  [AutomaticLength](Publisher.CalloutFormat.AutomaticLength.md)method to set this property to  **msoTrue**, and use the  [CustomLength](Publisher.CalloutFormat.CustomLength.md)method to set this property to  **msoFalse**.
 

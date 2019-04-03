@@ -1,5 +1,5 @@
 ---
-title: Axis Object (PowerPoint)
+title: Axis object (PowerPoint)
 keywords: vbapp10.chm682000
 f1_keywords:
 - vbapp10.chm682000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis Object (PowerPoint)
+# Axis object (PowerPoint)
 
 Represents a single axis in a chart.
 
@@ -21,7 +21,7 @@ Represents a single axis in a chart.
 
 The  **Axis** object is a member of the **[Axes](./PowerPoint.Axes.md)** collection.
 
-Use  **Axes** ( _Type_, _AxisGroup_ ) where _Type_ is the axis type and _AxisGroup_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[xlAxisType](./PowerPoint.XlAxisType.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[xlAxisGroup](./PowerPoint.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](./PowerPoint.Chart.Axes.md)** method.
+Use  **Axes** ( _Type_, _AxisGroup_ ) where _Type_ is the axis type and _AxisGroup_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](./PowerPoint.XlAxisType.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](./PowerPoint.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](./PowerPoint.Chart.Axes.md)** method.
 
 
 ## Example
@@ -122,6 +122,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

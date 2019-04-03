@@ -1,5 +1,5 @@
 ---
-title: CategoryRuleCondition.Enabled Property (Outlook)
+title: CategoryRuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2444
 f1_keywords:
 - vbaol11.chm2444
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryRuleCondition.Enabled Property (Outlook)
+# CategoryRuleCondition.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule condition is enabled. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that determines if the rule condition is enabled.
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents a [CategoryRuleCondition](./Outlook.CategoryRuleCondition.md) object.
+_expression_ A variable that represents a [CategoryRuleCondition](Outlook.CategoryRuleCondition.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertAfter Method (Publisher)
+title: TextRange.InsertAfter method (Publisher)
 keywords: vbapb10.chm5308448
 f1_keywords:
 - vbapb10.chm5308448
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.InsertAfter Method (Publisher)
+# TextRange.InsertAfter method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents text appended to the end of a text range.
 
 
 ## Syntax
 
- _expression_. **InsertAfter**(**_NewText_**)
+ _expression_.**InsertAfter**(**_NewText_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

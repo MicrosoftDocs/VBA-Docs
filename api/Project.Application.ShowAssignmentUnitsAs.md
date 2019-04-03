@@ -1,5 +1,5 @@
 ---
-title: Application.ShowAssignmentUnitsAs Property (Project)
+title: Application.ShowAssignmentUnitsAs property (Project)
 keywords: vbapj.chm132620
 f1_keywords:
 - vbapj.chm132620
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowAssignmentUnitsAs Property (Project)
+# Application.ShowAssignmentUnitsAs property (Project)
 
 Gets or sets the way assignment units display. Read/write  **PjAssignmentUnits**.
 
 
 ## Syntax
 
- _expression_. `ShowAssignmentUnitsAs`
+_expression_. `ShowAssignmentUnitsAs`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

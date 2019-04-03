@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineSpacing Property (Publisher)
+title: ParagraphFormat.LineSpacing property (Publisher)
 keywords: vbapb10.chm5439504
 f1_keywords:
 - vbapb10.chm5439504
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LineSpacing Property (Publisher)
+# ParagraphFormat.LineSpacing property (Publisher)
 
 Returns or sets a  **Variant** that represents the line spacing (in number of lines) for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **LineSpacing**
+ _expression_.**LineSpacing**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

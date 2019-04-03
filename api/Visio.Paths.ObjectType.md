@@ -1,5 +1,5 @@
 ---
-title: Paths.ObjectType Property (Visio)
+title: Paths.ObjectType property (Visio)
 keywords: vis_sdr.chm15313960
 f1_keywords:
 - vis_sdr.chm15313960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Paths.ObjectType Property (Visio)
+# Paths.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Paths](./Visio.Paths.md) object.
 

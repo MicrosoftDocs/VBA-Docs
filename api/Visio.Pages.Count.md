@@ -1,5 +1,5 @@
 ---
-title: Pages.Count Property (Visio)
+title: Pages.Count property (Visio)
 keywords: vis_sdr.chm11013330
 f1_keywords:
 - vis_sdr.chm11013330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Count Property (Visio)
+# Pages.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

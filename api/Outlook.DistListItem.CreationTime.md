@@ -1,5 +1,5 @@
 ---
-title: DistListItem.CreationTime Property (Outlook)
+title: DistListItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1122
 f1_keywords:
 - vbaol11.chm1122
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.CreationTime Property (Outlook)
+# DistListItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the creation time for the Outlook item. Read-only
 
 _expression_. `CreationTime`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

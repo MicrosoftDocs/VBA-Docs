@@ -1,5 +1,5 @@
 ---
-title: Task.HyperlinkScreenTip Property (Project)
+title: Task.HyperlinkScreenTip property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.HyperlinkScreenTip
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.HyperlinkScreenTip Property (Project)
+# Task.HyperlinkScreenTip property (Project)
 
 Gets or sets a ScreenTip for the hyperlink. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkScreenTip`
+_expression_. `HyperlinkScreenTip`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

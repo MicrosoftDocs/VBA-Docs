@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Body Property (Outlook)
+title: DistListItem.Body property (Outlook)
 keywords: vbaol11.chm1117
 f1_keywords:
 - vbaol11.chm1117
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Body Property (Outlook)
+# DistListItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 
 _expression_. `Body`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also

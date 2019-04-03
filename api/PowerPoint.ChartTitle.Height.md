@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Height Property (PowerPoint)
+title: ChartTitle.Height property (PowerPoint)
 keywords: vbapp10.chm694022
 f1_keywords:
 - vbapp10.chm694022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Height Property (PowerPoint)
+# ChartTitle.Height property (PowerPoint)
 
 Returns or sets a  **Double** value that represents the height, in points, of the object. Read-only.
 

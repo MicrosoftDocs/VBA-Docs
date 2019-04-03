@@ -1,5 +1,5 @@
 ---
-title: MsoClickState Enumeration (PowerPoint)
+title: MsoClickState enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoClickState
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoClickState Enumeration (PowerPoint)
+# MsoClickState enumeration (PowerPoint)
 
 Constants that specify the point in a slide show to navigate to, relative to the animations included in the show, passed to the  **GotoClick** method of the **SlideShowView** object, and returned by the **GetClickIndex** method of that object.
 

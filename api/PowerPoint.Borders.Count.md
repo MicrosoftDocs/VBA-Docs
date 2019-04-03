@@ -1,5 +1,5 @@
 ---
-title: Borders.Count Property (PowerPoint)
+title: Borders.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Borders.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Borders.Count Property (PowerPoint)
+# Borders.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

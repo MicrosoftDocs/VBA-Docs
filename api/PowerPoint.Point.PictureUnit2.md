@@ -1,5 +1,5 @@
 ---
-title: Point.PictureUnit2 Property (PowerPoint)
+title: Point.PictureUnit2 property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.PictureUnit2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Point.PictureUnit2 Property (PowerPoint)
+# Point.PictureUnit2 property (PowerPoint)
 
 Returns or sets the unit for each picture on the chart if the  **[PictureType](PowerPoint.Point.PictureType.md)** property is set to **xlStackScale** (if not, this property is ignored). Read/write **Double**.
 
 
 ## Syntax
 
- _expression_. `PictureUnit2`
+_expression_. `PictureUnit2`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

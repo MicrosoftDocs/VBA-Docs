@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Read Event (Outlook)
+title: TaskRequestItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Read
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Read Event (Outlook)
+# TaskRequestItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 
 
 ## Syntax
 
- _expression_. `Read`
+_expression_. `Read`
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Remarks

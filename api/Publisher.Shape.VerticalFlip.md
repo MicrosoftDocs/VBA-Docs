@@ -1,5 +1,5 @@
 ---
-title: Shape.VerticalFlip Property (Publisher)
+title: Shape.VerticalFlip property (Publisher)
 keywords: vbapb10.chm2228308
 f1_keywords:
 - vbapb10.chm2228308
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.VerticalFlip Property (Publisher)
+# Shape.VerticalFlip property (Publisher)
 
 Returns  **msoTrue** if the specified shape has been flipped around its vertical axis. Read-only.
 
 
 ## Syntax
 
- _expression_. **VerticalFlip**
+ _expression_.**VerticalFlip**
 
  _expression_ A variable that represents a  **Shape** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Plate Object (Publisher)
+title: Plate object (Publisher)
 keywords: vbapb10.chm2949119
 f1_keywords:
 - vbapb10.chm2949119
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plate Object (Publisher)
+# Plate object (Publisher)
 
 Represents a single printer's plate. The  **Plate** object is a member of the **[Plates](Publisher.Plates.md)** collection.
  

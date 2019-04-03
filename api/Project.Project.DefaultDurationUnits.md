@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultDurationUnits Property (Project)
+title: Project.DefaultDurationUnits property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DefaultDurationUnits
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultDurationUnits Property (Project)
+# Project.DefaultDurationUnits property (Project)
 
 Gets or sets the default duration units. Read/write  **PjUnit**.
 
 
 ## Syntax
 
- _expression_. `DefaultDurationUnits`
+_expression_. `DefaultDurationUnits`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

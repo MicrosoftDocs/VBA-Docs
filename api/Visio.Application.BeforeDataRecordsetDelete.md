@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeDataRecordsetDelete Event (Visio)
+title: Application.BeforeDataRecordsetDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeDataRecordsetDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeDataRecordsetDelete Event (Visio)
+# Application.BeforeDataRecordsetDelete event (Visio)
 
 Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.FullName Property (Outlook)
+title: ContactItem.FullName property (Outlook)
 keywords: vbaol11.chm1006
 f1_keywords:
 - vbaol11.chm1006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.FullName Property (Outlook)
+# ContactItem.FullName property (Outlook)
 
 Returns or sets a  **String** specifying the whole, unparsed full name for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** specifying the whole, unparsed full name for the c
 
 _expression_.**FullName**
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

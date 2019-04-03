@@ -1,5 +1,5 @@
 ---
-title: TextFrame.MarginTop Property (Publisher)
+title: TextFrame.MarginTop property (Publisher)
 keywords: vbapb10.chm3866645
 f1_keywords:
 - vbapb10.chm3866645
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.MarginTop Property (Publisher)
+# TextFrame.MarginTop property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the top edge of a cell, text frame, or page. Read/write.
 
 
 ## Syntax
 
- _expression_. **MarginTop**
+ _expression_.**MarginTop**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

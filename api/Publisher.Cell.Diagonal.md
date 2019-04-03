@@ -1,5 +1,5 @@
 ---
-title: Cell.Diagonal Property (Publisher)
+title: Cell.Diagonal property (Publisher)
 keywords: vbapb10.chm5111816
 f1_keywords:
 - vbapb10.chm5111816
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.Diagonal Property (Publisher)
+# Cell.Diagonal property (Publisher)
 
 Sets or returns a  **PbCellDiagonalType** constant that represents a cell that is diagonally split. Read/write.
 
 
 ## Syntax
 
- _expression_. **Diagonal**
+ _expression_.**Diagonal**
 
  _expression_ A variable that represents a  **Cell** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Flip Method (Project)
+title: Shape.Flip method (Project)
 ms.prod: project-server
 ms.assetid: 7be8741c-d476-39ab-6aaf-2022417824b9
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shape.Flip Method (Project)
+# Shape.Flip method (Project)
 Flips the shape around its horizontal or vertical axis.
 
 ## Syntax
 
- _expression_. `Flip` _(FlipCmd)_
+_expression_. `Flip` _(FlipCmd)_
 
  _expression_ A variable that represents a 'Shape' object.
 

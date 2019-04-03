@@ -1,5 +1,5 @@
 ---
-title: Window.ScrollViewTo Method (Visio)
+title: Window.ScrollViewTo method (Visio)
 keywords: vis_sdr.chm11616525
 f1_keywords:
 - vis_sdr.chm11616525
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ScrollViewTo Method (Visio)
+# Window.ScrollViewTo method (Visio)
 
 Scrolls a window to a particular page coordinate.
 
 
 ## Syntax
 
- _expression_. `ScrollViewTo`( `_x_` , `_y_` )
+_expression_. `ScrollViewTo`( `_x_` , `_y_` )
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

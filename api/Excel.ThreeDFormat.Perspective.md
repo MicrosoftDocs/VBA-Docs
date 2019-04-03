@@ -21,7 +21,7 @@ Returns or sets an  **[MsoTriState](Office.MsoTriState.md)** value that determin
 
 _expression_. `Perspective`
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

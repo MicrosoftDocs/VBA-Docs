@@ -1,5 +1,5 @@
 ---
-title: Task.ResourceNames Property (Project)
+title: Task.ResourceNames property (Project)
 keywords: vbapj.chm132571
 f1_keywords:
 - vbapj.chm132571
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.ResourceNames Property (Project)
+# Task.ResourceNames property (Project)
 
 Gets or sets the names of the resources assigned to a task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ResourceNames`
+_expression_. `ResourceNames`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

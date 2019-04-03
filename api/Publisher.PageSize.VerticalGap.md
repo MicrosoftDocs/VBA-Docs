@@ -1,5 +1,5 @@
 ---
-title: PageSize.VerticalGap Property (Publisher)
+title: PageSize.VerticalGap property (Publisher)
 keywords: vbapb10.chm8847369
 f1_keywords:
 - vbapb10.chm8847369
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSize.VerticalGap Property (Publisher)
+# PageSize.VerticalGap property (Publisher)
 
 Returns a  **Variant** that represents the distance in points between the bottom edge of one publication page and top edge of the publication page immediately below it for the blank page size represented by the parent **PageSize** object. This property applies only when multiple pages are printed on a single sheet of printer paper. Read-only.
 
 
 ## Syntax
 
- _expression_. **VerticalGap**
+ _expression_.**VerticalGap**
 
  _expression_ A variable that represents a  **PageSize** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.DeleteRow Method (Visio)
+title: Shape.DeleteRow method (Visio)
 keywords: vis_sdr.chm11216170
 f1_keywords:
 - vis_sdr.chm11216170
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.DeleteRow Method (Visio)
+# Shape.DeleteRow method (Visio)
 
 Deletes a row from a section in a ShapeSheet spreadsheet.
 
 
 ## Syntax
 
- _expression_. `DeleteRow`( `_Section_` , `_Row_` )
+_expression_. `DeleteRow`( `_Section_` , `_Row_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Slide Property (PowerPoint)
+title: SlideShowView.Slide property (PowerPoint)
 keywords: vbapp10.chm513004
 f1_keywords:
 - vbapp10.chm513004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.Slide Property (PowerPoint)
+# SlideShowView.Slide property (PowerPoint)
 
 Returns a  **[Slide](PowerPoint.Slide.md)** object that represents the slide that's currently displayed in the specified slide show window view. Read-only.
 
 
 ## Syntax
 
- _expression_. `Slide`
+_expression_. `Slide`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

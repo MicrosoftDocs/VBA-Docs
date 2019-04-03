@@ -1,5 +1,5 @@
 ---
-title: Shape.WebListBox Property (Publisher)
+title: Shape.WebListBox property (Publisher)
 keywords: vbapb10.chm2228341
 f1_keywords:
 - vbapb10.chm2228341
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.WebListBox Property (Publisher)
+# Shape.WebListBox property (Publisher)
 
 Returns the  **[WebListBox](Publisher.WebListBox.md)** object associated with the specified shape.
 
 
 ## Syntax
 
- _expression_. **WebListBox**
+ _expression_.**WebListBox**
 
  _expression_ A variable that represents a  **Shape** object.
 

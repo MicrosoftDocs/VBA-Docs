@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.ReminderSet Property (Outlook)
+title: MeetingItem.ReminderSet property (Outlook)
 keywords: vbaol11.chm1446
 f1_keywords:
 - vbaol11.chm1446
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.ReminderSet Property (Outlook)
+# MeetingItem.ReminderSet property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if a reminder has been set for this item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if a reminder has been set
 
 _expression_. `ReminderSet`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

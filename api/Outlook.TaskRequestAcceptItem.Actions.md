@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Actions Property (Outlook)
+title: TaskRequestAcceptItem.Actions property (Outlook)
 keywords: vbaol11.chm1774
 f1_keywords:
 - vbaol11.chm1774
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Actions Property (Outlook)
+# TaskRequestAcceptItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## See also

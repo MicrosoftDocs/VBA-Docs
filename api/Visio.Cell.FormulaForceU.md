@@ -1,5 +1,5 @@
 ---
-title: Cell.FormulaForceU Property (Visio)
+title: Cell.FormulaForceU property (Visio)
 keywords: vis_sdr.chm10151970
 f1_keywords:
 - vis_sdr.chm10151970
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.FormulaForceU Property (Visio)
+# Cell.FormulaForceU property (Visio)
 
 Sets the universal syntax formula in a  **Cell** object, even if the formula is protected with a GUARD function. Read/write.
 
 
 ## Syntax
 
- _expression_. `FormulaForceU`
+_expression_. `FormulaForceU`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

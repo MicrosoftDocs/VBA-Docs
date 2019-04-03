@@ -1,5 +1,5 @@
 ---
-title: Chart.HasDataTable Property (Project)
+title: Chart.HasDataTable property (Project)
 keywords: vbapj.chm131618
 f1_keywords:
 - vbapj.chm131618
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.HasDataTable Property (Project)
+# Chart.HasDataTable property (Project)
  **True** if the chart has a data table. Read/write **Boolean**.
 
 ## Syntax
 
- _expression_. `HasDataTable`
+_expression_. `HasDataTable`
 
  _expression_ A variable that represents a 'Chart' object.
 

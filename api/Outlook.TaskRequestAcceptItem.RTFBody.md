@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.RTFBody Property (Outlook)
+title: TaskRequestAcceptItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3532
 f1_keywords:
 - vbaol11.chm3532
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.RTFBody Property (Outlook)
+# TaskRequestAcceptItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 

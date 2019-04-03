@@ -1,5 +1,5 @@
 ---
-title: Legend.Shadow Property (PowerPoint)
+title: Legend.Shadow property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Shadow
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Legend.Shadow Property (PowerPoint)
+# Legend.Shadow property (PowerPoint)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_. `Shadow`
 
  _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 

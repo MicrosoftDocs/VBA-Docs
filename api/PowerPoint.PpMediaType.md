@@ -1,5 +1,5 @@
 ---
-title: PpMediaType Enumeration (PowerPoint)
+title: PpMediaType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpMediaType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpMediaType Enumeration (PowerPoint)
+# PpMediaType enumeration (PowerPoint)
 
 Indicates the OLE media type.
 

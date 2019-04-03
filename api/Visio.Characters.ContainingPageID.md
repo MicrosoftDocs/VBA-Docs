@@ -1,5 +1,5 @@
 ---
-title: Characters.ContainingPageID Property (Visio)
+title: Characters.ContainingPageID property (Visio)
 keywords: vis_sdr.chm10251930
 f1_keywords:
 - vis_sdr.chm10251930
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.ContainingPageID Property (Visio)
+# Characters.ContainingPageID property (Visio)
 
 Returns the ID of the page that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingPageID`
+_expression_. `ContainingPageID`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

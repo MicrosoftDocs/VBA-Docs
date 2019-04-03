@@ -1,5 +1,5 @@
 ---
-title: TaskItem.CustomAction Event (Outlook)
+title: TaskItem.CustomAction event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.CustomAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.CustomAction Event (Outlook)
+# TaskItem.CustomAction event (Outlook)
 
 Occurs when a custom action of an item (which is an instance of the parent object) executes.
 
@@ -18,7 +18,7 @@ Occurs when a custom action of an item (which is an instance of the parent objec
 
 _expression_. `CustomAction`( `_Action_` , `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

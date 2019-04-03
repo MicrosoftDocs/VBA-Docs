@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Parent Property (PowerPoint)
+title: CalloutFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm559001
 f1_keywords:
 - vbapp10.chm559001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Parent Property (PowerPoint)
+# CalloutFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

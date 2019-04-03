@@ -1,5 +1,5 @@
 ---
-title: Chart.SeriesCollection Method (Project)
+title: Chart.SeriesCollection method (Project)
 keywords: vbapj.chm131631
 f1_keywords:
 - vbapj.chm131631
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.SeriesCollection Method (Project)
+# Chart.SeriesCollection method (Project)
 Returns an object that represents either one series (a  **[Series](Project.series.md)** object) or a collection of the series (a **[SeriesCollection](Project.seriescollection.md)** object) in the chart or chart group.
 
 ## Syntax
 
- _expression_. `SeriesCollection` _(Index)_
+_expression_. `SeriesCollection` _(Index)_
 
  _expression_ A variable that represents a 'Chart' object.
 

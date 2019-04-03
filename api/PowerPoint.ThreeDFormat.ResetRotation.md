@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ResetRotation Method (PowerPoint)
+title: ThreeDFormat.ResetRotation method (PowerPoint)
 keywords: vbapp10.chm557004
 f1_keywords:
 - vbapp10.chm557004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ResetRotation Method (PowerPoint)
+# ThreeDFormat.ResetRotation method (PowerPoint)
 
 Resets the extrusion rotation around the x-axis and the y-axis to 0 (zero) so that the front of the extrusion faces forward. This method doesn't reset the rotation around the z-axis.
 
 
 ## Syntax
 
- _expression_. `ResetRotation`
+_expression_. `ResetRotation`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -31,7 +31,7 @@ To set the extrusion rotation around the x-axis and the y-axis to anything other
 
 ## Example
 
-This example resets the rotation around the x-axis and the y-axis to 0 (zero) for the extrusion of shape one on  `myDocument`.
+This example resets the rotation around the x-axis and the y-axis to 0 (zero) for the extrusion of shape one on  _myDocument_.
 
 
 ```vb

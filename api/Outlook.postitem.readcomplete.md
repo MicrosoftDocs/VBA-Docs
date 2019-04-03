@@ -1,5 +1,5 @@
 ---
-title: PostItem.ReadComplete Event (Outlook)
+title: PostItem.ReadComplete event (Outlook)
 ms.assetid: 7b7a8d3d-95ef-fdaa-ae13-aae5dd33a9a4
 ms.date: 06/08/2017
 ms.prod: outlook
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ReadComplete Event (Outlook)
+# PostItem.ReadComplete event (Outlook)
 Occurs when Outlook has completed reading the properties of the item.
 
 ## Version information
@@ -19,7 +19,7 @@ Version Added: Outlook 2013
 
 _expression_. `ReadComplete`_(Cancel)_
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Parameters

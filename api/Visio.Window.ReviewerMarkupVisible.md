@@ -1,5 +1,5 @@
 ---
-title: Window.ReviewerMarkupVisible Property (Visio)
+title: Window.ReviewerMarkupVisible property (Visio)
 keywords: vis_sdr.chm11660011
 f1_keywords:
 - vis_sdr.chm11660011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ReviewerMarkupVisible Property (Visio)
+# Window.ReviewerMarkupVisible property (Visio)
 
 Determines whether reviewer markup, for a particular reviewer or all reviewers, is visible in a Microsoft Visio window that displays a drawing page. Read/write.
 
 
 ## Syntax
 
- _expression_. `ReviewerMarkupVisible`( `_ReviewerID_` )
+_expression_. `ReviewerMarkupVisible`( `_ReviewerID_` )
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

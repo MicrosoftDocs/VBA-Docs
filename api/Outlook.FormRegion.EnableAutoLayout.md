@@ -1,5 +1,5 @@
 ---
-title: FormRegion.EnableAutoLayout Property (Outlook)
+title: FormRegion.EnableAutoLayout property (Outlook)
 keywords: vbaol11.chm3265
 f1_keywords:
 - vbaol11.chm3265
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.EnableAutoLayout Property (Outlook)
+# FormRegion.EnableAutoLayout property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether to use the automatic layout resizing feature when designing form regions in the forms designer. Read/write
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether to use the automatic layou
 
 _expression_. `EnableAutoLayout`
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks

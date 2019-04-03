@@ -1,5 +1,5 @@
 ---
-title: Application.TimeZones Property (Outlook)
+title: Application.TimeZones property (Outlook)
 keywords: vbaol11.chm3270
 f1_keywords:
 - vbaol11.chm3270
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TimeZones Property (Outlook)
+# Application.TimeZones property (Outlook)
 
 Returns a  **[TimeZones](Outlook.TimeZones.md)** collection that represents the set of time zones supported by Outlook. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[TimeZones](Outlook.TimeZones.md)** collection that represents the 
 
 _expression_. `TimeZones`
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Remarks

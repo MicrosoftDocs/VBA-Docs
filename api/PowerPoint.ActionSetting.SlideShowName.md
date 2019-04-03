@@ -1,5 +1,5 @@
 ---
-title: ActionSetting.SlideShowName Property (PowerPoint)
+title: ActionSetting.SlideShowName property (PowerPoint)
 keywords: vbapp10.chm567007
 f1_keywords:
 - vbapp10.chm567007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ActionSetting.SlideShowName Property (PowerPoint)
+# ActionSetting.SlideShowName property (PowerPoint)
 
 Returns or sets the name of the custom slide show to run in response to a mouse action on the shape during a slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `SlideShowName`
+_expression_. `SlideShowName`
 
 _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 

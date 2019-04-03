@@ -1,5 +1,5 @@
 ---
-title: Printer.PaperSize Property (Publisher)
+title: Printer.PaperSize property (Publisher)
 keywords: vbapb10.chm8978439
 f1_keywords:
 - vbapb10.chm8978439
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Printer.PaperSize Property (Publisher)
+# Printer.PaperSize property (Publisher)
 
 Returns the paper size setting found on the  **Publication and Paper Settings** tab in the **Print Setup** dialog box in the Microsoft Publisher user interface (**File** menu). Read-only.
 
 
 ## Syntax
 
- _expression_. **PaperSize**
+ _expression_.**PaperSize**
 
  _expression_ A variable that represents a  **Printer** object.
 

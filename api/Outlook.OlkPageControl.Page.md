@@ -1,5 +1,5 @@
 ---
-title: OlkPageControl.Page Property (Outlook)
+title: OlkPageControl.Page property (Outlook)
 keywords: vbaol11.chm1000336
 f1_keywords:
 - vbaol11.chm1000336
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkPageControl.Page Property (Outlook)
+# OlkPageControl.Page property (Outlook)
 
 Returns or sets an  **[OlPageType](Outlook.OlPageType.md)** constant that specifies the type of page that will be displayed in this control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlPageType](Outlook.OlPageType.md)** constant that specif
 
 _expression_. `Page`
 
-_expression_ A variable that represents an [OlkPageControl](./Outlook.OlkPageControl.md) object.
+_expression_ A variable that represents an [OlkPageControl](Outlook.OlkPageControl.md) object.
 
 
 ## Remarks

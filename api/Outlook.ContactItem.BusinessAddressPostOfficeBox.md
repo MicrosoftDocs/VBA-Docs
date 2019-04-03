@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddressPostOfficeBox Property (Outlook)
+title: ContactItem.BusinessAddressPostOfficeBox property (Outlook)
 keywords: vbaol11.chm974
 f1_keywords:
 - vbaol11.chm974
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddressPostOfficeBox Property (Outlook)
+# ContactItem.BusinessAddressPostOfficeBox property (Outlook)
 
 Returns or sets a  **String** representing the post office box number portion of the business address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the post office box number portion of
 
 _expression_. `BusinessAddressPostOfficeBox`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

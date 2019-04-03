@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AddUndoUnit Method (Visio)
+title: InvisibleApp.AddUndoUnit method (Visio)
 keywords: vis_sdr.chm17516075
 f1_keywords:
 - vis_sdr.chm17516075
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.AddUndoUnit Method (Visio)
+# InvisibleApp.AddUndoUnit method (Visio)
 
 Adds an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface to the Microsoft Visio undo queue.
 
 
 ## Syntax
 
- _expression_. `AddUndoUnit`( `_pUndoUnit_` )
+_expression_. `AddUndoUnit`( `_pUndoUnit_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

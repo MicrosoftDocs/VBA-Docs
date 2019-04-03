@@ -1,5 +1,5 @@
 ---
-title: CardView.Session Property (Outlook)
+title: CardView.Session property (Outlook)
 keywords: vbaol11.chm2581
 f1_keywords:
 - vbaol11.chm2581
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Session Property (Outlook)
+# CardView.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks

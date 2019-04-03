@@ -1,5 +1,5 @@
 ---
-title: MouseEvent Object (Visio)
+title: MouseEvent object (Visio)
 keywords: vis_sdr.chm52060
 f1_keywords:
 - vis_sdr.chm52060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MouseEvent Object (Visio)
+# MouseEvent object (Visio)
 
 The object passed to  **VisEventProc** as the subject of **MouseDown**, **MouseMove**, and **MouseUp** events.
 

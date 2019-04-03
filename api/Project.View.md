@@ -1,5 +1,5 @@
 ---
-title: View Object (Project)
+title: View object (Project)
 keywords: vbapj.chm131348
 f1_keywords:
 - vbapj.chm131348
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View Object (Project)
+# View object (Project)
 
 Represents a view in Project. The  **View** object is a member of the **[Views](Project.views(object).md)** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (Outlook)
+title: Application.Version property (Outlook)
 keywords: vbaol11.chm711
 f1_keywords:
 - vbaol11.chm711
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Version Property (Outlook)
+# Application.Version property (Outlook)
 
 Returns or sets a  **String** indicating the number of the version. Read-only.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the number of the version. Read-only.
 
 _expression_. `Version`
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## See also

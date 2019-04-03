@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `HangingPunctuation`
+_expression_. `HangingPunctuation`
 
  _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 

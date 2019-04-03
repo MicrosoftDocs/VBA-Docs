@@ -1,5 +1,5 @@
 ---
-title: Application.LevelingCanSplit Property (Project)
+title: Application.LevelingCanSplit property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.LevelingCanSplit
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelingCanSplit Property (Project)
+# Application.LevelingCanSplit property (Project)
 
  **True** if leveling can create splits in remaining work. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LevelingCanSplit`
+_expression_. `LevelingCanSplit`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

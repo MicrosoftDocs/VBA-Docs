@@ -19,9 +19,9 @@ Adds data validation to the specified range.
 
 ## Syntax
 
-_expression_. `Add`( `_Type_` , `_AlertStyle_` , `_Operator_` , `_Formula1_` , `_Formula2_` )
+_expression_.**Add**( `_Type_` , `_AlertStyle_` , `_Operator_` , `_Formula1_` , `_Formula2_` )
 
-_expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## Parameters
@@ -31,8 +31,8 @@ _expression_ A variable that represents a [Validation](./Excel.Validation.md) ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **xlDVType**|The validation type.|
-| _AlertStyle_|Optional| **Variant**|The validation alert style. Can be one of the following  **[xlDVAlertStyle](Excel.XlDVAlertStyle.md)** constants: **xlValidAlertInformation**, **xlValidAlertStop**, or **xlValidAlertWarning**.|
-| _Operator_|Optional| **Variant**|The data validation operator. Can be one of the following  **[xlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** constants: **xlBetween**, **xlEqual**, **xlGreater**, **xlGreaterEqual**, **xlLess**, **xlLessEqual**, **xlNotBetween**, or **xlNotEqual**.|
+| _AlertStyle_|Optional| **Variant**|The validation alert style. Can be one of the following  **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)** constants: **xlValidAlertInformation**, **xlValidAlertStop**, or **xlValidAlertWarning**.|
+| _Operator_|Optional| **Variant**|The data validation operator. Can be one of the following  **[XlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** constants: **xlBetween**, **xlEqual**, **xlGreater**, **xlGreaterEqual**, **xlLess**, **xlLessEqual**, **xlNotBetween**, or **xlNotEqual**.|
 | _Formula1_|Optional| **Variant**|The first part of the data validation equation. Value must not exceed 255 characters.|
 | _Formula2_|Optional| **Variant**|The second part of the data validation when  _Operator_ is **xlBetween** or **xlNotBetween** (otherwise, this argument is ignored).|
 

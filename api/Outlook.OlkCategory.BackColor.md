@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.BackColor Property (Outlook)
+title: OlkCategory.BackColor property (Outlook)
 keywords: vbaol11.chm1000440
 f1_keywords:
 - vbaol11.chm1000440
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.BackColor Property (Outlook)
+# OlkCategory.BackColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the background color of the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that indicates the background color of the control. 
 
 _expression_.**BackColor**
 
-_expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.Count Property (Visio)
+title: DataRecordsets.Count property (Visio)
 keywords: vis_sdr.chm16313330
 f1_keywords:
 - vis_sdr.chm16313330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.Count Property (Visio)
+# DataRecordsets.Count property (Visio)
 
 Returns the number of  **DataRecordset** objects in the **DataRecordsets** collection. Read-only.
 

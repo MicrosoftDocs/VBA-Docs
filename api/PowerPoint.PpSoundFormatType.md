@@ -1,5 +1,5 @@
 ---
-title: PpSoundFormatType Enumeration (PowerPoint)
+title: PpSoundFormatType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSoundFormatType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpSoundFormatType Enumeration (PowerPoint)
+# PpSoundFormatType enumeration (PowerPoint)
 
 Constants that specify the format of a sound file. In previous versions of Microsoft PowerPoint, these constants were passed to the  **Export** method of the **SoundFormat** object and returned by the **Type** property of that object. In Microsoft Office PowerPoint 2007, the **SoundFormat** object was deprecated.
 

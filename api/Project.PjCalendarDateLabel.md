@@ -1,5 +1,5 @@
 ---
-title: PjCalendarDateLabel Enumeration (Project)
+title: PjCalendarDateLabel enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCalendarDateLabel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCalendarDateLabel Enumeration (Project)
+# PjCalendarDateLabel enumeration (Project)
 
 Contains constants that specify the format for top and bottom date panes of each date box in the Calendar view.
 

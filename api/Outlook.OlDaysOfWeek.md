@@ -1,5 +1,5 @@
 ---
-title: OlDaysOfWeek Enumeration (Outlook)
+title: OlDaysOfWeek enumeration (Outlook)
 keywords: vbaol11.chm3054
 f1_keywords:
 - vbaol11.chm3054
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlDaysOfWeek Enumeration (Outlook)
+# OlDaysOfWeek enumeration (Outlook)
 
 Constants representing days of the week.
 

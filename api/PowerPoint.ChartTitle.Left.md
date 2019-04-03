@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Left Property (PowerPoint)
+title: ChartTitle.Left property (PowerPoint)
 keywords: vbapp10.chm694005
 f1_keywords:
 - vbapp10.chm694005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Left Property (PowerPoint)
+# ChartTitle.Left property (PowerPoint)
 
 Returns or sets the distance, in points, from the left edge of the object to the left edge of the chart area. Read/write  **Double**.
 

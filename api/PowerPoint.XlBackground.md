@@ -1,5 +1,5 @@
 ---
-title: XlBackground Enumeration (PowerPoint)
+title: XlBackground enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlBackground
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlBackground Enumeration (PowerPoint)
+# XlBackground enumeration (PowerPoint)
 
 Specifies the background type for text in charts.
 

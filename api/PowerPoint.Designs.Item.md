@@ -1,5 +1,5 @@
 ---
-title: Designs.Item Method (PowerPoint)
+title: Designs.Item method (PowerPoint)
 keywords: vbapp10.chm643003
 f1_keywords:
 - vbapp10.chm643003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Designs.Item Method (PowerPoint)
+# Designs.Item method (PowerPoint)
 
 Returns a single  **Design** object from the specified **Designs** collection.
 

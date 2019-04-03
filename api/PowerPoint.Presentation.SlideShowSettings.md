@@ -1,5 +1,5 @@
 ---
-title: Presentation.SlideShowSettings Property (PowerPoint)
+title: Presentation.SlideShowSettings property (PowerPoint)
 keywords: vbapp10.chm583015
 f1_keywords:
 - vbapp10.chm583015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.SlideShowSettings Property (PowerPoint)
+# Presentation.SlideShowSettings property (PowerPoint)
 
 Returns a  **[SlideShowSettings](PowerPoint.SlideShowSettings.md)** object that represents the slide show settings for the specified presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideShowSettings`
+_expression_. `SlideShowSettings`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

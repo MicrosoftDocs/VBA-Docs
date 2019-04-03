@@ -1,5 +1,5 @@
 ---
-title: GraphicItems.Count Property (Visio)
+title: GraphicItems.Count property (Visio)
 keywords: vis_sdr.chm16813330
 f1_keywords:
 - vis_sdr.chm16813330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItems.Count Property (Visio)
+# GraphicItems.Count property (Visio)
 
 Returns the number of  **GraphicItem** objects in the **GraphicItems** collection. Read-only.
 

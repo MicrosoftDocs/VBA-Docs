@@ -1,5 +1,5 @@
 ---
-title: Font.StylisticSets Property (Publisher)
+title: Font.StylisticSets property (Publisher)
 keywords: vbapb10.chm5374016
 f1_keywords:
 - vbapb10.chm5374016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.StylisticSets Property (Publisher)
+# Font.StylisticSets property (Publisher)
 
 Returns or sets a  **Variant** that represents the state of the **StylisticSets** property on the characters in a text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **StylisticSets**
+ _expression_.**StylisticSets**
 
  _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 

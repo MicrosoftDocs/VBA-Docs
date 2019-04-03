@@ -17,7 +17,7 @@ Returns and sets a  **String** that specifies text that appears when the user br
 
 ## Syntax
 
-_expression_. **ControlTipText**
+_expression_.**ControlTipText**
 
 _expression_ A variable that represents a  **Page** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ReportTemplate.CubeType Property (Project)
+title: ReportTemplate.CubeType property (Project)
 keywords: vbapj.chm131079
 f1_keywords:
 - vbapj.chm131079
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ReportTemplate.CubeType Property (Project)
+# ReportTemplate.CubeType property (Project)
 
 Gets the cube type that is used to build the template. Read-only  **PjVisualReportsCubeType**.
 
 
 ## Syntax
 
- _expression_. `CubeType`
+_expression_. `CubeType`
 
  _expression_ A variable that represents a [ReportTemplate](./Project.ReportTemplate.md) object.
 

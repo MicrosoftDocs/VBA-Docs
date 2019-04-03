@@ -19,7 +19,7 @@ Returns or sets the text that's displayed in a message box when the form field h
 
 ## Syntax
 
- _expression_. `HelpText`
+_expression_. `HelpText`
 
  _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: AddIns.Count Property (PowerPoint)
+title: AddIns.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.AddIns.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AddIns.Count Property (PowerPoint)
+# AddIns.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `IgnoreFileNames`
 
-_expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
 
 
 ## Example

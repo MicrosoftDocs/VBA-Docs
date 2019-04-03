@@ -1,5 +1,5 @@
 ---
-title: Assignment.Flag18 Property (Project)
+title: Assignment.Flag18 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Flag18
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Flag18 Property (Project)
+# Assignment.Flag18 property (Project)
 
  **True** if the flag associated with an **Assignment** is set. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Flag18`
+_expression_. `Flag18`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

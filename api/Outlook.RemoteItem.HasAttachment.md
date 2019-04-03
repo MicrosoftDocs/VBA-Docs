@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.HasAttachment Property (Outlook)
+title: RemoteItem.HasAttachment property (Outlook)
 keywords: vbaol11.chm1620
 f1_keywords:
 - vbaol11.chm1620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.HasAttachment Property (Outlook)
+# RemoteItem.HasAttachment property (Outlook)
 
 Returns a  **Boolean** that is **True** (default) if the remote item has an attachment associated with it. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that is **True** (default) if the remote item has an atta
 
 _expression_. `HasAttachment`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## See also

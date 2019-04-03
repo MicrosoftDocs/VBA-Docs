@@ -1,5 +1,5 @@
 ---
-title: LookupTable Object (Project)
+title: LookupTable object (Project)
 keywords: vbapj.chm131291
 f1_keywords:
 - vbapj.chm131291
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTable Object (Project)
+# LookupTable object (Project)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: WizardProperties Object (Publisher)
+title: WizardProperties object (Publisher)
 keywords: vbapb10.chm1572863
 f1_keywords:
 - vbapb10.chm1572863
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WizardProperties Object (Publisher)
+# WizardProperties object (Publisher)
 
 Represents the settings available in a publication design or in a Design Gallery object's wizard.
  

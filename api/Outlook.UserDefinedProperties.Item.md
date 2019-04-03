@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperties.Item Method (Outlook)
+title: UserDefinedProperties.Item method (Outlook)
 keywords: vbaol11.chm587
 f1_keywords:
 - vbaol11.chm587
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperties.Item Method (Outlook)
+# UserDefinedProperties.Item method (Outlook)
 
 Returns an object from the collection.
 
@@ -21,7 +21,7 @@ Returns an object from the collection.
 
  _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [UserDefinedProperties](./Outlook.UserDefinedProperties.md) object.
+_expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 
 
 ## Parameters

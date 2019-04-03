@@ -1,5 +1,5 @@
 ---
-title: Document.UndoEnabled Property (Visio)
+title: Document.UndoEnabled property (Visio)
 keywords: vis_sdr.chm10514610
 f1_keywords:
 - vis_sdr.chm10514610
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.UndoEnabled Property (Visio)
+# Document.UndoEnabled property (Visio)
 
 Determines whether undo information is maintained in memory. Read/write.
 
 
 ## Syntax
 
- _expression_. `UndoEnabled`
+_expression_. `UndoEnabled`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

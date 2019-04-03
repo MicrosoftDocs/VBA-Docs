@@ -1,5 +1,5 @@
 ---
-title: Project.UtilizationDate Property (Project)
+title: Project.UtilizationDate property (Project)
 ms.assetid: f63aced1-4bdf-585e-ae72-92d6f45699b7
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Project.UtilizationDate Property (Project)
+# Project.UtilizationDate property (Project)
 
 Used for portfolio analysis, such as Project Plan, Resource Engagements, or Project Plan until. Read-only.
 
@@ -15,7 +15,7 @@ Project Plan uses the project plan to calculate resource availability, Resource 
 
 ## Syntax
 
- _expression_. `UtilizationDate`
+_expression_. `UtilizationDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

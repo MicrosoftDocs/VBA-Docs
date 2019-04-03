@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtLayouts Property (PowerPoint)
+title: Application.SmartArtLayouts property (PowerPoint)
 keywords: vbapp10.chm502061
 f1_keywords:
 - vbapp10.chm502061
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SmartArtLayouts Property (PowerPoint)
+# Application.SmartArtLayouts property (PowerPoint)
 
 Returns the SmartArt layout of the current  **Application** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SmartArtLayouts`
+_expression_. `SmartArtLayouts`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

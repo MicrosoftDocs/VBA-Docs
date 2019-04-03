@@ -1,5 +1,5 @@
 ---
-title: Columns Object (Outlook)
+title: Columns object (Outlook)
 keywords: vbaol11.chm3190
 f1_keywords:
 - vbaol11.chm3190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns Object (Outlook)
+# Columns object (Outlook)
 
 Represents the collection of  **[Column](Outlook.Column.md)** objects in a **[Table](Outlook.Table.md)** object.
 
@@ -122,6 +122,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

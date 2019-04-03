@@ -1,5 +1,5 @@
 ---
-title: Assignment.Confirmed Property (Project)
+title: Assignment.Confirmed property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Confirmed
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Confirmed Property (Project)
+# Assignment.Confirmed property (Project)
 
 Gets the results of task assignments in a Project mail message.  **True** if a resource of a project or task has accepted the assignment. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Confirmed`
+_expression_. `Confirmed`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

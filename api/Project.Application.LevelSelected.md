@@ -1,5 +1,5 @@
 ---
-title: Application.LevelSelected Method (Project)
+title: Application.LevelSelected method (Project)
 keywords: vbapj.chm2292
 f1_keywords:
 - vbapj.chm2292
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelSelected Method (Project)
+# Application.LevelSelected method (Project)
 
 Levels the selected tasks to resolve resource conflicts or overallocations.
 
 
 ## Syntax
 
- _expression_. `LevelSelected`( `_ResolveMethod_` )
+_expression_. `LevelSelected`( `_ResolveMethod_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

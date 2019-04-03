@@ -1,5 +1,5 @@
 ---
-title: DataLabels.NumberFormatLinked Property (PowerPoint)
+title: DataLabels.NumberFormatLinked property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.NumberFormatLinked
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.NumberFormatLinked Property (PowerPoint)
+# DataLabels.NumberFormatLinked property (PowerPoint)
 
  **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `NumberFormatLinked`
+_expression_. `NumberFormatLinked`
 
 _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 

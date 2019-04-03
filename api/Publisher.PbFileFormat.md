@@ -1,5 +1,5 @@
 ---
-title: PbFileFormat Enumeration (Publisher)
+title: PbFileFormat enumeration (Publisher)
 keywords: vbapb10.chm65537
 f1_keywords:
 - vbapb10.chm65537
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbFileFormat Enumeration (Publisher)
+# PbFileFormat enumeration (Publisher)
 
 Constants that indicate the file format of the specified document.
 

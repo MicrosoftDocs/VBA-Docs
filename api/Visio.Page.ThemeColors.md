@@ -1,5 +1,5 @@
 ---
-title: Page.ThemeColors Property (Visio)
+title: Page.ThemeColors property (Visio)
 keywords: vis_sdr.chm10960180
 f1_keywords:
 - vis_sdr.chm10960180
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.ThemeColors Property (Visio)
+# Page.ThemeColors property (Visio)
 
 Gets or sets the current theme colors for the page. Read/write.
 
 
 ## Syntax
 
- _expression_. `ThemeColors`
+_expression_. `ThemeColors`
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 

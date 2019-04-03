@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.PageRotated Property (Publisher)
+title: AdvancedPrintOptions.PageRotated property (Publisher)
 keywords: vbapb10.chm7077936
 f1_keywords:
 - vbapb10.chm7077936
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.PageRotated Property (Publisher)
+# AdvancedPrintOptions.PageRotated property (Publisher)
 
 Gets or sets whether the printed page is rotated 180 degrees. Read/write.
 
 
 ## Syntax
 
- _expression_. **PageRotated**
+ _expression_.**PageRotated**
 
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 

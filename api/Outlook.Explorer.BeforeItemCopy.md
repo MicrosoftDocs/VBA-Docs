@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeItemCopy Event (Outlook)
+title: Explorer.BeforeItemCopy event (Outlook)
 keywords: vbaol11.chm461
 f1_keywords:
 - vbaol11.chm461
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.BeforeItemCopy Event (Outlook)
+# Explorer.BeforeItemCopy event (Outlook)
 
 Occurs when an Outlook item is copied.
 
@@ -21,7 +21,7 @@ Occurs when an Outlook item is copied.
 
 _expression_. `BeforeItemCopy`( `_Cancel_` )
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters

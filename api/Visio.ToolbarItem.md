@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem Object (Visio)
+title: ToolbarItem object (Visio)
 keywords: vis_sdr.chm10275
 f1_keywords:
 - vis_sdr.chm10275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem Object (Visio)
+# ToolbarItem object (Visio)
 
 Represents one item in a  **Toolbar** object. A **ToolbarItem** object can represent a button, combo box, or any other item on the Microsoft Visio toolbars.
 

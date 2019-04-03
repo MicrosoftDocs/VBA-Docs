@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotArea Property (PowerPoint)
+title: Chart.PlotArea property (PowerPoint)
 keywords: vbapp10.chm684038
 f1_keywords:
 - vbapp10.chm684038
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.PlotArea Property (PowerPoint)
+# Chart.PlotArea property (PowerPoint)
 
 Returns the plot area of a chart. Read-only  **[PlotArea](PowerPoint.PlotArea.md)**.
 
 
 ## Syntax
 
- _expression_. `PlotArea`
+_expression_. `PlotArea`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

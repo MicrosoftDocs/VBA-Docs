@@ -21,7 +21,7 @@ Returns or sets the item in the base field for a custom calculation. Valid only 
 
 _expression_. `BaseItem`
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks

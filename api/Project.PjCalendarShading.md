@@ -1,5 +1,5 @@
 ---
-title: PjCalendarShading Enumeration (Project)
+title: PjCalendarShading enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCalendarShading
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCalendarShading Enumeration (Project)
+# PjCalendarShading enumeration (Project)
 
 Contains constants that specify shading in the Calendar.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.SetResults Method (Visio)
+title: Master.SetResults method (Visio)
 keywords: vis_sdr.chm10716580
 f1_keywords:
 - vis_sdr.chm10716580
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.SetResults Method (Visio)
+# Master.SetResults method (Visio)
 
 Sets the results or formulas of one or more cells.
 
 
 ## Syntax
 
- _expression_. `SetResults`( `_SID_SRCStream()_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` , `_Flags_` )
+_expression_. `SetResults`( `_SID_SRCStream()_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` , `_Flags_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

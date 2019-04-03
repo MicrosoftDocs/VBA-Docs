@@ -17,14 +17,14 @@ Returns a  **Long** that represents the capabilities of the specified broadcast.
 
 ## Syntax
 
- _expression_. `Capabilities`
+_expression_. `Capabilities`
 
  _expression_ A variable that represents a 'Broadcast' object.
 
 
 ## Remarks
 
-The  **Capabilities** property can return the following[MSOBroadcastCapabilities](./overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md) values:
+The  **Capabilities** property can return the following[MSOBroadcastCapabilities](overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md) values:
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Profession Property (Outlook)
+title: ContactItem.Profession property (Outlook)
 keywords: vbaol11.chm1061
 f1_keywords:
 - vbaol11.chm1061
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Profession Property (Outlook)
+# ContactItem.Profession property (Outlook)
 
 Returns or sets a  **String** indicating the profession for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the profession for the contact. Read/wr
 
 _expression_. `Profession`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

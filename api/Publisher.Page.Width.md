@@ -1,5 +1,5 @@
 ---
-title: Page.Width Property (Publisher)
+title: Page.Width property (Publisher)
 keywords: vbapb10.chm393239
 f1_keywords:
 - vbapb10.chm393239
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Width Property (Publisher)
+# Page.Width property (Publisher)
 
 Returns a  **Long** that represent the width (in points) of a cell, range of cells, or page. Read-only.
 
 
 ## Syntax
 
- _expression_. **Width**
+ _expression_.**Width**
 
  _expression_ A variable that represents a  **Page** object.
 

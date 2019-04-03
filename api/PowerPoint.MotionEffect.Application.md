@@ -1,5 +1,5 @@
 ---
-title: MotionEffect.Application Property (PowerPoint)
+title: MotionEffect.Application property (PowerPoint)
 keywords: vbapp10.chm658001
 f1_keywords:
 - vbapp10.chm658001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MotionEffect.Application Property (PowerPoint)
+# MotionEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

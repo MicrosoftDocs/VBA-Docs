@@ -1,5 +1,5 @@
 ---
-title: SharingItem Object (Outlook)
+title: SharingItem object (Outlook)
 keywords: vbaol11.chm3016
 f1_keywords:
 - vbaol11.chm3016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem Object (Outlook)
+# SharingItem object (Outlook)
 
 Represents a sharing message in an Inbox folder.
 
@@ -253,7 +253,7 @@ End Sub
 ## See also
 
 
-[SharingItem Object Members](./overview/Outlook.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[SharingItem Object Members](overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

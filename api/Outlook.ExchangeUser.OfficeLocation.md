@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.OfficeLocation Property (Outlook)
+title: ExchangeUser.OfficeLocation property (Outlook)
 keywords: vbaol11.chm2096
 f1_keywords:
 - vbaol11.chm2096
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.OfficeLocation Property (Outlook)
+# ExchangeUser.OfficeLocation property (Outlook)
 
 Returns a  **String** representing the office location for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the office location for the **[ExchangeUser](
 
 _expression_. `OfficeLocation`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

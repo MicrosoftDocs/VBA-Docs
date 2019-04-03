@@ -1,5 +1,5 @@
 ---
-title: Application.CreateEnterpriseCalendar Method (Project)
+title: Application.CreateEnterpriseCalendar method (Project)
 keywords: vbapj.chm2135
 f1_keywords:
 - vbapj.chm2135
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CreateEnterpriseCalendar Method (Project)
+# Application.CreateEnterpriseCalendar method (Project)
 
 Creates an enterprise calendar. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `CreateEnterpriseCalendar`
+_expression_. `CreateEnterpriseCalendar`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

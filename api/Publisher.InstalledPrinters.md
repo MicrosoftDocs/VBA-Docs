@@ -1,5 +1,5 @@
 ---
-title: InstalledPrinters Object (Publisher)
+title: InstalledPrinters object (Publisher)
 keywords: vbapb10.chm8978431
 f1_keywords:
 - vbapb10.chm8978431
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InstalledPrinters Object (Publisher)
+# InstalledPrinters object (Publisher)
 
 Represents the collection of all  **Printer** objects, each of which represents one of the printers installed on the computer.
  

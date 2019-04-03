@@ -1,5 +1,5 @@
 ---
-title: Columns Object (Publisher)
+title: Columns object (Publisher)
 keywords: vbapb10.chm5111807
 f1_keywords:
 - vbapb10.chm5111807
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns Object (Publisher)
+# Columns object (Publisher)
 
 A collection of  **[Column](Publisher.Column.md)** objects that represent the columns in a table.
  

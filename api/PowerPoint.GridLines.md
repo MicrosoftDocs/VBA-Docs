@@ -1,5 +1,5 @@
 ---
-title: Gridlines Object (PowerPoint)
+title: Gridlines object (PowerPoint)
 keywords: vbapp10.chm705000
 f1_keywords:
 - vbapp10.chm705000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Gridlines Object (PowerPoint)
+# Gridlines object (PowerPoint)
 
 Represents major or minor gridlines on a chart axis.
 

@@ -1,5 +1,5 @@
 ---
-title: IconView.Copy Method (Outlook)
+title: IconView.Copy method (Outlook)
 keywords: vbaol11.chm2562
 f1_keywords:
 - vbaol11.chm2562
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Copy Method (Outlook)
+# IconView.Copy method (Outlook)
 
 Creates a new  **[View](Outlook.View.md)** object based on the existing **[IconView](Outlook.IconView.md)** object.
 
@@ -21,7 +21,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[IconV
 
 _expression_. `Copy`( `_Name_` , `_SaveOption_` )
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Parameters

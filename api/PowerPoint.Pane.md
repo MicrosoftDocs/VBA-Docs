@@ -1,5 +1,5 @@
 ---
-title: Pane Object (PowerPoint)
+title: Pane object (PowerPoint)
 keywords: vbapp10.chm631000
 f1_keywords:
 - vbapp10.chm631000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pane Object (PowerPoint)
+# Pane object (PowerPoint)
 
 An object representing one of the three panes in normal view or the single pane of any other view in the document window.
 

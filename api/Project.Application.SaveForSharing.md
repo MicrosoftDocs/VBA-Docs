@@ -1,5 +1,5 @@
 ---
-title: Application.SaveForSharing Method (Project)
+title: Application.SaveForSharing method (Project)
 keywords: vbapj.chm2133
 f1_keywords:
 - vbapj.chm2133
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SaveForSharing Method (Project)
+# Application.SaveForSharing method (Project)
 
 Saves a local copy of the active project for sharing, to make changes and then merge with the Project Server copy.
 
 
 ## Syntax
 
- _expression_. `SaveForSharing`( `_Filename_` )
+_expression_. `SaveForSharing`( `_FileName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -30,7 +30,7 @@ Saves a local copy of the active project for sharing, to make changes and then m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Optional|**Variant**|Full path and the name of the project file saved for sharing.|
+| _FileName_|Optional|**Variant**|Full path and the name of the project file saved for sharing.|
 
 ## Return value
 

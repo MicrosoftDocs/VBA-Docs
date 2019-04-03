@@ -1,5 +1,5 @@
 ---
-title: Application.SubmitAllEngagementsForProject Method (Project)
+title: Application.SubmitAllEngagementsForProject method (Project)
 keywords: vbapj.chm161
 f1_keywords:
 - vbapj.chm161
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SubmitAllEngagementsForProject Method (Project)
+# Application.SubmitAllEngagementsForProject method (Project)
 
 Submits all the engagements in the project to the resource manager for review. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `SubmitAllEngagementsForProject`
+_expression_. `SubmitAllEngagementsForProject`
 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 

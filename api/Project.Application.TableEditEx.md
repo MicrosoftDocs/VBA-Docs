@@ -1,5 +1,5 @@
 ---
-title: Application.TableEditEx Method (Project)
+title: Application.TableEditEx method (Project)
 keywords: vbapj.chm2172
 f1_keywords:
 - vbapj.chm2172
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TableEditEx Method (Project)
+# Application.TableEditEx method (Project)
 
 Creates, edits, or copies a table that can wrap text and include the  **Add New Column** feature.
 
 
 ## Syntax
 
- _expression_. `TableEditEx`( `_Name_`, `_TaskTable_`, `_Create_`, `_OverwriteExisting_`, `_NewName_`, `_FieldName_`, `_NewFieldName_`, `_Title_`, `_Width_`, `_Align_`, `_ShowInMenu_`, `_LockFirstColumn_`, `_DateFormat_`, `_RowHeight_`, `_ColumnPosition_`, `_AlignTitle_`, `_HeaderAutoRowHeightAdjustment_`, `_HeaderTextWrap_`, `_WrapText_`, `_ShowAddNewColumn_` )
+_expression_. `TableEditEx`( `_Name_`, `_TaskTable_`, `_Create_`, `_OverwriteExisting_`, `_NewName_`, `_FieldName_`, `_NewFieldName_`, `_Title_`, `_Width_`, `_Align_`, `_ShowInMenu_`, `_LockFirstColumn_`, `_DateFormat_`, `_RowHeight_`, `_ColumnPosition_`, `_AlignTitle_`, `_HeaderAutoRowHeightAdjustment_`, `_HeaderTextWrap_`, `_WrapText_`, `_ShowAddNewColumn_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

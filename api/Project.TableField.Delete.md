@@ -1,5 +1,5 @@
 ---
-title: TableField.Delete Method (Project)
+title: TableField.Delete method (Project)
 keywords: vbapj.chm132686
 f1_keywords:
 - vbapj.chm132686
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableField.Delete Method (Project)
+# TableField.Delete method (Project)
 
 Deletes the  **TableField** object from a **TableFields** collection.
 

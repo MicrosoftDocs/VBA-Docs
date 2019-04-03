@@ -19,7 +19,7 @@ Returns the up bars on a line chart. Read-only  **[UpBars](Word.UpBars.md)**.
 
 ## Syntax
 
- _expression_. `UpBars`
+_expression_. `UpBars`
 
  _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 

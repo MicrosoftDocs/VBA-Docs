@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.PropertyAccessor Property (Outlook)
+title: TaskRequestItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1915
 f1_keywords:
 - vbaol11.chm1915
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.PropertyAccessor Property (Outlook)
+# TaskRequestItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[TaskRequestItem](Outlook.TaskRequestItem.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `PropertyAccessor`
+_expression_. `PropertyAccessor`
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.RightIndent Property (Publisher)
+title: ParagraphFormat.RightIndent property (Publisher)
 keywords: vbapb10.chm5439495
 f1_keywords:
 - vbapb10.chm5439495
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.RightIndent Property (Publisher)
+# ParagraphFormat.RightIndent property (Publisher)
 
 Returns or sets a  **Variant** that represents the right indent (in points) for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **RightIndent**
+ _expression_.**RightIndent**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

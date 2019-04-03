@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.GetFreeBusy Method (Outlook)
+title: AddressEntry.GetFreeBusy method (Outlook)
 keywords: vbaol11.chm2052
 f1_keywords:
 - vbaol11.chm2052
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.GetFreeBusy Method (Outlook)
+# AddressEntry.GetFreeBusy method (Outlook)
 
 Returns a  **String** value that represents the availability of the individual user for a period of 30 days from the start date, beginning at midnight of the date specified.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the availability of the individual u
 
 _expression_. `GetFreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
 
- _expression_ An expression that returns an [AddressEntry](./Outlook.AddressEntry.md) object.
+ _expression_ An expression that returns an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## Parameters

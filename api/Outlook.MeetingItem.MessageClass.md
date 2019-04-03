@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.MessageClass Property (Outlook)
+title: MeetingItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1417
 f1_keywords:
 - vbaol11.chm1417
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.MessageClass Property (Outlook)
+# MeetingItem.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the message class for the Outlook ite
 
 _expression_. `MessageClass`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Returns or sets a  **Variant** that specifies the width of the list in a **[Comb
 
 ## Syntax
 
-_expression_. **ListWidth**
+_expression_.**ListWidth**
 
 _expression_ A variable that represents a  **ComboBox** object.
 

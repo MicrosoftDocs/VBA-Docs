@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Copy Method (Outlook)
+title: BusinessCardView.Copy method (Outlook)
 keywords: vbaol11.chm2922
 f1_keywords:
 - vbaol11.chm2922
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Copy Method (Outlook)
+# BusinessCardView.Copy method (Outlook)
 
 Creates a new  **[View](Outlook.View.md)** object based on the existing **[BusinessCardView](Outlook.BusinessCardView.md)** object.
 
@@ -21,7 +21,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[Busin
 
 _expression_. `Copy`( `_Name_` , `_SaveOption_` )
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Parameters

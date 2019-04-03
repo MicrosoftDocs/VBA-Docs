@@ -1,5 +1,5 @@
 ---
-title: Font.Attributes Property (Visio)
+title: Font.Attributes property (Visio)
 keywords: vis_sdr.chm12013100
 f1_keywords:
 - vis_sdr.chm12013100
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Attributes Property (Visio)
+# Font.Attributes property (Visio)
 
 Returns the attributes of the a  **Font** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Attributes`
+_expression_. `Attributes`
 
  _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 

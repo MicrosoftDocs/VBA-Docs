@@ -1,5 +1,5 @@
 ---
-title: Style.CellExistsU Property (Visio)
+title: Style.CellExistsU property (Visio)
 keywords: vis_sdr.chm11451945
 f1_keywords:
 - vis_sdr.chm11451945
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Style.CellExistsU Property (Visio)
+# Style.CellExistsU property (Visio)
 
 Determines whether a particular ShapeSheet cell exists in the scope of the search. Read-only.
 
 
 ## Syntax
 
- _expression_. `CellExistsU`( `_localeIndependentCellName_` , `_fExistsLocally_` )
+_expression_. `CellExistsU`( `_localeIndependentCellName_` , `_fExistsLocally_` )
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

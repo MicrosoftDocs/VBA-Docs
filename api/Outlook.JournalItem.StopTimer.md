@@ -1,5 +1,5 @@
 ---
-title: JournalItem.StopTimer Method (Outlook)
+title: JournalItem.StopTimer method (Outlook)
 keywords: vbaol11.chm1279
 f1_keywords:
 - vbaol11.chm1279
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.StopTimer Method (Outlook)
+# JournalItem.StopTimer method (Outlook)
 
 Stops the timer on the journal entry. This method allows programmatic control of the timer function. 
 
@@ -21,7 +21,7 @@ Stops the timer on the journal entry. This method allows programmatic control of
 
 _expression_. `StopTimer`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

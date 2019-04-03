@@ -1,5 +1,5 @@
 ---
-title: NavigationModule.Name Property (Outlook)
+title: NavigationModule.Name property (Outlook)
 keywords: vbaol11.chm2808
 f1_keywords:
 - vbaol11.chm2808
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModule.Name Property (Outlook)
+# NavigationModule.Name property (Outlook)
 
 Returns a  **String** value that represents the localized display name for the **[NavigationModule](Outlook.NavigationModule.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the localized display name for the *
 
 _expression_.**Name**
 
- _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
+ _expression_ An expression that returns a [NavigationModule](Outlook.NavigationModule.md) object.
 
 
 ## See also

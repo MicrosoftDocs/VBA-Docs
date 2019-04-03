@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Hidden Property (Outlook)
+title: FormDescription.Hidden property (Outlook)
 keywords: vbaol11.chm188
 f1_keywords:
 - vbaol11.chm188
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.Hidden Property (Outlook)
+# FormDescription.Hidden property (Outlook)
 
 Returns a  **Boolean** value that indicates **True** to cause the specified custom form to be hidden. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates **True** to cause the specified cust
 
 _expression_. `Hidden`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## Remarks

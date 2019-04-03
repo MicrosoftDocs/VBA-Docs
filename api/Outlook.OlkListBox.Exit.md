@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.Exit Event (Outlook)
+title: OlkListBox.Exit event (Outlook)
 keywords: vbaol11.chm1000286
 f1_keywords:
 - vbaol11.chm1000286
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.Exit Event (Outlook)
+# OlkListBox.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 
@@ -21,7 +21,7 @@ Occurs just after the focus passes from this control to another control on the s
 
 _expression_. `Exit`( `_Cancel_` )
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Parameters

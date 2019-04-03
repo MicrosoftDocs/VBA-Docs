@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SenderName Property (Outlook)
+title: SharingItem.SenderName property (Outlook)
 keywords: vbaol11.chm660
 f1_keywords:
 - vbaol11.chm660
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SenderName Property (Outlook)
+# SharingItem.SenderName property (Outlook)
 
 Returns a  **String** indicating the display name of the sender for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** indicating the display name of the sender for the **[Shari
 
 _expression_. `SenderName`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

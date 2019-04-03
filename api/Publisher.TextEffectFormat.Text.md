@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Text Property (Publisher)
+title: TextEffectFormat.Text property (Publisher)
 keywords: vbapb10.chm3735824
 f1_keywords:
 - vbapb10.chm3735824
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Text Property (Publisher)
+# TextEffectFormat.Text property (Publisher)
 
 Returns or sets a  **String** that represents the text in a text range or WordArt shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Text**
+ _expression_.**Text**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

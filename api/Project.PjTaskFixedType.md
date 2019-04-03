@@ -1,5 +1,5 @@
 ---
-title: PjTaskFixedType Enumeration (Project)
+title: PjTaskFixedType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTaskFixedType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTaskFixedType Enumeration (Project)
+# PjTaskFixedType enumeration (Project)
 
 Contains constants that specify the task type.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.SVPercent Property (Project)
+title: Task.SVPercent property (Project)
 keywords: vbapj.chm132596
 f1_keywords:
 - vbapj.chm132596
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.SVPercent Property (Project)
+# Task.SVPercent property (Project)
 
 Gets the earned value scheduled variance (SV) percent of the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `SVPercent`
+_expression_. `SVPercent`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

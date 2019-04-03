@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.Accelerator Property (Outlook)
+title: OlkCommandButton.Accelerator property (Outlook)
 keywords: vbaol11.chm1000109
 f1_keywords:
 - vbaol11.chm1000109
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.Accelerator Property (Outlook)
+# OlkCommandButton.Accelerator property (Outlook)
 
 Returns or sets a  **String** value that represents the accelerator or hot key for the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the accelerator or hot key f
 
 _expression_. `Accelerator`
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Shape.DrawOval Method (Visio)
+title: Shape.DrawOval method (Visio)
 keywords: vis_sdr.chm11216210
 f1_keywords:
 - vis_sdr.chm11216210
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.DrawOval Method (Visio)
+# Shape.DrawOval method (Visio)
 
 Adds an oval (ellipse) to the  **Shapes** collection of a group shape.
 
 
 ## Syntax
 
- _expression_. `DrawOval`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
+_expression_. `DrawOval`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

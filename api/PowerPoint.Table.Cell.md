@@ -1,5 +1,5 @@
 ---
-title: Table.Cell Method (PowerPoint)
+title: Table.Cell method (PowerPoint)
 keywords: vbapp10.chm622005
 f1_keywords:
 - vbapp10.chm622005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.Cell Method (PowerPoint)
+# Table.Cell method (PowerPoint)
 
 Returns a  **[Cell](PowerPoint.Cell.md)** object that represents a cell in a table.
 
 
 ## Syntax
 
- _expression_. `Cell`( `_Row_`, `_Column_` )
+_expression_. `Cell`( `_Row_`, `_Column_` )
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

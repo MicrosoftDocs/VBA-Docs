@@ -1,5 +1,5 @@
 ---
-title: Group2.GroupCriteria Property (Project)
+title: Group2.GroupCriteria property (Project)
 ms.prod: project-server
 api_name:
 - Project.Group2.GroupCriteria
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Group2.GroupCriteria Property (Project)
+# Group2.GroupCriteria property (Project)
 
 Gets or sets the  **[GroupCriteria2](Project.groupcriteria2.md)** collection representing the fields in a group definition. Read/write **GroupCriteria2**.
 
 
 ## Syntax
 
- _expression_. `GroupCriteria`
+_expression_. `GroupCriteria`
 
  _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 

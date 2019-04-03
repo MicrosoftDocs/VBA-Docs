@@ -1,5 +1,5 @@
 ---
-title: Colors.ObjectType Property (Visio)
+title: Colors.ObjectType property (Visio)
 keywords: vis_sdr.chm12313960
 f1_keywords:
 - vis_sdr.chm12313960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Colors.ObjectType Property (Visio)
+# Colors.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Colors](./Visio.Colors.md) object.
 

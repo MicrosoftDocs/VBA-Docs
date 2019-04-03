@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsInterfaceEx Method (Project)
+title: Application.OptionsInterfaceEx method (Project)
 keywords: vbapj.chm651
 f1_keywords:
 - vbapj.chm651
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsInterfaceEx Method (Project)
+# Application.OptionsInterfaceEx method (Project)
 
 Sets some display options and Project Guide options.
 
 
 ## Syntax
 
- _expression_. `OptionsInterfaceEx`( `_ShowResourceAssignmentIndicators_`, `_ShowEditToStartFinishDates_`, `_ShowEditsToWorkUnitsDurationIndicators_`, `_ShowDeletionInNameColumn_`, `_DisplayProjectGuide_`, `_ProjectGuideUseDefaultFunctionalLayoutPage_`, `_ProjectGuideFunctionalLayoutPage_`, `_ProjectGuideUseDefaultContent_`, `_ProjectGuideContent_`, `_SetAsDefaults_`, `_UseOMIDs_` )
+_expression_. `OptionsInterfaceEx`( `_ShowResourceAssignmentIndicators_`, `_ShowEditToStartFinishDates_`, `_ShowEditsToWorkUnitsDurationIndicators_`, `_ShowDeletionInNameColumn_`, `_DisplayProjectGuide_`, `_ProjectGuideUseDefaultFunctionalLayoutPage_`, `_ProjectGuideFunctionalLayoutPage_`, `_ProjectGuideUseDefaultContent_`, `_ProjectGuideContent_`, `_SetAsDefaults_`, `_UseOMIDs_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

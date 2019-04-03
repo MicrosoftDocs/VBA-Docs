@@ -1,5 +1,5 @@
 ---
-title: RulerGuides.Add Method (Publisher)
+title: RulerGuides.Add method (Publisher)
 keywords: vbapb10.chm720900
 f1_keywords:
 - vbapb10.chm720900
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# RulerGuides.Add Method (Publisher)
+# RulerGuides.Add method (Publisher)
 
 Adds a new ruler guide to the specified  **RulerGuides** collection.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Position_**,  **_Type_**)
+ _expression_.**Add**(**_Position_**,  **_Type_**)
 
  _expression_ A variable that represents a  **RulerGuides** object.
 

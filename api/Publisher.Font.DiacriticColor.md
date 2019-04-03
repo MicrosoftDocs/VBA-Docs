@@ -1,5 +1,5 @@
 ---
-title: Font.DiacriticColor Property (Publisher)
+title: Font.DiacriticColor property (Publisher)
 keywords: vbapb10.chm5374003
 f1_keywords:
 - vbapb10.chm5374003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.DiacriticColor Property (Publisher)
+# Font.DiacriticColor property (Publisher)
 
 Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the 24-bit color used for diacritics in a right-to-left language publication.
 
 
 ## Syntax
 
- _expression_. **DiacriticColor**
+ _expression_.**DiacriticColor**
 
  _expression_ A variable that represents a  **Font** object.
 

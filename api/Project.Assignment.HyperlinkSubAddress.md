@@ -1,5 +1,5 @@
 ---
-title: Assignment.HyperlinkSubAddress Property (Project)
+title: Assignment.HyperlinkSubAddress property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.HyperlinkSubAddress
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.HyperlinkSubAddress Property (Project)
+# Assignment.HyperlinkSubAddress property (Project)
 
 Gets or sets the address of a location within the target document. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkSubAddress`
+_expression_. `HyperlinkSubAddress`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.BusyStatus Property (Outlook)
+title: AppointmentItem.BusyStatus property (Outlook)
 keywords: vbaol11.chm877
 f1_keywords:
 - vbaol11.chm877
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.BusyStatus Property (Outlook)
+# AppointmentItem.BusyStatus property (Outlook)
 
 Returns or sets an  **[OlBusyStatus](Outlook.OlBusyStatus.md)** constant indicating the busy status of the user for the appointment. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlBusyStatus](Outlook.OlBusyStatus.md)** constant indicat
 
 _expression_. `BusyStatus`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

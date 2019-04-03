@@ -1,5 +1,5 @@
 ---
-title: PjCell Enumeration (Project)
+title: PjCell enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCell
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCell Enumeration (Project)
+# PjCell enumeration (Project)
 
 Contains constants that specify a cell.
 

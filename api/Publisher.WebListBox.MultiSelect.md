@@ -1,5 +1,5 @@
 ---
-title: WebListBox.MultiSelect Property (Publisher)
+title: WebListBox.MultiSelect property (Publisher)
 keywords: vbapb10.chm4063236
 f1_keywords:
 - vbapb10.chm4063236
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebListBox.MultiSelect Property (Publisher)
+# WebListBox.MultiSelect property (Publisher)
 
 Specifies whether a user may select more than one item in a Web list box control. Read/write.
 
 
 ## Syntax
 
- _expression_. **MultiSelect**
+ _expression_.**MultiSelect**
 
  _expression_ A variable that represents a  **WebListBox** object.
 

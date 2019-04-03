@@ -1,5 +1,5 @@
 ---
-title: Application.ColumnDelete Method (Project)
+title: Application.ColumnDelete method (Project)
 keywords: vbapj.chm230
 f1_keywords:
 - vbapj.chm230
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ColumnDelete Method (Project)
+# Application.ColumnDelete method (Project)
 
 Deletes the active column or the column containing the active cell from the view. The actual field and the data it contains are merely hidden.
 
 
 ## Syntax
 
- _expression_. `ColumnDelete`
+_expression_. `ColumnDelete`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

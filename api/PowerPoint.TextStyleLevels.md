@@ -1,5 +1,5 @@
 ---
-title: TextStyleLevels Object (PowerPoint)
+title: TextStyleLevels object (PowerPoint)
 keywords: vbapp10.chm580000
 f1_keywords:
 - vbapp10.chm580000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyleLevels Object (PowerPoint)
+# TextStyleLevels object (PowerPoint)
 
 A collection of all the outline text levels. This collection always contains five members, each of which is represented by a  **[TextStyleLevel](PowerPoint.TextStyleLevel.md)** object.
 

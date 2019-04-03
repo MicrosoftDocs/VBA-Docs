@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.TintAndShade Property (Publisher)
+title: ColorFormat.TintAndShade property (Publisher)
 keywords: vbapb10.chm2555912
 f1_keywords:
 - vbapb10.chm2555912
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.TintAndShade Property (Publisher)
+# ColorFormat.TintAndShade property (Publisher)
 
 Returns or sets a  **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
 
 
 ## Syntax
 
- _expression_. **TintAndShade**
+ _expression_.**TintAndShade**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

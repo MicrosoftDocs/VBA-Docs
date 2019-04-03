@@ -1,5 +1,5 @@
 ---
-title: Application.TaskDrivers Method (Project)
+title: Application.TaskDrivers method (Project)
 keywords: vbapj.chm2279
 f1_keywords:
 - vbapj.chm2279
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskDrivers Method (Project)
+# Application.TaskDrivers method (Project)
 
 Shows the  **Task Inspector** pane.
 
 
 ## Syntax
 
- _expression_. `TaskDrivers`
+_expression_. `TaskDrivers`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

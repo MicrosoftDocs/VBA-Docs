@@ -1,5 +1,5 @@
 ---
-title: Pane.Active Property (PowerPoint)
+title: Pane.Active property (PowerPoint)
 keywords: vbapp10.chm631003
 f1_keywords:
 - vbapp10.chm631003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Pane.Active Property (PowerPoint)
+# Pane.Active property (PowerPoint)
 
 Returns whether the specified pane or window is active. Read-only.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_. `Active`
 
  _expression_ A variable that represents a [Pane](./PowerPoint.Pane.md) object.
 

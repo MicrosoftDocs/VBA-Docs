@@ -1,5 +1,5 @@
 ---
-title: Window.ShowPageOutline Property (Visio)
+title: Window.ShowPageOutline property (Visio)
 keywords: vis_sdr.chm11651615
 f1_keywords:
 - vis_sdr.chm11651615
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ShowPageOutline Property (Visio)
+# Window.ShowPageOutline property (Visio)
 
 Determines whether the drawing page outline is displayed in the Microsoft Visio drawing window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowPageOutline`
+_expression_. `ShowPageOutline`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

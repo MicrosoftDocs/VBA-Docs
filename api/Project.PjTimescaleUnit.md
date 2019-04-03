@@ -1,5 +1,5 @@
 ---
-title: PjTimescaleUnit Enumeration (Project)
+title: PjTimescaleUnit enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTimescaleUnit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTimescaleUnit Enumeration (Project)
+# PjTimescaleUnit enumeration (Project)
 
 Contains constants that specify the unit of time for any tier of a timescale in a Gantt chart or other timephased view. 
 

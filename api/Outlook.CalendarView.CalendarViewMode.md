@@ -1,5 +1,5 @@
 ---
-title: CalendarView.CalendarViewMode Property (Outlook)
+title: CalendarView.CalendarViewMode property (Outlook)
 keywords: vbaol11.chm2627
 f1_keywords:
 - vbaol11.chm2627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.CalendarViewMode Property (Outlook)
+# CalendarView.CalendarViewMode property (Outlook)
 
 Returns or sets an  **[OlCalendarViewMode](Outlook.OlCalendarViewMode.md)** that determines the current view mode of the **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlCalendarViewMode](Outlook.OlCalendarViewMode.md)** that
 
 _expression_. `CalendarViewMode`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Example

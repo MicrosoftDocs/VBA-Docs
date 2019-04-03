@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Type Property (Outlook)
+title: JournalItem.Type property (Outlook)
 keywords: vbaol11.chm1272
 f1_keywords:
 - vbaol11.chm1272
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Type Property (Outlook)
+# JournalItem.Type property (Outlook)
 
 Returns or sets a  **String** representing a free-form field, usually containing the display name of the journalizing application (for example, "MSWord".) Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing a free-form field, usually containing
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

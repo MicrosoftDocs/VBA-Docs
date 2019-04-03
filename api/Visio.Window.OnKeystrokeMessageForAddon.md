@@ -1,5 +1,5 @@
 ---
-title: Window.OnKeystrokeMessageForAddon Event (Visio)
+title: Window.OnKeystrokeMessageForAddon event (Visio)
 keywords: vis_sdr.chm11650740
 f1_keywords:
 - vis_sdr.chm11650740
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.OnKeystrokeMessageForAddon Event (Visio)
+# Window.OnKeystrokeMessageForAddon event (Visio)
 
 Occurs when Microsoft Visio receives a keystroke message from Microsoft Windows that is targeted at an add-on window or child of an add-on window.
 

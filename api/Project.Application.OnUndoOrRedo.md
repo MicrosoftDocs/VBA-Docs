@@ -1,5 +1,5 @@
 ---
-title: Application.OnUndoOrRedo Event (Project)
+title: Application.OnUndoOrRedo event (Project)
 keywords: vbapj.chm131132
 f1_keywords:
 - vbapj.chm131132
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OnUndoOrRedo Event (Project)
+# Application.OnUndoOrRedo event (Project)
 
 Occurs when a transaction is undone or redone.
 
 
 ## Syntax
 
- _expression_. `OnUndoOrRedo`( `_bstrLabel_`, `_bstrGUID_`, `_fUndo_` )
+_expression_. `OnUndoOrRedo`( `_bstrLabel_`, `_bstrGUID_`, `_fUndo_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

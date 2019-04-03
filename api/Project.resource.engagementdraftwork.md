@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementDraftWork Property (Project)
+title: Resource.EngagementDraftWork property (Project)
 keywords: vbapj.chm131803
 f1_keywords:
 - vbapj.chm131803
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementDraftWork Property (Project)
+# Resource.EngagementDraftWork property (Project)
 
 Returns the draft work for the engagement. Read-only  **Double**. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `EngagementDraftWork`
+_expression_. `EngagementDraftWork`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

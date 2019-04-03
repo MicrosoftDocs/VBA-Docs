@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty.Type Property (Outlook)
+title: UserDefinedProperty.Type property (Outlook)
 keywords: vbaol11.chm7
 f1_keywords:
 - vbaol11.chm7
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty.Type Property (Outlook)
+# UserDefinedProperty.Type property (Outlook)
 
 Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant indicating the type of the **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant ind
 
  _expression_.**Type**
 
-_expression_ A variable that represents a [UserDefinedProperty](./Outlook.UserDefinedProperty.md) object.
+_expression_ A variable that represents a [UserDefinedProperty](Outlook.UserDefinedProperty.md) object.
 
 
 ## Example

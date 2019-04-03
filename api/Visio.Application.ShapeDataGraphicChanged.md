@@ -1,5 +1,5 @@
 ---
-title: Application.ShapeDataGraphicChanged Event (Visio)
+title: Application.ShapeDataGraphicChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.ShapeDataGraphicChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShapeDataGraphicChanged Event (Visio)
+# Application.ShapeDataGraphicChanged event (Visio)
 
 Occurs after a data graphic is applied to or deleted from a shape.
 

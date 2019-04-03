@@ -19,7 +19,7 @@ Returns an  **OMath** object that represents the base of the specified equation 
 
 ## Syntax
 
- _expression_. `E`
+_expression_. `E`
 
  _expression_ An expression that returns an [OMathLimUpp](./Word.OMathLimUpp.md) object.
 

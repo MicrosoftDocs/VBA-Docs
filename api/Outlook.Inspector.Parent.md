@@ -1,5 +1,5 @@
 ---
-title: Inspector.Parent Property (Outlook)
+title: Inspector.Parent property (Outlook)
 keywords: vbaol11.chm2960
 f1_keywords:
 - vbaol11.chm2960
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Parent Property (Outlook)
+# Inspector.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## See also

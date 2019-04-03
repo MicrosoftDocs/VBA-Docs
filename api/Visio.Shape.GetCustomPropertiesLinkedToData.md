@@ -1,5 +1,5 @@
 ---
-title: Shape.GetCustomPropertiesLinkedToData Method (Visio)
+title: Shape.GetCustomPropertiesLinkedToData method (Visio)
 keywords: vis_sdr.chm11260225
 f1_keywords:
 - vis_sdr.chm11260225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.GetCustomPropertiesLinkedToData Method (Visio)
+# Shape.GetCustomPropertiesLinkedToData method (Visio)
 
 Gets the IDs of the shape-data-item (custom property) rows in the Shape Data section of the shape's ShapeSheet spreadsheet linked to the specified data recordset.
 
@@ -22,7 +22,7 @@ Gets the IDs of the shape-data-item (custom property) rows in the Shape Data sec
 
 ## Syntax
 
- _expression_. `GetCustomPropertiesLinkedToData`( `_DataRecordsetID_` , `_CustomPropertyIndices()_` )
+_expression_. `GetCustomPropertiesLinkedToData`( `_DataRecordsetID_` , `_CustomPropertyIndices()_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

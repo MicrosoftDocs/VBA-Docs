@@ -1,5 +1,5 @@
 ---
-title: TimelineView.GoToDate Method (Outlook)
+title: TimelineView.GoToDate method (Outlook)
 keywords: vbaol11.chm2658
 f1_keywords:
 - vbaol11.chm2658
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.GoToDate Method (Outlook)
+# TimelineView.GoToDate method (Outlook)
 
 Changes the date used by the current view to display information.
 
 
 ## Syntax
 
- _expression_. `GoToDate`( `_Date_` )
+_expression_. `GoToDate`( `_Date_` )
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Parameters

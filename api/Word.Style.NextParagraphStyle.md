@@ -19,7 +19,7 @@ Returns or sets the style to be applied automatically to a new paragraph that is
 
 ## Syntax
 
- _expression_. `NextParagraphStyle`
+_expression_. `NextParagraphStyle`
 
  _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 

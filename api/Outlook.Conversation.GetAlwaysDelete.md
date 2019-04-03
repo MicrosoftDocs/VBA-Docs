@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetAlwaysDelete Method (Outlook)
+title: Conversation.GetAlwaysDelete method (Outlook)
 keywords: vbaol11.chm3440
 f1_keywords:
 - vbaol11.chm3440
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.GetAlwaysDelete Method (Outlook)
+# Conversation.GetAlwaysDelete method (Outlook)
 
 Returns a constant in the  **[OlAlwaysDeleteConversation](Outlook.OlAlwaysDeleteConversation.md)** enumeration that indicates whether all new items that join the conversation are always moved to the **Deleted Items** folder in the specified delivery store.
 

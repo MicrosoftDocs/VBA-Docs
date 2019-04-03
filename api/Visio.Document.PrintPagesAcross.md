@@ -1,5 +1,5 @@
 ---
-title: Document.PrintPagesAcross Property (Visio)
+title: Document.PrintPagesAcross property (Visio)
 keywords: vis_sdr.chm10514125
 f1_keywords:
 - vis_sdr.chm10514125
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintPagesAcross Property (Visio)
+# Document.PrintPagesAcross property (Visio)
 
 Indicates the number of sheets of paper on which a drawing is printed horizontally. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintPagesAcross`
+_expression_. `PrintPagesAcross`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

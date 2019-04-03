@@ -1,5 +1,5 @@
 ---
-title: Shape.ConvertToGroupCanceled Event (Visio)
+title: Shape.ConvertToGroupCanceled event (Visio)
 keywords: vis_sdr.chm11219370
 f1_keywords:
 - vis_sdr.chm11219370
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.ConvertToGroupCanceled Event (Visio)
+# Shape.ConvertToGroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelConvertToGroup** event.
 

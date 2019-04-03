@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Stores Property (Outlook)
+title: NameSpace.Stores property (Outlook)
 keywords: vbaol11.chm780
 f1_keywords:
 - vbaol11.chm780
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Stores Property (Outlook)
+# NameSpace.Stores property (Outlook)
 
 Returns a  **[Stores](Outlook.Stores.md)** collection object that represents all the **[Store](Outlook.Store.md)** objects in the current profile. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[Stores](Outlook.Stores.md)** collection object that represents all
 
 _expression_. `Stores`
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## See also

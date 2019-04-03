@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.FormatResult Method (Visio)
+title: InvisibleApp.FormatResult method (Visio)
 keywords: vis_sdr.chm17516300
 f1_keywords:
 - vis_sdr.chm17516300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.FormatResult Method (Visio)
+# InvisibleApp.FormatResult method (Visio)
 
 Formats a string or number into a string according to a format picture. Uses specified units for scaling and formatting.
 

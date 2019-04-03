@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IconCriterion.Type property (Excel)
 
-Returns one of the constants of the  **[xlConditionValueTypes](Excel.XlConditionValueTypes.md)** enumeration, which specifies how the threshold value for an icon set is determined. Read-only.
+Returns one of the constants of the  **[XlConditionValueTypes](Excel.XlConditionValueTypes.md)** enumeration, which specifies how the threshold value for an icon set is determined. Read-only.
 
 
 ## Syntax

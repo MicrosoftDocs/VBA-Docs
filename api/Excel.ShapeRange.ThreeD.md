@@ -21,12 +21,12 @@ Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D - 
 
 _expression_. `ThreeD`
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Example
 
-This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  `myDocument`.
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  _myDocument_.
 
 
 ```vb

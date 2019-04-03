@@ -1,5 +1,5 @@
 ---
-title: TextRange.PasteSpecial Method (PowerPoint)
+title: TextRange.PasteSpecial method (PowerPoint)
 keywords: vbapp10.chm569040
 f1_keywords:
 - vbapp10.chm569040
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.PasteSpecial Method (PowerPoint)
+# TextRange.PasteSpecial method (PowerPoint)
 
 Replaces the text range with the contents of the Clipboard in the format specified. 
 
 
 ## Syntax
 
- _expression_. `PasteSpecial`( `_DataType_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_` )
+_expression_. `PasteSpecial`( `_DataType_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_` )
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 

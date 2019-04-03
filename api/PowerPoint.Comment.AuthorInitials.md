@@ -1,5 +1,5 @@
 ---
-title: Comment.AuthorInitials Property (PowerPoint)
+title: Comment.AuthorInitials property (PowerPoint)
 keywords: vbapp10.chm642004
 f1_keywords:
 - vbapp10.chm642004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Comment.AuthorInitials Property (PowerPoint)
+# Comment.AuthorInitials property (PowerPoint)
 
 Returns the author's initials as a read-only  **String** for a specified **[Comment](PowerPoint.Comment.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `AuthorInitials`
+_expression_. `AuthorInitials`
 
 _expression_ A variable that represents an [Comment](./PowerPoint.Comment.md) object.
 

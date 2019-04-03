@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Item Method (Project)
+title: ShapeRange.Item method (Project)
 ms.prod: project-server
 ms.assetid: adc323cf-59c6-dcdf-2e57-be4a81d8c98c
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Item Method (Project)
+# ShapeRange.Item method (Project)
 Gets an individual  **Shape** object in the shape range collection.
 
 ## Syntax
 
- _expression_. `Item` _(Index)_
+_expression_. `Item` _(Index)_
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

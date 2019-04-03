@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.DataRowsDeleted Property (Visio)
+title: DataRecordsetChangedEvent.DataRowsDeleted property (Visio)
 keywords: vis_sdr.chm17260460
 f1_keywords:
 - vis_sdr.chm17260460
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.DataRowsDeleted Property (Visio)
+# DataRecordsetChangedEvent.DataRowsDeleted property (Visio)
 
 Returns an array of IDs of data rows deleted from the data recordset as a result of a data-refresh operation. Read-only.
 
@@ -22,7 +22,7 @@ Returns an array of IDs of data rows deleted from the data recordset as a result
 
 ## Syntax
 
- _expression_. `DataRowsDeleted`
+_expression_. `DataRowsDeleted`
 
  _expression_ An expression that returns a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Count Property (Visio)
+title: Hyperlinks.Count property (Visio)
 keywords: vis_sdr.chm15613330
 f1_keywords:
 - vis_sdr.chm15613330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Count Property (Visio)
+# Hyperlinks.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

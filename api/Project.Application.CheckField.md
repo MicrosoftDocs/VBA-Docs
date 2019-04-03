@@ -1,5 +1,5 @@
 ---
-title: Application.CheckField Method (Project)
+title: Application.CheckField method (Project)
 keywords: vbapj.chm7
 f1_keywords:
 - vbapj.chm7
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CheckField Method (Project)
+# Application.CheckField method (Project)
 
 **True** if the selected tasks or resources meet the specified criteria.
 
 
 ## Syntax
 
- _expression_. `CheckField` (`_Field_`, `_Value_`, `_Test_`, `_Op_`, `_Field2_`, `_Value2_`, `_Test2_`)
+_expression_. `CheckField` (`_Field_`, `_Value_`, `_Test_`, `_Op_`, `_Field2_`, `_Value2_`, `_Test2_`)
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

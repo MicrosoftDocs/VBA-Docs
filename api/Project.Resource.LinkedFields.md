@@ -1,5 +1,5 @@
 ---
-title: Resource.LinkedFields Property (Project)
+title: Resource.LinkedFields property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.LinkedFields
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.LinkedFields Property (Project)
+# Resource.LinkedFields property (Project)
 
 Indicates whether the  **Resource** object contains fields that are linked to other applications through OLE. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LinkedFields`
+_expression_. `LinkedFields`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.Lag Property (Project)
+title: TaskDependency.Lag property (Project)
 keywords: vbapj.chm132365
 f1_keywords:
 - vbapj.chm132365
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.Lag Property (Project)
+# TaskDependency.Lag property (Project)
 
 The duration of lag time between linked tasks. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Lag`
+_expression_. `Lag`
 
  _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.Caption Property (Project)
+title: Window.Caption property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Caption
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Caption Property (Project)
+# Window.Caption property (Project)
 
 Gets or sets the text in the title bar of a project window. Read/write  **String**.
 

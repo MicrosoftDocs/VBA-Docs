@@ -1,5 +1,5 @@
 ---
-title: PlaySettings Object (PowerPoint)
+title: PlaySettings object (PowerPoint)
 keywords: vbapp10.chm568000
 f1_keywords:
 - vbapp10.chm568000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySettings Object (PowerPoint)
+# PlaySettings object (PowerPoint)
 
 Contains information about how the specified media clip will be played during a slide show.
 

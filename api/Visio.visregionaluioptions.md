@@ -1,5 +1,5 @@
 ---
-title: VisRegionalUIOptions Enumeration (Visio)
+title: VisRegionalUIOptions enumeration (Visio)
 keywords: vis_sdr.chm70430
 f1_keywords:
 - vis_sdr.chm70430
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisRegionalUIOptions Enumeration (Visio)
+# VisRegionalUIOptions enumeration (Visio)
 
 Text display options returned by the  **ApplicationSettings.AsianTextUI**, **ApplicationSettings.BIDITextUI**, **ApplicationSettings.ComplexTextUI**, **ApplicationSettings.KashidaTextUI**, and **ApplicationSettings.SATextUI** properties.
 

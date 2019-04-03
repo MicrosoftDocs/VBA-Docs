@@ -1,5 +1,5 @@
 ---
-title: Application.ColorSchemes Property (Publisher)
+title: Application.ColorSchemes property (Publisher)
 keywords: vbapb10.chm131080
 f1_keywords:
 - vbapb10.chm131080
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ColorSchemes Property (Publisher)
+# Application.ColorSchemes property (Publisher)
 
 Returns a  **[ColorSchemes](Publisher.ColorSchemes.md)** collection that represents the color schemes available.
 
 
 ## Syntax
 
- _expression_. **ColorSchemes**
+ _expression_.**ColorSchemes**
 
  _expression_ A variable that represents a  **Application** object.
 

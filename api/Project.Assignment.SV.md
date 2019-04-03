@@ -1,5 +1,5 @@
 ---
-title: Assignment.SV Property (Project)
+title: Assignment.SV property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.SV
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.SV Property (Project)
+# Assignment.SV property (Project)
 
 Gets the earned value scheduled variance (SV) of the assignment. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `SV`
+_expression_. `SV`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

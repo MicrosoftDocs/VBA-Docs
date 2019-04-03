@@ -1,5 +1,5 @@
 ---
-title: Task.Deadline Property (Project)
+title: Task.Deadline property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Deadline
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Deadline Property (Project)
+# Task.Deadline property (Project)
 
 Gets or sets a deadline for a task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Deadline`
+_expression_. `Deadline`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

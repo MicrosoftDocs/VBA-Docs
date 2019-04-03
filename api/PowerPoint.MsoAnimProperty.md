@@ -1,5 +1,5 @@
 ---
-title: MsoAnimProperty Enumeration (PowerPoint)
+title: MsoAnimProperty enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimProperty
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimProperty Enumeration (PowerPoint)
+# MsoAnimProperty enumeration (PowerPoint)
 
 Represents an animation property. 
 

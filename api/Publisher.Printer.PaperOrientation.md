@@ -1,5 +1,5 @@
 ---
-title: Printer.PaperOrientation Property (Publisher)
+title: Printer.PaperOrientation property (Publisher)
 keywords: vbapb10.chm8978440
 f1_keywords:
 - vbapb10.chm8978440
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Printer.PaperOrientation Property (Publisher)
+# Printer.PaperOrientation property (Publisher)
 
 Gets or sets page orientation (landscape or portrait) for the printer. Read/write.
 
 
 ## Syntax
 
- _expression_. **PaperOrientation**
+ _expression_.**PaperOrientation**
 
  _expression_ A variable that represents a  **Printer** object.
 

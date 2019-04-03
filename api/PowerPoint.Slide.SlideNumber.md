@@ -1,5 +1,5 @@
 ---
-title: Slide.SlideNumber Property (PowerPoint)
+title: Slide.SlideNumber property (PowerPoint)
 keywords: vbapp10.chm531019
 f1_keywords:
 - vbapp10.chm531019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.SlideNumber Property (PowerPoint)
+# Slide.SlideNumber property (PowerPoint)
 
 Returns the slide number. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideNumber`
+_expression_. `SlideNumber`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

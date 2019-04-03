@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableDependencyCreate Method (Project)
+title: Project.DeliverableDependencyCreate method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableDependencyCreate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableDependencyCreate Method (Project)
+# Project.DeliverableDependencyCreate method (Project)
 
 Creates a dependency on a deliverable and links the dependency to a task in the project.
 
 
 ## Syntax
 
- _expression_. `DeliverableDependencyCreate`( `_DeliverableGuid_`, `_TaskGuid_` )
+_expression_. `DeliverableDependencyCreate`( `_DeliverableGuid_`, `_TaskGuid_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

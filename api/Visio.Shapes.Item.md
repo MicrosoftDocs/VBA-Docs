@@ -1,5 +1,5 @@
 ---
-title: Shapes.Item Property (Visio)
+title: Shapes.Item property (Visio)
 keywords: vis_sdr.chm11313765
 f1_keywords:
 - vis_sdr.chm11313765
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Item Property (Visio)
+# Shapes.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_NameUIDOrIndex_` )
+_expression_. `Item`( `_NameUIDOrIndex_` )
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
 

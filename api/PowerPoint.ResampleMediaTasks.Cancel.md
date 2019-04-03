@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTasks.Cancel Method (PowerPoint)
+title: ResampleMediaTasks.Cancel method (PowerPoint)
 keywords: vbapp10.chm728003
 f1_keywords:
 - vbapp10.chm728003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTasks.Cancel Method (PowerPoint)
+# ResampleMediaTasks.Cancel method (PowerPoint)
 
 Cancels mobilization of the current media asset.
 
 
 ## Syntax
 
- _expression_. `Cancel`
+_expression_. `Cancel`
 
  _expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Body Property (Outlook)
+title: RemoteItem.Body property (Outlook)
 keywords: vbaol11.chm1589
 f1_keywords:
 - vbaol11.chm1589
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Body Property (Outlook)
+# RemoteItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 
 _expression_. `Body`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## See also

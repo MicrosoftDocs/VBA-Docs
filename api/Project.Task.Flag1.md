@@ -1,5 +1,5 @@
 ---
-title: Task.Flag1 Property (Project)
+title: Task.Flag1 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Flag1
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Flag1 Property (Project)
+# Task.Flag1 property (Project)
 
 Gets or sets the value of a task flag custom field. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Flag1`
+_expression_. `Flag1`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

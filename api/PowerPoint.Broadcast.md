@@ -1,5 +1,5 @@
 ---
-title: Broadcast Object (PowerPoint)
+title: Broadcast object (PowerPoint)
 keywords: vbapp10.chm732000
 f1_keywords:
 - vbapp10.chm732000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Broadcast Object (PowerPoint)
+# Broadcast object (PowerPoint)
 
 A Broadcast Documents library that is used to store documents being presented. 
 

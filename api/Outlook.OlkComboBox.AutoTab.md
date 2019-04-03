@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.AutoTab Property (Outlook)
+title: OlkComboBox.AutoTab property (Outlook)
 keywords: vbaol11.chm1000195
 f1_keywords:
 - vbaol11.chm1000195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.AutoTab Property (Outlook)
+# OlkComboBox.AutoTab property (Outlook)
 
 Returns or sets a  **Boolean** that specifies if a tab is inserted automatically when the control has been filled to the maximum length specified. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies if a tab is inserted automatically
 
 _expression_. `AutoTab`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

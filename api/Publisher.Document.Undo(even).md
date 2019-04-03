@@ -1,5 +1,5 @@
 ---
-title: Document.Undo Event (Publisher)
+title: Document.Undo event (Publisher)
 keywords: vbapb10.chm285212678
 f1_keywords:
 - vbapb10.chm285212678
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Undo Event (Publisher)
+# Document.Undo event (Publisher)
 
 Occurs when a user undoes the last action performed.
 
 
 ## Syntax
 
- _expression_. **Undo**
+ _expression_.**Undo**
 
  _expression_ A variable that represents a  **Document** object.
 

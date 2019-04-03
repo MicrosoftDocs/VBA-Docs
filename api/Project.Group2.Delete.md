@@ -1,5 +1,5 @@
 ---
-title: Group2.Delete Method (Project)
+title: Group2.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Group2.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Group2.Delete Method (Project)
+# Group2.Delete method (Project)
 
 Deletes the  **Group2** object from a **Groups2** collection.
 

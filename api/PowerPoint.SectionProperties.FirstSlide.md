@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.FirstSlide Method (PowerPoint)
+title: SectionProperties.FirstSlide method (PowerPoint)
 keywords: vbapp10.chm725007
 f1_keywords:
 - vbapp10.chm725007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.FirstSlide Method (PowerPoint)
+# SectionProperties.FirstSlide method (PowerPoint)
 
 Returns the index of the first slide in the specified section, or returns -1 if the section is empty.
 
 
 ## Syntax
 
- _expression_. `FirstSlide`( `_sectionIndex_` )
+_expression_. `FirstSlide`( `_sectionIndex_` )
 
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 

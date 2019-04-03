@@ -1,5 +1,5 @@
 ---
-title: Project.Index Property (Project)
+title: Project.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Index Property (Project)
+# Project.Index property (Project)
 
 Gets the index of a  **Project** object in the containing **Projects** collection. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

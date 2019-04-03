@@ -1,5 +1,5 @@
 ---
-title: Cell.Precedents Property (Visio)
+title: Cell.Precedents property (Visio)
 keywords: vis_sdr.chm10151690
 f1_keywords:
 - vis_sdr.chm10151690
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.Precedents Property (Visio)
+# Cell.Precedents property (Visio)
 
 Returns an array of ShapeSheet cells upon which the formula of another cell depends. Read-only.
 
 
 ## Syntax
 
- _expression_. `Precedents`
+_expression_. `Precedents`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

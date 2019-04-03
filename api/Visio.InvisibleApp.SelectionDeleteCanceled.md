@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.SelectionDeleteCanceled Event (Visio)
+title: InvisibleApp.SelectionDeleteCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SelectionDeleteCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.SelectionDeleteCanceled Event (Visio)
+# InvisibleApp.SelectionDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelSelectionDelete** event.
 

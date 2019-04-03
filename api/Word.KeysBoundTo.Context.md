@@ -19,7 +19,7 @@ Returns an  **Object** that represents the storage location of the specified key
 
 ## Syntax
 
- _expression_. `Context`
+_expression_. `Context`
 
  _expression_ A variable that represents a '[KeysBoundTo](Word.keysboundto.md)' object.
 

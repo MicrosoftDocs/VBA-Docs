@@ -1,5 +1,5 @@
 ---
-title: SoundEffect.Application Property (PowerPoint)
+title: SoundEffect.Application property (PowerPoint)
 keywords: vbapp10.chm540001
 f1_keywords:
 - vbapp10.chm540001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SoundEffect.Application Property (PowerPoint)
+# SoundEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

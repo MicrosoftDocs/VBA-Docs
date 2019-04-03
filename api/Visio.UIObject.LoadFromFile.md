@@ -1,5 +1,5 @@
 ---
-title: UIObject.LoadFromFile Method (Visio)
+title: UIObject.LoadFromFile method (Visio)
 keywords: vis_sdr.chm14916390
 f1_keywords:
 - vis_sdr.chm14916390
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# UIObject.LoadFromFile Method (Visio)
+# UIObject.LoadFromFile method (Visio)
 
 Loads a Microsoft Visio application  **UIObject** object from a file.
 
 
 ## Syntax
 
- _expression_. `LoadFromFile`( `_FileName_` )
+_expression_. `LoadFromFile`( `_FileName_` )
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 

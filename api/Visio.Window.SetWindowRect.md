@@ -1,5 +1,5 @@
 ---
-title: Window.SetWindowRect Method (Visio)
+title: Window.SetWindowRect method (Visio)
 keywords: vis_sdr.chm11616590
 f1_keywords:
 - vis_sdr.chm11616590
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.SetWindowRect Method (Visio)
+# Window.SetWindowRect method (Visio)
 
 Sets the size and position of the client area of a window.
 
 
 ## Syntax
 
- _expression_. `SetWindowRect`( `_nLeft_` , `_nTop_` , `_nWidth_` , `_nHeight_` )
+_expression_. `SetWindowRect`( `_nLeft_` , `_nTop_` , `_nWidth_` , `_nHeight_` )
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationFolders.Item Method (Outlook)
+title: NavigationFolders.Item method (Outlook)
 keywords: vbaol11.chm2896
 f1_keywords:
 - vbaol11.chm2896
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolders.Item Method (Outlook)
+# NavigationFolders.Item method (Outlook)
 
 Returns a  **[NavigationFolder](Outlook.NavigationFolder.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns a  **[NavigationFolder](Outlook.NavigationFolder.md)** object from the c
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [NavigationFolders](./Outlook.NavigationFolders.md) object.
+_expression_ A variable that represents a [NavigationFolders](Outlook.NavigationFolders.md) object.
 
 
 ## Parameters

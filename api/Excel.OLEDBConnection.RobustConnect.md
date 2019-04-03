@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.RobustConnect property (Excel)
 
- Returns or sets how OLE DB connection connects to its data source. Read/write **[xlRobustConnect](Excel.XlRobustConnect.md)**.
+ Returns or sets how OLE DB connection connects to its data source. Read/write **[XlRobustConnect](Excel.XlRobustConnect.md)**.
 
 
 ## Syntax

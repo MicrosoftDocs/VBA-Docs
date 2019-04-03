@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceSharing Method (Project)
+title: Application.ResourceSharing method (Project)
 keywords: vbapj.chm105
 f1_keywords:
 - vbapj.chm105
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceSharing Method (Project)
+# Application.ResourceSharing method (Project)
 
 Controls resource sharing, for local resources and projects.
 
 
 ## Syntax
 
- _expression_. `ResourceSharing`( `_Share_`, `_Name_`, `_Pool_` )
+_expression_. `ResourceSharing`( `_Share_`, `_Name_`, `_Pool_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

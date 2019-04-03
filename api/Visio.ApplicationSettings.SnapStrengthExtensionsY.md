@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SnapStrengthExtensionsY Property (Visio)
+title: ApplicationSettings.SnapStrengthExtensionsY property (Visio)
 keywords: vis_sdr.chm16251590
 f1_keywords:
 - vis_sdr.chm16251590
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SnapStrengthExtensionsY Property (Visio)
+# ApplicationSettings.SnapStrengthExtensionsY property (Visio)
 
 Specifies the distance in pixels along the  _y-_ axis that shape extension lines pull when snapping is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapStrengthExtensionsY`
+_expression_. `SnapStrengthExtensionsY`
 
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

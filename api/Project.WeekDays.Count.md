@@ -1,5 +1,5 @@
 ---
-title: WeekDays.Count Property (Project)
+title: WeekDays.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.WeekDays.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WeekDays.Count Property (Project)
+# WeekDays.Count property (Project)
 
 Gets the number of items in the  **WeekDays** collection. Read-only **Integer**.
 

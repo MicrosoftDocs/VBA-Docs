@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Top10.TopBottom property (Excel)
 
-Returns or sets one of the constants of the  **[xlTopBottom](Excel.XlTopBottom.md)** enumeration, determining if the ranking is evaluated from the top or bottom.
+Returns or sets one of the constants of the  **[XlTopBottom](Excel.XlTopBottom.md)** enumeration, determining if the ranking is evaluated from the top or bottom.
 
 
 ## Syntax
 
 _expression_. `TopBottom`
 
-_expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## See also

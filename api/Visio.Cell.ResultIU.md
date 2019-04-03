@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultIU Property (Visio)
+title: Cell.ResultIU property (Visio)
 keywords: vis_sdr.chm10114220
 f1_keywords:
 - vis_sdr.chm10114220
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.ResultIU Property (Visio)
+# Cell.ResultIU property (Visio)
 
 Gets or sets a cell's value in internal units. Read/write.
 
 
 ## Syntax
 
- _expression_. `ResultIU`
+_expression_. `ResultIU`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

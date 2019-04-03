@@ -1,5 +1,5 @@
 ---
-title: Application.EditTPStyle Method (Project)
+title: Application.EditTPStyle method (Project)
 keywords: vbapj.chm57
 f1_keywords:
 - vbapj.chm57
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EditTPStyle Method (Project)
+# Application.EditTPStyle method (Project)
 
 Edits the box and border colors of different types of tasks in the Team Planner view.
 
 
 ## Syntax
 
- _expression_. `EditTPStyle`( `_Style_`, `_FillColor_`, `_BorderColor_` )
+_expression_. `EditTPStyle`( `_Style_`, `_FillColor_`, `_BorderColor_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

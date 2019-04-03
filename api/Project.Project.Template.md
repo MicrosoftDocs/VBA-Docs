@@ -1,5 +1,5 @@
 ---
-title: Project.Template Property (Project)
+title: Project.Template property (Project)
 keywords: vbapj.chm132720
 f1_keywords:
 - vbapj.chm132720
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Template Property (Project)
+# Project.Template property (Project)
 
 Gets the name of the template associated with a project. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Template`
+_expression_. `Template`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

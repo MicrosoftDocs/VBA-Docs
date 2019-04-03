@@ -1,5 +1,5 @@
 ---
-title: AccelItems.Item Property (Visio)
+title: AccelItems.Item property (Visio)
 keywords: vis_sdr.chm14613765
 f1_keywords:
 - vis_sdr.chm14613765
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AccelItems.Item Property (Visio)
+# AccelItems.Item property (Visio)
 
 Returns an object from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_lIndex_` )
+_expression_. `Item`( `_lIndex_` )
 
  _expression_ A variable that represents a [AccelItems](./Visio.AccelItems.md) collection.
 

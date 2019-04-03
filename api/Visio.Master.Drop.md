@@ -1,5 +1,5 @@
 ---
-title: Master.Drop Method (Visio)
+title: Master.Drop method (Visio)
 keywords: vis_sdr.chm10716235
 f1_keywords:
 - vis_sdr.chm10716235
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.Drop Method (Visio)
+# Master.Drop method (Visio)
 
 Creates one or more new  **Shape** objects by dropping an object onto a receiving object such as a master, drawing page, shape, or group.
 
 
 ## Syntax
 
- _expression_. `Drop`( `_ObjectToDrop_` , `_xPos_` , `_yPos_` )
+_expression_. `Drop`( `_ObjectToDrop_` , `_xPos_` , `_yPos_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

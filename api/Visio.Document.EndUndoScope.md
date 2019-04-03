@@ -1,5 +1,5 @@
 ---
-title: Document.EndUndoScope Method (Visio)
+title: Document.EndUndoScope method (Visio)
 keywords: vis_sdr.chm10516250
 f1_keywords:
 - vis_sdr.chm10516250
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.EndUndoScope Method (Visio)
+# Document.EndUndoScope method (Visio)
 
 Ends or cancels a transaction that has a unique scope.
 
 
 ## Syntax
 
- _expression_. `EndUndoScope`( `_nScopeID_` , `_bCommit_` )
+_expression_. `EndUndoScope`( `_nScopeID_` , `_bCommit_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

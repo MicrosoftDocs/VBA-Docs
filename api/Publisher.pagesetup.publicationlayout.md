@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PublicationLayout Property (Publisher)
+title: PageSetup.PublicationLayout property (Publisher)
 keywords: vbapb10.chm6946839
 f1_keywords:
 - vbapb10.chm6946839
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.PublicationLayout Property (Publisher)
+# PageSetup.PublicationLayout property (Publisher)
 
-Returns or sets a  [PbPublicationLayout Enumeration (Publisher)](Publisher.pbpublicationlayout.md) constant that indicates the layout of a publication. Read/write.
+Returns or sets a  [PbPublicationLayout enumeration (Publisher)](Publisher.pbpublicationlayout.md) constant that indicates the layout of a publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **PublicationLayout**
+ _expression_.**PublicationLayout**
 
  _expression_ A variable that represents a  **PageSetup** object.
 
@@ -48,6 +48,6 @@ End With
 ## See also
 
 
- [PageSetup Object (Publisher)](Publisher.PageSetup.md)
+ [PageSetup object (Publisher)](Publisher.PageSetup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

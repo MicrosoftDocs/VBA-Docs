@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.BackgroundStyle Property (PowerPoint)
+title: ShapeRange.BackgroundStyle property (PowerPoint)
 keywords: vbapp10.chm548089
 f1_keywords:
 - vbapp10.chm548089
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.BackgroundStyle Property (PowerPoint)
+# ShapeRange.BackgroundStyle property (PowerPoint)
 
 Sets or returns the background style of the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. `BackgroundStyle`
+_expression_. `BackgroundStyle`
 
  _expression_ An expression that returns a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Explorer.FolderSwitch Event (Outlook)
+title: Explorer.FolderSwitch event (Outlook)
 keywords: vbaol11.chm450
 f1_keywords:
 - vbaol11.chm450
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.FolderSwitch Event (Outlook)
+# Explorer.FolderSwitch event (Outlook)
 
 Occurs when the explorer goes to a new folder, either as a result of user action or through program code. 
 
@@ -21,7 +21,7 @@ Occurs when the explorer goes to a new folder, either as a result of user action
 
 _expression_. `FolderSwitch`
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks

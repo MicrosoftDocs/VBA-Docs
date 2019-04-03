@@ -1,5 +1,5 @@
 ---
-title: Resource.Baseline2Work Property (Project)
+title: Resource.Baseline2Work property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Baseline2Work
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Baseline2Work Property (Project)
+# Resource.Baseline2Work property (Project)
 
 Gets or sets the baseline work (in minutes) for a  **Resource** Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline2Work`
+_expression_. `Baseline2Work`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

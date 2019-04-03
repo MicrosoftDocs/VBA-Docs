@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReminderOverrideDefault Property (Outlook)
+title: MailItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm1348
 f1_keywords:
 - vbaol11.chm1348
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ReminderOverrideDefault Property (Outlook)
+# MailItem.ReminderOverrideDefault property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder overrides 
 
 _expression_. `ReminderOverrideDefault`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

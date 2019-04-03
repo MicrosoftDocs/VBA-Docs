@@ -1,5 +1,5 @@
 ---
-title: StartDriver.CalendarDrivers Property (Project)
+title: StartDriver.CalendarDrivers property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.CalendarDrivers
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.CalendarDrivers Property (Project)
+# StartDriver.CalendarDrivers property (Project)
 
 Gets the  **[CalendarDrivers](Project.calendardrivers.md)** object for the task **StartDriver** object. Read-only **CalendarDrivers**.
 
 
 ## Syntax
 
- _expression_. `CalendarDrivers`
+_expression_. `CalendarDrivers`
 
  _expression_ A variable that represents a [StartDriver](./Project.StartDriver.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.MailSession Method (Project)
+title: Application.MailSession method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.MailSession
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MailSession Method (Project)
+# Application.MailSession method (Project)
 
 Returns the MAPI mail session number as a hexadecimal string if there is an active session, or returns  **Null** if there is no session.
 
 
 ## Syntax
 
- _expression_. `MailSession`
+_expression_. `MailSession`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.CustomPropertyChange Event (Outlook)
+title: RemoteItem.CustomPropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.CustomPropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.CustomPropertyChange Event (Outlook)
+# RemoteItem.CustomPropertyChange event (Outlook)
 
 Occurs when a custom property of an item (which is an instance of the parent object) is changed. 
 
@@ -18,7 +18,7 @@ Occurs when a custom property of an item (which is an instance of the parent obj
 
 _expression_. `CustomPropertyChange`( `_Name_` )
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Parameters

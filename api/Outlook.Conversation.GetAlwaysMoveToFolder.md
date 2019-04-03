@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetAlwaysMoveToFolder Method (Outlook)
+title: Conversation.GetAlwaysMoveToFolder method (Outlook)
 keywords: vbaol11.chm3441
 f1_keywords:
 - vbaol11.chm3441
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.GetAlwaysMoveToFolder Method (Outlook)
+# Conversation.GetAlwaysMoveToFolder method (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object that indicates the folder in the specified delivery store to which new items that arrive in the conversation are always moved.
 

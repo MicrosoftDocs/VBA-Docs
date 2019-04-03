@@ -1,5 +1,5 @@
 ---
-title: Table.Restrict Method (Outlook)
+title: Table.Restrict method (Outlook)
 keywords: vbaol11.chm2234
 f1_keywords:
 - vbaol11.chm2234
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Restrict Method (Outlook)
+# Table.Restrict method (Outlook)
 
 Applies a filter to the rows in the  **[Table](Outlook.Table.md)** and obtains a new **Table** object.
 
@@ -21,7 +21,7 @@ Applies a filter to the rows in the  **[Table](Outlook.Table.md)** and obtains a
 
 _expression_. `Restrict`( `_Filter_` )
 
-_expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 
 ## Parameters

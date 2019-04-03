@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.TextFilePlatform property (Excel)
 
-Returns or sets the origin of the text file you are importing into the query table. This property determines which code page is used during the data import. Read/write  **[xlPlatform](Excel.XlPlatform.md)**.
+Returns or sets the origin of the text file you are importing into the query table. This property determines which code page is used during the data import. Read/write  **[XlPlatform](Excel.XlPlatform.md)**.
 
 
 ## Syntax

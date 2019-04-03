@@ -1,5 +1,5 @@
 ---
-title: View Object (PowerPoint)
+title: View object (PowerPoint)
 keywords: vbapp10.chm512000
 f1_keywords:
 - vbapp10.chm512000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View Object (PowerPoint)
+# View object (PowerPoint)
 
 Represents the current editing view in the specified document window.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Reply Event (Outlook)
+title: TaskRequestItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Reply
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Reply Event (Outlook)
+# TaskRequestItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item (which is an instance of the parent object).
 
 
 ## Syntax
 
- _expression_. `Reply`( `_Response_` , `_Cancel_` )
+_expression_. `Reply`( `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Parameters

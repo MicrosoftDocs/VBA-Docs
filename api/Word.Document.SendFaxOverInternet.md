@@ -19,7 +19,7 @@ Sends a document to a fax service provider, who faxes the document to one or mor
 
 ## Syntax
 
- _expression_. `SendFaxOverInternet`( `_Recipients_` , `_Subject_` , `_ShowMessage_` )
+_expression_. `SendFaxOverInternet`( `_Recipients_` , `_Subject_` , `_ShowMessage_` )
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

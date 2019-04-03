@@ -1,5 +1,5 @@
 ---
-title: Application.TextChanged Event (Visio)
+title: Application.TextChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.TextChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.TextChanged Event (Visio)
+# Application.TextChanged event (Visio)
 
 Occurs after the text of a shape is changed in a document.
 

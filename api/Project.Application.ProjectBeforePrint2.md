@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforePrint2 Event (Project)
+title: Application.ProjectBeforePrint2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforePrint2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforePrint2 Event (Project)
+# Application.ProjectBeforePrint2 event (Project)
 
 Occurs before a project is printed. Uses the  **EventInfo** object parameter.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforePrint2`( `_pj_`, `_Info_` )
+_expression_. `ProjectBeforePrint2`( `_pj_`, `_Info_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

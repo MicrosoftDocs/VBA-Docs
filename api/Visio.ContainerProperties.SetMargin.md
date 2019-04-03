@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.SetMargin Method (Visio)
+title: ContainerProperties.SetMargin method (Visio)
 keywords: vis_sdr.chm17662305
 f1_keywords:
 - vis_sdr.chm17662305
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.SetMargin Method (Visio)
+# ContainerProperties.SetMargin method (Visio)
 
 Sets the gap between the container and member shapes to the specified size, in the specified units.
 
 
 ## Syntax
 
- _expression_. `SetMargin`( `_MarginUnits_` , `_MarginSize_` )
+_expression_. `SetMargin`( `_MarginUnits_` , `_MarginSize_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

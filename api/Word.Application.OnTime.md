@@ -19,7 +19,7 @@ Starts a background timer that runs a macro at a specified time.
 
 ## Syntax
 
- _expression_. `OnTime`( `_When_` , `_Name_` , `_Tolerance_` )
+_expression_. `OnTime`( `_When_` , `_Name_` , `_Tolerance_` )
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

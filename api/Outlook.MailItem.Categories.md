@@ -1,5 +1,5 @@
 ---
-title: MailItem.Categories Property (Outlook)
+title: MailItem.Categories property (Outlook)
 keywords: vbaol11.chm1298
 f1_keywords:
 - vbaol11.chm1298
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Categories Property (Outlook)
+# MailItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 
 _expression_. `Categories`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

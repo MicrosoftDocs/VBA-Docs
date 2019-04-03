@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Actions Property (Outlook)
+title: DistListItem.Actions property (Outlook)
 keywords: vbaol11.chm1114
 f1_keywords:
 - vbaol11.chm1114
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Actions Property (Outlook)
+# DistListItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also

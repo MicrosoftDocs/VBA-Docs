@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Clear Method (Outlook)
+title: OlkComboBox.Clear method (Outlook)
 keywords: vbaol11.chm1000229
 f1_keywords:
 - vbaol11.chm1000229
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Clear Method (Outlook)
+# OlkComboBox.Clear method (Outlook)
 
 Removes all objects from the list in the combo box.
 
@@ -21,7 +21,7 @@ Removes all objects from the list in the combo box.
 
 _expression_. `Clear`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: NoteItem.PrintOut Method (Outlook)
+title: NoteItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1497
 f1_keywords:
 - vbaol11.chm1497
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.PrintOut Method (Outlook)
+# NoteItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 
@@ -21,7 +21,7 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
 _expression_. `PrintOut`
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## See also

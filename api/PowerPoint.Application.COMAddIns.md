@@ -1,5 +1,5 @@
 ---
-title: Application.COMAddIns Property (PowerPoint)
+title: Application.COMAddIns property (PowerPoint)
 keywords: vbapp10.chm502036
 f1_keywords:
 - vbapp10.chm502036
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.COMAddIns Property (PowerPoint)
+# Application.COMAddIns property (PowerPoint)
 
 Returns a reference to the Component Object Model (COM) add-ins currently loaded in Microsoft PowerPoint. These add-ins are listed on the  **Add-Ins** tab in the **PowerPoint Options** dialog box. Read-only.
 
 
 ## Syntax
 
- _expression_. `COMAddIns`
+_expression_. `COMAddIns`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

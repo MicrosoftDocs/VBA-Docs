@@ -1,5 +1,5 @@
 ---
-title: OlkCategory Object (Outlook)
+title: OlkCategory object (Outlook)
 keywords: vbaol11.chm1000460
 f1_keywords:
 - vbaol11.chm1000460
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory Object (Outlook)
+# OlkCategory object (Outlook)
 
 A control that displays the selected categories. 
 
@@ -68,6 +68,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Adds a file to the list of recently used files.
 
 ## Syntax
 
-_expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
 _expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
 

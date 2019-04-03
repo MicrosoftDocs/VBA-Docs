@@ -1,5 +1,5 @@
 ---
-title: Items.Add Method (Outlook)
+title: Items.Add method (Outlook)
 keywords: vbaol11.chm61
 f1_keywords:
 - vbaol11.chm61
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Items.Add Method (Outlook)
+# Items.Add method (Outlook)
 
 Creates a new Outlook item in the  **[Items](Outlook.Items.md)** collection for the folder.
 
 
 ## Syntax
 
-_expression_. `Add` `_Type_`
+_expression_.**Add** `_Type_`
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Parameters

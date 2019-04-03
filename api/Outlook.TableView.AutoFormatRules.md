@@ -1,5 +1,5 @@
 ---
-title: TableView.AutoFormatRules Property (Outlook)
+title: TableView.AutoFormatRules property (Outlook)
 keywords: vbaol11.chm2537
 f1_keywords:
 - vbaol11.chm2537
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.AutoFormatRules Property (Outlook)
+# TableView.AutoFormatRules property (Outlook)
 
 Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that represents the set of formatting rules applicable to the **[TableView](Outlook.TableView.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that repres
 
 _expression_. `AutoFormatRules`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## See also

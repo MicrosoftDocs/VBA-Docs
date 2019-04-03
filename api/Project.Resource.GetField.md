@@ -1,5 +1,5 @@
 ---
-title: Resource.GetField Method (Project)
+title: Resource.GetField method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.GetField
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.GetField Method (Project)
+# Resource.GetField method (Project)
 
 Returns the value of the specified resource custom field.
 
 
 ## Syntax
 
- _expression_. `GetField`( `_FieldID_` )
+_expression_. `GetField`( `_FieldID_` )
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.NewMailEx Event (Outlook)
+title: Application.NewMailEx event (Outlook)
 keywords: vbaol11.chm438
 f1_keywords:
 - vbaol11.chm438
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.NewMailEx Event (Outlook)
+# Application.NewMailEx event (Outlook)
 
 Occurs when a new item is received in the Inbox.
 
@@ -21,7 +21,7 @@ Occurs when a new item is received in the Inbox.
 
 _expression_. `NewMailEx`( `_EntryIDCollection_` )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.MemberCount Property (Outlook)
+title: DistListItem.MemberCount property (Outlook)
 keywords: vbaol11.chm1149
 f1_keywords:
 - vbaol11.chm1149
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.MemberCount Property (Outlook)
+# DistListItem.MemberCount property (Outlook)
 
 Returns a  **Long** indicating the number of members in a distribution list. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the number of members in a distribution list. Rea
 
 _expression_. `MemberCount`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

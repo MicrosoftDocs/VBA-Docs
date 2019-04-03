@@ -16,9 +16,9 @@ Gets the name of the layer at the specified index in the drawing open in Microso
 
 ## Syntax
 
- _expression_. **LayerName**(**_LayerIndex_**)
+ _expression_.**LayerName**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

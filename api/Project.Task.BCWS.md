@@ -1,5 +1,5 @@
 ---
-title: Task.BCWS Property (Project)
+title: Task.BCWS property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.BCWS
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.BCWS Property (Project)
+# Task.BCWS property (Project)
 
 Gets the budgeted cost of work scheduled for the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BCWS`
+_expression_. `BCWS`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

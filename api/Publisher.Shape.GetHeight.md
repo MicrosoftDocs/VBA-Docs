@@ -1,5 +1,5 @@
 ---
-title: Shape.GetHeight Method (Publisher)
+title: Shape.GetHeight method (Publisher)
 keywords: vbapb10.chm2228248
 f1_keywords:
 - vbapb10.chm2228248
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.GetHeight Method (Publisher)
+# Shape.GetHeight method (Publisher)
 
 Returns the height of the shape or shape range as a  **Single** in the specified units.
 
 
 ## Syntax
 
- _expression_. **GetHeight**(**_Unit_**)
+ _expression_.**GetHeight**(**_Unit_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

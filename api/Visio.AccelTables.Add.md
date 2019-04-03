@@ -1,5 +1,5 @@
 ---
-title: AccelTables.Add Method (Visio)
+title: AccelTables.Add method (Visio)
 keywords: vis_sdr.chm14816005
 f1_keywords:
 - vis_sdr.chm14816005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AccelTables.Add Method (Visio)
+# AccelTables.Add method (Visio)
 
 Adds a new object to a collection.
 
 
 ## Syntax
 
- _expression_. `Add`
+ _expression_.**Add**
 
  _expression_ A variable that represents an [AccelTables](./Visio.AccelTables.md) collection.
 

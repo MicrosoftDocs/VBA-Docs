@@ -1,5 +1,5 @@
 ---
-title: Application.GetCacheStatusForProject Property (Project)
+title: Application.GetCacheStatusForProject property (Project)
 ms.prod: project-server
 ms.assetid: 71ab8ee0-83fc-c80f-3583-ce66b167d044
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Application.GetCacheStatusForProject Property (Project)
+# Application.GetCacheStatusForProject property (Project)
 Gets the state of a specified job that the active cache in Project Professional sends to the Project Server Queue System. Read-only  **PjCacheJobState**.
 
 ## Syntax
 
- _expression_. `GetCacheStatusForProject`
+_expression_. `GetCacheStatusForProject`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

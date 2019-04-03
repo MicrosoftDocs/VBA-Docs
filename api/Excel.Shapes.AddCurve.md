@@ -21,7 +21,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents a Bézier curve in
 
 _expression_. `AddCurve`( `_SafeArrayOfPoints_` )
 
-_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -39,7 +39,7 @@ Shape
 
 ## Example
 
-The following example adds a two-segment Bézier curve to  `myDocument`.
+The following example adds a two-segment Bézier curve to  _myDocument_.
 
 
 ```vb

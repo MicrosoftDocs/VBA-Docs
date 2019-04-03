@@ -1,5 +1,5 @@
 ---
-title: Filter.Delete Method (Project)
+title: Filter.Delete method (Project)
 keywords: vbapj.chm132243
 f1_keywords:
 - vbapj.chm132243
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Filter.Delete Method (Project)
+# Filter.Delete method (Project)
 
 Deletes the  **Filter** object from a **Filters** collection.
 

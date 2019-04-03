@@ -1,5 +1,5 @@
 ---
-title: Shape.IsOpenForTextEdit Property (Visio)
+title: Shape.IsOpenForTextEdit property (Visio)
 keywords: vis_sdr.chm11214680
 f1_keywords:
 - vis_sdr.chm11214680
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.IsOpenForTextEdit Property (Visio)
+# Shape.IsOpenForTextEdit property (Visio)
 
 Indicates whether a shape is currently open for interactive text editing. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsOpenForTextEdit`
+_expression_. `IsOpenForTextEdit`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

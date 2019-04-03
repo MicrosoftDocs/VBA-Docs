@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AddToCatalogMergeArea Method (Publisher)
+title: ShapeRange.AddToCatalogMergeArea method (Publisher)
 keywords: vbapb10.chm2294048
 f1_keywords:
 - vbapb10.chm2294048
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.AddToCatalogMergeArea Method (Publisher)
+# ShapeRange.AddToCatalogMergeArea method (Publisher)
 
 Adds the specified shape or shapes to the publication page's catalog merge area.
 
 
 ## Syntax
 
- _expression_. **AddToCatalogMergeArea**
+ _expression_.**AddToCatalogMergeArea**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

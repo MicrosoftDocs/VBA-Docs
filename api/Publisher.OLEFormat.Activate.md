@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Activate Method (Publisher)
+title: OLEFormat.Activate method (Publisher)
 keywords: vbapb10.chm4456454
 f1_keywords:
 - vbapb10.chm4456454
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.Activate Method (Publisher)
+# OLEFormat.Activate method (Publisher)
 
 Activates a window or OLE object.
 
 
 ## Syntax
 
- _expression_. **Activate**
+ _expression_.**Activate**
 
  _expression_ A variable that represents an  **OLEFormat** object.
 

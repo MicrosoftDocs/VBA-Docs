@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word opens emai
 
 ## Syntax
 
- _expression_. `OpenAttachmentsInFullScreen`
+_expression_. `OpenAttachmentsInFullScreen`
 
  _expression_ An expression that returns an [Application](./Word.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Visible Property (Visio)
+title: Application.Visible property (Visio)
 keywords: vis_sdr.chm10014650
 f1_keywords:
 - vis_sdr.chm10014650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Visible Property (Visio)
+# Application.Visible property (Visio)
 
 Determines whether an object is visible. Read/write.
 

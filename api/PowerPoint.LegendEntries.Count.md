@@ -1,5 +1,5 @@
 ---
-title: LegendEntries.Count Property (PowerPoint)
+title: LegendEntries.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntries.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntries.Count Property (PowerPoint)
+# LegendEntries.Count property (PowerPoint)
 
 Returns the number of objects in the collection. Read-only  **Long**.
 

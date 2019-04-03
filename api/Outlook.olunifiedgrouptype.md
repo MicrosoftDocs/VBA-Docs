@@ -1,5 +1,5 @@
 ---
-title: OlUnifiedGroupType Enumeration (Outlook)
+title: OlUnifiedGroupType enumeration (Outlook)
 keywords: vbaol11.chm3627
 f1_keywords:
 - vbaol11.chm3627
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# OlUnifiedGroupType Enumeration (Outlook)
+# OlUnifiedGroupType enumeration (Outlook)
 
 Specifies the group type as public or private for the [CreateUnifiedGroup](Outlook.store.createunifiedgroup.md) method.
 

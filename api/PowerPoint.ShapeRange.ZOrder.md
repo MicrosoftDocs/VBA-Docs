@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ZOrder Method (PowerPoint)
+title: ShapeRange.ZOrder method (PowerPoint)
 keywords: vbapp10.chm548014
 f1_keywords:
 - vbapp10.chm548014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ZOrder Method (PowerPoint)
+# ShapeRange.ZOrder method (PowerPoint)
 
 Moves the specified shape range in front of or behind other shapes in the collection (that is, changes the shape range's position in the z-order).
 
 
 ## Syntax
 
- _expression_. `ZOrder`( `_ZOrderCmd_` )
+_expression_. `ZOrder`( `_ZOrderCmd_` )
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

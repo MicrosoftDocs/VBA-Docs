@@ -1,5 +1,5 @@
 ---
-title: WebOptions.EmailAsImg Property (Publisher)
+title: WebOptions.EmailAsImg property (Publisher)
 keywords: vbapb10.chm8257545
 f1_keywords:
 - vbapb10.chm8257545
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebOptions.EmailAsImg Property (Publisher)
+# WebOptions.EmailAsImg property (Publisher)
 
  **True** to send the entire publication page as a single JPEG image. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **EmailAsImg**
+ _expression_.**EmailAsImg**
 
  _expression_ A variable that represents an  **WebOptions** object.
 

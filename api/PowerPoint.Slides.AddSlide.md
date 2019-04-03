@@ -1,5 +1,5 @@
 ---
-title: Slides.AddSlide Method (PowerPoint)
+title: Slides.AddSlide method (PowerPoint)
 keywords: vbapp10.chm530009
 f1_keywords:
 - vbapp10.chm530009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slides.AddSlide Method (PowerPoint)
+# Slides.AddSlide method (PowerPoint)
 
 Creates a new slide, adds it to the  **[Slides](PowerPoint.Slides.md)** collection, and returns the slide.
 
 
 ## Syntax
 
- _expression_. `AddSlide`( `_Index_`, `_pCustomLayout_` )
+_expression_. `AddSlide`( `_Index_`, `_pCustomLayout_` )
 
  _expression_ An expression that returns a [Slides](./PowerPoint.Slides.md) object.
 

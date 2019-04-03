@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.NamedSlideShows Property (PowerPoint)
+title: SlideShowSettings.NamedSlideShows property (PowerPoint)
 keywords: vbapp10.chm514004
 f1_keywords:
 - vbapp10.chm514004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.NamedSlideShows Property (PowerPoint)
+# SlideShowSettings.NamedSlideShows property (PowerPoint)
 
 Returns a  **[NamedSlideShows](PowerPoint.NamedSlideShows.md)** collection that represents all the named slide shows (custom slide shows) in the specified presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `NamedSlideShows`
+_expression_. `NamedSlideShows`
 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 

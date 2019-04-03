@@ -16,9 +16,9 @@ Displays the  **Properties and Settings** dialog box at the specified screen coo
 
 ## Syntax
 
- _expression_. **DisplayPropertyDialog**(**_ScreenX_**,  **_ScreenY_**)
+ _expression_.**DisplayPropertyDialog**(**_ScreenX_**,  **_ScreenY_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

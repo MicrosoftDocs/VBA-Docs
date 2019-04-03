@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Layout Property (PowerPoint)
+title: SlideRange.Layout property (PowerPoint)
 keywords: vbapp10.chm532014
 f1_keywords:
 - vbapp10.chm532014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Layout Property (PowerPoint)
+# SlideRange.Layout property (PowerPoint)
 
 Returns or sets a  **PpSlideLayout** constant that represents the slide layout. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.Ligature Property (Publisher)
+title: Font.Ligature property (Publisher)
 keywords: vbapb10.chm5374007
 f1_keywords:
 - vbapb10.chm5374007
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Ligature Property (Publisher)
+# Font.Ligature property (Publisher)
 
 Returns or sets a  **[pbLigaturePresetType](Publisher.pbligaturepresettype.md)** constant that represents the state of the **Ligature** property on the characters in a text range. The **Ligature** property enables embellishments to the characters, often in the form of bigger and more flamboyant serifs. Read/write.
 
 
 ## Syntax
 
- _expression_. **Ligature**
+ _expression_.**Ligature**
 
  _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: MailItem.AttachmentRead Event (Outlook)
+title: MailItem.AttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.AttachmentRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.AttachmentRead Event (Outlook)
+# MailItem.AttachmentRead event (Outlook)
 
 Occurs when an attachment in an instance of the parent object has been opened for reading.
 
@@ -18,7 +18,7 @@ Occurs when an attachment in an instance of the parent object has been opened fo
 
 _expression_. `AttachmentRead`( `_Attachment_` )
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters

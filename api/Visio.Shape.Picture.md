@@ -1,5 +1,5 @@
 ---
-title: Shape.Picture Property (Visio)
+title: Shape.Picture property (Visio)
 keywords: vis_sdr.chm11250765
 f1_keywords:
 - vis_sdr.chm11250765
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Picture Property (Visio)
+# Shape.Picture property (Visio)
 
 Returns a picture that represents an enhanced metafile (EMF) contained in a master, shape, selection, or page. Read-only.
 
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

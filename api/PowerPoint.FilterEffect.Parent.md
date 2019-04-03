@@ -1,5 +1,5 @@
 ---
-title: FilterEffect.Parent Property (PowerPoint)
+title: FilterEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm669002
 f1_keywords:
 - vbapp10.chm669002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FilterEffect.Parent Property (PowerPoint)
+# FilterEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

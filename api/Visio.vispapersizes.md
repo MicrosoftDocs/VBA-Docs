@@ -1,5 +1,5 @@
 ---
-title: VisPaperSizes Enumeration (Visio)
+title: VisPaperSizes enumeration (Visio)
 keywords: vis_sdr.chm70340
 f1_keywords:
 - vis_sdr.chm70340
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisPaperSizes Enumeration (Visio)
+# VisPaperSizes enumeration (Visio)
 
 Flags passed to or returned by the  **Document.PaperSize** property.
 

@@ -1,5 +1,5 @@
 ---
-title: VisUIMenuAnimation Enumeration (Visio)
+title: VisUIMenuAnimation enumeration (Visio)
 keywords: vis_sdr.chm70280
 f1_keywords:
 - vis_sdr.chm70280
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUIMenuAnimation Enumeration (Visio)
+# VisUIMenuAnimation enumeration (Visio)
 
 Values used in conjunction with the  **UIObject.MenuAnimationStyle** property.
 

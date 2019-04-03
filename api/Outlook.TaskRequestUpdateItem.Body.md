@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Body Property (Outlook)
+title: TaskRequestUpdateItem.Body property (Outlook)
 keywords: vbaol11.chm1924
 f1_keywords:
 - vbaol11.chm1924
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Body Property (Outlook)
+# TaskRequestUpdateItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Body`
+_expression_. `Body`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## See also

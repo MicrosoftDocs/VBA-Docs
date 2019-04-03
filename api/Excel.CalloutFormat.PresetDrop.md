@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[CalloutFormat](Excel.CalloutFormat.
 
 ## Example
 
-This example specifies that the callout line attach to the top of the text bounding box for shape one on  `myDocument`. For the example to work, shape one must be a callout.
+This example specifies that the callout line attach to the top of the text bounding box for shape one on  _myDocument_. For the example to work, shape one must be a callout.
 
 
 ```vb
@@ -42,7 +42,7 @@ Set myDocument = Worksheets(1)
 myDocument.Shapes(1).Callout.PresetDrop msoCalloutDropTop
 ```
 
-This example toggles between two preset drops for shape one on  `myDocument`. For the example to work, shape one must be a callout.
+This example toggles between two preset drops for shape one on  _myDocument_. For the example to work, shape one must be a callout.
 
 
 

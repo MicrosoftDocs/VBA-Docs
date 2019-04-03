@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisGroup Property (PowerPoint)
+title: Axis.AxisGroup property (PowerPoint)
 keywords: vbapp10.chm682002
 f1_keywords:
 - vbapp10.chm682002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.AxisGroup Property (PowerPoint)
+# Axis.AxisGroup property (PowerPoint)
 
-Returns the type of axis group. Read-only  **[xlAxisGroup](PowerPoint.XlAxisGroup.md)**.
+Returns the type of axis group. Read-only  **[XlAxisGroup](PowerPoint.XlAxisGroup.md)**.
 
 
 ## Syntax
 
- _expression_. `AxisGroup`
+_expression_. `AxisGroup`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

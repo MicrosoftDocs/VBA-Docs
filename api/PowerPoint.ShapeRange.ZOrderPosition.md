@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ZOrderPosition Property (PowerPoint)
+title: ShapeRange.ZOrderPosition property (PowerPoint)
 keywords: vbapp10.chm548043
 f1_keywords:
 - vbapp10.chm548043
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ZOrderPosition Property (PowerPoint)
+# ShapeRange.ZOrderPosition property (PowerPoint)
 
 Returns the position of the specified shape in the z-order. Read-only.
 
 
 ## Syntax
 
- _expression_. `ZOrderPosition`
+_expression_. `ZOrderPosition`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
@@ -42,7 +42,7 @@ Whenever you add a new shape to a collection, it is added to the front of the z-
 
 ## Example
 
-This example adds an oval to  `myDocument` and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
+This example adds an oval to  _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
 
 
 ```vb

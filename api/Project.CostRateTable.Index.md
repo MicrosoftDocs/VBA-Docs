@@ -1,5 +1,5 @@
 ---
-title: CostRateTable.Index Property (Project)
+title: CostRateTable.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTable.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# CostRateTable.Index Property (Project)
+# CostRateTable.Index property (Project)
 
 Gets the index of a  **CostRateTable** object in the containing **CostRateTables** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [CostRateTable](./Project.CostRateTable.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Windows Object (Visio)
+title: Windows object (Visio)
 keywords: vis_sdr.chm10310
 f1_keywords:
 - vis_sdr.chm10310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows Object (Visio)
+# Windows object (Visio)
 
  Includes a **Window** object for a window that is open in the application.
 

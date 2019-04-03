@@ -1,5 +1,5 @@
 ---
-title: NavigationFolder Object (Outlook)
+title: NavigationFolder object (Outlook)
 keywords: vbaol11.chm3201
 f1_keywords:
 - vbaol11.chm3201
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolder Object (Outlook)
+# NavigationFolder object (Outlook)
 
 Represents a navigation folder displayed in a navigation group of a navigation module in the navigation pane.
 
@@ -48,6 +48,6 @@ Use the  **[IsRemovable](Outlook.NavigationFolder.IsRemovable.md)** property to 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

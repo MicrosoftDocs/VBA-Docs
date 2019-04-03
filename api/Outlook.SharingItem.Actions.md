@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Actions Property (Outlook)
+title: SharingItem.Actions property (Outlook)
 keywords: vbaol11.chm597
 f1_keywords:
 - vbaol11.chm597
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Actions Property (Outlook)
+# SharingItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

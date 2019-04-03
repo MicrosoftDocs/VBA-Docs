@@ -21,7 +21,7 @@ Converts half-width (single-byte) letters within a character string to full-widt
 
 _expression_. `Dbcs`( `_Arg1_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

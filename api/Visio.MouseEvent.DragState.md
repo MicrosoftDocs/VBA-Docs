@@ -1,5 +1,5 @@
 ---
-title: MouseEvent.DragState Property (Visio)
+title: MouseEvent.DragState property (Visio)
 keywords: vis_sdr.chm17160265
 f1_keywords:
 - vis_sdr.chm17160265
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MouseEvent.DragState Property (Visio)
+# MouseEvent.DragState property (Visio)
 
 Returns information about the state of mouse movement as it relates to dragging and dropping a shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `DragState`
+_expression_. `DragState`
 
  _expression_ An expression that returns a [MouseEvent](./Visio.MouseEvent.md) object.
 

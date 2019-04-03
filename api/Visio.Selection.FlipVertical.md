@@ -1,5 +1,5 @@
 ---
-title: Selection.FlipVertical Method (Visio)
+title: Selection.FlipVertical method (Visio)
 keywords: vis_sdr.chm11116285
 f1_keywords:
 - vis_sdr.chm11116285
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.FlipVertical Method (Visio)
+# Selection.FlipVertical method (Visio)
 
 Flips an object vertically.
 
 
 ## Syntax
 
- _expression_. `FlipVertical`
+_expression_. `FlipVertical`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

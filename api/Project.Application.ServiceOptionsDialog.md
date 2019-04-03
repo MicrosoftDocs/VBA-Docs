@@ -1,5 +1,5 @@
 ---
-title: Application.ServiceOptionsDialog Method (Project)
+title: Application.ServiceOptionsDialog method (Project)
 keywords: vbapj.chm2370
 f1_keywords:
 - vbapj.chm2370
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ServiceOptionsDialog Method (Project)
+# Application.ServiceOptionsDialog method (Project)
 
 Opens the  **Service Options** dialog box.
 
 
 ## Syntax
 
- _expression_. `ServiceOptionsDialog`
+_expression_. `ServiceOptionsDialog`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

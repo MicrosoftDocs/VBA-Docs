@@ -1,5 +1,5 @@
 ---
-title: PjServerPage Enumeration (Project)
+title: PjServerPage enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjServerPage
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjServerPage Enumeration (Project)
+# PjServerPage enumeration (Project)
 
 Contains constants that specify the page to show in Project Web App or in a project site.
 

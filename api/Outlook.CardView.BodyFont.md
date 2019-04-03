@@ -1,5 +1,5 @@
 ---
-title: CardView.BodyFont Property (Outlook)
+title: CardView.BodyFont property (Outlook)
 keywords: vbaol11.chm2604
 f1_keywords:
 - vbaol11.chm2604
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.BodyFont Property (Outlook)
+# CardView.BodyFont property (Outlook)
 
 Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the body of each card in the **[CardView](Outlook.CardView.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
 _expression_. `BodyFont`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## See also

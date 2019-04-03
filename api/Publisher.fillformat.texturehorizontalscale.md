@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureHorizontalScale Property (Publisher)
+title: FillFormat.TextureHorizontalScale property (Publisher)
 keywords: vbapb10.chm2359576
 f1_keywords:
 - vbapb10.chm2359576
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureHorizontalScale Property (Publisher)
+# FillFormat.TextureHorizontalScale property (Publisher)
 
 Returns or sets a  **Single** that specifies the horizontal scaling factor for the texture fill. Read/write.
 
 
 ## Syntax
 
- _expression_. **TextureHorizontalScale**
+ _expression_.**TextureHorizontalScale**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

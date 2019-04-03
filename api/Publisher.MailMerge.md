@@ -1,5 +1,5 @@
 ---
-title: MailMerge Object (Publisher)
+title: MailMerge object (Publisher)
 keywords: vbapb10.chm6291455
 f1_keywords:
 - vbapb10.chm6291455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMerge Object (Publisher)
+# MailMerge object (Publisher)
 
 Represents the mail merge and catalog merge functionality in Microsoft Publisher.
 

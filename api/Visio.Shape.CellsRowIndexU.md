@@ -1,5 +1,5 @@
 ---
-title: Shape.CellsRowIndexU Property (Visio)
+title: Shape.CellsRowIndexU property (Visio)
 keywords: vis_sdr.chm11251950
 f1_keywords:
 - vis_sdr.chm11251950
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CellsRowIndexU Property (Visio)
+# Shape.CellsRowIndexU property (Visio)
 
 Returns the index of a row to which a cell belongs. Read-only.
 
 
 ## Syntax
 
- _expression_. `CellsRowIndexU`( `_localeIndependentCellName_` )
+_expression_. `CellsRowIndexU`( `_localeIndependentCellName_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

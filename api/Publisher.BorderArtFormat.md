@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat Object (Publisher)
+title: BorderArtFormat object (Publisher)
 keywords: vbapb10.chm7667711
 f1_keywords:
 - vbapb10.chm7667711
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BorderArtFormat Object (Publisher)
+# BorderArtFormat object (Publisher)
 
 Represents the formatting of the BorderArt applied to the specified shape.
  

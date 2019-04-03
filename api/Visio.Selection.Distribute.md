@@ -1,5 +1,5 @@
 ---
-title: Selection.Distribute Method (Visio)
+title: Selection.Distribute method (Visio)
 keywords: vis_sdr.chm11151420
 f1_keywords:
 - vis_sdr.chm11151420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Distribute Method (Visio)
+# Selection.Distribute method (Visio)
 
 Distributes three or more selected shapes at regular intervals on the drawing page. The order of selection is irrelevant.
 
 
 ## Syntax
 
- _expression_. `Distribute`( `_Distribute_` , `_GlueToGuide_` )
+_expression_. `Distribute`( `_Distribute_` , `_GlueToGuide_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

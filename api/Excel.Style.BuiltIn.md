@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `BuiltIn`
 
-_expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: TabStops.Add Method (Publisher)
+title: TabStops.Add method (Publisher)
 keywords: vbapb10.chm5570565
 f1_keywords:
 - vbapb10.chm5570565
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TabStops.Add Method (Publisher)
+# TabStops.Add method (Publisher)
 
 Adds a new tab stop to the specified  **TabStops** collection.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Position_**,  **_Alignment_**,  **_Leader_**)
+ _expression_.**Add**(**_Position_**,  **_Alignment_**,  **_Leader_**)
 
  _expression_ A variable that represents a  **TabStops** object.
 

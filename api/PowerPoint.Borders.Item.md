@@ -1,5 +1,5 @@
 ---
-title: Borders.Item Method (PowerPoint)
+title: Borders.Item method (PowerPoint)
 keywords: vbapp10.chm629003
 f1_keywords:
 - vbapp10.chm629003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Borders.Item Method (PowerPoint)
+# Borders.Item method (PowerPoint)
 
 Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object for the specified border from the **Borders** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_BorderType_` )
+_expression_. `Item`( `_BorderType_` )
 
 _expression_ A variable that represents a [Borders](./PowerPoint.Borders.md) object.
 

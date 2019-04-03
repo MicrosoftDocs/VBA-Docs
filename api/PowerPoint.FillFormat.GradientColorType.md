@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientColorType Property (PowerPoint)
+title: FillFormat.GradientColorType property (PowerPoint)
 keywords: vbapp10.chm552013
 f1_keywords:
 - vbapp10.chm552013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientColorType Property (PowerPoint)
+# FillFormat.GradientColorType property (PowerPoint)
 
 Returns the gradient color type for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. `GradientColorType`
+_expression_. `GradientColorType`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -45,7 +45,7 @@ The value returned by the  **GradientColorType** property can be one of these **
 
 ## Example
 
-This example changes the fill for all shapes in  `myDocument` that have a two-color gradient fill to a preset gradient fill.
+This example changes the fill for all shapes in  _myDocument_ that have a two-color gradient fill to a preset gradient fill.
 
 
 ```vb

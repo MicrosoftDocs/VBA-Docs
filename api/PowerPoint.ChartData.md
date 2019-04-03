@@ -1,5 +1,5 @@
 ---
-title: ChartData Object (PowerPoint)
+title: ChartData object (PowerPoint)
 keywords: vbapp10.chm689000
 f1_keywords:
 - vbapp10.chm689000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartData Object (PowerPoint)
+# ChartData object (PowerPoint)
 
 Represents access to the linked or embedded data associated with a chart.
 
@@ -65,6 +65,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

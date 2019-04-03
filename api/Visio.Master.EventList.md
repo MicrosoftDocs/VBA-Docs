@@ -1,5 +1,5 @@
 ---
-title: Master.EventList Property (Visio)
+title: Master.EventList property (Visio)
 keywords: vis_sdr.chm10713480
 f1_keywords:
 - vis_sdr.chm10713480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.EventList Property (Visio)
+# Master.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `EventList`
+_expression_. `EventList`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

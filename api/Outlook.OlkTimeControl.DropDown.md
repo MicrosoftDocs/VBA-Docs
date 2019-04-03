@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.DropDown Method (Outlook)
+title: OlkTimeControl.DropDown method (Outlook)
 keywords: vbaol11.chm1000398
 f1_keywords:
 - vbaol11.chm1000398
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.DropDown Method (Outlook)
+# OlkTimeControl.DropDown method (Outlook)
 
 Expands the time drop-down list of the time control.
 
@@ -21,7 +21,7 @@ Expands the time drop-down list of the time control.
 
 _expression_. `DropDown`
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## See also

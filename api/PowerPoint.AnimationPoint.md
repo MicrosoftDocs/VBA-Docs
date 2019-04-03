@@ -1,5 +1,5 @@
 ---
-title: AnimationPoint Object (PowerPoint)
+title: AnimationPoint object (PowerPoint)
 keywords: vbapp10.chm664000
 f1_keywords:
 - vbapp10.chm664000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoint Object (PowerPoint)
+# AnimationPoint object (PowerPoint)
 
 Represents an individual animation point for an animation behavior. The  **AnimationPoint** object is a member of the **[AnimationPoints](PowerPoint.AnimationPoints.md)** collection. The **AnimationPoints** collection contains all the animation points for an animation behavior.
 

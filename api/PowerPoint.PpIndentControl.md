@@ -1,5 +1,5 @@
 ---
-title: PpIndentControl Enumeration (PowerPoint)
+title: PpIndentControl enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpIndentControl
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpIndentControl Enumeration (PowerPoint)
+# PpIndentControl enumeration (PowerPoint)
 
 Not used in PowerPoint.
 

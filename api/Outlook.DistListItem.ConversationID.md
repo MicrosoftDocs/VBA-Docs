@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ConversationID Property (Outlook)
+title: DistListItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3510
 f1_keywords:
 - vbaol11.chm3510
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ConversationID Property (Outlook)
+# DistListItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[DistListItem](Outlook.DistListItem.md)** object belongs to. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conver
 
 _expression_. `ConversationID`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

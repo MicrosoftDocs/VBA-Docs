@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Forward`
+_expression_. `Forward`
 
  _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 

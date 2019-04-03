@@ -1,5 +1,5 @@
 ---
-title: Window.Activate Method (Visio)
+title: Window.Activate method (Visio)
 keywords: vis_sdr.chm11616000
 f1_keywords:
 - vis_sdr.chm11616000
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Activate Method (Visio)
+# Window.Activate method (Visio)
 
 Activates a window.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
  _expression_ An expression that returns a [Window](./Visio.Window.md) object.
 

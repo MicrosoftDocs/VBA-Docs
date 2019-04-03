@@ -1,5 +1,5 @@
 ---
-title: Presentation.CommandBars Property (PowerPoint)
+title: Presentation.CommandBars property (PowerPoint)
 keywords: vbapp10.chm583051
 f1_keywords:
 - vbapp10.chm583051
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.CommandBars Property (PowerPoint)
+# Presentation.CommandBars property (PowerPoint)
 
 Returns a  **CommandBars** collection that represents the merged command bar set from the host container application and Microsoft PowerPoint. This property returns a valid object only when the container is a DocObject server, like Microsoft Binder, and PowerPoint is acting as an OLE server. Read-only.
 
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

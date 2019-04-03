@@ -1,5 +1,5 @@
 ---
-title: Project.MonthLabelDisplay Property (Project)
+title: Project.MonthLabelDisplay property (Project)
 keywords: vbapj.chm132414
 f1_keywords:
 - vbapj.chm132414
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.MonthLabelDisplay Property (Project)
+# Project.MonthLabelDisplay property (Project)
 
 Gets or sets the abbreviation for "month" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `MonthLabelDisplay`
+_expression_. `MonthLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

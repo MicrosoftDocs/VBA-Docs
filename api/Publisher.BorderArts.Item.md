@@ -1,5 +1,5 @@
 ---
-title: BorderArts.Item Method (Publisher)
+title: BorderArts.Item method (Publisher)
 keywords: vbapb10.chm7733248
 f1_keywords:
 - vbapb10.chm7733248
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# BorderArts.Item Method (Publisher)
+# BorderArts.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **BorderArts** object.
 

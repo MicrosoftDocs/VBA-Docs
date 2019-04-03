@@ -1,5 +1,5 @@
 ---
-title: Table.Application Property (Project)
+title: Table.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.Table.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Application Property (Project)
+# Table.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

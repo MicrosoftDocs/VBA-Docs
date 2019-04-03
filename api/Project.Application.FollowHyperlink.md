@@ -1,5 +1,5 @@
 ---
-title: Application.FollowHyperlink Method (Project)
+title: Application.FollowHyperlink method (Project)
 keywords: vbapj.chm1307
 f1_keywords:
 - vbapj.chm1307
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FollowHyperlink Method (Project)
+# Application.FollowHyperlink method (Project)
 
 Opens the document specified by a hyperlink address.
 
 
 ## Syntax
 
- _expression_. `FollowHyperlink`( `_Address_`, `_SubAddress_`, `_AddHistory_`, `_NewWindow_` )
+_expression_. `FollowHyperlink`( `_Address_`, `_SubAddress_`, `_AddHistory_`, `_NewWindow_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

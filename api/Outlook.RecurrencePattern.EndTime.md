@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.EndTime Property (Outlook)
+title: RecurrencePattern.EndTime property (Outlook)
 keywords: vbaol11.chm276
 f1_keywords:
 - vbaol11.chm276
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.EndTime Property (Outlook)
+# RecurrencePattern.EndTime property (Outlook)
 
 Returns or sets a  **Date** indicating the end time for a recurrence pattern. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the end time for a recurrence pattern. Re
 
 _expression_. `EndTime`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

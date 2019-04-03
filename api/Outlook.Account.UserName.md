@@ -1,5 +1,5 @@
 ---
-title: Account.UserName Property (Outlook)
+title: Account.UserName property (Outlook)
 keywords: vbaol11.chm742
 f1_keywords:
 - vbaol11.chm742
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.UserName Property (Outlook)
+# Account.UserName property (Outlook)
 
 Returns a  **String** representing the user name for the **[Account](Outlook.Account.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the user name for the **[Account](Outlook.Acc
 
 _expression_. `UserName`
 
-_expression_ A variable that represents an [Account](./Outlook.Account.md) object.
+_expression_ A variable that represents an [Account](Outlook.Account.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: VisRowTags Enumeration (Visio)
+title: VisRowTags enumeration (Visio)
 keywords: vis_sdr.chm70025
 f1_keywords:
 - vis_sdr.chm70025
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisRowTags Enumeration (Visio)
+# VisRowTags enumeration (Visio)
 
 Row-type constants used in conjunction with the  **Shape.RowType** property and similar properties.
 

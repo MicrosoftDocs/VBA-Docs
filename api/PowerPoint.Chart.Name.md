@@ -1,5 +1,5 @@
 ---
-title: Chart.Name Property (PowerPoint)
+title: Chart.Name property (PowerPoint)
 keywords: vbapp10.chm684036
 f1_keywords:
 - vbapp10.chm684036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Name Property (PowerPoint)
+# Chart.Name property (PowerPoint)
 
 Read/write
 

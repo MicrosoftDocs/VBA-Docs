@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Regroup Method (PowerPoint)
+title: ShapeRange.Regroup method (PowerPoint)
 keywords: vbapp10.chm548062
 f1_keywords:
 - vbapp10.chm548062
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Regroup Method (PowerPoint)
+# ShapeRange.Regroup method (PowerPoint)
 
 Regroups the group that the specified shape range belonged to previously. Returns the regrouped shapes as a single  **Shape** object.
 
 
 ## Syntax
 
- _expression_. `Regroup`
+_expression_. `Regroup`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

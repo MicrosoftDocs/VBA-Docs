@@ -1,5 +1,5 @@
 ---
-title: Window.MergeID Property (Visio)
+title: Window.MergeID property (Visio)
 keywords: vis_sdr.chm11650720
 f1_keywords:
 - vis_sdr.chm11650720
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.MergeID Property (Visio)
+# Window.MergeID property (Visio)
 
 Specifies the string version of a merged window's globally unique identifier (GUID). Read/write.
 
 
 ## Syntax
 
- _expression_. `MergeID`
+_expression_. `MergeID`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

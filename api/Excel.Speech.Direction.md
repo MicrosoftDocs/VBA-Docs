@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Speech.Direction property (Excel)
 
-Returns or sets the order in which the cells will be spoken. The value of the  **Direction** property is an **[xlSpeakDirection](Excel.XlSpeakDirection.md)** constant. Read/write.
+Returns or sets the order in which the cells will be spoken. The value of the  **Direction** property is an **[XlSpeakDirection](Excel.XlSpeakDirection.md)** constant. Read/write.
 
 
 ## Syntax
 
 _expression_. `Direction`
 
-_expression_ A variable that represents a [Speech](./Excel.Speech.md) object.
+_expression_ A variable that represents a [Speech](Excel.Speech.md) object.
 
 
 ## Remarks

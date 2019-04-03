@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.CreationTime Property (Outlook)
+title: TaskRequestDeclineItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1831
 f1_keywords:
 - vbaol11.chm1831
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.CreationTime Property (Outlook)
+# TaskRequestDeclineItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the creation time for the Outlook item. Read-only
 
 _expression_. `CreationTime`
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks

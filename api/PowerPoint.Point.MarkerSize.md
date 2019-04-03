@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerSize Property (PowerPoint)
+title: Point.MarkerSize property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.MarkerSize
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Point.MarkerSize Property (PowerPoint)
+# Point.MarkerSize property (PowerPoint)
 
 Returns or sets the data-marker size, in points. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerSize`
+_expression_. `MarkerSize`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

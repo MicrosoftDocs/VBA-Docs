@@ -1,5 +1,5 @@
 ---
-title: Assignment.Baseline2Start Property (Project)
+title: Assignment.Baseline2Start property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline2Start
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Baseline2Start Property (Project)
+# Assignment.Baseline2Start property (Project)
 
 Gets or sets the baseline start date of a task  **Assignment**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline2Start`
+_expression_. `Baseline2Start`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Legend.Width Property (PowerPoint)
+title: Legend.Width property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Width
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Legend.Width Property (PowerPoint)
+# Legend.Width property (PowerPoint)
 
 Returns or sets the width, in points, of the object. Read/write  **Double**.
 

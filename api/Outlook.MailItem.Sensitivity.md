@@ -1,5 +1,5 @@
 ---
-title: MailItem.Sensitivity Property (Outlook)
+title: MailItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1315
 f1_keywords:
 - vbaol11.chm1315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Sensitivity Property (Outlook)
+# MailItem.Sensitivity property (Outlook)
 
 Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 _expression_. `Sensitivity`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

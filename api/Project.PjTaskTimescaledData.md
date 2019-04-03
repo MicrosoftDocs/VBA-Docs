@@ -1,5 +1,5 @@
 ---
-title: PjTaskTimescaledData Enumeration (Project)
+title: PjTaskTimescaledData enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTaskTimescaledData
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTaskTimescaledData Enumeration (Project)
+# PjTaskTimescaledData enumeration (Project)
 
 Contains constants that specify the type of field for task timescaled data in the Project database. For more information about working with fields in Project, see the "Fields reference overview" topic in Project Help.
 

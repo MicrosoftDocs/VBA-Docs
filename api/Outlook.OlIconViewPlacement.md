@@ -1,5 +1,5 @@
 ---
-title: OlIconViewPlacement Enumeration (Outlook)
+title: OlIconViewPlacement enumeration (Outlook)
 keywords: vbaol11.chm3125
 f1_keywords:
 - vbaol11.chm3125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlIconViewPlacement Enumeration (Outlook)
+# OlIconViewPlacement enumeration (Outlook)
 
 Indicates how icons are arranged in an  **[IconView](Outlook.IconView.md)** object.
 

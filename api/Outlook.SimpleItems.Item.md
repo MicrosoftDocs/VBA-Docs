@@ -1,5 +1,5 @@
 ---
-title: SimpleItems.Item Method (Outlook)
+title: SimpleItems.Item method (Outlook)
 keywords: vbaol11.chm3398
 f1_keywords:
 - vbaol11.chm3398
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SimpleItems.Item Method (Outlook)
+# SimpleItems.Item method (Outlook)
 
 Returns an item in the  **[SimpleItems](Outlook.SimpleItems.md)** collection.
 
@@ -21,7 +21,7 @@ Returns an item in the  **[SimpleItems](Outlook.SimpleItems.md)** collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [SimpleItems](./Outlook.SimpleItems.md) object.
+_expression_ A variable that represents a [SimpleItems](Outlook.SimpleItems.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Window.ShowGuides Property (Visio)
+title: Window.ShowGuides property (Visio)
 keywords: vis_sdr.chm11614355
 f1_keywords:
 - vis_sdr.chm11614355
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ShowGuides Property (Visio)
+# Window.ShowGuides property (Visio)
 
 Determines whether guides are shown in a window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowGuides`
+_expression_. `ShowGuides`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

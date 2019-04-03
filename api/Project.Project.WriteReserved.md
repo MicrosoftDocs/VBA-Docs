@@ -1,5 +1,5 @@
 ---
-title: Project.WriteReserved Property (Project)
+title: Project.WriteReserved property (Project)
 keywords: vbapj.chm132834
 f1_keywords:
 - vbapj.chm132834
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.WriteReserved Property (Project)
+# Project.WriteReserved property (Project)
 
  **True** if a password is required to open a project for read/write access. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `WriteReserved`
+_expression_. `WriteReserved`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

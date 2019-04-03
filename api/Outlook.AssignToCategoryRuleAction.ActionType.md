@@ -1,5 +1,5 @@
 ---
-title: AssignToCategoryRuleAction.ActionType Property (Outlook)
+title: AssignToCategoryRuleAction.ActionType property (Outlook)
 keywords: vbaol11.chm2268
 f1_keywords:
 - vbaol11.chm2268
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AssignToCategoryRuleAction.ActionType Property (Outlook)
+# AssignToCategoryRuleAction.ActionType property (Outlook)
 
 Returns a constant,  **olRuleActionAssignToCategory**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant,  **olRuleActionAssignToCategory**, from the **[OlRuleActionT
 
 _expression_. `ActionType`
 
-_expression_ A variable that represents an [AssignToCategoryRuleAction](./Outlook.AssignToCategoryRuleAction.md) object.
+_expression_ A variable that represents an [AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md) object.
 
 
 ## Remarks

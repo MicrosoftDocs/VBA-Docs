@@ -1,5 +1,5 @@
 ---
-title: TasksModule Object (Outlook)
+title: TasksModule object (Outlook)
 keywords: vbaol11.chm3196
 f1_keywords:
 - vbaol11.chm3196
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TasksModule Object (Outlook)
+# TasksModule object (Outlook)
 
 Represents the  **Tasks** navigation module in the navigation pane of an explorer.
 
@@ -43,6 +43,6 @@ You can use the  **[Visible](Outlook.TasksModule.Visible.md)** property to deter
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

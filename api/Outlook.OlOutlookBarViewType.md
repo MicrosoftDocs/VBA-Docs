@@ -1,5 +1,5 @@
 ---
-title: OlOutlookBarViewType Enumeration (Outlook)
+title: OlOutlookBarViewType enumeration (Outlook)
 keywords: vbaol11.chm3074
 f1_keywords:
 - vbaol11.chm3074
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlOutlookBarViewType Enumeration (Outlook)
+# OlOutlookBarViewType enumeration (Outlook)
 
 Specifies the type of view that is displayed by an  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object.
 

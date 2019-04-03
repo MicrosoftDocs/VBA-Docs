@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserPicture Method (Publisher)
+title: FillFormat.UserPicture method (Publisher)
 keywords: vbapb10.chm2359319
 f1_keywords:
 - vbapb10.chm2359319
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.UserPicture Method (Publisher)
+# FillFormat.UserPicture method (Publisher)
 
 Fills the specified shape with one large image.
 
 
 ## Syntax
 
- _expression_. **UserPicture**(**_PictureFile_**)
+ _expression_.**UserPicture**(**_PictureFile_**)
 
  _expression_ A variable that represents a  **FillFormat** object.
 

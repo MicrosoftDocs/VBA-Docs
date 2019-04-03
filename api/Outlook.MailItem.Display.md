@@ -1,5 +1,5 @@
 ---
-title: MailItem.Display Method (Outlook)
+title: MailItem.Display method (Outlook)
 keywords: vbaol11.chm1323
 f1_keywords:
 - vbaol11.chm1323
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Display Method (Outlook)
+# MailItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
@@ -21,7 +21,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 _expression_. `Display`( `_Modal_` )
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters

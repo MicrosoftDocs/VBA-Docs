@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides Object (Publisher)
+title: LayoutGuides object (Publisher)
 keywords: vbapb10.chm1179647
 f1_keywords:
 - vbapb10.chm1179647
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LayoutGuides Object (Publisher)
+# LayoutGuides object (Publisher)
 
 Represents the measurement grid that appears superimposed on publication pages as an aid to laying out design elements.
  

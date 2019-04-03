@@ -1,5 +1,5 @@
 ---
-title: PjCompareVersionItems Enumeration (Project)
+title: PjCompareVersionItems enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCompareVersionItems
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCompareVersionItems Enumeration (Project)
+# PjCompareVersionItems enumeration (Project)
 
 Contains constants that specify how to compare items when comparing two project versions.
 

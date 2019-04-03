@@ -1,5 +1,5 @@
 ---
-title: Assignment.Guid Property (Project)
+title: Assignment.Guid property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Guid
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Guid Property (Project)
+# Assignment.Guid property (Project)
 
 Gets the GUID of the assignment. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Guid`
+_expression_. `Guid`
 
  _expression_ An expression that returns an [Assignment](./Project.Assignment.md) object.
 

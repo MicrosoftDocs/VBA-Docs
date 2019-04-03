@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.Color Property (Publisher)
+title: BorderArtFormat.Color property (Publisher)
 keywords: vbapb10.chm7602183
 f1_keywords:
 - vbapb10.chm7602183
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# BorderArtFormat.Color Property (Publisher)
+# BorderArtFormat.Color property (Publisher)
 
 Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the color information for the specified object.
 
 
 ## Syntax
 
- _expression_. **Color**
+ _expression_.**Color**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 

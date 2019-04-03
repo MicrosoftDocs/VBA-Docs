@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableUpdate Method (Project)
+title: Project.DeliverableUpdate method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableUpdate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableUpdate Method (Project)
+# Project.DeliverableUpdate method (Project)
 
 Updates the properties of a deliverable.
 
 
 ## Syntax
 
- _expression_. `DeliverableUpdate`( `_DeliverableGuid_`, `_DeliverableName_`, `_DeliverableStartDate_`, `_DeliverableFinishDate_` )
+_expression_. `DeliverableUpdate`( `_DeliverableGuid_`, `_DeliverableName_`, `_DeliverableStartDate_`, `_DeliverableFinishDate_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

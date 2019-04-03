@@ -1,5 +1,5 @@
 ---
-title: ChartData.Workbook Property (PowerPoint)
+title: ChartData.Workbook property (PowerPoint)
 keywords: vbapp10.chm689001
 f1_keywords:
 - vbapp10.chm689001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartData.Workbook Property (PowerPoint)
+# ChartData.Workbook property (PowerPoint)
 
 Returns the workbook that contains the chart data associated with the chart. Read-only  **Object**.
 
 
 ## Syntax
 
- _expression_. `Workbook`
+_expression_. `Workbook`
 
 _expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)' object.
 

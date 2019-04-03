@@ -1,5 +1,5 @@
 ---
-title: NameSpace.CurrentProfileName Property (Outlook)
+title: NameSpace.CurrentProfileName property (Outlook)
 keywords: vbaol11.chm779
 f1_keywords:
 - vbaol11.chm779
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.CurrentProfileName Property (Outlook)
+# NameSpace.CurrentProfileName property (Outlook)
 
 Returns a  **String** representing the name of the current profile. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the name of the current profile. Read-only.
 
 _expression_. `CurrentProfileName`
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Remarks

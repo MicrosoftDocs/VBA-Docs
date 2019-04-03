@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Picture Method (PowerPoint)
+title: BulletFormat.Picture method (PowerPoint)
 keywords: vbapp10.chm577012
 f1_keywords:
 - vbapp10.chm577012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.Picture Method (PowerPoint)
+# BulletFormat.Picture method (PowerPoint)
 
 Sets the graphics file to be used for bullets in a bulleted list when the  **[Type](PowerPoint.BulletFormat.Type.md)** property of the **BulletFormat** object is set to **ppBulletPicture**.
 
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
 _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 

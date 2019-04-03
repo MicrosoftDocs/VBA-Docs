@@ -1,5 +1,5 @@
 ---
-title: TaskItem.SkipRecurrence Method (Outlook)
+title: TaskItem.SkipRecurrence method (Outlook)
 keywords: vbaol11.chm1756
 f1_keywords:
 - vbaol11.chm1756
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.SkipRecurrence Method (Outlook)
+# TaskItem.SkipRecurrence method (Outlook)
 
 Clears the current instance of a recurring task and sets the recurrence to the next instance of that task.
 
@@ -21,7 +21,7 @@ Clears the current instance of a recurring task and sets the recurrence to the n
 
 _expression_. `SkipRecurrence`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Return value

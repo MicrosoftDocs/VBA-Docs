@@ -1,5 +1,5 @@
 ---
-title: DistListItem.CustomPropertyChange Event (Outlook)
+title: DistListItem.CustomPropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.CustomPropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.CustomPropertyChange Event (Outlook)
+# DistListItem.CustomPropertyChange event (Outlook)
 
 Occurs when a custom property of an item (which is an instance of the parent object) is changed. 
 
@@ -18,7 +18,7 @@ Occurs when a custom property of an item (which is an instance of the parent obj
 
 _expression_. `CustomPropertyChange`( `_Name_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Demotes the specified paragraph or paragraphs to body text by applying the Norma
 
 ## Syntax
 
- _expression_. `OutlineDemoteToBody`
+_expression_. `OutlineDemoteToBody`
 
  _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

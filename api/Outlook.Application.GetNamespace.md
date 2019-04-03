@@ -1,5 +1,5 @@
 ---
-title: Application.GetNamespace Method (Outlook)
+title: Application.GetNamespace method (Outlook)
 keywords: vbaol11.chm717
 f1_keywords:
 - vbaol11.chm717
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.GetNamespace Method (Outlook)
+# Application.GetNamespace method (Outlook)
 
 Returns a  **[NameSpace](Outlook.NameSpace.md)** object of the specified type.
 
@@ -21,7 +21,7 @@ Returns a  **[NameSpace](Outlook.NameSpace.md)** object of the specified type.
 
 _expression_. `GetNamespace`( `_Type_` )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.Find Method (Project)
+title: Application.Find method (Project)
 keywords: vbapj.chm215
 f1_keywords:
 - vbapj.chm215
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Find Method (Project)
+# Application.Find method (Project)
 
 Searches for an unfiltered value; returns  **True** if the value is found.
 
 
 ## Syntax
 
-_expression_. **Find** (**_Field_**, **_Test_**, **_Value_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**)
+_expression_.**Find** (**_Field_**, **_Test_**, **_Value_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**)
 
 _expression_ A variable that represents an **Application** object.
 

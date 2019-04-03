@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationY Method (PowerPoint)
+title: ThreeDFormat.IncrementRotationY method (PowerPoint)
 keywords: vbapp10.chm557003
 f1_keywords:
 - vbapp10.chm557003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationY Method (PowerPoint)
+# ThreeDFormat.IncrementRotationY method (PowerPoint)
 
 Changes the rotation of the specified shape around the y-axis by the specified number of degrees. 
 
 
 ## Syntax
 
- _expression_. `IncrementRotationY`( `_Increment_` )
+_expression_. `IncrementRotationY`( `_Increment_` )
 
  _expression_ A variable that represents an [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -43,7 +43,7 @@ You cannot adjust the rotation around the y-axis of the specified shape past the
 
 ## Example
 
-This example tilts shape one on  `myDocument` 10 degrees to the right. Shape one must be an extruded shape for you to see the effect of this code.
+This example tilts shape one on  _myDocument_ 10 degrees to the right. Shape one must be an extruded shape for you to see the effect of this code.
 
 
 ```vb

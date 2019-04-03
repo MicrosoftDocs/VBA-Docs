@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Type Property (PowerPoint)
+title: ColorFormat.Type property (PowerPoint)
 keywords: vbapp10.chm506003
 f1_keywords:
 - vbapp10.chm506003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.Type Property (PowerPoint)
+# ColorFormat.Type property (PowerPoint)
 
 Represents the type of color. Read-only.
 

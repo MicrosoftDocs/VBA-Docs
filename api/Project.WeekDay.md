@@ -1,5 +1,5 @@
 ---
-title: WeekDay Object (Project)
+title: WeekDay object (Project)
 ms.prod: project-server
 api_name:
 - Project.WeekDay
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WeekDay Object (Project)
+# WeekDay object (Project)
 
 
  

@@ -19,7 +19,7 @@ Returns or sets the complete path of the startup folder, excluding the final sep
 
 ## Syntax
 
- _expression_. `StartupPath`
+_expression_. `StartupPath`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

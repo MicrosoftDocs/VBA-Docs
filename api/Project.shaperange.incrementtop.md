@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementTop Method (Project)
+title: ShapeRange.IncrementTop method (Project)
 ms.prod: project-server
 ms.assetid: 488b7925-7a64-ce01-b2e9-415c44125462
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.IncrementTop Method (Project)
+# ShapeRange.IncrementTop method (Project)
 Moves each shape in the shape range vertically by the specified number of points.
 
 ## Syntax
 
- _expression_. `IncrementTop` _(Increment)_
+_expression_. `IncrementTop` _(Increment)_
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

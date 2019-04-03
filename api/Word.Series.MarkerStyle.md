@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Series.MarkerStyle property (Word)
 
-Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[xlMarkerStyle](Word.xlmarkerstyle.md)**.
+Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](Word.xlmarkerstyle.md)**.
 
 
 ## Syntax
 
- _expression_. `MarkerStyle`
+_expression_. `MarkerStyle`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 

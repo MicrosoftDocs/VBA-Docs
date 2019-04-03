@@ -21,7 +21,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the common parent 
 
 _expression_. `ParentGroup`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example

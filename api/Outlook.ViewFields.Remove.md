@@ -1,5 +1,5 @@
 ---
-title: ViewFields.Remove Method (Outlook)
+title: ViewFields.Remove method (Outlook)
 keywords: vbaol11.chm2554
 f1_keywords:
 - vbaol11.chm2554
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# ViewFields.Remove Method (Outlook)
+# ViewFields.Remove method (Outlook)
 
 Removes an object from the collection.
 
 
 ## Syntax
 
- _expression_. `Remove`( `_Index_` )
+_expression_. `Remove` (_Index_)
 
-_expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## Parameters

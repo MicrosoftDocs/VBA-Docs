@@ -1,5 +1,5 @@
 ---
-title: Tables.Add Method (Project)
+title: Tables.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Tables.Add
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Tables.Add Method (Project)
+# Tables.Add method (Project)
 
 Adds a  **Table** object to a **Tables** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_`, `_Field_`, `_Task_` )
+ _expression_.**Add**( `_Name_`, `_Field_`, `_Task_` )
 
  _expression_ A variable that represents a 'Tables' object.
 

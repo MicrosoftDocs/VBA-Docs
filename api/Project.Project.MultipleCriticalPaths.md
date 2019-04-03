@@ -1,5 +1,5 @@
 ---
-title: Project.MultipleCriticalPaths Property (Project)
+title: Project.MultipleCriticalPaths property (Project)
 keywords: vbapj.chm132418
 f1_keywords:
 - vbapj.chm132418
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.MultipleCriticalPaths Property (Project)
+# Project.MultipleCriticalPaths property (Project)
 
  **True** if Project calculates multiple critical paths for the project. **False** if only one critical path is calculated. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MultipleCriticalPaths`
+_expression_. `MultipleCriticalPaths`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

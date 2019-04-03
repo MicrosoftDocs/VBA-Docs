@@ -1,5 +1,5 @@
 ---
-title: Row.EventList Property (Visio)
+title: Row.EventList property (Visio)
 keywords: vis_sdr.chm15813480
 f1_keywords:
 - vis_sdr.chm15813480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.EventList Property (Visio)
+# Row.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `EventList`
+_expression_. `EventList`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

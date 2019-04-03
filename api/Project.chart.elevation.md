@@ -1,5 +1,5 @@
 ---
-title: Chart.Elevation Property (Project)
+title: Chart.Elevation property (Project)
 ms.prod: project-server
 ms.assetid: c99cdc9b-3d3d-60c8-400f-6fa8818b4fd2
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.Elevation Property (Project)
+# Chart.Elevation property (Project)
 Gets or sets the elevation of the 3-D chart view, in degrees. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `Elevation`
+_expression_. `Elevation`
 
  _expression_ A variable that represents a 'Chart' object.
 

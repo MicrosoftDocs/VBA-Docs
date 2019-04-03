@@ -1,5 +1,5 @@
 ---
-title: OlSaveAsType Enumeration (Outlook)
+title: OlSaveAsType enumeration (Outlook)
 keywords: vbaol11.chm3080
 f1_keywords:
 - vbaol11.chm3080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSaveAsType Enumeration (Outlook)
+# OlSaveAsType enumeration (Outlook)
 
 Specifies the file format.
 

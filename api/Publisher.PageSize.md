@@ -1,5 +1,5 @@
 ---
-title: PageSize Object (Publisher)
+title: PageSize object (Publisher)
 keywords: vbapb10.chm8912895
 f1_keywords:
 - vbapb10.chm8912895
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSize Object (Publisher)
+# PageSize object (Publisher)
 
 Represents the page size of the current Microsoft Publisher publication.
 

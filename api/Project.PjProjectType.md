@@ -1,5 +1,5 @@
 ---
-title: PjProjectType Enumeration (Project)
+title: PjProjectType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjProjectType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjProjectType Enumeration (Project)
+# PjProjectType enumeration (Project)
 
 Contains constants that specify the project type.
 

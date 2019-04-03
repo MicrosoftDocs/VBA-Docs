@@ -1,5 +1,5 @@
 ---
-title: Application.CreateObject Method (Outlook)
+title: Application.CreateObject method (Outlook)
 keywords: vbaol11.chm716
 f1_keywords:
 - vbaol11.chm716
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CreateObject Method (Outlook)
+# Application.CreateObject method (Outlook)
 
 Creates an automation object of the specified class.
 
@@ -21,7 +21,7 @@ Creates an automation object of the specified class.
 
 _expression_. `CreateObject`( `_ObjectName_` )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: VisHorizontalAlignTypes Enumeration (Visio)
+title: VisHorizontalAlignTypes enumeration (Visio)
 keywords: vis_sdr.chm70390
 f1_keywords:
 - vis_sdr.chm70390
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisHorizontalAlignTypes Enumeration (Visio)
+# VisHorizontalAlignTypes enumeration (Visio)
 
 Specifies horizontal alignment type values to pass to the  **[Selection.Align](Visio.Selection.Align.md)** method.
 

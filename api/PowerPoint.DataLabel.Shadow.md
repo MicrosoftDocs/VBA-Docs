@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Shadow Property (PowerPoint)
+title: DataLabel.Shadow property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Shadow
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Shadow Property (PowerPoint)
+# DataLabel.Shadow property (PowerPoint)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_. `Shadow`
 
 _expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.Name Property (PowerPoint)
+title: Presentation.Name property (PowerPoint)
 keywords: vbapp10.chm583025
 f1_keywords:
 - vbapp10.chm583025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Name Property (PowerPoint)
+# Presentation.Name property (PowerPoint)
 
 The name of the presentation includes the file name extension (for file types that are registered) but doesn't include its path. You cannot use this property to set the name. Use the  **[SaveAs](PowerPoint.Presentation.SaveAs.md)** method to save the presentation under a different name if you need to change the name. Read-only.
 

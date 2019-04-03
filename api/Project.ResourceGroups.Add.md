@@ -1,5 +1,5 @@
 ---
-title: ResourceGroups.Add Method (Project)
+title: ResourceGroups.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.ResourceGroups.Add
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ResourceGroups.Add Method (Project)
+# ResourceGroups.Add method (Project)
 
 Adds a  **Group** object to a **ResourceGroups** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_`, `_FieldName_` )
+ _expression_.**Add**( `_Name_`, `_FieldName_` )
 
  _expression_ A variable that represents a 'ResourceGroups' object.
 

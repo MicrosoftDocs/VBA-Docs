@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.Change Event (Outlook)
+title: OlkOptionButton.Change event (Outlook)
 keywords: vbaol11.chm1000189
 f1_keywords:
 - vbaol11.chm1000189
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.Change Event (Outlook)
+# OlkOptionButton.Change event (Outlook)
 
 Occurs when the  **[Value](Outlook.OlkOptionButton.Value.md)** property changes.
 
@@ -21,7 +21,7 @@ Occurs when the  **[Value](Outlook.OlkOptionButton.Value.md)** property changes.
 
 _expression_. `Change`
 
-_expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](Outlook.OlkOptionButton.md) object.
 
 
 ## See also

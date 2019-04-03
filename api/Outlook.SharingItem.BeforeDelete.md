@@ -1,5 +1,5 @@
 ---
-title: SharingItem.BeforeDelete Event (Outlook)
+title: SharingItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.BeforeDelete Event (Outlook)
+# SharingItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 
@@ -18,7 +18,7 @@ Occurs before an item (which is an instance of the parent object) is deleted.
 
 _expression_. `BeforeDelete`( `_Item_` , `_Cancel_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

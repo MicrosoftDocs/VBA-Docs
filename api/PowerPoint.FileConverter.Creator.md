@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Creator Property (PowerPoint)
+title: FileConverter.Creator property (PowerPoint)
 keywords: vbapp10.chm680005
 f1_keywords:
 - vbapp10.chm680005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.Creator Property (PowerPoint)
+# FileConverter.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: SenderInAddressListRuleCondition.Class Property (Outlook)
+title: SenderInAddressListRuleCondition.Class property (Outlook)
 keywords: vbaol11.chm2465
 f1_keywords:
 - vbaol11.chm2465
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SenderInAddressListRuleCondition.Class Property (Outlook)
+# SenderInAddressListRuleCondition.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [SenderInAddressListRuleCondition](./Outlook.SenderInAddressListRuleCondition.md) object.
+_expression_ A variable that represents a [SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md) object.
 
 
 ## See also

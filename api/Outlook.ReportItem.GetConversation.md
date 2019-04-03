@@ -1,5 +1,5 @@
 ---
-title: ReportItem.GetConversation Method (Outlook)
+title: ReportItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3492
 f1_keywords:
 - vbaol11.chm3492
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.GetConversation Method (Outlook)
+# ReportItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

@@ -1,5 +1,5 @@
 ---
-title: ToolbarItems.Add Method (Visio)
+title: ToolbarItems.Add method (Visio)
 keywords: vis_sdr.chm13616005
 f1_keywords:
 - vis_sdr.chm13616005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItems.Add Method (Visio)
+# ToolbarItems.Add method (Visio)
 
 Adds a new object to a collection.
 
 
 ## Syntax
 
- _expression_. `Add`
+ _expression_.**Add**
 
  _expression_ A variable that represents a [ToolbarItems](./Visio.ToolbarItems.md) collection.
 

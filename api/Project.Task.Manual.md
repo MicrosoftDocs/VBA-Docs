@@ -1,5 +1,5 @@
 ---
-title: Task.Manual Property (Project)
+title: Task.Manual property (Project)
 keywords: vbapj.chm132403
 f1_keywords:
 - vbapj.chm132403
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Manual Property (Project)
+# Task.Manual property (Project)
 
  **True** if task recalculation is set to **Manually Scheduled**;  **False** if task recalculation is set to **Auto Schedule**. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Manual`
+_expression_. `Manual`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

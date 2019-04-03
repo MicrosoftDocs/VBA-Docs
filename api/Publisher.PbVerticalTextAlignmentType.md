@@ -1,5 +1,5 @@
 ---
-title: PbVerticalTextAlignmentType Enumeration (Publisher)
+title: PbVerticalTextAlignmentType enumeration (Publisher)
 keywords: vbapb10.chm65548
 f1_keywords:
 - vbapb10.chm65548
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbVerticalTextAlignmentType Enumeration (Publisher)
+# PbVerticalTextAlignmentType enumeration (Publisher)
 
 Represents the vertical alignment of text in a text box. 
 

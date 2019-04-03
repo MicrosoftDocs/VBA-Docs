@@ -1,5 +1,5 @@
 ---
-title: Inspector.BeforeSize Event (Outlook)
+title: Inspector.BeforeSize event (Outlook)
 keywords: vbaol11.chm471
 f1_keywords:
 - vbaol11.chm471
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.BeforeSize Event (Outlook)
+# Inspector.BeforeSize event (Outlook)
 
 Occurs when the user sizes the current  **[Inspector](Outlook.Inspector.md)**.
 
@@ -21,7 +21,7 @@ Occurs when the user sizes the current  **[Inspector](Outlook.Inspector.md)**.
 
 _expression_. `BeforeSize`( `_Cancel_` )
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters

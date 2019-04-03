@@ -1,5 +1,5 @@
 ---
-title: ContactItem.PrintOut Method (Outlook)
+title: ContactItem.PrintOut method (Outlook)
 keywords: vbaol11.chm961
 f1_keywords:
 - vbaol11.chm961
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.PrintOut Method (Outlook)
+# ContactItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 
@@ -21,7 +21,7 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
 _expression_. `PrintOut`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

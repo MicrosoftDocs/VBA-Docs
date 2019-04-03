@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the depth of the bottom bevel. Rea
 
 ## Syntax
 
- _expression_. `BevelBottomDepth`
+_expression_. `BevelBottomDepth`
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

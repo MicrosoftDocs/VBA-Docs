@@ -1,5 +1,5 @@
 ---
-title: Window Object (Visio)
+title: Window object (Visio)
 keywords: vis_sdr.chm10305
 f1_keywords:
 - vis_sdr.chm10305
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window Object (Visio)
+# Window object (Visio)
 
 Represents an open window in a Microsoft Visio instance.
 

@@ -21,7 +21,7 @@ Returns a  **[SoftEdgeFormat](Office.SoftEdgeFormat.md)** object for a specified
 
 _expression_. `SoftEdge`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also

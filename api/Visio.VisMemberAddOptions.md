@@ -1,5 +1,5 @@
 ---
-title: VisMemberAddOptions Enumeration (Visio)
+title: VisMemberAddOptions enumeration (Visio)
 keywords: vis_sdr.chm70615
 f1_keywords:
 - vis_sdr.chm70615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisMemberAddOptions Enumeration (Visio)
+# VisMemberAddOptions enumeration (Visio)
 
 Specifies whether to expand the container to accommodate the new member(s) or to resize it automatically according to the default settings; constants passed to the  **[ContainerProperties.AddMember](Visio.ContainerProperties.AddMember.md)** method.
 

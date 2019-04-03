@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Actions Property (Outlook)
+title: ContactItem.Actions property (Outlook)
 keywords: vbaol11.chm930
 f1_keywords:
 - vbaol11.chm930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Actions Property (Outlook)
+# ContactItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

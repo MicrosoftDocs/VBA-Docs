@@ -1,5 +1,5 @@
 ---
-title: Document.HyperlinkBase Property (Visio)
+title: Document.HyperlinkBase property (Visio)
 keywords: vis_sdr.chm10513655
 f1_keywords:
 - vis_sdr.chm10513655
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.HyperlinkBase Property (Visio)
+# Document.HyperlinkBase property (Visio)
 
 Gets or sets the value of the  **Hyperlink base** box in a document's **Properties** dialog box (click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**). Read/write.
 
 
 ## Syntax
 
- _expression_. `HyperlinkBase`
+_expression_. `HyperlinkBase`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

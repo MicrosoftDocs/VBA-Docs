@@ -1,5 +1,5 @@
 ---
-title: Conversation.StopAlwaysDelete Method (Outlook)
+title: Conversation.StopAlwaysDelete method (Outlook)
 keywords: vbaol11.chm3432
 f1_keywords:
 - vbaol11.chm3432
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.StopAlwaysDelete Method (Outlook)
+# Conversation.StopAlwaysDelete method (Outlook)
 
 Stops the action of always moving conversation items in the specified store to the Deleted Items folder in that store.
 

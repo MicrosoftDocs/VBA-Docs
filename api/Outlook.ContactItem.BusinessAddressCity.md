@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddressCity Property (Outlook)
+title: ContactItem.BusinessAddressCity property (Outlook)
 keywords: vbaol11.chm971
 f1_keywords:
 - vbaol11.chm971
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddressCity Property (Outlook)
+# ContactItem.BusinessAddressCity property (Outlook)
 
 Returns or sets a  **String** representing the city name portion of the business address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the city name portion of the business
 
 _expression_. `BusinessAddressCity`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

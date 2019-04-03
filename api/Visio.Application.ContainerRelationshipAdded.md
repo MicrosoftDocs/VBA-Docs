@@ -1,5 +1,5 @@
 ---
-title: Application.ContainerRelationshipAdded Event (Visio)
+title: Application.ContainerRelationshipAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.ContainerRelationshipAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ContainerRelationshipAdded Event (Visio)
+# Application.ContainerRelationshipAdded event (Visio)
 
 Occurs when a new container relationship is added to the document.
 

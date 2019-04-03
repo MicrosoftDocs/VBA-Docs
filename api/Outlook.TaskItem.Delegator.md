@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Delegator Property (Outlook)
+title: TaskItem.Delegator property (Outlook)
 keywords: vbaol11.chm1727
 f1_keywords:
 - vbaol11.chm1727
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Delegator Property (Outlook)
+# TaskItem.Delegator property (Outlook)
 
 Returns a  **String** representing the display name of the delegator for the task. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the display name of the delegator for the tas
 
 _expression_. `Delegator`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

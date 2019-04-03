@@ -1,5 +1,5 @@
 ---
-title: Resource.Flag8 Property (Project)
+title: Resource.Flag8 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Flag8
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Flag8 Property (Project)
+# Resource.Flag8 property (Project)
 
  **True** if the flag associated with a **Resource** is set. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Flag8`
+_expression_. `Flag8`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

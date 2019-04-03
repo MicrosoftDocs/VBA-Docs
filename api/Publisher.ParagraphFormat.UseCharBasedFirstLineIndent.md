@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.UseCharBasedFirstLineIndent Property (Publisher)
+title: ParagraphFormat.UseCharBasedFirstLineIndent property (Publisher)
 keywords: vbapb10.chm5439529
 f1_keywords:
 - vbapb10.chm5439529
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.UseCharBasedFirstLineIndent Property (Publisher)
+# ParagraphFormat.UseCharBasedFirstLineIndent property (Publisher)
 
 Returns or sets an  **MsoTriState** constant that specifies whether a paragraph is indented using East Asian character width. Read/write.
 
 
 ## Syntax
 
- _expression_. **UseCharBasedFirstLineIndent**
+ _expression_.**UseCharBasedFirstLineIndent**
 
  _expression_ A variable that represents an  **ParagraphFormat** object.
 
@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The  **UseCharBasedFirstLineIndent** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **UseCharBasedFirstLineIndent** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 The value of  **UseCharBasedFirstLineIndent** can be set only if East Asian languages are enabled on the client computer, whereas the value can be returned regardless of whether East Asian languages are enabled. Note that **UseCharBasedFirstLineIndent** must be set before the **[CharBasedFirstLineIndent](Publisher.ParagraphFormat.CharBasedFirstLineIndent.md)** property can be returned or set. A run-time "permission denied" error is returned if **UseCharBasedFirstLineIndent** is not set first.
 

@@ -19,7 +19,7 @@ Returns a  **Sections** collection that represents the sections in the specified
 
 ## Syntax
 
- _expression_. `Sections`
+_expression_. `Sections`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

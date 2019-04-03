@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.To Property (Project)
+title: TaskDependency.To property (Project)
 keywords: vbapj.chm132760
 f1_keywords:
 - vbapj.chm132760
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.To Property (Project)
+# TaskDependency.To property (Project)
 
 Gets a  **[Task](Project.Task.md)** object that is the successor in the task dependency. Read-only **Task**.
 
 
 ## Syntax
 
- _expression_. `To`
+_expression_. `To`
 
  _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 

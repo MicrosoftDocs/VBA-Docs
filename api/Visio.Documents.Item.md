@@ -1,5 +1,5 @@
 ---
-title: Documents.Item Property (Visio)
+title: Documents.Item property (Visio)
 keywords: vis_sdr.chm10613765
 f1_keywords:
 - vis_sdr.chm10613765
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Documents.Item Property (Visio)
+# Documents.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_NameOrIndex_` )
+_expression_. `Item`( `_NameOrIndex_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) collection.
 

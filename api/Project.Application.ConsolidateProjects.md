@@ -1,5 +1,5 @@
 ---
-title: Application.ConsolidateProjects Method (Project)
+title: Application.ConsolidateProjects method (Project)
 keywords: vbapj.chm124
 f1_keywords:
 - vbapj.chm124
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ConsolidateProjects Method (Project)
+# Application.ConsolidateProjects method (Project)
 
 Displays the data from one or more projects in a single window.
 
 
 ## Syntax
 
- _expression_. `ConsolidateProjects`( `_Filenames_`, `_NewWindow_`, `_AttachToSources_`, `_PoolResources_`, `_HideSubtasks_`, `_openPool_`, `_UserID_`, `_Password_` )
+_expression_. `ConsolidateProjects`( `_Filenames_`, `_NewWindow_`, `_AttachToSources_`, `_PoolResources_`, `_HideSubtasks_`, `_openPool_`, `_UserID_`, `_Password_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.IsConflict Property (Outlook)
+title: RemoteItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1629
 f1_keywords:
 - vbaol11.chm1629
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.IsConflict Property (Outlook)
+# RemoteItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 
 _expression_. `IsConflict`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ToOrFromRuleCondition.Class Property (Outlook)
+title: ToOrFromRuleCondition.Class property (Outlook)
 keywords: vbaol11.chm2457
 f1_keywords:
 - vbaol11.chm2457
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToOrFromRuleCondition.Class Property (Outlook)
+# ToOrFromRuleCondition.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_.**Class**
 
-_expression_ A variable that represents a [ToOrFromRuleCondition](./Outlook.ToOrFromRuleCondition.md) object.
+_expression_ A variable that represents a [ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md) object.
 
 
 ## See also

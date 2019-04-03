@@ -1,5 +1,5 @@
 ---
-title: UpBars.Creator Property (PowerPoint)
+title: UpBars.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# UpBars.Creator Property (PowerPoint)
+# UpBars.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

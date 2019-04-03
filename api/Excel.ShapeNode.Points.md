@@ -21,7 +21,7 @@ Returns the position of the specified node as a coordinate pair. Each coordinate
 
 _expression_. `Points`
 
- _expression_ An expression that returns a [ShapeNode](./Excel.ShapeNode.md) object.
+ _expression_ An expression that returns a [ShapeNode](Excel.ShapeNode.md) object.
 
 
 ## Return value
@@ -36,7 +36,7 @@ This property is read-only. Use the  **[SetPosition](Excel.ShapeNodes.SetPositio
 
 ## Example
 
-This example moves node two in shape three on  `myDocument` to the right 200 points and down 300 points. Shape three must be a freeform drawing.
+This example moves node two in shape three on  _myDocument_ to the right 200 points and down 300 points. Shape three must be a freeform drawing.
 
 
 ```vb

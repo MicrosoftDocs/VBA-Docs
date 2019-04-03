@@ -1,5 +1,5 @@
 ---
-title: Resource.Number14 Property (Project)
+title: Resource.Number14 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Number14
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Number14 Property (Project)
+# Resource.Number14 property (Project)
 
 Gets or sets a Number local custom field for a resource. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `Number14`
+_expression_. `Number14`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

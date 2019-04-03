@@ -1,5 +1,5 @@
 ---
-title: Slide.DisplayMasterShapes Property (PowerPoint)
+title: Slide.DisplayMasterShapes property (PowerPoint)
 keywords: vbapp10.chm531020
 f1_keywords:
 - vbapp10.chm531020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.DisplayMasterShapes Property (PowerPoint)
+# Slide.DisplayMasterShapes property (PowerPoint)
 
 Determines whether the specified slide displays the background objects on the slide master. Read/write.
 
 
 ## Syntax
 
- _expression_. `DisplayMasterShapes`
+_expression_. `DisplayMasterShapes`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

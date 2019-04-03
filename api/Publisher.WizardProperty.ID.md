@@ -1,5 +1,5 @@
 ---
-title: WizardProperty.ID Property (Publisher)
+title: WizardProperty.ID property (Publisher)
 keywords: vbapb10.chm1572867
 f1_keywords:
 - vbapb10.chm1572867
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WizardProperty.ID Property (Publisher)
+# WizardProperty.ID property (Publisher)
 
 Returns a  **Long** that represents the type of a shape, range of shapes, or property, type, or value of a wizard. Read-only.
 
 
 ## Syntax
 
- _expression_. **ID**
+ _expression_.**ID**
 
  _expression_ A variable that represents a  **WizardProperty** object.
 

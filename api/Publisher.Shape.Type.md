@@ -1,5 +1,5 @@
 ---
-title: Shape.Type Property (Publisher)
+title: Shape.Type property (Publisher)
 keywords: vbapb10.chm2228307
 f1_keywords:
 - vbapb10.chm2228307
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Type Property (Publisher)
+# Shape.Type property (Publisher)
 
 Specifies the shape type. Read-only.
 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **Shape** object.
 

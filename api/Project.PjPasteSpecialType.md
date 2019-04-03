@@ -1,5 +1,5 @@
 ---
-title: PjPasteSpecialType Enumeration (Project)
+title: PjPasteSpecialType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPasteSpecialType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjPasteSpecialType Enumeration (Project)
+# PjPasteSpecialType enumeration (Project)
 
 Contains constants that specify the type of object to paste or link.
 

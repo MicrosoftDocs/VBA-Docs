@@ -1,5 +1,5 @@
 ---
-title: Application.SelectRowEnd Method (Project)
+title: Application.SelectRowEnd method (Project)
 keywords: vbapj.chm2044
 f1_keywords:
 - vbapj.chm2044
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectRowEnd Method (Project)
+# Application.SelectRowEnd method (Project)
 
 Selects the last cell in the row containing the active cell.
 
 
 ## Syntax
 
- _expression_. `SelectRowEnd`( `_Extend_` )
+_expression_. `SelectRowEnd`( `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

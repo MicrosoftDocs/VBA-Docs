@@ -1,5 +1,5 @@
 ---
-title: DistListItem.GetMember Method (Outlook)
+title: DistListItem.GetMember method (Outlook)
 keywords: vbaol11.chm1156
 f1_keywords:
 - vbaol11.chm1156
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.GetMember Method (Outlook)
+# DistListItem.GetMember method (Outlook)
 
 Returns a  **[Recipient](Outlook.Recipient.md)** object representing a member in a distribution list.
 
 
 ## Syntax
 
-_expression_. `GetMember`( `_Index_` )
+_expression_. `GetMember` (_Index_)
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Presentation.PasswordEncryptionKeyLength Property (PowerPoint)
+title: Presentation.PasswordEncryptionKeyLength property (PowerPoint)
 keywords: vbapp10.chm583077
 f1_keywords:
 - vbapp10.chm583077
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.PasswordEncryptionKeyLength Property (PowerPoint)
+# Presentation.PasswordEncryptionKeyLength property (PowerPoint)
 
 Returns the key length of the algorithm Microsoft PowerPoint uses when it encrypts documents with passwords. Read-only.
 
 
 ## Syntax
 
- _expression_. `PasswordEncryptionKeyLength`
+_expression_. `PasswordEncryptionKeyLength`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

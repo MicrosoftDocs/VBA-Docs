@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ProgID Property (PowerPoint)
+title: OLEFormat.ProgID property (PowerPoint)
 keywords: vbapp10.chm562005
 f1_keywords:
 - vbapp10.chm562005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.ProgID Property (PowerPoint)
+# OLEFormat.ProgID property (PowerPoint)
 
 Returns the programmatic identifier (ProgID) for the specified OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ProgID`
+_expression_. `ProgID`
 
  _expression_ A variable that represents a [OLEFormat](./PowerPoint.OLEFormat.md) object.
 

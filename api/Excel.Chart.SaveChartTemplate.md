@@ -19,7 +19,7 @@ Saves a custom chart template to the list of available chart templates.
 
 ## Syntax
 
-_expression_. `SaveChartTemplate`( `_Filename_` )
+_expression_. `SaveChartTemplate`( `_FileName_` )
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the chart template.|
+| _FileName_|Required| **String**|The name of the chart template.|
 
 ## Remarks
 

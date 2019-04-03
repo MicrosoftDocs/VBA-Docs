@@ -1,5 +1,5 @@
 ---
-title: Projects.Count Property (Project)
+title: Projects.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Projects.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Projects.Count Property (Project)
+# Projects.Count property (Project)
 
 Gets the number of items in the  **Projects** collection. Read-only **Long**.
 

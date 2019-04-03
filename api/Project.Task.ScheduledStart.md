@@ -1,5 +1,5 @@
 ---
-title: Task.ScheduledStart Property (Project)
+title: Task.ScheduledStart property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ScheduledStart
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.ScheduledStart Property (Project)
+# Task.ScheduledStart property (Project)
 
 Gets the scheduled (as opposed to actual) start time of a task. Read-only  **Variant**
 
 
 ## Syntax
 
- _expression_. `ScheduledStart`
+_expression_. `ScheduledStart`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

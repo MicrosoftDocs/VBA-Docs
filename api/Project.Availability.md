@@ -1,5 +1,5 @@
 ---
-title: Availability Object (Project)
+title: Availability object (Project)
 ms.prod: project-server
 api_name:
 - Project.Availability
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Availability Object (Project)
+# Availability object (Project)
 
 
  

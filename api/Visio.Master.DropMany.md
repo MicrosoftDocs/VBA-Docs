@@ -1,5 +1,5 @@
 ---
-title: Master.DropMany Method (Visio)
+title: Master.DropMany method (Visio)
 keywords: vis_sdr.chm10716240
 f1_keywords:
 - vis_sdr.chm10716240
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.DropMany Method (Visio)
+# Master.DropMany method (Visio)
 
 Creates one or more new  **Shape** objects in a master. It returns an array of the IDs of the **Shape** objects it produces.
 
 
 ## Syntax
 
- _expression_. `DropMany`( `_ObjectsToInstance()_` , `_xyArray()_` , `_IDArray()_` )
+_expression_. `DropMany`( `_ObjectsToInstance()_` , `_xyArray()_` , `_IDArray()_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

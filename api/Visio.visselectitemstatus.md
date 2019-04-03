@@ -1,5 +1,5 @@
 ---
-title: VisSelectItemStatus Enumeration (Visio)
+title: VisSelectItemStatus enumeration (Visio)
 keywords: vis_sdr.chm70240
 f1_keywords:
 - vis_sdr.chm70240
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisSelectItemStatus Enumeration (Visio)
+# VisSelectItemStatus enumeration (Visio)
 
 Values returned by the  **Selection.ItemStatus** property.
 

@@ -1,5 +1,5 @@
 ---
-title: Addon.Application Property (Visio)
+title: Addon.Application property (Visio)
 keywords: vis_sdr.chm12413090
 f1_keywords:
 - vis_sdr.chm12413090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Addon.Application Property (Visio)
+# Addon.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

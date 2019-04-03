@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.OutlookInternalVersion Property (Outlook)
+title: TaskRequestDeclineItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm1841
 f1_keywords:
 - vbaol11.chm1841
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.OutlookInternalVersion Property (Outlook)
+# TaskRequestDeclineItem.OutlookInternalVersion property (Outlook)
 
 Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** representing the build number of the Outlook application for
 
 _expression_. `OutlookInternalVersion`
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## See also

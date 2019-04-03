@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Open Event (Outlook)
+title: RemoteItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Open Event (Outlook)
+# RemoteItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is being opened in an  **[Inspector
 
 _expression_. `Open`( `_Cancel_` )
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Parameters

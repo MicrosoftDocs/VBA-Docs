@@ -19,7 +19,7 @@ Includes or excludes flagged records in a data source from a mail merge.
 
 ## Syntax
 
- _expression_. `SetAllIncludedFlags`( `_Included_` )
+_expression_. `SetAllIncludedFlags`( `_Included_` )
 
  _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

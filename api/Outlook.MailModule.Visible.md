@@ -1,5 +1,5 @@
 ---
-title: MailModule.Visible Property (Outlook)
+title: MailModule.Visible property (Outlook)
 keywords: vbaol11.chm2819
 f1_keywords:
 - vbaol11.chm2819
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailModule.Visible Property (Outlook)
+# MailModule.Visible property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether the **[MailModule](Outlook.MailModule.md)** object is displayed in the navigation pane. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines whether the **[MailModule](
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [MailModule](./Outlook.MailModule.md) object.
+_expression_ A variable that represents a [MailModule](Outlook.MailModule.md) object.
 
 
 ## See also

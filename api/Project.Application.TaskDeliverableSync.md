@@ -1,5 +1,5 @@
 ---
-title: Application.TaskDeliverableSync Method (Project)
+title: Application.TaskDeliverableSync method (Project)
 keywords: vbapj.chm93
 f1_keywords:
 - vbapj.chm93
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskDeliverableSync Method (Project)
+# Application.TaskDeliverableSync method (Project)
 
 Synchronizes selected task deliverables in the active project with changes made in Project Web App. Available only in Project Professional.
 
 
 ## Syntax
 
- _expression_. `TaskDeliverableSync`
+_expression_. `TaskDeliverableSync`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

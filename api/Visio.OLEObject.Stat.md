@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Stat Property (Visio)
+title: OLEObject.Stat property (Visio)
 keywords: vis_sdr.chm15214420
 f1_keywords:
 - vis_sdr.chm15214420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEObject.Stat Property (Visio)
+# OLEObject.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents an [OLEObject](./Visio.OLEObject.md) object.
 

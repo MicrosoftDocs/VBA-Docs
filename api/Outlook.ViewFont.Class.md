@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Class Property (Outlook)
+title: ViewFont.Class property (Outlook)
 keywords: vbaol11.chm2692
 f1_keywords:
 - vbaol11.chm2692
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Class Property (Outlook)
+# ViewFont.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_.**Class**
 
-_expression_ A variable that represents a [ViewFont](./Outlook.ViewFont.md) object.
+_expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 
 
 ## See also

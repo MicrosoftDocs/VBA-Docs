@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Subject Property (Outlook)
+title: TaskRequestUpdateItem.Subject property (Outlook)
 keywords: vbaol11.chm1944
 f1_keywords:
 - vbaol11.chm1944
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Subject Property (Outlook)
+# TaskRequestUpdateItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Subject`
+_expression_. `Subject`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

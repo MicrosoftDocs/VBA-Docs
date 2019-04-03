@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Session Property (Outlook)
+title: TaskRequestUpdateItem.Session property (Outlook)
 keywords: vbaol11.chm1919
 f1_keywords:
 - vbaol11.chm1919
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Session Property (Outlook)
+# TaskRequestUpdateItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
  _expression_.**Session**
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

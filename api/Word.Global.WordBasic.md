@@ -19,7 +19,7 @@ Returns an Automation object (Word.Basic) that includes methods for all the Word
 
 ## Syntax
 
- _expression_. `WordBasic`
+_expression_. `WordBasic`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 

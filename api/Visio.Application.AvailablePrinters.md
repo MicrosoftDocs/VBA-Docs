@@ -1,5 +1,5 @@
 ---
-title: Application.AvailablePrinters Property (Visio)
+title: Application.AvailablePrinters property (Visio)
 keywords: vis_sdr.chm10050510
 f1_keywords:
 - vis_sdr.chm10050510
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AvailablePrinters Property (Visio)
+# Application.AvailablePrinters property (Visio)
 
 Returns a list of installed printers. Read-only.
 
 
 ## Syntax
 
- _expression_. `AvailablePrinters`
+_expression_. `AvailablePrinters`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

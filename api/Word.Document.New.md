@@ -1,5 +1,5 @@
 ---
-title: Document.New Event (Word)
+title: Document.New event (Word)
 keywords: vbawd10.chm4001004
 f1_keywords:
 - vbawd10.chm4001004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.New Event (Word)
+# Document.New event (Word)
 
 Occurs when a new document based on the template is created. A procedure for the  **New** event will run only if it is stored in a template.
 

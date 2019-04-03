@@ -1,5 +1,5 @@
 ---
-title: Assignment.EnterpriseTeamMember Method (Project)
+title: Assignment.EnterpriseTeamMember method (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.EnterpriseTeamMember
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.EnterpriseTeamMember Method (Project)
+# Assignment.EnterpriseTeamMember method (Project)
 
 Indicates whether the specified assignment belongs to the project.  **True** if the assignment belongs to the specified project; otherwise **False**. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `EnterpriseTeamMember`( `_Project_` )
+_expression_. `EnterpriseTeamMember`( `_Project_` )
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

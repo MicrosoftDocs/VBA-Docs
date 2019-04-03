@@ -1,5 +1,5 @@
 ---
-title: ViewField.ViewXMLSchemaName Property (Outlook)
+title: ViewField.ViewXMLSchemaName property (Outlook)
 keywords: vbaol11.chm2543
 f1_keywords:
 - vbaol11.chm2543
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# ViewField.ViewXMLSchemaName Property (Outlook)
+# ViewField.ViewXMLSchemaName property (Outlook)
 
 Returns a  **String** value that represents the XML schema name for the property referenced by the **[ViewField](Outlook.ViewField.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ViewXMLSchemaName`
+_expression_. `ViewXMLSchemaName`
 
-_expression_ A variable that represents a [ViewField](./Outlook.ViewField.md) object.
+_expression_ A variable that represents a [ViewField](Outlook.ViewField.md) object.
 
 
 ## Remarks

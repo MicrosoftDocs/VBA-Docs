@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Clear Method (PowerPoint)
+title: ChartArea.Clear method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Clear
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Clear Method (PowerPoint)
+# ChartArea.Clear method (PowerPoint)
 
 Clears the entire object.
 
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_. `Clear`
 
 _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Table.TableDirection Property (PowerPoint)
+title: Table.TableDirection property (PowerPoint)
 keywords: vbapp10.chm622006
 f1_keywords:
 - vbapp10.chm622006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.TableDirection Property (PowerPoint)
+# Table.TableDirection property (PowerPoint)
 
 Returns or sets the direction in which the table cells are ordered. Read/write.
 
 
 ## Syntax
 
- _expression_. `TableDirection`
+_expression_. `TableDirection`
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

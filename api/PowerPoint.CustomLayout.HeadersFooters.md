@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.HeadersFooters Property (PowerPoint)
+title: CustomLayout.HeadersFooters property (PowerPoint)
 keywords: vbapp10.chm672004
 f1_keywords:
 - vbapp10.chm672004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.HeadersFooters Property (PowerPoint)
+# CustomLayout.HeadersFooters property (PowerPoint)
 
 Returns a  **[HeadersFooters](PowerPoint.HeadersFooters.md)** collection that represents the header, footer, date and time, and slide number associated with the specified custom layout.
 
 
 ## Syntax
 
- _expression_. `HeadersFooters`
+_expression_. `HeadersFooters`
 
 _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

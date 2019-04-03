@@ -1,5 +1,5 @@
 ---
-title: Application.ProcessID Property (Visio)
+title: Application.ProcessID property (Visio)
 keywords: vis_sdr.chm10014145
 f1_keywords:
 - vis_sdr.chm10014145
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProcessID Property (Visio)
+# Application.ProcessID property (Visio)
 
 Returns the unique identity of the current Microsoft Visio process. Read-only.
 
 
 ## Syntax
 
- _expression_. `ProcessID`
+_expression_. `ProcessID`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

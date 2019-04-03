@@ -1,5 +1,5 @@
 ---
-title: Pane Object (Project)
+title: Pane object (Project)
 ms.prod: project-server
 api_name:
 - Project.Pane
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Pane Object (Project)
+# Pane object (Project)
 
 
  

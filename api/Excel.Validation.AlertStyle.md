@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Validation.AlertStyle property (Excel)
 
-Returns the validation alert style. Read-only  **[xlDVAlertStyle](Excel.XlDVAlertStyle.md)**.
+Returns the validation alert style. Read-only  **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)**.
 
 
 ## Syntax
 
 _expression_. `AlertStyle`
 
-_expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## Remarks

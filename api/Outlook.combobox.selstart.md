@@ -17,7 +17,7 @@ Returns or sets a  **Long** that represents the starting point of selected text,
 
 ## Syntax
 
-_expression_. **SelStart**
+_expression_.**SelStart**
 
 _expression_ A variable that represents a  **ComboBox** object.
 

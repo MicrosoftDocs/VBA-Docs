@@ -14,7 +14,7 @@ Returns or sets an  **Integer** that specifies whether a vertical scroll bar app
 
 ## Syntax
 
-_expression_. **VerticalScrollBarSide**
+_expression_.**VerticalScrollBarSide**
 
 _expression_ A variable that represents a  **Page** object.
 

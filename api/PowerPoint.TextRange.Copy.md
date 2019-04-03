@@ -1,5 +1,5 @@
 ---
-title: TextRange.Copy Method (PowerPoint)
+title: TextRange.Copy method (PowerPoint)
 keywords: vbapp10.chm569028
 f1_keywords:
 - vbapp10.chm569028
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Copy Method (PowerPoint)
+# TextRange.Copy method (PowerPoint)
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 

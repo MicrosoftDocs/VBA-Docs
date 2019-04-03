@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginDisconnect Method (PowerPoint)
+title: ConnectorFormat.BeginDisconnect method (PowerPoint)
 keywords: vbapp10.chm555003
 f1_keywords:
 - vbapp10.chm555003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginDisconnect Method (PowerPoint)
+# ConnectorFormat.BeginDisconnect method (PowerPoint)
 
 Detaches the beginning of the specified connector from the shape it is attached to. 
 
 
 ## Syntax
 
- _expression_. `BeginDisconnect`
+_expression_. `BeginDisconnect`
 
 _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 

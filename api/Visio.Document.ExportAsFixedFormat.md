@@ -1,5 +1,5 @@
 ---
-title: Document.ExportAsFixedFormat Method (Visio)
+title: Document.ExportAsFixedFormat method (Visio)
 keywords: vis_sdr.chm10560095
 f1_keywords:
 - vis_sdr.chm10560095
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ExportAsFixedFormat Method (Visio)
+# Document.ExportAsFixedFormat method (Visio)
 
 Exports a Microsoft Visio document as a file in a fixed format, either PDF or XPS.
 
 
 ## Syntax
 
- _expression_. `ExportAsFixedFormat`( `_FixedFormat_` , `_OutputFileName_` , `_Intent_` , `_PrintRange_` , `_FromPage_` , `_ToPage_` , `_ColorAsBlack_` , `_IncludeBackground_` , `_IncludeDocumentProperties_` , `_IncludeStructureTags_` , `_UseISO19005_1_` , `_FixedFormatExtClass_` )
+_expression_. `ExportAsFixedFormat`( `_FixedFormat_` , `_OutputFileName_` , `_Intent_` , `_PrintRange_` , `_FromPage_` , `_ToPage_` , `_ColorAsBlack_` , `_IncludeBackground_` , `_IncludeDocumentProperties_` , `_IncludeStructureTags_` , `_UseISO19005_1_` , `_FixedFormatExtClass_` )
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 

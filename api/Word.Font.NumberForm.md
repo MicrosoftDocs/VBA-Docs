@@ -19,7 +19,7 @@ Returns or sets the number form setting for an OpenType font. Read/write [WdNumb
 
 ## Syntax
 
- _expression_. `NumberForm`
+_expression_. `NumberForm`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

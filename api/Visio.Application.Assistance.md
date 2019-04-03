@@ -1,5 +1,5 @@
 ---
-title: Application.Assistance Property (Visio)
+title: Application.Assistance property (Visio)
 keywords: vis_sdr.chm10060060
 f1_keywords:
 - vis_sdr.chm10060060
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Assistance Property (Visio)
+# Application.Assistance property (Visio)
 
 Gets a reference to the Microsoft Office (MSO)  **IAssistance** object, which provides a means for developers to create a customized help experience for users within Microsoft Office. Read-only.
 
 
 ## Syntax
 
- _expression_. `Assistance`
+_expression_. `Assistance`
 
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 

@@ -19,7 +19,7 @@ Opens the specified workbook in a new  **Protected View** window.
 
 ## Syntax
 
-_expression_. `Open`( `_Filename_` , `_Password_` , `_AddToMru_` , `_RepairMode_` )
+_expression_. `Open`( `_FileName_` , `_Password_` , `_AddToMru_` , `_RepairMode_` )
 
 _expression_ A variable that represents a '[ProtectedViewWindows](Excel.ProtectedViewWindows.md)' object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[ProtectedViewWindows](Excel.Protecte
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the workbook (paths are accepted).|
+| _FileName_|Required| **String**|The name of the workbook (paths are accepted).|
 | _Password_|Optional| **Variant**|The password for opening the workbook.|
 | _AddToMru_|Optional| **Variant**| **True** to add the file name to the list of recently used files on the **Recent** tab of the **Backstage** view.|
 | _RepairMode_|Optional| **Variant**| **True** to repair the workbook to prevent file corruption.|

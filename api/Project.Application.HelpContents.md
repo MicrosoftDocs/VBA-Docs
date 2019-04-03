@@ -1,5 +1,5 @@
 ---
-title: Application.HelpContents Method (Project)
+title: Application.HelpContents method (Project)
 keywords: vbapj.chm804
 f1_keywords:
 - vbapj.chm804
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.HelpContents Method (Project)
+# Application.HelpContents method (Project)
 
 Displays the **Project Help** window, with the **Help** Toolbar, **Assistance**, **Connection Status**, and **See Also** panes visible.
 
 
 ## Syntax
 
- _expression_. `HelpContents`
+_expression_. `HelpContents`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Nodes Property (PowerPoint)
+title: Shape.Nodes property (PowerPoint)
 keywords: vbapp10.chm547030
 f1_keywords:
 - vbapp10.chm547030
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# Shape.Nodes Property (PowerPoint)
+# Shape.Nodes property (PowerPoint)
 
 Returns a  **[ShapeNodes](PowerPoint.ShapeNodes.md)** collection that represents the geometric description of the specified shape. Applies to **Shape** objects that represent freeform drawings.
 
 
 ## Syntax
 
- _expression_. `Nodes`
+_expression_. `Nodes`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ## Example
 
-This example adds a smooth node with a curved segment after node four in shape three on  `myDocument`. Shape three must be a freeform drawing with at least four nodes.
+This example adds a smooth node with a curved segment after node four in shape three on  _myDocument_. Shape three must be a freeform drawing with at least four nodes.
 
 
 ```vb

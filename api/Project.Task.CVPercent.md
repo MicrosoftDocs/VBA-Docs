@@ -1,5 +1,5 @@
 ---
-title: Task.CVPercent Property (Project)
+title: Task.CVPercent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.CVPercent
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.CVPercent Property (Project)
+# Task.CVPercent property (Project)
 
 Gets the cost variance percent of the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CVPercent`
+_expression_. `CVPercent`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

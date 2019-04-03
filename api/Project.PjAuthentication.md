@@ -1,5 +1,5 @@
 ---
-title: PjAuthentication Enumeration (Project)
+title: PjAuthentication enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAuthentication
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAuthentication Enumeration (Project)
+# PjAuthentication enumeration (Project)
 
 Contains constants that specify how the user is authenticated. 
 

@@ -1,5 +1,5 @@
 ---
-title: Row Object (Visio)
+title: Row object (Visio)
 keywords: vis_sdr.chm10210
 f1_keywords:
 - vis_sdr.chm10210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row Object (Visio)
+# Row object (Visio)
 
 Enables you to access and manipulate a row in a section.
 

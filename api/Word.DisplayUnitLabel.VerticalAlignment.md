@@ -19,14 +19,14 @@ Returns or sets the vertical alignment of the specified object. Read/write  **Va
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_. `VerticalAlignment`
 
  _expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[xlConstants](Word.XlConstants.md)** constants:
+You can set the value of this property to one of the following  **[XlConstants](Word.XlConstants.md)** constants:
 
 
 -  **xlBottom**

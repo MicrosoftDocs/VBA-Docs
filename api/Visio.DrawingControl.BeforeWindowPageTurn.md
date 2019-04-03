@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.BeforeWindowPageTurn Event (Visio)
+title: DrawingControl.BeforeWindowPageTurn event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeWindowPageTurn
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeWindowPageTurn Event (Visio)
+# DrawingControl.BeforeWindowPageTurn event (Visio)
 
 Occurs before a window is about to show a different page.
 

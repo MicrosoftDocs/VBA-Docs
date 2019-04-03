@@ -1,5 +1,5 @@
 ---
-title: WorkWeekDays.Item Property (Project)
+title: WorkWeekDays.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeekDays.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeekDays.Item Property (Project)
+# WorkWeekDays.Item property (Project)
 
 Gets a single  **WorkWeekDay** object from the **WorkWeekDays** collection. Read-only **WorkWeekDay**.
 

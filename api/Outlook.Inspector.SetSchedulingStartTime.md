@@ -1,5 +1,5 @@
 ---
-title: Inspector.SetSchedulingStartTime Method (Outlook)
+title: Inspector.SetSchedulingStartTime method (Outlook)
 keywords: vbaol11.chm3555
 f1_keywords:
 - vbaol11.chm3555
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.SetSchedulingStartTime Method (Outlook)
+# Inspector.SetSchedulingStartTime method (Outlook)
 
 Sets the start time for a meeting item in the free/busy grid on the  **Scheduling Assistant** tab of the inspector.
 

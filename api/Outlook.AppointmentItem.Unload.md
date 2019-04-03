@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Unload Event (Outlook)
+title: AppointmentItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Unload Event (Outlook)
+# AppointmentItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
@@ -18,7 +18,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
 _expression_. `Unload`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

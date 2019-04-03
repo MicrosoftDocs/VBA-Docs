@@ -1,5 +1,5 @@
 ---
-title: JournalModule.Application Property (Outlook)
+title: JournalModule.Application property (Outlook)
 keywords: vbaol11.chm2862
 f1_keywords:
 - vbaol11.chm2862
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalModule.Application Property (Outlook)
+# JournalModule.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [JournalModule](./Outlook.JournalModule.md) object.
+_expression_ A variable that represents a [JournalModule](Outlook.JournalModule.md) object.
 
 
 ## See also

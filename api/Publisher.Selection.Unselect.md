@@ -1,5 +1,5 @@
 ---
-title: Selection.Unselect Method (Publisher)
+title: Selection.Unselect method (Publisher)
 keywords: vbapb10.chm851976
 f1_keywords:
 - vbapb10.chm851976
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Unselect Method (Publisher)
+# Selection.Unselect method (Publisher)
 
 Cancels the current selection.
 
 
 ## Syntax
 
- _expression_. **Unselect**
+ _expression_.**Unselect**
 
  _expression_ A variable that represents a  **Selection** object.
 

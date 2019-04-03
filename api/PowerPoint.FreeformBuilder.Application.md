@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.Application Property (PowerPoint)
+title: FreeformBuilder.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.FreeformBuilder.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# FreeformBuilder.Application Property (PowerPoint)
+# FreeformBuilder.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

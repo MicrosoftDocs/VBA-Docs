@@ -1,5 +1,5 @@
 ---
-title: PageSize.HasBackgroundImage Property (Publisher)
+title: PageSize.HasBackgroundImage property (Publisher)
 keywords: vbapb10.chm8847377
 f1_keywords:
 - vbapb10.chm8847377
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSize.HasBackgroundImage Property (Publisher)
+# PageSize.HasBackgroundImage property (Publisher)
 
 Returns  **True** if the blank page size represented by the parent **PageSize** object has a background image. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasBackgroundImage**
+ _expression_.**HasBackgroundImage**
 
  _expression_ A variable that represents a  **PageSize** object.
 

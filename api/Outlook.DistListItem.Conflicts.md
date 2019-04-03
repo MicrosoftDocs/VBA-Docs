@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Conflicts Property (Outlook)
+title: DistListItem.Conflicts property (Outlook)
 keywords: vbaol11.chm1165
 f1_keywords:
 - vbaol11.chm1165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Conflicts Property (Outlook)
+# DistListItem.Conflicts property (Outlook)
 
 Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
@@ -21,7 +21,7 @@ Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the ite
 
 _expression_. `Conflicts`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also

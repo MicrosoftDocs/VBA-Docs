@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.ToggleVerticalText Method (Publisher)
+title: TextEffectFormat.ToggleVerticalText method (Publisher)
 keywords: vbapb10.chm3735568
 f1_keywords:
 - vbapb10.chm3735568
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.ToggleVerticalText Method (Publisher)
+# TextEffectFormat.ToggleVerticalText method (Publisher)
 
 Switches the text flow in the specified WordArt from horizontal to vertical, or vice versa.
 
 
 ## Syntax
 
- _expression_. **ToggleVerticalText**
+ _expression_.**ToggleVerticalText**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

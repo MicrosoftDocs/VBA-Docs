@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.DefaultValue Property (Project)
+title: OutlineCode.DefaultValue property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.DefaultValue
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.DefaultValue Property (Project)
+# OutlineCode.DefaultValue property (Project)
 
 Gets or sets the default value of the  **[OutlineCode](Project.OutlineCode.md)** object. Read/write **String**.
 

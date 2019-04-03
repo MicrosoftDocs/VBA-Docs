@@ -1,5 +1,5 @@
 ---
-title: Project.CreationDate Property (Project)
+title: Project.CreationDate property (Project)
 keywords: vbapj.chm131693
 f1_keywords:
 - vbapj.chm131693
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.CreationDate Property (Project)
+# Project.CreationDate property (Project)
 
 Gets the date a project was created. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CreationDate`
+_expression_. `CreationDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

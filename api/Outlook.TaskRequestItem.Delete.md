@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Delete Method (Outlook)
+title: TaskRequestItem.Delete method (Outlook)
 keywords: vbaol11.chm1900
 f1_keywords:
 - vbaol11.chm1900
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Delete Method (Outlook)
+# TaskRequestItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
@@ -21,7 +21,7 @@ Removes the item from the folder that contains the item.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Remarks

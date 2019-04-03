@@ -1,5 +1,5 @@
 ---
-title: AddIns Object (PowerPoint)
+title: AddIns object (PowerPoint)
 keywords: vbapp10.chm520000
 f1_keywords:
 - vbapp10.chm520000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIns Object (PowerPoint)
+# AddIns object (PowerPoint)
 
 A collection of  **[AddIn](PowerPoint.AddIn.md)** objects that represent all the Microsoft PowerPoint-specific add-ins available to PowerPoint, regardless of whether or not they are loaded. This does not include Component Object Model (COM) add-ins.
 

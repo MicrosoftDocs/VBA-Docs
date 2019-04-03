@@ -1,5 +1,5 @@
 ---
-title: PbColorModel Enumeration (Publisher)
+title: PbColorModel enumeration (Publisher)
 keywords: vbapb10.chm65610
 f1_keywords:
 - vbapb10.chm65610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbColorModel Enumeration (Publisher)
+# PbColorModel enumeration (Publisher)
 
 Represents the color model of the picture.
 

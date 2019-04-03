@@ -1,5 +1,5 @@
 ---
-title: Point.Paste Method (PowerPoint)
+title: Point.Paste method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Paste
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Point.Paste Method (PowerPoint)
+# Point.Paste method (PowerPoint)
 
 Pastes a picture from the Clipboard as the marker on the selected point.
 
 
 ## Syntax
 
- _expression_. `Paste`
+_expression_. `Paste`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

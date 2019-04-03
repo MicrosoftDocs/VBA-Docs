@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ObjectType Property (Visio)
+title: ContainerProperties.ObjectType property (Visio)
 keywords: vis_sdr.chm17613960
 f1_keywords:
 - vis_sdr.chm17613960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.ObjectType Property (Visio)
+# ContainerProperties.ObjectType property (Visio)
 
 Returns  **visObjTypeContainerProperties**, the type of this object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

@@ -24,7 +24,7 @@ _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup
 
 ## Return value
 
- **[xlSparklineRowCol](Excel.XlSparklineRowCol.md)**
+ **[XlSparklineRowCol](Excel.XlSparklineRowCol.md)**
 
 
 ## Remarks

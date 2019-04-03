@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' 
 
 ## Return value
 
- **[xlPivotTableSourceType](Excel.XlPivotTableSourceType.md)**
+ **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)**
 
 
 ## Remarks

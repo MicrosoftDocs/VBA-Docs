@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationZ Method (PowerPoint)
+title: ThreeDFormat.IncrementRotationZ method (PowerPoint)
 keywords: vbapp10.chm557020
 f1_keywords:
 - vbapp10.chm557020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationZ Method (PowerPoint)
+# ThreeDFormat.IncrementRotationZ method (PowerPoint)
 
 Rotates the  **ThreeDFormat** object around the ground plane by the specified number of degrees.
 
 
 ## Syntax
 
- _expression_. `IncrementRotationZ`( `_Increment_` )
+_expression_. `IncrementRotationZ`( `_Increment_` )
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: XlBinsType Enumeration (PowerPoint)
+title: XlBinsType enumeration (PowerPoint)
 ms.assetid: a9f49fcc-4c7c-5097-ab7f-0a233df415d0
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,9 +7,9 @@ localization_priority: Normal
 ---
 
 
-# XlBinsType Enumeration (PowerPoint)
+# XlBinsType enumeration (PowerPoint)
 
-Constants passed to and returned by the [ChartGroup.BinsType](./Excel.chartgroup.binstype.md) property.
+Constants passed to and returned by the [ChartGroup.BinsType](Excel.chartgroup.binstype.md) property.
 
 
 
@@ -24,6 +24,6 @@ Constants passed to and returned by the [ChartGroup.BinsType](./Excel.chartgroup
 ## See also
 
 
-[ChartGroup.BinsType Property (PowerPoint)](PowerPoint.chartgroup.binstype.md)
+[ChartGroup.BinsType property (PowerPoint)](PowerPoint.chartgroup.binstype.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

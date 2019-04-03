@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.ContainerType Property (PowerPoint)
+title: ResampleMediaTask.ContainerType property (PowerPoint)
 keywords: vbapp10.chm727008
 f1_keywords:
 - vbapp10.chm727008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.ContainerType Property (PowerPoint)
+# ResampleMediaTask.ContainerType property (PowerPoint)
 
 Returns the format type of the container of the sample. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainerType`
+_expression_. `ContainerType`
 
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 

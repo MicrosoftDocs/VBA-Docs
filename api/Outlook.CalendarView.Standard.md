@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Standard Property (Outlook)
+title: CalendarView.Standard property (Outlook)
 keywords: vbaol11.chm2620
 f1_keywords:
 - vbaol11.chm2620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Standard Property (Outlook)
+# CalendarView.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[CalendarView](Outlook.CalendarView.md)** object is a built-in Outlook view. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[CalendarView](Outlook
 
 _expression_. `Standard`
 
- _expression_ An expression that returns a [CalendarView](./Outlook.CalendarView.md) object.
+ _expression_ An expression that returns a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks

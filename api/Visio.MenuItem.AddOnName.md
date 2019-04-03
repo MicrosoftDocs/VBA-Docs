@@ -1,5 +1,5 @@
 ---
-title: MenuItem.AddOnName Property (Visio)
+title: MenuItem.AddOnName property (Visio)
 keywords: vis_sdr.chm12913050
 f1_keywords:
 - vis_sdr.chm12913050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.AddOnName Property (Visio)
+# MenuItem.AddOnName property (Visio)
 
 Gets or sets the name of an add-on or procedure that is run when its associated menu item is selected. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddOnName`
+_expression_. `AddOnName`
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 

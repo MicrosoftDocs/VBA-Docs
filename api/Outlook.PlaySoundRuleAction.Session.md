@@ -1,5 +1,5 @@
 ---
-title: PlaySoundRuleAction.Session Property (Outlook)
+title: PlaySoundRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2273
 f1_keywords:
 - vbaol11.chm2273
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySoundRuleAction.Session Property (Outlook)
+# PlaySoundRuleAction.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [PlaySoundRuleAction](./Outlook.PlaySoundRuleAction.md) object.
+_expression_ A variable that represents a [PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md) object.
 
 
 ## Remarks

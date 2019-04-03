@@ -21,7 +21,7 @@ Switches the text flow in the specified WordArt from horizontal to vertical, or 
 
 _expression_. `ToggleVerticalText`
 
-_expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ The  **[Flip](Excel.Shape.Flip.md)** method and **[Rotation](Excel.Shape.Rotatio
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  `myDocument` and switches from horizontal text flow (the default for the specified WordArt style, **msoTextEffect1**) to vertical text flow.
+This example adds WordArt that contains the text "Test" to  _myDocument_ and switches from horizontal text flow (the default for the specified WordArt style, **msoTextEffect1**) to vertical text flow.
 
 
 ```vb

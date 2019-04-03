@@ -1,5 +1,5 @@
 ---
-title: PjCalculation Enumeration (Project)
+title: PjCalculation enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCalculation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCalculation Enumeration (Project)
+# PjCalculation enumeration (Project)
 
 Contains constants that specify the calculation mode.
 

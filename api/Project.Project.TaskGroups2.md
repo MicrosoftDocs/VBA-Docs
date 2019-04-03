@@ -1,5 +1,5 @@
 ---
-title: Project.TaskGroups2 Property (Project)
+title: Project.TaskGroups2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.TaskGroups2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.TaskGroups2 Property (Project)
+# Project.TaskGroups2 property (Project)
 
 Gets a  **[TaskGroups2](Project.taskgroups2(object).md)** collection that represents all the task-based **Group2** definitions in the specified project. Read-only **TaskGroups2**.
 
 
 ## Syntax
 
- _expression_. `TaskGroups2`
+_expression_. `TaskGroups2`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

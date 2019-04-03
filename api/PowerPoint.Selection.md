@@ -1,5 +1,5 @@
 ---
-title: Selection Object (PowerPoint)
+title: Selection object (PowerPoint)
 keywords: vbapp10.chm508000
 f1_keywords:
 - vbapp10.chm508000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection Object (PowerPoint)
+# Selection object (PowerPoint)
 
 Represents the selection in the specified document window. The  **Selection** object is deleted whenever you change slides in an active slide view (the **Type** property will return **ppSelectionNone**).
 
@@ -134,6 +134,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

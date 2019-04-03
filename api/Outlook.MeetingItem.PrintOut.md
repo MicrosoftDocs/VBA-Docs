@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.PrintOut Method (Outlook)
+title: MeetingItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1433
 f1_keywords:
 - vbaol11.chm1433
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.PrintOut Method (Outlook)
+# MeetingItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 
@@ -21,7 +21,7 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
 _expression_. `PrintOut`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

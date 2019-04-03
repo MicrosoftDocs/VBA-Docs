@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.Move Method (PowerPoint)
+title: SectionProperties.Move method (PowerPoint)
 keywords: vbapp10.chm725010
 f1_keywords:
 - vbapp10.chm725010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.Move Method (PowerPoint)
+# SectionProperties.Move method (PowerPoint)
 
 Moves the specified section to the specified index position, moving the slides in the section along with the section break.
 
 
 ## Syntax
 
- _expression_. `Move`( `_sectionIndex_`, `_toPos_` )
+_expression_. `Move`( `_sectionIndex_`, `_toPos_` )
 
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 

@@ -21,7 +21,7 @@ Returns or sets the density (pixels per inch) of graphics images and table cells
 
 _expression_. `PixelsPerInch`
 
-_expression_ A variable that represents a [WebOptions](./Excel.WebOptions.md) object.
+_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
 
 
 ## Remarks

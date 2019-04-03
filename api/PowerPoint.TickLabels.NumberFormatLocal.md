@@ -1,5 +1,5 @@
 ---
-title: TickLabels.NumberFormatLocal Property (PowerPoint)
+title: TickLabels.NumberFormatLocal property (PowerPoint)
 keywords: vbapp10.chm719007
 f1_keywords:
 - vbapp10.chm719007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.NumberFormatLocal Property (PowerPoint)
+# TickLabels.NumberFormatLocal property (PowerPoint)
 
 Returns or sets the format code for the object as a string in the language of the user. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `NumberFormatLocal`
+_expression_. `NumberFormatLocal`
 
  _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
 

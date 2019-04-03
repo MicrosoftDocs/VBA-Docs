@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Application Property (Outlook)
+title: AppointmentItem.Application property (Outlook)
 keywords: vbaol11.chm838
 f1_keywords:
 - vbaol11.chm838
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Application Property (Outlook)
+# AppointmentItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

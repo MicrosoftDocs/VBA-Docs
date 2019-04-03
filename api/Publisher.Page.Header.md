@@ -1,5 +1,5 @@
 ---
-title: Page.Header Property (Publisher)
+title: Page.Header property (Publisher)
 keywords: vbapb10.chm393247
 f1_keywords:
 - vbapb10.chm393247
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Header Property (Publisher)
+# Page.Header property (Publisher)
 
 Returns a  **HeaderFooter** object representing the header of the specified **Page** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Header**
+ _expression_.**Header**
 
  _expression_ A variable that represents a  **Page** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.CustomerData Property (PowerPoint)
+title: Shape.CustomerData property (PowerPoint)
 keywords: vbapp10.chm547076
 f1_keywords:
 - vbapp10.chm547076
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CustomerData Property (PowerPoint)
+# Shape.CustomerData property (PowerPoint)
 
 Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomerData`
+_expression_. `CustomerData`
 
  _expression_ An expression that returns a [Shape](./PowerPoint.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Language Property (Publisher)
+title: Application.Language property (Publisher)
 keywords: vbapb10.chm131091
 f1_keywords:
 - vbapb10.chm131091
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Language Property (Publisher)
+# Application.Language property (Publisher)
 
 Returns a  **Long** that represents the language selected for the Microsoft Publisher user interface. Read-only.
 
 
 ## Syntax
 
- _expression_. **Language**
+ _expression_.**Language**
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-The  **LanguageID** property value can be one of the ** [MsoLanguageID](Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
+The  **LanguageID** property value can be one of the **[MsoLanguageID](Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

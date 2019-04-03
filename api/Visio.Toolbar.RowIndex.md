@@ -1,5 +1,5 @@
 ---
-title: Toolbar.RowIndex Property (Visio)
+title: Toolbar.RowIndex property (Visio)
 keywords: vis_sdr.chm13714255
 f1_keywords:
 - vis_sdr.chm13714255
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.RowIndex Property (Visio)
+# Toolbar.RowIndex property (Visio)
 
 Gets or sets the docking order of a  **Toolbar** object in relation to other items in the same docking area. Read/write.
 
 
 ## Syntax
 
- _expression_. `RowIndex`
+_expression_. `RowIndex`
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 

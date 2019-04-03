@@ -1,5 +1,5 @@
 ---
-title: Selection.Union Method (Visio)
+title: Selection.Union method (Visio)
 keywords: vis_sdr.chm11116630
 f1_keywords:
 - vis_sdr.chm11116630
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Union Method (Visio)
+# Selection.Union method (Visio)
 
 Creates a new shape from the perimeter of selected shapes.
 
 
 ## Syntax
 
- _expression_. `Union`
+_expression_. `Union`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

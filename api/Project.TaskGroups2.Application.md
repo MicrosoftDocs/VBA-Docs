@@ -1,5 +1,5 @@
 ---
-title: TaskGroups2.Application Property (Project)
+title: TaskGroups2.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskGroups2.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskGroups2.Application Property (Project)
+# TaskGroups2.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

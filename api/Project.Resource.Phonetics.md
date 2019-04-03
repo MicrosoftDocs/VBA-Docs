@@ -1,5 +1,5 @@
 ---
-title: Resource.Phonetics Property (Project)
+title: Resource.Phonetics property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Phonetics
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Phonetics Property (Project)
+# Resource.Phonetics property (Project)
 
 Gets or sets the phonetic representation of a resource name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Phonetics`
+_expression_. `Phonetics`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

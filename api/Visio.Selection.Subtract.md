@@ -1,5 +1,5 @@
 ---
-title: Selection.Subtract Method (Visio)
+title: Selection.Subtract method (Visio)
 keywords: vis_sdr.chm11116595
 f1_keywords:
 - vis_sdr.chm11116595
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Subtract Method (Visio)
+# Selection.Subtract method (Visio)
 
 Subtracts the areas that overlap the selected shape.
 
 
 ## Syntax
 
- _expression_. `Subtract`
+_expression_. `Subtract`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

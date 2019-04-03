@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontName Property (PowerPoint)
+title: TextEffectFormat.FontName property (PowerPoint)
 keywords: vbapp10.chm556006
 f1_keywords:
 - vbapp10.chm556006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontName Property (PowerPoint)
+# TextEffectFormat.FontName property (PowerPoint)
 
 Returns or sets the name of the font in the specified WordArt. Read/write.
 
 
 ## Syntax
 
- _expression_. `FontName`
+_expression_. `FontName`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
@@ -31,7 +31,7 @@ String
 
 ## Example
 
-This example sets the font name to "Courier New" for shape three on  `myDocument` if the shape is WordArt.
+This example sets the font name to "Courier New" for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb

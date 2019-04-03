@@ -1,5 +1,5 @@
 ---
-title: Comment.Application Property (PowerPoint)
+title: Comment.Application property (PowerPoint)
 keywords: vbapp10.chm642001
 f1_keywords:
 - vbapp10.chm642001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.Application Property (PowerPoint)
+# Comment.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

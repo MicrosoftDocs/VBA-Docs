@@ -1,5 +1,5 @@
 ---
-title: Section.ObjectType Property (Visio)
+title: Section.ObjectType property (Visio)
 keywords: vis_sdr.chm15713960
 f1_keywords:
 - vis_sdr.chm15713960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Section.ObjectType Property (Visio)
+# Section.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 

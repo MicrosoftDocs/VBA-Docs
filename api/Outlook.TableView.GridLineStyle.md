@@ -1,5 +1,5 @@
 ---
-title: TableView.GridLineStyle Property (Outlook)
+title: TableView.GridLineStyle property (Outlook)
 keywords: vbaol11.chm2528
 f1_keywords:
 - vbaol11.chm2528
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.GridLineStyle Property (Outlook)
+# TableView.GridLineStyle property (Outlook)
 
 Returns or sets an  **[OlGridLineStyle](Outlook.OlGridLineStyle.md)** constant that represents the line style used for grid lines in the **[TableView](Outlook.TableView.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlGridLineStyle](Outlook.OlGridLineStyle.md)** constant t
 
 _expression_. `GridLineStyle`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Example

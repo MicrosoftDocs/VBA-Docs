@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Forward Event (Outlook)
+title: JournalItem.Forward event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Forward
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Forward Event (Outlook)
+# JournalItem.Forward event (Outlook)
 
 Occurs when the user selects the  **Forward** action for an item, or when the **Forward** method is called for the item, which is an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **Forward** action for an item, or when the **
 
 _expression_. `Forward`( `_Forward_` , `_Cancel_` )
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Parameters

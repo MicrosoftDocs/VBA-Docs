@@ -1,5 +1,5 @@
 ---
-title: Task.Successors Property (Project)
+title: Task.Successors property (Project)
 keywords: vbapj.chm132674
 f1_keywords:
 - vbapj.chm132674
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Successors Property (Project)
+# Task.Successors property (Project)
 
 Gets or sets a list of the identification numbers of a task's successors. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Successors`
+_expression_. `Successors`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

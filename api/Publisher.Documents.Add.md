@@ -1,5 +1,5 @@
 ---
-title: Documents.Add Method (Publisher)
+title: Documents.Add method (Publisher)
 keywords: vbapb10.chm8650756
 f1_keywords:
 - vbapb10.chm8650756
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Documents.Add Method (Publisher)
+# Documents.Add method (Publisher)
 
 Adds a new  **Document** object that represents a new publication to the **Documents** collection.
 
 
 ## Syntax
 
- _expression_. **Add**(**_PbWizard_**,  **_desid_**)
+ _expression_.**Add**(**_PbWizard_**,  **_desid_**)
 
- _expression_An expression that returns a  **Documents** object.
+ _expression_ An expression that returns a  **Documents** object.
 
 
 ## Parameters

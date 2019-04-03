@@ -1,5 +1,5 @@
 ---
-title: PbPrintGraphics Enumeration (Publisher)
+title: PbPrintGraphics enumeration (Publisher)
 keywords: vbapb10.chm65589
 f1_keywords:
 - vbapb10.chm65589
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPrintGraphics Enumeration (Publisher)
+# PbPrintGraphics enumeration (Publisher)
 
 Represents the resolution at which the inserted graphics are to be printed in the specified publication.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HomeAddressPostOfficeBox Property (Outlook)
+title: ContactItem.HomeAddressPostOfficeBox property (Outlook)
 keywords: vbaol11.chm1016
 f1_keywords:
 - vbaol11.chm1016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HomeAddressPostOfficeBox Property (Outlook)
+# ContactItem.HomeAddressPostOfficeBox property (Outlook)
 
 Returns or sets a  **String** the post office box number portion of the home address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** the post office box number portion of the home add
 
 _expression_. `HomeAddressPostOfficeBox`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

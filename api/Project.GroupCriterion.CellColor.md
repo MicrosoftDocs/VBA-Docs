@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.CellColor Property (Project)
+title: GroupCriterion.CellColor property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.CellColor
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.CellColor Property (Project)
+# GroupCriterion.CellColor property (Project)
 
 Gets or sets the color of the cell background for a field used as a criterion in a group definition. Read/write  **PjColor**.
 
 
 ## Syntax
 
- _expression_. `CellColor`
+_expression_. `CellColor`
 
  _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 

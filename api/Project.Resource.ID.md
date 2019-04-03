@@ -1,5 +1,5 @@
 ---
-title: Resource.ID Property (Project)
+title: Resource.ID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.ID
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.ID Property (Project)
+# Resource.ID property (Project)
 
 Gets the identification number of a resource. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ An expression that returns a [Resource](./Project.Resource.md) object.
 

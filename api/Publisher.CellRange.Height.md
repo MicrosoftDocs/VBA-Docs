@@ -1,5 +1,5 @@
 ---
-title: CellRange.Height Property (Publisher)
+title: CellRange.Height property (Publisher)
 keywords: vbapb10.chm5177348
 f1_keywords:
 - vbapb10.chm5177348
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Height Property (Publisher)
+# CellRange.Height property (Publisher)
 
 Returns a  **Long** that represent the height (in cells) of a table, range of cells, or page. Read-only.
 
 
 ## Syntax
 
- _expression_. **Height**
+ _expression_.**Height**
 
  _expression_ A variable that represents a  **CellRange** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell.LocalName Property (Visio)
+title: Cell.LocalName property (Visio)
 keywords: vis_sdr.chm10113860
 f1_keywords:
 - vis_sdr.chm10113860
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.LocalName Property (Visio)
+# Cell.LocalName property (Visio)
 
 Returns the local name of a cell. Read-only.
 
 
 ## Syntax
 
- _expression_. `LocalName`
+_expression_. `LocalName`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

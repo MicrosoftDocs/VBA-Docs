@@ -1,5 +1,5 @@
 ---
-title: PostItem.ReceivedTime Property (Outlook)
+title: PostItem.ReceivedTime property (Outlook)
 keywords: vbaol11.chm1549
 f1_keywords:
 - vbaol11.chm1549
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ReceivedTime Property (Outlook)
+# PostItem.ReceivedTime property (Outlook)
 
 Returns a  **Date** indicating the date and time at which the item was received. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the date and time at which the item was received.
 
 _expression_. `ReceivedTime`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

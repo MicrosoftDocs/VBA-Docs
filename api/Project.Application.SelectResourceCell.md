@@ -1,5 +1,5 @@
 ---
-title: Application.SelectResourceCell Method (Project)
+title: Application.SelectResourceCell method (Project)
 keywords: vbapj.chm2069
 f1_keywords:
 - vbapj.chm2069
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectResourceCell Method (Project)
+# Application.SelectResourceCell method (Project)
 
 Selects a cell containing resource information.
 
 
 ## Syntax
 
- _expression_. `SelectResourceCell`( `_Row_`, `_Column_`, `_RowRelative_` )
+_expression_. `SelectResourceCell`( `_Row_`, `_Column_`, `_RowRelative_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

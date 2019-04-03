@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.GetFreeBusy Method (Outlook)
+title: ExchangeDistributionList.GetFreeBusy method (Outlook)
 keywords: vbaol11.chm2122
 f1_keywords:
 - vbaol11.chm2122
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.GetFreeBusy Method (Outlook)
+# ExchangeDistributionList.GetFreeBusy method (Outlook)
 
 Returns  **Null** (**Nothing** in Visual Basic) because free-busy information is available only to individual users and not **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** objects.
 
@@ -21,7 +21,7 @@ Returns  **Null** (**Nothing** in Visual Basic) because free-busy information is
 
 _expression_. `GetFreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
 
- _expression_ An expression that returns an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+ _expression_ An expression that returns an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

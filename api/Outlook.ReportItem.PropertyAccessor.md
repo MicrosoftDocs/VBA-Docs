@@ -1,5 +1,5 @@
 ---
-title: ReportItem.PropertyAccessor Property (Outlook)
+title: ReportItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1680
 f1_keywords:
 - vbaol11.chm1680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.PropertyAccessor Property (Outlook)
+# ReportItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[ReportItem](Outlook.ReportItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## See also

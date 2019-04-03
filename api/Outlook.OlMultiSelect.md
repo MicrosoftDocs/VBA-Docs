@@ -1,5 +1,5 @@
 ---
-title: OlMultiSelect Enumeration (Outlook)
+title: OlMultiSelect enumeration (Outlook)
 keywords: vbaol11.chm1000027
 f1_keywords:
 - vbaol11.chm1000027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlMultiSelect Enumeration (Outlook)
+# OlMultiSelect enumeration (Outlook)
 
 Specifies the type of selection that is supported in a list box control.
 

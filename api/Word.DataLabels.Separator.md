@@ -19,7 +19,7 @@ Sets or returns the separator for the data labels on a chart. Read/write  **Vari
 
 ## Syntax
 
- _expression_. `Separator`
+_expression_. `Separator`
 
  _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
 

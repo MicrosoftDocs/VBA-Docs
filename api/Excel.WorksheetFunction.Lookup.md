@@ -21,7 +21,7 @@ Returns a value either from a one-row or one-column range or from an array. The 
 
 _expression_. `Lookup`(`Arg1`, `Arg2`, `Arg3`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

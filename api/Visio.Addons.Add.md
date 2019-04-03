@@ -1,5 +1,5 @@
 ---
-title: Addons.Add Method (Visio)
+title: Addons.Add method (Visio)
 keywords: vis_sdr.chm12516655
 f1_keywords:
 - vis_sdr.chm12516655
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Addons.Add Method (Visio)
+# Addons.Add method (Visio)
 
 Adds a new  **Addon** object to an **Addons** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_FileName_` )
+ _expression_.**Add**( `_FileName_` )
 
  _expression_ A variable that represents an [Addons](./Visio.Addons.md) object.
 

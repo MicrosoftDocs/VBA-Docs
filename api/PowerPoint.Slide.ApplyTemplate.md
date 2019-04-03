@@ -1,5 +1,5 @@
 ---
-title: Slide.ApplyTemplate Method (PowerPoint)
+title: Slide.ApplyTemplate method (PowerPoint)
 keywords: vbapp10.chm531032
 f1_keywords:
 - vbapp10.chm531032
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.ApplyTemplate Method (PowerPoint)
+# Slide.ApplyTemplate method (PowerPoint)
 
 Applies a design template to the specified slide.
 
 
 ## Syntax
 
- _expression_. `ApplyTemplate`( `_FileName_` )
+_expression_. `ApplyTemplate`( `_FileName_` )
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

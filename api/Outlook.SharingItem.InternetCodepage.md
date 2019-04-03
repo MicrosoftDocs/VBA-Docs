@@ -1,5 +1,5 @@
 ---
-title: SharingItem.InternetCodepage Property (Outlook)
+title: SharingItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm678
 f1_keywords:
 - vbaol11.chm678
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.InternetCodepage Property (Outlook)
+# SharingItem.InternetCodepage property (Outlook)
 
 Returns or sets a  **Long** that determines the Internet code page used by the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that determines the Internet code page used by the *
 
 _expression_. `InternetCodepage`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

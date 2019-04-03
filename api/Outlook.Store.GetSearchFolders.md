@@ -1,5 +1,5 @@
 ---
-title: Store.GetSearchFolders Method (Outlook)
+title: Store.GetSearchFolders method (Outlook)
 keywords: vbaol11.chm807
 f1_keywords:
 - vbaol11.chm807
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.GetSearchFolders Method (Outlook)
+# Store.GetSearchFolders method (Outlook)
 
 Returns a  **[Folders](Outlook.Folders.md)** collection object that represents the search folders defined for the **[Store](Outlook.Store.md)** object.
 
@@ -21,7 +21,7 @@ Returns a  **[Folders](Outlook.Folders.md)** collection object that represents t
 
 _expression_. `GetSearchFolders`
 
-_expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 ## Return value

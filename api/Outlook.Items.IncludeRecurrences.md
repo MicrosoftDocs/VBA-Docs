@@ -1,5 +1,5 @@
 ---
-title: Items.IncludeRecurrences Property (Outlook)
+title: Items.IncludeRecurrences property (Outlook)
 keywords: vbaol11.chm60
 f1_keywords:
 - vbaol11.chm60
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.IncludeRecurrences Property (Outlook)
+# Items.IncludeRecurrences property (Outlook)
 
 Returns a  **Boolean** that indicates **True** if the **[Items](Outlook.Items.md)** collection should include recurrence patterns. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that indicates **True** if the **[Items](Outlook.Items.md
 
 _expression_. `IncludeRecurrences`
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Remarks

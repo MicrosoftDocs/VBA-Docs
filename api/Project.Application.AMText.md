@@ -1,5 +1,5 @@
 ---
-title: Application.AMText Property (Project)
+title: Application.AMText property (Project)
 keywords: vbapj.chm131364
 f1_keywords:
 - vbapj.chm131364
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AMText Property (Project)
+# Application.AMText property (Project)
 
 Gets the text that Project displays next to morning hours in the 12-hour time format. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `AMText`
+_expression_. `AMText`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

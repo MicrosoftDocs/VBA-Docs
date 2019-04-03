@@ -1,5 +1,5 @@
 ---
-title: Resources.Add Method (Project)
+title: Resources.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resources.Add
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resources.Add Method (Project)
+# Resources.Add method (Project)
 
 Adds a  **Resource** object to a **Resources** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_`, `_Before_` )
+ _expression_.**Add**( `_Name_`, `_Before_` )
 
  _expression_ A variable that represents a 'Resources' object.
 

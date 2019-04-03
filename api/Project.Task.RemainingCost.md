@@ -1,5 +1,5 @@
 ---
-title: Task.RemainingCost Property (Project)
+title: Task.RemainingCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.RemainingCost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.RemainingCost Property (Project)
+# Task.RemainingCost property (Project)
 
 Gets the remaining cost for the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `RemainingCost`
+_expression_. `RemainingCost`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

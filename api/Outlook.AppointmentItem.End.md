@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.End Property (Outlook)
+title: AppointmentItem.End property (Outlook)
 keywords: vbaol11.chm879
 f1_keywords:
 - vbaol11.chm879
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.End Property (Outlook)
+# AppointmentItem.End property (Outlook)
 
 Returns or sets a  **Date** indicating the end date and time of an **[AppointmentItem](Outlook.AppointmentItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the end date and time of an **[Appointmen
 
 _expression_. `End`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Example

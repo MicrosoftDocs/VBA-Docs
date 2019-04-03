@@ -19,7 +19,7 @@ Returns or sets a **[WdStyleSort](Word.WdStyleSort.md)** constant that represent
 
 ## Syntax
 
- _expression_. `StyleSortMethod`
+_expression_. `StyleSortMethod`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

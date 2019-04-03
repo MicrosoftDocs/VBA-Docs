@@ -1,5 +1,5 @@
 ---
-title: FillFormat Object (PowerPoint)
+title: FillFormat object (PowerPoint)
 keywords: vbapp10.chm552000
 f1_keywords:
 - vbapp10.chm552000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat Object (PowerPoint)
+# FillFormat object (PowerPoint)
 
 Represents fill formatting for a shape. A shape can have a solid, gradient, texture, pattern, picture, or semi-transparent fill.
 
@@ -24,7 +24,7 @@ Many of the properties of the  **FillFormat** object are read-only. To set one o
 
 ## Example
 
-Use the  **Fill** property to return a **FillFormat** object. The following example adds a rectangle to `myDocument` and then sets the gradient and color for the rectangle's fill.
+Use the  **Fill** property to return a **FillFormat** object. The following example adds a rectangle to _myDocument_ and then sets the gradient and color for the rectangle's fill.
 
 
 ```vb
@@ -95,6 +95,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

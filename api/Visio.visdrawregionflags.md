@@ -1,5 +1,5 @@
 ---
-title: VisDrawRegionFlags Enumeration (Visio)
+title: VisDrawRegionFlags enumeration (Visio)
 keywords: vis_sdr.chm70250
 f1_keywords:
 - vis_sdr.chm70250
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDrawRegionFlags Enumeration (Visio)
+# VisDrawRegionFlags enumeration (Visio)
 
 Flags to pass to the  **Selection.DrawRegion** method.
 

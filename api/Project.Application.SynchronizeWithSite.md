@@ -1,5 +1,5 @@
 ---
-title: Application.SynchronizeWithSite Method (Project)
+title: Application.SynchronizeWithSite method (Project)
 keywords: vbapj.chm2287
 f1_keywords:
 - vbapj.chm2287
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SynchronizeWithSite Method (Project)
+# Application.SynchronizeWithSite method (Project)
 
 Synchronizes a local project in Project Professional with a SharePoint 2013 tasks list, or synchronizes with a SharePoint task lists project that is visible in Project Web App.
 
 
 ## Syntax
 
- _expression_. `SynchronizeWithSite`( _SiteURL_,  _ListName_)
+_expression_. `SynchronizeWithSite`( _SiteURL_,  _ListName_)
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

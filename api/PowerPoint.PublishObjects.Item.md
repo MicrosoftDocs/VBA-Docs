@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Item Method (PowerPoint)
+title: PublishObjects.Item method (PowerPoint)
 keywords: vbapp10.chm634003
 f1_keywords:
 - vbapp10.chm634003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PublishObjects.Item Method (PowerPoint)
+# PublishObjects.Item method (PowerPoint)
 
 Returns a single  **PublishObject** object from the specified **PublishObjects** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: VisWindowArrange Enumeration (Visio)
+title: VisWindowArrange enumeration (Visio)
 keywords: vis_sdr.chm70275
 f1_keywords:
 - vis_sdr.chm70275
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisWindowArrange Enumeration (Visio)
+# VisWindowArrange enumeration (Visio)
 
 Values to pass to the  **Windows.Arrange** method.
 

@@ -1,5 +1,5 @@
 ---
-title: UserProperty.Value Property (Outlook)
+title: UserProperty.Value property (Outlook)
 keywords: vbaol11.chm222
 f1_keywords:
 - vbaol11.chm222
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperty.Value Property (Outlook)
+# UserProperty.Value property (Outlook)
 
 Returns or sets a  **Variant** indicating the value for the specified custom property. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Variant** indicating the value for the specified custom pro
 
  _expression_.**Value**
 
-_expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 
 
 ## Remarks

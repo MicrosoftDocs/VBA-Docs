@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceAuto Property (Publisher)
+title: WrapFormat.DistanceAuto property (Publisher)
 keywords: vbapb10.chm786437
 f1_keywords:
 - vbapb10.chm786437
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceAuto Property (Publisher)
+# WrapFormat.DistanceAuto property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether an appropriate distance between an inline shape and any surrounding text is automatically calculated. Read/write.
 
 
 ## Syntax
 
- _expression_. **DistanceAuto**
+ _expression_.**DistanceAuto**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 

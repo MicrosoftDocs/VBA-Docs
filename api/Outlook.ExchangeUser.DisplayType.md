@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.DisplayType Property (Outlook)
+title: ExchangeUser.DisplayType property (Outlook)
 keywords: vbaol11.chm2066
 f1_keywords:
 - vbaol11.chm2066
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.DisplayType Property (Outlook)
+# ExchangeUser.DisplayType property (Outlook)
 
 Returns  **olUser** which is a constant from the **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration representing the nature of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns  **olUser** which is a constant from the **[OlDisplayType](Outlook.OlDis
 
 _expression_.**DisplayType**
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

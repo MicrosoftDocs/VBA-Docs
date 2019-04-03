@@ -1,5 +1,5 @@
 ---
-title: Application.HighlightDrivenSuccessors Method (Project)
+title: Application.HighlightDrivenSuccessors method (Project)
 keywords: vbapj.chm150
 f1_keywords:
 - vbapj.chm150
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.HighlightDrivenSuccessors Method (Project)
+# Application.HighlightDrivenSuccessors method (Project)
 Sets or clears task driven successor highlighting for the task path feature.
 
 ## Syntax
 
- _expression_. `HighlightDrivenSuccessors` _(Set)_
+_expression_. `HighlightDrivenSuccessors` _(Set)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

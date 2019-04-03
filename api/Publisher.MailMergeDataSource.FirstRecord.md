@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.FirstRecord Property (Publisher)
+title: MailMergeDataSource.FirstRecord property (Publisher)
 keywords: vbapb10.chm6291464
 f1_keywords:
 - vbapb10.chm6291464
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.FirstRecord Property (Publisher)
+# MailMergeDataSource.FirstRecord property (Publisher)
 
 Returns or sets a  **Long** that represents the number of the first record to be merged in a mail merge or catalog merge operation. Read/write.
 
 
 ## Syntax
 
- _expression_. **FirstRecord**
+ _expression_.**FirstRecord**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

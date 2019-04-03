@@ -1,5 +1,5 @@
 ---
-title: Profiles.Item Property (Project)
+title: Profiles.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profiles.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Profiles.Item Property (Project)
+# Profiles.Item property (Project)
 
 Gets a single  **Profile** object from the **Profiles** collection. Read-only **Profile**.
 

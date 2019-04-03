@@ -1,5 +1,5 @@
 ---
-title: Trendline.DataLabel Property (PowerPoint)
+title: Trendline.DataLabel property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.DataLabel
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Trendline.DataLabel Property (PowerPoint)
+# Trendline.DataLabel property (PowerPoint)
 
 Returns the data label that is associated with the trendline. Read-only  **[DataLabel](PowerPoint.DataLabel.md)**.
 
 
 ## Syntax
 
- _expression_. `DataLabel`
+_expression_. `DataLabel`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

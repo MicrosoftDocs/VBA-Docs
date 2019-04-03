@@ -17,7 +17,7 @@ Returns or sets the appearance of the content control. Read/write [WdContentCont
 
 ## Syntax
 
- _expression_. `Appearance`
+_expression_. `Appearance`
 
  _expression_ A variable that represents a [ContentControl](./Word.ContentControl.md) object.
 

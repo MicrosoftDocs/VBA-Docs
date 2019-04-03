@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.UndoEnabled Property (Visio)
+title: InvisibleApp.UndoEnabled property (Visio)
 keywords: vis_sdr.chm17514610
 f1_keywords:
 - vis_sdr.chm17514610
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.UndoEnabled Property (Visio)
+# InvisibleApp.UndoEnabled property (Visio)
 
 Determines whether undo information is maintained in memory. Read/write.
 
 
 ## Syntax
 
- _expression_. `UndoEnabled`
+_expression_. `UndoEnabled`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

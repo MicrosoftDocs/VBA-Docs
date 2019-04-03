@@ -1,5 +1,5 @@
 ---
-title: Application.Class Property (Outlook)
+title: Application.Class property (Outlook)
 keywords: vbaol11.chm706
 f1_keywords:
 - vbaol11.chm706
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Class Property (Outlook)
+# Application.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## See also

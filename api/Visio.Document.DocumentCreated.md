@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentCreated Event (Visio)
+title: Document.DocumentCreated event (Visio)
 keywords: vis_sdr.chm10519125
 f1_keywords:
 - vis_sdr.chm10519125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.DocumentCreated Event (Visio)
+# Document.DocumentCreated event (Visio)
 
 Occurs after a document is created.
 

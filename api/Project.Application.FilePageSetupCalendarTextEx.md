@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupCalendarTextEx Method (Project)
+title: Application.FilePageSetupCalendarTextEx method (Project)
 keywords: vbapj.chm2162
 f1_keywords:
 - vbapj.chm2162
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupCalendarTextEx Method (Project)
+# Application.FilePageSetupCalendarTextEx method (Project)
 
 Formats the text of calendar views for printing, where the text color can be a hexadecimal value.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupCalendarTextEx`( `_Name_`, `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_` )
+_expression_. `FilePageSetupCalendarTextEx`( `_Name_`, `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

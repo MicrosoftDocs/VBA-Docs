@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.GetPreviewEnabled Method (Visio)
+title: InvisibleApp.GetPreviewEnabled method (Visio)
 keywords: vis_sdr.chm17562100
 f1_keywords:
 - vis_sdr.chm17562100
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.GetPreviewEnabled Method (Visio)
+# InvisibleApp.GetPreviewEnabled method (Visio)
 
 Returns a value that indicates whether preview is enabled for the specified gallery in the Microsoft Visio user interface.
 
 
 ## Syntax
 
- _expression_. `GetPreviewEnabled`( `_GalleryName_` )
+_expression_. `GetPreviewEnabled`( `_GalleryName_` )
 
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 

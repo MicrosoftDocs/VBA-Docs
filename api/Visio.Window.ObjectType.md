@@ -1,5 +1,5 @@
 ---
-title: Window.ObjectType Property (Visio)
+title: Window.ObjectType property (Visio)
 keywords: vis_sdr.chm11613960
 f1_keywords:
 - vis_sdr.chm11613960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ObjectType Property (Visio)
+# Window.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

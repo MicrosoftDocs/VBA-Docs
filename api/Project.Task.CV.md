@@ -1,5 +1,5 @@
 ---
-title: Task.CV Property (Project)
+title: Task.CV property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.CV
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.CV Property (Project)
+# Task.CV property (Project)
 
 Gets the cost variance for a  **Task**. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `CV`
+_expression_. `CV`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

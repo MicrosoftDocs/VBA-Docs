@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Select Method (PowerPoint)
+title: Gridlines.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Gridlines.Select Method (PowerPoint)
+# Gridlines.Select method (PowerPoint)
 
 Selects the object.
 

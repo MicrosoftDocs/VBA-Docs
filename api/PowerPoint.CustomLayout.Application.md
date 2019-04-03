@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Application Property (PowerPoint)
+title: CustomLayout.Application property (PowerPoint)
 keywords: vbapp10.chm672001
 f1_keywords:
 - vbapp10.chm672001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Application Property (PowerPoint)
+# CustomLayout.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object. Read-only.
 

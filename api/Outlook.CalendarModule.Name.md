@@ -1,5 +1,5 @@
 ---
-title: CalendarModule.Name Property (Outlook)
+title: CalendarModule.Name property (Outlook)
 keywords: vbaol11.chm2827
 f1_keywords:
 - vbaol11.chm2827
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarModule.Name Property (Outlook)
+# CalendarModule.Name property (Outlook)
 
 Returns a  **String** value that represents the localized display name for the **[CalendarModule](Outlook.CalendarModule.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the localized display name for the *
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [CalendarModule](./Outlook.CalendarModule.md) object.
+_expression_ A variable that represents a [CalendarModule](Outlook.CalendarModule.md) object.
 
 
 ## See also

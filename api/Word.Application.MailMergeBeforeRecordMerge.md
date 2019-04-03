@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeBeforeRecordMerge Event (Word)
+title: Application.MailMergeBeforeRecordMerge event (Word)
 keywords: vbawd10.chm4000019
 f1_keywords:
 - vbawd10.chm4000019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeBeforeRecordMerge Event (Word)
+# Application.MailMergeBeforeRecordMerge event (Word)
 
 Occurs as a merge is executed for the individual records in a merge.
 
 
 ## Syntax
 
- _expression_. `Private Sub object_MailMergeBeforeRecordMerge`( `_ByVal Doc As Document_` , `_Cancel As Boolean_` )
+_expression_. `Private Sub object_MailMergeBeforeRecordMerge`( `_ByVal Doc As Document_` , `_Cancel As Boolean_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 

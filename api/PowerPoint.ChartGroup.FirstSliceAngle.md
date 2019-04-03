@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.FirstSliceAngle Property (PowerPoint)
+title: ChartGroup.FirstSliceAngle property (PowerPoint)
 keywords: vbapp10.chm692010
 f1_keywords:
 - vbapp10.chm692010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.FirstSliceAngle Property (PowerPoint)
+# ChartGroup.FirstSliceAngle property (PowerPoint)
 
 Returns or sets the angle, in degrees (clockwise from vertical), of the first pie-chart or doughnut-chart slice. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `FirstSliceAngle`
+_expression_. `FirstSliceAngle`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

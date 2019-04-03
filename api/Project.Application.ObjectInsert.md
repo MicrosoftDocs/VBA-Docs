@@ -1,5 +1,5 @@
 ---
-title: Application.ObjectInsert Method (Project)
+title: Application.ObjectInsert method (Project)
 keywords: vbapj.chm221
 f1_keywords:
 - vbapj.chm221
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ObjectInsert Method (Project)
+# Application.ObjectInsert method (Project)
 
 Displays the  **Insert Object** dialog box, which prompts the user to insert an object.
 
 
 ## Syntax
 
- _expression_. `ObjectInsert`
+_expression_. `ObjectInsert`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

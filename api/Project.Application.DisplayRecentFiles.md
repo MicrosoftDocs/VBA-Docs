@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayRecentFiles Property (Project)
+title: Application.DisplayRecentFiles property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayRecentFiles
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayRecentFiles Property (Project)
+# Application.DisplayRecentFiles property (Project)
 
  **True** if a list of recently used files appears on the **Recent** tab of the Microsoft Office Backstage view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayRecentFiles`
+_expression_. `DisplayRecentFiles`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

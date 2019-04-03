@@ -1,5 +1,5 @@
 ---
-title: OLEObject Object (Visio)
+title: OLEObject object (Visio)
 keywords: vis_sdr.chm10180
 f1_keywords:
 - vis_sdr.chm10180
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEObject Object (Visio)
+# OLEObject object (Visio)
 
 Represents an OLE 2.0 linked or embedded object or an ActiveX control in a Microsoft Visio document, page, or master.
 

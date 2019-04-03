@@ -1,5 +1,5 @@
 ---
-title: AccountRuleCondition Object (Outlook)
+title: AccountRuleCondition object (Outlook)
 keywords: vbaol11.chm3175
 f1_keywords:
 - vbaol11.chm3175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountRuleCondition Object (Outlook)
+# AccountRuleCondition object (Outlook)
 
 Represents a rule condition that evaluates whether an account was used to send a message.
 
@@ -41,6 +41,6 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

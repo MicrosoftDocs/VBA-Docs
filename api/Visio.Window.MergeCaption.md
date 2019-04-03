@@ -1,5 +1,5 @@
 ---
-title: Window.MergeCaption Property (Visio)
+title: Window.MergeCaption property (Visio)
 keywords: vis_sdr.chm11650940
 f1_keywords:
 - vis_sdr.chm11650940
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.MergeCaption Property (Visio)
+# Window.MergeCaption property (Visio)
 
 Gets or sets the abbreviated caption that appears on the page tab when the window is merged with other windows. Read/write.
 
 
 ## Syntax
 
- _expression_. `MergeCaption`
+_expression_. `MergeCaption`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

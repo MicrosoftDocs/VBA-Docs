@@ -1,5 +1,5 @@
 ---
-title: Walls.ClearFormats Method (PowerPoint)
+title: Walls.ClearFormats method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.ClearFormats
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Walls.ClearFormats Method (PowerPoint)
+# Walls.ClearFormats method (PowerPoint)
 
 Clears the formatting of the object.
 
 
 ## Syntax
 
- _expression_. `ClearFormats`
+_expression_. `ClearFormats`
 
  _expression_ A variable that represents a '[Walls](PowerPoint.Walls.md)' object.
 

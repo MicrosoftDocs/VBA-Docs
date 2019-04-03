@@ -1,5 +1,5 @@
 ---
-title: Task.LevelingDelay Property (Project)
+title: Task.LevelingDelay property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.LevelingDelay
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.LevelingDelay Property (Project)
+# Task.LevelingDelay property (Project)
 
 Gets or sets the amount of time the task is delayed due to leveling. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `LevelingDelay`
+_expression_. `LevelingDelay`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

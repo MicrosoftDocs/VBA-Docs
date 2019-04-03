@@ -1,5 +1,5 @@
 ---
-title: WebListBox.ListBoxItems Property (Publisher)
+title: WebListBox.ListBoxItems property (Publisher)
 keywords: vbapb10.chm4063235
 f1_keywords:
 - vbapb10.chm4063235
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebListBox.ListBoxItems Property (Publisher)
+# WebListBox.ListBoxItems property (Publisher)
 
 Returns a  **[WebListBoxItems](Publisher.WebListBoxItems.md)** object that represents the items in a Web list box control.
 
 
 ## Syntax
 
- _expression_. **ListBoxItems**
+ _expression_.**ListBoxItems**
 
  _expression_ A variable that represents a  **WebListBox** object.
 

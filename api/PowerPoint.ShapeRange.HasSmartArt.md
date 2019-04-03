@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HasSmartArt Property (PowerPoint)
+title: ShapeRange.HasSmartArt property (PowerPoint)
 keywords: vbapp10.chm548094
 f1_keywords:
 - vbapp10.chm548094
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.HasSmartArt Property (PowerPoint)
+# ShapeRange.HasSmartArt property (PowerPoint)
 
 Returns  **True** if the current **ShapeRange** object has a SmartArt diagram. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasSmartArt`
+_expression_. `HasSmartArt`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

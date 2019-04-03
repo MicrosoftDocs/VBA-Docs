@@ -1,5 +1,5 @@
 ---
-title: ColorScheme.Colors Method (PowerPoint)
+title: ColorScheme.Colors method (PowerPoint)
 keywords: vbapp10.chm537003
 f1_keywords:
 - vbapp10.chm537003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorScheme.Colors Method (PowerPoint)
+# ColorScheme.Colors method (PowerPoint)
 
 Returns an  **[RGBColor](PowerPoint.RGBColor.md)** object that represents a single color in a color scheme.
 
 
 ## Syntax
 
- _expression_. `Colors`( `_SchemeColor_` )
+_expression_. `Colors`( `_SchemeColor_` )
 
 _expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
 

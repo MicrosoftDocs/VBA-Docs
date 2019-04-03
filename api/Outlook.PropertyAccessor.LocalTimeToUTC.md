@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.LocalTimeToUTC Method (Outlook)
+title: PropertyAccessor.LocalTimeToUTC method (Outlook)
 keywords: vbaol11.chm1975
 f1_keywords:
 - vbaol11.chm1975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.LocalTimeToUTC Method (Outlook)
+# PropertyAccessor.LocalTimeToUTC method (Outlook)
 
 Converts a date-time value specified by  _Value_ from the local time format to Coordinated Universal Time (UTC) format.
 
@@ -21,7 +21,7 @@ Converts a date-time value specified by  _Value_ from the local time format to C
 
 _expression_. `LocalTimeToUTC`( `_Value_` )
 
-_expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters

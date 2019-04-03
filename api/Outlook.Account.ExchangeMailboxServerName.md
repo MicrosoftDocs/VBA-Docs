@@ -1,5 +1,5 @@
 ---
-title: Account.ExchangeMailboxServerName Property (Outlook)
+title: Account.ExchangeMailboxServerName property (Outlook)
 keywords: vbaol11.chm3550
 f1_keywords:
 - vbaol11.chm3550
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.ExchangeMailboxServerName Property (Outlook)
+# Account.ExchangeMailboxServerName property (Outlook)
 
 Returns a  **String** value that represents the name of the Microsoft Exchange Server that hosts the account mailbox. Read-only.
 

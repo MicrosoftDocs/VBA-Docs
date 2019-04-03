@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TwoColorGradient Method (PowerPoint)
+title: FillFormat.TwoColorGradient method (PowerPoint)
 keywords: vbapp10.chm552008
 f1_keywords:
 - vbapp10.chm552008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TwoColorGradient Method (PowerPoint)
+# FillFormat.TwoColorGradient method (PowerPoint)
 
 Sets the specified fill to a two-color gradient.
 
 
 ## Syntax
 
- _expression_. `TwoColorGradient`( `_Style_`, `_Variant_` )
+_expression_. `TwoColorGradient`( `_Style_`, `_Variant_` )
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -54,7 +54,7 @@ The Variant parameter value can be from 1 to 4, corresponding to the four varian
 
 ## Example
 
-This example adds a rectangle with a two-color gradient fill to  `myDocument` and sets the background and foreground color for the fill.
+This example adds a rectangle with a two-color gradient fill to  _myDocument_ and sets the background and foreground color for the fill.
 
 
 ```vb

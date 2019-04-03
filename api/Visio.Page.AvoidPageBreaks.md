@@ -1,5 +1,5 @@
 ---
-title: Page.AvoidPageBreaks Method (Visio)
+title: Page.AvoidPageBreaks method (Visio)
 keywords: vis_sdr.chm10962150
 f1_keywords:
 - vis_sdr.chm10962150
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.AvoidPageBreaks Method (Visio)
+# Page.AvoidPageBreaks method (Visio)
 
 Makes small adjustments to shapes to move them off page breaks.
 
 
 ## Syntax
 
- _expression_. `AvoidPageBreaks`
+_expression_. `AvoidPageBreaks`
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

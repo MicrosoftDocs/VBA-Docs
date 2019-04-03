@@ -1,5 +1,5 @@
 ---
-title: Styles.GetNamesU Method (Visio)
+title: Styles.GetNamesU method (Visio)
 keywords: vis_sdr.chm11551940
 f1_keywords:
 - vis_sdr.chm11551940
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Styles.GetNamesU Method (Visio)
+# Styles.GetNamesU method (Visio)
 
 Returns the universal names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNamesU`( `_localeIndependentNameArray()_` )
+_expression_. `GetNamesU`( `_localeIndependentNameArray()_` )
 
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) collection.
 

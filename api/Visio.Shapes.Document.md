@@ -1,5 +1,5 @@
 ---
-title: Shapes.Document Property (Visio)
+title: Shapes.Document property (Visio)
 keywords: vis_sdr.chm11313430
 f1_keywords:
 - vis_sdr.chm11313430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Document Property (Visio)
+# Shapes.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
 

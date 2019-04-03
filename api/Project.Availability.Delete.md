@@ -1,5 +1,5 @@
 ---
-title: Availability.Delete Method (Project)
+title: Availability.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Availability.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Availability.Delete Method (Project)
+# Availability.Delete method (Project)
 
 Deletes the  **Availability** object from an **Availabilities** collection.
 

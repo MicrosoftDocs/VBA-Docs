@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.MediaControlsWidth Property (PowerPoint)
+title: SlideShowView.MediaControlsWidth property (PowerPoint)
 keywords: vbapp10.chm513036
 f1_keywords:
 - vbapp10.chm513036
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.MediaControlsWidth Property (PowerPoint)
+# SlideShowView.MediaControlsWidth property (PowerPoint)
 
 Returns the width, in points, of the media control bounding box. Read-only.
 
 
 ## Syntax
 
- _expression_. `MediaControlsWidth`
+_expression_. `MediaControlsWidth`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

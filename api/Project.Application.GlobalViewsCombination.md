@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalViewsCombination Property (Project)
+title: Application.GlobalViewsCombination property (Project)
 keywords: vbapj.chm132301
 f1_keywords:
 - vbapj.chm132301
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalViewsCombination Property (Project)
+# Application.GlobalViewsCombination property (Project)
 
 Gets or sets a  **[ViewsCombination](Project.ViewCombination.md)** collection representing the combination views of the Global.mpt file. Read/write **ViewsCombination**.
 
 
 ## Syntax
 
- _expression_. `GlobalViewsCombination`
+_expression_. `GlobalViewsCombination`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Assignment.UpdateNeeded Property (Project)
+title: Assignment.UpdateNeeded property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.UpdateNeeded
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.UpdateNeeded Property (Project)
+# Assignment.UpdateNeeded property (Project)
 
  **True** if the resource assigned to a task needs to be updated regarding the status of the task. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UpdateNeeded`
+_expression_. `UpdateNeeded`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

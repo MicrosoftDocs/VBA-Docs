@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes.Application Property (PowerPoint)
+title: ColorSchemes.Application property (PowerPoint)
 keywords: vbapp10.chm536001
 f1_keywords:
 - vbapp10.chm536001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorSchemes.Application Property (PowerPoint)
+# ColorSchemes.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

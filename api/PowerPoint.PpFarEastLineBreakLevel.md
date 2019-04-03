@@ -1,5 +1,5 @@
 ---
-title: PpFarEastLineBreakLevel Enumeration (PowerPoint)
+title: PpFarEastLineBreakLevel enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpFarEastLineBreakLevel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpFarEastLineBreakLevel Enumeration (PowerPoint)
+# PpFarEastLineBreakLevel enumeration (PowerPoint)
 
 Specifies where to add the line break based upon Asian character level.
 

@@ -1,5 +1,5 @@
 ---
-title: RuleActions.Session Property (Outlook)
+title: RuleActions.Session property (Outlook)
 keywords: vbaol11.chm2180
 f1_keywords:
 - vbaol11.chm2180
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.Session Property (Outlook)
+# RuleActions.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks

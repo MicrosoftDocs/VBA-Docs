@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Visible Property (Publisher)
+title: LineFormat.Visible property (Publisher)
 keywords: vbapb10.chm3408146
 f1_keywords:
 - vbapb10.chm3408146
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Visible Property (Publisher)
+# LineFormat.Visible property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_.**Visible**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

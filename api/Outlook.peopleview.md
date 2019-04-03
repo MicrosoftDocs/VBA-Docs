@@ -1,5 +1,5 @@
 ---
-title: PeopleView Object (Outlook)
+title: PeopleView object (Outlook)
 keywords: vbaol11.chm3589
 f1_keywords:
 - vbaol11.chm3589
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView Object (Outlook)
+# PeopleView object (Outlook)
 Represents a view that displays a list of all the contacts in the current Contacts folder, and details for a selected contact.
 
 ## Version information
@@ -21,7 +21,7 @@ Version Added: Outlook 2013
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[PeopleView Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[PeopleView Object Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

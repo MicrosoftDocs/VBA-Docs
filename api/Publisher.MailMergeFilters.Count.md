@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilters.Count Property (Publisher)
+title: MailMergeFilters.Count property (Publisher)
 keywords: vbapb10.chm6750209
 f1_keywords:
 - vbapb10.chm6750209
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeFilters.Count Property (Publisher)
+# MailMergeFilters.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **MailMergeFilters** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MarkAsTask Method (Outlook)
+title: ContactItem.MarkAsTask method (Outlook)
 keywords: vbaol11.chm3031
 f1_keywords:
 - vbaol11.chm3031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MarkAsTask Method (Outlook)
+# ContactItem.MarkAsTask method (Outlook)
 
 Marks a  **[ContactItem](Outlook.ContactItem.md)** object as a task and assigns a task interval for the object.
 
@@ -21,7 +21,7 @@ Marks a  **[ContactItem](Outlook.ContactItem.md)** object as a task and assigns 
 
 _expression_. `MarkAsTask`( `_MarkInterval_` )
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

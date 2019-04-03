@@ -1,5 +1,5 @@
 ---
-title: Row.Height Property (PowerPoint)
+title: Row.Height property (PowerPoint)
 keywords: vbapp10.chm626006
 f1_keywords:
 - vbapp10.chm626006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Height Property (PowerPoint)
+# Row.Height property (PowerPoint)
 
 Returns or sets the height of the specified object, in points. Read/write.
 

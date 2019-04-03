@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.WindowChanged Event (Visio)
+title: InvisibleApp.WindowChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.WindowChanged Event (Visio)
+# InvisibleApp.WindowChanged event (Visio)
 
 Occurs when the size or position of a window changes.
 

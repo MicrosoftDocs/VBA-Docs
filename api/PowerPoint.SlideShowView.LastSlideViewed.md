@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.LastSlideViewed Property (PowerPoint)
+title: SlideShowView.LastSlideViewed property (PowerPoint)
 keywords: vbapp10.chm513010
 f1_keywords:
 - vbapp10.chm513010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.LastSlideViewed Property (PowerPoint)
+# SlideShowView.LastSlideViewed property (PowerPoint)
 
 Returns a  **[Slide](PowerPoint.Slide.md)** object that represents the slide viewed immediately before the current slide in the specified slide show view.
 
 
 ## Syntax
 
- _expression_. `LastSlideViewed`
+_expression_. `LastSlideViewed`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

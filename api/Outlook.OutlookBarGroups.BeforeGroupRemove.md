@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.BeforeGroupRemove Event (Outlook)
+title: OutlookBarGroups.BeforeGroupRemove event (Outlook)
 keywords: vbaol11.chm357
 f1_keywords:
 - vbaol11.chm357
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.BeforeGroupRemove Event (Outlook)
+# OutlookBarGroups.BeforeGroupRemove event (Outlook)
 
 Occurs before a new group is removed from the  **Shortcuts** pane, either as a result of user action or through program code.
 
@@ -21,7 +21,7 @@ Occurs before a new group is removed from the  **Shortcuts** pane, either as a r
 
 _expression_. `BeforeGroupRemove`( `_Group_` , `_Cancel_` )
 
-_expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBarGroups.md) object.
 
 
 ## Parameters

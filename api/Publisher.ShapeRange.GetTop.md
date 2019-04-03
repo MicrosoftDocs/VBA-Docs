@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.GetTop Method (Publisher)
+title: ShapeRange.GetTop method (Publisher)
 keywords: vbapb10.chm2293783
 f1_keywords:
 - vbapb10.chm2293783
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.GetTop Method (Publisher)
+# ShapeRange.GetTop method (Publisher)
 
 Returns the distance of the shape's or shape range's top edge from the top edge of the leftmost page in the current view as a  **Single** in the specified units.
 
 
 ## Syntax
 
- _expression_. **GetTop**(**_Unit_**)
+ _expression_.**GetTop**(**_Unit_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

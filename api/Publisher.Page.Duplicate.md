@@ -1,5 +1,5 @@
 ---
-title: Page.Duplicate Method (Publisher)
+title: Page.Duplicate method (Publisher)
 keywords: vbapb10.chm393256
 f1_keywords:
 - vbapb10.chm393256
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Duplicate Method (Publisher)
+# Page.Duplicate method (Publisher)
 
 Creates a duplicate of the specified  **Page** object and then returns the new **Page** object.
 
 
 ## Syntax
 
- _expression_. **Duplicate**
+ _expression_.**Duplicate**
 
  _expression_ A variable that represents a  **Page** object.
 

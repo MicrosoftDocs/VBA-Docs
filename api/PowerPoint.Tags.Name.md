@@ -1,5 +1,5 @@
 ---
-title: Tags.Name Method (PowerPoint)
+title: Tags.Name method (PowerPoint)
 keywords: vbapp10.chm611008
 f1_keywords:
 - vbapp10.chm611008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Tags.Name Method (PowerPoint)
+# Tags.Name method (PowerPoint)
 
 Returns the name of the specified tag as a  **String**.
 
 
 ## Syntax
 
- _expression_.**Name**( `_Index_` )
+ _expression_.**Name** (_Index_)
 
  _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 

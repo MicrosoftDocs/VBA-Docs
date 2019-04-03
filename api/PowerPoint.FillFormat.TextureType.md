@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureType Property (PowerPoint)
+title: FillFormat.TextureType property (PowerPoint)
 keywords: vbapp10.chm552021
 f1_keywords:
 - vbapp10.chm552021
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureType Property (PowerPoint)
+# FillFormat.TextureType property (PowerPoint)
 
 Returns the texture type for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextureType`
+_expression_. `TextureType`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 

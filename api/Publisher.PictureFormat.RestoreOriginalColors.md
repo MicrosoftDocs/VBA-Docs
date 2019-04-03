@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.RestoreOriginalColors Method (Publisher)
+title: PictureFormat.RestoreOriginalColors method (Publisher)
 keywords: vbapb10.chm3604800
 f1_keywords:
 - vbapb10.chm3604800
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.RestoreOriginalColors Method (Publisher)
+# PictureFormat.RestoreOriginalColors method (Publisher)
 
 Restores the original colors of a picture that was recolored.
 
 
 ## Syntax
 
- _expression_. **RestoreOriginalColors**
+ _expression_.**RestoreOriginalColors**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -31,7 +31,7 @@ The  **RestoreOriginalColors** method corresponds to the **Restore Original Colo
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **RestoreOriginalColors** method to restore the original colors of a picture that was recolored by using the ** [PictureFormat.Recolor](Publisher.PictureFormat.Recolor.md)** method. It recolors the first shape in the **Shapes** collection on the first page of the publication and then restores its original colors.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **RestoreOriginalColors** method to restore the original colors of a picture that was recolored by using the **[PictureFormat.Recolor](Publisher.PictureFormat.Recolor.md)** method. It recolors the first shape in the **Shapes** collection on the first page of the publication and then restores its original colors.
 
 For this example to work, the recolored shape must be either a picture or an OLE object that represents a picture.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.DrawPolyline Method (Visio)
+title: Master.DrawPolyline method (Visio)
 keywords: vis_sdr.chm10716215
 f1_keywords:
 - vis_sdr.chm10716215
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawPolyline Method (Visio)
+# Master.DrawPolyline method (Visio)
 
 Creates a shape whose path is a polyline along a given set of points.
 
 
 ## Syntax
 
- _expression_. `DrawPolyline`( `_xyArray()_` , `_Flags_` )
+_expression_. `DrawPolyline`( `_xyArray()_` , `_Flags_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

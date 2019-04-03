@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Count Property (Publisher)
+title: Adjustments.Count property (Publisher)
 keywords: vbapb10.chm2424835
 f1_keywords:
 - vbapb10.chm2424835
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Adjustments.Count Property (Publisher)
+# Adjustments.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents an  **Adjustments** object.
 

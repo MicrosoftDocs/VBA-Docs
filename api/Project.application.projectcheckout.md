@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectCheckOut Method (Project)
+title: Application.ProjectCheckOut method (Project)
 keywords: vbapj.chm2160
 f1_keywords:
 - vbapj.chm2160
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectCheckOut Method (Project)
+# Application.ProjectCheckOut method (Project)
 Checks out an open project if it is the active project.
 
 ## Syntax
 
- _expression_. `ProjectCheckOut` _(Name)_
+_expression_. `ProjectCheckOut` _(Name)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

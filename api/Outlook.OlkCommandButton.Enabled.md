@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.Enabled Property (Outlook)
+title: OlkCommandButton.Enabled property (Outlook)
 keywords: vbaol11.chm1000112
 f1_keywords:
 - vbaol11.chm1000112
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.Enabled Property (Outlook)
+# OlkCommandButton.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that indicates if the control is allowed to funct
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks

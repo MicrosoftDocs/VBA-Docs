@@ -1,5 +1,5 @@
 ---
-title: Coauthoring.Application Property (PowerPoint)
+title: Coauthoring.Application property (PowerPoint)
 keywords: vbapp10.chm731001
 f1_keywords:
 - vbapp10.chm731001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Coauthoring.Application Property (PowerPoint)
+# Coauthoring.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

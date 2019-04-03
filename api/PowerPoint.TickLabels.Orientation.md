@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Orientation Property (PowerPoint)
+title: TickLabels.Orientation property (PowerPoint)
 keywords: vbapp10.chm719008
 f1_keywords:
 - vbapp10.chm719008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Orientation Property (PowerPoint)
+# TickLabels.Orientation property (PowerPoint)
 
 Returns or sets the text orientation. Read/write  **Long**.
 
@@ -26,7 +26,7 @@ Returns or sets the text orientation. Read/write  **Long**.
 
 ## Remarks
 
-The value of this property can be an integer from -90 through 90 degrees or one of the  **[xlTickLabelOrientation](PowerPoint.XlTickLabelOrientation.md)** constants.
+The value of this property can be an integer from -90 through 90 degrees or one of the  **[XlTickLabelOrientation](PowerPoint.XlTickLabelOrientation.md)** constants.
 
 
 ## See also

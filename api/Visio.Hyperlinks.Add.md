@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Add Method (Visio)
+title: Hyperlinks.Add method (Visio)
 keywords: vis_sdr.chm15616005
 f1_keywords:
 - vis_sdr.chm15616005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Add Method (Visio)
+# Hyperlinks.Add method (Visio)
 
 Adds a new object to a collection.
 
 
 ## Syntax
 
- _expression_. `Add`
+ _expression_.**Add**
 
  _expression_ A variable that represents a [Hyperlinks](./Visio.Hyperlinks.md) object.
 

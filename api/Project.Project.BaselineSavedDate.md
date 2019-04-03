@@ -1,5 +1,5 @@
 ---
-title: Project.BaselineSavedDate Property (Project)
+title: Project.BaselineSavedDate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.BaselineSavedDate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.BaselineSavedDate Property (Project)
+# Project.BaselineSavedDate property (Project)
 
 Gets date the specified baseline was last saved. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BaselineSavedDate`( `_Baseline_` )
+_expression_. `BaselineSavedDate`( `_Baseline_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

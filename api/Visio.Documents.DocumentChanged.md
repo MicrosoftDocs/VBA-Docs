@@ -1,5 +1,5 @@
 ---
-title: Documents.DocumentChanged Event (Visio)
+title: Documents.DocumentChanged event (Visio)
 keywords: vis_sdr.chm10619120
 f1_keywords:
 - vis_sdr.chm10619120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.DocumentChanged Event (Visio)
+# Documents.DocumentChanged event (Visio)
 
 Occurs after certain properties of a document are changed.
 

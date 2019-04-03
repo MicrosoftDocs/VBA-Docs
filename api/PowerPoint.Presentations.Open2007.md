@@ -1,5 +1,5 @@
 ---
-title: Presentations.Open2007 Method (PowerPoint)
+title: Presentations.Open2007 method (PowerPoint)
 keywords: vbapp10.chm522009
 f1_keywords:
 - vbapp10.chm522009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentations.Open2007 Method (PowerPoint)
+# Presentations.Open2007 method (PowerPoint)
 
 Opens the specified presentation and provides the option to repair the presentation file. Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents the opened presentation.
 
 
 ## Syntax
 
- _expression_. `Open2007`( `_FileName_`, `_ReadOnly_`, `_Untitled_`, `_WithWindow_`, `_OpenAndRepair_` )
+_expression_. `Open2007`( `_FileName_`, `_ReadOnly_`, `_Untitled_`, `_WithWindow_`, `_OpenAndRepair_` )
 
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 

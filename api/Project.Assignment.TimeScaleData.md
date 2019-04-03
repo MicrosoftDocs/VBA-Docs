@@ -1,5 +1,5 @@
 ---
-title: Assignment.TimeScaleData Method (Project)
+title: Assignment.TimeScaleData method (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.TimeScaleData
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.TimeScaleData Method (Project)
+# Assignment.TimeScaleData method (Project)
 
 Sets options for displaying timephased data.
 
 
 ## Syntax
 
- _expression_. `TimeScaleData`( `_StartDate_`, `_EndDate_`, `_Type_`, `_TimeScaleUnit_`, `_Count_` )
+_expression_. `TimeScaleData`( `_StartDate_`, `_EndDate_`, `_Type_`, `_TimeScaleUnit_`, `_Count_` )
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

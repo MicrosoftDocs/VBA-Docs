@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Count Property (PowerPoint)
+title: Adjustments.Count property (PowerPoint)
 keywords: vbapp10.chm550002
 f1_keywords:
 - vbapp10.chm550002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Adjustments.Count Property (PowerPoint)
+# Adjustments.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

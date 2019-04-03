@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectNotes Property (Project)
+title: Project.ProjectNotes property (Project)
 keywords: vbapj.chm132524
 f1_keywords:
 - vbapj.chm132524
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectNotes Property (Project)
+# Project.ProjectNotes property (Project)
 
 Gets or sets the notes for the project. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ProjectNotes`
+_expression_. `ProjectNotes`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

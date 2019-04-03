@@ -1,5 +1,5 @@
 ---
-title: Selection.Intersect Method (Visio)
+title: Selection.Intersect method (Visio)
 keywords: vis_sdr.chm11116375
 f1_keywords:
 - vis_sdr.chm11116375
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Intersect Method (Visio)
+# Selection.Intersect method (Visio)
 
 Creates one closed shape from the area in which selected shapes overlap or intersect.
 
 
 ## Syntax
 
- _expression_. `Intersect`
+_expression_. `Intersect`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

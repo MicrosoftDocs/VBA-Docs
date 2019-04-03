@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline3Duration Property (Project)
+title: Task.Baseline3Duration property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline3Duration
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline3Duration Property (Project)
+# Task.Baseline3Duration property (Project)
 
 Gets or sets the baseline3 duration (in minutes) of a task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline3Duration`
+_expression_. `Baseline3Duration`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

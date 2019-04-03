@@ -1,5 +1,5 @@
 ---
-title: Chart.Rotation Property (PowerPoint)
+title: Chart.Rotation property (PowerPoint)
 keywords: vbapp10.chm684041
 f1_keywords:
 - vbapp10.chm684041
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.Rotation Property (PowerPoint)
+# Chart.Rotation property (PowerPoint)
 
 Returns or sets the rotation, in degrees, of the 3-D chart view (the rotation of the plot area around the z-axis). Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Rotation`
+_expression_. `Rotation`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

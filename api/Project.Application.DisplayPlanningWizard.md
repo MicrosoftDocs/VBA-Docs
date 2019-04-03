@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayPlanningWizard Property (Project)
+title: Application.DisplayPlanningWizard property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayPlanningWizard
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayPlanningWizard Property (Project)
+# Application.DisplayPlanningWizard property (Project)
 
  **True** if the PlanningWizard is active. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayPlanningWizard`
+_expression_. `DisplayPlanningWizard`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.SubProjectReadOnly Property (Project)
+title: Task.SubProjectReadOnly property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.SubProjectReadOnly
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.SubProjectReadOnly Property (Project)
+# Task.SubProjectReadOnly property (Project)
 
  **True** if the subproject is read-only. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `SubProjectReadOnly`
+_expression_. `SubProjectReadOnly`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

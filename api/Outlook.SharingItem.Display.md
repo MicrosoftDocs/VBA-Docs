@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Display Method (Outlook)
+title: SharingItem.Display method (Outlook)
 keywords: vbaol11.chm626
 f1_keywords:
 - vbaol11.chm626
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Display Method (Outlook)
+# SharingItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the **[SharingItem](Outlook.SharingItem.md)**.
 
@@ -21,7 +21,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the **[SharingI
 
 _expression_. `Display`( `_Modal_` )
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

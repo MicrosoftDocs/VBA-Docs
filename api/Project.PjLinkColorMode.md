@@ -1,5 +1,5 @@
 ---
-title: PjLinkColorMode Enumeration (Project)
+title: PjLinkColorMode enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLinkColorMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLinkColorMode Enumeration (Project)
+# PjLinkColorMode enumeration (Project)
 
 Contains constants that specify whether the colors of link lines in a Network Diagram view can be custom values or must inherit colors from the predecessor task.
 

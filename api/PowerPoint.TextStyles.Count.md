@@ -1,5 +1,5 @@
 ---
-title: TextStyles.Count Property (PowerPoint)
+title: TextStyles.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyles.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyles.Count Property (PowerPoint)
+# TextStyles.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

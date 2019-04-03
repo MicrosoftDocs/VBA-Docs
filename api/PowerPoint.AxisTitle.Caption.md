@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Caption Property (PowerPoint)
+title: AxisTitle.Caption property (PowerPoint)
 keywords: vbapp10.chm683001
 f1_keywords:
 - vbapp10.chm683001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Caption Property (PowerPoint)
+# AxisTitle.Caption property (PowerPoint)
 
 Returns or sets a  **String** value that represents the axis title text.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.IsOffline Method (Project)
+title: Application.IsOffline method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.IsOffline
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.IsOffline Method (Project)
+# Application.IsOffline method (Project)
 
 Returns  **False** if Project Professional is connected with Project Server.
 
 
 ## Syntax
 
- _expression_. `IsOffline`
+_expression_. `IsOffline`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

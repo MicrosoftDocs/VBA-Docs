@@ -1,5 +1,5 @@
 ---
-title: Items.Sort Method (Outlook)
+title: Items.Sort method (Outlook)
 keywords: vbaol11.chm72
 f1_keywords:
 - vbaol11.chm72
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.Sort Method (Outlook)
+# Items.Sort method (Outlook)
 
 Sorts the collection of items by the specified property. The index for the collection is reset to 1 upon completion of this method.
 
@@ -21,7 +21,7 @@ Sorts the collection of items by the specified property. The index for the colle
 
 _expression_. `Sort`( `_Property_` , `_Descending_` )
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Parameters

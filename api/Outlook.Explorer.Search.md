@@ -1,5 +1,5 @@
 ---
-title: Explorer.Search Method (Outlook)
+title: Explorer.Search method (Outlook)
 keywords: vbaol11.chm2784
 f1_keywords:
 - vbaol11.chm2784
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Search Method (Outlook)
+# Explorer.Search method (Outlook)
 
 Performs a Microsoft Instant Search on the current folder displayed in the Explorer using the given  _Query_.
 
@@ -21,7 +21,7 @@ Performs a Microsoft Instant Search on the current folder displayed in the Explo
 
 _expression_. `Search`( `_Query_` , `_SearchScope_` )
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters

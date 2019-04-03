@@ -1,5 +1,5 @@
 ---
-title: VisGraphicItemTypes Enumeration (Visio)
+title: VisGraphicItemTypes enumeration (Visio)
 keywords: vis_sdr.chm70475
 f1_keywords:
 - vis_sdr.chm70475
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisGraphicItemTypes Enumeration (Visio)
+# VisGraphicItemTypes enumeration (Visio)
 
 Represent the types of graphic items that can be added to data graphics. Returned by the  **GraphicItem.Type** property.
 

@@ -1,5 +1,5 @@
 ---
-title: WizardProperty.Enabled Property (Publisher)
+title: WizardProperty.Enabled property (Publisher)
 keywords: vbapb10.chm1572871
 f1_keywords:
 - vbapb10.chm1572871
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WizardProperty.Enabled Property (Publisher)
+# WizardProperty.Enabled property (Publisher)
 
  **True** if a wizard property is enabled. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Enabled**
+ _expression_.**Enabled**
 
  _expression_ A variable that represents an  **WizardProperty** object.
 

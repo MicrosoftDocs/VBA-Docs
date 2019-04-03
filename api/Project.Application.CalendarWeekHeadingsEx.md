@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarWeekHeadingsEx Method (Project)
+title: Application.CalendarWeekHeadingsEx method (Project)
 keywords: vbapj.chm2341
 f1_keywords:
 - vbapj.chm2341
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarWeekHeadingsEx Method (Project)
+# Application.CalendarWeekHeadingsEx method (Project)
 
 Customizes headings in the Calendar.
 
 
 ## Syntax
 
- _expression_. `CalendarWeekHeadingsEx`( `_MonthTitle_`, `_WeekTitle_`, `_DayTitle_`, `_ShowPreview_`, `_DaysPerWeek_`, `_ShowTitleBeginningEndDates_` )
+_expression_. `CalendarWeekHeadingsEx`( `_MonthTitle_`, `_WeekTitle_`, `_DayTitle_`, `_ShowPreview_`, `_DaysPerWeek_`, `_ShowTitleBeginningEndDates_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

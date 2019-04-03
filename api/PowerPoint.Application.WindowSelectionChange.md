@@ -1,5 +1,5 @@
 ---
-title: Application.WindowSelectionChange Event (PowerPoint)
+title: Application.WindowSelectionChange event (PowerPoint)
 keywords: vbapp10.chm621001
 f1_keywords:
 - vbapp10.chm621001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowSelectionChange Event (PowerPoint)
+# Application.WindowSelectionChange event (PowerPoint)
 
 Occurs when the selection of text, a shape, or a slide in the active document window changes, whether in the user interface or in code.
 
 
 ## Syntax
 
- _expression_. `WindowSelectionChange`( `_Sel_` )
+_expression_. `WindowSelectionChange`( `_Sel_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IncludeChapterNumber`
+_expression_. `IncludeChapterNumber`
 
  _expression_ Required. A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: FormRegionStartup.GetFormRegionManifest Method (Outlook)
+title: FormRegionStartup.GetFormRegionManifest method (Outlook)
 keywords: vbaol11.chm3305
 f1_keywords:
 - vbaol11.chm3305
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegionStartup.GetFormRegionManifest Method (Outlook)
+# FormRegionStartup.GetFormRegionManifest method (Outlook)
 
 Obtains the XML manifest for a form region.
 

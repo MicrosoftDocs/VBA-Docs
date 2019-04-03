@@ -1,5 +1,5 @@
 ---
-title: Assignment.OvertimeWork Property (Project)
+title: Assignment.OvertimeWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.OvertimeWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.OvertimeWork Property (Project)
+# Assignment.OvertimeWork property (Project)
 
 Gets or sets the overtime work for an assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `OvertimeWork`
+_expression_. `OvertimeWork`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

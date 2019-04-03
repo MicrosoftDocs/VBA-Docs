@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CurrentScope Property (Visio)
+title: InvisibleApp.CurrentScope property (Visio)
 keywords: vis_sdr.chm17513340
 f1_keywords:
 - vis_sdr.chm17513340
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CurrentScope Property (Visio)
+# InvisibleApp.CurrentScope property (Visio)
 
 Determines the ID of the scope that causes an event to fire. Read-only.
 
 
 ## Syntax
 
- _expression_. `CurrentScope`
+_expression_. `CurrentScope`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

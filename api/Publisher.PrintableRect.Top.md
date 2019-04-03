@@ -1,5 +1,5 @@
 ---
-title: PrintableRect.Top Property (Publisher)
+title: PrintableRect.Top property (Publisher)
 keywords: vbapb10.chm7536644
 f1_keywords:
 - vbapb10.chm7536644
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PrintableRect.Top Property (Publisher)
+# PrintableRect.Top property (Publisher)
 
 Returns the a  **Single** that represents the distance (in points) from the top edge of the printer sheet to the top edge of the printable rectangle. Read-only.
 
 
 ## Syntax
 
- _expression_. **Top**
+ _expression_.**Top**
 
  _expression_ A variable that represents a  **PrintableRect** object.
 

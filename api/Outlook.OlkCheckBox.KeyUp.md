@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.KeyUp Event (Outlook)
+title: OlkCheckBox.KeyUp event (Outlook)
 keywords: vbaol11.chm1000158
 f1_keywords:
 - vbaol11.chm1000158
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.KeyUp Event (Outlook)
+# OlkCheckBox.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 
@@ -21,7 +21,7 @@ Occurs when the user releases a key.
 
 _expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Parameters

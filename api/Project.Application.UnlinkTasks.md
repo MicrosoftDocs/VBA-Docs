@@ -1,5 +1,5 @@
 ---
-title: Application.UnlinkTasks Method (Project)
+title: Application.UnlinkTasks method (Project)
 keywords: vbapj.chm211
 f1_keywords:
 - vbapj.chm211
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.UnlinkTasks Method (Project)
+# Application.UnlinkTasks method (Project)
 
 Unlinks the selected tasks.
 
 
 ## Syntax
 
- _expression_. `UnlinkTasks`
+_expression_. `UnlinkTasks`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

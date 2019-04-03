@@ -1,5 +1,5 @@
 ---
-title: AccountSelector.SelectedAccount Property (Outlook)
+title: AccountSelector.SelectedAccount property (Outlook)
 keywords: vbaol11.chm3453
 f1_keywords:
 - vbaol11.chm3453
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountSelector.SelectedAccount Property (Outlook)
+# AccountSelector.SelectedAccount property (Outlook)
 
 Returns an  **[Account](Outlook.Account.md)** object that represents the selected account in the Microsoft Office Backstage view in Microsoft Outlook. Read-only.
 

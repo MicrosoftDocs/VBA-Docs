@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReceivedByEntryID Property (Outlook)
+title: MailItem.ReceivedByEntryID property (Outlook)
 keywords: vbaol11.chm1341
 f1_keywords:
 - vbaol11.chm1341
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ReceivedByEntryID Property (Outlook)
+# MailItem.ReceivedByEntryID property (Outlook)
 
 Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** for the true recipient as set by the transport provider delivering the mail message. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)
 
 _expression_. `ReceivedByEntryID`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

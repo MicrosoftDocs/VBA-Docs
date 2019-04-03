@@ -1,5 +1,5 @@
 ---
-title: Application.OfficeTaskPaneHide Method (Project)
+title: Application.OfficeTaskPaneHide method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.OfficeTaskPaneHide
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OfficeTaskPaneHide Method (Project)
+# Application.OfficeTaskPaneHide method (Project)
 
 Hides the Office task pane if it is visible.
 
 
 ## Syntax
 
- _expression_. `OfficeTaskPaneHide`
+_expression_. `OfficeTaskPaneHide`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

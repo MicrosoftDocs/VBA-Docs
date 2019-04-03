@@ -1,5 +1,5 @@
 ---
-title: Document.HeaderCenter Property (Visio)
+title: Document.HeaderCenter property (Visio)
 keywords: vis_sdr.chm10550630
 f1_keywords:
 - vis_sdr.chm10550630
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.HeaderCenter Property (Visio)
+# Document.HeaderCenter property (Visio)
 
 Contains the text string that appears in the center portion of a document's header. Read/write.
 
 
 ## Syntax
 
- _expression_. `HeaderCenter`
+_expression_. `HeaderCenter`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Read Event (Outlook)
+title: ContactItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Read Event (Outlook)
+# ContactItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
 _expression_. `Read`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

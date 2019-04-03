@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.Index Property (Project)
+title: LookupTableEntry.Index property (Project)
 keywords: vbapj.chm132392
 f1_keywords:
 - vbapj.chm132392
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry.Index Property (Project)
+# LookupTableEntry.Index property (Project)
 
 Gets the index of a  **LookupTableEntry** object in the containing **LookupTable** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 

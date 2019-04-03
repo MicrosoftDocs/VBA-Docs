@@ -1,5 +1,5 @@
 ---
-title: OlFormRegionSize Enumeration (Outlook)
+title: OlFormRegionSize enumeration (Outlook)
 keywords: vbaol11.chm3104
 f1_keywords:
 - vbaol11.chm3104
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormRegionSize Enumeration (Outlook)
+# OlFormRegionSize enumeration (Outlook)
 
 Identifies the type of form region.
 

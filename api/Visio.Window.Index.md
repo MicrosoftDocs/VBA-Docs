@@ -1,5 +1,5 @@
 ---
-title: Window.Index Property (Visio)
+title: Window.Index property (Visio)
 keywords: vis_sdr.chm11613695
 f1_keywords:
 - vis_sdr.chm11613695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Index Property (Visio)
+# Window.Index property (Visio)
 
 Gets the ordinal position of a  **Window** object in the **Windows** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

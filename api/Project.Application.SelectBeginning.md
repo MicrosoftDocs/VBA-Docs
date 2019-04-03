@@ -1,5 +1,5 @@
 ---
-title: Application.SelectBeginning Method (Project)
+title: Application.SelectBeginning method (Project)
 keywords: vbapj.chm2041
 f1_keywords:
 - vbapj.chm2041
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectBeginning Method (Project)
+# Application.SelectBeginning method (Project)
 
 Selects the first cell in the active table or view.
 
 
 ## Syntax
 
- _expression_. `SelectBeginning`( `_Extend_` )
+_expression_. `SelectBeginning`( `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

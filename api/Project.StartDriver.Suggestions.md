@@ -1,5 +1,5 @@
 ---
-title: StartDriver.Suggestions Property (Project)
+title: StartDriver.Suggestions property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.Suggestions
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.Suggestions Property (Project)
+# StartDriver.Suggestions property (Project)
 
 Gets a combination of  **[PjTaskWarnings](Project.PjTaskWarnings.md)** values that indicate whether there are potential problems that should be fixed for a specified task. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Suggestions`
+_expression_. `Suggestions`
 
  _expression_ An expression that returns a [StartDriver](./Project.StartDriver.md) object.
 

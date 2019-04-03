@@ -1,5 +1,5 @@
 ---
-title: DocumentWindows Object (PowerPoint)
+title: DocumentWindows object (PowerPoint)
 keywords: vbapp10.chm509000
 f1_keywords:
 - vbapp10.chm509000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindows Object (PowerPoint)
+# DocumentWindows object (PowerPoint)
 
 A collection of all the  **[DocumentWindow](PowerPoint.DocumentWindow.md)** objects that are currently open in Microsoft PowerPoint. This collection doesn't include open slide show windows, which are included in the **[SlideShowWindows](PowerPoint.SlideShowWindows.md)** collection.
 

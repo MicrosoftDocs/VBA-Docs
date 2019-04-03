@@ -1,5 +1,5 @@
 ---
-title: MailItem.InternetCodepage Property (Outlook)
+title: MailItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm1375
 f1_keywords:
 - vbaol11.chm1375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.InternetCodepage Property (Outlook)
+# MailItem.InternetCodepage property (Outlook)
 
 Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that determines the Internet code page used by the i
 
 _expression_. `InternetCodepage`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

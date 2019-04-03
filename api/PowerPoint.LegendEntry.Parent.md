@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Parent Property (PowerPoint)
+title: LegendEntry.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntry.Parent Property (PowerPoint)
+# LegendEntry.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

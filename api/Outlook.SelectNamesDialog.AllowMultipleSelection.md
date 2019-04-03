@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.AllowMultipleSelection Property (Outlook)
+title: SelectNamesDialog.AllowMultipleSelection property (Outlook)
 keywords: vbaol11.chm831
 f1_keywords:
 - vbaol11.chm831
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.AllowMultipleSelection Property (Outlook)
+# SelectNamesDialog.AllowMultipleSelection property (Outlook)
 
 Returns or sets a  **Boolean** that determines whether more than one address entry can be selected at a time in the **Select Names** dialog. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that determines whether more than one address ent
 
 _expression_. `AllowMultipleSelection`
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

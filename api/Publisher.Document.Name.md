@@ -1,5 +1,5 @@
 ---
-title: Document.Name Property (Publisher)
+title: Document.Name property (Publisher)
 keywords: vbapb10.chm196630
 f1_keywords:
 - vbapb10.chm196630
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Name Property (Publisher)
+# Document.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_.**Name**
 
  _expression_ A variable that represents a  **Document** object.
 

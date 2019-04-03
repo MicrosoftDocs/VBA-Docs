@@ -1,5 +1,5 @@
 ---
-title: Application.LevelProposedBookings Property (Project)
+title: Application.LevelProposedBookings property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.LevelProposedBookings
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelProposedBookings Property (Project)
+# Application.LevelProposedBookings property (Project)
 
 Gets or sets a value that indicates whether proposed assignment bookings will be leveled. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LevelProposedBookings`
+_expression_. `LevelProposedBookings`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

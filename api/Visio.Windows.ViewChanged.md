@@ -1,5 +1,5 @@
 ---
-title: Windows.ViewChanged Event (Visio)
+title: Windows.ViewChanged event (Visio)
 keywords: vis_sdr.chm11719260
 f1_keywords:
 - vis_sdr.chm11719260
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.ViewChanged Event (Visio)
+# Windows.ViewChanged event (Visio)
 
 Occurs when the zoom level or scroll position of a drawing window changes.
 

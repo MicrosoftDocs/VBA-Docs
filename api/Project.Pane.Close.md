@@ -1,5 +1,5 @@
 ---
-title: Pane.Close Method (Project)
+title: Pane.Close method (Project)
 ms.prod: project-server
 api_name:
 - Project.Pane.Close
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Pane.Close Method (Project)
+# Pane.Close method (Project)
 
 Closes the bottom pane of a window.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
  _expression_ An expression that returns a [Pane](./Project.Pane.md) object.
 

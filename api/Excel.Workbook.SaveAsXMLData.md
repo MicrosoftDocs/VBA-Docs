@@ -19,9 +19,9 @@ Exports the data that has been mapped to the specified XML schema map to an XML 
 
 ## Syntax
 
-_expression_. `SaveAsXMLData`( `_Filename_` , `_Map_` )
+_expression_. `SaveAsXMLData`( `_FileName_` , `_Map_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.|
+| _FileName_|Required| **String**|A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The schema map to apply to the data.|
 
 ## Remarks

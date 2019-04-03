@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.RegisterRibbonX Method (Visio)
+title: InvisibleApp.RegisterRibbonX method (Visio)
 keywords: vis_sdr.chm17562090
 f1_keywords:
 - vis_sdr.chm17562090
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.RegisterRibbonX Method (Visio)
+# InvisibleApp.RegisterRibbonX method (Visio)
 
 Registers the  **[IRibbonExtensibility](Office.IRibbonExtensibility.md)** interface that is implemented by the specified add-on to populate the custom user interface (UI).
 
 
 ## Syntax
 
- _expression_. `RegisterRibbonX`( `_SourceAddOn_` , `_TargetDocument_` , `_TargetModes_` , `_FriendlyName_` )
+_expression_. `RegisterRibbonX`( `_SourceAddOn_` , `_TargetDocument_` , `_TargetModes_` , `_FriendlyName_` )
 
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparentBackground Property (PowerPoint)
+title: PictureFormat.TransparentBackground property (PowerPoint)
 keywords: vbapp10.chm551012
 f1_keywords:
 - vbapp10.chm551012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.TransparentBackground Property (PowerPoint)
+# PictureFormat.TransparentBackground property (PowerPoint)
 
 Determines whether parts of the picture that are the color defined as the transparent color appear transparent. Applies to bitmaps only. Read/write. 
 
 
 ## Syntax
 
- _expression_. `TransparentBackground`
+_expression_. `TransparentBackground`
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 
@@ -46,7 +46,7 @@ The value of the  **TransparentBackground** property can be one of these **MsoTr
 
 ## Example
 
-This example sets the color that has the RGB value returned by the function RGB(0, 24, 240) as the transparent color for shape one on  `myDocument`. For the example to work, shape one must be a bitmap.
+This example sets the color that has the RGB value returned by the function RGB(0, 24, 240) as the transparent color for shape one on  _myDocument_. For the example to work, shape one must be a bitmap.
 
 
 ```vb

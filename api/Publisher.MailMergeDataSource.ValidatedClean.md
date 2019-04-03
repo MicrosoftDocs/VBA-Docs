@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.ValidatedClean Property (Publisher)
+title: MailMergeDataSource.ValidatedClean property (Publisher)
 keywords: vbapb10.chm6291497
 f1_keywords:
 - vbapb10.chm6291497
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.ValidatedClean Property (Publisher)
+# MailMergeDataSource.ValidatedClean property (Publisher)
 
 Indicates whether all recipient addresses in the parent  **MailMergeDataSource** object were successfully validated, and whether any changes are made to the list since the last validation that require the list to be validated again. Read/write.
 
 
 ## Syntax
 
- _expression_. **ValidatedClean**
+ _expression_.**ValidatedClean**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

@@ -1,5 +1,5 @@
 ---
-title: DataRecordset Object (Visio)
+title: DataRecordset object (Visio)
 keywords: vis_sdr.chm61005
 f1_keywords:
 - vis_sdr.chm61005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset Object (Visio)
+# DataRecordset object (Visio)
 
 Stores, formats, refreshes, and exposes data queried from a database in Microsoft Visio.
 

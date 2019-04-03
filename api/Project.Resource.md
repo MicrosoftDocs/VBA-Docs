@@ -1,5 +1,5 @@
 ---
-title: Resource Object (Project)
+title: Resource object (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resource Object (Project)
+# Resource object (Project)
 
 
 

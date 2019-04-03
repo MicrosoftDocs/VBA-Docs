@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Item Method (Publisher)
+title: ShapeRange.Item method (Publisher)
 keywords: vbapb10.chm2293760
 f1_keywords:
 - vbapb10.chm2293760
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Item Method (Publisher)
+# ShapeRange.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

@@ -19,7 +19,7 @@ Returns an  **[Endnotes](Word.endnotes.md)** collection that represents all the 
 
 ## Syntax
 
- _expression_. `Endnotes`
+_expression_. `Endnotes`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

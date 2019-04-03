@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.OutlookVersion Property (Outlook)
+title: TaskRequestUpdateItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1940
 f1_keywords:
 - vbaol11.chm1940
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.OutlookVersion Property (Outlook)
+# TaskRequestUpdateItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 
 
 ## Syntax
 
- _expression_. `OutlookVersion`
+_expression_. `OutlookVersion`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## See also

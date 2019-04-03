@@ -1,5 +1,5 @@
 ---
-title: Timing.TriggerType Property (PowerPoint)
+title: Timing.TriggerType property (PowerPoint)
 keywords: vbapp10.chm653004
 f1_keywords:
 - vbapp10.chm653004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Timing.TriggerType Property (PowerPoint)
+# Timing.TriggerType property (PowerPoint)
 
 Represents the trigger that starts an animation. Read/write.
 
 
 ## Syntax
 
- _expression_. `TriggerType`
+_expression_. `TriggerType`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

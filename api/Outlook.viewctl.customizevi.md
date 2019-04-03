@@ -14,7 +14,7 @@ Displays the Microsoft Outlook  **View Summary** dialog box.
 
 ## Syntax
 
- _expression_. **CustomizeView**
+ _expression_.**CustomizeView**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Connects.Item Property (Visio)
+title: Connects.Item property (Visio)
 keywords: vis_sdr.chm10413765
 f1_keywords:
 - vis_sdr.chm10413765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Connects.Item Property (Visio)
+# Connects.Item property (Visio)
 
 Returns an object from a collection. The  **Item** property is the default property for all collections, and for the **Path** and **Selection** objects. Read-only.
 

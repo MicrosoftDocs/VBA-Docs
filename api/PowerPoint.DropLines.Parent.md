@@ -1,5 +1,5 @@
 ---
-title: DropLines.Parent Property (PowerPoint)
+title: DropLines.Parent property (PowerPoint)
 keywords: vbapp10.chm701002
 f1_keywords:
 - vbapp10.chm701002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropLines.Parent Property (PowerPoint)
+# DropLines.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

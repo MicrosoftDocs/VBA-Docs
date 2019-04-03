@@ -1,5 +1,5 @@
 ---
-title: ThemeVariants.Item Method (PowerPoint)
+title: ThemeVariants.Item method (PowerPoint)
 ms.assetid: acc0bc46-94d0-827a-7c38-a8f7a149ff30
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ThemeVariants.Item Method (PowerPoint)
+# ThemeVariants.Item method (PowerPoint)
 
 Returns a single  **[ThemeVariant](PowerPoint.themevariant.md)** object from the collection.
 

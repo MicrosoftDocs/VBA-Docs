@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShow.Delete Method (PowerPoint)
+title: NamedSlideShow.Delete method (PowerPoint)
 keywords: vbapp10.chm516004
 f1_keywords:
 - vbapp10.chm516004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShow.Delete Method (PowerPoint)
+# NamedSlideShow.Delete method (PowerPoint)
 
 Deletes the specified  **NamedSlideShow** object.
 

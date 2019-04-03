@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder Object (PowerPoint)
+title: FreeformBuilder object (PowerPoint)
 keywords: vbapp10.chm546000
 f1_keywords:
 - vbapp10.chm546000
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FreeformBuilder Object (PowerPoint)
+# FreeformBuilder object (PowerPoint)
 
 Represents the geometry of a freeform while it is being built.
 
 
 ## Example
 
-Use the [BuildFreeform](PowerPoint.Shapes.BuildFreeform.md)method to return a  **FreeformBuilder** object. Use the [AddNodes](PowerPoint.FreeformBuilder.AddNodes.md)method to add nodes to the freefrom. Use the [ConvertToShape](PowerPoint.FreeformBuilder.ConvertToShape.md)method to create the shape defined in the  **FreeformBuilder** object and add it to the **[Shapes](PowerPoint.Shapes.md)** collection. The following example adds a freeform with four segments to `myDocument`.
+Use the [BuildFreeform](PowerPoint.Shapes.BuildFreeform.md)method to return a  **FreeformBuilder** object. Use the [AddNodes](PowerPoint.FreeformBuilder.AddNodes.md)method to add nodes to the freefrom. Use the [ConvertToShape](PowerPoint.FreeformBuilder.ConvertToShape.md)method to create the shape defined in the  **FreeformBuilder** object and add it to the **[Shapes](PowerPoint.Shapes.md)** collection. The following example adds a freeform with four segments to _myDocument_.
 
 
 ```vb

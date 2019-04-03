@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.KeyUp Event (Outlook)
+title: OlkTimeZoneControl.KeyUp event (Outlook)
 keywords: vbaol11.chm1000525
 f1_keywords:
 - vbaol11.chm1000525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.KeyUp Event (Outlook)
+# OlkTimeZoneControl.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 
@@ -21,7 +21,7 @@ Occurs when the user releases a key.
 
 _expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
 
-_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.KeyAscii Property (Visio)
+title: KeyboardEvent.KeyAscii property (Visio)
 keywords: vis_sdr.chm17051720
 f1_keywords:
 - vis_sdr.chm17051720
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent.KeyAscii Property (Visio)
+# KeyboardEvent.KeyAscii property (Visio)
 
 Returns the ASCII code associated with a  **KeyPress** event. Read-only.
 
 
 ## Syntax
 
- _expression_. `KeyAscii`
+_expression_. `KeyAscii`
 
  _expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Player Object (PowerPoint)
+title: Player object (PowerPoint)
 keywords: vbapp10.chm726000
 f1_keywords:
 - vbapp10.chm726000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Player Object (PowerPoint)
+# Player object (PowerPoint)
 
 Allows access to playback controls for the associated shape in the current window.
 

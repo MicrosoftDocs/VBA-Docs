@@ -1,5 +1,5 @@
 ---
-title: UserProperties.Session Property (Outlook)
+title: UserProperties.Session property (Outlook)
 keywords: vbaol11.chm205
 f1_keywords:
 - vbaol11.chm205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperties.Session Property (Outlook)
+# UserProperties.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
  _expression_.**Session**
 
-_expression_ A variable that represents a [UserProperties](./Outlook.UserProperties.md) object.
+_expression_ A variable that represents a [UserProperties](Outlook.UserProperties.md) object.
 
 
 ## Remarks

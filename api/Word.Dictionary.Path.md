@@ -19,7 +19,7 @@ Returns the path to the specified dictionary. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ Required. A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
 

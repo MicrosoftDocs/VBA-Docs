@@ -21,12 +21,12 @@ Returns an  **[Adjustments](Excel.Adjustments.md)** object that contains adjustm
 
 _expression_. `Adjustments`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
 
-This example sets to 0.25 the value of adjustment one on shape one on  `myDocument`.
+This example sets to 0.25 the value of adjustment one on shape one on  _myDocument_.
 
 
 ```vb

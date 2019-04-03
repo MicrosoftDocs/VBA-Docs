@@ -1,5 +1,5 @@
 ---
-title: RelatedShapePairEvent.ObjectType Property (Visio)
+title: RelatedShapePairEvent.ObjectType property (Visio)
 keywords: vis_sdr.chm17713960
 f1_keywords:
 - vis_sdr.chm17713960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# RelatedShapePairEvent.ObjectType Property (Visio)
+# RelatedShapePairEvent.ObjectType property (Visio)
 
 Returns  **visObjTypeRelatedShapePairEvent**, the type of this object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.GetMargin Method (Visio)
+title: ContainerProperties.GetMargin method (Visio)
 keywords: vis_sdr.chm17662300
 f1_keywords:
 - vis_sdr.chm17662300
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.GetMargin Method (Visio)
+# ContainerProperties.GetMargin method (Visio)
 
 Returns the minimal distance, in the specified units, between the edges of the container or list and those of its member shapes.
 
 
 ## Syntax
 
- _expression_. `GetMargin`( `_MarginUnits_` )
+_expression_. `GetMargin`( `_MarginUnits_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

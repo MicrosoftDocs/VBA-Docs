@@ -19,7 +19,7 @@ Returns or sets the language for the specified object. Read/write .
 
 ## Syntax
 
- _expression_. `LanguageID`
+_expression_. `LanguageID`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

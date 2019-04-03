@@ -1,5 +1,5 @@
 ---
-title: SlideRange.ApplyThemeColorScheme Method (PowerPoint)
+title: SlideRange.ApplyThemeColorScheme method (PowerPoint)
 keywords: vbapp10.chm532041
 f1_keywords:
 - vbapp10.chm532041
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.ApplyThemeColorScheme Method (PowerPoint)
+# SlideRange.ApplyThemeColorScheme method (PowerPoint)
 
 Applies a color scheme to the specified range of slides.
 
 
 ## Syntax
 
- _expression_. `ApplyThemeColorScheme`( `_themeColorSchemeName_` )
+_expression_. `ApplyThemeColorScheme`( `_themeColorSchemeName_` )
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 

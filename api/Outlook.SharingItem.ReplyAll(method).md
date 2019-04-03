@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReplyAll Method (Outlook)
+title: SharingItem.ReplyAll method (Outlook)
 keywords: vbaol11.chm671
 f1_keywords:
 - vbaol11.chm671
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReplyAll Method (Outlook)
+# SharingItem.ReplyAll method (Outlook)
 
 Creates a reply to all original recipients from the original  **[SharingItem](Outlook.SharingItem.md)**.
 
@@ -21,7 +21,7 @@ Creates a reply to all original recipients from the original  **[SharingItem](Ou
 
 _expression_. `ReplyAll`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Return value

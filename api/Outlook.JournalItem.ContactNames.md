@@ -1,5 +1,5 @@
 ---
-title: JournalItem.ContactNames Property (Outlook)
+title: JournalItem.ContactNames property (Outlook)
 keywords: vbaol11.chm1265
 f1_keywords:
 - vbaol11.chm1265
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.ContactNames Property (Outlook)
+# JournalItem.ContactNames property (Outlook)
 
 Returns or sets a  **String** representing the contact names associated with the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the contact names associated with the
 
 _expression_. `ContactNames`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

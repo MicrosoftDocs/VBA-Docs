@@ -1,5 +1,5 @@
 ---
-title: PostItem.Actions Property (Outlook)
+title: PostItem.Actions property (Outlook)
 keywords: vbaol11.chm1513
 f1_keywords:
 - vbaol11.chm1513
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Actions Property (Outlook)
+# PostItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

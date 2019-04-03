@@ -1,5 +1,5 @@
 ---
-title: Comments.Add2 Method (PowerPoint)
+title: Comments.Add2 method (PowerPoint)
 keywords: vbapp10.chm641005
 f1_keywords:
 - vbapp10.chm641005
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Comments.Add2 Method (PowerPoint)
+# Comments.Add2 method (PowerPoint)
 
 Returns a  **[Comment](PowerPoint.Comment.md)** object that represents a new comment added to a slide.
 
 
 ## Syntax
 
- _expression_. `Add2`_(Left,_ _Top,_ _Author,_ _AuthorInitials,_ _Text,_ _ProviderID,_ _UserID)_
+_expression_. `Add2`_(Left,_ _Top,_ _Author,_ _AuthorInitials,_ _Text,_ _ProviderID,_ _UserID)_
 
 _expression_ A variable that represents a [Comments](./PowerPoint.Comments.md) object.
 

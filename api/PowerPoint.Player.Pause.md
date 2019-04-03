@@ -1,5 +1,5 @@
 ---
-title: Player.Pause Method (PowerPoint)
+title: Player.Pause method (PowerPoint)
 keywords: vbapp10.chm726004
 f1_keywords:
 - vbapp10.chm726004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Player.Pause Method (PowerPoint)
+# Player.Pause method (PowerPoint)
 
 Pauses the media.
 
 
 ## Syntax
 
- _expression_. `Pause`
+_expression_. `Pause`
 
  _expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
 

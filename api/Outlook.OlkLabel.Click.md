@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.Click Event (Outlook)
+title: OlkLabel.Click event (Outlook)
 keywords: vbaol11.chm1000102
 f1_keywords:
 - vbaol11.chm1000102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkLabel.Click Event (Outlook)
+# OlkLabel.Click event (Outlook)
 
 Occurs when the user clicks inside the control.
 
@@ -21,7 +21,7 @@ Occurs when the user clicks inside the control.
 
 _expression_. `Click`
 
-_expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
+_expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) object.
 
 
 ## See also

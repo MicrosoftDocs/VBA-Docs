@@ -1,5 +1,5 @@
 ---
-title: AddIn.FullName Property (PowerPoint)
+title: AddIn.FullName property (PowerPoint)
 keywords: vbapp10.chm521003
 f1_keywords:
 - vbapp10.chm521003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddIn.FullName Property (PowerPoint)
+# AddIn.FullName property (PowerPoint)
 
 Returns the name of the specified add-in or saved presentation, including the path, the current file system separator, and the file name extension. Read-only.
 

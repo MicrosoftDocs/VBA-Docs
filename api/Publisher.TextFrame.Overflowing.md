@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Overflowing Property (Publisher)
+title: TextFrame.Overflowing property (Publisher)
 keywords: vbapb10.chm3866649
 f1_keywords:
 - vbapb10.chm3866649
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.Overflowing Property (Publisher)
+# TextFrame.Overflowing property (Publisher)
 
 Indicates whether the text frame contains more text than can fit into the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Overflowing**
+ _expression_.**Overflowing**
 
  _expression_ A variable that represents an  **TextFrame** object.
 

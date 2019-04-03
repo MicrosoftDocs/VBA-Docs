@@ -1,5 +1,5 @@
 ---
-title: Rule.IsLocalRule Property (Outlook)
+title: Rule.IsLocalRule property (Outlook)
 keywords: vbaol11.chm2172
 f1_keywords:
 - vbaol11.chm2172
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rule.IsLocalRule Property (Outlook)
+# Rule.IsLocalRule property (Outlook)
 
 Returns a  **Boolean** that indicates if the rule executes as a client-side rule. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that indicates if the rule executes as a client-side rule
 
 _expression_. `IsLocalRule`
 
-_expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
+_expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 
 ## Remarks

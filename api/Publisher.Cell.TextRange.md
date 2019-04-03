@@ -1,5 +1,5 @@
 ---
-title: Cell.TextRange Property (Publisher)
+title: Cell.TextRange property (Publisher)
 keywords: vbapb10.chm5111833
 f1_keywords:
 - vbapb10.chm5111833
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.TextRange Property (Publisher)
+# Cell.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
 
 
 ## Syntax
 
- _expression_. **TextRange**
+ _expression_.**TextRange**
 
  _expression_ A variable that represents a  **Cell** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Results.ItemRemove Event (Outlook)
+title: Results.ItemRemove event (Outlook)
 keywords: vbaol11.chm516
 f1_keywords:
 - vbaol11.chm516
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.ItemRemove Event (Outlook)
+# Results.ItemRemove event (Outlook)
 
 Occurs when an item is deleted from the specified collection.
 
@@ -21,7 +21,7 @@ Occurs when an item is deleted from the specified collection.
 
 _expression_. `ItemRemove`
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Remarks

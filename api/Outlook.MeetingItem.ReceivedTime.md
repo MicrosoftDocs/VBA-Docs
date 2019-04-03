@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.ReceivedTime Property (Outlook)
+title: MeetingItem.ReceivedTime property (Outlook)
 keywords: vbaol11.chm1444
 f1_keywords:
 - vbaol11.chm1444
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.ReceivedTime Property (Outlook)
+# MeetingItem.ReceivedTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time at which the item was received. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the date and time at which the item was r
 
 _expression_. `ReceivedTime`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

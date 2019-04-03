@@ -1,5 +1,5 @@
 ---
-title: ChartGroups.Item Method (PowerPoint)
+title: ChartGroups.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroups.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroups.Item Method (PowerPoint)
+# ChartGroups.Item method (PowerPoint)
 
 Returns a single object from a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.NewDocument Event (Publisher)
+title: Application.NewDocument event (Publisher)
 keywords: vbapb10.chm268435462
 f1_keywords:
 - vbapb10.chm268435462
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.NewDocument Event (Publisher)
+# Application.NewDocument event (Publisher)
 
 Occurs when a new publication is created.
 
 
 ## Syntax
 
- _expression_. **NewDocument**(**_Doc_**, )
+ _expression_.**NewDocument**(**_Doc_**, )
 
  _expression_ A variable that represents an  **Application** object.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) obje
 
 ## Example
 
-This example converts all fills on  `myDocument` to uniform red fills.
+This example converts all fills on  _myDocument_ to uniform red fills.
 
 
 ```vb

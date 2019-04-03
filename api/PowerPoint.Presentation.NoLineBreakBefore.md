@@ -1,5 +1,5 @@
 ---
-title: Presentation.NoLineBreakBefore Property (PowerPoint)
+title: Presentation.NoLineBreakBefore property (PowerPoint)
 keywords: vbapp10.chm583044
 f1_keywords:
 - vbapp10.chm583044
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.NoLineBreakBefore Property (PowerPoint)
+# Presentation.NoLineBreakBefore property (PowerPoint)
 
 Returns or sets the characters that cannot begin a line. Read/write.
 
 
 ## Syntax
 
- _expression_. `NoLineBreakBefore`
+_expression_. `NoLineBreakBefore`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.TraceFlags Property (Visio)
+title: Application.TraceFlags property (Visio)
 keywords: vis_sdr.chm10014590
 f1_keywords:
 - vis_sdr.chm10014590
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TraceFlags Property (Visio)
+# Application.TraceFlags property (Visio)
 
 Gets or sets events logged during a Microsoft Visio instance. Read/write.
 
 
 ## Syntax
 
- _expression_. `TraceFlags`
+_expression_. `TraceFlags`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

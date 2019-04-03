@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Enabled Property (Outlook)
+title: OlkTimeControl.Enabled property (Outlook)
 keywords: vbaol11.chm1000383
 f1_keywords:
 - vbaol11.chm1000383
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Enabled Property (Outlook)
+# OlkTimeControl.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that indicates if the control is allowed to funct
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

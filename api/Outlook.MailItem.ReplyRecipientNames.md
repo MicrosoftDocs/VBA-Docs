@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReplyRecipientNames Property (Outlook)
+title: MailItem.ReplyRecipientNames property (Outlook)
 keywords: vbaol11.chm1354
 f1_keywords:
 - vbaol11.chm1354
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ReplyRecipientNames Property (Outlook)
+# MailItem.ReplyRecipientNames property (Outlook)
 
 Returns a semicolon-delimited  **String** list of reply recipients for the mail message. Read-only.
 
@@ -21,7 +21,7 @@ Returns a semicolon-delimited  **String** list of reply recipients for the mail 
 
 _expression_. `ReplyRecipientNames`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

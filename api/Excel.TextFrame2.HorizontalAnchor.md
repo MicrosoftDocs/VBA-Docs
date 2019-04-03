@@ -18,7 +18,7 @@ Returns or sets the horizontal anchor type for the specified text. Read/write  *
 
 _expression_.**HorizontalAnchor**
 
-_expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+_expression_ A variable that represents a [TextFrame2](Excel.TextFrame2.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Changes the access permissions for the workbook. This may require an updated ver
 
 _expression_. `ChangeFileAccess`( `_Mode_` , `_WritePassword_` , `_Notify_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Mode_|Required| **[xlFileAccess](Excel.XlFileAccess.md)**|Specifies the new access mode.|
+| _Mode_|Required| **[XlFileAccess](Excel.XlFileAccess.md)**|Specifies the new access mode.|
 | _WritePassword_|Optional| **Variant**|Specifies the write-reserved password if the file is write reserved and  _Mode_ is **xlReadWrite**. Ignored if there's no password for the file or if _Mode_ is **xlReadOnly**.|
 | _Notify_|Optional| **Variant**| **True** (or omitted) to notify the user if the file cannot be immediately accessed.|
 

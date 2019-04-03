@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldIndicators Method (Project)
+title: Application.CustomFieldIndicators method (Project)
 keywords: vbapj.chm37
 f1_keywords:
 - vbapj.chm37
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldIndicators Method (Project)
+# Application.CustomFieldIndicators method (Project)
 
 Sets options for graphical indicators for a custom field.
 
 
 ## Syntax
 
- _expression_. `CustomFieldIndicators`( `_FieldID_`, `_SummaryInheritsNonsummary_`, `_ProjectInheritsSummary_`, `_ShowToolTips_` )
+_expression_. `CustomFieldIndicators`( `_FieldID_`, `_SummaryInheritsNonsummary_`, `_ProjectInheritsSummary_`, `_ShowToolTips_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

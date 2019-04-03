@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.PrimarySmtpAddress Property (Outlook)
+title: ExchangeDistributionList.PrimarySmtpAddress property (Outlook)
 keywords: vbaol11.chm2134
 f1_keywords:
 - vbaol11.chm2134
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.PrimarySmtpAddress Property (Outlook)
+# ExchangeDistributionList.PrimarySmtpAddress property (Outlook)
 
 Returns a  **String** representing the primary Simple Mail Transfer Protocol (SMTP) address for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the primary Simple Mail Transfer Protocol (SM
 
 _expression_. `PrimarySmtpAddress`
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.TemplatePaths Property (Visio)
+title: InvisibleApp.TemplatePaths property (Visio)
 keywords: vis_sdr.chm17514510
 f1_keywords:
 - vis_sdr.chm17514510
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.TemplatePaths Property (Visio)
+# InvisibleApp.TemplatePaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for templates. Read/write.
 
 
 ## Syntax
 
- _expression_. `TemplatePaths`
+_expression_. `TemplatePaths`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

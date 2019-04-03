@@ -1,5 +1,5 @@
 ---
-title: Category.Color Property (Outlook)
+title: Category.Color property (Outlook)
 keywords: vbaol11.chm2427
 f1_keywords:
 - vbaol11.chm2427
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Category.Color Property (Outlook)
+# Category.Color property (Outlook)
 
 Returns or sets an  **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant that indicates the color used by the **[Category](Outlook.Category.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant t
 
 _expression_. `Color`
 
-_expression_ A variable that represents a [Category](./Outlook.Category.md) object.
+_expression_ A variable that represents a [Category](Outlook.Category.md) object.
 
 
 ## Remarks

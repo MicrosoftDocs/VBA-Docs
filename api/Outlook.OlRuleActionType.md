@@ -1,5 +1,5 @@
 ---
-title: OlRuleActionType Enumeration (Outlook)
+title: OlRuleActionType enumeration (Outlook)
 keywords: vbaol11.chm3113
 f1_keywords:
 - vbaol11.chm3113
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlRuleActionType Enumeration (Outlook)
+# OlRuleActionType enumeration (Outlook)
 
 Specifies the type of rule action for a rule.
 

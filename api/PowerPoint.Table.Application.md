@@ -1,5 +1,5 @@
 ---
-title: Table.Application Property (PowerPoint)
+title: Table.Application property (PowerPoint)
 keywords: vbapp10.chm622001
 f1_keywords:
 - vbapp10.chm622001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Application Property (PowerPoint)
+# Table.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

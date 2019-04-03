@@ -1,5 +1,5 @@
 ---
-title: CardView.XML Property (Outlook)
+title: CardView.XML property (Outlook)
 keywords: vbaol11.chm2594
 f1_keywords:
 - vbaol11.chm2594
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.XML Property (Outlook)
+# CardView.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that specifies the XML definition of the vie
 
 _expression_. `XML`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks

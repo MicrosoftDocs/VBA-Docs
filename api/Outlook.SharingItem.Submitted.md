@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Submitted Property (Outlook)
+title: SharingItem.Submitted property (Outlook)
 keywords: vbaol11.chm664
 f1_keywords:
 - vbaol11.chm664
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Submitted Property (Outlook)
+# SharingItem.Submitted property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the **[SharingItem](Outlook.SharingItem.md)** has been submitted. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that is **True** if the **[SharingItem](Outlook.Sha
 
 _expression_. `Submitted`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

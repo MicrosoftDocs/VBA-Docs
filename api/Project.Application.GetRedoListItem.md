@@ -1,5 +1,5 @@
 ---
-title: Application.GetRedoListItem Method (Project)
+title: Application.GetRedoListItem method (Project)
 keywords: vbapj.chm131094
 f1_keywords:
 - vbapj.chm131094
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GetRedoListItem Method (Project)
+# Application.GetRedoListItem method (Project)
 
 Returns the label of the specified item in the redo list.
 
 
 ## Syntax
 
- _expression_. `GetRedoListItem`( `_ItemIndex_` )
+_expression_. `GetRedoListItem`( `_ItemIndex_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.OneColorGradient Method (PowerPoint)
+title: FillFormat.OneColorGradient method (PowerPoint)
 keywords: vbapp10.chm552003
 f1_keywords:
 - vbapp10.chm552003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.OneColorGradient Method (PowerPoint)
+# FillFormat.OneColorGradient method (PowerPoint)
 
 Sets the specified fill to a one-color gradient.
 
 
 ## Syntax
 
- _expression_. `OneColorGradient`( `_Style_`, `_Variant_`, `_Degree_` )
+_expression_. `OneColorGradient`( `_Style_`, `_Variant_`, `_Degree_` )
 
  _expression_ A variable that represents an [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -52,7 +52,7 @@ The  _Style_ parameter value can be one of these **MsoGradientStyle** constants.
 
 ## Example
 
-This example adds a rectangle with a one-color gradient fill to  `myDocument`.
+This example adds a rectangle with a one-color gradient fill to  _myDocument_.
 
 
 ```vb

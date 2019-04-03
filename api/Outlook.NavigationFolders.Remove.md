@@ -1,5 +1,5 @@
 ---
-title: NavigationFolders.Remove Method (Outlook)
+title: NavigationFolders.Remove method (Outlook)
 keywords: vbaol11.chm2898
 f1_keywords:
 - vbaol11.chm2898
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolders.Remove Method (Outlook)
+# NavigationFolders.Remove method (Outlook)
 
 Removes an object from the collection.
 

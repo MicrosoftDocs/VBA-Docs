@@ -1,5 +1,5 @@
 ---
-title: Effect Object (PowerPoint)
+title: Effect object (PowerPoint)
 keywords: vbapp10.chm652000
 f1_keywords:
 - vbapp10.chm652000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect Object (PowerPoint)
+# Effect object (PowerPoint)
 
 Represents timing information about a slide animation.
 
@@ -129,6 +129,6 @@ End Sub
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

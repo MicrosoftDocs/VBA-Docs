@@ -1,5 +1,5 @@
 ---
-title: Shape.BorderArt Property (Publisher)
+title: Shape.BorderArt property (Publisher)
 keywords: vbapb10.chm5308675
 f1_keywords:
 - vbapb10.chm5308675
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.BorderArt Property (Publisher)
+# Shape.BorderArt property (Publisher)
 
 Returns a  **[BorderArtFormat](Publisher.BorderArtFormat.md)** object that represents the BorderArt type applied to the specified shape. Returns "Permission Denied" if BorderArt has not been applied to the shape. Read-only.
 
 
 ## Syntax
 
- _expression_. **BorderArt**
+ _expression_.**BorderArt**
 
  _expression_ A variable that represents a  **Shape** object.
 

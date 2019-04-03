@@ -1,5 +1,5 @@
 ---
-title: LineFormat.CapStyle Property (Publisher)
+title: LineFormat.CapStyle property (Publisher)
 keywords: vbapb10.chm3408160
 f1_keywords:
 - vbapb10.chm3408160
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.CapStyle Property (Publisher)
+# LineFormat.CapStyle property (Publisher)
 
 Specifies the style of line endings, as well as the format of dashed lines. Read-write.
 
 
 ## Syntax
 
- _expression_. **CapStyle**
+ _expression_.**CapStyle**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

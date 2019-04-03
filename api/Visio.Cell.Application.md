@@ -1,5 +1,5 @@
 ---
-title: Cell.Application Property (Visio)
+title: Cell.Application property (Visio)
 keywords: vis_sdr.chm10113090
 f1_keywords:
 - vis_sdr.chm10113090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Application Property (Visio)
+# Cell.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

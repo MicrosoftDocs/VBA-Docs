@@ -1,5 +1,5 @@
 ---
-title: Chart.Format Property (PowerPoint)
+title: Chart.Format property (PowerPoint)
 keywords: vbapp10.chm684048
 f1_keywords:
 - vbapp10.chm684048
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.Format Property (PowerPoint)
+# Chart.Format property (PowerPoint)
 
 Returns the [ChartFormat](PowerPoint.ChartFormat.md) object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
 _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 

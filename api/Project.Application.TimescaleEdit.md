@@ -1,5 +1,5 @@
 ---
-title: Application.TimescaleEdit Method (Project)
+title: Application.TimescaleEdit method (Project)
 keywords: vbapj.chm902
 f1_keywords:
 - vbapj.chm902
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TimescaleEdit Method (Project)
+# Application.TimescaleEdit method (Project)
 
 Enables changing the scale and format of a timescale in a Gantt chart or other timephased view.
 
 
 ## Syntax
 
- _expression_. `TimescaleEdit`( `_MajorUnits_`, `_MinorUnits_`, `_MajorLabel_`, `_MinorLabel_`, `_MajorAlign_`, `_MinorAlign_`, `_MajorCount_`, `_MinorCount_`, `_MajorTicks_`, `_MinorTicks_`, `_Enlarge_`, `_Separator_`, `_MajorUseFY_`, `_MinorUseFY_`, `_TopUnits_`, `_TopLabel_`, `_TopAlign_`, `_TopCount_`, `_TopTicks_`, `_TopUseFY_`, `_TierCount_` )
+_expression_. `TimescaleEdit`( `_MajorUnits_`, `_MinorUnits_`, `_MajorLabel_`, `_MinorLabel_`, `_MajorAlign_`, `_MinorAlign_`, `_MajorCount_`, `_MinorCount_`, `_MajorTicks_`, `_MinorTicks_`, `_Enlarge_`, `_Separator_`, `_MajorUseFY_`, `_MinorUseFY_`, `_TopUnits_`, `_TopLabel_`, `_TopAlign_`, `_TopCount_`, `_TopTicks_`, `_TopUseFY_`, `_TierCount_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

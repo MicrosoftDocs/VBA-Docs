@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.HeadingsFont Property (Outlook)
+title: BusinessCardView.HeadingsFont property (Outlook)
 keywords: vbaol11.chm2935
 f1_keywords:
 - vbaol11.chm2935
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.HeadingsFont Property (Outlook)
+# BusinessCardView.HeadingsFont property (Outlook)
 
 Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display headings for each Electronic Business Card (EBC) in the view. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
 _expression_. `HeadingsFont`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## See also

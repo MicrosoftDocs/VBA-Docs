@@ -1,5 +1,5 @@
 ---
-title: FileConverter.CanOpen Property (PowerPoint)
+title: FileConverter.CanOpen property (PowerPoint)
 keywords: vbapp10.chm680002
 f1_keywords:
 - vbapp10.chm680002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FileConverter.CanOpen Property (PowerPoint)
+# FileConverter.CanOpen property (PowerPoint)
 
  **True** if the specified file converter is designed to open files. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CanOpen`
+_expression_. `CanOpen`
 
  _expression_ A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 

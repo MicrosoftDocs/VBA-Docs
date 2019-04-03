@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetTable Method (Outlook)
+title: Conversation.GetTable method (Outlook)
 keywords: vbaol11.chm3382
 f1_keywords:
 - vbaol11.chm3382
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.GetTable Method (Outlook)
+# Conversation.GetTable method (Outlook)
 
 Returns a  **[Table](Outlook.Table.md)** object that contains rows that represent all items in the conversation.
 

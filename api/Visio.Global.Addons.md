@@ -1,5 +1,5 @@
 ---
-title: Global.Addons Property (Visio)
+title: Global.Addons property (Visio)
 keywords: vis_sdr.chm12813060
 f1_keywords:
 - vis_sdr.chm12813060
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Global.Addons Property (Visio)
+# Global.Addons property (Visio)
 
 Returns the  **Addons** collection of an **Application** or **InvisibleApp** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Addons`
+_expression_. `Addons`
 
  _expression_ A variable that represents a [Global](./Visio.Global.md) object.
 

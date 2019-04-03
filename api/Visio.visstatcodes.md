@@ -1,5 +1,5 @@
 ---
-title: VisStatCodes Enumeration (Visio)
+title: VisStatCodes enumeration (Visio)
 keywords: vis_sdr.chm70120
 f1_keywords:
 - vis_sdr.chm70120
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisStatCodes Enumeration (Visio)
+# VisStatCodes enumeration (Visio)
 
 Status information codes returned by the  **Stat** property of various objects.
 

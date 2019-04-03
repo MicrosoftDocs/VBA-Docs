@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSources.Count Property (Publisher)
+title: MailMergeDataSources.Count property (Publisher)
 keywords: vbapb10.chm7143425
 f1_keywords:
 - vbapb10.chm7143425
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSources.Count Property (Publisher)
+# MailMergeDataSources.Count property (Publisher)
 
 Returns the number of  **MailMergeDataSource** objects in the **MailMergeDataSources** collection of the active document. Read-only.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **MailMergeDataSources** collection.
 

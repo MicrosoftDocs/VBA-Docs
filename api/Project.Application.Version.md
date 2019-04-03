@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (Project)
+title: Application.Version property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Version
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Version Property (Project)
+# Application.Version property (Project)
 
 Gets the version number of the Project application. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Version`
+_expression_. `Version`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

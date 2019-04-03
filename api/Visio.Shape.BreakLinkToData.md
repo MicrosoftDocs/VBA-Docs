@@ -1,5 +1,5 @@
 ---
-title: Shape.BreakLinkToData Method (Visio)
+title: Shape.BreakLinkToData method (Visio)
 keywords: vis_sdr.chm11260195
 f1_keywords:
 - vis_sdr.chm11260195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.BreakLinkToData Method (Visio)
+# Shape.BreakLinkToData method (Visio)
 
 Breaks the link between the shape and the data row to which it is linked in the specified data recordset.
 
@@ -22,7 +22,7 @@ Breaks the link between the shape and the data row to which it is linked in the 
 
 ## Syntax
 
- _expression_. `BreakLinkToData`( `_DataRecordsetID_` )
+_expression_. `BreakLinkToData`( `_DataRecordsetID_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.BaseCalendars Method (Project)
+title: Application.BaseCalendars method (Project)
 keywords: vbapj.chm604
 f1_keywords:
 - vbapj.chm604
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BaseCalendars Method (Project)
+# Application.BaseCalendars method (Project)
 
 Displays the  **Change Working Time** dialog box, which prompts the user to change calendar properties.
 
 
 ## Syntax
 
- _expression_. `BaseCalendars`( `_Index_`, `_Locked_` )
+_expression_. `BaseCalendars`( `_Index_`, `_Locked_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

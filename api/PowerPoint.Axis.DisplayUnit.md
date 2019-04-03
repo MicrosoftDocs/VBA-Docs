@@ -1,5 +1,5 @@
 ---
-title: Axis.DisplayUnit Property (PowerPoint)
+title: Axis.DisplayUnit property (PowerPoint)
 keywords: vbapp10.chm682042
 f1_keywords:
 - vbapp10.chm682042
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.DisplayUnit Property (PowerPoint)
+# Axis.DisplayUnit property (PowerPoint)
 
-Returns or sets the unit label for the value axis. Read/write  **[xlDisplayUnit](PowerPoint.XlDisplayUnit.md)**, **xlCustom**, or **xlNone**.
+Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit](PowerPoint.XlDisplayUnit.md)**, **xlCustom**, or **xlNone**.
 
 
 ## Syntax
 
- _expression_. `DisplayUnit`
+_expression_. `DisplayUnit`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

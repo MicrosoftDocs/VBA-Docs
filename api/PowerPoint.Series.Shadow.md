@@ -1,5 +1,5 @@
 ---
-title: Series.Shadow Property (PowerPoint)
+title: Series.Shadow property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Shadow
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Series.Shadow Property (PowerPoint)
+# Series.Shadow property (PowerPoint)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_. `Shadow`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Legend.Position property (Excel)
 
-Returns or sets a  **[xlLegendPosition](Excel.XlLegendPosition.md)** value that represents the position of the legend on the chart.
+Returns or sets a  **[XlLegendPosition](Excel.XlLegendPosition.md)** value that represents the position of the legend on the chart.
 
 
 ## Syntax

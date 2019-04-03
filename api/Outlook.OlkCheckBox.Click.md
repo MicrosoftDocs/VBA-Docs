@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.Click Event (Outlook)
+title: OlkCheckBox.Click event (Outlook)
 keywords: vbaol11.chm1000149
 f1_keywords:
 - vbaol11.chm1000149
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.Click Event (Outlook)
+# OlkCheckBox.Click event (Outlook)
 
 Occurs when the user clicks inside the control.
 
@@ -21,7 +21,7 @@ Occurs when the user clicks inside the control.
 
 _expression_. `Click`
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Converts file to the newest file format and enables all new features.
 
 ## Syntax
 
- _expression_. `Convert`
+_expression_. `Convert`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

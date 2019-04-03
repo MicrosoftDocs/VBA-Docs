@@ -1,5 +1,5 @@
 ---
-title: CellBorder Object (Publisher)
+title: CellBorder object (Publisher)
 keywords: vbapb10.chm5308415
 f1_keywords:
 - vbapb10.chm5308415
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellBorder Object (Publisher)
+# CellBorder object (Publisher)
 
 Represents the color and weight settings for cell borders.
  

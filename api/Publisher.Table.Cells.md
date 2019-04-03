@@ -1,5 +1,5 @@
 ---
-title: Table.Cells Property (Publisher)
+title: Table.Cells property (Publisher)
 keywords: vbapb10.chm4784136
 f1_keywords:
 - vbapb10.chm4784136
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.Cells Property (Publisher)
+# Table.Cells property (Publisher)
 
 Returns a  **CellRange** object that represents a range of cells in a table.
 
 
 ## Syntax
 
- _expression_. **Cells**(**_StartRow_**,  **_StartColumn_**,  **_EndRow_**,  **_EndColumn_**)
+ _expression_.**Cells**(**_StartRow_**,  **_StartColumn_**,  **_EndRow_**,  **_EndColumn_**)
 
  _expression_ A variable that represents a  **Table** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Width Property (PowerPoint)
+title: Application.Width property (PowerPoint)
 keywords: vbapp10.chm502028
 f1_keywords:
 - vbapp10.chm502028
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Width Property (PowerPoint)
+# Application.Width property (PowerPoint)
 
 Returns or sets the width of the specified object, in points. Read/write.
 

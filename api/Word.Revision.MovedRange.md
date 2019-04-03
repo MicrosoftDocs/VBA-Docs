@@ -19,7 +19,7 @@ Returns a  **[Range](Word.Range.md)** object that represents a range of text tha
 
 ## Syntax
 
- _expression_. `MovedRange`
+_expression_. `MovedRange`
 
  _expression_ An expression that returns a '[Revision](Word.Revision.md)' object.
 

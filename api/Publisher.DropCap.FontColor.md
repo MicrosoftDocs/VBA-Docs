@@ -1,5 +1,5 @@
 ---
-title: DropCap.FontColor Property (Publisher)
+title: DropCap.FontColor property (Publisher)
 keywords: vbapb10.chm5505028
 f1_keywords:
 - vbapb10.chm5505028
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DropCap.FontColor Property (Publisher)
+# DropCap.FontColor property (Publisher)
 
 Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object that represents the color applied to a specified dropped capital letter.
 
 
 ## Syntax
 
- _expression_. **FontColor**
+ _expression_.**FontColor**
 
  _expression_ A variable that represents a  **DropCap** object.
 

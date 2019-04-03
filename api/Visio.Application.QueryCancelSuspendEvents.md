@@ -1,5 +1,5 @@
 ---
-title: Application.QueryCancelSuspendEvents Event (Visio)
+title: Application.QueryCancelSuspendEvents event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelSuspendEvents
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.QueryCancelSuspendEvents Event (Visio)
+# Application.QueryCancelSuspendEvents event (Visio)
 
 Occurs before the application suspends events in response to client code. If any event handler returns  **True**, the operation is canceled.
 

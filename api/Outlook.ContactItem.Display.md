@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Display Method (Outlook)
+title: ContactItem.Display method (Outlook)
 keywords: vbaol11.chm959
 f1_keywords:
 - vbaol11.chm959
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Display Method (Outlook)
+# ContactItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
@@ -21,7 +21,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 _expression_. `Display`( `_Modal_` )
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

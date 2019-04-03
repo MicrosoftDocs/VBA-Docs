@@ -1,5 +1,5 @@
 ---
-title: ContactsModule.Session Property (Outlook)
+title: ContactsModule.Session property (Outlook)
 keywords: vbaol11.chm2834
 f1_keywords:
 - vbaol11.chm2834
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactsModule.Session Property (Outlook)
+# ContactsModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [ContactsModule](./Outlook.ContactsModule.md) object.
+_expression_ A variable that represents a [ContactsModule](Outlook.ContactsModule.md) object.
 
 
 ## Remarks

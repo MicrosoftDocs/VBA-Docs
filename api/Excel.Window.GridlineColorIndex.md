@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Window.GridlineColorIndex property (Excel)
 
-Returns or sets the gridline color as an index into the current color palette or as the following  **[xlColorIndex](Excel.XlColorIndex.md)** constant.
+Returns or sets the gridline color as an index into the current color palette or as the following  **[XlColorIndex](Excel.XlColorIndex.md)** constant.
 
 
 ## Syntax
 
 _expression_. `GridlineColorIndex`
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: TextRange.Paragraphs Method (Publisher)
+title: TextRange.Paragraphs method (Publisher)
 keywords: vbapb10.chm5308454
 f1_keywords:
 - vbapb10.chm5308454
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Paragraphs Method (Publisher)
+# TextRange.Paragraphs method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the specified paragraphs.
 
 
 ## Syntax
 
- _expression_. **Paragraphs**(**_Start_**,  **_Length_**)
+ _expression_.**Paragraphs**(**_Start_**,  **_Length_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

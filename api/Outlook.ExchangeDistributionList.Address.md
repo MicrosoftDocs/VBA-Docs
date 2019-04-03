@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Address Property (Outlook)
+title: ExchangeDistributionList.Address property (Outlook)
 keywords: vbaol11.chm2112
 f1_keywords:
 - vbaol11.chm2112
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Address Property (Outlook)
+# ExchangeDistributionList.Address property (Outlook)
 
 Returns or sets a  **String** representing the X400 email address of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the X400 email address of the **[Exch
 
 _expression_. `Address`
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

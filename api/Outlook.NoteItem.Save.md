@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Save Method (Outlook)
+title: NoteItem.Save method (Outlook)
 keywords: vbaol11.chm1498
 f1_keywords:
 - vbaol11.chm1498
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Save Method (Outlook)
+# NoteItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 
@@ -21,7 +21,7 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 
 _expression_. `Save`
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Page.LayoutGuides Property (Publisher)
+title: Page.LayoutGuides property (Publisher)
 keywords: vbapb10.chm393270
 f1_keywords:
 - vbapb10.chm393270
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.LayoutGuides Property (Publisher)
+# Page.LayoutGuides property (Publisher)
 
 Returns a  **[LayoutGuides](Publisher.LayoutGuides.md)** object consisting of the margin and grid layout guides for all pages including master pages in the publication.
 
 
 ## Syntax
 
- _expression_. **LayoutGuides**
+ _expression_.**LayoutGuides**
 
  _expression_ A variable that represents a  **Page** object.
 

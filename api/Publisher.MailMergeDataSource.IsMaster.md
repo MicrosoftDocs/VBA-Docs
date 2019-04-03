@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.IsMaster Property (Publisher)
+title: MailMergeDataSource.IsMaster property (Publisher)
 keywords: vbapb10.chm6291495
 f1_keywords:
 - vbapb10.chm6291495
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.IsMaster Property (Publisher)
+# MailMergeDataSource.IsMaster property (Publisher)
 
 Indicates whether the parent  **MailMergeDataSource** object is a master data source (a combination of all data sources connected to the current publication). Read-only.
 
 
 ## Syntax
 
- _expression_. **IsMaster**
+ _expression_.**IsMaster**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

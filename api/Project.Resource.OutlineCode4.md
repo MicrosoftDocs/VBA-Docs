@@ -1,5 +1,5 @@
 ---
-title: Resource.OutlineCode4 Property (Project)
+title: Resource.OutlineCode4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.OutlineCode4
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.OutlineCode4 Property (Project)
+# Resource.OutlineCode4 property (Project)
 
  Gets or sets the value of the outline code custom field for a resource. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OutlineCode4`
+_expression_. `OutlineCode4`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

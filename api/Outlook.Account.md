@@ -1,5 +1,5 @@
 ---
-title: Account Object (Outlook)
+title: Account object (Outlook)
 keywords: vbaol11.chm3153
 f1_keywords:
 - vbaol11.chm3153
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account Object (Outlook)
+# Account object (Outlook)
 
 The  **Account** object represents an account that is defined for the current profile.
 
@@ -30,7 +30,7 @@ The purpose of the [Accounts](Outlook.Accounts.md) collection object and the **A
 
 The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code samples in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the  **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 
-The following code samples show the  `DisplayAccountInformation` method of the `Sample` class, implemented as part of an Outlook add-in project. Each project adds a reference to the Outlook PIA, which is based on the **Microsoft.Office.Interop.Outlook** namespace. The `DisplayAccountInformation` method takes as an input argument a trusted Outlook[Application](./Outlook.Application.md) object, and uses the **Account** object to display the details of each account that is available for the current Outlook profile.
+The following code samples show the  `DisplayAccountInformation` method of the `Sample` class, implemented as part of an Outlook add-in project. Each project adds a reference to the Outlook PIA, which is based on the **Microsoft.Office.Interop.Outlook** namespace. The `DisplayAccountInformation` method takes as an input argument a trusted Outlook[Application](Outlook.Application.md) object, and uses the **Account** object to display the details of each account that is available for the current Outlook profile.
 
 
 
@@ -179,8 +179,8 @@ End Namespace
 
 |Name|
 |:-----|
-|[GetAddressEntryFromID](./Outlook.Account.GetAddressEntryFromID.md)|
-|[GetRecipientFromID](./Outlook.Account.GetRecipientFromID.md)|
+|[GetAddressEntryFromID](Outlook.Account.GetAddressEntryFromID.md)|
+|[GetRecipientFromID](Outlook.Account.GetRecipientFromID.md)|
 
 ## Properties
 
@@ -188,27 +188,27 @@ End Namespace
 
 |Name|
 |:-----|
-|[AccountType](./Outlook.Account.AccountType.md)|
-|[Application](./Outlook.Account.Application.md)|
-|[AutoDiscoverConnectionMode](./Outlook.Account.AutoDiscoverConnectionMode.md)|
-|[AutoDiscoverXml](./Outlook.Account.AutoDiscoverXml.md)|
-|[Class](./Outlook.Account.Class.md)|
-|[CurrentUser](./Outlook.Account.CurrentUser.md)|
-|[DeliveryStore](./Outlook.Account.DeliveryStore.md)|
-|[DisplayName](./Outlook.Account.DisplayName.md)|
-|[ExchangeConnectionMode](./Outlook.Account.ExchangeConnectionMode.md)|
-|[ExchangeMailboxServerName](./Outlook.Account.ExchangeMailboxServerName.md)|
-|[ExchangeMailboxServerVersion](./Outlook.Account.ExchangeMailboxServerVersion.md)|
-|[Parent](./Outlook.Account.Parent.md)|
-|[Session](./Outlook.Account.Session.md)|
-|[SmtpAddress](./Outlook.Account.SmtpAddress.md)|
-|[UserName](./Outlook.Account.UserName.md)|
+|[AccountType](Outlook.Account.AccountType.md)|
+|[Application](Outlook.Account.Application.md)|
+|[AutoDiscoverConnectionMode](Outlook.Account.AutoDiscoverConnectionMode.md)|
+|[AutoDiscoverXml](Outlook.Account.AutoDiscoverXml.md)|
+|[Class](Outlook.Account.Class.md)|
+|[CurrentUser](Outlook.Account.CurrentUser.md)|
+|[DeliveryStore](Outlook.Account.DeliveryStore.md)|
+|[DisplayName](Outlook.Account.DisplayName.md)|
+|[ExchangeConnectionMode](Outlook.Account.ExchangeConnectionMode.md)|
+|[ExchangeMailboxServerName](Outlook.Account.ExchangeMailboxServerName.md)|
+|[ExchangeMailboxServerVersion](Outlook.Account.ExchangeMailboxServerVersion.md)|
+|[Parent](Outlook.Account.Parent.md)|
+|[Session](Outlook.Account.Session.md)|
+|[SmtpAddress](Outlook.Account.SmtpAddress.md)|
+|[UserName](Outlook.Account.UserName.md)|
 
 ## See also
 
 
-[Account Object Members](./overview/Outlook.md)
+[Account Object Members](overview/Outlook.md)
 [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

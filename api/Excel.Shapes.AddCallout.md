@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AddCallout`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
-_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -57,7 +57,7 @@ You can insert a greater variety of callouts by using the  **[AddShape](Excel.Sh
 
 ## Example
 
-This example adds a borderless callout with a freely rotating one-segment callout line to  `myDocument` and then sets the callout angle to 30 degrees.
+This example adds a borderless callout with a freely rotating one-segment callout line to  _myDocument_ and then sets the callout angle to 30 degrees.
 
 
 ```vb

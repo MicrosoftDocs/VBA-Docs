@@ -17,7 +17,7 @@ Returns a  **Long** that indicates whether the text in the specified range is vi
 
 ## Syntax
 
- _expression_. `TextVisibleOnScreen`
+_expression_. `TextVisibleOnScreen`
 
  _expression_ A variable that represents a [Range](./Word.Range.md) object.
 

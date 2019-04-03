@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `KeepWithNext`
+_expression_. `KeepWithNext`
 
  _expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 

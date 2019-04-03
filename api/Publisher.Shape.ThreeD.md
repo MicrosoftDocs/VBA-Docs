@@ -1,5 +1,5 @@
 ---
-title: Shape.ThreeD Property (Publisher)
+title: Shape.ThreeD property (Publisher)
 keywords: vbapb10.chm2228305
 f1_keywords:
 - vbapb10.chm2228305
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.ThreeD Property (Publisher)
+# Shape.ThreeD property (Publisher)
 
 Returns a  **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 
 ## Syntax
 
- _expression_. **ThreeD**
+ _expression_.**ThreeD**
 
  _expression_ A variable that represents a  **Shape** object.
 

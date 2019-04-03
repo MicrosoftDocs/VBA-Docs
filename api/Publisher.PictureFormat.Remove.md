@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Remove Method (Publisher)
+title: PictureFormat.Remove method (Publisher)
 keywords: vbapb10.chm3604807
 f1_keywords:
 - vbapb10.chm3604807
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Remove Method (Publisher)
+# PictureFormat.Remove method (Publisher)
 
 Removes the picture from its frame, leaving in its place a picture placeholder. Any previous formatting applied to the picture is retained. Returns nothing.
 
 
 ## Syntax
 
- _expression_. **Remove**
+ _expression_.**Remove**
 
  _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Offset Method (Visio)
+title: Shape.Offset method (Visio)
 keywords: vis_sdr.chm11251345
 f1_keywords:
 - vis_sdr.chm11251345
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Offset Method (Visio)
+# Shape.Offset method (Visio)
 
 Offsets a shape a specified amount.
 
 
 ## Syntax
 
- _expression_. `Offset`( `_Distance_` )
+_expression_. `Offset`( `_Distance_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

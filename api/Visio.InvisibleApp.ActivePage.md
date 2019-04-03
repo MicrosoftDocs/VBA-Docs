@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ActivePage Property (Visio)
+title: InvisibleApp.ActivePage property (Visio)
 keywords: vis_sdr.chm17513030
 f1_keywords:
 - vis_sdr.chm17513030
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ActivePage Property (Visio)
+# InvisibleApp.ActivePage property (Visio)
 
 Returns the active  **Page** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ActivePage`( `_lpdispRet_` )
+_expression_. `ActivePage`( `_lpdispRet_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

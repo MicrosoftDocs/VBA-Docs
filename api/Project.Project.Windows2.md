@@ -1,5 +1,5 @@
 ---
-title: Project.Windows2 Property (Project)
+title: Project.Windows2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Windows2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Windows2 Property (Project)
+# Project.Windows2 property (Project)
 
 Gets a  **[Windows2](Project.windows2(object).md)** collection representing the open windows in the project. Read-only **Windows2**.
 
 
 ## Syntax
 
- _expression_. `Windows2`
+_expression_. `Windows2`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

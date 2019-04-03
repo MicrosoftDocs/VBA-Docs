@@ -1,5 +1,5 @@
 ---
-title: Application.RowInsert Method (Project)
+title: Application.RowInsert method (Project)
 keywords: vbapj.chm229
 f1_keywords:
 - vbapj.chm229
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.RowInsert Method (Project)
+# Application.RowInsert method (Project)
 
 Inserts a row above the active row.
 
 
 ## Syntax
 
- _expression_. `RowInsert`
+_expression_. `RowInsert`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

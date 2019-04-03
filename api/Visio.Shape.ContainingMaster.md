@@ -1,5 +1,5 @@
 ---
-title: Shape.ContainingMaster Property (Visio)
+title: Shape.ContainingMaster property (Visio)
 keywords: vis_sdr.chm11213300
 f1_keywords:
 - vis_sdr.chm11213300
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.ContainingMaster Property (Visio)
+# Shape.ContainingMaster property (Visio)
 
 Returns the  **Master** object that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingMaster`
+_expression_. `ContainingMaster`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

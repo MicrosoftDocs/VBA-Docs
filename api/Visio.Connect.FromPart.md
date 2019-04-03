@@ -1,5 +1,5 @@
 ---
-title: Connect.FromPart Property (Visio)
+title: Connect.FromPart property (Visio)
 keywords: vis_sdr.chm10313585
 f1_keywords:
 - vis_sdr.chm10313585
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Connect.FromPart Property (Visio)
+# Connect.FromPart property (Visio)
 
 Returns the part of a shape from which a connection originates. Read-only.
 
 
 ## Syntax
 
- _expression_. `FromPart`
+_expression_. `FromPart`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 

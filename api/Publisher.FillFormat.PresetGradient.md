@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradient Method (Publisher)
+title: FillFormat.PresetGradient method (Publisher)
 keywords: vbapb10.chm2359315
 f1_keywords:
 - vbapb10.chm2359315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetGradient Method (Publisher)
+# FillFormat.PresetGradient method (Publisher)
 
 Sets the specified fill to a preset gradient.
 
 
 ## Syntax
 
- _expression_. **PresetGradient**(**_Style_**,  **_Variant_**,  **_PresetGradientType_**)
+ _expression_.**PresetGradient**(**_Style_**,  **_Variant_**,  **_PresetGradientType_**)
 
  _expression_ A variable that represents a  **FillFormat** object.
 

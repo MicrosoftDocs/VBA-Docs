@@ -1,5 +1,5 @@
 ---
-title: PostItem.GetInspector Property (Outlook)
+title: PostItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1524
 f1_keywords:
 - vbaol11.chm1524
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.GetInspector Property (Outlook)
+# PostItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an insp
 
 _expression_. `GetInspector`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

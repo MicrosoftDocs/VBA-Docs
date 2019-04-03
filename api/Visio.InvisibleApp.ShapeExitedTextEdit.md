@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShapeExitedTextEdit Event (Visio)
+title: InvisibleApp.ShapeExitedTextEdit event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeExitedTextEdit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShapeExitedTextEdit Event (Visio)
+# InvisibleApp.ShapeExitedTextEdit event (Visio)
 
 Occurs after a shape is no longer open for interactive text editing.
 

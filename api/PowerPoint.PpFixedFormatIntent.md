@@ -1,5 +1,5 @@
 ---
-title: PpFixedFormatIntent Enumeration (PowerPoint)
+title: PpFixedFormatIntent enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpFixedFormatIntent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpFixedFormatIntent Enumeration (PowerPoint)
+# PpFixedFormatIntent enumeration (PowerPoint)
 
 Constants that specify the intent of the fixed-format file export, passed to the  **ExportAsFixedFormat** method of the **Presentation** object.
 

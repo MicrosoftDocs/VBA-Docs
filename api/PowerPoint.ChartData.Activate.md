@@ -1,5 +1,5 @@
 ---
-title: ChartData.Activate Method (PowerPoint)
+title: ChartData.Activate method (PowerPoint)
 keywords: vbapp10.chm689002
 f1_keywords:
 - vbapp10.chm689002
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# ChartData.Activate Method (PowerPoint)
+# ChartData.Activate method (PowerPoint)
 
 Activates the first window of the workbook associated with the chart.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
 _expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)' object.
 
 
 ## Remarks
 
-If the chart is linked to a Microsoft Excel workbook, this method does not run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](./Excel.Workbook.RunAutoMacros.md)** method to run those macros).
+If the chart is linked to a Microsoft Excel workbook, this method does not run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](Excel.Workbook.RunAutoMacros.md)** method to run those macros).
 
 
  **Note**  You must call this method before referencing the  **[Workbook](PowerPoint.ChartData.Workbook.md)** property.

@@ -1,5 +1,5 @@
 ---
-title: Window.ScrollLock Property (Visio)
+title: Window.ScrollLock property (Visio)
 keywords: vis_sdr.chm11651650
 f1_keywords:
 - vis_sdr.chm11651650
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ScrollLock Property (Visio)
+# Window.ScrollLock property (Visio)
 
 Determines whether scrolling is disabled in a Microsoft Visio window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ScrollLock`
+_expression_. `ScrollLock`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

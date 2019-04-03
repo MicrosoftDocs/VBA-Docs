@@ -1,5 +1,5 @@
 ---
-title: VisOpenSaveArgs Enumeration (Visio)
+title: VisOpenSaveArgs enumeration (Visio)
 keywords: vis_sdr.chm70045
 f1_keywords:
 - vis_sdr.chm70045
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisOpenSaveArgs Enumeration (Visio)
+# VisOpenSaveArgs enumeration (Visio)
 
 Flags to be passed to the **Documents.AddEx**, **Documents.OpenEx**, and **Documents.SaveAsEx** methods.
 

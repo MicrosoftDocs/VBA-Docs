@@ -1,5 +1,5 @@
 ---
-title: Point.Format Property (PowerPoint)
+title: Point.Format property (PowerPoint)
 keywords: vbapp10.chm714001
 f1_keywords:
 - vbapp10.chm714001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Point.Format Property (PowerPoint)
+# Point.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

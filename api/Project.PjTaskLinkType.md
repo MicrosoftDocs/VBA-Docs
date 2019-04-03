@@ -1,5 +1,5 @@
 ---
-title: PjTaskLinkType Enumeration (Project)
+title: PjTaskLinkType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTaskLinkType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTaskLinkType Enumeration (Project)
+# PjTaskLinkType enumeration (Project)
 
 Contains constants that specify the type of links between tasks.
 

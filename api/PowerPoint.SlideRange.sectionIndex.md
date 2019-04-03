@@ -1,5 +1,5 @@
 ---
-title: SlideRange.sectionIndex Property (PowerPoint)
+title: SlideRange.sectionIndex property (PowerPoint)
 keywords: vbapp10.chm532046
 f1_keywords:
 - vbapp10.chm532046
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.sectionIndex Property (PowerPoint)
+# SlideRange.sectionIndex property (PowerPoint)
 
 Returns the index of the selected section in the  **SlideRange**. Read-only.
 
 
 ## Syntax
 
- _expression_. `sectionIndex`
+_expression_. `sectionIndex`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 

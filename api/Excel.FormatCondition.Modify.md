@@ -30,8 +30,8 @@ _expression_ A variable that represents a [FormatCondition](Excel.FormatConditio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[xlFormatConditionType](Excel.XlFormatConditionType.md)**|Specifies whether the conditional format is based on a cell value or an expression.|
-| _Operator_|Optional| **Variant**|An  **[xlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the conditional format operator. This parameter is ignored if _Type_ is set to **xlExpression**.|
+| _Type_|Required| **[XlFormatConditionType](Excel.XlFormatConditionType.md)**|Specifies whether the conditional format is based on a cell value or an expression.|
+| _Operator_|Optional| **Variant**|An  **[XlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the conditional format operator. This parameter is ignored if _Type_ is set to **xlExpression**.|
 | _Formula1_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula.|
 | _Formula2_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula..|
 

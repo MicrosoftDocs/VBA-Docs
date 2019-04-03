@@ -1,5 +1,5 @@
 ---
-title: Series Object (PowerPoint)
+title: Series object (PowerPoint)
 keywords: vbapp10.chm716000
 f1_keywords:
 - vbapp10.chm716000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series Object (PowerPoint)
+# Series object (PowerPoint)
 
 Represents a series in a chart.
 
@@ -121,6 +121,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

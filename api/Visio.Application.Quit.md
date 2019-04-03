@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Method (Visio)
+title: Application.Quit method (Visio)
 keywords: vis_sdr.chm10016460
 f1_keywords:
 - vis_sdr.chm10016460
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Quit Method (Visio)
+# Application.Quit method (Visio)
 
 Closes the indicated instance of Microsoft Visio.
 
 
 ## Syntax
 
- _expression_. `Quit`
+_expression_. `Quit`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

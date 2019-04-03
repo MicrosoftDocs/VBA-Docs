@@ -1,5 +1,5 @@
 ---
-title: Chart.SetSourceData Method (PowerPoint)
+title: Chart.SetSourceData method (PowerPoint)
 keywords: vbapp10.chm66949
 f1_keywords:
 - vbapp10.chm66949
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.SetSourceData Method (PowerPoint)
+# Chart.SetSourceData method (PowerPoint)
 
 Sets the source data range for the chart.
 
 
 ## Syntax
 
- _expression_. `SetSourceData`( `_Source_`, `_PlotBy_` )
+_expression_. `SetSourceData`( `_Source_`, `_PlotBy_` )
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**String**|The address of the chart data range that contains the source data.|
-| _PlotBy_|Optional|**Variant**|Specifies the way the data will be plotted. Can be either of the following  **[xlRowCol](PowerPoint.XlRowCol.md)** constants: **xlColumns** or **xlRows**.|
+| _PlotBy_|Optional|**Variant**|Specifies the way the data will be plotted. Can be either of the following  **[XlRowCol](PowerPoint.XlRowCol.md)** constants: **xlColumns** or **xlRows**.|
 
 ## Example
 

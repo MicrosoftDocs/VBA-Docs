@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.GoToDate Method (Outlook)
+title: BusinessCardView.GoToDate method (Outlook)
 keywords: vbaol11.chm2933
 f1_keywords:
 - vbaol11.chm2933
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.GoToDate Method (Outlook)
+# BusinessCardView.GoToDate method (Outlook)
 
 Changes the date used by the current view to display information.
 
@@ -21,7 +21,7 @@ Changes the date used by the current view to display information.
 
 _expression_. `GoToDate`( `_Date_` )
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.Height Property (PowerPoint)
+title: SlideShowWindow.Height property (PowerPoint)
 keywords: vbapp10.chm507009
 f1_keywords:
 - vbapp10.chm507009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindow.Height Property (PowerPoint)
+# SlideShowWindow.Height property (PowerPoint)
 
 Returns or sets the height of the specified object, in points. Read/write.
 

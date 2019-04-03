@@ -1,5 +1,5 @@
 ---
-title: Font.NameComplexScript Property (PowerPoint)
+title: Font.NameComplexScript property (PowerPoint)
 keywords: vbapp10.chm575020
 f1_keywords:
 - vbapp10.chm575020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.NameComplexScript Property (PowerPoint)
+# Font.NameComplexScript property (PowerPoint)
 
 Returns or sets the complex script font name. Used for mixed language text. Read/write.
 
 
 ## Syntax
 
- _expression_. `NameComplexScript`
+_expression_. `NameComplexScript`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 

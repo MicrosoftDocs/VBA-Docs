@@ -1,5 +1,5 @@
 ---
-title: PjLegend Enumeration (Project)
+title: PjLegend enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLegend
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLegend Enumeration (Project)
+# PjLegend enumeration (Project)
 
 Contains constants that specify the pages on which the legend appears.
 

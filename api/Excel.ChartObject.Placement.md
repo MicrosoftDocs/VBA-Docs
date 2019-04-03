@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartObject.Placement property (Excel)
 
-Returns or sets a  **Variant** value, containing an **[xlPlacement](Excel.XlPlacement.md)** constant, that represents the way the object is attached to the cells below it.
+Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlacement.md)** constant, that represents the way the object is attached to the cells below it.
 
 
 ## Syntax

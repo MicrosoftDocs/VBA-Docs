@@ -1,5 +1,5 @@
 ---
-title: TableView.Save Method (Outlook)
+title: TableView.Save method (Outlook)
 keywords: vbaol11.chm2507
 f1_keywords:
 - vbaol11.chm2507
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Save Method (Outlook)
+# TableView.Save method (Outlook)
 
 Saves the view, or saves the changes to a view.
 
@@ -21,7 +21,7 @@ Saves the view, or saves the changes to a view.
 
 _expression_. `Save`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## See also

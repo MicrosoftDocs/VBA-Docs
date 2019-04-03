@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.GetConversation Method (Outlook)
+title: RemoteItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3494
 f1_keywords:
 - vbaol11.chm3494
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.GetConversation Method (Outlook)
+# RemoteItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

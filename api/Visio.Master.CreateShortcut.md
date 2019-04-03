@@ -1,5 +1,5 @@
 ---
-title: Master.CreateShortcut Method (Visio)
+title: Master.CreateShortcut method (Visio)
 keywords: vis_sdr.chm10716150
 f1_keywords:
 - vis_sdr.chm10716150
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.CreateShortcut Method (Visio)
+# Master.CreateShortcut method (Visio)
 
 Creates a shortcut for a master.
 
 
 ## Syntax
 
- _expression_. `CreateShortcut`
+_expression_. `CreateShortcut`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

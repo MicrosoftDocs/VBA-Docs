@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndDisconnect Method (Publisher)
+title: ConnectorFormat.EndDisconnect method (Publisher)
 keywords: vbapb10.chm3211283
 f1_keywords:
 - vbapb10.chm3211283
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndDisconnect Method (Publisher)
+# ConnectorFormat.EndDisconnect method (Publisher)
 
 Detaches the end of the specified connector from the shape to which it is attached.
 
 
 ## Syntax
 
- _expression_. **EndDisconnect**
+ _expression_.**EndDisconnect**
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 

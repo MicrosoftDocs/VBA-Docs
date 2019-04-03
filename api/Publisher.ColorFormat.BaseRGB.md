@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.BaseRGB Property (Publisher)
+title: ColorFormat.BaseRGB property (Publisher)
 keywords: vbapb10.chm2555906
 f1_keywords:
 - vbapb10.chm2555906
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.BaseRGB Property (Publisher)
+# ColorFormat.BaseRGB property (Publisher)
 
 Returns or sets an  **MsoRGBType** constant that represents the original RGB color format before color-changing properties, such as tinting and shading, are applied. Read/write.
 
 
 ## Syntax
 
- _expression_. **BaseRGB**
+ _expression_.**BaseRGB**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

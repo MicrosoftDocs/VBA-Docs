@@ -1,5 +1,5 @@
 ---
-title: RuleActions.CC Property (Outlook)
+title: RuleActions.CC property (Outlook)
 keywords: vbaol11.chm2192
 f1_keywords:
 - vbaol11.chm2192
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.CC Property (Outlook)
+# RuleActions.CC property (Outlook)
 
 Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionCcMessage**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRu
 
 _expression_. `CC`
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks

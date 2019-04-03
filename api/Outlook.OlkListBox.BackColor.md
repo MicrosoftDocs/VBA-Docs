@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.BackColor Property (Outlook)
+title: OlkListBox.BackColor property (Outlook)
 keywords: vbaol11.chm1000252
 f1_keywords:
 - vbaol11.chm1000252
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.BackColor Property (Outlook)
+# OlkListBox.BackColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the background color of the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that indicates the background color of the control. 
 
 _expression_.**BackColor**
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Remarks

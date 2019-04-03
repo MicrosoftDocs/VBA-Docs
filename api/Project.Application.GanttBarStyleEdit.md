@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleEdit Method (Project)
+title: Application.GanttBarStyleEdit method (Project)
 keywords: vbapj.chm2060
 f1_keywords:
 - vbapj.chm2060
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleEdit Method (Project)
+# Application.GanttBarStyleEdit method (Project)
 
 Changes or creates a Gantt bar style.
 
 
 ## Syntax
 
- _expression_. `GanttBarStyleEdit`( `_Item_`, `_Create_`, `_Name_`, `_StartShape_`, `_StartType_`, `_StartColor_`, `_MiddleShape_`, `_MiddleColor_`, `_MiddlePattern_`, `_EndShape_`, `_EndType_`, `_EndColor_`, `_ShowFor_`, `_Row_`, `_From_`, `_To_`, `_BottomText_`, `_TopText_`, `_LeftText_`, `_RightText_`, `_InsideText_` )
+_expression_. `GanttBarStyleEdit`( `_Item_`, `_Create_`, `_Name_`, `_StartShape_`, `_StartType_`, `_StartColor_`, `_MiddleShape_`, `_MiddleColor_`, `_MiddlePattern_`, `_EndShape_`, `_EndType_`, `_EndColor_`, `_ShowFor_`, `_Row_`, `_From_`, `_To_`, `_BottomText_`, `_TopText_`, `_LeftText_`, `_RightText_`, `_InsideText_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

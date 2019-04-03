@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Mileage Property (Outlook)
+title: SharingItem.Mileage property (Outlook)
 keywords: vbaol11.chm613
 f1_keywords:
 - vbaol11.chm613
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Mileage Property (Outlook)
+# SharingItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the mileage for a **[SharingItem](Out
 
 _expression_. `Mileage`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

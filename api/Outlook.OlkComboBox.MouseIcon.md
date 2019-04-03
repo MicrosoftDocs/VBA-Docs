@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.MouseIcon Property (Outlook)
+title: OlkComboBox.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000211
 f1_keywords:
 - vbaol11.chm1000211
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.MouseIcon Property (Outlook)
+# OlkComboBox.MouseIcon property (Outlook)
 
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 _expression_. `MouseIcon`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

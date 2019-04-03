@@ -1,5 +1,5 @@
 ---
-title: VisDefaultSaveFormats Enumeration (Visio)
+title: VisDefaultSaveFormats enumeration (Visio)
 keywords: vis_sdr.chm70415
 f1_keywords:
 - vis_sdr.chm70415
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDefaultSaveFormats Enumeration (Visio)
+# VisDefaultSaveFormats enumeration (Visio)
 
 Default  **Save** format options.
 

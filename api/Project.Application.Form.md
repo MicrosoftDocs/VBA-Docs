@@ -1,5 +1,5 @@
 ---
-title: Application.Form Method (Project)
+title: Application.Form method (Project)
 keywords: vbapj.chm1004
 f1_keywords:
 - vbapj.chm1004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Form Method (Project)
+# Application.Form method (Project)
 
 Displays a custom form. The  **Form** method produces an error if a resource form is specified when the active view is a task view, and vice versa.
 
 
 ## Syntax
 
- _expression_. `Form`( `_Name_` )
+_expression_. `Form`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

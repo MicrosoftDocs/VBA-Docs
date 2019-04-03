@@ -1,5 +1,5 @@
 ---
-title: Task.TCPI Property (Project)
+title: Task.TCPI property (Project)
 keywords: vbapj.chm132678
 f1_keywords:
 - vbapj.chm132678
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.TCPI Property (Project)
+# Task.TCPI property (Project)
 
 Gets the TCPI (to complete performance index) value for the task. Read-only  **Double**.
 
 
 ## Syntax
 
- _expression_. `TCPI`
+_expression_. `TCPI`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

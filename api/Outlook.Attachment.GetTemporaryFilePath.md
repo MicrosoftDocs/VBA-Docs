@@ -1,5 +1,5 @@
 ---
-title: Attachment.GetTemporaryFilePath Method (Outlook)
+title: Attachment.GetTemporaryFilePath method (Outlook)
 keywords: vbaol11.chm3522
 f1_keywords:
 - vbaol11.chm3522
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.GetTemporaryFilePath Method (Outlook)
+# Attachment.GetTemporaryFilePath method (Outlook)
 
 Returns the full path to the attached file that is in a temporary files folder. Read-only.
 

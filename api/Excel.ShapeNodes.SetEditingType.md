@@ -21,7 +21,7 @@ Sets the editing type of the node specified by  _Index_. If the node is a contro
 
 _expression_. `SetEditingType`( `_Index_` , `_EditingType_` )
 
-_expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
 
 
 ## Parameters
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) ob
 
 ## Example
 
-This example changes all corner nodes to smooth nodes in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all corner nodes to smooth nodes in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

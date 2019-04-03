@@ -1,5 +1,5 @@
 ---
-title: SharingItem.GetConversation Method (Outlook)
+title: SharingItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3496
 f1_keywords:
 - vbaol11.chm3496
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.GetConversation Method (Outlook)
+# SharingItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

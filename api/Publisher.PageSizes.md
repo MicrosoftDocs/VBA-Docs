@@ -1,5 +1,5 @@
 ---
-title: PageSizes Object (Publisher)
+title: PageSizes object (Publisher)
 keywords: vbapb10.chm8847359
 f1_keywords:
 - vbapb10.chm8847359
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSizes Object (Publisher)
+# PageSizes object (Publisher)
 
 Represents the collection of all  **PageSize** objects in the parent **Document** object, where each **PageSize** object represents one of the page sizes available in the current Microsoft Publisher document.
 

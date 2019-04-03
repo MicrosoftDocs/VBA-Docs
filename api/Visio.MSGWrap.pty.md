@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.pty Property (Visio)
+title: MSGWrap.pty property (Visio)
 keywords: vis_sdr.chm16150805
 f1_keywords:
 - vis_sdr.chm16150805
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap.pty Property (Visio)
+# MSGWrap.pty property (Visio)
 
 Gets or sets the  **pt.y** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
 
- _expression_. `pty`
+_expression_. `pty`
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 

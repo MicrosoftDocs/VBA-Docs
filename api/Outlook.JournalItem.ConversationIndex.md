@@ -1,5 +1,5 @@
 ---
-title: JournalItem.ConversationIndex Property (Outlook)
+title: JournalItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1237
 f1_keywords:
 - vbaol11.chm1237
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.ConversationIndex Property (Outlook)
+# JournalItem.ConversationIndex property (Outlook)
 
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that indicates the relative position of the item within th
 
 _expression_. `ConversationIndex`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

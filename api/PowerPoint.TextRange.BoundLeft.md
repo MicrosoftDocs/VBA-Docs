@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundLeft Property (PowerPoint)
+title: TextRange.BoundLeft property (PowerPoint)
 keywords: vbapp10.chm569006
 f1_keywords:
 - vbapp10.chm569006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.BoundLeft Property (PowerPoint)
+# TextRange.BoundLeft property (PowerPoint)
 
 Returns the distance (in points) from the left edge of the text bounding box for the specified text frame to the left edge of the slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `BoundLeft`
+_expression_. `BoundLeft`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 

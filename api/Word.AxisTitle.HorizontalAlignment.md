@@ -19,14 +19,14 @@ Returns or sets the horizontal alignment for the specified object. Read/write  *
 
 ## Syntax
 
- _expression_. `HorizontalAlignment`
+_expression_. `HorizontalAlignment`
 
  _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 
 
 ## Remarks
 
-The value of this property can be set to one of the following  **[xlConstants](Word.XlConstants.md)** constants:
+The value of this property can be set to one of the following  **[XlConstants](Word.XlConstants.md)** constants:
 
 
 -  **xlCenter**

@@ -1,5 +1,5 @@
 ---
-title: Document.ID Property (Visio)
+title: Document.ID property (Visio)
 keywords: vis_sdr.chm10513675
 f1_keywords:
 - vis_sdr.chm10513675
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ID Property (Visio)
+# Document.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

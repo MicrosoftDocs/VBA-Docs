@@ -1,5 +1,5 @@
 ---
-title: Windows.Count Property (Project)
+title: Windows.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Windows.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.Count Property (Project)
+# Windows.Count property (Project)
 
 Gets the number of items in the  **Windows** collection. Read-only **Long**.
 

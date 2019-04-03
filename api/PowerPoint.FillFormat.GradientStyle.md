@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStyle Property (PowerPoint)
+title: FillFormat.GradientStyle property (PowerPoint)
 keywords: vbapp10.chm552015
 f1_keywords:
 - vbapp10.chm552015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientStyle Property (PowerPoint)
+# FillFormat.GradientStyle property (PowerPoint)
 
 Returns the gradient style for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. `GradientStyle`
+_expression_. `GradientStyle`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -49,7 +49,7 @@ The value returned by the  **GradientStyle** property can be one of these **MsoG
 
 ## Example
 
-This example adds a rectangle to  `myDocument` and sets its fill gradient style to match that of the shape named "rect1." For the example to work, rect1 must have a gradient fill.
+This example adds a rectangle to  _myDocument_ and sets its fill gradient style to match that of the shape named "rect1." For the example to work, rect1 must have a gradient fill.
 
 
 ```vb

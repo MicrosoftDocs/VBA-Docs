@@ -1,5 +1,5 @@
 ---
-title: Assignment.Baseline9BudgetWork Property (Project)
+title: Assignment.Baseline9BudgetWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline9BudgetWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Baseline9BudgetWork Property (Project)
+# Assignment.Baseline9BudgetWork property (Project)
 
 Gets or sets the baseline9 budget work (in hours) for an  **Assignment**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline9BudgetWork`
+_expression_. `Baseline9BudgetWork`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

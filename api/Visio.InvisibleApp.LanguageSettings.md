@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.LanguageSettings Property (Visio)
+title: InvisibleApp.LanguageSettings property (Visio)
 keywords: vis_sdr.chm17560035
 f1_keywords:
 - vis_sdr.chm17560035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.LanguageSettings Property (Visio)
+# InvisibleApp.LanguageSettings property (Visio)
 
 Returns a reference to the Microsoft Office (MSO)  **LanguageSettings** interface. Read-only.
 
 
 ## Syntax
 
- _expression_. `LanguageSettings`
+_expression_. `LanguageSettings`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

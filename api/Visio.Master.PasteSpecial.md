@@ -1,5 +1,5 @@
 ---
-title: Master.PasteSpecial Method (Visio)
+title: Master.PasteSpecial method (Visio)
 keywords: vis_sdr.chm10751020
 f1_keywords:
 - vis_sdr.chm10751020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.PasteSpecial Method (Visio)
+# Master.PasteSpecial method (Visio)
 
 Inserts the contents of the Clipboard, allowing you to control the format of the pasted information and (optionally) establish a link to the source file (for example, a Microsoft Word document).
 
 
 ## Syntax
 
- _expression_. `PasteSpecial`( `_Format_` , `_Link_` , `_DisplayAsIcon_` )
+_expression_. `PasteSpecial`( `_Format_` , `_Link_` , `_DisplayAsIcon_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

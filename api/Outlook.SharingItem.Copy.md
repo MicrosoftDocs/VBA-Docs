@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Copy Method (Outlook)
+title: SharingItem.Copy method (Outlook)
 keywords: vbaol11.chm624
 f1_keywords:
 - vbaol11.chm624
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Copy Method (Outlook)
+# SharingItem.Copy method (Outlook)
 
 Creates another instance of a  **[SharingItem](Outlook.SharingItem.md)**.
 
@@ -21,7 +21,7 @@ Creates another instance of a  **[SharingItem](Outlook.SharingItem.md)**.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Application.GetCurrentTheme Method (Project)
+title: Application.GetCurrentTheme method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.GetCurrentTheme
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GetCurrentTheme Method (Project)
+# Application.GetCurrentTheme method (Project)
 
 Gets current Goal Bar theme and updates sidepane header background style.
 
 
 ## Syntax
 
- _expression_. `GetCurrentTheme`
+_expression_. `GetCurrentTheme`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.SetRTLTable Method (Project)
+title: Application.SetRTLTable method (Project)
 keywords: vbapj.chm1519
 f1_keywords:
 - vbapj.chm1519
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.SetRTLTable Method (Project)
+# Application.SetRTLTable method (Project)
 Sets column order from right to left, for a selected table in a report.
 
 ## Syntax
 
- _expression_. `SetRTLTable`
+_expression_. `SetRTLTable`
 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 

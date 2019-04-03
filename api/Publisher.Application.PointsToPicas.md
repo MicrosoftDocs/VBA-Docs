@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToPicas Method (Publisher)
+title: Application.PointsToPicas method (Publisher)
 keywords: vbapb10.chm131160
 f1_keywords:
 - vbapb10.chm131160
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PointsToPicas Method (Publisher)
+# Application.PointsToPicas method (Publisher)
 
 Converts a measurement from points to picas (1 pica = 12 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **PointsToPicas**(**_Value_**)
+ _expression_.**PointsToPicas**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 

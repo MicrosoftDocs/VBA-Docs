@@ -1,5 +1,5 @@
 ---
-title: Chart.AutoScaling Property (PowerPoint)
+title: Chart.AutoScaling property (PowerPoint)
 keywords: vbapp10.chm684015
 f1_keywords:
 - vbapp10.chm684015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.AutoScaling Property (PowerPoint)
+# Chart.AutoScaling property (PowerPoint)
 
  **True** if Microsoft Word scales a 3-D chart so that it is closer in size to the equivalent 2-D chart. The **[RightAngleAxes](PowerPoint.Chart.RightAngleAxes.md)** property must be **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoScaling`
+_expression_. `AutoScaling`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

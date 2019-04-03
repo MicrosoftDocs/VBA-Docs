@@ -1,5 +1,5 @@
 ---
-title: Resource.IsTeam Property (Project)
+title: Resource.IsTeam property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.IsTeam
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.IsTeam Property (Project)
+# Resource.IsTeam property (Project)
 
  **True** if the resource is in a team assignment pool. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `IsTeam`
+_expression_. `IsTeam`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

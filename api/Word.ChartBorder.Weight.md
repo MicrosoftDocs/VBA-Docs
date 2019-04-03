@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartBorder.Weight property (Word)
 
-Returns or sets the weight of the border. Read/write  **[xlBorderWeight](Word.xlborderweight.md)**.
+Returns or sets the weight of the border. Read/write  **[XlBorderWeight](Word.xlborderweight.md)**.
 
 
 ## Syntax

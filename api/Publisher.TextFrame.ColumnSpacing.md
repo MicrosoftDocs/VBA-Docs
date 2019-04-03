@@ -1,5 +1,5 @@
 ---
-title: TextFrame.ColumnSpacing Property (Publisher)
+title: TextFrame.ColumnSpacing property (Publisher)
 keywords: vbapb10.chm3866633
 f1_keywords:
 - vbapb10.chm3866633
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.ColumnSpacing Property (Publisher)
+# TextFrame.ColumnSpacing property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space between text columns. Read/write.
 
 
 ## Syntax
 
- _expression_. **ColumnSpacing**
+ _expression_.**ColumnSpacing**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.RotateWithObject Property (PowerPoint)
+title: FillFormat.RotateWithObject property (PowerPoint)
 keywords: vbapp10.chm552032
 f1_keywords:
 - vbapp10.chm552032
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.RotateWithObject Property (PowerPoint)
+# FillFormat.RotateWithObject property (PowerPoint)
 
 Returns or sets whether the fill rotates with the specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `RotateWithObject`
+_expression_. `RotateWithObject`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ReportTable.UpdateTableData Method (Project)
+title: ReportTable.UpdateTableData method (Project)
 keywords: vbapj.chm132700
 f1_keywords:
 - vbapj.chm132700
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# ReportTable.UpdateTableData Method (Project)
+# ReportTable.UpdateTableData method (Project)
 Updates rows and columns in the report table to show the specified task or resource fields; uses the specified filter, group, and outline level.
 
 ## Syntax
 
- _expression_. `UpdateTableData` _(Task,_ _GroupName,_ _FilterName,_ _OutlineLevel,_ _SafeArrayOfPjField)_
+_expression_. `UpdateTableData` _(Task,_ _GroupName,_ _FilterName,_ _OutlineLevel,_ _SafeArrayOfPjField)_
 
  _expression_ A variable that represents a 'ReportTable' object.
 

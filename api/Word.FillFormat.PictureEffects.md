@@ -19,7 +19,7 @@ Returns a [PictureEffects](Office.PictureEffects.md) object that can be used to 
 
 ## Syntax
 
- _expression_. `PictureEffects`
+_expression_. `PictureEffects`
 
  _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 

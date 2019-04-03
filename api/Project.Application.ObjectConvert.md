@@ -1,5 +1,5 @@
 ---
-title: Application.ObjectConvert Method (Project)
+title: Application.ObjectConvert method (Project)
 keywords: vbapj.chm236
 f1_keywords:
 - vbapj.chm236
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ObjectConvert Method (Project)
+# Application.ObjectConvert method (Project)
 
 Displays the  **Convert** dialog box, which prompts the user to convert the active object to a new format.
 
 
 ## Syntax
 
- _expression_. `ObjectConvert`
+_expression_. `ObjectConvert`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

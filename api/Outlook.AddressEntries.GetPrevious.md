@@ -1,5 +1,5 @@
 ---
-title: AddressEntries.GetPrevious Method (Outlook)
+title: AddressEntries.GetPrevious method (Outlook)
 keywords: vbaol11.chm36
 f1_keywords:
 - vbaol11.chm36
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntries.GetPrevious Method (Outlook)
+# AddressEntries.GetPrevious method (Outlook)
 
 Returns the previous object in the  **[AddressEntries](Outlook.AddressEntries.md)** collection.
 
@@ -21,7 +21,7 @@ Returns the previous object in the  **[AddressEntries](Outlook.AddressEntries.md
 
 _expression_. `GetPrevious`
 
-_expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
+_expression_ A variable that represents an [AddressEntries](Outlook.AddressEntries.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: TimelineView.StartField Property (Outlook)
+title: TimelineView.StartField property (Outlook)
 keywords: vbaol11.chm2660
 f1_keywords:
 - vbaol11.chm2660
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.StartField Property (Outlook)
+# TimelineView.StartField property (Outlook)
 
 Returns or sets a  **String** value that represents the name of the property that starts the time duration for Outlook items displayed in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `StartField`
+_expression_. `StartField`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks

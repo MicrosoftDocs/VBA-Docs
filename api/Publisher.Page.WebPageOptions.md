@@ -1,5 +1,5 @@
 ---
-title: Page.WebPageOptions Property (Publisher)
+title: Page.WebPageOptions property (Publisher)
 keywords: vbapb10.chm393264
 f1_keywords:
 - vbapb10.chm393264
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.WebPageOptions Property (Publisher)
+# Page.WebPageOptions property (Publisher)
 
 Returns a  **[WebPageOptions](Publisher.WebPageOptions.md)** object, which represents the properties of a single Web page within a Web publication. Read-only.
 
 
 ## Syntax
 
- _expression_. **WebPageOptions**
+ _expression_.**WebPageOptions**
 
  _expression_ A variable that represents a  **Page** object.
 

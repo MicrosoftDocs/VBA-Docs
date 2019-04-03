@@ -1,5 +1,5 @@
 ---
-title: Chart Object (PowerPoint)
+title: Chart object (PowerPoint)
 keywords: vbapp10.chm684000
 f1_keywords:
 - vbapp10.chm684000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart Object (PowerPoint)
+# Chart object (PowerPoint)
 
 Represents a chart in a presentation.
 
@@ -102,6 +102,6 @@ Represents a chart in a presentation.
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

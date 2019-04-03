@@ -1,5 +1,5 @@
 ---
-title: Report.Apply Method (Project)
+title: Report.Apply method (Project)
 ms.prod: project-server
 ms.assetid: 4461da82-5bd6-2d9b-0d39-35875c2cee36
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Report.Apply Method (Project)
+# Report.Apply method (Project)
 Changes the view to display the report.
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_. `Apply`
 
  _expression_ A variable that represents a 'Report' object.
 

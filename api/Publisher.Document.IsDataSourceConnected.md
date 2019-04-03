@@ -1,5 +1,5 @@
 ---
-title: Document.IsDataSourceConnected Property (Publisher)
+title: Document.IsDataSourceConnected property (Publisher)
 keywords: vbapb10.chm196722
 f1_keywords:
 - vbapb10.chm196722
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.IsDataSourceConnected Property (Publisher)
+# Document.IsDataSourceConnected property (Publisher)
 
  **True** if the specified publication is connected to a data source. Read-only.
 
 
 ## Syntax
 
- _expression_. **IsDataSourceConnected**
+ _expression_.**IsDataSourceConnected**
 
  _expression_ A variable that represents an  **Document** object.
 

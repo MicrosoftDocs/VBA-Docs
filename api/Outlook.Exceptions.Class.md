@@ -1,5 +1,5 @@
 ---
-title: Exceptions.Class Property (Outlook)
+title: Exceptions.Class property (Outlook)
 keywords: vbaol11.chm291
 f1_keywords:
 - vbaol11.chm291
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exceptions.Class Property (Outlook)
+# Exceptions.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [Exceptions](./Outlook.Exceptions.md) object.
+_expression_ A variable that represents an [Exceptions](Outlook.Exceptions.md) object.
 
 
 ## See also

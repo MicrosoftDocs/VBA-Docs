@@ -1,5 +1,5 @@
 ---
-title: Point.HasDataLabel Property (PowerPoint)
+title: Point.HasDataLabel property (PowerPoint)
 keywords: vbapp10.chm65613
 f1_keywords:
 - vbapp10.chm65613
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Point.HasDataLabel Property (PowerPoint)
+# Point.HasDataLabel property (PowerPoint)
 
  **True** if the point has a data label. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasDataLabel`
+_expression_. `HasDataLabel`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

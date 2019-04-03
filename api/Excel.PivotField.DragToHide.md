@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DragToHide`
 
-_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example

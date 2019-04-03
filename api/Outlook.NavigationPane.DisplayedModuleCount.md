@@ -1,5 +1,5 @@
 ---
-title: NavigationPane.DisplayedModuleCount Property (Outlook)
+title: NavigationPane.DisplayedModuleCount property (Outlook)
 keywords: vbaol11.chm2792
 f1_keywords:
 - vbaol11.chm2792
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationPane.DisplayedModuleCount Property (Outlook)
+# NavigationPane.DisplayedModuleCount property (Outlook)
 
 Returns or sets a  **Long** value that indicates the number of **[NavigationModule](Outlook.NavigationModule.md)** objects displayed in the navigation pane. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** value that indicates the number of **[NavigationModu
 
 _expression_. `DisplayedModuleCount`
 
-_expression_ A variable that represents a [NavigationPane](./Outlook.NavigationPane.md) object.
+_expression_ A variable that represents a [NavigationPane](Outlook.NavigationPane.md) object.
 
 
 ## Remarks

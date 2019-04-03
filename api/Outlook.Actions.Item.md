@@ -1,5 +1,5 @@
 ---
-title: Actions.Item Method (Outlook)
+title: Actions.Item method (Outlook)
 keywords: vbaol11.chm150
 f1_keywords:
 - vbaol11.chm150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Actions.Item Method (Outlook)
+# Actions.Item method (Outlook)
 
 Returns an  **[Action](Outlook.Action.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns an  **[Action](Outlook.Action.md)** object from the collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [Actions](./Outlook.Actions.md) object.
+_expression_ A variable that represents an [Actions](Outlook.Actions.md) object.
 
 
 ## Parameters

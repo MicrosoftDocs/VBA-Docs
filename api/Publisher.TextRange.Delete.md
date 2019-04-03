@@ -1,5 +1,5 @@
 ---
-title: TextRange.Delete Method (Publisher)
+title: TextRange.Delete method (Publisher)
 keywords: vbapb10.chm5308481
 f1_keywords:
 - vbapb10.chm5308481
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Delete Method (Publisher)
+# TextRange.Delete method (Publisher)
 
 Deletes the specified object.
 
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_.**Delete**
 
  _expression_ A variable that represents a  **TextRange** object.
 

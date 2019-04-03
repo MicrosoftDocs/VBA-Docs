@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShow.Name Property (PowerPoint)
+title: NamedSlideShow.Name property (PowerPoint)
 keywords: vbapp10.chm516003
 f1_keywords:
 - vbapp10.chm516003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShow.Name Property (PowerPoint)
+# NamedSlideShow.Name property (PowerPoint)
 
 You cannot use this property to set the name for a custom slide show. Use the  **[Add](PowerPoint.NamedSlideShows.Add.md)** method to redefine a custom slide show under a new name. Read-only.
 

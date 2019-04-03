@@ -1,5 +1,5 @@
 ---
-title: PjField Enumeration (Project)
+title: PjField enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjField
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjField Enumeration (Project)
+# PjField enumeration (Project)
 
 Contains constants that specify a resource or task field in Project.
 

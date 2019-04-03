@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _RangeValueDataType_|Optional| **Variant**|The range value data type. Can be a  **[xlRangeValueDataType](Excel.XlRangeValueDataType.md)** constant.|
+| _RangeValueDataType_|Optional| **Variant**|The range value data type. Can be a  **[XlRangeValueDataType](Excel.XlRangeValueDataType.md)** constant.|
 
 ## Remarks
 

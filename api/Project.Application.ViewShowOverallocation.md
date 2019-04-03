@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowOverallocation Method (Project)
+title: Application.ViewShowOverallocation method (Project)
 keywords: vbapj.chm925
 f1_keywords:
 - vbapj.chm925
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowOverallocation Method (Project)
+# Application.ViewShowOverallocation method (Project)
 
 Displays overallocation information in the active Resource Graph view.
 
 
 ## Syntax
 
- _expression_. `ViewShowOverallocation`
+_expression_. `ViewShowOverallocation`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

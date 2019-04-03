@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.MousePointer Property (Outlook)
+title: OlkTimeControl.MousePointer property (Outlook)
 keywords: vbaol11.chm1000390
 f1_keywords:
 - vbaol11.chm1000390
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.MousePointer Property (Outlook)
+# OlkTimeControl.MousePointer property (Outlook)
 
 Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant tha
 
 _expression_. `MousePointer`
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

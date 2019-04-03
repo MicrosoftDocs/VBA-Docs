@@ -1,5 +1,5 @@
 ---
-title: WorkWeek.Name Property (Project)
+title: WorkWeek.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeek.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeek.Name Property (Project)
+# WorkWeek.Name property (Project)
 
 Gets the name of a  **WorkWeek** object representing a work week. Read/write **String**.
 

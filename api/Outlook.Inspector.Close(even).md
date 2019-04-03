@@ -1,5 +1,5 @@
 ---
-title: Inspector.Close Event (Outlook)
+title: Inspector.Close event (Outlook)
 keywords: vbaol11.chm467
 f1_keywords:
 - vbaol11.chm467
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Close Event (Outlook)
+# Inspector.Close event (Outlook)
 
 Occurs when the inspector associated with a Microsoft Outlook item is being closed.
 
@@ -21,7 +21,7 @@ Occurs when the inspector associated with a Microsoft Outlook item is being clos
 
 _expression_. `Close`( `_Cancel_` )
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Remarks

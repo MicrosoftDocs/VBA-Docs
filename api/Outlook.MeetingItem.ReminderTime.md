@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.ReminderTime Property (Outlook)
+title: MeetingItem.ReminderTime property (Outlook)
 keywords: vbaol11.chm1447
 f1_keywords:
 - vbaol11.chm1447
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.ReminderTime Property (Outlook)
+# MeetingItem.ReminderTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time at which the reminder should occur for the specified item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the date and time at which the reminder s
 
 _expression_. `ReminderTime`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

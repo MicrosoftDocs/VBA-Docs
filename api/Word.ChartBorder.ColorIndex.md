@@ -19,14 +19,14 @@ Returns or sets the color of the border. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_. `ColorIndex`
 
  _expression_ A variable that represents a '[ChartBorder](Word.ChartBorder.md)' object.
 
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](Word.xlcolorindex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

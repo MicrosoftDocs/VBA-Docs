@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.GetRasterExportSize Method (Visio)
+title: ApplicationSettings.GetRasterExportSize method (Visio)
 keywords: vis_sdr.chm16262285
 f1_keywords:
 - vis_sdr.chm16262285
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.GetRasterExportSize Method (Visio)
+# ApplicationSettings.GetRasterExportSize method (Visio)
 
 Gets the raster export size.
 
 
 ## Syntax
 
- _expression_. `GetRasterExportSize`( `_pSize_` , `_pWidth_` , `_pHeight_` , `_pSizeUnits_` )
+_expression_. `GetRasterExportSize`( `_pSize_` , `_pWidth_` , `_pHeight_` , `_pSizeUnits_` )
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

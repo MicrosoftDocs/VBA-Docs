@@ -1,5 +1,5 @@
 ---
-title: Document.Wizard Property (Publisher)
+title: Document.Wizard property (Publisher)
 keywords: vbapb10.chm196673
 f1_keywords:
 - vbapb10.chm196673
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Wizard Property (Publisher)
+# Document.Wizard property (Publisher)
 
 Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
 
 
 ## Syntax
 
- _expression_. **Wizard**
+ _expression_.**Wizard**
 
  _expression_ A variable that represents a  **Document** object.
 

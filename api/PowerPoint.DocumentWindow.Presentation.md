@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Presentation Property (PowerPoint)
+title: DocumentWindow.Presentation property (PowerPoint)
 keywords: vbapp10.chm511005
 f1_keywords:
 - vbapp10.chm511005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.Presentation Property (PowerPoint)
+# DocumentWindow.Presentation property (PowerPoint)
 
 Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents the presentation in which the specified document window or slide show window was created. Read-only.
 
 
 ## Syntax
 
- _expression_. `Presentation`
+_expression_. `Presentation`
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

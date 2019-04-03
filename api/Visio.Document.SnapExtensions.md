@@ -1,5 +1,5 @@
 ---
-title: Document.SnapExtensions Property (Visio)
+title: Document.SnapExtensions property (Visio)
 keywords: vis_sdr.chm10550885
 f1_keywords:
 - vis_sdr.chm10550885
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.SnapExtensions Property (Visio)
+# Document.SnapExtensions property (Visio)
 
 Determines the shape extensions that are active in a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapExtensions`
+_expression_. `SnapExtensions`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

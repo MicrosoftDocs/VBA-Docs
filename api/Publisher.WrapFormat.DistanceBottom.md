@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceBottom Property (Publisher)
+title: WrapFormat.DistanceBottom property (Publisher)
 keywords: vbapb10.chm786440
 f1_keywords:
 - vbapb10.chm786440
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceBottom Property (Publisher)
+# WrapFormat.DistanceBottom property (Publisher)
 
 When the  **[Type](Publisher.WrapFormat.Type.md)** property of the **[WrapFormat](Publisher.WrapFormat.md)** object is set to **pbWrapTypeSquare**, returns or sets a  **Variant** that represents the distance (in points) between the document text and the bottom edge of the specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **DistanceBottom**
+ _expression_.**DistanceBottom**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 

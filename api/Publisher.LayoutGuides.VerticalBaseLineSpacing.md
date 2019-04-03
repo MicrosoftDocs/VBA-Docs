@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.VerticalBaseLineSpacing Property (Publisher)
+title: LayoutGuides.VerticalBaseLineSpacing property (Publisher)
 keywords: vbapb10.chm1114134
 f1_keywords:
 - vbapb10.chm1114134
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LayoutGuides.VerticalBaseLineSpacing Property (Publisher)
+# LayoutGuides.VerticalBaseLineSpacing property (Publisher)
 
 Returns a  **Single** that represents the vertical baseline spacing of the specified **LayoutGuides** object. Read/write.
 
 
 ## Syntax
 
- _expression_. **VerticalBaseLineSpacing**
+ _expression_.**VerticalBaseLineSpacing**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

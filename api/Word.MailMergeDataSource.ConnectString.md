@@ -19,7 +19,7 @@ Returns the connection string for the specified mail merge data source. Read-onl
 
 ## Syntax
 
- _expression_. `ConnectString`
+_expression_. `ConnectString`
 
  _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

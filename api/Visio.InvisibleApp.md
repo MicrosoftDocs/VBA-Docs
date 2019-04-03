@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp Object (Visio)
+title: InvisibleApp object (Visio)
 keywords: vis_sdr.chm60185
 f1_keywords:
 - vis_sdr.chm60185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp Object (Visio)
+# InvisibleApp object (Visio)
 
 Represents an invisible instance of Microsoft Visio. The properties of the  **InvisibleApp** object are identical to those of the **Application** object.
 

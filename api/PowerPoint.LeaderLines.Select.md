@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Select Method (PowerPoint)
+title: LeaderLines.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LeaderLines.Select Method (PowerPoint)
+# LeaderLines.Select method (PowerPoint)
 
 Selects the object.
 

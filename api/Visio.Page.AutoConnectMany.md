@@ -1,5 +1,5 @@
 ---
-title: Page.AutoConnectMany Method (Visio)
+title: Page.AutoConnectMany method (Visio)
 keywords: vis_sdr.chm10962130
 f1_keywords:
 - vis_sdr.chm10962130
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.AutoConnectMany Method (Visio)
+# Page.AutoConnectMany method (Visio)
 
 Automatically draws multiple connections in the specified directions between the specified shapes. Returns the number of shapes connected.
 
 
 ## Syntax
 
- _expression_. `AutoConnectMany`( `_FromShapeIDs()_` , `_ToShapeIDs()_` , `_PlacementDirs()_` , `_[Connector]_` )
+_expression_. `AutoConnectMany`( `_FromShapeIDs()_` , `_ToShapeIDs()_` , `_PlacementDirs()_` , `_[Connector]_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

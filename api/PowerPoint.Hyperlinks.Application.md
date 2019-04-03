@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Application Property (PowerPoint)
+title: Hyperlinks.Application property (PowerPoint)
 keywords: vbapp10.chm525001
 f1_keywords:
 - vbapp10.chm525001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Application Property (PowerPoint)
+# Hyperlinks.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages.BeforeReplaceShapes Event (Visio)
+title: Pages.BeforeReplaceShapes event (Visio)
 ms.prod: visio
 ms.assetid: 3f6dbc31-0583-dd67-0432-335d6df7a50c
 ms.date: 06/08/2017
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# Pages.BeforeReplaceShapes Event (Visio)
+# Pages.BeforeReplaceShapes event (Visio)
 
 Occurs just before a shape-replacement operation.
 
 
 ## Syntax
 
- _expression_. `BeforeReplaceShapes`_(replaceShapes)_
+_expression_. `BeforeReplaceShapes`_(replaceShapes)_
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PbPictureResolution Enumeration (Publisher)
+title: PbPictureResolution enumeration (Publisher)
 keywords: vbapb10.chm65622
 f1_keywords:
 - vbapb10.chm65622
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPictureResolution Enumeration (Publisher)
+# PbPictureResolution enumeration (Publisher)
 
 Constants passed to the  **SaveAsPicture** method and specifying the resolution in which the picture is to be saved.
 

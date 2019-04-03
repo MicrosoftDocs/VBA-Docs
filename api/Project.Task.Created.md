@@ -1,5 +1,5 @@
 ---
-title: Task.Created Property (Project)
+title: Task.Created property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Created
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Created Property (Project)
+# Task.Created property (Project)
 
 Gets the date a  **Task** was created. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `Created`
+_expression_. `Created`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

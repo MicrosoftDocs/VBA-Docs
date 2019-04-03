@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[ConnectorFormat](Excel.ConnectorFor
 
 ## Example
 
-If the end of the connector represented by shape three on  `myDocument` is connected to a shape, this example stores the connection site number in the variable `oldEndConnSite`, stores a reference to the connected shape in the object variable  `oldEndConnShape`, and then disconnects the end of the connector from the shape.
+If the end of the connector represented by shape three on  _myDocument_ is connected to a shape, this example stores the connection site number in the variable `oldEndConnSite`, stores a reference to the connected shape in the object variable  `oldEndConnShape`, and then disconnects the end of the connector from the shape.
 
 
 ```vb

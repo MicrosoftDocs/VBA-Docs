@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Sensitivity Property (Outlook)
+title: JournalItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1252
 f1_keywords:
 - vbaol11.chm1252
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Sensitivity Property (Outlook)
+# JournalItem.Sensitivity property (Outlook)
 
 Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 _expression_. `Sensitivity`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

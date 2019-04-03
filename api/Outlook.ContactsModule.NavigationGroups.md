@@ -1,5 +1,5 @@
 ---
-title: ContactsModule.NavigationGroups Property (Outlook)
+title: ContactsModule.NavigationGroups property (Outlook)
 keywords: vbaol11.chm2840
 f1_keywords:
 - vbaol11.chm2840
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactsModule.NavigationGroups Property (Outlook)
+# ContactsModule.NavigationGroups property (Outlook)
 
 Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[ContactsModule](Outlook.ContactsModule.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that conta
 
 _expression_. `NavigationGroups`
 
-_expression_ A variable that represents a [ContactsModule](./Outlook.ContactsModule.md) object.
+_expression_ A variable that represents a [ContactsModule](Outlook.ContactsModule.md) object.
 
 
 ## See also

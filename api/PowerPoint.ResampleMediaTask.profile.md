@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.profile Property (PowerPoint)
+title: ResampleMediaTask.profile property (PowerPoint)
 keywords: vbapp10.chm727001
 f1_keywords:
 - vbapp10.chm727001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.profile Property (PowerPoint)
+# ResampleMediaTask.profile property (PowerPoint)
 
 Returns the media mobilization profile for the specified media asset. Read-only.
 
 
 ## Syntax
 
- _expression_. `profile`
+_expression_. `profile`
 
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 

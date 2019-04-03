@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.PrintOut Method (Outlook)
+title: TaskRequestUpdateItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1952
 f1_keywords:
 - vbaol11.chm1952
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.PrintOut Method (Outlook)
+# TaskRequestUpdateItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 
 
 ## Syntax
 
- _expression_. `PrintOut`
+_expression_. `PrintOut`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## See also

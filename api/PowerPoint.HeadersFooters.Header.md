@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Header Property (PowerPoint)
+title: HeadersFooters.Header property (PowerPoint)
 keywords: vbapp10.chm542005
 f1_keywords:
 - vbapp10.chm542005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# HeadersFooters.Header Property (PowerPoint)
+# HeadersFooters.Header property (PowerPoint)
 
 Returns a  **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents the header that appears at the top of a slide or in the upper-left corner of a notes page, handout, or outline. Read-only.
 
 
 ## Syntax
 
- _expression_. `Header`
+_expression_. `Header`
 
  _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: OlFormatDuration Enumeration (Outlook)
+title: OlFormatDuration enumeration (Outlook)
 keywords: vbaol11.chm3134
 f1_keywords:
 - vbaol11.chm3134
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormatDuration Enumeration (Outlook)
+# OlFormatDuration enumeration (Outlook)
 
 Indicates the format used to display duration Outlook item properties.
 

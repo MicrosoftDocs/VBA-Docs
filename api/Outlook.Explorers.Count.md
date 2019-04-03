@@ -1,5 +1,5 @@
 ---
-title: Explorers.Count Property (Outlook)
+title: Explorers.Count property (Outlook)
 keywords: vbaol11.chm120
 f1_keywords:
 - vbaol11.chm120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorers.Count Property (Outlook)
+# Explorers.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
+_expression_ A variable that represents an [Explorers](Outlook.Explorers.md) object.
 
 
 ## See also

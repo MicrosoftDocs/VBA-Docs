@@ -1,5 +1,5 @@
 ---
-title: Axis.TickMarkSpacing Property (PowerPoint)
+title: Axis.TickMarkSpacing property (PowerPoint)
 keywords: vbapp10.chm682031
 f1_keywords:
 - vbapp10.chm682031
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.TickMarkSpacing Property (PowerPoint)
+# Axis.TickMarkSpacing property (PowerPoint)
 
 Returns or sets the number of categories or series between tick marks. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `TickMarkSpacing`
+_expression_. `TickMarkSpacing`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

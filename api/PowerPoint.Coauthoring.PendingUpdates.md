@@ -1,5 +1,5 @@
 ---
-title: Coauthoring.PendingUpdates Property (PowerPoint)
+title: Coauthoring.PendingUpdates property (PowerPoint)
 keywords: vbapp10.chm731006
 f1_keywords:
 - vbapp10.chm731006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Coauthoring.PendingUpdates Property (PowerPoint)
+# Coauthoring.PendingUpdates property (PowerPoint)
 
 Returns  **True** if merge-mode updates are pending. Read-only.
 
 
 ## Syntax
 
- _expression_. `PendingUpdates`
+_expression_. `PendingUpdates`
 
 _expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring.md) object.
 

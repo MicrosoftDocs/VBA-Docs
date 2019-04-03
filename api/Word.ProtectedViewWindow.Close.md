@@ -19,7 +19,7 @@ Closes the specified protected view window.
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
  _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 

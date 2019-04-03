@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.AutoSize Property (Outlook)
+title: OlkComboBox.AutoSize property (Outlook)
 keywords: vbaol11.chm1000194
 f1_keywords:
 - vbaol11.chm1000194
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.AutoSize Property (Outlook)
+# OlkComboBox.AutoSize property (Outlook)
 
 Returns or sets a  **Boolean** that automatically sizes the control to display the entire contents. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 
 _expression_. `AutoSize`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

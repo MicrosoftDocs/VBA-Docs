@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Count Property (Publisher)
+title: Hyperlinks.Count property (Publisher)
 keywords: vbapb10.chm6881283
 f1_keywords:
 - vbapb10.chm6881283
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Count Property (Publisher)
+# Hyperlinks.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **Hyperlinks** object.
 

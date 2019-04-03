@@ -1,5 +1,5 @@
 ---
-title: Application.MakeLocalCalendarEnterprise Method (Project)
+title: Application.MakeLocalCalendarEnterprise method (Project)
 keywords: vbapj.chm2369
 f1_keywords:
 - vbapj.chm2369
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MakeLocalCalendarEnterprise Method (Project)
+# Application.MakeLocalCalendarEnterprise method (Project)
 
 Converts a local calendar to an enterprise calendar.
 
 
 ## Syntax
 
- _expression_. `MakeLocalCalendarEnterprise`( `_OldName_`, `_NewName_` )
+_expression_. `MakeLocalCalendarEnterprise`( `_OldName_`, `_NewName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

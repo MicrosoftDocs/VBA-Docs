@@ -1,5 +1,5 @@
 ---
-title: Application.CommandBars Property (Visio)
+title: Application.CommandBars property (Visio)
 keywords: vis_sdr.chm10050540
 f1_keywords:
 - vis_sdr.chm10050540
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CommandBars Property (Visio)
+# Application.CommandBars property (Visio)
 
 Returns a reference to the  **CommandBars** collection that represents the command bars in the container application. Read-only.
 
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

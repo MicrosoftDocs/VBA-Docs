@@ -1,5 +1,5 @@
 ---
-title: Trendline.Name Property (PowerPoint)
+title: Trendline.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Name Property (PowerPoint)
+# Trendline.Name property (PowerPoint)
 
 Returns or sets name of the object. Read/write  **String**.
 

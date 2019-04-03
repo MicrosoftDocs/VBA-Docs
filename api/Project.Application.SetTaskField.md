@@ -1,5 +1,5 @@
 ---
-title: Application.SetTaskField Method (Project)
+title: Application.SetTaskField method (Project)
 keywords: vbapj.chm4
 f1_keywords:
 - vbapj.chm4
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SetTaskField Method (Project)
+# Application.SetTaskField method (Project)
 
 Sets the value of a task field specified by the name of the field.
 
 
 ## Syntax
 
- _expression_. `SetTaskField`( `_Field_`, `_Value_`, `_AllSelectedTasks_`, `_Create_`, `_TaskID_`, `_ProjectName_` )
+_expression_. `SetTaskField`( `_Field_`, `_Value_`, `_AllSelectedTasks_`, `_Create_`, `_TaskID_`, `_ProjectName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

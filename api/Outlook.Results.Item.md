@@ -1,5 +1,5 @@
 ---
-title: Results.Item Method (Outlook)
+title: Results.Item method (Outlook)
 keywords: vbaol11.chm503
 f1_keywords:
 - vbaol11.chm503
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.Item Method (Outlook)
+# Results.Item method (Outlook)
 
 Returns an Outlook item from a collection.
 
@@ -21,7 +21,7 @@ Returns an Outlook item from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Parameters

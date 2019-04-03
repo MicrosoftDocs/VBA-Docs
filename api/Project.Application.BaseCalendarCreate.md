@@ -1,5 +1,5 @@
 ---
-title: Application.BaseCalendarCreate Method (Project)
+title: Application.BaseCalendarCreate method (Project)
 keywords: vbapj.chm618
 f1_keywords:
 - vbapj.chm618
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BaseCalendarCreate Method (Project)
+# Application.BaseCalendarCreate method (Project)
 
 Creates a base calendar.
 
 
 ## Syntax
 
- _expression_. `BaseCalendarCreate`( `_Name_`, `_FromName_` )
+_expression_. `BaseCalendarCreate`( `_Name_`, `_FromName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

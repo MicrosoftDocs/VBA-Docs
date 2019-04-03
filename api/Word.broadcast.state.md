@@ -12,12 +12,12 @@ localization_priority: Normal
 
 # Broadcast.State property (Word)
 
-Returns an [MSOBroadcastState](./overview/Library-Reference/msobroadcaststate-enumeration-office.md) constant that describes the current broadcast state. Read-only.
+Returns an [MSOBroadcastState](overview/Library-Reference/msobroadcaststate-enumeration-office.md) constant that describes the current broadcast state. Read-only.
 
 
 ## Syntax
 
- _expression_. `State`
+_expression_. `State`
 
  _expression_ A variable that represents a 'Broadcast' object.
 

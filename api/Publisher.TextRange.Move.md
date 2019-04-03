@@ -1,5 +1,5 @@
 ---
-title: TextRange.Move Method (Publisher)
+title: TextRange.Move method (Publisher)
 keywords: vbapb10.chm5308422
 f1_keywords:
 - vbapb10.chm5308422
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Move Method (Publisher)
+# TextRange.Move method (Publisher)
 
 Collapses the specified range to its start position or end position and then moves the collapsed object by the specified number of units. This method returns a  **Long** that represents the number of units by which the object was actually moved, or it returns 0 (zero) if the move was unsuccessful.
 
 
 ## Syntax
 
- _expression_. **Move**(**_Unit_**,  **_Size_**)
+ _expression_.**Move**(**_Unit_**,  **_Size_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

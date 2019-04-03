@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule.Class Property (Outlook)
+title: SolutionsModule.Class property (Outlook)
 keywords: vbaol11.chm3361
 f1_keywords:
 - vbaol11.chm3361
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SolutionsModule.Class Property (Outlook)
+# SolutionsModule.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that indicates the object's class. Read-only.
 

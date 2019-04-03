@@ -1,5 +1,5 @@
 ---
-title: ContactItem.CompanyMainTelephoneNumber Property (Outlook)
+title: ContactItem.CompanyMainTelephoneNumber property (Outlook)
 keywords: vbaol11.chm986
 f1_keywords:
 - vbaol11.chm986
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.CompanyMainTelephoneNumber Property (Outlook)
+# ContactItem.CompanyMainTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** representing the company main telephone number for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the company main telephone number for
 
 _expression_. `CompanyMainTelephoneNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

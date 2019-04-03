@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SenderEmailAddress Property (Outlook)
+title: SharingItem.SenderEmailAddress property (Outlook)
 keywords: vbaol11.chm686
 f1_keywords:
 - vbaol11.chm686
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SenderEmailAddress Property (Outlook)
+# SharingItem.SenderEmailAddress property (Outlook)
 
 Returns a  **String** that represents the email address of the sender of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that represents the email address of the sender of the **[
 
 _expression_. `SenderEmailAddress`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Format Property (PowerPoint)
+title: DisplayUnitLabel.Format property (PowerPoint)
 keywords: vbapp10.chm699019
 f1_keywords:
 - vbapp10.chm699019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Format Property (PowerPoint)
+# DisplayUnitLabel.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
 _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
 

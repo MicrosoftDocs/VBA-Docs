@@ -1,5 +1,5 @@
 ---
-title: ViewCombination.Index Property (Project)
+title: ViewCombination.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewCombination.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ViewCombination.Index Property (Project)
+# ViewCombination.Index property (Project)
 
 Gets the index of a  **ViewCombination** object in the **ViewsCombination** containing object. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 

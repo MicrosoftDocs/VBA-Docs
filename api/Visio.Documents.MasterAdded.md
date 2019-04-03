@@ -1,5 +1,5 @@
 ---
-title: Documents.MasterAdded Event (Visio)
+title: Documents.MasterAdded event (Visio)
 keywords: vis_sdr.chm10619170
 f1_keywords:
 - vis_sdr.chm10619170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.MasterAdded Event (Visio)
+# Documents.MasterAdded event (Visio)
 
 Occurs after a new master is added to a document.
 

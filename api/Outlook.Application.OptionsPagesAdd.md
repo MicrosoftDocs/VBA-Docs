@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsPagesAdd Event (Outlook)
+title: Application.OptionsPagesAdd event (Outlook)
 keywords: vbaol11.chm432
 f1_keywords:
 - vbaol11.chm432
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsPagesAdd Event (Outlook)
+# Application.OptionsPagesAdd event (Outlook)
 
 Occurs whenever the user clicks the  **Add-in Options** button on the **Add-ins** tab of the Outlook **Options** dialog box.
 
@@ -21,7 +21,7 @@ Occurs whenever the user clicks the  **Add-in Options** button on the **Add-ins*
 
 _expression_. `OptionsPagesAdd`( `_Pages_` , `_Folder_` )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters

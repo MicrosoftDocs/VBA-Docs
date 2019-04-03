@@ -17,7 +17,7 @@ Returns or sets a  **String** that identifies a group of mutually exclusive **[C
 
 ## Syntax
 
-_expression_. **GroupName**
+_expression_.**GroupName**
 
 _expression_ A variable that represents a  **CheckBox** object.
 

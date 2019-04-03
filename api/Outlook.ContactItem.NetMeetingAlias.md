@@ -1,5 +1,5 @@
 ---
-title: ContactItem.NetMeetingAlias Property (Outlook)
+title: ContactItem.NetMeetingAlias property (Outlook)
 keywords: vbaol11.chm1044
 f1_keywords:
 - vbaol11.chm1044
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.NetMeetingAlias Property (Outlook)
+# ContactItem.NetMeetingAlias property (Outlook)
 
 Returns or sets a  **String** indicating the user's Microsoft NetMeeting ID, or alias. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the user's Microsoft NetMeeting ID, or 
 
 _expression_. `NetMeetingAlias`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

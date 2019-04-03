@@ -1,5 +1,5 @@
 ---
-title: Trendline.Border Property (PowerPoint)
+title: Trendline.Border property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Border
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Border Property (PowerPoint)
+# Trendline.Border property (PowerPoint)
 
 Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBorder.md)**.
 
 
 ## Syntax
 
- _expression_. `Border`
+_expression_. `Border`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

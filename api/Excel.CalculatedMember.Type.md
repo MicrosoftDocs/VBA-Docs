@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalculatedMember.Type property (Excel)
 
-Returns a  **[xlCalculatedMemberType](Excel.XlCalculatedMemberType.md)** value that represents the calculated member type.
+Returns a  **[XlCalculatedMemberType](Excel.XlCalculatedMemberType.md)** value that represents the calculated member type.
 
 
 ## Syntax

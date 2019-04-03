@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddWordArt Method (Publisher)
+title: Shapes.AddWordArt method (Publisher)
 keywords: vbapb10.chm2162761
 f1_keywords:
 - vbapb10.chm2162761
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddWordArt Method (Publisher)
+# Shapes.AddWordArt method (Publisher)
 
 Returns a  **Shape** object that represents the WordArt to be added to the publication.
 
 
 ## Syntax
 
- _expression_. **AddWordArt**(**_PresetWordArt_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
+ _expression_.**AddWordArt**(**_PresetWordArt_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

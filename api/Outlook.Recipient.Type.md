@@ -1,5 +1,5 @@
 ---
-title: Recipient.Type Property (Outlook)
+title: Recipient.Type property (Outlook)
 keywords: vbaol11.chm2355
 f1_keywords:
 - vbaol11.chm2355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Type Property (Outlook)
+# Recipient.Type property (Outlook)
 
 Returns or sets a **Long** representing the type of recipient. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a **Long** representing the type of recipient. Read/write.
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## Remarks
@@ -41,7 +41,7 @@ Depending on the type of recipient, this property returns or sets a **Long** cor
 
 This property may not always return the appropriate recipient type for a conference room. For instance, a conference room may be specified as a required recipient in a meeting request, in which case this property will not return **olResource** for that conference room.
 
-To reliably determine if a recipient is a conference room, use the Messaging API (MAPI) property, **[PidTagDisplayTypeEx](./overview/Outlook.md)**, of the **[Recipient](Outlook.Recipient.md)** object. You can access this property using the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object in the Outlook object model. The **PidTagDisplayTypeEx** property is represented as "http://schemas.microsoft.com/mapi/proptag/0x39050003" in the MAPI proptag namespace. Note that the **PidTagDisplayTypeEx** property is not available in versions of Microsoft Exchange Server earlier than Microsoft Exchange Server 2007; in such earlier versions of Exchange Server, you can use the **Recipient.Type** property and assume that a recipient having a type other than **olResource** is not a conference room.
+To reliably determine if a recipient is a conference room, use the Messaging API (MAPI) property, **[PidTagDisplayTypeEx](overview/Outlook.md)**, of the **[Recipient](Outlook.Recipient.md)** object. You can access this property using the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object in the Outlook object model. The **PidTagDisplayTypeEx** property is represented as "http://schemas.microsoft.com/mapi/proptag/0x39050003" in the MAPI proptag namespace. Note that the **PidTagDisplayTypeEx** property is not available in versions of Microsoft Exchange Server earlier than Microsoft Exchange Server 2007; in such earlier versions of Exchange Server, you can use the **Recipient.Type** property and assume that a recipient having a type other than **olResource** is not a conference room.
 
 
 ## Example

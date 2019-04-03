@@ -1,5 +1,5 @@
 ---
-title: TableView.SortFields Property (Outlook)
+title: TableView.SortFields property (Outlook)
 keywords: vbaol11.chm2519
 f1_keywords:
 - vbaol11.chm2519
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.SortFields Property (Outlook)
+# TableView.SortFields property (Outlook)
 
 Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[TableView](Outlook.TableView.md)** object are ordered. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the
 
 _expression_. `SortFields`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## See also

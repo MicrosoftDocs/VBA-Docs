@@ -1,5 +1,5 @@
 ---
-title: Chart.Creator Property (Project)
+title: Chart.Creator property (Project)
 keywords: vbapj.chm131613
 f1_keywords:
 - vbapj.chm131613
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Creator Property (Project)
+# Chart.Creator property (Project)
 Gets a 32-bit integer that indicates the application in which the chart was created. Read-only  **Long**.
 
 ## Syntax

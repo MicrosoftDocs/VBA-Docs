@@ -1,5 +1,5 @@
 ---
-title: ActualStartDrivers Object (Project)
+title: ActualStartDrivers object (Project)
 ms.prod: project-server
 ms.assetid: b9a76aed-576f-e7df-3884-c8d3fcecf210
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ActualStartDrivers Object (Project)
+# ActualStartDrivers object (Project)
 
 The  **ActualStartDrivers** object is a collection of **[Assignment](Project.Assignment.md)** objects that affect the task start date.
 
@@ -35,6 +35,6 @@ Use the  **[Item](./Project.ActualStartDrivers.Item.md)** property to get a sing
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
-[ActualStartDrivers Object Members](./overview/Project.md)
+[ActualStartDrivers Object Members](overview/Project.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

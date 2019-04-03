@@ -1,5 +1,5 @@
 ---
-title: Shape.TextFrame Property (Project)
+title: Shape.TextFrame property (Project)
 ms.prod: project-server
 ms.assetid: 73227e78-07d0-874a-85b1-5aac91bff6cf
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shape.TextFrame Property (Project)
+# Shape.TextFrame property (Project)
 Gets a  **TextFrame** object that contains the alignment and anchoring properties of the shape. Read-only **[TextFrame](https://msdn.microsoft.com/library/office/ff197860%28v=office.15%29)**.
 
 ## Syntax
 
- _expression_. `TextFrame`
+_expression_. `TextFrame`
 
  _expression_ A variable that represents a 'Shape' object.
 

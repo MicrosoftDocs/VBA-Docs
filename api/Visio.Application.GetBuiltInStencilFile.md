@@ -1,5 +1,5 @@
 ---
-title: Application.GetBuiltInStencilFile Method (Visio)
+title: Application.GetBuiltInStencilFile method (Visio)
 keywords: vis_sdr.chm10062110
 f1_keywords:
 - vis_sdr.chm10062110
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GetBuiltInStencilFile Method (Visio)
+# Application.GetBuiltInStencilFile method (Visio)
 
 Returns the file path to the specified built-in, hidden stencil used to populate certain galleries in the Microsoft Visio user interface.
 
 
 ## Syntax
 
- _expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
+_expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
 
  _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 

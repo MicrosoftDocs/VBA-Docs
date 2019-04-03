@@ -1,5 +1,5 @@
 ---
-title: OlkInfoBar Object (Outlook)
+title: OlkInfoBar object (Outlook)
 keywords: vbaol11.chm1000304
 f1_keywords:
 - vbaol11.chm1000304
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkInfoBar Object (Outlook)
+# OlkInfoBar object (Outlook)
 
 A control that provides an area to display specific information on a custom form.
 
@@ -59,6 +59,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

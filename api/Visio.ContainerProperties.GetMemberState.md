@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.GetMemberState Method (Visio)
+title: ContainerProperties.GetMemberState method (Visio)
 keywords: vis_sdr.chm17662330
 f1_keywords:
 - vis_sdr.chm17662330
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.GetMemberState Method (Visio)
+# ContainerProperties.GetMemberState method (Visio)
 
 Returns the membership state of the specified shape with respect to the container shape.
 
 
 ## Syntax
 
- _expression_. `GetMemberState`( `_Shape_` )
+_expression_. `GetMemberState`( `_Shape_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

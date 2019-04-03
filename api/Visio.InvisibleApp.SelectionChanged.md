@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.SelectionChanged Event (Visio)
+title: InvisibleApp.SelectionChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SelectionChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.SelectionChanged Event (Visio)
+# InvisibleApp.SelectionChanged event (Visio)
 
 Occurs after a set of shapes selected in a window changes.
 

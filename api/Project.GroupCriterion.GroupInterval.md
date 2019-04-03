@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.GroupInterval Property (Project)
+title: GroupCriterion.GroupInterval property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.GroupInterval
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.GroupInterval Property (Project)
+# GroupCriterion.GroupInterval property (Project)
 
 Gets or sets the interval for a field used as a criterion in a group definition. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `GroupInterval`
+_expression_. `GroupInterval`
 
  _expression_ A variable that represents an [GroupCriterion](./Project.GroupCriterion.md) object.
 

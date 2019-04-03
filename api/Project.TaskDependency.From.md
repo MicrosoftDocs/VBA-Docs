@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.From Property (Project)
+title: TaskDependency.From property (Project)
 keywords: vbapj.chm132290
 f1_keywords:
 - vbapj.chm132290
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.From Property (Project)
+# TaskDependency.From property (Project)
 
 Gets a  **[Task](Project.Task.md)** object that is the predecessor in a task dependency. Read-only **Task**.
 
 
 ## Syntax
 
- _expression_. `From`
+_expression_. `From`
 
  _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 

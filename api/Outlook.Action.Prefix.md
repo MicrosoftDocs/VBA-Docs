@@ -1,5 +1,5 @@
 ---
-title: Action.Prefix Property (Outlook)
+title: Action.Prefix property (Outlook)
 keywords: vbaol11.chm18
 f1_keywords:
 - vbaol11.chm18
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action.Prefix Property (Outlook)
+# Action.Prefix property (Outlook)
 
 Returns or sets a  **String** specifying the prefix (for example, "Re") to use with the subject of the item when the action is executed. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** specifying the prefix (for example, "Re") to use w
 
 _expression_. `Prefix`
 
-_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](Outlook.Action.md) object.
 
 
 ## Remarks

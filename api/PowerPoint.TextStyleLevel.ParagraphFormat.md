@@ -1,5 +1,5 @@
 ---
-title: TextStyleLevel.ParagraphFormat Property (PowerPoint)
+title: TextStyleLevel.ParagraphFormat property (PowerPoint)
 keywords: vbapp10.chm581003
 f1_keywords:
 - vbapp10.chm581003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextStyleLevel.ParagraphFormat Property (PowerPoint)
+# TextStyleLevel.ParagraphFormat property (PowerPoint)
 
 Returns a  **[ParagraphFormat](PowerPoint.ParagraphFormat.md)** object that represents paragraph formatting for the specified text. Read-only.
 
 
 ## Syntax
 
- _expression_. `ParagraphFormat`
+_expression_. `ParagraphFormat`
 
  _expression_ A variable that represents a [TextStyleLevel](./PowerPoint.TextStyleLevel.md) object.
 

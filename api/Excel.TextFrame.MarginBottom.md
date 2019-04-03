@@ -21,12 +21,12 @@ Returns or sets the distance (in points) between the bottom of the text frame an
 
 _expression_. `MarginBottom`
 
-_expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Example
 
-This example adds a rectangle to  `myDocument`, adds text to the rectangle, and then sets the margins for the text frame.
+This example adds a rectangle to  _myDocument_, adds text to the rectangle, and then sets the margins for the text frame.
 
 
 ```vb

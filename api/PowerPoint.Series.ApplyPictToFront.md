@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyPictToFront Property (PowerPoint)
+title: Series.ApplyPictToFront property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.ApplyPictToFront
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Series.ApplyPictToFront Property (PowerPoint)
+# Series.ApplyPictToFront property (PowerPoint)
 
  **True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyPictToFront`
+_expression_. `ApplyPictToFront`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

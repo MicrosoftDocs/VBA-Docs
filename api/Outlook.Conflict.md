@@ -1,5 +1,5 @@
 ---
-title: Conflict Object (Outlook)
+title: Conflict object (Outlook)
 keywords: vbaol11.chm410
 f1_keywords:
 - vbaol11.chm410
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflict Object (Outlook)
+# Conflict object (Outlook)
 
 Represents an Outlook item that is in conflict with another Outlook item.
 
@@ -51,6 +51,6 @@ Set myConflictItem = myConflicts.Item(1)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

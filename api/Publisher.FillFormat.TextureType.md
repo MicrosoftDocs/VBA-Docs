@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureType Property (Publisher)
+title: FillFormat.TextureType property (Publisher)
 keywords: vbapb10.chm2359568
 f1_keywords:
 - vbapb10.chm2359568
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureType Property (Publisher)
+# FillFormat.TextureType property (Publisher)
 
 Returns an  **MsoTextureType** constant indicating the texture type for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. **TextureType**
+ _expression_.**TextureType**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.NegotiateMenus Property (Visio)
+title: DrawingControl.NegotiateMenus property (Visio)
 keywords: vis_sdr.chm52005
 f1_keywords:
 - vis_sdr.chm52005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.NegotiateMenus Property (Visio)
+# DrawingControl.NegotiateMenus property (Visio)
 
 Determines whether Microsoft Visio menus are merged with those of the host application when the Microsoft Visio Drawing Control has the keyboard focus. Read/write.
 
 
 ## Syntax
 
- _expression_. `NegotiateMenus`
+_expression_. `NegotiateMenus`
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 

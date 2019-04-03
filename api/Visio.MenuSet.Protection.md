@@ -1,5 +1,5 @@
 ---
-title: MenuSet.Protection Property (Visio)
+title: MenuSet.Protection property (Visio)
 keywords: vis_sdr.chm13314180
 f1_keywords:
 - vis_sdr.chm13314180
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MenuSet.Protection Property (Visio)
+# MenuSet.Protection property (Visio)
 
 Determines how a  **MenuSet** object is protected from user customization. Read/write.
 
 
 ## Syntax
 
- _expression_. `Protection`
+_expression_. `Protection`
 
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 

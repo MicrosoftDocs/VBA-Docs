@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyle Method (PowerPoint)
+title: Table.ApplyStyle method (PowerPoint)
 keywords: vbapp10.chm622017
 f1_keywords:
 - vbapp10.chm622017
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.ApplyStyle Method (PowerPoint)
+# Table.ApplyStyle method (PowerPoint)
 
 Applies a table style to the specified table.
 
 
 ## Syntax
 
- _expression_. `ApplyStyle`( `_StyleID_`, `_SaveFormatting_` )
+_expression_. `ApplyStyle`( `_StyleID_`, `_SaveFormatting_` )
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

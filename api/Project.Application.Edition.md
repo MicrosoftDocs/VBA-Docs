@@ -1,5 +1,5 @@
 ---
-title: Application.Edition Property (Project)
+title: Application.Edition property (Project)
 keywords: vbapj.chm131789
 f1_keywords:
 - vbapj.chm131789
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Edition Property (Project)
+# Application.Edition property (Project)
 
 Gets the edition of the Project application, either Project Standard or Project Professional. Read-only  **PjEditionType**.
 
 
 ## Syntax
 
- _expression_. `Edition`
+_expression_. `Edition`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

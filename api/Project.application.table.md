@@ -1,5 +1,5 @@
 ---
-title: Application.Table Method (Project)
+title: Application.Table method (Project)
 keywords: vbapj.chm2195
 f1_keywords:
 - vbapj.chm2195
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.Table Method (Project)
+# Application.Table method (Project)
 Creates a  **ReportTable** object in the active report.
 
 ## Syntax
 
- _expression_. `Table`
+_expression_. `Table`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

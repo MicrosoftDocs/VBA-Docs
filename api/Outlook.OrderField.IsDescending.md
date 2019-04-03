@@ -1,5 +1,5 @@
 ---
-title: OrderField.IsDescending Property (Outlook)
+title: OrderField.IsDescending property (Outlook)
 keywords: vbaol11.chm2689
 f1_keywords:
 - vbaol11.chm2689
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderField.IsDescending Property (Outlook)
+# OrderField.IsDescending property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether the contents of the **[OrderField](Outlook.OrderField.md)** object are sorted in descending order. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether the contents of the 
 
 _expression_. `IsDescending`
 
-_expression_ A variable that represents an [OrderField](./Outlook.OrderField.md) object.
+_expression_ A variable that represents an [OrderField](Outlook.OrderField.md) object.
 
 
 ## Remarks

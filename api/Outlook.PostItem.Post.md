@@ -1,5 +1,5 @@
 ---
-title: PostItem.Post Method (Outlook)
+title: PostItem.Post method (Outlook)
 keywords: vbaol11.chm1554
 f1_keywords:
 - vbaol11.chm1554
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Post Method (Outlook)
+# PostItem.Post method (Outlook)
 
 Sends (posts) the  **[PostItem](Outlook.PostItem.md)** object.
 
@@ -21,7 +21,7 @@ Sends (posts) the  **[PostItem](Outlook.PostItem.md)** object.
 
 _expression_. `Post`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

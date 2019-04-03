@@ -1,5 +1,5 @@
 ---
-title: NameSpace.AddStoreEx Method (Outlook)
+title: NameSpace.AddStoreEx method (Outlook)
 keywords: vbaol11.chm777
 f1_keywords:
 - vbaol11.chm777
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.AddStoreEx Method (Outlook)
+# NameSpace.AddStoreEx method (Outlook)
 
 Adds a Personal Folders file (.pst) in the specified format to the current profile.
 
@@ -21,7 +21,7 @@ Adds a Personal Folders file (.pst) in the specified format to the current profi
 
 _expression_. `AddStoreEx`( `_Store_` , `_Type_` )
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters

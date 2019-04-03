@@ -1,5 +1,5 @@
 ---
-title: Column Object (Outlook)
+title: Column object (Outlook)
 keywords: vbaol11.chm3191
 f1_keywords:
 - vbaol11.chm3191
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column Object (Outlook)
+# Column object (Outlook)
 
 Represents a column of data in a  **[Table](Outlook.Table.md)** object.
 
@@ -39,6 +39,6 @@ To obtain the value of a property (column) for a specific item (row) in a  **Tab
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.ID Property (Outlook)
+title: ExchangeDistributionList.ID property (Outlook)
 keywords: vbaol11.chm2114
 f1_keywords:
 - vbaol11.chm2114
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.ID Property (Outlook)
+# ExchangeDistributionList.ID property (Outlook)
 
 Returns a  **String** representing the unique identifier for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique identifier for the **[ExchangeDist
 
 _expression_. `ID`
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

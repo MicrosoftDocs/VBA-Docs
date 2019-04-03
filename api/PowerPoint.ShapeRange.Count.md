@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Count Property (PowerPoint)
+title: ShapeRange.Count property (PowerPoint)
 keywords: vbapp10.chm548060
 f1_keywords:
 - vbapp10.chm548060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Count Property (PowerPoint)
+# ShapeRange.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

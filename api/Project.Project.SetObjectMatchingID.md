@@ -1,5 +1,5 @@
 ---
-title: Project.SetObjectMatchingID Method (Project)
+title: Project.SetObjectMatchingID method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.SetObjectMatchingID
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.SetObjectMatchingID Method (Project)
+# Project.SetObjectMatchingID method (Project)
 
 Sets the matching identification value of an object in the  **Organizer** dialog box, for example to change the view specified by "Gantt Chart".
 
 
 ## Syntax
 
- _expression_. `SetObjectMatchingID`( `_ObjectType_`, `_ObjectName_`, `_MatchingID_` )
+_expression_. `SetObjectMatchingID`( `_ObjectType_`, `_ObjectName_`, `_MatchingID_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

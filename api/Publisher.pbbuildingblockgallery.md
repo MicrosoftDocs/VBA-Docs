@@ -1,5 +1,5 @@
 ---
-title: PbBuildingBlockGallery Enumeration (Publisher)
+title: PbBuildingBlockGallery enumeration (Publisher)
 keywords: vbapb10.chm65661
 f1_keywords:
 - vbapb10.chm65661
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PbBuildingBlockGallery Enumeration (Publisher)
+# PbBuildingBlockGallery enumeration (Publisher)
 
 Constants that represent galleries of building blocks.
 

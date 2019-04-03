@@ -1,5 +1,5 @@
 ---
-title: PjTeamStatusCompletedWork Enumeration (Project)
+title: PjTeamStatusCompletedWork enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTeamStatusCompletedWork
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTeamStatusCompletedWork Enumeration (Project)
+# PjTeamStatusCompletedWork enumeration (Project)
 
 Contains constants that specify how completed work should be reported.
 

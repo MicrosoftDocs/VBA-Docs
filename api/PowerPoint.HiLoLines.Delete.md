@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Delete Method (PowerPoint)
+title: HiLoLines.Delete method (PowerPoint)
 keywords: vbapp10.chm706006
 f1_keywords:
 - vbapp10.chm706006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HiLoLines.Delete Method (PowerPoint)
+# HiLoLines.Delete method (PowerPoint)
 
 Deletes the object.
 

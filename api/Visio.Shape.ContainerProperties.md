@@ -1,5 +1,5 @@
 ---
-title: Shape.ContainerProperties Property (Visio)
+title: Shape.ContainerProperties property (Visio)
 keywords: vis_sdr.chm11262460
 f1_keywords:
 - vis_sdr.chm11262460
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.ContainerProperties Property (Visio)
+# Shape.ContainerProperties property (Visio)
 
 Returns the  **[ContainerProperties](Visio.ContainerProperties.md)** object associated with the shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainerProperties`
+_expression_. `ContainerProperties`
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 

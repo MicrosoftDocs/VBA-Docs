@@ -1,5 +1,5 @@
 ---
-title: Explorers Object (Outlook)
+title: Explorers object (Outlook)
 keywords: vbaol11.chm2995
 f1_keywords:
 - vbaol11.chm2995
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorers Object (Outlook)
+# Explorers object (Outlook)
 
 Contains a set of  **[Explorer](Outlook.Explorer.md)** objects representing all explorers.
 
@@ -66,6 +66,6 @@ Set myExplorers = Application.Explorers
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

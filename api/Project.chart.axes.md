@@ -1,5 +1,5 @@
 ---
-title: Chart.Axes Method (Project)
+title: Chart.Axes method (Project)
 ms.prod: project-server
 ms.assetid: 0ab295f0-de68-7b8f-50a7-55a1e378080b
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.Axes Method (Project)
+# Chart.Axes method (Project)
 Returns an object that represents either a single axis or a collection of the axes on the chart.
 
 ## Syntax
 
- _expression_. `Axes` _(Type,_ _AxisGroup)_
+_expression_. `Axes` _(Type,_ _AxisGroup)_
 
  _expression_ A variable that represents a 'Chart' object.
 

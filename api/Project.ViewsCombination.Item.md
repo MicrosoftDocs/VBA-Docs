@@ -1,5 +1,5 @@
 ---
-title: ViewsCombination.Item Property (Project)
+title: ViewsCombination.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewsCombination.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewsCombination.Item Property (Project)
+# ViewsCombination.Item property (Project)
 
 Gets a single  **View** object from the **ViewsCombination** collection. Read-only **View**.
 

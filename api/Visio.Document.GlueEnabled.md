@@ -1,5 +1,5 @@
 ---
-title: Document.GlueEnabled Property (Visio)
+title: Document.GlueEnabled property (Visio)
 keywords: vis_sdr.chm10550620
 f1_keywords:
 - vis_sdr.chm10550620
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.GlueEnabled Property (Visio)
+# Document.GlueEnabled property (Visio)
 
 Determines whether glue is enabled in the document. Read/write.
 
 
 ## Syntax
 
- _expression_. `GlueEnabled`
+_expression_. `GlueEnabled`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

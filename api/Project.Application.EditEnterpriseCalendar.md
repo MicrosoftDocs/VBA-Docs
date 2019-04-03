@@ -1,5 +1,5 @@
 ---
-title: Application.EditEnterpriseCalendar Method (Project)
+title: Application.EditEnterpriseCalendar method (Project)
 keywords: vbapj.chm2134
 f1_keywords:
 - vbapj.chm2134
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EditEnterpriseCalendar Method (Project)
+# Application.EditEnterpriseCalendar method (Project)
 
 Edits an enterprise calendar. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `EditEnterpriseCalendar`( `_UniqueID_` )
+_expression_. `EditEnterpriseCalendar`( `_UniqueID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

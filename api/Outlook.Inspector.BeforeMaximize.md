@@ -1,5 +1,5 @@
 ---
-title: Inspector.BeforeMaximize Event (Outlook)
+title: Inspector.BeforeMaximize event (Outlook)
 keywords: vbaol11.chm468
 f1_keywords:
 - vbaol11.chm468
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.BeforeMaximize Event (Outlook)
+# Inspector.BeforeMaximize event (Outlook)
 
 Occurs when an inspector is maximized by the user.
 
@@ -21,7 +21,7 @@ Occurs when an inspector is maximized by the user.
 
 _expression_. `BeforeMaximize`( `_Cancel_` )
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters

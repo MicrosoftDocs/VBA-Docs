@@ -1,5 +1,5 @@
 ---
-title: PjIMEMode Enumeration (Project)
+title: PjIMEMode enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjIMEMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjIMEMode Enumeration (Project)
+# PjIMEMode enumeration (Project)
 
 Contains constants that specify the Input Method Editor (IME) mode.
 

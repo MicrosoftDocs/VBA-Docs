@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleCritical Method (Project)
+title: Application.GanttBarStyleCritical method (Project)
 keywords: vbapj.chm80
 f1_keywords:
 - vbapj.chm80
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleCritical Method (Project)
+# Application.GanttBarStyleCritical method (Project)
 
 Shows or hides the critical tasks style on the active Gantt chart.
 
 
 ## Syntax
 
- _expression_. `GanttBarStyleCritical`( `_Show_` )
+_expression_. `GanttBarStyleCritical`( `_Show_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

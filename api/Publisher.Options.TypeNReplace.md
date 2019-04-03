@@ -1,5 +1,5 @@
 ---
-title: Options.TypeNReplace Property (Publisher)
+title: Options.TypeNReplace property (Publisher)
 keywords: vbapb10.chm1048626
 f1_keywords:
 - vbapb10.chm1048626
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.TypeNReplace Property (Publisher)
+# Options.TypeNReplace property (Publisher)
 
  **True** for Microsoft Publisher to replace unreadable Asian character clusters resulting from invalid keyboard sequences. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **TypeNReplace**
+ _expression_.**TypeNReplace**
 
  _expression_ A variable that represents a  **Options** object.
 

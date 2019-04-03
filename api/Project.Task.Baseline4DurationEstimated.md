@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline4DurationEstimated Property (Project)
+title: Task.Baseline4DurationEstimated property (Project)
 keywords: vbapj.chm131485
 f1_keywords:
 - vbapj.chm131485
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline4DurationEstimated Property (Project)
+# Task.Baseline4DurationEstimated property (Project)
 
  **True** if the baseline duration of a task is an estimate. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline4DurationEstimated`
+_expression_. `Baseline4DurationEstimated`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

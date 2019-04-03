@@ -1,5 +1,5 @@
 ---
-title: Application.QueryCancelQuit Event (Visio)
+title: Application.QueryCancelQuit event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelQuit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.QueryCancelQuit Event (Visio)
+# Application.QueryCancelQuit event (Visio)
 
 Occurs before the application terminates in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

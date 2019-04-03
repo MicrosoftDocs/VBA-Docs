@@ -1,5 +1,5 @@
 ---
-title: PjWindowState Enumeration (Project)
+title: PjWindowState enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjWindowState
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjWindowState Enumeration (Project)
+# PjWindowState enumeration (Project)
 
 Contains constants that specify the window state.
 

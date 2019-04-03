@@ -1,5 +1,5 @@
 ---
-title: Document.HeaderRight Property (Visio)
+title: Document.HeaderRight property (Visio)
 keywords: vis_sdr.chm10550655
 f1_keywords:
 - vis_sdr.chm10550655
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.HeaderRight Property (Visio)
+# Document.HeaderRight property (Visio)
 
 Gets or sets the text string that appears in the right portion of a document's header. Read/write.
 
 
 ## Syntax
 
- _expression_. `HeaderRight`
+_expression_. `HeaderRight`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: JournalItem.DocPosted Property (Outlook)
+title: JournalItem.DocPosted property (Outlook)
 keywords: vbaol11.chm1266
 f1_keywords:
 - vbaol11.chm1266
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.DocPosted Property (Outlook)
+# JournalItem.DocPosted property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the journalized item was posted as part of the journalized session. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the journalized item was pos
 
 _expression_. `DocPosted`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

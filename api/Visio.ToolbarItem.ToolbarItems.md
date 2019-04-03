@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.ToolbarItems Property (Visio)
+title: ToolbarItem.ToolbarItems property (Visio)
 keywords: vis_sdr.chm13514550
 f1_keywords:
 - vis_sdr.chm13514550
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.ToolbarItems Property (Visio)
+# ToolbarItem.ToolbarItems property (Visio)
 
 Returns the  **ToolbarItems** collection of a **ToolbarItem** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToolbarItems`
+_expression_. `ToolbarItems`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 

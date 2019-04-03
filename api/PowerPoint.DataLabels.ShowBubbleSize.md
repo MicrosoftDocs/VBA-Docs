@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowBubbleSize Property (PowerPoint)
+title: DataLabels.ShowBubbleSize property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowBubbleSize
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.ShowBubbleSize Property (PowerPoint)
+# DataLabels.ShowBubbleSize property (PowerPoint)
 
  **True** to show the bubble size for the data labels on a chart. **False** to hide the bubble size. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowBubbleSize`
+_expression_. `ShowBubbleSize`
 
 _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 

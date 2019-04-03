@@ -1,5 +1,5 @@
 ---
-title: Application.TaskMoveToStatusDate Method (Project)
+title: Application.TaskMoveToStatusDate method (Project)
 keywords: vbapj.chm2290
 f1_keywords:
 - vbapj.chm2290
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskMoveToStatusDate Method (Project)
+# Application.TaskMoveToStatusDate method (Project)
 
 Moves completed or incomplete parts of one or more selected tasks to the status date. 
 
 
 ## Syntax
 
- _expression_. `TaskMoveToStatusDate`( `_MoveCompleted_`, `_MoveIncomplete_` )
+_expression_. `TaskMoveToStatusDate`( `_MoveCompleted_`, `_MoveIncomplete_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

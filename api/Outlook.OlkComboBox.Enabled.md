@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.Enabled Property (Outlook)
+title: OlkComboBox.Enabled property (Outlook)
 keywords: vbaol11.chm1000200
 f1_keywords:
 - vbaol11.chm1000200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.Enabled Property (Outlook)
+# OlkComboBox.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that indicates if the control is allowed to funct
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

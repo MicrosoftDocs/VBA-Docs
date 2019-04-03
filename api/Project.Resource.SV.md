@@ -1,5 +1,5 @@
 ---
-title: Resource.SV Property (Project)
+title: Resource.SV property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.SV
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.SV Property (Project)
+# Resource.SV property (Project)
 
 Gets the earned value scheduled variance (SV) of the resource. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `SV`
+_expression_. `SV`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

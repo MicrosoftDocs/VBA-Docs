@@ -1,5 +1,5 @@
 ---
-title: Page.BackPage Property (Visio)
+title: Page.BackPage property (Visio)
 keywords: vis_sdr.chm10913115
 f1_keywords:
 - vis_sdr.chm10913115
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.BackPage Property (Visio)
+# Page.BackPage property (Visio)
 
 Gets or sets the background page of a page. Read/write.
 
 
 ## Syntax
 
- _expression_. `BackPage`
+_expression_. `BackPage`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

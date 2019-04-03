@@ -1,5 +1,5 @@
 ---
-title: Chart.HeightPercent Property (PowerPoint)
+title: Chart.HeightPercent property (PowerPoint)
 keywords: vbapp10.chm684034
 f1_keywords:
 - vbapp10.chm684034
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.HeightPercent Property (PowerPoint)
+# Chart.HeightPercent property (PowerPoint)
 
 Returns or sets the height of a 3-D chart as a percentage of the chart width (from 5 through 500 percent). Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `HeightPercent`
+_expression_. `HeightPercent`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

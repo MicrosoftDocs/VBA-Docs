@@ -17,7 +17,7 @@ Sorts the headings in the specified range.
 
 ## Syntax
 
- _expression_. `SortByHeadings`_(SortFieldType,_ _SortOrder,_ _CaseSensitive,_ _BidiSort,_ _IgnoreThe,_ _IgnoreKashida,_ _IgnoreDiacritics,_ _IgnoreHe,_ _LanguageID)_
+_expression_. `SortByHeadings`_(SortFieldType,_ _SortOrder,_ _CaseSensitive,_ _BidiSort,_ _IgnoreThe,_ _IgnoreKashida,_ _IgnoreDiacritics,_ _IgnoreHe,_ _LanguageID)_
 
  _expression_ A variable that represents a [Range](./Word.Range.md) object.
 

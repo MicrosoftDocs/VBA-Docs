@@ -14,7 +14,7 @@ Displays the Microsoft Outlook  **Flag for Follow Up** dialog box for the select
 
 ## Syntax
 
- _expression_. **FlagItem**
+ _expression_.**FlagItem**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

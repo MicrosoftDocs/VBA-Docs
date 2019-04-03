@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.ConversationTopic Property (Outlook)
+title: TaskRequestUpdateItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1928
 f1_keywords:
 - vbaol11.chm1928
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.ConversationTopic Property (Outlook)
+# TaskRequestUpdateItem.ConversationTopic property (Outlook)
 
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ConversationTopic`
+_expression_. `ConversationTopic`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## See also

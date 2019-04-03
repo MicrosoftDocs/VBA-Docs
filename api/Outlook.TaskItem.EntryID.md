@@ -1,5 +1,5 @@
 ---
-title: TaskItem.EntryID Property (Outlook)
+title: TaskItem.EntryID property (Outlook)
 keywords: vbaol11.chm1695
 f1_keywords:
 - vbaol11.chm1695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.EntryID Property (Outlook)
+# TaskItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

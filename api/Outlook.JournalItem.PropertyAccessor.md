@@ -1,5 +1,5 @@
 ---
-title: JournalItem.PropertyAccessor Property (Outlook)
+title: JournalItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1288
 f1_keywords:
 - vbaol11.chm1288
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.PropertyAccessor Property (Outlook)
+# JournalItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[JournalItem](Outlook.JournalItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

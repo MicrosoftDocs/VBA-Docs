@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Subscript Property (PowerPoint)
+title: ChartFont.Subscript property (PowerPoint)
 keywords: vbapp10.chm704012
 f1_keywords:
 - vbapp10.chm704012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Subscript Property (PowerPoint)
+# ChartFont.Subscript property (PowerPoint)
 
  **True** if the font is formatted as subscript. The default is **False**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Subscript`
+_expression_. `Subscript`
 
 _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 

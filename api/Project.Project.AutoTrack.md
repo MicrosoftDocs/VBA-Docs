@@ -1,5 +1,5 @@
 ---
-title: Project.AutoTrack Property (Project)
+title: Project.AutoTrack property (Project)
 keywords: vbapj.chm131409
 f1_keywords:
 - vbapj.chm131409
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.AutoTrack Property (Project)
+# Project.AutoTrack property (Project)
 
  **True** if Project automatically updates the work and costs of resources assigned to a task when the percent complete changes. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoTrack`
+_expression_. `AutoTrack`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

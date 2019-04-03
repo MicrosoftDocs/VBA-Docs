@@ -1,5 +1,5 @@
 ---
-title: Explorers.Application Property (Outlook)
+title: Explorers.Application property (Outlook)
 keywords: vbaol11.chm116
 f1_keywords:
 - vbaol11.chm116
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorers.Application Property (Outlook)
+# Explorers.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
+_expression_ A variable that represents an [Explorers](Outlook.Explorers.md) object.
 
 
 ## See also

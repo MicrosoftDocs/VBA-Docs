@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Rotation Property (Publisher)
+title: ShapeRange.Rotation property (Publisher)
 keywords: vbapb10.chm2293830
 f1_keywords:
 - vbapb10.chm2293830
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Rotation Property (Publisher)
+# ShapeRange.Rotation property (Publisher)
 
 Returns or sets a  **Single** that represents the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write.
 
 
 ## Syntax
 
- _expression_. **Rotation**
+ _expression_.**Rotation**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

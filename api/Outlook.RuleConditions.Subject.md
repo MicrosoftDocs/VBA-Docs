@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.Subject Property (Outlook)
+title: RuleConditions.Subject property (Outlook)
 keywords: vbaol11.chm2320
 f1_keywords:
 - vbaol11.chm2320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.Subject Property (Outlook)
+# RuleConditions.Subject property (Outlook)
 
 Returns a  **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)** of **olConditionSubject**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a *
 
 _expression_. `Subject`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

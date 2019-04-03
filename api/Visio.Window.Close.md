@@ -1,5 +1,5 @@
 ---
-title: Window.Close Method (Visio)
+title: Window.Close method (Visio)
 keywords: vis_sdr.chm11616125
 f1_keywords:
 - vis_sdr.chm11616125
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Close Method (Visio)
+# Window.Close method (Visio)
 
 Closes a window.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

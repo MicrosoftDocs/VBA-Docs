@@ -1,5 +1,5 @@
 ---
-title: Legend.Name Property (PowerPoint)
+title: Legend.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Legend.Name Property (PowerPoint)
+# Legend.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

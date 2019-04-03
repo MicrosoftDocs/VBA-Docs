@@ -1,5 +1,5 @@
 ---
-title: Resource.Assignments Property (Project)
+title: Resource.Assignments property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Assignments
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Assignments Property (Project)
+# Resource.Assignments property (Project)
 
 Gets an  **[Assignments](Project.Assignment.md)** collection representing the assignments for the resource. Read-only **Assignments**.
 
 
 ## Syntax
 
- _expression_. `Assignments`
+_expression_. `Assignments`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

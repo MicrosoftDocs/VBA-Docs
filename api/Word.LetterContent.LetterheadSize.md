@@ -19,7 +19,7 @@ Returns or sets the amount of space (in points) to be reserved for a preprinted 
 
 ## Syntax
 
- _expression_. `LetterheadSize`
+_expression_. `LetterheadSize`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 

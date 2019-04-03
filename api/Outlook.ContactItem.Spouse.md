@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Spouse Property (Outlook)
+title: ContactItem.Spouse property (Outlook)
 keywords: vbaol11.chm1065
 f1_keywords:
 - vbaol11.chm1065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Spouse Property (Outlook)
+# ContactItem.Spouse property (Outlook)
 
 Returns or sets a  **String** indicating the spouse/partner name entry for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the spouse/partner name entry for the c
 
 _expression_. `Spouse`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

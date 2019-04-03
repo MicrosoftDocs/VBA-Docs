@@ -1,5 +1,5 @@
 ---
-title: Filter.ShowInMenu Property (Project)
+title: Filter.ShowInMenu property (Project)
 keywords: vbapj.chm132214
 f1_keywords:
 - vbapj.chm132214
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Filter.ShowInMenu Property (Project)
+# Filter.ShowInMenu property (Project)
 
  **True** if Project shows the filter name in the **Filter** drop-down list on the **View** tab of the Ribbon. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowInMenu`
+_expression_. `ShowInMenu`
 
  _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.GetLastDataError Method (Visio)
+title: DataRecordsets.GetLastDataError method (Visio)
 keywords: vis_sdr.chm16360615
 f1_keywords:
 - vis_sdr.chm16360615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.GetLastDataError Method (Visio)
+# DataRecordsets.GetLastDataError method (Visio)
 
 Gets the Active X Data Objects (ADO) error code, ADO description, and data recordset ID associated with an error that results from adding a new data recordset or refreshing the data in an existing one.
 
@@ -22,7 +22,7 @@ Gets the Active X Data Objects (ADO) error code, ADO description, and data recor
 
 ## Syntax
 
- _expression_. `GetLastDataError`( `_DataErrorCode_` , `_DataErrorDescription_` , `_RecordsetID_` )
+_expression_. `GetLastDataError`( `_DataErrorCode_` , `_DataErrorDescription_` , `_RecordsetID_` )
 
  _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.WindowChanged Event (Visio)
+title: Window.WindowChanged event (Visio)
 keywords: vis_sdr.chm11619275
 f1_keywords:
 - vis_sdr.chm11619275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.WindowChanged Event (Visio)
+# Window.WindowChanged event (Visio)
 
 Occurs when the size or position of a window changes.
 

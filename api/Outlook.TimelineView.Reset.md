@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Reset Method (Outlook)
+title: TimelineView.Reset method (Outlook)
 keywords: vbaol11.chm2649
 f1_keywords:
 - vbaol11.chm2649
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Reset Method (Outlook)
+# TimelineView.Reset method (Outlook)
 
 Resets a built-in Microsoft Outlook view to its original settings.
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks

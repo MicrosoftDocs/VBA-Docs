@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MailingAddressCountry Property (Outlook)
+title: ContactItem.MailingAddressCountry property (Outlook)
 keywords: vbaol11.chm1036
 f1_keywords:
 - vbaol11.chm1036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MailingAddressCountry Property (Outlook)
+# ContactItem.MailingAddressCountry property (Outlook)
 
 Returns or sets a  **String** representing the country/region code portion of the selected mailing address of the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the country/region code portion of th
 
 _expression_. `MailingAddressCountry`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

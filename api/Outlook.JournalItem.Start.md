@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Start Property (Outlook)
+title: JournalItem.Start property (Outlook)
 keywords: vbaol11.chm1274
 f1_keywords:
 - vbaol11.chm1274
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Start Property (Outlook)
+# JournalItem.Start property (Outlook)
 
 Returns or sets a  **Date** indicating the starting date and time for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the starting date and time for the Outloo
 
 _expression_. `Start`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

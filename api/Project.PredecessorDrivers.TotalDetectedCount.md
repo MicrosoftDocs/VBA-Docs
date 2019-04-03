@@ -1,5 +1,5 @@
 ---
-title: PredecessorDrivers.TotalDetectedCount Property (Project)
+title: PredecessorDrivers.TotalDetectedCount property (Project)
 ms.prod: project-server
 api_name:
 - Project.PredecessorDrivers.TotalDetectedCount
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# PredecessorDrivers.TotalDetectedCount Property (Project)
+# PredecessorDrivers.TotalDetectedCount property (Project)
 
 Gets the total number of predecessor tasks that affect the start date of a task. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `TotalDetectedCount`
+_expression_. `TotalDetectedCount`
 
  _expression_ A variable that represents a 'PredecessorDrivers' object.
 

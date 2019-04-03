@@ -1,5 +1,5 @@
 ---
-title: TextRange.Select Method (PowerPoint)
+title: TextRange.Select method (PowerPoint)
 keywords: vbapp10.chm569026
 f1_keywords:
 - vbapp10.chm569026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Select Method (PowerPoint)
+# TextRange.Select method (PowerPoint)
 
 Selects the specified object.
 

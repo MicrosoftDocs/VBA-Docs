@@ -1,5 +1,5 @@
 ---
-title: Window.DockedStencils Method (Visio)
+title: Window.DockedStencils method (Visio)
 keywords: vis_sdr.chm11616185
 f1_keywords:
 - vis_sdr.chm11616185
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.DockedStencils Method (Visio)
+# Window.DockedStencils method (Visio)
 
 Returns the names of all stencils docked in a Microsoft Visio drawing window.
 
 
 ## Syntax
 
- _expression_. `DockedStencils`( `_NameArray()_` )
+_expression_. `DockedStencils`( `_NameArray()_` )
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

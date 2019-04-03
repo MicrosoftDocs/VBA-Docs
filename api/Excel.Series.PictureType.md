@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Series.PictureType property (Excel)
 
-Returns or sets a  **[xlChartPictureType](Excel.XlChartPictureType.md)** value that represents the way pictures are displayed on a column or bar picture chart.
+Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value that represents the way pictures are displayed on a column or bar picture chart.
 
 
 ## Syntax
 
 _expression_. `PictureType`
 
-_expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Example

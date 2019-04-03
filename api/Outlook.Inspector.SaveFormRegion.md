@@ -1,5 +1,5 @@
 ---
-title: Inspector.SaveFormRegion Method (Outlook)
+title: Inspector.SaveFormRegion method (Outlook)
 keywords: vbaol11.chm2983
 f1_keywords:
 - vbaol11.chm2983
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.SaveFormRegion Method (Outlook)
+# Inspector.SaveFormRegion method (Outlook)
 
 Saves the specified page in design mode in the inspector to the specified file.
 
@@ -21,7 +21,7 @@ Saves the specified page in design mode in the inspector to the specified file.
 
 _expression_. `SaveFormRegion`( `_Page_` , `_FileName_` )
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters

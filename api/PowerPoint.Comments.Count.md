@@ -1,5 +1,5 @@
 ---
-title: Comments.Count Property (PowerPoint)
+title: Comments.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Comments.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Comments.Count Property (PowerPoint)
+# Comments.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

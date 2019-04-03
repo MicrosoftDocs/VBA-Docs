@@ -1,5 +1,5 @@
 ---
-title: Master.DrawNURBS Method (Visio)
+title: Master.DrawNURBS method (Visio)
 keywords: vis_sdr.chm10716205
 f1_keywords:
 - vis_sdr.chm10716205
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawNURBS Method (Visio)
+# Master.DrawNURBS method (Visio)
 
 Creates a new shape whose path consists of a single NURBS (nonuniform rational B-spline) segment.
 
 
 ## Syntax
 
- _expression_. `DrawNURBS`( `_degree_` , `_Flags_` , `_xyArray()_` , `_knots()_` , `_weights_` )
+_expression_. `DrawNURBS`( `_degree_` , `_Flags_` , `_xyArray()_` , `_knots()_` , `_weights_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

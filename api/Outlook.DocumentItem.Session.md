@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Session Property (Outlook)
+title: DocumentItem.Session property (Outlook)
 keywords: vbaol11.chm1181
 f1_keywords:
 - vbaol11.chm1181
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Session Property (Outlook)
+# DocumentItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

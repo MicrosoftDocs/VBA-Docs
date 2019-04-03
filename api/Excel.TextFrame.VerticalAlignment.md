@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TextFrame.VerticalAlignment property (Excel)
 
-Returns or sets a  **[xlVAlign](Excel.XlVAlign.md)** value that represents the vertical alignment of the specified object.
+Returns or sets a  **[XlVAlign](Excel.XlVAlign.md)** value that represents the vertical alignment of the specified object.
 
 
 ## Syntax
 
 _expression_. `VerticalAlignment`
 
-_expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.DrawingPageColor Property (Visio)
+title: ApplicationSettings.DrawingPageColor property (Visio)
 keywords: vis_sdr.chm16251800
 f1_keywords:
 - vis_sdr.chm16251800
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.DrawingPageColor Property (Visio)
+# ApplicationSettings.DrawingPageColor property (Visio)
 
 Determines the page color of the Microsoft Visio drawing window for the current session. Read/write. 
 
 
 ## Syntax
 
- _expression_. `DrawingPageColor`
+_expression_. `DrawingPageColor`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

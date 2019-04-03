@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Application Property (Outlook)
+title: RemoteItem.Application property (Outlook)
 keywords: vbaol11.chm1582
 f1_keywords:
 - vbaol11.chm1582
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Application Property (Outlook)
+# RemoteItem.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## See also

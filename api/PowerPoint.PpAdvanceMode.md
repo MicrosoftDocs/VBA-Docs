@@ -1,5 +1,5 @@
 ---
-title: PpAdvanceMode Enumeration (PowerPoint)
+title: PpAdvanceMode enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpAdvanceMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpAdvanceMode Enumeration (PowerPoint)
+# PpAdvanceMode enumeration (PowerPoint)
 
 Specifies how the specified animation advances.
 

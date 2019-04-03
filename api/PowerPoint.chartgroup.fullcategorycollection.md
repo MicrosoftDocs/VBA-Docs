@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.FullCategoryCollection Method (PowerPoint)
+title: ChartGroup.FullCategoryCollection method (PowerPoint)
 keywords: vbapp10.chm692019
 f1_keywords:
 - vbapp10.chm692019
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.FullCategoryCollection Method (PowerPoint)
+# ChartGroup.FullCategoryCollection method (PowerPoint)
 
 Returns all the categories in the chart group, or the specified category, whether visible or filtered out.
 
 
 ## Syntax
 
- _expression_. `FullCategoryCollection`_(Index)_
+_expression_. `FullCategoryCollection`_(Index)_
 
 _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.CreationTime Property (Outlook)
+title: TaskRequestUpdateItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1929
 f1_keywords:
 - vbaol11.chm1929
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.CreationTime Property (Outlook)
+# TaskRequestUpdateItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 
 
 ## Syntax
 
- _expression_. `CreationTime`
+_expression_. `CreationTime`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

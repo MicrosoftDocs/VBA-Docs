@@ -1,5 +1,5 @@
 ---
-title: Application.WindowState Property (Project)
+title: Application.WindowState property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowState
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowState Property (Project)
+# Application.WindowState property (Project)
 
 Gets or sets the state of the Project application window, where the state is maximized, minimized, or normal. Read/write  **PjWindowState**.
 
 
 ## Syntax
 
- _expression_. `WindowState`
+_expression_. `WindowState`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

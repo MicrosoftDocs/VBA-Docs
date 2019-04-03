@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.DisplayDropArrow Property (Outlook)
+title: OlkCommandButton.DisplayDropArrow property (Outlook)
 keywords: vbaol11.chm1000501
 f1_keywords:
 - vbaol11.chm1000501
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.DisplayDropArrow Property (Outlook)
+# OlkCommandButton.DisplayDropArrow property (Outlook)
 
 Returns or sets a  **Boolean** that enables the rendering of a downward-pointing arrow on the button. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that enables the rendering of a downward-pointing
 
 _expression_. `DisplayDropArrow`
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.NoAging Property (Outlook)
+title: ContactItem.NoAging property (Outlook)
 keywords: vbaol11.chm947
 f1_keywords:
 - vbaol11.chm947
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.NoAging Property (Outlook)
+# ContactItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 
 _expression_. `NoAging`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

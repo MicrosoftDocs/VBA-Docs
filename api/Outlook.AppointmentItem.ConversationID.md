@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ConversationID Property (Outlook)
+title: AppointmentItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3469
 f1_keywords:
 - vbaol11.chm3469
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ConversationID Property (Outlook)
+# AppointmentItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[AppointmentItem](Outlook.AppointmentItem.md)** object belongs to. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conver
 
 _expression_. `ConversationID`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

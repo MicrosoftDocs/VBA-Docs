@@ -1,5 +1,5 @@
 ---
-title: ScaleEffect.Parent Property (PowerPoint)
+title: ScaleEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm660002
 f1_keywords:
 - vbapp10.chm660002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ScaleEffect.Parent Property (PowerPoint)
+# ScaleEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

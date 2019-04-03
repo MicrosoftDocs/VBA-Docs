@@ -1,5 +1,5 @@
 ---
-title: Application.NewMail Event (Outlook)
+title: Application.NewMail event (Outlook)
 keywords: vbaol11.chm430
 f1_keywords:
 - vbaol11.chm430
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.NewMail Event (Outlook)
+# Application.NewMail event (Outlook)
 
 Occurs when one or more new email messages are received in the  **Inbox**. 
 

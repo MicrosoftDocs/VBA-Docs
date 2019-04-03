@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.AutoResolvedWinner Property (Outlook)
+title: MeetingItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1467
 f1_keywords:
 - vbaol11.chm1467
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.AutoResolvedWinner Property (Outlook)
+# MeetingItem.AutoResolvedWinner property (Outlook)
 
 Returns a  **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that determines if the item is a winner of an automatic c
 
 _expression_. `AutoResolvedWinner`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

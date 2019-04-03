@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.ItemProperties Property (Outlook)
+title: RemoteItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1627
 f1_keywords:
 - vbaol11.chm1627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.ItemProperties Property (Outlook)
+# RemoteItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 _expression_. `ItemProperties`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks

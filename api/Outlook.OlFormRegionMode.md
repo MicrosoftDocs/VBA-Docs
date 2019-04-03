@@ -1,5 +1,5 @@
 ---
-title: OlFormRegionMode Enumeration (Outlook)
+title: OlFormRegionMode enumeration (Outlook)
 keywords: vbaol11.chm3103
 f1_keywords:
 - vbaol11.chm3103
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormRegionMode Enumeration (Outlook)
+# OlFormRegionMode enumeration (Outlook)
 
 Identifies the mode that the form region is being loaded into, which corresponds with the container displaying the form region.
 

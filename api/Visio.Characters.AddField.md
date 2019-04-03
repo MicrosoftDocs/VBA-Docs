@@ -1,5 +1,5 @@
 ---
-title: Characters.AddField Method (Visio)
+title: Characters.AddField method (Visio)
 keywords: vis_sdr.chm10216030
 f1_keywords:
 - vis_sdr.chm10216030
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.AddField Method (Visio)
+# Characters.AddField method (Visio)
 
 Replaces the text represented by a  **Characters** object with a new field of the category, code, and format you specify.
 
 
 ## Syntax
 
- _expression_. `AddField`( `_Category_` , `_Code_` , `_Format_` )
+_expression_. `AddField`( `_Category_` , `_Code_` , `_Format_` )
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelBottomDepth Property (Publisher)
+title: ThreeDFormat.BevelBottomDepth property (Publisher)
 keywords: vbapb10.chm3801369
 f1_keywords:
 - vbapb10.chm3801369
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.BevelBottomDepth Property (Publisher)
+# ThreeDFormat.BevelBottomDepth property (Publisher)
 
 Returns or sets a  **Single** that represents the depth of the bottom bevel. Read/write.
 
 
 ## Syntax
 
- _expression_. **BevelBottomDepth**
+ _expression_.**BevelBottomDepth**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

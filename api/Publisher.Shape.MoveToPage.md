@@ -1,5 +1,5 @@
 ---
-title: Shape.MoveToPage Method (Publisher)
+title: Shape.MoveToPage method (Publisher)
 keywords: vbapb10.chm2228376
 f1_keywords:
 - vbapb10.chm2228376
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.MoveToPage Method (Publisher)
+# Shape.MoveToPage method (Publisher)
 
 Moves a shape to the specified page.
 
 
 ## Syntax
 
- _expression_. **MoveToPage**(**_Page_**,  **_Left_**,  **_Top_**)
+ _expression_.**MoveToPage**(**_Page_**,  **_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

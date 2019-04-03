@@ -1,5 +1,5 @@
 ---
-title: PictureFormat Object (Publisher)
+title: PictureFormat object (Publisher)
 keywords: vbapb10.chm3670015
 f1_keywords:
 - vbapb10.chm3670015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat Object (Publisher)
+# PictureFormat object (Publisher)
 
 Contains properties and methods that apply to pictures.
 

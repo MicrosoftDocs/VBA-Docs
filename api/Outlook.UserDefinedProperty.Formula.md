@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty.Formula Property (Outlook)
+title: UserDefinedProperty.Formula property (Outlook)
 keywords: vbaol11.chm5
 f1_keywords:
 - vbaol11.chm5
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty.Formula Property (Outlook)
+# UserDefinedProperty.Formula property (Outlook)
 
 Returns a  **String** value that represents the formula for the **UserDefinedProperty** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_. `Formula`
 
-_expression_ A variable that represents a [UserDefinedProperty](./Outlook.UserDefinedProperty.md) object.
+_expression_ A variable that represents a [UserDefinedProperty](Outlook.UserDefinedProperty.md) object.
 
 
 ## See also

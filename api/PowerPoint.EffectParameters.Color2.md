@@ -1,5 +1,5 @@
 ---
-title: EffectParameters.Color2 Property (PowerPoint)
+title: EffectParameters.Color2 property (PowerPoint)
 keywords: vbapp10.chm654006
 f1_keywords:
 - vbapp10.chm654006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EffectParameters.Color2 Property (PowerPoint)
+# EffectParameters.Color2 property (PowerPoint)
 
 Returns a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color on which to end a color-cycle animation.
 
 
 ## Syntax
 
- _expression_. `Color2`
+_expression_. `Color2`
 
 _expression_ A variable that represents an [EffectParameters](./PowerPoint.EffectParameters.md) object.
 

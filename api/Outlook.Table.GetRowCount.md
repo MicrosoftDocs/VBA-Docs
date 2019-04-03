@@ -1,5 +1,5 @@
 ---
-title: Table.GetRowCount Method (Outlook)
+title: Table.GetRowCount method (Outlook)
 keywords: vbaol11.chm2232
 f1_keywords:
 - vbaol11.chm2232
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.GetRowCount Method (Outlook)
+# Table.GetRowCount method (Outlook)
 
 Obtains the number of rows in the  **[Table](Outlook.Table.md)**.
 
@@ -21,7 +21,7 @@ Obtains the number of rows in the  **[Table](Outlook.Table.md)**.
 
 _expression_. `GetRowCount`
 
-_expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.TopMargin Property (Publisher)
+title: PageSetup.TopMargin property (Publisher)
 keywords: vbapb10.chm6946837
 f1_keywords:
 - vbapb10.chm6946837
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.TopMargin Property (Publisher)
+# PageSetup.TopMargin property (Publisher)
 
 Returns a  **Variant** that represents the distance between the top edge of the printer sheet and the top edge of the publication pages. Read-only.
 
 
 ## Syntax
 
- _expression_. **TopMargin**
+ _expression_.**TopMargin**
 
  _expression_ A variable that represents a  **PageSetup** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Shadow Property (Publisher)
+title: Shape.Shadow property (Publisher)
 keywords: vbapb10.chm2228296
 f1_keywords:
 - vbapb10.chm2228296
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Shadow Property (Publisher)
+# Shape.Shadow property (Publisher)
 
 Returns a  **[ShadowFormat](Publisher.ShadowFormat.md)** object that represents the shadow formatting for the specified shape.
 
 
 ## Syntax
 
- _expression_. **Shadow**
+ _expression_.**Shadow**
 
  _expression_ A variable that represents a  **Shape** object.
 

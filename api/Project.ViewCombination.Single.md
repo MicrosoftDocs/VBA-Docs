@@ -1,5 +1,5 @@
 ---
-title: ViewCombination.Single Property (Project)
+title: ViewCombination.Single property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewCombination.Single
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ViewCombination.Single Property (Project)
+# ViewCombination.Single property (Project)
 
  **True** if the view is a single view. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Single`
+_expression_. `Single`
 
  _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 

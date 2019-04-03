@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ZOrderPosition Property (Publisher)
+title: ShapeRange.ZOrderPosition property (Publisher)
 keywords: vbapb10.chm2293848
 f1_keywords:
 - vbapb10.chm2293848
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ZOrderPosition Property (Publisher)
+# ShapeRange.ZOrderPosition property (Publisher)
 
 Returns a  **Long** indicating the position of the specified shape or shape range in the z-order. Read-only.
 
 
 ## Syntax
 
- _expression_. **ZOrderPosition**
+ _expression_.**ZOrderPosition**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Comment.ProviderID Property (PowerPoint)
+title: Comment.ProviderID property (PowerPoint)
 keywords: vbapp10.chm642011
 f1_keywords:
 - vbapp10.chm642011
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Comment.ProviderID Property (PowerPoint)
+# Comment.ProviderID property (PowerPoint)
 
 Returns a  **String** that represents ID of the service providing contact information. Read-only.
 
 
 ## Syntax
 
- _expression_. `ProviderID`
+_expression_. `ProviderID`
 
 _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 

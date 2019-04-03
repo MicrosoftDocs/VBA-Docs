@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Reflow Method (Outlook)
+title: FormRegion.Reflow method (Outlook)
 keywords: vbaol11.chm2398
 f1_keywords:
 - vbaol11.chm2398
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Reflow Method (Outlook)
+# FormRegion.Reflow method (Outlook)
 
 Causes Outlook to recalculate the height of an adjoining form region to display all the visible controls in the form region.
 
@@ -21,7 +21,7 @@ Causes Outlook to recalculate the height of an adjoining form region to display 
 
 _expression_. `Reflow`
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks

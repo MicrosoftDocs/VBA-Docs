@@ -1,5 +1,5 @@
 ---
-title: SharingItem.PropertyAccessor Property (Outlook)
+title: SharingItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm693
 f1_keywords:
 - vbaol11.chm693
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.PropertyAccessor Property (Outlook)
+# SharingItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

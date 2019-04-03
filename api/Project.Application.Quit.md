@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Method (Project)
+title: Application.Quit method (Project)
 keywords: vbapj.chm131252
 f1_keywords:
 - vbapj.chm131252
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Quit Method (Project)
+# Application.Quit method (Project)
 
 Exits Microsoft Project.
 
 
 ## Syntax
 
- _expression_. `Quit`( `_SaveChanges_` )
+_expression_. `Quit`( `_SaveChanges_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

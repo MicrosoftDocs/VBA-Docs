@@ -1,5 +1,5 @@
 ---
-title: Explorer.Display Method (Outlook)
+title: Explorer.Display method (Outlook)
 keywords: vbaol11.chm2764
 f1_keywords:
 - vbaol11.chm2764
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Display Method (Outlook)
+# Explorer.Display method (Outlook)
 
 Displays a new  **[Explorer](Outlook.Explorer.md)** object for the folder.
 
@@ -21,7 +21,7 @@ Displays a new  **[Explorer](Outlook.Explorer.md)** object for the folder.
 
 _expression_. `Display`()
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Presentation.Research Property (PowerPoint)
+title: Presentation.Research property (PowerPoint)
 keywords: vbapp10.chm583107
 f1_keywords:
 - vbapp10.chm583107
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Research Property (PowerPoint)
+# Presentation.Research property (PowerPoint)
 
 Returns a  **Research** object that provides access to the research service feature of Microsoft PowerPoint. Read-only.
 
 
 ## Syntax
 
- _expression_. `Research`
+_expression_. `Research`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

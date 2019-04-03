@@ -1,5 +1,5 @@
 ---
-title: RelatedShapePairEvent.ToShapeID Property (Visio)
+title: RelatedShapePairEvent.ToShapeID property (Visio)
 keywords: vis_sdr.chm17762585
 f1_keywords:
 - vis_sdr.chm17762585
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# RelatedShapePairEvent.ToShapeID Property (Visio)
+# RelatedShapePairEvent.ToShapeID property (Visio)
 
 Returns the identifier of the second (member) shape in the related shape pair. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToShapeID`
+_expression_. `ToShapeID`
 
  _expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
 

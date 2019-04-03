@@ -1,5 +1,5 @@
 ---
-title: ResourceGroups.Count Property (Project)
+title: ResourceGroups.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.ResourceGroups.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ResourceGroups.Count Property (Project)
+# ResourceGroups.Count property (Project)
 
 Gets the number of items in the  **ResourceGroups** collection. Read-only **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: MSGWrap Object (Visio)
+title: MSGWrap object (Visio)
 keywords: vis_sdr.chm50735
 f1_keywords:
 - vis_sdr.chm50735
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap Object (Visio)
+# MSGWrap object (Visio)
 
 Passed as an argument with the  **OnKeystrokeMessageForAddon** event. The **MSGWrap** object wraps the data contained in a message passed from Microsoft Windows to Microsoft Visio.
 

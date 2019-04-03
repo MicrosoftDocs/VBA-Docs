@@ -1,5 +1,5 @@
 ---
-title: Project.ManuallyScheduledTasksAutoRespectLinks Property (Project)
+title: Project.ManuallyScheduledTasksAutoRespectLinks property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ManuallyScheduledTasksAutoRespectLinks
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ManuallyScheduledTasksAutoRespectLinks Property (Project)
+# Project.ManuallyScheduledTasksAutoRespectLinks property (Project)
 
  **True** if predecessor and successor task links are maintained when a task is converted from automatic to manual; otherwise, **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ManuallyScheduledTasksAutoRespectLinks`
+_expression_. `ManuallyScheduledTasksAutoRespectLinks`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

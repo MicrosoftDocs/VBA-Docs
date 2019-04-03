@@ -1,5 +1,5 @@
 ---
-title: Recipients.Add Method (Outlook)
+title: Recipients.Add method (Outlook)
 keywords: vbaol11.chm232
 f1_keywords:
 - vbaol11.chm232
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Recipients.Add Method (Outlook)
+# Recipients.Add method (Outlook)
 
 Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collection.
 
 
 ## Syntax
 
-_expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
-_expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
+_expression_ A variable that represents a [Recipients](Outlook.Recipients.md) object.
 
 
 ## Parameters

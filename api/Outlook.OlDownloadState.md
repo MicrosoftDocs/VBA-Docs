@@ -1,5 +1,5 @@
 ---
-title: OlDownloadState Enumeration (Outlook)
+title: OlDownloadState enumeration (Outlook)
 keywords: vbaol11.chm3093
 f1_keywords:
 - vbaol11.chm3093
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlDownloadState Enumeration (Outlook)
+# OlDownloadState enumeration (Outlook)
 
 Indicates the download state.
 

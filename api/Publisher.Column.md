@@ -1,5 +1,5 @@
 ---
-title: Column Object (Publisher)
+title: Column object (Publisher)
 keywords: vbapb10.chm5046271
 f1_keywords:
 - vbapb10.chm5046271
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column Object (Publisher)
+# Column object (Publisher)
 
 Represents a single table column. The  **Column** object is a member of the **[Columns](Publisher.Columns.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
  

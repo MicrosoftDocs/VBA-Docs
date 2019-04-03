@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataField.Name Property (Publisher)
+title: MailMergeMappedDataField.Name property (Publisher)
 keywords: vbapb10.chm6553605
 f1_keywords:
 - vbapb10.chm6553605
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataField.Name Property (Publisher)
+# MailMergeMappedDataField.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_.**Name**
 
  _expression_ A variable that represents a  **MailMergeMappedDataField** object.
 

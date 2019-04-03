@@ -1,5 +1,5 @@
 ---
-title: RulerLevel.LeftMargin Property (PowerPoint)
+title: RulerLevel.LeftMargin property (PowerPoint)
 keywords: vbapp10.chm572004
 f1_keywords:
 - vbapp10.chm572004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RulerLevel.LeftMargin Property (PowerPoint)
+# RulerLevel.LeftMargin property (PowerPoint)
 
 Returns or sets the left indent for the specified outline level, in points. Read/write.
 

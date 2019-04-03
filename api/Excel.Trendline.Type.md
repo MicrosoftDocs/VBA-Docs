@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Trendline.Type property (Excel)
 
-Returns or sets a  **[xlTrendlineType](Excel.XlTrendlineType.md)** value that represents the trendline type.
+Returns or sets a  **[XlTrendlineType](Excel.XlTrendlineType.md)** value that represents the trendline type.
 
 
 ## Syntax
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
+_expression_ A variable that represents a [Trendline](Excel.Trendline-graph-object.md) object.
 
 
 ## Example

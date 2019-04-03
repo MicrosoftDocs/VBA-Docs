@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.Type Property (Publisher)
+title: ConnectorFormat.Type property (Publisher)
 keywords: vbapb10.chm3211526
 f1_keywords:
 - vbapb10.chm3211526
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.Type Property (Publisher)
+# ConnectorFormat.Type property (Publisher)
 
 Returns or sets an  **MsoConnectorType** constant that represents the connector type. Read/write.
 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultAutoFilter Property (Project)
+title: Application.DefaultAutoFilter property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DefaultAutoFilter
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DefaultAutoFilter Property (Project)
+# Application.DefaultAutoFilter property (Project)
 
  **True** if the AutoFilter feature is active for new projects by default. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DefaultAutoFilter`
+_expression_. `DefaultAutoFilter`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

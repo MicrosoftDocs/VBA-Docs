@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.OutlookVersion Property (Outlook)
+title: MeetingItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1421
 f1_keywords:
 - vbaol11.chm1421
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.OutlookVersion Property (Outlook)
+# MeetingItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 
 _expression_. `OutlookVersion`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Assignment.UniqueID Property (Project)
+title: Assignment.UniqueID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.UniqueID
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.UniqueID Property (Project)
+# Assignment.UniqueID property (Project)
 
 Gets the unique identification number of the assignment. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `UniqueID`
+_expression_. `UniqueID`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

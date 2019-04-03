@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Delete Method (Publisher)
+title: ShapeNodes.Delete method (Publisher)
 keywords: vbapb10.chm3473425
 f1_keywords:
 - vbapb10.chm3473425
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.Delete Method (Publisher)
+# ShapeNodes.Delete method (Publisher)
 
 Deletes the specified shape node object.
 
 
 ## Syntax
 
- _expression_. **Delete**(**_Index_**)
+ _expression_.**Delete**(**_Index_**)
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 

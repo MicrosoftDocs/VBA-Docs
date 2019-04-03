@@ -1,5 +1,5 @@
 ---
-title: Shape.UngroupCanceled Event (Visio)
+title: Shape.UngroupCanceled event (Visio)
 keywords: vis_sdr.chm11219375
 f1_keywords:
 - vis_sdr.chm11219375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.UngroupCanceled Event (Visio)
+# Shape.UngroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelUngroup** event.
 

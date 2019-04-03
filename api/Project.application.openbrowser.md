@@ -1,5 +1,5 @@
 ---
-title: Application.OpenBrowser Method (Project)
+title: Application.OpenBrowser method (Project)
 keywords: vbapj.chm144
 f1_keywords:
 - vbapj.chm144
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.OpenBrowser Method (Project)
+# Application.OpenBrowser method (Project)
 Opens the default web browser to a specified URL or the Windows Explorer to a specified directory or project file.
 
 ## Syntax
 
- _expression_. `OpenBrowser` _(URL)_
+_expression_. `OpenBrowser` _(URL)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -16,9 +16,9 @@ Specifies a cascading stylesheet (CSS) provided by Microsoft Visio, or one that 
 
 ## Syntax
 
- _expression_. **Stylesheet**
+ _expression_.**Stylesheet**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value

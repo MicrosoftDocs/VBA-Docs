@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.Contents Property (Outlook)
+title: OutlookBarPane.Contents property (Outlook)
 keywords: vbaol11.chm363
 f1_keywords:
 - vbaol11.chm363
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarPane.Contents Property (Outlook)
+# OutlookBarPane.Contents property (Outlook)
 
 Returns the  **[OutlookBarStorage](Outlook.OutlookBarStorage.md)** object for the specified Outlook Bar pane. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[OutlookBarStorage](Outlook.OutlookBarStorage.md)** object for th
 
 _expression_. `Contents`
 
-_expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
+_expression_ A variable that represents an [OutlookBarPane](Outlook.OutlookBarPane.md) object.
 
 
 ## Example

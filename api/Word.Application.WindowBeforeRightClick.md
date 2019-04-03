@@ -1,5 +1,5 @@
 ---
-title: Application.WindowBeforeRightClick Event (Word)
+title: Application.WindowBeforeRightClick event (Word)
 keywords: vbawd10.chm4000012
 f1_keywords:
 - vbawd10.chm4000012
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowBeforeRightClick Event (Word)
+# Application.WindowBeforeRightClick event (Word)
 
 Occurs when the editing area of a document window is right-clicked, before the default right-click action.
 

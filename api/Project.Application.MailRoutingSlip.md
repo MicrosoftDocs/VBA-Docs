@@ -1,5 +1,5 @@
 ---
-title: Application.MailRoutingSlip Method (Project)
+title: Application.MailRoutingSlip method (Project)
 keywords: vbapj.chm125
 f1_keywords:
 - vbapj.chm125
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MailRoutingSlip Method (Project)
+# Application.MailRoutingSlip method (Project)
 
 Adds a mail routing slip for the active project.
 
 
 ## Syntax
 
- _expression_. `MailRoutingSlip`( `_To_`, `_Subject_`, `_Body_`, `_AllAtOnce_`, `_ReturnWhenDone_`, `_TrackStatus_`, `_Clear_`, `_SendNow_` )
+_expression_. `MailRoutingSlip`( `_To_`, `_Subject_`, `_Body_`, `_AllAtOnce_`, `_ReturnWhenDone_`, `_TrackStatus_`, `_Clear_`, `_SendNow_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

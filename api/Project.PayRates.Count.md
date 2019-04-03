@@ -1,5 +1,5 @@
 ---
-title: PayRates.Count Property (Project)
+title: PayRates.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRates.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PayRates.Count Property (Project)
+# PayRates.Count property (Project)
 
 Gets the number of items in the  **PayRates** collection. Read-only **Long**.
 

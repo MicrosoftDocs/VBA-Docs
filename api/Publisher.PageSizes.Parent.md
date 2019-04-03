@@ -1,5 +1,5 @@
 ---
-title: PageSizes.Parent Property (Publisher)
+title: PageSizes.Parent property (Publisher)
 keywords: vbapb10.chm8781827
 f1_keywords:
 - vbapb10.chm8781827
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSizes.Parent Property (Publisher)
+# PageSizes.Parent property (Publisher)
 
 Returns the parent of the  **[PageSizes](Publisher.PageSizes.md)** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents a  **PageSizes** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Level Method (Project)
+title: Resource.Level method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Level
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Level Method (Project)
+# Resource.Level method (Project)
 
 Levels the resource.
 
 
 ## Syntax
 
- _expression_. `Level`
+_expression_. `Level`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

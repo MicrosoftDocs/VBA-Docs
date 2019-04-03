@@ -1,5 +1,5 @@
 ---
-title: Shape.Delete Method (Project)
+title: Shape.Delete method (Project)
 ms.prod: project-server
 ms.assetid: b8e01778-85d4-a8bc-5ebe-1489bb79ce7b
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Delete Method (Project)
+# Shape.Delete method (Project)
 Deletes the shape.
 
 ## Syntax

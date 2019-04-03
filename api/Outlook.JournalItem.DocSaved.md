@@ -1,5 +1,5 @@
 ---
-title: JournalItem.DocSaved Property (Outlook)
+title: JournalItem.DocSaved property (Outlook)
 keywords: vbaol11.chm1269
 f1_keywords:
 - vbaol11.chm1269
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.DocSaved Property (Outlook)
+# JournalItem.DocSaved property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the journalized item was saved as part of the journalized session. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the journalized item was sav
 
 _expression_. `DocSaved`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

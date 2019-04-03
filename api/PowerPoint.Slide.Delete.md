@@ -1,5 +1,5 @@
 ---
-title: Slide.Delete Method (PowerPoint)
+title: Slide.Delete method (PowerPoint)
 keywords: vbapp10.chm531016
 f1_keywords:
 - vbapp10.chm531016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.Delete Method (PowerPoint)
+# Slide.Delete method (PowerPoint)
 
 Deletes the specified  **Slide** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Categories Property (Outlook)
+title: ContactItem.Categories property (Outlook)
 keywords: vbaol11.chm934
 f1_keywords:
 - vbaol11.chm934
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Categories Property (Outlook)
+# ContactItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 
 _expression_. `Categories`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

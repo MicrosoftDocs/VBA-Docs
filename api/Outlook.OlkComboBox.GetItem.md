@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.GetItem Method (Outlook)
+title: OlkComboBox.GetItem method (Outlook)
 keywords: vbaol11.chm1000224
 f1_keywords:
 - vbaol11.chm1000224
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.GetItem Method (Outlook)
+# OlkComboBox.GetItem method (Outlook)
 
 Obtains a  **String** that represents an item at the specified location in the list of the combo box control.
 
 
 ## Syntax
 
-_expression_. `GetItem`( `_Index_` )
+_expression_. `GetItem` (_Index_)
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Parameters

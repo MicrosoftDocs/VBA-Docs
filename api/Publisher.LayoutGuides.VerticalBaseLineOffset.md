@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.VerticalBaseLineOffset Property (Publisher)
+title: LayoutGuides.VerticalBaseLineOffset property (Publisher)
 keywords: vbapb10.chm1114133
 f1_keywords:
 - vbapb10.chm1114133
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LayoutGuides.VerticalBaseLineOffset Property (Publisher)
+# LayoutGuides.VerticalBaseLineOffset property (Publisher)
 
 Returns a  **Single** that represents the vertical baseline offset of the specified **LayoutGuides** object. Read/write.
 
 
 ## Syntax
 
- _expression_. **VerticalBaseLineOffset**
+ _expression_.**VerticalBaseLineOffset**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

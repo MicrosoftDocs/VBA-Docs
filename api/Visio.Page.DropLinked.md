@@ -1,5 +1,5 @@
 ---
-title: Page.DropLinked Method (Visio)
+title: Page.DropLinked method (Visio)
 keywords: vis_sdr.chm10960170
 f1_keywords:
 - vis_sdr.chm10960170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.DropLinked Method (Visio)
+# Page.DropLinked method (Visio)
 
 Returns a new shape on the drawing page linked to data in a data recordset.
 
@@ -22,7 +22,7 @@ Returns a new shape on the drawing page linked to data in a data recordset.
 
 ## Syntax
 
- _expression_. `DropLinked`( `_ObjectToDrop_` , `_x_` , `_y_` , `_DataRecordsetID_` , `_DataRowID_` , `_ApplyDataGraphicAfterLink_` )
+_expression_. `DropLinked`( `_ObjectToDrop_` , `_x_` , `_y_` , `_DataRecordsetID_` , `_DataRowID_` , `_ApplyDataGraphicAfterLink_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 

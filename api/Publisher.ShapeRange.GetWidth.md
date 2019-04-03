@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.GetWidth Method (Publisher)
+title: ShapeRange.GetWidth method (Publisher)
 keywords: vbapb10.chm2293785
 f1_keywords:
 - vbapb10.chm2293785
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.GetWidth Method (Publisher)
+# ShapeRange.GetWidth method (Publisher)
 
 Returns the width of the shape or shape range as a  **Single** in the specified units. .
 
 
 ## Syntax
 
- _expression_. **GetWidth**(**_Unit_**)
+ _expression_.**GetWidth**(**_Unit_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

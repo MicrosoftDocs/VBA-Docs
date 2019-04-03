@@ -1,5 +1,5 @@
 ---
-title: Application.IsURLTrusted Method (Project)
+title: Application.IsURLTrusted method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.IsURLTrusted
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.IsURLTrusted Method (Project)
+# Application.IsURLTrusted method (Project)
 
 Verifies whether the Project Web App URL belongs to a trusted site in the user's Internet Explorer security settings.
 
 
 ## Syntax
 
- _expression_. `IsURLTrusted`( `_URL_` )
+_expression_. `IsURLTrusted`( `_URL_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

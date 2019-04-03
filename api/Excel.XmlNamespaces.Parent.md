@@ -21,7 +21,7 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [XmlNamespaces](./Excel.XmlNamespaces.md) object.
+_expression_ A variable that represents a [XmlNamespaces](Excel.XmlNamespaces.md) object.
 
 
 ## See also

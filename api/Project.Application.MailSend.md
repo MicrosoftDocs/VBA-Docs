@@ -1,5 +1,5 @@
 ---
-title: Application.MailSend Method (Project)
+title: Application.MailSend method (Project)
 keywords: vbapj.chm120
 f1_keywords:
 - vbapj.chm120
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MailSend Method (Project)
+# Application.MailSend method (Project)
 
 Sends a mail message.
 
 
 ## Syntax
 
- _expression_. `MailSend`( `_To_`, `_Cc_`, `_Subject_`, `_Body_`, `_Enclosures_`, `_IncludeDocument_`, `_ReturnReceipt_`, `_Bcc_`, `_Urgent_`, `_SaveCopy_`, `_AddRecipient_` )
+_expression_. `MailSend`( `_To_`, `_Cc_`, `_Subject_`, `_Body_`, `_Enclosures_`, `_IncludeDocument_`, `_ReturnReceipt_`, `_Bcc_`, `_Urgent_`, `_SaveCopy_`, `_AddRecipient_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

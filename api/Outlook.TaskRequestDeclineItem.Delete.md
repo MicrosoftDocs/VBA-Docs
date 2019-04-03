@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Delete Method (Outlook)
+title: TaskRequestDeclineItem.Delete method (Outlook)
 keywords: vbaol11.chm1851
 f1_keywords:
 - vbaol11.chm1851
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Delete Method (Outlook)
+# TaskRequestDeclineItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
@@ -21,7 +21,7 @@ Removes the item from the folder that contains the item.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks

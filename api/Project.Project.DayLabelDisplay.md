@@ -1,5 +1,5 @@
 ---
-title: Project.DayLabelDisplay Property (Project)
+title: Project.DayLabelDisplay property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DayLabelDisplay
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DayLabelDisplay Property (Project)
+# Project.DayLabelDisplay property (Project)
 
 Gets or sets the abbreviation for "day" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `DayLabelDisplay`
+_expression_. `DayLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Delete Method (PowerPoint)
+title: ChartCharacters.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCharacters.Delete Method (PowerPoint)
+# ChartCharacters.Delete method (PowerPoint)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Legend.IncludeInLayout Property (PowerPoint)
+title: Legend.IncludeInLayout property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.IncludeInLayout
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Legend.IncludeInLayout Property (PowerPoint)
+# Legend.IncludeInLayout property (PowerPoint)
 
  **True** if a legend will occupy the chart layout space when a chart layout is being determined. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeInLayout`
+_expression_. `IncludeInLayout`
 
  _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 

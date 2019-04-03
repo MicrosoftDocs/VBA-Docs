@@ -1,5 +1,5 @@
 ---
-title: Shape.Rotate90 Method (Visio)
+title: Shape.Rotate90 method (Visio)
 keywords: vis_sdr.chm11216485
 f1_keywords:
 - vis_sdr.chm11216485
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Rotate90 Method (Visio)
+# Shape.Rotate90 method (Visio)
 
 Rotates an object 90 degrees counterclockwise.
 
 
 ## Syntax
 
- _expression_. `Rotate90`
+_expression_. `Rotate90`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

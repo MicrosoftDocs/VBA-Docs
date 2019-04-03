@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.LockAspectRatio Property (PowerPoint)
+title: ShapeRange.LockAspectRatio property (PowerPoint)
 keywords: vbapp10.chm548028
 f1_keywords:
 - vbapp10.chm548028
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.LockAspectRatio Property (PowerPoint)
+# ShapeRange.LockAspectRatio property (PowerPoint)
 
 Determines whether the specified shape retains its original proportions when you resize it. Read/write.
 
 
 ## Syntax
 
- _expression_. `LockAspectRatio`
+_expression_. `LockAspectRatio`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
@@ -42,7 +42,7 @@ The value of the  **LockAspectRatio** property can be one of these **MsoTriState
 
 ## Example
 
-This example adds a cube to  `myDocument`. The cube can be moved and resized, but not reproportioned.
+This example adds a cube to  _myDocument_. The cube can be moved and resized, but not reproportioned.
 
 
 ```vb

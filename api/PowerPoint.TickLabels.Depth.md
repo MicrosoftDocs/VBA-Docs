@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Depth Property (PowerPoint)
+title: TickLabels.Depth property (PowerPoint)
 keywords: vbapp10.chm719011
 f1_keywords:
 - vbapp10.chm719011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Depth Property (PowerPoint)
+# TickLabels.Depth property (PowerPoint)
 
 Returns the number of levels of category tick labels. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Depth`
+_expression_. `Depth`
 
  _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
 

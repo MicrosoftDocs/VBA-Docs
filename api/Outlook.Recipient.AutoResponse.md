@@ -1,5 +1,5 @@
 ---
-title: Recipient.AutoResponse Property (Outlook)
+title: Recipient.AutoResponse property (Outlook)
 keywords: vbaol11.chm2346
 f1_keywords:
 - vbaol11.chm2346
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.AutoResponse Property (Outlook)
+# Recipient.AutoResponse property (Outlook)
 
 Returns or sets a  **String** representing the text of an automatic response for a **[Recipient](Outlook.Recipient.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the text of an automatic response for
 
 _expression_. `AutoResponse`
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## See also

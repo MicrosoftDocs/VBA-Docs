@@ -1,5 +1,5 @@
 ---
-title: DataLabels Object (PowerPoint)
+title: DataLabels object (PowerPoint)
 keywords: vbapp10.chm697000
 f1_keywords:
 - vbapp10.chm697000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels Object (PowerPoint)
+# DataLabels object (PowerPoint)
 
 A collection of all the  **[DataLabel](PowerPoint.DataLabel.md)** objects for the specified series.
 

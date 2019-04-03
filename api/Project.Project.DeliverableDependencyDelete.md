@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableDependencyDelete Method (Project)
+title: Project.DeliverableDependencyDelete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableDependencyDelete
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableDependencyDelete Method (Project)
+# Project.DeliverableDependencyDelete method (Project)
 
 Deletes the dependency on the deliverable.
 
 
 ## Syntax
 
- _expression_. `DeliverableDependencyDelete`( `_DeliverableGuid_` )
+_expression_. `DeliverableDependencyDelete`( `_DeliverableGuid_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.Locked Property (Outlook)
+title: OlkListBox.Locked property (Outlook)
 keywords: vbaol11.chm1000257
 f1_keywords:
 - vbaol11.chm1000257
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.Locked Property (Outlook)
+# OlkListBox.Locked property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether or not the control is locked from being changed. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether or not the control is lock
 
 _expression_.**Locked**
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Remarks

@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Interior.PatternColorIndex property (Word)
 
-Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[xlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
+Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `PatternColorIndex`
+_expression_. `PatternColorIndex`
 
  _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 

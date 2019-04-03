@@ -1,5 +1,5 @@
 ---
-title: Table.RowHeight Property (Project)
+title: Table.RowHeight property (Project)
 keywords: vbapj.chm132696
 f1_keywords:
 - vbapj.chm132696
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.RowHeight Property (Project)
+# Table.RowHeight property (Project)
 
 Gets or sets the row height in a table, where the row height is the number of lines of text. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `RowHeight`
+_expression_. `RowHeight`
 
  _expression_ A variable that represents a [Table](./Project.Table.md) object.
 

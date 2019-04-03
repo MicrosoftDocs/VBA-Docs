@@ -1,5 +1,5 @@
 ---
-title: Application.ShowProgress Property (Visio)
+title: Application.ShowProgress property (Visio)
 keywords: vis_sdr.chm10014370
 f1_keywords:
 - vis_sdr.chm10014370
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowProgress Property (Visio)
+# Application.ShowProgress property (Visio)
 
 Determines whether a progress indicator is shown while performing certain operations. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowProgress`
+_expression_. `ShowProgress`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

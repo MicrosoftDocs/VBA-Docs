@@ -1,5 +1,5 @@
 ---
-title: Font.Embeddable Property (PowerPoint)
+title: Font.Embeddable property (PowerPoint)
 keywords: vbapp10.chm575013
 f1_keywords:
 - vbapp10.chm575013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Embeddable Property (PowerPoint)
+# Font.Embeddable property (PowerPoint)
 
 Determines whether the specified font can be embedded in the presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `Embeddable`
+_expression_. `Embeddable`
 
  _expression_ A variable that represents an [Font](./PowerPoint.Font.md) object.
 

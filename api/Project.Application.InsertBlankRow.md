@@ -1,5 +1,5 @@
 ---
-title: Application.InsertBlankRow Method (Project)
+title: Application.InsertBlankRow method (Project)
 keywords: vbapj.chm2171
 f1_keywords:
 - vbapj.chm2171
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.InsertBlankRow Method (Project)
+# Application.InsertBlankRow method (Project)
 
 Inserts a blank row above the selected task row or cell in a Gantt chart.
 
 
 ## Syntax
 
- _expression_. `InsertBlankRow`
+_expression_. `InsertBlankRow`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

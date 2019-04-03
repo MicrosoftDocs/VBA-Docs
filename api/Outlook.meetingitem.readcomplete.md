@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.ReadComplete Event (Outlook)
+title: MeetingItem.ReadComplete event (Outlook)
 ms.assetid: 17ef8085-38ac-7e32-7704-54a2f2224e87
 ms.date: 06/08/2017
 ms.prod: outlook
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.ReadComplete Event (Outlook)
+# MeetingItem.ReadComplete event (Outlook)
 Occurs when Outlook has completed reading the properties of the item.
 
 ## Version information
@@ -19,7 +19,7 @@ Version Added: Outlook 2013
 
 _expression_. `ReadComplete`_(Cancel)_
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Parameters

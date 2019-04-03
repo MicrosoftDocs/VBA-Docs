@@ -1,5 +1,5 @@
 ---
-title: MarkAsTaskRuleAction.FlagTo Property (Outlook)
+title: MarkAsTaskRuleAction.FlagTo property (Outlook)
 keywords: vbaol11.chm2285
 f1_keywords:
 - vbaol11.chm2285
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkAsTaskRuleAction.FlagTo Property (Outlook)
+# MarkAsTaskRuleAction.FlagTo property (Outlook)
 
 Returns or sets a  **String** that represents the label of the flag for the message. Read/write
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the label of the flag for the mess
 
 _expression_. `FlagTo`
 
-_expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkAsTaskRuleAction.md) object.
+_expression_ A variable that represents a [MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md) object.
 
 
 ## Remarks

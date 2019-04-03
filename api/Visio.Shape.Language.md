@@ -1,5 +1,5 @@
 ---
-title: Shape.Language Property (Visio)
+title: Shape.Language property (Visio)
 keywords: vis_sdr.chm11251705
 f1_keywords:
 - vis_sdr.chm11251705
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Language Property (Visio)
+# Shape.Language property (Visio)
 
 Represents the language ID of the version of the Microsoft Visio instance represented by the parent object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Language`
+_expression_. `Language`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.RowExists Property (Visio)
+title: Shape.RowExists property (Visio)
 keywords: vis_sdr.chm11214250
 f1_keywords:
 - vis_sdr.chm11214250
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.RowExists Property (Visio)
+# Shape.RowExists property (Visio)
 
 Determines whether a ShapeSheet row exists. Read-only.
 
 
 ## Syntax
 
- _expression_. `RowExists`( `_Section_` , `_Row_` , `_fExistsLocally_` )
+_expression_. `RowExists`( `_Section_` , `_Row_` , `_fExistsLocally_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

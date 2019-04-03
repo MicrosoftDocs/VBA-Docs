@@ -1,5 +1,5 @@
 ---
-title: Selection.Location Property (Outlook)
+title: Selection.Location property (Outlook)
 keywords: vbaol11.chm3481
 f1_keywords:
 - vbaol11.chm3481
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Location Property (Outlook)
+# Selection.Location property (Outlook)
 
 Returns an  **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant that specifies where in the Microsoft Outlook user interface the current selection is. Read-only
 

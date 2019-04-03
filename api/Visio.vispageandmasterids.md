@@ -1,5 +1,5 @@
 ---
-title: VisPageAndMasterIDs Enumeration (Visio)
+title: VisPageAndMasterIDs enumeration (Visio)
 keywords: vis_sdr.chm70440
 f1_keywords:
 - vis_sdr.chm70440
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisPageAndMasterIDs Enumeration (Visio)
+# VisPageAndMasterIDs enumeration (Visio)
 
 Values related to the IDs of Microsoft Visio masters and pages.
 

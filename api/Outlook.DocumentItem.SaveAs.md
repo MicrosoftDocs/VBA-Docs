@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.SaveAs Method (Outlook)
+title: DocumentItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1216
 f1_keywords:
 - vbaol11.chm1216
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.SaveAs Method (Outlook)
+# DocumentItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 
@@ -21,7 +21,7 @@ Saves the Microsoft Outlook item to the specified path and in the format of the 
 
 _expression_. `SaveAs`( `_Path_` , `_Type_` )
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Parameters

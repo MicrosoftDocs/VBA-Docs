@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.Index Property (Visio)
+title: MasterShortcut.Index property (Visio)
 keywords: vis_sdr.chm16013695
 f1_keywords:
 - vis_sdr.chm16013695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.Index Property (Visio)
+# MasterShortcut.Index property (Visio)
 
 Gets the ordinal position of a  **MasterShortcut** object in the **MasterShortcuts** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 

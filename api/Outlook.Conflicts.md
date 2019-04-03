@@ -1,5 +1,5 @@
 ---
-title: Conflicts Object (Outlook)
+title: Conflicts object (Outlook)
 keywords: vbaol11.chm399
 f1_keywords:
 - vbaol11.chm399
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflicts Object (Outlook)
+# Conflicts object (Outlook)
 
 Contains a collection of  **[Conflict](Outlook.Conflict.md)** objects that represent all Microsoft Outlook items that are in conflict with a particular Outlook item.
 
@@ -87,6 +87,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

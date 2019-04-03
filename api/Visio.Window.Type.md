@@ -1,5 +1,5 @@
 ---
-title: Window.Type Property (Visio)
+title: Window.Type property (Visio)
 keywords: vis_sdr.chm11614595
 f1_keywords:
 - vis_sdr.chm11614595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Type Property (Visio)
+# Window.Type property (Visio)
 
 Returns the type of the object. Read-only.
 

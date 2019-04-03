@@ -1,5 +1,5 @@
 ---
-title: MediaBookmark Object (PowerPoint)
+title: MediaBookmark object (PowerPoint)
 keywords: vbapp10.chm729000
 f1_keywords:
 - vbapp10.chm729000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaBookmark Object (PowerPoint)
+# MediaBookmark object (PowerPoint)
 
 Contains properties and methods that specify information about the bookmark of the media.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `SingleListTemplate`
+_expression_. `SingleListTemplate`
 
  _expression_ Required. A variable that represents a '[List](Word.List.md)' object.
 

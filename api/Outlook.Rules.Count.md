@@ -1,5 +1,5 @@
 ---
-title: Rules.Count Property (Outlook)
+title: Rules.Count property (Outlook)
 keywords: vbaol11.chm2158
 f1_keywords:
 - vbaol11.chm2158
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rules.Count Property (Outlook)
+# Rules.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
+_expression_ A variable that represents a [Rules](Outlook.Rules.md) object.
 
 
 ## See also

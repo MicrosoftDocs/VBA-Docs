@@ -1,5 +1,5 @@
 ---
-title: Series Object (Project)
+title: Series object (Project)
 ms.prod: project-server
 ms.assetid: 38a834ec-4076-82ef-a6bd-55a1ee2624bd
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# Series Object (Project)
+# Series object (Project)
 Represents a collection of related data that makes a row or a column in a chart.
  
 

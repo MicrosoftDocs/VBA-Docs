@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Saved Property (Outlook)
+title: DocumentItem.Saved property (Outlook)
 keywords: vbaol11.chm1203
 f1_keywords:
 - vbaol11.chm1203
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Saved Property (Outlook)
+# DocumentItem.Saved property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 
 _expression_. `Saved`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## See also

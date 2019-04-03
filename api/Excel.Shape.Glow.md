@@ -21,7 +21,7 @@ Returns a  **[GlowFormat](Office.GlowFormat.md)** object for a specified shape t
 
 _expression_. `Glow`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Remarks

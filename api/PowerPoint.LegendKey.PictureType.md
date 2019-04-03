@@ -1,5 +1,5 @@
 ---
-title: LegendKey.PictureType Property (PowerPoint)
+title: LegendKey.PictureType property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.PictureType
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# LegendKey.PictureType Property (PowerPoint)
+# LegendKey.PictureType property (PowerPoint)
 
-Returns or sets the way pictures are displayed on a legend key. Read/write  **[xlChartPictureType](PowerPoint.XlChartPictureType.md)**.
+Returns or sets the way pictures are displayed on a legend key. Read/write  **[XlChartPictureType](PowerPoint.XlChartPictureType.md)**.
 
 
 ## Syntax
 
- _expression_. `PictureType`
+_expression_. `PictureType`
 
  _expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)' object.
 

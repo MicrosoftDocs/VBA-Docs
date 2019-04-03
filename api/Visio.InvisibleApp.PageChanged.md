@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.PageChanged Event (Visio)
+title: InvisibleApp.PageChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.PageChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.PageChanged Event (Visio)
+# InvisibleApp.PageChanged event (Visio)
 
 Occurs after the name of a page, the background page associated with a page, or the page type (foreground or background) changes.
 

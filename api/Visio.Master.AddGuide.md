@@ -1,5 +1,5 @@
 ---
-title: Master.AddGuide Method (Visio)
+title: Master.AddGuide method (Visio)
 keywords: vis_sdr.chm10716035
 f1_keywords:
 - vis_sdr.chm10716035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.AddGuide Method (Visio)
+# Master.AddGuide method (Visio)
 
 Adds a guide to a master.
 
 
 ## Syntax
 
- _expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
+_expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

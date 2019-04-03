@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.SubAddress Property (PowerPoint)
+title: Hyperlink.SubAddress property (PowerPoint)
 keywords: vbapp10.chm526005
 f1_keywords:
 - vbapp10.chm526005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.SubAddress Property (PowerPoint)
+# Hyperlink.SubAddress property (PowerPoint)
 
 Returns or sets the location within a document — such as a bookmark in a word document, a range in a Microsoft Office Excel worksheet, or a slide in a Microsoft PowerPoint presentation — associated with the specified hyperlink. Read/write.
 
 
 ## Syntax
 
- _expression_. `SubAddress`
+_expression_. `SubAddress`
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 

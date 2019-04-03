@@ -1,5 +1,5 @@
 ---
-title: Shapes.Title Property (PowerPoint)
+title: Shapes.Title property (PowerPoint)
 keywords: vbapp10.chm543020
 f1_keywords:
 - vbapp10.chm543020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Title Property (PowerPoint)
+# Shapes.Title property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the slide title. Read-only.
 
@@ -36,7 +36,7 @@ You can also use the  **[Item](PowerPoint.Placeholders.Item.md)** method of the 
 
 ## Example
 
-This example sets the title text on  `myDocument`.
+This example sets the title text on  _myDocument_.
 
 
 ```vb

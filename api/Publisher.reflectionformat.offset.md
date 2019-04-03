@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Offset Property (Publisher)
+title: ReflectionFormat.Offset property (Publisher)
 keywords: vbapb10.chm9699332
 f1_keywords:
 - vbapb10.chm9699332
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ReflectionFormat.Offset Property (Publisher)
+# ReflectionFormat.Offset property (Publisher)
 
 Returns or sets the amount of separation, in points, of the reflected image from the shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Offset**
+ _expression_.**Offset**
 
  _expression_ A variable that represents a  **ReflectionFormat** object.
 

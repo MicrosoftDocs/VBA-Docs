@@ -1,5 +1,5 @@
 ---
-title: Style.BasedOn Property (Visio)
+title: Style.BasedOn property (Visio)
 keywords: vis_sdr.chm11413130
 f1_keywords:
 - vis_sdr.chm11413130
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Style.BasedOn Property (Visio)
+# Style.BasedOn property (Visio)
 
 Gets or sets the style on which a  **Style** object is based. Read/write.
 
 
 ## Syntax
 
- _expression_. `BasedOn`
+_expression_. `BasedOn`
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

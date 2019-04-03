@@ -1,5 +1,5 @@
 ---
-title: Application.ViewEditSingle Method (Project)
+title: Application.ViewEditSingle method (Project)
 keywords: vbapj.chm303
 f1_keywords:
 - vbapj.chm303
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewEditSingle Method (Project)
+# Application.ViewEditSingle method (Project)
 
 Creates, edits, or copies a single-pane view.
 
 
 ## Syntax
 
- _expression_. `ViewEditSingle`( `_Name_`, `_Create_`, `_NewName_`, `_Screen_`, `_ShowInMenu_`, `_HighlightFilter_`, `_Table_`, `_Filter_`, `_Group_` )
+_expression_. `ViewEditSingle`( `_Name_`, `_Create_`, `_NewName_`, `_Screen_`, `_ShowInMenu_`, `_HighlightFilter_`, `_Table_`, `_Filter_`, `_Group_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

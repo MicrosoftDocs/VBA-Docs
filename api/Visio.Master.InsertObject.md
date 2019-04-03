@@ -1,5 +1,5 @@
 ---
-title: Master.InsertObject Method (Visio)
+title: Master.InsertObject method (Visio)
 keywords: vis_sdr.chm10716370
 f1_keywords:
 - vis_sdr.chm10716370
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.InsertObject Method (Visio)
+# Master.InsertObject method (Visio)
 
 Adds a new embedded object or ActiveX control to a page, master, or group.
 
 
 ## Syntax
 
- _expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
+_expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

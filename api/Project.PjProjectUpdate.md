@@ -1,5 +1,5 @@
 ---
-title: PjProjectUpdate Enumeration (Project)
+title: PjProjectUpdate enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjProjectUpdate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjProjectUpdate Enumeration (Project)
+# PjProjectUpdate enumeration (Project)
 
 Contains constants that specify the action to take with the specified tasks.
 

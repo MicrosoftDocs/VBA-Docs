@@ -1,5 +1,5 @@
 ---
-title: Application.ViewsEx Method (Project)
+title: Application.ViewsEx method (Project)
 keywords: vbapj.chm310
 f1_keywords:
 - vbapj.chm310
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewsEx Method (Project)
+# Application.ViewsEx method (Project)
 
 Displays the  **More Views** dialog box with the specified pane of the current view selected, which prompts the user to manage views.
 
 
 ## Syntax
 
- _expression_. `ViewsEx`( `_ApplyTo_` )
+_expression_. `ViewsEx`( `_ApplyTo_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

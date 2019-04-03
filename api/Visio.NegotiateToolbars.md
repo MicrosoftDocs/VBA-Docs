@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.NegotiateToolbars Property (Visio)
+title: DrawingControl.NegotiateToolbars property (Visio)
 keywords: vis_sdr.chm51010
 f1_keywords:
 - vis_sdr.chm51010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.NegotiateToolbars Property (Visio)
+# DrawingControl.NegotiateToolbars property (Visio)
 
 Determines whether Microsoft Visio toolbars are merged with those of the host application when the Microsoft Visio Drawing Control is UI-active (has the keyboard focus). Read/write.
 
 
 ## Syntax
 
- _expression_. `NegotiateToolbars`
+_expression_. `NegotiateToolbars`
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 

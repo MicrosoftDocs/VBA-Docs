@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.SentOn Property (Outlook)
+title: MeetingItem.SentOn property (Outlook)
 keywords: vbaol11.chm1452
 f1_keywords:
 - vbaol11.chm1452
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.SentOn Property (Outlook)
+# MeetingItem.SentOn property (Outlook)
 
 Returns a  **Date** indicating the date and time on which the Outlook item was sent. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the date and time on which the Outlook item was s
 
 _expression_. `SentOn`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

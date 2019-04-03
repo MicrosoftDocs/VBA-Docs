@@ -1,5 +1,5 @@
 ---
-title: Project.SendHyperlinkNote Property (Project)
+title: Project.SendHyperlinkNote property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.SendHyperlinkNote
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.SendHyperlinkNote Property (Project)
+# Project.SendHyperlinkNote property (Project)
 
  **True** if resources receive email notification Obsolete in Project. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SendHyperlinkNote`
+_expression_. `SendHyperlinkNote`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

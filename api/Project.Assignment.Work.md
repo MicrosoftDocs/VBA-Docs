@@ -1,5 +1,5 @@
 ---
-title: Assignment.Work Property (Project)
+title: Assignment.Work property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Work
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Work Property (Project)
+# Assignment.Work property (Project)
 
 Gets or sets the work (in minutes) for the assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Work`
+_expression_. `Work`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

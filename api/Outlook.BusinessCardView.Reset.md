@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Reset Method (Outlook)
+title: BusinessCardView.Reset method (Outlook)
 keywords: vbaol11.chm2924
 f1_keywords:
 - vbaol11.chm2924
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Reset Method (Outlook)
+# BusinessCardView.Reset method (Outlook)
 
 Resets a built-in Microsoft Outlook view to its original settings.
 
@@ -21,7 +21,7 @@ Resets a built-in Microsoft Outlook view to its original settings.
 
 _expression_. `Reset`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

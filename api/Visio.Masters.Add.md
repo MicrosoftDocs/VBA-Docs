@@ -1,5 +1,5 @@
 ---
-title: Masters.Add Method (Visio)
+title: Masters.Add method (Visio)
 keywords: vis_sdr.chm10816005
 f1_keywords:
 - vis_sdr.chm10816005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Masters.Add Method (Visio)
+# Masters.Add method (Visio)
 
 Adds a new object to a collection.
 
 
 ## Syntax
 
- _expression_. `Add`
+ _expression_.**Add**
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

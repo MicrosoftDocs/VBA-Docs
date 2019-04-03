@@ -1,5 +1,5 @@
 ---
-title: TaskItem.AfterWrite Event (Outlook)
+title: TaskItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.AfterWrite Event (Outlook)
+# TaskItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 
@@ -18,7 +18,7 @@ Occurs after Microsoft Outlook has saved the item.
 
 _expression_. `AfterWrite`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

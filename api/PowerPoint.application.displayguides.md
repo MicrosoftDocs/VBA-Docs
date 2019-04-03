@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayGuides Property (PowerPoint)
+title: Application.DisplayGuides property (PowerPoint)
 keywords: vbapp10.chm502072
 f1_keywords:
 - vbapp10.chm502072
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayGuides Property (PowerPoint)
+# Application.DisplayGuides property (PowerPoint)
 
 Gets or sets whether drawing guides are displayed in the application. 
 
 
 ## Syntax
 
- _expression_. `DisplayGuides`
+_expression_. `DisplayGuides`
 
 _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 

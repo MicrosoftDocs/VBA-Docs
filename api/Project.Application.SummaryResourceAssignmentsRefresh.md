@@ -1,5 +1,5 @@
 ---
-title: Application.SummaryResourceAssignmentsRefresh Method (Project)
+title: Application.SummaryResourceAssignmentsRefresh method (Project)
 keywords: vbapj.chm2099
 f1_keywords:
 - vbapj.chm2099
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SummaryResourceAssignmentsRefresh Method (Project)
+# Application.SummaryResourceAssignmentsRefresh method (Project)
 
 Refreshes the summary resource assignments of a project by getting the latest available data. Enterprise mode only.
 
 
 ## Syntax
 
- _expression_. `SummaryResourceAssignmentsRefresh`
+_expression_. `SummaryResourceAssignmentsRefresh`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

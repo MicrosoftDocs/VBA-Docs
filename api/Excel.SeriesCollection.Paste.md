@@ -21,7 +21,7 @@ Pastes data from the Clipboard into the specified series collection.
 
 _expression_. `Paste`( `_Rowcol_` , `_SeriesLabels_` , `_CategoryLabels_` , `_Replace_` , `_NewSeries_` )
 
-_expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
+_expression_ A variable that represents a [SeriesCollection](Excel.SeriesCollection.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesColle
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Rowcol_|Optional| **[xlRowCol](Excel.XlRowCol.md)**|. Specifies whether the values corresponding to a particular data series are in rows or columns.|
+| _Rowcol_|Optional| **[XlRowCol](Excel.XlRowCol.md)**|. Specifies whether the values corresponding to a particular data series are in rows or columns.|
 | _SeriesLabels_|Optional| **Variant**| **True** to use the contents of the cell in the first column of each row (or the first row of each column) as the name of the data series in that row (or column). **False** to use the contents of the cell in the first column of each row (or the first row of each column) as the first data point in the data series. The default value is **False**.|
 | _CategoryLabels_|Optional| **Variant**| **True** to use the contents of the first row (or column) of the selection as the categories for the chart. **False** to use the contents of the first row (or column) as the first data series in the chart. The default value is **False**.|
 | _Replace_|Optional| **Variant**| **True** to apply categories while replacing existing categories with information from the copied range. **False** to insert new categories without replacing any old ones. The default value is **True**.|
@@ -55,6 +55,6 @@ Charts("Chart1").SeriesCollection.Paste
 ## See also
 
 
-[SeriesCollection Object](./Excel.SeriesCollection.md)
+[SeriesCollection Object](Excel.SeriesCollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

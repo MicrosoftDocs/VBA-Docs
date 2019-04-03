@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Parent Property (Outlook)
+title: PeopleView.Parent property (Outlook)
 keywords: vbaol11.chm3572
 f1_keywords:
 - vbaol11.chm3572
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Parent Property (Outlook)
+# PeopleView.Parent property (Outlook)
 Returns the parent  **Object** of the specified object. Read-only.
 
 ## Syntax
@@ -26,6 +26,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 
 [PeopleView Object](Outlook.peopleview.md)
-[PeopleView Members](./overview/Outlook.md)
+[PeopleView Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

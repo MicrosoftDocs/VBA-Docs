@@ -1,5 +1,5 @@
 ---
-title: Shapes.PersistsEvents Property (Visio)
+title: Shapes.PersistsEvents property (Visio)
 keywords: vis_sdr.chm11314080
 f1_keywords:
 - vis_sdr.chm11314080
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.PersistsEvents Property (Visio)
+# Shapes.PersistsEvents property (Visio)
 
 Indicates whether an object is capable of containing persistent events in its  **EventList** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `PersistsEvents`
+_expression_. `PersistsEvents`
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Select Method (PowerPoint)
+title: PlotArea.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.Select Method (PowerPoint)
+# PlotArea.Select method (PowerPoint)
 
 Selects the object.
 

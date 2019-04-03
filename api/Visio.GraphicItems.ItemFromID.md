@@ -1,5 +1,5 @@
 ---
-title: GraphicItems.ItemFromID Property (Visio)
+title: GraphicItems.ItemFromID property (Visio)
 keywords: vis_sdr.chm16813775
 f1_keywords:
 - vis_sdr.chm16813775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItems.ItemFromID Property (Visio)
+# GraphicItems.ItemFromID property (Visio)
 
 Returns a  **GraphicItem** object from the **GraphicItems** collection by using the unique ID of the object. Read-only.
 
@@ -22,7 +22,7 @@ Returns a  **GraphicItem** object from the **GraphicItems** collection by using 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_ObjectID_` )
+_expression_. `ItemFromID`( `_ObjectID_` )
 
  _expression_ A variable that represents a [GraphicItems](./Visio.GraphicItems.md) object.
 

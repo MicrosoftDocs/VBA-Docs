@@ -1,5 +1,5 @@
 ---
-title: TimeZone.Bias Property (Outlook)
+title: TimeZone.Bias property (Outlook)
 keywords: vbaol11.chm3285
 f1_keywords:
 - vbaol11.chm3285
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.Bias Property (Outlook)
+# TimeZone.Bias property (Outlook)
 
 Returns a  **Long** value that represents the difference in minutes of between the local time in this time zone and the Coordinated Universal Time (UTC). Read-only.
 
 
 ## Syntax
 
- _expression_. `Bias`
+_expression_. `Bias`
 
-_expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object.
 
 
 ## Remarks
 
-This value is stored as part of the value for  **TZI** for that time zone in the Windows registry. The **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](./overview/Outlook.md)** structure.
+This value is stored as part of the value for  **TZI** for that time zone in the Windows registry. The **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](overview/Outlook.md)** structure.
 
  **Bias** does not take into account any time offset for daylight time or standard time in the time zone. To account for any daylight time offset, use **[DaylightBias](Outlook.TimeZone.DaylightBias.md)**. In general, when the local time zone is adopting daylight time, UTC time is the result of adding the **Bias** and **DaylightBias** to the local time. To account for any standard time offset, use **[StandardBias](Outlook.TimeZone.StandardBias.md)**. In general, when the local time zone is adopting standard time, UTC time is the result of adding the **Bias** and **StandardBias** to the local time.
 

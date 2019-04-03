@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SaveAsBuildingBlock Method (Publisher)
+title: ShapeRange.SaveAsBuildingBlock method (Publisher)
 keywords: vbapb10.chm2294051
 f1_keywords:
 - vbapb10.chm2294051
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.SaveAsBuildingBlock Method (Publisher)
+# ShapeRange.SaveAsBuildingBlock method (Publisher)
 
 Saves a single shape range as a building block. Returns the resulting  **[BuildingBlock](Publisher.BuildingBlock.md)** object.
 
 
 ## Syntax
 
- _expression_. **SaveAsBuildingBlock**(**_Name_**)
+ _expression_.**SaveAsBuildingBlock**(**_Name_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

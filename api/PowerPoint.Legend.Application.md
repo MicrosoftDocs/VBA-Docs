@@ -1,5 +1,5 @@
 ---
-title: Legend.Application Property (PowerPoint)
+title: Legend.Application property (PowerPoint)
 keywords: vbapp10.chm709002
 f1_keywords:
 - vbapp10.chm709002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Legend.Application Property (PowerPoint)
+# Legend.Application property (PowerPoint)
 
 When used without an object qualifier, returns an  **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 

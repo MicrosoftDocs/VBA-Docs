@@ -1,5 +1,5 @@
 ---
-title: Section.PageNumberFormat Property (Publisher)
+title: Section.PageNumberFormat property (Publisher)
 keywords: vbapb10.chm7405573
 f1_keywords:
 - vbapb10.chm7405573
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Section.PageNumberFormat Property (Publisher)
+# Section.PageNumberFormat property (Publisher)
 
 Sets or returns a  **PbPageNumberFormat** constant that represents the formatting of the page numbering. Read/write.
 
 
 ## Syntax
 
- _expression_. **PageNumberFormat**
+ _expression_.**PageNumberFormat**
 
  _expression_ A variable that represents a  **Section** object.
 

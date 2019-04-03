@@ -1,5 +1,5 @@
 ---
-title: StartDriver.OverAllocatedAssignments Property (Project)
+title: StartDriver.OverAllocatedAssignments property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.OverAllocatedAssignments
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.OverAllocatedAssignments Property (Project)
+# StartDriver.OverAllocatedAssignments property (Project)
 
 Gets overallocated assignments for a task start driver. Read-only  **OverAllocatedAssignments**.
 
 
 ## Syntax
 
- _expression_. `OverAllocatedAssignments`( `_fOverPeak_` )
+_expression_. `OverAllocatedAssignments`( `_fOverPeak_` )
 
  _expression_ An expression that returns a [StartDriver](./Project.StartDriver.md) object.
 

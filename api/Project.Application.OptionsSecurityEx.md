@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsSecurityEx Method (Project)
+title: Application.OptionsSecurityEx method (Project)
 keywords: vbapj.chm652
 f1_keywords:
 - vbapj.chm652
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsSecurityEx Method (Project)
+# Application.OptionsSecurityEx method (Project)
 
 Sets legacy security options that are available in the  **Trust Center** dialog box.
 
 
 ## Syntax
 
- _expression_. `OptionsSecurityEx`( `_RemoveFileProperties_`, `_TrustWSS_` )
+_expression_. `OptionsSecurityEx`( `_RemoveFileProperties_`, `_TrustWSS_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

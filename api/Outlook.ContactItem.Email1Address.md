@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email1Address Property (Outlook)
+title: ContactItem.Email1Address property (Outlook)
 keywords: vbaol11.chm991
 f1_keywords:
 - vbaol11.chm991
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Email1Address Property (Outlook)
+# ContactItem.Email1Address property (Outlook)
 
 Returns or sets a  **String** representing the email address of the first email entry for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the email address of the first email 
 
 _expression_. `Email1Address`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Parent Property (PowerPoint)
+title: ColorFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm506001
 f1_keywords:
 - vbapp10.chm506001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.Parent Property (PowerPoint)
+# ColorFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

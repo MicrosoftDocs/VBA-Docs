@@ -1,5 +1,5 @@
 ---
-title: DocumentWindows.Parent Property (PowerPoint)
+title: DocumentWindows.Parent property (PowerPoint)
 keywords: vbapp10.chm509002
 f1_keywords:
 - vbapp10.chm509002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindows.Parent Property (PowerPoint)
+# DocumentWindows.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

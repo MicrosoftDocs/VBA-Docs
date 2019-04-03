@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataFields.Item Method (Publisher)
+title: MailMergeDataFields.Item method (Publisher)
 keywords: vbapb10.chm6356995
 f1_keywords:
 - vbapb10.chm6356995
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataFields.Item Method (Publisher)
+# MailMergeDataFields.Item method (Publisher)
 
 Returns a  **[MailMergeDataField](Publisher.MailMergeDataField.md)** object from the specified **MailMergeDataFields** object.
 
 
 ## Syntax
 
- _expression_. **Item**(**_varIndex_**)
+ _expression_.**Item**(**_varIndex_**)
 
  _expression_ A variable that represents a  **MailMergeDataFields** object.
 

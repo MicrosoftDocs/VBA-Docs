@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ObjectVerbs Property (Publisher)
+title: OLEFormat.ObjectVerbs property (Publisher)
 keywords: vbapb10.chm4456453
 f1_keywords:
 - vbapb10.chm4456453
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.ObjectVerbs Property (Publisher)
+# OLEFormat.ObjectVerbs property (Publisher)
 
 Returns an  **[ObjectVerbs](Publisher.ObjectVerbs.md)** collection that contains all the OLE verbs for the specified OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **ObjectVerbs**
+ _expression_.**ObjectVerbs**
 
  _expression_ A variable that represents an  **OLEFormat** object.
 

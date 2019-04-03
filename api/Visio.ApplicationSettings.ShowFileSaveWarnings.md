@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ShowFileSaveWarnings Property (Visio)
+title: ApplicationSettings.ShowFileSaveWarnings property (Visio)
 keywords: vis_sdr.chm16251620
 f1_keywords:
 - vis_sdr.chm16251620
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ShowFileSaveWarnings Property (Visio)
+# ApplicationSettings.ShowFileSaveWarnings property (Visio)
 
 Determines if warning messages appear when the user attempts to save in XML format drawings that contain errors, such as invalid XML code. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowFileSaveWarnings`
+_expression_. `ShowFileSaveWarnings`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

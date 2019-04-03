@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientAngle Property (Publisher)
+title: FillFormat.GradientAngle property (Publisher)
 keywords: vbapb10.chm2359587
 f1_keywords:
 - vbapb10.chm2359587
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.GradientAngle Property (Publisher)
+# FillFormat.GradientAngle property (Publisher)
 
 Returns or sets the angle of the gradient fill for the specified fill format. Read/write.
 
 
 ## Syntax
 
- _expression_. **GradientAngle**
+ _expression_.**GradientAngle**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

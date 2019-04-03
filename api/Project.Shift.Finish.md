@@ -1,5 +1,5 @@
 ---
-title: Shift.Finish Property (Project)
+title: Shift.Finish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Shift.Finish
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Shift.Finish Property (Project)
+# Shift.Finish property (Project)
 
 Gets or sets the finish date of a  **Shift**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Finish`
+_expression_. `Finish`
 
  _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 

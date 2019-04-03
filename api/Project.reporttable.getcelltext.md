@@ -1,5 +1,5 @@
 ---
-title: ReportTable.GetCellText Method (Project)
+title: ReportTable.GetCellText method (Project)
 keywords: vbapj.chm132692
 f1_keywords:
 - vbapj.chm132692
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# ReportTable.GetCellText Method (Project)
+# ReportTable.GetCellText method (Project)
 Returns the text value of the specified cell in a  **ReportTable** object.
 
 ## Syntax
 
- _expression_. `GetCellText` _(Row,_ _Col)_
+_expression_. `GetCellText` _(Row,_ _Col)_
 
  _expression_ A variable that represents a 'ReportTable' object.
 

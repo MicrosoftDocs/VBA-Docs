@@ -1,5 +1,5 @@
 ---
-title: Master.InsertFromFile Method (Visio)
+title: Master.InsertFromFile method (Visio)
 keywords: vis_sdr.chm10716365
 f1_keywords:
 - vis_sdr.chm10716365
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.InsertFromFile Method (Visio)
+# Master.InsertFromFile method (Visio)
 
 Adds a linked or embedded object to a page, master, or group.
 
 
 ## Syntax
 
- _expression_. `InsertFromFile`( `_FileName_` , `_Flags_` )
+_expression_. `InsertFromFile`( `_FileName_` , `_Flags_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

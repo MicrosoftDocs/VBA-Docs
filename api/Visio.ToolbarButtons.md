@@ -16,9 +16,9 @@ Gets or sets the buttons that are available in the toolbar in Microsoft Visio Vi
 
 ## Syntax
 
- _expression_. **ToolbarButtons**
+ _expression_.**ToolbarButtons**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: PjMonth Enumeration (Project)
+title: PjMonth enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMonth
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjMonth Enumeration (Project)
+# PjMonth enumeration (Project)
 
 Contains constants that specify a month.
 

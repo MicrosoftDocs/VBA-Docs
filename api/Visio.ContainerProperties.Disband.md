@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.Disband Method (Visio)
+title: ContainerProperties.Disband method (Visio)
 keywords: vis_sdr.chm17662290
 f1_keywords:
 - vis_sdr.chm17662290
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.Disband Method (Visio)
+# ContainerProperties.Disband method (Visio)
 
 Removes all member shapes from the container and deletes the container shape.
 
 
 ## Syntax
 
- _expression_. `Disband`
+_expression_. `Disband`
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

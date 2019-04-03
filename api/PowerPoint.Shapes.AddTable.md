@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTable Method (PowerPoint)
+title: Shapes.AddTable method (PowerPoint)
 keywords: vbapp10.chm543027
 f1_keywords:
 - vbapp10.chm543027
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddTable Method (PowerPoint)
+# Shapes.AddTable method (PowerPoint)
 
 Adds a table shape to a slide.
 
 
 ## Syntax
 
- _expression_. `AddTable`( `_NumRows_`, `_NumColumns_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
+_expression_. `AddTable`( `_NumRows_`, `_NumColumns_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

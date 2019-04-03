@@ -1,5 +1,5 @@
 ---
-title: Task.WBSPredecessors Property (Project)
+title: Task.WBSPredecessors property (Project)
 keywords: vbapj.chm132764
 f1_keywords:
 - vbapj.chm132764
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.WBSPredecessors Property (Project)
+# Task.WBSPredecessors property (Project)
 
 Gets the work breakdown structure (WBS) codes of the task predecessors, separated by the list separator. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `WBSPredecessors`
+_expression_. `WBSPredecessors`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Exit Method (PowerPoint)
+title: SlideShowView.Exit method (PowerPoint)
 keywords: vbapp10.chm513025
 f1_keywords:
 - vbapp10.chm513025
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.Exit Method (PowerPoint)
+# SlideShowView.Exit method (PowerPoint)
 
 Ends the specified slide show.
 
 
 ## Syntax
 
- _expression_. `Exit`
+_expression_. `Exit`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

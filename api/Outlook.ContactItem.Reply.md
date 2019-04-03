@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Reply Event (Outlook)
+title: ContactItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Reply Event (Outlook)
+# ContactItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item (which is an instance of the parent object).
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **Reply** action for an item (which is an inst
 
 _expression_. `Reply`( `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Pages.Count Property (Publisher)
+title: Pages.Count property (Publisher)
 keywords: vbapb10.chm458755
 f1_keywords:
 - vbapb10.chm458755
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Pages.Count Property (Publisher)
+# Pages.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **Pages** object.
 

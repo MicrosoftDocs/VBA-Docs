@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Delete Method (Visio)
+title: Toolbar.Delete method (Visio)
 keywords: vis_sdr.chm13716165
 f1_keywords:
 - vis_sdr.chm13716165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.Delete Method (Visio)
+# Toolbar.Delete method (Visio)
 
 Deletes an object.
 

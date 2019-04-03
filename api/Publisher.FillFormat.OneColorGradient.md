@@ -1,5 +1,5 @@
 ---
-title: FillFormat.OneColorGradient Method (Publisher)
+title: FillFormat.OneColorGradient method (Publisher)
 keywords: vbapb10.chm2359313
 f1_keywords:
 - vbapb10.chm2359313
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.OneColorGradient Method (Publisher)
+# FillFormat.OneColorGradient method (Publisher)
 
 Sets the specified fill to a one-color gradient.
 
 
 ## Syntax
 
- _expression_. **OneColorGradient**(**_Style_**,  **_Variant_**,  **_Degree_**)
+ _expression_.**OneColorGradient**(**_Style_**,  **_Variant_**,  **_Degree_**)
 
  _expression_ A variable that represents a  **FillFormat** object.
 

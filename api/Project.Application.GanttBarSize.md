@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarSize Method (Project)
+title: Application.GanttBarSize method (Project)
 keywords: vbapj.chm2058
 f1_keywords:
 - vbapj.chm2058
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarSize Method (Project)
+# Application.GanttBarSize method (Project)
 
 Sets the height, in points, of the Gantt bars in the active Gantt Chart.
 
 
 ## Syntax
 
- _expression_. `GanttBarSize`( `_Size_` )
+_expression_. `GanttBarSize`( `_Size_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

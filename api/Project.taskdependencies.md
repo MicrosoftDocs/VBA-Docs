@@ -1,5 +1,5 @@
 ---
-title: TaskDependencies Object (Project)
+title: TaskDependencies object (Project)
 ms.prod: project-server
 ms.assetid: 60bda111-998f-1cc2-0b18-b419041767f5
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependencies Object (Project)
+# TaskDependencies object (Project)
 
 Contains a collection of  **[TaskDependency](Project.TaskDependency.md)** objects.
 

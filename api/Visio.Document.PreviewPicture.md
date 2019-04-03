@@ -1,5 +1,5 @@
 ---
-title: Document.PreviewPicture Property (Visio)
+title: Document.PreviewPicture property (Visio)
 keywords: vis_sdr.chm10550775
 f1_keywords:
 - vis_sdr.chm10550775
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.PreviewPicture Property (Visio)
+# Document.PreviewPicture property (Visio)
 
 Gets or sets the preview picture shown in the  **Open** dialog box and when you click the **File** tab, and then click **New**. Read/write.
 
 
 ## Syntax
 
- _expression_. `PreviewPicture`
+_expression_. `PreviewPicture`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

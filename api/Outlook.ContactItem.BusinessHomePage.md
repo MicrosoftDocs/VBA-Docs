@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessHomePage Property (Outlook)
+title: ContactItem.BusinessHomePage property (Outlook)
 keywords: vbaol11.chm978
 f1_keywords:
 - vbaol11.chm978
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessHomePage Property (Outlook)
+# ContactItem.BusinessHomePage property (Outlook)
 
 Returns or sets a  **String** representing the URL of the business web page for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the URL of the business web page for 
 
 _expression_. `BusinessHomePage`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Options.SaveAutoRecoverInfo Property (Publisher)
+title: Options.SaveAutoRecoverInfo property (Publisher)
 keywords: vbapb10.chm1048599
 f1_keywords:
 - vbapb10.chm1048599
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.SaveAutoRecoverInfo Property (Publisher)
+# Options.SaveAutoRecoverInfo property (Publisher)
 
  **True** if Microsoft Publisher automatically saves publications for recovery if the application is unexpectedly shut down. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **SaveAutoRecoverInfo**
+ _expression_.**SaveAutoRecoverInfo**
 
  _expression_ A variable that represents a  **Options** object.
 

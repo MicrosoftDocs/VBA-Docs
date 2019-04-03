@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddress Property (Outlook)
+title: ContactItem.BusinessAddress property (Outlook)
 keywords: vbaol11.chm970
 f1_keywords:
 - vbaol11.chm970
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddress Property (Outlook)
+# ContactItem.BusinessAddress property (Outlook)
 
 Returns or sets a  **String** representing the whole, unparsed business address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the whole, unparsed business address 
 
 _expression_. `BusinessAddress`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

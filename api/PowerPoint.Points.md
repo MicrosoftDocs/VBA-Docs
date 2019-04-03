@@ -1,5 +1,5 @@
 ---
-title: Points Object (PowerPoint)
+title: Points object (PowerPoint)
 keywords: vbapp10.chm715000
 f1_keywords:
 - vbapp10.chm715000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Points Object (PowerPoint)
+# Points object (PowerPoint)
 
 A collection of all the  **[Point](PowerPoint.Point.md)** objects in the specified series in a chart.
 

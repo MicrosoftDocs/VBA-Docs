@@ -1,5 +1,5 @@
 ---
-title: RotationEffect.From Property (PowerPoint)
+title: RotationEffect.From property (PowerPoint)
 keywords: vbapp10.chm661004
 f1_keywords:
 - vbapp10.chm661004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# RotationEffect.From Property (PowerPoint)
+# RotationEffect.From property (PowerPoint)
 
 Sets or returns a  **Single** that represents the starting angle in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
 
 
 ## Syntax
 
- _expression_. `From`
+_expression_. `From`
 
  _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 

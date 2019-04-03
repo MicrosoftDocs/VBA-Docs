@@ -1,5 +1,5 @@
 ---
-title: PostItem.CreationTime Property (Outlook)
+title: PostItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1521
 f1_keywords:
 - vbaol11.chm1521
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.CreationTime Property (Outlook)
+# PostItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the creation time for the Outlook item. Read-only
 
 _expression_. `CreationTime`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

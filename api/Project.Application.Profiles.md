@@ -1,5 +1,5 @@
 ---
-title: Application.Profiles Property (Project)
+title: Application.Profiles property (Project)
 keywords: vbapj.chm132515
 f1_keywords:
 - vbapj.chm132515
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Profiles Property (Project)
+# Application.Profiles property (Project)
 
 Gets a  **[Profiles](Project.Profile.md)** collection representing the log on profiles defined for the Project application. Read-only **Profiles**.
 
 
 ## Syntax
 
- _expression_. `Profiles`
+_expression_. `Profiles`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

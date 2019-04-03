@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ColorsInPalette Property (Publisher)
+title: PictureFormat.ColorsInPalette property (Publisher)
 keywords: vbapb10.chm3604754
 f1_keywords:
 - vbapb10.chm3604754
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.ColorsInPalette Property (Publisher)
+# PictureFormat.ColorsInPalette property (Publisher)
 
  Returns a **Long** that represents the number of colors in the picture's palette. Read-only.
 
 
 ## Syntax
 
- _expression_. **ColorsInPalette**
+ _expression_.**ColorsInPalette**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

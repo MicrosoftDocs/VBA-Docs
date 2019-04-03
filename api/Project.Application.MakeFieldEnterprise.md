@@ -1,5 +1,5 @@
 ---
-title: Application.MakeFieldEnterprise Method (Project)
+title: Application.MakeFieldEnterprise method (Project)
 keywords: vbapj.chm2275
 f1_keywords:
 - vbapj.chm2275
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MakeFieldEnterprise Method (Project)
+# Application.MakeFieldEnterprise method (Project)
 
 Adds a local custom field to Project Server as an enterprise custom field.
 
 
 ## Syntax
 
- _expression_. `MakeFieldEnterprise`( `_FieldID_`, `_FieldName_`, `_LookupTableName_` )
+_expression_. `MakeFieldEnterprise`( `_FieldID_`, `_FieldName_`, `_LookupTableName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

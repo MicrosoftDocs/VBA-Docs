@@ -1,5 +1,5 @@
 ---
-title: PlaySoundRuleAction.FilePath Property (Outlook)
+title: PlaySoundRuleAction.FilePath property (Outlook)
 keywords: vbaol11.chm2277
 f1_keywords:
 - vbaol11.chm2277
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySoundRuleAction.FilePath Property (Outlook)
+# PlaySoundRuleAction.FilePath property (Outlook)
 
 Returns or sets a  **String** that represents the full file path to a sound file (.wav). Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** that represents the full file path to a sound file
 
 _expression_. `FilePath`
 
-_expression_ A variable that represents a [PlaySoundRuleAction](./Outlook.PlaySoundRuleAction.md) object.
+_expression_ A variable that represents a [PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md) object.
 
 
 ## Remarks

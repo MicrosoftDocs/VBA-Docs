@@ -1,5 +1,5 @@
 ---
-title: AddIn.Loaded Property (PowerPoint)
+title: AddIn.Loaded property (PowerPoint)
 keywords: vbapp10.chm521008
 f1_keywords:
 - vbapp10.chm521008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AddIn.Loaded Property (PowerPoint)
+# AddIn.Loaded property (PowerPoint)
 
 Determines whether the specified add-in is loaded. Read/write.
 
 
 ## Syntax
 
- _expression_. `Loaded`
+_expression_. `Loaded`
 
 _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 

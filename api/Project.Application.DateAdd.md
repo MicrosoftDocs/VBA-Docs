@@ -1,5 +1,5 @@
 ---
-title: Application.DateAdd Method (Project)
+title: Application.DateAdd method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DateAdd
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DateAdd Method (Project)
+# Application.DateAdd method (Project)
 
 Returns the date and time that follows another date by a specified duration, for an automatically scheduled task.
 
 
 ## Syntax
 
- _expression_. `DateAdd`( `_StartDate_`, `_Duration_`, `_Calendar_` )
+_expression_. `DateAdd`( `_StartDate_`, `_Duration_`, `_Calendar_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

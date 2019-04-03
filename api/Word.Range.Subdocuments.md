@@ -19,7 +19,7 @@ Returns a  **Subdocuments** collection that represents all the subdocuments in t
 
 ## Syntax
 
- _expression_. `Subdocuments`
+_expression_. `Subdocuments`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

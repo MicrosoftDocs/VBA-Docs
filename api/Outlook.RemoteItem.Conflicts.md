@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Conflicts Property (Outlook)
+title: RemoteItem.Conflicts property (Outlook)
 keywords: vbaol11.chm1631
 f1_keywords:
 - vbaol11.chm1631
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Conflicts Property (Outlook)
+# RemoteItem.Conflicts property (Outlook)
 
 Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
@@ -21,7 +21,7 @@ Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the ite
 
 _expression_. `Conflicts`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## See also

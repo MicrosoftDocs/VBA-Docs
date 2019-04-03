@@ -17,7 +17,7 @@ Returns or sets a  **Boolean** that specifies whether a control can accept and d
 
 ## Syntax
 
- _expression_. **MultiLine**
+ _expression_.**MultiLine**
 
 _expression_ A variable that represents a  **TextBox** object.
 

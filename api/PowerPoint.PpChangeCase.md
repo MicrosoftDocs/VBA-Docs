@@ -1,5 +1,5 @@
 ---
-title: PpChangeCase Enumeration (PowerPoint)
+title: PpChangeCase enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpChangeCase
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpChangeCase Enumeration (PowerPoint)
+# PpChangeCase enumeration (PowerPoint)
 
 Specifies the way the case of the specified text will be changed.
 

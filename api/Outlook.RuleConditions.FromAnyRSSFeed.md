@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.FromAnyRSSFeed Property (Outlook)
+title: RuleConditions.FromAnyRSSFeed property (Outlook)
 keywords: vbaol11.chm3250
 f1_keywords:
 - vbaol11.chm3250
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.FromAnyRSSFeed Property (Outlook)
+# RuleConditions.FromAnyRSSFeed property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionFromAnyRssFeed**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCo
 
 _expression_. `FromAnyRSSFeed`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

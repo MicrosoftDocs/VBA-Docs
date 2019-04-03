@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat Object (Publisher)
+title: TextEffectFormat object (Publisher)
 keywords: vbapb10.chm3801087
 f1_keywords:
 - vbapb10.chm3801087
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat Object (Publisher)
+# TextEffectFormat object (Publisher)
 
 Contains properties and methods that apply to WordArt objects.
  

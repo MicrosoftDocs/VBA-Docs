@@ -1,5 +1,5 @@
 ---
-title: Project.IsCheckoutMsgBarVisible Property (Project)
+title: Project.IsCheckoutMsgBarVisible property (Project)
 ms.prod: project-server
 ms.assetid: 7d3ef8b3-36c1-d1f1-6c10-ad82573f9d08
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Project.IsCheckoutMsgBarVisible Property (Project)
+# Project.IsCheckoutMsgBarVisible property (Project)
 Gets whether the checkout message bar is visible. Read-only  **Boolean**.
 
 ## Syntax
 
- _expression_. `IsCheckoutMsgBarVisible`
+_expression_. `IsCheckoutMsgBarVisible`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

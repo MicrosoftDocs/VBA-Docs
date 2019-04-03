@@ -19,7 +19,7 @@ Sets the indentation for a row or rows in a table.
 
 ## Syntax
 
- _expression_. `SetLeftIndent`( `_LeftIndent_` , `_RulerStyle_` )
+_expression_. `SetLeftIndent`( `_LeftIndent_` , `_RulerStyle_` )
 
  _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 

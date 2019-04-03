@@ -1,5 +1,5 @@
 ---
-title: TableView.MultiLineWidth Property (Outlook)
+title: TableView.MultiLineWidth property (Outlook)
 keywords: vbaol11.chm2525
 f1_keywords:
 - vbaol11.chm2525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.MultiLineWidth Property (Outlook)
+# TableView.MultiLineWidth property (Outlook)
 
 Returns or sets a  **Long** value that represents the text width (in characters) needed to trigger multiline mode in the **[TableView](Outlook.TableView.md)** object . Read/write
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** value that represents the text width (in characters)
 
 _expression_. `MultiLineWidth`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks

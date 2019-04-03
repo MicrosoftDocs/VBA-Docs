@@ -1,5 +1,5 @@
 ---
-title: VisWindowScrollY Enumeration (Visio)
+title: VisWindowScrollY enumeration (Visio)
 keywords: vis_sdr.chm70270
 f1_keywords:
 - vis_sdr.chm70270
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisWindowScrollY Enumeration (Visio)
+# VisWindowScrollY enumeration (Visio)
 
 Y parameters to pass to the  **Window.Scroll** method.
 

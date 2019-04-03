@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Locked Property (Outlook)
+title: OlkTimeControl.Locked property (Outlook)
 keywords: vbaol11.chm1000388
 f1_keywords:
 - vbaol11.chm1000388
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Locked Property (Outlook)
+# OlkTimeControl.Locked property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether or not the control is locked from being changed. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether or not the control is lock
 
 _expression_.**Locked**
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

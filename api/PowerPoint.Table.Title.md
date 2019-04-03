@@ -1,5 +1,5 @@
 ---
-title: Table.Title Property (PowerPoint)
+title: Table.Title property (PowerPoint)
 keywords: vbapp10.chm622019
 f1_keywords:
 - vbapp10.chm622019
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Title Property (PowerPoint)
+# Table.Title property (PowerPoint)
 
 Returns or sets the title of the  **Table** object. Read/write.
 

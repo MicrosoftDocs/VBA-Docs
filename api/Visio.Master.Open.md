@@ -1,5 +1,5 @@
 ---
-title: Master.Open Method (Visio)
+title: Master.Open method (Visio)
 keywords: vis_sdr.chm10751195
 f1_keywords:
 - vis_sdr.chm10751195
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.Open Method (Visio)
+# Master.Open method (Visio)
 
 Opens an existing master so that it can be edited.
 
 
 ## Syntax
 
- _expression_. `Open`
+_expression_. `Open`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

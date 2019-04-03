@@ -1,5 +1,5 @@
 ---
-title: PbSchemeColorIndex Enumeration (Publisher)
+title: PbSchemeColorIndex enumeration (Publisher)
 keywords: vbapb10.chm65579
 f1_keywords:
 - vbapb10.chm65579
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbSchemeColorIndex Enumeration (Publisher)
+# PbSchemeColorIndex enumeration (Publisher)
 
 Represents the specified color of the current color scheme.
 

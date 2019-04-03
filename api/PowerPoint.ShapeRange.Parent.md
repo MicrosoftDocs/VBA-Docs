@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Parent Property (PowerPoint)
+title: ShapeRange.Parent property (PowerPoint)
 keywords: vbapp10.chm548001
 f1_keywords:
 - vbapp10.chm548001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Parent Property (PowerPoint)
+# ShapeRange.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

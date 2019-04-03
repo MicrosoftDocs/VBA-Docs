@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.Parent Property (Project)
+title: TaskDependency.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependency.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.Parent Property (Project)
+# TaskDependency.Parent property (Project)
 
 Gets the parent of the  **TaskDependency** object. Read-only **Task**.
 

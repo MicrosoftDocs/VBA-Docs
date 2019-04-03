@@ -1,5 +1,5 @@
 ---
-title: Project.YearLabelDisplay Property (Project)
+title: Project.YearLabelDisplay property (Project)
 keywords: vbapj.chm132835
 f1_keywords:
 - vbapj.chm132835
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.YearLabelDisplay Property (Project)
+# Project.YearLabelDisplay property (Project)
 
 Gets or sets how the year label displays in rates. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `YearLabelDisplay`
+_expression_. `YearLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

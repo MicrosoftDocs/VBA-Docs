@@ -1,5 +1,5 @@
 ---
-title: Project.PhoneticType Property (Project)
+title: Project.PhoneticType property (Project)
 keywords: vbapj.chm132499
 f1_keywords:
 - vbapj.chm132499
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.PhoneticType Property (Project)
+# Project.PhoneticType property (Project)
 
 Gets or sets the type of characters used to display phonetic information. Read/write  **PjPhoneticType**.
 
 
 ## Syntax
 
- _expression_. `PhoneticType`
+_expression_. `PhoneticType`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

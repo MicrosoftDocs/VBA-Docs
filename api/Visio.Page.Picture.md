@@ -1,5 +1,5 @@
 ---
-title: Page.Picture Property (Visio)
+title: Page.Picture property (Visio)
 keywords: vis_sdr.chm10950765
 f1_keywords:
 - vis_sdr.chm10950765
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Picture Property (Visio)
+# Page.Picture property (Visio)
 
 Returns a picture that represents an enhanced metafile (EMF) contained in a master, shape, selection, or page. Read-only.
 
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

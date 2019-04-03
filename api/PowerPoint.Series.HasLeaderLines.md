@@ -1,5 +1,5 @@
 ---
-title: Series.HasLeaderLines Property (PowerPoint)
+title: Series.HasLeaderLines property (PowerPoint)
 keywords: vbapp10.chm66930
 f1_keywords:
 - vbapp10.chm66930
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.HasLeaderLines Property (PowerPoint)
+# Series.HasLeaderLines property (PowerPoint)
 
  **True** if the series has leader lines. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasLeaderLines`
+_expression_. `HasLeaderLines`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

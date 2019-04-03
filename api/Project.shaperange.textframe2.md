@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextFrame2 Property (Project)
+title: ShapeRange.TextFrame2 property (Project)
 ms.prod: project-server
 ms.assetid: 12cc5f21-09c5-adea-1253-40a6eaf17761
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.TextFrame2 Property (Project)
+# ShapeRange.TextFrame2 property (Project)
 Gets a  **TextFrame2** object that contains the text in a text frame and the members that control the alignment, anchoring, and other features of the text frame. Read-only **[TextFrame2](https://msdn.microsoft.com/library/office/ff822136%28v=office.15%29)**.
 
 ## Syntax
 
- _expression_. `TextFrame2`
+_expression_. `TextFrame2`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeAssignmentChange Event (Project)
+title: Application.ProjectBeforeAssignmentChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentChange
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeAssignmentChange Event (Project)
+# Application.ProjectBeforeAssignmentChange event (Project)
 
 Occurs before the user changes the value of an assignment field.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeAssignmentChange`( `_asg_`, `_Field_`, `_NewVal_`, `_Cancel_` )
+_expression_. `ProjectBeforeAssignmentChange`( `_asg_`, `_Field_`, `_NewVal_`, `_Cancel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

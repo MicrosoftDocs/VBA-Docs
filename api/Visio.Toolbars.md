@@ -1,5 +1,5 @@
 ---
-title: Toolbars Object (Visio)
+title: Toolbars object (Visio)
 keywords: vis_sdr.chm10285
 f1_keywords:
 - vis_sdr.chm10285
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbars Object (Visio)
+# Toolbars object (Visio)
 
 Includes a  **Toolbar** object for each toolbar in a window context.
 

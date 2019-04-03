@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ApplyThemesOnShapeAdd Property (Visio)
+title: ApplicationSettings.ApplyThemesOnShapeAdd property (Visio)
 keywords: vis_sdr.chm16260610
 f1_keywords:
 - vis_sdr.chm16260610
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ApplyThemesOnShapeAdd Property (Visio)
+# ApplicationSettings.ApplyThemesOnShapeAdd property (Visio)
 
 Gets or sets whether to apply themes to new shapes when they are added to the drawing page. Read/write.
 
 
 ## Syntax
 
- _expression_. `ApplyThemesOnShapeAdd`
+_expression_. `ApplyThemesOnShapeAdd`
 
  _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

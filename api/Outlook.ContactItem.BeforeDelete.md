@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BeforeDelete Event (Outlook)
+title: ContactItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BeforeDelete Event (Outlook)
+# ContactItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 
@@ -18,7 +18,7 @@ Occurs before an item (which is an instance of the parent object) is deleted.
 
 _expression_. `BeforeDelete`( `_Item_` , `_Cancel_` )
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

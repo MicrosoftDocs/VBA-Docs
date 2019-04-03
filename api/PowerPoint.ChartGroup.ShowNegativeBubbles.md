@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.ShowNegativeBubbles Property (PowerPoint)
+title: ChartGroup.ShowNegativeBubbles property (PowerPoint)
 keywords: vbapp10.chm692002
 f1_keywords:
 - vbapp10.chm692002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.ShowNegativeBubbles Property (PowerPoint)
+# ChartGroup.ShowNegativeBubbles property (PowerPoint)
 
  **True** if negative bubbles are shown for the chart group. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowNegativeBubbles`
+_expression_. `ShowNegativeBubbles`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

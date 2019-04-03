@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AutoAdjustRightIndent`
+_expression_. `AutoAdjustRightIndent`
 
  _expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 

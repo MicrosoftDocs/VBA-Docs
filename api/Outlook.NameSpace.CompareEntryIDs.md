@@ -1,5 +1,5 @@
 ---
-title: NameSpace.CompareEntryIDs Method (Outlook)
+title: NameSpace.CompareEntryIDs method (Outlook)
 keywords: vbaol11.chm794
 f1_keywords:
 - vbaol11.chm794
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.CompareEntryIDs Method (Outlook)
+# NameSpace.CompareEntryIDs method (Outlook)
 
 Returns a  **Boolean** value that indicates if two entry ID values refer to the same Outlook item.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates if two entry ID values refer to the 
 
 _expression_. `CompareEntryIDs`( `_FirstEntryID_` , `_SecondEntryID_` )
 
- _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
+ _expression_ An expression that returns a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters

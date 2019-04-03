@@ -21,7 +21,7 @@ Runs the Auto_Open, Auto_Close, Auto_Activate, or Auto_Deactivate macro attached
 
 _expression_. `RunAutoMacros`( `_Which_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Which_|Required| **[xlRunAutoMacro](Excel.XlRunAutoMacro.md)**|Specifies the automatic macro to run.|
+| _Which_|Required| **[XlRunAutoMacro](Excel.XlRunAutoMacro.md)**|Specifies the automatic macro to run.|
 
 ## Remarks
 

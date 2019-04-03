@@ -1,5 +1,5 @@
 ---
-title: ResourceGroups.Item Property (Project)
+title: ResourceGroups.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.ResourceGroups.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ResourceGroups.Item Property (Project)
+# ResourceGroups.Item property (Project)
 
 Gets a single  **Group** object from the **ResourceGroups** collection. Read-only **Group**.
 

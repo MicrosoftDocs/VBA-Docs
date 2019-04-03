@@ -1,5 +1,5 @@
 ---
-title: Page.ReaderSpread Property (Publisher)
+title: Page.ReaderSpread property (Publisher)
 keywords: vbapb10.chm393238
 f1_keywords:
 - vbapb10.chm393238
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.ReaderSpread Property (Publisher)
+# Page.ReaderSpread property (Publisher)
 
 Returns a  **[ReaderSpread](Publisher.ReaderSpread.md)** object that represents the reader spread of the specified page.
 
 
 ## Syntax
 
- _expression_. **ReaderSpread**
+ _expression_.**ReaderSpread**
 
  _expression_ A variable that represents a  **Page** object.
 

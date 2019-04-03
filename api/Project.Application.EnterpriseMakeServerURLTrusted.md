@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseMakeServerURLTrusted Method (Project)
+title: Application.EnterpriseMakeServerURLTrusted method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.EnterpriseMakeServerURLTrusted
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseMakeServerURLTrusted Method (Project)
+# Application.EnterpriseMakeServerURLTrusted method (Project)
 
 When no projects are open, adds the  **Project Server URL** specified in the **Account Properties** dialog box to the **Trusted sites** zone in Microsoft Internet Explorer. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `EnterpriseMakeServerURLTrusted`
+_expression_. `EnterpriseMakeServerURLTrusted`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

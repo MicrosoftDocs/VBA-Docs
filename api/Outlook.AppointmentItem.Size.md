@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Size Property (Outlook)
+title: AppointmentItem.Size property (Outlook)
 keywords: vbaol11.chm864
 f1_keywords:
 - vbaol11.chm864
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Size Property (Outlook)
+# AppointmentItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
 _expression_. `Size`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: NavigationGroup.Name Property (Outlook)
+title: NavigationGroup.Name property (Outlook)
 keywords: vbaol11.chm2888
 f1_keywords:
 - vbaol11.chm2888
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroup.Name Property (Outlook)
+# NavigationGroup.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the **[NavigationGroup](Outlook.NavigationGroup.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the display name for the **[
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [NavigationGroup](./Outlook.NavigationGroup.md) object.
+_expression_ A variable that represents a [NavigationGroup](Outlook.NavigationGroup.md) object.
 
 
 ## Remarks

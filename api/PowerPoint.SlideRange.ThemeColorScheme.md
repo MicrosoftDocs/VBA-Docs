@@ -1,5 +1,5 @@
 ---
-title: SlideRange.ThemeColorScheme Property (PowerPoint)
+title: SlideRange.ThemeColorScheme property (PowerPoint)
 keywords: vbapp10.chm532040
 f1_keywords:
 - vbapp10.chm532040
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.ThemeColorScheme Property (PowerPoint)
+# SlideRange.ThemeColorScheme property (PowerPoint)
 
 Returns a  **ThemeColorScheme** object that represents the color scheme associated with the specified range of slides. Read-only.
 
 
 ## Syntax
 
- _expression_. `ThemeColorScheme`
+_expression_. `ThemeColorScheme`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 

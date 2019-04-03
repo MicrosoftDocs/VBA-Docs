@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.AssistantName Property (Outlook)
+title: ExchangeUser.AssistantName property (Outlook)
 keywords: vbaol11.chm2086
 f1_keywords:
 - vbaol11.chm2086
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.AssistantName Property (Outlook)
+# ExchangeUser.AssistantName property (Outlook)
 
 Returns a  **String** representing the name of the assistant for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the name of the assistant for the **[Exchange
 
 _expression_. `AssistantName`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

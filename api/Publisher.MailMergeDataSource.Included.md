@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Included Property (Publisher)
+title: MailMergeDataSource.Included property (Publisher)
 keywords: vbapb10.chm6291465
 f1_keywords:
 - vbapb10.chm6291465
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.Included Property (Publisher)
+# MailMergeDataSource.Included property (Publisher)
 
  **True** if a record is included in a mail merge. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Included**
+ _expression_.**Included**
 
  _expression_ A variable that represents an  **MailMergeDataSource** object.
 

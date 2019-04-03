@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Underline Property (Outlook)
+title: ViewFont.Underline property (Outlook)
 keywords: vbaol11.chm2700
 f1_keywords:
 - vbaol11.chm2700
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# ViewFont.Underline Property (Outlook)
+# ViewFont.Underline property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates if the font is underlined in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Underline`
+_expression_. `Underline`
 
-_expression_ A variable that represents a [ViewFont](./Outlook.ViewFont.md) object.
+_expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 
 
 ## See also

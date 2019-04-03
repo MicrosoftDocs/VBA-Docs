@@ -1,5 +1,5 @@
 ---
-title: FromRssFeedRuleCondition.Enabled Property (Outlook)
+title: FromRssFeedRuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm3257
 f1_keywords:
 - vbaol11.chm3257
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FromRssFeedRuleCondition.Enabled Property (Outlook)
+# FromRssFeedRuleCondition.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule condition is enabled. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that determines if the rule condition is enabled.
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents a [FromRssFeedRuleCondition](./Outlook.FromRssFeedRuleCondition.md) object.
+_expression_ A variable that represents a [FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md) object.
 
 
 ## Remarks

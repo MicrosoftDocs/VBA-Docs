@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Inspector Property (Outlook)
+title: FormRegion.Inspector property (Outlook)
 keywords: vbaol11.chm2394
 f1_keywords:
 - vbaol11.chm2394
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Inspector Property (Outlook)
+# FormRegion.Inspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object representing the Inspector that hosts the form region. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object representing the Inspec
 
 _expression_. `Inspector`
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks

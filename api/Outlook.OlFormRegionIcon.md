@@ -1,5 +1,5 @@
 ---
-title: OlFormRegionIcon Enumeration (Outlook)
+title: OlFormRegionIcon enumeration (Outlook)
 keywords: vbaol11.chm3306
 f1_keywords:
 - vbaol11.chm3306
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormRegionIcon Enumeration (Outlook)
+# OlFormRegionIcon enumeration (Outlook)
 
 Types of icons that Outlook can display for an item that uses a specified replacement form region.
 

@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTasks.PercentComplete Property (PowerPoint)
+title: ResampleMediaTasks.PercentComplete property (PowerPoint)
 keywords: vbapp10.chm728005
 f1_keywords:
 - vbapp10.chm728005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTasks.PercentComplete Property (PowerPoint)
+# ResampleMediaTasks.PercentComplete property (PowerPoint)
 
 Returns the percentage of completion of the sample. Read-only.
 
 
 ## Syntax
 
- _expression_. `PercentComplete`
+_expression_. `PercentComplete`
 
  _expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.ToString Property (Visio)
+title: KeyboardEvent.ToString property (Visio)
 keywords: vis_sdr.chm17051505
 f1_keywords:
 - vis_sdr.chm17051505
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent.ToString Property (Visio)
+# KeyboardEvent.ToString property (Visio)
 
 Returns a string that represents the properties of a  **KeyboardEvent** or **MouseEvent** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToString`
+_expression_. `ToString`
 
  _expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
 

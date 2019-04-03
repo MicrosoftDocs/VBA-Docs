@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `MatchFuzzyIterationMark`
+_expression_. `MatchFuzzyIterationMark`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

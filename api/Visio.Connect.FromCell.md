@@ -1,5 +1,5 @@
 ---
-title: Connect.FromCell Property (Visio)
+title: Connect.FromCell property (Visio)
 keywords: vis_sdr.chm10313575
 f1_keywords:
 - vis_sdr.chm10313575
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Connect.FromCell Property (Visio)
+# Connect.FromCell property (Visio)
 
 Returns the cell from which a connection originates. Read-only.
 
 
 ## Syntax
 
- _expression_. `FromCell`
+_expression_. `FromCell`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 

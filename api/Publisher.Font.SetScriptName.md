@@ -1,5 +1,5 @@
 ---
-title: Font.SetScriptName Method (Publisher)
+title: Font.SetScriptName method (Publisher)
 keywords: vbapb10.chm5374001
 f1_keywords:
 - vbapb10.chm5374001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.SetScriptName Method (Publisher)
+# Font.SetScriptName method (Publisher)
 
 Sets the name of the font script to use in a text range.
 
 
 ## Syntax
 
- _expression_. **SetScriptName**(**_Script_**,  **_FontName_**)
+ _expression_.**SetScriptName**(**_Script_**,  **_FontName_**)
 
  _expression_ A variable that represents a  **Font** object.
 

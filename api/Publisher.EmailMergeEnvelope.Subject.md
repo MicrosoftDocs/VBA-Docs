@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.Subject Property (Publisher)
+title: EmailMergeEnvelope.Subject property (Publisher)
 keywords: vbapb10.chm9043973
 f1_keywords:
 - vbapb10.chm9043973
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.Subject Property (Publisher)
+# EmailMergeEnvelope.Subject property (Publisher)
 
 Gets or sets the subject line of the merged email message. Read/write.
 
 
 ## Syntax
 
- _expression_. **Subject**
+ _expression_.**Subject**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 

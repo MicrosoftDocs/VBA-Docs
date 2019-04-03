@@ -1,5 +1,5 @@
 ---
-title: Comments.Item Method (PowerPoint)
+title: Comments.Item method (PowerPoint)
 keywords: vbapp10.chm641003
 f1_keywords:
 - vbapp10.chm641003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comments.Item Method (PowerPoint)
+# Comments.Item method (PowerPoint)
 
 Returns a single  **Comment** object from the specified **Comments** collection.
 

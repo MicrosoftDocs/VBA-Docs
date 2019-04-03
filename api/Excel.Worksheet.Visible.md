@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Worksheet.Visible property (Excel)
 
-Returns or sets an **[xlSheetVisibility](Excel.XlSheetVisibility.md)** value that determines whether the object is visible.
+Returns or sets an **[XlSheetVisibility](Excel.XlSheetVisibility.md)** value that determines whether the object is visible.
 
 
 ## Syntax
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
 
 
 ## Example

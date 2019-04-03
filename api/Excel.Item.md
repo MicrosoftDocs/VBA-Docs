@@ -42,32 +42,32 @@ _expression_. `Item`( `_Type_`,  `_AxisGroup_`)
 
 Item method as it applies to the  **ChartGroups** object.
 Returns a single ChartGroup object from a ChartGroups collection.
-_expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
  _expression_ Required. An expression that returns a [ChartGroups](Excel.ChartGroups(object).md) collection.
  **Index**Required  **Variant**. The index number of the chart group.
 Item method as it applies to the  **DataLabels** object.
 Returns a single DataLabel object from a DataLabels collection.
-_expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
  _expression_ Required. An expression that returns a [DataLabels](Excel.DataLabels(object).md) collection.
  **Index**Required  **Variant**. The name or index number of the data label.
 Item method as it applies to the  **LegendEntries** object.
 Returns a single LegendEntry object from a LegendEntries collection.
-_expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
  _expression_ Required. An expression that returns a [LegendEntries](Excel.LegendEntries(object).md) collection.
  **Index**Required  **Variant**. The index number of the legend entry.
 Item method as it applies to the  **Points** object.
 Returns a single Point object from a Points collection.
-_expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
  _expression_ Required. An expression that returns a [Points](Excel.Points(object).md) collection.
  **Index**Required  **Long**. The index number of the point.
 Item method as it applies to the  **SeriesCollection** object.
 Returns a single Series object from a SeriesCollection collection.
-_expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
  _expression_ Required. An expression that returns a [SeriesCollection](Excel.SeriesCollection.md) collection.
  **Index**Required  **Variant**. The name or index number of the series.
 Item method as it applies to the  **Trendlines** object.
 Returns a single Trendline object from a Trendlines collection.
-_expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
  _expression_ Required. An expression that returns a [Trendlines](Excel.Trendlines(object).md) collection.
  **Index**Optional  **Variant**. The name or index number of the trendline.
 

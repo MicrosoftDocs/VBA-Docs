@@ -1,5 +1,5 @@
 ---
-title: Attachment.Index Property (Outlook)
+title: Attachment.Index property (Outlook)
 keywords: vbaol11.chm2367
 f1_keywords:
 - vbaol11.chm2367
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.Index Property (Outlook)
+# Attachment.Index property (Outlook)
 
 Returns a  **Long** indicating the position of the object within the collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the position of the object within the collection.
 
 _expression_. `Index`
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Remarks

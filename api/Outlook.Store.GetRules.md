@@ -1,5 +1,5 @@
 ---
-title: Store.GetRules Method (Outlook)
+title: Store.GetRules method (Outlook)
 keywords: vbaol11.chm810
 f1_keywords:
 - vbaol11.chm810
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.GetRules Method (Outlook)
+# Store.GetRules method (Outlook)
 
 Returns a  **[Rules](Outlook.Rules.md)** collection object that contains the **[Rule](Outlook.Rule.md)** objects defined for the current session.
 
@@ -21,7 +21,7 @@ Returns a  **[Rules](Outlook.Rules.md)** collection object that contains the **[
 
 _expression_. `GetRules`
 
-_expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 ## Return value

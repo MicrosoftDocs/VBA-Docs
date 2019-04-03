@@ -1,5 +1,5 @@
 ---
-title: MailItem.ShowCategoriesDialog Method (Outlook)
+title: MailItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1374
 f1_keywords:
 - vbaol11.chm1374
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ShowCategoriesDialog Method (Outlook)
+# MailItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
@@ -21,7 +21,7 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 
 _expression_. `ShowCategoriesDialog`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Example

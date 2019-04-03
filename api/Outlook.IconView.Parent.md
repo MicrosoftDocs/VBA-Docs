@@ -1,5 +1,5 @@
 ---
-title: IconView.Parent Property (Outlook)
+title: IconView.Parent property (Outlook)
 keywords: vbaol11.chm2560
 f1_keywords:
 - vbaol11.chm2560
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Parent Property (Outlook)
+# IconView.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## See also

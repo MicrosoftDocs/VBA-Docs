@@ -1,5 +1,5 @@
 ---
-title: RulerGuide.Delete Method (Publisher)
+title: RulerGuide.Delete method (Publisher)
 keywords: vbapb10.chm655365
 f1_keywords:
 - vbapb10.chm655365
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# RulerGuide.Delete Method (Publisher)
+# RulerGuide.Delete method (Publisher)
 
 Deletes the specified object.
 
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_.**Delete**
 
  _expression_ A variable that represents a  **RulerGuide** object.
 

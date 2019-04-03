@@ -1,5 +1,5 @@
 ---
-title: Explorer.SelectAllItems Method (Outlook)
+title: Explorer.SelectAllItems method (Outlook)
 keywords: vbaol11.chm3311
 f1_keywords:
 - vbaol11.chm3311
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.SelectAllItems Method (Outlook)
+# Explorer.SelectAllItems method (Outlook)
 
 Selects all items that are contained in the current view of the active explorer. 
 

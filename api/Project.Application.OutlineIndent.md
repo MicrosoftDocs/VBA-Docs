@@ -1,5 +1,5 @@
 ---
-title: Application.OutlineIndent Method (Project)
+title: Application.OutlineIndent method (Project)
 keywords: vbapj.chm2019
 f1_keywords:
 - vbapj.chm2019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OutlineIndent Method (Project)
+# Application.OutlineIndent method (Project)
 
 Indents a task in the outline.
 
 
 ## Syntax
 
- _expression_. `OutlineIndent`( `_Levels_` )
+_expression_. `OutlineIndent`( `_Levels_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

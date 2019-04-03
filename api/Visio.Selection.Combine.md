@@ -1,5 +1,5 @@
 ---
-title: Selection.Combine Method (Visio)
+title: Selection.Combine method (Visio)
 keywords: vis_sdr.chm11116130
 f1_keywords:
 - vis_sdr.chm11116130
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Combine Method (Visio)
+# Selection.Combine method (Visio)
 
 Creates a new shape by combining selected shapes.
 
 
 ## Syntax
 
- _expression_. `Combine`
+_expression_. `Combine`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

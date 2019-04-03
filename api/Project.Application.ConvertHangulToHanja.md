@@ -1,5 +1,5 @@
 ---
-title: Application.ConvertHangulToHanja Method (Project)
+title: Application.ConvertHangulToHanja method (Project)
 keywords: vbapj.chm28
 f1_keywords:
 - vbapj.chm28
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ConvertHangulToHanja Method (Project)
+# Application.ConvertHangulToHanja method (Project)
 
 Converts all Hangul characters to Hanja and all Hanja characters to Hangul in the active project.
 
 
 ## Syntax
 
- _expression_. `ConvertHangulToHanja`
+_expression_. `ConvertHangulToHanja`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

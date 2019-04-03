@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.AttachedToText Property (Publisher)
+title: ParagraphFormat.AttachedToText property (Publisher)
 keywords: vbapb10.chm5439512
 f1_keywords:
 - vbapb10.chm5439512
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.AttachedToText Property (Publisher)
+# ParagraphFormat.AttachedToText property (Publisher)
 
  **True** if the **Font** or **ParagraphFormat** object is attached to a **TextRange** object. If the object is attached to a **TextRange** object, the document will be updated when properties of the object are changed. If the object is not attached, nothing in the document will be changed until the object is applied to a **TextRange** or **Style** object. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **AttachedToText**
+ _expression_.**AttachedToText**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

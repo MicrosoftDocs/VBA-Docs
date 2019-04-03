@@ -21,7 +21,7 @@ Builds a freeform object. Returns a  **[FreeformBuilder](Excel.FreeformBuilder.m
 
 _expression_. `BuildFreeform`( `_EditingType_` , `_X1_` , `_Y1_` )
 
-_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -41,7 +41,7 @@ FreeformBuilder
 
 ## Example
 
-This example adds a freeform with five vertices to  `myDocument`.
+This example adds a freeform with five vertices to  _myDocument_.
 
 
 ```vb

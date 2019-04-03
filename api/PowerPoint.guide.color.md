@@ -1,5 +1,5 @@
 ---
-title: Guide.Color Property (PowerPoint)
+title: Guide.Color property (PowerPoint)
 keywords: vbapp10.chm743006
 f1_keywords:
 - vbapp10.chm743006
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Guide.Color Property (PowerPoint)
+# Guide.Color property (PowerPoint)
 
 Returns a [ColorFormat](PowerPoint.ColorFormat.md) object that represents the color of the drawing guide. Read-only.
 
 
 ## Syntax
 
- _expression_. `Color`
+_expression_. `Color`
 
  _expression_ A variable that represents a 'Guide' object.
 

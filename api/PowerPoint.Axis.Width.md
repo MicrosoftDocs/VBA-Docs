@@ -1,5 +1,5 @@
 ---
-title: Axis.Width Property (PowerPoint)
+title: Axis.Width property (PowerPoint)
 keywords: vbapp10.chm682040
 f1_keywords:
 - vbapp10.chm682040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.Width Property (PowerPoint)
+# Axis.Width property (PowerPoint)
 
 Returns the width, in points, of the object. Read-only  **Double**.
 

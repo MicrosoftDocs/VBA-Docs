@@ -1,5 +1,5 @@
 ---
-title: XlPictureAppearance Enumeration (PowerPoint)
+title: XlPictureAppearance enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlPictureAppearance
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlPictureAppearance Enumeration (PowerPoint)
+# XlPictureAppearance enumeration (PowerPoint)
 
 Specifies how the picture should be copied.
 

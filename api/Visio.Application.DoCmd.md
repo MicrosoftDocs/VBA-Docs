@@ -1,5 +1,5 @@
 ---
-title: Application.DoCmd Method (Visio)
+title: Application.DoCmd method (Visio)
 keywords: vis_sdr.chm10016190
 f1_keywords:
 - vis_sdr.chm10016190
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DoCmd Method (Visio)
+# Application.DoCmd method (Visio)
 
 Performs the command that has the indicated command ID.
 
 
 ## Syntax
 
- _expression_. `DoCmd`( `_CommandID_` )
+_expression_. `DoCmd`( `_CommandID_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

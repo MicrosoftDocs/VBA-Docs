@@ -1,5 +1,5 @@
 ---
-title: Attachment.Class Property (Outlook)
+title: Attachment.Class property (Outlook)
 keywords: vbaol11.chm2362
 f1_keywords:
 - vbaol11.chm2362
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.Class Property (Outlook)
+# Attachment.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## See also

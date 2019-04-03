@@ -1,5 +1,5 @@
 ---
-title: Selection.Select Method (Visio)
+title: Selection.Select method (Visio)
 keywords: vis_sdr.chm11116530
 f1_keywords:
 - vis_sdr.chm11116530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Select Method (Visio)
+# Selection.Select method (Visio)
 
 Selects or clears the selection of an object.
 

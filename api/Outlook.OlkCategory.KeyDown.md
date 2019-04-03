@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.KeyDown Event (Outlook)
+title: OlkCategory.KeyDown event (Outlook)
 keywords: vbaol11.chm1000456
 f1_keywords:
 - vbaol11.chm1000456
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.KeyDown Event (Outlook)
+# OlkCategory.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 
@@ -21,7 +21,7 @@ Occurs when a user presses a key.
 
 _expression_. `KeyDown`( `_KeyCode_` , `_Shift_` )
 
-_expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## Parameters

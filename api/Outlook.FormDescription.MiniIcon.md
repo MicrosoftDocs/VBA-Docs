@@ -1,5 +1,5 @@
 ---
-title: FormDescription.MiniIcon Property (Outlook)
+title: FormDescription.MiniIcon property (Outlook)
 keywords: vbaol11.chm192
 f1_keywords:
 - vbaol11.chm192
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.MiniIcon Property (Outlook)
+# FormDescription.MiniIcon property (Outlook)
 
 Returns or sets a  **String** representing the file name of the mini-icon to be displayed for the form. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the file name of the mini-icon to be 
 
 _expression_. `MiniIcon`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## See also

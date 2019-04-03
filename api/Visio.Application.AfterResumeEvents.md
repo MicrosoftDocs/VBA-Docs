@@ -1,5 +1,5 @@
 ---
-title: Application.AfterResumeEvents Event (Visio)
+title: Application.AfterResumeEvents event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.AfterResumeEvents
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterResumeEvents Event (Visio)
+# Application.AfterResumeEvents event (Visio)
 
 Occurs after firing of events is resumed.
 

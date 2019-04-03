@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Display Method (Outlook)
+title: TaskItem.Display method (Outlook)
 keywords: vbaol11.chm1715
 f1_keywords:
 - vbaol11.chm1715
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Display Method (Outlook)
+# TaskItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
@@ -21,7 +21,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 _expression_. `Display`( `_Modal_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

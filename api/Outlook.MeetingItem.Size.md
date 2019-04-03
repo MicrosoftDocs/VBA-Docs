@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Size Property (Outlook)
+title: MeetingItem.Size property (Outlook)
 keywords: vbaol11.chm1424
 f1_keywords:
 - vbaol11.chm1424
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Size Property (Outlook)
+# MeetingItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
 _expression_. `Size`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

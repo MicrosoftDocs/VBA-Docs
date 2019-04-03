@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Orientation Property (PowerPoint)
+title: AxisTitle.Orientation property (PowerPoint)
 keywords: vbapp10.chm683006
 f1_keywords:
 - vbapp10.chm683006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Orientation Property (PowerPoint)
+# AxisTitle.Orientation property (PowerPoint)
 
 Returns or sets the text orientation. Read/write  **Long**.
 
@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)
 
 ## Remarks
 
-The value of this property can be an integer value from -90 to 90 degrees or one of the  **[xlOrientation](PowerPoint.XlOrientation.md)** constants.
+The value of this property can be an integer value from -90 to 90 degrees or one of the  **[XlOrientation](PowerPoint.XlOrientation.md)** constants.
 
 
 ## See also

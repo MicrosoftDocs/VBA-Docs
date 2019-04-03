@@ -1,5 +1,5 @@
 ---
-title: Layers.Item Property (Visio)
+title: Layers.Item property (Visio)
 keywords: vis_sdr.chm11913765
 f1_keywords:
 - vis_sdr.chm11913765
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Layers.Item Property (Visio)
+# Layers.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_NameOrIndex_` )
+_expression_. `Item`( `_NameOrIndex_` )
 
  _expression_ A variable that represents a [Layers](./Visio.Layers.md) collection.
 

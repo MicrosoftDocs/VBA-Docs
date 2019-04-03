@@ -1,5 +1,5 @@
 ---
-title: Pages.EventList Property (Visio)
+title: Pages.EventList property (Visio)
 keywords: vis_sdr.chm11013480
 f1_keywords:
 - vis_sdr.chm11013480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Pages.EventList Property (Visio)
+# Pages.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `EventList`
+_expression_. `EventList`
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 

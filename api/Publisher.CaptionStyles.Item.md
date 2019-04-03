@@ -1,5 +1,5 @@
 ---
-title: CaptionStyles.Item Method (Publisher)
+title: CaptionStyles.Item method (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.CaptionStyles.Item
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# CaptionStyles.Item Method (Publisher)
+# CaptionStyles.Item method (Publisher)
 
 Returns the specified  **[CaptionStyle](Publisher.CaptionStyle.md)** object from a **CaptionStyles** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **CaptionStyles** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Rules.IsRssRulesProcessingEnabled Property (Outlook)
+title: Rules.IsRssRulesProcessingEnabled property (Outlook)
 keywords: vbaol11.chm3249
 f1_keywords:
 - vbaol11.chm3249
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rules.IsRssRulesProcessingEnabled Property (Outlook)
+# Rules.IsRssRulesProcessingEnabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates whether RSS rules processing has been enabled. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that indicates whether RSS rules processing has b
 
 _expression_. `IsRssRulesProcessingEnabled`
 
-_expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
+_expression_ A variable that represents a [Rules](Outlook.Rules.md) object.
 
 
 ## Remarks

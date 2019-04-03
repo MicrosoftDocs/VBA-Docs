@@ -1,5 +1,5 @@
 ---
-title: Row.Session Property (Outlook)
+title: Row.Session property (Outlook)
 keywords: vbaol11.chm2241
 f1_keywords:
 - vbaol11.chm2241
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Session Property (Outlook)
+# Row.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [Row](./Outlook.Row.md) object.
+_expression_ A variable that represents a [Row](Outlook.Row.md) object.
 
 
 ## Remarks

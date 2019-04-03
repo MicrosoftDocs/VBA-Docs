@@ -1,5 +1,5 @@
 ---
-title: PageSetup.NotesOrientation Property (PowerPoint)
+title: PageSetup.NotesOrientation property (PowerPoint)
 keywords: vbapp10.chm527007
 f1_keywords:
 - vbapp10.chm527007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.NotesOrientation Property (PowerPoint)
+# PageSetup.NotesOrientation property (PowerPoint)
 
 Returns or sets the on-screen and printed orientation of notes pages, handouts, and outlines for the specified presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `NotesOrientation`
+_expression_. `NotesOrientation`
 
  _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 

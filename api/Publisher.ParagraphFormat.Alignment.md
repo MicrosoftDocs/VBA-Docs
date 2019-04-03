@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Alignment Property (Publisher)
+title: ParagraphFormat.Alignment property (Publisher)
 keywords: vbapb10.chm5439491
 f1_keywords:
 - vbapb10.chm5439491
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Alignment Property (Publisher)
+# ParagraphFormat.Alignment property (Publisher)
 
 Returns or sets a  **PbParagraphAlignmentType** constant that represents the alignment for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **Alignment**
+ _expression_.**Alignment**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

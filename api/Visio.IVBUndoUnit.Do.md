@@ -1,5 +1,5 @@
 ---
-title: IVBUndoUnit.Do Method (Visio)
+title: IVBUndoUnit.Do method (Visio)
 keywords: vis_sdr.chm17360155
 f1_keywords:
 - vis_sdr.chm17360155
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# IVBUndoUnit.Do Method (Visio)
+# IVBUndoUnit.Do method (Visio)
 
 Called by the Undo Manager to tell an undo unit to perform its action.
 
 
 ## Syntax
 
- _expression_. `Do`( `_pMgr_` )
+_expression_. `Do`( `_pMgr_` )
 
  _expression_ A variable that represents an 'IVBUndoUnit' object.
 

@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups Object (Outlook)
+title: OutlookBarGroups object (Outlook)
 keywords: vbaol11.chm3002
 f1_keywords:
 - vbaol11.chm3002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroups Object (Outlook)
+# OutlookBarGroups object (Outlook)
 
 Contains a set of  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** objects representing all groups in the Outlook Bar.
 
@@ -69,6 +69,6 @@ Set myGroups = myOutlookBarStorage.Groups
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

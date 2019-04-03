@@ -1,5 +1,5 @@
 ---
-title: Application.SelectRowStart Method (Project)
+title: Application.SelectRowStart method (Project)
 keywords: vbapj.chm2043
 f1_keywords:
 - vbapj.chm2043
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectRowStart Method (Project)
+# Application.SelectRowStart method (Project)
 
 Selects the first cell in the row containing the active cell.
 
 
 ## Syntax
 
- _expression_. `SelectRowStart`( `_Extend_` )
+_expression_. `SelectRowStart`( `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

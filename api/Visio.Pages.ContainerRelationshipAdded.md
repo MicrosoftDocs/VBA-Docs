@@ -1,5 +1,5 @@
 ---
-title: Pages.ContainerRelationshipAdded Event (Visio)
+title: Pages.ContainerRelationshipAdded event (Visio)
 keywords: vis_sdr.chm11062065
 f1_keywords:
 - vis_sdr.chm11062065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.ContainerRelationshipAdded Event (Visio)
+# Pages.ContainerRelationshipAdded event (Visio)
 
 Occurs when a new container relationship is added to the document.
 

@@ -1,5 +1,5 @@
 ---
-title: TableView.Application Property (Outlook)
+title: TableView.Application property (Outlook)
 keywords: vbaol11.chm2499
 f1_keywords:
 - vbaol11.chm2499
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Application Property (Outlook)
+# TableView.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## See also

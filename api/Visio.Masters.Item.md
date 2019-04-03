@@ -1,5 +1,5 @@
 ---
-title: Masters.Item Property (Visio)
+title: Masters.Item property (Visio)
 keywords: vis_sdr.chm10813765
 f1_keywords:
 - vis_sdr.chm10813765
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Masters.Item Property (Visio)
+# Masters.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_NameUIDOrIndex_` )
+_expression_. `Item`( `_NameUIDOrIndex_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

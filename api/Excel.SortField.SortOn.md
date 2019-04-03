@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # SortField.SortOn property (Excel)
 
-Returns or sets what attribute of the cell to sort on . Read/write  **[xlSortOn](Excel.XlSortOn.md)**.
+Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn](Excel.XlSortOn.md)**.
 
 
 ## Syntax
 
 _expression_. `SortOn`
 
-_expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
+_expression_ A variable that represents a [SortField](Excel.SortField.md) object.
 
 
 ## Remarks

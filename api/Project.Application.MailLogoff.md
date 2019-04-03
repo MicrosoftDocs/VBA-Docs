@@ -1,5 +1,5 @@
 ---
-title: Application.MailLogoff Method (Project)
+title: Application.MailLogoff method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.MailLogoff
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MailLogoff Method (Project)
+# Application.MailLogoff method (Project)
 
 Closes an established MAPI mail session.
 
 
 ## Syntax
 
- _expression_. `MailLogoff`
+_expression_. `MailLogoff`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

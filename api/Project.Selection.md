@@ -1,5 +1,5 @@
 ---
-title: Selection Object (Project)
+title: Selection object (Project)
 ms.prod: project-server
 api_name:
 - Project.Selection
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Selection Object (Project)
+# Selection object (Project)
 
 
 

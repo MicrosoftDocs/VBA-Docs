@@ -17,7 +17,7 @@ Returns or sets a  **Single** that specifies the distance, in points, of the top
 
 ## Syntax
 
-_expression_. **ScrollTop**
+_expression_.**ScrollTop**
 
 _expression_ A variable that represents a  **Frame** object.
 

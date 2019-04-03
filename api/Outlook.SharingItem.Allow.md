@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Allow Method (Outlook)
+title: SharingItem.Allow method (Outlook)
 keywords: vbaol11.chm691
 f1_keywords:
 - vbaol11.chm691
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Allow Method (Outlook)
+# SharingItem.Allow method (Outlook)
 
 Allows a sharing request and sends a sharing response to the sender of the  **[SharingItem](Outlook.SharingItem.md)**.
 
@@ -21,7 +21,7 @@ Allows a sharing request and sends a sharing response to the sender of the  **[S
 
 _expression_. `Allow`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

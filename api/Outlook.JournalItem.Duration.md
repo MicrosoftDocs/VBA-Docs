@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Duration Property (Outlook)
+title: JournalItem.Duration property (Outlook)
 keywords: vbaol11.chm1270
 f1_keywords:
 - vbaol11.chm1270
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Duration Property (Outlook)
+# JournalItem.Duration property (Outlook)
 
 Returns or sets a  **Long** indicating the duration (in minutes) of the **[JournalItem](Outlook.JournalItem.md)** Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the duration (in minutes) of the **[Journ
 
 _expression_. `Duration`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

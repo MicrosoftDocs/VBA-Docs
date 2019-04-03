@@ -19,7 +19,7 @@ Sets the source data range for the chart.
 
 ## Syntax
 
- _expression_. `SetSourceData`( `_Source_` , `_PlotBy_` )
+_expression_. `SetSourceData`( `_Source_` , `_PlotBy_` )
 
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
@@ -31,7 +31,7 @@ Sets the source data range for the chart.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **String**|The address of the chart data range that contains the source data.|
-| _PlotBy_|Optional| **Variant**|Specifies the way the data will be plotted. Can be either of the following  **[xlRowCol](Word.xlrowcol.md)** constants: **xlColumns** or **xlRows**.|
+| _PlotBy_|Optional| **Variant**|Specifies the way the data will be plotted. Can be either of the following  **[XlRowCol](Word.xlrowcol.md)** constants: **xlColumns** or **xlRows**.|
 
 ## Example
 

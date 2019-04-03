@@ -1,5 +1,5 @@
 ---
-title: Presentation.ApplyTemplate2 Method (PowerPoint)
+title: Presentation.ApplyTemplate2 method (PowerPoint)
 keywords: vbapp10.chm583124
 f1_keywords:
 - vbapp10.chm583124
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.ApplyTemplate2 Method (PowerPoint)
+# Presentation.ApplyTemplate2 method (PowerPoint)
 
 Applies a design template and theme variant to the presentation.
 
 
 ## Syntax
 
- _expression_. `ApplyTemplate2`_(FileName,_ _Variant)_
+_expression_. `ApplyTemplate2`_(FileName,_ _Variant)_
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

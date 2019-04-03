@@ -1,5 +1,5 @@
 ---
-title: TextRange.Count Property (PowerPoint)
+title: TextRange.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Count Property (PowerPoint)
+# TextRange.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

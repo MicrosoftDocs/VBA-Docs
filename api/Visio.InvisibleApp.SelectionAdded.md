@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.SelectionAdded Event (Visio)
+title: InvisibleApp.SelectionAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SelectionAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.SelectionAdded Event (Visio)
+# InvisibleApp.SelectionAdded event (Visio)
 
 Occurs after one or more shapes are added to a document.
 

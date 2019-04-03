@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Location Property (Outlook)
+title: AppointmentItem.Location property (Outlook)
 keywords: vbaol11.chm882
 f1_keywords:
 - vbaol11.chm882
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Location Property (Outlook)
+# AppointmentItem.Location property (Outlook)
 
 Returns or sets a  **String** representing the specific office location (for example, Building 1 Room 1 or Suite 123) for the appointment. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the specific office location (for exa
 
 _expression_. `Location`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: TaskGroups2.Parent Property (Project)
+title: TaskGroups2.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskGroups2.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskGroups2.Parent Property (Project)
+# TaskGroups2.Parent property (Project)
 
 Gets the parent of the object. Read-only  **Project**.
 

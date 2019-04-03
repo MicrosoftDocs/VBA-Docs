@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CoAuthUpdates.Count property (Word)
 
-Returns the number of items in the [CoAuthUpdates](./overview/Word.md) collection. Read-only.
+Returns the number of items in the [CoAuthUpdates](overview/Word.md) collection. Read-only.
 
 
 ## Syntax
@@ -38,6 +38,6 @@ MsgBox "The active document contains " & _
 ## See also
 
 
-[CoAuthUpdates Object](./overview/Word.md)
+[CoAuthUpdates Object](overview/Word.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

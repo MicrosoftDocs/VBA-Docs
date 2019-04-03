@@ -1,5 +1,5 @@
 ---
-title: Shapes.Range Method (Publisher)
+title: Shapes.Range method (Publisher)
 keywords: vbapb10.chm2162725
 f1_keywords:
 - vbapb10.chm2162725
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Range Method (Publisher)
+# Shapes.Range method (Publisher)
 
 Returns a **[ShapeRange](Publisher.ShapeRange.md)** object that represents a subset of the shapes in a **Shapes** collection.
 
 
 ## Syntax
 
-_expression_. **Range**(**_Index_**)
+_expression_.**Range** (_Index_)
 
-_expression_ A variable that represents a **Shapes** object.
+_expression_ A variable that represents a **[Shapes](Publisher.Shapes.md)** object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeAssignmentDelete2 Event (Project)
+title: Application.ProjectBeforeAssignmentDelete2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentDelete2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeAssignmentDelete2 Event (Project)
+# Application.ProjectBeforeAssignmentDelete2 event (Project)
 
 Occurs before an assignment is removed or replaced. Uses the  **EventInfo** object parameter.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeAssignmentDelete2`( `_asg_`, `_Info_` )
+_expression_. `ProjectBeforeAssignmentDelete2`( `_asg_`, `_Info_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

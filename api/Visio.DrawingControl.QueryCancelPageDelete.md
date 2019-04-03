@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.QueryCancelPageDelete Event (Visio)
+title: DrawingControl.QueryCancelPageDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelPageDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.QueryCancelPageDelete Event (Visio)
+# DrawingControl.QueryCancelPageDelete event (Visio)
 
 Occurs before the application deletes a page in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

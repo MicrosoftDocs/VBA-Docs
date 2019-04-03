@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.GotoSlide Method (PowerPoint)
+title: SlideShowView.GotoSlide method (PowerPoint)
 keywords: vbapp10.chm513021
 f1_keywords:
 - vbapp10.chm513021
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.GotoSlide Method (PowerPoint)
+# SlideShowView.GotoSlide method (PowerPoint)
 
 Switches to the specified slide during a slide show. You can specify whether you want the animation effects to be rerun.
 
 
 ## Syntax
 
- _expression_. `GotoSlide`( `_Index_`, `_ResetSlide_` )
+_expression_. `GotoSlide`( `_Index_`, `_ResetSlide_` )
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

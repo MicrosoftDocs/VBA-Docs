@@ -1,5 +1,5 @@
 ---
-title: Reminders.Count Property (Outlook)
+title: Reminders.Count property (Outlook)
 keywords: vbaol11.chm570
 f1_keywords:
 - vbaol11.chm570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.Count Property (Outlook)
+# Reminders.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Application.SetCustomToolbars Method (Visio)
+title: Application.SetCustomToolbars method (Visio)
 keywords: vis_sdr.chm10016565
 f1_keywords:
 - vis_sdr.chm10016565
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SetCustomToolbars Method (Visio)
+# Application.SetCustomToolbars method (Visio)
 
 Replaces the current built-in or custom toolbars of an application or document.
 
 
 ## Syntax
 
- _expression_. `SetCustomToolbars`( `_ToolbarsObject_` )
+_expression_. `SetCustomToolbars`( `_ToolbarsObject_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

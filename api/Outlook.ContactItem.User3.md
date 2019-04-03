@@ -1,5 +1,5 @@
 ---
-title: ContactItem.User3 Property (Outlook)
+title: ContactItem.User3 property (Outlook)
 keywords: vbaol11.chm1072
 f1_keywords:
 - vbaol11.chm1072
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.User3 Property (Outlook)
+# ContactItem.User3 property (Outlook)
 
 Returns or sets a  **String** specifying the third field on the Contacts form intended for miscellaneous use for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** specifying the third field on the Contacts form in
 
 _expression_. `User3`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

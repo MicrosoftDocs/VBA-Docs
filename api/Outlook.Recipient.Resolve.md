@@ -1,5 +1,5 @@
 ---
-title: Recipient.Resolve Method (Outlook)
+title: Recipient.Resolve method (Outlook)
 keywords: vbaol11.chm2358
 f1_keywords:
 - vbaol11.chm2358
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Resolve Method (Outlook)
+# Recipient.Resolve method (Outlook)
 
 Attempts to resolve a  **[Recipient](Outlook.Recipient.md)** object against the Address Book.
 
@@ -21,7 +21,7 @@ Attempts to resolve a  **[Recipient](Outlook.Recipient.md)** object against the 
 
 _expression_. `Resolve`
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: PropertyPages.Remove Method (Outlook)
+title: PropertyPages.Remove method (Outlook)
 keywords: vbaol11.chm168
 f1_keywords:
 - vbaol11.chm168
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPages.Remove Method (Outlook)
+# PropertyPages.Remove method (Outlook)
 
 Removes an object from the collection.
 
@@ -21,7 +21,7 @@ Removes an object from the collection.
 
 _expression_. `Remove` `_Index_`
 
-_expression_ A variable that represents a [PropertyPages](./Outlook.PropertyPages.md) object.
+_expression_ A variable that represents a [PropertyPages](Outlook.PropertyPages.md) object.
 
 
 ## Parameters

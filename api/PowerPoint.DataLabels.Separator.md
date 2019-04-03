@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Separator Property (PowerPoint)
+title: DataLabels.Separator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Separator
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.Separator Property (PowerPoint)
+# DataLabels.Separator property (PowerPoint)
 
 Sets or returns the separator for the data labels on a chart. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Separator`
+_expression_. `Separator`
 
 _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 

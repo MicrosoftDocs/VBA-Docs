@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.StartupPaths Property (Visio)
+title: InvisibleApp.StartupPaths property (Visio)
 keywords: vis_sdr.chm17514415
 f1_keywords:
 - vis_sdr.chm17514415
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.StartupPaths Property (Visio)
+# InvisibleApp.StartupPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for third-party and user add-ons to run when the application is started. Read/write.
 
 
 ## Syntax
 
- _expression_. `StartupPaths`
+_expression_. `StartupPaths`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

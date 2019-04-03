@@ -1,5 +1,5 @@
 ---
-title: ToolbarItems.AddAt Method (Visio)
+title: ToolbarItems.AddAt method (Visio)
 keywords: vis_sdr.chm13616015
 f1_keywords:
 - vis_sdr.chm13616015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItems.AddAt Method (Visio)
+# ToolbarItems.AddAt method (Visio)
 
 Creates a new  **ToolbarItem** object at a specified index in the **ToolbarItems** collection. .
 
 
 ## Syntax
 
- _expression_. `AddAt`( `_lIndex_` )
+_expression_. `AddAt`( `_lIndex_` )
 
  _expression_ A variable that represents a [ToolbarItems](./Visio.ToolbarItems.md) object.
 

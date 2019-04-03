@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.ScrollIntoView Method (PowerPoint)
+title: DocumentWindow.ScrollIntoView method (PowerPoint)
 keywords: vbapp10.chm511029
 f1_keywords:
 - vbapp10.chm511029
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.ScrollIntoView Method (PowerPoint)
+# DocumentWindow.ScrollIntoView method (PowerPoint)
 
 Scrolls the document window so that items within a specified rectangular area are displayed in the document window or pane.
 
 
 ## Syntax
 
- _expression_. `ScrollIntoView`( `_Left_`, `_Top_`, `_Width_`, `_Height_`, `_Start_` )
+_expression_. `ScrollIntoView`( `_Left_`, `_Top_`, `_Width_`, `_Height_`, `_Start_` )
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

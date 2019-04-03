@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HiLoLines Property (PowerPoint)
+title: ChartGroup.HiLoLines property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HiLoLines
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.HiLoLines Property (PowerPoint)
+# ChartGroup.HiLoLines property (PowerPoint)
 
 Returns the high-low lines for a series on a line chart. Read-only  **[HiLoLines](PowerPoint.HiLoLines.md)**.
 
 
 ## Syntax
 
- _expression_. `HiLoLines`
+_expression_. `HiLoLines`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

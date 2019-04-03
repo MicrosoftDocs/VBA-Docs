@@ -21,7 +21,7 @@ Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextE
 
 _expression_. `PresetShape`
 
-_expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks
@@ -76,7 +76,7 @@ Setting the  **[PresetTextEffect](Excel.TextEffectFormat.PresetTextEffect.md)** 
 
 ## Example
 
-This example sets the shape of all WordArt on  `myDocument` to a chevron whose center points down.
+This example sets the shape of all WordArt on  _myDocument_ to a chevron whose center points down.
 
 
 ```vb

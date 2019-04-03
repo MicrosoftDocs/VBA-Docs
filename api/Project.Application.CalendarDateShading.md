@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarDateShading Method (Project)
+title: Application.CalendarDateShading method (Project)
 keywords: vbapj.chm2344
 f1_keywords:
 - vbapj.chm2344
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarDateShading Method (Project)
+# Application.CalendarDateShading method (Project)
 
 Determines which calendar is used when determining when and how dates are shaded in the Calendar view.
 
 
 ## Syntax
 
- _expression_. `CalendarDateShading`( `_BaseCalendarName_`, `_ResourceUniqueID_`, `_ProjectIndex_` )
+_expression_. `CalendarDateShading`( `_BaseCalendarName_`, `_ResourceUniqueID_`, `_ProjectIndex_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Page.Document Property (Visio)
+title: Page.Document property (Visio)
 keywords: vis_sdr.chm10913430
 f1_keywords:
 - vis_sdr.chm10913430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Document Property (Visio)
+# Page.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

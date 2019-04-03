@@ -1,5 +1,5 @@
 ---
-title: Font.Underline Property (Publisher)
+title: Font.Underline property (Publisher)
 keywords: vbapb10.chm5373987
 f1_keywords:
 - vbapb10.chm5373987
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Underline Property (Publisher)
+# Font.Underline property (Publisher)
 
 Returns or sets an  **PbUnderlineType** constant that indicates the type of underline for the selected characters in the specified font in a text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **Underline**
+ _expression_.**Underline**
 
  _expression_ A variable that represents an  **Font** object.
 

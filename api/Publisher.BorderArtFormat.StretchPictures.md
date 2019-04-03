@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.StretchPictures Property (Publisher)
+title: BorderArtFormat.StretchPictures property (Publisher)
 keywords: vbapb10.chm7602181
 f1_keywords:
 - vbapb10.chm7602181
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# BorderArtFormat.StretchPictures Property (Publisher)
+# BorderArtFormat.StretchPictures property (Publisher)
 
  **True** to stretch the picture art making up the specified BorderArt to fit the shape to which it is applied. Read/write **Boolean**. .
 
 
 ## Syntax
 
- _expression_. **StretchPictures**
+ _expression_.**StretchPictures**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 

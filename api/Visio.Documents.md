@@ -1,5 +1,5 @@
 ---
-title: Documents Object (Visio)
+title: Documents object (Visio)
 keywords: vis_sdr.chm10085
 f1_keywords:
 - vis_sdr.chm10085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents Object (Visio)
+# Documents object (Visio)
 
  Includes a **Document** object for each open document in a Microsoft Visio instance.
 

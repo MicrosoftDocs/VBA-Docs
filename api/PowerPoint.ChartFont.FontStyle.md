@@ -1,5 +1,5 @@
 ---
-title: ChartFont.FontStyle Property (PowerPoint)
+title: ChartFont.FontStyle property (PowerPoint)
 keywords: vbapp10.chm704005
 f1_keywords:
 - vbapp10.chm704005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.FontStyle Property (PowerPoint)
+# ChartFont.FontStyle property (PowerPoint)
 
 Returns or sets the font style. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FontStyle`
+_expression_. `FontStyle`
 
 _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 

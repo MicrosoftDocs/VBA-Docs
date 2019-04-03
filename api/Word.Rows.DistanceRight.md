@@ -19,7 +19,7 @@ Returns or sets the distance (in points) between the document text and the right
 
 ## Syntax
 
- _expression_. `DistanceRight`
+_expression_. `DistanceRight`
 
  _expression_ A variable that represents a '[Rows](Word.rows.md)' collection.
 

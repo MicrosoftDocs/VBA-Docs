@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Columns Property (Publisher)
+title: TextFrame.Columns property (Publisher)
 keywords: vbapb10.chm3866632
 f1_keywords:
 - vbapb10.chm3866632
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.Columns Property (Publisher)
+# TextFrame.Columns property (Publisher)
 
 Returns or sets a  **Long** that represents the number of guide columns on a page or the number of columns in a text frame. Read/write.
 
 
 ## Syntax
 
- _expression_. **Columns**
+ _expression_.**Columns**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

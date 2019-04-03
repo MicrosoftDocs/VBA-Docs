@@ -1,5 +1,5 @@
 ---
-title: Conflict.Name Property (Outlook)
+title: Conflict.Name property (Outlook)
 keywords: vbaol11.chm416
 f1_keywords:
 - vbaol11.chm416
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflict.Name Property (Outlook)
+# Conflict.Name property (Outlook)
 
 Returns a  **String** value that represents the display name for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the display name for the object. Rea
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [Conflict](./Outlook.Conflict.md) object.
+_expression_ A variable that represents a [Conflict](Outlook.Conflict.md) object.
 
 
 ## See also

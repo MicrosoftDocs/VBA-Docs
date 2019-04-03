@@ -1,5 +1,5 @@
 ---
-title: Application.InsertHyperlink Method (Project)
+title: Application.InsertHyperlink method (Project)
 keywords: vbapj.chm1309
 f1_keywords:
 - vbapj.chm1309
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.InsertHyperlink Method (Project)
+# Application.InsertHyperlink method (Project)
 
 Inserts a hyperlink on the selected assignment, resource, or task.
 
 
 ## Syntax
 
- _expression_. `InsertHyperlink`( `_Name_`, `_Address_`, `_SubAddress_`, `_ScreenTip_` )
+_expression_. `InsertHyperlink`( `_Name_`, `_Address_`, `_SubAddress_`, `_ScreenTip_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

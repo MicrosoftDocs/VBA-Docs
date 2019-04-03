@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PublishObject.SourceType property (Excel)
 
-Returns a  **[xlSourceType](Excel.XlSourceType.md)** value that represents the type of item being published.
+Returns a  **[XlSourceType](Excel.XlSourceType.md)** value that represents the type of item being published.
 
 
 ## Syntax

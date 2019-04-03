@@ -1,5 +1,5 @@
 ---
-title: Table.GrowToFitText Property (Publisher)
+title: Table.GrowToFitText property (Publisher)
 keywords: vbapb10.chm4784132
 f1_keywords:
 - vbapb10.chm4784132
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.GrowToFitText Property (Publisher)
+# Table.GrowToFitText property (Publisher)
 
  **True** for cells in a table to increase vertically to fit text. Read/write.
 
 
 ## Syntax
 
- _expression_. **GrowToFitText**
+ _expression_.**GrowToFitText**
 
  _expression_ A variable that represents a  **Table** object.
 

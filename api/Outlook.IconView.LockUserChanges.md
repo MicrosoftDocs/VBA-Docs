@@ -1,5 +1,5 @@
 ---
-title: IconView.LockUserChanges Property (Outlook)
+title: IconView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2567
 f1_keywords:
 - vbaol11.chm2567
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.LockUserChanges Property (Outlook)
+# IconView.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the current view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether a user can modify th
 
 _expression_. `LockUserChanges`
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Application.GoToItemInVersions Method (Project)
+title: Application.GoToItemInVersions method (Project)
 keywords: vbapj.chm2186
 f1_keywords:
 - vbapj.chm2186
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GoToItemInVersions Method (Project)
+# Application.GoToItemInVersions method (Project)
 
 For the selected item in a project version comparison report, highlights that item in each version.
 
 
 ## Syntax
 
- _expression_. `GoToItemInVersions`
+_expression_. `GoToItemInVersions`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

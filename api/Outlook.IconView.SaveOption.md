@@ -1,5 +1,5 @@
 ---
-title: IconView.SaveOption Property (Outlook)
+title: IconView.SaveOption property (Outlook)
 keywords: vbaol11.chm2569
 f1_keywords:
 - vbaol11.chm2569
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.SaveOption Property (Outlook)
+# IconView.SaveOption property (Outlook)
 
 Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
 _expression_. `SaveOption`
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks

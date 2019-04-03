@@ -19,7 +19,7 @@ Returns the down bars on a line chart. Read-only  **[DownBars](Word.DownBars.md)
 
 ## Syntax
 
- _expression_. `DownBars`
+_expression_. `DownBars`
 
  _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 

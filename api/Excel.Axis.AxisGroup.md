@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Return value
 
- **[xlAxisGroup](Excel.XlAxisGroup.md)**
+ **[XlAxisGroup](Excel.XlAxisGroup.md)**
 
 
 ## See also

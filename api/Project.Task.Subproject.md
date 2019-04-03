@@ -1,5 +1,5 @@
 ---
-title: Task.Subproject Property (Project)
+title: Task.Subproject property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Subproject
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Subproject Property (Project)
+# Task.Subproject property (Project)
 
 Gets or sets the subproject name for the task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Subproject`
+_expression_. `Subproject`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

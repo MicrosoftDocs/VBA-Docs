@@ -1,5 +1,5 @@
 ---
-title: Project.Deactivate Event (Project)
+title: Project.Deactivate event (Project)
 keywords: vbapj.chm131189
 f1_keywords:
 - vbapj.chm131189
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Deactivate Event (Project)
+# Project.Deactivate event (Project)
 
 Occurs when switching from the current project to another project.
 
 
 ## Syntax
 
- _expression_. `Deactivate`( `_pj_` )
+_expression_. `Deactivate`( `_pj_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -14,7 +14,7 @@ Saves the workbook and publishes it to a document.
 
 ## Syntax
 
-_expression_ A string that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A string that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Example
@@ -28,6 +28,6 @@ Workbook.PublishToDocs(Title As String, DisclosureScope As XlPublishToDocsDisclo
 ## See also
 
 
-[Workbook Object](./Excel.Workbook.md)
+[Workbook Object](Excel.Workbook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

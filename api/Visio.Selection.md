@@ -1,5 +1,5 @@
 ---
-title: Selection Object (Visio)
+title: Selection object (Visio)
 keywords: vis_sdr.chm10220
 f1_keywords:
 - vis_sdr.chm10220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection Object (Visio)
+# Selection object (Visio)
 
 Represents a subset of  **Shape** objects for a page or master to which an operation can be applied.
 

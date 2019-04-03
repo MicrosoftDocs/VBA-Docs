@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.DropLines Property (PowerPoint)
+title: ChartGroup.DropLines property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.DropLines
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.DropLines Property (PowerPoint)
+# ChartGroup.DropLines property (PowerPoint)
 
 Returns the drop lines for a series on a line chart or area chart. Read-only  **[DropLines](PowerPoint.DropLines.md)**.
 
 
 ## Syntax
 
- _expression_. `DropLines`
+_expression_. `DropLines`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

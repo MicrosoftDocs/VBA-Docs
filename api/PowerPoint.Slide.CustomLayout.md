@@ -1,5 +1,5 @@
 ---
-title: Slide.CustomLayout Property (PowerPoint)
+title: Slide.CustomLayout property (PowerPoint)
 keywords: vbapp10.chm531034
 f1_keywords:
 - vbapp10.chm531034
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.CustomLayout Property (PowerPoint)
+# Slide.CustomLayout property (PowerPoint)
 
 Returns a  **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents the custom layout associated with the specified slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomLayout`
+_expression_. `CustomLayout`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

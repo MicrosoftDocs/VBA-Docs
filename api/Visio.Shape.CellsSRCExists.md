@@ -1,5 +1,5 @@
 ---
-title: Shape.CellsSRCExists Property (Visio)
+title: Shape.CellsSRCExists property (Visio)
 keywords: vis_sdr.chm11213210
 f1_keywords:
 - vis_sdr.chm11213210
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CellsSRCExists Property (Visio)
+# Shape.CellsSRCExists property (Visio)
 
 Determines whether a ShapeSheet cell exists in the scope of a search. Read-only.
 
 
 ## Syntax
 
- _expression_. `CellsSRCExists`( `_Section_` , `_Row_` , `_Column_` , `_fExistsLocally_` )
+_expression_. `CellsSRCExists`( `_Section_` , `_Row_` , `_Column_` , `_fExistsLocally_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

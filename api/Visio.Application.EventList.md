@@ -1,5 +1,5 @@
 ---
-title: Application.EventList Property (Visio)
+title: Application.EventList property (Visio)
 keywords: vis_sdr.chm10013480
 f1_keywords:
 - vis_sdr.chm10013480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EventList Property (Visio)
+# Application.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `EventList`
+_expression_. `EventList`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

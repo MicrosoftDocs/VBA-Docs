@@ -1,5 +1,5 @@
 ---
-title: Exceptions.Count Property (Outlook)
+title: Exceptions.Count property (Outlook)
 keywords: vbaol11.chm294
 f1_keywords:
 - vbaol11.chm294
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exceptions.Count Property (Outlook)
+# Exceptions.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [Exceptions](./Outlook.Exceptions.md) object.
+_expression_ A variable that represents an [Exceptions](Outlook.Exceptions.md) object.
 
 
 ## See also

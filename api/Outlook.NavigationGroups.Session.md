@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.Session Property (Outlook)
+title: NavigationGroups.Session property (Outlook)
 keywords: vbaol11.chm2854
 f1_keywords:
 - vbaol11.chm2854
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.Session Property (Outlook)
+# NavigationGroups.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](Outlook.NavigationGroups.md) object.
 
 
 ## Remarks

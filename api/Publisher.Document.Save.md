@@ -1,5 +1,5 @@
 ---
-title: Document.Save Method (Publisher)
+title: Document.Save method (Publisher)
 keywords: vbapb10.chm196695
 f1_keywords:
 - vbapb10.chm196695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Save Method (Publisher)
+# Document.Save method (Publisher)
 
 Saves the specified publication.
 
 
 ## Syntax
 
- _expression_. **Save**
+ _expression_.**Save**
 
  _expression_ A variable that represents a  **Document** object.
 

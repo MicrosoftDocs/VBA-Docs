@@ -1,5 +1,5 @@
 ---
-title: PjAlign Enumeration (Project)
+title: PjAlign enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAlign
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAlign Enumeration (Project)
+# PjAlign enumeration (Project)
 
 Contains constants that specify which side or portion of a box to use for the alignment.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.BeginUndoScope Method (Visio)
+title: Document.BeginUndoScope method (Visio)
 keywords: vis_sdr.chm10516085
 f1_keywords:
 - vis_sdr.chm10516085
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.BeginUndoScope Method (Visio)
+# Document.BeginUndoScope method (Visio)
 
 Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
 
 
 ## Syntax
 
- _expression_. `BeginUndoScope`( `_bstrUndoScopeName_` )
+_expression_. `BeginUndoScope`( `_bstrUndoScopeName_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

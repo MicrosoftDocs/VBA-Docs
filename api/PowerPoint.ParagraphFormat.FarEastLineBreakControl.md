@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.FarEastLineBreakControl Property (PowerPoint)
+title: ParagraphFormat.FarEastLineBreakControl property (PowerPoint)
 keywords: vbapp10.chm576012
 f1_keywords:
 - vbapp10.chm576012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.FarEastLineBreakControl Property (PowerPoint)
+# ParagraphFormat.FarEastLineBreakControl property (PowerPoint)
 
 Returns or sets the line break control option if you have an Asian language setting specified. Read/write.
 
 
 ## Syntax
 
- _expression_. `FarEastLineBreakControl`
+_expression_. `FarEastLineBreakControl`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 

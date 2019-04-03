@@ -1,5 +1,5 @@
 ---
-title: Views.Remove Method (Outlook)
+title: Views.Remove method (Outlook)
 keywords: vbaol11.chm548
 f1_keywords:
 - vbaol11.chm548
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Views.Remove Method (Outlook)
+# Views.Remove method (Outlook)
 
 Removes an object from the collection.
 
 
 ## Syntax
 
- _expression_. `Remove` `_Index_`
+_expression_. `Remove` `_Index_`
 
-_expression_ A variable that represents a [Views](./Outlook.Views.md) object.
+_expression_ A variable that represents a [Views](Outlook.Views.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: ConversationHeader.Parent Property (Outlook)
+title: ConversationHeader.Parent property (Outlook)
 keywords: vbaol11.chm3545
 f1_keywords:
 - vbaol11.chm3545
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConversationHeader.Parent Property (Outlook)
+# ConversationHeader.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 

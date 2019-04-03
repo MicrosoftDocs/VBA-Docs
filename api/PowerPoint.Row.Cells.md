@@ -1,5 +1,5 @@
 ---
-title: Row.Cells Property (PowerPoint)
+title: Row.Cells property (PowerPoint)
 keywords: vbapp10.chm626003
 f1_keywords:
 - vbapp10.chm626003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.Cells Property (PowerPoint)
+# Row.Cells property (PowerPoint)
 
 Returns a  **[CellRange](PowerPoint.CellRange.md)** collection that represents the cells in a table column or row. Read-only.
 
 
 ## Syntax
 
- _expression_. `Cells`
+_expression_. `Cells`
 
  _expression_ A variable that represents a [Row](./PowerPoint.Row.md) object.
 

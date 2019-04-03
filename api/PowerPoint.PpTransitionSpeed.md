@@ -1,5 +1,5 @@
 ---
-title: PpTransitionSpeed Enumeration (PowerPoint)
+title: PpTransitionSpeed enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpTransitionSpeed
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpTransitionSpeed Enumeration (PowerPoint)
+# PpTransitionSpeed enumeration (PowerPoint)
 
 Constants that specify the speed of the transition from one slide to the next, passed to and returned by the  **Speed** property of the **SlideShowTransition** object
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CommandBars Property (Project)
+title: Application.CommandBars property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.CommandBars
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CommandBars Property (Project)
+# Application.CommandBars property (Project)
 
 Gets a  **CommandBars** collection that represents all the command bars in the application. Read-only **CommandBars**.
 
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

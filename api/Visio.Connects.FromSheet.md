@@ -1,5 +1,5 @@
 ---
-title: Connects.FromSheet Property (Visio)
+title: Connects.FromSheet property (Visio)
 keywords: vis_sdr.chm10413590
 f1_keywords:
 - vis_sdr.chm10413590
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Connects.FromSheet Property (Visio)
+# Connects.FromSheet property (Visio)
 
 Returns the shape from which a connection or connections originate. Read-only.
 
 
 ## Syntax
 
- _expression_. `FromSheet`
+_expression_. `FromSheet`
 
  _expression_ A variable that represents a [Connects](./Visio.Connects.md) object.
 

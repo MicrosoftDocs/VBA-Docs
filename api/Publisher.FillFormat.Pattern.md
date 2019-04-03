@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Pattern Property (Publisher)
+title: FillFormat.Pattern property (Publisher)
 keywords: vbapb10.chm2359558
 f1_keywords:
 - vbapb10.chm2359558
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Pattern Property (Publisher)
+# FillFormat.Pattern property (Publisher)
 
 Returns an  **MsoPatternType** constant that represents the pattern applied to the specified fill or line.
 
 
 ## Syntax
 
- _expression_. **Pattern**
+ _expression_.**Pattern**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
 
 ## Remarks
 
-The  **Pattern** property value can be one of the ** [MsoPatternType](Office.MsoPatternType.md)** constants declared in the Microsoft Office type library.
+The  **Pattern** property value can be one of the **[MsoPatternType](Office.MsoPatternType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

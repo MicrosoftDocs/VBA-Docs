@@ -1,5 +1,5 @@
 ---
-title: Window.Top Property (Project)
+title: Window.Top property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Top
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Top Property (Project)
+# Window.Top property (Project)
 
 Gets or sets the distance in points of the window below the top edge of the window display area. Read/write  **Long**.
 

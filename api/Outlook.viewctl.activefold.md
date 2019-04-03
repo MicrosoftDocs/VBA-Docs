@@ -14,7 +14,7 @@ Returns an  **Object** that represents the folder displayed in the control. Read
 
 ## Syntax
 
- _expression_. **ActiveFolder**
+ _expression_.**ActiveFolder**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

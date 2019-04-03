@@ -1,5 +1,5 @@
 ---
-title: MenuSet.BuiltIn Property (Visio)
+title: MenuSet.BuiltIn property (Visio)
 keywords: vis_sdr.chm13313155
 f1_keywords:
 - vis_sdr.chm13313155
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MenuSet.BuiltIn Property (Visio)
+# MenuSet.BuiltIn property (Visio)
 
 Determines whether an object is a default Microsoft Visio user interface object or a custom object. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuiltIn`
+_expression_. `BuiltIn`
 
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 

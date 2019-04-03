@@ -1,5 +1,5 @@
 ---
-title: FormRegion.DisplayName Property (Outlook)
+title: FormRegion.DisplayName property (Outlook)
 keywords: vbaol11.chm2399
 f1_keywords:
 - vbaol11.chm2399
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.DisplayName Property (Outlook)
+# FormRegion.DisplayName property (Outlook)
 
 Returns a  **String** representing the display name of the form region. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the display name of the form region. Read-onl
 
 _expression_. `DisplayName`
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks

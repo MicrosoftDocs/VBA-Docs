@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.BackStyle Property (Outlook)
+title: OlkLabel.BackStyle property (Outlook)
 keywords: vbaol11.chm1000089
 f1_keywords:
 - vbaol11.chm1000089
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkLabel.BackStyle Property (Outlook)
+# OlkLabel.BackStyle property (Outlook)
 
 Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that chan
 
 _expression_.**BackStyle**
 
-_expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
+_expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) object.
 
 
 ## Remarks

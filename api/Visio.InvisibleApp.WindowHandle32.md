@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.WindowHandle32 Property (Visio)
+title: InvisibleApp.WindowHandle32 property (Visio)
 keywords: vis_sdr.chm17514660
 f1_keywords:
 - vis_sdr.chm17514660
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.WindowHandle32 Property (Visio)
+# InvisibleApp.WindowHandle32 property (Visio)
 
 Returns the 32-bit handle of a Microsoft Visio window. Read-only.
 
 
 ## Syntax
 
- _expression_. `WindowHandle32`
+_expression_. `WindowHandle32`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

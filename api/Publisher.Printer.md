@@ -1,5 +1,5 @@
 ---
-title: Printer Object (Publisher)
+title: Printer object (Publisher)
 keywords: vbapb10.chm9043967
 f1_keywords:
 - vbapb10.chm9043967
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Printer Object (Publisher)
+# Printer object (Publisher)
 
 A  **Printer** object represents a printer installed on your computer.
 

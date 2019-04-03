@@ -1,5 +1,5 @@
 ---
-title: Shape.Data3 Property (Visio)
+title: Shape.Data3 property (Visio)
 keywords: vis_sdr.chm11213375
 f1_keywords:
 - vis_sdr.chm11213375
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Data3 Property (Visio)
+# Shape.Data3 property (Visio)
 
 Gets or sets the value of the  **Data3** field for a **Shape** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Data3`
+_expression_. `Data3`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

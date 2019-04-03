@@ -1,5 +1,5 @@
 ---
-title: Application.ZoomCalendar Method (Project)
+title: Application.ZoomCalendar method (Project)
 keywords: vbapj.chm2347
 f1_keywords:
 - vbapj.chm2347
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ZoomCalendar Method (Project)
+# Application.ZoomCalendar method (Project)
 
 Zooms in on or out from the Calendar.
 
 
 ## Syntax
 
- _expression_. `ZoomCalendar`( `_NumWeeks_`, `_StartDate_`, `_EndDate_` )
+_expression_. `ZoomCalendar`( `_NumWeeks_`, `_StartDate_`, `_EndDate_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

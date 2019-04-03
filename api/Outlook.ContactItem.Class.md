@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Class Property (Outlook)
+title: ContactItem.Class property (Outlook)
 keywords: vbaol11.chm927
 f1_keywords:
 - vbaol11.chm927
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Class Property (Outlook)
+# ContactItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

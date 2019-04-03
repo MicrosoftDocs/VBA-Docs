@@ -1,5 +1,5 @@
 ---
-title: ToolbarSet.SetID Property (Visio)
+title: ToolbarSet.SetID property (Visio)
 keywords: vis_sdr.chm13914315
 f1_keywords:
 - vis_sdr.chm13914315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarSet.SetID Property (Visio)
+# ToolbarSet.SetID property (Visio)
 
 Returns the set ID of an  **ToolbarSet** object in its collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `SetID`
+_expression_. `SetID`
 
  _expression_ A variable that represents a [ToolbarSet](./Visio.ToolbarSet.md) object.
 

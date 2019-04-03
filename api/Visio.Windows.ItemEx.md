@@ -1,5 +1,5 @@
 ---
-title: Windows.ItemEx Property (Visio)
+title: Windows.ItemEx property (Visio)
 keywords: vis_sdr.chm11751730
 f1_keywords:
 - vis_sdr.chm11751730
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Windows.ItemEx Property (Visio)
+# Windows.ItemEx property (Visio)
 
 Returns a  **Window** object from a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemEx`( `_CaptionOrIndex_` )
+_expression_. `ItemEx`( `_CaptionOrIndex_` )
 
  _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 

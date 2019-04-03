@@ -1,5 +1,5 @@
 ---
-title: Application.DDEInitiate Method (Project)
+title: Application.DDEInitiate method (Project)
 keywords: vbapj.chm1201
 f1_keywords:
 - vbapj.chm1201
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DDEInitiate Method (Project)
+# Application.DDEInitiate method (Project)
 
 Opens a dynamic data exchange (DDE) channel to an application.
 
 
 ## Syntax
 
- _expression_. `DDEInitiate`( `_App_`, `_Topic_` )
+_expression_. `DDEInitiate`( `_App_`, `_Topic_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

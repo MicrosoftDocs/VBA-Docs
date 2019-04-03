@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarLayout Method (Project)
+title: Application.CalendarLayout method (Project)
 keywords: vbapj.chm2346
 f1_keywords:
 - vbapj.chm2346
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarLayout Method (Project)
+# Application.CalendarLayout method (Project)
 
 Changes how task bars are arranged on the Calendar.
 
 
 ## Syntax
 
- _expression_. `CalendarLayout`( `_SortOrder_`, `_AutoLayout_` )
+_expression_. `CalendarLayout`( `_SortOrder_`, `_AutoLayout_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

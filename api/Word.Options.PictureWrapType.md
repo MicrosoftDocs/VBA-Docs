@@ -19,7 +19,7 @@ Sets or returns a  **WdWrapTypeMerged** that indicates how Microsoft Word wraps 
 
 ## Syntax
 
- _expression_. `PictureWrapType`
+_expression_. `PictureWrapType`
 
  _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 

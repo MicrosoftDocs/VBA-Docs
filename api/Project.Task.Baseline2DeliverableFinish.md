@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline2DeliverableFinish Property (Project)
+title: Task.Baseline2DeliverableFinish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline2DeliverableFinish
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline2DeliverableFinish Property (Project)
+# Task.Baseline2DeliverableFinish property (Project)
 
 Gets or sets the task baseline2 deliverables finish date. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline2DeliverableFinish`
+_expression_. `Baseline2DeliverableFinish`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeFolderSwitch Event (Outlook)
+title: Explorer.BeforeFolderSwitch event (Outlook)
 keywords: vbaol11.chm451
 f1_keywords:
 - vbaol11.chm451
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.BeforeFolderSwitch Event (Outlook)
+# Explorer.BeforeFolderSwitch event (Outlook)
 
 Occurs before the explorer goes to a new folder, either as a result of user action or through program code.
 
@@ -21,7 +21,7 @@ Occurs before the explorer goes to a new folder, either as a result of user acti
 
 _expression_. `BeforeFolderSwitch`( `_NewFolder_` , `_Cancel_` )
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters

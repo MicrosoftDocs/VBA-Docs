@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**FontBold**
 
-_expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks
@@ -39,7 +39,7 @@ _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectF
 
 ## Example
 
-This example sets the font to bold for shape three on  `myDocument` if the shape is WordArt.
+This example sets the font to bold for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb

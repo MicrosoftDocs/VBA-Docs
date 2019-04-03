@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Class Property (Outlook)
+title: TaskRequestDeclineItem.Class property (Outlook)
 keywords: vbaol11.chm1820
 f1_keywords:
 - vbaol11.chm1820
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Class Property (Outlook)
+# TaskRequestDeclineItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## See also

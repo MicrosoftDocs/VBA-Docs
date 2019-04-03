@@ -1,5 +1,5 @@
 ---
-title: TableView.Language Property (Outlook)
+title: TableView.Language property (Outlook)
 keywords: vbaol11.chm2508
 f1_keywords:
 - vbaol11.chm2508
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Language Property (Outlook)
+# TableView.Language property (Outlook)
 
 Returns or sets a  **String** value that represents the language setting for the view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the language setting for the
 
 _expression_. `Language`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks

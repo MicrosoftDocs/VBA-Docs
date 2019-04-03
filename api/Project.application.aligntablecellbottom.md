@@ -1,5 +1,5 @@
 ---
-title: Application.AlignTableCellBottom Method (Project)
+title: Application.AlignTableCellBottom method (Project)
 keywords: vbapj.chm1523
 f1_keywords:
 - vbapj.chm1523
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.AlignTableCellBottom Method (Project)
+# Application.AlignTableCellBottom method (Project)
 Aligns text at the bottom of the cell, for selected cells in a report table.
 
 ## Syntax
 
- _expression_. `AlignTableCellBottom`
+_expression_. `AlignTableCellBottom`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

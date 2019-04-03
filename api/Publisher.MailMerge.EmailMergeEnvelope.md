@@ -1,5 +1,5 @@
 ---
-title: MailMerge.EmailMergeEnvelope Property (Publisher)
+title: MailMerge.EmailMergeEnvelope property (Publisher)
 keywords: vbapb10.chm6225943
 f1_keywords:
 - vbapb10.chm6225943
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.EmailMergeEnvelope Property (Publisher)
+# MailMerge.EmailMergeEnvelope property (Publisher)
 
 Returns the  **EmailMergeEnvelope** object associated with the parent **MailMerge** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **EmailMergeEnvelope**
+ _expression_.**EmailMergeEnvelope**
 
  _expression_ A variable that represents a  **MailMerge** object.
 

@@ -19,7 +19,7 @@ Returns or sets the space (in points) between the text and the top border. Read/
 
 ## Syntax
 
- _expression_. `DistanceFromTop`
+_expression_. `DistanceFromTop`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 

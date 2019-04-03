@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Visible Property (Outlook)
+title: FormRegion.Visible property (Outlook)
 keywords: vbaol11.chm3457
 f1_keywords:
 - vbaol11.chm3457
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.Visible Property (Outlook)
+# FormRegion.Visible property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether the form region is visible or hidden. Read/write.
 

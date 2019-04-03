@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListObject.SourceType property (Excel)
 
-Returns a  **[xlListObjectSourceType](Excel.XlListObjectSourceType.md)** value that represents the current source of the list.
+Returns a  **[XlListObjectSourceType](Excel.XlListObjectSourceType.md)** value that represents the current source of the list.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Master.Hidden Property (Visio)
+title: Master.Hidden property (Visio)
 keywords: vis_sdr.chm10713640
 f1_keywords:
 - vis_sdr.chm10713640
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.Hidden Property (Visio)
+# Master.Hidden property (Visio)
 
 Hides or shows a master on a stencil or a style in the user interface. Read/write.
 
 
 ## Syntax
 
- _expression_. `Hidden`
+_expression_. `Hidden`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

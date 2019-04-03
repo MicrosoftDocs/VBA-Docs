@@ -1,5 +1,5 @@
 ---
-title: Presentation.RemovePersonalInformation Property (PowerPoint)
+title: Presentation.RemovePersonalInformation property (PowerPoint)
 keywords: vbapp10.chm583068
 f1_keywords:
 - vbapp10.chm583068
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.RemovePersonalInformation Property (PowerPoint)
+# Presentation.RemovePersonalInformation property (PowerPoint)
 
 Determines whether Microsoft PowerPoint should remove all user information from comments and revisions upon saving a presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `RemovePersonalInformation`
+_expression_. `RemovePersonalInformation`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

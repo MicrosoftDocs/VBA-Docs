@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Contrast Property (Publisher)
+title: PictureFormat.Contrast property (Publisher)
 keywords: vbapb10.chm3604738
 f1_keywords:
 - vbapb10.chm3604738
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Contrast Property (Publisher)
+# PictureFormat.Contrast property (Publisher)
 
 Returns or sets a  **Single** indicating the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write.
 
 
 ## Syntax
 
- _expression_. **Contrast**
+ _expression_.**Contrast**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

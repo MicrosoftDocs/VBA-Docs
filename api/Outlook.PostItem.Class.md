@@ -1,5 +1,5 @@
 ---
-title: PostItem.Class Property (Outlook)
+title: PostItem.Class property (Outlook)
 keywords: vbaol11.chm1510
 f1_keywords:
 - vbaol11.chm1510
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Class Property (Outlook)
+# PostItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

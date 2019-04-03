@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Contrast Property (PowerPoint)
+title: PictureFormat.Contrast property (PowerPoint)
 keywords: vbapp10.chm551006
 f1_keywords:
 - vbapp10.chm551006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Contrast Property (PowerPoint)
+# PictureFormat.Contrast property (PowerPoint)
 
 Returns or sets the contrast for the specified picture or OLE object.
 
 
 ## Syntax
 
- _expression_. `Contrast`
+_expression_. `Contrast`
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 
@@ -36,7 +36,7 @@ The value for this property must be a number from 0.0 (the least contrast) to 1.
 
 ## Example
 
-This example sets the contrast for shape one on  `myDocument`. Shape one must be either a picture or an OLE object.
+This example sets the contrast for shape one on  _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb

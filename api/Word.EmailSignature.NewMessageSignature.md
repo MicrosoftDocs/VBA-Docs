@@ -19,7 +19,7 @@ Returns or sets the signature that Microsoft Word appends to new email messages.
 
 ## Syntax
 
- _expression_. `NewMessageSignature`
+_expression_. `NewMessageSignature`
 
  _expression_ An expression that returns an '[EmailSignature](Word.EmailSignature.md)' object.
 

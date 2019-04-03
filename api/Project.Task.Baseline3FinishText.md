@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline3FinishText Property (Project)
+title: Task.Baseline3FinishText property (Project)
 keywords: vbapj.chm131473
 f1_keywords:
 - vbapj.chm131473
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline3FinishText Property (Project)
+# Task.Baseline3FinishText property (Project)
 
 Gets or sets a string representation of the baseline finish date of a task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Baseline3FinishText`
+_expression_. `Baseline3FinishText`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

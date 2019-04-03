@@ -1,5 +1,5 @@
 ---
-title: PropertyPages.Item Method (Outlook)
+title: PropertyPages.Item method (Outlook)
 keywords: vbaol11.chm166
 f1_keywords:
 - vbaol11.chm166
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPages.Item Method (Outlook)
+# PropertyPages.Item method (Outlook)
 
 Returns a  **[PropertyPage](Outlook.PropertyPage.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyPage](Outlook.PropertyPage.md)** object from the collectio
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [PropertyPages](./Outlook.PropertyPages.md) object.
+_expression_ A variable that represents a [PropertyPages](Outlook.PropertyPages.md) object.
 
 
 ## Parameters

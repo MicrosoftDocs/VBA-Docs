@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Size Property (Outlook)
+title: ReportItem.Size property (Outlook)
 keywords: vbaol11.chm1660
 f1_keywords:
 - vbaol11.chm1660
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Size Property (Outlook)
+# ReportItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
 _expression_. `Size`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## See also

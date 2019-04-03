@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Filter.Operator property (Excel)
 
-Returns an  **[xlAutoFilterOperator](Excel.XlAutoFilterOperator.md)** value that represents the operator that associates the two criteria applied by the specified filter.
+Returns an  **[XlAutoFilterOperator](Excel.XlAutoFilterOperator.md)** value that represents the operator that associates the two criteria applied by the specified filter.
 
 
 ## Syntax

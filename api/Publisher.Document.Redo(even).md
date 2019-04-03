@@ -1,5 +1,5 @@
 ---
-title: Document.Redo Event (Publisher)
+title: Document.Redo event (Publisher)
 keywords: vbapb10.chm285212679
 f1_keywords:
 - vbapb10.chm285212679
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Redo Event (Publisher)
+# Document.Redo event (Publisher)
 
 Occurs when reversing the last action that was undone.
 
 
 ## Syntax
 
- _expression_. **Redo**
+ _expression_.**Redo**
 
  _expression_ A variable that represents a  **Document** object.
 

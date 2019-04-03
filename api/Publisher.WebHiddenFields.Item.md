@@ -1,5 +1,5 @@
 ---
-title: WebHiddenFields.Item Method (Publisher)
+title: WebHiddenFields.Item method (Publisher)
 keywords: vbapb10.chm3997702
 f1_keywords:
 - vbapb10.chm3997702
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebHiddenFields.Item Method (Publisher)
+# WebHiddenFields.Item method (Publisher)
 
 Returns a  **String** corresponding to the value of a hidden field in a Web form or a list item in a Web list box control.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **WebHiddenFields** object.
 

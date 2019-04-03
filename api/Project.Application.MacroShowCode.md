@@ -1,5 +1,5 @@
 ---
-title: Application.MacroShowCode Method (Project)
+title: Application.MacroShowCode method (Project)
 keywords: vbapj.chm2246
 f1_keywords:
 - vbapj.chm2246
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MacroShowCode Method (Project)
+# Application.MacroShowCode method (Project)
 
 Starts the Visual Basic Editor and displays any macro code in the active project.
 
 
 ## Syntax
 
- _expression_. `MacroShowCode`
+_expression_. `MacroShowCode`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

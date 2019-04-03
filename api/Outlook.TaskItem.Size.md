@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Size Property (Outlook)
+title: TaskItem.Size property (Outlook)
 keywords: vbaol11.chm1708
 f1_keywords:
 - vbaol11.chm1708
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Size Property (Outlook)
+# TaskItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
 _expression_. `Size`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

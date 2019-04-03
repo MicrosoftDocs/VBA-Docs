@@ -1,5 +1,5 @@
 ---
-title: UIObject.MenuSets Property (Visio)
+title: UIObject.MenuSets property (Visio)
 keywords: vis_sdr.chm14913915
 f1_keywords:
 - vis_sdr.chm14913915
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# UIObject.MenuSets Property (Visio)
+# UIObject.MenuSets property (Visio)
 
 Returns the  **MenuSets** collection of a **UIObject** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `MenuSets`
+_expression_. `MenuSets`
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 

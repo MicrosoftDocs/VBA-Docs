@@ -1,5 +1,5 @@
 ---
-title: AccelTable.TableName Property (Visio)
+title: AccelTable.TableName property (Visio)
 keywords: vis_sdr.chm14714475
 f1_keywords:
 - vis_sdr.chm14714475
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AccelTable.TableName Property (Visio)
+# AccelTable.TableName property (Visio)
 
 Gets or sets the name of an  **AccelTable** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `TableName`
+_expression_. `TableName`
 
  _expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
 

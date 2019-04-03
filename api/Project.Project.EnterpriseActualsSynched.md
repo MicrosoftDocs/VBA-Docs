@@ -1,5 +1,5 @@
 ---
-title: Project.EnterpriseActualsSynched Property (Project)
+title: Project.EnterpriseActualsSynched property (Project)
 keywords: vbapj.chm131084
 f1_keywords:
 - vbapj.chm131084
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.EnterpriseActualsSynched Property (Project)
+# Project.EnterpriseActualsSynched property (Project)
 
  **True** if the actual work or actual overtime in a project is synchronized with the actual work or actual overtime that has been submitted and updated from the timesheet system. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseActualsSynched`
+_expression_. `EnterpriseActualsSynched`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

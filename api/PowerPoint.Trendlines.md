@@ -1,5 +1,5 @@
 ---
-title: Trendlines Object (PowerPoint)
+title: Trendlines object (PowerPoint)
 keywords: vbapp10.chm721000
 f1_keywords:
 - vbapp10.chm721000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Trendlines Object (PowerPoint)
+# Trendlines object (PowerPoint)
 
 Represents a collection of all the  **[Trendline](PowerPoint.Trendline.md)** objects for the specified series.
 

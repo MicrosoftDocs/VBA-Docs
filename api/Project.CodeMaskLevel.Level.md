@@ -1,5 +1,5 @@
 ---
-title: CodeMaskLevel.Level Property (Project)
+title: CodeMaskLevel.Level property (Project)
 keywords: vbapj.chm131646
 f1_keywords:
 - vbapj.chm131646
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CodeMaskLevel.Level Property (Project)
+# CodeMaskLevel.Level property (Project)
 
 Gets the level number of the code mask, as it appears in the left column of the grid in the  **Code Mask Definition** dialog box. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Level`
+_expression_. `Level`
 
  _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 

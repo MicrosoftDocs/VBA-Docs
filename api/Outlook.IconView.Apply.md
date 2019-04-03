@@ -1,5 +1,5 @@
 ---
-title: IconView.Apply Method (Outlook)
+title: IconView.Apply method (Outlook)
 keywords: vbaol11.chm2561
 f1_keywords:
 - vbaol11.chm2561
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# IconView.Apply Method (Outlook)
+# IconView.Apply method (Outlook)
 
 Applies the  **[IconView](Outlook.IconView.md)** object to the current view.
 
@@ -21,7 +21,7 @@ Applies the  **[IconView](Outlook.IconView.md)** object to the current view.
 
 _expression_. `Apply`
 
-_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## See also

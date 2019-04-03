@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarBarStylesEdit Method (Project)
+title: Application.CalendarBarStylesEdit method (Project)
 keywords: vbapj.chm2339
 f1_keywords:
 - vbapj.chm2339
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarBarStylesEdit Method (Project)
+# Application.CalendarBarStylesEdit method (Project)
 
 Changes the style of the specified type of bar in the Calendar view.
 
 
 ## Syntax
 
- _expression_. `CalendarBarStylesEdit`( `_Item_`, `_Bar_`, `_Pattern_`, `_Color_`, `_Align_`, `_Wrap_`, `_Shadow_`, `_Field1_`, `_Field2_`, `_Field3_`, `_Field4_`, `_Field5_`, `_SplitPattern_` )
+_expression_. `CalendarBarStylesEdit`( `_Item_`, `_Bar_`, `_Pattern_`, `_Color_`, `_Align_`, `_Wrap_`, `_Shadow_`, `_Field1_`, `_Field2_`, `_Field3_`, `_Field4_`, `_Field5_`, `_SplitPattern_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

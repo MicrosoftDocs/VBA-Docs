@@ -1,5 +1,5 @@
 ---
-title: VisRunTypes Enumeration (Visio)
+title: VisRunTypes enumeration (Visio)
 keywords: vis_sdr.chm70095
 f1_keywords:
 - vis_sdr.chm70095
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisRunTypes Enumeration (Visio)
+# VisRunTypes enumeration (Visio)
 
 Run-type constants to be passed to the  **Characters.RunBegin** and **Characters.RunEnd** properties.
 

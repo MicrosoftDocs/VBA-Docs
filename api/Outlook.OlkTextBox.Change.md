@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Change Event (Outlook)
+title: OlkTextBox.Change event (Outlook)
 keywords: vbaol11.chm1000081
 f1_keywords:
 - vbaol11.chm1000081
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Change Event (Outlook)
+# OlkTextBox.Change event (Outlook)
 
 Occurs when the  **[Value](Outlook.OlkTextBox.Value.md)** property changes.
 
@@ -21,7 +21,7 @@ Occurs when the  **[Value](Outlook.OlkTextBox.Value.md)** property changes.
 
 _expression_. `Change`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## See also

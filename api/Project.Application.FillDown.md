@@ -1,5 +1,5 @@
 ---
-title: Application.FillDown Method (Project)
+title: Application.FillDown method (Project)
 keywords: vbapj.chm218
 f1_keywords:
 - vbapj.chm218
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FillDown Method (Project)
+# Application.FillDown method (Project)
 
 Fills the selected cells or rows with the values in the specified cell or row of the selection.
 
 
 ## Syntax
 
- _expression_. `FillDown`( `_Down_` )
+_expression_. `FillDown`( `_Down_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

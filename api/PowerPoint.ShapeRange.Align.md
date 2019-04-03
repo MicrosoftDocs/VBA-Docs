@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Align Method (PowerPoint)
+title: ShapeRange.Align method (PowerPoint)
 keywords: vbapp10.chm548063
 f1_keywords:
 - vbapp10.chm548063
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Align Method (PowerPoint)
+# ShapeRange.Align method (PowerPoint)
 
 Aligns the shapes in the specified range of shapes.
 
 
 ## Syntax
 
- _expression_. `Align`( `_AlignCmd_`, `_RelativeTo_` )
+_expression_. `Align`( `_AlignCmd_`, `_RelativeTo_` )
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
@@ -35,7 +35,7 @@ Aligns the shapes in the specified range of shapes.
 
 ## Example
 
-This example aligns the left edges of all the shapes in the specified range in  `myDocument` with the left edge of the leftmost shape in the range.
+This example aligns the left edges of all the shapes in the specified range in  _myDocument_ with the left edge of the leftmost shape in the range.
 
 
 ```vb

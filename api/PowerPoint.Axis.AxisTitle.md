@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisTitle Property (PowerPoint)
+title: Axis.AxisTitle property (PowerPoint)
 keywords: vbapp10.chm682003
 f1_keywords:
 - vbapp10.chm682003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.AxisTitle Property (PowerPoint)
+# Axis.AxisTitle property (PowerPoint)
 
 Returns the title of the specified axis. Read-only  **[AxisTitle](PowerPoint.AxisTitle.md)**.
 
 
 ## Syntax
 
- _expression_. `AxisTitle`
+_expression_. `AxisTitle`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

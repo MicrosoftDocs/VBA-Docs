@@ -1,5 +1,5 @@
 ---
-title: JournalItem.ShowCategoriesDialog Method (Outlook)
+title: JournalItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1282
 f1_keywords:
 - vbaol11.chm1282
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.ShowCategoriesDialog Method (Outlook)
+# JournalItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
@@ -21,7 +21,7 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 
 _expression_. `ShowCategoriesDialog`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Example

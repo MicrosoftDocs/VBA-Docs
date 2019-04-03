@@ -21,12 +21,12 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
+_expression_ A variable that represents a [SeriesCollection](Excel.SeriesCollection.md) object.
 
 
 ## See also
 
 
-[SeriesCollection Object](./Excel.SeriesCollection.md)
+[SeriesCollection Object](Excel.SeriesCollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

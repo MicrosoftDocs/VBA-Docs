@@ -1,5 +1,5 @@
 ---
-title: Chart.Copy Method (PowerPoint)
+title: Chart.Copy method (PowerPoint)
 keywords: vbapp10.chm684021
 f1_keywords:
 - vbapp10.chm684021
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.Copy Method (PowerPoint)
+# Chart.Copy method (PowerPoint)
 
 Not supported for this object.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Before_`, `_After_` )
+_expression_. `Copy`( `_Before_`, `_After_` )
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

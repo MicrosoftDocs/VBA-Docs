@@ -1,5 +1,5 @@
 ---
-title: Application.RuleSetValidated Event (Visio)
+title: Application.RuleSetValidated event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.RuleSetValidated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RuleSetValidated Event (Visio)
+# Application.RuleSetValidated event (Visio)
 
 Occurs when a rule set is validated.
 

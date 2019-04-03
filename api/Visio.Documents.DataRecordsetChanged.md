@@ -1,5 +1,5 @@
 ---
-title: Documents.DataRecordsetChanged Event (Visio)
+title: Documents.DataRecordsetChanged event (Visio)
 keywords: vis_sdr.chm10662025
 f1_keywords:
 - vis_sdr.chm10662025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.DataRecordsetChanged Event (Visio)
+# Documents.DataRecordsetChanged event (Visio)
 
 Occurs when a data recordset changes as a result of being refreshed.
 

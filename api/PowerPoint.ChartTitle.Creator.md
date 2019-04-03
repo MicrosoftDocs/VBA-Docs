@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Creator Property (PowerPoint)
+title: ChartTitle.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Creator Property (PowerPoint)
+# ChartTitle.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

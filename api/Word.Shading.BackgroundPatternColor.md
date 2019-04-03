@@ -19,7 +19,7 @@ Returns or sets the 24-bit color that's applied to the background of the  **Shad
 
 ## Syntax
 
- _expression_. `BackgroundPatternColor`
+_expression_. `BackgroundPatternColor`
 
  _expression_ Required. A variable that represents a '[Shading](Word.Shading.md)' object.
 

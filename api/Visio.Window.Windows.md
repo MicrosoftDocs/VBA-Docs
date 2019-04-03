@@ -1,5 +1,5 @@
 ---
-title: Window.Windows Property (Visio)
+title: Window.Windows property (Visio)
 keywords: vis_sdr.chm11614665
 f1_keywords:
 - vis_sdr.chm11614665
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Windows Property (Visio)
+# Window.Windows property (Visio)
 
 Returns the  **Windows** collection for a Microsoft Visio instance or window. Read-only.
 
 
 ## Syntax
 
- _expression_. `Windows`
+_expression_. `Windows`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide.BaseText Property (Publisher)
+title: PhoneticGuide.BaseText property (Publisher)
 keywords: vbapb10.chm6160391
 f1_keywords:
 - vbapb10.chm6160391
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PhoneticGuide.BaseText Property (Publisher)
+# PhoneticGuide.BaseText property (Publisher)
 
 Returns a  **String** that represents the text to which the specified phonetic text applies. Read-only.
 
 
 ## Syntax
 
- _expression_. **BaseText**
+ _expression_.**BaseText**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 

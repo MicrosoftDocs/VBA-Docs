@@ -1,5 +1,5 @@
 ---
-title: Page.Stat Property (Visio)
+title: Page.Stat property (Visio)
 keywords: vis_sdr.chm10914420
 f1_keywords:
 - vis_sdr.chm10914420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Stat Property (Visio)
+# Page.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

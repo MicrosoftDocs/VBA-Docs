@@ -1,5 +1,5 @@
 ---
-title: Plate.Delete Method (Publisher)
+title: Plate.Delete method (Publisher)
 keywords: vbapb10.chm2883600
 f1_keywords:
 - vbapb10.chm2883600
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Plate.Delete Method (Publisher)
+# Plate.Delete method (Publisher)
 
 Deletes the specified plate.
 
 
 ## Syntax
 
- _expression_. **Delete**(**_PlateReplaceWith_**,  **_ReplaceTint_**)
+ _expression_.**Delete**(**_PlateReplaceWith_**,  **_ReplaceTint_**)
 
  _expression_ A variable that represents a  **Plate** object.
 

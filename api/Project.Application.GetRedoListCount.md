@@ -1,5 +1,5 @@
 ---
-title: Application.GetRedoListCount Method (Project)
+title: Application.GetRedoListCount method (Project)
 keywords: vbapj.chm131093
 f1_keywords:
 - vbapj.chm131093
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GetRedoListCount Method (Project)
+# Application.GetRedoListCount method (Project)
 
  Returns the number of items in the redo list.
 
 
 ## Syntax
 
- _expression_. `GetRedoListCount`
+_expression_. `GetRedoListCount`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: RuleActions.MoveToFolder Property (Outlook)
+title: RuleActions.MoveToFolder property (Outlook)
 keywords: vbaol11.chm2191
 f1_keywords:
 - vbaol11.chm2191
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.MoveToFolder Property (Outlook)
+# RuleActions.MoveToFolder property (Outlook)
 
 Returns a  **[MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md)** object with **[MoveOrCopyRuleAction.ActionType](Outlook.MoveOrCopyRuleAction.ActionType.md)** being **olRuleActionMoveToFolder**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md)** object wi
 
 _expression_. `MoveToFolder`
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks

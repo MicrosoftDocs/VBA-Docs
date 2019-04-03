@@ -1,5 +1,5 @@
 ---
-title: Presentation.LockServerFile Method (PowerPoint)
+title: Presentation.LockServerFile method (PowerPoint)
 keywords: vbapp10.chm583100
 f1_keywords:
 - vbapp10.chm583100
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.LockServerFile Method (PowerPoint)
+# Presentation.LockServerFile method (PowerPoint)
 
 Locks the presentation on the Microsoft Office SharePoint server to prevent its modification.
 
 
 ## Syntax
 
- _expression_. `LockServerFile`
+_expression_. `LockServerFile`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

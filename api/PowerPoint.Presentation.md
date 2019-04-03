@@ -1,5 +1,5 @@
 ---
-title: Presentation Object (PowerPoint)
+title: Presentation object (PowerPoint)
 keywords: vbapp10.chm524000
 f1_keywords:
 - vbapp10.chm524000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation Object (PowerPoint)
+# Presentation object (PowerPoint)
 
 Represents a Microsoft PowerPoint presentation. 
 
@@ -183,6 +183,6 @@ MsgBox SlideShowWindows(1).Presentation.Name
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

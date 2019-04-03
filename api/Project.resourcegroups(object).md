@@ -1,5 +1,5 @@
 ---
-title: ResourceGroups Object (Project)
+title: ResourceGroups object (Project)
 ms.prod: project-server
 ms.assetid: 37bd0f3a-4d0e-1311-4409-ed31e0fe2e3a
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ResourceGroups Object (Project)
+# ResourceGroups object (Project)
 
 
  

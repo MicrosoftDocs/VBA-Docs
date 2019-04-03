@@ -1,5 +1,5 @@
 ---
-title: Report.Shapes Property (Project)
+title: Report.Shapes property (Project)
 ms.prod: project-server
 ms.assetid: 2f62c406-3845-79f8-3d17-e5891c1e23f9
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Report.Shapes Property (Project)
+# Report.Shapes property (Project)
 Gets the collection of  **Shape** objects in the report. Read-only **Shapes**.
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_. `Shapes`
 
  _expression_ A variable that represents a 'Report' object.
 

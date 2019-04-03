@@ -1,5 +1,5 @@
 ---
-title: Shape.HasCategory Method (Visio)
+title: Shape.HasCategory method (Visio)
 keywords: vis_sdr.chm11262250
 f1_keywords:
 - vis_sdr.chm11262250
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.HasCategory Method (Visio)
+# Shape.HasCategory method (Visio)
 
 Returns  **True** if the specified category is in the shape categories list.
 
 
 ## Syntax
 
- _expression_. `HasCategory`( `_Category_` )
+_expression_. `HasCategory`( `_Category_` )
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 

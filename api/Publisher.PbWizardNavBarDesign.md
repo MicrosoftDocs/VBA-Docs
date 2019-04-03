@@ -1,5 +1,5 @@
 ---
-title: PbWizardNavBarDesign Enumeration (Publisher)
+title: PbWizardNavBarDesign enumeration (Publisher)
 keywords: vbapb10.chm65613
 f1_keywords:
 - vbapb10.chm65613
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWizardNavBarDesign Enumeration (Publisher)
+# PbWizardNavBarDesign enumeration (Publisher)
 
 Represents the design of the specified Web navigation bar set.
 

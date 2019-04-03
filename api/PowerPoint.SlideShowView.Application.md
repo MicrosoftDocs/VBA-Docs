@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Application Property (PowerPoint)
+title: SlideShowView.Application property (PowerPoint)
 keywords: vbapp10.chm513001
 f1_keywords:
 - vbapp10.chm513001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.Application Property (PowerPoint)
+# SlideShowView.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

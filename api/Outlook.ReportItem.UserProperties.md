@@ -1,5 +1,5 @@
 ---
-title: ReportItem.UserProperties Property (Outlook)
+title: ReportItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1663
 f1_keywords:
 - vbaol11.chm1663
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.UserProperties Property (Outlook)
+# ReportItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 _expression_. `UserProperties`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## See also

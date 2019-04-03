@@ -19,7 +19,7 @@ Returns or sets the tab position for the specified  **ListLevel** object. Read/w
 
 ## Syntax
 
- _expression_. `TabPosition`
+_expression_. `TabPosition`
 
  _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Inspectors.Add Method (Outlook)
+title: Inspectors.Add method (Outlook)
 keywords: vbaol11.chm139
 f1_keywords:
 - vbaol11.chm139
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Inspectors.Add Method (Outlook)
+# Inspectors.Add method (Outlook)
 
 Creates a new inspector window.
 
 
 ## Syntax
 
-_expression_. `Add` `_Item_`
+_expression_.**Add** `_Item_`
 
-_expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
+_expression_ A variable that represents an [Inspectors](Outlook.Inspectors.md) object.
 
 
 ## Parameters

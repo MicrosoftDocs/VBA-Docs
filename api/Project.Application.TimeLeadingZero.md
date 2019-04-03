@@ -1,5 +1,5 @@
 ---
-title: Application.TimeLeadingZero Property (Project)
+title: Application.TimeLeadingZero property (Project)
 keywords: vbapj.chm132753
 f1_keywords:
 - vbapj.chm132753
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TimeLeadingZero Property (Project)
+# Application.TimeLeadingZero property (Project)
 
  **True** if Project displays a zero before times with single-digit hours. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TimeLeadingZero`
+_expression_. `TimeLeadingZero`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

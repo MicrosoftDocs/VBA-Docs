@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Reset Method (Publisher)
+title: ParagraphFormat.Reset method (Publisher)
 keywords: vbapb10.chm5439509
 f1_keywords:
 - vbapb10.chm5439509
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Reset Method (Publisher)
+# ParagraphFormat.Reset method (Publisher)
 
 Removes manual paragraph or text formatting from the specified object and leaves only the formatting specified by the current text style.
 
 
 ## Syntax
 
- _expression_. **Reset**
+ _expression_.**Reset**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

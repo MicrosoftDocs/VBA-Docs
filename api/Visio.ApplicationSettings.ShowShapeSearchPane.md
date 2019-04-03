@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ShowShapeSearchPane Property (Visio)
+title: ApplicationSettings.ShowShapeSearchPane property (Visio)
 keywords: vis_sdr.chm16260605
 f1_keywords:
 - vis_sdr.chm16260605
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ShowShapeSearchPane Property (Visio)
+# ApplicationSettings.ShowShapeSearchPane property (Visio)
 
 Gets or sets whether the  **Shape Search** pane is visible in the Microsoft Visio user interface (UI). Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowShapeSearchPane`
+_expression_. `ShowShapeSearchPane`
 
  _expression_ An expression that returns an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Groups2.Item Property (Project)
+title: Groups2.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Groups2.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Groups2.Item Property (Project)
+# Groups2.Item property (Project)
 
 Gets a single  **Group2** object from a **Groups2** collection. Read-only **[Group2](Project.Group2.md)**.
 

@@ -21,7 +21,7 @@ Adds new data points to an existing series collection.
 
 _expression_. `Extend`( `_Source_` , `_Rowcol_` , `_CategoryLabels_` )
 
-_expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
+_expression_ A variable that represents a [SeriesCollection](Excel.SeriesCollection.md) object.
 
 
 ## Parameters
@@ -31,7 +31,7 @@ _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesColle
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The new data to be added to the  **SeriesCollection** object as a **Range** object.|
-| _Rowcol_|Optional| **Variant**|Specifies whether the new values are in the rows or columns of the given range source. Can be one of the following  **[xlRowCol](Excel.XlRowCol.md)** constants: **xlRows** or **xlColumns**. If this argument is omitted, Microsoft Excel attempts to determine where the values are by the size and orientation of the selected range or by the dimensions of the array.|
+| _Rowcol_|Optional| **Variant**|Specifies whether the new values are in the rows or columns of the given range source. Can be one of the following  **[XlRowCol](Excel.XlRowCol.md)** constants: **xlRows** or **xlColumns**. If this argument is omitted, Microsoft Excel attempts to determine where the values are by the size and orientation of the selected range or by the dimensions of the array.|
 | _CategoryLabels_|Optional| **Variant**| **True** to have the first row or column contain the name of the category labels. **False** to have the first row or column contain the first data point of the series. If this argument is omitted, Microsoft Excel attempts to determine the location of the category label from the contents of the first row or column.|
 
 ## Return value
@@ -59,6 +59,6 @@ Charts("Chart1").SeriesCollection.Extend _
 ## See also
 
 
-[SeriesCollection Object](./Excel.SeriesCollection.md)
+[SeriesCollection Object](Excel.SeriesCollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

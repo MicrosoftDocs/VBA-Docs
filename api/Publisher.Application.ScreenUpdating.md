@@ -1,5 +1,5 @@
 ---
-title: Application.ScreenUpdating Property (Publisher)
+title: Application.ScreenUpdating property (Publisher)
 keywords: vbapb10.chm131107
 f1_keywords:
 - vbapb10.chm131107
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ScreenUpdating Property (Publisher)
+# Application.ScreenUpdating property (Publisher)
 
 Returns or sets a  **Boolean** indicating whether Microsoft Publisher refreshes the screen display during run time; **True** to refresh the screen display. Read/write.
 
 
 ## Syntax
 
- _expression_. **ScreenUpdating**
+ _expression_.**ScreenUpdating**
 
  _expression_ A variable that represents a  **Application** object.
 

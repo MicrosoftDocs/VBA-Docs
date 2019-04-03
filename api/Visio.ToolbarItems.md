@@ -1,5 +1,5 @@
 ---
-title: ToolbarItems Object (Visio)
+title: ToolbarItems object (Visio)
 keywords: vis_sdr.chm10280
 f1_keywords:
 - vis_sdr.chm10280
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItems Object (Visio)
+# ToolbarItems object (Visio)
 
 Includes a  **ToolbarItem** object for each item on a toolbar.
 

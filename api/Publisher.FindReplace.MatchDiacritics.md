@@ -1,5 +1,5 @@
 ---
-title: FindReplace.MatchDiacritics Property (Publisher)
+title: FindReplace.MatchDiacritics property (Publisher)
 keywords: vbapb10.chm8323081
 f1_keywords:
 - vbapb10.chm8323081
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.MatchDiacritics Property (Publisher)
+# FindReplace.MatchDiacritics property (Publisher)
 
 Sets or returns a  **Boolean** representing whether or not a search operation will match diacritics. Read/write.
 
 
 ## Syntax
 
- _expression_. **MatchDiacritics**
+ _expression_.**MatchDiacritics**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

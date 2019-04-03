@@ -1,5 +1,5 @@
 ---
-title: Results.Session Property (Outlook)
+title: Results.Session property (Outlook)
 keywords: vbaol11.chm500
 f1_keywords:
 - vbaol11.chm500
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.Session Property (Outlook)
+# Results.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Remarks

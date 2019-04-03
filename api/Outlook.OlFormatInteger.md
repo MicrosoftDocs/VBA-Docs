@@ -1,5 +1,5 @@
 ---
-title: OlFormatInteger Enumeration (Outlook)
+title: OlFormatInteger enumeration (Outlook)
 keywords: vbaol11.chm3135
 f1_keywords:
 - vbaol11.chm3135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormatInteger Enumeration (Outlook)
+# OlFormatInteger enumeration (Outlook)
 
 Indicates the format used to display integer Outlook item properties.
 

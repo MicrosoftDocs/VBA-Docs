@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IsSubdocument`
+_expression_. `IsSubdocument`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

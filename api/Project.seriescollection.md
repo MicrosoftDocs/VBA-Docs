@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection Object (Project)
+title: SeriesCollection object (Project)
 ms.prod: project-server
 ms.assetid: 2065e328-f82c-266f-e34c-fa99100c862e
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection Object (Project)
+# SeriesCollection object (Project)
 Represents a collection of data series (**[Series](Project.series.md)** objects) in a chart.
  
 

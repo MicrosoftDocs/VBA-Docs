@@ -19,7 +19,7 @@ Inserts an = (Formula) field that calculates and displays the sum of the values 
 
 ## Syntax
 
- _expression_. `AutoSum`
+_expression_. `AutoSum`
 
  _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 

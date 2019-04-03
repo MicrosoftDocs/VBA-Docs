@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Width Property (PowerPoint)
+title: AxisTitle.Width property (PowerPoint)
 keywords: vbapp10.chm683023
 f1_keywords:
 - vbapp10.chm683023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.Width Property (PowerPoint)
+# AxisTitle.Width property (PowerPoint)
 
 Returns a  **Double** value that represents the width, in points, of the object. Read-only.
 

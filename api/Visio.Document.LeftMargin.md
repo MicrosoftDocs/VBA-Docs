@@ -1,5 +1,5 @@
 ---
-title: Document.LeftMargin Property (Visio)
+title: Document.LeftMargin property (Visio)
 keywords: vis_sdr.chm10513830
 f1_keywords:
 - vis_sdr.chm10513830
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.LeftMargin Property (Visio)
+# Document.LeftMargin property (Visio)
 
 Specifies the left margin, which is used when printing. Read/write.
 

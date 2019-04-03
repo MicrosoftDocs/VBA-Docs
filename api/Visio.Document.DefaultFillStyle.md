@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultFillStyle Property (Visio)
+title: Document.DefaultFillStyle property (Visio)
 keywords: vis_sdr.chm10513380
 f1_keywords:
 - vis_sdr.chm10513380
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.DefaultFillStyle Property (Visio)
+# Document.DefaultFillStyle property (Visio)
 
 Gets or sets the default fill style of a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultFillStyle`
+_expression_. `DefaultFillStyle`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

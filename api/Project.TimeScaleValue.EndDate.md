@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValue.EndDate Property (Project)
+title: TimeScaleValue.EndDate property (Project)
 keywords: vbapj.chm131793
 f1_keywords:
 - vbapj.chm131793
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValue.EndDate Property (Project)
+# TimeScaleValue.EndDate property (Project)
 
 The end date for a period of time that defines the timescale value. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `EndDate`
+_expression_. `EndDate`
 
  _expression_ A variable that represents a [TimeScaleValue](./Project.TimeScaleValue.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Conflicts Property (Outlook)
+title: SharingItem.Conflicts property (Outlook)
 keywords: vbaol11.chm685
 f1_keywords:
 - vbaol11.chm685
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Conflicts Property (Outlook)
+# SharingItem.Conflicts property (Outlook)
 
 Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict with the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the ite
 
 _expression_. `Conflicts`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

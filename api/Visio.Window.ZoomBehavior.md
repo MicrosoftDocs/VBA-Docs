@@ -1,5 +1,5 @@
 ---
-title: Window.ZoomBehavior Property (Visio)
+title: Window.ZoomBehavior property (Visio)
 keywords: vis_sdr.chm11651465
 f1_keywords:
 - vis_sdr.chm11651465
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ZoomBehavior Property (Visio)
+# Window.ZoomBehavior property (Visio)
 
 Determines the zoom behavior for a Microsoft Visio document or window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ZoomBehavior`
+_expression_. `ZoomBehavior`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

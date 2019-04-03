@@ -1,5 +1,5 @@
 ---
-title: Document.UpdateOLEObjects Method (Publisher)
+title: Document.UpdateOLEObjects method (Publisher)
 keywords: vbapb10.chm196706
 f1_keywords:
 - vbapb10.chm196706
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.UpdateOLEObjects Method (Publisher)
+# Document.UpdateOLEObjects method (Publisher)
 
 Updates linked and embedded OLE objects.
 
 
 ## Syntax
 
- _expression_. **UpdateOLEObjects**
+ _expression_.**UpdateOLEObjects**
 
  _expression_ A variable that represents a  **Document** object.
 

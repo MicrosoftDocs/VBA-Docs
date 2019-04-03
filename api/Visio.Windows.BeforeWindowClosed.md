@@ -1,5 +1,5 @@
 ---
-title: Windows.BeforeWindowClosed Event (Visio)
+title: Windows.BeforeWindowClosed event (Visio)
 keywords: vis_sdr.chm11719075
 f1_keywords:
 - vis_sdr.chm11719075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.BeforeWindowClosed Event (Visio)
+# Windows.BeforeWindowClosed event (Visio)
 
 Occurs before a window is closed.
 

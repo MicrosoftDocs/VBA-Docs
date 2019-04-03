@@ -1,5 +1,5 @@
 ---
-title: FillFormat Object (Publisher)
+title: FillFormat object (Publisher)
 keywords: vbapb10.chm2424831
 f1_keywords:
 - vbapb10.chm2424831
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat Object (Publisher)
+# FillFormat object (Publisher)
 
 Represents fill formatting for a shape. A shape can have a solid, gradient, texture, pattern, picture, or semitransparent fill.
  

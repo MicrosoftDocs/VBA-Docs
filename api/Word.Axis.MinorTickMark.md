@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Axis.MinorTickMark property (Word)
 
-Returns or sets the type of minor tick mark for the specified axis. Read/write  **[xlTickMark](Word.xltickmark.md)**.
+Returns or sets the type of minor tick mark for the specified axis. Read/write  **[XlTickMark](Word.xltickmark.md)**.
 
 
 ## Syntax
 
- _expression_. `MinorTickMark`
+_expression_. `MinorTickMark`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Presentation.SlideMaster Property (PowerPoint)
+title: Presentation.SlideMaster property (PowerPoint)
 keywords: vbapp10.chm583003
 f1_keywords:
 - vbapp10.chm583003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.SlideMaster Property (PowerPoint)
+# Presentation.SlideMaster property (PowerPoint)
 
 Returns a  **[Master](PowerPoint.Master.md)** object that represents the slide master.
 
 
 ## Syntax
 
- _expression_. `SlideMaster`
+_expression_. `SlideMaster`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

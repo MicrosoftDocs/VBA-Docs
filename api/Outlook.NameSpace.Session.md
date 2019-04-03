@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Session Property (Outlook)
+title: NameSpace.Session property (Outlook)
 keywords: vbaol11.chm754
 f1_keywords:
 - vbaol11.chm754
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Session Property (Outlook)
+# NameSpace.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Remarks

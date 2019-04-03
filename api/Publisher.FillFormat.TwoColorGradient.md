@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TwoColorGradient Method (Publisher)
+title: FillFormat.TwoColorGradient method (Publisher)
 keywords: vbapb10.chm2359318
 f1_keywords:
 - vbapb10.chm2359318
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TwoColorGradient Method (Publisher)
+# FillFormat.TwoColorGradient method (Publisher)
 
 Sets the specified fill to a two-color gradient. The two fill colors are specified by the  **[ForeColor](Publisher.FillFormat.ForeColor.md)** and **[BackColor](Publisher.FillFormat.BackColor.md)** properties.
 
 
 ## Syntax
 
- _expression_. **TwoColorGradient**(**_Style_**,  **_Variant_**)
+ _expression_.**TwoColorGradient**(**_Style_**,  **_Variant_**)
 
  _expression_ A variable that represents a  **FillFormat** object.
 

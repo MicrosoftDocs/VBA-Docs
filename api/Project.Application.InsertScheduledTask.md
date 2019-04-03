@@ -1,5 +1,5 @@
 ---
-title: Application.InsertScheduledTask Method (Project)
+title: Application.InsertScheduledTask method (Project)
 keywords: vbapj.chm2168
 f1_keywords:
 - vbapj.chm2168
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.InsertScheduledTask Method (Project)
+# Application.InsertScheduledTask method (Project)
 
 Inserts a new automatically scheduled task above the selected task row or cell in a Gantt chart.
 
 
 ## Syntax
 
- _expression_. `InsertScheduledTask`
+_expression_. `InsertScheduledTask`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

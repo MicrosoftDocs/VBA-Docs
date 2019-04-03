@@ -1,5 +1,5 @@
 ---
-title: Presentations.CheckOut Method (PowerPoint)
+title: Presentations.CheckOut method (PowerPoint)
 keywords: vbapp10.chm522007
 f1_keywords:
 - vbapp10.chm522007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentations.CheckOut Method (PowerPoint)
+# Presentations.CheckOut method (PowerPoint)
 
 Copies a specified presentation from a server to a local computer for editing. Returns a  **String** that represents the local path and file name of the presentation checked out.
 
 
 ## Syntax
 
- _expression_. `CheckOut`( `_FileName_` )
+_expression_. `CheckOut`( `_FileName_` )
 
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 

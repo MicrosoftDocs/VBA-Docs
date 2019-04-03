@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetItemFromID Method (Outlook)
+title: NameSpace.GetItemFromID method (Outlook)
 keywords: vbaol11.chm763
 f1_keywords:
 - vbaol11.chm763
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.GetItemFromID Method (Outlook)
+# NameSpace.GetItemFromID method (Outlook)
 
 Returns a Microsoft Outlook item identified by the specified entry ID (if valid). 
 
@@ -21,7 +21,7 @@ Returns a Microsoft Outlook item identified by the specified entry ID (if valid)
 
 _expression_. `GetItemFromID`( `_EntryIDItem_` , `_EntryIDStore_` )
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters

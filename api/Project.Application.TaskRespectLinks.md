@@ -1,5 +1,5 @@
 ---
-title: Application.TaskRespectLinks Method (Project)
+title: Application.TaskRespectLinks method (Project)
 keywords: vbapj.chm2175
 f1_keywords:
 - vbapj.chm2175
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskRespectLinks Method (Project)
+# Application.TaskRespectLinks method (Project)
 
 Moves one or more selected tasks so that their dates are determined by their task dependencies.
 
 
 ## Syntax
 
- _expression_. `TaskRespectLinks`
+_expression_. `TaskRespectLinks`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

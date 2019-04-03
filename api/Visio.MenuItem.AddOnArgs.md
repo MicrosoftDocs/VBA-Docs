@@ -1,5 +1,5 @@
 ---
-title: MenuItem.AddOnArgs Property (Visio)
+title: MenuItem.AddOnArgs property (Visio)
 keywords: vis_sdr.chm12913045
 f1_keywords:
 - vis_sdr.chm12913045
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.AddOnArgs Property (Visio)
+# MenuItem.AddOnArgs property (Visio)
 
 Gets or sets the argument string that you send to the add-on associated with a particular menu item. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddOnArgs`
+_expression_. `AddOnArgs`
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PbInlineAlignment Enumeration (Publisher)
+title: PbInlineAlignment enumeration (Publisher)
 keywords: vbapb10.chm65556
 f1_keywords:
 - vbapb10.chm65556
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbInlineAlignment Enumeration (Publisher)
+# PbInlineAlignment enumeration (Publisher)
 
 Indicates whether an inline shape has left, right, or in-text alignment.
 

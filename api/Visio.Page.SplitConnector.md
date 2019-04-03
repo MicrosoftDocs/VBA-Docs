@@ -1,5 +1,5 @@
 ---
-title: Page.SplitConnector Method (Visio)
+title: Page.SplitConnector method (Visio)
 keywords: vis_sdr.chm10962155
 f1_keywords:
 - vis_sdr.chm10962155
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.SplitConnector Method (Visio)
+# Page.SplitConnector method (Visio)
 
 Splits the specified connector with the specified shape. Returns the new duplicated connector.
 
 
 ## Syntax
 
- _expression_. `SplitConnector`( `_ConnectorToSplit_` , `_Shape_` )
+_expression_. `SplitConnector`( `_ConnectorToSplit_` , `_Shape_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

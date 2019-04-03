@@ -1,5 +1,5 @@
 ---
-title: Project.BaseCalendars Property (Project)
+title: Project.BaseCalendars property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.BaseCalendars
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.BaseCalendars Property (Project)
+# Project.BaseCalendars property (Project)
 
 Gets a  **[Calendars](Project.Calendar.md)** collection representing all base calendars in the active project. Read-only **Calendars**.
 
 
 ## Syntax
 
- _expression_. `BaseCalendars`
+_expression_. `BaseCalendars`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

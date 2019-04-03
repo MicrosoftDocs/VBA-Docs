@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Style.Orientation property (Excel)
 
-Returns or sets a  **[xlOrientation](Excel.XlOrientation.md)** value that represents the text orientation.
+Returns or sets a  **[XlOrientation](Excel.XlOrientation.md)** value that represents the text orientation.
 
 
 ## Syntax
 
 _expression_.**Orientation**
 
-_expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## See also

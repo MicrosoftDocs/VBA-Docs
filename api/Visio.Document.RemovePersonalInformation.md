@@ -1,5 +1,5 @@
 ---
-title: Document.RemovePersonalInformation Property (Visio)
+title: Document.RemovePersonalInformation property (Visio)
 keywords: vis_sdr.chm10551675
 f1_keywords:
 - vis_sdr.chm10551675
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.RemovePersonalInformation Property (Visio)
+# Document.RemovePersonalInformation property (Visio)
 
 Determines if personal information about a file is saved when the user saves the file in Microsoft Visio. Read/write.
 
 
 ## Syntax
 
- _expression_. `RemovePersonalInformation`
+_expression_. `RemovePersonalInformation`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

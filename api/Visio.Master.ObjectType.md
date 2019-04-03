@@ -1,5 +1,5 @@
 ---
-title: Master.ObjectType Property (Visio)
+title: Master.ObjectType property (Visio)
 keywords: vis_sdr.chm10713960
 f1_keywords:
 - vis_sdr.chm10713960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.ObjectType Property (Visio)
+# Master.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskDependencies.Count Property (Project)
+title: TaskDependencies.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependencies.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependencies.Count Property (Project)
+# TaskDependencies.Count property (Project)
 
 Gets the number of items in the  **TaskDependencies** collection. Read-only **Long**.
 

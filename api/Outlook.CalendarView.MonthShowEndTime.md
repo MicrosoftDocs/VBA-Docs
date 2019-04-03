@@ -1,5 +1,5 @@
 ---
-title: CalendarView.MonthShowEndTime Property (Outlook)
+title: CalendarView.MonthShowEndTime property (Outlook)
 keywords: vbaol11.chm2632
 f1_keywords:
 - vbaol11.chm2632
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.MonthShowEndTime Property (Outlook)
+# CalendarView.MonthShowEndTime property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether end times for Outlook items are displayed in the **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether end times for Outloo
 
 _expression_. `MonthShowEndTime`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Item Method (PowerPoint)
+title: ShapeNodes.Item method (PowerPoint)
 keywords: vbapp10.chm560003
 f1_keywords:
 - vbapp10.chm560003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.Item Method (PowerPoint)
+# ShapeNodes.Item method (PowerPoint)
 
 Returns a single  **ShapeNode** object from the specified **ShapeNodes** collection.
 

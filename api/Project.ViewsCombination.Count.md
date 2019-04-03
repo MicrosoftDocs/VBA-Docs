@@ -1,5 +1,5 @@
 ---
-title: ViewsCombination.Count Property (Project)
+title: ViewsCombination.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewsCombination.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewsCombination.Count Property (Project)
+# ViewsCombination.Count property (Project)
 
 Gets the number of items in the  **ViewsCombination** collection. Read-only **Long**.
 

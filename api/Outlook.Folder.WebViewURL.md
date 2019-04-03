@@ -1,5 +1,5 @@
 ---
-title: Folder.WebViewURL Property (Outlook)
+title: Folder.WebViewURL property (Outlook)
 keywords: vbaol11.chm2001
 f1_keywords:
 - vbaol11.chm2001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.WebViewURL Property (Outlook)
+# Folder.WebViewURL property (Outlook)
 
 Returns or sets a  **String** indicating the URL of the web page that is assigned to a folder. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the URL of the web page that is assigne
 
 _expression_. `WebViewURL`
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Example

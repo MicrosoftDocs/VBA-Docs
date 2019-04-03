@@ -1,5 +1,5 @@
 ---
-title: Page.AddGuide Method (Visio)
+title: Page.AddGuide method (Visio)
 keywords: vis_sdr.chm10916035
 f1_keywords:
 - vis_sdr.chm10916035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.AddGuide Method (Visio)
+# Page.AddGuide method (Visio)
 
 Adds a guide to a drawing page.
 
 
 ## Syntax
 
- _expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
+_expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

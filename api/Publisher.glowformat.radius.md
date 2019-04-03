@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Radius Property (Publisher)
+title: GlowFormat.Radius property (Publisher)
 keywords: vbapb10.chm9633793
 f1_keywords:
 - vbapb10.chm9633793
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# GlowFormat.Radius Property (Publisher)
+# GlowFormat.Radius property (Publisher)
 
 Returns or sets a  **Single** that represents the length of the radius for a glow effect. Read/write.
 
 
 ## Syntax
 
- _expression_. **Radius**
+ _expression_.**Radius**
 
  _expression_ A variable that represents a  **GlowFormat** object.
 

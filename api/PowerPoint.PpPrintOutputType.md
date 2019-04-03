@@ -1,5 +1,5 @@
 ---
-title: PpPrintOutputType Enumeration (PowerPoint)
+title: PpPrintOutputType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpPrintOutputType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpPrintOutputType Enumeration (PowerPoint)
+# PpPrintOutputType enumeration (PowerPoint)
 
 A value that indicates which component (slides, handouts, notes pages, or an outline) of the presentation is to be printed.
 

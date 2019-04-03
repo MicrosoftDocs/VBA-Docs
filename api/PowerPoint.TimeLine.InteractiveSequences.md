@@ -1,5 +1,5 @@
 ---
-title: TimeLine.InteractiveSequences Property (PowerPoint)
+title: TimeLine.InteractiveSequences property (PowerPoint)
 keywords: vbapp10.chm649004
 f1_keywords:
 - vbapp10.chm649004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TimeLine.InteractiveSequences Property (PowerPoint)
+# TimeLine.InteractiveSequences property (PowerPoint)
 
 Returns a  **[Sequences](PowerPoint.Sequences.md)** object that represents animations that are triggered by click a specified shape.
 
 
 ## Syntax
 
- _expression_. `InteractiveSequences`
+_expression_. `InteractiveSequences`
 
  _expression_ A variable that represents an [TimeLine](./PowerPoint.TimeLine.md) object.
 

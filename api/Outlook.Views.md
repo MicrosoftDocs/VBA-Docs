@@ -1,5 +1,5 @@
 ---
-title: Views Object (Outlook)
+title: Views object (Outlook)
 keywords: vbaol11.chm3013
 f1_keywords:
 - vbaol11.chm3013
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Views Object (Outlook)
+# Views object (Outlook)
 
 Contains a collection of all  **[View](Outlook.View.md)** objects in the current folder.
 
@@ -151,6 +151,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

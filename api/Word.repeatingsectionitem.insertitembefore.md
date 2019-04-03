@@ -17,7 +17,7 @@ Adds a repeating section item before the specified item and returns the new item
 
 ## Syntax
 
- _expression_. `InsertItemBefore`
+_expression_. `InsertItemBefore`
 
  _expression_ A variable that represents a 'RepeatingSectionItem' object.
 

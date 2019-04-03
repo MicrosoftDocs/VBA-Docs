@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Parent Property (Outlook)
+title: StorageItem.Parent property (Outlook)
 keywords: vbaol11.chm2140
 f1_keywords:
 - vbaol11.chm2140
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Parent Property (Outlook)
+# StorageItem.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
+_expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.FieldType Property (Publisher)
+title: MailMergeDataField.FieldType property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.Field.FieldType
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataField.FieldType Property (Publisher)
+# MailMergeDataField.FieldType property (Publisher)
 
 Returns a  **pbMailMergeDataFieldType** constant that represents the type of data contained in the data field.
 
 
 ## Syntax
 
- _expression_. **FieldType**
+ _expression_.**FieldType**
 
  _expression_ A variable that represents a  **MailMergeDataField** object.
 

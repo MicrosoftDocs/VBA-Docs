@@ -1,5 +1,5 @@
 ---
-title: Font.ExpandUsingKashida Property (Publisher)
+title: Font.ExpandUsingKashida property (Publisher)
 keywords: vbapb10.chm5374004
 f1_keywords:
 - vbapb10.chm5374004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.ExpandUsingKashida Property (Publisher)
+# Font.ExpandUsingKashida property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether to apply kashida rules while applying tracking to Arabic text. Read/write.
 
 
 ## Syntax
 
- _expression_. **ExpandUsingKashida**
+ _expression_.**ExpandUsingKashida**
 
  _expression_ A variable that represents an  **Font** object.
 

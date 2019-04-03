@@ -1,5 +1,5 @@
 ---
-title: Application.WorkpaneDisplayChange Event (Project)
+title: Application.WorkpaneDisplayChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WorkpaneDisplayChange
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkpaneDisplayChange Event (Project)
+# Application.WorkpaneDisplayChange event (Project)
 
 Occurs when the Project Guide is hidden or shown.
 
 
 ## Syntax
 
- _expression_. `WorkpaneDisplayChange`( `_DisplayState_`, )
+_expression_. `WorkpaneDisplayChange`( `_DisplayState_`, )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: RuleActions.Stop Property (Outlook)
+title: RuleActions.Stop property (Outlook)
 keywords: vbaol11.chm2190
 f1_keywords:
 - vbaol11.chm2190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.Stop Property (Outlook)
+# RuleActions.Stop property (Outlook)
 
 Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionStop**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.Act
 
 _expression_. `Stop`
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks

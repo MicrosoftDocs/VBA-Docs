@@ -1,5 +1,5 @@
 ---
-title: Shape.ConvertTextToSmartArt Method (PowerPoint)
+title: Shape.ConvertTextToSmartArt method (PowerPoint)
 keywords: vbapp10.chm547087
 f1_keywords:
 - vbapp10.chm547087
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.ConvertTextToSmartArt Method (PowerPoint)
+# Shape.ConvertTextToSmartArt method (PowerPoint)
 
 Converts text in a  **Shape** object to a SmartArt diagram.
 
 
 ## Syntax
 
- _expression_. `ConvertTextToSmartArt`( `_Layout_` )
+_expression_. `ConvertTextToSmartArt`( `_Layout_` )
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

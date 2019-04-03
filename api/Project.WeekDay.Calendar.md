@@ -1,5 +1,5 @@
 ---
-title: WeekDay.Calendar Property (Project)
+title: WeekDay.Calendar property (Project)
 ms.prod: project-server
 api_name:
 - Project.WeekDay.Calendar
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# WeekDay.Calendar Property (Project)
+# WeekDay.Calendar property (Project)
 
 Gets a  **[Calendar](Project.Calendar.md)** object representing the calendar containing the **WeekDay** object. Read-only **Calendar**.
 
 
 ## Syntax
 
- _expression_. `Calendar`
+_expression_. `Calendar`
 
  _expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
 

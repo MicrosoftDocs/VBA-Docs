@@ -1,5 +1,5 @@
 ---
-title: ContactItem.GetConversation Method (Outlook)
+title: ContactItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3404
 f1_keywords:
 - vbaol11.chm3404
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.GetConversation Method (Outlook)
+# ContactItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

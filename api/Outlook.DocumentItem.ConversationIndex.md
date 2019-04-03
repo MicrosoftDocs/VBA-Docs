@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.ConversationIndex Property (Outlook)
+title: DocumentItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1189
 f1_keywords:
 - vbaol11.chm1189
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.ConversationIndex Property (Outlook)
+# DocumentItem.ConversationIndex property (Outlook)
 
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that indicates the relative position of the item within th
 
 _expression_. `ConversationIndex`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

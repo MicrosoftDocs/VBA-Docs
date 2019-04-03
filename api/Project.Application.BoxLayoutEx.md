@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLayoutEx Method (Project)
+title: Application.BoxLayoutEx method (Project)
 keywords: vbapj.chm2157
 f1_keywords:
 - vbapj.chm2157
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxLayoutEx Method (Project)
+# Application.BoxLayoutEx method (Project)
 
 Specifies the layout of boxes in the active Network Diagram view (PERT chart), where the background color can be specified as a hexadecimal value.
 
 
 ## Syntax
 
- _expression_. `BoxLayoutEx`( `_LayoutMode_`, `_LayoutScheme_`, `_SummaryPrecedence_`, `_RowAlignment_`, `_ColumnAlignment_`, `_RowSpacing_`, `_ColumnSpacing_`, `_RowHeight_`, `_ColumnWidth_`, `_AdjustForPageBreaks_`, `_ShowSummaryTasks_`, `_ViewBackgroundColor_`, `_ViewBackgroundPattern_`, `_ShowProgressMarks_`, `_ShowPageBreaks_`, `_ShowIDOnly_` )
+_expression_. `BoxLayoutEx`( `_LayoutMode_`, `_LayoutScheme_`, `_SummaryPrecedence_`, `_RowAlignment_`, `_ColumnAlignment_`, `_RowSpacing_`, `_ColumnSpacing_`, `_RowHeight_`, `_ColumnWidth_`, `_AdjustForPageBreaks_`, `_ShowSummaryTasks_`, `_ViewBackgroundColor_`, `_ViewBackgroundPattern_`, `_ShowProgressMarks_`, `_ShowPageBreaks_`, `_ShowIDOnly_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

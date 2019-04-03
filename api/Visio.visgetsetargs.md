@@ -1,5 +1,5 @@
 ---
-title: VisGetSetArgs Enumeration (Visio)
+title: VisGetSetArgs enumeration (Visio)
 keywords: vis_sdr.chm70055
 f1_keywords:
 - vis_sdr.chm70055
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisGetSetArgs Enumeration (Visio)
+# VisGetSetArgs enumeration (Visio)
 
 Flags to be passed to the  **GetResults**, **SetFormulas**, and **SetResults** methods.
 

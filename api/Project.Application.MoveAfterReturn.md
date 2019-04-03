@@ -1,5 +1,5 @@
 ---
-title: Application.MoveAfterReturn Property (Project)
+title: Application.MoveAfterReturn property (Project)
 keywords: vbapj.chm132417
 f1_keywords:
 - vbapj.chm132417
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MoveAfterReturn Property (Project)
+# Application.MoveAfterReturn property (Project)
 
  **True** if the field below the active field becomes active when you press ENTER. **False** if the field remains active. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MoveAfterReturn`
+_expression_. `MoveAfterReturn`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog Object (Outlook)
+title: SelectNamesDialog object (Outlook)
 keywords: vbaol11.chm3156
 f1_keywords:
 - vbaol11.chm3156
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog Object (Outlook)
+# SelectNamesDialog object (Outlook)
 
 Displays the  **Select Names** dialog box for the user to select entries from one or more address lists, and returns the selected entries in the collection object specified by the property **[SelectNamesDialog.Recipients](Outlook.SelectNamesDialog.Recipients.md)**.
 
@@ -115,6 +115,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

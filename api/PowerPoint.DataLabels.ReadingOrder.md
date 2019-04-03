@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ReadingOrder Property (PowerPoint)
+title: DataLabels.ReadingOrder property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ReadingOrder
@@ -9,9 +9,9 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.ReadingOrder Property (PowerPoint)
+# DataLabels.ReadingOrder property (PowerPoint)
 
-Returns or sets an  **[xlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
+Returns or sets an  **[XlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
 
 
 ## Syntax

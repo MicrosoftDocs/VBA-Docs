@@ -19,7 +19,7 @@ Returns a  **Boolean** that represents whether the content control in the docume
 
 ## Syntax
 
- _expression_. `IsMapped`
+_expression_. `IsMapped`
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 

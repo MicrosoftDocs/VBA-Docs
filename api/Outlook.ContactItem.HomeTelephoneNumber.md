@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HomeTelephoneNumber Property (Outlook)
+title: ContactItem.HomeTelephoneNumber property (Outlook)
 keywords: vbaol11.chm1020
 f1_keywords:
 - vbaol11.chm1020
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.HomeTelephoneNumber Property (Outlook)
+# ContactItem.HomeTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** representing the first home telephone number for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the first home telephone number for t
 
 _expression_. `HomeTelephoneNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

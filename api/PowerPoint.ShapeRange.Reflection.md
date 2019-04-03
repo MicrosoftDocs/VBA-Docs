@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Reflection Property (PowerPoint)
+title: ShapeRange.Reflection property (PowerPoint)
 keywords: vbapp10.chm548092
 f1_keywords:
 - vbapp10.chm548092
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Reflection Property (PowerPoint)
+# ShapeRange.Reflection property (PowerPoint)
 
 Returns the reflection format for the specified range of shapes. Read-only.
 
 
 ## Syntax
 
- _expression_. `Reflection`
+_expression_. `Reflection`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

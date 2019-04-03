@@ -1,5 +1,5 @@
 ---
-title: Printer.PaperHeight Property (Publisher)
+title: Printer.PaperHeight property (Publisher)
 keywords: vbapb10.chm8978441
 f1_keywords:
 - vbapb10.chm8978441
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Printer.PaperHeight Property (Publisher)
+# Printer.PaperHeight property (Publisher)
 
 Gets or sets the height of the printed page in points. Read/write.
 
 
 ## Syntax
 
- _expression_. **PaperHeight**
+ _expression_.**PaperHeight**
 
  _expression_ A variable that represents a  **Printer** object.
 

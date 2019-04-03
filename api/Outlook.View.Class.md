@@ -1,5 +1,5 @@
 ---
-title: View.Class Property (Outlook)
+title: View.Class property (Outlook)
 keywords: vbaol11.chm2481
 f1_keywords:
 - vbaol11.chm2481
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# View.Class Property (Outlook)
+# View.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_.**Class**
 
-_expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## See also

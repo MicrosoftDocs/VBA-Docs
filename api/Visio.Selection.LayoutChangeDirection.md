@@ -1,5 +1,5 @@
 ---
-title: Selection.LayoutChangeDirection Method (Visio)
+title: Selection.LayoutChangeDirection method (Visio)
 keywords: vis_sdr.chm11162195
 f1_keywords:
 - vis_sdr.chm11162195
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.LayoutChangeDirection Method (Visio)
+# Selection.LayoutChangeDirection method (Visio)
 
 Revises the layout of a selection of connected shapes by rotating or flipping the connected shapes as a unit, without rotating or flipping the individual shapes.
 
 
 ## Syntax
 
- _expression_. `LayoutChangeDirection`( `_Direction_` )
+_expression_. `LayoutChangeDirection`( `_Direction_` )
 
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 

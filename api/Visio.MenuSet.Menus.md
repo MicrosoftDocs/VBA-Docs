@@ -1,5 +1,5 @@
 ---
-title: MenuSet.Menus Property (Visio)
+title: MenuSet.Menus property (Visio)
 keywords: vis_sdr.chm13313910
 f1_keywords:
 - vis_sdr.chm13313910
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MenuSet.Menus Property (Visio)
+# MenuSet.Menus property (Visio)
 
 Returns the  **Menus** collection of a **MenuSet** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Menus`
+_expression_. `Menus`
 
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 

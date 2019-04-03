@@ -1,5 +1,5 @@
 ---
-title: CategoryRuleCondition.Session Property (Outlook)
+title: CategoryRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2442
 f1_keywords:
 - vbaol11.chm2442
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryRuleCondition.Session Property (Outlook)
+# CategoryRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [CategoryRuleCondition](./Outlook.CategoryRuleCondition.md) object.
+_expression_ A variable that represents a [CategoryRuleCondition](Outlook.CategoryRuleCondition.md) object.
 
 
 ## Remarks

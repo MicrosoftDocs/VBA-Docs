@@ -1,5 +1,5 @@
 ---
-title: Shape.Left Property (Publisher)
+title: Shape.Left property (Publisher)
 keywords: vbapb10.chm2228289
 f1_keywords:
 - vbapb10.chm2228289
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Left Property (Publisher)
+# Shape.Left property (Publisher)
 
 Returns or sets a  **Variant** indicating the distance from the left edge of the page to the leftmost edge of the specified shape. Numeric values are in points; all other values are in any measurement supported by Publisher (for example, "2.5 in"). Read/write.
 
 
 ## Syntax
 
- _expression_. **Left**
+ _expression_.**Left**
 
  _expression_ A variable that represents a  **Shape** object.
 

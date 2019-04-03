@@ -1,5 +1,5 @@
 ---
-title: VisUnitCodes Enumeration (Visio)
+title: VisUnitCodes enumeration (Visio)
 keywords: vis_sdr.chm70000
 f1_keywords:
 - vis_sdr.chm70000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUnitCodes Enumeration (Visio)
+# VisUnitCodes enumeration (Visio)
 
 Unit codes used in conjunction with  **Cell.Result** and similar properties.
 

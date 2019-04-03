@@ -1,5 +1,5 @@
 ---
-title: PayRate Object (Project)
+title: PayRate object (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PayRate Object (Project)
+# PayRate object (Project)
 
 
  

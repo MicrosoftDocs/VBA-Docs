@@ -1,5 +1,5 @@
 ---
-title: Document.Close Method (Publisher)
+title: Document.Close method (Publisher)
 keywords: vbapb10.chm196680
 f1_keywords:
 - vbapb10.chm196680
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Close Method (Publisher)
+# Document.Close method (Publisher)
 
 Closes the current publication and creates a blank publication in its place.
 
 
 ## Syntax
 
- _expression_. **Close**
+ _expression_.**Close**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -31,7 +31,7 @@ You can use the  **Close** method only on an open **Document** object in another
 
 ## Example
 
-This example opens a publication in a new instance of Publisher for modification and then closes the publication. (Note that to make this example work, you must replace  _Filename_ with a valid file name .)
+This example opens a publication in a new instance of Publisher for modification and then closes the publication. (Note that to make this example work, you must replace  _FileName_ with a valid file name .)
 
 
 ```vb

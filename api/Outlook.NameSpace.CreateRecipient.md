@@ -1,5 +1,5 @@
 ---
-title: NameSpace.CreateRecipient Method (Outlook)
+title: NameSpace.CreateRecipient method (Outlook)
 keywords: vbaol11.chm760
 f1_keywords:
 - vbaol11.chm760
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.CreateRecipient Method (Outlook)
+# NameSpace.CreateRecipient method (Outlook)
 
 Creates a  **[Recipient](Outlook.Recipient.md)** object.
 
@@ -21,7 +21,7 @@ Creates a  **[Recipient](Outlook.Recipient.md)** object.
 
 _expression_. `CreateRecipient`( `_RecipientName_` )
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters

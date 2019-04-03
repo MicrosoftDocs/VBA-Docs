@@ -1,5 +1,5 @@
 ---
-title: Page.DrawLine Method (Visio)
+title: Page.DrawLine method (Visio)
 keywords: vis_sdr.chm10916200
 f1_keywords:
 - vis_sdr.chm10916200
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.DrawLine Method (Visio)
+# Page.DrawLine method (Visio)
 
 Adds a line to the  **Shapes** collection of a page.
 
 
 ## Syntax
 
- _expression_. `DrawLine`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` )
+_expression_. `DrawLine`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

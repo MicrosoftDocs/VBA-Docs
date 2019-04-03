@@ -19,7 +19,7 @@ Sets or returns a  **Boolean** that represents whether pages displayed in readin
 
 ## Syntax
 
- _expression_. `ReadingLayoutActualView`
+_expression_. `ReadingLayoutActualView`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 

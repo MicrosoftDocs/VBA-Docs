@@ -1,5 +1,5 @@
 ---
-title: Profiles.ActiveProfile Property (Project)
+title: Profiles.ActiveProfile property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profiles.ActiveProfile
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Profiles.ActiveProfile Property (Project)
+# Profiles.ActiveProfile property (Project)
 
 Gets the  **[Profile](Project.Profile.md)** object of the current account. Read-only **Profile**.
 
 
 ## Syntax
 
- _expression_. `ActiveProfile`
+_expression_. `ActiveProfile`
 
  _expression_ A variable that represents a 'Profiles' object.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.DeferredDeliveryTime Property (Outlook)
+title: SharingItem.DeferredDeliveryTime property (Outlook)
 keywords: vbaol11.chm635
 f1_keywords:
 - vbaol11.chm635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.DeferredDeliveryTime Property (Outlook)
+# SharingItem.DeferredDeliveryTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time the **[SharingItem](Outlook.SharingItem.md)** is to be delivered. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the date and time the **[SharingItem](Out
 
 _expression_. `DeferredDeliveryTime`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

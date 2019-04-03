@@ -1,5 +1,5 @@
 ---
-title: Pages.PageAdded Event (Visio)
+title: Pages.PageAdded event (Visio)
 keywords: vis_sdr.chm11019200
 f1_keywords:
 - vis_sdr.chm11019200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.PageAdded Event (Visio)
+# Pages.PageAdded event (Visio)
 
 Occurs after a new page is added to a document.
 

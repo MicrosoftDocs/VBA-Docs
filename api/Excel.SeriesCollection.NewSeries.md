@@ -21,7 +21,7 @@ Creates a new series. Returns a  **[Series](Excel.Series(object).md)** object th
 
 _expression_. `NewSeries`
 
-_expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
+_expression_ A variable that represents a [SeriesCollection](Excel.SeriesCollection.md) object.
 
 
 ## Return value
@@ -47,6 +47,6 @@ Set ns = Charts(1).SeriesCollection.NewSeries
 ## See also
 
 
-[SeriesCollection Object](./Excel.SeriesCollection.md)
+[SeriesCollection Object](Excel.SeriesCollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

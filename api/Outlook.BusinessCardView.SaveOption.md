@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.SaveOption Property (Outlook)
+title: BusinessCardView.SaveOption property (Outlook)
 keywords: vbaol11.chm2929
 f1_keywords:
 - vbaol11.chm2929
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.SaveOption Property (Outlook)
+# BusinessCardView.SaveOption property (Outlook)
 
 Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
 _expression_. `SaveOption`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: TaskDependency Object (Project)
+title: TaskDependency object (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependency
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency Object (Project)
+# TaskDependency object (Project)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Resource.Cost Property (Project)
+title: Resource.Cost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Cost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Cost Property (Project)
+# Resource.Cost property (Project)
 
 Gets the total cost of the resource in a project. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Cost`
+_expression_. `Cost`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

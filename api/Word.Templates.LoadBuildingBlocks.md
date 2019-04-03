@@ -19,7 +19,7 @@ Loads the building blocks for all templates into Microsoft Word.
 
 ## Syntax
 
- _expression_. `LoadBuildingBlocks`
+_expression_. `LoadBuildingBlocks`
 
  _expression_ An expression that returns a '[Templates](Word.templates.md)' object.
 

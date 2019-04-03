@@ -1,5 +1,5 @@
 ---
-title: Application.AddResourcesFromProjectServer Method (Project)
+title: Application.AddResourcesFromProjectServer method (Project)
 keywords: vbapj.chm2130
 f1_keywords:
 - vbapj.chm2130
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AddResourcesFromProjectServer Method (Project)
+# Application.AddResourcesFromProjectServer method (Project)
 
 Opens the **Build Team** dialog box if you are connected to Project Server and are currently in a resource view.
 
 
 ## Syntax
 
- _expression_. `AddResourcesFromProjectServer`
+_expression_. `AddResourcesFromProjectServer`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

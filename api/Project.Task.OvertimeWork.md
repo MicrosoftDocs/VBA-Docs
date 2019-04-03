@@ -1,5 +1,5 @@
 ---
-title: Task.OvertimeWork Property (Project)
+title: Task.OvertimeWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.OvertimeWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.OvertimeWork Property (Project)
+# Task.OvertimeWork property (Project)
 
 Gets the overtime work for a task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `OvertimeWork`
+_expression_. `OvertimeWork`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

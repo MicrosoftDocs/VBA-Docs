@@ -1,5 +1,5 @@
 ---
-title: Wizard Object (Publisher)
+title: Wizard object (Publisher)
 keywords: vbapb10.chm1507327
 f1_keywords:
 - vbapb10.chm1507327
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Wizard Object (Publisher)
+# Wizard object (Publisher)
 
 Represents the publication design associated with a publication or the wizard associated with a Design Gallery object.
  

@@ -1,5 +1,5 @@
 ---
-title: Printer.IsDuplex Property (Publisher)
+title: Printer.IsDuplex property (Publisher)
 keywords: vbapb10.chm8978438
 f1_keywords:
 - vbapb10.chm8978438
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Printer.IsDuplex Property (Publisher)
+# Printer.IsDuplex property (Publisher)
 
 Returns  **True** if the device represented by the parent **Printer** object is a duplex printer. Read-only.
 
 
 ## Syntax
 
- _expression_. **IsDuplex**
+ _expression_.**IsDuplex**
 
  _expression_ A variable that represents a  **Printer** object.
 

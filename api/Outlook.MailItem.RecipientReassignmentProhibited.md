@@ -1,5 +1,5 @@
 ---
-title: MailItem.RecipientReassignmentProhibited Property (Outlook)
+title: MailItem.RecipientReassignmentProhibited property (Outlook)
 keywords: vbaol11.chm1346
 f1_keywords:
 - vbaol11.chm1346
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.RecipientReassignmentProhibited Property (Outlook)
+# MailItem.RecipientReassignmentProhibited property (Outlook)
 
 Returns a  **Boolean** that indicates **True** if the recipient cannot forward the mail message. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that indicates **True** if the recipient cannot forward t
 
 _expression_. `RecipientReassignmentProhibited`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## See also

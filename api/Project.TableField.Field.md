@@ -1,5 +1,5 @@
 ---
-title: TableField.Field Property (Project)
+title: TableField.Field property (Project)
 keywords: vbapj.chm132687
 f1_keywords:
 - vbapj.chm132687
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TableField.Field Property (Project)
+# TableField.Field property (Project)
 
 Gets or sets the type of a table field. Read/write  **PjField**.
 
 
 ## Syntax
 
- _expression_. `Field`
+_expression_. `Field`
 
  _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 

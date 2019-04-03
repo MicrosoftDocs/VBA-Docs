@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Top Property (Visio)
+title: Toolbar.Top property (Visio)
 keywords: vis_sdr.chm13714570
 f1_keywords:
 - vis_sdr.chm13714570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.Top Property (Visio)
+# Toolbar.Top property (Visio)
 
 Gets the distance between the top of an object and the top of the docking area or the top of the screen if the object isn't docked; it sets the distance between the top of a  **Toolbar** object and the top of the screen. Read/write.
 

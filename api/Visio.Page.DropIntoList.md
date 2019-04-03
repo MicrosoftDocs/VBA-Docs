@@ -1,5 +1,5 @@
 ---
-title: Page.DropIntoList Method (Visio)
+title: Page.DropIntoList method (Visio)
 keywords: vis_sdr.chm10962180
 f1_keywords:
 - vis_sdr.chm10962180
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.DropIntoList Method (Visio)
+# Page.DropIntoList method (Visio)
 
 Drops the specified object into the specified list at the specified position. Returns the newly dropped shape.
 
 
 ## Syntax
 
- _expression_. `DropIntoList`( `_ObjectToDrop_` , `_TargetList_` , `_lPosition_` )
+_expression_. `DropIntoList`( `_ObjectToDrop_` , `_TargetList_` , `_lPosition_` )
 
  _expression_ An expression that returns a '[Page](Visio.Page.md)' object.
 

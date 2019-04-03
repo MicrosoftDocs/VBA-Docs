@@ -1,5 +1,5 @@
 ---
-title: ShapeRange Object (Publisher)
+title: ShapeRange object (Publisher)
 keywords: vbapb10.chm2359295
 f1_keywords:
 - vbapb10.chm2359295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange Object (Publisher)
+# ShapeRange object (Publisher)
 
 Represents a shape range, which is a set of shapes on a document. A shape range can contain as few as one shape or as many as all the shapes in the document. You can include whichever shapes you want — chosen from among all the shapes in the document or all the shapes in the selection — to construct a shape range. For example, you could construct a  **ShapeRange** collection that contains the first three shapes in a document, all the selected shapes in a document, or all the freeform shapes in a document.
 

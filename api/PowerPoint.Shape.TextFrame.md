@@ -1,5 +1,5 @@
 ---
-title: Shape.TextFrame Property (PowerPoint)
+title: Shape.TextFrame property (PowerPoint)
 keywords: vbapp10.chm547035
 f1_keywords:
 - vbapp10.chm547035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.TextFrame Property (PowerPoint)
+# Shape.TextFrame property (PowerPoint)
 
 Returns a  **[TextFrame](PowerPoint.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape or master text style.
 
 
 ## Syntax
 
- _expression_. `TextFrame`
+_expression_. `TextFrame`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -38,7 +38,7 @@ Use the  **HasTextFrame** property to determine whether a shape contains a text 
 
 ## Example
 
-This example adds a rectangle to  `myDocument`, adds text to the rectangle, and sets the top margin for the text frame.
+This example adds a rectangle to  _myDocument_, adds text to the rectangle, and sets the top margin for the text frame.
 
 
 ```vb

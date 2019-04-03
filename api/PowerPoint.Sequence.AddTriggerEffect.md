@@ -1,5 +1,5 @@
 ---
-title: Sequence.AddTriggerEffect Method (PowerPoint)
+title: Sequence.AddTriggerEffect method (PowerPoint)
 keywords: vbapp10.chm651013
 f1_keywords:
 - vbapp10.chm651013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Sequence.AddTriggerEffect Method (PowerPoint)
+# Sequence.AddTriggerEffect method (PowerPoint)
 
 Adds a trigger effect to the animation in a  **Sequence** object.
 
 
 ## Syntax
 
- _expression_. `AddTriggerEffect`( `_pShape_`, `_effectId_`, `_trigger_`, `_pTriggerShape_`, `_bookmark_`, `_Level_` )
+_expression_. `AddTriggerEffect`( `_pShape_`, `_effectId_`, `_trigger_`, `_pTriggerShape_`, `_bookmark_`, `_Level_` )
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 

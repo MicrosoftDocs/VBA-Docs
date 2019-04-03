@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Parent Property (PowerPoint)
+title: ChartTitle.Parent property (PowerPoint)
 keywords: vbapp10.chm694017
 f1_keywords:
 - vbapp10.chm694017
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Parent Property (PowerPoint)
+# ChartTitle.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

@@ -1,5 +1,5 @@
 ---
-title: View.Player Method (PowerPoint)
+title: View.Player method (PowerPoint)
 keywords: vbapp10.chm512013
 f1_keywords:
 - vbapp10.chm512013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# View.Player Method (PowerPoint)
+# View.Player method (PowerPoint)
 
 Allows access to playback controls for the associated view in the current window.
 
 
 ## Syntax
 
- _expression_. `Player`( `_ShapeId_` )
+_expression_. `Player`( `_ShapeId_` )
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

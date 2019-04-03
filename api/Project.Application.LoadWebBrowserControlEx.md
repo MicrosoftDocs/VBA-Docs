@@ -1,5 +1,5 @@
 ---
-title: Application.LoadWebBrowserControlEx Method (Project)
+title: Application.LoadWebBrowserControlEx method (Project)
 keywords: vbapj.chm54
 f1_keywords:
 - vbapj.chm54
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LoadWebBrowserControlEx Method (Project)
+# Application.LoadWebBrowserControlEx method (Project)
 
 Displays HTML pages within Project when the  **Project Guide** is shown or hidden.
 
 
 ## Syntax
 
- _expression_. `LoadWebBrowserControlEx`( `_TargetPage_`, `_WrapperPage_`, `_FunctionalityName_` )
+_expression_. `LoadWebBrowserControlEx`( `_TargetPage_`, `_WrapperPage_`, `_FunctionalityName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

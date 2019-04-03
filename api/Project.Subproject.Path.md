@@ -1,5 +1,5 @@
 ---
-title: Subproject.Path Property (Project)
+title: Subproject.Path property (Project)
 ms.prod: project-server
 api_name:
 - Project.Subproject.Path
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Subproject.Path Property (Project)
+# Subproject.Path property (Project)
 
 Gets or sets the path to the source project. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 

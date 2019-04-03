@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Visible Property (PowerPoint)
+title: ShapeRange.Visible property (PowerPoint)
 keywords: vbapp10.chm548041
 f1_keywords:
 - vbapp10.chm548041
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Visible Property (PowerPoint)
+# ShapeRange.Visible property (PowerPoint)
 
 Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
 

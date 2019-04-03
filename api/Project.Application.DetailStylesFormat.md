@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesFormat Method (Project)
+title: Application.DetailStylesFormat method (Project)
 keywords: vbapj.chm962
 f1_keywords:
 - vbapj.chm962
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DetailStylesFormat Method (Project)
+# Application.DetailStylesFormat method (Project)
 
 Sets the format of timescaled data fields in a Resource Usage view or Task Usage view.
 
 
 ## Syntax
 
- _expression_. `DetailStylesFormat`( `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_`, `_CellColor_`, `_Pattern_`, `_ShowInMenu_` )
+_expression_. `DetailStylesFormat`( `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_`, `_CellColor_`, `_Pattern_`, `_ShowInMenu_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

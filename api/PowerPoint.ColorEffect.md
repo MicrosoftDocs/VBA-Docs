@@ -1,5 +1,5 @@
 ---
-title: ColorEffect Object (PowerPoint)
+title: ColorEffect object (PowerPoint)
 keywords: vbapp10.chm659000
 f1_keywords:
 - vbapp10.chm659000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorEffect Object (PowerPoint)
+# ColorEffect object (PowerPoint)
 
 Represents a color effect for an animation behavior.
 

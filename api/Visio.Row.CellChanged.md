@@ -1,5 +1,5 @@
 ---
-title: Row.CellChanged Event (Visio)
+title: Row.CellChanged event (Visio)
 keywords: vis_sdr.chm15819090
 f1_keywords:
 - vis_sdr.chm15819090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.CellChanged Event (Visio)
+# Row.CellChanged event (Visio)
 
 Occurs after the value changes in a cell in a document.
 

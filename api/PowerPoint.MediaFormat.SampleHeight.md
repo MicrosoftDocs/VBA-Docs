@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.SampleHeight Property (PowerPoint)
+title: MediaFormat.SampleHeight property (PowerPoint)
 keywords: vbapp10.chm724020
 f1_keywords:
 - vbapp10.chm724020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.SampleHeight Property (PowerPoint)
+# MediaFormat.SampleHeight property (PowerPoint)
 
 Returns the resolution height of the sample media. Read-only.
 
 
 ## Syntax
 
- _expression_. `SampleHeight`
+_expression_. `SampleHeight`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

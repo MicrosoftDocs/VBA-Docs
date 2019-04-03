@@ -1,5 +1,5 @@
 ---
-title: ContactItem.SelectedMailingAddress Property (Outlook)
+title: ContactItem.SelectedMailingAddress property (Outlook)
 keywords: vbaol11.chm1064
 f1_keywords:
 - vbaol11.chm1064
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.SelectedMailingAddress Property (Outlook)
+# ContactItem.SelectedMailingAddress property (Outlook)
 
 Returns or sets an  **[OlMailingAddress](Outlook.OlMailingAddress.md)** constant indicating the type of the mailing address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlMailingAddress](Outlook.OlMailingAddress.md)** constant
 
 _expression_. `SelectedMailingAddress`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

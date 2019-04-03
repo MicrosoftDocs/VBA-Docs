@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.Range Property (Publisher)
+title: InlineShapes.Range property (Publisher)
 keywords: vbapb10.chm5767173
 f1_keywords:
 - vbapb10.chm5767173
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InlineShapes.Range Property (Publisher)
+# InlineShapes.Range property (Publisher)
 
 Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents the same set of inline shapes as the **InlineShapes** collection whose method was called. This allows for miscellaneous formatting of the contained shapes. Read-only.
 
 
 ## Syntax
 
- _expression_. **Range**(**_Index_**)
+ _expression_.**Range**(**_Index_**)
 
  _expression_ A variable that represents an  **InlineShapes** object.
 

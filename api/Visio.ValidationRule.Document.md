@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.Document Property (Visio)
+title: ValidationRule.Document property (Visio)
 keywords: vis_sdr.chm18413430
 f1_keywords:
 - vis_sdr.chm18413430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.Document Property (Visio)
+# ValidationRule.Document property (Visio)
 
 Returns the  **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.IsMarkedAsTask Property (Outlook)
+title: ContactItem.IsMarkedAsTask property (Outlook)
 keywords: vbaol11.chm3033
 f1_keywords:
 - vbaol11.chm3033
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.IsMarkedAsTask Property (Outlook)
+# ContactItem.IsMarkedAsTask property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[ContactItem](Outlook.ContactItem.md)** is marked as a task. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[ContactItem](Outlook.
 
 _expression_. `IsMarkedAsTask`
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

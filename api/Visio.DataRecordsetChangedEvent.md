@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent Object (Visio)
+title: DataRecordsetChangedEvent object (Visio)
 keywords: vis_sdr.chm61025
 f1_keywords:
 - vis_sdr.chm61025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent Object (Visio)
+# DataRecordsetChangedEvent object (Visio)
 
 Passed by Microsoft Visio as the pSubjectObj argument to the  **[VisEventProc](Visio.IVisEventProc.VisEventProc.md)** method of the **[IVisEventProc](Visio.iviseventproc.md)** interface when events related to refreshing a data recordset fire.
 

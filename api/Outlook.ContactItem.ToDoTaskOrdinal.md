@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ToDoTaskOrdinal Property (Outlook)
+title: ContactItem.ToDoTaskOrdinal property (Outlook)
 keywords: vbaol11.chm3030
 f1_keywords:
 - vbaol11.chm3030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ToDoTaskOrdinal Property (Outlook)
+# ContactItem.ToDoTaskOrdinal property (Outlook)
 
 Returns or sets a  **Date** value that represents the ordinal value of the task for the **[ContactItem](Outlook.ContactItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the ordinal value of the task 
 
 _expression_. `ToDoTaskOrdinal`
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

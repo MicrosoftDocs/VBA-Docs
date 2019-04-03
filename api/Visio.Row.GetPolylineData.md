@@ -1,5 +1,5 @@
 ---
-title: Row.GetPolylineData Method (Visio)
+title: Row.GetPolylineData method (Visio)
 keywords: vis_sdr.chm15816690
 f1_keywords:
 - vis_sdr.chm15816690
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.GetPolylineData Method (Visio)
+# Row.GetPolylineData method (Visio)
 
 Returns the points recorded in a polyline row.
 
 
 ## Syntax
 
- _expression_. `GetPolylineData`( `_Flags_` , `_xyArray()_` )
+_expression_. `GetPolylineData`( `_Flags_` , `_xyArray()_` )
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

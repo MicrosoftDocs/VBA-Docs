@@ -1,5 +1,5 @@
 ---
-title: Font.TextShadow Property (Publisher)
+title: Font.TextShadow property (Publisher)
 keywords: vbapb10.chm5374022
 f1_keywords:
 - vbapb10.chm5374022
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Font.TextShadow Property (Publisher)
+# Font.TextShadow property (Publisher)
 
 Returns a  [ShadowFormat](Publisher.ShadowFormat.md) object that specifies the shadow formatting for the specified font.
 
 
 ## Syntax
 
- _expression_. **TextShadow**
+ _expression_.**TextShadow**
 
  _expression_ A variable that represents a  **Font** object.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.Path Property (Project)
+title: TaskDependency.Path property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependency.Path
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.Path Property (Project)
+# TaskDependency.Path property (Project)
 
 Gets or sets the path of the project that contains an external task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 

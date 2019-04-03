@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Enter Event (Outlook)
+title: OlkTimeControl.Enter event (Outlook)
 keywords: vbaol11.chm1000406
 f1_keywords:
 - vbaol11.chm1000406
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Enter Event (Outlook)
+# OlkTimeControl.Enter event (Outlook)
 
 Occurs before the control actually receives the focus from a control on the same form.
 
@@ -21,7 +21,7 @@ Occurs before the control actually receives the focus from a control on the same
 
 _expression_.**Enter**
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## See also

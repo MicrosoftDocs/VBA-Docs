@@ -1,5 +1,5 @@
 ---
-title: Folder.Delete Method (Outlook)
+title: Folder.Delete method (Outlook)
 keywords: vbaol11.chm1995
 f1_keywords:
 - vbaol11.chm1995
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Delete Method (Outlook)
+# Folder.Delete method (Outlook)
 
 Deletes an object from the collection.
 
@@ -21,7 +21,7 @@ Deletes an object from the collection.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks

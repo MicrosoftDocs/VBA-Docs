@@ -1,5 +1,5 @@
 ---
-title: TaskItem.StatusUpdateRecipients Property (Outlook)
+title: TaskItem.StatusUpdateRecipients property (Outlook)
 keywords: vbaol11.chm1746
 f1_keywords:
 - vbaol11.chm1746
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.StatusUpdateRecipients Property (Outlook)
+# TaskItem.StatusUpdateRecipients property (Outlook)
 
 Returns a semicolon-delimited  **String** of display names for recipients who receive status updates for the task. Read/write.
 
@@ -21,7 +21,7 @@ Returns a semicolon-delimited  **String** of display names for recipients who re
 
 _expression_. `StatusUpdateRecipients`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

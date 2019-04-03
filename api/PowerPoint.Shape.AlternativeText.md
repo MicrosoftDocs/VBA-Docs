@@ -1,5 +1,5 @@
 ---
-title: Shape.AlternativeText Property (PowerPoint)
+title: Shape.AlternativeText property (PowerPoint)
 keywords: vbapp10.chm547058
 f1_keywords:
 - vbapp10.chm547058
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.AlternativeText Property (PowerPoint)
+# Shape.AlternativeText property (PowerPoint)
 
 Returns or sets the alternative text associated with a shape in a Web presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `AlternativeText`
+_expression_. `AlternativeText`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

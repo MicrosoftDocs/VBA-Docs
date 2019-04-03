@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.FormDescription Property (Outlook)
+title: DocumentItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1193
 f1_keywords:
 - vbaol11.chm1193
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.FormDescription Property (Outlook)
+# DocumentItem.FormDescription property (Outlook)
 
 Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[FormDescription](Outlook.FormDescription.md)** object that repre
 
 _expression_. `FormDescription`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## See also

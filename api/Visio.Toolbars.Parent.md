@@ -1,5 +1,5 @@
 ---
-title: Toolbars.Parent Property (Visio)
+title: Toolbars.Parent property (Visio)
 keywords: vis_sdr.chm13814040
 f1_keywords:
 - vis_sdr.chm13814040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbars.Parent Property (Visio)
+# Toolbars.Parent property (Visio)
 
 Determines the parent of an object. Read-only.
 

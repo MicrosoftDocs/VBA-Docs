@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.Parent Property (Publisher)
+title: WrapFormat.Parent property (Publisher)
 keywords: vbapb10.chm786434
 f1_keywords:
 - vbapb10.chm786434
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WrapFormat.Parent Property (Publisher)
+# WrapFormat.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 

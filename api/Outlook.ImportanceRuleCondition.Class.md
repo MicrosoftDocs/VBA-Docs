@@ -1,5 +1,5 @@
 ---
-title: ImportanceRuleCondition.Class Property (Outlook)
+title: ImportanceRuleCondition.Class property (Outlook)
 keywords: vbaol11.chm2333
 f1_keywords:
 - vbaol11.chm2333
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ImportanceRuleCondition.Class Property (Outlook)
+# ImportanceRuleCondition.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [ImportanceRuleCondition](./Outlook.ImportanceRuleCondition.md) object.
+_expression_ A variable that represents an [ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md) object.
 
 
 ## See also

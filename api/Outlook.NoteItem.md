@@ -1,5 +1,5 @@
 ---
-title: NoteItem Object (Outlook)
+title: NoteItem object (Outlook)
 keywords: vbaol11.chm3001
 f1_keywords:
 - vbaol11.chm3001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem Object (Outlook)
+# NoteItem object (Outlook)
 
 Represents a note in a Notes folder.
 
@@ -88,6 +88,6 @@ Set myItem = Application.CreateItem(olNoteItem)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

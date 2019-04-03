@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Apply Method (Outlook)
+title: PeopleView.Apply method (Outlook)
 keywords: vbaol11.chm3573
 f1_keywords:
 - vbaol11.chm3573
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Apply Method (Outlook)
+# PeopleView.Apply method (Outlook)
 Applies the [PeopleView](Outlook.peopleview.md) object to the current view.
 
 ## Version information
@@ -29,6 +29,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 
 [PeopleView Object](Outlook.peopleview.md)
-[PeopleView Members](./overview/Outlook.md)
+[PeopleView Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

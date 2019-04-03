@@ -1,5 +1,5 @@
 ---
-title: CaptionStyles.Count Property (Publisher)
+title: CaptionStyles.Count property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.CaptionStyles.Count
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# CaptionStyles.Count Property (Publisher)
+# CaptionStyles.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **CaptionStyles** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportDataFormat Property (Visio)
+title: ApplicationSettings.RasterExportDataFormat property (Visio)
 keywords: vis_sdr.chm16262520
 f1_keywords:
 - vis_sdr.chm16262520
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportDataFormat Property (Visio)
+# ApplicationSettings.RasterExportDataFormat property (Visio)
 
 Determines whether the exported raster image is interlaced or non-interlaced when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a GIF or PNG file. Read/write.
 
 
 ## Syntax
 
- _expression_. `RasterExportDataFormat`
+_expression_. `RasterExportDataFormat`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

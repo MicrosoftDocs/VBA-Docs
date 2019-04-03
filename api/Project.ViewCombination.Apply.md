@@ -1,5 +1,5 @@
 ---
-title: ViewCombination.Apply Method (Project)
+title: ViewCombination.Apply method (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewCombination.Apply
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ViewCombination.Apply Method (Project)
+# ViewCombination.Apply method (Project)
 
 Applies the combination view.
 
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_. `Apply`
 
  _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 

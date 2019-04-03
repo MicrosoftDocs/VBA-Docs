@@ -1,5 +1,5 @@
 ---
-title: PjPhoneticType Enumeration (Project)
+title: PjPhoneticType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPhoneticType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjPhoneticType Enumeration (Project)
+# PjPhoneticType enumeration (Project)
 
 Contains constants that specify the type of characters used to display phonetic information.
 

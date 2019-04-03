@@ -1,5 +1,5 @@
 ---
-title: Store.ExchangeStoreType Property (Outlook)
+title: Store.ExchangeStoreType property (Outlook)
 keywords: vbaol11.chm802
 f1_keywords:
 - vbaol11.chm802
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.ExchangeStoreType Property (Outlook)
+# Store.ExchangeStoreType property (Outlook)
 
 Returns a constant in the  **[OlExchangeStoreType](Outlook.OlExchangeStoreType.md)** enumeration that indicates the type of an Exchange store. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant in the  **[OlExchangeStoreType](Outlook.OlExchangeStoreType.m
 
 _expression_. `ExchangeStoreType`
 
-_expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 ## Remarks

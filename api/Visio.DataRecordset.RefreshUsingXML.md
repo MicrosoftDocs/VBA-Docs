@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.RefreshUsingXML Method (Visio)
+title: DataRecordset.RefreshUsingXML method (Visio)
 keywords: vis_sdr.chm16460325
 f1_keywords:
 - vis_sdr.chm16460325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.RefreshUsingXML Method (Visio)
+# DataRecordset.RefreshUsingXML method (Visio)
 
 Updates linked shapes with data contained in the string that conforms to the ADO classic XML schema passed to the method as a parameter.
 
@@ -22,7 +22,7 @@ Updates linked shapes with data contained in the string that conforms to the ADO
 
 ## Syntax
 
- _expression_. `RefreshUsingXML`( `_NewDataAsXML_` )
+_expression_. `RefreshUsingXML`( `_NewDataAsXML_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

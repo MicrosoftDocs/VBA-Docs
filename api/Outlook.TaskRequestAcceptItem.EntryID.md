@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.EntryID Property (Outlook)
+title: TaskRequestAcceptItem.EntryID property (Outlook)
 keywords: vbaol11.chm1783
 f1_keywords:
 - vbaol11.chm1783
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.EntryID Property (Outlook)
+# TaskRequestAcceptItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Series.ParentDataLabelOption Property (PowerPoint)
+title: Series.ParentDataLabelOption property (PowerPoint)
 keywords: vbapp10.chm716010
 f1_keywords:
 - vbapp10.chm716010
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Series.ParentDataLabelOption Property (PowerPoint)
+# Series.ParentDataLabelOption property (PowerPoint)
 
-Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XlParentDataLabelOptions Enumeration (PowerPoint)](PowerPoint.xlparentdatalabeloptions.md).
+Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XlParentDataLabelOptions enumeration (PowerPoint)](PowerPoint.xlparentdatalabeloptions.md).
 
 
 ## Syntax
 
- _expression_. `ParentDataLabelOption`
+_expression_. `ParentDataLabelOption`
 
  _expression_ A variable that represents a [Series](./PowerPoint.Series.md) object.
 

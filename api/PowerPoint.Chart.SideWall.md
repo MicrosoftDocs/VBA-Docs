@@ -1,5 +1,5 @@
 ---
-title: Chart.SideWall Property (PowerPoint)
+title: Chart.SideWall property (PowerPoint)
 keywords: vbapp10.chm67913
 f1_keywords:
 - vbapp10.chm67913
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.SideWall Property (PowerPoint)
+# Chart.SideWall property (PowerPoint)
 
 Returns a  **[Walls](PowerPoint.Walls.md)** object that allows the user to individually format the side wall of a 3-D chart. Read-only.
 
 
 ## Syntax
 
- _expression_. `SideWall`
+_expression_. `SideWall`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

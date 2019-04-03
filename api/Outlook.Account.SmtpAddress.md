@@ -1,5 +1,5 @@
 ---
-title: Account.SmtpAddress Property (Outlook)
+title: Account.SmtpAddress property (Outlook)
 keywords: vbaol11.chm743
 f1_keywords:
 - vbaol11.chm743
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.SmtpAddress Property (Outlook)
+# Account.SmtpAddress property (Outlook)
 
 Returns a  **String** representing the Simple Mail Transfer Protocol (SMTP) address for the **[Account](Outlook.Account.md)**. Read-only.
 

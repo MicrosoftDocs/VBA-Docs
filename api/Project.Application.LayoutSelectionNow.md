@@ -1,5 +1,5 @@
 ---
-title: Application.LayoutSelectionNow Method (Project)
+title: Application.LayoutSelectionNow method (Project)
 keywords: vbapj.chm2399
 f1_keywords:
 - vbapj.chm2399
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LayoutSelectionNow Method (Project)
+# Application.LayoutSelectionNow method (Project)
 
 Positions the selected task boxes in the active Network Diagram view according to its layout options.
 
 
 ## Syntax
 
- _expression_. `LayoutSelectionNow`
+_expression_. `LayoutSelectionNow`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

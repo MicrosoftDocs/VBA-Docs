@@ -1,5 +1,5 @@
 ---
-title: Folder.Items Property (Outlook)
+title: Folder.Items property (Outlook)
 keywords: vbaol11.chm1990
 f1_keywords:
 - vbaol11.chm1990
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.Items Property (Outlook)
+# Folder.Items property (Outlook)
 
 Returns an  **[Items](Outlook.Items.md)** collection object as a collection of Outlook items in the specified folder. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Items](Outlook.Items.md)** collection object as a collection of O
 
 _expression_. `Items`
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks

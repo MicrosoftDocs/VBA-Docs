@@ -19,7 +19,7 @@ Returns or sets the way certain alerts and messages are handled while a macro is
 
 ## Syntax
 
- _expression_. `DisplayAlerts`
+_expression_. `DisplayAlerts`
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

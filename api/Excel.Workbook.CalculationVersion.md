@@ -21,7 +21,7 @@ Returns the information about the version of Excel that the workbook was last fu
 
 _expression_. `CalculationVersion`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Remarks

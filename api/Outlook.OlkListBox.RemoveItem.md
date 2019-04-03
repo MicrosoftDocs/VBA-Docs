@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.RemoveItem Method (Outlook)
+title: OlkListBox.RemoveItem method (Outlook)
 keywords: vbaol11.chm1000277
 f1_keywords:
 - vbaol11.chm1000277
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.RemoveItem Method (Outlook)
+# OlkListBox.RemoveItem method (Outlook)
 
 Removes the specified item from the list.
 
 
 ## Syntax
 
-_expression_. `RemoveItem`( `_Index_` )
+_expression_. `RemoveItem` (_Index_)
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Parameters

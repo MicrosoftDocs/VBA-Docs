@@ -1,5 +1,5 @@
 ---
-title: Windows.BeforeWindowSelDelete Event (Visio)
+title: Windows.BeforeWindowSelDelete event (Visio)
 keywords: vis_sdr.chm11719085
 f1_keywords:
 - vis_sdr.chm11719085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.BeforeWindowSelDelete Event (Visio)
+# Windows.BeforeWindowSelDelete event (Visio)
 
 Occurs before the shapes in the selection of a window are deleted.
 

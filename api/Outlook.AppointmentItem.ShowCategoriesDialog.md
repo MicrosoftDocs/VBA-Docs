@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ShowCategoriesDialog Method (Outlook)
+title: AppointmentItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm915
 f1_keywords:
 - vbaol11.chm915
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ShowCategoriesDialog Method (Outlook)
+# AppointmentItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
@@ -21,7 +21,7 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 
 _expression_. `ShowCategoriesDialog`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Example

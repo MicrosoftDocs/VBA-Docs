@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Type Property (Publisher)
+title: MailMergeDataSource.Type property (Publisher)
 keywords: vbapb10.chm6291479
 f1_keywords:
 - vbapb10.chm6291479
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.Type Property (Publisher)
+# MailMergeDataSource.Type property (Publisher)
 
 Returns a  **Long** that represents the type of mail merge or catalog merge data source. Read-only.
 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Offset Property (PowerPoint)
+title: TickLabels.Offset property (PowerPoint)
 keywords: vbapp10.chm719012
 f1_keywords:
 - vbapp10.chm719012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Offset Property (PowerPoint)
+# TickLabels.Offset property (PowerPoint)
 
 Returns or sets the distance between the levels of labels, and the distance between the first level and the axis line. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Offset`
+_expression_. `Offset`
 
  _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
 

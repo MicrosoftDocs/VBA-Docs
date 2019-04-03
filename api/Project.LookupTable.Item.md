@@ -1,5 +1,5 @@
 ---
-title: LookupTable.Item Property (Project)
+title: LookupTable.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.LookupTable.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTable.Item Property (Project)
+# LookupTable.Item property (Project)
 
 Gets a single  **LookupTableEntry** object from the **LookupTable** collection object. Read-only **LookupTableEntry**.
 

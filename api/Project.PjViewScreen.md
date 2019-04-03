@@ -1,5 +1,5 @@
 ---
-title: PjViewScreen Enumeration (Project)
+title: PjViewScreen enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjViewScreen
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjViewScreen Enumeration (Project)
+# PjViewScreen enumeration (Project)
 
 Contains constants that specify the screen type for a view in Project.
 

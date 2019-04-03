@@ -1,5 +1,5 @@
 ---
-title: ValidationRules.Count Property (Visio)
+title: ValidationRules.Count property (Visio)
 keywords: vis_sdr.chm18313330
 f1_keywords:
 - vis_sdr.chm18313330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRules.Count Property (Visio)
+# ValidationRules.Count property (Visio)
 
 Returns the number of  **[ValidationRule](Visio.ValidationRule.md)** objects in the collection. Read-only.
 

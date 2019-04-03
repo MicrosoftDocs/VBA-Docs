@@ -1,5 +1,5 @@
 ---
-title: MailItem.Mileage Property (Outlook)
+title: MailItem.Mileage property (Outlook)
 keywords: vbaol11.chm1310
 f1_keywords:
 - vbaol11.chm1310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Mileage Property (Outlook)
+# MailItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the mileage for an item. Read/write.
 
 _expression_. `Mileage`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

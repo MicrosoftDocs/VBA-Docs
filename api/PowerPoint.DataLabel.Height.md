@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Height Property (PowerPoint)
+title: DataLabel.Height property (PowerPoint)
 keywords: vbapp10.chm696003
 f1_keywords:
 - vbapp10.chm696003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Height Property (PowerPoint)
+# DataLabel.Height property (PowerPoint)
 
 Returns the height, in points, of the object. Read-only.
 

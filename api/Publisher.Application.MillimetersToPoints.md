@@ -1,5 +1,5 @@
 ---
-title: Application.MillimetersToPoints Method (Publisher)
+title: Application.MillimetersToPoints method (Publisher)
 keywords: vbapb10.chm131145
 f1_keywords:
 - vbapb10.chm131145
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MillimetersToPoints Method (Publisher)
+# Application.MillimetersToPoints method (Publisher)
 
 Converts a measurement from millimeters to points (1 mm = 2.835 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **MillimetersToPoints**(**_Value_**)
+ _expression_.**MillimetersToPoints**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 

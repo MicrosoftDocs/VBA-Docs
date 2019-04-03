@@ -1,5 +1,5 @@
 ---
-title: Application.Views Method (Project)
+title: Application.Views method (Project)
 keywords: vbapj.chm301
 f1_keywords:
 - vbapj.chm301
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Views Method (Project)
+# Application.Views method (Project)
 
 Displays the  **More Views** dialog box with the current view selected, which prompts the user to manage views.
 
 
 ## Syntax
 
- _expression_. `Views`
+_expression_. `Views`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

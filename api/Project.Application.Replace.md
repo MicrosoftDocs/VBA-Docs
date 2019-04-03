@@ -1,5 +1,5 @@
 ---
-title: Application.Replace Method (Project)
+title: Application.Replace method (Project)
 keywords: vbapj.chm241
 f1_keywords:
 - vbapj.chm241
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Replace Method (Project)
+# Application.Replace method (Project)
 
 Searches for an unfiltered value and replaces it with the specified value.
 
 
 ## Syntax
 
-_expression_. **Replace** (**_Field_**, **_Test_**, **_Value_**, **_Replacement_**, **_ReplaceAll_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**)
+_expression_.**Replace** (**_Field_**, **_Test_**, **_Value_**, **_Replacement_**, **_ReplaceAll_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**)
 
 _expression_ A variable that represents an **Application** object.
 

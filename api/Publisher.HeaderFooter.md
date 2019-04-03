@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter Object (Publisher)
+title: HeaderFooter object (Publisher)
 keywords: vbapb10.chm7536639
 f1_keywords:
 - vbapb10.chm7536639
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeaderFooter Object (Publisher)
+# HeaderFooter object (Publisher)
 
 Represents the header or footer of a master page.
  

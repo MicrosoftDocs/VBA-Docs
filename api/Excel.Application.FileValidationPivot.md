@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Application](Excel.Application(obje
 
 ## Return value
 
- **[xlFileValidationPivotMode](Excel.XlFileValidationPivotMode.md)**
+ **[XlFileValidationPivotMode](Excel.XlFileValidationPivotMode.md)**
 
 
 ## Remarks

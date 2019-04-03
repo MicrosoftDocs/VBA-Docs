@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.Muted Property (PowerPoint)
+title: MediaFormat.Muted property (PowerPoint)
 keywords: vbapp10.chm724004
 f1_keywords:
 - vbapp10.chm724004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.Muted Property (PowerPoint)
+# MediaFormat.Muted property (PowerPoint)
 
 Returns whether audio playback of the media is muted. Read/write
 
 
 ## Syntax
 
- _expression_. `Muted`
+_expression_. `Muted`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseAllowLocalBaseCalendars Property (Project)
+title: Application.EnterpriseAllowLocalBaseCalendars property (Project)
 keywords: vbapj.chm131812
 f1_keywords:
 - vbapj.chm131812
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseAllowLocalBaseCalendars Property (Project)
+# Application.EnterpriseAllowLocalBaseCalendars property (Project)
 
 True if enterprise projects can use local base calendars. Read-only  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseAllowLocalBaseCalendars`
+_expression_. `EnterpriseAllowLocalBaseCalendars`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

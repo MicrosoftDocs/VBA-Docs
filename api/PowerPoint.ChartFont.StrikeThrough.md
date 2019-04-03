@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Strikethrough Property (PowerPoint)
+title: ChartFont.Strikethrough property (PowerPoint)
 keywords: vbapp10.chm704011
 f1_keywords:
 - vbapp10.chm704011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Strikethrough Property (PowerPoint)
+# ChartFont.Strikethrough property (PowerPoint)
 
  **True** if the font is struck through with a horizontal line. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `StrikeThrough`
+_expression_. `StrikeThrough`
 
 _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 

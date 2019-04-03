@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Line Property (PowerPoint)
+title: ShapeRange.Line property (PowerPoint)
 keywords: vbapp10.chm548027
 f1_keywords:
 - vbapp10.chm548027
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Line Property (PowerPoint)
+# ShapeRange.Line property (PowerPoint)
 
 Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.) Read-only.
 
 
 ## Syntax
 
- _expression_. `Line`
+_expression_. `Line`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
@@ -31,7 +31,7 @@ LineFormat
 
 ## Example
 
-This example adds a blue dashed line to  `myDocument`.
+This example adds a blue dashed line to  _myDocument_.
 
 
 ```vb

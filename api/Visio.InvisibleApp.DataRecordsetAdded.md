@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DataRecordsetAdded Event (Visio)
+title: InvisibleApp.DataRecordsetAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DataRecordsetAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DataRecordsetAdded Event (Visio)
+# InvisibleApp.DataRecordsetAdded event (Visio)
 
 Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collection.
 

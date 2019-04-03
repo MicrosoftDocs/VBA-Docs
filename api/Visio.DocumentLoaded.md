@@ -16,9 +16,9 @@ Gets a value that indicates whether a document is loaded in Microsoft Visio View
 
 ## Syntax
 
- _expression_. **DocumentLoaded**
+ _expression_.**DocumentLoaded**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value

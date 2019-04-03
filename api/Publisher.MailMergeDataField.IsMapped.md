@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.IsMapped Property (Publisher)
+title: MailMergeDataField.IsMapped property (Publisher)
 keywords: vbapb10.chm6422565
 f1_keywords:
 - vbapb10.chm6422565
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataField.IsMapped Property (Publisher)
+# MailMergeDataField.IsMapped property (Publisher)
 
 Indicates if the parent  **MailMergeDataField** object is mapped to a recipient field in the master data source (combined mail-merge recipient list). Read-only.
 
 
 ## Syntax
 
- _expression_. **IsMapped**
+ _expression_.**IsMapped**
 
  _expression_ A variable that represents a  **MailMergeDataField** object.
 

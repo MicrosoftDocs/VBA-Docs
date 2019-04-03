@@ -1,5 +1,5 @@
 ---
-title: Axis.CategoryType Property (PowerPoint)
+title: Axis.CategoryType property (PowerPoint)
 keywords: vbapp10.chm682037
 f1_keywords:
 - vbapp10.chm682037
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.CategoryType Property (PowerPoint)
+# Axis.CategoryType property (PowerPoint)
 
-Returns or sets the category axis type. Read/write  **[xlCategoryType](PowerPoint.XlCategoryType.md)**.
+Returns or sets the category axis type. Read/write  **[XlCategoryType](PowerPoint.XlCategoryType.md)**.
 
 
 ## Syntax
 
- _expression_. `CategoryType`
+_expression_.**CategoryType**
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

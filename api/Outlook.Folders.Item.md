@@ -1,5 +1,5 @@
 ---
-title: Folders.Item Method (Outlook)
+title: Folders.Item method (Outlook)
 keywords: vbaol11.chm44
 f1_keywords:
 - vbaol11.chm44
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.Item Method (Outlook)
+# Folders.Item method (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object from the collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Parameters

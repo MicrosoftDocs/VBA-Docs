@@ -1,5 +1,5 @@
 ---
-title: Search.Scope Property (Outlook)
+title: Search.Scope property (Outlook)
 keywords: vbaol11.chm2259
 f1_keywords:
 - vbaol11.chm2259
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.Scope Property (Outlook)
+# Search.Scope property (Outlook)
 
 Returns a  **String** that specifies the scope of the specified search. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that specifies the scope of the specified search. Read-onl
 
 _expression_. `Scope`
 
-_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Remarks

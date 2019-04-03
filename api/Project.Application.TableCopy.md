@@ -1,5 +1,5 @@
 ---
-title: Application.TableCopy Method (Project)
+title: Application.TableCopy method (Project)
 keywords: vbapj.chm400
 f1_keywords:
 - vbapj.chm400
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TableCopy Method (Project)
+# Application.TableCopy method (Project)
 
 Makes a copy of the active table, adds it to the  **Tables** drop-down menu, and sets the view to use the new table.
 
 
 ## Syntax
 
- _expression_. `TableCopy`( `_Name_` )
+_expression_. `TableCopy`( `_Name_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

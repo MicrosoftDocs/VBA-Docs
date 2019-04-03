@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Shadow Property (Publisher)
+title: ShapeRange.Shadow property (Publisher)
 keywords: vbapb10.chm2293832
 f1_keywords:
 - vbapb10.chm2293832
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Shadow Property (Publisher)
+# ShapeRange.Shadow property (Publisher)
 
 Returns a  **[ShadowFormat](Publisher.ShadowFormat.md)** object that represents the shadow formatting for the specified shape.
 
 
 ## Syntax
 
- _expression_. **Shadow**
+ _expression_.**Shadow**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

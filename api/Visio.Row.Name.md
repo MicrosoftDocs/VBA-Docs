@@ -1,5 +1,5 @@
 ---
-title: Row.Name Property (Visio)
+title: Row.Name property (Visio)
 keywords: vis_sdr.chm15813930
 f1_keywords:
 - vis_sdr.chm15813930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Name Property (Visio)
+# Row.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

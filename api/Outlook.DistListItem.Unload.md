@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Unload Event (Outlook)
+title: DistListItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Unload Event (Outlook)
+# DistListItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
@@ -18,7 +18,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
 _expression_. `Unload`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

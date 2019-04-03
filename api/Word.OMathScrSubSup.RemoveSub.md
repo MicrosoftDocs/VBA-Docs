@@ -19,7 +19,7 @@ Removes the subscript for an equation and returns an  **OMathFunction** object t
 
 ## Syntax
 
- _expression_. `RemoveSub`
+_expression_. `RemoveSub`
 
  _expression_ An expression that returns a [OMathScrSubSup](./Word.OMathScrSubSup.md) object.
 

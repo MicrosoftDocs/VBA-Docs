@@ -1,5 +1,5 @@
 ---
-title: Document.ShapesRemoved Event (Publisher)
+title: Document.ShapesRemoved event (Publisher)
 keywords: vbapb10.chm285212677
 f1_keywords:
 - vbapb10.chm285212677
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ShapesRemoved Event (Publisher)
+# Document.ShapesRemoved event (Publisher)
 
 Occurs when a shape is deleted from a publication.
 
 
 ## Syntax
 
- _expression_. **ShapesRemoved**
+ _expression_.**ShapesRemoved**
 
  _expression_ A variable that represents a  **Document** object.
 

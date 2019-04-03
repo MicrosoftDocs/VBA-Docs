@@ -1,5 +1,5 @@
 ---
-title: Application.AfterPrint Event (Publisher)
+title: Application.AfterPrint event (Publisher)
 keywords: vbapb10.chm268435492
 f1_keywords:
 - vbapb10.chm268435492
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterPrint Event (Publisher)
+# Application.AfterPrint event (Publisher)
 
 Fires after all variables and fields print.
 
 
 ## Syntax
 
- _expression_. **AfterPrint**(**_Doc_**)
+ _expression_.**AfterPrint**(**_Doc_**)
 
- _expression_An expression that returns an  **Application** object.
+ _expression_ An expression that returns an  **Application** object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Shape.DrawRectangle Method (Visio)
+title: Shape.DrawRectangle method (Visio)
 keywords: vis_sdr.chm11216220
 f1_keywords:
 - vis_sdr.chm11216220
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.DrawRectangle Method (Visio)
+# Shape.DrawRectangle method (Visio)
 
 Adds a rectangle to the  **Shapes** collection of a page, master, or group.
 
 
 ## Syntax
 
- _expression_. `DrawRectangle`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
+_expression_. `DrawRectangle`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

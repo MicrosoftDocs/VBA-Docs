@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetChildren Method (Outlook)
+title: Conversation.GetChildren method (Outlook)
 keywords: vbaol11.chm3391
 f1_keywords:
 - vbaol11.chm3391
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.GetChildren Method (Outlook)
+# Conversation.GetChildren method (Outlook)
 
 Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all items under the specified conversation node.
 

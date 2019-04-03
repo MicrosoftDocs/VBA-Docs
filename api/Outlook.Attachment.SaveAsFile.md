@@ -1,5 +1,5 @@
 ---
-title: Attachment.SaveAsFile Method (Outlook)
+title: Attachment.SaveAsFile method (Outlook)
 keywords: vbaol11.chm2373
 f1_keywords:
 - vbaol11.chm2373
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.SaveAsFile Method (Outlook)
+# Attachment.SaveAsFile method (Outlook)
 
 Saves the attachment to the specified path.
 
@@ -21,7 +21,7 @@ Saves the attachment to the specified path.
 
 _expression_. `SaveAsFile`( `_Path_` )
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Parameters

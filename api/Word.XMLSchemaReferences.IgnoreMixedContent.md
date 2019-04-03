@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # XMLSchemaReferences.IgnoreMixedContent property (Word)
 
-Returns a  **Boolean** that represents whether Microsoft Word preforms validation on text nodes that have element siblings and specifies whether these text nodes are saved in XML when the **[XMLSaveDataOnly](./overview/Word.md)** property is **True**. Read/write.
+Returns a  **Boolean** that represents whether Microsoft Word preforms validation on text nodes that have element siblings and specifies whether these text nodes are saved in XML when the **[XMLSaveDataOnly](overview/Word.md)** property is **True**. Read/write.
 
 
 ## Syntax
 
- _expression_. `IgnoreMixedContent`
+_expression_. `IgnoreMixedContent`
 
  _expression_ An expression that returns an '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' collection.
 

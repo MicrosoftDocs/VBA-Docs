@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.Stat Property (Visio)
+title: DataRecordsetChangedEvent.Stat property (Visio)
 keywords: vis_sdr.chm17214420
 f1_keywords:
 - vis_sdr.chm17214420
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.Stat Property (Visio)
+# DataRecordsetChangedEvent.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
@@ -22,7 +22,7 @@ Returns status information for an object. Read-only.
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 

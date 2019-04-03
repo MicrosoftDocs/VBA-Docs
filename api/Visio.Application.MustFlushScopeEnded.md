@@ -1,5 +1,5 @@
 ---
-title: Application.MustFlushScopeEnded Event (Visio)
+title: Application.MustFlushScopeEnded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.MustFlushScopeEnded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.MustFlushScopeEnded Event (Visio)
+# Application.MustFlushScopeEnded event (Visio)
 
 Occurs after the Microsoft Visio instance is forced to flush its event queue.
 

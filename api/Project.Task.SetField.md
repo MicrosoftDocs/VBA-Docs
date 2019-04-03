@@ -1,5 +1,5 @@
 ---
-title: Task.SetField Method (Project)
+title: Task.SetField method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.SetField
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.SetField Method (Project)
+# Task.SetField method (Project)
 
 Sets the value of the specified task custom field.
 
 
 ## Syntax
 
- _expression_. `SetField`( `_FieldID_`, `_Value_` )
+_expression_. `SetField`( `_FieldID_`, `_Value_` )
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

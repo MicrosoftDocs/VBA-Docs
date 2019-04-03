@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.AdvanceOnClick Property (PowerPoint)
+title: SlideShowTransition.AdvanceOnClick property (PowerPoint)
 keywords: vbapp10.chm539003
 f1_keywords:
 - vbapp10.chm539003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition.AdvanceOnClick Property (PowerPoint)
+# SlideShowTransition.AdvanceOnClick property (PowerPoint)
 
 Determines whether the specified slide advances when it is clicked during a slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `AdvanceOnClick`
+_expression_. `AdvanceOnClick`
 
  _expression_ A variable that represents an [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 

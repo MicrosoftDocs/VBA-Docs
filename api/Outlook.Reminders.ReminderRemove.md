@@ -1,5 +1,5 @@
 ---
-title: Reminders.ReminderRemove Event (Outlook)
+title: Reminders.ReminderRemove event (Outlook)
 keywords: vbaol11.chm579
 f1_keywords:
 - vbaol11.chm579
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.ReminderRemove Event (Outlook)
+# Reminders.ReminderRemove event (Outlook)
 
 Occurs when a  **[Reminder](Outlook.Reminder.md)** object has been removed from the collection.
 
@@ -21,7 +21,7 @@ Occurs when a  **[Reminder](Outlook.Reminder.md)** object has been removed from 
 
 _expression_. `ReminderRemove`
 
-_expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Remarks

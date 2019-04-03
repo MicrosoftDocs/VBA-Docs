@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.MediaBookmarks Property (PowerPoint)
+title: MediaFormat.MediaBookmarks property (PowerPoint)
 keywords: vbapp10.chm724010
 f1_keywords:
 - vbapp10.chm724010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.MediaBookmarks Property (PowerPoint)
+# MediaFormat.MediaBookmarks property (PowerPoint)
 
 Returns a  **MediaBookmarks** collection that represents the media bookmarks associated with the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `MediaBookmarks`
+_expression_. `MediaBookmarks`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

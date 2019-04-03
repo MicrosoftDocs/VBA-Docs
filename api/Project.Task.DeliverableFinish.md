@@ -1,5 +1,5 @@
 ---
-title: Task.DeliverableFinish Property (Project)
+title: Task.DeliverableFinish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.DeliverableFinish
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.DeliverableFinish Property (Project)
+# Task.DeliverableFinish property (Project)
 
 Gets or sets the task deliverable end date. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `DeliverableFinish`
+_expression_. `DeliverableFinish`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

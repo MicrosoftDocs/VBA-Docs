@@ -1,5 +1,5 @@
 ---
-title: Shape.Chart Property (PowerPoint)
+title: Shape.Chart property (PowerPoint)
 keywords: vbapp10.chm547084
 f1_keywords:
 - vbapp10.chm547084
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Chart Property (PowerPoint)
+# Shape.Chart property (PowerPoint)
 
 Returns a  **Chart** object of the current **Shape** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Chart`
+_expression_. `Chart`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

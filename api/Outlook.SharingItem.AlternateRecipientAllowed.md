@@ -1,5 +1,5 @@
 ---
-title: SharingItem.AlternateRecipientAllowed Property (Outlook)
+title: SharingItem.AlternateRecipientAllowed property (Outlook)
 keywords: vbaol11.chm631
 f1_keywords:
 - vbaol11.chm631
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.AlternateRecipientAllowed Property (Outlook)
+# SharingItem.AlternateRecipientAllowed property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the item can be forwarded. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the item can be forward
 
 _expression_. `AlternateRecipientAllowed`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

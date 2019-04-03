@@ -1,5 +1,5 @@
 ---
-title: Master.SpatialSearch Property (Visio)
+title: Master.SpatialSearch property (Visio)
 keywords: vis_sdr.chm10714405
 f1_keywords:
 - vis_sdr.chm10714405
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.SpatialSearch Property (Visio)
+# Master.SpatialSearch property (Visio)
 
 Returns a  **Selection** object whose shapes meet certain criteria in relation to a point that is expressed in the coordinate space of a page, master, or group. Read-only.
 
 
 ## Syntax
 
- _expression_. `SpatialSearch`( `_x_` , `_y_` , `_Relation_` , `_Tolerance_` , `_Flags_` )
+_expression_. `SpatialSearch`( `_x_` , `_y_` , `_Relation_` , `_Tolerance_` , `_Flags_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

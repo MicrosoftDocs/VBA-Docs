@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeSelectionDelete Event (Visio)
+title: InvisibleApp.BeforeSelectionDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeSelectionDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeSelectionDelete Event (Visio)
+# InvisibleApp.BeforeSelectionDelete event (Visio)
 
 Occurs before selected objects are deleted.
 

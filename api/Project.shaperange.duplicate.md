@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Duplicate Method (Project)
+title: ShapeRange.Duplicate method (Project)
 ms.prod: project-server
 ms.assetid: c7af186e-616a-f20c-e2f3-8b0319e6af44
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Duplicate Method (Project)
+# ShapeRange.Duplicate method (Project)
 Duplicates a shape range and returns a reference to the copy.
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_. `Duplicate`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Slide.Design Property (PowerPoint)
+title: Slide.Design property (PowerPoint)
 keywords: vbapp10.chm531029
 f1_keywords:
 - vbapp10.chm531029
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.Design Property (PowerPoint)
+# Slide.Design property (PowerPoint)
 
 Returns a  **Design** object representing a design.
 
 
 ## Syntax
 
- _expression_. `Design`
+_expression_. `Design`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

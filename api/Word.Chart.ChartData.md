@@ -19,7 +19,7 @@ Returns information about the linked or embedded data associated with a chart. R
 
 ## Syntax
 
- _expression_. `ChartData`
+_expression_. `ChartData`
 
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 

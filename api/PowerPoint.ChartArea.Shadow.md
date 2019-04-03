@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Shadow Property (PowerPoint)
+title: ChartArea.Shadow property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Shadow
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Shadow Property (PowerPoint)
+# ChartArea.Shadow property (PowerPoint)
 
 Returns or sets a value that determines whether the object has a shadow. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_. `Shadow`
 
 _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
 

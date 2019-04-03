@@ -1,5 +1,5 @@
 ---
-title: Application.AutoLevel Property (Project)
+title: Application.AutoLevel property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.AutoLevel
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AutoLevel Property (Project)
+# Application.AutoLevel property (Project)
 
  **True** if resources are automatically leveled. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoLevel`
+_expression_. `AutoLevel`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

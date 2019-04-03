@@ -1,5 +1,5 @@
 ---
-title: Task.Project Property (Project)
+title: Task.Project property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Project
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Project Property (Project)
+# Task.Project property (Project)
 
 Gets the name of the project containing the  **Task**. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Project`
+_expression_. `Project`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

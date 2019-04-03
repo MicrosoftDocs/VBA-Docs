@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection.Count Property (PowerPoint)
+title: CategoryCollection.Count property (PowerPoint)
 keywords: vbapp10.chm737002
 f1_keywords:
 - vbapp10.chm737002
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryCollection.Count Property (PowerPoint)
+# CategoryCollection.Count property (PowerPoint)
 
 Returns a  **Long** that represents the number of categories in the collection. Read-only.
 

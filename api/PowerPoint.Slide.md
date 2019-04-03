@@ -1,5 +1,5 @@
 ---
-title: Slide Object (PowerPoint)
+title: Slide object (PowerPoint)
 keywords: vbapp10.chm535000
 f1_keywords:
 - vbapp10.chm535000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide Object (PowerPoint)
+# Slide object (PowerPoint)
 
 Represents a slide. The  **[Slides](./PowerPoint.Slides.md)** collection contains all the **Slide** objects in a presentation.
 
@@ -147,6 +147,6 @@ ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

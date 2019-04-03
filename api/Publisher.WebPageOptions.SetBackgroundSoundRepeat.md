@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.SetBackgroundSoundRepeat Method (Publisher)
+title: WebPageOptions.SetBackgroundSoundRepeat method (Publisher)
 keywords: vbapb10.chm544777
 f1_keywords:
 - vbapb10.chm544777
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebPageOptions.SetBackgroundSoundRepeat Method (Publisher)
+# WebPageOptions.SetBackgroundSoundRepeat method (Publisher)
 
 Specifies whether the background sound attached to a Web page should be played infinitely after the page is loaded in a Web browser, and if it should not, optionally specifies the number of times the background sound should be played.
 
 
 ## Syntax
 
- _expression_. **SetBackgroundSoundRepeat**(**_RepeatForever_**,  **_RepeatTimes_**)
+ _expression_.**SetBackgroundSoundRepeat**(**_RepeatForever_**,  **_RepeatTimes_**)
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 
@@ -30,8 +30,8 @@ Specifies whether the background sound attached to a Web page should be played i
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|RepeatForever|Required| **Boolean**|Specifies whether the background sound should be played infinitely. The value of this parameter is used to populate the value of the  ** [BackgroundSoundLoopForever Property](Publisher.WebPageOptions.BackgroundSoundLoopForever.md)** property.|
-|RepeatTimes|Optional| **Long**|Specifies how many times the background sound should be played. The value of this parameter is used to populate the value of the  ** [BackgroundSoundLoopCount Property](Publisher.WebPageOptions.BackgroundSoundLoopCount.md)** property.|
+|RepeatForever|Required| **Boolean**|Specifies whether the background sound should be played infinitely. The value of this parameter is used to populate the value of the  **[BackgroundSoundLoopForever Property](Publisher.WebPageOptions.BackgroundSoundLoopForever.md)** property.|
+|RepeatTimes|Optional| **Long**|Specifies how many times the background sound should be played. The value of this parameter is used to populate the value of the  **[BackgroundSoundLoopCount Property](Publisher.WebPageOptions.BackgroundSoundLoopCount.md)** property.|
 
 ## Remarks
 

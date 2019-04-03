@@ -1,5 +1,5 @@
 ---
-title: Application.TaskDeliverableCreate Method (Project)
+title: Application.TaskDeliverableCreate method (Project)
 keywords: vbapj.chm92
 f1_keywords:
 - vbapj.chm92
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskDeliverableCreate Method (Project)
+# Application.TaskDeliverableCreate method (Project)
 
 Creates or removes a deliverable for the selected task. Available only in Project Professional.
 
 
 ## Syntax
 
- _expression_. `TaskDeliverableCreate`( `_Create_` )
+_expression_. `TaskDeliverableCreate`( `_Create_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Style.StyleDeleteCanceled Event (Visio)
+title: Style.StyleDeleteCanceled event (Visio)
 keywords: vis_sdr.chm11419350
 f1_keywords:
 - vis_sdr.chm11419350
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.StyleDeleteCanceled Event (Visio)
+# Style.StyleDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelStyleDelete** event.
 

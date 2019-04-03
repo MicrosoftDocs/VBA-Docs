@@ -1,5 +1,5 @@
 ---
-title: Explorer.AccountSelector Property (Outlook)
+title: Explorer.AccountSelector property (Outlook)
 keywords: vbaol11.chm3553
 f1_keywords:
 - vbaol11.chm3553
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.AccountSelector Property (Outlook)
+# Explorer.AccountSelector property (Outlook)
 
 Returns an  **[AccountSelector](Outlook.AccountSelector.md)** object that represents the Microsoft Office Backstage view for the **[Explorer](Outlook.Explorer.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[AccountSelector](Outlook.AccountSelector.md)** object that repres
 
 _expression_. `AccountSelector`
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## See also

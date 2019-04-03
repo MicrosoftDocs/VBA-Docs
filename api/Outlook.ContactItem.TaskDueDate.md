@@ -1,5 +1,5 @@
 ---
-title: ContactItem.TaskDueDate Property (Outlook)
+title: ContactItem.TaskDueDate property (Outlook)
 keywords: vbaol11.chm1100
 f1_keywords:
 - vbaol11.chm1100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.TaskDueDate Property (Outlook)
+# ContactItem.TaskDueDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the due date of the task for this **[ContactItem](Outlook.ContactItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the due date of the task for t
 
 _expression_. `TaskDueDate`
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

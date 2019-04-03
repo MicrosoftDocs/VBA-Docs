@@ -17,7 +17,7 @@ Expands all the headings in the document.
 
 ## Syntax
 
- _expression_. `ExpandAllHeadings`
+_expression_. `ExpandAllHeadings`
 
  _expression_ A variable that represents a [View](./Word.View.md) object.
 
@@ -39,6 +39,6 @@ This method corresponds to the  **Expand All Headings** command on the **Expand/
 
 
 
-[View Members](./overview/Word.md)
+[View Members](overview/Word.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

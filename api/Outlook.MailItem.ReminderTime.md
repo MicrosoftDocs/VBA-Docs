@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReminderTime Property (Outlook)
+title: MailItem.ReminderTime property (Outlook)
 keywords: vbaol11.chm1352
 f1_keywords:
 - vbaol11.chm1352
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ReminderTime Property (Outlook)
+# MailItem.ReminderTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time at which the reminder should occur for the specified item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the date and time at which the reminder s
 
 _expression_. `ReminderTime`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## See also

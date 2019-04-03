@@ -17,7 +17,7 @@ Returns or sets a  **Single** that represents the height in points of the tabs o
 
 ## Syntax
 
-_expression_. **TabFixedHeight**
+_expression_.**TabFixedHeight**
 
 _expression_ A variable that represents a  **MultiPage** object.
 

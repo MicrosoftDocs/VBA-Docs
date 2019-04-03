@@ -1,5 +1,5 @@
 ---
-title: Master.ShapeParentChanged Event (Visio)
+title: Master.ShapeParentChanged event (Visio)
 keywords: vis_sdr.chm10719235
 f1_keywords:
 - vis_sdr.chm10719235
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.ShapeParentChanged Event (Visio)
+# Master.ShapeParentChanged event (Visio)
 
 Occurs after shapes are grouped or a group is ungrouped.
 

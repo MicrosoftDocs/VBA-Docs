@@ -1,5 +1,5 @@
 ---
-title: Resource.HyperlinkHREF Property (Project)
+title: Resource.HyperlinkHREF property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.HyperlinkHREF
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.HyperlinkHREF Property (Project)
+# Resource.HyperlinkHREF property (Project)
 
 Gets or sets a combination of the hyperlink address and subaddress, separated by a "#". Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkHREF`
+_expression_. `HyperlinkHREF`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

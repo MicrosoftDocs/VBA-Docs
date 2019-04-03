@@ -1,5 +1,5 @@
 ---
-title: Design Object (PowerPoint)
+title: Design object (PowerPoint)
 keywords: vbapp10.chm644000
 f1_keywords:
 - vbapp10.chm644000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Design Object (PowerPoint)
+# Design object (PowerPoint)
 
 Represents an individual slide design template. The  **Design** object is a member of the **[Designs](PowerPoint.Designs.md)** and **[SlideRange](PowerPoint.SlideRange.md)** collections and the **[Master](PowerPoint.Master.md)** and **[Slide](PowerPoint.Slide.md)** objects.
 

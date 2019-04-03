@@ -1,5 +1,5 @@
 ---
-title: PjLoginType Enumeration (Project)
+title: PjLoginType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLoginType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLoginType Enumeration (Project)
+# PjLoginType enumeration (Project)
 
 Contains constants that specify the login type.
 

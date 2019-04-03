@@ -1,5 +1,5 @@
 ---
-title: Application.ShapeAdded Event (Visio)
+title: Application.ShapeAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.ShapeAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShapeAdded Event (Visio)
+# Application.ShapeAdded event (Visio)
 
 Occurs after one or more shapes are added to a document.
 

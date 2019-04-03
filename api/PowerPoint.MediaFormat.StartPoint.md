@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.StartPoint Property (PowerPoint)
+title: MediaFormat.StartPoint property (PowerPoint)
 keywords: vbapp10.chm724006
 f1_keywords:
 - vbapp10.chm724006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.StartPoint Property (PowerPoint)
+# MediaFormat.StartPoint property (PowerPoint)
 
 Gets or sets the start point of the trim region. Read/write.
 
 
 ## Syntax
 
- _expression_. `StartPoint`
+_expression_. `StartPoint`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Assignment.Created Property (Project)
+title: Assignment.Created property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Created
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Created Property (Project)
+# Assignment.Created property (Project)
 
 Gets the date an  **Assignment** was created. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `Created`
+_expression_. `Created`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: View.Zoom Property (Publisher)
+title: View.Zoom property (Publisher)
 keywords: vbapb10.chm327684
 f1_keywords:
 - vbapb10.chm327684
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# View.Zoom Property (Publisher)
+# View.Zoom property (Publisher)
 
 Returns or sets a  **PbZoom** constant or a value between 10 and 400 indicating the zoom setting of the specified view. Read/write.
 
 
 ## Syntax
 
- _expression_. **Zoom**
+ _expression_.**Zoom**
 
  _expression_ A variable that represents a  **View** object.
 

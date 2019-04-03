@@ -1,5 +1,5 @@
 ---
-title: Application.UndoClear Method (Project)
+title: Application.UndoClear method (Project)
 keywords: vbapj.chm132770
 f1_keywords:
 - vbapj.chm132770
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.UndoClear Method (Project)
+# Application.UndoClear method (Project)
 
 Clears the  **Undo** list.
 
 
 ## Syntax
 
- _expression_. `UndoClear`
+_expression_. `UndoClear`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

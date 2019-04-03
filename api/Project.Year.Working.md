@@ -1,5 +1,5 @@
 ---
-title: Year.Working Property (Project)
+title: Year.Working property (Project)
 ms.prod: project-server
 api_name:
 - Project.Year.Working
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Year.Working Property (Project)
+# Year.Working property (Project)
 
  **True** if any day in the year is a working day. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Working`
+_expression_. `Working`
 
  _expression_ A variable that represents a [Year](./Project.Year.md) object.
 

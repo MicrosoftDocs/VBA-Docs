@@ -1,5 +1,5 @@
 ---
-title: Characters.RunBegin Property (Visio)
+title: Characters.RunBegin property (Visio)
 keywords: vis_sdr.chm10214275
 f1_keywords:
 - vis_sdr.chm10214275
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.RunBegin Property (Visio)
+# Characters.RunBegin property (Visio)
 
 Returns the beginning index of a type of run?a sequence of characters that share a particular attribute, such as character, paragraph, or tab formatting; or a word, paragraph, or field. Read-only.
 
 
 ## Syntax
 
- _expression_. `RunBegin`( `_RunType_` )
+_expression_. `RunBegin`( `_RunType_` )
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

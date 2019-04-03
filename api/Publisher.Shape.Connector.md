@@ -1,5 +1,5 @@
 ---
-title: Shape.Connector Property (Publisher)
+title: Shape.Connector property (Publisher)
 keywords: vbapb10.chm2228277
 f1_keywords:
 - vbapb10.chm2228277
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Connector Property (Publisher)
+# Shape.Connector property (Publisher)
 
 Returns an  **MsoTriState**value indicating whether the specified shape is a connector. Read-only.
 
 
 ## Syntax
 
- _expression_. **Connector**
+ _expression_.**Connector**
 
  _expression_ A variable that represents a  **Shape** object.
 

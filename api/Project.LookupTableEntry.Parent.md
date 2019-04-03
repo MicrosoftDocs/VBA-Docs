@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.Parent Property (Project)
+title: LookupTableEntry.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.LookupTableEntry.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry.Parent Property (Project)
+# LookupTableEntry.Parent property (Project)
 
 Gets the parent of the  **LookupTableEntry** object. Read-only **OutlineCode**.
 

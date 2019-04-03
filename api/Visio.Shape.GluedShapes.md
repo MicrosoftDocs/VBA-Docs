@@ -1,5 +1,5 @@
 ---
-title: Shape.GluedShapes Method (Visio)
+title: Shape.GluedShapes method (Visio)
 keywords: vis_sdr.chm11262245
 f1_keywords:
 - vis_sdr.chm11262245
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.GluedShapes Method (Visio)
+# Shape.GluedShapes method (Visio)
 
 Returns an array that contains the identifiers of the shapes that are glued to a shape.
 
 
 ## Syntax
 
- _expression_. `GluedShapes`( `_Flags_` , `_CategoryFilter_` , `_pOtherConnectedShape_` )
+_expression_. `GluedShapes`( `_Flags_` , `_CategoryFilter_` , `_pOtherConnectedShape_` )
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 

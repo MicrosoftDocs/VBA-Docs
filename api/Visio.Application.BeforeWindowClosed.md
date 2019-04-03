@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeWindowClosed Event (Visio)
+title: Application.BeforeWindowClosed event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeWindowClosed
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeWindowClosed Event (Visio)
+# Application.BeforeWindowClosed event (Visio)
 
 Occurs before a window is closed.
 

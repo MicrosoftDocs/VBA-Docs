@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.EchoAsterisks Property (Publisher)
+title: WebTextBox.EchoAsterisks property (Publisher)
 keywords: vbapb10.chm4194308
 f1_keywords:
 - vbapb10.chm4194308
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebTextBox.EchoAsterisks Property (Publisher)
+# WebTextBox.EchoAsterisks property (Publisher)
 
 Specifies whether asterisks should be displayed in place of text that is entered into a Web text box control. Read/write.
 
 
 ## Syntax
 
- _expression_. **EchoAsterisks**
+ _expression_.**EchoAsterisks**
 
  _expression_ A variable that represents an  **WebTextBox** object.
 

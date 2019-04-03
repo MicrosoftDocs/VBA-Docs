@@ -1,5 +1,5 @@
 ---
-title: Chart.SideWall Property (Project)
+title: Chart.SideWall property (Project)
 keywords: vbapj.chm131633
 f1_keywords:
 - vbapj.chm131633
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.SideWall Property (Project)
+# Chart.SideWall property (Project)
 Gets an  **Office.IMsoWalls** object that allows the user to individually format the side wall of a 3-D chart. Read-only **IMsoWalls**.
 
 ## Syntax
 
- _expression_. `SideWall`
+_expression_. `SideWall`
 
  _expression_ A variable that represents a 'Chart' object.
 

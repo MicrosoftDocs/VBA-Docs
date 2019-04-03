@@ -19,7 +19,7 @@ Clears the manual filter for the slicer cache.
 
 _expression_. `ClearManualFilter`
 
-_expression_ A variable that represents a [SlicerCache](./Excel.SlicerCache.md) object.
+_expression_ A variable that represents a [SlicerCache](Excel.SlicerCache.md) object.
 
 
 ## Return value

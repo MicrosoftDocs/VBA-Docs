@@ -1,5 +1,5 @@
 ---
-title: ActionSetting.Action Property (PowerPoint)
+title: ActionSetting.Action property (PowerPoint)
 keywords: vbapp10.chm567003
 f1_keywords:
 - vbapp10.chm567003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ActionSetting.Action Property (PowerPoint)
+# ActionSetting.Action property (PowerPoint)
 
 Returns or sets the type of action that will occur when the specified shape is clicked or the mouse pointer is positioned over the shape during a slide show. Read/write.
 

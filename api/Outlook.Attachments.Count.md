@@ -1,5 +1,5 @@
 ---
-title: Attachments.Count Property (Outlook)
+title: Attachments.Count property (Outlook)
 keywords: vbaol11.chm174
 f1_keywords:
 - vbaol11.chm174
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Count Property (Outlook)
+# Attachments.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [Attachments](./Outlook.Attachments.md) object.
+_expression_ A variable that represents an [Attachments](Outlook.Attachments.md) object.
 
 
 ## See also

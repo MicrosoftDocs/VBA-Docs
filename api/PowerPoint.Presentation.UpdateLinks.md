@@ -1,5 +1,5 @@
 ---
-title: Presentation.UpdateLinks Method (PowerPoint)
+title: Presentation.UpdateLinks method (PowerPoint)
 keywords: vbapp10.chm583046
 f1_keywords:
 - vbapp10.chm583046
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.UpdateLinks Method (PowerPoint)
+# Presentation.UpdateLinks method (PowerPoint)
 
 Updates linked OLE objects in the specified presentation.
 
 
 ## Syntax
 
- _expression_. `UpdateLinks`
+_expression_. `UpdateLinks`
 
  _expression_ A variable that represents an [Presentation](./PowerPoint.Presentation.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: WorkWeekDay.Shift1 Property (Project)
+title: WorkWeekDay.Shift1 property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeekDay.Shift1
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# WorkWeekDay.Shift1 Property (Project)
+# WorkWeekDay.Shift1 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the first work shift in a workweek day. Read-only **Shift**.
 
 
 ## Syntax
 
- _expression_. `Shift1`
+_expression_. `Shift1`
 
  _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 

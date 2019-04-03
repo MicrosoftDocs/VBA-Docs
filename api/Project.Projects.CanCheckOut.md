@@ -1,5 +1,5 @@
 ---
-title: Projects.CanCheckOut Method (Project)
+title: Projects.CanCheckOut method (Project)
 keywords: vbapj.chm132591
 f1_keywords:
 - vbapj.chm132591
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Projects.CanCheckOut Method (Project)
+# Projects.CanCheckOut method (Project)
 
 Indicates whether Project can check out the specified project from a SharePoint document library.
 
 
 ## Syntax
 
- _expression_. `CanCheckOut`( `_Filename_` )
+_expression_. `CanCheckOut`( `_FileName_` )
 
  _expression_ A variable that represents a 'Projects' object.
 
@@ -30,7 +30,7 @@ Indicates whether Project can check out the specified project from a SharePoint 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required|**String**|The name of the file to check out.|
+| _FileName_|Required|**String**|The name of the file to check out.|
 
 ## Return value
 

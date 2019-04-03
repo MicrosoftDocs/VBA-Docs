@@ -1,5 +1,5 @@
 ---
-title: PostItem.TaskSubject Property (Outlook)
+title: PostItem.TaskSubject property (Outlook)
 keywords: vbaol11.chm1571
 f1_keywords:
 - vbaol11.chm1571
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.TaskSubject Property (Outlook)
+# PostItem.TaskSubject property (Outlook)
 
 Returns or sets a  **String** value that represents the subject of the task for the **[PostItem](Outlook.PostItem.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the subject of the task for 
 
 _expression_. `TaskSubject`
 
- _expression_ An expression that returns a [PostItem](./Outlook.PostItem.md) object.
+ _expression_ An expression that returns a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

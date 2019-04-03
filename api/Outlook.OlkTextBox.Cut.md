@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Cut Method (Outlook)
+title: OlkTextBox.Cut method (Outlook)
 keywords: vbaol11.chm1000065
 f1_keywords:
 - vbaol11.chm1000065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Cut Method (Outlook)
+# OlkTextBox.Cut method (Outlook)
 
 Removes the contents of the control and copies the contents to the clipboard.
 
@@ -21,7 +21,7 @@ Removes the contents of the control and copies the contents to the clipboard.
 
 _expression_. `Cut`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

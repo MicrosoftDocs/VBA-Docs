@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Caption Property (PowerPoint)
+title: DataLabel.Caption property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Caption
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Caption Property (PowerPoint)
+# DataLabel.Caption property (PowerPoint)
 
 Returns or sets the data label text. Read/write  **String**.
 

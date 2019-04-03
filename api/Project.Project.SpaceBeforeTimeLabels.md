@@ -1,5 +1,5 @@
 ---
-title: Project.SpaceBeforeTimeLabels Property (Project)
+title: Project.SpaceBeforeTimeLabels property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.SpaceBeforeTimeLabels
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.SpaceBeforeTimeLabels Property (Project)
+# Project.SpaceBeforeTimeLabels property (Project)
 
  **True** if a time value should be separated from its time label by a space. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SpaceBeforeTimeLabels`
+_expression_. `SpaceBeforeTimeLabels`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

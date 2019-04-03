@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Importance Property (Outlook)
+title: TaskRequestUpdateItem.Importance property (Outlook)
 keywords: vbaol11.chm1933
 f1_keywords:
 - vbaol11.chm1933
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Importance Property (Outlook)
+# TaskRequestUpdateItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Importance`
+_expression_. `Importance`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

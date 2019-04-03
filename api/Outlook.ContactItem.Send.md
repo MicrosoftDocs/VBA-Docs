@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Send Event (Outlook)
+title: ContactItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Send
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Send Event (Outlook)
+# ContactItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **Send** action for an item (which is an insta
 
 _expression_. `Send`( `_Cancel_` )
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

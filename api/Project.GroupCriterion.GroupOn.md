@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.GroupOn Property (Project)
+title: GroupCriterion.GroupOn property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.GroupOn
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.GroupOn Property (Project)
+# GroupCriterion.GroupOn property (Project)
 
 Gets or sets the type of grouping for a field used as a criterion in a group definition. Read/write  **PjGroupOn**.
 
 
 ## Syntax
 
- _expression_. `GroupOn`
+_expression_. `GroupOn`
 
  _expression_ A variable that represents an [GroupCriterion](./Project.GroupCriterion.md) object.
 

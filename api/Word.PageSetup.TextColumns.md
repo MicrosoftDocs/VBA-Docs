@@ -19,7 +19,7 @@ Returns a  **[TextColumns](Word(textcolumns).md)** collection that represents th
 
 ## Syntax
 
- _expression_. `TextColumns`
+_expression_. `TextColumns`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 

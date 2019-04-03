@@ -19,7 +19,7 @@ Returns a  **[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)** coll
 
 ## Syntax
 
- _expression_. `TwoInitialCapsExceptions`
+_expression_. `TwoInitialCapsExceptions`
 
  _expression_ An expression that returns an '[AutoCorrect](Word.AutoCorrect.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.Open Event (Outlook)
+title: PostItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Open Event (Outlook)
+# PostItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is being opened in an  **[Inspector
 
 _expression_. `Open`( `_Cancel_` )
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Parameters

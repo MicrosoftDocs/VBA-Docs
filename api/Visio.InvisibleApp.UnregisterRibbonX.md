@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.UnregisterRibbonX Method (Visio)
+title: InvisibleApp.UnregisterRibbonX method (Visio)
 keywords: vis_sdr.chm17562095
 f1_keywords:
 - vis_sdr.chm17562095
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.UnregisterRibbonX Method (Visio)
+# InvisibleApp.UnregisterRibbonX method (Visio)
 
 Unregisters a previously registered  **IRibbonExtensibility** interface that a Microsoft Visio add-in implements.
 
 
 ## Syntax
 
- _expression_. `UnregisterRibbonX`( `_SourceAddOn_` , `_TargetDocument_` )
+_expression_. `UnregisterRibbonX`( `_SourceAddOn_` , `_TargetDocument_` )
 
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 

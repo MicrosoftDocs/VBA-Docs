@@ -1,5 +1,5 @@
 ---
-title: Selection.BringForward Method (Visio)
+title: Selection.BringForward method (Visio)
 keywords: vis_sdr.chm11116095
 f1_keywords:
 - vis_sdr.chm11116095
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.BringForward Method (Visio)
+# Selection.BringForward method (Visio)
 
 Brings the shape or selected shapes forward one position in the z-order.
 
 
 ## Syntax
 
- _expression_. `BringForward`
+_expression_. `BringForward`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

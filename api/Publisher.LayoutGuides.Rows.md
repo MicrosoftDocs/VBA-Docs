@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.Rows Property (Publisher)
+title: LayoutGuides.Rows property (Publisher)
 keywords: vbapb10.chm1114120
 f1_keywords:
 - vbapb10.chm1114120
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LayoutGuides.Rows Property (Publisher)
+# LayoutGuides.Rows property (Publisher)
 
 Sets or returns a  **Long** that represents the number of rows in a layout guide. Read/write.
 
 
 ## Syntax
 
- _expression_. **Rows**
+ _expression_.**Rows**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

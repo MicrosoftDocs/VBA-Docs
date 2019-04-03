@@ -1,5 +1,5 @@
 ---
-title: Master.MasterChanged Event (Visio)
+title: Master.MasterChanged event (Visio)
 keywords: vis_sdr.chm10719175
 f1_keywords:
 - vis_sdr.chm10719175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.MasterChanged Event (Visio)
+# Master.MasterChanged event (Visio)
 
 Occurs after properties of a master are changed and propagated to its instances.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalViewsSingle Property (Project)
+title: Application.GlobalViewsSingle property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.GlobalViewsSingle
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalViewsSingle Property (Project)
+# Application.GlobalViewsSingle property (Project)
 
 Gets or sets a  **[ViewsSingle](Project.ViewSingle.md)** collection representing the single views of the Global.mpt file. Read/write **ViewsSingle**.
 
 
 ## Syntax
 
- _expression_. `GlobalViewsSingle`
+_expression_. `GlobalViewsSingle`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

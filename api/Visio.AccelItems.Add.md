@@ -1,5 +1,5 @@
 ---
-title: AccelItems.Add Method (Visio)
+title: AccelItems.Add method (Visio)
 keywords: vis_sdr.chm14616005
 f1_keywords:
 - vis_sdr.chm14616005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AccelItems.Add Method (Visio)
+# AccelItems.Add method (Visio)
 
 Adds a new object to a collection.
 
 
 ## Syntax
 
- _expression_. `Add`
+ _expression_.**Add**
 
  _expression_ A variable that represents an [AccelItems](./Visio.AccelItems.md) collection.
 

@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.KeyCode Property (Visio)
+title: KeyboardEvent.KeyCode property (Visio)
 keywords: vis_sdr.chm17051710
 f1_keywords:
 - vis_sdr.chm17051710
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent.KeyCode Property (Visio)
+# KeyboardEvent.KeyCode property (Visio)
 
 Returns the key associated with  **KeyDown** and **KeyUp** events. Read-only.
 
 
 ## Syntax
 
- _expression_. `KeyCode`
+_expression_. `KeyCode`
 
  _expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
 

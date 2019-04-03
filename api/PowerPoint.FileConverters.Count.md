@@ -1,5 +1,5 @@
 ---
-title: FileConverters.Count Property (PowerPoint)
+title: FileConverters.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverters.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# FileConverters.Count Property (PowerPoint)
+# FileConverters.Count property (PowerPoint)
 
 Returns a  **Long** that represents the number of file converters in the collection. Read-only.
 

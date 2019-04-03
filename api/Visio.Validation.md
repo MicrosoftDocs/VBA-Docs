@@ -1,5 +1,5 @@
 ---
-title: Validation Object (Visio)
+title: Validation object (Visio)
 keywords: vis_sdr.chm61060
 f1_keywords:
 - vis_sdr.chm61060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Validation Object (Visio)
+# Validation object (Visio)
 
 Stores information about diagram validation for the document.
 

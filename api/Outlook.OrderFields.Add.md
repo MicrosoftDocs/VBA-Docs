@@ -1,5 +1,5 @@
 ---
-title: OrderFields.Add Method (Outlook)
+title: OrderFields.Add method (Outlook)
 keywords: vbaol11.chm2678
 f1_keywords:
 - vbaol11.chm2678
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# OrderFields.Add Method (Outlook)
+# OrderFields.Add method (Outlook)
 
 Creates a new  **[OrderField](Outlook.OrderField.md)** object and appends it to the **[OrderFields](Outlook.OrderFields.md)** collection.
 
 
 ## Syntax
 
-_expression_. `Add`( `_PropertyName_` , `_IsDescending_` )
+_expression_.**Add**( `_PropertyName_` , `_IsDescending_` )
 
-_expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.md) object.
+_expression_ A variable that represents an [OrderFields](Outlook.OrderFields.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.GetExchangeDistributionList Method (Outlook)
+title: AddressEntry.GetExchangeDistributionList method (Outlook)
 keywords: vbaol11.chm2058
 f1_keywords:
 - vbaol11.chm2058
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.GetExchangeDistributionList Method (Outlook)
+# AddressEntry.GetExchangeDistributionList method (Outlook)
 
 Returns an  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](Outlook.AddressList.md)** object such as the Global Address List (GAL) and corresponds to an Exchange distribution list.
 
@@ -21,7 +21,7 @@ Returns an  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** 
 
 _expression_. `GetExchangeDistributionList`
 
-_expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## Return value

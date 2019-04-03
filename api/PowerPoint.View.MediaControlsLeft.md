@@ -1,5 +1,5 @@
 ---
-title: View.MediaControlsLeft Property (PowerPoint)
+title: View.MediaControlsLeft property (PowerPoint)
 keywords: vbapp10.chm512015
 f1_keywords:
 - vbapp10.chm512015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# View.MediaControlsLeft Property (PowerPoint)
+# View.MediaControlsLeft property (PowerPoint)
 
 Returns the distance, in points, from the left edge of the media control bounding box to the left edge of the slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `MediaControlsLeft`
+_expression_. `MediaControlsLeft`
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

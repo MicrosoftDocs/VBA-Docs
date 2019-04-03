@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.posttime Property (Visio)
+title: MSGWrap.posttime property (Visio)
 keywords: vis_sdr.chm16150770
 f1_keywords:
 - vis_sdr.chm16150770
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap.posttime Property (Visio)
+# MSGWrap.posttime property (Visio)
 
 Gets or sets the  **time** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
 
- _expression_. `posttime`
+_expression_. `posttime`
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 

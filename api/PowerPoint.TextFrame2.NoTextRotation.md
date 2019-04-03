@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.NoTextRotation Property (PowerPoint)
+title: TextFrame2.NoTextRotation property (PowerPoint)
 keywords: vbapp10.chm678020
 f1_keywords:
 - vbapp10.chm678020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.NoTextRotation Property (PowerPoint)
+# TextFrame2.NoTextRotation property (PowerPoint)
 
 Indicates whether to rotate text with the  **TextFrame2** rotation. One of the **MsoTriState** constants. Read/write.
 
 
 ## Syntax
 
- _expression_. `NoTextRotation`
+_expression_. `NoTextRotation`
 
  _expression_ A variable that represents a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChildDrivers.Parent Property (Project)
+title: ChildDrivers.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.ChildDrivers.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChildDrivers.Parent Property (Project)
+# ChildDrivers.Parent property (Project)
 
 Gets the parent of the  **ChildDrivers** object. Read-only **Task**.
 

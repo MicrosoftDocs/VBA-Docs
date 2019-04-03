@@ -1,5 +1,5 @@
 ---
-title: PrintRanges.Application Property (PowerPoint)
+title: PrintRanges.Application property (PowerPoint)
 keywords: vbapp10.chm518002
 f1_keywords:
 - vbapp10.chm518002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintRanges.Application Property (PowerPoint)
+# PrintRanges.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

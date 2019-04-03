@@ -1,5 +1,5 @@
 ---
-title: PpNumberedBulletStyle Enumeration (PowerPoint)
+title: PpNumberedBulletStyle enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpNumberedBulletStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpNumberedBulletStyle Enumeration (PowerPoint)
+# PpNumberedBulletStyle enumeration (PowerPoint)
 
 Specifies the bullet style.
 

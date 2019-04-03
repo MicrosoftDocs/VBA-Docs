@@ -1,5 +1,5 @@
 ---
-title: Reminder.Application Property (Outlook)
+title: Reminder.Application property (Outlook)
 keywords: vbaol11.chm554
 f1_keywords:
 - vbaol11.chm554
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.Application Property (Outlook)
+# Reminder.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
+_expression_ A variable that represents a [Reminder](Outlook.Reminder.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShowChanges Property (Visio)
+title: InvisibleApp.ShowChanges property (Visio)
 keywords: vis_sdr.chm17514690
 f1_keywords:
 - vis_sdr.chm17514690
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShowChanges Property (Visio)
+# InvisibleApp.ShowChanges property (Visio)
 
 Determines whether the screen is updated (redrawn) during a series of actions. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowChanges`
+_expression_. `ShowChanges`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

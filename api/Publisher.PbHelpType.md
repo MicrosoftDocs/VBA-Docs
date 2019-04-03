@@ -1,5 +1,5 @@
 ---
-title: PbHelpType Enumeration (Publisher)
+title: PbHelpType enumeration (Publisher)
 keywords: vbapb10.chm65571
 f1_keywords:
 - vbapb10.chm65571
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbHelpType Enumeration (Publisher)
+# PbHelpType enumeration (Publisher)
 
 The type of help to display.
 

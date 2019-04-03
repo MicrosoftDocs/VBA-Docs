@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Range`
+ _expression_.**Range**
 
  _expression_ An expression that returns a [Conflict](./Word.Conflict.md) object.
 

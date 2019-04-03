@@ -1,5 +1,5 @@
 ---
-title: Conversation.Parent Property (Outlook)
+title: Conversation.Parent property (Outlook)
 keywords: vbaol11.chm3385
 f1_keywords:
 - vbaol11.chm3385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.Parent Property (Outlook)
+# Conversation.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified **[Conversation](Outlook.Conversation.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified **[Conversation](Outlook.Convers
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Conversation](./Outlook.Conversation.md) object.
+_expression_ A variable that represents a [Conversation](Outlook.Conversation.md) object.
 
 
 ## Remarks

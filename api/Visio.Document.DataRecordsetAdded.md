@@ -1,5 +1,5 @@
 ---
-title: Document.DataRecordsetAdded Event (Visio)
+title: Document.DataRecordsetAdded event (Visio)
 keywords: vis_sdr.chm10562035
 f1_keywords:
 - vis_sdr.chm10562035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.DataRecordsetAdded Event (Visio)
+# Document.DataRecordsetAdded event (Visio)
 
 Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collection.
 

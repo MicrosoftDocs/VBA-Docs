@@ -1,5 +1,5 @@
 ---
-title: RulerLevels Object (PowerPoint)
+title: RulerLevels object (PowerPoint)
 keywords: vbapp10.chm571000
 f1_keywords:
 - vbapp10.chm571000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RulerLevels Object (PowerPoint)
+# RulerLevels object (PowerPoint)
 
 A collection of all the  **[RulerLevel](PowerPoint.RulerLevel.md)** objects on the specified ruler.
 

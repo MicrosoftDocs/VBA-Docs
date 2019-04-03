@@ -19,7 +19,7 @@ Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that contains the curr
 
 ## Syntax
 
- _expression_. `AutoCorrect`
+_expression_. `AutoCorrect`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 

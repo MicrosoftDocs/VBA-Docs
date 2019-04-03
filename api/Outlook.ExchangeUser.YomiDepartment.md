@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.YomiDepartment Property (Outlook)
+title: ExchangeUser.YomiDepartment property (Outlook)
 keywords: vbaol11.chm2106
 f1_keywords:
 - vbaol11.chm2106
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.YomiDepartment Property (Outlook)
+# ExchangeUser.YomiDepartment property (Outlook)
 
 Returns a  **String** representing the Japanese phonetic rendering (yomigana) of the department name for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the Japanese phonetic rendering (yomigana) of
 
 _expression_. `YomiDepartment`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## See also

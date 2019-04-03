@@ -1,5 +1,5 @@
 ---
-title: Panes.Parent Property (PowerPoint)
+title: Panes.Parent property (PowerPoint)
 keywords: vbapp10.chm630003
 f1_keywords:
 - vbapp10.chm630003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Panes.Parent Property (PowerPoint)
+# Panes.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

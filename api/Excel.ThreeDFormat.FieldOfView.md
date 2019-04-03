@@ -18,7 +18,7 @@ Returns or sets the angle at which a  **ThreeDFormat** object can be viewed. Rea
 
 _expression_. `FieldOfView`
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## See also

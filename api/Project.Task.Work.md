@@ -1,5 +1,5 @@
 ---
-title: Task.Work Property (Project)
+title: Task.Work property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Work
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Work Property (Project)
+# Task.Work property (Project)
 
 Gets or sets the work (in minutes) for the task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Work`
+_expression_. `Work`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

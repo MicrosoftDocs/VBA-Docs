@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.OverlappedList Property (Visio)
+title: ContainerProperties.OverlappedList property (Visio)
 keywords: vis_sdr.chm17662615
 f1_keywords:
 - vis_sdr.chm17662615
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.OverlappedList Property (Visio)
+# ContainerProperties.OverlappedList property (Visio)
 
 Creates or removes an overlapped list relationship with another list shape, or returns the target list shape that participates in an overlapped list relationship with the source list shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `OverlappedList`
+_expression_. `OverlappedList`
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

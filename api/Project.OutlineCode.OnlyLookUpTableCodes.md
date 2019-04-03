@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.OnlyLookUpTableCodes Property (Project)
+title: OutlineCode.OnlyLookUpTableCodes property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.OnlyLookUpTableCodes
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.OnlyLookUpTableCodes Property (Project)
+# OutlineCode.OnlyLookUpTableCodes property (Project)
 
  **True** if only entries listed in the local outline code lookup table can be used. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `OnlyLookUpTableCodes`
+_expression_. `OnlyLookUpTableCodes`
 
  _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 

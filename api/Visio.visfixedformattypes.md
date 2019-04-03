@@ -1,5 +1,5 @@
 ---
-title: VisFixedFormatTypes Enumeration (Visio)
+title: VisFixedFormatTypes enumeration (Visio)
 keywords: vis_sdr.chm70540
 f1_keywords:
 - vis_sdr.chm70540
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisFixedFormatTypes Enumeration (Visio)
+# VisFixedFormatTypes enumeration (Visio)
 
 File format types passed to the  **Document.ExportAsFixedFormat** method.
 

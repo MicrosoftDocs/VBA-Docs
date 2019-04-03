@@ -1,5 +1,5 @@
 ---
-title: ViewField.Application Property (Outlook)
+title: ViewField.Application property (Outlook)
 keywords: vbaol11.chm2539
 f1_keywords:
 - vbaol11.chm2539
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ViewField.Application Property (Outlook)
+# ViewField.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
  _expression_.**Application**
 
-_expression_ A variable that represents a [ViewField](./Outlook.ViewField.md) object.
+_expression_ A variable that represents a [ViewField](Outlook.ViewField.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.FadeOutDuration Property (PowerPoint)
+title: MediaFormat.FadeOutDuration property (PowerPoint)
 keywords: vbapp10.chm724009
 f1_keywords:
 - vbapp10.chm724009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.FadeOutDuration Property (PowerPoint)
+# MediaFormat.FadeOutDuration property (PowerPoint)
 
 Gets or sets the duration of the fadeout of the media, in milliseconds. Read/write.
 
 
 ## Syntax
 
- _expression_. `FadeOutDuration`
+_expression_. `FadeOutDuration`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

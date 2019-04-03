@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `SurroundHeader`
+_expression_. `SurroundHeader`
 
  _expression_ An expression that returns a '[Borders](Word.borders.md)' collection object.
 

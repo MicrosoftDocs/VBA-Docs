@@ -1,5 +1,5 @@
 ---
-title: DataLabel Object (PowerPoint)
+title: DataLabel object (PowerPoint)
 keywords: vbapp10.chm696000
 f1_keywords:
 - vbapp10.chm696000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel Object (PowerPoint)
+# DataLabel object (PowerPoint)
 
 Represents the data label on a chart point or trendline.
 

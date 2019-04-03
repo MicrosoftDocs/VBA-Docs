@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Parent Property (PowerPoint)
+title: Adjustments.Parent property (PowerPoint)
 keywords: vbapp10.chm550001
 f1_keywords:
 - vbapp10.chm550001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Adjustments.Parent Property (PowerPoint)
+# Adjustments.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

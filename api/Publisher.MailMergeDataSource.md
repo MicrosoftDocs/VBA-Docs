@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource Object (Publisher)
+title: MailMergeDataSource object (Publisher)
 keywords: vbapb10.chm6356991
 f1_keywords:
 - vbapb10.chm6356991
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource Object (Publisher)
+# MailMergeDataSource object (Publisher)
 
 Represents the data source in a mail merge or catalog merge operation.
  

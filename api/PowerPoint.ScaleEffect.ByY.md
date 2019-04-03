@@ -1,5 +1,5 @@
 ---
-title: ScaleEffect.ByY Property (PowerPoint)
+title: ScaleEffect.ByY property (PowerPoint)
 keywords: vbapp10.chm660004
 f1_keywords:
 - vbapp10.chm660004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ScaleEffect.ByY Property (PowerPoint)
+# ScaleEffect.ByY property (PowerPoint)
 
 Sets or returns a  **Single** that represents scaling or moving an object vertically by a specified percentage of the screen width, depending on whether it is used in conjunction with a **[ScaleEffect](PowerPoint.ScaleEffect.md)** or **[MotionEffect](PowerPoint.MotionEffect.md)** object, respectively. Read/write.
 
 
 ## Syntax
 
- _expression_. `ByY`
+_expression_. `ByY`
 
  _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 

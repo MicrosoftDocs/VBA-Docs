@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeDocumentClose Event (Visio)
+title: InvisibleApp.BeforeDocumentClose event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeDocumentClose
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeDocumentClose Event (Visio)
+# InvisibleApp.BeforeDocumentClose event (Visio)
 
 Occurs before a document is closed.
 

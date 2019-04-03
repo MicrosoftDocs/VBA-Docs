@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.AutoSize Property (Outlook)
+title: OlkTextBox.AutoSize property (Outlook)
 keywords: vbaol11.chm1000035
 f1_keywords:
 - vbaol11.chm1000035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.AutoSize Property (Outlook)
+# OlkTextBox.AutoSize property (Outlook)
 
 Returns or sets a  **Boolean** that automatically sizes the control to display the entire contents. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 
 _expression_. `AutoSize`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

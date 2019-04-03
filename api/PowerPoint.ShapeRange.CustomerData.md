@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.CustomerData Property (PowerPoint)
+title: ShapeRange.CustomerData property (PowerPoint)
 keywords: vbapp10.chm548085
 f1_keywords:
 - vbapp10.chm548085
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.CustomerData Property (PowerPoint)
+# ShapeRange.CustomerData property (PowerPoint)
 
 Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object.
 
 
 ## Syntax
 
- _expression_. `CustomerData`
+_expression_. `CustomerData`
 
  _expression_ An expression that returns a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

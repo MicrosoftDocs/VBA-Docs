@@ -1,5 +1,5 @@
 ---
-title: AssignToCategoryRuleAction.Enabled Property (Outlook)
+title: AssignToCategoryRuleAction.Enabled property (Outlook)
 keywords: vbaol11.chm2267
 f1_keywords:
 - vbaol11.chm2267
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AssignToCategoryRuleAction.Enabled Property (Outlook)
+# AssignToCategoryRuleAction.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the rule action is enabled. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that determines if the rule action is enabled. Re
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [AssignToCategoryRuleAction](./Outlook.AssignToCategoryRuleAction.md) object.
+_expression_ A variable that represents an [AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md) object.
 
 
 ## Remarks

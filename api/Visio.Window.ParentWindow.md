@@ -1,5 +1,5 @@
 ---
-title: Window.ParentWindow Property (Visio)
+title: Window.ParentWindow property (Visio)
 keywords: vis_sdr.chm11614685
 f1_keywords:
 - vis_sdr.chm11614685
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ParentWindow Property (Visio)
+# Window.ParentWindow property (Visio)
 
 Returns the  **Window** object that is the parent of another **Window** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ParentWindow`
+_expression_. `ParentWindow`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

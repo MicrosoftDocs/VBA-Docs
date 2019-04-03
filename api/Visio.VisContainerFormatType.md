@@ -1,5 +1,5 @@
 ---
-title: VisContainerFormatType Enumeration (Visio)
+title: VisContainerFormatType enumeration (Visio)
 keywords: vis_sdr.chm70715
 f1_keywords:
 - vis_sdr.chm70715
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisContainerFormatType Enumeration (Visio)
+# VisContainerFormatType enumeration (Visio)
 
 Specifies constants that determine the container format to change; passed to the  **[Selection.SetContainerFormat](Visio.Selection.SetContainerFormat.md)** method.
 

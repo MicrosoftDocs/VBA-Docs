@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.TextAlign Property (Outlook)
+title: OlkCommandButton.TextAlign property (Outlook)
 keywords: vbaol11.chm1000117
 f1_keywords:
 - vbaol11.chm1000117
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.TextAlign Property (Outlook)
+# OlkCommandButton.TextAlign property (Outlook)
 
 Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that specifies how text is aligned in the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that spec
 
 _expression_. `TextAlign`
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Comment.Top Property (PowerPoint)
+title: Comment.Top property (PowerPoint)
 keywords: vbapp10.chm642009
 f1_keywords:
 - vbapp10.chm642009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.Top Property (PowerPoint)
+# Comment.Top property (PowerPoint)
 
 Returns a  **Single** that represents the distance in points from the left edge of the comment to the left edge of the slide. Read-only.
 

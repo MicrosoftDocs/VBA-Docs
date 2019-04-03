@@ -1,5 +1,5 @@
 ---
-title: TickLabels.NumberFormat Property (PowerPoint)
+title: TickLabels.NumberFormat property (PowerPoint)
 keywords: vbapp10.chm719005
 f1_keywords:
 - vbapp10.chm719005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.NumberFormat Property (PowerPoint)
+# TickLabels.NumberFormat property (PowerPoint)
 
 Returns or sets the format code for the object. Read/write  **String**.
 

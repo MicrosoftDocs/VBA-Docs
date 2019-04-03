@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.PresetShape Property (PowerPoint)
+title: TextEffectFormat.PresetShape property (PowerPoint)
 keywords: vbapp10.chm556010
 f1_keywords:
 - vbapp10.chm556010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.PresetShape Property (PowerPoint)
+# TextEffectFormat.PresetShape property (PowerPoint)
 
 Returns or sets the shape of the specified WordArt. Read/write.
 
 
 ## Syntax
 
- _expression_. `PresetShape`
+_expression_. `PresetShape`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
@@ -82,7 +82,7 @@ The value of the  **PresetShape** property can be one of these **MsoPresetTextEf
 
 ## Example
 
-This example sets the shape of all WordArt on  `myDocument` to a chevron whose center points down.
+This example sets the shape of all WordArt on  _myDocument_ to a chevron whose center points down.
 
 
 ```vb

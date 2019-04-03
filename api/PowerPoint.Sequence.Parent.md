@@ -1,5 +1,5 @@
 ---
-title: Sequence.Parent Property (PowerPoint)
+title: Sequence.Parent property (PowerPoint)
 keywords: vbapp10.chm651002
 f1_keywords:
 - vbapp10.chm651002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Sequence.Parent Property (PowerPoint)
+# Sequence.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.RequiredAttendees Property (Outlook)
+title: AppointmentItem.RequiredAttendees property (Outlook)
 keywords: vbaol11.chm898
 f1_keywords:
 - vbaol11.chm898
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.RequiredAttendees Property (Outlook)
+# AppointmentItem.RequiredAttendees property (Outlook)
 
 Returns a semicolon-delimited  **String** of required attendee names for the meeting appointment. Read/write.
 
@@ -21,7 +21,7 @@ Returns a semicolon-delimited  **String** of required attendee names for the mee
 
 _expression_. `RequiredAttendees`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

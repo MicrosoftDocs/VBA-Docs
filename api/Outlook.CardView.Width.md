@@ -1,5 +1,5 @@
 ---
-title: CardView.Width Property (Outlook)
+title: CardView.Width property (Outlook)
 keywords: vbaol11.chm2600
 f1_keywords:
 - vbaol11.chm2600
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.Width Property (Outlook)
+# CardView.Width property (Outlook)
 
 Returns or sets a  **Long** value indicating the width (in characters) of cards in the **[CardView](Outlook.CardView.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** value indicating the width (in characters) of cards 
 
 _expression_.**Width**
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks

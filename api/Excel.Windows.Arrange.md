@@ -21,7 +21,7 @@ Arranges the windows on the screen.
 
 _expression_. `Arrange`( `_ArrangeStyle_` , `_ActiveWorkbook_` , `_SyncHorizontal_` , `_SyncVertical_` )
 
-_expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
+_expression_ A variable that represents a [Windows](Excel.Windows.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ArrangeStyle_|Optional| **[xlArrangeStyle](Excel.XlArrangeStyle.md)**|One of the constants of  **xlArrangeStyle** specifying how the windows are arranged.|
+| _ArrangeStyle_|Optional| **[XlArrangeStyle](Excel.XlArrangeStyle.md)**|One of the constants of  **xlArrangeStyle** specifying how the windows are arranged.|
 | _ActiveWorkbook_|Optional| **Variant**| **True** to arrange only the visible windows of the active workbook. **False** to arrange all windows. The default value is **False**.|
 | _SyncHorizontal_|Optional| **Variant**|Ignored if  _ActiveWorkbook_ is **False** or omitted. **True** to synchronize the windows of the active workbook when scrolling horizontally. **False** to not synchronize the windows. The default value is **False**.|
 | _SyncVertical_|Optional| **Variant**|Ignored if  _ActiveWorkbook_ is **False** or omitted. **True** to synchronize the windows of the active workbook when scrolling vertically. **False** to not synchronize the windows. The default value is **False**.|

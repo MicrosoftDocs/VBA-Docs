@@ -1,5 +1,5 @@
 ---
-title: SoundEffect.Name Property (PowerPoint)
+title: SoundEffect.Name property (PowerPoint)
 keywords: vbapp10.chm540003
 f1_keywords:
 - vbapp10.chm540003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SoundEffect.Name Property (PowerPoint)
+# SoundEffect.Name property (PowerPoint)
 
 Returns or sets the name of the specified object. Read/write.
 

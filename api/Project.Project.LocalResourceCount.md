@@ -1,5 +1,5 @@
 ---
-title: Project.LocalResourceCount Method (Project)
+title: Project.LocalResourceCount method (Project)
 keywords: vbapj.chm131112
 f1_keywords:
 - vbapj.chm131112
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.LocalResourceCount Method (Project)
+# Project.LocalResourceCount method (Project)
 
 Returns the number of local resources in the project.
 
 
 ## Syntax
 
- _expression_. `LocalResourceCount`
+_expression_. `LocalResourceCount`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

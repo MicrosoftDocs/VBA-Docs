@@ -1,5 +1,5 @@
 ---
-title: VisRasterExportRotation Enumeration (Visio)
+title: VisRasterExportRotation enumeration (Visio)
 keywords: vis_sdr.chm70740
 f1_keywords:
 - vis_sdr.chm70740
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRasterExportRotation Enumeration (Visio)
+# VisRasterExportRotation enumeration (Visio)
 
 
 

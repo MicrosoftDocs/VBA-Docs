@@ -1,5 +1,5 @@
 ---
-title: OlDefaultFolders Enumeration (Outlook)
+title: OlDefaultFolders enumeration (Outlook)
 keywords: vbaol11.chm3055
 f1_keywords:
 - vbaol11.chm3055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlDefaultFolders Enumeration (Outlook)
+# OlDefaultFolders enumeration (Outlook)
 
 Specifies the folder type for a specified folder.
 

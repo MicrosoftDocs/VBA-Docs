@@ -1,5 +1,5 @@
 ---
-title: Connect.Index Property (Visio)
+title: Connect.Index property (Visio)
 keywords: vis_sdr.chm10313695
 f1_keywords:
 - vis_sdr.chm10313695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Connect.Index Property (Visio)
+# Connect.Index property (Visio)
 
 Gets the ordinal position of a  **Connect** object in the **Connects** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 

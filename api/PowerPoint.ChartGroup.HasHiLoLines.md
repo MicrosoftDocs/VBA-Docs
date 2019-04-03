@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasHiLoLines Property (PowerPoint)
+title: ChartGroup.HasHiLoLines property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasHiLoLines
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.HasHiLoLines Property (PowerPoint)
+# ChartGroup.HasHiLoLines property (PowerPoint)
 
  **True** if the line chart has high-low lines. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasHiLoLines`
+_expression_. `HasHiLoLines`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

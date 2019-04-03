@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.ReplyAll Event (Outlook)
+title: MeetingItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ReplyAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.ReplyAll Event (Outlook)
+# MeetingItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item, or when the **ReplyAll** method is called for the item, which is an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **ReplyAll** action for an item, or when the *
 
 _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Parameters

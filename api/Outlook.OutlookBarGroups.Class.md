@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.Class Property (Outlook)
+title: OutlookBarGroups.Class property (Outlook)
 keywords: vbaol11.chm347
 f1_keywords:
 - vbaol11.chm347
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.Class Property (Outlook)
+# OutlookBarGroups.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBarGroups.md) object.
 
 
 ## See also

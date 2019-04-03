@@ -19,7 +19,7 @@ Downgrades a document to the Word 97-2003 document format so that it can be edit
 
 ## Syntax
 
- _expression_. `DowngradeDocument`
+_expression_. `DowngradeDocument`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

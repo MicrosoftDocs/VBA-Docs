@@ -1,5 +1,5 @@
 ---
-title: FileConverter Object (PowerPoint)
+title: FileConverter object (PowerPoint)
 keywords: vbapp10.chm680000
 f1_keywords:
 - vbapp10.chm680000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FileConverter Object (PowerPoint)
+# FileConverter object (PowerPoint)
 
 Represents a file converter that is used to open or save files. The  **FileConverter** object is a member of the **FileConverters** collection. The **[FileConverters](PowerPoint.FileConverters.md)** collection contains all the installed file converters for opening and saving files.
 

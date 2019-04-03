@@ -1,5 +1,5 @@
 ---
-title: DropLines.Format Property (PowerPoint)
+title: DropLines.Format property (PowerPoint)
 keywords: vbapp10.chm701004
 f1_keywords:
 - vbapp10.chm701004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DropLines.Format Property (PowerPoint)
+# DropLines.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
 _expression_ A variable that represents a '[DropLines](PowerPoint.DropLines.md)' object.
 

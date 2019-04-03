@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ActiveWindow Property (Visio)
+title: InvisibleApp.ActiveWindow property (Visio)
 keywords: vis_sdr.chm17513035
 f1_keywords:
 - vis_sdr.chm17513035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ActiveWindow Property (Visio)
+# InvisibleApp.ActiveWindow property (Visio)
 
 Returns the active  **Window** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveWindow`)
+_expression_. `ActiveWindow`)
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

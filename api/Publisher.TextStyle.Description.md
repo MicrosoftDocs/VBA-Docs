@@ -1,5 +1,5 @@
 ---
-title: TextStyle.Description Property (Publisher)
+title: TextStyle.Description property (Publisher)
 keywords: vbapb10.chm5963779
 f1_keywords:
 - vbapb10.chm5963779
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextStyle.Description Property (Publisher)
+# TextStyle.Description property (Publisher)
 
 Returns a  **String** that represents the description of the specified style. For example, a typical description for the Normal style might be "(Default) Times New Roman, (Asian) MS Mincho, 10 pt, Main (Black), Kerning 14 pt, Left, Line spacing 1 sp." Read-only.
 
 
 ## Syntax
 
- _expression_. **Description**
+ _expression_.**Description**
 
  _expression_ A variable that represents a  **TextStyle** object.
 

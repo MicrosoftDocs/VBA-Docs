@@ -1,5 +1,5 @@
 ---
-title: DistListItem.AddMember Method (Outlook)
+title: DistListItem.AddMember method (Outlook)
 keywords: vbaol11.chm1159
 f1_keywords:
 - vbaol11.chm1159
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.AddMember Method (Outlook)
+# DistListItem.AddMember method (Outlook)
 
 Adds a new member to the specified distribution list. The distribution list contains  **[Recipient](Outlook.Recipient.md)** objects that represent valid email addresses.
 
@@ -21,7 +21,7 @@ Adds a new member to the specified distribution list. The distribution list cont
 
 _expression_. `AddMember`( `_Recipient_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

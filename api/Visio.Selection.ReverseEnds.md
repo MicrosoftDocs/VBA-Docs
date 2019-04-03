@@ -1,5 +1,5 @@
 ---
-title: Selection.ReverseEnds Method (Visio)
+title: Selection.ReverseEnds method (Visio)
 keywords: vis_sdr.chm11116480
 f1_keywords:
 - vis_sdr.chm11116480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.ReverseEnds Method (Visio)
+# Selection.ReverseEnds method (Visio)
 
 Reverses an object by flipping it both horizontally and vertically.
 
 
 ## Syntax
 
- _expression_. `ReverseEnds`
+_expression_. `ReverseEnds`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

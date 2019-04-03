@@ -1,5 +1,5 @@
 ---
-title: Explorer.PreviewPane Property (Outlook)
+title: Explorer.PreviewPane property (Outlook)
 keywords: vbaol11.chm3639
 f1_keywords:
 - vbaol11.chm3639
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.PreviewPane Property (Outlook)
+# Explorer.PreviewPane property (Outlook)
 
 The [PreviewPane](Outlook.previewpane.md) object displays content in a "single pane mode" by showing only the Preview Pane view.
 
@@ -19,7 +19,7 @@ The [PreviewPane](Outlook.previewpane.md) object displays content in a "single p
 
 _expression_. `PreviewPane`
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## See also

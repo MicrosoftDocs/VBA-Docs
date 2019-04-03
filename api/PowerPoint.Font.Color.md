@@ -1,5 +1,5 @@
 ---
-title: Font.Color Property (PowerPoint)
+title: Font.Color property (PowerPoint)
 keywords: vbapp10.chm575003
 f1_keywords:
 - vbapp10.chm575003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Color Property (PowerPoint)
+# Font.Color property (PowerPoint)
 
 Returns or sets the color of the current  **Font** object. Read-write.
 
 
 ## Syntax
 
- _expression_. `Color`
+_expression_. `Color`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 

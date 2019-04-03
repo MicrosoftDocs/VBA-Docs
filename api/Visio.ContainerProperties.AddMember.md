@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.AddMember Method (Visio)
+title: ContainerProperties.AddMember method (Visio)
 keywords: vis_sdr.chm17662355
 f1_keywords:
 - vis_sdr.chm17662355
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.AddMember Method (Visio)
+# ContainerProperties.AddMember method (Visio)
 
 Adds a shape or a set of shapes to the container.
 
 
 ## Syntax
 
- _expression_. `AddMember`( `_pObjectToAdd_` , `_addOptions_` )
+_expression_. `AddMember`( `_pObjectToAdd_` , `_addOptions_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

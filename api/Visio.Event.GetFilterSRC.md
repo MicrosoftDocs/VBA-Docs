@@ -1,5 +1,5 @@
 ---
-title: Event.GetFilterSRC Method (Visio)
+title: Event.GetFilterSRC method (Visio)
 keywords: vis_sdr.chm12650615
 f1_keywords:
 - vis_sdr.chm12650615
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Event.GetFilterSRC Method (Visio)
+# Event.GetFilterSRC method (Visio)
 
 Returns an array of cell ranges and a  **True** or **False** value indicating whether you are filtering events for that range.
 
 
 ## Syntax
 
- _expression_. `GetFilterSRC`
+_expression_. `GetFilterSRC`
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 

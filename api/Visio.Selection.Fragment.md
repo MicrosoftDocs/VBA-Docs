@@ -1,5 +1,5 @@
 ---
-title: Selection.Fragment Method (Visio)
+title: Selection.Fragment method (Visio)
 keywords: vis_sdr.chm11116305
 f1_keywords:
 - vis_sdr.chm11116305
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Fragment Method (Visio)
+# Selection.Fragment method (Visio)
 
 Breaks selected shapes into smaller shapes.
 
 
 ## Syntax
 
- _expression_. `Fragment`
+_expression_. `Fragment`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

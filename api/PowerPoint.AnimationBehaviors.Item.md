@@ -1,5 +1,5 @@
 ---
-title: AnimationBehaviors.Item Method (PowerPoint)
+title: AnimationBehaviors.Item method (PowerPoint)
 keywords: vbapp10.chm656003
 f1_keywords:
 - vbapp10.chm656003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehaviors.Item Method (PowerPoint)
+# AnimationBehaviors.Item method (PowerPoint)
 
 Returns a single  **AnimationBehavior** object from the specified **AnimationBehaviors** collection.
 

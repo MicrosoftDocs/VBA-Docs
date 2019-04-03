@@ -19,9 +19,9 @@ Creates a new worksheet, chart, or macro sheet. The new worksheet becomes the ac
 
 ## Syntax
 
-_expression_. `Add`( `_Before_` , `_After_` , `_Count_` , `_Type_` )
+_expression_.**Add**( `_Before_` , `_After_` , `_Count_` , `_Type_` )
 
-_expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
+_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 
 
 ## Parameters
@@ -33,7 +33,7 @@ _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) ob
 | _Before_|Optional| **Variant**|An object that specifies the sheet before which the new sheet is added.|
 | _After_|Optional| **Variant**|An object that specifies the sheet after which the new sheet is added.|
 | _Count_|Optional| **Variant**|The number of sheets to be added. The default value is one.|
-| _Type_|Optional| **Variant**|Specifies the sheet type. Can be one of the following  **[xlSheetType](Excel.XlSheetType.md)** constants: **xlWorksheet**, **xlChart**, **xlExcel4MacroSheet**, or **xlExcel4IntlMacroSheet**. If you are inserting a sheet based on an existing template, specify the path to the template. The default value is **xlWorksheet**.|
+| _Type_|Optional| **Variant**|Specifies the sheet type. Can be one of the following  **[XlSheetType](Excel.XlSheetType.md)** constants: **xlWorksheet**, **xlChart**, **xlExcel4MacroSheet**, or **xlExcel4IntlMacroSheet**. If you are inserting a sheet based on an existing template, specify the path to the template. The default value is **xlWorksheet**.|
 
 ## Return value
 

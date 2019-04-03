@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.ReferenceTime Property (Outlook)
+title: OlkTimeControl.ReferenceTime property (Outlook)
 keywords: vbaol11.chm1000391
 f1_keywords:
 - vbaol11.chm1000391
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.ReferenceTime Property (Outlook)
+# OlkTimeControl.ReferenceTime property (Outlook)
 
 Returns or sets a  **Date** that specifies a reference time used for the **olTimeStyleTimeDuration** style setting on the time control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** that specifies a reference time used for the **olTim
 
 _expression_. `ReferenceTime`
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

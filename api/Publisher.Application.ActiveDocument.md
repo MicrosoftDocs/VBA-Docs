@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveDocument Property (Publisher)
+title: Application.ActiveDocument property (Publisher)
 keywords: vbapb10.chm131073
 f1_keywords:
 - vbapb10.chm131073
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveDocument Property (Publisher)
+# Application.ActiveDocument property (Publisher)
 
 Returns a  **[Document](Publisher.Document.md)** object that represents the active publication. If there are no documents open, an error occurs.
 
 
 ## Syntax
 
- _expression_. **ActiveDocument**
+ _expression_.**ActiveDocument**
 
  _expression_ A variable that represents an  **Application** object.
 

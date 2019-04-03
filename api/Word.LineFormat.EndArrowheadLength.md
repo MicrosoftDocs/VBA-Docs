@@ -19,7 +19,7 @@ Returns or sets the length of the arrowhead at the end of the specified line. Re
 
 ## Syntax
 
- _expression_. `EndArrowheadLength`
+_expression_. `EndArrowheadLength`
 
  _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: OlTaskOwnership Enumeration (Outlook)
+title: OlTaskOwnership enumeration (Outlook)
 keywords: vbaol11.chm3084
 f1_keywords:
 - vbaol11.chm3084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTaskOwnership Enumeration (Outlook)
+# OlTaskOwnership enumeration (Outlook)
 
 Indicates the ownership state of the task.
 
@@ -26,6 +26,6 @@ Indicates the ownership state of the task.
 
 ## Remarks
 
-Used by the [TaskItem.Ownership Property (Outlook)](Outlook.TaskItem.Ownership.md).
+Used by the [TaskItem.Ownership property (Outlook)](Outlook.TaskItem.Ownership.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

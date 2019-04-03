@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.Duration Property (PowerPoint)
+title: SlideShowTransition.Duration property (PowerPoint)
 keywords: vbapp10.chm539011
 f1_keywords:
 - vbapp10.chm539011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition.Duration Property (PowerPoint)
+# SlideShowTransition.Duration property (PowerPoint)
 
 Returns or sets the length of an animation in seconds. Read/write.
 
 
 ## Syntax
 
- _expression_. `Duration`
+_expression_. `Duration`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Calendar.Name Property (Project)
+title: Calendar.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendar.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Calendar.Name Property (Project)
+# Calendar.Name property (Project)
 
 Gets the name of a  **Calendar** object. Read-only **String**.
 

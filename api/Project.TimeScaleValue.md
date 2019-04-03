@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValue Object (Project)
+title: TimeScaleValue object (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValue
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValue Object (Project)
+# TimeScaleValue object (Project)
 
 Represents a timescaled data item. The  **TimeScaleValue** object is a member of the **[TimeScaleValues](Project.timescalevalues.md)** collection.
 

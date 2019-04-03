@@ -21,7 +21,7 @@ Returns or sets the shape type for the specified  **[Shape](Excel.Shape.md)** or
 
 _expression_. `AutoShapeType`
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ Use the  **[Type](Excel.ConnectorFormat.Type.md)** property of the **[ConnectorF
 
 ## Example
 
-This example replaces all 16-point stars with 32-point stars in  `myDocument`.
+This example replaces all 16-point stars with 32-point stars in  _myDocument_.
 
 
 ```vb

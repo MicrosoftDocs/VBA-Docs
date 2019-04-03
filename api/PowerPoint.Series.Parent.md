@@ -1,5 +1,5 @@
 ---
-title: Series.Parent Property (PowerPoint)
+title: Series.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.Parent Property (PowerPoint)
+# Series.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

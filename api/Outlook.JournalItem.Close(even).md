@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Close Event (Outlook)
+title: JournalItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Close Event (Outlook)
+# JournalItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 
@@ -18,7 +18,7 @@ Occurs when the inspector associated with an item (which is an instance of the p
 
 _expression_. `Close`( `_Cancel_` )
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Parameters

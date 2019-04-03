@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Unload Event (Outlook)
+title: ReportItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Unload Event (Outlook)
+# ReportItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
@@ -18,7 +18,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
 _expression_. `Unload`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks

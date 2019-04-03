@@ -1,5 +1,5 @@
 ---
-title: Shape.Cut Method (PowerPoint)
+title: Shape.Cut method (PowerPoint)
 keywords: vbapp10.chm547050
 f1_keywords:
 - vbapp10.chm547050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Cut Method (PowerPoint)
+# Shape.Cut method (PowerPoint)
 
 Deletes the specified object and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`
+_expression_. `Cut`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

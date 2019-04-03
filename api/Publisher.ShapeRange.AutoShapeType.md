@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AutoShapeType Property (Publisher)
+title: ShapeRange.AutoShapeType property (Publisher)
 keywords: vbapb10.chm2293810
 f1_keywords:
 - vbapb10.chm2293810
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.AutoShapeType Property (Publisher)
+# ShapeRange.AutoShapeType property (Publisher)
 
 Returns or sets an  **MsoAutoShapeType**constant that specifies a  **ShapeRange** object's AutoShape type.
 
 
 ## Syntax
 
- _expression_. **AutoShapeType**
+ _expression_.**AutoShapeType**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks
 
-The  **AutoShapeType** property value can be one of the ** [MsoAutoShapeType](Office.MsoAutoShapeType.md)** constants declared in the Microsoft Office type library.
+The  **AutoShapeType** property value can be one of the **[MsoAutoShapeType](Office.MsoAutoShapeType.md)** constants declared in the Microsoft Office type library.
 
 AutoShapes correspond to  **Shape** objects, although the **AutoShapeType** property for non-Publisher shapes will also return a value. WordArt, OLE, Web Form control, table and picture frame objects should return **msoShapeMixed** as their **AutoShapeType** property value. Text frames should return **msoShapeRectangle** as their **AutoShapeType** property value.
 

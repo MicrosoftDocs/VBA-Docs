@@ -1,5 +1,5 @@
 ---
-title: Application.SelectResourceColumn Method (Project)
+title: Application.SelectResourceColumn method (Project)
 keywords: vbapj.chm2066
 f1_keywords:
 - vbapj.chm2066
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectResourceColumn Method (Project)
+# Application.SelectResourceColumn method (Project)
 
 Selects a column containing resource information.
 
 
 ## Syntax
 
- _expression_. `SelectResourceColumn`( `_Column_`, `_Additional_`, `_Extend_`, `_Add_` )
+_expression_. `SelectResourceColumn`( `_Column_`, `_Additional_`, `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

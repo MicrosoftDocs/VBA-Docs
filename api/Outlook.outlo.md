@@ -12,7 +12,7 @@ localization_priority: Normal
 ## In this section
 
 
--  [Object model (Outlook View Control reference)](./overview/Outlook/object-model-outlook-view-control-reference.md)
+-  [Object model (Outlook View Control reference)](overview/Outlook/object-model-outlook-view-control-reference.md)
     
 -  [ViewCtl Object (Outlook View Control)](Outlook.viewc.md)
     

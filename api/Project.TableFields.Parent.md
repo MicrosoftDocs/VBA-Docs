@@ -1,5 +1,5 @@
 ---
-title: TableFields.Parent Property (Project)
+title: TableFields.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.TableFields.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TableFields.Parent Property (Project)
+# TableFields.Parent property (Project)
 
 Gets the parent of the  **TableFields** object. Read-only **Project**.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.SelectAll Method (PowerPoint)
+title: Shapes.SelectAll method (PowerPoint)
 keywords: vbapp10.chm543016
 f1_keywords:
 - vbapp10.chm543016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.SelectAll Method (PowerPoint)
+# Shapes.SelectAll method (PowerPoint)
 
 Selects all the shapes in a  **[Shapes](PowerPoint.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. `SelectAll`
+_expression_. `SelectAll`
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

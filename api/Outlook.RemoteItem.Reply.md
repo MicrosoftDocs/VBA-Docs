@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Reply Event (Outlook)
+title: RemoteItem.Reply event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Reply
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Reply Event (Outlook)
+# RemoteItem.Reply event (Outlook)
 
 Occurs when the user selects the  **Reply** action for an item (which is an instance of the parent object).
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **Reply** action for an item (which is an inst
 
 _expression_. `Reply`( `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Parameters

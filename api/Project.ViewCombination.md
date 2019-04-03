@@ -1,5 +1,5 @@
 ---
-title: ViewCombination Object (Project)
+title: ViewCombination object (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewCombination
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewCombination Object (Project)
+# ViewCombination object (Project)
 
 Represents a combination view in Project. The  **ViewCombination** object is a member of the **[ViewsCombination](Project.viewscombination(object).md)** collection.
  

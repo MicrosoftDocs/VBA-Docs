@@ -1,5 +1,5 @@
 ---
-title: View.GotoSlide Method (PowerPoint)
+title: View.GotoSlide method (PowerPoint)
 keywords: vbapp10.chm512007
 f1_keywords:
 - vbapp10.chm512007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# View.GotoSlide Method (PowerPoint)
+# View.GotoSlide method (PowerPoint)
 
 Switches to the specified slide.
 
 
 ## Syntax
 
- _expression_. `GotoSlide`( `_Index_` )
+_expression_. `GotoSlide` (_Index_)
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

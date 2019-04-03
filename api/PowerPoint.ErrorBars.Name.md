@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Name Property (PowerPoint)
+title: ErrorBars.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars.Name Property (PowerPoint)
+# ErrorBars.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

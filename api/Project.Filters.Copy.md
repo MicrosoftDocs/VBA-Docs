@@ -1,5 +1,5 @@
 ---
-title: Filters.Copy Method (Project)
+title: Filters.Copy method (Project)
 keywords: vbapj.chm132248
 f1_keywords:
 - vbapj.chm132248
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Filters.Copy Method (Project)
+# Filters.Copy method (Project)
 
 Makes a copy of a group definition for the  **Filters** collection and returns a reference to the **[Filter](Project.Filter.md)** object.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Source_`, `_NewName_` )
+_expression_. `Copy`( `_Source_`, `_NewName_` )
 
  _expression_ A variable that represents a 'Filters' object.
 

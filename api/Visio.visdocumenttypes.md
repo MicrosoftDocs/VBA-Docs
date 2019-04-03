@@ -1,5 +1,5 @@
 ---
-title: VisDocumentTypes Enumeration (Visio)
+title: VisDocumentTypes enumeration (Visio)
 keywords: vis_sdr.chm70365
 f1_keywords:
 - vis_sdr.chm70365
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDocumentTypes Enumeration (Visio)
+# VisDocumentTypes enumeration (Visio)
 
 Type codes returned by the  **Document.Type** property.
 

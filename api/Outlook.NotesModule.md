@@ -1,5 +1,5 @@
 ---
-title: NotesModule Object (Outlook)
+title: NotesModule object (Outlook)
 keywords: vbaol11.chm3198
 f1_keywords:
 - vbaol11.chm3198
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule Object (Outlook)
+# NotesModule object (Outlook)
 
 Represents the  **Notes** navigation module in the navigation pane of an explorer.
 
@@ -43,6 +43,6 @@ You can use the  **[Visible](Outlook.NotesModule.Visible.md)** property to deter
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

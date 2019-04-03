@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Parent Property (Outlook)
+title: NameSpace.Parent property (Outlook)
 keywords: vbaol11.chm755
 f1_keywords:
 - vbaol11.chm755
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Parent Property (Outlook)
+# NameSpace.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## See also

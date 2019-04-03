@@ -1,5 +1,5 @@
 ---
-title: Application.WebSetSearchPage Method (Project)
+title: Application.WebSetSearchPage method (Project)
 keywords: vbapj.chm1318
 f1_keywords:
 - vbapj.chm1318
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WebSetSearchPage Method (Project)
+# Application.WebSetSearchPage method (Project)
 
 Specifies a document as the Search Page in Microsoft Internet Explorer.
 
 
 ## Syntax
 
- _expression_. `WebSetSearchPage`( `_Address_` )
+_expression_. `WebSetSearchPage`( `_Address_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

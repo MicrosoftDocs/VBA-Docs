@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Patterned Method (PowerPoint)
+title: FillFormat.Patterned method (PowerPoint)
 keywords: vbapp10.chm552004
 f1_keywords:
 - vbapp10.chm552004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Patterned Method (PowerPoint)
+# FillFormat.Patterned method (PowerPoint)
 
 Sets the specified fill to a pattern.
 
 
 ## Syntax
 
- _expression_. `Patterned`( `_Pattern_` )
+_expression_. `Patterned`( `_Pattern_` )
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -93,7 +93,7 @@ The value of the Pattern parameter can be one of these  **MsoPatternType** const
 
 ## Example
 
-This example adds an oval with a patterned fill to  `myDocument`.
+This example adds an oval with a patterned fill to  _myDocument_.
 
 
 ```vb

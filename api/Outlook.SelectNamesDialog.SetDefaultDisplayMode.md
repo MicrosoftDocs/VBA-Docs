@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.SetDefaultDisplayMode Method (Outlook)
+title: SelectNamesDialog.SetDefaultDisplayMode method (Outlook)
 keywords: vbaol11.chm836
 f1_keywords:
 - vbaol11.chm836
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.SetDefaultDisplayMode Method (Outlook)
+# SelectNamesDialog.SetDefaultDisplayMode method (Outlook)
 
 Sets the default display mode for the  **Select Names** dialog box, specifying its caption and button labels.
 
@@ -21,7 +21,7 @@ Sets the default display mode for the  **Select Names** dialog box, specifying i
 
 _expression_. `SetDefaultDisplayMode`( `_defaultMode_` )
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Parameters

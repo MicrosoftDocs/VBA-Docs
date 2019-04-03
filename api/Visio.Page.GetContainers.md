@@ -1,5 +1,5 @@
 ---
-title: Page.GetContainers Method (Visio)
+title: Page.GetContainers method (Visio)
 keywords: vis_sdr.chm10962165
 f1_keywords:
 - vis_sdr.chm10962165
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.GetContainers Method (Visio)
+# Page.GetContainers method (Visio)
 
 Returns an array of shape identifiers (IDs) of the container shapes on the page.
 
 
 ## Syntax
 
- _expression_. `GetContainers`( `_NestedOptions_` )
+_expression_. `GetContainers`( `_NestedOptions_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

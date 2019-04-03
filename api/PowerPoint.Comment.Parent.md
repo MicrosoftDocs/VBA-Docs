@@ -1,5 +1,5 @@
 ---
-title: Comment.Parent Property (PowerPoint)
+title: Comment.Parent property (PowerPoint)
 keywords: vbapp10.chm642002
 f1_keywords:
 - vbapp10.chm642002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comment.Parent Property (PowerPoint)
+# Comment.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

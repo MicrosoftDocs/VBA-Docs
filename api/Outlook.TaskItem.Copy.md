@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Copy Method (Outlook)
+title: TaskItem.Copy method (Outlook)
 keywords: vbaol11.chm1713
 f1_keywords:
 - vbaol11.chm1713
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Copy Method (Outlook)
+# TaskItem.Copy method (Outlook)
 
 Creates another instance of an object.
 
@@ -21,7 +21,7 @@ Creates another instance of an object.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Example

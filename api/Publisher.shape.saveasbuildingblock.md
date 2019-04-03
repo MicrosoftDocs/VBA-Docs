@@ -1,5 +1,5 @@
 ---
-title: Shape.SaveAsBuildingBlock Method (Publisher)
+title: Shape.SaveAsBuildingBlock method (Publisher)
 keywords: vbapb10.chm2228378
 f1_keywords:
 - vbapb10.chm2228378
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.SaveAsBuildingBlock Method (Publisher)
+# Shape.SaveAsBuildingBlock method (Publisher)
 
 Saves a single shape as a building block. Returns the resulting  **[BuildingBlock](Publisher.BuildingBlock.md)** object.
 
 
 ## Syntax
 
- _expression_. **SaveAsBuildingBlock**(**_Name_**)
+ _expression_.**SaveAsBuildingBlock**(**_Name_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

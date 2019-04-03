@@ -1,5 +1,5 @@
 ---
-title: Document.BottomMargin Property (Visio)
+title: Document.BottomMargin property (Visio)
 keywords: vis_sdr.chm10513150
 f1_keywords:
 - vis_sdr.chm10513150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.BottomMargin Property (Visio)
+# Document.BottomMargin property (Visio)
 
 Specifies the bottom margin when printing the pages in a document. Read/write.
 

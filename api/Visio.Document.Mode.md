@@ -1,5 +1,5 @@
 ---
-title: Document.Mode Property (Visio)
+title: Document.Mode property (Visio)
 keywords: vis_sdr.chm10513925
 f1_keywords:
 - vis_sdr.chm10513925
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Mode Property (Visio)
+# Document.Mode property (Visio)
 
 Determines whether a document is in run mode or design mode. Read/write.
 
 
 ## Syntax
 
- _expression_. `Mode`
+_expression_. `Mode`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

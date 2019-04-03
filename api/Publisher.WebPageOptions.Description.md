@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.Description Property (Publisher)
+title: WebPageOptions.Description property (Publisher)
 keywords: vbapb10.chm544771
 f1_keywords:
 - vbapb10.chm544771
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebPageOptions.Description Property (Publisher)
+# WebPageOptions.Description property (Publisher)
 
 Returns or sets a  **String** that represents the description of a Web page within a Web publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **Description**
+ _expression_.**Description**
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 

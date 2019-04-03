@@ -1,5 +1,5 @@
 ---
-title: Items Object (Outlook)
+title: Items object (Outlook)
 keywords: vbaol11.chm2998
 f1_keywords:
 - vbaol11.chm2998
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Items Object (Outlook)
+# Items object (Outlook)
 
 Contains a collection of [Outlook item objects](../outlook/How-to/Items-Folders-and-Stores/outlook-item-objects.md) in a folder.
 
 
 ## Remarks
 
-Use the  **[Items](./Outlook.Folder.Items.md)** property to return the **Items** object of a **[Folder](Outlook.Folder.md)** object.
+Use the  **[Items](Outlook.Folder.Items.md)** property to return the **Items** object of a **[Folder](Outlook.Folder.md)** object.
 
 Use  **Items** (_index_), where _index_ is the name or index number, to return a single Outlook item.
 
@@ -98,9 +98,9 @@ End sub
 
 |Name|
 |:-----|
-|[ItemAdd](./Outlook.Items.ItemAdd.md)|
-|[ItemChange](./Outlook.Items.ItemChange.md)|
-|[ItemRemove](./Outlook.Items.ItemRemove.md)|
+|[ItemAdd](Outlook.Items.ItemAdd.md)|
+|[ItemChange](Outlook.Items.ItemChange.md)|
+|[ItemRemove](Outlook.Items.ItemRemove.md)|
 
 ## Methods
 
@@ -108,19 +108,19 @@ End sub
 
 |Name|
 |:-----|
-|[Add](./Outlook.Items.Add.md)|
-|[Find](./Outlook.Items.Find.md)|
-|[FindNext](./Outlook.Items.FindNext.md)|
-|[GetFirst](./Outlook.Items.GetFirst.md)|
-|[GetLast](./Outlook.Items.GetLast.md)|
-|[GetNext](./Outlook.Items.GetNext.md)|
-|[GetPrevious](./Outlook.Items.GetPrevious.md)|
-|[Item](./Outlook.Items.Item.md)|
-|[Remove](./Outlook.Items.Remove.md)|
-|[ResetColumns](./Outlook.Items.ResetColumns.md)|
-|[Restrict](./Outlook.Items.Restrict.md)|
-|[SetColumns](./Outlook.Items.SetColumns.md)|
-|[Sort](./Outlook.Items.Sort.md)|
+|[Add](Outlook.Items.Add.md)|
+|[Find](Outlook.Items.Find.md)|
+|[FindNext](Outlook.Items.FindNext.md)|
+|[GetFirst](Outlook.Items.GetFirst.md)|
+|[GetLast](Outlook.Items.GetLast.md)|
+|[GetNext](Outlook.Items.GetNext.md)|
+|[GetPrevious](Outlook.Items.GetPrevious.md)|
+|[Item](Outlook.Items.Item.md)|
+|[Remove](Outlook.Items.Remove.md)|
+|[ResetColumns](Outlook.Items.ResetColumns.md)|
+|[Restrict](Outlook.Items.Restrict.md)|
+|[SetColumns](Outlook.Items.SetColumns.md)|
+|[Sort](Outlook.Items.Sort.md)|
 
 ## Properties
 
@@ -128,17 +128,17 @@ End sub
 
 |Name|
 |:-----|
-|[Application](./Outlook.Items.Application.md)|
-|[Class](./Outlook.Items.Class.md)|
-|[Count](./Outlook.Items.Count.md)|
-|[IncludeRecurrences](./Outlook.Items.IncludeRecurrences.md)|
-|[Parent](./Outlook.Items.Parent.md)|
-|[Session](./Outlook.Items.Session.md)|
+|[Application](Outlook.Items.Application.md)|
+|[Class](Outlook.Items.Class.md)|
+|[Count](Outlook.Items.Count.md)|
+|[IncludeRecurrences](Outlook.Items.IncludeRecurrences.md)|
+|[Parent](Outlook.Items.Parent.md)|
+|[Session](Outlook.Items.Session.md)|
 
 ## See also
 
 
-[Items Object Members](./overview/Outlook.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Items Object Members](overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

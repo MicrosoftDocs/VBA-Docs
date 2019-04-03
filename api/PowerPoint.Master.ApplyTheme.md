@@ -1,5 +1,5 @@
 ---
-title: Master.ApplyTheme Method (PowerPoint)
+title: Master.ApplyTheme method (PowerPoint)
 keywords: vbapp10.chm533019
 f1_keywords:
 - vbapp10.chm533019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.ApplyTheme Method (PowerPoint)
+# Master.ApplyTheme method (PowerPoint)
 
 Applies a theme or design template to the specified slide master, title master, handout master, notes master, or design master.
 
 
 ## Syntax
 
- _expression_. `ApplyTheme`( `_themeName_` )
+_expression_. `ApplyTheme`( `_themeName_` )
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 

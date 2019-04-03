@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Application Property (PowerPoint)
+title: TextRange2.Application property (PowerPoint)
 ms.assetid: 87be86f1-e5c6-4698-9262-139f7c3e5b44
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.Application Property (PowerPoint)
+# TextRange2.Application property (PowerPoint)
 
 Used without an object qualifier, this property returns an  **Application** object that represents the current instance of the Microsoft Office application. Used with an object qualifier, this property returns an **Application** object that represents the creator of the **TextRange2** object. When used with an OLE Automation object, it returns the object's application. Read-only.
 
@@ -43,6 +43,6 @@ Next
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

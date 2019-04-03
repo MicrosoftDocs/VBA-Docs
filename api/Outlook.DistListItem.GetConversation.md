@@ -1,5 +1,5 @@
 ---
-title: DistListItem.GetConversation Method (Outlook)
+title: DistListItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3505
 f1_keywords:
 - vbaol11.chm3505
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.GetConversation Method (Outlook)
+# DistListItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

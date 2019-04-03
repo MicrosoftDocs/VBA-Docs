@@ -19,7 +19,7 @@ Applies a theme to an open document.
 
 ## Syntax
 
- _expression_. `ApplyTheme`( `_Name_` )
+_expression_. `ApplyTheme`( `_Name_` )
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

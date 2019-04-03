@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Perspective Property (PowerPoint)
+title: ThreeDFormat.Perspective property (PowerPoint)
 keywords: vbapp10.chm557010
 f1_keywords:
 - vbapp10.chm557010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Perspective Property (PowerPoint)
+# ThreeDFormat.Perspective property (PowerPoint)
 
 Determines whether the extrusion appears in perspective. Read/write.
 
 
 ## Syntax
 
- _expression_. `Perspective`
+_expression_. `Perspective`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -42,7 +42,7 @@ The value of the  **Perspective** property can be one of these **MsoTriState** c
 
 ## Example
 
-This example sets the extrusion depth for shape one on  `myDocument` to 100 points and specifies that the extrusion be parallel, or orthographic.
+This example sets the extrusion depth for shape one on  _myDocument_ to 100 points and specifies that the extrusion be parallel, or orthographic.
 
 
 ```vb

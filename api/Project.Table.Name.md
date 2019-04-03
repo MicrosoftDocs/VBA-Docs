@@ -1,5 +1,5 @@
 ---
-title: Table.Name Property (Project)
+title: Table.Name property (Project)
 keywords: vbapj.chm132695
 f1_keywords:
 - vbapj.chm132695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Name Property (Project)
+# Table.Name property (Project)
 
 Gets the name of a  **Table** object. Read/write **String**.
 

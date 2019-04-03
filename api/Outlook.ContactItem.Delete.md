@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Delete Method (Outlook)
+title: ContactItem.Delete method (Outlook)
 keywords: vbaol11.chm958
 f1_keywords:
 - vbaol11.chm958
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Delete Method (Outlook)
+# ContactItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
@@ -21,7 +21,7 @@ Removes the item from the folder that contains the item.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

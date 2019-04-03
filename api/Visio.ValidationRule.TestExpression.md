@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.TestExpression Property (Visio)
+title: ValidationRule.TestExpression property (Visio)
 keywords: vis_sdr.chm18462665
 f1_keywords:
 - vis_sdr.chm18462665
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.TestExpression Property (Visio)
+# ValidationRule.TestExpression property (Visio)
 
 Gets or sets the logical expression that determines whether the target object satisfies the validation rule. Read/write.
 
 
 ## Syntax
 
- _expression_. `TestExpression`
+_expression_. `TestExpression`
 
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 

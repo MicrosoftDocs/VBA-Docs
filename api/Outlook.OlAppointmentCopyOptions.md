@@ -1,5 +1,5 @@
 ---
-title: OlAppointmentCopyOptions Enumeration (Outlook)
+title: OlAppointmentCopyOptions enumeration (Outlook)
 keywords: vbaol11.chm3513
 f1_keywords:
 - vbaol11.chm3513
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlAppointmentCopyOptions Enumeration (Outlook)
+# OlAppointmentCopyOptions enumeration (Outlook)
 
 Specifies what actions to take when copying an  **[AppointmentItem](Outlook.AppointmentItem.md)** object to a folder.
 

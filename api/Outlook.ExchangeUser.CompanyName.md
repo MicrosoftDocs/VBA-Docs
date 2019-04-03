@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.CompanyName Property (Outlook)
+title: ExchangeUser.CompanyName property (Outlook)
 keywords: vbaol11.chm2090
 f1_keywords:
 - vbaol11.chm2090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.CompanyName Property (Outlook)
+# ExchangeUser.CompanyName property (Outlook)
 
 Returns a  **String** representing the name of the company for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the name of the company for the **[ExchangeUs
 
 _expression_. `CompanyName`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

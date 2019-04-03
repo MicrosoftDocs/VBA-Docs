@@ -1,5 +1,5 @@
 ---
-title: Folder.CurrentView Property (Outlook)
+title: Folder.CurrentView property (Outlook)
 keywords: vbaol11.chm2009
 f1_keywords:
 - vbaol11.chm2009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.CurrentView Property (Outlook)
+# Folder.CurrentView property (Outlook)
 
 Returns a  **[View](Outlook.View.md)** object representing the current view. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[View](Outlook.View.md)** object representing the current view. Rea
 
 _expression_. `CurrentView`
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks

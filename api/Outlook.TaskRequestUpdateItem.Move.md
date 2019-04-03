@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Move Method (Outlook)
+title: TaskRequestUpdateItem.Move method (Outlook)
 keywords: vbaol11.chm1951
 f1_keywords:
 - vbaol11.chm1951
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Move Method (Outlook)
+# TaskRequestUpdateItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 
 
 ## Syntax
 
- _expression_. `Move`( `_DestFldr_` )
+_expression_. `Move`( `_DestFldr_` )
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters

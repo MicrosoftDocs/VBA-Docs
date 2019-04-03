@@ -1,5 +1,5 @@
 ---
-title: Document.ScratchArea Property (Publisher)
+title: Document.ScratchArea property (Publisher)
 keywords: vbapb10.chm196657
 f1_keywords:
 - vbapb10.chm196657
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ScratchArea Property (Publisher)
+# Document.ScratchArea property (Publisher)
 
 Returns a  **[ScratchArea](Publisher.ScratchArea.md)** object for an a given document.
 
 
 ## Syntax
 
- _expression_. **ScratchArea**
+ _expression_.**ScratchArea**
 
  _expression_ A variable that represents a  **Document** object.
 

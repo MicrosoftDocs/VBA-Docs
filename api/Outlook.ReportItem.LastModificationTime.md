@@ -1,5 +1,5 @@
 ---
-title: ReportItem.LastModificationTime Property (Outlook)
+title: ReportItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1651
 f1_keywords:
 - vbaol11.chm1651
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.LastModificationTime Property (Outlook)
+# ReportItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** specifying the date and time that the Outlook item was last 
 
 _expression_. `LastModificationTime`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Shape.Delete Method (Visio)
+title: Shape.Delete method (Visio)
 keywords: vis_sdr.chm11216165
 f1_keywords:
 - vis_sdr.chm11216165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Delete Method (Visio)
+# Shape.Delete method (Visio)
 
 Deletes an object or selection.
 

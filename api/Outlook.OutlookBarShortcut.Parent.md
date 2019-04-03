@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.Parent Property (Outlook)
+title: OutlookBarShortcut.Parent property (Outlook)
 keywords: vbaol11.chm341
 f1_keywords:
 - vbaol11.chm341
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.Parent Property (Outlook)
+# OutlookBarShortcut.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [OutlookBarShortcut](./Outlook.OutlookBarShortcut.md) object.
+_expression_ A variable that represents an [OutlookBarShortcut](Outlook.OutlookBarShortcut.md) object.
 
 
 ## See also

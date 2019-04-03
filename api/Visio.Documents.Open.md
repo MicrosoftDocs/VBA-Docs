@@ -1,5 +1,5 @@
 ---
-title: Documents.Open Method (Visio)
+title: Documents.Open method (Visio)
 keywords: vis_sdr.chm10616395
 f1_keywords:
 - vis_sdr.chm10616395
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Documents.Open Method (Visio)
+# Documents.Open method (Visio)
 
 Opens an existing file so that it can be edited.
 
 
 ## Syntax
 
- _expression_. `Open`( `_FileName_` )
+_expression_. `Open`( `_FileName_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat Object (PowerPoint)
+title: PictureFormat object (PowerPoint)
 keywords: vbapp10.chm551000
 f1_keywords:
 - vbapp10.chm551000
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat Object (PowerPoint)
+# PictureFormat object (PowerPoint)
 
 Contains properties and methods that apply to pictures and OLE objects. 
 
 
 ## Example
 
-Use the  **PictureFormat** property to return a **PictureFormat** object. The following example sets the brightness, contrast, and color transformation for shape one on `myDocument` and crops 18 points off the bottom of the shape. For this example to work, shape one must be either a picture or an OLE object.
+Use the  **PictureFormat** property to return a **PictureFormat** object. The following example sets the brightness, contrast, and color transformation for shape one on _myDocument_ and crops 18 points off the bottom of the shape. For this example to work, shape one must be either a picture or an OLE object.
 
 
 ```vb
@@ -71,6 +71,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Windows.KeyUp Event (Visio)
+title: Windows.KeyUp event (Visio)
 keywords: vis_sdr.chm11751315
 f1_keywords:
 - vis_sdr.chm11751315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.KeyUp Event (Visio)
+# Windows.KeyUp event (Visio)
 
 Occurs when a keyboard key is released.
 

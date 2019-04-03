@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.MeetingInviteOrUpdate Property (Outlook)
+title: RuleConditions.MeetingInviteOrUpdate property (Outlook)
 keywords: vbaol11.chm2305
 f1_keywords:
 - vbaol11.chm2305
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.MeetingInviteOrUpdate Property (Outlook)
+# RuleConditions.MeetingInviteOrUpdate property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionMeetingInviteOrUpdate**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCo
 
 _expression_. `MeetingInviteOrUpdate`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

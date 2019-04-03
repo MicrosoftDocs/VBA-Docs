@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.Delete Method (Outlook)
+title: NavigationGroups.Delete method (Outlook)
 keywords: vbaol11.chm2859
 f1_keywords:
 - vbaol11.chm2859
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.Delete Method (Outlook)
+# NavigationGroups.Delete method (Outlook)
 
 Deletes the specified  **[NavigationGroup](Outlook.NavigationGroup.md)** object from the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
@@ -21,7 +21,7 @@ Deletes the specified  **[NavigationGroup](Outlook.NavigationGroup.md)** object 
 
 _expression_.**Delete**( `_Group_` )
 
-_expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](Outlook.NavigationGroups.md) object.
 
 
 ## Parameters

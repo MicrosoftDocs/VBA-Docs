@@ -1,5 +1,5 @@
 ---
-title: VisLayoutVertAlignType Enumeration (Visio)
+title: VisLayoutVertAlignType enumeration (Visio)
 keywords: vis_sdr.chm70635
 f1_keywords:
 - vis_sdr.chm70635
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisLayoutVertAlignType Enumeration (Visio)
+# VisLayoutVertAlignType enumeration (Visio)
 
 Specifies constants that define the different ways to incrementally align a shape vertically; passed to the  **[Page.LayoutIncremental](Visio.Page.LayoutIncremental.md)** and **[Selection.LayoutIncremental](Visio.Selection.LayoutIncremental.md)** methods.
 

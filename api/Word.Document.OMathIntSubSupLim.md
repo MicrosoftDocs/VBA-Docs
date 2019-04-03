@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents the default location of limits fo
 
 ## Syntax
 
- _expression_. `OMathIntSubSupLim`
+_expression_. `OMathIntSubSupLim`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

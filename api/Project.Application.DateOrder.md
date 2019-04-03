@@ -1,5 +1,5 @@
 ---
-title: Application.DateOrder Property (Project)
+title: Application.DateOrder property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DateOrder
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DateOrder Property (Project)
+# Application.DateOrder property (Project)
 
 Gets the order of display of the day, month, and year in date values. Read-only  **PjDateOrder**.
 
 
 ## Syntax
 
- _expression_. `DateOrder`
+_expression_. `DateOrder`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

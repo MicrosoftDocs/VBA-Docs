@@ -1,5 +1,5 @@
 ---
-title: PjVisualReportsCubeType Enumeration (Project)
+title: PjVisualReportsCubeType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjVisualReportsCubeType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjVisualReportsCubeType Enumeration (Project)
+# PjVisualReportsCubeType enumeration (Project)
 
 Contains constants that specify the type of report cube on which to operate.
 

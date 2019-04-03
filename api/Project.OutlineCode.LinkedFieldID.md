@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.LinkedFieldID Property (Project)
+title: OutlineCode.LinkedFieldID property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.LinkedFieldID
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.LinkedFieldID Property (Project)
+# OutlineCode.LinkedFieldID property (Project)
 
 Gets or sets the outline code field ID for a linked lookup table. Obsolete in Project. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `LinkedFieldID`
+_expression_. `LinkedFieldID`
 
  _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 

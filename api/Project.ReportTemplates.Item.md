@@ -1,5 +1,5 @@
 ---
-title: ReportTemplates.Item Property (Project)
+title: ReportTemplates.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.ReportTemplates.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportTemplates.Item Property (Project)
+# ReportTemplates.Item property (Project)
 
 Gets a single  **ReportTemplate** object from a **[ReportTemplates](Project.reporttemplates.md)** collection. Read-only **ReportTemplate**.
 

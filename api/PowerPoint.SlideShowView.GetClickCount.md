@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.GetClickCount Method (PowerPoint)
+title: SlideShowView.GetClickCount method (PowerPoint)
 keywords: vbapp10.chm513030
 f1_keywords:
 - vbapp10.chm513030
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.GetClickCount Method (PowerPoint)
+# SlideShowView.GetClickCount method (PowerPoint)
 
 Returns the number of mouse clicks that are defined for a slide.
 
 
 ## Syntax
 
- _expression_. `GetClickCount`
+_expression_. `GetClickCount`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

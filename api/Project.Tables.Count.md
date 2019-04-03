@@ -1,5 +1,5 @@
 ---
-title: Tables.Count Property (Project)
+title: Tables.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Tables.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Tables.Count Property (Project)
+# Tables.Count property (Project)
 
 Gets the number of items in the  **Tables** collection. Read-only **Long**.
 

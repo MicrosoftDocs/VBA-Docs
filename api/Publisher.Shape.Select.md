@@ -1,5 +1,5 @@
 ---
-title: Shape.Select Method (Publisher)
+title: Shape.Select method (Publisher)
 keywords: vbapb10.chm2228263
 f1_keywords:
 - vbapb10.chm2228263
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Select Method (Publisher)
+# Shape.Select method (Publisher)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. **Select**(**_Replace_**)
+ _expression_.**Select**(**_Replace_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

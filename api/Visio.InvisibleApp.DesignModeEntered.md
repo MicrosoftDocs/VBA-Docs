@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DesignModeEntered Event (Visio)
+title: InvisibleApp.DesignModeEntered event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DesignModeEntered
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DesignModeEntered Event (Visio)
+# InvisibleApp.DesignModeEntered event (Visio)
 
 Occurs before a document enters design mode.
 

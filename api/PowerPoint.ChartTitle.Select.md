@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Select Method (PowerPoint)
+title: ChartTitle.Select method (PowerPoint)
 keywords: vbapp10.chm694018
 f1_keywords:
 - vbapp10.chm694018
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Select Method (PowerPoint)
+# ChartTitle.Select method (PowerPoint)
 
 Selects the object.
 

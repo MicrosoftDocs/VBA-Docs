@@ -1,5 +1,5 @@
 ---
-title: Tags Object (Publisher)
+title: Tags object (Publisher)
 keywords: vbapb10.chm4718591
 f1_keywords:
 - vbapb10.chm4718591
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags Object (Publisher)
+# Tags object (Publisher)
 
 A collection of  **Tag** objects that represents tags or custom properties applied to a shape, shape range, page, or publication.
  

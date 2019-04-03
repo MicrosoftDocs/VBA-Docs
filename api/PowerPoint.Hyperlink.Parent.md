@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Parent Property (PowerPoint)
+title: Hyperlink.Parent property (PowerPoint)
 keywords: vbapp10.chm526002
 f1_keywords:
 - vbapp10.chm526002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Parent Property (PowerPoint)
+# Hyperlink.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

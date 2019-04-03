@@ -1,5 +1,5 @@
 ---
-title: PjBarSize Enumeration (Project)
+title: PjBarSize enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBarSize
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBarSize Enumeration (Project)
+# PjBarSize enumeration (Project)
 
 Contains constants that specify the height of a bar in points.
 

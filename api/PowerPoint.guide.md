@@ -1,5 +1,5 @@
 ---
-title: Guide Object (PowerPoint)
+title: Guide object (PowerPoint)
 keywords: vbapp10.chm743000
 f1_keywords:
 - vbapp10.chm743000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Guide Object (PowerPoint)
+# Guide object (PowerPoint)
 
 Represents a drawing guide in the presentation or custom layout.
 

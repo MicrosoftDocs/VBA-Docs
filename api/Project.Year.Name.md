@@ -1,5 +1,5 @@
 ---
-title: Year.Name Property (Project)
+title: Year.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Year.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Year.Name Property (Project)
+# Year.Name property (Project)
 
 Gets the name of a  **Year** object. Read-only **String**.
 

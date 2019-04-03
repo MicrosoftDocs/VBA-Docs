@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.RGB Property (Publisher)
+title: ColorFormat.RGB property (Publisher)
 keywords: vbapb10.chm2555904
 f1_keywords:
 - vbapb10.chm2555904
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.RGB Property (Publisher)
+# ColorFormat.RGB property (Publisher)
 
 Returns or sets an  **MsoRGBType** that represents the red-green-blue (RGB) value of the specified color. Read/write.
 
 
 ## Syntax
 
- _expression_. **RGB**
+ _expression_.**RGB**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

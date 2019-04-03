@@ -1,5 +1,5 @@
 ---
-title: Resource.Finish7 Property (Project)
+title: Resource.Finish7 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Finish7
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Finish7 Property (Project)
+# Resource.Finish7 property (Project)
 
 Gets or sets the local Finish custom field of the resource. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Finish7`
+_expression_. `Finish7`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

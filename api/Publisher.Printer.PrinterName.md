@@ -1,5 +1,5 @@
 ---
-title: Printer.PrinterName Property (Publisher)
+title: Printer.PrinterName property (Publisher)
 keywords: vbapb10.chm8978451
 f1_keywords:
 - vbapb10.chm8978451
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Printer.PrinterName Property (Publisher)
+# Printer.PrinterName property (Publisher)
 
 Gets the name of the printer represented by the parent  **Printer** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **PrinterName**
+ _expression_.**PrinterName**
 
  _expression_ A variable that represents a  **Printer** object.
 

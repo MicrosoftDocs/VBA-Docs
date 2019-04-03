@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupLegend Method (Project)
+title: Application.FilePageSetupLegend method (Project)
 keywords: vbapj.chm2359
 f1_keywords:
 - vbapj.chm2359
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupLegend Method (Project)
+# Application.FilePageSetupLegend method (Project)
 
 Creates a legend for printing views of task data.
 
 
 ## Syntax
 
-_expression_. **FilePageSetupLegend** (**_Name_**, **_TextWidth_**, **_LegendOn_**, **_Alignment_**, **_Text_**, **_LabelFontName_**, **_LabelFontSize_**, **_LabelFontBold_**, **_LabelFontItalic_**, **_LabelFontUnderline_**, **_LabelFontColor_**)
+_expression_.**FilePageSetupLegend** (**_Name_**, **_TextWidth_**, **_LegendOn_**, **_Alignment_**, **_Text_**, **_LabelFontName_**, **_LabelFontSize_**, **_LabelFontBold_**, **_LabelFontItalic_**, **_LabelFontUnderline_**, **_LabelFontColor_**)
 
 _expression_ A variable that represents an **Application** object.
 

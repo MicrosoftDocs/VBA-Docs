@@ -1,5 +1,5 @@
 ---
-title: TabStop.Leader Property (Publisher)
+title: TabStop.Leader property (Publisher)
 keywords: vbapb10.chm5636101
 f1_keywords:
 - vbapb10.chm5636101
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TabStop.Leader Property (Publisher)
+# TabStop.Leader property (Publisher)
 
 Sets or returns a  **PbTabLeaderType** constant that represents the leader character for a tab stop. Read/write.
 
 
 ## Syntax
 
- _expression_. **Leader**
+ _expression_.**Leader**
 
  _expression_ A variable that represents a  **TabStop** object.
 

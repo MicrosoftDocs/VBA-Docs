@@ -1,5 +1,5 @@
 ---
-title: PjAssignmentReplanAction Enumeration (Project)
+title: PjAssignmentReplanAction enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAssignmentReplanAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAssignmentReplanAction Enumeration (Project)
+# PjAssignmentReplanAction enumeration (Project)
 
 Contains constants that specify the replan action for assignments.
 

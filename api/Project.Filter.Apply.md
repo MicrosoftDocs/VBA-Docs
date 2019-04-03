@@ -1,5 +1,5 @@
 ---
-title: Filter.Apply Method (Project)
+title: Filter.Apply method (Project)
 keywords: vbapj.chm132210
 f1_keywords:
 - vbapj.chm132210
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Filter.Apply Method (Project)
+# Filter.Apply method (Project)
 
 Applies the filter to the current view.
 
 
 ## Syntax
 
- _expression_. `Apply`( `_Highlight_` )
+_expression_. `Apply`( `_Highlight_` )
 
  _expression_ An expression that returns a [Filter](./Project.Filter.md) object.
 

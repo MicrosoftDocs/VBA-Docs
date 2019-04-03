@@ -1,5 +1,5 @@
 ---
-title: TimelineView.UpperScaleFont Property (Outlook)
+title: TimelineView.UpperScaleFont property (Outlook)
 keywords: vbaol11.chm2667
 f1_keywords:
 - vbaol11.chm2667
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.UpperScaleFont Property (Outlook)
+# TimelineView.UpperScaleFont property (Outlook)
 
 Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the upper portion of the timeline scale for a **[TimelineView](Outlook.TimelineView.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `UpperScaleFont`
+_expression_. `UpperScaleFont`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## See also

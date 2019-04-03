@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.CommandType property (Excel)
 
-Returns or sets one of the  **[xlCmdType](Excel.XlCmdType.md)** constants listed in the following table in the remarks section. The constant that is returned or set describes the value of the **[CommandText](Excel.PivotCache.CommandText.md)** property. The default value is **xlCmdSQL**. Read/write **xlCmdType**.
+Returns or sets one of the  **[XlCmdType](Excel.XlCmdType.md)** constants listed in the following table in the remarks section. The constant that is returned or set describes the value of the **[CommandText](Excel.PivotCache.CommandText.md)** property. The default value is **xlCmdSQL**. Read/write **xlCmdType**.
 
 
 ## Syntax

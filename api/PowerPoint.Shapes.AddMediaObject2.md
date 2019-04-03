@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddMediaObject2 Method (PowerPoint)
+title: Shapes.AddMediaObject2 method (PowerPoint)
 keywords: vbapp10.chm543032
 f1_keywords:
 - vbapp10.chm543032
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddMediaObject2 Method (PowerPoint)
+# Shapes.AddMediaObject2 method (PowerPoint)
 
-Replaces deprecated [Shapes.AddMediaObject Method (PowerPoint)](PowerPoint.Shapes.AddMediaObject.md). Adds a new media object. 
+Replaces deprecated [Shapes.AddMediaObject method (PowerPoint)](PowerPoint.Shapes.AddMediaObject.md). Adds a new media object. 
 
 
 ## Syntax
 
- _expression_. `AddMediaObject2`( `_FileName_`, `_LinkToFile_`, `_SaveWithDocument_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
+_expression_. `AddMediaObject2`( `_FileName_`, `_LinkToFile_`, `_SaveWithDocument_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

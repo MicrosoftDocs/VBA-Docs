@@ -1,5 +1,5 @@
 ---
-title: Shape.OneD Property (Visio)
+title: Shape.OneD property (Visio)
 keywords: vis_sdr.chm11213975
 f1_keywords:
 - vis_sdr.chm11213975
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.OneD Property (Visio)
+# Shape.OneD property (Visio)
 
 Determines whether an object behaves as a one-dimensional (1-D) object. Read-only.
 
 
 ## Syntax
 
- _expression_. `OneD`
+_expression_. `OneD`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

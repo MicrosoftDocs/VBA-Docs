@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Parent Property (PowerPoint)
+title: PlotArea.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.Parent Property (PowerPoint)
+# PlotArea.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

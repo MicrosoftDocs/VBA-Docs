@@ -21,12 +21,12 @@ Retrieves XML data using the current connection settings of the specified  **[Xm
 
 _expression_. `Refresh`
 
-_expression_ A variable that represents a [XmlDataBinding](./Excel.XmlDataBinding.md) object.
+_expression_ A variable that represents a [XmlDataBinding](Excel.XmlDataBinding.md) object.
 
 
 ## Return value
 
-An  **[xlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
+An  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
 
 
 ## See also

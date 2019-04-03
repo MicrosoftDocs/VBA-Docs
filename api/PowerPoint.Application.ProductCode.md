@@ -1,5 +1,5 @@
 ---
-title: Application.ProductCode Property (PowerPoint)
+title: Application.ProductCode property (PowerPoint)
 keywords: vbapp10.chm502037
 f1_keywords:
 - vbapp10.chm502037
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProductCode Property (PowerPoint)
+# Application.ProductCode property (PowerPoint)
 
 Returns the Microsoft PowerPoint globally unique identifier (GUID). Read-only.
 
 
 ## Syntax
 
- _expression_. `ProductCode`
+_expression_. `ProductCode`
 
 _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 

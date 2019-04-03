@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.SoundEffect Property (PowerPoint)
+title: EffectInformation.SoundEffect property (PowerPoint)
 keywords: vbapp10.chm655009
 f1_keywords:
 - vbapp10.chm655009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EffectInformation.SoundEffect Property (PowerPoint)
+# EffectInformation.SoundEffect property (PowerPoint)
 
 Returns a  **SoundEffect** object that represents the sound to be played during the transition to the specified slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `SoundEffect`
+_expression_. `SoundEffect`
 
 _expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
 

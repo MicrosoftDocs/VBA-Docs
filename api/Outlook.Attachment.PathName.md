@@ -1,5 +1,5 @@
 ---
-title: Attachment.PathName Property (Outlook)
+title: Attachment.PathName property (Outlook)
 keywords: vbaol11.chm2369
 f1_keywords:
 - vbaol11.chm2369
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.PathName Property (Outlook)
+# Attachment.PathName property (Outlook)
 
 Returns a  **String** representing the full path to the linked attached file. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the full path to the linked attached file. Re
 
 _expression_. `PathName`
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Remarks

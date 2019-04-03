@@ -1,5 +1,5 @@
 ---
-title: Cell.ContainingRow Property (Visio)
+title: Cell.ContainingRow property (Visio)
 keywords: vis_sdr.chm10113310
 f1_keywords:
 - vis_sdr.chm10113310
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.ContainingRow Property (Visio)
+# Cell.ContainingRow property (Visio)
 
 Returns the row that contains a cell. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingRow`
+_expression_. `ContainingRow`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

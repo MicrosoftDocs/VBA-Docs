@@ -19,7 +19,7 @@ Moves the range to the previous subdocument.
 
 ## Syntax
 
- _expression_. `PreviousSubdocument`
+_expression_. `PreviousSubdocument`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Project.ReadOnlyRecommended Property (Project)
+title: Project.ReadOnlyRecommended property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ReadOnlyRecommended
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ReadOnlyRecommended Property (Project)
+# Project.ReadOnlyRecommended property (Project)
 
  **True** if the project should be opened with read-only access. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ReadOnlyRecommended`
+_expression_. `ReadOnlyRecommended`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ShowCheckAddressDialog Method (Outlook)
+title: ContactItem.ShowCheckAddressDialog method (Outlook)
 keywords: vbaol11.chm3592
 f1_keywords:
 - vbaol11.chm3592
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ShowCheckAddressDialog Method (Outlook)
+# ContactItem.ShowCheckAddressDialog method (Outlook)
 Displays the  **Check Address** dialog box to verify address details of the contact.
 
 ## Version information
@@ -22,7 +22,7 @@ Version Added: Outlook 2013
 
 _expression_. `ShowCheckAddressDialog`_(MailingAddress)_
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

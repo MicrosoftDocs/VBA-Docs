@@ -1,5 +1,5 @@
 ---
-title: WizardValues Object (Publisher)
+title: WizardValues object (Publisher)
 keywords: vbapb10.chm1703935
 f1_keywords:
 - vbapb10.chm1703935
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WizardValues Object (Publisher)
+# WizardValues object (Publisher)
 
 Represents the complete set of valid values for a wizard property.
  

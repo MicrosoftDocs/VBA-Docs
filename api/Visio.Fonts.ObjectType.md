@@ -1,5 +1,5 @@
 ---
-title: Fonts.ObjectType Property (Visio)
+title: Fonts.ObjectType property (Visio)
 keywords: vis_sdr.chm12113960
 f1_keywords:
 - vis_sdr.chm12113960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Fonts.ObjectType Property (Visio)
+# Fonts.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Fonts](./Visio.Fonts.md) object.
 

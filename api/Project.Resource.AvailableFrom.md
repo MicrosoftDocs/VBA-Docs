@@ -1,5 +1,5 @@
 ---
-title: Resource.AvailableFrom Property (Project)
+title: Resource.AvailableFrom property (Project)
 keywords: vbapj.chm131412
 f1_keywords:
 - vbapj.chm131412
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.AvailableFrom Property (Project)
+# Resource.AvailableFrom property (Project)
 
 Gets the earliest date that a resource is available for work on the project, as specified in the current row of the **Resource Availability** grid for the resource. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `AvailableFrom`
+_expression_. `AvailableFrom`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

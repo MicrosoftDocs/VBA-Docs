@@ -1,5 +1,5 @@
 ---
-title: Cell.VerticalTextAlignment Property (Publisher)
+title: Cell.VerticalTextAlignment property (Publisher)
 keywords: vbapb10.chm5111840
 f1_keywords:
 - vbapb10.chm5111840
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.VerticalTextAlignment Property (Publisher)
+# Cell.VerticalTextAlignment property (Publisher)
 
 Returns or sets a  **PbVerticalTextAlignmentType**constant that represents the vertical alignment of text in a text box. Read/write.
 
 
 ## Syntax
 
- _expression_. **VerticalTextAlignment**
+ _expression_.**VerticalTextAlignment**
 
  _expression_ A variable that represents a  **Cell** object.
 

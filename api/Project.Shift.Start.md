@@ -1,5 +1,5 @@
 ---
-title: Shift.Start Property (Project)
+title: Shift.Start property (Project)
 ms.prod: project-server
 api_name:
 - Project.Shift.Start
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Shift.Start Property (Project)
+# Shift.Start property (Project)
 
 Gets or sets the start date of the work shift. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Start`
+_expression_. `Start`
 
  _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 

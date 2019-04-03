@@ -19,7 +19,7 @@ Converts a measurement from pixels to points. Returns the converted measurement 
 
 ## Syntax
 
- _expression_. `PixelsToPoints`( `_Pixels_` , `_fVertical_` )
+_expression_. `PixelsToPoints`( `_Pixels_` , `_fVertical_` )
 
  _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 

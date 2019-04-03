@@ -1,5 +1,5 @@
 ---
-title: FindReplace.ReplaceWithText Property (Publisher)
+title: FindReplace.ReplaceWithText property (Publisher)
 keywords: vbapb10.chm8323077
 f1_keywords:
 - vbapb10.chm8323077
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.ReplaceWithText Property (Publisher)
+# FindReplace.ReplaceWithText property (Publisher)
 
 Sets or retrieves a  **String** representing the replacement text in the specified range or selection. Read/write.
 
 
 ## Syntax
 
- _expression_. **ReplaceWithText**
+ _expression_.**ReplaceWithText**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

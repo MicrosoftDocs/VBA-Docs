@@ -1,5 +1,5 @@
 ---
-title: View.PasteSpecial Method (PowerPoint)
+title: View.PasteSpecial method (PowerPoint)
 keywords: vbapp10.chm512010
 f1_keywords:
 - vbapp10.chm512010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# View.PasteSpecial Method (PowerPoint)
+# View.PasteSpecial method (PowerPoint)
 
 Pastes the current contents of the Clipboard into the view represented by the  **View** object.
 
 
 ## Syntax
 
- _expression_. `PasteSpecial`( `_DataType_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_` )
+_expression_. `PasteSpecial`( `_DataType_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_` )
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

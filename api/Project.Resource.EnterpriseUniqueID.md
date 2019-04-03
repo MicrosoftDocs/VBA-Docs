@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseUniqueID Property (Project)
+title: Resource.EnterpriseUniqueID property (Project)
 keywords: vbapj.chm132200
 f1_keywords:
 - vbapj.chm132200
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseUniqueID Property (Project)
+# Resource.EnterpriseUniqueID property (Project)
 
 Gets the enterprise unique identification number for a resource. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseUniqueID`
+_expression_. `EnterpriseUniqueID`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

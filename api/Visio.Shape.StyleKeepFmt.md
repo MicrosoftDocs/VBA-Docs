@@ -1,5 +1,5 @@
 ---
-title: Shape.StyleKeepFmt Property (Visio)
+title: Shape.StyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11214450
 f1_keywords:
 - vis_sdr.chm11214450
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.StyleKeepFmt Property (Visio)
+# Shape.StyleKeepFmt property (Visio)
 
 Applies a style to an object while preserving local formatting. Read/write.
 
 
 ## Syntax
 
- _expression_. `StyleKeepFmt`
+_expression_. `StyleKeepFmt`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

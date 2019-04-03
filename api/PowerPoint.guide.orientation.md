@@ -1,5 +1,5 @@
 ---
-title: Guide.Orientation Property (PowerPoint)
+title: Guide.Orientation property (PowerPoint)
 keywords: vbapp10.chm743004
 f1_keywords:
 - vbapp10.chm743004
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Guide.Orientation Property (PowerPoint)
+# Guide.Orientation property (PowerPoint)
 
 Returns the orientation of the drawing guide (horizontal or vertical) as a constant from the [PpGuideOrientation](PowerPoint.ppguideorientation.md) enumeration. Read-only.
 

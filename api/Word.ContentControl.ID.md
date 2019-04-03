@@ -19,7 +19,7 @@ Returns a  **String** that represents the identification for a content control. 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: WebListBoxItems Object (Publisher)
+title: WebListBoxItems object (Publisher)
 keywords: vbapb10.chm4194303
 f1_keywords:
 - vbapb10.chm4194303
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebListBoxItems Object (Publisher)
+# WebListBoxItems object (Publisher)
 
 Represents the items in a Web list box control.
  

@@ -1,5 +1,5 @@
 ---
-title: Axis.LogBase Property (PowerPoint)
+title: Axis.LogBase property (PowerPoint)
 keywords: vbapp10.chm682014
 f1_keywords:
 - vbapp10.chm682014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.LogBase Property (PowerPoint)
+# Axis.LogBase property (PowerPoint)
 
 Returns or sets the base of the logarithm when you are using log scales. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `LogBase`
+_expression_. `LogBase`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

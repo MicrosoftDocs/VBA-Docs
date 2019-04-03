@@ -1,5 +1,5 @@
 ---
-title: ReportItem.BeforeAutoSave Event (Outlook)
+title: ReportItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.BeforeAutoSave Event (Outlook)
+# ReportItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 
@@ -18,7 +18,7 @@ Occurs before the item is automatically saved by Outlook.
 
 _expression_. `BeforeAutoSave`( `_Cancel_` )
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: TextRange.End Property (Publisher)
+title: TextRange.End property (Publisher)
 keywords: vbapb10.chm5308434
 f1_keywords:
 - vbapb10.chm5308434
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.End Property (Publisher)
+# TextRange.End property (Publisher)
 
 Sets or returns a  **Long** that represents the ending character position of a selection or text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **End**
+ _expression_.**End**
 
  _expression_ A variable that represents an  **TextRange** object.
 

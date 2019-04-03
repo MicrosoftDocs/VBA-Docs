@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Close Event (Outlook)
+title: AppointmentItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Close Event (Outlook)
+# AppointmentItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 
@@ -18,7 +18,7 @@ Occurs when the inspector associated with an item (which is an instance of the p
 
 _expression_. `Close`( `_Cancel_` )
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Parameters

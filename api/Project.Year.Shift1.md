@@ -1,5 +1,5 @@
 ---
-title: Year.Shift1 Property (Project)
+title: Year.Shift1 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Year.Shift1
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Year.Shift1 Property (Project)
+# Year.Shift1 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the first work shift throughout a year. Read-only **Shift**.
 
 
 ## Syntax
 
- _expression_. `Shift1`
+_expression_. `Shift1`
 
  _expression_ A variable that represents a [Year](./Project.Year.md) object.
 

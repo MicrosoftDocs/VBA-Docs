@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.Alignment Property (Outlook)
+title: OlkOptionButton.Alignment property (Outlook)
 keywords: vbaol11.chm1000165
 f1_keywords:
 - vbaol11.chm1000165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.Alignment Property (Outlook)
+# OlkOptionButton.Alignment property (Outlook)
 
 Returns or sets an  **[olAlignment](Outlook.OlAlignment.md)** constant that indicates the position of a control relative to its caption. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[olAlignment](Outlook.OlAlignment.md)** constant that indi
 
 _expression_. `Alignment`
 
-_expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](Outlook.OlkOptionButton.md) object.
 
 
 ## Remarks

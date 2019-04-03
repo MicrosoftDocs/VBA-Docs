@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Name Property (PowerPoint)
+title: TableStyle.Name property (PowerPoint)
 keywords: vbapp10.chm674001
 f1_keywords:
 - vbapp10.chm674001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableStyle.Name Property (PowerPoint)
+# TableStyle.Name property (PowerPoint)
 
 Returns the name of the table style. Read-only.
 

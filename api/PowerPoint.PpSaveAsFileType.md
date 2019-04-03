@@ -1,5 +1,5 @@
 ---
-title: PpSaveAsFileType Enumeration (PowerPoint)
+title: PpSaveAsFileType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSaveAsFileType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpSaveAsFileType Enumeration (PowerPoint)
+# PpSaveAsFileType enumeration (PowerPoint)
 
 Constants that specify type of file to save as, passed to the  **SaveAs** method of the **Presentation** object.
 

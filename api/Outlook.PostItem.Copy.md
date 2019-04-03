@@ -1,5 +1,5 @@
 ---
-title: PostItem.Copy Method (Outlook)
+title: PostItem.Copy method (Outlook)
 keywords: vbaol11.chm1540
 f1_keywords:
 - vbaol11.chm1540
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Copy Method (Outlook)
+# PostItem.Copy method (Outlook)
 
 Creates another instance of an object.
 
@@ -21,7 +21,7 @@ Creates another instance of an object.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Example

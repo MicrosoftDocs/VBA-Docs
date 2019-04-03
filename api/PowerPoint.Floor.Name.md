@@ -1,5 +1,5 @@
 ---
-title: Floor.Name Property (PowerPoint)
+title: Floor.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Floor.Name Property (PowerPoint)
+# Floor.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

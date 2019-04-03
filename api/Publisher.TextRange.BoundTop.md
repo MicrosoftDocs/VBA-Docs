@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundTop Property (Publisher)
+title: TextRange.BoundTop property (Publisher)
 keywords: vbapb10.chm5308437
 f1_keywords:
 - vbapb10.chm5308437
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.BoundTop Property (Publisher)
+# TextRange.BoundTop property (Publisher)
 
 Returns a  **Single** indicating the distance, in points, from the top edge of the topmost page to the top edge of the bounding box for the specified text range. Read-only.
 
 
 ## Syntax
 
- _expression_. **BoundTop**
+ _expression_.**BoundTop**
 
  _expression_ A variable that represents a  **TextRange** object.
 

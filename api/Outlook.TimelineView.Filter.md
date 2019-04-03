@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Filter Property (Outlook)
+title: TimelineView.Filter property (Outlook)
 keywords: vbaol11.chm2659
 f1_keywords:
 - vbaol11.chm2659
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Filter Property (Outlook)
+# TimelineView.Filter property (Outlook)
 
 Returns or sets a  **String** value that represents the filter for a view. Read/write.
 
 
 ## Syntax
 
- _expression_. `Filter`
+_expression_. `Filter`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks

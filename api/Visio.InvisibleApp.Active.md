@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Active Property (Visio)
+title: InvisibleApp.Active property (Visio)
 keywords: vis_sdr.chm17513020
 f1_keywords:
 - vis_sdr.chm17513020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Active Property (Visio)
+# InvisibleApp.Active property (Visio)
 
 Indicates whether the instance of Microsoft Visio represented by the  **Application** object is the active application on the Microsoft Windows desktop—the application that has the highlighted title bar. Read-only.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_. `Active`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

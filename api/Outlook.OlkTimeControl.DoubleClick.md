@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.DoubleClick Event (Outlook)
+title: OlkTimeControl.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000402
 f1_keywords:
 - vbaol11.chm1000402
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.DoubleClick Event (Outlook)
+# OlkTimeControl.DoubleClick event (Outlook)
 
 Occurs when the user double-clicks inside the control.
 
@@ -21,7 +21,7 @@ Occurs when the user double-clicks inside the control.
 
 _expression_. `DoubleClick`
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## See also

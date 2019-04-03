@@ -19,7 +19,7 @@ Returns a  **[TablesOfFigures](Word.Document.TablesOfFigures.md)** collection th
 
 ## Syntax
 
- _expression_. `TablesOfFigures`
+_expression_. `TablesOfFigures`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

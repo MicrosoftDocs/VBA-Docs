@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.PrintOut Method (Outlook)
+title: RemoteItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1617
 f1_keywords:
 - vbaol11.chm1617
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.PrintOut Method (Outlook)
+# RemoteItem.PrintOut method (Outlook)
 
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
 
@@ -21,7 +21,7 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
 _expression_. `PrintOut`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## See also

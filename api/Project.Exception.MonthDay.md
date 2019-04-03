@@ -1,5 +1,5 @@
 ---
-title: Exception.MonthDay Property (Project)
+title: Exception.MonthDay property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.MonthDay
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Exception.MonthDay Property (Project)
+# Exception.MonthDay property (Project)
 
 Gets or sets the day of the month for a monthly type of exception. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MonthDay`
+_expression_. `MonthDay`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

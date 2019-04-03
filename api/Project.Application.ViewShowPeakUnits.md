@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowPeakUnits Method (Project)
+title: Application.ViewShowPeakUnits method (Project)
 keywords: vbapj.chm923
 f1_keywords:
 - vbapj.chm923
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowPeakUnits Method (Project)
+# Application.ViewShowPeakUnits method (Project)
 
 Displays peak units information in the active Resource Graph view.
 
 
 ## Syntax
 
- _expression_. `ViewShowPeakUnits`
+_expression_. `ViewShowPeakUnits`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Creator Property (PowerPoint)
+title: PlotArea.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.Creator Property (PowerPoint)
+# PlotArea.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

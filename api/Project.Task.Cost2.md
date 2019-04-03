@@ -1,5 +1,5 @@
 ---
-title: Task.Cost2 Property (Project)
+title: Task.Cost2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Cost2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Cost2 Property (Project)
+# Task.Cost2 property (Project)
 
 Gets or sets the value of the  **Cost2** custom field for the task. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Cost2`
+_expression_. `Cost2`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Count Property (PowerPoint)
+title: GroupShapes.Count property (PowerPoint)
 keywords: vbapp10.chm549002
 f1_keywords:
 - vbapp10.chm549002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GroupShapes.Count Property (PowerPoint)
+# GroupShapes.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

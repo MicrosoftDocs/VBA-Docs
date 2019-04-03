@@ -19,14 +19,14 @@ Returns or sets what the bubble size represents on a bubble chart. Read/write  *
 
 ## Syntax
 
- _expression_. `SizeRepresents`
+_expression_. `SizeRepresents`
 
  _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 
 
 ## Remarks
 
-This property can be either of the following  **[xlSizeRepresents](Word.xlsizerepresents.md)** constants:
+This property can be either of the following  **[XlSizeRepresents](Word.xlsizerepresents.md)** constants:
 
 
 -  **xlSizeIsArea**

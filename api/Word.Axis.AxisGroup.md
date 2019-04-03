@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Axis.AxisGroup property (Word)
 
-Returns the type of axis group. Read-only  **[xlAxisGroup](Word.xlaxisgroup.md)**.
+Returns the type of axis group. Read-only  **[XlAxisGroup](Word.xlaxisgroup.md)**.
 
 
 ## Syntax
 
- _expression_. `AxisGroup`
+_expression_. `AxisGroup`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Application.DrawingCreate Method (Project)
+title: Application.DrawingCreate method (Project)
 keywords: vbapj.chm2306
 f1_keywords:
 - vbapj.chm2306
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DrawingCreate Method (Project)
+# Application.DrawingCreate method (Project)
 
 Activates the drawing feature.
 
 
 ## Syntax
 
- _expression_. `DrawingCreate`( `_Type_`, `_Behind_` )
+_expression_. `DrawingCreate`( `_Type_`, `_Behind_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

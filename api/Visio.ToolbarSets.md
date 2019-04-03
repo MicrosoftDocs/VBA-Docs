@@ -1,5 +1,5 @@
 ---
-title: ToolbarSets Object (Visio)
+title: ToolbarSets object (Visio)
 keywords: vis_sdr.chm10295
 f1_keywords:
 - vis_sdr.chm10295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarSets Object (Visio)
+# ToolbarSets object (Visio)
 
 Includes a  **ToolbarSet** object for each window context that can display toolbars.
 

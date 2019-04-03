@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Children Property (Outlook)
+title: ContactItem.Children property (Outlook)
 keywords: vbaol11.chm982
 f1_keywords:
 - vbaol11.chm982
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Children Property (Outlook)
+# ContactItem.Children property (Outlook)
 
 Returns or sets a  **String** representing the names of the children of the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the names of the children of the cont
 
 _expression_. `Children`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

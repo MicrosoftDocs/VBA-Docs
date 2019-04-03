@@ -29,6 +29,8 @@ Use **AddIns** (_index_), where _index_ is the add-in title or index number, to 
 AddIns("analysis toolpak").Installed = True
 ```
 
+<br/>
+
 Don't confuse the add-in title, which appears in the **Add-Ins** dialog box, with the add-in name, which is the file name of the add-in. You must spell the add-in title exactly as it's spelled in the **Add-Ins** dialog box, but the capitalization doesn't have to match.
 
 The index number represents the position of the add-in in the **Add-ins available** box in the **Add-Ins** dialog box. The following example creates a list that contains specified properties of the available add-ins.
@@ -48,6 +50,8 @@ With Worksheets("sheet1")
 End With
 ```
 
+<br/>
+
 The **[Add](Excel.AddIns.Add.md)** method adds an add-in to the list of available add-ins but doesn't install the add-in. Set the **Installed** property of the add-in to **True** to install the add-in. 
 
 To install an add-in that doesn't appear in the list of available add-ins, you must first use the **Add** method and then set the **Installed** property. This can be done in a single step, as shown in the following example (note that you use the name of the add-in, not its title, with the **Add** method).
@@ -56,17 +60,23 @@ To install an add-in that doesn't appear in the list of available add-ins, you m
 AddIns.Add("generic.xll").Installed = True
 ```
 
+<br/>
+
 Use **Workbooks** (_index_), where _index_ is the add-in file name (not title) to return a reference to the workbook corresponding to a loaded add-in. You must use the file name because loaded add-ins don't normally appear in the **Workbooks** collection. This example sets the _wb_ variable to the workbook for Myaddin.xla.
 
 ```vb
 Set wb = Workbooks("myaddin.xla")
 ```
 
+<br/>
+
 The following example sets the _wb_ variable to the workbook for the Analysis Toolpak add-in.
 
 ```vb
 Set wb = Workbooks(AddIns("analysis toolpak").Name)
 ```
+
+<br/>
 
 If the **Installed** property returns **True**, but the calls to functions in the add-in still fail, the add-in may not actually be loaded. This is because the **Addin** object represents the existence and installed state of the add-in but doesn't represent the actual contents of the add-in workbook.To guarantee that an installed add-in is loaded, you should open the add-in workbook. 
 

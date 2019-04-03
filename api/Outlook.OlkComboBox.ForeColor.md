@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.ForeColor Property (Outlook)
+title: OlkComboBox.ForeColor property (Outlook)
 keywords: vbaol11.chm1000203
 f1_keywords:
 - vbaol11.chm1000203
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.ForeColor Property (Outlook)
+# OlkComboBox.ForeColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that indicates the foreground color of the control. 
 
 _expression_. `ForeColor`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

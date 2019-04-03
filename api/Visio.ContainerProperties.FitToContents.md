@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.FitToContents Method (Visio)
+title: ContainerProperties.FitToContents method (Visio)
 keywords: vis_sdr.chm17662295
 f1_keywords:
 - vis_sdr.chm17662295
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.FitToContents Method (Visio)
+# ContainerProperties.FitToContents method (Visio)
 
 Forces the container to resize so as to tightly include all member shapes, including any applicable margins between the container and the shapes.
 
 
 ## Syntax
 
- _expression_. `FitToContents`
+_expression_. `FitToContents`
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

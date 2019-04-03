@@ -1,5 +1,5 @@
 ---
-title: RuleActions.Item Method (Outlook)
+title: RuleActions.Item method (Outlook)
 keywords: vbaol11.chm2183
 f1_keywords:
 - vbaol11.chm2183
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.Item Method (Outlook)
+# RuleActions.Item method (Outlook)
 
 Obtains a  **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](Outlook.RuleActions.md)** collection.
 
@@ -21,7 +21,7 @@ Obtains a  **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ w
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Parameters

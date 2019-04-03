@@ -1,5 +1,5 @@
 ---
-title: Row.Cell Property (Visio)
+title: Row.Cell property (Visio)
 keywords: vis_sdr.chm15813180
 f1_keywords:
 - vis_sdr.chm15813180
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.Cell Property (Visio)
+# Row.Cell property (Visio)
 
 Uses the local name or index of a cell to return the cell. Read-only.
 
 
 ## Syntax
 
- _expression_. `Cell`( `_NameOrIndex_` )
+_expression_. `Cell`( `_NameOrIndex_` )
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

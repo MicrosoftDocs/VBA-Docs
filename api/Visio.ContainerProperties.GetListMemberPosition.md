@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.GetListMemberPosition Method (Visio)
+title: ContainerProperties.GetListMemberPosition method (Visio)
 keywords: vis_sdr.chm17662325
 f1_keywords:
 - vis_sdr.chm17662325
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.GetListMemberPosition Method (Visio)
+# ContainerProperties.GetListMemberPosition method (Visio)
 
 Returns the ordinal position of the specified shape in the list.
 
 
 ## Syntax
 
- _expression_. `GetListMemberPosition`( `_ShapeMember_` )
+_expression_. `GetListMemberPosition`( `_ShapeMember_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.LockUserChanges Property (Outlook)
+title: BusinessCardView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2927
 f1_keywords:
 - vbaol11.chm2927
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.LockUserChanges Property (Outlook)
+# BusinessCardView.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the current view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether a user can modify th
 
 _expression_. `LockUserChanges`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

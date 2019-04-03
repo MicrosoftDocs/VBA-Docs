@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultTextStyle Property (Visio)
+title: Document.DefaultTextStyle property (Visio)
 keywords: vis_sdr.chm10513395
 f1_keywords:
 - vis_sdr.chm10513395
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.DefaultTextStyle Property (Visio)
+# Document.DefaultTextStyle property (Visio)
 
 Gets or sets the default text style of a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultTextStyle`
+_expression_. `DefaultTextStyle`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

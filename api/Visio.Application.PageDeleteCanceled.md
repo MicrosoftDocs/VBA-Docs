@@ -1,5 +1,5 @@
 ---
-title: Application.PageDeleteCanceled Event (Visio)
+title: Application.PageDeleteCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.PageDeleteCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.PageDeleteCanceled Event (Visio)
+# Application.PageDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelPageDelete** event.
 

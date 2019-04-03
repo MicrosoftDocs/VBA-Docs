@@ -1,5 +1,5 @@
 ---
-title: Exception.OriginalDate Property (Outlook)
+title: Exception.OriginalDate property (Outlook)
 keywords: vbaol11.chm303
 f1_keywords:
 - vbaol11.chm303
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Exception.OriginalDate Property (Outlook)
+# Exception.OriginalDate property (Outlook)
 
 Returns a  **Date** indicating the original date and time of an **[AppointmentItem](Outlook.AppointmentItem.md)** before it was altered. This property will return the original date even if the **AppointmentItem** has been deleted. However, it will not return the original time if deletion has occurred. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the original date and time of an **[AppointmentIt
 
 _expression_. `OriginalDate`
 
-_expression_ A variable that represents an [Exception](./Outlook.Exception.md) object.
+_expression_ A variable that represents an [Exception](Outlook.Exception.md) object.
 
 
 ## Example

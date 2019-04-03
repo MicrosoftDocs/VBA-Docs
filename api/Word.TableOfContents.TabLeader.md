@@ -19,7 +19,7 @@ Returns or sets the character between entries and their page numbers in an index
 
 ## Syntax
 
- _expression_. `TabLeader`
+_expression_. `TabLeader`
 
  _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 

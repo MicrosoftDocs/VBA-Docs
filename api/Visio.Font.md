@@ -1,5 +1,5 @@
 ---
-title: Font Object (Visio)
+title: Font object (Visio)
 keywords: vis_sdr.chm10100
 f1_keywords:
 - vis_sdr.chm10100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font Object (Visio)
+# Font object (Visio)
 
 Represents a typeface that is either applied to text in a document or available for use on the system.
 

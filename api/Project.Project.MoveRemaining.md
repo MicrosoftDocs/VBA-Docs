@@ -1,5 +1,5 @@
 ---
-title: Project.MoveRemaining Property (Project)
+title: Project.MoveRemaining property (Project)
 keywords: vbapj.chm131107
 f1_keywords:
 - vbapj.chm131107
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.MoveRemaining Property (Project)
+# Project.MoveRemaining property (Project)
 
  **True** if the remaining portion of a task that is scheduled before the status date is moved to start at the status date. Read/Write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MoveRemaining`
+_expression_. `MoveRemaining`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

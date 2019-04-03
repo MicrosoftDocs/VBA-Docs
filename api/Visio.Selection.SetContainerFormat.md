@@ -1,5 +1,5 @@
 ---
-title: Selection.SetContainerFormat Method (Visio)
+title: Selection.SetContainerFormat method (Visio)
 keywords: vis_sdr.chm11162235
 f1_keywords:
 - vis_sdr.chm11162235
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.SetContainerFormat Method (Visio)
+# Selection.SetContainerFormat method (Visio)
 
 Changes the formatting of one aspect of all the containers in the selection, and returns an array of identifiers of shapes that belong to the containers and whose formatting was changed. 
 
 
 ## Syntax
 
- _expression_. `SetContainerFormat`( `_FormatType_` , `_[FormatValue]_` )
+_expression_. `SetContainerFormat`( `_FormatType_` , `_[FormatValue]_` )
 
  _expression_ An expression that returns a '[Selection](Visio.Selection.md)' object.
 

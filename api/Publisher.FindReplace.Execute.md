@@ -1,5 +1,5 @@
 ---
-title: FindReplace.Execute Method (Publisher)
+title: FindReplace.Execute method (Publisher)
 keywords: vbapb10.chm8323086
 f1_keywords:
 - vbapb10.chm8323086
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.Execute Method (Publisher)
+# FindReplace.Execute method (Publisher)
 
 Performs the specified Find or Replace operation.
 
 
 ## Syntax
 
- _expression_. **Execute**
+ _expression_.**Execute**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

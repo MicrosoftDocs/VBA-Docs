@@ -1,5 +1,5 @@
 ---
-title: PrintRanges Object (PowerPoint)
+title: PrintRanges object (PowerPoint)
 keywords: vbapp10.chm518000
 f1_keywords:
 - vbapp10.chm518000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PrintRanges Object (PowerPoint)
+# PrintRanges object (PowerPoint)
 
 A collection of all the  **[PrintRange](PowerPoint.PrintRange.md)** objects in the specified presentation. Each **PrintRange** object represents a range of consecutive slides or pages to be printed.
 

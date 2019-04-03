@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Visible Property (Publisher)
+title: ThreeDFormat.Visible property (Publisher)
 keywords: vbapb10.chm3801361
 f1_keywords:
 - vbapb10.chm3801361
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Visible Property (Publisher)
+# ThreeDFormat.Visible property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_.**Visible**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

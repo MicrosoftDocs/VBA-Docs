@@ -1,5 +1,5 @@
 ---
-title: MailItem.UserProperties Property (Outlook)
+title: MailItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1319
 f1_keywords:
 - vbaol11.chm1319
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.UserProperties Property (Outlook)
+# MailItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 _expression_. `UserProperties`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## See also

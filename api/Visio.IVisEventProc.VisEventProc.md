@@ -1,5 +1,5 @@
 ---
-title: IVisEventProc.VisEventProc Method (Visio)
+title: IVisEventProc.VisEventProc method (Visio)
 keywords: vis_sdr.chm17460180
 f1_keywords:
 - vis_sdr.chm17460180
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# IVisEventProc.VisEventProc Method (Visio)
+# IVisEventProc.VisEventProc method (Visio)
 
 Private member function of  **IVisEventProc** that handles event notifications passed to it by the **EventList.AddAdvise** method.
 
 
 ## Syntax
 
- _expression_. `VisEventProc`( `_nEventCode_` , `_pSourceObj_` , `_nEventID_` , `_nEventSeqNum_` , `_pSubjectObj_` , `_vMoreInfo_` )
+_expression_. `VisEventProc`( `_nEventCode_` , `_pSourceObj_` , `_nEventID_` , `_nEventSeqNum_` , `_pSubjectObj_` , `_vMoreInfo_` )
 
  _expression_ A variable that represents an 'IVisEventProc' object.
 

@@ -19,7 +19,7 @@ Locates and returns the previous tracked change as a  **Revision** object.
 
 ## Syntax
 
- _expression_. `PreviousRevision`( `_Wrap_` )
+_expression_. `PreviousRevision`( `_Wrap_` )
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

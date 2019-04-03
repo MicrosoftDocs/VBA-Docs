@@ -1,5 +1,5 @@
 ---
-title: Application.BoxFormat Method (Project)
+title: Application.BoxFormat method (Project)
 keywords: vbapj.chm2388
 f1_keywords:
 - vbapj.chm2388
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxFormat Method (Project)
+# Application.BoxFormat method (Project)
 
 Formats individual boxes in the Network Diagram view (PERT chart).
 
 
 ## Syntax
 
- _expression_. `BoxFormat`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_HorizontalGridlines_`, `_VerticalGridlines_`, `_BorderShape_`, `_BorderColor_`, `_BorderWidth_`, `_BackgroundColor_`, `_BackgroundPattern_`, `_Reset_` )
+_expression_. `BoxFormat`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_HorizontalGridlines_`, `_VerticalGridlines_`, `_BorderShape_`, `_BorderColor_`, `_BorderWidth_`, `_BackgroundColor_`, `_BackgroundPattern_`, `_Reset_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

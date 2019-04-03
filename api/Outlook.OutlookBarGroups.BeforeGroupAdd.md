@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.BeforeGroupAdd Event (Outlook)
+title: OutlookBarGroups.BeforeGroupAdd event (Outlook)
 keywords: vbaol11.chm356
 f1_keywords:
 - vbaol11.chm356
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.BeforeGroupAdd Event (Outlook)
+# OutlookBarGroups.BeforeGroupAdd event (Outlook)
 
 Occurs before a new group is added to the  **Shortcuts** pane, either as a result of user action or through program code.
 
@@ -21,7 +21,7 @@ Occurs before a new group is added to the  **Shortcuts** pane, either as a resul
 
 _expression_. `BeforeGroupAdd`( `_Cancel_` )
 
-_expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBarGroups.md) object.
 
 
 ## Parameters

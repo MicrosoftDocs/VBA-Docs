@@ -1,5 +1,5 @@
 ---
-title: OlTableContents Enumeration (Outlook)
+title: OlTableContents enumeration (Outlook)
 keywords: vbaol11.chm3247
 f1_keywords:
 - vbaol11.chm3247
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTableContents Enumeration (Outlook)
+# OlTableContents enumeration (Outlook)
 
 Specifies the type of items in a folder.
 

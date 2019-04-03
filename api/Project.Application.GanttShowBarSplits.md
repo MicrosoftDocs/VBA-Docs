@@ -1,5 +1,5 @@
 ---
-title: Application.GanttShowBarSplits Method (Project)
+title: Application.GanttShowBarSplits method (Project)
 keywords: vbapj.chm2381
 f1_keywords:
 - vbapj.chm2381
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttShowBarSplits Method (Project)
+# Application.GanttShowBarSplits method (Project)
 
 Shows or hides task splits on the Gantt Chart.
 
 
 ## Syntax
 
- _expression_. `GanttShowBarSplits`( `_Display_` )
+_expression_. `GanttShowBarSplits`( `_Display_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

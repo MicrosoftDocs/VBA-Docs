@@ -21,7 +21,7 @@ In regression analysis, calculates an exponential curve that fits your data and 
 
 _expression_. `LogEst`(`Arg1`, `Arg2`, `Arg3`, `Arg4`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

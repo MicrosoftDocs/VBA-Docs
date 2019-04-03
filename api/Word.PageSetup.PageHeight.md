@@ -19,7 +19,7 @@ Returns or sets the height of the page in points. Read/write  **Single**.
 
 ## Syntax
 
- _expression_. `PageHeight`
+_expression_. `PageHeight`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 

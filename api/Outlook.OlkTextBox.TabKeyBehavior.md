@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.TabKeyBehavior Property (Outlook)
+title: OlkTextBox.TabKeyBehavior property (Outlook)
 keywords: vbaol11.chm1000057
 f1_keywords:
 - vbaol11.chm1000057
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.TabKeyBehavior Property (Outlook)
+# OlkTextBox.TabKeyBehavior property (Outlook)
 
 Returns or sets a  **Boolean** that specifies how the control responds to the **TAB** key. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies how the control responds to the **
 
 _expression_. `TabKeyBehavior`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

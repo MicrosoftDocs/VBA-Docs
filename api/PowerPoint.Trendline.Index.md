@@ -1,5 +1,5 @@
 ---
-title: Trendline.Index Property (PowerPoint)
+title: Trendline.Index property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Index Property (PowerPoint)
+# Trendline.Index property (PowerPoint)
 
 Returns the index number of the object within the collection of similar objects. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

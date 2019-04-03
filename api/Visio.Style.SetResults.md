@@ -1,5 +1,5 @@
 ---
-title: Style.SetResults Method (Visio)
+title: Style.SetResults method (Visio)
 keywords: vis_sdr.chm11416580
 f1_keywords:
 - vis_sdr.chm11416580
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Style.SetResults Method (Visio)
+# Style.SetResults method (Visio)
 
 Sets the results or formulas of one or more cells.
 
 
 ## Syntax
 
- _expression_. `SetResults`( `_SRCStream()_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` , `_Flags_` )
+_expression_. `SetResults`( `_SRCStream()_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` , `_Flags_` )
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

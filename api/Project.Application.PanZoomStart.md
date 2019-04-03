@@ -1,5 +1,5 @@
 ---
-title: Application.PanZoomStart Property (Project)
+title: Application.PanZoomStart property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.PanZoomStart
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PanZoomStart Property (Project)
+# Application.PanZoomStart property (Project)
 
 Gets or sets the start date of the Gantt chart view after a pan or zoom operation. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `PanZoomStart`
+_expression_. `PanZoomStart`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

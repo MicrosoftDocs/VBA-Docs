@@ -19,7 +19,7 @@ Unloads all loaded add-ins and, depending on the value of the  _RemoveFromList_ 
 
 ## Syntax
 
- _expression_. `Unload`( `_RemoveFromList_` )
+_expression_. `Unload`( `_RemoveFromList_` )
 
  _expression_ An expression that returns an '[AddIns](Word.addins.md)' collection.
 

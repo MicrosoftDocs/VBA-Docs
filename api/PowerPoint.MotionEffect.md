@@ -1,5 +1,5 @@
 ---
-title: MotionEffect Object (PowerPoint)
+title: MotionEffect object (PowerPoint)
 keywords: vbapp10.chm658000
 f1_keywords:
 - vbapp10.chm658000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MotionEffect Object (PowerPoint)
+# MotionEffect object (PowerPoint)
 
 Represents a motion effect for an  **AnimationBehavior** object.
 

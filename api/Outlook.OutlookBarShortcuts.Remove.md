@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.Remove Method (Outlook)
+title: OutlookBarShortcuts.Remove method (Outlook)
 keywords: vbaol11.chm336
 f1_keywords:
 - vbaol11.chm336
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.Remove Method (Outlook)
+# OutlookBarShortcuts.Remove method (Outlook)
 
 Removes an object from the collection.
 
@@ -21,7 +21,7 @@ Removes an object from the collection.
 
 _expression_. `Remove` `_Index_`
 
-_expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
+_expression_ A variable that represents an [OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md) object.
 
 
 ## Parameters

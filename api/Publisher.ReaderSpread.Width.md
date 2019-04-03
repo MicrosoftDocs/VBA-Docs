@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread.Width Property (Publisher)
+title: ReaderSpread.Width property (Publisher)
 keywords: vbapb10.chm524295
 f1_keywords:
 - vbapb10.chm524295
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ReaderSpread.Width Property (Publisher)
+# ReaderSpread.Width property (Publisher)
 
 Returns a  **Single** that represents the width, in points, of the page. Read-only.
 
 
 ## Syntax
 
- _expression_. **Width**
+ _expression_.**Width**
 
  _expression_ A variable that represents a  **ReaderSpread** object.
 

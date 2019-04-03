@@ -1,5 +1,5 @@
 ---
-title: Application.NoEventsPending Event (Visio)
+title: Application.NoEventsPending event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.NoEventsPending
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.NoEventsPending Event (Visio)
+# Application.NoEventsPending event (Visio)
 
 Occurs after the Microsoft Visio instance flushes its event queue.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.SpellCheckField Method (Project)
+title: Application.SpellCheckField method (Project)
 keywords: vbapj.chm2252
 f1_keywords:
 - vbapj.chm2252
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SpellCheckField Method (Project)
+# Application.SpellCheckField method (Project)
 
 Checks the spelling of text custom fields.
 
 
 ## Syntax
 
- _expression_. `SpellCheckField`( `_FieldName_`, `_EnableSpellCheck_` )
+_expression_. `SpellCheckField`( `_FieldName_`, `_EnableSpellCheck_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

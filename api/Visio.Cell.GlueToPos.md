@@ -1,5 +1,5 @@
 ---
-title: Cell.GlueToPos Method (Visio)
+title: Cell.GlueToPos method (Visio)
 keywords: vis_sdr.chm10116340
 f1_keywords:
 - vis_sdr.chm10116340
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.GlueToPos Method (Visio)
+# Cell.GlueToPos method (Visio)
 
 Glues one shape to another from a cell in the first shape to an  _x_, _y_ position in the second shape.
 
 
 ## Syntax
 
- _expression_. `GlueToPos`( `_SheetObject_` , `_xPercent_` , `_yPercent_` )
+_expression_. `GlueToPos`( `_SheetObject_` , `_xPercent_` , `_yPercent_` )
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

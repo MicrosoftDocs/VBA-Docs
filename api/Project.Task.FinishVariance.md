@@ -1,5 +1,5 @@
 ---
-title: Task.FinishVariance Property (Project)
+title: Task.FinishVariance property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.FinishVariance
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.FinishVariance Property (Project)
+# Task.FinishVariance property (Project)
 
 Gets the variance (in minutes) between the baseline finish date and the finish date of a task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `FinishVariance`
+_expression_. `FinishVariance`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

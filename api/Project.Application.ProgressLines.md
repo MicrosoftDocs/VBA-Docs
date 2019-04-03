@@ -1,5 +1,5 @@
 ---
-title: Application.ProgressLines Method (Project)
+title: Application.ProgressLines method (Project)
 keywords: vbapj.chm247
 f1_keywords:
 - vbapj.chm247
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProgressLines Method (Project)
+# Application.ProgressLines method (Project)
 
 Displays the  **Progress Lines** dialog box.
 
 
 ## Syntax
 
- _expression_. `ProgressLines`
+_expression_. `ProgressLines`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

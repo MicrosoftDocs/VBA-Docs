@@ -1,5 +1,5 @@
 ---
-title: TasksModule.NavigationGroups Property (Outlook)
+title: TasksModule.NavigationGroups property (Outlook)
 keywords: vbaol11.chm2850
 f1_keywords:
 - vbaol11.chm2850
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TasksModule.NavigationGroups Property (Outlook)
+# TasksModule.NavigationGroups property (Outlook)
 
 Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[TasksModule](Outlook.TasksModule.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `NavigationGroups`
+_expression_. `NavigationGroups`
 
-_expression_ A variable that represents a [TasksModule](./Outlook.TasksModule.md) object.
+_expression_ A variable that represents a [TasksModule](Outlook.TasksModule.md) object.
 
 
 ## See also

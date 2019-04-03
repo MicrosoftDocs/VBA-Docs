@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseProjectProfiles Method (Project)
+title: Application.EnterpriseProjectProfiles method (Project)
 keywords: vbapj.chm2317
 f1_keywords:
 - vbapj.chm2317
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseProjectProfiles Method (Project)
+# Application.EnterpriseProjectProfiles method (Project)
 
 Displays the  **Project Server Accounts** dialog box. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `EnterpriseProjectProfiles`
+_expression_. `EnterpriseProjectProfiles`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

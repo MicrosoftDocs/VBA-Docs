@@ -1,5 +1,5 @@
 ---
-title: Items.GetLast Method (Outlook)
+title: Items.GetLast method (Outlook)
 keywords: vbaol11.chm65
 f1_keywords:
 - vbaol11.chm65
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.GetLast Method (Outlook)
+# Items.GetLast method (Outlook)
 
 Returns the last object in the collection. 
 
@@ -21,7 +21,7 @@ Returns the last object in the collection.
 
 _expression_. `GetLast`
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Return value

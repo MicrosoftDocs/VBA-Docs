@@ -1,5 +1,5 @@
 ---
-title: Task.UnlinkPredecessors Method (Project)
+title: Task.UnlinkPredecessors method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.UnlinkPredecessors
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.UnlinkPredecessors Method (Project)
+# Task.UnlinkPredecessors method (Project)
 
 Removes one or more predecessors from the task.
 
 
 ## Syntax
 
- _expression_. `UnlinkPredecessors`( `_Tasks_` )
+_expression_. `UnlinkPredecessors`( `_Tasks_` )
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

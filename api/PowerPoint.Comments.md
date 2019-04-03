@@ -1,5 +1,5 @@
 ---
-title: Comments Object (PowerPoint)
+title: Comments object (PowerPoint)
 keywords: vbapp10.chm641000
 f1_keywords:
 - vbapp10.chm641000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comments Object (PowerPoint)
+# Comments object (PowerPoint)
 
 Represents a collection of  **[Comment](PowerPoint.Comment.md)** objects.
 

@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Item Method (PowerPoint)
+title: SlideRange.Item method (PowerPoint)
 keywords: vbapp10.chm532026
 f1_keywords:
 - vbapp10.chm532026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Item Method (PowerPoint)
+# SlideRange.Item method (PowerPoint)
 
 Returns a single  **Slide** object from the specified **SlideRange** collection.
 

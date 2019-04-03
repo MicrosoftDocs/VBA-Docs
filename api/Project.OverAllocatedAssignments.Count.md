@@ -1,5 +1,5 @@
 ---
-title: OverAllocatedAssignments.Count Property (Project)
+title: OverAllocatedAssignments.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.OverAllocatedAssignments.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OverAllocatedAssignments.Count Property (Project)
+# OverAllocatedAssignments.Count property (Project)
 
 Gets the number of  **Assignment** objects in the **OverAllocatedAssignments** collection. Read-only **Long**.
 

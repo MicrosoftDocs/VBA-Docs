@@ -1,5 +1,5 @@
 ---
-title: ReportItem.ConversationID Property (Outlook)
+title: ReportItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3493
 f1_keywords:
 - vbaol11.chm3493
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.ConversationID Property (Outlook)
+# ReportItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[ReportItem](Outlook.ReportItem.md)** object belongs to. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conver
 
 _expression_. `ConversationID`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks

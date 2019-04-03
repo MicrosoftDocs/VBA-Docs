@@ -1,5 +1,5 @@
 ---
-title: Comment.DateTime Property (PowerPoint)
+title: Comment.DateTime property (PowerPoint)
 keywords: vbapp10.chm642006
 f1_keywords:
 - vbapp10.chm642006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Comment.DateTime Property (PowerPoint)
+# Comment.DateTime property (PowerPoint)
 
 Returns the date and time a comment was created.
 
 
 ## Syntax
 
- _expression_. `DateTime`
+_expression_. `DateTime`
 
 _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 

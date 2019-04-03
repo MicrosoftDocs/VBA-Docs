@@ -1,5 +1,5 @@
 ---
-title: ChartCategory Object (PowerPoint)
+title: ChartCategory object (PowerPoint)
 keywords: vbapp10.chm736000
 f1_keywords:
 - vbapp10.chm736000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCategory Object (PowerPoint)
+# ChartCategory object (PowerPoint)
 
 Represents all chart categories in the document, whether visible (unfiltered) or not.
 

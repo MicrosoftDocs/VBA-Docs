@@ -1,5 +1,5 @@
 ---
-title: Event.Event Property (Visio)
+title: Event.Event property (Visio)
 keywords: vis_sdr.chm12613470
 f1_keywords:
 - vis_sdr.chm12613470
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Event.Event Property (Visio)
+# Event.Event property (Visio)
 
 Gets or sets the event code of an  **Event** object—an event-action pair. When the event occurs, the action is performed. Read/write.
 
 
 ## Syntax
 
- _expression_. `Event`
+_expression_. `Event`
 
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 

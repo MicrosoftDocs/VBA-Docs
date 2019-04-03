@@ -19,7 +19,7 @@ Applies a standard or custom chart type to a chart.
 
 ## Syntax
 
-_expression_. `ApplyChartTemplate`( `_Filename_` )
+_expression_. `ApplyChartTemplate`( `_FileName_` )
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The file name for a chart template.|
+| _FileName_|Required| **String**|The file name for a chart template.|
 
 ## Remarks
 

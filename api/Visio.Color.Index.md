@@ -1,5 +1,5 @@
 ---
-title: Color.Index Property (Visio)
+title: Color.Index property (Visio)
 keywords: vis_sdr.chm12213695
 f1_keywords:
 - vis_sdr.chm12213695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Color.Index Property (Visio)
+# Color.Index property (Visio)
 
 Gets the ordinal position of a  **Color** object in the **Colors** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 

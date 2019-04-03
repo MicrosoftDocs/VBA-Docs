@@ -1,5 +1,5 @@
 ---
-title: VisObjectTypes Enumeration (Visio)
+title: VisObjectTypes enumeration (Visio)
 keywords: vis_sdr.chm70130
 f1_keywords:
 - vis_sdr.chm70130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisObjectTypes Enumeration (Visio)
+# VisObjectTypes enumeration (Visio)
 
 Specifies codes returned by the  **ObjectType** property.
 

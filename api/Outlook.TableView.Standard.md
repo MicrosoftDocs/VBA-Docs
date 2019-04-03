@@ -1,5 +1,5 @@
 ---
-title: TableView.Standard Property (Outlook)
+title: TableView.Standard property (Outlook)
 keywords: vbaol11.chm2512
 f1_keywords:
 - vbaol11.chm2512
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Standard Property (Outlook)
+# TableView.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[TableView](Outlook.TableView.md)** object is a built-in Outlook view. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[TableView](Outlook.Ta
 
 _expression_. `Standard`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks

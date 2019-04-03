@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.DoubleClick Event (Outlook)
+title: OlkCommandButton.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000121
 f1_keywords:
 - vbaol11.chm1000121
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.DoubleClick Event (Outlook)
+# OlkCommandButton.DoubleClick event (Outlook)
 
 Occurs when the user double-clicks inside the control.
 
@@ -21,7 +21,7 @@ Occurs when the user double-clicks inside the control.
 
 _expression_. `DoubleClick`
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## See also

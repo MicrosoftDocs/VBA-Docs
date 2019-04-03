@@ -1,5 +1,5 @@
 ---
-title: Task.Resume Property (Project)
+title: Task.Resume property (Project)
 keywords: vbapj.chm132582
 f1_keywords:
 - vbapj.chm132582
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Resume Property (Project)
+# Task.Resume property (Project)
 
 Gets or sets the date that the remaining portion of the task is scheduled to resume after you enter any progress. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Resume`
+_expression_. `Resume`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextbox Method (PowerPoint)
+title: Shapes.AddTextbox method (PowerPoint)
 keywords: vbapp10.chm543014
 f1_keywords:
 - vbapp10.chm543014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddTextbox Method (PowerPoint)
+# Shapes.AddTextbox method (PowerPoint)
 
 Creates a text box. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new text box.
 
 
 ## Syntax
 
- _expression_. `AddTextbox`( `_Orientation_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
+_expression_. `AddTextbox`( `_Orientation_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -43,7 +43,7 @@ Shape
 
 ## Example
 
-This example adds a text box that contains the text "Test Box" to  `myDocument`.
+This example adds a text box that contains the text "Test Box" to  _myDocument_.
 
 
 ```vb

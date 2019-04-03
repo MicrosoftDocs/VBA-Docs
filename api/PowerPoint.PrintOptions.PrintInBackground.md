@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.PrintInBackground Property (PowerPoint)
+title: PrintOptions.PrintInBackground property (PowerPoint)
 keywords: vbapp10.chm517010
 f1_keywords:
 - vbapp10.chm517010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.PrintInBackground Property (PowerPoint)
+# PrintOptions.PrintInBackground property (PowerPoint)
 
 Determines whether the specified presentation is printed in the background. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintInBackground`
+_expression_. `PrintInBackground`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

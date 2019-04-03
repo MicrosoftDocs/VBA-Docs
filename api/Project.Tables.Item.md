@@ -1,5 +1,5 @@
 ---
-title: Tables.Item Property (Project)
+title: Tables.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Tables.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Tables.Item Property (Project)
+# Tables.Item property (Project)
 
 Gets a single  **Table** object from the **Tables** collection. Read-only **Table**.
 

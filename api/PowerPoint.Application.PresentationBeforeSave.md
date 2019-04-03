@@ -1,5 +1,5 @@
 ---
-title: Application.PresentationBeforeSave Event (PowerPoint)
+title: Application.PresentationBeforeSave event (PowerPoint)
 keywords: vbapp10.chm621018
 f1_keywords:
 - vbapp10.chm621018
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PresentationBeforeSave Event (PowerPoint)
+# Application.PresentationBeforeSave event (PowerPoint)
 
 Occurs before a presentation is saved.
 
 
 ## Syntax
 
- _expression_. `PresentationBeforeSave`( `_Pres_`, `_Cancel_` )
+_expression_. `PresentationBeforeSave`( `_Pres_`, `_Cancel_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

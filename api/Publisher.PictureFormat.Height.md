@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Height Property (Publisher)
+title: PictureFormat.Height property (Publisher)
 keywords: vbapb10.chm3604759
 f1_keywords:
 - vbapb10.chm3604759
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Height Property (Publisher)
+# PictureFormat.Height property (Publisher)
 
 Returns a  **Variant** that represents the height, in points, of the specified picture or OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Height**
+ _expression_.**Height**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

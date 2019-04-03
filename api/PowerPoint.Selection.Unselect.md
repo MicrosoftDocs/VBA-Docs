@@ -1,5 +1,5 @@
 ---
-title: Selection.Unselect Method (PowerPoint)
+title: Selection.Unselect method (PowerPoint)
 keywords: vbapp10.chm508006
 f1_keywords:
 - vbapp10.chm508006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Unselect Method (PowerPoint)
+# Selection.Unselect method (PowerPoint)
 
 Cancels the current selection.
 
 
 ## Syntax
 
- _expression_. `Unselect`
+_expression_. `Unselect`
 
  _expression_ A variable that represents an [Selection](./PowerPoint.Selection.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.IsCommandEnabled Method (Project)
+title: Application.IsCommandEnabled method (Project)
 keywords: vbapj.chm131102
 f1_keywords:
 - vbapj.chm131102
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.IsCommandEnabled Method (Project)
+# Application.IsCommandEnabled method (Project)
 
 Shows whether the specified command is enabled.
 
 
 ## Syntax
 
- _expression_. `IsCommandEnabled`( `_CommandName_` )
+_expression_. `IsCommandEnabled`( `_CommandName_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Rule.Actions Property (Outlook)
+title: Rule.Actions property (Outlook)
 keywords: vbaol11.chm2174
 f1_keywords:
 - vbaol11.chm2174
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rule.Actions Property (Outlook)
+# Rule.Actions property (Outlook)
 
 Returns a  **[RuleActions](Outlook.RuleActions.md)** collection object that represents all the available rule actions for the rule. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleActions](Outlook.RuleActions.md)** collection object that repr
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
+_expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ReportItem.DownloadState Property (Outlook)
+title: ReportItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1673
 f1_keywords:
 - vbaol11.chm1673
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.DownloadState Property (Outlook)
+# ReportItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadSt
 
 _expression_. `DownloadState`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Example

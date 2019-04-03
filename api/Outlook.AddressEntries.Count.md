@@ -1,5 +1,5 @@
 ---
-title: AddressEntries.Count Property (Outlook)
+title: AddressEntries.Count property (Outlook)
 keywords: vbaol11.chm29
 f1_keywords:
 - vbaol11.chm29
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntries.Count Property (Outlook)
+# AddressEntries.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
+_expression_ A variable that represents an [AddressEntries](Outlook.AddressEntries.md) object.
 
 
 ## See also

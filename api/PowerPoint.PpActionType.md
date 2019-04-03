@@ -1,5 +1,5 @@
 ---
-title: PpActionType Enumeration (PowerPoint)
+title: PpActionType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpActionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpActionType Enumeration (PowerPoint)
+# PpActionType enumeration (PowerPoint)
 
 Specifies the type of action that will occur when the specified shape is clicked or the mouse pointer is positioned over the shape during a slide show.
 

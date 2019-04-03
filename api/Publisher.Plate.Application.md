@@ -1,5 +1,5 @@
 ---
-title: Plate.Application Property (Publisher)
+title: Plate.Application property (Publisher)
 keywords: vbapb10.chm2883586
 f1_keywords:
 - vbapb10.chm2883586
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Plate.Application Property (Publisher)
+# Plate.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_.**Application**
 
  _expression_ A variable that represents a  **Plate** object.
 

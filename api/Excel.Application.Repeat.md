@@ -19,7 +19,7 @@ Repeats the last user-interface action.
 
 ## Syntax
 
-_expression_. `Repeat`
+_expression_.**Repeat**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 

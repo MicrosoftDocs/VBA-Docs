@@ -1,5 +1,5 @@
 ---
-title: ItemProperties.Count Property (Outlook)
+title: ItemProperties.Count property (Outlook)
 keywords: vbaol11.chm535
 f1_keywords:
 - vbaol11.chm535
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperties.Count Property (Outlook)
+# ItemProperties.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 _expression_.**Count**
 
-_expression_ A variable that represents an [ItemProperties](./Outlook.ItemProperties.md) object.
+_expression_ A variable that represents an [ItemProperties](Outlook.ItemProperties.md) object.
 
 
 ## See also

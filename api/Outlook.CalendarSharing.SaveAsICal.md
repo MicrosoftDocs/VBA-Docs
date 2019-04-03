@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.SaveAsICal Method (Outlook)
+title: CalendarSharing.SaveAsICal method (Outlook)
 keywords: vbaol11.chm2411
 f1_keywords:
 - vbaol11.chm2411
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarSharing.SaveAsICal Method (Outlook)
+# CalendarSharing.SaveAsICal method (Outlook)
 
 Exports calendar information from the parent  **[Folder](Outlook.Folder.md)** of the **[CalendarSharing](Outlook.CalendarSharing.md)** object as an iCalendar calendar (.ics) file.
 
@@ -21,7 +21,7 @@ Exports calendar information from the parent  **[Folder](Outlook.Folder.md)** of
 
 _expression_. `SaveAsICal`( `_Path_` )
 
- _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
+ _expression_ An expression that returns a [CalendarSharing](Outlook.CalendarSharing.md) object.
 
 
 ## Parameters

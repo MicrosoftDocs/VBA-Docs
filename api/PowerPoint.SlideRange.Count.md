@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Count Property (PowerPoint)
+title: SlideRange.Count property (PowerPoint)
 keywords: vbapp10.chm532029
 f1_keywords:
 - vbapp10.chm532029
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Count Property (PowerPoint)
+# SlideRange.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

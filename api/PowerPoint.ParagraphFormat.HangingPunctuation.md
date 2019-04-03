@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.HangingPunctuation Property (PowerPoint)
+title: ParagraphFormat.HangingPunctuation property (PowerPoint)
 keywords: vbapp10.chm576014
 f1_keywords:
 - vbapp10.chm576014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.HangingPunctuation Property (PowerPoint)
+# ParagraphFormat.HangingPunctuation property (PowerPoint)
 
 Returns or sets the hanging punctuation option if you have an Asian language setting specified. Read/write.
 
 
 ## Syntax
 
- _expression_. `HangingPunctuation`
+_expression_. `HangingPunctuation`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 

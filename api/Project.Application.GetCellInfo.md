@@ -1,5 +1,5 @@
 ---
-title: Application.GetCellInfo Method (Project)
+title: Application.GetCellInfo method (Project)
 keywords: vbapj.chm131092
 f1_keywords:
 - vbapj.chm131092
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GetCellInfo Method (Project)
+# Application.GetCellInfo method (Project)
 
 Gets the cell object at the specified coordinates.
 
 
 ## Syntax
 
- _expression_. `GetCellInfo`( `_x_`, `_y_` )
+_expression_. `GetCellInfo`( `_x_`, `_y_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

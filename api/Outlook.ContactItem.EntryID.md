@@ -1,5 +1,5 @@
 ---
-title: ContactItem.EntryID Property (Outlook)
+title: ContactItem.EntryID property (Outlook)
 keywords: vbaol11.chm939
 f1_keywords:
 - vbaol11.chm939
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.EntryID Property (Outlook)
+# ContactItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

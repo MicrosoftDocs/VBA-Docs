@@ -1,5 +1,5 @@
 ---
-title: SharingItem.AutoForwarded Property (Outlook)
+title: SharingItem.AutoForwarded property (Outlook)
 keywords: vbaol11.chm632
 f1_keywords:
 - vbaol11.chm632
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.AutoForwarded Property (Outlook)
+# SharingItem.AutoForwarded property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the item was automatically forwarded. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the item was automatica
 
 _expression_. `AutoForwarded`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

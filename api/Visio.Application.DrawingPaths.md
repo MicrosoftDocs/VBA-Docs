@@ -1,5 +1,5 @@
 ---
-title: Application.DrawingPaths Property (Visio)
+title: Application.DrawingPaths property (Visio)
 keywords: vis_sdr.chm10013445
 f1_keywords:
 - vis_sdr.chm10013445
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DrawingPaths Property (Visio)
+# Application.DrawingPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for drawings. Read/write.
 
 
 ## Syntax
 
- _expression_. `DrawingPaths`
+_expression_. `DrawingPaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

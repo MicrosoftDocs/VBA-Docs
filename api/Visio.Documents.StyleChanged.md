@@ -1,5 +1,5 @@
 ---
-title: Documents.StyleChanged Event (Visio)
+title: Documents.StyleChanged event (Visio)
 keywords: vis_sdr.chm10619250
 f1_keywords:
 - vis_sdr.chm10619250
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.StyleChanged Event (Visio)
+# Documents.StyleChanged event (Visio)
 
 Occurs after the name of a style is changed or a change to the style propagates to objects to which the style is applied.
 

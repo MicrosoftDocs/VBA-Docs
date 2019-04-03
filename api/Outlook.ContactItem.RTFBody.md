@@ -1,5 +1,5 @@
 ---
-title: ContactItem.RTFBody Property (Outlook)
+title: ContactItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3525
 f1_keywords:
 - vbaol11.chm3525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.RTFBody Property (Outlook)
+# ContactItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 

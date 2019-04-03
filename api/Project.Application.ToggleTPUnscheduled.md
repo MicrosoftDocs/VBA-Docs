@@ -1,5 +1,5 @@
 ---
-title: Application.ToggleTPUnscheduled Method (Project)
+title: Application.ToggleTPUnscheduled method (Project)
 keywords: vbapj.chm1507
 f1_keywords:
 - vbapj.chm1507
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ToggleTPUnscheduled Method (Project)
+# Application.ToggleTPUnscheduled method (Project)
 
 Shows or hides the  **Unscheduled Tasks** column in the Team Planner view.
 
 
 ## Syntax
 
- _expression_. `ToggleTPUnscheduled`
+_expression_. `ToggleTPUnscheduled`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

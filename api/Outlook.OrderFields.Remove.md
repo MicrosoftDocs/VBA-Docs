@@ -1,5 +1,5 @@
 ---
-title: OrderFields.Remove Method (Outlook)
+title: OrderFields.Remove method (Outlook)
 keywords: vbaol11.chm2679
 f1_keywords:
 - vbaol11.chm2679
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# OrderFields.Remove Method (Outlook)
+# OrderFields.Remove method (Outlook)
 
 Removes an object from the collection.
 
 
 ## Syntax
 
-_expression_. `Remove`( `_Index_` )
+_expression_. `Remove` (_Index_)
 
-_expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.md) object.
+_expression_ A variable that represents an [OrderFields](Outlook.OrderFields.md) object.
 
 
 ## Parameters

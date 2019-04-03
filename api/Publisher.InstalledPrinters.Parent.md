@@ -1,5 +1,5 @@
 ---
-title: InstalledPrinters.Parent Property (Publisher)
+title: InstalledPrinters.Parent property (Publisher)
 keywords: vbapb10.chm8912899
 f1_keywords:
 - vbapb10.chm8912899
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InstalledPrinters.Parent Property (Publisher)
+# InstalledPrinters.Parent property (Publisher)
 
 Returns the parent of the  **[InstalledPrinters](Publisher.InstalledPrinters.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents an  **InstalledPrinters** object.
 

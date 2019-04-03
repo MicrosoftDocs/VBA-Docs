@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.StyleChanged Event (Visio)
+title: DrawingControl.StyleChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.StyleChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.StyleChanged Event (Visio)
+# DrawingControl.StyleChanged event (Visio)
 
 Occurs after the name of a style is changed or a change to the style propagates to objects to which the style is applied.
 

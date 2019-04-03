@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Style Property (Outlook)
+title: OlkTimeControl.Style property (Outlook)
 keywords: vbaol11.chm1000392
 f1_keywords:
 - vbaol11.chm1000392
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Style Property (Outlook)
+# OlkTimeControl.Style property (Outlook)
 
 Returns or sets an  **[OlTimeStyle](Outlook.OlTimeStyle.md)** constant that specifies the style of the time control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlTimeStyle](Outlook.OlTimeStyle.md)** constant that spec
 
 _expression_. `Style`
 
-_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

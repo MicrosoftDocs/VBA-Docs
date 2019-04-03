@@ -1,5 +1,5 @@
 ---
-title: Application.ShapeLinkAdded Event (Visio)
+title: Application.ShapeLinkAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.ShapeLinkAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ShapeLinkAdded Event (Visio)
+# Application.ShapeLinkAdded event (Visio)
 
 Occurs after a shape is linked to a data row.
 

@@ -1,5 +1,5 @@
 ---
-title: PbLigaturePresetType Enumeration (Publisher)
+title: PbLigaturePresetType enumeration (Publisher)
 keywords: vbapb10.chm65659
 f1_keywords:
 - vbapb10.chm65659
@@ -10,9 +10,9 @@ localization_priority: Normal
 ---
 
 
-# PbLigaturePresetType Enumeration (Publisher)
+# PbLigaturePresetType enumeration (Publisher)
 
-Constants passed to and returned by the  ** [Font.Ligature](Publisher.font.ligature.md)** property, specifying the state of the **Ligature** property on the characters in a text range.
+Constants passed to and returned by the  **[Font.Ligature](Publisher.font.ligature.md)** property, specifying the state of the **Ligature** property on the characters in a text range.
 
 
 

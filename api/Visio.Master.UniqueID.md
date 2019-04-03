@@ -1,5 +1,5 @@
 ---
-title: Master.UniqueID Property (Visio)
+title: Master.UniqueID property (Visio)
 keywords: vis_sdr.chm10751165
 f1_keywords:
 - vis_sdr.chm10751165
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.UniqueID Property (Visio)
+# Master.UniqueID property (Visio)
 
 Returns the unique ID of a master. Read-only.
 
 
 ## Syntax
 
- _expression_. `UniqueID`
+_expression_. `UniqueID`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 

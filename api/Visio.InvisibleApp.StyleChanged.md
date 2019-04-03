@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.StyleChanged Event (Visio)
+title: InvisibleApp.StyleChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.StyleChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.StyleChanged Event (Visio)
+# InvisibleApp.StyleChanged event (Visio)
 
 Occurs after the name of a style is changed or a change to the style propagates to objects to which the style is applied.
 

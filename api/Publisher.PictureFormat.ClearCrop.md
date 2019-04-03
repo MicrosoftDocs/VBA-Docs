@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ClearCrop Method (Publisher)
+title: PictureFormat.ClearCrop method (Publisher)
 keywords: vbapb10.chm3604806
 f1_keywords:
 - vbapb10.chm3604806
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.ClearCrop Method (Publisher)
+# PictureFormat.ClearCrop method (Publisher)
 
 Removes a picture shape from an image, and resets the crop region to the original extent of the image before cropping. Returns nothing.
 
 
 ## Syntax
 
- _expression_. **ClearCrop**
+ _expression_.**ClearCrop**
 
  _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 

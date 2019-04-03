@@ -1,5 +1,5 @@
 ---
-title: Application.FileExit Method (Project)
+title: Application.FileExit method (Project)
 keywords: vbapj.chm114
 f1_keywords:
 - vbapj.chm114
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FileExit Method (Project)
+# Application.FileExit method (Project)
 
 Quits Project.
 
 
 ## Syntax
 
- _expression_. `FileExit`( `_Save_` )
+_expression_. `FileExit`( `_Save_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

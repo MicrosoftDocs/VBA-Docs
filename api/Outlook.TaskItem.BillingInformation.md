@@ -1,5 +1,5 @@
 ---
-title: TaskItem.BillingInformation Property (Outlook)
+title: TaskItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1688
 f1_keywords:
 - vbaol11.chm1688
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.BillingInformation Property (Outlook)
+# TaskItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the billing information associated wi
 
 _expression_. `BillingInformation`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: NavigationFolders.Parent Property (Outlook)
+title: NavigationFolders.Parent property (Outlook)
 keywords: vbaol11.chm2894
 f1_keywords:
 - vbaol11.chm2894
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolders.Parent Property (Outlook)
+# NavigationFolders.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [NavigationFolders](./Outlook.NavigationFolders.md) object.
+_expression_ A variable that represents a [NavigationFolders](Outlook.NavigationFolders.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Styles.ItemFromID Property (Visio)
+title: Styles.ItemFromID property (Visio)
 keywords: vis_sdr.chm11513775
 f1_keywords:
 - vis_sdr.chm11513775
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Styles.ItemFromID Property (Visio)
+# Styles.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_nID_` )
+_expression_. `ItemFromID`( `_nID_` )
 
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) collection.
 

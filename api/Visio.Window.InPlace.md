@@ -1,5 +1,5 @@
 ---
-title: Window.InPlace Property (Visio)
+title: Window.InPlace property (Visio)
 keywords: vis_sdr.chm11613705
 f1_keywords:
 - vis_sdr.chm11613705
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.InPlace Property (Visio)
+# Window.InPlace property (Visio)
 
 Specifies whether a window is open in place, or whether a document is being viewed through a window that is open in place. Read-only.
 
 
 ## Syntax
 
- _expression_. `InPlace`
+_expression_. `InPlace`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

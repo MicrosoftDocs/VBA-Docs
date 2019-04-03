@@ -1,5 +1,5 @@
 ---
-title: RulerLevel Object (PowerPoint)
+title: RulerLevel object (PowerPoint)
 keywords: vbapp10.chm572000
 f1_keywords:
 - vbapp10.chm572000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RulerLevel Object (PowerPoint)
+# RulerLevel object (PowerPoint)
 
 Contains first-line indent and hanging indent information for an outline level. 
 

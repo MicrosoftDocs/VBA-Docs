@@ -1,5 +1,5 @@
 ---
-title: Explorer.CurrentView Property (Outlook)
+title: Explorer.CurrentView property (Outlook)
 keywords: vbaol11.chm2766
 f1_keywords:
 - vbaol11.chm2766
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.CurrentView Property (Outlook)
+# Explorer.CurrentView property (Outlook)
 
 Returns or sets a  **Variant** representing the current view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Variant** representing the current view. Read/write.
 
 _expression_. `CurrentView`
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks

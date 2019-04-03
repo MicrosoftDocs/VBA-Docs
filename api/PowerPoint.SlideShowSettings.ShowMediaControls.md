@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.ShowMediaControls Property (PowerPoint)
+title: SlideShowSettings.ShowMediaControls property (PowerPoint)
 keywords: vbapp10.chm514017
 f1_keywords:
 - vbapp10.chm514017
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.ShowMediaControls Property (PowerPoint)
+# SlideShowSettings.ShowMediaControls property (PowerPoint)
 
 Allows access to the media controls in the  **SlideShowSettings** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowMediaControls`
+_expression_. `ShowMediaControls`
 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 

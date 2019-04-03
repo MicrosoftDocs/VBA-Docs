@@ -21,7 +21,7 @@ Returns an array of links in the workbook. The names in the array are the names 
 
 _expression_. `LinkSources`( `_Type_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|One of the constants of  **[xlLink](Excel.XlLink.md)** which specifies the type of link to return.|
+| _Type_|Optional| **Variant**|One of the constants of  **[XlLink](Excel.XlLink.md)** which specifies the type of link to return.|
 
 ## Return value
 

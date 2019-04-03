@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.UseTextColor Property (PowerPoint)
+title: BulletFormat.UseTextColor property (PowerPoint)
 keywords: vbapp10.chm577006
 f1_keywords:
 - vbapp10.chm577006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.UseTextColor Property (PowerPoint)
+# BulletFormat.UseTextColor property (PowerPoint)
 
 Determines whether the specified bullets are set to the color of the first text character in the paragraph. Read/write.
 
 
 ## Syntax
 
- _expression_. `UseTextColor`
+_expression_. `UseTextColor`
 
 _expression_ A variable that represents an [BulletFormat](./PowerPoint.BulletFormat.md) object.
 

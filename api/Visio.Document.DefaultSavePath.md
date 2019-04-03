@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultSavePath Property (Visio)
+title: Document.DefaultSavePath property (Visio)
 keywords: vis_sdr.chm10560100
 f1_keywords:
 - vis_sdr.chm10560100
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.DefaultSavePath Property (Visio)
+# Document.DefaultSavePath property (Visio)
 
 Gets or sets the path to the location where Microsoft Visio saves the current document by default. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultSavePath`
+_expression_. `DefaultSavePath`
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 

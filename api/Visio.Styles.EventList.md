@@ -1,5 +1,5 @@
 ---
-title: Styles.EventList Property (Visio)
+title: Styles.EventList property (Visio)
 keywords: vis_sdr.chm11513480
 f1_keywords:
 - vis_sdr.chm11513480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Styles.EventList Property (Visio)
+# Styles.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `EventList`
+_expression_. `EventList`
 
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 

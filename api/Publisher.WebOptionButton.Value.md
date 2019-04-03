@@ -1,5 +1,5 @@
 ---
-title: WebOptionButton.Value Property (Publisher)
+title: WebOptionButton.Value property (Publisher)
 keywords: vbapb10.chm4259845
 f1_keywords:
 - vbapb10.chm4259845
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebOptionButton.Value Property (Publisher)
+# WebOptionButton.Value property (Publisher)
 
 Returns or sets a  **String** that represents the value of a Web check box or option button. Read/write.
 
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_.**Value**
 
  _expression_ A variable that represents a  **WebOptionButton** object.
 

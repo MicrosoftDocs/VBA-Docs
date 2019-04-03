@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementCommittedStart Property (Project)
+title: Resource.EngagementCommittedStart property (Project)
 keywords: vbapj.chm131798
 f1_keywords:
 - vbapj.chm131798
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementCommittedStart Property (Project)
+# Resource.EngagementCommittedStart property (Project)
 
 Returns the committed start date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `EngagementCommittedStart`
+_expression_. `EngagementCommittedStart`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

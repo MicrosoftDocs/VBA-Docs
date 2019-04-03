@@ -1,5 +1,5 @@
 ---
-title: Player.State Property (PowerPoint)
+title: Player.State property (PowerPoint)
 keywords: vbapp10.chm726009
 f1_keywords:
 - vbapp10.chm726009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Player.State Property (PowerPoint)
+# Player.State property (PowerPoint)
 
 Returns the current state of the player. Read-only.
 
 
 ## Syntax
 
- _expression_. `State`
+_expression_. `State`
 
  _expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PjLinkStyle Enumeration (Project)
+title: PjLinkStyle enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLinkStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLinkStyle Enumeration (Project)
+# PjLinkStyle enumeration (Project)
 
 Contains constants that specify the style of link lines between boxes in a Network Diagram view. 
 

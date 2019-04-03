@@ -1,5 +1,5 @@
 ---
-title: Project.SpreadCostsToStatusDate Property (Project)
+title: Project.SpreadCostsToStatusDate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.SpreadCostsToStatusDate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.SpreadCostsToStatusDate Property (Project)
+# Project.SpreadCostsToStatusDate property (Project)
 
  **True** if edits to total actual cost are spread to the status date, or to the current date if the status date is "NA". **False** if edits are spread to the calculated stop date of the task. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SpreadCostsToStatusDate`
+_expression_. `SpreadCostsToStatusDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

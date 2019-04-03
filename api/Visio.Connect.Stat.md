@@ -1,5 +1,5 @@
 ---
-title: Connect.Stat Property (Visio)
+title: Connect.Stat property (Visio)
 keywords: vis_sdr.chm10314420
 f1_keywords:
 - vis_sdr.chm10314420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Connect.Stat Property (Visio)
+# Connect.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 

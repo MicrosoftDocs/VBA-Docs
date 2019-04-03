@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Font Property (PowerPoint)
+title: LegendEntry.Font property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Font
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntry.Font Property (PowerPoint)
+# LegendEntry.Font property (PowerPoint)
 
 Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.ChartFont.md)**.
 

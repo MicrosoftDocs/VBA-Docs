@@ -21,7 +21,7 @@ Copies the selected object to the Clipboard as a picture.
 
 _expression_. `CopyPicture`( `_Appearance_` , `_Format_` )
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Parameters

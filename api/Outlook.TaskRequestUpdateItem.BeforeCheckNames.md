@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.BeforeCheckNames Event (Outlook)
+title: TaskRequestUpdateItem.BeforeCheckNames event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.BeforeCheckNames
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.BeforeCheckNames Event (Outlook)
+# TaskRequestUpdateItem.BeforeCheckNames event (Outlook)
 
 Occurs just before Microsoft Outlook starts resolving names in the recipient collection for an item (which is an instance of the parent object).
 
 
 ## Syntax
 
- _expression_. `BeforeCheckNames`( `_Cancel_` )
+_expression_. `BeforeCheckNames`( `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters

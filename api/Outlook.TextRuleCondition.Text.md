@@ -1,5 +1,5 @@
 ---
-title: TextRuleCondition.Text Property (Outlook)
+title: TextRuleCondition.Text property (Outlook)
 keywords: vbaol11.chm2478
 f1_keywords:
 - vbaol11.chm2478
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextRuleCondition.Text Property (Outlook)
+# TextRuleCondition.Text property (Outlook)
 
 Returns or sets an array of  **String** elements that represents the text to be evaluated by the rule condition. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an array of  **String** elements that represents the text to be 
 
  _expression_.**Text**
 
-_expression_ A variable that represents a [TextRuleCondition](./Outlook.TextRuleCondition.md) object.
+_expression_ A variable that represents a [TextRuleCondition](Outlook.TextRuleCondition.md) object.
 
 
 ## Remarks

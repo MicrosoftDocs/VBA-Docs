@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.BorderStyle Property (Outlook)
+title: OlkTextBox.BorderStyle property (Outlook)
 keywords: vbaol11.chm1000040
 f1_keywords:
 - vbaol11.chm1000040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.BorderStyle Property (Outlook)
+# OlkTextBox.BorderStyle property (Outlook)
 
 Returns or sets an  **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that defines the style of the border around the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that 
 
 _expression_.**BorderStyle**
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.ItemProperties Property (Outlook)
+title: TaskRequestItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1910
 f1_keywords:
 - vbaol11.chm1910
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.ItemProperties Property (Outlook)
+# TaskRequestItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 _expression_. `ItemProperties`
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Remarks

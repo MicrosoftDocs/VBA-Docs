@@ -1,5 +1,5 @@
 ---
-title: Application.IsSearchSynchronous Method (Outlook)
+title: Application.IsSearchSynchronous method (Outlook)
 keywords: vbaol11.chm729
 f1_keywords:
 - vbaol11.chm729
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.IsSearchSynchronous Method (Outlook)
+# Application.IsSearchSynchronous method (Outlook)
 
 Returns a  **Boolean** indicating if a search will be synchronous or asynchronous.
 

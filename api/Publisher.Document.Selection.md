@@ -1,5 +1,5 @@
 ---
-title: Document.Selection Property (Publisher)
+title: Document.Selection property (Publisher)
 keywords: vbapb10.chm196658
 f1_keywords:
 - vbapb10.chm196658
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Selection Property (Publisher)
+# Document.Selection property (Publisher)
 
 Returns a  **[Selection](Publisher.Selection.md)** object that represents a selected range or the cursor.
 
 
 ## Syntax
 
- _expression_. **Selection**
+ _expression_.**Selection**
 
  _expression_ A variable that represents a  **Document** object.
 

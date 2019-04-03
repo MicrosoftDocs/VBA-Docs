@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.AddToFavorites Method (PowerPoint)
+title: Hyperlink.AddToFavorites method (PowerPoint)
 keywords: vbapp10.chm526006
 f1_keywords:
 - vbapp10.chm526006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.AddToFavorites Method (PowerPoint)
+# Hyperlink.AddToFavorites method (PowerPoint)
 
 Adds a shortcut that represents the specified hyperlink's target document to the Favorites folder in the Windows folder.
 
 
 ## Syntax
 
- _expression_. `AddToFavorites`
+_expression_. `AddToFavorites`
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 

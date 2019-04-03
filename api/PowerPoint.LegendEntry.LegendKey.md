@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.LegendKey Property (PowerPoint)
+title: LegendEntry.LegendKey property (PowerPoint)
 keywords: vbapp10.chm65710
 f1_keywords:
 - vbapp10.chm65710
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LegendEntry.LegendKey Property (PowerPoint)
+# LegendEntry.LegendKey property (PowerPoint)
 
 Returns the legend key that is associated with the entry. Read-only  **[LegendKey](PowerPoint.LegendKey.md)**.
 
 
 ## Syntax
 
- _expression_. `LegendKey`
+_expression_. `LegendKey`
 
  _expression_ A variable that represents a '[LegendEntry](PowerPoint.LegendEntry.md)' object.
 

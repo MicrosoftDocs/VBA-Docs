@@ -1,5 +1,5 @@
 ---
-title: Project.KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled Property (Project)
+title: Project.KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled property (Project)
 keywords: vbapj.chm131104
 f1_keywords:
 - vbapj.chm131104
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled Property (Project)
+# Project.KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled property (Project)
 
  **True** if task scheduling respects the current calendar when a task is converted from manual to automatic; otherwise, **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled`
+_expression_. `KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

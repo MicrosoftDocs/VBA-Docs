@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Select Method (PowerPoint)
+title: DataLabels.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.Select Method (PowerPoint)
+# DataLabels.Select method (PowerPoint)
 
 Selects the object.
 

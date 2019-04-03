@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCache.SourceType property (Excel)
 
-Returns a  **[xlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value that represents the type of item being published.
+Returns a  **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value that represents the type of item being published.
 
 
 ## Syntax

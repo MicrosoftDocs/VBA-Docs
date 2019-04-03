@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Angle Property (Publisher)
+title: CalloutFormat.Angle property (Publisher)
 keywords: vbapb10.chm2490625
 f1_keywords:
 - vbapb10.chm2490625
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Angle Property (Publisher)
+# CalloutFormat.Angle property (Publisher)
 
 Returns or sets an  **MsoCalloutAngleType** constant that represents the angle of the callout line. If the callout line contains more than one line segment, this property returns or sets the angle of the segment that is farthest from the callout text box. Read/write.
 
 
 ## Syntax
 
- _expression_. **Angle**
+ _expression_.**Angle**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 

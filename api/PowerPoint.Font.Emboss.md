@@ -1,5 +1,5 @@
 ---
-title: Font.Emboss Property (PowerPoint)
+title: Font.Emboss property (PowerPoint)
 keywords: vbapp10.chm575007
 f1_keywords:
 - vbapp10.chm575007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Emboss Property (PowerPoint)
+# Font.Emboss property (PowerPoint)
 
 Determines whether the character format is embossed. Read/write.
 
 
 ## Syntax
 
- _expression_. `Emboss`
+_expression_. `Emboss`
 
  _expression_ A variable that represents an [Font](./PowerPoint.Font.md) object.
 

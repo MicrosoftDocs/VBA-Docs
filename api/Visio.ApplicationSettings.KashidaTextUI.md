@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.KashidaTextUI Property (Visio)
+title: ApplicationSettings.KashidaTextUI property (Visio)
 keywords: vis_sdr.chm16260030
 f1_keywords:
 - vis_sdr.chm16260030
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.KashidaTextUI Property (Visio)
+# ApplicationSettings.KashidaTextUI property (Visio)
 
 Gets the current setting for display of Kashida text-justification in certain cursive languages. Read-only.
 
 
 ## Syntax
 
- _expression_. `KashidaTextUI`
+_expression_. `KashidaTextUI`
 
  _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

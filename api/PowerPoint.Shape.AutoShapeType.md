@@ -1,5 +1,5 @@
 ---
-title: Shape.AutoShapeType Property (PowerPoint)
+title: Shape.AutoShapeType property (PowerPoint)
 keywords: vbapp10.chm547016
 f1_keywords:
 - vbapp10.chm547016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.AutoShapeType Property (PowerPoint)
+# Shape.AutoShapeType property (PowerPoint)
 
 Returns or sets the shape type for the specified  **Shape** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoShapeType`
+_expression_. `AutoShapeType`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -36,7 +36,7 @@ Use the  **Type** property of the **[ConnectorFormat](PowerPoint.ConnectorFormat
 
 ## Example
 
-This example replaces all 16-point stars with 32-point stars in  `myDocument`.
+This example replaces all 16-point stars with 32-point stars in  _myDocument_.
 
 
 ```vb

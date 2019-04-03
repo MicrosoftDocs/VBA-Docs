@@ -1,5 +1,5 @@
 ---
-title: Connect.ContainingPageID Property (Visio)
+title: Connect.ContainingPageID property (Visio)
 keywords: vis_sdr.chm10351930
 f1_keywords:
 - vis_sdr.chm10351930
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Connect.ContainingPageID Property (Visio)
+# Connect.ContainingPageID property (Visio)
 
 Returns the ID of the page that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingPageID`
+_expression_. `ContainingPageID`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReceivedOnBehalfOfName Property (Outlook)
+title: SharingItem.ReceivedOnBehalfOfName property (Outlook)
 keywords: vbaol11.chm647
 f1_keywords:
 - vbaol11.chm647
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReceivedOnBehalfOfName Property (Outlook)
+# SharingItem.ReceivedOnBehalfOfName property (Outlook)
 
 Returns a  **String** representing the display name of the user delegated to represent the recipient for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the display name of the user delegated to rep
 
 _expression_. `ReceivedOnBehalfOfName`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

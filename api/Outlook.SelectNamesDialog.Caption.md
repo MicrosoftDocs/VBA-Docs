@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.Caption Property (Outlook)
+title: SelectNamesDialog.Caption property (Outlook)
 keywords: vbaol11.chm825
 f1_keywords:
 - vbaol11.chm825
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.Caption Property (Outlook)
+# SelectNamesDialog.Caption property (Outlook)
 
 Returns or sets a  **String** value that represents the title for the **Select Names** dialog box. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the title for the **Select N
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

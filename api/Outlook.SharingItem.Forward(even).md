@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Forward Event (Outlook)
+title: SharingItem.Forward event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Forward
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Forward Event (Outlook)
+# SharingItem.Forward event (Outlook)
 
 Occurs when the user selects the  **Forward** action for an item, or when the **[Forward](Outlook.SharingItem.Forward(method).md)** method is called for the item, which is an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **Forward** action for an item, or when the **
 
 _expression_. `Forward`( `_Forward_` , `_Cancel_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

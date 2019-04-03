@@ -1,5 +1,5 @@
 ---
-title: ColorFormat Object (PowerPoint)
+title: ColorFormat object (PowerPoint)
 keywords: vbapp10.chm506000
 f1_keywords:
 - vbapp10.chm506000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat Object (PowerPoint)
+# ColorFormat object (PowerPoint)
 
 Represents the color of a one-color object, the foreground or background color of an object with a gradient or patterned fill, or the pointer color. You can set colors to an explicit red-green-blue value (by using the [RGB](PowerPoint.ColorFormat.RGB.md) property) or to a color in the color scheme (by using the [SchemeColor](PowerPoint.ColorFormat.SchemeColor.md) property).
 
@@ -45,7 +45,7 @@ Use the [SchemeColor](PowerPoint.ColorFormat.SchemeColor.md) property to set the
 ActivePresentation.Slides(2).Shapes(1).TextFrame.TextRange.Font.Color.SchemeColor = ppTitle
 ```
 
-Use the [RGB](PowerPoint.ColorFormat.RGB.md) property to set a color to an explicit red-green-blue value. The following example adds a rectangle to `myDocument` and then sets the foreground color, background color, and gradient for the rectangle's fill.
+Use the [RGB](PowerPoint.ColorFormat.RGB.md) property to set a color to an explicit red-green-blue value. The following example adds a rectangle to _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 

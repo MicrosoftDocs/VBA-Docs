@@ -1,5 +1,5 @@
 ---
-title: WebListBox Object (Publisher)
+title: WebListBox object (Publisher)
 keywords: vbapb10.chm4128767
 f1_keywords:
 - vbapb10.chm4128767
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WebListBox Object (Publisher)
+# WebListBox object (Publisher)
 
 Represents a Web list box control. The  **WebListBox** object is a member of the **Shape** object.
  

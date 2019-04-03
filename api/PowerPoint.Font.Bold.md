@@ -1,5 +1,5 @@
 ---
-title: Font.Bold Property (PowerPoint)
+title: Font.Bold property (PowerPoint)
 keywords: vbapp10.chm575004
 f1_keywords:
 - vbapp10.chm575004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Bold Property (PowerPoint)
+# Font.Bold property (PowerPoint)
 
 Determines whether the character format is bold. Read/write.
 
 
 ## Syntax
 
- _expression_. `Bold`
+_expression_. `Bold`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 

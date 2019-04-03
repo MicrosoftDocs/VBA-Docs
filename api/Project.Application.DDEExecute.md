@@ -1,5 +1,5 @@
 ---
-title: Application.DDEExecute Method (Project)
+title: Application.DDEExecute method (Project)
 keywords: vbapj.chm1202
 f1_keywords:
 - vbapj.chm1202
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DDEExecute Method (Project)
+# Application.DDEExecute method (Project)
 
 Performs actions or runs commands in another application through dynamic data exchange (DDE).
 
 
 ## Syntax
 
- _expression_. `DDEExecute`( `_Command_`, `_TimeOut_` )
+_expression_. `DDEExecute`( `_Command_`, `_TimeOut_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

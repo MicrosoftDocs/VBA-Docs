@@ -1,5 +1,5 @@
 ---
-title: Availabilities.Count Property (Project)
+title: Availabilities.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Availabilities.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Availabilities.Count Property (Project)
+# Availabilities.Count property (Project)
 
 Gets the number of items in the  **Availabilities** collection. Read-only **Long**.
 

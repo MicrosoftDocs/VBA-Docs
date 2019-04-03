@@ -1,5 +1,5 @@
 ---
-title: Project.Subprojects Property (Project)
+title: Project.Subprojects property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Subprojects
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Subprojects Property (Project)
+# Project.Subprojects property (Project)
 
 Gets a  **[Subprojects](Project.Subproject.md)** collection representing subprojects in the master project. Read-only **Subprojects**.
 
 
 ## Syntax
 
- _expression_. `Subprojects`
+_expression_. `Subprojects`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

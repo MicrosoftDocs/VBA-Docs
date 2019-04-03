@@ -1,5 +1,5 @@
 ---
-title: Task.RegularWork Property (Project)
+title: Task.RegularWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.RegularWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.RegularWork Property (Project)
+# Task.RegularWork property (Project)
 
 Gets the amount of regular work for the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `RegularWork`
+_expression_. `RegularWork`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

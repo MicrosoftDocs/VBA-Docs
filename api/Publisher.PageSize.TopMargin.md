@@ -1,5 +1,5 @@
 ---
-title: PageSize.TopMargin Property (Publisher)
+title: PageSize.TopMargin property (Publisher)
 keywords: vbapb10.chm8847367
 f1_keywords:
 - vbapb10.chm8847367
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSize.TopMargin Property (Publisher)
+# PageSize.TopMargin property (Publisher)
 
 Specifies the distance between the top edge of the printer sheet and the top edge of the publication page for the blank page size represented by the parent  **PageSize** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **TopMargin**
+ _expression_.**TopMargin**
 
  _expression_ A variable that represents a  **PageSize** object.
 

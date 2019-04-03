@@ -16,9 +16,9 @@ localization_priority: Normal
 
 Creates a new trend line. Returns a Trendline object.
 
-_expression_. `Add`( `_Type_`,  `_Order_`,  `_Period_`,  `_Forward_`,  `_Backward_`,  `_Intercept_`,  `_DisplayEquation_`,  `_DisplayRSquared_`,  `_Name_`)
+_expression_.**Add** (_Type_, _Order_, _Period_, _Forward_, _Backward_, _Intercept_, _DisplayEquation_, _DisplayRSquared_,  _Name_)
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Type**Optional 
  **xlTrendlineType**

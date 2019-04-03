@@ -1,5 +1,5 @@
 ---
-title: Chart.SetElement Method (Project)
+title: Chart.SetElement method (Project)
 ms.prod: project-server
 ms.assetid: ca4acf62-c090-f11c-2816-c5e1a75762fa
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.SetElement Method (Project)
+# Chart.SetElement method (Project)
 Adds the specified element to a chart or to a selected object on a chart.
 
 ## Syntax
 
- _expression_. `SetElement` _(RHS)_
+_expression_. `SetElement` _(RHS)_
 
  _expression_ A variable that represents a 'Chart' object.
 

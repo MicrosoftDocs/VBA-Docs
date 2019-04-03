@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.Enter Event (Outlook)
+title: OlkTimeZoneControl.Enter event (Outlook)
 keywords: vbaol11.chm1000521
 f1_keywords:
 - vbaol11.chm1000521
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.Enter Event (Outlook)
+# OlkTimeZoneControl.Enter event (Outlook)
 
 Occurs when the control receives focus, immediately after the previous control's  **Exit** event.
 
@@ -21,7 +21,7 @@ Occurs when the control receives focus, immediately after the previous control's
 
 _expression_.**Enter**
 
-_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Remarks

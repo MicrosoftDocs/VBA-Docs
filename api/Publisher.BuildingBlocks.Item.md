@@ -1,5 +1,5 @@
 ---
-title: BuildingBlocks.Item Property (Publisher)
+title: BuildingBlocks.Item property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.BuildingBlocks.Item
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlocks.Item Property (Publisher)
+# BuildingBlocks.Item property (Publisher)
 
 Returns the specified  **[BuildingBlock](Publisher.BuildingBlock.md)** object from a **BuildingBlocks** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Item_**)
+ _expression_.**Item**(**_Item_**)
 
  _expression_ A variable that represents a  **BuildingBlocks** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ShowAddNewColumn Method (Project)
+title: Application.ShowAddNewColumn method (Project)
 keywords: vbapj.chm709
 f1_keywords:
 - vbapj.chm709
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowAddNewColumn Method (Project)
+# Application.ShowAddNewColumn method (Project)
 
 Shows or hides the  **Add New Column** column at the right side of the active sheet view.
 
 
 ## Syntax
 
- _expression_. `ShowAddNewColumn`( `_Show_` )
+_expression_. `ShowAddNewColumn`( `_Show_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorUnitIsAuto Property (PowerPoint)
+title: Axis.MajorUnitIsAuto property (PowerPoint)
 keywords: vbapp10.chm682016
 f1_keywords:
 - vbapp10.chm682016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.MajorUnitIsAuto Property (PowerPoint)
+# Axis.MajorUnitIsAuto property (PowerPoint)
 
  **True** if Microsoft Word calculates the major units for the value axis. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MajorUnitIsAuto`
+_expression_. `MajorUnitIsAuto`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

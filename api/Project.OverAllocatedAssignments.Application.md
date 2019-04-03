@@ -1,5 +1,5 @@
 ---
-title: OverAllocatedAssignments.Application Property (Project)
+title: OverAllocatedAssignments.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.OverAllocatedAssignments.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OverAllocatedAssignments.Application Property (Project)
+# OverAllocatedAssignments.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

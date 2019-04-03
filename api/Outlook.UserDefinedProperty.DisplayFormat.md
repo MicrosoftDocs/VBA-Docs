@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperty.DisplayFormat Property (Outlook)
+title: UserDefinedProperty.DisplayFormat property (Outlook)
 keywords: vbaol11.chm8
 f1_keywords:
 - vbaol11.chm8
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperty.DisplayFormat Property (Outlook)
+# UserDefinedProperty.DisplayFormat property (Outlook)
 
 Returns a  **Long** value that represents the display format for the **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `DisplayFormat`
+_expression_. `DisplayFormat`
 
-_expression_ A variable that represents a [UserDefinedProperty](./Outlook.UserDefinedProperty.md) object.
+_expression_ A variable that represents a [UserDefinedProperty](Outlook.UserDefinedProperty.md) object.
 
 
 ## Remarks

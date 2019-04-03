@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.Application Property (Outlook)
+title: OutlookBarPane.Application property (Outlook)
 keywords: vbaol11.chm359
 f1_keywords:
 - vbaol11.chm359
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarPane.Application Property (Outlook)
+# OutlookBarPane.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
+_expression_ A variable that represents an [OutlookBarPane](Outlook.OutlookBarPane.md) object.
 
 
 ## See also

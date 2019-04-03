@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShow.SlideIDs Property (PowerPoint)
+title: NamedSlideShow.SlideIDs property (PowerPoint)
 keywords: vbapp10.chm516005
 f1_keywords:
 - vbapp10.chm516005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShow.SlideIDs Property (PowerPoint)
+# NamedSlideShow.SlideIDs property (PowerPoint)
 
 Returns an array of slide IDs for the specified named slide show. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideIDs`
+_expression_. `SlideIDs`
 
  _expression_ A variable that represents a [NamedSlideShow](./PowerPoint.NamedSlideShow.md) object.
 

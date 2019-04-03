@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.KeepWithNext Property (Publisher)
+title: ParagraphFormat.KeepWithNext property (Publisher)
 keywords: vbapb10.chm5439538
 f1_keywords:
 - vbapb10.chm5439538
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.KeepWithNext Property (Publisher)
+# ParagraphFormat.KeepWithNext property (Publisher)
 
 Sets or returns an  **MsoTriState** that indicates whether the following paragraph will remain in the same text box as the specified paragraph. Read/write.
 
 
 ## Syntax
 
- _expression_. **KeepWithNext**
+ _expression_.**KeepWithNext**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

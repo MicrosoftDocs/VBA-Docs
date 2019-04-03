@@ -1,5 +1,5 @@
 ---
-title: Project.GetWinprojURLs Method (Project)
+title: Project.GetWinprojURLs method (Project)
 keywords: vbapj.chm131098
 f1_keywords:
 - vbapj.chm131098
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.GetWinprojURLs Method (Project)
+# Project.GetWinprojURLs method (Project)
 
 Returns the various URLs associated with the active enterprise project as an XML string.
 
 
 ## Syntax
 
- _expression_. `GetWinprojURLs`
+_expression_. `GetWinprojURLs`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

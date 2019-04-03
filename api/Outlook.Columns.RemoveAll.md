@@ -1,5 +1,5 @@
 ---
-title: Columns.RemoveAll Method (Outlook)
+title: Columns.RemoveAll method (Outlook)
 keywords: vbaol11.chm2743
 f1_keywords:
 - vbaol11.chm2743
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.RemoveAll Method (Outlook)
+# Columns.RemoveAll method (Outlook)
 
 Removes all the columns from the  **[Columns](Outlook.Columns.md)** collection and resets the **[Table](Outlook.Table.md)**.
 
@@ -21,7 +21,7 @@ Removes all the columns from the  **[Columns](Outlook.Columns.md)** collection a
 
 _expression_. `RemoveAll`
 
-_expression_ A variable that represents a [Columns](./Outlook.Columns.md) object.
+_expression_ A variable that represents a [Columns](Outlook.Columns.md) object.
 
 
 ## Remarks

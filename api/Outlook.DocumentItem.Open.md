@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Open Event (Outlook)
+title: DocumentItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Open Event (Outlook)
+# DocumentItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is being opened in an  **[Inspector
 
 _expression_. `Open`( `_Cancel_` )
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.ConvertResult Method (Visio)
+title: Application.ConvertResult method (Visio)
 keywords: vis_sdr.chm10016135
 f1_keywords:
 - vis_sdr.chm10016135
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ConvertResult Method (Visio)
+# Application.ConvertResult method (Visio)
 
 Converts a string or number into an equivalent number in different measurement units.
 
 
 ## Syntax
 
- _expression_. `ConvertResult`( `_StringOrNumber_` , `_UnitsIn_` , `_UnitsOut_` )
+_expression_. `ConvertResult`( `_StringOrNumber_` , `_UnitsIn_` , `_UnitsOut_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

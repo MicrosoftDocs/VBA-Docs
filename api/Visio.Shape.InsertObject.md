@@ -1,5 +1,5 @@
 ---
-title: Shape.InsertObject Method (Visio)
+title: Shape.InsertObject method (Visio)
 keywords: vis_sdr.chm11216370
 f1_keywords:
 - vis_sdr.chm11216370
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.InsertObject Method (Visio)
+# Shape.InsertObject method (Visio)
 
 Adds a new embedded object or ActiveX control to a page, master, or group.
 
 
 ## Syntax
 
- _expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
+_expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

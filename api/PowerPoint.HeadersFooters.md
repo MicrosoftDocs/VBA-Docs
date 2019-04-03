@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters Object (PowerPoint)
+title: HeadersFooters object (PowerPoint)
 keywords: vbapp10.chm542000
 f1_keywords:
 - vbapp10.chm542000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeadersFooters Object (PowerPoint)
+# HeadersFooters object (PowerPoint)
 
 Contains all the  **[HeaderFooter](PowerPoint.HeaderFooter.md)** objects on the specified slide, notes page, handout, or master.
 

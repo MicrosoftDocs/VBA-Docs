@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCallout Method (Publisher)
+title: Shapes.AddCallout method (Publisher)
 keywords: vbapb10.chm2162704
 f1_keywords:
 - vbapb10.chm2162704
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddCallout Method (Publisher)
+# Shapes.AddCallout method (Publisher)
 
 Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless line callout to the specified **[Shapes](Publisher.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddCallout**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+ _expression_.**AddCallout**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

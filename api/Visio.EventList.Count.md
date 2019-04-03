@@ -1,5 +1,5 @@
 ---
-title: EventList.Count Property (Visio)
+title: EventList.Count property (Visio)
 keywords: vis_sdr.chm12713330
 f1_keywords:
 - vis_sdr.chm12713330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# EventList.Count Property (Visio)
+# EventList.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

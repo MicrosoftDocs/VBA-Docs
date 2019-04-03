@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowSeriesName Property (PowerPoint)
+title: DataLabels.ShowSeriesName property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowSeriesName
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.ShowSeriesName Property (PowerPoint)
+# DataLabels.ShowSeriesName property (PowerPoint)
 
  **True** to show the series name for the data labels on a chart. **False** to hide the name. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowSeriesName`
+_expression_. `ShowSeriesName`
 
 _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 

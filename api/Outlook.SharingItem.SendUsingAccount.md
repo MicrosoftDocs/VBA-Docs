@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SendUsingAccount Property (Outlook)
+title: SharingItem.SendUsingAccount property (Outlook)
 keywords: vbaol11.chm703
 f1_keywords:
 - vbaol11.chm703
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SendUsingAccount Property (Outlook)
+# SharingItem.SendUsingAccount property (Outlook)
 
 Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account under which the **[SharingItem](Outlook.SharingItem.md)** is to be sent. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
 _expression_. `SendUsingAccount`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

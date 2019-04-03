@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.FirstName Property (Outlook)
+title: ExchangeUser.FirstName property (Outlook)
 keywords: vbaol11.chm2092
 f1_keywords:
 - vbaol11.chm2092
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.FirstName Property (Outlook)
+# ExchangeUser.FirstName property (Outlook)
 
 Returns a  **String** representing the first name of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the first name of the **[ExchangeUser](Outloo
 
 _expression_. `FirstName`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

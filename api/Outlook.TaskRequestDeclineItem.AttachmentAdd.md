@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.AttachmentAdd Event (Outlook)
+title: TaskRequestDeclineItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.AttachmentAdd Event (Outlook)
+# TaskRequestDeclineItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 _expression_. `AttachmentAdd`( `_Attachment_` )
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

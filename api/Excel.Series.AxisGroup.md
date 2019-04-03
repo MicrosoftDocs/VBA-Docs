@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Series](Excel.Series(object).md)' ob
 
 ## Return value
 
- **[xlAxisGroup](Excel.XlAxisGroup.md)**
+ **[XlAxisGroup](Excel.XlAxisGroup.md)**
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Project.UserControl Property (Project)
+title: Project.UserControl property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.UserControl
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.UserControl Property (Project)
+# Project.UserControl property (Project)
 
  **True** if the user directly opens or creates the project. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UserControl`
+_expression_. `UserControl`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

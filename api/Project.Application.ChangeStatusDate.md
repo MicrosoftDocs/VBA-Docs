@@ -1,5 +1,5 @@
 ---
-title: Application.ChangeStatusDate Method (Project)
+title: Application.ChangeStatusDate method (Project)
 keywords: vbapj.chm2181
 f1_keywords:
 - vbapj.chm2181
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ChangeStatusDate Method (Project)
+# Application.ChangeStatusDate method (Project)
 
 Changes the project status date.
 
 
 ## Syntax
 
- _expression_. `ChangeStatusDate`( `_Date_` )
+_expression_. `ChangeStatusDate`( `_Date_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

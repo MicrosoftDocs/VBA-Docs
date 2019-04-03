@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Save Method (Outlook)
+title: PeopleView.Save method (Outlook)
 keywords: vbaol11.chm3577
 f1_keywords:
 - vbaol11.chm3577
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Save Method (Outlook)
+# PeopleView.Save method (Outlook)
 Saves the view, or saves the changes to a view.
 
 ## Version information
@@ -29,6 +29,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 
 [PeopleView Object](Outlook.peopleview.md)
-[PeopleView Members](./overview/Outlook.md)
+[PeopleView Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

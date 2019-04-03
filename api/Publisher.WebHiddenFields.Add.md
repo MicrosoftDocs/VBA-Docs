@@ -1,5 +1,5 @@
 ---
-title: WebHiddenFields.Add Method (Publisher)
+title: WebHiddenFields.Add method (Publisher)
 keywords: vbapb10.chm3997700
 f1_keywords:
 - vbapb10.chm3997700
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebHiddenFields.Add Method (Publisher)
+# WebHiddenFields.Add method (Publisher)
 
 Adds a new hidden field to a Web form and returns a  **Long** indicating the number of the new field in the **WebHiddenFields** collection. New fields are always placed at the end of the current field list.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Name_**,  **_Value_**)
+ _expression_.**Add**(**_Name_**,  **_Value_**)
 
  _expression_ A variable that represents a  **WebHiddenFields** object.
 

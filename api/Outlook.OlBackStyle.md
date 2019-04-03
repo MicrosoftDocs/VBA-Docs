@@ -1,5 +1,5 @@
 ---
-title: OlBackStyle Enumeration (Outlook)
+title: OlBackStyle enumeration (Outlook)
 keywords: vbaol11.chm1000021
 f1_keywords:
 - vbaol11.chm1000021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlBackStyle Enumeration (Outlook)
+# OlBackStyle enumeration (Outlook)
 
 Specifies how the background of a control is rendered.
 

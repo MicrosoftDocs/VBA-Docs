@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Parent Property (PowerPoint)
+title: HiLoLines.Parent property (PowerPoint)
 keywords: vbapp10.chm706001
 f1_keywords:
 - vbapp10.chm706001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HiLoLines.Parent Property (PowerPoint)
+# HiLoLines.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

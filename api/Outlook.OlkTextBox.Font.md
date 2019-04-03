@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.Font Property (Outlook)
+title: OlkTextBox.Font property (Outlook)
 keywords: vbaol11.chm1000045
 f1_keywords:
 - vbaol11.chm1000045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.Font Property (Outlook)
+# OlkTextBox.Font property (Outlook)
 
 Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **StdFont** that represents the font used to render the text inside t
 
 _expression_.**Font**
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Read Event (Outlook)
+title: MeetingItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Read Event (Outlook)
+# MeetingItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
 _expression_. `Read`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

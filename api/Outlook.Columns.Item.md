@@ -1,5 +1,5 @@
 ---
-title: Columns.Item Method (Outlook)
+title: Columns.Item method (Outlook)
 keywords: vbaol11.chm2740
 f1_keywords:
 - vbaol11.chm2740
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns.Item Method (Outlook)
+# Columns.Item method (Outlook)
 
 Obtains a  **[Column](Outlook.Column.md)** object specified by _Index_ .
 

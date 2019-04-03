@@ -1,5 +1,5 @@
 ---
-title: NoteItem.ItemProperties Property (Outlook)
+title: NoteItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1502
 f1_keywords:
 - vbaol11.chm1502
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.ItemProperties Property (Outlook)
+# NoteItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 _expression_. `ItemProperties`
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## Remarks

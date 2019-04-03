@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListBulletFontSize Property (Publisher)
+title: ParagraphFormat.ListBulletFontSize property (Publisher)
 keywords: vbapb10.chm5439524
 f1_keywords:
 - vbapb10.chm5439524
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListBulletFontSize Property (Publisher)
+# ParagraphFormat.ListBulletFontSize property (Publisher)
 
 Sets or retrieves a  **Single** that represents the list bullet font size from the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **ListBulletFontSize**
+ _expression_.**ListBulletFontSize**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

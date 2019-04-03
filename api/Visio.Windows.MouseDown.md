@@ -1,5 +1,5 @@
 ---
-title: Windows.MouseDown Event (Visio)
+title: Windows.MouseDown event (Visio)
 keywords: vis_sdr.chm11751310
 f1_keywords:
 - vis_sdr.chm11751310
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.MouseDown Event (Visio)
+# Windows.MouseDown event (Visio)
 
 Occurs when a mouse button is clicked.
 

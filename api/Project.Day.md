@@ -1,5 +1,5 @@
 ---
-title: Day Object (Project)
+title: Day object (Project)
 ms.prod: project-server
 api_name:
 - Project.Day
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Day Object (Project)
+# Day object (Project)
 
 Represents a day in a month. The  **Day** object is a member of the **[Days](Project.days.md)** collection.
  

@@ -1,5 +1,5 @@
 ---
-title: PjLegacyFileFormats Enumeration (Project)
+title: PjLegacyFileFormats enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLegacyFileFormats
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLegacyFileFormats Enumeration (Project)
+# PjLegacyFileFormats enumeration (Project)
 
 Constants that specify the action for loading legacy files.
 

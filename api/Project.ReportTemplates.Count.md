@@ -1,5 +1,5 @@
 ---
-title: ReportTemplates.Count Property (Project)
+title: ReportTemplates.Count property (Project)
 keywords: vbapj.chm131121
 f1_keywords:
 - vbapj.chm131121
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportTemplates.Count Property (Project)
+# ReportTemplates.Count property (Project)
 
 Gets the number of items in the  **[ReportTemplates](Project.reporttemplates.md)** collection. Read-only **Long**.
 

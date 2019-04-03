@@ -1,5 +1,5 @@
 ---
-title: VisTypeSelectionTypes Enumeration (Visio)
+title: VisTypeSelectionTypes enumeration (Visio)
 keywords: vis_sdr.chm70450
 f1_keywords:
 - vis_sdr.chm70450
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisTypeSelectionTypes Enumeration (Visio)
+# VisTypeSelectionTypes enumeration (Visio)
 
 Values passed to the  _Data_ argument of the **CreateSelection** method when the _SelType_ argument is **visSelTypeByType**.
 

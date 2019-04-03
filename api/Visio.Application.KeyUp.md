@@ -1,5 +1,5 @@
 ---
-title: Application.KeyUp Event (Visio)
+title: Application.KeyUp event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.KeyUp
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.KeyUp Event (Visio)
+# Application.KeyUp event (Visio)
 
 Occurs when a keyboard key is released.
 

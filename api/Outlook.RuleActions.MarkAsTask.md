@@ -1,5 +1,5 @@
 ---
-title: RuleActions.MarkAsTask Property (Outlook)
+title: RuleActions.MarkAsTask property (Outlook)
 keywords: vbaol11.chm2198
 f1_keywords:
 - vbaol11.chm2198
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.MarkAsTask Property (Outlook)
+# RuleActions.MarkAsTask property (Outlook)
 
 Returns a  **[MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md)** object with **[MarkAsTaskRuleAction.ActionType](Outlook.MarkAsTaskRuleAction.ActionType.md)** being **olRuleActionMarkAsTask**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md)** object wi
 
 _expression_. `MarkAsTask`
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks

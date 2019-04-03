@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotTable.SelectionMode property (Excel)
 
-Returns or sets the PivotTable report structured selection mode. Read/write  **[xlPTSelectionMode](Excel.XlPTSelectionMode.md)**.
+Returns or sets the PivotTable report structured selection mode. Read/write  **[XlPTSelectionMode](Excel.XlPTSelectionMode.md)**.
 
 
 ## Syntax

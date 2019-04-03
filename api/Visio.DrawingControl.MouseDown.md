@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.MouseDown Event (Visio)
+title: DrawingControl.MouseDown event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.MouseDown
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.MouseDown Event (Visio)
+# DrawingControl.MouseDown event (Visio)
 
 Occurs when a mouse button is clicked.
 

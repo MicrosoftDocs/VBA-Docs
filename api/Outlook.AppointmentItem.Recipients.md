@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Recipients Property (Outlook)
+title: AppointmentItem.Recipients property (Outlook)
 keywords: vbaol11.chm890
 f1_keywords:
 - vbaol11.chm890
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Recipients Property (Outlook)
+# AppointmentItem.Recipients property (Outlook)
 
 Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents al
 
 _expression_. `Recipients`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

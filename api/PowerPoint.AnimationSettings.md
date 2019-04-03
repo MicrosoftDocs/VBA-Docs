@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings Object (PowerPoint)
+title: AnimationSettings object (PowerPoint)
 keywords: vbapp10.chm565000
 f1_keywords:
 - vbapp10.chm565000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings Object (PowerPoint)
+# AnimationSettings object (PowerPoint)
 
 Represents the special effects applied to the animation for the specified shape during a slide show.
 
@@ -77,6 +77,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Application Property (PowerPoint)
+title: ColorFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.Application Property (PowerPoint)
+# ColorFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

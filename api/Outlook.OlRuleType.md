@@ -1,5 +1,5 @@
 ---
-title: OlRuleType Enumeration (Outlook)
+title: OlRuleType enumeration (Outlook)
 keywords: vbaol11.chm3112
 f1_keywords:
 - vbaol11.chm3112
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlRuleType Enumeration (Outlook)
+# OlRuleType enumeration (Outlook)
 
 Indicates if a rule is applied to messages that are being sent or received.
 

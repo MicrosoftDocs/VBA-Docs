@@ -1,5 +1,5 @@
 ---
-title: Application.PathSeparator Property (Publisher)
+title: Application.PathSeparator property (Publisher)
 keywords: vbapb10.chm131104
 f1_keywords:
 - vbapb10.chm131104
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PathSeparator Property (Publisher)
+# Application.PathSeparator property (Publisher)
 
 Returns a  **String** that represents the character used to separate folder names. Read-only.
 
 
 ## Syntax
 
- _expression_. **PathSeparator**
+ _expression_.**PathSeparator**
 
  _expression_ A variable that represents a  **Application** object.
 

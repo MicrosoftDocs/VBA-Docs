@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Body Property (Outlook)
+title: StorageItem.Body property (Outlook)
 keywords: vbaol11.chm2146
 f1_keywords:
 - vbaol11.chm2146
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.Body Property (Outlook)
+# StorageItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 
 _expression_. `Body`
 
-_expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
+_expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) object.
 
 
 ## Remarks

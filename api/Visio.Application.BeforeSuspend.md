@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeSuspend Event (Visio)
+title: Application.BeforeSuspend event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeSuspend
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeSuspend Event (Visio)
+# Application.BeforeSuspend event (Visio)
 
 Occurs before the operating system enters a suspended state.
 

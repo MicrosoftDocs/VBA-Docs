@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ManagerName Property (Outlook)
+title: ContactItem.ManagerName property (Outlook)
 keywords: vbaol11.chm1041
 f1_keywords:
 - vbaol11.chm1041
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ManagerName Property (Outlook)
+# ContactItem.ManagerName property (Outlook)
 
 Returns or sets a  **String** representing the manager name for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the manager name for the contact. Rea
 
 _expression_. `ManagerName`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

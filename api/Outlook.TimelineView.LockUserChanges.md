@@ -1,5 +1,5 @@
 ---
-title: TimelineView.LockUserChanges Property (Outlook)
+title: TimelineView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2652
 f1_keywords:
 - vbaol11.chm2652
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.LockUserChanges Property (Outlook)
+# TimelineView.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the view. Read/write.
 
 
 ## Syntax
 
- _expression_. `LockUserChanges`
+_expression_. `LockUserChanges`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks

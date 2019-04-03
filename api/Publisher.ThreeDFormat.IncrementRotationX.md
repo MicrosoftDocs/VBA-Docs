@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationX Method (Publisher)
+title: ThreeDFormat.IncrementRotationX method (Publisher)
 keywords: vbapb10.chm3801104
 f1_keywords:
 - vbapb10.chm3801104
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationX Method (Publisher)
+# ThreeDFormat.IncrementRotationX method (Publisher)
 
 Changes the rotation of the specified shape around the x-axis (horizontal) by the specified number of degrees.
 
 
 ## Syntax
 
- _expression_. **IncrementRotationX**(**_Increment_**)
+ _expression_.**IncrementRotationX**(**_Increment_**)
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

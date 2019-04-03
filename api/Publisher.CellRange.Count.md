@@ -1,5 +1,5 @@
 ---
-title: CellRange.Count Property (Publisher)
+title: CellRange.Count property (Publisher)
 keywords: vbapb10.chm5177347
 f1_keywords:
 - vbapb10.chm5177347
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Count Property (Publisher)
+# CellRange.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **CellRange** object.
 

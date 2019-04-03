@@ -1,5 +1,5 @@
 ---
-title: XlBarShape Enumeration (PowerPoint)
+title: XlBarShape enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlBarShape
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlBarShape Enumeration (PowerPoint)
+# XlBarShape enumeration (PowerPoint)
 
 Specifies the shape used with the 3-D bar or column chart.
 

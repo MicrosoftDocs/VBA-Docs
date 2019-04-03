@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ScaleHeight Method (Publisher)
+title: ShapeRange.ScaleHeight method (Publisher)
 keywords: vbapb10.chm2293797
 f1_keywords:
 - vbapb10.chm2293797
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ScaleHeight Method (Publisher)
+# ShapeRange.ScaleHeight method (Publisher)
 
 Scales the height of the shape by a specified factor. For pictures and OLE objects, you can indicate whether you want to scale the shape relative to the original size or relative to the current size.
 
 
 ## Syntax
 
- _expression_. **ScaleHeight**(**_Factor_**,  **_RelativeToOriginalSize_**,  **_fScale_**)
+ _expression_.**ScaleHeight**(**_Factor_**,  **_RelativeToOriginalSize_**,  **_fScale_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

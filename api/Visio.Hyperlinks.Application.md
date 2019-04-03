@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Application Property (Visio)
+title: Hyperlinks.Application property (Visio)
 keywords: vis_sdr.chm15613090
 f1_keywords:
 - vis_sdr.chm15613090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Application Property (Visio)
+# Hyperlinks.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

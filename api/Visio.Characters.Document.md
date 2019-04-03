@@ -1,5 +1,5 @@
 ---
-title: Characters.Document Property (Visio)
+title: Characters.Document property (Visio)
 keywords: vis_sdr.chm10213430
 f1_keywords:
 - vis_sdr.chm10213430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.Document Property (Visio)
+# Characters.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

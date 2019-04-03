@@ -1,5 +1,5 @@
 ---
-title: Account.DeliveryStore Property (Outlook)
+title: Account.DeliveryStore property (Outlook)
 keywords: vbaol11.chm3423
 f1_keywords:
 - vbaol11.chm3423
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.DeliveryStore Property (Outlook)
+# Account.DeliveryStore property (Outlook)
 
 Returns a  **[Store](Outlook.Store.md)** object that represents the default delivery store for the account. Read-only.
 

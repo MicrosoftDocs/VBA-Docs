@@ -1,5 +1,5 @@
 ---
-title: Shape.ParentGroupShape Property (Publisher)
+title: Shape.ParentGroupShape property (Publisher)
 keywords: vbapb10.chm2228338
 f1_keywords:
 - vbapb10.chm2228338
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.ParentGroupShape Property (Publisher)
+# Shape.ParentGroupShape property (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents the common parent shape of a child shape or a range of child shapes.
 
 
 ## Syntax
 
- _expression_. **ParentGroupShape**
+ _expression_.**ParentGroupShape**
 
  _expression_ A variable that represents a  **Shape** object.
 

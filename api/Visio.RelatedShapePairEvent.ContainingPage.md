@@ -1,5 +1,5 @@
 ---
-title: RelatedShapePairEvent.ContainingPage Property (Visio)
+title: RelatedShapePairEvent.ContainingPage property (Visio)
 keywords: vis_sdr.chm17713305
 f1_keywords:
 - vis_sdr.chm17713305
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# RelatedShapePairEvent.ContainingPage Property (Visio)
+# RelatedShapePairEvent.ContainingPage property (Visio)
 
 Returns the  **[Page](Visio.Page.md)** object that is associated with the **RelatedShapePairEvent** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingPage`
+_expression_. `ContainingPage`
 
  _expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
 

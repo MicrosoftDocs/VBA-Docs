@@ -1,5 +1,5 @@
 ---
-title: Application.DistributeTableColumns Method (Project)
+title: Application.DistributeTableColumns method (Project)
 keywords: vbapj.chm1518
 f1_keywords:
 - vbapj.chm1518
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.DistributeTableColumns Method (Project)
+# Application.DistributeTableColumns method (Project)
 Distributes the columns of a selected table in a report, so that all columns are the same width.
 
 ## Syntax
 
- _expression_. `DistributeTableColumns`
+_expression_. `DistributeTableColumns`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

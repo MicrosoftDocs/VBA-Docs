@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.TimeRefreshed Property (Visio)
+title: DataRecordset.TimeRefreshed property (Visio)
 keywords: vis_sdr.chm16460335
 f1_keywords:
 - vis_sdr.chm16460335
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.TimeRefreshed Property (Visio)
+# DataRecordset.TimeRefreshed property (Visio)
 
 Returns the date and time the data recordset was last refreshed. Read-only.
 
@@ -22,7 +22,7 @@ Returns the date and time the data recordset was last refreshed. Read-only.
 
 ## Syntax
 
- _expression_. `TimeRefreshed`
+_expression_. `TimeRefreshed`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.PropertyAccessor Property (Outlook)
+title: PostItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1569
 f1_keywords:
 - vbaol11.chm1569
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.PropertyAccessor Property (Outlook)
+# PostItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[PostItem](Outlook.PostItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

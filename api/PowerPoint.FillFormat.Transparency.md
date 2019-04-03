@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Transparency Property (PowerPoint)
+title: FillFormat.Transparency property (PowerPoint)
 keywords: vbapp10.chm552022
 f1_keywords:
 - vbapp10.chm552022
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Transparency Property (PowerPoint)
+# FillFormat.Transparency property (PowerPoint)
 
 Returns or sets the degree of transparency of the specified fill, shadow, or line as a value between 0.0 (opaque) and 1.0 (clear). Read/write.
 
 
 ## Syntax
 
- _expression_. `Transparency`
+_expression_. `Transparency`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -36,7 +36,7 @@ The value of this property affects the appearance of solid-colored fills and lin
 
 ## Example
 
-This example sets the shadow for shape three on  `myDocument` to semitransparent red. If the shape doesn't already have a shadow, this example adds one to it.
+This example sets the shadow for shape three on  _myDocument_ to semitransparent red. If the shape doesn't already have a shadow, this example adds one to it.
 
 
 ```vb

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `UseFields`
+_expression_. `UseFields`
 
  _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 

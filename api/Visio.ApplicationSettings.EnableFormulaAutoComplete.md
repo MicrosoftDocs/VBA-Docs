@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.EnableFormulaAutoComplete Property (Visio)
+title: ApplicationSettings.EnableFormulaAutoComplete property (Visio)
 keywords: vis_sdr.chm16262505
 f1_keywords:
 - vis_sdr.chm16262505
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.EnableFormulaAutoComplete Property (Visio)
+# ApplicationSettings.EnableFormulaAutoComplete property (Visio)
 
 Indicates whether ShapeSheet formula AutoComplete is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `EnableFormulaAutoComplete`
+_expression_. `EnableFormulaAutoComplete`
 
  _expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

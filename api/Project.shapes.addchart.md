@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddChart Method (Project)
+title: Shapes.AddChart method (Project)
 ms.prod: project-server
 ms.assetid: d404a9de-c1aa-c2a0-bf85-dc1f1735cf3c
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddChart Method (Project)
+# Shapes.AddChart method (Project)
 Creates a chart at the specified location on the active report. Returns a  **Shape** object that represents the chart.
 
 ## Syntax
 
- _expression_. `AddChart` _(Style,_ _Type,_ _Left,_ _Top,_ _Width,_ _Height,_ _NewLayout)_
+_expression_. `AddChart` _(Style,_ _Type,_ _Left,_ _Top,_ _Width,_ _Height,_ _NewLayout)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

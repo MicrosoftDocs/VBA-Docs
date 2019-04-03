@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.View Property (PowerPoint)
+title: DocumentWindow.View property (PowerPoint)
 keywords: vbapp10.chm511004
 f1_keywords:
 - vbapp10.chm511004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.View Property (PowerPoint)
+# DocumentWindow.View property (PowerPoint)
 
 Returns a  **[View](PowerPoint.View.md)** object that represents the view in the specified document window. Read-only.
 
 
 ## Syntax
 
- _expression_. `View`
+_expression_. `View`
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

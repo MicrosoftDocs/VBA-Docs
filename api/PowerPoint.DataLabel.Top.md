@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Top Property (PowerPoint)
+title: DataLabel.Top property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Top
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel.Top Property (PowerPoint)
+# DataLabel.Top property (PowerPoint)
 
 Returns or sets the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read/write  **Double**.
 

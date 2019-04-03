@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.AttachmentAdd Event (Outlook)
+title: TaskRequestUpdateItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.AttachmentAdd
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.AttachmentAdd Event (Outlook)
+# TaskRequestUpdateItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 
 
 ## Syntax
 
- _expression_. `AttachmentAdd`( `_Attachment_` )
+_expression_. `AttachmentAdd`( `_Attachment_` )
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Class Property (Outlook)
+title: DocumentItem.Class property (Outlook)
 keywords: vbaol11.chm1180
 f1_keywords:
 - vbaol11.chm1180
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Class Property (Outlook)
+# DocumentItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## See also

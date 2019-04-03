@@ -1,5 +1,5 @@
 ---
-title: Project.CurrencyDigits Property (Project)
+title: Project.CurrencyDigits property (Project)
 keywords: vbapj.chm131696
 f1_keywords:
 - vbapj.chm131696
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrencyDigits Property (Project)
+# Project.CurrencyDigits property (Project)
 
 Sets or returns the number of digits following the decimal separator character in currency values. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `CurrencyDigits`
+_expression_. `CurrencyDigits`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

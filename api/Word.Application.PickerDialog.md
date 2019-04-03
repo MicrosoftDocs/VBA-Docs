@@ -19,7 +19,7 @@ Returns a [PickerDialog](Office.PickerDialog.md) object that provides the functi
 
 ## Syntax
 
- _expression_. `PickerDialog`
+_expression_. `PickerDialog`
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 

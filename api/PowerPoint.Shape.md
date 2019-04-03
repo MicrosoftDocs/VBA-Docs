@@ -1,5 +1,5 @@
 ---
-title: Shape Object (PowerPoint)
+title: Shape object (PowerPoint)
 keywords: vbapp10.chm547000
 f1_keywords:
 - vbapp10.chm547000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape Object (PowerPoint)
+# Shape object (PowerPoint)
 
 Represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 
@@ -78,7 +78,7 @@ With myDocument.Shapes.AddShape(Type:=msoShapeRectangle, _
 End With
 ```
 
-To add a shape to a slide and return a  **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection:[AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](./overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), [AddTitle](./PowerPoint.Shapes.AddTitle.md).
+To add a shape to a slide and return a  **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection:[AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), [AddTitle](./PowerPoint.Shapes.AddTitle.md).
 
 Use  **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape within the selection. The following example sets the fill for the first shape in the selection in the active window, assuming that there's at least one shape in the selection.
 
@@ -225,6 +225,6 @@ Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.Shap
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

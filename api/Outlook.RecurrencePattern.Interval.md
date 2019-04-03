@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Interval Property (Outlook)
+title: RecurrencePattern.Interval property (Outlook)
 keywords: vbaol11.chm279
 f1_keywords:
 - vbaol11.chm279
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Interval Property (Outlook)
+# RecurrencePattern.Interval property (Outlook)
 
 Returns or sets a  **Long** specifying the number of units of a given recurrence type between occurrences. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** specifying the number of units of a given recurrence
 
 _expression_. `Interval`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

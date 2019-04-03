@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.RecoloredPictureColor Property (Publisher)
+title: PictureFormat.RecoloredPictureColor property (Publisher)
 keywords: vbapb10.chm3604790
 f1_keywords:
 - vbapb10.chm3604790
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.RecoloredPictureColor Property (Publisher)
+# PictureFormat.RecoloredPictureColor property (Publisher)
 
 Returns the color that has been applied to the image represented by the parent  **PictureFormat** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **RecoloredPictureColor**
+ _expression_.**RecoloredPictureColor**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

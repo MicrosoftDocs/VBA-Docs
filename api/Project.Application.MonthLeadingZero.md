@@ -1,5 +1,5 @@
 ---
-title: Application.MonthLeadingZero Property (Project)
+title: Application.MonthLeadingZero property (Project)
 keywords: vbapj.chm132415
 f1_keywords:
 - vbapj.chm132415
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MonthLeadingZero Property (Project)
+# Application.MonthLeadingZero property (Project)
 
  **True** if Project displays zeros before single-digit months in dates. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MonthLeadingZero`
+_expression_. `MonthLeadingZero`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

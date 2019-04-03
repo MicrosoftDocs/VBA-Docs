@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayWizardScheduling Property (Project)
+title: Application.DisplayWizardScheduling property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayWizardScheduling
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DisplayWizardScheduling Property (Project)
+# Application.DisplayWizardScheduling property (Project)
 
  **True** if the **Planning Wizard** displays messages about scheduling problems. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayWizardScheduling`
+_expression_. `DisplayWizardScheduling`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

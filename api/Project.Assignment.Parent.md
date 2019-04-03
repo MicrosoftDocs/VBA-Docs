@@ -1,5 +1,5 @@
 ---
-title: Assignment.Parent Property (Project)
+title: Assignment.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Parent Property (Project)
+# Assignment.Parent property (Project)
 
 Gets the parent of the  **Assignment** object. Read-only **Object**.
 

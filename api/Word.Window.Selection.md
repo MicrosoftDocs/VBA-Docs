@@ -19,7 +19,7 @@ Returns the  **Selection** object that represents a selected range or the insert
 
 ## Syntax
 
- _expression_. `Selection`
+_expression_.**Selection**
 
  _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 

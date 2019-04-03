@@ -1,5 +1,5 @@
 ---
-title: PjCriteriaList Enumeration (Project)
+title: PjCriteriaList enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCriteriaList
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCriteriaList Enumeration (Project)
+# PjCriteriaList enumeration (Project)
 
 Contains constants that specify the type of task where a custom field indicator is to be added or deleted.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Write Event (Outlook)
+title: SharingItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Write Event (Outlook)
+# SharingItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.SharingItem.Save.md)** or **[SaveAs](Outlook.SharingItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 _expression_. `Write`( `_Cancel_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

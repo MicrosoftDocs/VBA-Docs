@@ -1,5 +1,5 @@
 ---
-title: Validation.ShowIgnoredIssues Property (Visio)
+title: Validation.ShowIgnoredIssues property (Visio)
 keywords: vis_sdr.chm18062710
 f1_keywords:
 - vis_sdr.chm18062710
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Validation.ShowIgnoredIssues Property (Visio)
+# Validation.ShowIgnoredIssues property (Visio)
 
 Determines whether ignored validation issues appear in the  **Issues** window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowIgnoredIssues`
+_expression_. `ShowIgnoredIssues`
 
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 

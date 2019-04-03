@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.StartInStartTimeZone Property (Outlook)
+title: AppointmentItem.StartInStartTimeZone property (Outlook)
 keywords: vbaol11.chm3273
 f1_keywords:
 - vbaol11.chm3273
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.StartInStartTimeZone Property (Outlook)
+# AppointmentItem.StartInStartTimeZone property (Outlook)
 
 Returns or sets a  **Date** value that represents the start date and time of the appointment expressed in the **[AppointmentItem.StartTimeZone](Outlook.AppointmentItem.StartTimeZone.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the start date and time of the
 
 _expression_. `StartInStartTimeZone`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

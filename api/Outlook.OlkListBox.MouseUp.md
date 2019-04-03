@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.MouseUp Event (Outlook)
+title: OlkListBox.MouseUp event (Outlook)
 keywords: vbaol11.chm1000284
 f1_keywords:
 - vbaol11.chm1000284
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.MouseUp Event (Outlook)
+# OlkListBox.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 
@@ -21,7 +21,7 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Parameters

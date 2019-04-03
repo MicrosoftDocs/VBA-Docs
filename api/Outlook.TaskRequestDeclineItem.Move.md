@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Move Method (Outlook)
+title: TaskRequestDeclineItem.Move method (Outlook)
 keywords: vbaol11.chm1853
 f1_keywords:
 - vbaol11.chm1853
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Move Method (Outlook)
+# TaskRequestDeclineItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 
@@ -21,7 +21,7 @@ Moves a Microsoft Outlook item to a new folder.
 
 _expression_. `Move`( `_DestFldr_` )
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

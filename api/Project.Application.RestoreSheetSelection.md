@@ -1,5 +1,5 @@
 ---
-title: Application.RestoreSheetSelection Method (Project)
+title: Application.RestoreSheetSelection method (Project)
 keywords: vbapj.chm2096
 f1_keywords:
 - vbapj.chm2096
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.RestoreSheetSelection Method (Project)
+# Application.RestoreSheetSelection method (Project)
 
 Restores saved row and column information of a selected sheet view.
 
 
 ## Syntax
 
- _expression_. `RestoreSheetSelection`
+_expression_. `RestoreSheetSelection`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

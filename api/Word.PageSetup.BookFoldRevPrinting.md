@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `BookFoldRevPrinting`
+_expression_. `BookFoldRevPrinting`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 

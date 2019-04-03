@@ -1,5 +1,5 @@
 ---
-title: Trendline.DisplayRSquared Property (PowerPoint)
+title: Trendline.DisplayRSquared property (PowerPoint)
 keywords: vbapp10.chm65725
 f1_keywords:
 - vbapp10.chm65725
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Trendline.DisplayRSquared Property (PowerPoint)
+# Trendline.DisplayRSquared property (PowerPoint)
 
  **True** if the R-squared value of the trendline is displayed on the chart (in the same data label as the equation). Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayRSquared`
+_expression_. `DisplayRSquared`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

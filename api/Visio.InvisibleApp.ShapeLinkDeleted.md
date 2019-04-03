@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShapeLinkDeleted Event (Visio)
+title: InvisibleApp.ShapeLinkDeleted event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeLinkDeleted
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShapeLinkDeleted Event (Visio)
+# InvisibleApp.ShapeLinkDeleted event (Visio)
 
 Occurs after the link between a shape and a data row is deleted.
 

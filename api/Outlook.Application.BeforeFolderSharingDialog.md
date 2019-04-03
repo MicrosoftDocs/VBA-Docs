@@ -1,5 +1,5 @@
 ---
-title: Application.BeforeFolderSharingDialog Event (Outlook)
+title: Application.BeforeFolderSharingDialog event (Outlook)
 keywords: vbaol11.chm447
 f1_keywords:
 - vbaol11.chm447
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforeFolderSharingDialog Event (Outlook)
+# Application.BeforeFolderSharingDialog event (Outlook)
 
 Occurs before the  **Sharing** dialog box is displayed for a selected **[Folder](Outlook.Folder.md)** object.
 
@@ -21,7 +21,7 @@ Occurs before the  **Sharing** dialog box is displayed for a selected **[Folder]
 
 _expression_. `BeforeFolderSharingDialog`( `_FolderToShare_` , `_Cancel_` )
 
- _expression_ An expression that returns a [Application](./Outlook.Application.md) object.
+ _expression_ An expression that returns a [Application](Outlook.Application.md) object.
 
 
 ## Parameters

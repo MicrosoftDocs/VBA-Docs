@@ -1,5 +1,5 @@
 ---
-title: ShapeRange Object (PowerPoint)
+title: ShapeRange object (PowerPoint)
 keywords: vbapp10.chm548000
 f1_keywords:
 - vbapp10.chm548000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange Object (PowerPoint)
+# ShapeRange object (PowerPoint)
 
 Represents a shape range, which is a set of shapes on a document. A shape range can contain as few as a single shape or as many as all the shapes on the document.
 
@@ -33,7 +33,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Shapes.Range** (index), where index is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on `myDocument`.
+Use  **Shapes.Range** (index), where index is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on _myDocument_.
 
 
 ```vb
@@ -44,7 +44,7 @@ myDocument.Shapes.Range(Array(1, 3)).Fill _
     .Patterned msoPatternHorizontalBrick
 ```
 
-The following example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  `myDocument`.
+The following example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  _myDocument_.
 
 
 
@@ -191,6 +191,6 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.Change Event (Outlook)
+title: OlkDateControl.Change event (Outlook)
 keywords: vbaol11.chm1000372
 f1_keywords:
 - vbaol11.chm1000372
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.Change Event (Outlook)
+# OlkDateControl.Change event (Outlook)
 
 Occurs when the  **[Value](Outlook.OlkDateControl.Value.md)** property changes.
 
@@ -21,7 +21,7 @@ Occurs when the  **[Value](Outlook.OlkDateControl.Value.md)** property changes.
 
 _expression_. `Change`
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## See also

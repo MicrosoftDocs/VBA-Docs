@@ -19,7 +19,7 @@ Returns or sets the length of the arrowhead at the beginning of the specified li
 
 ## Syntax
 
- _expression_. `BeginArrowheadLength`
+_expression_. `BeginArrowheadLength`
 
  _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 

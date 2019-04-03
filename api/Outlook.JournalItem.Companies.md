@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Companies Property (Outlook)
+title: JournalItem.Companies property (Outlook)
 keywords: vbaol11.chm1236
 f1_keywords:
 - vbaol11.chm1236
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Companies Property (Outlook)
+# JournalItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the names of the companies associated
 
 _expression_. `Companies`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

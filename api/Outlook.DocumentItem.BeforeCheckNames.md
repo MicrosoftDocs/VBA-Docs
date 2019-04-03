@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.BeforeCheckNames Event (Outlook)
+title: DocumentItem.BeforeCheckNames event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeCheckNames
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.BeforeCheckNames Event (Outlook)
+# DocumentItem.BeforeCheckNames event (Outlook)
 
 Occurs just before Microsoft Outlook starts resolving names in the recipient collection for an item (which is an instance of the parent object).
 
@@ -18,7 +18,7 @@ Occurs just before Microsoft Outlook starts resolving names in the recipient col
 
 _expression_. `BeforeCheckNames`( `_Cancel_` )
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Parameters

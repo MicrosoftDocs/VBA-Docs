@@ -1,5 +1,5 @@
 ---
-title: TaskItem.TotalWork Property (Outlook)
+title: TaskItem.TotalWork property (Outlook)
 keywords: vbaol11.chm1748
 f1_keywords:
 - vbaol11.chm1748
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.TotalWork Property (Outlook)
+# TaskItem.TotalWork property (Outlook)
 
 Returns or sets a  **Long** indicating the total work for the task. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the total work for the task. Read/write.
 
 _expression_. `TotalWork`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

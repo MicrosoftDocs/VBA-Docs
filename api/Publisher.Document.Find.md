@@ -1,5 +1,5 @@
 ---
-title: Document.Find Property (Publisher)
+title: Document.Find property (Publisher)
 keywords: vbapb10.chm196725
 f1_keywords:
 - vbapb10.chm196725
@@ -12,11 +12,11 @@ localization_priority: Normal
 ---
 
 
-# Document.Find Property (Publisher)
+# Document.Find property (Publisher)
 
 ## Syntax
 
- _expression_. **Find**
+ _expression_.**Find**
 
  _expression_ A variable that represents a  **Document** object.
 

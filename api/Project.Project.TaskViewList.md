@@ -1,5 +1,5 @@
 ---
-title: Project.TaskViewList Property (Project)
+title: Project.TaskViewList property (Project)
 keywords: vbapj.chm132716
 f1_keywords:
 - vbapj.chm132716
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.TaskViewList Property (Project)
+# Project.TaskViewList property (Project)
 
 Gets a  **[List](Project.List.md)** object representing all task views in the project. Read-only **List**.
 
 
 ## Syntax
 
- _expression_. `TaskViewList`
+_expression_. `TaskViewList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

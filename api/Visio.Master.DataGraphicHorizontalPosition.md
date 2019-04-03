@@ -1,5 +1,5 @@
 ---
-title: Master.DataGraphicHorizontalPosition Property (Visio)
+title: Master.DataGraphicHorizontalPosition property (Visio)
 keywords: vis_sdr.chm10760125
 f1_keywords:
 - vis_sdr.chm10760125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.DataGraphicHorizontalPosition Property (Visio)
+# Master.DataGraphicHorizontalPosition property (Visio)
 
 Gets or sets the default horizontal callout position for members of the  **GraphicItems** collection of the **Master** object of type **visTypeDataGraphic**. Read/write.
 
@@ -22,7 +22,7 @@ Gets or sets the default horizontal callout position for members of the  **Graph
 
 ## Syntax
 
- _expression_. `DataGraphicHorizontalPosition`
+_expression_. `DataGraphicHorizontalPosition`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 

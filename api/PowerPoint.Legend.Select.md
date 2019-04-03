@@ -1,5 +1,5 @@
 ---
-title: Legend.Select Method (PowerPoint)
+title: Legend.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Legend.Select Method (PowerPoint)
+# Legend.Select method (PowerPoint)
 
 Selects the object.
 

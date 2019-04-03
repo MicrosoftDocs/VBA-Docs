@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes.Add Method (PowerPoint)
+title: ColorSchemes.Add method (PowerPoint)
 keywords: vbapp10.chm536004
 f1_keywords:
 - vbapp10.chm536004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorSchemes.Add Method (PowerPoint)
+# ColorSchemes.Add method (PowerPoint)
 
 Adds a color scheme to the collection of available schemes. Returns a  **[ColorScheme](PowerPoint.ColorScheme.md)** object that represents the added color scheme.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Scheme_` )
+ _expression_.**Add**( `_Scheme_` )
 
 _expression_ A variable that represents a [ColorSchemes](./PowerPoint.ColorSchemes.md) object.
 

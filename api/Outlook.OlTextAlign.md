@@ -1,5 +1,5 @@
 ---
-title: OlTextAlign Enumeration (Outlook)
+title: OlTextAlign enumeration (Outlook)
 keywords: vbaol11.chm1000028
 f1_keywords:
 - vbaol11.chm1000028
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTextAlign Enumeration (Outlook)
+# OlTextAlign enumeration (Outlook)
 
 Specifies the alignment of text in a control.
 

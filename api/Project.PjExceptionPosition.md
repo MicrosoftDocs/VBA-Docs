@@ -1,5 +1,5 @@
 ---
-title: PjExceptionPosition Enumeration (Project)
+title: PjExceptionPosition enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjExceptionPosition
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjExceptionPosition Enumeration (Project)
+# PjExceptionPosition enumeration (Project)
 
 Contains constants that specify the week in a month in which an exception occurs.
 

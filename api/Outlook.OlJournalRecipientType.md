@@ -1,5 +1,5 @@
 ---
-title: OlJournalRecipientType Enumeration (Outlook)
+title: OlJournalRecipientType enumeration (Outlook)
 keywords: vbaol11.chm3065
 f1_keywords:
 - vbaol11.chm3065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlJournalRecipientType Enumeration (Outlook)
+# OlJournalRecipientType enumeration (Outlook)
 
 Indicates the recipient type for Journal items.
 

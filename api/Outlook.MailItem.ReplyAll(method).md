@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReplyAll Method (Outlook)
+title: MailItem.ReplyAll method (Outlook)
 keywords: vbaol11.chm1368
 f1_keywords:
 - vbaol11.chm1368
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ReplyAll Method (Outlook)
+# MailItem.ReplyAll method (Outlook)
 
 Creates a reply to all original recipients from the original message.
 
@@ -21,7 +21,7 @@ Creates a reply to all original recipients from the original message.
 
 _expression_. `ReplyAll`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Return value

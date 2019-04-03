@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.WindowChanged Event (Visio)
+title: DrawingControl.WindowChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.WindowChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.WindowChanged Event (Visio)
+# DrawingControl.WindowChanged event (Visio)
 
 Occurs when the size or position of a window changes.
 

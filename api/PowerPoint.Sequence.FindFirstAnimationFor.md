@@ -1,5 +1,5 @@
 ---
-title: Sequence.FindFirstAnimationFor Method (PowerPoint)
+title: Sequence.FindFirstAnimationFor method (PowerPoint)
 keywords: vbapp10.chm651006
 f1_keywords:
 - vbapp10.chm651006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Sequence.FindFirstAnimationFor Method (PowerPoint)
+# Sequence.FindFirstAnimationFor method (PowerPoint)
 
 Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first animation for a given shape.
 
 
 ## Syntax
 
- _expression_. `FindFirstAnimationFor`( `_Shape_` )
+_expression_. `FindFirstAnimationFor`( `_Shape_` )
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 

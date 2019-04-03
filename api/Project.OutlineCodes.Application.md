@@ -1,5 +1,5 @@
 ---
-title: OutlineCodes.Application Property (Project)
+title: OutlineCodes.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCodes.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCodes.Application Property (Project)
+# OutlineCodes.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

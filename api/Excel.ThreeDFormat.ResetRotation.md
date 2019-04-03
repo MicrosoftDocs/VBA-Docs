@@ -21,7 +21,7 @@ Resets the extrusion rotation around the x-axis and the y-axis to 0 (zero) so th
 
 _expression_. `ResetRotation`
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ To set the extrusion rotation around the x-axis and the y-axis to anything other
 
 ## Example
 
-This example resets the rotation around the x-axis and the y-axis to 0 (zero) for the extrusion of shape one on  `myDocument`.
+This example resets the rotation around the x-axis and the y-axis to 0 (zero) for the extrusion of shape one on  _myDocument_.
 
 
 ```vb

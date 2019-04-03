@@ -1,5 +1,5 @@
 ---
-title: Effect.DisplayName Property (PowerPoint)
+title: Effect.DisplayName property (PowerPoint)
 keywords: vbapp10.chm652015
 f1_keywords:
 - vbapp10.chm652015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Effect.DisplayName Property (PowerPoint)
+# Effect.DisplayName property (PowerPoint)
 
 Returns the name of an animation effect. Read-only.
 
 
 ## Syntax
 
- _expression_. `DisplayName`
+_expression_. `DisplayName`
 
 _expression_ A variable that represents a [Effect](./PowerPoint.Effect.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange.Text Property (Publisher)
+title: TextRange.Text property (Publisher)
 keywords: vbapb10.chm5308416
 f1_keywords:
 - vbapb10.chm5308416
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Text Property (Publisher)
+# TextRange.Text property (Publisher)
 
 Returns or sets a  **String** that represents the text in a text range or WordArt shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Text**
+ _expression_.**Text**
 
  _expression_ A variable that represents a  **TextRange** object.
 

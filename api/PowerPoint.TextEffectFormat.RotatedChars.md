@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.RotatedChars Property (PowerPoint)
+title: TextEffectFormat.RotatedChars property (PowerPoint)
 keywords: vbapp10.chm556012
 f1_keywords:
 - vbapp10.chm556012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.RotatedChars Property (PowerPoint)
+# TextEffectFormat.RotatedChars property (PowerPoint)
 
 Determines whether characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `RotatedChars`
+_expression_. `RotatedChars`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
@@ -46,7 +46,7 @@ The value of the  **RotatedChars** property can be one of these **MsoTriState** 
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  `myDocument` and rotates the characters 90 degrees counterclockwise.
+This example adds WordArt that contains the text "Test" to  _myDocument_ and rotates the characters 90 degrees counterclockwise.
 
 
 ```vb

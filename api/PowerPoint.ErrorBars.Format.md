@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Format Property (PowerPoint)
+title: ErrorBars.Format property (PowerPoint)
 keywords: vbapp10.chm702001
 f1_keywords:
 - vbapp10.chm702001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars.Format Property (PowerPoint)
+# ErrorBars.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
 _expression_ A variable that represents an '[ErrorBars](PowerPoint.ErrorBars.md)' object.
 

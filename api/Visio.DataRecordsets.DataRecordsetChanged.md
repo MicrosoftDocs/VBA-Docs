@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.DataRecordsetChanged Event (Visio)
+title: DataRecordsets.DataRecordsetChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DataRecordsets.DataRecordsetChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.DataRecordsetChanged Event (Visio)
+# DataRecordsets.DataRecordsetChanged event (Visio)
 
 Occurs when a data recordset changes as a result of being refreshed.
 

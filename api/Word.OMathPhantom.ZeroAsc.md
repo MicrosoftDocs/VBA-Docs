@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether the ascent of the phantom
 
 ## Syntax
 
- _expression_. `ZeroAsc`
+_expression_. `ZeroAsc`
 
  _expression_ An expression that returns an '[OMathPhantom](Word.OMathPhantom.md)' object.
 

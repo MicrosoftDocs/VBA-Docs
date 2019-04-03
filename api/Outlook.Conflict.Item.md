@@ -1,5 +1,5 @@
 ---
-title: Conflict.Item Property (Outlook)
+title: Conflict.Item property (Outlook)
 keywords: vbaol11.chm415
 f1_keywords:
 - vbaol11.chm415
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflict.Item Property (Outlook)
+# Conflict.Item property (Outlook)
 
 Returns an  **Object** corresponding to the specified Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **Object** corresponding to the specified Outlook item. Read-only.
 
 _expression_. `Item`
 
-_expression_ A variable that represents a [Conflict](./Outlook.Conflict.md) object.
+_expression_ A variable that represents a [Conflict](Outlook.Conflict.md) object.
 
 
 ## See also

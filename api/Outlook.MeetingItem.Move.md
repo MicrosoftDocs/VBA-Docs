@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Move Method (Outlook)
+title: MeetingItem.Move method (Outlook)
 keywords: vbaol11.chm1432
 f1_keywords:
 - vbaol11.chm1432
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Move Method (Outlook)
+# MeetingItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 
@@ -21,7 +21,7 @@ Moves a Microsoft Outlook item to a new folder.
 
 _expression_. `Move`( `_DestFldr_` )
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.DeferRelationshipRecalc Property (Visio)
+title: Application.DeferRelationshipRecalc property (Visio)
 keywords: vis_sdr.chm10062425
 f1_keywords:
 - vis_sdr.chm10062425
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DeferRelationshipRecalc Property (Visio)
+# Application.DeferRelationshipRecalc property (Visio)
 
 Determines whether Microsoft Visio defers recalculating shape sizes and relationships when a member of the relationship pair is moved or resized. Read/write.
 
 
 ## Syntax
 
- _expression_. `DeferRelationshipRecalc`
+_expression_. `DeferRelationshipRecalc`
 
  _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 

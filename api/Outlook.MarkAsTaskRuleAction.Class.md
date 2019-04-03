@@ -1,5 +1,5 @@
 ---
-title: MarkAsTaskRuleAction.Class Property (Outlook)
+title: MarkAsTaskRuleAction.Class property (Outlook)
 keywords: vbaol11.chm2280
 f1_keywords:
 - vbaol11.chm2280
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkAsTaskRuleAction.Class Property (Outlook)
+# MarkAsTaskRuleAction.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkAsTaskRuleAction.md) object.
+_expression_ A variable that represents a [MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md) object.
 
 
 ## See also

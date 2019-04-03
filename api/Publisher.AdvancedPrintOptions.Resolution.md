@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.Resolution Property (Publisher)
+title: AdvancedPrintOptions.Resolution property (Publisher)
 keywords: vbapb10.chm7077910
 f1_keywords:
 - vbapb10.chm7077910
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.Resolution Property (Publisher)
+# AdvancedPrintOptions.Resolution property (Publisher)
 
 Returns or sets a  **String** that represents the resolution, in dots per inch (dpi), at which to print the specified publication. Default is dependent on the printer driver, but is usually "(default)". Read/write.
 
 
 ## Syntax
 
- _expression_. **Resolution()**
+ _expression_.**Resolution()**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 

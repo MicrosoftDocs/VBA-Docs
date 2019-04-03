@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceSharingPoolRefresh Method (Project)
+title: Application.ResourceSharingPoolRefresh method (Project)
 keywords: vbapj.chm249
 f1_keywords:
 - vbapj.chm249
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceSharingPoolRefresh Method (Project)
+# Application.ResourceSharingPoolRefresh method (Project)
 
 Refreshes the local resource sharing pool.
 
 
 ## Syntax
 
- _expression_. `ResourceSharingPoolRefresh`
+_expression_. `ResourceSharingPoolRefresh`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

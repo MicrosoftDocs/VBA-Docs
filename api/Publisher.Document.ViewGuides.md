@@ -1,5 +1,5 @@
 ---
-title: Document.ViewGuides Property (Publisher)
+title: Document.ViewGuides property (Publisher)
 keywords: vbapb10.chm196761
 f1_keywords:
 - vbapb10.chm196761
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ViewGuides Property (Publisher)
+# Document.ViewGuides property (Publisher)
 
 Returns  **True** if guides are visible in the specified publication. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **ViewGuides**
+ _expression_.**ViewGuides**
 
  _expression_ A variable that represents a  **Document** object.
 

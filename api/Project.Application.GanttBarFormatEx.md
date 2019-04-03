@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarFormatEx Method (Project)
+title: Application.GanttBarFormatEx method (Project)
 keywords: vbapj.chm2165
 f1_keywords:
 - vbapj.chm2165
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarFormatEx Method (Project)
+# Application.GanttBarFormatEx method (Project)
 
 Changes the formatting of Gantt bars from their default styles, where colors can be hexadecimal RGB values.
 
 
 ## Syntax
 
- _expression_. `GanttBarFormatEx`( `_TaskID_`, `_GanttStyle_`, `_StartShape_`, `_StartType_`, `_StartColor_`, `_MiddleShape_`, `_MiddlePattern_`, `_MiddleColor_`, `_EndShape_`, `_EndType_`, `_EndColor_`, `_LeftText_`, `_RightText_`, `_TopText_`, `_BottomText_`, `_InsideText_`, `_Reset_`, `_ProjectName_` )
+_expression_. `GanttBarFormatEx`( `_TaskID_`, `_GanttStyle_`, `_StartShape_`, `_StartType_`, `_StartColor_`, `_MiddleShape_`, `_MiddlePattern_`, `_MiddleColor_`, `_EndShape_`, `_EndType_`, `_EndColor_`, `_LeftText_`, `_RightText_`, `_TopText_`, `_BottomText_`, `_InsideText_`, `_Reset_`, `_ProjectName_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.TemplateName Property (PowerPoint)
+title: Presentation.TemplateName property (PowerPoint)
 keywords: vbapp10.chm583008
 f1_keywords:
 - vbapp10.chm583008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.TemplateName Property (PowerPoint)
+# Presentation.TemplateName property (PowerPoint)
 
 Returns the name of the design template associated with the specified presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `TemplateName`
+_expression_. `TemplateName`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

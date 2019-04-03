@@ -1,5 +1,5 @@
 ---
-title: PreviewPane.Parent Property (Outlook)
+title: PreviewPane.Parent property (Outlook)
 keywords: vbaol11.chm3637
 f1_keywords:
 - vbaol11.chm3637
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PreviewPane.Parent Property (Outlook)
+# PreviewPane.Parent property (Outlook)
 
 Returns the parent property for the [PreviewPane](Outlook.previewpane.md) Object. Read only.
 
@@ -26,6 +26,6 @@ _expression_ A variable that represents a 'PreviewPane' object.
 
 
 
-[PreviewPane Object (Outlook)](Outlook.previewpane.md)
+[PreviewPane object (Outlook)](Outlook.previewpane.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

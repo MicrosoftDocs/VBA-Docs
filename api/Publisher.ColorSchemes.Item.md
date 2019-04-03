@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes.Item Property (Publisher)
+title: ColorSchemes.Item property (Publisher)
 keywords: vbapb10.chm2752512
 f1_keywords:
 - vbapb10.chm2752512
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorSchemes.Item Property (Publisher)
+# ColorSchemes.Item property (Publisher)
 
 Returns the specified  **[ColorScheme](Publisher.ColorScheme.md)** object from a **ColorSchemes** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **ColorSchemes** object.
 

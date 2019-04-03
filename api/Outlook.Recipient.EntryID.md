@@ -1,5 +1,5 @@
 ---
-title: Recipient.EntryID Property (Outlook)
+title: Recipient.EntryID property (Outlook)
 keywords: vbaol11.chm2348
 f1_keywords:
 - vbaol11.chm2348
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.EntryID Property (Outlook)
+# Recipient.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## Remarks

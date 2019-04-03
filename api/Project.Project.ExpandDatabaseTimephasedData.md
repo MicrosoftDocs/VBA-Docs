@@ -1,5 +1,5 @@
 ---
-title: Project.ExpandDatabaseTimephasedData Property (Project)
+title: Project.ExpandDatabaseTimephasedData property (Project)
 keywords: vbapj.chm131086
 f1_keywords:
 - vbapj.chm131086
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ExpandDatabaseTimephasedData Property (Project)
+# Project.ExpandDatabaseTimephasedData property (Project)
 
  **True** if timephased data is expanded to a readable format in the database. **False** if timephased data is in a compressed binary format. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ExpandDatabaseTimephasedData`
+_expression_. `ExpandDatabaseTimephasedData`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

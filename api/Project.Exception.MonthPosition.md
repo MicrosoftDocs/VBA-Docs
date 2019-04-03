@@ -1,5 +1,5 @@
 ---
-title: Exception.MonthPosition Property (Project)
+title: Exception.MonthPosition property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.MonthPosition
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Exception.MonthPosition Property (Project)
+# Exception.MonthPosition property (Project)
 
 Gets or sets the position of the exception in the month, for a monthly or yearly calendar exception. Read/write  **PjExceptionPosition**.
 
 
 ## Syntax
 
- _expression_. `MonthPosition`
+_expression_. `MonthPosition`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

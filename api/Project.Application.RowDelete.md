@@ -1,5 +1,5 @@
 ---
-title: Application.RowDelete Method (Project)
+title: Application.RowDelete method (Project)
 keywords: vbapj.chm231
 f1_keywords:
 - vbapj.chm231
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.RowDelete Method (Project)
+# Application.RowDelete method (Project)
 
 Deletes the active row or the row that contains the active cell.
 
 
 ## Syntax
 
- _expression_. `RowDelete`
+_expression_. `RowDelete`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

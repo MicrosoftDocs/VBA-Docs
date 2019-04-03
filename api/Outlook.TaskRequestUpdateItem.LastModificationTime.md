@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.LastModificationTime Property (Outlook)
+title: TaskRequestUpdateItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1934
 f1_keywords:
 - vbaol11.chm1934
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.LastModificationTime Property (Outlook)
+# TaskRequestUpdateItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

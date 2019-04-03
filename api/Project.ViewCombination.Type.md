@@ -1,5 +1,5 @@
 ---
-title: ViewCombination.Type Property (Project)
+title: ViewCombination.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewCombination.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewCombination.Type Property (Project)
+# ViewCombination.Type property (Project)
 
 Gets the type of item in the combination view, such as tasks or resources. Read-only  **PjItemType**.
 

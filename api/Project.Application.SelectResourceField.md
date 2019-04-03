@@ -1,5 +1,5 @@
 ---
-title: Application.SelectResourceField Method (Project)
+title: Application.SelectResourceField method (Project)
 keywords: vbapj.chm2064
 f1_keywords:
 - vbapj.chm2064
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectResourceField Method (Project)
+# Application.SelectResourceField method (Project)
 
 Selects a resource field.
 
 
 ## Syntax
 
- _expression_. `SelectResourceField`( `_Row_`, `_Column_`, `_RowRelative_`, `_Width_`, `_Height_`, `_Extend_`, `_Add_` )
+_expression_. `SelectResourceField`( `_Row_`, `_Column_`, `_RowRelative_`, `_Width_`, `_Height_`, `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

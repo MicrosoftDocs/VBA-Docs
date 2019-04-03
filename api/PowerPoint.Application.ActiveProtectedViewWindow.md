@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveProtectedViewWindow Property (PowerPoint)
+title: Application.ActiveProtectedViewWindow property (PowerPoint)
 keywords: vbapp10.chm503014
 f1_keywords:
 - vbapp10.chm503014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveProtectedViewWindow Property (PowerPoint)
+# Application.ActiveProtectedViewWindow property (PowerPoint)
 
 Returns a  **[ProtectedViewWindow](PowerPoint.ProtectedViewWindow.md)** object that represents the active **Protected View** window (the window on top). Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveProtectedViewWindow`
+_expression_. `ActiveProtectedViewWindow`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

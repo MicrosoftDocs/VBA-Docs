@@ -1,5 +1,5 @@
 ---
-title: Menus.Count Property (Visio)
+title: Menus.Count property (Visio)
 keywords: vis_sdr.chm13213330
 f1_keywords:
 - vis_sdr.chm13213330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Menus.Count Property (Visio)
+# Menus.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

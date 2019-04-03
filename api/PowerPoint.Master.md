@@ -1,5 +1,5 @@
 ---
-title: Master Object (PowerPoint)
+title: Master object (PowerPoint)
 keywords: vbapp10.chm638000
 f1_keywords:
 - vbapp10.chm638000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master Object (PowerPoint)
+# Master object (PowerPoint)
 
 Represents a slide master, title master, handout master, notes master, or design master.
 
@@ -76,6 +76,6 @@ ActivePresentation.AddTitleMaster.Shapes.Title.Top = 10
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

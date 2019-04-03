@@ -1,5 +1,5 @@
 ---
-title: Month.Default Method (Project)
+title: Month.Default method (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Default
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Month.Default Method (Project)
+# Month.Default method (Project)
 
 Resets the  **Month** item of a resource calendar to the value in the corresponding base calendar.
 
 
 ## Syntax
 
- _expression_. `Default`
+_expression_. `Default`
 
  _expression_ A variable that represents a [Month](./Project.Month.md) object.
 

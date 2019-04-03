@@ -1,5 +1,5 @@
 ---
-title: NavigationModule Object (Outlook)
+title: NavigationModule object (Outlook)
 keywords: vbaol11.chm3211
 f1_keywords:
 - vbaol11.chm3211
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModule Object (Outlook)
+# NavigationModule object (Outlook)
 
 Represents a navigation module in the navigation pane.
 
@@ -61,6 +61,6 @@ You can use the  **[Visible](Outlook.NavigationModule.Visible.md)** property to 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

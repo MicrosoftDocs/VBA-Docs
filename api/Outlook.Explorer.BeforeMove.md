@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeMove Event (Outlook)
+title: Explorer.BeforeMove event (Outlook)
 keywords: vbaol11.chm459
 f1_keywords:
 - vbaol11.chm459
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.BeforeMove Event (Outlook)
+# Explorer.BeforeMove event (Outlook)
 
 Occurs when the  **[Explorer](Outlook.Explorer.md)** is moved by the user.
 
@@ -21,7 +21,7 @@ Occurs when the  **[Explorer](Outlook.Explorer.md)** is moved by the user.
 
 _expression_. `BeforeMove`( `_Cancel_` )
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters

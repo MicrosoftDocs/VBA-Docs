@@ -1,5 +1,5 @@
 ---
-title: Application.Redo Method (Visio)
+title: Application.Redo method (Visio)
 keywords: vis_sdr.chm10016465
 f1_keywords:
 - vis_sdr.chm10016465
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Redo Method (Visio)
+# Application.Redo method (Visio)
 
 Reverses the most recent undo unit.
 
 
 ## Syntax
 
- _expression_. `Redo`
+_expression_. `Redo`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Style.Index Property (Visio)
+title: Style.Index property (Visio)
 keywords: vis_sdr.chm11413695
 f1_keywords:
 - vis_sdr.chm11413695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Style.Index Property (Visio)
+# Style.Index property (Visio)
 
 Gets the ordinal position of a  **Style** object in the **Styles** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.Copy Method (PowerPoint)
+title: Point.Copy method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Copy
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Point.Copy Method (PowerPoint)
+# Point.Copy method (PowerPoint)
 
 If the point has a picture fill, copies the picture to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

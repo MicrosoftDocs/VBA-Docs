@@ -1,5 +1,5 @@
 ---
-title: Application.SpellingCheck Method (Project)
+title: Application.SpellingCheck method (Project)
 keywords: vbapj.chm613
 f1_keywords:
 - vbapj.chm613
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SpellingCheck Method (Project)
+# Application.SpellingCheck method (Project)
 
 Checks the spelling in the active project.
 
 
 ## Syntax
 
- _expression_. `SpellingCheck`
+_expression_. `SpellingCheck`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

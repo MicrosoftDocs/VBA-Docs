@@ -1,5 +1,5 @@
 ---
-title: Account.AccountType Property (Outlook)
+title: Account.AccountType property (Outlook)
 keywords: vbaol11.chm740
 f1_keywords:
 - vbaol11.chm740
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Account.AccountType Property (Outlook)
+# Account.AccountType property (Outlook)
 
 Returns a constant in the  **[OlAccountType](Outlook.OlAccountType.md)** enumeration that indicates the type of the **[Account](Outlook.Account.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant in the  **[OlAccountType](Outlook.OlAccountType.md)** enumera
 
 _expression_. `AccountType`
 
-_expression_ A variable that represents an [Account](./Outlook.Account.md) object.
+_expression_ A variable that represents an [Account](Outlook.Account.md) object.
 
 
 ## See also

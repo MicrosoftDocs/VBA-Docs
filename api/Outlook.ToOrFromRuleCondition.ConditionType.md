@@ -1,5 +1,5 @@
 ---
-title: ToOrFromRuleCondition.ConditionType Property (Outlook)
+title: ToOrFromRuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2461
 f1_keywords:
 - vbaol11.chm2461
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# ToOrFromRuleCondition.ConditionType Property (Outlook)
+# ToOrFromRuleCondition.ConditionType property (Outlook)
 
 Returns a constant from the  **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax
 
- _expression_. `ConditionType`
+_expression_. `ConditionType`
 
-_expression_ A variable that represents a [ToOrFromRuleCondition](./Outlook.ToOrFromRuleCondition.md) object.
+_expression_ A variable that represents a [ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Calendars.Application Property (Project)
+title: Calendars.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendars.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Calendars.Application Property (Project)
+# Calendars.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

@@ -19,7 +19,7 @@ Returns an  **** collection that represents the XML schemas in the Schema Librar
 
 ## Syntax
 
- _expression_. `XMLNamespaces`
+_expression_. `XMLNamespaces`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

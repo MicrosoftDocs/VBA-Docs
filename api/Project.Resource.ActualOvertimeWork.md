@@ -1,5 +1,5 @@
 ---
-title: Resource.ActualOvertimeWork Property (Project)
+title: Resource.ActualOvertimeWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.ActualOvertimeWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.ActualOvertimeWork Property (Project)
+# Resource.ActualOvertimeWork property (Project)
 
 Gets the actual overtime work (in minutes) for a resource. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualOvertimeWork`
+_expression_. `ActualOvertimeWork`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

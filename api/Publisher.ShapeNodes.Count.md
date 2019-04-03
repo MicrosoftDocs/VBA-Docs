@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Count Property (Publisher)
+title: ShapeNodes.Count property (Publisher)
 keywords: vbapb10.chm3473411
 f1_keywords:
 - vbapb10.chm3473411
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.Count Property (Publisher)
+# ShapeNodes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 

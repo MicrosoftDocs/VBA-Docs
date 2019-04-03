@@ -1,5 +1,5 @@
 ---
-title: Shape.Duplicate Method (PowerPoint)
+title: Shape.Duplicate method (PowerPoint)
 keywords: vbapp10.chm547053
 f1_keywords:
 - vbapp10.chm547053
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Duplicate Method (PowerPoint)
+# Shape.Duplicate method (PowerPoint)
 
 Creates a duplicate of the specified  **Shape** object, adds the new shape to the **Shapes** collection, and then returns a new **ShapeRange** object. The duplicated objects are placed at the end of the **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_. `Duplicate`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PjDateFormat Enumeration (Project)
+title: PjDateFormat enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDateFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjDateFormat Enumeration (Project)
+# PjDateFormat enumeration (Project)
 
 Contains constants that specify the date format. The following table shows various formats applied to 9/30/02 (12:33 PM). 
 

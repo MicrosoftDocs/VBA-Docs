@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Find Method (PowerPoint)
+title: TextRange2.Find method (PowerPoint)
 ms.assetid: 6d7d1ef8-8a61-4fbd-b157-22f64e6f8a6f
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.Find Method (PowerPoint)
+# TextRange2.Find method (PowerPoint)
 
 Searches a  **TextRange2** object for a subset of text.
 
 
 ## Syntax
 
- _expression_. `Find`( `_FindWhat_`, `_After_`, `_MatchCase_`, `_WholeWords_` )
+_expression_. `Find`( `_FindWhat_`, `_After_`, `_MatchCase_`, `_WholeWords_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 
@@ -38,6 +38,6 @@ TextRange2
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

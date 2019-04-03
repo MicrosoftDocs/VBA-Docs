@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `LockAspectRatio`
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Remarks
@@ -39,7 +39,7 @@ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) ob
 
 ## Example
 
-This example adds a cube to  `myDocument`. The cube can be moved and resized, but not reproportioned.
+This example adds a cube to  _myDocument_. The cube can be moved and resized, but not reproportioned.
 
 
 ```vb

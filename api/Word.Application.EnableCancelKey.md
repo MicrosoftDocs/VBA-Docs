@@ -19,7 +19,7 @@ Returns or sets the way that Word handles CTRL+BREAK user interruptions. Read/wr
 
 ## Syntax
 
- _expression_. `EnableCancelKey`
+_expression_. `EnableCancelKey`
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

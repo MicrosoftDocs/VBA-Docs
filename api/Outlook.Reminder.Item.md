@@ -1,5 +1,5 @@
 ---
-title: Reminder.Item Property (Outlook)
+title: Reminder.Item property (Outlook)
 keywords: vbaol11.chm562
 f1_keywords:
 - vbaol11.chm562
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminder.Item Property (Outlook)
+# Reminder.Item property (Outlook)
 
 Returns an  **Object** corresponding to the specified Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **Object** corresponding to the specified Outlook item. Read-only.
 
 _expression_. `Item`
 
-_expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
+_expression_ A variable that represents a [Reminder](Outlook.Reminder.md) object.
 
 
 ## See also

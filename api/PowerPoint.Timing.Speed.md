@@ -1,5 +1,5 @@
 ---
-title: Timing.Speed Property (PowerPoint)
+title: Timing.Speed property (PowerPoint)
 keywords: vbapp10.chm653009
 f1_keywords:
 - vbapp10.chm653009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Timing.Speed Property (PowerPoint)
+# Timing.Speed property (PowerPoint)
 
 Returns or sets the speed, in seconds, of the specified animation. Read/write.
 
 
 ## Syntax
 
- _expression_. `Speed`
+_expression_. `Speed`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

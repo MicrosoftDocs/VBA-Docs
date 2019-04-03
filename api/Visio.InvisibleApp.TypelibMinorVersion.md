@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.TypelibMinorVersion Property (Visio)
+title: InvisibleApp.TypelibMinorVersion property (Visio)
 keywords: vis_sdr.chm17514700
 f1_keywords:
 - vis_sdr.chm17514700
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.TypelibMinorVersion Property (Visio)
+# InvisibleApp.TypelibMinorVersion property (Visio)
 
 Returns the minor version number of the Microsoft Visio type library. Read-only.
 
 
 ## Syntax
 
- _expression_. `TypelibMinorVersion`( `_lpi2Ret_` )
+_expression_. `TypelibMinorVersion`( `_lpi2Ret_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

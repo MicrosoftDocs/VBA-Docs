@@ -1,5 +1,5 @@
 ---
-title: Category.Name Property (Outlook)
+title: Category.Name property (Outlook)
 keywords: vbaol11.chm2426
 f1_keywords:
 - vbaol11.chm2426
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Category.Name Property (Outlook)
+# Category.Name property (Outlook)
 
 Returns or sets a  **String** value that represents the display name for the object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [Category](./Outlook.Category.md) object.
+_expression_ A variable that represents a [Category](Outlook.Category.md) object.
 
 
 ## See also

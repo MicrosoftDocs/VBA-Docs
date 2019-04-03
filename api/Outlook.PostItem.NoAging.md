@@ -1,5 +1,5 @@
 ---
-title: PostItem.NoAging Property (Outlook)
+title: PostItem.NoAging property (Outlook)
 keywords: vbaol11.chm1530
 f1_keywords:
 - vbaol11.chm1530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.NoAging Property (Outlook)
+# PostItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 
 _expression_. `NoAging`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.NoAging Property (Outlook)
+title: AppointmentItem.NoAging property (Outlook)
 keywords: vbaol11.chm859
 f1_keywords:
 - vbaol11.chm859
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.NoAging Property (Outlook)
+# AppointmentItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 
 _expression_. `NoAging`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

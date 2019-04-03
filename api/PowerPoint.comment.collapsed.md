@@ -1,5 +1,5 @@
 ---
-title: Comment.Collapsed Property (PowerPoint)
+title: Comment.Collapsed property (PowerPoint)
 keywords: vbapp10.chm642015
 f1_keywords:
 - vbapp10.chm642015
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Comment.Collapsed Property (PowerPoint)
+# Comment.Collapsed property (PowerPoint)
 
 Returns whether the replies to a comment are shown (expanded) or hidden (collapsed). Ready-only.
 
 
 ## Syntax
 
- _expression_. `Collapsed`
+_expression_. `Collapsed`
 
 _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 

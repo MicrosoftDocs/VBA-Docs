@@ -19,7 +19,7 @@ Returns a  **ProofreadingErrors** collection that represents the words identifie
 
 ## Syntax
 
- _expression_. `SpellingErrors`
+_expression_. `SpellingErrors`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

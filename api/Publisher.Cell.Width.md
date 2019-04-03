@@ -1,5 +1,5 @@
 ---
-title: Cell.Width Property (Publisher)
+title: Cell.Width property (Publisher)
 keywords: vbapb10.chm5111841
 f1_keywords:
 - vbapb10.chm5111841
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.Width Property (Publisher)
+# Cell.Width property (Publisher)
 
 Returns a  **Long** that represent the width (in cells) of a table, range of cells, or page. Read-only.
 
 
 ## Syntax
 
- _expression_. **Width**
+ _expression_.**Width**
 
  _expression_ A variable that represents a  **Cell** object.
 

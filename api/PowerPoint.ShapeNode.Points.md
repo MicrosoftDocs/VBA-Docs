@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.Points Property (PowerPoint)
+title: ShapeNode.Points property (PowerPoint)
 keywords: vbapp10.chm561003
 f1_keywords:
 - vbapp10.chm561003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode.Points Property (PowerPoint)
+# ShapeNode.Points property (PowerPoint)
 
 Returns a  **Variant** that represents the position of the specified node as a coordinate pair. Read-only.
 
 
 ## Syntax
 
- _expression_. `Points`
+_expression_. `Points`
 
  _expression_ A variable that represents a [ShapeNode](./PowerPoint.ShapeNode.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.TimeLine Property (PowerPoint)
+title: Master.TimeLine property (PowerPoint)
 keywords: vbapp10.chm533015
 f1_keywords:
 - vbapp10.chm533015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.TimeLine Property (PowerPoint)
+# Master.TimeLine property (PowerPoint)
 
 Returns a  **[TimeLine](PowerPoint.TimeLine.md)** object that represents the animation timeline for the slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `TimeLine`
+_expression_. `TimeLine`
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 

@@ -19,7 +19,7 @@ Returns a  **Range** object that represents the portion of a document that's con
 
 ## Syntax
 
- _expression_. `Range`
+ _expression_.**Range**
 
  _expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 

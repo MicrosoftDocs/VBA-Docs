@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Index Property (Project)
+title: ViewSingle.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Index Property (Project)
+# ViewSingle.Index property (Project)
 
 Gets the index of a  **ViewSingle** object in the **ViewsSingle** containing object. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: AccelTable.SetID Property (Visio)
+title: AccelTable.SetID property (Visio)
 keywords: vis_sdr.chm14714315
 f1_keywords:
 - vis_sdr.chm14714315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AccelTable.SetID Property (Visio)
+# AccelTable.SetID property (Visio)
 
 Returns the set ID of an  **AccelTable** object in its collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `SetID`
+_expression_. `SetID`
 
  _expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
 

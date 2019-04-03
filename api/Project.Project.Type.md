@@ -1,5 +1,5 @@
 ---
-title: Project.Type Property (Project)
+title: Project.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Project.Type Property (Project)
+# Project.Type property (Project)
 
 Gets the type of a project. Read-only  **PjProjectType**.
 

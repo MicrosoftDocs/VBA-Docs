@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `CorrectCapsLock`
+_expression_. `CorrectCapsLock`
 
  _expression_ A variable that represents an '[AutoCorrect](Word.AutoCorrect.md)' object.
 

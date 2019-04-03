@@ -19,7 +19,7 @@ Returns the name of the user who saved the specified version of the document. Re
 
 ## Syntax
 
- _expression_. `SavedBy`
+_expression_. `SavedBy`
 
  _expression_ An expression that returns a '[Version](Word.Version.md)' object.
 

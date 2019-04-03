@@ -1,5 +1,5 @@
 ---
-title: Application.SetResourceField Method (Project)
+title: Application.SetResourceField method (Project)
 keywords: vbapj.chm5
 f1_keywords:
 - vbapj.chm5
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SetResourceField Method (Project)
+# Application.SetResourceField method (Project)
 
 Sets the value of a resource field.
 
 
 ## Syntax
 
- _expression_. `SetResourceField`( `_Field_`, `_Value_`, `_AllSelectedResources_`, `_Create_`, `_ResourceID_`, `_ProjectName_` )
+_expression_. `SetResourceField`( `_Field_`, `_Value_`, `_AllSelectedResources_`, `_Create_`, `_ResourceID_`, `_ProjectName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

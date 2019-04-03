@@ -1,5 +1,5 @@
 ---
-title: Options.PathForPictures Property (Publisher)
+title: Options.PathForPictures property (Publisher)
 keywords: vbapb10.chm1048596
 f1_keywords:
 - vbapb10.chm1048596
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.PathForPictures Property (Publisher)
+# Options.PathForPictures property (Publisher)
 
 Returns a  **String** that represents the default path for picture files. Read.
 
 
 ## Syntax
 
- _expression_. **PathForPictures**
+ _expression_.**PathForPictures**
 
  _expression_ A variable that represents a  **Options** object.
 

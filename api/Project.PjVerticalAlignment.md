@@ -1,5 +1,5 @@
 ---
-title: PjVerticalAlignment Enumeration (Project)
+title: PjVerticalAlignment enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjVerticalAlignment
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjVerticalAlignment Enumeration (Project)
+# PjVerticalAlignment enumeration (Project)
 
 Contains constants that specify the vertical alignment.
 

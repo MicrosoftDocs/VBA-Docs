@@ -1,5 +1,5 @@
 ---
-title: MailItem.RetentionPolicyName Property (Outlook)
+title: MailItem.RetentionPolicyName property (Outlook)
 keywords: vbaol11.chm3558
 f1_keywords:
 - vbaol11.chm3558
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.RetentionPolicyName Property (Outlook)
+# MailItem.RetentionPolicyName property (Outlook)
 
 Returns a  **String** that specifies the name of the retention policy. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that specifies the name of the retention policy. Read-only
 
 _expression_. `RetentionPolicyName`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

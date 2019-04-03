@@ -1,5 +1,5 @@
 ---
-title: Application.DeleteFromDatabase Method (Project)
+title: Application.DeleteFromDatabase method (Project)
 keywords: vbapj.chm135
 f1_keywords:
 - vbapj.chm135
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DeleteFromDatabase Method (Project)
+# Application.DeleteFromDatabase method (Project)
 
 Deletes a project stored in a database.
 
 
 ## Syntax
 
- _expression_. `DeleteFromDatabase`( `_Name_`, `_UserID_`, `_DatabasePassWord_`, `_FormatID_` )
+_expression_. `DeleteFromDatabase`( `_Name_`, `_UserID_`, `_DatabasePassWord_`, `_FormatID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

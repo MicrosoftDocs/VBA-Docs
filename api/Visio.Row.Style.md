@@ -1,5 +1,5 @@
 ---
-title: Row.Style Property (Visio)
+title: Row.Style property (Visio)
 keywords: vis_sdr.chm15814445
 f1_keywords:
 - vis_sdr.chm15814445
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.Style Property (Visio)
+# Row.Style property (Visio)
 
 Gets the style that contains a  **Row** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

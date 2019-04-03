@@ -1,5 +1,5 @@
 ---
-title: Assignment.Overallocated Property (Project)
+title: Assignment.Overallocated property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Overallocated
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Overallocated Property (Project)
+# Assignment.Overallocated property (Project)
 
  **True** if an assignment is overallocated. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Overallocated`
+_expression_. `Overallocated`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

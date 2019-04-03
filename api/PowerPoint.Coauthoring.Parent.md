@@ -1,5 +1,5 @@
 ---
-title: Coauthoring.Parent Property (PowerPoint)
+title: Coauthoring.Parent property (PowerPoint)
 keywords: vbapp10.chm731002
 f1_keywords:
 - vbapp10.chm731002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Coauthoring.Parent Property (PowerPoint)
+# Coauthoring.Parent property (PowerPoint)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.Has3DShading Property (PowerPoint)
+title: ChartGroup.Has3DShading property (PowerPoint)
 keywords: vbapp10.chm692005
 f1_keywords:
 - vbapp10.chm692005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.Has3DShading Property (PowerPoint)
+# ChartGroup.Has3DShading property (PowerPoint)
 
  **True** if a chart group has three-dimensional shading. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Has3DShading`
+_expression_. `Has3DShading`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

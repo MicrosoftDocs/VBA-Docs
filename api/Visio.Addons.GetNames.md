@@ -1,5 +1,5 @@
 ---
-title: Addons.GetNames Method (Visio)
+title: Addons.GetNames method (Visio)
 keywords: vis_sdr.chm12516315
 f1_keywords:
 - vis_sdr.chm12516315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Addons.GetNames Method (Visio)
+# Addons.GetNames method (Visio)
 
 Returns the names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNames`( `_NameArray()_` )
+_expression_. `GetNames`( `_NameArray()_` )
 
  _expression_ A variable that represents an [Addons](./Visio.Addons.md) collection.
 

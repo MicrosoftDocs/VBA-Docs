@@ -1,5 +1,5 @@
 ---
-title: Shape.Width Property (Publisher)
+title: Shape.Width property (Publisher)
 keywords: vbapb10.chm2228311
 f1_keywords:
 - vbapb10.chm2228311
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Width Property (Publisher)
+# Shape.Width property (Publisher)
 
 Returns or sets a  **Variant** that represents the width (in points) of a specified table column or shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Width**
+ _expression_.**Width**
 
  _expression_ A variable that represents a  **Shape** object.
 

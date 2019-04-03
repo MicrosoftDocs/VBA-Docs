@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AddHebDoubleQuote`
+_expression_. `AddHebDoubleQuote`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

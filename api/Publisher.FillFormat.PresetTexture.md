@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTexture Property (Publisher)
+title: FillFormat.PresetTexture property (Publisher)
 keywords: vbapb10.chm2359560
 f1_keywords:
 - vbapb10.chm2359560
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetTexture Property (Publisher)
+# FillFormat.PresetTexture property (Publisher)
 
 Returns an  **MsoPresetTexture** constant that represents the preset texture for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. **PresetTexture**
+ _expression_.**PresetTexture**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetTexture
 
 ## Remarks
 
-The  **PresetTexture** property value can be one of the ** [MsoPresetTexture](Office.MsoPresetTexture.md)** constants declared in the Microsoft Office type library.
+The  **PresetTexture** property value can be one of the **[MsoPresetTexture](Office.MsoPresetTexture.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[PresetTextured](Publisher.FillFormat.PresetTextured.md)** method to specify the preset texture for the fill.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Body Property (Outlook)
+title: DocumentItem.Body property (Outlook)
 keywords: vbaol11.chm1186
 f1_keywords:
 - vbaol11.chm1186
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Body Property (Outlook)
+# DocumentItem.Body property (Outlook)
 
 This object, member, or enumeration will be deprecated and is not intended to be used in your code.
 
@@ -21,7 +21,7 @@ This object, member, or enumeration will be deprecated and is not intended to be
 
 _expression_. `Body`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

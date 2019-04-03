@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IsTrueColor Property (Publisher)
+title: PictureFormat.IsTrueColor property (Publisher)
 keywords: vbapb10.chm3604770
 f1_keywords:
 - vbapb10.chm3604770
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IsTrueColor Property (Publisher)
+# PictureFormat.IsTrueColor property (Publisher)
 
 Returns an  **MsoTriState** constant indicating whether the specified picture or OLE object contains color data of 24 bits per channel or greater. Read-only.
 
 
 ## Syntax
 
- _expression_. **IsTrueColor**
+ _expression_.**IsTrueColor**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

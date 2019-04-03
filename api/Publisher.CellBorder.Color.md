@@ -1,5 +1,5 @@
 ---
-title: CellBorder.Color Property (Publisher)
+title: CellBorder.Color property (Publisher)
 keywords: vbapb10.chm5242882
 f1_keywords:
 - vbapb10.chm5242882
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CellBorder.Color Property (Publisher)
+# CellBorder.Color property (Publisher)
 
 Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the color information for the specified object.
 
 
 ## Syntax
 
- _expression_. **Color**
+ _expression_.**Color**
 
  _expression_ A variable that represents a  **CellBorder** object.
 

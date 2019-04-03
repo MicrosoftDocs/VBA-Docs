@@ -1,5 +1,5 @@
 ---
-title: Project.ReadOnly Property (Project)
+title: Project.ReadOnly property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ReadOnly
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ReadOnly Property (Project)
+# Project.ReadOnly property (Project)
 
  **True** if a project has read-only access. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ReadOnly`
+_expression_. `ReadOnly`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

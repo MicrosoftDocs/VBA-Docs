@@ -1,5 +1,5 @@
 ---
-title: WorkWeekDay Object (Project)
+title: WorkWeekDay object (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeekDay
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# WorkWeekDay Object (Project)
+# WorkWeekDay object (Project)
 
 Represents a single calendar day in a work week. The  **WorkWeekDay** object is a member of the **[WorkWeekDays](Project.workweekdays.md)** collection.
  

@@ -1,5 +1,5 @@
 ---
-title: Event.Target Property (Visio)
+title: Event.Target property (Visio)
 keywords: vis_sdr.chm12614485
 f1_keywords:
 - vis_sdr.chm12614485
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Event.Target Property (Visio)
+# Event.Target property (Visio)
 
 Gets or sets the target of an event. Read/write.
 
 
 ## Syntax
 
- _expression_. `Target`
+_expression_. `Target`
 
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 

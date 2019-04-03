@@ -1,5 +1,5 @@
 ---
-title: PjImportMethods Enumeration (Project)
+title: PjImportMethods enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjImportMethods
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjImportMethods Enumeration (Project)
+# PjImportMethods enumeration (Project)
 
 Contains constants that specify the method to use when importing data.
 

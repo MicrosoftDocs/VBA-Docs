@@ -1,5 +1,5 @@
 ---
-title: Style.SetFormulas Method (Visio)
+title: Style.SetFormulas method (Visio)
 keywords: vis_sdr.chm11416575
 f1_keywords:
 - vis_sdr.chm11416575
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Style.SetFormulas Method (Visio)
+# Style.SetFormulas method (Visio)
 
 Sets the formulas of one or more cells.
 
 
 ## Syntax
 
- _expression_. `SetFormulas`( `_SRCStream()_` , `_formulaArray()_` , `_Flags_` )
+_expression_. `SetFormulas`( `_SRCStream()_` , `_formulaArray()_` , `_Flags_` )
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

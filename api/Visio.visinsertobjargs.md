@@ -1,5 +1,5 @@
 ---
-title: VisInsertObjArgs Enumeration (Visio)
+title: VisInsertObjArgs enumeration (Visio)
 keywords: vis_sdr.chm70050
 f1_keywords:
 - vis_sdr.chm70050
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisInsertObjArgs Enumeration (Visio)
+# VisInsertObjArgs enumeration (Visio)
 
 Flags to be passed to the  **Page.InsertObject** and **Page.InsertFromFile** methods.
 

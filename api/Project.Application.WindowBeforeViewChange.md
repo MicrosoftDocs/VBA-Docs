@@ -1,5 +1,5 @@
 ---
-title: Application.WindowBeforeViewChange Event (Project)
+title: Application.WindowBeforeViewChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowBeforeViewChange
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowBeforeViewChange Event (Project)
+# Application.WindowBeforeViewChange event (Project)
 
 Occurs when the top pane view is changed within a window in Project.
 
 
 ## Syntax
 
- _expression_. `WindowBeforeViewChange`( `_Window_`, `_prevView_`, `_newView_`, `_projectHasViewWindow_`, `_Info_` )
+_expression_. `WindowBeforeViewChange`( `_Window_`, `_prevView_`, `_newView_`, `_projectHasViewWindow_`, `_Info_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

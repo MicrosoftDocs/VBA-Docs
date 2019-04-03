@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Reset Method (Outlook)
+title: PeopleView.Reset method (Outlook)
 keywords: vbaol11.chm3576
 f1_keywords:
 - vbaol11.chm3576
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Reset Method (Outlook)
+# PeopleView.Reset method (Outlook)
 Resets this built-in Outlook view to its original settings.
 
 ## Version information
@@ -29,6 +29,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 
 [PeopleView Object](Outlook.peopleview.md)
-[PeopleView Members](./overview/Outlook.md)
+[PeopleView Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Range Method (PowerPoint)
+title: GroupShapes.Range method (PowerPoint)
 keywords: vbapp10.chm549005
 f1_keywords:
 - vbapp10.chm549005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# GroupShapes.Range Method (PowerPoint)
+# GroupShapes.Range method (PowerPoint)
 
 Returns a  **ShapeRange** object.
 
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
  _expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
 

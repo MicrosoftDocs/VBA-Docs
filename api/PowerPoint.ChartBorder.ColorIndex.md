@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.ColorIndex Property (PowerPoint)
+title: ChartBorder.ColorIndex property (PowerPoint)
 keywords: vbapp10.chm685002
 f1_keywords:
 - vbapp10.chm685002
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# ChartBorder.ColorIndex Property (PowerPoint)
+# ChartBorder.ColorIndex property (PowerPoint)
 
 Returns or sets the color of the border. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_. `ColorIndex`
 
 _expression_ A variable that represents a '[ChartBorder](PowerPoint.ChartBorder.md)' object.
 
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](PowerPoint.XlColorIndex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

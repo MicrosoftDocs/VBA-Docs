@@ -1,5 +1,5 @@
 ---
-title: Day.Working Property (Project)
+title: Day.Working property (Project)
 ms.prod: project-server
 api_name:
 - Project.Day.Working
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Day.Working Property (Project)
+# Day.Working property (Project)
 
  **True** if the day is a working day. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Working`
+_expression_. `Working`
 
  _expression_ A variable that represents a [Day](./Project.Day.md) object.
 

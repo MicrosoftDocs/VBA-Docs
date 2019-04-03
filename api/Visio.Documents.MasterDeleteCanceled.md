@@ -1,5 +1,5 @@
 ---
-title: Documents.MasterDeleteCanceled Event (Visio)
+title: Documents.MasterDeleteCanceled event (Visio)
 keywords: vis_sdr.chm10619355
 f1_keywords:
 - vis_sdr.chm10619355
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.MasterDeleteCanceled Event (Visio)
+# Documents.MasterDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelMasterDelete** event.
 

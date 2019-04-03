@@ -1,5 +1,5 @@
 ---
-title: Connect.ContainingMasterID Property (Visio)
+title: Connect.ContainingMasterID property (Visio)
 keywords: vis_sdr.chm10351935
 f1_keywords:
 - vis_sdr.chm10351935
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Connect.ContainingMasterID Property (Visio)
+# Connect.ContainingMasterID property (Visio)
 
 Returns the ID of the  **Master** object that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingMasterID`
+_expression_. `ContainingMasterID`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.SetDisplayPictureFromFile Method (PowerPoint)
+title: MediaFormat.SetDisplayPictureFromFile method (PowerPoint)
 keywords: vbapp10.chm724012
 f1_keywords:
 - vbapp10.chm724012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.SetDisplayPictureFromFile Method (PowerPoint)
+# MediaFormat.SetDisplayPictureFromFile method (PowerPoint)
 
 Sets the display picture from a picture file.
 
 
 ## Syntax
 
- _expression_. `SetDisplayPictureFromFile`( `_FilePath_` )
+_expression_. `SetDisplayPictureFromFile`( `_FilePath_` )
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Depth Property (PowerPoint)
+title: ThreeDFormat.Depth property (PowerPoint)
 keywords: vbapp10.chm557007
 f1_keywords:
 - vbapp10.chm557007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Depth Property (PowerPoint)
+# ThreeDFormat.Depth property (PowerPoint)
 
 Returns or sets the depth of the shape's extrusion. Read/write.
 
 
 ## Syntax
 
- _expression_. `Depth`
+_expression_. `Depth`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -36,7 +36,7 @@ The  **Depth** property value can be from - 600 through 9600 (positive values pr
 
 ## Example
 
-This example adds an oval to  `myDocument`, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
+This example adds an oval to  _myDocument_, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
 
 
 ```vb

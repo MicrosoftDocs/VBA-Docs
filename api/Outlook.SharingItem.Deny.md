@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Deny Method (Outlook)
+title: SharingItem.Deny method (Outlook)
 keywords: vbaol11.chm692
 f1_keywords:
 - vbaol11.chm692
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Deny Method (Outlook)
+# SharingItem.Deny method (Outlook)
 
 Denies a sharing request and sends a sharing response to the sender of the  **[SharingItem](Outlook.SharingItem.md)**.
 
@@ -21,7 +21,7 @@ Denies a sharing request and sends a sharing response to the sender of the  **[S
 
 _expression_. `Deny`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Return value

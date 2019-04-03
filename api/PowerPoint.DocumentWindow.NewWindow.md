@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.NewWindow Method (PowerPoint)
+title: DocumentWindow.NewWindow method (PowerPoint)
 keywords: vbapp10.chm511019
 f1_keywords:
 - vbapp10.chm511019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.NewWindow Method (PowerPoint)
+# DocumentWindow.NewWindow method (PowerPoint)
 
 Opens a new window that contains the same document that is displayed in the specified window. Returns a  **[DocumentWindow](PowerPoint.DocumentWindow.md)** object that represents the new window.
 
 
 ## Syntax
 
- _expression_. `NewWindow`
+_expression_. `NewWindow`
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

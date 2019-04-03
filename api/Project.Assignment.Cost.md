@@ -1,5 +1,5 @@
 ---
-title: Assignment.Cost Property (Project)
+title: Assignment.Cost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Cost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Cost Property (Project)
+# Assignment.Cost property (Project)
 
 Gets the total cost of the assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Cost`
+_expression_. `Cost`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressRuleCondition.Parent Property (Outlook)
+title: AddressRuleCondition.Parent property (Outlook)
 keywords: vbaol11.chm2952
 f1_keywords:
 - vbaol11.chm2952
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressRuleCondition.Parent Property (Outlook)
+# AddressRuleCondition.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [AddressRuleCondition](./Outlook.AddressRuleCondition.md) object.
+_expression_ A variable that represents an [AddressRuleCondition](Outlook.AddressRuleCondition.md) object.
 
 
 ## Remarks

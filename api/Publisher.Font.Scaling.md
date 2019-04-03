@@ -1,5 +1,5 @@
 ---
-title: Font.Scaling Property (Publisher)
+title: Font.Scaling property (Publisher)
 keywords: vbapb10.chm5373977
 f1_keywords:
 - vbapb10.chm5373977
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Scaling Property (Publisher)
+# Font.Scaling property (Publisher)
 
 Returns or sets a  **Variant** value used to scale the width of the characters in the text range as a percentage of the current font size. Read/write.
 
 
 ## Syntax
 
- _expression_. **Scaling**
+ _expression_.**Scaling**
 
  _expression_ A variable that represents a  **Font** object.
 

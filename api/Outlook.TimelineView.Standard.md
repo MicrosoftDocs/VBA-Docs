@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Standard Property (Outlook)
+title: TimelineView.Standard property (Outlook)
 keywords: vbaol11.chm2655
 f1_keywords:
 - vbaol11.chm2655
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Standard Property (Outlook)
+# TimelineView.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[TimelineView](Outlook.TimelineView.md)** object is a built-in Outlook view. Read-only.
 
 
 ## Syntax
 
- _expression_. `Standard`
+_expression_. `Standard`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks

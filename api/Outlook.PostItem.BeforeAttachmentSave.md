@@ -1,5 +1,5 @@
 ---
-title: PostItem.BeforeAttachmentSave Event (Outlook)
+title: PostItem.BeforeAttachmentSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeAttachmentSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.BeforeAttachmentSave Event (Outlook)
+# PostItem.BeforeAttachmentSave event (Outlook)
 
 Occurs just before an attachment is saved.
 
@@ -18,7 +18,7 @@ Occurs just before an attachment is saved.
 
 _expression_. `BeforeAttachmentSave`( `_Attachment_` , `_Cancel_` )
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.COMAddIns Property (Outlook)
+title: Application.COMAddIns property (Outlook)
 keywords: vbaol11.chm719
 f1_keywords:
 - vbaol11.chm719
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.COMAddIns Property (Outlook)
+# Application.COMAddIns property (Outlook)
 
 Returns a  **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently loaded in Microsoft Outlook.
 
@@ -21,7 +21,7 @@ Returns a  **COMAddIns** collection that represents all the Component Object Mod
 
 _expression_. `COMAddIns`
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: Application.BaseCalendarRename Method (Project)
+title: Application.BaseCalendarRename method (Project)
 keywords: vbapj.chm624
 f1_keywords:
 - vbapj.chm624
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BaseCalendarRename Method (Project)
+# Application.BaseCalendarRename method (Project)
 
 Renames a base calendar.
 
 
 ## Syntax
 
- _expression_. `BaseCalendarRename`( `_FromName_`, `_ToName_` )
+_expression_. `BaseCalendarRename`( `_FromName_`, `_ToName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

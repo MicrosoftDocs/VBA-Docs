@@ -1,5 +1,5 @@
 ---
-title: Shape.Callout Property (Publisher)
+title: Shape.Callout property (Publisher)
 keywords: vbapb10.chm2228275
 f1_keywords:
 - vbapb10.chm2228275
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Callout Property (Publisher)
+# Shape.Callout property (Publisher)
 
 Returns a  **[CalloutFormat](Publisher.CalloutFormat.md)** object representing the formatting of a line callout.
 
 
 ## Syntax
 
- _expression_. **Callout**
+ _expression_.**Callout**
 
  _expression_ A variable that represents a  **Shape** object.
 

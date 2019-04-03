@@ -1,5 +1,5 @@
 ---
-title: Application.Documents Property (Visio)
+title: Application.Documents property (Visio)
 keywords: vis_sdr.chm10013435
 f1_keywords:
 - vis_sdr.chm10013435
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Documents Property (Visio)
+# Application.Documents property (Visio)
 
 Returns the  **Documents** collection for a Microsoft Visio instance. Read-only.
 
 
 ## Syntax
 
- _expression_. `Documents`
+_expression_. `Documents`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

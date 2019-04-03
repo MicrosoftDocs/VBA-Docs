@@ -1,5 +1,5 @@
 ---
-title: Options.ResetWizardSynchronizing Method (Publisher)
+title: Options.ResetWizardSynchronizing method (Publisher)
 keywords: vbapb10.chm1048617
 f1_keywords:
 - vbapb10.chm1048617
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.ResetWizardSynchronizing Method (Publisher)
+# Options.ResetWizardSynchronizing method (Publisher)
 
 Resets the data that Microsoft Publisher uses to automatically change similar objects to have the same formatting or content.
 
 
 ## Syntax
 
- _expression_. **ResetWizardSynchronizing**
+ _expression_.**ResetWizardSynchronizing**
 
  _expression_ A variable that represents an  **Options** object.
 

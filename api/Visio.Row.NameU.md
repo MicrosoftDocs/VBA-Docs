@@ -1,5 +1,5 @@
 ---
-title: Row.NameU Property (Visio)
+title: Row.NameU property (Visio)
 keywords: vis_sdr.chm15851985
 f1_keywords:
 - vis_sdr.chm15851985
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.NameU Property (Visio)
+# Row.NameU property (Visio)
 
 Specifies the universal name of a  **Row** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `NameU`
+_expression_. `NameU`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.KeyPress Event (Outlook)
+title: OlkCommandButton.KeyPress event (Outlook)
 keywords: vbaol11.chm1000128
 f1_keywords:
 - vbaol11.chm1000128
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCommandButton.KeyPress Event (Outlook)
+# OlkCommandButton.KeyPress event (Outlook)
 
 Occurs when the user presses an ANSI key.
 
@@ -21,7 +21,7 @@ Occurs when the user presses an ANSI key.
 
 _expression_. `KeyPress`( `_KeyAscii_` )
 
-_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Returns or sets the style of the arrowhead at the end of the specified line. Rea
 
 ## Syntax
 
- _expression_. `EndArrowheadStyle`
+_expression_. `EndArrowheadStyle`
 
  _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 

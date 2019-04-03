@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.GetExchangeUser Method (Outlook)
+title: AddressEntry.GetExchangeUser method (Outlook)
 keywords: vbaol11.chm2056
 f1_keywords:
 - vbaol11.chm2056
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.GetExchangeUser Method (Outlook)
+# AddressEntry.GetExchangeUser method (Outlook)
 
 Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](Outlook.AddressList.md)** object such as the Global Address List (GAL) and corresponds to an Exchange user.
 
@@ -21,7 +21,7 @@ Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents t
 
 _expression_. `GetExchangeUser`
 
-_expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## Return value

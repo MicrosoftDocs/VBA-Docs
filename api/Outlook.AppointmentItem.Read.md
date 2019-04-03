@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Read Event (Outlook)
+title: AppointmentItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Read Event (Outlook)
+# AppointmentItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
 _expression_. `Read`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

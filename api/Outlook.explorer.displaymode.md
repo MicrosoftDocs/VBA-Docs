@@ -1,5 +1,5 @@
 ---
-title: Explorer.DisplayMode Property (Outlook)
+title: Explorer.DisplayMode property (Outlook)
 keywords: vbaol11.chm3600
 f1_keywords:
 - vbaol11.chm3600
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.DisplayMode Property (Outlook)
+# Explorer.DisplayMode property (Outlook)
 
 Indicates the display mode: Normal, Portrait View, or Portrait Reading Pane.
 
@@ -37,6 +37,6 @@ _expression_ A variable that 'DisplayMode'represents a  **Explorer** object.
 ## See also
 
 
-[Explorer Object (Outlook)](Outlook.Explorer.md)
+[Explorer object (Outlook)](Outlook.Explorer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

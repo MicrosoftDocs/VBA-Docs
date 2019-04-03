@@ -1,5 +1,5 @@
 ---
-title: Presentations.Open Method (PowerPoint)
+title: Presentations.Open method (PowerPoint)
 keywords: vbapp10.chm522006
 f1_keywords:
 - vbapp10.chm522006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentations.Open Method (PowerPoint)
+# Presentations.Open method (PowerPoint)
 
 Opens the specified presentation. Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents the opened presentation.
 
 
 ## Syntax
 
- _expression_. `Open`( `_FileName_`, `_ReadOnly_`, `_Untitled_`, `_WithWindow_` )
+_expression_. `Open`( `_FileName_`, `_ReadOnly_`, `_Untitled_`, `_WithWindow_` )
 
  _expression_ A variable that represents an [Presentations](./PowerPoint.Presentations.md) object.
 

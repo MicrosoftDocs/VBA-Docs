@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindows Object (PowerPoint)
+title: SlideShowWindows object (PowerPoint)
 keywords: vbapp10.chm510000
 f1_keywords:
 - vbapp10.chm510000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindows Object (PowerPoint)
+# SlideShowWindows object (PowerPoint)
 
 A collection of all the  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** objects that represent the open slide shows in Microsoft PowerPoint.
 

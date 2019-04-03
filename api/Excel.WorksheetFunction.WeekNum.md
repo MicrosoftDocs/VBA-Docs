@@ -21,7 +21,7 @@ Returns a number that indicates where the week falls numerically within a year.
 
 _expression_. `WeekNum`( `_Arg1_` , `_Arg2_` )
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

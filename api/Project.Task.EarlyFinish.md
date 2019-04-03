@@ -1,5 +1,5 @@
 ---
-title: Task.EarlyFinish Property (Project)
+title: Task.EarlyFinish property (Project)
 keywords: vbapj.chm131786
 f1_keywords:
 - vbapj.chm131786
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.EarlyFinish Property (Project)
+# Task.EarlyFinish property (Project)
 
 Gets the earliest date on which a task can finish. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `EarlyFinish`
+_expression_. `EarlyFinish`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: FindReplace.ReplaceScope Property (Publisher)
+title: FindReplace.ReplaceScope property (Publisher)
 keywords: vbapb10.chm8323085
 f1_keywords:
 - vbapb10.chm8323085
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.ReplaceScope Property (Publisher)
+# FindReplace.ReplaceScope property (Publisher)
 
 Specifies how many scope replacements are to be made: one, all, or none. Read/write.
 
 
 ## Syntax
 
- _expression_. **ReplaceScope**
+ _expression_.**ReplaceScope**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

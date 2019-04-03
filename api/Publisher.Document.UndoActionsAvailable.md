@@ -1,5 +1,5 @@
 ---
-title: Document.UndoActionsAvailable Property (Publisher)
+title: Document.UndoActionsAvailable property (Publisher)
 keywords: vbapb10.chm196726
 f1_keywords:
 - vbapb10.chm196726
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.UndoActionsAvailable Property (Publisher)
+# Document.UndoActionsAvailable property (Publisher)
 
 Returns the number of actions available on the undo stack. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. **UndoActionsAvailable**
+ _expression_.**UndoActionsAvailable**
 
  _expression_ A variable that represents an  **Document** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Subproject.LinkToSource Property (Project)
+title: Subproject.LinkToSource property (Project)
 ms.prod: project-server
 api_name:
 - Project.Subproject.LinkToSource
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Subproject.LinkToSource Property (Project)
+# Subproject.LinkToSource property (Project)
 
  **True** if task information in a subproject changes to reflect updates in the master project. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LinkToSource`
+_expression_. `LinkToSource`
 
  _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 

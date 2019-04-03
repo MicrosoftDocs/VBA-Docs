@@ -1,5 +1,5 @@
 ---
-title: SendRuleAction.ActionType Property (Outlook)
+title: SendRuleAction.ActionType property (Outlook)
 keywords: vbaol11.chm2221
 f1_keywords:
 - vbaol11.chm2221
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SendRuleAction.ActionType Property (Outlook)
+# SendRuleAction.ActionType property (Outlook)
 
 Returns a constant,  **olRuleActionRedirect**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant,  **olRuleActionRedirect**, from the **[OlRuleActionType](Out
 
 _expression_. `ActionType`
 
-_expression_ A variable that represents a [SendRuleAction](./Outlook.SendRuleAction.md) object.
+_expression_ A variable that represents a [SendRuleAction](Outlook.SendRuleAction.md) object.
 
 
 ## Remarks

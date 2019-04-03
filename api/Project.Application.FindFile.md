@@ -1,5 +1,5 @@
 ---
-title: Application.FindFile Method (Project)
+title: Application.FindFile method (Project)
 keywords: vbapj.chm2338
 f1_keywords:
 - vbapj.chm2338
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FindFile Method (Project)
+# Application.FindFile method (Project)
 
 Displays the  **File Open** dialog box, which allows the user to search for a file.
 
 
 ## Syntax
 
- _expression_. `FindFile`
+_expression_. `FindFile`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

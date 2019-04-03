@@ -1,5 +1,5 @@
 ---
-title: Panes.Parent Property (Outlook)
+title: Panes.Parent property (Outlook)
 keywords: vbaol11.chm77
 f1_keywords:
 - vbaol11.chm77
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Panes.Parent Property (Outlook)
+# Panes.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Panes](./Outlook.Panes.md) object.
+_expression_ A variable that represents a [Panes](Outlook.Panes.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.BeforeAutoSave Event (Outlook)
+title: TaskRequestItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.BeforeAutoSave Event (Outlook)
+# TaskRequestItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 
@@ -18,7 +18,7 @@ Occurs before the item is automatically saved by Outlook.
 
 _expression_. `BeforeAutoSave`( `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Parameters

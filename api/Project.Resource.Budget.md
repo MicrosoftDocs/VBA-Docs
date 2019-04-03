@@ -1,5 +1,5 @@
 ---
-title: Resource.Budget Property (Project)
+title: Resource.Budget property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Budget
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Budget Property (Project)
+# Resource.Budget property (Project)
 
 Flag indicating whether the  **Resource** object is a budget resource. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Budget`
+_expression_. `Budget`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

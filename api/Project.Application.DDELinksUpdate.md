@@ -1,5 +1,5 @@
 ---
-title: Application.DDELinksUpdate Method (Project)
+title: Application.DDELinksUpdate method (Project)
 keywords: vbapj.chm2053
 f1_keywords:
 - vbapj.chm2053
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DDELinksUpdate Method (Project)
+# Application.DDELinksUpdate method (Project)
 
 Updates dynamic data exchange (DDE) links.
 
 
 ## Syntax
 
- _expression_. `DDELinksUpdate`
+_expression_. `DDELinksUpdate`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

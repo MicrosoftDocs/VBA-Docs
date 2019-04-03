@@ -1,5 +1,5 @@
 ---
-title: NameSpace.AutoDiscoverComplete Event (Outlook)
+title: NameSpace.AutoDiscoverComplete event (Outlook)
 keywords: vbaol11.chm3301
 f1_keywords:
 - vbaol11.chm3301
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.AutoDiscoverComplete Event (Outlook)
+# NameSpace.AutoDiscoverComplete event (Outlook)
 
 Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange server that hosts the primary Exchange account and has the related information available in  **[NameSpace.AutoDiscoverXml](Outlook.NameSpace.AutoDiscoverXml.md)**.
 

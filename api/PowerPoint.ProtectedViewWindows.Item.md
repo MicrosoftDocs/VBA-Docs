@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Item Method (PowerPoint)
+title: ProtectedViewWindows.Item method (PowerPoint)
 keywords: vbapp10.chm733003
 f1_keywords:
 - vbapp10.chm733003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindows.Item Method (PowerPoint)
+# ProtectedViewWindows.Item method (PowerPoint)
 
 Returns a single  **ProtectedViewWindow** object from the specified **ProtectedViewWindows** collection.
 

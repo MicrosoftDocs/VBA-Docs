@@ -19,7 +19,7 @@ Returns a  **Variant** array that contains the current values of the changing ce
 
 ## Syntax
 
-_expression_. `Values`( `_Index_` )
+_expression_. `Values` (_Index_)
 
 _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 

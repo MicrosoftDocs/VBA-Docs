@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.IsLatestVersion Property (Outlook)
+title: MeetingItem.IsLatestVersion property (Outlook)
 keywords: vbaol11.chm3535
 f1_keywords:
 - vbaol11.chm3535
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.IsLatestVersion Property (Outlook)
+# MeetingItem.IsLatestVersion property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[MeetingItem](Outlook.MeetingItem.md)** represents the latest version of the item on the organizer's calendar. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[MeetingItem](Outlook.
 
 _expression_. `IsLatestVersion`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

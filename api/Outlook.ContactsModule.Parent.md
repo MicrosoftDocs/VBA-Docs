@@ -1,5 +1,5 @@
 ---
-title: ContactsModule.Parent Property (Outlook)
+title: ContactsModule.Parent property (Outlook)
 keywords: vbaol11.chm2835
 f1_keywords:
 - vbaol11.chm2835
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactsModule.Parent Property (Outlook)
+# ContactsModule.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ContactsModule](./Outlook.ContactsModule.md) object.
+_expression_ A variable that represents a [ContactsModule](Outlook.ContactsModule.md) object.
 
 
 ## See also

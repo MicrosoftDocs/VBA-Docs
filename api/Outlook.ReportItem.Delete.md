@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Delete Method (Outlook)
+title: ReportItem.Delete method (Outlook)
 keywords: vbaol11.chm1666
 f1_keywords:
 - vbaol11.chm1666
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Delete Method (Outlook)
+# ReportItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
@@ -21,7 +21,7 @@ Removes the item from the folder that contains the item.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks

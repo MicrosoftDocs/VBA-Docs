@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Type Property (Publisher)
+title: Hyperlink.Type property (Publisher)
 keywords: vbapb10.chm4587537
 f1_keywords:
 - vbapb10.chm4587537
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Type Property (Publisher)
+# Hyperlink.Type property (Publisher)
 
 Returns an  **MsoHyperlinkType** constant that represents the hyperlink type. Read-only.
 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

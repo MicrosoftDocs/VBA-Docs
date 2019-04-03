@@ -1,5 +1,5 @@
 ---
-title: Selection.UpdateAlignmentBox Method (Visio)
+title: Selection.UpdateAlignmentBox method (Visio)
 keywords: vis_sdr.chm11116635
 f1_keywords:
 - vis_sdr.chm11116635
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.UpdateAlignmentBox Method (Visio)
+# Selection.UpdateAlignmentBox method (Visio)
 
 Updates the alignment box for a shape.
 
 
 ## Syntax
 
- _expression_. `UpdateAlignmentBox`
+_expression_. `UpdateAlignmentBox`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.MouseIcon Property (Outlook)
+title: OlkDateControl.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000353
 f1_keywords:
 - vbaol11.chm1000353
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.MouseIcon Property (Outlook)
+# OlkDateControl.MouseIcon property (Outlook)
 
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 _expression_. `MouseIcon`
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Remarks

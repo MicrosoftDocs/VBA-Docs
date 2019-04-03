@@ -1,5 +1,5 @@
 ---
-title: ResourceGroups.Copy Method (Project)
+title: ResourceGroups.Copy method (Project)
 ms.prod: project-server
 api_name:
 - Project.ResourceGroups.Copy
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ResourceGroups.Copy Method (Project)
+# ResourceGroups.Copy method (Project)
 
 Makes a copy of a group definition for the  **ResourceGroups** collection and returns a reference to the **[Group](Project.Group.md)** object.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Name_`, `_NewName_` )
+_expression_. `Copy`( `_Name_`, `_NewName_` )
 
  _expression_ A variable that represents a 'ResourceGroups' object.
 

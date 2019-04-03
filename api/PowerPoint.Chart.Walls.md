@@ -1,5 +1,5 @@
 ---
-title: Chart.Walls Property (PowerPoint)
+title: Chart.Walls property (PowerPoint)
 keywords: vbapp10.chm684047
 f1_keywords:
 - vbapp10.chm684047
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.Walls Property (PowerPoint)
+# Chart.Walls property (PowerPoint)
 
 Returns the walls of the 3-D chart. Read-only  **[Walls](PowerPoint.Walls.md)**.
 
 
 ## Syntax
 
- _expression_. `Walls`
+_expression_. `Walls`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

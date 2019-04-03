@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowLegendFieldButtons Property (PowerPoint)
+title: Chart.ShowLegendFieldButtons property (PowerPoint)
 keywords: vbapp10.chm684050
 f1_keywords:
 - vbapp10.chm684050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.ShowLegendFieldButtons Property (PowerPoint)
+# Chart.ShowLegendFieldButtons property (PowerPoint)
 
 Returns or sets a value that indicates whether to display legend field buttons on a PivotChart. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowLegendFieldButtons`
+_expression_. `ShowLegendFieldButtons`
 
 _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 

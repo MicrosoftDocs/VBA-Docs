@@ -19,7 +19,7 @@ Fills the specified shape with one large image. .
 
 ## Syntax
 
- _expression_. `UserPicture`( `_PictureFile_` )
+_expression_. `UserPicture`( `_PictureFile_` )
 
  _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 

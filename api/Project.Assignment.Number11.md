@@ -1,5 +1,5 @@
 ---
-title: Assignment.Number11 Property (Project)
+title: Assignment.Number11 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Number11
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Number11 Property (Project)
+# Assignment.Number11 property (Project)
 
 Gets or sets a Number local custom field for an assignment. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `Number11`
+_expression_. `Number11`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

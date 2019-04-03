@@ -1,5 +1,5 @@
 ---
-title: Research.SetLanguagePair Method (PowerPoint)
+title: Research.SetLanguagePair method (PowerPoint)
 keywords: vbapp10.chm676004
 f1_keywords:
 - vbapp10.chm676004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Research.SetLanguagePair Method (PowerPoint)
+# Research.SetLanguagePair method (PowerPoint)
 
 Sets the languages for the translation service.
 
 
 ## Syntax
 
- _expression_. `SetLanguagePair`( `_Language1_`, `_Language2_` )
+_expression_. `SetLanguagePair`( `_Language1_`, `_Language2_` )
 
  _expression_ An expression that returns a [Research](./PowerPoint.Research.md) object.
 

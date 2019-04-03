@@ -1,5 +1,5 @@
 ---
-title: Explorer.Top Property (Outlook)
+title: Explorer.Top property (Outlook)
 keywords: vbaol11.chm2771
 f1_keywords:
 - vbaol11.chm2771
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Top Property (Outlook)
+# Explorer.Top property (Outlook)
 
 Returns or sets a  **Long** indicating the position (in pixels) of the top horizontal edge of an explorer window from the edge of the screen. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the position (in pixels) of the top horiz
 
 _expression_.**Top**
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## See also

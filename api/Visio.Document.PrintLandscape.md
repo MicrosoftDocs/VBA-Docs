@@ -1,5 +1,5 @@
 ---
-title: Document.PrintLandscape Property (Visio)
+title: Document.PrintLandscape property (Visio)
 keywords: vis_sdr.chm10514120
 f1_keywords:
 - vis_sdr.chm10514120
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintLandscape Property (Visio)
+# Document.PrintLandscape property (Visio)
 
 Indicates whether a document's drawings are printed in landscape or portrait orientation. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintLandscape`
+_expression_. `PrintLandscape`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

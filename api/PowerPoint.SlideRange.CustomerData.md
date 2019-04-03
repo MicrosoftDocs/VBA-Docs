@@ -1,5 +1,5 @@
 ---
-title: SlideRange.CustomerData Property (PowerPoint)
+title: SlideRange.CustomerData property (PowerPoint)
 keywords: vbapp10.chm532043
 f1_keywords:
 - vbapp10.chm532043
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.CustomerData Property (PowerPoint)
+# SlideRange.CustomerData property (PowerPoint)
 
 Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomerData`
+_expression_. `CustomerData`
 
  _expression_ An expression that returns a [SlideRange](./PowerPoint.SlideRange.md) object.
 

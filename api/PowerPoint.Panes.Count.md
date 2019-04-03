@@ -1,5 +1,5 @@
 ---
-title: Panes.Count Property (PowerPoint)
+title: Panes.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Panes.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Panes.Count Property (PowerPoint)
+# Panes.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

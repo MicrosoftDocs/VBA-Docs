@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.SelectedTimeZoneIndex Property (Outlook)
+title: OlkTimeZoneControl.SelectedTimeZoneIndex property (Outlook)
 keywords: vbaol11.chm1000533
 f1_keywords:
 - vbaol11.chm1000533
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.SelectedTimeZoneIndex Property (Outlook)
+# OlkTimeZoneControl.SelectedTimeZoneIndex property (Outlook)
 
 Returns or sets an index into the  **[Application.TimeZones](Outlook.Application.TimeZones.md)** collection that determines the selected time zone. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an index into the  **[Application.TimeZones](Outlook.Application
 
 _expression_. `SelectedTimeZoneIndex`
 
-_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Remarks

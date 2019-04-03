@@ -1,5 +1,5 @@
 ---
-title: Color.Blue Property (Visio)
+title: Color.Blue property (Visio)
 keywords: vis_sdr.chm12213145
 f1_keywords:
 - vis_sdr.chm12213145
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Color.Blue Property (Visio)
+# Color.Blue property (Visio)
 
 Gets or sets the intensity of the blue component of a  **Color** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Blue`
+_expression_. `Blue`
 
  _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 

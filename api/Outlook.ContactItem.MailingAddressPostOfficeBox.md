@@ -1,5 +1,5 @@
 ---
-title: ContactItem.MailingAddressPostOfficeBox Property (Outlook)
+title: ContactItem.MailingAddressPostOfficeBox property (Outlook)
 keywords: vbaol11.chm1038
 f1_keywords:
 - vbaol11.chm1038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.MailingAddressPostOfficeBox Property (Outlook)
+# ContactItem.MailingAddressPostOfficeBox property (Outlook)
 
 Returns or sets a  **String** representing the post office box number portion of the selected mailing address of the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the post office box number portion of
 
 _expression_. `MailingAddressPostOfficeBox`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

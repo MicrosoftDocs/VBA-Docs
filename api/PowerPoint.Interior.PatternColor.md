@@ -1,5 +1,5 @@
 ---
-title: Interior.PatternColor Property (PowerPoint)
+title: Interior.PatternColor property (PowerPoint)
 keywords: vbapp10.chm707005
 f1_keywords:
 - vbapp10.chm707005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Interior.PatternColor Property (PowerPoint)
+# Interior.PatternColor property (PowerPoint)
 
 Returns or sets the color of the interior pattern as an RGB value. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `PatternColor`
+_expression_. `PatternColor`
 
  _expression_ A variable that represents an '[Interior](PowerPoint.Interior.md)' object.
 

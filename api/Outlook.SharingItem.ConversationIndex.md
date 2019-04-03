@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ConversationIndex Property (Outlook)
+title: SharingItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm603
 f1_keywords:
 - vbaol11.chm603
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ConversationIndex Property (Outlook)
+# SharingItem.ConversationIndex property (Outlook)
 
 Returns a  **String** representing the index of the conversation thread of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the index of the conversation thread of the *
 
 _expression_. `ConversationIndex`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

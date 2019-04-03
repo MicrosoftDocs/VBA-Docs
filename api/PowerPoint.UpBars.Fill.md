@@ -1,5 +1,5 @@
 ---
-title: UpBars.Fill Property (PowerPoint)
+title: UpBars.Fill property (PowerPoint)
 keywords: vbapp10.chm67199
 f1_keywords:
 - vbapp10.chm67199
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# UpBars.Fill Property (PowerPoint)
+# UpBars.Fill property (PowerPoint)
 
 Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
 
 
 ## Syntax
 
- _expression_. `Fill`
+_expression_. `Fill`
 
  _expression_ A variable that represents an '[UpBars](PowerPoint.UpBars.md)' object.
 

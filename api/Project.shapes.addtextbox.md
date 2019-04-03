@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextbox Method (Project)
+title: Shapes.AddTextbox method (Project)
 ms.prod: project-server
 ms.assetid: ee8c619f-8b35-6f94-e680-86dbeedd6d19
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddTextbox Method (Project)
+# Shapes.AddTextbox method (Project)
 Adds a text box to the report, and returns a  **Shape** object that represents the new text box.
 
 ## Syntax
 
- _expression_. `AddTextbox` _(Orientation,_ _Left,_ _Top,_ _Width,_ _Height)_
+_expression_. `AddTextbox` _(Orientation,_ _Left,_ _Top,_ _Width,_ _Height)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SpaceBefore Property (Publisher)
+title: ParagraphFormat.SpaceBefore property (Publisher)
 keywords: vbapb10.chm5439497
 f1_keywords:
 - vbapb10.chm5439497
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.SpaceBefore Property (Publisher)
+# ParagraphFormat.SpaceBefore property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of spacing (in points) before one or more paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **SpaceBefore**
+ _expression_.**SpaceBefore**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

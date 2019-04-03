@@ -1,5 +1,5 @@
 ---
-title: ReportItem.EntryID Property (Outlook)
+title: ReportItem.EntryID property (Outlook)
 keywords: vbaol11.chm1647
 f1_keywords:
 - vbaol11.chm1647
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.EntryID Property (Outlook)
+# ReportItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks

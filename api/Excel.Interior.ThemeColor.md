@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Interior.ThemeColor property (Excel)
 
-Returns or sets a **Variant** value, containing an **[xlThemeColor](Excel.XlThemeColor.md)** constant, that represents the color. Read/write **Variant**.
+Returns or sets a **Variant** value, containing an **[XlThemeColor](Excel.XlThemeColor.md)** constant, that represents the color. Read/write **Variant**.
 
 
 ## Syntax

@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Walls.PictureUnit property (Word)
 
-Returns or sets the unit for each picture on the chart if the  **[PictureType](./Excel.Series.PictureType.md)** property is set to **xlStackScale** ; otherwise, this property is ignored. Read/write **Long**.
+Returns or sets the unit for each picture on the chart if the  **[PictureType](Excel.Series.PictureType.md)** property is set to **xlStackScale** ; otherwise, this property is ignored. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `PictureUnit`
+_expression_. `PictureUnit`
 
  _expression_ A variable that represents a '[Walls](Word.Walls.md)' object.
 

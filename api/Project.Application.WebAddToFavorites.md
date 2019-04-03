@@ -1,5 +1,5 @@
 ---
-title: Application.WebAddToFavorites Method (Project)
+title: Application.WebAddToFavorites method (Project)
 keywords: vbapj.chm1314
 f1_keywords:
 - vbapj.chm1314
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WebAddToFavorites Method (Project)
+# Application.WebAddToFavorites method (Project)
 
 Adds a link to the current document or selection to the Favorites folder for the user. 
 
 
 ## Syntax
 
- _expression_. `WebAddToFavorites`( `_CurrentLink_` )
+_expression_. `WebAddToFavorites`( `_CurrentLink_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

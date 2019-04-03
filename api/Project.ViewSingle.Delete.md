@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Delete Method (Project)
+title: ViewSingle.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Delete Method (Project)
+# ViewSingle.Delete method (Project)
 
 Deletes the  **ViewSingle** object from a **ViewsSingle** collection.
 

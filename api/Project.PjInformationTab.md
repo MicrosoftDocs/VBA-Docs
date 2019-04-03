@@ -1,5 +1,5 @@
 ---
-title: PjInformationTab Enumeration (Project)
+title: PjInformationTab enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjInformationTab
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjInformationTab Enumeration (Project)
+# PjInformationTab enumeration (Project)
 
 Contains constants that specify which information tab to display.
 

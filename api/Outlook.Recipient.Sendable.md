@@ -1,5 +1,5 @@
 ---
-title: Recipient.Sendable Property (Outlook)
+title: Recipient.Sendable property (Outlook)
 keywords: vbaol11.chm3476
 f1_keywords:
 - vbaol11.chm3476
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Sendable Property (Outlook)
+# Recipient.Sendable property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a meeting request can be sent to the **[Recipient](Outlook.Recipient.md)**. Read/write
 

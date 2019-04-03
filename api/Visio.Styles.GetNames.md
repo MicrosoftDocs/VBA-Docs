@@ -1,5 +1,5 @@
 ---
-title: Styles.GetNames Method (Visio)
+title: Styles.GetNames method (Visio)
 keywords: vis_sdr.chm11516315
 f1_keywords:
 - vis_sdr.chm11516315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Styles.GetNames Method (Visio)
+# Styles.GetNames method (Visio)
 
 Returns the names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNames`( `_localeSpecificNameArray()_` )
+_expression_. `GetNames`( `_localeSpecificNameArray()_` )
 
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 

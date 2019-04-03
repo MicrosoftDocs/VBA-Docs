@@ -1,5 +1,5 @@
 ---
-title: Series.Values Property (Project)
+title: Series.Values property (Project)
 keywords: vbapj.chm132608
 f1_keywords:
 - vbapj.chm132608
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Series.Values Property (Project)
+# Series.Values property (Project)
 Gets the vertical (Y) axis values for the data series on a chart. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. `Values`
+_expression_. `Values`
 
  _expression_ A variable that represents a 'Series' object.
 

@@ -19,7 +19,7 @@ Accepts the user specified conflict change, and removes the conflict.
 
 ## Syntax
 
- _expression_. `Accept`
+_expression_. `Accept`
 
  _expression_ An expression that returns a [Conflict](./Word.Conflict.md) object.
 

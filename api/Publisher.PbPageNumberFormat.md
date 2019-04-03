@@ -1,5 +1,5 @@
 ---
-title: PbPageNumberFormat Enumeration (Publisher)
+title: PbPageNumberFormat enumeration (Publisher)
 keywords: vbapb10.chm65618
 f1_keywords:
 - vbapb10.chm65618
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPageNumberFormat Enumeration (Publisher)
+# PbPageNumberFormat enumeration (Publisher)
 
 Represents the formatting of the page numbering.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WindowOpened Event (Visio)
+title: Application.WindowOpened event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.WindowOpened
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowOpened Event (Visio)
+# Application.WindowOpened event (Visio)
 
 Occurs after a window is opened.
 

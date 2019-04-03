@@ -1,5 +1,5 @@
 ---
-title: Calendar.WeekDays Property (Project)
+title: Calendar.WeekDays property (Project)
 keywords: vbapj.chm132819
 f1_keywords:
 - vbapj.chm132819
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Calendar.WeekDays Property (Project)
+# Calendar.WeekDays property (Project)
 
 Gets a  **[Weekdays](Project.WeekDay.md)** collection representing the weekdays in the calendar. Read-only **Weekdays**.
 
 
 ## Syntax
 
- _expression_. `WeekDays`
+_expression_. `WeekDays`
 
  _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 

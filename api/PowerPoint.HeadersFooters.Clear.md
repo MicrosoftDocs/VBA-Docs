@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Clear Method (PowerPoint)
+title: HeadersFooters.Clear method (PowerPoint)
 keywords: vbapp10.chm542008
 f1_keywords:
 - vbapp10.chm542008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# HeadersFooters.Clear Method (PowerPoint)
+# HeadersFooters.Clear method (PowerPoint)
 
 Clears the header and footer from the specified slide or slides.
 
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_. `Clear`
 
  _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 

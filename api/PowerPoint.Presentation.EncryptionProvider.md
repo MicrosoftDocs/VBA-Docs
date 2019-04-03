@@ -1,5 +1,5 @@
 ---
-title: Presentation.EncryptionProvider Property (PowerPoint)
+title: Presentation.EncryptionProvider property (PowerPoint)
 keywords: vbapp10.chm583109
 f1_keywords:
 - vbapp10.chm583109
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.EncryptionProvider Property (PowerPoint)
+# Presentation.EncryptionProvider property (PowerPoint)
 
 Returns a  **String** that specifies the name of the algorithm encryption provider that PowerPoint uses when encrypting documents. Read/write.
 
 
 ## Syntax
 
- _expression_. `EncryptionProvider`
+_expression_. `EncryptionProvider`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

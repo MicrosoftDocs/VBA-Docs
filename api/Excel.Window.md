@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Window
 ms.assetid: 8591b1ad-76f8-14e2-9120-406b65093f5a
-ms.date: 06/08/2017
+ms.date: 04/03/2019
 localization_priority: Normal
 ---
 
@@ -19,24 +19,26 @@ Represents a window.
 
 ## Remarks
 
- Many worksheet characteristics, such as scroll bars and gridlines, are actually properties of the window. The **Window** object is a member of the **[Windows](Excel.Windows.md)** collection. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Workbook** object contains only the windows in the specified workbook.
+Many worksheet characteristics, such as scroll bars and gridlines, are actually properties of the window. The **Window** object is a member of the **[Windows](Excel.Windows.md)** collection. 
+
+The **Windows** collection for the **[Application](Excel.Application(object).md)** object contains all the windows in the application, whereas the **Windows** collection for the **[Workbook](Excel.Workbook.md)** object contains only the windows in the specified workbook.
 
 
 ## Example
 
-Use  **Windows** (_index_), where _index_ is the window name or index number, to return a single **Window** object. The following example maximizes the active window.
-
+Use **[Windows](excel.application.windows.md)** (_index_), where _index_ is the window name or index number, to return a single **Window** object. The following example maximizes the active window.
 
 ```vb
 Windows(1).WindowState = xlMaximized
 ```
 
-Note that the active window is always  `Windows(1)`.
+Note that the active window is always `Windows(1)`.
 
-The window caption is the text shown in the title bar at the top of the window when the window isn't maximized. The caption is also shown in the list of open files on the bottom of the  **Windows** menu. Use the **[Caption](Excel.Window.Caption.md)** property to set or return the window caption. Changing the window caption doesn't change the name of the workbook. The following example turns off cell gridlines for the worksheet shown in the Book1.xls:1 window.
+<br/>
 
+The window caption is the text shown in the title bar at the top of the window when the window isn't maximized. The caption is also shown in the list of open files on the bottom of the **Windows** menu. Use the **Caption** property to set or return the window caption. Changing the window caption doesn't change the name of the workbook. 
 
-
+The following example turns off cell gridlines for the worksheet shown in the Book1.xls:1 window.
 
 ```vb
 Windows("book1.xls":1).DisplayGridlines = False
@@ -120,6 +122,6 @@ Windows("book1.xls":1).DisplayGridlines = False
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

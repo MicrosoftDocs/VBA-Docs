@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry Object (Project)
+title: LookupTableEntry object (Project)
 ms.prod: project-server
 api_name:
 - Project.LookupTableEntry
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry Object (Project)
+# LookupTableEntry object (Project)
 
 
  

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Recolor Method (Publisher)
+title: PictureFormat.Recolor method (Publisher)
 keywords: vbapb10.chm3604793
 f1_keywords:
 - vbapb10.chm3604793
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Recolor Method (Publisher)
+# PictureFormat.Recolor method (Publisher)
 
 Changes the color of a picture in a publication.
 
 
 ## Syntax
 
- _expression_. **Recolor**(**_Color_**,  **_LeaveBlackPartsBlack_**)
+ _expression_.**Recolor**(**_Color_**,  **_LeaveBlackPartsBlack_**)
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

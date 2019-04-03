@@ -1,5 +1,5 @@
 ---
-title: VisCharsBias Enumeration (Visio)
+title: VisCharsBias enumeration (Visio)
 keywords: vis_sdr.chm70100
 f1_keywords:
 - vis_sdr.chm70100
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisCharsBias Enumeration (Visio)
+# VisCharsBias enumeration (Visio)
 
 Bias constants to be passed to the  **Characters.CharPropsRow** property and similar properties.
 

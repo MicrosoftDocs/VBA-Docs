@@ -1,5 +1,5 @@
 ---
-title: Shape.AreaIU Property (Visio)
+title: Shape.AreaIU property (Visio)
 keywords: vis_sdr.chm11213095
 f1_keywords:
 - vis_sdr.chm11213095
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.AreaIU Property (Visio)
+# Shape.AreaIU property (Visio)
 
 Returns the area of a  **Shape** object in internal units (square inches). Read-only.
 
 
 ## Syntax
 
- _expression_. `AreaIU`( `_fIncludeSubShapes_` )
+_expression_. `AreaIU`( `_fIncludeSubShapes_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

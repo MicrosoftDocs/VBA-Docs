@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceAddressBook Method (Project)
+title: Application.ResourceAddressBook method (Project)
 keywords: vbapj.chm2115
 f1_keywords:
 - vbapj.chm2115
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceAddressBook Method (Project)
+# Application.ResourceAddressBook method (Project)
 
 Displays a MAPI-compliant address book from which the user can select resources for the project. 
 
 
 ## Syntax
 
- _expression_. `ResourceAddressBook`
+_expression_. `ResourceAddressBook`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

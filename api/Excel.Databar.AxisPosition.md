@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 ## Return value
 
- **[xlDataBarAxisPosition](Excel.XlDataBarAxisPosition.md)**
+ **[XlDataBarAxisPosition](Excel.XlDataBarAxisPosition.md)**
 
 
 ## Remarks

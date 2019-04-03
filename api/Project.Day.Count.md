@@ -1,5 +1,5 @@
 ---
-title: Day.Count Property (Project)
+title: Day.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Day.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Day.Count Property (Project)
+# Day.Count property (Project)
 
 Gets the number of days in the  **Day** object, which is the value 1. Read-only **Integer**.
 

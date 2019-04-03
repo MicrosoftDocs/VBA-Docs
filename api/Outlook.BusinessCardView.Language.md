@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Language Property (Outlook)
+title: BusinessCardView.Language property (Outlook)
 keywords: vbaol11.chm2926
 f1_keywords:
 - vbaol11.chm2926
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Language Property (Outlook)
+# BusinessCardView.Language property (Outlook)
 
 Returns or sets a  **String** value that represents the language setting for the object that defines the language used in the menu. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the language setting for the
 
 _expression_. `Language`
 
-_expression_ A variable that represents a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+_expression_ A variable that represents a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

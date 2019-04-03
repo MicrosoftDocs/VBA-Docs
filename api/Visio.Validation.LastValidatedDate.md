@@ -1,5 +1,5 @@
 ---
-title: Validation.LastValidatedDate Property (Visio)
+title: Validation.LastValidatedDate property (Visio)
 keywords: vis_sdr.chm18062705
 f1_keywords:
 - vis_sdr.chm18062705
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Validation.LastValidatedDate Property (Visio)
+# Validation.LastValidatedDate property (Visio)
 
 Returns the time and date the document was last validated. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastValidatedDate`
+_expression_. `LastValidatedDate`
 
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 

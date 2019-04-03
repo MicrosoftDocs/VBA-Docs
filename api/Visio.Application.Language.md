@@ -1,5 +1,5 @@
 ---
-title: Application.Language Property (Visio)
+title: Application.Language property (Visio)
 keywords: vis_sdr.chm10013800
 f1_keywords:
 - vis_sdr.chm10013800
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Language Property (Visio)
+# Application.Language property (Visio)
 
 Represents the language ID of the version of the Microsoft Visio instance represented by the parent object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Language`
+_expression_. `Language`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

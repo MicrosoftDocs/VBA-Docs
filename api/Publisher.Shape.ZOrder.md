@@ -1,5 +1,5 @@
 ---
-title: Shape.ZOrder Method (Publisher)
+title: Shape.ZOrder method (Publisher)
 keywords: vbapb10.chm2228272
 f1_keywords:
 - vbapb10.chm2228272
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.ZOrder Method (Publisher)
+# Shape.ZOrder method (Publisher)
 
 Moves the specified shape in front of or behind other shapes in the collection (that is, changes the shape's position in the z-order).
 
 
 ## Syntax
 
- _expression_. **ZOrder**(**_ZOrderCmd_**)
+ _expression_.**ZOrder**(**_ZOrderCmd_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

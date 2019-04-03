@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.Limit Property (Publisher)
+title: WebTextBox.Limit property (Publisher)
 keywords: vbapb10.chm4194309
 f1_keywords:
 - vbapb10.chm4194309
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebTextBox.Limit Property (Publisher)
+# WebTextBox.Limit property (Publisher)
 
 Returns or sets a  **Long** that represents the maximum number of characters that can be entered into a Web text box control. Read/write.
 
 
 ## Syntax
 
- _expression_. **Limit**
+ _expression_.**Limit**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ReportPrint Method (Project)
+title: Application.ReportPrint method (Project)
 keywords: vbapj.chm110
 f1_keywords:
 - vbapj.chm110
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ReportPrint Method (Project)
+# Application.ReportPrint method (Project)
 
 Deprecated in Project. Prints a report.
 
 
 ## Syntax
 
- _expression_. `ReportPrint`( `_Name_`, `_FromPage_`, `_ToPage_`, `_PageBreaks_`, `_Draft_`, `_Copies_`, `_FromDate_`, `_ToDate_`, `_Preview_`, `_Color_` )
+_expression_. `ReportPrint`( `_Name_`, `_FromPage_`, `_ToPage_`, `_PageBreaks_`, `_Draft_`, `_Copies_`, `_FromDate_`, `_ToDate_`, `_Preview_`, `_Color_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

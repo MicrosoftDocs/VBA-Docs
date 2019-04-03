@@ -1,5 +1,5 @@
 ---
-title: Application.Name Property (Visio)
+title: Application.Name property (Visio)
 keywords: vis_sdr.chm10014150
 f1_keywords:
 - vis_sdr.chm10014150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Name Property (Visio)
+# Application.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

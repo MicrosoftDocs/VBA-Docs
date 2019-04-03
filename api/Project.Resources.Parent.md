@@ -1,5 +1,5 @@
 ---
-title: Resources.Parent Property (Project)
+title: Resources.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resources.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Resources.Parent Property (Project)
+# Resources.Parent property (Project)
 
 Gets the parent of the  **Resources** object. Read-only **Project**.
 

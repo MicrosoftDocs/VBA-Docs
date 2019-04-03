@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.Stat Property (Visio)
+title: ContainerProperties.Stat property (Visio)
 keywords: vis_sdr.chm17614420
 f1_keywords:
 - vis_sdr.chm17614420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.Stat Property (Visio)
+# ContainerProperties.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ An expression that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

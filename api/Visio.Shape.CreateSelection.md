@@ -1,5 +1,5 @@
 ---
-title: Shape.CreateSelection Method (Visio)
+title: Shape.CreateSelection method (Visio)
 keywords: vis_sdr.chm11251430
 f1_keywords:
 - vis_sdr.chm11251430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CreateSelection Method (Visio)
+# Shape.CreateSelection method (Visio)
 
 Creates various types of  **Selection** objects.
 
 
 ## Syntax
 
- _expression_. `CreateSelection`( `_SelType_` , `_IterationMode_` , `_[Data]_` )
+_expression_. `CreateSelection`( `_SelType_` , `_IterationMode_` , `_[Data]_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

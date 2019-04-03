@@ -1,5 +1,5 @@
 ---
-title: Series.Smooth Property (PowerPoint)
+title: Series.Smooth property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Smooth
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Series.Smooth Property (PowerPoint)
+# Series.Smooth property (PowerPoint)
 
  **True** if curve smoothing is enabled for the line chart or scatter chart. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Smooth`
+_expression_. `Smooth`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

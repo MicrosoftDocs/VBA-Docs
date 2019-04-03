@@ -1,5 +1,5 @@
 ---
-title: Attachments.Parent Property (Publisher)
+title: Attachments.Parent property (Publisher)
 keywords: vbapb10.chm569346
 f1_keywords:
 - vbapb10.chm569346
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Attachments.Parent Property (Publisher)
+# Attachments.Parent property (Publisher)
 
 Returns the parent of the  **[Attachments](Publisher.Attachments.md)** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents an  **Attachments** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.LockAspectRatio Property (Project)
+title: ShapeRange.LockAspectRatio property (Project)
 ms.prod: project-server
 ms.assetid: 82d60445-a114-d060-a85b-6a631df4c2ab
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.LockAspectRatio Property (Project)
+# ShapeRange.LockAspectRatio property (Project)
 Gets or sets a value that indicates whether the shape range retains its original proportions when you resize it; that is, the aspect ratio of the shape range is locked. Read-write  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 
- _expression_. `LockAspectRatio`
+_expression_. `LockAspectRatio`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

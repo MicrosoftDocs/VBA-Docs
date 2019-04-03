@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceAssignment Method (Project)
+title: Application.ResourceAssignment method (Project)
 keywords: vbapj.chm212
 f1_keywords:
 - vbapj.chm212
@@ -12,13 +12,13 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceAssignment Method (Project)
+# Application.ResourceAssignment method (Project)
 
 Assigns, removes, or replaces the resources of the selected tasks, or changes the number of units for a resource.
 
 ## Syntax
 
-_expression_. **ResourceAssignment** (**_Resources_**, **_Operation_**, **_With_**)
+_expression_.**ResourceAssignment** (**_Resources_**, **_Operation_**, **_With_**)
 
 _expression_ A variable that represents an **Application** object.
 

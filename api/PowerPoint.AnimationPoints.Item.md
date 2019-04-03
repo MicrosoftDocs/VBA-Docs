@@ -1,5 +1,5 @@
 ---
-title: AnimationPoints.Item Method (PowerPoint)
+title: AnimationPoints.Item method (PowerPoint)
 keywords: vbapp10.chm663003
 f1_keywords:
 - vbapp10.chm663003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoints.Item Method (PowerPoint)
+# AnimationPoints.Item method (PowerPoint)
 
 Returns a single  **AnimationPoint** object from the specified **AnimationPoints** collection.
 

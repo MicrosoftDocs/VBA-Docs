@@ -1,5 +1,5 @@
 ---
-title: Page.Layers Property (Visio)
+title: Page.Layers property (Visio)
 keywords: vis_sdr.chm10913820
 f1_keywords:
 - vis_sdr.chm10913820
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Layers Property (Visio)
+# Page.Layers property (Visio)
 
 Returns the  **Layers** collection of an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Layers`
+_expression_. `Layers`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

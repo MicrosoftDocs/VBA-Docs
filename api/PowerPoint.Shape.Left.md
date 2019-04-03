@@ -1,5 +1,5 @@
 ---
-title: Shape.Left Property (PowerPoint)
+title: Shape.Left property (PowerPoint)
 keywords: vbapp10.chm547026
 f1_keywords:
 - vbapp10.chm547026
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Left Property (PowerPoint)
+# Shape.Left property (PowerPoint)
 
 Returns or sets a  **Single** that represents the distance in points from the left edge of the shape's bounding box to the left edge of the slide. Read/write.
 

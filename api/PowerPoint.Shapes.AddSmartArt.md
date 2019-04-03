@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddSmartArt Method (PowerPoint)
+title: Shapes.AddSmartArt method (PowerPoint)
 keywords: vbapp10.chm543034
 f1_keywords:
 - vbapp10.chm543034
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddSmartArt Method (PowerPoint)
+# Shapes.AddSmartArt method (PowerPoint)
 
 Adds a SmartArt diagram to the  **Shapes** object.
 
 
 ## Syntax
 
- _expression_. `AddSmartArt`( `_Layout_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
+_expression_. `AddSmartArt`( `_Layout_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

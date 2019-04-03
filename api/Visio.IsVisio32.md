@@ -1,5 +1,5 @@
 ---
-title: Application.IsVisio32 Property (Visio)
+title: Application.IsVisio32 property (Visio)
 keywords: vis_sdr.chm10000000
 f1_keywords:
 - vis_sdr.chm10000000
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.IsVisio32 Property (Visio)
+# Application.IsVisio32 property (Visio)
 
 Returns  **True** if the current instance of Microsoft Visio is 32-bit. Returns **False** if the current instance is 64-bit. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsVisio32`
+_expression_. `IsVisio32`
 
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 

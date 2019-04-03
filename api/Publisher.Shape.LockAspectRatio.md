@@ -1,5 +1,5 @@
 ---
-title: Shape.LockAspectRatio Property (Publisher)
+title: Shape.LockAspectRatio property (Publisher)
 keywords: vbapb10.chm2228291
 f1_keywords:
 - vbapb10.chm2228291
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.LockAspectRatio Property (Publisher)
+# Shape.LockAspectRatio property (Publisher)
 
 Returns or sets an  **MsoTriState**constant indicating whether the specified shape retains its original proportions when you resize it. Read/write.
 
 
 ## Syntax
 
- _expression_. **LockAspectRatio**
+ _expression_.**LockAspectRatio**
 
  _expression_ A variable that represents a  **Shape** object.
 

@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.PrintFontsAsGraphics Property (PowerPoint)
+title: PrintOptions.PrintFontsAsGraphics property (PowerPoint)
 keywords: vbapp10.chm517013
 f1_keywords:
 - vbapp10.chm517013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.PrintFontsAsGraphics Property (PowerPoint)
+# PrintOptions.PrintFontsAsGraphics property (PowerPoint)
 
 Determines whether TrueType fonts are printed as graphics. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintFontsAsGraphics`
+_expression_. `PrintFontsAsGraphics`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

@@ -21,7 +21,7 @@ Moves the specified shape horizontally by the specified number of points.
 
 _expression_. `IncrementLeft`( `_Increment_` )
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Parameters
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 ## Example
 
-This example duplicates shape one on  `myDocument`, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
+This example duplicates shape one on  _myDocument_, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
 
 
 ```vb

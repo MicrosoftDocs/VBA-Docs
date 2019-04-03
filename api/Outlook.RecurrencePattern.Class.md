@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Class Property (Outlook)
+title: RecurrencePattern.Class property (Outlook)
 keywords: vbaol11.chm270
 f1_keywords:
 - vbaol11.chm270
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Class Property (Outlook)
+# RecurrencePattern.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## See also

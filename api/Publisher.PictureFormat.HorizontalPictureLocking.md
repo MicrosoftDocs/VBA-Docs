@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.HorizontalPictureLocking Property (Publisher)
+title: PictureFormat.HorizontalPictureLocking property (Publisher)
 keywords: vbapb10.chm3604752
 f1_keywords:
 - vbapb10.chm3604752
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.HorizontalPictureLocking Property (Publisher)
+# PictureFormat.HorizontalPictureLocking property (Publisher)
 
 Returns or sets a  **PbHorizontalPictureLocking** constant indicating where newly inserted pictures appear in relation to the specified frame. Read/write.
 
 
 ## Syntax
 
- _expression_. **HorizontalPictureLocking**
+ _expression_.**HorizontalPictureLocking**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

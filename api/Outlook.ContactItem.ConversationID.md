@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ConversationID Property (Outlook)
+title: ContactItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3470
 f1_keywords:
 - vbaol11.chm3470
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ConversationID Property (Outlook)
+# ContactItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[ContactItem](Outlook.ContactItem.md)** object belongs to. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conver
 
 _expression_. `ConversationID`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextEffect Property (PowerPoint)
+title: ShapeRange.TextEffect property (PowerPoint)
 keywords: vbapp10.chm548034
 f1_keywords:
 - vbapp10.chm548034
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.TextEffect Property (PowerPoint)
+# ShapeRange.TextEffect property (PowerPoint)
 
 Returns a  **[TextEffectFormat](PowerPoint.TextEffectFormat.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextEffect`
+_expression_. `TextEffect`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
@@ -36,7 +36,7 @@ Applies to  **[ShapeRange](PowerPoint.ShapeRange.md)** objects that represent Wo
 
 ## Example
 
-This example sets the font style to bold for shape three on  `myDocument` if the shape is WordArt.
+This example sets the font style to bold for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb

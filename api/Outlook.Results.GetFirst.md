@@ -1,5 +1,5 @@
 ---
-title: Results.GetFirst Method (Outlook)
+title: Results.GetFirst method (Outlook)
 keywords: vbaol11.chm505
 f1_keywords:
 - vbaol11.chm505
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.GetFirst Method (Outlook)
+# Results.GetFirst method (Outlook)
 
 Returns the first object in the collection.
 
@@ -21,7 +21,7 @@ Returns the first object in the collection.
 
 _expression_. `GetFirst`
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Return value

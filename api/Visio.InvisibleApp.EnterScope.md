@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.EnterScope Event (Visio)
+title: InvisibleApp.EnterScope event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.EnterScope
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.EnterScope Event (Visio)
+# InvisibleApp.EnterScope event (Visio)
 
 Queued when an internal command begins, or when an Automation client opens a scope by using the  **BeginUndoScope** method.
 

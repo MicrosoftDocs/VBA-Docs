@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineViewToggle Method (Project)
+title: Application.TimelineViewToggle method (Project)
 keywords: vbapj.chm2194
 f1_keywords:
 - vbapj.chm2194
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TimelineViewToggle Method (Project)
+# Application.TimelineViewToggle method (Project)
 
 Shows or hides the Timeline view.
 
 
 ## Syntax
 
- _expression_. `TimelineViewToggle`
+_expression_. `TimelineViewToggle`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

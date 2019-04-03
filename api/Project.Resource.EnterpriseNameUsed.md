@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseNameUsed Property (Project)
+title: Resource.EnterpriseNameUsed property (Project)
 keywords: vbapj.chm131899
 f1_keywords:
 - vbapj.chm131899
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseNameUsed Property (Project)
+# Resource.EnterpriseNameUsed property (Project)
 
  **True** if the name of the resource is an enterprise resource name. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseNameUsed`
+_expression_. `EnterpriseNameUsed`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

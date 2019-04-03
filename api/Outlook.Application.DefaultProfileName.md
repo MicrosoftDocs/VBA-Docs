@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultProfileName Property (Outlook)
+title: Application.DefaultProfileName property (Outlook)
 keywords: vbaol11.chm732
 f1_keywords:
 - vbaol11.chm732
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DefaultProfileName Property (Outlook)
+# Application.DefaultProfileName property (Outlook)
 
 Returns a  **String** representing the name of the default profile name. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the name of the default profile name. Read-on
 
 _expression_. `DefaultProfileName`
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: TaskItem.FormDescription Property (Outlook)
+title: TaskItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1696
 f1_keywords:
 - vbaol11.chm1696
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.FormDescription Property (Outlook)
+# TaskItem.FormDescription property (Outlook)
 
 Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[FormDescription](Outlook.FormDescription.md)** object that repre
 
 _expression_. `FormDescription`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

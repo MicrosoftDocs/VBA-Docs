@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.IsLinked Property (PowerPoint)
+title: ResampleMediaTask.IsLinked property (PowerPoint)
 keywords: vbapp10.chm727002
 f1_keywords:
 - vbapp10.chm727002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.IsLinked Property (PowerPoint)
+# ResampleMediaTask.IsLinked property (PowerPoint)
 
 Returns whether the sample is linked. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsLinked`
+_expression_. `IsLinked`
 
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.LanguageSettings Property (Outlook)
+title: Application.LanguageSettings property (Outlook)
 keywords: vbaol11.chm722
 f1_keywords:
 - vbaol11.chm722
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.LanguageSettings Property (Outlook)
+# Application.LanguageSettings property (Outlook)
 
 Returns a  **[LanguageSettings](Office.LanguageSettings.md)** object for the application that contains the language-specific attributes of Outlook. Read-only.
 

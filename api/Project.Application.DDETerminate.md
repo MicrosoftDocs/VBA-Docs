@@ -1,5 +1,5 @@
 ---
-title: Application.DDETerminate Method (Project)
+title: Application.DDETerminate method (Project)
 keywords: vbapj.chm1203
 f1_keywords:
 - vbapj.chm1203
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DDETerminate Method (Project)
+# Application.DDETerminate method (Project)
 
 Ends a dynamic data exchange (DDE) session.
 
 
 ## Syntax
 
- _expression_. `DDETerminate`
+_expression_. `DDETerminate`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

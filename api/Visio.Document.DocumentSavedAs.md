@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentSavedAs Event (Visio)
+title: Document.DocumentSavedAs event (Visio)
 keywords: vis_sdr.chm10519140
 f1_keywords:
 - vis_sdr.chm10519140
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.DocumentSavedAs Event (Visio)
+# Document.DocumentSavedAs event (Visio)
 
 Occurs after a document is saved by using the  **Save As** command.
 

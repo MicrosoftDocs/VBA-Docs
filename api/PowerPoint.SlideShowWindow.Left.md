@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.Left Property (PowerPoint)
+title: SlideShowWindow.Left property (PowerPoint)
 keywords: vbapp10.chm507006
 f1_keywords:
 - vbapp10.chm507006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindow.Left Property (PowerPoint)
+# SlideShowWindow.Left property (PowerPoint)
 
 Returns or sets a  **Single** that represents the distance in points from the left edge of the document, application, and slide show windows to the left edge of the application window's client area. Setting this property to a very large positive or negative value may position the window completely off the desktop. Read/write.
 

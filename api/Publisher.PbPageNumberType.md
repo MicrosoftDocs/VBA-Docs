@@ -1,5 +1,5 @@
 ---
-title: PbPageNumberType Enumeration (Publisher)
+title: PbPageNumberType enumeration (Publisher)
 keywords: vbapb10.chm65608
 f1_keywords:
 - vbapb10.chm65608
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPageNumberType Enumeration (Publisher)
+# PbPageNumberType enumeration (Publisher)
 
 Specifies whether the page number is the current page number or the next or previous page number of a linked text box.
 

@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Count Property (PowerPoint)
+title: Trendlines.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendlines.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Trendlines.Count Property (PowerPoint)
+# Trendlines.Count property (PowerPoint)
 
 Returns the number of objects in the collection. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.AutoShapeType Property (PowerPoint)
+title: ChartFormat.AutoShapeType property (PowerPoint)
 keywords: vbapp10.chm691011
 f1_keywords:
 - vbapp10.chm691011
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ChartFormat.AutoShapeType Property (PowerPoint)
+# ChartFormat.AutoShapeType property (PowerPoint)
 
 Returns or sets the auto shape type of the specified object. Read-write [MSOAutoShapeType](Office.MsoAutoShapeType.md).
 
 
 ## Syntax
 
- _expression_. `AutoShapeType`
+_expression_. `AutoShapeType`
 
 _expression_ A variable that represents a [ChartFormat](./PowerPoint.ChartFormat.md) object.
 

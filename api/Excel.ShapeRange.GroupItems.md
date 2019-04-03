@@ -21,12 +21,12 @@ Returns a  **[GroupShapes](Excel.GroupShapes.md)** object that represents the in
 
 _expression_. `GroupItems`
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Example
 
-This example adds three triangles to  `myDocument`, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
+This example adds three triangles to  _myDocument_, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
 
 
 ```vb

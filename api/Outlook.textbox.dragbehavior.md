@@ -14,7 +14,7 @@ Returns or sets an  **Integer** that specifies whether the system enables the dr
 
 ## Syntax
 
- _expression_. **DragBehavior**
+ _expression_.**DragBehavior**
 
 _expression_ A variable that represents a  **TextBox** object.
 

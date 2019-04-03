@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.Category Property (Outlook)
+title: RuleConditions.Category property (Outlook)
 keywords: vbaol11.chm2313
 f1_keywords:
 - vbaol11.chm2313
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.Category Property (Outlook)
+# RuleConditions.Category property (Outlook)
 
 Returns a  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)** object with a **[CategoryRuleCondition.ConditionType](Outlook.CategoryRuleCondition.ConditionType.md)** of **olConditionCategory**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)** object 
 
 _expression_. `Category`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

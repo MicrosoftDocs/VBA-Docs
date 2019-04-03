@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DeferRelationshipRecalc Property (Visio)
+title: InvisibleApp.DeferRelationshipRecalc property (Visio)
 keywords: vis_sdr.chm17562425
 f1_keywords:
 - vis_sdr.chm17562425
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DeferRelationshipRecalc Property (Visio)
+# InvisibleApp.DeferRelationshipRecalc property (Visio)
 
 Determines whether Microsoft Visio defers recalculating shape sizes and relationships when a member of a relationship pair is moved or resized. Read/write.
 
 
 ## Syntax
 
- _expression_. `DeferRelationshipRecalc`
+_expression_. `DeferRelationshipRecalc`
 
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 

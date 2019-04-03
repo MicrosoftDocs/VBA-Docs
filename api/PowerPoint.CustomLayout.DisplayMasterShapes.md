@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.DisplayMasterShapes Property (PowerPoint)
+title: CustomLayout.DisplayMasterShapes property (PowerPoint)
 keywords: vbapp10.chm672022
 f1_keywords:
 - vbapp10.chm672022
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.DisplayMasterShapes Property (PowerPoint)
+# CustomLayout.DisplayMasterShapes property (PowerPoint)
 
 Determines whether the specified custom layout displays background objects on the slide master. Read/write.
 
 
 ## Syntax
 
- _expression_. `DisplayMasterShapes`
+_expression_. `DisplayMasterShapes`
 
 _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.AppointmentTimeField Property (Outlook)
+title: OlkTimeZoneControl.AppointmentTimeField property (Outlook)
 keywords: vbaol11.chm1000534
 f1_keywords:
 - vbaol11.chm1000534
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.AppointmentTimeField Property (Outlook)
+# OlkTimeZoneControl.AppointmentTimeField property (Outlook)
 
 Returns or sets an  **[OlAppointmentTimeField](Outlook.OlAppointmentTimeField.md)** constant that specifies the time field on the appointment that the control binds against. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlAppointmentTimeField](Outlook.OlAppointmentTimeField.md
 
 _expression_. `AppointmentTimeField`
 
-_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Remarks

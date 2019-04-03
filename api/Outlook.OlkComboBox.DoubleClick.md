@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.DoubleClick Event (Outlook)
+title: OlkComboBox.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000236
 f1_keywords:
 - vbaol11.chm1000236
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.DoubleClick Event (Outlook)
+# OlkComboBox.DoubleClick event (Outlook)
 
 Occurs when the user double-clicks inside the control.
 
@@ -21,7 +21,7 @@ Occurs when the user double-clicks inside the control.
 
 _expression_. `DoubleClick`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## See also

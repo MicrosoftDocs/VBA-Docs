@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Capabilities Property (PowerPoint)
+title: Broadcast.Capabilities property (PowerPoint)
 keywords: vbapp10.chm732011
 f1_keywords:
 - vbapp10.chm732011
@@ -10,21 +10,21 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.Capabilities Property (PowerPoint)
+# Broadcast.Capabilities property (PowerPoint)
 
 Returns a  **Long** that represents the capabilities of the specified broadcast. Read-only.
 
 
 ## Syntax
 
- _expression_. `Capabilities`
+_expression_. `Capabilities`
 
 _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 
 
 ## Remarks
 
-The  **Capabilities** property can return the following[MSOBroadcastCapabilities](./overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md) values:
+The  **Capabilities** property can return the following[MSOBroadcastCapabilities](overview/Library-Reference/msobroadcastcapabilities-enumeration-office.md) values:
 
 
 

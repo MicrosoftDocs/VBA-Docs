@@ -1,5 +1,5 @@
 ---
-title: Validation.Issues Property (Visio)
+title: Validation.Issues property (Visio)
 keywords: vis_sdr.chm18062720
 f1_keywords:
 - vis_sdr.chm18062720
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Validation.Issues Property (Visio)
+# Validation.Issues property (Visio)
 
 Returns the collection of all the validation issues in the document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Issues`
+_expression_. `Issues`
 
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 

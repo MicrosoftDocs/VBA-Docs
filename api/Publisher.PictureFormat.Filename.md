@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Filename Property (Publisher)
+title: PictureFormat.Filename property (Publisher)
 keywords: vbapb10.chm3604756
 f1_keywords:
 - vbapb10.chm3604756
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Filename Property (Publisher)
+# PictureFormat.Filename property (Publisher)
 
 Returns a  **String** that represents the file name of the specified picture or OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Filename**
+ _expression_.**Filename**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

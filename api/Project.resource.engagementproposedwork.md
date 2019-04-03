@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementProposedWork Property (Project)
+title: Resource.EngagementProposedWork property (Project)
 keywords: vbapj.chm131807
 f1_keywords:
 - vbapj.chm131807
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementProposedWork Property (Project)
+# Resource.EngagementProposedWork property (Project)
 
 Returns the proposed work for the engagement. Read-only  **Double**. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `EngagementProposedWork`
+_expression_. `EngagementProposedWork`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.Close Method (Outlook)
+title: PostItem.Close method (Outlook)
 keywords: vbaol11.chm1539
 f1_keywords:
 - vbaol11.chm1539
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Close Method (Outlook)
+# PostItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 
@@ -21,7 +21,7 @@ Closes and optionally saves changes to the Outlook item.
 
 _expression_. `Close`( `_SaveMode_` )
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Parameters

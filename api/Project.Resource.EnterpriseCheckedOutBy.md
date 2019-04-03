@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseCheckedOutBy Property (Project)
+title: Resource.EnterpriseCheckedOutBy property (Project)
 keywords: vbapj.chm131814
 f1_keywords:
 - vbapj.chm131814
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseCheckedOutBy Property (Project)
+# Resource.EnterpriseCheckedOutBy property (Project)
 
 Gets the name of the user who has the enterprise resource checked out. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseCheckedOutBy`
+_expression_. `EnterpriseCheckedOutBy`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

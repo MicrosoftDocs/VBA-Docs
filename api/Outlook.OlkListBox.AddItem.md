@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.AddItem Method (Outlook)
+title: OlkListBox.AddItem method (Outlook)
 keywords: vbaol11.chm1000276
 f1_keywords:
 - vbaol11.chm1000276
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.AddItem Method (Outlook)
+# OlkListBox.AddItem method (Outlook)
 
 Adds an item to the list, optionally specifying an index for the new item to appear in the list.
 
@@ -21,7 +21,7 @@ Adds an item to the list, optionally specifying an index for the new item to app
 
 _expression_. `AddItem`( `_ItemText_` , `_Index_` )
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Item Method (Publisher)
+title: ShapeNodes.Item method (Publisher)
 keywords: vbapb10.chm3473408
 f1_keywords:
 - vbapb10.chm3473408
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeNodes.Item Method (Publisher)
+# ShapeNodes.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 

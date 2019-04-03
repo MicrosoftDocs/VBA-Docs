@@ -1,5 +1,5 @@
 ---
-title: Application.FormatCopy Method (Project)
+title: Application.FormatCopy method (Project)
 keywords: vbapj.chm2312
 f1_keywords:
 - vbapj.chm2312
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FormatCopy Method (Project)
+# Application.FormatCopy method (Project)
 
 Copies the formats of the selected cells.
 
 
 ## Syntax
 
- _expression_. `FormatCopy`
+_expression_. `FormatCopy`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

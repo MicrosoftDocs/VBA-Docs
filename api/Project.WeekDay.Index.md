@@ -1,5 +1,5 @@
 ---
-title: WeekDay.Index Property (Project)
+title: WeekDay.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.WeekDay.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# WeekDay.Index Property (Project)
+# WeekDay.Index property (Project)
 
 Gets the index of a  **WeekDay** object in the **WeekDays** containing object. Read-only **Integer**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
 

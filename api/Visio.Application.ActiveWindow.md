@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveWindow Property (Visio)
+title: Application.ActiveWindow property (Visio)
 keywords: vis_sdr.chm10013035
 f1_keywords:
 - vis_sdr.chm10013035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveWindow Property (Visio)
+# Application.ActiveWindow property (Visio)
 
 Returns the active  **Window** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveWindow`
+_expression_. `ActiveWindow`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

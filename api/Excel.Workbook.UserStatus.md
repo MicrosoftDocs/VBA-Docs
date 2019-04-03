@@ -21,7 +21,7 @@ Returns a 1-based, two-dimensional array that provides information about each us
 
 _expression_. `UserStatus`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Remarks

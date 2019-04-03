@@ -1,5 +1,5 @@
 ---
-title: PjCustomOutlineCodeSequence Enumeration (Project)
+title: PjCustomOutlineCodeSequence enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCustomOutlineCodeSequence
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCustomOutlineCodeSequence Enumeration (Project)
+# PjCustomOutlineCodeSequence enumeration (Project)
 
 Contains constants that specify the type of the outline code sequence.
 

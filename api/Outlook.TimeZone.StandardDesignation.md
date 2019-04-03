@@ -1,5 +1,5 @@
 ---
-title: TimeZone.StandardDesignation Property (Outlook)
+title: TimeZone.StandardDesignation property (Outlook)
 keywords: vbaol11.chm3284
 f1_keywords:
 - vbaol11.chm3284
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.StandardDesignation Property (Outlook)
+# TimeZone.StandardDesignation property (Outlook)
 
 Returns a  **String** that identifies the time zone in standard time. Read-only.
 
 
 ## Syntax
 
- _expression_. `StandardDesignation`
+_expression_. `StandardDesignation`
 
-_expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object.
 
 
 ## Remarks

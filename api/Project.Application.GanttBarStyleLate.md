@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleLate Method (Project)
+title: Application.GanttBarStyleLate method (Project)
 keywords: vbapj.chm82
 f1_keywords:
 - vbapj.chm82
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleLate Method (Project)
+# Application.GanttBarStyleLate method (Project)
 
 Shows or hides the late tasks style on the active Gantt chart.
 
 
 ## Syntax
 
- _expression_. `GanttBarStyleLate`( `_Show_` )
+_expression_. `GanttBarStyleLate`( `_Show_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

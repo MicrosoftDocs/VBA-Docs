@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.Creator Property (PowerPoint)
+title: ChartBorder.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartBorder.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartBorder.Creator Property (PowerPoint)
+# ChartBorder.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

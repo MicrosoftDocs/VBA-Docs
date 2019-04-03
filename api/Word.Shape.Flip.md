@@ -19,7 +19,7 @@ Flips a shape horizontally or vertically.
 
 ## Syntax
 
- _expression_. `Flip`( `_FlipCmd_` )
+_expression_. `Flip`( `_FlipCmd_` )
 
  _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 

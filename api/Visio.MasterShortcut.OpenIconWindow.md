@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.OpenIconWindow Method (Visio)
+title: MasterShortcut.OpenIconWindow method (Visio)
 keywords: vis_sdr.chm16016410
 f1_keywords:
 - vis_sdr.chm16016410
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.OpenIconWindow Method (Visio)
+# MasterShortcut.OpenIconWindow method (Visio)
 
 Opens an icon window that shows a master's icon.
 
 
 ## Syntax
 
- _expression_. `OpenIconWindow`
+_expression_. `OpenIconWindow`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 

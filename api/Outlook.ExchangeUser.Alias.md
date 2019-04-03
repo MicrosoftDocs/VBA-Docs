@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Alias Property (Outlook)
+title: ExchangeUser.Alias property (Outlook)
 keywords: vbaol11.chm2085
 f1_keywords:
 - vbaol11.chm2085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Alias Property (Outlook)
+# ExchangeUser.Alias property (Outlook)
 
 Returns a  **String** representing the alias for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the alias for the **[ExchangeUser](Outlook.Ex
 
 _expression_. `Alias`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

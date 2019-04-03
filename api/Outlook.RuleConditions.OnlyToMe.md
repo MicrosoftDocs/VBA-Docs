@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.OnlyToMe Property (Outlook)
+title: RuleConditions.OnlyToMe property (Outlook)
 keywords: vbaol11.chm2307
 f1_keywords:
 - vbaol11.chm2307
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.OnlyToMe Property (Outlook)
+# RuleConditions.OnlyToMe property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionOnlyToMe**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCo
 
 _expression_. `OnlyToMe`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

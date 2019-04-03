@@ -1,5 +1,5 @@
 ---
-title: Action.Execute Method (Outlook)
+title: Action.Execute method (Outlook)
 keywords: vbaol11.chm23
 f1_keywords:
 - vbaol11.chm23
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action.Execute Method (Outlook)
+# Action.Execute method (Outlook)
 
 Executes the action for the specified item.
 
@@ -21,7 +21,7 @@ Executes the action for the specified item.
 
 _expression_. `Execute`
 
- _expression_ An expression that returns a [Action](./Outlook.Action.md) object.
+ _expression_ An expression that returns a [Action](Outlook.Action.md) object.
 
 
 ## Return value

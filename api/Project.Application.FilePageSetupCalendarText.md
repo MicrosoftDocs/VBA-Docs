@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupCalendarText Method (Project)
+title: Application.FilePageSetupCalendarText method (Project)
 keywords: vbapj.chm2371
 f1_keywords:
 - vbapj.chm2371
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupCalendarText Method (Project)
+# Application.FilePageSetupCalendarText method (Project)
 
 Formats the text of calendar views for printing.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupCalendarText`( `_Name_`, `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_` )
+_expression_. `FilePageSetupCalendarText`( `_Name_`, `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

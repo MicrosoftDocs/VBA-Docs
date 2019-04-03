@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.SegmentType Property (PowerPoint)
+title: ShapeNode.SegmentType property (PowerPoint)
 keywords: vbapp10.chm561004
 f1_keywords:
 - vbapp10.chm561004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode.SegmentType Property (PowerPoint)
+# ShapeNode.SegmentType property (PowerPoint)
 
 Returns a value that indicates whether the segment associated with the specified node is straight or curved. Read-only.
 
 
 ## Syntax
 
- _expression_. `SegmentType`
+_expression_. `SegmentType`
 
  _expression_ A variable that represents a [ShapeNode](./PowerPoint.ShapeNode.md) object.
 
@@ -43,7 +43,7 @@ The value returned by the  **SegmentType** property can be one of these **MsoSeg
 
 ## Example
 
-This example changes all straight segments to curved segments in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all straight segments to curved segments in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

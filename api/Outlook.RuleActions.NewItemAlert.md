@@ -1,5 +1,5 @@
 ---
-title: RuleActions.NewItemAlert Property (Outlook)
+title: RuleActions.NewItemAlert property (Outlook)
 keywords: vbaol11.chm2199
 f1_keywords:
 - vbaol11.chm2199
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.NewItemAlert Property (Outlook)
+# RuleActions.NewItemAlert property (Outlook)
 
 Returns a  **[NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md)** object with **[ActionType](Outlook.NewItemAlertRuleAction.ActionType.md)** being **olRuleActionNewItemAlert**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md)** objec
 
 _expression_. `NewItemAlert`
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks

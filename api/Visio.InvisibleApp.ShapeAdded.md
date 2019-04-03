@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShapeAdded Event (Visio)
+title: InvisibleApp.ShapeAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShapeAdded Event (Visio)
+# InvisibleApp.ShapeAdded event (Visio)
 
 Occurs after one or more shapes are added to a document.
 

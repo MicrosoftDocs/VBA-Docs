@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.RGB Property (PowerPoint)
+title: ColorFormat.RGB property (PowerPoint)
 keywords: vbapp10.chm506002
 f1_keywords:
 - vbapp10.chm506002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.RGB Property (PowerPoint)
+# ColorFormat.RGB property (PowerPoint)
 
 Returns or sets the red-green-blue (RGB) value of the specified color. Read/write.
 
 
 ## Syntax
 
- _expression_. `RGB`
+_expression_. `RGB`
 
 _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 

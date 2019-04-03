@@ -1,5 +1,5 @@
 ---
-title: Application.AfterNewPresentation Event (PowerPoint)
+title: Application.AfterNewPresentation event (PowerPoint)
 keywords: vbapp10.chm621020
 f1_keywords:
 - vbapp10.chm621020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterNewPresentation Event (PowerPoint)
+# Application.AfterNewPresentation event (PowerPoint)
 
 Occurs after a presentation is created.
 
 
 ## Syntax
 
- _expression_. `AfterNewPresentation`( `_Pres_` )
+_expression_. `AfterNewPresentation`( `_Pres_` )
 
  _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 

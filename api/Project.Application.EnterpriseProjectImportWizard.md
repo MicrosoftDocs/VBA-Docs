@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseProjectImportWizard Method (Project)
+title: Application.EnterpriseProjectImportWizard method (Project)
 keywords: vbapj.chm2248
 f1_keywords:
 - vbapj.chm2248
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseProjectImportWizard Method (Project)
+# Application.EnterpriseProjectImportWizard method (Project)
 
 Starts the Enterprise  **Project Import Wizard**. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `EnterpriseProjectImportWizard`( `_Name_` )
+_expression_. `EnterpriseProjectImportWizard`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

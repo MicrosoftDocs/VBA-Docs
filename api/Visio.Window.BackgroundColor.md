@@ -1,5 +1,5 @@
 ---
-title: Window.BackgroundColor Property (Visio)
+title: Window.BackgroundColor property (Visio)
 keywords: vis_sdr.chm11651915
 f1_keywords:
 - vis_sdr.chm11651915
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.BackgroundColor Property (Visio)
+# Window.BackgroundColor property (Visio)
 
 Determines the background color of the active Microsoft Visio drawing window and its associated print preview and full-screen view windows. Read/write.
 
 
 ## Syntax
 
- _expression_. `BackgroundColor`
+_expression_. `BackgroundColor`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

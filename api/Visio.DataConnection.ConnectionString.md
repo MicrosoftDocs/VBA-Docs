@@ -1,5 +1,5 @@
 ---
-title: DataConnection.ConnectionString Property (Visio)
+title: DataConnection.ConnectionString property (Visio)
 keywords: vis_sdr.chm16560370
 f1_keywords:
 - vis_sdr.chm16560370
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataConnection.ConnectionString Property (Visio)
+# DataConnection.ConnectionString property (Visio)
 
 Gets or sets the connection string that you can use to access an existing  **[DataConnection](Visio.DataConnection.md)** object or to create a new **DataConnection** object. Read/write.
 
@@ -22,7 +22,7 @@ Gets or sets the connection string that you can use to access an existing  **[Da
 
 ## Syntax
 
- _expression_. `ConnectionString`
+_expression_. `ConnectionString`
 
  _expression_ An expression that returns a [DataConnection](./Visio.DataConnection.md) object.
 

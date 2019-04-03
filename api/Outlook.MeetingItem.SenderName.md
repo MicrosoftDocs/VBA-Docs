@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.SenderName Property (Outlook)
+title: MeetingItem.SenderName property (Outlook)
 keywords: vbaol11.chm1450
 f1_keywords:
 - vbaol11.chm1450
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.SenderName Property (Outlook)
+# MeetingItem.SenderName property (Outlook)
 
 Returns a  **String** indicating the display name of the sender for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** indicating the display name of the sender for the Outlook 
 
 _expression_. `SenderName`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

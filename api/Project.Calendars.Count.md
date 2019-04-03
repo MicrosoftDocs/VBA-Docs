@@ -1,5 +1,5 @@
 ---
-title: Calendars.Count Property (Project)
+title: Calendars.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendars.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Calendars.Count Property (Project)
+# Calendars.Count property (Project)
 
 Gets the number of items in the  **Calendars** collection. Read-only **Long**.
 

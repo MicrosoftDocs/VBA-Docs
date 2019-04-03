@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Count Property (PowerPoint)
+title: PublishObjects.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObjects.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PublishObjects.Count Property (PowerPoint)
+# PublishObjects.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

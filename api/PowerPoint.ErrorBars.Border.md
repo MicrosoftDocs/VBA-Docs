@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Border Property (PowerPoint)
+title: ErrorBars.Border property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Border
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars.Border Property (PowerPoint)
+# ErrorBars.Border property (PowerPoint)
 
 Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBorder.md)**.
 
 
 ## Syntax
 
- _expression_. `Border`
+_expression_. `Border`
 
 _expression_ A variable that represents an '[ErrorBars](PowerPoint.ErrorBars.md)' object.
 

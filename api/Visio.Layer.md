@@ -1,5 +1,5 @@
 ---
-title: Layer Object (Visio)
+title: Layer object (Visio)
 keywords: vis_sdr.chm10120
 f1_keywords:
 - vis_sdr.chm10120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer Object (Visio)
+# Layer object (Visio)
 
 Represents a layer of a page or master. You can assign shapes to or remove them from the layer.
 

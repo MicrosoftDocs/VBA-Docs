@@ -1,5 +1,5 @@
 ---
-title: Resource.ActualWork Property (Project)
+title: Resource.ActualWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.ActualWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.ActualWork Property (Project)
+# Resource.ActualWork property (Project)
 
 Gets the actual work (in minutes) for the resource. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualWork`
+_expression_. `ActualWork`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

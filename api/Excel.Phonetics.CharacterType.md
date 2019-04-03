@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Phonetics.CharacterType property (Excel)
 
-Returns or sets the type of phonetic text in the specified cell. Read/write  **[xlPhoneticCharacterType](Excel.XlPhoneticCharacterType.md)**.
+Returns or sets the type of phonetic text in the specified cell. Read/write  **[XlPhoneticCharacterType](Excel.XlPhoneticCharacterType.md)**.
 
 
 ## Syntax

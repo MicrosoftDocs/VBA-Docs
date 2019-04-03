@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeMaximize Event (Outlook)
+title: Explorer.BeforeMaximize event (Outlook)
 keywords: vbaol11.chm457
 f1_keywords:
 - vbaol11.chm457
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.BeforeMaximize Event (Outlook)
+# Explorer.BeforeMaximize event (Outlook)
 
 Occurs when an explorer is maximized by the user.
 
@@ -21,7 +21,7 @@ Occurs when an explorer is maximized by the user.
 
 _expression_. `BeforeMaximize`( `_Cancel_` )
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters

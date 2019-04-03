@@ -1,5 +1,5 @@
 ---
-title: Shape.Tags Property (PowerPoint)
+title: Shape.Tags property (PowerPoint)
 keywords: vbapp10.chm547049
 f1_keywords:
 - vbapp10.chm547049
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Tags Property (PowerPoint)
+# Shape.Tags property (PowerPoint)
 
 Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Tags`
+_expression_. `Tags`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ConnectionsDeleted Event (Visio)
+title: InvisibleApp.ConnectionsDeleted event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ConnectionsDeleted
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ConnectionsDeleted Event (Visio)
+# InvisibleApp.ConnectionsDeleted event (Visio)
 
 Occurs after connections between shapes have been removed.
 

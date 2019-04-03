@@ -1,5 +1,5 @@
 ---
-title: Month.Count Property (Project)
+title: Month.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Month.Count Property (Project)
+# Month.Count property (Project)
 
 Gets the number of days in the  **Month** object. Read-only **Integer**.
 

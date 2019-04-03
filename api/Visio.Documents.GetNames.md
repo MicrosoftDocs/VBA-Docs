@@ -1,5 +1,5 @@
 ---
-title: Documents.GetNames Method (Visio)
+title: Documents.GetNames method (Visio)
 keywords: vis_sdr.chm10616315
 f1_keywords:
 - vis_sdr.chm10616315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Documents.GetNames Method (Visio)
+# Documents.GetNames method (Visio)
 
 Returns the names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNames`( `_NameArray()_` )
+_expression_. `GetNames`( `_NameArray()_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

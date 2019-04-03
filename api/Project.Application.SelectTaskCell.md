@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTaskCell Method (Project)
+title: Application.SelectTaskCell method (Project)
 keywords: vbapj.chm2068
 f1_keywords:
 - vbapj.chm2068
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTaskCell Method (Project)
+# Application.SelectTaskCell method (Project)
 
 Selects a cell containing task information.
 
 
 ## Syntax
 
- _expression_. `SelectTaskCell`( `_Row_`, `_Column_`, `_RowRelative_` )
+_expression_. `SelectTaskCell`( `_Row_`, `_Column_`, `_RowRelative_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

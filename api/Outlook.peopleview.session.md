@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Session Property (Outlook)
+title: PeopleView.Session property (Outlook)
 keywords: vbaol11.chm3571
 f1_keywords:
 - vbaol11.chm3571
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Session Property (Outlook)
+# PeopleView.Session property (Outlook)
 Returns the [NameSpace](Outlook.NameSpace.md) object for the current session. Read-only.
 
 ## Version information
@@ -34,6 +34,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 
 [PeopleView Object](Outlook.peopleview.md)
-[PeopleView Members](./overview/Outlook.md)
+[PeopleView Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

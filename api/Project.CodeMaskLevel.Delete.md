@@ -1,5 +1,5 @@
 ---
-title: CodeMaskLevel.Delete Method (Project)
+title: CodeMaskLevel.Delete method (Project)
 keywords: vbapj.chm131649
 f1_keywords:
 - vbapj.chm131649
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CodeMaskLevel.Delete Method (Project)
+# CodeMaskLevel.Delete method (Project)
 
 Deletes the  **CodeMaskLevel** object from a **CodeMask** collection.
 

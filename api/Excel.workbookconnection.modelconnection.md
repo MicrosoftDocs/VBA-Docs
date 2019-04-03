@@ -19,7 +19,7 @@ Returns an object that contains information for the new Model Connection Type in
 
 _expression_. `ModelConnection`
 
-_expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## Property value

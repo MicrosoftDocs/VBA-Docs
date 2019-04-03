@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowBeforeClose Event (PowerPoint)
+title: Application.ProtectedViewWindowBeforeClose event (PowerPoint)
 keywords: vbapp10.chm621028
 f1_keywords:
 - vbapp10.chm621028
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowBeforeClose Event (PowerPoint)
+# Application.ProtectedViewWindowBeforeClose event (PowerPoint)
 
 Occurs immediately before a protected view window or a document in a protected view window closes.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowBeforeClose`( `_ProtViewWindow_`, `_ProtectedViewCloseReason_`, `_Cancel_` )
+_expression_. `ProtectedViewWindowBeforeClose`( `_ProtViewWindow_`, `_ProtectedViewCloseReason_`, `_Cancel_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.Item Property (Visio)
+title: DataRecordsets.Item property (Visio)
 keywords: vis_sdr.chm16313765
 f1_keywords:
 - vis_sdr.chm16313765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.Item Property (Visio)
+# DataRecordsets.Item property (Visio)
 
 Returns the  **DataRecordset** object at the specified index position in the **DataRecordsets** collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Tags.Application Property (PowerPoint)
+title: Tags.Application property (PowerPoint)
 keywords: vbapp10.chm611001
 f1_keywords:
 - vbapp10.chm611001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Tags.Application Property (PowerPoint)
+# Tags.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

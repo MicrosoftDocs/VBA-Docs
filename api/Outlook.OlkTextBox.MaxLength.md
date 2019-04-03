@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.MaxLength Property (Outlook)
+title: OlkTextBox.MaxLength property (Outlook)
 keywords: vbaol11.chm1000050
 f1_keywords:
 - vbaol11.chm1000050
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.MaxLength Property (Outlook)
+# OlkTextBox.MaxLength property (Outlook)
 
 Returns or sets a  **Long** that specifies the maximum number of characters for the **[Value](Outlook.OlkTextBox.Value.md)** of this control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that specifies the maximum number of characters for 
 
 _expression_. `MaxLength`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

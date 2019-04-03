@@ -1,5 +1,5 @@
 ---
-title: OlBorderStyle Enumeration (Outlook)
+title: OlBorderStyle enumeration (Outlook)
 keywords: vbaol11.chm1000022
 f1_keywords:
 - vbaol11.chm1000022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlBorderStyle Enumeration (Outlook)
+# OlBorderStyle enumeration (Outlook)
 
 Specifies how the border of a control is rendered.
 

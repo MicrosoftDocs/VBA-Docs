@@ -1,5 +1,5 @@
 ---
-title: VisPageTypes Enumeration (Visio)
+title: VisPageTypes enumeration (Visio)
 keywords: vis_sdr.chm70425
 f1_keywords:
 - vis_sdr.chm70425
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisPageTypes Enumeration (Visio)
+# VisPageTypes enumeration (Visio)
 
 Type codes returned by the  **Page.Type** property.
 

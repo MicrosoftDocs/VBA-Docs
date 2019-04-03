@@ -1,5 +1,5 @@
 ---
-title: PbZoom Enumeration (Publisher)
+title: PbZoom enumeration (Publisher)
 keywords: vbapb10.chm65545
 f1_keywords:
 - vbapb10.chm65545
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbZoom Enumeration (Publisher)
+# PbZoom enumeration (Publisher)
 
 Indicates the zoom setting of the specified view. 
 

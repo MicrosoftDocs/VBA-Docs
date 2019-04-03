@@ -1,5 +1,5 @@
 ---
-title: Cell.Application Property (PowerPoint)
+title: Cell.Application property (PowerPoint)
 keywords: vbapp10.chm628001
 f1_keywords:
 - vbapp10.chm628001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell.Application Property (PowerPoint)
+# Cell.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

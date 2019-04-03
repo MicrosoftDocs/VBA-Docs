@@ -1,5 +1,5 @@
 ---
-title: Chart.GapDepth Property (PowerPoint)
+title: Chart.GapDepth property (PowerPoint)
 keywords: vbapp10.chm684030
 f1_keywords:
 - vbapp10.chm684030
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.GapDepth Property (PowerPoint)
+# Chart.GapDepth property (PowerPoint)
 
 Returns or sets the distance, as a percentage of the marker width, between the data series in a 3-D chart. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `GapDepth`
+_expression_. `GapDepth`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

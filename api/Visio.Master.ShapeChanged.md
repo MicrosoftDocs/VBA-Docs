@@ -1,5 +1,5 @@
 ---
-title: Master.ShapeChanged Event (Visio)
+title: Master.ShapeChanged event (Visio)
 keywords: vis_sdr.chm10719230
 f1_keywords:
 - vis_sdr.chm10719230
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.ShapeChanged Event (Visio)
+# Master.ShapeChanged event (Visio)
 
 Occurs after a property of a shape that is not stored in a cell is changed in a document.
 

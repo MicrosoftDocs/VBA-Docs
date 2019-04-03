@@ -1,5 +1,5 @@
 ---
-title: Window.ShowGrid Property (Visio)
+title: Window.ShowGrid property (Visio)
 keywords: vis_sdr.chm11614350
 f1_keywords:
 - vis_sdr.chm11614350
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ShowGrid Property (Visio)
+# Window.ShowGrid property (Visio)
 
 Determines whether a grid is shown in a window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowGrid`
+_expression_. `ShowGrid`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

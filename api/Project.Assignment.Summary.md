@@ -1,5 +1,5 @@
 ---
-title: Assignment.Summary Property (Project)
+title: Assignment.Summary property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Summary
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Summary Property (Project)
+# Assignment.Summary property (Project)
 
 Indicates whether the assignment is on a summary task. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Summary`
+_expression_. `Summary`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Background Property (PowerPoint)
+title: ChartFont.Background property (PowerPoint)
 keywords: vbapp10.chm704001
 f1_keywords:
 - vbapp10.chm704001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Background Property (PowerPoint)
+# ChartFont.Background property (PowerPoint)
 
-Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[xlBackground](PowerPoint.XlBackground.md)**.
+Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[XlBackground](PowerPoint.XlBackground.md)**.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
 _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 

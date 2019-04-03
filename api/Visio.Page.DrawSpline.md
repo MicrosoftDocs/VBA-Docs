@@ -1,5 +1,5 @@
 ---
-title: Page.DrawSpline Method (Visio)
+title: Page.DrawSpline method (Visio)
 keywords: vis_sdr.chm10916230
 f1_keywords:
 - vis_sdr.chm10916230
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.DrawSpline Method (Visio)
+# Page.DrawSpline method (Visio)
 
 Creates a new shape whose path follows a given sequence of points.
 
 
 ## Syntax
 
- _expression_. `DrawSpline`( `_xyArray()_` , `_Tolerance_` , `_Flags_` )
+_expression_. `DrawSpline`( `_xyArray()_` , `_Tolerance_` , `_Flags_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

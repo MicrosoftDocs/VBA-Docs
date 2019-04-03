@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings Object (Visio)
+title: ApplicationSettings object (Visio)
 keywords: vis_sdr.chm60000
 f1_keywords:
 - vis_sdr.chm60000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings Object (Visio)
+# ApplicationSettings object (Visio)
 
 Represents various application settings for Microsoft Visio.
 

@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Caption Property (PowerPoint)
+title: ProtectedViewWindow.Caption property (PowerPoint)
 keywords: vbapp10.chm734006
 f1_keywords:
 - vbapp10.chm734006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Caption Property (PowerPoint)
+# ProtectedViewWindow.Caption property (PowerPoint)
 
 Returns the text that appears in the title bar of the specified window. Read-only.
 

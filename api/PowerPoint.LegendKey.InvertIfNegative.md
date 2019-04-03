@@ -1,5 +1,5 @@
 ---
-title: LegendKey.InvertIfNegative Property (PowerPoint)
+title: LegendKey.InvertIfNegative property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.InvertIfNegative
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# LegendKey.InvertIfNegative Property (PowerPoint)
+# LegendKey.InvertIfNegative property (PowerPoint)
 
  **True** if Microsoft Word inverts the pattern in the object when it corresponds to a negative number. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `InvertIfNegative`
+_expression_. `InvertIfNegative`
 
  _expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)' object.
 

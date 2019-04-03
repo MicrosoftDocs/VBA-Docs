@@ -1,5 +1,5 @@
 ---
-title: Page.DropConnected Method (Visio)
+title: Page.DropConnected method (Visio)
 keywords: vis_sdr.chm10962125
 f1_keywords:
 - vis_sdr.chm10962125
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.DropConnected Method (Visio)
+# Page.DropConnected method (Visio)
 
 Creates a new  **[Shape](Visio.Shape.md)** object on the page, places the new shape relative to the specified existing target shape, and adds a connector from the existing shape to the new shape. Returns the newly created shape.
 
 
 ## Syntax
 
- _expression_. `DropConnected`( `_ObjectToDrop_` , `_TargetShape_` , `_PlacementDir_` , `_[Connector]_` )
+_expression_. `DropConnected`( `_ObjectToDrop_` , `_TargetShape_` , `_PlacementDir_` , `_[Connector]_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

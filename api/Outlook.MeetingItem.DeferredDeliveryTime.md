@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.DeferredDeliveryTime Property (Outlook)
+title: MeetingItem.DeferredDeliveryTime property (Outlook)
 keywords: vbaol11.chm1437
 f1_keywords:
 - vbaol11.chm1437
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.DeferredDeliveryTime Property (Outlook)
+# MeetingItem.DeferredDeliveryTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time the mail message is to be delivered. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the date and time the mail message is to 
 
 _expression_. `DeferredDeliveryTime`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

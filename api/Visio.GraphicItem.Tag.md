@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.Tag Property (Visio)
+title: GraphicItem.Tag property (Visio)
 keywords: vis_sdr.chm16960435
 f1_keywords:
 - vis_sdr.chm16960435
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.Tag Property (Visio)
+# GraphicItem.Tag property (Visio)
 
 Gets or sets a user-defined string expression that can store extra data related to your program. Read/write.
 

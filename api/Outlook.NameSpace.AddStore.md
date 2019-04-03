@@ -1,5 +1,5 @@
 ---
-title: NameSpace.AddStore Method (Outlook)
+title: NameSpace.AddStore method (Outlook)
 keywords: vbaol11.chm771
 f1_keywords:
 - vbaol11.chm771
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.AddStore Method (Outlook)
+# NameSpace.AddStore method (Outlook)
 
 Adds a Personal Folders (.pst) file to the current profile.
 
@@ -21,7 +21,7 @@ Adds a Personal Folders (.pst) file to the current profile.
 
 _expression_. `AddStore`( `_Store_` )
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters

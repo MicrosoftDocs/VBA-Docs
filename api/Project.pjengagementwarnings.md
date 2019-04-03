@@ -1,5 +1,5 @@
 ---
-title: PjEngagementWarnings Enumeration (Project)
+title: PjEngagementWarnings enumeration (Project)
 ms.assetid: 6a6b606b-6040-e278-642a-aa54fb690be2
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# PjEngagementWarnings Enumeration (Project)
+# PjEngagementWarnings enumeration (Project)
 
 Defines the different types of warnings that may appear on engagements triggering indicators in the indicator column in sheet views. Introduced in Office 2016.
 

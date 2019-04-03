@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Name Property (Visio)
+title: InvisibleApp.Name property (Visio)
 keywords: vis_sdr.chm17514150
 f1_keywords:
 - vis_sdr.chm17514150
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Name Property (Visio)
+# InvisibleApp.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

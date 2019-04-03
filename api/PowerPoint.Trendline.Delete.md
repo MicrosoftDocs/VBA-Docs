@@ -1,5 +1,5 @@
 ---
-title: Trendline.Delete Method (PowerPoint)
+title: Trendline.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Delete Method (PowerPoint)
+# Trendline.Delete method (PowerPoint)
 
 Deletes the object.
 

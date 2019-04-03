@@ -1,5 +1,5 @@
 ---
-title: TickLabels.ReadingOrder Property (PowerPoint)
+title: TickLabels.ReadingOrder property (PowerPoint)
 keywords: vbapp10.chm719017
 f1_keywords:
 - vbapp10.chm719017
@@ -12,9 +12,9 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.ReadingOrder Property (PowerPoint)
+# TickLabels.ReadingOrder property (PowerPoint)
 
-Returns or sets an  **[xlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
+Returns or sets an  **[XlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
 
 
 ## Syntax

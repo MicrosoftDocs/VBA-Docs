@@ -1,5 +1,5 @@
 ---
-title: TextStyleLevels.Application Property (PowerPoint)
+title: TextStyleLevels.Application property (PowerPoint)
 keywords: vbapp10.chm580001
 f1_keywords:
 - vbapp10.chm580001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextStyleLevels.Application Property (PowerPoint)
+# TextStyleLevels.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Characters.Stat Property (Visio)
+title: Characters.Stat property (Visio)
 keywords: vis_sdr.chm10214420
 f1_keywords:
 - vis_sdr.chm10214420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.Stat Property (Visio)
+# Characters.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

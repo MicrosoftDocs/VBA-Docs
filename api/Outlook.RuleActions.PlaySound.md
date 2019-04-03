@@ -1,5 +1,5 @@
 ---
-title: RuleActions.PlaySound Property (Outlook)
+title: RuleActions.PlaySound property (Outlook)
 keywords: vbaol11.chm2197
 f1_keywords:
 - vbaol11.chm2197
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.PlaySound Property (Outlook)
+# RuleActions.PlaySound property (Outlook)
 
 Returns a  **[PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md)** object with **[PlaySoundRuleAction.ActionType](Outlook.PlaySoundRuleAction.ActionType.md)** being **olRuleActionNotifyRead**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md)** object with
 
 _expression_. `PlaySound`
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks

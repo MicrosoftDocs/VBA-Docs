@@ -19,7 +19,7 @@ Applies the specified Extensible Stylesheet Language Transformation (XSLT) file 
 
 ## Syntax
 
- _expression_. `TransformDocument`( `_Path_` , `_DataOnly_` )
+_expression_. `TransformDocument`( `_Path_` , `_DataOnly_` )
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: PjReportLayoutTemplateId Enumeration (Project)
+title: PjReportLayoutTemplateId enumeration (Project)
 ms.prod: project-server
 ms.assetid: 326ab6cf-3541-9dd6-8fd1-6f9d630095ea
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# PjReportLayoutTemplateId Enumeration (Project)
+# PjReportLayoutTemplateId enumeration (Project)
 Contains constants that specify the type of template to apply for a report layout.
 
 ## Members

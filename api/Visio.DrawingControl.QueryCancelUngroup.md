@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.QueryCancelUngroup Event (Visio)
+title: DrawingControl.QueryCancelUngroup event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelUngroup
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.QueryCancelUngroup Event (Visio)
+# DrawingControl.QueryCancelUngroup event (Visio)
 
 Occurs before the application ungroups a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Cut Method (Visio)
+title: Shape.Cut method (Visio)
 keywords: vis_sdr.chm11216160
 f1_keywords:
 - vis_sdr.chm11216160
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Cut Method (Visio)
+# Shape.Cut method (Visio)
 
 Deletes an object or selection and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`( `_Flags_` )
+_expression_. `Cut`( `_Flags_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

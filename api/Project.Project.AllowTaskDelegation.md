@@ -1,5 +1,5 @@
 ---
-title: Project.AllowTaskDelegation Property (Project)
+title: Project.AllowTaskDelegation property (Project)
 keywords: vbapj.chm131385
 f1_keywords:
 - vbapj.chm131385
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.AllowTaskDelegation Property (Project)
+# Project.AllowTaskDelegation property (Project)
 
  **True** if Project Server users can delegate tasks to other resources in the project. Read/write **Boolean**. .
 
 
 ## Syntax
 
- _expression_. `AllowTaskDelegation`
+_expression_. `AllowTaskDelegation`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

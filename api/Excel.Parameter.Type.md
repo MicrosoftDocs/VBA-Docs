@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Parameter.Type property (Excel)
 
-Returns a  **[xlParameterType](Excel.XlParameterType.md)** value that represents the parameter type.
+Returns a  **[XlParameterType](Excel.XlParameterType.md)** value that represents the parameter type.
 
 
 ## Syntax

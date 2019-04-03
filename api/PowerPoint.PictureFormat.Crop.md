@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Crop Property (PowerPoint)
+title: PictureFormat.Crop property (PowerPoint)
 keywords: vbapp10.chm551013
 f1_keywords:
 - vbapp10.chm551013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.Crop Property (PowerPoint)
+# PictureFormat.Crop property (PowerPoint)
 
 Returns or sets the number of points that are cropped off the specified picture or OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Crop`
+_expression_. `Crop`
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 

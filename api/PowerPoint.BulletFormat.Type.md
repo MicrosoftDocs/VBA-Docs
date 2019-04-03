@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Type Property (PowerPoint)
+title: BulletFormat.Type property (PowerPoint)
 keywords: vbapp10.chm577009
 f1_keywords:
 - vbapp10.chm577009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.Type Property (PowerPoint)
+# BulletFormat.Type property (PowerPoint)
 
 Represents the type of bullet. Read/write.
 

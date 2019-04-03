@@ -1,5 +1,5 @@
 ---
-title: Document.XMLAfterInsert Event (Word)
+title: Document.XMLAfterInsert event (Word)
 keywords: vbawd10.chm4001008
 f1_keywords:
 - vbawd10.chm4001008
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.XMLAfterInsert Event (Word)
+# Document.XMLAfterInsert event (Word)
 
 Occurs when a user adds a new XML element to a document. If more than one element is added to the document at the same time (for example, when cutting and pasting XML), the event fires for each element that is inserted.
 

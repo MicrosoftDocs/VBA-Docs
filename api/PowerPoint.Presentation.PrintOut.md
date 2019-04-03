@@ -1,5 +1,5 @@
 ---
-title: Presentation.PrintOut Method (PowerPoint)
+title: Presentation.PrintOut method (PowerPoint)
 keywords: vbapp10.chm583034
 f1_keywords:
 - vbapp10.chm583034
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.PrintOut Method (PowerPoint)
+# Presentation.PrintOut method (PowerPoint)
 
 Prints the specified presentation.
 
 
 ## Syntax
 
- _expression_. `PrintOut`( `_From_`, `_To_`, `_PrintToFile_`, `_Copies_`, `_Collate_` )
+_expression_. `PrintOut`( `_From_`, `_To_`, `_PrintToFile_`, `_Copies_`, `_Collate_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

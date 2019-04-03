@@ -19,7 +19,7 @@ Returns an  **[Indexes](Word.indexes.md)** collection that represents all the in
 
 ## Syntax
 
- _expression_. `Indexes`
+_expression_. `Indexes`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

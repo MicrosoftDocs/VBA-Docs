@@ -1,5 +1,5 @@
 ---
-title: TableFields.Count Property (Project)
+title: TableFields.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.TableFields.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TableFields.Count Property (Project)
+# TableFields.Count property (Project)
 
 Gets the number of items in the  **TableFields** collection. Read-only **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Tracking Property (PowerPoint)
+title: TextEffectFormat.Tracking property (PowerPoint)
 keywords: vbapp10.chm556014
 f1_keywords:
 - vbapp10.chm556014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Tracking Property (PowerPoint)
+# TextEffectFormat.Tracking property (PowerPoint)
 
 Returns or sets the ratio of the horizontal space allotted to each character in the specified text to the width of the character. Read/write. 
 
 
 ## Syntax
 
- _expression_. `Tracking`
+_expression_. `Tracking`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 

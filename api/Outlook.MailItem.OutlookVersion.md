@@ -1,5 +1,5 @@
 ---
-title: MailItem.OutlookVersion Property (Outlook)
+title: MailItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1313
 f1_keywords:
 - vbaol11.chm1313
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.OutlookVersion Property (Outlook)
+# MailItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 
 _expression_. `OutlookVersion`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## See also

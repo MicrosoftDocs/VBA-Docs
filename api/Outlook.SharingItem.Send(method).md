@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Send Method (Outlook)
+title: SharingItem.Send method (Outlook)
 keywords: vbaol11.chm672
 f1_keywords:
 - vbaol11.chm672
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Send Method (Outlook)
+# SharingItem.Send method (Outlook)
 
 Sends the  **[SharingItem](Outlook.SharingItem.md)**.
 
@@ -21,7 +21,7 @@ Sends the  **[SharingItem](Outlook.SharingItem.md)**.
 
 _expression_. `Send`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

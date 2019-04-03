@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.Type Property (Project)
+title: TaskDependency.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependency.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskDependency.Type Property (Project)
+# TaskDependency.Type property (Project)
 
 Gets or sets the link type of the task dependency. Read/write  **PjTaskLinkType**.
 

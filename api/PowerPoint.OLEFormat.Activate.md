@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Activate Method (PowerPoint)
+title: OLEFormat.Activate method (PowerPoint)
 keywords: vbapp10.chm562008
 f1_keywords:
 - vbapp10.chm562008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.Activate Method (PowerPoint)
+# OLEFormat.Activate method (PowerPoint)
 
 Activates the specified object.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
  _expression_ A variable that represents an [OLEFormat](./PowerPoint.OLEFormat.md) object.
 

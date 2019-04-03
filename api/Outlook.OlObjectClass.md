@@ -1,5 +1,5 @@
 ---
-title: OlObjectClass Enumeration (Outlook)
+title: OlObjectClass enumeration (Outlook)
 keywords: vbaol11.chm3073
 f1_keywords:
 - vbaol11.chm3073
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlObjectClass Enumeration (Outlook)
+# OlObjectClass enumeration (Outlook)
 
 Specifies constants that represent the different Microsoft Outlook object classes.
 

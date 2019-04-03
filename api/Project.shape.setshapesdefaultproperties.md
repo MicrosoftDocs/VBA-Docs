@@ -1,5 +1,5 @@
 ---
-title: Shape.SetShapesDefaultProperties Method (Project)
+title: Shape.SetShapesDefaultProperties method (Project)
 ms.prod: project-server
 ms.assetid: 13888451-ad56-8900-ce09-4aae1bbd8edf
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shape.SetShapesDefaultProperties Method (Project)
+# Shape.SetShapesDefaultProperties method (Project)
 Applies the formatting of a default shape to the shape.
 
 ## Syntax
 
- _expression_. `SetShapesDefaultProperties`
+_expression_. `SetShapesDefaultProperties`
 
  _expression_ A variable that represents a 'Shape' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Assignment.CostVariance Property (Project)
+title: Assignment.CostVariance property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.CostVariance
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.CostVariance Property (Project)
+# Assignment.CostVariance property (Project)
 
 Gets the variance between the baseline cost and the cost of an  **Assignment**. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `CostVariance`
+_expression_. `CostVariance`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

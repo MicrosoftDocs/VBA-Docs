@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet
 ms.assetid: 182b705e-854a-81cc-a4b0-59b942de55ae
-ms.date: 06/08/2017
+ms.date: 04/03/2019
 localization_priority: Normal
 ---
 
@@ -19,28 +19,24 @@ Represents a worksheet.
 
 ## Remarks
 
-The  **Worksheet** object is a member of the **[Worksheets](./Excel.Worksheets.md)** collection. The **Worksheets** collection contains all the **Worksheet** objects in a workbook.
+The **Worksheet** object is a member of the **[Worksheets](Excel.Worksheets.md)** collection. The **Worksheets** collection contains all the **Worksheet** objects in a workbook.
 
-The  **Worksheet** object is also a member of the [Sheets](./Excel.Sheets.md) collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
+The **Worksheet** object is also a member of the **[Sheets](Excel.Sheets.md)** collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
 
 
 ## Example
 
-Use  **[Worksheets](./Excel.Workbook.Worksheets.md)** (_index_), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
-
+Use **[Worksheets](Excel.Workbook.Worksheets.md)** (_index_), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
 
 ```vb
 Worksheets(1).Visible = False
 ```
 
-The worksheet index number denotes the position of the worksheet on the workbook's tab bar.  `Worksheets(1)` is the first (leftmost) worksheet in the workbook, and `Worksheets(Worksheets.Count)` is the last one. All worksheets are included in the index count, even if they're hidden.
+The worksheet index number denotes the position of the worksheet on the workbook's tab bar. `Worksheets(1)` is the first (leftmost) worksheet in the workbook, and `Worksheets(Worksheets.Count)` is the last one. All worksheets are included in the index count, even if they are hidden.
 
+<br/>
 
-
-The worksheet name is shown on the tab for the worksheet. Use the [Name](./Excel.Worksheet.Name.md) property to set or return the worksheet name. The following example protects the scenarios on Sheet1.
-
-
-
+The worksheet name is shown on the tab for the worksheet. Use the **[Name](Excel.Worksheet.Name.md)** property to set or return the worksheet name. The following example protects the scenarios on Sheet1.
 
 ```vb
  
@@ -49,10 +45,9 @@ strPassword = InputBox ("Enter the password for the worksheet")
 Worksheets("Sheet1").Protect password:=strPassword, scenarios:=True
 ```
 
-When a worksheet is the active sheet, you can use the  [ActiveSheet](./Excel.Workbook.ActiveSheet.md) property to refer to it. The following example uses the [Activate](./Excel.Worksheet.Activate(method).md) method to activate Sheet1, sets the page orientation to landscape mode, and then prints the worksheet.
+<br/>
 
-
-
+When a worksheet is the active sheet, you can use the **[ActiveSheet](Excel.Workbook.ActiveSheet.md)** property to refer to it. The following example uses the **[Activate](Excel.Worksheet.Activate(method).md)** method to activate Sheet1, sets the page orientation to landscape mode, and then prints the worksheet.
 
 ```vb
 Worksheets("Sheet1").Activate 
@@ -60,23 +55,16 @@ ActiveSheet.PageSetup.Orientation = xlLandscape
 ActiveSheet.PrintOut
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+<br/>
 
-This example uses the BeforeDoubleClick event to open a specified set of files in Notepad. To use this example your worksheet must contain the following data:
+This example uses the **[BeforeDoubleClick](Excel.Worksheet.BeforeDoubleClick.md)** event to open a specified set of files in Notepad. To use this example, your worksheet must contain the following data:
 
-
-- Cell A1 must contain the names of the files to open, each separated by a comma and a space.
-    
-- Cell D1 must contain the path to where the Notepad files are located.
-    
-- Cell D2 must contain the path to where the Notepad program is located.
-    
+- Cell A1 must contain the names of the files to open, each separated by a comma and a space.    
+- Cell D1 must contain the path to where the Notepad files are located.    
+- Cell D2 must contain the path to where the Notepad program is located.   
 - Cell D3 must contain the file extension, without the period, for the Notepad files (txt).
     
 When you double-click cell A1, the files specified in cell A1 are opened in Notepad.
-
-
-
 
 ```vb
 Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
@@ -229,6 +217,6 @@ End Sub
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

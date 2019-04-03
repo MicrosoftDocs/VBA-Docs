@@ -1,5 +1,5 @@
 ---
-title: Chart.DepthPercent Property (Project)
+title: Chart.DepthPercent property (Project)
 ms.prod: project-server
 ms.assetid: 868997e8-225c-5899-ccb0-71e1c8d9acfd
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.DepthPercent Property (Project)
+# Chart.DepthPercent property (Project)
 Gets or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `DepthPercent`
+_expression_. `DepthPercent`
 
  _expression_ A variable that represents a 'Chart' object.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ViewMailMergeFieldCodes Property (Publisher)
+title: MailMerge.ViewMailMergeFieldCodes property (Publisher)
 keywords: vbapb10.chm6225928
 f1_keywords:
 - vbapb10.chm6225928
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.ViewMailMergeFieldCodes Property (Publisher)
+# MailMerge.ViewMailMergeFieldCodes property (Publisher)
 
  **True** if merge field names are displayed in a mail merge publication; **False** if information from the current record is displayed. Read/write **Boolean**. .
 
 
 ## Syntax
 
- _expression_. **ViewMailMergeFieldCodes**
+ _expression_.**ViewMailMergeFieldCodes**
 
  _expression_ A variable that represents a  **MailMerge** object.
 

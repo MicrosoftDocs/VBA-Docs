@@ -1,5 +1,5 @@
 ---
-title: Selection.GetSelection Method (Outlook)
+title: Selection.GetSelection method (Outlook)
 keywords: vbaol11.chm3533
 f1_keywords:
 - vbaol11.chm3533
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.GetSelection Method (Outlook)
+# Selection.GetSelection method (Outlook)
 
 Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind of objects specified by the _SelectionContents_ parameter, and that are currently selected in the active explorer.
 
@@ -21,7 +21,7 @@ Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind o
 
 _expression_. `GetSelection`( `_SelectionContents_` )
 
-_expression_ A variable that represents a [Selection](./Outlook.Selection.md) object.
+_expression_ A variable that represents a [Selection](Outlook.Selection.md) object.
 
 
 ## Parameters

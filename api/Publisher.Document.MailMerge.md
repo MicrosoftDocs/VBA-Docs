@@ -1,5 +1,5 @@
 ---
-title: Document.MailMerge Property (Publisher)
+title: Document.MailMerge property (Publisher)
 keywords: vbapb10.chm196628
 f1_keywords:
 - vbapb10.chm196628
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.MailMerge Property (Publisher)
+# Document.MailMerge property (Publisher)
 
 Returns a  **[MailMerge](Publisher.MailMerge.md)** object that represents the mail merge functionality for the specified publication.
 
 
 ## Syntax
 
- _expression_. **MailMerge**
+ _expression_.**MailMerge**
 
  _expression_ A variable that represents a  **Document** object.
 

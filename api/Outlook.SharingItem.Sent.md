@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Sent Property (Outlook)
+title: SharingItem.Sent property (Outlook)
 keywords: vbaol11.chm661
 f1_keywords:
 - vbaol11.chm661
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Sent Property (Outlook)
+# SharingItem.Sent property (Outlook)
 
 Returns a  **Boolean** value that indicates if the **[SharingItem](Outlook.SharingItem.md)** has been sent. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates if the **[SharingItem](Outlook.Shari
 
 _expression_. `Sent`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

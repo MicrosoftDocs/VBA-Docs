@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ReminderPlaySound Property (Outlook)
+title: ContactItem.ReminderPlaySound property (Outlook)
 keywords: vbaol11.chm1105
 f1_keywords:
 - vbaol11.chm1105
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ReminderPlaySound Property (Outlook)
+# ContactItem.ReminderPlaySound property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the reminder should play a sound when it occurs for this item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder should pla
 
 _expression_. `ReminderPlaySound`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

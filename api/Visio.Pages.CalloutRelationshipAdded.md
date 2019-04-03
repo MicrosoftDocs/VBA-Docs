@@ -1,5 +1,5 @@
 ---
-title: Pages.CalloutRelationshipAdded Event (Visio)
+title: Pages.CalloutRelationshipAdded event (Visio)
 keywords: vis_sdr.chm11062075
 f1_keywords:
 - vis_sdr.chm11062075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.CalloutRelationshipAdded Event (Visio)
+# Pages.CalloutRelationshipAdded event (Visio)
 
 Occurs when a new callout relationship is added to a page.
 

@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.Application Property (Visio)
+title: KeyboardEvent.Application property (Visio)
 ms.prod: visio
 api_name:
 - Visio.KeyboardEvent.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent.Application Property (Visio)
+# KeyboardEvent.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: LinkFormat Object (Publisher)
+title: LinkFormat object (Publisher)
 keywords: vbapb10.chm4456447
 f1_keywords:
 - vbapb10.chm4456447
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LinkFormat Object (Publisher)
+# LinkFormat object (Publisher)
 
 Represents the linking characteristics for an OLE object or picture.
  

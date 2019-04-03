@@ -1,5 +1,5 @@
 ---
-title: Windows.WindowOpened Event (Visio)
+title: Windows.WindowOpened event (Visio)
 keywords: vis_sdr.chm11719280
 f1_keywords:
 - vis_sdr.chm11719280
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Windows.WindowOpened Event (Visio)
+# Windows.WindowOpened event (Visio)
 
 Occurs after a window is opened.
 

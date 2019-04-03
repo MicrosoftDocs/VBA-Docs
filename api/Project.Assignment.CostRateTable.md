@@ -1,5 +1,5 @@
 ---
-title: Assignment.CostRateTable Property (Project)
+title: Assignment.CostRateTable property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.CostRateTable
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.CostRateTable Property (Project)
+# Assignment.CostRateTable property (Project)
 
 Gets or sets the cost rate table in effect for the assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CostRateTable`
+_expression_. `CostRateTable`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

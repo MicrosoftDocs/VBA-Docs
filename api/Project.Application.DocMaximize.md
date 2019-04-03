@@ -1,5 +1,5 @@
 ---
-title: Application.DocMaximize Method (Project)
+title: Application.DocMaximize method (Project)
 keywords: vbapj.chm2013
 f1_keywords:
 - vbapj.chm2013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DocMaximize Method (Project)
+# Application.DocMaximize method (Project)
 
 Maximizes the window of the active project.
 
 
 ## Syntax
 
- _expression_. `DocMaximize`
+_expression_. `DocMaximize`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

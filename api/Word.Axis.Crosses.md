@@ -19,9 +19,9 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 
 ## Syntax
 
- _expression_. `Crosses`
+_expression_. `Crosses`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks

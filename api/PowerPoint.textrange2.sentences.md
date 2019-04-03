@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Sentences Property (PowerPoint)
+title: TextRange2.Sentences property (PowerPoint)
 ms.assetid: 99dd9dd8-7d2b-4189-897e-1728f6ded6b4
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.Sentences Property (PowerPoint)
+# TextRange2.Sentences property (PowerPoint)
 
 Returns a  **TextRange2** object that represents the specified subset of text sentences. Read-only.
 
 
 ## Syntax
 
- _expression_. `Sentences`( `_Start_`, `_Length_` )
+_expression_. `Sentences`( `_Start_`, `_Length_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 
@@ -62,6 +62,6 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

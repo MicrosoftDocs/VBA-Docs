@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultLineStyle Property (Visio)
+title: Document.DefaultLineStyle property (Visio)
 keywords: vis_sdr.chm10513385
 f1_keywords:
 - vis_sdr.chm10513385
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.DefaultLineStyle Property (Visio)
+# Document.DefaultLineStyle property (Visio)
 
 Gets or sets the default line style of a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultLineStyle`
+_expression_. `DefaultLineStyle`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

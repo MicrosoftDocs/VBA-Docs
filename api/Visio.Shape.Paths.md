@@ -1,5 +1,5 @@
 ---
-title: Shape.Paths Property (Visio)
+title: Shape.Paths property (Visio)
 keywords: vis_sdr.chm11214055
 f1_keywords:
 - vis_sdr.chm11214055
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Paths Property (Visio)
+# Shape.Paths property (Visio)
 
 Returns a  **Paths** collection that reports the coordinates of a shape's paths in the coordinate system of the shape's parent. Read-only.
 
 
 ## Syntax
 
- _expression_. `Paths`
+_expression_. `Paths`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

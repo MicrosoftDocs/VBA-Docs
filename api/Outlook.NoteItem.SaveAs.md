@@ -1,5 +1,5 @@
 ---
-title: NoteItem.SaveAs Method (Outlook)
+title: NoteItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1499
 f1_keywords:
 - vbaol11.chm1499
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.SaveAs Method (Outlook)
+# NoteItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 
@@ -21,7 +21,7 @@ Saves the Microsoft Outlook item to the specified path and in the format of the 
 
 _expression_. `SaveAs`( `_Path_` , `_Type_` )
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## Parameters

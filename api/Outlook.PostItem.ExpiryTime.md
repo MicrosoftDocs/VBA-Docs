@@ -1,5 +1,5 @@
 ---
-title: PostItem.ExpiryTime Property (Outlook)
+title: PostItem.ExpiryTime property (Outlook)
 keywords: vbaol11.chm1547
 f1_keywords:
 - vbaol11.chm1547
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ExpiryTime Property (Outlook)
+# PostItem.ExpiryTime property (Outlook)
 
 Returns or sets a  **Date** indicating the date and time at which the item becomes invalid and can be deleted. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the date and time at which the item becom
 
 _expression_. `ExpiryTime`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

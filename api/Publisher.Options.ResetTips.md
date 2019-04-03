@@ -1,5 +1,5 @@
 ---
-title: Options.ResetTips Method (Publisher)
+title: Options.ResetTips method (Publisher)
 keywords: vbapb10.chm1048616
 f1_keywords:
 - vbapb10.chm1048616
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.ResetTips Method (Publisher)
+# Options.ResetTips method (Publisher)
 
 Resets tippages so that a user can view them when using features that have been used before.
 
 
 ## Syntax
 
- _expression_. **ResetTips**
+ _expression_.**ResetTips**
 
  _expression_ A variable that represents an  **Options** object.
 

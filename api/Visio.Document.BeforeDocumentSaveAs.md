@@ -1,5 +1,5 @@
 ---
-title: Document.BeforeDocumentSaveAs Event (Visio)
+title: Document.BeforeDocumentSaveAs event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Document.BeforeDocumentSaveAs
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Document.BeforeDocumentSaveAs Event (Visio)
+# Document.BeforeDocumentSaveAs event (Visio)
 
 Occurs just before a document is saved by using the  **Save As** command.
 

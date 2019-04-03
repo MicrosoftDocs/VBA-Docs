@@ -1,5 +1,5 @@
 ---
-title: CatalogMergeShapes.Parent Property (Publisher)
+title: CatalogMergeShapes.Parent property (Publisher)
 keywords: vbapb10.chm8388610
 f1_keywords:
 - vbapb10.chm8388610
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CatalogMergeShapes.Parent Property (Publisher)
+# CatalogMergeShapes.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents a  **CatalogMergeShapes** object.
 

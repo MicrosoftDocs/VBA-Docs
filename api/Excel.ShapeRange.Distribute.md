@@ -21,7 +21,7 @@ Horizontally or vertically distributes the shapes in the specified range of shap
 
 _expression_. `Distribute`( `_DistributeCmd_` , `_RelativeTo_` )
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Parameters
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) ob
 
 ## Example
 
-This example defines a shape range that contains all the AutoShapes on  `myDocument` and then horizontally distributes the shapes in this range. The leftmost shape retains its position.
+This example defines a shape range that contains all the AutoShapes on  _myDocument_ and then horizontally distributes the shapes in this range. The leftmost shape retains its position.
 
 
 ```vb

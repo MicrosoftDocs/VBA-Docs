@@ -1,5 +1,5 @@
 ---
-title: Presentation.CreateVideoStatus Property (PowerPoint)
+title: Presentation.CreateVideoStatus property (PowerPoint)
 keywords: vbapp10.chm583122
 f1_keywords:
 - vbapp10.chm583122
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.CreateVideoStatus Property (PowerPoint)
+# Presentation.CreateVideoStatus property (PowerPoint)
 
 Returns the status of creating a video in the current  **Presentation**. Read-only.
 
 
 ## Syntax
 
- _expression_. `CreateVideoStatus`
+_expression_. `CreateVideoStatus`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

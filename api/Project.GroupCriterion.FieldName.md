@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.FieldName Property (Project)
+title: GroupCriterion.FieldName property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.FieldName
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.FieldName Property (Project)
+# GroupCriterion.FieldName property (Project)
 
 Gets or sets the name of the field being grouped by. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FieldName`
+_expression_. `FieldName`
 
  _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: NoteItem.IsConflict Property (Outlook)
+title: NoteItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1504
 f1_keywords:
 - vbaol11.chm1504
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.IsConflict Property (Outlook)
+# NoteItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 
 _expression_. `IsConflict`
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## Remarks

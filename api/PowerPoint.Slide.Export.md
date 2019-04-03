@@ -1,5 +1,5 @@
 ---
-title: Slide.Export Method (PowerPoint)
+title: Slide.Export method (PowerPoint)
 keywords: vbapp10.chm531025
 f1_keywords:
 - vbapp10.chm531025
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.Export Method (PowerPoint)
+# Slide.Export method (PowerPoint)
 
 Exports a slide, using the specified graphics filter, and saves the exported file under the specified file name.
 
 
 ## Syntax
 
- _expression_. `Export`( `_FileName_`, `_FilterName_`, `_ScaleWidth_`, `_ScaleHeight_` )
+_expression_. `Export`( `_FileName_`, `_FilterName_`, `_ScaleWidth_`, `_ScaleHeight_` )
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

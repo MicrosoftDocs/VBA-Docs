@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.NameU Property (Visio)
+title: Hyperlink.NameU property (Visio)
 keywords: vis_sdr.chm15051985
 f1_keywords:
 - vis_sdr.chm15051985
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.NameU Property (Visio)
+# Hyperlink.NameU property (Visio)
 
 Specifies the universal name of a  **Hyperlink** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `NameU`
+_expression_. `NameU`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.BeforePrint Event (Publisher)
+title: Application.BeforePrint event (Publisher)
 keywords: vbapb10.chm268435491
 f1_keywords:
 - vbapb10.chm268435491
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Application.BeforePrint Event (Publisher)
+# Application.BeforePrint event (Publisher)
 
 Occurs before the publication is printed or previewed. .
 
 
 ## Syntax
 
- _expression_. **BeforePrint**(**_Doc_**,  **_Cancel_**)
+ _expression_.**BeforePrint**(**_Doc_**,  **_Cancel_**)
 
- _expression_An expression that returns an  **Application** object.
+ _expression_ An expression that returns an  **Application** object.
 
 
 ## Parameters

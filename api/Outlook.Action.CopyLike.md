@@ -1,5 +1,5 @@
 ---
-title: Action.CopyLike Property (Outlook)
+title: Action.CopyLike property (Outlook)
 keywords: vbaol11.chm14
 f1_keywords:
 - vbaol11.chm14
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Action.CopyLike Property (Outlook)
+# Action.CopyLike property (Outlook)
 
 Returns or sets an  **[OlActionCopyLike](Outlook.OlActionCopyLike.md)** constant indicating the property inheritance style to use for the action. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlActionCopyLike](Outlook.OlActionCopyLike.md)** constant
 
 _expression_. `CopyLike`
 
-_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](Outlook.Action.md) object.
 
 
 ## Remarks

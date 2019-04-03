@@ -1,5 +1,5 @@
 ---
-title: Task.Cost Property (Project)
+title: Task.Cost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Cost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Cost Property (Project)
+# Task.Cost property (Project)
 
 Gets the total cost of the task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Cost`
+_expression_. `Cost`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

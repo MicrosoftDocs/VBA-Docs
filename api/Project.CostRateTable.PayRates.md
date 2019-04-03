@@ -1,5 +1,5 @@
 ---
-title: CostRateTable.PayRates Property (Project)
+title: CostRateTable.PayRates property (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTable.PayRates
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# CostRateTable.PayRates Property (Project)
+# CostRateTable.PayRates property (Project)
 
 Gets a  **[PayRates](Project.PayRate.md)** collection that represents the various pay rates on the cost rate table for a resource. Read-only **PayRates**.
 
 
 ## Syntax
 
- _expression_. `PayRates`
+_expression_. `PayRates`
 
  _expression_ A variable that represents a [CostRateTable](./Project.CostRateTable.md) object.
 

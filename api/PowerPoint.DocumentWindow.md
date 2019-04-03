@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow Object (PowerPoint)
+title: DocumentWindow object (PowerPoint)
 keywords: vbapp10.chm511000
 f1_keywords:
 - vbapp10.chm511000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow Object (PowerPoint)
+# DocumentWindow object (PowerPoint)
 
 Represents a document window. The  **DocumentWindow** object is a member of the **[DocumentWindows](./PowerPoint.DocumentWindows.md)** collection. The **DocumentWindows** collection contains all the open document windows.
 
@@ -120,6 +120,6 @@ mypane = ActiveWindow.ActivePane.ViewType
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

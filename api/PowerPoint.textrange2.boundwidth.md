@@ -1,5 +1,5 @@
 ---
-title: TextRange2.BoundWidth Property (PowerPoint)
+title: TextRange2.BoundWidth property (PowerPoint)
 ms.assetid: 95d4ef10-0f3e-47d8-bfe4-daf8779c74c9
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.BoundWidth Property (PowerPoint)
+# TextRange2.BoundWidth property (PowerPoint)
 
 Gets the width, in points, of the text bounding box for the specified text. Read-only.
 
 
 ## Syntax
 
- _expression_. `BoundWidth`
+_expression_. `BoundWidth`
 
  _expression_ An expression that returns a 'TextRange2' object.
 
@@ -48,6 +48,6 @@ End With
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

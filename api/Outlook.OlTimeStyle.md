@@ -1,5 +1,5 @@
 ---
-title: OlTimeStyle Enumeration (Outlook)
+title: OlTimeStyle enumeration (Outlook)
 keywords: vbaol11.chm1000031
 f1_keywords:
 - vbaol11.chm1000031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlTimeStyle Enumeration (Outlook)
+# OlTimeStyle enumeration (Outlook)
 
 Specifies how time values are displayed and how entries of time values are interpreted by a time control.
 

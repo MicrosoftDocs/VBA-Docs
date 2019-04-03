@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Actions Property (Outlook)
+title: TaskItem.Actions property (Outlook)
 keywords: vbaol11.chm1686
 f1_keywords:
 - vbaol11.chm1686
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Actions Property (Outlook)
+# TaskItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

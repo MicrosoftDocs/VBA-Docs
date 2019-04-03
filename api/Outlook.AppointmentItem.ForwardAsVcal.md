@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ForwardAsVcal Method (Outlook)
+title: AppointmentItem.ForwardAsVcal method (Outlook)
 keywords: vbaol11.chm904
 f1_keywords:
 - vbaol11.chm904
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.ForwardAsVcal Method (Outlook)
+# AppointmentItem.ForwardAsVcal method (Outlook)
 
 Forwards the  **[AppointmentItem](Outlook.AppointmentItem.md)** as a vCal; virtual calendar item.
 
@@ -21,7 +21,7 @@ Forwards the  **[AppointmentItem](Outlook.AppointmentItem.md)** as a vCal; virtu
 
 _expression_. `ForwardAsVcal`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Return value

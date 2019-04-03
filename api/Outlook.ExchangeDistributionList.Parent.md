@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Parent Property (Outlook)
+title: ExchangeDistributionList.Parent property (Outlook)
 keywords: vbaol11.chm2111
 f1_keywords:
 - vbaol11.chm2111
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Parent Property (Outlook)
+# ExchangeDistributionList.Parent property (Outlook)
 
 Returns the parent  **Object** of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the **[ExchangeDistributionList](Outlook.Excha
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## See also

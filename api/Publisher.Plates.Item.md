@@ -1,5 +1,5 @@
 ---
-title: Plates.Item Property (Publisher)
+title: Plates.Item property (Publisher)
 keywords: vbapb10.chm2818048
 f1_keywords:
 - vbapb10.chm2818048
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Plates.Item Property (Publisher)
+# Plates.Item property (Publisher)
 
 Returns an individual object from a specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **Plates** object.
 

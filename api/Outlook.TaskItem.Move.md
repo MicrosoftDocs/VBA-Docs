@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Move Method (Outlook)
+title: TaskItem.Move method (Outlook)
 keywords: vbaol11.chm1716
 f1_keywords:
 - vbaol11.chm1716
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Move Method (Outlook)
+# TaskItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 
@@ -21,7 +21,7 @@ Moves a Microsoft Outlook item to a new folder.
 
 _expression_. `Move`( `_DestFldr_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

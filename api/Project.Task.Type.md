@@ -1,5 +1,5 @@
 ---
-title: Task.Type Property (Project)
+title: Task.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Task.Type Property (Project)
+# Task.Type property (Project)
 
 Gets or sets the way the task is calculated; that is, which one of units, duration, or work are fixed. Read/write  **PjTaskFixedType**.
 

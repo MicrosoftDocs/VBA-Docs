@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeTaskChange2 Event (Project)
+title: Application.ProjectBeforeTaskChange2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeTaskChange2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeTaskChange2 Event (Project)
+# Application.ProjectBeforeTaskChange2 event (Project)
 
 Occurs before the user changes the value of a task field. Uses the **EventInfo** object parameter.
 
 
 ## Syntax
 
-_expression_. **ProjectBeforeTaskChange2** (**_tsk_**, **_Field_**, **_NewVal_**, **_Info_**)
+_expression_.**ProjectBeforeTaskChange2** (**_tsk_**, **_Field_**, **_NewVal_**, **_Info_**)
 
 _expression_ A variable that represents an **Application** object.
 

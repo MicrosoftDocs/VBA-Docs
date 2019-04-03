@@ -1,5 +1,5 @@
 ---
-title: SoundEffect.Parent Property (PowerPoint)
+title: SoundEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm540002
 f1_keywords:
 - vbapp10.chm540002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SoundEffect.Parent Property (PowerPoint)
+# SoundEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

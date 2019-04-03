@@ -1,5 +1,5 @@
 ---
-title: RuleActions.NotifyDelivery Property (Outlook)
+title: RuleActions.NotifyDelivery property (Outlook)
 keywords: vbaol11.chm2188
 f1_keywords:
 - vbaol11.chm2188
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleActions.NotifyDelivery Property (Outlook)
+# RuleActions.NotifyDelivery property (Outlook)
 
 Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.ActionType](Outlook.RuleAction.ActionType.md)** being **olRuleActionNotifyDelivery**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.Act
 
 _expression_. `NotifyDelivery`
 
-_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks

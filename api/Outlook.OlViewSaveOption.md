@@ -1,5 +1,5 @@
 ---
-title: OlViewSaveOption Enumeration (Outlook)
+title: OlViewSaveOption enumeration (Outlook)
 keywords: vbaol11.chm3095
 f1_keywords:
 - vbaol11.chm3095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlViewSaveOption Enumeration (Outlook)
+# OlViewSaveOption enumeration (Outlook)
 
 Specifies the folders in which the view is available and the read permissions attached to the view.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell.CellTextOrientation Property (Publisher)
+title: Cell.CellTextOrientation property (Publisher)
 keywords: vbapb10.chm5111845
 f1_keywords:
 - vbapb10.chm5111845
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.CellTextOrientation Property (Publisher)
+# Cell.CellTextOrientation property (Publisher)
 
 Returns or sets a  **PbTextOrientation** that represents the flow of text in a specified table cell. Read/write.
 
 
 ## Syntax
 
- _expression_. **CellTextOrientation**
+ _expression_.**CellTextOrientation**
 
  _expression_ A variable that represents a  **Cell** object.
 

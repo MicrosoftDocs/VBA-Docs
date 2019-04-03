@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.AutoWordSelect Property (Outlook)
+title: OlkDateControl.AutoWordSelect property (Outlook)
 keywords: vbaol11.chm1000342
 f1_keywords:
 - vbaol11.chm1000342
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.AutoWordSelect Property (Outlook)
+# OlkDateControl.AutoWordSelect property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether a word or a character is the basic unit used to extend a selection. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether a word or a character is t
 
 _expression_. `AutoWordSelect`
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Remarks

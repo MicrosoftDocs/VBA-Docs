@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetX Property (Publisher)
+title: ShadowFormat.OffsetX property (Publisher)
 keywords: vbapb10.chm3670274
 f1_keywords:
 - vbapb10.chm3670274
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetX Property (Publisher)
+# ShadowFormat.OffsetX property (Publisher)
 
 Returns or sets a  **Variant** value indicating the vertical offset of the shadow from the specified shape. A positive value offsets the shadow below the shape; a negative value offsets it above the shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **OffsetX**
+ _expression_.**OffsetX**
 
  _expression_ A variable that represents an  **ShadowFormat** object.
 

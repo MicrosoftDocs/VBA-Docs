@@ -1,5 +1,5 @@
 ---
-title: AssignToCategoryRuleAction.Categories Property (Outlook)
+title: AssignToCategoryRuleAction.Categories property (Outlook)
 keywords: vbaol11.chm2269
 f1_keywords:
 - vbaol11.chm2269
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AssignToCategoryRuleAction.Categories Property (Outlook)
+# AssignToCategoryRuleAction.Categories property (Outlook)
 
 Returns or sets an array of strings representing the categories assigned to the message. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an array of strings representing the categories assigned to the 
 
 _expression_. `Categories`
 
-_expression_ A variable that represents an [AssignToCategoryRuleAction](./Outlook.AssignToCategoryRuleAction.md) object.
+_expression_ A variable that represents an [AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md) object.
 
 
 ## Remarks

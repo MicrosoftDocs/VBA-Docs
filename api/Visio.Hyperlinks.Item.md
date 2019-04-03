@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Item Property (Visio)
+title: Hyperlinks.Item property (Visio)
 keywords: vis_sdr.chm15613765
 f1_keywords:
 - vis_sdr.chm15613765
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Item Property (Visio)
+# Hyperlinks.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_NameOrIndex_` )
+_expression_. `Item`( `_NameOrIndex_` )
 
  _expression_ A variable that represents a [Hyperlinks](./Visio.Hyperlinks.md) collection.
 

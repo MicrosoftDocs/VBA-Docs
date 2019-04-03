@@ -1,5 +1,5 @@
 ---
-title: Tags.Value Method (PowerPoint)
+title: Tags.Value method (PowerPoint)
 keywords: vbapp10.chm611009
 f1_keywords:
 - vbapp10.chm611009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Tags.Value Method (PowerPoint)
+# Tags.Value method (PowerPoint)
 
 Returns the value of the specified tag as a  **String**.
 
 
 ## Syntax
 
- _expression_.**Value**( `_Index_` )
+ _expression_.**Value** (_Index_)
 
  _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 

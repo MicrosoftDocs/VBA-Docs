@@ -1,5 +1,5 @@
 ---
-title: Timing.AutoReverse Property (PowerPoint)
+title: Timing.AutoReverse property (PowerPoint)
 keywords: vbapp10.chm653012
 f1_keywords:
 - vbapp10.chm653012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Timing.AutoReverse Property (PowerPoint)
+# Timing.AutoReverse property (PowerPoint)
 
 Determines whether an effect should play forward and then in reverse, thereby doubling its duration. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoReverse`
+_expression_. `AutoReverse`
 
  _expression_ A variable that represents an [Timing](./PowerPoint.Timing.md) object.
 

@@ -19,7 +19,7 @@ Returns a  **[ColorFormat](Word.ColorFormat.md)** object that represents the col
 
 ## Syntax
 
- _expression_. `Color`
+_expression_. `Color`
 
  _expression_ An expression that returns a '[GlowFormat](Word.GlowFormat.md)' object.
 

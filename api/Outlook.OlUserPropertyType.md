@@ -1,5 +1,5 @@
 ---
-title: OlUserPropertyType Enumeration (Outlook)
+title: OlUserPropertyType enumeration (Outlook)
 keywords: vbaol11.chm3089
 f1_keywords:
 - vbaol11.chm3089
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlUserPropertyType Enumeration (Outlook)
+# OlUserPropertyType enumeration (Outlook)
 
 Indicates the user property type.
 

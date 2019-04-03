@@ -1,5 +1,5 @@
 ---
-title: GroupCriterion.Assignment Property (Project)
+title: GroupCriterion.Assignment property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.Assignment
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# GroupCriterion.Assignment Property (Project)
+# GroupCriterion.Assignment property (Project)
 
  **True** if the assignment should be grouped according to the **Customize Group By** dialog box when grouping in a usage view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Assignment`
+_expression_. `Assignment`
 
  _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.SaveSentMessageFolder Property (Outlook)
+title: MeetingItem.SaveSentMessageFolder property (Outlook)
 keywords: vbaol11.chm1449
 f1_keywords:
 - vbaol11.chm1449
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.SaveSentMessageFolder Property (Outlook)
+# MeetingItem.SaveSentMessageFolder property (Outlook)
 
 Setting or getting this property has no noticeable effect. Do not use this property.
 
@@ -21,7 +21,7 @@ Setting or getting this property has no noticeable effect. Do not use this prope
 
 _expression_. `SaveSentMessageFolder`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

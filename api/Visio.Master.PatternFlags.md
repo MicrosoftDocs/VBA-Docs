@@ -1,5 +1,5 @@
 ---
-title: Master.PatternFlags Property (Visio)
+title: Master.PatternFlags property (Visio)
 keywords: vis_sdr.chm10714065
 f1_keywords:
 - vis_sdr.chm10714065
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.PatternFlags Property (Visio)
+# Master.PatternFlags property (Visio)
 
 Determines whether a master behaves as a custom pattern. Read/write.
 
 
 ## Syntax
 
- _expression_. `PatternFlags`
+_expression_. `PatternFlags`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

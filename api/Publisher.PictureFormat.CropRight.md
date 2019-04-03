@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropRight Property (Publisher)
+title: PictureFormat.CropRight property (Publisher)
 keywords: vbapb10.chm3604741
 f1_keywords:
 - vbapb10.chm3604741
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.CropRight Property (Publisher)
+# PictureFormat.CropRight property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount by which the right edge of a picture or OLE object is cropped. Read/write.
 
 
 ## Syntax
 
- _expression_. **CropRight**
+ _expression_.**CropRight**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

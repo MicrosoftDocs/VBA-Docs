@@ -1,5 +1,5 @@
 ---
-title: Masters.GetNames Method (Visio)
+title: Masters.GetNames method (Visio)
 keywords: vis_sdr.chm10816315
 f1_keywords:
 - vis_sdr.chm10816315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Masters.GetNames Method (Visio)
+# Masters.GetNames method (Visio)
 
 Returns the names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNames`( `_localeSpecificNameArray()_` )
+_expression_. `GetNames`( `_localeSpecificNameArray()_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

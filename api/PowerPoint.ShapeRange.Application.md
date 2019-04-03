@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Application Property (PowerPoint)
+title: ShapeRange.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Application Property (PowerPoint)
+# ShapeRange.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: XlChartItem Enumeration (PowerPoint)
+title: XlChartItem enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartItem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# XlChartItem Enumeration (PowerPoint)
+# XlChartItem enumeration (PowerPoint)
 
 Specifies the type of the chart item.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DocumentChanged Event (Visio)
+title: InvisibleApp.DocumentChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DocumentChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DocumentChanged Event (Visio)
+# InvisibleApp.DocumentChanged event (Visio)
 
 Occurs after certain properties of a document are changed.
 

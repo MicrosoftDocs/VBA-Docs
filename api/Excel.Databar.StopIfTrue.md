@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines if additional formatting ru
 
 _expression_.**StopIfTrue**
 
-_expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks

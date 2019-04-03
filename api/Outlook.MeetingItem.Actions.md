@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Actions Property (Outlook)
+title: MeetingItem.Actions property (Outlook)
 keywords: vbaol11.chm1402
 f1_keywords:
 - vbaol11.chm1402
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Actions Property (Outlook)
+# MeetingItem.Actions property (Outlook)
 
 Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 _expression_. `Actions`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## See also

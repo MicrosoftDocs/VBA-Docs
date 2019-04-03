@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.RotationEffect Property (PowerPoint)
+title: AnimationBehavior.RotationEffect property (PowerPoint)
 keywords: vbapp10.chm657009
 f1_keywords:
 - vbapp10.chm657009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.RotationEffect Property (PowerPoint)
+# AnimationBehavior.RotationEffect property (PowerPoint)
 
 Returns a  **[RotationEffect](PowerPoint.RotationEffect.md)** object for an animation behavior. Read-only.
 
 
 ## Syntax
 
- _expression_. `RotationEffect`
+_expression_. `RotationEffect`
 
 _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 

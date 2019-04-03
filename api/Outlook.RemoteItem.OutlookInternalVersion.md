@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.OutlookInternalVersion Property (Outlook)
+title: RemoteItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm1604
 f1_keywords:
 - vbaol11.chm1604
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.OutlookInternalVersion Property (Outlook)
+# RemoteItem.OutlookInternalVersion property (Outlook)
 
 Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** representing the build number of the Outlook application for
 
 _expression_. `OutlookInternalVersion`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## See also

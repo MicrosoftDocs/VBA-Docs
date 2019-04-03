@@ -1,5 +1,5 @@
 ---
-title: OlGridLineStyle Enumeration (Outlook)
+title: OlGridLineStyle enumeration (Outlook)
 keywords: vbaol11.chm3123
 f1_keywords:
 - vbaol11.chm3123
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlGridLineStyle Enumeration (Outlook)
+# OlGridLineStyle enumeration (Outlook)
 
 Indicates the line style used to display grid lines for  **[TableView](Outlook.TableView.md)** objects.
 

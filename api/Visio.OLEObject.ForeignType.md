@@ -1,5 +1,5 @@
 ---
-title: OLEObject.ForeignType Property (Visio)
+title: OLEObject.ForeignType property (Visio)
 keywords: vis_sdr.chm15213555
 f1_keywords:
 - vis_sdr.chm15213555
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEObject.ForeignType Property (Visio)
+# OLEObject.ForeignType property (Visio)
 
 Returns the subtype of a  **Shape** object that represents a foreign object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ForeignType`
+_expression_. `ForeignType`
 
  _expression_ A variable that represents an [OLEObject](./Visio.OLEObject.md) object.
 

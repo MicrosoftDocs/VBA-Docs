@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.CreateURL Method (Visio)
+title: Hyperlink.CreateURL method (Visio)
 keywords: vis_sdr.chm15016155
 f1_keywords:
 - vis_sdr.chm15016155
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.CreateURL Method (Visio)
+# Hyperlink.CreateURL method (Visio)
 
 Returns a fully qualified and optionally canonicalized representation of the hyperlink's absolute address.
 
 
 ## Syntax
 
- _expression_. `CreateURL`( `_CanonicalForm_` )
+_expression_. `CreateURL`( `_CanonicalForm_` )
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

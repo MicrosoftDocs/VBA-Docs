@@ -1,5 +1,5 @@
 ---
-title: WorkWeek.Start Property (Project)
+title: WorkWeek.Start property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeek.Start
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# WorkWeek.Start Property (Project)
+# WorkWeek.Start property (Project)
 
 Gets or sets the start date of the work week. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Start`
+_expression_. `Start`
 
  _expression_ An expression that returns a [WorkWeek](./Project.WorkWeek.md) object.
 

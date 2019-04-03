@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadStyle Property (Publisher)
+title: LineFormat.BeginArrowheadStyle property (Publisher)
 keywords: vbapb10.chm3408130
 f1_keywords:
 - vbapb10.chm3408130
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.BeginArrowheadStyle Property (Publisher)
+# LineFormat.BeginArrowheadStyle property (Publisher)
 
 Returns or sets an  **MsoArrowheadStyle**constant indicating the style of the arrowhead at the beginning of the specified line. Read/write.
 
 
 ## Syntax
 
- _expression_. **BeginArrowheadStyle**
+ _expression_.**BeginArrowheadStyle**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -31,7 +31,7 @@ MsoArrowheadStyle
 
 ## Remarks
 
-The  **BeginArrowheadStyle** property value can be one of the ** [MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** constants declared in the Microsoft Office type library.
+The  **BeginArrowheadStyle** property value can be one of the **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[EndArrowheadStyle](Publisher.LineFormat.EndArrowheadStyle.md)** property to return or set the style of the arrowhead at the end of the line.
 

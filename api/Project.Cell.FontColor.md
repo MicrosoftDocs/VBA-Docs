@@ -1,5 +1,5 @@
 ---
-title: Cell.FontColor Property (Project)
+title: Cell.FontColor property (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell.FontColor
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.FontColor Property (Project)
+# Cell.FontColor property (Project)
 
 Gets or sets the color of the font. Read/write  **PjColor**.
 
 
 ## Syntax
 
- _expression_. `FontColor`
+_expression_. `FontColor`
 
  _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.LevelOrder Property (Project)
+title: Application.LevelOrder property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.LevelOrder
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelOrder Property (Project)
+# Application.LevelOrder property (Project)
 
 Gets or sets the order in which tasks with overallocations will be delayed when resources are leveled. Read/write  **PjLevelOrder**.
 
 
 ## Syntax
 
- _expression_. `LevelOrder`
+_expression_. `LevelOrder`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

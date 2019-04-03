@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Keywords Property (Publisher)
+title: BuildingBlock.Keywords property (Publisher)
 keywords: vbapb10.chm9502726
 f1_keywords:
 - vbapb10.chm9502726
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlock.Keywords Property (Publisher)
+# BuildingBlock.Keywords property (Publisher)
 
 A string that represents the search keywords associated with the building block. Read/write.
 
 
 ## Syntax
 
- _expression_. **Keywords**
+ _expression_.**Keywords**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

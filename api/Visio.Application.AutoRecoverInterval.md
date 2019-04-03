@@ -1,5 +1,5 @@
 ---
-title: Application.AutoRecoverInterval Property (Visio)
+title: Application.AutoRecoverInterval property (Visio)
 keywords: vis_sdr.chm10014705
 f1_keywords:
 - vis_sdr.chm10014705
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AutoRecoverInterval Property (Visio)
+# Application.AutoRecoverInterval property (Visio)
 
 Represents the time interval (in minutes) for how often you want to save copies of open documents that have unsaved changes in case of a power failure or an application error. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoRecoverInterval`
+_expression_. `AutoRecoverInterval`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

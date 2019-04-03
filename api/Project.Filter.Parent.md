@@ -1,5 +1,5 @@
 ---
-title: Filter.Parent Property (Project)
+title: Filter.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Filter.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Filter.Parent Property (Project)
+# Filter.Parent property (Project)
 
 Gets the parent of the  **Filter** object. Read-only **Project**.
 

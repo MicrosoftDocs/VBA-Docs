@@ -1,5 +1,5 @@
 ---
-title: Options.AutoHyphenate Property (Publisher)
+title: Options.AutoHyphenate property (Publisher)
 keywords: vbapb10.chm1048580
 f1_keywords:
 - vbapb10.chm1048580
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.AutoHyphenate Property (Publisher)
+# Options.AutoHyphenate property (Publisher)
 
  **True** (default) for Microsoft Publisher to automatically hyphenate text in text frames. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **AutoHyphenate**
+ _expression_.**AutoHyphenate**
 
  _expression_ A variable that represents an  **Options** object.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.ForeColor Property (PowerPoint)
+title: FillFormat.ForeColor property (PowerPoint)
 keywords: vbapp10.chm552012
 f1_keywords:
 - vbapp10.chm552012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.ForeColor Property (PowerPoint)
+# FillFormat.ForeColor property (PowerPoint)
 
 Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the foreground color for the fill, line, or shadow. Read/write.
 
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -31,7 +31,7 @@ ColorFormat
 
 ## Example
 
-This example adds a rectangle to  `myDocument` and then sets the foreground color, background color, and gradient for the rectangle's fill.
+This example adds a rectangle to  _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 ```vb
@@ -47,7 +47,7 @@ With myDocument.Shapes _
 End With
 ```
 
-This example adds a patterned line to  `myDocument`.
+This example adds a patterned line to  _myDocument_.
 
 
 

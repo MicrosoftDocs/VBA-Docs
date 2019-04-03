@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the amount of vertical space betwe
 
 ## Syntax
 
- _expression_. `GridDistanceVertical`
+_expression_. `GridDistanceVertical`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

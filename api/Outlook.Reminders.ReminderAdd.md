@@ -1,5 +1,5 @@
 ---
-title: Reminders.ReminderAdd Event (Outlook)
+title: Reminders.ReminderAdd event (Outlook)
 keywords: vbaol11.chm576
 f1_keywords:
 - vbaol11.chm576
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.ReminderAdd Event (Outlook)
+# Reminders.ReminderAdd event (Outlook)
 
 Occurs after a reminder is added.
 
@@ -21,7 +21,7 @@ Occurs after a reminder is added.
 
 _expression_. `ReminderAdd`( `_ReminderObject_` )
 
-_expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Parameters

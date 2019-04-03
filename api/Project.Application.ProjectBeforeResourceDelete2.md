@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeResourceDelete2 Event (Project)
+title: Application.ProjectBeforeResourceDelete2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceDelete2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeResourceDelete2 Event (Project)
+# Application.ProjectBeforeResourceDelete2 event (Project)
 
 Occurs before a resource is deleted. Uses the  **EventInfo** object parameter.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeResourceDelete2`( `_res_`, `_Info_` )
+_expression_. `ProjectBeforeResourceDelete2`( `_res_`, `_Info_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

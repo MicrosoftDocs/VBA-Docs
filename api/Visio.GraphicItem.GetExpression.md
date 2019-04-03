@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.GetExpression Method (Visio)
+title: GraphicItem.GetExpression method (Visio)
 keywords: vis_sdr.chm16960425
 f1_keywords:
 - vis_sdr.chm16960425
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.GetExpression Method (Visio)
+# GraphicItem.GetExpression method (Visio)
 
 Gets the label of the shape data item (custom property) that the  **GraphicItem** represents, or the value of the expression string that is part of a **GraphicItem** object?s rule, against which shape data is evaluated.
 
@@ -22,7 +22,7 @@ Gets the label of the shape data item (custom property) that the  **GraphicItem*
 
 ## Syntax
 
- _expression_. `GetExpression`( `_Field_` , `_Expression_` )
+_expression_. `GetExpression`( `_Field_` , `_Expression_` )
 
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 

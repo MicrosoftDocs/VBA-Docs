@@ -1,5 +1,5 @@
 ---
-title: Assignment.Text25 Property (Project)
+title: Assignment.Text25 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Text25
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Text25 Property (Project)
+# Assignment.Text25 property (Project)
 
 Gets or sets the value of a local Text custom field for the assignment. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Text25`
+_expression_. `Text25`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

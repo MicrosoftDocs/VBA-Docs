@@ -19,7 +19,7 @@ Converts an equation with a superscript or subscript to the left of the base of 
 
 ## Syntax
 
- _expression_. `ToScrSubSup`
+_expression_. `ToScrSubSup`
 
  _expression_ An expression that returns a [OMathScrPre](./Word.OMathScrPre.md) object.
 

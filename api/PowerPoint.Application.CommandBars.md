@@ -1,5 +1,5 @@
 ---
-title: Application.CommandBars Property (PowerPoint)
+title: Application.CommandBars property (PowerPoint)
 keywords: vbapp10.chm503010
 f1_keywords:
 - vbapp10.chm503010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CommandBars Property (PowerPoint)
+# Application.CommandBars property (PowerPoint)
 
 Returns a  **CommandBars** collection that represents all the command bars in Microsoft PowerPoint. Read-only.
 
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

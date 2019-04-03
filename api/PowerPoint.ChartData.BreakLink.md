@@ -1,5 +1,5 @@
 ---
-title: ChartData.BreakLink Method (PowerPoint)
+title: ChartData.BreakLink method (PowerPoint)
 keywords: vbapp10.chm689004
 f1_keywords:
 - vbapp10.chm689004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartData.BreakLink Method (PowerPoint)
+# ChartData.BreakLink method (PowerPoint)
 
 Removes the link between the data for a chart and a Microsoft Excel workbook.
 
 
 ## Syntax
 
- _expression_. `BreakLink`
+_expression_. `BreakLink`
 
 _expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)' object.
 

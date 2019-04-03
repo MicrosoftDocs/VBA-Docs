@@ -1,5 +1,5 @@
 ---
-title: Shape.ForeignType Property (Visio)
+title: Shape.ForeignType property (Visio)
 keywords: vis_sdr.chm11213555
 f1_keywords:
 - vis_sdr.chm11213555
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.ForeignType Property (Visio)
+# Shape.ForeignType property (Visio)
 
 Returns the subtype of a  **Shape** object that represents a foreign object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ForeignType`
+_expression_. `ForeignType`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

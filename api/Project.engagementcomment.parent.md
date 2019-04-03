@@ -1,5 +1,5 @@
 ---
-title: EngagementComment.Parent Property (Project)
+title: EngagementComment.Parent property (Project)
 ms.assetid: d27685a9-4a21-9095-d6e0-8a3978faf11d
 ms.date: 06/08/2017
 ms.prod: project-server
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# EngagementComment.Parent Property (Project)
+# EngagementComment.Parent property (Project)
 
  The Parent property for the EngagementComment object. Introduced in Office 2016.
 
@@ -22,6 +22,6 @@ localization_priority: Normal
 ## See also
 
 
-[EngagementComment Object (Project)](Project.engagementcomment.md)
+[EngagementComment object (Project)](Project.engagementcomment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

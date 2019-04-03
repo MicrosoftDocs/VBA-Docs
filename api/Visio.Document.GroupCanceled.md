@@ -1,5 +1,5 @@
 ---
-title: Document.GroupCanceled Event (Visio)
+title: Document.GroupCanceled event (Visio)
 keywords: vis_sdr.chm10562005
 f1_keywords:
 - vis_sdr.chm10562005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.GroupCanceled Event (Visio)
+# Document.GroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelGroup** event.
 

@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnect Method (PowerPoint)
+title: ConnectorFormat.BeginConnect method (PowerPoint)
 keywords: vbapp10.chm555002
 f1_keywords:
 - vbapp10.chm555002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnect Method (PowerPoint)
+# ConnectorFormat.BeginConnect method (PowerPoint)
 
 Attaches the beginning of the specified connector to a specified shape. 
 
 
 ## Syntax
 
- _expression_. `BeginConnect`( `_ConnectedShape_`, `_ConnectionSite_` )
+_expression_. `BeginConnect`( `_ConnectedShape_`, `_ConnectionSite_` )
 
 _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 

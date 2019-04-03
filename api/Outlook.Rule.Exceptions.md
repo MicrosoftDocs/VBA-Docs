@@ -1,5 +1,5 @@
 ---
-title: Rule.Exceptions Property (Outlook)
+title: Rule.Exceptions property (Outlook)
 keywords: vbaol11.chm2176
 f1_keywords:
 - vbaol11.chm2176
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rule.Exceptions Property (Outlook)
+# Rule.Exceptions property (Outlook)
 
 Returns a  **[RuleConditions](Outlook.RuleConditions.md)** collection object that represents all the available rule exception conditions for the rule. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleConditions](Outlook.RuleConditions.md)** collection object tha
 
 _expression_. `Exceptions`
 
-_expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
+_expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 
 ## Remarks

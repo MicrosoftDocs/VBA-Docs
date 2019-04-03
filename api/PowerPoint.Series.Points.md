@@ -1,5 +1,5 @@
 ---
-title: Series.Points Method (PowerPoint)
+title: Series.Points method (PowerPoint)
 keywords: vbapp10.chm65606
 f1_keywords:
 - vbapp10.chm65606
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.Points Method (PowerPoint)
+# Series.Points method (PowerPoint)
 
 Returns a collection of all the points in the series.
 
 
 ## Syntax
 
- _expression_. `Points`( `_Index_` )
+_expression_. `Points` (_Index_)
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

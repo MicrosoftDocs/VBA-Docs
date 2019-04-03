@@ -1,5 +1,5 @@
 ---
-title: JournalItem.ReplyAll Method (Outlook)
+title: JournalItem.ReplyAll method (Outlook)
 keywords: vbaol11.chm1277
 f1_keywords:
 - vbaol11.chm1277
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.ReplyAll Method (Outlook)
+# JournalItem.ReplyAll method (Outlook)
 
 Creates a reply to all original recipients from the original message.
 
@@ -21,7 +21,7 @@ Creates a reply to all original recipients from the original message.
 
 _expression_. `ReplyAll`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: VisFieldCategories Enumeration (Visio)
+title: VisFieldCategories enumeration (Visio)
 keywords: vis_sdr.chm70135
 f1_keywords:
 - vis_sdr.chm70135
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisFieldCategories Enumeration (Visio)
+# VisFieldCategories enumeration (Visio)
 
 Text-field categories passed to the  **AddField** and **AddFieldEx** methods.
 

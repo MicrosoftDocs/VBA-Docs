@@ -1,5 +1,5 @@
 ---
-title: MediaBookmark.Delete Method (PowerPoint)
+title: MediaBookmark.Delete method (PowerPoint)
 keywords: vbapp10.chm729004
 f1_keywords:
 - vbapp10.chm729004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MediaBookmark.Delete Method (PowerPoint)
+# MediaBookmark.Delete method (PowerPoint)
 
 Deletes the bookmark from the collection. 
 

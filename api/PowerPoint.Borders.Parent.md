@@ -1,5 +1,5 @@
 ---
-title: Borders.Parent Property (PowerPoint)
+title: Borders.Parent property (PowerPoint)
 keywords: vbapp10.chm629002
 f1_keywords:
 - vbapp10.chm629002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Borders.Parent Property (PowerPoint)
+# Borders.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

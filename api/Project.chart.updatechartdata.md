@@ -1,5 +1,5 @@
 ---
-title: Chart.UpdateChartData Method (Project)
+title: Chart.UpdateChartData method (Project)
 keywords: vbapj.chm131637
 f1_keywords:
 - vbapj.chm131637
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.UpdateChartData Method (Project)
+# Chart.UpdateChartData method (Project)
 Updates the specified Project data on a chart.
 
 ## Syntax
 
- _expression_. `UpdateChartData` _(Task,_? _Timephased,_? _GroupName,_? _FilterName,_? _LabelField,_? _OutlineLevel,_? _SafeArrayOfPjField,_? _SafeArrayOfPjTimescaledData,_? _TimeScaleUnit,_? _TimescaleUnitCount,_? _StartDate,_? _FinishDate)_
+_expression_. `UpdateChartData` _(Task,_? _Timephased,_? _GroupName,_? _FilterName,_? _LabelField,_? _OutlineLevel,_? _SafeArrayOfPjField,_? _SafeArrayOfPjTimescaledData,_? _TimeScaleUnit,_? _TimescaleUnitCount,_? _StartDate,_? _FinishDate)_
 
  _expression_ A variable that represents a 'Chart' object.
 

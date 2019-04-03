@@ -19,7 +19,7 @@ Collapses the specified selection to its start or end position and then moves th
 
 ## Syntax
 
- _expression_. `Move`( `_Unit_` , `_Count_` )
+_expression_. `Move`( `_Unit_` , `_Count_` )
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.LinkedFileStatus Property (Publisher)
+title: PictureFormat.LinkedFileStatus property (Publisher)
 keywords: vbapb10.chm3604787
 f1_keywords:
 - vbapb10.chm3604787
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.LinkedFileStatus Property (Publisher)
+# PictureFormat.LinkedFileStatus property (Publisher)
 
 Returns a  **PbLinkedFileStatus** constant that indicates the status of the file linked to the specified picture. Read-only.
 
 
 ## Syntax
 
- _expression_. **LinkedFileStatus**
+ _expression_.**LinkedFileStatus**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

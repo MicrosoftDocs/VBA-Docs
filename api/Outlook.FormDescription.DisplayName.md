@@ -1,5 +1,5 @@
 ---
-title: FormDescription.DisplayName Property (Outlook)
+title: FormDescription.DisplayName property (Outlook)
 keywords: vbaol11.chm187
 f1_keywords:
 - vbaol11.chm187
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.DisplayName Property (Outlook)
+# FormDescription.DisplayName property (Outlook)
 
 Returns or sets a  **String** representing the name of the form, which is displayed in the **Choose Forms** dialog box. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the name of the form, which is displa
 
 _expression_. `DisplayName`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## Remarks

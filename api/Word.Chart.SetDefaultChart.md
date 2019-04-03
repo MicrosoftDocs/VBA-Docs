@@ -19,7 +19,7 @@ Specifies the name of the chart template that Microsoft Word uses when it create
 
 ## Syntax
 
- _expression_. `SetDefaultChart`( `_Name_` )
+_expression_. `SetDefaultChart`( `_Name_` )
 
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
@@ -30,7 +30,7 @@ Specifies the name of the chart template that Microsoft Word uses when it create
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special  **[xlChartGallery](Word.xlchartgallery.md)** constant, **xlBuiltIn**, to specify a built-in chart template.|
+| _Name_|Required| **Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special  **[XlChartGallery](Word.xlchartgallery.md)** constant, **xlBuiltIn**, to specify a built-in chart template.|
 
 ## Example
 

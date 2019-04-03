@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.TextToDisplay Property (PowerPoint)
+title: Hyperlink.TextToDisplay property (PowerPoint)
 keywords: vbapp10.chm526009
 f1_keywords:
 - vbapp10.chm526009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.TextToDisplay Property (PowerPoint)
+# Hyperlink.TextToDisplay property (PowerPoint)
 
 Returns or sets the display text for a hyperlink not associated with a graphic. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextToDisplay`
+_expression_. `TextToDisplay`
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 

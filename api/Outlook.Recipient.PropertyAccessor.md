@@ -1,5 +1,5 @@
 ---
-title: Recipient.PropertyAccessor Property (Outlook)
+title: Recipient.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm2359
 f1_keywords:
 - vbaol11.chm2359
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.PropertyAccessor Property (Outlook)
+# Recipient.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[Recipient](Outlook.Recipient.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## See also

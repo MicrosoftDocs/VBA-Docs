@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `HasHorizontal`
+_expression_. `HasHorizontal`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 

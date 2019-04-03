@@ -1,5 +1,5 @@
 ---
-title: Sequence.ConvertToBuildLevel Method (PowerPoint)
+title: Sequence.ConvertToBuildLevel method (PowerPoint)
 keywords: vbapp10.chm651008
 f1_keywords:
 - vbapp10.chm651008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Sequence.ConvertToBuildLevel Method (PowerPoint)
+# Sequence.ConvertToBuildLevel method (PowerPoint)
 
 Changes the build level information for a specified animation effect. Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the build level information.
 
 
 ## Syntax
 
- _expression_. `ConvertToBuildLevel`( `_Effect_`, `_Level_` )
+_expression_. `ConvertToBuildLevel`( `_Effect_`, `_Level_` )
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 

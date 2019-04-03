@@ -1,5 +1,5 @@
 ---
-title: Document.AfterRemoveHiddenInformation Event (Visio)
+title: Document.AfterRemoveHiddenInformation event (Visio)
 keywords: vis_sdr.chm10562040
 f1_keywords:
 - vis_sdr.chm10562040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.AfterRemoveHiddenInformation Event (Visio)
+# Document.AfterRemoveHiddenInformation event (Visio)
 
 Occurs when hidden information is removed from the document.
 

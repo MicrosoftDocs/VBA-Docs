@@ -1,5 +1,5 @@
 ---
-title: Sequence.AddEffect Method (PowerPoint)
+title: Sequence.AddEffect method (PowerPoint)
 keywords: vbapp10.chm651004
 f1_keywords:
 - vbapp10.chm651004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Sequence.AddEffect Method (PowerPoint)
+# Sequence.AddEffect method (PowerPoint)
 
 Returns an  **[Effect](PowerPoint.Effect.md)** object that represents a new animation effect added to a sequence of animation effects.
 
 
 ## Syntax
 
- _expression_. `AddEffect`( `_Shape_`, `_effectId_`, `_Level_`, `_trigger_`, `_Index_` )
+_expression_. `AddEffect`( `_Shape_`, `_effectId_`, `_Level_`, `_trigger_`, `_Index_` )
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 

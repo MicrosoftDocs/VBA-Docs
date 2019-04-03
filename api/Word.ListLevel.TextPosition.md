@@ -19,7 +19,7 @@ Returns or sets the position (in points) for the second line of wrapping text fo
 
 ## Syntax
 
- _expression_. `TextPosition`
+_expression_. `TextPosition`
 
  _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 

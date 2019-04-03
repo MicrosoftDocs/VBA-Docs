@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Axis.MajorTickMark property (Word)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[xlTickMark](Word.xltickmark.md)**.
+Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](Word.xltickmark.md)**.
 
 
 ## Syntax
 
- _expression_. `MajorTickMark`
+_expression_. `MajorTickMark`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Application.WindowChanged Event (Visio)
+title: Application.WindowChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.WindowChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowChanged Event (Visio)
+# Application.WindowChanged event (Visio)
 
 Occurs when the size or position of a window changes.
 

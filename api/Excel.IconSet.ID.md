@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IconSet.ID property (Excel)
 
-Returns one of the constants of the  **[xlIconSet](Excel.XlIconSet.md)** enumeration, which specifies the name of the icon set used in an icon set conditional formatting rule.
+Returns one of the constants of the  **[XlIconSet](Excel.XlIconSet.md)** enumeration, which specifies the name of the icon set used in an icon set conditional formatting rule.
 
 
 ## Syntax

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IncludeCategoryHeader`
+_expression_. `IncludeCategoryHeader`
 
  _expression_ An expression that returns a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 

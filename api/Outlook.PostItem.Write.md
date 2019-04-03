@@ -1,5 +1,5 @@
 ---
-title: PostItem.Write Event (Outlook)
+title: PostItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Write Event (Outlook)
+# PostItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.PostItem.Save.md)** or **[SaveAs](Outlook.PostItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 _expression_. `Write`( `_Cancel_` )
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Parameters

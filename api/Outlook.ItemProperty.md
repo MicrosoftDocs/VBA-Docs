@@ -1,5 +1,5 @@
 ---
-title: ItemProperty Object (Outlook)
+title: ItemProperty object (Outlook)
 keywords: vbaol11.chm517
 f1_keywords:
 - vbaol11.chm517
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ItemProperty Object (Outlook)
+# ItemProperty object (Outlook)
 
 Represents information about a given item property for a Microsoft Outlook item object.
 
@@ -64,19 +64,19 @@ End Sub
 
 |Name|
 |:-----|
-|[Application](./Outlook.ItemProperty.Application.md)|
-|[Class](./Outlook.ItemProperty.Class.md)|
-|[IsUserProperty](./Outlook.ItemProperty.IsUserProperty.md)|
-|[Name](./Outlook.ItemProperty.Name.md)|
-|[Parent](./Outlook.ItemProperty.Parent.md)|
-|[Session](./Outlook.ItemProperty.Session.md)|
-|[Type](./Outlook.ItemProperty.Type.md)|
-|[Value](./Outlook.ItemProperty.Value.md)|
+|[Application](Outlook.ItemProperty.Application.md)|
+|[Class](Outlook.ItemProperty.Class.md)|
+|[IsUserProperty](Outlook.ItemProperty.IsUserProperty.md)|
+|[Name](Outlook.ItemProperty.Name.md)|
+|[Parent](Outlook.ItemProperty.Parent.md)|
+|[Session](Outlook.ItemProperty.Session.md)|
+|[Type](Outlook.ItemProperty.Type.md)|
+|[Value](Outlook.ItemProperty.Value.md)|
 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[ItemProperty Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[ItemProperty Object Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

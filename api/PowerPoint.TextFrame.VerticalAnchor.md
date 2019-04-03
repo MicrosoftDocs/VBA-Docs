@@ -1,5 +1,5 @@
 ---
-title: TextFrame.VerticalAnchor Property (PowerPoint)
+title: TextFrame.VerticalAnchor property (PowerPoint)
 keywords: vbapp10.chm558011
 f1_keywords:
 - vbapp10.chm558011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.VerticalAnchor Property (PowerPoint)
+# TextFrame.VerticalAnchor property (PowerPoint)
 
 Returns or sets the vertical alignment of text in a text frame. Read/write.
 
@@ -46,7 +46,7 @@ The value of the  **VerticalAnchor** property can be one of these **MsoVerticalA
 
 ## Example
 
-This example sets the alignment of the text in shape one on  `myDocument` to top centered.
+This example sets the alignment of the text in shape one on  _myDocument_ to top centered.
 
 
 ```vb

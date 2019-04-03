@@ -1,5 +1,5 @@
 ---
-title: OlSharingProvider Enumeration (Outlook)
+title: OlSharingProvider enumeration (Outlook)
 keywords: vbaol11.chm3146
 f1_keywords:
 - vbaol11.chm3146
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlSharingProvider Enumeration (Outlook)
+# OlSharingProvider enumeration (Outlook)
 
 Indicates the sharing provider associated with a  **[SharingItem](Outlook.SharingItem.md)** object.
 

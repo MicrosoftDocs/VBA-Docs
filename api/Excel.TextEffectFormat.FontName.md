@@ -21,12 +21,12 @@ Returns or sets the name of the font in the specified WordArt. Read/write  **Str
 
 _expression_. `FontName`
 
-_expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Example
 
-This example sets the font name to "Courier New" for shape three on  `myDocument` if the shape is WordArt.
+This example sets the font name to "Courier New" for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb

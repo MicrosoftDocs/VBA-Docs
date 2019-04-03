@@ -1,5 +1,5 @@
 ---
-title: JournalItem.NoAging Property (Outlook)
+title: JournalItem.NoAging property (Outlook)
 keywords: vbaol11.chm1248
 f1_keywords:
 - vbaol11.chm1248
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.NoAging Property (Outlook)
+# JournalItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 
 _expression_. `NoAging`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

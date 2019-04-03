@@ -1,5 +1,5 @@
 ---
-title: Field.TextRange Property (Publisher)
+title: Field.TextRange property (Publisher)
 keywords: vbapb10.chm6094852
 f1_keywords:
 - vbapb10.chm6094852
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Field.TextRange Property (Publisher)
+# Field.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
 
 
 ## Syntax
 
- _expression_. **TextRange**
+ _expression_.**TextRange**
 
  _expression_ A variable that represents a  **Field** object.
 

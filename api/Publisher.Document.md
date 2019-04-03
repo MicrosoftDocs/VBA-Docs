@@ -1,5 +1,5 @@
 ---
-title: Document Object (Publisher)
+title: Document object (Publisher)
 keywords: vbapb10.chm553713663
 f1_keywords:
 - vbapb10.chm553713663
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document Object (Publisher)
+# Document object (Publisher)
 
 Represents a publication. 
 

@@ -1,5 +1,5 @@
 ---
-title: Reports.Copy Method (Project)
+title: Reports.Copy method (Project)
 ms.prod: project-server
 ms.assetid: fd930e98-4200-05e0-67e3-f4d34ae26928
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Reports.Copy Method (Project)
+# Reports.Copy method (Project)
 Copies a custom report and creates a new report with the same content.
 
 ## Syntax
 
- _expression_. `Copy` _(Source,_ _NewName)_
+_expression_. `Copy` _(Source,_ _NewName)_
 
  _expression_ A variable that represents a 'Reports' object.
 

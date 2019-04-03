@@ -1,5 +1,5 @@
 ---
-title: Masters.ItemU Property (Visio)
+title: Masters.ItemU property (Visio)
 keywords: vis_sdr.chm10851980
 f1_keywords:
 - vis_sdr.chm10851980
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Masters.ItemU Property (Visio)
+# Masters.ItemU property (Visio)
 
 Returns an object from a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemU`( `_NameUIDOrIndex_` )
+_expression_. `ItemU`( `_NameUIDOrIndex_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

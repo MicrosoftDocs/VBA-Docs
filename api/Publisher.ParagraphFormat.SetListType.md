@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SetListType Method (Publisher)
+title: ParagraphFormat.SetListType method (Publisher)
 keywords: vbapb10.chm5439520
 f1_keywords:
 - vbapb10.chm5439520
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.SetListType Method (Publisher)
+# ParagraphFormat.SetListType method (Publisher)
 
 Sets the list type of the specified  **ParagraphFormat** object. .
 
 
 ## Syntax
 
- _expression_. **SetListType**(**_Value_**,  **_BulletText_**)
+ _expression_.**SetListType**(**_Value_**,  **_BulletText_**)
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

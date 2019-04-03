@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.MultiSelect Property (Outlook)
+title: OlkListBox.MultiSelect property (Outlook)
 keywords: vbaol11.chm1000261
 f1_keywords:
 - vbaol11.chm1000261
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.MultiSelect Property (Outlook)
+# OlkListBox.MultiSelect property (Outlook)
 
 Returns or sets an  **[OlMultiSelect](Outlook.OlMultiSelect.md)** constant that specifies the range of items that can be selected in the list box control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlMultiSelect](Outlook.OlMultiSelect.md)** constant that 
 
 _expression_. `MultiSelect`
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## See also

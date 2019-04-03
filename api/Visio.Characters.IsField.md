@@ -1,5 +1,5 @@
 ---
-title: Characters.IsField Property (Visio)
+title: Characters.IsField property (Visio)
 keywords: vis_sdr.chm10213735
 f1_keywords:
 - vis_sdr.chm10213735
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.IsField Property (Visio)
+# Characters.IsField property (Visio)
 
 Determines whether a  **Characters** object represents the expanded text of a single field with no additional non-field characters. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsField`
+_expression_. `IsField`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

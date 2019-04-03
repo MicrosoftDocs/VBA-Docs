@@ -1,5 +1,5 @@
 ---
-title: Options.AllowBackgroundSave Property (Publisher)
+title: Options.AllowBackgroundSave property (Publisher)
 keywords: vbapb10.chm1048577
 f1_keywords:
 - vbapb10.chm1048577
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.AllowBackgroundSave Property (Publisher)
+# Options.AllowBackgroundSave property (Publisher)
 
  **True** (default) for Microsoft Publisher to save publications in the background, allowing users to perform other actions at the same time. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **AllowBackgroundSave**
+ _expression_.**AllowBackgroundSave**
 
  _expression_ A variable that represents an  **Options** object.
 

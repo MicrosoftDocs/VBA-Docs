@@ -1,5 +1,5 @@
 ---
-title: ConversationHeader.GetConversation Method (Outlook)
+title: ConversationHeader.GetConversation method (Outlook)
 keywords: vbaol11.chm3541
 f1_keywords:
 - vbaol11.chm3541
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConversationHeader.GetConversation Method (Outlook)
+# ConversationHeader.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this conversation header belongs.
 

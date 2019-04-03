@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Flip Method (Publisher)
+title: ShapeRange.Flip method (Publisher)
 keywords: vbapb10.chm2293781
 f1_keywords:
 - vbapb10.chm2293781
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Flip Method (Publisher)
+# ShapeRange.Flip method (Publisher)
 
 Flips the specified shape around its horizontal or vertical axis, or flips all the shapes in the specified shape range around their horizontal or vertical axes.
 
 
 ## Syntax
 
- _expression_. **Flip**(**_FlipCmd_**)
+ _expression_.**Flip**(**_FlipCmd_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

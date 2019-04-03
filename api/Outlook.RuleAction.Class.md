@@ -1,5 +1,5 @@
 ---
-title: RuleAction.Class Property (Outlook)
+title: RuleAction.Class property (Outlook)
 keywords: vbaol11.chm2202
 f1_keywords:
 - vbaol11.chm2202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleAction.Class Property (Outlook)
+# RuleAction.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [RuleAction](./Outlook.RuleAction.md) object.
+_expression_ A variable that represents a [RuleAction](Outlook.RuleAction.md) object.
 
 
 ## See also

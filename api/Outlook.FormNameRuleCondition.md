@@ -1,5 +1,5 @@
 ---
-title: FormNameRuleCondition Object (Outlook)
+title: FormNameRuleCondition object (Outlook)
 keywords: vbaol11.chm3180
 f1_keywords:
 - vbaol11.chm3180
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormNameRuleCondition Object (Outlook)
+# FormNameRuleCondition object (Outlook)
 
 Represents a rule condition that evaluates whether a form name was used to send or receive an item.
 
@@ -41,6 +41,6 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

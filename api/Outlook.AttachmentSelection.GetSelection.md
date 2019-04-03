@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection.GetSelection Method (Outlook)
+title: AttachmentSelection.GetSelection method (Outlook)
 keywords: vbaol11.chm3534
 f1_keywords:
 - vbaol11.chm3534
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AttachmentSelection.GetSelection Method (Outlook)
+# AttachmentSelection.GetSelection method (Outlook)
 
 Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind of objects specified by the _SelectionContents_ parameter, and that are currently selected in the active explorer where the parent item of the **[AttachmentSelection](Outlook.AttachmentSelection.md)** object is.
 
@@ -21,7 +21,7 @@ Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind o
 
 _expression_. `GetSelection`( `_SelectionContents_` )
 
-_expression_ A variable that represents an [AttachmentSelection](./Outlook.AttachmentSelection.md) object.
+_expression_ A variable that represents an [AttachmentSelection](Outlook.AttachmentSelection.md) object.
 
 
 ## Parameters

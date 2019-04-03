@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnect Method (Publisher)
+title: ConnectorFormat.BeginConnect method (Publisher)
 keywords: vbapb10.chm3211280
 f1_keywords:
 - vbapb10.chm3211280
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnect Method (Publisher)
+# ConnectorFormat.BeginConnect method (Publisher)
 
 Attaches the beginning of the specified connector to a specified shape.
 
 
 ## Syntax
 
- _expression_. **BeginConnect**(**_ConnectedShape_**,  **_ConnectionSite_**)
+ _expression_.**BeginConnect**(**_ConnectedShape_**,  **_ConnectionSite_**)
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 

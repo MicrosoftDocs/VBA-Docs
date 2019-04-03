@@ -1,5 +1,5 @@
 ---
-title: Year.Index Property (Project)
+title: Year.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Year.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Year.Index Property (Project)
+# Year.Index property (Project)
 
 Gets the index of a  **Year** object in the **Years** containing object. Read-only **Integer**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Year](./Project.Year.md) object.
 

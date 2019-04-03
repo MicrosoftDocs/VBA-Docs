@@ -1,5 +1,5 @@
 ---
-title: PjPublishScope Enumeration (Project)
+title: PjPublishScope enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPublishScope
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjPublishScope Enumeration (Project)
+# PjPublishScope enumeration (Project)
 
 Contains constants that specify the scope of assignments to be published.
 

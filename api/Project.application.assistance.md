@@ -1,5 +1,5 @@
 ---
-title: Application.Assistance Property (Project)
+title: Application.Assistance property (Project)
 ms.prod: project-server
 ms.assetid: f53bf107-9fd1-78f9-f8db-0b8c2acc5f72
 ms.date: 06/08/2017
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Assistance Property (Project)
+# Application.Assistance property (Project)
 
  Gets an **Office.IAssistance** object that represents the Project Help system. Read-only **IAssistance**.
 
 
 ## Syntax
 
- _expression_. `Assistance`
+_expression_. `Assistance`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

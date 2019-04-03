@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerForegroundColor Property (PowerPoint)
+title: LegendKey.MarkerForegroundColor property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.MarkerForegroundColor
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# LegendKey.MarkerForegroundColor Property (PowerPoint)
+# LegendKey.MarkerForegroundColor property (PowerPoint)
 
 Sets the marker foreground color as an RGB value or returns the corresponding color index value. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerForegroundColor`
+_expression_. `MarkerForegroundColor`
 
  _expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)' object.
 

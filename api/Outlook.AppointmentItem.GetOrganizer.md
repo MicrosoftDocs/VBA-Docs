@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.GetOrganizer Method (Outlook)
+title: AppointmentItem.GetOrganizer method (Outlook)
 keywords: vbaol11.chm3556
 f1_keywords:
 - vbaol11.chm3556
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.GetOrganizer Method (Outlook)
+# AppointmentItem.GetOrganizer method (Outlook)
 
 Obtains the  **[AddressEntry](Outlook.AddressEntry.md)** object that contains information from the Address Book about the organizer of the **[AppointmentItem](Outlook.AppointmentItem.md)**.
 
@@ -21,7 +21,7 @@ Obtains the  **[AddressEntry](Outlook.AddressEntry.md)** object that contains in
 
 _expression_. `GetOrganizer`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Return value

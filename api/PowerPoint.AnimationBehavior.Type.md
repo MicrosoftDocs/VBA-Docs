@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.Type Property (PowerPoint)
+title: AnimationBehavior.Type property (PowerPoint)
 keywords: vbapp10.chm657005
 f1_keywords:
 - vbapp10.chm657005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.Type Property (PowerPoint)
+# AnimationBehavior.Type property (PowerPoint)
 
 Represents the type of animation. Read/write.
 

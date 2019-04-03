@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ScaleWidth Method (PowerPoint)
+title: ShapeRange.ScaleWidth method (PowerPoint)
 keywords: vbapp10.chm548011
 f1_keywords:
 - vbapp10.chm548011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ScaleWidth Method (PowerPoint)
+# ShapeRange.ScaleWidth method (PowerPoint)
 
 Scales the width of the shapes in the range by a specified factor. 
 
 
 ## Syntax
 
- _expression_. `ScaleWidth`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
+_expression_. `ScaleWidth`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

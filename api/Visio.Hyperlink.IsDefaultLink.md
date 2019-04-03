@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.IsDefaultLink Property (Visio)
+title: Hyperlink.IsDefaultLink property (Visio)
 keywords: vis_sdr.chm15013720
 f1_keywords:
 - vis_sdr.chm15013720
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.IsDefaultLink Property (Visio)
+# Hyperlink.IsDefaultLink property (Visio)
 
 Determines the default  **Hyperlink** object for a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `IsDefaultLink`
+_expression_. `IsDefaultLink`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

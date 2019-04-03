@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.GetExchangeUser Method (Outlook)
+title: ExchangeUser.GetExchangeUser method (Outlook)
 keywords: vbaol11.chm2079
 f1_keywords:
 - vbaol11.chm2079
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.GetExchangeUser Method (Outlook)
+# ExchangeUser.GetExchangeUser method (Outlook)
 
 Returns the  **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
@@ -21,7 +21,7 @@ Returns the  **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
 _expression_. `GetExchangeUser`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Return value

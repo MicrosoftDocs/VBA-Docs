@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Conflicts Property (Outlook)
+title: ReportItem.Conflicts property (Outlook)
 keywords: vbaol11.chm1679
 f1_keywords:
 - vbaol11.chm1679
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Conflicts Property (Outlook)
+# ReportItem.Conflicts property (Outlook)
 
 Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
@@ -21,7 +21,7 @@ Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the ite
 
 _expression_. `Conflicts`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## See also

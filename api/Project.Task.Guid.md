@@ -1,5 +1,5 @@
 ---
-title: Task.Guid Property (Project)
+title: Task.Guid property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Guid
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Guid Property (Project)
+# Task.Guid property (Project)
 
 Gets the GUID of the task. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Guid`
+_expression_. `Guid`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.HasAlphaChannel Property (Publisher)
+title: PictureFormat.HasAlphaChannel property (Publisher)
 keywords: vbapb10.chm3604758
 f1_keywords:
 - vbapb10.chm3604758
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.HasAlphaChannel Property (Publisher)
+# PictureFormat.HasAlphaChannel property (Publisher)
 
 Returns an  **MsoTriState** constant indicating whether the specified picture contains an alpha channel. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasAlphaChannel**
+ _expression_.**HasAlphaChannel**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Slides.Item Method (PowerPoint)
+title: Slides.Item method (PowerPoint)
 keywords: vbapp10.chm530003
 f1_keywords:
 - vbapp10.chm530003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slides.Item Method (PowerPoint)
+# Slides.Item method (PowerPoint)
 
 Returns a single  **Slide** object from the specified **Slides** collection.
 

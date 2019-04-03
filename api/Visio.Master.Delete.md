@@ -1,5 +1,5 @@
 ---
-title: Master.Delete Method (Visio)
+title: Master.Delete method (Visio)
 keywords: vis_sdr.chm10716165
 f1_keywords:
 - vis_sdr.chm10716165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Delete Method (Visio)
+# Master.Delete method (Visio)
 
 Deletes an object.
 

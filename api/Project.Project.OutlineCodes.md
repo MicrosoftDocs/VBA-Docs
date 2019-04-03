@@ -1,5 +1,5 @@
 ---
-title: Project.OutlineCodes Property (Project)
+title: Project.OutlineCodes property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.OutlineCodes
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.OutlineCodes Property (Project)
+# Project.OutlineCodes property (Project)
 
 Gets an **[OutlineCodes](Project.outlinecodes(object).md)** collection of all outline codes defined for resources and tasks in the project. Read-only **OutlineCodes**.
 
 
 ## Syntax
 
- _expression_. `OutlineCodes`
+_expression_. `OutlineCodes`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

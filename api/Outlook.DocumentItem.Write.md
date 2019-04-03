@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Write Event (Outlook)
+title: DocumentItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Write
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Write Event (Outlook)
+# DocumentItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.DocumentItem.Save.md)** or **[SaveAs](Outlook.DocumentItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 _expression_. `Write`( `_Cancel_` )
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Parameters

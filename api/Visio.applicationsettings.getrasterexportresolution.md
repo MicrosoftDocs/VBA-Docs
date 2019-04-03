@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.GetRasterExportResolution Method (Visio)
+title: ApplicationSettings.GetRasterExportResolution method (Visio)
 keywords: vis_sdr.chm16262270
 f1_keywords:
 - vis_sdr.chm16262270
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.GetRasterExportResolution Method (Visio)
+# ApplicationSettings.GetRasterExportResolution method (Visio)
 
 Returns the raster export resolution settings.
 
 
 ## Syntax
 
- _expression_. `GetRasterExportResolution`( `_pResolution_` , `_pWidth_` , `_pHeight_` , `_pResolutionUnits_` )
+_expression_. `GetRasterExportResolution`( `_pResolution_` , `_pWidth_` , `_pHeight_` , `_pResolutionUnits_` )
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Calendar.Period Method (Project)
+title: Calendar.Period method (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendar.Period
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Calendar.Period Method (Project)
+# Calendar.Period method (Project)
 
 Gets a  **[Period](Project.Period.md)** object representing a period of time in a calendar. Read-only **Period**.
 
 
 ## Syntax
 
- _expression_. `Period`( `_Start_`, `_Finish_` )
+_expression_. `Period`( `_Start_`, `_Finish_` )
 
  _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 

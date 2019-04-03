@@ -1,5 +1,5 @@
 ---
-title: Application.CreateItem Method (Outlook)
+title: Application.CreateItem method (Outlook)
 keywords: vbaol11.chm714
 f1_keywords:
 - vbaol11.chm714
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.CreateItem Method (Outlook)
+# Application.CreateItem method (Outlook)
 
 Creates and returns a new Microsoft Outlook item.
 
@@ -21,7 +21,7 @@ Creates and returns a new Microsoft Outlook item.
 
 _expression_. `CreateItem`( `_ItemType_` )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters

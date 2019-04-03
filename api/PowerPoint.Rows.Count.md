@@ -1,5 +1,5 @@
 ---
-title: Rows.Count Property (PowerPoint)
+title: Rows.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Rows.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Rows.Count Property (PowerPoint)
+# Rows.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

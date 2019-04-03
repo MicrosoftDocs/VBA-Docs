@@ -1,5 +1,5 @@
 ---
-title: RotationEffect.By Property (PowerPoint)
+title: RotationEffect.By property (PowerPoint)
 keywords: vbapp10.chm661003
 f1_keywords:
 - vbapp10.chm661003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# RotationEffect.By Property (PowerPoint)
+# RotationEffect.By property (PowerPoint)
 
 Sets or returns a  **Single** that represents the rotation of an object by the specified number of degrees; for example, a value of 180 means to rotate the object by 180 degrees. Read/write.
 
 
 ## Syntax
 
- _expression_. `By`
+_expression_. `By`
 
  _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 

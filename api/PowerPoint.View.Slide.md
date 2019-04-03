@@ -1,5 +1,5 @@
 ---
-title: View.Slide Property (PowerPoint)
+title: View.Slide property (PowerPoint)
 keywords: vbapp10.chm512006
 f1_keywords:
 - vbapp10.chm512006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# View.Slide Property (PowerPoint)
+# View.Slide property (PowerPoint)
 
 Returns or sets a  **[Slide](PowerPoint.Slide.md)** object that represents the slide that's currently displayed in the specified document window view. Read/write.
 
 
 ## Syntax
 
- _expression_. `Slide`
+_expression_. `Slide`
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkControl.ItemProperty Property (Outlook)
+title: OlkControl.ItemProperty property (Outlook)
 keywords: vbaol11.chm1000502
 f1_keywords:
 - vbaol11.chm1000502
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkControl.ItemProperty Property (Outlook)
+# OlkControl.ItemProperty property (Outlook)
 
 Returns or sets a  **String** that specifies the name of the property in the Outlook object model that the control is bound to. Read/write.
 

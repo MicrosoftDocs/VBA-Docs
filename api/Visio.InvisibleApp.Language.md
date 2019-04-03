@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Language Property (Visio)
+title: InvisibleApp.Language property (Visio)
 keywords: vis_sdr.chm17513800
 f1_keywords:
 - vis_sdr.chm17513800
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Language Property (Visio)
+# InvisibleApp.Language property (Visio)
 
 Represents the language ID of the version of the Microsoft Visio instance represented by the parent object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Language`( `_lpi4Ret_` )
+_expression_. `Language`( `_lpi4Ret_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

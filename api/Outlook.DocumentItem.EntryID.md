@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.EntryID Property (Outlook)
+title: DocumentItem.EntryID property (Outlook)
 keywords: vbaol11.chm1192
 f1_keywords:
 - vbaol11.chm1192
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.EntryID Property (Outlook)
+# DocumentItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

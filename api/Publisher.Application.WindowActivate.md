@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivate Event (Publisher)
+title: Application.WindowActivate event (Publisher)
 keywords: vbapb10.chm268435457
 f1_keywords:
 - vbapb10.chm268435457
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowActivate Event (Publisher)
+# Application.WindowActivate event (Publisher)
 
 Occurs when the application window is activated.
 
 
 ## Syntax
 
- _expression_. **WindowActivate**(**_Wn_**, )
+ _expression_.**WindowActivate**(**_Wn_**, )
 
  _expression_ A variable that represents an  **Application** object.
 

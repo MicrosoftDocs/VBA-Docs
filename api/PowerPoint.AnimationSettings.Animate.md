@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.Animate Property (PowerPoint)
+title: AnimationSettings.Animate property (PowerPoint)
 keywords: vbapp10.chm565013
 f1_keywords:
 - vbapp10.chm565013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.Animate Property (PowerPoint)
+# AnimationSettings.Animate property (PowerPoint)
 
 Determines whether the specified shape is animated during a slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `Animate`
+_expression_. `Animate`
 
 _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

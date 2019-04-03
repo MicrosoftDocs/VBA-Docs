@@ -1,5 +1,5 @@
 ---
-title: MenuSet.Top Property (Visio)
+title: MenuSet.Top property (Visio)
 keywords: vis_sdr.chm13314570
 f1_keywords:
 - vis_sdr.chm13314570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuSet.Top Property (Visio)
+# MenuSet.Top property (Visio)
 
 Gets the distance between the top of an object and the top of the docking area or the top of the screen if the object isn't docked; it sets the distance between the top of a  **Menu** object and the top of the screen. Read/write.
 

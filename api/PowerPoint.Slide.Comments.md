@@ -1,5 +1,5 @@
 ---
-title: Slide.Comments Property (PowerPoint)
+title: Slide.Comments property (PowerPoint)
 keywords: vbapp10.chm531028
 f1_keywords:
 - vbapp10.chm531028
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.Comments Property (PowerPoint)
+# Slide.Comments property (PowerPoint)
 
 Returns a  **[Comments](PowerPoint.Comments.md)** object that represents a collection of comments. Read-only.
 
 
 ## Syntax
 
- _expression_. `Comments`
+_expression_. `Comments`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

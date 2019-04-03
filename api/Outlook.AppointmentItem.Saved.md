@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Saved Property (Outlook)
+title: AppointmentItem.Saved property (Outlook)
 keywords: vbaol11.chm862
 f1_keywords:
 - vbaol11.chm862
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Saved Property (Outlook)
+# AppointmentItem.Saved property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 
 _expression_. `Saved`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

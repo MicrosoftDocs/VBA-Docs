@@ -1,5 +1,5 @@
 ---
-title: Window.WindowState Property (Publisher)
+title: Window.WindowState property (Publisher)
 keywords: vbapb10.chm262160
 f1_keywords:
 - vbapb10.chm262160
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.WindowState Property (Publisher)
+# Window.WindowState property (Publisher)
 
 Returns or sets a  **PbWindowState** constant indicating the state of the Microsoft Publisher window. Read/write.
 
 
 ## Syntax
 
- _expression_. **WindowState**
+ _expression_.**WindowState**
 
  _expression_ A variable that represents a  **Window** object.
 

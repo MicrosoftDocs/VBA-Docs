@@ -1,5 +1,5 @@
 ---
-title: Engagement.ModifiedByName Property (Project)
+title: Engagement.ModifiedByName property (Project)
 keywords: vbapj.chm132412
 f1_keywords:
 - vbapj.chm132412
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Engagement.ModifiedByName Property (Project)
+# Engagement.ModifiedByName property (Project)
 
 The ModifiedByName property for the Engagement object. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `ModifiedByName`
+_expression_. `ModifiedByName`
 
  _expression_ A variable that represents a 'Engagement' object.
 
@@ -25,6 +25,6 @@ The ModifiedByName property for the Engagement object. Introduced in Office 2016
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

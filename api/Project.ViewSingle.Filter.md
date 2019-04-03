@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Filter Property (Project)
+title: ViewSingle.Filter property (Project)
 keywords: vbapj.chm132801
 f1_keywords:
 - vbapj.chm132801
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Filter Property (Project)
+# ViewSingle.Filter property (Project)
 
 Gets or sets a  **[Filter](Project.Filter.md)** object representing the filter used in a single view. Read/write **Filter**.
 
 
 ## Syntax
 
- _expression_. `Filter`
+_expression_. `Filter`
 
  _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 

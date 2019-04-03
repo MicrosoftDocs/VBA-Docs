@@ -1,5 +1,5 @@
 ---
-title: Selection.ShapeRange Property (Publisher)
+title: Selection.ShapeRange property (Publisher)
 keywords: vbapb10.chm851972
 f1_keywords:
 - vbapb10.chm851972
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.ShapeRange Property (Publisher)
+# Selection.ShapeRange property (Publisher)
 
 Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents all the **Shape** objects in the specified range or selection. The shape range can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
 
 
 ## Syntax
 
- _expression_. **ShapeRange**
+ _expression_.**ShapeRange**
 
  _expression_ A variable that represents a  **Selection** object.
 

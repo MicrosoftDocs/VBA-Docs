@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Subject Property (Outlook)
+title: DistListItem.Subject property (Outlook)
 keywords: vbaol11.chm1137
 f1_keywords:
 - vbaol11.chm1137
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Subject Property (Outlook)
+# DistListItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
 _expression_. `Subject`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

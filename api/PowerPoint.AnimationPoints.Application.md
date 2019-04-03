@@ -1,5 +1,5 @@
 ---
-title: AnimationPoints.Application Property (PowerPoint)
+title: AnimationPoints.Application property (PowerPoint)
 keywords: vbapp10.chm663001
 f1_keywords:
 - vbapp10.chm663001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoints.Application Property (PowerPoint)
+# AnimationPoints.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

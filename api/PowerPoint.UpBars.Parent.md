@@ -1,5 +1,5 @@
 ---
-title: UpBars.Parent Property (PowerPoint)
+title: UpBars.Parent property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# UpBars.Parent Property (PowerPoint)
+# UpBars.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

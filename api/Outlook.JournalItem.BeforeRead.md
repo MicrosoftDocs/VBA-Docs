@@ -1,5 +1,5 @@
 ---
-title: JournalItem.BeforeRead Event (Outlook)
+title: JournalItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.BeforeRead Event (Outlook)
+# JournalItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 
@@ -18,7 +18,7 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
 _expression_. `BeforeRead`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

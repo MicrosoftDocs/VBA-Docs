@@ -1,5 +1,5 @@
 ---
-title: OlkInfoBar.MouseMove Event (Outlook)
+title: OlkInfoBar.MouseMove event (Outlook)
 keywords: vbaol11.chm1000302
 f1_keywords:
 - vbaol11.chm1000302
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkInfoBar.MouseMove Event (Outlook)
+# OlkInfoBar.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
@@ -21,7 +21,7 @@ Occurs after a mouse movement has been registered over the control.
 
 _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
-_expression_ A variable that represents an [OlkInfoBar](./Outlook.OlkInfoBar.md) object.
+_expression_ A variable that represents an [OlkInfoBar](Outlook.OlkInfoBar.md) object.
 
 
 ## Parameters

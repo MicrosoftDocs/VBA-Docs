@@ -1,5 +1,5 @@
 ---
-title: Project.BeforePrint Event (Project)
+title: Project.BeforePrint event (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.BeforePrint
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.BeforePrint Event (Project)
+# Project.BeforePrint event (Project)
 
 Occurs before a project is printed.
 
 
 ## Syntax
 
- _expression_. `BeforePrint`( `_pj_` )
+_expression_. `BeforePrint`( `_pj_` )
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

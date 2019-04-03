@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.SetProperties Method (Outlook)
+title: PropertyAccessor.SetProperties method (Outlook)
 keywords: vbaol11.chm1973
 f1_keywords:
 - vbaol11.chm1973
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyAccessor.SetProperties Method (Outlook)
+# PropertyAccessor.SetProperties method (Outlook)
 
 Sets the properties specified by the array  _SchemaNames_ to the values specified by the array _Values_ .
 
@@ -21,7 +21,7 @@ Sets the properties specified by the array  _SchemaNames_ to the values specifie
 
 _expression_. `SetProperties`( `_SchemaNames_` , `_Values_` )
 
-_expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTable Method (Project)
+title: Application.SelectTable method (Project)
 keywords: vbapj.chm1516
 f1_keywords:
 - vbapj.chm1516
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTable Method (Project)
+# Application.SelectTable method (Project)
 Selects the entire table, when one or more items within a table shape are selected in a report.
 
 ## Syntax
 
- _expression_. `SelectTable`
+_expression_. `SelectTable`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

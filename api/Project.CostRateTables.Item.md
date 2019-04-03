@@ -1,5 +1,5 @@
 ---
-title: CostRateTables.Item Property (Project)
+title: CostRateTables.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTables.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CostRateTables.Item Property (Project)
+# CostRateTables.Item property (Project)
 
 Gets a single  **CostRateTable** object from the **CostRateTables** collection. Read-only **CostRateTable**.
 

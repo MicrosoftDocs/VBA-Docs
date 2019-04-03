@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Nodes Property (Publisher)
+title: ShapeRange.Nodes property (Publisher)
 keywords: vbapb10.chm2293829
 f1_keywords:
 - vbapb10.chm2293829
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Nodes Property (Publisher)
+# ShapeRange.Nodes property (Publisher)
 
 Returns a  **[ShapeNodes](Publisher.ShapeNodes.md)** collection that represents the geometric description of the specified shape. Applies to  **Shape** or **ShapeRange** objects that represent freeform drawings.
 
 
 ## Syntax
 
- _expression_. **Nodes**
+ _expression_.**Nodes**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

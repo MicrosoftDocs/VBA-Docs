@@ -1,5 +1,5 @@
 ---
-title: Assignment.RemainingOvertimeWork Property (Project)
+title: Assignment.RemainingOvertimeWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.RemainingOvertimeWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.RemainingOvertimeWork Property (Project)
+# Assignment.RemainingOvertimeWork property (Project)
 
 Gets the remaining overtime work (in minutes) for the assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `RemainingOvertimeWork`
+_expression_. `RemainingOvertimeWork`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

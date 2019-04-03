@@ -1,5 +1,5 @@
 ---
-title: TextStyle.Font Property (Publisher)
+title: TextStyle.Font property (Publisher)
 keywords: vbapb10.chm5963780
 f1_keywords:
 - vbapb10.chm5963780
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextStyle.Font Property (Publisher)
+# TextStyle.Font property (Publisher)
 
 Sets or returns a  **[Font](Publisher.Font.md)** object that represents character formatting attributes applied to the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Font**
+ _expression_.**Font**
 
  _expression_ A variable that represents a  **TextStyle** object.
 

@@ -1,5 +1,5 @@
 ---
-title: MoveOrCopyRuleAction.Folder Property (Outlook)
+title: MoveOrCopyRuleAction.Folder property (Outlook)
 keywords: vbaol11.chm2214
 f1_keywords:
 - vbaol11.chm2214
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MoveOrCopyRuleAction.Folder Property (Outlook)
+# MoveOrCopyRuleAction.Folder property (Outlook)
 
 Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the folder to which the rule moves or copies the message. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the fo
 
 _expression_. `Folder`
 
-_expression_ A variable that represents a [MoveOrCopyRuleAction](./Outlook.MoveOrCopyRuleAction.md) object.
+_expression_ A variable that represents a [MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md) object.
 
 
 ## Remarks

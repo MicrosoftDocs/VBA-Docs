@@ -1,5 +1,5 @@
 ---
-title: Application.Path Property (Visio)
+title: Application.Path property (Visio)
 keywords: vis_sdr.chm10014050
 f1_keywords:
 - vis_sdr.chm10014050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Path Property (Visio)
+# Application.Path property (Visio)
 
 Returns the drive and folder path of the Microsoft Visio application. Read-only.
 
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

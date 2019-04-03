@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Importance Property (Outlook)
+title: ContactItem.Importance property (Outlook)
 keywords: vbaol11.chm942
 f1_keywords:
 - vbaol11.chm942
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Importance Property (Outlook)
+# ContactItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicat
 
 _expression_. `Importance`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

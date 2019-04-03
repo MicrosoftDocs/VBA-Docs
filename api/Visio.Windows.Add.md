@@ -1,5 +1,5 @@
 ---
-title: Windows.Add Method (Visio)
+title: Windows.Add method (Visio)
 keywords: vis_sdr.chm11716685
 f1_keywords:
 - vis_sdr.chm11716685
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Windows.Add Method (Visio)
+# Windows.Add method (Visio)
 
 Adds a new  **Window** object to the **Windows** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_bstrCaption_` , `_nFlags_` , `_nType_` , `_nLeft_` , `_nTop_` , `_nWidth_` , `_nHeight_` , `_bstrMergeID_` , `_bstrMergeClass_` , `_nMergePosition_` )
+ _expression_.**Add**( `_bstrCaption_` , `_nFlags_` , `_nType_` , `_nLeft_` , `_nTop_` , `_nWidth_` , `_nHeight_` , `_bstrMergeID_` , `_bstrMergeClass_` , `_nMergePosition_` )
 
  _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 

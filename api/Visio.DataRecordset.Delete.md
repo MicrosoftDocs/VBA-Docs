@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.Delete Method (Visio)
+title: DataRecordset.Delete method (Visio)
 keywords: vis_sdr.chm16416165
 f1_keywords:
 - vis_sdr.chm16416165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.Delete Method (Visio)
+# DataRecordset.Delete method (Visio)
 
 Deletes the  **[DataRecordset](Visio.DataRecordset.md)** object from the **[DataRecordsets](Visio.DataRecordsets.md)** collection of the document. .
 

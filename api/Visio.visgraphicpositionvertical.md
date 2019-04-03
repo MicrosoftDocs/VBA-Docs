@@ -1,5 +1,5 @@
 ---
-title: VisGraphicPositionVertical Enumeration (Visio)
+title: VisGraphicPositionVertical enumeration (Visio)
 keywords: vis_sdr.chm70515
 f1_keywords:
 - vis_sdr.chm70515
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisGraphicPositionVertical Enumeration (Visio)
+# VisGraphicPositionVertical enumeration (Visio)
 
 Constants passed to and returned by the  **GraphicItem.VerticalPosition** property. Used to determine the vertical position of a graphic item relative to its container or to a shape.
 

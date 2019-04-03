@@ -1,5 +1,5 @@
 ---
-title: Project.Path Property (Project)
+title: Project.Path property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Path
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Path Property (Project)
+# Project.Path property (Project)
 
 Gets the path of the open project. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

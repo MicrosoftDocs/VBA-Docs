@@ -1,5 +1,5 @@
 ---
-title: CustomerData.Item Method (PowerPoint)
+title: CustomerData.Item method (PowerPoint)
 keywords: vbapp10.chm675003
 f1_keywords:
 - vbapp10.chm675003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CustomerData.Item Method (PowerPoint)
+# CustomerData.Item method (PowerPoint)
 
 Returns the specified  **[CustomXMLPart](Office.CustomXMLPart.md)** object from the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Id_` )
+_expression_. `Item`( `_Id_` )
 
  _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
 

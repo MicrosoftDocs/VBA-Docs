@@ -1,5 +1,5 @@
 ---
-title: VisContainerAutoResize Enumeration (Visio)
+title: VisContainerAutoResize enumeration (Visio)
 keywords: vis_sdr.chm70695
 f1_keywords:
 - vis_sdr.chm70695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisContainerAutoResize Enumeration (Visio)
+# VisContainerAutoResize enumeration (Visio)
 
 Specifies constants that define the different ways that the container boundary can resize automatically to fit its contents; passed to and returned by the  **[ContainerProperties.ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property.
 

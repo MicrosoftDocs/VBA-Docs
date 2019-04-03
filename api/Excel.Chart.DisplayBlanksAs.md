@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.DisplayBlanksAs property (Excel)
 
-Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[xlDisplayBlanksAs](Excel.XlDisplayBlanksAs.md)** constants. Read/write **Long**.
+Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[XlDisplayBlanksAs](Excel.XlDisplayBlanksAs.md)** constants. Read/write **Long**.
 
 
 ## Syntax

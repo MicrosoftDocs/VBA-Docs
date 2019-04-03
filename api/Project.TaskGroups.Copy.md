@@ -1,5 +1,5 @@
 ---
-title: TaskGroups.Copy Method (Project)
+title: TaskGroups.Copy method (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskGroups.Copy
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# TaskGroups.Copy Method (Project)
+# TaskGroups.Copy method (Project)
 
 Makes a copy of a group definition for the  **TaskGroups** collection and returns a reference to the **[Group](Project.Group.md)** object.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Name_`, `_NewName_` )
+_expression_. `Copy`( `_Name_`, `_NewName_` )
 
  _expression_ A variable that represents a 'TaskGroups' object.
 

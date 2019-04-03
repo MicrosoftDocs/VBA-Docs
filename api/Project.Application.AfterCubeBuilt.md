@@ -1,5 +1,5 @@
 ---
-title: Application.AfterCubeBuilt Event (Project)
+title: Application.AfterCubeBuilt event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.AfterCubeBuilt
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterCubeBuilt Event (Project)
+# Application.AfterCubeBuilt event (Project)
 
 Occurs when the OLAP cube-building process completes.
 
 
 ## Syntax
 
- _expression_. `AfterCubeBuilt`( `_CubeFileName_` )
+_expression_. `AfterCubeBuilt`( `_CubeFileName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

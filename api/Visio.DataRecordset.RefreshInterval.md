@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.RefreshInterval Property (Visio)
+title: DataRecordset.RefreshInterval property (Visio)
 keywords: vis_sdr.chm16460340
 f1_keywords:
 - vis_sdr.chm16460340
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.RefreshInterval Property (Visio)
+# DataRecordset.RefreshInterval property (Visio)
 
 Gets or sets how often Microsoft Visio automatically refreshes the data recordset. Read/write.
 
@@ -22,7 +22,7 @@ Gets or sets how often Microsoft Visio automatically refreshes the data recordse
 
 ## Syntax
 
- _expression_. `RefreshInterval`
+_expression_. `RefreshInterval`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

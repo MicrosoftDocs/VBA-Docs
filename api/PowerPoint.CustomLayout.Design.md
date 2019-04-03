@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Design Property (PowerPoint)
+title: CustomLayout.Design property (PowerPoint)
 keywords: vbapp10.chm672011
 f1_keywords:
 - vbapp10.chm672011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Design Property (PowerPoint)
+# CustomLayout.Design property (PowerPoint)
 
 Returns a  **[Design](PowerPoint.Design.md)** object that represents the design template associated with the specified custom layout.
 
 
 ## Syntax
 
- _expression_. `Design`
+_expression_. `Design`
 
 _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

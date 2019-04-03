@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CustomMenus Property (Visio)
+title: InvisibleApp.CustomMenus property (Visio)
 keywords: vis_sdr.chm17513345
 f1_keywords:
 - vis_sdr.chm17513345
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CustomMenus Property (Visio)
+# InvisibleApp.CustomMenus property (Visio)
 
 Gets a  **UIObject** object that represents the current custom menus and accelerators of an **InvisibleApp** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomMenus`
+_expression_. `CustomMenus`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

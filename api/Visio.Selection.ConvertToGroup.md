@@ -1,5 +1,5 @@
 ---
-title: Selection.ConvertToGroup Method (Visio)
+title: Selection.ConvertToGroup method (Visio)
 keywords: vis_sdr.chm11116140
 f1_keywords:
 - vis_sdr.chm11116140
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.ConvertToGroup Method (Visio)
+# Selection.ConvertToGroup method (Visio)
 
 Converts a selection or an object from another application (a linked or embedded object) to a group.
 
 
 ## Syntax
 
- _expression_. `ConvertToGroup`
+_expression_. `ConvertToGroup`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

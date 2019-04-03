@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.SourcePath Property (PowerPoint)
+title: ProtectedViewWindow.SourcePath property (PowerPoint)
 keywords: vbapp10.chm734007
 f1_keywords:
 - vbapp10.chm734007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.SourcePath Property (PowerPoint)
+# ProtectedViewWindow.SourcePath property (PowerPoint)
 
 Returns the source path of the current  **ProtectedViewWindow** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SourcePath`
+_expression_. `SourcePath`
 
  _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 

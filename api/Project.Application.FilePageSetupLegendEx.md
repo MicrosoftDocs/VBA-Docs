@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupLegendEx Method (Project)
+title: Application.FilePageSetupLegendEx method (Project)
 keywords: vbapj.chm2161
 f1_keywords:
 - vbapj.chm2161
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupLegendEx Method (Project)
+# Application.FilePageSetupLegendEx method (Project)
 
 Creates a legend for printing views of task data, where color can be a hexadecimal value.
 
 
 ## Syntax
 
-_expression_. **FilePageSetupLegendEx** (**_Name_**, **_TextWidth_**, **_LegendOn_**, **_Alignment_**, **_Text_**, **_LabelFontName_**, **_LabelFontSize_**, **_LabelFontBold_**, **_LabelFontItalic_**, **_LabelFontUnderline_**, **_LabelFontColor_**)
+_expression_.**FilePageSetupLegendEx** (**_Name_**, **_TextWidth_**, **_LegendOn_**, **_Alignment_**, **_Text_**, **_LabelFontName_**, **_LabelFontSize_**, **_LabelFontBold_**, **_LabelFontItalic_**, **_LabelFontUnderline_**, **_LabelFontColor_**)
 
 _expression_ An expression that returns an **Application** object.
 

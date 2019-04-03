@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ReminderSoundFile Property (Outlook)
+title: DistListItem.ReminderSoundFile property (Outlook)
 keywords: vbaol11.chm1176
 f1_keywords:
 - vbaol11.chm1176
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ReminderSoundFile Property (Outlook)
+# DistListItem.ReminderSoundFile property (Outlook)
 
 Returns or sets a  **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 _expression_. `ReminderSoundFile`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

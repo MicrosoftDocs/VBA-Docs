@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.ShowInMenu Property (Project)
+title: ViewSingle.ShowInMenu property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.ShowInMenu
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.ShowInMenu Property (Project)
+# ViewSingle.ShowInMenu property (Project)
 
  **True** if Project shows the single view name in the **View** or the **Other Views** drop-down lists in the Ribbon. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowInMenu`
+_expression_. `ShowInMenu`
 
  _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 

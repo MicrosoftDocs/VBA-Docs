@@ -1,5 +1,5 @@
 ---
-title: Shape.GetFormulas Method (Visio)
+title: Shape.GetFormulas method (Visio)
 keywords: vis_sdr.chm11216310
 f1_keywords:
 - vis_sdr.chm11216310
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.GetFormulas Method (Visio)
+# Shape.GetFormulas method (Visio)
 
 Returns the formulas of many cells.
 
 
 ## Syntax
 
- _expression_. `GetFormulas`( `_SRCStream()_` , `_formulaArray()_` )
+_expression_. `GetFormulas`( `_SRCStream()_` , `_formulaArray()_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

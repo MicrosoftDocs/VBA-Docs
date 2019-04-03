@@ -1,5 +1,5 @@
 ---
-title: Columns Object (PowerPoint)
+title: Columns object (PowerPoint)
 keywords: vbapp10.chm623000
 f1_keywords:
 - vbapp10.chm623000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns Object (PowerPoint)
+# Columns object (PowerPoint)
 
 A collection of  **[Column](PowerPoint.Column.md)** objects that represent the columns in a table.
 

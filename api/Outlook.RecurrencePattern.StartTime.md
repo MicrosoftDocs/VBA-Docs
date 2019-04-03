@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.StartTime Property (Outlook)
+title: RecurrencePattern.StartTime property (Outlook)
 keywords: vbaol11.chm287
 f1_keywords:
 - vbaol11.chm287
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.StartTime Property (Outlook)
+# RecurrencePattern.StartTime property (Outlook)
 
 Returns or sets a  **Date** indicating the start time for a recurrence pattern. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** indicating the start time for a recurrence pattern. 
 
 _expression_. `StartTime`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

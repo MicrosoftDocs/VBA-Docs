@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.ObjectType Property (Visio)
+title: MSGWrap.ObjectType property (Visio)
 keywords: vis_sdr.chm16113960
 f1_keywords:
 - vis_sdr.chm16113960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap.ObjectType Property (Visio)
+# MSGWrap.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 

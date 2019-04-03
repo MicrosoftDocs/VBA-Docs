@@ -1,5 +1,5 @@
 ---
-title: Resource.Notes Property (Project)
+title: Resource.Notes property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Notes
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Notes Property (Project)
+# Resource.Notes property (Project)
 
 Gets or sets the notes for a resource. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Notes`
+_expression_. `Notes`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

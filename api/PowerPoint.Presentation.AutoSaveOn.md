@@ -1,5 +1,5 @@
 ---
-title: Presentation.AutoSaveOn Property (PowerPoint)
+title: Presentation.AutoSaveOn property (PowerPoint)
 keywords: vbapp10.chm583129
 f1_keywords:
 - vbapp10.chm583129
@@ -11,7 +11,7 @@ localization_priority: Normal
 ---
 
 
-# Presentation.AutoSaveOn Property (PowerPoint)
+# Presentation.AutoSaveOn property (PowerPoint)
 
 **True** if the edits in the presentation are automatically saved. Read/write **Boolean**.
 

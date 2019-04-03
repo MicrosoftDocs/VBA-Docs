@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Unload Event (Outlook)
+title: DocumentItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Unload
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Unload Event (Outlook)
+# DocumentItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
@@ -18,7 +18,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
 _expression_. `Unload`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

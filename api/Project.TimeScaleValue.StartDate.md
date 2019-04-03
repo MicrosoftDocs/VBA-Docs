@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValue.StartDate Property (Project)
+title: TimeScaleValue.StartDate property (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.StartDate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValue.StartDate Property (Project)
+# TimeScaleValue.StartDate property (Project)
 
 The start date for a period of time that defines a timescale data unit. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `StartDate`
+_expression_. `StartDate`
 
  _expression_ A variable that represents a [TimeScaleValue](./Project.TimeScaleValue.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.IsEmbedded Property (PowerPoint)
+title: MediaFormat.IsEmbedded property (PowerPoint)
 keywords: vbapp10.chm724017
 f1_keywords:
 - vbapp10.chm724017
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.IsEmbedded Property (PowerPoint)
+# MediaFormat.IsEmbedded property (PowerPoint)
 
 Returns whether the media file is embedded. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsEmbedded`
+_expression_. `IsEmbedded`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

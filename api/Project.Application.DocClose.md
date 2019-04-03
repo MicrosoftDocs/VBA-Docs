@@ -1,5 +1,5 @@
 ---
-title: Application.DocClose Method (Project)
+title: Application.DocClose method (Project)
 keywords: vbapj.chm2007
 f1_keywords:
 - vbapj.chm2007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DocClose Method (Project)
+# Application.DocClose method (Project)
 
 Closes the active project.
 
 
 ## Syntax
 
- _expression_. `DocClose`
+_expression_. `DocClose`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

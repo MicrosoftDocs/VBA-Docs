@@ -1,5 +1,5 @@
 ---
-title: OverAllocatedAssignments.TotalDetectedCount Property (Project)
+title: OverAllocatedAssignments.TotalDetectedCount property (Project)
 ms.prod: project-server
 api_name:
 - Project.OverAllocatedAssignments.TotalDetectedCount
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# OverAllocatedAssignments.TotalDetectedCount Property (Project)
+# OverAllocatedAssignments.TotalDetectedCount property (Project)
 
 Gets the total number of overallocated assignments, including those that exceed maximum resource time available. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `TotalDetectedCount`
+_expression_. `TotalDetectedCount`
 
  _expression_ An expression that returns a 'OverAllocatedAssignments' object.
 

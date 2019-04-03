@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LegendKey.PictureType property (Excel)
 
-Returns or sets a  **[xlChartPictureType](Excel.XlChartPictureType.md)** value that represents the way pictures are displayed on a legend key.
+Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value that represents the way pictures are displayed on a legend key.
 
 
 ## Syntax

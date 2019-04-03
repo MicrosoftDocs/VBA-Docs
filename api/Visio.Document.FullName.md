@@ -1,5 +1,5 @@
 ---
-title: Document.FullName Property (Visio)
+title: Document.FullName property (Visio)
 keywords: vis_sdr.chm10513595
 f1_keywords:
 - vis_sdr.chm10513595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.FullName Property (Visio)
+# Document.FullName property (Visio)
 
 Returns the name of a document, including the drive and path. Read-only.
 

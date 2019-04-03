@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Align Method (Publisher)
+title: ShapeRange.Align method (Publisher)
 keywords: vbapb10.chm2294016
 f1_keywords:
 - vbapb10.chm2294016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Align Method (Publisher)
+# ShapeRange.Align method (Publisher)
 
 Aligns all the shapes in the specified  **ShapeRange** object.
 
 
 ## Syntax
 
- _expression_. **Align**(**_AlignCmd_**,  **_RelativeTo_**)
+ _expression_.**Align**(**_AlignCmd_**,  **_RelativeTo_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

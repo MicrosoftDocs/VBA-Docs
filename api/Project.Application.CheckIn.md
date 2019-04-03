@@ -1,5 +1,5 @@
 ---
-title: Application.CheckIn Method (Project)
+title: Application.CheckIn method (Project)
 keywords: vbapj.chm2323
 f1_keywords:
 - vbapj.chm2323
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CheckIn Method (Project)
+# Application.CheckIn method (Project)
 
 Checks in the active project file if it is stored in a SharePoint library.
 
 
 ## Syntax
 
- _expression_. `CheckIn`( `_fSaveChanges_`, `_Comments_`, `_fMakePublic_` )
+_expression_. `CheckIn`( `_fSaveChanges_`, `_Comments_`, `_fMakePublic_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

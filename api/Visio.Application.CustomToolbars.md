@@ -1,5 +1,5 @@
 ---
-title: Application.CustomToolbars Property (Visio)
+title: Application.CustomToolbars property (Visio)
 keywords: vis_sdr.chm10013355
 f1_keywords:
 - vis_sdr.chm10013355
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomToolbars Property (Visio)
+# Application.CustomToolbars property (Visio)
 
 Gets a  **UIObject** object that represents the current custom toolbars and status bars of an **Application** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomToolbars`
+_expression_. `CustomToolbars`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

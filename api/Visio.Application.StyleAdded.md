@@ -1,5 +1,5 @@
 ---
-title: Application.StyleAdded Event (Visio)
+title: Application.StyleAdded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.StyleAdded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.StyleAdded Event (Visio)
+# Application.StyleAdded event (Visio)
 
 Occurs after a new style is added to a document.
 

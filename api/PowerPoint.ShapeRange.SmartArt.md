@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SmartArt Property (PowerPoint)
+title: ShapeRange.SmartArt property (PowerPoint)
 keywords: vbapp10.chm548095
 f1_keywords:
 - vbapp10.chm548095
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.SmartArt Property (PowerPoint)
+# ShapeRange.SmartArt property (PowerPoint)
 
 Returns the SmartArt diagram of the  **ShapeRange** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SmartArt`
+_expression_. `SmartArt`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

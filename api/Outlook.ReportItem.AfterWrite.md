@@ -1,5 +1,5 @@
 ---
-title: ReportItem.AfterWrite Event (Outlook)
+title: ReportItem.AfterWrite event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.AfterWrite
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.AfterWrite Event (Outlook)
+# ReportItem.AfterWrite event (Outlook)
 
 Occurs after Microsoft Outlook has saved the item.
 
@@ -18,7 +18,7 @@ Occurs after Microsoft Outlook has saved the item.
 
 _expression_. `AfterWrite`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks

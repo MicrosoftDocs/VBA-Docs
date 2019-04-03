@@ -1,5 +1,5 @@
 ---
-title: Selection.Layout Method (Visio)
+title: Selection.Layout method (Visio)
 keywords: vis_sdr.chm11116385
 f1_keywords:
 - vis_sdr.chm11116385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Layout Method (Visio)
+# Selection.Layout method (Visio)
 
 Lays out the shapes and/or reroutes the connectors for the page, master, group, or selection.
 

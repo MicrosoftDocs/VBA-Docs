@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.ptx Property (Visio)
+title: MSGWrap.ptx property (Visio)
 keywords: vis_sdr.chm16150810
 f1_keywords:
 - vis_sdr.chm16150810
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MSGWrap.ptx Property (Visio)
+# MSGWrap.ptx property (Visio)
 
 Gets or sets the  **pt.x** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
 
- _expression_. `ptx`
+_expression_. `ptx`
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 

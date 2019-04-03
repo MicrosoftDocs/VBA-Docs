@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Databar.Type property (Excel)
 
-Returns one of the constants of the  **[xlFormatConditionType](Excel.XlFormatConditionType.md)** enumeration, which specifies the type of conditional format. Read-only.
+Returns one of the constants of the  **[XlFormatConditionType](Excel.XlFormatConditionType.md)** enumeration, which specifies the type of conditional format. Read-only.
 
 
 ## Syntax
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks

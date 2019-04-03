@@ -1,5 +1,5 @@
 ---
-title: TableField.Title Property (Project)
+title: TableField.Title property (Project)
 keywords: vbapj.chm132689
 f1_keywords:
 - vbapj.chm132689
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableField.Title Property (Project)
+# TableField.Title property (Project)
 
 Gets or sets the title of the field in a table. Read/write  **String**.
 

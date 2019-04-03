@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureOffsetX Property (PowerPoint)
+title: FillFormat.TextureOffsetX property (PowerPoint)
 keywords: vbapp10.chm552026
 f1_keywords:
 - vbapp10.chm552026
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.TextureOffsetX Property (PowerPoint)
+# FillFormat.TextureOffsetX property (PowerPoint)
 
  Returns or sets the horizontal offset of the texture from the origin in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextureOffsetX`
+_expression_. `TextureOffsetX`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 

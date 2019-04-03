@@ -19,9 +19,9 @@ Loads and parses a text file as a new workbook with a single sheet that contains
 
 ## Syntax
 
-_expression_. `OpenText`( `_Filename_` , `_Origin_` , `_StartRow_` , `_DataType_` , `_TextQualifier_` , `_ConsecutiveDelimiter_` , `_Tab_` , `_Semicolon_` , `_Comma_` , `_Space_` , `_Other_` , `_OtherChar_` , `_FieldInfo_` , `_TextVisualLayout_` , `_DecimalSeparator_` , `_ThousandsSeparator_` , `_TrailingMinusNumbers_` , `_Local_` )
+_expression_. `OpenText`( `_FileName_` , `_Origin_` , `_StartRow_` , `_DataType_` , `_TextQualifier_` , `_ConsecutiveDelimiter_` , `_Tab_` , `_Semicolon_` , `_Comma_` , `_Space_` , `_Other_` , `_OtherChar_` , `_FieldInfo_` , `_TextVisualLayout_` , `_DecimalSeparator_` , `_ThousandsSeparator_` , `_TrailingMinusNumbers_` , `_Local_` )
 
-_expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
 
 ## Parameters
@@ -30,11 +30,11 @@ _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|Specifies the file name of the text file to be opened and parsed.|
+| _FileName_|Required| **String**|Specifies the file name of the text file to be opened and parsed.|
 | _Origin_|Optional| **Variant**|Specifies the origin of the text file. Can be one of the following  **xlPlatform** constants: **xlMacintosh**, **xlWindows**, or **xlMSDOS**. Additionally, this could be an integer representing the code page number of the desired code page. For example, "1256" would specify that the encoding of the source text file is Arabic (Windows). If this argument is omitted, the method uses the current setting of the **File Origin** option in the **Text Import Wizard**.|
 | _StartRow_|Optional| **Variant**|The row number at which to start parsing text. The default value is 1.|
-| _DataType_|Optional| **Variant**| Specifies the column format of the data in the file. Can be one of the following **[xlTextParsingType](Excel.XlTextParsingType.md)** constants: **xlDelimited** or **xlFixedWidth**. If this argument is not specified, Microsoft Excel attempts to determine the column format when it opens the file.|
-| _TextQualifier_|Optional| **[xlTextQualifier](Excel.XlTextQualifier.md)**|Specifies the text qualifier.|
+| _DataType_|Optional| **Variant**| Specifies the column format of the data in the file. Can be one of the following **[XlTextParsingType](Excel.XlTextParsingType.md)** constants: **xlDelimited** or **xlFixedWidth**. If this argument is not specified, Microsoft Excel attempts to determine the column format when it opens the file.|
+| _TextQualifier_|Optional| **[XlTextQualifier](Excel.XlTextQualifier.md)**|Specifies the text qualifier.|
 | _ConsecutiveDelimiter_|Optional| **Variant**| **True** to have consecutive delimiters considered one delimiter. The default is **False**.|
 | _Tab_|Optional| **Variant**| **True** to have the tab character be the delimiter (DataType must be **xlDelimited**). The default value is **False**.|
 | _Semicolon_|Optional| **Variant**| **True** to have the semicolon character be the delimiter (DataType must be **xlDelimited**). The default value is **False**.|
@@ -42,7 +42,7 @@ _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) obje
 | _Space_|Optional| **Variant**| **True** to have the space character be the delimiter (DataType must be **xlDelimited**). The default value is **False**.|
 | _Other_|Optional| **Variant**| **True** to have the character specified by the OtherChar argument be the delimiter (DataType must be **xlDelimited**). The default value is **False**.|
 | _OtherChar_|Optional| **Variant**|(required if Other is  **True**). Specifies the delimiter character when Other is **True**. If more than one character is specified, only the first character of the string is used; the remaining characters are ignored.|
-| _FieldInfo_|Optional| **Variant**|An array containing parse information for individual columns of data. The interpretation depends on the value of DataType. When the data is delimited, this argument is an array of two-element arrays, with each two-element array specifying the conversion options for a particular column. The first element is the column number (1-based), and the second element is one of the  **[xlColumnDataType](Excel.XlColumnDataType.md)** constants specifying how the column is parsed.|
+| _FieldInfo_|Optional| **Variant**|An array containing parse information for individual columns of data. The interpretation depends on the value of DataType. When the data is delimited, this argument is an array of two-element arrays, with each two-element array specifying the conversion options for a particular column. The first element is the column number (1-based), and the second element is one of the  **[XlColumnDataType](Excel.XlColumnDataType.md)** constants specifying how the column is parsed.|
 | _TextVisualLayout_|Optional| **Variant**|The visual layout of the text.|
 | _DecimalSeparator_|Optional| **Variant**|The decimal separator that Microsoft Excel uses when recognizing numbers. The default setting is the system setting.|
 | _ThousandsSeparator_|Optional| **Variant**|The thousands separator that Excel uses when recognizing numbers. The default setting is the system setting.|

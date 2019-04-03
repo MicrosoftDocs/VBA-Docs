@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.XML Property (Outlook)
+title: BusinessCardView.XML property (Outlook)
 keywords: vbaol11.chm2932
 f1_keywords:
 - vbaol11.chm2932
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.XML Property (Outlook)
+# BusinessCardView.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the current view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that specifies the XML definition of the cur
 
 _expression_. `XML`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

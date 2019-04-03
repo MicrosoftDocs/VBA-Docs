@@ -1,5 +1,5 @@
 ---
-title: Sequence.FindFirstAnimationForClick Method (PowerPoint)
+title: Sequence.FindFirstAnimationForClick method (PowerPoint)
 keywords: vbapp10.chm651007
 f1_keywords:
 - vbapp10.chm651007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Sequence.FindFirstAnimationForClick Method (PowerPoint)
+# Sequence.FindFirstAnimationForClick method (PowerPoint)
 
 Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first animation started by the specified click number.
 
 
 ## Syntax
 
- _expression_. `FindFirstAnimationForClick`( `_click_` )
+_expression_. `FindFirstAnimationForClick`( `_click_` )
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 

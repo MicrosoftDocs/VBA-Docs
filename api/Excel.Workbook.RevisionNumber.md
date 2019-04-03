@@ -21,7 +21,7 @@ Returns the number of times the workbook has been saved while open as a shared l
 
 _expression_. `RevisionNumber`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Remarks

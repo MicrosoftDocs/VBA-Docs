@@ -1,5 +1,5 @@
 ---
-title: Selection.Rotate Method (Visio)
+title: Selection.Rotate method (Visio)
 keywords: vis_sdr.chm11151330
 f1_keywords:
 - vis_sdr.chm11151330
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Rotate Method (Visio)
+# Selection.Rotate method (Visio)
 
 Rotates selected shapes either as a group or individually about their pins.
 
 
 ## Syntax
 
- _expression_. `Rotate`( `_Angle_` , `_AngleUnitsNameOrCode_` , `_BlastGuards_` , `_RotationType_` , `_PinX_` , `_PinY_` , `_PinUnitsNameOrCode_` )
+_expression_. `Rotate`( `_Angle_` , `_AngleUnitsNameOrCode_` , `_BlastGuards_` , `_RotationType_` , `_PinX_` , `_PinY_` , `_PinUnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

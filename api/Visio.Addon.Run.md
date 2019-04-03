@@ -1,5 +1,5 @@
 ---
-title: Addon.Run Method (Visio)
+title: Addon.Run method (Visio)
 keywords: vis_sdr.chm12416490
 f1_keywords:
 - vis_sdr.chm12416490
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Addon.Run Method (Visio)
+# Addon.Run method (Visio)
 
 Runs the add-on represented by an  **Addon** object.
 
 
 ## Syntax
 
- _expression_. `Run`( `_ArgString_` )
+_expression_. `Run`( `_ArgString_` )
 
  _expression_ An expression that returns a [Addon](./Visio.Addon.md) object.
 

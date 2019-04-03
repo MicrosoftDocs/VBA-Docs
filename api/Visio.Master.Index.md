@@ -1,5 +1,5 @@
 ---
-title: Master.Index Property (Visio)
+title: Master.Index property (Visio)
 keywords: vis_sdr.chm10713695
 f1_keywords:
 - vis_sdr.chm10713695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.Index Property (Visio)
+# Master.Index property (Visio)
 
 Gets the ordinal position of a  **Master** object in the **Masters** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

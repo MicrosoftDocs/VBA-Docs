@@ -1,5 +1,5 @@
 ---
-title: Resource.Code Property (Project)
+title: Resource.Code property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Code
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Code Property (Project)
+# Resource.Code property (Project)
 
 Gets or sets the code value of the resource. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Code`
+_expression_. `Code`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

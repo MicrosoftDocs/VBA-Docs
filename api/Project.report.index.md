@@ -1,5 +1,5 @@
 ---
-title: Report.Index Property (Project)
+title: Report.Index property (Project)
 ms.prod: project-server
 ms.assetid: 3a0ccb0f-443e-ea35-4766-b79f97fef84a
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Report.Index Property (Project)
+# Report.Index property (Project)
 Gets the index of a custom report in the  **Reports** collection. Read-only **Long**.
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a 'Report' object.
 

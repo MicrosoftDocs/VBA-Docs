@@ -1,5 +1,5 @@
 ---
-title: NoteItem.GetInspector Property (Outlook)
+title: NoteItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1482
 f1_keywords:
 - vbaol11.chm1482
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.GetInspector Property (Outlook)
+# NoteItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an insp
 
 _expression_. `GetInspector`
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## Remarks

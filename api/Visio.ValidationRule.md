@@ -1,5 +1,5 @@
 ---
-title: ValidationRule Object (Visio)
+title: ValidationRule object (Visio)
 keywords: vis_sdr.chm61080
 f1_keywords:
 - vis_sdr.chm61080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule Object (Visio)
+# ValidationRule object (Visio)
 
 Represents a single validation rule in a diagram validation rule set.
 

@@ -1,5 +1,5 @@
 ---
-title: DataColumns.SetColumnProperties Method (Visio)
+title: DataColumns.SetColumnProperties method (Visio)
 keywords: vis_sdr.chm16660390
 f1_keywords:
 - vis_sdr.chm16660390
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumns.SetColumnProperties Method (Visio)
+# DataColumns.SetColumnProperties method (Visio)
 
 Sets one or more data-column properties for one or more data columns.
 

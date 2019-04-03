@@ -1,5 +1,5 @@
 ---
-title: Category.Parent Property (Outlook)
+title: Category.Parent property (Outlook)
 keywords: vbaol11.chm2425
 f1_keywords:
 - vbaol11.chm2425
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Category.Parent Property (Outlook)
+# Category.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Category](./Outlook.Category.md) object.
+_expression_ A variable that represents a [Category](Outlook.Category.md) object.
 
 
 ## See also

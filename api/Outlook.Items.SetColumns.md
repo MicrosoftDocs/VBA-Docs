@@ -1,5 +1,5 @@
 ---
-title: Items.SetColumns Method (Outlook)
+title: Items.SetColumns method (Outlook)
 keywords: vbaol11.chm71
 f1_keywords:
 - vbaol11.chm71
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.SetColumns Method (Outlook)
+# Items.SetColumns method (Outlook)
 
 Caches certain properties for extremely fast access to those particular properties of each item in an  **[Items](Outlook.Items.md)** collection.
 
@@ -21,7 +21,7 @@ Caches certain properties for extremely fast access to those particular properti
 
 _expression_. `SetColumns`( `_Columns_` )
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Parameters

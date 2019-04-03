@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Save Method (Outlook)
+title: BusinessCardView.Save method (Outlook)
 keywords: vbaol11.chm2925
 f1_keywords:
 - vbaol11.chm2925
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Save Method (Outlook)
+# BusinessCardView.Save method (Outlook)
 
 Saves the view, or saves the changes to a view.
 
@@ -21,7 +21,7 @@ Saves the view, or saves the changes to a view.
 
 _expression_. `Save`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Example

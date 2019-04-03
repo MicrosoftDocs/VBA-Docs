@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.Caption Property (Visio)
+title: ToolbarItem.Caption property (Visio)
 keywords: vis_sdr.chm13513170
 f1_keywords:
 - vis_sdr.chm13513170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.Caption Property (Visio)
+# ToolbarItem.Caption property (Visio)
 
 Gets or sets the caption for an object. Read/write.
 

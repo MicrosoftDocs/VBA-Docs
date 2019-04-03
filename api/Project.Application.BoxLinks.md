@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLinks Method (Project)
+title: Application.BoxLinks method (Project)
 keywords: vbapj.chm44
 f1_keywords:
 - vbapj.chm44
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxLinks Method (Project)
+# Application.BoxLinks method (Project)
 
 Specifies the appearance of link lines in the active Network Diagram view.
 
 
 ## Syntax
 
- _expression_. `BoxLinks`( `_Style_`, `_ShowArrows_`, `_ShowLabels_`, `_ColorMode_`, `_CriticalColor_`, `_NoncriticalColor_` )
+_expression_. `BoxLinks`( `_Style_`, `_ShowArrows_`, `_ShowLabels_`, `_ColorMode_`, `_CriticalColor_`, `_NoncriticalColor_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

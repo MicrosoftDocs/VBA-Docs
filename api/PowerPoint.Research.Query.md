@@ -1,5 +1,5 @@
 ---
-title: Research.Query Method (PowerPoint)
+title: Research.Query method (PowerPoint)
 keywords: vbapp10.chm676003
 f1_keywords:
 - vbapp10.chm676003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Research.Query Method (PowerPoint)
+# Research.Query method (PowerPoint)
 
 Specifies a research query.
 
 
 ## Syntax
 
- _expression_. `Query`( `_ServiceID_`, `_QueryString_`, `_QueryLanguage_`, `_UseSelection_`, `_RequeryContextXML_`, `_NewQueryContextXML_`, `_LaunchQuery_` )
+_expression_. `Query`( `_ServiceID_`, `_QueryString_`, `_QueryLanguage_`, `_UseSelection_`, `_RequeryContextXML_`, `_NewQueryContextXML_`, `_LaunchQuery_` )
 
  _expression_ An expression that returns a [Research](./PowerPoint.Research.md) object.
 

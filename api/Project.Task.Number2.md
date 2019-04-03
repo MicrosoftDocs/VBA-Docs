@@ -1,5 +1,5 @@
 ---
-title: Task.Number2 Property (Project)
+title: Task.Number2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Number2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Number2 Property (Project)
+# Task.Number2 property (Project)
 
 Gets or sets a Number local custom field for a task. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `Number2`
+_expression_. `Number2`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

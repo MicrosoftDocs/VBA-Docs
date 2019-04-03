@@ -1,5 +1,5 @@
 ---
-title: Assignment.Date2 Property (Project)
+title: Assignment.Date2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Date2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Date2 Property (Project)
+# Assignment.Date2 property (Project)
 
 Gets or sets the value of the  **Date2** custom field for the assignment. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Date2`
+_expression_. `Date2`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

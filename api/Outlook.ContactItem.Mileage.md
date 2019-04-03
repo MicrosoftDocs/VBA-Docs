@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Mileage Property (Outlook)
+title: ContactItem.Mileage property (Outlook)
 keywords: vbaol11.chm946
 f1_keywords:
 - vbaol11.chm946
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Mileage Property (Outlook)
+# ContactItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the mileage for an item. Read/write.
 
 _expression_. `Mileage`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

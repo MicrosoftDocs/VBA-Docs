@@ -1,5 +1,5 @@
 ---
-title: Documents.RunModeEntered Event (Visio)
+title: Documents.RunModeEntered event (Visio)
 keywords: vis_sdr.chm10619210
 f1_keywords:
 - vis_sdr.chm10619210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.RunModeEntered Event (Visio)
+# Documents.RunModeEntered event (Visio)
 
 Occurs after a document enters run mode.
 

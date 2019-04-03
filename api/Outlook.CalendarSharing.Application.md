@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.Application Property (Outlook)
+title: CalendarSharing.Application property (Outlook)
 keywords: vbaol11.chm2407
 f1_keywords:
 - vbaol11.chm2407
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarSharing.Application Property (Outlook)
+# CalendarSharing.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [CalendarSharing](./Outlook.CalendarSharing.md) object.
+_expression_ A variable that represents a [CalendarSharing](Outlook.CalendarSharing.md) object.
 
 
 ## See also

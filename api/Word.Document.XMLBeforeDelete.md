@@ -1,5 +1,5 @@
 ---
-title: Document.XMLBeforeDelete Event (Word)
+title: Document.XMLBeforeDelete event (Word)
 keywords: vbawd10.chm4001009
 f1_keywords:
 - vbawd10.chm4001009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.XMLBeforeDelete Event (Word)
+# Document.XMLBeforeDelete event (Word)
 
 Occurs when a user deletes an XML element from a document. If more than one element is deleted from the document at the same time (for example, when cutting and pasting XML), the event fires for each element that is deleted.
 

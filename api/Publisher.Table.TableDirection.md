@@ -1,5 +1,5 @@
 ---
-title: Table.TableDirection Property (Publisher)
+title: Table.TableDirection property (Publisher)
 keywords: vbapb10.chm4784135
 f1_keywords:
 - vbapb10.chm4784135
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.TableDirection Property (Publisher)
+# Table.TableDirection property (Publisher)
 
 Returns or sets a  **PbTableDirectionType** constant that represents whether text in a table is read from left to right or from right to left. Read/write.
 
 
 ## Syntax
 
- _expression_. **TableDirection**
+ _expression_.**TableDirection**
 
  _expression_ A variable that represents a  **Table** object.
 

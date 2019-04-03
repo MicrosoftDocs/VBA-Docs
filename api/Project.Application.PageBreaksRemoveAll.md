@@ -1,5 +1,5 @@
 ---
-title: Application.PageBreaksRemoveAll Method (Project)
+title: Application.PageBreaksRemoveAll method (Project)
 keywords: vbapj.chm936
 f1_keywords:
 - vbapj.chm936
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PageBreaksRemoveAll Method (Project)
+# Application.PageBreaksRemoveAll method (Project)
 
 Removes all manual page breaks in the active project.
 
 
 ## Syntax
 
- _expression_. `PageBreaksRemoveAll`
+_expression_. `PageBreaksRemoveAll`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

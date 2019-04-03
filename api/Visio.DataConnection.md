@@ -1,5 +1,5 @@
 ---
-title: DataConnection Object (Visio)
+title: DataConnection object (Visio)
 keywords: vis_sdr.chm61010
 f1_keywords:
 - vis_sdr.chm61010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataConnection Object (Visio)
+# DataConnection object (Visio)
 
 Abstracts communication between one or more  **[DataRecordset](Visio.DataRecordset.md)** objects and a non-XML data source.
 

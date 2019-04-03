@@ -1,5 +1,5 @@
 ---
-title: Application.RequestProgressInformation Method (Project)
+title: Application.RequestProgressInformation method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.RequestProgressInformation
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.RequestProgressInformation Method (Project)
+# Application.RequestProgressInformation method (Project)
 
 Requests progress information from resources, republishes, and saves the active project. .
 
 
 ## Syntax
 
- _expression_. `RequestProgressInformation`( `_ShowDialog_`, `_ItemsScope_`, `_NotifyTaskLead_`, `_NotificationText_`, `_ReportingPeriodFrom_`, `_ReportingPeriodTo_` )
+_expression_. `RequestProgressInformation`( `_ShowDialog_`, `_ItemsScope_`, `_NotifyTaskLead_`, `_NotificationText_`, `_ReportingPeriodFrom_`, `_ReportingPeriodTo_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

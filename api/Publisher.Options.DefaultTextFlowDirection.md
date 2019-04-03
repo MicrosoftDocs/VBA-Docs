@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultTextFlowDirection Property (Publisher)
+title: Options.DefaultTextFlowDirection property (Publisher)
 keywords: vbapb10.chm1048628
 f1_keywords:
 - vbapb10.chm1048628
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.DefaultTextFlowDirection Property (Publisher)
+# Options.DefaultTextFlowDirection property (Publisher)
 
 Returns or sets a  **PbDirectionType** constant that represents a global Microsoft Publisher option, indicating whether text flows from left to right or from right to left in a publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **DefaultTextFlowDirection**
+ _expression_.**DefaultTextFlowDirection**
 
  _expression_ A variable that represents a  **Options** object.
 

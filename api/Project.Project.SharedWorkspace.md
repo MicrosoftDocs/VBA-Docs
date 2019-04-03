@@ -1,5 +1,5 @@
 ---
-title: Project.SharedWorkspace Property (Project)
+title: Project.SharedWorkspace property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.SharedWorkspace
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.SharedWorkspace Property (Project)
+# Project.SharedWorkspace property (Project)
 
 Gets a  **SharedWorkspace** object that represents the document workspace for the project. Read-only **SharedWorkspace**.
 
 
 ## Syntax
 
- _expression_. `SharedWorkspace`
+_expression_. `SharedWorkspace`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.ID Property (Visio)
+title: MasterShortcut.ID property (Visio)
 keywords: vis_sdr.chm16013675
 f1_keywords:
 - vis_sdr.chm16013675
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.ID Property (Visio)
+# MasterShortcut.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.Count Property (PowerPoint)
+title: SectionProperties.Count property (PowerPoint)
 keywords: vbapp10.chm725003
 f1_keywords:
 - vbapp10.chm725003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SectionProperties.Count Property (PowerPoint)
+# SectionProperties.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

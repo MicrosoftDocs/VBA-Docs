@@ -1,5 +1,5 @@
 ---
-title: Application.AlignTableCellTop Method (Project)
+title: Application.AlignTableCellTop method (Project)
 keywords: vbapj.chm1521
 f1_keywords:
 - vbapj.chm1521
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.AlignTableCellTop Method (Project)
+# Application.AlignTableCellTop method (Project)
 Aligns text at the top of the cell, for selected cells in a report table.
 
 ## Syntax
 
- _expression_. `AlignTableCellTop`
+_expression_. `AlignTableCellTop`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

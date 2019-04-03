@@ -1,5 +1,5 @@
 ---
-title: Page.DropContainer Method (Visio)
+title: Page.DropContainer method (Visio)
 keywords: vis_sdr.chm10962135
 f1_keywords:
 - vis_sdr.chm10962135
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.DropContainer Method (Visio)
+# Page.DropContainer method (Visio)
 
 Creates a new container  **[Shape](Visio.Shape.md)** object on the page, places the container around the specified target shapes, and adds the target shapes to the container. Returns the container shape.
 
 
 ## Syntax
 
- _expression_. `DropContainer`( `_ObjectToDrop_` , `_TargetShapes_` )
+_expression_. `DropContainer`( `_ObjectToDrop_` , `_TargetShapes_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

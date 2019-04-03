@@ -1,5 +1,5 @@
 ---
-title: PjCalendarType Enumeration (Project)
+title: PjCalendarType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCalendarType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCalendarType Enumeration (Project)
+# PjCalendarType enumeration (Project)
 
 Contains constants that specify the type of calendar.
 

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListNumberSeparator Property (Publisher)
+title: ParagraphFormat.ListNumberSeparator property (Publisher)
 keywords: vbapb10.chm5439526
 f1_keywords:
 - vbapb10.chm5439526
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListNumberSeparator Property (Publisher)
+# ParagraphFormat.ListNumberSeparator property (Publisher)
 
 Sets or retrieves a  **PbListSeparator** constant that represents the list separator of the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **ListNumberSeparator**
+ _expression_.**ListNumberSeparator**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradient Method (PowerPoint)
+title: FillFormat.PresetGradient method (PowerPoint)
 keywords: vbapp10.chm552005
 f1_keywords:
 - vbapp10.chm552005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetGradient Method (PowerPoint)
+# FillFormat.PresetGradient method (PowerPoint)
 
 Sets the specified fill to a preset gradient.
 
 
 ## Syntax
 
- _expression_. `PresetGradient`( `_Style_`, `_Variant_`, `_PresetGradientType_` )
+_expression_. `PresetGradient`( `_Style_`, `_Variant_`, `_PresetGradientType_` )
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -83,7 +83,7 @@ The  _PresetGradientType_ parameter value can be one of these **MsoPresetGradien
 
 ## Example
 
-This example adds a rectangle with a preset gradient fill to  `myDocument`.
+This example adds a rectangle with a preset gradient fill to  _myDocument_.
 
 
 ```vb

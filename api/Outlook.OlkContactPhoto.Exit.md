@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.Exit Event (Outlook)
+title: OlkContactPhoto.Exit event (Outlook)
 keywords: vbaol11.chm1000317
 f1_keywords:
 - vbaol11.chm1000317
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.Exit Event (Outlook)
+# OlkContactPhoto.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 
@@ -21,7 +21,7 @@ Occurs just after the focus passes from this control to another control on the s
 
 _expression_. `Exit`( `_Cancel_` )
 
-_expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactPhoto.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.Activate Method (PowerPoint)
+title: SlideShowWindow.Activate method (PowerPoint)
 keywords: vbapp10.chm507012
 f1_keywords:
 - vbapp10.chm507012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindow.Activate Method (PowerPoint)
+# SlideShowWindow.Activate method (PowerPoint)
 
 Activates the specified object.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
  _expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 

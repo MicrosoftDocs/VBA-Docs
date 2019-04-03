@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MasterChanged Event (Visio)
+title: InvisibleApp.MasterChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MasterChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MasterChanged Event (Visio)
+# InvisibleApp.MasterChanged event (Visio)
 
 Occurs after properties of a master are changed and propagated to its instances.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Close Method (PowerPoint)
+title: DocumentWindow.Close method (PowerPoint)
 keywords: vbapp10.chm511020
 f1_keywords:
 - vbapp10.chm511020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.Close Method (PowerPoint)
+# DocumentWindow.Close method (PowerPoint)
 
 Closes the specified document window.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.MyShapesPath Property (Visio)
+title: Application.MyShapesPath property (Visio)
 keywords: vis_sdr.chm10060045
 f1_keywords:
 - vis_sdr.chm10060045
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MyShapesPath Property (Visio)
+# Application.MyShapesPath property (Visio)
 
 Gets or sets where Microsoft Visio looks for the  **My Shapes** folder on the user's hard disk. Read/write.
 
 
 ## Syntax
 
- _expression_. `MyShapesPath`
+_expression_. `MyShapesPath`
 
  _expression_ An expression that returns an [Application](./Visio.Application.md) object.
 

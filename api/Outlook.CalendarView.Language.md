@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Language Property (Outlook)
+title: CalendarView.Language property (Outlook)
 keywords: vbaol11.chm2616
 f1_keywords:
 - vbaol11.chm2616
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Language Property (Outlook)
+# CalendarView.Language property (Outlook)
 
 Returns or sets a  **String** value that represents the language setting for the view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the language setting for the
 
 _expression_. `Language`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks

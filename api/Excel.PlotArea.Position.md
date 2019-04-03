@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PlotArea.Position property (Excel)
 
-Returns or sets the position of the plot area on the chart. Read/write  **[xlChartElementPosition](Excel.XlChartElementPosition.md)**.
+Returns or sets the position of the plot area on the chart. Read/write  **[XlChartElementPosition](Excel.XlChartElementPosition.md)**.
 
 
 ## Syntax

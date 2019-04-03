@@ -1,5 +1,5 @@
 ---
-title: Assignment.Cost2 Property (Project)
+title: Assignment.Cost2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Cost2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Cost2 Property (Project)
+# Assignment.Cost2 property (Project)
 
 Gets or sets the value of the  **Cost2** roll-down custom field for the assignment. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Cost2`
+_expression_. `Cost2`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

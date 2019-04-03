@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRule.Standard Property (Outlook)
+title: AutoFormatRule.Standard property (Outlook)
 keywords: vbaol11.chm2711
 f1_keywords:
 - vbaol11.chm2711
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRule.Standard Property (Outlook)
+# AutoFormatRule.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[AutoFormatRule](Outlook.AutoFormatRule.md)** object represents a built-in Outlook formatting rule. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[AutoFormatRule](Outlo
 
 _expression_. `Standard`
 
-_expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormatRule.md) object.
+_expression_ A variable that represents an [AutoFormatRule](Outlook.AutoFormatRule.md) object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Returns a  **[Comments](Word.comments.md)** collection that represents all the c
 
 ## Syntax
 
- _expression_. `Comments`
+_expression_. `Comments`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

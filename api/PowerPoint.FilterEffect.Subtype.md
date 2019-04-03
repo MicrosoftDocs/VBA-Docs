@@ -1,5 +1,5 @@
 ---
-title: FilterEffect.Subtype Property (PowerPoint)
+title: FilterEffect.Subtype property (PowerPoint)
 keywords: vbapp10.chm669004
 f1_keywords:
 - vbapp10.chm669004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FilterEffect.Subtype Property (PowerPoint)
+# FilterEffect.Subtype property (PowerPoint)
 
  Sets or returns the subtype of the filter effect. Read/write.
 
 
 ## Syntax
 
- _expression_. `Subtype`
+_expression_. `Subtype`
 
  _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 

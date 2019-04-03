@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Unload Event (Outlook)
+title: TaskRequestUpdateItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Unload
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Unload Event (Outlook)
+# TaskRequestUpdateItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
 
 ## Syntax
 
- _expression_. `Unload`
+_expression_. `Unload`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

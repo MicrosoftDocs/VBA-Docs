@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Body Property (Outlook)
+title: NoteItem.Body property (Outlook)
 keywords: vbaol11.chm1477
 f1_keywords:
 - vbaol11.chm1477
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Body Property (Outlook)
+# NoteItem.Body property (Outlook)
 
 Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 
 _expression_. `Body`
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerForegroundColorIndex Property (PowerPoint)
+title: Series.MarkerForegroundColorIndex property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.MarkerForegroundColorIndex
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Series.MarkerForegroundColorIndex Property (PowerPoint)
+# Series.MarkerForegroundColorIndex property (PowerPoint)
 
-Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[xlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
+Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerForegroundColorIndex`
+_expression_. `MarkerForegroundColorIndex`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

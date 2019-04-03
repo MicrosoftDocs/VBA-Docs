@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.RequiredCode Property (Project)
+title: OutlineCode.RequiredCode property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.RequiredCode
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.RequiredCode Property (Project)
+# OutlineCode.RequiredCode property (Project)
 
 True if a value for the local outline code must be set before the project can be saved. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RequiredCode`
+_expression_. `RequiredCode`
 
  _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 

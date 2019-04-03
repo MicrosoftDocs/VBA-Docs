@@ -1,5 +1,5 @@
 ---
-title: Cell.Result Property (Visio)
+title: Cell.Result property (Visio)
 keywords: vis_sdr.chm10114195
 f1_keywords:
 - vis_sdr.chm10114195
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.Result Property (Visio)
+# Cell.Result property (Visio)
 
 Gets or sets a cell's value. Read/write.
 
 
 ## Syntax
 
- _expression_. `Result`( `_UnitsNameOrCode_` )
+_expression_. `Result`( `_UnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

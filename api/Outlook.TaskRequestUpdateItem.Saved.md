@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Saved Property (Outlook)
+title: TaskRequestUpdateItem.Saved property (Outlook)
 keywords: vbaol11.chm1941
 f1_keywords:
 - vbaol11.chm1941
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Saved Property (Outlook)
+# TaskRequestUpdateItem.Saved property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 
 
 ## Syntax
 
- _expression_. `Saved`
+_expression_. `Saved`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## See also

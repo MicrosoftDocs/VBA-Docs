@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelTopType Property (Publisher)
+title: ThreeDFormat.BevelTopType property (Publisher)
 keywords: vbapb10.chm3801364
 f1_keywords:
 - vbapb10.chm3801364
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.BevelTopType Property (Publisher)
+# ThreeDFormat.BevelTopType property (Publisher)
 
 Returns or sets an  **MsoPresetCamera** constant that represents the bevel type for the top bevel. Read/write.
 
 
 ## Syntax
 
- _expression_. **BevelTopType**
+ _expression_.**BevelTopType**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

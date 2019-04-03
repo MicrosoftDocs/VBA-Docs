@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReminderSet Property (Outlook)
+title: SharingItem.ReminderSet property (Outlook)
 keywords: vbaol11.chm653
 f1_keywords:
 - vbaol11.chm653
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReminderSet Property (Outlook)
+# SharingItem.ReminderSet property (Outlook)
 
 Returns or sets a  **Boolean** value that is **true** if a reminder has been set for the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **true** if a reminder has been set
 
 _expression_. `ReminderSet`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Project.CurrentDate Property (Project)
+title: Project.CurrentDate property (Project)
 keywords: vbapj.chm131699
 f1_keywords:
 - vbapj.chm131699
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.CurrentDate Property (Project)
+# Project.CurrentDate property (Project)
 
 Gets or sets the current date for a project. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CurrentDate`
+_expression_. `CurrentDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

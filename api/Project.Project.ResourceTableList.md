@@ -1,5 +1,5 @@
 ---
-title: Project.ResourceTableList Property (Project)
+title: Project.ResourceTableList property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ResourceTableList
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ResourceTableList Property (Project)
+# Project.ResourceTableList property (Project)
 
 Gets a  **[List](Project.List.md)** object representing all resource tables in the project. Read-only **List**.
 
 
 ## Syntax
 
- _expression_. `ResourceTableList`
+_expression_. `ResourceTableList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

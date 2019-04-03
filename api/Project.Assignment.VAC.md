@@ -1,5 +1,5 @@
 ---
-title: Assignment.VAC Property (Project)
+title: Assignment.VAC property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.VAC
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.VAC Property (Project)
+# Assignment.VAC property (Project)
 
 Gets the VAC (Variance At Completion) cost for the assignment. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `VAC`
+_expression_. `VAC`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

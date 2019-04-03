@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTasks.Item Method (PowerPoint)
+title: ResampleMediaTasks.Item method (PowerPoint)
 keywords: vbapp10.chm728001
 f1_keywords:
 - vbapp10.chm728001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTasks.Item Method (PowerPoint)
+# ResampleMediaTasks.Item method (PowerPoint)
 
 Returns a single  **ResampleMediaTask** object from the specified **ResampleMediaTasks** collection.
 

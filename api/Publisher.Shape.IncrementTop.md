@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementTop Method (Publisher)
+title: Shape.IncrementTop method (Publisher)
 keywords: vbapb10.chm2228258
 f1_keywords:
 - vbapb10.chm2228258
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.IncrementTop Method (Publisher)
+# Shape.IncrementTop method (Publisher)
 
 Moves the specified shape or shape range vertically by the specified distance.
 
 
 ## Syntax
 
- _expression_. **IncrementTop**(**_Increment_**)
+ _expression_.**IncrementTop**(**_Increment_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

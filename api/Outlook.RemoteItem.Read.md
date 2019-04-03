@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Read Event (Outlook)
+title: RemoteItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Read Event (Outlook)
+# RemoteItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
 _expression_. `Read`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks

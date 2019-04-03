@@ -1,5 +1,5 @@
 ---
-title: CardView Object (Outlook)
+title: CardView object (Outlook)
 keywords: vbaol11.chm3207
 f1_keywords:
 - vbaol11.chm3207
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView Object (Outlook)
+# CardView object (Outlook)
 
 Represents a view that displays Outlook items as a series of index cards.
 
@@ -76,6 +76,6 @@ You can change built-in  **CardView** objects, but you cannot delete them. Use t
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

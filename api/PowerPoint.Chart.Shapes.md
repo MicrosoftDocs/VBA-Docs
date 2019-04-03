@@ -1,5 +1,5 @@
 ---
-title: Chart.Shapes Property (PowerPoint)
+title: Chart.Shapes property (PowerPoint)
 keywords: vbapp10.chm684012
 f1_keywords:
 - vbapp10.chm684012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.Shapes Property (PowerPoint)
+# Chart.Shapes property (PowerPoint)
 
 Returns a collection that represents all the shapes on the chart sheet. Read-only  **[Shapes](PowerPoint.Shapes.md)**.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_. `Shapes`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

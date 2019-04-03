@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.MouseMove Event (Visio)
+title: DrawingControl.MouseMove event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.MouseMove
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.MouseMove Event (Visio)
+# DrawingControl.MouseMove event (Visio)
 
 Occurs when the mouse is moved.
 

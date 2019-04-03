@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectSummaryTask Property (Project)
+title: Project.ProjectSummaryTask property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ProjectSummaryTask
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectSummaryTask Property (Project)
+# Project.ProjectSummaryTask property (Project)
 
 Gets a  **[Task](Project.Task.md)** object representing the project summary task for the active project. Read-only **Task**.
 
 
 ## Syntax
 
- _expression_. `ProjectSummaryTask`
+_expression_. `ProjectSummaryTask`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

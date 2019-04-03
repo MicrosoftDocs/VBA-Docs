@@ -1,5 +1,5 @@
 ---
-title: Event.Index Property (Visio)
+title: Event.Index property (Visio)
 keywords: vis_sdr.chm12613695
 f1_keywords:
 - vis_sdr.chm12613695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Event.Index Property (Visio)
+# Event.Index property (Visio)
 
 Gets the ordinal position of an  **Event** object in the **EventList** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 

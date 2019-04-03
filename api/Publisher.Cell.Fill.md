@@ -1,5 +1,5 @@
 ---
-title: Cell.Fill Property (Publisher)
+title: Cell.Fill property (Publisher)
 keywords: vbapb10.chm5111817
 f1_keywords:
 - vbapb10.chm5111817
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.Fill Property (Publisher)
+# Cell.Fill property (Publisher)
 
  Returns a **[FillFormat](Publisher.FillFormat.md)** object representing the fill for the specified shape or table cell.
 
 
 ## Syntax
 
- _expression_. **Fill**
+ _expression_.**Fill**
 
  _expression_ A variable that represents a  **Cell** object.
 

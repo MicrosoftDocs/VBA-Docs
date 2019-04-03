@@ -1,5 +1,5 @@
 ---
-title: TextRange.Copy Method (Publisher)
+title: TextRange.Copy method (Publisher)
 keywords: vbapb10.chm5308480
 f1_keywords:
 - vbapb10.chm5308480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Copy Method (Publisher)
+# TextRange.Copy method (Publisher)
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
 
- _expression_. **Copy**
+ _expression_.**Copy**
 
  _expression_ A variable that represents a  **TextRange** object.
 

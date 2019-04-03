@@ -1,5 +1,5 @@
 ---
-title: Store.GetDefaultFolder Method (Outlook)
+title: Store.GetDefaultFolder method (Outlook)
 keywords: vbaol11.chm3437
 f1_keywords:
 - vbaol11.chm3437
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.GetDefaultFolder Method (Outlook)
+# Store.GetDefaultFolder method (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object that represents the default folder in the store and that is of the type specified by the _FolderType_ argument.
 

@@ -1,5 +1,5 @@
 ---
-title: Filter.Index Property (Project)
+title: Filter.Index property (Project)
 keywords: vbapj.chm132212
 f1_keywords:
 - vbapj.chm132212
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Filter.Index Property (Project)
+# Filter.Index property (Project)
 
 Gets the index of a  **Filter** object in the containing **Filters** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 

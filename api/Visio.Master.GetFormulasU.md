@@ -1,5 +1,5 @@
 ---
-title: Master.GetFormulasU Method (Visio)
+title: Master.GetFormulasU method (Visio)
 keywords: vis_sdr.chm10751935
 f1_keywords:
 - vis_sdr.chm10751935
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.GetFormulasU Method (Visio)
+# Master.GetFormulasU method (Visio)
 
 Returns the formulas of many cells.
 
 
 ## Syntax
 
- _expression_. `GetFormulasU`( `_SID_SRCStream()_` , `_formulaArray()_` )
+_expression_. `GetFormulasU`( `_SID_SRCStream()_` , `_formulaArray()_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

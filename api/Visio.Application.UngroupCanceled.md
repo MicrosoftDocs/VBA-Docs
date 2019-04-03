@@ -1,5 +1,5 @@
 ---
-title: Application.UngroupCanceled Event (Visio)
+title: Application.UngroupCanceled event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.UngroupCanceled
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.UngroupCanceled Event (Visio)
+# Application.UngroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelUngroup** event.
 

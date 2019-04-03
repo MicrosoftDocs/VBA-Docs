@@ -1,5 +1,5 @@
 ---
-title: CaptionStyles Object (Publisher)
+title: CaptionStyles object (Publisher)
 keywords: vbapb10.chm593919
 f1_keywords:
 - vbapb10.chm593919
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CaptionStyles Object (Publisher)
+# CaptionStyles object (Publisher)
 
 Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionStyle.md)** objects available in Publisher.
  

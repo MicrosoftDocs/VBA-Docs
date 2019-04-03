@@ -1,5 +1,5 @@
 ---
-title: Resource.AccrueAt Property (Project)
+title: Resource.AccrueAt property (Project)
 keywords: vbapj.chm131366
 f1_keywords:
 - vbapj.chm131366
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.AccrueAt Property (Project)
+# Resource.AccrueAt property (Project)
 
 Gets or sets the way a task accrues the cost of a resource assigned to it. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `AccrueAt`
+_expression_. `AccrueAt`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

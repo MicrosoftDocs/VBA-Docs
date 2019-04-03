@@ -1,5 +1,5 @@
 ---
-title: Legend.Clear Method (PowerPoint)
+title: Legend.Clear method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Clear
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Legend.Clear Method (PowerPoint)
+# Legend.Clear method (PowerPoint)
 
 Clears the entire object.
 
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_. `Clear`
 
  _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 

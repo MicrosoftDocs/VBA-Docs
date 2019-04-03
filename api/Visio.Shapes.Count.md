@@ -1,5 +1,5 @@
 ---
-title: Shapes.Count Property (Visio)
+title: Shapes.Count property (Visio)
 keywords: vis_sdr.chm11313330
 f1_keywords:
 - vis_sdr.chm11313330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes.Count Property (Visio)
+# Shapes.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Page.Export Method (Visio)
+title: Page.Export method (Visio)
 keywords: vis_sdr.chm10916265
 f1_keywords:
 - vis_sdr.chm10916265
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Export Method (Visio)
+# Page.Export method (Visio)
 
 Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg, .dxf, .emf, .emz, .gif, .htm, .jpg, .png, .svg, .svgz, .tif, or .wmf.
 
 
 ## Syntax
 
- _expression_. `Export`( `_FileName_` )
+_expression_. `Export`( `_FileName_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

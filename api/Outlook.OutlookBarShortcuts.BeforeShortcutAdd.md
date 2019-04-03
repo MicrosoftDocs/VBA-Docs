@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.BeforeShortcutAdd Event (Outlook)
+title: OutlookBarShortcuts.BeforeShortcutAdd event (Outlook)
 keywords: vbaol11.chm378
 f1_keywords:
 - vbaol11.chm378
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.BeforeShortcutAdd Event (Outlook)
+# OutlookBarShortcuts.BeforeShortcutAdd event (Outlook)
 
 Occurs before a new shortcut is added to a group in the  **Shortcuts** pane, either as a result of user action or through program code.
 
@@ -21,7 +21,7 @@ Occurs before a new shortcut is added to a group in the  **Shortcuts** pane, eit
 
 _expression_. `BeforeShortcutAdd`( `_Cancel_` )
 
-_expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
+_expression_ A variable that represents an [OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Search.Stop Method (Outlook)
+title: Search.Stop method (Outlook)
 keywords: vbaol11.chm2257
 f1_keywords:
 - vbaol11.chm2257
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.Stop Method (Outlook)
+# Search.Stop method (Outlook)
 
 Immediately ends the search that is being performed currently.
 
@@ -21,7 +21,7 @@ Immediately ends the search that is being performed currently.
 
 _expression_. `Stop`
 
-_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetExtrusionDirection Property (Publisher)
+title: ThreeDFormat.PresetExtrusionDirection property (Publisher)
 keywords: vbapb10.chm3801348
 f1_keywords:
 - vbapb10.chm3801348
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetExtrusionDirection Property (Publisher)
+# ThreeDFormat.PresetExtrusionDirection property (Publisher)
 
 Returns an  **MsoPresetExtrusionDirection** constant that represents the direction taken by the extrusion's sweep path leading away from the extruded shape (the front face of the extrusion). Read-only.
 
 
 ## Syntax
 
- _expression_. **PresetExtrusionDirection**
+ _expression_.**PresetExtrusionDirection**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

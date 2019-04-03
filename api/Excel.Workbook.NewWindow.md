@@ -21,7 +21,7 @@ Creates a new window or a copy of the specified window.
 
 _expression_. `NewWindow`
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Return value

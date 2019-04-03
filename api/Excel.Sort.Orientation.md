@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Sort.Orientation property (Excel)
 
-Specifies the orientation for the sort. Read/write  **[xlSortOrientation](Excel.XlSortOrientation.md)**.
+Specifies the orientation for the sort. Read/write  **[XlSortOrientation](Excel.XlSortOrientation.md)**.
 
 
 ## Syntax
 
 _expression_.**Orientation**
 
-_expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## Remarks

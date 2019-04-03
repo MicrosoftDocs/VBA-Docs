@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.MarkForDownload Property (Outlook)
+title: MeetingItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1463
 f1_keywords:
 - vbaol11.chm1463
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.MarkForDownload Property (Outlook)
+# MeetingItem.MarkForDownload property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant tha
 
 _expression_. `MarkForDownload`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

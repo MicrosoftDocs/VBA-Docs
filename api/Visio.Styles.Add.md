@@ -1,5 +1,5 @@
 ---
-title: Styles.Add Method (Visio)
+title: Styles.Add method (Visio)
 keywords: vis_sdr.chm11516680
 f1_keywords:
 - vis_sdr.chm11516680
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Styles.Add Method (Visio)
+# Styles.Add method (Visio)
 
 Adds a new  **Style** object to a **Styles** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_StyleName_` , `_BasedOn_` , `_fIncludesText_` , `_fIncludesLine_` , `_fIncludesFill_` )
+ _expression_.**Add**( `_StyleName_` , `_BasedOn_` , `_fIncludesText_` , `_fIncludesLine_` , `_fIncludesFill_` )
 
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 

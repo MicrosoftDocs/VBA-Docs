@@ -1,5 +1,5 @@
 ---
-title: PjAutomaticSaveOptions Enumeration (Project)
+title: PjAutomaticSaveOptions enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAutomaticSaveOptions
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjAutomaticSaveOptions Enumeration (Project)
+# PjAutomaticSaveOptions enumeration (Project)
 
 Contains constants that specify the files to save.
 

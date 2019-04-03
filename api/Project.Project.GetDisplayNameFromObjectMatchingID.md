@@ -1,5 +1,5 @@
 ---
-title: Project.GetDisplayNameFromObjectMatchingID Method (Project)
+title: Project.GetDisplayNameFromObjectMatchingID method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.GetDisplayNameFromObjectMatchingID
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.GetDisplayNameFromObjectMatchingID Method (Project)
+# Project.GetDisplayNameFromObjectMatchingID method (Project)
 
 Returns the display name of an object.
 
 
 ## Syntax
 
- _expression_. `GetDisplayNameFromObjectMatchingID`( `_ObjectType_`, `_MatchingID_` )
+_expression_. `GetDisplayNameFromObjectMatchingID`( `_ObjectType_`, `_MatchingID_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

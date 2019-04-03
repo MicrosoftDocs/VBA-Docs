@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AutoShapeType Property (PowerPoint)
+title: ShapeRange.AutoShapeType property (PowerPoint)
 keywords: vbapp10.chm548016
 f1_keywords:
 - vbapp10.chm548016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.AutoShapeType Property (PowerPoint)
+# ShapeRange.AutoShapeType property (PowerPoint)
 
 Returns or sets the shape type for the specified  **ShapeRange** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoShapeType`
+_expression_. `AutoShapeType`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
@@ -36,7 +36,7 @@ Use the  **Type** property of the **[ConnectorFormat](PowerPoint.ConnectorFormat
 
 ## Example
 
-This example replaces all 16-point stars with 32-point stars in  `myDocument`.
+This example replaces all 16-point stars with 32-point stars in  _myDocument_.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: Shape.AnimationSettings Property (PowerPoint)
+title: Shape.AnimationSettings property (PowerPoint)
 keywords: vbapp10.chm547047
 f1_keywords:
 - vbapp10.chm547047
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.AnimationSettings Property (PowerPoint)
+# Shape.AnimationSettings property (PowerPoint)
 
 Returns an  **[AnimationSettings](PowerPoint.AnimationSettings.md)** object that represents all the special effects you can apply to the animation of the specified shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `AnimationSettings`
+_expression_. `AnimationSettings`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

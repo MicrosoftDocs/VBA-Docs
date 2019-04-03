@@ -1,5 +1,5 @@
 ---
-title: ValidationIssues.ObjectType Property (Visio)
+title: ValidationIssues.ObjectType property (Visio)
 keywords: vis_sdr.chm18513960
 f1_keywords:
 - vis_sdr.chm18513960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssues.ObjectType Property (Visio)
+# ValidationIssues.ObjectType property (Visio)
 
 Returns  **visObjTypeValidationIssues**, the type of this object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a '[ValidationIssues](Visio.ValidationIssues.md)' object.
 

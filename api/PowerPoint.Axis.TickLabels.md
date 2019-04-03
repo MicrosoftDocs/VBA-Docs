@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabels Property (PowerPoint)
+title: Axis.TickLabels property (PowerPoint)
 keywords: vbapp10.chm682029
 f1_keywords:
 - vbapp10.chm682029
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.TickLabels Property (PowerPoint)
+# Axis.TickLabels property (PowerPoint)
 
 Returns the tick-mark labels for the specified axis. Read-only  **[TickLabels](PowerPoint.TickLabels.md)**.
 
 
 ## Syntax
 
- _expression_. `TickLabels`
+_expression_. `TickLabels`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

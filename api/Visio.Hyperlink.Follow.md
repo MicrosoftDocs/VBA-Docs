@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Follow Method (Visio)
+title: Hyperlink.Follow method (Visio)
 keywords: vis_sdr.chm15016290
 f1_keywords:
 - vis_sdr.chm15016290
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Follow Method (Visio)
+# Hyperlink.Follow method (Visio)
 
 Causes Microsoft Visio to navigate to a hyperlink.
 
 
 ## Syntax
 
- _expression_. `Follow`
+_expression_. `Follow`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BubbleScale Property (PowerPoint)
+title: ChartGroup.BubbleScale property (PowerPoint)
 keywords: vbapp10.chm692008
 f1_keywords:
 - vbapp10.chm692008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.BubbleScale Property (PowerPoint)
+# ChartGroup.BubbleScale property (PowerPoint)
 
 Returns or sets the scale factor for bubbles in the specified chart group. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `BubbleScale`
+_expression_. `BubbleScale`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Folders.GetPrevious Method (Outlook)
+title: Folders.GetPrevious method (Outlook)
 keywords: vbaol11.chm50
 f1_keywords:
 - vbaol11.chm50
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.GetPrevious Method (Outlook)
+# Folders.GetPrevious method (Outlook)
 
 Returns the previous object in the  **[Folders](Outlook.Folders.md)** collection.
 
@@ -21,7 +21,7 @@ Returns the previous object in the  **[Folders](Outlook.Folders.md)** collection
 
 _expression_. `GetPrevious`
 
-_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Return value

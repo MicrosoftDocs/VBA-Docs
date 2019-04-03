@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.MouseMove Event (Outlook)
+title: OlkContactPhoto.MouseMove event (Outlook)
 keywords: vbaol11.chm1000314
 f1_keywords:
 - vbaol11.chm1000314
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.MouseMove Event (Outlook)
+# OlkContactPhoto.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
@@ -21,7 +21,7 @@ Occurs after a mouse movement has been registered over the control.
 
 _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
-_expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactPhoto.md) object.
 
 
 ## Parameters

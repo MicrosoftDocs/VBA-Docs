@@ -1,5 +1,5 @@
 ---
-title: Resource.ActualCost Property (Project)
+title: Resource.ActualCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.ActualCost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.ActualCost Property (Project)
+# Resource.ActualCost property (Project)
 
 Gets the current actual cost for the resource on the project. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualCost`
+_expression_. `ActualCost`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

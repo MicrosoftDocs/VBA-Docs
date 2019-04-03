@@ -1,5 +1,5 @@
 ---
-title: PjYesNoAutomatic Enumeration (Project)
+title: PjYesNoAutomatic enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjYesNoAutomatic
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjYesNoAutomatic Enumeration (Project)
+# PjYesNoAutomatic enumeration (Project)
 
 Contains constants that specify Yes, No, or Automatic.
 

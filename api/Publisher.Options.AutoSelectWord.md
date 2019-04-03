@@ -1,5 +1,5 @@
 ---
-title: Options.AutoSelectWord Property (Publisher)
+title: Options.AutoSelectWord property (Publisher)
 keywords: vbapb10.chm1048581
 f1_keywords:
 - vbapb10.chm1048581
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.AutoSelectWord Property (Publisher)
+# Options.AutoSelectWord property (Publisher)
 
  **True** for Microsoft Publisher to automatically select the entire word when selecting text. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **AutoSelectWord**
+ _expression_.**AutoSelectWord**
 
  _expression_ A variable that represents an  **Options** object.
 

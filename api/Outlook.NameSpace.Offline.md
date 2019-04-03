@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Offline Property (Outlook)
+title: NameSpace.Offline property (Outlook)
 keywords: vbaol11.chm773
 f1_keywords:
 - vbaol11.chm773
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Offline Property (Outlook)
+# NameSpace.Offline property (Outlook)
 
 Returns a  **Boolean** indicating **True** if Outlook is offline (not connected to an Exchange server), and **False** if online (connected to an Exchange server). Read-only.
 

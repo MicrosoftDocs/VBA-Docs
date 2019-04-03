@@ -1,5 +1,5 @@
 ---
-title: ColorEffect.By Property (PowerPoint)
+title: ColorEffect.By property (PowerPoint)
 keywords: vbapp10.chm659003
 f1_keywords:
 - vbapp10.chm659003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorEffect.By Property (PowerPoint)
+# ColorEffect.By property (PowerPoint)
 
 Returns a  **ColorFormat** object that represents a change to the color of the object by the specified number, expressed in RGB format. Read-only.
 
 
 ## Syntax
 
- _expression_. `By`
+_expression_. `By`
 
 _expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
 

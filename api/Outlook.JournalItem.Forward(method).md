@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Forward Method (Outlook)
+title: JournalItem.Forward method (Outlook)
 keywords: vbaol11.chm1275
 f1_keywords:
 - vbaol11.chm1275
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Forward Method (Outlook)
+# JournalItem.Forward method (Outlook)
 
 Executes the  **Forward** action for an item and returns the resulting copy as a **[MailItem](Outlook.MailItem.md)** object.
 
@@ -21,7 +21,7 @@ Executes the  **Forward** action for an item and returns the resulting copy as a
 
 _expression_. `Forward`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Return value

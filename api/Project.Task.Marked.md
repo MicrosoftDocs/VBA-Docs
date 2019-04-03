@@ -1,5 +1,5 @@
 ---
-title: Task.Marked Property (Project)
+title: Task.Marked property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Marked
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Marked Property (Project)
+# Task.Marked property (Project)
 
  **True** if the task is marked for further action of some kind. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Marked`
+_expression_. `Marked`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

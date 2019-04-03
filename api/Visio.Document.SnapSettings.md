@@ -1,5 +1,5 @@
 ---
-title: Document.SnapSettings Property (Visio)
+title: Document.SnapSettings property (Visio)
 keywords: vis_sdr.chm10550890
 f1_keywords:
 - vis_sdr.chm10550890
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.SnapSettings Property (Visio)
+# Document.SnapSettings property (Visio)
 
 Determines the objects that shapes snap to when snap is active in the document. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapSettings`
+_expression_. `SnapSettings`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

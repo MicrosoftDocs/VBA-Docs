@@ -1,5 +1,5 @@
 ---
-title: Selection.ContainingMaster Property (Visio)
+title: Selection.ContainingMaster property (Visio)
 keywords: vis_sdr.chm11113300
 f1_keywords:
 - vis_sdr.chm11113300
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.ContainingMaster Property (Visio)
+# Selection.ContainingMaster property (Visio)
 
 Returns the  **Master** object that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingMaster`
+_expression_. `ContainingMaster`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

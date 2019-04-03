@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.GetAssociatedTask Method (Outlook)
+title: TaskRequestDeclineItem.GetAssociatedTask method (Outlook)
 keywords: vbaol11.chm1857
 f1_keywords:
 - vbaol11.chm1857
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.GetAssociatedTask Method (Outlook)
+# TaskRequestDeclineItem.GetAssociatedTask method (Outlook)
 
 Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the requested task.
 
@@ -21,7 +21,7 @@ Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the reques
 
 _expression_. `GetAssociatedTask`( `_AddToTaskList_` )
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

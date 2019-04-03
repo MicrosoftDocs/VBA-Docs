@@ -1,5 +1,5 @@
 ---
-title: Ruler.Application Property (PowerPoint)
+title: Ruler.Application property (PowerPoint)
 keywords: vbapp10.chm570001
 f1_keywords:
 - vbapp10.chm570001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Ruler.Application Property (PowerPoint)
+# Ruler.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

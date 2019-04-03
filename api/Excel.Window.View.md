@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Window.View property (Excel)
 
-Returns or sets the view showing in the window. Read/write  **[xlWindowView](Excel.XlWindowView.md)**.
+Returns or sets the view showing in the window. Read/write  **[XlWindowView](Excel.XlWindowView.md)**.
 
 
 ## Syntax
 
 _expression_. `View`
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks

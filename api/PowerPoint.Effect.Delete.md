@@ -1,5 +1,5 @@
 ---
-title: Effect.Delete Method (PowerPoint)
+title: Effect.Delete method (PowerPoint)
 keywords: vbapp10.chm652007
 f1_keywords:
 - vbapp10.chm652007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.Delete Method (PowerPoint)
+# Effect.Delete method (PowerPoint)
 
 Deletes the specified  **Effect** object.
 

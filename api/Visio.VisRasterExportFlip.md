@@ -1,5 +1,5 @@
 ---
-title: VisRasterExportFlip Enumeration (Visio)
+title: VisRasterExportFlip enumeration (Visio)
 keywords: vis_sdr.chm70745
 f1_keywords:
 - vis_sdr.chm70745
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRasterExportFlip Enumeration (Visio)
+# VisRasterExportFlip enumeration (Visio)
 
 
 

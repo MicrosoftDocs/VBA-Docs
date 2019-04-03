@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Height Property (PowerPoint)
+title: DocumentWindow.Height property (PowerPoint)
 keywords: vbapp10.chm511014
 f1_keywords:
 - vbapp10.chm511014
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.Height Property (PowerPoint)
+# DocumentWindow.Height property (PowerPoint)
 
 Returns or sets the height of the specified object, in points. Read/write.
 

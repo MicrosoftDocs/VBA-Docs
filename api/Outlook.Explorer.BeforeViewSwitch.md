@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeViewSwitch Event (Outlook)
+title: Explorer.BeforeViewSwitch event (Outlook)
 keywords: vbaol11.chm453
 f1_keywords:
 - vbaol11.chm453
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.BeforeViewSwitch Event (Outlook)
+# Explorer.BeforeViewSwitch event (Outlook)
 
 Occurs before the explorer changes to a new view, either as a result of user action or through program code. 
 
@@ -21,7 +21,7 @@ Occurs before the explorer changes to a new view, either as a result of user act
 
 _expression_. `BeforeViewSwitch`( `_NewView_` , `_Cancel_` )
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters

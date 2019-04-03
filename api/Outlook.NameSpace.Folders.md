@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Folders Property (Outlook)
+title: NameSpace.Folders property (Outlook)
 keywords: vbaol11.chm757
 f1_keywords:
 - vbaol11.chm757
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Folders Property (Outlook)
+# NameSpace.Folders property (Outlook)
 
 Returns the  **[Folders](Outlook.Folders.md)** collection that represents all the folders contained in the specified **[NameSpace](Outlook.NameSpace.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[Folders](Outlook.Folders.md)** collection that represents all th
 
 _expression_. `Folders`
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Remarks

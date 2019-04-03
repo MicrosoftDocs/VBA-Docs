@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.EntryEffect Property (PowerPoint)
+title: SlideShowTransition.EntryEffect property (PowerPoint)
 keywords: vbapp10.chm539006
 f1_keywords:
 - vbapp10.chm539006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition.EntryEffect Property (PowerPoint)
+# SlideShowTransition.EntryEffect property (PowerPoint)
 
 Returns or sets the special effect applied to the specified slide transition. Read/write.
 
 
 ## Syntax
 
- _expression_. `EntryEffect`
+_expression_. `EntryEffect`
 
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 

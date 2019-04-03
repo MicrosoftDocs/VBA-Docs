@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.IncrementOffsetX Method (Publisher)
+title: ShadowFormat.IncrementOffsetX method (Publisher)
 keywords: vbapb10.chm3670032
 f1_keywords:
 - vbapb10.chm3670032
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.IncrementOffsetX Method (Publisher)
+# ShadowFormat.IncrementOffsetX method (Publisher)
 
 Incrementally changes the horizontal offset of the shadow by the specified distance.
 
 
 ## Syntax
 
- _expression_. **IncrementOffsetX**(**_Increment_**)
+ _expression_.**IncrementOffsetX**(**_Increment_**)
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Path.Closed Property (Visio)
+title: Path.Closed property (Visio)
 keywords: vis_sdr.chm15413250
 f1_keywords:
 - vis_sdr.chm15413250
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Path.Closed Property (Visio)
+# Path.Closed property (Visio)
 
 Determines if an object is closed (that is, if its begin point coincides with its endpoint). Read-only.
 
 
 ## Syntax
 
- _expression_. `Closed`
+_expression_. `Closed`
 
  _expression_ A variable that represents a [Path](./Visio.Path.md) object.
 

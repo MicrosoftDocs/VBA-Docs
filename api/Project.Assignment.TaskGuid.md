@@ -1,5 +1,5 @@
 ---
-title: Assignment.TaskGuid Property (Project)
+title: Assignment.TaskGuid property (Project)
 keywords: vbapj.chm132708
 f1_keywords:
 - vbapj.chm132708
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.TaskGuid Property (Project)
+# Assignment.TaskGuid property (Project)
 
 Gets the GUID of the task for the assignment. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `TaskGuid`
+_expression_. `TaskGuid`
 
  _expression_ An expression that returns an [Assignment](./Project.Assignment.md) object.
 

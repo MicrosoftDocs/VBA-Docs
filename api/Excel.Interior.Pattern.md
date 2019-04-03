@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Interior.Pattern property (Excel)
 
-Returns or sets a  **Variant** value, containing an **[xlPattern](Excel.XlPattern.md)** constant, that represents the interior pattern.
+Returns or sets a  **Variant** value, containing an **[XlPattern](Excel.XlPattern.md)** constant, that represents the interior pattern.
 
 
 ## Syntax

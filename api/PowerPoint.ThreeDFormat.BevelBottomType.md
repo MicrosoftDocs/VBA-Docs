@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelBottomType Property (PowerPoint)
+title: ThreeDFormat.BevelBottomType property (PowerPoint)
 keywords: vbapp10.chm557028
 f1_keywords:
 - vbapp10.chm557028
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.BevelBottomType Property (PowerPoint)
+# ThreeDFormat.BevelBottomType property (PowerPoint)
 
 Returns or set the bottom bevel type. Read/write.
 
 
 ## Syntax
 
- _expression_. `BevelBottomType`
+_expression_. `BevelBottomType`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

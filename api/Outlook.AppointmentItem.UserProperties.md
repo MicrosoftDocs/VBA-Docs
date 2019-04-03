@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.UserProperties Property (Outlook)
+title: AppointmentItem.UserProperties property (Outlook)
 keywords: vbaol11.chm867
 f1_keywords:
 - vbaol11.chm867
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.UserProperties Property (Outlook)
+# AppointmentItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 _expression_. `UserProperties`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

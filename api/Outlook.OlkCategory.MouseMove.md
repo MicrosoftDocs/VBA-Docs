@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.MouseMove Event (Outlook)
+title: OlkCategory.MouseMove event (Outlook)
 keywords: vbaol11.chm1000452
 f1_keywords:
 - vbaol11.chm1000452
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.MouseMove Event (Outlook)
+# OlkCategory.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
@@ -21,7 +21,7 @@ Occurs after a mouse movement has been registered over the control.
 
 _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
-_expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## Parameters

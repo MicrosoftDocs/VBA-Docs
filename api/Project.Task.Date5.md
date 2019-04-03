@@ -1,5 +1,5 @@
 ---
-title: Task.Date5 Property (Project)
+title: Task.Date5 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Date5
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Date5 Property (Project)
+# Task.Date5 property (Project)
 
 Gets or sets the value of the  **Date5** custom field for the task. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Date5`
+_expression_. `Date5`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

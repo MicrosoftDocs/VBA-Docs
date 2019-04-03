@@ -1,5 +1,5 @@
 ---
-title: Page.LayoutChangeDirection Method (Visio)
+title: Page.LayoutChangeDirection method (Visio)
 keywords: vis_sdr.chm10962145
 f1_keywords:
 - vis_sdr.chm10962145
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.LayoutChangeDirection Method (Visio)
+# Page.LayoutChangeDirection method (Visio)
 
 Revises the layout of a set of connected shapes on the page, by rotating or flipping a connected diagram without rotating or flipping the individual shapes.
 
 
 ## Syntax
 
- _expression_. `LayoutChangeDirection`( `_Direction_` )
+_expression_. `LayoutChangeDirection`( `_Direction_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

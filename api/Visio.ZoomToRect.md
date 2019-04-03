@@ -16,9 +16,9 @@ Zooms to display a rectangular section, specified by the parameters, of the draw
 
 ## Syntax
 
- _expression_. **ZoomToRect**(**_Left_**,  **_Top_**,  **_Right_**,  **_Bottom_**)
+_expression_.**ZoomToRect** (_Left_,  _Top_,  _Right_,  _Bottom_)
 
- _expression_An expression that returns a  **Viewer** object.
+_expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

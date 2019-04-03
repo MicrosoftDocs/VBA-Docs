@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Read Event (Outlook)
+title: JournalItem.Read event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Read
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Read Event (Outlook)
+# JournalItem.Read event (Outlook)
 
 Occurs when an instance of the parent object is opened for editing by the user. 
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
 _expression_. `Read`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

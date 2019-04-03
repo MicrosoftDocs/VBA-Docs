@@ -1,5 +1,5 @@
 ---
-title: CustomerData.Parent Property (PowerPoint)
+title: CustomerData.Parent property (PowerPoint)
 keywords: vbapp10.chm675002
 f1_keywords:
 - vbapp10.chm675002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomerData.Parent Property (PowerPoint)
+# CustomerData.Parent property (PowerPoint)
 
 Returns the parent object of the specified  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 

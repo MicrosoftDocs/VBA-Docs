@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelTopInset Property (PowerPoint)
+title: ThreeDFormat.BevelTopInset property (PowerPoint)
 keywords: vbapp10.chm557026
 f1_keywords:
 - vbapp10.chm557026
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.BevelTopInset Property (PowerPoint)
+# ThreeDFormat.BevelTopInset property (PowerPoint)
 
 Returns or sets the top bevel inset for the specified  **ThreeDFormat** object, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `BevelTopInset`
+_expression_. `BevelTopInset`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

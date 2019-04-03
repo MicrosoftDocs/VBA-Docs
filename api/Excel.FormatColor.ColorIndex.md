@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormatColor.ColorIndex property (Excel)
 
-Returns or sets one of the constants of the  **[xlColorIndex](Excel.XlColorIndex.md)** enumeration, specifying if the fill color is expressed as an index value into the current color palette.
+Returns or sets one of the constants of the  **[XlColorIndex](Excel.XlColorIndex.md)** enumeration, specifying if the fill color is expressed as an index value into the current color palette.
 
 
 ## Syntax

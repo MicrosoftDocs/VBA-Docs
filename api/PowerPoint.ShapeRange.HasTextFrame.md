@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HasTextFrame Property (PowerPoint)
+title: ShapeRange.HasTextFrame property (PowerPoint)
 keywords: vbapp10.chm548055
 f1_keywords:
 - vbapp10.chm548055
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.HasTextFrame Property (PowerPoint)
+# ShapeRange.HasTextFrame property (PowerPoint)
 
 Returns whether the specified shape has a text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasTextFrame`
+_expression_. `HasTextFrame`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

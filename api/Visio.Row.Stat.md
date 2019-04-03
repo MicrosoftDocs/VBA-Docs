@@ -1,5 +1,5 @@
 ---
-title: Row.Stat Property (Visio)
+title: Row.Stat property (Visio)
 keywords: vis_sdr.chm15814420
 f1_keywords:
 - vis_sdr.chm15814420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.Stat Property (Visio)
+# Row.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

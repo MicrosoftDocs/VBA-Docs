@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.GroupName Property (Outlook)
+title: OlkOptionButton.GroupName property (Outlook)
 keywords: vbaol11.chm1000172
 f1_keywords:
 - vbaol11.chm1000172
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.GroupName Property (Outlook)
+# OlkOptionButton.GroupName property (Outlook)
 
 Returns or sets a  **String** that identifies a group of mutually exclusive option button controls. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** that identifies a group of mutually exclusive opti
 
 _expression_. `GroupName`
 
-_expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](Outlook.OlkOptionButton.md) object.
 
 
 ## Remarks

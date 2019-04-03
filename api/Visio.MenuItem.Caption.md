@@ -1,5 +1,5 @@
 ---
-title: MenuItem.Caption Property (Visio)
+title: MenuItem.Caption property (Visio)
 keywords: vis_sdr.chm12913170
 f1_keywords:
 - vis_sdr.chm12913170
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.Caption Property (Visio)
+# MenuItem.Caption property (Visio)
 
 Gets or sets the caption for a menu item. Read/write.
 

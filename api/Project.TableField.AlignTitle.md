@@ -1,5 +1,5 @@
 ---
-title: TableField.AlignTitle Property (Project)
+title: TableField.AlignTitle property (Project)
 keywords: vbapj.chm132684
 f1_keywords:
 - vbapj.chm132684
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TableField.AlignTitle Property (Project)
+# TableField.AlignTitle property (Project)
 
 Gets or sets the alignment of the title in a table field. Read/write  **PjAlignment**.
 
 
 ## Syntax
 
- _expression_. `AlignTitle`
+_expression_. `AlignTitle`
 
  _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 

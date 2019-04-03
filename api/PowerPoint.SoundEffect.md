@@ -1,5 +1,5 @@
 ---
-title: SoundEffect Object (PowerPoint)
+title: SoundEffect object (PowerPoint)
 keywords: vbapp10.chm540000
 f1_keywords:
 - vbapp10.chm540000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SoundEffect Object (PowerPoint)
+# SoundEffect object (PowerPoint)
 
 Represents the sound effect that accompanies an animation or slide transition in a slide show.
 

@@ -1,5 +1,5 @@
 ---
-title: Recipient.Delete Method (Outlook)
+title: Recipient.Delete method (Outlook)
 keywords: vbaol11.chm2356
 f1_keywords:
 - vbaol11.chm2356
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Delete Method (Outlook)
+# Recipient.Delete method (Outlook)
 
 Deletes an object from the collection.
 
@@ -21,7 +21,7 @@ Deletes an object from the collection.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## See also

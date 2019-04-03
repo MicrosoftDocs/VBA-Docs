@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat Object (PowerPoint)
+title: TextEffectFormat object (PowerPoint)
 keywords: vbapp10.chm556000
 f1_keywords:
 - vbapp10.chm556000
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat Object (PowerPoint)
+# TextEffectFormat object (PowerPoint)
 
 Contains properties and methods that apply to WordArt objects.
 
 
 ## Example
 
-Use the  **TextEffect** property to return a **TextEffectFormat** object. The following example sets the font name and formatting for shape one on `myDocument`. For this example to work, shape one must be a WordArt object.
+Use the  **TextEffect** property to return a **TextEffectFormat** object. The following example sets the font name and formatting for shape one on _myDocument_. For this example to work, shape one must be a WordArt object.
 
 
 ```vb

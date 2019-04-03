@@ -1,5 +1,5 @@
 ---
-title: ViewCombination.Delete Method (Project)
+title: ViewCombination.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewCombination.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewCombination.Delete Method (Project)
+# ViewCombination.Delete method (Project)
 
 Deletes the  **ViewCombination** object from a **ViewsCombination** collection.
 

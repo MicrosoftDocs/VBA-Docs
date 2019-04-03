@@ -1,5 +1,5 @@
 ---
-title: Walls.Paste Method (PowerPoint)
+title: Walls.Paste method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.Paste
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Walls.Paste Method (PowerPoint)
+# Walls.Paste method (PowerPoint)
 
 Pastes a picture from the Clipboard on the walls of the specified chart. 
 
 
 ## Syntax
 
- _expression_. `Paste`
+_expression_. `Paste`
 
  _expression_ A variable that represents a '[Walls](PowerPoint.Walls.md)' object.
 

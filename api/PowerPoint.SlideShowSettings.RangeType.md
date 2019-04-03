@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.RangeType Property (PowerPoint)
+title: SlideShowSettings.RangeType property (PowerPoint)
 keywords: vbapp10.chm514014
 f1_keywords:
 - vbapp10.chm514014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowSettings.RangeType Property (PowerPoint)
+# SlideShowSettings.RangeType property (PowerPoint)
 
 Returns or sets the type of slide show to run. Read/write.
 
 
 ## Syntax
 
- _expression_. `RangeType`
+_expression_. `RangeType`
 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 

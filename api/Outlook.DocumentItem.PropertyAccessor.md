@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.PropertyAccessor Property (Outlook)
+title: DocumentItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1225
 f1_keywords:
 - vbaol11.chm1225
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.PropertyAccessor Property (Outlook)
+# DocumentItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[DocumentItem](Outlook.DocumentItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## See also

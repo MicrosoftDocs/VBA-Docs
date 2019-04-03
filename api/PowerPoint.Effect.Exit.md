@@ -1,5 +1,5 @@
 ---
-title: Effect.Exit Property (PowerPoint)
+title: Effect.Exit property (PowerPoint)
 keywords: vbapp10.chm652016
 f1_keywords:
 - vbapp10.chm652016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Effect.Exit Property (PowerPoint)
+# Effect.Exit property (PowerPoint)
 
 Determines whether the animation effect is an exit effect. Read/write.
 
 
 ## Syntax
 
- _expression_. `Exit`
+_expression_. `Exit`
 
 _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Inspectors.NewInspector Event (Outlook)
+title: Inspectors.NewInspector event (Outlook)
 keywords: vbaol11.chm312
 f1_keywords:
 - vbaol11.chm312
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspectors.NewInspector Event (Outlook)
+# Inspectors.NewInspector event (Outlook)
 
 Occurs whenever a new inspector window is opened, either as a result of user action or through program code. 
 
@@ -21,7 +21,7 @@ Occurs whenever a new inspector window is opened, either as a result of user act
 
 _expression_. `NewInspector`( `_Inspector_` )
 
-_expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
+_expression_ A variable that represents an [Inspectors](Outlook.Inspectors.md) object.
 
 
 ## Parameters

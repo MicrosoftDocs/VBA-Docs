@@ -1,5 +1,5 @@
 ---
-title: Application.FormatResult Method (Visio)
+title: Application.FormatResult method (Visio)
 keywords: vis_sdr.chm10016300
 f1_keywords:
 - vis_sdr.chm10016300
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.FormatResult Method (Visio)
+# Application.FormatResult method (Visio)
 
 Formats a string or number into a string according to a format picture. Uses specified units for scaling and formatting.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.TaskDueDate Property (Outlook)
+title: PostItem.TaskDueDate property (Outlook)
 keywords: vbaol11.chm1572
 f1_keywords:
 - vbaol11.chm1572
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.TaskDueDate Property (Outlook)
+# PostItem.TaskDueDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the due date of the task for this **[PostItem](Outlook.PostItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the due date of the task for t
 
 _expression_. `TaskDueDate`
 
- _expression_ An expression that returns a [PostItem](./Outlook.PostItem.md) object.
+ _expression_ An expression that returns a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

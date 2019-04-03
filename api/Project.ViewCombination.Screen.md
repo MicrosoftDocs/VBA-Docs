@@ -1,5 +1,5 @@
 ---
-title: ViewCombination.Screen Property (Project)
+title: ViewCombination.Screen property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewCombination.Screen
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ViewCombination.Screen Property (Project)
+# ViewCombination.Screen property (Project)
 
 Gets the screen type for the combination view. Read-only  **PjViewScreen**.
 
 
 ## Syntax
 
- _expression_. `Screen`
+_expression_. `Screen`
 
  _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 

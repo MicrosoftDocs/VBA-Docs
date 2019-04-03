@@ -1,5 +1,5 @@
 ---
-title: AccelItems.Count Property (Visio)
+title: AccelItems.Count property (Visio)
 keywords: vis_sdr.chm14613330
 f1_keywords:
 - vis_sdr.chm14613330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelItems.Count Property (Visio)
+# AccelItems.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

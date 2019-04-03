@@ -1,5 +1,5 @@
 ---
-title: PjSaveType Enumeration (Project)
+title: PjSaveType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjSaveType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjSaveType Enumeration (Project)
+# PjSaveType enumeration (Project)
 
 Contains constants that specify save behavior.
 

@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Class Property (Outlook)
+title: NoteItem.Class property (Outlook)
 keywords: vbaol11.chm1474
 f1_keywords:
 - vbaol11.chm1474
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.Class Property (Outlook)
+# NoteItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Inserts the specified number of new rows above the row that contains the selecti
 
 ## Syntax
 
- _expression_. `InsertRows`( `_NumRows_` )
+_expression_. `InsertRows`( `_NumRows_` )
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

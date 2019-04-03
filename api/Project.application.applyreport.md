@@ -1,5 +1,5 @@
 ---
-title: Application.ApplyReport Method (Project)
+title: Application.ApplyReport method (Project)
 keywords: vbapj.chm2198
 f1_keywords:
 - vbapj.chm2198
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Application.ApplyReport Method (Project)
+# Application.ApplyReport method (Project)
 Displays the specified report.
 
 ## Syntax
 
- _expression_. `ApplyReport` _(Name,_ _ApplyTo)_
+_expression_. `ApplyReport` _(Name,_ _ApplyTo)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

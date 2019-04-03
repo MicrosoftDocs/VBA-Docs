@@ -1,5 +1,5 @@
 ---
-title: PublishObjects Object (PowerPoint)
+title: PublishObjects object (PowerPoint)
 keywords: vbapp10.chm634000
 f1_keywords:
 - vbapp10.chm634000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PublishObjects Object (PowerPoint)
+# PublishObjects object (PowerPoint)
 
 A collection of  **[PublishObject](PowerPoint.PublishObject.md)** objects representing the set of complete or partial loaded presentations that are available for publishing to HTML.
 

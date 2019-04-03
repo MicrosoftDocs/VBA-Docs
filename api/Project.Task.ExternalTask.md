@@ -1,5 +1,5 @@
 ---
-title: Task.ExternalTask Property (Project)
+title: Task.ExternalTask property (Project)
 keywords: vbapj.chm132236
 f1_keywords:
 - vbapj.chm132236
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.ExternalTask Property (Project)
+# Task.ExternalTask property (Project)
 
  **True** if the task is actually a placeholder for a task in another project. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `ExternalTask`
+_expression_. `ExternalTask`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

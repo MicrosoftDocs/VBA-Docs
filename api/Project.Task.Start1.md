@@ -1,5 +1,5 @@
 ---
-title: Task.Start1 Property (Project)
+title: Task.Start1 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Start1
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Start1 Property (Project)
+# Task.Start1 property (Project)
 
 Gets or sets a Start local custom field for the task. Read-only for summary tasks. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Start1`
+_expression_. `Start1`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

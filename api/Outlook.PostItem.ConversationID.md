@@ -1,5 +1,5 @@
 ---
-title: PostItem.ConversationID Property (Outlook)
+title: PostItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3473
 f1_keywords:
 - vbaol11.chm3473
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ConversationID Property (Outlook)
+# PostItem.ConversationID property (Outlook)
 
 Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[PostItem](Outlook.PostItem.md)** object belongs to. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conver
 
 _expression_. `ConversationID`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

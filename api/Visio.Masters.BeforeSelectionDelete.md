@@ -1,5 +1,5 @@
 ---
-title: Masters.BeforeSelectionDelete Event (Visio)
+title: Masters.BeforeSelectionDelete event (Visio)
 keywords: vis_sdr.chm10819060
 f1_keywords:
 - vis_sdr.chm10819060
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Masters.BeforeSelectionDelete Event (Visio)
+# Masters.BeforeSelectionDelete event (Visio)
 
 Occurs before selected objects are deleted.
 

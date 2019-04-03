@@ -1,5 +1,5 @@
 ---
-title: PjResourceGraphPattern Enumeration (Project)
+title: PjResourceGraphPattern enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResourceGraphPattern
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjResourceGraphPattern Enumeration (Project)
+# PjResourceGraphPattern enumeration (Project)
 
 Contains constants that specify the pattern of a resource graph.
 

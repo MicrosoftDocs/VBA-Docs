@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyAutoFormat Method (Publisher)
+title: Table.ApplyAutoFormat method (Publisher)
 keywords: vbapb10.chm4784137
 f1_keywords:
 - vbapb10.chm4784137
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.ApplyAutoFormat Method (Publisher)
+# Table.ApplyAutoFormat method (Publisher)
 
 Applies automatic built-in table formatting to a specified table.
 
 
 ## Syntax
 
- _expression_. **ApplyAutoFormat**(**_AutoFormat_**,  **_TextFormatting_**,  **_TextAlignment_**,  **_Fill_**,  **_Borders_**)
+ _expression_.**ApplyAutoFormat**(**_AutoFormat_**,  **_TextFormatting_**,  **_TextAlignment_**,  **_Fill_**,  **_Borders_**)
 
  _expression_ A variable that represents a  **Table** object.
 

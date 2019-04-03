@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.Application Property (Outlook)
+title: SelectNamesDialog.Application property (Outlook)
 keywords: vbaol11.chm821
 f1_keywords:
 - vbaol11.chm821
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.Application Property (Outlook)
+# SelectNamesDialog.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## See also

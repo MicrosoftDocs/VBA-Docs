@@ -1,5 +1,5 @@
 ---
-title: Shape.Master Property (Visio)
+title: Shape.Master property (Visio)
 keywords: vis_sdr.chm11213870
 f1_keywords:
 - vis_sdr.chm11213870
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Master Property (Visio)
+# Shape.Master property (Visio)
 
 Returns the master from which the  **Shape** object was created. Read-only.
 
 
 ## Syntax
 
- _expression_. `Master`
+_expression_. `Master`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

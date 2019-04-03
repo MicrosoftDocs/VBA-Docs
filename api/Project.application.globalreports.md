@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalReports Property (Project)
+title: Application.GlobalReports property (Project)
 ms.prod: project-server
 ms.assetid: 736be78c-2571-b07f-369c-845a06f9d1f9
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalReports Property (Project)
+# Application.GlobalReports property (Project)
 Gets the collection of global (built-in) reports. Read-only  **Reports**.
 
 ## Syntax
 
- _expression_. `GlobalReports`
+_expression_. `GlobalReports`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

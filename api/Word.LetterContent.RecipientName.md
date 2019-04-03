@@ -19,7 +19,7 @@ Returns or sets the name of the person who'll be receiving the letter created by
 
 ## Syntax
 
- _expression_. `RecipientName`
+_expression_. `RecipientName`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 

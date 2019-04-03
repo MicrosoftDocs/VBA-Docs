@@ -19,7 +19,7 @@ Extends the selection forward until a paragraph with different tab stops is enco
 
 ## Syntax
 
- _expression_. `SelectCurrentTabs`
+_expression_. `SelectCurrentTabs`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

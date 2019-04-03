@@ -1,5 +1,5 @@
 ---
-title: Application.ViewApplyEx Method (Project)
+title: Application.ViewApplyEx method (Project)
 keywords: vbapj.chm311
 f1_keywords:
 - vbapj.chm311
@@ -12,13 +12,13 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewApplyEx Method (Project)
+# Application.ViewApplyEx method (Project)
 
 Applies a view to the active window, where the change can be one of the built-in views and can be applied to a specified pane in a split view.
 
 ## Syntax
 
-_expression_. **ViewApplyEx** (**_Name_**, **_SinglePane_**, **_Toggle_**, **_ApplyTo_**, **_BuiltInView_**)
+_expression_.**ViewApplyEx** (**_Name_**, **_SinglePane_**, **_Toggle_**, **_ApplyTo_**, **_BuiltInView_**)
 
 _expression_ An expression that returns an **Application** object.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.PropertyChange Event (Outlook)
+title: SharingItem.PropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.PropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.PropertyChange Event (Outlook)
+# SharingItem.PropertyChange event (Outlook)
 
 Occurs when an explicit built-in property (for example,  **[Subject](Outlook.SharingItem.Subject.md)**) of an instance of the parent object is changed.
 
@@ -18,7 +18,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.Sha
 
 _expression_. `PropertyChange`( `_Name_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

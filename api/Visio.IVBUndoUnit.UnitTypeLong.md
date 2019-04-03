@@ -1,5 +1,5 @@
 ---
-title: IVBUndoUnit.UnitTypeLong Property (Visio)
+title: IVBUndoUnit.UnitTypeLong property (Visio)
 keywords: vis_sdr.chm17360175
 f1_keywords:
 - vis_sdr.chm17360175
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# IVBUndoUnit.UnitTypeLong Property (Visio)
+# IVBUndoUnit.UnitTypeLong property (Visio)
 
 Identifies an undo unit by a  **Long**. Read-only.
 
 
 ## Syntax
 
- _expression_. `UnitTypeLong`
+_expression_. `UnitTypeLong`
 
  _expression_ A variable that represents a 'IVBUndoUnit' object.
 

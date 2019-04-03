@@ -1,5 +1,5 @@
 ---
-title: Effect.Parent Property (PowerPoint)
+title: Effect.Parent property (PowerPoint)
 keywords: vbapp10.chm652002
 f1_keywords:
 - vbapp10.chm652002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.Parent Property (PowerPoint)
+# Effect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

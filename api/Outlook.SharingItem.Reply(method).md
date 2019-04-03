@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Reply Method (Outlook)
+title: SharingItem.Reply method (Outlook)
 keywords: vbaol11.chm670
 f1_keywords:
 - vbaol11.chm670
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Reply Method (Outlook)
+# SharingItem.Reply method (Outlook)
 
 Creates a reply, pre-addressed to the original sender, from the original  **[SharingItem](Outlook.SharingItem.md)**.
 
@@ -21,7 +21,7 @@ Creates a reply, pre-addressed to the original sender, from the original  **[Sha
 
 _expression_. `Reply`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Return value

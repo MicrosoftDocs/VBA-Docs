@@ -1,5 +1,5 @@
 ---
-title: ChildDrivers.TotalDetectedCount Property (Project)
+title: ChildDrivers.TotalDetectedCount property (Project)
 ms.prod: project-server
 api_name:
 - Project.ChildDrivers.TotalDetectedCount
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ChildDrivers.TotalDetectedCount Property (Project)
+# ChildDrivers.TotalDetectedCount property (Project)
 
 Gets the total number of child task drivers that affect the dates of a task. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `TotalDetectedCount`
+_expression_. `TotalDetectedCount`
 
  _expression_ A variable that represents a 'ChildDrivers' object.
 

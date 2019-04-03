@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.SplitHorizontal Property (PowerPoint)
+title: DocumentWindow.SplitHorizontal property (PowerPoint)
 keywords: vbapp10.chm511025
 f1_keywords:
 - vbapp10.chm511025
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DocumentWindow.SplitHorizontal Property (PowerPoint)
+# DocumentWindow.SplitHorizontal property (PowerPoint)
 
 Returns or sets the percentage of the document window width that the outline pane occupies in normal view. Corresponds to the pane divider position between the slide and outline panes. Read/write.
 
 
 ## Syntax
 
- _expression_. `SplitHorizontal`
+_expression_. `SplitHorizontal`
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

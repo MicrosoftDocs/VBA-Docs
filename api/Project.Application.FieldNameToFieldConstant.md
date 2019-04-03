@@ -1,5 +1,5 @@
 ---
-title: Application.FieldNameToFieldConstant Method (Project)
+title: Application.FieldNameToFieldConstant method (Project)
 keywords: vbapj.chm131217
 f1_keywords:
 - vbapj.chm131217
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FieldNameToFieldConstant Method (Project)
+# Application.FieldNameToFieldConstant method (Project)
 
 Returns a  **Long** value for a local custom field or an enterprise custom field name.
 
 
 ## Syntax
 
- _expression_. `FieldNameToFieldConstant`( `_FieldName_`, `_FieldType_` )
+_expression_. `FieldNameToFieldConstant`( `_FieldName_`, `_FieldType_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PjLevelSelectedOption Enumeration (Project)
+title: PjLevelSelectedOption enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLevelSelectedOption
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLevelSelectedOption Enumeration (Project)
+# PjLevelSelectedOption enumeration (Project)
 
 Contains constants that specify the leveling option.
 

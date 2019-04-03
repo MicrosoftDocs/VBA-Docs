@@ -1,5 +1,5 @@
 ---
-title: Panes.Application Property (PowerPoint)
+title: Panes.Application property (PowerPoint)
 keywords: vbapp10.chm630001
 f1_keywords:
 - vbapp10.chm630001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Panes.Application Property (PowerPoint)
+# Panes.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

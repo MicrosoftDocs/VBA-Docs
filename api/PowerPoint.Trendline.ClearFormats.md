@@ -1,5 +1,5 @@
 ---
-title: Trendline.ClearFormats Method (PowerPoint)
+title: Trendline.ClearFormats method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.ClearFormats
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Trendline.ClearFormats Method (PowerPoint)
+# Trendline.ClearFormats method (PowerPoint)
 
 Clears the formatting of the object.
 
 
 ## Syntax
 
- _expression_. `ClearFormats`
+_expression_. `ClearFormats`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

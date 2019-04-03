@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.DimColor Property (PowerPoint)
+title: AnimationSettings.DimColor property (PowerPoint)
 keywords: vbapp10.chm565003
 f1_keywords:
 - vbapp10.chm565003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.DimColor Property (PowerPoint)
+# AnimationSettings.DimColor property (PowerPoint)
 
 Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color of the specified shape after it is been built. Read-only.
 
 
 ## Syntax
 
- _expression_. `DimColor`
+_expression_. `DimColor`
 
 _expression_ A variable that represents a [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

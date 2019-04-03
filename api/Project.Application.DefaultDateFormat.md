@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultDateFormat Property (Project)
+title: Application.DefaultDateFormat property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DefaultDateFormat
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DefaultDateFormat Property (Project)
+# Application.DefaultDateFormat property (Project)
 
 Gets or sets the default date format. Read/write  **PjDateFormat**.
 
 
 ## Syntax
 
- _expression_. `DefaultDateFormat`
+_expression_. `DefaultDateFormat`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Store.IsOpen Property (Outlook)
+title: Store.IsOpen property (Outlook)
 keywords: vbaol11.chm808
 f1_keywords:
 - vbaol11.chm808
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.IsOpen Property (Outlook)
+# Store.IsOpen property (Outlook)
 
 Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is open. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is op
 
 _expression_.**IsOpen**
 
-_expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 ## Remarks

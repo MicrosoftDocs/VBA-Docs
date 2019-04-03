@@ -1,5 +1,5 @@
 ---
-title: Event.Trigger Method (Visio)
+title: Event.Trigger method (Visio)
 keywords: vis_sdr.chm12651190
 f1_keywords:
 - vis_sdr.chm12651190
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Event.Trigger Method (Visio)
+# Event.Trigger method (Visio)
 
 Causes an event's action to be performed.
 
 
 ## Syntax
 
- _expression_. `Trigger`( `_ContextString_` )
+_expression_. `Trigger`( `_ContextString_` )
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 

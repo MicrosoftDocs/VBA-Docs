@@ -19,7 +19,7 @@ Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** constant
 
 ## Syntax
 
- _expression_. `RowSpacingRule`
+_expression_. `RowSpacingRule`
 
  _expression_ An expression that returns an '[OMathMat](Word.OMathMat.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.AddOnName Property (Visio)
+title: ToolbarItem.AddOnName property (Visio)
 keywords: vis_sdr.chm13513050
 f1_keywords:
 - vis_sdr.chm13513050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.AddOnName Property (Visio)
+# ToolbarItem.AddOnName property (Visio)
 
 Gets or sets the name of an add-on or procedure that is run when its associated toolbar button is clicked. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddOnName`
+_expression_. `AddOnName`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 

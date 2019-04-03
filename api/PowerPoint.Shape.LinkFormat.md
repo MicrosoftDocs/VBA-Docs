@@ -1,5 +1,5 @@
 ---
-title: Shape.LinkFormat Property (PowerPoint)
+title: Shape.LinkFormat property (PowerPoint)
 keywords: vbapp10.chm547045
 f1_keywords:
 - vbapp10.chm547045
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.LinkFormat Property (PowerPoint)
+# Shape.LinkFormat property (PowerPoint)
 
 Returns a  **[LinkFormat](PowerPoint.LinkFormat.md)** object that contains the properties that are unique to linked OLE objects. Read-only.
 
 
 ## Syntax
 
- _expression_. `LinkFormat`
+_expression_. `LinkFormat`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

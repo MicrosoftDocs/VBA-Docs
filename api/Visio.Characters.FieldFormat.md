@@ -1,5 +1,5 @@
 ---
-title: Characters.FieldFormat Property (Visio)
+title: Characters.FieldFormat property (Visio)
 keywords: vis_sdr.chm10213510
 f1_keywords:
 - vis_sdr.chm10213510
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.FieldFormat Property (Visio)
+# Characters.FieldFormat property (Visio)
 
 Returns the field format for a field represented by an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `FieldFormat`
+_expression_. `FieldFormat`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

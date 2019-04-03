@@ -1,5 +1,5 @@
 ---
-title: Application.AddProgressLine Method (Project)
+title: Application.AddProgressLine method (Project)
 keywords: vbapj.chm252
 f1_keywords:
 - vbapj.chm252
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AddProgressLine Method (Project)
+# Application.AddProgressLine method (Project)
 
 Enters interactive progress line mode, enabling the user to manually draw progress lines.
 
 
 ## Syntax
 
- _expression_. `AddProgressLine`
+_expression_. `AddProgressLine`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

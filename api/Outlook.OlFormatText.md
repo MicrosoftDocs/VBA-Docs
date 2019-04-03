@@ -1,5 +1,5 @@
 ---
-title: OlFormatText Enumeration (Outlook)
+title: OlFormatText enumeration (Outlook)
 keywords: vbaol11.chm3143
 f1_keywords:
 - vbaol11.chm3143
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlFormatText Enumeration (Outlook)
+# OlFormatText enumeration (Outlook)
 
 Indicates the format used to display text Outlook item properties.
 

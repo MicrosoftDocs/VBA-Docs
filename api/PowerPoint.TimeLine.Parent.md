@@ -1,5 +1,5 @@
 ---
-title: TimeLine.Parent Property (PowerPoint)
+title: TimeLine.Parent property (PowerPoint)
 keywords: vbapp10.chm649002
 f1_keywords:
 - vbapp10.chm649002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeLine.Parent Property (PowerPoint)
+# TimeLine.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

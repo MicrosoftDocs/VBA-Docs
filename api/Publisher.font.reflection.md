@@ -1,5 +1,5 @@
 ---
-title: Font.Reflection Property (Publisher)
+title: Font.Reflection property (Publisher)
 keywords: vbapb10.chm5374021
 f1_keywords:
 - vbapb10.chm5374021
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Reflection Property (Publisher)
+# Font.Reflection property (Publisher)
 
 Returns a  [ReflectionFormat](Publisher.reflectionformat.md) object that represents the reflection formatting for a shape. Read-only.
 
 
 ## Syntax
 
- _expression_. **Reflection**
+ _expression_.**Reflection**
 
  _expression_ A variable that represents a  **Font** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddPolyline Method (Publisher)
+title: Shapes.AddPolyline method (Publisher)
 keywords: vbapb10.chm2162711
 f1_keywords:
 - vbapb10.chm2162711
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddPolyline Method (Publisher)
+# Shapes.AddPolyline method (Publisher)
 
 Adds a new  **Shape** object representing an open polyline or a closed polygon to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddPolyline**(**_SafeArrayOfPoints_**)
+ _expression_.**AddPolyline**(**_SafeArrayOfPoints_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

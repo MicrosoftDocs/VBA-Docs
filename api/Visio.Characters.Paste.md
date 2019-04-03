@@ -1,5 +1,5 @@
 ---
-title: Characters.Paste Method (Visio)
+title: Characters.Paste method (Visio)
 keywords: vis_sdr.chm10251170
 f1_keywords:
 - vis_sdr.chm10251170
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.Paste Method (Visio)
+# Characters.Paste method (Visio)
 
 Pastes the text range on the Clipboard into an object.
 
 
 ## Syntax
 
- _expression_. `Paste`
+_expression_. `Paste`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

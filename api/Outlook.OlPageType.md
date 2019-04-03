@@ -1,5 +1,5 @@
 ---
-title: OlPageType Enumeration (Outlook)
+title: OlPageType enumeration (Outlook)
 keywords: vbaol11.chm1000030
 f1_keywords:
 - vbaol11.chm1000030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlPageType Enumeration (Outlook)
+# OlPageType enumeration (Outlook)
 
 Specifies the type of page displayed by a control.
 

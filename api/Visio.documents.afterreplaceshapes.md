@@ -1,5 +1,5 @@
 ---
-title: Documents.AfterReplaceShapes Event (Visio)
+title: Documents.AfterReplaceShapes event (Visio)
 ms.prod: visio
 ms.assetid: e01c069e-440b-7b8b-8d7d-cdb664f6e2d6
 ms.date: 06/08/2017
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# Documents.AfterReplaceShapes Event (Visio)
+# Documents.AfterReplaceShapes event (Visio)
 
 Occurs after a shape-replacement operation.
 
 
 ## Syntax
 
- _expression_. `AfterReplaceShapes`_(sel)_
+_expression_. `AfterReplaceShapes`_(sel)_
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

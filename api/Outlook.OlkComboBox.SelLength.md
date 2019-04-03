@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.SelLength Property (Outlook)
+title: OlkComboBox.SelLength property (Outlook)
 keywords: vbaol11.chm1000222
 f1_keywords:
 - vbaol11.chm1000222
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.SelLength Property (Outlook)
+# OlkComboBox.SelLength property (Outlook)
 
 Returns or sets a  **Long** that specifies the number of characters in the current selection. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that specifies the number of characters in the curre
 
 _expression_. `SelLength`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

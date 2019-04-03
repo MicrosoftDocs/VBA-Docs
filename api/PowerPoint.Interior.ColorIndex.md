@@ -1,5 +1,5 @@
 ---
-title: Interior.ColorIndex Property (PowerPoint)
+title: Interior.ColorIndex property (PowerPoint)
 keywords: vbapp10.chm707002
 f1_keywords:
 - vbapp10.chm707002
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# Interior.ColorIndex Property (PowerPoint)
+# Interior.ColorIndex property (PowerPoint)
 
 Returns or sets the color of the interior. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_. `ColorIndex`
 
  _expression_ A variable that represents an '[Interior](PowerPoint.Interior.md)' object.
 
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](PowerPoint.XlColorIndex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

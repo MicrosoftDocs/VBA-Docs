@@ -1,5 +1,5 @@
 ---
-title: StartDriver.EffectiveDateSubtract Property (Project)
+title: StartDriver.EffectiveDateSubtract property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.EffectiveDateSubtract
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.EffectiveDateSubtract Property (Project)
+# StartDriver.EffectiveDateSubtract property (Project)
 
 Gets the date and time that precedes another date by a specified duration, using the effective calendar for a manually scheduled task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `EffectiveDateSubtract`( `_Date_`, `_Duration_` )
+_expression_. `EffectiveDateSubtract`( `_Date_`, `_Duration_` )
 
  _expression_ An expression that returns a [StartDriver](./Project.StartDriver.md) object.
 

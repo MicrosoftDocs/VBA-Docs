@@ -1,5 +1,5 @@
 ---
-title: PbWizardNavBarButtonStyle Enumeration (Publisher)
+title: PbWizardNavBarButtonStyle enumeration (Publisher)
 keywords: vbapb10.chm65614
 f1_keywords:
 - vbapb10.chm65614
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWizardNavBarButtonStyle Enumeration (Publisher)
+# PbWizardNavBarButtonStyle enumeration (Publisher)
 
 Represents the style of the navigation bar buttons: large, small, or text-only.
 

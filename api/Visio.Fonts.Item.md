@@ -1,5 +1,5 @@
 ---
-title: Fonts.Item Property (Visio)
+title: Fonts.Item property (Visio)
 keywords: vis_sdr.chm12113765
 f1_keywords:
 - vis_sdr.chm12113765
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Item Property (Visio)
+# Fonts.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_NameOrIndex_` )
+_expression_. `Item`( `_NameOrIndex_` )
 
  _expression_ A variable that represents a [Fonts](./Visio.Fonts.md) collection.
 

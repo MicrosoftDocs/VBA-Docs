@@ -1,5 +1,5 @@
 ---
-title: Selection.ChildShapeRange Property (PowerPoint)
+title: Selection.ChildShapeRange property (PowerPoint)
 keywords: vbapp10.chm508011
 f1_keywords:
 - vbapp10.chm508011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.ChildShapeRange Property (PowerPoint)
+# Selection.ChildShapeRange property (PowerPoint)
 
 Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the child shapes of a selection.
 
 
 ## Syntax
 
- _expression_. `ChildShapeRange`
+_expression_. `ChildShapeRange`
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 

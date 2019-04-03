@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Session Property (Outlook)
+title: ExchangeUser.Session property (Outlook)
 keywords: vbaol11.chm2063
 f1_keywords:
 - vbaol11.chm2063
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Session Property (Outlook)
+# ExchangeUser.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

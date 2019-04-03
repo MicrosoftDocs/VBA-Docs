@@ -1,5 +1,5 @@
 ---
-title: Shape.CreateSubProcess Method (Visio)
+title: Shape.CreateSubProcess method (Visio)
 keywords: vis_sdr.chm11262260
 f1_keywords:
 - vis_sdr.chm11262260
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CreateSubProcess Method (Visio)
+# Shape.CreateSubProcess method (Visio)
 
 Creates and returns a new sub-process page that is linked to the shape.
 
 
 ## Syntax
 
- _expression_. `CreateSubProcess`
+_expression_. `CreateSubProcess`
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddressStreet Property (Outlook)
+title: ContactItem.BusinessAddressStreet property (Outlook)
 keywords: vbaol11.chm976
 f1_keywords:
 - vbaol11.chm976
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddressStreet Property (Outlook)
+# ContactItem.BusinessAddressStreet property (Outlook)
 
 Returns or sets a  **String** representing the street address portion of the business address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the street address portion of the bus
 
 _expression_. `BusinessAddressStreet`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

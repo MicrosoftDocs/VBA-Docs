@@ -1,5 +1,5 @@
 ---
-title: OlShiftState Enumeration (Outlook)
+title: OlShiftState enumeration (Outlook)
 keywords: vbaol11.chm1000032
 f1_keywords:
 - vbaol11.chm1000032
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlShiftState Enumeration (Outlook)
+# OlShiftState enumeration (Outlook)
 
 Represents a bitmask to indicate which modifier key is pressed during a keyboard or mouse event of a control.
 

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DefaultTextUnits Property (Visio)
+title: InvisibleApp.DefaultTextUnits property (Visio)
 keywords: vis_sdr.chm17551035
 f1_keywords:
 - vis_sdr.chm17551035
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DefaultTextUnits Property (Visio)
+# InvisibleApp.DefaultTextUnits property (Visio)
 
 Determines the default unit of measure for quantities that represent text metrics. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultTextUnits`
+_expression_. `DefaultTextUnits`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

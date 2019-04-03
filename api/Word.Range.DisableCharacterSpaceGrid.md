@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `DisableCharacterSpaceGrid`
+_expression_. `DisableCharacterSpaceGrid`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

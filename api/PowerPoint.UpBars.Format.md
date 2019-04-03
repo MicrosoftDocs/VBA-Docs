@@ -1,5 +1,5 @@
 ---
-title: UpBars.Format Property (PowerPoint)
+title: UpBars.Format property (PowerPoint)
 keywords: vbapp10.chm722001
 f1_keywords:
 - vbapp10.chm722001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# UpBars.Format Property (PowerPoint)
+# UpBars.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
  _expression_ A variable that represents an '[UpBars](PowerPoint.UpBars.md)' object.
 

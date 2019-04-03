@@ -1,5 +1,5 @@
 ---
-title: MenuItem.Enabled Property (Visio)
+title: MenuItem.Enabled property (Visio)
 keywords: vis_sdr.chm12913455
 f1_keywords:
 - vis_sdr.chm12913455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.Enabled Property (Visio)
+# MenuItem.Enabled property (Visio)
 
 Determines whether or not an object is currently enabled. Read/write.
 

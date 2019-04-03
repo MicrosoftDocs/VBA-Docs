@@ -1,5 +1,5 @@
 ---
-title: Shape.Section Property (Visio)
+title: Shape.Section property (Visio)
 keywords: vis_sdr.chm11214300
 f1_keywords:
 - vis_sdr.chm11214300
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Section Property (Visio)
+# Shape.Section property (Visio)
 
 Returns the requested  **Section** object belonging to a shape. Read-only.
 
 
 ## Syntax
 
- _expression_.**Section**( `_Index_` )
+ _expression_.**Section** (_Index_)
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

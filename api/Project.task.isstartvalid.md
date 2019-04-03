@@ -1,5 +1,5 @@
 ---
-title: Task.IsStartValid Property (Project)
+title: Task.IsStartValid property (Project)
 ms.prod: project-server
 ms.assetid: 6e5c90ab-7d7c-1f08-370c-8091d1a55aa6
 ms.date: 06/08/2017
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# Task.IsStartValid Property (Project)
+# Task.IsStartValid property (Project)
 
  **True** if the start date of a manually scheduled task is valid; otherwise, **False**. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsStartValid`
+_expression_. `IsStartValid`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

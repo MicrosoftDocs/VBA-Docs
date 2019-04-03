@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HorizontalFlip Property (Publisher)
+title: ShapeRange.HorizontalFlip property (Publisher)
 keywords: vbapb10.chm2293824
 f1_keywords:
 - vbapb10.chm2293824
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.HorizontalFlip Property (Publisher)
+# ShapeRange.HorizontalFlip property (Publisher)
 
 Indicates whether the specified shape has been flipped around its horizontal axis. Read-only.
 
 
 ## Syntax
 
- _expression_. **HorizontalFlip**
+ _expression_.**HorizontalFlip**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

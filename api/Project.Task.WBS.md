@@ -1,5 +1,5 @@
 ---
-title: Task.WBS Property (Project)
+title: Task.WBS property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.WBS
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.WBS Property (Project)
+# Task.WBS property (Project)
 
 Gets or sets the work breakdown structure (WBS) code of the task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `WBS`
+_expression_. `WBS`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

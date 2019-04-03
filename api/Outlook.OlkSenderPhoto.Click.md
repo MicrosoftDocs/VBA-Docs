@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.Click Event (Outlook)
+title: OlkSenderPhoto.Click event (Outlook)
 keywords: vbaol11.chm1000485
 f1_keywords:
 - vbaol11.chm1000485
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.Click Event (Outlook)
+# OlkSenderPhoto.Click event (Outlook)
 
 Occurs when the control is clicked, either through user action or programmatically.
 
@@ -21,7 +21,7 @@ Occurs when the control is clicked, either through user action or programmatical
 
 _expression_. `Click`
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## See also

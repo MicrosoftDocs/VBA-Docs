@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Tab.ThemeColor property (Excel)
 
-Returns or sets the theme color in the applied color scheme that is associated with the specified object. Read/write  **[xlThemeColor](Excel.XlThemeColor.md)**.
+Returns or sets the theme color in the applied color scheme that is associated with the specified object. Read/write  **[XlThemeColor](Excel.XlThemeColor.md)**.
 
 
 ## Syntax
 
 _expression_. `ThemeColor`
 
-_expression_ A variable that represents a [Tab](./Excel.Tab.md) object.
+_expression_ A variable that represents a [Tab](Excel.Tab.md) object.
 
 
 ## Remarks

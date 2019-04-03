@@ -1,5 +1,5 @@
 ---
-title: Addon.Index Property (Visio)
+title: Addon.Index property (Visio)
 keywords: vis_sdr.chm12413695
 f1_keywords:
 - vis_sdr.chm12413695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Addon.Index Property (Visio)
+# Addon.Index property (Visio)
 
 Gets the ordinal position of an  **Addon** object in the **Addons** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Addon](./Visio.Addon.md) object.
 

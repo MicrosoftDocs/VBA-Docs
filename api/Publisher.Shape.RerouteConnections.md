@@ -1,5 +1,5 @@
 ---
-title: Shape.RerouteConnections Method (Publisher)
+title: Shape.RerouteConnections method (Publisher)
 keywords: vbapb10.chm2228260
 f1_keywords:
 - vbapb10.chm2228260
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.RerouteConnections Method (Publisher)
+# Shape.RerouteConnections method (Publisher)
 
 Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the  **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
 
 
 ## Syntax
 
- _expression_. **RerouteConnections**
+ _expression_.**RerouteConnections**
 
  _expression_ A variable that represents a  **Shape** object.
 

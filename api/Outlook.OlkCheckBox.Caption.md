@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.Caption Property (Outlook)
+title: OlkCheckBox.Caption property (Outlook)
 keywords: vbaol11.chm1000138
 f1_keywords:
 - vbaol11.chm1000138
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.Caption Property (Outlook)
+# OlkCheckBox.Caption property (Outlook)
 
 Returns or sets a  **String** that appears on an object to identify or describe it. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 
 _expression_.**Caption**
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks

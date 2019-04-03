@@ -1,5 +1,5 @@
 ---
-title: AddressList.ResolutionOrder Property (Outlook)
+title: AddressList.ResolutionOrder property (Outlook)
 keywords: vbaol11.chm2034
 f1_keywords:
 - vbaol11.chm2034
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.ResolutionOrder Property (Outlook)
+# AddressList.ResolutionOrder property (Outlook)
 
 Returns an  **Integer** that represents the order of this **[AddressList](Outlook.AddressList.md)** in the custom scroll list in the **Addressing** dialog box. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **Integer** that represents the order of this **[AddressList](Outloo
 
 _expression_. `ResolutionOrder`
 
-_expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 
 
 ## Remarks

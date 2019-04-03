@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HasText Property (Publisher)
+title: TextFrame.HasText property (Publisher)
 keywords: vbapb10.chm3866642
 f1_keywords:
 - vbapb10.chm3866642
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.HasText Property (Publisher)
+# TextFrame.HasText property (Publisher)
 
 Returns an  **MsoTriState** constant indicating whether the specified shape has text associated with it. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasText**
+ _expression_.**HasText**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

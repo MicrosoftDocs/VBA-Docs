@@ -17,7 +17,7 @@ Sets the  **TabIndex** property of each control on a frame or page, using a defa
 
 ## Syntax
 
-_expression_. **SetDefaultTabOrder**
+_expression_.**SetDefaultTabOrder**
 
 _expression_ A variable that represents a  **Frame** object.
 

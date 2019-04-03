@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ForwardAsBusinessCard Method (Outlook)
+title: ContactItem.ForwardAsBusinessCard method (Outlook)
 keywords: vbaol11.chm1094
 f1_keywords:
 - vbaol11.chm1094
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ForwardAsBusinessCard Method (Outlook)
+# ContactItem.ForwardAsBusinessCard method (Outlook)
 
 Creates a new  **[MailItem](Outlook.MailItem.md)** object containing contact information and, optionally, an Electronic Business Card (EBC) image based on the specified **[ContactItem](Outlook.ContactItem.md)** object.
 
@@ -21,7 +21,7 @@ Creates a new  **[MailItem](Outlook.MailItem.md)** object containing contact inf
 
 _expression_. `ForwardAsBusinessCard`
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Return value

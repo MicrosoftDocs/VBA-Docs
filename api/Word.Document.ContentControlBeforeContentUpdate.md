@@ -1,5 +1,5 @@
 ---
-title: Document.ContentControlBeforeContentUpdate Event (Word)
+title: Document.ContentControlBeforeContentUpdate event (Word)
 keywords: vbawd10.chm4001015
 f1_keywords:
 - vbawd10.chm4001015
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.ContentControlBeforeContentUpdate Event (Word)
+# Document.ContentControlBeforeContentUpdate event (Word)
 
 Occurs before updating the content in a content control, but only when the content comes from the Office XML data store.
 

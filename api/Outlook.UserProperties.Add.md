@@ -1,5 +1,5 @@
 ---
-title: UserProperties.Add Method (Outlook)
+title: UserProperties.Add method (Outlook)
 keywords: vbaol11.chm209
 f1_keywords:
 - vbaol11.chm209
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# UserProperties.Add Method (Outlook)
+# UserProperties.Add method (Outlook)
 
 Creates a new user property in the  **[UserProperties](Outlook.UserProperties.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Type_` , `_AddToFolderFields_` , `_DisplayFormat_` )
+ _expression_.**Add**( `_Name_` , `_Type_` , `_AddToFolderFields_` , `_DisplayFormat_` )
 
-_expression_ A variable that represents an [UserProperties](./Outlook.UserProperties.md) object.
+_expression_ A variable that represents an [UserProperties](Outlook.UserProperties.md) object.
 
 
 ## Parameters

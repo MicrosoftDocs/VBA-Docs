@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentBeforeClose Event (Word)
+title: Application.DocumentBeforeClose event (Word)
 keywords: vbawd10.chm400005
 f1_keywords:
 - vbawd10.chm400005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentBeforeClose Event (Word)
+# Application.DocumentBeforeClose event (Word)
 
 Occurs immediately before any open document closes.
 

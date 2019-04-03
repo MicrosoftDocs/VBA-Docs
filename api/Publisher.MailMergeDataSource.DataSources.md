@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.DataSources Property (Publisher)
+title: MailMergeDataSource.DataSources property (Publisher)
 keywords: vbapb10.chm6291494
 f1_keywords:
 - vbapb10.chm6291494
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.DataSources Property (Publisher)
+# MailMergeDataSource.DataSources property (Publisher)
 
 Returns the  **MailMergeDataSources** collection that includes the parent **MailMergeDataSource** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **DataSources**
+ _expression_.**DataSources**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

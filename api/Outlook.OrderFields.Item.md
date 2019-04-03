@@ -1,5 +1,5 @@
 ---
-title: OrderFields.Item Method (Outlook)
+title: OrderFields.Item method (Outlook)
 keywords: vbaol11.chm2677
 f1_keywords:
 - vbaol11.chm2677
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderFields.Item Method (Outlook)
+# OrderFields.Item method (Outlook)
 
 Returns an  **[OrderField](Outlook.OrderField.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns an  **[OrderField](Outlook.OrderField.md)** object from the collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.md) object.
+_expression_ A variable that represents an [OrderFields](Outlook.OrderFields.md) object.
 
 
 ## Parameters

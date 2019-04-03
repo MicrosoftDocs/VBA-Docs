@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Delete Method (PowerPoint)
+title: ErrorBars.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars.Delete Method (PowerPoint)
+# ErrorBars.Delete method (PowerPoint)
 
 Deletes the object.
 

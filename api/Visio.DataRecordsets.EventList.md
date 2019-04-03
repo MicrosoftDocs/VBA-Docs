@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.EventList Property (Visio)
+title: DataRecordsets.EventList property (Visio)
 keywords: vis_sdr.chm16360610
 f1_keywords:
 - vis_sdr.chm16360610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordsets.EventList Property (Visio)
+# DataRecordsets.EventList property (Visio)
 
 Returns the  **[EventList](Visio.EventList.md)** collection of the **DataRecordsets** collection. Read-only.
 
@@ -22,7 +22,7 @@ Returns the  **[EventList](Visio.EventList.md)** collection of the **DataRecords
 
 ## Syntax
 
- _expression_. `EventList`
+_expression_. `EventList`
 
  _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 

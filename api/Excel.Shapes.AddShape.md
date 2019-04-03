@@ -21,7 +21,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the new AutoShape 
 
 _expression_. `AddShape`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
-_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -48,7 +48,7 @@ To change the type of an AutoShape that you?ve added, set the  **[AutoShapeType]
 
 ## Example
 
-This example adds a rectangle to  `myDocument`.
+This example adds a rectangle to  _myDocument_.
 
 
 ```vb

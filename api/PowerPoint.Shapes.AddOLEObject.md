@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddOLEObject Method (PowerPoint)
+title: Shapes.AddOLEObject method (PowerPoint)
 keywords: vbapp10.chm543022
 f1_keywords:
 - vbapp10.chm543022
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddOLEObject Method (PowerPoint)
+# Shapes.AddOLEObject method (PowerPoint)
 
 Creates an OLE object. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new OLE object.
 
 
 ## Syntax
 
- _expression_. `AddOLEObject`( `_Left_`, `_Top_`, `_Width_`, `_Height_`, `_ClassName_`, `_FileName_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_` )
+_expression_. `AddOLEObject`( `_Left_`, `_Top_`, `_Width_`, `_Height_`, `_ClassName_`, `_FileName_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -49,7 +49,7 @@ Shape
 
 ## Example
 
-This example adds a linked Word document to  `myDocument`.
+This example adds a linked Word document to  _myDocument_.
 
 
 ```vb
@@ -59,7 +59,7 @@ myDocument.Shapes.AddOLEObject Left:=100, Top:=100, _
     FileName:="c:\my documents\testing.doc", Link:=msoTrue
 ```
 
-This example adds a new Microsoft Excel worksheet to  `myDocument`. The worksheet will be displayed as an icon.
+This example adds a new Microsoft Excel worksheet to  _myDocument_. The worksheet will be displayed as an icon.
 
 
 
@@ -71,7 +71,7 @@ myDocument.Shapes.AddOLEObject Left:=100, Top:=100, _
     ClassName:="Excel.Sheet", DisplayAsIcon:=True
 ```
 
-This example adds a command button to  `myDocument`.
+This example adds a command button to  _myDocument_.
 
 
 

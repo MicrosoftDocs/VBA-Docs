@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Shape.Placement property (Excel)
 
-Returns or sets an  **[xlPlacement](Excel.XlPlacement.md)** value that represents the way the object is attached to the cells below it.
+Returns or sets an  **[XlPlacement](Excel.XlPlacement.md)** value that represents the way the object is attached to the cells below it.
 
 
 ## Syntax
 
 _expression_. `Placement`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: ScratchArea Object (Publisher)
+title: ScratchArea object (Publisher)
 keywords: vbapb10.chm1245183
 f1_keywords:
 - vbapb10.chm1245183
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ScratchArea Object (Publisher)
+# ScratchArea object (Publisher)
 
 Represents the area outside the boundaries of publication pages where layout elements may be stored with no effect on publication output.
  

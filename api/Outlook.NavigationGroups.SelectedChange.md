@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.SelectedChange Event (Outlook)
+title: NavigationGroups.SelectedChange event (Outlook)
 keywords: vbaol11.chm2913
 f1_keywords:
 - vbaol11.chm2913
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationGroups.SelectedChange Event (Outlook)
+# NavigationGroups.SelectedChange event (Outlook)
 
 Occurs after the selection state is changed for a navigation folder contained in a  **Calendar** navigation module.
 
@@ -21,7 +21,7 @@ Occurs after the selection state is changed for a navigation folder contained in
 
 _expression_. `SelectedChange`( `_NavigationFolder_` )
 
-_expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](Outlook.NavigationGroups.md) object.
 
 
 ## Parameters

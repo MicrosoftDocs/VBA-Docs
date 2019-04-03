@@ -1,5 +1,5 @@
 ---
-title: Shape.Table Property (Publisher)
+title: Shape.Table property (Publisher)
 keywords: vbapb10.chm2228328
 f1_keywords:
 - vbapb10.chm2228328
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Table Property (Publisher)
+# Shape.Table property (Publisher)
 
 Returns a  **Table** object that represents a table in Microsoft Publisher.
 
 
 ## Syntax
 
- _expression_. **Table**
+ _expression_.**Table**
 
  _expression_ A variable that represents a  **Shape** object.
 

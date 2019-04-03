@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.IsHierarchical Property (Visio)
+title: ToolbarItem.IsHierarchical property (Visio)
 keywords: vis_sdr.chm13513740
 f1_keywords:
 - vis_sdr.chm13513740
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.IsHierarchical Property (Visio)
+# ToolbarItem.IsHierarchical property (Visio)
 
 Indicates whether a toolbar item is hierarchical; that is, whether it contains a drop-down menu that contains more items, which can in turn be accessed by iterating through the  **ToolbarItems** collection of the toolbar. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsHierarchical`
+_expression_. `IsHierarchical`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.WebBrowserControlFrame Method (Project)
+title: Window.WebBrowserControlFrame method (Project)
 keywords: vbapj.chm131100
 f1_keywords:
 - vbapj.chm131100
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.WebBrowserControlFrame Method (Project)
+# Window.WebBrowserControlFrame method (Project)
 
 Returns the DOM object of a specified frame in the Web browser control window hosted inside the active window.
 
 
 ## Syntax
 
- _expression_. `WebBrowserControlFrame`( `_FrameName_` )
+_expression_. `WebBrowserControlFrame`( `_FrameName_` )
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

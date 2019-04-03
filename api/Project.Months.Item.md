@@ -1,5 +1,5 @@
 ---
-title: Months.Item Property (Project)
+title: Months.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Months.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Months.Item Property (Project)
+# Months.Item property (Project)
 
 Gets a single  **Month** object from the **Months** collection. Read-only **Month**.
 

@@ -1,5 +1,5 @@
 ---
-title: AnimationPoints.Parent Property (PowerPoint)
+title: AnimationPoints.Parent property (PowerPoint)
 keywords: vbapp10.chm663002
 f1_keywords:
 - vbapp10.chm663002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AnimationPoints.Parent Property (PowerPoint)
+# AnimationPoints.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

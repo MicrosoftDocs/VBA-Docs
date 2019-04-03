@@ -1,5 +1,5 @@
 ---
-title: Shapes.CanvasesCount Property (Publisher)
+title: Shapes.CanvasesCount property (Publisher)
 keywords: vbapb10.chm2162759
 f1_keywords:
 - vbapb10.chm2162759
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.CanvasesCount Property (Publisher)
+# Shapes.CanvasesCount property (Publisher)
 
 A  **Long** that specifies the number of canvases in the **Shapes** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **CanvasesCount**
+ _expression_.**CanvasesCount**
 
  _expression_ A variable that represents a  **[Shapes](Publisher.Shapes.md)** object.
 

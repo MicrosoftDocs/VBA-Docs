@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OLEDBConnection.ServerCredentialsMethod property (Excel)
 
-Returns or sets the type of credentials that should be used for server authentication. Read/write  **[xlCredentialsMethod](Excel.XlCredentialsMethod.md)**.
+Returns or sets the type of credentials that should be used for server authentication. Read/write  **[XlCredentialsMethod](Excel.XlCredentialsMethod.md)**.
 
 
 ## Syntax

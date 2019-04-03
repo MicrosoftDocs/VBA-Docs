@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.StencilCharactersPerLine Property (Visio)
+title: ApplicationSettings.StencilCharactersPerLine property (Visio)
 keywords: vis_sdr.chm16251525
 f1_keywords:
 - vis_sdr.chm16251525
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.StencilCharactersPerLine Property (Visio)
+# ApplicationSettings.StencilCharactersPerLine property (Visio)
 
 For shapes on stencils, determines approximately how many characters of each shape's name appear on each line before the text wraps to the next line. Read/write.
 
 
 ## Syntax
 
- _expression_. `StencilCharactersPerLine`
+_expression_. `StencilCharactersPerLine`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

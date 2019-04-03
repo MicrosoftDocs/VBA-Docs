@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupFooter Method (Project)
+title: Application.FilePageSetupFooter method (Project)
 keywords: vbapj.chm2358
 f1_keywords:
 - vbapj.chm2358
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupFooter Method (Project)
+# Application.FilePageSetupFooter method (Project)
 
 Sets up footers for printing.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupFooter`( `_Name_`, `_Alignment_`, `_Text_` )
+_expression_. `FilePageSetupFooter`( `_Name_`, `_Alignment_`, `_Text_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

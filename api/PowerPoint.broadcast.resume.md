@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Resume Method (PowerPoint)
+title: Broadcast.Resume method (PowerPoint)
 keywords: vbapp10.chm732008
 f1_keywords:
 - vbapp10.chm732008
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.Resume Method (PowerPoint)
+# Broadcast.Resume method (PowerPoint)
 
 Resumes the specified broadcast.
 
 
 ## Syntax
 
- _expression_. `Resume`
+_expression_. `Resume`
 
 _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 

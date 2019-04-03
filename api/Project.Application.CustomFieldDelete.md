@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldDelete Method (Project)
+title: Application.CustomFieldDelete method (Project)
 keywords: vbapj.chm2132
 f1_keywords:
 - vbapj.chm2132
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomFieldDelete Method (Project)
+# Application.CustomFieldDelete method (Project)
 
 Deletes the specified custom field.
 
 
 ## Syntax
 
- _expression_. `CustomFieldDelete`( `_Field_` )
+_expression_. `CustomFieldDelete`( `_Field_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

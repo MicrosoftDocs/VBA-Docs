@@ -19,7 +19,7 @@ Returns or sets the maximum number of recently used files that can appear on the
 
 ## Syntax
 
- _expression_. `Maximum`
+_expression_. `Maximum`
 
  _expression_ Required. A variable that represents a '[RecentFiles](Word.recentfiles.md)' collection.
 

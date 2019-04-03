@@ -19,7 +19,7 @@ Returns a document from a local computer to a server, and sets the local documen
 
 ## Syntax
 
- _expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
+_expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

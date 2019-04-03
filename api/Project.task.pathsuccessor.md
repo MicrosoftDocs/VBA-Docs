@@ -1,5 +1,5 @@
 ---
-title: Task.PathSuccessor Property (Project)
+title: Task.PathSuccessor property (Project)
 ms.prod: project-server
 ms.assetid: 827bf575-d93b-9959-c664-625c0e199699
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Task.PathSuccessor Property (Project)
+# Task.PathSuccessor property (Project)
 Gets a value that indicates whether the task is a successor of the selected task, when the  **Successors** item is selected in the **Task Path** drop-down list. Read-only **Boolean**.
 
 ## Syntax
 
- _expression_. `PathSuccessor`
+_expression_. `PathSuccessor`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

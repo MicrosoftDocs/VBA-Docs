@@ -1,5 +1,5 @@
 ---
-title: TimeScaleValue.Application Property (Project)
+title: TimeScaleValue.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TimeScaleValue.Application Property (Project)
+# TimeScaleValue.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

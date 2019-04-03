@@ -1,5 +1,5 @@
 ---
-title: Application.XMLSelectionChange Event (Word)
+title: Application.XMLSelectionChange event (Word)
 keywords: vbawd10.chm4000025
 f1_keywords:
 - vbawd10.chm4000025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.XMLSelectionChange Event (Word)
+# Application.XMLSelectionChange event (Word)
 
 Occurs when the parent XML node of the current selection changes.
 

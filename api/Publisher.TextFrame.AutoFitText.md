@@ -1,5 +1,5 @@
 ---
-title: TextFrame.AutoFitText Property (Publisher)
+title: TextFrame.AutoFitText property (Publisher)
 keywords: vbapb10.chm3866630
 f1_keywords:
 - vbapb10.chm3866630
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.AutoFitText Property (Publisher)
+# TextFrame.AutoFitText property (Publisher)
 
 Sets or returns a  **PbTextAutoFitType**constant that represents how Microsoft Publisher automatically adjusts the text font size and the  **TextFrame** objects size for best viewing. Read/write.
 
 
 ## Syntax
 
- _expression_. **AutoFitText**
+ _expression_.**AutoFitText**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

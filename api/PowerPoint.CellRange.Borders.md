@@ -1,5 +1,5 @@
 ---
-title: CellRange.Borders Property (PowerPoint)
+title: CellRange.Borders property (PowerPoint)
 keywords: vbapp10.chm627004
 f1_keywords:
 - vbapp10.chm627004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Borders Property (PowerPoint)
+# CellRange.Borders property (PowerPoint)
 
 Returns a  **[Borders](PowerPoint.Borders.md)** collection that represents the borders and diagonal lines for the specified **Cell** object or **CellRange** collection. Read-only.
 

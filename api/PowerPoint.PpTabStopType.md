@@ -1,5 +1,5 @@
 ---
-title: PpTabStopType Enumeration (PowerPoint)
+title: PpTabStopType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpTabStopType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpTabStopType Enumeration (PowerPoint)
+# PpTabStopType enumeration (PowerPoint)
 
 Constants that specify the tab-stop type, passed to and returned by the  **Type** property of the **TabStop** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ColumnEdit Method (Project)
+title: Application.ColumnEdit method (Project)
 keywords: vbapj.chm2038
 f1_keywords:
 - vbapj.chm2038
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ColumnEdit Method (Project)
+# Application.ColumnEdit method (Project)
 
 Displays the  **Column Definition** dialog box for the specified column.
 
 
 ## Syntax
 
- _expression_. `ColumnEdit`( `_Column_` )
+_expression_. `ColumnEdit`( `_Column_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

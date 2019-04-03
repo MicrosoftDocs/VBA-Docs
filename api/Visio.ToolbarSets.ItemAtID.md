@@ -1,5 +1,5 @@
 ---
-title: ToolbarSets.ItemAtID Property (Visio)
+title: ToolbarSets.ItemAtID property (Visio)
 keywords: vis_sdr.chm14013770
 f1_keywords:
 - vis_sdr.chm14013770
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarSets.ItemAtID Property (Visio)
+# ToolbarSets.ItemAtID property (Visio)
 
 Returns the  **ToolbarSet** object for an ID within a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemAtID`( `_lID_` )
+_expression_. `ItemAtID`( `_lID_` )
 
  _expression_ A variable that represents a [ToolbarSets](./Visio.ToolbarSets.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeSize Event (Outlook)
+title: Explorer.BeforeSize event (Outlook)
 keywords: vbaol11.chm460
 f1_keywords:
 - vbaol11.chm460
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.BeforeSize Event (Outlook)
+# Explorer.BeforeSize event (Outlook)
 
 Occurs when the user sizes the current  **[Explorer](Outlook.Explorer.md)**.
 
@@ -21,7 +21,7 @@ Occurs when the user sizes the current  **[Explorer](Outlook.Explorer.md)**.
 
 _expression_. `BeforeSize`( `_Cancel_` )
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters

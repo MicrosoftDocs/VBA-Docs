@@ -1,5 +1,5 @@
 ---
-title: VisContainerMemberState Enumeration (Visio)
+title: VisContainerMemberState enumeration (Visio)
 keywords: vis_sdr.chm70605
 f1_keywords:
 - vis_sdr.chm70605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisContainerMemberState Enumeration (Visio)
+# VisContainerMemberState enumeration (Visio)
 
 Specifies constants that denote the state of the input member shape with respect to the container; returned by the  **[ContainerProperties.GetMemberState](Visio.ContainerProperties.GetMemberState.md)** method.
 

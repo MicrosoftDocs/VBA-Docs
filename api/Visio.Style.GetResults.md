@@ -1,5 +1,5 @@
 ---
-title: Style.GetResults Method (Visio)
+title: Style.GetResults method (Visio)
 keywords: vis_sdr.chm11416320
 f1_keywords:
 - vis_sdr.chm11416320
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Style.GetResults Method (Visio)
+# Style.GetResults method (Visio)
 
 Gets the results or formulas of many cells.
 
 
 ## Syntax
 
- _expression_. `GetResults`( `_SRCStream()_` , `_Flags_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` )
+_expression_. `GetResults`( `_SRCStream()_` , `_Flags_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` )
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

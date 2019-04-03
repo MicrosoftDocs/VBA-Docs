@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether to display mini toolbars 
 
 ## Syntax
 
- _expression_. `ShowMenuFloaties`
+_expression_. `ShowMenuFloaties`
 
  _expression_ An expression that returns an [Options](./Word.Options.md) object.
 

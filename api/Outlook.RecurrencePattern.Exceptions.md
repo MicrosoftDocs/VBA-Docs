@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Exceptions Property (Outlook)
+title: RecurrencePattern.Exceptions property (Outlook)
 keywords: vbaol11.chm277
 f1_keywords:
 - vbaol11.chm277
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Exceptions Property (Outlook)
+# RecurrencePattern.Exceptions property (Outlook)
 
 Returns the  **[Exceptions](Outlook.Exceptions.md)** collection for a specified series of recurring appointments. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[Exceptions](Outlook.Exceptions.md)** collection for a specified 
 
 _expression_. `Exceptions`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

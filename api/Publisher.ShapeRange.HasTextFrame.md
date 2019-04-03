@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HasTextFrame Property (Publisher)
+title: ShapeRange.HasTextFrame property (Publisher)
 keywords: vbapb10.chm2293858
 f1_keywords:
 - vbapb10.chm2293858
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.HasTextFrame Property (Publisher)
+# ShapeRange.HasTextFrame property (Publisher)
 
 Indicates whether the specified shape has a  **TextFrame** object associated with it. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasTextFrame**
+ _expression_.**HasTextFrame**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

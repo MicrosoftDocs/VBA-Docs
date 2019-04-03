@@ -1,5 +1,5 @@
 ---
-title: RulerLevel.FirstMargin Property (PowerPoint)
+title: RulerLevel.FirstMargin property (PowerPoint)
 keywords: vbapp10.chm572003
 f1_keywords:
 - vbapp10.chm572003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# RulerLevel.FirstMargin Property (PowerPoint)
+# RulerLevel.FirstMargin property (PowerPoint)
 
 Returns or sets the first-line indent for the specified outline level, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `FirstMargin`
+_expression_. `FirstMargin`
 
  _expression_ A variable that represents a [RulerLevel](./PowerPoint.RulerLevel.md) object.
 

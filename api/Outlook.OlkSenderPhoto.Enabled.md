@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.Enabled Property (Outlook)
+title: OlkSenderPhoto.Enabled property (Outlook)
 keywords: vbaol11.chm1000478
 f1_keywords:
 - vbaol11.chm1000478
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.Enabled Property (Outlook)
+# OlkSenderPhoto.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** that indicates if the control is allowed to function. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that indicates if the control is allowed to funct
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## Remarks

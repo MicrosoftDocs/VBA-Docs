@@ -1,5 +1,5 @@
 ---
-title: Project.DeliverableDelete Method (Project)
+title: Project.DeliverableDelete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DeliverableDelete
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DeliverableDelete Method (Project)
+# Project.DeliverableDelete method (Project)
 
 Deletes the deliverable.
 
 
 ## Syntax
 
- _expression_. `DeliverableDelete`( `_DeliverableGuid_` )
+_expression_. `DeliverableDelete`( `_DeliverableGuid_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

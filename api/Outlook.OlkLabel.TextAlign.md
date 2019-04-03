@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.TextAlign Property (Outlook)
+title: OlkLabel.TextAlign property (Outlook)
 keywords: vbaol11.chm1000097
 f1_keywords:
 - vbaol11.chm1000097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkLabel.TextAlign Property (Outlook)
+# OlkLabel.TextAlign property (Outlook)
 
 Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that specifies how text is aligned in the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that spec
 
 _expression_. `TextAlign`
 
-_expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
+_expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) object.
 
 
 ## Remarks

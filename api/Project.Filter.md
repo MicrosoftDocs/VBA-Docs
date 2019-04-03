@@ -1,5 +1,5 @@
 ---
-title: Filter Object (Project)
+title: Filter object (Project)
 keywords: vbapj.chm131289
 f1_keywords:
 - vbapj.chm131289
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Filter Object (Project)
+# Filter object (Project)
 
 
 

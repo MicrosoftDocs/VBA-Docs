@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.PrintColorType Property (PowerPoint)
+title: PrintOptions.PrintColorType property (PowerPoint)
 keywords: vbapp10.chm517002
 f1_keywords:
 - vbapp10.chm517002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.PrintColorType Property (PowerPoint)
+# PrintOptions.PrintColorType property (PowerPoint)
 
 Returns or sets the way the specified document will be printed: in black and white, in pure black and white (also referred to as high contrast), or in color. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintColorType`
+_expression_. `PrintColorType`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

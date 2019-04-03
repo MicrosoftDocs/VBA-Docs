@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.MapToRecipientField Method (Publisher)
+title: MailMergeDataField.MapToRecipientField method (Publisher)
 keywords: vbapb10.chm6422563
 f1_keywords:
 - vbapb10.chm6422563
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMergeDataField.MapToRecipientField Method (Publisher)
+# MailMergeDataField.MapToRecipientField method (Publisher)
 
 Maps a field (column) in a particular data source represented by the parent  **MailMergeDataField** object to a recipient field (column) in the master data source (combined mail-merge recipient list).
 
 
 ## Syntax
 
- _expression_. **MapToRecipientField**(**_bstrValue_**)
+ _expression_.**MapToRecipientField**(**_bstrValue_**)
 
  _expression_ A variable that represents a  **MailMergeDataField** object.
 

@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Height Property (PowerPoint)
+title: PlotArea.Height property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Height
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.Height Property (PowerPoint)
+# PlotArea.Height property (PowerPoint)
 
 Returns or sets the height, in points, of the object. Read/write  **Double**.
 

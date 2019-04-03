@@ -1,5 +1,5 @@
 ---
-title: NavigationFolder.IsSideBySide Property (Outlook)
+title: NavigationFolder.IsSideBySide property (Outlook)
 keywords: vbaol11.chm2906
 f1_keywords:
 - vbaol11.chm2906
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolder.IsSideBySide Property (Outlook)
+# NavigationFolder.IsSideBySide property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether the **[NavigationFolder](Outlook.NavigationFolder.md)** object is displayed in side-by-side or overlay mode. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates whether the **[NavigationFol
 
 _expression_. `IsSideBySide`
 
-_expression_ A variable that represents a [NavigationFolder](./Outlook.NavigationFolder.md) object.
+_expression_ A variable that represents a [NavigationFolder](Outlook.NavigationFolder.md) object.
 
 
 ## Remarks

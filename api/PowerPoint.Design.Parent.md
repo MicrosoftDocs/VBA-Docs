@@ -1,5 +1,5 @@
 ---
-title: Design.Parent Property (PowerPoint)
+title: Design.Parent property (PowerPoint)
 keywords: vbapp10.chm644002
 f1_keywords:
 - vbapp10.chm644002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Design.Parent Property (PowerPoint)
+# Design.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

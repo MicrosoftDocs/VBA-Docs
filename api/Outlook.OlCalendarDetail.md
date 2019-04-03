@@ -1,5 +1,5 @@
 ---
-title: OlCalendarDetail Enumeration (Outlook)
+title: OlCalendarDetail enumeration (Outlook)
 keywords: vbaol11.chm3118
 f1_keywords:
 - vbaol11.chm3118
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlCalendarDetail Enumeration (Outlook)
+# OlCalendarDetail enumeration (Outlook)
 
 Indicates the level of detail for calendar items that will be exported to an iCalendar (.ics) file. 
 
@@ -26,6 +26,6 @@ Indicates the level of detail for calendar items that will be exported to an iCa
 
 ## Remarks
 
-This enumeration is used by the [CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md) property of the [CalendarSharing Object (Outlook)](Outlook.CalendarSharing.md) to determine the level of detail for calendar items stored in the iCalendar file created by the [ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md) and [SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md) methods.
+This enumeration is used by the [CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md) property of the [CalendarSharing object (Outlook)](Outlook.CalendarSharing.md) to determine the level of detail for calendar items stored in the iCalendar file created by the [ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md) and [SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md) methods.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

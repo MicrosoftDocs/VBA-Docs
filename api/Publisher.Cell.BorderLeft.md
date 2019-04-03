@@ -1,5 +1,5 @@
 ---
-title: Cell.BorderLeft Property (Publisher)
+title: Cell.BorderLeft property (Publisher)
 keywords: vbapb10.chm5111812
 f1_keywords:
 - vbapb10.chm5111812
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.BorderLeft Property (Publisher)
+# Cell.BorderLeft property (Publisher)
 
 Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the left border for a specified table cell.
 
 
 ## Syntax
 
- _expression_. **BorderLeft**
+ _expression_.**BorderLeft**
 
  _expression_ A variable that represents a  **Cell** object.
 

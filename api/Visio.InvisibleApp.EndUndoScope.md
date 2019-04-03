@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.EndUndoScope Method (Visio)
+title: InvisibleApp.EndUndoScope method (Visio)
 keywords: vis_sdr.chm17516250
 f1_keywords:
 - vis_sdr.chm17516250
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.EndUndoScope Method (Visio)
+# InvisibleApp.EndUndoScope method (Visio)
 
 Ends or cancels a transaction that has a unique scope.
 
 
 ## Syntax
 
- _expression_. `EndUndoScope`( `_nScopeID_` , `_bCommit_` )
+_expression_. `EndUndoScope`( `_nScopeID_` , `_bCommit_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Field Object (Publisher)
+title: Field object (Publisher)
 keywords: vbapb10.chm6160383
 f1_keywords:
 - vbapb10.chm6160383
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Field Object (Publisher)
+# Field object (Publisher)
 
 Represents a field. The  **Field** object is a member of the **[Fields](Publisher.Fields.md)** collection. The **Fields** collection represents the fields in a selection, range, or publication.
  

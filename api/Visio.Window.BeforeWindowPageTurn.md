@@ -1,5 +1,5 @@
 ---
-title: Window.BeforeWindowPageTurn Event (Visio)
+title: Window.BeforeWindowPageTurn event (Visio)
 keywords: vis_sdr.chm11619080
 f1_keywords:
 - vis_sdr.chm11619080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.BeforeWindowPageTurn Event (Visio)
+# Window.BeforeWindowPageTurn event (Visio)
 
 Occurs before a window is about to show a different page.
 

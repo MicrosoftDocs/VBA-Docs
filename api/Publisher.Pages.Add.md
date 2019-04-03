@@ -1,5 +1,5 @@
 ---
-title: Pages.Add Method (Publisher)
+title: Pages.Add method (Publisher)
 keywords: vbapb10.chm458757
 f1_keywords:
 - vbapb10.chm458757
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Pages.Add Method (Publisher)
+# Pages.Add method (Publisher)
 
 Adds a new  **Page** object to the specified **Pages** object and returns the new **Page** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Count_**,  **_After_**,  **_DuplicateObjectsOnPage_**,  **_AddHyperlinkToWebNavBar_**)
+ _expression_.**Add**(**_Count_**,  **_After_**,  **_DuplicateObjectsOnPage_**,  **_AddHyperlinkToWebNavBar_**)
 
  _expression_ A variable that represents a  **Pages** object.
 

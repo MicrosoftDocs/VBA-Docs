@@ -1,5 +1,5 @@
 ---
-title: UserProperties.Item Method (Outlook)
+title: UserProperties.Item method (Outlook)
 keywords: vbaol11.chm208
 f1_keywords:
 - vbaol11.chm208
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperties.Item Method (Outlook)
+# UserProperties.Item method (Outlook)
 
 Returns a  **[UserProperty](Outlook.UserProperty.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns a  **[UserProperty](Outlook.UserProperty.md)** object from the collectio
 
  _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [UserProperties](./Outlook.UserProperties.md) object.
+_expression_ A variable that represents an [UserProperties](Outlook.UserProperties.md) object.
 
 
 ## Parameters

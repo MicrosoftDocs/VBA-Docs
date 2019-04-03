@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveWindow Property (Publisher)
+title: Application.ActiveWindow property (Publisher)
 keywords: vbapb10.chm131074
 f1_keywords:
 - vbapb10.chm131074
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveWindow Property (Publisher)
+# Application.ActiveWindow property (Publisher)
 
 Returns a  **[Window](Publisher.Window.md)** object that represents the window with the focus. Because Microsoft Publisher only has one window, there is only one **Window** object to return.
 
 
 ## Syntax
 
- _expression_. **ActiveWindow**
+ _expression_.**ActiveWindow**
 
  _expression_ A variable that represents an  **Application** object.
 

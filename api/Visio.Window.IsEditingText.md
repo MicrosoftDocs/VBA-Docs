@@ -1,5 +1,5 @@
 ---
-title: Window.IsEditingText Property (Visio)
+title: Window.IsEditingText property (Visio)
 keywords: vis_sdr.chm11613730
 f1_keywords:
 - vis_sdr.chm11613730
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.IsEditingText Property (Visio)
+# Window.IsEditingText property (Visio)
 
 Determines whether a text editing session is active in the drawing window. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsEditingText`
+_expression_. `IsEditingText`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

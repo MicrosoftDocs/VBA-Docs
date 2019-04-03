@@ -1,5 +1,5 @@
 ---
-title: Application.ShowStatusBar Property (Visio)
+title: Application.ShowStatusBar property (Visio)
 keywords: vis_sdr.chm10014380
 f1_keywords:
 - vis_sdr.chm10014380
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ShowStatusBar Property (Visio)
+# Application.ShowStatusBar property (Visio)
 
 Determines whether the status bar is shown. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowStatusBar`
+_expression_. `ShowStatusBar`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

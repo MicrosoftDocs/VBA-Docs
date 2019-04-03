@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.BeforeAutoSave Event (Outlook)
+title: RemoteItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeAutoSave
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.BeforeAutoSave Event (Outlook)
+# RemoteItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 
@@ -18,7 +18,7 @@ Occurs before the item is automatically saved by Outlook.
 
 _expression_. `BeforeAutoSave`( `_Cancel_` )
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Parameters

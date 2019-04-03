@@ -1,5 +1,5 @@
 ---
-title: Page.BoundingBox Method (Visio)
+title: Page.BoundingBox method (Visio)
 keywords: vis_sdr.chm10916090
 f1_keywords:
 - vis_sdr.chm10916090
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.BoundingBox Method (Visio)
+# Page.BoundingBox method (Visio)
 
 Returns a rectangle that tightly encloses the shapes of a page.
 
 
 ## Syntax
 
- _expression_. `BoundingBox`( `_Flags_` , `_lpr8Left_` , `_lpr8Bottom_` , `_lpr8Right_` , `_lpr8Top_` )
+_expression_. `BoundingBox`( `_Flags_` , `_lpr8Left_` , `_lpr8Bottom_` , `_lpr8Right_` , `_lpr8Top_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

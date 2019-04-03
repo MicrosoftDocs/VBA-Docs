@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.AfterUpdate Event (Outlook)
+title: OlkCheckBox.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000160
 f1_keywords:
 - vbaol11.chm1000160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCheckBox.AfterUpdate Event (Outlook)
+# OlkCheckBox.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 
@@ -21,7 +21,7 @@ Occurs after the data in the control has been changed through the user interface
 
 _expression_.**AfterUpdate**
 
-_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks

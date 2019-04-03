@@ -1,5 +1,5 @@
 ---
-title: Application.SupportsMultipleWindows Property (Project)
+title: Application.SupportsMultipleWindows property (Project)
 keywords: vbapj.chm132628
 f1_keywords:
 - vbapj.chm132628
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SupportsMultipleWindows Property (Project)
+# Application.SupportsMultipleWindows property (Project)
 
 Always  **True** for Project and any other application that can have more than one window open at a time. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SupportsMultipleWindows`
+_expression_. `SupportsMultipleWindows`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

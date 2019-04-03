@@ -1,5 +1,5 @@
 ---
-title: Document.CopyPreviewPicture Method (Visio)
+title: Document.CopyPreviewPicture method (Visio)
 keywords: vis_sdr.chm10550545
 f1_keywords:
 - vis_sdr.chm10550545
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.CopyPreviewPicture Method (Visio)
+# Document.CopyPreviewPicture method (Visio)
 
 Copies the preview picture from another document into the current document.
 
 
 ## Syntax
 
- _expression_. `CopyPreviewPicture`( `_pSourceDoc_` )
+_expression_. `CopyPreviewPicture`( `_pSourceDoc_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

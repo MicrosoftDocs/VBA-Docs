@@ -19,7 +19,7 @@ Converts a table to text and returns a  **Range** object that represents the del
 
 ## Syntax
 
- _expression_. `ConvertToText`( `_Separator_` , `_NestedTables_` )
+_expression_. `ConvertToText`( `_Separator_` , `_NestedTables_` )
 
  _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 

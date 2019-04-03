@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowPercentAllocation Method (Project)
+title: Application.ViewShowPercentAllocation method (Project)
 keywords: vbapj.chm926
 f1_keywords:
 - vbapj.chm926
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowPercentAllocation Method (Project)
+# Application.ViewShowPercentAllocation method (Project)
 
 Displays percent allocation information in the active Resource Graph view.
 
 
 ## Syntax
 
- _expression_. `ViewShowPercentAllocation`
+_expression_. `ViewShowPercentAllocation`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

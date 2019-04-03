@@ -1,5 +1,5 @@
 ---
-title: PjBoxShape Enumeration (Project)
+title: PjBoxShape enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBoxShape
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBoxShape Enumeration (Project)
+# PjBoxShape enumeration (Project)
 
 Contains constants that specify the shape of a box.
 

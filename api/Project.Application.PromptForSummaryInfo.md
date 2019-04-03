@@ -1,5 +1,5 @@
 ---
-title: Application.PromptForSummaryInfo Property (Project)
+title: Application.PromptForSummaryInfo property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.PromptForSummaryInfo
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PromptForSummaryInfo Property (Project)
+# Application.PromptForSummaryInfo property (Project)
 
  **True** if the **Project Information** dialog box displays when a new project is created. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PromptForSummaryInfo`
+_expression_. `PromptForSummaryInfo`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

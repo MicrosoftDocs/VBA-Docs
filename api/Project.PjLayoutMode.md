@@ -1,5 +1,5 @@
 ---
-title: PjLayoutMode Enumeration (Project)
+title: PjLayoutMode enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLayoutMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjLayoutMode Enumeration (Project)
+# PjLayoutMode enumeration (Project)
 
 Contains constants that specify the layout mode.
 

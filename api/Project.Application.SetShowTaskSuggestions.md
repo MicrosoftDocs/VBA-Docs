@@ -1,5 +1,5 @@
 ---
-title: Application.SetShowTaskSuggestions Method (Project)
+title: Application.SetShowTaskSuggestions method (Project)
 keywords: vbapj.chm2177
 f1_keywords:
 - vbapj.chm2177
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SetShowTaskSuggestions Method (Project)
+# Application.SetShowTaskSuggestions method (Project)
 
 Sets the global  **Show Suggestions** option for tasks.
 
 
 ## Syntax
 
- _expression_. `SetShowTaskSuggestions`( `_Set_` )
+_expression_. `SetShowTaskSuggestions`( `_Set_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

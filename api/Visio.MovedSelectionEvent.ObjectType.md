@@ -1,5 +1,5 @@
 ---
-title: MovedSelectionEvent.ObjectType Property (Visio)
+title: MovedSelectionEvent.ObjectType property (Visio)
 keywords: vis_sdr.chm17813960
 f1_keywords:
 - vis_sdr.chm17813960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MovedSelectionEvent.ObjectType Property (Visio)
+# MovedSelectionEvent.ObjectType property (Visio)
 
 Returns  **visObjTypeMovedSelectionEvent**, the type of this object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a '[MovedSelectionEvent](Visio.MovedSelectionEvent.md)' object.
 

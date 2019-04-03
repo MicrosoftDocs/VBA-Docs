@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Delete Method (PowerPoint)
+title: CustomLayout.Delete method (PowerPoint)
 keywords: vbapp10.chm672007
 f1_keywords:
 - vbapp10.chm672007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Delete Method (PowerPoint)
+# CustomLayout.Delete method (PowerPoint)
 
 Deletes the specified object.
 

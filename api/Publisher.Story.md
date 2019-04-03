@@ -1,5 +1,5 @@
 ---
-title: Story Object (Publisher)
+title: Story object (Publisher)
 keywords: vbapb10.chm5898239
 f1_keywords:
 - vbapb10.chm5898239
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Story Object (Publisher)
+# Story object (Publisher)
 
 Represents the text in an unlinked text frame, text flowing between linked text frames, or text in a table cell. The  **Story** object is a member of the **TextFrame** and **TextRange** objects and the **Stories** collection.
 

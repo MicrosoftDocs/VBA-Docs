@@ -1,5 +1,5 @@
 ---
-title: Project.LastSaveDate Property (Project)
+title: Project.LastSaveDate property (Project)
 keywords: vbapj.chm132368
 f1_keywords:
 - vbapj.chm132368
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.LastSaveDate Property (Project)
+# Project.LastSaveDate property (Project)
 
 Gets the date a project was last saved. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `LastSaveDate`
+_expression_. `LastSaveDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Folders.FolderChange Event (Outlook)
+title: Folders.FolderChange event (Outlook)
 keywords: vbaol11.chm309
 f1_keywords:
 - vbaol11.chm309
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.FolderChange Event (Outlook)
+# Folders.FolderChange event (Outlook)
 
 Occurs when a folder in the specified  **[Folders](Outlook.Folders.md)** collection is changed.
 
@@ -21,7 +21,7 @@ Occurs when a folder in the specified  **[Folders](Outlook.Folders.md)** collect
 
 _expression_. `FolderChange`( `_Folder_` )
 
-_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Parameters

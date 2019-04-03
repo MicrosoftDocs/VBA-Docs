@@ -1,5 +1,5 @@
 ---
-title: View.ZoomToFit Property (PowerPoint)
+title: View.ZoomToFit property (PowerPoint)
 keywords: vbapp10.chm512009
 f1_keywords:
 - vbapp10.chm512009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# View.ZoomToFit Property (PowerPoint)
+# View.ZoomToFit property (PowerPoint)
 
 Determines whether the view is zoomed to fit the dimensions of the document window every time the document window is resized. Read/write.
 
 
 ## Syntax
 
- _expression_. `ZoomToFit`
+_expression_. `ZoomToFit`
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

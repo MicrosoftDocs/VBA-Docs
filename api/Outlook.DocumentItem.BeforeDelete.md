@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.BeforeDelete Event (Outlook)
+title: DocumentItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.BeforeDelete Event (Outlook)
+# DocumentItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 
@@ -18,7 +18,7 @@ Occurs before an item (which is an instance of the parent object) is deleted.
 
 _expression_. `BeforeDelete`( `_Item_` , `_Cancel_` )
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Parameters

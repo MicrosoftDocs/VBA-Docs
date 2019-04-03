@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.GetConversation Method (Outlook)
+title: TaskRequestUpdateItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3504
 f1_keywords:
 - vbaol11.chm3504
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.GetConversation Method (Outlook)
+# TaskRequestUpdateItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
 _expression_ A variable that represents a '[TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md)' object.
 

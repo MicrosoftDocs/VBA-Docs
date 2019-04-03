@@ -1,5 +1,5 @@
 ---
-title: Floor.Select Method (PowerPoint)
+title: Floor.Select method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Select
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Floor.Select Method (PowerPoint)
+# Floor.Select method (PowerPoint)
 
 Selects the object.
 

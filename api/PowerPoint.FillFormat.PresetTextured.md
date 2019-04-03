@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTextured Method (PowerPoint)
+title: FillFormat.PresetTextured method (PowerPoint)
 keywords: vbapp10.chm552006
 f1_keywords:
 - vbapp10.chm552006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.PresetTextured Method (PowerPoint)
+# FillFormat.PresetTextured method (PowerPoint)
 
 Sets the specified fill to a preset texture.
 
 
 ## Syntax
 
- _expression_. `PresetTextured`( `_PresetTexture_` )
+_expression_. `PresetTextured`( `_PresetTexture_` )
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -67,7 +67,7 @@ The value of the PresetTexturedargument can be one of these  **MsoPresetTexture*
 
 ## Example
 
-This example adds a rectangle with a green-marble textured fill to  `myDocument`.
+This example adds a rectangle with a green-marble textured fill to  _myDocument_.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.RTFBody Property (Outlook)
+title: DistListItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3529
 f1_keywords:
 - vbaol11.chm3529
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.RTFBody Property (Outlook)
+# DistListItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 

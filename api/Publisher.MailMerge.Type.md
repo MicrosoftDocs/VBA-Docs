@@ -1,5 +1,5 @@
 ---
-title: MailMerge.Type Property (Publisher)
+title: MailMerge.Type property (Publisher)
 keywords: vbapb10.chm6225945
 f1_keywords:
 - vbapb10.chm6225945
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.Type Property (Publisher)
+# MailMerge.Type property (Publisher)
 
 Gets or sets the type of mail merge represented by the parent  **MailMerge** object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
- _expression_An expression that returns a  **MailMerge** object.
+ _expression_ An expression that returns a  **MailMerge** object.
 
 
 ## Return value

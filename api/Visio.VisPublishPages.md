@@ -1,5 +1,5 @@
 ---
-title: VisPublishPages Enumeration (Visio)
+title: VisPublishPages enumeration (Visio)
 keywords: vis_sdr.chm70665
 f1_keywords:
 - vis_sdr.chm70665
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisPublishPages Enumeration (Visio)
+# VisPublishPages enumeration (Visio)
 
 Specifies constants that define which pages to publish; passed to the  **[ServerPublishOptions.SetPagesToPublish](Visio.ServerPublishOptions.SetPagesToPublish.md)** method and returned by the **[ServerPublishOptions.GetPagesToPublish](Visio.ServerPublishOptions.GetPagesToPublish.md)** method.
 

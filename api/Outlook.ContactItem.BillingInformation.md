@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BillingInformation Property (Outlook)
+title: ContactItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm932
 f1_keywords:
 - vbaol11.chm932
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BillingInformation Property (Outlook)
+# ContactItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the billing information associated wi
 
 _expression_. `BillingInformation`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

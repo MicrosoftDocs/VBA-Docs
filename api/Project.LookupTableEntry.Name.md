@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.Name Property (Project)
+title: LookupTableEntry.Name property (Project)
 keywords: vbapj.chm132396
 f1_keywords:
 - vbapj.chm132396
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LookupTableEntry.Name Property (Project)
+# LookupTableEntry.Name property (Project)
 
 Gets the name of a  **LookupTableEntry** object. Read/write **String**.
 

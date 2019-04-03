@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.WarpFormat Property (PowerPoint)
+title: TextFrame2.WarpFormat property (PowerPoint)
 keywords: vbapp10.chm678010
 f1_keywords:
 - vbapp10.chm678010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.WarpFormat Property (PowerPoint)
+# TextFrame2.WarpFormat property (PowerPoint)
 
 Returns or sets the warp format (how the text is warped) for the specified text frame. Read/write.
 
 
 ## Syntax
 
- _expression_. `WarpFormat`
+_expression_. `WarpFormat`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 

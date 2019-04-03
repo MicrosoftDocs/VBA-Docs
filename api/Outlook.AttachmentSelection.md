@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection Object (Outlook)
+title: AttachmentSelection object (Outlook)
 keywords: vbaol11.chm3202
 f1_keywords:
 - vbaol11.chm3202
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AttachmentSelection Object (Outlook)
+# AttachmentSelection object (Outlook)
 
 Contains a set of  **[Attachment](Outlook.Attachment.md)** objects that represent the selected attachments in an Outlook item.
 
@@ -49,6 +49,6 @@ To customize the attachment shortcut menu by using Microsoft Office Fluent ribbo
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

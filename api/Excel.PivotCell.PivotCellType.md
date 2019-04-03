@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotCell.PivotCellType property (Excel)
 
-Returns one of the  **[xlPivotCellType](Excel.XlPivotCellType.md)** constants that identifies the PivotTable entity the cell corresponds to. Read-only.
+Returns one of the  **[XlPivotCellType](Excel.XlPivotCellType.md)** constants that identifies the PivotTable entity the cell corresponds to. Read-only.
 
 
 ## Syntax

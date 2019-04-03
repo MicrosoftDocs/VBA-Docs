@@ -1,5 +1,5 @@
 ---
-title: TableView.AlwaysExpandConversation Property (Outlook)
+title: TableView.AlwaysExpandConversation property (Outlook)
 keywords: vbaol11.chm3520
 f1_keywords:
 - vbaol11.chm3520
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.AlwaysExpandConversation Property (Outlook)
+# TableView.AlwaysExpandConversation property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether conversations are always fully expanded in the table view. Read/write.
 

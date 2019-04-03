@@ -1,5 +1,5 @@
 ---
-title: PjWeekday Enumeration (Project)
+title: PjWeekday enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjWeekday
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjWeekday Enumeration (Project)
+# PjWeekday enumeration (Project)
 
 Contains constants that specify the day of the week.
 

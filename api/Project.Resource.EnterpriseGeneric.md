@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseGeneric Property (Project)
+title: Resource.EnterpriseGeneric property (Project)
 keywords: vbapj.chm131885
 f1_keywords:
 - vbapj.chm131885
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseGeneric Property (Project)
+# Resource.EnterpriseGeneric property (Project)
 
  **True** if the resource is a generic resource; **False** if the resource is actual. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseGeneric`
+_expression_. `EnterpriseGeneric`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

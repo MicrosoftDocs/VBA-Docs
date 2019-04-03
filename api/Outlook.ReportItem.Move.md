@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Move Method (Outlook)
+title: ReportItem.Move method (Outlook)
 keywords: vbaol11.chm1668
 f1_keywords:
 - vbaol11.chm1668
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Move Method (Outlook)
+# ReportItem.Move method (Outlook)
 
 Moves a Microsoft Outlook item to a new folder.
 
@@ -21,7 +21,7 @@ Moves a Microsoft Outlook item to a new folder.
 
 _expression_. `Move`( `_DestFldr_` )
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListIndent Property (Publisher)
+title: ParagraphFormat.ListIndent property (Publisher)
 keywords: vbapb10.chm5439522
 f1_keywords:
 - vbapb10.chm5439522
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListIndent Property (Publisher)
+# ParagraphFormat.ListIndent property (Publisher)
 
 Returns or sets a  **Single** that represents the list indent value (in points) for the specified **ParagraphFormat** object. Read/write.
 
 
 ## Syntax
 
- _expression_. **ListIndent**
+ _expression_.**ListIndent**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

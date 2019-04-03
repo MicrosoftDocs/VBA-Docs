@@ -1,5 +1,5 @@
 ---
-title: OrderFields.RemoveAll Method (Outlook)
+title: OrderFields.RemoveAll method (Outlook)
 keywords: vbaol11.chm2680
 f1_keywords:
 - vbaol11.chm2680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OrderFields.RemoveAll Method (Outlook)
+# OrderFields.RemoveAll method (Outlook)
 
 Removes all sorting properties from the  **[OrderFields](Outlook.OrderFields.md)** collection.
 
@@ -21,7 +21,7 @@ Removes all sorting properties from the  **[OrderFields](Outlook.OrderFields.md)
 
 _expression_. `RemoveAll`
 
-_expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.md) object.
+_expression_ A variable that represents an [OrderFields](Outlook.OrderFields.md) object.
 
 
 ## See also

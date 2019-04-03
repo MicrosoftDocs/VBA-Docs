@@ -1,5 +1,5 @@
 ---
-title: Document.ExportAsFixedFormat Method (Publisher)
+title: Document.ExportAsFixedFormat method (Publisher)
 keywords: vbapb10.chm196758
 f1_keywords:
 - vbapb10.chm196758
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ExportAsFixedFormat Method (Publisher)
+# Document.ExportAsFixedFormat method (Publisher)
 
 Saves a Microsoft Publisher publication in PDF or XPS format. The conversion readies the document to be sent to commercial presses, to copy shops, for desktop printing, or for electronic distribution.
 
 
 ## Syntax
 
- _expression_. **ExportAsFixedFormat**(**_Format_**,  **_Filename_**,  **_Intent_**,  **_IncludeDocumentProperties_**,  **_ColorDownsampleTarget_**,  **_ColorDownsampleThreshold_**,  **_OneBitDownsampleTarget_**,  **_OneBitDownsampleThreshold_**, **_From_**, **_To_**, **_Copies_**, **_Collate_**, **_PrintStyle_**, **_DocStructureTags_**, **_BitmapMissingFonts_**, **_UseISO19005_1_**, **_ExternalExporter_**)
+ _expression_.**ExportAsFixedFormat**(**_Format_**,  **_FileName_**,  **_Intent_**,  **_IncludeDocumentProperties_**,  **_ColorDownsampleTarget_**,  **_ColorDownsampleThreshold_**,  **_OneBitDownsampleTarget_**,  **_OneBitDownsampleThreshold_**, **_From_**, **_To_**, **_Copies_**, **_Collate_**, **_PrintStyle_**, **_DocStructureTags_**, **_BitmapMissingFonts_**, **_UseISO19005_1_**, **_ExternalExporter_**)
 
  _expression_ A variable that represents a  **Document** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.HelpPaths Property (Visio)
+title: Application.HelpPaths property (Visio)
 keywords: vis_sdr.chm10013635
 f1_keywords:
 - vis_sdr.chm10013635
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.HelpPaths Property (Visio)
+# Application.HelpPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for Help files. Read/write.
 
 
 ## Syntax
 
- _expression_. `HelpPaths`
+_expression_. `HelpPaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

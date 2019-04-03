@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.Parent Property (PowerPoint)
+title: SlideShowTransition.Parent property (PowerPoint)
 keywords: vbapp10.chm539002
 f1_keywords:
 - vbapp10.chm539002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowTransition.Parent Property (PowerPoint)
+# SlideShowTransition.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

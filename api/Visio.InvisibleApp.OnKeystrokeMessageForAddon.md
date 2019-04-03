@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.OnKeystrokeMessageForAddon Event (Visio)
+title: InvisibleApp.OnKeystrokeMessageForAddon event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.OnKeystrokeMessageForAddon
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.OnKeystrokeMessageForAddon Event (Visio)
+# InvisibleApp.OnKeystrokeMessageForAddon event (Visio)
 
 Occurs when Microsoft Visio receives a keystroke message from Microsoft Windows that is targeted at an add-on window or child of an add-on window.
 

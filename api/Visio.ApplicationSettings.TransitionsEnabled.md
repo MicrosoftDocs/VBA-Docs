@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.TransitionsEnabled Property (Visio)
+title: ApplicationSettings.TransitionsEnabled property (Visio)
 keywords: vis_sdr.chm16262495
 f1_keywords:
 - vis_sdr.chm16262495
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.TransitionsEnabled Property (Visio)
+# ApplicationSettings.TransitionsEnabled property (Visio)
 
 Determines whether Microsoft Visio uses an animated transition to show certain shape movements, such as re-layout of shapes. Read/write.
 
 
 ## Syntax
 
- _expression_. `TransitionsEnabled`
+_expression_. `TransitionsEnabled`
 
  _expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

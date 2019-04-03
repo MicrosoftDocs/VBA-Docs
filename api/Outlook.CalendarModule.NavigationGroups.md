@@ -1,5 +1,5 @@
 ---
-title: CalendarModule.NavigationGroups Property (Outlook)
+title: CalendarModule.NavigationGroups property (Outlook)
 keywords: vbaol11.chm2830
 f1_keywords:
 - vbaol11.chm2830
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarModule.NavigationGroups Property (Outlook)
+# CalendarModule.NavigationGroups property (Outlook)
 
 Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[CalendarModule](Outlook.CalendarModule.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that conta
 
 _expression_. `NavigationGroups`
 
-_expression_ A variable that represents a [CalendarModule](./Outlook.CalendarModule.md) object.
+_expression_ A variable that represents a [CalendarModule](Outlook.CalendarModule.md) object.
 
 
 ## See also

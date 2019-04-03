@@ -1,5 +1,5 @@
 ---
-title: TextRange.MajorityFont Property (Publisher)
+title: TextRange.MajorityFont property (Publisher)
 keywords: vbapb10.chm5308467
 f1_keywords:
 - vbapb10.chm5308467
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.MajorityFont Property (Publisher)
+# TextRange.MajorityFont property (Publisher)
 
 Returns a  **[Font](Publisher.Font.md)** object that represents the font name most in use in a text range.
 
 
 ## Syntax
 
- _expression_. **MajorityFont**
+ _expression_.**MajorityFont**
 
  _expression_ A variable that represents a  **TextRange** object.
 

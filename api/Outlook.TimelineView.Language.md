@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Language Property (Outlook)
+title: TimelineView.Language property (Outlook)
 keywords: vbaol11.chm2651
 f1_keywords:
 - vbaol11.chm2651
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Language Property (Outlook)
+# TimelineView.Language property (Outlook)
 
 Returns or sets a  **String** value that represents the language setting for the view. Read/write.
 
 
 ## Syntax
 
- _expression_. `Language`
+_expression_. `Language`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks

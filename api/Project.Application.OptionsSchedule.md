@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsSchedule Method (Project)
+title: Application.OptionsSchedule method (Project)
 keywords: vbapj.chm644
 f1_keywords:
 - vbapj.chm644
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsSchedule Method (Project)
+# Application.OptionsSchedule method (Project)
 
 Sets scheduling options.
 
 
 ## Syntax
 
- _expression_. `OptionsSchedule`( `_ScheduleMessages_`, `_StartOnCurrentDate_`, `_AutoLink_`, `_AutoSplit_`, `_CriticalSlack_`, `_TaskType_`, `_DurationUnits_`, `_WorkUnits_`, `_AutoTrack_`, `_SetDefaults_`, `_AssignmentUnits_`, `_EffortDriven_`, `_HonorConstraints_`, `_ShowEstimated_`, `_NewTasksEstimated_` )
+_expression_. `OptionsSchedule`( `_ScheduleMessages_`, `_StartOnCurrentDate_`, `_AutoLink_`, `_AutoSplit_`, `_CriticalSlack_`, `_TaskType_`, `_DurationUnits_`, `_WorkUnits_`, `_AutoTrack_`, `_SetDefaults_`, `_AssignmentUnits_`, `_EffortDriven_`, `_HonorConstraints_`, `_ShowEstimated_`, `_NewTasksEstimated_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

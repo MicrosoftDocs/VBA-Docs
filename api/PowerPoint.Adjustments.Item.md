@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Item Property (PowerPoint)
+title: Adjustments.Item property (PowerPoint)
 keywords: vbapp10.chm550003
 f1_keywords:
 - vbapp10.chm550003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Adjustments.Item Property (PowerPoint)
+# Adjustments.Item property (PowerPoint)
 
 Returns or sets the adjustment value specified by the Index argument. Read/write.
 
@@ -46,7 +46,7 @@ AutoShapes, connectors, and WordArt objects can have up to eight adjustments.
 
 ## Example
 
-This example adds two crosses to  `myDocument` and then sets the value for adjustment one (the only one on this type of AutoShape) on each cross.
+This example adds two crosses to  _myDocument_ and then sets the value for adjustment one (the only one on this type of AutoShape) on each cross.
 
 
 ```vb

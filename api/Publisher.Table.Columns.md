@@ -1,5 +1,5 @@
 ---
-title: Table.Columns Property (Publisher)
+title: Table.Columns property (Publisher)
 keywords: vbapb10.chm4784131
 f1_keywords:
 - vbapb10.chm4784131
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.Columns Property (Publisher)
+# Table.Columns property (Publisher)
 
 Returns a  **[Columns](Publisher.Columns.md)** collection that represents all the columns of the specified table.
 
 
 ## Syntax
 
- _expression_. **Columns**
+ _expression_.**Columns**
 
  _expression_ A variable that represents a  **Table** object.
 

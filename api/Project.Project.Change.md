@@ -1,5 +1,5 @@
 ---
-title: Project.Change Event (Project)
+title: Project.Change event (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Change
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Change Event (Project)
+# Project.Change event (Project)
 
 Occurs when a change is made to data in the project. An action affecting several items at once is considered to be one change.
 
 
 ## Syntax
 
- _expression_. `Change`( `_pj_` )
+_expression_. `Change`( `_pj_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

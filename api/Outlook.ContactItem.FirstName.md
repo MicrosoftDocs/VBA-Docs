@@ -1,5 +1,5 @@
 ---
-title: ContactItem.FirstName Property (Outlook)
+title: ContactItem.FirstName property (Outlook)
 keywords: vbaol11.chm1004
 f1_keywords:
 - vbaol11.chm1004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.FirstName Property (Outlook)
+# ContactItem.FirstName property (Outlook)
 
 Returns or sets a  **String** representing the first name for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the first name for the contact. Read/
 
 _expression_. `FirstName`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

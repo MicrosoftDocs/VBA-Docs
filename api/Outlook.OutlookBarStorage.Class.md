@@ -1,5 +1,5 @@
 ---
-title: OutlookBarStorage.Class Property (Outlook)
+title: OutlookBarStorage.Class property (Outlook)
 keywords: vbaol11.chm369
 f1_keywords:
 - vbaol11.chm369
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarStorage.Class Property (Outlook)
+# OutlookBarStorage.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [OutlookBarStorage](./Outlook.OutlookBarStorage.md) object.
+_expression_ A variable that represents an [OutlookBarStorage](Outlook.OutlookBarStorage.md) object.
 
 
 ## See also

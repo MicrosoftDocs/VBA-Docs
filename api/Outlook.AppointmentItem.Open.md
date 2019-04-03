@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Open Event (Outlook)
+title: AppointmentItem.Open event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Open
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Open Event (Outlook)
+# AppointmentItem.Open event (Outlook)
 
 Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 
@@ -18,7 +18,7 @@ Occurs when an instance of the parent object is being opened in an  **[Inspector
 
 _expression_. `Open`( `_Cancel_` )
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Parameters

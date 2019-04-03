@@ -1,5 +1,5 @@
 ---
-title: Shape.Hyperlinks Property (Visio)
+title: Shape.Hyperlinks property (Visio)
 keywords: vis_sdr.chm11213660
 f1_keywords:
 - vis_sdr.chm11213660
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Hyperlinks Property (Visio)
+# Shape.Hyperlinks property (Visio)
 
 Returns the  **Hyperlinks** collection for a **Shape** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Hyperlinks`
+_expression_. `Hyperlinks`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

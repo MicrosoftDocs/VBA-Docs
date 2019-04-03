@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs.Count Property (PowerPoint)
+title: ObjectVerbs.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ObjectVerbs.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ObjectVerbs.Count Property (PowerPoint)
+# ObjectVerbs.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

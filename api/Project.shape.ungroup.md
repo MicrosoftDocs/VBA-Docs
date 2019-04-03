@@ -1,5 +1,5 @@
 ---
-title: Shape.Ungroup Method (Project)
+title: Shape.Ungroup method (Project)
 ms.prod: project-server
 ms.assetid: 3b2447ec-2639-e9dd-3c39-172e58f74bbe
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shape.Ungroup Method (Project)
+# Shape.Ungroup method (Project)
 The  **Ungroup** method is not implemented in Project.
 
 ## Syntax
 
- _expression_. `Ungroup`
+_expression_. `Ungroup`
 
  _expression_ A variable that represents a 'Shape' object.
 

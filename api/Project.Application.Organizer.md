@@ -1,5 +1,5 @@
 ---
-title: Application.Organizer Method (Project)
+title: Application.Organizer method (Project)
 keywords: vbapj.chm126
 f1_keywords:
 - vbapj.chm126
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Organizer Method (Project)
+# Application.Organizer method (Project)
 
 Displays the  **Organizer** dialog box, which enables the user to manage views, reports, modules, tables, filters, calendars, maps, fields, and groups.
 
 
 ## Syntax
 
- _expression_. `Organizer`( `_Type_`, `_Task_` )
+_expression_. `Organizer`( `_Type_`, `_Task_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

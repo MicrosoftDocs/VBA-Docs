@@ -1,5 +1,5 @@
 ---
-title: NoteItem.AutoResolvedWinner Property (Outlook)
+title: NoteItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1505
 f1_keywords:
 - vbaol11.chm1505
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NoteItem.AutoResolvedWinner Property (Outlook)
+# NoteItem.AutoResolvedWinner property (Outlook)
 
 Returns a  **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that determines if the item is a winner of an automatic c
 
 _expression_. `AutoResolvedWinner`
 
-_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## Remarks

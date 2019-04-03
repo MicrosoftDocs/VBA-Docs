@@ -1,5 +1,5 @@
 ---
-title: Folder.BeforeFolderMove Event (Outlook)
+title: Folder.BeforeFolderMove event (Outlook)
 keywords: vbaol11.chm2751
 f1_keywords:
 - vbaol11.chm2751
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.BeforeFolderMove Event (Outlook)
+# Folder.BeforeFolderMove event (Outlook)
 
 Occurs when a folder is about to be moved or deleted, either as a result of user action or through program code. 
 
@@ -21,7 +21,7 @@ Occurs when a folder is about to be moved or deleted, either as a result of user
 
 _expression_. `BeforeFolderMove`( `_MoveTo_` , `_Cancel_` )
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Parameters

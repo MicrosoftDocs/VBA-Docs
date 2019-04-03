@@ -1,5 +1,5 @@
 ---
-title: CalendarView.GoToDate Method (Outlook)
+title: CalendarView.GoToDate method (Outlook)
 keywords: vbaol11.chm2623
 f1_keywords:
 - vbaol11.chm2623
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.GoToDate Method (Outlook)
+# CalendarView.GoToDate method (Outlook)
 
 Changes the date used by the current view to display information.
 
@@ -21,7 +21,7 @@ Changes the date used by the current view to display information.
 
 _expression_. `GoToDate`( `_Date_` )
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Parameters

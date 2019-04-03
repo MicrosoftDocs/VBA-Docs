@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # WorkbookConnection.Type property (Excel)
 
-Returns the workbook connection type. Read-only  **[xlConnectionType](Excel.XlConnectionType.md)**.
+Returns the workbook connection type. Read-only  **[XlConnectionType](Excel.XlConnectionType.md)**.
 
 
 ## Syntax
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## See also

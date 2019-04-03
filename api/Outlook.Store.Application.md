@@ -1,5 +1,5 @@
 ---
-title: Store.Application Property (Outlook)
+title: Store.Application property (Outlook)
 keywords: vbaol11.chm796
 f1_keywords:
 - vbaol11.chm796
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.Application Property (Outlook)
+# Store.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 ## See also

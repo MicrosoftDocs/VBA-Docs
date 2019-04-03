@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SplitValue Property (PowerPoint)
+title: ChartGroup.SplitValue property (PowerPoint)
 keywords: vbapp10.chm692004
 f1_keywords:
 - vbapp10.chm692004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.SplitValue Property (PowerPoint)
+# ChartGroup.SplitValue property (PowerPoint)
 
 Returns or sets the threshold value separating the two sections of either a pie-of-pie chart or a bar-of-pie chart. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `SplitValue`
+_expression_. `SplitValue`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

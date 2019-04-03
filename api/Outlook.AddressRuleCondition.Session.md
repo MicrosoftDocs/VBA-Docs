@@ -1,5 +1,5 @@
 ---
-title: AddressRuleCondition.Session Property (Outlook)
+title: AddressRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2951
 f1_keywords:
 - vbaol11.chm2951
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressRuleCondition.Session Property (Outlook)
+# AddressRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents an [AddressRuleCondition](./Outlook.AddressRuleCondition.md) object.
+_expression_ A variable that represents an [AddressRuleCondition](Outlook.AddressRuleCondition.md) object.
 
 
 ## Remarks

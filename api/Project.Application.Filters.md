@@ -1,5 +1,5 @@
 ---
-title: Application.Filters Method (Project)
+title: Application.Filters method (Project)
 keywords: vbapj.chm501
 f1_keywords:
 - vbapj.chm501
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Filters Method (Project)
+# Application.Filters method (Project)
 
 Displays the  **More Filters** dialog box, which prompts the user to use a filter.
 
 
 ## Syntax
 
- _expression_. `Filters`
+_expression_. `Filters`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

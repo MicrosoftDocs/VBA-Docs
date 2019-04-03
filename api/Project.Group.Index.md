@@ -1,5 +1,5 @@
 ---
-title: Group.Index Property (Project)
+title: Group.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Group.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Group.Index Property (Project)
+# Group.Index property (Project)
 
 Gets the index of a  **Group** object in the containing collection object. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Group](./Project.Group.md) object.
 

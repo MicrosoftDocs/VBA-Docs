@@ -1,5 +1,5 @@
 ---
-title: Documents.QueryCancelDocumentClose Event (Visio)
+title: Documents.QueryCancelDocumentClose event (Visio)
 keywords: vis_sdr.chm10619295
 f1_keywords:
 - vis_sdr.chm10619295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.QueryCancelDocumentClose Event (Visio)
+# Documents.QueryCancelDocumentClose event (Visio)
 
 Occurs before the application closes a document in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

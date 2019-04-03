@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTask.VideoCompressionType Property (PowerPoint)
+title: ResampleMediaTask.VideoCompressionType property (PowerPoint)
 keywords: vbapp10.chm727009
 f1_keywords:
 - vbapp10.chm727009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTask.VideoCompressionType Property (PowerPoint)
+# ResampleMediaTask.VideoCompressionType property (PowerPoint)
 
 Returns the video compression format of the sample. Read-only.
 
 
 ## Syntax
 
- _expression_. `VideoCompressionType`
+_expression_. `VideoCompressionType`
 
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: JournalItem.AttachmentAdd Event (Outlook)
+title: JournalItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.AttachmentAdd Event (Outlook)
+# JournalItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 _expression_. `AttachmentAdd`( `_Attachment_` )
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeAssignmentNew2 Event (Project)
+title: Application.ProjectBeforeAssignmentNew2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentNew2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeAssignmentNew2 Event (Project)
+# Application.ProjectBeforeAssignmentNew2 event (Project)
 
 Occurs before one or more assignments are created. Uses the  **EventInfo** object parameter.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeAssignmentNew2`( `_pj_`, `_Info_` )
+_expression_. `ProjectBeforeAssignmentNew2`( `_pj_`, `_Info_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

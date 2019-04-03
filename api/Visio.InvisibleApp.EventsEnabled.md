@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.EventsEnabled Property (Visio)
+title: InvisibleApp.EventsEnabled property (Visio)
 keywords: vis_sdr.chm17513485
 f1_keywords:
 - vis_sdr.chm17513485
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.EventsEnabled Property (Visio)
+# InvisibleApp.EventsEnabled property (Visio)
 
 Determines whether a Microsoft Visio instance fires events. Read/write.
 
 
 ## Syntax
 
- _expression_. `EventsEnabled`
+_expression_. `EventsEnabled`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

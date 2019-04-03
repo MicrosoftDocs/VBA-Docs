@@ -1,5 +1,5 @@
 ---
-title: Shift Object (Project)
+title: Shift object (Project)
 ms.prod: project-server
 api_name:
 - Project.Shift
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Shift Object (Project)
+# Shift object (Project)
 
 
  

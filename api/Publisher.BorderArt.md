@@ -1,5 +1,5 @@
 ---
-title: BorderArt Object (Publisher)
+title: BorderArt object (Publisher)
 keywords: vbapb10.chm7733247
 f1_keywords:
 - vbapb10.chm7733247
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BorderArt Object (Publisher)
+# BorderArt object (Publisher)
 
 Represents an available type of BorderArt. BorderArt is picture borders that can be applied to text boxes, picture frames, or rectangles. The  **BorderArt** object is a member of the **[BorderArts](Publisher.BorderArts.md)** collection. The **BorderArts** collection contains all BorderArt available for use in the specified publication.
  

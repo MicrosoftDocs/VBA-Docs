@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.Additive Property (PowerPoint)
+title: AnimationBehavior.Additive property (PowerPoint)
 keywords: vbapp10.chm657003
 f1_keywords:
 - vbapp10.chm657003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationBehavior.Additive Property (PowerPoint)
+# AnimationBehavior.Additive property (PowerPoint)
 
 Sets or returns whether the current animation behavior is combined with other running animations. Read/write.
 
 
 ## Syntax
 
- _expression_. `Additive`
+_expression_. `Additive`
 
 _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 

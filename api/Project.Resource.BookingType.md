@@ -1,5 +1,5 @@
 ---
-title: Resource.BookingType Property (Project)
+title: Resource.BookingType property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.BookingType
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.BookingType Property (Project)
+# Resource.BookingType property (Project)
 
 Gets or sets the booking type for a resource. Can be one of the following  **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BookingType`
+_expression_. `BookingType`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

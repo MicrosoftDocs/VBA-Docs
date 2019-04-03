@@ -1,5 +1,5 @@
 ---
-title: Application.AppMaximize Method (Project)
+title: Application.AppMaximize method (Project)
 keywords: vbapj.chm2008
 f1_keywords:
 - vbapj.chm2008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AppMaximize Method (Project)
+# Application.AppMaximize method (Project)
 
 Maximizes the main window.
 
 
 ## Syntax
 
- _expression_. `AppMaximize`
+_expression_. `AppMaximize`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: DataConnection.ID Property (Visio)
+title: DataConnection.ID property (Visio)
 keywords: vis_sdr.chm16513675
 f1_keywords:
 - vis_sdr.chm16513675
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataConnection.ID Property (Visio)
+# DataConnection.ID property (Visio)
 
 Gets the unique identifier of the  **DataConnection** object assigned by Visio. Read-only.
 
@@ -22,7 +22,7 @@ Gets the unique identifier of the  **DataConnection** object assigned by Visio. 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [DataConnection](./Visio.DataConnection.md) object.
 

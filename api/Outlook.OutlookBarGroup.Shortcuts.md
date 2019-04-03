@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroup.Shortcuts Property (Outlook)
+title: OutlookBarGroup.Shortcuts property (Outlook)
 keywords: vbaol11.chm326
 f1_keywords:
 - vbaol11.chm326
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroup.Shortcuts Property (Outlook)
+# OutlookBarGroup.Shortcuts property (Outlook)
 
 Returns an  **[OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md)** collection of shortcuts contained within the **Shortcuts** pane. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md)** collection
 
 _expression_. `Shortcuts`
 
-_expression_ A variable that represents an [OutlookBarGroup](./Outlook.OutlookBarGroup.md) object.
+_expression_ A variable that represents an [OutlookBarGroup](Outlook.OutlookBarGroup.md) object.
 
 
 ## Example

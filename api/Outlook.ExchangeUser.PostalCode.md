@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.PostalCode Property (Outlook)
+title: ExchangeUser.PostalCode property (Outlook)
 keywords: vbaol11.chm2097
 f1_keywords:
 - vbaol11.chm2097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.PostalCode Property (Outlook)
+# ExchangeUser.PostalCode property (Outlook)
 
 Returns a  **String** representing the postal code for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the postal code for the **[ExchangeUser](Outl
 
 _expression_. `PostalCode`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

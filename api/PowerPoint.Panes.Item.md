@@ -1,5 +1,5 @@
 ---
-title: Panes.Item Method (PowerPoint)
+title: Panes.Item method (PowerPoint)
 keywords: vbapp10.chm630002
 f1_keywords:
 - vbapp10.chm630002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Panes.Item Method (PowerPoint)
+# Panes.Item method (PowerPoint)
 
 Returns a single  **Pane** object from the specified **Panes** collection.
 

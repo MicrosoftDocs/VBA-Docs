@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorTickMark Property (PowerPoint)
+title: Axis.MajorTickMark property (PowerPoint)
 keywords: vbapp10.chm682012
 f1_keywords:
 - vbapp10.chm682012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.MajorTickMark Property (PowerPoint)
+# Axis.MajorTickMark property (PowerPoint)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[xlTickMark](PowerPoint.XlTickMark.md)**.
+Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](PowerPoint.XlTickMark.md)**.
 
 
 ## Syntax
 
- _expression_. `MajorTickMark`
+_expression_. `MajorTickMark`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

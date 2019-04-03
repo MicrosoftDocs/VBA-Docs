@@ -1,5 +1,5 @@
 ---
-title: Explorer.Height Property (Outlook)
+title: Explorer.Height property (Outlook)
 keywords: vbaol11.chm2767
 f1_keywords:
 - vbaol11.chm2767
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Height Property (Outlook)
+# Explorer.Height property (Outlook)
 
 Returns or sets a  **Long** specifying the height (in pixels) of the explorer window. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** specifying the height (in pixels) of the explorer wi
 
 _expression_.**Height**
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## See also

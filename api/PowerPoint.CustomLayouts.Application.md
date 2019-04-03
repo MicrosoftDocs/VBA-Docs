@@ -1,5 +1,5 @@
 ---
-title: CustomLayouts.Application Property (PowerPoint)
+title: CustomLayouts.Application property (PowerPoint)
 keywords: vbapp10.chm671001
 f1_keywords:
 - vbapp10.chm671001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayouts.Application Property (PowerPoint)
+# CustomLayouts.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object. Read-only.
 

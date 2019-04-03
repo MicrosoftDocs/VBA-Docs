@@ -1,5 +1,5 @@
 ---
-title: Window.MasterShortcut Property (Visio)
+title: Window.MasterShortcut property (Visio)
 keywords: vis_sdr.chm11613880
 f1_keywords:
 - vis_sdr.chm11613880
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.MasterShortcut Property (Visio)
+# Window.MasterShortcut property (Visio)
 
 Gets the master shortcut that is displayed in a window. Read-only.
 
 
 ## Syntax
 
- _expression_. `MasterShortcut`
+_expression_. `MasterShortcut`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

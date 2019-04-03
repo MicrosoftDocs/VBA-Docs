@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Alignment Property (PowerPoint)
+title: TextEffectFormat.Alignment property (PowerPoint)
 keywords: vbapp10.chm556003
 f1_keywords:
 - vbapp10.chm556003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Alignment Property (PowerPoint)
+# TextEffectFormat.Alignment property (PowerPoint)
 
 Returns or sets the alignment for the specified WordArt. Read/write.
 
 
 ## Syntax
 
- _expression_. `Alignment`
+_expression_. `Alignment`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 

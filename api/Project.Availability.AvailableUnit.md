@@ -1,5 +1,5 @@
 ---
-title: Availability.AvailableUnit Property (Project)
+title: Availability.AvailableUnit property (Project)
 ms.prod: project-server
 api_name:
 - Project.Availability.AvailableUnit
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Availability.AvailableUnit Property (Project)
+# Availability.AvailableUnit property (Project)
 
 Gets or sets the percentage of time the resource is available during the availability period. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `AvailableUnit`
+_expression_. `AvailableUnit`
 
  _expression_ A variable that represents an [Availability](./Project.Availability.md) object.
 

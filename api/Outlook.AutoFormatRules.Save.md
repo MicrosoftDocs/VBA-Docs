@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Save Method (Outlook)
+title: AutoFormatRules.Save method (Outlook)
 keywords: vbaol11.chm3214
 f1_keywords:
 - vbaol11.chm3214
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Save Method (Outlook)
+# AutoFormatRules.Save method (Outlook)
 
 Save all changes to  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects within the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
 
@@ -21,7 +21,7 @@ Save all changes to  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects wit
 
 _expression_. `Save`
 
-_expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
+_expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatRules.md) object.
 
 
 ## Remarks

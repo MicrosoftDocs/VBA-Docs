@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.SetIcon Method (Outlook)
+title: OutlookBarShortcut.SetIcon method (Outlook)
 keywords: vbaol11.chm344
 f1_keywords:
 - vbaol11.chm344
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.SetIcon Method (Outlook)
+# OutlookBarShortcut.SetIcon method (Outlook)
 
 Sets the icon for the specified shortcut on the  **Shortcuts** pane.
 
@@ -21,7 +21,7 @@ Sets the icon for the specified shortcut on the  **Shortcuts** pane.
 
 _expression_. `SetIcon`( `_Icon_` )
 
-_expression_ A variable that represents an [OutlookBarShortcut](./Outlook.OutlookBarShortcut.md) object.
+_expression_ A variable that represents an [OutlookBarShortcut](Outlook.OutlookBarShortcut.md) object.
 
 
 ## Parameters

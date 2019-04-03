@@ -1,5 +1,5 @@
 ---
-title: Stories Object (Publisher)
+title: Stories object (Publisher)
 keywords: vbapb10.chm5767167
 f1_keywords:
 - vbapb10.chm5767167
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Stories Object (Publisher)
+# Stories object (Publisher)
 
 Represents all the text in a publication.
  

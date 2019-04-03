@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportColorReduction Property (Visio)
+title: ApplicationSettings.RasterExportColorReduction property (Visio)
 keywords: vis_sdr.chm16262530
 f1_keywords:
 - vis_sdr.chm16262530
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportColorReduction Property (Visio)
+# ApplicationSettings.RasterExportColorReduction property (Visio)
 
 Determines the color reduction that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, GIF, PNG, or TIFF file. Read/write.
 
 
 ## Syntax
 
- _expression_. `RasterExportColorReduction`
+_expression_. `RasterExportColorReduction`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

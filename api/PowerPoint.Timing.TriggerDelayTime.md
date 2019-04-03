@@ -1,5 +1,5 @@
 ---
-title: Timing.TriggerDelayTime Property (PowerPoint)
+title: Timing.TriggerDelayTime property (PowerPoint)
 keywords: vbapp10.chm653005
 f1_keywords:
 - vbapp10.chm653005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Timing.TriggerDelayTime Property (PowerPoint)
+# Timing.TriggerDelayTime property (PowerPoint)
 
 Sets or returns the delay, in seconds, from when an animation trigger is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `TriggerDelayTime`
+_expression_. `TriggerDelayTime`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

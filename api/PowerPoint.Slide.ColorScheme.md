@@ -1,5 +1,5 @@
 ---
-title: Slide.ColorScheme Property (PowerPoint)
+title: Slide.ColorScheme property (PowerPoint)
 keywords: vbapp10.chm531006
 f1_keywords:
 - vbapp10.chm531006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.ColorScheme Property (PowerPoint)
+# Slide.ColorScheme property (PowerPoint)
 
 Returns or sets the  **[ColorScheme](PowerPoint.ColorScheme.md)** object that represents the scheme colors for the specified slide, slide range, or slide master. Read/write.
 
 
 ## Syntax
 
- _expression_. `ColorScheme`
+_expression_. `ColorScheme`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

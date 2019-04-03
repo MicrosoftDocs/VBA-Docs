@@ -1,5 +1,5 @@
 ---
-title: Application.AutoLayout Property (Visio)
+title: Application.AutoLayout property (Visio)
 keywords: vis_sdr.chm10013105
 f1_keywords:
 - vis_sdr.chm10013105
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.AutoLayout Property (Visio)
+# Application.AutoLayout property (Visio)
 
 Allows you to temporarily disable automatic layout functionality in Microsoft Visio and then re-enable it after you are finished with an action. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoLayout`
+_expression_. `AutoLayout`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

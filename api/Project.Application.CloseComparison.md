@@ -1,5 +1,5 @@
 ---
-title: Application.CloseComparison Method (Project)
+title: Application.CloseComparison method (Project)
 keywords: vbapj.chm2187
 f1_keywords:
 - vbapj.chm2187
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CloseComparison Method (Project)
+# Application.CloseComparison method (Project)
 
 Closes the project version comparison report.
 
 
 ## Syntax
 
- _expression_. `CloseComparison`
+_expression_. `CloseComparison`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages.Application Property (Outlook)
+title: Pages.Application property (Outlook)
 keywords: vbaol11.chm391
 f1_keywords:
 - vbaol11.chm391
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.Application Property (Outlook)
+# Pages.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,13 +21,13 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
+_expression_ A variable that represents a [Pages](Outlook.Pages.md) object.
 
 
 ## See also
 
 
 
-[Pages Object](./Outlook.pages(object).md)
+[Pages Object](Outlook.pages(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

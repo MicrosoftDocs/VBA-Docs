@@ -1,5 +1,5 @@
 ---
-title: TableView.ShowNewItemRow Property (Outlook)
+title: TableView.ShowNewItemRow property (Outlook)
 keywords: vbaol11.chm2527
 f1_keywords:
 - vbaol11.chm2527
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.ShowNewItemRow Property (Outlook)
+# TableView.ShowNewItemRow property (Outlook)
 
 Returns or sets a  **Boolean** value that determines if the new item row is displayed in the **[TableView](Outlook.TableView.md)** object. Read/write
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines if the new item row is disp
 
 _expression_. `ShowNewItemRow`
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks

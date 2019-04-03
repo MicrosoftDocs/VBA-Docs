@@ -1,5 +1,5 @@
 ---
-title: Cell Object (Publisher)
+title: Cell object (Publisher)
 keywords: vbapb10.chm5177343
 f1_keywords:
 - vbapb10.chm5177343
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cell Object (Publisher)
+# Cell object (Publisher)
 
 Represents a single table cell. The  **Cell** object is a member of the **[CellRange](./Publisher.CellRange.md)** collection. The **CellRange** collection represents all the cells in the specified object.
 

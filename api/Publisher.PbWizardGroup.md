@@ -1,5 +1,5 @@
 ---
-title: PbWizardGroup Enumeration (Publisher)
+title: PbWizardGroup enumeration (Publisher)
 keywords: vbapb10.chm65602
 f1_keywords:
 - vbapb10.chm65602
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbWizardGroup Enumeration (Publisher)
+# PbWizardGroup enumeration (Publisher)
 
 The type of Design Gallery object to add to the publication.
 

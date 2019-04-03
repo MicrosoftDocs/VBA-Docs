@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.KeyDown Event (Visio)
+title: InvisibleApp.KeyDown event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.KeyDown
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.KeyDown Event (Visio)
+# InvisibleApp.KeyDown event (Visio)
 
 Occurs when a keyboard key is pressed.
 

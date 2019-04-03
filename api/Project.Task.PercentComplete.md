@@ -1,5 +1,5 @@
 ---
-title: Task.PercentComplete Property (Project)
+title: Task.PercentComplete property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.PercentComplete
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.PercentComplete Property (Project)
+# Task.PercentComplete property (Project)
 
 Gets or sets the percent complete of a task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `PercentComplete`
+_expression_. `PercentComplete`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

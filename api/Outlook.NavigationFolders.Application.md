@@ -1,5 +1,5 @@
 ---
-title: NavigationFolders.Application Property (Outlook)
+title: NavigationFolders.Application property (Outlook)
 keywords: vbaol11.chm2891
 f1_keywords:
 - vbaol11.chm2891
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolders.Application Property (Outlook)
+# NavigationFolders.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [NavigationFolders](./Outlook.NavigationFolders.md) object.
+_expression_ A variable that represents a [NavigationFolders](Outlook.NavigationFolders.md) object.
 
 
 ## See also

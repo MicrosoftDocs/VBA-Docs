@@ -1,5 +1,5 @@
 ---
-title: TableView.ShowFullConversations Property (Outlook)
+title: TableView.ShowFullConversations property (Outlook)
 keywords: vbaol11.chm3516
 f1_keywords:
 - vbaol11.chm3516
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.ShowFullConversations Property (Outlook)
+# TableView.ShowFullConversations property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether to display conversation items from other folders, such as the Sent Items folder, as part of the conversation in the table view. Read/write.
 

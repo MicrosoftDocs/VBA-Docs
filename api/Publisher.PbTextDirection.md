@@ -1,5 +1,5 @@
 ---
-title: PbTextDirection Enumeration (Publisher)
+title: PbTextDirection enumeration (Publisher)
 keywords: vbapb10.chm65554
 f1_keywords:
 - vbapb10.chm65554
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbTextDirection Enumeration (Publisher)
+# PbTextDirection enumeration (Publisher)
 
 Indicates the direction in which text flows in the specified paragraph.
 

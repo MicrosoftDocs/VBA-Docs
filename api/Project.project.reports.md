@@ -1,5 +1,5 @@
 ---
-title: Project.Reports Property (Project)
+title: Project.Reports property (Project)
 ms.prod: project-server
 ms.assetid: dc725fac-a25e-c134-6017-d73060c51e83
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Project.Reports Property (Project)
+# Project.Reports property (Project)
 Gets the collection of custom reports in the project. Read-only  **Reports**.
 
 ## Syntax
 
- _expression_. `Reports`
+_expression_. `Reports`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

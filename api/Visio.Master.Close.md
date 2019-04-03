@@ -1,5 +1,5 @@
 ---
-title: Master.Close Method (Visio)
+title: Master.Close method (Visio)
 keywords: vis_sdr.chm10716125
 f1_keywords:
 - vis_sdr.chm10716125
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.Close Method (Visio)
+# Master.Close method (Visio)
 
 Closes a master.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

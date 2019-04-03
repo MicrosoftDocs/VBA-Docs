@@ -1,5 +1,5 @@
 ---
-title: Resource.Guid Property (Project)
+title: Resource.Guid property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Guid
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Guid Property (Project)
+# Resource.Guid property (Project)
 
 Gets the GUID of the resource. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Guid`
+_expression_. `Guid`
 
  _expression_ An expression that returns a [Resource](./Project.Resource.md) object.
 

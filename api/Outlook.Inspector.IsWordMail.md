@@ -1,5 +1,5 @@
 ---
-title: Inspector.IsWordMail Method (Outlook)
+title: Inspector.IsWordMail method (Outlook)
 keywords: vbaol11.chm2968
 f1_keywords:
 - vbaol11.chm2968
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.IsWordMail Method (Outlook)
+# Inspector.IsWordMail method (Outlook)
 
 Determines whether the mail message associated with an inspector is displayed in an Outlook  **[Inspector](Outlook.Inspector.md)** or in Microsoft Word.
 
@@ -21,7 +21,7 @@ Determines whether the mail message associated with an inspector is displayed in
 
 _expression_. `IsWordMail`
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: MailItem.MessageClass Property (Outlook)
+title: MailItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1309
 f1_keywords:
 - vbaol11.chm1309
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.MessageClass Property (Outlook)
+# MailItem.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the message class for the Outlook ite
 
 _expression_. `MessageClass`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

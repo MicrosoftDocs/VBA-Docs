@@ -1,5 +1,5 @@
 ---
-title: Search.Save Method (Outlook)
+title: Search.Save method (Outlook)
 keywords: vbaol11.chm2260
 f1_keywords:
 - vbaol11.chm2260
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Search.Save Method (Outlook)
+# Search.Save method (Outlook)
 
 Saves the search results to a Search Folder.
 
@@ -21,7 +21,7 @@ Saves the search results to a Search Folder.
 
 _expression_. `Save` `_SchFldrName_`
 
-_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Parameters

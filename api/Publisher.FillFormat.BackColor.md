@@ -1,5 +1,5 @@
 ---
-title: FillFormat.BackColor Property (Publisher)
+title: FillFormat.BackColor property (Publisher)
 keywords: vbapb10.chm2359552
 f1_keywords:
 - vbapb10.chm2359552
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.BackColor Property (Publisher)
+# FillFormat.BackColor property (Publisher)
 
 Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the background color for the specified fill or patterned line. .
 
 
 ## Syntax
 
- _expression_. **BackColor**
+ _expression_.**BackColor**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

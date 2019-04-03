@@ -1,5 +1,5 @@
 ---
-title: Font.Size Property (Publisher)
+title: Font.Size property (Publisher)
 keywords: vbapb10.chm5373957
 f1_keywords:
 - vbapb10.chm5373957
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Font.Size Property (Publisher)
+# Font.Size property (Publisher)
 
 Represents the size of the characters in the text range in points. Read/write.
 
 
 ## Syntax
 
- _expression_. **Size**
+ _expression_.**Size**
 
- _expression_An expression that returns a  **Font** object.
+ _expression_ An expression that returns a  **Font** object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: Application.StartNewUndoEntry Method (PowerPoint)
+title: Application.StartNewUndoEntry method (PowerPoint)
 keywords: vbapp10.chm502068
 f1_keywords:
 - vbapp10.chm502068
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.StartNewUndoEntry Method (PowerPoint)
+# Application.StartNewUndoEntry method (PowerPoint)
 
 Starts a new undo entry in the  **Application** object.
 
 
 ## Syntax
 
- _expression_. `StartNewUndoEntry`
+_expression_. `StartNewUndoEntry`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

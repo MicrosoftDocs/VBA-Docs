@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetY Property (PowerPoint)
+title: ShadowFormat.OffsetY property (PowerPoint)
 keywords: vbapp10.chm554007
 f1_keywords:
 - vbapp10.chm554007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetY Property (PowerPoint)
+# ShadowFormat.OffsetY property (PowerPoint)
 
 Returns or sets the vertical offset of the shadow from the specified shape, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `OffsetY`
+_expression_. `OffsetY`
 
  _expression_ A variable that represents an [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
@@ -38,7 +38,7 @@ If you want to nudge a shadow horizontally or vertically from its current positi
 
 ## Example
 
-This example sets the horizontal and vertical offsets of the shadow for shape three on  `myDocument`. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it.
+This example sets the horizontal and vertical offsets of the shadow for shape three on  _myDocument_. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it.
 
 
 ```vb

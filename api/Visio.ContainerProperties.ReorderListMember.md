@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ReorderListMember Method (Visio)
+title: ContainerProperties.ReorderListMember method (Visio)
 keywords: vis_sdr.chm17662340
 f1_keywords:
 - vis_sdr.chm17662340
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.ReorderListMember Method (Visio)
+# ContainerProperties.ReorderListMember method (Visio)
 
 Moves a shape or a set of shapes up or down in the list.
 
 
 ## Syntax
 
- _expression_. `ReorderListMember`( `_ObjectToReorder_` , `_Position_` )
+_expression_. `ReorderListMember`( `_ObjectToReorder_` , `_Position_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

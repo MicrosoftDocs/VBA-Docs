@@ -1,5 +1,5 @@
 ---
-title: Page.Name Property (Visio)
+title: Page.Name property (Visio)
 keywords: vis_sdr.chm10913930
 f1_keywords:
 - vis_sdr.chm10913930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.Name Property (Visio)
+# Page.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

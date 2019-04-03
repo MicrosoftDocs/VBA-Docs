@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.CreationTime Property (Outlook)
+title: MeetingItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1410
 f1_keywords:
 - vbaol11.chm1410
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.CreationTime Property (Outlook)
+# MeetingItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the creation time for the Outlook item. Read-only
 
 _expression_. `CreationTime`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

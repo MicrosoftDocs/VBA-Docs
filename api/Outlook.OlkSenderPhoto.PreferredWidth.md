@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.PreferredWidth Property (Outlook)
+title: OlkSenderPhoto.PreferredWidth property (Outlook)
 keywords: vbaol11.chm1000481
 f1_keywords:
 - vbaol11.chm1000481
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.PreferredWidth Property (Outlook)
+# OlkSenderPhoto.PreferredWidth property (Outlook)
 
 Returns a  **Long** that specifies the application-preferred width of the sender picture. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** that specifies the application-preferred width of the sender
 
 _expression_. `PreferredWidth`
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## Remarks

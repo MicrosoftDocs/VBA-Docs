@@ -1,5 +1,5 @@
 ---
-title: Application.SegmentBorderColor Method (Project)
+title: Application.SegmentBorderColor method (Project)
 keywords: vbapj.chm72
 f1_keywords:
 - vbapj.chm72
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SegmentBorderColor Method (Project)
+# Application.SegmentBorderColor method (Project)
 
 Sets the border color for the assignment segments of a selected task in the Team Planner view.
 
 
 ## Syntax
 
- _expression_. `SegmentBorderColor`( `_Color_` )
+_expression_. `SegmentBorderColor`( `_Color_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

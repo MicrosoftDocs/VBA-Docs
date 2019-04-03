@@ -1,5 +1,5 @@
 ---
-title: Characters.ContainingMasterID Property (Visio)
+title: Characters.ContainingMasterID property (Visio)
 keywords: vis_sdr.chm10251935
 f1_keywords:
 - vis_sdr.chm10251935
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.ContainingMasterID Property (Visio)
+# Characters.ContainingMasterID property (Visio)
 
 Returns the ID of the  **Master** object that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingMasterID`
+_expression_. `ContainingMasterID`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: DataColumns.Application Property (Visio)
+title: DataColumns.Application property (Visio)
 keywords: vis_sdr.chm16613090
 f1_keywords:
 - vis_sdr.chm16613090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataColumns.Application Property (Visio)
+# DataColumns.Application property (Visio)
 
 Returns the instance of Microsoft Visio associated with the  **DataColumns** collection. Read-only.
 

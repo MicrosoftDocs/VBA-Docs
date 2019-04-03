@@ -1,5 +1,5 @@
 ---
-title: Interior.Color Property (PowerPoint)
+title: Interior.Color property (PowerPoint)
 keywords: vbapp10.chm707001
 f1_keywords:
 - vbapp10.chm707001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Interior.Color Property (PowerPoint)
+# Interior.Color property (PowerPoint)
 
 Returns or sets the primary color of the object. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Color`
+_expression_. `Color`
 
  _expression_ A variable that represents an '[Interior](PowerPoint.Interior.md)' object.
 

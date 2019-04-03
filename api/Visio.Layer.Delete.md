@@ -1,5 +1,5 @@
 ---
-title: Layer.Delete Method (Visio)
+title: Layer.Delete method (Visio)
 keywords: vis_sdr.chm11851200
 f1_keywords:
 - vis_sdr.chm11851200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.Delete Method (Visio)
+# Layer.Delete method (Visio)
 
 Deletes a  **Layer** object. Can also delete shapes assigned to the deleted layer.
 

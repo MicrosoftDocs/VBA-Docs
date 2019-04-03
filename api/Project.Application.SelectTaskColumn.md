@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTaskColumn Method (Project)
+title: Application.SelectTaskColumn method (Project)
 keywords: vbapj.chm2065
 f1_keywords:
 - vbapj.chm2065
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTaskColumn Method (Project)
+# Application.SelectTaskColumn method (Project)
 
 Selects a column containing task information.
 
 
 ## Syntax
 
- _expression_. `SelectTaskColumn`( `_Column_`, `_Additional_`, `_Extend_`, `_Add_` )
+_expression_. `SelectTaskColumn`( `_Column_`, `_Additional_`, `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

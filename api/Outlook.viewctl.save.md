@@ -14,7 +14,7 @@ Saves the items that are selected in the control as a single file.
 
 ## Syntax
 
- _expression_. **SaveAs**
+ _expression_.**SaveAs**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

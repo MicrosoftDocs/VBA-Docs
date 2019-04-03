@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Attachments Property (Outlook)
+title: TaskItem.Attachments property (Outlook)
 keywords: vbaol11.chm1687
 f1_keywords:
 - vbaol11.chm1687
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Attachments Property (Outlook)
+# TaskItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all
 
 _expression_. `Attachments`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

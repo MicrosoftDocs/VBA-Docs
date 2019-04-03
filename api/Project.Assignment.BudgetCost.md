@@ -1,5 +1,5 @@
 ---
-title: Assignment.BudgetCost Property (Project)
+title: Assignment.BudgetCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.BudgetCost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.BudgetCost Property (Project)
+# Assignment.BudgetCost property (Project)
 
 Gets or sets the budget cost for an  **Assignment**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `BudgetCost`
+_expression_. `BudgetCost`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

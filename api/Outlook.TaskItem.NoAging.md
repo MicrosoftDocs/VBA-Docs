@@ -1,5 +1,5 @@
 ---
-title: TaskItem.NoAging Property (Outlook)
+title: TaskItem.NoAging property (Outlook)
 keywords: vbaol11.chm1703
 f1_keywords:
 - vbaol11.chm1703
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.NoAging Property (Outlook)
+# TaskItem.NoAging property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** to not age the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 
 _expression_. `NoAging`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

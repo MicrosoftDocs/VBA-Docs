@@ -1,5 +1,5 @@
 ---
-title: Application.WebSetStartPage Method (Project)
+title: Application.WebSetStartPage method (Project)
 keywords: vbapj.chm1317
 f1_keywords:
 - vbapj.chm1317
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WebSetStartPage Method (Project)
+# Application.WebSetStartPage method (Project)
 
 Specifies a document as the Start Page in Microsoft Internet Explorer.
 
 
 ## Syntax
 
- _expression_. `WebSetStartPage`( `_Address_` )
+_expression_. `WebSetStartPage`( `_Address_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

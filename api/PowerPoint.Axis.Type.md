@@ -1,5 +1,5 @@
 ---
-title: Axis.Type Property (PowerPoint)
+title: Axis.Type property (PowerPoint)
 keywords: vbapp10.chm682032
 f1_keywords:
 - vbapp10.chm682032
@@ -12,9 +12,9 @@ localization_priority: Normal
 ---
 
 
-# Axis.Type Property (PowerPoint)
+# Axis.Type property (PowerPoint)
 
-Returns the axis type. Read-only  **[xlAxisType](PowerPoint.XlAxisType.md)**.
+Returns the axis type. Read-only  **[XlAxisType](PowerPoint.XlAxisType.md)**.
 
 
 ## Syntax

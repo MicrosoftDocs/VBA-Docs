@@ -1,5 +1,5 @@
 ---
-title: Page.ConnectionsAdded Event (Visio)
+title: Page.ConnectionsAdded event (Visio)
 keywords: vis_sdr.chm10919095
 f1_keywords:
 - vis_sdr.chm10919095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.ConnectionsAdded Event (Visio)
+# Page.ConnectionsAdded event (Visio)
 
 Occurs after connections have been established between shapes.
 

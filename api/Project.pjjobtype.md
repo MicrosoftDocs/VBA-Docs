@@ -1,5 +1,5 @@
 ---
-title: PjJobType Enumeration (Project)
+title: PjJobType enumeration (Project)
 ms.prod: project-server
 ms.assetid: 61e64bfb-8cd8-7b76-9a5f-b7499953275f
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# PjJobType Enumeration (Project)
+# PjJobType enumeration (Project)
 Contains constants that specify the type of job (save, publish, or check in) that the Project Professional cache can send to the Project Server Queue System.
 
 ## Members

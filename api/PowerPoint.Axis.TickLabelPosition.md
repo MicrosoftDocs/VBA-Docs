@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabelPosition Property (PowerPoint)
+title: Axis.TickLabelPosition property (PowerPoint)
 keywords: vbapp10.chm682028
 f1_keywords:
 - vbapp10.chm682028
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Axis.TickLabelPosition Property (PowerPoint)
+# Axis.TickLabelPosition property (PowerPoint)
 
-Describes the position of tick-mark labels on the specified axis. Read/write  **[xlTickLabelPosition](PowerPoint.XlTickLabelPosition.md)**.
+Describes the position of tick-mark labels on the specified axis. Read/write  **[XlTickLabelPosition](PowerPoint.XlTickLabelPosition.md)**.
 
 
 ## Syntax
 
- _expression_. `TickLabelPosition`
+_expression_. `TickLabelPosition`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

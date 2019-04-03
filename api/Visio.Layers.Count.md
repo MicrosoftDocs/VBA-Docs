@@ -1,5 +1,5 @@
 ---
-title: Layers.Count Property (Visio)
+title: Layers.Count property (Visio)
 keywords: vis_sdr.chm11913330
 f1_keywords:
 - vis_sdr.chm11913330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layers.Count Property (Visio)
+# Layers.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

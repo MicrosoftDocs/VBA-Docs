@@ -1,5 +1,5 @@
 ---
-title: PrintRanges.ClearAll Method (PowerPoint)
+title: PrintRanges.ClearAll method (PowerPoint)
 keywords: vbapp10.chm518003
 f1_keywords:
 - vbapp10.chm518003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PrintRanges.ClearAll Method (PowerPoint)
+# PrintRanges.ClearAll method (PowerPoint)
 
 Clears all the print ranges from the  **[PrintRanges](PowerPoint.PrintRanges.md)** collection. Use the **Add** method of the **PrintRanges** collection to add print ranges to the collection.
 
 
 ## Syntax
 
- _expression_. `ClearAll`
+_expression_. `ClearAll`
 
  _expression_ A variable that represents a [PrintRanges](./PowerPoint.PrintRanges.md) object.
 

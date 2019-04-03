@@ -19,7 +19,7 @@ Returns or sets the vertical split percentage for the specified window. Read/wri
 
 ## Syntax
 
- _expression_. `SplitVertical`
+_expression_. `SplitVertical`
 
  _expression_ An expression that returns a '[Window](Word.Window.md)' object.
 

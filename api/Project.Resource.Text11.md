@@ -1,5 +1,5 @@
 ---
-title: Resource.Text11 Property (Project)
+title: Resource.Text11 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Text11
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Text11 Property (Project)
+# Resource.Text11 property (Project)
 
 Gets or sets the value of a local Text custom field for the resource. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Text11`
+_expression_. `Text11`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: VisFontAttributes Enumeration (Visio)
+title: VisFontAttributes enumeration (Visio)
 keywords: vis_sdr.chm70115
 f1_keywords:
 - vis_sdr.chm70115
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisFontAttributes Enumeration (Visio)
+# VisFontAttributes enumeration (Visio)
 
 Attribute codes returned by the  **Font.Attributes** property.
 

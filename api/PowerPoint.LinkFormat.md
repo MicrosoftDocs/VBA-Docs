@@ -1,5 +1,5 @@
 ---
-title: LinkFormat Object (PowerPoint)
+title: LinkFormat object (PowerPoint)
 keywords: vbapp10.chm563000
 f1_keywords:
 - vbapp10.chm563000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LinkFormat Object (PowerPoint)
+# LinkFormat object (PowerPoint)
 
 Contains properties and methods that apply to linked OLE objects, linked pictures, and IIRC media objects. 
 
@@ -66,6 +66,6 @@ Next
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

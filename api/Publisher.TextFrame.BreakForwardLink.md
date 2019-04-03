@@ -1,5 +1,5 @@
 ---
-title: TextFrame.BreakForwardLink Method (Publisher)
+title: TextFrame.BreakForwardLink method (Publisher)
 keywords: vbapb10.chm3866661
 f1_keywords:
 - vbapb10.chm3866661
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.BreakForwardLink Method (Publisher)
+# TextFrame.BreakForwardLink method (Publisher)
 
 Breaks the forward link for the specified text frame, if such a link exists.
 
 
 ## Syntax
 
- _expression_. **BreakForwardLink**
+ _expression_.**BreakForwardLink**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Text Property (PowerPoint)
+title: HeaderFooter.Text property (PowerPoint)
 keywords: vbapp10.chm582004
 f1_keywords:
 - vbapp10.chm582004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeaderFooter.Text Property (PowerPoint)
+# HeaderFooter.Text property (PowerPoint)
 
 Returns or sets a  **String** that represents the text contained in the specified object. Read/write.
 

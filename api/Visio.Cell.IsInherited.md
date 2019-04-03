@@ -1,5 +1,5 @@
 ---
-title: Cell.IsInherited Property (Visio)
+title: Cell.IsInherited property (Visio)
 keywords: vis_sdr.chm10113745
 f1_keywords:
 - vis_sdr.chm10113745
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.IsInherited Property (Visio)
+# Cell.IsInherited property (Visio)
 
 Determines whether a formula of the cell is inherited from a master or a style. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsInherited`
+_expression_. `IsInherited`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

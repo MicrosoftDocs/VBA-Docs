@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Blur Property (PowerPoint)
+title: ShadowFormat.Blur property (PowerPoint)
 keywords: vbapp10.chm554012
 f1_keywords:
 - vbapp10.chm554012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Blur Property (PowerPoint)
+# ShadowFormat.Blur property (PowerPoint)
 
 Returns or sets the blur radius of the specified shadow, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `Blur`
+_expression_. `Blur`
 
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 

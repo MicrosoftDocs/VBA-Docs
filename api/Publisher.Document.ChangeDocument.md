@@ -1,5 +1,5 @@
 ---
-title: Document.ChangeDocument Method (Publisher)
+title: Document.ChangeDocument method (Publisher)
 keywords: vbapb10.chm196756
 f1_keywords:
 - vbapb10.chm196756
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ChangeDocument Method (Publisher)
+# Document.ChangeDocument method (Publisher)
 
 Changes the current publication to one that uses the wizard, and optionally the design, that you specify.
 
 
 ## Syntax
 
- _expression_. **ChangeDocument**(**_Wizard_**,  **_Design_**)
+ _expression_.**ChangeDocument**(**_Wizard_**,  **_Design_**)
 
  _expression_ A variable that represents a  **Document** object.
 

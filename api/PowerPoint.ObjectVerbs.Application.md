@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs.Application Property (PowerPoint)
+title: ObjectVerbs.Application property (PowerPoint)
 keywords: vbapp10.chm564001
 f1_keywords:
 - vbapp10.chm564001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ObjectVerbs.Application Property (PowerPoint)
+# ObjectVerbs.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

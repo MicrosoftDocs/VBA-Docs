@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Categories Property (Outlook)
+title: NameSpace.Categories property (Outlook)
 keywords: vbaol11.chm787
 f1_keywords:
 - vbaol11.chm787
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Categories Property (Outlook)
+# NameSpace.Categories property (Outlook)
 
 Returns or sets a  **[Categories](Outlook.Categories.md)** object that represents the set of **[Category](Outlook.Category.md)** objects that are available to the namespace. Read/write.
 

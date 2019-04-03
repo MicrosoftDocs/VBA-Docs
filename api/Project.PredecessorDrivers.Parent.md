@@ -1,5 +1,5 @@
 ---
-title: PredecessorDrivers.Parent Property (Project)
+title: PredecessorDrivers.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.PredecessorDrivers.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PredecessorDrivers.Parent Property (Project)
+# PredecessorDrivers.Parent property (Project)
 
 Gets the parent of the  **PredecessorDrivers** object. Read-only **Task**.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.TaskDueDate Property (Outlook)
+title: SharingItem.TaskDueDate property (Outlook)
 keywords: vbaol11.chm3219
 f1_keywords:
 - vbaol11.chm3219
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.TaskDueDate Property (Outlook)
+# SharingItem.TaskDueDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the due date of the task for this **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the due date of the task for t
 
 _expression_. `TaskDueDate`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

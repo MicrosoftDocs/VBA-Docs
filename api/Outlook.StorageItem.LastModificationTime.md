@@ -1,5 +1,5 @@
 ---
-title: StorageItem.LastModificationTime Property (Outlook)
+title: StorageItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm2142
 f1_keywords:
 - vbaol11.chm2142
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# StorageItem.LastModificationTime Property (Outlook)
+# StorageItem.LastModificationTime property (Outlook)
 
 Returns a  **DateTime** value specifying the date and time that the Outlook item was last modified. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **DateTime** value specifying the date and time that the Outlook item
 
 _expression_. `LastModificationTime`
 
-_expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
+_expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: VisUIBarRow Enumeration (Visio)
+title: VisUIBarRow enumeration (Visio)
 keywords: vis_sdr.chm70301
 f1_keywords:
 - vis_sdr.chm70301
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUIBarRow Enumeration (Visio)
+# VisUIBarRow enumeration (Visio)
 
 Values passed to and returned by the  **MenuSet.RowIndex** and **Toolbar.RowIndex** properties.
 

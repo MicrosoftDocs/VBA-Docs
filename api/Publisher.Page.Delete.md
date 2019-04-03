@@ -1,5 +1,5 @@
 ---
-title: Page.Delete Method (Publisher)
+title: Page.Delete method (Publisher)
 keywords: vbapb10.chm393232
 f1_keywords:
 - vbapb10.chm393232
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Delete Method (Publisher)
+# Page.Delete method (Publisher)
 
 Deletes the specified object.
 
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_.**Delete**
 
  _expression_ A variable that represents a  **Page** object.
 

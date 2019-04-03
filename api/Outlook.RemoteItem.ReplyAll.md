@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.ReplyAll Event (Outlook)
+title: RemoteItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.ReplyAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.ReplyAll Event (Outlook)
+# RemoteItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **ReplyAll** action for an item (which is an i
 
 _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Parameters

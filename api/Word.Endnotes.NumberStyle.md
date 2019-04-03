@@ -19,7 +19,7 @@ Returns or sets the number style. Read/write  **WdNoteNumberStyle**.
 
 ## Syntax
 
- _expression_. `NumberStyle`
+_expression_. `NumberStyle`
 
  _expression_ An expression that represents a '[Endnotes](Word.endnotes.md)' object.
 

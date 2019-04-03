@@ -1,5 +1,5 @@
 ---
-title: TimeZones.ConvertTime Method (Outlook)
+title: TimeZones.ConvertTime method (Outlook)
 keywords: vbaol11.chm3297
 f1_keywords:
 - vbaol11.chm3297
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimeZones.ConvertTime Method (Outlook)
+# TimeZones.ConvertTime method (Outlook)
 
 Converts a date/time value from one time zone to another time zone.
 
 
 ## Syntax
 
- _expression_. `ConvertTime`( `_SourceDateTime_` , `_SourceTimeZone_` , `_DestinationTimeZone_` )
+_expression_. `ConvertTime`( `_SourceDateTime_` , `_SourceTimeZone_` , `_DestinationTimeZone_` )
 
-_expression_ A variable that represents a [TimeZones](./Outlook.TimeZones.md) object.
+_expression_ A variable that represents a [TimeZones](Outlook.TimeZones.md) object.
 
 
 ## Parameters

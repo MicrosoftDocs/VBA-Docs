@@ -1,5 +1,5 @@
 ---
-title: JournalItem.BillingInformation Property (Outlook)
+title: JournalItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1233
 f1_keywords:
 - vbaol11.chm1233
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.BillingInformation Property (Outlook)
+# JournalItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the billing information associated wi
 
 _expression_. `BillingInformation`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

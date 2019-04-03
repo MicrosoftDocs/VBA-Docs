@@ -19,7 +19,7 @@ Returns a  **TextEffectFormat** object that contains text-effect formatting prop
 
 ## Syntax
 
- _expression_. `TextEffect`
+_expression_. `TextEffect`
 
  _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 

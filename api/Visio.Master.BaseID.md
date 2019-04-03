@@ -1,5 +1,5 @@
 ---
-title: Master.BaseID Property (Visio)
+title: Master.BaseID property (Visio)
 keywords: vis_sdr.chm10713135
 f1_keywords:
 - vis_sdr.chm10713135
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.BaseID Property (Visio)
+# Master.BaseID property (Visio)
 
 Returns a base ID for a master. Read-only.
 
 
 ## Syntax
 
- _expression_. `BaseID`
+_expression_. `BaseID`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

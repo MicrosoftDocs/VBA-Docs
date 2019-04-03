@@ -21,12 +21,12 @@ localization_priority: Normal
 
 _expression_. `Connector`
 
- _expression_ An expression that returns a [Shape](./Excel.Shape.md) object.
+ _expression_ An expression that returns a [Shape](Excel.Shape.md) object.
 
 
 ## Example
 
-This example deletes all connectors on  `myDocument`.
+This example deletes all connectors on  _myDocument_.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnected Property (Publisher)
+title: ConnectorFormat.BeginConnected property (Publisher)
 keywords: vbapb10.chm3211520
 f1_keywords:
 - vbapb10.chm3211520
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnected Property (Publisher)
+# ConnectorFormat.BeginConnected property (Publisher)
 
 Returns an  **MsoTriState**constant indicating whether the beginning of the specified connector is connected to a shape. Read-only.
 
 
 ## Syntax
 
- _expression_. **BeginConnected**
+ _expression_.**BeginConnected**
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 
@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The  **BeginConnected** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **BeginConnected** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[EndConnected](Publisher.ConnectorFormat.EndConnected.md)** property to determine if the end of a connector is connected to a shape.
 

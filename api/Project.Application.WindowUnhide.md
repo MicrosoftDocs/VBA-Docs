@@ -1,5 +1,5 @@
 ---
-title: Application.WindowUnhide Method (Project)
+title: Application.WindowUnhide method (Project)
 keywords: vbapj.chm704
 f1_keywords:
 - vbapj.chm704
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowUnhide Method (Project)
+# Application.WindowUnhide method (Project)
 
 Shows a hidden window.
 
 
 ## Syntax
 
- _expression_. `WindowUnhide`( `_Name_` )
+_expression_. `WindowUnhide`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

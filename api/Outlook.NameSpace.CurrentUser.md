@@ -1,5 +1,5 @@
 ---
-title: NameSpace.CurrentUser Property (Outlook)
+title: NameSpace.CurrentUser property (Outlook)
 keywords: vbaol11.chm756
 f1_keywords:
 - vbaol11.chm756
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.CurrentUser Property (Outlook)
+# NameSpace.CurrentUser property (Outlook)
 
 Returns the display name of the currently logged-on user as a  **[Recipient](Outlook.Recipient.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the display name of the currently logged-on user as a  **[Recipient](Out
 
 _expression_. `CurrentUser`
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Example

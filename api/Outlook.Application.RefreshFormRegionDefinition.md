@@ -1,5 +1,5 @@
 ---
-title: Application.RefreshFormRegionDefinition Method (Outlook)
+title: Application.RefreshFormRegionDefinition method (Outlook)
 keywords: vbaol11.chm3521
 f1_keywords:
 - vbaol11.chm3521
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.RefreshFormRegionDefinition Method (Outlook)
+# Application.RefreshFormRegionDefinition method (Outlook)
 
 Refreshes the cache by obtaining the current definition from the Windows registry for one or all of the form regions that are defined for the local machine and the current user.
 

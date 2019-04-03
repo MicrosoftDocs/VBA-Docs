@@ -1,5 +1,5 @@
 ---
-title: UserProperty.Name Property (Outlook)
+title: UserProperty.Name property (Outlook)
 keywords: vbaol11.chm218
 f1_keywords:
 - vbaol11.chm218
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserProperty.Name Property (Outlook)
+# UserProperty.Name property (Outlook)
 
 Returns a  **String** value that represents the display name for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the display name for the object. Rea
 
  _expression_.**Name**
 
-_expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 
 
 ## See also

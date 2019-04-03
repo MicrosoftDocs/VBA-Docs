@@ -1,5 +1,5 @@
 ---
-title: Shape.PictureFormat Property (Publisher)
+title: Shape.PictureFormat property (Publisher)
 keywords: vbapb10.chm2228295
 f1_keywords:
 - vbapb10.chm2228295
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.PictureFormat Property (Publisher)
+# Shape.PictureFormat property (Publisher)
 
 Returns a  **[PictureFormat](Publisher.PictureFormat.md)** object that contains picture formatting properties for the specified object. Applies to  **[Shape](Publisher.Shape.md)** or **[ShapeRange](Publisher.ShapeRange.md)** objects that represent pictures or OLE objects. Read-only.
 
 
 ## Syntax
 
- _expression_. **PictureFormat**
+ _expression_.**PictureFormat**
 
  _expression_ A variable that represents a  **Shape** object.
 

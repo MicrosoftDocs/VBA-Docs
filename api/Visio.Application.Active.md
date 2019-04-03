@@ -1,5 +1,5 @@
 ---
-title: Application.Active Property (Visio)
+title: Application.Active property (Visio)
 keywords: vis_sdr.chm10013020
 f1_keywords:
 - vis_sdr.chm10013020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Active Property (Visio)
+# Application.Active property (Visio)
 
 Indicates whether the instance of Microsoft Visio represented by the  **Application** object is the active application on the Microsoft Windows desktop—the application that has the highlighted title bar. Read-only.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_. `Active`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

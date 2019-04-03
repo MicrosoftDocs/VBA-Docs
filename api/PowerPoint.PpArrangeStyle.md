@@ -1,5 +1,5 @@
 ---
-title: PpArrangeStyle Enumeration (PowerPoint)
+title: PpArrangeStyle enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpArrangeStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpArrangeStyle Enumeration (PowerPoint)
+# PpArrangeStyle enumeration (PowerPoint)
 
 Specifies whether to cascade or tile the windows.
 

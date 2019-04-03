@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Application Property (Outlook)
+title: AddressEntry.Application property (Outlook)
 keywords: vbaol11.chm2038
 f1_keywords:
 - vbaol11.chm2038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.Application Property (Outlook)
+# AddressEntry.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## See also

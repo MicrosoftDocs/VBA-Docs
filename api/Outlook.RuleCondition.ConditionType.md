@@ -1,5 +1,5 @@
 ---
-title: RuleCondition.ConditionType Property (Outlook)
+title: RuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2330
 f1_keywords:
 - vbaol11.chm2330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleCondition.ConditionType Property (Outlook)
+# RuleCondition.ConditionType property (Outlook)
 
 Returns a constant in the  **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of condition for the **[RuleCondition](Outlook.RuleCondition.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant in the  **[OlRuleConditionType](Outlook.OlRuleConditionType.m
 
 _expression_. `ConditionType`
 
-_expression_ A variable that represents a [RuleCondition](./Outlook.RuleCondition.md) object.
+_expression_ A variable that represents a [RuleCondition](Outlook.RuleCondition.md) object.
 
 
 ## Remarks

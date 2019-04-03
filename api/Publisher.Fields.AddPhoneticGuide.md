@@ -1,5 +1,5 @@
 ---
-title: Fields.AddPhoneticGuide Method (Publisher)
+title: Fields.AddPhoneticGuide method (Publisher)
 keywords: vbapb10.chm6029320
 f1_keywords:
 - vbapb10.chm6029320
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Fields.AddPhoneticGuide Method (Publisher)
+# Fields.AddPhoneticGuide method (Publisher)
 
 Returns a  **[Field](Publisher.Field.md)** object that represents phonetic text added to the specified range.
 
 
 ## Syntax
 
- _expression_. **AddPhoneticGuide**(**_Range_**,  **_Text_**,  **_Alignment_**,  **_Raise_**,  **_FontName_**,  **_FontSize_**)
+ _expression_.**AddPhoneticGuide**(**_Range_**,  **_Text_**,  **_Alignment_**,  **_Raise_**,  **_FontName_**,  **_FontSize_**)
 
  _expression_ A variable that represents a  **Fields** object.
 

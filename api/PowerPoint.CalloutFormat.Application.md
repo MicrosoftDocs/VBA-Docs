@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Application Property (PowerPoint)
+title: CalloutFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CalloutFormat.Application Property (PowerPoint)
+# CalloutFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.RemotePath Property (Outlook)
+title: SharingItem.RemotePath property (Outlook)
 keywords: vbaol11.chm696
 f1_keywords:
 - vbaol11.chm696
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.RemotePath Property (Outlook)
+# SharingItem.RemotePath property (Outlook)
 
 Returns a  **String** that represents the path of the sharing context for a **[SharingItem](Outlook.SharingItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that represents the path of the sharing context for a **[S
 
 _expression_. `RemotePath`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

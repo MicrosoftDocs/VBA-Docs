@@ -1,5 +1,5 @@
 ---
-title: Application.Width Property (Project)
+title: Application.Width property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Width
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Width Property (Project)
+# Application.Width property (Project)
 
 Gets or sets the width in points of the main window in the Project application. Read/write  **Long**.
 

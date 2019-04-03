@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.Collate Property (PowerPoint)
+title: PrintOptions.Collate property (PowerPoint)
 keywords: vbapp10.chm517003
 f1_keywords:
 - vbapp10.chm517003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.Collate Property (PowerPoint)
+# PrintOptions.Collate property (PowerPoint)
 
 Determines whether a complete copy of the specified presentation is printed before the first page of the next copy is printed. Read/write.
 
 
 ## Syntax
 
- _expression_. `Collate`
+_expression_. `Collate`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

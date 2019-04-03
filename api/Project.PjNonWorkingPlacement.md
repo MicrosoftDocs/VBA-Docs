@@ -1,5 +1,5 @@
 ---
-title: PjNonWorkingPlacement Enumeration (Project)
+title: PjNonWorkingPlacement enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjNonWorkingPlacement
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjNonWorkingPlacement Enumeration (Project)
+# PjNonWorkingPlacement enumeration (Project)
 
 Contains constants that specify how nonworking times are denoted in relation to Gantt bars.
 

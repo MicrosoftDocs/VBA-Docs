@@ -1,5 +1,5 @@
 ---
-title: ItemProperties.Add Method (Outlook)
+title: ItemProperties.Add method (Outlook)
 keywords: vbaol11.chm538
 f1_keywords:
 - vbaol11.chm538
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# ItemProperties.Add Method (Outlook)
+# ItemProperties.Add method (Outlook)
 
 Adds an  **ItemProperty** object to the **ItemProperties** collection.
 
 
 ## Syntax
 
-_expression_. `Add`( `_Name_` , `_Type_` , `_AddToFolderFields_` , `_DisplayFormat_` )
+_expression_.**Add**( `_Name_` , `_Type_` , `_AddToFolderFields_` , `_DisplayFormat_` )
 
-_expression_ A variable that represents an [ItemProperties](./Outlook.ItemProperties.md) object.
+_expression_ A variable that represents an [ItemProperties](Outlook.ItemProperties.md) object.
 
 
 ## Parameters

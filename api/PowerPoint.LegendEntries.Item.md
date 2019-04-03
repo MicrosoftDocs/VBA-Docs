@@ -1,5 +1,5 @@
 ---
-title: LegendEntries.Item Method (PowerPoint)
+title: LegendEntries.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntries.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntries.Item Method (PowerPoint)
+# LegendEntries.Item method (PowerPoint)
 
 Returns a single object from a collection.
 

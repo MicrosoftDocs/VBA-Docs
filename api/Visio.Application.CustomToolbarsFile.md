@@ -1,5 +1,5 @@
 ---
-title: Application.CustomToolbarsFile Property (Visio)
+title: Application.CustomToolbarsFile property (Visio)
 keywords: vis_sdr.chm10013360
 f1_keywords:
 - vis_sdr.chm10013360
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CustomToolbarsFile Property (Visio)
+# Application.CustomToolbarsFile property (Visio)
 
 Returns or sets the name of the file that defines custom toolbars and status bars for an  **Application** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `CustomToolbarsFile`
+_expression_. `CustomToolbarsFile`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

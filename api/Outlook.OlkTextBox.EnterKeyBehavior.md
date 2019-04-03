@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.EnterKeyBehavior Property (Outlook)
+title: OlkTextBox.EnterKeyBehavior property (Outlook)
 keywords: vbaol11.chm1000044
 f1_keywords:
 - vbaol11.chm1000044
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.EnterKeyBehavior Property (Outlook)
+# OlkTextBox.EnterKeyBehavior property (Outlook)
 
 Returns or sets a  **Boolean** that defines the way the **ENTER** key behaves in the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that defines the way the **ENTER** key behaves in
 
 _expression_. `EnterKeyBehavior`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

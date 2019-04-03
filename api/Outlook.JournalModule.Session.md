@@ -1,5 +1,5 @@
 ---
-title: JournalModule.Session Property (Outlook)
+title: JournalModule.Session property (Outlook)
 keywords: vbaol11.chm2864
 f1_keywords:
 - vbaol11.chm2864
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalModule.Session Property (Outlook)
+# JournalModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [JournalModule](./Outlook.JournalModule.md) object.
+_expression_ A variable that represents a [JournalModule](Outlook.JournalModule.md) object.
 
 
 ## Remarks

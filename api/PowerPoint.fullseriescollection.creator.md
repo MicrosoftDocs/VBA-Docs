@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Creator Property (PowerPoint)
+title: FullSeriesCollection.Creator property (PowerPoint)
 keywords: vbapp10.chm735005
 f1_keywords:
 - vbapp10.chm735005
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# FullSeriesCollection.Creator Property (PowerPoint)
+# FullSeriesCollection.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 

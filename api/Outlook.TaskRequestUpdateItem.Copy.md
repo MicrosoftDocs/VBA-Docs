@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Copy Method (Outlook)
+title: TaskRequestUpdateItem.Copy method (Outlook)
 keywords: vbaol11.chm1948
 f1_keywords:
 - vbaol11.chm1948
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Copy Method (Outlook)
+# TaskRequestUpdateItem.Copy method (Outlook)
 
 Creates another instance of an object.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Results.DefaultItemType Property (Outlook)
+title: Results.DefaultItemType property (Outlook)
 keywords: vbaol11.chm512
 f1_keywords:
 - vbaol11.chm512
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.DefaultItemType Property (Outlook)
+# Results.DefaultItemType property (Outlook)
 
 Returns an  **[OlItemType](Outlook.OlItemType.md)** constant indicating the default Outlook item type contained in the folder. Read/write.
 
@@ -21,7 +21,7 @@ Returns an  **[OlItemType](Outlook.OlItemType.md)** constant indicating the defa
 
 _expression_. `DefaultItemType`
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## See also

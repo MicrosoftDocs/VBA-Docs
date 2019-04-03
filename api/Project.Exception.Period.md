@@ -1,5 +1,5 @@
 ---
-title: Exception.Period Property (Project)
+title: Exception.Period property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Period
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Exception.Period Property (Project)
+# Exception.Period property (Project)
 
 Gets or sets the period for calendar exception recurrences, specified as the number of days, weeks, or years. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Period`
+_expression_. `Period`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

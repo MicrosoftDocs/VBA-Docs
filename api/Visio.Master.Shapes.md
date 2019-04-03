@@ -1,5 +1,5 @@
 ---
-title: Master.Shapes Property (Visio)
+title: Master.Shapes property (Visio)
 keywords: vis_sdr.chm10714330
 f1_keywords:
 - vis_sdr.chm10714330
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.Shapes Property (Visio)
+# Master.Shapes property (Visio)
 
 Returns the  **Shapes** collection for a page, master, or group. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_. `Shapes`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

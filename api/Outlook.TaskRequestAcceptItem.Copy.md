@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Copy Method (Outlook)
+title: TaskRequestAcceptItem.Copy method (Outlook)
 keywords: vbaol11.chm1801
 f1_keywords:
 - vbaol11.chm1801
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Copy Method (Outlook)
+# TaskRequestAcceptItem.Copy method (Outlook)
 
 Creates another instance of an object.
 
@@ -21,7 +21,7 @@ Creates another instance of an object.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## See also

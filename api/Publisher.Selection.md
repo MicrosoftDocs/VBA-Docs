@@ -1,5 +1,5 @@
 ---
-title: Selection Object (Publisher)
+title: Selection object (Publisher)
 keywords: vbapb10.chm917503
 f1_keywords:
 - vbapb10.chm917503
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection Object (Publisher)
+# Selection object (Publisher)
 
 Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the publication, or it represents the cursor if nothing in the publication is selected. There can only be one  **Selection** object per publication window pane, and only one **Selection** object in the entire application can be active.
  

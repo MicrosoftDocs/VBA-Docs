@@ -1,5 +1,5 @@
 ---
-title: Inspector.Session Property (Outlook)
+title: Inspector.Session property (Outlook)
 keywords: vbaol11.chm2959
 f1_keywords:
 - vbaol11.chm2959
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.Session Property (Outlook)
+# Inspector.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: PjEditionType Enumeration (Project)
+title: PjEditionType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjEditionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjEditionType Enumeration (Project)
+# PjEditionType enumeration (Project)
 
 Contains constants that specify the edition of Project.
 

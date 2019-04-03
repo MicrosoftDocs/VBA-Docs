@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.MouseDown Event (Outlook)
+title: OlkSenderPhoto.MouseDown event (Outlook)
 keywords: vbaol11.chm1000487
 f1_keywords:
 - vbaol11.chm1000487
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.MouseDown Event (Outlook)
+# OlkSenderPhoto.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 
@@ -21,7 +21,7 @@ Occurs when the user presses a mouse button on the control.
 
 _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## Parameters

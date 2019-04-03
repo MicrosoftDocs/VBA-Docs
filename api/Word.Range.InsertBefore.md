@@ -19,7 +19,7 @@ Inserts the specified text before the specified range.
 
 ## Syntax
 
- _expression_. `InsertBefore`( `_Text_` )
+_expression_. `InsertBefore`( `_Text_` )
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

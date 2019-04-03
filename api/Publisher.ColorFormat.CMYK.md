@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.CMYK Property (Publisher)
+title: ColorFormat.CMYK property (Publisher)
 keywords: vbapb10.chm2555907
 f1_keywords:
 - vbapb10.chm2555907
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.CMYK Property (Publisher)
+# ColorFormat.CMYK property (Publisher)
 
 Returns a  **ColorCMYK** object that represents CMYK color properties.
 
 
 ## Syntax
 
- _expression_. **CMYK**
+ _expression_.**CMYK**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: VisGluedShapesFlags Enumeration (Visio)
+title: VisGluedShapesFlags enumeration (Visio)
 keywords: vis_sdr.chm70580
 f1_keywords:
 - vis_sdr.chm70580
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisGluedShapesFlags Enumeration (Visio)
+# VisGluedShapesFlags enumeration (Visio)
 
 Specifies constants that identify which shapes to return, based on the dimensionality and directionality of the connection points that are glued to a particular shape; passed to the  **[Shapes.GluedShapes](Visio.Shape.GluedShapes.md)** method.
 

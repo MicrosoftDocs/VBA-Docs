@@ -16,9 +16,9 @@ Gets or sets a value that indicates whether it is possible to customize the tool
 
 ## Syntax
 
- _expression_. **ToolbarCustomizable**
+ _expression_.**ToolbarCustomizable**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value

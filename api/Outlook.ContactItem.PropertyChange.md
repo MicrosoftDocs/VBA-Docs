@@ -1,5 +1,5 @@
 ---
-title: ContactItem.PropertyChange Event (Outlook)
+title: ContactItem.PropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.PropertyChange
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.PropertyChange Event (Outlook)
+# ContactItem.PropertyChange event (Outlook)
 
 Occurs when an explicit built-in property (for example,  **[Subject](Outlook.AppointmentItem.Subject.md)**) of an instance of the parent object is changed.
 
@@ -18,7 +18,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.App
 
 _expression_. `PropertyChange`( `_Name_` )
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters

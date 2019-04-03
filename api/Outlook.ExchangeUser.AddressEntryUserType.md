@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.AddressEntryUserType Property (Outlook)
+title: ExchangeUser.AddressEntryUserType property (Outlook)
 keywords: vbaol11.chm2080
 f1_keywords:
 - vbaol11.chm2080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.AddressEntryUserType Property (Outlook)
+# ExchangeUser.AddressEntryUserType property (Outlook)
 
 Returns  **olExchangeUserAddressEntry** which is a constant from the **[OlAddressEntryUserType](Outlook.OlAddressEntryUserType.md)** enumeration representing the user type of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns  **olExchangeUserAddressEntry** which is a constant from the **[OlAddres
 
 _expression_. `AddressEntryUserType`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

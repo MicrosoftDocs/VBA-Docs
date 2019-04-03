@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.OriginatorDeliveryReportRequested Property (Outlook)
+title: MeetingItem.OriginatorDeliveryReportRequested property (Outlook)
 keywords: vbaol11.chm1443
 f1_keywords:
 - vbaol11.chm1443
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.OriginatorDeliveryReportRequested Property (Outlook)
+# MeetingItem.OriginatorDeliveryReportRequested property (Outlook)
 
 Returns or sets a  **Boolean** value that determines whether the originator of the meeting item or mail message will receive a delivery report. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines whether the originator of t
 
 _expression_. `OriginatorDeliveryReportRequested`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

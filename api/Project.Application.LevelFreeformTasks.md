@@ -1,5 +1,5 @@
 ---
-title: Application.LevelFreeformTasks Property (Project)
+title: Application.LevelFreeformTasks property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.LevelFreeformTasks
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LevelFreeformTasks Property (Project)
+# Application.LevelFreeformTasks property (Project)
 
  **True** if manually scheduled tasks are leveled; otherwise, **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LevelFreeformTasks`
+_expression_. `LevelFreeformTasks`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

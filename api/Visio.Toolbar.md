@@ -1,5 +1,5 @@
 ---
-title: Toolbar Object (Visio)
+title: Toolbar object (Visio)
 keywords: vis_sdr.chm10270
 f1_keywords:
 - vis_sdr.chm10270
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbar Object (Visio)
+# Toolbar object (Visio)
 
 Represents a group of toolbar items in a Microsoft Visio window.
 

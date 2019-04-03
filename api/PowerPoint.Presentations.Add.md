@@ -1,5 +1,5 @@
 ---
-title: Presentations.Add Method (PowerPoint)
+title: Presentations.Add method (PowerPoint)
 keywords: vbapp10.chm522004
 f1_keywords:
 - vbapp10.chm522004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentations.Add Method (PowerPoint)
+# Presentations.Add method (PowerPoint)
 
 Creates a presentation. Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents the new presentation.
 
 
 ## Syntax
 
- _expression_. `Add`( `_WithWindow_` )
+ _expression_.**Add**( `_WithWindow_` )
 
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 

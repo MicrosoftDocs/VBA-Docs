@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.AdvanceMode Property (PowerPoint)
+title: AnimationSettings.AdvanceMode property (PowerPoint)
 keywords: vbapp10.chm565008
 f1_keywords:
 - vbapp10.chm565008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.AdvanceMode Property (PowerPoint)
+# AnimationSettings.AdvanceMode property (PowerPoint)
 
 Returns or sets a value that indicates whether the specified shape animation advances only when clicked or automatically after a specified amount of time. Read/write. 
 
 
 ## Syntax
 
- _expression_. `AdvanceMode`
+_expression_. `AdvanceMode`
 
 _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

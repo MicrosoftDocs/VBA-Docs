@@ -1,5 +1,5 @@
 ---
-title: SharingItem.MarkAsTask Method (Outlook)
+title: SharingItem.MarkAsTask method (Outlook)
 keywords: vbaol11.chm3223
 f1_keywords:
 - vbaol11.chm3223
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.MarkAsTask Method (Outlook)
+# SharingItem.MarkAsTask method (Outlook)
 
 Marks a  **[SharingItem](Outlook.SharingItem.md)** object as a task and assigns a task interval for the object.
 
@@ -21,7 +21,7 @@ Marks a  **[SharingItem](Outlook.SharingItem.md)** object as a task and assigns 
 
 _expression_. `MarkAsTask`( `_MarkInterval_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

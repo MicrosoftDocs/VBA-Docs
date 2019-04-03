@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Creator Property (Project)
+title: SeriesCollection.Creator property (Project)
 ms.prod: project-server
 ms.assetid: d2bc1554-6ae3-7eb2-e455-fef0cf544290
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection.Creator Property (Project)
+# SeriesCollection.Creator property (Project)
 Gets a 32-bit integer that indicates the application in which the series collection was created. Read-only  **Long**.
 
 ## Syntax

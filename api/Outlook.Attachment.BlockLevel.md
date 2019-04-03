@@ -1,5 +1,5 @@
 ---
-title: Attachment.BlockLevel Property (Outlook)
+title: Attachment.BlockLevel property (Outlook)
 keywords: vbaol11.chm3262
 f1_keywords:
 - vbaol11.chm3262
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Attachment.BlockLevel Property (Outlook)
+# Attachment.BlockLevel property (Outlook)
 
 Returns an  **[OlAttachmentBlockLevel](Outlook.OlAttachmentBlockLevel.md)** constant that specifies if there is any restriction on the attachment based on its file extension. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlAttachmentBlockLevel](Outlook.OlAttachmentBlockLevel.md)** cons
 
 _expression_. `BlockLevel`
 
-_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Remarks

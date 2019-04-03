@@ -1,5 +1,5 @@
 ---
-title: OlRecipientSelectors Enumeration (Outlook)
+title: OlRecipientSelectors enumeration (Outlook)
 keywords: vbaol11.chm3108
 f1_keywords:
 - vbaol11.chm3108
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlRecipientSelectors Enumeration (Outlook)
+# OlRecipientSelectors enumeration (Outlook)
 
 Specifies the edit boxes (for  **To**,  **Cc**,  **Bcc**), if any, to be displayed in the  **Select Names** dialog box.
 

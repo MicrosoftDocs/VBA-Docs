@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentChange Event (Word)
+title: Application.DocumentChange event (Word)
 keywords: vbawd10.chm400003
 f1_keywords:
 - vbawd10.chm400003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.DocumentChange Event (Word)
+# Application.DocumentChange event (Word)
 
 Occurs when a new document is created, when an existing document is opened, or when another document is made the active document.
 

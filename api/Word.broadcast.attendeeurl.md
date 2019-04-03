@@ -17,7 +17,7 @@ If a broadcast is in progress, returns a  **String** that represents the URL of 
 
 ## Syntax
 
- _expression_. `AttendeeUrl`
+_expression_. `AttendeeUrl`
 
  _expression_ A variable that represents a 'Broadcast' object.
 

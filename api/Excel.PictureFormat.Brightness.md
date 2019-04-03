@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md
 
 ## Example
 
-This example sets the brightness for shape one on  `myDocument`. Shape one must be either a picture or an OLE object.
+This example sets the brightness for shape one on  _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb

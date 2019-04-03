@@ -1,5 +1,5 @@
 ---
-title: PeopleView.GoToDate Method (Outlook)
+title: PeopleView.GoToDate method (Outlook)
 keywords: vbaol11.chm3585
 f1_keywords:
 - vbaol11.chm3585
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.GoToDate Method (Outlook)
+# PeopleView.GoToDate method (Outlook)
 Changes the date used by the current view to display information.
 
 ## Version information
@@ -38,6 +38,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 
 [PeopleView Object](Outlook.peopleview.md)
-[PeopleView Members](./overview/Outlook.md)
+[PeopleView Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

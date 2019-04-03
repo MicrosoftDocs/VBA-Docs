@@ -1,5 +1,5 @@
 ---
-title: TasksModule.Application Property (Outlook)
+title: TasksModule.Application property (Outlook)
 keywords: vbaol11.chm2842
 f1_keywords:
 - vbaol11.chm2842
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TasksModule.Application Property (Outlook)
+# TasksModule.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
  _expression_.**Application**
 
-_expression_ A variable that represents a [TasksModule](./Outlook.TasksModule.md) object.
+_expression_ A variable that represents a [TasksModule](Outlook.TasksModule.md) object.
 
 
 ## See also

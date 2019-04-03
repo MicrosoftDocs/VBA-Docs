@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTPLineHeight Method (Project)
+title: Application.SelectTPLineHeight method (Project)
 keywords: vbapj.chm70
 f1_keywords:
 - vbapj.chm70
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTPLineHeight Method (Project)
+# Application.SelectTPLineHeight method (Project)
 
 Sets the number of text lines for assignment rows in the Team Planner.
 
 
 ## Syntax
 
- _expression_. `SelectTPLineHeight`( `_LineMultiple_` )
+_expression_. `SelectTPLineHeight`( `_LineMultiple_` )
 
  _expression_ An expression that returns a [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Publish Method (PowerPoint)
+title: PublishObject.Publish method (PowerPoint)
 keywords: vbapp10.chm635010
 f1_keywords:
 - vbapp10.chm635010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PublishObject.Publish Method (PowerPoint)
+# PublishObject.Publish method (PowerPoint)
 
 Creates a Web presentation (HTML format) from any loaded presentation. You can view the published presentation in a Web browser.
 
 
 ## Syntax
 
- _expression_. `Publish`
+_expression_. `Publish`
 
  _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 

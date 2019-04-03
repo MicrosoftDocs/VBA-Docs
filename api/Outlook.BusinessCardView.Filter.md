@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Filter Property (Outlook)
+title: BusinessCardView.Filter property (Outlook)
 keywords: vbaol11.chm2934
 f1_keywords:
 - vbaol11.chm2934
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BusinessCardView.Filter Property (Outlook)
+# BusinessCardView.Filter property (Outlook)
 
 Returns or sets a  **String** value that represents the filter for a view. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the filter for a view. Read/
 
 _expression_. `Filter`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

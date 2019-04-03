@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.MouseIcon Property (Outlook)
+title: OlkCategory.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000444
 f1_keywords:
 - vbaol11.chm1000444
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.MouseIcon Property (Outlook)
+# OlkCategory.MouseIcon property (Outlook)
 
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 _expression_. `MouseIcon`
 
-_expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## Remarks

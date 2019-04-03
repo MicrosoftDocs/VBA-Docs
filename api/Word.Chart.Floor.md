@@ -19,7 +19,7 @@ Returns the floor of the 3-D chart. Read-only  **[Floor](Word.Floor.md)**.
 
 ## Syntax
 
- _expression_. `Floor`
+_expression_. `Floor`
 
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 

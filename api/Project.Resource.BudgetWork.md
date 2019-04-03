@@ -1,5 +1,5 @@
 ---
-title: Resource.BudgetWork Property (Project)
+title: Resource.BudgetWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.BudgetWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.BudgetWork Property (Project)
+# Resource.BudgetWork property (Project)
 
 Gets or sets the budget work (in hours) for a  **Resource**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `BudgetWork`
+_expression_. `BudgetWork`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

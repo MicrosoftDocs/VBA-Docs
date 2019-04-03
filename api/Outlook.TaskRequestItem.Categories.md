@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.Categories Property (Outlook)
+title: TaskRequestItem.Categories property (Outlook)
 keywords: vbaol11.chm1876
 f1_keywords:
 - vbaol11.chm1876
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.Categories Property (Outlook)
+# TaskRequestItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 
 _expression_. `Categories`
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Remarks

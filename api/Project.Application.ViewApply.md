@@ -1,5 +1,5 @@
 ---
-title: Application.ViewApply Method (Project)
+title: Application.ViewApply method (Project)
 keywords: vbapj.chm302
 f1_keywords:
 - vbapj.chm302
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewApply Method (Project)
+# Application.ViewApply method (Project)
 
 Applies a view to the active window.
 
 
 ## Syntax
 
- _expression_. `ViewApply`( `_Name_`, `_SinglePane_`, `_Toggle_` )
+_expression_. `ViewApply`( `_Name_`, `_SinglePane_`, `_Toggle_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

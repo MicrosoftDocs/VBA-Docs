@@ -1,5 +1,5 @@
 ---
-title: Shape.Ungroup Method (Visio)
+title: Shape.Ungroup method (Visio)
 keywords: vis_sdr.chm11216625
 f1_keywords:
 - vis_sdr.chm11216625
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Ungroup Method (Visio)
+# Shape.Ungroup method (Visio)
 
 Ungroups a group.
 
 
 ## Syntax
 
- _expression_. `Ungroup`
+_expression_. `Ungroup`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

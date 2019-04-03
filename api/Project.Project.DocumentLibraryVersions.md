@@ -1,5 +1,5 @@
 ---
-title: Project.DocumentLibraryVersions Property (Project)
+title: Project.DocumentLibraryVersions property (Project)
 keywords: vbapj.chm132594
 f1_keywords:
 - vbapj.chm132594
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DocumentLibraryVersions Property (Project)
+# Project.DocumentLibraryVersions property (Project)
 
 Gets a  **DocumentLibraryVersions** collection for the specified project. Read-only **DocumentLibraryVersions**.
 
 
 ## Syntax
 
- _expression_. `DocumentLibraryVersions`
+_expression_. `DocumentLibraryVersions`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

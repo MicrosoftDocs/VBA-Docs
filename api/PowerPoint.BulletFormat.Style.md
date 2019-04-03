@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Style Property (PowerPoint)
+title: BulletFormat.Style property (PowerPoint)
 keywords: vbapp10.chm577010
 f1_keywords:
 - vbapp10.chm577010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.Style Property (PowerPoint)
+# BulletFormat.Style property (PowerPoint)
 
 Returns or sets the bullet style. Read/write. 
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
 _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 

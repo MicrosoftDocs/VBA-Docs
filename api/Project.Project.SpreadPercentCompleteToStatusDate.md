@@ -1,5 +1,5 @@
 ---
-title: Project.SpreadPercentCompleteToStatusDate Property (Project)
+title: Project.SpreadPercentCompleteToStatusDate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.SpreadPercentCompleteToStatusDate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.SpreadPercentCompleteToStatusDate Property (Project)
+# Project.SpreadPercentCompleteToStatusDate property (Project)
 
  **True** if edits to total task percent complete are spread to the status date, or to the current date if the status date is "NA". **False** if edits are spread to the calculated stop date of the task. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SpreadPercentCompleteToStatusDate`
+_expression_. `SpreadPercentCompleteToStatusDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

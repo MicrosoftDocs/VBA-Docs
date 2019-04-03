@@ -1,5 +1,5 @@
 ---
-title: Reminders.Snooze Event (Outlook)
+title: Reminders.Snooze event (Outlook)
 keywords: vbaol11.chm580
 f1_keywords:
 - vbaol11.chm580
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.Snooze Event (Outlook)
+# Reminders.Snooze event (Outlook)
 
 Occurs when a reminder is dismissed using the  **Snooze** button.
 
@@ -21,7 +21,7 @@ Occurs when a reminder is dismissed using the  **Snooze** button.
 
 _expression_. `Snooze`( `_ReminderObject_` )
 
- _expression_ An expression that returns a [Reminders](./Outlook.Reminders.md) object.
+ _expression_ An expression that returns a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Parameters

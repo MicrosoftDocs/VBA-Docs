@@ -1,5 +1,5 @@
 ---
-title: PostItem.Delete Method (Outlook)
+title: PostItem.Delete method (Outlook)
 keywords: vbaol11.chm1541
 f1_keywords:
 - vbaol11.chm1541
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Delete Method (Outlook)
+# PostItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
@@ -21,7 +21,7 @@ Removes the item from the folder that contains the item.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Application.VBE Property (PowerPoint)
+title: Application.VBE property (PowerPoint)
 keywords: vbapp10.chm502020
 f1_keywords:
 - vbapp10.chm502020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.VBE Property (PowerPoint)
+# Application.VBE property (PowerPoint)
 
 Returns a  **VBE** object that represents the Visual Basic Editor. Read-only.
 
 
 ## Syntax
 
- _expression_. `VBE`
+_expression_. `VBE`
 
 _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Item Property (Publisher)
+title: Adjustments.Item property (Publisher)
 keywords: vbapb10.chm2424832
 f1_keywords:
 - vbapb10.chm2424832
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Adjustments.Item Property (Publisher)
+# Adjustments.Item property (Publisher)
 
 Returns or sets a  **Variant** indicating the adjustment value specified by the **Index** argument. Read/write.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents an  **Adjustments** object.
 

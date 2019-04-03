@@ -28,6 +28,6 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 
 
 
-[CoAuthUpdates Object](./overview/Word.md)
+[CoAuthUpdates Object](overview/Word.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

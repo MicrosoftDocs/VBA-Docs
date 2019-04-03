@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Next Method (PowerPoint)
+title: SlideShowView.Next method (PowerPoint)
 keywords: vbapp10.chm513019
 f1_keywords:
 - vbapp10.chm513019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.Next Method (PowerPoint)
+# SlideShowView.Next method (PowerPoint)
 
 Displays the slide immediately following the slide that's currently displayed. 
 
 
 ## Syntax
 
- _expression_. `Next`
+_expression_. `Next`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

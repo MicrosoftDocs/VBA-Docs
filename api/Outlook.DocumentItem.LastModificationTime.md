@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.LastModificationTime Property (Outlook)
+title: DocumentItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1196
 f1_keywords:
 - vbaol11.chm1196
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.LastModificationTime Property (Outlook)
+# DocumentItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** specifying the date and time that the Outlook item was last 
 
 _expression_. `LastModificationTime`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

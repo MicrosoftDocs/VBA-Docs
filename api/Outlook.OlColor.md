@@ -1,5 +1,5 @@
 ---
-title: OlColor Enumeration (Outlook)
+title: OlColor enumeration (Outlook)
 keywords: vbaol11.chm3130
 f1_keywords:
 - vbaol11.chm3130
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlColor Enumeration (Outlook)
+# OlColor enumeration (Outlook)
 
 Constants that represent colors.
 
@@ -40,6 +40,6 @@ Constants that represent colors.
 
 ## Remarks
 
-Used by the [Color](Outlook.ViewFont.Color.md) property of the [ViewFont Object (Outlook)](Outlook.ViewFont.md) to indicate the font color.
+Used by the [Color](Outlook.ViewFont.Color.md) property of the [ViewFont object (Outlook)](Outlook.ViewFont.md) to indicate the font color.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

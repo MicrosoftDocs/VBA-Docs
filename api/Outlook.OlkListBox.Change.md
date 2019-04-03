@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.Change Event (Outlook)
+title: OlkListBox.Change event (Outlook)
 keywords: vbaol11.chm1000290
 f1_keywords:
 - vbaol11.chm1000290
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkListBox.Change Event (Outlook)
+# OlkListBox.Change event (Outlook)
 
 Occurs when the selection in the list displayed by the control changes
 
@@ -21,7 +21,7 @@ Occurs when the selection in the list displayed by the control changes
 
 _expression_. `Change`
 
-_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## See also

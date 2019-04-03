@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Respond Method (Outlook)
+title: TaskItem.Respond method (Outlook)
 keywords: vbaol11.chm1754
 f1_keywords:
 - vbaol11.chm1754
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Respond Method (Outlook)
+# TaskItem.Respond method (Outlook)
 
 Responds to a task request.
 
@@ -21,7 +21,7 @@ Responds to a task request.
 
 _expression_. `Respond`( `_Response_` , `_fNoUI_` , `_fAdditionalTextDialog_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

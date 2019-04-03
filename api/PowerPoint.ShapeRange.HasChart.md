@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HasChart Property (PowerPoint)
+title: ShapeRange.HasChart property (PowerPoint)
 keywords: vbapp10.chm548087
 f1_keywords:
 - vbapp10.chm548087
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.HasChart Property (PowerPoint)
+# ShapeRange.HasChart property (PowerPoint)
 
 Returns whether the shape range represented by the specified object contains a chart. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasChart`
+_expression_. `HasChart`
 
  _expression_ An expression that returns a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

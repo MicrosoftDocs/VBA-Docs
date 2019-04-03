@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.VisioIsIdle Event (Visio)
+title: InvisibleApp.VisioIsIdle event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.VisioIsIdle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.VisioIsIdle Event (Visio)
+# InvisibleApp.VisioIsIdle event (Visio)
 
 Occurs after the application empties its message queue.
 

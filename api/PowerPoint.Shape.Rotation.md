@@ -1,5 +1,5 @@
 ---
-title: Shape.Rotation Property (PowerPoint)
+title: Shape.Rotation property (PowerPoint)
 keywords: vbapp10.chm547031
 f1_keywords:
 - vbapp10.chm547031
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Rotation Property (PowerPoint)
+# Shape.Rotation property (PowerPoint)
 
 Returns or sets the number of degrees the specified shape is rotated around the z-axis. Read/write.
 
 
 ## Syntax
 
- _expression_. `Rotation`
+_expression_. `Rotation`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -38,7 +38,7 @@ To set the rotation of a three-dimensional shape around the x-axis or the y-axis
 
 ## Example
 
-This example matches the rotation of all shapes on  `myDocument` to the rotation of shape one.
+This example matches the rotation of all shapes on  _myDocument_ to the rotation of shape one.
 
 
 ```vb

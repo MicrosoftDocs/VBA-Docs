@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.JobTitle Property (Outlook)
+title: ExchangeUser.JobTitle property (Outlook)
 keywords: vbaol11.chm2093
 f1_keywords:
 - vbaol11.chm2093
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.JobTitle Property (Outlook)
+# ExchangeUser.JobTitle property (Outlook)
 
 Returns a  **String** representing the job title of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the job title of the **[ExchangeUser](Outlook
 
 _expression_. `JobTitle`
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

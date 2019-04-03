@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Left Property (PowerPoint)
+title: DisplayUnitLabel.Left property (PowerPoint)
 keywords: vbapp10.chm699005
 f1_keywords:
 - vbapp10.chm699005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Left Property (PowerPoint)
+# DisplayUnitLabel.Left property (PowerPoint)
 
 Returns or sets the distance, in points, from the left edge of the object to the left edge of the chart area. Read/write  **Double**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.PanZoomPanTo Method (Project)
+title: Application.PanZoomPanTo method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.PanZoomPanTo
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PanZoomPanTo Method (Project)
+# Application.PanZoomPanTo method (Project)
 
 Pans the Gantt chart in the active view to the specified start date.
 
 
 ## Syntax
 
- _expression_. `PanZoomPanTo`( `_Start_` )
+_expression_. `PanZoomPanTo`( `_Start_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

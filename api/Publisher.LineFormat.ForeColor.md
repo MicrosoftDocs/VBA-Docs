@@ -1,5 +1,5 @@
 ---
-title: LineFormat.ForeColor Property (Publisher)
+title: LineFormat.ForeColor property (Publisher)
 keywords: vbapb10.chm3408136
 f1_keywords:
 - vbapb10.chm3408136
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.ForeColor Property (Publisher)
+# LineFormat.ForeColor property (Publisher)
 
 Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the foreground color for the fill, line, or shadow. Read/write.
 
 
 ## Syntax
 
- _expression_. **ForeColor**
+ _expression_.**ForeColor**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

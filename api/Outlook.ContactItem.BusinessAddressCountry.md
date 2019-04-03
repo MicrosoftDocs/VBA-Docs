@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddressCountry Property (Outlook)
+title: ContactItem.BusinessAddressCountry property (Outlook)
 keywords: vbaol11.chm972
 f1_keywords:
 - vbaol11.chm972
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddressCountry Property (Outlook)
+# ContactItem.BusinessAddressCountry property (Outlook)
 
 Returns or sets a  **String** representing the country/region code portion of the business address for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the country/region code portion of th
 
 _expression_. `BusinessAddressCountry`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

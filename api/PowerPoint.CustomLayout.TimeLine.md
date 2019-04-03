@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.TimeLine Property (PowerPoint)
+title: CustomLayout.TimeLine property (PowerPoint)
 keywords: vbapp10.chm672012
 f1_keywords:
 - vbapp10.chm672012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.TimeLine Property (PowerPoint)
+# CustomLayout.TimeLine property (PowerPoint)
 
 Returns a  **[TimeLine](PowerPoint.TimeLine.md)** object that represents the animation timeline for the slide associated with the specified custom layout. Read-only.
 
 
 ## Syntax
 
- _expression_. `TimeLine`
+_expression_. `TimeLine`
 
 _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

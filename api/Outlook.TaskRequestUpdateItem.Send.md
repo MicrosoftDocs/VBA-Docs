@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Send Event (Outlook)
+title: TaskRequestUpdateItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Send
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Send Event (Outlook)
+# TaskRequestUpdateItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).
 
 
 ## Syntax
 
- _expression_. `Send`( `_Cancel_` )
+_expression_. `Send`( `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters

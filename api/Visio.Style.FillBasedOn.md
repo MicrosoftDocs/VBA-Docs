@@ -1,5 +1,5 @@
 ---
-title: Style.FillBasedOn Property (Visio)
+title: Style.FillBasedOn property (Visio)
 keywords: vis_sdr.chm11413520
 f1_keywords:
 - vis_sdr.chm11413520
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Style.FillBasedOn Property (Visio)
+# Style.FillBasedOn property (Visio)
 
 Gets or sets the fill style on which the  **Style** object is based. Read/write.
 
 
 ## Syntax
 
- _expression_. `FillBasedOn`
+_expression_. `FillBasedOn`
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

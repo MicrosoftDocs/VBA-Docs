@@ -1,5 +1,5 @@
 ---
-title: Paths Object (Visio)
+title: Paths object (Visio)
 keywords: vis_sdr.chm10205
 f1_keywords:
 - vis_sdr.chm10205
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Paths Object (Visio)
+# Paths object (Visio)
 
 Includes a  **Path** object for each Geometry section for a group or shape.
 

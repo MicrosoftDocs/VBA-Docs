@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.UnRead Property (Outlook)
+title: DocumentItem.UnRead property (Outlook)
 keywords: vbaol11.chm1207
 f1_keywords:
 - vbaol11.chm1207
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.UnRead Property (Outlook)
+# DocumentItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 
 _expression_. `UnRead`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## See also

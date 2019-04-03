@@ -1,5 +1,5 @@
 ---
-title: Application.UserName Property (Project)
+title: Application.UserName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.UserName
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.UserName Property (Project)
+# Application.UserName property (Project)
 
 Gets or sets the local name of the current user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `UserName`
+_expression_. `UserName`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

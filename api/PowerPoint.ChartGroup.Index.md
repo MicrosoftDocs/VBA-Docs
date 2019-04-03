@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.Index Property (PowerPoint)
+title: ChartGroup.Index property (PowerPoint)
 keywords: vbapp10.chm692012
 f1_keywords:
 - vbapp10.chm692012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.Index Property (PowerPoint)
+# ChartGroup.Index property (PowerPoint)
 
 Returns the index number of the object within the collection of similar objects. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

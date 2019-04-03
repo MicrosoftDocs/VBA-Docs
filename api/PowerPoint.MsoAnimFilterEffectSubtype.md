@@ -1,5 +1,5 @@
 ---
-title: MsoAnimFilterEffectSubtype Enumeration (PowerPoint)
+title: MsoAnimFilterEffectSubtype enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimFilterEffectSubtype
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimFilterEffectSubtype Enumeration (PowerPoint)
+# MsoAnimFilterEffectSubtype enumeration (PowerPoint)
 
 Specifies the subtype of the filter effect.
 

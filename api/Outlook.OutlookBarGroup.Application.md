@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroup.Application Property (Outlook)
+title: OutlookBarGroup.Application property (Outlook)
 keywords: vbaol11.chm321
 f1_keywords:
 - vbaol11.chm321
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroup.Application Property (Outlook)
+# OutlookBarGroup.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [OutlookBarGroup](./Outlook.OutlookBarGroup.md) object.
+_expression_ A variable that represents an [OutlookBarGroup](Outlook.OutlookBarGroup.md) object.
 
 
 ## See also

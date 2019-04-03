@@ -1,5 +1,5 @@
 ---
-title: Slide.ApplyThemeColorScheme Method (PowerPoint)
+title: Slide.ApplyThemeColorScheme method (PowerPoint)
 keywords: vbapp10.chm531037
 f1_keywords:
 - vbapp10.chm531037
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.ApplyThemeColorScheme Method (PowerPoint)
+# Slide.ApplyThemeColorScheme method (PowerPoint)
 
 Applies a color scheme to the specified slide.
 
 
 ## Syntax
 
- _expression_. `ApplyThemeColorScheme`( `_themeColorSchemeName_` )
+_expression_. `ApplyThemeColorScheme`( `_themeColorSchemeName_` )
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

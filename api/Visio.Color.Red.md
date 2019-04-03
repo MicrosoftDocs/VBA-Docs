@@ -1,5 +1,5 @@
 ---
-title: Color.Red Property (Visio)
+title: Color.Red property (Visio)
 keywords: vis_sdr.chm12214190
 f1_keywords:
 - vis_sdr.chm12214190
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Color.Red Property (Visio)
+# Color.Red property (Visio)
 
 Gets or sets the intensity of the red component of a  **Color** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Red`
+_expression_. `Red`
 
  _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 

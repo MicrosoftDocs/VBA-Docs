@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.Caption Property (Outlook)
+title: OlkOptionButton.Caption property (Outlook)
 keywords: vbaol11.chm1000168
 f1_keywords:
 - vbaol11.chm1000168
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkOptionButton.Caption Property (Outlook)
+# OlkOptionButton.Caption property (Outlook)
 
 Returns or sets a  **String** that appears on an object to identify or describe it. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 
 _expression_.**Caption**
 
-_expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](Outlook.OlkOptionButton.md) object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Selects the dictionary language used when Microsoft Excel performs spelling chec
 
 _expression_. `DictLang`
 
-_expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
 
 
 ## Example

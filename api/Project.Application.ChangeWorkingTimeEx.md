@@ -1,5 +1,5 @@
 ---
-title: Application.ChangeWorkingTimeEx Method (Project)
+title: Application.ChangeWorkingTimeEx method (Project)
 keywords: vbapj.chm625
 f1_keywords:
 - vbapj.chm625
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ChangeWorkingTimeEx Method (Project)
+# Application.ChangeWorkingTimeEx method (Project)
 
 Displays the  **Change Working Time** dialog box, which prompts the user to change a calendar.
 
 
 ## Syntax
 
- _expression_. `ChangeWorkingTimeEx`( `_CalendarName_`, `_Locked_`, `_SelectedDate_`, `_ProjectName_` )
+_expression_. `ChangeWorkingTimeEx`( `_CalendarName_`, `_Locked_`, `_SelectedDate_`, `_ProjectName_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

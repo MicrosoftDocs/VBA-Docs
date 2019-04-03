@@ -1,5 +1,5 @@
 ---
-title: PostItem.TaskStartDate Property (Outlook)
+title: PostItem.TaskStartDate property (Outlook)
 keywords: vbaol11.chm1573
 f1_keywords:
 - vbaol11.chm1573
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.TaskStartDate Property (Outlook)
+# PostItem.TaskStartDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the start date of the task for this **[PostItem](Outlook.PostItem.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the start date of the task for
 
 _expression_. `TaskStartDate`
 
- _expression_ An expression that returns a [PostItem](./Outlook.PostItem.md) object.
+ _expression_ An expression that returns a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

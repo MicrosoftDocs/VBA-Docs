@@ -1,5 +1,5 @@
 ---
-title: Master.Document Property (Visio)
+title: Master.Document property (Visio)
 keywords: vis_sdr.chm10713430
 f1_keywords:
 - vis_sdr.chm10713430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.Document Property (Visio)
+# Master.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

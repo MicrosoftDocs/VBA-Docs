@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Legend.Position property (Word)
 
-Returns or sets the position of the legend on the chart. Read/write  **[xlLegendPosition](Word.xllegendposition.md)**.
+Returns or sets the position of the legend on the chart. Read/write  **[XlLegendPosition](Word.xllegendposition.md)**.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
  _expression_ A variable that represents a '[Legend](Word.Legend.md)' object.
 

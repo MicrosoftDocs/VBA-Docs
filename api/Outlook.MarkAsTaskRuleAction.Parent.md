@@ -1,5 +1,5 @@
 ---
-title: MarkAsTaskRuleAction.Parent Property (Outlook)
+title: MarkAsTaskRuleAction.Parent property (Outlook)
 keywords: vbaol11.chm2282
 f1_keywords:
 - vbaol11.chm2282
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkAsTaskRuleAction.Parent Property (Outlook)
+# MarkAsTaskRuleAction.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkAsTaskRuleAction.md) object.
+_expression_ A variable that represents a [MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md) object.
 
 
 ## Remarks

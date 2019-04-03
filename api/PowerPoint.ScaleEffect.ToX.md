@@ -1,5 +1,5 @@
 ---
-title: ScaleEffect.ToX Property (PowerPoint)
+title: ScaleEffect.ToX property (PowerPoint)
 keywords: vbapp10.chm660007
 f1_keywords:
 - vbapp10.chm660007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ScaleEffect.ToX Property (PowerPoint)
+# ScaleEffect.ToX property (PowerPoint)
 
 Sets or returns a  **Single** that represents the ending width of a **[ScaleEffect](PowerPoint.ScaleEffect.md)** object, specified as a percent of the screen width. Read/write.
 
 
 ## Syntax
 
- _expression_. `ToX`
+_expression_. `ToX`
 
  _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 

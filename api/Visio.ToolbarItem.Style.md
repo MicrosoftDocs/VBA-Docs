@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.Style Property (Visio)
+title: ToolbarItem.Style property (Visio)
 keywords: vis_sdr.chm13551150
 f1_keywords:
 - vis_sdr.chm13551150
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.Style Property (Visio)
+# ToolbarItem.Style property (Visio)
 
 Determines whether a toolbar button shows an icon, a caption, or some combination. Read/write.
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Top10.CalcFor property (Excel)
 
-Returns or sets one of the constants of the  **[xlCalcFor](Excel.XlCalcFor.md)** enumeration, which specifies how the conditional format in a PivotTable report should be evaluated.
+Returns or sets one of the constants of the  **[XlCalcFor](Excel.XlCalcFor.md)** enumeration, which specifies how the conditional format in a PivotTable report should be evaluated.
 
 
 ## Syntax
 
 _expression_.**CalcFor**
 
-_expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## Remarks

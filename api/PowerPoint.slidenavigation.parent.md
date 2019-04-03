@@ -1,5 +1,5 @@
 ---
-title: SlideNavigation.Parent Property (PowerPoint)
+title: SlideNavigation.Parent property (PowerPoint)
 keywords: vbapp10.chm741001
 f1_keywords:
 - vbapp10.chm741001
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SlideNavigation.Parent Property (PowerPoint)
+# SlideNavigation.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

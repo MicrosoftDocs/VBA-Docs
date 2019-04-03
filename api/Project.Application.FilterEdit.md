@@ -1,5 +1,5 @@
 ---
-title: Application.FilterEdit Method (Project)
+title: Application.FilterEdit method (Project)
 keywords: vbapj.chm503
 f1_keywords:
 - vbapj.chm503
@@ -12,13 +12,13 @@ localization_priority: Normal
 ---
 
 
-# Application.FilterEdit Method (Project)
+# Application.FilterEdit method (Project)
 
 Creates, edits, or copies a filter.
 
 ## Syntax
 
-_expression_. **FilterEdit** (**_Name_**, **_TaskFilter_**, **_Create_**, **_OverwriteExisting_**, **_Parenthesis_**, **_NewName_**, **_FieldName_**, **_NewFieldName_**, **_Test_**, **_Value_**, **_Operation_**, **_ShowInMenu_**, **_ShowSummaryTasks_**)
+_expression_.**FilterEdit** (**_Name_**, **_TaskFilter_**, **_Create_**, **_OverwriteExisting_**, **_Parenthesis_**, **_NewName_**, **_FieldName_**, **_NewFieldName_**, **_Test_**, **_Value_**, **_Operation_**, **_ShowInMenu_**, **_ShowSummaryTasks_**)
 
 _expression_ A variable that represents an **Application** object.
 

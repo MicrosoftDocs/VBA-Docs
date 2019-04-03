@@ -1,5 +1,5 @@
 ---
-title: Shape.ForeignData Property (Visio)
+title: Shape.ForeignData property (Visio)
 keywords: vis_sdr.chm11250600
 f1_keywords:
 - vis_sdr.chm11250600
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.ForeignData Property (Visio)
+# Shape.ForeignData property (Visio)
 
 Returns metafile, bitmap, or OLE data for a shape that represents a foreign object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ForeignData`
+_expression_. `ForeignData`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

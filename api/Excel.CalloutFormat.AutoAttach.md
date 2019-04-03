@@ -42,7 +42,7 @@ Setting this property affects a callout only if it has an explicitly set drop va
 
 ## Example
 
-This example adds two callouts to  `myDocument`. If you drag the text box for each of these callouts to the left of the callout line origin, the place on the text box where the callout line attaches will change for the automatically attached callout.
+This example adds two callouts to  _myDocument_. If you drag the text box for each of these callouts to the left of the callout line origin, the place on the text box where the callout line attaches will change for the automatically attached callout.
 
 
 ```vb

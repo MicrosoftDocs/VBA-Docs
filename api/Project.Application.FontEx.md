@@ -1,5 +1,5 @@
 ---
-title: Application.FontEx Method (Project)
+title: Application.FontEx method (Project)
 keywords: vbapj.chm937
 f1_keywords:
 - vbapj.chm937
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FontEx Method (Project)
+# Application.FontEx method (Project)
 
 Sets the font for the text in the active cells.
 
 
 ## Syntax
 
- _expression_. `FontEx`( `_Name_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_`, `_Reset_`, `_CellColor_`, `_Pattern_` )
+_expression_. `FontEx`( `_Name_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_`, `_Reset_`, `_CellColor_`, `_Pattern_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.Select Method (Project)
+title: Chart.Select method (Project)
 keywords: vbapj.chm131638
 f1_keywords:
 - vbapj.chm131638
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Select Method (Project)
+# Chart.Select method (Project)
 Selects one or more charts in a report.
 
 ## Syntax

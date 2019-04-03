@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Sensitivity Property (Outlook)
+title: SharingItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm618
 f1_keywords:
 - vbaol11.chm618
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Sensitivity Property (Outlook)
+# SharingItem.Sensitivity property (Outlook)
 
 Returns or sets an  **[OlSensitivity](Outlook.OlSensitivity.md)** constant indicating the sensitivity for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlSensitivity](Outlook.OlSensitivity.md)** constant indic
 
 _expression_. `Sensitivity`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

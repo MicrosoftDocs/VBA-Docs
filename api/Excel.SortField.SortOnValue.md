@@ -21,7 +21,7 @@ Return the value on which the sort is performed for the specified  **SortField**
 
 _expression_. `SortOnValue`
 
-_expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
+_expression_ A variable that represents a [SortField](Excel.SortField.md) object.
 
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Parent Property (Outlook)
+title: FormDescription.Parent property (Outlook)
 keywords: vbaol11.chm182
 f1_keywords:
 - vbaol11.chm182
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.Parent Property (Outlook)
+# FormDescription.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## See also

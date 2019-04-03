@@ -1,5 +1,5 @@
 ---
-title: Rows.Item Method (PowerPoint)
+title: Rows.Item method (PowerPoint)
 keywords: vbapp10.chm625003
 f1_keywords:
 - vbapp10.chm625003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Rows.Item Method (PowerPoint)
+# Rows.Item method (PowerPoint)
 
 Returns a single  **Row** object from the specified **Rows** collection.
 

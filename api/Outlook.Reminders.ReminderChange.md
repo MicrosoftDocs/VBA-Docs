@@ -1,5 +1,5 @@
 ---
-title: Reminders.ReminderChange Event (Outlook)
+title: Reminders.ReminderChange event (Outlook)
 keywords: vbaol11.chm577
 f1_keywords:
 - vbaol11.chm577
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.ReminderChange Event (Outlook)
+# Reminders.ReminderChange event (Outlook)
 
 Occurs after a reminder has been modified.
 
@@ -21,7 +21,7 @@ Occurs after a reminder has been modified.
 
 _expression_. `ReminderChange`( `_ReminderObject_` )
 
-_expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Parameters

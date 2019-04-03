@@ -1,5 +1,5 @@
 ---
-title: Window.SubType Property (Visio)
+title: Window.SubType property (Visio)
 keywords: vis_sdr.chm11614470
 f1_keywords:
 - vis_sdr.chm11614470
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.SubType Property (Visio)
+# Window.SubType property (Visio)
 
 Returns the subtype of a  **Window** object that represents a drawing window. Read-only.
 
 
 ## Syntax
 
- _expression_. `SubType`
+_expression_. `SubType`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

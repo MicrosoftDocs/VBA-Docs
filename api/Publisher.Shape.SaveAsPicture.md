@@ -1,5 +1,5 @@
 ---
-title: Shape.SaveAsPicture Method (Publisher)
+title: Shape.SaveAsPicture method (Publisher)
 keywords: vbapb10.chm2228375
 f1_keywords:
 - vbapb10.chm2228375
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.SaveAsPicture Method (Publisher)
+# Shape.SaveAsPicture method (Publisher)
 
 Saves a single shape as a picture file.
 
 
 ## Syntax
 
- _expression_. **SaveAsPicture**(**_Filename_**,  **_pbResolution_**)
+ _expression_.**SaveAsPicture**(**_FileName_**,  **_pbResolution_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

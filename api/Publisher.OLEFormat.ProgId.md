@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ProgId Property (Publisher)
+title: OLEFormat.ProgId property (Publisher)
 keywords: vbapb10.chm4456452
 f1_keywords:
 - vbapb10.chm4456452
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.ProgId Property (Publisher)
+# OLEFormat.ProgId property (Publisher)
 
 Returns a  **String** that represents the programmatic identifier (ProgID) for the specified OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **ProgId**
+ _expression_.**ProgId**
 
  _expression_ A variable that represents an  **OLEFormat** object.
 

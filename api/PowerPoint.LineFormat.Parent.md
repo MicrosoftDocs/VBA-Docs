@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Parent Property (PowerPoint)
+title: LineFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm553001
 f1_keywords:
 - vbapp10.chm553001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.Parent Property (PowerPoint)
+# LineFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

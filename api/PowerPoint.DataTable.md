@@ -1,5 +1,5 @@
 ---
-title: DataTable Object (PowerPoint)
+title: DataTable object (PowerPoint)
 keywords: vbapp10.chm698000
 f1_keywords:
 - vbapp10.chm698000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataTable Object (PowerPoint)
+# DataTable object (PowerPoint)
 
 Represents a chart data table.
 

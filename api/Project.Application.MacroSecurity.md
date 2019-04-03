@@ -1,5 +1,5 @@
 ---
-title: Application.MacroSecurity Method (Project)
+title: Application.MacroSecurity method (Project)
 keywords: vbapj.chm2396
 f1_keywords:
 - vbapj.chm2396
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MacroSecurity Method (Project)
+# Application.MacroSecurity method (Project)
 
 Displays the  **Security** dialog box, which can be used to set the security level for macros. It also lists any macro sources that can be trusted.
 
 
 ## Syntax
 
- _expression_. `MacroSecurity`
+_expression_. `MacroSecurity`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

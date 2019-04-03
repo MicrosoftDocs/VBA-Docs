@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Copy Method (Outlook)
+title: TimelineView.Copy method (Outlook)
 keywords: vbaol11.chm2647
 f1_keywords:
 - vbaol11.chm2647
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Copy Method (Outlook)
+# TimelineView.Copy method (Outlook)
 
 Creates a new  **[View](Outlook.View.md)** object based on the existing **[TimelineView](Outlook.TimelineView.md)** object.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Name_` , `_SaveOption_` )
+_expression_. `Copy`( `_Name_` , `_SaveOption_` )
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Parameters

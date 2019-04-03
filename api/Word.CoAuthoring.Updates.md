@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # CoAuthoring.Updates property (Word)
 
-Returns a  **[CoAuthUpdates](./overview/Word.md)** collection that represents the most recent updates that were merged into the document. Read-only.
+Returns a  **[CoAuthUpdates](overview/Word.md)** collection that represents the most recent updates that were merged into the document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Updates`
+_expression_. `Updates`
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Fields Object (Publisher)
+title: Fields object (Publisher)
 keywords: vbapb10.chm6094847
 f1_keywords:
 - vbapb10.chm6094847
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fields Object (Publisher)
+# Fields object (Publisher)
 
 A collection of  **[Field](Publisher.Field.md)** objects that represent all the fields in a text range.
  

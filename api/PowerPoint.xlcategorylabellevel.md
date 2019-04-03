@@ -1,5 +1,5 @@
 ---
-title: XlCategoryLabelLevel Enumeration (PowerPoint)
+title: XlCategoryLabelLevel enumeration (PowerPoint)
 ms.assetid: c55e59e0-247e-e286-e276-f6349fd12b56
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# XlCategoryLabelLevel Enumeration (PowerPoint)
+# XlCategoryLabelLevel enumeration (PowerPoint)
 
 Constants that represent chart category-label levels, passed to and returned by the [Chart.CategoryLabelLevel](PowerPoint.chart.categorylabellevel.md) property.
 

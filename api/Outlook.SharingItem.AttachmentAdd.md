@@ -1,5 +1,5 @@
 ---
-title: SharingItem.AttachmentAdd Event (Outlook)
+title: SharingItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.AttachmentAdd Event (Outlook)
+# SharingItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 _expression_. `AttachmentAdd`( `_Attachment_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

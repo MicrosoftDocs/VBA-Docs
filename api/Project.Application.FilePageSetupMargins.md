@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupMargins Method (Project)
+title: Application.FilePageSetupMargins method (Project)
 keywords: vbapj.chm2356
 f1_keywords:
 - vbapj.chm2356
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupMargins Method (Project)
+# Application.FilePageSetupMargins method (Project)
 
 Sets up margins for printing.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupMargins`( `_Name_`, `_Top_`, `_Bottom_`, `_Left_`, `_Right_`, `_Borders_` )
+_expression_. `FilePageSetupMargins`( `_Name_`, `_Top_`, `_Bottom_`, `_Left_`, `_Right_`, `_Borders_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

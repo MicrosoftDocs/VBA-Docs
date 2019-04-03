@@ -1,5 +1,5 @@
 ---
-title: Conflict.Type Property (Outlook)
+title: Conflict.Type property (Outlook)
 keywords: vbaol11.chm417
 f1_keywords:
 - vbaol11.chm417
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflict.Type Property (Outlook)
+# Conflict.Type property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the type of item represented by the **[Conflict](Outlook.Conflict.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [Conflict](./Outlook.Conflict.md) object.
+_expression_ A variable that represents a [Conflict](Outlook.Conflict.md) object.
 
 
 ## See also

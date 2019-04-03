@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultPubDirection Property (Publisher)
+title: Options.DefaultPubDirection property (Publisher)
 keywords: vbapb10.chm1048624
 f1_keywords:
 - vbapb10.chm1048624
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.DefaultPubDirection Property (Publisher)
+# Options.DefaultPubDirection property (Publisher)
 
 Returns or sets a  **PbDirectionType** constant that represents the default direction in which text flows when a new publication is created. Read/write.
 
 
 ## Syntax
 
- _expression_. **DefaultPubDirection**
+ _expression_.**DefaultPubDirection**
 
  _expression_ A variable that represents a  **Options** object.
 

@@ -1,5 +1,5 @@
 ---
-title: CodeMask.Application Property (Project)
+title: CodeMask.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.CodeMask.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CodeMask.Application Property (Project)
+# CodeMask.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

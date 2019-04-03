@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultStrU Property (Visio)
+title: Cell.ResultStrU property (Visio)
 keywords: vis_sdr.chm10160065
 f1_keywords:
 - vis_sdr.chm10160065
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.ResultStrU Property (Visio)
+# Cell.ResultStrU property (Visio)
 
 Gets the value of a ShapeSheet cell expressed as a universal string. Read-only.
 
 
 ## Syntax
 
- _expression_. `ResultStrU`( `_UnitsNameOrCode_` )
+_expression_. `ResultStrU`( `_UnitsNameOrCode_` )
 
  _expression_ An expression that returns a [Cell](./Visio.Cell.md) object.
 

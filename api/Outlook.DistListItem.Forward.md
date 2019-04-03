@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Forward Event (Outlook)
+title: DistListItem.Forward event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Forward
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Forward Event (Outlook)
+# DistListItem.Forward event (Outlook)
 
 Occurs when the user selects the  **Forward** action for an item (which is an instance of the parent object).
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **Forward** action for an item (which is an in
 
 _expression_. `Forward`( `_Forward_` , `_Cancel_` )
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

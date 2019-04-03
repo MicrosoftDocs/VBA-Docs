@@ -21,7 +21,7 @@ Returns a  **[ControlFormat](Excel.ControlFormat.md)** object that contains Micr
 
 _expression_. `ControlFormat`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example

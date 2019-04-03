@@ -1,5 +1,5 @@
 ---
-title: Categories.Class Property (Outlook)
+title: Categories.Class property (Outlook)
 keywords: vbaol11.chm2432
 f1_keywords:
 - vbaol11.chm2432
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Categories.Class Property (Outlook)
+# Categories.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [Categories](./Outlook.Categories.md) object.
+_expression_ A variable that represents a [Categories](Outlook.Categories.md) object.
 
 
 ## See also

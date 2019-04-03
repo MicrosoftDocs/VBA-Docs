@@ -1,5 +1,5 @@
 ---
-title: Connects.ToSheet Property (Visio)
+title: Connects.ToSheet property (Visio)
 keywords: vis_sdr.chm10414585
 f1_keywords:
 - vis_sdr.chm10414585
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Connects.ToSheet Property (Visio)
+# Connects.ToSheet property (Visio)
 
 Returns the shape to which one or more connections are made. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToSheet`
+_expression_. `ToSheet`
 
  _expression_ A variable that represents a [Connects](./Visio.Connects.md) object.
 

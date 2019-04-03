@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCurve Method (Publisher)
+title: Shapes.AddCurve method (Publisher)
 keywords: vbapb10.chm2162706
 f1_keywords:
 - vbapb10.chm2162706
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddCurve Method (Publisher)
+# Shapes.AddCurve method (Publisher)
 
 Adds a new  **[Shape](Publisher.Shape.md)** object representing a Bézier curve to the specified **[Shapes](Publisher.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddCurve**(**_SafeArrayOfPoints_**)
+ _expression_.**AddCurve**(**_SafeArrayOfPoints_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

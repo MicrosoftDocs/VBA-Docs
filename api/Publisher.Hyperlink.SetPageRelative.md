@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.SetPageRelative Method (Publisher)
+title: Hyperlink.SetPageRelative method (Publisher)
 keywords: vbapb10.chm4587542
 f1_keywords:
 - vbapb10.chm4587542
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.SetPageRelative Method (Publisher)
+# Hyperlink.SetPageRelative method (Publisher)
 
 Sets the target type for the specified hyperlink.
 
 
 ## Syntax
 
- _expression_. **SetPageRelative**(**_RelativePage_**)
+ _expression_.**SetPageRelative**(**_RelativePage_**)
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

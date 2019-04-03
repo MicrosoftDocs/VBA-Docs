@@ -1,5 +1,5 @@
 ---
-title: AddressList.GetContactsFolder Method (Outlook)
+title: AddressList.GetContactsFolder method (Outlook)
 keywords: vbaol11.chm2032
 f1_keywords:
 - vbaol11.chm2032
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.GetContactsFolder Method (Outlook)
+# AddressList.GetContactsFolder method (Outlook)
 
 Obtains a  **[Folder](Outlook.Folder.md)** object that represents the Contacts folder for the **[AddressList](Outlook.AddressList.md)** object.
 
@@ -21,7 +21,7 @@ Obtains a  **[Folder](Outlook.Folder.md)** object that represents the Contacts f
 
 _expression_. `GetContactsFolder`
 
-_expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 
 
 ## Return value

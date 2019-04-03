@@ -1,5 +1,5 @@
 ---
-title: Engagement.CommittedStart Property (Project)
+title: Engagement.CommittedStart property (Project)
 keywords: vbapj.chm131660
 f1_keywords:
 - vbapj.chm131660
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Engagement.CommittedStart Property (Project)
+# Engagement.CommittedStart property (Project)
 
 The CommittedStart property for the Engagement object. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `CommittedStart`
+_expression_. `CommittedStart`
 
  _expression_ A variable that represents a 'Engagement' object.
 
@@ -25,6 +25,6 @@ The CommittedStart property for the Engagement object. Introduced in Office 2016
 ## See also
 
 
-[Engagement Object (Project)](Project.engagement.md)
+[Engagement object (Project)](Project.engagement.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

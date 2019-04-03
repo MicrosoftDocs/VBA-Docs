@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HasNextLink Property (Publisher)
+title: TextFrame.HasNextLink property (Publisher)
 keywords: vbapb10.chm3866640
 f1_keywords:
 - vbapb10.chm3866640
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.HasNextLink Property (Publisher)
+# TextFrame.HasNextLink property (Publisher)
 
 Indicates whether the specified text frame has a valid forward text-box link. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasNextLink**
+ _expression_.**HasNextLink**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

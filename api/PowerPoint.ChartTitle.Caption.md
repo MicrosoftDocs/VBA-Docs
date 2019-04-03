@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Caption Property (PowerPoint)
+title: ChartTitle.Caption property (PowerPoint)
 keywords: vbapp10.chm694001
 f1_keywords:
 - vbapp10.chm694001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle.Caption Property (PowerPoint)
+# ChartTitle.Caption property (PowerPoint)
 
 Returns or sets the chart title text. Read/write  **String**.
 

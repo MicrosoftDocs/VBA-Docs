@@ -1,5 +1,5 @@
 ---
-title: Project.HasPassword Property (Project)
+title: Project.HasPassword property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.HasPassword
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.HasPassword Property (Project)
+# Project.HasPassword property (Project)
 
  **True** if a project has a password. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasPassword`
+_expression_. `HasPassword`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: CellRange.Width Property (Publisher)
+title: CellRange.Width property (Publisher)
 keywords: vbapb10.chm5177351
 f1_keywords:
 - vbapb10.chm5177351
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CellRange.Width Property (Publisher)
+# CellRange.Width property (Publisher)
 
 Returns a  **Long** that represent the width (in cells) of a table, range of cells, or page. Read-only.
 
 
 ## Syntax
 
- _expression_. **Width**
+ _expression_.**Width**
 
  _expression_ A variable that represents a  **CellRange** object.
 

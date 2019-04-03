@@ -1,5 +1,5 @@
 ---
-title: CategoryRuleCondition Object (Outlook)
+title: CategoryRuleCondition object (Outlook)
 keywords: vbaol11.chm3179
 f1_keywords:
 - vbaol11.chm3179
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryRuleCondition Object (Outlook)
+# CategoryRuleCondition object (Outlook)
 
 Represents a rule condition that evaluates categories on a message as compared with  **CategoryRuleCondition.Categories**.
 
@@ -41,6 +41,6 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.Refresh Method (Visio)
+title: DataRecordset.Refresh method (Visio)
 keywords: vis_sdr.chm16460320
 f1_keywords:
 - vis_sdr.chm16460320
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.Refresh Method (Visio)
+# DataRecordset.Refresh method (Visio)
 
 Executes the query string associated with the connected (non-XML-based)  **[DataRecordset](Visio.DataRecordset.md)** and updates linked shapes with new data from the data source returned by the query.
 
@@ -22,7 +22,7 @@ Executes the query string associated with the connected (non-XML-based)  **[Data
 
 ## Syntax
 
- _expression_. `Refresh`
+_expression_. `Refresh`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

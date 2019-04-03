@@ -1,5 +1,5 @@
 ---
-title: Series.ErrorBar Method (PowerPoint)
+title: Series.ErrorBar method (PowerPoint)
 keywords: vbapp10.chm65688
 f1_keywords:
 - vbapp10.chm65688
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.ErrorBar Method (PowerPoint)
+# Series.ErrorBar method (PowerPoint)
 
 Applies error bars to the series. 
 
 
 ## Syntax
 
- _expression_. `ErrorBar`( `_Direction_`, `_Include_`, `_Type_`, `_Amount_`, `_MinusValues_` )
+_expression_. `ErrorBar`( `_Direction_`, `_Include_`, `_Type_`, `_Amount_`, `_MinusValues_` )
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -30,9 +30,9 @@ Applies error bars to the series.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Required|**[xlErrorBarDirection](PowerPoint.XlErrorBarDirection.md)**|One of the enumeration values that specifies the error bar direction.|
-| _Include_|Required|**[xlErrorBarInclude](PowerPoint.XlErrorBarInclude.md)**|One of the enumeration values that specifies the error bar parts to include.|
-| _Type_|Required|**[xlErrorBarType](PowerPoint.XlErrorBarType.md)**|One of the enumeration values that specifies the error bar type.|
+| _Direction_|Required|**[XlErrorBarDirection](PowerPoint.XlErrorBarDirection.md)**|One of the enumeration values that specifies the error bar direction.|
+| _Include_|Required|**[XlErrorBarInclude](PowerPoint.XlErrorBarInclude.md)**|One of the enumeration values that specifies the error bar parts to include.|
+| _Type_|Required|**[XlErrorBarType](PowerPoint.XlErrorBarType.md)**|One of the enumeration values that specifies the error bar type.|
 | _Amount_|Optional|**Variant**|The error amount. Used for only the positive error amount when Type is  **xlErrorBarTypeCustom**.|
 | _MinusValues_|Optional|**Variant**|The negative error amount when Type is  **xlErrorBarTypeCustom**.|
 

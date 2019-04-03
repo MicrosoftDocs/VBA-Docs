@@ -1,5 +1,5 @@
 ---
-title: Page.Shapes Property (Visio)
+title: Page.Shapes property (Visio)
 keywords: vis_sdr.chm10914330
 f1_keywords:
 - vis_sdr.chm10914330
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Shapes Property (Visio)
+# Page.Shapes property (Visio)
 
 Returns the  **Shapes** collection for a page, master, or group. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_. `Shapes`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

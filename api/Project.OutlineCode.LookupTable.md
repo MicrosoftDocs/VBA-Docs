@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.LookupTable Property (Project)
+title: OutlineCode.LookupTable property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.LookupTable
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.LookupTable Property (Project)
+# OutlineCode.LookupTable property (Project)
 
 Gets a  **[LookupTable](Project.lookuptable.md)** collection of lookup table entries for the outline code. Read-only **LookupTable**.
 
 
 ## Syntax
 
- _expression_. `LookupTable`
+_expression_. `LookupTable`
 
  _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 

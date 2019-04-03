@@ -1,5 +1,5 @@
 ---
-title: Section.ContinueNumbersFromPreviousSection Property (Publisher)
+title: Section.ContinueNumbersFromPreviousSection property (Publisher)
 keywords: vbapb10.chm7405575
 f1_keywords:
 - vbapb10.chm7405575
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Section.ContinueNumbersFromPreviousSection Property (Publisher)
+# Section.ContinueNumbersFromPreviousSection property (Publisher)
 
  **True** if the specified section continues the numbering from the previous section. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **ContinueNumbersFromPreviousSection**
+ _expression_.**ContinueNumbersFromPreviousSection**
 
  _expression_ A variable that represents a  **Section** object.
 

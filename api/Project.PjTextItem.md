@@ -1,5 +1,5 @@
 ---
-title: PjTextItem Enumeration (Project)
+title: PjTextItem enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTextItem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTextItem Enumeration (Project)
+# PjTextItem enumeration (Project)
 
 Contains constants that specify the text item in the Project database. For more information about working with fields in Project, see the "Fields reference" topics in Project Help.
 

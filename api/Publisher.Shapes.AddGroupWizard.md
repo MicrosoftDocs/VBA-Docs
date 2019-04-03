@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddGroupWizard Method (Publisher)
+title: Shapes.AddGroupWizard method (Publisher)
 keywords: vbapb10.chm2162727
 f1_keywords:
 - vbapb10.chm2162727
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddGroupWizard Method (Publisher)
+# Shapes.AddGroupWizard method (Publisher)
 
 Adds a  **Shape** object representing a Design Gallery object to the publication.
 
 
 ## Syntax
 
- _expression_. **AddGroupWizard**(**_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
+ _expression_.**AddGroupWizard**(**_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

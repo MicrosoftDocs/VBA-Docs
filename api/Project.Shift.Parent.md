@@ -1,5 +1,5 @@
 ---
-title: Shift.Parent Property (Project)
+title: Shift.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Shift.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Shift.Parent Property (Project)
+# Shift.Parent property (Project)
 
 Gets the parent of the  **Shift** object. Read-only **Object**.
 

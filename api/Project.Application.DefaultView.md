@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultView Property (Project)
+title: Application.DefaultView property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DefaultView
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DefaultView Property (Project)
+# Application.DefaultView property (Project)
 
 Gets or sets the name of the view that appears when you start Project. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `DefaultView`
+_expression_. `DefaultView`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

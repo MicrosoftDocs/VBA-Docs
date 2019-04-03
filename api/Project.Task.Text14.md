@@ -1,5 +1,5 @@
 ---
-title: Task.Text14 Property (Project)
+title: Task.Text14 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Text14
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Text14 Property (Project)
+# Task.Text14 property (Project)
 
 Gets or sets the value of a local Text custom field for the task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Text14`
+_expression_. `Text14`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.RefreshEngagementsForProject Method (Project)
+title: Application.RefreshEngagementsForProject method (Project)
 keywords: vbapj.chm155
 f1_keywords:
 - vbapj.chm155
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Application.RefreshEngagementsForProject Method (Project)
+# Application.RefreshEngagementsForProject method (Project)
 
 Refreshes the engagements for the project using engagement state on the server. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `RefreshEngagementsForProject`
+_expression_. `RefreshEngagementsForProject`
 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 

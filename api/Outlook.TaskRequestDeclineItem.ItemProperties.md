@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.ItemProperties Property (Outlook)
+title: TaskRequestDeclineItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1861
 f1_keywords:
 - vbaol11.chm1861
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.ItemProperties Property (Outlook)
+# TaskRequestDeclineItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 _expression_. `ItemProperties`
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks

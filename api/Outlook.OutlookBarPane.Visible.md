@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.Visible Property (Outlook)
+title: OutlookBarPane.Visible property (Outlook)
 keywords: vbaol11.chm366
 f1_keywords:
 - vbaol11.chm366
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarPane.Visible Property (Outlook)
+# OutlookBarPane.Visible property (Outlook)
 
 Returns or sets a  **Boolean** indicating the visible state of the specified object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** indicating the visible state of the specified obj
 
 _expression_.**Visible**
 
-_expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
+_expression_ A variable that represents an [OutlookBarPane](Outlook.OutlookBarPane.md) object.
 
 
 ## Remarks

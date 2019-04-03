@@ -1,5 +1,5 @@
 ---
-title: Application.EnableChangeHighlighting Property (Project)
+title: Application.EnableChangeHighlighting property (Project)
 keywords: vbapj.chm131606
 f1_keywords:
 - vbapj.chm131606
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EnableChangeHighlighting Property (Project)
+# Application.EnableChangeHighlighting property (Project)
 
  **True** if change highlighting is enabled. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableChangeHighlighting`
+_expression_. `EnableChangeHighlighting`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

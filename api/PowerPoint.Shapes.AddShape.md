@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddShape Method (PowerPoint)
+title: Shapes.AddShape method (PowerPoint)
 keywords: vbapp10.chm543012
 f1_keywords:
 - vbapp10.chm543012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddShape Method (PowerPoint)
+# Shapes.AddShape method (PowerPoint)
 
 Creates an AutoShape. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new AutoShape.
 
 
 ## Syntax
 
- _expression_. `AddShape`( `_Type_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
+_expression_. `AddShape`( `_Type_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -48,7 +48,7 @@ To change the type of an AutoShape that you've added, set the  **AutoShapeType**
 
 ## Example
 
-This example adds a rectangle to  `myDocument`.
+This example adds a rectangle to  _myDocument_.
 
 
 ```vb

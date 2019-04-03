@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.OriginalWidth Property (Publisher)
+title: PictureFormat.OriginalWidth property (Publisher)
 keywords: vbapb10.chm3604777
 f1_keywords:
 - vbapb10.chm3604777
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.OriginalWidth Property (Publisher)
+# PictureFormat.OriginalWidth property (Publisher)
 
 Returns a  **Variant** that represents, in points, the width of the specified linked picture or OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **OriginalWidth**
+ _expression_.**OriginalWidth**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 

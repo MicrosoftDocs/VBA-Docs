@@ -1,5 +1,5 @@
 ---
-title: OutlineCode.Parent Property (Project)
+title: OutlineCode.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode.Parent Property (Project)
+# OutlineCode.Parent property (Project)
 
 Gets the parent of the  **OutlineCode** object. Read-only **Project**.
 

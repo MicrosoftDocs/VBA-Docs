@@ -1,5 +1,5 @@
 ---
-title: Inspector.WordEditor Property (Outlook)
+title: Inspector.WordEditor property (Outlook)
 keywords: vbaol11.chm2972
 f1_keywords:
 - vbaol11.chm2972
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Inspector.WordEditor Property (Outlook)
+# Inspector.WordEditor property (Outlook)
 
 Returns the Microsoft Word Document Object Model of the message being displayed. Read-only.
 
@@ -21,7 +21,7 @@ Returns the Microsoft Word Document Object Model of the message being displayed.
 
 _expression_. `WordEditor`
 
-_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Remarks

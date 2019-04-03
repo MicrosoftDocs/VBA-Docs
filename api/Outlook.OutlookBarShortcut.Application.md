@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.Application Property (Outlook)
+title: OutlookBarShortcut.Application property (Outlook)
 keywords: vbaol11.chm338
 f1_keywords:
 - vbaol11.chm338
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.Application Property (Outlook)
+# OutlookBarShortcut.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [OutlookBarShortcut](./Outlook.OutlookBarShortcut.md) object.
+_expression_ A variable that represents an [OutlookBarShortcut](Outlook.OutlookBarShortcut.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Month.Parent Property (Project)
+title: Month.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Month.Parent Property (Project)
+# Month.Parent property (Project)
 
 Gets the parent of the  **Month** object. Read-only **Year**.
 

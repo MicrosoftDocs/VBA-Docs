@@ -1,5 +1,5 @@
 ---
-title: Views.Item Method (Outlook)
+title: Views.Item method (Outlook)
 keywords: vbaol11.chm546
 f1_keywords:
 - vbaol11.chm546
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Views.Item Method (Outlook)
+# Views.Item method (Outlook)
 
 Returns an  **[View](Outlook.View.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns an  **[View](Outlook.View.md)** object from the collection.
 
  _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Views](./Outlook.Views.md) object.
+_expression_ A variable that represents a [Views](Outlook.Views.md) object.
 
 
 ## Parameters

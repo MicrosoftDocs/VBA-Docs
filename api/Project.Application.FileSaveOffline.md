@@ -1,5 +1,5 @@
 ---
-title: Application.FileSaveOffline Method (Project)
+title: Application.FileSaveOffline method (Project)
 keywords: vbapj.chm136
 f1_keywords:
 - vbapj.chm136
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FileSaveOffline Method (Project)
+# Application.FileSaveOffline method (Project)
 
 Saves the file for viewing offline.
 
 
 ## Syntax
 
- _expression_. `FileSaveOffline`( `_Save_` )
+_expression_. `FileSaveOffline`( `_Save_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

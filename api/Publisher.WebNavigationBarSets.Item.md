@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSets.Item Method (Publisher)
+title: WebNavigationBarSets.Item method (Publisher)
 keywords: vbapb10.chm8454144
 f1_keywords:
 - vbapb10.chm8454144
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSets.Item Method (Publisher)
+# WebNavigationBarSets.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **WebNavigationBarSets** object.
 

@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Save Method (Outlook)
+title: TimelineView.Save method (Outlook)
 keywords: vbaol11.chm2650
 f1_keywords:
 - vbaol11.chm2650
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Save Method (Outlook)
+# TimelineView.Save method (Outlook)
 
 Saves the view, or saves the changes to a view.
 
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## See also

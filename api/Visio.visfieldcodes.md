@@ -1,5 +1,5 @@
 ---
-title: VisFieldCodes Enumeration (Visio)
+title: VisFieldCodes enumeration (Visio)
 keywords: vis_sdr.chm70140
 f1_keywords:
 - vis_sdr.chm70140
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisFieldCodes Enumeration (Visio)
+# VisFieldCodes enumeration (Visio)
 
 Text-field codes passed to the  **AddField** and **AddFieldEx** methods.
 

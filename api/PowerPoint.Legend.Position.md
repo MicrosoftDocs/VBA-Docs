@@ -1,5 +1,5 @@
 ---
-title: Legend.Position Property (PowerPoint)
+title: Legend.Position property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Position
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Legend.Position Property (PowerPoint)
+# Legend.Position property (PowerPoint)
 
-Returns or sets the position of the legend on the chart. Read/write  **[xlLegendPosition](PowerPoint.XlLegendPosition.md)**.
+Returns or sets the position of the legend on the chart. Read/write  **[XlLegendPosition](PowerPoint.XlLegendPosition.md)**.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
  _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 

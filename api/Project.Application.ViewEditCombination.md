@@ -1,5 +1,5 @@
 ---
-title: Application.ViewEditCombination Method (Project)
+title: Application.ViewEditCombination method (Project)
 keywords: vbapj.chm304
 f1_keywords:
 - vbapj.chm304
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewEditCombination Method (Project)
+# Application.ViewEditCombination method (Project)
 
 Creates, edits, or copies a combination view.
 
 
 ## Syntax
 
- _expression_. `ViewEditCombination`( `_Name_`, `_Create_`, `_NewName_`, `_TopView_`, `_BottomView_`, `_ShowInMenu_` )
+_expression_. `ViewEditCombination`( `_Name_`, `_Create_`, `_NewName_`, `_TopView_`, `_BottomView_`, `_ShowInMenu_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

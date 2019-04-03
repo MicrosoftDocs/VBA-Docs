@@ -1,5 +1,5 @@
 ---
-title: Application.LayoutRelatedNow Method (Project)
+title: Application.LayoutRelatedNow method (Project)
 keywords: vbapj.chm30
 f1_keywords:
 - vbapj.chm30
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LayoutRelatedNow Method (Project)
+# Application.LayoutRelatedNow method (Project)
 
 Positions all task boxes in the active Network Diagram that are successors or subtasks of the task with the focus.
 
 
 ## Syntax
 
- _expression_. `LayoutRelatedNow`
+_expression_. `LayoutRelatedNow`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

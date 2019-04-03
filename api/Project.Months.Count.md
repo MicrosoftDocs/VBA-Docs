@@ -1,5 +1,5 @@
 ---
-title: Months.Count Property (Project)
+title: Months.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Months.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Months.Count Property (Project)
+# Months.Count property (Project)
 
 Gets the number of items in the  **Months** collection for a specified year from 1984 - 2149. Read-only **Integer**.
 

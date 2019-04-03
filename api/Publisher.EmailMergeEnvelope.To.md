@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.To Property (Publisher)
+title: EmailMergeEnvelope.To property (Publisher)
 keywords: vbapb10.chm9043971
 f1_keywords:
 - vbapb10.chm9043971
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.To Property (Publisher)
+# EmailMergeEnvelope.To property (Publisher)
 
 Gets or sets the  **MailMergeDataField** object that represents the data-source field (column) that lists the email addresses of recipients of the merged email message. Read/write.
 
 
 ## Syntax
 
- _expression_. **To**
+ _expression_.**To**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 

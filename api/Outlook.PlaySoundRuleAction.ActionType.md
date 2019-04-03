@@ -1,5 +1,5 @@
 ---
-title: PlaySoundRuleAction.ActionType Property (Outlook)
+title: PlaySoundRuleAction.ActionType property (Outlook)
 keywords: vbaol11.chm2276
 f1_keywords:
 - vbaol11.chm2276
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaySoundRuleAction.ActionType Property (Outlook)
+# PlaySoundRuleAction.ActionType property (Outlook)
 
 Returns a constant,  **olRuleActionPlaySound**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant,  **olRuleActionPlaySound**, from the **[OlRuleActionType](Ou
 
 _expression_. `ActionType`
 
-_expression_ A variable that represents a [PlaySoundRuleAction](./Outlook.PlaySoundRuleAction.md) object.
+_expression_ A variable that represents a [PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md) object.
 
 
 ## Remarks

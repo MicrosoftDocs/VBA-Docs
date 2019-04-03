@@ -1,5 +1,5 @@
 ---
-title: Layer.Document Property (Visio)
+title: Layer.Document property (Visio)
 keywords: vis_sdr.chm11813430
 f1_keywords:
 - vis_sdr.chm11813430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Layer.Document Property (Visio)
+# Layer.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 

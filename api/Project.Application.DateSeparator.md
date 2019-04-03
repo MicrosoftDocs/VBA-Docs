@@ -1,5 +1,5 @@
 ---
-title: Application.DateSeparator Property (Project)
+title: Application.DateSeparator property (Project)
 keywords: vbapj.chm131716
 f1_keywords:
 - vbapj.chm131716
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DateSeparator Property (Project)
+# Application.DateSeparator property (Project)
 
 Gets the date separator character. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `DateSeparator`
+_expression_. `DateSeparator`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Trendline.Forward2 Property (PowerPoint)
+title: Trendline.Forward2 property (PowerPoint)
 keywords: vbapp10.chm68187
 f1_keywords:
 - vbapp10.chm68187
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Trendline.Forward2 Property (PowerPoint)
+# Trendline.Forward2 property (PowerPoint)
 
 Returns or sets the number of periods (or units on a scatter chart) that the trendline extends forward. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `Forward2`
+_expression_. `Forward2`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

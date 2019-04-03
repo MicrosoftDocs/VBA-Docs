@@ -1,5 +1,5 @@
 ---
-title: Shape.Resize Method (Visio)
+title: Shape.Resize method (Visio)
 keywords: vis_sdr.chm11262205
 f1_keywords:
 - vis_sdr.chm11262205
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Resize Method (Visio)
+# Shape.Resize method (Visio)
 
 Resizes the shape by moving shape handles as specified.
 
 
 ## Syntax
 
- _expression_. `Resize`( `_Direction_` , `_Distance_` , `_UnitCode_` )
+_expression_. `Resize`( `_Direction_` , `_Distance_` , `_UnitCode_` )
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 

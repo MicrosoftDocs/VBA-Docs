@@ -1,5 +1,5 @@
 ---
-title: Assignment Object (Project)
+title: Assignment object (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Assignment Object (Project)
+# Assignment object (Project)
 
 Represents an assignment for a task or resource. The  **Assignment** object is a member of an **[Assignments](Project.assignments.md)** or an **[OverAllocatedAssignments](./Project.overallocatedassignments.md)** collection.
 

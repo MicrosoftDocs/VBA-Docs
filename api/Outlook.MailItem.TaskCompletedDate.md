@@ -1,5 +1,5 @@
 ---
-title: MailItem.TaskCompletedDate Property (Outlook)
+title: MailItem.TaskCompletedDate property (Outlook)
 keywords: vbaol11.chm1395
 f1_keywords:
 - vbaol11.chm1395
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.TaskCompletedDate Property (Outlook)
+# MailItem.TaskCompletedDate property (Outlook)
 
 Returns or sets a  **Date** value that represents the completion date of the task for this **[MailItem](Outlook.MailItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the completion date of the tas
 
 _expression_. `TaskCompletedDate`
 
- _expression_ An expression that returns a [MailItem](./Outlook.MailItem.md) object.
+ _expression_ An expression that returns a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

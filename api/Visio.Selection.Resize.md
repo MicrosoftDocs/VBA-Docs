@@ -1,5 +1,5 @@
 ---
-title: Selection.Resize Method (Visio)
+title: Selection.Resize method (Visio)
 keywords: vis_sdr.chm11162205
 f1_keywords:
 - vis_sdr.chm11162205
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Resize Method (Visio)
+# Selection.Resize method (Visio)
 
 Resizes the selection by moving shape handles as specified.
 
 
 ## Syntax
 
- _expression_. `Resize`( `_Direction_` , `_Distance_` , `_UnitCode_` )
+_expression_. `Resize`( `_Direction_` , `_Distance_` , `_UnitCode_` )
 
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 

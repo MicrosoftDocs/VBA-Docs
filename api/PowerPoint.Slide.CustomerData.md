@@ -1,5 +1,5 @@
 ---
-title: Slide.CustomerData Property (PowerPoint)
+title: Slide.CustomerData property (PowerPoint)
 keywords: vbapp10.chm531039
 f1_keywords:
 - vbapp10.chm531039
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Slide.CustomerData Property (PowerPoint)
+# Slide.CustomerData property (PowerPoint)
 
 Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomerData`
+_expression_. `CustomerData`
 
  _expression_ An expression that returns a [Slide](./PowerPoint.Slide.md) object.
 

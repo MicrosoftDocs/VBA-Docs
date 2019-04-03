@@ -1,5 +1,5 @@
 ---
-title: Project.ScheduleFromStart Property (Project)
+title: Project.ScheduleFromStart property (Project)
 keywords: vbapj.chm132599
 f1_keywords:
 - vbapj.chm132599
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ScheduleFromStart Property (Project)
+# Project.ScheduleFromStart property (Project)
 
  **True** if Project calculates the project schedule forward from the start date. **False** if the schedule is calculated backward from the finish date. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ScheduleFromStart`
+_expression_. `ScheduleFromStart`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

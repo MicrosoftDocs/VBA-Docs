@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperties.Refresh Method (Outlook)
+title: UserDefinedProperties.Refresh method (Outlook)
 keywords: vbaol11.chm591
 f1_keywords:
 - vbaol11.chm591
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# UserDefinedProperties.Refresh Method (Outlook)
+# UserDefinedProperties.Refresh method (Outlook)
 
 Refreshes the contents of the collection from the store, retrieving any changes performed in remote explorers.
 
 
 ## Syntax
 
- _expression_. `Refresh`
+_expression_. `Refresh`
 
-_expression_ A variable that represents a [UserDefinedProperties](./Outlook.UserDefinedProperties.md) object.
+_expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 
 
 ## See also

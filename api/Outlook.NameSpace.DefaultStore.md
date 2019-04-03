@@ -1,5 +1,5 @@
 ---
-title: NameSpace.DefaultStore Property (Outlook)
+title: NameSpace.DefaultStore property (Outlook)
 keywords: vbaol11.chm783
 f1_keywords:
 - vbaol11.chm783
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.DefaultStore Property (Outlook)
+# NameSpace.DefaultStore property (Outlook)
 
 Returns a  **[Store](Outlook.Store.md)** object representing the default Store for the profile. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[Store](Outlook.Store.md)** object representing the default Store f
 
 _expression_. `DefaultStore`
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Remarks

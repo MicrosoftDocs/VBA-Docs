@@ -1,5 +1,5 @@
 ---
-title: Store.RefreshQuotaDisplay Method (Outlook)
+title: Store.RefreshQuotaDisplay method (Outlook)
 keywords: vbaol11.chm3380
 f1_keywords:
 - vbaol11.chm3380
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Store.RefreshQuotaDisplay Method (Outlook)
+# Store.RefreshQuotaDisplay method (Outlook)
 
 Refreshes the store quota information that is displayed in the status bar in the explorer window.
 

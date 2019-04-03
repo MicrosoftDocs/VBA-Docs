@@ -1,5 +1,5 @@
 ---
-title: Application.ViewBar Method (Project)
+title: Application.ViewBar method (Project)
 keywords: vbapj.chm966
 f1_keywords:
 - vbapj.chm966
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewBar Method (Project)
+# Application.ViewBar method (Project)
 
 Shows or hides the View Bar.
 
 
 ## Syntax
 
- _expression_. `ViewBar`
+_expression_. `ViewBar`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

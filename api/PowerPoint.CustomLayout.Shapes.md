@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Shapes Property (PowerPoint)
+title: CustomLayout.Shapes property (PowerPoint)
 keywords: vbapp10.chm672003
 f1_keywords:
 - vbapp10.chm672003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Shapes Property (PowerPoint)
+# CustomLayout.Shapes property (PowerPoint)
 
 Returns a  **[Shapes](PowerPoint.Shapes.md)** collection representing all the layout elements included in the specified custom layout. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_. `Shapes`
 
 _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

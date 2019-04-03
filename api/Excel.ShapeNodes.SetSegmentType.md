@@ -21,7 +21,7 @@ Sets the segment type of the segment that follows the node specified by  _Index_
 
 _expression_. `SetSegmentType`( `_Index_` , `_SegmentType_` )
 
-_expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
 
 
 ## Parameters
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) ob
 
 ## Example
 
-This example changes all straight segments to curved segments in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all straight segments to curved segments in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

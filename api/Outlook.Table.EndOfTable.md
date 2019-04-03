@@ -1,5 +1,5 @@
 ---
-title: Table.EndOfTable Property (Outlook)
+title: Table.EndOfTable property (Outlook)
 keywords: vbaol11.chm2237
 f1_keywords:
 - vbaol11.chm2237
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.EndOfTable Property (Outlook)
+# Table.EndOfTable property (Outlook)
 
 Returns a  **Boolean** that indicates whether the current row is positioned after the last row in the **[Table](Outlook.Table.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that indicates whether the current row is positioned afte
 
 _expression_. `EndOfTable`
 
-_expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 
 ## Remarks

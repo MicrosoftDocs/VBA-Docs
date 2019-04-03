@@ -1,5 +1,5 @@
 ---
-title: JournalModule.NavigationGroups Property (Outlook)
+title: JournalModule.NavigationGroups property (Outlook)
 keywords: vbaol11.chm2870
 f1_keywords:
 - vbaol11.chm2870
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalModule.NavigationGroups Property (Outlook)
+# JournalModule.NavigationGroups property (Outlook)
 
 Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[JournalModule](Outlook.JournalModule.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that conta
 
 _expression_. `NavigationGroups`
 
-_expression_ A variable that represents a [JournalModule](./Outlook.JournalModule.md) object.
+_expression_ A variable that represents a [JournalModule](Outlook.JournalModule.md) object.
 
 
 ## See also

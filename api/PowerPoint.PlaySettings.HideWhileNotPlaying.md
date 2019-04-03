@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.HideWhileNotPlaying Property (PowerPoint)
+title: PlaySettings.HideWhileNotPlaying property (PowerPoint)
 keywords: vbapp10.chm568004
 f1_keywords:
 - vbapp10.chm568004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PlaySettings.HideWhileNotPlaying Property (PowerPoint)
+# PlaySettings.HideWhileNotPlaying property (PowerPoint)
 
 Determines whether the specified media clip is hidden during a slide show except when it is playing. Read/write.
 
 
 ## Syntax
 
- _expression_. `HideWhileNotPlaying`
+_expression_. `HideWhileNotPlaying`
 
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 

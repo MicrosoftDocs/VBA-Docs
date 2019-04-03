@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Prefix`
 
-_expression_ A variable that represents a [XmlNamespace](./Excel.XmlNamespace.md) object.
+_expression_ A variable that represents a [XmlNamespace](Excel.XmlNamespace.md) object.
 
 
 ## See also

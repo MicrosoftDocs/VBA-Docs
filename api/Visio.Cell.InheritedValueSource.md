@@ -1,5 +1,5 @@
 ---
-title: Cell.InheritedValueSource Property (Visio)
+title: Cell.InheritedValueSource property (Visio)
 keywords: vis_sdr.chm10150685
 f1_keywords:
 - vis_sdr.chm10150685
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.InheritedValueSource Property (Visio)
+# Cell.InheritedValueSource property (Visio)
 
 Returns the cell from which this cell inherited its value. Read-only.
 
 
 ## Syntax
 
- _expression_. `InheritedValueSource`
+_expression_. `InheritedValueSource`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Field.Next Property (Publisher)
+title: Field.Next property (Publisher)
 keywords: vbapb10.chm6094854
 f1_keywords:
 - vbapb10.chm6094854
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Field.Next Property (Publisher)
+# Field.Next property (Publisher)
 
 Returns a  **[Field](Publisher.Field.md)** object that represents the next field in a text range.
 
 
 ## Syntax
 
- _expression_. **Next**
+ _expression_.**Next**
 
  _expression_ A variable that represents a  **Field** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Day.Index Property (Project)
+title: Day.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Day.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Day.Index Property (Project)
+# Day.Index property (Project)
 
 Gets the index of a  **Day** object in the containing **Days** collection. Read-only **Integer**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Day](./Project.Day.md) object.
 

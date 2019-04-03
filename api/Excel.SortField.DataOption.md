@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # SortField.DataOption property (Excel)
 
-Specifies how to sort text in the range specified in  **SortField** object. Read/write **[xlSortDataOption](Excel.XlSortDataOption.md)**.
+Specifies how to sort text in the range specified in  **SortField** object. Read/write **[XlSortDataOption](Excel.XlSortDataOption.md)**.
 
 
 ## Syntax
 
 _expression_. `DataOption`
 
-_expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
+_expression_ A variable that represents a [SortField](Excel.SortField.md) object.
 
 
 ## Remarks

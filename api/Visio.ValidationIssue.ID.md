@@ -1,5 +1,5 @@
 ---
-title: ValidationIssue.ID Property (Visio)
+title: ValidationIssue.ID property (Visio)
 keywords: vis_sdr.chm18613675
 f1_keywords:
 - vis_sdr.chm18613675
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssue.ID Property (Visio)
+# ValidationIssue.ID property (Visio)
 
 Gets the identifier of the  **[ValidationIssue](Visio.ValidationIssue.md)** object assigned by Microsoft Visio. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [ValidationIssue](./Visio.ValidationIssue.md) object.
 

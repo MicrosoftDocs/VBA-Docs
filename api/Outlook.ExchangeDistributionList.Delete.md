@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Delete Method (Outlook)
+title: ExchangeDistributionList.Delete method (Outlook)
 keywords: vbaol11.chm2120
 f1_keywords:
 - vbaol11.chm2120
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Delete Method (Outlook)
+# ExchangeDistributionList.Delete method (Outlook)
 
 Deletes the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object from the **[AddressEntries](Outlook.AddressEntries.md)** collection object to which it belongs.
 
@@ -21,7 +21,7 @@ Deletes the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**
 
 _expression_.**Delete**
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

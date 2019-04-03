@@ -1,5 +1,5 @@
 ---
-title: AccountSelector.Session Property (Outlook)
+title: AccountSelector.Session property (Outlook)
 keywords: vbaol11.chm3451
 f1_keywords:
 - vbaol11.chm3451
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountSelector.Session Property (Outlook)
+# AccountSelector.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.NumberOfCopies Property (PowerPoint)
+title: PrintOptions.NumberOfCopies property (PowerPoint)
 keywords: vbapp10.chm517006
 f1_keywords:
 - vbapp10.chm517006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.NumberOfCopies Property (PowerPoint)
+# PrintOptions.NumberOfCopies property (PowerPoint)
 
 Returns or sets the number of copies of a presentation to be printed. Read/write.
 
 
 ## Syntax
 
- _expression_. `NumberOfCopies`
+_expression_. `NumberOfCopies`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

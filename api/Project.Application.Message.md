@@ -1,5 +1,5 @@
 ---
-title: Application.Message Method (Project)
+title: Application.Message method (Project)
 keywords: vbapj.chm2
 f1_keywords:
 - vbapj.chm2
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Message Method (Project)
+# Application.Message method (Project)
 
 Displays a message in a message box.
 
 
 ## Syntax
 
- _expression_. `Message`( `_Message_`, `_Type_`, `_YesText_`, `_NoText_` )
+_expression_. `Message`( `_Message_`, `_Type_`, `_YesText_`, `_NoText_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

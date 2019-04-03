@@ -1,5 +1,5 @@
 ---
-title: Actions.Class Property (Outlook)
+title: Actions.Class property (Outlook)
 keywords: vbaol11.chm146
 f1_keywords:
 - vbaol11.chm146
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Actions.Class Property (Outlook)
+# Actions.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [Actions](./Outlook.Actions.md) object.
+_expression_ A variable that represents an [Actions](Outlook.Actions.md) object.
 
 
 ## See also

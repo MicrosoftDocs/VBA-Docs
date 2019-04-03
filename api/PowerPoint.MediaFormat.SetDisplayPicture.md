@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.SetDisplayPicture Method (PowerPoint)
+title: MediaFormat.SetDisplayPicture method (PowerPoint)
 keywords: vbapp10.chm724011
 f1_keywords:
 - vbapp10.chm724011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.SetDisplayPicture Method (PowerPoint)
+# MediaFormat.SetDisplayPicture method (PowerPoint)
 
 Sets the display picture at the specified time position.
 
 
 ## Syntax
 
- _expression_. `SetDisplayPicture`( `_Position_` )
+_expression_. `SetDisplayPicture`( `_Position_` )
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

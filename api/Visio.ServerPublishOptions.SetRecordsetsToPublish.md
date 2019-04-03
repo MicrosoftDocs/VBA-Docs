@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.SetRecordsetsToPublish Method (Visio)
+title: ServerPublishOptions.SetRecordsetsToPublish method (Visio)
 keywords: vis_sdr.chm17962385
 f1_keywords:
 - vis_sdr.chm17962385
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.SetRecordsetsToPublish Method (Visio)
+# ServerPublishOptions.SetRecordsetsToPublish method (Visio)
 
 Sets the data recordsets to be published to a server.
 
 
 ## Syntax
 
- _expression_. `SetRecordsetsToPublish`( `_PublishDataRecordsets_` , `_DataRecordsetIDs()_` )
+_expression_. `SetRecordsetsToPublish`( `_PublishDataRecordsets_` , `_DataRecordsetIDs()_` )
 
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 

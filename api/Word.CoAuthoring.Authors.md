@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Authors`
+_expression_. `Authors`
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 

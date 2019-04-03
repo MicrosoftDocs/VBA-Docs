@@ -1,5 +1,5 @@
 ---
-title: AccelTables.Count Property (Visio)
+title: AccelTables.Count property (Visio)
 keywords: vis_sdr.chm14813330
 f1_keywords:
 - vis_sdr.chm14813330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccelTables.Count Property (Visio)
+# AccelTables.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

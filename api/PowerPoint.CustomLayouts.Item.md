@@ -1,5 +1,5 @@
 ---
-title: CustomLayouts.Item Method (PowerPoint)
+title: CustomLayouts.Item method (PowerPoint)
 keywords: vbapp10.chm671003
 f1_keywords:
 - vbapp10.chm671003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayouts.Item Method (PowerPoint)
+# CustomLayouts.Item method (PowerPoint)
 
 Returns a single object from the specified collection.
 

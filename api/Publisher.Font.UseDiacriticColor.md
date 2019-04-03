@@ -1,5 +1,5 @@
 ---
-title: Font.UseDiacriticColor Property (Publisher)
+title: Font.UseDiacriticColor property (Publisher)
 keywords: vbapb10.chm5374002
 f1_keywords:
 - vbapb10.chm5374002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.UseDiacriticColor Property (Publisher)
+# Font.UseDiacriticColor property (Publisher)
 
 Returns or sets  **MsoTriState** constant indicating whether you can set the color of diacritics in the specified text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **UseDiacriticColor**
+ _expression_.**UseDiacriticColor**
 
  _expression_ A variable that represents an  **Font** object.
 

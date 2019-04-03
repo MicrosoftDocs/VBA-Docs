@@ -1,5 +1,5 @@
 ---
-title: CostRateTable Object (Project)
+title: CostRateTable object (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTable
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CostRateTable Object (Project)
+# CostRateTable object (Project)
 
 
  

@@ -1,5 +1,5 @@
 ---
-title: Characters.Begin Property (Visio)
+title: Characters.Begin property (Visio)
 keywords: vis_sdr.chm10213140
 f1_keywords:
 - vis_sdr.chm10213140
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.Begin Property (Visio)
+# Characters.Begin property (Visio)
 
 Gets or sets the beginning index of a  **Characters** object, which represents a range of text in a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `Begin`
+_expression_. `Begin`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

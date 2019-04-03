@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.OnLocalMachine Property (Outlook)
+title: RuleConditions.OnLocalMachine property (Outlook)
 keywords: vbaol11.chm2322
 f1_keywords:
 - vbaol11.chm2322
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.OnLocalMachine Property (Outlook)
+# RuleConditions.OnLocalMachine property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionLocalMachineOnly**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCo
 
 _expression_. `OnLocalMachine`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

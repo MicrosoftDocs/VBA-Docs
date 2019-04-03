@@ -1,5 +1,5 @@
 ---
-title: TimeZone.Class Property (Outlook)
+title: TimeZone.Class property (Outlook)
 keywords: vbaol11.chm3279
 f1_keywords:
 - vbaol11.chm3279
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TimeZone.Class Property (Outlook)
+# TimeZone.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that represents the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that represen
 
  _expression_.**Class**
 
-_expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object.
 
 
 ## See also

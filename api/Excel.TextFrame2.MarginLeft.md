@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between the left edge of the text frame
 
 _expression_. `MarginLeft`
 
-_expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+_expression_ A variable that represents a [TextFrame2](Excel.TextFrame2.md) object.
 
 
 ## See also

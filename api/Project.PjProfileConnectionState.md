@@ -1,5 +1,5 @@
 ---
-title: PjProfileConnectionState Enumeration (Project)
+title: PjProfileConnectionState enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjProfileConnectionState
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjProfileConnectionState Enumeration (Project)
+# PjProfileConnectionState enumeration (Project)
 
 Contains constants that specify the connection state.
 

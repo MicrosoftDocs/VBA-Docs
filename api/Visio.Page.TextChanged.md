@@ -1,5 +1,5 @@
 ---
-title: Page.TextChanged Event (Visio)
+title: Page.TextChanged event (Visio)
 keywords: vis_sdr.chm10919255
 f1_keywords:
 - vis_sdr.chm10919255
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.TextChanged Event (Visio)
+# Page.TextChanged event (Visio)
 
 Occurs after the text of a shape is changed in a document.
 

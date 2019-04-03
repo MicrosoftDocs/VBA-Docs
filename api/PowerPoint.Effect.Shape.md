@@ -1,5 +1,5 @@
 ---
-title: Effect.Shape Property (PowerPoint)
+title: Effect.Shape property (PowerPoint)
 keywords: vbapp10.chm652003
 f1_keywords:
 - vbapp10.chm652003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Effect.Shape Property (PowerPoint)
+# Effect.Shape property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents an animated shape.
 
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
 _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 

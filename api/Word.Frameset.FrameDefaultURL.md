@@ -19,7 +19,7 @@ Returns or sets the Web page or other document to be displayed in the specified 
 
 ## Syntax
 
- _expression_. `FrameDefaultURL`
+_expression_. `FrameDefaultURL`
 
  _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Build Property (PowerPoint)
+title: Application.Build property (PowerPoint)
 keywords: vbapp10.chm502014
 f1_keywords:
 - vbapp10.chm502014
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Build Property (PowerPoint)
+# Application.Build property (PowerPoint)
 
 Returns the build number for the current instance of Microsoft PowerPoint. Read-only.
 
 
 ## Syntax
 
- _expression_. `Build`
+_expression_. `Build`
 
 _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 

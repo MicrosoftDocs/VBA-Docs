@@ -1,5 +1,5 @@
 ---
-title: PbTableAutoFormatType Enumeration (Publisher)
+title: PbTableAutoFormatType enumeration (Publisher)
 keywords: vbapb10.chm65578
 f1_keywords:
 - vbapb10.chm65578
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbTableAutoFormatType Enumeration (Publisher)
+# PbTableAutoFormatType enumeration (Publisher)
 
 The type of automatic formatting to apply to the specified table.
 

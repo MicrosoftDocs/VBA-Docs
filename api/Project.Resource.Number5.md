@@ -1,5 +1,5 @@
 ---
-title: Resource.Number5 Property (Project)
+title: Resource.Number5 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Number5
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Number5 Property (Project)
+# Resource.Number5 property (Project)
 
 Gets or sets a Number local custom field for a resource. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `Number5`
+_expression_. `Number5`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

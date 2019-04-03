@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.Stat Property (Visio)
+title: KeyboardEvent.Stat property (Visio)
 keywords: vis_sdr.chm17014420
 f1_keywords:
 - vis_sdr.chm17014420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent.Stat Property (Visio)
+# KeyboardEvent.Stat property (Visio)
 
 Returns status information. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
 

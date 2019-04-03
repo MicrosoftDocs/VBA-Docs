@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Forward Method (Outlook)
+title: MeetingItem.Forward method (Outlook)
 keywords: vbaol11.chm1454
 f1_keywords:
 - vbaol11.chm1454
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Forward Method (Outlook)
+# MeetingItem.Forward method (Outlook)
 
 Executes the  **Forward** action for an item and returns the resulting copy as a **[MeetingItem](Outlook.MeetingItem.md)** object.
 
@@ -21,7 +21,7 @@ Executes the  **Forward** action for an item and returns the resulting copy as a
 
 _expression_. `Forward`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Return value

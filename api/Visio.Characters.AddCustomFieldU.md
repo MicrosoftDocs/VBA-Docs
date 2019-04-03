@@ -1,5 +1,5 @@
 ---
-title: Characters.AddCustomFieldU Method (Visio)
+title: Characters.AddCustomFieldU method (Visio)
 keywords: vis_sdr.chm10251925
 f1_keywords:
 - vis_sdr.chm10251925
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.AddCustomFieldU Method (Visio)
+# Characters.AddCustomFieldU method (Visio)
 
 Replaces the text represented by a  **Characters** object with a custom formula field that uses universal syntax.
 
 
 ## Syntax
 
- _expression_. `AddCustomFieldU`( `_Formula_` , `_Format_` )
+_expression_. `AddCustomFieldU`( `_Formula_` , `_Format_` )
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.RowClear Method (Project)
+title: Application.RowClear method (Project)
 keywords: vbapj.chm239
 f1_keywords:
 - vbapj.chm239
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.RowClear Method (Project)
+# Application.RowClear method (Project)
 
 Clears the active row.
 
 
 ## Syntax
 
- _expression_. `RowClear`
+_expression_. `RowClear`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -14,7 +14,7 @@ Returns a  **Long** that specifies the width, in points, of the client region in
 
 ## Syntax
 
-_expression_. **InsideWidth**
+_expression_.**InsideWidth**
 
 _expression_ A variable that represents a  **Page** object.
 

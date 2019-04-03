@@ -1,5 +1,5 @@
 ---
-title: Document.ViewBoundaries Property (Publisher)
+title: Document.ViewBoundaries property (Publisher)
 keywords: vbapb10.chm196760
 f1_keywords:
 - vbapb10.chm196760
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ViewBoundaries Property (Publisher)
+# Document.ViewBoundaries property (Publisher)
 
 Returns  **True** if object boundaries are visible in the specified publication. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **ViewBoundaries**
+ _expression_.**ViewBoundaries**
 
  _expression_ A variable that represents a  **Document** object.
 

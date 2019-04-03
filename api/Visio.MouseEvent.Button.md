@@ -1,5 +1,5 @@
 ---
-title: MouseEvent.Button Property (Visio)
+title: MouseEvent.Button property (Visio)
 keywords: vis_sdr.chm17151905
 f1_keywords:
 - vis_sdr.chm17151905
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MouseEvent.Button Property (Visio)
+# MouseEvent.Button property (Visio)
 
 Returns the mouse button that was clicked to fire a  **MouseDown** or **MouseUp** event. Read-only.
 
 
 ## Syntax
 
- _expression_. `Button`
+_expression_. `Button`
 
  _expression_ An expression that returns a [MouseEvent](./Visio.MouseEvent.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.ActivePane Property (Project)
+title: Window.ActivePane property (Project)
 keywords: vbapj.chm131376
 f1_keywords:
 - vbapj.chm131376
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.ActivePane Property (Project)
+# Window.ActivePane property (Project)
 
 Gets a  **[Pane](Project.Pane.md)** object that represents the active pane of a window. Read-only **Pane**.
 
 
 ## Syntax
 
- _expression_. `ActivePane`
+_expression_. `ActivePane`
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

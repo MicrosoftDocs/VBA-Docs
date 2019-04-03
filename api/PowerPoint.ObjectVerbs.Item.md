@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs.Item Method (PowerPoint)
+title: ObjectVerbs.Item method (PowerPoint)
 keywords: vbapp10.chm564003
 f1_keywords:
 - vbapp10.chm564003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ObjectVerbs.Item Method (PowerPoint)
+# ObjectVerbs.Item method (PowerPoint)
 
 Returns a single object from the specified  **ObjectVerbs** collection.
 

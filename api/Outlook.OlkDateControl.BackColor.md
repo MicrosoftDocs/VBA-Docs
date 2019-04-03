@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.BackColor Property (Outlook)
+title: OlkDateControl.BackColor property (Outlook)
 keywords: vbaol11.chm1000343
 f1_keywords:
 - vbaol11.chm1000343
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.BackColor Property (Outlook)
+# OlkDateControl.BackColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the background color of the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that indicates the background color of the control. 
 
 _expression_.**BackColor**
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Remarks

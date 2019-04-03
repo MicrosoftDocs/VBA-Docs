@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.Class Property (Outlook)
+title: RuleConditions.Class property (Outlook)
 keywords: vbaol11.chm2297
 f1_keywords:
 - vbaol11.chm2297
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.Class Property (Outlook)
+# RuleConditions.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## See also

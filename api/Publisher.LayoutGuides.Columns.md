@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.Columns Property (Publisher)
+title: LayoutGuides.Columns property (Publisher)
 keywords: vbapb10.chm1114114
 f1_keywords:
 - vbapb10.chm1114114
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LayoutGuides.Columns Property (Publisher)
+# LayoutGuides.Columns property (Publisher)
 
 Returns or sets a  **Long** that represents the number of guide columns on a page or the number of columns in a text frame. Read/write.
 
 
 ## Syntax
 
- _expression_. **Columns**
+ _expression_.**Columns**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

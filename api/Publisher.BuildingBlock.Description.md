@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Description Property (Publisher)
+title: BuildingBlock.Description property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock.Description
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlock.Description Property (Publisher)
+# BuildingBlock.Description property (Publisher)
 
 Gets or sets a string that represents the description of the building block. Read/write.
 
 
 ## Syntax
 
- _expression_. **Description**
+ _expression_.**Description**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Assignments.Add Method (Project)
+title: Assignments.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignments.Add
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignments.Add Method (Project)
+# Assignments.Add method (Project)
 
 Adds an  **Assignment** object to an **Assignments** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_TaskID_`, `_ResourceID_`, `_Units_` )
+ _expression_.**Add**( `_TaskID_`, `_ResourceID_`, `_Units_` )
 
  _expression_ A variable that represents an 'Assignments' object.
 

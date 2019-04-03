@@ -1,5 +1,5 @@
 ---
-title: Application.LinesToPoints Method (Publisher)
+title: Application.LinesToPoints method (Publisher)
 keywords: vbapb10.chm131144
 f1_keywords:
 - vbapb10.chm131144
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LinesToPoints Method (Publisher)
+# Application.LinesToPoints method (Publisher)
 
 Converts a measurement from lines to points (1 line = 12 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **LinesToPoints**(**_Value_**)
+ _expression_.**LinesToPoints**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 

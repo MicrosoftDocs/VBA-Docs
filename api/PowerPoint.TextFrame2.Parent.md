@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Parent Property (PowerPoint)
+title: TextFrame2.Parent property (PowerPoint)
 keywords: vbapp10.chm678001
 f1_keywords:
 - vbapp10.chm678001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.Parent Property (PowerPoint)
+# TextFrame2.Parent property (PowerPoint)
 
 Returns the parent object of the specified test frame. Read-only.
 

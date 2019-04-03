@@ -1,5 +1,5 @@
 ---
-title: Shift.Index Property (Project)
+title: Shift.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Shift.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Shift.Index Property (Project)
+# Shift.Index property (Project)
 
 Gets the index of a  **Shift** object in the containing object. Read-only **Integer**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 

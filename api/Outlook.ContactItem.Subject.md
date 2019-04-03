@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Subject Property (Outlook)
+title: ContactItem.Subject property (Outlook)
 keywords: vbaol11.chm953
 f1_keywords:
 - vbaol11.chm953
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Subject Property (Outlook)
+# ContactItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
 _expression_. `Subject`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

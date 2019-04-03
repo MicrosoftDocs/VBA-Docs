@@ -1,5 +1,5 @@
 ---
-title: TableView.Delete Method (Outlook)
+title: TableView.Delete method (Outlook)
 keywords: vbaol11.chm2505
 f1_keywords:
 - vbaol11.chm2505
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TableView.Delete Method (Outlook)
+# TableView.Delete method (Outlook)
 
 Deletes an object from a collection.
 
@@ -21,7 +21,7 @@ Deletes an object from a collection.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## See also

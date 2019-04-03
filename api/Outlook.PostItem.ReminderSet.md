@@ -1,5 +1,5 @@
 ---
-title: PostItem.ReminderSet Property (Outlook)
+title: PostItem.ReminderSet property (Outlook)
 keywords: vbaol11.chm1578
 f1_keywords:
 - vbaol11.chm1578
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.ReminderSet Property (Outlook)
+# PostItem.ReminderSet property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if a reminder has been set for this item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if a reminder has been set
 
 _expression_. `ReminderSet`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

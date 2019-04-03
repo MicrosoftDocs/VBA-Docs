@@ -1,5 +1,5 @@
 ---
-title: VisWindowFit Enumeration (Visio)
+title: VisWindowFit enumeration (Visio)
 keywords: vis_sdr.chm70260
 f1_keywords:
 - vis_sdr.chm70260
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisWindowFit Enumeration (Visio)
+# VisWindowFit enumeration (Visio)
 
 Values returned by the  **Window.ViewFit** property.
 

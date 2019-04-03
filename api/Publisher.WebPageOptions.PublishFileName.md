@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.PublishFileName Property (Publisher)
+title: WebPageOptions.PublishFileName property (Publisher)
 keywords: vbapb10.chm544784
 f1_keywords:
 - vbapb10.chm544784
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebPageOptions.PublishFileName Property (Publisher)
+# WebPageOptions.PublishFileName property (Publisher)
 
 Returns or sets a  **String** that represents the file name of a Web page (within a Web publication) that is being saved as filtered HTML.
 
 
 ## Syntax
 
- _expression_. **PublishFileName**
+ _expression_.**PublishFileName**
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 

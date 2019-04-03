@@ -1,5 +1,5 @@
 ---
-title: MailModule.Session Property (Outlook)
+title: MailModule.Session property (Outlook)
 keywords: vbaol11.chm2814
 f1_keywords:
 - vbaol11.chm2814
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailModule.Session Property (Outlook)
+# MailModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [MailModule](./Outlook.MailModule.md) object.
+_expression_ A variable that represents a [MailModule](Outlook.MailModule.md) object.
 
 
 ## Remarks

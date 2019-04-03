@@ -1,5 +1,5 @@
 ---
-title: Application.ActivePrinter Property (Visio)
+title: Application.ActivePrinter property (Visio)
 keywords: vis_sdr.chm10050500
 f1_keywords:
 - vis_sdr.chm10050500
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ActivePrinter Property (Visio)
+# Application.ActivePrinter property (Visio)
 
 Specifies the printer that all Microsoft Visio documents print to. Read/write.
 
 
 ## Syntax
 
- _expression_. `ActivePrinter`
+_expression_. `ActivePrinter`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

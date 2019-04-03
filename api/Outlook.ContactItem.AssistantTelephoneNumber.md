@@ -1,5 +1,5 @@
 ---
-title: ContactItem.AssistantTelephoneNumber Property (Outlook)
+title: ContactItem.AssistantTelephoneNumber property (Outlook)
 keywords: vbaol11.chm967
 f1_keywords:
 - vbaol11.chm967
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.AssistantTelephoneNumber Property (Outlook)
+# ContactItem.AssistantTelephoneNumber property (Outlook)
 
 Returns or sets a  **String** representing the telephone number of the person who is the assistant for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the telephone number of the person wh
 
 _expression_. `AssistantTelephoneNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

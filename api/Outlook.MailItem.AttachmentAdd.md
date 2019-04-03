@@ -1,5 +1,5 @@
 ---
-title: MailItem.AttachmentAdd Event (Outlook)
+title: MailItem.AttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.AttachmentAdd
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.AttachmentAdd Event (Outlook)
+# MailItem.AttachmentAdd event (Outlook)
 
 Occurs when an attachment has been added to an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 _expression_. `AttachmentAdd`( `_Attachment_` )
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.ChangeColumnDataType Method (Project)
+title: Application.ChangeColumnDataType method (Project)
 keywords: vbapj.chm711
 f1_keywords:
 - vbapj.chm711
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ChangeColumnDataType Method (Project)
+# Application.ChangeColumnDataType method (Project)
 
 Changes the data type of a local custom field column in a table.
 
 
 ## Syntax
 
- _expression_. `ChangeColumnDataType`( `_Type_`, `_Column_` )
+_expression_. `ChangeColumnDataType`( `_Type_`, `_Column_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

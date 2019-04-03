@@ -1,5 +1,5 @@
 ---
-title: Columns.Add Method (PowerPoint)
+title: Columns.Add method (PowerPoint)
 keywords: vbapp10.chm623004
 f1_keywords:
 - vbapp10.chm623004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Columns.Add Method (PowerPoint)
+# Columns.Add method (PowerPoint)
 
 Adds a new column to an existing table. Returns a  **[Column](PowerPoint.Column.md)** object that represents the new table column.
 
 
 ## Syntax
 
- _expression_. `Add`( `_BeforeColumn_` )
+ _expression_.**Add**( `_BeforeColumn_` )
 
 _expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
 

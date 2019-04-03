@@ -19,7 +19,7 @@ Saves the specified template.
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
  _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 

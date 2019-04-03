@@ -1,5 +1,5 @@
 ---
-title: Application.WebToolbar Method (Project)
+title: Application.WebToolbar method (Project)
 keywords: vbapj.chm1321
 f1_keywords:
 - vbapj.chm1321
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WebToolbar Method (Project)
+# Application.WebToolbar method (Project)
 
 Shows or hides the Web toolbar. Obsolete in Project.
 
 
 ## Syntax
 
- _expression_. `WebToolbar`( `_Show_` )
+_expression_. `WebToolbar`( `_Show_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

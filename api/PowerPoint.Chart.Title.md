@@ -1,5 +1,5 @@
 ---
-title: Chart.Title Property (PowerPoint)
+title: Chart.Title property (PowerPoint)
 keywords: vbapp10.chm684055
 f1_keywords:
 - vbapp10.chm684055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Title Property (PowerPoint)
+# Chart.Title property (PowerPoint)
 
 Gets or sets a  **String** that represents the title of the chart. Read/write.
 

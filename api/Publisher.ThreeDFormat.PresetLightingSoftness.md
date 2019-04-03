@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingSoftness Property (Publisher)
+title: ThreeDFormat.PresetLightingSoftness property (Publisher)
 keywords: vbapb10.chm3801350
 f1_keywords:
 - vbapb10.chm3801350
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetLightingSoftness Property (Publisher)
+# ThreeDFormat.PresetLightingSoftness property (Publisher)
 
 Returns or sets a  **MsoPresetLightingSoftness** constant that represents the intensity of the extrusion lighting. Read/write.
 
 
 ## Syntax
 
- _expression_. **PresetLightingSoftness**
+ _expression_.**PresetLightingSoftness**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -31,7 +31,7 @@ MsoPresetLightingSoftness
 
 ## Remarks
 
-The  **PresetLightingSoftness** property value can be one of the ** [MsoPresetLightingSoftness](Office.MsoPresetLightingSoftness.md)** constants declared in the Microsoft Office type library.
+The  **PresetLightingSoftness** property value can be one of the **[MsoPresetLightingSoftness](Office.MsoPresetLightingSoftness.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

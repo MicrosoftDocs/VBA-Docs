@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.TextToDisplay Property (Publisher)
+title: Hyperlink.TextToDisplay property (Publisher)
 keywords: vbapb10.chm4587536
 f1_keywords:
 - vbapb10.chm4587536
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.TextToDisplay Property (Publisher)
+# Hyperlink.TextToDisplay property (Publisher)
 
 Returns or sets a  **String** that represents the text displayed for a hyperlink. Read/write.
 
 
 ## Syntax
 
- _expression_. **TextToDisplay**
+ _expression_.**TextToDisplay**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

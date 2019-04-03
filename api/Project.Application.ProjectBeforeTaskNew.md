@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectBeforeTaskNew Event (Project)
+title: Application.ProjectBeforeTaskNew event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeTaskNew
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeTaskNew Event (Project)
+# Application.ProjectBeforeTaskNew event (Project)
 
 Occurs before one or more tasks are created.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeTaskNew`( `_pj_`, `_Cancel_` )
+_expression_. `ProjectBeforeTaskNew`( `_pj_`, `_Cancel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

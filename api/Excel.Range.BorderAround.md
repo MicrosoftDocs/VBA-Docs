@@ -30,11 +30,11 @@ _expression_ A variable that represents a '[Range](Excel.Range(object).md)' obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _LineStyle_|Optional| **Variant**|One of the constants of  **[xlLineStyle](Excel.XlLineStyle.md)** specifying the line style for the border.|
-| _Weight_|Optional| **[xlBorderWeight](Excel.XlBorderWeight.md)**|The border weight.|
-| _ColorIndex_|Optional| **[xlColorIndex](Excel.XlColorIndex.md)**|The border color, as an index into the current color palette or as an  **xlColorIndex** constant.|
+| _LineStyle_|Optional| **Variant**|One of the constants of  **[XlLineStyle](Excel.XlLineStyle.md)** specifying the line style for the border.|
+| _Weight_|Optional| **[XlBorderWeight](Excel.XlBorderWeight.md)**|The border weight.|
+| _ColorIndex_|Optional| **[XlColorIndex](Excel.XlColorIndex.md)**|The border color, as an index into the current color palette or as an  **xlColorIndex** constant.|
 | _Color_|Optional| **Variant**|The border color, as an RGB value.|
-| _ThemeColor_|Optional| **Variant**|The theme color, as an index into the current color theme or as an  **[xlThemeColor](Excel.XlThemeColor.md)** value.|
+| _ThemeColor_|Optional| **Variant**|The theme color, as an index into the current color theme or as an  **[XlThemeColor](Excel.XlThemeColor.md)** value.|
 
 ## Return value
 

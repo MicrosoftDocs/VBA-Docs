@@ -1,5 +1,5 @@
 ---
-title: Axis.Left Property (PowerPoint)
+title: Axis.Left property (PowerPoint)
 keywords: vbapp10.chm682038
 f1_keywords:
 - vbapp10.chm682038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis.Left Property (PowerPoint)
+# Axis.Left property (PowerPoint)
 
 Returns the distance, in points, from the left edge of the object to the left edge of the chart area. Read-only  **Double**.
 

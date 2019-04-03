@@ -1,5 +1,5 @@
 ---
-title: PublishObject.SlideShowName Property (PowerPoint)
+title: PublishObject.SlideShowName property (PowerPoint)
 keywords: vbapp10.chm635007
 f1_keywords:
 - vbapp10.chm635007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PublishObject.SlideShowName Property (PowerPoint)
+# PublishObject.SlideShowName property (PowerPoint)
 
 Returns or sets the name of the custom slide show to be published as a Web presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `SlideShowName`
+_expression_. `SlideShowName`
 
  _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 

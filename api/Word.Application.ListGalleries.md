@@ -19,7 +19,7 @@ Returns a  **[ListGalleries](Word.listgalleries.md)** collection that represents
 
 ## Syntax
 
- _expression_. `ListGalleries`
+_expression_. `ListGalleries`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

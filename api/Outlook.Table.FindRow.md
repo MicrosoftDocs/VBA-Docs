@@ -1,5 +1,5 @@
 ---
-title: Table.FindRow Method (Outlook)
+title: Table.FindRow method (Outlook)
 keywords: vbaol11.chm2228
 f1_keywords:
 - vbaol11.chm2228
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.FindRow Method (Outlook)
+# Table.FindRow method (Outlook)
 
 Finds the first row in the  **[Table](Outlook.Table.md)** that meets the criteria specified in _Filter_ .
 
@@ -21,7 +21,7 @@ Finds the first row in the  **[Table](Outlook.Table.md)** that meets the criteri
 
 _expression_. `FindRow`( `_Filter_` )
 
-_expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 
 ## Parameters

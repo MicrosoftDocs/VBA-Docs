@@ -1,5 +1,5 @@
 ---
-title: Task.ScheduledDuration Property (Project)
+title: Task.ScheduledDuration property (Project)
 keywords: vbapj.chm132554
 f1_keywords:
 - vbapj.chm132554
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.ScheduledDuration Property (Project)
+# Task.ScheduledDuration property (Project)
 
 Gets the scheduled (as opposed to actual) duration of a task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ScheduledDuration`
+_expression_. `ScheduledDuration`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

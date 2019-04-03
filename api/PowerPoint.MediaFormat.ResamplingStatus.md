@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.ResamplingStatus Property (PowerPoint)
+title: MediaFormat.ResamplingStatus property (PowerPoint)
 keywords: vbapp10.chm724015
 f1_keywords:
 - vbapp10.chm724015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.ResamplingStatus Property (PowerPoint)
+# MediaFormat.ResamplingStatus property (PowerPoint)
 
 Returns the resampling task status. Read-only.
 
 
 ## Syntax
 
- _expression_. `ResamplingStatus`
+_expression_. `ResamplingStatus`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

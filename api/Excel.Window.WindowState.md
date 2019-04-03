@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Window.WindowState property (Excel)
 
-Returns or sets the state of the window. Read/write  **[xlWindowState](Excel.XlWindowState.md)**.
+Returns or sets the state of the window. Read/write  **[XlWindowState](Excel.XlWindowState.md)**.
 
 
 ## Syntax
 
 _expression_. `WindowState`
 
-_expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example

@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # XMLNode.Level property (Word)
 
-Returns a  **[WdXMLNodeLevel](./overview/Word.md)** constant that represents whether an XML element is part of a paragraph, is a paragraph, or is contained within a table cell or contains a table row. Read-only.
+Returns a  **[WdXMLNodeLevel](overview/Word.md)** constant that represents whether an XML element is part of a paragraph, is a paragraph, or is contained within a table cell or contains a table row. Read-only.
 
 
 ## Syntax
 
- _expression_. `Level`
+_expression_. `Level`
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

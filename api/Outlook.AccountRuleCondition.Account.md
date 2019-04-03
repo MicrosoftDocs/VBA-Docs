@@ -1,5 +1,5 @@
 ---
-title: AccountRuleCondition.Account Property (Outlook)
+title: AccountRuleCondition.Account property (Outlook)
 keywords: vbaol11.chm2383
 f1_keywords:
 - vbaol11.chm2383
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AccountRuleCondition.Account Property (Outlook)
+# AccountRuleCondition.Account property (Outlook)
 
 Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account used to evaluate the rule condition. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
 _expression_. `Account`
 
-_expression_ A variable that represents an [AccountRuleCondition](./Outlook.AccountRuleCondition.md) object.
+_expression_ A variable that represents an [AccountRuleCondition](Outlook.AccountRuleCondition.md) object.
 
 
 ## Remarks

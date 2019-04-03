@@ -1,5 +1,5 @@
 ---
-title: TaskItem.OutlookVersion Property (Outlook)
+title: TaskItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1705
 f1_keywords:
 - vbaol11.chm1705
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.OutlookVersion Property (Outlook)
+# TaskItem.OutlookVersion property (Outlook)
 
 Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 
 _expression_. `OutlookVersion`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also

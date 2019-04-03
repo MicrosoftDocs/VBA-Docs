@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline5Cost Property (Project)
+title: Task.Baseline5Cost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Baseline5Cost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Baseline5Cost Property (Project)
+# Task.Baseline5Cost property (Project)
 
 Gets or sets the baseline cost for a  **Task**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Baseline5Cost`
+_expression_. `Baseline5Cost`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

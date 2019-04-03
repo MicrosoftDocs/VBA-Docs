@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.Text Property (Outlook)
+title: OlkDateControl.Text property (Outlook)
 keywords: vbaol11.chm1000356
 f1_keywords:
 - vbaol11.chm1000356
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.Text Property (Outlook)
+# OlkDateControl.Text property (Outlook)
 
 Returns or sets a  **String** that is the text displayed in the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** that is the text displayed in the control. Read/wr
 
 _expression_.**Text**
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Remarks

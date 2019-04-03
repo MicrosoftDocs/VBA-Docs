@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Item Method (Outlook)
+title: Conflicts.Item method (Outlook)
 keywords: vbaol11.chm405
 f1_keywords:
 - vbaol11.chm405
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflicts.Item Method (Outlook)
+# Conflicts.Item method (Outlook)
 
 Returns an  **[Conflict](Outlook.Conflict.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns an  **[Conflict](Outlook.Conflict.md)** object from the collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
+_expression_ A variable that represents a [Conflicts](Outlook.Conflicts.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.BillingInformation Property (Outlook)
+title: TaskRequestAcceptItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1776
 f1_keywords:
 - vbaol11.chm1776
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.BillingInformation Property (Outlook)
+# TaskRequestAcceptItem.BillingInformation property (Outlook)
 
 Returns or sets a  **String** representing the billing information associated with the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the billing information associated wi
 
 _expression_. `BillingInformation`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

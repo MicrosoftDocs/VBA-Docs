@@ -1,5 +1,5 @@
 ---
-title: TextRange.Characters Method (Publisher)
+title: TextRange.Characters method (Publisher)
 keywords: vbapb10.chm5308425
 f1_keywords:
 - vbapb10.chm5308425
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Characters Method (Publisher)
+# TextRange.Characters method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the specified subset of text characters.
 
 
 ## Syntax
 
- _expression_. **Characters**(**_Start_**,  **_Length_**)
+ _expression_.**Characters**(**_Start_**,  **_Length_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

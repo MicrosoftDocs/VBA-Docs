@@ -1,5 +1,5 @@
 ---
-title: Project.Resources Property (Project)
+title: Project.Resources property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Resources
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.Resources Property (Project)
+# Project.Resources property (Project)
 
 Gets a  **[Resources](Project.resources(object).md)** collection representing the resources in a **Project**. Read-only **Object**.
 
 
 ## Syntax
 
- _expression_. `Resources`
+_expression_. `Resources`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.GetAllRefreshConflicts Method (Visio)
+title: DataRecordset.GetAllRefreshConflicts method (Visio)
 keywords: vis_sdr.chm16460350
 f1_keywords:
 - vis_sdr.chm16460350
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.GetAllRefreshConflicts Method (Visio)
+# DataRecordset.GetAllRefreshConflicts method (Visio)
 
 Returns an array that contains shapes linked to data rows that have non-resolved conflicts after a data recordset is refreshed. .
 
@@ -22,7 +22,7 @@ Returns an array that contains shapes linked to data rows that have non-resolved
 
 ## Syntax
 
- _expression_. `GetAllRefreshConflicts`
+_expression_. `GetAllRefreshConflicts`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

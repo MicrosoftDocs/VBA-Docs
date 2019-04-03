@@ -1,5 +1,5 @@
 ---
-title: WizardValue.Name Property (Publisher)
+title: WizardValue.Name property (Publisher)
 keywords: vbapb10.chm2097152
 f1_keywords:
 - vbapb10.chm2097152
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WizardValue.Name Property (Publisher)
+# WizardValue.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_.**Name**
 
  _expression_ A variable that represents a  **WizardValue** object.
 

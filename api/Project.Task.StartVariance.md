@@ -1,5 +1,5 @@
 ---
-title: Task.StartVariance Property (Project)
+title: Task.StartVariance property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.StartVariance
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.StartVariance Property (Project)
+# Task.StartVariance property (Project)
 
 Gets the variance (in minutes) between the baseline start date and the start date of the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `StartVariance`
+_expression_. `StartVariance`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

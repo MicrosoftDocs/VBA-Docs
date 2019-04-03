@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Count Property (Publisher)
+title: GroupShapes.Count property (Publisher)
 keywords: vbapb10.chm3342339
 f1_keywords:
 - vbapb10.chm3342339
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# GroupShapes.Count Property (Publisher)
+# GroupShapes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **GroupShapes** object.
 

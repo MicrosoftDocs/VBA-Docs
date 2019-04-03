@@ -16,9 +16,9 @@ Gets the index of the specified page in the collection of pages in the drawing t
 
 ## Syntax
 
- _expression_. **PageIDToIndex**(**_PageID_**)
+ _expression_.**PageIDToIndex**(**_PageID_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

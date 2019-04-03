@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.AllDayEvent Property (Outlook)
+title: AppointmentItem.AllDayEvent property (Outlook)
 keywords: vbaol11.chm876
 f1_keywords:
 - vbaol11.chm876
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.AllDayEvent Property (Outlook)
+# AppointmentItem.AllDayEvent property (Outlook)
 
 Returns  **True** if the appointment is an all-day event (as opposed to a specified time). Read/write.
 
@@ -21,7 +21,7 @@ Returns  **True** if the appointment is an all-day event (as opposed to a specif
 
 _expression_. `AllDayEvent`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

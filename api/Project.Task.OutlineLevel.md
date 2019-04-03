@@ -1,5 +1,5 @@
 ---
-title: Task.OutlineLevel Property (Project)
+title: Task.OutlineLevel property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.OutlineLevel
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.OutlineLevel Property (Project)
+# Task.OutlineLevel property (Project)
 
 Gets the level of the task in the outline hierarchy. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `OutlineLevel`
+_expression_. `OutlineLevel`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

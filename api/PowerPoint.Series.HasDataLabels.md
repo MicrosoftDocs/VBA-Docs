@@ -1,5 +1,5 @@
 ---
-title: Series.HasDataLabels Property (PowerPoint)
+title: Series.HasDataLabels property (PowerPoint)
 keywords: vbapp10.chm65614
 f1_keywords:
 - vbapp10.chm65614
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.HasDataLabels Property (PowerPoint)
+# Series.HasDataLabels property (PowerPoint)
 
  **True** if the series has data labels. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasDataLabels`
+_expression_. `HasDataLabels`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether to hide the right border 
 
 ## Syntax
 
- _expression_. `HideRight`
+_expression_. `HideRight`
 
  _expression_ An expression that returns an '[OMathBorderBox](Word.OMathBorderBox.md)' object.
 

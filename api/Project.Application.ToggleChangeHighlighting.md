@@ -1,5 +1,5 @@
 ---
-title: Application.ToggleChangeHighlighting Method (Project)
+title: Application.ToggleChangeHighlighting method (Project)
 keywords: vbapj.chm2136
 f1_keywords:
 - vbapj.chm2136
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ToggleChangeHighlighting Method (Project)
+# Application.ToggleChangeHighlighting method (Project)
 
 Toggles calculation  **Change Highlighting** on or off.
 
 
 ## Syntax
 
- _expression_. `ToggleChangeHighlighting`
+_expression_. `ToggleChangeHighlighting`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Subproject Object (Project)
+title: Subproject object (Project)
 ms.prod: project-server
 api_name:
 - Project.Subproject
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Subproject Object (Project)
+# Subproject object (Project)
 
 
 

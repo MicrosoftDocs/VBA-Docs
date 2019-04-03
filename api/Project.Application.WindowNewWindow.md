@@ -1,5 +1,5 @@
 ---
-title: Application.WindowNewWindow Method (Project)
+title: Application.WindowNewWindow method (Project)
 keywords: vbapj.chm701
 f1_keywords:
 - vbapj.chm701
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowNewWindow Method (Project)
+# Application.WindowNewWindow method (Project)
 
 Creates a window.
 
 
 ## Syntax
 
- _expression_. `WindowNewWindow`( `_Projects_`, `_View_`, `_AllProjects_`, `_ShowDialog_` )
+_expression_. `WindowNewWindow`( `_Projects_`, `_View_`, `_AllProjects_`, `_ShowDialog_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

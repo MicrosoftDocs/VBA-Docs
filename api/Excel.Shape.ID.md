@@ -21,7 +21,7 @@ Returns a Long value that represents the type for the specified object.
 
 _expression_. `ID`
 
-_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Remarks

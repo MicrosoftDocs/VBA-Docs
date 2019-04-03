@@ -1,5 +1,5 @@
 ---
-title: Document.FullName Property (Publisher)
+title: Document.FullName property (Publisher)
 keywords: vbapb10.chm196625
 f1_keywords:
 - vbapb10.chm196625
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.FullName Property (Publisher)
+# Document.FullName property (Publisher)
 
 Returns a  **String** representing the full file name of the saved active publication, including its path and file name. Read-only.
 
 
 ## Syntax
 
- _expression_. **FullName**
+ _expression_.**FullName**
 
  _expression_ A variable that represents a  **Document** object.
 

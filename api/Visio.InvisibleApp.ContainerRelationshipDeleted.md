@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ContainerRelationshipDeleted Event (Visio)
+title: InvisibleApp.ContainerRelationshipDeleted event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ContainerRelationshipDeleted
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.ContainerRelationshipDeleted Event (Visio)
+# InvisibleApp.ContainerRelationshipDeleted event (Visio)
 
 Occurs when a container relationship is deleted from the document.
 

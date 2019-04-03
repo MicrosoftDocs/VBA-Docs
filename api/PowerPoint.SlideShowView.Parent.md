@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Parent Property (PowerPoint)
+title: SlideShowView.Parent property (PowerPoint)
 keywords: vbapp10.chm513002
 f1_keywords:
 - vbapp10.chm513002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowView.Parent Property (PowerPoint)
+# SlideShowView.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

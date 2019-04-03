@@ -1,5 +1,5 @@
 ---
-title: Project.ResourceTables Property (Project)
+title: Project.ResourceTables property (Project)
 keywords: vbapj.chm132533
 f1_keywords:
 - vbapj.chm132533
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ResourceTables Property (Project)
+# Project.ResourceTables property (Project)
 
 Gets a  **[Tables](Project.tables.md)** collection that contains the resource tables of the project. Read-only **Tables**.
 
 
 ## Syntax
 
- _expression_. `ResourceTables`
+_expression_. `ResourceTables`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

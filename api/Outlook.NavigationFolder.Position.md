@@ -1,5 +1,5 @@
 ---
-title: NavigationFolder.Position Property (Outlook)
+title: NavigationFolder.Position property (Outlook)
 keywords: vbaol11.chm2907
 f1_keywords:
 - vbaol11.chm2907
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationFolder.Position Property (Outlook)
+# NavigationFolder.Position property (Outlook)
 
 Returns or sets an  **Long** value that represents the ordinal position of the **[NavigationFolder](Outlook.NavigationFolder.md)** object when displayed in the navigation pane. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **Long** value that represents the ordinal position of the *
 
 _expression_. `Position`
 
-_expression_ A variable that represents a [NavigationFolder](./Outlook.NavigationFolder.md) object.
+_expression_ A variable that represents a [NavigationFolder](Outlook.NavigationFolder.md) object.
 
 
 ## Remarks

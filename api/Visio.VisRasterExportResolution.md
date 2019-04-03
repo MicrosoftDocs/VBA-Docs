@@ -1,5 +1,5 @@
 ---
-title: VisRasterExportResolution Enumeration (Visio)
+title: VisRasterExportResolution enumeration (Visio)
 keywords: vis_sdr.chm70765
 f1_keywords:
 - vis_sdr.chm70765
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisRasterExportResolution Enumeration (Visio)
+# VisRasterExportResolution enumeration (Visio)
 
 
 

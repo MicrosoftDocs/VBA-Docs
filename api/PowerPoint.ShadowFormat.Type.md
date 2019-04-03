@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Type Property (PowerPoint)
+title: ShadowFormat.Type property (PowerPoint)
 keywords: vbapp10.chm554009
 f1_keywords:
 - vbapp10.chm554009
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShadowFormat.Type Property (PowerPoint)
+# ShadowFormat.Type property (PowerPoint)
 
 Represents the type of shadow. Read/write.
 

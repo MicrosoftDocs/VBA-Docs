@@ -1,5 +1,5 @@
 ---
-title: Shape.ThreeD Property (PowerPoint)
+title: Shape.ThreeD property (PowerPoint)
 keywords: vbapp10.chm547036
 f1_keywords:
 - vbapp10.chm547036
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.ThreeD Property (PowerPoint)
+# Shape.ThreeD property (PowerPoint)
 
 Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that contains 3-D - effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `ThreeD`
+_expression_. `ThreeD`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -31,7 +31,7 @@ ThreeDFormat
 
 ## Example
 
-This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  `myDocument`.
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  _myDocument_.
 
 
 ```vb

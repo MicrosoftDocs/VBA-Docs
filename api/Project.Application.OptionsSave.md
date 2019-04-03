@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsSave Method (Project)
+title: Application.OptionsSave method (Project)
 keywords: vbapj.chm650
 f1_keywords:
 - vbapj.chm650
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OptionsSave Method (Project)
+# Application.OptionsSave method (Project)
 
 Sets save options for project files.
 
 
 ## Syntax
 
- _expression_. `OptionsSave`( `_DefaultSaveFormat_`, `_DefaultProjectsPath_`, `_DefaultUserTemplatesPath_`, `_DefaultWorkgroupTemplatesPath_`, `_ExpandDatabaseTimephasedData_`, `_AutomaticSave_`, `_AutomaticSaveInterval_`, `_AutomaticSaveOptions_`, `_AutomaticSavePrompt_`, `_SetDefaultsDatabase_` )
+_expression_. `OptionsSave`( `_DefaultSaveFormat_`, `_DefaultProjectsPath_`, `_DefaultUserTemplatesPath_`, `_DefaultWorkgroupTemplatesPath_`, `_ExpandDatabaseTimephasedData_`, `_AutomaticSave_`, `_AutomaticSaveInterval_`, `_AutomaticSaveOptions_`, `_AutomaticSavePrompt_`, `_SetDefaultsDatabase_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

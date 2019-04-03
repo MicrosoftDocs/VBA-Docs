@@ -1,5 +1,5 @@
 ---
-title: Walls.Name Property (PowerPoint)
+title: Walls.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Walls.Name Property (PowerPoint)
+# Walls.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

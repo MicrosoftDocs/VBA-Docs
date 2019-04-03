@@ -1,5 +1,5 @@
 ---
-title: Row.Delete Method (PowerPoint)
+title: Row.Delete method (PowerPoint)
 keywords: vbapp10.chm626005
 f1_keywords:
 - vbapp10.chm626005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Delete Method (PowerPoint)
+# Row.Delete method (PowerPoint)
 
 Deletes the specified  **Row** object.
 

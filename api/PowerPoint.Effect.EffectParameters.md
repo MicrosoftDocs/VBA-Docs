@@ -1,5 +1,5 @@
 ---
-title: Effect.EffectParameters Property (PowerPoint)
+title: Effect.EffectParameters property (PowerPoint)
 keywords: vbapp10.chm652011
 f1_keywords:
 - vbapp10.chm652011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Effect.EffectParameters Property (PowerPoint)
+# Effect.EffectParameters property (PowerPoint)
 
 Returns an  **[EffectParameters](PowerPoint.EffectParameters.md)** object that represents animation effect properties.
 
 
 ## Syntax
 
- _expression_. `EffectParameters`
+_expression_. `EffectParameters`
 
 _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 

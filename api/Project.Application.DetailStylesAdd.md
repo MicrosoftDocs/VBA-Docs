@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesAdd Method (Project)
+title: Application.DetailStylesAdd method (Project)
 keywords: vbapj.chm963
 f1_keywords:
 - vbapj.chm963
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DetailStylesAdd Method (Project)
+# Application.DetailStylesAdd method (Project)
 
 Adds another timescale data field to a usage view.
 
 
 ## Syntax
 
- _expression_. `DetailStylesAdd`( `_Item_`, `_Position_` )
+_expression_. `DetailStylesAdd`( `_Item_`, `_Position_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

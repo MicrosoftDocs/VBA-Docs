@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.PrintHiddenSlides Property (PowerPoint)
+title: PrintOptions.PrintHiddenSlides property (PowerPoint)
 keywords: vbapp10.chm517009
 f1_keywords:
 - vbapp10.chm517009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PrintOptions.PrintHiddenSlides Property (PowerPoint)
+# PrintOptions.PrintHiddenSlides property (PowerPoint)
 
 Determines whether hidden slides in the specified presentation will be printed. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintHiddenSlides`
+_expression_. `PrintHiddenSlides`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

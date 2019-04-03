@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeBeforeRecordMerge Event (Publisher)
+title: Application.MailMergeBeforeRecordMerge event (Publisher)
 keywords: vbapb10.chm268435474
 f1_keywords:
 - vbapb10.chm268435474
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeBeforeRecordMerge Event (Publisher)
+# Application.MailMergeBeforeRecordMerge event (Publisher)
 
 Occurs as a merge is executed for the individual records in a merge.
 
 
 ## Syntax
 
- _expression_. **MailMergeBeforeRecordMerge**(**_Doc_**,  **_Cancel_**)
+ _expression_.**MailMergeBeforeRecordMerge**(**_Doc_**,  **_Cancel_**)
 
  _expression_ A variable that represents an  **Application** object.
 

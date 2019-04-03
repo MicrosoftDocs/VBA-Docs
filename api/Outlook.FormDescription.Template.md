@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Template Property (Outlook)
+title: FormDescription.Template property (Outlook)
 keywords: vbaol11.chm198
 f1_keywords:
 - vbaol11.chm198
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.Template Property (Outlook)
+# FormDescription.Template property (Outlook)
 
 Returns or sets a  **String** indicating the name of the template for the form. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the name of the template for the form. 
 
 _expression_. `Template`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## Remarks

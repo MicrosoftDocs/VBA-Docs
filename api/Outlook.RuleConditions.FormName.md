@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.FormName Property (Outlook)
+title: RuleConditions.FormName property (Outlook)
 keywords: vbaol11.chm2314
 f1_keywords:
 - vbaol11.chm2314
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.FormName Property (Outlook)
+# RuleConditions.FormName property (Outlook)
 
 Returns a  **[FormNameRuleCondition](Outlook.FormNameRuleCondition.md)** object with a **[FormNameRuleCondition.ConditionType](Outlook.FormNameRuleCondition.ConditionType.md)** of **olConditionFormName**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[FormNameRuleCondition](Outlook.FormNameRuleCondition.md)** object 
 
 _expression_. `FormName`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

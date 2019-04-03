@@ -1,5 +1,5 @@
 ---
-title: NavigationModules.Application Property (Outlook)
+title: NavigationModules.Application property (Outlook)
 keywords: vbaol11.chm2795
 f1_keywords:
 - vbaol11.chm2795
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NavigationModules.Application Property (Outlook)
+# NavigationModules.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
- _expression_ An expression that returns a [NavigationModules](./Outlook.NavigationModules.md) object.
+ _expression_ An expression that returns a [NavigationModules](Outlook.NavigationModules.md) object.
 
 
 ## See also

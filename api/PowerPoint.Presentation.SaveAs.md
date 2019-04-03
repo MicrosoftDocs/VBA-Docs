@@ -1,5 +1,5 @@
 ---
-title: Presentation.SaveAs Method (PowerPoint)
+title: Presentation.SaveAs method (PowerPoint)
 keywords: vbapp10.chm583036
 f1_keywords:
 - vbapp10.chm583036
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
-# Presentation.SaveAs Method (PowerPoint)
+# Presentation.SaveAs method (PowerPoint)
 
 Saves a presentation that's never been saved, or saves a previously saved presentation under a different name.
 
 
 ## Syntax
 
- _expression_. `SaveAs`( `_Filename_`, `_FileFormat_`, `_EmbedFonts_` )
+_expression_. `SaveAs`( `_FileName_`, `_FileFormat_`, `_EmbedFonts_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -29,7 +29,7 @@ Saves a presentation that's never been saved, or saves a previously saved presen
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required|**String**|Specifies the name to save the file under. If you don't include a full path, PowerPoint saves the file in the current folder.|
+| _FileName_|Required|**String**|Specifies the name to save the file under. If you don't include a full path, PowerPoint saves the file in the current folder.|
 | _FileFormat_|Optional|**PpSaveAsFileType**|Specifies the saved file format. If this argument is omitted, the file is saved in the default file format (**ppSaveAsDefault**).|
 | _EmbedFonts_|Optional|**MsoTriState**|Specifies whether PowerPoint embeds TrueType fonts in the saved presentation.|
 

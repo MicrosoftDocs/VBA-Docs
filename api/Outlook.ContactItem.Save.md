@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Save Method (Outlook)
+title: ContactItem.Save method (Outlook)
 keywords: vbaol11.chm962
 f1_keywords:
 - vbaol11.chm962
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Save Method (Outlook)
+# ContactItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 
@@ -21,7 +21,7 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 
 _expression_. `Save`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

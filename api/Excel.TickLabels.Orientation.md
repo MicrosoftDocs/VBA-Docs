@@ -21,12 +21,12 @@ Returns or sets a  **Long** value that represents the text orientation.
 
 _expression_.**Orientation**
 
-_expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-property.md) object.
 
 
 ## Remarks
 
-The value of this property can be an integer value from - 90 to 90 degrees or one of the  **[xlTickLabelOrientation](Excel.XlTickLabelOrientation.md)** constants.
+The value of this property can be an integer value from - 90 to 90 degrees or one of the  **[XlTickLabelOrientation](Excel.XlTickLabelOrientation.md)** constants.
 
 
 ## See also

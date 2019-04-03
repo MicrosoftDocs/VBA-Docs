@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Logoff Method (Outlook)
+title: NameSpace.Logoff method (Outlook)
 keywords: vbaol11.chm766
 f1_keywords:
 - vbaol11.chm766
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.Logoff Method (Outlook)
+# NameSpace.Logoff method (Outlook)
 
 Logs the user off from the current MAPI session.
 
@@ -21,7 +21,7 @@ Logs the user off from the current MAPI session.
 
 _expression_. `Logoff`
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Delete Method (PowerPoint)
+title: LeaderLines.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LeaderLines.Delete Method (PowerPoint)
+# LeaderLines.Delete method (PowerPoint)
 
 Deletes the object.
 

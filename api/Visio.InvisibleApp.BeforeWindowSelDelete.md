@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeforeWindowSelDelete Event (Visio)
+title: InvisibleApp.BeforeWindowSelDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeWindowSelDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeWindowSelDelete Event (Visio)
+# InvisibleApp.BeforeWindowSelDelete event (Visio)
 
 Occurs before the shapes in the selection of a window are deleted.
 

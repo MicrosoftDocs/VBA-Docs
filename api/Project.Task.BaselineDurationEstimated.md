@@ -1,5 +1,5 @@
 ---
-title: Task.BaselineDurationEstimated Property (Project)
+title: Task.BaselineDurationEstimated property (Project)
 keywords: vbapj.chm131575
 f1_keywords:
 - vbapj.chm131575
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.BaselineDurationEstimated Property (Project)
+# Task.BaselineDurationEstimated property (Project)
 
 Gets or sets the baseline duration (in minutes) of a task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BaselineDurationEstimated`
+_expression_. `BaselineDurationEstimated`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

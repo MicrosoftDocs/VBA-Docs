@@ -1,5 +1,5 @@
 ---
-title: ColorScheme.Count Property (PowerPoint)
+title: ColorScheme.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorScheme.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ColorScheme.Count Property (PowerPoint)
+# ColorScheme.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

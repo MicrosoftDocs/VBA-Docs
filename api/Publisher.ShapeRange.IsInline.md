@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IsInline Property (Publisher)
+title: ShapeRange.IsInline property (Publisher)
 keywords: vbapb10.chm2294022
 f1_keywords:
 - vbapb10.chm2294022
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.IsInline Property (Publisher)
+# ShapeRange.IsInline property (Publisher)
 
 Returns an  **MsoTriState** constant that specifies whether a shape is inline. Read-only.
 
 
 ## Syntax
 
- _expression_. **IsInline**
+ _expression_.**IsInline**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

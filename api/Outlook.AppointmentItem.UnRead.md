@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.UnRead Property (Outlook)
+title: AppointmentItem.UnRead property (Outlook)
 keywords: vbaol11.chm866
 f1_keywords:
 - vbaol11.chm866
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.UnRead Property (Outlook)
+# AppointmentItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 
 _expression_. `UnRead`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

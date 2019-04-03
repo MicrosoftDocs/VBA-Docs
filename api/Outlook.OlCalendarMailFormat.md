@@ -1,5 +1,5 @@
 ---
-title: OlCalendarMailFormat Enumeration (Outlook)
+title: OlCalendarMailFormat enumeration (Outlook)
 keywords: vbaol11.chm3117
 f1_keywords:
 - vbaol11.chm3117
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlCalendarMailFormat Enumeration (Outlook)
+# OlCalendarMailFormat enumeration (Outlook)
 
 Determines the format of the calendar information in the body of the  **[MailItem](Outlook.MailItem.md)** created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** method.
 

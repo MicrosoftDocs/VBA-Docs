@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.RelativeSize Property (PowerPoint)
+title: BulletFormat.RelativeSize property (PowerPoint)
 keywords: vbapp10.chm577005
 f1_keywords:
 - vbapp10.chm577005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# BulletFormat.RelativeSize Property (PowerPoint)
+# BulletFormat.RelativeSize property (PowerPoint)
 
 Returns or sets the bullet size relative to the size of the first text character in the paragraph. Read/write.
 
 
 ## Syntax
 
- _expression_. `RelativeSize`
+_expression_. `RelativeSize`
 
 _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 

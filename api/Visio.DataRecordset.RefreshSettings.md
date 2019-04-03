@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.RefreshSettings Property (Visio)
+title: DataRecordset.RefreshSettings property (Visio)
 keywords: vis_sdr.chm16460345
 f1_keywords:
 - vis_sdr.chm16460345
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.RefreshSettings Property (Visio)
+# DataRecordset.RefreshSettings property (Visio)
 
 Gets and sets options that determine how the data recordset is refreshed. Read/write.
 
@@ -22,7 +22,7 @@ Gets and sets options that determine how the data recordset is refreshed. Read/w
 
 ## Syntax
 
- _expression_. `RefreshSettings`
+_expression_. `RefreshSettings`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

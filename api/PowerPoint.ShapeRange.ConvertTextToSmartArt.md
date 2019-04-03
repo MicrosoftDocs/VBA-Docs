@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ConvertTextToSmartArt Method (PowerPoint)
+title: ShapeRange.ConvertTextToSmartArt method (PowerPoint)
 keywords: vbapp10.chm548096
 f1_keywords:
 - vbapp10.chm548096
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.ConvertTextToSmartArt Method (PowerPoint)
+# ShapeRange.ConvertTextToSmartArt method (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `ConvertTextToSmartArt`( `_Layout_` )
+_expression_. `ConvertTextToSmartArt`( `_Layout_` )
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

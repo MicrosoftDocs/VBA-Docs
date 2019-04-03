@@ -1,5 +1,5 @@
 ---
-title: Tasks.UniqueID Property (Project)
+title: Tasks.UniqueID property (Project)
 ms.prod: project-server
 api_name:
 - Project.Tasks.UniqueID
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Tasks.UniqueID Property (Project)
+# Tasks.UniqueID property (Project)
 
 Gets a  **[Task](Project.Task.md)** object from its containing collection. Read-only **Task**.
 
 
 ## Syntax
 
- _expression_. `UniqueID`( `_Index_` )
+_expression_. `UniqueID` (_Index_)
 
  _expression_ A variable that represents a 'Tasks' object.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressList.IsInitialAddressList Property (Outlook)
+title: AddressList.IsInitialAddressList property (Outlook)
 keywords: vbaol11.chm2035
 f1_keywords:
 - vbaol11.chm2035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressList.IsInitialAddressList Property (Outlook)
+# AddressList.IsInitialAddressList property (Outlook)
 
 Returns a  **Boolean** that indicates if the **[AddressList](Outlook.AddressList.md)** is the initial **AddressList** shown in the **Select Names** dialog. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that indicates if the **[AddressList](Outlook.AddressList
 
 _expression_. `IsInitialAddressList`
 
-_expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 
 
 ## Remarks

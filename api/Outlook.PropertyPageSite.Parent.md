@@ -1,5 +1,5 @@
 ---
-title: PropertyPageSite.Parent Property (Outlook)
+title: PropertyPageSite.Parent property (Outlook)
 keywords: vbaol11.chm388
 f1_keywords:
 - vbaol11.chm388
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPageSite.Parent Property (Outlook)
+# PropertyPageSite.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [PropertyPageSite](./Outlook.PropertyPageSite.md) object.
+_expression_ A variable that represents a [PropertyPageSite](Outlook.PropertyPageSite.md) object.
 
 
 ## See also

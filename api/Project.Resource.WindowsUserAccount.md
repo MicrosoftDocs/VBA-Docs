@@ -1,5 +1,5 @@
 ---
-title: Resource.WindowsUserAccount Property (Project)
+title: Resource.WindowsUserAccount property (Project)
 keywords: vbapj.chm132826
 f1_keywords:
 - vbapj.chm132826
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.WindowsUserAccount Property (Project)
+# Resource.WindowsUserAccount property (Project)
 
 Gets or sets the user account for Microsoft Windows authentication of the resource. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `WindowsUserAccount`
+_expression_. `WindowsUserAccount`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

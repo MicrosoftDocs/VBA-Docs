@@ -21,6 +21,6 @@ All option buttons in a  **Frame** are mutually exclusive, so you can use the **
 
 You can also use a  **Frame** to create a group of **[ToggleButton](Outlook.togglebutton.md)** controls, but the toggle buttons are not mutually exclusive.
 
-To create a group of mutually exclusive  **[OptionButton](Outlook.optionbutton.md)** controls, you can put the buttons in a **Frame** on your form, or you can use the ** [OptionButton.GroupName](Outlook.optionbutton.groupname.md)** property.
+To create a group of mutually exclusive  **[OptionButton](Outlook.optionbutton.md)** controls, you can put the buttons in a **Frame** on your form, or you can use the **[OptionButton.GroupName](Outlook.optionbutton.groupname.md)** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Parent Property (Publisher)
+title: TextEffectFormat.Parent property (Publisher)
 keywords: vbapb10.chm3735554
 f1_keywords:
 - vbapb10.chm3735554
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Parent Property (Publisher)
+# TextEffectFormat.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_.**Parent**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem Object (Outlook)
+title: PostItem object (Outlook)
 keywords: vbaol11.chm3005
 f1_keywords:
 - vbaol11.chm3005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem Object (Outlook)
+# PostItem object (Outlook)
 
 Represents a post in a public folder that others may browse.
 
@@ -160,6 +160,6 @@ Set myItem = myOlApp.CreateItem(olPostItem)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

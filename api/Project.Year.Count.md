@@ -1,5 +1,5 @@
 ---
-title: Year.Count Property (Project)
+title: Year.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Year.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Year.Count Property (Project)
+# Year.Count property (Project)
 
 Gets the number of days in the  **Year** object. Read-only **Integer**.
 

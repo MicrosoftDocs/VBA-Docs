@@ -1,5 +1,5 @@
 ---
-title: Application.SelectCell Method (Project)
+title: Application.SelectCell method (Project)
 keywords: vbapj.chm2070
 f1_keywords:
 - vbapj.chm2070
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectCell Method (Project)
+# Application.SelectCell method (Project)
 
 Selects a cell.
 
 
 ## Syntax
 
- _expression_. `SelectCell`( `_Row_`, `_Column_`, `_RowRelative_` )
+_expression_. `SelectCell`( `_Row_`, `_Column_`, `_RowRelative_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

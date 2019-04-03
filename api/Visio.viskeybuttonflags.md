@@ -1,5 +1,5 @@
 ---
-title: VisKeyButtonFlags Enumeration (Visio)
+title: VisKeyButtonFlags enumeration (Visio)
 keywords: vis_sdr.chm70410
 f1_keywords:
 - vis_sdr.chm70410
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisKeyButtonFlags Enumeration (Visio)
+# VisKeyButtonFlags enumeration (Visio)
 
 Flags passed to the  **MouseDown**, **MouseMove**, and **MouseUp** events.
 

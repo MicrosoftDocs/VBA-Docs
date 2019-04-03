@@ -1,5 +1,5 @@
 ---
-title: Project.AutoAddResources Property (Project)
+title: Project.AutoAddResources property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.AutoAddResources
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.AutoAddResources Property (Project)
+# Project.AutoAddResources property (Project)
 
  **True** if new resources are automatically created as they are assigned. **False** if Project prompts before creating new resources. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoAddResources`
+_expression_. `AutoAddResources`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

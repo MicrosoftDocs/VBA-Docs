@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.MonthOfYear Property (Outlook)
+title: RecurrencePattern.MonthOfYear property (Outlook)
 keywords: vbaol11.chm280
 f1_keywords:
 - vbaol11.chm280
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RecurrencePattern.MonthOfYear Property (Outlook)
+# RecurrencePattern.MonthOfYear property (Outlook)
 
 Returns or sets a  **Long** indicating which month of the year is valid for the specified recurrence pattern. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating which month of the year is valid for the 
 
 _expression_. `MonthOfYear`
 
-_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

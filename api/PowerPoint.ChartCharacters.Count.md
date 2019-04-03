@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Count Property (PowerPoint)
+title: ChartCharacters.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ChartCharacters.Count Property (PowerPoint)
+# ChartCharacters.Count property (PowerPoint)
 
 Returns the number of objects in the collection. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.CellsSRC Property (Visio)
+title: Shape.CellsSRC property (Visio)
 keywords: vis_sdr.chm11213205
 f1_keywords:
 - vis_sdr.chm11213205
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.CellsSRC Property (Visio)
+# Shape.CellsSRC property (Visio)
 
 Returns a  **Cell** object that represents a ShapeSheet cell identified by section, row, and column indices. Read-only.
 
 
 ## Syntax
 
- _expression_. `CellsSRC`( `_Section_` , `_Row_` , `_Column_` )
+_expression_. `CellsSRC`( `_Section_` , `_Row_` , `_Column_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

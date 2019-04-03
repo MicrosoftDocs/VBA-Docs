@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTasks.Count Property (PowerPoint)
+title: ResampleMediaTasks.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTasks.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ResampleMediaTasks.Count Property (PowerPoint)
+# ResampleMediaTasks.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

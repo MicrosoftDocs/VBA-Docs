@@ -1,5 +1,5 @@
 ---
-title: PjBarEndShape Enumeration (Project)
+title: PjBarEndShape enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBarEndShape
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBarEndShape Enumeration (Project)
+# PjBarEndShape enumeration (Project)
 
 Contains constants that specify the shape of a task bar on a Gantt chart.
 

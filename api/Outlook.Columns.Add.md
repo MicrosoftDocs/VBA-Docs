@@ -1,5 +1,5 @@
 ---
-title: Columns.Add Method (Outlook)
+title: Columns.Add method (Outlook)
 keywords: vbaol11.chm2741
 f1_keywords:
 - vbaol11.chm2741
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Columns.Add Method (Outlook)
+# Columns.Add method (Outlook)
 
 Adds the  **[Column](Outlook.Column.md)** specified by _Name_ to the **[Columns](Outlook.Columns.md)** collection and resets the **[Table](Outlook.Table.md)**.
 
 
 ## Syntax
 
-_expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
-_expression_ A variable that represents a [Columns](./Outlook.Columns.md) object.
+_expression_ A variable that represents a [Columns](Outlook.Columns.md) object.
 
 
 ## Parameters

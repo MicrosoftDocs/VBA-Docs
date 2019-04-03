@@ -1,5 +1,5 @@
 ---
-title: ViewSingle.Type Property (Project)
+title: ViewSingle.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewSingle.Type Property (Project)
+# ViewSingle.Type property (Project)
 
 Gets the type of item in the single view, such as tasks or resources. Read-only  **PjItemType**.
 

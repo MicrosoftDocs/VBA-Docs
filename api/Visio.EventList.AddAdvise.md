@@ -1,5 +1,5 @@
 ---
-title: EventList.AddAdvise Method (Visio)
+title: EventList.AddAdvise method (Visio)
 keywords: vis_sdr.chm12716010
 f1_keywords:
 - vis_sdr.chm12716010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EventList.AddAdvise Method (Visio)
+# EventList.AddAdvise method (Visio)
 
 Adds an  **Event** object to the **EventList** collection of the source object whose events you want to receive. When selected events occur, the source object notifies your sink object.
 
 
 ## Syntax
 
- _expression_. `AddAdvise`( `_EventCode_` , `_SinkIUnkOrIDisp_` , `_IIDSink_` , `_TargetArgs_` )
+_expression_. `AddAdvise`( `_EventCode_` , `_SinkIUnkOrIDisp_` , `_IIDSink_` , `_TargetArgs_` )
 
  _expression_ A variable that represents an [EventList](./Visio.EventList.md) object.
 

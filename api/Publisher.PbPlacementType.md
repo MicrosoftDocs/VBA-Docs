@@ -1,5 +1,5 @@
 ---
-title: PbPlacementType Enumeration (Publisher)
+title: PbPlacementType enumeration (Publisher)
 keywords: vbapb10.chm65572
 f1_keywords:
 - vbapb10.chm65572
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPlacementType Enumeration (Publisher)
+# PbPlacementType enumeration (Publisher)
 
 Represents the placement of envelopes in the printer tray.
 

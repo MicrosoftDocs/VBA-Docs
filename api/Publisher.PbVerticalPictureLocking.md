@@ -1,5 +1,5 @@
 ---
-title: PbVerticalPictureLocking Enumeration (Publisher)
+title: PbVerticalPictureLocking enumeration (Publisher)
 keywords: vbapb10.chm65569
 f1_keywords:
 - vbapb10.chm65569
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbVerticalPictureLocking Enumeration (Publisher)
+# PbVerticalPictureLocking enumeration (Publisher)
 
 Indicates where newly inserted pictures appear in relation to the specified frame.
 

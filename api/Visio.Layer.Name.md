@@ -1,5 +1,5 @@
 ---
-title: Layer.Name Property (Visio)
+title: Layer.Name property (Visio)
 keywords: vis_sdr.chm11813930
 f1_keywords:
 - vis_sdr.chm11813930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Layer.Name Property (Visio)
+# Layer.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

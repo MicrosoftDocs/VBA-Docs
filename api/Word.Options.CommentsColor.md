@@ -19,7 +19,7 @@ Returns or sets a  **WdColorIndex** constant that represents the color of commen
 
 ## Syntax
 
- _expression_. `CommentsColor`
+_expression_. `CommentsColor`
 
  _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 

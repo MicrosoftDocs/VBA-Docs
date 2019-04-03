@@ -1,5 +1,5 @@
 ---
-title: Window.Caption Property (Publisher)
+title: Window.Caption property (Publisher)
 keywords: vbapb10.chm262146
 f1_keywords:
 - vbapb10.chm262146
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Caption Property (Publisher)
+# Window.Caption property (Publisher)
 
 Returns or sets a  **String** indicating the caption at the top of the Microsoft Publisher application window. Read/write.
 
 
 ## Syntax
 
- _expression_. **Caption**
+ _expression_.**Caption**
 
  _expression_ A variable that represents a  **Window** object.
 

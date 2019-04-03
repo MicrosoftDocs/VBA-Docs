@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Name Property (PowerPoint)
+title: TickLabels.Name property (PowerPoint)
 keywords: vbapp10.chm719004
 f1_keywords:
 - vbapp10.chm719004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels.Name Property (PowerPoint)
+# TickLabels.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

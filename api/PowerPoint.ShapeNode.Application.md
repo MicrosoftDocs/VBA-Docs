@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.Application Property (PowerPoint)
+title: ShapeNode.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNode.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeNode.Application Property (PowerPoint)
+# ShapeNode.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

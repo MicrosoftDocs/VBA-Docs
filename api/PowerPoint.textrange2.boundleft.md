@@ -1,5 +1,5 @@
 ---
-title: TextRange2.BoundLeft Property (PowerPoint)
+title: TextRange2.BoundLeft property (PowerPoint)
 ms.assetid: b7adce04-116c-4487-94e7-f895ce7bfc4e
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.BoundLeft Property (PowerPoint)
+# TextRange2.BoundLeft property (PowerPoint)
 
 Gets the left coordinate, in points, of the text bounding box for the specified text. Read-only.
 
 
 ## Syntax
 
- _expression_. `BoundLeft`
+_expression_. `BoundLeft`
 
  _expression_ An expression that returns a 'TextRange2' object.
 
@@ -49,6 +49,6 @@ End With
 
 
 [TextRange2 Object](Office.TextRange2.md)
-[TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
+[TextRange2 Object Members](overview/Library-Reference/textrange2-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ForwardAsVcard Method (Outlook)
+title: ContactItem.ForwardAsVcard method (Outlook)
 keywords: vbaol11.chm1079
 f1_keywords:
 - vbaol11.chm1079
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ForwardAsVcard Method (Outlook)
+# ContactItem.ForwardAsVcard method (Outlook)
 
 Creates a  **[MailItem](Outlook.MailItem.md)** and attaches the contact information in vCard format.
 
@@ -21,7 +21,7 @@ Creates a  **[MailItem](Outlook.MailItem.md)** and attaches the contact informat
 
 _expression_. `ForwardAsVcard`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Return value

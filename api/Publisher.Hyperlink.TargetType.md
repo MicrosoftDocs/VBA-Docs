@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.TargetType Property (Publisher)
+title: Hyperlink.TargetType property (Publisher)
 keywords: vbapb10.chm4587529
 f1_keywords:
 - vbapb10.chm4587529
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.TargetType Property (Publisher)
+# Hyperlink.TargetType property (Publisher)
 
 Returns a  **PbHlinkTargetType** constant that represents the type of hyperlink. Read-only.
 
 
 ## Syntax
 
- _expression_. **TargetType**
+ _expression_.**TargetType**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

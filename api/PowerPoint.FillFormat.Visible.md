@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Visible Property (PowerPoint)
+title: FillFormat.Visible property (PowerPoint)
 keywords: vbapp10.chm552024
 f1_keywords:
 - vbapp10.chm552024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Visible Property (PowerPoint)
+# FillFormat.Visible property (PowerPoint)
 
 Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
 

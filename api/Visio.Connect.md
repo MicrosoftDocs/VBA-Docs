@@ -1,5 +1,5 @@
 ---
-title: Connect Object (Visio)
+title: Connect object (Visio)
 keywords: vis_sdr.chm10065
 f1_keywords:
 - vis_sdr.chm10065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Connect Object (Visio)
+# Connect object (Visio)
 
 Represents a connection between two shapes in a drawing, such as a line and a box in an organization chart.
 

@@ -1,5 +1,5 @@
 ---
-title: Layer.Master Property (Visio)
+title: Layer.Master property (Visio)
 keywords: vis_sdr.chm11813870
 f1_keywords:
 - vis_sdr.chm11813870
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Layer.Master Property (Visio)
+# Layer.Master property (Visio)
 
 Returns the master that contains the  **Layer** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Master`
+_expression_. `Master`
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 

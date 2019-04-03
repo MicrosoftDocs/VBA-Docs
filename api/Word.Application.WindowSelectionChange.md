@@ -1,5 +1,5 @@
 ---
-title: Application.WindowSelectionChange Event (Word)
+title: Application.WindowSelectionChange event (Word)
 keywords: vbawd10.chm4000011
 f1_keywords:
 - vbawd10.chm4000011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowSelectionChange Event (Word)
+# Application.WindowSelectionChange event (Word)
 
 Occurs when the selection changes in the active document window.
 

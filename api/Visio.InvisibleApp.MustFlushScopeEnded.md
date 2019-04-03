@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MustFlushScopeEnded Event (Visio)
+title: InvisibleApp.MustFlushScopeEnded event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MustFlushScopeEnded
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MustFlushScopeEnded Event (Visio)
+# InvisibleApp.MustFlushScopeEnded event (Visio)
 
 Occurs after the Microsoft Visio instance is forced to flush its event queue.
 

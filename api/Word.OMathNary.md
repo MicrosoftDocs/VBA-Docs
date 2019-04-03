@@ -21,6 +21,6 @@ Represents the mathematical n-ary object, consisting of an n-ary object, a base 
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

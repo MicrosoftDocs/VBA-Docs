@@ -1,5 +1,5 @@
 ---
-title: Master.Shapes Property (PowerPoint)
+title: Master.Shapes property (PowerPoint)
 keywords: vbapp10.chm533003
 f1_keywords:
 - vbapp10.chm533003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.Shapes Property (PowerPoint)
+# Master.Shapes property (PowerPoint)
 
 Returns a  **[Shapes](PowerPoint.Shapes.md)** collection that represents all the elements that have been placed or inserted on the specified slide, slide master, or range of slides. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_. `Shapes`
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 

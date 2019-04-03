@@ -1,5 +1,5 @@
 ---
-title: JournalItem.DocRouted Property (Outlook)
+title: JournalItem.DocRouted property (Outlook)
 keywords: vbaol11.chm1268
 f1_keywords:
 - vbaol11.chm1268
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.DocRouted Property (Outlook)
+# JournalItem.DocRouted property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the journalized item was routed as part of the journalized session. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the journalized item was rou
 
 _expression_. `DocRouted`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks

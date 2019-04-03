@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Close Method (Outlook)
+title: DocumentItem.Close method (Outlook)
 keywords: vbaol11.chm1209
 f1_keywords:
 - vbaol11.chm1209
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Close Method (Outlook)
+# DocumentItem.Close method (Outlook)
 
 This object, member, or enumeration will be deprecated and is not intended to be used in your code.
 
@@ -21,7 +21,7 @@ This object, member, or enumeration will be deprecated and is not intended to be
 
 _expression_. `Close`( `_SaveMode_` )
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## See also

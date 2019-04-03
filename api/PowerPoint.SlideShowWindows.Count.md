@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindows.Count Property (PowerPoint)
+title: SlideShowWindows.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindows.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SlideShowWindows.Count Property (PowerPoint)
+# SlideShowWindows.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

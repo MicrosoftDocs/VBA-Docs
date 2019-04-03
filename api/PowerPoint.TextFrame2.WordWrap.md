@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.WordWrap Property (PowerPoint)
+title: TextFrame2.WordWrap property (PowerPoint)
 keywords: vbapp10.chm678012
 f1_keywords:
 - vbapp10.chm678012
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.WordWrap Property (PowerPoint)
+# TextFrame2.WordWrap property (PowerPoint)
 
 Determines whether lines of text break automatically to fit inside the shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `WordWrap`
+_expression_. `WordWrap`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 

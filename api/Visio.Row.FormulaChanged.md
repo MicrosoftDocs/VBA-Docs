@@ -1,5 +1,5 @@
 ---
-title: Row.FormulaChanged Event (Visio)
+title: Row.FormulaChanged event (Visio)
 keywords: vis_sdr.chm15819160
 f1_keywords:
 - vis_sdr.chm15819160
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.FormulaChanged Event (Visio)
+# Row.FormulaChanged event (Visio)
 
 Occurs after a formula changes in a cell in the object that receives the event.
 

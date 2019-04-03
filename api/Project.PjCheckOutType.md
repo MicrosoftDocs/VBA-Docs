@@ -1,5 +1,5 @@
 ---
-title: PjCheckOutType Enumeration (Project)
+title: PjCheckOutType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCheckOutType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCheckOutType Enumeration (Project)
+# PjCheckOutType enumeration (Project)
 
 Contains constants that specify the type of checkout.
 

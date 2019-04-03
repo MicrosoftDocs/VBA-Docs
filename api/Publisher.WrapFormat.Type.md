@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.Type Property (Publisher)
+title: WrapFormat.Type property (Publisher)
 keywords: vbapb10.chm786435
 f1_keywords:
 - vbapb10.chm786435
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WrapFormat.Type Property (Publisher)
+# WrapFormat.Type property (Publisher)
 
 Specifies how text wraps around the specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 

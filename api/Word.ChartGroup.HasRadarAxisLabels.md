@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `HasRadarAxisLabels`
+_expression_. `HasRadarAxisLabels`
 
  _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 

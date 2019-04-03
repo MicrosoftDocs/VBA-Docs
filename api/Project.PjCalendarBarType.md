@@ -1,5 +1,5 @@
 ---
-title: PjCalendarBarType Enumeration (Project)
+title: PjCalendarBarType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCalendarBarType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCalendarBarType Enumeration (Project)
+# PjCalendarBarType enumeration (Project)
 
 Contains constants that specify a calendar bar type.
 

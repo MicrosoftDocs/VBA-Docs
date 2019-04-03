@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.GetRowData Method (Visio)
+title: DataRecordset.GetRowData method (Visio)
 keywords: vis_sdr.chm16460315
 f1_keywords:
 - vis_sdr.chm16460315
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataRecordset.GetRowData Method (Visio)
+# DataRecordset.GetRowData method (Visio)
 
 Gets the data in all columns in the specified row.
 
@@ -22,7 +22,7 @@ Gets the data in all columns in the specified row.
 
 ## Syntax
 
- _expression_. `GetRowData`( `_DataRowID_` )
+_expression_. `GetRowData`( `_DataRowID_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

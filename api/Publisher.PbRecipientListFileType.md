@@ -1,5 +1,5 @@
 ---
-title: PbRecipientListFileType Enumeration (Publisher)
+title: PbRecipientListFileType enumeration (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.PbRecipientListFileType
@@ -9,9 +9,9 @@ localization_priority: Normal
 ---
 
 
-# PbRecipientListFileType Enumeration (Publisher)
+# PbRecipientListFileType enumeration (Publisher)
 
-Constants passed to the  ** [MailMerge.ExportRecipientList](Publisher.MailMerge.ExportRecipientList.md)** method that specify the type of file in which to save an exported mail-merge recipient list.
+Constants passed to the  **[MailMerge.ExportRecipientList](Publisher.MailMerge.ExportRecipientList.md)** method that specify the type of file in which to save an exported mail-merge recipient list.
 
 
 

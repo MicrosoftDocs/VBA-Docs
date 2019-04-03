@@ -1,5 +1,5 @@
 ---
-title: PjResourceGraphStyle Enumeration (Project)
+title: PjResourceGraphStyle enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResourceGraphStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjResourceGraphStyle Enumeration (Project)
+# PjResourceGraphStyle enumeration (Project)
 
 Contains constants that specify the resource graph style.
 

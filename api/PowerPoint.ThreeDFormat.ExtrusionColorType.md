@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ExtrusionColorType Property (PowerPoint)
+title: ThreeDFormat.ExtrusionColorType property (PowerPoint)
 keywords: vbapp10.chm557009
 f1_keywords:
 - vbapp10.chm557009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ExtrusionColorType Property (PowerPoint)
+# ThreeDFormat.ExtrusionColorType property (PowerPoint)
 
 Returns or sets a value that indicates whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Read/write.
 
 
 ## Syntax
 
- _expression_. `ExtrusionColorType`
+_expression_. `ExtrusionColorType`
 
  _expression_ A variable that represents an [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -43,7 +43,7 @@ The value of the  **ExtrusionColorType** property can be one of these **MsoExtru
 
 ## Example
 
-If shape one on  `myDocument` has an automatic extrusion color, this example gives the extrusion a custom yellow color.
+If shape one on  _myDocument_ has an automatic extrusion color, this example gives the extrusion a custom yellow color.
 
 
 ```vb

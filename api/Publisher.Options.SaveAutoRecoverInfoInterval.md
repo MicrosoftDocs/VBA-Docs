@@ -1,5 +1,5 @@
 ---
-title: Options.SaveAutoRecoverInfoInterval Property (Publisher)
+title: Options.SaveAutoRecoverInfoInterval property (Publisher)
 keywords: vbapb10.chm1048600
 f1_keywords:
 - vbapb10.chm1048600
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Options.SaveAutoRecoverInfoInterval Property (Publisher)
+# Options.SaveAutoRecoverInfoInterval property (Publisher)
 
 Returns or sets a  **Long** that represents the time interval in minutes for automatically saving a publication for recovery if the application is unexpectedly shut down. Read/write.
 
 
 ## Syntax
 
- _expression_. **SaveAutoRecoverInfoInterval**
+ _expression_.**SaveAutoRecoverInfoInterval**
 
  _expression_ A variable that represents a  **Options** object.
 

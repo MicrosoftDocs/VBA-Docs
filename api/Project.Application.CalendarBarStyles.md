@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarBarStyles Method (Project)
+title: Application.CalendarBarStyles method (Project)
 keywords: vbapj.chm2326
 f1_keywords:
 - vbapj.chm2326
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CalendarBarStyles Method (Project)
+# Application.CalendarBarStyles method (Project)
 
 Turns bar rounding on or off in the Calendar.
 
 
 ## Syntax
 
- _expression_. `CalendarBarStyles`( `_BarRounding_` )
+_expression_. `CalendarBarStyles`( `_BarRounding_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

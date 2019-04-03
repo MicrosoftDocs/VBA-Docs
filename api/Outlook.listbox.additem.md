@@ -14,7 +14,7 @@ For a single-column  **[ListBox](Outlook.listbox.md)**, the  **AddItem** method 
 
 ## Syntax
 
-_expression_. **AddItem**(**_pvargItem_**,  **_pvargIndex_**)
+_expression_.**AddItem**(**_pvargItem_**,  **_pvargIndex_**)
 
 _expression_ A variable that represents a  **ListBox** object.
 

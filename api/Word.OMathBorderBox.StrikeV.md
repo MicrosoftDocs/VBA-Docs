@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents a vertical strikethrough. Read/wr
 
 ## Syntax
 
- _expression_. `StrikeV`
+_expression_. `StrikeV`
 
  _expression_ An expression that returns an '[OMathBorderBox](Word.OMathBorderBox.md)' object.
 

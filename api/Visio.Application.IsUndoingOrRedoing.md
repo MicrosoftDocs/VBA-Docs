@@ -1,5 +1,5 @@
 ---
-title: Application.IsUndoingOrRedoing Property (Visio)
+title: Application.IsUndoingOrRedoing property (Visio)
 keywords: vis_sdr.chm10013760
 f1_keywords:
 - vis_sdr.chm10013760
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.IsUndoingOrRedoing Property (Visio)
+# Application.IsUndoingOrRedoing property (Visio)
 
 Determines whether the current event handler is being called as a result of an  **Undo** or **Redo** action in the application. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsUndoingOrRedoing`
+_expression_. `IsUndoingOrRedoing`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

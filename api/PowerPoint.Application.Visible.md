@@ -1,5 +1,5 @@
 ---
-title: Application.Visible Property (PowerPoint)
+title: Application.Visible property (PowerPoint)
 keywords: vbapp10.chm502031
 f1_keywords:
 - vbapp10.chm502031
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Visible Property (PowerPoint)
+# Application.Visible property (PowerPoint)
 
 Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell.Units Property (Visio)
+title: Cell.Units property (Visio)
 keywords: vis_sdr.chm10114620
 f1_keywords:
 - vis_sdr.chm10114620
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.Units Property (Visio)
+# Cell.Units property (Visio)
 
 Indicates the unit of measure associated with a  **Cell** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Units`
+_expression_. `Units`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

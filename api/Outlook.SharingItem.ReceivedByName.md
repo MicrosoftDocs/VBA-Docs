@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReceivedByName Property (Outlook)
+title: SharingItem.ReceivedByName property (Outlook)
 keywords: vbaol11.chm645
 f1_keywords:
 - vbaol11.chm645
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReceivedByName Property (Outlook)
+# SharingItem.ReceivedByName property (Outlook)
 
 Returns a  **String** representing the display name of the true recipient for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the display name of the true recipient for th
 
 _expression_. `ReceivedByName`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

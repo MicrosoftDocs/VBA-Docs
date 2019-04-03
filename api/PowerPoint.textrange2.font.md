@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Font Property (PowerPoint)
+title: TextRange2.Font property (PowerPoint)
 ms.assetid: 3d47ff57-6622-4eaa-b8ff-b395e9757096
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.Font Property (PowerPoint)
+# TextRange2.Font property (PowerPoint)
 
 Returns a  **Font** object that represents character formatting for the **TextRange2** object. Read-only.
 
@@ -44,6 +44,6 @@ End With
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.OnOtherMachine Property (Outlook)
+title: RuleConditions.OnOtherMachine property (Outlook)
 keywords: vbaol11.chm2323
 f1_keywords:
 - vbaol11.chm2323
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.OnOtherMachine Property (Outlook)
+# RuleConditions.OnOtherMachine property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionOtherMachine**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCo
 
 _expression_. `OnOtherMachine`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: PostItem.UserProperties Property (Outlook)
+title: PostItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1538
 f1_keywords:
 - vbaol11.chm1538
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.UserProperties Property (Outlook)
+# PostItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 _expression_. `UserProperties`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

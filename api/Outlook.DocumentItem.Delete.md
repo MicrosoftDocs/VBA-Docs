@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Delete Method (Outlook)
+title: DocumentItem.Delete method (Outlook)
 keywords: vbaol11.chm1211
 f1_keywords:
 - vbaol11.chm1211
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Delete Method (Outlook)
+# DocumentItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
@@ -21,7 +21,7 @@ Removes the item from the folder that contains the item.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

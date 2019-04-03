@@ -1,5 +1,5 @@
 ---
-title: Page.Tags Property (Publisher)
+title: Page.Tags property (Publisher)
 keywords: vbapb10.chm393235
 f1_keywords:
 - vbapb10.chm393235
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Tags Property (Publisher)
+# Page.Tags property (Publisher)
 
 Returns a  **[Tags](Publisher.Tags.md)** collection representing tags or custom properties applied to a shape, shape range, page, or publication.
 
 
 ## Syntax
 
- _expression_. **Tags**
+ _expression_.**Tags**
 
  _expression_ A variable that represents a  **Page** object.
 

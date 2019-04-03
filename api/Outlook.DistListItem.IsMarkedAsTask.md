@@ -1,5 +1,5 @@
 ---
-title: DistListItem.IsMarkedAsTask Property (Outlook)
+title: DistListItem.IsMarkedAsTask property (Outlook)
 keywords: vbaol11.chm3037
 f1_keywords:
 - vbaol11.chm3037
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.IsMarkedAsTask Property (Outlook)
+# DistListItem.IsMarkedAsTask property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[DistListItem](Outlook.DistListItem.md)** is marked as a task. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[DistListItem](Outlook
 
 _expression_. `IsMarkedAsTask`
 
- _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
+ _expression_ An expression that returns a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also

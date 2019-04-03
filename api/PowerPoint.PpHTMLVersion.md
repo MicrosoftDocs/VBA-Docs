@@ -1,5 +1,5 @@
 ---
-title: PpHTMLVersion Enumeration (PowerPoint)
+title: PpHTMLVersion enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpHTMLVersion
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpHTMLVersion Enumeration (PowerPoint)
+# PpHTMLVersion enumeration (PowerPoint)
 
 Specifies the version of HTML for a published presentation.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.IsDataGraphicCallout Property (Visio)
+title: Shape.IsDataGraphicCallout property (Visio)
 ms.prod: visio
 api_name:
 - Visio.Shape.IsDataGraphicCallout
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.IsDataGraphicCallout Property (Visio)
+# Shape.IsDataGraphicCallout property (Visio)
 
 Specifies whether a shape is a data graphic callout. Read-only.
 
@@ -19,7 +19,7 @@ Specifies whether a shape is a data graphic callout. Read-only.
 
 ## Syntax
 
- _expression_. `IsDataGraphicCallout`
+_expression_. `IsDataGraphicCallout`
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

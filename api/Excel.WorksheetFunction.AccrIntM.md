@@ -21,7 +21,7 @@ Returns the accrued interest for a security that pays interest at maturity.
 
 _expression_. `AccrIntM`(`Arg1`, `Arg2`, `Arg3`, `Arg4`, `Arg5`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

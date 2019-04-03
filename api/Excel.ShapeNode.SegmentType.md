@@ -21,7 +21,7 @@ Returns a value that indicates whether the segment associated with the specified
 
 _expression_. `SegmentType`
 
-_expression_ A variable that represents a [ShapeNode](./Excel.ShapeNode.md) object.
+_expression_ A variable that represents a [ShapeNode](Excel.ShapeNode.md) object.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ Use the  **[SetSegmentType](Excel.ShapeNodes.SetSegmentType.md)** method to set 
 
 ## Example
 
-This example changes all straight segments to curved segments in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all straight segments to curved segments in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

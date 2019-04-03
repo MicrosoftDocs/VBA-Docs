@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Name Property (PowerPoint)
+title: ChartFont.Name property (PowerPoint)
 keywords: vbapp10.chm704007
 f1_keywords:
 - vbapp10.chm704007
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFont.Name Property (PowerPoint)
+# ChartFont.Name property (PowerPoint)
 
 Returns or sets the name of the object. Read/write  **String**.
 

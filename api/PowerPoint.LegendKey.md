@@ -1,5 +1,5 @@
 ---
-title: LegendKey Object (PowerPoint)
+title: LegendKey object (PowerPoint)
 keywords: vbapp10.chm712000
 f1_keywords:
 - vbapp10.chm712000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LegendKey Object (PowerPoint)
+# LegendKey object (PowerPoint)
 
 Represents a legend key in a chart legend.
 

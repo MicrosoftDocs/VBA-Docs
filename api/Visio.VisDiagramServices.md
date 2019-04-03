@@ -1,5 +1,5 @@
 ---
-title: VisDiagramServices Enumeration (Visio)
+title: VisDiagramServices enumeration (Visio)
 keywords: vis_sdr.chm70775
 f1_keywords:
 - vis_sdr.chm70775
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisDiagramServices Enumeration (Visio)
+# VisDiagramServices enumeration (Visio)
 
 Specifies constants that represent diagram services. These constants are passed to and returned by the  **[Document.DiagramServicesEnabled](Visio.DiagramServicesEnabled.md)** property.
 

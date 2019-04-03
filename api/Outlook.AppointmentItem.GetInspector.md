@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.GetInspector Property (Outlook)
+title: AppointmentItem.GetInspector property (Outlook)
 keywords: vbaol11.chm853
 f1_keywords:
 - vbaol11.chm853
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.GetInspector Property (Outlook)
+# AppointmentItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an insp
 
 _expression_. `GetInspector`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

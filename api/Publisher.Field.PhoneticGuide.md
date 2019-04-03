@@ -1,5 +1,5 @@
 ---
-title: Field.PhoneticGuide Property (Publisher)
+title: Field.PhoneticGuide property (Publisher)
 keywords: vbapb10.chm6094856
 f1_keywords:
 - vbapb10.chm6094856
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Field.PhoneticGuide Property (Publisher)
+# Field.PhoneticGuide property (Publisher)
 
 Returns a  **PhoneticGuide** object that represents the properties of phonetic text applied to a text range.
 
 
 ## Syntax
 
- _expression_. **PhoneticGuide**
+ _expression_.**PhoneticGuide**
 
  _expression_ A variable that represents a  **Field** object.
 

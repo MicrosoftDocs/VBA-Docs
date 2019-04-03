@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.Item Method (Outlook)
+title: OutlookBarShortcuts.Item method (Outlook)
 keywords: vbaol11.chm334
 f1_keywords:
 - vbaol11.chm334
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.Item Method (Outlook)
+# OutlookBarShortcuts.Item method (Outlook)
 
 Returns an  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object from the collection.
 
@@ -21,7 +21,7 @@ Returns an  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object from 
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
+_expression_ A variable that represents an [OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md) object.
 
 
 ## Parameters

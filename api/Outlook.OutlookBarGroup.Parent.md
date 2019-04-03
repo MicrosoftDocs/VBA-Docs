@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroup.Parent Property (Outlook)
+title: OutlookBarGroup.Parent property (Outlook)
 keywords: vbaol11.chm324
 f1_keywords:
 - vbaol11.chm324
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarGroup.Parent Property (Outlook)
+# OutlookBarGroup.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents an [OutlookBarGroup](./Outlook.OutlookBarGroup.md) object.
+_expression_ A variable that represents an [OutlookBarGroup](Outlook.OutlookBarGroup.md) object.
 
 
 ## See also

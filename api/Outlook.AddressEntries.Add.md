@@ -1,5 +1,5 @@
 ---
-title: AddressEntries.Add Method (Outlook)
+title: AddressEntries.Add method (Outlook)
 keywords: vbaol11.chm32
 f1_keywords:
 - vbaol11.chm32
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# AddressEntries.Add Method (Outlook)
+# AddressEntries.Add method (Outlook)
 
 Adds a new entry to the  **[AddressEntries](Outlook.AddressEntries.md)** collection.
 
 
 ## Syntax
 
-_expression_. `Add`( `_Type_` , `_Name_` , `_Address_` )
+_expression_.**Add**( `_Type_` , `_Name_` , `_Address_` )
 
- _expression_ An [AddressEntries](./Outlook.AddressEntries.md) object that represents the new entry.
+ _expression_ An [AddressEntries](Outlook.AddressEntries.md) object that represents the new entry.
 
 
 ## Parameters

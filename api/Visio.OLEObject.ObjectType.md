@@ -1,5 +1,5 @@
 ---
-title: OLEObject.ObjectType Property (Visio)
+title: OLEObject.ObjectType property (Visio)
 keywords: vis_sdr.chm15213960
 f1_keywords:
 - vis_sdr.chm15213960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEObject.ObjectType Property (Visio)
+# OLEObject.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents an [OLEObject](./Visio.OLEObject.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Series.Formula Property (PowerPoint)
+title: Series.Formula property (PowerPoint)
 keywords: vbapp10.chm65797
 f1_keywords:
 - vbapp10.chm65797
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.Formula Property (PowerPoint)
+# Series.Formula property (PowerPoint)
 
 Returns or sets the object's formula in A1-style notation and in the language of the macro. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_. `Formula`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

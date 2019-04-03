@@ -1,5 +1,5 @@
 ---
-title: CodeMask.Parent Property (Project)
+title: CodeMask.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.CodeMask.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CodeMask.Parent Property (Project)
+# CodeMask.Parent property (Project)
 
 Gets the parent of the  **CodeMask** object. Read-only **OutlineCode**.
 

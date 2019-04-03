@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.EmailAddress Property (Publisher)
+title: WebCommandButton.EmailAddress property (Publisher)
 keywords: vbapb10.chm3932167
 f1_keywords:
 - vbapb10.chm3932167
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebCommandButton.EmailAddress Property (Publisher)
+# WebCommandButton.EmailAddress property (Publisher)
 
 Sets or returns a  **String** representing the email address to use when processing Web form data. Read/write.
 
 
 ## Syntax
 
- _expression_. **EmailAddress**
+ _expression_.**EmailAddress**
 
  _expression_ A variable that represents an  **WebCommandButton** object.
 

@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Sensitivity Property (Outlook)
+title: RemoteItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1607
 f1_keywords:
 - vbaol11.chm1607
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Sensitivity Property (Outlook)
+# RemoteItem.Sensitivity property (Outlook)
 
 Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 _expression_. `Sensitivity`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks

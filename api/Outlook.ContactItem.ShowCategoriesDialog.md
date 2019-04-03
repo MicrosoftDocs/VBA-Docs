@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ShowCategoriesDialog Method (Outlook)
+title: ContactItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1084
 f1_keywords:
 - vbaol11.chm1084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.ShowCategoriesDialog Method (Outlook)
+# ContactItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
@@ -21,7 +21,7 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 
 _expression_. `ShowCategoriesDialog`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

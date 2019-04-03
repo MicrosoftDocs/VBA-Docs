@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.QueryCancelMasterDelete Event (Visio)
+title: DrawingControl.QueryCancelMasterDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelMasterDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.QueryCancelMasterDelete Event (Visio)
+# DrawingControl.QueryCancelMasterDelete event (Visio)
 
 Occurs before the application deletes a master in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

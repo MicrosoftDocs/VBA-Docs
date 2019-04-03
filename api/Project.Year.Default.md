@@ -1,5 +1,5 @@
 ---
-title: Year.Default Method (Project)
+title: Year.Default method (Project)
 ms.prod: project-server
 api_name:
 - Project.Year.Default
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Year.Default Method (Project)
+# Year.Default method (Project)
 
 Resets the  **Year** item of a resource calendar to the value in the corresponding value in the base calendar.
 
 
 ## Syntax
 
- _expression_. `Default`
+_expression_. `Default`
 
  _expression_ A variable that represents a [Year](./Project.Year.md) object.
 

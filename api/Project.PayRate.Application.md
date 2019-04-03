@@ -1,5 +1,5 @@
 ---
-title: PayRate.Application Property (Project)
+title: PayRate.Application property (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRate.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PayRate.Application Property (Project)
+# PayRate.Application property (Project)
 
 Gets the  **[Application](Project.Application.md)** object. Read-only **Application**.
 

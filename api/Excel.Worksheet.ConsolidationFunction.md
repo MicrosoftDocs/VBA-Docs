@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Worksheet.ConsolidationFunction property (Excel)
 
-Returns the function code used for the current consolidation. Can be one of the constants of  **[xlConsolidationFunction](Excel.XlConsolidationFunction.md)**. Read-only **Long**.
+Returns the function code used for the current consolidation. Can be one of the constants of  **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**. Read-only **Long**.
 
 
 ## Syntax
 
 _expression_. `ConsolidationFunction`
 
-_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
 
 
 ## Example

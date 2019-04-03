@@ -1,5 +1,5 @@
 ---
-title: Timing.RepeatCount Property (PowerPoint)
+title: Timing.RepeatCount property (PowerPoint)
 keywords: vbapp10.chm653007
 f1_keywords:
 - vbapp10.chm653007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Timing.RepeatCount Property (PowerPoint)
+# Timing.RepeatCount property (PowerPoint)
 
 Sets or returns the number of times to repeat an animation. Read/write.
 
 
 ## Syntax
 
- _expression_. `RepeatCount`
+_expression_. `RepeatCount`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

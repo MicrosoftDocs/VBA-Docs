@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.LocationInTable property (Excel)
 
-Returns a constant that describes the part of the  **[PivotTable](Excel.PivotTable.md)** report that contains the upper-left corner of the specified range. Can be one of the following **[xlLocationInTable](Excel.XlLocationInTable.md)**. constants. Read-only **Long**.
+Returns a constant that describes the part of the  **[PivotTable](Excel.PivotTable.md)** report that contains the upper-left corner of the specified range. Can be one of the following **[XlLocationInTable](Excel.XlLocationInTable.md)**. constants. Read-only **Long**.
 
 
 ## Syntax

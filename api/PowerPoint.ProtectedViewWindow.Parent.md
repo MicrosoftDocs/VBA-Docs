@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Parent Property (PowerPoint)
+title: ProtectedViewWindow.Parent property (PowerPoint)
 keywords: vbapp10.chm734002
 f1_keywords:
 - vbapp10.chm734002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Parent Property (PowerPoint)
+# ProtectedViewWindow.Parent property (PowerPoint)
 
 Returns the parent object for the specified object. Read-only.
 

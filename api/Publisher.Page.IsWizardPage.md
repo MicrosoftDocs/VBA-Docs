@@ -1,5 +1,5 @@
 ---
-title: Page.IsWizardPage Property (Publisher)
+title: Page.IsWizardPage property (Publisher)
 keywords: vbapb10.chm393271
 f1_keywords:
 - vbapb10.chm393271
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.IsWizardPage Property (Publisher)
+# Page.IsWizardPage property (Publisher)
 
 Returns  **True** if the specified page is a Microsoft Publisher wizard page. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **IsWizardPage**
+ _expression_.**IsWizardPage**
 
  _expression_ A variable that represents an  **Page** object.
 

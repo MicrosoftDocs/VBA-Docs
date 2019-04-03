@@ -1,5 +1,5 @@
 ---
-title: Shape.SetCenter Method (Visio)
+title: Shape.SetCenter method (Visio)
 keywords: vis_sdr.chm11216555
 f1_keywords:
 - vis_sdr.chm11216555
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.SetCenter Method (Visio)
+# Shape.SetCenter method (Visio)
 
 Moves a shape so that its pin is positioned at the coordinates represented by  _xPos_ and _yPos_. .
 
 
 ## Syntax
 
- _expression_. `SetCenter`( `_xPos_` , `_yPos_` )
+_expression_. `SetCenter`( `_xPos_` , `_yPos_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: WizardProperty.CurrentValueId Property (Publisher)
+title: WizardProperty.CurrentValueId property (Publisher)
 keywords: vbapb10.chm1572869
 f1_keywords:
 - vbapb10.chm1572869
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WizardProperty.CurrentValueId Property (Publisher)
+# WizardProperty.CurrentValueId property (Publisher)
 
 Returns or sets a  **Long** indicating the value of a setting in the specified publication design or Design Gallery object's wizard. Read/write.
 
 
 ## Syntax
 
- _expression_. **CurrentValueId**
+ _expression_.**CurrentValueId**
 
  _expression_ A variable that represents a  **WizardProperty** object.
 

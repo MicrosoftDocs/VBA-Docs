@@ -1,5 +1,5 @@
 ---
-title: PjResAssignOperation Enumeration (Project)
+title: PjResAssignOperation enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResAssignOperation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjResAssignOperation Enumeration (Project)
+# PjResAssignOperation enumeration (Project)
 
 Contains constants that specify the assignment of resources.
 

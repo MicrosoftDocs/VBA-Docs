@@ -1,5 +1,5 @@
 ---
-title: FromRssFeedRuleCondition.FromRssFeed Property (Outlook)
+title: FromRssFeedRuleCondition.FromRssFeed property (Outlook)
 keywords: vbaol11.chm3259
 f1_keywords:
 - vbaol11.chm3259
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FromRssFeedRuleCondition.FromRssFeed Property (Outlook)
+# FromRssFeedRuleCondition.FromRssFeed property (Outlook)
 
 Returns or sets an array of  **String** elements that represent the RSS subscriptions that are being evaluated by the rule condition. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an array of  **String** elements that represent the RSS subscrip
 
 _expression_. `FromRssFeed`
 
-_expression_ A variable that represents a [FromRssFeedRuleCondition](./Outlook.FromRssFeedRuleCondition.md) object.
+_expression_ A variable that represents a [FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md) object.
 
 
 ## Remarks

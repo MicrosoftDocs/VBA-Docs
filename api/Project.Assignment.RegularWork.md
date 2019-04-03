@@ -1,5 +1,5 @@
 ---
-title: Assignment.RegularWork Property (Project)
+title: Assignment.RegularWork property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.RegularWork
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.RegularWork Property (Project)
+# Assignment.RegularWork property (Project)
 
 Gets the amount of regular work for the assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `RegularWork`
+_expression_. `RegularWork`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

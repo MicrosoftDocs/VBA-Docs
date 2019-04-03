@@ -1,5 +1,5 @@
 ---
-title: Row.Select Method (PowerPoint)
+title: Row.Select method (PowerPoint)
 keywords: vbapp10.chm626004
 f1_keywords:
 - vbapp10.chm626004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row.Select Method (PowerPoint)
+# Row.Select method (PowerPoint)
 
 Selects the specified object.
 

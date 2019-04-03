@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.ReplyAll Event (Outlook)
+title: TaskRequestUpdateItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.ReplyAll
@@ -9,16 +9,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.ReplyAll Event (Outlook)
+# TaskRequestUpdateItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).
 
 
 ## Syntax
 
- _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
+_expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters

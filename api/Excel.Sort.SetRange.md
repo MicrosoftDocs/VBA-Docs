@@ -21,7 +21,7 @@ Sets the range over which the sort occurs.
 
 _expression_. `SetRange`( `_Rng_` )
 
-_expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## Parameters

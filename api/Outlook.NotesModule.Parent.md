@@ -1,5 +1,5 @@
 ---
-title: NotesModule.Parent Property (Outlook)
+title: NotesModule.Parent property (Outlook)
 keywords: vbaol11.chm2875
 f1_keywords:
 - vbaol11.chm2875
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NotesModule.Parent Property (Outlook)
+# NotesModule.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [NotesModule](./Outlook.NotesModule.md) object.
+_expression_ A variable that represents a [NotesModule](Outlook.NotesModule.md) object.
 
 
 ## See also

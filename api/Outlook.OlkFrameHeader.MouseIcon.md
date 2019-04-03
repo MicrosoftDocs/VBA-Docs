@@ -1,5 +1,5 @@
 ---
-title: OlkFrameHeader.MouseIcon Property (Outlook)
+title: OlkFrameHeader.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000466
 f1_keywords:
 - vbaol11.chm1000466
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkFrameHeader.MouseIcon Property (Outlook)
+# OlkFrameHeader.MouseIcon property (Outlook)
 
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 _expression_. `MouseIcon`
 
-_expression_ A variable that represents an [OlkFrameHeader](./Outlook.OlkFrameHeader.md) object.
+_expression_ A variable that represents an [OlkFrameHeader](Outlook.OlkFrameHeader.md) object.
 
 
 ## Remarks

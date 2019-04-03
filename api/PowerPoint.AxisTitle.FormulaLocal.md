@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.FormulaLocal Property (PowerPoint)
+title: AxisTitle.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm683026
 f1_keywords:
 - vbapp10.chm683026
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.FormulaLocal Property (PowerPoint)
+# AxisTitle.FormulaLocal property (PowerPoint)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write.
 
 
 ## Syntax
 
- _expression_. `FormulaLocal`
+_expression_. `FormulaLocal`
 
 _expression_ A variable that represents an [AxisTitle](./PowerPoint.AxisTitle.md) object.
 

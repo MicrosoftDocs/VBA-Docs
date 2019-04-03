@@ -1,5 +1,5 @@
 ---
-title: TimelineView.TimelineViewMode Property (Outlook)
+title: TimelineView.TimelineViewMode property (Outlook)
 keywords: vbaol11.chm2670
 f1_keywords:
 - vbaol11.chm2670
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.TimelineViewMode Property (Outlook)
+# TimelineView.TimelineViewMode property (Outlook)
 
 Returns or sets an  **[OlTimelineViewMode](Outlook.OlTimelineViewMode.md)** constant that indicates the view mode for the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `TimelineViewMode`
+_expression_. `TimelineViewMode`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Example

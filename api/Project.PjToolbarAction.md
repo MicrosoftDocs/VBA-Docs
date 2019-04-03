@@ -1,5 +1,5 @@
 ---
-title: PjToolbarAction Enumeration (Project)
+title: PjToolbarAction enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjToolbarAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjToolbarAction Enumeration (Project)
+# PjToolbarAction enumeration (Project)
 
 Contains constants that specify toolbar actions.
 

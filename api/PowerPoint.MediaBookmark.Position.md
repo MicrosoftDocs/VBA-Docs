@@ -1,5 +1,5 @@
 ---
-title: MediaBookmark.Position Property (PowerPoint)
+title: MediaBookmark.Position property (PowerPoint)
 keywords: vbapp10.chm729003
 f1_keywords:
 - vbapp10.chm729003
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaBookmark.Position Property (PowerPoint)
+# MediaBookmark.Position property (PowerPoint)
 
 Returns the time that is associated with the bookmark. Read-only.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
  _expression_ A variable that represents a [MediaBookmark](./PowerPoint.MediaBookmark.md) object.
 

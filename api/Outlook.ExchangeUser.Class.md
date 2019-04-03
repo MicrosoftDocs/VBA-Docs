@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Class Property (Outlook)
+title: ExchangeUser.Class property (Outlook)
 keywords: vbaol11.chm2062
 f1_keywords:
 - vbaol11.chm2062
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.Class Property (Outlook)
+# ExchangeUser.Class property (Outlook)
 
 Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumera
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## See also

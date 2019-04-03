@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Extend Method (PowerPoint)
+title: SeriesCollection.Extend method (PowerPoint)
 keywords: vbapp10.chm65763
 f1_keywords:
 - vbapp10.chm65763
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection.Extend Method (PowerPoint)
+# SeriesCollection.Extend method (PowerPoint)
 
 Adds new data points to an existing series collection.
 
 
 ## Syntax
 
- _expression_. `Extend`( `_Source_`, `_Rowcol_`, `_CategoryLabels_` )
+_expression_. `Extend`( `_Source_`, `_Rowcol_`, `_CategoryLabels_` )
 
  _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 
@@ -31,7 +31,7 @@ Adds new data points to an existing series collection.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**Variant**|The new data to be added to the  **SeriesCollection** object, represented as an A1-style range reference.|
-| _Rowcol_|Optional|**Variant**|One of the  **[xlRowCol](PowerPoint.XlRowCol.md)** enumeration values that specifies whether the new values are in the rows or columns of the given range source. If this argument is omitted, Microsoft Word attempts to determine where the values are by the size and orientation of the selected range or by the dimensions of the array.|
+| _Rowcol_|Optional|**Variant**|One of the  **[XlRowCol](PowerPoint.XlRowCol.md)** enumeration values that specifies whether the new values are in the rows or columns of the given range source. If this argument is omitted, Microsoft Word attempts to determine where the values are by the size and orientation of the selected range or by the dimensions of the array.|
 | _CategoryLabels_|Optional|**Variant**|**True** to have the first row or column contain the name of the category labels. **False** to have the first row or column contain the first data point of the series. If this argument is omitted, Word attempts to determine the location of the category label from the contents of the first row or column.|
 
 ## Remarks

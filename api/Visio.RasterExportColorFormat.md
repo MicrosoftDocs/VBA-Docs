@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportColorFormat Property (Visio)
+title: ApplicationSettings.RasterExportColorFormat property (Visio)
 keywords: vis_sdr.chm16262535
 f1_keywords:
 - vis_sdr.chm16262535
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportColorFormat Property (Visio)
+# ApplicationSettings.RasterExportColorFormat property (Visio)
 
 Determines the color format that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, JPG, PNG, or TIFF file. Read/write.
 
 
 ## Syntax
 
- _expression_. `RasterExportColorFormat`
+_expression_. `RasterExportColorFormat`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

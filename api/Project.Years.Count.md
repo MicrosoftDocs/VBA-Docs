@@ -1,5 +1,5 @@
 ---
-title: Years.Count Property (Project)
+title: Years.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Years.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Years.Count Property (Project)
+# Years.Count property (Project)
 
 Gets the number of items in the  **Years** collection. Read-only **Integer**.
 

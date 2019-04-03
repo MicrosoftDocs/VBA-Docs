@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Close Event (Outlook)
+title: TaskRequestDeclineItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Close Event (Outlook)
+# TaskRequestDeclineItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 
@@ -18,7 +18,7 @@ Occurs when the inspector associated with an item (which is an instance of the p
 
 _expression_. `Close`( `_Cancel_` )
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Project.ReportList Property (Project)
+title: Project.ReportList property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ReportList
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ReportList Property (Project)
+# Project.ReportList property (Project)
 
 Deprecated in Project. 
 
 
 ## Syntax
 
- _expression_. `ReportList`
+_expression_. `ReportList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

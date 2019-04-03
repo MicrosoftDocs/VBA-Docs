@@ -1,5 +1,5 @@
 ---
-title: RuleCondition.Parent Property (Outlook)
+title: RuleCondition.Parent property (Outlook)
 keywords: vbaol11.chm2328
 f1_keywords:
 - vbaol11.chm2328
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleCondition.Parent Property (Outlook)
+# RuleCondition.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [RuleCondition](./Outlook.RuleCondition.md) object.
+_expression_ A variable that represents a [RuleCondition](Outlook.RuleCondition.md) object.
 
 
 ## Remarks

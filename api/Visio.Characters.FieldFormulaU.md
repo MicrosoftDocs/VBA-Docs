@@ -1,5 +1,5 @@
 ---
-title: Characters.FieldFormulaU Property (Visio)
+title: Characters.FieldFormulaU property (Visio)
 keywords: vis_sdr.chm10251965
 f1_keywords:
 - vis_sdr.chm10251965
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.FieldFormulaU Property (Visio)
+# Characters.FieldFormulaU property (Visio)
 
 Returns the universal-syntax formula of the custom field represented by an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `FieldFormulaU`
+_expression_. `FieldFormulaU`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

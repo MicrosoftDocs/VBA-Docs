@@ -1,5 +1,5 @@
 ---
-title: Plates Object (Publisher)
+title: Plates object (Publisher)
 keywords: vbapb10.chm2883583
 f1_keywords:
 - vbapb10.chm2883583
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Plates Object (Publisher)
+# Plates object (Publisher)
 
 A collection of  **Plate** objects in a publication.
  
@@ -20,7 +20,7 @@ A collection of  **Plate** objects in a publication.
 
 ## Example
 
-The  **Plates** collection is made up of **Plate** objects for the various publication color modes. Each publication can only use one color mode. For example, you can't specify the spot-color mode in a procedure and then later specify the process-color mode. Use the **[CreatePlateCollection](./overview/Publisher.md)** method of the **[Document](Publisher.Document.md)** object to specify which color mode to use in a publication's plate collection. Use the **[Add](Publisher.Plates.Add.md)** method of the **Plates** collection to add a new plate to the **Plates** collection. This example creates a new spot-color plate collection and adds a plate to it.
+The  **Plates** collection is made up of **Plate** objects for the various publication color modes. Each publication can only use one color mode. For example, you can't specify the spot-color mode in a procedure and then later specify the process-color mode. Use the **[CreatePlateCollection](overview/Publisher.md)** method of the **[Document](Publisher.Document.md)** object to specify which color mode to use in a publication's plate collection. Use the **[Add](Publisher.Plates.Add.md)** method of the **Plates** collection to add a new plate to the **Plates** collection. This example creates a new spot-color plate collection and adds a plate to it.
  
 
  
@@ -37,7 +37,7 @@ Sub AddNewPlates()
 End Sub
 ```
 
-Use the  **[EnterColorMode](./overview/Publisher.md)** method of the **[Document](Publisher.Document.md)** object to the specify the color mode and the **Plates** collection to use with the color mode. Use the **[ColorMode](./overview/Publisher.md)** property to determine which color mode is in use in a publication. This example creates a spot-color plate collection, adds two plates to it, and then enters those plates into the spot-color mode.
+Use the  **[EnterColorMode](overview/Publisher.md)** method of the **[Document](Publisher.Document.md)** object to the specify the color mode and the **Plates** collection to use with the color mode. Use the **[ColorMode](overview/Publisher.md)** property to determine which color mode is in use in a publication. This example creates a spot-color plate collection, adds two plates to it, and then enters those plates into the spot-color mode.
  
 
  

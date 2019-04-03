@@ -1,5 +1,5 @@
 ---
-title: PayRate.Index Property (Project)
+title: PayRate.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRate.Index
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# PayRate.Index Property (Project)
+# PayRate.Index property (Project)
 
 Gets the index of a  **PayRate** object in the containing **PayRates** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 

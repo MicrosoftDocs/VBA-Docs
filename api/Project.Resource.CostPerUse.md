@@ -1,5 +1,5 @@
 ---
-title: Resource.CostPerUse Property (Project)
+title: Resource.CostPerUse property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.CostPerUse
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.CostPerUse Property (Project)
+# Resource.CostPerUse property (Project)
 
 Gets or sets the cost per use of a resource. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CostPerUse`
+_expression_. `CostPerUse`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

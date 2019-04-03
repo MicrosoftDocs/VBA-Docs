@@ -1,5 +1,5 @@
 ---
-title: PpFollowColors Enumeration (PowerPoint)
+title: PpFollowColors enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpFollowColors
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpFollowColors Enumeration (PowerPoint)
+# PpFollowColors enumeration (PowerPoint)
 
 Specifies the extent to which the colors in the specified object follow the slide's color scheme.
 

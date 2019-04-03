@@ -1,5 +1,5 @@
 ---
-title: Page.Master Property (Publisher)
+title: Page.Master property (Publisher)
 keywords: vbapb10.chm393222
 f1_keywords:
 - vbapb10.chm393222
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Master Property (Publisher)
+# Page.Master property (Publisher)
 
 Sets or returns a  **[Page](Publisher.Page.md)** object that represents the master page properties for the specified page.
 
 
 ## Syntax
 
- _expression_. **Master**
+ _expression_.**Master**
 
  _expression_ A variable that represents a  **Page** object.
 

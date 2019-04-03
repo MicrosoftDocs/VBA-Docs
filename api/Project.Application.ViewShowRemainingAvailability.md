@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowRemainingAvailability Method (Project)
+title: Application.ViewShowRemainingAvailability method (Project)
 keywords: vbapj.chm929
 f1_keywords:
 - vbapj.chm929
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ViewShowRemainingAvailability Method (Project)
+# Application.ViewShowRemainingAvailability method (Project)
 
 Displays remaining availability information in the active Resource Graph view.
 
 
 ## Syntax
 
- _expression_. `ViewShowRemainingAvailability`
+_expression_. `ViewShowRemainingAvailability`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

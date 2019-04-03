@@ -1,5 +1,5 @@
 ---
-title: Broadcast.State Property (PowerPoint)
+title: Broadcast.State property (PowerPoint)
 keywords: vbapp10.chm732010
 f1_keywords:
 - vbapp10.chm732010
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Broadcast.State Property (PowerPoint)
+# Broadcast.State property (PowerPoint)
 
-Returns an [MSOBroadcastState](./overview/Library-Reference/msobroadcaststate-enumeration-office.md) constant that describes the current broadcast state. Read-only.
+Returns an [MSOBroadcastState](overview/Library-Reference/msobroadcaststate-enumeration-office.md) constant that describes the current broadcast state. Read-only.
 
 
 ## Syntax
 
- _expression_. `State`
+_expression_. `State`
 
 _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 

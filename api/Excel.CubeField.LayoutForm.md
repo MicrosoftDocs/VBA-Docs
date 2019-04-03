@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CubeField.LayoutForm property (Excel)
 
-Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[xlLayoutFormType](Excel.XlLayoutFormType.md)**.
+Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[XlLayoutFormType](Excel.XlLayoutFormType.md)**.
 
 
 ## Syntax

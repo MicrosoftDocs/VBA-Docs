@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.MarginTop Property (Publisher)
+title: LayoutGuides.MarginTop property (Publisher)
 keywords: vbapb10.chm1114118
 f1_keywords:
 - vbapb10.chm1114118
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LayoutGuides.MarginTop Property (Publisher)
+# LayoutGuides.MarginTop property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the top edge of a cell, text frame, or page. Read/write.
 
 
 ## Syntax
 
- _expression_. **MarginTop**
+ _expression_.**MarginTop**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

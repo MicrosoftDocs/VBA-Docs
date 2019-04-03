@@ -1,5 +1,5 @@
 ---
-title: Menu.TypeSpecific1 Property (Visio)
+title: Menu.TypeSpecific1 property (Visio)
 keywords: vis_sdr.chm13114600
 f1_keywords:
 - vis_sdr.chm13114600
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Menu.TypeSpecific1 Property (Visio)
+# Menu.TypeSpecific1 property (Visio)
 
 Gets or sets the type of a menu. Read/write.
 
 
 ## Syntax
 
- _expression_. `TypeSpecific1`
+_expression_. `TypeSpecific1`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 

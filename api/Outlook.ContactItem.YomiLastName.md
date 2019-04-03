@@ -1,5 +1,5 @@
 ---
-title: ContactItem.YomiLastName Property (Outlook)
+title: ContactItem.YomiLastName property (Outlook)
 keywords: vbaol11.chm1078
 f1_keywords:
 - vbaol11.chm1078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.YomiLastName Property (Outlook)
+# ContactItem.YomiLastName property (Outlook)
 
 Returns or sets a  **String** indicating the Japanese phonetic rendering (yomigana) of the last name for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** indicating the Japanese phonetic rendering (yomiga
 
 _expression_. `YomiLastName`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

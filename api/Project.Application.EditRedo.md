@@ -1,5 +1,5 @@
 ---
-title: Application.EditRedo Method (Project)
+title: Application.EditRedo method (Project)
 keywords: vbapj.chm200
 f1_keywords:
 - vbapj.chm200
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EditRedo Method (Project)
+# Application.EditRedo method (Project)
 
 Redoes the top item on the redo stack.
 
 
 ## Syntax
 
- _expression_. `EditRedo`( `_fRedo_` )
+_expression_. `EditRedo`( `_fRedo_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

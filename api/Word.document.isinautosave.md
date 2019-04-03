@@ -12,12 +12,12 @@ localization_priority: Normal
 
 # Document.IsInAutosave property (Word)
 
-Returns  **False** if the most recent firing of the [Application.DocumentBeforeSave Event (Word)](Word.Application.DocumentBeforeSave.md) event was the result of a manual save by the user, and not an automatic save. Read-only.
+Returns  **False** if the most recent firing of the [Application.DocumentBeforeSave event (Word)](Word.Application.DocumentBeforeSave.md) event was the result of a manual save by the user, and not an automatic save. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsInAutosave`
+_expression_. `IsInAutosave`
 
  _expression_ A variable that represents a [Document](./Word.Document.md) object.
 

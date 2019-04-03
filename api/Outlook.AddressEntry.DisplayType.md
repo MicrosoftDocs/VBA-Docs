@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.DisplayType Property (Outlook)
+title: AddressEntry.DisplayType property (Outlook)
 keywords: vbaol11.chm2043
 f1_keywords:
 - vbaol11.chm2043
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntry.DisplayType Property (Outlook)
+# AddressEntry.DisplayType property (Outlook)
 
 Returns a constant belonging to the  **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration that describes the nature of the **[AddressEntry](Outlook.AddressEntry.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant belonging to the  **[OlDisplayType](Outlook.OlDisplayType.md)
 
 _expression_.**DisplayType**
 
-_expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## Remarks

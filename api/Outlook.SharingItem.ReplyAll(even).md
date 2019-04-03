@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReplyAll Event (Outlook)
+title: SharingItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ReplyAll
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReplyAll Event (Outlook)
+# SharingItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item, or when the **[ReplyAll](Outlook.SharingItem.ReplyAll(method).md)** method is called for the item, which is an instance of the parent object.
 
@@ -18,7 +18,7 @@ Occurs when the user selects the  **ReplyAll** action for an item, or when the *
 
 _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters

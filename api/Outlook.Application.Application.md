@@ -1,5 +1,5 @@
 ---
-title: Application.Application Property (Outlook)
+title: Application.Application property (Outlook)
 keywords: vbaol11.chm705
 f1_keywords:
 - vbaol11.chm705
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Application Property (Outlook)
+# Application.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## See also

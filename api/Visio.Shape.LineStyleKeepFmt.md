@@ -1,5 +1,5 @@
 ---
-title: Shape.LineStyleKeepFmt Property (Visio)
+title: Shape.LineStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11213850
 f1_keywords:
 - vis_sdr.chm11213850
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.LineStyleKeepFmt Property (Visio)
+# Shape.LineStyleKeepFmt property (Visio)
 
 Applies a line style to an object while preserving local formatting. Read/write.
 
 
 ## Syntax
 
- _expression_. `LineStyleKeepFmt`
+_expression_. `LineStyleKeepFmt`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

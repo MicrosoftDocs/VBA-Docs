@@ -1,5 +1,5 @@
 ---
-title: Application Object (PowerPoint)
+title: Application object (PowerPoint)
 keywords: vbapp10.chm504000
 f1_keywords:
 - vbapp10.chm504000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application Object (PowerPoint)
+# Application object (PowerPoint)
 
 Represents the entire Microsoft PowerPoint application. 
 
@@ -170,6 +170,6 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

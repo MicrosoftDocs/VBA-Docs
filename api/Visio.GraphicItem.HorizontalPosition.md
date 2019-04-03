@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.HorizontalPosition Property (Visio)
+title: GraphicItem.HorizontalPosition property (Visio)
 keywords: vis_sdr.chm16960440
 f1_keywords:
 - vis_sdr.chm16960440
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.HorizontalPosition Property (Visio)
+# GraphicItem.HorizontalPosition property (Visio)
 
 Gets or sets the horizontal position of the  **GraphicItem** object relative to the shape to which it is applied. Read/write.
 
@@ -22,7 +22,7 @@ Gets or sets the horizontal position of the  **GraphicItem** object relative to 
 
 ## Syntax
 
- _expression_. `HorizontalPosition`
+_expression_. `HorizontalPosition`
 
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 

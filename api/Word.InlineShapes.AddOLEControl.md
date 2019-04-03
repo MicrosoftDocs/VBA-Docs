@@ -19,7 +19,7 @@ Creates an ActiveX control (formerly known as an OLE control). Returns the  **[I
 
 ## Syntax
 
- _expression_. `AddOLEControl`( `_ClassType_` , `_Range_` )
+_expression_. `AddOLEControl`( `_ClassType_` , `_Range_` )
 
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
@@ -39,7 +39,7 @@ ActiveX controls are represented as either  **Shape** objects or **[InlineShape]
 
 
 
-For information about available ActiveX control class types, see [OLE Programmatic Identifiers](./overview/Word.md).
+For information about available ActiveX control class types, see [OLE Programmatic Identifiers](overview/Word.md).
 
 
 ## See also

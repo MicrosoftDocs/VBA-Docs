@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtColors Property (PowerPoint)
+title: Application.SmartArtColors property (PowerPoint)
 keywords: vbapp10.chm502063
 f1_keywords:
 - vbapp10.chm502063
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SmartArtColors Property (PowerPoint)
+# Application.SmartArtColors property (PowerPoint)
 
 Returns the SmartArt colors of the current  **Application** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SmartArtColors`
+_expression_. `SmartArtColors`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

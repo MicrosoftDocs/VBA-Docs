@@ -1,5 +1,5 @@
 ---
-title: Filter.Name Property (Project)
+title: Filter.Name property (Project)
 keywords: vbapj.chm132213
 f1_keywords:
 - vbapj.chm132213
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Filter.Name Property (Project)
+# Filter.Name property (Project)
 
 Gets the name of a  **Filter** object. Read/write **String**.
 

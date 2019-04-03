@@ -1,5 +1,5 @@
 ---
-title: CodeMaskLevel.Sequence Property (Project)
+title: CodeMaskLevel.Sequence property (Project)
 ms.prod: project-server
 api_name:
 - Project.CodeMaskLevel.Sequence
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# CodeMaskLevel.Sequence Property (Project)
+# CodeMaskLevel.Sequence property (Project)
 
 Gets or sets the type of character sequence in a code mask. Read/write  **PjCustomOutlineCodeSequence**.
 
 
 ## Syntax
 
- _expression_. `Sequence`
+_expression_. `Sequence`
 
  _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 

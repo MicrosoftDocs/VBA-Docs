@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.ObjectType Property (Visio)
+title: Hyperlink.ObjectType property (Visio)
 keywords: vis_sdr.chm15013960
 f1_keywords:
 - vis_sdr.chm15013960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.ObjectType Property (Visio)
+# Hyperlink.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

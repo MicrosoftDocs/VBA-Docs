@@ -1,5 +1,5 @@
 ---
-title: Results.ItemAdd Event (Outlook)
+title: Results.ItemAdd event (Outlook)
 keywords: vbaol11.chm514
 f1_keywords:
 - vbaol11.chm514
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Results.ItemAdd Event (Outlook)
+# Results.ItemAdd event (Outlook)
 
 Occurs when one or more items are added to the specified collection.
 
@@ -21,7 +21,7 @@ Occurs when one or more items are added to the specified collection.
 
 _expression_. `ItemAdd`( `_Item_` )
 
-_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Parameters

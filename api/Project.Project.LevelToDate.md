@@ -1,5 +1,5 @@
 ---
-title: Project.LevelToDate Property (Project)
+title: Project.LevelToDate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.LevelToDate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.LevelToDate Property (Project)
+# Project.LevelToDate property (Project)
 
 Gets or sets the ending date of a range in which overallocated resources are leveled. The default is the project finish date or the last entered date value. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `LevelToDate`
+_expression_. `LevelToDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

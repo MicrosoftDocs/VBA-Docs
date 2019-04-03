@@ -1,5 +1,5 @@
 ---
-title: PjBarShape Enumeration (Project)
+title: PjBarShape enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBarShape
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjBarShape Enumeration (Project)
+# PjBarShape enumeration (Project)
 
 Contains constants that specify the middle shape of a bar.
 

@@ -1,5 +1,5 @@
 ---
-title: Items.Class Property (Outlook)
+title: Items.Class property (Outlook)
 keywords: vbaol11.chm54
 f1_keywords:
 - vbaol11.chm54
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.Class Property (Outlook)
+# Items.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## See also

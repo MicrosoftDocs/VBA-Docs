@@ -1,5 +1,5 @@
 ---
-title: MouseEvent.Window Property (Visio)
+title: MouseEvent.Window property (Visio)
 keywords: vis_sdr.chm17151480
 f1_keywords:
 - vis_sdr.chm17151480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MouseEvent.Window Property (Visio)
+# MouseEvent.Window property (Visio)
 
 Returns the window associated with a  **MouseEvent** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Window`
+_expression_. `Window`
 
  _expression_ A variable that represents a [MouseEvent](./Visio.MouseEvent.md) object.
 

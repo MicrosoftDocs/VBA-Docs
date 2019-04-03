@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.GetNames Method (Visio)
+title: MasterShortcuts.GetNames method (Visio)
 keywords: vis_sdr.chm15916315
 f1_keywords:
 - vis_sdr.chm15916315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcuts.GetNames Method (Visio)
+# MasterShortcuts.GetNames method (Visio)
 
 Returns the names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNames`( `_localeSpecificNameArray()_` )
+_expression_. `GetNames`( `_localeSpecificNameArray()_` )
 
  _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) object.
 

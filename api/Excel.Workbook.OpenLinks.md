@@ -21,7 +21,7 @@ Opens the supporting documents for a link or links.
 
 _expression_. `OpenLinks`( `_Name_` , `_ReadOnly_` , `_Type_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
 
 
 ## Parameters
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the Microsoft Excel or DDE/OLE link, as returned from the  **[LinkSources](Excel.Workbook.LinkSources.md)** method.|
 | _ReadOnly_|Optional| **Variant**| **True** to open documents as read-only. The default value is **False**.|
-| _Type_|Optional| **Variant**|One of the constants of  **[xlLink](Excel.XlLink.md)** that specifies the link type.|
+| _Type_|Optional| **Variant**|One of the constants of  **[XlLink](Excel.XlLink.md)** that specifies the link type.|
 
 ## Example
 

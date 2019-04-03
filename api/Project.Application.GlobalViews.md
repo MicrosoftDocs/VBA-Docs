@@ -1,5 +1,5 @@
 ---
-title: Application.GlobalViews Property (Project)
+title: Application.GlobalViews property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.GlobalViews
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GlobalViews Property (Project)
+# Application.GlobalViews property (Project)
 
 Gets or sets a  **[Views](Project.View.md)** collection representing the views in the Global.mpt file. Read/write **Views**.
 
 
 ## Syntax
 
- _expression_. `GlobalViews`
+_expression_. `GlobalViews`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

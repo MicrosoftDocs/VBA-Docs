@@ -1,5 +1,5 @@
 ---
-title: Shape.DeleteSection Method (Visio)
+title: Shape.DeleteSection method (Visio)
 keywords: vis_sdr.chm11216175
 f1_keywords:
 - vis_sdr.chm11216175
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.DeleteSection Method (Visio)
+# Shape.DeleteSection method (Visio)
 
 Deletes a ShapeSheet section.
 
 
 ## Syntax
 
- _expression_. `DeleteSection`( `_Section_` )
+_expression_. `DeleteSection`( `_Section_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

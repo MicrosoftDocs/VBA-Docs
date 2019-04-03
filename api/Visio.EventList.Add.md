@@ -1,5 +1,5 @@
 ---
-title: EventList.Add Method (Visio)
+title: EventList.Add method (Visio)
 keywords: vis_sdr.chm12716665
 f1_keywords:
 - vis_sdr.chm12716665
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EventList.Add Method (Visio)
+# EventList.Add method (Visio)
 
 Adds an  **Event** object that runs an add-on when an event occurs. The **Event** object is added to the **EventList** collection of the source object whose events you want to receive.
 
 
 ## Syntax
 
- _expression_. `Add`( `_EventCode_` , `_Action_` , `_Target_` , `_TargetArgs_` )
+ _expression_.**Add**( `_EventCode_` , `_Action_` , `_Target_` , `_TargetArgs_` )
 
  _expression_ A variable that represents an [EventList](./Visio.EventList.md) collection.
 

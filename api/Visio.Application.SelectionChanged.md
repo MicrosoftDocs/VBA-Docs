@@ -1,5 +1,5 @@
 ---
-title: Application.SelectionChanged Event (Visio)
+title: Application.SelectionChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.SelectionChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectionChanged Event (Visio)
+# Application.SelectionChanged event (Visio)
 
 Occurs after a set of shapes selected in a window changes.
 

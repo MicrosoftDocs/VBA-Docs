@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.Index Property (Visio)
+title: GraphicItem.Index property (Visio)
 keywords: vis_sdr.chm16913695
 f1_keywords:
 - vis_sdr.chm16913695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GraphicItem.Index Property (Visio)
+# GraphicItem.Index property (Visio)
 
 Gets or sets the ordinal position of a  **GraphicItem** object in the **GraphicItems** collection of a data graphic master—a **Master** object of type **visTypeDataGraphic**. Read/write.
 
@@ -22,7 +22,7 @@ Gets or sets the ordinal position of a  **GraphicItem** object in the **GraphicI
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 

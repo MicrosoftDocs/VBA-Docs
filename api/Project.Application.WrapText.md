@@ -1,5 +1,5 @@
 ---
-title: Application.WrapText Method (Project)
+title: Application.WrapText method (Project)
 keywords: vbapj.chm708
 f1_keywords:
 - vbapj.chm708
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WrapText Method (Project)
+# Application.WrapText method (Project)
 
 Toggles the  **Wrap Text** setting in a column.
 

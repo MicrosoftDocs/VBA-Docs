@@ -17,7 +17,7 @@ Returns or sets a  **String** that specifies text in a **[ComboBox](Outlook.comb
 
 ## Syntax
 
-_expression_. **Text**
+_expression_.**Text**
 
 _expression_ A variable that represents a  **ComboBox** object.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Close Method (Outlook)
+title: TaskRequestDeclineItem.Close method (Outlook)
 keywords: vbaol11.chm1849
 f1_keywords:
 - vbaol11.chm1849
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Close Method (Outlook)
+# TaskRequestDeclineItem.Close method (Outlook)
 
 Closes and optionally saves changes to the displayed Outlook item.
 
@@ -21,7 +21,7 @@ Closes and optionally saves changes to the displayed Outlook item.
 
 _expression_. `Close`( `_SaveMode_` )
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

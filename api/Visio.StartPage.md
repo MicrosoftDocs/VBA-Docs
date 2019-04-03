@@ -16,9 +16,9 @@ Specifies the page number of the first page in the range when you save a range o
 
 ## Syntax
 
- _expression_. **StartPage**
+ _expression_.**StartPage**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value

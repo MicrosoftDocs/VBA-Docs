@@ -1,5 +1,5 @@
 ---
-title: Font.Subscript Property (PowerPoint)
+title: Font.Subscript property (PowerPoint)
 keywords: vbapp10.chm575009
 f1_keywords:
 - vbapp10.chm575009
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Subscript Property (PowerPoint)
+# Font.Subscript property (PowerPoint)
 
 Determines whether the specified text is subscript. Read/write.
 
 
 ## Syntax
 
- _expression_. `Subscript`
+_expression_. `Subscript`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 

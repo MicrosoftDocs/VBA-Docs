@@ -1,5 +1,5 @@
 ---
-title: Table.Application Property (Outlook)
+title: Table.Application property (Outlook)
 keywords: vbaol11.chm2224
 f1_keywords:
 - vbaol11.chm2224
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Table.Application Property (Outlook)
+# Table.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[Table](Outlook.Table.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Application.ReassignSelectedAssns Method (Project)
+title: Application.ReassignSelectedAssns method (Project)
 keywords: vbapj.chm1512
 f1_keywords:
 - vbapj.chm1512
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ReassignSelectedAssns Method (Project)
+# Application.ReassignSelectedAssns method (Project)
 
 Reassigns the selected assignments in the Team Planner view.
 
 
 ## Syntax
 
- _expression_. `ReassignSelectedAssns`( `_ResourceID_` )
+_expression_. `ReassignSelectedAssns`( `_ResourceID_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

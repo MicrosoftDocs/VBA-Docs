@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent Object (Visio)
+title: KeyboardEvent object (Visio)
 keywords: vis_sdr.chm52055
 f1_keywords:
 - vis_sdr.chm52055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# KeyboardEvent Object (Visio)
+# KeyboardEvent object (Visio)
 
 The object passed to  **VisEventProc** as the subject of **KeyDown**, **KeyPress**, and **KeyUp** events.
 

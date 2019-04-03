@@ -21,7 +21,7 @@ Removes a reference to a PivotTable from the  **[SlicerPivotTables](Excel.Slicer
 
 _expression_. `RemovePivotTable`( `_PivotTable_` )
 
-_expression_ A variable that represents a [SlicerPivotTables](./Excel.SlicerPivotTables.md) object.
+_expression_ A variable that represents a [SlicerPivotTables](Excel.SlicerPivotTables.md) object.
 
 
 ## Parameters

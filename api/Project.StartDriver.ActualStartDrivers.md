@@ -1,5 +1,5 @@
 ---
-title: StartDriver.ActualStartDrivers Property (Project)
+title: StartDriver.ActualStartDrivers property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.ActualStartDrivers
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# StartDriver.ActualStartDrivers Property (Project)
+# StartDriver.ActualStartDrivers property (Project)
 
 Gets the  **[ActualStartDrivers](Project.actualstartdrivers.md)** collection for the task start driver. Read-only **ActualStartDrivers**.
 
 
 ## Syntax
 
- _expression_. `ActualStartDrivers`
+_expression_. `ActualStartDrivers`
 
  _expression_ A variable that represents a [StartDriver](./Project.StartDriver.md) object.
 

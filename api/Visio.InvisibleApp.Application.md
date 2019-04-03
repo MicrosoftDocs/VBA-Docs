@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Application Property (Visio)
+title: InvisibleApp.Application property (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Application Property (Visio)
+# InvisibleApp.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 

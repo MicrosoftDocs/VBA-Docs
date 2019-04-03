@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Preserved Property (PowerPoint)
+title: CustomLayout.Preserved property (PowerPoint)
 keywords: vbapp10.chm672015
 f1_keywords:
 - vbapp10.chm672015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout.Preserved Property (PowerPoint)
+# CustomLayout.Preserved property (PowerPoint)
 
 Determines whether the specified custom layout is preserved from changes. Read/write.
 
 
 ## Syntax
 
- _expression_. `Preserved`
+_expression_. `Preserved`
 
 _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: SplitParts.Parent Property (Project)
+title: SplitParts.Parent property (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitParts.Parent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitParts.Parent Property (Project)
+# SplitParts.Parent property (Project)
 
 Gets the parent of the  **SplitParts** object. Read-only **Task**.
 

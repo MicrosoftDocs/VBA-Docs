@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.FaceID Property (Visio)
+title: ToolbarItem.FaceID property (Visio)
 keywords: vis_sdr.chm13513495
 f1_keywords:
 - vis_sdr.chm13513495
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItem.FaceID Property (Visio)
+# ToolbarItem.FaceID property (Visio)
 
 Gets or sets the icon for an item. Read/write.
 
 
 ## Syntax
 
- _expression_. `FaceID`
+_expression_. `FaceID`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Name Property (Visio)
+title: Shape.Name property (Visio)
 keywords: vis_sdr.chm11213930
 f1_keywords:
 - vis_sdr.chm11213930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Name Property (Visio)
+# Shape.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

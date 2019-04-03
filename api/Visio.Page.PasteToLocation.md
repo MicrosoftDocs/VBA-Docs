@@ -1,5 +1,5 @@
 ---
-title: Page.PasteToLocation Method (Visio)
+title: Page.PasteToLocation method (Visio)
 keywords: vis_sdr.chm10962120
 f1_keywords:
 - vis_sdr.chm10962120
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.PasteToLocation Method (Visio)
+# Page.PasteToLocation method (Visio)
 
 Pastes the shape to the specified location on the page.
 
 
 ## Syntax
 
- _expression_. `PasteToLocation`( `_xPos_` , `_yPos_` , `_Flags_` )
+_expression_. `PasteToLocation`( `_xPos_` , `_yPos_` , `_Flags_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

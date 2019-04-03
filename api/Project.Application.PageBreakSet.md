@@ -1,5 +1,5 @@
 ---
-title: Application.PageBreakSet Method (Project)
+title: Application.PageBreakSet method (Project)
 keywords: vbapj.chm934
 f1_keywords:
 - vbapj.chm934
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PageBreakSet Method (Project)
+# Application.PageBreakSet method (Project)
 
 Sets a page break in the active row.
 
 
 ## Syntax
 
- _expression_. `PageBreakSet`
+_expression_. `PageBreakSet`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

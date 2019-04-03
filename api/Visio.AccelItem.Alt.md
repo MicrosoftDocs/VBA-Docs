@@ -1,5 +1,5 @@
 ---
-title: AccelItem.Alt Property (Visio)
+title: AccelItem.Alt property (Visio)
 keywords: vis_sdr.chm14513080
 f1_keywords:
 - vis_sdr.chm14513080
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AccelItem.Alt Property (Visio)
+# AccelItem.Alt property (Visio)
 
 Determines whether the ALT key is a modifier for an accelerator. Read/write.
 
 
 ## Syntax
 
- _expression_. `Alt`
+_expression_. `Alt`
 
  _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 

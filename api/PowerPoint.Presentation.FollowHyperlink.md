@@ -1,5 +1,5 @@
 ---
-title: Presentation.FollowHyperlink Method (PowerPoint)
+title: Presentation.FollowHyperlink method (PowerPoint)
 keywords: vbapp10.chm583030
 f1_keywords:
 - vbapp10.chm583030
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.FollowHyperlink Method (PowerPoint)
+# Presentation.FollowHyperlink method (PowerPoint)
 
 Displays a cached document, if it has already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document and displays it in the appropriate application.
 
 
 ## Syntax
 
- _expression_. `FollowHyperlink`( `_Address_`, `_SubAddress_`, `_NewWindow_`, `_AddHistory_`, `_ExtraInfo_`, `_Method_`, `_HeaderInfo_` )
+_expression_. `FollowHyperlink`( `_Address_`, `_SubAddress_`, `_NewWindow_`, `_AddHistory_`, `_ExtraInfo_`, `_Method_`, `_HeaderInfo_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

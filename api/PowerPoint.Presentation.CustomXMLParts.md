@@ -1,5 +1,5 @@
 ---
-title: Presentation.CustomXMLParts Property (PowerPoint)
+title: Presentation.CustomXMLParts property (PowerPoint)
 keywords: vbapp10.chm583103
 f1_keywords:
 - vbapp10.chm583103
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.CustomXMLParts Property (PowerPoint)
+# Presentation.CustomXMLParts property (PowerPoint)
 
 Returns a  **[CustomXMLParts](Office.CustomXMLParts.md)** object that represents the collection of custom XML parts associated with the specified **Presentation** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomXMLParts`
+_expression_. `CustomXMLParts`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.SectionProperties Property (PowerPoint)
+title: Presentation.SectionProperties property (PowerPoint)
 keywords: vbapp10.chm583111
 f1_keywords:
 - vbapp10.chm583111
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.SectionProperties Property (PowerPoint)
+# Presentation.SectionProperties property (PowerPoint)
 
 Returns a  **SectionProperties** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SectionProperties`
+_expression_. `SectionProperties`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

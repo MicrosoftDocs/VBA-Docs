@@ -1,5 +1,5 @@
 ---
-title: CostRateTable.Name Property (Project)
+title: CostRateTable.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTable.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# CostRateTable.Name Property (Project)
+# CostRateTable.Name property (Project)
 
 Gets the name of a  **CostRateTable** object. Read-only **String**.
 

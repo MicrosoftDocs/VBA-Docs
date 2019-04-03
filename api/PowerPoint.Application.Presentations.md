@@ -1,5 +1,5 @@
 ---
-title: Application.Presentations Property (PowerPoint)
+title: Application.Presentations property (PowerPoint)
 keywords: vbapp10.chm502001
 f1_keywords:
 - vbapp10.chm502001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Presentations Property (PowerPoint)
+# Application.Presentations property (PowerPoint)
 
 Returns a  **[Presentations](PowerPoint.Presentations.md)** collection that represents all open presentations. Read-only.
 
 
 ## Syntax
 
- _expression_. `Presentations`
+_expression_. `Presentations`
 
 _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 

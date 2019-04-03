@@ -1,5 +1,5 @@
 ---
-title: Exception.Finish Property (Project)
+title: Exception.Finish property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Finish
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Exception.Finish Property (Project)
+# Exception.Finish property (Project)
 
 Gets or sets the finish date of an exception. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Finish`
+_expression_. `Finish`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

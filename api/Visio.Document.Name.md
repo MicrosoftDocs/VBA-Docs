@@ -1,5 +1,5 @@
 ---
-title: Document.Name Property (Visio)
+title: Document.Name property (Visio)
 keywords: vis_sdr.chm10513930
 f1_keywords:
 - vis_sdr.chm10513930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Name Property (Visio)
+# Document.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

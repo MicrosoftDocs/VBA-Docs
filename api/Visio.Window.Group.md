@@ -1,5 +1,5 @@
 ---
-title: Window.Group Method (Visio)
+title: Window.Group method (Visio)
 ms.prod: visio
 api_name:
 - Visio.Window.Group
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Window.Group Method (Visio)
+# Window.Group method (Visio)
 
 This object, member, or enumeration is deprecated and is not intended to be used in your code. Groups the objects that are selected in a selection.
 
@@ -21,7 +21,7 @@ Version Added: Visio 2.0
 
 ### Syntax
 
- _expression_. `Group`
+_expression_. `Group`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

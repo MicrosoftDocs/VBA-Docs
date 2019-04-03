@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.RuleSetValidated Event (Visio)
+title: InvisibleApp.RuleSetValidated event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.RuleSetValidated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.RuleSetValidated Event (Visio)
+# InvisibleApp.RuleSetValidated event (Visio)
 
 Occurs when a rule set is validated.
 

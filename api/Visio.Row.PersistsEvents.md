@@ -1,5 +1,5 @@
 ---
-title: Row.PersistsEvents Property (Visio)
+title: Row.PersistsEvents property (Visio)
 keywords: vis_sdr.chm15814080
 f1_keywords:
 - vis_sdr.chm15814080
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.PersistsEvents Property (Visio)
+# Row.PersistsEvents property (Visio)
 
 Indicates whether an object is capable of containing persistent events in its  **EventList** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `PersistsEvents`
+_expression_. `PersistsEvents`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

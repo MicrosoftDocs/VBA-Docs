@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeAutoLetterWizard`
+_expression_. `AutoFormatAsYouTypeAutoLetterWizard`
 
  _expression_ Required. A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 

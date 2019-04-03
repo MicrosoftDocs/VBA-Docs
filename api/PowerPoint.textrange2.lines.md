@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Lines Property (PowerPoint)
+title: TextRange2.Lines property (PowerPoint)
 ms.assetid: 09b52bda-e1ab-4cf2-bf38-25a156bf4c2e
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.Lines Property (PowerPoint)
+# TextRange2.Lines property (PowerPoint)
 
 Returns a TextRange2 object that represents the specified subset of text lines. Read-only.
 
 
 ## Syntax
 
- _expression_. `Lines`( `_Start_`, `_Length_` )
+_expression_. `Lines`( `_Start_`, `_Length_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 
@@ -62,6 +62,6 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

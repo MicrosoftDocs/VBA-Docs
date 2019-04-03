@@ -1,5 +1,5 @@
 ---
-title: ViewsSingle.Count Property (Project)
+title: ViewsSingle.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewsSingle.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ViewsSingle.Count Property (Project)
+# ViewsSingle.Count property (Project)
 
 Gets the number of items in the  **ViewsSingle** collection. Read-only **Long**. .
 

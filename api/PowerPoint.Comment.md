@@ -1,5 +1,5 @@
 ---
-title: Comment Object (PowerPoint)
+title: Comment object (PowerPoint)
 keywords: vbapp10.chm642000
 f1_keywords:
 - vbapp10.chm642000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Comment Object (PowerPoint)
+# Comment object (PowerPoint)
 
 Represents a comment on a given slide or slide range. The  **Comment** object is a member of the **[Comments](PowerPoint.Comments.md)** collection object.
 

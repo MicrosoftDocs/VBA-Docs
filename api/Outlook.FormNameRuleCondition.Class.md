@@ -1,5 +1,5 @@
 ---
-title: FormNameRuleCondition.Class Property (Outlook)
+title: FormNameRuleCondition.Class property (Outlook)
 keywords: vbaol11.chm2449
 f1_keywords:
 - vbaol11.chm2449
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormNameRuleCondition.Class Property (Outlook)
+# FormNameRuleCondition.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [FormNameRuleCondition](./Outlook.FormNameRuleCondition.md) object.
+_expression_ A variable that represents a [FormNameRuleCondition](Outlook.FormNameRuleCondition.md) object.
 
 
 ## See also

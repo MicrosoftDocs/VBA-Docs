@@ -1,5 +1,5 @@
 ---
-title: TextRange.Font Property (Publisher)
+title: TextRange.Font property (Publisher)
 keywords: vbapb10.chm5308419
 f1_keywords:
 - vbapb10.chm5308419
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Font Property (Publisher)
+# TextRange.Font property (Publisher)
 
 Sets or returns a  **[Font](Publisher.Font.md)** object that represents character formatting attributes applied to the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Font**
+ _expression_.**Font**
 
  _expression_ A variable that represents a  **TextRange** object.
 

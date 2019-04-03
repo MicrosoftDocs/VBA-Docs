@@ -1,5 +1,5 @@
 ---
-title: ScaleEffect.ToY Property (PowerPoint)
+title: ScaleEffect.ToY property (PowerPoint)
 keywords: vbapp10.chm660008
 f1_keywords:
 - vbapp10.chm660008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ScaleEffect.ToY Property (PowerPoint)
+# ScaleEffect.ToY property (PowerPoint)
 
 Returns or sets a  **Single** that represents the ending height of a **[ScaleEffect](PowerPoint.ScaleEffect.md)** object, specified as a percentage of the screen width. Read/write.
 
 
 ## Syntax
 
- _expression_. `ToY`
+_expression_. `ToY`
 
  _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 

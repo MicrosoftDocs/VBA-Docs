@@ -19,9 +19,9 @@ Sets the location of the node specified by Index.
 
 ## Syntax
 
- _expression_. `SetPosition`( `_Index_` , `_X1_` , `_Y1_` )
+_expression_. `SetPosition`( `_Index_` , `_X1_` , `_Y1_` )
 
- _expression_ Required. A variable that represents a '[ShapeNodes](Word.shapenodes.md)' collection.
+ _expression_ Required. A variable that represents a **[ShapeNodes](Word.shapenodes.md)** collection.
 
 
 ## Parameters

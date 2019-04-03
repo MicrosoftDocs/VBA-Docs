@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShows.Item Method (PowerPoint)
+title: NamedSlideShows.Item method (PowerPoint)
 keywords: vbapp10.chm515003
 f1_keywords:
 - vbapp10.chm515003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShows.Item Method (PowerPoint)
+# NamedSlideShows.Item method (PowerPoint)
 
 Returns a single  **NamedSlideShow** object from the specified **NamedSlideShows** collection.
 

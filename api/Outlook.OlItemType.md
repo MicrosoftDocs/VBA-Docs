@@ -1,5 +1,5 @@
 ---
-title: OlItemType Enumeration (Outlook)
+title: OlItemType enumeration (Outlook)
 keywords: vbaol11.chm3064
 f1_keywords:
 - vbaol11.chm3064
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlItemType Enumeration (Outlook)
+# OlItemType enumeration (Outlook)
 
 Indicates the Outlook item type.
 

@@ -1,5 +1,5 @@
 ---
-title: View.Reset Method (Outlook)
+title: View.Reset method (Outlook)
 keywords: vbaol11.chm2487
 f1_keywords:
 - vbaol11.chm2487
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# View.Reset Method (Outlook)
+# View.Reset method (Outlook)
 
 Resets a built-in Microsoft Outlook view to its original settings.
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
-_expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Remarks

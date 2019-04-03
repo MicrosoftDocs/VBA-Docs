@@ -1,5 +1,5 @@
 ---
-title: DistListItem.UnRead Property (Outlook)
+title: DistListItem.UnRead property (Outlook)
 keywords: vbaol11.chm1138
 f1_keywords:
 - vbaol11.chm1138
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.UnRead Property (Outlook)
+# DistListItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the Outlook item has not been opened (read). Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 
 _expression_. `UnRead`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Color.Green Property (Visio)
+title: Color.Green property (Visio)
 keywords: vis_sdr.chm12213610
 f1_keywords:
 - vis_sdr.chm12213610
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Color.Green Property (Visio)
+# Color.Green property (Visio)
 
 Gets or sets the intensity of the green component of a  **Color** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Green`
+_expression_. `Green`
 
  _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 

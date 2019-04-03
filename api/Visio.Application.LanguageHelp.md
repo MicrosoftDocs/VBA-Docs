@@ -1,5 +1,5 @@
 ---
-title: Application.LanguageHelp Property (Visio)
+title: Application.LanguageHelp property (Visio)
 keywords: vis_sdr.chm10051700
 f1_keywords:
 - vis_sdr.chm10051700
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.LanguageHelp Property (Visio)
+# Application.LanguageHelp property (Visio)
 
 Represents the language ID of the Help in the version of the Microsoft Visio instance represented by the parent object. Read-only.
 
 
 ## Syntax
 
- _expression_. `LanguageHelp`
+_expression_. `LanguageHelp`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

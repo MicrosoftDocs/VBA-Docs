@@ -1,5 +1,5 @@
 ---
-title: Page.Footer Property (Publisher)
+title: Page.Footer property (Publisher)
 keywords: vbapb10.chm393248
 f1_keywords:
 - vbapb10.chm393248
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.Footer Property (Publisher)
+# Page.Footer property (Publisher)
 
 Returns a  **HeaderFooter** object representing the footer of the specified **Page** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Footer**
+ _expression_.**Footer**
 
  _expression_ A variable that represents a  **Page** object.
 

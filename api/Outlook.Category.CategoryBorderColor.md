@@ -1,5 +1,5 @@
 ---
-title: Category.CategoryBorderColor Property (Outlook)
+title: Category.CategoryBorderColor property (Outlook)
 keywords: vbaol11.chm3266
 f1_keywords:
 - vbaol11.chm3266
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Category.CategoryBorderColor Property (Outlook)
+# Category.CategoryBorderColor property (Outlook)
 
 Returns an  **OLE_COLOR** value that represents the border color of the color swatch displayed for a **[Category](Outlook.Category.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **OLE_COLOR** value that represents the border color of the color sw
 
 _expression_. `CategoryBorderColor`
 
-_expression_ A variable that represents a [Category](./Outlook.Category.md) object.
+_expression_ A variable that represents a [Category](Outlook.Category.md) object.
 
 
 ## Remarks

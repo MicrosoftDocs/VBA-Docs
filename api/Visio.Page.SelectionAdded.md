@@ -1,5 +1,5 @@
 ---
-title: Page.SelectionAdded Event (Visio)
+title: Page.SelectionAdded event (Visio)
 keywords: vis_sdr.chm10919215
 f1_keywords:
 - vis_sdr.chm10919215
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.SelectionAdded Event (Visio)
+# Page.SelectionAdded event (Visio)
 
 Occurs after one or more shapes are added to a document.
 

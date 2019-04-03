@@ -1,5 +1,5 @@
 ---
-title: Selection.Copy Method (Visio)
+title: Selection.Copy method (Visio)
 keywords: vis_sdr.chm11151010
 f1_keywords:
 - vis_sdr.chm11151010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Copy Method (Visio)
+# Selection.Copy method (Visio)
 
 Copies a selection to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Flags_` )
+_expression_. `Copy`( `_Flags_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

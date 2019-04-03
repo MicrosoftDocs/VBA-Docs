@@ -1,5 +1,5 @@
 ---
-title: Table Object (Project)
+title: Table object (Project)
 ms.prod: project-server
 api_name:
 - Project.Table
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Table Object (Project)
+# Table object (Project)
 
 
 

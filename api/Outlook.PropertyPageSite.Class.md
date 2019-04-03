@@ -1,5 +1,5 @@
 ---
-title: PropertyPageSite.Class Property (Outlook)
+title: PropertyPageSite.Class property (Outlook)
 keywords: vbaol11.chm386
 f1_keywords:
 - vbaol11.chm386
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPageSite.Class Property (Outlook)
+# PropertyPageSite.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [PropertyPageSite](./Outlook.PropertyPageSite.md) object.
+_expression_ A variable that represents a [PropertyPageSite](Outlook.PropertyPageSite.md) object.
 
 
 ## See also

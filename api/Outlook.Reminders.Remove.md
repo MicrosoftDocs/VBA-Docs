@@ -1,5 +1,5 @@
 ---
-title: Reminders.Remove Method (Outlook)
+title: Reminders.Remove method (Outlook)
 keywords: vbaol11.chm572
 f1_keywords:
 - vbaol11.chm572
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.Remove Method (Outlook)
+# Reminders.Remove method (Outlook)
 
 Removes an object from the collection.
 
@@ -21,7 +21,7 @@ Removes an object from the collection.
 
 _expression_. `Remove` `_Index_`
 
-_expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Application.EditCopy Method (Project)
+title: Application.EditCopy method (Project)
 keywords: vbapj.chm203
 f1_keywords:
 - vbapj.chm203
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EditCopy Method (Project)
+# Application.EditCopy method (Project)
 
 Copies data.
 
 
 ## Syntax
 
- _expression_. `EditCopy`
+_expression_. `EditCopy`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Pane.View Method (Project)
+title: Pane.View method (Project)
 ms.prod: project-server
 api_name:
 - Project.Pane.View
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Pane.View Method (Project)
+# Pane.View method (Project)
 
 Returns the active  **View** object.
 
 
 ## Syntax
 
- _expression_. `View`
+_expression_. `View`
 
  _expression_ A variable that represents a [Pane](./Project.Pane.md) object.
 

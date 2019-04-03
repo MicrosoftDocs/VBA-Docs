@@ -1,5 +1,5 @@
 ---
-title: JournalItem.UserProperties Property (Outlook)
+title: JournalItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1256
 f1_keywords:
 - vbaol11.chm1256
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.UserProperties Property (Outlook)
+# JournalItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 _expression_. `UserProperties`
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.GetExchangeUser Method (Outlook)
+title: ExchangeDistributionList.GetExchangeUser method (Outlook)
 keywords: vbaol11.chm2126
 f1_keywords:
 - vbaol11.chm2126
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.GetExchangeUser Method (Outlook)
+# ExchangeDistributionList.GetExchangeUser method (Outlook)
 
 Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object does not correspond to an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
@@ -21,7 +21,7 @@ Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeDistribut
 
 _expression_. `GetExchangeUser`
 
-_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Return value

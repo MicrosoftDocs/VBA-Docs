@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.ConversationIndex Property (Outlook)
+title: TaskRequestUpdateItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1927
 f1_keywords:
 - vbaol11.chm1927
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.ConversationIndex Property (Outlook)
+# TaskRequestUpdateItem.ConversationIndex property (Outlook)
 
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
 
 
 ## Syntax
 
- _expression_. `ConversationIndex`
+_expression_. `ConversationIndex`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

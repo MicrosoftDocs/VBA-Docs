@@ -1,5 +1,5 @@
 ---
-title: Application.BoxCellEditEx Method (Project)
+title: Application.BoxCellEditEx method (Project)
 keywords: vbapj.chm2156
 f1_keywords:
 - vbapj.chm2156
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.BoxCellEditEx Method (Project)
+# Application.BoxCellEditEx method (Project)
 
 Sets the properties of an individual cell in a data template for a Network Diagram view (PERT chart), where the font color can be specified with a hexadecimal value.
 
 
 ## Syntax
 
- _expression_. `BoxCellEditEx`( `_Name_`, `_Cell_`, `_FieldName_`, `_Font_`, `_FontSize_`, `_FontColor_`, `_Bold_`, `_Italic_`, `_Underline_`, `_HorizontalAlignment_`, `_VerticalAlignment_`, `_TextLineLimit_`, `_ShowLabel_`, `_Label_`, `_DateFormat_` )
+_expression_. `BoxCellEditEx`( `_Name_`, `_Cell_`, `_FieldName_`, `_Font_`, `_FontSize_`, `_FontColor_`, `_Bold_`, `_Italic_`, `_Underline_`, `_HorizontalAlignment_`, `_VerticalAlignment_`, `_TextLineLimit_`, `_ShowLabel_`, `_Label_`, `_DateFormat_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

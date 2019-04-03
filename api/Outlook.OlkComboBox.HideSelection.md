@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.HideSelection Property (Outlook)
+title: OlkComboBox.HideSelection property (Outlook)
 keywords: vbaol11.chm1000204
 f1_keywords:
 - vbaol11.chm1000204
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkComboBox.HideSelection Property (Outlook)
+# OlkComboBox.HideSelection property (Outlook)
 
 Returns or sets a  **Boolean** that specifies if a selection is displayed or hidden for the control when the control loses focus. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies if a selection is displayed or hid
 
 _expression_. `HideSelection`
 
-_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

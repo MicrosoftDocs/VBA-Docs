@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `InterceptIsAuto`
 
-_expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
+_expression_ A variable that represents a [Trendline](Excel.Trendline-graph-object.md) object.
 
 
 ## Remarks

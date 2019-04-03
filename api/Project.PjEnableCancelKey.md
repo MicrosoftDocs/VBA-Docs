@@ -1,5 +1,5 @@
 ---
-title: PjEnableCancelKey Enumeration (Project)
+title: PjEnableCancelKey enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjEnableCancelKey
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjEnableCancelKey Enumeration (Project)
+# PjEnableCancelKey enumeration (Project)
 
 Contains constants that specify how to handle the **CTRL+BREAK** key combination.
 

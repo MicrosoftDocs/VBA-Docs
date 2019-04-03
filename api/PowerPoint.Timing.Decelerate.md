@@ -1,5 +1,5 @@
 ---
-title: Timing.Decelerate Property (PowerPoint)
+title: Timing.Decelerate property (PowerPoint)
 keywords: vbapp10.chm653011
 f1_keywords:
 - vbapp10.chm653011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Timing.Decelerate Property (PowerPoint)
+# Timing.Decelerate property (PowerPoint)
 
 Sets or returns the percentage of the duration over which a timing deceleration should take place. Read/write.
 
 
 ## Syntax
 
- _expression_. `Decelerate`
+_expression_. `Decelerate`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

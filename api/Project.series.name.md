@@ -1,5 +1,5 @@
 ---
-title: Series.Name Property (Project)
+title: Series.Name property (Project)
 keywords: vbapj.chm132607
 f1_keywords:
 - vbapj.chm132607
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Series.Name Property (Project)
+# Series.Name property (Project)
 Gets the name of the data series on a chart. Read-only  **String**.
 
 ## Syntax

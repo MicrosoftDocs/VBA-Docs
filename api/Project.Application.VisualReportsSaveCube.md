@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReportsSaveCube Method (Project)
+title: Application.VisualReportsSaveCube method (Project)
 keywords: vbapj.chm2139
 f1_keywords:
 - vbapj.chm2139
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.VisualReportsSaveCube Method (Project)
+# Application.VisualReportsSaveCube method (Project)
 
 Saves a Visual Reports cube to the default directory or to a specified directory.
 
 
 ## Syntax
 
- _expression_. `VisualReportsSaveCube`( `_strNamePath_`, `_PjVisualReportsCubeType_`, `_ReportAlLFields_`, `_PjVisualReportsDataLevel_` )
+_expression_. `VisualReportsSaveCube`( `_strNamePath_`, `_PjVisualReportsCubeType_`, `_ReportAlLFields_`, `_PjVisualReportsDataLevel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

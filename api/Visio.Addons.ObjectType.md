@@ -1,5 +1,5 @@
 ---
-title: Addons.ObjectType Property (Visio)
+title: Addons.ObjectType property (Visio)
 keywords: vis_sdr.chm12513960
 f1_keywords:
 - vis_sdr.chm12513960
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Addons.ObjectType Property (Visio)
+# Addons.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents an [Addons](./Visio.Addons.md) object.
 

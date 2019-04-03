@@ -1,5 +1,5 @@
 ---
-title: ToolbarSet.Toolbars Property (Visio)
+title: ToolbarSet.Toolbars property (Visio)
 keywords: vis_sdr.chm13914555
 f1_keywords:
 - vis_sdr.chm13914555
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ToolbarSet.Toolbars Property (Visio)
+# ToolbarSet.Toolbars property (Visio)
 
 Returns the  **Toolbars** collection of a **ToolbarSet** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Toolbars`
+_expression_. `Toolbars`
 
  _expression_ A variable that represents a [ToolbarSet](./Visio.ToolbarSet.md) object.
 

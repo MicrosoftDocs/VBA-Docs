@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Class Property (Outlook)
+title: JournalItem.Class property (Outlook)
 keywords: vbaol11.chm1228
 f1_keywords:
 - vbaol11.chm1228
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# JournalItem.Class Property (Outlook)
+# JournalItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## See also

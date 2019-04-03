@@ -1,5 +1,5 @@
 ---
-title: Menu.IconFileName Method (Visio)
+title: Menu.IconFileName method (Visio)
 keywords: vis_sdr.chm13116350
 f1_keywords:
 - vis_sdr.chm13116350
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Menu.IconFileName Method (Visio)
+# Menu.IconFileName method (Visio)
 
 Sets a custom icon file for a menu or toolbar item.
 
 
 ## Syntax
 
- _expression_. `IconFileName`( `_IconFileName_` )
+_expression_. `IconFileName`( `_IconFileName_` )
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 

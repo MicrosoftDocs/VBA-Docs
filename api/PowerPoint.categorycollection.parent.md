@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection.Parent Property (PowerPoint)
+title: CategoryCollection.Parent property (PowerPoint)
 keywords: vbapp10.chm737001
 f1_keywords:
 - vbapp10.chm737001
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryCollection.Parent Property (PowerPoint)
+# CategoryCollection.Parent property (PowerPoint)
 
 Returns the parent for the specified object. Read-only  **Object**.
 

@@ -1,5 +1,5 @@
 ---
-title: Presentation.Fonts Property (PowerPoint)
+title: Presentation.Fonts property (PowerPoint)
 keywords: vbapp10.chm583016
 f1_keywords:
 - vbapp10.chm583016
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Fonts Property (PowerPoint)
+# Presentation.Fonts property (PowerPoint)
 
 Returns a  **[Fonts](PowerPoint.Fonts.md)** collection that represents all fonts used in the specified presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `Fonts`
+_expression_. `Fonts`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

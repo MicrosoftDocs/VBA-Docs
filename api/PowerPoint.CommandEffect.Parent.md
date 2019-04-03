@@ -1,5 +1,5 @@
 ---
-title: CommandEffect.Parent Property (PowerPoint)
+title: CommandEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm668002
 f1_keywords:
 - vbapp10.chm668002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CommandEffect.Parent Property (PowerPoint)
+# CommandEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

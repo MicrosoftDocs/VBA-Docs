@@ -1,5 +1,5 @@
 ---
-title: SharingItem.CreationTime Property (Outlook)
+title: SharingItem.CreationTime property (Outlook)
 keywords: vbaol11.chm605
 f1_keywords:
 - vbaol11.chm605
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.CreationTime Property (Outlook)
+# SharingItem.CreationTime property (Outlook)
 
 Returns a  **Date** indicating the creation time for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the creation time for the **[SharingItem](Outlook
 
 _expression_. `CreationTime`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

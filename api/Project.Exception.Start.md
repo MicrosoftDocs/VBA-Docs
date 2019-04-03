@@ -1,5 +1,5 @@
 ---
-title: Exception.Start Property (Project)
+title: Exception.Start property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Start
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Exception.Start Property (Project)
+# Exception.Start property (Project)
 
 Gets or sets the start date of the calendar exception. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Start`
+_expression_. `Start`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

@@ -19,7 +19,7 @@ Returns a  **[FormFields](Word.formfields.md)** collection that represents all t
 
 ## Syntax
 
- _expression_. `FormFields`
+_expression_. `FormFields`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

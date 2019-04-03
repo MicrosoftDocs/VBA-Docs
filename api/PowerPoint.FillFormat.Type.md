@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Type Property (PowerPoint)
+title: FillFormat.Type property (PowerPoint)
 keywords: vbapp10.chm552023
 f1_keywords:
 - vbapp10.chm552023
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Type Property (PowerPoint)
+# FillFormat.Type property (PowerPoint)
 
 Represent the type of fill. Read-only.
 

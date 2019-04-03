@@ -1,5 +1,5 @@
 ---
-title: Recipient.Class Property (Outlook)
+title: Recipient.Class property (Outlook)
 keywords: vbaol11.chm2341
 f1_keywords:
 - vbaol11.chm2341
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Class Property (Outlook)
+# Recipient.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## See also

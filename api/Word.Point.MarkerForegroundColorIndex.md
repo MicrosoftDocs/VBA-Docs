@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Point.MarkerForegroundColorIndex property (Word)
 
-Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[xlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
+Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerForegroundColorIndex`
+_expression_. `MarkerForegroundColorIndex`
 
  _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 

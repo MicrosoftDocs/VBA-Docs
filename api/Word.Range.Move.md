@@ -19,7 +19,7 @@ Collapses the specified range to its start or end position and then moves the co
 
 ## Syntax
 
- _expression_. `Move`( `_Unit_` , `_Count_` )
+_expression_. `Move`( `_Unit_` , `_Count_` )
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

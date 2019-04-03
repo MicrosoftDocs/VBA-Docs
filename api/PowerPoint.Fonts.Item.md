@@ -1,5 +1,5 @@
 ---
-title: Fonts.Item Method (PowerPoint)
+title: Fonts.Item method (PowerPoint)
 keywords: vbapp10.chm528003
 f1_keywords:
 - vbapp10.chm528003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fonts.Item Method (PowerPoint)
+# Fonts.Item method (PowerPoint)
 
 Returns a single  **Font** object from the specified **Fonts** collection.
 

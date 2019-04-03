@@ -16,9 +16,9 @@ Sets the position and zoom factor (size) of the drawing page in Microsoft Visio 
 
 ## Syntax
 
- _expression_. **SetPageView**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
+ _expression_.**SetPageView**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

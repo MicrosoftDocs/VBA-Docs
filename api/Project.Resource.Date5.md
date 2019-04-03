@@ -1,5 +1,5 @@
 ---
-title: Resource.Date5 Property (Project)
+title: Resource.Date5 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Date5
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Date5 Property (Project)
+# Resource.Date5 property (Project)
 
 Gets or sets the value of the  **Date5** custom field for the resource. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Date5`
+_expression_. `Date5`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

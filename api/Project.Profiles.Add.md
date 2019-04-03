@@ -1,5 +1,5 @@
 ---
-title: Profiles.Add Method (Project)
+title: Profiles.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Profiles.Add
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Profiles.Add Method (Project)
+# Profiles.Add method (Project)
 
 Adds an account  **[Profile](Project.Profile.md)** object to the **Profiles** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_`, `_Server_`, `_LoginType_`, `_UserName_` )
+ _expression_.**Add**( `_Name_`, `_Server_`, `_LoginType_`, `_UserName_` )
 
  _expression_ A variable that represents a 'Profiles' object.
 

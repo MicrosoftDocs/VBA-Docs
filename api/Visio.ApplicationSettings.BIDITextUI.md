@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.BIDITextUI Property (Visio)
+title: ApplicationSettings.BIDITextUI property (Visio)
 keywords: vis_sdr.chm16260025
 f1_keywords:
 - vis_sdr.chm16260025
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.BIDITextUI Property (Visio)
+# ApplicationSettings.BIDITextUI property (Visio)
 
 Gets the current setting for display of right-to-left languages. Read-only.
 
 
 ## Syntax
 
- _expression_. `BIDITextUI`
+_expression_. `BIDITextUI`
 
  _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

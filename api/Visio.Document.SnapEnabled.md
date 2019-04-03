@@ -1,5 +1,5 @@
 ---
-title: Document.SnapEnabled Property (Visio)
+title: Document.SnapEnabled property (Visio)
 keywords: vis_sdr.chm10550880
 f1_keywords:
 - vis_sdr.chm10550880
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.SnapEnabled Property (Visio)
+# Document.SnapEnabled property (Visio)
 
 Determines whether snap is active in the document. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapEnabled`
+_expression_. `SnapEnabled`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

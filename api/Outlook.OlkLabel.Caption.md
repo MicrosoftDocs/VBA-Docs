@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.Caption Property (Outlook)
+title: OlkLabel.Caption property (Outlook)
 keywords: vbaol11.chm1000091
 f1_keywords:
 - vbaol11.chm1000091
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkLabel.Caption Property (Outlook)
+# OlkLabel.Caption property (Outlook)
 
 Returns or sets a  **String** that appears on an object to identify or describe it. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 
 _expression_.**Caption**
 
-_expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
+_expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) object.
 
 
 ## Remarks

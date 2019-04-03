@@ -1,5 +1,5 @@
 ---
-title: FormDescription.OneOff Property (Outlook)
+title: FormDescription.OneOff property (Outlook)
 keywords: vbaol11.chm195
 f1_keywords:
 - vbaol11.chm195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.OneOff Property (Outlook)
+# FormDescription.OneOff property (Outlook)
 
 Returns a  **Boolean** value that indicates **True** if the form will be discarded after using once (one-off), and **False** if the form is retained as a custom form. Read/write.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates **True** if the form will be discard
 
 _expression_. `OneOff`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## See also

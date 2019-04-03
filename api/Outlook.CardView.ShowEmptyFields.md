@@ -1,5 +1,5 @@
 ---
-title: CardView.ShowEmptyFields Property (Outlook)
+title: CardView.ShowEmptyFields property (Outlook)
 keywords: vbaol11.chm2599
 f1_keywords:
 - vbaol11.chm2599
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CardView.ShowEmptyFields Property (Outlook)
+# CardView.ShowEmptyFields property (Outlook)
 
 Returns or sets a  **Boolean** value that determines if empty fields are displayed for cards in the **[CardView](Outlook.CardView.md)** object. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines if empty fields are display
 
 _expression_. `ShowEmptyFields`
 
-_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## See also

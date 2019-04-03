@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.GetConversation Method (Outlook)
+title: AppointmentItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3403
 f1_keywords:
 - vbaol11.chm3403
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.GetConversation Method (Outlook)
+# AppointmentItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 

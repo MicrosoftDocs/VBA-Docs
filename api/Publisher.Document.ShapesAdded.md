@@ -1,5 +1,5 @@
 ---
-title: Document.ShapesAdded Event (Publisher)
+title: Document.ShapesAdded event (Publisher)
 keywords: vbapb10.chm285212675
 f1_keywords:
 - vbapb10.chm285212675
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ShapesAdded Event (Publisher)
+# Document.ShapesAdded event (Publisher)
 
 Occurs when one or more new shapes are added to a publication. This event occurs whether shapes are added manually or programmatically.
 
 
 ## Syntax
 
- _expression_. **ShapesAdded**
+ _expression_.**ShapesAdded**
 
  _expression_ A variable that represents a  **Document** object.
 

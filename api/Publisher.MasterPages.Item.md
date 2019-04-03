@@ -1,5 +1,5 @@
 ---
-title: MasterPages.Item Property (Publisher)
+title: MasterPages.Item property (Publisher)
 keywords: vbapb10.chm589824
 f1_keywords:
 - vbapb10.chm589824
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MasterPages.Item Property (Publisher)
+# MasterPages.Item property (Publisher)
 
 Returns the specified  **[Page](Publisher.Page.md)** object from a **Pages** or **MasterPages** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Item_**)
+ _expression_.**Item**(**_Item_**)
 
  _expression_ A variable that represents a  **MasterPages** object.
 

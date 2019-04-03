@@ -1,5 +1,5 @@
 ---
-title: Selection.SendBackward Method (Visio)
+title: Selection.SendBackward method (Visio)
 keywords: vis_sdr.chm11116540
 f1_keywords:
 - vis_sdr.chm11116540
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.SendBackward Method (Visio)
+# Selection.SendBackward method (Visio)
 
 Moves a shape or selected shapes back one position in the z-order.
 
 
 ## Syntax
 
- _expression_. `SendBackward`
+_expression_. `SendBackward`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsOverflowEnabled Property (PowerPoint)
+title: ChartGroup.BinsOverflowEnabled property (PowerPoint)
 keywords: vbapp10.chm692023
 f1_keywords:
 - vbapp10.chm692023
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.BinsOverflowEnabled Property (PowerPoint)
+# ChartGroup.BinsOverflowEnabled property (PowerPoint)
 
-Specifies whether a bin for values above the [ChartGroup.BinsOverflowValue Property (PowerPoint)](PowerPoint.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.
+Specifies whether a bin for values above the [ChartGroup.BinsOverflowValue property (PowerPoint)](PowerPoint.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `BinsOverflowEnabled`
+_expression_. `BinsOverflowEnabled`
 
 _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
 
@@ -25,6 +25,6 @@ _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.m
 ## See also
 
 
-[ChartGroup Object (PowerPoint)](PowerPoint.ChartGroup.md)
+[ChartGroup object (PowerPoint)](PowerPoint.ChartGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

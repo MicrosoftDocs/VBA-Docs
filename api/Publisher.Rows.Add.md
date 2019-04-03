@@ -1,5 +1,5 @@
 ---
-title: Rows.Add Method (Publisher)
+title: Rows.Add method (Publisher)
 keywords: vbapb10.chm4915204
 f1_keywords:
 - vbapb10.chm4915204
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Rows.Add Method (Publisher)
+# Rows.Add method (Publisher)
 
 Adds a new  **Row** object to the specified **Rows** collection and returns the new **Row** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_BeforeRow_**)
+ _expression_.**Add**(**_BeforeRow_**)
 
  _expression_ A variable that represents a  **Rows** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Recipient.Resolved Property (Outlook)
+title: Recipient.Resolved property (Outlook)
 keywords: vbaol11.chm2352
 f1_keywords:
 - vbaol11.chm2352
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Resolved Property (Outlook)
+# Recipient.Resolved property (Outlook)
 
 Returns a  **Boolean** that indicates **True** if the recipient has been validated against the Address Book. Read-only.
 

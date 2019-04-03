@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection Object (PowerPoint)
+title: CategoryCollection object (PowerPoint)
 keywords: vbapp10.chm737000
 f1_keywords:
 - vbapp10.chm737000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryCollection Object (PowerPoint)
+# CategoryCollection object (PowerPoint)
 
 Represents the collection of visible chart categories in the presentation.
 

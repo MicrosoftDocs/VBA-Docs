@@ -1,5 +1,5 @@
 ---
-title: Path Object (Visio)
+title: Path object (Visio)
 keywords: vis_sdr.chm10200
 f1_keywords:
 - vis_sdr.chm10200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Path Object (Visio)
+# Path object (Visio)
 
 Represents a sequence of one or more segments whose ends abut. A path describes where a pen would move in order to draw one shape component. Each  **Path** object corresponds to a Geometry section of a shape.
 

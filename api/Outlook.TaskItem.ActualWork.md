@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ActualWork Property (Outlook)
+title: TaskItem.ActualWork property (Outlook)
 keywords: vbaol11.chm1720
 f1_keywords:
 - vbaol11.chm1720
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.ActualWork Property (Outlook)
+# TaskItem.ActualWork property (Outlook)
 
 Returns or sets a  **Long** indicating the actual effort spent on the task. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the actual effort spent on the task. Read
 
 _expression_. `ActualWork`
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks

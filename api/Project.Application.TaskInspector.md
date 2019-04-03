@@ -1,5 +1,5 @@
 ---
-title: Application.TaskInspector Method (Project)
+title: Application.TaskInspector method (Project)
 keywords: vbapj.chm1515
 f1_keywords:
 - vbapj.chm1515
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TaskInspector Method (Project)
+# Application.TaskInspector method (Project)
 
 Displays the  **Task Inspector** pane.
 
 
 ## Syntax
 
- _expression_. `TaskInspector`
+_expression_. `TaskInspector`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

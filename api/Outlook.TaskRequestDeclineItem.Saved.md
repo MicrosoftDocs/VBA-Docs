@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Saved Property (Outlook)
+title: TaskRequestDeclineItem.Saved property (Outlook)
 keywords: vbaol11.chm1843
 f1_keywords:
 - vbaol11.chm1843
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Saved Property (Outlook)
+# TaskRequestDeclineItem.Saved property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 
 _expression_. `Saved`
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## See also

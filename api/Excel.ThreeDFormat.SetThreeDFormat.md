@@ -21,7 +21,7 @@ Sets the preset extrusion format. Each preset extrusion format contains a set of
 
 _expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Parameters
@@ -39,7 +39,7 @@ This method sets the  **[PresetThreeDFormat](Excel.ThreeDFormat.PresetThreeDForm
 
 ## Example
 
-This example adds an oval to  `myDocument` and sets its extrusion format to 3D Style 12.
+This example adds an oval to  _myDocument_ and sets its extrusion format to 3D Style 12.
 
 
 ```vb

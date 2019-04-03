@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.Design Property (Publisher)
+title: WebNavigationBarSet.Design property (Publisher)
 keywords: vbapb10.chm8519684
 f1_keywords:
 - vbapb10.chm8519684
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.Design Property (Publisher)
+# WebNavigationBarSet.Design property (Publisher)
 
 Sets or returns a  **PbWizardNavBarDesign** constant representing the design of the specified Web navigation bar set. Read/write.
 
 
 ## Syntax
 
- _expression_. **Design**
+ _expression_.**Design**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 

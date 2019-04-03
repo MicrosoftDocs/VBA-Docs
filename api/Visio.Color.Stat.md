@@ -1,5 +1,5 @@
 ---
-title: Color.Stat Property (Visio)
+title: Color.Stat property (Visio)
 keywords: vis_sdr.chm12214420
 f1_keywords:
 - vis_sdr.chm12214420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Color.Stat Property (Visio)
+# Color.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 

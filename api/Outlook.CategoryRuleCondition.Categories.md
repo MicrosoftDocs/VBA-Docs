@@ -1,5 +1,5 @@
 ---
-title: CategoryRuleCondition.Categories Property (Outlook)
+title: CategoryRuleCondition.Categories property (Outlook)
 keywords: vbaol11.chm2446
 f1_keywords:
 - vbaol11.chm2446
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryRuleCondition.Categories Property (Outlook)
+# CategoryRuleCondition.Categories property (Outlook)
 
 Returns or sets an array of  **String** elements that represents the categories evaluated by the rule condition. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an array of  **String** elements that represents the categories 
 
 _expression_. `Categories`
 
-_expression_ A variable that represents a [CategoryRuleCondition](./Outlook.CategoryRuleCondition.md) object.
+_expression_ A variable that represents a [CategoryRuleCondition](Outlook.CategoryRuleCondition.md) object.
 
 
 ## Remarks

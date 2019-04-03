@@ -17,7 +17,7 @@ Returns a  **Boolean** that specifies if the most recent **Undo** can be reverse
 
 ## Syntax
 
-_expression_. **CanRedo**
+_expression_.**CanRedo**
 
 _expression_ A variable that represents a  **Frame** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ColorScheme.Delete Method (PowerPoint)
+title: ColorScheme.Delete method (PowerPoint)
 keywords: vbapp10.chm537004
 f1_keywords:
 - vbapp10.chm537004
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColorScheme.Delete Method (PowerPoint)
+# ColorScheme.Delete method (PowerPoint)
 
 Deletes the specified  **ColorScheme** object.
 

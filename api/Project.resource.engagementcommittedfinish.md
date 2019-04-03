@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementCommittedFinish Property (Project)
+title: Resource.EngagementCommittedFinish property (Project)
 keywords: vbapj.chm131796
 f1_keywords:
 - vbapj.chm131796
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementCommittedFinish Property (Project)
+# Resource.EngagementCommittedFinish property (Project)
 
 Returns the committed finish date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `EngagementCommittedFinish`
+_expression_. `EngagementCommittedFinish`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

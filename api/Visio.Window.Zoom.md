@@ -1,5 +1,5 @@
 ---
-title: Window.Zoom Property (Visio)
+title: Window.Zoom property (Visio)
 keywords: vis_sdr.chm11614675
 f1_keywords:
 - vis_sdr.chm11614675
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Zoom Property (Visio)
+# Window.Zoom property (Visio)
 
 Gets or sets the current display size (magnification factor) for a page in a window. Read/write.
 
 
 ## Syntax
 
- _expression_. `Zoom`
+_expression_. `Zoom`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

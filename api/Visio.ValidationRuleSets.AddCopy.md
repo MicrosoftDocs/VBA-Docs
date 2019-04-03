@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSets.AddCopy Method (Visio)
+title: ValidationRuleSets.AddCopy method (Visio)
 keywords: vis_sdr.chm18160420
 f1_keywords:
 - vis_sdr.chm18160420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationRuleSets.AddCopy Method (Visio)
+# ValidationRuleSets.AddCopy method (Visio)
 
 Adds a copy of an existing  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of the document.
 
 
 ## Syntax
 
- _expression_. `AddCopy`( `_RuleSet_` , `_NameU_` )
+_expression_. `AddCopy`( `_RuleSet_` , `_NameU_` )
 
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 

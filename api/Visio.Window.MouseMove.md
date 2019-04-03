@@ -1,5 +1,5 @@
 ---
-title: Window.MouseMove Event (Visio)
+title: Window.MouseMove event (Visio)
 keywords: vis_sdr.chm11651305
 f1_keywords:
 - vis_sdr.chm11651305
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.MouseMove Event (Visio)
+# Window.MouseMove event (Visio)
 
 Occurs when the mouse is moved.
 

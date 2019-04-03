@@ -1,5 +1,5 @@
 ---
-title: VisUIIconIDs Enumeration (Visio)
+title: VisUIIconIDs enumeration (Visio)
 keywords: vis_sdr.chm70200
 f1_keywords:
 - vis_sdr.chm70200
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUIIconIDs Enumeration (Visio)
+# VisUIIconIDs enumeration (Visio)
 
 Icon identifiers used in conjunction with the  **FaceID** property of the **Menu**, **MenuItem**, and **ToolbarItem** objects.
 

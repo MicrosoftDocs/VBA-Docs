@@ -1,5 +1,5 @@
 ---
-title: Documents.PageDeleteCanceled Event (Visio)
+title: Documents.PageDeleteCanceled event (Visio)
 keywords: vis_sdr.chm10619360
 f1_keywords:
 - vis_sdr.chm10619360
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.PageDeleteCanceled Event (Visio)
+# Documents.PageDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelPageDelete** event.
 

@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.DoubleClick Event (Outlook)
+title: OlkSenderPhoto.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000486
 f1_keywords:
 - vbaol11.chm1000486
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.DoubleClick Event (Outlook)
+# OlkSenderPhoto.DoubleClick event (Outlook)
 
 Occurs when the control is double-clicked through user action.
 
@@ -21,7 +21,7 @@ Occurs when the control is double-clicked through user action.
 
 _expression_. `DoubleClick`
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## See also

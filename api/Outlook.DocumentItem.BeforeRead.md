@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.BeforeRead Event (Outlook)
+title: DocumentItem.BeforeRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeRead
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.BeforeRead Event (Outlook)
+# DocumentItem.BeforeRead event (Outlook)
 
 Occurs before Microsoft Outlook begins to read the properties for the item.
 
@@ -18,7 +18,7 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
 _expression_. `BeforeRead`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

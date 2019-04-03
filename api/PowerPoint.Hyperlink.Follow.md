@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Follow Method (PowerPoint)
+title: Hyperlink.Follow method (PowerPoint)
 keywords: vbapp10.chm526011
 f1_keywords:
 - vbapp10.chm526011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Follow Method (PowerPoint)
+# Hyperlink.Follow method (PowerPoint)
 
 Displays the HTML document associated with the specified hyperlink in a new Web browser window.
 
 
 ## Syntax
 
- _expression_. `Follow`
+_expression_. `Follow`
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 

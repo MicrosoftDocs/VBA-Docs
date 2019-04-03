@@ -1,5 +1,5 @@
 ---
-title: Exception.DaysOfWeek Property (Project)
+title: Exception.DaysOfWeek property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.DaysOfWeek
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Exception.DaysOfWeek Property (Project)
+# Exception.DaysOfWeek property (Project)
 
 Gets or sets the bit mask used for calendar exceptions of type  **pjWeekly**, indicating the days on which the exception occurs. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `DaysOfWeek`
+_expression_. `DaysOfWeek`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

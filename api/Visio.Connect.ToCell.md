@@ -1,5 +1,5 @@
 ---
-title: Connect.ToCell Property (Visio)
+title: Connect.ToCell property (Visio)
 keywords: vis_sdr.chm10314545
 f1_keywords:
 - vis_sdr.chm10314545
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Connect.ToCell Property (Visio)
+# Connect.ToCell property (Visio)
 
 Gets the cell to which a connection is made. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToCell`
+_expression_. `ToCell`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 

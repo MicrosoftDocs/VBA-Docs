@@ -21,7 +21,7 @@ If the specified node is a vertex, this property returns a value that indicates 
 
 _expression_. `EditingType`
 
-_expression_ A variable that represents a [ShapeNode](./Excel.ShapeNode.md) object.
+_expression_ A variable that represents a [ShapeNode](Excel.ShapeNode.md) object.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ This property is read-only. Use the  **[SetEditingType](Excel.ShapeNodes.SetEdit
 
 ## Example
 
-This example changes all corner nodes to smooth nodes in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all corner nodes to smooth nodes in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb

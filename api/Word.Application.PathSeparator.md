@@ -19,7 +19,7 @@ Returns the character used to separate folder names. This property returns a bac
 
 ## Syntax
 
- _expression_. `PathSeparator`
+_expression_. `PathSeparator`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

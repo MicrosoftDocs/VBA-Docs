@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementBrightness Method (PowerPoint)
+title: PictureFormat.IncrementBrightness method (PowerPoint)
 keywords: vbapp10.chm551002
 f1_keywords:
 - vbapp10.chm551002
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.IncrementBrightness Method (PowerPoint)
+# PictureFormat.IncrementBrightness method (PowerPoint)
 
 Changes the brightness of the picture by the specified amount. 
 
 
 ## Syntax
 
- _expression_. `IncrementBrightness`( `_Increment_` )
+_expression_. `IncrementBrightness`( `_Increment_` )
 
  _expression_ A variable that represents an [PictureFormat](./PowerPoint.PictureFormat.md) object.
 
@@ -41,7 +41,7 @@ You cannot adjust the brightness of a picture past the upper or lower limit for 
 
 ## Example
 
-This example creates a duplicate of shape one on  `myDocument` and then moves and darkens the duplicate. For the example to work, shape one must be either a picture or an OLE object.
+This example creates a duplicate of shape one on  _myDocument_ and then moves and darkens the duplicate. For the example to work, shape one must be either a picture or an OLE object.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.BackColor Property (PowerPoint)
+title: FillFormat.BackColor property (PowerPoint)
 keywords: vbapp10.chm552011
 f1_keywords:
 - vbapp10.chm552011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.BackColor Property (PowerPoint)
+# FillFormat.BackColor property (PowerPoint)
 
 Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the background color for the specified fill or patterned line. Read/write.
 
@@ -31,7 +31,7 @@ ColorFormat
 
 ## Example
 
-This example adds a rectangle to  `myDocument` and then sets the foreground color, background color, and gradient for the rectangle's fill.
+This example adds a rectangle to  _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 ```vb
@@ -45,7 +45,7 @@ With myDocument.Shapes.AddShape(msoShapeRectangle, _
 End With
 ```
 
-This example adds a patterned line to  `myDocument`.
+This example adds a patterned line to  _myDocument_.
 
 
 

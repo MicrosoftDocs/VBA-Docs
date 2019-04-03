@@ -1,5 +1,5 @@
 ---
-title: OLEFormat Object (PowerPoint)
+title: OLEFormat object (PowerPoint)
 keywords: vbapp10.chm562000
 f1_keywords:
 - vbapp10.chm562000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat Object (PowerPoint)
+# OLEFormat object (PowerPoint)
 
 Contains properties and methods that apply to OLE objects. 
 
@@ -73,6 +73,6 @@ Next
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

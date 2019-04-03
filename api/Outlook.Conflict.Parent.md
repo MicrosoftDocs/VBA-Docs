@@ -1,5 +1,5 @@
 ---
-title: Conflict.Parent Property (Outlook)
+title: Conflict.Parent property (Outlook)
 keywords: vbaol11.chm414
 f1_keywords:
 - vbaol11.chm414
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflict.Parent Property (Outlook)
+# Conflict.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Conflict](./Outlook.Conflict.md) object.
+_expression_ A variable that represents a [Conflict](Outlook.Conflict.md) object.
 
 
 ## See also

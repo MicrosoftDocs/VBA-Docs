@@ -1,5 +1,5 @@
 ---
-title: Story.HasTable Property (Publisher)
+title: Story.HasTable property (Publisher)
 keywords: vbapb10.chm5832707
 f1_keywords:
 - vbapb10.chm5832707
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Story.HasTable Property (Publisher)
+# Story.HasTable property (Publisher)
 
 Returns  **msoTrue** if the shape represents a **TableFrame** object or **msoFalse** if the shape represents any other object type. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasTable**
+ _expression_.**HasTable**
 
  _expression_ A variable that represents a  **Story** object.
 

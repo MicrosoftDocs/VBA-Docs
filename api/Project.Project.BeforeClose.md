@@ -1,5 +1,5 @@
 ---
-title: Project.BeforeClose Event (Project)
+title: Project.BeforeClose event (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.BeforeClose
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.BeforeClose Event (Project)
+# Project.BeforeClose event (Project)
 
 Occurs before a project is closed.
 
 
 ## Syntax
 
- _expression_. `BeforeClose`( `_pj_` )
+_expression_. `BeforeClose`( `_pj_` )
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.SmartArt Property (PowerPoint)
+title: Shape.SmartArt property (PowerPoint)
 keywords: vbapp10.chm547086
 f1_keywords:
 - vbapp10.chm547086
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.SmartArt Property (PowerPoint)
+# Shape.SmartArt property (PowerPoint)
 
 Returns a Microsoft Office [SmartArt](Office.SmartArt.md) object that represents the SmartArt diagram of the **Shape** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SmartArt`
+_expression_. `SmartArt`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

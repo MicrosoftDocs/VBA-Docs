@@ -1,5 +1,5 @@
 ---
-title: Selection.Align Method (Visio)
+title: Selection.Align method (Visio)
 keywords: vis_sdr.chm11151435
 f1_keywords:
 - vis_sdr.chm11151435
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Align Method (Visio)
+# Selection.Align method (Visio)
 
 Aligns two or more selected shapes.
 
 
 ## Syntax
 
- _expression_. `Align`( `_AlignHorizontal_` , `_AlignVertical_` , `_GlueToGuide_` )
+_expression_. `Align`( `_AlignHorizontal_` , `_AlignVertical_` , `_GlueToGuide_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

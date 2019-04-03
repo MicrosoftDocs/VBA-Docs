@@ -1,5 +1,5 @@
 ---
-title: TableFields.Add Method (Project)
+title: TableFields.Add method (Project)
 keywords: vbapj.chm132691
 f1_keywords:
 - vbapj.chm132691
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TableFields.Add Method (Project)
+# TableFields.Add method (Project)
 
 Adds a  **TableField** object to a **TableFields** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Field_`, `_AlignData_`, `_Width_`, `_Title_`, `_AlignTitle_`, `_Before_`, `_AutoWrap_` )
+ _expression_.**Add**( `_Field_`, `_AlignData_`, `_Width_`, `_Title_`, `_AlignTitle_`, `_Before_`, `_AutoWrap_` )
 
  _expression_ A variable that represents a 'TableFields' object.
 

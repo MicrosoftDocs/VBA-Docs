@@ -1,5 +1,5 @@
 ---
-title: Slide.Select Method (PowerPoint)
+title: Slide.Select method (PowerPoint)
 keywords: vbapp10.chm531011
 f1_keywords:
 - vbapp10.chm531011
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Slide.Select Method (PowerPoint)
+# Slide.Select method (PowerPoint)
 
 Selects the specified object.
 

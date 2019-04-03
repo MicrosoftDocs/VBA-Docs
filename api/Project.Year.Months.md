@@ -1,5 +1,5 @@
 ---
-title: Year.Months Property (Project)
+title: Year.Months property (Project)
 keywords: vbapj.chm132416
 f1_keywords:
 - vbapj.chm132416
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Year.Months Property (Project)
+# Year.Months property (Project)
 
 Gets a  **[Months](Project.months.md)** collection representing the months in a year. Read-only **Months**.
 
 
 ## Syntax
 
- _expression_. `Months`
+_expression_. `Months`
 
  _expression_ An expression that returns a [Year](./Project.Year.md) object.
 

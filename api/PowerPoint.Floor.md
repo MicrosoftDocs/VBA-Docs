@@ -1,5 +1,5 @@
 ---
-title: Floor Object (PowerPoint)
+title: Floor object (PowerPoint)
 keywords: vbapp10.chm703000
 f1_keywords:
 - vbapp10.chm703000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Floor Object (PowerPoint)
+# Floor object (PowerPoint)
 
 Represents the floor of a 3-D chart.
 

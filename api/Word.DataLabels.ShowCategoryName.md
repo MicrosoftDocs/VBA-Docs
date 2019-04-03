@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ShowCategoryName`
+_expression_. `ShowCategoryName`
 
  _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
 

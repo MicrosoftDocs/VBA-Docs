@@ -1,5 +1,5 @@
 ---
-title: DistListItem.EntryID Property (Outlook)
+title: DistListItem.EntryID property (Outlook)
 keywords: vbaol11.chm1123
 f1_keywords:
 - vbaol11.chm1123
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.EntryID Property (Outlook)
+# DistListItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

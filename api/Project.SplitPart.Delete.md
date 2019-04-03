@@ -1,5 +1,5 @@
 ---
-title: SplitPart.Delete Method (Project)
+title: SplitPart.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitPart.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SplitPart.Delete Method (Project)
+# SplitPart.Delete method (Project)
 
 Deletes the  **SplitPart** object from a **SplitParts** collection.
 

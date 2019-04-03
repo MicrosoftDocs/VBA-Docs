@@ -1,5 +1,5 @@
 ---
-title: VisPrintOutRange Enumeration (Visio)
+title: VisPrintOutRange enumeration (Visio)
 keywords: vis_sdr.chm70435
 f1_keywords:
 - vis_sdr.chm70435
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisPrintOutRange Enumeration (Visio)
+# VisPrintOutRange enumeration (Visio)
 
 Range constants to be used with the  **Document.PrintOut** method.
 

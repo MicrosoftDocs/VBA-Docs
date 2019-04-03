@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.PlaySettings Property (PowerPoint)
+title: AnimationSettings.PlaySettings property (PowerPoint)
 keywords: vbapp10.chm565010
 f1_keywords:
 - vbapp10.chm565010
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AnimationSettings.PlaySettings Property (PowerPoint)
+# AnimationSettings.PlaySettings property (PowerPoint)
 
 Returns a  **[PlaySettings](PowerPoint.PlaySettings.md)** object that contains information about how the specified media clip plays during a slide show. Read-only.
 
 
 ## Syntax
 
- _expression_. `PlaySettings`
+_expression_. `PlaySettings`
 
 _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

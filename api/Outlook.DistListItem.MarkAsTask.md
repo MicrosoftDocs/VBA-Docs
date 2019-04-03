@@ -1,5 +1,5 @@
 ---
-title: DistListItem.MarkAsTask Method (Outlook)
+title: DistListItem.MarkAsTask method (Outlook)
 keywords: vbaol11.chm3035
 f1_keywords:
 - vbaol11.chm3035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.MarkAsTask Method (Outlook)
+# DistListItem.MarkAsTask method (Outlook)
 
 Marks a  **[DistListItem](Outlook.DistListItem.md)** object as a task and assigns a task interval for the object.
 
@@ -21,7 +21,7 @@ Marks a  **[DistListItem](Outlook.DistListItem.md)** object as a task and assign
 
 _expression_. `MarkAsTask`( `_MarkInterval_` )
 
- _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
+ _expression_ An expression that returns a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters

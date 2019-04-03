@@ -1,5 +1,5 @@
 ---
-title: Attachments.ClearAll Method (Publisher)
+title: Attachments.ClearAll method (Publisher)
 keywords: vbapb10.chm569350
 f1_keywords:
 - vbapb10.chm569350
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Attachments.ClearAll Method (Publisher)
+# Attachments.ClearAll method (Publisher)
 
 Clears (deletes) all the  **Attachment** objects in the parent **Attachments** collection of an email merge message.
 
 
 ## Syntax
 
- _expression_. **ClearAll**
+ _expression_.**ClearAll**
 
  _expression_ A variable that represents an  **Attachments** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: ThemeVariant Object (PowerPoint)
+title: ThemeVariant object (PowerPoint)
 keywords: vbapp10.chm738000
 f1_keywords:
 - vbapp10.chm738000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ThemeVariant Object (PowerPoint)
+# ThemeVariant object (PowerPoint)
 
 Represents a variation (set of colors and fonts) in a theme.
 

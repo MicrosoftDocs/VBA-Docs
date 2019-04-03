@@ -1,5 +1,5 @@
 ---
-title: NameSpace.PickFolder Method (Outlook)
+title: NameSpace.PickFolder method (Outlook)
 keywords: vbaol11.chm768
 f1_keywords:
 - vbaol11.chm768
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameSpace.PickFolder Method (Outlook)
+# NameSpace.PickFolder method (Outlook)
 
 Displays the  **Pick Folder** dialog box.
 
@@ -21,7 +21,7 @@ Displays the  **Pick Folder** dialog box.
 
 _expression_. `PickFolder`
 
-_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Return value

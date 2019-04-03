@@ -1,5 +1,5 @@
 ---
-title: MailItem.Companies Property (Outlook)
+title: MailItem.Companies property (Outlook)
 keywords: vbaol11.chm1299
 f1_keywords:
 - vbaol11.chm1299
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Companies Property (Outlook)
+# MailItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the names of the companies associated
 
 _expression_. `Companies`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: PbPublicationType Enumeration (Publisher)
+title: PbPublicationType enumeration (Publisher)
 keywords: vbapb10.chm65612
 f1_keywords:
 - vbapb10.chm65612
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPublicationType Enumeration (Publisher)
+# PbPublicationType enumeration (Publisher)
 
 Represents the type of the specified publication. 
 

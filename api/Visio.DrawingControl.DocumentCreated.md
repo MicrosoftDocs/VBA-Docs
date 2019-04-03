@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.DocumentCreated Event (Visio)
+title: DrawingControl.DocumentCreated event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.DocumentCreated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.DocumentCreated Event (Visio)
+# DrawingControl.DocumentCreated event (Visio)
 
 Occurs after a document is created.
 

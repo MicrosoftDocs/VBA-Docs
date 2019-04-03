@@ -1,5 +1,5 @@
 ---
-title: Series.Has3DEffect Property (PowerPoint)
+title: Series.Has3DEffect property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Has3DEffect
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Series.Has3DEffect Property (PowerPoint)
+# Series.Has3DEffect property (PowerPoint)
 
  **True** if the series has a three-dimensional appearance. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Has3DEffect`
+_expression_. `Has3DEffect`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Parent Property (PowerPoint)
+title: SlideRange.Parent property (PowerPoint)
 keywords: vbapp10.chm532002
 f1_keywords:
 - vbapp10.chm532002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SlideRange.Parent Property (PowerPoint)
+# SlideRange.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

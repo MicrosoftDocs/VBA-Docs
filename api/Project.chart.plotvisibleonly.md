@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotVisibleOnly Property (Project)
+title: Chart.PlotVisibleOnly property (Project)
 keywords: vbapj.chm131628
 f1_keywords:
 - vbapj.chm131628
@@ -10,12 +10,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.PlotVisibleOnly Property (Project)
+# Chart.PlotVisibleOnly property (Project)
  **True** if only visible cells are plotted. **False** if both visible and hidden cells are plotted. Read/write **Boolean**.
 
 ## Syntax
 
- _expression_. `PlotVisibleOnly`
+_expression_. `PlotVisibleOnly`
 
  _expression_ A variable that represents a 'Chart' object.
 

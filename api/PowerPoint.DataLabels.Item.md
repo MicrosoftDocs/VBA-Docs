@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Item Method (PowerPoint)
+title: DataLabels.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Item
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.Item Method (PowerPoint)
+# DataLabels.Item method (PowerPoint)
 
 Returns a single object from a collection.
 

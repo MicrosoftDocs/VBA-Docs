@@ -1,5 +1,5 @@
 ---
-title: Application.CommandLine Property (Visio)
+title: Application.CommandLine property (Visio)
 keywords: vis_sdr.chm10013280
 f1_keywords:
 - vis_sdr.chm10013280
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CommandLine Property (Visio)
+# Application.CommandLine property (Visio)
 
 Determines how Microsoft Visio was started. Read-only.
 
 
 ## Syntax
 
- _expression_. `CommandLine`
+_expression_. `CommandLine`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

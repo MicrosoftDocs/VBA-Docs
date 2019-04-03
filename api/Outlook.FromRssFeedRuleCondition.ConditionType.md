@@ -1,5 +1,5 @@
 ---
-title: FromRssFeedRuleCondition.ConditionType Property (Outlook)
+title: FromRssFeedRuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm3258
 f1_keywords:
 - vbaol11.chm3258
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FromRssFeedRuleCondition.ConditionType Property (Outlook)
+# FromRssFeedRuleCondition.ConditionType property (Outlook)
 
 Returns a constant,  **olConditionFromRssFeed**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
@@ -21,7 +21,7 @@ Returns a constant,  **olConditionFromRssFeed**, from the **[OlRuleConditionType
 
 _expression_. `ConditionType`
 
-_expression_ A variable that represents a [FromRssFeedRuleCondition](./Outlook.FromRssFeedRuleCondition.md) object.
+_expression_ A variable that represents a [FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md) object.
 
 
 ## Remarks

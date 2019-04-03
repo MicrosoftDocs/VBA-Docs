@@ -1,5 +1,5 @@
 ---
-title: Presentation.SaveCopyAs Method (PowerPoint)
+title: Presentation.SaveCopyAs method (PowerPoint)
 keywords: vbapp10.chm583037
 f1_keywords:
 - vbapp10.chm583037
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.SaveCopyAs Method (PowerPoint)
+# Presentation.SaveCopyAs method (PowerPoint)
 
 Saves a copy of the specified presentation to a file without modifying the original.
 
 
 ## Syntax
 
- _expression_. `SaveCopyAs`( `_FileName_`, `_FileFormat_`, `_EmbedTrueTypeFonts_` )
+_expression_. `SaveCopyAs`( `_FileName_`, `_FileFormat_`, `_EmbedTrueTypeFonts_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

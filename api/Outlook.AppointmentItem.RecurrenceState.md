@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.RecurrenceState Property (Outlook)
+title: AppointmentItem.RecurrenceState property (Outlook)
 keywords: vbaol11.chm891
 f1_keywords:
 - vbaol11.chm891
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.RecurrenceState Property (Outlook)
+# AppointmentItem.RecurrenceState property (Outlook)
 
 Returns an  **[OlRecurrenceState](Outlook.OlRecurrenceState.md)** constant indicating the recurrence property of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlRecurrenceState](Outlook.OlRecurrenceState.md)** constant indic
 
 _expression_. `RecurrenceState`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

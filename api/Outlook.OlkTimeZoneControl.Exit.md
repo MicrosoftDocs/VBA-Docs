@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.Exit Event (Outlook)
+title: OlkTimeZoneControl.Exit event (Outlook)
 keywords: vbaol11.chm1000522
 f1_keywords:
 - vbaol11.chm1000522
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.Exit Event (Outlook)
+# OlkTimeZoneControl.Exit event (Outlook)
 
 Occurs just after the focus passes from this control to another control on the same form.
 
@@ -21,7 +21,7 @@ Occurs just after the focus passes from this control to another control on the s
 
 _expression_. `Exit`( `_Cancel_` )
 
-_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Parameters

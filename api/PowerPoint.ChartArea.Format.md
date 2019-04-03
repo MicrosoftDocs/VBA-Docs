@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Format Property (PowerPoint)
+title: ChartArea.Format property (PowerPoint)
 keywords: vbapp10.chm687001
 f1_keywords:
 - vbapp10.chm687001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ChartArea.Format Property (PowerPoint)
+# ChartArea.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
 _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
 

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TextFrame.HorizontalAlignment property (Excel)
 
-Returns or sets a  **[xlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
+Returns or sets a  **[XlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
 
 
 ## Syntax
 
 _expression_. `HorizontalAlignment`
 
-_expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Remarks

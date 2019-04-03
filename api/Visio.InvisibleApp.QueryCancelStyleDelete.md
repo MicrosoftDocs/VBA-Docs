@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.QueryCancelStyleDelete Event (Visio)
+title: InvisibleApp.QueryCancelStyleDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QueryCancelStyleDelete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.QueryCancelStyleDelete Event (Visio)
+# InvisibleApp.QueryCancelStyleDelete event (Visio)
 
 Occurs before the application deletes a style in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

@@ -1,5 +1,5 @@
 ---
-title: Series.BubbleSizes Property (PowerPoint)
+title: Series.BubbleSizes property (PowerPoint)
 keywords: vbapp10.chm67200
 f1_keywords:
 - vbapp10.chm67200
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.BubbleSizes Property (PowerPoint)
+# Series.BubbleSizes property (PowerPoint)
 
 Returns or sets a string that refers to the worksheet cells that contain the x-value, y-value, and size data for the bubble chart. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BubbleSizes`
+_expression_. `BubbleSizes`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Close Event (Outlook)
+title: TaskItem.Close event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Close
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TaskItem.Close Event (Outlook)
+# TaskItem.Close event (Outlook)
 
 Occurs when the inspector associated with an item (which is an instance of the parent object) is being closed.
 
@@ -18,7 +18,7 @@ Occurs when the inspector associated with an item (which is an instance of the p
 
 _expression_. `Close`( `_Cancel_` )
 
-_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Parameters

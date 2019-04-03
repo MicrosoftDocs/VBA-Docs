@@ -1,5 +1,5 @@
 ---
-title: Masters.PersistsEvents Property (Visio)
+title: Masters.PersistsEvents property (Visio)
 keywords: vis_sdr.chm10814080
 f1_keywords:
 - vis_sdr.chm10814080
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Masters.PersistsEvents Property (Visio)
+# Masters.PersistsEvents property (Visio)
 
 Indicates whether an object is capable of containing persistent events in its  **EventList** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `PersistsEvents`
+_expression_. `PersistsEvents`
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

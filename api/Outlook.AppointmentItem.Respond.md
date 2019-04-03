@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Respond Method (Outlook)
+title: AppointmentItem.Respond method (Outlook)
 keywords: vbaol11.chm906
 f1_keywords:
 - vbaol11.chm906
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Respond Method (Outlook)
+# AppointmentItem.Respond method (Outlook)
 
 Responds to a meeting request.
 

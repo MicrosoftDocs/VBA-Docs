@@ -1,5 +1,5 @@
 ---
-title: Application.Reminder Event (Outlook)
+title: Application.Reminder event (Outlook)
 keywords: vbaol11.chm431
 f1_keywords:
 - vbaol11.chm431
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.Reminder Event (Outlook)
+# Application.Reminder event (Outlook)
 
 Occurs immediately before a reminder is displayed.
 
@@ -21,7 +21,7 @@ Occurs immediately before a reminder is displayed.
 
 _expression_. `Reminder`( `_Item_` )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters

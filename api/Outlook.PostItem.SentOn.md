@@ -1,5 +1,5 @@
 ---
-title: PostItem.SentOn Property (Outlook)
+title: PostItem.SentOn property (Outlook)
 keywords: vbaol11.chm1551
 f1_keywords:
 - vbaol11.chm1551
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.SentOn Property (Outlook)
+# PostItem.SentOn property (Outlook)
 
 Returns a  **Date** indicating the date and time on which the Outlook item was sent. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the date and time on which the Outlook item was s
 
 _expression_. `SentOn`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks

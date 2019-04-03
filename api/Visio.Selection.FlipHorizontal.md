@@ -1,5 +1,5 @@
 ---
-title: Selection.FlipHorizontal Method (Visio)
+title: Selection.FlipHorizontal method (Visio)
 keywords: vis_sdr.chm11116280
 f1_keywords:
 - vis_sdr.chm11116280
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.FlipHorizontal Method (Visio)
+# Selection.FlipHorizontal method (Visio)
 
 Flips an object horizontally.
 
 
 ## Syntax
 
- _expression_. `FlipHorizontal`
+_expression_. `FlipHorizontal`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Table.Index Property (Project)
+title: Table.Index property (Project)
 keywords: vbapj.chm132693
 f1_keywords:
 - vbapj.chm132693
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.Index Property (Project)
+# Table.Index property (Project)
 
 Gets the index of a  **Table** object in the **Tables** containing object. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [Table](./Project.Table.md) object.
 

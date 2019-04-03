@@ -1,5 +1,5 @@
 ---
-title: Conflicts.GetPrevious Method (Outlook)
+title: Conflicts.GetPrevious method (Outlook)
 keywords: vbaol11.chm409
 f1_keywords:
 - vbaol11.chm409
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conflicts.GetPrevious Method (Outlook)
+# Conflicts.GetPrevious method (Outlook)
 
 Returns the previous object in the  **[Conflicts](Outlook.Conflicts.md)** collection.
 
@@ -21,7 +21,7 @@ Returns the previous object in the  **[Conflicts](Outlook.Conflicts.md)** collec
 
 _expression_. `GetPrevious`
 
-_expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
+_expression_ A variable that represents a [Conflicts](Outlook.Conflicts.md) object.
 
 
 ## Return value

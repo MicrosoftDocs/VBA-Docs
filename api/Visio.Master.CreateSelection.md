@@ -1,5 +1,5 @@
 ---
-title: Master.CreateSelection Method (Visio)
+title: Master.CreateSelection method (Visio)
 keywords: vis_sdr.chm10751430
 f1_keywords:
 - vis_sdr.chm10751430
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.CreateSelection Method (Visio)
+# Master.CreateSelection method (Visio)
 
 Creates various types of  **Selection** objects.
 
 
 ## Syntax
 
- _expression_. `CreateSelection`( `_SelType_` , `_IterationMode_` , `_[Data]_` )
+_expression_. `CreateSelection`( `_SelType_` , `_IterationMode_` , `_[Data]_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

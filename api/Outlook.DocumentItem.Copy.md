@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Copy Method (Outlook)
+title: DocumentItem.Copy method (Outlook)
 keywords: vbaol11.chm1210
 f1_keywords:
 - vbaol11.chm1210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.Copy Method (Outlook)
+# DocumentItem.Copy method (Outlook)
 
 Creates another instance of an object.
 

@@ -1,5 +1,5 @@
 ---
-title: PostItem.IsMarkedAsTask Property (Outlook)
+title: PostItem.IsMarkedAsTask property (Outlook)
 keywords: vbaol11.chm3045
 f1_keywords:
 - vbaol11.chm3045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.IsMarkedAsTask Property (Outlook)
+# PostItem.IsMarkedAsTask property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[PostItem](Outlook.PostItem.md)** is marked as a task. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates whether the **[PostItem](Outlook.Pos
 
 _expression_. `IsMarkedAsTask`
 
- _expression_ An expression that returns a [PostItem](./Outlook.PostItem.md) object.
+ _expression_ An expression that returns a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

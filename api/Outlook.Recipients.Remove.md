@@ -1,5 +1,5 @@
 ---
-title: Recipients.Remove Method (Outlook)
+title: Recipients.Remove method (Outlook)
 keywords: vbaol11.chm233
 f1_keywords:
 - vbaol11.chm233
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Recipients.Remove Method (Outlook)
+# Recipients.Remove method (Outlook)
 
 Removes an object from the collection.
 
 
 ## Syntax
 
-_expression_. `Remove`( `_Index_` )
+_expression_. `Remove` (_Index_)
 
-_expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
+_expression_ A variable that represents a [Recipients](Outlook.Recipients.md) object.
 
 
 ## Parameters

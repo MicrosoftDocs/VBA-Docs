@@ -1,5 +1,5 @@
 ---
-title: SharingItem.OutlookInternalVersion Property (Outlook)
+title: SharingItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm615
 f1_keywords:
 - vbaol11.chm615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.OutlookInternalVersion Property (Outlook)
+# SharingItem.OutlookInternalVersion property (Outlook)
 
 Returns a  **Long** representing the build number of the Outlook application for a **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** representing the build number of the Outlook application for
 
 _expression_. `OutlookInternalVersion`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

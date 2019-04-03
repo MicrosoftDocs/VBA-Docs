@@ -1,5 +1,5 @@
 ---
-title: MailItem.FlagRequest Property (Outlook)
+title: MailItem.FlagRequest property (Outlook)
 keywords: vbaol11.chm1336
 f1_keywords:
 - vbaol11.chm1336
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.FlagRequest Property (Outlook)
+# MailItem.FlagRequest property (Outlook)
 
 Returns or sets a  **String** that indicates the requested action for a mail item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** that indicates the requested action for a mail ite
 
 _expression_. `FlagRequest`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

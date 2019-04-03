@@ -1,5 +1,5 @@
 ---
-title: ContactItem.LastFirstAndSuffix Property (Outlook)
+title: ContactItem.LastFirstAndSuffix property (Outlook)
 keywords: vbaol11.chm1027
 f1_keywords:
 - vbaol11.chm1027
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.LastFirstAndSuffix Property (Outlook)
+# ContactItem.LastFirstAndSuffix property (Outlook)
 
 Returns a  **String** representing the last name, first name, middle name, and suffix of the contact. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the last name, first name, middle name, and s
 
 _expression_. `LastFirstAndSuffix`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

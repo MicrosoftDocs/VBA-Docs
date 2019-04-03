@@ -1,5 +1,5 @@
 ---
-title: RuleCondition Object (Outlook)
+title: RuleCondition object (Outlook)
 keywords: vbaol11.chm3173
 f1_keywords:
 - vbaol11.chm3173
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleCondition Object (Outlook)
+# RuleCondition object (Outlook)
 
 The  **RuleCondition** object represents either a condition that must be met before a rule executes, or an exception condition that must not be met before a rule executes.
 
@@ -63,6 +63,6 @@ For more information on rule conditions, see [Specifying Rule Conditions](../out
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

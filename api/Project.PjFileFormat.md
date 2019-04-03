@@ -1,5 +1,5 @@
 ---
-title: PjFileFormat Enumeration (Project)
+title: PjFileFormat enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjFileFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjFileFormat Enumeration (Project)
+# PjFileFormat enumeration (Project)
 
 Contains constants that specify the file format.
 

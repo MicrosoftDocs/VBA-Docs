@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OtherFaxNumber Property (Outlook)
+title: ContactItem.OtherFaxNumber property (Outlook)
 keywords: vbaol11.chm1056
 f1_keywords:
 - vbaol11.chm1056
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OtherFaxNumber Property (Outlook)
+# ContactItem.OtherFaxNumber property (Outlook)
 
 Returns or sets a  **String** representing the other fax number for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the other fax number for the contact.
 
 _expression_. `OtherFaxNumber`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

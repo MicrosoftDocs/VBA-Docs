@@ -1,5 +1,5 @@
 ---
-title: Document.TimeSaved Property (Visio)
+title: Document.TimeSaved property (Visio)
 keywords: vis_sdr.chm10550920
 f1_keywords:
 - vis_sdr.chm10550920
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.TimeSaved Property (Visio)
+# Document.TimeSaved property (Visio)
 
 Returns the date and time the document was last saved. Read-only.
 
 
 ## Syntax
 
- _expression_. `TimeSaved`
+_expression_. `TimeSaved`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

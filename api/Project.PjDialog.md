@@ -1,5 +1,5 @@
 ---
-title: PjDialog Enumeration (Project)
+title: PjDialog enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDialog
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjDialog Enumeration (Project)
+# PjDialog enumeration (Project)
 
 Contains constants that specify the dialog box to activate.
 

@@ -1,5 +1,5 @@
 ---
-title: MailItem.RTFBody Property (Outlook)
+title: MailItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3554
 f1_keywords:
 - vbaol11.chm3554
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.RTFBody Property (Outlook)
+# MailItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.InsertListMember Method (Visio)
+title: ContainerProperties.InsertListMember method (Visio)
 keywords: vis_sdr.chm17662320
 f1_keywords:
 - vis_sdr.chm17662320
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ContainerProperties.InsertListMember Method (Visio)
+# ContainerProperties.InsertListMember method (Visio)
 
 Adds a shape or set of shapes to the list in the container.
 
 
 ## Syntax
 
- _expression_. `InsertListMember`( `_ObjectToInsert_` , `_Position_` )
+_expression_. `InsertListMember`( `_ObjectToInsert_` , `_Position_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

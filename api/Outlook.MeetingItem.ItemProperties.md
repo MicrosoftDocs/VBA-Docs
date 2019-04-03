@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.ItemProperties Property (Outlook)
+title: MeetingItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1462
 f1_keywords:
 - vbaol11.chm1462
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.ItemProperties Property (Outlook)
+# MeetingItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 _expression_. `ItemProperties`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

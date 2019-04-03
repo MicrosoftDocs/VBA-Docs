@@ -19,7 +19,7 @@ Returns an  **[OMathPhantom](Word.OMathPhantom.md)** object that represents an o
 
 ## Syntax
 
- _expression_. `Phantom`
+_expression_. `Phantom`
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

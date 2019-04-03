@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # AxisTitle.Position property (Word)
 
-Returns or sets the position of the axis title on the chart. Read/write  **[xlChartElementPosition](Word.xlchartelementposition.md)**.
+Returns or sets the position of the axis title on the chart. Read/write  **[XlChartElementPosition](Word.xlchartelementposition.md)**.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
  _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 

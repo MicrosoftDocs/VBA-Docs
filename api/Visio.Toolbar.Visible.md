@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Visible Property (Visio)
+title: Toolbar.Visible property (Visio)
 keywords: vis_sdr.chm13714650
 f1_keywords:
 - vis_sdr.chm13714650
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Toolbar.Visible Property (Visio)
+# Toolbar.Visible property (Visio)
 
 Determines whether an object is visible. Read/write.
 

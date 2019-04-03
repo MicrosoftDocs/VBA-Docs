@@ -19,7 +19,7 @@ Returns a  **Boolean** that specifies whether this document can be co authored. 
 
 ## Syntax
 
- _expression_. `CanShare`
+_expression_. `CanShare`
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 

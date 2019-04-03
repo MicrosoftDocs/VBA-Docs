@@ -19,7 +19,7 @@ Formats the first character in the specified paragraph as a dropped capital lett
 
 ## Syntax
 
- _expression_. `Enable`
+_expression_. `Enable`
 
  _expression_ Required. A variable that represents a '[DropCap](Word.DropCap.md)' object.
 

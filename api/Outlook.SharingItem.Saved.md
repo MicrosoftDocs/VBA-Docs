@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Saved Property (Outlook)
+title: SharingItem.Saved property (Outlook)
 keywords: vbaol11.chm617
 f1_keywords:
 - vbaol11.chm617
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Saved Property (Outlook)
+# SharingItem.Saved property (Outlook)
 
 Returns a  **Boolean** value that is **true** if the **[SharingItem](Outlook.SharingItem.md)** has not been modified since the last save. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that is **true** if the **[SharingItem](Outlook.Sha
 
 _expression_. `Saved`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also

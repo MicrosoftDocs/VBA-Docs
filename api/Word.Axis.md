@@ -21,7 +21,7 @@ Represents a single axis in a chart.
 
 The  **Axis** object is a member of the **[Axes](Word.Axes.md)** collection.
 
-Use  **Axes** ( _Type_ , _AxisGroup_ ) where _Type_ is the axis type and _AxisGroup_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[xlAxisType](Word.xlaxistype.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[xlAxisGroup](Word.xlaxisgroup.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](Word.Chart.Axes.md)** method.
+Use  **Axes** ( _Type_ , _AxisGroup_ ) where _Type_ is the axis type and _AxisGroup_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](Word.xlaxistype.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](Word.xlaxisgroup.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](Word.Chart.Axes.md)** method.
 
 
 ## Example
@@ -45,6 +45,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

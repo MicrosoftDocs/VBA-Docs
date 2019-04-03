@@ -1,5 +1,5 @@
 ---
-title: Task.BaselineDeliverableStart Property (Project)
+title: Task.BaselineDeliverableStart property (Project)
 keywords: vbapj.chm131573
 f1_keywords:
 - vbapj.chm131573
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.BaselineDeliverableStart Property (Project)
+# Task.BaselineDeliverableStart property (Project)
 
 Gets or sets the task baseline deliverables start date. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BaselineDeliverableStart`
+_expression_. `BaselineDeliverableStart`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Columns.Item Method (Publisher)
+title: Columns.Item method (Publisher)
 keywords: vbapb10.chm5046272
 f1_keywords:
 - vbapb10.chm5046272
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Columns.Item Method (Publisher)
+# Columns.Item method (Publisher)
 
 Returns an individual  **Column** object in the specified **Columns** collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **Columns** object.
 

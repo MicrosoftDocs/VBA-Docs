@@ -19,7 +19,7 @@ Applies the current settings of a Microsoft Word dialog box.
 
 ## Syntax
 
- _expression_. `Execute`
+_expression_. `Execute`
 
  _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 

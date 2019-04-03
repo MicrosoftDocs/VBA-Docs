@@ -1,5 +1,5 @@
 ---
-title: Application.WindowDeactivate Event (Project)
+title: Application.WindowDeactivate event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowDeactivate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowDeactivate Event (Project)
+# Application.WindowDeactivate event (Project)
 
 Occurs when any window within Project is deactivated. The  **WindowDeactivate** event does not occur when the application window is deactivated.
 
 
 ## Syntax
 
- _expression_. `WindowDeactivate`( `_deactivatedWindow_`, )
+_expression_. `WindowDeactivate`( `_deactivatedWindow_`, )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

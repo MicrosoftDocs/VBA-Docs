@@ -1,5 +1,5 @@
 ---
-title: Task.Recurring Property (Project)
+title: Task.Recurring property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Recurring
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Recurring Property (Project)
+# Task.Recurring property (Project)
 
  **True** if the task is a recurring task. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `Recurring`
+_expression_. `Recurring`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

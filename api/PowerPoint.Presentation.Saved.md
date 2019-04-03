@@ -1,5 +1,5 @@
 ---
-title: Presentation.Saved Property (PowerPoint)
+title: Presentation.Saved property (PowerPoint)
 keywords: vbapp10.chm583027
 f1_keywords:
 - vbapp10.chm583027
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Saved Property (PowerPoint)
+# Presentation.Saved property (PowerPoint)
 
 Determines whether changes have been made to a presentation since it was last saved. Read/write.
 
 
 ## Syntax
 
- _expression_. `Saved`
+_expression_. `Saved`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.ExecuteLine Method (Visio)
+title: Document.ExecuteLine method (Visio)
 keywords: vis_sdr.chm10516260
 f1_keywords:
 - vis_sdr.chm10516260
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ExecuteLine Method (Visio)
+# Document.ExecuteLine method (Visio)
 
 Executes a line of Microsoft Visual Basic code.
 
 
 ## Syntax
 
- _expression_. `ExecuteLine`( `_Line_` )
+_expression_. `ExecuteLine`( `_Line_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

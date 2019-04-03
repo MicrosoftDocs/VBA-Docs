@@ -19,7 +19,7 @@ Separates a list into two separate lists. For numbered lists, the new list resta
 
 ## Syntax
 
- _expression_. `SeparateList`
+_expression_. `SeparateList`
 
  _expression_ An expression that returns a '[Paragraph](Word.Paragraph.md)' object.
 

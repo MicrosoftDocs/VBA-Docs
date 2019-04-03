@@ -1,5 +1,5 @@
 ---
-title: PageSize.HorizontalGap Property (Publisher)
+title: PageSize.HorizontalGap property (Publisher)
 keywords: vbapb10.chm8847368
 f1_keywords:
 - vbapb10.chm8847368
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageSize.HorizontalGap Property (Publisher)
+# PageSize.HorizontalGap property (Publisher)
 
 Returns a  **Variant** that represents the distance between the right edge of one publication page and left edge of the next publication page in the same row in the blank page size represented by the parent **PageSize** object when multiple pages are printed on one sheet of printer paper. Read-only.
 
 
 ## Syntax
 
- _expression_. **HorizontalGap**
+ _expression_.**HorizontalGap**
 
  _expression_ A variable that represents a  **PageSize** object.
 

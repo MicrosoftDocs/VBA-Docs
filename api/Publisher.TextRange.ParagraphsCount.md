@@ -1,5 +1,5 @@
 ---
-title: TextRange.ParagraphsCount Property (Publisher)
+title: TextRange.ParagraphsCount property (Publisher)
 keywords: vbapb10.chm5308501
 f1_keywords:
 - vbapb10.chm5308501
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.ParagraphsCount Property (Publisher)
+# TextRange.ParagraphsCount property (Publisher)
 
 Returns the number of paragraphs of text in the text range represented by the parent  **TextRange** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **ParagraphsCount**
+ _expression_.**ParagraphsCount**
 
  _expression_ A variable that represents a  **TextRange** object.
 

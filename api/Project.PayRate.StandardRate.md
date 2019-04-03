@@ -1,5 +1,5 @@
 ---
-title: PayRate.StandardRate Property (Project)
+title: PayRate.StandardRate property (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRate.StandardRate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# PayRate.StandardRate Property (Project)
+# PayRate.StandardRate property (Project)
 
 Gets or sets the standard rate of the pay rate. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `StandardRate`
+_expression_. `StandardRate`
 
  _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 

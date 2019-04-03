@@ -1,5 +1,5 @@
 ---
-title: Styles.StyleAdded Event (Visio)
+title: Styles.StyleAdded event (Visio)
 keywords: vis_sdr.chm11519245
 f1_keywords:
 - vis_sdr.chm11519245
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Styles.StyleAdded Event (Visio)
+# Styles.StyleAdded event (Visio)
 
 Occurs after a new style is added to a document.
 

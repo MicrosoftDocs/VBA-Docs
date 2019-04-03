@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Axis.ScaleType property (Word)
 
-Returns or sets the value axis scale type. Read/write  **[xlScaleType](Word.xlscaletype.md)**.
+Returns or sets the value axis scale type. Read/write  **[XlScaleType](Word.xlscaletype.md)**.
 
 
 ## Syntax
 
- _expression_. `ScaleType`
+_expression_. `ScaleType`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Example

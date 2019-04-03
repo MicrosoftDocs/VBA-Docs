@@ -1,5 +1,5 @@
 ---
-title: Application.FindEx Method (Project)
+title: Application.FindEx method (Project)
 keywords: vbapj.chm97
 f1_keywords:
 - vbapj.chm97
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.FindEx Method (Project)
+# Application.FindEx method (Project)
 
 Searches for an unfiltered value in a specified field or in all available fields; returns  **True** if the value is found.
 
 
 ## Syntax
 
-_expression_. **FindEx** (**_Field_**, **_Test_**, **_Value_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**, **_SearchAllFields_**)
+_expression_.**FindEx** (**_Field_**, **_Test_**, **_Value_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**, **_SearchAllFields_**)
 
 _expression_ An expression that returns an **Application** object.
 

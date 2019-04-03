@@ -1,5 +1,5 @@
 ---
-title: VisListDirection Enumeration (Visio)
+title: VisListDirection enumeration (Visio)
 keywords: vis_sdr.chm70610
 f1_keywords:
 - vis_sdr.chm70610
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisListDirection Enumeration (Visio)
+# VisListDirection enumeration (Visio)
 
 Specifies constants that identify the list direction; passed to and returned by the  **[ContainerProperties.ListDirection](Visio.ContainerProperties.ListDirection.md)** property.
 

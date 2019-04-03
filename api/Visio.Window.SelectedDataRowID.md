@@ -1,5 +1,5 @@
 ---
-title: Window.SelectedDataRowID Property (Visio)
+title: Window.SelectedDataRowID property (Visio)
 keywords: vis_sdr.chm11660250
 f1_keywords:
 - vis_sdr.chm11660250
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window.SelectedDataRowID Property (Visio)
+# Window.SelectedDataRowID property (Visio)
 
 Gets or sets the ID of the data row that is selected (or that is the primary row selected, when multiple rows are selected) on the active tab of the  **External Data Window** in the Microsoft Visio user interface (UI). Read/write.
 
@@ -22,7 +22,7 @@ Gets or sets the ID of the data row that is selected (or that is the primary row
 
 ## Syntax
 
- _expression_. `SelectedDataRowID`
+_expression_. `SelectedDataRowID`
 
  _expression_ An expression that returns a [Window](./Visio.Window.md) object.
 

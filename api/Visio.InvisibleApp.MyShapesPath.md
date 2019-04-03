@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.MyShapesPath Property (Visio)
+title: InvisibleApp.MyShapesPath property (Visio)
 keywords: vis_sdr.chm17560045
 f1_keywords:
 - vis_sdr.chm17560045
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.MyShapesPath Property (Visio)
+# InvisibleApp.MyShapesPath property (Visio)
 
 Gets or sets where Microsoft Visio looks for the  **My Shapes** folder on the user's hard disk. Read/write.
 
 
 ## Syntax
 
- _expression_. `MyShapesPath`
+_expression_. `MyShapesPath`
 
  _expression_ An expression that returns an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

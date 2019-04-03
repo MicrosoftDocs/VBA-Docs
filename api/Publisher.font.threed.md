@@ -1,5 +1,5 @@
 ---
-title: Font.ThreeD Property (Publisher)
+title: Font.ThreeD property (Publisher)
 keywords: vbapb10.chm5374023
 f1_keywords:
 - vbapb10.chm5374023
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Font.ThreeD Property (Publisher)
+# Font.ThreeD property (Publisher)
 
 Returns a  [ThreeDFormat](Publisher.ThreeDFormat.md) object that contains 3-D effect formatting properties for the specified font. Read-only.
 
 
 ## Syntax
 
- _expression_. **ThreeD**
+ _expression_.**ThreeD**
 
  _expression_ A variable that represents a  **Font** object.
 

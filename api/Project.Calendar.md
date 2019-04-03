@@ -1,5 +1,5 @@
 ---
-title: Calendar Object (Project)
+title: Calendar object (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendar
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Calendar Object (Project)
+# Calendar object (Project)
 
 
 

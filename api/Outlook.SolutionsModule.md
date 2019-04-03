@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule Object (Outlook)
+title: SolutionsModule object (Outlook)
 keywords: vbaol11.chm3371
 f1_keywords:
 - vbaol11.chm3371
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SolutionsModule Object (Outlook)
+# SolutionsModule object (Outlook)
 
 Represents the  **Solutions** navigation module in the navigation pane of an explorer.
 
@@ -63,6 +63,6 @@ To see an example of an add-in that adds folders to the  **Solutions** module, s
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

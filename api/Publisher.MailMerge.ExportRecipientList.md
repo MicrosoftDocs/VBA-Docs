@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ExportRecipientList Method (Publisher)
+title: MailMerge.ExportRecipientList method (Publisher)
 keywords: vbapb10.chm6225941
 f1_keywords:
 - vbapb10.chm6225941
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MailMerge.ExportRecipientList Method (Publisher)
+# MailMerge.ExportRecipientList method (Publisher)
 
 Exports the list of mail-merge recipients to a Microsoft Office Access (.mdb) file or to a comma-delimited text (.csv) file.
 
 
 ## Syntax
 
- _expression_. **ExportRecipientList**(**_Filename_**,  **_FileType_**,  **_IncludedOnly_**)
+ _expression_.**ExportRecipientList**(**_FileName_**,  **_FileType_**,  **_IncludedOnly_**)
 
  _expression_ A variable that represents a  **MailMerge** object.
 
@@ -50,7 +50,7 @@ The  **ExportRecipientList** method corresponds to the **Export recipient list t
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ExportRecipientList** method to export the list of mail-merge recipients to an Access database file. Before running this macro, ensure that the active document is connected to a data source. If the active document is not already connected to a data source, you can use the ** [MailMerge.OpenDataSource](Publisher.MailMerge.OpenDataSource.md)** method to make the connection.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ExportRecipientList** method to export the list of mail-merge recipients to an Access database file. Before running this macro, ensure that the active document is connected to a data source. If the active document is not already connected to a data source, you can use the **[MailMerge.OpenDataSource](Publisher.MailMerge.OpenDataSource.md)** method to make the connection.
 
 Also, before running the code, replace  _username_ in the folder path to the saved file with the name of a valid user on your computer, or replace the folder path and file name with a path and file name of your choice.
 

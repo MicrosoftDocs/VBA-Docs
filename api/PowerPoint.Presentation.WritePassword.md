@@ -1,5 +1,5 @@
 ---
-title: Presentation.WritePassword Property (PowerPoint)
+title: Presentation.WritePassword property (PowerPoint)
 keywords: vbapp10.chm583081
 f1_keywords:
 - vbapp10.chm583081
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.WritePassword Property (PowerPoint)
+# Presentation.WritePassword property (PowerPoint)
 
 Sets or returns the password for saving changes to the specified document. Read/write.
 
 
 ## Syntax
 
- _expression_. `WritePassword`
+_expression_. `WritePassword`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

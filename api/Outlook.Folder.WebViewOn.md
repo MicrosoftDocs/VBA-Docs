@@ -1,5 +1,5 @@
 ---
-title: Folder.WebViewOn Property (Outlook)
+title: Folder.WebViewOn property (Outlook)
 keywords: vbaol11.chm2000
 f1_keywords:
 - vbaol11.chm2000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.WebViewOn Property (Outlook)
+# Folder.WebViewOn property (Outlook)
 
 Returns or sets a  **Boolean** indicating the Web view state for a folder. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** indicating the Web view state for a folder. Read/
 
 _expression_. `WebViewOn`
 
-_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks

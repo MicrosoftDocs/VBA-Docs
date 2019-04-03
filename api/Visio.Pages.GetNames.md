@@ -1,5 +1,5 @@
 ---
-title: Pages.GetNames Method (Visio)
+title: Pages.GetNames method (Visio)
 keywords: vis_sdr.chm11016315
 f1_keywords:
 - vis_sdr.chm11016315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Pages.GetNames Method (Visio)
+# Pages.GetNames method (Visio)
 
 Returns the names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNames`( `_localeSpecificNameArray()_` )
+_expression_. `GetNames`( `_localeSpecificNameArray()_` )
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 

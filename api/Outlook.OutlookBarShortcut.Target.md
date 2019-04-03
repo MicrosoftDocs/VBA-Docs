@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.Target Property (Outlook)
+title: OutlookBarShortcut.Target property (Outlook)
 keywords: vbaol11.chm343
 f1_keywords:
 - vbaol11.chm343
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.Target Property (Outlook)
+# OutlookBarShortcut.Target property (Outlook)
 
 Returns a  **Variant** indicating the target of the specified shortcut in a **Shortcuts** pane group. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Variant** indicating the target of the specified shortcut in a **Sh
 
 _expression_. `Target`
 
-_expression_ A variable that represents an [OutlookBarShortcut](./Outlook.OutlookBarShortcut.md) object.
+_expression_ A variable that represents an [OutlookBarShortcut](Outlook.OutlookBarShortcut.md) object.
 
 
 ## Remarks

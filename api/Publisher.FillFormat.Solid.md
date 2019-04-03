@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Solid Method (Publisher)
+title: FillFormat.Solid method (Publisher)
 keywords: vbapb10.chm2359317
 f1_keywords:
 - vbapb10.chm2359317
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FillFormat.Solid Method (Publisher)
+# FillFormat.Solid method (Publisher)
 
 Sets the specified fill to a uniform color. Use this method to convert a gradient, textured, patterned, or background fill back to a solid fill.
 
 
 ## Syntax
 
- _expression_. **Solid**
+ _expression_.**Solid**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

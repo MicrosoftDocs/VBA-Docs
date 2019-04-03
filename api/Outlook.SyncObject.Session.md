@@ -1,5 +1,5 @@
 ---
-title: SyncObject.Session Property (Outlook)
+title: SyncObject.Session property (Outlook)
 keywords: vbaol11.chm105
 f1_keywords:
 - vbaol11.chm105
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObject.Session Property (Outlook)
+# SyncObject.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
+_expression_ A variable that represents a [SyncObject](Outlook.SyncObject.md) object.
 
 
 ## Remarks

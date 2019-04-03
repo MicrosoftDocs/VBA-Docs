@@ -1,5 +1,5 @@
 ---
-title: AddressRuleCondition.Address Property (Outlook)
+title: AddressRuleCondition.Address property (Outlook)
 keywords: vbaol11.chm2955
 f1_keywords:
 - vbaol11.chm2955
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressRuleCondition.Address Property (Outlook)
+# AddressRuleCondition.Address property (Outlook)
 
 Returns or sets an array of  **String** elements to evaluate the address rule condition. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an array of  **String** elements to evaluate the address rule co
 
 _expression_. `Address`
 
-_expression_ A variable that represents an [AddressRuleCondition](./Outlook.AddressRuleCondition.md) object.
+_expression_ A variable that represents an [AddressRuleCondition](Outlook.AddressRuleCondition.md) object.
 
 
 ## Remarks

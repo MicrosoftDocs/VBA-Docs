@@ -1,5 +1,5 @@
 ---
-title: Application.InsertResource Method (Project)
+title: Application.InsertResource method (Project)
 keywords: vbapj.chm2179
 f1_keywords:
 - vbapj.chm2179
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.InsertResource Method (Project)
+# Application.InsertResource method (Project)
 
 Inserts a new resource in a resource view.
 
 
 ## Syntax
 
- _expression_. `InsertResource`( `_Type_` )
+_expression_. `InsertResource`( `_Type_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

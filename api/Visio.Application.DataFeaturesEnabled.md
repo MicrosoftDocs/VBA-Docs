@@ -1,5 +1,5 @@
 ---
-title: Application.DataFeaturesEnabled Property (Visio)
+title: Application.DataFeaturesEnabled property (Visio)
 keywords: vis_sdr.chm10060055
 f1_keywords:
 - vis_sdr.chm10060055
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DataFeaturesEnabled Property (Visio)
+# Application.DataFeaturesEnabled property (Visio)
 
 Gets whether the data features in Microsoft Visio are enabled for the current instance of Visio. Read-only.
 
 
 ## Syntax
 
- _expression_. `DataFeaturesEnabled`
+_expression_. `DataFeaturesEnabled`
 
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 

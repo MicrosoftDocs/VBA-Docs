@@ -19,7 +19,7 @@ Clears the list of words that were previously ignored during a spelling check.
 
 ## Syntax
 
- _expression_. `ResetIgnoreAll`
+_expression_. `ResetIgnoreAll`
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

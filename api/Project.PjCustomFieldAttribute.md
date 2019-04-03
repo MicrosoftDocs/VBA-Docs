@@ -1,5 +1,5 @@
 ---
-title: PjCustomFieldAttribute Enumeration (Project)
+title: PjCustomFieldAttribute enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCustomFieldAttribute
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjCustomFieldAttribute Enumeration (Project)
+# PjCustomFieldAttribute enumeration (Project)
 
 Contains constants that specify a field attribute.
 

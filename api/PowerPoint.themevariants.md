@@ -1,5 +1,5 @@
 ---
-title: ThemeVariants Object (PowerPoint)
+title: ThemeVariants object (PowerPoint)
 keywords: vbapp10.chm739000
 f1_keywords:
 - vbapp10.chm739000
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# ThemeVariants Object (PowerPoint)
+# ThemeVariants object (PowerPoint)
 
 A collection of  **[ThemeVariant](PowerPoint.themevariant.md)** objects that represent variations in the theme.
 

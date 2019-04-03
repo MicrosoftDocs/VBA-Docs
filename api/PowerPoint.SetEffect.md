@@ -1,5 +1,5 @@
 ---
-title: SetEffect Object (PowerPoint)
+title: SetEffect object (PowerPoint)
 keywords: vbapp10.chm670000
 f1_keywords:
 - vbapp10.chm670000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SetEffect Object (PowerPoint)
+# SetEffect object (PowerPoint)
 
 Represents a set effect for an animation behavior. You can use the  **SetEffect** object to set the value of a property.
 

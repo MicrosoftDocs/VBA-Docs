@@ -1,5 +1,5 @@
 ---
-title: Items.ResetColumns Method (Outlook)
+title: Items.ResetColumns method (Outlook)
 keywords: vbaol11.chm69
 f1_keywords:
 - vbaol11.chm69
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.ResetColumns Method (Outlook)
+# Items.ResetColumns method (Outlook)
 
 Clears the properties that have been cached with the  **[SetColumns](Outlook.Items.SetColumns.md)** method.
 
@@ -21,7 +21,7 @@ Clears the properties that have been cached with the  **[SetColumns](Outlook.Ite
 
 _expression_. `ResetColumns`
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Remarks

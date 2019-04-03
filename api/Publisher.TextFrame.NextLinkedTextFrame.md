@@ -1,5 +1,5 @@
 ---
-title: TextFrame.NextLinkedTextFrame Property (Publisher)
+title: TextFrame.NextLinkedTextFrame property (Publisher)
 keywords: vbapb10.chm3866648
 f1_keywords:
 - vbapb10.chm3866648
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.NextLinkedTextFrame Property (Publisher)
+# TextFrame.NextLinkedTextFrame property (Publisher)
 
 Returns or sets a  **[TextFrame](Publisher.TextFrame.md)** object representing the text frame to which text flows from the specified text frame. Read/write.
 
 
 ## Syntax
 
- _expression_. **NextLinkedTextFrame**
+ _expression_.**NextLinkedTextFrame**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

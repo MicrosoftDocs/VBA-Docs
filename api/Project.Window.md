@@ -1,5 +1,5 @@
 ---
-title: Window Object (Project)
+title: Window object (Project)
 keywords: vbapj.chm131356
 f1_keywords:
 - vbapj.chm131356
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Window Object (Project)
+# Window object (Project)
 
 Represents a window in the application or project. The  **Window** object is a member of the **[Windows](Project.windows(object).md)** collection.
  

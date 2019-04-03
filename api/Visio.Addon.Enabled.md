@@ -1,5 +1,5 @@
 ---
-title: Addon.Enabled Property (Visio)
+title: Addon.Enabled property (Visio)
 keywords: vis_sdr.chm12413455
 f1_keywords:
 - vis_sdr.chm12413455
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Addon.Enabled Property (Visio)
+# Addon.Enabled property (Visio)
 
 Determines whether or not an  **Addon** object is currently enabled. Read/write.
 

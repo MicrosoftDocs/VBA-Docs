@@ -1,5 +1,5 @@
 ---
-title: PpViewType Enumeration (PowerPoint)
+title: PpViewType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpViewType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpViewType Enumeration (PowerPoint)
+# PpViewType enumeration (PowerPoint)
 
 Constants that specify the type of view, passed to and returned by the  **DocumentWindow** object, and returned by the **Pane** object.
 

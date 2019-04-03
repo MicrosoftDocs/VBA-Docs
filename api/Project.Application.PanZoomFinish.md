@@ -1,5 +1,5 @@
 ---
-title: Application.PanZoomFinish Property (Project)
+title: Application.PanZoomFinish property (Project)
 keywords: vbapj.chm132482
 f1_keywords:
 - vbapj.chm132482
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PanZoomFinish Property (Project)
+# Application.PanZoomFinish property (Project)
 
 Gets or sets the finish date of the Gantt chart view after a pan or zoom operation. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `PanZoomFinish`
+_expression_. `PanZoomFinish`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

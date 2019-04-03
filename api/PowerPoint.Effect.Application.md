@@ -1,5 +1,5 @@
 ---
-title: Effect.Application Property (PowerPoint)
+title: Effect.Application property (PowerPoint)
 keywords: vbapp10.chm652001
 f1_keywords:
 - vbapp10.chm652001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Effect.Application Property (PowerPoint)
+# Effect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

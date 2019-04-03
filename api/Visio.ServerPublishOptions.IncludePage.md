@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.IncludePage Method (Visio)
+title: ServerPublishOptions.IncludePage method (Visio)
 keywords: vis_sdr.chm17962365
 f1_keywords:
 - vis_sdr.chm17962365
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.IncludePage Method (Visio)
+# ServerPublishOptions.IncludePage method (Visio)
 
 Includes the specified page for publication when the document is published as a VDW file.
 
 
 ## Syntax
 
- _expression_. `IncludePage`( `_PageName_` , `_Flags_` )
+_expression_. `IncludePage`( `_PageName_` , `_Flags_` )
 
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 

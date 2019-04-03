@@ -1,5 +1,5 @@
 ---
-title: EventInfo.Cancel Property (Project)
+title: EventInfo.Cancel property (Project)
 keywords: vbapj.chm131085
 f1_keywords:
 - vbapj.chm131085
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# EventInfo.Cancel Property (Project)
+# EventInfo.Cancel property (Project)
 
 In an event handler, the  **Cancel** property gets or sets a value that specifies whether the operation that triggered the event should continue. If **True**, the operation is canceled. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Cancel`
+_expression_. `Cancel`
 
  _expression_ A variable that represents an [EventInfo](./Project.EventInfo.md) object.
 

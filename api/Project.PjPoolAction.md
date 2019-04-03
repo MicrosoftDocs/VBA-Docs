@@ -1,5 +1,5 @@
 ---
-title: PjPoolAction Enumeration (Project)
+title: PjPoolAction enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPoolAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjPoolAction Enumeration (Project)
+# PjPoolAction enumeration (Project)
 
 Contains constants that specify actions to perform on the resource pool.
 

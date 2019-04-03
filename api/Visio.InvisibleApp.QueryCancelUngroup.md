@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.QueryCancelUngroup Event (Visio)
+title: InvisibleApp.QueryCancelUngroup event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QueryCancelUngroup
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.QueryCancelUngroup Event (Visio)
+# InvisibleApp.QueryCancelUngroup event (Visio)
 
 Occurs before the application ungroups a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 

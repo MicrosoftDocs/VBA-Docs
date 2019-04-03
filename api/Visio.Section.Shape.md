@@ -1,5 +1,5 @@
 ---
-title: Section.Shape Property (Visio)
+title: Section.Shape property (Visio)
 keywords: vis_sdr.chm15714320
 f1_keywords:
 - vis_sdr.chm15714320
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Section.Shape Property (Visio)
+# Section.Shape property (Visio)
 
 Returns the  **Shape** object that owns a **Cell**, **Characters**, **Row**, or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: AddressEntries.GetNext Method (Outlook)
+title: AddressEntries.GetNext method (Outlook)
 keywords: vbaol11.chm35
 f1_keywords:
 - vbaol11.chm35
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddressEntries.GetNext Method (Outlook)
+# AddressEntries.GetNext method (Outlook)
 
 Returns the next object in the  **[AddressEntries](Outlook.AddressEntries.md)** collection.
 
@@ -21,7 +21,7 @@ Returns the next object in the  **[AddressEntries](Outlook.AddressEntries.md)** 
 
 _expression_. `GetNext`
 
-_expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
+_expression_ A variable that represents an [AddressEntries](Outlook.AddressEntries.md) object.
 
 
 ## Return value

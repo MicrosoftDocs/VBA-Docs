@@ -1,5 +1,5 @@
 ---
-title: PjPoolOpen Enumeration (Project)
+title: PjPoolOpen enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPoolOpen
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjPoolOpen Enumeration (Project)
+# PjPoolOpen enumeration (Project)
 
 Contains constants that specify the action to take when opening a resource pool or sharer file.
 

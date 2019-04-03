@@ -1,5 +1,5 @@
 ---
-title: TextRange.IndentLevel Property (PowerPoint)
+title: TextRange.IndentLevel property (PowerPoint)
 keywords: vbapp10.chm569025
 f1_keywords:
 - vbapp10.chm569025
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.IndentLevel Property (PowerPoint)
+# TextRange.IndentLevel property (PowerPoint)
 
 Returns or sets the indent level for the specified text as an integer from 1 to 5, where 1 indicates a first-level paragraph with no indentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `IndentLevel`
+_expression_. `IndentLevel`
 
  _expression_ A variable that represents an [TextRange](./PowerPoint.TextRange.md) object.
 

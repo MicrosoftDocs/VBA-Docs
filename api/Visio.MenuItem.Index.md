@@ -1,5 +1,5 @@
 ---
-title: MenuItem.Index Property (Visio)
+title: MenuItem.Index property (Visio)
 keywords: vis_sdr.chm12913695
 f1_keywords:
 - vis_sdr.chm12913695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MenuItem.Index Property (Visio)
+# MenuItem.Index property (Visio)
 
 Gets the ordinal position of a  **MenuItem** object in the **MenuItems** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 

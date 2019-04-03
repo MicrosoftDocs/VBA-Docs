@@ -1,5 +1,5 @@
 ---
-title: TabStops.Count Property (PowerPoint)
+title: TabStops.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TabStops.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# TabStops.Count Property (PowerPoint)
+# TabStops.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

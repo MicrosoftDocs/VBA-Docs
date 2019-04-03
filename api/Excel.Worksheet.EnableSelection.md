@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Worksheet.EnableSelection property (Excel)
 
-Returns or sets what can be selected on the sheet. Read/write  **[xlEnableSelection](Excel.XlEnableSelection.md)**.
+Returns or sets what can be selected on the sheet. Read/write  **[XlEnableSelection](Excel.XlEnableSelection.md)**.
 
 
 ## Syntax
 
 _expression_. `EnableSelection`
 
-_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
 
 
 ## Remarks

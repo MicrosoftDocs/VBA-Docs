@@ -1,5 +1,5 @@
 ---
-title: Shape.XYFromPage Method (Visio)
+title: Shape.XYFromPage method (Visio)
 keywords: vis_sdr.chm11216645
 f1_keywords:
 - vis_sdr.chm11216645
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.XYFromPage Method (Visio)
+# Shape.XYFromPage method (Visio)
 
 Transforms a point expressed in the local coordinate system of its  **Page** or **Master** object to an equivalent point expressed in the local coordinate system of the **Shape** object.
 
 
 ## Syntax
 
- _expression_. `XYFromPage`( `_x_` , `_y_` , `_xprime_` , `_yprime_` )
+_expression_. `XYFromPage`( `_x_` , `_y_` , `_xprime_` , `_yprime_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

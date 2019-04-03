@@ -1,5 +1,5 @@
 ---
-title: Designs.Count Property (PowerPoint)
+title: Designs.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Designs.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Designs.Count Property (PowerPoint)
+# Designs.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 

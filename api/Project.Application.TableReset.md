@@ -1,5 +1,5 @@
 ---
-title: Application.TableReset Method (Project)
+title: Application.TableReset method (Project)
 keywords: vbapj.chm404
 f1_keywords:
 - vbapj.chm404
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TableReset Method (Project)
+# Application.TableReset method (Project)
 
 Resets the active table to the default table definition.
 
 
 ## Syntax
 
- _expression_. `TableReset`
+_expression_. `TableReset`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

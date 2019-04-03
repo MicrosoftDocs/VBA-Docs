@@ -1,5 +1,5 @@
 ---
-title: PjColor Enumeration (Project)
+title: PjColor enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjColor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjColor Enumeration (Project)
+# PjColor enumeration (Project)
 
 Contains constants that specify a color.
 

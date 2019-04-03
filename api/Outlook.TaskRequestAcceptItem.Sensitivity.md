@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Sensitivity Property (Outlook)
+title: TaskRequestAcceptItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1795
 f1_keywords:
 - vbaol11.chm1795
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Sensitivity Property (Outlook)
+# TaskRequestAcceptItem.Sensitivity property (Outlook)
 
 Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 _expression_. `Sensitivity`
 
-_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Application.UsageViewEntryEx Method (Project)
+title: Application.UsageViewEntryEx method (Project)
 keywords: vbapj.chm2163
 f1_keywords:
 - vbapj.chm2163
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.UsageViewEntryEx Method (Project)
+# Application.UsageViewEntryEx method (Project)
 
 Adds fields to the  **Details** pane and option menu for the Task Usage or Resource Usage views, and formats the styles to help distinguish detail rows.
 
 
 ## Syntax
 
- _expression_. `UsageViewEntryEx`( `_CurIndex_`, `_Order_`, `_FontWord_`, `_CellBackground_`, `_Pattern_`, `_Shortcut_`, `_DisplayField_`, `_FontColor_` )
+_expression_. `UsageViewEntryEx`( `_CurIndex_`, `_Order_`, `_FontWord_`, `_CellBackground_`, `_Pattern_`, `_Shortcut_`, `_DisplayField_`, `_FontColor_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

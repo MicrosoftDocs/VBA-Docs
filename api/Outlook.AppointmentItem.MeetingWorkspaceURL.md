@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.MeetingWorkspaceURL Property (Outlook)
+title: AppointmentItem.MeetingWorkspaceURL property (Outlook)
 keywords: vbaol11.chm919
 f1_keywords:
 - vbaol11.chm919
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.MeetingWorkspaceURL Property (Outlook)
+# AppointmentItem.MeetingWorkspaceURL property (Outlook)
 
 Returns a  **String** value that represents the URL for the Meeting Workspace that the appointment item is linked to. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the URL for the Meeting Workspace th
 
 _expression_. `MeetingWorkspaceURL`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

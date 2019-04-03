@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.ItemProperties Property (Outlook)
+title: DocumentItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1220
 f1_keywords:
 - vbaol11.chm1220
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DocumentItem.ItemProperties Property (Outlook)
+# DocumentItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 _expression_. `ItemProperties`
 
-_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks

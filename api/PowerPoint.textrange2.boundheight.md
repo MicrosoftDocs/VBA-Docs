@@ -1,5 +1,5 @@
 ---
-title: TextRange2.BoundHeight Property (PowerPoint)
+title: TextRange2.BoundHeight property (PowerPoint)
 ms.assetid: 0a31b143-3bb6-496e-ae50-acde90472742
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,14 +7,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange2.BoundHeight Property (PowerPoint)
+# TextRange2.BoundHeight property (PowerPoint)
 
 Gets the height, in points, of the text bounding box for the specified text. Read-only.
 
 
 ## Syntax
 
- _expression_. `BoundHeight`
+_expression_. `BoundHeight`
 
  _expression_ An expression that returns a 'TextRange2' object.
 
@@ -48,6 +48,6 @@ End With
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

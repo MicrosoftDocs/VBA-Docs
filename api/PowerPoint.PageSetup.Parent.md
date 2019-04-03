@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Parent Property (PowerPoint)
+title: PageSetup.Parent property (PowerPoint)
 keywords: vbapp10.chm527002
 f1_keywords:
 - vbapp10.chm527002
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageSetup.Parent Property (PowerPoint)
+# PageSetup.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 

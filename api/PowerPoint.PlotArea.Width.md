@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Width Property (PowerPoint)
+title: PlotArea.Width property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Width
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea.Width Property (PowerPoint)
+# PlotArea.Width property (PowerPoint)
 
 Returns or sets the width, in points, of the object. Read/write  **Double**.
 

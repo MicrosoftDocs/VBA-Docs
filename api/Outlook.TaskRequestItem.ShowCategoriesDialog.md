@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem.ShowCategoriesDialog Method (Outlook)
+title: TaskRequestItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1909
 f1_keywords:
 - vbaol11.chm1909
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestItem.ShowCategoriesDialog Method (Outlook)
+# TaskRequestItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
 
 ## Syntax
 
- _expression_. `ShowCategoriesDialog`
+_expression_. `ShowCategoriesDialog`
 
-_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Series.HasErrorBars Property (PowerPoint)
+title: Series.HasErrorBars property (PowerPoint)
 keywords: vbapp10.chm65696
 f1_keywords:
 - vbapp10.chm65696
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.HasErrorBars Property (PowerPoint)
+# Series.HasErrorBars property (PowerPoint)
 
  **True** if the series has error bars. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasErrorBars`
+_expression_. `HasErrorBars`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

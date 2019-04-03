@@ -1,5 +1,5 @@
 ---
-title: Assignment.CV Property (Project)
+title: Assignment.CV property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.CV
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.CV Property (Project)
+# Assignment.CV property (Project)
 
 Gets the cost variance for an  **Assignment**. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `CV`
+_expression_. `CV`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

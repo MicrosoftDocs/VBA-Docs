@@ -1,5 +1,5 @@
 ---
-title: FormDescription.MessageClass Property (Outlook)
+title: FormDescription.MessageClass property (Outlook)
 keywords: vbaol11.chm191
 f1_keywords:
 - vbaol11.chm191
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormDescription.MessageClass Property (Outlook)
+# FormDescription.MessageClass property (Outlook)
 
 Returns a  **String** representing the message class for the **[FormDescription](Outlook.FormDescription.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the message class for the **[FormDescription]
 
 _expression_. `MessageClass`
 
-_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: InstalledPrinters.Count Property (Publisher)
+title: InstalledPrinters.Count property (Publisher)
 keywords: vbapb10.chm8912897
 f1_keywords:
 - vbapb10.chm8912897
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InstalledPrinters.Count Property (Publisher)
+# InstalledPrinters.Count property (Publisher)
 
 Returns the number of printers installed on your computer. Read-only.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents an  **InstalledPrinters** collection.
 

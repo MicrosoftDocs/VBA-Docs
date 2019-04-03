@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Series.ChartType property (Word)
 
-Returns or sets the chart type. Read/write  **[xlChartType](./Excel.XlChartType.md)**.
+Returns or sets the chart type. Read/write  **[XlChartType](Excel.XlChartType.md)**.
 
 
 ## Syntax
 
- _expression_. `ChartType`
+_expression_. `ChartType`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 

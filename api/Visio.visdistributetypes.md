@@ -1,5 +1,5 @@
 ---
-title: VisDistributeTypes Enumeration (Visio)
+title: VisDistributeTypes enumeration (Visio)
 keywords: vis_sdr.chm70395
 f1_keywords:
 - vis_sdr.chm70395
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisDistributeTypes Enumeration (Visio)
+# VisDistributeTypes enumeration (Visio)
 
 Shape distribution types.
 

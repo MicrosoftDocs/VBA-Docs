@@ -1,5 +1,5 @@
 ---
-title: Resource.ActualOvertimeCost Property (Project)
+title: Resource.ActualOvertimeCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.ActualOvertimeCost
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.ActualOvertimeCost Property (Project)
+# Resource.ActualOvertimeCost property (Project)
 
 Gets the actual overtime cost for a resource. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualOvertimeCost`
+_expression_. `ActualOvertimeCost`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

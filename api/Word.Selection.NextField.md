@@ -19,7 +19,7 @@ Selects the next field.
 
 ## Syntax
 
- _expression_. `NextField`
+_expression_. `NextField`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

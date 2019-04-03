@@ -1,5 +1,5 @@
 ---
-title: Stores.StoreAdd Event (Outlook)
+title: Stores.StoreAdd event (Outlook)
 keywords: vbaol11.chm2755
 f1_keywords:
 - vbaol11.chm2755
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Stores.StoreAdd Event (Outlook)
+# Stores.StoreAdd event (Outlook)
 
 Occurs when a  **[Store](Outlook.Store.md)** has been added to the current session either programmatically or through user action.
 
@@ -21,7 +21,7 @@ Occurs when a  **[Store](Outlook.Store.md)** has been added to the current sessi
 
 _expression_. `StoreAdd`( `_Store_` )
 
-_expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
+_expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 
 ## Parameters

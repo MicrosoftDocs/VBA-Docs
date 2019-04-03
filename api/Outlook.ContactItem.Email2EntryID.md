@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email2EntryID Property (Outlook)
+title: ContactItem.Email2EntryID property (Outlook)
 keywords: vbaol11.chm998
 f1_keywords:
 - vbaol11.chm998
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Email2EntryID Property (Outlook)
+# ContactItem.Email2EntryID property (Outlook)
 
 Returns a  **String** representing the entry ID of the second email entry for the contact. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the entry ID of the second email entry for th
 
 _expression_. `Email2EntryID`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks

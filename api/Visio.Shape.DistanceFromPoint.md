@@ -1,5 +1,5 @@
 ---
-title: Shape.DistanceFromPoint Property (Visio)
+title: Shape.DistanceFromPoint property (Visio)
 keywords: vis_sdr.chm11213425
 f1_keywords:
 - vis_sdr.chm11213425
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.DistanceFromPoint Property (Visio)
+# Shape.DistanceFromPoint property (Visio)
 
 Returns the distance from a shape to a point. Read-only.
 
 
 ## Syntax
 
- _expression_. `DistanceFromPoint`( `_x_` , `_y_` , `_Flags_` , `_[pvPathIndex]_` , `_[pvCurveIndex]_` , `_[pvt]_` )
+_expression_. `DistanceFromPoint`( `_x_` , `_y_` , `_Flags_` , `_[pvPathIndex]_` , `_[pvCurveIndex]_` , `_[pvt]_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

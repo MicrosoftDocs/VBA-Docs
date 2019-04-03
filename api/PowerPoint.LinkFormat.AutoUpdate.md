@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.AutoUpdate Property (PowerPoint)
+title: LinkFormat.AutoUpdate property (PowerPoint)
 keywords: vbapp10.chm563004
 f1_keywords:
 - vbapp10.chm563004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LinkFormat.AutoUpdate Property (PowerPoint)
+# LinkFormat.AutoUpdate property (PowerPoint)
 
 Returns or sets the way the link will be updated. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoUpdate`
+_expression_. `AutoUpdate`
 
  _expression_ A variable that represents an [LinkFormat](./PowerPoint.LinkFormat.md) object.
 

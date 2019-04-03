@@ -1,5 +1,5 @@
 ---
-title: Recipient.Application Property (Outlook)
+title: Recipient.Application property (Outlook)
 keywords: vbaol11.chm2340
 f1_keywords:
 - vbaol11.chm2340
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.Application Property (Outlook)
+# Recipient.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## See also

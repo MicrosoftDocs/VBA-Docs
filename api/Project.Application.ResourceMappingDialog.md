@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceMappingDialog Method (Project)
+title: Application.ResourceMappingDialog method (Project)
 keywords: vbapj.chm2255
 f1_keywords:
 - vbapj.chm2255
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ResourceMappingDialog Method (Project)
+# Application.ResourceMappingDialog method (Project)
 
 Displays the  **Map Project Resources onto Enterprise Resources** dialog box, for importing local resources to Project Server.
 
 
 ## Syntax
 
- _expression_. `ResourceMappingDialog`
+_expression_. `ResourceMappingDialog`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

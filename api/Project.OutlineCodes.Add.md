@@ -1,5 +1,5 @@
 ---
-title: OutlineCodes.Add Method (Project)
+title: OutlineCodes.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCodes.Add
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# OutlineCodes.Add Method (Project)
+# OutlineCodes.Add method (Project)
 
 Adds an  **OutlineCode** object to an **OutlineCodes** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_FieldID_`, `_Name_` )
+ _expression_.**Add**( `_FieldID_`, `_Name_` )
 
  _expression_ A variable that represents an 'OutlineCodes' object.
 

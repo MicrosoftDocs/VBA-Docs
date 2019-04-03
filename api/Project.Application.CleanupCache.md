@@ -1,5 +1,5 @@
 ---
-title: Application.CleanupCache Method (Project)
+title: Application.CleanupCache method (Project)
 keywords: vbapj.chm2277
 f1_keywords:
 - vbapj.chm2277
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CleanupCache Method (Project)
+# Application.CleanupCache method (Project)
 
 Displays the  **Cleanup Cache** dialog box. Available only in Project Professional.
 
 
 ## Syntax
 
- _expression_. `CleanupCache`
+_expression_. `CleanupCache`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

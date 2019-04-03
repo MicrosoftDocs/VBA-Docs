@@ -1,5 +1,5 @@
 ---
-title: PeopleView.Language Property (Outlook)
+title: PeopleView.Language property (Outlook)
 keywords: vbaol11.chm3578
 f1_keywords:
 - vbaol11.chm3578
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# PeopleView.Language Property (Outlook)
+# PeopleView.Language property (Outlook)
 Returns or sets a  **String** value that represents the language setting for the view. Read/write.
 
 ## Version information
@@ -34,6 +34,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 
 
 [PeopleView Object](Outlook.peopleview.md)
-[PeopleView Members](./overview/Outlook.md)
+[PeopleView Members](overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

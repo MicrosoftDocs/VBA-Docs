@@ -1,5 +1,5 @@
 ---
-title: Application.CompareProjectsLegendToggle Method (Project)
+title: Application.CompareProjectsLegendToggle method (Project)
 keywords: vbapj.chm2188
 f1_keywords:
 - vbapj.chm2188
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CompareProjectsLegendToggle Method (Project)
+# Application.CompareProjectsLegendToggle method (Project)
 
 Shows or hides the legend in a project version comparison report.
 
 
 ## Syntax
 
- _expression_. `CompareProjectsLegendToggle`
+_expression_. `CompareProjectsLegendToggle`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

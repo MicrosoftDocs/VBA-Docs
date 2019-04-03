@@ -1,5 +1,5 @@
 ---
-title: Masters.UngroupCanceled Event (Visio)
+title: Masters.UngroupCanceled event (Visio)
 keywords: vis_sdr.chm10819375
 f1_keywords:
 - vis_sdr.chm10819375
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Masters.UngroupCanceled Event (Visio)
+# Masters.UngroupCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelUngroup** event.
 

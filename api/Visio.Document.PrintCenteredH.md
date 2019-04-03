@@ -1,5 +1,5 @@
 ---
-title: Document.PrintCenteredH Property (Visio)
+title: Document.PrintCenteredH property (Visio)
 keywords: vis_sdr.chm10514105
 f1_keywords:
 - vis_sdr.chm10514105
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.PrintCenteredH Property (Visio)
+# Document.PrintCenteredH property (Visio)
 
 Indicates whether drawings are centered between the left and right edges of the paper when printed. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintCenteredH`
+_expression_. `PrintCenteredH`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

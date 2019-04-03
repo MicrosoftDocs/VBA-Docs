@@ -1,5 +1,5 @@
 ---
-title: PjListOrder Enumeration (Project)
+title: PjListOrder enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjListOrder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjListOrder Enumeration (Project)
+# PjListOrder enumeration (Project)
 
 Contains constants that specify the order in which the items in a list are displayed.
 

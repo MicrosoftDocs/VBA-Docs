@@ -1,5 +1,5 @@
 ---
-title: Stories.Item Method (Publisher)
+title: Stories.Item method (Publisher)
 keywords: vbapb10.chm5701632
 f1_keywords:
 - vbapb10.chm5701632
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Stories.Item Method (Publisher)
+# Stories.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+ _expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **Stories** object.
 

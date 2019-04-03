@@ -1,5 +1,5 @@
 ---
-title: Styles Object (Visio)
+title: Styles object (Visio)
 keywords: vis_sdr.chm10260
 f1_keywords:
 - vis_sdr.chm10260
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Styles Object (Visio)
+# Styles object (Visio)
 
 Includes a  **Style** object for each style defined in a document.
 

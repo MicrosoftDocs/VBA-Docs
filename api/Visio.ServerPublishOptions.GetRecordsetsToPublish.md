@@ -1,5 +1,5 @@
 ---
-title: ServerPublishOptions.GetRecordsetsToPublish Method (Visio)
+title: ServerPublishOptions.GetRecordsetsToPublish method (Visio)
 keywords: vis_sdr.chm17962390
 f1_keywords:
 - vis_sdr.chm17962390
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ServerPublishOptions.GetRecordsetsToPublish Method (Visio)
+# ServerPublishOptions.GetRecordsetsToPublish method (Visio)
 
 Returns the identifiers (IDs) of the data recordsets that are set to be published to a server.
 
 
 ## Syntax
 
- _expression_. `GetRecordsetsToPublish`( `_PublishDataRecordsets_` , `_DataRecordsetIDs()_` )
+_expression_. `GetRecordsetsToPublish`( `_PublishDataRecordsets_` , `_DataRecordsetIDs()_` )
 
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 

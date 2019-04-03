@@ -1,5 +1,5 @@
 ---
-title: PostItem.Size Property (Outlook)
+title: PostItem.Size property (Outlook)
 keywords: vbaol11.chm1535
 f1_keywords:
 - vbaol11.chm1535
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PostItem.Size Property (Outlook)
+# PostItem.Size property (Outlook)
 
 Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
 _expression_. `Size`
 
-_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## See also

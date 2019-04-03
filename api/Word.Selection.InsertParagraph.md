@@ -19,7 +19,7 @@ Replaces the specified selection with a new paragraph.
 
 ## Syntax
 
- _expression_. `InsertParagraph`
+_expression_. `InsertParagraph`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.WordWrap Property (PowerPoint)
+title: TextFrame.WordWrap property (PowerPoint)
 keywords: vbapp10.chm558013
 f1_keywords:
 - vbapp10.chm558013
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.WordWrap Property (PowerPoint)
+# TextFrame.WordWrap property (PowerPoint)
 
 Determines whether lines break automatically to fit inside the shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `WordWrap`
+_expression_. `WordWrap`
 
  _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 
@@ -42,7 +42,7 @@ The value of the  **WordWrap** property can be one of these **MsoTriState** cons
 
 ## Example
 
-This example adds a rectangle that contains text to  `myDocument` and then turns off word wrapping in the new rectangle.
+This example adds a rectangle that contains text to  _myDocument_ and then turns off word wrapping in the new rectangle.
 
 
 ```vb

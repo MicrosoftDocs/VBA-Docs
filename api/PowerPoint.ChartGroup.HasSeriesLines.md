@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasSeriesLines Property (PowerPoint)
+title: ChartGroup.HasSeriesLines property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasSeriesLines
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.HasSeriesLines Property (PowerPoint)
+# ChartGroup.HasSeriesLines property (PowerPoint)
 
  **True** if a stacked column chart or bar chart has series lines or if a pie-of-pie chart or bar-of-pie chart has connector lines between the two sections. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasSeriesLines`
+_expression_. `HasSeriesLines`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

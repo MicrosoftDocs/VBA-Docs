@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.Icon Property (Visio)
+title: MasterShortcut.Icon property (Visio)
 keywords: vis_sdr.chm16050665
 f1_keywords:
 - vis_sdr.chm16050665
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MasterShortcut.Icon Property (Visio)
+# MasterShortcut.Icon property (Visio)
 
 Returns the icon contained in a master shortcut. Read/write.
 
 
 ## Syntax
 
- _expression_. `Icon`
+_expression_. `Icon`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 

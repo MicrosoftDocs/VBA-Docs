@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasDropLines Property (PowerPoint)
+title: ChartGroup.HasDropLines property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasDropLines
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup.HasDropLines Property (PowerPoint)
+# ChartGroup.HasDropLines property (PowerPoint)
 
  **True** if the line chart or area chart has drop lines. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasDropLines`
+_expression_. `HasDropLines`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

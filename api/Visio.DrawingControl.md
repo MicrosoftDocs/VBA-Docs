@@ -1,5 +1,5 @@
 ---
-title: DrawingControl Object (Visio)
+title: DrawingControl object (Visio)
 keywords: vis_sdr.chm0
 f1_keywords:
 - vis_sdr.chm0
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl Object (Visio)
+# DrawingControl object (Visio)
 
 A programmable ActiveX control that enables you to build Microsoft Visio functionality into programs you create in Microsoft Visual Studio and other development platforms.
 

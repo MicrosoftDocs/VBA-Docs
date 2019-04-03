@@ -19,7 +19,7 @@ Returns or sets a one-letter identifier that's used to build a table of contents
 
 ## Syntax
 
- _expression_. `TableID`
+_expression_. `TableID`
 
  _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Master.Layout Method (Visio)
+title: Master.Layout method (Visio)
 keywords: vis_sdr.chm10716385
 f1_keywords:
 - vis_sdr.chm10716385
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Master.Layout Method (Visio)
+# Master.Layout method (Visio)
 
 Lays out the shapes and/or reroutes the connectors for the page, master, group, or selection.
 

@@ -1,5 +1,5 @@
 ---
-title: Folder.GetCustomIcon Method (Outlook)
+title: Folder.GetCustomIcon method (Outlook)
 keywords: vbaol11.chm3316
 f1_keywords:
 - vbaol11.chm3316
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folder.GetCustomIcon Method (Outlook)
+# Folder.GetCustomIcon method (Outlook)
 
 Returns an  **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)** object that represents the custom icon for the folder.
 

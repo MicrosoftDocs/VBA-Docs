@@ -1,5 +1,5 @@
 ---
-title: Task.StartText Property (Project)
+title: Task.StartText property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.StartText
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.StartText Property (Project)
+# Task.StartText property (Project)
 
 Gets or sets a string representation of the task start date. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `StartText`
+_expression_. `StartText`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

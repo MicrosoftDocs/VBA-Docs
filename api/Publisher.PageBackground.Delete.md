@@ -1,5 +1,5 @@
 ---
-title: PageBackground.Delete Method (Publisher)
+title: PageBackground.Delete method (Publisher)
 keywords: vbapb10.chm8126470
 f1_keywords:
 - vbapb10.chm8126470
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PageBackground.Delete Method (Publisher)
+# PageBackground.Delete method (Publisher)
 
 Deletes the specified object.
 
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_.**Delete**
 
  _expression_ A variable that represents a  **PageBackground** object.
 

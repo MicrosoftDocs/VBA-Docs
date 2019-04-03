@@ -1,5 +1,5 @@
 ---
-title: Month.Calendar Property (Project)
+title: Month.Calendar property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Calendar
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Month.Calendar Property (Project)
+# Month.Calendar property (Project)
 
  Returns a **[Calendar](Project.Calendar.md)** object representing the calendar containing the **Month** object. Read-only **Calendar**.
 
 
 ## Syntax
 
- _expression_. `Calendar`
+_expression_. `Calendar`
 
  _expression_ A variable that represents a [Month](./Project.Month.md) object.
 

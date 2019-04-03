@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddPolyline Method (PowerPoint)
+title: Shapes.AddPolyline method (PowerPoint)
 keywords: vbapp10.chm543011
 f1_keywords:
 - vbapp10.chm543011
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddPolyline Method (PowerPoint)
+# Shapes.AddPolyline method (PowerPoint)
 
 Creates an open polyline or a closed polygon drawing. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new polyline or polygon.
 
 
 ## Syntax
 
- _expression_. `AddPolyline`( `_SafeArrayOfPoints_` )
+_expression_. `AddPolyline`( `_SafeArrayOfPoints_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

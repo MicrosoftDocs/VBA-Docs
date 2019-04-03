@@ -1,5 +1,5 @@
 ---
-title: PjTimelineShowHide Enumeration (Project)
+title: PjTimelineShowHide enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTimelineShowHide
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjTimelineShowHide Enumeration (Project)
+# PjTimelineShowHide enumeration (Project)
 
 Contains constants that toggle the visibility of parts of the Project timeline.
 

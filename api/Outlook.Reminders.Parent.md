@@ -1,5 +1,5 @@
 ---
-title: Reminders.Parent Property (Outlook)
+title: Reminders.Parent property (Outlook)
 keywords: vbaol11.chm569
 f1_keywords:
 - vbaol11.chm569
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Reminders.Parent Property (Outlook)
+# Reminders.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
@@ -21,7 +21,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## See also

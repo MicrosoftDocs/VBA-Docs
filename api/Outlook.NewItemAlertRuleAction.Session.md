@@ -1,5 +1,5 @@
 ---
-title: NewItemAlertRuleAction.Session Property (Outlook)
+title: NewItemAlertRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2290
 f1_keywords:
 - vbaol11.chm2290
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NewItemAlertRuleAction.Session Property (Outlook)
+# NewItemAlertRuleAction.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents a [NewItemAlertRuleAction](./Outlook.NewItemAlertRuleAction.md) object.
+_expression_ A variable that represents a [NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md) object.
 
 
 ## Remarks

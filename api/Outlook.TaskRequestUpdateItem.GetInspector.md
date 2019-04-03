@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.GetInspector Property (Outlook)
+title: TaskRequestUpdateItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1932
 f1_keywords:
 - vbaol11.chm1932
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.GetInspector Property (Outlook)
+# TaskRequestUpdateItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
 
 ## Syntax
 
- _expression_. `GetInspector`
+_expression_. `GetInspector`
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

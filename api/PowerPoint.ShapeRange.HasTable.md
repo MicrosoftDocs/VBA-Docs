@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HasTable Property (PowerPoint)
+title: ShapeRange.HasTable property (PowerPoint)
 keywords: vbapp10.chm548068
 f1_keywords:
 - vbapp10.chm548068
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.HasTable Property (PowerPoint)
+# ShapeRange.HasTable property (PowerPoint)
 
 Returns whether the specified shape is a table. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasTable`
+_expression_. `HasTable`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

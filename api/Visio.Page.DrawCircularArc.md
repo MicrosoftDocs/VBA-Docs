@@ -1,5 +1,5 @@
 ---
-title: Page.DrawCircularArc Method (Visio)
+title: Page.DrawCircularArc method (Visio)
 keywords: vis_sdr.chm10952015
 f1_keywords:
 - vis_sdr.chm10952015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Page.DrawCircularArc Method (Visio)
+# Page.DrawCircularArc method (Visio)
 
 Creates a new shape whose path consists of a circular arc defined by its center, radius, and start and end angles.
 
 
 ## Syntax
 
- _expression_. `DrawCircularArc`( `_xCenter_` , `_yCenter_` , `_Radius_` , `_StartAngle_` , `_EndAngle_` )
+_expression_. `DrawCircularArc`( `_xCenter_` , `_yCenter_` , `_Radius_` , `_StartAngle_` , `_EndAngle_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

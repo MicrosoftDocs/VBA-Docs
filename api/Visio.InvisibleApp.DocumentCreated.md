@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DocumentCreated Event (Visio)
+title: InvisibleApp.DocumentCreated event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DocumentCreated
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.DocumentCreated Event (Visio)
+# InvisibleApp.DocumentCreated event (Visio)
 
 Occurs after a document is created.
 

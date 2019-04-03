@@ -1,5 +1,5 @@
 ---
-title: TextRange.Length Property (Publisher)
+title: TextRange.Length property (Publisher)
 keywords: vbapb10.chm5308432
 f1_keywords:
 - vbapb10.chm5308432
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Length Property (Publisher)
+# TextRange.Length property (Publisher)
 
 Returns a  **Long** value indicating the length of the specified text range, in characters. Read-only.
 
 
 ## Syntax
 
- _expression_. **Length**
+ _expression_.**Length**
 
  _expression_ A variable that represents a  **TextRange** object.
 

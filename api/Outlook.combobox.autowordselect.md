@@ -17,7 +17,7 @@ Returns or sets a  **Boolean** that specifies whether the basic unit used to ext
 
 ## Syntax
 
-_expression_. **AutoWordSelect**
+_expression_.**AutoWordSelect**
 
 _expression_ A variable that represents a  **ComboBox** object.
 

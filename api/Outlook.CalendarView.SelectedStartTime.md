@@ -1,5 +1,5 @@
 ---
-title: CalendarView.SelectedStartTime Property (Outlook)
+title: CalendarView.SelectedStartTime property (Outlook)
 keywords: vbaol11.chm3313
 f1_keywords:
 - vbaol11.chm3313
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.SelectedStartTime Property (Outlook)
+# CalendarView.SelectedStartTime property (Outlook)
 
 Returns a **Date** that represents the start time of a selection in the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a **Date** that represents the start time of a selection in the **[Calen
 
 _expression_. `SelectedStartTime`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks

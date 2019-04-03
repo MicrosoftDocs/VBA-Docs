@@ -1,5 +1,5 @@
 ---
-title: MailItem.Subject Property (Outlook)
+title: MailItem.Subject property (Outlook)
 keywords: vbaol11.chm1317
 f1_keywords:
 - vbaol11.chm1317
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Subject Property (Outlook)
+# MailItem.Subject property (Outlook)
 
 Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
 

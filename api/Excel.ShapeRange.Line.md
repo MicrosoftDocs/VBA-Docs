@@ -21,12 +21,12 @@ Returns a  **[LineFormat](Excel.LineFormat.md)** object that contains line forma
 
 _expression_. `Line`
 
-_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
 
 
 ## Example
 
-This example adds a blue dashed line to  `myDocument`.
+This example adds a blue dashed line to  _myDocument_.
 
 
 ```vb
@@ -37,7 +37,7 @@ With myDocument.Shapes.AddLine(10, 10, 250, 250).Line
 End With
 ```
 
-This example adds a cross to  `myDocument` and then sets its border to be 8 points thick and red.
+This example adds a cross to  _myDocument_ and then sets its border to be 8 points thick and red.
 
 
 

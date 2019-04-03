@@ -1,5 +1,5 @@
 ---
-title: Master.OpenIconWindow Method (Visio)
+title: Master.OpenIconWindow method (Visio)
 keywords: vis_sdr.chm10716410
 f1_keywords:
 - vis_sdr.chm10716410
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.OpenIconWindow Method (Visio)
+# Master.OpenIconWindow method (Visio)
 
 Opens an icon window that shows a master's icon.
 
 
 ## Syntax
 
- _expression_. `OpenIconWindow`
+_expression_. `OpenIconWindow`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

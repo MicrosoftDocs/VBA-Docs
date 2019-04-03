@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.EventList Property (Visio)
+title: InvisibleApp.EventList property (Visio)
 keywords: vis_sdr.chm17513480
 f1_keywords:
 - vis_sdr.chm17513480
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.EventList Property (Visio)
+# InvisibleApp.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `EventList`
+_expression_. `EventList`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Delete Method (PowerPoint)
+title: ShapeRange.Delete method (PowerPoint)
 keywords: vbapp10.chm548003
 f1_keywords:
 - vbapp10.chm548003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Delete Method (PowerPoint)
+# ShapeRange.Delete method (PowerPoint)
 
 Deletes the specified  **ShapeRange** object.
 

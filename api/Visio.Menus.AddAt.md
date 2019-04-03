@@ -1,5 +1,5 @@
 ---
-title: Menus.AddAt Method (Visio)
+title: Menus.AddAt method (Visio)
 keywords: vis_sdr.chm13216015
 f1_keywords:
 - vis_sdr.chm13216015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Menus.AddAt Method (Visio)
+# Menus.AddAt method (Visio)
 
 Creates a new  **Menu** object at a specified index in the **Menus** collection.
 
 
 ## Syntax
 
- _expression_. `AddAt`( `_lIndex_` )
+_expression_. `AddAt`( `_lIndex_` )
 
  _expression_ A variable that represents a [Menus](./Visio.Menus.md) object.
 

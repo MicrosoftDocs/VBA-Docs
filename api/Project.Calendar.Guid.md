@@ -1,5 +1,5 @@
 ---
-title: Calendar.Guid Property (Project)
+title: Calendar.Guid property (Project)
 ms.prod: project-server
 api_name:
 - Project.Calendar.Guid
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Calendar.Guid Property (Project)
+# Calendar.Guid property (Project)
 
 Gets the GUID of the calendar. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Guid`
+_expression_. `Guid`
 
  _expression_ An expression that returns a [Calendar](./Project.Calendar.md) object.
 

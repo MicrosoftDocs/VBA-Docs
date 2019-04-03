@@ -1,5 +1,5 @@
 ---
-title: Availability.AvailableFrom Property (Project)
+title: Availability.AvailableFrom property (Project)
 ms.prod: project-server
 api_name:
 - Project.Availability.AvailableFrom
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Availability.AvailableFrom Property (Project)
+# Availability.AvailableFrom property (Project)
 
 Gets the earliest date that a resource is available for work on the project, as specified in the  **Availability** row of the **Resource Availability** grid for the resource. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `AvailableFrom`
+_expression_. `AvailableFrom`
 
  _expression_ A variable that represents an [Availability](./Project.Availability.md) object.
 

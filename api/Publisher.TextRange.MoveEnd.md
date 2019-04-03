@@ -1,5 +1,5 @@
 ---
-title: TextRange.MoveEnd Method (Publisher)
+title: TextRange.MoveEnd method (Publisher)
 keywords: vbapb10.chm5308424
 f1_keywords:
 - vbapb10.chm5308424
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.MoveEnd Method (Publisher)
+# TextRange.MoveEnd method (Publisher)
 
 Moves the ending character position of a range. This method returns a  **Long** that represents the number of units the range or selection actually moved or returns 0 (zero) if the move was unsuccessful.
 
 
 ## Syntax
 
- _expression_. **MoveEnd**(**_Unit_**,  **_Size_**)
+ _expression_.**MoveEnd**(**_Unit_**,  **_Size_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

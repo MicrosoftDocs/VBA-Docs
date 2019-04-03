@@ -1,5 +1,5 @@
 ---
-title: PlaceholderFormat Object (PowerPoint)
+title: PlaceholderFormat object (PowerPoint)
 keywords: vbapp10.chm545000
 f1_keywords:
 - vbapp10.chm545000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlaceholderFormat Object (PowerPoint)
+# PlaceholderFormat object (PowerPoint)
 
 Contains properties that apply specifically to placeholders, such as placeholder type.
 

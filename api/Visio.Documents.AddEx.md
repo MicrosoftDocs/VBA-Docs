@@ -1,5 +1,5 @@
 ---
-title: Documents.AddEx Method (Visio)
+title: Documents.AddEx method (Visio)
 keywords: vis_sdr.chm10651450
 f1_keywords:
 - vis_sdr.chm10651450
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Documents.AddEx Method (Visio)
+# Documents.AddEx method (Visio)
 
 Adds a new stencil or drawing to the  **Documents** collection, while permitting extra information to be passed in an argument.
 
 
 ## Syntax
 
- _expression_. `AddEx`( `_FileName_` , `_MeasurementSystem_` , `_Flags_` , `_LangID_` )
+_expression_. `AddEx`( `_FileName_` , `_MeasurementSystem_` , `_Flags_` , `_LangID_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

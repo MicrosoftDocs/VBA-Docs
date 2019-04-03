@@ -1,5 +1,5 @@
 ---
-title: Shape.Child Property (PowerPoint)
+title: Shape.Child property (PowerPoint)
 keywords: vbapp10.chm547066
 f1_keywords:
 - vbapp10.chm547066
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Child Property (PowerPoint)
+# Shape.Child property (PowerPoint)
 
  **MsoTrue** if the shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only.
 
 
 ## Syntax
 
- _expression_. `Child`
+_expression_. `Child`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

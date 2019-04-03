@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Reset Method (Outlook)
+title: CalendarView.Reset method (Outlook)
 keywords: vbaol11.chm2614
 f1_keywords:
 - vbaol11.chm2614
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarView.Reset Method (Outlook)
+# CalendarView.Reset method (Outlook)
 
 Resets a built-in Microsoft Outlook view to its original settings.
 
@@ -21,7 +21,7 @@ Resets a built-in Microsoft Outlook view to its original settings.
 
 _expression_. `Reset`
 
-_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks

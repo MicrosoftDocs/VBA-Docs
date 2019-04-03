@@ -1,5 +1,5 @@
 ---
-title: Folders.Add Method (Outlook)
+title: Folders.Add method (Outlook)
 keywords: vbaol11.chm46
 f1_keywords:
 - vbaol11.chm46
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# Folders.Add Method (Outlook)
+# Folders.Add method (Outlook)
 
 Creates a new folder in the  **[Folders](Outlook.Folders.md)** collection.
 
 
 ## Syntax
 
-_expression_. `Add`( `_Name_` , `_Type_` )
+_expression_.**Add**( `_Name_` , `_Type_` )
 
-_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Parameters

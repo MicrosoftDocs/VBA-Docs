@@ -1,5 +1,5 @@
 ---
-title: ContactItem.OutlookInternalVersion Property (Outlook)
+title: ContactItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm948
 f1_keywords:
 - vbaol11.chm948
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.OutlookInternalVersion Property (Outlook)
+# ContactItem.OutlookInternalVersion property (Outlook)
 
 Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Long** representing the build number of the Outlook application for
 
 _expression_. `OutlookInternalVersion`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `UseThemeStyle`
+_expression_. `UseThemeStyle`
 
  _expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
 

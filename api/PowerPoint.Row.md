@@ -1,5 +1,5 @@
 ---
-title: Row Object (PowerPoint)
+title: Row object (PowerPoint)
 keywords: vbapp10.chm626000
 f1_keywords:
 - vbapp10.chm626000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Row Object (PowerPoint)
+# Row object (PowerPoint)
 
 Represents a row in a table. The  **Row** object is a member of the **[Rows](PowerPoint.Rows.md)** collection. The **Rows** collection includes all the rows in the specified table.
 

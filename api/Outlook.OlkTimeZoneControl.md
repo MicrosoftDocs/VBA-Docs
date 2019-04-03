@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl Object (Outlook)
+title: OlkTimeZoneControl object (Outlook)
 keywords: vbaol11.chm1000530
 f1_keywords:
 - vbaol11.chm1000530
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl Object (Outlook)
+# OlkTimeZoneControl object (Outlook)
 
 A control that supports a selection from a drop-down list of time zones.
 
@@ -78,6 +78,6 @@ If an appointment item was originally created with a time zone value that no lon
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

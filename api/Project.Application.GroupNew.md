@@ -1,5 +1,5 @@
 ---
-title: Application.GroupNew Method (Project)
+title: Application.GroupNew method (Project)
 keywords: vbapj.chm514
 f1_keywords:
 - vbapj.chm514
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.GroupNew Method (Project)
+# Application.GroupNew method (Project)
 
 Displays the  **Group Definition** dialog box.
 
 
 ## Syntax
 
- _expression_. `GroupNew`
+_expression_. `GroupNew`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ClearTaskFlag Method (Outlook)
+title: DistListItem.ClearTaskFlag method (Outlook)
 keywords: vbaol11.chm3036
 f1_keywords:
 - vbaol11.chm3036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.ClearTaskFlag Method (Outlook)
+# DistListItem.ClearTaskFlag method (Outlook)
 
 Clears the  **[DistListItem](Outlook.DistListItem.md)** object as a task.
 
@@ -21,7 +21,7 @@ Clears the  **[DistListItem](Outlook.DistListItem.md)** object as a task.
 
 _expression_. `ClearTaskFlag`
 
- _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
+ _expression_ An expression that returns a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

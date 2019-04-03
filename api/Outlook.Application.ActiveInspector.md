@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveInspector Method (Outlook)
+title: Application.ActiveInspector method (Outlook)
 keywords: vbaol11.chm713
 f1_keywords:
 - vbaol11.chm713
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ActiveInspector Method (Outlook)
+# Application.ActiveInspector method (Outlook)
 
 Returns the topmost  **[Inspector](Outlook.Inspector.md)** object on the desktop.
 
@@ -21,7 +21,7 @@ Returns the topmost  **[Inspector](Outlook.Inspector.md)** object on the desktop
 
 _expression_. `ActiveInspector`
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Return value

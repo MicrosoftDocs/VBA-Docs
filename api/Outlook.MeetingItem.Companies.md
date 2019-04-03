@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Companies Property (Outlook)
+title: MeetingItem.Companies property (Outlook)
 keywords: vbaol11.chm1407
 f1_keywords:
 - vbaol11.chm1407
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.Companies Property (Outlook)
+# MeetingItem.Companies property (Outlook)
 
 Returns or sets a  **String** representing the names of the companies associated with the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the names of the companies associated
 
 _expression_. `Companies`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

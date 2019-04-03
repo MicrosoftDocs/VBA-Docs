@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.GetPicture Method (Outlook)
+title: ExchangeUser.GetPicture method (Outlook)
 keywords: vbaol11.chm3485
 f1_keywords:
 - vbaol11.chm3485
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ExchangeUser.GetPicture Method (Outlook)
+# ExchangeUser.GetPicture method (Outlook)
 
 Obtains an  **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)** object that represents the picture of the Microsoft Exchange user that is displayed in Microsoft Outlook.
 

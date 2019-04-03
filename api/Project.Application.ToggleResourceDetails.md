@@ -1,5 +1,5 @@
 ---
-title: Application.ToggleResourceDetails Method (Project)
+title: Application.ToggleResourceDetails method (Project)
 keywords: vbapj.chm2299
 f1_keywords:
 - vbapj.chm2299
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ToggleResourceDetails Method (Project)
+# Application.ToggleResourceDetails method (Project)
 
 Shows or hides the  **Resource Form** in the bottom pane of a split view.
 
 
 ## Syntax
 
- _expression_. `ToggleResourceDetails`
+_expression_. `ToggleResourceDetails`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

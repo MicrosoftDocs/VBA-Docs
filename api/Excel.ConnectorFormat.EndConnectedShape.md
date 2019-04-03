@@ -31,7 +31,7 @@ If the end of the specified connector isn't attached to a shape, this property g
 
 ## Example
 
-This example assumes that  `myDocument` already contains two shapes attached by a connector named "Conn1To2." The code adds a rectangle and a connector to `myDocument`. The end of the new connector will be attached to the same connection site as the end of the connector named "Conn1To2," and the beginning of the new connector will be attached to connection site one on the new rectangle.
+This example assumes that  _myDocument_ already contains two shapes attached by a connector named "Conn1To2." The code adds a rectangle and a connector to _myDocument_. The end of the new connector will be attached to the same connection site as the end of the connector named "Conn1To2," and the beginning of the new connector will be attached to connection site one on the new rectangle.
 
 
 ```vb

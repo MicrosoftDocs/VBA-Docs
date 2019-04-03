@@ -1,5 +1,5 @@
 ---
-title: VisLinkReplaceBehavior Enumeration (Visio)
+title: VisLinkReplaceBehavior enumeration (Visio)
 keywords: vis_sdr.chm70555
 f1_keywords:
 - vis_sdr.chm70555
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisLinkReplaceBehavior Enumeration (Visio)
+# VisLinkReplaceBehavior enumeration (Visio)
 
 Link replacement behavior constants passed to and returned by the  **[DataRecordset.LinkReplaceBehavior](Visio.DataRecordset.LinkReplaceBehavior.md)** property.
 

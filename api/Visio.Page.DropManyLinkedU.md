@@ -1,5 +1,5 @@
 ---
-title: Page.DropManyLinkedU Method (Visio)
+title: Page.DropManyLinkedU method (Visio)
 keywords: vis_sdr.chm10960175
 f1_keywords:
 - vis_sdr.chm10960175
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Page.DropManyLinkedU Method (Visio)
+# Page.DropManyLinkedU method (Visio)
 
 Creates multiple new shapes on the drawing page that are linked to multiple data rows in a data recordset. Returns the number of shape instances created and an array of IDs of those shapes.
 
@@ -22,7 +22,7 @@ Creates multiple new shapes on the drawing page that are linked to multiple data
 
 ## Syntax
 
- _expression_. `DropManyLinkedU`( `_ObjectsToInstance()_` , `_XYs()_` , `_DataRecordsetID_` , `_DataRowIDs()_` , `_ApplyDataGraphicAfterLink_` , `_ShapeIDs()_` )
+_expression_. `DropManyLinkedU`( `_ObjectsToInstance()_` , `_XYs()_` , `_DataRecordsetID_` , `_DataRowIDs()_` , `_ApplyDataGraphicAfterLink_` , `_ShapeIDs()_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 

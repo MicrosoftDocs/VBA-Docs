@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultFromIntForce Property (Visio)
+title: Cell.ResultFromIntForce property (Visio)
 keywords: vis_sdr.chm10114210
 f1_keywords:
 - vis_sdr.chm10114210
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Cell.ResultFromIntForce Property (Visio)
+# Cell.ResultFromIntForce property (Visio)
 
 Sets the value of a cell to an integer value, even if the cell's formula is protected with the GUARD function. Read/write.
 
 
 ## Syntax
 
- _expression_. `ResultFromIntForce`( `_UnitsNameOrCode_` )
+_expression_. `ResultFromIntForce`( `_UnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

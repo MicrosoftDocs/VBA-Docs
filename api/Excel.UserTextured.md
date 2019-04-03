@@ -18,7 +18,7 @@ Fills the specified shape with small tiles of an image. If you want to fill the 
 
 _expression_. `UserTextured`( `_TextureFile_`)
 
- _expression_ Required. An expression that returns a [ChartFillFormat](./Excel.ChartFillFormat.md) object.
+ _expression_ Required. An expression that returns a [ChartFillFormat](Excel.ChartFillFormat.md) object.
 
  **TextureFile** Required **String**. The name of the specified picture file.
 

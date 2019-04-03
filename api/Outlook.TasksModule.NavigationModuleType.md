@@ -1,5 +1,5 @@
 ---
-title: TasksModule.NavigationModuleType Property (Outlook)
+title: TasksModule.NavigationModuleType property (Outlook)
 keywords: vbaol11.chm3245
 f1_keywords:
 - vbaol11.chm3245
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TasksModule.NavigationModuleType Property (Outlook)
+# TasksModule.NavigationModuleType property (Outlook)
 
 Returns an  **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
 
 
 ## Syntax
 
- _expression_. `NavigationModuleType`
+_expression_. `NavigationModuleType`
 
- _expression_ An expression that returns a [TasksModule](./Outlook.TasksModule.md) object.
+ _expression_ An expression that returns a [TasksModule](Outlook.TasksModule.md) object.
 
 
 ## Remarks

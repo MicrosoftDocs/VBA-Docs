@@ -1,5 +1,5 @@
 ---
-title: ImportanceRuleCondition.Session Property (Outlook)
+title: ImportanceRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2334
 f1_keywords:
 - vbaol11.chm2334
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ImportanceRuleCondition.Session Property (Outlook)
+# ImportanceRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents an [ImportanceRuleCondition](./Outlook.ImportanceRuleCondition.md) object.
+_expression_ A variable that represents an [ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md) object.
 
 
 ## Remarks

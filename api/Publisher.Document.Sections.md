@@ -1,5 +1,5 @@
 ---
-title: Document.Sections Property (Publisher)
+title: Document.Sections property (Publisher)
 keywords: vbapb10.chm196738
 f1_keywords:
 - vbapb10.chm196738
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Sections Property (Publisher)
+# Document.Sections property (Publisher)
 
 Returns a  **Sections** object representing a collection of **Section** objects in the specified document. Read-only **Sections**.
 
 
 ## Syntax
 
- _expression_. **Sections**
+ _expression_.**Sections**
 
  _expression_ A variable that represents a  **Document** object.
 

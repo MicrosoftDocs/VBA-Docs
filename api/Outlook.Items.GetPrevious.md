@@ -1,5 +1,5 @@
 ---
-title: Items.GetPrevious Method (Outlook)
+title: Items.GetPrevious method (Outlook)
 keywords: vbaol11.chm67
 f1_keywords:
 - vbaol11.chm67
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Items.GetPrevious Method (Outlook)
+# Items.GetPrevious method (Outlook)
 
 Returns the previous object in the collection. 
 
@@ -21,7 +21,7 @@ Returns the previous object in the collection.
 
 _expression_. `GetPrevious`
 
-_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Return value

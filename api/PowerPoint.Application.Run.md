@@ -1,5 +1,5 @@
 ---
-title: Application.Run Method (PowerPoint)
+title: Application.Run method (PowerPoint)
 keywords: vbapp10.chm502023
 f1_keywords:
 - vbapp10.chm502023
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Run Method (PowerPoint)
+# Application.Run method (PowerPoint)
 
 Runs a Visual Basic procedure.
 
 
 ## Syntax
 
- _expression_. `Run`( `_MacroName_`, `_safeArrayOfParams_` )
+_expression_. `Run`( `_MacroName_`, `_safeArrayOfParams_` )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

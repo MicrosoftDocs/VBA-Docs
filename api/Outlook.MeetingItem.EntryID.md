@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.EntryID Property (Outlook)
+title: MeetingItem.EntryID property (Outlook)
 keywords: vbaol11.chm1411
 f1_keywords:
 - vbaol11.chm1411
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MeetingItem.EntryID Property (Outlook)
+# MeetingItem.EntryID property (Outlook)
 
 Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 _expression_. `EntryID`
 
-_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks

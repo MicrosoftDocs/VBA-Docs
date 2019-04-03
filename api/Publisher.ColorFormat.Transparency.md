@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Transparency Property (Publisher)
+title: ColorFormat.Transparency property (Publisher)
 keywords: vbapb10.chm2555920
 f1_keywords:
 - vbapb10.chm2555920
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorFormat.Transparency Property (Publisher)
+# ColorFormat.Transparency property (Publisher)
 
 Gets or sets the degree of transparency of the color represented by the parent  **ColorFormat** object as a value between 0.0 (opaque) and 1.0 (clear). Read/write.
 
 
 ## Syntax
 
- _expression_. **Transparency**
+ _expression_.**Transparency**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

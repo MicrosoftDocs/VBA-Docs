@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.MediaType Property (PowerPoint)
+title: ShapeRange.MediaType property (PowerPoint)
 keywords: vbapp10.chm548054
 f1_keywords:
 - vbapp10.chm548054
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.MediaType Property (PowerPoint)
+# ShapeRange.MediaType property (PowerPoint)
 
 Returns the OLE media type. Read-only.
 
 
 ## Syntax
 
- _expression_. `MediaType`
+_expression_. `MediaType`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

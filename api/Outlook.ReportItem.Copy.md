@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Copy Method (Outlook)
+title: ReportItem.Copy method (Outlook)
 keywords: vbaol11.chm1665
 f1_keywords:
 - vbaol11.chm1665
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReportItem.Copy Method (Outlook)
+# ReportItem.Copy method (Outlook)
 
 Creates another instance of an object.
 
@@ -21,7 +21,7 @@ Creates another instance of an object.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## See also

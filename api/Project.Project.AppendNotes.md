@@ -1,5 +1,5 @@
 ---
-title: Project.AppendNotes Method (Project)
+title: Project.AppendNotes method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.AppendNotes
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.AppendNotes Method (Project)
+# Project.AppendNotes method (Project)
 
 Appends text to the Notes field.
 
 
 ## Syntax
 
- _expression_. `AppendNotes`( `_Value_` )
+_expression_. `AppendNotes`( `_Value_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

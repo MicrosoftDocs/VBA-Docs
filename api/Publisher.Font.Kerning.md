@@ -1,5 +1,5 @@
 ---
-title: Font.Kerning Property (Publisher)
+title: Font.Kerning property (Publisher)
 keywords: vbapb10.chm5373976
 f1_keywords:
 - vbapb10.chm5373976
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Kerning Property (Publisher)
+# Font.Kerning property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount of horizontal spacing Microsoft Publisher applies to the characters in the text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **Kerning**
+ _expression_.**Kerning**
 
  _expression_ A variable that represents a  **Font** object.
 

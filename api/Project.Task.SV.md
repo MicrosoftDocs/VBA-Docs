@@ -1,5 +1,5 @@
 ---
-title: Task.SV Property (Project)
+title: Task.SV property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.SV
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.SV Property (Project)
+# Task.SV property (Project)
 
 Gets the earned value scheduled variance (SV) of the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `SV`
+_expression_. `SV`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

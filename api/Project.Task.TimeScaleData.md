@@ -1,5 +1,5 @@
 ---
-title: Task.TimeScaleData Method (Project)
+title: Task.TimeScaleData method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.TimeScaleData
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.TimeScaleData Method (Project)
+# Task.TimeScaleData method (Project)
 
 Sets options for displaying timephased data for the task.
 
 
 ## Syntax
 
- _expression_. `TimeScaleData`( `_StartDate_`, `_EndDate_`, `_Type_`, `_TimeScaleUnit_`, `_Count_` )
+_expression_. `TimeScaleData`( `_StartDate_`, `_EndDate_`, `_Type_`, `_TimeScaleUnit_`, `_Count_` )
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

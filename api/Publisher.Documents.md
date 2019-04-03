@@ -1,5 +1,5 @@
 ---
-title: Documents Object (Publisher)
+title: Documents object (Publisher)
 keywords: vbapb10.chm8716287
 f1_keywords:
 - vbapb10.chm8716287
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents Object (Publisher)
+# Documents object (Publisher)
 
 Represents all open publications. The  **Documents** collection contains all **Document** objects that are open in Microsoft Publisher.
 

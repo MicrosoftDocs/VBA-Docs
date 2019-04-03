@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerStyle Property (PowerPoint)
+title: Point.MarkerStyle property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.MarkerStyle
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Point.MarkerStyle Property (PowerPoint)
+# Point.MarkerStyle property (PowerPoint)
 
-Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[xlMarkerStyle](PowerPoint.XlMarkerStyle.md)**.
+Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](PowerPoint.XlMarkerStyle.md)**.
 
 
 ## Syntax
 
- _expression_. `MarkerStyle`
+_expression_. `MarkerStyle`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

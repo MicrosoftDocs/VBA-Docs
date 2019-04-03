@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.Name Property (Publisher)
+title: BorderArtFormat.Name property (Publisher)
 keywords: vbapb10.chm7602179
 f1_keywords:
 - vbapb10.chm7602179
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# BorderArtFormat.Name Property (Publisher)
+# BorderArtFormat.Name property (Publisher)
 
 Returns or sets a  **String** value indicating the name of the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_.**Name**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 

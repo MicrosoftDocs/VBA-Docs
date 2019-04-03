@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.ForeColor Property (Outlook)
+title: OlkLabel.ForeColor property (Outlook)
 keywords: vbaol11.chm1000094
 f1_keywords:
 - vbaol11.chm1000094
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkLabel.ForeColor Property (Outlook)
+# OlkLabel.ForeColor property (Outlook)
 
 Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** that indicates the foreground color of the control. 
 
 _expression_. `ForeColor`
 
-_expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
+_expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) object.
 
 
 ## Remarks

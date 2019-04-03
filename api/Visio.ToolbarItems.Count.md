@@ -1,5 +1,5 @@
 ---
-title: ToolbarItems.Count Property (Visio)
+title: ToolbarItems.Count property (Visio)
 keywords: vis_sdr.chm13613330
 f1_keywords:
 - vis_sdr.chm13613330
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ToolbarItems.Count Property (Visio)
+# ToolbarItems.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 

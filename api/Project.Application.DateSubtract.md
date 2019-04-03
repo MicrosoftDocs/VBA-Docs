@@ -1,5 +1,5 @@
 ---
-title: Application.DateSubtract Method (Project)
+title: Application.DateSubtract method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DateSubtract
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DateSubtract Method (Project)
+# Application.DateSubtract method (Project)
 
 Returns the date and time that precedes another date by a specified duration, for an automatically scheduled task.
 
 
 ## Syntax
 
- _expression_. `DateSubtract`( `_FinishDate_`, `_Duration_`, `_Calendar_` )
+_expression_. `DateSubtract`( `_FinishDate_`, `_Duration_`, `_Calendar_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

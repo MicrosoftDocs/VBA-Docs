@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.DropButtonClick Event (Outlook)
+title: OlkDateControl.DropButtonClick event (Outlook)
 keywords: vbaol11.chm1000373
 f1_keywords:
 - vbaol11.chm1000373
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkDateControl.DropButtonClick Event (Outlook)
+# OlkDateControl.DropButtonClick event (Outlook)
 
 Occurs when the user clicks the drop button to expand the calendar in the date control.
 
@@ -21,7 +21,7 @@ Occurs when the user clicks the drop button to expand the calendar in the date c
 
 _expression_. `DropButtonClick`
 
-_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## See also

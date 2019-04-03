@@ -1,5 +1,5 @@
 ---
-title: Document.ContainsWorkspaceEx Property (Visio)
+title: Document.ContainsWorkspaceEx property (Visio)
 keywords: vis_sdr.chm10550530
 f1_keywords:
 - vis_sdr.chm10550530
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.ContainsWorkspaceEx Property (Visio)
+# Document.ContainsWorkspaceEx property (Visio)
 
 Gets or sets whether workspace information is saved with the document. Read/write.
 
 
 ## Syntax
 
- _expression_. `ContainsWorkspaceEx`
+_expression_. `ContainsWorkspaceEx`
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 

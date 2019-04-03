@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Address Property (Publisher)
+title: Hyperlink.Address property (Publisher)
 keywords: vbapb10.chm4587523
 f1_keywords:
 - vbapb10.chm4587523
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink.Address Property (Publisher)
+# Hyperlink.Address property (Publisher)
 
 Returns or sets a  **String** that represents the URL address for a hyperlink. Read/write.
 
 
 ## Syntax
 
- _expression_. **Address**
+ _expression_.**Address**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

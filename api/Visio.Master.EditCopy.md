@@ -1,5 +1,5 @@
 ---
-title: Master.EditCopy Property (Visio)
+title: Master.EditCopy property (Visio)
 keywords: vis_sdr.chm10750565
 f1_keywords:
 - vis_sdr.chm10750565
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.EditCopy Property (Visio)
+# Master.EditCopy property (Visio)
 
 Returns a master that is open for editing and originally copied from this master. Read-only.
 
 
 ## Syntax
 
- _expression_. `EditCopy`
+_expression_. `EditCopy`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

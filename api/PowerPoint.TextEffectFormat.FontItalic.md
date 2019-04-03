@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontItalic Property (PowerPoint)
+title: TextEffectFormat.FontItalic property (PowerPoint)
 keywords: vbapp10.chm556005
 f1_keywords:
 - vbapp10.chm556005
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontItalic Property (PowerPoint)
+# TextEffectFormat.FontItalic property (PowerPoint)
 
 Determines whether the font in the specified WordArt is italic. Read/write.
 
 
 ## Syntax
 
- _expression_. `FontItalic`
+_expression_. `FontItalic`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
@@ -42,7 +42,7 @@ The value of the  **FontItalic** property can be one of these **MsoTriState** co
 
 ## Example
 
-This example sets the font to italic for the shape named "WordArt 4" on  `myDocument`.
+This example sets the font to italic for the shape named "WordArt 4" on  _myDocument_.
 
 
 ```vb

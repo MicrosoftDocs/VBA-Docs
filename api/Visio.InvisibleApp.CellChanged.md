@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CellChanged Event (Visio)
+title: InvisibleApp.CellChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CellChanged
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.CellChanged Event (Visio)
+# InvisibleApp.CellChanged event (Visio)
 
 Occurs after the value changes in a cell in a document.
 

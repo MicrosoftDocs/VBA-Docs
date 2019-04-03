@@ -19,7 +19,7 @@ Returns a  **Long** that represents the encryption session associated with the a
 
 ## Syntax
 
- _expression_. `ActiveEncryptionSession`
+_expression_. `ActiveEncryptionSession`
 
  _expression_ An expression that returns an [Application](./Word.Application.md) object.
 

@@ -19,9 +19,9 @@ Creates a new  **[TableStyle](Excel.TableStyle.md)** object and adds it to the c
 
 ## Syntax
 
-_expression_. `Add`( `_TableStyleName_` )
+_expression_.**Add**( `_TableStyleName_` )
 
-_expression_ A variable that represents a [TableStyles](./Excel.TableStyles.md) object.
+_expression_ A variable that represents a [TableStyles](Excel.TableStyles.md) object.
 
 
 ## Parameters

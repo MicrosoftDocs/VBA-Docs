@@ -1,5 +1,5 @@
 ---
-title: Project.DefaultFinishTime Property (Project)
+title: Project.DefaultFinishTime property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.DefaultFinishTime
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.DefaultFinishTime Property (Project)
+# Project.DefaultFinishTime property (Project)
 
 Gets or sets the default finish time of the project. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `DefaultFinishTime`
+_expression_. `DefaultFinishTime`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

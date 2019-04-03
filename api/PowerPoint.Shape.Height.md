@@ -1,5 +1,5 @@
 ---
-title: Shape.Height Property (PowerPoint)
+title: Shape.Height property (PowerPoint)
 keywords: vbapp10.chm547024
 f1_keywords:
 - vbapp10.chm547024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Height Property (PowerPoint)
+# Shape.Height property (PowerPoint)
 
 Returns or sets the height of the specified object, in points. Read/write.
 

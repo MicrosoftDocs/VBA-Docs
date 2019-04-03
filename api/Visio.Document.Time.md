@@ -1,5 +1,5 @@
 ---
-title: Document.Time Property (Visio)
+title: Document.Time property (Visio)
 keywords: vis_sdr.chm10550900
 f1_keywords:
 - vis_sdr.chm10550900
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Time Property (Visio)
+# Document.Time property (Visio)
 
 Returns the most recently recorded date and time. Read-only.
 
 
 ## Syntax
 
- _expression_. `Time`
+_expression_. `Time`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

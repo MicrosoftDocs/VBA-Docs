@@ -1,5 +1,5 @@
 ---
-title: Column.Name Property (Outlook)
+title: Column.Name property (Outlook)
 keywords: vbaol11.chm2749
 f1_keywords:
 - vbaol11.chm2749
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column.Name Property (Outlook)
+# Column.Name property (Outlook)
 
 Returns a  **String** value that represents the name of the **[Column](Outlook.Column.md)**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the name of the **[Column](Outlook.C
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [Column](./Outlook.Column.md) object.
+_expression_ A variable that represents a [Column](Outlook.Column.md) object.
 
 
 ## Remarks

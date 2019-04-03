@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultDurationUnits Property (Visio)
+title: Application.DefaultDurationUnits property (Visio)
 keywords: vis_sdr.chm10051045
 f1_keywords:
 - vis_sdr.chm10051045
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DefaultDurationUnits Property (Visio)
+# Application.DefaultDurationUnits property (Visio)
 
 Determines the default unit of measure for quantities that represent durations. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultDurationUnits`
+_expression_. `DefaultDurationUnits`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.IsGroupMember Property (Publisher)
+title: Shape.IsGroupMember property (Publisher)
 keywords: vbapb10.chm2228337
 f1_keywords:
 - vbapb10.chm2228337
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.IsGroupMember Property (Publisher)
+# Shape.IsGroupMember property (Publisher)
 
 Returns  **True** if the specified shape is a member of a group, **False** otherwise. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **IsGroupMember**
+ _expression_.**IsGroupMember**
 
  _expression_ A variable that represents an  **Shape** object.
 

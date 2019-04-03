@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTPTask Method (Project)
+title: Application.SelectTPTask method (Project)
 keywords: vbapj.chm2192
 f1_keywords:
 - vbapj.chm2192
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTPTask Method (Project)
+# Application.SelectTPTask method (Project)
 
 Selects the specified task in the Team Planner view.
 
 
 ## Syntax
 
- _expression_. `SelectTPTask`( `_TaskUniqueID_` )
+_expression_. `SelectTPTask`( `_TaskUniqueID_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

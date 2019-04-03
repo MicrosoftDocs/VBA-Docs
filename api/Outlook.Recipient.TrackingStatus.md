@@ -1,5 +1,5 @@
 ---
-title: Recipient.TrackingStatus Property (Outlook)
+title: Recipient.TrackingStatus property (Outlook)
 keywords: vbaol11.chm2353
 f1_keywords:
 - vbaol11.chm2353
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Recipient.TrackingStatus Property (Outlook)
+# Recipient.TrackingStatus property (Outlook)
 
 Returns or sets an  **[OlTrackingStatus](Outlook.OlTrackingStatus.md)** constant indicating the tracking status for the recipient. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets an  **[OlTrackingStatus](Outlook.OlTrackingStatus.md)** constant
 
 _expression_. `TrackingStatus`
 
-_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## See also

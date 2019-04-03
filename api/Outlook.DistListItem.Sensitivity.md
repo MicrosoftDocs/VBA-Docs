@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Sensitivity Property (Outlook)
+title: DistListItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1135
 f1_keywords:
 - vbaol11.chm1135
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DistListItem.Sensitivity Property (Outlook)
+# DistListItem.Sensitivity property (Outlook)
 
 Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 _expression_. `Sensitivity`
 
-_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks

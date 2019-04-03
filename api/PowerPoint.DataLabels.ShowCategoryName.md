@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowCategoryName Property (PowerPoint)
+title: DataLabels.ShowCategoryName property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowCategoryName
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# DataLabels.ShowCategoryName Property (PowerPoint)
+# DataLabels.ShowCategoryName property (PowerPoint)
 
  **True** to display the category name for the data labels on a chart. **False** to hide the name. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowCategoryName`
+_expression_. `ShowCategoryName`
 
 _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 

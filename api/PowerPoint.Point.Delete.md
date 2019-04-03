@@ -1,5 +1,5 @@
 ---
-title: Point.Delete Method (PowerPoint)
+title: Point.Delete method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Delete
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Point.Delete Method (PowerPoint)
+# Point.Delete method (PowerPoint)
 
 Deletes the object.
 

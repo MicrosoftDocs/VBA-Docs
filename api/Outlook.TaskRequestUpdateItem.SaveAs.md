@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.SaveAs Method (Outlook)
+title: TaskRequestUpdateItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1954
 f1_keywords:
 - vbaol11.chm1954
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.SaveAs Method (Outlook)
+# TaskRequestUpdateItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 
 
 ## Syntax
 
- _expression_. `SaveAs`( `_Path_` , `_Type_` )
+_expression_. `SaveAs`( `_Path_` , `_Type_` )
 
-_expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters

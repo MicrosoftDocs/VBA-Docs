@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.ConversationIndex Property (Outlook)
+title: RemoteItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1592
 f1_keywords:
 - vbaol11.chm1592
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.ConversationIndex Property (Outlook)
+# RemoteItem.ConversationIndex property (Outlook)
 
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** that indicates the relative position of the item within th
 
 _expression_. `ConversationIndex`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks

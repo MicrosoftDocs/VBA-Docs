@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseResourcesImportEx Method (Project)
+title: Application.EnterpriseResourcesImportEx method (Project)
 keywords: vbapj.chm2090
 f1_keywords:
 - vbapj.chm2090
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.EnterpriseResourcesImportEx Method (Project)
+# Application.EnterpriseResourcesImportEx method (Project)
 
 Imports local resources to the enterprise resource pool, or starts the  **Resource Import Wizard**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseResourcesImportEx`( `_LocalRUIDs_`, `_UseImportColumn_` )
+_expression_. `EnterpriseResourcesImportEx`( `_LocalRUIDs_`, `_UseImportColumn_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

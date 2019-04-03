@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Apply Method (Outlook)
+title: TimelineView.Apply method (Outlook)
 keywords: vbaol11.chm2646
 f1_keywords:
 - vbaol11.chm2646
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# TimelineView.Apply Method (Outlook)
+# TimelineView.Apply method (Outlook)
 
 Applies the  **[TimelineView](Outlook.TimelineView.md)** object to the current view.
 
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_. `Apply`
 
-_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## See also

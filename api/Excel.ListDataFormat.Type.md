@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListDataFormat.Type property (Excel)
 
-Returns an  **[xlListDataType](Excel.XlListDataType.md)** value that represents the data type of the list column.
+Returns an  **[XlListDataType](Excel.XlListDataType.md)** value that represents the data type of the list column.
 
 
 ## Syntax

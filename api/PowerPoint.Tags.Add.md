@@ -1,5 +1,5 @@
 ---
-title: Tags.Add Method (PowerPoint)
+title: Tags.Add method (PowerPoint)
 keywords: vbapp10.chm611004
 f1_keywords:
 - vbapp10.chm611004
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Tags.Add Method (PowerPoint)
+# Tags.Add method (PowerPoint)
 
 Adds a tag to the  **[Tags](PowerPoint.Tags.md)** collection of an object.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_`, `_Value_` )
+ _expression_.**Add**( `_Name_`, `_Value_` )
 
  _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: PageBackground Object (Publisher)
+title: PageBackground object (Publisher)
 keywords: vbapb10.chm8191999
 f1_keywords:
 - vbapb10.chm8191999
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PageBackground Object (Publisher)
+# PageBackground object (Publisher)
 
 Represents the background of a page.
  

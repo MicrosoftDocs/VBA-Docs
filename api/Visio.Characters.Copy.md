@@ -1,5 +1,5 @@
 ---
-title: Characters.Copy Method (Visio)
+title: Characters.Copy method (Visio)
 keywords: vis_sdr.chm10216145
 f1_keywords:
 - vis_sdr.chm10216145
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Characters.Copy Method (Visio)
+# Characters.Copy method (Visio)
 
 Copies a text range to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

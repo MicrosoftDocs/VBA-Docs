@@ -1,5 +1,5 @@
 ---
-title: Master.DrawOval Method (Visio)
+title: Master.DrawOval method (Visio)
 keywords: vis_sdr.chm10716210
 f1_keywords:
 - vis_sdr.chm10716210
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Master.DrawOval Method (Visio)
+# Master.DrawOval method (Visio)
 
 Adds an oval (ellipse) to the  **Shapes** collection of a master.
 
 
 ## Syntax
 
- _expression_. `DrawOval`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
+_expression_. `DrawOval`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

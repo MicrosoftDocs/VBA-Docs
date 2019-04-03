@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.ShowInGallery Property (Publisher)
+title: BuildingBlock.ShowInGallery property (Publisher)
 keywords: vbapb10.chm9502724
 f1_keywords:
 - vbapb10.chm9502724
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlock.ShowInGallery Property (Publisher)
+# BuildingBlock.ShowInGallery property (Publisher)
 
 A  **Boolean** value that specifies whether the building block should be displayed in the ribbon gallery it belongs to. Read/write.
 
 
 ## Syntax
 
- _expression_. **ShowInGallery**
+ _expression_.**ShowInGallery**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

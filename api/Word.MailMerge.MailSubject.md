@@ -19,7 +19,7 @@ Returns or sets the subject line used when the mail merge destination is electro
 
 ## Syntax
 
- _expression_. `MailSubject`
+_expression_. `MailSubject`
 
  _expression_ An expression that returns a '[MailMerge](Word.MailMerge.md)' object.
 

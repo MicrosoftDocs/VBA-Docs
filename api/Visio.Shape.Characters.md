@@ -1,5 +1,5 @@
 ---
-title: Shape.Characters Property (Visio)
+title: Shape.Characters property (Visio)
 keywords: vis_sdr.chm11213215
 f1_keywords:
 - vis_sdr.chm11213215
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Characters Property (Visio)
+# Shape.Characters property (Visio)
 
 Returns a  **Characters** object that represents the text of a shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `Characters`
+_expression_. `Characters`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

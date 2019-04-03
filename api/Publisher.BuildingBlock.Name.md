@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Name Property (Publisher)
+title: BuildingBlock.Name property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock.Name
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# BuildingBlock.Name Property (Publisher)
+# BuildingBlock.Name property (Publisher)
 
 A string that represents the unique name of the building block. Read/write.
 
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_.**Name**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

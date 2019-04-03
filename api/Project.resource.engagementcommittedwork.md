@@ -1,5 +1,5 @@
 ---
-title: Resource.EngagementCommittedWork Property (Project)
+title: Resource.EngagementCommittedWork property (Project)
 keywords: vbapj.chm131799
 f1_keywords:
 - vbapj.chm131799
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.EngagementCommittedWork Property (Project)
+# Resource.EngagementCommittedWork property (Project)
 
 Returns the committed work for the engagement. Read-only  **Double**. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `EngagementCommittedWork`
+_expression_. `EngagementCommittedWork`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

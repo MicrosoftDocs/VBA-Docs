@@ -1,5 +1,5 @@
 ---
-title: Project.CodeName Property (Project)
+title: Project.CodeName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.CodeName
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Project.CodeName Property (Project)
+# Project.CodeName property (Project)
 
 Gets the code name for the project. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `CodeName`
+_expression_. `CodeName`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

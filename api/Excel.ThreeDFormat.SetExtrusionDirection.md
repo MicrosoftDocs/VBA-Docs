@@ -21,7 +21,7 @@ Sets the direction that the extrusion's sweep path takes away from the extruded 
 
 _expression_. `SetExtrusionDirection`( `_PresetExtrusionDirection_` )
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Parameters
@@ -53,7 +53,7 @@ This method sets the  **[PresetExtrusionDirection](Excel.ThreeDFormat.PresetExtr
 
 ## Example
 
-This example specifies that the extrusion for shape one on  `myDocument` extend toward the top of the shape and that the lighting for the extrusion come from the left.
+This example specifies that the extrusion for shape one on  _myDocument_ extend toward the top of the shape and that the lighting for the extrusion come from the left.
 
 
 ```vb

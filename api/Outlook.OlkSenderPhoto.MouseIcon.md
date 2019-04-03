@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.MouseIcon Property (Outlook)
+title: OlkSenderPhoto.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000479
 f1_keywords:
 - vbaol11.chm1000479
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.MouseIcon Property (Outlook)
+# OlkSenderPhoto.MouseIcon property (Outlook)
 
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 _expression_. `MouseIcon`
 
-_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Series.Values Property (PowerPoint)
+title: Series.Values property (PowerPoint)
 keywords: vbapp10.chm65700
 f1_keywords:
 - vbapp10.chm65700
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.Values Property (PowerPoint)
+# Series.Values property (PowerPoint)
 
 Returns or sets a collection of all the values in the series. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Values`
+_expression_. `Values`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

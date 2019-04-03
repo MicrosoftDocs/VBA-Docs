@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat Object (Publisher)
+title: ConnectorFormat object (Publisher)
 keywords: vbapb10.chm3276799
 f1_keywords:
 - vbapb10.chm3276799
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat Object (Publisher)
+# ConnectorFormat object (Publisher)
 
 Contains properties and methods that apply to connectors. A connector is a line that attaches two other shapes at points called connection sites. If you rearrange shapes that are connected, the geometry of the connector will be automatically adjusted so that the shapes remain connected.
  

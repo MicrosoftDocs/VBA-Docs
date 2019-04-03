@@ -1,5 +1,5 @@
 ---
-title: SeriesLines Object (PowerPoint)
+title: SeriesLines object (PowerPoint)
 keywords: vbapp10.chm718000
 f1_keywords:
 - vbapp10.chm718000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesLines Object (PowerPoint)
+# SeriesLines object (PowerPoint)
 
 Represents series lines in a chart group.
 

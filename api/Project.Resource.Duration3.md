@@ -1,5 +1,5 @@
 ---
-title: Resource.Duration3 Property (Project)
+title: Resource.Duration3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Duration3
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Resource.Duration3 Property (Project)
+# Resource.Duration3 property (Project)
 
  Gets or sets the value of a resource duration custom field. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Duration3`
+_expression_. `Duration3`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

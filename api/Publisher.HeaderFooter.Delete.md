@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Delete Method (Publisher)
+title: HeaderFooter.Delete method (Publisher)
 keywords: vbapb10.chm7471107
 f1_keywords:
 - vbapb10.chm7471107
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# HeaderFooter.Delete Method (Publisher)
+# HeaderFooter.Delete method (Publisher)
 
 Deletes the specified object.
 
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_.**Delete**
 
  _expression_ A variable that represents a  **HeaderFooter** object.
 

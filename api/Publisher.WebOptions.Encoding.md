@@ -1,5 +1,5 @@
 ---
-title: WebOptions.Encoding Property (Publisher)
+title: WebOptions.Encoding property (Publisher)
 keywords: vbapb10.chm8257540
 f1_keywords:
 - vbapb10.chm8257540
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebOptions.Encoding Property (Publisher)
+# WebOptions.Encoding property (Publisher)
 
 Returns an  **MsoEncoding** constant that specifies the encoding of the Web publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **Encoding**
+ _expression_.**Encoding**
 
  _expression_ A variable that represents an  **WebOptions** object.
 
@@ -35,7 +35,7 @@ If the  **[AlwaysSaveInDefaultEncoding](Publisher.WebOptions.AlwaysSaveInDefault
 
 Attempting to set the  **Encoding** property to an **MsoEncoding** constant that is not available on the client computer results in a run-time error.
 
-The  **Encoding** property value can be one of the ** [MsoEncoding](Office.MsoEncoding.md)** constants declared in the Microsoft Office type library.
+The  **Encoding** property value can be one of the **[MsoEncoding](Office.MsoEncoding.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

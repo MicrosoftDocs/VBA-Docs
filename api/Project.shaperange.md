@@ -1,5 +1,5 @@
 ---
-title: ShapeRange Object (Project)
+title: ShapeRange object (Project)
 ms.prod: project-server
 ms.assetid: 315031aa-4b8c-424b-26e7-ce15897beb05
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange Object (Project)
+# ShapeRange object (Project)
 Represents a shape range, which is a collection of one or more shapes in a report.
  
 

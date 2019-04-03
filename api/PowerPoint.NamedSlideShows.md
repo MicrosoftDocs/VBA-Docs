@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShows Object (PowerPoint)
+title: NamedSlideShows object (PowerPoint)
 keywords: vbapp10.chm515000
 f1_keywords:
 - vbapp10.chm515000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NamedSlideShows Object (PowerPoint)
+# NamedSlideShows object (PowerPoint)
 
 A collection of all the  **[NamedSlideShow](PowerPoint.NamedSlideShow.md)** objects in the presentation. Each **NamedSlideShow** object represents a custom slide show.
 

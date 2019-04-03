@@ -1,5 +1,5 @@
 ---
-title: Application.InvokeHelp Method (Visio)
+title: Application.InvokeHelp method (Visio)
 keywords: vis_sdr.chm10050695
 f1_keywords:
 - vis_sdr.chm10050695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.InvokeHelp Method (Visio)
+# Application.InvokeHelp method (Visio)
 
 Performs operations that involve the Microsoft Visio Help system.
 
 
 ## Syntax
 
- _expression_. `InvokeHelp`( `_bstrHelpFileName_` , `_Command_` , `_Data_` )
+_expression_. `InvokeHelp`( `_bstrHelpFileName_` , `_Command_` , `_Data_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

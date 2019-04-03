@@ -1,5 +1,5 @@
 ---
-title: Hyperlink Object (Publisher)
+title: Hyperlink object (Publisher)
 keywords: vbapb10.chm4653055
 f1_keywords:
 - vbapb10.chm4653055
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Hyperlink Object (Publisher)
+# Hyperlink object (Publisher)
 
 Represents a hyperlink. The  **Hyperlink** object is a member of the **[Hyperlinks](Publisher.Hyperlinks.md)** collection and the **[Shape](./Publisher.Shape.md)** and **[ShapeRange](Publisher.ShapeRange.md)** objects.
 

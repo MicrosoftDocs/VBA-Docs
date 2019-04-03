@@ -1,5 +1,5 @@
 ---
-title: Series.Format Property (PowerPoint)
+title: Series.Format property (PowerPoint)
 keywords: vbapp10.chm716001
 f1_keywords:
 - vbapp10.chm716001
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Series.Format Property (PowerPoint)
+# Series.Format property (PowerPoint)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

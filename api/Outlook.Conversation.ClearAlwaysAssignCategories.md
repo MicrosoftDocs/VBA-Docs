@@ -1,5 +1,5 @@
 ---
-title: Conversation.ClearAlwaysAssignCategories Method (Outlook)
+title: Conversation.ClearAlwaysAssignCategories method (Outlook)
 keywords: vbaol11.chm3489
 f1_keywords:
 - vbaol11.chm3489
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Conversation.ClearAlwaysAssignCategories Method (Outlook)
+# Conversation.ClearAlwaysAssignCategories method (Outlook)
 
 Removes all categories from all items in the conversation and stops the action of always assigning categories to items in the conversation.
 

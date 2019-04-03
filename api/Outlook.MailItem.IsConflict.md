@@ -1,5 +1,5 @@
 ---
-title: MailItem.IsConflict Property (Outlook)
+title: MailItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1377
 f1_keywords:
 - vbaol11.chm1377
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.IsConflict Property (Outlook)
+# MailItem.IsConflict property (Outlook)
 
 Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 
 _expression_. `IsConflict`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

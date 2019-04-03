@@ -1,5 +1,5 @@
 ---
-title: ActionSetting Object (PowerPoint)
+title: ActionSetting object (PowerPoint)
 keywords: vbapp10.chm567000
 f1_keywords:
 - vbapp10.chm567000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ActionSetting Object (PowerPoint)
+# ActionSetting object (PowerPoint)
 
 Contains information about how the specified shape or text range reacts to mouse actions during a slide show. 
 
@@ -58,6 +58,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

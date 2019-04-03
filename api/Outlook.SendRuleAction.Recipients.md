@@ -1,5 +1,5 @@
 ---
-title: SendRuleAction.Recipients Property (Outlook)
+title: SendRuleAction.Recipients property (Outlook)
 keywords: vbaol11.chm2222
 f1_keywords:
 - vbaol11.chm2222
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SendRuleAction.Recipients Property (Outlook)
+# SendRuleAction.Recipients property (Outlook)
 
 Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents the recipient list for the send action. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents th
 
 _expression_. `Recipients`
 
-_expression_ A variable that represents a [SendRuleAction](./Outlook.SendRuleAction.md) object.
+_expression_ A variable that represents a [SendRuleAction](Outlook.SendRuleAction.md) object.
 
 
 ## Remarks

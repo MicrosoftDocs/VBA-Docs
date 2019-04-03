@@ -1,5 +1,5 @@
 ---
-title: Chart.HeightPercent Property (Project)
+title: Chart.HeightPercent property (Project)
 ms.prod: project-server
 ms.assetid: cb7e3a55-eb99-b02d-2242-ebdcbd954b35
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Chart.HeightPercent Property (Project)
+# Chart.HeightPercent property (Project)
 Gets or sets the height of a 3-D chart as a percentage of the chart width. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `HeightPercent`
+_expression_. `HeightPercent`
 
  _expression_ A variable that represents a 'Chart' object.
 

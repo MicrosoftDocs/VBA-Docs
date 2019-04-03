@@ -1,5 +1,5 @@
 ---
-title: Selection.Delete Method (PowerPoint)
+title: Selection.Delete method (PowerPoint)
 keywords: vbapp10.chm508005
 f1_keywords:
 - vbapp10.chm508005
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Delete Method (PowerPoint)
+# Selection.Delete method (PowerPoint)
 
 Deletes the specified  **Selection** object.
 

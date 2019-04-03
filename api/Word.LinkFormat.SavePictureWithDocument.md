@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `SavePictureWithDocument`
+_expression_. `SavePictureWithDocument`
 
  _expression_ An expression that returns a '[LinkFormat](Word.LinkFormat.md)' object.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyPictToSides Property (PowerPoint)
+title: Point.ApplyPictToSides property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.ApplyPictToSides
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Point.ApplyPictToSides Property (PowerPoint)
+# Point.ApplyPictToSides property (PowerPoint)
 
  **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyPictToSides`
+_expression_. `ApplyPictToSides`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

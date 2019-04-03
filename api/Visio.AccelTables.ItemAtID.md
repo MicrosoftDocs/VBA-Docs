@@ -1,5 +1,5 @@
 ---
-title: AccelTables.ItemAtID Property (Visio)
+title: AccelTables.ItemAtID property (Visio)
 keywords: vis_sdr.chm14813770
 f1_keywords:
 - vis_sdr.chm14813770
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# AccelTables.ItemAtID Property (Visio)
+# AccelTables.ItemAtID property (Visio)
 
 Returns the  **AccelTable** object for an ID within a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemAtID`( `_lID_` )
+_expression_. `ItemAtID`( `_lID_` )
 
  _expression_ A variable that represents an [AccelTables](./Visio.AccelTables.md) object.
 

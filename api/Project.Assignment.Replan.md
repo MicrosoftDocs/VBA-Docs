@@ -1,5 +1,5 @@
 ---
-title: Assignment.Replan Method (Project)
+title: Assignment.Replan method (Project)
 keywords: vbapj.chm131251
 f1_keywords:
 - vbapj.chm131251
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Assignment.Replan Method (Project)
+# Assignment.Replan method (Project)
 
 Replans the assignment by decreasing work or increasing duration.
 
 
 ## Syntax
 
- _expression_. `Replan`( `_action_` )
+_expression_. `Replan`( `_action_` )
 
  _expression_ An expression that returns a [Assignment](./Project.Assignment.md) object.
 

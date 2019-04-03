@@ -1,5 +1,5 @@
 ---
-title: Selection.Type Property (Publisher)
+title: Selection.Type property (Publisher)
 keywords: vbapb10.chm851971
 f1_keywords:
 - vbapb10.chm851971
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Type Property (Publisher)
+# Selection.Type property (Publisher)
 
 Returns a  **PbSelectionType** constant that represents the selection type. Read-only.
 
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_.**Type**
 
  _expression_ A variable that represents a  **Selection** object.
 

@@ -1,5 +1,5 @@
 ---
-title: MailModule.Class Property (Outlook)
+title: MailModule.Class property (Outlook)
 keywords: vbaol11.chm2813
 f1_keywords:
 - vbaol11.chm2813
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailModule.Class Property (Outlook)
+# MailModule.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [MailModule](./Outlook.MailModule.md) object.
+_expression_ A variable that represents a [MailModule](Outlook.MailModule.md) object.
 
 
 ## Remarks

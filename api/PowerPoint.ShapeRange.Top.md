@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Top Property (PowerPoint)
+title: ShapeRange.Top property (PowerPoint)
 keywords: vbapp10.chm548037
 f1_keywords:
 - vbapp10.chm548037
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Top Property (PowerPoint)
+# ShapeRange.Top property (PowerPoint)
 
 Returns or sets a  **Single** that represents the distance from the top edge of the topmost shape in the shape range to the top edge of the document. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages.ShapeDataGraphicChanged Event (Visio)
+title: Pages.ShapeDataGraphicChanged event (Visio)
 keywords: vis_sdr.chm11062010
 f1_keywords:
 - vis_sdr.chm11062010
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pages.ShapeDataGraphicChanged Event (Visio)
+# Pages.ShapeDataGraphicChanged event (Visio)
 
 Occurs after a data graphic is applied to or deleted from a shape.
 

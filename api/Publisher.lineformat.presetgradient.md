@@ -1,5 +1,5 @@
 ---
-title: LineFormat.PresetGradient Method (Publisher)
+title: LineFormat.PresetGradient method (Publisher)
 keywords: vbapb10.chm3407889
 f1_keywords:
 - vbapb10.chm3407889
@@ -10,11 +10,11 @@ localization_priority: Normal
 ---
 
 
-# LineFormat.PresetGradient Method (Publisher)
+# LineFormat.PresetGradient method (Publisher)
 
 ## Syntax
 
- _expression_. **PresetGradient**(Style, Style, Variant, PresetGradientType)
+ _expression_.**PresetGradient**(Style, Style, Variant, PresetGradientType)
 
  _expression_ A variable that represents a  **LineFormat** object.
 

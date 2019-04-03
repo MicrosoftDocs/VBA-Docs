@@ -1,5 +1,5 @@
 ---
-title: OutlineCode Object (Project)
+title: OutlineCode object (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# OutlineCode Object (Project)
+# OutlineCode object (Project)
 
 
  

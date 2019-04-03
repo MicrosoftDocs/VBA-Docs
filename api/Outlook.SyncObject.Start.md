@@ -1,5 +1,5 @@
 ---
-title: SyncObject.Start Method (Outlook)
+title: SyncObject.Start method (Outlook)
 keywords: vbaol11.chm108
 f1_keywords:
 - vbaol11.chm108
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SyncObject.Start Method (Outlook)
+# SyncObject.Start method (Outlook)
 
 Begins synchronizing a user's folders using the specified  **Send\Receive** group.
 

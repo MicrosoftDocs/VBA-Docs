@@ -1,5 +1,5 @@
 ---
-title: UpBars.Name Property (PowerPoint)
+title: UpBars.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Name
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# UpBars.Name Property (PowerPoint)
+# UpBars.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ExtrusionColor Property (PowerPoint)
+title: ThreeDFormat.ExtrusionColor property (PowerPoint)
 keywords: vbapp10.chm557008
 f1_keywords:
 - vbapp10.chm557008
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ExtrusionColor Property (PowerPoint)
+# ThreeDFormat.ExtrusionColor property (PowerPoint)
 
 Returns a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the color of the shape's extrusion. Read-only.
 
 
 ## Syntax
 
- _expression_. `ExtrusionColor`
+_expression_. `ExtrusionColor`
 
  _expression_ A variable that represents an [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -31,7 +31,7 @@ ColorFormat
 
 ## Example
 
-This example adds an oval to  `myDocument`, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
+This example adds an oval to  _myDocument_, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
 
 
 ```vb

@@ -16,9 +16,9 @@ Gets or sets a value that indicates whether the shortcut (right-click) menu is e
 
 ## Syntax
 
- _expression_. **ContextMenuEnabled**
+ _expression_.**ContextMenuEnabled**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value

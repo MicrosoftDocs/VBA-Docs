@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Send Method (Outlook)
+title: AppointmentItem.Send method (Outlook)
 keywords: vbaol11.chm907
 f1_keywords:
 - vbaol11.chm907
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.Send Method (Outlook)
+# AppointmentItem.Send method (Outlook)
 
 Sends the appointment.
 
@@ -21,7 +21,7 @@ Sends the appointment.
 
 _expression_. `Send`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

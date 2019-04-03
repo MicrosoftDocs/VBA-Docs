@@ -1,5 +1,5 @@
 ---
-title: Table.ShowInMenu Property (Project)
+title: Table.ShowInMenu property (Project)
 keywords: vbapj.chm132697
 f1_keywords:
 - vbapj.chm132697
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Table.ShowInMenu Property (Project)
+# Table.ShowInMenu property (Project)
 
  **True** if Project shows the table name in the **Tables** drop-down list on the **View** tab of the Ribbon. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowInMenu`
+_expression_. `ShowInMenu`
 
  _expression_ A variable that represents a [Table](./Project.Table.md) object.
 

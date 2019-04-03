@@ -1,5 +1,5 @@
 ---
-title: Chart.SetDefaultChart Method (PowerPoint)
+title: Chart.SetDefaultChart method (PowerPoint)
 keywords: vbapp10.chm684006
 f1_keywords:
 - vbapp10.chm684006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Chart.SetDefaultChart Method (PowerPoint)
+# Chart.SetDefaultChart method (PowerPoint)
 
 Specifies the name of the chart template that Microsoft Word uses when it creates new charts.
 
 
 ## Syntax
 
- _expression_. `SetDefaultChart`( `_Name_` )
+_expression_. `SetDefaultChart`( `_Name_` )
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required|**Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special  **[xlChartGallery](PowerPoint.XlChartGallery.md)** constant, **xlBuiltIn**, to specify a built-in chart template.|
+| _Name_|Required|**Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special  **[XlChartGallery](PowerPoint.XlChartGallery.md)** constant, **xlBuiltIn**, to specify a built-in chart template.|
 
 ## Example
 

@@ -1,5 +1,5 @@
 ---
-title: Event.Delete Method (Visio)
+title: Event.Delete method (Visio)
 keywords: vis_sdr.chm12616165
 f1_keywords:
 - vis_sdr.chm12616165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Event.Delete Method (Visio)
+# Event.Delete method (Visio)
 
 Deletes an object.
 

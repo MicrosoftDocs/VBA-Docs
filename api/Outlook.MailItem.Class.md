@@ -1,5 +1,5 @@
 ---
-title: MailItem.Class Property (Outlook)
+title: MailItem.Class property (Outlook)
 keywords: vbaol11.chm1291
 f1_keywords:
 - vbaol11.chm1291
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Class Property (Outlook)
+# MailItem.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## See also

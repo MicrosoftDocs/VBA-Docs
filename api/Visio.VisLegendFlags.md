@@ -1,5 +1,5 @@
 ---
-title: VisLegendFlags Enumeration (Visio)
+title: VisLegendFlags enumeration (Visio)
 keywords: vis_sdr.chm70710
 f1_keywords:
 - vis_sdr.chm70710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisLegendFlags Enumeration (Visio)
+# VisLegendFlags enumeration (Visio)
 
 
 

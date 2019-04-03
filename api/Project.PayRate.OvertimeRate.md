@@ -1,5 +1,5 @@
 ---
-title: PayRate.OvertimeRate Property (Project)
+title: PayRate.OvertimeRate property (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRate.OvertimeRate
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# PayRate.OvertimeRate Property (Project)
+# PayRate.OvertimeRate property (Project)
 
 Gets or sets the overtime rate for a  **PayRate** object. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `OvertimeRate`
+_expression_. `OvertimeRate`
 
  _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 

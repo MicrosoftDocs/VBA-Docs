@@ -1,5 +1,5 @@
 ---
-title: LineFormat Object (PowerPoint)
+title: LineFormat object (PowerPoint)
 keywords: vbapp10.chm553000
 f1_keywords:
 - vbapp10.chm553000
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# LineFormat Object (PowerPoint)
+# LineFormat object (PowerPoint)
 
 Represents line and arrowhead formatting. For a line, the  **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
 
 
 ## Example
 
-Use the  **Line** property to return a **LineFormat** object. The following example adds a blue, dashed line to `myDocument`. There's a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
+Use the  **Line** property to return a **LineFormat** object. The following example adds a blue, dashed line to _myDocument_. There's a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
 
 
 ```vb
@@ -75,6 +75,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Series.Type Property (PowerPoint)
+title: Series.Type property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Type
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Series.Type Property (PowerPoint)
+# Series.Type property (PowerPoint)
 
 Returns or sets the series type. Read/write  **Long**.
 
@@ -23,7 +23,7 @@ Returns or sets the series type. Read/write  **Long**.
 
 ## Remarks
 
-You can use the following  **[xlConstants](PowerPoint.XlConstants.md)** constants for this property:
+You can use the following  **[XlConstants](PowerPoint.XlConstants.md)** constants for this property:
 
 
 -  **xlColumn**

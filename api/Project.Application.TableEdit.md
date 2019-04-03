@@ -1,5 +1,5 @@
 ---
-title: Application.TableEdit Method (Project)
+title: Application.TableEdit method (Project)
 keywords: vbapj.chm403
 f1_keywords:
 - vbapj.chm403
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TableEdit Method (Project)
+# Application.TableEdit method (Project)
 
 Creates, edits, or copies a table.
 
 
 ## Syntax
 
- _expression_. `TableEdit`( `_Name_`, `_TaskTable_`, `_Create_`, `_OverwriteExisting_`, `_NewName_`, `_FieldName_`, `_NewFieldName_`, `_Title_`, `_Width_`, `_Align_`, `_ShowInMenu_`, `_LockFirstColumn_`, `_DateFormat_`, `_RowHeight_`, `_ColumnPosition_`, `_AlignTitle_`, `_HeaderAutoRowHeightAdjustment_`, `_HeaderTextWrap_` )
+_expression_. `TableEdit`( `_Name_`, `_TaskTable_`, `_Create_`, `_OverwriteExisting_`, `_NewName_`, `_FieldName_`, `_NewFieldName_`, `_Title_`, `_Width_`, `_Align_`, `_ShowInMenu_`, `_LockFirstColumn_`, `_DateFormat_`, `_RowHeight_`, `_ColumnPosition_`, `_AlignTitle_`, `_HeaderAutoRowHeightAdjustment_`, `_HeaderTextWrap_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

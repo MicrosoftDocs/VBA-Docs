@@ -1,5 +1,5 @@
 ---
-title: Application.OpenUndoTransaction Method (Project)
+title: Application.OpenUndoTransaction method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.OpenUndoTransaction
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OpenUndoTransaction Method (Project)
+# Application.OpenUndoTransaction method (Project)
 
 Create an undo transaction set for a series of operations.
 
 
 ## Syntax
 
- _expression_. `OpenUndoTransaction`( `_Label_`, `_guid_` )
+_expression_. `OpenUndoTransaction`( `_Label_`, `_guid_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

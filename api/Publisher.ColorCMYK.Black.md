@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK.Black Property (Publisher)
+title: ColorCMYK.Black property (Publisher)
 keywords: vbapb10.chm2621442
 f1_keywords:
 - vbapb10.chm2621442
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ColorCMYK.Black Property (Publisher)
+# ColorCMYK.Black property (Publisher)
 
 Sets or returns a  **Long** that represents the black component of a CMYK color. Value can be any number between 0 and 255. Read/write.
 
 
 ## Syntax
 
- _expression_. **Black**
+ _expression_.**Black**
 
  _expression_ A variable that represents a  **ColorCMYK** object.
 

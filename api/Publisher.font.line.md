@@ -1,5 +1,5 @@
 ---
-title: Font.Line Property (Publisher)
+title: Font.Line property (Publisher)
 keywords: vbapb10.chm5374019
 f1_keywords:
 - vbapb10.chm5374019
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Font.Line Property (Publisher)
+# Font.Line property (Publisher)
 
 Returns a  [LineFormat](Publisher.LineFormat.md) object that specifies the formatting for a line. Read/write.
 
 
 ## Syntax
 
- _expression_. **Line**
+ _expression_.**Line**
 
  _expression_ A variable that represents a  **Font** object.
 

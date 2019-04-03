@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTimescaleRange Method (Project)
+title: Application.SelectTimescaleRange method (Project)
 keywords: vbapj.chm954
 f1_keywords:
 - vbapj.chm954
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SelectTimescaleRange Method (Project)
+# Application.SelectTimescaleRange method (Project)
 
 Selects one or more timescale data cells in a usage view.
 
 
 ## Syntax
 
- _expression_. `SelectTimescaleRange`( `_Row_`, `_StartTime_`, `_Width_`, `_Height_` )
+_expression_. `SelectTimescaleRange`( `_Row_`, `_StartTime_`, `_Width_`, `_Height_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

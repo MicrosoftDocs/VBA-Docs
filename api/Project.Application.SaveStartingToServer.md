@@ -1,5 +1,5 @@
 ---
-title: Application.SaveStartingToServer Event (Project)
+title: Application.SaveStartingToServer event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.SaveStartingToServer
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SaveStartingToServer Event (Project)
+# Application.SaveStartingToServer event (Project)
 
 Occurs when Project Professional starts to save project changes to the Project Server queue. 
 
 
 ## Syntax
 
- _expression_. `SaveStartingToServer`( `_bstrName_`, `_bstrprojGuid_` )
+_expression_. `SaveStartingToServer`( `_bstrName_`, `_bstrprojGuid_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

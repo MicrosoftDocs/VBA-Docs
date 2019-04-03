@@ -1,5 +1,5 @@
 ---
-title: VisUIBarPosition Enumeration (Visio)
+title: VisUIBarPosition enumeration (Visio)
 keywords: vis_sdr.chm70285
 f1_keywords:
 - vis_sdr.chm70285
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisUIBarPosition Enumeration (Visio)
+# VisUIBarPosition enumeration (Visio)
 
 Values passed to and returned by the  **MenuSet.Position** and **Toolbar.Position** properties.
 

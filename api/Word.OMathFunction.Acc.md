@@ -19,7 +19,7 @@ Returns an  **[OMathAcc](Word.OMathAcc.md)** object that represents a base chara
 
 ## Syntax
 
- _expression_. `Acc`
+_expression_. `Acc`
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

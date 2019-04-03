@@ -1,5 +1,5 @@
 ---
-title: Shapes Object (PowerPoint)
+title: Shapes object (PowerPoint)
 keywords: vbapp10.chm543000
 f1_keywords:
 - vbapp10.chm543000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shapes Object (PowerPoint)
+# Shapes object (PowerPoint)
 
 A collection of all the  **[Shape](./PowerPoint.Shape.md)** objects on the specified slide.
 
@@ -37,7 +37,7 @@ ActivePresentation.Slides(1).Shapes.SelectAll
 
  **Note**  If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the [Range](./PowerPoint.Shapes.Range.md)method with no argument to create a  **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
-Use the [AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](./overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), or [AddTitle](./PowerPoint.Shapes.AddTitle.md)method to create a new shape and add it to the  **Shapes** collection. Use the [BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)method in conjunction with the [ConvertToShape](./PowerPoint.FreeformBuilder.ConvertToShape.md)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
+Use the [AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), or [AddTitle](./PowerPoint.Shapes.AddTitle.md)method to create a new shape and add it to the  **Shapes** collection. Use the [BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)method in conjunction with the [ConvertToShape](./PowerPoint.FreeformBuilder.ConvertToShape.md)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
 
 
 
@@ -138,6 +138,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Style.Name Property (Visio)
+title: Style.Name property (Visio)
 keywords: vis_sdr.chm11413930
 f1_keywords:
 - vis_sdr.chm11413930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Style.Name Property (Visio)
+# Style.Name property (Visio)
 
 Specifies the name of an object. Read-only.
 

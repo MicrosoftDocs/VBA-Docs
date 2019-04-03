@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Creator Property (PowerPoint)
+title: LeaderLines.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Creator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# LeaderLines.Creator Property (PowerPoint)
+# LeaderLines.Creator property (PowerPoint)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Blur Property (Publisher)
+title: ReflectionFormat.Blur property (Publisher)
 keywords: vbapb10.chm9699333
 f1_keywords:
 - vbapb10.chm9699333
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# ReflectionFormat.Blur Property (Publisher)
+# ReflectionFormat.Blur property (Publisher)
 
 Returns or sets a  **Single** that specifies the degree of blur effect applied to the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Blur**
+ _expression_.**Blur**
 
  _expression_ A variable that represents a  **ReflectionFormat** object.
 

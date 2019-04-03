@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultZoomBehavior Property (Visio)
+title: Application.DefaultZoomBehavior property (Visio)
 keywords: vis_sdr.chm10052070
 f1_keywords:
 - vis_sdr.chm10052070
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.DefaultZoomBehavior Property (Visio)
+# Application.DefaultZoomBehavior property (Visio)
 
 Determines the zoom behavior for all new Microsoft Visio documents and drawing windows. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultZoomBehavior`
+_expression_. `DefaultZoomBehavior`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Add Method (Publisher)
+title: Hyperlinks.Add method (Publisher)
 keywords: vbapb10.chm6881284
 f1_keywords:
 - vbapb10.chm6881284
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Hyperlinks.Add Method (Publisher)
+# Hyperlinks.Add method (Publisher)
 
 Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and returns the new **Hyperlink** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Text_**,  **_Address_**,  **_RelativePage_**,  **_PageID_**,  **_TextToDisplay_**)
+ _expression_.**Add**(**_Text_**,  **_Address_**,  **_RelativePage_**,  **_PageID_**,  **_TextToDisplay_**)
 
  _expression_ A variable that represents a  **Hyperlinks** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Design.Index Property (PowerPoint)
+title: Design.Index property (PowerPoint)
 keywords: vbapp10.chm644007
 f1_keywords:
 - vbapp10.chm644007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Design.Index Property (PowerPoint)
+# Design.Index property (PowerPoint)
 
 Returns a  **Long** that represents the index number for an animation effect or design. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
 _expression_ A variable that represents a [Design](./PowerPoint.Design.md) object.
 

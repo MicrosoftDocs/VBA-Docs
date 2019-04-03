@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLabel Method (Publisher)
+title: Shapes.AddLabel method (Publisher)
 keywords: vbapb10.chm2162707
 f1_keywords:
 - vbapb10.chm2162707
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddLabel Method (Publisher)
+# Shapes.AddLabel method (Publisher)
 
 Adds a new  **[Shape](Publisher.Shape.md)** object representing a text label to the specified **[Shapes](Publisher.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddLabel**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+ _expression_.**AddLabel**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

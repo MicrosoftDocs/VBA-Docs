@@ -1,5 +1,5 @@
 ---
-title: MailItem.Attachments Property (Outlook)
+title: MailItem.Attachments property (Outlook)
 keywords: vbaol11.chm1295
 f1_keywords:
 - vbaol11.chm1295
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.Attachments Property (Outlook)
+# MailItem.Attachments property (Outlook)
 
 Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all
 
 _expression_. `Attachments`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Example

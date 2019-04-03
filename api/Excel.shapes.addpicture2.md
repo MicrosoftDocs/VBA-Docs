@@ -19,7 +19,7 @@ Creates a picture from an existing file. Returns a  **[Shape](Excel.Shapes.md)**
 
 _expression_. `AddPicture2`( `_FileName_` , `_LinkToFile_` , `_SaveWithDocument_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` , `_compress_` )
 
-_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 | _Top_|Required| **Single**|The position, measured in points, of the top edge of the picture relative to the top edge of the worksheet.|
 | _Width_|Optional| **Single**|The width of the picture, measured in points.|
 | _Height_|Optional| **Single**|The height of the picture, measured in points.|
-| _compress_|Optional|[MsoPictureCompress](./overview/Library-Reference/msopicturecompress-enumeration-office.md)|Determines whether the picture should be compressed when inserted.|
+| _compress_|Optional|[MsoPictureCompress](overview/Library-Reference/msopicturecompress-enumeration-office.md)|Determines whether the picture should be compressed when inserted.|
 
 ## Return value
 

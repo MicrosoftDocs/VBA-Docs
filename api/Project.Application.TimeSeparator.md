@@ -1,5 +1,5 @@
 ---
-title: Application.TimeSeparator Property (Project)
+title: Application.TimeSeparator property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.TimeSeparator
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TimeSeparator Property (Project)
+# Application.TimeSeparator property (Project)
 
 Gets the time separator character. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `TimeSeparator`
+_expression_. `TimeSeparator`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

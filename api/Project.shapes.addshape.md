@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddShape Method (Project)
+title: Shapes.AddShape method (Project)
 ms.prod: project-server
 ms.assetid: 58af0a51-a455-5c9a-1cae-e56dc67a08a5
 ms.date: 06/08/2017
@@ -7,12 +7,12 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddShape Method (Project)
+# Shapes.AddShape method (Project)
 Adds a shape of the specified AutoShape type to a report, and returns a  **Shape** object that represents the new shape.
 
 ## Syntax
 
- _expression_. `AddShape` _(Type,_ _Left,_ _Top,_ _Width,_ _Height)_
+_expression_. `AddShape` _(Type,_ _Left,_ _Top,_ _Width,_ _Height)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

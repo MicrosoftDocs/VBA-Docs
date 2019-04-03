@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.DoVerb Method (PowerPoint)
+title: OLEFormat.DoVerb method (PowerPoint)
 keywords: vbapp10.chm562007
 f1_keywords:
 - vbapp10.chm562007
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# OLEFormat.DoVerb Method (PowerPoint)
+# OLEFormat.DoVerb method (PowerPoint)
 
 Requests that an OLE object perform one of its verbs. 
 
 
 ## Syntax
 
- _expression_. `DoVerb`( `_Index_` )
+_expression_. `DoVerb` (_Index_)
 
  _expression_ A variable that represents an [OLEFormat](./PowerPoint.OLEFormat.md) object.
 

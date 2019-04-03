@@ -1,5 +1,5 @@
 ---
-title: Selection.Cut Method (Visio)
+title: Selection.Cut method (Visio)
 keywords: vis_sdr.chm11116160
 f1_keywords:
 - vis_sdr.chm11116160
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Selection.Cut Method (Visio)
+# Selection.Cut method (Visio)
 
 Deletes a selection and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`( `_Flags_` )
+_expression_. `Cut`( `_Flags_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

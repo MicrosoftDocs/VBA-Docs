@@ -19,7 +19,7 @@ Adds the specified subdocument to the master document at the start of the select
 
 ## Syntax
 
- _expression_. `AddFromFile`( `_Name_` , `_ConfirmConversions_` , `_ReadOnly_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` )
+_expression_. `AddFromFile`( `_Name_` , `_ConfirmConversions_` , `_ReadOnly_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` )
 
  _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 

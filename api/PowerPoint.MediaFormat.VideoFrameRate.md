@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.VideoFrameRate Property (PowerPoint)
+title: MediaFormat.VideoFrameRate property (PowerPoint)
 keywords: vbapp10.chm724019
 f1_keywords:
 - vbapp10.chm724019
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# MediaFormat.VideoFrameRate Property (PowerPoint)
+# MediaFormat.VideoFrameRate property (PowerPoint)
 
 Returns the video frame rate per second of the media. Read-only.
 
 
 ## Syntax
 
- _expression_. `VideoFrameRate`
+_expression_. `VideoFrameRate`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

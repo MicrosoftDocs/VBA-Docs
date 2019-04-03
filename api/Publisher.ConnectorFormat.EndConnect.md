@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnect Method (Publisher)
+title: ConnectorFormat.EndConnect method (Publisher)
 keywords: vbapb10.chm3211282
 f1_keywords:
 - vbapb10.chm3211282
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnect Method (Publisher)
+# ConnectorFormat.EndConnect method (Publisher)
 
 Attaches the end of the specified connector to a specified shape.
 
 
 ## Syntax
 
- _expression_. **EndConnect**(**_ConnectedShape_**,  **_ConnectionSite_**)
+ _expression_.**EndConnect**(**_ConnectedShape_**,  **_ConnectionSite_**)
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 

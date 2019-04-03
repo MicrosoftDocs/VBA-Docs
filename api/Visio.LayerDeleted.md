@@ -16,9 +16,9 @@ Gets a value that indicates whether the layer at the specified index in the draw
 
 ## Syntax
 
- _expression_. **LayerDeleted**(**_LayerIndex_**)
+ _expression_.**LayerDeleted**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters

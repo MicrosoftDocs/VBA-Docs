@@ -1,5 +1,5 @@
 ---
-title: PbPersonalInfoSet Enumeration (Publisher)
+title: PbPersonalInfoSet enumeration (Publisher)
 keywords: vbapb10.chm65574
 f1_keywords:
 - vbapb10.chm65574
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PbPersonalInfoSet Enumeration (Publisher)
+# PbPersonalInfoSet enumeration (Publisher)
 
 Indicates the current identity set.
 

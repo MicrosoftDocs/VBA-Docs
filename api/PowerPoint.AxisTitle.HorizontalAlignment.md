@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.HorizontalAlignment Property (PowerPoint)
+title: AxisTitle.HorizontalAlignment property (PowerPoint)
 keywords: vbapp10.chm683004
 f1_keywords:
 - vbapp10.chm683004
@@ -12,21 +12,21 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle.HorizontalAlignment Property (PowerPoint)
+# AxisTitle.HorizontalAlignment property (PowerPoint)
 
 Returns or sets the horizontal alignment for the specified object. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `HorizontalAlignment`
+_expression_. `HorizontalAlignment`
 
 _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)' object.
 
 
 ## Remarks
 
-The value of this property can be set to one of the following  **[xlConstants](PowerPoint.XlConstants.md)** constants:
+The value of this property can be set to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
 -  **xlCenter**

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddBuildingBlock Method (Publisher)
+title: Shapes.AddBuildingBlock method (Publisher)
 keywords: vbapb10.chm2162768
 f1_keywords:
 - vbapb10.chm2162768
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Shapes.AddBuildingBlock Method (Publisher)
+# Shapes.AddBuildingBlock method (Publisher)
 
 Adds a  **[BuildingBlock](Publisher.BuildingBlock.md)** object and returns a **[Shape](Publisher.Shape.md)** object on the page that represents the building block.
 
 
 ## Syntax
 
- _expression_. **AddBuildingBlock**(**_BBlockIn_**,  **_Left_**,  **_Top_**)
+ _expression_.**AddBuildingBlock**(**_BBlockIn_**,  **_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

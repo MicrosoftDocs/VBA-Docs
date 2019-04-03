@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowOnNext Event (PowerPoint)
+title: Application.SlideShowOnNext event (PowerPoint)
 keywords: vbapp10.chm621023
 f1_keywords:
 - vbapp10.chm621023
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.SlideShowOnNext Event (PowerPoint)
+# Application.SlideShowOnNext event (PowerPoint)
 
 Occurs when the user clicks  **Next** to move within the current slide.
 
 
 ## Syntax
 
- _expression_. `SlideShowOnNext`( `_Wn_` )
+_expression_. `SlideShowOnNext`( `_Wn_` )
 
  _expression_ An expression that returns an [Application](./PowerPoint.Application.md) object.
 

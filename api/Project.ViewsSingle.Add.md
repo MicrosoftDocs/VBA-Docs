@@ -1,5 +1,5 @@
 ---
-title: ViewsSingle.Add Method (Project)
+title: ViewsSingle.Add method (Project)
 keywords: vbapj.chm132759
 f1_keywords:
 - vbapj.chm132759
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ViewsSingle.Add Method (Project)
+# ViewsSingle.Add method (Project)
 
 Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_`, `_Screen_`, `_ShowInMenu_`, `_Table_`, `_Filter_`, `_Group_`, `_HighlightFilt_` )
+ _expression_.**Add**( `_Name_`, `_Screen_`, `_ShowInMenu_`, `_Table_`, `_Filter_`, `_Group_`, `_HighlightFilt_` )
 
  _expression_ A variable that represents a 'ViewsSingle' object.
 

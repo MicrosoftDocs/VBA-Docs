@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementRotation Method (Publisher)
+title: ShapeRange.IncrementRotation method (Publisher)
 keywords: vbapb10.chm2293793
 f1_keywords:
 - vbapb10.chm2293793
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.IncrementRotation Method (Publisher)
+# ShapeRange.IncrementRotation method (Publisher)
 
 Changes the rotation of the specified shape around the z-axis (extends outward from the plane of the publication) by the specified number of degrees.
 
 
 ## Syntax
 
- _expression_. **IncrementRotation**(**_Increment_**)
+ _expression_.**IncrementRotation**(**_Increment_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

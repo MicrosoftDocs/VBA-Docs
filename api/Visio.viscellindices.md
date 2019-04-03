@@ -1,5 +1,5 @@
 ---
-title: VisCellIndices Enumeration (Visio)
+title: VisCellIndices enumeration (Visio)
 keywords: vis_sdr.chm70030
 f1_keywords:
 - vis_sdr.chm70030
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisCellIndices Enumeration (Visio)
+# VisCellIndices enumeration (Visio)
 
 Specifies logical indices of cells in ShapeSheet rows of  **[Shape](Visio.Shape.md)** or **[Style](Visio.Style.md)** objects.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRule.Filter Property (Outlook)
+title: AutoFormatRule.Filter property (Outlook)
 keywords: vbaol11.chm2708
 f1_keywords:
 - vbaol11.chm2708
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFormatRule.Filter Property (Outlook)
+# AutoFormatRule.Filter property (Outlook)
 
 Returns or sets a  **String** value that represents the filter for a custom formatting rule. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the filter for a custom form
 
 _expression_. `Filter`
 
-_expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormatRule.md) object.
+_expression_ A variable that represents an [AutoFormatRule](Outlook.AutoFormatRule.md) object.
 
 
 ## Remarks

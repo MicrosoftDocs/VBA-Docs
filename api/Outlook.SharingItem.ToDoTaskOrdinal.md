@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ToDoTaskOrdinal Property (Outlook)
+title: SharingItem.ToDoTaskOrdinal property (Outlook)
 keywords: vbaol11.chm3222
 f1_keywords:
 - vbaol11.chm3222
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ToDoTaskOrdinal Property (Outlook)
+# SharingItem.ToDoTaskOrdinal property (Outlook)
 
 Returns or sets a  **Date** value that represents the ordinal value of the task for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Date** value that represents the ordinal value of the task 
 
 _expression_. `ToDoTaskOrdinal`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

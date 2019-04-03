@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.Stat Property (Visio)
+title: ValidationRule.Stat property (Visio)
 keywords: vis_sdr.chm18414420
 f1_keywords:
 - vis_sdr.chm18414420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationRule.Stat Property (Visio)
+# ValidationRule.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 

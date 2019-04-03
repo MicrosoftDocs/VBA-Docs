@@ -1,5 +1,5 @@
 ---
-title: CustomLayout Object (PowerPoint)
+title: CustomLayout object (PowerPoint)
 keywords: vbapp10.chm672000
 f1_keywords:
 - vbapp10.chm672000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CustomLayout Object (PowerPoint)
+# CustomLayout object (PowerPoint)
 
 Represents a custom layout associated with a presentation design. The  **CustomLayout** object is a member of the **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection.
 
@@ -77,6 +77,6 @@ Use the  **[Add](./PowerPoint.CustomLayouts.Add.md)** method of the **CustomLayo
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

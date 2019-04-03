@@ -1,5 +1,5 @@
 ---
-title: Plates.Count Property (Publisher)
+title: Plates.Count property (Publisher)
 keywords: vbapb10.chm2818050
 f1_keywords:
 - vbapb10.chm2818050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Plates.Count Property (Publisher)
+# Plates.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **Plates** object.
 

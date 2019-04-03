@@ -1,5 +1,5 @@
 ---
-title: ValidationIssue.Stat Property (Visio)
+title: ValidationIssue.Stat property (Visio)
 keywords: vis_sdr.chm18614420
 f1_keywords:
 - vis_sdr.chm18614420
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ValidationIssue.Stat Property (Visio)
+# ValidationIssue.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a '[ValidationIssue](Visio.ValidationIssue.md)' object.
 

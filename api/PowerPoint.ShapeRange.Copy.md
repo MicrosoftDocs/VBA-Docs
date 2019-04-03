@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Copy Method (PowerPoint)
+title: ShapeRange.Copy method (PowerPoint)
 keywords: vbapp10.chm548051
 f1_keywords:
 - vbapp10.chm548051
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.Copy Method (PowerPoint)
+# ShapeRange.Copy method (PowerPoint)
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

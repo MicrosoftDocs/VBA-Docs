@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Copy Method (Outlook)
+title: TaskRequestDeclineItem.Copy method (Outlook)
 keywords: vbaol11.chm1850
 f1_keywords:
 - vbaol11.chm1850
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Copy Method (Outlook)
+# TaskRequestDeclineItem.Copy method (Outlook)
 
 Creates another instance of an object.
 
@@ -21,7 +21,7 @@ Creates another instance of an object.
 
 _expression_. `Copy`
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## See also

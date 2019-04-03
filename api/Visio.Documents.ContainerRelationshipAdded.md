@@ -1,5 +1,5 @@
 ---
-title: Documents.ContainerRelationshipAdded Event (Visio)
+title: Documents.ContainerRelationshipAdded event (Visio)
 keywords: vis_sdr.chm10662065
 f1_keywords:
 - vis_sdr.chm10662065
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Documents.ContainerRelationshipAdded Event (Visio)
+# Documents.ContainerRelationshipAdded event (Visio)
 
 Occurs when a new container relationship is added to the document.
 

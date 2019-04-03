@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeDataSourceValidate2 Event (Word)
+title: Application.MailMergeDataSourceValidate2 event (Word)
 keywords: vbawd10.chm4000029
 f1_keywords:
 - vbawd10.chm4000029
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.MailMergeDataSourceValidate2 Event (Word)
+# Application.MailMergeDataSourceValidate2 event (Word)
 
 Occurs when a user validates mail merge recipients by clicking the  **Validate addresses** link button in the **Mail Merge Recipients** dialog box.
 
 
 ## Syntax
 
- _expression_. `MailMergeDataSourceValidate2`( `_Doc_` , `_Handled_` )
+_expression_. `MailMergeDataSourceValidate2`( `_Doc_` , `_Handled_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object declared with events in a class module.
 

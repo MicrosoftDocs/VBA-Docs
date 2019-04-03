@@ -1,5 +1,5 @@
 ---
-title: Shape.Application Property (PowerPoint)
+title: Shape.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Application
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Shape.Application Property (PowerPoint)
+# Shape.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

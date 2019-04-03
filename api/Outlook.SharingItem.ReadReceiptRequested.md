@@ -1,5 +1,5 @@
 ---
-title: SharingItem.ReadReceiptRequested Property (Outlook)
+title: SharingItem.ReadReceiptRequested property (Outlook)
 keywords: vbaol11.chm643
 f1_keywords:
 - vbaol11.chm643
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.ReadReceiptRequested Property (Outlook)
+# SharingItem.ReadReceiptRequested property (Outlook)
 
 Returns a  **Boolean** value that indicates **true** if a read receipt has been requested by the sender.
 
@@ -21,7 +21,7 @@ Returns a  **Boolean** value that indicates **true** if a read receipt has been 
 
 _expression_. `ReadReceiptRequested`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

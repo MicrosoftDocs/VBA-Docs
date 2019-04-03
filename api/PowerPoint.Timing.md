@@ -1,5 +1,5 @@
 ---
-title: Timing Object (PowerPoint)
+title: Timing object (PowerPoint)
 keywords: vbapp10.chm653000
 f1_keywords:
 - vbapp10.chm653000
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Timing Object (PowerPoint)
+# Timing object (PowerPoint)
 
 Represents timing properties for an animation effect.
 

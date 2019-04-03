@@ -1,5 +1,5 @@
 ---
-title: FormRegion.FormRegionMode Property (Outlook)
+title: FormRegion.FormRegionMode property (Outlook)
 keywords: vbaol11.chm2395
 f1_keywords:
 - vbaol11.chm2395
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FormRegion.FormRegionMode Property (Outlook)
+# FormRegion.FormRegionMode property (Outlook)
 
 Returns an  **OlFormRegionMode** constant that indicates whether the form region is in a read page, compose page, or Reading Pane. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **OlFormRegionMode** constant that indicates whether the form region
 
 _expression_. `FormRegionMode`
 
-_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks

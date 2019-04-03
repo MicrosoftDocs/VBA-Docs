@@ -1,5 +1,5 @@
 ---
-title: VisFlipTypes Enumeration (Visio)
+title: VisFlipTypes enumeration (Visio)
 keywords: vis_sdr.chm70405
 f1_keywords:
 - vis_sdr.chm70405
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisFlipTypes Enumeration (Visio)
+# VisFlipTypes enumeration (Visio)
 
 Type constants to pass to the  **Selection.Flip** method.
 

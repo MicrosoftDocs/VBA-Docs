@@ -21,12 +21,12 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [XmlSchemas](./Excel.XmlSchemas.md) object.
+_expression_ A variable that represents a [XmlSchemas](Excel.XmlSchemas.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb

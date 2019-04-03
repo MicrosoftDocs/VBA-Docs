@@ -1,5 +1,5 @@
 ---
-title: SharingItem.MessageClass Property (Outlook)
+title: SharingItem.MessageClass property (Outlook)
 keywords: vbaol11.chm612
 f1_keywords:
 - vbaol11.chm612
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.MessageClass Property (Outlook)
+# SharingItem.MessageClass property (Outlook)
 
 Returns or sets a  **String** representing the message class for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the message class for the **[SharingI
 
 _expression_. `MessageClass`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

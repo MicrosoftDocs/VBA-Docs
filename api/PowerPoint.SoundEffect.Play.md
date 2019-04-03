@@ -1,5 +1,5 @@
 ---
-title: SoundEffect.Play Method (PowerPoint)
+title: SoundEffect.Play method (PowerPoint)
 keywords: vbapp10.chm540006
 f1_keywords:
 - vbapp10.chm540006
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# SoundEffect.Play Method (PowerPoint)
+# SoundEffect.Play method (PowerPoint)
 
 Plays the specified sound effect.
 
 
 ## Syntax
 
- _expression_. `Play`
+_expression_. `Play`
 
  _expression_ A variable that represents a [SoundEffect](./PowerPoint.SoundEffect.md) object.
 

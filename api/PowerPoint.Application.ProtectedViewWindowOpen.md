@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowOpen Event (PowerPoint)
+title: Application.ProtectedViewWindowOpen event (PowerPoint)
 keywords: vbapp10.chm621026
 f1_keywords:
 - vbapp10.chm621026
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowOpen Event (PowerPoint)
+# Application.ProtectedViewWindowOpen event (PowerPoint)
 
 Occurs when a protected view window is opened.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowOpen`( `_ProtViewWindow_`, )
+_expression_. `ProtectedViewWindowOpen`( `_ProtViewWindow_`, )
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

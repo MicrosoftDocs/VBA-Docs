@@ -1,5 +1,5 @@
 ---
-title: Shape.SpatialNeighbors Property (Visio)
+title: Shape.SpatialNeighbors property (Visio)
 keywords: vis_sdr.chm11214395
 f1_keywords:
 - vis_sdr.chm11214395
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.SpatialNeighbors Property (Visio)
+# Shape.SpatialNeighbors property (Visio)
 
 Returns a  **Selection** object that represents the shapes that meet certain criteria in relation to a specified shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `SpatialNeighbors`( `_Relation_` , `_Tolerance_` , `_Flags_` , `_ResultRoot_` )
+_expression_. `SpatialNeighbors`( `_Relation_` , `_Tolerance_` , `_Flags_` , `_ResultRoot_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

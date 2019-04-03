@@ -1,5 +1,5 @@
 ---
-title: Document.Saved Property (Publisher)
+title: Document.Saved property (Publisher)
 keywords: vbapb10.chm196649
 f1_keywords:
 - vbapb10.chm196649
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.Saved Property (Publisher)
+# Document.Saved property (Publisher)
 
 Returns  **True** if no changes have been made to a publication since it was last saved. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Saved**
+ _expression_.**Saved**
 
  _expression_ A variable that represents a  **Document** object.
 

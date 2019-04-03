@@ -1,5 +1,5 @@
 ---
-title: Document.CustomToolbars Property (Visio)
+title: Document.CustomToolbars property (Visio)
 keywords: vis_sdr.chm10513355
 f1_keywords:
 - vis_sdr.chm10513355
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Document.CustomToolbars Property (Visio)
+# Document.CustomToolbars property (Visio)
 
 Gets a  **UIObject** object that represents the current custom toolbars and status bars of a **Document** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomToolbars`
+_expression_. `CustomToolbars`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

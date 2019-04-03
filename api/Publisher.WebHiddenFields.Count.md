@@ -1,5 +1,5 @@
 ---
-title: WebHiddenFields.Count Property (Publisher)
+title: WebHiddenFields.Count property (Publisher)
 keywords: vbapb10.chm3997699
 f1_keywords:
 - vbapb10.chm3997699
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WebHiddenFields.Count Property (Publisher)
+# WebHiddenFields.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_.**Count**
 
  _expression_ A variable that represents a  **WebHiddenFields** object.
 

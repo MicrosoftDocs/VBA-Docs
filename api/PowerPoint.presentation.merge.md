@@ -1,5 +1,5 @@
 ---
-title: Presentation.Merge Method (PowerPoint)
+title: Presentation.Merge method (PowerPoint)
 keywords: vbapp10.chm583064
 f1_keywords:
 - vbapp10.chm583064
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Presentation.Merge Method (PowerPoint)
+# Presentation.Merge method (PowerPoint)
 
 Merges the changes in one presentation with another.
 
 
 ## Syntax
 
- _expression_. `Merge`_(Path)_
+_expression_. `Merge`_(Path)_
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

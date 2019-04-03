@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Department Property (Outlook)
+title: ContactItem.Department property (Outlook)
 keywords: vbaol11.chm990
 f1_keywords:
 - vbaol11.chm990
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactItem.Department Property (Outlook)
+# ContactItem.Department property (Outlook)
 
 Returns or sets a  **String** representing the department name for the contact. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the department name for the contact. 
 
 _expression_. `Department`
 
-_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also

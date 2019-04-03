@@ -1,5 +1,5 @@
 ---
-title: PjSpellingField Enumeration (Project)
+title: PjSpellingField enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjSpellingField
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PjSpellingField Enumeration (Project)
+# PjSpellingField enumeration (Project)
 
 Contains constants that specify the field for spelling check.
 

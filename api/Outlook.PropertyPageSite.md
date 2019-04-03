@@ -1,5 +1,5 @@
 ---
-title: PropertyPageSite Object (Outlook)
+title: PropertyPageSite object (Outlook)
 keywords: vbaol11.chm384
 f1_keywords:
 - vbaol11.chm384
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PropertyPageSite Object (Outlook)
+# PropertyPageSite object (Outlook)
 
 Represents the container of a custom property page.
 
@@ -60,6 +60,6 @@ Use the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

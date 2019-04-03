@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectServerUsedForTracking Property (Project)
+title: Project.ProjectServerUsedForTracking property (Project)
 keywords: vbapj.chm131116
 f1_keywords:
 - vbapj.chm131116
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Project.ProjectServerUsedForTracking Property (Project)
+# Project.ProjectServerUsedForTracking property (Project)
 
  **True** if Project Server is used for tracking the specified project. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ProjectServerUsedForTracking`
+_expression_. `ProjectServerUsedForTracking`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

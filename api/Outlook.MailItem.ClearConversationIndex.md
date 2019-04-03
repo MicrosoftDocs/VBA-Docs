@@ -1,5 +1,5 @@
 ---
-title: MailItem.ClearConversationIndex Method (Outlook)
+title: MailItem.ClearConversationIndex method (Outlook)
 keywords: vbaol11.chm1365
 f1_keywords:
 - vbaol11.chm1365
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MailItem.ClearConversationIndex Method (Outlook)
+# MailItem.ClearConversationIndex method (Outlook)
 
 Clears the index of the conversation thread for the mail message.
 
@@ -21,7 +21,7 @@ Clears the index of the conversation thread for the mail message.
 
 _expression_. `ClearConversationIndex`
 
-_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## See also

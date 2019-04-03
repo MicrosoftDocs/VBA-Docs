@@ -1,5 +1,5 @@
 ---
-title: DropCap.FontName Property (Publisher)
+title: DropCap.FontName property (Publisher)
 keywords: vbapb10.chm5505027
 f1_keywords:
 - vbapb10.chm5505027
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# DropCap.FontName Property (Publisher)
+# DropCap.FontName property (Publisher)
 
 Sets or returns a  **String** that represents the name of the font applied to a dropped capital letter or WordArt text effect. Read/write.
 
 
 ## Syntax
 
- _expression_. **FontName**
+ _expression_.**FontName**
 
  _expression_ A variable that represents a  **DropCap** object.
 

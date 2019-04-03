@@ -19,7 +19,7 @@ Converts an equation to professional format.
 
 ## Syntax
 
- _expression_. `BuildUp`
+_expression_. `BuildUp`
 
  _expression_ An expression that returns an [OMath](./Word.OMath.md) object.
 

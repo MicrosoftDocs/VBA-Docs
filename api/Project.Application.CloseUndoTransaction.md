@@ -1,5 +1,5 @@
 ---
-title: Application.CloseUndoTransaction Method (Project)
+title: Application.CloseUndoTransaction method (Project)
 keywords: vbapj.chm131794
 f1_keywords:
 - vbapj.chm131794
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.CloseUndoTransaction Method (Project)
+# Application.CloseUndoTransaction method (Project)
 
 Closes an undo set for a series of operations previously created by  **[OpenUndoTransaction](Project.Application.OpenUndoTransaction.md)** method.
 
 
 ## Syntax
 
- _expression_. `CloseUndoTransaction`
+_expression_. `CloseUndoTransaction`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

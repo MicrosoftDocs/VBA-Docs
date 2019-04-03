@@ -1,5 +1,5 @@
 ---
-title: Addon Object (Visio)
+title: Addon object (Visio)
 keywords: vis_sdr.chm10030
 f1_keywords:
 - vis_sdr.chm10030
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Addon Object (Visio)
+# Addon object (Visio)
 
 Represents an installed Microsoft Visio add-on.
 

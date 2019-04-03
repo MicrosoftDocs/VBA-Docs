@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.Enter Event (Outlook)
+title: OlkCategory.Enter event (Outlook)
 keywords: vbaol11.chm1000454
 f1_keywords:
 - vbaol11.chm1000454
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkCategory.Enter Event (Outlook)
+# OlkCategory.Enter event (Outlook)
 
 Occurs before the control actually receives the focus from a control on the same form.
 
@@ -21,7 +21,7 @@ Occurs before the control actually receives the focus from a control on the same
 
 _expression_.**Enter**
 
-_expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## See also

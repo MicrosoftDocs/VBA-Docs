@@ -1,5 +1,5 @@
 ---
-title: PpAutoSize Enumeration (PowerPoint)
+title: PpAutoSize enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpAutoSize
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# PpAutoSize Enumeration (PowerPoint)
+# PpAutoSize enumeration (PowerPoint)
 
 Specifies whether the size of the specified shape is changed automatically to fit text within its boundaries. 
 

@@ -40,6 +40,6 @@ The author style name is the same as the value returned by the  **[UserName](Wor
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Orientation Property (PowerPoint)
+title: TextFrame.Orientation property (PowerPoint)
 keywords: vbapp10.chm558006
 f1_keywords:
 - vbapp10.chm558006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextFrame.Orientation Property (PowerPoint)
+# TextFrame.Orientation property (PowerPoint)
 
 Returns or sets text orientation. Read/write.
 

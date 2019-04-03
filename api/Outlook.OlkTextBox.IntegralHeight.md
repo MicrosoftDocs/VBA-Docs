@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.IntegralHeight Property (Outlook)
+title: OlkTextBox.IntegralHeight property (Outlook)
 keywords: vbaol11.chm1000048
 f1_keywords:
 - vbaol11.chm1000048
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkTextBox.IntegralHeight Property (Outlook)
+# OlkTextBox.IntegralHeight property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether this control displays full lines of text. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether this control displays full
 
 _expression_. `IntegralHeight`
 
-_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

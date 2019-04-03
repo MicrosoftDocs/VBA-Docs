@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropTop Property (Publisher)
+title: PictureFormat.CropTop property (Publisher)
 keywords: vbapb10.chm3604742
 f1_keywords:
 - vbapb10.chm3604742
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# PictureFormat.CropTop Property (Publisher)
+# PictureFormat.CropTop property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount by which the top edge of a picture or OLE object is cropped. Read/write.
 
 
 ## Syntax
 
- _expression_. **CropTop**
+ _expression_.**CropTop**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

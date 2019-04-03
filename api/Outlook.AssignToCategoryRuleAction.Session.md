@@ -1,5 +1,5 @@
 ---
-title: AssignToCategoryRuleAction.Session Property (Outlook)
+title: AssignToCategoryRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2265
 f1_keywords:
 - vbaol11.chm2265
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AssignToCategoryRuleAction.Session Property (Outlook)
+# AssignToCategoryRuleAction.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
@@ -21,7 +21,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 _expression_.**Session**
 
-_expression_ A variable that represents an [AssignToCategoryRuleAction](./Outlook.AssignToCategoryRuleAction.md) object.
+_expression_ A variable that represents an [AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToEmus Method (Publisher)
+title: Application.PointsToEmus method (Publisher)
 keywords: vbapb10.chm131156
 f1_keywords:
 - vbapb10.chm131156
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.PointsToEmus Method (Publisher)
+# Application.PointsToEmus method (Publisher)
 
 Converts a measurement from points to emus (12700 emus = 1 point). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **PointsToEmus**(**_Value_**)
+ _expression_.**PointsToEmus**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 

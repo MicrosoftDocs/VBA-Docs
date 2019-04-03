@@ -19,7 +19,7 @@ Returns or sets the list level for the first paragraph in the specified  **ListF
 
 ## Syntax
 
- _expression_. `ListLevelNumber`
+_expression_. `ListLevelNumber`
 
  _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 

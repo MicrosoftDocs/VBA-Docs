@@ -14,7 +14,7 @@ Creates a post item for each message that is currently selected in the control.
 
 ## Syntax
 
- _expression_. **ReplyInFolder**
+ _expression_.**ReplyInFolder**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

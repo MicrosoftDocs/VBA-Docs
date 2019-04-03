@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Path Property (Visio)
+title: InvisibleApp.Path property (Visio)
 keywords: vis_sdr.chm17514050
 f1_keywords:
 - vis_sdr.chm17514050
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# InvisibleApp.Path Property (Visio)
+# InvisibleApp.Path property (Visio)
 
 Returns the drive and folder path of the Microsoft Visio application. Read-only.
 
 
 ## Syntax
 
- _expression_. `Path`
+ _expression_.**Path**
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

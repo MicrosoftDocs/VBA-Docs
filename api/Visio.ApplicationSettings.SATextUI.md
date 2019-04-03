@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SATextUI Property (Visio)
+title: ApplicationSettings.SATextUI property (Visio)
 keywords: vis_sdr.chm16260020
 f1_keywords:
 - vis_sdr.chm16260020
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SATextUI Property (Visio)
+# ApplicationSettings.SATextUI property (Visio)
 
 Gets the current setting for display of South Asian languages. Read-only.
 
 
 ## Syntax
 
- _expression_. `SATextUI`
+_expression_. `SATextUI`
 
  _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

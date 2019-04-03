@@ -1,5 +1,5 @@
 ---
-title: Document.Close Event (Word)
+title: Document.Close event (Word)
 keywords: vbawd10.chm4001006
 f1_keywords:
 - vbawd10.chm4001006
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Document.Close Event (Word)
+# Document.Close event (Word)
 
 Occurs when a document is closed.
 

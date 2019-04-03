@@ -1,5 +1,5 @@
 ---
-title: TextRange.Paste Method (PowerPoint)
+title: TextRange.Paste method (PowerPoint)
 keywords: vbapp10.chm569030
 f1_keywords:
 - vbapp10.chm569030
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Paste Method (PowerPoint)
+# TextRange.Paste method (PowerPoint)
 
 Pastes the text on the Clipboard into the specified text range, and returns a  **TextRange** object that represents the pasted text.
 
 
 ## Syntax
 
- _expression_. `Paste`
+_expression_. `Paste`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: View.Copy Method (Outlook)
+title: View.Copy method (Outlook)
 keywords: vbaol11.chm2485
 f1_keywords:
 - vbaol11.chm2485
@@ -12,16 +12,16 @@ localization_priority: Normal
 ---
 
 
-# View.Copy Method (Outlook)
+# View.Copy method (Outlook)
 
 Creates a new instance of a  **[View](Outlook.View.md)** object.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Name_` , `_SaveOption_` )
+_expression_. `Copy`( `_Name_` , `_SaveOption_` )
 
-_expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Parameters

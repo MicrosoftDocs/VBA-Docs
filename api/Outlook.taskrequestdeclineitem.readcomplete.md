@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.ReadComplete Event (Outlook)
+title: TaskRequestDeclineItem.ReadComplete event (Outlook)
 ms.assetid: 7f161f3d-c915-8355-977b-03b1d15ac8b5
 ms.date: 06/08/2017
 ms.prod: outlook
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.ReadComplete Event (Outlook)
+# TaskRequestDeclineItem.ReadComplete event (Outlook)
 Occurs when Outlook has completed reading the properties of the item.
 
 ## Version information
@@ -19,7 +19,7 @@ Version Added: Outlook 2013
 
 _expression_. `ReadComplete`_(Cancel)_
 
-_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

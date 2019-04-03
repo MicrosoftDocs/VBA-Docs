@@ -1,5 +1,5 @@
 ---
-title: MsoAnimCommandType Enumeration (PowerPoint)
+title: MsoAnimCommandType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimCommandType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# MsoAnimCommandType Enumeration (PowerPoint)
+# MsoAnimCommandType enumeration (PowerPoint)
 
 Constants that specify the type of the animation command, passed to and returned by the  **Type** property of the **CommandEffect** object.
 

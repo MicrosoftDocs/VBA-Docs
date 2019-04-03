@@ -1,5 +1,5 @@
 ---
-title: VisContainerTypes Enumeration (Visio)
+title: VisContainerTypes enumeration (Visio)
 keywords: vis_sdr.chm70595
 f1_keywords:
 - vis_sdr.chm70595
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# VisContainerTypes Enumeration (Visio)
+# VisContainerTypes enumeration (Visio)
 
 Specifies whether member shapes are arranged in a list; value returned by the  **[ContainerProperties.ContainerType](Visio.ContainerProperties.ContainerType.md)** property.
 

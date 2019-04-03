@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.InlineAlignment Property (Publisher)
+title: ShapeRange.InlineAlignment property (Publisher)
 keywords: vbapb10.chm2294024
 f1_keywords:
 - vbapb10.chm2294024
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# ShapeRange.InlineAlignment Property (Publisher)
+# ShapeRange.InlineAlignment property (Publisher)
 
 Returns or sets a  **PbInlineAlignment** constant that indicates whether an inline shape has left, right, or in-text alignment. Read/write.
 
 
 ## Syntax
 
- _expression_. **InlineAlignment**
+ _expression_.**InlineAlignment**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

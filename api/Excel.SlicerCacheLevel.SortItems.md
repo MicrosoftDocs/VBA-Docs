@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheL
 
 ## Return value
 
- **[xlSlicerSort](Excel.XlSlicerSort.md)**
+ **[XlSlicerSort](Excel.XlSlicerSort.md)**
 
 
 ## Remarks

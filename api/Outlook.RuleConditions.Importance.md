@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.Importance Property (Outlook)
+title: RuleConditions.Importance property (Outlook)
 keywords: vbaol11.chm2304
 f1_keywords:
 - vbaol11.chm2304
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.Importance Property (Outlook)
+# RuleConditions.Importance property (Outlook)
 
 Returns an  **[ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md)** object with an **[ImportanceRuleCondition.ConditionType](Outlook.ImportanceRuleCondition.ConditionType.md)** of **olConditionImportance**. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md)** ob
 
 _expression_. `Importance`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

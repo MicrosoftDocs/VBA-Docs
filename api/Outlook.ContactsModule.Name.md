@@ -1,5 +1,5 @@
 ---
-title: ContactsModule.Name Property (Outlook)
+title: ContactsModule.Name property (Outlook)
 keywords: vbaol11.chm2837
 f1_keywords:
 - vbaol11.chm2837
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ContactsModule.Name Property (Outlook)
+# ContactsModule.Name property (Outlook)
 
 Returns a  **String** value that represents the localized display name for the **[ContactsModule](Outlook.ContactsModule.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **String** value that represents the localized display name for the *
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [ContactsModule](./Outlook.ContactsModule.md) object.
+_expression_ A variable that represents a [ContactsModule](Outlook.ContactsModule.md) object.
 
 
 ## See also

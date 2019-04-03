@@ -1,5 +1,5 @@
 ---
-title: Row.ContainingSection Property (Visio)
+title: Row.ContainingSection property (Visio)
 keywords: vis_sdr.chm15813315
 f1_keywords:
 - vis_sdr.chm15813315
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Row.ContainingSection Property (Visio)
+# Row.ContainingSection property (Visio)
 
 Returns the section that contains a row. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingSection`
+_expression_. `ContainingSection`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

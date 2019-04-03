@@ -1,5 +1,5 @@
 ---
-title: Application.TypelibMajorVersion Property (Visio)
+title: Application.TypelibMajorVersion property (Visio)
 keywords: vis_sdr.chm10014695
 f1_keywords:
 - vis_sdr.chm10014695
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.TypelibMajorVersion Property (Visio)
+# Application.TypelibMajorVersion property (Visio)
 
 Returns the major version number of the Microsoft Visio type library. Read-only.
 
 
 ## Syntax
 
- _expression_. `TypelibMajorVersion`
+_expression_. `TypelibMajorVersion`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

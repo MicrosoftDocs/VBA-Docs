@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.CC Property (Outlook)
+title: RuleConditions.CC property (Outlook)
 keywords: vbaol11.chm2302
 f1_keywords:
 - vbaol11.chm2302
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RuleConditions.CC Property (Outlook)
+# RuleConditions.CC property (Outlook)
 
 Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionCc**. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCo
 
 _expression_. `CC`
 
-_expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks

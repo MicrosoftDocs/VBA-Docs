@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SentOn Property (Outlook)
+title: SharingItem.SentOn property (Outlook)
 keywords: vbaol11.chm662
 f1_keywords:
 - vbaol11.chm662
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.SentOn Property (Outlook)
+# SharingItem.SentOn property (Outlook)
 
 Returns a  **Date** indicating the date and time on which the **[SharingItem](Outlook.SharingItem.md)** was sent. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **Date** indicating the date and time on which the **[SharingItem](Ou
 
 _expression_. `SentOn`
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

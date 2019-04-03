@@ -1,5 +1,5 @@
 ---
-title: UIObject.UpdateUI Method (Visio)
+title: UIObject.UpdateUI method (Visio)
 keywords: vis_sdr.chm14916640
 f1_keywords:
 - vis_sdr.chm14916640
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# UIObject.UpdateUI Method (Visio)
+# UIObject.UpdateUI method (Visio)
 
 Causes Microsoft Visio to display changes to the user interface represented by a  **UIObject** object.
 
 
 ## Syntax
 
- _expression_. `UpdateUI`
+_expression_. `UpdateUI`
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.HasText Property (PowerPoint)
+title: TextFrame2.HasText property (PowerPoint)
 keywords: vbapp10.chm678015
 f1_keywords:
 - vbapp10.chm678015
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextFrame2.HasText Property (PowerPoint)
+# TextFrame2.HasText property (PowerPoint)
 
  Indicates whether the shape that contains the specified text frame has text associated with it. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasText`
+_expression_. `HasText`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 

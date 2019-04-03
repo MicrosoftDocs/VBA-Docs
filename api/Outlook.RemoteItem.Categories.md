@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Categories Property (Outlook)
+title: RemoteItem.Categories property (Outlook)
 keywords: vbaol11.chm1590
 f1_keywords:
 - vbaol11.chm1590
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RemoteItem.Categories Property (Outlook)
+# RemoteItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 
 _expression_. `Categories`
 
-_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks

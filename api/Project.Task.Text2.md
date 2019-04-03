@@ -1,5 +1,5 @@
 ---
-title: Task.Text2 Property (Project)
+title: Task.Text2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Text2
@@ -9,14 +9,14 @@ localization_priority: Normal
 ---
 
 
-# Task.Text2 Property (Project)
+# Task.Text2 property (Project)
 
 Gets or sets the value of a local Text custom field for the task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Text2`
+_expression_. `Text2`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

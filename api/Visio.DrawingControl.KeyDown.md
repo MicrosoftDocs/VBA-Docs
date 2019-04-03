@@ -1,5 +1,5 @@
 ---
-title: DrawingControl.KeyDown Event (Visio)
+title: DrawingControl.KeyDown event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.KeyDown
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# DrawingControl.KeyDown Event (Visio)
+# DrawingControl.KeyDown event (Visio)
 
 Occurs when a keyboard key is pressed.
 

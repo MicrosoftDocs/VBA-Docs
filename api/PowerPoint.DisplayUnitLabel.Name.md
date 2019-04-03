@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Name Property (PowerPoint)
+title: DisplayUnitLabel.Name property (PowerPoint)
 keywords: vbapp10.chm699016
 f1_keywords:
 - vbapp10.chm699016
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Name Property (PowerPoint)
+# DisplayUnitLabel.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 

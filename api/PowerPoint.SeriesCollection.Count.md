@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Count Property (PowerPoint)
+title: SeriesCollection.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesCollection.Count
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection.Count Property (PowerPoint)
+# SeriesCollection.Count property (PowerPoint)
 
 Returns the number of objects in the collection. Read-only  **Long**.
 

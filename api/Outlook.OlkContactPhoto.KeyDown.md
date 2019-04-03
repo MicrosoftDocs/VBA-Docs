@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.KeyDown Event (Outlook)
+title: OlkContactPhoto.KeyDown event (Outlook)
 keywords: vbaol11.chm1000318
 f1_keywords:
 - vbaol11.chm1000318
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.KeyDown Event (Outlook)
+# OlkContactPhoto.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 
@@ -21,7 +21,7 @@ Occurs when a user presses a key.
 
 _expression_. `KeyDown`( `_KeyCode_` , `_Shift_` )
 
-_expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactPhoto.md) object.
 
 
 ## Parameters

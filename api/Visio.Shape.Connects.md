@@ -1,5 +1,5 @@
 ---
-title: Shape.Connects Property (Visio)
+title: Shape.Connects property (Visio)
 keywords: vis_sdr.chm11213290
 f1_keywords:
 - vis_sdr.chm11213290
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Shape.Connects Property (Visio)
+# Shape.Connects property (Visio)
 
 Returns a  **Connects** collection for a shape, page, or master. Read-only.
 
 
 ## Syntax
 
- _expression_. `Connects`
+_expression_. `Connects`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

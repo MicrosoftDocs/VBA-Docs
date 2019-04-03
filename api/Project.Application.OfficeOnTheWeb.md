@@ -1,5 +1,5 @@
 ---
-title: Application.OfficeOnTheWeb Method (Project)
+title: Application.OfficeOnTheWeb method (Project)
 keywords: vbapj.chm1322
 f1_keywords:
 - vbapj.chm1322
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.OfficeOnTheWeb Method (Project)
+# Application.OfficeOnTheWeb method (Project)
 
 Navigates to the area of the Office.com web site that is dedicated to Microsoft Project.
 
 
 ## Syntax
 
- _expression_. `OfficeOnTheWeb`
+_expression_. `OfficeOnTheWeb`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

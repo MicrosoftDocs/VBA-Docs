@@ -1,5 +1,5 @@
 ---
-title: Task.EffortDriven Property (Project)
+title: Task.EffortDriven property (Project)
 keywords: vbapj.chm131791
 f1_keywords:
 - vbapj.chm131791
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Task.EffortDriven Property (Project)
+# Task.EffortDriven property (Project)
 
  **True** if the task is effort-driven. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `EffortDriven`
+_expression_. `EffortDriven`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

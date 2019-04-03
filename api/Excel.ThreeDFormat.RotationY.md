@@ -21,7 +21,7 @@ Returns or sets the rotation of the extruded shape around the y-axis in degrees.
 
 _expression_. `RotationY`
 
-_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ To set the rotation of the extruded shape around the x-axis, use the  **[Rotatio
 
 ## Example
 
-This example adds three identical extruded ovals to  `myDocument` and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
+This example adds three identical extruded ovals to  _myDocument_ and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
 
 
 ```vb

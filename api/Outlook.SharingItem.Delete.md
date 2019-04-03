@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Delete Method (Outlook)
+title: SharingItem.Delete method (Outlook)
 keywords: vbaol11.chm625
 f1_keywords:
 - vbaol11.chm625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SharingItem.Delete Method (Outlook)
+# SharingItem.Delete method (Outlook)
 
 Removes a  **[SharingItem](Outlook.SharingItem.md)** item from the folder that contains the item.
 
@@ -21,7 +21,7 @@ Removes a  **[SharingItem](Outlook.SharingItem.md)** item from the folder that c
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks

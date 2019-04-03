@@ -1,5 +1,5 @@
 ---
-title: OutlookBarStorage Object (Outlook)
+title: OutlookBarStorage object (Outlook)
 keywords: vbaol11.chm367
 f1_keywords:
 - vbaol11.chm367
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OutlookBarStorage Object (Outlook)
+# OutlookBarStorage object (Outlook)
 
 Represents the storage for objects in the Outlook Bar.
 
@@ -49,6 +49,6 @@ Set myOLBarStorage = myPanes.Item("OutlookBar").Contents
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.PropertyAccessor Property (Outlook)
+title: AppointmentItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm922
 f1_keywords:
 - vbaol11.chm922
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AppointmentItem.PropertyAccessor Property (Outlook)
+# AppointmentItem.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[AppointmentItem](Outlook.AppointmentItem.md)** object. Read-only.
 
@@ -21,7 +21,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 _expression_. `PropertyAccessor`
 
-_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also

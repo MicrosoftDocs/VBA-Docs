@@ -1,5 +1,5 @@
 ---
-title: Selection.Application Property (PowerPoint)
+title: Selection.Application property (PowerPoint)
 keywords: vbapp10.chm508001
 f1_keywords:
 - vbapp10.chm508001
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Selection.Application Property (PowerPoint)
+# Selection.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Layers.ItemU Property (Visio)
+title: Layers.ItemU property (Visio)
 keywords: vis_sdr.chm11951980
 f1_keywords:
 - vis_sdr.chm11951980
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Layers.ItemU Property (Visio)
+# Layers.ItemU property (Visio)
 
 Returns an object from a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemU`( `_NameOrIndex_` )
+_expression_. `ItemU`( `_NameOrIndex_` )
 
  _expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
 

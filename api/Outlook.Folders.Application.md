@@ -1,5 +1,5 @@
 ---
-title: Folders.Application Property (Outlook)
+title: Folders.Application property (Outlook)
 keywords: vbaol11.chm39
 f1_keywords:
 - vbaol11.chm39
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Folders.Application Property (Outlook)
+# Folders.Application property (Outlook)
 
 Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
@@ -21,7 +21,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Repaginates the entire document.
 
 ## Syntax
 
- _expression_. `Repaginate`
+_expression_. `Repaginate`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

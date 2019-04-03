@@ -1,5 +1,5 @@
 ---
-title: CalendarModule.Position Property (Outlook)
+title: CalendarModule.Position property (Outlook)
 keywords: vbaol11.chm2828
 f1_keywords:
 - vbaol11.chm2828
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CalendarModule.Position Property (Outlook)
+# CalendarModule.Position property (Outlook)
 
 Returns or sets a  **Long** value that represents the ordinal position of the **[CalendarModule](Outlook.CalendarModule.md)** object when it is displayed in the navigation pane. Read/write.
 
@@ -21,7 +21,7 @@ Returns or sets a  **Long** value that represents the ordinal position of the **
 
 _expression_. `Position`
 
-_expression_ A variable that represents a [CalendarModule](./Outlook.CalendarModule.md) object.
+_expression_ A variable that represents a [CalendarModule](Outlook.CalendarModule.md) object.
 
 
 ## Remarks

@@ -19,9 +19,9 @@ Sets the background graphic for a worksheet.
 
 ## Syntax
 
-_expression_. `SetBackgroundPicture`( `_Filename_` )
+_expression_. `SetBackgroundPicture`( `_FileName_` )
 
-_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the graphic file.|
+| _FileName_|Required| **String**|The name of the graphic file.|
 
 ## Example
 

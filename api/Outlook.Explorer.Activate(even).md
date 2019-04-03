@@ -1,5 +1,5 @@
 ---
-title: Explorer.Activate Event (Outlook)
+title: Explorer.Activate event (Outlook)
 keywords: vbaol11.chm449
 f1_keywords:
 - vbaol11.chm449
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Explorer.Activate Event (Outlook)
+# Explorer.Activate event (Outlook)
 
 Occurs when an explorer becomes the active window, either as a result of user action or through program code.
 
@@ -21,7 +21,7 @@ Occurs when an explorer becomes the active window, either as a result of user ac
 
 _expression_. `Activate`
 
-_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks

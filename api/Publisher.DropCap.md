@@ -1,5 +1,5 @@
 ---
-title: DropCap Object (Publisher)
+title: DropCap object (Publisher)
 keywords: vbapb10.chm5570559
 f1_keywords:
 - vbapb10.chm5570559
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropCap Object (Publisher)
+# DropCap object (Publisher)
 
 Represents a dropped capital letter at the beginning of a paragraph.
  

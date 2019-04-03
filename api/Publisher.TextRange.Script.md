@@ -1,5 +1,5 @@
 ---
-title: TextRange.Script Property (Publisher)
+title: TextRange.Script property (Publisher)
 keywords: vbapb10.chm5308484
 f1_keywords:
 - vbapb10.chm5308484
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# TextRange.Script Property (Publisher)
+# TextRange.Script property (Publisher)
 
 Returns a  **PbFontScriptType** constant that represents the font script for a text range. Read-only.
 
 
 ## Syntax
 
- _expression_. **Script**
+ _expression_.**Script**
 
  _expression_ A variable that represents a  **TextRange** object.
 

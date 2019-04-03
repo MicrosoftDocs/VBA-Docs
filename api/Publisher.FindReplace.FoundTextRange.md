@@ -1,5 +1,5 @@
 ---
-title: FindReplace.FoundTextRange Property (Publisher)
+title: FindReplace.FoundTextRange property (Publisher)
 keywords: vbapb10.chm8323075
 f1_keywords:
 - vbapb10.chm8323075
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# FindReplace.FoundTextRange Property (Publisher)
+# FindReplace.FoundTextRange property (Publisher)
 
 Returns a  **TextRange** object that represents the found text or replaced text of a find operation. Read-only.
 
 
 ## Syntax
 
- _expression_. **FoundTextRange**
+ _expression_.**FoundTextRange**
 
  _expression_ A variable that represents a  **FindReplace** object.
 
