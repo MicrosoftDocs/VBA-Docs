@@ -21,7 +21,7 @@ Occurs before changes to a PivotTable are discarded.
 
 _expression_. `SheetPivotTableBeforeDiscardChanges`( `_Sh_` , `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` )
 
-_expression_ A variable that represents a '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

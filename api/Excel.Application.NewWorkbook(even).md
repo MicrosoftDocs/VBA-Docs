@@ -21,7 +21,7 @@ Occurs when a new workbook is created.
 
 _expression_. `NewWorkbook`( `_Wb_` )
 
- _expression_ An expression that returns a '[Application](Excel.Application(object).md)' object.
+ _expression_ An expression that returns an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
