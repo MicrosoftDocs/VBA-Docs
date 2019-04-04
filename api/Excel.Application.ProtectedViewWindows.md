@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindows property (Excel)
 
-Returns a  **[ProtectedViewWindows](Excel.ProtectedViewWindows.md)** collection that represents all the **Protected View** windows that are open in the application. Read-only
+Returns a  **[ProtectedViewWindows](Excel.ProtectedViewWindows.md)** collection that represents all the Protected View windows that are open in the application. Read-only
 
 
 ## Syntax

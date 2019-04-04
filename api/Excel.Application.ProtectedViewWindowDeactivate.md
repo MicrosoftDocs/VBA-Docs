@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowDeactivate event (Excel)
 
-Occurs when a  **Protected View** window is deactivated.
+Occurs when a Protected View window is deactivated.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the deactivated  **Protected View** window.|
+| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the deactivated Protected View window.|
 
 ## Return value
 
@@ -39,7 +39,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Example
 
-The following code example minimizes any  **Protected View** window when it is deactivated. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+The following code example minimizes any Protected View window when it is deactivated. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 
 ```vb

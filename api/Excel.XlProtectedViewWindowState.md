@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlProtectedViewWindowState enumeration (Excel)
 
-Specifies the state of the  **Protected View** window.
+Specifies the state of the Protected View window.
 
 
 

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Visible property (Excel)
 
-Returns or sets a value that determines whether the specified  **Protected View** window is visible. Read/write
+Returns or sets a value that determines whether the specified Protected View window is visible. Read/write
 
 
 ## Syntax
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Return value

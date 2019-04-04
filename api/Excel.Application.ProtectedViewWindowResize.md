@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowResize event (Excel)
 
-Occurs when any  **Protected View** window is resized.
+Occurs when any Protected View window is resized.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the resized  **Protected View** window.|
+| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the resized Protected View window.|
 
 ## Return value
 

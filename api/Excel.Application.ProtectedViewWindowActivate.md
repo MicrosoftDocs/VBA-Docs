@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowActivate event (Excel)
 
-Occurs when a  **Protected View** window is activated.
+Occurs when a Protected View window is activated.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**| The activated **Protected View** window.|
+| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**| The activated Protected View window.|
 
 ## Return value
 

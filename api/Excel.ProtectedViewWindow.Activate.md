@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Activate method (Excel)
 
-Brings the  **Protected View** window to the front of the z-order.
+Brings the Protected View window to the front of the z-order.
 
 
 ## Syntax
 
 _expression_. `Activate`
 
-_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Return value

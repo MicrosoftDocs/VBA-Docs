@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ProtectedViewWindowBeforeClose event (Excel)
 
-Occurs immediately before a  **Protected View** window or a workbook in a **Protected View** window closes.
+Occurs immediately before a Protected View window or a workbook in a Protected View window closes.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the  **Protected View** window that is closed.|
-| _Reason_|Required| **[XlProtectedViewCloseReason](Excel.XlProtectedViewCloseReason.md)**|A constant that specifies the reason the  **Protected View** window is closed.|
+| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the Protected View window that is closed.|
+| _Reason_|Required| **[XlProtectedViewCloseReason](Excel.XlProtectedViewCloseReason.md)**|A constant that specifies the reason the Protected View window is closed.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the window does not close when the procedure is finished.|
 
 ## Return value
@@ -41,7 +41,7 @@ Nothing
 
 ## Example
 
-The following code example prompts the user for a yes or no response before closing the  **Protected View** window. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+The following code example prompts the user for a yes or no response before closing the Protected View window. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 
 ```vb

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Edit method (Excel)
 
-Opens the workbook that is open in the specified  **Protected View** window for editing.
+Opens the workbook that is open in the specified Protected View window for editing.
 
 
 ## Syntax
 
 _expression_. `Edit`( `_WriteResPassword_` , `_UpdateLinks_` )
 
-_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Parameters
@@ -53,7 +53,7 @@ You can specify one of the values, listed in the following table, in the  _Updat
 
 ## Example
 
-The following code example opens the workbook that is open in the active  **Protected View** window for editing.
+The following code example opens the workbook that is open in the active Protected View window for editing.
 
 
 ```vb

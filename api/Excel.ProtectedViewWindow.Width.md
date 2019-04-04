@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Width property (Excel)
 
-Returns or sets a value that specifies the width, in points, of the specified  **Protected View** window. Read/write
+Returns or sets a value that specifies the width, in points, of the specified Protected View window. Read/write
 
 
 ## Syntax
 
 _expression_.**Width**
 
-_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Remarks
 
-You cannot set this property if the  **Protected View** window is maximized or minimized. Use the **[WindowState](Excel.ProtectedViewWindow.WindowState.md)** property to determine the window state.
+You cannot set this property if the Protected View window is maximized or minimized. Use the **[WindowState](Excel.ProtectedViewWindow.WindowState.md)** property to determine the window state.
 
 
 ## See also
