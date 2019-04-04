@@ -7,33 +7,32 @@ ms.prod: excel
 api_name:
 - Excel.Application.Hinstance
 ms.assetid: 4551a0a2-0730-1288-7a13-b2beff2a2fca
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
 
 # Application.Hinstance property (Excel)
 
-Returns a handle to the instance of Excel represented by the [Application](Excel.Application(object).md) object. Read-only **Long**.
+Returns a handle to the instance of Excel represented by the **Application** object. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `Hinstance`
+_expression_.**Hinstance**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks
 
-
- **Important**  This property returns a correct handle only in the 32-bit version of Excel. In Excel, the [HinstancePtr](Excel.Application.HinstancePtr.md) property was introduced, which works correctly in both 32- and 64-bit versions of Excel.
+> [!IMPORTANT] 
+> This property returns a correct handle only in the 32-bit version of Excel. In Excel, the **[HinstancePtr](Excel.Application.HinstancePtr.md)** property was introduced, which works correctly in both 32-bit and 64-bit versions of Excel.
 
 
 ## Example
 
-In this example, a message box displays the Microsoft Excel instance handle to the user.
-
+In this example, a message box displays the Excel instance handle to the user.
 
 ```vb
 Sub CheckHinstance() 
@@ -44,9 +43,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

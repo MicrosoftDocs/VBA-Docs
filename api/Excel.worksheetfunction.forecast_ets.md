@@ -44,7 +44,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 The predicted value is a continuation of the historical values in the specified target date, which should be a continuation of the timeline. You can use this function to predict future sales, inventory requirements, or consumer trends.
 
 
- **Note**  This function requires the timeline to be organized with a constant step between the different points. For example, that could be a monthly timeline with values on the 1st of every month, a yearly timeline, or a timeline of numerical indices. In general, it?s very useful to aggregate raw detailed data before you apply the forecast, which produces more accurate forecast results as well.
+ **Note**  This function requires the timeline to be organized with a constant step between the different points. For example, that could be a monthly timeline with values on the 1st of every month, a yearly timeline, or a timeline of numerical indices. In general, it's very useful to aggregate raw detailed data before you apply the forecast, which produces more accurate forecast results as well.
 
 If the target date parameter value ( _Arg1_) is chronologically before the end of the historical timeline,  **Forecast_ETS** returns an error.
 

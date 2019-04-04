@@ -35,7 +35,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-If you don?t specify the index arguments, this property returns an array that contains a list of all registered functions. Each row in the array contains information about a single function, as shown in the following table.
+If you don't specify the index arguments, this property returns an array that contains a list of all registered functions. Each row in the array contains information about a single function, as shown in the following table.
 
 
 
