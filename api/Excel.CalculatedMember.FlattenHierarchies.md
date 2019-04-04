@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalculatedMember.FlattenHierarchies property (Excel)
 
-Returns or sets whether items from all levels of the hierarchy of the specified named set are displayed in the same field of a PivotTable report based on an OLAP cube. **Boolean** Read/write
+Returns or sets whether items from all levels of the hierarchy of the specified named set are displayed in the same field of a PivotTable report based on an OLAP cube. Read/write **Boolean**.
 
 
 ## Syntax

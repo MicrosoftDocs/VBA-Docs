@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.MajorUnitIsAuto property (Excel)
 
- **True** if Microsoft Excel calculates the major units for the value axis. Read/write **Boolean**.
+**True** if Microsoft Excel calculates the major units for the value axis. Read/write **Boolean**.
 
 
 ## Syntax

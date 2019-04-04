@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TableObject.RowNumbers property (Excel)
 
-Specifies if row numbers are added as the first column of the specified query table.  **Boolean** Read/Write
+Specifies if row numbers are added as the first column of the specified query table.  Read/write **Boolean**.
 
 
 ## Syntax

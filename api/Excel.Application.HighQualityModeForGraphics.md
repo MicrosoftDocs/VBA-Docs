@@ -21,7 +21,7 @@ Returns or sets whether Excel uses high quality mode to print graphics. Read/wri
 
 _expression_. `HighQualityModeForGraphics`
 
-_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks

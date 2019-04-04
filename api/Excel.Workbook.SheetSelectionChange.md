@@ -21,7 +21,7 @@ Occurs when the selection changes on any worksheet (doesn't occur if the selecti
 
 _expression_. `SheetSelectionChange`( `_Sh_` , `_Target_` )
 
- _expression_ An expression that returns a [Workbook](Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

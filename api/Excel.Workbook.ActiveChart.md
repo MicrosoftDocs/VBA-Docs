@@ -21,7 +21,7 @@ Returns a  **[Chart](Excel.Chart(object).md)** object that represents the active
 
 _expression_. `ActiveChart`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks

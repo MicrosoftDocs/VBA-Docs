@@ -21,7 +21,7 @@ Occurs when any sheet is deactivated.
 
 _expression_. `SheetDeactivate`( `_Sh_` , )
 
- _expression_ An expression that returns a [Workbook](Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

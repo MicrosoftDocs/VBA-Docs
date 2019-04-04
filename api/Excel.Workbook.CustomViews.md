@@ -21,7 +21,7 @@ Returns a  **[CustomViews](Excel.CustomViews.md)** collection that represents al
 
 _expression_. `CustomViews`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example

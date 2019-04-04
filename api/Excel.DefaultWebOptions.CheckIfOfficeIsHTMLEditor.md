@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DefaultWebOptions.CheckIfOfficeIsHTMLEditor property (Excel)
 
- **True** if Microsoft Excel checks to see whether an Office application is the default HTML editor when you start Excel. **False** if Excel does not perform this check. The default value is **True**. Read/write **Boolean**.
+**True** if Microsoft Excel checks to see whether an Office application is the default HTML editor when you start Excel. **False** if Excel does not perform this check. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

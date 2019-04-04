@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoCorrect.CorrectSentenceCap property (Excel)
 
- **True** if Microsoft Excel automatically corrects sentence (first word) capitalization. Read/write **Boolean**.
+**True** if Microsoft Excel automatically corrects sentence (first word) capitalization. Read/write **Boolean**.
 
 
 ## Syntax

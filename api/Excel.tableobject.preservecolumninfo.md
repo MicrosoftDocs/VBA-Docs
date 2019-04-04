@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TableObject.PreserveColumnInfo property (Excel)
 
-Specifies if column sorting, filtering, and layout information is preserved whenever a query table is refreshed. The default value is  **False**. **Boolean** Read/Write
+Specifies if column sorting, filtering, and layout information is preserved whenever a query table is refreshed. The default value is  **False**. Read/write **Boolean**.
 
 
 ## Syntax

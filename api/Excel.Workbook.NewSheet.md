@@ -21,7 +21,7 @@ Occurs when a new sheet is created in the workbook.
 
 _expression_. `NewSheet`( `_Sh_` )
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

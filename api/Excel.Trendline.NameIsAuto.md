@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Trendline.NameIsAuto property (Excel)
 
- **True** if Microsoft Excel automatically determines the name of the trendline. Read/write **Boolean**.
+**True** if Microsoft Excel automatically determines the name of the trendline. Read/write **Boolean**.
 
 
 ## Syntax

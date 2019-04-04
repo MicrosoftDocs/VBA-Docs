@@ -21,7 +21,7 @@ Disconnects the specified user from the shared workbook.
 
 _expression_. `RemoveUser` (_Index_)
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

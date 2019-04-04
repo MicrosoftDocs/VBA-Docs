@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.PrintCommunication property (Excel)
 
-Specifies whether communication with the printer is turned on.  **Boolean** Read/write
+Specifies whether communication with the printer is turned on. Read/write **Boolean**.
 
 
 ## Syntax

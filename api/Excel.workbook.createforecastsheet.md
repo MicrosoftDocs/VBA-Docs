@@ -19,7 +19,7 @@ If you have historical time-based data, you can use **CreateForecastSheet** to c
 
 _expression_.**CreateForecastSheet**(_Timeline_, _Values_, _ForecastStart_, _ForecastEnd_, _ConfInt_, _Seasonality_, _DataCompletion_, _Aggregation_, _ChartType_, _ShowStatsTable_)
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

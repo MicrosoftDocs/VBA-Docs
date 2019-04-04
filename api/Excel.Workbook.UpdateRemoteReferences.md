@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Workbook.UpdateRemoteReferences property (Excel)
 
- **True** if Microsoft Excel updates remote references in the workbook. Read/write **Boolean**.
+**True** if Microsoft Excel updates remote references in the workbook. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_.**UpdateRemoteReferences**
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks

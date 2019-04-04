@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Workbooks.CanCheckOut method (Excel)
 
- **True** if Microsoft Excel can check out a specified workbook from a server. Read/write **Boolean**.
+**True** if Microsoft Excel can check out a specified workbook from a server. Read/write **Boolean**.
 
 
 ## Syntax

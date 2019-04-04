@@ -19,7 +19,7 @@ Returns the top level  **Model** object which is the one Data Model for the work
 
 _expression_. `Model`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Property value

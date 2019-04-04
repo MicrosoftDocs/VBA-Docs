@@ -21,7 +21,7 @@ Specifies the table style from the  **TableStyles** collection that is used as t
 
 _expression_. `DefaultPivotTableStyle`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also

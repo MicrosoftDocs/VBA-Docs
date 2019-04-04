@@ -21,7 +21,7 @@ Returns a  **[DocumentProperties](Office.DocumentProperties.md)** collection tha
 
 _expression_. `BuiltinDocumentProperties`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks

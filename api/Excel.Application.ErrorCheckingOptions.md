@@ -7,26 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Application.ErrorCheckingOptions
 ms.assetid: 3821c6fd-e6c2-70cc-f546-70fdac6a6161
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
 
 # Application.ErrorCheckingOptions property (Excel)
 
-Returns an  **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object, which represents the error checking options for an application.
+Returns an **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object, which represents the error checking options for an application.
 
 
 ## Syntax
 
-_expression_. `ErrorCheckingOptions`
+_expression_.**ErrorCheckingOptions**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example
 
-In this example, the  **TextDate** property is used in conjunction with the **ErrorCheckingOptions** property. When the user selects a cell containing a two-digit year in the date, the AutoCorrect Options button appears.
+In this example, the **TextDate** property is used in conjunction with the **ErrorCheckingOptions** property. When the user selects a cell containing a two-digit year in the date, the **AutoCorrect Options** button appears.
 
 
 ```vb
@@ -41,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

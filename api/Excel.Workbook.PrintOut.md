@@ -21,7 +21,7 @@ Prints the object.
 
 _expression_. `PrintOut`( `_From_` , `_To_` , `_Copies_` , `_Preview_` , `_ActivePrinter_` , `_PrintToFile_` , `_Collate_` , `_PrToFileName_` , `_IgnorePrintAreas_` )
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

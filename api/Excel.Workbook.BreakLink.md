@@ -21,7 +21,7 @@ Converts formulas linked to other Microsoft Excel sources or OLE sources to valu
 
 _expression_. `BreakLink`( `_Name_` , `_Type_` )
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

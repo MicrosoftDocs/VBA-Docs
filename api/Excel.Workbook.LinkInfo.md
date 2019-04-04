@@ -21,7 +21,7 @@ Returns the link date and update status.
 
 _expression_. `LinkInfo`( `_Name_` , `_LinkInfo_` , `_Type_` , `_EditionRef_` )
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

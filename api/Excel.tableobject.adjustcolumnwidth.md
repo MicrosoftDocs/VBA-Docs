@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TableObject.AdjustColumnWidth property (Excel)
 
-Specifies if the column widths are automatically adjusted for the best fit each time you refresh the specified query table. The default value is  **True**. **Boolean** Read/Write
+Specifies if the column widths are automatically adjusted for the best fit each time you refresh the specified query table. The default value is  **True**. Read/write **Boolean**.
 
 
 ## Syntax

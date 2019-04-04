@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TableObject.EnableRefresh property (Excel)
 
-Specifies if the query table can be refreshed by the user.  **Boolean** Read/Write
+Specifies if the query table can be refreshed by the user.  Read/write **Boolean**.
 
 
 ## Syntax

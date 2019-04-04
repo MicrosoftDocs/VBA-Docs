@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.MinorUnitIsAuto property (Excel)
 
- **True** if Microsoft Excel calculates minor units for the value axis. Read/write **Boolean**.
+**True** if Microsoft Excel calculates minor units for the value axis. Read/write **Boolean**.
 
 
 ## Syntax

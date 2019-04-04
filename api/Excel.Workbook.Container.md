@@ -21,7 +21,7 @@ Returns the object that represents the container application for the specified O
 
 _expression_. `Container`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks

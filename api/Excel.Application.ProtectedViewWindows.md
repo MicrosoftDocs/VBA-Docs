@@ -21,7 +21,7 @@ Returns a  **[ProtectedViewWindows](Excel.ProtectedViewWindows.md)** collection 
 
 _expression_. `ProtectedViewWindows`
 
-_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## See also

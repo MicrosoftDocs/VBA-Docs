@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # DataLabel.ShowRange property (Excel)
 
-Used to toggle the  **Range** field if it exists on the data label range. **Boolean** Read/Write
+Used to toggle the  **Range** field if it exists on the data label range. Read/write **Boolean**.
 
 
 ## Syntax

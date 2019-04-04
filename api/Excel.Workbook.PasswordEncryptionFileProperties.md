@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Workbook.PasswordEncryptionFileProperties property (Excel)
 
- **True** if Microsoft Excel encrypts file properties for the specified password-protected workbook. Read-only **Boolean**.
+**True** if Microsoft Excel encrypts file properties for the specified password-protected workbook. Read-only **Boolean**.
 
 
 ## Syntax
 
 _expression_. `PasswordEncryptionFileProperties`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Series.IsFiltered property (Excel)
 
-This setting controls whether the series has been filtered out from the chart. The default value is  **False**. **Boolean** Read/Write.
+This setting controls whether the series has been filtered out from the chart. The default value is  **False**. Read/write **Boolean**.
 
 
 ## Syntax

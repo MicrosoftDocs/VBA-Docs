@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Worksheet.TransitionFormEntry property (Excel)
 
- **True** if Microsoft Excel uses Lotus 1-2-3 formula entry rules for the worksheet. Read/write **Boolean**.
+**True** if Microsoft Excel uses Lotus 1-2-3 formula entry rules for the worksheet. Read/write **Boolean**.
 
 
 ## Syntax
