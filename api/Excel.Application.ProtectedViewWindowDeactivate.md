@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.ProtectedViewWindowDeactivate
 ms.assetid: 39df50ca-53e0-784a-a803-e9ac6f456d11
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Occurs when a Protected View window is deactivated.
 
 ## Syntax
 
-_expression_. `ProtectedViewWindowDeactivate`( `_Pvw_` )
+_expression_.**ProtectedViewWindowDeactivate** (_Pvw_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,12 +32,14 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Return value
 
- **Nothing**
+Nothing
 
 
 ## Example
 
-The following code example minimizes any Protected View window when it is deactivated. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+The following code example minimizes any Protected View window when it is deactivated. This code must be placed in a class module, and an instance of that class must be correctly initialized. 
+
+For more information about how to use event procedures with the **Application** object, see [Using events with the Application object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 
 ```vb
@@ -49,9 +49,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

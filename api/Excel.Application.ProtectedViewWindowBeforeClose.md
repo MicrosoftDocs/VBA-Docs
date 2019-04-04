@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.ProtectedViewWindowBeforeClose
 ms.assetid: 5fa37062-61c7-3002-1ea0-c5bd396b6a9b
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Occurs immediately before a Protected View window or a workbook in a Protected V
 
 ## Syntax
 
-_expression_. `ProtectedViewWindowBeforeClose`( `_Pvw_` , `_Reason_` , `_Cancel_` )
+_expression_.**ProtectedViewWindowBeforeClose** (_Pvw_, _Reason_, _Cancel_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -41,7 +39,9 @@ Nothing
 
 ## Example
 
-The following code example prompts the user for a yes or no response before closing the Protected View window. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+The following code example prompts the user for a yes or no response before closing the Protected View window. This code must be placed in a class module, and an instance of that class must be correctly initialized. 
+
+For more information about how to use event procedures with the **Application** object, see [Using events with the Application object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 
 ```vb
@@ -54,9 +54,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
