@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TextConnection.TextFileTrailingMinusNumbers property (Excel)
 
- **True** for Microsoft Excel to treat numbers imported as text that begin with a " **-** " symbol as a negative symbol. **False** for Excel to treat numbers imported as text that begin with a " **-** " symbol as text. Read/Write **Boolean**
+ **True** for Microsoft Excel to treat numbers imported as text that begin with a " **-** " symbol as a negative symbol. **False** for Excel to treat numbers imported as text that begin with a " **-** " symbol as text. Read/write **Boolean**.
 
 
 ## Syntax

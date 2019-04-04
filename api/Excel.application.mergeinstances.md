@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Application.MergeInstances property (Excel)
 
-**True** to merge multiple instances of the application into a single instance. Read/Write **Boolean**.
+**True** to merge multiple instances of the application into a single instance. Read/write **Boolean**.
 
 
 ## Syntax

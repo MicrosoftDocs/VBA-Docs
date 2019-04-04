@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Windows.Add method (Visio)
 
-Adds a new  **Window** object to the **Windows** collection.
+Adds a new **Window** object to the **Windows** collection.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ Adds a new  **Window** object to the **Windows** collection.
 |:-----|:-----|:-----|:-----|
 | _bstrCaption_|Optional| **Variant**|The title of window; default is "Untitled".|
 | _nFlags_|Optional| **Variant**| Initial window state. Can contain any combination of **[VisWindowStates](Visio.viswindowstates.md)** constants declared in the Visio type library; default varies based on the _nType_.|
-| _nType_|Optional| **Variant**|Type of new window. Can be any one of the  **[VisWinTypes](Visio.viswintypes.md)** constants declared in the Visio type library. Defaults to **visStencilAddon** for **Application.Windows** ; defaults to **visAnchorBarAddon** for **Window.Windows**|
+| _nType_|Optional| **Variant**|Type of new window. Can be any one of the **[VisWinTypes](Visio.viswintypes.md)** constants declared in the Visio type library. Defaults to **visStencilAddon** for **Application.Windows**; defaults to **visAnchorBarAddon** for **Window.Windows**|
 | _nLeft_|Optional| **Variant**|Position of the left side of the window.|
 | _nTop_|Optional| **Variant**|Position of the top of the window.|
 | _nWidth_|Optional| **Variant**|Width of the client area of the window.|
@@ -48,18 +48,18 @@ Window
 
 ## Remarks
 
-Use this method to get an empty parent frame window within the Visio window space that you can populate with child windows. You must be in the Visio process space (for example, in a DLL or VSL-based add-on) to use the  **Window** object returned by this method as a parent to your windows.
+Use this method to get an empty parent frame window within the Visio window space that you can populate with child windows. You must be in the Visio process space (for example, in a DLL or VSL-based add-on) to use the **Window** object returned by this method as a parent to your windows.
 
-Use the value returned by the  **WindowHandle32** property as an **HWND** for use as a parent to your own windows.
+Use the value returned by the **WindowHandle32** property as an **HWND** for use as a parent to your own windows.
 
 
 ## Example
 
-The following macro shows how to use the  **Add** method to add a **Window** object to the **Windows** collection. It creates a new, empty parent frame window, docked to the bottom of the drawing window. Then it populates the new parent frame window with a child window, in this case a form, so that the new window does not appear empty.
+The following macro shows how to use the **Add** method to add a **Window** object to the **Windows** collection. It creates a new, empty parent frame window, docked to the bottom of the drawing window. Then it populates the new parent frame window with a child window, in this case a form, so that the new window does not appear empty.
 
-Add a form to your Microsoft Visual Basic (VBA) project called  **frmMain**, and then add a  **TextBox** control named **txtForm** to the form.
+Add a form to your Microsoft Visual Basic (VBA) project called **frmMain**, and then add a **TextBox** control named **txtForm** to the form.
 
-The  **SetParent**, **FindWindow**, and **SetWindowLongLib** functions are from the Windows API, and are necessary to add the form to the new window.
+The **SetParent**, **FindWindow**, and **SetWindowLongLib** functions are from the Windows API, and are necessary to add the form to the new window.
 
 Add the following code to the form module to resize the text box when the form is resized:
 

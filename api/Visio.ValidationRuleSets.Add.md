@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ValidationRuleSets.Add method (Visio)
 
-Adds a new, empty  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of the document.
+Adds a new, empty **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of the document.
 
 
 ## Syntax
@@ -41,12 +41,16 @@ Adds a new, empty  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to
 
 If the  _NameU_ parameter is not a valid string or if it matches the universal name of an existing rule set in the document, Microsoft Visio returns an Invalid Parameter error.
 
-The default property values of the new validation rule set are as follows:  **[Description](Visio.ValidationRuleSet.Description.md)** = [empty]; **Enabled** = **True** ; **[Name](Visio.ValidationRuleSet.Name.md)** = **NameU** ; **[RuleSetFlags](Visio.ValidationRuleSet.RuleSetFlags.md)** = **visRuleSetDefault**.
+The default property values of the new validation rule set are as follows: 
+
+- **[Description](Visio.ValidationRuleSet.Description.md)** = [empty]
+- **Enabled** = **True**; **[Name](Visio.ValidationRuleSet.Name.md)** = **NameU**
+- **[RuleSetFlags](Visio.ValidationRuleSet.RuleSetFlags.md)** = **visRuleSetDefault**
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Add** method to add a validation rule set named "Connectivity" to the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Add** method to add a validation rule set named "Connectivity" to the active document.
 
 
 ```vb

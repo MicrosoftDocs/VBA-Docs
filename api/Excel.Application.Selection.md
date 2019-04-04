@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Application.Selection
 ms.assetid: f25b5608-035b-983a-545d-d720990c28be
-ms.date: 04/25/2018
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.Selection property (Excel)
 
-Returns the currently selected object in the active worksheet for an **[Application](Excel.Application(object).md)** object. Returns `Nothing` if no objects are selected. Use the `Select` method to set the selection, and use `TypeName` to discover the kind of object that is selected. 
+Returns the currently selected object in the active worksheet for an **Application** object. Returns **Nothing** if no objects are selected. Use the **Select** method to set the selection, and use the **[TypeName](../Language/Reference/User-Interface-Help/typename-function.md)** function to discover the kind of object that is selected. 
 
 
 ## Syntax
@@ -26,9 +26,9 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-The returned object type depends on the current selection (for example, if a cell is selected, this property returns a  **[Range](Excel.Range(object).md)** object). The **Selection** property returns **Nothing** if nothing is selected.
+The returned object type depends on the current selection (for example, if a cell is selected, this property returns a **[Range](Excel.Range(object).md)** object). The **Selection** property returns **Nothing** if nothing is selected.
 
-Using this property with no object qualifier is equivalent to using  `Application.Selection`.
+Using this property with no object qualifier is equivalent to using Application.Selection.
 
 
 ## Example
@@ -40,12 +40,17 @@ Worksheets("Sheet1").Activate
 Selection.Clear
 ```
 
+<br/>
+
 This example displays the Visual Basic object type of the selection.
 
 ```vb
 Worksheets("Sheet1").Activate 
 MsgBox "The selection object type is " & TypeName(Selection)
 ```
+
+<br/>
+
 This example displays information about the current selection.
 
 ```vb
@@ -65,9 +70,7 @@ Sub TestSelection(  )
 End Sub
 ```
 
-## See also
 
-[TypeName function](https://msdn.microsoft.com/vba/language-reference-vba/articles/typename-function)<br>
-[Application Object](Excel.Application(object).md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

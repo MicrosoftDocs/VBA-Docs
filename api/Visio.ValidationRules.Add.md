@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ValidationRules.Add method (Visio)
 
-Adds a new, empty  **[ValidationRule](Visio.ValidationRule.md)** object to the **[ValidationRules](Visio.ValidationRules.md)** collection of the document.
+Adds a new, empty **[ValidationRule](Visio.ValidationRule.md)** object to the **[ValidationRules](Visio.ValidationRules.md)** collection of the document.
 
 
 ## Syntax
@@ -41,14 +41,21 @@ Adds a new, empty  **[ValidationRule](Visio.ValidationRule.md)** object to the *
 
 If the  _NameU_ parameter is not a valid string, Visio returns an Invalid Parameter error.
 
-The default property values of the new validation rule are as follows:  **[Category](Visio.ValidationRule.Category.md)** = [empty]; **[Description](Visio.ValidationRule.Description.md)** = "Unknown"; **[FilterExpression](Visio.ValidationRule.FilterExpression.md)** = [empty]; **[Ignored](Visio.ValidationRule.Ignored.md)** = **False** ; **[TargetType](Visio.ValidationRule.TargetType.md)** = **visRuleTargetShape** ; **[TestExpression](Visio.ValidationRule.TestExpression.md)** = [empty].
+The default property values of the new validation rule are as follows: 
+
+- **[Category](Visio.ValidationRule.Category.md)** = [empty]
+- **[Description](Visio.ValidationRule.Description.md)** = "Unknown"
+- **[FilterExpression](Visio.ValidationRule.FilterExpression.md)** = [empty]
+- **[Ignored](Visio.ValidationRule.Ignored.md)** = **False**
+- **[TargetType](Visio.ValidationRule.TargetType.md)** = **visRuleTargetShape**
+- **[TestExpression](Visio.ValidationRule.TestExpression.md)** = [empty]
 
 
 ## Example
 
 The following sample code is based on code provided by: [David Parker](https://www.bvisual.net)
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Add** method to add a new validation rule named "UngluedConnector" to an existing validation rule set named "Fault Tree Analysis" in the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Add** method to add a new validation rule named "UngluedConnector" to an existing validation rule set named "Fault Tree Analysis" in the active document.
 
 
 

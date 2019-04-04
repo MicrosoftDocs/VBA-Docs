@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.RangeFromPoint method (Excel)
 
-Returns the  **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** object that is positioned at the specified pair of screen coordinates. If there isn?t a shape located at the specified coordinates, this method returns **Nothing**.
+Returns the  **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** object that is positioned at the specified pair of screen coordinates. If there isn't a shape located at the specified coordinates, this method returns **Nothing**.
 
 
 ## Syntax

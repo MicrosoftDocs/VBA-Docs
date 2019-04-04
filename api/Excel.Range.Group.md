@@ -33,7 +33,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 | _Start_|Optional| **Variant**|The first value to be grouped. If this argument is omitted or  **True**, the first value in the field is used.|
 | _End_|Optional| **Variant**|The last value to be grouped. If this argument is omitted or  **True**, the last value in the field is used.|
 | _By_|Optional| **Variant**|If the field is numeric, this argument specifies the size of each group. If the field is a date, this argument specifies the number of days in each group if element 4 in the  _Periods_ array is **True** and all the other elements are **False**. Otherwise, this argument is ignored. If this argument is omitted, Microsoft Excel automatically chooses a default group size.|
-| _Periods_|Optional| **Variant**|An array of  **Boolean** values that specify the period for the group, described in the Remarks section. If an element in the array is **True**, a group is created for the corresponding time; if the element is **False**, no group is created. If the field isn?t a date field, this argument is ignored.|
+| _Periods_|Optional| **Variant**|An array of  **Boolean** values that specify the period for the group, described in the Remarks section. If an element in the array is **True**, a group is created for the corresponding time; if the element is **False**, no group is created. If the field isn't a date field, this argument is ignored.|
 
 ## Return value
 

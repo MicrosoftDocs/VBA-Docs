@@ -30,15 +30,15 @@ _expression_ A variable that represents a [Validation](Excel.Validation.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|An  **xlDVType** value that represents the validation type.|
-| _AlertStyle_|Optional| **Variant**|An  **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)** value that represents the validation alert style.|
-| _Operator_|Optional| **Variant**|An  **[XlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the data validation operator.|
+| _Type_|Optional| **Variant**|An **xlDVType** value that represents the validation type.|
+| _AlertStyle_|Optional| **Variant**|An **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)** value that represents the validation alert style.|
+| _Operator_|Optional| **Variant**|An **[XlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the data validation operator.|
 | _Formula1_|Optional| **Variant**|The first part of the data validation equation.|
-| _Formula2_|Optional| **Variant**|The second part of the data validation when  **Operator** is **xlBetween** or **xlNotBetween** ; otherwise, this argument is ignored.|
+| _Formula2_|Optional| **Variant**|The second part of the data validation when **Operator** is **xlBetween** or **xlNotBetween**; otherwise, this argument is ignored.|
 
 ## Remarks
 
-The  **Modify** method requires different arguments, depending on the validation type, as shown in the following table.
+The **Modify** method requires different arguments, depending on the validation type, as shown in the following table.
 
 
 
