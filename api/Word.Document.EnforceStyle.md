@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that represents whether formatting restrictions a
 
 _expression_. `EnforceStyle`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Example

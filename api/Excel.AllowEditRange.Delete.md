@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AllowEditRange.Delete
 ms.assetid: 3b2dad3a-62fa-398f-b0ff-b9586b413ebd
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Delete**
 _expression_ A variable that represents an **[AllowEditRange](Excel.AllowEditRange.md)** object.
 
 
-## See also
 
-
-[AllowEditRange Object](Excel.AllowEditRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Displays a preview of the specified workbook as it would look if saved as a web 
 
 _expression_. `WebPagePreview`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example

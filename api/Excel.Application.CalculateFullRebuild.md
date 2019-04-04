@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.CalculateFullRebuild
 ms.assetid: 6d3dac24-7fb8-05fd-b6ee-cb3ef7d5f33a
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
@@ -19,20 +19,19 @@ For all open workbooks, forces a full calculation of the data and rebuilds the d
 
 ## Syntax
 
-_expression_. `CalculateFullRebuild`
+_expression_.**CalculateFullRebuild**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks
 
-Dependencies are the formulas that depend on other cells. For example, the formula "=A1" depends on cell A1. The  **CalculateFullRebuild** method is similar to re-entering all formulas.
+Dependencies are the formulas that depend on other cells. For example, the formula "=A1" depends on cell A1. The **CalculateFullRebuild** method is similar to re-entering all formulas.
 
 
 ## Example
 
-This example compares the version of Microsoft Excel with the version of Excel in which the workbook was last calculated. If the two version numbers are different, a full calculation of the data in all open workbooks is performed and the dependencies are rebuilt.
-
+This example compares the version of Microsoft Excel with the version of Excel in which the workbook was last calculated. If the two version numbers are different, a full calculation of the data in all open workbooks is performed, and the dependencies are rebuilt.
 
 ```vb
 Sub UseCalculateFullRebuild() 
@@ -46,9 +45,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

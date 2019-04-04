@@ -21,7 +21,7 @@ Returns or sets a **[WdStyleSort](Word.WdStyleSort.md)** constant that represent
 
 _expression_. `StyleSortMethod`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## See also

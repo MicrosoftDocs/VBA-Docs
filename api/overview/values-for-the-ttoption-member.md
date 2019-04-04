@@ -17,7 +17,7 @@ localization_priority: Normal
 **Applies to:** Access 2013 | Access 2016
 
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |1|Print TrueType fonts as graphics. This is the default for dot-matrix printers.|
 |2|Download TrueType fonts as soft fonts (fonts that are loaded into the printer's memory for rendering). This is the default for Hewlett-Packard printers that use Printer Control Language (PCL).|

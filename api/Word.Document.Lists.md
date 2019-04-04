@@ -21,7 +21,7 @@ Returns a  **[Lists](Word.lists.md)** collection that contains all the formatted
 
 _expression_. `Lists`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

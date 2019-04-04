@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.GetCustomListContents
 ms.assetid: 3adafb35-f7d0-0233-ff7c-c31d5e48f574
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns a custom list (an array of strings).
 
 ## Syntax
 
-_expression_. `GetCustomListContents`( `_ListNum_` )
+_expression_.**GetCustomListContents** (_ListNum_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -50,9 +48,6 @@ Next i
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

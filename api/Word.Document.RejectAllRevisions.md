@@ -21,7 +21,7 @@ Rejects all tracked changes in the specified document.
 
 _expression_. `RejectAllRevisions`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

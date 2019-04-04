@@ -21,7 +21,7 @@ Occurs before updating the document's XML data store with the value of a content
 
 Private Sub  _expression_ _'ContentControlBeforeStoreUpdate'(**_ContentControl_**, **_Content_**)
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

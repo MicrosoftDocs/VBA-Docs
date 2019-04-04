@@ -14,7 +14,7 @@ Saves the workbook and publishes it to a document.
 
 ## Syntax
 
-_expression_ A string that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A string that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example

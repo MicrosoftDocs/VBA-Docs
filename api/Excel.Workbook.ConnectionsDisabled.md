@@ -21,7 +21,7 @@ Disables the external connections or links in the workbook. Read-only
 
 _expression_. `ConnectionsDisabled`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Return value

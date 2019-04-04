@@ -21,7 +21,7 @@ Sets or returns a  **Long** that represents the width of pages in a document whe
 
 _expression_. `ReadingLayoutSizeX`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

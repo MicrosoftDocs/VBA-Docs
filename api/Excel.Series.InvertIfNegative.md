@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Series.InvertIfNegative property (Excel)
 
- **True** if Microsoft Excel inverts the pattern in the item when it corresponds to a negative number. Read/write **Boolean**.
+**True** if Microsoft Excel inverts the pattern in the item when it corresponds to a negative number. Read/write **Boolean**.
 
 
 ## Syntax

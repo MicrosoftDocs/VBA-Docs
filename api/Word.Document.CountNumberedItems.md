@@ -21,7 +21,7 @@ Returns the number of bulleted or numbered items and LISTNUM fields in the speci
 
 _expression_. `CountNumberedItems`( `_NumberType_` , `_Level_` )
 
- _expression_ An expression that represents a '[Document](Word.Document.md)' object.
+ _expression_ An expression that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Occurs when any sheet is activated.
 
 _expression_. `SheetActivate`( `_Sh_` , )
 
- _expression_ An expression that returns a [Application](Excel.Application-graph-property.md) object.
+ _expression_ An expression that returns an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns a  **[TablesOfFigures](Word.Document.TablesOfFigures.md)** collection th
 
 _expression_. `TablesOfFigures`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

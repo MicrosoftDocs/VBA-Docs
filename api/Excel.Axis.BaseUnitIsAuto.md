@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.BaseUnitIsAuto property (Excel)
 
- **True** if Microsoft Excel chooses appropriate base units for the specified category axis. The default value is **True**. Read/write **Boolean**.
+**True** if Microsoft Excel chooses appropriate base units for the specified category axis. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

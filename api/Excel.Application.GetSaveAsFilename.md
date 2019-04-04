@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.Application.GetSaveAsFilename
 ms.assetid: 2ad52070-22d7-a755-9267-daaa5edbbb0d
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Priority
 ---
 
 
 # Application.GetSaveAsFilename method (Excel)
 
-Displays the standard  **Save As** dialog box and gets a file name from the user without actually saving any files.
+Displays the standard **Save As** dialog box and gets a file name from the user without actually saving any files.
 
 
 ## Syntax
 
-_expression_. `GetSaveAsFilename`( `_InitialFilename_` , `_FileFilter_` , `_FilterIndex_` , `_Title_` , `_ButtonText_` )
+_expression_.**GetSaveAsFilename** (_InitialFilename_, _FileFilter_, _FilterIndex_, _Title_, _ButtonText_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -43,18 +41,20 @@ Variant
 
 ## Remarks
 
-This string passed in the  _FileFilter_ argument consists of pairs of file filter strings followed by the MS-DOS wildcard file filter specification, with each part and each pair separated by commas. Each separate pair is listed in the **Files of type** drop-down list box. For example, the following string specifies two file filters, text and addin: "Text Files (*.txt), *.txt, Add-In Files (*.xla), *.xla".
+This string passed in the _FileFilter_ argument consists of pairs of file filter strings followed by the MS-DOS wildcard file filter specification, with each part and each pair separated by commas. Each separate pair is listed in the **Files of type** drop-down list box. For example, the following string specifies two file filters&mdash;text and addin: 
 
-To use multiple MS-DOS wildcard expressions for a single file filter type, separate the wildcard expressions with semicolons; for example, "Visual Basic Files (*.bas; *.txt),*.bas;*.txt".
+`"Text Files (*.txt), *.txt, Add-In Files (*.xla), *.xla"`
 
-This method returns the selected file name or the name entered by the user. The returned name may include a path specification. Returns  **False** if the user cancels the dialog box.
+To use multiple MS-DOS wildcard expressions for a single file filter type, separate the wildcard expressions with semicolons; for example, `"Visual Basic Files (*.bas; *.txt),*.bas;*.txt"`.
+
+This method returns the selected file name or the name entered by the user. The returned name may include a path specification. Returns **False** if the user cancels the dialog box.
 
 This method may change the current drive or folder.
 
 
 ## Example
 
-This example displays the  **Save As** dialog box, with the file filter set to text files. If the user chooses a file name, the example displays that file name in a message box.
+This example displays the **Save As** dialog box, with the file filter set to text files. If the user chooses a file name, the example displays that file name in a message box.
 
 
 ```vb
@@ -66,9 +66,6 @@ End If
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

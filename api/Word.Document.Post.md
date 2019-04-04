@@ -21,7 +21,7 @@ Posts the specified document to a public folder in Microsoft Exchange. .
 
 _expression_. `Post`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

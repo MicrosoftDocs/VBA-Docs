@@ -19,9 +19,9 @@ Removes protection from the specified document. .
 
 ## Syntax
 
-_expression_. `UnProtect`( `_Password_` )
+_expression_.**Unprotect** (_Password_)
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

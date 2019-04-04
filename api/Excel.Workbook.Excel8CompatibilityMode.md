@@ -21,7 +21,7 @@ The  **Excel8CompatibilityMode** property provides developers with a way to chec
 
 _expression_. `Excel8CompatibilityMode`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Occurs before the workbook is saved.
 
 _expression_. `BeforeSave`( `_SaveAsUI_` , `_Cancel_` )
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -51,7 +51,7 @@ Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, _
 End Sub
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It?s 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! it's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example uses the  **BeforeSave** event to verify that certain cells contain data before the workbook can be saved. The workbook cannot be saved until there is data in each of the following cells: D5, D7, D9, D11, D13, and D15.
 

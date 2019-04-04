@@ -21,7 +21,7 @@ Returns a  **[CommandBars](Office.CommandBars.md)** object that represents the M
 
 _expression_. `CommandBars`
 
- _expression_ An expression that returns a [Workbook](Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks

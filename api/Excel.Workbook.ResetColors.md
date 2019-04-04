@@ -21,7 +21,7 @@ Resets the color palette to the default colors.
 
 _expression_. `ResetColors`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example

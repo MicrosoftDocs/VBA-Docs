@@ -21,7 +21,7 @@ Occurs when the workbook is opened.
 
 _expression_. `Open`
 
- _expression_ An expression that returns a [Workbook](Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example

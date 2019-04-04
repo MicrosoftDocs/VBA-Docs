@@ -30,7 +30,7 @@ _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional| **Variant**|Horizontal print quality (1) or vertical print quality (2). Some printers may not support vertical print quality. If you don?t specify this argument, the  **PrintQuality** property returns (or can be set to) a two-element array that contains both horizontal and vertical print quality.|
+| _Index_|Optional| **Variant**|Horizontal print quality (1) or vertical print quality (2). Some printers may not support vertical print quality. If you don't specify this argument, the  **PrintQuality** property returns (or can be set to) a two-element array that contains both horizontal and vertical print quality.|
 
 ## Example
 

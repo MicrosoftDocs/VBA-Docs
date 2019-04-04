@@ -19,7 +19,7 @@ Occurs after a PivotTable report opens the connection to its data source.
 
 _expression_. `PivotTableOpenConnection`( `_Target_` )
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

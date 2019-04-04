@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TimelineViewState.ShowHorizontalScrollbar property (Excel)
 
-Get or set whether the control's horizontal scrollbar is displayed.  **Boolean** Read/Write
+Get or set whether the control's horizontal scrollbar is displayed.  Read/write **Boolean**.
 
 
 ## Syntax

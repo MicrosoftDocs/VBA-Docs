@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Application.PrintCommunication property (Excel)
 
-Specifies whether communication with the printer is turned on.  **Boolean** Read/write
+Specifies whether communication with the printer is turned on. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_. `PrintCommunication`
 
-_expression_ A variable that returns an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that returns an **[Application](Excel.Application(object).md)** object.
 
 
 ## Return value

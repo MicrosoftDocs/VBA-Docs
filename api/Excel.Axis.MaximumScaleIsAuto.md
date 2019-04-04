@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.MaximumScaleIsAuto property (Excel)
 
- **True** if Microsoft Excel calculates the maximum value for the value axis. Read/write **Boolean**.
+**True** if Microsoft Excel calculates the maximum value for the value axis. Read/write **Boolean**.
 
 
 ## Syntax

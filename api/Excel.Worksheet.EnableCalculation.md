@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Worksheet.EnableCalculation property (Excel)
 
- **True** if Microsoft Excel automatically recalculates the worksheet when necessary. **False** if Excel doesn't recalculate the sheet. Read/write **Boolean**.
+**True** if Microsoft Excel automatically recalculates the worksheet when necessary. **False** if Excel doesn't recalculate the sheet. Read/write **Boolean**.
 
 
 ## Syntax

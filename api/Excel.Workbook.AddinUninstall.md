@@ -21,7 +21,7 @@ Occurs when the workbook is uninstalled as an add-in.
 
 _expression_. `AddinUninstall`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Return value

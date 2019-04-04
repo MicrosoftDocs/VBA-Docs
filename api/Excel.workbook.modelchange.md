@@ -19,7 +19,7 @@ Occurs after the Excel data model is changed.
 
 _expression_. `ModelChange`_(Changes)_
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters

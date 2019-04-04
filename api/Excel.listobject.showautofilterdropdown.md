@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ListObject.ShowAutoFilterDropDown property (Excel)
 
- **True** when the AutoFilter drop down for the **ListObject** object is displayed. **Boolean** Read/Write
+ **True** when the AutoFilter drop down for the **ListObject** object is displayed. Read/write **Boolean**.
 
 
 ## Syntax

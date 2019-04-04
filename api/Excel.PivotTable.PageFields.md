@@ -36,7 +36,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 A hierarchy can contain only one page field.
 
-For a PivotTable report based on a PivotTable cache, the collection of PivotTable fields that?s returned reflects what?s currently in the cache.
+For a PivotTable report based on a PivotTable cache, the collection of PivotTable fields that's returned reflects what?s currently in the cache.
 
 
 ## Example

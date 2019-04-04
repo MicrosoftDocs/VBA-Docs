@@ -21,7 +21,7 @@ Returns the  **[WebOptions](Excel.WebOptions.md)** collection, which contains wo
 
 _expression_. `WebOptions`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example

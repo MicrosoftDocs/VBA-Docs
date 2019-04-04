@@ -37,7 +37,7 @@ _expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object
 | _RowGrand_|Optional| **Variant**| **True** to show grand totals for rows in the report.|
 | _ColumnGrand_|Optional| **Variant**| **True** to show grand totals for columns in the report.|
 | _SaveData_|Optional| **Variant**| **True** to save data with the report. **False** to save only the report definition.|
-| _HasAutoFormat_|Optional| **Variant**| **True** to have Microsoft Excel automatically format the report when it?s refreshed or when fields are moved.|
+| _HasAutoFormat_|Optional| **Variant**| **True** to have Microsoft Excel automatically format the report when it's refreshed or when fields are moved.|
 | _AutoPage_|Optional| **Variant**|Valid only if  _SourceType_ is **xlConsolidation**. **True** to have Microsoft Excel create a page field for the consolidation. If _AutoPage_ is **False**, you must create the page field or fields.|
 | _Reserved_|Optional| **Variant**|Not used by Microsoft Excel.|
 | _BackgroundQuery_|Optional| **Variant**| **True** to have Excel perform queries for the report asynchronously (in the background). The default value is **False**.|

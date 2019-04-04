@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Workbook.CanCheckIn method (Excel)
 
- **True** if Microsoft Excel can check in a specified workbook to a server. Read/write **Boolean**.
+**True** if Microsoft Excel can check in a specified workbook to a server. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_. `CanCheckIn`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Return value

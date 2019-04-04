@@ -21,7 +21,7 @@ Clears the list of actions that can be undone for the specified document.
 
 _expression_. `UndoClear`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

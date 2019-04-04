@@ -21,7 +21,7 @@ Returns a  **String** specifying the name of the algorithm encryption provider t
 
 _expression_. `EncryptionProvider`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## See also

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TimelineViewState.ShowHeader property (Excel)
 
-Get or set whether the control's header is displayed.  **Boolean** Read/Write
+Get or set whether the control's header is displayed.  Read/write **Boolean**.
 
 
 ## Syntax

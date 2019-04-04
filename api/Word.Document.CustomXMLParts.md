@@ -21,7 +21,7 @@ Returns a  **[CustomXMLParts](Office.CustomXMLParts.md)** collection that repres
 
 _expression_. `CustomXMLParts`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## See also

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Workbook.FollowHyperlink method (Excel)
 
-Displays a cached document, if it?s already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
+Displays a cached document, if it's already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
 
 
 ## Syntax
 
 _expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_NewWindow_` , `_AddHistory_` , `_ExtraInfo_` , `_Method_` , `_HeaderInfo_` )
 
- _expression_ An expression that returns a [Workbook](Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -45,7 +45,7 @@ _expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_NewWindow_` , 
 
 
 | **MsoExtraInfoMethod** type can be one of these **MsoExtraInfoMethod** constants.|
-| **msoMethodGet**. _ExtraInfo_ is a **String** that?s appended to the address.|
+| **msoMethodGet**. _ExtraInfo_ is a **String** that's appended to the address.|
 | **msoMethodPost**. _ExtraInfo_ is posted as a **String** or byte array.|
 
 ## Example

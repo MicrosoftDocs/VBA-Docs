@@ -21,7 +21,7 @@ Occurs when a workbook, worksheet, chart sheet, or embedded chart is activated.
 
 _expression_. `Activate`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Return value

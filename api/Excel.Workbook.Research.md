@@ -21,7 +21,7 @@ Returns a  **Research** object that represents the research service for a workbo
 
 _expression_. `Research`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.ActivateMicrosoftApp
 ms.assetid: e11d8165-5aad-2b1d-f9d1-797038d96afb
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Activates a Microsoft application. If the application is already running, this m
 
 ## Syntax
 
-_expression_. `ActivateMicrosoftApp` (_Index_)
+_expression_.**ActivateMicrosoftApp** (_Index_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -42,9 +40,6 @@ Application.ActivateMicrosoftApp xlMicrosoftWord
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns a  **[Bibliography](Word.Bibliography.md)** object that represents the b
 
 _expression_. `Bibliography`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## See also

@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.Application.FileExportConverters
 ms.assetid: 1b7289ea-344f-cc3d-ec31-04d4196533ff
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
 
 # Application.FileExportConverters property (Excel)
 
-Returns a  **[FileExportConverters](Excel.FileExportConverters.md)** collection that represents all the file converters for saving files available to Microsoft Excel. Read-only.
+Returns a **[FileExportConverters](Excel.FileExportConverters.md)** collection that represents all the file converters for saving files available to Microsoft Excel. Read-only.
 
 
 ## Syntax
 
-_expression_. `FileExportConverters`
+_expression_.**FileExportConverters**
 
-_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks
 
-For more information about returning a single member of a collection, see [Returning an Object from a Collection](../excel/Concepts/Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md).
+For more information about returning a single member of a collection, see [Returning an object from a collection](../excel/Concepts/Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md).
 
 
 ## Example
 
-The following example displays the description for the first file converter in the  **[FileExportConverters](Excel.FileExportConverters.md)** collection.
-
+The following example displays the description for the first file converter in the **[FileExportConverters](Excel.FileExportConverters.md)** collection.
 
 ```vb
 Dim fcTemp As FileExportConverter 
@@ -42,9 +41,6 @@ MsgBox fcTemp.Description
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

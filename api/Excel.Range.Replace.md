@@ -46,7 +46,7 @@ Boolean
 
 ## Remarks
 
-The settings for  _LookAt_,  _SearchOrder_,  _MatchCase_, and  _MatchByte_ are saved each time you use this method. If you don?t specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
+The settings for  _LookAt_,  _SearchOrder_,  _MatchCase_, and  _MatchByte_ are saved each time you use this method. If you don't specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlMap.IsExportable property (Excel)
 
-Returns  **True** if Microsoft Excel can use the **[XPath](Excel.XPath.md)** objects in the specified schema map to export XML data and all XML lists mapped to the specified schema map can be exported.
+Returns **True** if Microsoft Excel can use the **[XPath](Excel.XPath.md)** objects in the specified schema map to export XML data and all XML lists mapped to the specified schema map can be exported.
 
 
 ## Syntax

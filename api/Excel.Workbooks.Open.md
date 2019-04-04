@@ -59,7 +59,7 @@ You can specify one of the following values in the UpdateLinks parameter to dete
 
 
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |0|External references (links) will not be updated when the workbook is opened.|
 |3|External references (links) will be updated when the workbook is opened.|

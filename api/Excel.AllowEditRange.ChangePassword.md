@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AllowEditRange.ChangePassword
 ms.assetid: 1cc52121-f626-eaaa-9ea0-879634e34af7
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
@@ -26,15 +26,13 @@ _expression_ A variable that represents an **[AllowEditRange](Excel.AllowEditRan
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Password_|Required| **String**|The new password.|
 
 ## Example
 
-In this example, Microsoft Excel allows edits to range "A1:A4" on the active worksheet, notifies the user, changes the password for this specified range, and notifies the user of the change. The worksheet must be unprotected before running this code.
+In this example, Microsoft Excel allows edits to range A1:A4 on the active worksheet, notifies the user, changes the password for this specified range, and then notifies the user of the change. The worksheet must be unprotected before running this code.
 
 
 ```vb
@@ -66,9 +64,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[AllowEditRange Object](Excel.AllowEditRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

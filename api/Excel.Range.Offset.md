@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # Range.Offset property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents a range that?s offset from the specified range.
+Returns a  **[Range](Excel.Range(object).md)** object that represents a range that's offset from the specified range.
 
 
 ## Syntax

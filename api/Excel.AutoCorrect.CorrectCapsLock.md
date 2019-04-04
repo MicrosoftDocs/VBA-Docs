@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoCorrect.CorrectCapsLock property (Excel)
 
- **True** if Microsoft Excel automatically corrects accidental use of the CAPS LOCK key. Read/write **Boolean**.
+**True** if Microsoft Excel automatically corrects accidental use of the CAPS LOCK key. Read/write **Boolean**.
 
 
 ## Syntax

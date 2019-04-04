@@ -21,7 +21,7 @@ Decreases the font size of text just enough so that the document will fit on one
 
 _expression_. `FitToPages`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

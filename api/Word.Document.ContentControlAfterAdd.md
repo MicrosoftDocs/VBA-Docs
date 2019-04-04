@@ -21,7 +21,7 @@ Occurs after adding a content control to a document.
 
 Private Sub  _expression_ _'ContentControlAfterAdd'(**_NewContentControl_**, **_InUndoRedo_**)
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

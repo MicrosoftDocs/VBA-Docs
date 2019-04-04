@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Interactive property (Excel)
 
- **True** if Microsoft Excel is in interactive mode; this property is usually **True**. If you set the this property to **False**, Microsoft Excel will block all input from the keyboard and mouse (except input to dialog boxes that are displayed by your code). Read/write **Boolean**.
+**True** if Microsoft Excel is in interactive mode; this property is usually **True**. If you set the this property to **False**, Microsoft Excel will block all input from the keyboard and mouse (except input to dialog boxes that are displayed by your code). Read/write **Boolean**.
 
 
 ## Syntax

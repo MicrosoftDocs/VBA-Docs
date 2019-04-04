@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Workbook.ChartDataPointTrack property (Excel)
 
- **True** will cause all charts in the current document to track the actual data point to which it's attached. **False** will revert back to tracking the index of the data point. **Boolean** Read/Write
+ **True** will cause all charts in the current document to track the actual data point to which it's attached. **False** will revert back to tracking the index of the data point. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_. `ChartDataPointTrack`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Property value

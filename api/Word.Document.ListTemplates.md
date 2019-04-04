@@ -21,7 +21,7 @@ Returns a  **ListTemplates** collection that represents all the list formats for
 
 _expression_. `ListTemplates`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

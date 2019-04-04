@@ -46,7 +46,7 @@ The following table specifies the values for the  _Shift_ parameter.
 
 
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |0 (zero)|No keys|
 |1|SHIFT key|

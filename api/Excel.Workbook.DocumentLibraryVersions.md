@@ -21,7 +21,7 @@ Returns a  **[DocumentLibraryVersions](Office.DocumentLibraryVersions.md)** coll
 
 _expression_. `DocumentLibraryVersions`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also

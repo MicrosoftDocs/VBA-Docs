@@ -21,7 +21,7 @@ Occurs when a workbook is opened in a  **Protected View** window.
 
 _expression_. `ProtectedViewWindowOpen`( `_Pvw_` , )
 
-_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

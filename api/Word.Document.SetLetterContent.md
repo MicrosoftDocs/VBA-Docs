@@ -21,7 +21,7 @@ Inserts the contents of the specified  **LetterContent** object into a document.
 
 _expression_. `SetLetterContent`( `_LetterContent_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

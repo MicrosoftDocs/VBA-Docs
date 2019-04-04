@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that represents whether to use small fractions in
 
 _expression_. `OMathSmallFrac`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## See also

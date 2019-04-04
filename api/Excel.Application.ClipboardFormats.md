@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.Application.ClipboardFormats
 ms.assetid: 9b0de0b9-6acf-a73c-6d29-a405d0784170
-ms.date: 06/08/2017
+ms.date: 04/04/2019
 localization_priority: Normal
 ---
 
 
 # Application.ClipboardFormats property (Excel)
 
-Returns the formats that are currently on the Clipboard, as an array of numeric values. To determine whether a particular format is on the Clipboard, compare each element in the array with the appropriate constant listed in the Remarks section. Read-only  **Variant**.
+Returns the formats that are currently on the Clipboard, as an array of numeric values. To determine whether a particular format is on the Clipboard, compare each element in the array with the appropriate constant listed in the Remarks section. Read-only **Variant**.
 
 
 ## Syntax
 
-_expression_. `ClipboardFormats` (_Index_)
+_expression_.**ClipboardFormats** (_Index_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,13 +32,12 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-This property returns an array of numeric values. To determine whether a particular format is on the Clipboard compare each element of the array with one of the  **[XlClipboardFormat](Excel.XlClipboardFormat.md)** constants.
+This property returns an array of numeric values. To determine whether a particular format is on the Clipboard, compare each element of the array with one of the **[XlClipboardFormat](Excel.XlClipboardFormat.md)** constants.
 
 
 ## Example
 
 This example displays a message box if the Clipboard contains a rich-text format (RTF) object. You can create an RTF object by copying text from a Word document.
-
 
 ```vb
 aFmts = Application.ClipboardFormats 
@@ -52,9 +49,6 @@ Next
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

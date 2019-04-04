@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # SlicerCache.RequireManualUpdate property (Excel)
 
- **True** when manual updates of the slicer cache required. **Boolean** Read/Write
+ **True** when manual updates of the slicer cache required. Read/write **Boolean**.
 
 
 ## Syntax

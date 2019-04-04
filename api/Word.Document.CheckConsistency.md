@@ -21,7 +21,7 @@ Searches all text in a Japanese language document and displays instances where c
 
 _expression_. `CheckConsistency`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

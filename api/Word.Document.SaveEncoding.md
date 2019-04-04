@@ -21,7 +21,7 @@ Returns or sets the encoding to use when saving a document. Read/write  **MsoEnc
 
 _expression_. `SaveEncoding`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

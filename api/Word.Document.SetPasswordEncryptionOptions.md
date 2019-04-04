@@ -21,7 +21,7 @@ Sets the options Microsoft Word uses for encrypting documents with passwords.
 
 _expression_. `SetPasswordEncryptionOptions`( `_PasswordEncryptionProvider_` , `_PasswordEncryptionAlgorithm_` , `_PasswordEncryptionKeyLength_` , `_PasswordEncryptionFileProperties_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

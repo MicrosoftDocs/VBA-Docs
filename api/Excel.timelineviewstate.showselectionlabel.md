@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TimelineViewState.ShowSelectionLabel property (Excel)
 
-Get or set whether the control's filter selection label is displayed.  **Boolean** Read/Write
+Get or set whether the control's filter selection label is displayed.  Read/write **Boolean**.
 
 
 ## Syntax

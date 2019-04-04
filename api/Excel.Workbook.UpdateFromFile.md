@@ -21,7 +21,7 @@ Updates a read-only workbook from the saved disk version of the workbook if the 
 
 _expression_. `UpdateFromFile`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks

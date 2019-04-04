@@ -21,7 +21,7 @@ Returns the set of SmartArt layouts that are currently loaded in the application
 
 _expression_. `SmartArtLayouts`
 
-_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Return value

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TableObject.EnableEditing property (Excel)
 
- **True** if the user can edit the specified query table. **False** if the user can only refresh the query table. **Boolean** Read/Write
+ **True** if the user can edit the specified query table. **False** if the user can only refresh the query table. Read/write **Boolean**.
 
 
 ## Syntax

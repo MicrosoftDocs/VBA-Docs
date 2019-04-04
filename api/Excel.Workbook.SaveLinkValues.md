@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Workbook.SaveLinkValues property (Excel)
 
- **True** if Microsoft Excel saves external link values with the workbook. Read/write **Boolean**.
+**True** if Microsoft Excel saves external link values with the workbook. Read/write **Boolean**.
 
 
 ## Syntax
 
 _expression_. `SaveLinkValues`
 
-_expression_ A variable that represents a [Workbook](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example

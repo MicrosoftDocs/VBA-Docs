@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotTable.SmallGrid property (Excel)
 
- **True** if Microsoft Excel uses a grid that's two cells wide and two cells deep for a newly created PivotTable report. **False** if Excel uses a blank stencil outline. Read/write **Boolean**.
+**True** if Microsoft Excel uses a grid that's two cells wide and two cells deep for a newly created PivotTable report. **False** if Excel uses a blank stencil outline. Read/write **Boolean**.
 
 
 ## Syntax
