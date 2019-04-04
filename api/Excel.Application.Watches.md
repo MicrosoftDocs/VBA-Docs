@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Application.Watches
 ms.assetid: 487c5cad-67bf-3bc9-dbc4-6bd8a105ed5e
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.Watches property (Excel)
 
-Returns a  **[Watches](Excel.Watches.md)** object representing a range which is tracked when the worksheet is recalculated.
+Returns a **[Watches](Excel.Watches.md)** object representing a range that is tracked when the worksheet is recalculated.
 
 
 ## Syntax
 
-_expression_. `Watches`
+_expression_.**Watches**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example
 
-This example creates a summation formula in cell A3, and then adds this cell to the Watch Window.
-
+This example creates a summation formula in cell A3, and then adds this cell to the Watch window.
 
 ```vb
 Sub AddWatch() 
@@ -42,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
