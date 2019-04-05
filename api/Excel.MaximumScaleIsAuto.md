@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MaximumScaleIsAuto Property
 
- **True** if Microsoft Graph calculates the maximum value for the axis. Read/write **Boolean**.
+ **True** if Graph calculates the maximum value for the axis. Read/write **Boolean**.
 
 
 ## Remarks

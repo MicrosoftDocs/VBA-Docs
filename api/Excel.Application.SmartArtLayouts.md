@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.SmartArtLayouts property (Excel)
 
-Returns the set of SmartArt layouts that are currently loaded in the application. Read-only.
+Returns the set of **[SmartArtLayouts](Office.SmartArtLayouts.md)** that are currently loaded in the application. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,7 @@ _expression_.**SmartArtLayouts**
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
-## Return value
 
- **[SmartArtLayouts](Office.SmartArtLayouts.md)**
 
 
 

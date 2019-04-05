@@ -14,16 +14,16 @@ localization_priority: Normal
 
 # Version Property
 
-Returns the Microsoft Graph version number. Read-only  **String**.
+Returns the Graph version number. Read-only  **String**.
 
 
 ## Example
 
-This example displays a message box that contains the Microsoft Graph version number.
+This example displays a message box that contains the Graph version number.
 
 
 ```vb
-MsgBox "Welcome to Microsoft Graph version " & _ 
+MsgBox "Welcome to Graph version " & _ 
  myChart.Application.Version
 ```
 

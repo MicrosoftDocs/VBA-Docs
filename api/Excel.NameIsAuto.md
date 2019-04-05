@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # NameIsAuto Property
 
- **True** if Microsoft Graph automatically determines the name of the trendline. Read/write **Boolean**.
+ **True** if Graph automatically determines the name of the trendline. Read/write **Boolean**.
 
 
 ## Example
 
-This example sets Microsoft Graph to automatically determine the name for trendline one. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets Graph to automatically determine the name for trendline one. The example should be run on a 2-D column chart that contains a single series with a trendline.
 
 
 ```vb

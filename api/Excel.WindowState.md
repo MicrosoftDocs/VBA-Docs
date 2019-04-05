@@ -29,7 +29,7 @@ _expression_. `WindowState`
 
 ## Example
 
-This example maximizes the Microsoft Graph application window.
+This example maximizes the Graph application window.
 
 
 ```vb

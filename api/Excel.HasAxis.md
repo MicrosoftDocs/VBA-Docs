@@ -36,7 +36,7 @@ _expression_. `HasAxis`( `_Index1_`,  `_Index2_`)
 
 ## Remarks
 
-Microsoft Graph may create or delete axes if you change the chart type or change the  **[AxisGroup](Excel.AxisGroup.md)** property.
+Graph may create or delete axes if you change the chart type or change the  **[AxisGroup](Excel.AxisGroup.md)** property.
 
 
 ## Example

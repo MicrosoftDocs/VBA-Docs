@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # CorrectSentenceCap Property
 
- **True** if Microsoft Graph automatically corrects sentence (first word) capitalization. Read/write **Boolean**.
+ **True** if Graph automatically corrects sentence (first word) capitalization. Read/write **Boolean**.
 
 
 ## Example
 
-This example enables Microsoft Graph to automatically correct sentence capitalization.
+This example enables Graph to automatically correct sentence capitalization.
 
 
 ```vb

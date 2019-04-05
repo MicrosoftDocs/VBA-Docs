@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # CorrectCapsLock Property
 
- **True** if Microsoft Graph automatically corrects accidental use of the CAPS LOCK key. Read/write **Boolean**.
+ **True** if Graph automatically corrects accidental use of the CAPS LOCK key. Read/write **Boolean**.
 
 
 ## Example
 
-This example enables Microsoft Graph to automatically correct accidental use of the CAPS LOCK key.
+This example enables Graph to automatically correct accidental use of the CAPS LOCK key.
 
 
 ```vb

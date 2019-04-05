@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Example
 
-This example causes Microsoft Graph to draw 2-D gridlines for the chart.
+This example causes Graph to draw 2-D gridlines for the chart.
 
 
 ```vb

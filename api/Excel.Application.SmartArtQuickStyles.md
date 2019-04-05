@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.SmartArtQuickStyles property (Excel)
 
-Returns the set of SmartArt quick styles that are currently loaded in the application. Read-only.
+Returns the set of **[SmartArtQuickStyles](Office.SmartArtQuickStyles.md)** that are currently loaded in the application. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,7 @@ _expression_.**SmartArtQuickStyles**
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
-## Return value
 
-**[SmartArtQuickStyles](Office.SmartArtQuickStyles.md)**
 
 
 

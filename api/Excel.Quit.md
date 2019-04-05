@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Quit Method
 
-Quits Microsoft Graph.
+Quits Graph.
 
 _expression_. `Quit`
 
@@ -23,7 +23,7 @@ _expression_. `Quit`
 
 ## Example
 
-This example quits Microsoft Graph.
+This example quits Graph.
 
 
 ```vb

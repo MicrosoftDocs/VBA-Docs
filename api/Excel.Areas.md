@@ -24,7 +24,7 @@ There's no singular **Area** object; individual members of the **Areas** collect
 
 ## Example
 
-Use the **[Areas](excel.range.areas.md)** property to return the **Areas** collection. The following example clears the current selection if it contains more than one area.
+Use the **[Areas](excel.range.areas.md)** property of the **Range** object to return the **Areas** collection. The following example clears the current selection if it contains more than one area.
 
 ```vb
 If Selection.Areas.Count <> 1 Then Selection.Clear

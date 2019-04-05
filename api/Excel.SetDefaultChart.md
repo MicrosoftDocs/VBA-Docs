@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SetDefaultChart Method
 
-Specifies the name of the chart template that Microsoft Graph will use when creating new charts.
+Specifies the name of the chart template that Graph will use when creating new charts.
 
 _expression_. `SetDefaultChart`( `_FormatName_`,  `_Gallery_`)
 

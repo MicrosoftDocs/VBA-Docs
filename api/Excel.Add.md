@@ -40,7 +40,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
  **Intercept** Optional **Variant**. The trendline intercept. If this argument is omitted, the intercept is automatically set by the regression.
  **DisplayEquation** Optional **Variant**.  **True** to display the equation of the trendline on the chart (in the same data label as the R-squared value). The default value is **False**.
  **DisplayRSquared** Optional **Variant**.  **True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default value is **False**.
- **Name** Optional **Variant**. The name of the trendline, as text. If this argument is omitted, Microsoft Graph generates a name.
+ **Name** Optional **Variant**. The name of the trendline, as text. If this argument is omitted, Graph generates a name.
 
 ## Example
 

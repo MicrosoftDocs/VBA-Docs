@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Example
 
-This example sets Microsoft Graph to automatically correct words that begin with two capital letters.
+This example sets Graph to automatically correct words that begin with two capital letters.
 
 
 ```vb

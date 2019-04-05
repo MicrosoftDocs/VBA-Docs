@@ -19,7 +19,7 @@ Returns or sets the number of categories or series between tick-mark labels. App
 
 ## Remarks
 
-Tick-mark label spacing on the value axis is always calculated by Microsoft Graph.
+Tick-mark label spacing on the value axis is always calculated by Graph.
 
 
 ## Example

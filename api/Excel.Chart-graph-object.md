@@ -14,11 +14,11 @@ localization_priority: Normal
 
 # Chart object (Excel Graph)
 
-Represents the specified Microsoft Graph chart.
+Represents the specified Graph chart.
 
 
 ## Using the Chart Object
 
-Use the  **Chart** property to return a **Chart** object. Most of the time, you'll create a reference to a Microsoft Graph chart and then use the reference in your code.
+Use the  **Chart** property to return a **Chart** object. Most of the time, you'll create a reference to a Graph chart and then use the reference in your code.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

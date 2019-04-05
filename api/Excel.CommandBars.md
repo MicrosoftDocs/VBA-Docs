@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CommandBars Property
 
-Returns a CommandBars object that represents the Microsoft Graph command bars. Read-only CommandBars object.
+Returns a CommandBars object that represents the Graph command bars. Read-only CommandBars object.
 
 _expression_. `CommandBars`
 

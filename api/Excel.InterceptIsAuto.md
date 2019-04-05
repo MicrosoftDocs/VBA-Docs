@@ -24,7 +24,7 @@ Setting the  **[Intercept](Excel.Intercept.md)** property sets this property to 
 
 ## Example
 
-This example sets Microsoft Graph to automatically determine the trendline intercept point. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets Graph to automatically determine the trendline intercept point. The example should be run on a 2-D column chart that contains a single series with a trendline.
 
 
 ```vb

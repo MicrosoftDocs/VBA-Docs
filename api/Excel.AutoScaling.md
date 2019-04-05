@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoScaling property (Excel Graph)
 
-True if Microsoft Graph scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The RightAngleAxes property must be True. Read/write Boolean.
+True if Graph scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The RightAngleAxes property must be True. Read/write Boolean.
 
 _expression_. `AutoScaling`
 

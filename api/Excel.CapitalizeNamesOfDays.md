@@ -23,7 +23,7 @@ _expression_. `CapitalizeNamesOfDays`
 
 ## Example
 
-This example sets Microsoft Graph to capitalize the first letter of the names of days.
+This example sets Graph to capitalize the first letter of the names of days.
 
 
 ```vb

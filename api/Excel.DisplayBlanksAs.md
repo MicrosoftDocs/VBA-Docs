@@ -29,7 +29,7 @@ _expression_. `DisplayBlanksAs`
 
 ## Example
 
-This example sets Microsoft Graph to not plot blank cells.
+This example sets Graph to not plot blank cells.
 
 
 ```vb

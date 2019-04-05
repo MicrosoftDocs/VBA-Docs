@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Creator Property
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. If the object was created in Microsoft Graph, this property returns the string MSGR, which is equivalent to the hexadecimal number 4D534752. Read-only XlCreator.
+Returns a 32-bit integer that indicates the application in which the specified object was created. If the object was created in Graph, this property returns the string MSGR, which is equivalent to the hexadecimal number 4D534752. Read-only XlCreator.
 
 
 
@@ -32,9 +32,9 @@ This example displays a message about the creator of  `myChart`.
 
 ```vb
 If myChart.Creator = &h4D534752 Then 
-    MsgBox "This is a Microsoft Graph object" 
+    MsgBox "This is a Graph object" 
 Else 
-    MsgBox "This is not a Microsoft Graph object" 
+    MsgBox "This is not a Graph object" 
 End If
 ```
 

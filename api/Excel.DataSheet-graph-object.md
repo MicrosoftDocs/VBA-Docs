@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataSheet Object
 
-Represents the Microsoft Graph datasheet.
+Represents the Graph datasheet.
 
 
 ## Using the DataSheet Object

@@ -30,7 +30,7 @@ _expression_.**Delete**(**_Shift_**)
 
 |XlDeleteShiftDirection can be one of these XlDeleteShiftDirection constants.|
 | **xlShiftToLeft**|
-| **xlShiftUp** If this argument is omitted, Microsoft Graph decides how to shift cells based on the shape of the specified range.|
+| **xlShiftUp** If this argument is omitted, Graph decides how to shift cells based on the shape of the specified range.|
 
 ## Remarks
 

@@ -21,7 +21,7 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 |XlAxisCrosses can be one of these XlAxisCrosses constants.|
 | **xlAxisCrossesCustom**. The  **[CrossesAt](Excel.CrossesAt.md)** property specifies the axis crossing point.|
 | **xlAxisCrossesMinimum**. The axis crosses at the minimum value.|
-| **xlAxisCrossesAutomatic**. Microsoft Graph sets the axis crossing point.|
+| **xlAxisCrossesAutomatic**. Graph sets the axis crossing point.|
 | **xlAxisCrossesMaximum**. The axis crosses at the maximum value.|
 
 _expression_. `Crosses`

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReversePlotOrder Property
 
- **True** if Microsoft Graph plots data points from last to first. Read/write **Boolean**.
+ **True** if Graph plots data points from last to first. Read/write **Boolean**.
 
 
 ## Remarks

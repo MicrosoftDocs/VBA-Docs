@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Objects (Graph Visual Basic reference)
 
-This section provides reference information about the objects in the Microsoft Graph object model.
+This section provides reference information about the objects in the Graph object model.
 
 
 ## Are you viewing Help in a Microsoft Office product?

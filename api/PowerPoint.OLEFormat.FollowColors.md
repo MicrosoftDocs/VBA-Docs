@@ -31,7 +31,7 @@ PpFollowColors
 
 ## Remarks
 
-The specified object must be a chart created in either Microsoft Graph or Microsoft Organization Chart. 
+The specified object must be a chart created in either Graph or Microsoft Organization Chart. 
 
 The value of the  **FollowColors** property can be one of these **PpFollowColors** constants.
 
@@ -46,7 +46,7 @@ The value of the  **FollowColors** property can be one of these **PpFollowColors
 
 ## Example
 
-This example specifies that the text and background of shape two on slide one in the active presentation follow the slide's color scheme. Shape two must be a chart created in either Microsoft Graph or Microsoft Organization Chart.
+This example specifies that the text and background of shape two on slide one in the active presentation follow the slide's color scheme. Shape two must be a chart created in either Graph or Microsoft Organization Chart.
 
 
 ```vb

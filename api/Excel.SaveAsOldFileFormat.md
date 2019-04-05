@@ -25,7 +25,7 @@ _expression_. `SaveAsOldFileFormat( _MajorVersion_`,  `_MinorVersion)_`
 
 ## Example
 
-This example saves the chart in Microsoft Graph version 5.0 file format.
+This example saves the chart in Graph version 5.0 file format.
 
 
 ```vb

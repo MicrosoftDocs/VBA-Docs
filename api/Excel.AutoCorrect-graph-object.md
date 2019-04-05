@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # AutoCorrect object (Excel Graph)
 
-Contains Microsoft Graph AutoCorrect attributes (capitalization of names of days, correction of two initial capital letters, automatic correction list, and so on).
+Contains Graph AutoCorrect attributes (capitalization of names of days, correction of two initial capital letters, automatic correction list, and so on).
 
 
 ## Using the AutoCorrect Object
 
-Use the  **[AutoCorrect](Excel.AutoCorrect-graph-property.md)** property to return the  **AutoCorrect** object. The following example sets Microsoft Graph to correct words that begin with two initial capital letters.
+Use the  **[AutoCorrect](Excel.AutoCorrect-graph-property.md)** property to return the  **AutoCorrect** object. The following example sets Graph to correct words that begin with two initial capital letters.
 
 
 ```vb

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Top property as it applies to the  **Application** object.
 
-Returns or sets the position of the Application object. The distance from the top edge of the screen to the top edge of the main Microsoft Graph window. In Windows, if the application window is minimized, this property controls the position of the window icon (anywhere on the screen). Read/write Double.
+Returns or sets the position of the Application object. The distance from the top edge of the screen to the top edge of the main Graph window. In Windows, if the application window is minimized, this property controls the position of the window icon (anywhere on the screen). Read/write Double.
 
 _expression_.**Top**
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.SmartArtColors property (Excel)
 
-Returns the set of color styles that are currently loaded in the application. Read-only.
+Returns the set of **[SmartArtColors](Office.SmartArtColors.md)** styles that are currently loaded in the application. Read-only.
 
 
 ## Syntax
@@ -24,9 +24,7 @@ _expression_.**SmartArtColors**
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
-## Return value
 
-**[SmartArtColors](Office.SmartArtColors.md)**
 
 
 

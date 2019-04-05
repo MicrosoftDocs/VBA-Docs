@@ -27,7 +27,7 @@ _expression_. `Insert`( `_Shift_`)
 
 |XlInsertShiftDirection can be one of these XlInsertShiftDirection constants.|
 | **xlShiftToRight**|
-| **xlShiftDown**If this argument is omitted, Microsoft Graph decides based on the shape of the range.|
+| **xlShiftDown**If this argument is omitted, Graph decides based on the shape of the range.|
 
 ## Example
 

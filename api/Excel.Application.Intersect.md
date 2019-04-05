@@ -31,8 +31,8 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|The intersecting ranges. At least two **Range** objects must be specified.|
 | _Arg2_|Required| **Range**|The intersecting ranges. At least two **Range** objects must be specified.|
-| _Arg3_|Optional| **Variant**|An intersecting range.|
-| _Arg4_...|Optional| **Variant**|An intersecting range.|
+| _Arg3_&ndash;_Arg30_|Optional| **Variant**|An intersecting range.|
+
 
 
 ## Return value

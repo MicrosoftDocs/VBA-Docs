@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # InvertIfNegative Property
 
-True if Microsoft Graph inverts the pattern in the item when it corresponds to a negative number. Read/write Boolean for all objects, except for the Interior object, which is read/write Variant.
+True if Graph inverts the pattern in the item when it corresponds to a negative number. Read/write Boolean for all objects, except for the Interior object, which is read/write Variant.
 
 _expression_. `InvertIfNegative`
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MinorUnitIsAuto Property
 
- **True** if Microsoft Graph calculates minor units for the axis. Read/write **Boolean**.
+ **True** if Graph calculates minor units for the axis. Read/write **Boolean**.
 
 
 ## Remarks

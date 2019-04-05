@@ -9,6 +9,6 @@ localization_priority: Normal
 
 # Collections (Graph Visual Basic reference)
 
-This section provides reference information about the collections in the Microsoft Graph object model.
+This section provides reference information about the collections in the Graph object model.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

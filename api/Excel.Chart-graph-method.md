@@ -14,6 +14,6 @@ localization_priority: Normal
 
 # Chart method (Excel Graph)
 
-Returns a  **Chart** object that represents the Microsoft Graph chart.
+Returns a  **Chart** object that represents the Graph chart.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

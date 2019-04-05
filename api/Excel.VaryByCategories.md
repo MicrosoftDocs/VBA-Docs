@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # VaryByCategories Property
 
- **True** if Microsoft Graph assigns a different color or pattern to each data marker. The chart must contain only one series. Read/write **Boolean**.
+ **True** if Graph assigns a different color or pattern to each data marker. The chart must contain only one series. Read/write **Boolean**.
 
 
 ## Example

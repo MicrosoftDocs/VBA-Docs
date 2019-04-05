@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MinimumScaleIsAuto Property
 
- **True** if Microsoft Graph calculates the minimum value for the axis. Read/write **Boolean**.
+ **True** if Graph calculates the minimum value for the axis. Read/write **Boolean**.
 
 
 ## Remarks

@@ -14,17 +14,17 @@ localization_priority: Normal
 
 # Evaluate Method
 
-Converts a Microsoft Graph name to an object or a value.
+Converts a Graph name to an object or a value.
 
 _expression_. `Evaluate( _Name_)`
 
- _expression_ Required. An expression that returns a Microsoft Graph [Application](Excel.Application-graph-property.md) object.
+ _expression_ Required. An expression that returns a Graph [Application](Excel.Application-graph-property.md) object.
 
- **Name** Required **String**. The name of the specified object, using the Microsoft Graph naming convention.
+ **Name** Required **String**. The name of the specified object, using the Graph naming convention.
 
 ## Remarks
 
-You can use the following types of names in Microsoft Graph with this method:
+You can use the following types of names in Graph with this method:
 
 
 - A1-style references. You can use any reference to a single cell in A1-style notation. All references are considered to be absolute references.

@@ -25,7 +25,7 @@ Copy method as it applies to the  **Range** object.
 Copies the Range to the specified range or to the Clipboard.
 _expression_.**Copy**(**_Destination_**)
  _expression_ Required. An expression that returns one of the above objects.
- **Destination** Optional **Variant**. Specifies the new range to which the specified range will be copied. If this argument is omitted, Microsoft Graph copies the range to the Clipboard.
+ **Destination** Optional **Variant**. Specifies the new range to which the specified range will be copied. If this argument is omitted, Graph copies the range to the Clipboard.
 
 ## Example
 
