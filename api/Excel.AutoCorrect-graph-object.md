@@ -29,4 +29,8 @@ With myChart.Application.AutoCorrect
 End With
 ```
 
+## See also
+
+- [AutoCorrect object (Excel)](excel.autocorrect(object).md)
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
