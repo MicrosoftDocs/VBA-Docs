@@ -41,5 +41,9 @@ You can use each of these methods with an index number to return a single **Char
 - **[PieGroups](Excel.PieGroups.md)** 
 
 
+## See also
+
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,6 +33,7 @@ End With
 
 ## See also
 
-- [AutoCorrect object (Excel)](excel.autocorrect(object).md)
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,7 +27,7 @@ With myChart.SeriesCollection(1)
 End With
 ```
 
-Use  **DataLabels** (_index_), where  _index_ is the data label's index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in the chart.
+Use  **DataLabels** (_index_), where _index_ is the data label's index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in the chart.
 
 
 

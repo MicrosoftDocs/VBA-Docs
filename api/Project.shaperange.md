@@ -28,7 +28,7 @@ Most operations that you can do with a  **Shape** object, you can also do with a
 
 ## Examples
 
-You can return a set of shapes that are specified by the index number or by the shape name. Use  `Shapes.Range(index)`, where  _index_ is an array of index numbers or names. For example, both of the following statements are valid:
+You can return a set of shapes that are specified by the index number or by the shape name. Use  `Shapes.Range(index)`, where _index_ is an array of index numbers or names. For example, both of the following statements are valid:
  
 
  

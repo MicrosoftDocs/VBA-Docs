@@ -31,4 +31,9 @@ With myChart.Axes(xlValue).DisplayUnitLabel
 End With
 ```
 
+## See also
+
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,5 +31,9 @@ The following example sets the floor color for the chart to cyan. If the chart i
 myChart.Floor.Interior.Color = RGB(0, 255, 255)
 ```
 
+## See also
+
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

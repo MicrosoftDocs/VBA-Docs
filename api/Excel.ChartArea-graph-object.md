@@ -34,6 +34,9 @@ The following example sets the pattern for the chart area.
 myChart.ChartArea.Interior.Pattern = xlLightDown
 ```
 
+## See also
 
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
