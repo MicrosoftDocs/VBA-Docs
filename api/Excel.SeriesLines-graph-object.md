@@ -1,5 +1,5 @@
 ---
-title: SeriesLines Object (Excel Graph)
+title: SeriesLines object (Excel Graph)
 keywords: vbagr10.chm131201
 f1_keywords:
 - vbagr10.chm131201
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesLines Object (Excel Graph)
+# SeriesLines object (Excel Graph)
 
 Represents series lines in the specified chart group. Series lines connect the data values in each series. Only 2-D stacked-bar or column chart groups can have series lines. This object isn't a collection. There's no object that represents a single series line; either you have series lines turned on for all points in a chart group or you have them turned off.
 

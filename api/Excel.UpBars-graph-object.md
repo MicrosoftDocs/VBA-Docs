@@ -1,5 +1,5 @@
 ---
-title: UpBars Object (Excel Graph)
+title: UpBars object (Excel Graph)
 keywords: vbagr10.chm5208101
 f1_keywords:
 - vbagr10.chm5208101
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UpBars Object (Excel Graph)
+# UpBars object (Excel Graph)
 
 Represents the up bars in a chart group. Up bars connect points in series one with higher values in the last series in the chart group (the lines go up from series one). Only 2-D line groups that contain at least two series can have up bars. This object isn't a collection. There's no object that represents a single up bar; either you have up bars turned on for all points in a chart group or you have them turned off.
 

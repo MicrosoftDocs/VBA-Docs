@@ -19,8 +19,9 @@ Represents the entire Graph application. The **Application** object represents t
 
 ## Remarks
 
-Use the **Application** property to return the **Application** object. 
+Use the **[Application](excel.application-graph-property.md)** property to return the **Application** object. 
 
+Use the **[Update](Excel.Update.md)** method to update the specified embedded object in the host file.
 
 ## Example
 
@@ -30,13 +31,6 @@ The following example applies the **DataSheet** property to the **Application** 
 myChart.Application.DataSheet.Range("A1").Value = 32
 ```
 
-## Methods
-
-- [Update](Excel.Update.md)
-
-## Properties
-
-- [Application](excel.application-graph-property.md)
 
 ## See also
 

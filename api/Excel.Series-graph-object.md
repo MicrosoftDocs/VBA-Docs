@@ -1,5 +1,5 @@
 ---
-title: Series Object (Excel Graph)
+title: Series object (Excel Graph)
 keywords: vbagr10.chm131115
 f1_keywords:
 - vbagr10.chm131115
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Series Object (Excel Graph)
+# Series object (Excel Graph)
 
 Represents a series in the specified chart. The  **Series** object is a member of the **[SeriesCollection](Excel.seriescollection(collection).md)** collection.
 
