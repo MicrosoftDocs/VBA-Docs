@@ -26,7 +26,7 @@ Specifies country/region and international settings.
 | **xlCurrencyDigits**|27|Number of decimal digits to be used in currency formats.|
 | **xlCurrencyLeadingZeros**|40|True if leading zeros are displayed for zero currency values.|
 | **xlCurrencyMinusSign**|38|True if you are using a minus sign for negative numbers; False if you are using parentheses.|
-| **xlCurrencyNegative**|28|Currency format for negative currency values: `0 = (symbolx) or (xsymbol)`, `1 = -symbolx or -xsymbol`, `2 = symbol-x or x-symbol`, or `3 = symbolx- or xsymbol-`, where symbol is the currency symbol of the country or region.<br/><br/>Note that the position of the currency symbol is determined by **xlCurrencyBefore**.|
+| **xlCurrencyNegative**|28|Currency format for negative currency values:<br/>`0 = (symbolx) or (xsymbol)`, `1 = -symbolx or -xsymbol`, `2 = symbol-x or x-symbol`, or `3 = symbolx- or xsymbol-`, where symbol is the currency symbol of the country or region.<br/><br/>Note that the position of the currency symbol is determined by **xlCurrencyBefore**.|
 | **xlCurrencySpaceBefore**|36|True if a space is added before the currency symbol.|
 | **xlCurrencyTrailingZeros**|39|True if trailing zeros are displayed for zero currency values.|
 | **xlDateOrder**|32|Order of date elements: `0 = month-day-year`, `1 = day-month-year`, `2 = year-month-day`|

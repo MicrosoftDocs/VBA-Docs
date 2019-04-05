@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.WorkbookBeforeSave
 ms.assetid: e93a7cef-b018-ddab-c96f-b3215143f31f
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
@@ -16,18 +16,17 @@ localization_priority: Normal
 
 Occurs before any open workbook is saved.
 
-**NOTE:** In Office 365, Excel supports AutoSave, which enables the user's edits to be saved automatically and continuously. Following the guidance in [this article](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md) will ensure that running code in response to the **WorkbookBeforeSave** event will function as intended when AutoSave is enabled.
+> [!NOTE] 
+> In Office 365, Excel supports AutoSave, which enables the user's edits to be saved automatically and continuously. For more information, see [How AutoSave impacts add-ins and macros](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md) to ensure that running code in response to the **WorkbookBeforeSave** event functions as intended when AutoSave is enabled.
 
 ## Syntax
 
-_expression_. `WorkbookBeforeSave`( `_Wb_` , `_SaveAsUI_` , `_Cancel_` )
+_expression_.**WorkbookBeforeSave** (_Wb_, _SaveAsUI_, _Cancel_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -54,11 +53,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
-
-[AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

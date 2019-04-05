@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.WorkbookBeforePrint
 ms.assetid: 27cb5f84-fda3-dc89-6e12-0c31ed16f47c
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Occurs before any open workbook is printed.
 
 ## Syntax
 
-_expression_. `WorkbookBeforePrint`( `_Wb_` , `_Cancel_` )
+_expression_.**WorkbookBeforePrint** (_Wb_, _Cancel_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -42,7 +40,6 @@ Nothing
 
 This example recalculates all worksheets in the workbook before printing anything.
 
-
 ```vb
 Private Sub App_WorkbookBeforePrint(ByVal Wb As Workbook, _ 
  Cancel As Boolean) 
@@ -53,9 +50,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

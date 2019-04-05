@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.WorkbookAddinInstall
 ms.assetid: 955c8f2a-4647-ed7e-29f9-8d6d165898ec
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Occurs when a workbook is installed as an add-in.
 
 ## Syntax
 
-_expression_. `WorkbookAddinInstall`( `_Wb_` )
+_expression_.**WorkbookAddinInstall** (_Wb_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,11 +34,14 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 Nothing
 
+## Remarks
+
+For information about how to use event procedures with the **Application** object, see [Using events with the Application object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+
 
 ## Example
 
 This example maximizes the Microsoft Excel window when a workbook is installed as an add-in.
-
 
 ```vb
 Private Sub App_WorkbookAddinInstall(ByVal Wb As Workbook) 
@@ -49,9 +50,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

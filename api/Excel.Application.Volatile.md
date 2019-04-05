@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.Volatile
 ms.assetid: 27047561-9d76-b37d-100d-1c58e6edf494
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
@@ -19,23 +19,20 @@ Marks a user-defined function as volatile. A volatile function must be recalcula
 
 ## Syntax
 
-_expression_. `Volatile`( `_Volatile_` )
+_expression_.**Volatile** (_Volatile_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Volatile_|Optional| **Variant**| **True** to mark the function as volatile. **False** to mark the function as nonvolatile. The default value is **True**|
+| _Volatile_|Optional| **Variant**| **True** to mark the function as volatile. **False** to mark the function as nonvolatile. The default value is **True**.|
 
 ## Example
 
-This example marks the user-defined function "My_Func" as volatile. The function will be recalculated when any cell in any workbook in the application window changes value. Recalculation of the function is not restricted to changes or calculation cycles in the worksheet for which this function applies. Therefore, use it moderately to avoid calculation lag.
-
+This example marks the user-defined function _My\_Func_ as volatile. The function will be recalculated when any cell in any workbook in the application window changes value. Recalculation of the function is not restricted to changes or calculation cycles in the worksheet for which this function applies. Therefore, use it moderately to avoid calculation lag.
 
 ```vb
 Function My_Func() 
@@ -47,9 +44,6 @@ End Function
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

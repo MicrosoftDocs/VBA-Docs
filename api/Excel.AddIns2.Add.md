@@ -29,7 +29,7 @@ _expression_ A variable that returns an **[AddIns2](Excel.AddIns2.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the file that contains the add-in to add to the list in the **Add-Ins** dialog box.|
-| _CopyFile_|Optional| **Variant**| If the add-in file is on a removable medium, specifies whether to copy the add-in to the local hard disk. Specify **True** to copy the add-in to your hard disk. Specify **False** to keep the add-in on the removable medium. If this argument is omitted, Microsoft Excel displays a dialog box and asks the user to choose whether to copy the add-in file. This parameter is ignored if the add-in file is already on the hard disk.|
+| _CopyFile_|Optional| **Variant**| If the add-in file is on a removable medium, specifies whether to copy the add-in to the local hard disk. Specify **True** to copy the add-in to your hard disk. Specify **False** to keep the add-in on the removable medium.<br/><br/> If this argument is omitted, Microsoft Excel displays a dialog box and asks the user to choose whether to copy the add-in file. This parameter is ignored if the add-in file is already on the hard disk.|
 
 ## Return value
 

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TextConnection.TextFilePromptOnRefresh property (Excel)
 
- **True** if you want to specify the name of the imported text file each time the query table is refreshed. The **Import Text File** dialog box allows you to specify the path and file name. The default value is **False**. Read/Write **Boolean**.
+ **True** if you want to specify the name of the imported text file each time the query table is refreshed. The **Import Text File** dialog box allows you to specify the path and file name. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

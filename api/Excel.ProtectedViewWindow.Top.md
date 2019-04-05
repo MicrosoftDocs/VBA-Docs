@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Top property (Excel)
 
-Returns or sets a value that represents the distance, in points, from the top edge of the specified  **Protected View** window to the top edge of the usable area. Read/write
+Returns or sets a value that represents the distance, in points, from the top edge of the specified Protected View window to the top edge of the usable area. Read/write
 
 
 ## Syntax
 
 _expression_.**Top**
 
-_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Return value
@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[ProtectedViewWindow](Excel.Protected
 
 ## Remarks
 
-You cannot set this property for a maximized  **Protected View** window. Use the **[WindowState](Excel.ProtectedViewWindow.WindowState.md)** property to return or set the state of the window.
+You cannot set this property for a maximized Protected View window. Use the **[WindowState](Excel.ProtectedViewWindow.WindowState.md)** property to return or set the state of the window.
 
 
 ## See also

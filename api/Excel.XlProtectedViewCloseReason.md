@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlProtectedViewCloseReason enumeration (Excel)
 
-Specifies how the  **Protected View** window was closed.
+Specifies how the Protected View window was closed.
 
 
 

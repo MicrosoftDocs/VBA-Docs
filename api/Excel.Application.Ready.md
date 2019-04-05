@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Application.Ready
 ms.assetid: 4b9577ee-0f0c-dd0b-c1dd-90cde2c5fb1e
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.Ready property (Excel)
 
-Returns  **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean**. 
+Returns **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean**. 
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Example
 
-In this example, Microsoft Excel checks to see if the  **Ready** property is set to **True**, and if so, a message displays "Application is ready." Otherwise, Excel displays the message "Application is not ready."
-
+In this example, Excel checks to see if the **Ready** property is set to **True**, and if so, a message displays "Application is ready." Otherwise, Excel displays the message "Application is not ready."
 
 ```vb
 Sub UseReady() 
@@ -42,9 +41,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

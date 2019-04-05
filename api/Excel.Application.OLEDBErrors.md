@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Application.OLEDBErrors
 ms.assetid: 0a42417f-f8b6-10bf-712a-44c1107f0f3e
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.OLEDBErrors property (Excel)
 
-Returns the  **[OLEDBErrors](Excel.OLEDBErrors.md)** collection, which represents the error information returned by the most recent OLE DB query. Read-only.
+Returns the **[OLEDBErrors](Excel.OLEDBErrors.md)** collection, which represents the error information returned by the most recent OLE DB query. Read-only.
 
 
 ## Syntax
 
-_expression_. `OLEDBErrors`
+_expression_.**OLEDBErrors**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example
 
-This example displays the error description and  **SqlState** property value for an OLE DB error returned by the most recent OLE DB query.
-
+This example displays the error description and **SqlState** property value for an OLE DB error returned by the most recent OLE DB query.
 
 ```vb
 Set objEr = Application.OLEDBErrors.Item(1) 
@@ -36,9 +35,6 @@ MsgBox "The following error occurred:" & _
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

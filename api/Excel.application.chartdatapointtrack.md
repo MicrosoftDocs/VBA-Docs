@@ -22,7 +22,7 @@ _expression_.**ChartDataPointTrack**
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
-## Notes
+## Remarks
 
 Data labels now track the _actual_ data point to which they are attached (as opposed to the legacy behavior of tracking the _index_ of the data point), allowing the label-to-point relationship to persist across events such as filter and sort.
 

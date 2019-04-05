@@ -30,7 +30,7 @@ _expression_. `AddTextbox`( `_Orientation_`, `_Left_`, `_Top_`, `_Width_`, `_Hei
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Orientation_|Required|**[MsoTextOrientation](Office.MsoTextOrientation.md)**|The text orientation. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _Orientation_|Required|**[MsoTextOrientation](Office.MsoTextOrientation.md)**|The text orientation. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _Left_|Required|**Single**|The position, measured in points, of the left edge of the text box relative to the left edge of the slide.|
 | _Top_|Required|**Single**|The position, measured in points, of the top edge of the text box relative to the top edge of the slide.|
 | _Width_|Required|**Single**|The width of the text box, measured in points.|

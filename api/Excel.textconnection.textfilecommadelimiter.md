@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TextConnection.TextFileCommaDelimiter property (Excel)
 
- **True** if the comma is the delimiter when you import a text file into a query table. **False** if you want to use some other character as the delimiter. The default value is **False**. Read/Write **Boolean**.
+ **True** if the comma is the delimiter when you import a text file into a query table. **False** if you want to use some other character as the delimiter. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

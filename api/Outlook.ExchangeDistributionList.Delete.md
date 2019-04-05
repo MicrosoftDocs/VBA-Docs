@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ExchangeDistributionList.Delete method (Outlook)
 
-Deletes the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object from the **[AddressEntries](Outlook.AddressEntries.md)** collection object to which it belongs.
+Deletes the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object from the **[AddressEntries](Outlook.AddressEntries.md)** collection object to which it belongs.
 
 
 ## Syntax
@@ -26,7 +26,9 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 ## Remarks
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. An **ExchangeDistributionList** object is an **AddressEntry** object that has **olExchangeDistributionListAddressEntry** as the **[AddressEntry.AddressEntryUserType](Outlook.AddressEntry.AddressEntryUserType.md)** ; calling **[AddressEntry.GetExchangeDistributionList](Outlook.AddressEntry.GetExchangeDistributionList.md)** returns the corresponding **ExchangeDistributionList** object.
+The **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. 
+
+An **ExchangeDistributionList** object is an **AddressEntry** object that has **olExchangeDistributionListAddressEntry** as the **[AddressEntry.AddressEntryUserType](Outlook.AddressEntry.AddressEntryUserType.md)**; calling **[AddressEntry.GetExchangeDistributionList](Outlook.AddressEntry.GetExchangeDistributionList.md)** returns the corresponding **ExchangeDistributionList** object.
 
 
 ## See also

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Application.Value
 ms.assetid: 298063f3-d2b3-ba55-7dcd-7419093094fb
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.Value property (Excel)
 
-Returns a  **String** value that represents the name of the application.
+Returns a **String** value that represents the name of the application.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-This property always returns "Microsoft Excel".
+This property always returns "Microsoft Excel."
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

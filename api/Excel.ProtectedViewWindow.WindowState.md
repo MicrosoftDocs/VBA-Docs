@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ProtectedViewWindow.WindowState property (Excel)
 
-Returns or sets the state of the specified  **Protected View** window. Read/write
+Returns or sets the state of the specified Protected View window. Read/write
 
 
 ## Syntax
 
 _expression_. `WindowState`
 
-_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Return value
@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[ProtectedViewWindow](Excel.Protected
 
 ## Example
 
-The following code example maximizes the active  **Protected View** window.
+The following code example maximizes the active Protected View window.
 
 
 ```vb

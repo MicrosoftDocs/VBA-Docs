@@ -511,7 +511,7 @@ The better use you make of smart recalculation and multithreaded calculation in 
   - Any database function (DSUM, DAVERAGE, and so on) that refers to a pivot table
   - ERROR.TYPE
   - HYPERLINK
-  - VBA and COM add-in user defined functions
+  - VBA and COM add-in user-defined functions
 
 - Avoid iterative use of data tables and circular references: both of these always calculate single-threaded.
 

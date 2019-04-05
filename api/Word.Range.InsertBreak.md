@@ -36,7 +36,7 @@ _expression_. `InsertBreak`( `_Type_` )
 
 When you insert a page or column break, the range is replaced by the break. If you don't want to replace the range, use the  **Collapse** method before using the **InsertBreak** method. When you insert a section break, the break is inserted immediately preceding the **Range**.
 
-Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.
+Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
 
 ## Example

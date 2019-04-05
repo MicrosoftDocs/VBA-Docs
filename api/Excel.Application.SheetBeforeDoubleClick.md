@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.SheetBeforeDoubleClick
 ms.assetid: 969394a3-2c87-36a5-2d64-521bad8849be
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Occurs when any worksheet is double-clicked, before the default double-click act
 
 ## Syntax
 
-_expression_. `SheetBeforeDoubleClick`( `_Sh_` , `_Target_` , `_Cancel_` )
+_expression_.**SheetBeforeDoubleClick** (_Sh_, _Target_, _Cancel_)
 
- _expression_ An expression that returns an **[Application](Excel.Application(object).md)** object.
+_expression_ An expression that returns an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,9 +37,6 @@ _expression_. `SheetBeforeDoubleClick`( `_Sh_` , `_Target_` , `_Cancel_` )
 This event doesn't occur on chart sheets.
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

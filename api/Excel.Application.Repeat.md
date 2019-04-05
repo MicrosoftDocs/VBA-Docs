@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.Repeat
 ms.assetid: ce8f6340-174e-b6cf-0f99-f39be2cde5c2
-ms.date: 06/08/2017
+ms.date: 04/05/2019
 localization_priority: Normal
 ---
 
@@ -33,15 +33,11 @@ This method repeats only the last action taken by the user before running the ma
 
 This example repeats the last user-interface command. The example must be the first line in a macro.
 
-
 ```vb
 Application.Repeat
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

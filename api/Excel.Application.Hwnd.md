@@ -1,5 +1,5 @@
 ---
-title: Application.Hwnd property (Excel)
+title: Application.hWnd property (Excel)
 keywords: vbaxl10.chm133277
 f1_keywords:
 - vbaxl10.chm133277
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# Application.Hwnd property (Excel)
+# Application.hWnd property (Excel)
 
 Returns a **Long** indicating the top-level window handle of the Microsoft Excel window. Read-only.
 
 
 ## Syntax
 
-_expression_.**Hwnd**
+_expression_.**hWnd**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
@@ -32,7 +32,7 @@ In this example, Microsoft Excel notifies the user of the top-level window handl
 Sub CheckHwnd() 
  
  MsgBox "The top-level window handle is: " & _ 
- Application.Hwnd 
+ Application.hWnd 
  
 End Sub
 ```

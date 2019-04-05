@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.MoveRemaining property (Project)
 
- **True** if the remaining portion of a task that is scheduled before the status date is moved to start at the status date. Read/Write **Boolean**.
+ **True** if the remaining portion of a task that is scheduled before the status date is moved to start at the status date. Read/write **Boolean**.
 
 
 ## Syntax

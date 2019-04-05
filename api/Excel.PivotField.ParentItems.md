@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** 
 
 ## Remarks
 
-This property isn?t available for OLAP data sources.
+This property isn't available for OLAP data sources.
 
 
 ## Example

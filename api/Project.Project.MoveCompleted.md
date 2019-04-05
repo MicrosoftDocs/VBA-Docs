@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Project.MoveCompleted property (Project)
 
- **True** if a task that is scheduled after the status date has actual progress entered against it and the actual, completed portion of the task is moved so the completed work ends on the status date. Read/Write **Boolean**.
+ **True** if a task that is scheduled after the status date has actual progress entered against it and the actual, completed portion of the task is moved so the completed work ends on the status date. Read/write **Boolean**.
 
 
 ## Syntax

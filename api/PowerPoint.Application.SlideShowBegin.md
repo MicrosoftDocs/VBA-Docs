@@ -19,7 +19,7 @@ Occurs when you start a slide show.
 
 ## Syntax
 
-_expression_. `SlideShowBegin`( `_Wn_` )
+_expression_. `SlideShowBegin`(_Wn_)
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

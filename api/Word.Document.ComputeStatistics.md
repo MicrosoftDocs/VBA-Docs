@@ -35,7 +35,7 @@ _expression_. `ComputeStatistics`( `_Statistic_` , `_IncludeFootnotesAndEndnotes
 
 ## Remarks
 
-Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.
+Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
 
 ## Example

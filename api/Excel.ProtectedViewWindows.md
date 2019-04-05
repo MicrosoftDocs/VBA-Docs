@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindows object (Excel)
 
-A collection of the **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** objects that represent all the **Protected View** windows that are currently open in the application.
+A collection of the **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** objects that represent all the Protected View windows that are currently open in the application.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ Use the **[ProtectedViewWindows](Excel.Application.ProtectedViewWindows.md)** pr
 
 ## Example
 
-The following code example displays the number of **Protected View** windows that are open.
+The following code example displays the number of Protected View windows that are open.
 
 ```vb
 MsgBox "There are " & ProtectedViewWindows.Count & _ 

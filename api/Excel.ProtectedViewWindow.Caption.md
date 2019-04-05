@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Caption property (Excel)
 
-Returns or sets a  **Variant** value that represents the name that appears in the title bar of the **Protected View** window. Read/write
+Returns or sets a  **Variant** value that represents the name that appears in the title bar of the Protected View window. Read/write
 
 
 ## Syntax
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Example
 
-The following code example displays the name (**Caption** property) of the active **Protected View** window.
+The following code example displays the name (**Caption** property) of the active Protected View window.
 
 
 ```vb

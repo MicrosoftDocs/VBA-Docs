@@ -1,5 +1,5 @@
 ---
-title: Window.Hwnd property (Excel)
+title: Window.hWnd property (Excel)
 keywords: vbaxl10.chm356139
 f1_keywords:
 - vbaxl10.chm356139
@@ -10,14 +10,14 @@ localization_priority: Normal
 ---
 
 
-# Window.Hwnd property (Excel)
+# Window.hWnd property (Excel)
 
 Returns a  **Long** that indicates the window handle of the specified window. Read-only.
 
 
 ## Syntax
 
-_expression_. `Hwnd`
+_expression_.**hWnd**
 
 _expression_ A variable that represents a [Window](Excel.Window.md) object.
 
