@@ -1,5 +1,5 @@
 ---
-title: ShowCategoryName Property (Excel Graph)
+title: ShowCategoryName property (Excel Graph)
 keywords: vbagr10.chm67467
 f1_keywords:
 - vbagr10.chm67467
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShowCategoryName Property (Excel Graph)
+# ShowCategoryName property (Excel Graph)
 
 Allows the user to show the category name for the data labels on a chart. Read/write Boolean.
 

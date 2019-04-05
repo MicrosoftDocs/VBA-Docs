@@ -1,5 +1,5 @@
 ---
-title: DataLabel Property (Excel Graph)
+title: DataLabel property (Excel Graph)
 keywords: vbagr10.chm65694
 f1_keywords:
 - vbagr10.chm65694
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel Property (Excel Graph)
+# DataLabel property (Excel Graph)
 
 Returns a  **[DataLabel](Excel.DataLabel-graph-object.md)** object that represents the data label associated with the specified point or trendline. Read-only.
 

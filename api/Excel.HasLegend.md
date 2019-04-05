@@ -1,5 +1,5 @@
 ---
-title: HasLegend Property (Excel Graph)
+title: HasLegend property (Excel Graph)
 keywords: vbagr10.chm65589
 f1_keywords:
 - vbagr10.chm65589
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasLegend Property (Excel Graph)
+# HasLegend property (Excel Graph)
 
  **True** if the chart has a legend. Read/write **Boolean**.
 

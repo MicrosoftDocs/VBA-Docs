@@ -1,5 +1,5 @@
 ---
-title: Size Property (Excel Graph)
+title: Size property (Excel Graph)
 keywords: vbagr10.chm65640
 f1_keywords:
 - vbagr10.chm65640
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Size Property (Excel Graph)
+# Size property (Excel Graph)
 
 Returns or sets the size of the font. Read/write  **Variant**.
 

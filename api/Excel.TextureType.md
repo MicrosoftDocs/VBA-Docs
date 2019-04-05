@@ -1,5 +1,5 @@
 ---
-title: TextureType Property (Excel Graph)
+title: TextureType property (Excel Graph)
 keywords: vbagr10.chm3077593
 f1_keywords:
 - vbagr10.chm3077593
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextureType Property (Excel Graph)
+# TextureType property (Excel Graph)
 
 Returns the texture type for the specified fill. Read-only MsoTextureType .
 

@@ -1,5 +1,5 @@
 ---
-title: ClearContents Method (Excel Graph)
+title: ClearContents method (Excel Graph)
 keywords: vbagr10.chm65649
 f1_keywords:
 - vbagr10.chm65649
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ClearContents Method (Excel Graph)
+# ClearContents method (Excel Graph)
 
 ClearContents method as it applies to the  **ChartArea** object.
 

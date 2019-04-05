@@ -1,5 +1,5 @@
 ---
-title: MinimumScaleIsAuto Property (Excel Graph)
+title: MinimumScaleIsAuto property (Excel Graph)
 keywords: vbagr10.chm5207691
 f1_keywords:
 - vbagr10.chm5207691
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MinimumScaleIsAuto Property (Excel Graph)
+# MinimumScaleIsAuto property (Excel Graph)
 
  **True** if Graph calculates the minimum value for the axis. Read/write **Boolean**.
 

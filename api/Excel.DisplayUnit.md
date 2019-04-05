@@ -1,5 +1,5 @@
 ---
-title: DisplayUnit Property (Excel Graph)
+title: DisplayUnit property (Excel Graph)
 keywords: vbagr10.chm3077025
 f1_keywords:
 - vbagr10.chm3077025
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnit Property (Excel Graph)
+# DisplayUnit property (Excel Graph)
 
 Returns or sets the units displayed for the value axis in the specified chart. If the value is xlCustom, the DisplayUnitCustom property returns or sets the value of the units displayed for the value axis. Read/write XlDisplayUnit .
 

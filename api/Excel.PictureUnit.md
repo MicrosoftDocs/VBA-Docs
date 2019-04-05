@@ -1,5 +1,5 @@
 ---
-title: PictureUnit Property (Excel Graph)
+title: PictureUnit property (Excel Graph)
 keywords: vbagr10.chm3077575
 f1_keywords:
 - vbagr10.chm3077575
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PictureUnit Property (Excel Graph)
+# PictureUnit property (Excel Graph)
 
 Returns or sets the unit for each picture on the chart if the PictureType property is set to xlScale (otherwise, this property is ignored). Read/write Long for all objects, except for the Walls object, which is read/write Variant.
 

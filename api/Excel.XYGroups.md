@@ -1,5 +1,5 @@
 ---
-title: XYGroups Method (Excel Graph)
+title: XYGroups method (Excel Graph)
 keywords: vbagr10.chm3077639
 f1_keywords:
 - vbagr10.chm3077639
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# XYGroups Method (Excel Graph)
+# XYGroups method (Excel Graph)
 
 On a 2-D chart, returns an object that represents either a single scatter chart group or a collection of the scatter chart groups.
 

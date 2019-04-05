@@ -1,5 +1,5 @@
 ---
-title: SecondaryPlot Property (Excel Graph)
+title: SecondaryPlot property (Excel Graph)
 keywords: vbagr10.chm5207958
 f1_keywords:
 - vbagr10.chm5207958
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SecondaryPlot Property (Excel Graph)
+# SecondaryPlot property (Excel Graph)
 
  **True** if the point is in the secondary section of either a pie of pie chart or a bar of pie chart. Applies only to points on pie of pie charts or bar of pie charts. Read/write **Boolean**.
 

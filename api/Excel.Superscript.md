@@ -1,5 +1,5 @@
 ---
-title: Superscript Property (Excel Graph)
+title: Superscript property (Excel Graph)
 keywords: vbagr10.chm5208035
 f1_keywords:
 - vbagr10.chm5208035
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Superscript Property (Excel Graph)
+# Superscript property (Excel Graph)
 
  **True** if the specified font is formatted as superscript. The default value is **False**. Read/write  **Variant**.
 

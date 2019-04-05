@@ -1,5 +1,5 @@
 ---
-title: SplitValue Property (Excel Graph)
+title: SplitValue property (Excel Graph)
 keywords: vbagr10.chm5208024
 f1_keywords:
 - vbagr10.chm5208024
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SplitValue Property (Excel Graph)
+# SplitValue property (Excel Graph)
 
 Returns or sets the threshold value separating the two sections of either a pie of pie chart or a bar of pie chart. Read/write  **Variant**.
 

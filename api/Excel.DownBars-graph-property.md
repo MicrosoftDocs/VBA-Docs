@@ -1,5 +1,5 @@
 ---
-title: DownBars Property (Excel Graph)
+title: DownBars property (Excel Graph)
 keywords: vbagr10.chm5207325
 f1_keywords:
 - vbagr10.chm5207325
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DownBars Property (Excel Graph)
+# DownBars property (Excel Graph)
 
 Returns a  **[DownBars](Excel.DownBars-graph-object.md)** object that represents the down bars on a line chart. Applies only to line charts. Read-only.
 

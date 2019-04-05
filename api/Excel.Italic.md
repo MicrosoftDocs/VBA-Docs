@@ -1,5 +1,5 @@
 ---
-title: Italic Property (Excel Graph)
+title: Italic property (Excel Graph)
 keywords: vbagr10.chm65637
 f1_keywords:
 - vbagr10.chm65637
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Italic Property (Excel Graph)
+# Italic property (Excel Graph)
 
 True if the font style is italic. Read/write Variant.
 

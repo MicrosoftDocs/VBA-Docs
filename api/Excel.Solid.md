@@ -1,5 +1,5 @@
 ---
-title: Solid Method (Excel Graph)
+title: Solid method (Excel Graph)
 keywords: vbagr10.chm3077634
 f1_keywords:
 - vbagr10.chm3077634
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Solid Method (Excel Graph)
+# Solid method (Excel Graph)
 
 Sets the specified fill to a uniform color. Use this method to convert a gradient, textured, patterned, or background fill back to a solid fill.
 

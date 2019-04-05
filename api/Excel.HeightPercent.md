@@ -1,5 +1,5 @@
 ---
-title: HeightPercent Property (Excel Graph)
+title: HeightPercent property (Excel Graph)
 keywords: vbagr10.chm5207525
 f1_keywords:
 - vbagr10.chm5207525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HeightPercent Property (Excel Graph)
+# HeightPercent property (Excel Graph)
 
 Returns or sets the height of a 3-D chart as a percentage of the chart width (between 5 and 500 percent). Read/write  **Long**.
 

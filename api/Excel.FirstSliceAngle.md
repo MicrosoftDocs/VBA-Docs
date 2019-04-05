@@ -1,5 +1,5 @@
 ---
-title: FirstSliceAngle Property (Excel Graph)
+title: FirstSliceAngle property (Excel Graph)
 keywords: vbagr10.chm65599
 f1_keywords:
 - vbagr10.chm65599
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FirstSliceAngle Property (Excel Graph)
+# FirstSliceAngle property (Excel Graph)
 
 Returns or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical). Applies only to pie, 3-D pie, and doughnut charts. Read/write  **Long**.
 

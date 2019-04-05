@@ -1,5 +1,5 @@
 ---
-title: Fill Property (Excel Graph)
+title: Fill property (Excel Graph)
 keywords: vbagr10.chm5207366
 f1_keywords:
 - vbagr10.chm5207366
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Fill Property (Excel Graph)
+# Fill property (Excel Graph)
 
 Returns a  **[ChartFillFormat](Excel.ChartFillFormat.md)** object that contains fill formatting properties for the specified chart. Read-only.
 

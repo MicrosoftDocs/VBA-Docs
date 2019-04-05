@@ -1,5 +1,5 @@
 ---
-title: DisplayAutoCorrectOptions Property (Excel Graph)
+title: DisplayAutoCorrectOptions property (Excel Graph)
 keywords: vbagr10.chm3086995
 f1_keywords:
 - vbagr10.chm3086995
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayAutoCorrectOptions Property (Excel Graph)
+# DisplayAutoCorrectOptions property (Excel Graph)
 
 Allows the user to display or hide the AutoCorrect Options button. The default value is True. Read/write Boolean.
 

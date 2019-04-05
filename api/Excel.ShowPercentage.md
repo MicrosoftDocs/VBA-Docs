@@ -1,5 +1,5 @@
 ---
-title: ShowPercentage Property (Excel Graph)
+title: ShowPercentage property (Excel Graph)
 keywords: vbagr10.chm3077090
 f1_keywords:
 - vbagr10.chm3077090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShowPercentage Property (Excel Graph)
+# ShowPercentage property (Excel Graph)
 
 Allows the user to show the percentage value for the data labels on a chart. Read/write Boolean.
 

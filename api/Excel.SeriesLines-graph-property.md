@@ -1,5 +1,5 @@
 ---
-title: SeriesLines Property (Excel Graph)
+title: SeriesLines property (Excel Graph)
 keywords: vbagr10.chm5207974
 f1_keywords:
 - vbagr10.chm5207974
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesLines Property (Excel Graph)
+# SeriesLines property (Excel Graph)
 
 Returns a  **[SeriesLines](Excel.SeriesLines-graph-object.md)** object that represents the series lines for the specified stacked bar chart or stacked column chart. Applies only to stacked bar and stacked column charts. Read-only.
 

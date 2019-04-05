@@ -1,5 +1,5 @@
 ---
-title: Font Property (Excel Graph)
+title: Font property (Excel Graph)
 keywords: vbagr10.chm65682
 f1_keywords:
 - vbagr10.chm65682
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font Property (Excel Graph)
+# Font property (Excel Graph)
 
 Returns a Font object that represents the font of the specified object. Read/write Font object only for the DataSheet object, for all other objects, read-only Font object.
 

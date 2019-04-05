@@ -1,5 +1,5 @@
 ---
-title: UserPicture Method (Excel Graph)
+title: UserPicture method (Excel Graph)
 keywords: vbagr10.chm67165
 f1_keywords:
 - vbagr10.chm67165
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserPicture Method (Excel Graph)
+# UserPicture method (Excel Graph)
 
 Fills the specified shape with an image.
 

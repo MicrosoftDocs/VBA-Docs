@@ -1,5 +1,5 @@
 ---
-title: Columns Property (Excel Graph)
+title: Columns property (Excel Graph)
 keywords: vbagr10.chm65777
 f1_keywords:
 - vbagr10.chm65777
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Columns Property (Excel Graph)
+# Columns property (Excel Graph)
 
 Returns a Range object that represents the columns in the specified range or all the columns on the datasheet. Read-only Range object.
 

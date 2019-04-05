@@ -1,5 +1,5 @@
 ---
-title: MinorTickMark Property (Excel Graph)
+title: MinorTickMark property (Excel Graph)
 keywords: vbagr10.chm65563
 f1_keywords:
 - vbagr10.chm65563
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MinorTickMark Property (Excel Graph)
+# MinorTickMark property (Excel Graph)
 
 Returns or sets the type of minor tick mark for the specified axis. Read/write XlTickMark .
 

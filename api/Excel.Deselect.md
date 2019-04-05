@@ -1,5 +1,5 @@
 ---
-title: Deselect Method (Excel Graph)
+title: Deselect method (Excel Graph)
 keywords: vbagr10.chm66656
 f1_keywords:
 - vbagr10.chm66656
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Deselect Method (Excel Graph)
+# Deselect method (Excel Graph)
 
 Cancels the selection for the chart.
 

@@ -1,5 +1,5 @@
 ---
-title: Floor Property (Excel Graph)
+title: Floor property (Excel Graph)
 keywords: vbagr10.chm65619
 f1_keywords:
 - vbagr10.chm65619
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Floor Property (Excel Graph)
+# Floor property (Excel Graph)
 
 Returns a  **[Floor](Excel.Floor-graph-object.md)** object that represents the floor of the 3-D chart. Read-only.
 

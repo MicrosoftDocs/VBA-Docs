@@ -1,5 +1,5 @@
 ---
-title: MajorUnit Property (Excel Graph)
+title: MajorUnit property (Excel Graph)
 keywords: vbagr10.chm5207641
 f1_keywords:
 - vbagr10.chm5207641
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MajorUnit Property (Excel Graph)
+# MajorUnit property (Excel Graph)
 
 Returns or sets the major units for the axis. Read/write  **Double**.
 

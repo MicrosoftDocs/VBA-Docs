@@ -1,5 +1,5 @@
 ---
-title: HasRadarAxisLabels Property (Excel Graph)
+title: HasRadarAxisLabels property (Excel Graph)
 keywords: vbagr10.chm65600
 f1_keywords:
 - vbagr10.chm65600
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasRadarAxisLabels Property (Excel Graph)
+# HasRadarAxisLabels property (Excel Graph)
 
  **True** if a radar chart has axis labels. Applies only to radar charts. Read/write **Boolean**.
 

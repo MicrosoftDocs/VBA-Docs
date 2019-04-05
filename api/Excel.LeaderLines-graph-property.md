@@ -1,5 +1,5 @@
 ---
-title: LeaderLines Property (Excel Graph)
+title: LeaderLines property (Excel Graph)
 keywords: vbagr10.chm5207592
 f1_keywords:
 - vbagr10.chm5207592
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LeaderLines Property (Excel Graph)
+# LeaderLines property (Excel Graph)
 
 Returns a  **LeaderLines** object that represents the leader lines for the specified series. Read-only.
 

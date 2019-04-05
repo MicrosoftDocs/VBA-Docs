@@ -1,5 +1,5 @@
 ---
-title: DoughnutHoleSize Property (Excel Graph)
+title: DoughnutHoleSize property (Excel Graph)
 keywords: vbagr10.chm66662
 f1_keywords:
 - vbagr10.chm66662
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DoughnutHoleSize Property (Excel Graph)
+# DoughnutHoleSize property (Excel Graph)
 
 Returns or sets the size of the hole in a doughnut chart group. The hole size is expressed as a percentage of the chart size, between 10 and 90 percent. Read/write  **Long**.
 

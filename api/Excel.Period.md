@@ -1,5 +1,5 @@
 ---
-title: Period Property (Excel Graph)
+title: Period property (Excel Graph)
 keywords: vbagr10.chm65720
 f1_keywords:
 - vbagr10.chm65720
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Period Property (Excel Graph)
+# Period property (Excel Graph)
 
 Returns or sets the period for the moving-average trendline. Read/write  **Long**.
 

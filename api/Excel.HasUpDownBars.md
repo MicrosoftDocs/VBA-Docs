@@ -1,5 +1,5 @@
 ---
-title: HasUpDownBars Property (Excel Graph)
+title: HasUpDownBars property (Excel Graph)
 keywords: vbagr10.chm5207518
 f1_keywords:
 - vbagr10.chm5207518
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasUpDownBars Property (Excel Graph)
+# HasUpDownBars property (Excel Graph)
 
  **True** if the specified line chart has up and down bars. Applies only to line charts. Read/write **Boolean**.
 

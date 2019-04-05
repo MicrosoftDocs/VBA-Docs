@@ -10366,7 +10366,7 @@
 ##### [XlXmlLoadOption](Excel.XlXmlLoadOption.md)
 ##### [XlYesNoGuess](Excel.XlYesNoGuess.md)
 ### [Excel Graph Visual Basic reference](overview/Excel/graph-visual-basic-reference.md)
-#### [Collections](overview/Excel/collections-graph-visual-basic-reference.md)
+#### Collections
 ##### [Axes collection](Excel.Axes-graph-collection.md)
 ##### [ChartGroups collection](Excel.chartgroups(collection).md)
 ##### [DataLabels collection](Excel.datalabels(collection).md)
@@ -10374,7 +10374,7 @@
 ##### [Points collection](Excel.points(collection).md)
 ##### [SeriesCollection collection](Excel.seriescollection(collection).md)
 ##### [Trendlines collection](Excel.trendlines(collection).md)
-#### [Objects](overview/Excel/objects-graph-visual-basic-reference.md)
+#### Objects
 ##### [Application object](Excel.Application-graph-object.md)
 ##### [AutoCorrect object](Excel.AutoCorrect-graph-object.md)
 ##### [Axis object](Excel.Axis-graph-object.md)

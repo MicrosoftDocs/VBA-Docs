@@ -1,5 +1,5 @@
 ---
-title: MajorUnitScale Property (Excel Graph)
+title: MajorUnitScale property (Excel Graph)
 keywords: vbagr10.chm67185
 f1_keywords:
 - vbagr10.chm67185
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MajorUnitScale Property (Excel Graph)
+# MajorUnitScale property (Excel Graph)
 
 Returns or sets the major unit scale value for the category axis when the CategoryType property is set to xlTimeScale. Read/write XlTimeUnit .
 

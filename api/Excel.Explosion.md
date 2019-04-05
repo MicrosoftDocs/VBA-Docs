@@ -1,5 +1,5 @@
 ---
-title: Explosion Property (Excel Graph)
+title: Explosion property (Excel Graph)
 ms.prod: excel
 api_name:
 - Excel.Explosion
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# Explosion Property (Excel Graph)
+# Explosion property (Excel Graph)
 
 Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Returns 0 (zero) if there's no explosion (the tip of the slice is in the center of the pie). Read/write  **Long**.
 

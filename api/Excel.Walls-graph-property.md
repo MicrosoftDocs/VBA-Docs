@@ -1,5 +1,5 @@
 ---
-title: Walls Property (Excel Graph)
+title: Walls property (Excel Graph)
 keywords: vbagr10.chm65622
 f1_keywords:
 - vbagr10.chm65622
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Walls Property (Excel Graph)
+# Walls property (Excel Graph)
 
 Returns a  **[Walls](Excel.Walls-graph-object.md)** collection that represents the walls of the 3-D chart. Read-only.
 

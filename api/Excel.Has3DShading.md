@@ -1,5 +1,5 @@
 ---
-title: Has3DShading Property (Excel Graph)
+title: Has3DShading property (Excel Graph)
 keywords: vbagr10.chm5207443
 f1_keywords:
 - vbagr10.chm5207443
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Has3DShading Property (Excel Graph)
+# Has3DShading property (Excel Graph)
 
  **True** if the chart group has three-dimensional shading. Read/write **Boolean**.
 

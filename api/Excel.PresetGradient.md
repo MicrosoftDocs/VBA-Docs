@@ -1,5 +1,5 @@
 ---
-title: PresetGradient Method (Excel Graph)
+title: PresetGradient method (Excel Graph)
 keywords: vbagr10.chm67172
 f1_keywords:
 - vbagr10.chm67172
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PresetGradient Method (Excel Graph)
+# PresetGradient method (Excel Graph)
 
 Sets the specified fill to a preset gradient.
 

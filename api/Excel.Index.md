@@ -1,5 +1,5 @@
 ---
-title: Index Property (Excel Graph)
+title: Index property (Excel Graph)
 keywords: vbagr10.chm66022
 f1_keywords:
 - vbagr10.chm66022
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Index Property (Excel Graph)
+# Index property (Excel Graph)
 
 Returns the index number of the object within the collection of similar objects. Read-only  **Long**.
 

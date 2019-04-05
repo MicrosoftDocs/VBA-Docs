@@ -1,5 +1,5 @@
 ---
-title: DisplayRSquared Property (Excel Graph)
+title: DisplayRSquared property (Excel Graph)
 keywords: vbagr10.chm5207314
 f1_keywords:
 - vbagr10.chm5207314
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayRSquared Property (Excel Graph)
+# DisplayRSquared property (Excel Graph)
 
  **True** if the R-squared value of the trendline is displayed on the chart (in the same data label as the equation). Setting this property to **True** automatically turns on data labels. Read/write **Boolean**.
 

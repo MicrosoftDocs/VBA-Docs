@@ -1,5 +1,5 @@
 ---
-title: Insert Method (Excel Graph)
+title: Insert method (Excel Graph)
 keywords: vbagr10.chm3077620
 f1_keywords:
 - vbagr10.chm3077620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Insert Method (Excel Graph)
+# Insert method (Excel Graph)
 
 Inserts a cell or a range of cells into the datasheet and shifts other cells away to make space.
 

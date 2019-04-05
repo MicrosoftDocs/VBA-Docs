@@ -1,5 +1,5 @@
 ---
-title: CorrectSentenceCap Property (Excel Graph)
+title: CorrectSentenceCap property (Excel Graph)
 keywords: vbagr10.chm67155
 f1_keywords:
 - vbagr10.chm67155
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CorrectSentenceCap Property (Excel Graph)
+# CorrectSentenceCap property (Excel Graph)
 
  **True** if Graph automatically corrects sentence (first word) capitalization. Read/write **Boolean**.
 

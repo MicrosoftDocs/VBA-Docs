@@ -1,5 +1,5 @@
 ---
-title: DataSheet Property (Excel Graph)
+title: DataSheet property (Excel Graph)
 keywords: vbagr10.chm5207292
 f1_keywords:
 - vbagr10.chm5207292
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataSheet Property (Excel Graph)
+# DataSheet property (Excel Graph)
 
 Returns the  **[DataSheet](Excel.DataSheet-graph-object.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: InterceptIsAuto Property (Excel Graph)
+title: InterceptIsAuto property (Excel Graph)
 keywords: vbagr10.chm65723
 f1_keywords:
 - vbagr10.chm65723
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InterceptIsAuto Property (Excel Graph)
+# InterceptIsAuto property (Excel Graph)
 
  **True** if the point where the trendline crosses the value axis is automatically determined by the regression. Read/write **Boolean**.
 

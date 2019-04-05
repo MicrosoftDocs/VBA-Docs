@@ -1,5 +1,5 @@
 ---
-title: TwoColorGradient Method (Excel Graph)
+title: TwoColorGradient method (Excel Graph)
 keywords: vbagr10.chm3077636
 f1_keywords:
 - vbagr10.chm3077636
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TwoColorGradient Method (Excel Graph)
+# TwoColorGradient method (Excel Graph)
 
 Sets the specified fill to a two-color gradient.
 

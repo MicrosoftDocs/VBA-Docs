@@ -1,5 +1,5 @@
 ---
-title: SplitType Property (Excel Graph)
+title: SplitType property (Excel Graph)
 keywords: vbagr10.chm3077588
 f1_keywords:
 - vbagr10.chm3077588
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SplitType Property (Excel Graph)
+# SplitType property (Excel Graph)
 
 Returns or sets the way the two sections of either a pie of pie chart or a bar of pie chart are split. Read/write XlChartSplitType .
 

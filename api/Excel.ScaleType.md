@@ -1,5 +1,5 @@
 ---
-title: ScaleType Property (Excel Graph)
+title: ScaleType property (Excel Graph)
 keywords: vbagr10.chm3077583
 f1_keywords:
 - vbagr10.chm3077583
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ScaleType Property (Excel Graph)
+# ScaleType property (Excel Graph)
 
 Returns or sets the value axis scale type. Applies only to the value axis. Read/write XlScaleType .
 

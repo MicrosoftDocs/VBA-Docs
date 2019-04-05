@@ -1,5 +1,5 @@
 ---
-title: Crosses Property (Excel Graph)
+title: Crosses property (Excel Graph)
 keywords: vbagr10.chm3076987
 f1_keywords:
 - vbagr10.chm3076987
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Crosses Property (Excel Graph)
+# Crosses property (Excel Graph)
 
 Returns or sets the point on the specified axis where the other axis crosses. Read/write XlAxisCrosses .
 

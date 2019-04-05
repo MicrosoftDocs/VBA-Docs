@@ -1,5 +1,5 @@
 ---
-title: ColorIndex Property (Excel Graph)
+title: ColorIndex property (Excel Graph)
 keywords: vbagr10.chm5207225
 f1_keywords:
 - vbagr10.chm5207225

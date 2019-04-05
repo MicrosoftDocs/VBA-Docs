@@ -1,5 +1,5 @@
 ---
-title: MarkerSize Property (Excel Graph)
+title: MarkerSize property (Excel Graph)
 keywords: vbagr10.chm65767
 f1_keywords:
 - vbagr10.chm65767
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkerSize Property (Excel Graph)
+# MarkerSize property (Excel Graph)
 
 Returns or sets the data-marker size, in points. Read/write  **Long**.
 

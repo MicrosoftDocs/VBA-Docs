@@ -1,5 +1,5 @@
 ---
-title: ReplacementList Property (Excel Graph)
+title: ReplacementList property (Excel Graph)
 keywords: vbagr10.chm3077085
 f1_keywords:
 - vbagr10.chm3077085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReplacementList Property (Excel Graph)
+# ReplacementList property (Excel Graph)
 
 Returns the array of AutoCorrect replacements.
 

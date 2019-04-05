@@ -1,5 +1,5 @@
 ---
-title: MarkerStyle Property (Excel Graph)
+title: MarkerStyle property (Excel Graph)
 keywords: vbagr10.chm65608
 f1_keywords:
 - vbagr10.chm65608
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkerStyle Property (Excel Graph)
+# MarkerStyle property (Excel Graph)
 
 Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write XlMarkerStyle .
 

@@ -1,5 +1,5 @@
 ---
-title: OneColorGradient Method (Excel Graph)
+title: OneColorGradient method (Excel Graph)
 keywords: vbagr10.chm67157
 f1_keywords:
 - vbagr10.chm67157
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OneColorGradient Method (Excel Graph)
+# OneColorGradient method (Excel Graph)
 
 Sets the specified fill to a one-color gradient.
 

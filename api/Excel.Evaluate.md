@@ -1,5 +1,5 @@
 ---
-title: Evaluate Method (Excel Graph)
+title: Evaluate method (Excel Graph)
 keywords: vbagr10.chm65537
 f1_keywords:
 - vbagr10.chm65537
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Evaluate Method (Excel Graph)
+# Evaluate method (Excel Graph)
 
 Converts a Graph name to an object or a value.
 

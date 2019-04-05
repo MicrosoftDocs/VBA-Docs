@@ -1,5 +1,5 @@
 ---
-title: PlotArea Property (Excel Graph)
+title: PlotArea property (Excel Graph)
 keywords: vbagr10.chm65621
 f1_keywords:
 - vbagr10.chm65621
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea Property (Excel Graph)
+# PlotArea property (Excel Graph)
 
 Returns a  **[PlotArea](Excel.PlotArea-graph-object.md)** object that represents the plot area of a chart. Read-only.
 

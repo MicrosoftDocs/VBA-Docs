@@ -1,5 +1,5 @@
 ---
-title: HasMinorGridlines Property (Excel Graph)
+title: HasMinorGridlines property (Excel Graph)
 keywords: vbagr10.chm65561
 f1_keywords:
 - vbagr10.chm65561
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasMinorGridlines Property (Excel Graph)
+# HasMinorGridlines property (Excel Graph)
 
  **True** if the axis has minor gridlines. Only axes in the primary axis group can have gridlines. Read/write **Boolean**.
 

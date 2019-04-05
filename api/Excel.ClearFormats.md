@@ -1,5 +1,5 @@
 ---
-title: ClearFormats Method (Excel Graph)
+title: ClearFormats method (Excel Graph)
 keywords: vbagr10.chm3077613
 f1_keywords:
 - vbagr10.chm3077613
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ClearFormats Method (Excel Graph)
+# ClearFormats method (Excel Graph)
 
 Clears the formatting of the object.
 

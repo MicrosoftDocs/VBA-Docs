@@ -1,5 +1,5 @@
 ---
-title: ShowChartTipNames Property (Excel Graph)
+title: ShowChartTipNames property (Excel Graph)
 keywords: vbagr10.chm5207986
 f1_keywords:
 - vbagr10.chm5207986
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShowChartTipNames Property (Excel Graph)
+# ShowChartTipNames property (Excel Graph)
 
  **True** if charts show chart tip names. The default value is **True**. Read/write  **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: LineStyle Property (Excel Graph)
+title: LineStyle property (Excel Graph)
 keywords: vbagr10.chm3077078
 f1_keywords:
 - vbagr10.chm3077078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LineStyle Property (Excel Graph)
+# LineStyle property (Excel Graph)
 
 Returns or sets the line style for the border. Read/write 
  **xlLineStyle**

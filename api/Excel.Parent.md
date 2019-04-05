@@ -1,5 +1,5 @@
 ---
-title: Parent Property (Excel Graph)
+title: Parent property (Excel Graph)
 keywords: vbagr10.chm65686
 f1_keywords:
 - vbagr10.chm65686
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Parent Property (Excel Graph)
+# Parent property (Excel Graph)
 
 Returns the parent object.
 

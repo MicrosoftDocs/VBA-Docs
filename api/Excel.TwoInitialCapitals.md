@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapitals Property (Excel Graph)
+title: TwoInitialCapitals property (Excel Graph)
 keywords: vbagr10.chm5208088
 f1_keywords:
 - vbagr10.chm5208088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TwoInitialCapitals Property (Excel Graph)
+# TwoInitialCapitals property (Excel Graph)
 
  **True** if words that begin with two capital letters are corrected automatically. Read/write **Boolean**.
 

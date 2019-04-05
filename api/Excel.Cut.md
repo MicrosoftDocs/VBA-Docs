@@ -1,5 +1,5 @@
 ---
-title: Cut Method (Excel Graph)
+title: Cut method (Excel Graph)
 keywords: vbagr10.chm5207276
 f1_keywords:
 - vbagr10.chm5207276
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Cut Method (Excel Graph)
+# Cut method (Excel Graph)
 
 Cuts the specified range to the Clipboard or pastes it into a specified destination.
 

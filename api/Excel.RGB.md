@@ -1,5 +1,5 @@
 ---
-title: RGB Property (Excel Graph)
+title: RGB property (Excel Graph)
 keywords: vbagr10.chm5207930
 f1_keywords:
 - vbagr10.chm5207930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RGB Property (Excel Graph)
+# RGB property (Excel Graph)
 
 Returns the red-green-blue value of the specified color. Read-only  **Long**.
 

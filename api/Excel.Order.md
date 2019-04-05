@@ -1,5 +1,5 @@
 ---
-title: Order Property (Excel Graph)
+title: Order property (Excel Graph)
 keywords: vbagr10.chm5207737
 f1_keywords:
 - vbagr10.chm5207737
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Order Property (Excel Graph)
+# Order property (Excel Graph)
 
 Returns or sets the trendline order (an integer greater than 1) when the trendline type is  **xlPolynomial**. Read/write  **Long**.
 

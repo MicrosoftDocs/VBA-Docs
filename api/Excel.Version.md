@@ -1,5 +1,5 @@
 ---
-title: Version Property (Excel Graph)
+title: Version property (Excel Graph)
 keywords: vbagr10.chm5208125
 f1_keywords:
 - vbagr10.chm5208125
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Version Property (Excel Graph)
+# Version property (Excel Graph)
 
 Returns the Graph version number. Read-only  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: PlotBy Property (Excel Graph)
+title: PlotBy property (Excel Graph)
 keywords: vbagr10.chm65738
 f1_keywords:
 - vbagr10.chm65738
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlotBy Property (Excel Graph)
+# PlotBy property (Excel Graph)
 
 Returns or sets the way columns or rows are used as data series on the chart. Read/write XlRowCol.
 

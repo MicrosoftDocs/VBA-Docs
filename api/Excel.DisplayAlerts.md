@@ -1,5 +1,5 @@
 ---
-title: DisplayAlerts Property (Excel Graph)
+title: DisplayAlerts property (Excel Graph)
 keywords: vbagr10.chm65879
 f1_keywords:
 - vbagr10.chm65879
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayAlerts Property (Excel Graph)
+# DisplayAlerts property (Excel Graph)
 
  **True** if Graph displays certain alerts and messages while a macro is running. Read/write **Boolean**.
 

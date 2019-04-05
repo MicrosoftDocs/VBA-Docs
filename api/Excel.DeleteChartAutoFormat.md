@@ -1,5 +1,5 @@
 ---
-title: DeleteChartAutoFormat Method (Excel Graph)
+title: DeleteChartAutoFormat method (Excel Graph)
 keywords: vbagr10.chm65753
 f1_keywords:
 - vbagr10.chm65753
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DeleteChartAutoFormat Method (Excel Graph)
+# DeleteChartAutoFormat method (Excel Graph)
 
 Removes a custom chart autoformat from the list of available chart autoformats.
 

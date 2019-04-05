@@ -1,5 +1,5 @@
 ---
-title: ShowSeriesName Property (Excel Graph)
+title: ShowSeriesName property (Excel Graph)
 keywords: vbagr10.chm67466
 f1_keywords:
 - vbagr10.chm67466
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShowSeriesName Property (Excel Graph)
+# ShowSeriesName property (Excel Graph)
 
 Allows the user to show the series name for the data labels on a chart. Read/write Boolean.
 

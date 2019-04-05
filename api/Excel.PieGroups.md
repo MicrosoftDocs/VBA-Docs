@@ -1,5 +1,5 @@
 ---
-title: PieGroups Method (Excel Graph)
+title: PieGroups method (Excel Graph)
 keywords: vbagr10.chm65549
 f1_keywords:
 - vbagr10.chm65549
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PieGroups Method (Excel Graph)
+# PieGroups method (Excel Graph)
 
 On a 2-D chart, returns an object that represents either a single pie chart group or a collection of the pie chart groups.
 

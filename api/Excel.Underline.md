@@ -1,5 +1,5 @@
 ---
-title: Underline Property (Excel Graph)
+title: Underline property (Excel Graph)
 keywords: vbagr10.chm65642
 f1_keywords:
 - vbagr10.chm65642
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Underline Property (Excel Graph)
+# Underline property (Excel Graph)
 
 Returns or sets the type of underline applied to the font. Required  **xlUnderlineStyle**.
 

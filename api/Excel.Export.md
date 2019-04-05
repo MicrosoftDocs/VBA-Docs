@@ -1,5 +1,5 @@
 ---
-title: Export Method (Excel Graph)
+title: Export method (Excel Graph)
 keywords: vbagr10.chm66950
 f1_keywords:
 - vbagr10.chm66950
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Export Method (Excel Graph)
+# Export method (Excel Graph)
 
 Exports the chart in a graphic format. Returns a value of type  **Boolean**.
 

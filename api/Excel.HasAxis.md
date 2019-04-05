@@ -1,5 +1,5 @@
 ---
-title: HasAxis Property (Excel Graph)
+title: HasAxis property (Excel Graph)
 keywords: vbagr10.chm65588
 f1_keywords:
 - vbagr10.chm65588
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasAxis Property (Excel Graph)
+# HasAxis property (Excel Graph)
 
 Returns or sets which axes exist on the chart. Read/write Variant.
 

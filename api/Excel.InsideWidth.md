@@ -1,5 +1,5 @@
 ---
-title: InsideWidth Property (Excel Graph)
+title: InsideWidth property (Excel Graph)
 keywords: vbagr10.chm5207559
 f1_keywords:
 - vbagr10.chm5207559
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InsideWidth Property (Excel Graph)
+# InsideWidth property (Excel Graph)
 
 Returns the inside width of the plot area, in points. Read-only  **Double**.
 

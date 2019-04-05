@@ -1,5 +1,5 @@
 ---
-title: WindowState Property (Excel Graph)
+title: WindowState property (Excel Graph)
 keywords: vbagr10.chm65932
 f1_keywords:
 - vbagr10.chm65932

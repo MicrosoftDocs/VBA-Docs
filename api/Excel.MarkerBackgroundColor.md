@@ -1,5 +1,5 @@
 ---
-title: MarkerBackgroundColor Property (Excel Graph)
+title: MarkerBackgroundColor property (Excel Graph)
 keywords: vbagr10.chm65609
 f1_keywords:
 - vbagr10.chm65609
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkerBackgroundColor Property (Excel Graph)
+# MarkerBackgroundColor property (Excel Graph)
 
 Returns or sets the marker background color as an RGB value. Applies only to line, scatter, and radar charts. Read/write  **Long**.
 

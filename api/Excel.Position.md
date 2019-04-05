@@ -1,5 +1,5 @@
 ---
-title: Position Property (Excel Graph)
+title: Position property (Excel Graph)
 keywords: vbagr10.chm65669
 f1_keywords:
 - vbagr10.chm65669
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Position Property (Excel Graph)
+# Position property (Excel Graph)
 
 Position property as it applies to the  **DataLabel** and **DataLabels** objects.
 

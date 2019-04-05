@@ -1,5 +1,5 @@
 ---
-title: NameIsAuto Property (Excel Graph)
+title: NameIsAuto property (Excel Graph)
 keywords: vbagr10.chm65724
 f1_keywords:
 - vbagr10.chm65724
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# NameIsAuto Property (Excel Graph)
+# NameIsAuto property (Excel Graph)
 
  **True** if Graph automatically determines the name of the trendline. Read/write **Boolean**.
 

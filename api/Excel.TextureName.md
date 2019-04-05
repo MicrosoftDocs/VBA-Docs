@@ -1,5 +1,5 @@
 ---
-title: TextureName Property (Excel Graph)
+title: TextureName property (Excel Graph)
 keywords: vbagr10.chm5208045
 f1_keywords:
 - vbagr10.chm5208045
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TextureName Property (Excel Graph)
+# TextureName property (Excel Graph)
 
 Returns the name of the custom texture file for the specified fill. Read-only  **String**.
 

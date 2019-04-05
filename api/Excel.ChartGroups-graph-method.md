@@ -1,5 +1,5 @@
 ---
-title: ChartGroups Method (Excel Graph)
+title: ChartGroups method (Excel Graph)
 keywords: vbagr10.chm65544
 f1_keywords:
 - vbagr10.chm65544
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroups Method (Excel Graph)
+# ChartGroups method (Excel Graph)
 
 Returns an object that represents either a single chart group or a collection of all the chart groups in the chart. The returned collection includes every type of group.
 

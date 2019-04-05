@@ -1,5 +1,5 @@
 ---
-title: ShowValue Property (Excel Graph)
+title: ShowValue property (Excel Graph)
 keywords: vbagr10.chm67468
 f1_keywords:
 - vbagr10.chm67468
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShowValue Property (Excel Graph)
+# ShowValue property (Excel Graph)
 
 Allows the user to show the value for the data labels on a chart. Read/write Boolean.
 

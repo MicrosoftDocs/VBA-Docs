@@ -1,5 +1,5 @@
 ---
-title: UserTextured Method (Excel Graph)
+title: UserTextured method (Excel Graph)
 keywords: vbagr10.chm5208113
 f1_keywords:
 - vbagr10.chm5208113
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UserTextured Method (Excel Graph)
+# UserTextured method (Excel Graph)
 
 Fills the specified shape with small tiles of an image. If you want to fill the shape with one large image, use the  **UserPicture** method.
 

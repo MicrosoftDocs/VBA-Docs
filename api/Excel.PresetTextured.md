@@ -1,5 +1,5 @@
 ---
-title: PresetTextured Method (Excel Graph)
+title: PresetTextured method (Excel Graph)
 keywords: vbagr10.chm3077629
 f1_keywords:
 - vbagr10.chm3077629
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PresetTextured Method (Excel Graph)
+# PresetTextured method (Excel Graph)
 
 Sets the format of the specified fill to a preset texture.
 

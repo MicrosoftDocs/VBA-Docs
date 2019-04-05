@@ -1,5 +1,5 @@
 ---
-title: HasBorderOutline Property (Excel Graph)
+title: HasBorderOutline property (Excel Graph)
 keywords: vbagr10.chm5207454
 f1_keywords:
 - vbagr10.chm5207454
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasBorderOutline Property (Excel Graph)
+# HasBorderOutline property (Excel Graph)
 
  **True** if the chart data table has outline borders. Read/write **Boolean**.
 

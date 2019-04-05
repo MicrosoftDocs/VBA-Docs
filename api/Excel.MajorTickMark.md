@@ -1,5 +1,5 @@
 ---
-title: MajorTickMark Property (Excel Graph)
+title: MajorTickMark property (Excel Graph)
 keywords: vbagr10.chm65562
 f1_keywords:
 - vbagr10.chm65562
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MajorTickMark Property (Excel Graph)
+# MajorTickMark property (Excel Graph)
 
 Returns or sets the type of major tick mark for the specified axis. Read/write XlTickMark .
 

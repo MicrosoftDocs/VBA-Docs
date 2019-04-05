@@ -1,5 +1,5 @@
 ---
-title: RadarAxisLabels Property (Excel Graph)
+title: RadarAxisLabels property (Excel Graph)
 keywords: vbagr10.chm65680
 f1_keywords:
 - vbagr10.chm65680
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RadarAxisLabels Property (Excel Graph)
+# RadarAxisLabels property (Excel Graph)
 
 Returns a  **[TickLabels](Excel.TickLabels-graph-object.md)** object that represents the radar axis labels for the specified chart group. Read-only.
 

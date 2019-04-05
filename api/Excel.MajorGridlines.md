@@ -1,5 +1,5 @@
 ---
-title: MajorGridlines Property (Excel Graph)
+title: MajorGridlines property (Excel Graph)
 keywords: vbagr10.chm65625
 f1_keywords:
 - vbagr10.chm65625
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MajorGridlines Property (Excel Graph)
+# MajorGridlines property (Excel Graph)
 
 Returns a  **[Gridlines](Excel.Gridlines-graph-object.md)** object that represents the major gridlines for the specified axis. Only axes in the primary axis group can have gridlines. Read-only.
 

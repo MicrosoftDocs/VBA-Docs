@@ -1,5 +1,5 @@
 ---
-title: ShowBubbleSize Property (Excel Graph)
+title: ShowBubbleSize property (Excel Graph)
 keywords: vbagr10.chm3077088
 f1_keywords:
 - vbagr10.chm3077088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShowBubbleSize Property (Excel Graph)
+# ShowBubbleSize property (Excel Graph)
 
 Allows the user to show the bubble size for the data labels on a chart. Read/write Boolean.
 
