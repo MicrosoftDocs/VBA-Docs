@@ -1,5 +1,5 @@
 ---
-title: Walls Object
+title: Walls Object (Excel Graph)
 keywords: vbagr10.chm5208137
 f1_keywords:
 - vbagr10.chm5208137
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Walls Object
+# Walls Object (Excel Graph)
 
 Represents the walls of the specified 3-D chart. This object isn't a collection. There's no object that represents a single wall; you must return all the walls as a unit.
 

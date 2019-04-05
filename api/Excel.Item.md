@@ -1,5 +1,5 @@
 ---
-title: Item Method
+title: Item Method (Excel Graph)
 keywords: vbagr10.chm3077621
 f1_keywords:
 - vbagr10.chm3077621
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Item Method
+# Item Method (Excel Graph)
 
 Item method as it applies to the  **Axes** object.
 

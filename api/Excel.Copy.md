@@ -1,5 +1,5 @@
 ---
-title: Copy Method
+title: Copy Method (Excel Graph)
 keywords: vbagr10.chm66087
 f1_keywords:
 - vbagr10.chm66087
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Copy Method
+# Copy Method (Excel Graph)
 
 Copy method as it applies to the  **ChartArea** object.
 

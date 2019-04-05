@@ -1,5 +1,5 @@
 ---
-title: ErrorBars Object
+title: ErrorBars Object (Excel Graph)
 keywords: vbagr10.chm131213
 f1_keywords:
 - vbagr10.chm131213
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars Object
+# ErrorBars Object (Excel Graph)
 
 Represents the error bars for the specified chart series. Error bars indicate the degree of uncertainty for chart data. Only series in area, bar, column, line, and scatter groups in a 2-D chart can have error bars. Only series in scatter groups can have x and y error bars.
 

@@ -1,5 +1,5 @@
 ---
-title: Legend Object
+title: Legend Object (Excel Graph)
 keywords: vbagr10.chm131212
 f1_keywords:
 - vbagr10.chm131212
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Legend Object
+# Legend Object (Excel Graph)
 
 Represents the legend in the specified chart. Each chart can have only one legend. The  **Legend** object contains one or more **[LegendEntry](Excel.LegendEntry-graph-object.md)** objects; each  **LegendEntry** object contains a **[LegendKey](Excel.LegendKey-graph-object.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Colors Property
+title: Colors Property (Excel Graph)
 keywords: vbagr10.chm3082363
 f1_keywords:
 - vbagr10.chm3082363
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Colors Property
+# Colors Property (Excel Graph)
 
 Returns or sets colors in the palette for a Chart object. The palette has 56 entries, each represented by an RGB value. Read/write Variant.
 

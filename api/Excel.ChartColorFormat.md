@@ -1,5 +1,5 @@
 ---
-title: ChartColorFormat Object
+title: ChartColorFormat Object (Excel Graph)
 keywords: vbagr10.chm131251
 f1_keywords:
 - vbagr10.chm131251
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartColorFormat Object
+# ChartColorFormat Object (Excel Graph)
 
 Represents a foreground or background color.
 

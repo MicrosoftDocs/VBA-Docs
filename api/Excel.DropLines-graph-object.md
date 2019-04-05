@@ -1,5 +1,5 @@
 ---
-title: DropLines Object
+title: DropLines Object (Excel Graph)
 keywords: vbagr10.chm5207329
 f1_keywords:
 - vbagr10.chm5207329
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropLines Object
+# DropLines Object (Excel Graph)
 
 Represents the drop lines in the specified chart group. Drop lines connect the points in the chart with the x-axis. Only line and area chart groups can have drop lines. This object isn't a collection. There's no object that represents a single drop line; either you have drop lines turned on for all points in a chart group or you have them turned off.
 

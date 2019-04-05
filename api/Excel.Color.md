@@ -1,5 +1,5 @@
 ---
-title: Color Property
+title: Color Property (Excel Graph)
 keywords: vbagr10.chm3077003
 f1_keywords:
 - vbagr10.chm3077003
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Color Property
+# Color Property (Excel Graph)
 
 Returns or sets the primary color of the Border object, Font object, or the Interior object. Use the RGB function to create a color value. Read/write Variant.
 

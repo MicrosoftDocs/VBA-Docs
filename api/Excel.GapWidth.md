@@ -1,5 +1,5 @@
 ---
-title: GapWidth Property
+title: GapWidth Property (Excel Graph)
 keywords: vbagr10.chm65587
 f1_keywords:
 - vbagr10.chm65587
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GapWidth Property
+# GapWidth Property (Excel Graph)
 
 Bar and Column charts: Returns or sets the space between bar or column clusters, as a percentage of the bar or column width. The value of this property must be between 0 and 500. Read/write  **Long**.
 

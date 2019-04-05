@@ -1,5 +1,5 @@
 ---
-title: ForeColor Property
+title: ForeColor Property (Excel Graph)
 keywords: vbagr10.chm5207390
 f1_keywords:
 - vbagr10.chm5207390
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ForeColor Property
+# ForeColor Property (Excel Graph)
 
 Returns a  **ChartColorFormat** object that represents the foreground fill color.
 

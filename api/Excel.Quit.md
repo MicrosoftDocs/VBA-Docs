@@ -1,5 +1,5 @@
 ---
-title: Quit Method
+title: Quit Method (Excel Graph)
 keywords: vbagr10.chm5207837
 f1_keywords:
 - vbagr10.chm5207837
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Quit Method
+# Quit Method (Excel Graph)
 
 Quits Graph.
 

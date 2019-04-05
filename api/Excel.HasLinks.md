@@ -1,5 +1,5 @@
 ---
-title: HasLinks Property
+title: HasLinks Property (Excel Graph)
 keywords: vbagr10.chm66630
 f1_keywords:
 - vbagr10.chm66630
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasLinks Property
+# HasLinks Property (Excel Graph)
 
  **True** if the specified chart has links to an external data source. Read-only **Boolean**.
 

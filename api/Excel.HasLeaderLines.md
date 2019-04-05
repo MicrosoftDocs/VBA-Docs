@@ -1,5 +1,5 @@
 ---
-title: HasLeaderLines Property
+title: HasLeaderLines Property (Excel Graph)
 keywords: vbagr10.chm66930
 f1_keywords:
 - vbagr10.chm66930
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasLeaderLines Property
+# HasLeaderLines Property (Excel Graph)
 
  **True** if the series has leader lines. Read/write **Boolean**.
 

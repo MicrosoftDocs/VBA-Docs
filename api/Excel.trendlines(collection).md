@@ -1,5 +1,5 @@
 ---
-title: Trendlines Collection (Excel)
+title: Trendlines Collection (Excel Graph)
 keywords: vbagr10.chm5208077
 f1_keywords:
 - vbagr10.chm5208077
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Trendlines Collection (Excel)
+# Trendlines Collection (Excel Graph)
 
 A collection of all the  **[Trendline](Excel.Trendline-graph-object.md)** objects for the specified series. Each  **Trendline** object represents a trendline in a chart. A trendline shows the trend, or direction, of data in a series.
 

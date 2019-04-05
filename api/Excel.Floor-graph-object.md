@@ -1,5 +1,5 @@
 ---
-title: Floor Object
+title: Floor Object (Excel Graph)
 keywords: vbagr10.chm5207374
 f1_keywords:
 - vbagr10.chm5207374
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Floor Object
+# Floor Object (Excel Graph)
 
 Represents the floor of the specified 3-D chart.
 

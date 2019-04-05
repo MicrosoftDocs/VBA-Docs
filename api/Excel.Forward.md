@@ -1,5 +1,5 @@
 ---
-title: Forward Property
+title: Forward Property (Excel Graph)
 keywords: vbagr10.chm65727
 f1_keywords:
 - vbagr10.chm65727
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Forward Property
+# Forward Property (Excel Graph)
 
 Returns or sets the number of periods (or units on a scatter chart) that the trendline extends forward. Read/write  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Paste Method
+title: Paste Method (Excel Graph)
 keywords: vbagr10.chm5207755
 f1_keywords:
 - vbagr10.chm5207755
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Paste Method
+# Paste Method (Excel Graph)
 
 Pastes the contents of the Clipboard into the specified range on the datasheet.
 

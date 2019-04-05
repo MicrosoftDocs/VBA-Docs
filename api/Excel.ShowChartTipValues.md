@@ -1,5 +1,5 @@
 ---
-title: ShowChartTipValues Property
+title: ShowChartTipValues Property (Excel Graph)
 keywords: vbagr10.chm5207990
 f1_keywords:
 - vbagr10.chm5207990
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShowChartTipValues Property
+# ShowChartTipValues Property (Excel Graph)
 
  **True** if charts show chart tip values. The default value is **True**. Read/write  **Boolean**.
 

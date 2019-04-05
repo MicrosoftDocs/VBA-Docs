@@ -1,5 +1,5 @@
 ---
-title: CommandBars Property
+title: CommandBars Property (Excel Graph)
 keywords: vbagr10.chm66975
 f1_keywords:
 - vbagr10.chm66975
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CommandBars Property
+# CommandBars Property (Excel Graph)
 
 Returns a CommandBars object that represents the Graph command bars. Read-only CommandBars object.
 

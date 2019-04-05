@@ -1,5 +1,5 @@
 ---
-title: HasDataLabels Property
+title: HasDataLabels Property (Excel Graph)
 keywords: vbagr10.chm65614
 f1_keywords:
 - vbagr10.chm65614
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasDataLabels Property
+# HasDataLabels Property (Excel Graph)
 
  **True** if the series has data labels. Read/write **Boolean**.
 

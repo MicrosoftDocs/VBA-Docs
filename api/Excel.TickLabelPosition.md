@@ -1,5 +1,5 @@
 ---
-title: TickLabelPosition Property
+title: TickLabelPosition Property (Excel Graph)
 keywords: vbagr10.chm3077594
 f1_keywords:
 - vbagr10.chm3077594
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabelPosition Property
+# TickLabelPosition Property (Excel Graph)
 
 Describes the position of tick-mark labels on the specified axis. Read/write XlTickLabelPosition .
 

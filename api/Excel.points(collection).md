@@ -1,5 +1,5 @@
 ---
-title: Points Collection (Excel)
+title: Points Collection (Excel Graph)
 keywords: vbagr10.chm5207812
 f1_keywords:
 - vbagr10.chm5207812
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Points Collection (Excel)
+# Points Collection (Excel Graph)
 
 A collection of all the  **[Point](Excel.Point-graph-object.md)** objects in the specified series in a chart.
 

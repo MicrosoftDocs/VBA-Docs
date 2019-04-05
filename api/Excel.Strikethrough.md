@@ -1,5 +1,5 @@
 ---
-title: Strikethrough Property
+title: Strikethrough Property (Excel Graph)
 keywords: vbagr10.chm3077589
 f1_keywords:
 - vbagr10.chm3077589
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Strikethrough Property
+# Strikethrough Property (Excel Graph)
 
 True if the font is struck through with a horizontal line. Read/write Variant.
 

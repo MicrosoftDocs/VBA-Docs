@@ -1,5 +1,5 @@
 ---
-title: GradientStyle Property
+title: GradientStyle Property (Excel Graph)
 keywords: vbagr10.chm3077038
 f1_keywords:
 - vbagr10.chm3077038
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GradientStyle Property
+# GradientStyle Property (Excel Graph)
 
 Returns the gradient style for the specified fill. Read-only MsoGradientStyle .
 

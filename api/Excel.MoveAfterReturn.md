@@ -1,5 +1,5 @@
 ---
-title: MoveAfterReturn Property
+title: MoveAfterReturn Property (Excel Graph)
 keywords: vbagr10.chm65910
 f1_keywords:
 - vbagr10.chm65910
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MoveAfterReturn Property
+# MoveAfterReturn Property (Excel Graph)
 
  **True** if the active cell will be moved as soon as the ENTER (RETURN) key is pressed. Read/write **Boolean**.
 

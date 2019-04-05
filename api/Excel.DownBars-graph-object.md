@@ -1,5 +1,5 @@
 ---
-title: DownBars Object
+title: DownBars Object (Excel Graph)
 keywords: vbagr10.chm5207323
 f1_keywords:
 - vbagr10.chm5207323
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DownBars Object
+# DownBars Object (Excel Graph)
 
 Represents the down bars in the specified chart group. Down bars connect points in the first series in the chart group with lower values in the last series (the lines go down from the first series). Only 2-D line groups that contain at least two series can have down bars. This object isn't a collection. There's no object that represents a single down bar; either you have up bars and down bars turned on for all points in a chart group or you have them turned off.
 

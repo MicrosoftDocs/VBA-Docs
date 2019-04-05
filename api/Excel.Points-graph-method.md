@@ -1,5 +1,5 @@
 ---
-title: Points Method
+title: Points Method (Excel Graph)
 keywords: vbagr10.chm3077627
 f1_keywords:
 - vbagr10.chm3077627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Points Method
+# Points Method (Excel Graph)
 
 Returns an object that represents a single point or a collection of all the points in the series. Read-only.
 

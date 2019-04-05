@@ -1,5 +1,5 @@
 ---
-title: TickLabels Object
+title: TickLabels Object (Excel Graph)
 keywords: vbagr10.chm5208056
 f1_keywords:
 - vbagr10.chm5208056
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels Object
+# TickLabels Object (Excel Graph)
 
 Represents the tick-mark labels associated with tick marks on the specified chart axis. This object isn't a collection. There's no object that represents a single tick-mark label; you must return all the tick-mark labels as a unit.
 

@@ -1,5 +1,5 @@
 ---
-title: DataTable Object
+title: DataTable Object (Excel Graph)
 keywords: vbagr10.chm5207296
 f1_keywords:
 - vbagr10.chm5207296
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataTable Object
+# DataTable Object (Excel Graph)
 
 Represents a data table in the specified chart.
 

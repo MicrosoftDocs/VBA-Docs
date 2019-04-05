@@ -1,5 +1,5 @@
 ---
-title: DataSheet Object
+title: DataSheet Object (Excel Graph)
 keywords: vbagr10.chm131221
 f1_keywords:
 - vbagr10.chm131221
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataSheet Object
+# DataSheet Object (Excel Graph)
 
 Represents the Graph datasheet.
 

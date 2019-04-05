@@ -1,5 +1,5 @@
 ---
-title: PresetTexture Property
+title: PresetTexture Property (Excel Graph)
 keywords: vbagr10.chm67162
 f1_keywords:
 - vbagr10.chm67162
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PresetTexture Property
+# PresetTexture Property (Excel Graph)
 
 Returns the preset texture for the specified fill. Read-only MsoPresetTexture .
 

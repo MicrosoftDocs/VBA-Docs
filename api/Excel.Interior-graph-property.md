@@ -1,5 +1,5 @@
 ---
-title: Interior property
+title: Interior property (Excel Graph)
 keywords: vbagr10.chm65665
 f1_keywords:
 - vbagr10.chm65665
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Interior property
+# Interior property (Excel Graph)
 
 Returns an **[Interior](Excel.Interior-graph-object.md)** object that represents the interior of the specified object. Read-only.
 

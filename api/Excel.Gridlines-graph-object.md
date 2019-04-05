@@ -1,5 +1,5 @@
 ---
-title: Gridlines Object
+title: Gridlines Object (Excel Graph)
 keywords: vbagr10.chm131203
 f1_keywords:
 - vbagr10.chm131203
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Gridlines Object
+# Gridlines Object (Excel Graph)
 
 Represents major or minor gridlines on the specified chart axis. Gridlines extend the tick marks on a chart axis to make it easier to see the values associated with the data markers. This object isn't a collection. There's no object that represents a single gridline; either you have all gridlines for an axis turned on or you have them all turned off.
 

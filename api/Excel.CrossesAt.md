@@ -1,5 +1,5 @@
 ---
-title: CrossesAt Property
+title: CrossesAt Property (Excel Graph)
 keywords: vbagr10.chm65579
 f1_keywords:
 - vbagr10.chm65579
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CrossesAt Property
+# CrossesAt Property (Excel Graph)
 
 Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write  **Double**.
 

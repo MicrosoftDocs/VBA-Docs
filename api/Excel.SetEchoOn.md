@@ -1,5 +1,5 @@
 ---
-title: SetEchoOn Method
+title: SetEchoOn Method (Excel Graph)
 keywords: vbagr10.chm3077084
 f1_keywords:
 - vbagr10.chm3077084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SetEchoOn Method
+# SetEchoOn Method (Excel Graph)
 
 Returns a Chart object.
 

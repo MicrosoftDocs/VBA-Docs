@@ -1,5 +1,5 @@
 ---
-title: DataLabel Object
+title: DataLabel Object (Excel Graph)
 keywords: vbagr10.chm131186
 f1_keywords:
 - vbagr10.chm131186
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataLabel Object
+# DataLabel Object (Excel Graph)
 
 Represents the data label for the specified point or trendline in a chart. For a series, the  **DataLabel** object is a member of the **[DataLabels](Excel.datalabels(collection).md)** collection, which contains a  **DataLabel** object for each point. For a series without definable points (such as an area series), the **DataLabels** collection contains a single **DataLabel** object.
 

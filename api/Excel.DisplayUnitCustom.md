@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitCustom Property
+title: DisplayUnitCustom Property (Excel Graph)
 keywords: vbagr10.chm5241525
 f1_keywords:
 - vbagr10.chm5241525
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitCustom Property
+# DisplayUnitCustom Property (Excel Graph)
 
 If the value returned or set by the  **[DisplayUnit](Excel.DisplayUnit.md)** property is  **xlCustom**, the  **DisplayUnitCustom** property returns or sets the value of the units displayed for the value axis in the specified chart. The value must be a number from 0 through 10E307. Read/write **Double**.
 

@@ -1,5 +1,5 @@
 ---
-title: HasMajorGridlines Property
+title: HasMajorGridlines Property (Excel Graph)
 keywords: vbagr10.chm5207498
 f1_keywords:
 - vbagr10.chm5207498
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasMajorGridlines Property
+# HasMajorGridlines Property (Excel Graph)
 
  **True** if the axis has major gridlines. Only axes in the primary axis group can have gridlines. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: MarkerForegroundColorIndex Property
+title: MarkerForegroundColorIndex Property (Excel Graph)
 keywords: vbagr10.chm65612
 f1_keywords:
 - vbagr10.chm65612
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MarkerForegroundColorIndex Property
+# MarkerForegroundColorIndex Property (Excel Graph)
 
 Returns or sets the marker foreground color as an index into the current color palette, or as one of the following XlColorIndex constants. Read/write XlColorIndex .
 

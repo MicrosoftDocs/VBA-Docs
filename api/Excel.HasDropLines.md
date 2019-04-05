@@ -1,5 +1,5 @@
 ---
-title: HasDropLines Property
+title: HasDropLines Property (Excel Graph)
 keywords: vbagr10.chm5207474
 f1_keywords:
 - vbagr10.chm5207474
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasDropLines Property
+# HasDropLines Property (Excel Graph)
 
  **True** if the line chart or area chart has drop lines. Applies only to line and area charts. Read/write **Boolean**.
 

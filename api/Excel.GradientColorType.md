@@ -1,5 +1,5 @@
 ---
-title: GradientColorType Property
+title: GradientColorType Property (Excel Graph)
 keywords: vbagr10.chm3077036
 f1_keywords:
 - vbagr10.chm3077036
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GradientColorType Property
+# GradientColorType Property (Excel Graph)
 
 Returns the gradient color type for the specified fill. Read-only MsoGradientColorType .
 

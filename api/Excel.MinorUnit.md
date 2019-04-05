@@ -1,5 +1,5 @@
 ---
-title: MinorUnit Property
+title: MinorUnit Property (Excel Graph)
 keywords: vbagr10.chm3077551
 f1_keywords:
 - vbagr10.chm3077551
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MinorUnit Property
+# MinorUnit Property (Excel Graph)
 
 Returns or sets the minor units on the axis. Read/write Double.
 

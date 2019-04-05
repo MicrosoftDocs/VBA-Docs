@@ -1,5 +1,5 @@
 ---
-title: Corners Object
+title: Corners Object (Excel Graph)
 keywords: vbagr10.chm131200
 f1_keywords:
 - vbagr10.chm131200
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Corners Object
+# Corners Object (Excel Graph)
 
 Represents the corners of the specified 3-D chart. This object isn't a collection.
 

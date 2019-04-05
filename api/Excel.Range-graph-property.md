@@ -1,5 +1,5 @@
 ---
-title: Range property
+title: Range property (Excel Graph)
 keywords: vbagr10.chm65733
 f1_keywords:
 - vbagr10.chm65733

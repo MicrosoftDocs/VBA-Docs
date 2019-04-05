@@ -1,5 +1,5 @@
 ---
-title: Point Object
+title: Point Object (Excel Graph)
 keywords: vbagr10.chm131114
 f1_keywords:
 - vbagr10.chm131114
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Point Object
+# Point Object (Excel Graph)
 
 Represents a single point in a series on the specified chart. The  **Point** object is a member of the **[Points](Excel.points(collection).md)** collection, which contains all the points in the specified series.
 

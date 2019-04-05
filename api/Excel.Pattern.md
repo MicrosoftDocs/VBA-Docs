@@ -1,5 +1,5 @@
 ---
-title: Pattern Property
+title: Pattern Property (Excel Graph)
 keywords: vbagr10.chm65631
 f1_keywords:
 - vbagr10.chm65631
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Pattern Property
+# Pattern Property (Excel Graph)
 
 For the ChartFillFormat object, returns or sets the fill pattern, read-only MsoPatternType . For the Interior object, returns or sets the interior pattern, read/write Variant.
 

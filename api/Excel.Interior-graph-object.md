@@ -1,5 +1,5 @@
 ---
-title: Interior Object
+title: Interior Object (Excel Graph)
 keywords: vbagr10.chm5207570
 f1_keywords:
 - vbagr10.chm5207570
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Interior Object
+# Interior Object (Excel Graph)
 
 Represents the interior of the specified object.
 

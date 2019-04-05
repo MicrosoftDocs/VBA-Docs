@@ -1,5 +1,5 @@
 ---
-title: LeaderLines Object
+title: LeaderLines Object (Excel Graph)
 keywords: vbagr10.chm5207590
 f1_keywords:
 - vbagr10.chm5207590
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LeaderLines Object
+# LeaderLines Object (Excel Graph)
 
 Represents leader lines in the specified chart. Leader lines connect data labels to data points. This object isn't a collection; there's no object that represents a single leader line.
 

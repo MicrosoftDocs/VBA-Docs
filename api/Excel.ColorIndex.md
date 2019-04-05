@@ -1,5 +1,5 @@
 ---
-title: ColorIndex Property
+title: ColorIndex Property (Excel Graph)
 keywords: vbagr10.chm5207225
 f1_keywords:
 - vbagr10.chm5207225
@@ -12,7 +12,7 @@ localization_priority: Priority
 ---
 
 
-# ColorIndex property
+# ColorIndex property (Excel Graph)
 
 Returns or sets the color of the border, font, or interior, as shown in the following table. The color is specified as an index value into the current color palette, or as one of the following XlColorIndex constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Variant**.
 

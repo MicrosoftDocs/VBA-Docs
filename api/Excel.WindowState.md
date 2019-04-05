@@ -1,5 +1,5 @@
 ---
-title: WindowState Property
+title: WindowState Property (Excel Graph)
 keywords: vbagr10.chm65932
 f1_keywords:
 - vbagr10.chm65932
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WindowState Property
+# WindowState Property (Excel Graph)
 
 Returns or sets the state of the window. Read/write XlWindowState .
 

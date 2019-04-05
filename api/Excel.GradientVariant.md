@@ -1,5 +1,5 @@
 ---
-title: GradientVariant Property
+title: GradientVariant Property (Excel Graph)
 keywords: vbagr10.chm3077040
 f1_keywords:
 - vbagr10.chm3077040
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GradientVariant Property
+# GradientVariant Property (Excel Graph)
 
 Returns the shade variant for the specified fill as an integer value from 1 through 4. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) listed on the Gradient tab in the Fill Effects dialog box. Read-only Long.
 

@@ -1,5 +1,5 @@
 ---
-title: SaveAsOldFileFormat Method
+title: SaveAsOldFileFormat Method (Excel Graph)
 keywords: vbagr10.chm5207946
 f1_keywords:
 - vbagr10.chm5207946
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SaveAsOldFileFormat Method
+# SaveAsOldFileFormat Method (Excel Graph)
 
 In a host application such as Microsoft PowerPoint, saves a chart in the specified older file format.
 

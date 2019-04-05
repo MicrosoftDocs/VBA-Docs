@@ -1,5 +1,5 @@
 ---
-title: Trendline Object
+title: Trendline Object (Excel Graph)
 keywords: vbagr10.chm131198
 f1_keywords:
 - vbagr10.chm131198
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Trendline Object
+# Trendline Object (Excel Graph)
 
 Represents a trendline in the specified chart. A trendline shows the trend, or direction, of data in a series. The  **Trendline** object is a member of the **[Trendlines](Excel.trendlines(collection).md)** collection, which contains all the  **Trendline** objects for a single series.
 

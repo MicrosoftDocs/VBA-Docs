@@ -1,5 +1,5 @@
 ---
-title: Has3DEffect Property
+title: Has3DEffect Property (Excel Graph)
 keywords: vbagr10.chm67201
 f1_keywords:
 - vbagr10.chm67201
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Has3DEffect Property
+# Has3DEffect Property (Excel Graph)
 
  **True** if the series has a three-dimensional appearance. Applies only to bubble charts. Read/write **Boolean**.
 

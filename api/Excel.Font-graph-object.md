@@ -1,5 +1,5 @@
 ---
-title: Font Object
+title: Font Object (Excel Graph)
 keywords: vbagr10.chm131085
 f1_keywords:
 - vbagr10.chm131085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Font Object
+# Font Object (Excel Graph)
 
 Contains the font attributes (font name, font size, color, and so on) for the specified object.
 

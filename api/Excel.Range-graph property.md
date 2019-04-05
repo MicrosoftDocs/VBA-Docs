@@ -1,5 +1,5 @@
 ---
-title: Range property
+title: Range property (Excel Graph)
 keywords: vbagr10.chm65733
 f1_keywords:
 - vbagr10.chm65733
@@ -11,7 +11,9 @@ ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
-# Range property
+# Range property (Excel Graph) 
+
+<!--duplicate!! -->
 
 Returns a Range object that represents the specified cell or range of cells. Read-only Range object.
 

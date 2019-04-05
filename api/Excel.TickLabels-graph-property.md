@@ -1,5 +1,5 @@
 ---
-title: TickLabels Property
+title: TickLabels Property (Excel Graph)
 keywords: vbagr10.chm65627
 f1_keywords:
 - vbagr10.chm65627
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickLabels Property
+# TickLabels Property (Excel Graph)
 
 Returns a  **[TickLabels](Excel.TickLabels-graph-object.md)** collection that represents the tick-mark labels for the specified axis. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel Property
+title: DisplayUnitLabel Property (Excel Graph)
 keywords: vbagr10.chm67318
 f1_keywords:
 - vbagr10.chm67318
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel Property
+# DisplayUnitLabel Property (Excel Graph)
 
 Returns the  **[DisplayUnitLabel](Excel.DisplayUnitLabel-graph-object.md)** object for the value axis in the specified chart. Returns  **Null** if the **[HasDisplayUnitLabel](Excel.HasDisplayUnitLabel.md)** property is  **False**. Read-only.
 

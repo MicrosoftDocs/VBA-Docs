@@ -1,5 +1,5 @@
 ---
-title: ReadingOrder Property
+title: ReadingOrder Property (Excel Graph)
 keywords: vbagr10.chm5207913
 f1_keywords:
 - vbagr10.chm5207913
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReadingOrder Property
+# ReadingOrder Property (Excel Graph)
 
 Returns or sets the reading order for the specified object. Can be one of the following  **constants**. Read/write  **Long**.
 

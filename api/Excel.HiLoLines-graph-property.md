@@ -1,5 +1,5 @@
 ---
-title: HiLoLines Property
+title: HiLoLines Property (Excel Graph)
 keywords: vbagr10.chm65679
 f1_keywords:
 - vbagr10.chm65679
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HiLoLines Property
+# HiLoLines Property (Excel Graph)
 
 Returns a  **[HiLoLines](Excel.HiLoLines-graph-object.md)** object that represents the high-low lines for the specified series on a line chart. Applies only to line charts. Read-only.
 

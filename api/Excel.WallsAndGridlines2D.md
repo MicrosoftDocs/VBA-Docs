@@ -1,5 +1,5 @@
 ---
-title: WallsAndGridlines2D Property
+title: WallsAndGridlines2D Property (Excel Graph)
 keywords: vbagr10.chm65746
 f1_keywords:
 - vbagr10.chm65746
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# WallsAndGridlines2D Property
+# WallsAndGridlines2D Property (Excel Graph)
 
  **True** if gridlines are drawn two-dimensionally on a 3-D chart. Read/write **Boolean**.
 

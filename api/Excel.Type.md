@@ -1,5 +1,5 @@
 ---
-title: Type Property
+title: Type Property (Excel Graph)
 keywords: vbagr10.chm3077596
 f1_keywords:
 - vbagr10.chm3077596
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Type Property
+# Type Property (Excel Graph)
 
 Type property as it applies to the  **Axis** object.
 

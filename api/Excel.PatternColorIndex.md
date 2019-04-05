@@ -1,5 +1,5 @@
 ---
-title: PatternColorIndex Property
+title: PatternColorIndex Property (Excel Graph)
 keywords: vbagr10.chm3077568
 f1_keywords:
 - vbagr10.chm3077568
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PatternColorIndex Property
+# PatternColorIndex Property (Excel Graph)
 
 Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following XlColorIndex constants. Read/write Variant.
 

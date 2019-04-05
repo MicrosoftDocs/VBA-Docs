@@ -1,5 +1,5 @@
 ---
-title: MinimumScale Property
+title: MinimumScale Property (Excel Graph)
 keywords: vbagr10.chm65569
 f1_keywords:
 - vbagr10.chm65569
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MinimumScale Property
+# MinimumScale Property (Excel Graph)
 
 Returns or sets the minimum value on the axis. Read/write  **Double**.
 

@@ -1,5 +1,5 @@
 ---
-title: PresetGradientType Property
+title: PresetGradientType Property (Excel Graph)
 keywords: vbagr10.chm67173
 f1_keywords:
 - vbagr10.chm67173
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PresetGradientType Property
+# PresetGradientType Property (Excel Graph)
 
 Returns the preset gradient type for the specified fill. Read-only MsoPresetGradientType .
 

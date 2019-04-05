@@ -1,5 +1,5 @@
 ---
-title: ChartType Property
+title: ChartType Property (Excel Graph)
 keywords: vbagr10.chm66936
 f1_keywords:
 - vbagr10.chm66936
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartType Property
+# ChartType Property (Excel Graph)
 
 Returns or sets the chart type. Read/write XlChartType .
 

@@ -1,5 +1,5 @@
 ---
-title: Top Property
+title: Top Property (Excel Graph)
 keywords: vbagr10.chm65662
 f1_keywords:
 - vbagr10.chm65662
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Top Property
+# Top Property (Excel Graph)
 
 Top property as it applies to the  **Application** object.
 

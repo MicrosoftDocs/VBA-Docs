@@ -1,5 +1,5 @@
 ---
-title: LegendKey Property
+title: LegendKey Property (Excel Graph)
 keywords: vbagr10.chm65710
 f1_keywords:
 - vbagr10.chm65710
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LegendKey Property
+# LegendKey Property (Excel Graph)
 
 Returns a  **[LegendKey](Excel.LegendKey-graph-object.md)** object that represents the legend key associated with the entry.
 

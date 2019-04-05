@@ -1,5 +1,5 @@
 ---
-title: Clear Method
+title: Clear Method (Excel Graph)
 keywords: vbagr10.chm65647
 f1_keywords:
 - vbagr10.chm65647
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Clear Method
+# Clear Method (Excel Graph)
 
 Clear method as it applies to the  **ChartArea** and **Legend** objects.
 

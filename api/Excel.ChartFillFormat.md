@@ -1,5 +1,5 @@
 ---
-title: ChartFillFormat Object
+title: ChartFillFormat Object (Excel Graph)
 keywords: vbagr10.chm5207187
 f1_keywords:
 - vbagr10.chm5207187
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartFillFormat Object
+# ChartFillFormat Object (Excel Graph)
 
 Represents fill formatting.
 

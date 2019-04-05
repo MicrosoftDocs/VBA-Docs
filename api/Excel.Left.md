@@ -1,5 +1,5 @@
 ---
-title: Left Property
+title: Left Property (Excel Graph)
 keywords: vbagr10.chm65663
 f1_keywords:
 - vbagr10.chm65663
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Left Property
+# Left Property (Excel Graph)
 
 Left property as it applies to the  **Application**, and  **DataSheet** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle Object
+title: ChartTitle Object (Excel Graph)
 keywords: vbagr10.chm131081
 f1_keywords:
 - vbagr10.chm131081
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle Object
+# ChartTitle Object (Excel Graph)
 
 Represents the title of the specified chart.
 

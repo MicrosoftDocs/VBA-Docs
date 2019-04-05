@@ -1,5 +1,5 @@
 ---
-title: ColumnGroups Method
+title: ColumnGroups Method (Excel Graph)
 keywords: vbagr10.chm65547
 f1_keywords:
 - vbagr10.chm65547
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ColumnGroups Method
+# ColumnGroups Method (Excel Graph)
 
 On a 2-D chart, returns an object that represents either a single column chart group or a collection of the column chart groups.
 

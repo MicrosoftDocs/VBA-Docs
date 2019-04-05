@@ -1,5 +1,5 @@
 ---
-title: DeleteReplacement Method
+title: DeleteReplacement Method (Excel Graph)
 keywords: vbagr10.chm66683
 f1_keywords:
 - vbagr10.chm66683
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DeleteReplacement Method
+# DeleteReplacement Method (Excel Graph)
 
 Deletes an entry from the array of AutoCorrect replacements.
 

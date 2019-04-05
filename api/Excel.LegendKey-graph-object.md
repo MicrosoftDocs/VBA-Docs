@@ -1,5 +1,5 @@
 ---
-title: LegendKey Object
+title: LegendKey Object (Excel Graph)
 keywords: vbagr10.chm5207614
 f1_keywords:
 - vbagr10.chm5207614
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LegendKey Object
+# LegendKey Object (Excel Graph)
 
 Represents a legend key in the specified chart legend. Each legend key is a graphic that visually links a legend entry with its associated series or trendline in the chart. The legend key is linked to its associated series or trendline in such a way that changing the formatting of one simultaneously changes the formatting of the other.
 

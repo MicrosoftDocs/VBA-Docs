@@ -1,5 +1,5 @@
 ---
-title: PlotArea Object
+title: PlotArea Object (Excel Graph)
 keywords: vbagr10.chm131210
 f1_keywords:
 - vbagr10.chm131210
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlotArea Object
+# PlotArea Object (Excel Graph)
 
 Represents the plot area of the specified chart. This is the area where your chart data is plotted. The plot area in a 2-D chart contains the data markers, gridlines, data labels, trendlines, and optional chart items placed in the chart area. The plot area in a 3-D chart contains all the above items plus the walls, floor, axes, axis titles, and tick-mark labels in the chart.
 

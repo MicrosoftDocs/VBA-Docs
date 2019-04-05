@@ -1,5 +1,5 @@
 ---
-title: Elevation Property
+title: Elevation Property (Excel Graph)
 keywords: vbagr10.chm5207335
 f1_keywords:
 - vbagr10.chm5207335
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Elevation Property
+# Elevation Property (Excel Graph)
 
 Returns or sets the elevation of the 3-D chart view, in degrees. Read/write  **Long**.
 

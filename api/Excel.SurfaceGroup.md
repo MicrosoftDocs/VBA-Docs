@@ -1,5 +1,5 @@
 ---
-title: SurfaceGroup Property
+title: SurfaceGroup Property (Excel Graph)
 keywords: vbagr10.chm65558
 f1_keywords:
 - vbagr10.chm65558
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SurfaceGroup Property
+# SurfaceGroup Property (Excel Graph)
 
 Returns a ChartGroup object that represents the surface chart group of a 3-D chart. Read-only ChartGroup object.
 

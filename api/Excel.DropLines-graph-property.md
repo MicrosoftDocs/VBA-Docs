@@ -1,5 +1,5 @@
 ---
-title: DropLines Property
+title: DropLines Property (Excel Graph)
 keywords: vbagr10.chm5207331
 f1_keywords:
 - vbagr10.chm5207331
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DropLines Property
+# DropLines Property (Excel Graph)
 
 Returns a  **[DropLines](Excel.DropLines-graph-object.md)** object that represents the drop lines for a series on a line chart or area chart. Applies only to line charts or area charts. Read-only.
 

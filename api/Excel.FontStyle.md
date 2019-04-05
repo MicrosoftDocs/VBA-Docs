@@ -1,5 +1,5 @@
 ---
-title: FontStyle Property
+title: FontStyle Property (Excel Graph)
 keywords: vbagr10.chm65713
 f1_keywords:
 - vbagr10.chm65713
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FontStyle Property
+# FontStyle Property (Excel Graph)
 
 Returns or sets the font style. Read/write Variant.
 

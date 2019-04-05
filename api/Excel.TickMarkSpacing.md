@@ -1,5 +1,5 @@
 ---
-title: TickMarkSpacing Property
+title: TickMarkSpacing Property (Excel Graph)
 keywords: vbagr10.chm5208067
 f1_keywords:
 - vbagr10.chm5208067
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# TickMarkSpacing Property
+# TickMarkSpacing Property (Excel Graph)
 
 Returns or sets the number of categories or series between tick marks. Applies only to category and series axes. Read/write  **Long**.
 

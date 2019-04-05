@@ -1,5 +1,5 @@
 ---
-title: ChartGroup Object
+title: ChartGroup Object (Excel Graph)
 keywords: vbagr10.chm131097
 f1_keywords:
 - vbagr10.chm131097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartGroup Object
+# ChartGroup Object (Excel Graph)
 
 Represents one or more series of points plotted in a chart with the same format. A chart contains one or more chart groups, each chart group contains one or more  [series](Excel.Series-graph-object.md), and each series contains one or more  [points](Excel.Point-graph-object.md). For example, a single chart might contain both a line chart group, which contains all the series plotted with the line chart format, and a bar chart group, which contains all the series plotted with the bar chart format. The  **ChartGroup** object is a member of the **[ChartGroups](Excel.chartgroups(collection).md)** collection.
 

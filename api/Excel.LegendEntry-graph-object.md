@@ -1,5 +1,5 @@
 ---
-title: LegendEntry Object
+title: LegendEntry Object (Excel Graph)
 keywords: vbagr10.chm131194
 f1_keywords:
 - vbagr10.chm131194
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntry Object
+# LegendEntry Object (Excel Graph)
 
 Represents a legend entry in the specified chart legend. The  **LegendEntry** object is a member of the **[LegendEntries](Excel.legendentries(collection).md)** collection, which contains all the  **LegendEntry** objects in the legend.
 

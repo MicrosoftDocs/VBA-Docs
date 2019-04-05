@@ -1,5 +1,5 @@
 ---
-title: MajorUnitIsAuto Property
+title: MajorUnitIsAuto Property (Excel Graph)
 keywords: vbagr10.chm5207645
 f1_keywords:
 - vbagr10.chm5207645
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MajorUnitIsAuto Property
+# MajorUnitIsAuto Property (Excel Graph)
 
  **True** if Graph calculates the major units for the axis. Read/write **Boolean**.
 

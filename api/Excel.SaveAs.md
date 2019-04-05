@@ -1,5 +1,5 @@
 ---
-title: SaveAs Method
+title: SaveAs Method (Excel Graph)
 keywords: vbagr10.chm3077082
 f1_keywords:
 - vbagr10.chm3077082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SaveAs Method
+# SaveAs Method (Excel Graph)
 
 Saves changes to the graph in a different file.
 

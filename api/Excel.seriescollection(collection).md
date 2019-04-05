@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection Collection (Excel)
+title: SeriesCollection Collection (Excel Graph)
 keywords: vbagr10.chm131116
 f1_keywords:
 - vbagr10.chm131116
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection Collection (Excel)
+# SeriesCollection Collection (Excel Graph)
 
 A collection of all the  **[Series](Excel.Series-graph-object.md)** objects in the specified chart or chart group.
 

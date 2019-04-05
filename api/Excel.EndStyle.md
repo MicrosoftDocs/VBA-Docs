@@ -1,5 +1,5 @@
 ---
-title: EndStyle Property
+title: EndStyle Property (Excel Graph)
 ms.prod: excel
 api_name:
 - Excel.EndStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# EndStyle Property
+# EndStyle Property (Excel Graph)
 
 Returns or sets the end style for the error bars. Read/write  **xlEndStyleCap**.
 

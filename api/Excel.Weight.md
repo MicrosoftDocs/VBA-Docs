@@ -1,5 +1,5 @@
 ---
-title: Weight Property
+title: Weight Property (Excel Graph)
 keywords: vbagr10.chm65656
 f1_keywords:
 - vbagr10.chm65656
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Weight Property
+# Weight Property (Excel Graph)
 
 Returns or sets the weight of the border. Read/write 
  **xlBorderWeight**

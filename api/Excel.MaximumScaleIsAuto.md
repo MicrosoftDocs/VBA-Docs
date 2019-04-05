@@ -1,5 +1,5 @@
 ---
-title: MaximumScaleIsAuto Property
+title: MaximumScaleIsAuto Property (Excel Graph)
 keywords: vbagr10.chm65572
 f1_keywords:
 - vbagr10.chm65572
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MaximumScaleIsAuto Property
+# MaximumScaleIsAuto Property (Excel Graph)
 
  **True** if Graph calculates the maximum value for the axis. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Intercept Property
+title: Intercept Property (Excel Graph)
 keywords: vbagr10.chm65722
 f1_keywords:
 - vbagr10.chm65722
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Intercept Property
+# Intercept Property (Excel Graph)
 
 Returns or sets the point where the trendline crosses the value axis. Read/write  **Double**.
 

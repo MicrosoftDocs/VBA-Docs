@@ -1,5 +1,5 @@
 ---
-title: LegendEntries Method
+title: LegendEntries Method (Excel Graph)
 keywords: vbagr10.chm3077622
 f1_keywords:
 - vbagr10.chm3077622
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# LegendEntries Method
+# LegendEntries Method (Excel Graph)
 
 Returns an object that represents either a single legend entry or a collection of legend entries for the legend.
 

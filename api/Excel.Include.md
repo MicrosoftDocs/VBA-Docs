@@ -1,5 +1,5 @@
 ---
-title: Include Property
+title: Include Property (Excel Graph)
 keywords: vbagr10.chm65701
 f1_keywords:
 - vbagr10.chm65701
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Include Property
+# Include Property (Excel Graph)
 
 True if the data in the specified row or column is included in the chart. Read/write Variant.
 

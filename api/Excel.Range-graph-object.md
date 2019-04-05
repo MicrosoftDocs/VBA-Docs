@@ -1,5 +1,5 @@
 ---
-title: Range Object
+title: Range Object (Excel Graph)
 keywords: vbagr10.chm5207906
 f1_keywords:
 - vbagr10.chm5207906
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Range Object
+# Range Object (Excel Graph)
 
 Represents a cell, a row, a column, or a selection of cells that contains one or more contiguous blocks of cells.
 

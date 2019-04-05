@@ -1,5 +1,5 @@
 ---
-title: GradientDegree Property
+title: GradientDegree Property (Excel Graph)
 keywords: vbagr10.chm67177
 f1_keywords:
 - vbagr10.chm67177
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# GradientDegree Property
+# GradientDegree Property (Excel Graph)
 
 Returns the gradient degree of the specified one-color shaded fill as a floating-point value from 0.0 (dark) through 1.0 (light). Read-only Single.
 

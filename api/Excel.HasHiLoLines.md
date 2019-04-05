@@ -1,5 +1,5 @@
 ---
-title: HasHiLoLines Property
+title: HasHiLoLines Property (Excel Graph)
 keywords: vbagr10.chm5207483
 f1_keywords:
 - vbagr10.chm5207483
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasHiLoLines Property
+# HasHiLoLines Property (Excel Graph)
 
  **True** if the line chart has high-low lines. Applies only to line charts. Read/write **Boolean**.
 
