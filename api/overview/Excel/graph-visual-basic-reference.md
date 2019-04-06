@@ -14,7 +14,7 @@ This reference contains information about the collections, objects, methods, pro
 > [!NOTE] 
 > If you are looking for information about Microsoft Graph, the unified API endpoint, see [Microsoft Graph Overview](https://developer.microsoft.com/graph).
 > 
-> If you are looking for the Excel object model, see the [Excel VBA reference](overview/excel.md).
+> If you are looking for the Excel object model, see the [Excel VBA reference](../../overview/excel.md).
 
 See the following folders in the left navigation to find members of the Excel Graph reference:
 

@@ -30,7 +30,7 @@ _expression_ Required. An expression that returns one of the above objects.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_ChartType_ |Required |**[XlChartType](vba/api/excel.xlcharttype.md)** |A standard chart type.|
+|_ChartType_ |Required |**[XlChartType](excel.xlcharttype.md)** |A standard chart type.|
 
 
 ## Chart object
@@ -49,7 +49,7 @@ _expression_ Required. An expression that returns one of the above objects.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_ChartType_ |Required |**[XlChartType](vba/api/excel.xlcharttype.md)** |A standard chart type.|
+|_ChartType_ |Required |**[XlChartType](excel.xlcharttype.md)** |A standard chart type.|
 |_TypeName_|Optional |**Variant**|A **String** naming the custom chart type when _ChartType_ specifies a custom chart gallery.|
 
 ## Example
