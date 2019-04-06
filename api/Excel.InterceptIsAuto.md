@@ -1,5 +1,5 @@
 ---
-title: InterceptIsAuto Property
+title: InterceptIsAuto property (Excel Graph)
 keywords: vbagr10.chm65723
 f1_keywords:
 - vbagr10.chm65723
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InterceptIsAuto Property
+# InterceptIsAuto property (Excel Graph)
 
  **True** if the point where the trendline crosses the value axis is automatically determined by the regression. Read/write **Boolean**.
 
@@ -24,7 +24,7 @@ Setting the  **[Intercept](Excel.Intercept.md)** property sets this property to 
 
 ## Example
 
-This example sets Microsoft Graph to automatically determine the trendline intercept point. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets Graph to automatically determine the trendline intercept point. The example should be run on a 2-D column chart that contains a single series with a trendline.
 
 
 ```vb

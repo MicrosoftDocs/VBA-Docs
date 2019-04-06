@@ -1,5 +1,5 @@
 ---
-title: Column3DGroup Property
+title: Column3DGroup property (Excel Graph)
 keywords: vbagr10.chm3076976
 f1_keywords:
 - vbagr10.chm3076976
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Column3DGroup Property
+# Column3DGroup property (Excel Graph)
 
 Returns a ChartGroup object that represents the specified column chart group on a 3-D chart. Read-only ChartGroup object.
 

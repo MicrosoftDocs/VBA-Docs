@@ -1,5 +1,5 @@
 ---
-title: Separator Property
+title: Separator property (Excel Graph)
 keywords: vbagr10.chm3077086
 f1_keywords:
 - vbagr10.chm3077086
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Separator Property
+# Separator property (Excel Graph)
 
 Allows the user to set or return the separator used for the data labels on a chart. Read/write Variant.
 

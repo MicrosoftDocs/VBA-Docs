@@ -1,5 +1,5 @@
 ---
-title: Text Property
+title: Text property (Excel Graph)
 keywords: vbagr10.chm3077592
 f1_keywords:
 - vbagr10.chm3077592
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Text Property
+# Text property (Excel Graph)
 
 Returns or sets the text for the specified object. Read/write String.
 

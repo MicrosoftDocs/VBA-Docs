@@ -1,5 +1,5 @@
 ---
-title: Subscript Property
+title: Subscript property (Excel Graph)
 keywords: vbagr10.chm65715
 f1_keywords:
 - vbagr10.chm65715
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Subscript Property
+# Subscript property (Excel Graph)
 
  **True** if the specified font is formatted as subscript. The default value is **False**. Read/write  **Variant**.
 

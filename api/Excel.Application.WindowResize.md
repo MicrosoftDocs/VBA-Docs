@@ -29,7 +29,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook displayed in the resized window.|
-| _Wn_|Required| **Window**|The resized window.|
+| _Wn_|Required| **[Window](Excel.Window.md)**|The resized window.|
 
 ## Remarks
 

@@ -1,5 +1,5 @@
 ---
-title: MaximumScale Property
+title: MaximumScale property (Excel Graph)
 keywords: vbagr10.chm5207676
 f1_keywords:
 - vbagr10.chm5207676
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MaximumScale Property
+# MaximumScale property (Excel Graph)
 
 Returns or sets the maximum value on the axis. Read/write  **Double**.
 

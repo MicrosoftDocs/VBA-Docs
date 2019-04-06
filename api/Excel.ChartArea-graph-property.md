@@ -1,5 +1,5 @@
 ---
-title: ChartArea Property
+title: ChartArea property (Excel Graph)
 keywords: vbagr10.chm5207181
 f1_keywords:
 - vbagr10.chm5207181
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartArea Property
+# ChartArea property (Excel Graph)
 
 Returns a  **[ChartArea](Excel.ChartArea-graph-object.md)** object that represents the complete chart area for the chart. Read-only.
 

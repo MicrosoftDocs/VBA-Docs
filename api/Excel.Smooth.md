@@ -1,5 +1,5 @@
 ---
-title: Smooth Property
+title: Smooth property (Excel Graph)
 keywords: vbagr10.chm65699
 f1_keywords:
 - vbagr10.chm65699
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Smooth Property
+# Smooth property (Excel Graph)
 
 True if curve smoothing is turned on for the line chart or scatter chart. Applies only to line and scatter charts. Read/write Boolean.
 

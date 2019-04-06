@@ -1,5 +1,5 @@
 ---
-title: ErrorBars Property
+title: ErrorBars property (Excel Graph)
 ms.prod: excel
 api_name:
 - Excel.ErrorBars
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# ErrorBars Property
+# ErrorBars property (Excel Graph)
 
 Returns an  [ErrorBars](Excel.ErrorBars-graph-object.md) object that represents the error bars for the series. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: InvertIfNegative Property
+title: InvertIfNegative property (Excel Graph)
 keywords: vbagr10.chm65668
 f1_keywords:
 - vbagr10.chm65668
@@ -12,9 +12,9 @@ localization_priority: Normal
 ---
 
 
-# InvertIfNegative Property
+# InvertIfNegative property (Excel Graph)
 
-True if Microsoft Graph inverts the pattern in the item when it corresponds to a negative number. Read/write Boolean for all objects, except for the Interior object, which is read/write Variant.
+True if Graph inverts the pattern in the item when it corresponds to a negative number. Read/write Boolean for all objects, except for the Interior object, which is read/write Variant.
 
 _expression_. `InvertIfNegative`
 

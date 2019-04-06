@@ -1,5 +1,5 @@
 ---
-title: CorrectSentenceCap Property
+title: CorrectSentenceCap property (Excel Graph)
 keywords: vbagr10.chm67155
 f1_keywords:
 - vbagr10.chm67155
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# CorrectSentenceCap Property
+# CorrectSentenceCap property (Excel Graph)
 
- **True** if Microsoft Graph automatically corrects sentence (first word) capitalization. Read/write **Boolean**.
+ **True** if Graph automatically corrects sentence (first word) capitalization. Read/write **Boolean**.
 
 
 ## Example
 
-This example enables Microsoft Graph to automatically correct sentence capitalization.
+This example enables Graph to automatically correct sentence capitalization.
 
 
 ```vb

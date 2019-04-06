@@ -1,5 +1,5 @@
 ---
-title: Crosses Property
+title: Crosses property (Excel Graph)
 keywords: vbagr10.chm3076987
 f1_keywords:
 - vbagr10.chm3076987
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Crosses Property
+# Crosses property (Excel Graph)
 
 Returns or sets the point on the specified axis where the other axis crosses. Read/write XlAxisCrosses .
 
@@ -21,7 +21,7 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 |XlAxisCrosses can be one of these XlAxisCrosses constants.|
 | **xlAxisCrossesCustom**. The  **[CrossesAt](Excel.CrossesAt.md)** property specifies the axis crossing point.|
 | **xlAxisCrossesMinimum**. The axis crosses at the minimum value.|
-| **xlAxisCrossesAutomatic**. Microsoft Graph sets the axis crossing point.|
+| **xlAxisCrossesAutomatic**. Graph sets the axis crossing point.|
 | **xlAxisCrossesMaximum**. The axis crosses at the maximum value.|
 
 _expression_. `Crosses`

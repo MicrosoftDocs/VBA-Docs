@@ -7,20 +7,25 @@ ms.prod: excel
 api_name:
 - Excel.AxisTitle
 ms.assetid: a5a62dd3-5859-6f5c-5e28-6adbf400e08e
-ms.date: 06/08/2017
+ms.date: 04/06/2019
 localization_priority: Normal
 ---
 
 
-# AxisTitle Object
+# AxisTitle object (Excel Graph)
 
 Represents the title of an axis in a chart.
 
 
-## Using the AxisTitle Object
+## Remarks
 
-Use the  **AxisTitle** property to return an **AxisTitle** object. The following example sets the text of the value axis title and sets the font to 10-point Bookman.
+Use the **[AxisTitle](excel.axistitle-graph-property.md)** property to return an **AxisTitle** object. 
 
+The **AxisTitle** object doesn't exist and cannot be used unless the **[HasTitle](Excel.HasTitle.md)** property for the specified axis is **True**.
+
+## Example
+
+The following example sets the text of the value axis title and sets the font to 10-point Bookman.
 
 ```vb
 With myChart.Axes(xlValue) 
@@ -33,9 +38,9 @@ With myChart.Axes(xlValue)
 End With
 ```
 
+## See also
 
-## Remarks
-
-The  **AxisTitle** object doesn't exist and cannot be used unless the **[HasTitle](Excel.HasTitle.md)** property for the specified axis is  **True**.
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

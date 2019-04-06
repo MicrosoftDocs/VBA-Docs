@@ -1,5 +1,5 @@
 ---
-title: ShowLegendKey Property
+title: ShowLegendKey property (Excel Graph)
 keywords: vbagr10.chm65707
 f1_keywords:
 - vbagr10.chm65707
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShowLegendKey Property
+# ShowLegendKey property (Excel Graph)
 
  **True** if the data label legend key is visible. Read/write **Boolean**.
 

@@ -21,7 +21,7 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
 
 _expression_. `Characters`( `_Start_` , `_Length_` )
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters

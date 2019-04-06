@@ -1,5 +1,5 @@
 ---
-title: VaryByCategories Property
+title: VaryByCategories property (Excel Graph)
 keywords: vbagr10.chm65596
 f1_keywords:
 - vbagr10.chm65596
@@ -12,9 +12,9 @@ localization_priority: Normal
 ---
 
 
-# VaryByCategories Property
+# VaryByCategories property (Excel Graph)
 
- **True** if Microsoft Graph assigns a different color or pattern to each data marker. The chart must contain only one series. Read/write **Boolean**.
+ **True** if Graph assigns a different color or pattern to each data marker. The chart must contain only one series. Read/write **Boolean**.
 
 
 ## Example

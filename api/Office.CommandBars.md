@@ -42,7 +42,7 @@ cbar1.Visible = True
 
 <br/>
 
-Use enumName, where  _index_ is the name or index number of a command bar, to return a single **CommandBar** object. The following example docks the toolbar named **Custom1** at the bottom of the application window.
+Use enumName, where _index_ is the name or index number of a command bar, to return a single **CommandBar** object. The following example docks the toolbar named **Custom1** at the bottom of the application window.
 
 ```vb
 CommandBars("Custom1").Position = msoBarBottom

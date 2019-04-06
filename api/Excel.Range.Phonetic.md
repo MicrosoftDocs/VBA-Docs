@@ -21,7 +21,7 @@ Returns the  **[Phonetic](Excel.Phonetic.md)** object, which contains informatio
 
 _expression_. `Phonetic`
 
- _expression_ An expression that returns a [Range](excel.range-graph-property.md) object.
+ _expression_ An expression that returns a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -31,7 +31,7 @@ Phonetic
 
 ## Remarks
 
-This property provides compatibility with earlier versions of Microsoft Excel. You should use  **[Phonetics](Excel.Phonetics.md)** (_index_), where  _index_ is the index number of the phonetic text, to return a single **Phonetic** object.
+This property provides compatibility with earlier versions of Microsoft Excel. You should use  **[Phonetics](Excel.Phonetics.md)** (_index_), where _index_ is the index number of the phonetic text, to return a single **Phonetic** object.
 
 
 ## See also

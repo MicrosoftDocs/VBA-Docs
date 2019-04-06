@@ -1,5 +1,5 @@
 ---
-title: PlotOnX Property
+title: PlotOnX property (Excel Graph)
 keywords: vbagr10.chm67311
 f1_keywords:
 - vbagr10.chm67311
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PlotOnX Property
+# PlotOnX property (Excel Graph)
 
 Returns or sets the index of the data sheet row whose contents are to be used as the X-axis values in the specified X-Y scatter chart. Read/write  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Line3DGroup Property
+title: Line3DGroup property (Excel Graph)
 keywords: vbagr10.chm65556
 f1_keywords:
 - vbagr10.chm65556
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Line3DGroup Property
+# Line3DGroup property (Excel Graph)
 
 Returns a  **[ChartGroup](Excel.ChartGroup-graph-object.md)** object that represents the line chart group on a 3-D chart. Read-only.
 

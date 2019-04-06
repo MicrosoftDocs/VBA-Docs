@@ -21,7 +21,7 @@ Returns a value that represents the number of objects in the collection. Read-on
 
 _expression_. `CountLarge`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks

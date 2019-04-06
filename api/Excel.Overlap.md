@@ -1,5 +1,5 @@
 ---
-title: Overlap Property
+title: Overlap property (Excel Graph)
 keywords: vbagr10.chm5207749
 f1_keywords:
 - vbagr10.chm5207749
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Overlap Property
+# Overlap property (Excel Graph)
 
 Specifies how bars and columns are positioned. Can be a value between -100 and 100. Applies only to 2-D bar and 2-D column charts. Read/write  **Long**.
 

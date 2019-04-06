@@ -1,5 +1,5 @@
 ---
-title: WallsAndGridlines2D Property
+title: WallsAndGridlines2D property (Excel Graph)
 keywords: vbagr10.chm65746
 f1_keywords:
 - vbagr10.chm65746
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# WallsAndGridlines2D Property
+# WallsAndGridlines2D property (Excel Graph)
 
  **True** if gridlines are drawn two-dimensionally on a 3-D chart. Read/write **Boolean**.
 
 
 ## Example
 
-This example causes Microsoft Graph to draw 2-D gridlines for the chart.
+This example causes Graph to draw 2-D gridlines for the chart.
 
 
 ```vb

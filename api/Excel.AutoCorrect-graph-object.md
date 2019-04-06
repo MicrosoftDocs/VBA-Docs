@@ -7,20 +7,22 @@ ms.prod: excel
 api_name:
 - Excel.AutoCorrect
 ms.assetid: 68fa11da-e28f-53cd-3d50-a1f19d261a02
-ms.date: 06/08/2017
+ms.date: 04/06/2019
 localization_priority: Normal
 ---
 
 
 # AutoCorrect object (Excel Graph)
 
-Contains Microsoft Graph AutoCorrect attributes (capitalization of names of days, correction of two initial capital letters, automatic correction list, and so on).
+Contains Graph AutoCorrect attributes (capitalization of names of days, correction of two initial capital letters, automatic correction list, and so on).
 
+## Remarks
 
-## Using the AutoCorrect Object
+Use the **[AutoCorrect](Excel.AutoCorrect-graph-property.md)** property to return the **AutoCorrect** object. 
 
-Use the  **[AutoCorrect](Excel.AutoCorrect-graph-property.md)** property to return the  **AutoCorrect** object. The following example sets Microsoft Graph to correct words that begin with two initial capital letters.
+## Example
 
+The following example sets Graph to correct words that begin with two initial capital letters.
 
 ```vb
 With myChart.Application.AutoCorrect 
@@ -28,5 +30,10 @@ With myChart.Application.AutoCorrect
  .ReplaceText = True 
 End With
 ```
+
+## See also
+
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

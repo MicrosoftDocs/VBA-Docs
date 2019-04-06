@@ -1,5 +1,5 @@
 ---
-title: Perspective Property
+title: Perspective property (Excel Graph)
 keywords: vbagr10.chm65593
 f1_keywords:
 - vbagr10.chm65593
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Perspective Property
+# Perspective property (Excel Graph)
 
 Returns or sets the perspective for the 3-D chart view. Must be from 0 through 100. This property is ignored if the  **[RightAngleAxes](Excel.RightAngleAxes.md)** property is **True**. Read/write  **Long**.
 

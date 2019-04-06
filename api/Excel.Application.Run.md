@@ -28,8 +28,8 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Macro_|Optional| **Variant**|The macro to run. This can be either a string with the macro name, a **[Range](Excel.Range(object).md)** object indicating where the function is, or a register ID for a registered DLL (XLL) function. If a string is used, the string will be evaluated in the context of the active sheet.|
-| _Arg1_ &ndash; _Arg30_|Optional| **Variant**|An argument that should be passed to the function.|
+| _Macro_|Optional| **Variant**|The macro to run.<br/><br/>This can be either a string with the macro name, a **[Range](Excel.Range(object).md)** object indicating where the function is, or a register ID for a registered DLL (XLL) function.<br/><br/>If a string is used, the string will be evaluated in the context of the active sheet.|
+| _Arg1_&ndash;_Arg30_|Optional| **Variant**|An argument that should be passed to the function.|
 
 ## Return value
 

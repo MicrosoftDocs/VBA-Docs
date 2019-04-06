@@ -1,5 +1,5 @@
 ---
-title: UpBars Property
+title: UpBars property (Excel Graph)
 keywords: vbagr10.chm5208103
 f1_keywords:
 - vbagr10.chm5208103
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# UpBars Property
+# UpBars property (Excel Graph)
 
 Returns an  **[UpBars](Excel.UpBars-graph-object.md)** object that represents the up bars on a line chart. Applies only to line charts. Read-only.
 

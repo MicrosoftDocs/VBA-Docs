@@ -7,13 +7,15 @@ ms.prod: excel
 api_name:
 - Excel.Chart
 ms.assetid: 09cd714c-7bdb-4cb5-dbdc-796a83c860fd
-ms.date: 06/08/2017
+ms.date: 04/06/2019
 localization_priority: Normal
 ---
 
 
 # Chart method (Excel Graph)
 
-Returns a  **Chart** object that represents the Microsoft Graph chart.
+Returns a **Chart** object that represents the Graph chart.
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

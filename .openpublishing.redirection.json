@@ -2587,6 +2587,22 @@
           {
             "source_path": "api/Access.ToggleButton.BeforeUpdate(property).md",
             "redirect_url": "/office/vba/api/Access.ToggleButton.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/overview/Excel/collections-graph-visual-basic-reference.md",
+            "redirect_url": "/office/vba/api/overview/excel/graph-visual-basic-reference"
+          },
+          {
+            "source_path": "api/overview/Excel/objects-graph-visual-basic-reference.md",
+            "redirect_url": "/office/vba/api/overview/excel/graph-visual-basic-reference"
+          },
+          {
+            "source_path": "api/overview/methods-graph-visual-basic-reference.md",
+            "redirect_url": "/office/vba/api/overview/excel/graph-visual-basic-reference"
+          },
+          {
+            "source_path": "api/overview/properties-graph-visual-basic-reference.md",
+            "redirect_url": "/office/vba/api/overview/excel/graph-visual-basic-reference"
           }
     ]
 }

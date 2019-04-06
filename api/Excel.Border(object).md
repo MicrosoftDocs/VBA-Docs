@@ -91,7 +91,6 @@ _Index_ can be one of the following **[XlBordersIndex](Excel.XlBordersIndex.md)*
 
 ## See also
 
-- [Border object (Excel Graph)](Excel.Border-graph-object.md)
 - [Excel Object Model Reference](overview/Excel/object-model.md)
 
 

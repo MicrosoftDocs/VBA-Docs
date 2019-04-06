@@ -21,7 +21,7 @@ Fills left from the rightmost cell or cells in the specified range. The contents
 
 _expression_. `FillLeft`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value

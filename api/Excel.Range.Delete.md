@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**( _Shift_ )
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value that represents the text orientation.
 
 _expression_.**Orientation**
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks

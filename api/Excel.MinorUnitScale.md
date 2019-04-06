@@ -1,5 +1,5 @@
 ---
-title: MinorUnitScale Property
+title: MinorUnitScale property (Excel Graph)
 keywords: vbagr10.chm67186
 f1_keywords:
 - vbagr10.chm67186
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MinorUnitScale Property
+# MinorUnitScale property (Excel Graph)
 
 Returns or sets the minor unit scale value for the category axis when the CategoryType property is set to xlTimeScale. Read/write XlTimeUnit .
 

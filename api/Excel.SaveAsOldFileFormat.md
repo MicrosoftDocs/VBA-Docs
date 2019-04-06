@@ -1,5 +1,5 @@
 ---
-title: SaveAsOldFileFormat Method
+title: SaveAsOldFileFormat method (Excel Graph)
 keywords: vbagr10.chm5207946
 f1_keywords:
 - vbagr10.chm5207946
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SaveAsOldFileFormat Method
+# SaveAsOldFileFormat method (Excel Graph)
 
 In a host application such as Microsoft PowerPoint, saves a chart in the specified older file format.
 
@@ -25,7 +25,7 @@ _expression_. `SaveAsOldFileFormat( _MajorVersion_`,  `_MinorVersion)_`
 
 ## Example
 
-This example saves the chart in Microsoft Graph version 5.0 file format.
+This example saves the chart in Graph version 5.0 file format.
 
 
 ```vb

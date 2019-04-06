@@ -14,7 +14,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-The unbound object frame control displays a picture, chart, or any OLE object not stored in a table. For example, you can use an unbound object frame to display a chart that you created and stored in Microsoft Graph.
+The unbound object frame control displays a picture, chart, or any OLE object not stored in a table. For example, you can use an unbound object frame to display a chart that you created and stored in Graph.
 
 ## Remarks
 

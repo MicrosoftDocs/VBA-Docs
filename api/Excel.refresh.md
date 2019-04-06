@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Refresh Method (Excel Graph)
+# Refresh method (Excel Graph)
 
 Causes the specified chart to be redrawn immediately.
 

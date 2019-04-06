@@ -14,7 +14,9 @@ localization_priority: Normal
 
 # Application.OperatingSystem property (Excel)
 
-Returns the name and version number of the current operating system. For example:
+Returns the name and version number of the current operating system. Read-only **String**.
+
+For example:
 
 - "Windows (32-bit) 4.00" or "Macintosh 7.00"
 
@@ -22,7 +24,7 @@ Returns the name and version number of the current operating system. For example
 
 - "Windows (64-bit) NT :.00" with Win10 (64-bit) and Excel 2016 (16.0.6326.1010, 64-bit)
 
-Read-only **String**.
+
 
 
 ## Syntax

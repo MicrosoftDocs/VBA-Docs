@@ -1,5 +1,5 @@
 ---
-title: DisplayBlanksAs Property
+title: DisplayBlanksAs property (Excel Graph)
 keywords: vbagr10.chm3077021
 f1_keywords:
 - vbagr10.chm3077021
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayBlanksAs Property
+# DisplayBlanksAs property (Excel Graph)
 
 Returns or sets the way that blank cells are plotted on a chart. Read/write XlDisplayBlanksAs .
 
@@ -29,7 +29,7 @@ _expression_. `DisplayBlanksAs`
 
 ## Example
 
-This example sets Microsoft Graph to not plot blank cells.
+This example sets Graph to not plot blank cells.
 
 
 ```vb

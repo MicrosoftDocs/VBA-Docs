@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BaseUnitIsAuto property (Excel Graph)
 
-True if Microsoft Graph chooses appropriate base units for the specified category axis. The default value is True. Read/write Boolean.
+True if Graph chooses appropriate base units for the specified category axis. The default value is True. Read/write Boolean.
 
 _expression_. `BaseUnitIsAuto`
 

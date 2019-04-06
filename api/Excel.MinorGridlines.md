@@ -1,5 +1,5 @@
 ---
-title: MinorGridlines Property
+title: MinorGridlines property (Excel Graph)
 keywords: vbagr10.chm5207695
 f1_keywords:
 - vbagr10.chm5207695
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# MinorGridlines Property
+# MinorGridlines property (Excel Graph)
 
 Returns a  **[Gridlines](Excel.Gridlines-graph-object.md)** object that represents the minor gridlines for the specified axis. Only axes in the primary axis group can have gridlines. Read-only.
 

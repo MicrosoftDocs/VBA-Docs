@@ -21,7 +21,7 @@ Returns a  **[Comment](Excel.Comment.md)** object that represents the comment as
 
 _expression_. `Comment`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## See also

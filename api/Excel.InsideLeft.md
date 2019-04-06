@@ -1,5 +1,5 @@
 ---
-title: InsideLeft Property
+title: InsideLeft property (Excel Graph)
 keywords: vbagr10.chm5207555
 f1_keywords:
 - vbagr10.chm5207555
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InsideLeft Property
+# InsideLeft property (Excel Graph)
 
 Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-only  **Double**.
 

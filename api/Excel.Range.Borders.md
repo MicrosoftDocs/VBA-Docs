@@ -21,7 +21,7 @@ Returns a  **[Borders](Excel.Borders.md)** collection that represents the border
 
 _expression_.**Borders**
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example

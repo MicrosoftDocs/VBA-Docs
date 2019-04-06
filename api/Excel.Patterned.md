@@ -1,5 +1,5 @@
 ---
-title: Patterned Method
+title: Patterned method (Excel Graph)
 keywords: vbagr10.chm67164
 f1_keywords:
 - vbagr10.chm67164
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Patterned Method
+# Patterned method (Excel Graph)
 
 Sets a pattern for the specified fill.
 

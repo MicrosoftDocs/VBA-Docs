@@ -21,7 +21,7 @@ If the specified cell is part of an array, returns a  **[Range](Excel.Range(obje
 
 _expression_. `CurrentArray`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example

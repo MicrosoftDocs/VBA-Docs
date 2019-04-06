@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection Method
+title: SeriesCollection method (Excel Graph)
 keywords: vbagr10.chm65604
 f1_keywords:
 - vbagr10.chm65604
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SeriesCollection Method
+# SeriesCollection method (Excel Graph)
 
 Returns an object that represents either a single series or a collection of all the series in the chart or chart group.
 

@@ -1,5 +1,5 @@
 ---
-title: Export Method
+title: Export method (Excel Graph)
 keywords: vbagr10.chm66950
 f1_keywords:
 - vbagr10.chm66950
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Export Method
+# Export method (Excel Graph)
 
 Exports the chart in a graphic format. Returns a value of type  **Boolean**.
 
@@ -22,7 +22,7 @@ _expression_. `Export( _FileName_`,  `_FilterName_`,  `_Interactive_)`
 
  **FileName** Required **String**. The name of the exported file.
  **FilterName** Optional **Variant**. The language-independent name of the graphic filter as it appears in the registry.
- **Interactive** Optional **Variant**.  **True** to display the dialog box that contains the filter-specific options. If this argument is **False**, Microsoft Graph uses the default values for the filter. The default value is  **False**.
+ **Interactive** Optional **Variant**.  **True** to display the dialog box that contains the filter-specific options. If this argument is **False**, Graph uses the default values for the filter. The default value is  **False**.
 
 ## Example
 

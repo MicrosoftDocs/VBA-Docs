@@ -1,5 +1,5 @@
 ---
-title: InsideTop Property
+title: InsideTop property (Excel Graph)
 keywords: vbagr10.chm67204
 f1_keywords:
 - vbagr10.chm67204
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InsideTop Property
+# InsideTop property (Excel Graph)
 
 Returns the distance from the chart edge to the inside top edge of the plot area, in points. Read-only  **Double**.
 

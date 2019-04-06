@@ -21,7 +21,7 @@ Checks the spelling of an object.
 
 _expression_. `CheckSpelling`( `_CustomDictionary_` , `_IgnoreUppercase_` , `_AlwaysSuggest_` , `_SpellLang_` )
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters

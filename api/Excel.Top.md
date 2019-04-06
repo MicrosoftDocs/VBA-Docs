@@ -1,5 +1,5 @@
 ---
-title: Top Property
+title: Top property (Excel Graph)
 keywords: vbagr10.chm65662
 f1_keywords:
 - vbagr10.chm65662
@@ -12,11 +12,11 @@ localization_priority: Normal
 ---
 
 
-# Top Property
+# Top property (Excel Graph)
 
 Top property as it applies to the  **Application** object.
 
-Returns or sets the position of the Application object. The distance from the top edge of the screen to the top edge of the main Microsoft Graph window. In Windows, if the application window is minimized, this property controls the position of the window icon (anywhere on the screen). Read/write Double.
+Returns or sets the position of the Application object. The distance from the top edge of the screen to the top edge of the main Graph window. In Windows, if the application window is minimized, this property controls the position of the window icon (anywhere on the screen). Read/write Double.
 
 _expression_.**Top**
 

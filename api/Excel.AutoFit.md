@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AutoFit
 ms.assetid: 45dea7dd-7695-1f72-9bf7-9ab4cbbd74ec
-ms.date: 06/08/2017
+ms.date: 04/06/2019
 localization_priority: Normal
 ---
 
@@ -16,9 +16,11 @@ localization_priority: Normal
 
 Changes the width of the columns in the specified range to achieve the best fit.
 
-_expression_. `AutoFit`
+## Syntax
 
- _expression_ Required. An expression that returns a [Range](excel.range-graph-property.md) object. Must be a row or a range of rows, or a column or a range of columns. Otherwise, this method causes an error.
+_expression_.**AutoFit**
+
+_expression_ Required. An expression that returns a **[Range](excel.range-graph-object.md)** object. Must be a row or a range of rows, or a column or a range of columns. Otherwise, this method causes an error.
 
 
 ## Remarks
@@ -30,18 +32,17 @@ One unit of column width is equal to the width of one character in the Normal st
 
 This example changes the width of columns A through I on the datasheet to achieve the best fit.
 
-
 ```vb
 myChart.Application.DataSheet.Columns("A:I").AutoFit
 ```
 
+<br/>
+
 This example changes the width of columns A through E on the datasheet to achieve the best fit, based only on the contents of cells A1:E1.
-
-
-
 
 ```vb
 myChart.Application.DataSheet.Range("A1:E1").Columns.AutoFit
 ```
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

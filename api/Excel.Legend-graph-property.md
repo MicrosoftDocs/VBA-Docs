@@ -1,5 +1,5 @@
 ---
-title: Legend Property
+title: Legend property (Excel Graph)
 keywords: vbagr10.chm5207602
 f1_keywords:
 - vbagr10.chm5207602
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Legend Property
+# Legend property (Excel Graph)
 
 Returns a  **[Legend](Excel.Legend-graph-object.md)** object that represents the legend for the specified chart. Read-only.
 

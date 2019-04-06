@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Border
 ms.assetid: cb5ee6ef-f497-5113-85e4-a312871ad072
-ms.date: 03/07/2019
+ms.date: 04/06/2019
 localization_priority: Normal
 ---
 
@@ -35,7 +35,7 @@ End With
 
 ## See also
 
-- [Border object (Excel)](Excel.Border(object).md)
-
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

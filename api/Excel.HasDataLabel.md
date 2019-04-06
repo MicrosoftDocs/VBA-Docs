@@ -1,5 +1,5 @@
 ---
-title: HasDataLabel Property
+title: HasDataLabel property (Excel Graph)
 keywords: vbagr10.chm5207462
 f1_keywords:
 - vbagr10.chm5207462
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasDataLabel Property
+# HasDataLabel property (Excel Graph)
 
  **True** if the point has a data label. Read/write **Boolean**.
 

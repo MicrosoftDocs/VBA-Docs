@@ -1,5 +1,5 @@
 ---
-title: MinorUnitIsAuto Property
+title: MinorUnitIsAuto property (Excel Graph)
 keywords: vbagr10.chm65576
 f1_keywords:
 - vbagr10.chm65576
@@ -12,9 +12,9 @@ localization_priority: Normal
 ---
 
 
-# MinorUnitIsAuto Property
+# MinorUnitIsAuto property (Excel Graph)
 
- **True** if Microsoft Graph calculates minor units for the axis. Read/write **Boolean**.
+ **True** if Graph calculates minor units for the axis. Read/write **Boolean**.
 
 
 ## Remarks

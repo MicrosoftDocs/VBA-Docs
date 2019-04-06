@@ -21,7 +21,7 @@ Calculates a specified range of cells.
 
 _expression_. `CalculateRowMajorOrder`
 
- _expression_ An expression that returns a [Range](excel.range-graph-property.md) object.
+ _expression_ An expression that returns a **[Range](excel.range(object).md)** object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: ReplaceText Property
+title: ReplaceText property (Excel Graph)
 keywords: vbagr10.chm5207920
 f1_keywords:
 - vbagr10.chm5207920
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ReplaceText Property
+# ReplaceText property (Excel Graph)
 
  **True** if text in the list of AutoCorrect replacements is replaced automatically. Read/write **Boolean**.
 

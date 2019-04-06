@@ -1,5 +1,5 @@
 ---
-title: Insert Method
+title: Insert method (Excel Graph)
 keywords: vbagr10.chm3077620
 f1_keywords:
 - vbagr10.chm3077620
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Insert Method
+# Insert method (Excel Graph)
 
 Inserts a cell or a range of cells into the datasheet and shifts other cells away to make space.
 
@@ -27,7 +27,7 @@ _expression_. `Insert`( `_Shift_`)
 
 |XlInsertShiftDirection can be one of these XlInsertShiftDirection constants.|
 | **xlShiftToRight**|
-| **xlShiftDown**If this argument is omitted, Microsoft Graph decides based on the shape of the range.|
+| **xlShiftDown**If this argument is omitted, Graph decides based on the shape of the range.|
 
 ## Example
 

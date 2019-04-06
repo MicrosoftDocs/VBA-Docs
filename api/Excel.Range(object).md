@@ -407,7 +407,6 @@ End Sub
 
 ## See also
 
-- [Range object (Excel Graph)](excel.range-graph-property.md)
 - [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

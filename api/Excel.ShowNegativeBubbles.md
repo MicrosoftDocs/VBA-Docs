@@ -1,5 +1,5 @@
 ---
-title: ShowNegativeBubbles Property
+title: ShowNegativeBubbles property (Excel Graph)
 keywords: vbagr10.chm67190
 f1_keywords:
 - vbagr10.chm67190
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ShowNegativeBubbles Property
+# ShowNegativeBubbles property (Excel Graph)
 
  **True** if negative bubbles are shown for the chart group. Valid only for bubble charts. Read/write **Boolean**.
 

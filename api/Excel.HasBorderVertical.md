@@ -1,5 +1,5 @@
 ---
-title: HasBorderVertical Property
+title: HasBorderVertical property (Excel Graph)
 keywords: vbagr10.chm5207458
 f1_keywords:
 - vbagr10.chm5207458
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasBorderVertical Property
+# HasBorderVertical property (Excel Graph)
 
  **True** if the chart data table has vertical cell borders. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: RightAngleAxes Property
+title: RightAngleAxes property (Excel Graph)
 keywords: vbagr10.chm3077581
 f1_keywords:
 - vbagr10.chm3077581
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RightAngleAxes Property
+# RightAngleAxes property (Excel Graph)
 
 True if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3-D line, column, and bar charts. Read/write Variant.
 

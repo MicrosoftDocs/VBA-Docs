@@ -1,5 +1,5 @@
 ---
-title: FileImport Method
+title: FileImport method (Excel Graph)
 keywords: vbagr10.chm5207362
 f1_keywords:
 - vbagr10.chm5207362
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# FileImport Method
+# FileImport method (Excel Graph)
 
 Imports a specified file or range, or an entire sheet of data.
 

@@ -21,7 +21,7 @@ Creates a merged cell from the specified  **[Range](Excel.Range(object).md)** ob
 
 _expression_. `Merge`( `_Across_` )
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters

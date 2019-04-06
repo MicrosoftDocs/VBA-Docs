@@ -1,5 +1,5 @@
 ---
-title: SetDefaultChart Method
+title: SetDefaultChart method (Excel Graph)
 keywords: vbagr10.chm65755
 f1_keywords:
 - vbagr10.chm65755
@@ -12,9 +12,9 @@ localization_priority: Normal
 ---
 
 
-# SetDefaultChart Method
+# SetDefaultChart method (Excel Graph)
 
-Specifies the name of the chart template that Microsoft Graph will use when creating new charts.
+Specifies the name of the chart template that Graph will use when creating new charts.
 
 _expression_. `SetDefaultChart`( `_FormatName_`,  `_Gallery_`)
 

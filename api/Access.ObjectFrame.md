@@ -19,7 +19,7 @@ This object corresponds to an unbound object frame. The unbound object frame con
 
 ## Remarks
 
-For example, you can use an unbound object frame to display a chart that you created and stored in Microsoft Graph.
+For example, you can use an unbound object frame to display a chart that you created and stored in Graph.
 
 This control allows you to create or edit the object from within a Microsoft Access form or report by using the application in which the object was originally created.
 

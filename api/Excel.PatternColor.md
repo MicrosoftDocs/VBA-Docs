@@ -1,5 +1,5 @@
 ---
-title: PatternColor property
+title: PatternColor property (Excel Graph)
 keywords: vbagr10.chm5207763
 f1_keywords:
 - vbagr10.chm5207763
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# PatternColor property
+# PatternColor property (Excel Graph)
 
 Returns or sets the color of the interior pattern as an RGB value. Read/write **Variant**.
 

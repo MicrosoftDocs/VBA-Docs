@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoCorrect property (Excel Graph)
 
-Returns an  **[AutoCorrect](Excel.AutoCorrect-graph-object.md)** object that represents the Microsoft Graph AutoCorrect attributes. Read-only.
+Returns an  **[AutoCorrect](Excel.AutoCorrect-graph-object.md)** object that represents the Graph AutoCorrect attributes. Read-only.
 
 
 ## Example

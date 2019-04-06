@@ -1,5 +1,5 @@
 ---
-title: Cut Method
+title: Cut method (Excel Graph)
 keywords: vbagr10.chm5207276
 f1_keywords:
 - vbagr10.chm5207276
@@ -12,13 +12,13 @@ localization_priority: Normal
 ---
 
 
-# Cut Method
+# Cut method (Excel Graph)
 
 Cuts the specified range to the Clipboard or pastes it into a specified destination.
 
 _expression_. `Cut( _Destination_)`
 
- _expression_ Required. An expression that returns a [Range](excel.range-graph-property.md) object.
+ _expression_ Required. An expression that returns a **[Range](excel.range-graph-object.md)** object.
 
  **Destination** Optional **Variant**. The range where the object should be pasted. If this argument is omitted, the object is cut to the Clipboard.
 

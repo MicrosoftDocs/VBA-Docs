@@ -1,5 +1,5 @@
 ---
-title: HasErrorBars Property
+title: HasErrorBars property (Excel Graph)
 keywords: vbagr10.chm65696
 f1_keywords:
 - vbagr10.chm65696
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasErrorBars Property
+# HasErrorBars property (Excel Graph)
 
  **True** if the series has error bars. This property isn't available for 3-D charts. Read/write **Boolean**.
 

@@ -14,13 +14,14 @@ localization_priority: Normal
 
 # Application object (Excel Graph)
 
-Represents the entire Microsoft Graph application. The **Application** object represents the top level of the object hierarchy and contains all of the objects, properties, and methods for the application.
+Represents the entire Graph application. The **Application** object represents the top level of the object hierarchy and contains all of the objects, methods, and properties for the application.
 
 
 ## Remarks
 
 Use the **[Application](excel.application-graph-property.md)** property to return the **Application** object. 
 
+Use the **[Update](Excel.Update.md)** method to update the specified embedded object in the host file.
 
 ## Example
 
@@ -30,8 +31,10 @@ The following example applies the **DataSheet** property to the **Application** 
 myChart.Application.DataSheet.Range("A1").Value = 32
 ```
 
+
 ## See also
 
-- [Application object (Excel)](excel.application(object).md)
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: NameIsAuto Property
+title: NameIsAuto property (Excel Graph)
 keywords: vbagr10.chm65724
 f1_keywords:
 - vbagr10.chm65724
@@ -12,14 +12,14 @@ localization_priority: Normal
 ---
 
 
-# NameIsAuto Property
+# NameIsAuto property (Excel Graph)
 
- **True** if Microsoft Graph automatically determines the name of the trendline. Read/write **Boolean**.
+ **True** if Graph automatically determines the name of the trendline. Read/write **Boolean**.
 
 
 ## Example
 
-This example sets Microsoft Graph to automatically determine the name for trendline one. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets Graph to automatically determine the name for trendline one. The example should be run on a 2-D column chart that contains a single series with a trendline.
 
 
 ```vb

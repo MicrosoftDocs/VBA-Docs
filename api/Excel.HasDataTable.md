@@ -1,5 +1,5 @@
 ---
-title: HasDataTable Property
+title: HasDataTable property (Excel Graph)
 keywords: vbagr10.chm5207470
 f1_keywords:
 - vbagr10.chm5207470
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasDataTable Property
+# HasDataTable property (Excel Graph)
 
  **True** if the chart has a data table. Read/write **Boolean**.
 

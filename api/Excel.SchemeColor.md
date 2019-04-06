@@ -1,5 +1,5 @@
 ---
-title: SchemeColor Property
+title: SchemeColor property (Excel Graph)
 keywords: vbagr10.chm5207954
 f1_keywords:
 - vbagr10.chm5207954
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SchemeColor Property
+# SchemeColor property (Excel Graph)
 
 Returns or sets the color of the specified  **ChartColorFormat** object as an index in the current color scheme. Read/write **Long**.
 

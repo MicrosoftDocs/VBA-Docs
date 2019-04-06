@@ -1,5 +1,5 @@
 ---
-title: InsideHeight Property
+title: InsideHeight property (Excel Graph)
 keywords: vbagr10.chm5207553
 f1_keywords:
 - vbagr10.chm5207553
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# InsideHeight Property
+# InsideHeight property (Excel Graph)
 
 Returns the inside height of the plot area, in points. Read-only  **Double**.
 

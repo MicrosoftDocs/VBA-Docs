@@ -1,5 +1,5 @@
 ---
-title: DisplayAlerts Property
+title: DisplayAlerts property (Excel Graph)
 keywords: vbagr10.chm65879
 f1_keywords:
 - vbagr10.chm65879
@@ -12,15 +12,15 @@ localization_priority: Normal
 ---
 
 
-# DisplayAlerts Property
+# DisplayAlerts property (Excel Graph)
 
- **True** if Microsoft Graph displays certain alerts and messages while a macro is running. Read/write **Boolean**.
+ **True** if Graph displays certain alerts and messages while a macro is running. Read/write **Boolean**.
 
 
 ## Remarks
 
-The default value is  **True**. Set this property to  **False** if you don't want to be disturbed by prompts and alert messages while a macro is running; any time a message requires a response, Microsoft Graph chooses the default response.
+The default value is  **True**. Set this property to  **False** if you don't want to be disturbed by prompts and alert messages while a macro is running; any time a message requires a response, Graph chooses the default response.
 
-If you set this property to  **False**, Microsoft Graph doesn't automatically set it back to  **True** when your macro stops running. Write your macro such that it always sets this property back to **True** when it stops running.
+If you set this property to  **False**, Graph doesn't automatically set it back to  **True** when your macro stops running. Write your macro such that it always sets this property back to **True** when it stops running.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

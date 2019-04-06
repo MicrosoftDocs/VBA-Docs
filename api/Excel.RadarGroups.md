@@ -1,5 +1,5 @@
 ---
-title: RadarGroups Method
+title: RadarGroups method (Excel Graph)
 keywords: vbagr10.chm3077630
 f1_keywords:
 - vbagr10.chm3077630
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# RadarGroups Method
+# RadarGroups method (Excel Graph)
 
 On a 2-D chart, returns an object that represents either a single radar chart group or a collection of the radar chart groups.
 

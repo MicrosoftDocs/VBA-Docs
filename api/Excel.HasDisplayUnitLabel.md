@@ -1,5 +1,5 @@
 ---
-title: HasDisplayUnitLabel Property
+title: HasDisplayUnitLabel property (Excel Graph)
 keywords: vbagr10.chm5241529
 f1_keywords:
 - vbagr10.chm5241529
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasDisplayUnitLabel Property
+# HasDisplayUnitLabel property (Excel Graph)
 
  **True** if the label specified by the **[DisplayUnit](Excel.DisplayUnit.md)** or  **[DisplayUnitCustom](Excel.DisplayUnitCustom.md)** property is displayed on the value axis.  **False** if no units are displayed. The default value is **True**. Read/write  **Boolean**.
 

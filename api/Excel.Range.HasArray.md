@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `HasArray`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example

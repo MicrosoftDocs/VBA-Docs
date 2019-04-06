@@ -1,5 +1,5 @@
 ---
-title: DisplayEquation Property
+title: DisplayEquation property (Excel Graph)
 keywords: vbagr10.chm5207312
 f1_keywords:
 - vbagr10.chm5207312
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DisplayEquation Property
+# DisplayEquation property (Excel Graph)
 
  **True** if the equation for the trendline is displayed on the chart (in the same data label as the R-squared value). Setting this property to **True** automatically turns on data labels. Read/write **Boolean**.
 

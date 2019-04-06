@@ -1,5 +1,5 @@
 ---
-title: DataTable Property
+title: DataTable property (Excel Graph)
 keywords: vbagr10.chm66931
 f1_keywords:
 - vbagr10.chm66931
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# DataTable Property
+# DataTable property (Excel Graph)
 
 Returns a  **[DataTable](Excel.DataTable-graph-object.md)** object that represents the chart data table. Read-only.
 

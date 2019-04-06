@@ -1,5 +1,5 @@
 ---
-title: HasSeriesLines Property
+title: HasSeriesLines property (Excel Graph)
 keywords: vbagr10.chm65601
 f1_keywords:
 - vbagr10.chm65601
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasSeriesLines Property
+# HasSeriesLines property (Excel Graph)
 
  **True** if a stacked column chart or bar chart has series lines or if a Pie of Pie chart or Bar of Pie chart has connector lines between the two sections. Applies only to stacked column charts, bar charts, Pie of Pie charts, or Bar of Pie charts. Read/write **Boolean**.
 

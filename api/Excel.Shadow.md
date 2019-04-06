@@ -1,5 +1,5 @@
 ---
-title: Shadow Property
+title: Shadow property (Excel Graph)
 keywords: vbagr10.chm65639
 f1_keywords:
 - vbagr10.chm65639
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Shadow Property
+# Shadow property (Excel Graph)
 
 Shadow property as it applies to the  **AxisTitle**,  **ChartArea**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabel**,  **Legend**,  **LegendKey**,  **Point**, and  **Series** objects.
 

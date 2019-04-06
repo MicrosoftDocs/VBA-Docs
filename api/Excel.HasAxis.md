@@ -1,5 +1,5 @@
 ---
-title: HasAxis Property
+title: HasAxis property (Excel Graph)
 keywords: vbagr10.chm65588
 f1_keywords:
 - vbagr10.chm65588
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasAxis Property
+# HasAxis property (Excel Graph)
 
 Returns or sets which axes exist on the chart. Read/write Variant.
 
@@ -36,7 +36,7 @@ _expression_. `HasAxis`( `_Index1_`,  `_Index2_`)
 
 ## Remarks
 
-Microsoft Graph may create or delete axes if you change the chart type or change the  **[AxisGroup](Excel.AxisGroup.md)** property.
+Graph may create or delete axes if you change the chart type or change the  **[AxisGroup](Excel.AxisGroup.md)** property.
 
 
 ## Example

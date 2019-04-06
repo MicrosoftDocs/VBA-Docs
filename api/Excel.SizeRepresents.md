@@ -1,5 +1,5 @@
 ---
-title: SizeRepresents Property
+title: SizeRepresents property (Excel Graph)
 keywords: vbagr10.chm67188
 f1_keywords:
 - vbagr10.chm67188
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# SizeRepresents Property
+# SizeRepresents property (Excel Graph)
 
 Returns or sets what the bubble size represents on a bubble chart. Read/write XlSizeRepresents .
 

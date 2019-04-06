@@ -1,5 +1,5 @@
 ---
-title: ChartTitle Property
+title: ChartTitle property (Excel Graph)
 keywords: vbagr10.chm5207199
 f1_keywords:
 - vbagr10.chm5207199
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ChartTitle Property
+# ChartTitle property (Excel Graph)
 
 Returns a  **[ChartTitle](Excel.ChartTitle-graph-object.md)** object that represents the title of the specified chart. Read-only.
 

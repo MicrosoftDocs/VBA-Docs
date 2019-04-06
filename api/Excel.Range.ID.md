@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the identifying label for th
 
 _expression_. `ID`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks

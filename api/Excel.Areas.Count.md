@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Areas.Count
 ms.assetid: c3c91bed-d3dd-7ffd-94be-f61cc3b973b7
-ms.date: 06/08/2017
+ms.date: 04/06/2019
 localization_priority: Normal
 ---
 
 
 # Areas.Count property (Excel)
 
-Returns a  **Long** value that represents the number of objects in the collection.
+Returns a **Long** value that represents the number of objects in the collection.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents an **[Areas](Excel.Areas.md)** object.
 ## Example
 
 This example displays the number of columns in the selection on Sheet1. The code also tests for a multiple-area selection; if one exists, the code loops on the areas of the multiple-area selection.
-
 
 ```vb
 Sub DisplayColumnCount() 
@@ -49,9 +48,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Areas Collection](Excel.Areas.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

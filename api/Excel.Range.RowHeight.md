@@ -21,7 +21,7 @@ Returns or sets the height of the first row in the range specified, measured in 
 
 _expression_. `RowHeight`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks

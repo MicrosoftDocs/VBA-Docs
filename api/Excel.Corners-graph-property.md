@@ -1,5 +1,5 @@
 ---
-title: Corners Property
+title: Corners property (Excel Graph)
 keywords: vbagr10.chm65615
 f1_keywords:
 - vbagr10.chm65615
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Corners Property
+# Corners property (Excel Graph)
 
 Returns a  **[Corners](Excel.Corners-graph-object.md)** object that represents the corners of the specified 3-D chart. Read-only.
 

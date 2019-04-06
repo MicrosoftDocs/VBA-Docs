@@ -1,5 +1,5 @@
 ---
-title: HasTitle Property
+title: HasTitle property (Excel Graph)
 keywords: vbagr10.chm65590
 f1_keywords:
 - vbagr10.chm65590
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# HasTitle Property
+# HasTitle property (Excel Graph)
 
  **True** if the axis or chart has a visible title. Read/write **Boolean**.
 

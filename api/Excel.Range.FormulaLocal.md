@@ -21,7 +21,7 @@ Returns or sets the formula for the object, using A1-style references in the lan
 
 _expression_. `FormulaLocal`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks

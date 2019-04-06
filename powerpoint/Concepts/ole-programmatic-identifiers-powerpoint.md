@@ -64,9 +64,9 @@ To create the Excel objects listed in the following table, use one of the corres
 |**Workbook**|Excel.Chart|Returns a workbook containing two worksheets; one for the chart and one for its data. The chart worksheet is the active worksheet.|
 |**Workbook**|Excel.Sheet|Returns a workbook with one worksheet.|
 
-## Microsoft Graph
+## Graph
 
-To create the Microsoft Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph available on the computer where the macro is running.
+To create the Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph available on the computer where the macro is running.
 
 
 

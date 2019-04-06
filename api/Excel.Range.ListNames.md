@@ -21,7 +21,7 @@ Pastes a list of all nonhidden names onto the worksheet, beginning with the firs
 
 _expression_. `ListNames`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
