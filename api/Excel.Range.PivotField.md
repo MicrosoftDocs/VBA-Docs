@@ -21,7 +21,7 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that represents the Pivo
 
 _expression_. `PivotField`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example

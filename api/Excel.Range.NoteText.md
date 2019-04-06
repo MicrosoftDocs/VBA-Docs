@@ -21,7 +21,7 @@ Returns or sets the cell note associated with the cell in the upper-left corner 
 
 _expression_. `NoteText`( `_Text_` , `_Start_` , `_Length_` )
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters

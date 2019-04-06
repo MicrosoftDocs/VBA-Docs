@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value that indicates if the formula will be hidde
 
 _expression_. `FormulaHidden`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks

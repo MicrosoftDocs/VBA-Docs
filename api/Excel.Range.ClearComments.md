@@ -21,7 +21,7 @@ Clears all cell comments from the specified range.
 
 _expression_. `ClearComments`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example

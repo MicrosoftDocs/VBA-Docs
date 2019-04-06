@@ -21,7 +21,7 @@ Creates  **[Phonetic](Excel.Phonetic.md)** objects for all the cells in the spec
 
 _expression_. `SetPhonetic`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks

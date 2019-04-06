@@ -20,7 +20,7 @@ Returns or sets a **Variant** value that represents the horizontal alignment for
 
 _expression_. `HorizontalAlignment`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks

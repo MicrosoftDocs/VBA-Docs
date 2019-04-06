@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AboveAverage.ModifyAppliesToRange method (Excel)
 
-Sets the cell range to which this formatting rule applies.
+Sets the cell range to which this formatting rule applies. 
 
 
 ## Syntax

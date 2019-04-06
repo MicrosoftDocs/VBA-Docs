@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value that indicates if the rows or columns are h
 
 _expression_. `Hidden`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks

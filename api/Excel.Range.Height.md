@@ -20,7 +20,7 @@ Returns a **Double** value that represents the height, in points, of the range. 
 
 _expression_.**Height**
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 ## Remarks
 

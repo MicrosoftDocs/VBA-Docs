@@ -21,7 +21,7 @@ Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the worksh
 
 _expression_. `Worksheet`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example

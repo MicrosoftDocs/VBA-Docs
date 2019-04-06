@@ -21,7 +21,7 @@ Creates a data series in the specified range.  **Variant**.
 
 _expression_. `DataSeries`( `_Rowcol_` , `_Type_` , `_Date_` , `_Step_` , `_Stop_` , `_Trend_` )
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
