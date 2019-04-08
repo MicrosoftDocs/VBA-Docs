@@ -19,7 +19,7 @@ Adds a new  **Document** object that represents a new publication to the **Docum
 
 ## Syntax
 
- _expression_.**Add**(**_PbWizard_**,  **_desid_**)
+_expression_.**Add**(**_PbWizard_**,  **_desid_**)
 
  _expression_ An expression that returns a  **Documents** object.
 

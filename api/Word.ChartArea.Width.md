@@ -19,7 +19,7 @@ Returns or sets the width, in points, of the object. Read/write  **Double**.
 
 ## Syntax
 
- _expression_.**Width**
+_expression_.**Width**
 
  _expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
 

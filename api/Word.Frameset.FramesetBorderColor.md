@@ -21,7 +21,7 @@ Returns or sets the color of the frame borders on the specified frames page. Rea
 
 _expression_. `FramesetBorderColor`
 
- _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Remarks

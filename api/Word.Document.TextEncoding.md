@@ -21,7 +21,7 @@ Returns or sets the code page, or character set, that Microsoft Word uses for a 
 
 _expression_. `TextEncoding`
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

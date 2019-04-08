@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Item property (Excel Graph)
 
-Returns a Range object that represents a range that's offset from the specified range. Read/write Variant.
+Returns a Range object that represents a range that's offset from the specified range. Read/write **Variant**.
 
 _expression_. `Item`( `_RowIndex_`, `_ColumnIndex_`)
 

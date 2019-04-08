@@ -19,7 +19,7 @@ Represents the type of connector. Read/write.
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
 _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 

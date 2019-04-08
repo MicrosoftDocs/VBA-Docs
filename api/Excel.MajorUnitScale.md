@@ -25,7 +25,7 @@ Returns or sets the major unit scale value for the category axis when the Catego
 
 _expression_. `MajorUnitScale`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

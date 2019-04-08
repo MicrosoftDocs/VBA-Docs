@@ -21,7 +21,7 @@ Returns or sets the spacing (in points) between columns. Read/write  **Single**.
 
 _expression_. `Spacing`
 
- _expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
+_expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
 
 
 ## Remarks

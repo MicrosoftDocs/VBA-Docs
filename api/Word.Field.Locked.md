@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**Locked**
+_expression_.**Locked**
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks

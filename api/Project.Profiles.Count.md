@@ -16,7 +16,7 @@ Gets the number of account profiles that are defined for Project Professional. R
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a 'Profiles' object.
 

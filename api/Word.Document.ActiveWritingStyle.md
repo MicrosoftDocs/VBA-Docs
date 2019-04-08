@@ -21,7 +21,7 @@ Returns or sets the writing style for a specified language in the specified docu
 
 _expression_. `ActiveWritingStyle`( `_LanguageID_` )
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

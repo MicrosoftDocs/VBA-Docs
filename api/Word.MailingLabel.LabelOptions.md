@@ -21,7 +21,7 @@ Displays the  **Label Options** dialog box.
 
 _expression_. `LabelOptions`
 
- _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
+_expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ## Remarks

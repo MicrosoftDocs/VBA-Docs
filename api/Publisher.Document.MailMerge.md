@@ -19,7 +19,7 @@ Returns a  **[MailMerge](Publisher.MailMerge.md)** object that represents the ma
 
 ## Syntax
 
- _expression_.**MailMerge**
+_expression_.**MailMerge**
 
  _expression_ A variable that represents a  **Document** object.
 

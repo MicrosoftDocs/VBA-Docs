@@ -19,7 +19,7 @@ Returns an  **MsoTriState**value indicating whether the specified shape is a con
 
 ## Syntax
 
- _expression_.**Connector**
+_expression_.**Connector**
 
  _expression_ A variable that represents a  **Shape** object.
 

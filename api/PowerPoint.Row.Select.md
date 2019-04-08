@@ -19,7 +19,7 @@ Selects the specified object.
 
 ## Syntax
 
- _expression_.**Select**
+_expression_.**Select**
 
  _expression_ A variable that represents a [Row](./PowerPoint.Row.md) object.
 

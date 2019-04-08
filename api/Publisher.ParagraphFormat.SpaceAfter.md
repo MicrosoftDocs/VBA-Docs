@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the amount of spacing (in points)
 
 ## Syntax
 
- _expression_.**SpaceAfter**
+_expression_.**SpaceAfter**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

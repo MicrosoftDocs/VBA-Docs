@@ -19,7 +19,7 @@ Returns a  **Single** indicating the width, in points, of the bounding box for t
 
 ## Syntax
 
- _expression_.**BoundWidth**
+_expression_.**BoundWidth**
 
  _expression_ A variable that represents a  **TextRange** object.
 

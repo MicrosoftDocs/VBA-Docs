@@ -16,7 +16,7 @@ Gets the name of the  **Application** object. Read-only **String**.
 
 ## Syntax
 
- _expression_.**Name**
+_expression_.**Name**
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that specifies whether changes made to a We
 
 ## Syntax
 
- _expression_.**EnableIncrementalUpload**
+_expression_.**EnableIncrementalUpload**
 
  _expression_ A variable that represents an  **WebOptions** object.
 

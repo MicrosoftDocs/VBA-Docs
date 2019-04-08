@@ -19,7 +19,7 @@ Fires when the catalog of publication wizards is displayed in the Microsoft Publ
 
 ## Syntax
 
- _expression_.**ShowCatalogUI**
+_expression_.**ShowCatalogUI**
 
  _expression_ An expression that returns a  **Application** object.
 

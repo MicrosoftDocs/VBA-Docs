@@ -21,7 +21,7 @@ Returns or sets a  **WdBaselineAlignment** constant that represents the vertical
 
 _expression_. `BaseLineAlignment`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Example

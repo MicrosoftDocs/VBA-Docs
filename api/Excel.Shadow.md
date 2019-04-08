@@ -16,15 +16,15 @@ localization_priority: Normal
 
 Shadow property as it applies to the  **AxisTitle**,  **ChartArea**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabel**,  **Legend**,  **LegendKey**,  **Point**, and  **Series** objects.
 
-True if the font is a shadow font or if the specified object has a shadow. Read/write Boolean.
+**True** if the font is a shadow font or if the specified object has a shadow. Read/write **Boolean**.
 
 _expression_. `Shadow`
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 Shadow property as it applies to the  **Font** object.
-True if the font is a shadow font or if the specified object has a shadow. Read/write Variant.
+**True** if the font is a shadow font or if the specified object has a shadow. Read/write **Variant**.
 _expression_.**Shadow**
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 ## Remarks
 

@@ -20,7 +20,7 @@ Returns or sets the distance from the left edge of the screen to the left edge o
 
 _expression_.**Left**
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 ## Remarks
 
@@ -46,14 +46,14 @@ myChart.ChartTitle.Left = 0
 Left property as it applies to the  **AxisTitle**,  **ChartArea**,  **ChartTitle**,  **DataLabel**,  **DisplayUnitLabel**,  **Legend**, and  **PlotArea** objects.
 Returns or sets the distance from the left edge of the object to the left edge of the chart area. Read/write Double.
 _expression_.**Left**
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 Left property as it applies to the  **Axis**,  **LegendEntry**, and  **LegendKey** objects.
 Returns or sets the distance from the left edge of the object to the left edge of the chart area. Read-only Double.
 _expression_.**Left**
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 Left property as it applies to the  **Chart** object.
-Returns or sets the distance from the left edge of the object to the left edge of the Graph window. Read/write Variant.
+Returns or sets the distance from the left edge of the object to the left edge of the Graph window. Read/write **Variant**.
 _expression_.**Left**
- _expression_ Required. An expression that returns a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ Required. An expression that returns a [Chart](Excel.Chart-graph-object.md) object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

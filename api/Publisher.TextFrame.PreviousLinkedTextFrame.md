@@ -19,7 +19,7 @@ Returns a  **[TextFrame](Publisher.TextFrame.md)** object representing the text 
 
 ## Syntax
 
- _expression_.**PreviousLinkedTextFrame**
+_expression_.**PreviousLinkedTextFrame**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

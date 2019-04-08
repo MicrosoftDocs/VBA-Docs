@@ -12,7 +12,7 @@ Gets the type of shape in the shape range. Read-only  **[MsoShapeType](https://m
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

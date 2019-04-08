@@ -21,7 +21,7 @@ Inserts a symbol in place of the specified selection.
 
 _expression_. `InsertSymbol`( `_CharacterNumber_` , `_Font_` , `_Unicode_` , `_Bias_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters

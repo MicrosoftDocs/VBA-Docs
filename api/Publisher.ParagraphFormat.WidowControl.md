@@ -19,7 +19,7 @@ Sets or returns an  **MsoTriState** that represents whether or not the first or 
 
 ## Syntax
 
- _expression_.**WidowControl**
+_expression_.**WidowControl**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

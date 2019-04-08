@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the active mail merge record. Read/w
 
 ## Syntax
 
- _expression_.**ActiveRecord**
+_expression_.**ActiveRecord**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

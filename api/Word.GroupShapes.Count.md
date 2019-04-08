@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of shapes in the collection. Read
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[GroupShapes](Word.groupshapes.md)' collection.
+_expression_ Required. A variable that represents a '[GroupShapes](Word.groupshapes.md)' collection.
 
 
 ## See also

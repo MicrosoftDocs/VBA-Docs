@@ -19,7 +19,7 @@ Returns the  **EmailMergeEnvelope** object associated with the parent **MailMerg
 
 ## Syntax
 
- _expression_.**EmailMergeEnvelope**
+_expression_.**EmailMergeEnvelope**
 
  _expression_ A variable that represents a  **MailMerge** object.
 

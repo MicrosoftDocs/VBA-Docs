@@ -19,7 +19,7 @@ Returns a  **[UserProperty](Outlook.UserProperty.md)** object from the collectio
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents an [UserProperties](Outlook.UserProperties.md) object.
 

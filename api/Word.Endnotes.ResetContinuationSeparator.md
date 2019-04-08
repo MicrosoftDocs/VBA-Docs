@@ -21,7 +21,7 @@ Resets the endnote continuation separator to the default separator.
 
 _expression_. `ResetContinuationSeparator`
 
- _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
+_expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 
 
 ## Remarks

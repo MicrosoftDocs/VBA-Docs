@@ -19,7 +19,7 @@ Specifies whether an entry into a Web text box control is required. Read/write.
 
 ## Syntax
 
- _expression_.**RequiredControl**
+_expression_.**RequiredControl**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 

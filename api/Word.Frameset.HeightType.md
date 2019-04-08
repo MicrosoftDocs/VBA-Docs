@@ -21,7 +21,7 @@ Returns or sets the width type for the specified frame on a frames page. Read/wr
 
 _expression_. `HeightType`
 
- _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Example

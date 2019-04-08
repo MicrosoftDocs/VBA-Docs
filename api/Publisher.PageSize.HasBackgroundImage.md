@@ -19,7 +19,7 @@ Returns  **True** if the blank page size represented by the parent **PageSize** 
 
 ## Syntax
 
- _expression_.**HasBackgroundImage**
+_expression_.**HasBackgroundImage**
 
  _expression_ A variable that represents a  **PageSize** object.
 

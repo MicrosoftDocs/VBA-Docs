@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of variables in the collection.
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[Variables](Word.variables.md)' collection.
+_expression_ Required. A variable that represents a '[Variables](Word.variables.md)' collection.
 
 
 ## See also

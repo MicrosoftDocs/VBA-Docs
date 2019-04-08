@@ -16,7 +16,7 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 ## Syntax
 
- _expression_.**Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a 'Filters' object.
 

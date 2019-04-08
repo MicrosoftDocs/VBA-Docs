@@ -19,7 +19,7 @@ Occurs when one or more new shapes are added to a publication. This event occurs
 
 ## Syntax
 
- _expression_.**ShapesAdded**
+_expression_.**ShapesAdded**
 
  _expression_ A variable that represents a  **Document** object.
 

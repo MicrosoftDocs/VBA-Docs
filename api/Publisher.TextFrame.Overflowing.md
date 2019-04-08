@@ -19,7 +19,7 @@ Indicates whether the text frame contains more text than can fit into the text f
 
 ## Syntax
 
- _expression_.**Overflowing**
+_expression_.**Overflowing**
 
  _expression_ A variable that represents an  **TextFrame** object.
 

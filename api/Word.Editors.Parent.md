@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Edit
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents an '[Editors](Word.Editors.md)' collection.
+_expression_ Required. A variable that represents an '[Editors](Word.Editors.md)' collection.
 
 
 ## See also

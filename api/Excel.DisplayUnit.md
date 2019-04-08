@@ -29,9 +29,11 @@ Returns or sets the units displayed for the value axis in the specified chart. I
 | **xlThousandMillions**|
 | **xlThousands**|
 
+## Syntax
+
 _expression_. `DisplayUnit`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 

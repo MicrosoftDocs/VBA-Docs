@@ -21,7 +21,7 @@ Returns or sets the vertical alignment of text in one or more cells of a table. 
 
 _expression_. `VerticalAlignment`
 
- _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
+_expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Example

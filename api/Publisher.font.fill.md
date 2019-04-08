@@ -17,7 +17,7 @@ Returns a  [FillFormat](Publisher.FillFormat.md) object that contains fill forma
 
 ## Syntax
 
- _expression_.**Fill**
+_expression_.**Fill**
 
  _expression_ A variable that represents a  **Font** object.
 

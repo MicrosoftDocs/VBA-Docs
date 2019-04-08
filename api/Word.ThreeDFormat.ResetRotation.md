@@ -21,7 +21,7 @@ Resets the extrusion rotation around the x-axis and the y-axis to 0 (zero) so th
 
 _expression_. `ResetRotation`
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Remarks

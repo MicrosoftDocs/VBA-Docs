@@ -19,7 +19,7 @@ Returns a  **String** that represents the character used to separate folder name
 
 ## Syntax
 
- _expression_.**PathSeparator**
+_expression_.**PathSeparator**
 
  _expression_ A variable that represents a  **Application** object.
 

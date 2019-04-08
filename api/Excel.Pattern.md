@@ -71,7 +71,7 @@ For the ChartFillFormat object, returns or sets the fill pattern, read-only MsoP
 
 _expression_. `Pattern`
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 ## Example
 

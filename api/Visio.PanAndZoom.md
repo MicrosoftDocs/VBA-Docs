@@ -16,7 +16,7 @@ Determines whether the  **Pan and Zoom** control for zooming in and out of the p
 
 ## Syntax
 
- _expression_.**PanAndZoom**
+_expression_.**PanAndZoom**
 
  _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 

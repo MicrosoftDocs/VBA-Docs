@@ -21,7 +21,7 @@ Returns or sets the line width of the inside border of an object. .
 
 _expression_. `InsideLineWidth`
 
- _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
+_expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## Remarks

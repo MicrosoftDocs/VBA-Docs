@@ -19,7 +19,7 @@ Returns a  **Variant** that represents the width, in points, of the specified pi
 
 ## Syntax
 
- _expression_.**Width**
+_expression_.**Width**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

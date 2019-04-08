@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the text contained in the specifie
 
 ## Syntax
 
- _expression_.**Text**
+_expression_.**Text**
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 

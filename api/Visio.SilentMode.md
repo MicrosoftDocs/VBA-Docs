@@ -16,7 +16,7 @@ Determines whether any component of the user interface (either that of Microsoft
 
 ## Syntax
 
- _expression_.**SilentMode**
+_expression_.**SilentMode**
 
  _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 

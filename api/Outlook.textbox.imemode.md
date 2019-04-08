@@ -14,7 +14,7 @@ Returns or sets an  **Integer** that specifies the default run-time mode of the 
 
 ## Syntax
 
- _expression_.**IMEMode**
+_expression_.**IMEMode**
 
 _expression_ A variable that represents a  **TextBox** object.
 

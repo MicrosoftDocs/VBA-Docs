@@ -19,7 +19,7 @@ Requests that an OLE object perform one of its verbs.
 
 ## Syntax
 
- _expression_.**DoVerb**(**_iVerb_**)
+_expression_.**DoVerb**(**_iVerb_**)
 
  _expression_ A variable that represents an  **OLEFormat** object.
 

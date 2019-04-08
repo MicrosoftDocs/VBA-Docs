@@ -19,7 +19,7 @@ Gets the  _x-_ and _y-_ coordinates of the shape node. Read-only.
 
 ## Syntax
 
- _expression_.**Points**
+_expression_.**Points**
 
  _expression_ A variable that represents a  **ShapeNode** object.
 

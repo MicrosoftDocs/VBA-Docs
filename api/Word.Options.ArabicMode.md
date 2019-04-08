@@ -21,7 +21,7 @@ Returns or sets the mode for the Arabic spelling checker. Read/write  **WdAraSpe
 
 _expression_. `ArabicMode`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example

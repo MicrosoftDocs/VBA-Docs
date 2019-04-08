@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**MajorVersionNumber**
+_expression_.**MajorVersionNumber**
 
  _expression_ An expression that returns a  **Viewer** object.
 

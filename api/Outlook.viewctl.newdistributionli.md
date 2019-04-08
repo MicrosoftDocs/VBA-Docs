@@ -14,7 +14,7 @@ Creates and displays a new distribution list.
 
 ## Syntax
 
- _expression_.**NewDistributionList**
+_expression_.**NewDistributionList**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

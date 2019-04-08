@@ -21,7 +21,7 @@ Retrieves data from a data source (for example, a separate Microsoft Word docume
 
 _expression_. `InsertDatabase`( `_Format_` , `_Style_` , `_LinkToSource_` , `_Connection_` , `_SQLStatement_` , `_SQLStatement1_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_DataSource_` , `_From_` , `_To_` , `_IncludeFields_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters

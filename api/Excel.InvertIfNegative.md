@@ -14,11 +14,11 @@ localization_priority: Normal
 
 # InvertIfNegative property (Excel Graph)
 
-True if Graph inverts the pattern in the item when it corresponds to a negative number. Read/write Boolean for all objects, except for the Interior object, which is read/write Variant.
+**True** if Graph inverts the pattern in the item when it corresponds to a negative number. Read/write Boolean for all objects, except for the Interior object, which is read/write Variant.
 
 _expression_. `InvertIfNegative`
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 
 ## Example

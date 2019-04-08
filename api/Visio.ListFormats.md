@@ -16,7 +16,7 @@ Displays a message box in the user interface that lists the output format types 
 
 ## Syntax
 
- _expression_.**ListFormats**
+_expression_.**ListFormats**
 
  _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 

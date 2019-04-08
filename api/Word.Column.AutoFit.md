@@ -21,7 +21,7 @@ Changes the width of a table column to accommodate the width of the text without
 
 _expression_. `AutoFit`
 
- _expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
+_expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `WordWrap`
 
- _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Example

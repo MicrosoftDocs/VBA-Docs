@@ -16,7 +16,7 @@ Gets or sets the distance in points of the window below the top edge of the wind
 
 ## Syntax
 
- _expression_.**Top**
+_expression_.**Top**
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

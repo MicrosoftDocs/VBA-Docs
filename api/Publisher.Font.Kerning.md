@@ -19,7 +19,7 @@ Returns or sets a  **Variant** indicating the amount of horizontal spacing Micro
 
 ## Syntax
 
- _expression_.**Kerning**
+_expression_.**Kerning**
 
  _expression_ A variable that represents a  **Font** object.
 

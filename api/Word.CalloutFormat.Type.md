@@ -19,9 +19,9 @@ Returns or sets the callout type. Read/write  **MsoCalloutType**.
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## See also

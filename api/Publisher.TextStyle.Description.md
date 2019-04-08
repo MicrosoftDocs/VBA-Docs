@@ -19,7 +19,7 @@ Returns a  **String** that represents the description of the specified style. Fo
 
 ## Syntax
 
- _expression_.**Description**
+_expression_.**Description**
 
  _expression_ A variable that represents a  **TextStyle** object.
 

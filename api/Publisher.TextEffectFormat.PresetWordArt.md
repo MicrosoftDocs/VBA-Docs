@@ -19,7 +19,7 @@ A  **[pbPresetWordArt](Publisher.pbpresetwordart.md)** constant that indicates t
 
 ## Syntax
 
- _expression_.**PresetWordArt**
+_expression_.**PresetWordArt**
 
  _expression_ A variable that represents a  **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
 

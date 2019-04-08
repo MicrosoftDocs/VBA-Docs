@@ -19,7 +19,7 @@ Returns or sets  **MsoTriState** constant indicating whether you can set the col
 
 ## Syntax
 
- _expression_.**UseDiacriticColor**
+_expression_.**UseDiacriticColor**
 
  _expression_ A variable that represents an  **Font** object.
 

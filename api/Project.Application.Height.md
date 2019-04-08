@@ -16,7 +16,7 @@ Gets or sets the height of the main window in points. Read/write  **Long**.
 
 ## Syntax
 
- _expression_.**Height**
+_expression_.**Height**
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

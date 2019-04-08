@@ -23,8 +23,11 @@ Returns the group for the specified chart group or series. Read/write XlAxisGrou
 | **xlPrimary**|
 | **xlSecondary**|
 
+
+## Syntax
+
 _expression_.**AxisGroup**
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 AxisGroup property as it applies to the  **Axis** object.
 Returns the group for the specified axis. Read-only XlAxisGroup .
 
@@ -34,7 +37,7 @@ Returns the group for the specified axis. Read-only XlAxisGroup .
 | **xlSecondary**|
 
 _expression_.**AxisGroup**
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 ## Remarks
 

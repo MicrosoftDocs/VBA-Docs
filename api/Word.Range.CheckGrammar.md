@@ -21,7 +21,7 @@ Begins a spelling and grammar check for the specified range.
 
 _expression_. `CheckGrammar`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

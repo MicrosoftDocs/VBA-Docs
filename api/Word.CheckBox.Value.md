@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**Value**
+_expression_.**Value**
 
- _expression_ Required. A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
+_expression_ Required. A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 
 
 ## See also

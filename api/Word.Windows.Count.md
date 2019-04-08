@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of windows in the collection. Rea
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
+_expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
 
 
 ## See also

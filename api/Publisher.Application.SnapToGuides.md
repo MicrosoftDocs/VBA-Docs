@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**SnapToGuides**
+_expression_.**SnapToGuides**
 
  _expression_ A variable that represents a  **Application** object.
 

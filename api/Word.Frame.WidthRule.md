@@ -21,7 +21,7 @@ Returns or sets the rule used to determine the width of a frame. Read/write  **W
 
 _expression_. `WidthRule`
 
- _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
+_expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
 
 
 ## Example

@@ -22,7 +22,7 @@ Gets or sets a user-defined string expression that can store extra data related 
 
 ## Syntax
 
- _expression_.**Tag**
+_expression_.**Tag**
 
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 

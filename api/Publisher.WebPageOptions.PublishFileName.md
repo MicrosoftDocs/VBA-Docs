@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the file name of a Web page (withi
 
 ## Syntax
 
- _expression_.**PublishFileName**
+_expression_.**PublishFileName**
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 

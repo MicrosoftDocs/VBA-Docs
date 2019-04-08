@@ -16,7 +16,7 @@ Adds an  **Availability** object to an **Availabilities** collection.
 
 ## Syntax
 
- _expression_.**Add**( `_AvailableFrom_`, `_AvailableTo_`, `_AvailableUnit_` )
+_expression_.**Add**( `_AvailableFrom_`, `_AvailableTo_`, `_AvailableUnit_` )
 
  _expression_ A variable that represents an 'Availabilities' object.
 

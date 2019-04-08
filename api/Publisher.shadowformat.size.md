@@ -17,7 +17,7 @@ Returns or sets a  **Single** that represents the width of the shadow. Read/writ
 
 ## Syntax
 
- _expression_.**Size**
+_expression_.**Size**
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 

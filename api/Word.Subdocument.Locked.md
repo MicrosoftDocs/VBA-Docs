@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**Locked**
+_expression_.**Locked**
 
- _expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
+_expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 
 
 ## Example

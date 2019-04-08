@@ -21,7 +21,7 @@ Returns or sets the 24-bit color for the specified  **Border** object.
 
 _expression_. `Color`
 
- _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
+_expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 
 
 ## Remarks

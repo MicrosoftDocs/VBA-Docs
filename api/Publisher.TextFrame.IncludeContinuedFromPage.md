@@ -19,7 +19,7 @@ Determines whether the text "Continued from page  _pagenumber_" appears in a tex
 
 ## Syntax
 
- _expression_.**IncludeContinuedFromPage**
+_expression_.**IncludeContinuedFromPage**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

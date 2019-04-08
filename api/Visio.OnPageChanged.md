@@ -16,7 +16,7 @@ Occurs when the active page is changed in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_.**OnPageChanged**(**_PageIndex_**)
+_expression_.**OnPageChanged**(**_PageIndex_**)
 
  _expression_ An expression that returns a  **Viewer** object.
 

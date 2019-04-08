@@ -19,7 +19,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
 ## Syntax
 
- _expression_.**Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 

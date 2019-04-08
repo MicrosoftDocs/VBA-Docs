@@ -19,7 +19,7 @@ Returns or sets a  **MsoLanguageID** constant that represents the language for t
 
 ## Syntax
 
- _expression_.**LanguageID**
+_expression_.**LanguageID**
 
  _expression_ A variable that represents a  **TextRange** object.
 

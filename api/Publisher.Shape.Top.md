@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the distance between the top of t
 
 ## Syntax
 
- _expression_.**Top**
+_expression_.**Top**
 
  _expression_ A variable that represents a  **Shape** object.
 

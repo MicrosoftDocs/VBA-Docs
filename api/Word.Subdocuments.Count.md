@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of subdocuments in the collection
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
+_expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 
 
 ## See also

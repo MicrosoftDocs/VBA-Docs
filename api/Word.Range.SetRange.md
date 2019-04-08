@@ -21,7 +21,7 @@ Sets the starting and ending character positions for an existing range.
 
 _expression_. `SetRange`( `_Start_` , `_End_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters

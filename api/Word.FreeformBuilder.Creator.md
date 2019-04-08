@@ -19,9 +19,9 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
 ## Syntax
 
- _expression_.**Creator**
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
+_expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
 
 
 ## Remarks

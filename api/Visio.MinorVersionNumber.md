@@ -16,7 +16,7 @@ Gets the minor version number of Microsoft Visio Viewer. Read-only.
 
 ## Syntax
 
- _expression_.**MinorVersionNumber**
+_expression_.**MinorVersionNumber**
 
  _expression_ An expression that returns a  **Viewer** object.
 

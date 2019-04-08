@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**EmailAsImg**
+_expression_.**EmailAsImg**
 
  _expression_ A variable that represents an  **WebOptions** object.
 

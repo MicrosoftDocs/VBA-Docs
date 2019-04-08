@@ -19,9 +19,9 @@ Returns or sets a  **Single** that represents the horizontal position, measured 
 
 ## Syntax
 
- _expression_.**Left**
+_expression_.**Left**
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks

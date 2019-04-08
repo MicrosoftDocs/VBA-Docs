@@ -19,7 +19,7 @@ Returns a  **Shape** object that represents the WordArt to be added to the publi
 
 ## Syntax
 
- _expression_.**AddWordArt**(**_PresetWordArt_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
+_expression_.**AddWordArt**(**_PresetWordArt_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

@@ -21,7 +21,7 @@ Returns the next  **TabStop** object to the right of Position.
 
 _expression_. `After`( `_Position_` )
 
- _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
+_expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 
 
 ## Parameters

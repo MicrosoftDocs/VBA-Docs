@@ -21,7 +21,7 @@ Returns a  **Column** object that represents the table column containing the spe
 
 _expression_. `Column`
 
- _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Example

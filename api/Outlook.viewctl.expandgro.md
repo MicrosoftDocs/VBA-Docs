@@ -14,7 +14,7 @@ Expands (opens) the group that is currently selected in the control.
 
 ## Syntax
 
- _expression_.**ExpandGroup**
+_expression_.**ExpandGroup**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

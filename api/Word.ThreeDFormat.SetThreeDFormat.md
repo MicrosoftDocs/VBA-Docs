@@ -21,7 +21,7 @@ Sets the preset extrusion format.
 
 _expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Parameters

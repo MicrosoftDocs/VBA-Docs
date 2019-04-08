@@ -24,7 +24,7 @@ Returns or sets the value axis scale type. Applies only to the value axis. Read/
 
 _expression_. `ScaleType`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 

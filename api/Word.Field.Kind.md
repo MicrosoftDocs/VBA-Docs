@@ -21,7 +21,7 @@ Returns the type of link for a  **Field** object. Read-only **[WdFieldKind](Word
 
 _expression_. `Kind`
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Example

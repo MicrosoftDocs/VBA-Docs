@@ -19,7 +19,7 @@ Indicates whether the list of recipient addresses in the parent  **MailMergeData
 
 ## Syntax
 
- _expression_.**EverValidated**
+_expression_.**EverValidated**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

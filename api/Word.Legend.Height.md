@@ -19,7 +19,7 @@ Returns or sets the height, in points, of the object. Read/write  **Double**.
 
 ## Syntax
 
- _expression_.**Height**
+_expression_.**Height**
 
  _expression_ A variable that represents a '[Legend](Word.Legend.md)' object.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.EnterpriseAllowLocalBaseCalendars property (Project)
 
-True if enterprise projects can use local base calendars. Read-only  **Boolean**.
+**True** if enterprise projects can use local base calendars. Read-only  **Boolean**.
 
 
 ## Syntax

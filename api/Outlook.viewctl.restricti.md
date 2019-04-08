@@ -14,7 +14,7 @@ Returns or sets a  **String** value that represents a filter to the items that a
 
 ## Syntax
 
- _expression_.**Restriction**
+_expression_.**Restriction**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

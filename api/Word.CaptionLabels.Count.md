@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of caption labels in the collecti
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[CaptionLabels](Word.captionlabels.md)' collection.
+_expression_ Required. A variable that represents a '[CaptionLabels](Word.captionlabels.md)' collection.
 
 
 ## See also

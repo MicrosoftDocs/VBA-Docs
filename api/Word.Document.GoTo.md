@@ -21,7 +21,7 @@ Returns a  **Range** object that represents the start position of the specified 
 
 _expression_. `GoTo`( `_What_` , `_Which_` , `_Count_` , `_Name_` )
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

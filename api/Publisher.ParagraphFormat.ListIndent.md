@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the list indent value (in points) 
 
 ## Syntax
 
- _expression_.**ListIndent**
+_expression_.**ListIndent**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

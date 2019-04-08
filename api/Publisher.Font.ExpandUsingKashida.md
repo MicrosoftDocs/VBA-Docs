@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState** constant indicating whether to apply kashida
 
 ## Syntax
 
- _expression_.**ExpandUsingKashida**
+_expression_.**ExpandUsingKashida**
 
  _expression_ A variable that represents an  **Font** object.
 

@@ -16,7 +16,7 @@ Gets or sets the text in the title bar of a project window. Read/write  **String
 
 ## Syntax
 
- _expression_.**Caption**
+_expression_.**Caption**
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

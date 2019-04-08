@@ -16,7 +16,7 @@ Determines whether the Web page opens in the browser after the drawing is export
 
 ## Syntax
 
- _expression_.**OpenBrowser**
+_expression_.**OpenBrowser**
 
  _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 

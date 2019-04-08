@@ -19,7 +19,7 @@ Converts the specified publication to the specified publication type.
 
 ## Syntax
 
- _expression_.**ConvertPublicationType**(**_Value_**)
+_expression_.**ConvertPublicationType**(**_Value_**)
 
  _expression_ A variable that represents a  **Document** object.
 

@@ -14,11 +14,13 @@ localization_priority: Normal
 
 # ApplyPictToFront property (Excel Graph)
 
-True if a picture is applied to the front of the point or all points in the series. Read/write Boolean.
+**True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean**.
+
+## Syntax
 
 _expression_. `ApplyPictToFront`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

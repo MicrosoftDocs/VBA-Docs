@@ -19,9 +19,9 @@ Returns a  **Column** object that represents a column added to a table.
 
 ## Syntax
 
- _expression_.**Add**( `_BeforeColumn_` )
+_expression_.**Add**( `_BeforeColumn_` )
 
- _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
+_expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
 ## Parameters

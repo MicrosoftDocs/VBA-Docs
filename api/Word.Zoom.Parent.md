@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Zoom
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents a '[Zoom](Word.Zoom.md)' object.
+_expression_ Required. A variable that represents a '[Zoom](Word.Zoom.md)' object.
 
 
 ## See also

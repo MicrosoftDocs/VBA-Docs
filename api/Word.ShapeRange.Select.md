@@ -19,9 +19,9 @@ Selects the specified range of shapes.
 
 ## Syntax
 
- _expression_.**Select** (_Replace_)
+_expression_.**Select** (_Replace_)
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 
 
 ## Parameters

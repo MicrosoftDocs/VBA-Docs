@@ -19,9 +19,9 @@ Returns a  **Row** object that represents a row added to a table.
 
 ## Syntax
 
- _expression_.**Add**( `_BeforeRow_` )
+_expression_.**Add**( `_BeforeRow_` )
 
- _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Returns a  **HeaderFooter** object representing the footer of the specified **Pa
 
 ## Syntax
 
- _expression_.**Footer**
+_expression_.**Footer**
 
  _expression_ A variable that represents a  **Page** object.
 

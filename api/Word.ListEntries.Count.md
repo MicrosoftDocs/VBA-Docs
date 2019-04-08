@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of list entries in the collection
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
+_expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
 
 
 ## See also

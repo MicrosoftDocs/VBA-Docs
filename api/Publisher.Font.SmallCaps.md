@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState** constant indicating whether the specified te
 
 ## Syntax
 
- _expression_.**SmallCaps**
+_expression_.**SmallCaps**
 
  _expression_ A variable that represents a  **Font** object.
 

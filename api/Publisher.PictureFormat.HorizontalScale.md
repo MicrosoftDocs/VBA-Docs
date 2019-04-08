@@ -19,7 +19,7 @@ Returns a  **Long** that represents the scaling of the picture along its horizon
 
 ## Syntax
 
- _expression_.**HorizontalScale**
+_expression_.**HorizontalScale**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

@@ -14,11 +14,13 @@ localization_priority: Normal
 
 # CapitalizeNamesOfDays property (Excel Graph)
 
-True if the first letter of day names is capitalized automatically. Read/write Boolean.
+**True** if the first letter of day names is capitalized automatically. Read/write **Boolean**.
+
+## Syntax
 
 _expression_. `CapitalizeNamesOfDays`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

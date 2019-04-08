@@ -19,7 +19,7 @@ Returns the parent of the  **[PageSize](Publisher.PageSizes.md)** object. Read-o
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **PageSize** object.
 

@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Text
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
+_expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns a  **Column** object that represents the last column in a table.
 
 _expression_. `Last`
 
- _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
+_expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
 ## See also

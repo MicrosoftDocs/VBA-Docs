@@ -19,7 +19,7 @@ Returns or sets the trendline type. Read/write  **[XlTrendlineType](Word.xltrend
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a '[Trendline](Word.Trendline.md)' object.
 

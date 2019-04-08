@@ -19,7 +19,7 @@ Returns a single  **Slide** object from the specified **Slides** collection.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 

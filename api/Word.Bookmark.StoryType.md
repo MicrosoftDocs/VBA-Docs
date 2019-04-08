@@ -21,7 +21,7 @@ Returns the story type for the specified range, selection, or bookmark. Read-onl
 
 _expression_. `StoryType`
 
- _expression_ Required. A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
+_expression_ Required. A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
 
 
 ## Example

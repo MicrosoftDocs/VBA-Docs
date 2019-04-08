@@ -19,7 +19,7 @@ Gets or sets the alignment (left, right, or center) of where envelopes are fed t
 
 ## Syntax
 
- _expression_.**ManualFeedAlign**
+_expression_.**ManualFeedAlign**
 
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 

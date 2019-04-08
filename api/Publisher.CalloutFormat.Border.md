@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState**constant indicating whether the text in the s
 
 ## Syntax
 
- _expression_.**Border**
+_expression_.**Border**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 

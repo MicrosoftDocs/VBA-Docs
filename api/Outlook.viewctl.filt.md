@@ -14,7 +14,7 @@ Returns or sets a  **String**that represents the Distributed Authoring and Versi
 
 ## Syntax
 
- _expression_.**Filter**
+_expression_.**Filter**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

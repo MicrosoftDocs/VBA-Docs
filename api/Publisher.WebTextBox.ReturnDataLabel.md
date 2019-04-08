@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the text used by the Web page to l
 
 ## Syntax
 
- _expression_.**ReturnDataLabel**
+_expression_.**ReturnDataLabel**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 

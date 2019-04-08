@@ -19,7 +19,7 @@ Deletes the specified  **NamedSlideShow** object.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
  _expression_ A variable that represents a [NamedSlideShow](./PowerPoint.NamedSlideShow.md) object.
 

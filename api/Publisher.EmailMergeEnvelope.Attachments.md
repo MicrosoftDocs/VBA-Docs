@@ -19,7 +19,7 @@ Gets the list of a merged email message's attachments. Read-only.
 
 ## Syntax
 
- _expression_.**Attachments**
+_expression_.**Attachments**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 

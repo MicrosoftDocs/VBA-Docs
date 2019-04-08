@@ -19,9 +19,9 @@ Returns an individual  **FormField** object in a collection.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[FormFields](Word.formfields.md)' collection.
+_expression_ Required. A variable that represents a '[FormFields](Word.formfields.md)' collection.
 
 
 ## Parameters

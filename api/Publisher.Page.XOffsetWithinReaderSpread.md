@@ -19,7 +19,7 @@ Returns a  **Single** that represents the distance (in points) from the left edg
 
 ## Syntax
 
- _expression_.**XOffsetWithinReaderSpread**
+_expression_.**XOffsetWithinReaderSpread**
 
  _expression_ A variable that represents a  **Page** object.
 

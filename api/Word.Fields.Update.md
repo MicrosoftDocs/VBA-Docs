@@ -21,7 +21,7 @@ Updates the result of the fields object.
 
 _expression_. `Update`
 
- _expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
+_expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
 
 
 ## Return value

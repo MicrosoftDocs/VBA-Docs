@@ -16,9 +16,11 @@ localization_priority: Normal
 
 Returns a Range object that represents the columns in the specified range or all the columns on the datasheet. Read-only Range object.
 
+## Syntax
+
 _expression_.**Range**
 
- _expression_ Required. An expression that returns an object in the **Applies To** list.
+_expression_ Required. An expression that returns an object in the **Applies To** list.
 
 For information about returning a single member of a collection, see  [Returning an Object from a Collection (Excel)](../excel/Concepts/Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md).
 

@@ -21,7 +21,7 @@ Returns or sets an East Asian language for the specified object. Read/write  **[
 
 _expression_. `LanguageIDFarEast`
 
- _expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
+_expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
 
 
 ## Remarks

@@ -16,9 +16,11 @@ localization_priority: Normal
 
 Returns an AxisTitle object that represents the title of the specified axis. Read-only AxisTitle object.
 
+## Syntax
+
 _expression_. `AxisTitle`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

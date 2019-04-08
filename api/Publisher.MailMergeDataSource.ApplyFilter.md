@@ -19,7 +19,7 @@ Applies a filter to a mail merge data source to remove (or filter out) specified
 
 ## Syntax
 
- _expression_.**ApplyFilter**
+_expression_.**ApplyFilter**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

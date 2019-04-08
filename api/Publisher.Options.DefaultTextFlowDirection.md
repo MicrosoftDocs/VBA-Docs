@@ -19,7 +19,7 @@ Returns or sets a  **PbDirectionType** constant that represents a global Microso
 
 ## Syntax
 
- _expression_.**DefaultTextFlowDirection**
+_expression_.**DefaultTextFlowDirection**
 
  _expression_ A variable that represents a  **Options** object.
 

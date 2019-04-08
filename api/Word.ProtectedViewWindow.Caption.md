@@ -19,7 +19,7 @@ Returns or sets the caption text that is displayed in the title bar of the docum
 
 ## Syntax
 
- _expression_.**Caption**
+_expression_.**Caption**
 
  _expression_ An expression that returns a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 

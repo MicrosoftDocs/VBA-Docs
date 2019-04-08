@@ -21,7 +21,7 @@ Returns a read-only  **TextRetrievalMode** object that represents options relate
 
 _expression_. `Duplicate`
 
- _expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
+_expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 
 
 ## Remarks

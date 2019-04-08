@@ -19,7 +19,7 @@ Returns a  **[RecentFiles](Word.recentfiles.md)** collection that represents the
 
 ## Syntax
 
- _expression_.**RecentFiles**
+_expression_.**RecentFiles**
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

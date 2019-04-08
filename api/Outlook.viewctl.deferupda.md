@@ -14,7 +14,7 @@ Returns or sets a  **Boolean**value that indicates whether property changes affe
 
 ## Syntax
 
- _expression_.**DeferUpdate**
+_expression_.**DeferUpdate**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

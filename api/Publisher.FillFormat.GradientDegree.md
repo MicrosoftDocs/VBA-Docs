@@ -19,7 +19,7 @@ Returns a  **Single** indicating how dark or light a one-color gradient fill is.
 
 ## Syntax
 
- _expression_.**GradientDegree**
+_expression_.**GradientDegree**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

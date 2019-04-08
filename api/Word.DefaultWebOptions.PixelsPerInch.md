@@ -21,7 +21,7 @@ Returns or sets the density (pixels per inch) of graphics images and table cells
 
 _expression_. `PixelsPerInch`
 
- _expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
 
 
 ## Remarks

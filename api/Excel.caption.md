@@ -12,11 +12,13 @@ localization_priority: Normal
 
 # Caption property (Excel Graph)
 
-Returns or sets the title text for the object. Read/write String.
+Returns or sets the title text for the object. Read/write **String**.
+
+## Syntax
 
 _expression_.**Caption**
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 
 ## Example

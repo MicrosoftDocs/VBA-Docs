@@ -21,7 +21,7 @@ Opens the header source attached to a mail merge main document, or activates the
 
 _expression_. `EditHeaderSource`
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Remarks

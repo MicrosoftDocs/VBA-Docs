@@ -19,7 +19,7 @@ Returns a  **[WrapFormat](Publisher.WrapFormat.md)** object that represents the 
 
 ## Syntax
 
- _expression_.**TextWrap**
+_expression_.**TextWrap**
 
  _expression_ A variable that represents a  **Shape** object.
 

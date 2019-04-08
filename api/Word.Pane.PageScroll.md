@@ -21,7 +21,7 @@ Scrolls through the specified window page by page.
 
 _expression_. `PageScroll`( `_Down_` , `_Up_` )
 
- _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Parameters

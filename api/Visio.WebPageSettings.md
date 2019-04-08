@@ -16,7 +16,7 @@ Returns a  **[VisWebPageSettings](overview/Visio.md)** object that represents th
 
 ## Syntax
 
- _expression_.**WebPageSettings** **VisWebPageSettings**
+_expression_.**WebPageSettings** **VisWebPageSettings**
 
  _expression_ An expression that returns a  **[VisSaveAsWeb](overview/Visio.md)** object.
 

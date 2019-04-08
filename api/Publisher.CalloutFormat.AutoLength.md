@@ -19,7 +19,7 @@ Returns an  **MsoTriState**constant indicating whether the first segment of the 
 
 ## Syntax
 
- _expression_.**AutoLength**
+_expression_.**AutoLength**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 

@@ -19,7 +19,7 @@ Deletes the specified plate.
 
 ## Syntax
 
- _expression_.**Delete**(**_PlateReplaceWith_**,  **_ReplaceTint_**)
+_expression_.**Delete**(**_PlateReplaceWith_**,  **_ReplaceTint_**)
 
  _expression_ A variable that represents a  **Plate** object.
 

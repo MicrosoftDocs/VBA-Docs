@@ -20,7 +20,7 @@ This property is read-only. Use the OneColorGradient or TwoColorGradient method 
 
 _expression_. `GradientVariant`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

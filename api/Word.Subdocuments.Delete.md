@@ -19,9 +19,9 @@ Deletes the collection of subdocuments.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
+_expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 
 
 ## See also

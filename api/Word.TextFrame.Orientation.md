@@ -19,9 +19,9 @@ Returns or sets the orientation of the text inside the frame. Read/write  **MsoT
 
 ## Syntax
 
- _expression_.**Orientation**
+_expression_.**Orientation**
 
- _expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Remarks

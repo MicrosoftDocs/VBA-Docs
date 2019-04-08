@@ -17,7 +17,7 @@ Returns a  [LineFormat](Publisher.LineFormat.md) object that specifies the forma
 
 ## Syntax
 
- _expression_.**Line**
+_expression_.**Line**
 
  _expression_ A variable that represents a  **Font** object.
 

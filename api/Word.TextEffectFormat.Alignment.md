@@ -21,7 +21,7 @@ Returns or sets an  **MsoTextEffectAlignment** constant that represents the alig
 
 _expression_. `Alignment`
 
- _expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## See also

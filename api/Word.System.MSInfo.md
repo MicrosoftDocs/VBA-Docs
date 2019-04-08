@@ -21,7 +21,7 @@ Starts the Microsoft System Information application if it is not running, or swi
 
 _expression_. `MSInfo`
 
- _expression_ Required. A variable that represents a '[System](Word.System.md)' object.
+_expression_ Required. A variable that represents a '[System](Word.System.md)' object.
 
 
 ## Example

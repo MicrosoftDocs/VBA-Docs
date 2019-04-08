@@ -21,7 +21,7 @@ Returns or sets the placement of changed lines in a document with tracked change
 
 _expression_. `RevisedLinesMark`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example

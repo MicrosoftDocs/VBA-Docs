@@ -21,7 +21,7 @@ Specifies whether the callout line attaches to the top, bottom, or center of the
 
 _expression_. `PresetDrop`( `_DropType_` )
 
- _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Parameters

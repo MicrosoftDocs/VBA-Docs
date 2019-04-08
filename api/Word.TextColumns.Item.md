@@ -19,9 +19,9 @@ Returns an individual  **TextColumn** object in a collection.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
+_expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
 
 
 ## Parameters

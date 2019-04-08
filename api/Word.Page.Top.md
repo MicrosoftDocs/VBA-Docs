@@ -19,7 +19,7 @@ Returns a  **Long** that represents the top edge of the page. Read-only.
 
 ## Syntax
 
- _expression_.**Top**
+_expression_.**Top**
 
  _expression_ A variable that represents a '[Page](Word.Page.md)' object.
 

@@ -19,7 +19,7 @@ Sets or returns a  **PbWizardNavBarDesign** constant representing the design of 
 
 ## Syntax
 
- _expression_.**Design**
+_expression_.**Design**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 

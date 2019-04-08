@@ -19,9 +19,9 @@ Returns a  **RecentFiles** collection that represents the most recently accessed
 
 ## Syntax
 
- _expression_.**RecentFiles**
+_expression_.**RecentFiles**
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

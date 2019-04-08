@@ -14,11 +14,13 @@ localization_priority: Normal
 
 # Color property (Excel Graph)
 
-Returns or sets the primary color of the Border object, Font object, or the Interior object. Use the RGB function to create a color value. Read/write Variant.
+Returns or sets the primary color of the Border object, Font object, or the Interior object. Use the RGB function to create a color value. Read/write **Variant**.
+
+## Syntax
 
 _expression_. `Color`
 
- _expression_ Required. An expression that returns an object in the **Applies To** list.
+_expression_ Required. An expression that returns an object in the **Applies To** list.
 
 
 ## Example

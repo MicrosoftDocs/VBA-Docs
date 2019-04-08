@@ -19,9 +19,9 @@ Returns the shape type. Read-only  **MsoShapeType**.
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 
 
 ## See also

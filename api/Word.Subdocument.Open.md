@@ -21,7 +21,7 @@ Opens the specified subdocument. Returns a  **Document** object that represents 
 
 _expression_. `Open`
 
- _expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
+_expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 
 
 ## Return value

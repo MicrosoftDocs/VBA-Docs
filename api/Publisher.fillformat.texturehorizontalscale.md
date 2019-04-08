@@ -17,7 +17,7 @@ Returns or sets a  **Single** that specifies the horizontal scaling factor for t
 
 ## Syntax
 
- _expression_.**TextureHorizontalScale**
+_expression_.**TextureHorizontalScale**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

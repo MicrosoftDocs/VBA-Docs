@@ -19,7 +19,7 @@ Moves a given inline shape out of its containing text range, defined by  **[Text
 
 ## Syntax
 
- _expression_.**MoveOutOfTextFlow**
+_expression_.**MoveOutOfTextFlow**
 
  _expression_ A variable that represents a  **Shape** object.
 

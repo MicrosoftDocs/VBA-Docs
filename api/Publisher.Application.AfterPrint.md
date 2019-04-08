@@ -19,7 +19,7 @@ Fires after all variables and fields print.
 
 ## Syntax
 
- _expression_.**AfterPrint**(**_Doc_**)
+_expression_.**AfterPrint**(**_Doc_**)
 
  _expression_ An expression that returns an  **Application** object.
 

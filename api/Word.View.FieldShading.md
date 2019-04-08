@@ -21,7 +21,7 @@ Returns or sets on-screen shading for fields. Read/write  **WdFieldShading**.
 
 _expression_. `FieldShading`
 
- _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
+_expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Example

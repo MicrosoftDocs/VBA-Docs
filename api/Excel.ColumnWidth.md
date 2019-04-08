@@ -14,11 +14,11 @@ localization_priority: Normal
 
 # ColumnWidth Property
 
-Returns or sets the width of all columns in the specified range. Read/write Variant.
+Returns or sets the width of all columns in the specified range. Read/write **Variant**.
 
 _expression_.**ColumnWidth**
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

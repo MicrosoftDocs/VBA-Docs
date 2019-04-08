@@ -14,11 +14,11 @@ localization_priority: Normal
 
 # ShowSeriesName property (Excel Graph)
 
-Allows the user to show the series name for the data labels on a chart. Read/write Boolean.
+Allows the user to show the series name for the data labels on a chart. Read/write **Boolean**.
 
 _expression_. `ShowSeriesName`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

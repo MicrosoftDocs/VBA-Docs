@@ -19,7 +19,7 @@ Sets a  **PbNavBarOrientation** constant that represents the alignment of the na
 
 ## Syntax
 
- _expression_.**ChangeOrientation**(**_Orientation_**)
+_expression_.**ChangeOrientation**(**_Orientation_**)
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 

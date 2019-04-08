@@ -21,7 +21,7 @@ Opens the specified template as a document and returns a  **Document** object.
 
 _expression_. `OpenAsDocument`
 
- _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Return value

@@ -14,7 +14,7 @@ Returns or sets a  **Variant** that specifies whether the toggle button is selec
 
 ## Syntax
 
- _expression_.**Value**
+_expression_.**Value**
 
 _expression_ A variable that represents a  **ToggleButton** object.
 

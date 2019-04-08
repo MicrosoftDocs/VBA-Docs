@@ -21,7 +21,7 @@ Adds a WordArt shape to a drawing canvas. Returns a  **Shape** object that repre
 
 _expression_. `AddTextEffect`( `_PresetTextEffect_` , `_Text_` , `_FontName_` , `_FontSize_` , `_FontBold_` , `_FontItalic_` , `_Left_` , `_Top_` )
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Parameters

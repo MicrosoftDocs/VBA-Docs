@@ -19,7 +19,7 @@ Returns a  **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 ## Syntax
 
- _expression_.**ThreeD**
+_expression_.**ThreeD**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

@@ -19,7 +19,7 @@ Creates a duplicate of the specified  **Page** object and then returns the new *
 
 ## Syntax
 
- _expression_.**Duplicate**
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a  **Page** object.
 

@@ -21,7 +21,7 @@ Returns or sets the width type for the specified  **Frameset** object. Read/writ
 
 _expression_. `WidthType`
 
- _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Example

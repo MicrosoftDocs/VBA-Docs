@@ -25,7 +25,7 @@ Returns or sets the way pictures are displayed on a column or bar picture chart 
 
 _expression_. `PictureType`
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 ## Example
 

@@ -19,7 +19,7 @@ Sets or returns a  **Long** representing the number of buttons in each row of bu
 
 ## Syntax
 
- _expression_.**HorizontalButtonCount**
+_expression_.**HorizontalButtonCount**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 

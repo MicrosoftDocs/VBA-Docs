@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that specifies whether Web pages within a W
 
 ## Syntax
 
- _expression_.**AlwaysSaveInDefaultEncoding**
+_expression_.**AlwaysSaveInDefaultEncoding**
 
  _expression_ A variable that represents a  **WebOptions** object.
 

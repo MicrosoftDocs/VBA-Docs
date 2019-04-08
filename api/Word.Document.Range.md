@@ -19,9 +19,9 @@ Returns a  **Range** object by using the specified starting and ending character
 
 ## Syntax
 
- _expression_.**Range** (_Start_, _End_)
+_expression_.**Range** (_Start_, _End_)
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

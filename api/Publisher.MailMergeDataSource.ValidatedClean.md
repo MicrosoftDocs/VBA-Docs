@@ -19,7 +19,7 @@ Indicates whether all recipient addresses in the parent  **MailMergeDataSource**
 
 ## Syntax
 
- _expression_.**ValidatedClean**
+_expression_.**ValidatedClean**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

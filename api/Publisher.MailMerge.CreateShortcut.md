@@ -19,7 +19,7 @@ Creates a shortcut to the file that contains the list of recipients or products 
 
 ## Syntax
 
- _expression_.**CreateShortcut**(**_FileName_**)
+_expression_.**CreateShortcut**(**_FileName_**)
 
  _expression_ A variable that represents a  **MailMerge** object.
 

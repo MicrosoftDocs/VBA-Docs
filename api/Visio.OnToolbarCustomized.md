@@ -16,7 +16,7 @@ Occurs when the user customizes the Microsoft Visio Viewer toolbar by adding or 
 
 ## Syntax
 
- _expression_.**OnToolbarCustomized**
+_expression_.**OnToolbarCustomized**
 
  _expression_ An expression that returns a  **Viewer** object.
 

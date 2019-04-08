@@ -19,9 +19,9 @@ Returns or sets the amount of space (in points) to add to the right of the conte
 
 ## Syntax
 
- _expression_.**RightPadding**
+_expression_.**RightPadding**
 
- _expression_ Required. A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
+_expression_ Required. A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
 
 
 ## Remarks

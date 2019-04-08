@@ -21,7 +21,7 @@ Returns or sets a  **WdTabAlignment** constant that represents the alignment for
 
 _expression_. `Alignment`
 
- _expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
+_expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
 
 
 ## Example

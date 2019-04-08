@@ -21,7 +21,7 @@ Returns a  **Rectangles** collection that represents a portion of text or graphi
 
 _expression_. `Rectangles`
 
- _expression_ Required. A variable that represents a '[Line](Word.Line.md)' object.
+_expression_ Required. A variable that represents a '[Line](Word.Line.md)' object.
 
 
 ## Remarks

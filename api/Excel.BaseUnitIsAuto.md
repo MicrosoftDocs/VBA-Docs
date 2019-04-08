@@ -14,11 +14,13 @@ localization_priority: Normal
 
 # BaseUnitIsAuto property (Excel Graph)
 
-True if Graph chooses appropriate base units for the specified category axis. The default value is True. Read/write Boolean.
+**True** if Graph chooses appropriate base units for the specified category axis. The default value is True. Read/write **Boolean**.
+
+## Syntax
 
 _expression_. `BaseUnitIsAuto`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

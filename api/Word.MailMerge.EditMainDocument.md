@@ -21,7 +21,7 @@ Activates the mail merge main document associated with the specified header sour
 
 _expression_. `EditMainDocument`
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Remarks

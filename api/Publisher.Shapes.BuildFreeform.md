@@ -19,7 +19,7 @@ Builds a freeform object. Returns a  [FreeformBuilder](Publisher.FreeformBuilder
 
 ## Syntax
 
- _expression_.**BuildFreeform**(**_EditingType_**,  **_X1_**,  **_Y1_**)
+_expression_.**BuildFreeform**(**_EditingType_**,  **_X1_**,  **_Y1_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

@@ -19,9 +19,9 @@ Returns a  **String** that represents the name of a font.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[FontNames](Word.FontNames.md)' collection.
+_expression_ Required. A variable that represents a '[FontNames](Word.FontNames.md)' collection.
 
 
 ## Parameters

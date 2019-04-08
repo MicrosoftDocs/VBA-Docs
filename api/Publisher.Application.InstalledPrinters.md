@@ -19,7 +19,7 @@ Returns an  **[InstalledPrinters](Publisher.InstalledPrinters.md)** collection t
 
 ## Syntax
 
- _expression_.**InstalledPrinters**
+_expression_.**InstalledPrinters**
 
  _expression_ A variable that represents an  **Application** object.
 

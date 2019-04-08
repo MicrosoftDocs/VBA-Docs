@@ -19,7 +19,7 @@ Returns a  **Variant** that represents the distance (in points) between the bott
 
 ## Syntax
 
- _expression_.**VerticalGap**
+_expression_.**VerticalGap**
 
  _expression_ A variable that represents a  **PageSetup** object.
 

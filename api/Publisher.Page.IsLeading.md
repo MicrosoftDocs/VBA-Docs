@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**IsLeading**
+_expression_.**IsLeading**
 
  _expression_ A variable that represents an  **Page** object.
 

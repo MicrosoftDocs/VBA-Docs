@@ -14,7 +14,7 @@ Creates and displays a new email message.
 
 ## Syntax
 
- _expression_.**NewMessage**
+_expression_.**NewMessage**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

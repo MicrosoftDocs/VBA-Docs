@@ -21,7 +21,7 @@ Returns or sets the value (in characters) for a first-line or hanging indent. Us
 
 _expression_. `CharacterUnitFirstLineIndent`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Example

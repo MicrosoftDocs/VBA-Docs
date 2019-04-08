@@ -17,7 +17,7 @@ Returns or gets a constant that determines the column width in reading mode. Rea
 
 ## Syntax
 
- _expression_.**ColumnWidth**
+_expression_.**ColumnWidth**
 
  _expression_ A variable that represents a [View](./Word.View.md) object.
 

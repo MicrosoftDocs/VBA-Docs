@@ -21,7 +21,7 @@ Returns the spelling error type. Read-only  **WdSpellingErrorType**.
 
 _expression_. `SpellingErrorType`
 
- _expression_ Required. A variable that represents a '[SpellingSuggestions](Word.spellingsuggestions.md)' collection.
+_expression_ Required. A variable that represents a '[SpellingSuggestions](Word.spellingsuggestions.md)' collection.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns the previous paragraph as a  **Paragraph** object.
 
 _expression_. `Previous`( `_Count_` )
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Returns the a  **Single** that represents the distance (in points) from the top 
 
 ## Syntax
 
- _expression_.**Top**
+_expression_.**Top**
 
  _expression_ A variable that represents a  **ReaderSpread** object.
 

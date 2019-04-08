@@ -21,7 +21,7 @@ Replaces the specified field with its most recent result.
 
 _expression_. `Unlink`
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks

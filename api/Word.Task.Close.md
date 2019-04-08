@@ -21,7 +21,7 @@ Closes the specified task.
 
 _expression_. `Close`
 
- _expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
+_expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
 
 
 ## Example

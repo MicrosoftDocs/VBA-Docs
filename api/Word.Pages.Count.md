@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of pages in the collection. Read-
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[Pages](Word.pages.md)' collection.
+_expression_ Required. A variable that represents a '[Pages](Word.pages.md)' collection.
 
 
 ## See also

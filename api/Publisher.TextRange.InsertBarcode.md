@@ -19,7 +19,7 @@ Inserts a bar code field at the end of the text range represented by the parent 
 
 ## Syntax
 
- _expression_.**InsertBarcode**
+_expression_.**InsertBarcode**
 
  _expression_ A variable that represents a  **TextRange** object.
 

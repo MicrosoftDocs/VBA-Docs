@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**Add**
+_expression_.**Add**
 
  _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
 

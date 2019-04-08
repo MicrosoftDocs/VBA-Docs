@@ -16,7 +16,7 @@ Gets the ID of the page at the specified index in the collection of pages in the
 
 ## Syntax
 
- _expression_.**PageIndexToID**(**_PageIndex_**)
+_expression_.**PageIndexToID**(**_PageIndex_**)
 
  _expression_ An expression that returns a  **Viewer** object.
 

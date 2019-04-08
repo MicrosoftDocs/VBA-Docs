@@ -19,7 +19,7 @@ Returns the text that appears in the title bar of the document window. Read-only
 
 ## Syntax
 
- _expression_.**Caption**
+_expression_.**Caption**
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

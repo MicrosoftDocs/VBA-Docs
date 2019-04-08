@@ -21,7 +21,7 @@ Returns or sets an East Asian language for the specified replacement. Read/write
 
 _expression_. `LanguageIDFarEast`
 
- _expression_ Required. A variable that represents a '[Replacement](Word.Replacement.md)' object.
+_expression_ Required. A variable that represents a '[Replacement](Word.Replacement.md)' object.
 
 
 ## Remarks

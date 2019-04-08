@@ -19,7 +19,7 @@ Returns a  **[ConnectorFormat](Publisher.ConnectorFormat.md)** object that conta
 
 ## Syntax
 
- _expression_.**ConnectorFormat**
+_expression_.**ConnectorFormat**
 
  _expression_ A variable that represents a  **Shape** object.
 

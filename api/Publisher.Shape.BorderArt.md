@@ -19,7 +19,7 @@ Returns a  **[BorderArtFormat](Publisher.BorderArtFormat.md)** object that repre
 
 ## Syntax
 
- _expression_.**BorderArt**
+_expression_.**BorderArt**
 
  _expression_ A variable that represents a  **Shape** object.
 

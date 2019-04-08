@@ -16,7 +16,7 @@ Deletes the  **SplitPart** object from a **SplitParts** collection.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
  _expression_ A variable that represents a [SplitPart](./Project.SplitPart.md) object.
 

@@ -21,7 +21,7 @@ Returns the last item in the  **Sections** collection as a **Section** object.
 
 _expression_. `Last`
 
- _expression_ Required. A variable that represents a '[Sections](Word.sections.md)' collection.
+_expression_ Required. A variable that represents a '[Sections](Word.sections.md)' collection.
 
 
 ## See also

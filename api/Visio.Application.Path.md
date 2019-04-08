@@ -19,7 +19,7 @@ Returns the drive and folder path of the Microsoft Visio application. Read-only.
 
 ## Syntax
 
- _expression_.**Path**
+_expression_.**Path**
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

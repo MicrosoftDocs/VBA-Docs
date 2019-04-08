@@ -16,7 +16,7 @@ The height of the main application window or the object. If the window is minimi
 
 _expression_.**Height**
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 
 ## Example

@@ -15,7 +15,7 @@ Selects one or more charts in a report.
 
 ## Syntax
 
- _expression_.**Select** _(Replace)_
+_expression_.**Select** _(Replace)_
 
  _expression_ A variable that represents a 'Chart' object.
 

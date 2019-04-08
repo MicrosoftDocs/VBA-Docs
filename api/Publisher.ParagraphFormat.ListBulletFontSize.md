@@ -19,7 +19,7 @@ Sets or retrieves a  **Single** that represents the list bullet font size from t
 
 ## Syntax
 
- _expression_.**ListBulletFontSize**
+_expression_.**ListBulletFontSize**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

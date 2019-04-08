@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `IsLast`
 
- _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Example

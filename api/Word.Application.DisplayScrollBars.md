@@ -40,7 +40,7 @@ This example displays horizontal and vertical scroll bars in all windows.
 Application.DisplayScrollBars = True
 ```
 
-This example returns True if there is a scroll bar currently displayed in any window.
+This example returns **True** if there is a scroll bar currently displayed in any window.
 
 
 

@@ -21,7 +21,7 @@ Saves all the documents in the  **Documents** collection.
 
 _expression_. `Save`( `_NoPrompt_` , `_OriginalFormat_` )
 
- _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
+_expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
 ## Parameters

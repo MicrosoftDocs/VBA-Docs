@@ -19,7 +19,7 @@ Represents the size of the characters in the text range in points. Read/write.
 
 ## Syntax
 
- _expression_.**Size**
+_expression_.**Size**
 
  _expression_ An expression that returns a  **Font** object.
 

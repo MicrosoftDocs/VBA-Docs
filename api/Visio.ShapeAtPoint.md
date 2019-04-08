@@ -16,7 +16,7 @@ Gets the ID of the shape in the drawing that is open in Microsoft Visio Viewer, 
 
 ## Syntax
 
- _expression_.**ShapeAtPoint**(**_X_**,  **_Y_**)
+_expression_.**ShapeAtPoint**(**_X_**,  **_Y_**)
 
  _expression_ An expression that returns a  **Viewer** object.
 

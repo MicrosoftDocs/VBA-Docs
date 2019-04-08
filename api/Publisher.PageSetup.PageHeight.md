@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the height of the pages in a publ
 
 ## Syntax
 
- _expression_.**PageHeight**
+_expression_.**PageHeight**
 
  _expression_ A variable that represents a  **PageSetup** object.
 

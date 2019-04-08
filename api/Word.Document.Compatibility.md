@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Compatibility`( `_Type_` )
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

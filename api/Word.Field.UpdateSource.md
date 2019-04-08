@@ -21,7 +21,7 @@ Saves the changes made to the results of an INCLUDETEXT field back to the source
 
 _expression_. `UpdateSource`
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks

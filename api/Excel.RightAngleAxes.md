@@ -14,11 +14,11 @@ localization_priority: Normal
 
 # RightAngleAxes property (Excel Graph)
 
-True if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3-D line, column, and bar charts. Read/write Variant.
+**True** if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3-D line, column, and bar charts. Read/write **Variant**.
 
 _expression_. `RightAngleAxes`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

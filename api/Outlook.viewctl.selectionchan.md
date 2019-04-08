@@ -14,7 +14,7 @@ Occurs when the selection of the current view changes.
 
 ## Syntax
 
- _expression_.**SelectionChange**
+_expression_.**SelectionChange**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

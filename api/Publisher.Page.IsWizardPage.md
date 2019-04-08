@@ -19,7 +19,7 @@ Returns  **True** if the specified page is a Microsoft Publisher wizard page. Re
 
 ## Syntax
 
- _expression_.**IsWizardPage**
+_expression_.**IsWizardPage**
 
  _expression_ A variable that represents an  **Page** object.
 

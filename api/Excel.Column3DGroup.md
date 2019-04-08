@@ -16,9 +16,11 @@ localization_priority: Normal
 
 Returns a ChartGroup object that represents the specified column chart group on a 3-D chart. Read-only ChartGroup object.
 
+## Syntax
+
 _expression_. `Column3DGroup`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

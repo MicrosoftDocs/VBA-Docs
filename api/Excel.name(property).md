@@ -14,19 +14,19 @@ localization_priority: Normal
 
 Name property as it applies to the  **Application** and **Trendline** objects.
 
-Returns or sets the name of the object. Read/write String.
+Returns or sets the name of the object. Read/write **String**.
 
 _expression_.**Name**
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 Name property as it applies to the  **Font** object.
-Returns or sets the name of the object. Read/write Variant.
+Returns or sets the name of the object. Read/write **Variant**.
 _expression_.**Name**
- _expression_ Required. An expression that returns a [Font](Excel.Font-graph-property.md) object.
+_expression_ Required. An expression that returns a [Font](Excel.Font-graph-property.md) object.
 Name property as it applies to the all other objects.
 Returns or sets the name of the object. Read-only String.
 _expression_.**Name**
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 ## Example
 

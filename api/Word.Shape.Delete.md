@@ -19,9 +19,9 @@ Deletes the specified shape node.
 
 ## Syntax
 
- _expression_.**Delete** (_Index_)
+_expression_.**Delete** (_Index_)
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Parameters

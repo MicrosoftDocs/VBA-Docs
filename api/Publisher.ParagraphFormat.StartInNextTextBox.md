@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState** constant that represents whether to always s
 
 ## Syntax
 
- _expression_.**StartInNextTextBox**
+_expression_.**StartInNextTextBox**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

@@ -19,7 +19,7 @@ Removes the picture from its frame, leaving in its place a picture placeholder. 
 
 ## Syntax
 
- _expression_.**Remove**
+_expression_.**Remove**
 
  _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 

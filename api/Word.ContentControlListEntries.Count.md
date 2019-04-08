@@ -19,7 +19,7 @@ Returns the number of items in the  **ContentControlListEntries** collection. Re
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a '[ContentControlListEntries](Word.ContentControlListEntries.md)' object.
 

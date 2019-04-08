@@ -17,7 +17,7 @@ Returns or sets a  **Single** that specifies the vertical scaling factor for the
 
 ## Syntax
 
- _expression_.**TextureVerticalScale**
+_expression_.**TextureVerticalScale**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

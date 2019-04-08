@@ -19,7 +19,7 @@ Sets the direction that the extrusion's sweep path takes away from the extruded 
 
 ## Syntax
 
- _expression_.**SetExtrusionDirection**(**_PresetExtrusionDirection_**)
+_expression_.**SetExtrusionDirection**(**_PresetExtrusionDirection_**)
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

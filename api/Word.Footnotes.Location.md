@@ -21,7 +21,7 @@ Returns or sets the position of all footnotes. Read/write  **WdFootnoteLocation*
 
 _expression_. `Location`
 
- _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
+_expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Example

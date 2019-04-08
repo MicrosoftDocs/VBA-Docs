@@ -19,7 +19,7 @@ Returns a  **Long** indicating the handle to the Microsoft Publisher application
 
 ## Syntax
 
- _expression_.**Hwnd**
+_expression_.**Hwnd**
 
  _expression_ A variable that represents a  **Window** object.
 

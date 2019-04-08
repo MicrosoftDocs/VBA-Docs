@@ -19,7 +19,7 @@ Returns a  **[WebOptions](Publisher.WebOptions.md)** object, which represents th
 
 ## Syntax
 
- _expression_.**WebOptions**
+_expression_.**WebOptions**
 
  _expression_ A variable that represents a  **Application** object.
 

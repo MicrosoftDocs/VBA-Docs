@@ -19,7 +19,7 @@ Returns or sets a  **PbUnitType** constant representing the standard measurement
 
 ## Syntax
 
- _expression_.**MeasurementUnit**
+_expression_.**MeasurementUnit**
 
  _expression_ A variable that represents a  **Options** object.
 

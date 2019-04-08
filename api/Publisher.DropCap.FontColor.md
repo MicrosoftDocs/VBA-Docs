@@ -19,7 +19,7 @@ Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object that repre
 
 ## Syntax
 
- _expression_.**FontColor**
+_expression_.**FontColor**
 
  _expression_ A variable that represents a  **DropCap** object.
 

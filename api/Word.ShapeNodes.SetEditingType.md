@@ -21,7 +21,7 @@ Sets the editing type of the node specified by Index. .
 
 _expression_. `SetEditingType`( `_Index_` , `_EditingType_` )
 
- _expression_ Required. A variable that represents a **[ShapeNodes](Word.shapenodes.md)** collection.
+_expression_ Required. A variable that represents a **[ShapeNodes](Word.shapenodes.md)** collection.
 
 
 ## Parameters

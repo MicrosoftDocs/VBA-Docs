@@ -21,7 +21,7 @@ Returns the type of item assigned to the specified key binding. Read-only  **WdK
 
 _expression_. `KeyCategory`
 
- _expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
+_expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 
 
 ## Example

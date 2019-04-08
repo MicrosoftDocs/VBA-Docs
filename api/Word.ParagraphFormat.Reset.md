@@ -21,7 +21,7 @@ Removes manual paragraph formatting (formatting not applied using a style).
 
 _expression_. `Reset`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets the location of the preprinted letterhead in a letter created by
 
 _expression_. `LetterheadLocation`
 
- _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
+_expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Simulates the mail merge operation, pausing to report each error as it occurs.
 
 _expression_. `Check`
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Example

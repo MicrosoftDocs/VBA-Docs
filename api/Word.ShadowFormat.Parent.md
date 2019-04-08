@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Shad
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents a '[ShadowFormat](Word.ShadowFormat.md)' object.
+_expression_ Required. A variable that represents a '[ShadowFormat](Word.ShadowFormat.md)' object.
 
 
 ## See also

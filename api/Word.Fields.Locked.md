@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**Locked**
+_expression_.**Locked**
 
- _expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
+_expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
 
 
 ## Remarks

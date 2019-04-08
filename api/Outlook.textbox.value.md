@@ -14,7 +14,7 @@ Returns or sets a  **Variant** that specifies text in the edit region. Read/writ
 
 ## Syntax
 
- _expression_.**Value**
+_expression_.**Value**
 
 _expression_ A variable that represents a  **TextBox** object.
 

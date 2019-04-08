@@ -19,7 +19,7 @@ Returns a  **[Stories](Publisher.Stories.md)** collection containing all stories
 
 ## Syntax
 
- _expression_.**Stories**
+_expression_.**Stories**
 
  _expression_ A variable that represents a  **Document** object.
 

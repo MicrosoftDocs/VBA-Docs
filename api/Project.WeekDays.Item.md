@@ -16,7 +16,7 @@ Gets a single  **WeekDay** object from the **WeekDays** collection. Read-only **
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'WeekDays' object.
 

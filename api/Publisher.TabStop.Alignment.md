@@ -19,7 +19,7 @@ Returns or sets a  **PbTabAlignmentType** constant that represents the alignment
 
 ## Syntax
 
- _expression_.**Alignment**
+_expression_.**Alignment**
 
  _expression_ A variable that represents a  **TabStop** object.
 

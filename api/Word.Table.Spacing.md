@@ -21,7 +21,7 @@ Returns or sets the spacing (in points) between the cells in a table. Read/write
 
 _expression_. `Spacing`
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns a  **Long** that represents the Microsoft Publisher build number. Read-o
 
 ## Syntax
 
- _expression_.**Build**
+_expression_.**Build**
 
  _expression_ A variable that represents a  **Application** object.
 

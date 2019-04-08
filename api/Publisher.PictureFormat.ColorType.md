@@ -19,7 +19,7 @@ Returns or sets an  **MsoPictureColorType** constant indicating the type of colo
 
 ## Syntax
 
- _expression_.**ColorType**
+_expression_.**ColorType**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

@@ -19,7 +19,7 @@ Returns the number of items in the  **OMathMatCols** collection. Read-only **Lon
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a '[OMathMatCols](Word.OMathMatCols.md)' object.
 

@@ -16,6 +16,8 @@ localization_priority: Normal
 
 Returns a **[Border](Excel.Border-graph-object.md)** object that represents the border of the specified object. Read-only **Border** object.
 
+## Syntax
+
 _expression_.**Border**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.

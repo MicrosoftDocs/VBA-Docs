@@ -19,7 +19,7 @@ Sets or returns a  **Boolean** that represents whether the whole word will be ma
 
 ## Syntax
 
- _expression_.**MatchWholeWord**
+_expression_.**MatchWholeWord**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

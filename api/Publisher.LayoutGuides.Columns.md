@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the number of guide columns on a pag
 
 ## Syntax
 
- _expression_.**Columns**
+_expression_.**Columns**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

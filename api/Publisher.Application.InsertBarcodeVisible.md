@@ -19,7 +19,7 @@ Determines whether  **Add a postal bar code** is available under **More Items** 
 
 ## Syntax
 
- _expression_.**InsertBarcodeVisible**
+_expression_.**InsertBarcodeVisible**
 
  _expression_ A variable that represents an  **Application** object.
 

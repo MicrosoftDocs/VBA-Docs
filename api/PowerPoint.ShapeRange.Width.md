@@ -19,7 +19,7 @@ Returns or sets the width of the specified object, in points. Read/write.
 
 ## Syntax
 
- _expression_.**Width**
+_expression_.**Width**
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

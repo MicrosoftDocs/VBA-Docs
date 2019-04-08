@@ -19,7 +19,7 @@ Returns a single  **Design** object from the specified **Designs** collection.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
 

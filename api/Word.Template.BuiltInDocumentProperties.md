@@ -21,7 +21,7 @@ Returns a  **DocumentProperties** collection that represents all the built-in do
 
 _expression_. `BuiltInDocumentProperties`
 
- _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Remarks

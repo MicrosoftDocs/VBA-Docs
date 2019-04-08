@@ -19,9 +19,9 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
 ## Syntax
 
- _expression_.**Application**
+_expression_.**Application**
 
- _expression_ Required. A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
+_expression_ Required. A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 
 
 ## Remarks

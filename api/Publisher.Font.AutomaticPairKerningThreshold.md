@@ -19,7 +19,7 @@ Returns or sets a  **Variant** value that represents the point size above which 
 
 ## Syntax
 
- _expression_.**AutomaticPairKerningThreshold**
+_expression_.**AutomaticPairKerningThreshold**
 
  _expression_ A variable that represents a  **Font** object.
 

@@ -19,9 +19,9 @@ Returns the specified pane as a  **Pane** object.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[Panes](Word.panes.md)' collection.
+_expression_ Required. A variable that represents a '[Panes](Word.panes.md)' collection.
 
 
 ## Parameters

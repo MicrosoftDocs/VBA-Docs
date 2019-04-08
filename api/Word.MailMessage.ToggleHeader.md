@@ -21,7 +21,7 @@ Toggles the display of the header in the active email message.
 
 _expression_. `ToggleHeader`
 
- _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
+_expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 
 
 ## Example

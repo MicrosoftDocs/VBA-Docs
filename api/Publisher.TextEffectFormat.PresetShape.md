@@ -19,7 +19,7 @@ Returns or sets an  **MsoPresetTextEffectShape** constant that represents the sh
 
 ## Syntax
 
- _expression_.**PresetShape**
+_expression_.**PresetShape**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

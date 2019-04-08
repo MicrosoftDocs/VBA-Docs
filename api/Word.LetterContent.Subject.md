@@ -21,7 +21,7 @@ Returns or sets the subject text of a letter created by the Letter Wizard. Read/
 
 _expression_. `Subject`
 
- _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
+_expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns a  **[Page](Publisher.Page.md)** object that represents the page current
 
 ## Syntax
 
- _expression_.**ActivePage**
+_expression_.**ActivePage**
 
  _expression_ A variable that represents a  **View** object.
 

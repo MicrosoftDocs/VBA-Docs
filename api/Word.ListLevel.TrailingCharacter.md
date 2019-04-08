@@ -21,7 +21,7 @@ Returns or sets the character inserted after the number for the specified list l
 
 _expression_. `TrailingCharacter`
 
- _expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
+_expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Example

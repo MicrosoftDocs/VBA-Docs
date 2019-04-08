@@ -21,7 +21,7 @@ Creates a shortcut to the document or hyperlink and adds it to the Favorites fol
 
 _expression_. `AddToFavorites`
 
- _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
+_expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns the  **[Attachment](Publisher.Attachment.md)** object at the specified i
 
 ## Syntax
 
- _expression_.**Item**(**_Item_**)
+_expression_.**Item**(**_Item_**)
 
  _expression_ A variable that represents an  **Attachments** collection.
 

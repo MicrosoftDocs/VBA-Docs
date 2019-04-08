@@ -14,7 +14,7 @@ Creates and displays a new appointment.
 
 ## Syntax
 
- _expression_.**NewAppointment**
+_expression_.**NewAppointment**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

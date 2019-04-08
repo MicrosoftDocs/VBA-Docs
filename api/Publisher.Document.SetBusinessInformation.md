@@ -19,7 +19,7 @@ Applies the specified business information set, which consists of a logo image a
 
 ## Syntax
 
- _expression_.**SetBusinessInformation**(**_Name_**)
+_expression_.**SetBusinessInformation**(**_Name_**)
 
  _expression_ A variable that represents a  **Document** object.
 

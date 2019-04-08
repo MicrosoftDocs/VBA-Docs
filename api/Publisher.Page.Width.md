@@ -19,7 +19,7 @@ Returns a  **Long** that represent the width (in points) of a cell, range of cel
 
 ## Syntax
 
- _expression_.**Width**
+_expression_.**Width**
 
  _expression_ A variable that represents a  **Page** object.
 

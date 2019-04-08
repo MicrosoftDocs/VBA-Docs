@@ -14,7 +14,7 @@ Displays the Microsoft Outlook  **Sort** dialog box.
 
 ## Syntax
 
- _expression_.**Sort**
+_expression_.**Sort**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

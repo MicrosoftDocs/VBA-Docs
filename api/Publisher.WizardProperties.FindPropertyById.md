@@ -19,7 +19,7 @@ Returns a  **[WizardProperty](Publisher.WizardProperty.md)** object, based on th
 
 ## Syntax
 
- _expression_.**FindPropertyById**(**_ID_**)
+_expression_.**FindPropertyById**(**_ID_**)
 
  _expression_ A variable that represents a  **WizardProperties** object.
 

@@ -21,7 +21,7 @@ Displays a cached document, if it has already been downloaded. Otherwise, this m
 
 _expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_NewWindow_` , `_AddHistory_` , `_ExtraInfo_` , `_Method_` , `_HeaderInfo_` )
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

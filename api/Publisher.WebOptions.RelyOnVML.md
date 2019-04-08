@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that specifies whether image files are gene
 
 ## Syntax
 
- _expression_.**RelyOnVML**
+_expression_.**RelyOnVML**
 
  _expression_ A variable that represents a  **WebOptions** object.
 

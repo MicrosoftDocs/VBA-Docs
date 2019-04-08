@@ -19,7 +19,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the main document s
 
 ## Syntax
 
- _expression_.**Content**
+_expression_.**Content**
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

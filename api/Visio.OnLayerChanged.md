@@ -16,7 +16,7 @@ Occurs when a layer is changed in the document open in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_.**OnLayerChanged**(**_LayerIndex_**,  **_Visible_**,  **_ColorOverride_**,  **_Color_**,  **_ColorTrans_**)
+_expression_.**OnLayerChanged**(**_LayerIndex_**,  **_Visible_**,  **_ColorOverride_**,  **_Color_**,  **_ColorTrans_**)
 
  _expression_ An expression that returns a  **Viewer** object.
 

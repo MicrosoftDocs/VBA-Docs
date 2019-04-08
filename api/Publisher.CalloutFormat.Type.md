@@ -19,7 +19,7 @@ Returns or sets an  **MsoCalloutType** constant that represents the callout type
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 

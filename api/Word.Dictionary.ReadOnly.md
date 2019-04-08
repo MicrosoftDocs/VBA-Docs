@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `ReadOnly`
 
- _expression_ Required. A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
+_expression_ Required. A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
 
 
 ## Remarks

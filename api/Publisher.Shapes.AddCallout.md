@@ -19,7 +19,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless lin
 
 ## Syntax
 
- _expression_.**AddCallout**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddCallout**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of endnotes in the collection. Re
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
+_expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 
 
 ## See also

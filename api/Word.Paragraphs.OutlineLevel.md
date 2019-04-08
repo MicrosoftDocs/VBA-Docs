@@ -21,7 +21,7 @@ Returns or sets the outline level for the specified paragraphs. Read/write  **[W
 
 _expression_. `OutlineLevel`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Remarks

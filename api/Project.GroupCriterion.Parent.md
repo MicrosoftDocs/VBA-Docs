@@ -16,7 +16,7 @@ Gets the parent of the  **GroupCriterion** object. Read-only **Group**.
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 

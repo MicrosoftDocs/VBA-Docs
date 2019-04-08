@@ -21,7 +21,7 @@ Inserts a special hidden paragraph mark that allows Microsoft Word to join parag
 
 _expression_. `InsertStyleSeparator`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Example

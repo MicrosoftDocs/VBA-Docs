@@ -21,7 +21,7 @@ Returns or sets the preferred unit of measurement to use for the width of the sp
 
 _expression_. `PreferredWidthType`
 
- _expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
+_expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
 
 
 ## See also

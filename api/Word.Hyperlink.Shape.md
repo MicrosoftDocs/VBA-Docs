@@ -21,7 +21,7 @@ Returns a  **Shape** object for the specified hyperlink or diagram node.
 
 _expression_. `Shape`
 
- _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
+_expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Remarks

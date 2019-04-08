@@ -19,7 +19,7 @@ Returns the number of items in the  **BuildingBlockEntries** collection. Read-on
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a '[BuildingBlockEntries](Word.BuildingBlockEntries.md)' object.
 

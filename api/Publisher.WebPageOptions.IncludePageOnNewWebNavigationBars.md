@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that specifies whether a link to a Web page
 
 ## Syntax
 
- _expression_.**IncludePageOnNewWebNavigationBars**
+_expression_.**IncludePageOnNewWebNavigationBars**
 
  _expression_ A variable that represents an  **WebPageOptions** object.
 

@@ -19,7 +19,7 @@ Returns a  **String** that represents the name of the table within the data sour
 
 ## Syntax
 
- _expression_.**TableName**
+_expression_.**TableName**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

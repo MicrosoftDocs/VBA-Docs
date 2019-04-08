@@ -19,7 +19,7 @@ Returns a  **String** value indicating the name of the specified object. Read-on
 
 ## Syntax
 
- _expression_.**Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a  **WizardProperty** object.
 

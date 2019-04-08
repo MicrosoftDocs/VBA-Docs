@@ -14,7 +14,7 @@ Displays the Microsoft Outlook  **Categories** dialog box for the currently sele
 
 ## Syntax
 
- _expression_.**Categories**
+_expression_.**Categories**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

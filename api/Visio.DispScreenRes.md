@@ -16,7 +16,7 @@ Specifies the screen resolution for your Web page. Read/write.
 
 ## Syntax
 
- _expression_.**DispScreenRes**
+_expression_.**DispScreenRes**
 
  _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 

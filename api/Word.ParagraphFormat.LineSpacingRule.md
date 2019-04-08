@@ -21,7 +21,7 @@ Returns or sets the line spacing for the specified paragraph formatting. Read/wr
 
 _expression_. `LineSpacingRule`
 
- _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
+_expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Remarks

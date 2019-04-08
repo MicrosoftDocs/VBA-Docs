@@ -21,7 +21,7 @@ Returns an  **Options** object that represents application settings in Microsoft
 
 _expression_. `Options`
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns the number of items in the  **Breaks** collection. Read-only **Long**.
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a '[Breaks](Word.Breaks.md)' object.
 

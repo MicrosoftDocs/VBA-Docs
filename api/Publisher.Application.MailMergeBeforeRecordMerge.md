@@ -19,7 +19,7 @@ Occurs as a merge is executed for the individual records in a merge.
 
 ## Syntax
 
- _expression_.**MailMergeBeforeRecordMerge**(**_Doc_**,  **_Cancel_**)
+_expression_.**MailMergeBeforeRecordMerge**(**_Doc_**,  **_Cancel_**)
 
  _expression_ A variable that represents an  **Application** object.
 

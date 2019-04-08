@@ -35,7 +35,7 @@ _expression_. `CustomFieldPropertiesEx`( `_FieldID_`, `_Attribute_`, `_SummaryCa
 | _SummaryCalc_|Optional|**Long**|The calculation to be performed on the custom field for summary rows and grouping summary rows. Can be one of the  **[PjSummaryCalc](Project.PjSummaryCalc.md)** constants.|
 | _GraphicalIndicators_|Optional|**Boolean**|**True** if graphical indicators display instead of data for the custom field.|
 | _Required_|Optional|**Boolean**|**True** if the custom field is required.|
-| _AutomaticallyRolldownToAssn_|Optional|**Boolean**|True if the custom field automatically rolls down to assignments.|
+| _AutomaticallyRolldownToAssn_|Optional|**Boolean**|**True** if the custom field automatically rolls down to assignments.|
 
 ## Return value
 

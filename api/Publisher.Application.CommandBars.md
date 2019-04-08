@@ -19,7 +19,7 @@ Sets or returns a  **CommandBars** collection that represents the menu bar and a
 
 ## Syntax
 
- _expression_.**CommandBars**
+_expression_.**CommandBars**
 
  _expression_ A variable that represents a  **Application** object.
 

@@ -21,7 +21,7 @@ Inserts a TC (Table of Contents Entry) field after the specified range. The meth
 
 _expression_. `MarkEntry`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_TableID_` , `_Level_` )
 
- _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
+_expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
 
 
 ## Parameters

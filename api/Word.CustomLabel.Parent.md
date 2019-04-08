@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Cust
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
+_expression_ Required. A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
 
 
 ## See also

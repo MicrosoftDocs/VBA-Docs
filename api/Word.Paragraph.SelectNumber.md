@@ -21,7 +21,7 @@ Selects the number or bullet in a list.
 
 _expression_. `SelectNumber`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks

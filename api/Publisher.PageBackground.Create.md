@@ -19,7 +19,7 @@ Creates a new  **PageBackground** object for the specified **Page** object.
 
 ## Syntax
 
- _expression_.**Create**
+_expression_.**Create**
 
  _expression_ A variable that represents a  **PageBackground** object.
 

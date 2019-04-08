@@ -19,7 +19,7 @@ Returns a  **Single** indicating the distance (in points) from the left edge of 
 
 ## Syntax
 
- _expression_.**Left**
+_expression_.**Left**
 
  _expression_ A variable that represents a  **PrintableRect** object.
 

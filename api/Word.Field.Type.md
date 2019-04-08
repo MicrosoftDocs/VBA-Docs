@@ -19,9 +19,9 @@ Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)**.
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks

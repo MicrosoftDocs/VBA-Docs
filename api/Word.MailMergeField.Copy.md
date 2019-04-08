@@ -21,7 +21,7 @@ Copies the specified mail merge field to the Clipboard.
 
 _expression_. `Copy`
 
- _expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
+_expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 
 
 ## See also

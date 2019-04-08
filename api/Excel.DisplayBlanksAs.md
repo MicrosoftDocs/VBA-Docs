@@ -23,9 +23,11 @@ Returns or sets the way that blank cells are plotted on a chart. Read/write XlDi
 | **xlNotPlotted**|
 | **xlZero**|
 
+## Syntax
+
 _expression_. `DisplayBlanksAs`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

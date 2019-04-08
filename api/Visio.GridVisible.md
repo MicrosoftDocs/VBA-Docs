@@ -16,7 +16,7 @@ Gets or sets a value that indicates whether the page grid is visible in Microsof
 
 ## Syntax
 
- _expression_.**GridVisible**
+_expression_.**GridVisible**
 
  _expression_ An expression that returns a  **Viewer** object.
 

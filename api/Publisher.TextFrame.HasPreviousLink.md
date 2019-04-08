@@ -19,7 +19,7 @@ Returns  **msoTrue** if the specified text frame has a valid link to a backward 
 
 ## Syntax
 
- _expression_.**HasPreviousLink**
+_expression_.**HasPreviousLink**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

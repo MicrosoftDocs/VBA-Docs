@@ -21,7 +21,7 @@ Switches the display of the fields between field codes and field results. Use th
 
 _expression_. `ToggleShowCodes`
 
- _expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
+_expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
 
 
 ## Example

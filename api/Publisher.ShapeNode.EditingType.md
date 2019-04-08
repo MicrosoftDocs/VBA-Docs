@@ -19,7 +19,7 @@ If the specified node is a vertex, this property returns an  **MsoEditingType** 
 
 ## Syntax
 
- _expression_.**EditingType**
+_expression_.**EditingType**
 
  _expression_ A variable that represents an  **ShapeNode** object.
 

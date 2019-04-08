@@ -24,7 +24,7 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 
 _expression_. `CharacterType`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 

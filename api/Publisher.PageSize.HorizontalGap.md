@@ -19,7 +19,7 @@ Returns a  **Variant** that represents the distance between the right edge of on
 
 ## Syntax
 
- _expression_.**HorizontalGap**
+_expression_.**HorizontalGap**
 
  _expression_ A variable that represents a  **PageSize** object.
 

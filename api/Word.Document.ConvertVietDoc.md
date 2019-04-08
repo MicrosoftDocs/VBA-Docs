@@ -21,7 +21,7 @@ Reconverts a Vietnamese document to Unicode using a code page other than the def
 
 _expression_. `ConvertVietDoc`( `_CodePageOrigin_` )
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

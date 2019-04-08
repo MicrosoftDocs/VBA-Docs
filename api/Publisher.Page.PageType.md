@@ -19,7 +19,7 @@ Returns a  **PbPageType** constant that represents the page type. Read-only.
 
 ## Syntax
 
- _expression_.**PageType**
+_expression_.**PageType**
 
  _expression_ A variable that represents a  **Page** object.
 

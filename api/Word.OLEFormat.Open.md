@@ -21,7 +21,7 @@ Opens the specified  **OLEFormat** object.
 
 _expression_. `Open`
 
- _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
+_expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 
 
 ## See also

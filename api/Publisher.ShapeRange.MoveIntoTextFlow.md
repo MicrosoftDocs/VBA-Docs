@@ -19,7 +19,7 @@ Moves a given shape into the text flow defined by  **[TextRange Object](Publishe
 
 ## Syntax
 
- _expression_.**MoveIntoTextFlow**(**_Range_**)
+_expression_.**MoveIntoTextFlow**(**_Range_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

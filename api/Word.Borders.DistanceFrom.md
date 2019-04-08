@@ -21,7 +21,7 @@ Returns or sets a value that indicates whether the specified page border is meas
 
 _expression_. `DistanceFrom`
 
- _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
+_expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## Example

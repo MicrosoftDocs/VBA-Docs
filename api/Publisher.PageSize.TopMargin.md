@@ -19,7 +19,7 @@ Specifies the distance between the top edge of the printer sheet and the top edg
 
 ## Syntax
 
- _expression_.**TopMargin**
+_expression_.**TopMargin**
 
  _expression_ A variable that represents a  **PageSize** object.
 

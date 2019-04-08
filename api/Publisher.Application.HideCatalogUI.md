@@ -19,7 +19,7 @@ Occurs when the catalog of publication wizards is hidden in the Microsoft Publis
 
 ## Syntax
 
- _expression_.**HideCatalogUI**
+_expression_.**HideCatalogUI**
 
  _expression_ An expression that returns a  **Application** object.
 

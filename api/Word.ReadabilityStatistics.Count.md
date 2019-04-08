@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of readability statistics in the 
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[ReadabilityStatistics](Word.readabilitystatistics.md)' collection.
+_expression_ Required. A variable that represents a '[ReadabilityStatistics](Word.readabilitystatistics.md)' collection.
 
 
 ## See also

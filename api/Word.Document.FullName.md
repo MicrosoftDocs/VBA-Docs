@@ -19,9 +19,9 @@ Returns a  **String** that represents the name of a document, including the path
 
 ## Syntax
 
- _expression_.**FullName**
+_expression_.**FullName**
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

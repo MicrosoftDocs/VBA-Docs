@@ -21,7 +21,7 @@ Returns or sets the leader character that appears between entries and their asso
 
 _expression_. `TabLeader`
 
- _expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
 
 
 ## Example

@@ -17,7 +17,7 @@ Returns or sets a  **String** that specifies a placeholder character to be displ
 
 ## Syntax
 
- _expression_.**PasswordChar**
+_expression_.**PasswordChar**
 
 _expression_ A variable that represents a  **TextBox** object.
 

@@ -19,7 +19,7 @@ Returns a  **Variant** that represents the distance in points between the bottom
 
 ## Syntax
 
- _expression_.**VerticalGap**
+_expression_.**VerticalGap**
 
  _expression_ A variable that represents a  **PageSize** object.
 

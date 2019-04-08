@@ -21,7 +21,7 @@ Adjusts the width of the specified columns so that they are equal.
 
 _expression_. `DistributeWidth`
 
- _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
+_expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
 ## Example

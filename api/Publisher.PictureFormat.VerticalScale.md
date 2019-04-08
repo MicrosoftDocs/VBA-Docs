@@ -19,7 +19,7 @@ Returns a  **Long** that represents the scaling of the picture along its vertica
 
 ## Syntax
 
- _expression_.**VerticalScale**
+_expression_.**VerticalScale**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

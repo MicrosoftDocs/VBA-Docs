@@ -21,7 +21,7 @@ Removes the specified XML element from the document and places it on the Clipboa
 
 _expression_. `Cut`
 
- _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
+_expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## See also

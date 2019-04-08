@@ -19,9 +19,9 @@ Selects the specified table row.
 
 ## Syntax
 
- _expression_.**Select**
+_expression_.**Select**
 
- _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Remarks

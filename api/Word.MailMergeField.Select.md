@@ -19,9 +19,9 @@ Selects the specified mail merge field.
 
 ## Syntax
 
- _expression_.**Select**
+_expression_.**Select**
 
- _expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
+_expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 
 
 ## Remarks

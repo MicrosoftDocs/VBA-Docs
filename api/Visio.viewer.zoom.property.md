@@ -14,7 +14,7 @@ Gets or sets the percentage of zoom for Microsoft Visio Viewer. Read/write.
 
 ## Syntax
 
- _expression_.**Zoom**
+_expression_.**Zoom**
 
  _expression_ An expression that returns a  **Viewer** object.
 

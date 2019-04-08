@@ -21,7 +21,7 @@ Returns or sets the style for the specified object. Read/write  **Variant**.
 
 _expression_. `Style`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

@@ -22,7 +22,7 @@ Gets or sets the display name of the data recordset. Read/write.
 
 ## Syntax
 
- _expression_.**Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a [DataRecordset](./Visio.DataRecordset.md) object.
 

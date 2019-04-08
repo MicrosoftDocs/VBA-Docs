@@ -19,7 +19,7 @@ Returns a  **Long** that represents the row number containing the specified cell
 
 ## Syntax
 
- _expression_.**Row**
+_expression_.**Row**
 
  _expression_ A variable that represents a  **CellRange** object.
 

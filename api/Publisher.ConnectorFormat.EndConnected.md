@@ -19,7 +19,7 @@ Returns an  **MsoTriState** constant indicating whether the end of the specified
 
 ## Syntax
 
- _expression_.**EndConnected**
+_expression_.**EndConnected**
 
  _expression_ A variable that represents an  **ConnectorFormat** object.
 

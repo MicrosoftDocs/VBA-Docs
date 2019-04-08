@@ -16,7 +16,7 @@ Creates a new building block and returns a  **BuildingBlock** object.
 
 ## Syntax
 
- _expression_.**Add**( `_Name_` , `_Range_` , `_Description_` , `_InsertOptions_` )
+_expression_.**Add**( `_Name_` , `_Range_` , `_Description_` , `_InsertOptions_` )
 
  _expression_ An expression that returns a [BuildingBlocks](./Word.BuildingBlocks.md) object.
 

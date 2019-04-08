@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Vers
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents a '[Version](Word.Version.md)' object.
+_expression_ Required. A variable that represents a '[Version](Word.Version.md)' object.
 
 
 ## See also

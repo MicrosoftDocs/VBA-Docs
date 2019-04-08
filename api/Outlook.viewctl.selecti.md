@@ -14,7 +14,7 @@ Returns a  [Selection](Outlook.Selection.md) object that consists of one or more
 
 ## Syntax
 
- _expression_.**Selection**
+_expression_.**Selection**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

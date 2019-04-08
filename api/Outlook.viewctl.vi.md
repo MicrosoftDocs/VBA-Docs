@@ -14,7 +14,7 @@ Returns or sets a **String** value that represents the name of the view in the c
 
 ## Syntax
 
- _expression_.**View**
+_expression_.**View**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

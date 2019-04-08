@@ -21,7 +21,7 @@ Establishes a connection to a network drive.
 
 _expression_. `Connect`( `_Path_` , `_Drive_` , `_Password_` )
 
- _expression_ Required. A variable that represents a '[System](Word.System.md)' object.
+_expression_ Required. A variable that represents a '[System](Word.System.md)' object.
 
 
 ## Parameters

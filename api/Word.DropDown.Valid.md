@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Valid`
 
- _expression_ Required. An expression that returns a '[DropDown](Word.DropDown.md)' object.
+_expression_ Required. An expression that returns a '[DropDown](Word.DropDown.md)' object.
 
 
 ## Remarks

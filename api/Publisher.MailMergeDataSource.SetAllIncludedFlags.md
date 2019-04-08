@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**SetAllIncludedFlags**(**_Included_**)
+_expression_.**SetAllIncludedFlags**(**_Included_**)
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

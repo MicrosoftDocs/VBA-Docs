@@ -19,7 +19,7 @@ When used without an object qualifier, returns an  **[Application](Word.Applicat
 
 ## Syntax
 
- _expression_.**Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 

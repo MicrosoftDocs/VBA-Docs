@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**PrintBleedMarks**
+_expression_.**PrintBleedMarks**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 

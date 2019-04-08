@@ -19,7 +19,7 @@ Sets or returns a  **Boolean** representing whether or not a search operation wi
 
 ## Syntax
 
- _expression_.**MatchKashida**
+_expression_.**MatchKashida**
 
  _expression_ A variable that represents a  **FindReplace** object.
 

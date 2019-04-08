@@ -19,7 +19,7 @@ Returns a  **Variant** that represents the font size of phonetic characters. Rea
 
 ## Syntax
 
- _expression_.**FontSize**
+_expression_.**FontSize**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 

@@ -19,7 +19,7 @@ Returns a  **CatalogMergeShapes** collection that represents the shapes included
 
 ## Syntax
 
- _expression_.**CatalogMergeItems**
+_expression_.**CatalogMergeItems**
 
  _expression_ A variable that represents a  **Shape** object.
 

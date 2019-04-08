@@ -21,7 +21,7 @@ Returns a  **[Paragraph](Word.Paragraph.md)** object that represents the first i
 
 _expression_. `First`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## See also

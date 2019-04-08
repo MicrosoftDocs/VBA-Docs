@@ -16,7 +16,7 @@ Gets the parent of the  **Month** object. Read-only **Year**.
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Month](./Project.Month.md) object.
 

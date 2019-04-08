@@ -19,7 +19,7 @@ Gets or sets the  **MailMergeDataField** object that represents the data-source 
 
 ## Syntax
 
- _expression_.**To**
+_expression_.**To**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 

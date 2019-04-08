@@ -19,7 +19,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
 ## Syntax
 
- _expression_.**Creator**
+_expression_.**Creator**
 
  _expression_ An expression that returns a '[CoAuthLocks](Word.CoAuthLocks.md)' object.
 

@@ -19,7 +19,7 @@ Increases the font size to the next available size.
 
 ## Syntax
 
- _expression_.**Grow**
+_expression_.**Grow**
 
  _expression_ A variable that represents a  **Font** object.
 

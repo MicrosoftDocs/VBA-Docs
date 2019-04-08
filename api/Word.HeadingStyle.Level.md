@@ -21,7 +21,7 @@ Returns or sets the level for the heading style in a table of contents or table 
 
 _expression_. `Level`
 
- _expression_ Required. A variable that represents a '[HeadingStyle](Word.HeadingStyle.md)' object.
+_expression_ Required. A variable that represents a '[HeadingStyle](Word.HeadingStyle.md)' object.
 
 
 ## Example

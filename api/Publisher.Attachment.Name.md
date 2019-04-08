@@ -19,7 +19,7 @@ Returns the name of the attachment. Read-only.
 
 ## Syntax
 
- _expression_.**Name**
+_expression_.**Name**
 
  _expression_ A variable that represents an  **Attachment** object.
 

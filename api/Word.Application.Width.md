@@ -19,7 +19,7 @@ Returns or sets the width of the application window, in points. Read/write  **Lo
 
 ## Syntax
 
- _expression_.**Width**
+_expression_.**Width**
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

@@ -21,7 +21,7 @@ Returns or sets the style for the specified object. To set this property, specif
 
 _expression_. `Style`
 
- _expression_ Required. A variable that represents a '[Replacement](Word.Replacement.md)' object.
+_expression_ Required. A variable that represents a '[Replacement](Word.Replacement.md)' object.
 
 
 ## Remarks

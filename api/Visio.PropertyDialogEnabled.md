@@ -16,7 +16,7 @@ Gets or sets a value that indicates whether the  **Properties and Settings** dia
 
 ## Syntax
 
- _expression_.**PropertyDialogEnabled**
+_expression_.**PropertyDialogEnabled**
 
  _expression_ An expression that returns a  **Viewer** object.
 

@@ -19,7 +19,7 @@ Returns the type of the object. Read-only.
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
