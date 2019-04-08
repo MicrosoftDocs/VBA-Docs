@@ -20,7 +20,7 @@ Specifies the name of the chart template that Graph will use when creating new c
 
 _expression_.**SetDefaultChart** (_FormatName_, _Gallery_)
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Parameters
 

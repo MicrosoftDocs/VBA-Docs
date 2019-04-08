@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # Clear method (Excel Graph)
 
-## ChartArea and Legend objects
+The **Clear** method as it applies to the **ChartArea**, **Legend**, and **Range** objects.
 
-The **Clear** method as it applies to the **ChartArea** and **Legend** objects.
+## ChartArea and Legend objects
 
 Clears the entire chart area.
 
@@ -24,12 +24,10 @@ Clears the entire chart area.
 
 _expression_.**Clear**
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[ChartArea](excel.chartarea-graph-object.md)** or **[Legend](excel.legend-graph-object.md)** object.
 
 
 ## Range object
-
-The **Clear** method as it applies to the **Range** object.
 
 Clears the entire range.
 
@@ -37,7 +35,7 @@ Clears the entire range.
 
 _expression_.**Clear**
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[Range](excel.range-graph-object.md)** object. 
 
 ## Example
 

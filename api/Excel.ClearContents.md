@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # ClearContents method (Excel Graph)
 
-## ChartArea object
+The **ClearContents** method as it applies to the **ChartArea** and **Range** objects.
 
-The **ClearContents** method as it applies to the **ChartArea** object.
+## ChartArea object
 
 Clears the data from a chart but leaves the formatting.
 
@@ -24,11 +24,11 @@ Clears the data from a chart but leaves the formatting.
 
 _expression_.**ClearContents**
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[ChartArea](excel.chartarea-graph-object.md)** object.
+
+
 
 ## Range object
-
-The **ClearContents** method as it applies to the **Range** object.
 
 Clears the formulas from the range.
 
@@ -36,7 +36,7 @@ Clears the formulas from the range.
 
 _expression_.**ClearContents**
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[Range](excel.range-graph-object.md)** object. 
 
 ## Example
 

@@ -12,9 +12,11 @@ localization_priority: Normal
 
 # Delete method (Excel Graph)
 
+The **Delete** method as it applies to all objects in the **Applies To** list except the **Range** object, and then to the **Range** object. 
+
 ## All objects except the Range object
 
-The **Delete** method as it applies to all objects in the **Applies To** list except the **Range** object.
+Applies to all objects in the **Applies To** list except the **Range** object.
 
 Deletes the specified object.
 
@@ -28,7 +30,7 @@ _expression_ Required. An expression that returns one of the above objects.
 
 ## Range object
 
-The **Delete** method as it applies to the **Range** object.
+Applies to the **Range** object.
 
 Deletes the specified object.
 
@@ -36,7 +38,7 @@ Deletes the specified object.
 
 _expression_.**Delete** (_Shift_)
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[Range](excel.range-graph-object.md)** object. 
 
 
 ### Parameters

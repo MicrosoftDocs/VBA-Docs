@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # Copy method (Excel Graph)
 
-## ChartArea object
+The **Copy** method as it applies to the **ChartArea** and **Range** objects.
 
-Copy method as it applies to the **ChartArea** object.
+## ChartArea object
 
 Copies a picture of the point or series to the Clipboard.
 
@@ -24,11 +24,12 @@ Copies a picture of the point or series to the Clipboard.
 
 _expression_.**Copy**
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[ChartArea](excel.chartarea-graph-object.md)** object.
+
+
+
 
 ## Range object
-
-Copy method as it applies to the **Range** object.
 
 Copies the range to the specified range or to the Clipboard.
 
@@ -36,7 +37,7 @@ Copies the range to the specified range or to the Clipboard.
 
 _expression_.**Copy** (_Destination_)
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[Range](excel.range-graph-object.md)** object. 
 
 ### Parameters
 
