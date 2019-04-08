@@ -7,20 +7,20 @@ ms.prod: excel
 api_name:
 - Excel.Border
 ms.assetid: c4c01534-3d56-7496-0368-fea8d2e2d0ae
-ms.date: 03/07/2019
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
 
 # Border property (Excel Graph)
 
-Returns a **[Border](Excel.Border-graph-object.md)** object that represents the border of the specified object. Read-only **Border** object.
+Returns a **Border** object that represents the border of the specified object. Read-only **Border** object.
 
 ## Syntax
 
 _expression_.**Border**
 
-_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns a **[Border](Excel.Border-graph-object.md)** object.
 
 
 ## Example

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Bold
 ms.assetid: 224f4cc5-a495-062a-655b-828182cbe3de
-ms.date: 06/08/2017
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Bold`
+_expression_.**Bold**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
@@ -26,7 +26,6 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 ## Example
 
 This example sets the font style to bold for the chart title.
-
 
 ```vb
 myChart.ChartTitle.Font.Bold = True

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.BubbleScale
 ms.assetid: e3947690-3428-3f50-173b-b7889f9aac7f
-ms.date: 06/08/2017
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ Returns or sets the scale factor for bubbles in the specified chart group. Can b
 
 ## Syntax
 
-_expression_. `BubbleScale`
+_expression_.**BubbleScale**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
@@ -26,7 +26,6 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 ## Example
 
 This example sets the bubble size in chart group one to 200 percent of the default size.
-
 
 ```vb
 With myChart 
