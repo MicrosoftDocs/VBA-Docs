@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Update
 ms.assetid: ef26d691-e77a-115e-2152-eec136aa6839
-ms.date: 04/06/2019
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
