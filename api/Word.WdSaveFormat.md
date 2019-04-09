@@ -23,7 +23,7 @@ Specifies the format to use when saving a document.
 | **wdFormatEncodedText**|7|Encoded text format.|
 | **wdFormatFilteredHTML**|10|Filtered HTML format.|
 | **wdFormatFlatXML**|19|Open XML file format saved as a single XML file.|
-| **wdFormatFlatXML**|20|Open XML file format with macros enabled saved as a single XML file.|
+| **wdFormatFlatXMLMacroEnabled**|20|Open XML file format with macros enabled saved as a single XML file.|
 | **wdFormatFlatXMLTemplate**|21|Open XML template format saved as a XML single file.|
 | **wdFormatFlatXMLTemplateMacroEnabled**|22|Open XML template format with macros enabled saved as a single XML file.|
 | **wdFormatOpenDocumentText**|23|OpenDocument Text format.|

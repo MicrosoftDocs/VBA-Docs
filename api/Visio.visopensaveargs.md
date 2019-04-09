@@ -36,7 +36,7 @@ Flags to be passed to the **Documents.AddEx**, **Documents.OpenEx**, and **Docum
 | **visOpenNoWorkspace**|256|Opens the document with no workspace information.|
 | **visOpenRO**|2|Opens the document as read-only.|
 | **visOpenRW**|32|Opens the document for both reading and writing.|
-| **visSaveAsCheckCompatibility**||Displays the  **Compatibility Checker** dialog box on save.|
+| **visSaveAsCheckCompatibility**|8|Displays the  **Compatibility Checker** dialog box on save.|
 | **visSaveAsListInMRU**|4|Saves the document and puts it in the MRU list. |
 | **visSaveAsRO**|1|Saves the document as read-only.|
 | **visSaveAsWS**|2|Saves the workspace and the file.|

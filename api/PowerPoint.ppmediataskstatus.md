@@ -23,10 +23,6 @@ Indicates the status of the media resampling task.
 |**ppMediaTaskStatusQueued**|2|Queued|
 |**ppMediaTaskStatusDone**|3|Done|
 |**ppMediaTaskStatusFailed**|4|Failed|
-|**ppMediaTaskStatusDone**|**3**||
-|**ppMediaTaskStatusFailed**|**4**||
-|**ppMediaTaskStatusInProgress**|**1**||
-|**ppMediaTaskStatusNone**|**0**||
-|**ppMediaTaskStatusQueued**|**2**||
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

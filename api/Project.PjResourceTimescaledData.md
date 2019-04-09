@@ -75,7 +75,7 @@ Contains constants that specify a resource field for timescaled data in the Proj
 |**pjResourceTimescaledBaseline8BudgetWork**|789|Baseline8 Budget Work (resource) field.|
 |**pjResourceTimescaledBaseline8Cost**|413|Baseline8 Cost (resource) field.|
 |**pjResourceTimescaledBaseline8CumulativeWork**|833|Baseline8 cumulative work (resource) field.|
-|**pjResourceTimescaledBaseline4RemainingCumulativeWork**|822|Baseline8 remaining cumulative work (resource) field.|
+|**pjResourceTimescaledBaseline8RemainingCumulativeWork**|822|Baseline8 remaining cumulative work (resource) field.|
 |**pjResourceTimescaledBaseline8Work**|412|Baseline8 Work (resource) field.|
 |**pjResourceTimescaledBaseline9BudgetCost**|794|Baseline9 Budget Cost (resource) field.|
 |**pjResourceTimescaledBaseline9BudgetWork**|793|Baseline9 Budget Work (resource) field.|

@@ -59,7 +59,7 @@ Contains constants that specify the type of field for timescaled data in the Pro
 |**pjBaseline4BudgetWork**|64|Baseline4 Budget Work field.|
 |**pjBaseline4Cost**|34|Baseline4 Cost field.|
 |**pjBaseline4CumulativeWork**|109|Baseline4 cumulative work.|
-|**pjBaseline1RemainingCumulativeWork**|87|Baseline4 remaining cumulative work.|
+|**pjBaseline4RemainingCumulativeWork**|87|Baseline4 remaining cumulative work.|
 |**pjBaseline4RemainingTasks**|98|Baseline4 remaining tasks.|
 |**pjBaseline4Work**|33|Baseline4 Work field.|
 |**pjBaseline5BudgetCost**|67|Baseline5 Budget Cost field.|

@@ -21,8 +21,5 @@ Specifies the category labels for the category label levels.
 | **xlCategoryLabelLevelAll** (default)|-1 (&HFFFFFFFF)|Set category labels to all category label levels w/in range on the chart.|
 | **xlCategoryLabelLevelCustom**|-2 (&HFFFFFFFE)|Indicates literal data in the category labels.|
 | **xlCategoryLabelLevelNone**|-3 (&HFFFFFFFD)|Set no category labels in the chart. Defaults to automatic indexed labels.|
-| **xlCategoryLabelLevelAll**| **-1**||
-| **xlCategoryLabelLevelCustom**| **-2**||
-| **xlCategoryLabelLevelNone**| **-3**||
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
