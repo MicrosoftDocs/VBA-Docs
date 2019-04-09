@@ -22,9 +22,6 @@ Indicates the current state of the player.
 |**ppPaused**|1|Paused|
 |**ppStopped**|2|Stopped|
 |**ppNotReady**|3|Not ready|
-|**ppNotReady**|**3**||
-|**ppPaused**|**1**||
-|**ppPlaying**|**0**||
-|**ppStopped**|**2**||
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
