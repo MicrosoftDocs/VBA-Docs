@@ -121,6 +121,7 @@ ActiveWindow.Selection.ShapeRange(1).Fill.ForeColor.RGB = _
 - [LinkFormat](Excel.Shape.LinkFormat.md)
 - [LockAspectRatio](Excel.Shape.LockAspectRatio.md)
 - [Locked](Excel.Shape.Locked.md)
+- [Model3D](Excel.Shape.Model3D.md)
 - [Name](Excel.Shape.Name.md)
 - [Nodes](Excel.Shape.Nodes.md)
 - [OLEFormat](Excel.Shape.OLEFormat.md)

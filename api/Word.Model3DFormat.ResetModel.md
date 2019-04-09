@@ -1,0 +1,56 @@
+---
+title: Model3DFormat.ResetModel Method (Word)
+keywords: vbawd10.chm151584879
+f1_keywords:
+- vbawd10.chm151584879
+ms.prod: word
+api_name:
+- Word.Model3DFormat.ResetModel
+ms.date: 04/01/2019
+localization_priority: Normal
+---
+
+
+# Model3DFormat.ResetModel Method (Word)
+
+Changes the rotation of the specified shape around the x-axis by the specified number of degrees. 
+
+
+## Syntax
+
+ _expression_.**ResetModel** ( _ResetSize_ )
+
+ _expression_ A variable that represents an [Model3DFormat](./Word.Model3DFormat.md) object.
+
+
+## Parameters
+
+
+
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+| _ResetSize_|Required|**Boolean**|**True** to reset the 3D model frame to the same size as when a model is first inserted; **False** to leave the 3D model frame size alone.|
+
+## Remarks
+
+Use the  **[ResetModel](Word.Model3DFormat.RotationX.md)** method to restore 3D model properties back to default settings.  Any camera settings, shape properties, light properties, and animation properties are set to the same values that are applied when a 3D model is first inserted into a document.  The size of the 3D model frame can also be conditionally changed if the parameter _ResetFrameSize_ is set to **True**.
+
+
+## Example
+
+This example resets the properties of a 3D model on `myDocument` back to the settings the model had immediately after being first inserted into a document, and also resets the frame size to default dimensions.
+
+
+```vb
+Set myDocument = ActivePresentation.Slides(1)
+
+myDocument.Shapes(1).Model3D.ResetModel(**True**)
+```
+
+
+## See also
+
+
+[Model3DFormat Object](Word.Model3DFormat.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
