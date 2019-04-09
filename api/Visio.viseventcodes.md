@@ -28,7 +28,7 @@ Codes for Microsoft Visio events, event actions, and event IDs.
 | **visEvtBeforeModal**|32| **BeforeModal** event|
 | **visEvtBeforeQuit**|16| **BeforeQuit** event|
 | **visEvtCell**|2048| **Cell** object|
-| **visEvtCodeAfter CoauthMerge**|14| **AfterCoautjMerge** event code|
+| **visEvtCodeAfterCoauthMerge**|14| **AfterCoauthMerge** event code|
 | **visEvtCodeAfterForcedFlush**|201| **AfterForcedFlush** event code|
 | **visEvtCodeAfterResume**|209| **AfterResume** event code|
 | **visEvtCodeAfterResumeEvents**|213| **AfterResumeEvents** event code|
