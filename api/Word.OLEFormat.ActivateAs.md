@@ -21,7 +21,7 @@ Sets the Windows registry value that determines the default application used to 
 
 _expression_. `ActivateAs`( `_ClassType_` )
 
- _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
+_expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 
 
 ## Parameters

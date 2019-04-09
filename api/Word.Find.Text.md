@@ -19,7 +19,7 @@ Returns or sets the text to find. Read/write  **String**.
 
 ## Syntax
 
- _expression_.**Text**
+_expression_.**Text**
 
  _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 

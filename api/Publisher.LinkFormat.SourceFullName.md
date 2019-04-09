@@ -19,7 +19,7 @@ Returns a  **String** that represents the path and name of the source file for t
 
 ## Syntax
 
- _expression_.**SourceFullName**
+_expression_.**SourceFullName**
 
  _expression_ A variable that represents a  **LinkFormat** object.
 

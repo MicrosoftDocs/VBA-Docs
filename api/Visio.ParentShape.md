@@ -16,7 +16,7 @@ Gets the index number of the parent shape of the specified shape in the drawing 
 
 ## Syntax
 
- _expression_.**ParentShape**(**_ShapeIndex_**)
+_expression_.**ParentShape**(**_ShapeIndex_**)
 
  _expression_ An expression that returns a  **Viewer** object.
 

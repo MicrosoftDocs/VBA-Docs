@@ -19,7 +19,7 @@ Returns a  **PbInkName** constant that represents the name of the ink to be prin
 
 ## Syntax
 
- _expression_.**InkName**
+_expression_.**InkName**
 
  _expression_ A variable that represents a  **Plate** object.
 

@@ -19,7 +19,7 @@ Displays the Microsoft Outlook  **Group By** dialog box.
 
 ## Syntax
 
- _expression_.**GroupBy**
+_expression_.**GroupBy**
 
  _expression_ A variable that represents a **ViewCtl** object.
 

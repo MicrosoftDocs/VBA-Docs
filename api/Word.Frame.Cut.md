@@ -21,7 +21,7 @@ Removes the specified frame from the document and places it on the Clipboard.
 
 _expression_. `Cut`
 
- _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
+_expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
 
 
 ## See also

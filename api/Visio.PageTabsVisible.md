@@ -16,7 +16,7 @@ Gets or sets a value that indicates whether page tabs are visible in Microsoft V
 
 ## Syntax
 
- _expression_.**PageTabsVisible**
+_expression_.**PageTabsVisible**
 
  _expression_ An expression that returns a  **Viewer** object.
 

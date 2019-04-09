@@ -21,7 +21,7 @@ Returns the name of the user who made the specified tracked change. Read-only  *
 
 _expression_. `Author`
 
- _expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
+_expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
 
 
 ## Example

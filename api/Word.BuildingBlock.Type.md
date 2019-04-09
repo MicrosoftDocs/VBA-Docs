@@ -19,7 +19,7 @@ Returns a  **BuildingBlockType** object that represents the type for a building 
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ An expression that returns a '[BuildingBlock](Word.BuildingBlock.md)' object.
 

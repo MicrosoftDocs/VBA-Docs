@@ -19,9 +19,9 @@ Selects the specified object.
 
 ## Syntax
 
- _expression_.**Select**
+_expression_.**Select**
 
- _expression_ Required. A variable that represents a '[FormField](Word.FormField.md)' object.
+_expression_ Required. A variable that represents a '[FormField](Word.FormField.md)' object.
 
 
 ## Remarks

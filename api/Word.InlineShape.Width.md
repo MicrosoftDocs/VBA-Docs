@@ -19,7 +19,7 @@ Returns or sets the width, in points, of the specified inline shape. Read/write 
 
 ## Syntax
 
- _expression_.**Width**
+_expression_.**Width**
 
  _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 

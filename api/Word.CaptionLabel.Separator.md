@@ -21,7 +21,7 @@ Returns or sets the character between the chapter number and the sequence number
 
 _expression_. `Separator`
 
- _expression_ Required. A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
+_expression_ Required. A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 
 
 ## Example

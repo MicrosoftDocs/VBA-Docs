@@ -26,7 +26,7 @@ Returns or sets the type of major tick mark for the specified axis. Read/write X
 
 _expression_. `MajorTickMark`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

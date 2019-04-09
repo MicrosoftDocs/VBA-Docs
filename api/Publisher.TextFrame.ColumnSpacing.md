@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the amount of space between text 
 
 ## Syntax
 
- _expression_.**ColumnSpacing**
+_expression_.**ColumnSpacing**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

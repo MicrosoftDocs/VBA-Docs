@@ -21,7 +21,7 @@ Updates the entries shown in a table of contents.
 
 _expression_. `Update`
 
- _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' object.
+_expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' object.
 
 
 ## Remarks

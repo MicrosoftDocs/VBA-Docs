@@ -19,7 +19,7 @@ Sets or returns an  **MsoTriState** constant that indicates whether character pa
 
 ## Syntax
 
- _expression_.**KernedPairs**
+_expression_.**KernedPairs**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 

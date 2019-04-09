@@ -19,7 +19,7 @@ Returns a  **[GroupShapes](Publisher.GroupShapes.md)** collection if the specifi
 
 ## Syntax
 
- _expression_.**GroupItems**
+_expression_.**GroupItems**
 
  _expression_ A variable that represents a  **Shape** object.
 

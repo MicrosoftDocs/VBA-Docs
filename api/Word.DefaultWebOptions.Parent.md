@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Defa
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
 
 
 ## See also

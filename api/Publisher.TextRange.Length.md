@@ -19,7 +19,7 @@ Returns a  **Long** value indicating the length of the specified text range, in 
 
 ## Syntax
 
- _expression_.**Length**
+_expression_.**Length**
 
  _expression_ A variable that represents a  **TextRange** object.
 

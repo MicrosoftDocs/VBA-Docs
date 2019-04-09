@@ -14,11 +14,11 @@ localization_priority: Normal
 
 # HasAxis property (Excel Graph)
 
-Returns or sets which axes exist on the chart. Read/write Variant.
+Returns or sets which axes exist on the chart. Read/write **Variant**.
 
 _expression_. `HasAxis`( `_Index1_`,  `_Index2_`)
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Index1** Optional **xlAxisType**. The type of axis.
 

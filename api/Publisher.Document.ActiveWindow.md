@@ -19,7 +19,7 @@ Returns a  **[Window](Publisher.Window.md)** object that represents the window w
 
 ## Syntax
 
- _expression_.**ActiveWindow**
+_expression_.**ActiveWindow**
 
  _expression_ A variable that represents a  **Document** object.
 

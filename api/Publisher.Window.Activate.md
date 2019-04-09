@@ -19,7 +19,7 @@ Activates a window or OLE object.
 
 ## Syntax
 
- _expression_.**Activate**
+_expression_.**Activate**
 
  _expression_ A variable that represents a  **Window** object.
 

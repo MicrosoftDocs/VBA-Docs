@@ -14,7 +14,7 @@ Refreshes the view in the control, applying any property changes made since the 
 
 ## Syntax
 
- _expression_.**ForceUpdate**
+_expression_.**ForceUpdate**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

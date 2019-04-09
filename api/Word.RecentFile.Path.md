@@ -19,9 +19,9 @@ Returns the disk or Web path to the specified object. Read-only  **String**.
 
 ## Syntax
 
- _expression_.**Path**
+_expression_.**Path**
 
- _expression_ Required. A variable that represents a '[RecentFile](Word.RecentFile.md)' object.
+_expression_ Required. A variable that represents a '[RecentFile](Word.RecentFile.md)' object.
 
 
 ## Remarks

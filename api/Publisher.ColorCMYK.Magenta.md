@@ -19,7 +19,7 @@ Sets or returns a  **Long** that represents the magenta component of a CMYK colo
 
 ## Syntax
 
- _expression_.**Magenta**
+_expression_.**Magenta**
 
  _expression_ A variable that represents a  **ColorCMYK** object.
 

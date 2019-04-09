@@ -19,9 +19,9 @@ Returns the specified task pane as a  **TaskPane** object.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[TaskPanes](Word.TaskPanes.md)' collection.
+_expression_ Required. A variable that represents a '[TaskPanes](Word.TaskPanes.md)' collection.
 
 
 ## Parameters

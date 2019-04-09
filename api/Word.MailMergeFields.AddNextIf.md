@@ -21,7 +21,7 @@ Adds a NEXTIF field to a mail merge main document. Returns a  **MailMergeField**
 
 _expression_. `AddNextIf`( `_Range_` , `_MergeField_` , `_Comparison_` , `_CompareTo_` )
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Parameters

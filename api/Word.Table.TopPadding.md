@@ -19,9 +19,9 @@ Returns or sets the amount of space (in points) to add above the contents of all
 
 ## Syntax
 
- _expression_.**TopPadding**
+_expression_.**TopPadding**
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks

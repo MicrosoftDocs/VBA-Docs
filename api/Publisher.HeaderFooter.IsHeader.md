@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**IsHeader**
+_expression_.**IsHeader**
 
  _expression_ A variable that represents an  **HeaderFooter** object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**PrintRegistrationMarks**
+_expression_.**PrintRegistrationMarks**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 

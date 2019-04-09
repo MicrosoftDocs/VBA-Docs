@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the URL address for a hyperlink. R
 
 ## Syntax
 
- _expression_.**Address**
+_expression_.**Address**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

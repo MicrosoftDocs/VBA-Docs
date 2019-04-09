@@ -19,7 +19,7 @@ Specifies the starting point and label (textual description) of a group of actio
 
 ## Syntax
 
- _expression_.**BeginCustomUndoAction**(**_ActionName_**)
+_expression_.**BeginCustomUndoAction**(**_ActionName_**)
 
  _expression_ A variable that represents a  **Document** object.
 

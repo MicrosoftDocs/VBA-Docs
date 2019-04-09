@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the state of the **StylisticAlter
 
 ## Syntax
 
- _expression_.**StylisticAlternates**
+_expression_.**StylisticAlternates**
 
  _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 

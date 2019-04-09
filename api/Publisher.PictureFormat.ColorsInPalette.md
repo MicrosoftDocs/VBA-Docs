@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**ColorsInPalette**
+_expression_.**ColorsInPalette**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

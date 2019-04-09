@@ -14,20 +14,20 @@ localization_priority: Normal
 
 # Add method (Excel Graph)
 
-Creates a new trendline. Returns a **[Trendline](excel.trendline-graph-object.md)** object.
+Creates a new trendline. Returns a **Trendline** object.
 
 ## Syntax
 
 _expression_.**Add** (_Type_, _Order_, _Period_, _Forward_, _Backward_, _Intercept_, _DisplayEquation_, _DisplayRSquared_, _Name_)
 
-_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns a **[Trendline](excel.trendline-graph-object.md)** object.
 
 
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Type_ | Optional |**[XlTrendlineType](excel.xltrendlinetype.md)** |The type of trendline.|
+|_Type_ | Optional |**[XlTrendlineType](excel.xltrendlinetype.md)** |The type of trendline. Can be one of the **XlTrendlineType** constants. |
 |_Order_ |Optional |**Variant** |Required if _Type_ is **xlPolynomial**. The trendline order. Must be an integer from 2 through 6.|
 |_Period_ |Optional |**Variant** |Required if _Type_ is **xlMovingAvg**. The trendline period. Must be an integer greater than 1 and less than the number of data points in the series you are adding a trendline to.|
 |_Forward_ |Optional |**Variant**|The number of periods (or units on a scatter chart) that the trendline extends forward.|

@@ -16,7 +16,7 @@ Returns a single  **DocumentWindow** object from the specified **DocumentWindows
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
 

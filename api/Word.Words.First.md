@@ -21,7 +21,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the first word in a
 
 _expression_. `First`
 
- _expression_ Required. A variable that represents a '[Words](Word.words.md)' collection.
+_expression_ Required. A variable that represents a '[Words](Word.words.md)' collection.
 
 
 ## See also

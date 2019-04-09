@@ -19,9 +19,9 @@ Deletes a table cell or cells and optionally controls how the remaining cells ar
 
 ## Syntax
 
- _expression_.**Delete**( `_ShiftCells_` )
+_expression_.**Delete**( `_ShiftCells_` )
 
- _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
+_expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Sets or returns a  **PbWizardNavBarAlignment** constant that represents the hori
 
 ## Syntax
 
- _expression_.**HorizontalAlignment**
+_expression_.**HorizontalAlignment**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 

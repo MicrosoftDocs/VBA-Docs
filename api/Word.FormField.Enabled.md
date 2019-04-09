@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**Enabled**
+_expression_.**Enabled**
 
  _expression_ An expression that represents a '[FormField](Word.FormField.md)' object.
 

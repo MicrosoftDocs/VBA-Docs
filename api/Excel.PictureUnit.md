@@ -18,7 +18,7 @@ Returns or sets the unit for each picture on the chart if the PictureType proper
 
 _expression_. `PictureUnit`
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 
 ## Example

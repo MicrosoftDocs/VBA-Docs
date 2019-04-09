@@ -16,7 +16,7 @@ Gets the position and zoom factor (size) of the drawing page in Microsoft Visio 
 
 ## Syntax
 
- _expression_.**GetPageView**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
+_expression_.**GetPageView**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
 
  _expression_ An expression that returns a  **Viewer** object.
 

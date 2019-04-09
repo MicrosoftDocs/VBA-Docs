@@ -19,9 +19,9 @@ Returns a  **Table** object that represents a new, blank table added to a docume
 
 ## Syntax
 
- _expression_.**Add**( `_Range_` , `_NumRows_` , `_NumColumns_` , `_DefaultTableBehavior_` , `_AutoFitBehavior_` )
+_expression_.**Add**( `_Range_` , `_NumRows_` , `_NumColumns_` , `_DefaultTableBehavior_` , `_AutoFitBehavior_` )
 
- _expression_ Required. A variable that represents a '[Tables](Word.tables.md)' collection.
+_expression_ Required. A variable that represents a '[Tables](Word.tables.md)' collection.
 
 
 ## Parameters

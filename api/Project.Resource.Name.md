@@ -16,7 +16,7 @@ Gets the name of a  **Resource** object. Read/write **String**.
 
 ## Syntax
 
- _expression_.**Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

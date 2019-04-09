@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object
 
 ## Example
 
-In the following example, the code returns True if the worksheet is in the filter mode.
+In the following example, the code returns **True** if the worksheet is in the filter mode.
 
 
 ```vb

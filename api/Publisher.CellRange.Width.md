@@ -19,7 +19,7 @@ Returns a  **Long** that represent the width (in cells) of a table, range of cel
 
 ## Syntax
 
- _expression_.**Width**
+_expression_.**Width**
 
  _expression_ A variable that represents a  **CellRange** object.
 

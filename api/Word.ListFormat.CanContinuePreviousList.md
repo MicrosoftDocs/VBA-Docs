@@ -21,7 +21,7 @@ Returns a  **WdContinue** constant (**wdContinueDisabled**, **wdResetList**, or 
 
 _expression_. `CanContinuePreviousList`( `_ListTemplate_` )
 
- _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
+_expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Parameters

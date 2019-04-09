@@ -19,7 +19,7 @@ Gets or sets the string, if any, that appears as the fourth item under  **Prepar
 
 ## Syntax
 
- _expression_.**ShowFollowUpCustom**
+_expression_.**ShowFollowUpCustom**
 
  _expression_ A variable that represents an  **Application** object.
 

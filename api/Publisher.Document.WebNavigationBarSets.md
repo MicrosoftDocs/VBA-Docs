@@ -19,7 +19,7 @@ Returns a  **WebNavigationBarSets** object representing a collection of all **We
 
 ## Syntax
 
- _expression_.**WebNavigationBarSets**
+_expression_.**WebNavigationBarSets**
 
  _expression_ A variable that represents a  **Document** object.
 

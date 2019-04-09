@@ -19,7 +19,7 @@ Returns  **True** if object boundaries are visible in the specified publication.
 
 ## Syntax
 
- _expression_.**ViewBoundaries**
+_expression_.**ViewBoundaries**
 
  _expression_ A variable that represents a  **Document** object.
 

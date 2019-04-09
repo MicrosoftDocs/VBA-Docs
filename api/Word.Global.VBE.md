@@ -21,7 +21,7 @@ Returns a  **VBE** object that represents the Visual Basic Editor.
 
 _expression_. `VBE`
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example

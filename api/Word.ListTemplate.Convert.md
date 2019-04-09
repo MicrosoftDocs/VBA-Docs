@@ -21,7 +21,7 @@ Converts a multiple-level list to a single-level list, or vice versa.
 
 _expression_. `Convert`( `_Level_` )
 
- _expression_ Required. A variable that represents a '[ListTemplate](Word.ListTemplate.md)' object.
+_expression_ Required. A variable that represents a '[ListTemplate](Word.ListTemplate.md)' object.
 
 
 ## Parameters

@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of mapped data fields in the coll
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[MappedDataFields](Word.MappedDataFields.md)' collection.
+_expression_ Required. A variable that represents a '[MappedDataFields](Word.MappedDataFields.md)' collection.
 
 
 ## See also

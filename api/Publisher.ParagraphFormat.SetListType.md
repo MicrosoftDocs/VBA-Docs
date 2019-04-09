@@ -19,7 +19,7 @@ Sets the list type of the specified  **ParagraphFormat** object. .
 
 ## Syntax
 
- _expression_.**SetListType**(**_Value_**,  **_BulletText_**)
+_expression_.**SetListType**(**_Value_**,  **_BulletText_**)
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

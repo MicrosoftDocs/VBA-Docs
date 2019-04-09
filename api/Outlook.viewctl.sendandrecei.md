@@ -14,7 +14,7 @@ Sends all messages that are in the  **Outbox** folder and checks for new message
 
 ## Syntax
 
- _expression_.**SendAndReceive**
+_expression_.**SendAndReceive**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

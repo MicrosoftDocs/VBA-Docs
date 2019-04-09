@@ -21,7 +21,7 @@ Returns a  **Shape** object that represents the common parent shape of a child s
 
 _expression_. `ParentGroup`
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Example

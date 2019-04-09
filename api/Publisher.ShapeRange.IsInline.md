@@ -19,7 +19,7 @@ Returns an  **MsoTriState** constant that specifies whether a shape is inline. R
 
 ## Syntax
 
- _expression_.**IsInline**
+_expression_.**IsInline**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

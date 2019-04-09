@@ -19,7 +19,7 @@ Returns a  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object th
 
 ## Syntax
 
- _expression_.**DataSource**
+_expression_.**DataSource**
 
  _expression_ A variable that represents a  **MailMerge** object.
 

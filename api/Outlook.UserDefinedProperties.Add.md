@@ -19,7 +19,7 @@ Creates a new  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object 
 
 ## Syntax
 
- _expression_.**Add**( `_Name_` , `_Type_` , `_DisplayFormat_` , `_Formula_` )
+_expression_.**Add**( `_Name_` , `_Type_` , `_DisplayFormat_` , `_Formula_` )
 
 _expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 

@@ -12,11 +12,11 @@ localization_priority: Normal
 
 # Value property (Excel Graph)
 
-Returns the value of the specified cell. If the cell is empty, Value returns the value Empty (use the IsEmpty function to test for this case). If the Range object contains more than one cell, this property returns an array of values (use the IsArray function to test for this case). Read/write Variant.
+Returns the value of the specified cell. If the cell is empty, Value returns the value Empty (use the IsEmpty function to test for this case). If the Range object contains more than one cell, this property returns an array of values (use the IsArray function to test for this case). Read/write **Variant**.
 
 _expression_.**Value**( `_RangeValueDataType_`)
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **RangeValueDataType** Optional **Variant**.
 

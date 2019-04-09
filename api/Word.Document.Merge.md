@@ -21,7 +21,7 @@ Merges the changes marked with revision marks from one document to another.
 
 _expression_. `Merge`( `_Name_` , `_MergeTarget_` , `_DetectFormatChanges_` , `_UseFormattingFrom_` , `_AddToRecentFiles_` )
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

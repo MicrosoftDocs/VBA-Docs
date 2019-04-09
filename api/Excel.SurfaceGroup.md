@@ -18,7 +18,7 @@ Returns a ChartGroup object that represents the surface chart group of a 3-D cha
 
 _expression_. `SurfaceGroup`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

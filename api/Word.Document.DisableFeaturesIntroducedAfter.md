@@ -21,7 +21,7 @@ Disables all features introduced after a specified version of Microsoft Word in 
 
 _expression_. `DisableFeaturesIntroducedAfter`
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

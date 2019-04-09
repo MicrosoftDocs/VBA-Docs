@@ -19,7 +19,7 @@ Gets or sets whether the printed page is rotated 180 degrees. Read/write.
 
 ## Syntax
 
- _expression_.**PageRotated**
+_expression_.**PageRotated**
 
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 

@@ -19,7 +19,7 @@ Displays the  **Publication Types** catalog for the wizard of the specified type
 
 ## Syntax
 
- _expression_.**ShowWizardCatalog**(**_Wizard_**)
+_expression_.**ShowWizardCatalog**(**_Wizard_**)
 
  _expression_ A variable that represents an  **Application** object.
 

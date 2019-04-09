@@ -19,7 +19,7 @@ Returns a  **[WizardProperties](Publisher.WizardProperties.md)** collection repr
 
 ## Syntax
 
- _expression_.**Properties**
+_expression_.**Properties**
 
  _expression_ A variable that represents a  **Wizard** object.
 

@@ -21,7 +21,7 @@ Returns or sets the extrusion surface material. Read/write  **MsoPresetMaterial*
 
 _expression_. `PresetMaterial`
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Example

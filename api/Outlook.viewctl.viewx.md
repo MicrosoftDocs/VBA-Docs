@@ -14,7 +14,7 @@ Returns or sets a **String** value that represents the view implementation via X
 
 ## Syntax
 
- _expression_.**ViewXML**
+_expression_.**ViewXML**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

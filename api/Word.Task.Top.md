@@ -19,9 +19,9 @@ Returns or sets the vertical position, in points, of the specified window. Read/
 
 ## Syntax
 
- _expression_.**Top**
+_expression_.**Top**
 
- _expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
+_expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
 
 
 ## Example

@@ -19,9 +19,9 @@ Returns a  **Window** object that represents a new window of a document.
 
 ## Syntax
 
- _expression_.**Add**( `_Window_` )
+_expression_.**Add**( `_Window_` )
 
- _expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
+_expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
 
 
 ## Parameters

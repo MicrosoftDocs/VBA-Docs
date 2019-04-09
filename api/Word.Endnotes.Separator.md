@@ -21,7 +21,7 @@ Returns a  **Range** object that represents the endnote separator.
 
 _expression_. `Separator`
 
- _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
+_expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 
 
 ## See also

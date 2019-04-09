@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # ApplyDataLabels method (Excel Graph)
 
-## Chart object
+The **ApplyDataLabels** method as it applies to the **Chart**, **Point**, and **Series** objects.
 
-The **ApplyDataLabels** method as it applies to the **Chart** object.
+## Chart object
 
 Applies data labels to a point, a series, or all the series in a chart.
 
@@ -37,15 +37,13 @@ _expression_ Required. An expression that returns a **[Chart](Excel.Chart-graph-
 
 ## Point and Series objects
 
-The **ApplyDataLabels** method as it applies to the **Point** and **Series** objects.
-
 Applies data labels to a point, a series, or all the series in a chart.
 
 ### Syntax
 
 _expression_.**ApplyDataLabels** (_Type_, _LegendKey_, _AutoText_, _HasLeaderLines_, _ShowSeriesName_, _ShowCategoryName_, _ShowValue_, _ShowPercentage_, _ShowBubbleSize_, _Separator_)
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[Point](excel.point-graph-object.md)** or **[Series](excel.series-graph-object.md)** object.
 
 
 ### Parameters

@@ -19,7 +19,7 @@ A  **[PbBuildingBlockType enumeration (Publisher)](Publisher.pbbuildingblocktype
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

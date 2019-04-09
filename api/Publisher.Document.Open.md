@@ -19,7 +19,7 @@ Occurs when a publication is opening.
 
 ## Syntax
 
- _expression_.**Open**
+_expression_.**Open**
 
  _expression_ A variable that represents a  **Document** object.
 

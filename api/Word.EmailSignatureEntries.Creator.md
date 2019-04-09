@@ -19,9 +19,9 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
 ## Syntax
 
- _expression_.**Creator**
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[EmailSignatureEntries](Word.EmailSignatureEntries.md)' collection.
+_expression_ Required. A variable that represents an '[EmailSignatureEntries](Word.EmailSignatureEntries.md)' collection.
 
 
 ## Remarks

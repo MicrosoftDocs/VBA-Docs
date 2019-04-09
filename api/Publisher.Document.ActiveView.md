@@ -19,7 +19,7 @@ Returns a  **[View](Publisher.View.md)** object representing the view attributes
 
 ## Syntax
 
- _expression_.**ActiveView**
+_expression_.**ActiveView**
 
  _expression_ A variable that represents a  **Document** object.
 

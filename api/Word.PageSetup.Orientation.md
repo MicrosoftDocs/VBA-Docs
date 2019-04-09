@@ -19,9 +19,9 @@ Returns or sets the orientation of the page. Read/write  **[WdOrientation](Word.
 
 ## Syntax
 
- _expression_.**Orientation**
+_expression_.**Orientation**
 
- _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Remarks

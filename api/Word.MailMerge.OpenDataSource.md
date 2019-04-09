@@ -21,7 +21,7 @@ Attaches a data source to the specified document, which becomes a main document 
 
 _expression_. `OpenDataSource`( `_Name_` , `_Format_` , `_ConfirmConversions_` , `_ReadOnly_` , `_LinkToSource_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_Connection_` , `_SQLStatement_` , `_SQLStatement1_` , `_OpenExclusive_` , `_SubType_` )
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Opens the specified version of a document. Returns a  **Document** object repres
 
 _expression_. `Open`
 
- _expression_ Required. A variable that represents a '[Version](Word.Version.md)' object.
+_expression_ Required. A variable that represents a '[Version](Word.Version.md)' object.
 
 
 ## Return value

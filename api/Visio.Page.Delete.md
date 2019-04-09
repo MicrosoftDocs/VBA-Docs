@@ -19,7 +19,7 @@ Deletes a  **Page** object. Can also renumber remaining pages.
 
 ## Syntax
 
- _expression_.**Delete**( `_fRenumberPages_` )
+_expression_.**Delete**( `_fRenumberPages_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

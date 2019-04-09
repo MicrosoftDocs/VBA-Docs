@@ -19,7 +19,7 @@ Specifies the shadow type of a shape. Read/write.
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 

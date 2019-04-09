@@ -16,7 +16,7 @@ Gets the index in the collection of shapes of the selected shape in the drawing 
 
 ## Syntax
 
- _expression_.**SelectedShapeIndex**
+_expression_.**SelectedShapeIndex**
 
  _expression_ An expression that returns a  **Viewer** object.
 

@@ -21,7 +21,7 @@ Inserts a TA (Table of Authorities Entry) field after all instances of the  **Sh
 
 _expression_. `MarkAllCitations`( `_ShortCitation_` , `_LongCitation_` , `_LongCitationAutoText_` , `_Category_` )
 
- _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
+_expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
 
 
 ## Parameters

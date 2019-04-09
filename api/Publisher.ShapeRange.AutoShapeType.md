@@ -19,7 +19,7 @@ Returns or sets an  **MsoAutoShapeType**constant that specifies a  **ShapeRange*
 
 ## Syntax
 
- _expression_.**AutoShapeType**
+_expression_.**AutoShapeType**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

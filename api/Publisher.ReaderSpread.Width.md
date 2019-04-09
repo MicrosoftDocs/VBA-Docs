@@ -19,7 +19,7 @@ Returns a  **Single** that represents the width, in points, of the page. Read-on
 
 ## Syntax
 
- _expression_.**Width**
+_expression_.**Width**
 
  _expression_ A variable that represents a  **ReaderSpread** object.
 

@@ -14,7 +14,7 @@ Displays the Microsoft Outlook  **Advanced Find** dialog box.
 
 ## Syntax
 
- _expression_.**AdvancedFind**
+_expression_.**AdvancedFind**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

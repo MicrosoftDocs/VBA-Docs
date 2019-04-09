@@ -19,9 +19,9 @@ Returns the wrap type for the specified shape. Read/write  **[WdWrapType](Word.W
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
+_expression_ Required. A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.TimerInterval property (Access)
 
-You can use the **TimerInterval** property to specify the interval, in milliseconds, between **[Timer](Access.Form.Timer.md)** events on a form. Read/write Long.
+You can use the **TimerInterval** property to specify the interval, in milliseconds, between **[Timer](Access.Form.Timer.md)** events on a form. Read/write **Long**.
 
 
 ## Syntax

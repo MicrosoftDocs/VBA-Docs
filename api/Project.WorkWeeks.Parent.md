@@ -16,7 +16,7 @@ Gets the parent of the  **WorkWeeks** object. Read-only **Calendar**.
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
  _expression_ An expression that returns a 'WorkWeeks' object.
 

@@ -21,7 +21,7 @@ Returns or sets the line break control level for the specified document. Read/wr
 
 _expression_. `FarEastLineBreakLevel`
 
- _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Remarks

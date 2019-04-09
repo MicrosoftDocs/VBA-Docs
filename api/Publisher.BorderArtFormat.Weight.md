@@ -19,7 +19,7 @@ Returns or sets a  **Variant** indicating the thickness of the specified line or
 
 ## Syntax
 
- _expression_.**Weight**
+_expression_.**Weight**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 

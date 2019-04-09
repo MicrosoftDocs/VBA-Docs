@@ -21,7 +21,7 @@ Moves the specified shape vertically by the specified number of points.
 
 _expression_. `IncrementTop`( `_Increment_` )
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Parameters

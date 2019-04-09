@@ -19,7 +19,7 @@ Returns a single  **Hyperlink** object from the specified **Hyperlinks** collect
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [Hyperlinks](./PowerPoint.Hyperlinks.md) object.
 

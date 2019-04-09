@@ -14,7 +14,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**PresetGradient**(Style, Style, Variant, PresetGradientType)
+_expression_.**PresetGradient**(Style, Style, Variant, PresetGradientType)
 
  _expression_ A variable that represents a  **LineFormat** object.
 

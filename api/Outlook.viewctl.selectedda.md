@@ -14,7 +14,7 @@ Returns or sets a  **Date** value that represents the selected date. Read-only.
 
 ## Syntax
 
- _expression_.**SelectedDate**
+_expression_.**SelectedDate**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

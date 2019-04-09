@@ -19,9 +19,9 @@ Returns a  **KeyBinding** object that represents a new shortcut key for a macro,
 
 ## Syntax
 
- _expression_.**Add**( `_KeyCategory_` , `_Command_` , `_KeyCode_` , `_KeyCode2_` , `_CommandParameter_` )
+_expression_.**Add**( `_KeyCategory_` , `_Command_` , `_KeyCode_` , `_KeyCode2_` , `_CommandParameter_` )
 
- _expression_ Required. A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
+_expression_ Required. A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 
 
 ## Parameters

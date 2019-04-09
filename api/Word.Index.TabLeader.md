@@ -21,7 +21,7 @@ Returns or sets the leader character between entries in an index and their assoc
 
 _expression_. `TabLeader`
 
- _expression_ Required. A variable that represents an '[Index](Word.Index.md)' object.
+_expression_ Required. A variable that represents an '[Index](Word.Index.md)' object.
 
 
 ## Example

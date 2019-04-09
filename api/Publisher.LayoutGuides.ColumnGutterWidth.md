@@ -19,7 +19,7 @@ Returns or sets the width of the column gutters that are used by the  **LayoutGu
 
 ## Syntax
 
- _expression_.**ColumnGutterWidth**
+_expression_.**ColumnGutterWidth**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** indicating whether Microsoft Publisher refreshes 
 
 ## Syntax
 
- _expression_.**ScreenUpdating**
+_expression_.**ScreenUpdating**
 
  _expression_ A variable that represents a  **Application** object.
 

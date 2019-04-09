@@ -21,7 +21,7 @@ Returns a  **Tasks** collection that represents all the applications that are ru
 
 _expression_. `Tasks`
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

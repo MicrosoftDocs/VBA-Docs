@@ -19,7 +19,7 @@ Moves the active document window.
 
 ## Syntax
 
- _expression_.**Move**(**_Left_**,  **_Top_**)
+_expression_.**Move**(**_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Window** object.
 

@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Hori
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents a '[HorizontalLineFormat](Word.HorizontalLineFormat.md)' object.
+_expression_ Required. A variable that represents a '[HorizontalLineFormat](Word.HorizontalLineFormat.md)' object.
 
 
 ## See also

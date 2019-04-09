@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `TransparentBackground`
 
- _expression_ Required. A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
+_expression_ Required. A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
 
 ## Remarks

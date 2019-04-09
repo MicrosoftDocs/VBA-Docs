@@ -19,7 +19,7 @@ Displays the  **Recipients** dialog box for a mail merge publication.
 
 ## Syntax
 
- _expression_.**OpenRecipientsDialog**
+_expression_.**OpenRecipientsDialog**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 

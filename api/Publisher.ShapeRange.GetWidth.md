@@ -19,7 +19,7 @@ Returns the width of the shape or shape range as a  **Single** in the specified 
 
 ## Syntax
 
- _expression_.**GetWidth**(**_Unit_**)
+_expression_.**GetWidth**(**_Unit_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

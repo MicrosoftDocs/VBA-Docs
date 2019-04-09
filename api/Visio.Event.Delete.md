@@ -19,7 +19,7 @@ Deletes an object.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 

@@ -19,7 +19,7 @@ Returns a  **String** that represents the programmatic identifier (ProgID) for t
 
 ## Syntax
 
- _expression_.**ProgId**
+_expression_.**ProgId**
 
  _expression_ A variable that represents an  **OLEFormat** object.
 

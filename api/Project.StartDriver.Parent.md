@@ -16,7 +16,7 @@ Gets the parent of the  **StartDriver** object. Read-only **Task**.
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a [StartDriver](./Project.StartDriver.md) object.
 

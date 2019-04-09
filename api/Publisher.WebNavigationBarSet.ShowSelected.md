@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**ShowSelected**
+_expression_.**ShowSelected**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 

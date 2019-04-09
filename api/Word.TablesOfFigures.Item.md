@@ -19,9 +19,9 @@ Returns an individual  **TableOfFigures** object in a collection.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
+_expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
 
 
 ## Parameters

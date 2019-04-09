@@ -16,7 +16,7 @@ A  **[PbBuildingBlockGallery](Publisher.pbbuildingblockgallery.md)** constant th
 
 ## Syntax
 
- _expression_.**Gallery**
+_expression_.**Gallery**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

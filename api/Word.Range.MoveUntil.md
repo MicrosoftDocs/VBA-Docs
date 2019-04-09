@@ -21,7 +21,7 @@ Moves the specified range until one of the specified characters is found in the 
 
 _expression_. `MoveUntil`( `_Cset_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters

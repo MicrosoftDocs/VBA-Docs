@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the text displayed for a hyperlink
 
 ## Syntax
 
- _expression_.**TextToDisplay**
+_expression_.**TextToDisplay**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

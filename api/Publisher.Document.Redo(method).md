@@ -19,7 +19,7 @@ Redoes the last action or a specified number of actions. Corresponds to the list
 
 ## Syntax
 
- _expression_.**Redo**(**_Count_**)
+_expression_.**Redo**(**_Count_**)
 
  _expression_ A variable that represents a  **Document** object.
 

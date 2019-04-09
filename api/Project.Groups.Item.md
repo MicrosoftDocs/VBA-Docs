@@ -16,7 +16,7 @@ Gets a single  **Group** object from the **Groups** collection. Read-only **Grou
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'Groups' object.
 

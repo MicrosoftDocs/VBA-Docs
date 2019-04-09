@@ -19,7 +19,7 @@ Returns or sets an  **MsoLineDashStyle** constant indicating the dash style for 
 
 ## Syntax
 
- _expression_.**DashStyle**
+_expression_.**DashStyle**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

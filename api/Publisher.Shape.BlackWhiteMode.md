@@ -19,7 +19,7 @@ Returns or sets an  **MsoBlackWhiteMode**constant indicating how the specified s
 
 ## Syntax
 
- _expression_.**BlackWhiteMode**
+_expression_.**BlackWhiteMode**
 
  _expression_ A variable that represents a  **Shape** object.
 

@@ -19,7 +19,7 @@ Adds a new  **Addon** object to an **Addons** collection.
 
 ## Syntax
 
- _expression_.**Add**( `_FileName_` )
+_expression_.**Add**( `_FileName_` )
 
  _expression_ A variable that represents an [Addons](./Visio.Addons.md) object.
 

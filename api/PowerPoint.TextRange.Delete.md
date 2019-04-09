@@ -19,7 +19,7 @@ Deletes the specified  **TextRange** object.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 

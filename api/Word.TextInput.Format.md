@@ -21,7 +21,7 @@ Returns the text formatting for the specified text box. Read-only  **String**.
 
 _expression_. `Format`
 
- _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
+_expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
 
 
 ## Example

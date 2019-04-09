@@ -21,7 +21,7 @@ Merges the specified table cell with another table cell. The result is a single 
 
 _expression_. `Merge`( `_MergeTo_` )
 
- _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Parameters

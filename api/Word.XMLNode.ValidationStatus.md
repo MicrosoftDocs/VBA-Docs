@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `ValidationStatus`
 
- _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
+_expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Remarks

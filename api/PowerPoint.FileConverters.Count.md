@@ -16,9 +16,9 @@ Returns a  **Long** that represents the number of file converters in the collect
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[FileConverters](PowerPoint.FileConverters.md)' object.
+_expression_ Required. A variable that represents a '[FileConverters](PowerPoint.FileConverters.md)' object.
 
 
 ## See also

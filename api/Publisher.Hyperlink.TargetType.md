@@ -19,7 +19,7 @@ Returns a  **PbHlinkTargetType** constant that represents the type of hyperlink.
 
 ## Syntax
 
- _expression_.**TargetType**
+_expression_.**TargetType**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

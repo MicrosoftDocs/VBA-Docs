@@ -19,7 +19,7 @@ Returns a  **FindReplace** object from the specified **TextRange** object. The *
 
 ## Syntax
 
- _expression_.**Find**
+_expression_.**Find**
 
  _expression_ A variable that represents a  **TextRange** object.
 

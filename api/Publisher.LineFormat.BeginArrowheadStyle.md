@@ -19,7 +19,7 @@ Returns or sets an  **MsoArrowheadStyle**constant indicating the style of the ar
 
 ## Syntax
 
- _expression_.**BeginArrowheadStyle**
+_expression_.**BeginArrowheadStyle**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

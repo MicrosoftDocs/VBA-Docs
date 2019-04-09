@@ -12,7 +12,7 @@ Gets an object that represents the parent of the  **Shapes** object. Read-only *
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a 'Shapes' object.
 

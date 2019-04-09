@@ -19,7 +19,7 @@ Returns or sets a  **PbWindowState** constant indicating the state of the Micros
 
 ## Syntax
 
- _expression_.**WindowState**
+_expression_.**WindowState**
 
  _expression_ A variable that represents a  **Window** object.
 

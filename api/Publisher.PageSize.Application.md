@@ -19,7 +19,7 @@ Returns an  **Application** object that represents the creator of the parent **P
 
 ## Syntax
 
- _expression_.**Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **PageSize** object.
 

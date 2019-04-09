@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Font2.DoubleStrikeThrough property (Office)
 
-True if the specified font is formatted as double strikethrough text. Read/write.
+**True** if the specified font is formatted as double strikethrough text. Read/write.
 
 
 ## Syntax

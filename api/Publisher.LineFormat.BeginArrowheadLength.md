@@ -19,7 +19,7 @@ Returns or sets an  **MsoArrowheadLength**constant indicating the length of the 
 
 ## Syntax
 
- _expression_.**BeginArrowheadLength**
+_expression_.**BeginArrowheadLength**
 
  _expression_ A variable that represents a  **LineFormat** object.
 

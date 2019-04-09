@@ -21,7 +21,7 @@ Opens or switches to the mail merge data source.
 
 _expression_. `EditDataSource`
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Remarks

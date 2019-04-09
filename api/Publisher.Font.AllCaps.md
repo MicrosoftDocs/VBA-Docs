@@ -19,7 +19,7 @@ Returns or sets  **msoTrue** if the font is formatted as all capital letters, or
 
 ## Syntax
 
- _expression_.**AllCaps**
+_expression_.**AllCaps**
 
  _expression_ A variable that represents a  **Font** object.
 

@@ -16,7 +16,7 @@ Adds a  **Project** object to a **Projects** collection.
 
 ## Syntax
 
- _expression_.**Add**( `_DisplayProjectInfo_`, `_Template_`, `_FileNewDialog_` )
+_expression_.**Add**( `_DisplayProjectInfo_`, `_Template_`, `_FileNewDialog_` )
 
  _expression_ A variable that represents a 'Projects' object.
 

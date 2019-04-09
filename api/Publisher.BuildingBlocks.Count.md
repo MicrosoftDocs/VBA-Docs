@@ -16,7 +16,7 @@ Returns a  **Long** that represents the number of items in the specified collect
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **BuildingBlocks** object.
 

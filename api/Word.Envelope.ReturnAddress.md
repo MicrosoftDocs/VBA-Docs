@@ -21,7 +21,7 @@ Returns a  **Range** object that represents the envelope return address.
 
 _expression_. `ReturnAddress`
 
- _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
+_expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks

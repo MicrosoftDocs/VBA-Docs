@@ -19,7 +19,7 @@ Returns or sets a  **Long** indicating a calculated luminance value for the spec
 
 ## Syntax
 
- _expression_.**Luminance**
+_expression_.**Luminance**
 
  _expression_ A variable that represents a  **Plate** object.
 

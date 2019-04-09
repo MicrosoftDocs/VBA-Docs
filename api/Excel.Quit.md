@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Quit
 ms.assetid: 8195f39e-d12e-3189-f324-1d8e0b5e3463
-ms.date: 06/08/2017
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
@@ -16,15 +16,16 @@ localization_priority: Normal
 
 Quits Graph.
 
-_expression_. `Quit`
+## Syntax
 
- _expression_ Required. An expression that returns an [Application](Excel.Application-graph-property.md) object.
+_expression_.**Quit**
+
+_expression_ Required. An expression that returns an **[Application](excel.application-graph-object.md)** object.
 
 
 ## Example
 
 This example quits Graph.
-
 
 ```vb
 myChart.Application.Quit

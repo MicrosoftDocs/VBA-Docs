@@ -21,7 +21,7 @@ Opens a new email message with an empty  **To** line for forwarding the active m
 
 _expression_. `Forward`
 
- _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
+_expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 
 
 ## Remarks

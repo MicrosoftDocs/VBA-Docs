@@ -19,7 +19,7 @@ Returns  **True** if the specified publication should be viewed as a two-page sp
 
 ## Syntax
 
- _expression_.**ViewTwoPageSpread**
+_expression_.**ViewTwoPageSpread**
 
  _expression_ A variable that represents a  **Document** object.
 

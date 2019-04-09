@@ -19,7 +19,7 @@ Returns a  **PbLinkedFileStatus** constant that indicates the status of the file
 
 ## Syntax
 
- _expression_.**LinkedFileStatus**
+_expression_.**LinkedFileStatus**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

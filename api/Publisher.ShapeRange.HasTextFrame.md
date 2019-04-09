@@ -19,7 +19,7 @@ Indicates whether the specified shape has a  **TextFrame** object associated wit
 
 ## Syntax
 
- _expression_.**HasTextFrame**
+_expression_.**HasTextFrame**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

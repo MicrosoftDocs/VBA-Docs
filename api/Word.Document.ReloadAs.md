@@ -21,7 +21,7 @@ Reloads a document based on an HTML document, using the specified document encod
 
 _expression_. `ReloadAs`( `_Encoding_` )
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Returns or sets an  **MsoArrowheadWidth** constant indicating the width of the a
 
 ## Syntax
 
- _expression_.**EndArrowheadWidth**
+_expression_.**EndArrowheadWidth**
 
  _expression_ A variable that represents an  **LineFormat** object.
 

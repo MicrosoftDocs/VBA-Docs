@@ -19,7 +19,7 @@ Specifies the color of the current color scheme. Read/write.
 
 ## Syntax
 
- _expression_.**SchemeColor**
+_expression_.**SchemeColor**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 

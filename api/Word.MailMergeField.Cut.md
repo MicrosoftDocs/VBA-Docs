@@ -21,7 +21,7 @@ Removes the specified mail merge field from the document and moves it to the Cli
 
 _expression_. `Cut`
 
- _expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
+_expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 
 
 ## Example

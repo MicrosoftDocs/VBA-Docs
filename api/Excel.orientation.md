@@ -25,7 +25,7 @@ Returns or sets the text orientation. Can be an integer value from -90 degrees t
 
 _expression_.**Orientation**
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 ## Example
 

@@ -21,7 +21,7 @@ Returns a  **Script** object, which represents a block of script or code associa
 
 _expression_. `Script`
 
- _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
+_expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## Remarks

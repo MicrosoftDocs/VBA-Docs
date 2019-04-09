@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**Visible**
+_expression_.**Visible**
 
- _expression_ Required. A variable that represents a '[TaskPane](Word.TaskPane.md)' object.
+_expression_ Required. A variable that represents a '[TaskPane](Word.TaskPane.md)' object.
 
 
 ## Remarks

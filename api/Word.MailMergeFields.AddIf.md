@@ -21,7 +21,7 @@ Adds an IF field to a mail merge main document. Returns a  **MailMergeField** ob
 
 _expression_. `AddIf`( `_Range_` , `_MergeField_` , `_Comparison_` , `_CompareTo_` , `_TrueAutoText_` , `_TrueText_` , `_FalseAutoText_` , `_FalseText_` )
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Parameters

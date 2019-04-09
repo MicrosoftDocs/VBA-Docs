@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of story ranges in the collection
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[StoryRanges](Word.storyranges.md)' collection.
+_expression_ Required. A variable that represents a '[StoryRanges](Word.storyranges.md)' collection.
 
 
 ## See also

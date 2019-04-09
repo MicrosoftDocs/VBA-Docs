@@ -19,7 +19,7 @@ Returns a single  **ProtectedViewWindow** object from the specified **ProtectedV
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [ProtectedViewWindows](./PowerPoint.ProtectedViewWindows.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState**constant indicating whether the place where t
 
 ## Syntax
 
- _expression_.**AutoAttach**
+_expression_.**AutoAttach**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 

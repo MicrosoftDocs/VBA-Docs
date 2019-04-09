@@ -19,9 +19,9 @@ Returns a  **Range** object that represents the portion of a document that is co
 
 ## Syntax
 
- _expression_.**Range**
+_expression_.**Range**
 
- _expression_ Required. A variable that represents a '[FormField](Word.FormField.md)' object.
+_expression_ Required. A variable that represents a '[FormField](Word.FormField.md)' object.
 
 
 ## See also

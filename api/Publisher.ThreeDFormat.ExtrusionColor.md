@@ -19,7 +19,7 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the c
 
 ## Syntax
 
- _expression_.**ExtrusionColor**
+_expression_.**ExtrusionColor**
 
  _expression_ A variable that represents an  **ThreeDFormat** object.
 

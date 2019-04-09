@@ -21,7 +21,7 @@ Returns or sets the character spacing adjustment for the specified document. Rea
 
 _expression_. `JustificationMode`
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example

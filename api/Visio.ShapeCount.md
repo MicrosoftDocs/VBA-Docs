@@ -16,7 +16,7 @@ Gets the count of shapes in the drawing that is open in Microsoft Visio Viewer. 
 
 ## Syntax
 
- _expression_.**ShapeCount**
+_expression_.**ShapeCount**
 
  _expression_ An expression that returns a  **Viewer** object.
 

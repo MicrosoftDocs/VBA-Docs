@@ -21,7 +21,7 @@ Displays the specified built-in Word dialog box until either the user closes it 
 
 _expression_. `Display`( `_TimeOut_` )
 
- _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
+_expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 
 
 ## Parameters

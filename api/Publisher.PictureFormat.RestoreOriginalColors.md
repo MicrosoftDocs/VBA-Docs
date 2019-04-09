@@ -19,7 +19,7 @@ Restores the original colors of a picture that was recolored.
 
 ## Syntax
 
- _expression_.**RestoreOriginalColors**
+_expression_.**RestoreOriginalColors**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

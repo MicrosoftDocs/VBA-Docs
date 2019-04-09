@@ -19,9 +19,9 @@ Deletes the specified table rows.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
 ## See also

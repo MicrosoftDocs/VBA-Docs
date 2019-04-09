@@ -19,9 +19,9 @@ Deletes the specified  **Frameset** object.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## See also

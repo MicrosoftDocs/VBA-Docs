@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.LineGroups
 ms.assetid: 3a8083b5-8b71-e28b-c775-6be50544d6b2
-ms.date: 06/08/2017
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
@@ -20,11 +20,13 @@ On a 2-D chart, returns an object that represents either a single line chart gro
 
 _expression_.**LineGroups** (_Index_)
 
-_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **[ChartGroups](excel.chartgroups(collection).md)** collection.
 
 ## Parameters
 
-**Index** Optional **Variant**. Specifies the chart group.
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+|_Index_ | Optional |**Variant**| Specifies the chart group.|
 
 ## Example
 
@@ -34,8 +36,7 @@ This example sets line group one to use a different color for each data marker. 
 myChart.LineGroups(1).VaryByCategories = True
 ```
 
-## See also
 
-- [ChartGroups collection](Excel.ChartGroups(object).md) 
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

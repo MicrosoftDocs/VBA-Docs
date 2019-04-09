@@ -19,9 +19,9 @@ Deletes the specified  **Editor** object.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' object.
+_expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' object.
 
 
 ## See also

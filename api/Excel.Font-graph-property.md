@@ -18,7 +18,7 @@ Returns a Font object that represents the font of the specified object. Read/wri
 
 _expression_.**Font**
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
 
 ## Example

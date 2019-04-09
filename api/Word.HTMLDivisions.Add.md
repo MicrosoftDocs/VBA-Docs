@@ -19,9 +19,9 @@ Returns an  **HTMLDivision** object that represents a new HTML division added to
 
 ## Syntax
 
- _expression_.**Add**( `_Range_` )
+_expression_.**Add**( `_Range_` )
 
- _expression_ Required. A variable that represents an '[HTMLDivisions](Word.HTMLDivisions.md)' collection.
+_expression_ Required. A variable that represents an '[HTMLDivisions](Word.HTMLDivisions.md)' collection.
 
 
 ## Parameters

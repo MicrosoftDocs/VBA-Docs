@@ -19,9 +19,9 @@ Selects the specified table.
 
 ## Syntax
 
- _expression_.**Select**
+_expression_.**Select**
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks

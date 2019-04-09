@@ -16,7 +16,7 @@ Gets the number of pages in the current document that is open in Microsoft Visio
 
 ## Syntax
 
- _expression_.**PageCount**
+_expression_.**PageCount**
 
  _expression_ An expression that returns a  **Viewer** object.
 

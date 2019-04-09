@@ -19,7 +19,7 @@ Returns a  **Long** indicating the unique identifier for a page in a publication
 
 ## Syntax
 
- _expression_.**PageID**
+_expression_.**PageID**
 
  _expression_ A variable that represents a  **Page** object.
 

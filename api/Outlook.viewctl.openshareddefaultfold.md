@@ -19,7 +19,7 @@ Displays a specified user's default folder in the control.
 
 ## Syntax
 
- _expression_.  **OpenSharedDefaultFolder** **_(bstrRecipient, FolderType)_**
+_expression_.  **OpenSharedDefaultFolder** **_(bstrRecipient, FolderType)_**
 
  _expression_ A variable that represents a **ViewCtl** object.
 

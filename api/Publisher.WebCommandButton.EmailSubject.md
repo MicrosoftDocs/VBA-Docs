@@ -19,7 +19,7 @@ Sets or returns a  **String** that represents the subject for email messages gen
 
 ## Syntax
 
- _expression_.**EmailSubject**
+_expression_.**EmailSubject**
 
  _expression_ A variable that represents a  **WebCommandButton** object.
 

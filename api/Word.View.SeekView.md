@@ -21,7 +21,7 @@ Returns or sets the document element displayed in print layout view. Read/write 
 
 _expression_. `SeekView`
 
- _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
+_expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Remarks

@@ -19,9 +19,9 @@ Specifies the name of a template, including the drive or Web path. Read-only  **
 
 ## Syntax
 
- _expression_.**FullName**
+_expression_.**FullName**
 
- _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Remarks

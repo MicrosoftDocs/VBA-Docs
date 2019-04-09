@@ -19,7 +19,7 @@ Returns a  **Category** object that represents the specified item in the collect
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a '[Categories](Word.Categories.md)' object.
 

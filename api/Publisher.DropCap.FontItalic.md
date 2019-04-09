@@ -19,7 +19,7 @@ Sets or returns an  **MsoTriState**constant that represents whether the font for
 
 ## Syntax
 
- _expression_.**FontItalic**
+_expression_.**FontItalic**
 
  _expression_ A variable that represents a  **DropCap** object.
 

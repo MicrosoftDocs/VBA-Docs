@@ -21,7 +21,7 @@ Returns or sets the default 24-bit color to use for new  **[Border](Word.Border.
 
 _expression_. `DefaultBorderColor`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Remarks

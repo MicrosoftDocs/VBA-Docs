@@ -22,7 +22,7 @@ Returns or sets the vertical alignment of the specified object. Required  **xlVA
 
 _expression_. `VerticalAlignment`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 

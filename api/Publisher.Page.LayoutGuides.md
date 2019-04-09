@@ -19,7 +19,7 @@ Returns a  **[LayoutGuides](Publisher.LayoutGuides.md)** object consisting of th
 
 ## Syntax
 
- _expression_.**LayoutGuides**
+_expression_.**LayoutGuides**
 
  _expression_ A variable that represents a  **Page** object.
 

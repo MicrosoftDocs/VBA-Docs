@@ -21,7 +21,7 @@ Inserts a TA (Table of Authorities Entry) field and returns the field as a  **Fi
 
 _expression_. `MarkCitation`( `_Range_` , `_ShortCitation_` , `_LongCitation_` , `_LongCitationAutoText_` , `_Category_` )
 
- _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
+_expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
 
 
 ## Parameters

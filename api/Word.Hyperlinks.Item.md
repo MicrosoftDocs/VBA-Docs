@@ -19,9 +19,9 @@ Returns an individual  **Hyperlink** object in a collection.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[Hyperlinks](Word.hyperlinks.md)' collection.
+_expression_ Required. A variable that represents a '[Hyperlinks](Word.hyperlinks.md)' collection.
 
 
 ## Parameters

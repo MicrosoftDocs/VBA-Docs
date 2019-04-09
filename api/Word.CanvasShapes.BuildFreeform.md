@@ -21,7 +21,7 @@ Builds a freeform object. Returns a  **[FreeformBuilder](Word.FreeformBuilder.md
 
 _expression_. `BuildFreeform`( `_EditingType_` , `_X1_` , `_Y1_` )
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' object.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' object.
 
 
 ## Parameters

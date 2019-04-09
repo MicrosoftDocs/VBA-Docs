@@ -19,7 +19,7 @@ Returns a  **[Selection](Publisher.Selection.md)** object that represents a sele
 
 ## Syntax
 
- _expression_.**Selection**
+_expression_.**Selection**
 
  _expression_ A variable that represents a  **Document** object.
 

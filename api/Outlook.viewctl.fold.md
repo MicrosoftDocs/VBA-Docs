@@ -14,7 +14,7 @@ Returns or sets a  **String** that represents the path of the folder displayed b
 
 ## Syntax
 
- _expression_.**Folder**
+_expression_.**Folder**
 
 _expression_ A variable that represents a  **ViewCtl** object.
 

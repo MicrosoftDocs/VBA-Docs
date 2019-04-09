@@ -16,7 +16,7 @@ Gets or sets a value that indicates whether warnings and alerts appear when an e
 
 ## Syntax
 
- _expression_.**AlertsEnabled**
+_expression_.**AlertsEnabled**
 
  _expression_ An expression that returns a  **Viewer** object.
 

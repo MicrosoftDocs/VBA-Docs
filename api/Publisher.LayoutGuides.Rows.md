@@ -19,7 +19,7 @@ Sets or returns a  **Long** that represents the number of rows in a layout guide
 
 ## Syntax
 
- _expression_.**Rows**
+_expression_.**Rows**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

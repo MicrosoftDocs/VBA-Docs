@@ -16,7 +16,7 @@ Adds a  **TimeScaleValue** object to a **TimeScaleValues** collection.
 
 ## Syntax
 
- _expression_.**Add**( `_Value_`, `_Position_` )
+_expression_.**Add**( `_Value_`, `_Position_` )
 
  _expression_ A variable that represents a 'TimeScaleValues' object.
 

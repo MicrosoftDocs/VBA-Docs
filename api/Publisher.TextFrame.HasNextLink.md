@@ -19,7 +19,7 @@ Indicates whether the specified text frame has a valid forward text-box link. Re
 
 ## Syntax
 
- _expression_.**HasNextLink**
+_expression_.**HasNextLink**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

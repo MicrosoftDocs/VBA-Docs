@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of HTML DIV elements in the colle
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents an '[HTMLDivisions](Word.HTMLDivisions.md)' collection.
+_expression_ Required. A variable that represents an '[HTMLDivisions](Word.HTMLDivisions.md)' collection.
 
 
 ## See also

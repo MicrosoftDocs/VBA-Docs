@@ -21,7 +21,7 @@ Returns or sets a value that indicates whether the document text should wrap on 
 
 _expression_. `Side`
 
- _expression_ Required. A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
+_expression_ Required. A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
 
 ## Remarks

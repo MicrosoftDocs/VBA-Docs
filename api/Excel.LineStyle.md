@@ -27,7 +27,7 @@ Returns or sets the line style for the border. Read/write
 
 _expression_. `LineStyle`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

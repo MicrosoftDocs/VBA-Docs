@@ -19,7 +19,7 @@ Returns a  **Single** indicating the height, in points, of the bounding box for 
 
 ## Syntax
 
- _expression_.**BoundHeight**
+_expression_.**BoundHeight**
 
  _expression_ A variable that represents a  **TextRange** object.
 

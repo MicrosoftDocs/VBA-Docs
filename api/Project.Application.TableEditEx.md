@@ -49,7 +49,7 @@ _expression_. `TableEditEx`( `_Name_`, `_TaskTable_`, `_Create_`, `_OverwriteExi
 | _HeaderAutoRowHeightAdjustment_|Optional|**Boolean**|**True** if Project automatically adjusts the row height of the table; otherwise, **False**. The default value is **True**.|
 | _HeaderTextWrap_|Optional|**Boolean**|**True** if Project wraps text in the header of the table; otherwise, **False**. The default value is **True**.|
 | _WrapText_|Optional|**Boolean**|**True** if the table wraps text in the rows; otherwise, **False**.|
-| _ShowAddNewColumn_|Optional|**Boolean**|True if the table shows the  **Add New Column** feature in the far-right column; otherwise, **False**.|
+| _ShowAddNewColumn_|Optional|**Boolean**|**True** if the table shows the  **Add New Column** feature in the far-right column; otherwise, **False**.|
 
 ## Return value
 

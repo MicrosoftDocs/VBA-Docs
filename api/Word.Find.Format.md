@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Format`
 
- _expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
+_expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
 
 
 ## Example

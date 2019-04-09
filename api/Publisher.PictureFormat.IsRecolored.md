@@ -19,7 +19,7 @@ Returns  **True** if the image represented by the parent **PictureFormat** objec
 
 ## Syntax
 
- _expression_.**IsRecolored**
+_expression_.**IsRecolored**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

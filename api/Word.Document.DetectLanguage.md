@@ -21,7 +21,7 @@ Analyzes the specified text to determine the language that it is written in.
 
 _expression_. `DetectLanguage`
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

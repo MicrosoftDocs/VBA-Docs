@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DeleteChartAutoFormat
 ms.assetid: 22f9c561-b0a1-2c75-391e-25bb54ad67a5
-ms.date: 06/08/2017
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
@@ -16,21 +16,28 @@ localization_priority: Normal
 
 Removes a custom chart autoformat from the list of available chart autoformats.
 
-_expression_. `DeleteChartAutoFormat( _Name_)`
+## Syntax
 
- _expression_ Required. An expression that returns an [Application](Excel.Application-graph-property.md) object.
+_expression_.**DeleteChartAutoFormat** (_Name_)
 
- **Name** Required **String**. The name of the custom autoformat to be removed.
+_expression_ Required. An expression that returns an **[Application](excel.application-graph-object.md)** object.
+
+## Parameters
+
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+|_Name_ |Required |**String**|The name of the custom autoformat to be removed.|
 
 ## Example
 
-This example deletes the custom autoformat named "Presentation Chart."
-
+This example deletes the custom autoformat named Presentation Chart.
 
 ```vb
 myChart.Application.DeleteChartAutoFormat _ 
  name:="Presentation Chart" 
 
 ```
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

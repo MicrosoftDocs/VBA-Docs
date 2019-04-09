@@ -17,7 +17,7 @@ Returns or sets an  **MsoPresetCamera** constant that represents the bevel type 
 
 ## Syntax
 
- _expression_.**BevelTopType**
+_expression_.**BevelTopType**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

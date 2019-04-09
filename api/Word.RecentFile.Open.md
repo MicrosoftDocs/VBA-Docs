@@ -21,7 +21,7 @@ Opens the specified object. Returns a  **Document** object representing the open
 
 _expression_. `Open`
 
- _expression_ Required. A variable that represents a '[RecentFile](Word.RecentFile.md)' object.
+_expression_ Required. A variable that represents a '[RecentFile](Word.RecentFile.md)' object.
 
 
 ## Return value

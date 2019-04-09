@@ -19,9 +19,9 @@ Returns or sets a  **Long** that represents the horizontal position of the speci
 
 ## Syntax
 
- _expression_.**Left**
+_expression_.**Left**
 
- _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Example

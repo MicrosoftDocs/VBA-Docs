@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the height (in points) of a speci
 
 ## Syntax
 
- _expression_.**Height**
+_expression_.**Height**
 
  _expression_ A variable that represents a  **Row** object.
 

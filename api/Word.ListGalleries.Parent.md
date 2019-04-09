@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the specified **List
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
  _expression_ An expression that returns a 'ListGalleries' object.
 

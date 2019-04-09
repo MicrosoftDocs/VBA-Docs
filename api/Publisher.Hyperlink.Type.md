@@ -19,7 +19,7 @@ Returns an  **MsoHyperlinkType** constant that represents the hyperlink type. Re
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

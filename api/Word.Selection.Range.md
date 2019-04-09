@@ -19,9 +19,9 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 
 ## Syntax
 
- _expression_.**Range**
+_expression_.**Range**
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## See also

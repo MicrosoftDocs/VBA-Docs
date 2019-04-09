@@ -19,7 +19,7 @@ Occurs when reversing the last action that was undone.
 
 ## Syntax
 
- _expression_.**Redo**
+_expression_.**Redo**
 
  _expression_ A variable that represents a  **Document** object.
 

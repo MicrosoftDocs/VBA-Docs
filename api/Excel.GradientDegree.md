@@ -20,7 +20,7 @@ This property is read-only. Use the OneColorGradient method to set the gradient 
 
 _expression_. `GradientDegree`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

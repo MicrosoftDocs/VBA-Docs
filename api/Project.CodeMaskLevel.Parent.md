@@ -16,7 +16,7 @@ Gets the parent of the  **CodeMaskLevel** object. Read-only **OutlineCode**.
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 

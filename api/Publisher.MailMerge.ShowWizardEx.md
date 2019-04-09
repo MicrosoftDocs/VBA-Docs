@@ -19,7 +19,7 @@ Displays the specified catalog or mail merge wizard in a document.
 
 ## Syntax
 
- _expression_.**ShowWizardEx**(**_ShowDocumentStep_**,  **_ShowTemplateStep_**,  **_ShowDataStep_**,  **_ShowWriteStep_**,  **_ShowPreviewStep_**,  **_ShowMergeStep_**, **_MergeType_**, **_iStep_**)
+_expression_.**ShowWizardEx**(**_ShowDocumentStep_**,  **_ShowTemplateStep_**,  **_ShowDataStep_**,  **_ShowWriteStep_**,  **_ShowPreviewStep_**,  **_ShowMergeStep_**, **_MergeType_**, **_iStep_**)
 
  _expression_ A variable that represents a  **MailMerge** object.
 

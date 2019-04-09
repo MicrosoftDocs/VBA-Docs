@@ -21,7 +21,7 @@ Returns a  **FontNames** object that includes the names of all the available por
 
 _expression_. `PortraitFontNames`
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example

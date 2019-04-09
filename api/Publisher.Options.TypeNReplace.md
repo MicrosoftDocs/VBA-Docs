@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**TypeNReplace**
+_expression_.**TypeNReplace**
 
  _expression_ A variable that represents a  **Options** object.
 

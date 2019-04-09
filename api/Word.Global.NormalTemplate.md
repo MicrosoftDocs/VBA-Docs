@@ -21,7 +21,7 @@ Returns a  **Template** object that represents the Normal template.
 
 _expression_. `NormalTemplate`
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example

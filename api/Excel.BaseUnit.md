@@ -23,9 +23,11 @@ Returns or sets the base unit for the specified category axis Read/write XlTimeU
 | **xlMonths**|
 | **xlYears**|
 
+## Syntax
+
 _expression_.**BaseUnit**
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 

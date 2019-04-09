@@ -19,7 +19,7 @@ Returns or sets the adjustment value specified by the Index argument. Read/write
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents an [Adjustments](./PowerPoint.Adjustments.md) object.
 

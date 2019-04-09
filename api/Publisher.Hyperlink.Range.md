@@ -19,7 +19,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object representing the base 
 
 ## Syntax
 
- _expression_.**Range**
+_expression_.**Range**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

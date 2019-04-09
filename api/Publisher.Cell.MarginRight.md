@@ -19,7 +19,7 @@ Returns or sets a  **Variant** that represents the amount of space (in points) b
 
 ## Syntax
 
- _expression_.**MarginRight**
+_expression_.**MarginRight**
 
  _expression_ A variable that represents a  **Cell** object.
 

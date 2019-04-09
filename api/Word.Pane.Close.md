@@ -21,7 +21,7 @@ Closes the specified Mail Merge data source, pane, or task.
 
 _expression_. `Close`
 
- _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Example

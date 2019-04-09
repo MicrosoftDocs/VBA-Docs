@@ -16,7 +16,7 @@ Assigns a Web page theme to the page you are creating. Read/write.
 
 ## Syntax
 
- _expression_.**ThemeName**
+_expression_.**ThemeName**
 
  _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 

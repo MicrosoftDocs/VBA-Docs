@@ -21,7 +21,7 @@ Prints a label or a page of labels with the same address.
 
 _expression_. `PrintOut`( `_Name_` , `_Address_` , `_ExtractAddress_` , `_LaserTray_` , `_SingleLabel_` , `_Row_` , `_Column_` , `_PrintEPostageLabel_` , `_Vertical_` )
 
- _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
+_expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ## Parameters

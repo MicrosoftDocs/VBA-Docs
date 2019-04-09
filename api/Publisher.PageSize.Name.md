@@ -19,7 +19,7 @@ Returns the name of the blank page size represented by the parent  **PageSize** 
 
 ## Syntax
 
- _expression_.**Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a  **PageSize** object.
 

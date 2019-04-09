@@ -16,7 +16,7 @@ Gets the number of  **Group2** objects in the **TaskGroups2** collection. Read-o
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
  _expression_ An expression that returns a 'TaskGroups2' object.
 

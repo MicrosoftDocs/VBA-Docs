@@ -24,7 +24,7 @@ Returns or sets what the bubble size represents on a bubble chart. Read/write Xl
 
 _expression_. `SizeRepresents`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

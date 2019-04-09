@@ -19,7 +19,7 @@ Deletes an object or selection.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

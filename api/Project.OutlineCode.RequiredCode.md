@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # OutlineCode.RequiredCode property (Project)
 
-True if a value for the local outline code must be set before the project can be saved. Read/write  **Boolean**.
+**True** if a value for the local outline code must be set before the project can be saved. Read/write  **Boolean**.
 
 
 ## Syntax

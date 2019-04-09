@@ -14,7 +14,7 @@ Gets or sets the path to the source file for the drawing in Microsoft Visio View
 
 ## Syntax
 
- _expression_.**SRC**
+_expression_.**SRC**
 
  _expression_ An expression that returns a  **Viewer** object.
 

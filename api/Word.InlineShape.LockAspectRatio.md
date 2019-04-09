@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `LockAspectRatio`
 
- _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
+_expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## See also

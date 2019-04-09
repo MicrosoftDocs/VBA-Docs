@@ -19,7 +19,7 @@ Adds a new  **Page** object to the specified **Pages** object and returns the ne
 
 ## Syntax
 
- _expression_.**Add**(**_Count_**,  **_After_**,  **_DuplicateObjectsOnPage_**,  **_AddHyperlinkToWebNavBar_**)
+_expression_.**Add**(**_Count_**,  **_After_**,  **_DuplicateObjectsOnPage_**,  **_AddHyperlinkToWebNavBar_**)
 
  _expression_ A variable that represents a  **Pages** object.
 

@@ -12,7 +12,7 @@ Gets the number of  **Shape** objects in the **Shapes** collection. Read-only **
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a 'Shapes' object.
 

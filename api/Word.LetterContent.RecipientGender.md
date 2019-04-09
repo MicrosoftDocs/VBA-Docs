@@ -21,7 +21,7 @@ Returns or sets the recipient's gender, if known. Not used in the U.S. English v
 
 _expression_. `RecipientGender`
 
- _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
+_expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Remarks

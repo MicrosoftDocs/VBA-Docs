@@ -19,7 +19,7 @@ Returns or sets an  **MsoTriState** constant indicating whether a specified shap
 
 ## Syntax
 
- _expression_.**InsetPen**
+_expression_.**InsetPen**
 
  _expression_ A variable that represents an  **LineFormat** object.
 

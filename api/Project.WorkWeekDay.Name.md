@@ -16,7 +16,7 @@ Gets the name of a  **WorkWeekDay** object representing a day in a work week. Re
 
 ## Syntax
 
- _expression_.**Name**
+_expression_.**Name**
 
  _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 

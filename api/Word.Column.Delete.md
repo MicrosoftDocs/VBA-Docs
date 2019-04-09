@@ -19,9 +19,9 @@ Deletes the specified column.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
+_expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Returns a [WdLockType](Word.WdLockType.md) constant that specifies the lock type
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 

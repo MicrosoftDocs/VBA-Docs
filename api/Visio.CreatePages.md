@@ -16,7 +16,7 @@ Initiates Web page creation.
 
 ## Syntax
 
- _expression_.**CreatePages**
+_expression_.**CreatePages**
 
  _expression_ An expression that returns a  **[VisSaveAsWeb](overview/Visio.md)** object.
 

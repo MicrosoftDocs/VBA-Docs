@@ -19,7 +19,7 @@ Returns an  **MsoTriState** constant indicating whether the specified shape has 
 
 ## Syntax
 
- _expression_.**HasText**
+_expression_.**HasText**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

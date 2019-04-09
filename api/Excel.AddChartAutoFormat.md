@@ -20,7 +20,7 @@ Adds a custom chart autoformat to the list of available chart autoformats.
 
 _expression_.**AddChartAutoFormat** (_Name_, _Description_)
 
-_expression_ Required. An expression that returns an **[Application](Excel.Application-graph-property.md)** object.
+_expression_ Required. An expression that returns an **[Application](excel.application-graph-object.md)** object.
 
 ## Parameters
 

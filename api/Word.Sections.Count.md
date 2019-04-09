@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of sections in the collection. Re
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[Sections](Word.sections.md)' collection.
+_expression_ Required. A variable that represents a '[Sections](Word.sections.md)' collection.
 
 
 ## See also

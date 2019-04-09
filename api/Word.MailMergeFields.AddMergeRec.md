@@ -21,7 +21,7 @@ Adds a MERGEREC field to a mail merge main document. Returns a  **MailMergeField
 
 _expression_. `AddMergeRec`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Parameters

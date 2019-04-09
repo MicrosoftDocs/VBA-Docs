@@ -19,9 +19,9 @@ Returns the value of the grammar statistic. Read-only  **Long**.
 
 ## Syntax
 
- _expression_.**Value**
+_expression_.**Value**
 
- _expression_ Required. A variable that represents a '[ReadabilityStatistic](Word.ReadabilityStatistic.md)' object.
+_expression_ Required. A variable that represents a '[ReadabilityStatistic](Word.ReadabilityStatistic.md)' object.
 
 
 ## Example

@@ -19,9 +19,9 @@ Returns or sets the orientation of text in a selection when the Text Direction f
 
 ## Syntax
 
- _expression_.**Orientation**
+_expression_.**Orientation**
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks

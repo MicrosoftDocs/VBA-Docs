@@ -21,7 +21,7 @@ Returns or sets the right indent (in points) for the specified paragraph. Read/w
 
 _expression_. `RightIndent`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Example

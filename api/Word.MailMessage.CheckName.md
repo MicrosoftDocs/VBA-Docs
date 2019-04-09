@@ -21,7 +21,7 @@ Validates the email addresses that appear in the  **To**,  **Cc**, and  **Bcc** 
 
 _expression_. `CheckName`
 
- _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
+_expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 
 
 ## Remarks

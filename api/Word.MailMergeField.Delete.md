@@ -19,9 +19,9 @@ Deletes the specified mail merge field.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
+_expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 
 
 ## See also

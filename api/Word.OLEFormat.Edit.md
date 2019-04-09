@@ -21,7 +21,7 @@ Opens the specified OLE object for editing in the application it was created in.
 
 _expression_. `Edit`
 
- _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
+_expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 
 
 ## Example

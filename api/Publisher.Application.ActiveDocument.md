@@ -19,7 +19,7 @@ Returns a  **[Document](Publisher.Document.md)** object that represents the acti
 
 ## Syntax
 
- _expression_.**ActiveDocument**
+_expression_.**ActiveDocument**
 
  _expression_ A variable that represents an  **Application** object.
 

@@ -19,7 +19,7 @@ Returns the parent of the  **[MailMergeDataSources](Publisher.MailMergeDataSourc
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **MailMergeDataSources** collection.
 

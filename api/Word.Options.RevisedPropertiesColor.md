@@ -21,7 +21,7 @@ Returns or sets the color used to mark formatting changes while change tracking 
 
 _expression_. `RevisedPropertiesColor`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Remarks

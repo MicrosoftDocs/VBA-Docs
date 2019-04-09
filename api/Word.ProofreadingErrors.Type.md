@@ -19,9 +19,9 @@ Returns the type of proofreading error. Read-only  **[WdProofreadingErrorType](W
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[ProofreadingErrors](Word.proofreadingerrors.md)' collection.
+_expression_ Required. A variable that represents a '[ProofreadingErrors](Word.proofreadingerrors.md)' collection.
 
 
 ## See also

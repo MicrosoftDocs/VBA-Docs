@@ -16,7 +16,7 @@ Returns a  **Long** that represents the four-character creator code for the appl
 
 ## Syntax
 
- _expression_.**Creator**
+_expression_.**Creator**
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 

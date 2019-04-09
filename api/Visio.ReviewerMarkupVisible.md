@@ -16,7 +16,7 @@ Gets or sets a value that indicates whether markup of the specified reviewer is 
 
 ## Syntax
 
- _expression_.**ReviewerMarkupVisible**(**_ReviewerIndex_**)
+_expression_.**ReviewerMarkupVisible**(**_ReviewerIndex_**)
 
  _expression_ An expression that returns a  **Viewer** object.
 

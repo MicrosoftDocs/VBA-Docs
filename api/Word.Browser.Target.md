@@ -21,7 +21,7 @@ Returns or sets the document item that the  **Previous** and **Next** methods lo
 
 _expression_. `Target`
 
- _expression_ Required. A variable that represents a '[Browser](Word.Browser.md)' object.
+_expression_ Required. A variable that represents a '[Browser](Word.Browser.md)' object.
 
 
 ## Example

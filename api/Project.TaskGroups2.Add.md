@@ -16,7 +16,7 @@ Adds a  **[Group2](Project.Group2.md)** object to the **TaskGroups2** collection
 
 ## Syntax
 
- _expression_.**Add**( `_Name_`, `_FieldName_` )
+_expression_.**Add**( `_Name_`, `_FieldName_` )
 
  _expression_ An expression that returns a 'TaskGroups2' object.
 

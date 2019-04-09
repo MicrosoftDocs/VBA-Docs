@@ -19,7 +19,7 @@ Lays out the shapes and/or reroutes the connectors for the page, master, group, 
 
 ## Syntax
 
- _expression_.**Layout**
+_expression_.**Layout**
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

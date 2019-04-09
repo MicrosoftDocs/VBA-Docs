@@ -14,7 +14,7 @@ Returns a  **Long** that represents the preferred horizontal position of the ins
 
 ## Syntax
 
- _expression_.**CurTargetX**
+_expression_.**CurTargetX**
 
 _expression_ A variable that represents a  **TextBox** object.
 

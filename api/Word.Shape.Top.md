@@ -19,9 +19,9 @@ Returns or sets the vertical position of the specified shape or shape range in p
 
 ## Syntax
 
- _expression_.**Top**
+_expression_.**Top**
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks

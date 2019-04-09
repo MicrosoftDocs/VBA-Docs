@@ -19,7 +19,7 @@ Returns or sets the amount of space (in points) to add to the left of the conten
 
 ## Syntax
 
- _expression_.**LeftPadding**
+_expression_.**LeftPadding**
 
  _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 

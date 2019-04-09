@@ -19,7 +19,7 @@ Returns an  **MsoEncoding** constant that specifies the encoding of the Web publ
 
 ## Syntax
 
- _expression_.**Encoding**
+_expression_.**Encoding**
 
  _expression_ A variable that represents an  **WebOptions** object.
 

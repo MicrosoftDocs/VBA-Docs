@@ -19,7 +19,7 @@ Returns a  **[Documents](Publisher.Documents.md)** collection that represents al
 
 ## Syntax
 
- _expression_.**Documents**
+_expression_.**Documents**
 
  _expression_ A variable that represents a  **Application** object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Patterned
 ms.assetid: a492f089-cd6e-e7c3-2b25-7bcfadde4319
-ms.date: 06/08/2017
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
@@ -16,70 +16,23 @@ localization_priority: Normal
 
 Sets a pattern for the specified fill.
 
-_expression_. `Patterned`( `_Pattern_`)
+## Syntax
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_.**Patterned** (_Pattern_)
 
- **Pattern**Required 
- **MsoPatternType**
-. The type of pattern.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
-|MsoPatternType can be one of these MsoPatternType constants.|
-| **msoPattern10Percent**|
-| **msoPattern20Percent**|
-| **msoPattern25Percent**|
-| **msoPattern30Percent**|
-| **msoPattern40Percent**|
-| **msoPattern50Percent**|
-| **msoPattern5Percent**|
-| **msoPattern60Percent**|
-| **msoPattern70Percent**|
-| **msoPattern75Percent**|
-| **msoPattern80Percent**|
-| **msoPattern90Percent**|
-| **msoPatternDarkDownwardDiagonal**|
-| **msoPatternDarkHorizontal**|
-| **msoPatternDarkUpwardDiagonal**|
-| **msoPatternDarkVertical**|
-| **msoPatternDashedDownwardDiagonal**|
-| **msoPatternDashedHorizontal**|
-| **msoPatternDashedUpwardDiagonal**|
-| **msoPatternDashedVertical**|
-| **msoPatternDiagonalBrick**|
-| **msoPatternDivot**|
-| **msoPatternDottedDiamond**|
-| **msoPatternDottedGrid**|
-| **msoPatternHorizontalBrick**|
-| **msoPatternLargeCheckerBoard**|
-| **msoPatternLargeConfetti**|
-| **msoPatternLargeGrid**|
-| **msoPatternLightDownwardDiagonal**|
-| **msoPatternLightHorizontal**|
-| **msoPatternLightUpwardDiagonal**|
-| **msoPatternLightVertical**|
-| **msoPatternMixed**|
-| **msoPatternNarrowHorizontal**|
-| **msoPatternNarrowVertical**|
-| **msoPatternOutlinedDiamond**|
-| **msoPatternPlaid**|
-| **msoPatternShingle**|
-| **msoPatternSmallCheckerBoard**|
-| **msoPatternSmallConfetti**|
-| **msoPatternSmallGrid**|
-| **msoPatternSolidDiamond**|
-| **msoPatternSphere**|
-| **msoPatternTrellis**|
-| **msoPatternWave**|
-| **msoPatternWeave**|
-| **msoPatternWideDownwardDiagonal**|
-| **msoPatternWideUpwardDiagonal**|
-| **msoPatternZigZag**|
+## Parameters
+
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+|_Pattern_ | Required |**[MsoPatternType](office.msopatterntype.md)** |The type of pattern. Can be one of the **MsoPatternType** constants.|
+
 
 ## Example
 
 This example sets the fill pattern.
-
 
 ```vb
 With myChart.ChartArea.Fill 

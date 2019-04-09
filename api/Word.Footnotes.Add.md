@@ -19,9 +19,9 @@ Returns a  **Footnote** object that represents a footnote added to a range.
 
 ## Syntax
 
- _expression_.**Add**( `_Range_` , `_Reference_` , `_Text_` )
+_expression_.**Add**( `_Range_` , `_Reference_` , `_Text_` )
 
- _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
+_expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Parameters

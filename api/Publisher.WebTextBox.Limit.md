@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the maximum number of characters tha
 
 ## Syntax
 
- _expression_.**Limit**
+_expression_.**Limit**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 

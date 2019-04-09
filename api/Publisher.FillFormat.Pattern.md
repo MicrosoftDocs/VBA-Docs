@@ -19,7 +19,7 @@ Returns an  **MsoPatternType** constant that represents the pattern applied to t
 
 ## Syntax
 
- _expression_.**Pattern**
+_expression_.**Pattern**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

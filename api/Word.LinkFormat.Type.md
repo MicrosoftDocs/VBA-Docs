@@ -19,9 +19,9 @@ Returns the link type. Read-only  **[WdLinkType](Word.WdLinkType.md)**.
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
+_expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
 
 
 ## Remarks

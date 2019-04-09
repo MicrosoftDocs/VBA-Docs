@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** indicating whether the screen is updated while ma
 
 ## Syntax
 
- _expression_.**DocumentUpdating**
+_expression_.**DocumentUpdating**
 
  _expression_ A variable that represents a  **MailMerge** object.
 

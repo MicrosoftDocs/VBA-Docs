@@ -21,7 +21,7 @@ Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that repres
 
  _expression_**LanguageID**
 
- _expression_ Required. An expression that returns a '[Dictionary](Word.Dictionary.md)' object.
+_expression_ Required. An expression that returns a '[Dictionary](Word.Dictionary.md)' object.
 
 
 ## Remarks

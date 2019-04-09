@@ -14,7 +14,7 @@ Returns or sets an  **Integer** that specifies the selection behavior when enter
 
 ## Syntax
 
- _expression_.**EnterFieldBehavior**
+_expression_.**EnterFieldBehavior**
 
 _expression_ A variable that represents a  **TextBox** object.
 

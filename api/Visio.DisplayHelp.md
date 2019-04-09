@@ -16,7 +16,7 @@ Displays the Help topic that has the specified ID in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_.**DisplayHelp**(**_TopicID_**)
+_expression_.**DisplayHelp**(**_TopicID_**)
 
  _expression_ An expression that returns a  **Viewer** object.
 

@@ -19,7 +19,7 @@ Fills the frame of a picture with the image represented by the  **PictureFormat*
 
 ## Syntax
 
- _expression_.**FillFrame**
+_expression_.**FillFrame**
 
  _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 

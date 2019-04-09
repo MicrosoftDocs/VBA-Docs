@@ -19,7 +19,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** object representing the chi
 
 ## Syntax
 
- _expression_.**ChildShapeRange**
+_expression_.**ChildShapeRange**
 
  _expression_ A variable that represents a  **Selection** object.
 

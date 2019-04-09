@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ColumnGroups
 ms.assetid: dcb4d7e0-ce56-46d9-35d9-d9653bbb6f97
-ms.date: 06/08/2017
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
@@ -16,16 +16,21 @@ localization_priority: Normal
 
 On a 2-D chart, returns an object that represents either a single column chart group or a collection of the column chart groups.
 
-_expression_. `ColumnGroups`( `_Index_`)
+## Syntax
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_.**ColumnGroups** (_Index_)
 
- **Index** Optional **Variant**. The index number of the specified column chart group.
+_expression_ Required. An expression that returns one of the objects in the **[ChartGroups](excel.chartgroups(collection).md)** collection.
+
+## Parameters
+
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+|_Index_ |Optional |**Variant**|The index number of the specified column chart group.|
 
 ## Example
 
 This example sets the space between column clusters in the 2-D column chart group to be 50 percent of the column width.
-
 
 ```vb
 myChart.ColumnGroups(1).GapWidth = 50

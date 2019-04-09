@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `NormalizedHeight`
 
- _expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## Example

@@ -16,7 +16,7 @@ Gets or sets a value that indicates whether markup overlays are visible in the c
 
 ## Syntax
 
- _expression_.**MarkupOverlaysVisible**
+_expression_.**MarkupOverlaysVisible**
 
  _expression_ An expression that returns a  **Viewer** object.
 

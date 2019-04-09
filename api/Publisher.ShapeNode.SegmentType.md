@@ -19,7 +19,7 @@ Returns an  **MsoSegmentType** constant that indicates whether the segment assoc
 
 ## Syntax
 
- _expression_.**SegmentType**
+_expression_.**SegmentType**
 
  _expression_ A variable that represents a  **ShapeNode** object.
 

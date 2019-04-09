@@ -16,7 +16,7 @@ As it applies to the Application object, the Width property determines the dista
 
 _expression_.**Width**
 
- _expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns one of the above objects.
 
  If the window is minimized, Application.Width is read-only and returns the width of the window icon.
 

@@ -21,7 +21,7 @@ Returns a  **[Shape](Word.Shape.md)** object that represents a Bézier curve in 
 
 _expression_. `AddCurve`( `_SafeArrayOfPoints_` )
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ## Parameters

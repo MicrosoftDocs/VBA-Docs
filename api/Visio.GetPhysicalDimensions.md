@@ -16,7 +16,7 @@ Based on the enumerated screen-resolution value passed to the method in the eRes
 
 ## Syntax
 
- _expression_.**GetPhysicalDimensions**(**_eRes_**, **_pnWidth_**, **_pnHeight_**)
+_expression_.**GetPhysicalDimensions**(**_eRes_**, **_pnWidth_**, **_pnHeight_**)
 
 
 

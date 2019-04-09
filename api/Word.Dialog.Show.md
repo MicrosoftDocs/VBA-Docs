@@ -19,9 +19,9 @@ Displays and carries out actions initiated in the specified built-in Word dialog
 
 ## Syntax
 
- _expression_.**Show**( `_TimeOut_` )
+_expression_.**Show**( `_TimeOut_` )
 
- _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
+_expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 
 
 ## Parameters

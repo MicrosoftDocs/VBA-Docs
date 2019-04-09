@@ -17,7 +17,7 @@ A string that represents the search keywords associated with the building block.
 
 ## Syntax
 
- _expression_.**Keywords**
+_expression_.**Keywords**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `RightAlignPageNumbers`
 
- _expression_ Required. A variable that represents an '[Index](Word.Index.md)' object.
+_expression_ Required. A variable that represents an '[Index](Word.Index.md)' object.
 
 
 ## See also

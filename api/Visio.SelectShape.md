@@ -16,7 +16,7 @@ Selects the specified shape in the drawing that is open in Microsoft Visio Viewe
 
 ## Syntax
 
- _expression_.**SelectShape**(**_ShapeIndex_**)
+_expression_.**SelectShape**(**_ShapeIndex_**)
 
  _expression_ An expression that returns a  **Viewer** object.
 

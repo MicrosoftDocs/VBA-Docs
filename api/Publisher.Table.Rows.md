@@ -19,7 +19,7 @@ Returns a  **[Rows](Publisher.Rows.md)** collection that represents all the tabl
 
 ## Syntax
 
- _expression_.**Rows**
+_expression_.**Rows**
 
  _expression_ A variable that represents a  **Table** object.
 

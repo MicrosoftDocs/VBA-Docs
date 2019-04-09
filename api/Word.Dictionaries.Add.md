@@ -19,9 +19,9 @@ Returns a  **Dictionary** object that represents a new custom spelling or conver
 
 ## Syntax
 
- _expression_.**Add**( `_FileName_` )
+_expression_.**Add**( `_FileName_` )
 
- _expression_ Required. A variable that represents a '[Dictionaries](Word.dictionaries.md)' collection.
+_expression_ Required. A variable that represents a '[Dictionaries](Word.dictionaries.md)' collection.
 
 
 ## Parameters

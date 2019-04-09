@@ -19,9 +19,9 @@ Returns or sets the amount of space (in points) to add below the contents of a s
 
 ## Syntax
 
- _expression_.**BottomPadding**
+_expression_.**BottomPadding**
 
- _expression_ Required. A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
+_expression_ Required. A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
 
 
 ## Remarks

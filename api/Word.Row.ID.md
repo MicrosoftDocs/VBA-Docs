@@ -21,7 +21,7 @@ Returns or sets the identifying label for the specified table row when the docum
 
 _expression_. `ID`
 
- _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Remarks

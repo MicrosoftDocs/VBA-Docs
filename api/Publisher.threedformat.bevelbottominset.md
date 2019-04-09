@@ -17,7 +17,7 @@ Returns or sets a  **Single** that represents the inset size for the bottom beve
 
 ## Syntax
 
- _expression_.**BevelBottomInset**
+_expression_.**BevelBottomInset**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

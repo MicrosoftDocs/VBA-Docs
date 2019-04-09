@@ -14,11 +14,11 @@ localization_priority: Normal
 
 # Smooth property (Excel Graph)
 
-True if curve smoothing is turned on for the line chart or scatter chart. Applies only to line and scatter charts. Read/write Boolean.
+**True** if curve smoothing is turned on for the line chart or scatter chart. Applies only to line and scatter charts. Read/write **Boolean**.
 
 _expression_. `Smooth`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

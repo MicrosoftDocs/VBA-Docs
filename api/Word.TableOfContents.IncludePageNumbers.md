@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `IncludePageNumbers`
 
- _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 
 
 ## Example

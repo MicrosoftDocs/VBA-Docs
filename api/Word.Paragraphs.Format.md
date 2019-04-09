@@ -21,7 +21,7 @@ Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that re
 
 _expression_. `Format`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Example

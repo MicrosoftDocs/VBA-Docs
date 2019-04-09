@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Styl
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents a '[StyleSheets](Word.StyleSheets.md)' collection.
+_expression_ Required. A variable that represents a '[StyleSheets](Word.StyleSheets.md)' collection.
 
 
 ## See also

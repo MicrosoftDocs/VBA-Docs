@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of first letter exceptions in the
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[FirstLetterExceptions](Word.firstletterexceptions.md)' collection.
+_expression_ Required. A variable that represents a '[FirstLetterExceptions](Word.firstletterexceptions.md)' collection.
 
 
 ## See also

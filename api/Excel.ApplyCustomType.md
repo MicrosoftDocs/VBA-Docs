@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # ApplyCustomType method (Excel Graph)
 
-## Series object
+The **ApplyCustomType** method as it applies to the **Series** and **Chart** objects.
 
-The **ApplyCustomType** method as it applies to the **Series** object.
+## Series object
 
 Applies a standard or custom chart type to a series.
 
@@ -24,18 +24,16 @@ Applies a standard or custom chart type to a series.
 
 _expression_.**ApplyCustomType** (_ChartType_)
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[Series](excel.series-graph-object.md)** object.
 
 ### Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_ChartType_ |Required |**[XlChartType](excel.xlcharttype.md)** |A standard chart type.|
+|_ChartType_ |Required |**[XlChartType](excel.xlcharttype.md)** |A standard chart type. Can be one of the **XlChartType** constants. |
 
 
 ## Chart object
-
-The **ApplyCustomType** method as it applies to the **Chart** object.
 
 Applies a standard or custom chart type to a chart.
 
@@ -43,13 +41,13 @@ Applies a standard or custom chart type to a chart.
 
 _expression_.**ApplyCustomType** (_ChartType_, _TypeName_)
 
-_expression_ Required. An expression that returns one of the above objects.
+_expression_ Required. An expression that returns a **[Chart](excel.chart-graph-object.md)** object.
 
 ### Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_ChartType_ |Required |**[XlChartType](excel.xlcharttype.md)** |A standard chart type.|
+|_ChartType_ |Required |**[XlChartType](excel.xlcharttype.md)** |A standard chart type. Can be one of the **XlChartType** constants.|
 |_TypeName_|Optional |**Variant**|A **String** naming the custom chart type when _ChartType_ specifies a custom chart gallery.|
 
 ## Example

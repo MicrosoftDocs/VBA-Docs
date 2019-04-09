@@ -19,7 +19,7 @@ Returns or sets a  **PbTextOrientation** that represents the flow of text in a s
 
 ## Syntax
 
- _expression_.**CellTextOrientation**
+_expression_.**CellTextOrientation**
 
  _expression_ A variable that represents a  **Cell** object.
 

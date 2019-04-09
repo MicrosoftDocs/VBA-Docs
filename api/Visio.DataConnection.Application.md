@@ -22,7 +22,7 @@ Returns the instance of Microsoft Visio associated with a  **DataConnection** ob
 
 ## Syntax
 
- _expression_.**Application**
+_expression_.**Application**
 
  _expression_ An expression that returns a [DataConnection](./Visio.DataConnection.md) object.
 

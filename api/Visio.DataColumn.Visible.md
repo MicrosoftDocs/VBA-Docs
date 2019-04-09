@@ -22,7 +22,7 @@ Specifies whether the data column appears on the tab for its parent data records
 
 ## Syntax
 
- _expression_.**Visible**
+_expression_.**Visible**
 
  _expression_ A variable that represents a [DataColumn](./Visio.DataColumn.md) object.
 

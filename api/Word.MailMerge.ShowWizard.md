@@ -21,7 +21,7 @@ Displays the Mail Merge Wizard in a document.
 
 _expression_. `ShowWizard`( `_InitialState_` , `_ShowDocumentStep_` , `_ShowTemplateStep_` , `_ShowDataStep_` , `_ShowWriteStep_` , `_ShowPreviewStep_` , `_ShowMergeStep_` )
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Parameters

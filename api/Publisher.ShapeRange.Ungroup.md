@@ -19,7 +19,7 @@ Ungroups the specified group of shapes or any groups of shapes in the specified 
 
 ## Syntax
 
- _expression_.**Ungroup**
+_expression_.**Ungroup**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

@@ -21,7 +21,7 @@ Determines how Microsoft Word resizes a table when the AutoFit feature is used.
 
 _expression_. `AutoFitBehavior`( `_Behavior_` )
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Parameters

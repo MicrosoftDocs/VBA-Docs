@@ -19,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **Hang
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ Required. A variable that represents a '[HangulAndAlphabetException](Word.HangulAndAlphabetException.md)' object.
+_expression_ Required. A variable that represents a '[HangulAndAlphabetException](Word.HangulAndAlphabetException.md)' object.
 
 
 ## See also

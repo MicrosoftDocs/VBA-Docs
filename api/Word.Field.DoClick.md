@@ -21,7 +21,7 @@ Clicks the specified field.
 
 _expression_. `DoClick`
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks

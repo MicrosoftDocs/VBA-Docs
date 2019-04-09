@@ -21,7 +21,7 @@ Terminates a review of a file that has been sent for review using the  **[SendFo
 
 _expression_. `EndReview`
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks

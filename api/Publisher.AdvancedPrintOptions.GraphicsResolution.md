@@ -19,7 +19,7 @@ Returns or sets a  **PbPrintGraphics** constant representing the resolution at w
 
 ## Syntax
 
- _expression_.**GraphicsResolution**
+_expression_.**GraphicsResolution**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 

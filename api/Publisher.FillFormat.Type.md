@@ -19,7 +19,7 @@ Returns an  **MsoFillType** constant that represents the fill format type of a s
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **FillFormat** object.
 

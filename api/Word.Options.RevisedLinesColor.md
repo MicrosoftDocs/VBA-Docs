@@ -21,7 +21,7 @@ Returns or sets the color of changed lines in a document with tracked changes. R
 
 _expression_. `RevisedLinesColor`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example

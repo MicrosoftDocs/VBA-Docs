@@ -19,7 +19,7 @@ Adds a new  **Shape** object representing a text box to the specified **Shapes**
 
 ## Syntax
 
- _expression_.**AddTextbox**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddTextbox**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

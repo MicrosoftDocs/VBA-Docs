@@ -19,9 +19,9 @@ Returns a  **Long** that represents the number of mail merge field names in the 
 
 ## Syntax
 
- _expression_.**Count**
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[MailMergeFieldNames](Word.MailMergeFieldNames.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFieldNames](Word.MailMergeFieldNames.md)' collection.
 
 
 ## See also

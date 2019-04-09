@@ -19,7 +19,7 @@ Returns a  **[TabStops](Publisher.TabStops.md)** object representing the custom 
 
 ## Syntax
 
- _expression_.**Tabs**
+_expression_.**Tabs**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

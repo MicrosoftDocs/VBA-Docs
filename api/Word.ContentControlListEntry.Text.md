@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the display text of a list item fo
 
 ## Syntax
 
- _expression_.**Text**
+_expression_.**Text**
 
  _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 

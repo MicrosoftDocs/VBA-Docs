@@ -21,7 +21,7 @@ Applies the previous heading level style (Heading 1 through Heading 8) to the sp
 
 _expression_. `OutlinePromote`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Remarks

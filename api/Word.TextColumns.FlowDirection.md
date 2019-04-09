@@ -21,7 +21,7 @@ Returns or sets the direction in which text flows from one text column to the ne
 
 _expression_. `FlowDirection`
 
- _expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
+_expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns a  **[Borders](PowerPoint.Borders.md)** collection that represents the b
 
 ## Syntax
 
- _expression_.**Borders**
+_expression_.**Borders**
 
 _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 

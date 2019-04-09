@@ -12,7 +12,7 @@ Gets the [Application object (Project)](Project.Application.md) object. Read-onl
 
 ## Syntax
 
- _expression_.**Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

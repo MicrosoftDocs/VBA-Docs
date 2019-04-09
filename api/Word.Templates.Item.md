@@ -19,9 +19,9 @@ Returns an individual  **Template** object in a collection.
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[Templates](Word.templates.md)' collection.
+_expression_ Required. A variable that represents a '[Templates](Word.templates.md)' collection.
 
 
 ## Parameters

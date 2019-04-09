@@ -21,7 +21,7 @@ Returns a read-only  **LetterContent** object that represents the contents of a 
 
 _expression_. `Duplicate`
 
- _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
+_expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Remarks

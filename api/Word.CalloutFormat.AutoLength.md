@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AutoLength`
 
- _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Remarks

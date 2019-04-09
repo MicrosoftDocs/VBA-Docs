@@ -19,7 +19,7 @@ Adds a period at the end of each paragraph in the specified text.
 
 ## Syntax
 
- _expression_.**AddPeriods**
+_expression_.**AddPeriods**
 
 
 

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Font2.Allcaps property (Office)
 
-True if the font is formatted as all capital letters. Read/write.
+**True** if the font is formatted as all capital letters. Read/write.
 
 
 ## Syntax

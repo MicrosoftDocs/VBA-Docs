@@ -16,7 +16,7 @@ Gets or sets a value that indicates whether the drawing page is visible in Micro
 
 ## Syntax
 
- _expression_.**PageVisible**
+_expression_.**PageVisible**
 
  _expression_ An expression that returns a  **Viewer** object.
 

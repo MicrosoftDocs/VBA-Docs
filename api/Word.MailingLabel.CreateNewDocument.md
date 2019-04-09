@@ -21,7 +21,7 @@ Creates a new label document using either the default label options or ones that
 
 _expression_. `CreateNewDocument`( `_Name_` , `_Address_` , `_AutoText_` , `_ExtractAddress_` , `_LaserTray_` , `_PrintEPostageLabel_` , `_Vertical_` )
 
- _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
+_expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ## Parameters

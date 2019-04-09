@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Vertical`
 
- _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
+_expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Example

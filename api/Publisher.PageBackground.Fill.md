@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_.**Fill**
+_expression_.**Fill**
 
  _expression_ A variable that represents a  **PageBackground** object.
 

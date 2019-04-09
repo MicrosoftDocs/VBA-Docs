@@ -19,7 +19,7 @@ Adds the specified shape or shapes to the publication page's catalog merge area.
 
 ## Syntax
 
- _expression_.**AddToCatalogMergeArea**
+_expression_.**AddToCatalogMergeArea**
 
  _expression_ A variable that represents a  **Shape** object.
 

@@ -21,7 +21,7 @@ Returns a  **Template** or **Document** object that represents the template or d
 
 _expression_. `MacroContainer`
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example

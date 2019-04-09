@@ -16,7 +16,7 @@ Returns or sets the series type. Read/write  **Long**.
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

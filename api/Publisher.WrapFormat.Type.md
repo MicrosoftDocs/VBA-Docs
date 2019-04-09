@@ -19,7 +19,7 @@ Specifies how text wraps around the specified shape. Read/write.
 
 ## Syntax
 
- _expression_.**Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 

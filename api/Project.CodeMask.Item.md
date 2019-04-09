@@ -16,7 +16,7 @@ Gets a single  **CodeMaskLevel** object from the **CodeMask** collection. Read-o
 
 ## Syntax
 
- _expression_.**Item** (_Index_)
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'CodeMask' object.
 

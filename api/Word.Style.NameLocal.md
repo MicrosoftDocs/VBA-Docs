@@ -21,7 +21,7 @@ Returns the name of a built-in style in the language of the user. Read/write  **
 
 _expression_. `NameLocal`
 
- _expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
+_expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
 
 
 ## Remarks

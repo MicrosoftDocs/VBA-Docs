@@ -19,7 +19,7 @@ Converts the specified plate from spot color to process.
 
 ## Syntax
 
- _expression_.**ConvertToProcess**
+_expression_.**ConvertToProcess**
 
  _expression_ A variable that represents a  **Plate** object.
 

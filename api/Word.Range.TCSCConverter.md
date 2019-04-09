@@ -21,7 +21,7 @@ Converts the specified range from Traditional Chinese to Simplified Chinese or v
 
 _expression_. `TCSCConverter`( `_WdTCSCConverterDirection_` , `_CommonTerms_` , `_UseVariants_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters

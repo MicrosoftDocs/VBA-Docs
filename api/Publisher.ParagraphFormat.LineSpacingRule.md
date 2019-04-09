@@ -19,7 +19,7 @@ Returns or sets a  **PbLineSpacingRule** that represents the line spacing for th
 
 ## Syntax
 
- _expression_.**LineSpacingRule**
+_expression_.**LineSpacingRule**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

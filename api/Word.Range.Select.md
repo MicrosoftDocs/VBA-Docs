@@ -19,9 +19,9 @@ Selects the specified range.
 
 ## Syntax
 
- _expression_.**Select**
+_expression_.**Select**
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Example

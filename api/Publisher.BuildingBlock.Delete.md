@@ -19,7 +19,7 @@ Deletes the specified  **BuildingBlock** object from the **[BuildingBlocks](Publ
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 

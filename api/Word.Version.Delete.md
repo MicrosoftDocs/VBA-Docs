@@ -19,9 +19,9 @@ Deletes the specified version.
 
 ## Syntax
 
- _expression_.**Delete**
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[Version](Word.Version.md)' object.
+_expression_ Required. A variable that represents a '[Version](Word.Version.md)' object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a symb
 
 ## Syntax
 
- _expression_.**InsertSymbol**(**_FontName_**,  **_CharIndex_**)
+_expression_.**InsertSymbol**(**_FontName_**,  **_CharIndex_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

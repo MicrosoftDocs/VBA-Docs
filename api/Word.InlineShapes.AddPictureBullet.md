@@ -21,7 +21,7 @@ Adds a picture bullet based on an image file to the current document. Returns an
 
 _expression_. `AddPictureBullet`( `_FileName_` , `_Range_` )
 
- _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
+_expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
 ## Parameters

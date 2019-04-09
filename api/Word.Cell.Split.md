@@ -21,7 +21,7 @@ Splits a single table cell into multiple cells.
 
 _expression_. `Split`( `_NumRows_` , `_NumColumns_` )
 
- _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Parameters

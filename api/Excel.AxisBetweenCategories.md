@@ -14,11 +14,13 @@ localization_priority: Normal
 
 # AxisBetweenCategories property (Excel Graph)
 
-True if the value axis crosses the category axis between categories. Read/write Boolean.
+**True** if the value axis crosses the category axis between categories. Read/write **Boolean**.
+
+## Syntax
 
 _expression_. `AxisBetweenCategories`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Determines whether the text "Continued on page  _pagenumber_" appears in a text 
 
 ## Syntax
 
- _expression_.**IncludeContinuedOnPage**
+_expression_.**IncludeContinuedOnPage**
 
  _expression_ A variable that represents a  **TextFrame** object.
 

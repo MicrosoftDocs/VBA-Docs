@@ -19,7 +19,7 @@ Returns a  **String** that represents an internal identifying label for a source
 
 ## Syntax
 
- _expression_.**Tag**
+_expression_.**Tag**
 
  _expression_ An expression that returns a '[Source](Word.Source.md)' object.
 

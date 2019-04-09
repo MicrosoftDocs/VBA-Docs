@@ -14,11 +14,13 @@ localization_priority: Normal
 
 # DisplayAutoCorrectOptions property (Excel Graph)
 
-Allows the user to display or hide the AutoCorrect Options button. The default value is True. Read/write Boolean.
+Allows the user to display or hide the AutoCorrect Options button. The default value is True. Read/write **Boolean**.
+
+## Syntax
 
 _expression_. `DisplayAutoCorrectOptions`
 
- _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

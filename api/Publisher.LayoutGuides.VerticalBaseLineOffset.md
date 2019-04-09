@@ -19,7 +19,7 @@ Returns a  **Single** that represents the vertical baseline offset of the specif
 
 ## Syntax
 
- _expression_.**VerticalBaseLineOffset**
+_expression_.**VerticalBaseLineOffset**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 

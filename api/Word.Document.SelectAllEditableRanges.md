@@ -21,7 +21,7 @@ Selects all ranges for which the specified user or group of users has permission
 
 _expression_. `SelectAllEditableRanges`( `_EditorID_` )
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

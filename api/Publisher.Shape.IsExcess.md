@@ -19,7 +19,7 @@ Indicates whether the parent  **Shape** object is an excess shape after the docu
 
 ## Syntax
 
- _expression_.**IsExcess**
+_expression_.**IsExcess**
 
  _expression_ A variable that represents a  **Shape** object.
 

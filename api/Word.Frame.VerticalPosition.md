@@ -21,7 +21,7 @@ Returns or sets the vertical distance between the edge of the frame and the item
 
 _expression_. `VerticalPosition`
 
- _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
+_expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
 
 
 ## Remarks

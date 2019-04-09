@@ -16,7 +16,7 @@ Determines whether dialog boxes are displayed in the Visio user interface when y
 
 ## Syntax
 
- _expression_.**QuietMode**
+_expression_.**QuietMode**
 
  _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 

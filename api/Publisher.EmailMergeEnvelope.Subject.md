@@ -19,7 +19,7 @@ Gets or sets the subject line of the merged email message. Read/write.
 
 ## Syntax
 
- _expression_.**Subject**
+_expression_.**Subject**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 

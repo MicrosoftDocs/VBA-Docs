@@ -19,7 +19,7 @@ Returns or sets a  **String** indicating the caption at the top of the Microsoft
 
 ## Syntax
 
- _expression_.**Caption**
+_expression_.**Caption**
 
  _expression_ A variable that represents a  **Window** object.
 

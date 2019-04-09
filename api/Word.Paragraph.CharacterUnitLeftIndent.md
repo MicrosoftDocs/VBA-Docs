@@ -21,7 +21,7 @@ Returns or sets the left indent value (in characters) for the specified paragrap
 
 _expression_. `CharacterUnitLeftIndent`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Example

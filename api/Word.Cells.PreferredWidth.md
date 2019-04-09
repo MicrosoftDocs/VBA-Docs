@@ -21,7 +21,7 @@ Returns or sets the preferred width (in points or as a percentage of the window 
 
 _expression_. `PreferredWidth`
 
- _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
+_expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Remarks

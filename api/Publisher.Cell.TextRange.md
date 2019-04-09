@@ -19,7 +19,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the te
 
 ## Syntax
 
- _expression_.**TextRange**
+_expression_.**TextRange**
 
  _expression_ A variable that represents a  **Cell** object.
 

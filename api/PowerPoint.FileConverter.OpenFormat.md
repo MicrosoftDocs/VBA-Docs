@@ -21,7 +21,7 @@ Returns the file format of the specified file converter. Read-only  **Long**.
 
 _expression_. `OpenFormat`
 
- _expression_ Required. A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
+_expression_ Required. A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 
 
 ## See also

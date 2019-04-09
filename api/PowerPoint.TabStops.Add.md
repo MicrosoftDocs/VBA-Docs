@@ -19,7 +19,7 @@ Creates a tab stop and adds it to the  **TabStops** collection.
 
 ## Syntax
 
- _expression_.**Add**( `_Type_`, `_Position_` )
+_expression_.**Add**( `_Type_`, `_Position_` )
 
  _expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
 

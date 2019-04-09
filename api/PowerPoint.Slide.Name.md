@@ -20,7 +20,7 @@ For example, the first slide inserted into a presentation is automatically named
 
 ## Syntax
 
- _expression_.**Name**
+_expression_.**Name**
 
 _expression_ A variable that represents a [Slide](PowerPoint.Slide.md) object.
 

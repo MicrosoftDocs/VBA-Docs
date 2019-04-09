@@ -21,7 +21,7 @@ Returns or sets when scroll bars are available for the specified frame when view
 
 _expression_. `FrameScrollbarType`
 
- _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Remarks

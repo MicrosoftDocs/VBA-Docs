@@ -19,7 +19,7 @@ Returns or sets the distance in points from the top edge of the specified window
 
 ## Syntax
 
- _expression_.**Top**
+_expression_.**Top**
 
  _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 

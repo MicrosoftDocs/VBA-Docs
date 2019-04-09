@@ -19,7 +19,7 @@ Returns a  **[LineFormat](Publisher.LineFormat.md)** object that contains line f
 
 ## Syntax
 
- _expression_.**Line**
+_expression_.**Line**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

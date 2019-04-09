@@ -19,9 +19,9 @@ Returns or sets the amount of space (in points) to add to the left of the conten
 
 ## Syntax
 
- _expression_.**LeftPadding**
+_expression_.**LeftPadding**
 
- _expression_ Required. A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
+_expression_ Required. A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
 
 
 ## Remarks

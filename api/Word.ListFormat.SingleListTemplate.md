@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `SingleListTemplate`
 
- _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
+_expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns a  **[BorderArts](Publisher.BorderArts.md)** collection that represents 
 
 ## Syntax
 
- _expression_.**BorderArts**
+_expression_.**BorderArts**
 
  _expression_ A variable that represents a  **Document** object.
 

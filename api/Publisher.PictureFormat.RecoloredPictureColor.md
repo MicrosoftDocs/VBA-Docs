@@ -19,7 +19,7 @@ Returns the color that has been applied to the image represented by the parent  
 
 ## Syntax
 
- _expression_.**RecoloredPictureColor**
+_expression_.**RecoloredPictureColor**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

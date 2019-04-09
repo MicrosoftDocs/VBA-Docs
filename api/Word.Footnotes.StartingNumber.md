@@ -21,7 +21,7 @@ Returns or sets the starting note number, line number, or page number. Read/writ
 
 _expression_. `StartingNumber`
 
- _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
+_expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Remarks
