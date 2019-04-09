@@ -7,20 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.ChartArea
 ms.assetid: 1af59d11-2b63-d629-5dae-d9b9d8303ddf
-ms.date: 06/08/2017
+ms.date: 04/10/2019
 localization_priority: Normal
 ---
 
 
 # ChartArea property (Excel Graph)
 
-Returns a  **[ChartArea](Excel.ChartArea-graph-object.md)** object that represents the complete chart area for the chart. Read-only.
+Returns a **ChartArea** object that represents the complete chart area for the chart. Read-only.
 
+## Syntax
+
+_expression_.**ChartArea**
+
+_expression_ Required. An expression that returns a **[ChartArea](Excel.ChartArea-graph-object.md)** object.
 
 ## Example
 
-This example sets the chart area interior color of  `myChart` to red and sets the border color to blue.
-
+This example sets the chart area interior color of _myChart_ to red, and sets the border color to blue.
 
 ```vb
 With myChart.ChartArea 

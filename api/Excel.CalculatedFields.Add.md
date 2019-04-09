@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalculatedFields.Add method (Excel)
 
-Creates a new calculated field. Returns a  **[PivotField](Excel.PivotField.md)** object.
+Creates a new calculated field. Returns a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ _expression_ A variable that represents a **[CalculatedFields](Excel.CalculatedF
 
 ## Return value
 
-A  **PivotField** that represents the new calculated field.
+A **PivotField** that represents the new calculated field.
 
 
 ## Example

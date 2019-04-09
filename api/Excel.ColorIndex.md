@@ -7,30 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.ColorIndex
 ms.assetid: e9a9c9de-8a42-0f61-be25-4c158709df68
-ms.date: 06/08/2017
+ms.date: 04/10/2019
 localization_priority: Priority
 ---
 
 
 # ColorIndex property (Excel Graph)
 
-Returns or sets the color of the border, font, or interior, as shown in the following table. The color is specified as an index value into the current color palette, or as one of the following XlColorIndex constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Variant**.
+Returns or sets the color of the border, font, or interior, as shown in the following table. The color is specified as an index value into the current color palette, or as one of the following **[XlColorIndex](excel.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Variant**.
 
 ## Syntax
 
-_expression_. `ColorIndex`
+_expression_.**ColorIndex**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
-<br/>
+## Remarks
 
 |Object|Description|
 |:-----|:-----|
 | **Border**|The color of the border.|
 | **Font**|The color of the font.|
 | **Interior**|The color of the interior fill. Set **ColorIndex** to **xlColorIndexNone** to specify that you don't want an interior fill. Set **ColorIndex** to **xlColorIndexAutomatic** to specify the automatic fill (for drawing objects).|
-
-## Remarks
 
 This property specifies a color as an index into the color palette. The following illustration shows the color-index values in the default color palette.
 
@@ -51,7 +49,9 @@ With myChart.Axes(xlValue)
 End With
 ```
 
-This example sets the color of the chart area interior to red and sets the border color to blue.
+<br/>
+
+This example sets the color of the chart area interior to red, and sets the border color to blue.
 
 ```vb
 With myChart.ChartArea 
@@ -61,6 +61,6 @@ End With
 ```
 
 > [!NOTE] 
-> If you would like to use color with FormatCondition in Visual Basic, see [Interior.ColorIndex property (Excel)](excel.interior.colorindex.md).
+> If you would like to use color with **FormatCondition** in Visual Basic, see the [Interior.ColorIndex property (Excel)](excel.interior.colorindex.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

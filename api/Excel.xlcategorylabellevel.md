@@ -14,8 +14,6 @@ Specifies the category labels for the category label levels.
 
 ## Members
 
-
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCategoryLabelLevelAll** (default)|-1 (&HFFFFFFFF)|Set category labels to all category label levels w/in range on the chart.|
