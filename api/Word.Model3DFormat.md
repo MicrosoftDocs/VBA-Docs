@@ -12,6 +12,8 @@ localization_priority: Normal
 
 # Model3DFormat object (Word)
 
+Represents the properties of a 3D model shape.
+
 ## Methods
 
 - [IncrementRotationX](Word.Model3DFormat.IncrementRotationX.md)

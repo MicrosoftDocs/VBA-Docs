@@ -9,6 +9,8 @@ localization_priority: Normal
 
 # Model3DFormat object (Excel)
 
+Represents the properties of a 3D model shape.
+
 ## Methods
 
 - [IncrementRotationX](Excel.Model3DFormat.IncrementRotationX.md)

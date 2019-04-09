@@ -12,6 +12,7 @@ localization_priority: Normal
 
 # Model3DFormat object (PowerPoint)
 
+Represents the properties of a 3D model shape.
 
 ## Methods
 
