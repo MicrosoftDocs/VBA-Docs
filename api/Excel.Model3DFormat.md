@@ -18,6 +18,7 @@ localization_priority: Normal
 
 ## Properties
 
+- [Application](Excel.Model3DFormat.Application.md)
 - [AutoFit](Excel.Model3DFormat.AutoFit.md)
 - [CameraPositionX](Excel.Model3DFormat.CameraPositionX.md)
 - [CameraPositionY](Excel.Model3DFormat.CameraPositionY.md)
@@ -27,6 +28,7 @@ localization_priority: Normal
 - [LookAtPointX](Excel.Model3DFormat.LookAtPointX.md)
 - [LookAtPointY](Excel.Model3DFormat.LookAtPointY.md)
 - [LookAtPointZ](Excel.Model3DFormat.LookAtPointZ.md)
+- [Parent](Excel.Model3DFormat.Parent.md)
 - [RotationX](Excel.Model3DFormat.RotationX.md)
 - [RotationY](Excel.Model3DFormat.RotationY.md)
 - [RotationZ](Excel.Model3DFormat.RotationZ.md)

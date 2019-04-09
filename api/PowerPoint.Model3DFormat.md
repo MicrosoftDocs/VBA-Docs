@@ -22,15 +22,17 @@ localization_priority: Normal
 
 ## Properties
 
+- [Application](PowerPoint.Model3DFormat.Application.md)
 - [AutoFit](PowerPoint.Model3DFormat.AutoFit.md)
 - [CameraPositionX](PowerPoint.Model3DFormat.CameraPositionX.md)
 - [CameraPositionY](PowerPoint.Model3DFormat.CameraPositionY.md)
-- [CameraPositionZ](PowerPoint.Model3DFormat.CameraPositionZ.md)
+- [CameraPositionZ](PowerPoint.Model3DFormat.CameraPositionX.md)
 - [Creator](PowerPoint.Model3DFormat.Creator.md)
 - [FieldOfView](PowerPoint.Model3DFormat.FieldOfView.md)
 - [LookAtPointX](PowerPoint.Model3DFormat.LookAtPointX.md)
 - [LookAtPointY](PowerPoint.Model3DFormat.LookAtPointY.md)
 - [LookAtPointZ](PowerPoint.Model3DFormat.LookAtPointZ.md)
+- [Parent](PowerPoint.Model3DFormat.Parent.md)
 - [RotationX](PowerPoint.Model3DFormat.RotationX.md)
 - [RotationY](PowerPoint.Model3DFormat.RotationY.md)
 - [RotationZ](PowerPoint.Model3DFormat.RotationZ.md)
