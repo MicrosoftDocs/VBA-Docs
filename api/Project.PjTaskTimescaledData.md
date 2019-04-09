@@ -84,7 +84,7 @@ Contains constants that specify the type of field for task timescaled data in th
 |**pjTaskTimescaledBaseline8BudgetWork**|1233|Baseline8 Budget Work (task) field.|
 |**pjTaskTimescaledBaseline8Cost**|568|Baseline8 Cost (task) field.|
 |**pjTaskTimescaledBaseline8CumulativeWork**|1376|Baseline8 cumulative work (task) field.|
-|**pjTaskTimescaledBaseline4RemainingCumulativeWork**|1354|Baseline8 remaining cumulative work (task) field.|
+|**pjTaskTimescaledBaseline8RemainingCumulativeWork**|1354|Baseline8 remaining cumulative work (task) field.|
 |**pjTaskTimescaledBaseline8RemainingTasks**|1365|Baseline8 remaining tasks (task) field.|
 |**pjTaskTimescaledBaseline8Work**|569|Baseline8 Work (task) field.|
 |**pjTaskTimescaledBaseline9BudgetCost**|1241|Baseline9 Budget Cost (task) field.|
