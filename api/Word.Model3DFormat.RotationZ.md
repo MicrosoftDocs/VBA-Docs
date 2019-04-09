@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.RotationZ Property (Word)
+title: Model3DFormat.RotationZ property (Word)
 keywords: vbawd10.chm151584871
 f1_keywords:
 - vbawd10.chm151584871
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.RotationZ Property (Word)
+# Model3DFormat.RotationZ property (Word)
 
 Returns the z-angle of a 3D model object's rotation. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**RotationZ**
+_expression_.**RotationZ**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

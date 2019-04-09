@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.FieldOfView Property (Word)
+title: Model3DFormat.FieldOfView property (Word)
 keywords: vbawd10.chm151584872
 f1_keywords:
 - vbawd10.chm151584872
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.FieldOfView Property (Word)
+# Model3DFormat.FieldOfView property (Word)
 
 Returns the field-of-view angle of a 3D model object's camera, expressed in degrees. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**FieldOfView**
+_expression_.**FieldOfView**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

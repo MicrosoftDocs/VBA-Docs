@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.CameraPositionY Property (Word)
+title: Model3DFormat.CameraPositionY property (Word)
 keywords: vbawd10.chm151584874
 f1_keywords:
 - vbawd10.chm151584874
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.CameraPositionY Property (Word)
+# Model3DFormat.CameraPositionY property (Word)
 
 Returns the y-coordinate of a 3D model object's camera position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**CameraPositionY**
+_expression_.**CameraPositionY**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

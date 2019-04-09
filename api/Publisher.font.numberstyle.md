@@ -22,7 +22,7 @@ _expression_.  **NumberStyles**
  _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 
 
-## Return Value
+## Return value
 
  **[pbNumberStyles](Publisher.pbnumberstylestype.md)**
 

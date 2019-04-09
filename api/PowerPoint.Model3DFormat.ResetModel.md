@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.ResetModel Method (PowerPoint)
+title: Model3DFormat.ResetModel method (PowerPoint)
 keywords: vbapp10.chm743020
 f1_keywords:
 - vbapp10.chm743020
@@ -11,14 +11,14 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.ResetModel Method (PowerPoint)
+# Model3DFormat.ResetModel method (PowerPoint)
 
 Changes the rotation of the specified shape around the x-axis by the specified number of degrees. 
 
 
 ## Syntax
 
- _expression_.**ResetModel**( _ResetSize_ )
+_expression_.**ResetModel**( _ResetSize_ )
 
  _expression_ A variable that represents an [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 
@@ -38,7 +38,7 @@ Use the  **[ResetModel](PowerPoint.Model3DFormat.RotationX.md)** method to resto
 
 ## Example
 
-This example resets the properties of a 3D model on `myDocument` back to the settings the model had immediately after being first inserted into a document, and also resets the frame size to default dimensions.
+This example resets the properties of a 3D model on _myDocument_ back to the settings the model had immediately after being first inserted into a document, and also resets the frame size to default dimensions.
 
 
 ```vb

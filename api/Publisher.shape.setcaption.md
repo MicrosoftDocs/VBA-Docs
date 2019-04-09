@@ -27,7 +27,7 @@ _expression_.**SetCaption**(**_Style_**)
 |:-----|:-----|:-----|:-----|
 |Style|Required| **CaptionStyle**|Specifies the style of the caption.|
 
-## Return Value
+## Return value
 
  **SHAPE**
 

@@ -1,27 +1,26 @@
 ---
-title: Model3DFormat.IncrementRotationY Method (Excel)
+title: Model3DFormat.IncrementRotationY method (Excel)
 ms.prod: excel
 api_name:
 - Excel.Model3DFormat.IncrementRotationY
-ms.date: 04/01/2019
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
 
-# Model3DFormat.IncrementRotationY Method (Excel)
+# Model3DFormat.IncrementRotationY method (Excel)
 
 Changes the rotation of the specified shape around the y-axis by the specified number of degrees. 
 
 
 ## Syntax
 
- _expression_.**IncrementRotationY** ( _Increment_ )
+_expression_.**IncrementRotationY** (_Increment_)
 
- _expression_ A variable that represents an [Model3DFormat](./Excel.Model3DFormat.md) object.
+_expression_ A variable that represents a **[Model3DFormat](Excel.Model3DFormat.md)** object.
 
 
 ## Parameters
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -29,15 +28,14 @@ Changes the rotation of the specified shape around the y-axis by the specified n
 
 ## Remarks
 
-Use the  **[RotationY](Excel.Model3DFormat.RotationY.md)** property to set the absolute rotation of the shape around the y-axis.
+Use the **[RotationY](Excel.Model3DFormat.RotationY.md)** property to set the absolute rotation of the shape around the y-axis.
 
-To change the rotation of a model around the x-axis, use the  **[IncrementRotationX](Excel.Model3DFormat.IncrementRotationX.md)** method. To change the rotation around the z-axis, use the **[IncrementRotationZ](Excel.Shape.IncrementRotationZ.md)** method.
+To change the rotation of a model around the x-axis, use the **[IncrementRotationX](Excel.Model3DFormat.IncrementRotationX.md)** method. To change the rotation around the z-axis, use the **[IncrementRotationZ](Excel.Shape.IncrementRotationZ.md)** method.
 
 
 ## Example
 
-This example tilts a 3D model on `myDocument` by 10 degrees. Shape one must be a 3D model for this code to have any effect.
-
+This example tilts a 3D model on _myDocument_ by 10 degrees. Shape one must be a 3D model for this code to have any effect.
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1)
@@ -46,9 +44,6 @@ myDocument.Shapes(1).Model3D.IncrementRotationY 10
 ```
 
 
-## See also
 
-
-[Model3DFormat Object](Excel.Model3DFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

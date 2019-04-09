@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.LookAtPointX Property (Word)
+title: Model3DFormat.LookAtPointX property (Word)
 keywords: vbawd10.chm151584876
 f1_keywords:
 - vbawd10.chm151584876
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.LookAtPointX Property (Word)
+# Model3DFormat.LookAtPointX property (Word)
 
 Returns the x-coordinate of a 3D model object's camera look-at position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**LookAtPointX**
+_expression_.**LookAtPointX**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

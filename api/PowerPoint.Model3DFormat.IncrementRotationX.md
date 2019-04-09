@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.IncrementRotationX Method (PowerPoint)
+title: Model3DFormat.IncrementRotationX method (PowerPoint)
 keywords: vbapp10.chm743021
 f1_keywords:
 - vbapp10.chm743021
@@ -11,14 +11,14 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.IncrementRotationX Method (PowerPoint)
+# Model3DFormat.IncrementRotationX method (PowerPoint)
 
 Changes the rotation of the specified shape around the x-axis by the specified number of degrees. 
 
 
 ## Syntax
 
- _expression_.**IncrementRotationX** ( _Increment_ )
+_expression_.**IncrementRotationX** ( _Increment_ )
 
  _expression_ A variable that represents an [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 
@@ -40,7 +40,7 @@ To change the rotation of a model around the y-axis, use the  **[IncrementRotati
 
 ## Example
 
-This example tilts a 3D model on `myDocument` by 10 degrees. Shape one must be a 3D model for this code to have any effect.
+This example tilts a 3D model on _myDocument_ by 10 degrees. Shape one must be a 3D model for this code to have any effect.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.RotationX Property (PowerPoint)
+title: Model3DFormat.RotationX property (PowerPoint)
 keywords: vbapp10.chm743010
 f1_keywords:
 - vbapp10.chm743010
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.RotationX Property (PowerPoint)
+# Model3DFormat.RotationX property (PowerPoint)
 
 Returns the x-angle of a 3D model object's rotation. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**RotationX**
+_expression_.**RotationX**
 
  _expression_ A variable that represents a [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 

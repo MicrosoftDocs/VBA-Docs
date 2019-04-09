@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.RotationY Property (Word)
+title: Model3DFormat.RotationY property (Word)
 keywords: vbawd10.chm151584870
 f1_keywords:
 - vbawd10.chm151584870
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.RotationY Property (Word)
+# Model3DFormat.RotationY property (Word)
 
 Returns the y-angle of a 3D model object's rotation. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**RotationY**
+_expression_.**RotationY**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

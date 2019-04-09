@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.RotationZ Property (PowerPoint)
+title: Model3DFormat.RotationZ property (PowerPoint)
 keywords: vbapp10.chm743012
 f1_keywords:
 - vbapp10.chm743012
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.RotationZ Property (PowerPoint)
+# Model3DFormat.RotationZ property (PowerPoint)
 
 Returns the z-angle of a 3D model object's rotation. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**RotationZ**
+_expression_.**RotationZ**
 
  _expression_ A variable that represents a [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 

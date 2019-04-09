@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.ResetModel Method (Word)
+title: Model3DFormat.ResetModel method (Word)
 keywords: vbawd10.chm151584879
 f1_keywords:
 - vbawd10.chm151584879
@@ -11,14 +11,14 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.ResetModel Method (Word)
+# Model3DFormat.ResetModel method (Word)
 
 Changes the rotation of the specified shape around the x-axis by the specified number of degrees. 
 
 
 ## Syntax
 
- _expression_.**ResetModel** ( _ResetSize_ )
+_expression_.**ResetModel** ( _ResetSize_ )
 
  _expression_ A variable that represents an [Model3DFormat](./Word.Model3DFormat.md) object.
 
@@ -38,7 +38,7 @@ Use the  **[ResetModel](Word.Model3DFormat.RotationX.md)** method to restore 3D 
 
 ## Example
 
-This example resets the properties of a 3D model on `myDocument` back to the settings the model had immediately after being first inserted into a document, and also resets the frame size to default dimensions.
+This example resets the properties of a 3D model on _myDocument_ back to the settings the model had immediately after being first inserted into a document, and also resets the frame size to default dimensions.
 
 
 ```vb

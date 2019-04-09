@@ -93,7 +93,7 @@ End Sub
 
 <br/>
 
-Use _expression_.**Cells** (_row_, _column_), where _expression_ is an expression that returns a **Range** object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. The following example sets the formula for cell C5.
+Use_expression_.**Cells** (_row_, _column_), where _expression_ is an expression that returns a **Range** object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. The following example sets the formula for cell C5.
 
 ```vb
 Worksheets(1).Range("C5:C10").Cells(1, 1).Formula = "=Rand()"

@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.CameraPositionX Property (Word)
+title: Model3DFormat.CameraPositionX property (Word)
 keywords: vbawd10.chm151584873
 f1_keywords:
 - vbawd10.chm151584873
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.CameraPositionX Property (Word)
+# Model3DFormat.CameraPositionX property (Word)
 
 Returns the x-coordinate of a 3D model object's camera position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**CameraPositionX**
+_expression_.**CameraPositionX**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

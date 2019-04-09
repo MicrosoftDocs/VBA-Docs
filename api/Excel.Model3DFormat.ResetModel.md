@@ -1,28 +1,26 @@
 ---
-title: Model3DFormat.ResetModel Method (Excel)
+title: Model3DFormat.ResetModel method (Excel)
 ms.prod: excel
 api_name:
 - Excel.Model3DFormat.ResetModel
-ms.date: 04/01/2019
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
 
-# Model3DFormat.ResetModel Method (Excel)
+# Model3DFormat.ResetModel method (Excel)
 
 Changes the rotation of the specified shape around the x-axis by the specified number of degrees. 
 
 
 ## Syntax
 
- _expression_.**ResetModel** ( _ResetSize_ )
+_expression_.**ResetModel** (_ResetSize_)
 
- _expression_ A variable that represents an [Model3DFormat](./Excel.Model3DFormat.md) object.
+_expression_ A variable that represents a **[Model3DFormat](Excel.Model3DFormat.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -30,13 +28,14 @@ Changes the rotation of the specified shape around the x-axis by the specified n
 
 ## Remarks
 
-Use the  **[ResetModel](Excel.Model3DFormat.RotationX.md)** method to restore 3D model properties back to default settings.  Any camera settings, shape properties, light properties, and animation properties are set to the same values that are applied when a 3D model is first inserted into a document.  The size of the 3D model frame can also be conditionally changed if the parameter _ResetFrameSize_ is set to **True**.
+Use the **ResetModel** method to restore 3D model properties back to default settings. Any camera settings, shape properties, light properties, and animation properties are set to the same values that are applied when a 3D model is first inserted into a document. 
+
+The size of the 3D model frame can also be conditionally changed if the parameter _ResetFrameSize_ is set to **True**.
 
 
 ## Example
 
-This example resets the properties of a 3D model on `myDocument` back to the settings the model had immediately after being first inserted into a document, and also resets the frame size to default dimensions.
-
+This example resets the properties of a 3D model on _myDocument_ back to the settings that the model had immediately after being first inserted into a document, and also resets the frame size to default dimensions.
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1)
@@ -45,9 +44,6 @@ myDocument.Shapes(1).Model3D.ResetModel(**True**)
 ```
 
 
-## See also
 
-
-[Model3DFormat Object](Excel.Model3DFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

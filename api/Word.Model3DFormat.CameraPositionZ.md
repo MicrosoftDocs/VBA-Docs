@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.CameraPositionZ Property (Word)
+title: Model3DFormat.CameraPositionZ property (Word)
 keywords: vbawd10.chm151584875
 f1_keywords:
 - vbawd10.chm151584875
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.CameraPositionZ Property (Word)
+# Model3DFormat.CameraPositionZ property (Word)
 
 Returns the z-coordinate of a 3D model object's camera position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**CameraPositionZ**
+_expression_.**CameraPositionZ**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

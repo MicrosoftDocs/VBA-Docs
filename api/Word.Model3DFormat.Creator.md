@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.Creator Property (Word)
+title: Model3DFormat.Creator property (Word)
 keywords: vbawd10.chm151585769
 f1_keywords:
 - vbawd10.chm151585769
@@ -11,7 +11,7 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.Creator Property (Word)
+# Model3DFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only.
 
@@ -23,7 +23,7 @@ Long
 
 ## Syntax
 
- _expression_.**Creator**
+_expression_.**Creator**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

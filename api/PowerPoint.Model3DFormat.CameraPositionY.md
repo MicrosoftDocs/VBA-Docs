@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.CameraPositionY Property (PowerPoint)
+title: Model3DFormat.CameraPositionY property (PowerPoint)
 keywords: vbapp10.chm743015
 f1_keywords:
 - vbapp10.chm743015
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.CameraPositionY Property (PowerPoint)
+# Model3DFormat.CameraPositionY property (PowerPoint)
 
 Returns the y-coordinate of a 3D model object's camera position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**CameraPositionY**
+_expression_.**CameraPositionY**
 
  _expression_ A variable that represents a [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 

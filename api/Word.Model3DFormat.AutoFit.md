@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.AutoFit Property (Word)
+title: Model3DFormat.AutoFit property (Word)
 keywords: vbawd10.chm151584868
 f1_keywords:
 - vbawd10.chm151584868
@@ -11,13 +11,13 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.AutoFit Property (Word)
+# Model3DFormat.AutoFit property (Word)
 
 Returns whether AutoFit is enabled for the model. Read/write.
 
 ## Syntax
 
- _expression_.**AutoFit**
+_expression_.**AutoFit**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

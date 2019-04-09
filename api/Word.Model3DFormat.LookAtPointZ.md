@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.LookAtPointZ Property (Word)
+title: Model3DFormat.LookAtPointZ property (Word)
 keywords: vbawd10.chm151584878
 f1_keywords:
 - vbawd10.chm151584878
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.LookAtPointZ Property (Word)
+# Model3DFormat.LookAtPointZ property (Word)
 
 Returns the z-coordinate of a 3D model object's camera look-at position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**LookAtPointZ**
+_expression_.**LookAtPointZ**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.FieldOfView Property (PowerPoint)
+title: Model3DFormat.FieldOfView property (PowerPoint)
 keywords: vbapp10.chm743013
 f1_keywords:
 - vbapp10.chm743013
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.FieldOfView Property (PowerPoint)
+# Model3DFormat.FieldOfView property (PowerPoint)
 
 Returns the field-of-view angle of a 3D model object's camera, expressed in degrees. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**FieldOfView**
+_expression_.**FieldOfView**
 
  _expression_ A variable that represents a [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 

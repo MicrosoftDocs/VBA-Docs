@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.LookAtPointZ Property (PowerPoint)
+title: Model3DFormat.LookAtPointZ property (PowerPoint)
 keywords: vbapp10.chm743019
 f1_keywords:
 - vbapp10.chm743019
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.LookAtPointZ Property (PowerPoint)
+# Model3DFormat.LookAtPointZ property (PowerPoint)
 
 Returns the z-coordinate of a 3D model object's camera look-at position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**LookAtPointZ**
+_expression_.**LookAtPointZ**
 
  _expression_ A variable that represents a [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.LookAtPointY Property (PowerPoint)
+title: Model3DFormat.LookAtPointY property (PowerPoint)
 keywords: vbapp10.chm743018
 f1_keywords:
 - vbapp10.chm743018
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.LookAtPointY Property (PowerPoint)
+# Model3DFormat.LookAtPointY property (PowerPoint)
 
 Returns the y-coordinate of a 3D model object's camera look-at position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**LookAtPointY**
+_expression_.**LookAtPointY**
 
  _expression_ A variable that represents a [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 

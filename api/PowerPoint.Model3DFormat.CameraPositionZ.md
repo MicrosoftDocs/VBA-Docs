@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.CameraPositionZ Property (PowerPoint)
+title: Model3DFormat.CameraPositionZ property (PowerPoint)
 keywords: vbapp10.chm743016
 f1_keywords:
 - vbapp10.chm743016
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.CameraPositionZ Property (PowerPoint)
+# Model3DFormat.CameraPositionZ property (PowerPoint)
 
 Returns the z-coordinate of a 3D model object's camera position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**CameraPositionZ**
+_expression_.**CameraPositionZ**
 
  _expression_ A variable that represents a [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 

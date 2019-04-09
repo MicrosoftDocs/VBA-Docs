@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.AutoFit Property (PowerPoint)
+title: Model3DFormat.AutoFit property (PowerPoint)
 keywords: vbapp10.chm743009
 f1_keywords:
 - vbapp10.chm743009
@@ -11,13 +11,13 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.AutoFit Property (PowerPoint)
+# Model3DFormat.AutoFit property (PowerPoint)
 
 Returns whether AutoFit is enabled for the model. Read/write.
 
 ## Syntax
 
- _expression_.**AutoFit**
+_expression_.**AutoFit**
 
  _expression_ A variable that represents a [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.Add3DModel Method (PowerPoint)
+title: Shapes.Add3DModel method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Add3DModel
@@ -8,14 +8,14 @@ localization_priority: Priority
 ---
 
 
-# Shapes.Add3DModel Method (PowerPoint)
+# Shapes.Add3DModel method (PowerPoint)
 
 Creates a 3D model object from an existing file. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new 3D model.
 
 
 ## Syntax
 
- _expression_.**Add3DModel** ( _FileName_, _LinkToFile_, _SaveWithDocument_, _Left_, _Top_, _Width_, _Height_ )
+_expression_.**Add3DModel** ( _FileName_, _LinkToFile_, _SaveWithDocument_, _Left_, _Top_, _Width_, _Height_ )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.LookAtPointX Property (PowerPoint)
+title: Model3DFormat.LookAtPointX property (PowerPoint)
 keywords: vbapp10.chm743017
 f1_keywords:
 - vbapp10.chm743017
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.LookAtPointX Property (PowerPoint)
+# Model3DFormat.LookAtPointX property (PowerPoint)
 
 Returns the x-coordinate of a 3D model object's camera look-at position. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**LookAtPointX**
+_expression_.**LookAtPointX**
 
  _expression_ A variable that represents a [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
 

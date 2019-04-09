@@ -1,5 +1,5 @@
 ---
-title: Model3DFormat.RotationX Property (Word)
+title: Model3DFormat.RotationX property (Word)
 keywords: vbawd10.chm151584869
 f1_keywords:
 - vbawd10.chm151584869
@@ -11,19 +11,19 @@ localization_priority: Normal
 ---
 
 
-# Model3DFormat.RotationX Property (Word)
+# Model3DFormat.RotationX property (Word)
 
 Returns the x-angle of a 3D model object's rotation. Read/write.
 
 
-## Return Value
+## Return value
 
 Single
 
 
 ## Syntax
 
- _expression_.**RotationX**
+_expression_.**RotationX**
 
  _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
 
