@@ -7,18 +7,18 @@ ms.prod: excel
 api_name:
 - Excel.AutoScaling
 ms.assetid: f132291c-e356-eea5-0ef5-0e4def8d4832
-ms.date: 06/08/2017
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
 
 # AutoScaling property (Excel Graph)
 
-**True** if Graph scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The RightAngleAxes property must be True. Read/write **Boolean**.
+**True** if Graph scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The **RightAngleAxes** property must be **True**. Read/write **Boolean**.
 
 ## Syntax
 
-_expression_. `AutoScaling`
+_expression_.**AutoScaling**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
@@ -26,7 +26,6 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 ## Example
 
 This example automatically scales the chart. The example should be run on a 3-D chart.
-
 
 ```vb
 With myChart 

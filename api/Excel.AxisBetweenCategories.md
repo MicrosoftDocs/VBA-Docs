@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AxisBetweenCategories
 ms.assetid: 4ca52b75-036d-0851-c3cd-aa2deca0907e
-ms.date: 06/08/2017
+ms.date: 04/09/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `AxisBetweenCategories`
+_expression_.**AxisBetweenCategories**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
@@ -31,7 +31,6 @@ This property applies only to category axes, and it doesn't apply to 3-D charts.
 ## Example
 
 This example causes the value axis to cross the category axis between categories.
-
 
 ```vb
 myChart.Axes(xlCategory).AxisBetweenCategories = True
