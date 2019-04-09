@@ -20,10 +20,7 @@ Contains constants that specify the type of template to apply for a report layou
 |**pjReportLayoutTitleAndChart**|1|Apply a report template with a title and a chart.|
 |**pjReportLayoutTitleAndTable**|2|Apply a report template with a title and a table.|
 |**pjReportLayoutTitleOnly**|0|Apply a report template with a title only.|
-|**pjReportLayoutComparison**|**3**||
-|**pjReportLayoutTitleAndChart**|**1**||
-|**pjReportLayoutTitleAndTable**|**2**||
-|**pjReportLayoutTitleOnly**|**0**||
+
 
 ## Remarks
 
