@@ -21,8 +21,6 @@ Specifies the reason why protected view is being closed.
 |**ppProtectedViewCloseNormal**|0|Protected view is being closed normally.|
 |**ppProtectedViewCloseEdit**|1|Protected view is being closed so that the presentation can be edited.|
 |**ppProtectedViewCloseForced**|2|Protected view is forced closed.|
-|**ppProtectedViewCloseEdit**|**1**||
-|**ppProtectedViewCloseForced**|**2**||
-|**ppProtectedViewCloseNormal**|**0**||
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
