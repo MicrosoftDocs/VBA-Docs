@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FileName_|Required| **String**|The file from which the OLE object is to be created.|
+| _FileName_|Required| **String**|The file from which the picture is to be created.|
 | _LinkToFile_|Required| **[MsoTriState](Office.MsoTriState.md)**| The file to link to.|
 | _SaveWithDocument_|Required| **[MsoTriState](Office.MsoTriState.md)**|To save the picture with the document.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the picture relative to the upper-left corner of the document.|

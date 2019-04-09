@@ -160,6 +160,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 |[LockAspectRatio](./PowerPoint.ShapeRange.LockAspectRatio.md)|
 |[MediaFormat](./PowerPoint.ShapeRange.MediaFormat.md)|
 |[MediaType](./PowerPoint.ShapeRange.MediaType.md)|
+|[Model3D](./PowerPoint.ShapeRange.Model3D.md)|
 |[Name](./PowerPoint.ShapeRange.Name.md)|
 |[Nodes](./PowerPoint.ShapeRange.Nodes.md)|
 |[OLEFormat](./PowerPoint.ShapeRange.OLEFormat.md)|

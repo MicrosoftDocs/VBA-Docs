@@ -130,6 +130,7 @@ The recorder always uses the  **ShapeRange** property when recording shapes.
 |[Line](Word.ShapeRange.Line.md)|
 |[LockAnchor](Word.ShapeRange.LockAnchor.md)|
 |[LockAspectRatio](Word.ShapeRange.LockAspectRatio.md)|
+|[Model3D](Word.ShapeRange.Model3D.md)|
 |[Name](Word.ShapeRange.Name.md)|
 |[Nodes](Word.ShapeRange.Nodes.md)|
 |[Parent](Word.ShapeRange.Parent.md)|

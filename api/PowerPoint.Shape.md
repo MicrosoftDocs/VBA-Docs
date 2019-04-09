@@ -78,7 +78,7 @@ With myDocument.Shapes.AddShape(Type:=msoShapeRectangle, _
 End With
 ```
 
-To add a shape to a slide and return a  **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection:[AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), [AddTitle](./PowerPoint.Shapes.AddTitle.md).
+To add a shape to a slide and return a  **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection:[Add3DModel](./PowerPoint.Shapes.Add3DModel.md), [AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), [AddTitle](./PowerPoint.Shapes.AddTitle.md).
 
 Use  **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape within the selection. The following example sets the fill for the first shape in the selection in the active window, assuming that there's at least one shape in the selection.
 
@@ -194,6 +194,7 @@ Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.Shap
 |[LockAspectRatio](./PowerPoint.Shape.LockAspectRatio.md)|
 |[MediaFormat](./PowerPoint.Shape.MediaFormat.md)|
 |[MediaType](./PowerPoint.Shape.MediaType.md)|
+|[Model3D](./PowerPoint.Shape.Model3D.md)|
 |[Name](./PowerPoint.Shape.Name.md)|
 |[Nodes](./PowerPoint.Shape.Nodes.md)|
 |[OLEFormat](./PowerPoint.Shape.OLEFormat.md)|
