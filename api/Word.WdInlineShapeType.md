@@ -17,10 +17,12 @@ Specifies a shape type for inline shapes.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
+| **wdInlineShape3DModel**|19|3D Model.|
 | **wdInlineShapeChart**|12|Inline chart.|
 | **wdInlineShapeDiagram**|13|Inline diagram.|
 | **wdInlineShapeEmbeddedOLEObject**|1|Embedded OLE object.|
 | **wdInlineShapeHorizontalLine**|6|Horizontal line.|
+| **wdInlineShapeLinked3DModel**|20|Linked 3D Model.|
 | **wdInlineShapeLinkedOLEObject**|2|Linked OLE object.|
 | **wdInlineShapeLinkedPicture**|4|Linked picture.|
 | **wdInlineShapeLinkedPictureHorizontalLine**|8|Linked picture with horizontal line.|

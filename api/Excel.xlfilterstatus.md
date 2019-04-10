@@ -21,6 +21,6 @@ Used to return a status from filter functions.
 | **xlFilterStatusOK**|0|Signifies OK or successful.|
 | **xlFilterStatusDateWrongOrder**|1|SetFilterDateRange(?): StartDate > EndDate|
 | **xlFilterStatusDateHasTime**|2|SetFilterDateRange(?): StartDate or EndDate have a time portion.|
-| **xlFilterStatusInvalidDate** ****|3|SetFilterDateRange(?): StartDate or EndDate are not valid dates.|
+| **xlFilterStatusInvalidDate**|3|SetFilterDateRange(?): StartDate or EndDate are not valid dates.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

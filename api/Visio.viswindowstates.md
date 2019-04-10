@@ -27,10 +27,10 @@ Window-state codes passed to and returned by the  **Window.WindowState** propert
 | **visWSAnchorTop**|&H40|Window is anchored at the top.|
 | **visWSDockedBottom**|&H8|Window is docked at the bottom. Not used for the Shapes window in Visio|
 | **visWSDockedLeft**|&H1|Window is docked at the left.|
-| **visWSDockedRight**|&H2|Window is docked at the right.|
-| **visWSDockedTop**|&H10|Window is docked at the top. Not used for the Shapes window in Visio.|
-| **visWSFloating**|&H40000000|Window is floating.|
-| **visWSMaximized**||Window is maximized.|
+| **visWSDockedRight**|&H4|Window is docked at the right.|
+| **visWSDockedTop**|&H2|Window is docked at the top. Not used for the Shapes window in Visio.|
+| **visWSFloating**|&H10|Window is floating.|
+| **visWSMaximized**|&H40000000|Window is maximized.|
 | **visWSMinimized**|&H20000000|Window is minimized.|
 | **visWSNone**|&H0|No window state.|
 | **visWSRestored**|&H10000000|Window is restored.|

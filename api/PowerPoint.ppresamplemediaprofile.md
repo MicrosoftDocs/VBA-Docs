@@ -22,9 +22,6 @@ Specifies the media mobilization profile for a media asset.
 |**ppResampleMediaProfileSmall**|2|Small profile|
 |**ppResampleMediaProfileSmaller**|3|Smaller profile|
 |**ppResampleMediaProfileSmallest**|4|Smallest profile|
-|**ppResampleMediaProfileCustom**|**1**||
-|**ppResampleMediaProfileSmall**|**2**||
-|**ppResampleMediaProfileSmaller**|**3**||
-|**ppResampleMediaProfileSmallest**|**4**||
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

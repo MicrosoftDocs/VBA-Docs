@@ -7,15 +7,20 @@ ms.prod: excel
 api_name:
 - Excel.DisplayUnitCustom
 ms.assetid: 18e2e0ae-13a9-3e45-6c93-90946ad98ebc
-ms.date: 06/08/2017
+ms.date: 04/10/2019
 localization_priority: Normal
 ---
 
 
 # DisplayUnitCustom property (Excel Graph)
 
-If the value returned or set by the  **[DisplayUnit](Excel.DisplayUnit.md)** property is  **xlCustom**, the  **DisplayUnitCustom** property returns or sets the value of the units displayed for the value axis in the specified chart. The value must be a number from 0 through 10E307. Read/write **Double**.
+If the value returned or set by the **[DisplayUnit](Excel.DisplayUnit.md)** property is **xlCustom**, the **DisplayUnitCustom** property returns or sets the value of the units displayed for the value axis in the specified chart. The value must be a number from 0 through 10E307. Read/write **Double**.
 
+## Syntax
+
+_expression_.**DisplayUnitCustom**
+
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 
@@ -24,8 +29,7 @@ Using unit labels for the value axis when charting large values makes the increm
 
 ## Example
 
-This example sets the units displayed on the value axis in myChart to increments of 500.
-
+This example sets the units displayed on the value axis in _myChart_ to increments of 500.
 
 ```vb
 With myChart.Axes(xlValue) 

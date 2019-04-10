@@ -62,7 +62,7 @@ Specifies a compatibility option.
 | **wdTruncateFontHeight**|24|Truncate font height.|
 | **wdUsePrinterMetrics**|26|Use printer metrics to lay out document.|
 | **wdUseWord2002TableStyleRules**|49|Use Microsoft Word 2002 table style rules.|
-| **wdUseWord2010TableStyleRules**||Use Microsoft Word 2010 table style rules.|
+| **wdUseWord2010TableStyleRules**|69|Use Microsoft Word 2010 table style rules.|
 | **wdUseWord97LineBreakingRules**|42|Use Microsoft Word 97 line breaking rules for Asian text.|
 | **wdWPJustification**|31|Do full justification like WordPerfect 6.x for Windows.|
 | **wdWPSpaceWidth**|30|Set the width of a space like WordPerfect 5.x.|

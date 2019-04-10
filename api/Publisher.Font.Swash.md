@@ -24,7 +24,7 @@ _expression_.**Swash**
  _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 
 
-## Return Value
+## Return value
 
  **MsoTriState**
 

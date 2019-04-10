@@ -116,6 +116,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor.RGB = _
 - [Left](Excel.ShapeRange.Left.md)
 - [Line](Excel.ShapeRange.Line.md)
 - [LockAspectRatio](Excel.ShapeRange.LockAspectRatio.md)
+- [Model3D](Excel.ShapeRange.Model3D.md)
 - [Name](Excel.ShapeRange.Name.md)
 - [Nodes](Excel.ShapeRange.Nodes.md)
 - [Parent](Excel.ShapeRange.Parent.md)

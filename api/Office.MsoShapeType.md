@@ -17,6 +17,7 @@ Specifies the type of a shape or range of shapes.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
+|**mso3DModel**|30|3D model|
 |**msoAutoShape**|1|AutoShape |
 |**msoCallout**|2|Callout |
 |**msoCanvas**|20|Canvas |
@@ -33,6 +34,7 @@ Specifies the type of a shape or range of shapes.
 |**msoInk**|22|Ink|
 |**msoInkComment**|23|Ink comment|
 |**msoLine**|9|Line|
+|**msoLinked3DModel**|31|Linked 3D model|
 |**msoLinkedGraphic**|29|Linked graphic|
 |**msoLinkedOLEObject**|10|Linked OLE object|
 |**msoLinkedPicture**|11|Linked picture|

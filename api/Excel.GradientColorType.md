@@ -7,31 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.GradientColorType
 ms.assetid: 78a2bd69-e8a5-1c43-4c75-9715de4202c0
-ms.date: 06/08/2017
+ms.date: 04/10/2019
 localization_priority: Normal
 ---
 
 
 # GradientColorType property (Excel Graph)
 
-Returns the gradient color type for the specified fill. Read-only MsoGradientColorType .
+Returns the gradient color type for the specified fill. Read-only **[MsoGradientColorType](office.msogradientcolortype.md)**.
 
+## Syntax
 
-
-|MsoGradientColorType can be one of these MsoGradientColorType constants.|
-| **msoGradientColorMixed**|
-| **msoGradientOneColor**|
-| **msoGradientPresetColors**|
-| **msoGradientTwoColors**|
-
-_expression_. `GradientColorType`
+_expression_.**GradientColorType**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 
 This example sets the fill format for the chart if its chart area has a one-color gradient fill.
-
 
 ```vb
 With myChart.ChartArea.Fill 

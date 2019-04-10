@@ -40,7 +40,7 @@ String
 
 You use the **HyperlinkPart** method to return one of three values from a **Hyperlink** field or the displayed value. The value returned depends on the setting of the _part_ argument. 
 
-The _part_ argument is optional. If it's not used, the function returns the value Microsoft Access displays for the hyperlink (which corresponds to the **acDisplayedValue** setting for the _part_ argument). The returned values can be one of the four parts of the **Hyperlink** field ( _displaytext_,  _address_,  _subaddress_, or  _screentip_), the full address,  _address_# _subaddress_, or the value Microsoft Access displays for the hyperlink.
+The _part_ argument is optional. If it's not used, the function returns the value Microsoft Access displays for the hyperlink (which corresponds to the **acDisplayedValue** setting for the _part_ argument). The returned values can be one of the four parts of the **Hyperlink** field (_displaytext_,  _address_,  _subaddress_, or  _screentip_), the full address,  _address_# _subaddress_, or the value Microsoft Access displays for the hyperlink.
 
 > [!NOTE] 
 > If you use the **HyperlinkPart** method in a query, the _part_ argument is required, and you can't use the constants listed above but must use the actual value instead.

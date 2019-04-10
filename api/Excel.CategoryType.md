@@ -7,27 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.CategoryType
 ms.assetid: 6af3b261-abed-a78a-5952-645af07cde9d
-ms.date: 06/08/2017
+ms.date: 04/10/2019
 localization_priority: Normal
 ---
 
 
 # CategoryType property (Excel Graph)
 
-Returns or sets the category axis type. Read/write XlCategoryType .
-
-
-
-|XlCategoryType can be one of these XlCategoryType constants.|
-| **xlCategoryScale**|
-| **xlAutomaticScale**|
-| **xlTimeScale**|
+Returns or sets the category axis type. Read/write **[XlCategoryType](excel.xlcategorytype.md)**.
 
 ## Syntax
 
 _expression_.**CategoryType**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+
 
 ## Remarks
 
@@ -37,7 +31,6 @@ You cannot set this property for a value axis.
 ## Example
 
 This example sets the category axis on the chart to use a time scale, with months as the base unit.
-
 
 ```vb
 With myChart 

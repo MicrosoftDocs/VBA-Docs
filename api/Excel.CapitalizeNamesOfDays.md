@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CapitalizeNamesOfDays
 ms.assetid: dbac8451-a2ac-5e29-b6c9-afa9cfaec469
-ms.date: 06/08/2017
+ms.date: 04/10/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `CapitalizeNamesOfDays`
+_expression_.**CapitalizeNamesOfDays**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
@@ -26,7 +26,6 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 ## Example
 
 This example sets Graph to capitalize the first letter of the names of days.
-
 
 ```vb
 With myChart.Application.AutoCorrect 

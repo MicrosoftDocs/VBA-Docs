@@ -7,15 +7,20 @@ ms.prod: excel
 api_name:
 - Excel.Elevation
 ms.assetid: 5158f5d5-6900-f453-c4bc-7b52a1e42110
-ms.date: 06/08/2017
+ms.date: 04/10/2019
 localization_priority: Normal
 ---
 
 
 # Elevation property (Excel Graph)
 
-Returns or sets the elevation of the 3-D chart view, in degrees. Read/write  **Long**.
+Returns or sets the elevation of the 3-D chart view, in degrees. Read/write **Long**.
 
+## Syntax
+
+_expression_.**Elevation**
+
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 
@@ -24,8 +29,7 @@ The chart elevation is the height at which you view the chart, in degrees. The d
 
 ## Example
 
-This example sets the chart elevation to 34 degrees. The example should be run on a 3-D chart (the  **Elevation** property fails on 2-D charts).
-
+This example sets the chart elevation to 34 degrees. The example should be run on a 3-D chart (the **Elevation** property fails on 2-D charts).
 
 ```vb
 myChart.Elevation = 34

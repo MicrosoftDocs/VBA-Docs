@@ -19,8 +19,8 @@ Represents an object in the drawing layer, such as an AutoShape, freeform, OLE o
 
 ## Remarks
 
-
- **Note**  There are three objects that represent shapes: the  **Shapes** collection, which represents all the shapes on a document; the **[ShapeRange](./PowerPoint.ShapeRange.md)** collection, which represents a specified subset of the shapes on a document (for example, a **ShapeRange** object could represent shapes one and four on the document, or it could represent all the selected shapes on the document); the **Shape** object, which represents a single shape on a document. If you want to work with several shape at the same time or with shapes within the selection, use a **ShapeRange** collection. For an overview of how to work with either a single shape or with more than one shape at a time, see [How to: Work with Shapes (Drawing Objects)](../powerpoint/How-to/work-with-shapes-drawing-objects.md).
+> [!NOTE] 
+> There are three objects that represent shapes: the **Shapes** collection, which represents all the shapes on a document; the **[ShapeRange](./PowerPoint.ShapeRange.md)** collection, which represents a specified subset of the shapes on a document (for example, a **ShapeRange** object could represent shapes one and four on the document, or it could represent all the selected shapes on the document); the **Shape** object, which represents a single shape on a document. If you want to work with several shape at the same time or with shapes within the selection, use a **ShapeRange** collection. For an overview of how to work with either a single shape or with more than one shape at a time, see [How to: Work with Shapes (Drawing Objects)](../powerpoint/How-to/work-with-shapes-drawing-objects.md).
 
 The following examples describe how to:
 
@@ -46,7 +46,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Shapes** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape on a slide. The following example horizontally flips shape one and the shape named Rectangle 1 on myDocument.
+Use **Shapes** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape on a slide. The following example horizontally flips shape one and the shape named Rectangle 1 on myDocument.
 
 
 ```vb
@@ -57,7 +57,7 @@ myDocument.Shapes(1).Flip msoFlipHorizontal
 myDocument.Shapes("Rectangle 1").Flip msoFlipHorizontal
 ```
 
-Each shape is assigned a default name when you add it to the  **Shapes** collection. To give the shape a more meaningful name, use the **Name** property. The following example adds a rectangle to myDocument, gives it the name Red Square, and then sets its foreground color and line style.
+Each shape is assigned a default name when you add it to the **Shapes** collection. To give the shape a more meaningful name, use the **Name** property. The following example adds a rectangle to myDocument, gives it the name Red Square, and then sets its foreground color and line style.
 
 
 
@@ -78,9 +78,9 @@ With myDocument.Shapes.AddShape(Type:=msoShapeRectangle, _
 End With
 ```
 
-To add a shape to a slide and return a  **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection:[AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), [AddTitle](./PowerPoint.Shapes.AddTitle.md).
+To add a shape to a slide and return a **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection:[Add3DModel](./PowerPoint.Shapes.Add3DModel.md), [AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), [AddTitle](./PowerPoint.Shapes.AddTitle.md).
 
-Use  **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape within the selection. The following example sets the fill for the first shape in the selection in the active window, assuming that there's at least one shape in the selection.
+Use **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape within the selection. The following example sets the fill for the first shape in the selection in the active window, assuming that there's at least one shape in the selection.
 
 
 
@@ -91,7 +91,7 @@ ActiveWindow.Selection.ShapeRange(1).Fill _
     .ForeColor.RGB = RGB(255, 0, 0)
 ```
 
-Use  **Shapes.Title** to return a **Shape** object that represents an existing slide title. Use **Shapes.AddTitle** to add a title to a slide that doesn't already have one and return a **Shape** object that represents the newly created title. Use **Shapes.Placeholders** (index), where index is the placeholder's index number, to return a **Shape** object that represents a placeholder. If you have not changed the layering order of the shapes on a slide, the following three statements are equivalent, assuming that slide one has a title.
+Use **Shapes.Title** to return a **Shape** object that represents an existing slide title. Use **Shapes.AddTitle** to add a title to a slide that doesn't already have one and return a **Shape** object that represents the newly created title. Use **Shapes.Placeholders** (index), where index is the placeholder's index number, to return a **Shape** object that represents a placeholder. If you have not changed the layering order of the shapes on a slide, the following three statements are equivalent, assuming that slide one has a title.
 
 
 
@@ -110,19 +110,19 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame _
     .TextRange.Font.Italic = True
 ```
 
-To return a  **Shape** object that represents one of the shapes attached by a connector, use the [BeginConnectedShape](./PowerPoint.ConnectorFormat.BeginConnectedShape.md) or [EndConnectedShape](./PowerPoint.ConnectorFormat.EndConnectedShape.md)property.
+To return a **Shape** object that represents one of the shapes attached by a connector, use the [BeginConnectedShape](./PowerPoint.ConnectorFormat.BeginConnectedShape.md) or [EndConnectedShape](./PowerPoint.ConnectorFormat.EndConnectedShape.md)property.
 
 
 
-To return a  **Shape** object that represents the default shape for a presentation, use the [DefaultShape](./PowerPoint.Presentation.DefaultShape.md)property.
+To return a **Shape** object that represents the default shape for a presentation, use the [DefaultShape](./PowerPoint.Presentation.DefaultShape.md)property.
 
 
 
-Use the [BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)and [AddNodes](./PowerPoint.FreeformBuilder.AddNodes.md)methods to define the geometry of a new freeform, and use the [ConvertToShape](./PowerPoint.FreeformBuilder.ConvertToShape.md)method to create the freeform and return the  **Shape** object that represents it.
+Use the [BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)and [AddNodes](./PowerPoint.FreeformBuilder.AddNodes.md)methods to define the geometry of a new freeform, and use the [ConvertToShape](./PowerPoint.FreeformBuilder.ConvertToShape.md)method to create the freeform and return the **Shape** object that represents it.
 
-Use  **GroupItems** (index), where index is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape.
+Use **GroupItems** (index), where index is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape.
 
-Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.ShapeRange.Regroup.md)method to group a range of shapes and return a single  **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape.
+Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.ShapeRange.Regroup.md)method to group a range of shapes and return a single **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape.
 
 
 ## Methods
@@ -194,6 +194,7 @@ Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.Shap
 |[LockAspectRatio](./PowerPoint.Shape.LockAspectRatio.md)|
 |[MediaFormat](./PowerPoint.Shape.MediaFormat.md)|
 |[MediaType](./PowerPoint.Shape.MediaType.md)|
+|[Model3D](./PowerPoint.Shape.Model3D.md)|
 |[Name](./PowerPoint.Shape.Name.md)|
 |[Nodes](./PowerPoint.Shape.Nodes.md)|
 |[OLEFormat](./PowerPoint.Shape.OLEFormat.md)|
