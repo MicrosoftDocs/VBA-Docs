@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Model3DFormat](Excel.Model3DFormat.
 
 Use the **[RotationZ](Excel.Model3DFormat.RotationZ.md)** property to set the absolute rotation of the shape around the z-axis.
 
-To change the rotation of a model around the x-axis, use the **[IncrementRotationX](Excel.Model3DFormat.IncrementRotationX.md)** method. To change the rotation around the y-axis, use the **[IncrementRotationY](Excel.Shape.IncrementRotationY.md)** method.
+To change the rotation of a model around the x-axis, use the **[IncrementRotationX](Excel.Model3DFormat.IncrementRotationX.md)** method. To change the rotation around the y-axis, use the **[IncrementRotationY](Excel.Model3DFormat.IncrementRotationY.md)** method.
 
 
 ## Example

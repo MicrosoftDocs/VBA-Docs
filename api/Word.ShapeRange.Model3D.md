@@ -11,21 +11,18 @@ localization_priority: Normal
 ---
 
 
-# Shape.ShapeRange property (Word)
+# ShapeRange.Model3D property (Word)
 
-Returns a  **[Model3D](Word.Model3DFormat.md)** object that contains Model3D properties. Read-only.
+Returns a **[Model3DFormat](Word.Model3DFormat.md)** object that contains Model3D properties. Read-only.
 
 
 ## Syntax
 
 _expression_.**Model3D**
 
-_expression_ A variable that represents a [ShapeRange](./Word.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Word.ShapeRange.md)** object.
 
 
-## See also
 
-
-[ShapeRange Object](Word.ShapeRange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

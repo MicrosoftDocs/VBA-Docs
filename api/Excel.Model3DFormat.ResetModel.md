@@ -40,7 +40,7 @@ This example resets the properties of a 3D model on _myDocument_ back to the set
 ```vb
 Set myDocument = ActivePresentation.Slides(1)
 
-myDocument.Shapes(1).Model3D.ResetModel(**True**)
+myDocument.Shapes(1).Model3D.ResetModel(True)
 ```
 
 

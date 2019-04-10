@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: word
 api_name:
 - Word.Model3DFormat.LookAtPointY
-ms.date: 04/01/2019
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
@@ -16,26 +16,23 @@ localization_priority: Normal
 Returns the y-coordinate of a 3D model object's camera look-at position. Read/write.
 
 
-## Return value
-
-Single
-
-
 ## Syntax
 
 _expression_.**LookAtPointY**
 
- _expression_ A variable that represents a [Model3DFormat](./Word.Model3DFormat.md) object.
+_expression_ A variable that represents a **[Model3DFormat](Word.Model3DFormat.md)** object.
 
+
+
+## Return value
+
+Single
 
 ## Remarks
 
-A 3D model always has a single camera, with a position, look-at point, and field-of-view.  Together, these properties all control how the model image is captured and displayed on the document.
+A 3D model always has a single camera, with a position, look-at point, and field-of-view. Together, these properties all control how the model image is captured and displayed in the document.
 
 
-## See also
 
-
-[Model3DFormat Object](Word.Model3DFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

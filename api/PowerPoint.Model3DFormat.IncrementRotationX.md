@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.IncrementRotationX
-ms.date: 04/01/2019
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
@@ -18,14 +18,12 @@ Changes the rotation of the specified shape around the x-axis by the specified n
 
 ## Syntax
 
-_expression_.**IncrementRotationX** ( _Increment_ )
+_expression_.**IncrementRotationX** (_Increment_)
 
- _expression_ A variable that represents an [Model3DFormat](./PowerPoint.Model3DFormat.md) object.
+_expression_ A variable that represents a **[Model3DFormat](PowerPoint.Model3DFormat.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,9 +31,9 @@ _expression_.**IncrementRotationX** ( _Increment_ )
 
 ## Remarks
 
-Use the  **[RotationX](PowerPoint.Model3DFormat.RotationX.md)** property to set the absolute rotation of the shape around the x-axis.
+Use the **[RotationX](PowerPoint.Model3DFormat.RotationX.md)** property to set the absolute rotation of the shape around the x-axis.
 
-To change the rotation of a model around the y-axis, use the  **[IncrementRotationY](PowerPoint.Model3DFormat.IncrementRotationY.md)** method. To change the rotation around the z-axis, use the **[IncrementRotationZ](PowerPoint.Shape.IncrementRotationZ.md)** method.
+To change the rotation of a model around the y-axis, use the **[IncrementRotationY](PowerPoint.Model3DFormat.IncrementRotationY.md)** method. To change the rotation around the z-axis, use the **[IncrementRotationZ](PowerPoint.Model3DFormat.IncrementRotationZ.md)** method.
 
 
 ## Example
@@ -50,9 +48,6 @@ myDocument.Shapes(1).Model3D.IncrementRotationX 10
 ```
 
 
-## See also
 
-
-[Model3DFormat Object](PowerPoint.Model3DFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,32 +3,30 @@ title: Shapes.Add3DModel method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Add3DModel
-ms.date: 04/01/2019
+ms.date: 04/11/2019
 localization_priority: Priority
 ---
 
 
 # Shapes.Add3DModel method (PowerPoint)
 
-Creates a 3D model object from an existing file. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new 3D model.
+Creates a **[Model3DFormat](PowerPoint.Model3DFormat.md)** object from an existing file. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the new 3D model.
 
 
 ## Syntax
 
-_expression_.**Add3DModel** ( _FileName_, _LinkToFile_, _SaveWithDocument_, _Left_, _Top_, _Width_, _Height_ )
+_expression_.**Add3DModel** (_FileName_, _LinkToFile_, _SaveWithDocument_, _Left_, _Top_, _Width_, _Height_)
 
- _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
+_expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The file from which the 3D model object is to be created.|
 | _LinkToFile_|Required|**[MsoTriState](Office.MsoTriState.md)**|Determines whether the 3D model will be linked to the file from which it was created.|
-| _SaveWithDocument_|Required|**[MsoTriState](Office.MsoTriState.md)**|Determines whether the linked 3D model will be saved with the document into which it is inserted. This argument must be  **msoTrue** if LinkToFile is **msoFalse**.|
+| _SaveWithDocument_|Required|**MsoTriState**|Determines whether the linked 3D model will be saved with the document into which it is inserted. This argument must be **msoTrue** if LinkToFile is **msoFalse**.|
 | _Left_|Required|**Single**|The position, measured in points, of the left edge of the 3D model relative to the left edge of the slide.|
 | _Top_|Required|**Single**|The position, measured in points, of the top edge of the 3D model relative to the top edge of the slide.|
 | _Width_|Optional|**Single**|The width of the 3D model, measured in points (enter -1 to auto-calculate a width based on the 3D model dimensions).|
@@ -41,8 +39,7 @@ Shape
 
 ## Example
 
-This example adds a 3D model created from the file Sphere.glb to myDocument. The inserted 3D model is linked to the file from which it was created and is saved with myDocument.
-
+This example adds a 3D model created from the file Sphere.glb to _myDocument_. The inserted 3D model is linked to the file from which it was created and is saved with _myDocument_.
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1) 
@@ -52,11 +49,6 @@ myDocument.Shapes.Add3DModel FileName:="c:\my 3D models\sphere.glb", _
 ```
 
 
-## See also
 
-
-[Shapes Object](PowerPoint.Shapes.md)
-
-[Model3DFormat Object](PowerPoint.Model3DFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

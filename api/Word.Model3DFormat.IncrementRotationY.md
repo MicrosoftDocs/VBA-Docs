@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: word
 api_name:
 - Word.Model3DFormat.IncrementRotationY
-ms.date: 04/01/2019
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
@@ -18,14 +18,12 @@ Changes the rotation of the specified shape around the y-axis by the specified n
 
 ## Syntax
 
-_expression_.**IncrementRotationY** ( _Increment_ )
+_expression_.**IncrementRotationY** (_Increment_)
 
- _expression_ A variable that represents an [Model3DFormat](./Word.Model3DFormat.md) object.
+_expression_ A variable that represents a **[Model3DFormat](Word.Model3DFormat.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,9 +31,9 @@ _expression_.**IncrementRotationY** ( _Increment_ )
 
 ## Remarks
 
-Use the  **[RotationY](Word.Model3DFormat.RotationY.md)** property to set the absolute rotation of the shape around the y-axis.
+Use the **[RotationY](Word.Model3DFormat.RotationY.md)** property to set the absolute rotation of the shape around the y-axis.
 
-To change the rotation of a model around the x-axis, use the  **[IncrementRotationX](Word.Model3DFormat.IncrementRotationX.md)** method. To change the rotation around the z-axis, use the **[IncrementRotationZ](Word.Shape.IncrementRotationZ.md)** method.
+To change the rotation of a model around the x-axis, use the **[IncrementRotationX](Word.Model3DFormat.IncrementRotationX.md)** method. To change the rotation around the z-axis, use the **[IncrementRotationZ](Word.Model3DFormat.IncrementRotationZ.md)** method.
 
 
 ## Example
@@ -50,9 +48,5 @@ myDocument.Shapes(1).Model3D.IncrementRotationY 10
 ```
 
 
-## See also
-
-
-[Model3DFormat Object](Word.Model3DFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

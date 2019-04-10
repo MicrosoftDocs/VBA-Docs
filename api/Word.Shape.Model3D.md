@@ -6,27 +6,26 @@ f1_keywords:
 ms.prod: word
 api_name:
 - Word.Shape.Model3D
-ms.date: 04/01/2019
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
 
 # Shape.Model3D property (Word)
 
-Returns a  **[Model3D](Word.Model3DFormat.md)** object that contains Model3D properties. Read-only.
+Returns a **[Model3DFormat](Word.Model3DFormat.md)** object that contains Model3D properties. Read-only.
 
 
 ## Syntax
 
 _expression_.**Model3D**
 
-_expression_ A variable that represents a [Shape](./Word.Shape.md) object.
+_expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 
 ## Example
 
-This example enables the AutoFit property for all Model3D objects in the active document.
-
+This example enables the **AutoFit** property for all Model3D objects in the active document.
 
 ```vb
 For Each s In ActiveDocument.Shapes
@@ -35,9 +34,6 @@ Next
 ```
 
 
-## See also
 
-
-[Shape Object](Word.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
