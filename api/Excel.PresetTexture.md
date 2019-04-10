@@ -7,53 +7,29 @@ ms.prod: excel
 api_name:
 - Excel.PresetTexture
 ms.assetid: 5b471290-66f4-3504-096b-70265db88b93
-ms.date: 06/08/2017
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
 
 # PresetTexture property (Excel Graph)
 
-Returns the preset texture for the specified fill. Read-only MsoPresetTexture .
+Returns the preset texture for the specified fill. Read-only **[MsoPresetTexture](office.msopresettexture.md)**.
 
+## Syntax
 
-
-|MsoPresetTexture can be one of these MsoPresetTexture constants.|
-| **msoPresetTextureMixed**|
-| **msoTextureBouquet**|
-| **msoTextureCanvas**|
-| **msoTextureDenim**|
-| **msoTextureGranite**|
-| **msoTextureMediumWood**|
-| **msoTextureOak**|
-| **msoTexturePapyrus**|
-| **msoTexturePinkTissuePaper**|
-| **msoTextureRecycledPaper**|
-| **msoTextureStationery**|
-| **msoTextureWaterDroplets**|
-| **msoTextureWovenMat**|
-| **msoTextureBlueTissuePaper**|
-| **msoTextureBrownMarble**|
-| **msoTextureCork**|
-| **msoTextureFishFossil**|
-| **msoTextureGreenMarble**|
-| **msoTextureNewsprint**|
-| **msoTexturePaperBag**|
-| **msoTextureParchment**|
-| **msoTexturePurpleMesh**|
-| **msoTextureSand**|
-| **msoTextureWalnut**|
-| **msoTextureWhiteMarble**|
-
-_expression_. `PresetTexture`
+_expression_.**PresetTexture**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
-This property is read-only. Use the  **PresetTextured** method to set the preset texture for the fill.
+
+
+## Remarks
+
+This property is read-only. Use the **[PresetTextured](excel.presettextured.md)** method to set the preset texture for the fill.
 
 ## Example
 
 This example changes the chart's textured fill format from oak to walnut.
-
 
 ```vb
 With myChart.ChartArea.Fill 

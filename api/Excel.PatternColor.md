@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PatternColor
 ms.assetid: f57dafd5-7690-67cd-013e-1cf31c26b570
-ms.date: 06/08/2017
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
@@ -16,9 +16,11 @@ localization_priority: Normal
 
 Returns or sets the color of the interior pattern as an RGB value. Read/write **Variant**.
 
-_expression_. PatternColor
+## Syntax
 
-_expression_ Required. An expression that returns an [Interior](Excel.Interior-graph-property.md) object.
+_expression_.**PatternColor**
+
+_expression_ Required. An expression that returns an **[Interior](excel.interior-graph-object.md)** object.
 
 
 ## Example

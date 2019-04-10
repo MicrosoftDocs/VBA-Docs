@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Italic
 ms.assetid: 251d7213-4af6-92ad-a627-462266265ba8
-ms.date: 06/08/2017
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,9 @@ localization_priority: Normal
 
 **True** if the font style is italic. Read/write **Variant**.
 
-_expression_. `Italic`
+## Syntax
+
+_expression_.**Italic**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

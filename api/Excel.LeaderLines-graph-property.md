@@ -7,20 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.LeaderLines
 ms.assetid: ddd9ab86-d135-73de-b888-3ba43c39ece8
-ms.date: 06/08/2017
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
 
 # LeaderLines property (Excel Graph)
 
-Returns a  **LeaderLines** object that represents the leader lines for the specified series. Read-only.
+Returns a **LeaderLines** object that represents the leader lines for the specified series. Read-only.
 
+## Syntax
+
+_expression_.**LeaderLines**
+
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 
 This example adds data labels and blue leader lines to series one on the pie chart.
-
 
 ```vb
 With myChart.SeriesCollection(1) 
