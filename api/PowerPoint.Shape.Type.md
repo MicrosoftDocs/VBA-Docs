@@ -21,7 +21,7 @@ Represents the type of shape or shapes in a range of shapes. Read-only.
 
 _expression_.**Type**
 
- _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
+_expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 
 
 ## Return value
@@ -31,34 +31,8 @@ MsoShapeType
 
 ## Remarks
 
-The value of the  **Type** property can be one of these **MsoShapeType** constants.
+The value of the **Type** property can be one of the **[MsoShapeType](office.msoshapetype.md)** constants.
 
-
-||
-|:-----|
-|**msoAutoShape**|
-|**msoCallout**|
-|**msoCanvas**|
-|**msoChart**|
-|**msoComment**|
-|**msoContentApp**|
-|**msoDiagram**|
-|**msoEmbeddedOLEObject**|
-|**msoFormControl**|
-|**msoFreeform**|
-|**msoGroup**|
-|**msoLine**|
-|**msoLinkedOLEObject**|
-|**msoLinkedPicture**|
-|**msoMedia**|
-|**msoOLEControlObject**|
-|**msoPicture**|
-|**msoPlaceholder**|
-|**msoScriptAnchor**|
-|**msoShapeTypeMixed**|
-|**msoTable**|
-|**msoTextBox**|
-|**msoTextEffect**|
 
 ## Example
 
@@ -78,9 +52,6 @@ Next
 ```
 
 
-## See also
 
-
-[Shape Object](PowerPoint.Shape.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

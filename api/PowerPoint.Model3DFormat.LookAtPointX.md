@@ -15,18 +15,15 @@ localization_priority: Normal
 
 Returns the x-coordinate of a 3D model object's camera look-at position. Read/write.
 
-
-## Return value
-
-Single
-
-
 ## Syntax
 
 _expression_.**LookAtPointX**
 
 _expression_ A variable that represents a **[Model3DFormat](PowerPoint.Model3DFormat.md)** object.
 
+## Return value
+
+Single
 
 ## Remarks
 

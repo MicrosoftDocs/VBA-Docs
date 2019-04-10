@@ -15,13 +15,11 @@ localization_priority: Normal
 
 Returns the y-coordinate of a 3D model object's camera look-at position. Read/write.
 
-
 ## Syntax
 
 _expression_.**LookAtPointY**
 
 _expression_ A variable that represents a **[Model3DFormat](Word.Model3DFormat.md)** object.
-
 
 
 ## Return value
