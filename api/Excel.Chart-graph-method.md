@@ -16,6 +16,12 @@ localization_priority: Normal
 
 Returns a **Chart** object that represents the Graph chart.
 
+## Syntax
+
+_expression_.**Chart** 
+
+_expression_ Required. An expression that returns a **[Chart](excel.chart-graph-object.md)** object.
+
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

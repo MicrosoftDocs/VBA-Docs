@@ -25,7 +25,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Remarks
 
-Setting this property has no visible effect if the **CategoryType** property for the specified axis is set to **xlCategoryScale**. The set value is retained, however, and takes effect when the **CategoryType** property is set to **xlTimeScale**.
+Setting this property has no visible effect if the **[CategoryType](excel.categorytype.md)** property for the specified axis is set to **xlCategoryScale**. The set value is retained, however, and takes effect when the **CategoryType** property is set to **xlTimeScale**.
 
 You cannot set this property for a value axis.
 

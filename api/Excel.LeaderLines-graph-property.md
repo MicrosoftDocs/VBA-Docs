@@ -20,7 +20,7 @@ Returns a **LeaderLines** object that represents the leader lines for the specif
 
 _expression_.**LeaderLines**
 
-_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
+_expression_ Required. An expression that returns a **[LeaderLines](excel.leaderlines-graph-object.md)** object.
 
 ## Example
 
