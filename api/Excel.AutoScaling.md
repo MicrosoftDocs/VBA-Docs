@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AutoScaling property (Excel Graph)
 
-**True** if Graph scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The **RightAngleAxes** property must be **True**. Read/write **Boolean**.
+**True** if Graph scales a 3D chart so that it's closer in size to the equivalent 2D chart. The **RightAngleAxes** property must be **True**. Read/write **Boolean**.
 
 ## Syntax
 
@@ -25,7 +25,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example automatically scales the chart. The example should be run on a 3-D chart.
+This example automatically scales the chart. The example should be run on a 3D chart.
 
 ```vb
 With myChart 

@@ -30,8 +30,8 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|Specifies the axis to return. Can be one of the following  **[XlAxisType](Excel.XlAxisType.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
-| _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|Specifies the axis group. If this argument is omitted, the primary group is used. 3-D charts have only one axis group.|
+| _Type_|Optional| **Variant**|Specifies the axis to return. Can be one of the following  **[XlAxisType](Excel.XlAxisType.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3D charts).|
+| _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|Specifies the axis group. If this argument is omitted, the primary group is used. 3D charts have only one axis group.|
 
 ## Return value
 

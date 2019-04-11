@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Remarks
 
-This property applies only to category axes, and it doesn't apply to 3-D charts.
+This property applies only to category axes, and it doesn't apply to 3D charts.
 
 
 ## Example

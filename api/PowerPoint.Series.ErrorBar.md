@@ -43,7 +43,7 @@ _expression_. `ErrorBar`( `_Direction_`, `_Include_`, `_Type_`, `_Amount_`, `_Mi
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example applies standard error bars along the y-axis for series one of the first chart in the active document. The error bars are applied in the positive and negative directions. The example should be run on a 2-D line chart.
+The following example applies standard error bars along the y-axis for series one of the first chart in the active document. The error bars are applied in the positive and negative directions. The example should be run on a 2D line chart.
 
 
 

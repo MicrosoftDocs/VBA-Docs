@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 
 ## Example
 
-This example turns on curve smoothing for series one in Chart1. The example should be run on a 2-D line chart.
+This example turns on curve smoothing for series one in Chart1. The example should be run on a 2D line chart.
 
 
 ```vb

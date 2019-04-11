@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Font.ThreeD property (Publisher)
 
-Returns a  [ThreeDFormat](Publisher.ThreeDFormat.md) object that contains 3-D effect formatting properties for the specified font. Read-only.
+Returns a  [ThreeDFormat](Publisher.ThreeDFormat.md) object that contains 3D effect formatting properties for the specified font. Read-only.
 
 
 ## Syntax

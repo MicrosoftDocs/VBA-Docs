@@ -25,7 +25,7 @@ _expression_ An expression that returns a **[LegendKey](Excel.LegendKey-graph-ob
 
 ## Example
 
-This example sets the legend key for legend entry one to be a triangle. The example should be run on a 2-D line chart.
+This example sets the legend key for legend entry one to be a triangle. The example should be run on a 2D line chart.
 
 
 ```vb

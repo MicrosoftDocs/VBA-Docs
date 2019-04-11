@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Walls object (Excel Graph)
 
-Represents the walls of the specified 3-D chart. 
+Represents the walls of the specified 3D chart. 
 
 This object isn't a collection. There's no object that represents a single wall; you must return all the walls as a unit.
 
@@ -26,7 +26,7 @@ Use the **[Walls](excel.walls-graph-property.md)** property to return the **Wall
 
 ## Example
 
-The following example sets the pattern on the walls for the chart. If the chart isn't a 3-D chart, this example fails.
+The following example sets the pattern on the walls for the chart. If the chart isn't a 3D chart, this example fails.
 
 ```vb
 myChart.Walls.Interior.Pattern = xlGray75

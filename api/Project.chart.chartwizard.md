@@ -33,7 +33,7 @@ _expression_. `ChartWizard` _(varSource,_ _varGallery,_ _varFormat,_ _varPlotBy,
 | _varTitle_|Optional|**Variant**|The chart title.|
 | _varCategoryTitle_|Optional|**Variant**|The category axis title.|
 | _varValueTitle_|Optional|**Variant**|The value axis title.|
-| _varExtraTitle_|Optional|**Variant**|The series axis title for 3-D charts or the second value axis title for 2-D charts.|
+| _varExtraTitle_|Optional|**Variant**|The series axis title for 3D charts or the second value axis title for 2D charts.|
 | _varSource_|Optional|VARIANT||
 | _varGallery_|Optional|VARIANT||
 | _varFormat_|Optional|VARIANT||

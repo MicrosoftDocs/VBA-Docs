@@ -26,12 +26,12 @@ _expression_. `FirstSliceAngle`
 
 ## Remarks
 
-This property applies only to pie, 3-D pie, and doughnut charts. It can be a value from 0 through 360. 
+This property applies only to pie, 3D pie, and doughnut charts. It can be a value from 0 through 360. 
 
 
 ## Example
 
-The following example sets the angle for the first slice in chart group one for the first chart in the active document. You should run the example on a 2-D pie chart.
+The following example sets the angle for the first slice in chart group one for the first chart in the active document. You should run the example on a 2D pie chart.
 
 
 ```vb

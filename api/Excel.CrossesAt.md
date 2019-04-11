@@ -26,7 +26,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 Setting this property causes the **[Crosses](Excel.Crosses.md)** property to change to **xlAxisCrossesCustom**.
 
-This property cannot be used on 3-D charts or radar charts.
+This property cannot be used on 3D charts or radar charts.
 
 
 ## Example

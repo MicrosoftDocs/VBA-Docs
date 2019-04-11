@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Example
 
-This example assigns a different color or pattern to each data marker in chart group one. The example should be run on a 2-D line chart that has data markers on a series.
+This example assigns a different color or pattern to each data marker in chart group one. The example should be run on a 2D line chart that has data markers on a series.
 
 
 ```vb

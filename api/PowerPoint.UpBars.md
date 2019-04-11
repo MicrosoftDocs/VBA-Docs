@@ -19,7 +19,7 @@ Represents the up bars in a chart group.
 
 ## Remarks
 
-Up bars connect points on series one with higher values on the last series in the chart group (the lines go up from series one). Only 2-D line groups that contain at least two series can have up bars. This object is not a collection. There is no object that represents a single up bar; you either enable up bars for all points in a chart group or you disable them.
+Up bars connect points on series one with higher values on the last series in the chart group (the lines go up from series one). Only 2D line groups that contain at least two series can have up bars. This object is not a collection. There is no object that represents a single up bar; you either enable up bars for all points in a chart group or you disable them.
 
 If the  **[HasUpDownBars](PowerPoint.ChartGroup.HasUpDownBars.md)** property is **False**, most properties of the **UpBars** object are disabled.
 

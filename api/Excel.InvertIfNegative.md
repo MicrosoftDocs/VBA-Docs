@@ -25,7 +25,7 @@ _expression_ Required. An expression that returns one of the above objects.
 
 ## Example
 
-This example inverts the pattern for negative values in series one. The example should be run on a 2-D column chart.
+This example inverts the pattern for negative values in series one. The example should be run on a 2D column chart.
 
 ```vb
 myChart.SeriesCollection(1).InvertIfNegative = True

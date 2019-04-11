@@ -23,8 +23,8 @@ _expression_. `Axes` _(Type,_ _AxisGroup)_
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Variant**|Specifies the axis to return. Can be one of the following  **Office.XlAxisType** constants: **xlValue**,  **xlCategory**, or  **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
-| _AxisGroup_|Optional|**Office.XlAxisGroup**|Specifies the axis group. The default value is  **xlPrimary**; that is, if the  _AxisGroup_ argument is omitted, the primary group is used. 3-D charts have only one axis group.|
+| _Type_|Optional|**Variant**|Specifies the axis to return. Can be one of the following  **Office.XlAxisType** constants: **xlValue**,  **xlCategory**, or  **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3D charts).|
+| _AxisGroup_|Optional|**Office.XlAxisGroup**|Specifies the axis group. The default value is  **xlPrimary**; that is, if the  _AxisGroup_ argument is omitted, the primary group is used. 3D charts have only one axis group.|
 | _Type_|Optional|VARIANT||
 | _AxisGroup_|Optional|XLAXISGROUP||
 

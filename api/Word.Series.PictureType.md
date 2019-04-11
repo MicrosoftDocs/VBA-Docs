@@ -26,7 +26,7 @@ _expression_. `PictureType`
 
 ## Example
 
-The following example sets series one of the first chart in the active document to stretch pictures. You should run the example on a 2-D column chart that has picture data markers.
+The following example sets series one of the first chart in the active document to stretch pictures. You should run the example on a 2D column chart that has picture data markers.
 
 
 ```vb

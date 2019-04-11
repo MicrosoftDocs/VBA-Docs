@@ -36,7 +36,7 @@ The  **PresetMaterial** property value can be one of the **[MsoPresetMaterial](O
 
 ## Example
 
-This example specifies that the extrusion surface for shape one in the active publication be a wireframe. For this example to work, the specified shape must be a 3-D shape.
+This example specifies that the extrusion surface for shape one in the active publication be a wireframe. For this example to work, the specified shape must be a 3D shape.
 
 
 ```vb

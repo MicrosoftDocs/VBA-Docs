@@ -28,7 +28,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 Setting this property causes the  **[Crosses](PowerPoint.Axis.Crosses.md)** property to change to **xlAxisCrossesCustom**.
 
-You cannot use this property on radar charts. For 3-D charts, this property indicates where the plane defined by the category axes crosses the value axis.
+You cannot use this property on radar charts. For 3D charts, this property indicates where the plane defined by the category axes crosses the value axis.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Point.SecondaryPlot property (Excel)
 
- **True** if the point is in the secondary section of either a pie of pie chart or a bar of pie chart. Applies only to points on pie of pie charts or bar of pie charts. Read/write **Boolean**.
+ **True** if the point is in the secondary section of either a Pie of Pie chart or a Bar of Pie chart. Applies only to points on Pie of Pie charts or Bar of Pie charts. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) o
 
 ## Example
 
-This example must be run on either a pie of pie chart or a bar of pie chart. The example moves point four to the secondary section of the chart.
+This example must be run on either a Pie of Pie chart or a Bar of Pie chart. The example moves point four to the secondary section of the chart.
 
 
 ```vb

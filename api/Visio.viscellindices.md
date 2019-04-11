@@ -18,10 +18,10 @@ Specifies logical indices of cells in ShapeSheet rows of  **[Shape](Visio.Shape.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
-| **vis1DBeginX**|0|BeginX Cell (1-D Endpoints Section)|
-| **vis1DBeginY**|1|BeginY Cell (1-D Endpoints Section)|
-| **vis1DEndX**|2|EndX Cell (1-D Endpoints Section)|
-| **vis1DEndY**|3|EndY Cell (1-D Endpoints Section)|
+| **vis1DBeginX**|0|BeginX Cell (1D Endpoints Section)|
+| **vis1DBeginY**|1|BeginY Cell (1D Endpoints Section)|
+| **vis1DEndX**|2|EndX Cell (1D Endpoints Section)|
+| **vis1DEndY**|3|EndY Cell (1D Endpoints Section)|
 | **visActionAction**|3|Action Cell (Actions Section)|
 | **visActionBeginGroup**|8|BeginGroup Cell (Actions Section)|
 | **visActionButtonFace**|15|ButtonFace Cell (Actions Section)|
@@ -385,13 +385,13 @@ Specifies logical indices of cells in ShapeSheet rows of  **[Shape](Visio.Shape.
 | **visReviewerName**|0|Name Cell (Reviewer Section)|
 | **visReviewerReviewerID**|3|ReviewerID Cell (Reviewer Section)|
 | **visRotateGradientWithShape**|6|RotateGradientWithShape Cell (Gradient Properties Section)|
-| **visRotationType**|3|RotationType Cell (3-D Rotation Properties Section)|
-| **visRotationXAngle**|0|RotationXAngle Cell (3-D Rotation Properties Section)|
-| **visRotationYAngle**|1|RotationYAngle Cell (3-D Rotation Properties Section)|
-| **visRotationZAngle**|2|RotationZAngle Cell (3-D Rotation Properties Section)|
-| **visKeepTextFlat**|6|KeepTextFlat Cell (3-D Rotation Properties Section)|
-| **visDistanceFromGround**|5|DistanceFromGround Cell (3-D Rotation Properties Section)|
-| **visPerspective**|4|Perspective Cell (3-D Rotation Properties Section)|
+| **visRotationType**|3|RotationType Cell (3D Rotation Properties Section)|
+| **visRotationXAngle**|0|RotationXAngle Cell (3D Rotation Properties Section)|
+| **visRotationYAngle**|1|RotationYAngle Cell (3D Rotation Properties Section)|
+| **visRotationZAngle**|2|RotationZAngle Cell (3D Rotation Properties Section)|
+| **visKeepTextFlat**|6|KeepTextFlat Cell (3D Rotation Properties Section)|
+| **visDistanceFromGround**|5|DistanceFromGround Cell (3D Rotation Properties Section)|
+| **visPerspective**|4|Perspective Cell (3D Rotation Properties Section)|
 | **visScratchA**|2|A Cell (Scratch Section)|
 | **visScratchB**|3|B Cell (Scratch Section)|
 | **visScratchC**|4|C Cell (Scratch Section)|

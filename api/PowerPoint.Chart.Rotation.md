@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Rotation property (PowerPoint)
 
-Returns or sets the rotation, in degrees, of the 3-D chart view (the rotation of the plot area around the z-axis). Read/write  **Variant**.
+Returns or sets the rotation, in degrees, of the 3D chart view (the rotation of the plot area around the z-axis). Read/write  **Variant**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 ## Remarks
 
-The value of this property must be from 0 through 360, except for 3-D bar charts, where the value must be from 0 through 44. The default value is 20. This property applies only to 3-D charts. 
+The value of this property must be from 0 through 360, except for 3D bar charts, where the value must be from 0 through 44. The default value is 20. This property applies only to 3D charts. 
 
 Rotations are always rounded to the nearest integer.
 
@@ -38,7 +38,7 @@ Rotations are always rounded to the nearest integer.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example sets the rotation of the first chart in the active document to 30 degrees. You should run the example on a 3-D chart.
+The following example sets the rotation of the first chart in the active document to 30 degrees. You should run the example on a 3D chart.
 
 
 

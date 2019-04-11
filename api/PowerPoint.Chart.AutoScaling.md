@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.AutoScaling property (PowerPoint)
 
- **True** if Microsoft Word scales a 3-D chart so that it is closer in size to the equivalent 2-D chart. The **[RightAngleAxes](PowerPoint.Chart.RightAngleAxes.md)** property must be **True**. Read/write **Boolean**.
+ **True** if Microsoft Word scales a 3D chart so that it is closer in size to the equivalent 2D chart. The **[RightAngleAxes](PowerPoint.Chart.RightAngleAxes.md)** property must be **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example automatically scales the first chart in the active document. The example should be run on a 3-D chart.
+The following example automatically scales the first chart in the active document. The example should be run on a 3D chart.
 
 
 

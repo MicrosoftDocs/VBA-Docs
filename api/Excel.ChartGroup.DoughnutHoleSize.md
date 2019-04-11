@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Example
 
-This example sets the hole size for doughnut group one in Chart1. The example should be run on a 2-D doughnut chart.
+This example sets the hole size for doughnut group one in Chart1. The example should be run on a 2D doughnut chart.
 
 
 ```vb

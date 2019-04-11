@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Area3DGroup property (Excel Graph)
 
-Returns a **ChartGroup** object that represents the specified area chart group on a 3-D chart. Read-only **ChartGroup** object.
+Returns a **ChartGroup** object that represents the specified area chart group on a 3D chart. Read-only **ChartGroup** object.
 
 ## Syntax
 
@@ -25,7 +25,7 @@ _expression_ Required. An expression that returns a **[ChartGroup](excel.chartgr
 
 ## Example
 
-This example turns on drop lines for the 3-D area chart group.
+This example turns on drop lines for the 3D area chart group.
 
 ```vb
 myChart.Area3DGroup.HasDropLines = True

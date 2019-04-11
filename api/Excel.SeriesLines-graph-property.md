@@ -25,7 +25,7 @@ _expression_ An expression that returns a **[SeriesLines](Excel.SeriesLines-grap
 
 ## Example
 
-This example turns on series lines for chart group one on the chart, and then sets their line style, weight, and color. The example should be run on a 2-D stacked column chart that has two or more series.
+This example turns on series lines for chart group one on the chart, and then sets their line style, weight, and color. The example should be run on a 2D stacked column chart that has two or more series.
 
 ```vb
 With myChart.ChartGroups(1) 

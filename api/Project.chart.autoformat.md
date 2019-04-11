@@ -40,7 +40,7 @@ The [ChartWizard](Project.chart.chartwizard.md) method can do the same job as th
 
 ## Example
 
-The following example changes the chart to the default  **3-D Stacked Area** format.
+The following example changes the chart to the default  **3D Stacked Area** format.
 
 
 ```vb

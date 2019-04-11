@@ -26,12 +26,12 @@ _expression_. `HasErrorBars`
 
 ## Remarks
 
-This property is not available for 3-D charts. 
+This property is not available for 3D charts. 
 
 
 ## Example
 
-The following example removes error bars from series one for the first chart in the active document. You should run the example on a 2-D line chart that has error bars for series one.
+The following example removes error bars from series one for the first chart in the active document. You should run the example on a 2D line chart that has error bars for series one.
 
 
 ```vb

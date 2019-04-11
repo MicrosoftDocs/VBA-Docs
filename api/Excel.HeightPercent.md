@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HeightPercent property (Excel Graph)
 
-Returns or sets the height of a 3-D chart as a percentage of the chart width (between 5 and 500 percent). Read/write **Long**.
+Returns or sets the height of a 3D chart as a percentage of the chart width (between 5 and 500 percent). Read/write **Long**.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets the height of the chart to 80 percent of its width. The example should be run on a 3-D chart.
+This example sets the height of the chart to 80 percent of its width. The example should be run on a 3D chart.
 
 ```vb
 myChart.HeightPercent = 80

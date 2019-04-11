@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Corners property (Excel Graph)
 
-Returns a **Corners** object that represents the corners of the specified 3-D chart. Read-only.
+Returns a **Corners** object that represents the corners of the specified 3D chart. Read-only.
 
 ## Syntax
 

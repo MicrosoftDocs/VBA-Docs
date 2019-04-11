@@ -19,7 +19,7 @@ Represents the up bars in a chart group.
 
 ## Remarks
 
-Up bars connect points on series one with higher values on the last series in the chart group (the lines go up from series one). Only 2-D line groups that contain at least two series can have up bars. This object isn't a collection. There's no object that represents a single up bar; you either have up bars turned on for all points in a chart group or you have them turned off.
+Up bars connect points on series one with higher values on the last series in the chart group (the lines go up from series one). Only 2D line groups that contain at least two series can have up bars. This object isn't a collection. There's no object that represents a single up bar; you either have up bars turned on for all points in a chart group or you have them turned off.
 
 If the **[HasUpDownBars](Excel.ChartGroup.HasUpDownBars.md)** property of the **ChartGroup** object is **False**, most properties of the **UpBars** object are disabled.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FirstSliceAngle property (Excel Graph)
 
-Returns or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical). Applies only to pie, 3-D pie, and doughnut charts. Read/write **Long**.
+Returns or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical). Applies only to pie, 3D pie, and doughnut charts. Read/write **Long**.
 
 ## Syntax
 
@@ -25,7 +25,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets the angle for the first slice in chart group one. The example should be run on a 2-D pie chart.
+This example sets the angle for the first slice in chart group one. The example should be run on a 2D pie chart.
 
 ```vb
 myChart.ChartGroups(1).FirstSliceAngle = 15

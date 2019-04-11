@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartGroup.HasSeriesLines property (Excel)
 
- **True** if a stacked column chart or bar chart has series lines or if a Pie of Pie chart or Bar of Pie chart has connector lines between the two sections. Applies only to 2-D stacked bar, 2-D stacked column, pie of pie, or bar of pie charts. Read/write **Boolean**.
+ **True** if a stacked column chart or bar chart has series lines or if a Pie of Pie chart or Bar of Pie chart has connector lines between the two sections. Applies only to 2D stacked bar, 2D stacked column, Pie of Pie, or Bar of Pie charts. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Example
 
-This example turns on series lines for chart group one in Chart1 and then sets their line style, weight, and color. The example should be run on a 2-D stacked column chart that has two or more series.
+This example turns on series lines for chart group one in Chart1 and then sets their line style, weight, and color. The example should be run on a 2D stacked column chart that has two or more series.
 
 
 ```vb

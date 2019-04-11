@@ -26,7 +26,7 @@ _expression_. `NameIsAuto`
 
 ## Example
 
-The following example sets Microsoft Word to automatically determine the name for trendline one of the first chart in the active document. You should run the example on a 2-D column chart that contains a single series that has a trendline.
+The following example sets Microsoft Word to automatically determine the name for trendline one of the first chart in the active document. You should run the example on a 2D column chart that contains a single series that has a trendline.
 
 
 ```vb

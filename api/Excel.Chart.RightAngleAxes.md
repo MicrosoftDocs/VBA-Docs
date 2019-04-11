@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.RightAngleAxes property (Excel)
 
- **True** if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3-D line, column, and bar charts. Read/write **Boolean**.
+ **True** if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3D line, column, and bar charts. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ If this property is  **True**, the **[Perspective](Excel.Chart.Perspective.md)**
 
 ## Example
 
-This example sets the axes in Chart1 to intersect at right angles. The example should be run on a 3-D chart.
+This example sets the axes in Chart1 to intersect at right angles. The example should be run on a 3D chart.
 
 
 ```vb

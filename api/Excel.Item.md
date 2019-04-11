@@ -30,7 +30,7 @@ _expression_ Required. An expression that returns an **[Axes](excel.axes-graph-c
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Type_ |Required |**[XlAxisType](excel.xlaxistype.md)**|The axis type. Can be one of these **XlAxisType** constants: **xlCategory**, **xlSeriesAxis** (valid only for 3-D charts), or **xlValue**.|
+|_Type_ |Required |**[XlAxisType](excel.xlaxistype.md)**|The axis type. Can be one of these **XlAxisType** constants: **xlCategory**, **xlSeriesAxis** (valid only for 3D charts), or **xlValue**.|
 |_AxisGroup_ |Optional |**[XlAxisGroup](excel.xlaxisgroup.md)**|The axis group. Can be one of these **XlAxisGroup** constants: **xlSecondary** or **xlPrimary** (default). |
 
 ### Example
@@ -143,7 +143,7 @@ _expression_ Required. An expression that returns a **[Points](excel.points(coll
 
 ### Example
 
-This example sets the marker style for the third point in series one in embedded chart one on worksheet one. The specified series must be a 2-D line, scatter, or radar series.
+This example sets the marker style for the third point in series one in embedded chart one on worksheet one. The specified series must be a 2D line, scatter, or radar series.
 
 ```vb
 Worksheets(1).ChartObjects(1).Chart. _ 
@@ -197,7 +197,7 @@ _expression_ Required. An expression that returns a **[Trendlines](excel.trendli
 
 ### Example
 
-This example sets the number of units that the trendline on Chart1 extends forward and backward. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets the number of units that the trendline on Chart1 extends forward and backward. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 ```vb
 With Charts("Chart1").SeriesCollection(1).Trendlines.Item(1) 

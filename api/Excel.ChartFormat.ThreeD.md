@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartFormat.ThreeD property (Excel)
 
-Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D-effect formatting properties for the specified chart. Read-only.
+Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3D-effect formatting properties for the specified chart. Read-only.
 
 
 ## Syntax

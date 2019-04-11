@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Floor object (Excel Graph)
 
-Represents the floor of the specified 3-D chart.
+Represents the floor of the specified 3D chart.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ Use the **[Floor](excel.floor-graph-property.md)** property to return the **Floo
 
 ## Example
 
-The following example sets the floor color for the chart to cyan. If the chart isn't a 3-D chart, this example will fail.
+The following example sets the floor color for the chart to cyan. If the chart isn't a 3D chart, this example will fail.
 
 ```vb
 myChart.Floor.Interior.Color = RGB(0, 255, 255)

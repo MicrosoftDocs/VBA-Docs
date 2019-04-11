@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets Graph to automatically determine the name for trendline one. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets Graph to automatically determine the name for trendline one. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 ```vb
 myChart.SeriesCollection(1).Trendlines(1).NameIsAuto = True

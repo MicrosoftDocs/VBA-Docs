@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Elevation property (PowerPoint)
 
-Returns or sets the elevation, in degrees, of the 3-D chart view. Read/write  **Long**.
+Returns or sets the elevation, in degrees, of the 3D chart view. Read/write  **Long**.
 
 
 ## Syntax
@@ -26,10 +26,10 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 ## Remarks
 
-The chart elevation is the height, in degrees, at which you view the chart. The default is 15 for most chart types. The value of this property must be between -90 and 90, except for 3-D bar charts, where it must be between 0 and 44.
+The chart elevation is the height, in degrees, at which you view the chart. The default is 15 for most chart types. The value of this property must be between -90 and 90, except for 3D bar charts, where it must be between 0 and 44.
 
 
- **Note**  This property applies only to 3-D charts.
+ **Note**  This property applies only to 3D charts.
 
 
 ## Example
@@ -39,7 +39,7 @@ The chart elevation is the height, in degrees, at which you view the chart. The 
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example sets the chart elevation of the first chart in the active document to 34 degrees. You should run the example on a 3-D chart.
+The following example sets the chart elevation of the first chart in the active document to 34 degrees. You should run the example on a 3D chart.
 
 
 

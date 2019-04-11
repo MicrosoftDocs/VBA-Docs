@@ -31,7 +31,7 @@ This property applies only to line and scatter charts.
 
 ## Example
 
-The following example enables curve smoothing for series one for the first chart in the active document. You should run the example on a 2-D line chart.
+The following example enables curve smoothing for series one for the first chart in the active document. You should run the example on a 2D line chart.
 
 
 ```vb

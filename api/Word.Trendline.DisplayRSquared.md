@@ -31,7 +31,7 @@ Setting this property to  **True** automatically turns on data labels.
 
 ## Example
 
-The following example displays the R-squared value and equation for trendline one of the first chart in the active document. You should run the example on a 2-D column chart that has a trendline for the first series.
+The following example displays the R-squared value and equation for trendline one of the first chart in the active document. You should run the example on a 2D column chart that has a trendline for the first series.
 
 
 ```vb

@@ -19,9 +19,9 @@ Represents the plot area of a chart.
 
 ## Remarks
 
- This is the area where your chart data is plotted. The plot area on a 2-D chart contains the data markers, gridlines, data labels, trendlines, and optional chart items placed in the chart area. The plot area on a 3-D chart contains all the above items plus the walls, floor, axes, axis titles, and tick-mark labels in the chart.
+ This is the area where your chart data is plotted. The plot area on a 2D chart contains the data markers, gridlines, data labels, trendlines, and optional chart items placed in the chart area. The plot area on a 3D chart contains all the above items plus the walls, floor, axes, axis titles, and tick-mark labels in the chart.
 
-The plot area is surrounded by the chart area. The chart area on a 2-D chart contains the axes, the chart title, the axis titles, and the legend. The chart area on a 3-D chart contains the chart title and the legend. For information about formatting the chart area, see the  **[ChartArea](Word.ChartArea.md)** object.
+The plot area is surrounded by the chart area. The chart area on a 2D chart contains the axes, the chart title, the axis titles, and the legend. The chart area on a 3D chart contains the chart title and the legend. For information about formatting the chart area, see the  **[ChartArea](Word.ChartArea.md)** object.
 
 
 ## Example

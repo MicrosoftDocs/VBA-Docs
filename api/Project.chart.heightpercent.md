@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.HeightPercent property (Project)
-Gets or sets the height of a 3-D chart as a percentage of the chart width. Read/write  **Long**.
+Gets or sets the height of a 3D chart as a percentage of the chart width. Read/write  **Long**.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ The  **HeightPercent** value can be between 5 and 500 percent.
 
 ## Example
 
-The following example sets the height of the chart to 80 percent of its width. The example should be run on a 3-D chart.
+The following example sets the height of the chart to 80 percent of its width. The example should be run on a 3D chart.
 
 
 ```vb

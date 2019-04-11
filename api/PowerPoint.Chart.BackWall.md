@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.BackWall property (PowerPoint)
 
-Returns an object that allows the user to individually format the back wall of a 3-D chart. Read-only  **[Walls](PowerPoint.Walls.md)**.
+Returns an object that allows the user to individually format the back wall of a 3D chart. Read-only  **[Walls](PowerPoint.Walls.md)**.
 
 
 ## Syntax

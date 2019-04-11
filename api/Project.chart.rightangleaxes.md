@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.RightAngleAxes property (Project)
- **True** if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3-D line, 3-D column, and 3-D bar charts. Read/write **Boolean**.
+ **True** if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3D line, 3D column, and 3D bar charts. Read/write **Boolean**.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ If the  **RightAngleAxes** property is **True**, the  **[Perspective](Project.ch
 
 ## Example
 
-The following example sets the chart axes to intersect at right angles. The example should be run on a 3-D chart.
+The following example sets the chart axes to intersect at right angles. The example should be run on a 3D chart.
 
 
 ```vb
@@ -32,7 +32,7 @@ Sub SetRightAngleAxes()
     Dim chartShape As Shape
     Dim reportName As String
     
-    reportName = "Simple 3-D chart"
+    reportName = "Simple 3D chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
     
     chartShape.Chart.RightAngleAxes = True

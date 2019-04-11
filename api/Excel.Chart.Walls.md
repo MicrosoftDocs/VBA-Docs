@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Walls property (Excel)
 
-Returns a  **[Walls](Excel.Walls(object).md)** object that represents the walls of the 3-D chart. Read-only.
+Returns a  **[Walls](Excel.Walls(object).md)** object that represents the walls of the 3D chart. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Example
 
-This example sets the color of the wall border of Chart1 to red. The example should be run on a 3-D chart.
+This example sets the color of the wall border of Chart1 to red. The example should be run on a 3D chart.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RadarGroups method (Excel Graph)
 
-On a 2-D chart, returns an object that represents either a single radar chart group or a collection of the radar chart groups.
+On a 2D chart, returns an object that represents either a single radar chart group or a collection of the radar chart groups.
 
 ## Syntax
 
@@ -31,7 +31,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets radar group one to use a different color for each data marker. The example should be run on a 2-D chart.
+This example sets radar group one to use a different color for each data marker. The example should be run on a 2D chart.
 
 ```vb
 myChart.RadarGroups(1).VaryByCategories = True

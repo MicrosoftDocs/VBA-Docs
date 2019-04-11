@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets the bubble size in chart group one to 200 percent of the default size if the chart is a 2-D bubble chart.
+This example sets the bubble size in chart group one to 200 percent of the default size if the chart is a 2D bubble chart.
 
 ```vb
 With myChart 

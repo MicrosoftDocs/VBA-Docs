@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example turns on high-low lines for chart group one and then sets line style, weight, and color. The example should be run on a 2-D line chart that has three series of stock-quote-like data (high-low-close).
+This example turns on high-low lines for chart group one and then sets line style, weight, and color. The example should be run on a 2D line chart that has three series of stock-quote-like data (high-low-close).
 
 ```vb
 With myChart.ChartGroups(1) 

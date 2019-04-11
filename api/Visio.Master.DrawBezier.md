@@ -53,7 +53,7 @@ The control points should be in internal drawing units (inches) with respect to 
 
 The  _Flags_ argument is a bitmask that specifies options for drawing the new shape. Its value should be zero (0) or **visSpline1D** (8).
 
-If  _Flags_ is **visSpline1D** and the first and last points in _xyArray()_ don't coincide, the **DrawBezier** method produces a shape with one-dimensional (1-D) behavior; otherwise, it produces a shape with two-dimensional (2-D) behavior.
+If  _Flags_ is **visSpline1D** and the first and last points in _xyArray()_ don't coincide, the **DrawBezier** method produces a shape with one-dimensional (1D) behavior; otherwise, it produces a shape with two-dimensional (2D) behavior.
 
 If the first and last points in  _xyArray()_ do coincide, the **DrawBezier** method produces a filled shape.
 

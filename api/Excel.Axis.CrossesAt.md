@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 Setting this property causes the  **[Crosses](Excel.Axis.Crosses.md)** property to change to **xlAxisCrossesCustom**.
 
-This property cannot be used on radar charts. For 3-D charts, this property indicates where the plane defined by the category axes crosses the value axis.
+This property cannot be used on radar charts. For 3D charts, this property indicates where the plane defined by the category axes crosses the value axis.
 
 
 ## Example

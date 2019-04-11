@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets the hole size for doughnut group one. The example should be run on a 2-D doughnut chart.
+This example sets the hole size for doughnut group one. The example should be run on a 2D doughnut chart.
 
 ```vb
 myChart.DoughnutGroups(1).DoughnutHoleSize = 10

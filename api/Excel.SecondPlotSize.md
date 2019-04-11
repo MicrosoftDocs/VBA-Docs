@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SecondPlotSize property (Excel Graph)
 
-Returns or sets the size of the secondary section of either a **Pie of Pie** chart or a **Bar of Pie** chart, as a percentage of the size of the primary pie. Can be a value from 5 through 200. Read/write **Long**.
+Returns or sets the size of the secondary section of either a Pie of Pie chart or a Bar of Pie chart, as a percentage of the size of the primary pie. Can be a value from 5 through 200. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example must be run on either a **Pie of Pie** chart or a **Bar of Pie** chart. The example splits the two sections of the chart by value, combining all values under 10 in the primary pie and displaying them in the secondary section. The secondary section is 50 percent of the size of the primary pie.
+This example must be run on either a Pie of Pie chart or a Bar of Pie chart. The example splits the two sections of the chart by value, combining all values under 10 in the primary pie and displaying them in the secondary section. The secondary section is 50 percent of the size of the primary pie.
 
 ```vb
 With myChart.ChartGroups(1) 

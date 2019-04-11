@@ -24,7 +24,7 @@ The  **ChartType** property corresponds to an action in the **Change Chart Type*
 
 ## Example
 
-The following example changes a clustered column chart to a clustered 3-D column chart type.
+The following example changes a clustered column chart to a clustered 3D column chart type.
 
 
 ```vb

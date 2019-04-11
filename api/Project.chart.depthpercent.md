@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.DepthPercent property (Project)
-Gets or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long**.
+Gets or sets the depth of a 3D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long**.
 
 ## Syntax
 
@@ -19,12 +19,12 @@ _expression_. `DepthPercent`
 
 ## Remarks
 
-The  **DepthPercent** property fails on 2-D charts.
+The  **DepthPercent** property fails on 2D charts.
 
 
 ## Example
 
-The following example sets the depth of the specified chart to be 50 percent of its width. The example should be run on a 3-D chart.
+The following example sets the depth of the specified chart to be 50 percent of its width. The example should be run on a 3D chart.
 
 
 ```vb

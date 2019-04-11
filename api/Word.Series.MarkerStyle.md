@@ -58,7 +58,7 @@ _expression_. `MarkerStyle`
 
 ## Example
 
-The following example sets the marker style for series one for the first chart in the active document. You should run the example on a 2-D line chart.
+The following example sets the marker style for series one for the first chart in the active document. You should run the example on a 2D line chart.
 
 
 ```vb

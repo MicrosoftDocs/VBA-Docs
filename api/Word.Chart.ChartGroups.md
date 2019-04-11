@@ -31,7 +31,7 @@ _expression_. `ChartGroups` (_Index_)
 
 ## Example
 
-The following example enables up and down bars for the first chart group of the first chart, and then sets their colors. You should run this example on a 2-D line chart that contains two series that intersect at one or more data points.
+The following example enables up and down bars for the first chart group of the first chart, and then sets their colors. You should run this example on a 2D line chart that contains two series that intersect at one or more data points.
 
 
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-pro
 
 ## Example
 
-This example sets the end style for the error bars for series one in Chart1. The example should be run on a 2-D line chart that has Y error bars for the first series.
+This example sets the end style for the error bars for series one in Chart1. The example should be run on a 2D line chart that has Y error bars for the first series.
 
 
 ```vb

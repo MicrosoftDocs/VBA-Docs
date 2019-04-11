@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LineGroups method (Excel Graph)
 
-On a 2-D chart, returns an object that represents either a single line chart group or a collection of the line chart groups.
+On a 2D chart, returns an object that represents either a single line chart group or a collection of the line chart groups.
 
 ## Syntax
 
@@ -30,7 +30,7 @@ _expression_ Required. An expression that returns one of the objects in the **[C
 
 ## Example
 
-This example sets line group one to use a different color for each data marker. The example should be run on a 2-D chart.
+This example sets line group one to use a different color for each data marker. The example should be run on a 2D chart.
 
 ```vb
 myChart.LineGroups(1).VaryByCategories = True

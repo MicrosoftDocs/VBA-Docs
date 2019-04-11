@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DepthPercent property (Excel Graph)
 
-Returns or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write **Long**.
+Returns or sets the depth of a 3D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write **Long**.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets the depth of the chart to be 50 percent of its width. The example should be run on a 3-D chart (the **DepthPercent** property fails on 2-D charts).
+This example sets the depth of the chart to be 50 percent of its width. The example should be run on a 3D chart (the **DepthPercent** property fails on 2D charts).
 
 ```vb
 myChart.DepthPercent = 50

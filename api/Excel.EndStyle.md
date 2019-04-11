@@ -22,7 +22,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets the end style for the error bars for series one. The example should be run on a 2-D line chart that has Y error bars for the first series.
+This example sets the end style for the error bars for series one. The example should be run on a 2D line chart that has Y error bars for the first series.
 
 ```vb
 myChart.SeriesCollection(1).ErrorBars. EndStyle = xlCap

@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Remarks
 
-For 3-D charts, only  **xlPrimary** is valid.
+For 3D charts, only  **xlPrimary** is valid.
 
 
 ## Example

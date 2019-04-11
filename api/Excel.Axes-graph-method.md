@@ -26,8 +26,8 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Type_ |Optional |**[XlAxisType](excel.xlaxistype.md)** |Specifies the axis to return. The reference style of the formula. Can be one of these **XlAxisType** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (valid only for 3-D charts).|
-|_AxisGroup_ |Optional |**[XlAxisGroup](excel.xlaxisgroup.md)** |The reference style of the formula. Can be one of these **XlAxisGroup** constants: **xlPrimary** or **xlSecondary**. If this argument is omitted, the primary group is used. 3-D charts have only one axis group.|
+|_Type_ |Optional |**[XlAxisType](excel.xlaxistype.md)** |Specifies the axis to return. The reference style of the formula. Can be one of these **XlAxisType** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (valid only for 3D charts).|
+|_AxisGroup_ |Optional |**[XlAxisGroup](excel.xlaxisgroup.md)** |The reference style of the formula. Can be one of these **XlAxisGroup** constants: **xlPrimary** or **xlSecondary**. If this argument is omitted, the primary group is used. 3D charts have only one axis group.|
 
 ## Example
 

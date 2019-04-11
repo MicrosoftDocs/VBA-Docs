@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Corners object (Excel Graph)
 
-Represents the corners of the specified 3-D chart. This object isn't a collection.
+Represents the corners of the specified 3D chart. This object isn't a collection.
 
 
 ## Remarks
 
 Use the **[Corners](Excel.Corners-graph-property.md)** property to return the **Corners** object. 
 
-If the chart isn't a 3-D chart, the **Corners** property fails.
+If the chart isn't a 3D chart, the **Corners** property fails.
 
 ## Example
 

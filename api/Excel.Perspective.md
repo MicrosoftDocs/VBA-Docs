@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Perspective property (Excel Graph)
 
-Returns or sets the perspective for the 3-D chart view. Must be from 0 through 100. This property is ignored if the **[RightAngleAxes](Excel.RightAngleAxes.md)** property is **True**. Read/write **Long**.
+Returns or sets the perspective for the 3D chart view. Must be from 0 through 100. This property is ignored if the **[RightAngleAxes](Excel.RightAngleAxes.md)** property is **True**. Read/write **Long**.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets the perspective of _myChart_ to 70. The example should be run on a 3-D chart.
+This example sets the perspective of _myChart_ to 70. The example should be run on a 3D chart.
 
 ```vb
 myChart.RightAngleAxes = False 

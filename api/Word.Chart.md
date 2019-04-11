@@ -50,7 +50,7 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-The following example creates a new 3-D column chart and adds it to the active document.
+The following example creates a new 3D column chart and adds it to the active document.
 
 
 

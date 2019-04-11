@@ -39,7 +39,7 @@ A  **[Point](Word.Point.md)** object that the collection contains.
 
 ## Example
 
-The following example sets the marker style for the third point in series one in embedded chart one on worksheet one. The specified series must be a 2-D line, scatter, or radar series.
+The following example sets the marker style for the third point in series one in embedded chart one on worksheet one. The specified series must be a 2D line, scatter, or radar series.
 
 
 ```vb

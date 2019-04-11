@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.HeightPercent property (PowerPoint)
 
-Returns or sets the height of a 3-D chart as a percentage of the chart width (from 5 through 500 percent). Read/write  **Long**.
+Returns or sets the height of a 3D chart as a percentage of the chart width (from 5 through 500 percent). Read/write  **Long**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example sets the height of the first chart in the active document to 80 percent of its width. You should run the example on a 3-D chart.
+The following example sets the height of the first chart in the active document to 80 percent of its width. You should run the example on a 3D chart.
 
 
 

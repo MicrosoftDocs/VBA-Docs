@@ -39,7 +39,7 @@ A  **[Trendline](Excel.Trendline(object).md)** object contained by the collectio
 
 ## Example
 
-This example sets the number of units that the trendline on Chart1 extends forward and backward. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets the number of units that the trendline on Chart1 extends forward and backward. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 
 ```vb

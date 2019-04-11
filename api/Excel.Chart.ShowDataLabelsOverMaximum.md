@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Remarks
 
-If you change the value axis in such a way that it became smaller than the size of the data points, you can use this property to set whether to show the data labels. This property applies to 2-D charts only.
+If you change the value axis in such a way that it became smaller than the size of the data points, you can use this property to set whether to show the data labels. This property applies to 2D charts only.
 
 
 ## See also

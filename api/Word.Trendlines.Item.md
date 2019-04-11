@@ -39,7 +39,7 @@ A  **[Trendline](Word.Trendline.md)** object that the collection contains.
 
 ## Example
 
-The following example sets the number of units that the trendline on the first chart in the active document extends forward and backward. The example should be run on a 2-D column chart that contains a single series with a trendline.
+The following example sets the number of units that the trendline on the first chart in the active document extends forward and backward. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 
 ```vb

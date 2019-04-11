@@ -26,12 +26,12 @@ _expression_.**ThreeD**
 
 ## Remarks
 
-Use the  **ThreeD** property to return a **ThreeDFormat** object whose properties are used to format the 3-D appearance of the specified shape.
+Use the  **ThreeD** property to return a **ThreeDFormat** object whose properties are used to format the 3D appearance of the specified shape.
 
 
 ## Example
 
-This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one in the active publication.
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one in the active publication.
 
 
 ```vb

@@ -55,7 +55,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
- The following example sets the marker style for the third point in series one for the first chart in the active document. The specified series must be a 2-D line, scatter, or radar series.
+ The following example sets the marker style for the third point in series one for the first chart in the active document. The specified series must be a 2D line, scatter, or radar series.
 
 
 

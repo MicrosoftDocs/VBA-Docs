@@ -53,7 +53,7 @@ Double
 
 - If a second ref argument is required but not provided, AGGREGATE returns a #VALUE! error.
     
-- If one or more of the references are 3-D references, AGGREGATE returns the #VALUE! error value.
+- If one or more of the references are 3D references, AGGREGATE returns the #VALUE! error value.
     
 
 

@@ -42,7 +42,7 @@ Set shpNew = ActiveDocument.Pages(1).Shapes _
  .AddShape(Type:=msoShapeOval, _ 
  Left:=90, Top:=90, Width:=90, Height:=40) 
  
-' Format the 3-D properties of the oval. 
+' Format the 3D properties of the oval. 
 With shpNew.ThreeD 
  .Visible = True 
  .Depth = 50 

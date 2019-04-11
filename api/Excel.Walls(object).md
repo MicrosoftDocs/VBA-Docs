@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Walls object (Excel)
 
-Represents the walls of a 3-D chart. This object isn't a collection. There's no object that represents a single wall; you must return all the walls as a unit.
+Represents the walls of a 3D chart. This object isn't a collection. There's no object that represents a single wall; you must return all the walls as a unit.
 
 
 ## Example
 
 Use the **[Walls](Excel.Chart.Walls.md)** property of the **Chart** object to return the **Walls** object. 
 
-The following example sets the pattern on the walls for embedded chart one on Sheet1. If the chart isn't a 3-D chart, this example fails.
+The following example sets the pattern on the walls for embedded chart one on Sheet1. If the chart isn't a 3D chart, this example fails.
 
 ```vb
 Worksheets("Sheet1").ChartObjects(1).Chart _ 

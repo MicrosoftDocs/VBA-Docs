@@ -25,7 +25,7 @@ _expression_ Required. An expression that returns one of the above objects.
 
 ## Example
 
-This example sets series one to stack pictures, and uses each picture to represent five units. The example should be run on a 2-D column chart with picture data markers.
+This example sets series one to stack pictures, and uses each picture to represent five units. The example should be run on a 2D column chart with picture data markers.
 
 ```vb
 With myChart.SeriesCollection(1) 

@@ -27,7 +27,7 @@ You cannot apply three-dimensional formatting to some kinds of shapes, such as b
 
 ## Example
 
-Use the  **[ThreeD](Publisher.Shape.ThreeD.md)** property to return a **ThreeDFormat** object. This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one in the active publication.
+Use the  **[ThreeD](Publisher.Shape.ThreeD.md)** property to return a **ThreeDFormat** object. This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one in the active publication.
  
 
  

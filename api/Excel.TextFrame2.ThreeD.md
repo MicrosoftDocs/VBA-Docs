@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # TextFrame2.ThreeD property (Excel)
 
-Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D-effect formatting properties for the specified text. Read-only.
+Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3D-effect formatting properties for the specified text. Read-only.
 
 
 ## Syntax

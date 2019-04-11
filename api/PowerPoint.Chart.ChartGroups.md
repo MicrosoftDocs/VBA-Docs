@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 ## Example
 
-This example turns on up and down bars for the first chart group of the first chart, and then sets their colors. The example should be run on a 2-D line chart containing two series that intersect at one or more data points.
+This example turns on up and down bars for the first chart group of the first chart, and then sets their colors. The example should be run on a 2D line chart containing two series that intersect at one or more data points.
 
 
 ```vb

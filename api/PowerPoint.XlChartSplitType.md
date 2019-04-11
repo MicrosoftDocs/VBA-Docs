@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlChartSplitType enumeration (PowerPoint)
 
-Specifies the values displayed in the second chart in a pie chart or a bar of pie chart.
+Specifies the values displayed in the second chart in a pie chart or a Bar of Pie chart.
 
 
 

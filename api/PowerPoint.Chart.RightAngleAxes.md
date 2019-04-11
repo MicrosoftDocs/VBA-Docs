@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 ## Remarks
 
-This property applies only to 3-D line, column, and bar charts. 
+This property applies only to 3D line, column, and bar charts. 
 
 If this property is set to  **True**, the **[Perspective](PowerPoint.Chart.Perspective.md)** property is ignored.
 
@@ -38,7 +38,7 @@ If this property is set to  **True**, the **[Perspective](PowerPoint.Chart.Persp
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example sets the axes for the first chart in the active document to intersect at right angles. You should run the example on a 3-D chart.
+The following example sets the axes for the first chart in the active document to intersect at right angles. You should run the example on a 3D chart.
 
 
 

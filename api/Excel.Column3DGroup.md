@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Column3DGroup property (Excel Graph)
 
-Returns a **ChartGroup** object that represents the specified column chart group on a 3-D chart. Read-only **ChartGroup** object.
+Returns a **ChartGroup** object that represents the specified column chart group on a 3D chart. Read-only **ChartGroup** object.
 
 ## Syntax
 
@@ -25,7 +25,7 @@ _expression_ Required. An expression that returns a **[ChartGroup](excel.chartgr
 
 ## Example
 
-This example sets the space between column clusters in the 3-D column chart group to be 50 percent of the column width.
+This example sets the space between column clusters in the 3D column chart group to be 50 percent of the column width.
 
 ```vb
 myChart.Column3DGroup.GapWidth = 50

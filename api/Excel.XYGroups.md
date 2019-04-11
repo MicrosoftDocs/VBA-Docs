@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XYGroups method (Excel Graph)
 
-On a 2-D chart, returns an object that represents either a single scatter chart group or a collection of the scatter chart groups.
+On a 2D chart, returns an object that represents either a single scatter chart group or a collection of the scatter chart groups.
 
 ## Syntax
 
@@ -30,7 +30,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example sets X-Y group (scatter group) one to use a different color for each data marker. The example should be run on a 2-D chart.
+This example sets X-Y group (scatter group) one to use a different color for each data marker. The example should be run on a 2D chart.
 
 ```vb
 myChart.XYGroups(1).VaryByCategories = True

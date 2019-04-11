@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartFormat.ThreeD property (Word)
 
-Returns the 3-D-effect formatting properties for the specified chart. Read-only  **[ThreeDFormat](Word.ThreeDFormat.md)**.
+Returns the 3D-effect formatting properties for the specified chart. Read-only  **[ThreeDFormat](Word.ThreeDFormat.md)**.
 
 
 ## Syntax

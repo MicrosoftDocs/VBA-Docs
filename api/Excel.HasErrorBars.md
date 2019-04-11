@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HasErrorBars property (Excel Graph)
 
-**True** if the series has error bars. This property isn't available for 3-D charts. Read/write **Boolean**.
+**True** if the series has error bars. This property isn't available for 3D charts. Read/write **Boolean**.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example removes error bars from series one. The example should be run on a 2-D line chart that has error bars for series one.
+This example removes error bars from series one. The example should be run on a 2D line chart that has error bars for series one.
 
 ```vb
 myChart.SeriesCollection(1).HasErrorBars = False

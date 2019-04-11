@@ -49,7 +49,7 @@ The  _Flags_ argument is a bitmask that specifies options for drawing the new sh
 
 
 
--  **visPolyline1D** and if the first and last points in _xyArray_ don't coincide, the **DrawPolyline** method produces a shape with one-dimensional (1-D) behavior; otherwise, it produces a shape with two-dimensional (2-D) behavior.
+-  **visPolyline1D** and if the first and last points in _xyArray_ don't coincide, the **DrawPolyline** method produces a shape with one-dimensional (1D) behavior; otherwise, it produces a shape with two-dimensional (2D) behavior.
     
 -  **visPolyarcs**, Microsoft Visio will produce a sequence of arcs rather than a sequence of line segments; _xyArray_ should specify the initial _x,y_ point of the sequence followed by _x,y_ bow triples. Visio will produce a shape with EllipticalArcTo rows where the bow of the arc matches the specified value.
     
@@ -60,7 +60,7 @@ If the first and last points in  _xyArray_ coincide, the **DrawPolyline** method
 
 ## Example
 
-The following example shows how to draw two polyline shapes that have 2-D and 1-D behavior, respectively, on the active page.
+The following example shows how to draw two polyline shapes that have 2D and 1D behavior, respectively, on the active page.
 
 
 ```vb
@@ -81,7 +81,7 @@ Public Sub DrawPolyline_Example()
  adblXYPoints(7) = 1 
  adblXYPoints(8) = 2 
  
- 'Use the DrawPolyline method to draw a shape that has 2-D behavior. 
+ 'Use the DrawPolyline method to draw a shape that has 2D behavior. 
  Set vsoShape = ActivePage.DrawPolyline(adblXYPoints, 0) 
  
  'Increase the Y-coordinate of the array by 4 to separate 
@@ -90,7 +90,7 @@ Public Sub DrawPolyline_Example()
  adblXYPoints(intCounter) = adblXYPoints(intCounter) + 4 
  Next intCounter 
  
- 'Use the DrawPolyline method to draw a shape that has 1-D behavior. 
+ 'Use the DrawPolyline method to draw a shape that has 1D behavior. 
  Set vsoShape = ActivePage.DrawPolyline(adblXYPoints, visPolyline1D) 
  
 End Sub

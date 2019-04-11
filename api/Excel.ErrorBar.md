@@ -34,7 +34,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example applies standard error bars in the Y direction for series one. The error bars are applied in the positive and negative directions. The example should be run on a 2-D line chart.
+This example applies standard error bars in the Y direction for series one. The error bars are applied in the positive and negative directions. The example should be run on a 2D line chart.
 
 ```vb
 myChart.SeriesCollection(1).ErrorBar _ 

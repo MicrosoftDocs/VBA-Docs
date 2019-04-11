@@ -35,7 +35,7 @@ _expression_. `ApplyCustomType` _(ChartType,_ _TypeName)_
 
 ## Example
 
-The following example changes the chart type to a clustered 3-D bar chart.
+The following example changes the chart type to a clustered 3D bar chart.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Overlap property (Excel Graph)
 
-Specifies how bars and columns are positioned. Can be a value between -100 and 100. Applies only to 2-D bar and 2-D column charts. Read/write **Long**.
+Specifies how bars and columns are positioned. Can be a value between -100 and 100. Applies only to 2D bar and 2D column charts. Read/write **Long**.
 
 ## Syntax
 
@@ -30,7 +30,7 @@ If this property is set to -100, bars are positioned so that there's one bar wid
 
 ## Example
 
-This example sets the overlap for chart group one to -50. The example should be run on a 2-D column chart that has two or more series.
+This example sets the overlap for chart group one to -50. The example should be run on a 2D column chart that has two or more series.
 
 ```vb
 myChart.ChartGroups(1).Overlap = -50

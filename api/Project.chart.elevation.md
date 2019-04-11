@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.Elevation property (Project)
-Gets or sets the elevation of the 3-D chart view, in degrees. Read/write  **Long**.
+Gets or sets the elevation of the 3D chart view, in degrees. Read/write  **Long**.
 
 ## Syntax
 
@@ -19,12 +19,12 @@ _expression_. `Elevation`
 
 ## Remarks
 
-The chart elevation is the angle from the horizontal at which you view the chart, in degrees. The default is 15 degrees for most chart types. The value of the  **Elevation** property must be between -90 and 90, except for 3-D bar charts, where it must be between 0 and 44. The **Elevation** property fails on 2-D charts.
+The chart elevation is the angle from the horizontal at which you view the chart, in degrees. The default is 15 degrees for most chart types. The value of the  **Elevation** property must be between -90 and 90, except for 3D bar charts, where it must be between 0 and 44. The **Elevation** property fails on 2D charts.
 
 
 ## Example
 
-The following example sets the elevation of the chart to 34 degrees. The example should be run on a 3-D chart.
+The following example sets the elevation of the chart to 34 degrees. The example should be run on a 3D chart.
 
 
 ```vb

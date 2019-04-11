@@ -17,9 +17,9 @@ Specifies the predefined format to apply to a table.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **wdTableFormat3DEffects1**|32|3-D effects format number 1.|
-| **wdTableFormat3DEffects2**|33|3-D effects format number 2.|
-| **wdTableFormat3DEffects3**|34|3-D effects format number 3.|
+| **wdTableFormat3DEffects1**|32|3D effects format number 1.|
+| **wdTableFormat3DEffects2**|33|3D effects format number 2.|
+| **wdTableFormat3DEffects3**|34|3D effects format number 3.|
 | **wdTableFormatClassic1**|4|Classic format number 1.|
 | **wdTableFormatClassic2**|5|Classic format number 2.|
 | **wdTableFormatClassic3**|6|Classic format number 3.|

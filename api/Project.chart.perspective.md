@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.Perspective property (Project)
-Gets or sets a value that represents the perspective for the 3-D chart view. Read/write  **Long**.
+Gets or sets a value that represents the perspective for the 3D chart view. Read/write  **Long**.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ The value of the  **Perspective** property must be between 0 and 100. **Perspect
 
 ## Example
 
-The following example sets the perspective of the chart to 20. The example should be run on a 3-D chart.
+The following example sets the perspective of the chart to 20. The example should be run on a 3D chart.
 
 
 ```vb
@@ -32,7 +32,7 @@ Sub SetPerspective()
     Dim chartShape As Shape
     Dim reportName As String
     
-    reportName = "Simple 3-D chart"
+    reportName = "Simple 3D chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
     
     chartShape.Chart.RightAngleAxes = False
