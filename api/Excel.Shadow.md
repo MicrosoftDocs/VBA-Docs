@@ -7,34 +7,32 @@ ms.prod: excel
 api_name:
 - Excel.Shadow
 ms.assetid: 2450bcd9-24fb-57b9-6d73-5ed4abef54d0
-ms.date: 06/08/2017
+ms.date: 04/12/2019
 localization_priority: Normal
 ---
 
 
 # Shadow property (Excel Graph)
 
-Shadow property as it applies to the  **AxisTitle**,  **ChartArea**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabel**,  **Legend**,  **LegendKey**,  **Point**, and  **Series** objects.
+For the **AxisTitle**, **ChartArea**, **ChartTitle**, **DataLabel**, **DataLabels**, **DisplayUnitLabel**, **Legend**, **LegendKey**, **Point**, and **Series** objects, **True** if the font is a shadow font or if the specified object has a shadow. Read/write **Boolean**.
 
-**True** if the font is a shadow font or if the specified object has a shadow. Read/write **Boolean**.
+For the **Font** object, **True** if the font is a shadow font or if the specified object has a shadow. Read/write **Variant**.
 
-_expression_. `Shadow`
+## Syntax 
 
-_expression_ Required. An expression that returns one of the above objects.
-Shadow property as it applies to the  **Font** object.
-**True** if the font is a shadow font or if the specified object has a shadow. Read/write **Variant**.
 _expression_.**Shadow**
+
 _expression_ Required. An expression that returns one of the above objects.
+
 
 ## Remarks
 
-For the  **Font** object, this property has no effect in Microsoft Windows, but its value is retained (it can be set and returned).
+For the **Font** object, this property has no effect in Windows, but its value is retained (it can be set and returned).
 
 
 ## Example
 
-This example adds a shadow to the title of  `myChart`.
-
+This example adds a shadow to the title of _myChart_.
 
 ```vb
 myChart.ChartTitle.Shadow = True

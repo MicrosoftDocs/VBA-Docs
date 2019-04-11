@@ -7,75 +7,81 @@ ms.prod: excel
 api_name:
 - Excel.Type
 ms.assetid: 467e47f2-3c6e-d52d-0fc7-26f3bca7c6f2
-ms.date: 06/08/2017
+ms.date: 04/12/2019
 localization_priority: Normal
 ---
 
 
 # Type property (Excel Graph)
 
-Type property as it applies to the  **Axis** object.
+The **Type** property as it applies to the following objects.
 
-Returns or sets the axis type. Read/write XlAxisType .
+## Axis object
 
+Returns or sets the axis type. Read/write **[XlAxisType](excel.xlaxistype.md)**.
 
-|XlAxisType can be one of these XlAxisType constants.|
-| **xlSeriesAxis**|
-| **xlCategory**|
-| **xlValue**|
+### Syntax
 
 _expression_.**Type**
-_expression_ Required. An expression that returns an [Axis](Excel.Axis-graph-object.md) object.
-Type property as it applies to the  **ChartColorFormat** object.
-Returns the color type. Read-only Long.
-_expression_.**Type**
-_expression_ Required. An expression that returns a [ChartColorFormat](Excel.ChartColorFormat.md) object.
-Type property as it applies to the  **ChartFillFormat** object.
-Returns the fill type. Read-only MsoFillType .
+
+_expression_ Required. An expression that returns an **[Axis](Excel.Axis-graph-object.md)** object.
 
 
-|MsoFillType can be one of these MsoFillType constants.|
-| **msoFillGradient**|
-| **msoFillBackground**|
-| **msoFillMixed**|
-| **msoFillPatterned**|
-| **msoFillPicture**|
-| **msoFillSolid**|
-| **msoFillTextured**|
+## ChartColorFormat object
+
+Returns the color type. Read-only **Long**.
+
+### Syntax
 
 _expression_.**Type**
-_expression_ Required. An expression that returns a [ChartFillFormat](Excel.ChartFillFormat.md) object.
-Type property as it applies to the  **DataLabel** and **DataLabels** objects.
+
+_expression_ Required. An expression that returns a **[ChartColorFormat](Excel.ChartColorFormat.md)** object.
+
+
+## ChartFillFormat object
+
+Returns the fill type. Read-only **[MsoFillType](office.msofilltype.md)**.
+
+### Syntax
+
+_expression_.**Type**
+
+_expression_ Required. An expression that returns a **[ChartFillFormat](Excel.ChartFillFormat.md)** object.
+
+
+## DataLabel and DataLabels objects
+
 Returns or sets the data label type. Read/write **Variant**.
+
+### Syntax
+
 _expression_.**Type**
-_expression_ Required. An expression that returns one of the above objects.
-Type property as it applies to the  **Series** object.
+
+_expression_ Required. An expression that returns a **[DataLabel](excel.datalabel-graph-object.md)** object or **[DataLabels](excel.datalabels(collection).md)** collection.
+
+## Series object
+
 Returns or sets the series type. Read/write **Long**.
-_expression_.**Type**
-_expression_ Required. An expression that returns a [Series](Excel.Series-graph-object.md) object.
-Type property as it applies to the  **Trendline** object.
-Returns or sets the trendline type. Read/write XlTrendlineType .
 
-
-|XlTrendlineType can be one of these XlTrendlineType constants.|
-| **xlExponential**|
-| **xlLinear**|
-| **xlLogarithmic**|
-| **xlMovingAvg**|
-| **xlPolynomial**|
-| **xlPower**|
+### Syntax
 
 _expression_.**Type**
-_expression_ Required. An expression that returns a [Trendline](Excel.Trendline-graph-object.md) object.
 
-## Example
+_expression_ Required. An expression that returns a **[Series](Excel.Series-graph-object.md)**object.
 
-As it applies to the  **Trendline** object.
+## Trendline object
+
+Returns or sets the trendline type. Read/write **[XlTrendlineType](excel.xltrendlinetype.md)**.
+
+### Syntax
+
+_expression_.**Type**
+
+_expression_ Required. An expression that returns a **[Trendline](Excel.Trendline-graph-object.md)** object.
+
+### Example
 
 This example changes the trendline type for the first series in the chart. If the series has no trendline, this example fails.
-
-
-
 
 ```vb
 myChart.SeriesCollection(1).Trendlines(1).Type = xlMovingAvg

@@ -7,22 +7,16 @@ ms.prod: excel
 api_name:
 - Excel.Weight
 ms.assetid: 59a3b106-5811-f082-d9cf-c21f2945da31
-ms.date: 06/08/2017
+ms.date: 04/12/2019
 localization_priority: Normal
 ---
 
 
 # Weight property (Excel Graph)
 
-Returns or sets the weight of the border. Read/write 
- **xlBorderWeight**
-.
+Returns or sets the weight of the border. Read/write **[XlBorderWeight](excel.xlborderweight.md)**.
 
-
-
-|XlBorderWeight can be one of these XlBorderWeight constants.|
-| **xlHairline**|
-| **xlThin** **xlMedium** **xlThick**|
+## Syntax
 
 _expression_.**Weight**
 
@@ -31,7 +25,6 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 ## Example
 
 This example sets the border weight for the chart area.
-
 
 ```vb
 myChart.ChartArea.Border.Weight = xlMedium

@@ -7,20 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.ReplaceText
 ms.assetid: 930c453b-5363-3124-ec06-62359e41ee47
-ms.date: 06/08/2017
+ms.date: 04/12/2019
 localization_priority: Normal
 ---
 
 
 # ReplaceText property (Excel Graph)
 
- **True** if text in the list of AutoCorrect replacements is replaced automatically. Read/write **Boolean**.
+**True** if the text in the list of AutoCorrect replacements is replaced automatically. Read/write **Boolean**.
 
+## Syntax
+
+_expression_.**ReplaceText**
+
+_expression_ Required. An expression that returns an **[AutoCorrect](excel.autocorrect-graph-object.md)** object.
 
 ## Example
 
 This example turns off automatic text replacement for the chart.
-
 
 ```vb
 With myChart.Application.AutoCorrect 
