@@ -7,14 +7,20 @@ ms.prod: excel
 api_name:
 - Excel.LegendKey
 ms.assetid: 55277508-2a81-c9c0-1f34-4d44c967ae8e
-ms.date: 06/08/2017
+ms.date: 04/11/2019
 localization_priority: Normal
 ---
 
 
 # LegendKey property (Excel Graph)
 
-Returns a  **[LegendKey](Excel.LegendKey-graph-object.md)** object that represents the legend key associated with the entry.
+Returns a **LegendKey** object that represents the legend key associated with the entry.
+
+## Syntax
+
+_expression_.**LegendKey**
+
+_expression_ An expression that returns a **[LegendKey](Excel.LegendKey-graph-object.md)** object.
 
 
 ## Example
