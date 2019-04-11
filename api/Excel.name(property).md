@@ -25,6 +25,13 @@ _expression_.**Name**
 _expression_ An expression that returns an **[Application](excel.application-graph-object.md)** or **[Trendline](excel.trendline-graph-object.md)** object.
 
 
+### Example
+
+This example assigns the name of the first trendline to the variable _myTrendname_.
+
+```vb
+myTrendname = myChart.SeriesCollection(1).Trendlines(1).Name
+```
 
 ## Font object
 
@@ -50,12 +57,5 @@ _expression_ Required. An expression that returns one of the remaining objects.
 
 
 
-## Example
-
-This example assigns the name of the first trendline to the variable _myTrendname_.
-
-```vb
-myTrendname = myChart.SeriesCollection(1).Trendlines(1).Name
-```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

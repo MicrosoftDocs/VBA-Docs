@@ -25,7 +25,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Remarks
 
-This property applies only to category axes, and it doesn't apply to 3-D charts.
+This property applies only to category axes, and it doesn't apply to 3D charts.
 
 
 ## Example

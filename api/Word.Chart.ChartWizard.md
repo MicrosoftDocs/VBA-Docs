@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 | _Title_|Optional|**Variant**|The chart title text.|
 | _CategoryTitle_|Optional|**Variant**|The category axis title text.|
 | _ValueTitle_|Optional|**Variant**|The value axis title text.|
-| _ExtraTitle_|Optional|**Variant**|The series axis title for 3-D charts or the second value axis title for 2-D charts.|
+| _ExtraTitle_|Optional|**Variant**|The series axis title for 3D charts or the second value axis title for 2D charts.|
 
 <br/>
 

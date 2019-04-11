@@ -76,12 +76,12 @@ Public Sub GlueToPos_Example()
  Set vsoCellGlueFromBegin = vso1DShape.Cells("BeginX") 
  Set vsoCellGlueFromEnd = vso1DShape.Cells("EndX") 
  
- 'Use the GlueToPos method to glue the begin point of the 1-D shape 
- 'to the top center of the lower 2-D shape. 
+ 'Use the GlueToPos method to glue the begin point of the 1D shape 
+ 'to the top center of the lower 2D shape. 
  vsoCellGlueFromBegin.GlueToPos vso2DShape1, 0.5, 1 
  
- 'Use the GlueToPos method to glue the endpoint of the 1-D shape 
- 'to the bottom center of the upper 2-D shape. 
+ 'Use the GlueToPos method to glue the endpoint of the 1D shape 
+ 'to the bottom center of the upper 2D shape. 
  vsoCellGlueFromEnd.GlueToPos vso2DShape2, 0.5, 0 
  
 End Sub

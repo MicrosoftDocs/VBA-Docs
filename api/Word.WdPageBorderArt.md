@@ -150,7 +150,7 @@ Specifies the graphical page border setting of a page.
 | **wdArtSombrero**|24|A sombrero border.|
 | **wdArtSouthwest**|105|A southwest border.|
 | **wdArtStars**|19|A stars border.|
-| **wdArtStars3D**|17|A 3-D stars border.|
+| **wdArtStars3D**|17|A 3D stars border.|
 | **wdArtStarsBlack**|74|A black stars border.|
 | **wdArtStarsShadowed**|18|A shadowed stars border.|
 | **wdArtStarsTop**|157|A stars-on-top border.|

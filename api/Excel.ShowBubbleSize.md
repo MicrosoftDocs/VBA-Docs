@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShowBubbleSize
 ms.assetid: abeee041-0fa0-537e-6786-37213a6004c1
-ms.date: 06/08/2017
+ms.date: 04/12/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,9 @@ localization_priority: Normal
 
 Allows the user to show the bubble size for the data labels on a chart. Read/write **Boolean**.
 
-_expression_. `ShowBubbleSize`
+## Syntax
+
+_expression_.**ShowBubbleSize**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
@@ -29,7 +31,6 @@ The chart must first be active before you can access the data labels programmati
 ## Example
 
 This example enables the bubble size to be shown for the data labels of the first series on the first chart.
-
 
 ```vb
 Sub UseBubbleSize() 

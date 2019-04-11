@@ -31,7 +31,7 @@ Some chart types are not available for PivotChart reports.
 
 ## Example
 
-The following example sets the bubble size in chart group one to 200% of the default size if the chart is a 2-D bubble chart.
+The following example sets the bubble size in chart group one to 200% of the default size if the chart is a 2D bubble chart.
 
 
 ```vb

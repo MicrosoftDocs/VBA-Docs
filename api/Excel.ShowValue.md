@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShowValue
 ms.assetid: 43e4380c-8e28-627e-6211-f1bd96d9d47f
-ms.date: 06/08/2017
+ms.date: 04/12/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,9 @@ localization_priority: Normal
 
 Allows the user to show the value for the data labels on a chart. Read/write **Boolean**.
 
-_expression_. `ShowValue`
+## Syntax
+
+_expression_.**ShowValue**
 
 _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
@@ -29,7 +31,6 @@ The chart must first be active before you can access the data labels programmati
 ## Example
 
 This example enables the value to be shown for the data labels of the first series on the first chart.
-
 
 ```vb
 Sub UseValue() 

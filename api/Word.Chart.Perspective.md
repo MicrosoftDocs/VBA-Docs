@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Perspective property (Word)
 
-Returns or sets the perspective for the 3-D chart view. Read/write  **Long**.
+Returns or sets the perspective for the 3D chart view. Read/write  **Long**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The value of this property must be between 0 and 100. This property is ignored i
 
 ## Example
 
-The following example sets the perspective of the first chart in the active document to 70. You should run the example on a 3-D chart.
+The following example sets the perspective of the first chart in the active document to 70. You should run the example on a 3D chart.
 
 
 ```vb

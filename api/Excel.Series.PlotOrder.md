@@ -33,7 +33,7 @@ Changing the plot order of one series will cause the plot orders of the other se
 
 ## Example
 
-This example makes series two in Chart1 appear third in the plot order. The example should be run on a 2-D column chart that contains three or more series.
+This example makes series two in Chart1 appear third in the plot order. The example should be run on a 2D column chart that contains three or more series.
 
 
 ```vb

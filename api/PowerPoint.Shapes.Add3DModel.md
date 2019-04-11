@@ -3,7 +3,7 @@ title: Shapes.Add3DModel method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Add3DModel
-ms.date: 04/11/2019
+ms.date: 04/12/2019
 localization_priority: Priority
 ---
 
@@ -39,13 +39,12 @@ Shape
 
 ## Example
 
-This example adds a 3D model created from the file Sphere.glb to _myDocument_. The inserted 3D model is linked to the file from which it was created and is saved with _myDocument_.
+This example adds a 3D model created from the file Sphere.glb to _mySlide_. The inserted 3D model is embedded in the active document.
 
 ```vb
-Set myDocument = ActivePresentation.Slides(1) 
-myDocument.Shapes.Add3DModel FileName:="c:\my 3D models\sphere.glb", _ 
-    LinkToFile:=msoTrue, SaveWithDocument:=msoTrue, _ 
-    Left:=100, Top:=100, Width:=70, Height:=70
+Set mySlide = Application.ActivePresentation.Slides(1) 
+Set myShape = mySlide.Shapes.Add3DModel(FileName:="c:\my 3d models\sphere.glb", LinkToFile:=False, SaveWithDocument:=True, Left:=100, Top:=100, Width:=70, Height:=70 )
+
 ```
 
 

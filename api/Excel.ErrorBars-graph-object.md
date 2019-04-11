@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ErrorBars object (Excel Graph)
 
-Represents the error bars for the specified chart series. Error bars indicate the degree of uncertainty for chart data. Only series in area, bar, column, line, and scatter groups in a 2-D chart can have error bars. Only series in scatter groups can have x and y error bars.
+Represents the error bars for the specified chart series. Error bars indicate the degree of uncertainty for chart data. Only series in area, bar, column, line, and scatter groups in a 2D chart can have error bars. Only series in scatter groups can have x and y error bars.
 
 This object isn't a collection. There's no object that represents a single error bar; either you have x error bars or y error bars turned on for all points in a series or you have them turned off.
 

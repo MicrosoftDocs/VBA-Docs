@@ -7,20 +7,25 @@ ms.prod: excel
 api_name:
 - Excel.WallsAndGridlines2D
 ms.assetid: 1ea9d256-926d-093f-07b5-f80904a34636
-ms.date: 06/08/2017
+ms.date: 04/12/2019
 localization_priority: Normal
 ---
 
 
 # WallsAndGridlines2D property (Excel Graph)
 
- **True** if gridlines are drawn two-dimensionally on a 3-D chart. Read/write **Boolean**.
+**True** if gridlines are drawn two-dimensionally on a 3D chart. Read/write **Boolean**.
+
+## Syntax
+
+_expression_.**WallsAndGridlines2D**
+
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example
 
-This example causes Graph to draw 2-D gridlines for the chart.
-
+This example causes Graph to draw 2D gridlines for the chart.
 
 ```vb
 myChart.WallsAndGridlines2D = True

@@ -17,8 +17,8 @@ Specifies the predefined format when a range is automatically formatted.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **xlRangeAutoFormat3DEffects1**|13|3-D effects 1.|
-| **xlRangeAutoFormat3DEffects2**|14|3-D effects 2.|
+| **xlRangeAutoFormat3DEffects1**|13|3D effects 1.|
+| **xlRangeAutoFormat3DEffects2**|14|3D effects 2.|
 | **xlRangeAutoFormatAccounting1**|4|Accounting 1.|
 | **xlRangeAutoFormatAccounting2**|5|Accounting 2.|
 | **xlRangeAutoFormatAccounting3**|6|Accounting 3.|

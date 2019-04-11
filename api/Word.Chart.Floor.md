@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Floor property (Word)
 
-Returns the floor of the 3-D chart. Read-only  **[Floor](Word.Floor.md)**.
+Returns the floor of the 3D chart. Read-only  **[Floor](Word.Floor.md)**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `Floor`
 
 ## Example
 
-The following example sets the floor color of the first chart in the active document to blue. You should run the example on a 3-D chart (the  **Floor** property fails on 2-D charts).
+The following example sets the floor color of the first chart in the active document to blue. You should run the example on a 3D chart (the  **Floor** property fails on 2D charts).
 
 
 ```vb

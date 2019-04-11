@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Walls property (Word)
 
-Returns the walls of the 3-D chart. Read-only  **[Walls](Word.Walls.md)**.
+Returns the walls of the 3D chart. Read-only  **[Walls](Word.Walls.md)**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `Walls`
 
 ## Example
 
-The following example sets the color of the wall border of the first chart in the active document to red. You should run the example on a 3-D chart.
+The following example sets the color of the wall border of the first chart in the active document to red. You should run the example on a 3D chart.
 
 
 ```vb

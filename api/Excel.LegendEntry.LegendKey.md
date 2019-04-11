@@ -26,7 +26,7 @@ _expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-
 
 ## Example
 
-This example sets the legend key for legend entry one on Chart1 to be a triangle. The example should be run on a 2-D line chart.
+This example sets the legend key for legend entry one on Chart1 to be a triangle. The example should be run on a 2D line chart.
 
 
 ```vb

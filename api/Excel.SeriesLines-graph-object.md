@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SeriesLines object (Excel Graph)
 
-Represents series lines in the specified chart group. Series lines connect the data values in each series. Only 2-D stacked-bar or column chart groups can have series lines. 
+Represents series lines in the specified chart group. Series lines connect the data values in each series. Only 2D stacked-bar or column chart groups can have series lines. 
 
 This object isn't a collection. There's no object that represents a single series line; either you have series lines turned on for all points in a chart group or you have them turned off.  
 
@@ -26,7 +26,7 @@ If the **[HasSeriesLines](Excel.HasSeriesLines.md)** property is **False**, most
 
 ## Example
 
-The following example adds series lines to chart group one in the chart. The chart must be a 2-D stacked-bar or column chart.
+The following example adds series lines to chart group one in the chart. The chart must be a 2D stacked-bar or column chart.
 
 ```vb
 With myChart.ChartGroups(1) 

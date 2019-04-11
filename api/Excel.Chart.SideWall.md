@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.SideWall property (Excel)
 
-Returns a  **[Walls](Excel.Walls(object).md)** object that allows the user to individually format the side wall of a 3-D chart. Read-only.
+Returns a  **[Walls](Excel.Walls(object).md)** object that allows the user to individually format the side wall of a 3D chart. Read-only.
 
 
 ## Syntax

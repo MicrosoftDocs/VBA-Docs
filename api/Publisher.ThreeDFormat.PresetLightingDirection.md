@@ -38,7 +38,7 @@ The lighting effects you set will not be apparent if the extrusion has a wirefra
 
 ## Example
 
-This example sets the extrusion for the first shape on the first page of the active publication to extend toward the top of the shape and that the lighting for the extrusion come from the left. For this example to work, the specified shape must be a 3-D shape.
+This example sets the extrusion for the first shape on the first page of the active publication to extend toward the top of the shape and that the lighting for the extrusion come from the left. For this example to work, the specified shape must be a 3D shape.
 
 
 ```vb

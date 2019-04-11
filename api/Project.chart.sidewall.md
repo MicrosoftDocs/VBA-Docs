@@ -11,7 +11,7 @@ localization_priority: Normal
 
 
 # Chart.SideWall property (Project)
-Gets an  **Office.IMsoWalls** object that allows the user to individually format the side wall of a 3-D chart. Read-only **IMsoWalls**.
+Gets an  **Office.IMsoWalls** object that allows the user to individually format the side wall of a 3D chart. Read-only **IMsoWalls**.
 
 ## Syntax
 
@@ -22,7 +22,7 @@ _expression_. `SideWall`
 
 ## Example
 
-The following example colors the side wall of the 3-D chart blue. In Project, red is the last byte of a hexadecimal value.
+The following example colors the side wall of the 3D chart blue. In Project, red is the last byte of a hexadecimal value.
 
 
 ```vb
@@ -30,7 +30,7 @@ Sub FormatSideWall()
     Dim chartShape As Shape
     Dim reportName As String
     
-    reportName = "Simple 3-D chart"
+    reportName = "Simple 3D chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
     
     chartShape.Chart.SideWall.Fill.ForeColor.RGB = &HFF0000

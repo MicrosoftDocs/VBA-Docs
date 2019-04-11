@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Perspective property (Excel)
 
-Returns or sets a  **Long** value that represents the perspective for the 3-D chart view.
+Returns or sets a  **Long** value that represents the perspective for the 3D chart view.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The value of this property must be between 0 and 100. This property is ignored i
 
 ## Example
 
-This example sets the perspective of Chart1 to 70. The example should be run on a 3-D chart.
+This example sets the perspective of Chart1 to 70. The example should be run on a 3D chart.
 
 
 ```vb

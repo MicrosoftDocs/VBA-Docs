@@ -21,7 +21,7 @@ _expression_ Required. An expression that returns an **[ErrorBars](Excel.ErrorBa
 
 ## Example
 
-This example sets the error bar color for series one. The example should be run on a 2-D line chart that has error bars for series one.
+This example sets the error bar color for series one. The example should be run on a 2D line chart that has error bars for series one.
 
 ```vb
 With myChart.SeriesCollection(1)

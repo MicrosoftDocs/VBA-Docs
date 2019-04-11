@@ -26,16 +26,16 @@ The  **VisFromParts** return codes indicate the part of a shape from which a con
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
-| **visBeginX**|7|Connection is from the begin point x of a 1-D shape.|
-| **visBeginY**|8|Connection is from the begin point y of a 1-D shape.|
-| **visBegin**|9|Connection is from the begin point of a 1-D shape.|
+| **visBeginX**|7|Connection is from the begin point x of a 1D shape.|
+| **visBeginY**|8|Connection is from the begin point y of a 1D shape.|
+| **visBegin**|9|Connection is from the begin point of a 1D shape.|
 | **visBottomEdge**|4|Connection is from bottom edge of shape.|
-| **visCenterEdge**|2|Connection is from the center (x) of a 1-D shape.|
+| **visCenterEdge**|2|Connection is from the center (x) of a 1D shape.|
 | **visConnectFromError**|-1|Connection from an unknown part.|
 | **visControlPoint**|100|Connection is from the control point plus the row index (see Note).|
-| **visEndX**|10|Connection is from the endpoint (x) of a 1-D shape.|
-| **visEndY**|11|Connection is from the endpoint (y) of a 1-D shape.|
-| **visEnd**|12|Connection is from the end of a 1-D shape.|
+| **visEndX**|10|Connection is from the endpoint (x) of a 1D shape.|
+| **visEndY**|11|Connection is from the endpoint (y) of a 1D shape.|
+| **visEnd**|12|Connection is from the end of a 1D shape.|
 | **visFromAngle**|13|Connection is from the direction of a connection point.|
 | **visFromNone**|0|Connection is from nothing.|
 | **visFromPin**|14|Connection is from the pin of a shape.|

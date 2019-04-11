@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example displays the R-squared value and equation for trendline one. The example should be run on a 2-D column chart that has a trendline for the first series.
+This example displays the R-squared value and equation for trendline one. The example should be run on a 2D column chart that has a trendline for the first series.
 
 ```vb
 With myChart.SeriesCollection(1).Trendlines(1) 

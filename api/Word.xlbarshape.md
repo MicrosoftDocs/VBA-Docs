@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # XlBarShape enumeration (Word)
 
-Specifies the shape used with the 3-D bar or column chart.
+Specifies the shape used with the 3D bar or column chart.
 
 
 

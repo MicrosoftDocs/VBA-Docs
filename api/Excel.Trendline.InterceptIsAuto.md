@@ -31,7 +31,7 @@ Setting the  **[Intercept](Excel.Trendline.InterceptIsAuto.md)** property sets t
 
 ## Example
 
-This example sets Microsoft Excel to automatically determine the trendline intercept point for Chart1. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets Microsoft Excel to automatically determine the trendline intercept point for Chart1. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 
 ```vb

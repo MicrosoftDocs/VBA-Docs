@@ -29,7 +29,7 @@ ActiveDocument.InlineShapes(1) _
  wdHorizontalLineAlignLeft
 ```
 
-This example adds a horizontal line without any 3-D shading.
+This example adds a horizontal line without any 3D shading.
 
 
 

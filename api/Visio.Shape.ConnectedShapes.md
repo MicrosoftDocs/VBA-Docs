@@ -52,7 +52,7 @@ The  _Flags_ value must be one of the following **VisConnectedShapesFlags** cons
 
 Categories are user-defined strings that you can use to categorize shapes and thereby to restrict membership in a container. You can define categories in the User.msvShapeCategories cell in the ShapeSheet for a shape. You can define multiple categories for a shape by separating the categories with semi-colons.
 
-If the source object is a 1-D shape or part of a master, the  **ConnectedShapes** method returns an Invalid Source error.
+If the source object is a 1D shape or part of a master, the  **ConnectedShapes** method returns an Invalid Source error.
 
 If no qualifying connected shapes exist, the  **ConnectedShapes** method returns an empty array.
 

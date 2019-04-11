@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Trendline](Excel.Trendline-graph-obje
 
 ## Example
 
-This example sets Microsoft Excel to automatically determine the name for trendline one in Chart1. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets Microsoft Excel to automatically determine the name for trendline one in Chart1. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 
 ```vb

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.Walls property (Project)
-Gets an  **Office.IMsoWalls** object that represents the walls of a 3-D chart. Read-only **IMsoWalls**.
+Gets an  **Office.IMsoWalls** object that represents the walls of a 3D chart. Read-only **IMsoWalls**.
 
 ## Syntax
 
@@ -27,7 +27,7 @@ _expression_. `Walls`
 
 ## Example
 
-The following example sets the wall borders of the 3-D chart to a red line that is three points wide.
+The following example sets the wall borders of the 3D chart to a red line that is three points wide.
 
 
 ```vb
@@ -35,7 +35,7 @@ Sub FormatWalls()
     Dim chartShape As Shape
     Dim reportName As String
     
-    reportName = "Simple 3-D chart"
+    reportName = "Simple 3D chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
     
     With chartShape.Chart.Walls.Border

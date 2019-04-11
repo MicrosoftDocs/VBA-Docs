@@ -18,9 +18,9 @@ Represents the chart area of the specified chart.
 
 ## Remarks
 
-The chart area in a 2-D chart contains the axes, the chart title, the axis titles, and the legend. 
+The chart area in a 2D chart contains the axes, the chart title, the axis titles, and the legend. 
 
-The chart area in a 3-D chart contains the chart title and the legend; it doesn't include the plot area (the area within the chart area where the data is plotted). 
+The chart area in a 3D chart contains the chart title and the legend; it doesn't include the plot area (the area within the chart area where the data is plotted). 
 
 For information about formatting the plot area, see the **[PlotArea](Excel.PlotArea-graph-object.md)** object.
 

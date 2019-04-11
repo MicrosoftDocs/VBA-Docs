@@ -31,7 +31,7 @@ MsoTriState
 
 ## Example
 
-This example sets the extrusion depth for shape one on the first page to 100 points and specifies that the extrusion be parallel, or orthographic. For this example to work, the specified shape must be a 3-D shape.
+This example sets the extrusion depth for shape one on the first page to 100 points and specifies that the extrusion be parallel, or orthographic. For this example to work, the specified shape must be a 3D shape.
 
 
 ```vb

@@ -39,7 +39,7 @@ A  **[Point](Excel.Point(object).md)** object contained by the collection.
 
 ## Example
 
-This example sets the marker style for the third point in series one in embedded chart one on worksheet one. The specified series must be a 2-D line, scatter, or radar series.
+This example sets the marker style for the third point in series one in embedded chart one on worksheet one. The specified series must be a 2D line, scatter, or radar series.
 
 
 ```vb

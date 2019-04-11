@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.OneD property (Visio)
 
-Determines whether an object behaves as a one-dimensional (1-D) object. Read-only.
+Determines whether an object behaves as a one-dimensional (1D) object. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-Setting the  **OneD** property is equivalent to changing a shape's interaction style in the **Behavior** dialog box (click **Behavior** in the **Shape Design** group of the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). Setting the **OneD** property for a 1-D shape to **False** deletes its 1-D Endpoints section, even if the cells in that section were protected with the GUARD function.
+Setting the  **OneD** property is equivalent to changing a shape's interaction style in the **Behavior** dialog box (click **Behavior** in the **Shape Design** group of the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). Setting the **OneD** property for a 1D shape to **False** deletes its 1D Endpoints section, even if the cells in that section were protected with the GUARD function.
 
 The  **OneD** property of a **Shape** object that is a guide is always 0. If you try to change the value of the **OneD** property of a guide shape, no error is raised, but the value remains 0.
 

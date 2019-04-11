@@ -30,8 +30,8 @@ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index1_|Optional|**Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **[XlAxisType](PowerPoint.XlAxisType.md)** constants.|
-| _Index2_|Optional|**Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **[XlAxisGroup](PowerPoint.XlAxisGroup.md)** constants.|
+| _Index1_|Optional|**Variant**|The axis type. Series axes apply only to 3D charts. Can be one of the  **[XlAxisType](PowerPoint.XlAxisType.md)** constants.|
+| _Index2_|Optional|**Variant**|The axis group. 3D charts have only one set of axes. Can be one of the  **[XlAxisGroup](PowerPoint.XlAxisGroup.md)** constants.|
 
 ## Remarks
 

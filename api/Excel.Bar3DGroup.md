@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Bar3DGroup property (Excel Graph)
 
-Returns a **ChartGroup** object that represents the specified bar chart group on a 3-D chart. Read-only.
+Returns a **ChartGroup** object that represents the specified bar chart group on a 3D chart. Read-only.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns a **[ChartGroup](Excel.ChartGr
 
 ## Example
 
-This example sets the space between bar clusters in the 3-D bar chart group to be 50 percent of the bar width.
+This example sets the space between bar clusters in the 3D bar chart group to be 50 percent of the bar width.
 
 ```vb
 myChart.BarGroup3DGroup.GapWidth = 50

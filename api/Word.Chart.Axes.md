@@ -27,9 +27,9 @@ _expression_. `Axes`( `_Type_` , `_AxisGroup_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|The axis to return. Can be one of the following  **[XlAxisType](Word.xlaxistype.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
+| _Type_|Optional| **Variant**|The axis to return. Can be one of the following  **[XlAxisType](Word.xlaxistype.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3D charts).|
 | _AxisGroup_|Optional| **[XlAxisGroup](Word.xlaxisgroup.md)**|One of the enumeration values that specifies the axis group. The default is  **xlPrimary**.
- **Note**  3-D charts have only one axis group.
+ **Note**  3D charts have only one axis group.
 
 |
 

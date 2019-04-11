@@ -26,7 +26,7 @@ _expression_. `PictureUnit2`
 
 ## Example
 
-The following example sets series one for the first chart in the active document to stack pictures and uses each picture to represent five units. You should run the example on a 2-D column chart that has picture data markers.
+The following example sets series one for the first chart in the active document to stack pictures and uses each picture to represent five units. You should run the example on a 2D column chart that has picture data markers.
 
 
 ```vb

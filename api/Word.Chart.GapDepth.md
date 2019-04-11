@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Chart.GapDepth property (Word)
 
-Returns or sets the distance, as a percentage of the marker width, between the data series in a 3-D chart. Read/write  **Long**.
+Returns or sets the distance, as a percentage of the marker width, between the data series in a 3D chart. Read/write  **Long**.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_. `GapDepth`
 The value of this property must be between 0 and 500. 
 
 
- **Note**  This property applies only to 3-D charts.
+ **Note**  This property applies only to 3D charts.
 
 
 ## Example
 
-The following example sets the distance between the data series for the first chart in the active document to 200 percent of the marker width. You should run the example on a 3-D chart (the  **GapDepth** property fails on 2-D charts).
+The following example sets the distance between the data series for the first chart in the active document to 200 percent of the marker width. You should run the example on a 3D chart (the  **GapDepth** property fails on 2D charts).
 
 
 ```vb

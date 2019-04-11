@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Floor.PictureType property (Word)
 
-Returns or sets a value that specifies how pictures are displayed on the walls and faces of a 3-D chart. Read/write  **Variant**.
+Returns or sets a value that specifies how pictures are displayed on the walls and faces of a 3D chart. Read/write  **Variant**.
 
 
 ## Syntax

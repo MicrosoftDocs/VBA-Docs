@@ -38,7 +38,7 @@ The value of this property can be one of the following  **[XlEndStyleCap](Word.x
 
 ## Example
 
-The following example sets the end style for the error bars for series one of the first chart in the active document. You should run the example on a 2-D line chart that has Y error bars for the first series.
+The following example sets the end style for the error bars for series one of the first chart in the active document. You should run the example on a 2D line chart that has Y error bars for the first series.
 
 
 ```vb

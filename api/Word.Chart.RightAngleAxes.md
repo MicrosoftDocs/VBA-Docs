@@ -26,14 +26,14 @@ _expression_. `RightAngleAxes`
 
 ## Remarks
 
-This property applies only to 3-D line, column, and bar charts. 
+This property applies only to 3D line, column, and bar charts. 
 
 If this property is set to  **True**, the **[Perspective](Word.Chart.Perspective.md)** property is ignored.
 
 
 ## Example
 
-The following example sets the axes for the first chart in the active document to intersect at right angles. You should run the example on a 3-D chart.
+The following example sets the axes for the first chart in the active document to intersect at right angles. You should run the example on a 3D chart.
 
 
 ```vb

@@ -31,7 +31,7 @@ The hole size is expressed as a percentage of the chart size, from 10 through 90
 
 ## Example
 
-The following example sets the hole size for doughnut group one of the first chart in the active document. You should run the example on a 2-D doughnut chart.
+The following example sets the hole size for doughnut group one of the first chart in the active document. You should run the example on a 2D doughnut chart.
 
 
 ```vb

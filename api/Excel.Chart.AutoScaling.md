@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.AutoScaling property (Excel)
 
-**True** if Microsoft Excel scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The **[RightAngleAxes](Excel.Chart.RightAngleAxes.md)** property must be **True**. Read/write **Boolean**.
+**True** if Microsoft Excel scales a 3D chart so that it's closer in size to the equivalent 2D chart. The **[RightAngleAxes](Excel.Chart.RightAngleAxes.md)** property must be **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Example
 
-This example automatically scales Chart1. The example should be run on a 3-D chart.
+This example automatically scales Chart1. The example should be run on a 3D chart.
 
 
 ```vb

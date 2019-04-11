@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Floor.PictureType property (Excel)
 
-Returns or sets a  **Variant** value that represents the way pictures are displayed on the walls and faces of a 3-D chart.
+Returns or sets a  **Variant** value that represents the way pictures are displayed on the walls and faces of a 3D chart.
 
 
 ## Syntax

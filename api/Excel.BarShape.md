@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BarShape property (Excel Graph)
 
-Returns or sets the shape used with the specified 3-D bar or column chart. Read/write **[XlBarShape](excel.xlbarshape.md)**.
+Returns or sets the shape used with the specified 3D bar or column chart. Read/write **[XlBarShape](excel.xlbarshape.md)**.
 
 ## Syntax
 

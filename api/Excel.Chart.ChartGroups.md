@@ -39,7 +39,7 @@ Object
 
 ## Example
 
-This example turns on up and down bars for chart group one on Chart1 and then sets their colors. The example should be run on a 2-D line chart containing two series that intersect at one or more data points.
+This example turns on up and down bars for chart group one on Chart1 and then sets their colors. The example should be run on a 2D line chart containing two series that intersect at one or more data points.
 
 
 ```vb

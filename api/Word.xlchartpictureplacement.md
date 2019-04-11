@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # XlChartPicturePlacement enumeration (Word)
 
-Specifies the placement of a user-selected picture on a bar in a 3-D bar or column.
+Specifies the placement of a user-selected picture on a bar in a 3D bar or column.
 
 
 

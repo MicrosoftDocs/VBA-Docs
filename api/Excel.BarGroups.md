@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BarGroups method (Excel Graph)
 
-On a 2-D chart, this method returns an object that represents either a single bar chart group or a collection of all the bar chart groups.
+On a 2D chart, this method returns an object that represents either a single bar chart group or a collection of all the bar chart groups.
 
 ## Syntax
 
@@ -30,7 +30,7 @@ _expression_ Required. An expression that returns one of the objects in the **[C
 
 ## Example
 
-This example sets the space between bar clusters in the 2-D bar chart group to be 50 percent of the bar width.
+This example sets the space between bar clusters in the 2D bar chart group to be 50 percent of the bar width.
 
 ```vb
 myChart.BarGroups(1).GapWidth = 50

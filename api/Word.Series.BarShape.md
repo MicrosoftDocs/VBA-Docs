@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Series.BarShape property (Word)
 
-Returns or sets the shape used for a single series in a 3-D bar or column chart. Read/write  **[XlBarShape](Word.xlbarshape.md)**.
+Returns or sets the shape used for a single series in a 3D bar or column chart. Read/write  **[XlBarShape](Word.xlbarshape.md)**.
 
 
 ## Syntax

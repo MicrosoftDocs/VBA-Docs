@@ -26,7 +26,7 @@ Points are numbered from left to right in the series. `Points(1)` is the leftmos
 
 ## Example
 
-The following example sets the marker style for the third point in series one. For this example to work, series one must be a 2-D line, scatter, or radar series.
+The following example sets the marker style for the third point in series one. For this example to work, series one must be a 2D line, scatter, or radar series.
 
 ```vb
 myChart.SeriesCollection(1).Points(3).MarkerStyle = xlDiamond

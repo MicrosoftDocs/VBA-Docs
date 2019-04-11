@@ -39,7 +39,7 @@ _expression_ Required. An expression that returns an **[Axis](excel.axis-graph-o
 
 ### Remarks
 
-For 3-D charts, only **xlPrimary** is valid.
+For 3D charts, only **xlPrimary** is valid.
 
 
 ### Example

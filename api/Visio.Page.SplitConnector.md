@@ -30,8 +30,8 @@ _expression_. `SplitConnector`( `_ConnectorToSplit_` , `_Shape_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ConnectorToSplit_|Required| **[Shape](Visio.Shape.md)**|The connector to split. Must be a routable one-dimensional (1-D) connector.|
-| _Shape_|Required| **Shape**|The shape to use to split the connector. Must be a two-dimensional (2-D) shape.|
+| _ConnectorToSplit_|Required| **[Shape](Visio.Shape.md)**|The connector to split. Must be a routable one-dimensional (1D) connector.|
+| _Shape_|Required| **Shape**|The shape to use to split the connector. Must be a two-dimensional (2D) shape.|
 
 ## Return value
 

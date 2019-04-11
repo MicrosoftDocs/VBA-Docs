@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns a **[Trendline](excel.trendlin
 
 ## Example
 
-This example sets the number of units that the trendline extends forward and backward. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets the number of units that the trendline extends forward and backward. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 ```vb
 With myChart.SeriesCollection(1).Trendlines(1) 

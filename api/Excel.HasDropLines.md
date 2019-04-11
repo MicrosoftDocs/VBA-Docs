@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example turns on drop lines for chart group one and then sets their line style, weight, and color. The example should be run on a 2-D line chart that has one series.
+This example turns on drop lines for chart group one and then sets their line style, weight, and color. The example should be run on a 2D line chart that has one series.
 
 ```vb
 With myChart.ChartGroups(1) 

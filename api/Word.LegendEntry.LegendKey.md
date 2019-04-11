@@ -26,7 +26,7 @@ _expression_. `LegendKey`
 
 ## Example
 
-The following example sets the legend key for legend entry one on the first chart in the active document to be a triangle. You should run the example on a 2-D line chart.
+The following example sets the legend key for legend entry one on the first chart in the active document to be a triangle. You should run the example on a 2D line chart.
 
 
 ```vb

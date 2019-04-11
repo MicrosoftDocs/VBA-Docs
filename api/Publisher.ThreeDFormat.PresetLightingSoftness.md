@@ -36,7 +36,7 @@ The  **PresetLightingSoftness** property value can be one of the **[MsoPresetLig
 
 ## Example
 
-This example sets the extrusion for the first shape on the first page of the active publication to be lit brightly from the left. For this example to work, the specified shape must be a 3-D shape.
+This example sets the extrusion for the first shape on the first page of the active publication to be lit brightly from the left. For this example to work, the specified shape must be a 3D shape.
 
 
 ```vb

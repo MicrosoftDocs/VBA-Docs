@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextFrame.ThreeD property (Word)
 
-Returns a [ThreeDFormat](Word.ThreeDFormat.md) object that contains 3-D effect formatting properties for the specified text frame. Read-only.
+Returns a [ThreeDFormat](Word.ThreeDFormat.md) object that contains 3D effect formatting properties for the specified text frame. Read-only.
 
 
 ## Syntax

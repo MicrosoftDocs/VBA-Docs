@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # HorizontalLineFormat.NoShade property (Word)
 
- **True** if Microsoft Word draws the specified horizontal line without 3-D shading. Read/write **Boolean**.
+ **True** if Microsoft Word draws the specified horizontal line without 3D shading. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ You can only use this property with horizontal lines that are not based on an ex
 
 ## Example
 
-This example adds a horizontal line without any 3-D shading.
+This example adds a horizontal line without any 3D shading.
 
 
 ```vb

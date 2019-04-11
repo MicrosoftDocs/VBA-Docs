@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # Range object (Excel)
 
-Represents a cell, a row, a column, a selection of cells containing one or more contiguous blocks of cells, or a 3-D range.
+Represents a cell, a row, a column, a selection of cells containing one or more contiguous blocks of cells, or a 3D range.
 
 ## Remarks
 

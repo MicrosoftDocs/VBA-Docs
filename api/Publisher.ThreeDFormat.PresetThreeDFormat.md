@@ -35,14 +35,14 @@ The  **PresetThreeDFormat** property value can be one of the **[MsoPresetThreeDF
 
 Each preset extrusion format contains a set of preset values for the various properties of the extrusion. If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed**. 
 
-The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the  **3-D Style** button on the **Formatting** toolbar.
+The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the  **3D Style** button on the **Formatting** toolbar.
 
 Use the  **[SetThreeDFormat](Publisher.ThreeDFormat.SetThreeDFormat.md)** method to set the preset extrusion format.
 
 
 ## Example
 
-This example sets the extrusion format for the first shape on the first page of the active publication to 3-D Style 12 if the shape initially has a custom extrusion format. For this example to work, the specified shape must be a 3-D shape.
+This example sets the extrusion format for the first shape on the first page of the active publication to 3D Style 12 if the shape initially has a custom extrusion format. For this example to work, the specified shape must be a 3D shape.
 
 
 ```vb

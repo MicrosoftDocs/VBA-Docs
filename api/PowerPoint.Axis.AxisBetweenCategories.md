@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-This property applies only to category axes, and it does not apply to 3-D charts.
+This property applies only to category axes, and it does not apply to 3D charts.
 
 
 ## Example

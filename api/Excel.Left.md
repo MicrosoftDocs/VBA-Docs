@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Left property (Excel Graph)
 
-The **Left** property as it applies to various objects.
+The **Left** property as it applies to the following objects.
 
 ## Application and Datasheet objects
 
@@ -43,6 +43,14 @@ _expression_.**Left**
 
 _expression_ Required. An expression that returns one of the above objects.
 
+### Example
+
+This example aligns the left edge of the chart title with the left edge of the chart area.
+
+```vb
+myChart.ChartTitle.Left = 0 
+
+```
 
 ## Axis, LegendEntry, and LegendKey objects
 
@@ -66,12 +74,5 @@ _expression_.**Left**
 _expression_ Required. An expression that returns a **[Chart](Excel.Chart-graph-object.md)** object.
 
 
-## Example
 
-Applies to the **ChartTitle** object. This example aligns the left edge of the chart title with the left edge of the chart area.
-
-```vb
-myChart.ChartTitle.Left = 0 
-
-```
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

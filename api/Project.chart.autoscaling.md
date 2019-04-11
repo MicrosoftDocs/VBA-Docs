@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.AutoScaling property (Project)
- **True** if Project scales a 3-D chart so that it is closer in size to the equivalent 2-D chart. Read/write **Boolean**.
+ **True** if Project scales a 3D chart so that it is closer in size to the equivalent 2D chart. Read/write **Boolean**.
 
 ## Syntax
 
@@ -24,14 +24,14 @@ For auto-scaling to work, the  **[RightAngleAxes](Project.chart.rightangleaxes.m
 
 ## Example
 
-In the following example, the chart is the first shape in the "3-D chart" report. The example automatically scales the chart. The example should be run on a 3-D chart.
+In the following example, the chart is the first shape in the "3D chart" report. The example automatically scales the chart. The example should be run on a 3D chart.
 
 
 ```vb
 Sub SetChartColor()
     Dim chartShape As Shape
     
-    Set chartShape = ActiveProject.Reports("3-D chart").Shapes(1)
+    Set chartShape = ActiveProject.Reports("3D chart").Shapes(1)
     With chartShape
         .RightAngleAxes = True
         .AutoScaling = True

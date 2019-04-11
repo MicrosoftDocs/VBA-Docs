@@ -23,8 +23,8 @@ _expression_. `HasAxis`
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _axisType_|Required|**Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **Office.XlAxisType** constants.|
-| _AxisGroup_|Optional|**Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **Office.XlAxisGroup** constants.|
+| _axisType_|Required|**Variant**|The axis type. Series axes apply only to 3D charts. Can be one of the  **Office.XlAxisType** constants.|
+| _AxisGroup_|Optional|**Variant**|The axis group. 3D charts have only one set of axes. Can be one of the  **Office.XlAxisGroup** constants.|
 
 ## Return value
 

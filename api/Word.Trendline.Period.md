@@ -31,7 +31,7 @@ This property can have a value from 2 through 255.
 
 ## Example
 
-The following example sets the period for the moving-average trendline on the first chart in the active document. You should run the example on a 2-D column chart that has a single series that contains 10 data points and a moving-average trendline.
+The following example sets the period for the moving-average trendline on the first chart in the active document. You should run the example on a 2D column chart that has a single series that contains 10 data points and a moving-average trendline.
 
 
 ```vb

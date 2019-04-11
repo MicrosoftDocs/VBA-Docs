@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.GapDepth property (Project)
-Gets or sets the distance between the data series in a 3-D chart, as a percentage of the marker width. Read/write  **Long**.
+Gets or sets the distance between the data series in a 3D chart, as a percentage of the marker width. Read/write  **Long**.
 
 ## Syntax
 
@@ -19,12 +19,12 @@ _expression_. `GapDepth`
 
 ## Remarks
 
-The value of the  **GapDepth** property must be between 0 and 500. The **GapDepth** property fails on 2-D charts.
+The value of the  **GapDepth** property must be between 0 and 500. The **GapDepth** property fails on 2D charts.
 
 
 ## Example
 
-The following example sets the distance between the data series in the chart to 200 percent of the marker width. The example should be run on a 3-D chart.
+The following example sets the distance between the data series in the chart to 200 percent of the marker width. The example should be run on a 3D chart.
 
 
 ```vb

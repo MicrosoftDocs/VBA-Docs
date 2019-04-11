@@ -37,7 +37,7 @@ pts(pts.Count).ApplyDataLabels type:=xlShowValue
 
 <br/>
 
-The following example sets the marker style for the third point in series one in embedded chart one on worksheet one. The specified series must be a 2-D line, scatter, or radar series.
+The following example sets the marker style for the third point in series one in embedded chart one on worksheet one. The specified series must be a 2D line, scatter, or radar series.
 
 ```vb
 Worksheets(1).ChartObjects(1).Chart. _ 

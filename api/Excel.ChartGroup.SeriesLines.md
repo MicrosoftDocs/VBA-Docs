@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartGroup.SeriesLines property (Excel)
 
-Returns a  **[SeriesLines](Excel.SeriesLines(object).md)** object that represents the series lines for a 2-D stacked bar, 2-D stacked column, pie of pie, or bar of pie chart. Read-only.
+Returns a  **[SeriesLines](Excel.SeriesLines(object).md)** object that represents the series lines for a 2D stacked bar, 2D stacked column, Pie of Pie, or Bar of Pie chart. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Example
 
-This example turns on series lines for chart group one in Chart1 and then sets their line style, weight, and color. The example should be run on a 2-D stacked column chart that has two or more series.
+This example turns on series lines for chart group one in Chart1 and then sets their line style, weight, and color. The example should be run on a 2D stacked column chart that has two or more series.
 
 
 ```vb

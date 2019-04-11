@@ -42,12 +42,12 @@ _expression_. `DropConnected`( `_ObjectToDrop_` , `_TargetShape_` , `_PlacementD
 
 ## Remarks
 
-The  _ObjectToDrop_ parameter must be an object that references a two-dimensional (2-D) shape. If you pass a selection of shapes represented by an **IDataObject** object, Visio uses only the first of those shapes. If _ObjectToDrop_ is not a valid Visio object, Visio returns an Invalid Parameter error. If _ObjectToDrop_ is not a shape that matches the context of the method, Visio returns an Invalid Source error.
+The  _ObjectToDrop_ parameter must be an object that references a two-dimensional (2D) shape. If you pass a selection of shapes represented by an **IDataObject** object, Visio uses only the first of those shapes. If _ObjectToDrop_ is not a valid Visio object, Visio returns an Invalid Parameter error. If _ObjectToDrop_ is not a shape that matches the context of the method, Visio returns an Invalid Source error.
 
-The  _TargetShape_ parameter must be a 2-D top-level shape on the page. If _TargetShape_ is invalid, Visio returns an Invalid Source error.
+The  _TargetShape_ parameter must be a 2D top-level shape on the page. If _TargetShape_ is invalid, Visio returns an Invalid Source error.
 
 The  _PlacementDir_ parameter value must be one of the **VisAutoConnectDir** constants. If you pass **visAutoConnectDirNone** for _PlacementDir_ , Visio places the shape in a default location (0,0) and then connects it; the shape is not placed in relation to the target.
 
-The  _Connector_ parameter must be an object that references a one-dimensional (1-D) routable shape. If you pass a selection of shapes represented by an **IDataObject** object, Visio uses only the first of those shapes. If _Connector_ is not a valid Visio object, Visio returns an Invalid Parameter error. If _Connector_ is not a shape that matches the context of the method, Visio returns an Invalid Source error.
+The  _Connector_ parameter must be an object that references a one-dimensional (1D) routable shape. If you pass a selection of shapes represented by an **IDataObject** object, Visio uses only the first of those shapes. If _Connector_ is not a valid Visio object, Visio returns an Invalid Parameter error. If _Connector_ is not a shape that matches the context of the method, Visio returns an Invalid Source error.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,7 +30,7 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 ## Example
 
-This example turns on up and down bars for chart group one and then sets their colors. The example should be run on a 2-D line chart containing two series that intersect at one or more data points.
+This example turns on up and down bars for chart group one and then sets their colors. The example should be run on a 2D line chart containing two series that intersect at one or more data points.
 
 ```vb
 With myChart.ChartGroups(1) 

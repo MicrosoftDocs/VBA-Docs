@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ThreeDFormat.SetThreeDFormat method (Publisher)
 
-Sets the preset extrusion format. Each preset extrusion format contains a set of preset values for the 3-D properties of the extrusion.
+Sets the preset extrusion format. Each preset extrusion format contains a set of preset values for the 3D properties of the extrusion.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_.**SetThreeDFormat**(**_PresetThreeDFormat_**)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|PresetThreeDFormat|Required| **MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3-D** button on the **Drawing** toolbar.|
+|PresetThreeDFormat|Required| **MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3D** button on the **Drawing** toolbar.|
 
 ## Remarks
 
@@ -63,7 +63,7 @@ The PresetThreeDFormat parameter can be one of the  **MsoPresetThreeDFormat** co
 
 ## Example
 
-This example adds an oval to the active publication and sets its extrusion format to one of the preset 3-D formats.
+This example adds an oval to the active publication and sets its extrusion format to one of the preset 3D formats.
 
 
 ```vb

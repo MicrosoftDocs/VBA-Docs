@@ -31,7 +31,7 @@ _expression_. `ErrorBars`
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example sets the error bar color for series one of the first chart in the active document. You should run the example on a 2-D line chart that has error bars for series one.
+The following example sets the error bar color for series one of the first chart in the active document. You should run the example on a 2D line chart that has error bars for series one.
 
 
 

@@ -32,7 +32,7 @@ _expression_. `SetElement` _(RHS)_
 
 ## Remarks
 
-The  _RHS_ value for the **SetElement** method corresponds to items in the **Add Chart Element** submenus. Different items are enabled, depending on the type of chart. If you try to add an element that does not exist for a particular chart, you get an unspecified error. For example, on a 3-D chart, the **Error Bars** item in the **Add Chart Element** drop-down list is unavailable. A call to `Chart.SetElement msoElementErrorBarStandardDeviation` results in an error.
+The  _RHS_ value for the **SetElement** method corresponds to items in the **Add Chart Element** submenus. Different items are enabled, depending on the type of chart. If you try to add an element that does not exist for a particular chart, you get an unspecified error. For example, on a 3D chart, the **Error Bars** item in the **Add Chart Element** drop-down list is unavailable. A call to `Chart.SetElement msoElementErrorBarStandardDeviation` results in an error.
 
 
 ## Example
@@ -45,7 +45,7 @@ Sub TestSetElements()
     Dim chartShape As Shape
     Dim reportName As String
     
-    reportName = "Simple 3-D chart"
+    reportName = "Simple 3D chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
     
     With chartShape.Chart

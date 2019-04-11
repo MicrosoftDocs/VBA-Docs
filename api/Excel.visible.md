@@ -5,42 +5,39 @@ f1_keywords:
 - vbagr10.chm66094
 ms.prod: excel
 ms.assetid: 8a2b1b7a-b880-0e43-ca9f-c5d2207f7cfd
-ms.date: 06/08/2017
+ms.date: 04/12/2019
 localization_priority: Normal
 ---
 
 
 # Visible property (Excel Graph)
 
-Visible property as it applies to the  **Application** object.
+The **Visible** property as it applies to the following objects.
+
+## Application object
 
 Determines whether the object is visible. Read/write **Boolean**.
 
-_expression_.**Visible**
-
-_expression_ Required. An expression that returns an [Application](Excel.Application-graph-property.md) object.
-Visible property as it applies to the  **ChartFillFormat** object.
-Determines whether the application is visible. Read/write MsoTriState .
-
-
-|MsoTriState can be one of these MsoTriState constants.|
-| **msoCTrue**|
-| **msoFalse**|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue** The object is visible.|
+### Syntax
 
 _expression_.**Visible**
-_expression_ Required. An expression that returns a [ChartFillFormat](Excel.ChartFillFormat.md) object.
 
-## Example
+_expression_ Required. An expression that returns an **[Application](excel.application-graph-object.md)** object.
 
-As it applies to the  **ChartFillFormat** object.
+
+## ChartFillFormat object
+
+Determines whether the application is visible. Read/write **[MsoTriState](office.msotristate.md)**.
+
+### Syntax
+
+_expression_.**Visible**
+
+_expression_ Required. An expression that returns a **[ChartFillFormat](Excel.ChartFillFormat.md)** object.
+
+### Example
 
 This example formats the chart's fill with a preset gradient and then makes the fill visible.
-
-
-
 
 ```vb
 With myChart.ChartArea.Fill 

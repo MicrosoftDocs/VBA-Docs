@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Line3DGroup property (Excel Graph)
 
-Returns a **ChartGroup** object that represents the line chart group on a 3-D chart. Read-only.
+Returns a **ChartGroup** object that represents the line chart group on a 3D chart. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ An expression that returns a **[ChartGroup](Excel.ChartGroup-graph-
 
 ## Example
 
-This example sets the 3-D line group to use a different color for each data marker.
+This example sets the 3D line group to use a different color for each data marker.
 
 ```vb
 myChart.Line3DGroup.VaryByCategories = True

@@ -24,7 +24,7 @@ _expression_ An expression that returns a **[HiLoLines](Excel.HiLoLines-graph-ob
 
 ## Example
 
-This example turns on high-low lines for chart group one on the chart and then sets their line style, weight, and color. The example should be run on a 2-D line chart that has three series of stock-quote-like data (high-low-close).
+This example turns on high-low lines for chart group one on the chart and then sets their line style, weight, and color. The example should be run on a 2D line chart that has three series of stock-quote-like data (high-low-close).
 
 ```vb
 With myChart.ChartGroups(1) 

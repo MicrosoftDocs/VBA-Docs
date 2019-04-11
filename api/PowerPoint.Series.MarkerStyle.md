@@ -60,7 +60,7 @@ _expression_. `MarkerStyle`
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example sets the marker style for series one for the first chart in the active document. You should run the example on a 2-D line chart.
+The following example sets the marker style for series one for the first chart in the active document. You should run the example on a 2D line chart.
 
 
 

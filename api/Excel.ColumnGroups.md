@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ColumnGroups method (Excel Graph)
 
-On a 2-D chart, returns an object that represents either a single column chart group or a collection of the column chart groups.
+On a 2D chart, returns an object that represents either a single column chart group or a collection of the column chart groups.
 
 ## Syntax
 
@@ -30,7 +30,7 @@ _expression_ Required. An expression that returns one of the objects in the **[C
 
 ## Example
 
-This example sets the space between column clusters in the 2-D column chart group to be 50 percent of the column width.
+This example sets the space between column clusters in the 2D column chart group to be 50 percent of the column width.
 
 ```vb
 myChart.ColumnGroups(1).GapWidth = 50

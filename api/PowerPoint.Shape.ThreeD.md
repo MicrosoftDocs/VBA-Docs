@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.ThreeD property (PowerPoint)
 
-Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that contains 3-D - effect formatting properties for the specified shape. Read-only.
+Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that contains 3D - effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ ThreeDFormat
 
 ## Example
 
-This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  _myDocument_.
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one on  _myDocument_.
 
 
 ```vb

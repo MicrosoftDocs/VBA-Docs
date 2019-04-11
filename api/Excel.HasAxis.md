@@ -26,8 +26,8 @@ _expression_ Required. An expression that returns one of the objects in the **Ap
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|_Index1_ |Optional |**[XlAxisType](excel.xlaxistype.md)**|The type of axis. Can be one of these **XlAxisType** constants: **xlCategory**, **xlValue**, or **xlSeriesAxis**. Series axes apply only to 3-D charts.|
-|_Index2_ |Optional |**[XlAxisGroup](excel.xlaxisgroup.md)**|The axis priority. Can be one of these **XlAxisGroup** constants: **xlPrimary** or **xlSecondary**. 3-D charts have only one set of axes.|
+|_Index1_ |Optional |**[XlAxisType](excel.xlaxistype.md)**|The type of axis. Can be one of these **XlAxisType** constants: **xlCategory**, **xlValue**, or **xlSeriesAxis**. Series axes apply only to 3D charts.|
+|_Index2_ |Optional |**[XlAxisGroup](excel.xlaxisgroup.md)**|The axis priority. Can be one of these **XlAxisGroup** constants: **xlPrimary** or **xlSecondary**. 3D charts have only one set of axes.|
 
 ## Remarks
 

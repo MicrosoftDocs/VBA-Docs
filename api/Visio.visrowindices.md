@@ -19,7 +19,7 @@ Logical indices of rows in ShapeSheet sections of  **Shape** or **Style** object
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRow1stHyperlink**|0|Index of the first row in  **visSectionHyperlink**.|
-| **visRow3DRotationProperties**|30|Index of the row in  **visSectionObject** that defines the 3-D rotation properties of the shape.|
+| **visRow3DRotationProperties**|30|Index of the row in  **visSectionObject** that defines the 3D rotation properties of the shape.|
 | **visRowAction**|0|Index of the first row in  **visSectionAction**.|
 | **visRowAlign**|14|Index of the row in  **visSectionObject** that defines the shape's alignment.|
 | **visRowAnnotation**|0|Index of the first row in  **visSectionAnnotation**.|
@@ -67,7 +67,7 @@ Logical indices of rows in ShapeSheet sections of  **Shape** or **Style** object
 | **visRowThemeProperties**|31|Index of the row in  **visSectionObject** that defines theme properties for a shape.|
 | **visRowUser**|0|Index of the first row in  **visSectionUser**.|
 | **visRowVertex**|1|Index of the first vertex row in a Geometry section.|
-| **visRowXForm1D**|4|Index of the row in 1-D shape's  **visSectionObject** that defines its endpoints.|
+| **visRowXForm1D**|4|Index of the row in 1D shape's  **visSectionObject** that defines its endpoints.|
 | **visRowXFormOut**|1|Index of the row in  **visSectionObject** that defines the shape's transform properties.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

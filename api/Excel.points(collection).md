@@ -34,7 +34,7 @@ pts(pts.Count).ApplyDataLabels Type:=xlShowValue
 
 <br/>
 
-The following example sets the marker style for the third point in series one in the chart. The specified series must be a 2-D line, scatter, or radar series.
+The following example sets the marker style for the third point in series one in the chart. The specified series must be a 2D line, scatter, or radar series.
 
 ```vb
 myChart.SeriesCollection(1).Points(3).MarkerStyle = xlDiamond

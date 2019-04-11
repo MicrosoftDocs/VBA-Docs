@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DoughnutGroups method (Excel Graph)
 
-On a 2-D chart, returns an object that represents either a single doughnut chart group or a collection of the doughnut chart groups.
+On a 2D chart, returns an object that represents either a single doughnut chart group or a collection of the doughnut chart groups.
 
 ## Syntax
 

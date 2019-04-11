@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md
 
 ## Remarks
 
-This property applies only to 2-D stacked bar, 2-D stacked column, pie-of-pie, or bar-of-pie charts. 
+This property applies only to 2D stacked bar, 2D stacked column, pie-of-pie, or bar-of-pie charts. 
 
 
 ## Example
@@ -33,7 +33,7 @@ This property applies only to 2-D stacked bar, 2-D stacked column, pie-of-pie, o
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example enables series lines for chart group one of the first chart in the active document and then sets their line style, weight, and color. You should run the example on a 2-D stacked column chart that has two or more series.
+The following example enables series lines for chart group one of the first chart in the active document and then sets their line style, weight, and color. You should run the example on a 2D stacked column chart that has two or more series.
 
 
 

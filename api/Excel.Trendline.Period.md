@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Trendline](Excel.Trendline-graph-obje
 
 ## Example
 
-This example sets the period for the moving-average trendline on Chart1. The example should be run on a 2-D column chart with a single series that contains 10 data points and a moving-average trendline.
+This example sets the period for the moving-average trendline on Chart1. The example should be run on a 2D column chart with a single series that contains 10 data points and a moving-average trendline.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Series.HasErrorBars property (Excel)
 
- **True** if the series has error bars. This property isn't available for 3-D charts. Read/write **Boolean**.
+ **True** if the series has error bars. This property isn't available for 3D charts. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 
 ## Example
 
-This example removes error bars from series one in Chart1. The example should be run on a 2-D line chart that has error bars for series one.
+This example removes error bars from series one in Chart1. The example should be run on a 2D line chart that has error bars for series one.
 
 
 ```vb

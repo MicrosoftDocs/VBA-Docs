@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AreaGroups method (Excel Graph)
 
-On a 2-D chart, this method returns an object that represents a single area chart group or a collection of all the area chart groups.
+On a 2D chart, this method returns an object that represents a single area chart group or a collection of all the area chart groups.
 
 ## Syntax
 
@@ -30,7 +30,7 @@ _expression_ Required. An expression that returns one of the objects in the **[C
 
 ## Example
 
-This example turns on drop lines for the 2-D area chart group.
+This example turns on drop lines for the 2D area chart group.
 
 ```vb
 myChart.AreaGroups(1).HasDropLines = True

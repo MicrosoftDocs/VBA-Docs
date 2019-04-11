@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.ThreeD property (Excel)
 
-Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D - effect formatting properties for the specified shape. Read-only.
+Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3D - effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 ## Example
 
-This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  _myDocument_.
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one on  _myDocument_.
 
 
 ```vb

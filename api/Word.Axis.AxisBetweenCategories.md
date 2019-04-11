@@ -26,7 +26,7 @@ _expression_. `AxisBetweenCategories`
 
 ## Remarks
 
-This property applies only to category axes, and it does not apply to 3-D charts.
+This property applies only to category axes, and it does not apply to 3D charts.
 
 
 ## Example
