@@ -41,7 +41,7 @@ Shape
 
 ## Example
 
-This example adds a 3D model to a newly created drawing canvas in the active document.
+This example embeds a 3D model in a newly created drawing canvas in the active document.
 
 
 ```vb
@@ -49,15 +49,10 @@ Sub NewCanvasPicture()
  Dim shpCanvas As Shape 
  
  'Add a drawing canvas to the active document 
- Set shpCanvas = ActiveDocument.Shapes _ 
- .AddCanvas(Left:=100, Top:=75, _ 
- Width:=200, Height:=300) 
+ Set shpCanvas = ActiveDocument.Shapes.AddCanvas(Left:=100, Top:=75, Width:=200, Height:=300)
  
  'Add a 3D model to the drawing canvas 
- shpCanvas.CanvasItems.Add3DModel _ 
-     FileName:="c:\my 3D models\sphere.glb", _ 
-     LinkToFile:=False, SaveWithDocument:=True, _ 
-     Left:=100, Top:=100, Width:=70, Height:=70 
+ shpCanvas.CanvasItems.Add3DModel(FileName:="c:\my 3D models\sphere.glb", LinkToFile:=False, SaveWithDocument:=True, Left:=100, Top:=100, Width:=70, Height:=70)
 End Sub
 ```
 
