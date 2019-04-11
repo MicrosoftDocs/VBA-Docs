@@ -3,7 +3,7 @@ title: Shapes.Add3DModel method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Add3DModel
-ms.date: 04/11/2019
+ms.date: 04/12/2019
 localization_priority: Priority
 ---
 

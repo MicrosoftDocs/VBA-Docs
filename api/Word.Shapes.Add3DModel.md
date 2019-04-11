@@ -3,26 +3,24 @@ title: Shapes.Add3DModel method (Word)
 ms.prod: word
 api_name:
 - Word.Shapes.Add3DModel
-ms.date: 04/01/2019
+ms.date: 04/12/2019
 localization_priority: Priority
 ---
 
 
 # Shapes.Add3DModel method (Word)
 
-Adds a 3D model to a drawing canvas. Returns a  **Shape** object that represents the 3D model and adds it to the **CanvasShapes** collection.
+Adds a 3D model to a drawing canvas. Returns a **[Shape](word.shape.md)** object that represents the 3D model and adds it to the **[CanvasShapes](word.canvasshapes.md)** collection.
 
 
 ## Syntax
 
-_expression_.**Add3DModel** ( _FileName_ , _LinkToFile_ , _SaveWithDocument_ , _Left_ , _Top_ , _Width_ , _Height_ )
+_expression_.**Add3DModel** (_FileName_, _LinkToFile_, _SaveWithDocument_, _Left_, _Top_, _Width_, _Height_)
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a **[Shapes](Word.shapes.md)** collection.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -43,7 +41,6 @@ Shape
 
 This example embeds a 3D model in a newly created drawing canvas in the active document.
 
-
 ```vb
 Sub NewCanvasPicture() 
  Dim shpCanvas As Shape 
@@ -57,9 +54,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Shapes Collection Object](Word.shapes.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
