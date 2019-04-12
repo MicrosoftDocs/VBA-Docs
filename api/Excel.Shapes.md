@@ -86,6 +86,7 @@ End Sub
 - [AddSmartArt](Excel.Shapes.AddSmartArt.md)
 - [AddTextbox](Excel.Shapes.AddTextbox.md)
 - [AddTextEffect](Excel.Shapes.AddTextEffect.md)
+- [Add3DModel](Excel.Shapes.Add3DModel.md)
 - [BuildFreeform](Excel.Shapes.BuildFreeform.md)
 - [Item](Excel.Shapes.Item.md)
 - [SelectAll](Excel.Shapes.SelectAll.md)

@@ -71,7 +71,6 @@ The  **Count** property for this collection in a document returns the number of 
 
 |Name|
 |:-----|
-|[Add3DModel](Word.Shapes.Add3DModel.md)|
 |[AddCallout](Word.Shapes.AddCallout.md)|
 |[AddCanvas](Word.Shapes.AddCanvas.md)|
 |[AddChart2](Word.shapes.addchart2.md)|
@@ -86,6 +85,7 @@ The  **Count** property for this collection in a document returns the number of 
 |[AddSmartArt](Word.Shapes.AddSmartArt.md)|
 |[AddTextbox](Word.Shapes.AddTextbox.md)|
 |[AddTextEffect](Word.Shapes.AddTextEffect.md)|
+|[Add3DModel](Word.Shapes.Add3DModel.md)|
 |[AddWebVideo](Word.shapes.addwebvideo.md)|
 |[BuildFreeform](Word.Shapes.BuildFreeform.md)|
 |[Item](Word.Shapes.Item.md)|
