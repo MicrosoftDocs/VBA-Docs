@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedFields.Item
 ms.assetid: cae0c3a5-3403-f1b1-fe7f-c38ff6be6b07
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
@@ -26,26 +26,23 @@ _expression_ A variable that represents a **[CalculatedFields](Excel.CalculatedF
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number for the object.|
 
 ## Return value
 
-A  **PivotField** object contained by the collection.
+A **[PivotField](Excel.PivotField.md)** object contained by the collection.
 
 
 ## Remarks
 
-The text name of the object is the value of the  **[Name](Excel.PivotField.Name.md)** and **[Value](Excel.PivotField.Value.md)** properties.
+The text name of the object is the value of the **[Name](Excel.PivotField.Name.md)** and **[Value](Excel.PivotField.Value.md)** properties.
 
 
 ## Example
 
 This example sets the formula for calculated field one.
-
 
 ```vb
 Worksheets(1).PivotTables(1).CalculatedFields.Item(1) _ 
@@ -53,9 +50,6 @@ Worksheets(1).PivotTables(1).CalculatedFields.Item(1) _
 ```
 
 
-## See also
 
-
-[CalculatedFields Collection](Excel.CalculatedFields.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ A collection of **[PivotItem](Excel.PivotItem.md)** objects that represents all 
 
 ## Remarks
 
-A PivotTable report that contains January, February, and March items could have a calculated item named "FirstQuarter" defined as the sum of the amounts in January, February, and March.
+A PivotTable report that contains January, February, and March items could have a calculated item named FirstQuarter defined as the sum of the amounts in January, February, and March.
 
 Use the **[CalculatedItems](Excel.PivotField.CalculatedItems.md)** method of the **PivotField** object to return the **CalculatedItems** collection.
 

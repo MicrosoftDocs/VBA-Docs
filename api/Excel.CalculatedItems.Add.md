@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedItems.Add
 ms.assetid: 2a7dff2b-c874-1579-1e95-78841a91e6cd
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
 
 # CalculatedItems.Add method (Excel)
 
-Creates a new calculated item. Returns a  **[PivotItem](Excel.PivotItem.md)** object.
+Creates a new calculated item. Returns a **[PivotItem](Excel.PivotItem.md)** object.
 
 
 ## Syntax
@@ -26,22 +26,17 @@ _expression_ A variable that represents a **[CalculatedItems](Excel.CalculatedIt
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the item.|
 | _Formula_|Required| **String**|The formula for the item.|
-| _UseStandardFormula_|Optional| **Variant**| **False** (default) for upward compatibility. **True** for strings contained in any arguments that are item names, will be interpreted as having been formatted in standard U.S. English instead of local settings.|
+| _UseStandardFormula_|Optional| **Variant**| **False** (default) for upward compatibility. **True** for strings contained in any arguments that are item names; will be interpreted as having been formatted in standard U.S. English instead of local settings.|
 
 ## Return value
 
-A  **PivotItem** object that represents the new calculated item.
+A **PivotItem** object that represents the new calculated item.
 
 
-## See also
 
-
-[CalculatedItems Collection](Excel.CalculatedItems.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
