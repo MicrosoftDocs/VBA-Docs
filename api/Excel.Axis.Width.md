@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.Width property (Excel)
 
-Returns a  **Double** value that represents the width, in points, of the object.
+Returns a **Double** value that represents the width, in points, of the object.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Width**
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

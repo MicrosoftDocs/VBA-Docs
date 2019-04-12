@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.Border property (Excel)
 
-Returns a  **[Border](Excel.Border(object).md)** object that represents the border of the object.
+Returns a **[Border](Excel.Border(object).md)** object that represents the border of the object.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Border**
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

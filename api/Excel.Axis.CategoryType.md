@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.CategoryType property (Excel)
 
-Returns or sets the category axis type. Read/write  **[XlCategoryType](Excel.XlCategoryType.md)**.
+Returns or sets the category axis type. Read/write **[XlCategoryType](Excel.XlCategoryType.md)**.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ You cannot set this property for a value axis.
 
 This example sets the category axis in embedded chart one on worksheet one to use a time scale, with months as the base unit.
 
-
 ```vb
 With Worksheets(1).ChartObjects(1).Chart 
  With .Axes(xlCategory) 
@@ -44,9 +43,6 @@ End With
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

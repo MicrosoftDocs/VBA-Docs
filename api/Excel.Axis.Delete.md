@@ -29,9 +29,6 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 Variant
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.Type property (Excel)
 
-Returns an  **[XlAxisType](Excel.XlAxisType.md)** value that represents the Axis type.
+Returns an **[XlAxisType](Excel.XlAxisType.md)** value that represents the Axis type.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Remarks
 
-When using this property for the horizontal axis of scatter charts,  **xlCategory** will be returned as the Axis type.
+When using this property for the horizontal axis of scatter charts, **xlCategory** will be returned as the Axis type.
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

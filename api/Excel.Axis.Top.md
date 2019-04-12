@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.Top property (Excel)
 
-Returns a  **Double** value that represents the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
+Returns a **Double** value that represents the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Top**
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

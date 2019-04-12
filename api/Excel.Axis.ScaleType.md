@@ -14,23 +14,19 @@ localization_priority: Normal
 
 # Axis.ScaleType property (Excel)
 
-Returns or sets the value axis scale type. Read/write  **[XlScaleType](Excel.XlScaleType.md)**.
+Returns or sets the value axis scale type. Read/write **XlScaleType**.
 
 
 ## Syntax
 
-_expression_. `ScaleType`
+_expression_.**ScaleType**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Remarks
 
-
-
-| **xlScaleType** can be one of these **xlScaleType** constants.|
-| **xlScaleLinear**|
-| **xlScaleLogarithmic**|
+**XlScaleType** can be one of the **[XlScaleType](Excel.XlScaleType.md)** constants.
 
 A logarithmic scale uses base 10 logarithms.
 
@@ -39,15 +35,11 @@ A logarithmic scale uses base 10 logarithms.
 
 This example sets the value axis in Chart1 to use a logarithmic scale.
 
-
 ```vb
 Charts("Chart1").Axes(xlValue).ScaleType = xlScaleLogarithmic
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

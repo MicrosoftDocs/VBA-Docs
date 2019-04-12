@@ -19,22 +19,14 @@ Returns or sets a  **Variant** value that represents the horizontal alignment fo
 
 ## Syntax
 
-_expression_. `HorizontalAlignment`
+_expression_.**HorizontalAlignment**
 
 _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Remarks
 
-The value of this property can be set to one of the following constants:
-
-
-
-| **xlCenter**|
-| **xlDistributed**|
-| **xlJustify**|
-| **xlLeft**|
-| **xlRight**|
+The value of this property can be set to one of the **[XlHAlign](excel.xlhalign.md)** constants.
 
 Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 

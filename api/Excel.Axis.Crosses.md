@@ -14,49 +14,36 @@ localization_priority: Normal
 
 # Axis.Crosses property (Excel)
 
-Returns or sets the point on the specified axis where the other axis crosses. Read/write  **Long**.
+Returns or sets the point on the specified axis where the other axis crosses. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `Crosses`
+_expression_.**Crosses**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Remarks
 
-Can be one of the  **xlAxisCrosses** constants listed in the following table.
+Can be one of the **[XlAxisCrosses](excel.xlaxiscrosses.md)** constants.
 
+This property isn't available for radar charts. For 3D charts, this property can only be applied to the value axis, and indicates where the plane defined by the category axes crosses the value axis.
 
+This property can be used for both category and value axes. On the category axis, **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category.
 
-|**Constant**|**Meaning**|
-|:-----|:-----|
-| **xlAxisCrossesAutomatic**|Microsoft Excel sets the axis crossing point.|
-| **xlMinimum**|The axis crosses at the minimum value.|
-| **xlMaximum**|The axis crosses at the maximum value.|
-| **xlAxisCrossesCustom**|The  **[CrossesAt](Excel.Axis.CrossesAt.md)** property specifies the axis crossing point.|
-
-This property isn't available for radar charts. For 3D charts, this property can only be applied to the value axis and indicates where the plane defined by the category axes crosses the value axis.
-
-This property can be used for both category and value axes. On the category axis,  **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category.
-
-Note that  **xlMinimum** and **xlMaximum** can have different meanings, depending on the axis.
+Note that **xlMinimum** and **xlMaximum** can have different meanings, depending on the axis.
 
 
 ## Example
 
 This example sets the value axis in Chart1 to cross the category axis at the maximum x value.
 
-
 ```vb
 Charts("Chart1").Axes(xlCategory).Crosses = xlMaximum
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Axis.TickLabels property (Excel)
 
-Returns a  **[TickLabels](Excel.TickLabels(object).md)** object that represents the tick-mark labels for the specified axis. Read-only.
+Returns a **[TickLabels](Excel.TickLabels(object).md)** object that represents the tick-mark labels for the specified axis. Read-only.
 
 
 ## Syntax
 
-_expression_. `TickLabels`
+_expression_.**TickLabels**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
@@ -28,15 +28,11 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 This example sets the color of the tick-mark label font for the value axis in Chart1.
 
-
 ```vb
 Charts("Chart1").Axes(xlValue).TickLabels.Font.ColorIndex = 3
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ReversePlotOrder`
+_expression_.**ReversePlotOrder**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
@@ -33,15 +33,11 @@ This property cannot be used on radar charts.
 
 This example plots data points from last to first on the value axis on Chart1.
 
-
 ```vb
 Charts("Chart1").Axes(xlValue).ReversePlotOrder = True
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

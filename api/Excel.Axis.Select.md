@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Return value
 
-A Variant value that represents the selected object.
+A **Variant** value that represents the selected object.
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

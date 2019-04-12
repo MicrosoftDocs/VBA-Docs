@@ -19,20 +19,19 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `MajorUnitIsAuto`
+_expression_.**MajorUnitIsAuto**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Remarks
 
-Setting the  **[MajorUnit](Excel.Axis.MajorUnit.md)** property sets this property to **False**.
+Setting the **[MajorUnit](Excel.Axis.MajorUnit.md)** property sets this property to **False**.
 
 
 ## Example
 
 This example automatically sets the major and minor units for the value axis in Chart1.
-
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 
@@ -42,9 +41,6 @@ End With
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

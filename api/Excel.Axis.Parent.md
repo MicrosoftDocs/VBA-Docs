@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

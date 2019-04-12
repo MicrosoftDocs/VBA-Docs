@@ -16,7 +16,7 @@ Returns or sets the position of the axis title on the chart. Read/write  **[XlCh
 
 ## Syntax
 
-_expression_. `Position`
+_expression_.**Position**
 
 _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)' object.
 

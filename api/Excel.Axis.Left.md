@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.Left property (Excel)
 
-Returns a  **Double** value that represents the distance, in points, from the left edge of the object to the left edge of the chart area.
+Returns a **Double** value that represents the distance, in points, from the left edge of the object to the left edge of the chart area.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Left**
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

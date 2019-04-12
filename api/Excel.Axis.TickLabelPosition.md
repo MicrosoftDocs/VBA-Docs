@@ -14,32 +14,24 @@ localization_priority: Normal
 
 # Axis.TickLabelPosition property (Excel)
 
-Describes the position of tick-mark labels on the specified axis. Read/write  **[XlTickLabelPosition](Excel.XlTickLabelPosition.md)**.
+Describes the position of tick-mark labels on the specified axis. Read/write **XlTickLabelPosition**.
 
 
 ## Syntax
 
-_expression_. `TickLabelPosition`
+_expression_.**TickLabelPosition**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Remarks
 
+**XlTickLabelPosition** can be one of the **[XlTickLabelPosition](Excel.XlTickLabelPosition.md)** constants.
 
-
-
-
-| **xlTickLabelPosition** can be one of these **xlTickLabelPosition** constants.|
-| **xlTickLabelPositionLow**|
-| **xlTickLabelPositionNone**|
-| **xlTickLabelPositionHigh**|
-| **xlTickLabelPositionNextToAxis**|
 
 ## Example
 
 This example sets tick-mark labels on the category axis in Chart1 to the high position (above the chart).
-
 
 ```vb
 Charts("Chart1").Axes(xlCategory) _ 
@@ -47,9 +39,6 @@ Charts("Chart1").Axes(xlCategory) _
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

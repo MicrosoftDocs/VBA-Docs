@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Shadow`
+_expression_.**Shadow**
 
  _expression_ An expression that returns a [TableBackground](./PowerPoint.TableBackground.md) object.
 

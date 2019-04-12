@@ -19,7 +19,7 @@ Returns or sets a  **Long** indicating the position of the attachment within the
 
 ## Syntax
 
-_expression_. `Position`
+_expression_.**Position**
 
 _expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 

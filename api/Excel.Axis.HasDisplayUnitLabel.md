@@ -14,20 +14,19 @@ localization_priority: Normal
 
 # Axis.HasDisplayUnitLabel property (Excel)
 
- **True** if the label specified by the **[DisplayUnit](Excel.Axis.DisplayUnit.md)** or **[DisplayUnitCustom](Excel.Axis.DisplayUnitCustom.md)** property is displayed on the specified axis. The default value is **True**. Read/write **Boolean**.
+**True** if the label specified by the **[DisplayUnit](Excel.Axis.DisplayUnit.md)** or **[DisplayUnitCustom](Excel.Axis.DisplayUnitCustom.md)** property is displayed on the specified axis. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `HasDisplayUnitLabel`
+_expression_.**HasDisplayUnitLabel**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Example
 
-This example sets the units on the value axis in Chart1 to increments of 500 but keeps the unit label hidden.
-
+This example sets the units on the value axis in Chart1 to increments of 500, but keeps the unit label hidden.
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 
@@ -39,9 +38,6 @@ End With
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

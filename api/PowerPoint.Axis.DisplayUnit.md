@@ -19,7 +19,7 @@ Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit]
 
 ## Syntax
 
-_expression_. `DisplayUnit`
+_expression_.**DisplayUnit**
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

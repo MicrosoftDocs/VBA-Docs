@@ -19,7 +19,7 @@ If the value of the  **[DisplayUnit](Word.Axis.DisplayUnit.md)** property is **x
 
 ## Syntax
 
-_expression_. `DisplayUnitCustom`
+_expression_.**DisplayUnitCustom**
 
  _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 

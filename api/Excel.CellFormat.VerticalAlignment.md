@@ -14,25 +14,19 @@ localization_priority: Normal
 
 # CellFormat.VerticalAlignment property (Excel)
 
-Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
+Returns or sets a **Variant** value that represents the vertical alignment of the specified object.
 
 
 ## Syntax
 
-_expression_. `VerticalAlignment`
+_expression_.**VerticalAlignment**
 
 _expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** object.
 
 
 ## Remarks
 
-The value of this property can be set to one of the following constants:
-
-* **xlBottom**
-* **xlCenter**
-* **xlDistributed**
-* **xlJustify**
-* **xlTop**
+TThe value of this property can be set to one of the **[XlVAlign](excel.xlvalign.md)** constants.
 
 ## Example
 

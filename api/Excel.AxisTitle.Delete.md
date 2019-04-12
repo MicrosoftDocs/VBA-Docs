@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AxisTitle.Delete
 ms.assetid: 5d5aa06a-3626-a92b-b0d9-158522ab1643
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object)
 Variant
 
 
-## See also
 
-
-[AxisTitle Object](Excel.AxisTitle(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

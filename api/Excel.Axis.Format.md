@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Axis.Format property (Excel)
 
-Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
+Returns the **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `Format`
+_expression_.**Format**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

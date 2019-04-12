@@ -19,7 +19,7 @@ Returns or sets the position of the data labels. Read/write  **[XlDataLabelPosit
 
 ## Syntax
 
-_expression_. `Position`
+_expression_.**Position**
 
  _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
 

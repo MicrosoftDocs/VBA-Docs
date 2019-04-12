@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Axis.HasMajorGridlines property (Excel)
 
- **True** if the axis has major gridlines. Only axes in the primary axis group can have gridlines. Read/write **Boolean**.
+**True** if the axis has major gridlines. Only axes in the primary axis group can have gridlines. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `HasMajorGridlines`
+_expression_.**HasMajorGridlines**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 ## Example
 
 This example sets the color of the major gridlines for the value axis in Chart1.
-
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 
@@ -38,9 +37,6 @@ End With
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

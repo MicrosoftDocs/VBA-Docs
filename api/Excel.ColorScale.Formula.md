@@ -19,7 +19,7 @@ Returns or sets a  **String** representing a formula that determines the values 
 
 ## Syntax
 
-_expression_. `Formula`
+_expression_.**Formula**
 
 _expression_ A variable that represents a **[ColorScale](Excel.ColorScale.md)** object.
 

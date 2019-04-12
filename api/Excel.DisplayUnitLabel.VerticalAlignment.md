@@ -19,22 +19,14 @@ Returns or sets a  **Variant** value that represents the vertical alignment of t
 
 ## Syntax
 
-_expression_. `VerticalAlignment`
+_expression_.**VerticalAlignment**
 
 _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
 
 
 ## Remarks
 
-The value of this property can be set to one of the following constants:
-
-
-
-| **xlBottom**|
-| **xlCenter**|
-| **xlDistributed**|
-| **xlJustify**|
-| **xlTop**|
+The value of this property can be set to one of the **[XlVAlign](excel.xlvalign.md)** constants.
 
 ## See also
 

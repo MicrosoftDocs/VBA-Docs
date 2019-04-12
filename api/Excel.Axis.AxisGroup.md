@@ -26,12 +26,9 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 
 ## Return value
 
- **[XlAxisGroup](Excel.XlAxisGroup.md)**
+**[XlAxisGroup](Excel.XlAxisGroup.md)**
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
