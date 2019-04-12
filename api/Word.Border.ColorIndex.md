@@ -19,7 +19,7 @@ Returns or sets the color for the specified border or font object. Read/write  *
 
 ## Syntax
 
-_expression_. `ColorIndex`
+_expression_.**ColorIndex**
 
 _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 

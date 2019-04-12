@@ -23,12 +23,11 @@ Most bordered objects (all except for the **[Range](Excel.Range(object).md)** an
 
 Use the **[Border](Excel.Trendline.Border.md)** property, such as from a **TrendLine** object, to return the **Border** object for this kind of object.
 
-> [!IMPORTANT] 
-> Note that the visual properties of a **Border** object are interlocked; that is, changing one property can induce changes in another. In most cases, the induced changes serve to make the border visible (which may or may not be desirable). However, other (more unexpected) results are possible.
-> 
-> Following is an example of interlocking with unexpected results. In this example, setting a border's **Weight** property to xlThick induces the **LineStyle** property to become xlSolid despite having previously set it to xlDashDotDot.
-> 
-> ```vb
+Note that the visual properties of a **Border** object are interlocked; that is, changing one property can induce changes in another. In most cases, the induced changes serve to make the border visible (which may or may not be desirable). However, other (more unexpected) results are possible.
+ 
+Following is an example of interlocking with unexpected results. In this example, setting a border's **Weight** property to xlThick induces the **LineStyle** property to become xlSolid despite having previously set it to xlDashDotDot.
+ 
+ ```vb
     Sub InterlockingExample()
         Dim SomeRange As Range
         Dim SomeBorder As Border
@@ -44,7 +43,7 @@ Use the **[Border](Excel.Trendline.Border.md)** property, such as from a **Trend
         SomeBorder.Weight = xlThick
         Debug.Print "SomeBorder.LineStyle = " & SomeBorder.LineStyle   'SomeBorder.LineStyle = 1
     End Sub
-> ```
+ ```
 
 ## Example
 
@@ -67,7 +66,7 @@ Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 
 <br/>
 
-Use **Borders**(_index_), where _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1.
+Use **Borders** (_index_), where _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1.
 
 ```vb
 Worksheets("Sheet1").Range("A1:G1"). _ 
