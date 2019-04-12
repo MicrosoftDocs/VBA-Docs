@@ -25,8 +25,8 @@ _expression_ Required. An expression that returns a **[DataSheet](excel.datashee
 
 |Name|Required/Optional|Description|
 |:-----|:-----|:-----|
-|_Range 1_ |Required for a single cell. |The name of the specified range.<br/><br/>This must be an A1-style reference in the language the macro is written in.<br/><br/>It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). It can also include dollar signs, but they're ignored.|
-|_Range 1_, _Range2_ |Required for a range of cells. |The cells in the upper-left and lower-right corners of the specified range.<br/><br/>Each argument can be a **Range** object that contains a single cell (or an entire column or entire row), or the argument can be a string that names a single cell in the language that the macro is written in.|
+|_Range1_ |Required for a single cell. |The name of the specified range.<br/><br/>This must be an A1-style reference in the language the macro is written in.<br/><br/>It can include:<ul><li>The range operator (a colon).</li><li>The intersection operator (a space).</li><li>The union operator (a comma).</li></ul>It can also include dollar signs, but they're ignored.|
+|_Range1_, _Range2_ |Required for a range of cells. |The cells in the upper-left and lower-right corners of the specified range.<br/><br/>Each argument can be:<ul><li>A **Range** object that contains a single cell (or an entire column or entire row).</li><li>A string that names a single cell in the language that the macro is written in.</li></ul>|
 
 ## Remarks
 
