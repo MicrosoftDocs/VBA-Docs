@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedMembers.Item
 ms.assetid: 82ba55c7-0c16-df11-ac32-40868f57d2e1
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
@@ -26,15 +26,13 @@ _expression_ A variable that represents a **[CalculatedMembers](Excel.Calculated
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number of the object.|
 
 ## Example
 
-The following example notifies the user if the calculated member is valid or not. This example assumes a PivotTable exists on the active worksheet that contains either a valid or invalid calculated member.
+The following example notifies the user if the calculated member is valid or not. This example assumes that a PivotTable exists on the active worksheet that contains either a valid or invalid calculated member.
 
 
 ```vb
@@ -69,9 +67,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CalculatedMembers Collection](Excel.CalculatedMembers.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

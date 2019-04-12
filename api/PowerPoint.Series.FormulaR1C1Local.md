@@ -19,7 +19,7 @@ Returns or sets the formula for the object, using R1C1-style notation in the lan
 
 ## Syntax
 
-_expression_. `FormulaR1C1Local`
+_expression_.**FormulaR1C1Local**
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

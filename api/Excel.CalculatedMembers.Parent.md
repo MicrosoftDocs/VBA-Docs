@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedMembers.Parent
 ms.assetid: c23a3b8d-4a6d-3dce-f5a9-c5e43716e28f
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[CalculatedMembers](Excel.CalculatedMembers.md)** object.
 
 
-## See also
 
-
-[CalculatedMembers Collection](Excel.CalculatedMembers.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,10 +26,7 @@ _expression_ A variable that represents a **[Border](Excel.Border(object).md)** 
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following **[XlColorIndex](Excel.XlColorIndex.md)** constants:
-
-- **xlColorIndexAutomatic**   
-- **xlColorIndexNone**
+The color is specified as an index value into the current color palette, or as one of the following **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**.
     
 > [!IMPORTANT] 
 > Note that the visual properties of a **Border** object are interlocked; that is, changing one property can induce changes in another. In most cases, the induced changes serve to make the border visible (which may or may not be desirable). However, other (more unexpected) results are possible. For an example, see the **[Border](excel.border(object).md)** object.

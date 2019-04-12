@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AxisTitle.Width
 ms.assetid: 7e0f651b-7f40-5509-1e1c-af8dee561957
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object)
 Double
 
 
-## See also
 
-
-[AxisTitle Object](Excel.AxisTitle(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

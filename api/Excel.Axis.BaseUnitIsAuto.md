@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Axis.BaseUnitIsAuto
 ms.assetid: e6f72a37-cfa7-4888-2688-f236fa61d259
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `BaseUnitIsAuto`
+_expression_.**BaseUnitIsAuto**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
@@ -33,7 +33,6 @@ You cannot set this property for a value axis.
 
 This example sets the category axis in embedded chart one on worksheet one to use a time scale with automatic base units.
 
-
 ```vb
 With Worksheets(1).ChartObjects(1).Chart 
  With .Axes(xlCategory) 
@@ -44,9 +43,6 @@ End With
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

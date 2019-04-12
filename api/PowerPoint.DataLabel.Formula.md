@@ -19,7 +19,7 @@ Returns or sets the object's formula in A1-style notation. Read/write.
 
 ## Syntax
 
-_expression_. `Formula`
+_expression_.**Formula**
 
 _expression_ A variable that represents a [DataLabel](./PowerPoint.DataLabel.md) object.
 

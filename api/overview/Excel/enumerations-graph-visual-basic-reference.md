@@ -15,7 +15,7 @@ This topic provides a list of all enumerations in the Graph object model.
 For more detailed descriptions, see the following:
 
 - [Enumerations (Excel)](../../../api/excel(enumerations).md)
-- [Enumerations (Office)](../../../api/enumerations-office.md)
+- [Enumerations (Office)](../Library-Reference/enumerations-office.md)
 
 ## XlArabicModes
 

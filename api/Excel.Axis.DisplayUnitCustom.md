@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.Axis.DisplayUnitCustom
 ms.assetid: 77c660cc-dfb7-d4f7-6a8a-52522e026299
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
 
 # Axis.DisplayUnitCustom property (Excel)
 
-If the value of the  **[DisplayUnit](Excel.Axis.DisplayUnit.md)** property is **xlCustom**, the **DisplayUnitCustom** property returns or sets the value of the displayed units. The value must be from 0 through 10E307. Read/write **Double**.
+If the value of the **[DisplayUnit](Excel.Axis.DisplayUnit.md)** property is **xlCustom**, the **DisplayUnitCustom** property returns or sets the value of the displayed units. The value must be from 0 through 10E307. Read/write **Double**.
 
 
 ## Syntax
 
-_expression_. `DisplayUnitCustom`
+_expression_.**DisplayUnitCustom**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
@@ -33,7 +33,6 @@ Using unit labels when charting large values makes your tick mark labels easier 
 
 This example sets the units displayed on the value axis in Chart1 to increments of 500.
 
-
 ```vb
 With Charts("Chart1").Axes(xlValue) 
  .DisplayUnit = xlCustom 
@@ -44,9 +43,6 @@ End With
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

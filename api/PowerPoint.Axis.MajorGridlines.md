@@ -19,7 +19,7 @@ Returns the major gridlines for the specified axis. Read-only  **[Gridlines](Pow
 
 ## Syntax
 
-_expression_. `MajorGridlines`
+_expression_.**MajorGridlines**
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

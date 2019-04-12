@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm686088
 ms.prod: excel
 ms.assetid: 26d99f37-07bb-f378-7e6d-330b5a8092c9
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
 
 # CalculatedMember.NumberFormat property (Excel)
 
-Returns a  **[XlCalcMemNumberFormatType](Excel.xlcalcmemnumberformattype.md)** value that represents the number format of the calculated member. The default value is **xlNumberFormatTypeDefault**. Read-only.
+Returns an **[XlCalcMemNumberFormatType](Excel.xlcalcmemnumberformattype.md)** value that represents the number format of the calculated member. The default value is **xlNumberFormatTypeDefault**. Read-only.
 
 
 ## Syntax
@@ -24,12 +24,8 @@ _expression_ A variable that represents a **[CalculatedMember](Excel.CalculatedM
 
 ## Property value
 
- **XLCALCMEMNUMBERFORMATTYPE**
+**XLCALCMEMNUMBERFORMATTYPE**
 
 
-## See also
-
-
-[CalculatedMember Object](Excel.CalculatedMember.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

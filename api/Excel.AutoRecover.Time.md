@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.AutoRecover.Time
 ms.assetid: 096783b6-77ae-75eb-08cc-fa3978aa6121
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
 
 # AutoRecover.Time property (Excel)
 
-Sets or returns the time interval for the  **AutoRecover** object. Permissible values are integers from 1 to 120 minutes. The default value is 10 minutes. Read/write **Long**.
+Sets or returns the time interval for the **AutoRecover** object. Permissible values are integers from 1 to 120 minutes. The default value is 10 minutes. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `Time`
+_expression_.**Time** 
 
 _expression_ A variable that represents an **[AutoRecover](Excel.AutoRecover.md)** object.
 
@@ -33,8 +33,7 @@ If time values outside the valid range are entered, Microsoft Excel will revert 
 
 ## Example
 
-The following example sets the AutoRecover time interval to 5 minutes and notifies the user.
-
+The following example sets the **AutoRecover** time interval to 5 minutes, and notifies the user.
 
 ```vb
 Sub SetTimeValue() 
@@ -47,9 +46,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[AutoRecover Object](Excel.AutoRecover.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Style.HorizontalAlignment property (Excel)
 
-Returns or sets a  **[XlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
+Returns or sets an **[XlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
 
 
 ## Syntax
 
-_expression_. `HorizontalAlignment`
+_expression_.**HorizontalAlignment**
 
 _expression_ A variable that represents a [Style](Excel.Style.md) object.
 

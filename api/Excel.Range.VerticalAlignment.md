@@ -19,14 +19,14 @@ Returns or sets a **Variant** value that represents the vertical alignment of th
 
 ## Syntax
 
-_expression_. `VerticalAlignment`
+_expression_.**VerticalAlignment**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
 
-The value of this property can be set to one of the **[XlVAlign](Excel.XlVAlign.md)** constants (**xlVAlignBottom**, **xlVAlignCenter**, **xlVAlignDistributed**, **xlVAlignJustify**, or **xlVAlignTop**).
+The value of this property can be set to one of the **[XlVAlign](excel.xlvalign.md)** constants.
 
 
 ## See also

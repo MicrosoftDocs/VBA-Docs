@@ -19,7 +19,7 @@ Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that represent
 
 ## Syntax
 
-_expression_. `Border`
+_expression_.**Border**
 
 _expression_ A variable that represents a **[CalloutFormat](Excel.CalloutFormat.md)** object.
 

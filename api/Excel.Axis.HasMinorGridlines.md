@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.Axis.HasMinorGridlines
 ms.assetid: 27b07e71-448d-33d1-cc4b-472eba7e15d6
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
 
 # Axis.HasMinorGridlines property (Excel)
 
- **True** if the axis has minor gridlines. Only axes in the primary axis group can have gridlines. Read/write **Boolean**.
+**True** if the axis has minor gridlines. Only axes in the primary axis group can have gridlines. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `HasMinorGridlines`
+_expression_.**HasMinorGridlines**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
@@ -27,7 +27,6 @@ _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** obj
 ## Example
 
 This example sets the color of the minor gridlines for the value axis in Chart1.
-
 
 ```vb
 With Charts("Chart1").Axes(xlValue) 
@@ -39,9 +38,6 @@ End With
 ```
 
 
-## See also
 
-
-[Axis Object](Excel.Axis(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

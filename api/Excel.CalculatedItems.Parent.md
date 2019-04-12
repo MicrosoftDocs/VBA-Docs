@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedItems.Parent
 ms.assetid: 7dda0130-070d-ff11-1226-78d7135163cd
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[CalculatedItems](Excel.CalculatedItems.md)** object.
 
 
-## See also
 
-
-[CalculatedItems Collection](Excel.CalculatedItems.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

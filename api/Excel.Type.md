@@ -67,7 +67,7 @@ Returns or sets the series type. Read/write **Long**.
 
 _expression_.**Type**
 
-_expression_ Required. An expression that returns a **[Series](Excel.Series-graph-object.md)**object.
+_expression_ Required. An expression that returns a **[Series](Excel.Series-graph-object.md)** object.
 
 ## Trendline object
 

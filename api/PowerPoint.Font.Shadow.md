@@ -19,7 +19,7 @@ Determines whether the specified text has a shadow. Read/write.
 
 ## Syntax
 
-_expression_. `Shadow`
+_expression_.**Shadow**
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 

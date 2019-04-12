@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedMember.IsValid
 ms.assetid: 9b0f78c6-3435-6539-aff0-165810668dde
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
 
 # CalculatedMember.IsValid property (Excel)
 
-Returns a Boolean that indicates whether the specified calculated member has been successfully instantiated with the OLAP provider during the current session.
+Returns a **Boolean** that indicates whether the specified calculated member has been successfully instantiated with the OLAP provider during the current session.
 
 
 ## Syntax
 
-_expression_. `IsValid`
+_expression_.**IsValid**
 
 _expression_ A variable that represents a **[CalculatedMember](Excel.CalculatedMember.md)** object.
 
 
 ## Remarks
 
-This property returns  **True** even if the PivotTable is not connected to its data source. Make sure that the PivotTable is connected before querying the value of the **IsValid** property.
+This property returns **True** even if the PivotTable is not connected to its data source. Make sure that the PivotTable is connected before querying the value of the **IsValid** property.
 
 
 ## Example
 
-This example notifies the user about whether the calculated member is valid or not. It assumes a PivotTable exists on the active worksheet.
-
+This example notifies the user about whether the calculated member is valid. It assumes that a PivotTable exists on the active worksheet.
 
 ```vb
 Sub CheckValidity() 
@@ -57,9 +56,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CalculatedMember Object](Excel.CalculatedMember.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

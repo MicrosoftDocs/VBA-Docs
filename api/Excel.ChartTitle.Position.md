@@ -19,7 +19,7 @@ Returns or sets the position of the chart title on the chart. Read/write  **[XlC
 
 ## Syntax
 
-_expression_. `Position`
+_expression_.**Position**
 
 _expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 

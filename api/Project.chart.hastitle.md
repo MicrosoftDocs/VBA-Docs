@@ -12,7 +12,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasTitle`
+_expression_.**HasTitle**
 
  _expression_ A variable that represents a 'Chart' object.
 

@@ -113,6 +113,7 @@ End With
 |[AddTable](./PowerPoint.Shapes.AddTable.md)|
 |[AddTextbox](./PowerPoint.Shapes.AddTextbox.md)|
 |[AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md)|
+|[Add3DModel](PowerPoint.Shapes.Add3DModel.md)|
 |[AddTitle](./PowerPoint.Shapes.AddTitle.md)|
 |[BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)|
 |[Item](./PowerPoint.Shapes.Item.md)|

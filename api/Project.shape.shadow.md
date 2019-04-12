@@ -12,7 +12,7 @@ Gets or sets the shadow formatting properties for the shape. Read-only  **[Shado
 
 ## Syntax
 
-_expression_. `Shadow`
+_expression_.**Shadow**
 
  _expression_ A variable that represents a 'Shape' object.
 

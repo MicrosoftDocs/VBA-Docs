@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that determines if the font is a shadow fon
 
 ## Syntax
 
-_expression_. `Shadow`
+_expression_.**Shadow**
 
 _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 
