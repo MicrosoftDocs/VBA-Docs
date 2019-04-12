@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Axis.AxisTitle
 ms.assetid: 33ba6b94-189b-e9d0-a153-af028380a58a
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns an  **[AxisTitle](Excel.AxisTitle(object).md)** object that represents t
 
 ## Syntax
 
-_expression_. `AxisTitle`
+_expression_.**AxisTitle**
 
 _expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Axis.MajorUnitScale
 ms.assetid: f0f4b179-f166-4fe6-f333-365edc5bc4f7
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 

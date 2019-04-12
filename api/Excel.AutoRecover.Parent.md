@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AutoRecover.Parent
 ms.assetid: 8e145467-47d2-0038-808d-a7c6765bab6b
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[AutoRecover](Excel.AutoRecover.md)** object.
 
 
-## See also
 
-
-[AutoRecover Object](Excel.AutoRecover.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

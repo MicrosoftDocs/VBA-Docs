@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Axis.CrossesAt
 ms.assetid: 1cacde6c-567a-d877-9bf1-cec6292e3544
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Axis.Delete
 ms.assetid: 3a000eb1-dfbf-00df-d7b9-3b92728e96fa
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 

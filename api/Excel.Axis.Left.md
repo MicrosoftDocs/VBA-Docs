@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Axis.Left
 ms.assetid: a7408e07-8d06-9abe-ac53-337e721b7628
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 

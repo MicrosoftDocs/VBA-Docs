@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Axis.LogBase
 ms.assetid: 8b346323-3a2a-15fc-d9e5-fc39761e7c0e
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 

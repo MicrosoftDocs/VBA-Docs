@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.AutoFilter.ApplyFilter
 ms.assetid: 5707966d-79c3-0538-9df2-1feecf1e793d
-ms.date: 06/08/2017
+ms.date: 04/13/2019
 localization_priority: Normal
 ---
 
 
 # AutoFilter.ApplyFilter method (Excel)
 
-Applies the specified  **Autofilter** object.
+Applies the specified **AutoFilter** object.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**ApplyFilter**
 _expression_ A variable that represents an **[AutoFilter](Excel.AutoFilter.md)** object.
 
 
-## See also
 
-
-[AutoFilter Object](Excel.AutoFilter.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
