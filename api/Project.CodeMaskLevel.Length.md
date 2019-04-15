@@ -19,7 +19,7 @@ Specifies the length for a given level in the code mask. Can be the string "Any"
 
 ## Syntax
 
-_expression_. `Length`
+_expression_.**Length**
 
  _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 

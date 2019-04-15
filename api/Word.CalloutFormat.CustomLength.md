@@ -19,7 +19,7 @@ Specifies that the first segment of the callout line (the segment attached to th
 
 ## Syntax
 
-_expression_. `CustomLength`( `_Length_` )
+_expression_.**CustomLength** (_Length_)
 
 _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 

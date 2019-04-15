@@ -19,7 +19,7 @@ Sets the vertical distance (in points) from the edge of the text bounding box to
 
 ## Syntax
 
-_expression_. `CustomDrop`( `_Drop_` )
+_expression_.**CustomDrop** (_Drop_)
 
 _expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Accent`
+_expression_.**Accent**
 
  _expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 

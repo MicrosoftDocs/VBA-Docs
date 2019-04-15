@@ -19,7 +19,7 @@ Creates a new **Master** object by dropping an object onto a receiving object su
 
 ## Syntax
 
-_expression_. `Drop`( `_ObjectToDrop_` , `_xPos_` , `_yPos_` )
+_expression_.**Drop** (_ObjectToDrop_, _xPos_, _yPos_)
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

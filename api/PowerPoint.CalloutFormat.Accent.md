@@ -19,7 +19,7 @@ Determines whether a vertical accent bar separates the callout text from the cal
 
 ## Syntax
 
-_expression_. `Accent`
+_expression_.**Accent**
 
 _expression_ A variable that represents an [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
