@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VarType function
 
-Returns an **Integer** indicating the subtype of a [variable](../../Glossary/vbe-glossary.md#variable).
+Returns an **Integer** indicating the subtype of a [variable](../../Glossary/vbe-glossary.md#variable), or the type of an object's default [property](../../Glossary/vbe-glossary.md#property).
 
 ## Syntax
 
@@ -49,23 +49,24 @@ The required _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a 
 
 ## Remarks
 
-The **VarType** function never returns the value for **vbArray** by itself. It is always added to some other value to indicate an array of a particular type. 
+If an object is passed, & has a default [property](../../Glossary/vbe-glossary.md#property), **VarType**(_object_) returns the type of the object's default property.
 
-The constant **vbVariant** is only returned in conjunction with **vbArray** to indicate that the argument to the **VarType** function is an array of type **Variant**. For example, the value returned for an array of integers is calculated as **vbInteger** + **vbArray**, or 8194. 
+The **VarType** function never returns the value for **vbArray** by itself. It is always added to some other value to indicate an array of a particular type. For example, the value returned for an array of integers is calculated as **vbInteger** + **vbArray**, or 8194. 
 
-If an object has a default [property](../../Glossary/vbe-glossary.md#property), **VarType**(_object_) returns the type of the object's default property.
+The constant **vbVariant** is only returned in conjunction with **vbArray** to indicate that the argument to the **VarType** function is an array of type **Variant**. 
 
 ## Example
 
-This example uses the **VarType** function to determine the subtype of a variable.
+This example uses the **VarType** function to determine the subtypes of different variables, and in one case, the type of an object's default [property](../../Glossary/vbe-glossary.md#property).
 
 ```vb
-Dim IntVar, StrVar, DateVar, MyCheck
+Dim IntVar, StrVar, DateVar, MyCheck, AppVar As Object
 ' Initialize variables.
-IntVar = 459: StrVar = "Hello World": DateVar = #2/12/69# 
+IntVar = 459: StrVar = "Hello World": DateVar = #2/12/69#: Set AppVar = Excel.Application
 MyCheck = VarType(IntVar)    ' Returns 2.
 MyCheck = VarType(DateVar)    ' Returns 7.
 MyCheck = VarType(StrVar)    ' Returns 8.
+MyCheck = VarType(AppVar)    ' Returns 8 (vbString) even though AppVar is an object.
 
 ```
 
