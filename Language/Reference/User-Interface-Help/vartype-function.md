@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1009057
 ms.prod: office
 ms.assetid: 7422fba5-7ea9-1d91-fc0e-5694c352d2d0
-ms.date: 12/13/2018
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -49,7 +49,7 @@ The required _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a 
 
 ## Remarks
 
-If an object is passed, & has a default [property](../../Glossary/vbe-glossary.md#property), **VarType**(_object_) returns the type of the object's default property.
+If an object is passed and has a default property, **VarType**(_object_) returns the type of the object's default property.
 
 The **VarType** function never returns the value for **vbArray** by itself. It is always added to some other value to indicate an array of a particular type. For example, the value returned for an array of integers is calculated as **vbInteger** + **vbArray**, or 8194. 
 
@@ -57,7 +57,7 @@ The constant **vbVariant** is only returned in conjunction with **vbArray** to i
 
 ## Example
 
-This example uses the **VarType** function to determine the subtypes of different variables, and in one case, the type of an object's default [property](../../Glossary/vbe-glossary.md#property).
+This example uses the **VarType** function to determine the subtypes of different variables, and in one case, the type of an object's default property.
 
 ```vb
 Dim IntVar, StrVar, DateVar, MyCheck, AppVar As Object
