@@ -19,7 +19,7 @@ Inserts a string preceding the selected characters.
 
 ## Syntax
 
-_expression_. `Insert`( `_String_` )
+_expression_.**Insert** (_String_)
 
  _expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
 

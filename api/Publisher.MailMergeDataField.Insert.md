@@ -19,9 +19,9 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents a data field i
 
 ## Syntax
 
-_expression_.**Insert**(**_Range_**)
+_expression_.**Insert** (_Range_)
 
- _expression_ A variable that represents a  **MailMergeDataField** object.
+_expression_ A variable that represents a  **MailMergeDataField** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_.**Insert**(**_Range_**)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Range|Optional| **TextRange**|The text range to insert.|
+|_Range_|Optional| **TextRange**|The text range to insert.|
 
 ## Return value
 
