@@ -19,7 +19,7 @@ Clears the header and footer from the specified slide or slides.
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
  _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 

@@ -19,7 +19,7 @@ Clears the extra colors in a presentation.
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
 _expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColors.md) object.
 

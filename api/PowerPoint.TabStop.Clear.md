@@ -19,7 +19,7 @@ Clears the specified tab stop from the ruler and deletes it from the  **TabStops
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
  _expression_ A variable that represents a [TabStop](./PowerPoint.TabStop.md) object.
 

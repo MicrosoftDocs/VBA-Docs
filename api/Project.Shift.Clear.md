@@ -16,7 +16,7 @@ Clears the start and finish times of a work shift.
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
  _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 

@@ -19,7 +19,7 @@ Returns a value that indicates if Microsoft Excel automatically shrinks text to 
 
 ## Syntax
 
-_expression_. `ShrinkToFit`
+_expression_.**ShrinkToFit**
 
 _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 

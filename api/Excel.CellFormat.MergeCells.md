@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # CellFormat.MergeCells property (Excel)
 
- **True** if the range or style contains merged cells. Read/write **Variant**.
+**True** if the range or style contains merged cells. Read/write **Variant**.
 
 
 ## Syntax
 
-_expression_. `MergeCells`
+_expression_.**MergeCells**
 
 _expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** object.
 
 
-## See also
 
-
-[CellFormat Object](Excel.CellFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CellFormat.NumberFormat property (Excel)
 
-Returns or sets a  **Variant** value that represents the format code for the object.
+Returns or sets a **Variant** value that represents the format code for the object.
 
 
 ## Syntax
@@ -26,11 +26,13 @@ _expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** 
 
 ## Remarks
 
-This property returns  **Null** if all cells in the specified range don't have the same number format.
+This property returns **Null** if all cells in the specified range don't have the same number format.
 
-The format code is the same string as the  **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **[NumberFormatLocal](Excel.CellFormat.NumberFormatLocal.md)** properties.
+The format code is the same string as the **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **[NumberFormatLocal](Excel.CellFormat.NumberFormatLocal.md)** properties.
 
-## NumberFormat Function Example
+## Example
+
+The following example is for the **NumberFormat** function. 
 
 ```vba
 
@@ -40,9 +42,6 @@ Range("A1:A5").NumberFormat = "General"
 
 ```
 
-## See also
 
-
-[CellFormat Object](Excel.CellFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

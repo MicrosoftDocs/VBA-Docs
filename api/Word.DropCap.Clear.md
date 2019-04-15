@@ -19,7 +19,7 @@ Removes the dropped capital letter formatting.
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
  _expression_ A variable that represents a '[DropCap](Word.DropCap.md)' object.
 

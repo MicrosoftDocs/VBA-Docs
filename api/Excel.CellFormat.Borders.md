@@ -28,9 +28,8 @@ _expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** 
 
 This example sets the search criteria to identify the borders of cells that have a continuous and thick style bottom-edge, creates a cell with this condition, finds this cell, and notifies the user. 
 
-
- **Note**  The default color of the border is used in this example, therefore the color index is not changed.
-
+> [!NOTE] 
+> The default color of the border is used in this example; therefore, the color index is not changed.
 
 ```vb
 Sub SearchCellFormat() 
@@ -60,9 +59,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CellFormat Object](Excel.CellFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

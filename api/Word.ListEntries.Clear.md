@@ -19,7 +19,7 @@ Removes all items from a drop-down form field.
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
  _expression_ A variable that represents a '[ListEntries](Word.listentries.md)' object.
 

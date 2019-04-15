@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CellFormat.HorizontalAlignment property (Excel)
 
-Returns or sets a  **Variant** value that represents the horizontal alignment for the specified object.
+Returns or sets a **Variant** value that represents the horizontal alignment for the specified object.
 
 
 ## Syntax
@@ -31,9 +31,6 @@ The value of this property can be set to one of the **[XlHAlign](excel.xlhalign.
 Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
-## See also
 
-
-[CellFormat Object](Excel.CellFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

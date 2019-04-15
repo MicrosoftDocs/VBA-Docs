@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # CellFormat.Clear method (Excel)
 
-Clears the criterias set in the  **[FindFormat](Excel.Application.FindFormat.md)** and **[ReplaceFormat](Excel.Application.ReplaceFormat.md)** properties.
+Clears the criteria set in the **[FindFormat](Excel.Application.FindFormat.md)** and **[ReplaceFormat](Excel.Application.ReplaceFormat.md)** properties.
 
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
 _expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** object.
 
 
-## See also
 
-
-[CellFormat Object](Excel.CellFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

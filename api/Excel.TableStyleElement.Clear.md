@@ -19,7 +19,7 @@ Clears the formatting for this element.
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
 _expression_ A variable that represents a [TableStyleElement](Excel.TableStyleElement.md) object.
 

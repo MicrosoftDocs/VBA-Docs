@@ -19,7 +19,7 @@ Removes the specified custom tab stop.
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
 _expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
 

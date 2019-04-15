@@ -30,8 +30,7 @@ TThe value of this property can be set to one of the **[XlVAlign](excel.xlvalign
 
 ## Example
 
-This example sets the height of row 2 on Sheet1 to twice the standard height and then centers the contents of the row vertically.
-
+This example sets the height of row 2 on Sheet1 to twice the standard height, and then centers the contents of the row vertically.
 
 ```vb
 Worksheets("Sheet1").Rows(2).RowHeight = _ 
@@ -41,9 +40,6 @@ Worksheets("Sheet1").Rows(2).VerticalAlignment = xlVAlignCenter
 ```
 
 
-## See also
 
-
-[CellFormat Object](Excel.CellFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
