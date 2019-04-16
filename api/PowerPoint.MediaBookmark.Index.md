@@ -19,7 +19,7 @@ Returns the index position of the bookmark. Read-only.
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [MediaBookmark](./PowerPoint.MediaBookmark.md) object.
 

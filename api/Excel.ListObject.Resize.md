@@ -19,7 +19,7 @@ The  **Resize** method allows a **[ListObject](Excel.ListObject.md)** object to 
 
 ## Syntax
 
-_expression_. `Resize`( `_Range_` )
+_expression_.**Resize** (_Range_)
 
  _expression_ An expression that returns a [ListObject](Excel.ListObject.md) object.
 

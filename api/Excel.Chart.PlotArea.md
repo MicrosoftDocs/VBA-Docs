@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.PlotArea
 ms.assetid: f3c93a06-b398-a60a-d69d-8249652501eb
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns a  **[PlotArea](Excel.PlotArea(object).md)** object that represents the 
 
 ## Syntax
 
-_expression_. `PlotArea`
+_expression_.**PlotArea**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

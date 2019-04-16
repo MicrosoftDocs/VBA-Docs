@@ -19,7 +19,7 @@ Removes text and paragraph formatting from the text specified in a find or repla
 
 ## Syntax
 
-_expression_. `ClearFormatting`
+_expression_.**ClearFormatting**
 
  _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 

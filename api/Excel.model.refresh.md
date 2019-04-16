@@ -17,7 +17,7 @@ Refreshes all data sources associated with the model, fully reprocesses the mode
 
 ## Syntax
 
-_expression_. `Refresh`
+_expression_.**Refresh**
 
 _expression_ A variable that represents a object.
 

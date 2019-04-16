@@ -21,7 +21,7 @@ Returns an  **[Editors](Word.Editors.md)** object that represents all the users 
 
 _expression_. `Editors`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Example

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Paste
 ms.assetid: e34d3d30-39f8-dbd4-1a39-d3ef9f84e0f4
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Pastes chart data from the Clipboard into the specified chart.
 
 ## Syntax
 
-_expression_. `Paste`( `_Type_` )
+_expression_.**Paste** (_Type_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

@@ -16,7 +16,7 @@ Gets the index of a  **View** object in the **Views** containing object. Read-on
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [View](./Project.View.md) object.
 

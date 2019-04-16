@@ -19,7 +19,7 @@ Exports the active project as a document in a custom PDF or XPS format.
 
 ## Syntax
 
-_expression_. `ExportAsFixedFormat`( `_FileName_`, `_FileType_`, `_IncludeDocumentProperties_`, `_IncludeDocumentMarkup_`, `_ArchiveFormat_`, `_FromDate_`, `_ToDate_`, `_FixedFormatExtClassPtr_` )
+_expression_.**ExportAsFixedFormat** (_FileName_, _FileType_, _IncludeDocumentProperties_, _IncludeDocumentMarkup_, _ArchiveFormat_, _FromDate_, _ToDate_, _FixedFormatExtClassPtr_)
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

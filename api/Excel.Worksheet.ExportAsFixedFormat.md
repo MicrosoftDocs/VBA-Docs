@@ -19,9 +19,9 @@ Exports to a file of the specified format.
 
 ## Syntax
 
-_expression_. `ExportAsFixedFormat`( `_Type_` , `_FileName_` , `_Quality_` , `_IncludeDocProperties_` , `_IgnorePrintAreas_` , `_From_` , `_To_` , `_OpenAfterPublish_` )
+_expression_.**ExportAsFixedFormat** (_Type_, _FileName_, _Quality_, _IncludeDocProperties_, _IgnorePrintAreas_, _From_, _To_, _OpenAfterPublish_)
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters

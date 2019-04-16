@@ -17,7 +17,7 @@ This method updates the  **TableObject** object.
 
 ## Syntax
 
-_expression_. `Refresh`
+_expression_.**Refresh**
 
 _expression_ A variable that represents a [ModelTable](Excel.modeltable.md) object.
 

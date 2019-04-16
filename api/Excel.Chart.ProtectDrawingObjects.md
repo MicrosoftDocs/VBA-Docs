@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ProtectDrawingObjects
 ms.assetid: 6e65e306-ef55-7e05-41e2-14a1bbc1456e
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ProtectDrawingObjects`
+_expression_.**ProtectDrawingObjects**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

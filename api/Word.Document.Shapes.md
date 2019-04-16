@@ -19,7 +19,7 @@ Returns a  **[Shapes](Word.shapes.md)** collection that represents all the **Sha
 
 ## Syntax
 
-_expression_. `Shapes`
+_expression_.**Shapes**
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

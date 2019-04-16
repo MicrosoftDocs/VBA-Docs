@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ShowReportFilterFieldButtons
 ms.assetid: 6b7aa6e2-2216-caef-5936-d9c9681b60db
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets whether to display the report filter field buttons on a PivotCha
 
 ## Syntax
 
-_expression_. `ShowReportFilterFieldButtons`
+_expression_.**ShowReportFilterFieldButtons**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

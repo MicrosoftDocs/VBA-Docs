@@ -19,7 +19,7 @@ Returns the next column in a collection of table columns. Read-only.
 
 ## Syntax
 
-_expression_. `Next`
+_expression_.**Next**
 
  _expression_ A variable that represents a '[Column](Word.Column.md)' object.
 

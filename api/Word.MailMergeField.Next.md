@@ -19,7 +19,7 @@ Returns the next mail merge field in the collection of mail merge fields. Read-o
 
 ## Syntax
 
-_expression_. `Next`
+_expression_.**Next**
 
  _expression_ A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 

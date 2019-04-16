@@ -16,7 +16,7 @@ Gets the index of a  **ViewCombination** object in the **ViewsCombination** cont
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.SaveAs
 ms.assetid: 21e2a786-1df2-21ea-f32f-81e07dc2261c
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Saves changes to the chart or worksheet in a different file.
 
 ## Syntax
 
-_expression_. `SaveAs`( `_FileName_` , `_FileFormat_` , `_Password_` , `_WriteResPassword_` , `_ReadOnlyRecommended_` , `_CreateBackup_` , `_AddToMru_` , `_TextCodepage_` , `_TextVisualLayout_` , `_Local_` )
+_expression_.**SaveAs** (_FileName_, _FileFormat_, _Password_, _WriteResPassword_, _ReadOnlyRecommended_, _CreateBackup_, _AddToMru_, _TextCodepage_, _TextVisualLayout_, _Local_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

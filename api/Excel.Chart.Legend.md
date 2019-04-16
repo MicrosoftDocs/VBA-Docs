@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Legend
 ms.assetid: 6396ca0f-63b5-3d4a-4f6b-b4e80a1911b3
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns a  **[Legend](Excel.Legend(object).md)** object that represents the lege
 
 ## Syntax
 
-_expression_. `Legend`
+_expression_.**Legend**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

@@ -16,7 +16,7 @@ Gets the index of a  **Year** object in the **Years** containing object. Read-on
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Year](./Project.Year.md) object.
 

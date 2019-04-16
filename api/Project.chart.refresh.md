@@ -12,9 +12,9 @@ Redraws a chart, to show updated information.
 
 ## Syntax
 
-_expression_. `Refresh`
+_expression_.**Refresh**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Return value

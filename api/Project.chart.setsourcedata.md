@@ -17,7 +17,7 @@ Sets a source data range from Excel for a chart.
 
 _expression_. `SetSourceData` _(Source,_? _PlotBy)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters

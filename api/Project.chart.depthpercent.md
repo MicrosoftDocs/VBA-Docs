@@ -12,9 +12,9 @@ Gets or sets the depth of a 3D chart as a percentage of the chart width (between
 
 ## Syntax
 
-_expression_. `DepthPercent`
+_expression_.**DepthPercent**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks

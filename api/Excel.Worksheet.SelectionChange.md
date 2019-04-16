@@ -21,7 +21,7 @@ Occurs when the selection changes on a worksheet.
 
 _expression_. `SelectionChange`( `_Target_` )
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters

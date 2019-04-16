@@ -19,7 +19,7 @@ Returns or sets a value that indicates whether to display axis field buttons on 
 
 ## Syntax
 
-_expression_. `ShowAxisFieldButtons`
+_expression_.**ShowAxisFieldButtons**
 
 _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 

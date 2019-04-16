@@ -19,7 +19,7 @@ Gets the ordinal position of a  **MenuItem** object in the **MenuItems** collect
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 

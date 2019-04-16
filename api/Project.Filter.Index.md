@@ -19,7 +19,7 @@ Gets the index of a  **Filter** object in the containing **Filters** collection.
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 

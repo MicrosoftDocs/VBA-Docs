@@ -21,7 +21,7 @@ Returns or sets an **[XlSheetVisibility](Excel.XlSheetVisibility.md)** value tha
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example

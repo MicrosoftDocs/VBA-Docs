@@ -19,7 +19,7 @@ Returns a  **TextFrame** object that represents the previous text frame in a col
 
 ## Syntax
 
-_expression_. `Previous`
+_expression_.**Previous**
 
  _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 

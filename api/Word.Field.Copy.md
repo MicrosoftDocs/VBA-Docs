@@ -19,7 +19,7 @@ Copies the specified field to the Clipboard.
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
 _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 

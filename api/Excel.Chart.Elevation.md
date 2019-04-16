@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Elevation
 ms.assetid: 44dde783-5bf7-7c5c-475b-0666337249d7
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets the elevation of the 3D chart view, in degrees. Read/write  **Lo
 
 ## Syntax
 
-_expression_. `Elevation`
+_expression_.**Elevation**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

@@ -19,7 +19,7 @@ Gets the index of a  **TableField** object in the **TableFields** containing obj
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 

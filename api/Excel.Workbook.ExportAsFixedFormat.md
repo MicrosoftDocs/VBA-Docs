@@ -19,7 +19,7 @@ The  **ExportAsFixedFormat** method is used to publish a workbook to either the 
 
 ## Syntax
 
-_expression_. `ExportAsFixedFormat`( `_Type_` , `_FileName_` , `_Quality_` , `_IncludeDocProperties_` , `_IgnorePrintAreas_` , `_From_` , `_To_` , `_OpenAfterPublish_` , `_FixedFormatExtClassPtr_` )
+_expression_.**ExportAsFixedFormat** (_Type_, _FileName_, _Quality_, _IncludeDocProperties_, _IgnorePrintAreas_, _From_, _To_, _OpenAfterPublish_, _FixedFormatExtClassPtr_)
 
 _expression_ A variable that represents a [Workbook](Excel.Workbook.md) , **Sheet**, **Chart**, or **Range** object.
 

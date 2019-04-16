@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Next
 ms.assetid: a0e53eba-c9e9-7997-4765-90debeb8ae5d
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the next s
 
 ## Syntax
 
-_expression_. `Next`
+_expression_.**Next**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

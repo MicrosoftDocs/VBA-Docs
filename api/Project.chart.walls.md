@@ -12,9 +12,9 @@ Gets an  **Office.IMsoWalls** object that represents the walls of a 3D chart. Re
 
 ## Syntax
 
-_expression_. `Walls`
+_expression_.**Walls**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters

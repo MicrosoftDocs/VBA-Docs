@@ -17,7 +17,7 @@ Gets an  **Office.IMsoWalls** object that enables the user to individually forma
 
 _expression_. `BackWall`
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks

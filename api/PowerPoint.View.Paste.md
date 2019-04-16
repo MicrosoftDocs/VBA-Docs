@@ -19,7 +19,7 @@ Pastes the contents of the Clipboard into the active view. Attempting to paste a
 
 ## Syntax
 
-_expression_. `Paste`
+_expression_.**Paste**
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

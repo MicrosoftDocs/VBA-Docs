@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.PageSetup
 ms.assetid: 9a47bfd6-10b5-5f8e-86c2-e56c468de9d8
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns a  **[PageSetup](Excel.PageSetup.md)** object that contains all the page
 
 ## Syntax
 
-_expression_. `PageSetup`
+_expression_.**PageSetup**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

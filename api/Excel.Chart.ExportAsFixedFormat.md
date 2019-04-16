@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ExportAsFixedFormat
 ms.assetid: 4fa48315-c9e9-944c-71c3-72ec9894daac
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Exports to a file of the specified format.
 
 ## Syntax
 
-_expression_. `ExportAsFixedFormat`( `_Type_` , `_FileName_` , `_Quality_` , `_IncludeDocProperties_` , `_IgnorePrintAreas_` , `_From_` , `_To_` , `_OpenAfterPublish_` )
+_expression_.**ExportAsFixedFormat** (_Type_, _FileName_, _Quality_, _IncludeDocProperties_, _IgnorePrintAreas_, _From_, _To_, _OpenAfterPublish_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

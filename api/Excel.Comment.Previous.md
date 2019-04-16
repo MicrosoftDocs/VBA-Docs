@@ -19,7 +19,7 @@ Returns a  **[Comment](Excel.Comment.md)** object that represents the previous c
 
 ## Syntax
 
-_expression_. `Previous`
+_expression_.**Previous**
 
  _expression_ An expression that returns a **[Comment](Excel.Comment.md)** object.
 

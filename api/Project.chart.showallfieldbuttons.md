@@ -12,9 +12,9 @@ Gets or sets whether to display all field buttons on a PivotChart. Read/write  *
 
 ## Syntax
 
-_expression_. `ShowAllFieldButtons`
+_expression_.**ShowAllFieldButtons**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Property value

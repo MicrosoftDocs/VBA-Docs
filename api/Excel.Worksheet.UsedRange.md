@@ -21,7 +21,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the used r
 
 _expression_. `UsedRange`
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example

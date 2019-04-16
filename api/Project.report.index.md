@@ -12,7 +12,7 @@ Gets the index of a custom report in the  **Reports** collection. Read-only **Lo
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a 'Report' object.
 

@@ -23,7 +23,7 @@ For more information about the new function, see the [Floor_Precise](Excel.Works
 
 ## Syntax
 
-_expression_. `Floor`( `_Arg1_` , `_Arg2_` )
+_expression_.**Floor** (_Arg1_, _Arg2_)
 
 _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 

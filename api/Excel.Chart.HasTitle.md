@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.HasTitle
 ms.assetid: 9aa0e37a-4d1d-1fc3-d5cb-b8869251ff16
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 

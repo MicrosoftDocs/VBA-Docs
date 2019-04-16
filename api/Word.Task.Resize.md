@@ -19,7 +19,7 @@ Sizes the specified task window.
 
 ## Syntax
 
-_expression_. `Resize`( `_Width_` , `_Height_` )
+_expression_.**Resize** (_Width_, _Height_)
 
 _expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
 

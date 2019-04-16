@@ -19,7 +19,7 @@ If the series has a picture fill, then this method copies the picture to the Cli
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
 _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 

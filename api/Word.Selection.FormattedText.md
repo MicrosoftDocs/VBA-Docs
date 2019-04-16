@@ -21,7 +21,7 @@ Returns or sets a  **[Range](Word.Range.md)** object that includes the formatted
 
 _expression_. `FormattedText`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Returns a  **TextFrame** object that represents the next text frame in a collect
 
 ## Syntax
 
-_expression_. `Next`
+_expression_.**Next**
 
  _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 

@@ -19,7 +19,7 @@ Shows a preview of the object as it would look when printed.
 
 ## Syntax
 
-_expression_. `PrintPreview`( `_EnableChanges_` )
+_expression_.**PrintPreview** (_EnableChanges_)
 
 _expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 

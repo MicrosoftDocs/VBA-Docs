@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Rotation
 ms.assetid: bf271f86-18c9-ac74-12ab-f90f4353f71d
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets the rotation of the 3D chart view (the rotation of the plot area
 
 ## Syntax
 
-_expression_. `Rotation`
+_expression_.**Rotation**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

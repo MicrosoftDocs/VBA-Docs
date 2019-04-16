@@ -19,7 +19,7 @@ Makes a copy of a group definition for the  **Filters** collection and returns a
 
 ## Syntax
 
-_expression_. `Copy`( `_Source_`, `_NewName_` )
+_expression_.**Copy** (_Source_, _NewName_)
 
  _expression_ A variable that represents a 'Filters' object.
 

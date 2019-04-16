@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart
 ms.assetid: 179c32ce-49bd-6f36-ea12-89fb5443f3ea
-ms.date: 03/29/2019
+ms.date: 04/16/2019
 localization_priority: Priority
 ---
 
@@ -20,15 +20,6 @@ Represents a chart in a workbook.
 ## Remarks
 
 The chart can be either an embedded chart (contained in a **[ChartObject](Excel.ChartObject.md)** object) or a separate chart sheet.
-
-The following properties and methods for returning a **Chart** object are described in the example section:
-
-- **Charts** method    
-- **ActiveChart** property   
-- **ActiveSheet** property
-    
-
-## Example
 
 The **[Charts](Excel.Charts.md)** collection contains a **Chart** object for each chart sheet in a workbook. Use **Charts** (_index_), where _index_ is the chart-sheet index number or name, to return a single **Chart** object. 
 

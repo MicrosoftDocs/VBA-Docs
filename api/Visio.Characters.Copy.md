@@ -19,7 +19,7 @@ Copies a text range to the Clipboard.
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

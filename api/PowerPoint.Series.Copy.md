@@ -16,7 +16,7 @@ If the series has a picture fill, copies the picture to the Clipboard.
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

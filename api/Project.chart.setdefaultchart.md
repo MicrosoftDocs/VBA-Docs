@@ -14,7 +14,7 @@ Specifies the name of the default chart template that Project uses when creating
 
 _expression_. `SetDefaultChart` _(varName)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters

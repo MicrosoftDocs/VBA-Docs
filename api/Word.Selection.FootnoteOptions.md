@@ -21,7 +21,7 @@ Returns  **[FootnoteOptions](Word.FootnoteOptions.md)** object that represents t
 
 _expression_. `FootnoteOptions`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Example

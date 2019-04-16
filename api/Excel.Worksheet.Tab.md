@@ -19,9 +19,9 @@ Returns a  **[Tab](Excel.Tab.md)** object for a worksheet.
 
 ## Syntax
 
-_expression_. `Tab`
+_expression_.**Tab**
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example

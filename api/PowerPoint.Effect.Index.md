@@ -19,7 +19,7 @@ Returns a  **Long** that represents the index number for an animation effect or 
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
 _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 

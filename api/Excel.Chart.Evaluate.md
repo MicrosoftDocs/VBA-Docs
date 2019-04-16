@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Evaluate
 ms.assetid: 7a171fd5-e084-7172-f429-5425e0d342d4
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Converts a Microsoft Excel name to an object or a value.
 
 ## Syntax
 
-_expression_. `Evaluate`( `_Name_` )
+_expression_.**Evaluate** (_Name_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

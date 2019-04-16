@@ -19,7 +19,7 @@ Gets the ordinal position of a  **Shape** object in the **Shapes** collection. R
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

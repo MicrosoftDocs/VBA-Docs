@@ -21,7 +21,7 @@ Returns the number of characters in the story that contains the specified select
 
 _expression_. `StoryLength`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## See also

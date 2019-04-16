@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.RightAngleAxes
 ms.assetid: 632aa454-4113-97d3-a80c-eb745a950c6f
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `RightAngleAxes`
+_expression_.**RightAngleAxes**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

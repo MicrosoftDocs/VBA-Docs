@@ -21,7 +21,7 @@ Returns an object that allows the user to individually format the back wall of a
 
 _expression_. `BackWall`
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## See also

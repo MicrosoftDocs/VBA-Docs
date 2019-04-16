@@ -19,7 +19,7 @@ Retrieves the current data and schema for the list from the server that is runni
 
 ## Syntax
 
-_expression_. `Refresh`
+_expression_.**Refresh**
 
 _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 

@@ -19,7 +19,7 @@ Returns a  **Pane** object that represents the previous document pane in the col
 
 ## Syntax
 
-_expression_. `Previous`
+_expression_.**Previous**
 
  _expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
 

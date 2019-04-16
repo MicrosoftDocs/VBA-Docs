@@ -17,7 +17,7 @@ Applies the specified chart layout and chart type to a selected chart.
 
 _expression_. `ApplyLayout` _(Layout,_ _varChartType)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters

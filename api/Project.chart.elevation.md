@@ -12,9 +12,9 @@ Gets or sets the elevation of the 3D chart view, in degrees. Read/write  **Long*
 
 ## Syntax
 
-_expression_. `Elevation`
+_expression_.**Elevation**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks

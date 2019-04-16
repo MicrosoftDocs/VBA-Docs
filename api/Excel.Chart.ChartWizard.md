@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ChartWizard
 ms.assetid: c47588d9-6969-d6bb-cbbc-4941198d78b4
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Modifies the properties of the given chart. You can use this method to quickly f
 
 ## Syntax
 
-_expression_. `ChartWizard`( `_Source_` , `_Gallery_` , `_Format_` , `_PlotBy_` , `_CategoryLabels_` , `_SeriesLabels_` , `_HasLegend_` , `_Title_` , `_CategoryTitle_` , `_ValueTitle_` , `_ExtraTitle_` )
+_expression_.**ChartWizard** (_Source_, _Gallery_, _Format_, _PlotBy_, _CategoryLabels_, _SeriesLabels_, _HasLegend_, _Title_, _CategoryTitle_, _ValueTitle_, _ExtraTitle_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

@@ -19,7 +19,7 @@ Pastes the contents of the Clipboard into an object.
 
 ## Syntax
 
-_expression_. `Paste`( `_Flags_` )
+_expression_.**Paste** (_Flags_)
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

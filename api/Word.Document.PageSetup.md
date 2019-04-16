@@ -19,7 +19,7 @@ Returns a  **PageSetup** object that is associated with the specified document.
 
 ## Syntax
 
-_expression_. `PageSetup`
+_expression_.**PageSetup**
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

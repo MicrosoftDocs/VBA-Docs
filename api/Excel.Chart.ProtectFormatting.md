@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ProtectFormatting
 ms.assetid: 71630b7f-6c89-869d-cd5b-d0a7bacd904a
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ProtectFormatting`
+_expression_.**ProtectFormatting**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

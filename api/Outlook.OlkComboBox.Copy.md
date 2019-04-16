@@ -19,7 +19,7 @@ Copies the contents of the control to the clipboard.
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
 _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 

@@ -15,9 +15,9 @@ Copies a chart.
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Return value

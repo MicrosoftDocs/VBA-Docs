@@ -19,9 +19,9 @@ Returns or sets a value that indicates whether to show the data labels when the 
 
 ## Syntax
 
-_expression_. `ShowDataLabelsOverMaximum`
+_expression_.**ShowDataLabelsOverMaximum**
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Remarks

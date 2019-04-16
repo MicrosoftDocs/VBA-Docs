@@ -19,7 +19,7 @@ Gets the ordinal position of a  **Toolbar** object in a **Toolbars** collection.
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 

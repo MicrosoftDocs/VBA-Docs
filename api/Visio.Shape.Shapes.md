@@ -19,7 +19,7 @@ Returns the  **Shapes** collection for a page, master, or group. Read-only.
 
 ## Syntax
 
-_expression_. `Shapes`
+_expression_.**Shapes**
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

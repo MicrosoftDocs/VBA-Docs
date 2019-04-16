@@ -14,7 +14,7 @@ Saves a custom chart template to the list of available chart templates or to a f
 
 _expression_. `SaveChartTemplate` _(bstrFileName)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters

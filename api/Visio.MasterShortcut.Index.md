@@ -19,7 +19,7 @@ Gets the ordinal position of a  **MasterShortcut** object in the **MasterShortcu
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 

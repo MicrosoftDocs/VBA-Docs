@@ -19,7 +19,7 @@ Refreshes the contents of the collection from the store, retrieving any changes 
 
 ## Syntax
 
-_expression_. `Refresh`
+_expression_.**Refresh**
 
 _expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 

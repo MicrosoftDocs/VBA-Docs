@@ -16,7 +16,7 @@ Gets the index of a  **Day** object in the containing **Days** collection. Read-
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Day](./Project.Day.md) object.
 

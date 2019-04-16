@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ShowValueFieldButtons
 ms.assetid: 7997b313-ce87-95eb-3d1e-b9b7b6eda84b
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets whether to display the value field buttons on a PivotChart. Read
 
 ## Syntax
 
-_expression_. `ShowValueFieldButtons`
+_expression_.**ShowValueFieldButtons**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

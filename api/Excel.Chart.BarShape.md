@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.BarShape
 ms.assetid: 46ce2a4f-8465-493b-ff89-9ddc5e619bf4
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets the shape used with the 3D bar or column chart. Read/write  **[X
 
 ## Syntax
 
-_expression_. `BarShape`
+_expression_.**BarShape**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

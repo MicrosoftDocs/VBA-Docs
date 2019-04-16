@@ -19,7 +19,7 @@ Returns a  **Row** object that represents the table row that is next in the coll
 
 ## Syntax
 
-_expression_. `Next`
+_expression_.**Next**
 
  _expression_ A variable that represents a '[Row](Word.Row.md)' object.
 

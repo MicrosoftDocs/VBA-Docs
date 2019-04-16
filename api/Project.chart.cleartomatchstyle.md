@@ -14,7 +14,7 @@ Clears the formatting of the chart elements and sets formatting to automatic.
 
 _expression_. `ClearToMatchStyle`
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Return value

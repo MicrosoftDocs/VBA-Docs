@@ -19,7 +19,7 @@ Gets the ordinal position of an object in a collection. Read-only.
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 

@@ -16,7 +16,7 @@ Makes a copy of a group definition for the  **Groups** collection and returns a 
 
 ## Syntax
 
-_expression_. `Copy`( `_Name_`, `_NewName_` )
+_expression_.**Copy** (_Name_, _NewName_)
 
  _expression_ A variable that represents a 'Groups' object.
 

@@ -12,9 +12,9 @@ Gets or sets the distance between the data series in a 3D chart, as a percentage
 
 ## Syntax
 
-_expression_. `GapDepth`
+_expression_.**GapDepth**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks

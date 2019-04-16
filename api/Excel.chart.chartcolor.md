@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm149199
 ms.prod: excel
 ms.assetid: a2bd828b-cf03-2927-8fe6-70414dafd46a
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -17,7 +17,7 @@ Returns or sets an  **Integer** that represents the color scheme for the chart. 
 
 ## Syntax
 
-_expression_. `ChartColor`
+_expression_.**ChartColor**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

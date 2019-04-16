@@ -19,7 +19,7 @@ Returns a  **Long** value indicating which threshold the criteria represents. Re
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
 _expression_ A variable that represents an [IconCriterion](Excel.IconCriterion.md) object.
 

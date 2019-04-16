@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ChartGroups
 ms.assetid: dffa4fc3-b2db-eb50-b309-95e99972525f
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns an object that represents either a single chart group (a  **[ChartGroup]
 
 ## Syntax
 
-_expression_. `ChartGroups` (_Index_)
+_expression_.**ChartGroups** (_Index_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

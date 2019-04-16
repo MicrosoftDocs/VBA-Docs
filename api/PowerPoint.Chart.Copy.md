@@ -19,9 +19,9 @@ Not supported for this object.
 
 ## Syntax
 
-_expression_. `Copy`( `_Before_`, `_After_` )
+_expression_.**Copy** (_Before_, _After_)
 
-_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters

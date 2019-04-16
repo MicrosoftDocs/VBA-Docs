@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.SetBackgroundPicture
 ms.assetid: 11a2d89d-d568-b30f-7f8c-e56495879ac4
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Sets the background graphic for a chart.
 
 ## Syntax
 
-_expression_. `SetBackgroundPicture`( `_FileName_` )
+_expression_.**SetBackgroundPicture** (_FileName_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

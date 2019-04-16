@@ -19,9 +19,9 @@ Returns or sets whether to display the report filter field buttons on a PivotCha
 
 ## Syntax
 
-_expression_. `ShowReportFilterFieldButtons`
+_expression_.**ShowReportFilterFieldButtons**
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Remarks

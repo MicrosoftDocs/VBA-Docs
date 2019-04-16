@@ -21,7 +21,7 @@ Returns a  **[Footnotes](Word.footnotes.md)** collection that represents all the
 
 _expression_. `Footnotes`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

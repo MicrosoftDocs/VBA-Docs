@@ -19,7 +19,7 @@ Copies the specified object to the Clipboard.
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 

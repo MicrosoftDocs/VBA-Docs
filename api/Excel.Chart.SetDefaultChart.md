@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.SetDefaultChart
 ms.assetid: 8be43de3-8b7d-4885-3e49-19aa0c65564f
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Specifies the name of the chart template that Microsoft Excel uses when creating
 
 ## Syntax
 
-_expression_. `SetDefaultChart`( `_Name_` )
+_expression_.**SetDefaultChart** (_Name_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

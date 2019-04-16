@@ -19,7 +19,7 @@ Returns or sets a  **String** representing the specific office location (for exa
 
 ## Syntax
 
-_expression_. `Location`
+_expression_.**Location** 
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

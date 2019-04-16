@@ -17,7 +17,7 @@ Returns the collection of all the series in the specified chart, or the specifie
 
 ## Syntax
 
-_expression_. `FullSeriesCollection`_(Index)_
+_expression_.**FullSeriesCollection** (_Index_)
 
  _expression_ A variable that represents a [Chart](./Word.Chart.md) object.
 

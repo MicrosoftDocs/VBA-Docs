@@ -19,9 +19,9 @@ Returns a  **[Hyperlinks](Word.hyperlinks.md)** collection that represents all t
 
 ## Syntax
 
-_expression_. `Hyperlinks`
+_expression_.**Hyperlinks**
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

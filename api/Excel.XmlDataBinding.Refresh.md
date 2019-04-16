@@ -19,7 +19,7 @@ Retrieves XML data using the current connection settings of the specified  **[Xm
 
 ## Syntax
 
-_expression_. `Refresh`
+_expression_.**Refresh**
 
 _expression_ A variable that represents a [XmlDataBinding](Excel.XmlDataBinding.md) object.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `DisplayBlanksAs`
+_expression_.**DisplayBlanksAs**
 
 _expression_ A variable that represents a [SparklineGroup](Excel.SparklineGroup.md) object.
 

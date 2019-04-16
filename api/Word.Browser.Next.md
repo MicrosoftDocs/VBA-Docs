@@ -19,7 +19,7 @@ Moves the selection to the next item indicated by the browser target. Use the  *
 
 ## Syntax
 
-_expression_. `Next`
+_expression_.**Next**
 
 _expression_ Required. A variable that represents a '[Browser](Word.Browser.md)' object.
 

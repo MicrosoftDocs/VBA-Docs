@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ShowLegendFieldButtons
 ms.assetid: 44f1554c-145b-8600-07c4-40b6891dab2d
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets whether to display legend field buttons on a PivotChart. Read/wr
 
 ## Syntax
 
-_expression_. `ShowLegendFieldButtons`
+_expression_.**ShowLegendFieldButtons**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

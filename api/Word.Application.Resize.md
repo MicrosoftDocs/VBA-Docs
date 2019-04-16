@@ -19,7 +19,7 @@ Sizes the Word application window or the specified task window.
 
 ## Syntax
 
-_expression_. `Resize`( `_Width_` , `_Height_` )
+_expression_.**Resize** (_Width_, _Height_)
 
 _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

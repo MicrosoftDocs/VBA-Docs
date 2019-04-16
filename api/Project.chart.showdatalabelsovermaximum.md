@@ -12,9 +12,9 @@ Gets or sets whether to show data labels on a 2D chart when the value is greater
 
 ## Syntax
 
-_expression_. `ShowDataLabelsOverMaximum`
+_expression_.**ShowDataLabelsOverMaximum**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks

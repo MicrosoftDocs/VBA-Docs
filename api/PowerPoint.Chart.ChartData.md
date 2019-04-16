@@ -21,7 +21,7 @@ Returns information about the linked or embedded data associated with a chart. R
 
 _expression_. `ChartData`
 
-_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Example

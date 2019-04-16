@@ -19,9 +19,9 @@ Not supported for this object.
 
 ## Syntax
 
-_expression_. `PivotLayout`
+_expression_.**PivotLayout**
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## See also

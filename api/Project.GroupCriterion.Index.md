@@ -16,7 +16,7 @@ Gets the index of a  **GroupCriterion** object in the containing **GroupCriteria
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 

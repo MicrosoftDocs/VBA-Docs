@@ -14,7 +14,7 @@ Gets an  **Office.IMsoChartArea** object that represents the complete chart area
 
 _expression_. `ChartArea`
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks

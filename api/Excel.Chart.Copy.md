@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Copy
 ms.assetid: c7294fd6-286a-774d-9dd8-4db33a59b10f
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Copies the sheet to another location in the workbook.
 
 ## Syntax
 
-_expression_. `Copy`( `_Before_` , `_After_` )
+_expression_.**Copy** (_Before_, _After_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

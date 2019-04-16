@@ -21,7 +21,7 @@ Returns or sets the text in the specified selection. Read/write  **String**.
 
 _expression_.**Text**
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

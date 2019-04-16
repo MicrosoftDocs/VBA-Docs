@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.PrintOut
 ms.assetid: 6529b0d5-5347-fcbc-f12a-3ab9e8c01359
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Prints the object.
 
 ## Syntax
 
-_expression_. `PrintOut`( `_From_` , `_To_` , `_Copies_` , `_Preview_` , `_ActivePrinter_` , `_PrintToFile_` , `_Collate_` , `_PrToFileName_` , `_IgnorePrintAreas_` )
+_expression_.**PrintOut** (_From_, _To_, _Copies_, _Preview_, _ActivePrinter_, _PrintToFile_, _Collate_, _PrToFileName_, _IgnorePrintAreas_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

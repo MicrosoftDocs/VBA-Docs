@@ -19,7 +19,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[IconV
 
 ## Syntax
 
-_expression_. `Copy`( `_Name_` , `_SaveOption_` )
+_expression_.**Copy** (_Name_, _SaveOption_)
 
 _expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 

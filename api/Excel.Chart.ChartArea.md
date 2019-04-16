@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ChartArea
 ms.assetid: 125d6176-b770-900b-8572-ce33b95ad897
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns a  **[ChartArea](Excel.ChartArea(object).md)** object that represents th
 
 ## Syntax
 
-_expression_. `ChartArea`
+_expression_.**ChartArea**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

@@ -21,7 +21,7 @@ Returns or sets if conditional formats will occur automatically as needed. Read/
 
 _expression_. `EnableFormatConditionsCalculation`
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks

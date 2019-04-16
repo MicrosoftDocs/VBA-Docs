@@ -19,7 +19,7 @@ Returns or sets the number of degrees the specified shape is rotated around the 
 
 ## Syntax
 
-_expression_. `Rotation`
+_expression_.**Rotation**
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

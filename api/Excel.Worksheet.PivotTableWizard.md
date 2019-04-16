@@ -21,7 +21,7 @@ Creates a new PivotTable report. This method doesn't display the PivotTable Wiza
 
 _expression_. `PivotTableWizard`( `_SourceType_` , `_SourceData_` , `_TableDestination_` , `_TableName_` , `_RowGrand_` , `_ColumnGrand_` , `_SaveData_` , `_HasAutoFormat_` , `_AutoPage_` , `_Reserved_` , `_BackgroundQuery_` , `_OptimizeCache_` , `_PageFieldOrder_` , `_PageFieldWrapCount_` , `_ReadData_` , `_Connection_` )
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters

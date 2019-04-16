@@ -19,9 +19,9 @@ Specifies the name of the chart template that Microsoft Word uses when it create
 
 ## Syntax
 
-_expression_. `SetDefaultChart`( `_Name_` )
+_expression_.**SetDefaultChart** (_Name_)
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Parameters

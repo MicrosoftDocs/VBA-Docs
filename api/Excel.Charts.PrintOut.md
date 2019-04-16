@@ -19,7 +19,7 @@ Prints the object.
 
 ## Syntax
 
-_expression_. `PrintOut`( `_From_` , `_To_` , `_Copies_` , `_Preview_` , `_ActivePrinter_` , `_PrintToFile_` , `_Collate_` , `_PrToFileName_` , `_IgnorePrintAreas_` )
+_expression_.**PrintOut** (_From_, _To_, _Copies_, _Preview_, _ActivePrinter_, _PrintToFile_, _Collate_, _PrToFileName_, _IgnorePrintAreas_)
 
 _expression_ A variable that represents a **[Charts](Excel.Charts.md)** object.
 

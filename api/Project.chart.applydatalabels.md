@@ -14,7 +14,7 @@ Applies data labels to all the series in a chart.
 
 _expression_. `ApplyDataLabels` _(Type,_ _IMsoLegendKey,_ _AutoText,_ _HasLeaderLines,_ _ShowSeriesName,_ _ShowCategoryName,_ _ShowValue,_ _ShowPercentage,_ _ShowBubbleSize,_ _Separator)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters

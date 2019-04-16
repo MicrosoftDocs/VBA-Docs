@@ -21,7 +21,7 @@ Clears circles from invalid entries on the worksheet.
 
 _expression_. `ClearCircles`
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
