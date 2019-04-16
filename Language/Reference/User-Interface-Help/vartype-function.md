@@ -22,6 +22,8 @@ The required _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a 
  
 ## Return values
 
+Either one of the following constants, or the summation of a number of them, is returned:
+
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbEmpty**|0|[Empty](../../Glossary/vbe-glossary.md#empty) (uninitialized)|
@@ -42,7 +44,7 @@ The required _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a 
 |**vbByte**|17|Byte value|
 |**vbLongLong**|20|[LongLong](longlong-data-type.md) integer (valid on 64-bit platforms only)|
 |**vbUserDefinedType**|36|Variants that contain user-defined types|
-|**vbArray**|8192|Array|
+|**vbArray**|8192|[Array](../../Glossary/vbe-glossary.md#array) (always added to another constant when returned by this function)|
 
 > [!NOTE] 
 > These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
@@ -60,14 +62,21 @@ The constant **vbVariant** is only returned in conjunction with **vbArray** to i
 This example uses the **VarType** function to determine the subtypes of different variables, and in one case, the type of an object's default property.
 
 ```vb
-Dim IntVar, StrVar, DateVar, MyCheck, AppVar As Object
+Dim MyCheck
+Dim IntVar, StrVar, DateVar, AppVar, ArrayVar
 ' Initialize variables.
-IntVar = 459: StrVar = "Hello World": DateVar = #2/12/69#: Set AppVar = Excel.Application
-MyCheck = VarType(IntVar)    ' Returns 2.
-MyCheck = VarType(DateVar)    ' Returns 7.
-MyCheck = VarType(StrVar)    ' Returns 8.
-MyCheck = VarType(AppVar)    ' Returns 8 (vbString) even though AppVar is an object.
-
+IntVar = 459: StrVar = "Hello World": DateVar = #2/12/1969#
+Set AppVar = Excel.Application
+ArrayVar = Array("1st Element", "2nd Element")
+' Run VarType function on different types.
+MyCheck = VarType(IntVar)   ' Returns 2.
+MyCheck = VarType(DateVar)  ' Returns 7.
+MyCheck = VarType(StrVar)   ' Returns 8.
+MyCheck = VarType(AppVar)   ' Returns 8 (vbString)
+                            ' even though AppVar is an object.
+MyCheck = VarType(ArrayVar) ' Returns 8204 which is
+                            ' `8192 + 12`, the computation of
+                            ' `vbArray + vbVariant`.
 ```
 
 ## See also
