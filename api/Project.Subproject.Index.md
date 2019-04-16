@@ -16,7 +16,7 @@ Gets the index of a  **Subproject** object in the **Subprojects** containing obj
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 

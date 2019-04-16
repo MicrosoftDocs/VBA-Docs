@@ -12,9 +12,9 @@ Gets an  **Office.IMsoPlotArea** object that represents the plot area of a chart
 
 ## Syntax
 
-_expression_. `PlotArea`
+_expression_.**PlotArea**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Example

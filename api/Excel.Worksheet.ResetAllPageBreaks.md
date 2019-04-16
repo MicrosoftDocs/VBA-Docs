@@ -21,7 +21,7 @@ Resets all page breaks on the specified worksheet.
 
 _expression_. `ResetAllPageBreaks`
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns a  **[Shapes](PowerPoint.Shapes.md)** collection representing all the la
 
 ## Syntax
 
-_expression_. `Shapes`
+_expression_.**Shapes**
 
 _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

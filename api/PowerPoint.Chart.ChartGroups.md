@@ -21,7 +21,7 @@ Returns an object that represents either a single chart group or a collection of
 
 _expression_. `ChartGroups` (_Index_)
 
-_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters

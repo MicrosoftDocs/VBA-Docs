@@ -14,7 +14,7 @@ Changes the chart to a default format for another chart type.
 
 _expression_. `AutoFormat` _(rGallery,_ _varFormat)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters

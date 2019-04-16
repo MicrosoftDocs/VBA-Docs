@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `AutoLength`
+_expression_.**AutoLength**
 
 _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 

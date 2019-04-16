@@ -19,7 +19,7 @@ Returns a  **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant th
 
 ## Syntax
 
-_expression_. `Location`
+_expression_.**Location** 
 
 _expression_ A variable that represents an '[AttachmentSelection](Outlook.AttachmentSelection.md)' object.
 

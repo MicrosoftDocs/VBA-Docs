@@ -19,7 +19,7 @@ Copies the range to the specified range or to the Clipboard.
 
 ## Syntax
 
-_expression_. `Copy`( `_Destination_` )
+_expression_.**Copy** (_Destination_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

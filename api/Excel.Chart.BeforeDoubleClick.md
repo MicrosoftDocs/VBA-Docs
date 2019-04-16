@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.BeforeDoubleClick
 ms.assetid: 406c6b9f-1182-5f5b-b954-afe10cd21a9b
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Occurs when a chart element is double-clicked, before the default double-click a
 
 ## Syntax
 
-_expression_. `BeforeDoubleClick`( `_ElementID_` , `_Arg1_` , `_Arg2_` , `_Cancel_` )
+_expression_.**BeforeDoubleClick** (_ElementID_, _Arg1_, _Arg2_, _Cancel_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

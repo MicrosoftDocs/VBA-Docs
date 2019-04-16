@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm149195
 ms.prod: excel
 ms.assetid: b3a54685-18d7-8c24-b2e8-f3bfb03fc69e
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -17,7 +17,7 @@ Returns a  **[XlCategoryLabelLevel enumeration (Excel)](Excel.xlcategorylabellev
 
 ## Syntax
 
-_expression_. `CategoryLabelLevel`
+_expression_.**CategoryLabelLevel**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

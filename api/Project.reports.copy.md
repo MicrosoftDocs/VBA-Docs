@@ -12,7 +12,7 @@ Copies a custom report and creates a new report with the same content.
 
 ## Syntax
 
-_expression_. `Copy` _(Source,_ _NewName)_
+_expression_.**Copy** (_Source_, _NewName_)
 
  _expression_ A variable that represents a 'Reports' object.
 

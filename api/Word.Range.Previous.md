@@ -19,7 +19,7 @@ Returns the previous range a relative to the specified range.
 
 ## Syntax
 
-_expression_. `Previous`( `_Unit_` , `_Count_` )
+_expression_.**Previous** (_Unit_, _Count_)
 
 _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

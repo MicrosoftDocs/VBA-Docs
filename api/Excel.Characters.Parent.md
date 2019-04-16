@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Characters.Parent
 ms.assetid: 6c0dac76-03b6-8c55-1cb3-f88211c81f27
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Characters](Excel.Characters.md)** object.
 
 
-## See also
 
-
-[Characters Object](Excel.Characters.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

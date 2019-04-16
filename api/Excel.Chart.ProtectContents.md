@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ProtectContents
 ms.assetid: 03a731a4-9848-dab1-1b49-b3b631c93a77
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ProtectContents`
+_expression_.**ProtectContents**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

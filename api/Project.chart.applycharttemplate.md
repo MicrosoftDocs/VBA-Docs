@@ -14,18 +14,15 @@ Applies a standard or custom chart type to a chart.
 
 _expression_. `ApplyChartTemplate` _(bstrFileName)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _bstrFileName_|Required|**String**|The file name for a chart template.|
-| _bstrFileName_|Required|STRING||
+
 
 ## Return value
 

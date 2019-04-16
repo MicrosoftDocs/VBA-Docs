@@ -19,9 +19,9 @@ Moves the sheet to another location in the workbook.
 
 ## Syntax
 
-_expression_. `Move`( `_Before_` , `_After_` )
+_expression_.**Move** (_Before_, _After_)
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Occurs when a worksheet is right-clicked, before the default right-click action.
 
 _expression_. `BeforeRightClick`( `_Target_` , `_Cancel_` )
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters

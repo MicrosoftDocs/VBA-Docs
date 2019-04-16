@@ -19,7 +19,7 @@ Returns a  **Cell** object that represents the previous table cell in the **[Cel
 
 ## Syntax
 
-_expression_. `Previous`
+_expression_.**Previous**
 
  _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 

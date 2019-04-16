@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Axes
 ms.assetid: d0520f61-9aff-894b-9975-37dcb5b5fe3c
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns an object that represents either a single axis or a collection of the ax
 
 ## Syntax
 
-_expression_. `Axes`( `_Type_` , `_AxisGroup_` )
+_expression_.**Axes** (_Type_, _AxisGroup_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

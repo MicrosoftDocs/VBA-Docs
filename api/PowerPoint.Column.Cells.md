@@ -19,7 +19,7 @@ Returns a  **[CellRange](PowerPoint.CellRange.md)** collection that represents t
 
 ## Syntax
 
-_expression_. `Cells`
+_expression_.**Cells**
 
 _expression_ A variable that represents a [Column](./PowerPoint.Column.md) object.
 

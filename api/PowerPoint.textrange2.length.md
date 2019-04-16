@@ -14,7 +14,7 @@ Get a Long that represents the length of a text range. Read-only.
 
 ## Syntax
 
-_expression_. `Length`
+_expression_.**Length**
 
  _expression_ An expression that returns a 'TextRange2' object.
 

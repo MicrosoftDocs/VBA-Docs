@@ -19,7 +19,7 @@ Returns a  **Long** that represents the ordinal position of a variable with in t
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
 _expression_ Required. A variable that represents a '[Variable](Word.Variable.md)' object.
 

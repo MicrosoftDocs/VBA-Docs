@@ -19,7 +19,7 @@ Determines whether the first segment of the callout retains the fixed length spe
 
 ## Syntax
 
-_expression_. `AutoLength`
+_expression_.**AutoLength**
 
 _expression_ A variable that represents an [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 

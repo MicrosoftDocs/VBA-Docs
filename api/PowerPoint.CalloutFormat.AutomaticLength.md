@@ -19,7 +19,7 @@ Specifies that the first segment of the callout line (the segment attached to th
 
 ## Syntax
 
-_expression_. `AutomaticLength`
+_expression_.**AutomaticLength**
 
 _expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 

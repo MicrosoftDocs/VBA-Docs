@@ -16,7 +16,7 @@ Makes a copy of a group definition for the  **TaskGroups** collection and return
 
 ## Syntax
 
-_expression_. `Copy`( `_Name_`, `_NewName_` )
+_expression_.**Copy** (_Name_, _NewName_)
 
  _expression_ A variable that represents a 'TaskGroups' object.
 

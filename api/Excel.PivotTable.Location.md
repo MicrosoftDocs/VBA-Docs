@@ -19,7 +19,7 @@ Gets or sets a  **String** that represents the top-left cell in the body of the 
 
 ## Syntax
 
-_expression_. `Location`
+_expression_.**Location** 
 
 _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 

@@ -19,9 +19,9 @@ Saves a document as PDF or XPS format.
 
 ## Syntax
 
-_expression_. `ExportAsFixedFormat`( `_OutputFileName_` , `_ExportFormat_` , `_OpenAfterExport_` , `_OptimizeFor_` , `_Range_` , `_From_` , `_To_` , `_Item_` , `_IncludeDocProps_` , `_KeepIRM_` , `_CreateBookmarks_` , `_DocStructureTags_` , `_BitmapMissingFonts_` , `_UseISO19005_1_` , `_FixedFormatExtClassPtr_` )
+_expression_.**ExportAsFixedFormat** (_OutputFileName_, _ExportFormat_, _OpenAfterExport_, _OptimizeFor_, _Range_, _From_, _To_, _Item_, _IncludeDocProps_, _KeepIRM_, _CreateBookmarks_, _DocStructureTags_, _BitmapMissingFonts_, _UseISO19005_\1_, _FixedFormatExtClassPtr_)
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+_expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Parameters

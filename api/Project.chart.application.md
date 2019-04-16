@@ -14,7 +14,7 @@ Gets the [Application](Project.Application.md) object. Read-only **Application**
 
 _expression_.**Application**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Property value

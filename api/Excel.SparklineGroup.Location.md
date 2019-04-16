@@ -19,7 +19,7 @@ Gets or sets the  **[Range](Excel.Range(object).md)** object that represents the
 
 ## Syntax
 
-_expression_. `Location`
+_expression_.**Location** 
 
 _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 

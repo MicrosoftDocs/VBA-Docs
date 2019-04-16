@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.CellFormat.Font
 ms.assetid: 2a0ee538-e7fa-581f-4c8b-b48e61b46f8a
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
 
 # CellFormat.Font property (Excel)
 
-Returns a  **[Font](Excel.Font(object).md)** object, allowing the user to set or return the search criteria based on the cell's font format.
+Returns a **[Font](Excel.Font(object).md)** object, allowing the user to set or return the search criteria based on the cell's font format.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** 
 ## Example
 
 This example sets the search criteria to identify cells that contain red font, creates a cell with this condition, finds this cell, and notifies the user.
-
 
 ```vb
 Sub SearchCellFormat() 
@@ -52,9 +51,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CellFormat Object](Excel.CellFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

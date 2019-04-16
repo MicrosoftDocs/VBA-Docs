@@ -19,7 +19,7 @@ Occurs after a mouse movement has been registered over the control.
 
 ## Syntax
 
-_expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseMove** (_Button_, _Shift_, _x_, _y_)
 
 _expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) object.
 

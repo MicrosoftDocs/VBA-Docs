@@ -19,7 +19,7 @@ Returns the length (in points) of the first segment of the callout line (the seg
 
 ## Syntax
 
-_expression_. `Length`
+_expression_.**Length**
 
  _expression_ An expression that returns a '[CalloutFormat](Word.CalloutFormat.md)' object.
 

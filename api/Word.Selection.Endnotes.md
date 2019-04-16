@@ -21,7 +21,7 @@ Returns an  **[Endnotes](Word.endnotes.md)** collection that represents all the 
 
 _expression_. `Endnotes`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

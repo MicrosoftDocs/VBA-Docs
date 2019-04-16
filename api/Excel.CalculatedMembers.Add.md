@@ -19,7 +19,7 @@ Adds a calculated field or calculated item to a PivotTable. Returns a **[Calcula
 
 ## Syntax
 
-_expression_.**Add** (_Name_, _Formula_, _SolveOrder_, _Type_)
+_expression_.**Add** (_Name_, _Formula_, _SolveOrder_, _Type_, _Dynamic_, _DisplayFolder_, _HierarchizeDistinct_)
 
 _expression_ A variable that represents a **[CalculatedMembers](Excel.CalculatedMembers.md)** object.
 

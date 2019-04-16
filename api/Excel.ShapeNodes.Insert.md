@@ -19,14 +19,12 @@ Inserts a node into a freeform shape.
 
 ## Syntax
 
-_expression_. `Insert`( `_Index_` , `_SegmentType_` , `_EditingType_` , `_X1_` , `_Y1_` , `_X2_` , `_Y2_` , `_X3_` , `_Y3_` )
+_expression_.**Insert** (_Index_, _SegmentType_, _EditingType_, _X1_, _Y1_, _X2_, _Y2_, _X3_, _Y3_)
 
 _expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

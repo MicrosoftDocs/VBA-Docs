@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # DisplayFormat.MergeCells property (Excel)
 
-Returns a value that indicates if the associated  **[Range](Excel.Range(object).md)** object contains merged cells as it is displayed in the current user interface. Read-only.
+Returns a value that indicates if the associated **[Range](Excel.Range(object).md)** object contains merged cells as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax
 
-_expression_. `MergeCells`
+_expression_.**MergeCells**
 
-_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a **[DisplayFormat](Excel.DisplayFormat.md)** object.
 
 
 ## Return value
@@ -31,12 +31,9 @@ Variant
 
 ## Remarks
 
-Returns  **True** if the range contains merged cells.
+Returns **True** if the range contains merged cells.
 
 
-## See also
 
-
-[DisplayFormat Object](Excel.DisplayFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

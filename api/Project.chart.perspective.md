@@ -12,9 +12,9 @@ Gets or sets a value that represents the perspective for the 3D chart view. Read
 
 ## Syntax
 
-_expression_. `Perspective`
+_expression_.**Perspective**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks

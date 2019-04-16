@@ -19,7 +19,7 @@ Turns on extend mode, or if extend mode is already on, extends the selection to 
 
 ## Syntax
 
-_expression_. `Extend`( `_Character_` )
+_expression_.**Extend** (_Character_)
 
 _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

@@ -38,7 +38,7 @@ To create a new named set from data in a PivotTable based on an OLAP data source
 
 This will display the **New Set** dialog box, which contains the **Recalculate set with every update** check box. Similarly, if you select an existing named set in the **Set Manager** dialog box, and then choose **Edit**, the **Modify Set** dialog box is displayed.
 
-This property, along with the **[DisplayFolder](Excel.CalculatedMember.DisplayFolder.md)** and **[HierarchizeDistinct](Excel.CalculatedMember.HierarchizeDistinct.md)** properties, can only be read for named sets (which are represented by **[CalculatedMember](Excel.CalculatedMember.md)** objects where the **[Type](Excel.CalculatedMember.Type.md)** property equals **xlCalculatedSet**). 
+This property, along with the **[DisplayFolder](Excel.CalculatedMember.DisplayFolder.md)** and **[HierarchizeDistinct](Excel.CalculatedMember.HierarchizeDistinct.md)** properties, can only be read for named sets (which are represented by **CalculatedMember** objects where the **[Type](Excel.CalculatedMember.Type.md)** property equals **xlCalculatedSet**). 
 
 These properties cannot be read for calculated members or measures (which are represented by **CalculatedMember** objects where the **Type** property equals **xlCalculatedMember**). If you attempt to read these properties for calculated members or measures, a run-time error is raised.
 

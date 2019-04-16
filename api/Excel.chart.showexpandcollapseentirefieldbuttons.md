@@ -4,7 +4,7 @@ keywords: vbaxl10.chm149201
 f1_keywords:
 - vbaxl10.chm149201
 ms.assetid: 8fc5a821-ab24-2e48-1100-cec590786cd1
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 ms.prod: excel
 localization_priority: Normal
 ---
@@ -17,7 +17,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowExpandCollapseEntireFieldButtons`
+_expression_.**ShowExpandCollapseEntireFieldButtons**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

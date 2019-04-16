@@ -12,9 +12,9 @@ Gets or sets the way that blank cells are plotted on a chart. Can be one of the 
 
 ## Syntax
 
-_expression_. `DisplayBlanksAs`
+_expression_.**DisplayBlanksAs**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Example

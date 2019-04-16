@@ -19,7 +19,7 @@ Removes the specified key binding from the  **KeyBindings** collection and reset
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
  _expression_ A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 

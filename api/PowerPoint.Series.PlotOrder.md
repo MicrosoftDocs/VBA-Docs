@@ -21,7 +21,7 @@ Returns or sets the plot order for the selected series within the chart group. R
 
 _expression_. `PlotOrder`
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Remarks

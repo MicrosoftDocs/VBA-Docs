@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Protect
 ms.assetid: 5f46d721-021b-d615-12c6-78aab49df500
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Protects a chart so that it cannot be modified.
 
 ## Syntax
 
-_expression_. `Protect`( `_Password_` , `_DrawingObjects_` , `_Contents_` , `_Scenarios_` , `_UserInterfaceOnly_` )
+_expression_.**Protect** (_Password_, _DrawingObjects_, _Contents_, _Scenarios_, _UserInterfaceOnly_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

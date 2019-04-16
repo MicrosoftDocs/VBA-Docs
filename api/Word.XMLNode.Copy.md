@@ -19,7 +19,7 @@ Copies the specified XML element, excluding XML markup, to the Clipboard.
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
  _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 

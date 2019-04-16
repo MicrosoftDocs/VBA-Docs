@@ -19,7 +19,7 @@ Resizes the selection by moving shape handles as specified.
 
 ## Syntax
 
-_expression_. `Resize`( `_Direction_` , `_Distance_` , `_UnitCode_` )
+_expression_.**Resize** (_Direction_, _Distance_, _UnitCode_)
 
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 

@@ -16,7 +16,7 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
 _expression_ Required. A variable that represents a '[PageNumber](Word.PageNumber.md)' object.
 

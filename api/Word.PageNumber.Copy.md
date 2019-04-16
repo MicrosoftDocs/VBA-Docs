@@ -16,7 +16,7 @@ Copies the specified page number to the Clipboard.
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
 _expression_ Required. A variable that represents a '[PageNumber](Word.PageNumber.md)' object.
 

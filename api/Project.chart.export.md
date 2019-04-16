@@ -12,14 +12,12 @@ Exports a chart in a graphic file format.
 
 ## Syntax
 
-_expression_. `Export` _(bstr,_? _varFilterName,_? _varInteractive)_
+_expression_.**Export** (_bstr_, _varFilterName_, _varInteractive_)
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

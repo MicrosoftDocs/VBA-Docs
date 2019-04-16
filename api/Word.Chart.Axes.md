@@ -18,7 +18,7 @@ Returns a collection of axes on the chart.
 
 _expression_. `Axes`( `_Type_` , `_AxisGroup_` )
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Returns or sets the chart type. Read/write  **[XlChartType](Excel.XlChartType.md
 
 _expression_. `ChartType`
 
-_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Remarks

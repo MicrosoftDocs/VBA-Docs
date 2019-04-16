@@ -12,9 +12,9 @@ Gets or sets the rotation of the 3D chart view (the rotation of the plot area ar
 
 ## Syntax
 
-_expression_. `Rotation`
+_expression_.**Rotation**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks

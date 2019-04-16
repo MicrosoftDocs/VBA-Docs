@@ -1,6 +1,8 @@
 # [Office VBA Reference](overview/Index.md) 
-## [Access](overview/Access.md)
-### [Concepts](../access/Concepts/Miscellaneous/concepts-access-vba-reference.md)
+## Access
+### [Overview](overview/Access.md)
+### Concepts
+#### [Overview](../access/Concepts/Miscellaneous/concepts-access-vba-reference.md)
 #### ActiveX Data Objects (ADO)
 ##### [ADO for Visual C++ syntax index for COM](../access/concepts/miscellaneous/ado-for-visual-c-plus-plus-syntax-index-for-com.md)
 ###### [Collections](../access/concepts/miscellaneous/collections-ado-for-visual-c-plus-plus-syntax.md) 
@@ -314,7 +316,8 @@
 ##### [Use the SetOption method from DAO](../access/concepts/miscellaneous/using-the-setoption-method-from-dao.md)
 ##### [Use the status bar progress meter](../access/Concepts/Miscellaneous/use-the-status-bar-progress-meter.md)
 ##### [Write your own customized handler](../access/concepts/miscellaneous/writing-your-own-customized-handler.md)
-### [Object model](overview/Access/object-model.md)
+### Object model
+#### [Overview](overview/Access/object-model.md)
 #### [AccessObject object](Access.AccessObject.md)
 ##### Methods
 ###### [GetDependencyInfo](Access.AccessObject.GetDependencyInfo.md)
@@ -4149,8 +4152,10 @@
 ##### [AcWebUserDisplay](Access.AcWebUserDisplay.md)
 ##### [AcWebUserGroupsDisplay](Access.AcWebUserGroupsDisplay.md)
 ##### [AcWindowMode](Access.AcWindowMode.md)
-## [Excel](overview/Excel.md)
-### [Concepts](../excel/Concepts/Miscellaneous/concepts-excel-vba-reference.md)
+## Excel
+### [Overview](overview/Excel.md)
+### Concepts
+#### [Overview](../excel/Concepts/Miscellaneous/concepts-excel-vba-reference.md)
 #### [About the PowerPivot Model object in Excel](../excel/Concepts/about-the-powerpivot-model-object-in-excel.md)
 #### [About coauthoring](../excel/Concepts/about-coauthoring-in-excel.md)
 #### [Language-specific properties, methods, and functions](../excel/Concepts/Language-specific-properties-methods-and-functions.md)
@@ -4255,7 +4260,8 @@
 ##### [Improve calculation performance](../excel/Concepts/Excel-Performance/excel-improving-calcuation-performance.md)
 ##### [Performance and limit improvements](../excel/Concepts/Excel-Performance/excel-performance-and-limit-improvements.md)
 ##### [Tips for optimizing performance obstructions](../excel/Concepts/Excel-Performance/excel-tips-for-optimizing-performance-obstructions.md)
-### [Object model](overview/Excel/object-model.md)
+### Object model
+#### [Overview](overview/Excel/object-model.md)
 #### [AboveAverage object](Excel.AboveAverage.md)
 ##### Methods
 ###### [Delete](Excel.AboveAverage.Delete.md)
@@ -10387,7 +10393,8 @@
 ##### [XlXmlImportResult](Excel.XlXmlImportResult.md)
 ##### [XlXmlLoadOption](Excel.XlXmlLoadOption.md)
 ##### [XlYesNoGuess](Excel.XlYesNoGuess.md)
-### [Excel Graph Visual Basic reference](overview/Excel/graph-visual-basic-reference.md)
+### Excel Graph Visual Basic reference
+#### [Overview](overview/Excel/graph-visual-basic-reference.md)
 #### Collections
 ##### [Axes collection](Excel.Axes-graph-collection.md)
 ##### [ChartGroups collection](Excel.chartgroups(collection).md)
@@ -10713,15 +10720,18 @@
 ##### [Width](Excel.width.md)
 ##### [WindowState](Excel.WindowState.md)
 #### [Enumerations](overview/Excel/enumerations-graph-visual-basic-reference.md)
-## [Office for Mac](overview/Office-Mac.md)
+## Office for Mac
+### [Overview](overview/Office-Mac.md)
 ### [Request access to multiple files](../Office-Mac/GrantAccessToMultipleFiles.md)
 ### [Run an AppleScript with VB](../Office-Mac/AppleScriptTask.md)
 ### [Differentiate between Office for Mac versions at compile time](../Office-Mac/MacOfficeVersion.md)
 ### [idMSOs supported in Excel for Mac](../Office-Mac/idMSOExcelMac.md) 
 ### [idMSOs supported in PowerPoint for Mac](../Office-Mac/idMSOPowerPointMac.md) 
 ### [idMSOs supported in Word for Mac](../Office-Mac/idMSOWordMac.md) 
-## [Outlook](overview/Outlook.md)
-### [Concepts](../outlook/Concepts/Getting-Started/concepts-outlook-vba-reference.md)
+## Outlook
+### [Overview](overview/Outlook.md)
+### Concepts
+#### [Overview](../outlook/Concepts/Getting-Started/concepts-outlook-vba-reference.md)
 #### Getting started
 ##### [Add custom property pages](../outlook/Concepts/Getting-Started/adding-custom-property-pages.md)
 ##### [Automate Outlook from a Visual Basic application](../outlook/Concepts/Getting-Started/automating-outlook-from-a-visual-basic-application.md)
@@ -11162,7 +11172,8 @@
 ##### [Outlook views](../outlook/How-to/Views/outlook-views.md)
 ##### [Filtering and specifying fields in a view](../outlook/How-to/Views/filtering-and-specifying-fields-in-a-view.md)
 ##### [Sorting fields in a view](../outlook/How-to/Views/sorting-fields-in-a-view.md)
-### [Object model](overview/Outlook/object-model.md)
+### Object model
+#### [Overview](overview/Outlook/object-model.md)
 #### [Account object](Outlook.Account.md)
 ##### Methods
 ###### [GetAddressEntryFromID](Outlook.Account.GetAddressEntryFromID.md)
@@ -15987,8 +15998,10 @@
 ####### [TripleState](Outlook.togglebutton.triplestate.md)
 ####### [Value](Outlook.togglebutton.value.md)
 ####### [WordWrap](Outlook.togglebutton.wordwrap.md)
-## [PowerPoint](overview/PowerPoint.md)
-### [Concepts](../powerpoint/Concepts/concepts-powerpoint-vba-reference.md)
+## PowerPoint
+### [Overview](overview/PowerPoint.md)
+### Concepts
+#### [Overview](../powerpoint/Concepts/concepts-powerpoint-vba-reference.md)
 #### [Control and dialog box events](../powerpoint/Concepts/control-and-dialog-box-events-powerpoint.md)
 #### [Language-specific properties and methods](../powerpoint/Concepts/Language-specific-properties-and-methods-powerpoint.md)
 #### [Learn about language-specific information](../powerpoint/Concepts/learn-about-language-specific-information-powerpoint.md)
@@ -16010,7 +16023,8 @@
 #### [Work with panes and views](../powerpoint/How-to/work-with-panes-and-views.md)
 #### [Work with shapes](../powerpoint/How-to/work-with-shapes-drawing-objects.md)
 #### [Work with tables](../powerpoint/How-to/work-with-tables.md)
-### [Object model](overview/PowerPoint/object-model.md)
+### Object model
+#### [Overview](overview/PowerPoint/object-model.md)
 #### [ActionSetting object](PowerPoint.ActionSetting.md)
 ##### Properties
 ###### [Action](PowerPoint.ActionSetting.Action.md)
@@ -19130,7 +19144,8 @@
 ##### [XlTrendlineType](PowerPoint.XlTrendlineType.md)
 ##### [XlUnderlineStyle](PowerPoint.XlUnderlineStyle.md)
 ##### [XlVAlign](PowerPoint.XlVAlign.md)
-## [Project](overview/Project.md)
+## Project
+### [Overview](overview/Project.md)
 ### Concepts
 #### [Use events with Application and Project objects](../project/Concepts/using-events-with-application-and-project-objects.md)
 #### [OLE programmatic identifiers, late binding, and early binding](../project/Concepts/ole-programmatic-identifiers-late-binding-and-early-binding-project.md)
@@ -19139,7 +19154,8 @@
 ##### [Calendars object map](../project/Concepts/calendars-object-map-project.md)
 ##### [Resources object map](../project/Concepts/resources-object-map-project.md)
 ##### [Tasks object map](../project/Concepts/tasks-object-map-project.md)
-### [Object model](Project.object.md)
+### Object model
+#### [Overview](Project.object.md)
 #### [ActualStartDrivers object](Project.actualstartdrivers.md)
 ##### Properties
 ###### [Application](Project.ActualStartDrivers.Application.md)
@@ -22584,12 +22600,15 @@
 ##### [PjWindowState](Project.PjWindowState.md)
 ##### [PjWorkContourType](Project.PjWorkContourType.md)
 ##### [PjYesNoAutomatic](Project.PjYesNoAutomatic.md)
-## [Publisher](overview/Publisher.md)
-### [Concepts](../publisher/Concepts/concepts-publisher-vba-reference.md)
+## Publisher
+### [Overview](overview/Publisher.md)
+### Concepts
+#### [Overview](../publisher/Concepts/concepts-publisher-vba-reference.md)
 #### [Return an object from a collection](../publisher/Concepts/returning-an-object-from-a-collection-publisher.md)
 #### [Use events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md)
 #### [Use events with the Document object](../publisher/Concepts/using-events-with-the-document-object-publisher.md)
-### [Object model](overview/Publisher/object-model.md)
+### Object model
+#### [Overview](overview/Publisher/object-model.md)
 #### [Adjustments object](Publisher.Adjustments.md)
 ##### Properties
 ###### [Application](Publisher.Adjustments.Application.md)
@@ -24499,8 +24518,10 @@
 ##### [PbWrapSideType](Publisher.PbWrapSideType.md)
 ##### [PbWrapType](Publisher.PbWrapType.md)
 ##### [PbZoom](Publisher.PbZoom.md)
-## [Visio](overview/Visio.md)
-### [Concepts](../visio/Concepts/concepts-visio-vba-reference.md)
+## Visio
+### [Overview](overview/Visio.md)
+### Concepts
+#### [Overview](../visio/Concepts/concepts-visio-vba-reference.md)
 #### [Automation](../visio/Concepts/about-automation-visio.md)
 #### [Connecting to data in Visio](../visio/Concepts/about-connecting-to-data-in-visio.md)
 #### [Displaying data graphically](../visio/Concepts/about-displaying-data-graphically-visio.md)
@@ -24524,7 +24545,8 @@
 #### [Start the Visual Basic Editor](../visio/How-to/start-the-visual-basic-editor-visio.md)
 #### [Use Information Rights Management for Visio](../visio/How-to/use-information-rights-management-for-visio.md)
 #### [View Visio object, property, method, event, and constant descriptions](../visio/How-to/view-visio-object-property-method-event-and-constant-descriptions.md)
-### [Object model](overview/Visio/object-model.md)
+### Object model
+#### [Overview](overview/Visio/object-model.md)
 #### [AccelItem object](Visio.AccelItem.md)
 ##### Methods
 ###### [Delete](Visio.AccelItem.Delete.md)
@@ -27387,8 +27409,10 @@
 ##### [VisWindowStates](Visio.viswindowstates.md)
 ##### [VisWinTypes](Visio.viswintypes.md)
 ##### [VisZoomBehavior](Visio.viszoombehavior.md)
-### [Visio Save as Web reference](overview/Visio/visio-save-as-web-reference.md)
-#### [Concepts](Visio.concepts.visio.save.md)
+### Visio Save as Web reference
+#### [Overview](overview/Visio/visio-save-as-web-reference.md)
+#### Concepts
+##### [Overview](Visio.concepts.visio.save.md)
 ##### [About the Save as Web Page API](Visio.about.the.save.as.web.md)
 ##### [Persist Save as Web Page settings](Visio.persisting.save.as.web.md)
 ##### [Run Save as Web Page from the command line](Visio.running.save.as.web.page.from.the.md)
@@ -27429,9 +27453,11 @@
 ####### [ThemeName](Visio.ThemeName.md)
 ##### [Enumerations](Visio.enumerations.visio.save.md)
 ###### [VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md)
-### [Visio Viewer reference](overview/Visio/visio-viewer-reference.md)
+### Visio Viewer reference
+#### [Overview](overview/Visio/visio-viewer-reference.md)
 #### [Programming Visio Viewer](Visio.about.programming.md)
-#### [Object model](overview/Visio/object-model-visio-viewer-reference.md)
+#### Object model
+##### [Overview](overview/Visio/object-model-visio-viewer-reference.md)
 ##### [Viewer object](Visio.viewer.object.md)
 ###### Events
 ####### [OnDocumentLoaded](Visio.OnDocumentLoaded.md)
@@ -27511,8 +27537,10 @@
 ####### [ToolbarCustomizable](Visio.ToolbarCustomizable.md)
 ####### [ToolbarVisible](Visio.ToolbarVisible.md)
 ####### [Zoom](Visio.viewer.zoom.property.md)
-## [Word](overview/Word.md)
-### [Concepts](../word/Concepts/Miscellaneous/concepts-word-vba-reference.md)
+## Word
+### [Overview](overview/Word.md)
+### Concepts
+#### [Overview](../word/Concepts/Miscellaneous/concepts-word-vba-reference.md)
 #### Customizing Word
 ##### [Add controls to a document](../word/Concepts/Customizing-Word/adding-controls-to-a-document.md)
 ##### [Add controls to a UserForm](../word/Concepts/Customizing-Word/adding-controls-to-a-userform.md)
@@ -27587,7 +27615,8 @@
 ##### [Return text from a document](../word/Concepts/Miscellaneous/returning-text-from-a-document.md)
 ##### [Set control properties](../word/Concepts/Miscellaneous/setting-control-properties-word.md)
 ##### [Store values when a macro ends](../word/Concepts/Miscellaneous/storing-values-when-a-macro-ends.md)
-### [Object model](overview/Word/object-model.md)
+### Object model
+#### [Overview](overview/Word/object-model.md)
 #### [AddIn object](Word.AddIn.md)
 ##### Methods
 ###### [Delete](Word.AddIn.Delete.md)
@@ -34400,7 +34429,8 @@
 ##### [XlTrendlineType](Word.xltrendlinetype.md)
 ##### [XlUnderlineStyle](Word.xlunderlinestyle.md)
 ##### [XlVAlign](Word.xlvalign.md)
-## [Language reference](overview/Language-Reference.md)
+## Language reference
+### [Overview](overview/Language-Reference.md)
 ### Concepts
 #### [Visual Basic](../Language/Reference/User-Interface-Help/visual-basic-conceptual-topics.md)
 ##### [64-bit Visual Basic for Applications overview](../Language/Concepts/Getting-Started/64-bit-visual-basic-for-applications-overview.md)
@@ -34533,7 +34563,8 @@
 ##### [What is a ToolTip?](../Language/Concepts/Forms/what-is-a-tooltip.md)
 ##### [What is the difference between the DataObject and the Clipboard?](../Language/Concepts/Forms/what-is-the-difference-between-the-dataobject-and-the-clipboard.md) 
 ##### [What is the Toolbox?](../Language/Concepts/Forms/what-is-the-toolbox.md)
-### [How-to topics](../Language/Reference/User-Interface-Help/visual-basic-how-to-topics.md)
+### How-to topics
+#### [Overview](../Language/Reference/User-Interface-Help/visual-basic-how-to-topics.md)
 #### [Add a watch expression](../Language/Concepts/Forms/add-a-watch-expression.md)
 #### [Check or add an Object Library Reference](../Language/How-to/check-or-add-an-object-library-reference.md)
 #### [Continue code execution](../Language/How-to/continue-code-execution.md)
@@ -34563,7 +34594,8 @@
 #### [Use the Object Browser](../Language/Reference/User-Interface-Help/use-the-object-browser.md)
 #### [Use the Project Explorer](../Language/Reference/User-Interface-Help/use-the-project-explorer.md)
 #### [Use the Properties window](../Language/Reference/User-Interface-Help/use-the-properties-window.md)
-### [Reference](../Language/Reference/User-Interface-Help/visual-basic-language-reference.md)
+### Reference
+#### [Overview](../Language/Reference/User-Interface-Help/visual-basic-language-reference.md)
 #### [Character sets](../Language/Reference/character-sets.md)
 ##### [Character set (0 - 127)](../Language/Reference/User-Interface-Help/character-set-0127.md)
 ##### [Character set (128 - 255)](../Language/Reference/User-Interface-Help/character-set-128255.md)
@@ -35293,7 +35325,8 @@
 ###### [SetSelection](../Language/Reference/User-Interface-Help/setselection-method-vba-add-in-object-model.md)
 ###### [Show](../Language/Reference/User-Interface-Help/show-method-vba-add-in-object-model.md)
 ###### [Update](../Language/Reference/User-Interface-Help/update-method-vba-add-in-object-model.md)
-### [User Interface Help](../language/reference/user-interface-help/visual-basic-user-interface-help.md)
+### User Interface Help
+#### [Overview](../language/reference/user-interface-help/visual-basic-user-interface-help.md)
 #### [Dialog boxes](../Language/Reference/dialog-boxes.md)
 ##### [Add Procedure dialog box](../Language/Reference/User-Interface-Help/add-procedure-dialog-box.md)
 ##### [Add Watch dialog box](../Language/Reference/User-Interface-Help/add-watch-dialog-box.md)
@@ -35905,8 +35938,10 @@
 ### Glossary
 #### [VBA Glossary](../Language/Glossary/glossary-vba.md)
 #### [VBE Glossary](../Language/Glossary/vbe-glossary.md)
-## [Library reference](overview/Library-Reference.md)
-### [Concepts](../Library-Reference/Concepts/concepts-object-library-reference-for-office.md)
+## Library reference
+### [Overview](overview/Library-Reference.md)
+### Concepts
+#### [Overview](../Library-Reference/Concepts/concepts-object-library-reference-for-office.md)
 #### [Customize the Office Fluent ribbon by using a managed COM add-in](../Library-Reference/Concepts/customize-the-office-fluent-ribbon-by-using-a-managed-com-add-in.md)
 #### [Customize the Office Fluent ribbon by using an Open XML formats file](../Library-Reference/Concepts/customize-the-office-fluent-ribbon-by-using-an-open-xml-formats-file.md)
 #### [Getting help on Macintosh keywords](../Library-Reference/Concepts/getting-help-on-macintosh-keywords-office.md)
@@ -35917,7 +35952,8 @@
 #### [Security notes for Office solution developers](../Library-Reference/Concepts/security-notes-for-microsoft-office-solution-developers.md)
 #### [Use the Document Inspector](../Library-Reference/Concepts/using-the-document-inspector.md)
 #### [What's new for VBA in Office 2016](../Library-Reference/Concepts/what-s-new-for-vba-in-office-2016.md)
-### [Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
+### Reference
+#### [Overview](overview/Library-Reference/reference-object-library-reference-for-office.md)
 #### [BulletFormat2 object](Office.BulletFormat2.md)
 ##### [BulletFormat2 members](overview/Library-Reference/bulletformat2-members-office.md)
 ##### Properties 

@@ -19,7 +19,7 @@ Returns a  **String** that represents the physical location of an XML schema. Re
 
 ## Syntax
 
-_expression_. `Location`
+_expression_.**Location** 
 
  _expression_ An expression that returns an [XMLSchemaReference](./Word.XMLSchemaReference.md) object.
 

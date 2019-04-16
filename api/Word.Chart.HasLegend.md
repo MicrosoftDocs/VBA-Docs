@@ -16,9 +16,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasLegend`
+_expression_.**HasLegend**
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Example

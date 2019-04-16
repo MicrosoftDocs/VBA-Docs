@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.SeriesChange
 ms.assetid: 80a8058c-0445-0051-24d1-1a965c302790
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -22,7 +22,7 @@ Occurs when the user changes the value of a chart data point by clicking a bar i
 
 ## Syntax
 
-_expression_. `SeriesChange`( `_SeriesIndex_` , `_PointIndex_` )
+_expression_.**SeriesChange** (_SeriesIndex_, _PointIndex_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

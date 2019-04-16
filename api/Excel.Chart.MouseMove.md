@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.MouseMove
 ms.assetid: b1277953-a882-f00f-2ac1-dd0cc49fef72
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Occurs when the position of the mouse pointer changes over a chart.
 
 ## Syntax
 
-_expression_. `MouseMove`( `_Button_` , `_Shift_` , `_x_` , `_y_` )
+_expression_.**MouseMove** (_Button_, _Shift_, _x_, _y_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

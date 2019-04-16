@@ -19,7 +19,7 @@ Inserts a cell or a range of cells into the worksheet or macro sheet and shifts 
 
 ## Syntax
 
-_expression_. `Insert`( `_Shift_` , `_CopyOrigin_` )
+_expression_.**Insert** (_Shift_, _CopyOrigin_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

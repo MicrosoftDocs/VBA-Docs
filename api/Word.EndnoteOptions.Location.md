@@ -19,7 +19,7 @@ Returns or sets the position of all endnotes. Read/write  **WdEndnoteLocation**.
 
 ## Syntax
 
-_expression_. `Location`
+_expression_.**Location** 
 
 _expression_ Required. A variable that represents an '[EndnoteOptions](Word.EndnoteOptions.md)' collection.
 

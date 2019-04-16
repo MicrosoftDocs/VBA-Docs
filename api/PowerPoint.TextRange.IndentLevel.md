@@ -19,7 +19,7 @@ Returns or sets the indent level for the specified text as an integer from 1 to 
 
 ## Syntax
 
-_expression_. `IndentLevel`
+_expression_.**IndentLevel**
 
  _expression_ A variable that represents an [TextRange](./PowerPoint.TextRange.md) object.
 

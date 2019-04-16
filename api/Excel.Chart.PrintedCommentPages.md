@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.PrintedCommentPages
 ms.assetid: 8f98f7af-4e2f-8743-b82b-c84ae83f6fdf
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns the number of comment pages that will be printed for the current chart. 
 
 ## Syntax
 
-_expression_. `PrintedCommentPages`
+_expression_.**PrintedCommentPages**
 
 _expression_ A variable that returns a **[Chart](Excel.Chart(object).md)** object.
 

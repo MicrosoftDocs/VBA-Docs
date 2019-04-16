@@ -19,7 +19,7 @@ Returns all the series in the chart group.
 
 ## Syntax
 
-_expression_. `SeriesCollection` (_Index_)
+_expression_.**SeriesCollection** (_Index_)
 
  _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 

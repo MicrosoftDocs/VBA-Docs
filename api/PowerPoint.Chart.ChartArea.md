@@ -21,7 +21,7 @@ Returns the complete chart area for the chart. Read-only  **[ChartArea](PowerPoi
 
 _expression_. `ChartArea`
 
-_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Example

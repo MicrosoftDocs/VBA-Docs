@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.GetChartElement
 ms.assetid: a4888d1b-f73b-43cd-5318-95c1d63944fa
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns information about the chart element at specified X and Y coordinates. Th
 
 ## Syntax
 
-_expression_. `GetChartElement`( `_x_` , `_y_` , `_ElementID_` , `_Arg1_` , `_Arg2_` )
+_expression_.**GetChartElement** (_x_, _y_, _ElementID_, _Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

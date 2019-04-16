@@ -19,7 +19,7 @@ Gets the ordinal position of a  **Document** object in the **Documents** collect
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

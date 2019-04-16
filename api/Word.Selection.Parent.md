@@ -21,7 +21,7 @@ Returns an  **Object** that represents the parent object of the specified **[Sel
 
 _expression_.**Parent**
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## See also

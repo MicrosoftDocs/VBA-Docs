@@ -12,9 +12,9 @@ Gets a  **[Shapes](overview/Project.md)** collection that represents all the sha
 
 ## Syntax
 
-_expression_. `Shapes`
+_expression_.**Shapes**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Property value

@@ -19,14 +19,12 @@ Inserts an envelope as a separate section at the beginning of the specified docu
 
 ## Syntax
 
-_expression_. `Insert`( `_ExtractAddress_` , `_Address_` , `_AutoText_` , `_OmitReturnAddress_` , `_ReturnAddress_` , `_ReturnAutoText_` , `_PrintBarCode_` , `_PrintFIMA_` , `_Size_` , `_Height_` , `_Width_` , `_FeedSource_` , `_AddressFromLeft_` , `_AddressFromTop_` , `_ReturnAddressFromLeft_` , `_ReturnAddressFromTop_` , `_DefaultFaceUp_` , `_DefaultOrientation_` , `_PrintEPostage_` , `_Vertical_` , `_RecipientNamefromLeft_` , `_RecipientNamefromTop_` , `_RecipientPostalfromLeft_` , `_RecipientPostalfromTop_` , `_SenderNamefromLeft_` , `_SenderNamefromTop_` , `_SenderPostalfromLeft_` , `_SenderPostalfromTop_` )
+_expression_.**Insert** (_ExtractAddress_, _Address_, _AutoText_, _OmitReturnAddress_, _ReturnAddress_, _ReturnAutoText_, _PrintBarCode_, _PrintFIMA_, _Size_, _Height_, _Width_, _FeedSource_, _AddressFromLeft_, _AddressFromTop_, _ReturnAddressFromLeft_, _ReturnAddressFromTop_, _DefaultFaceUp_, _DefaultOrientation_, _PrintEPostage_, _Vertical_, _RecipientNamefromLeft_, _RecipientNamefromTop_, _RecipientPostalfromLeft_, _RecipientPostalfromTop_, _SenderNamefromLeft_, _SenderNamefromTop_, _SenderPostalfromLeft_, _SenderPostalfromTop_)
 
-_expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
+_expression_ Required. A variable that represents an **[Envelope](Word.Envelope.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

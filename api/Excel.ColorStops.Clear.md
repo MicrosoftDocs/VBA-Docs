@@ -19,7 +19,7 @@ Clears the represented object.
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
  _expression_ An expression that returns a **[ColorStops](Excel.ColorStops.md)** object.
 

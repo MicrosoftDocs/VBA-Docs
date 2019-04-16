@@ -21,7 +21,7 @@ Returns or sets the chart style for the chart. Read/write  **Variant**.
 
 _expression_. `ChartStyle`
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Remarks

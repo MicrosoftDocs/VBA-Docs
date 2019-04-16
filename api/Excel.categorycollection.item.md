@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm948075
 ms.prod: excel
 ms.assetid: 799a7fc6-e44b-e860-2806-2f816008a905
-ms.date: 03/28/2019
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -27,6 +27,7 @@ _expression_ A variable that represents a **[CategoryCollection](Excel.CategoryC
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
+
 
 ## Return value
 

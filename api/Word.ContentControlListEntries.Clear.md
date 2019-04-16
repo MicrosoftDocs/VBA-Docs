@@ -19,7 +19,7 @@ Clears all items from a drop-down list or combo box content control.
 
 ## Syntax
 
-_expression_. `Clear`
+_expression_.**Clear**
 
  _expression_ An expression that returns a [ContentControlListEntries](./Word.ContentControlListEntries.md) object.
 

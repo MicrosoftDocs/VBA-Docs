@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.PlotBy
 ms.assetid: 69ff0fbe-7954-6808-68fa-cc92b2851dd8
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets the way columns or rows are used as data series on the chart. Ca
 
 ## Syntax
 
-_expression_. `PlotBy`
+_expression_.**PlotBy**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

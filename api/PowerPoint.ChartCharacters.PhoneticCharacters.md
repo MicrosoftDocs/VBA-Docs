@@ -19,7 +19,7 @@ Returns or sets the phonetic text for the object. Read/write  **String**.
 
 ## Syntax
 
-_expression_. `PhoneticCharacters`
+_expression_.**PhoneticCharacters**
 
 _expression_ A variable that represents a '[ChartCharacters](PowerPoint.ChartCharacters.md)' object.
 

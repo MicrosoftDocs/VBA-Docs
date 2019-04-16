@@ -14,7 +14,7 @@ Gets updated values from a pivot table data source.
 
 _expression_. `RefreshPivotTable`
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Return value

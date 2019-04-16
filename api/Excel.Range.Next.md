@@ -19,7 +19,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the next c
 
 ## Syntax
 
-_expression_. `Next`
+_expression_.**Next**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

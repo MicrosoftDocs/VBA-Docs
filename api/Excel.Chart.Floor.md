@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Floor
 ms.assetid: 7771ab49-b254-f0f0-a21b-596f541ab6c1
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns a  **[Floor](Excel.Floor(object).md)** object that represents the floor 
 
 ## Syntax
 
-_expression_. `Floor`
+_expression_.**Floor**
 
  _expression_ An expression that returns a **[Chart](Excel.Chart(object).md)** object.
 

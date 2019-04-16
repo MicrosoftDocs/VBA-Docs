@@ -21,7 +21,7 @@ Returns or sets the width (in the current measurement units) in which Microsoft 
 
 _expression_. `FitTextWidth`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Example

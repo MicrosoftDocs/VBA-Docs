@@ -16,7 +16,7 @@ Pastes a picture from the Clipboard as the marker on the selected series.
 
 ## Syntax
 
-_expression_. `Paste`
+_expression_.**Paste**
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

@@ -19,7 +19,7 @@ Refreshes a workbook connection.
 
 ## Syntax
 
-_expression_. `Refresh`
+_expression_.**Refresh**
 
 _expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 

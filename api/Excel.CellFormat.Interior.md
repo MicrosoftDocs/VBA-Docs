@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.CellFormat.Interior
 ms.assetid: aa11d693-0713-1f0c-0ef0-87bb81f705bd
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
 
 # CellFormat.Interior property (Excel)
 
-Returns an  **[Interior](Excel.Interior(object).md)** object allowing the user to set or return the search criteria based on the cell's interior format.
+Returns an **[Interior](Excel.Interior(object).md)** object allowing the user to set or return the search criteria based on the cell's interior format.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** 
 ## Example
 
 This example sets the search criteria to identify cells that contain a solid yellow interior, creates a cell with this condition, finds this cell, and notifies the user.
-
 
 ```vb
 Sub SearchCellFormat() 
@@ -59,9 +58,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CellFormat Object](Excel.CellFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

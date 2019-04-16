@@ -19,9 +19,9 @@ Represents an email header for a document.
 
 ## Syntax
 
-_expression_. `MailEnvelope`
+_expression_.**MailEnvelope**
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example

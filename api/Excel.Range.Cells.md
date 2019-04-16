@@ -19,7 +19,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cells 
 
 ## Syntax
 
-_expression_. `Cells`
+_expression_.**Cells**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 

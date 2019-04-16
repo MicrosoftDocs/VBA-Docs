@@ -21,7 +21,7 @@ Returns a  **[Find](Word.Find.md)** object that contains the criteria for a find
 
 _expression_. `Find`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

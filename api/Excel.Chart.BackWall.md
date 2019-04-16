@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.BackWall
 ms.assetid: c72de543-7be9-55ff-20d0-a5330ca92144
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns a  **[Walls](Excel.Walls(object).md)** object that allows the user to in
 
 ## Syntax
 
-_expression_. `BackWall`
+_expression_.**BackWall**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

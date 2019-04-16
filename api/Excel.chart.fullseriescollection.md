@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm149194
 ms.prod: excel
 ms.assetid: 875c18cf-064f-6b2f-2650-f5d07c16bc4d
-ms.date: 11/12/2018
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ Enables retrieving the filtered out series specified by the Index argument.
 
 ## Syntax
 
-_expression_. FullSeriesCollection _(Index)_
+_expression_.**FullSeriesCollection** (_Index_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

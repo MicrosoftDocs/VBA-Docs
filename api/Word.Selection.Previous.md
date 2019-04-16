@@ -19,7 +19,7 @@ Moves the selected text by the specified number of units, and returns a  **Range
 
 ## Syntax
 
-_expression_. `Previous`( `_Unit_` , `_Count_` )
+_expression_.**Previous** (_Unit_, _Count_)
 
 _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

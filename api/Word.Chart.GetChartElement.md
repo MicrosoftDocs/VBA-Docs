@@ -19,9 +19,9 @@ Returns information about the chart element at the specified x-coordinate and y-
 
 ## Syntax
 
-_expression_. `GetChartElement`( `_x_` , `_y_` , `_ElementID_` , `_Arg1_` , `_Arg2_` )
+_expression_.**GetChartElement** (_x_, _y_, _ElementID_, _Arg1_, _Arg2_)
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Parameters

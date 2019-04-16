@@ -19,7 +19,7 @@ Returns a  **Long** value that represents the number of characters of phonetic t
 
 ## Syntax
 
-_expression_. `Length`
+_expression_.**Length**
 
 _expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
 

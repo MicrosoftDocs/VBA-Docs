@@ -19,7 +19,7 @@ Creates one or more new  **Shape** objects by dropping an object onto a receivin
 
 ## Syntax
 
-_expression_. `Drop`( `_ObjectToDrop_` , `_xPos_` , `_yPos_` )
+_expression_.**Drop** (_ObjectToDrop_, _xPos_, _yPos_)
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

@@ -19,7 +19,7 @@ Returns the next form field in the collection. Read-only.
 
 ## Syntax
 
-_expression_. `Next`
+_expression_.**Next**
 
  _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 

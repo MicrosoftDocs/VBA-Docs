@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.DepthPercent
 ms.assetid: 3b53544f-8800-c1c9-6615-c601d213daee
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets the depth of a 3D chart as a percentage of the chart width (betw
 
 ## Syntax
 
-_expression_. `DepthPercent`
+_expression_.**DepthPercent**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

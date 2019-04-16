@@ -21,7 +21,7 @@ Sets the source data range for the chart.
 
 _expression_. `SetSourceData`( `_Source_`, `_PlotBy_` )
 
-_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters

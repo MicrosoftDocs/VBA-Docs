@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.SetElement
 ms.assetid: 0efff437-179b-fe16-118b-6f3cde49c5cf
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Sets chart elements on a chart. Read/write  **MsoChartElementType**.
 
 ## Syntax
 
-_expression_. `SetElement`( `_Element_` )
+_expression_.**SetElement** (_Element_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

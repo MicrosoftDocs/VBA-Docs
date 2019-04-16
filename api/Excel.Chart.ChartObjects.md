@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ChartObjects
 ms.assetid: 5b518ecf-9c1a-fb2f-c833-182c37b8c2c1
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns an object that represents either a single embedded chart (a  **[ChartObj
 
 ## Syntax
 
-_expression_. `ChartObjects` (_Index_)
+_expression_.**ChartObjects** (_Index_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

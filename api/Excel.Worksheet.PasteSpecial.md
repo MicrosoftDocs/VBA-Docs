@@ -20,7 +20,7 @@ Pastes the contents of the Clipboard onto the sheet, using a specified format. U
 
 _expression_. `PasteSpecial`( `_Format_` , `_Link_` , `_DisplayAsIcon_` , `_IconFileName_` , `_IconIndex_` , `_IconLabel_` , `_NoHTMLFormatting_` )
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 ## Parameters
 

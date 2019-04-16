@@ -21,7 +21,7 @@ Applies a standard or custom chart type to a chart.
 
 _expression_. `ApplyChartTemplate`( `_FileName_` )
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Parameters

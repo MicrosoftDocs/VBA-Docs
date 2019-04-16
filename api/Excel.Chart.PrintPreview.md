@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.PrintPreview
 ms.assetid: c08ad230-8bec-efd0-b94a-92b2324b5925
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Shows a preview of the object as it would look when printed.
 
 ## Syntax
 
-_expression_. `PrintPreview`( `_EnableChanges_` )
+_expression_.**PrintPreview** (_EnableChanges_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

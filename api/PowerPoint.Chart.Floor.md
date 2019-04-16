@@ -19,9 +19,9 @@ Returns the floor of the 3D chart. Read-only  **[Floor](PowerPoint.Floor.md)**.
 
 ## Syntax
 
-_expression_. `Floor`
+_expression_.**Floor**
 
-_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Example

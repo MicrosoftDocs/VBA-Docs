@@ -19,7 +19,7 @@ Pastes the text range on the Clipboard into an object.
 
 ## Syntax
 
-_expression_. `Paste`
+_expression_.**Paste**
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

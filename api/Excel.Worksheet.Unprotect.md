@@ -21,7 +21,7 @@ Removes protection from a sheet or workbook. This method has no effect if the sh
 
 _expression_.**Unprotect** (_Password_)
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters

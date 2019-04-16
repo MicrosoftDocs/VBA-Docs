@@ -21,7 +21,7 @@ Returns an  **[Outline](Excel.Outline.md)** object that represents the outline f
 
 _expression_. `Outline`
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example

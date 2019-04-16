@@ -19,7 +19,7 @@ Returns the total length of the media in time units. Read-only.
 
 ## Syntax
 
-_expression_. `Length`
+_expression_.**Length**
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

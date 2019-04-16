@@ -19,7 +19,7 @@ Returns a value that represents the indent level of the associated  **[Range](Ex
 
 ## Syntax
 
-_expression_. `IndentLevel`
+_expression_.**IndentLevel**
 
 _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 

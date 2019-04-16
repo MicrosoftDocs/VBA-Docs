@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ProtectionMode
 ms.assetid: 5a9afe8c-df46-cbfe-d692-d4be8f2e505b
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ProtectionMode`
+_expression_.**ProtectionMode**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

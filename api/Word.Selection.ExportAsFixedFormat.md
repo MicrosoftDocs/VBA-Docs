@@ -19,9 +19,9 @@ Saves the current selection as PDF or XPS format. .
 
 ## Syntax
 
-_expression_. `ExportAsFixedFormat`( `_OutputFileName_` , `_ExportFormat_` , `_OpenAfterExport_` , `_OptimizeFor_` , `_ExportCurrentPage_` , `_Item_` , `_IncludeDocProps_` , `_KeepIRM_` , `_CreateBookmarks_` , `_DocStructureTags_` , `_BitmapMissingFonts_` , `_UseISO19005_1_` , `_FixedFormatExtClassPtr_` )
+_expression_.**ExportAsFixedFormat** (_OutputFileName_, _ExportFormat_, _OpenAfterExport_, _OptimizeFor_, _ExportCurrentPage_, _Item_, _IncludeDocProps_, _KeepIRM_, _CreateBookmarks_, _DocStructureTags_, _BitmapMissingFonts_, _UseISO19005\_1_, _FixedFormatExtClassPtr_)
 
- _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
+_expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters

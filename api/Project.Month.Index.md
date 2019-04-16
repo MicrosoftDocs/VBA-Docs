@@ -16,7 +16,7 @@ Gets the index of a  **Month** object in the containing **Months** collection. R
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Month](./Project.Month.md) object.
 

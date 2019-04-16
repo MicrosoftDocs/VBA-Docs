@@ -19,7 +19,7 @@ Gets the ordinal position of a  **Connect** object in the **Connects** collectio
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 

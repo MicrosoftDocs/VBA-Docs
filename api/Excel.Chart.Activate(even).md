@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Activate
 ms.assetid: 7b878d1b-3059-93cb-389a-a2633f613a4d
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Occurs when a workbook, worksheet, chart sheet, or embedded chart is activated.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

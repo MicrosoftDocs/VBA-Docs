@@ -19,9 +19,9 @@ Sets the source data range for the chart.
 
 ## Syntax
 
-_expression_. `SetSourceData`( `_Source_` , `_PlotBy_` )
+_expression_.**SetSourceData** (_Source_, _PlotBy_)
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Parameters

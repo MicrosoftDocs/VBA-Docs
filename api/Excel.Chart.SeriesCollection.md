@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.SeriesCollection
 ms.assetid: 0a628f00-1ee6-9ff8-dce1-c7aabbdd1a85
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns an object that represents either a single series (a  **[Series](Excel.Se
 
 ## Syntax
 
-_expression_. `SeriesCollection` (_Index_)
+_expression_.**SeriesCollection** (_Index_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

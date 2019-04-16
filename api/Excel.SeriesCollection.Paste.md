@@ -19,7 +19,7 @@ Pastes data from the Clipboard into the specified series collection.
 
 ## Syntax
 
-_expression_. `Paste`( `_Rowcol_` , `_SeriesLabels_` , `_CategoryLabels_` , `_Replace_` , `_NewSeries_` )
+_expression_.**Paste** (_Rowcol_, _SeriesLabels_, _CategoryLabels_, _Replace_, _NewSeries_)
 
 _expression_ A variable that represents a [SeriesCollection](Excel.SeriesCollection.md) object.
 

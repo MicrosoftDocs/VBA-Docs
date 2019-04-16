@@ -19,7 +19,7 @@ Returns a  **Row** object that represents the table row that is previous to the 
 
 ## Syntax
 
-_expression_. `Previous`
+_expression_.**Previous**
 
  _expression_ A variable that represents a '[Row](Word.Row.md)' object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ShowAxisFieldButtons
 ms.assetid: 05eff4ce-c06b-b866-b0d7-8733cb51605a
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns or sets whether to display axis field buttons on a PivotChart. Read/writ
 
 ## Syntax
 
-_expression_. `ShowAxisFieldButtons`
+_expression_.**ShowAxisFieldButtons**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

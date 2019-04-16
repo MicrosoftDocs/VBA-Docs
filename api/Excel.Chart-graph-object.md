@@ -21,9 +21,12 @@ Represents the specified Graph chart.
 
 Use the **Chart** property to return a **Chart** object. Most of the time, you'll create a reference to a Graph chart and then use the reference in your code.
 
+The **[Chart](Excel.Chart-graph-method.md)** method returns a **Chart** object that represents the Graph chart.
+
 ## See also
 
 - [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
 - [Excel Object Model Reference](overview/excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

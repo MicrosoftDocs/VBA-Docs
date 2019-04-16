@@ -19,7 +19,7 @@ Inserts the value of a building block into a document and returns a  **[Range](W
 
 ## Syntax
 
-_expression_. `Insert`( `_Where_` , `_RichText_` )
+_expression_.**Insert** (_Where_, _RichText_)
 
  _expression_ An expression that returns a '[BuildingBlock](Word.BuildingBlock.md)' object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.ApplyDataLabels
 ms.assetid: 20966609-9713-c644-81d7-196b06169975
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Applies data labels to all the series in a chart.
 
 ## Syntax
 
-_expression_. `ApplyDataLabels`( `_Type_` , `_LegendKey_` , `_AutoText_` , `_HasLeaderLines_` , `_ShowSeriesName_` , `_ShowCategoryName_` , `_ShowValue_` , `_ShowPercentage_` , `_ShowBubbleSize_` , `_Separator_` )
+_expression_.**ApplyDataLabels** (_Type_, _LegendKey_, _AutoText_, _HasLeaderLines_, _ShowSeriesName_, _ShowCategoryName_, _ShowValue_, _ShowPercentage_, _ShowBubbleSize_, _Separator_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

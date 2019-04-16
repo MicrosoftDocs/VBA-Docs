@@ -14,25 +14,24 @@ localization_priority: Normal
 
 # Range.MergeCells property (Excel)
 
- **True** if the range contains merged cells. Read/write **Variant**.
+**True** if the range contains merged cells. Read/write **Variant**.
 
 
 ## Syntax
 
-_expression_. `MergeCells`
+_expression_.**MergeCells**
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
 
-When you select a range that contains merged cells, the resulting selection may be different from the intended selection. Use the  **[Address](Excel.Range.Address.md)** property to check the address of the selected range.
+When you select a range that contains merged cells, the resulting selection may be different from the intended selection. Use the **[Address](Excel.Range.Address.md)** property to check the address of the selected range.
 
 
 ## Example
 
 This example sets the value of the merged range that contains cell A3.
-
 
 ```vb
 Set ma = Range("a3").MergeArea 
@@ -42,9 +41,6 @@ End If
 ```
 
 
-## See also
 
-
-[Range Object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Returns a  **[Comment](Excel.Comment.md)** object that represents the next comme
 
 ## Syntax
 
-_expression_. `Next`
+_expression_.**Next**
 
  _expression_ An expression that returns a **[Comment](Excel.Comment.md)** object.
 

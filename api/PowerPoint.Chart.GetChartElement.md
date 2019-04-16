@@ -21,7 +21,7 @@ Returns information about the chart element at the specified x-coordinate and y-
 
 _expression_. `GetChartElement`( `_x_`, `_y_`, `_ElementID_`, `_Arg1_`, `_Arg2_` )
 
-_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters

@@ -19,7 +19,7 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ An expression that returns a [OMathRecognizedFunction](./Word.OMathRecognizedFunction.md) object.
 

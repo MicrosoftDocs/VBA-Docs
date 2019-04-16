@@ -19,7 +19,7 @@ Copies the specified frame to the Clipboard.
 
 ## Syntax
 
-_expression_. `Copy`
+_expression_.**Copy**
 
 _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
 

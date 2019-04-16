@@ -19,7 +19,7 @@ Returns a  **[Shapes](PowerPoint.Shapes.md)** collection that represents all the
 
 ## Syntax
 
-_expression_. `Shapes`
+_expression_.**Shapes**
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 

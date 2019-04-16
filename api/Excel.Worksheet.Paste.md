@@ -19,9 +19,9 @@ Pastes the contents of the Clipboard onto the sheet.
 
 ## Syntax
 
-_expression_. `Paste`( `_Destination_` , `_Link_` )
+_expression_.**Paste** (_Destination_, _Link_)
 
-_expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters

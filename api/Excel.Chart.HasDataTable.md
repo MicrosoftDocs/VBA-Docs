@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.HasDataTable
 ms.assetid: c29e7606-086e-8549-2259-332d30c1846a
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `HasDataTable`
+_expression_.**HasDataTable**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

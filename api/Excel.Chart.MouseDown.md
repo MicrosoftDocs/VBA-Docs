@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.MouseDown
 ms.assetid: 6c4ef5ce-560e-a7d5-c602-99a999fb5535
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Occurs when a mouse button is pressed while the pointer is over a chart.
 
 ## Syntax
 
-_expression_. `MouseDown`( `_Button_` , `_Shift_` , `_x_` , `_y_` )
+_expression_.**MouseDown** (_Button_, _Shift_, _x_, _y_)
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

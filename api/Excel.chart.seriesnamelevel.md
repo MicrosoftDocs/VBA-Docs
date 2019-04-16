@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm149196
 ms.prod: excel
 ms.assetid: 17ada484-943e-502f-a499-077d1e53e6c1
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -17,7 +17,7 @@ Returns a  **[XlSeriesNameLevel enumeration (Excel)](Excel.xlseriesnamelevel.md)
 
 ## Syntax
 
-_expression_. `SeriesNameLevel`
+_expression_.**SeriesNameLevel**
 
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 

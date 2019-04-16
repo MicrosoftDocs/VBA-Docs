@@ -21,7 +21,7 @@ Returns a  **[Paragraphs](Word.paragraphs.md)** collection that represents all t
 
 _expression_. `Paragraphs`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks

@@ -19,7 +19,7 @@ Returns or sets a value that indicates whether to display legend field buttons o
 
 ## Syntax
 
-_expression_. `ShowLegendFieldButtons`
+_expression_.**ShowLegendFieldButtons**
 
 _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 

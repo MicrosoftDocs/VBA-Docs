@@ -16,7 +16,7 @@ Gets the index of a  **WorkWeek** object in the **WorkWeeks** containing object.
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
  _expression_ An expression that returns a [WorkWeek](./Project.WorkWeek.md) object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart.Location
 ms.assetid: 3744f7f3-f7df-3ac2-48b7-b57ce3a8c812
-ms.date: 06/08/2017
+ms.date: 04/16/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Moves the chart to a new location.
 
 ## Syntax
 
-_expression_. `Location`( `_Where_` , `_Name_` )
+_expression_.**Location** (_Where_, _Name_)
 
  _expression_ An expression that returns a **[Chart](Excel.Chart(object).md)** object.
 
