@@ -31,60 +31,27 @@ The following Visual Basic for Applications (VBA) example creates and displays a
 
 ```vb
 Public Sub CreateTasksSharingItem() 
- 
- 
- 
- Dim oNamespace As NameSpace 
- 
- Dim oFolder As Folder 
- 
- Dim oSharingItem As SharingItem 
- 
- 
- 
  On Error GoTo ErrRoutine 
  
+ Dim mapiNamespace As Outlook.NameSpace 
+ Set mapiNamespace = Outlook.Application.GetNamespace("MAPI") 
  
+ Dim defaultFolder As Outlook.Folder 
+ Set defaultFolder = mapiNamespace.GetDefaultFolder(Outlook.olFolderTasks) 
  
- Set oNamespace = Application.GetNamespace("MAPI") 
+ Dim invitation As Outlook.SharingItem  
+ Set invitation = appNamespace.CreateSharingItem(defaultFolder) 
  
- Set oFolder = oNamespace.GetDefaultFolder(olFolderTasks) 
- 
- Set oSharingItem = oNamespace.CreateSharingItem(oFolder) 
- 
- 
- 
- oSharingItem.Display 
- 
- 
- 
-EndRoutine: 
- 
- On Error GoTo 0 
- 
- Set oSharingItem = Nothing 
- 
- Set oFolder = Nothing 
- 
- Set oNamespace = Nothing 
- 
-Exit Sub 
- 
- 
- 
+ invitation.Display 
+  
+EndRoutine:  
+ Exit Sub 
+  
 ErrRoutine: 
- 
- MsgBox Err.Description, _ 
- 
- vbOKOnly, _ 
- 
- Err.Number &amp; " - " &amp; Err.Source 
- 
- GoTo EndRoutine 
+ MsgBox Err.Description, vbOKOnly, Err.Number &amp; " - " &amp; Err.Source  
+ Resume EndRoutine 
  
 End Sub 
- 
-
 ```
 
 
