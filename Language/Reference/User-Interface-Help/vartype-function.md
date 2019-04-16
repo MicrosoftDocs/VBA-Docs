@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1009057
 ms.prod: office
 ms.assetid: 7422fba5-7ea9-1d91-fc0e-5694c352d2d0
-ms.date: 04/16/2019
+ms.date: 04/17/2019
 localization_priority: Normal
 ---
 
@@ -22,7 +22,7 @@ The required _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a 
  
 ## Return values
 
-Either one of the following constants, or the summation of a number of them, is returned:
+Either one of the following constants or the summation of a number of them is returned.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -44,7 +44,7 @@ Either one of the following constants, or the summation of a number of them, is 
 |**vbByte**|17|Byte value|
 |**vbLongLong**|20|[LongLong](longlong-data-type.md) integer (valid on 64-bit platforms only)|
 |**vbUserDefinedType**|36|Variants that contain user-defined types|
-|**vbArray**|8192|[Array](../../Glossary/vbe-glossary.md#array) (always added to another constant when returned by this function)|
+|**vbArray**|8192|Array (always added to another constant when returned by this function)|
 
 > [!NOTE] 
 > These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
