@@ -36,11 +36,11 @@ Public Sub CreateTasksSharingItem()
  Dim mapiNamespace As Outlook.NameSpace 
  Set mapiNamespace = Outlook.Application.GetNamespace("MAPI") 
  
- Dim defaultFolder As Outlook.Folder 
- Set defaultFolder = mapiNamespace.GetDefaultFolder(Outlook.olFolderTasks) 
+ Dim tasksFolder As Outlook.Folder 
+ Set tasksFolder = mapiNamespace.GetDefaultFolder(Outlook.olFolderTasks) 
  
  Dim invitation As Outlook.SharingItem  
- Set invitation = appNamespace.CreateSharingItem(defaultFolder) 
+ Set invitation = appNamespace.CreateSharingItem(tasksFolder) 
  
  invitation.Display 
   
