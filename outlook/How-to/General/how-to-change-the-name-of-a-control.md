@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Change the Name of a Control
+# Change the Name of a Control
 
 The following code example uses the  **[ModifiedFormPages](../../../api/Outlook.Inspector.ModifiedFormPages.md)** property of the current **[Inspector](../../../api/Outlook.Inspector.md)** object to set the Microsoft Forms 2.0 **Name** property of a **[CheckBox](../../../api/Outlook.checkbox.md)** on a page named "Test" to "Selection."
 

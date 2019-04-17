@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Cut Text from One Text Box and Paste it on Another
+# Cut Text from One Text Box and Paste it on Another
 
 The following example uses the  **[Cut](../../../api/Outlook.textbox.cut.md)** and **[Paste](../../../api/Outlook.textbox.paste.md)** methods to cut text from one **[TextBox](../../../api/Outlook.textbox.md)** and paste it on another **TextBox**.
 

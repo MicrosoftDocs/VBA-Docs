@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Allow Multiple Lines, Word Wrapping, and Scrolling in a Text Box
+# Allow Multiple Lines, Word Wrapping, and Scrolling in a Text Box
 
 The following example demonstrates the  **[MultiLine](../../../api/Outlook.textbox.multiline.md)**,  **[WordWrap](../../../api/Outlook.textbox.wordwrap.md)**, and  **[ScrollBars](../../../api/Outlook.textbox.scrollbars.md)** properties on a **[TextBox](../../../api/Outlook.textbox.md)**.
 

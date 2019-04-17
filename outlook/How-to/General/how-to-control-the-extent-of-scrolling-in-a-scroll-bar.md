@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Control the Extent of Scrolling in a Scroll Bar
+# Control the Extent of Scrolling in a Scroll Bar
 
 The following example demonstrates the  **[LargeChange](../../../api/Outlook.scrollbar.largechange.md)** and **[SmallChange](../../../api/Outlook.scrollbar.smallchange.md)** properties when used with a stand-alone **[ScrollBar](../../../api/Outlook.scrollbar.md)**. The user can set the  **LargeChange** and **SmallChange** values to any integer in the range of 0 to 100. This example also uses the ** [TextBox.MaxLength](../../../api/Outlook.textbox.maxlength.md)** property to restrict the number of characters entered in the **[TextBox](../../../api/Outlook.textbox.md)** controls for the **LargeChange** and **SmallChange** values.
 

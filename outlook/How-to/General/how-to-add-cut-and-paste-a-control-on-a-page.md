@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Add, Cut, and Paste a Control on a Page
+# Add, Cut, and Paste a Control on a Page
 
 The following example uses the Microsoft Forms 2.0  **Controls**collection, and the  **Controls.Add**,  **Controls.Cut**, and  **[Page.Paste](../../../api/Outlook.page.paste.md)** methods to add, cut, and paste a control on a **[Page](../../../api/Outlook.page.md)** of a **[MultiPage](../../../api/Outlook.multipage.md)**. The control involved in the cut and paste operations is dynamically added to the form.
 

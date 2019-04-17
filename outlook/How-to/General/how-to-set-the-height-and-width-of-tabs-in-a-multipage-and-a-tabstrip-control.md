@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Set the Height and Width of Tabs in a MultiPage and a TabStrip Control
+# Set the Height and Width of Tabs in a MultiPage and a TabStrip Control
 
 The following example uses the  **TabFixedHeight** and **TabFixedWidth** properties to set the size of the tabs used in **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. The user clicks the  **[SpinButton](../../../api/Outlook.spinbutton.md)** controls to adjust the height and width of the tabs within the **MultiPage** and **TabStrip**.
 

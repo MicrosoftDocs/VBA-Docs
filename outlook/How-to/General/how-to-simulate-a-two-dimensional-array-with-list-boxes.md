@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Simulate a Two-Dimensional Array with List Boxes
+# Simulate a Two-Dimensional Array with List Boxes
 
 The following example loads a two-dimensional array with data and, in turn, loads two  **[ListBox](../../../api/Outlook.listbox.md)** controls using the **[Column](../../../api/Outlook.listbox.column.md)** and **[List](../../../api/Outlook.listbox.list.md)** properties. Note that the **Column** property transposes the array elements during loading.
 

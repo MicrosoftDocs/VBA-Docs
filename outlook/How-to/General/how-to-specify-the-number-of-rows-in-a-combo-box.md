@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Specify the Number of Rows in a Combo Box
+# Specify the Number of Rows in a Combo Box
 
 The following example uses a  **[SpinButton](../../../api/Outlook.spinbutton.md)** to control the number of rows in the drop-down list of a **[ComboBox](../../../api/Outlook.combobox.md)**. The user changes the value of the  **SpinButton**, then clicks on the drop-down arrow of the  **ComboBox** to display the list.
 

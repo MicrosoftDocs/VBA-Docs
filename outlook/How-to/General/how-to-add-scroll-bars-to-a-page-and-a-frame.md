@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Add Scroll Bars to a Page and a Frame
+# Add Scroll Bars to a Page and a Frame
 
 The following example uses the  **ScrollBars** and the **KeepScrollBarsVisible** properties to add scroll bars to a page of a **[MultiPage](../../../api/Outlook.multipage.md)** and to a **[Frame](../../../api/Outlook.frame.md)**. The user chooses an option button that, in turn, specifies a value for  **KeepScrollBarsVisible**.
 

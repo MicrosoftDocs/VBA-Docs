@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Set Entry Matching in a Combo Box
+# Set Entry Matching in a Combo Box
 
 The following example uses the  **[MatchFound](../../../api/Outlook.combobox.matchfound.md)** and **[MatchRequired](../../../api/Outlook.combobox.matchrequired.md)** properties to demonstrate additional character matching for **[ComboBox](../../../api/Outlook.combobox.md)**. The matching verification occurs in the  **Change** event.
 

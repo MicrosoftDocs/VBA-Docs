@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Allow the Null State for a Check Box and a Toggle Button
+# Allow the Null State for a Check Box and a Toggle Button
 
 The following example uses the  **TripleState** property to allow Null as a legal value of a **[CheckBox](../../../api/Outlook.checkbox.md)** and a **[ToggleButton](../../../api/Outlook.togglebutton.md)**. The user controls the value of  **TripleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**. However, when a control is set to  **Null**, no event is fired.
 

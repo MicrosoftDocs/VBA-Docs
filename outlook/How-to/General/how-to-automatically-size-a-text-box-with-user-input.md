@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Automatically Size a Text Box with User Input
+# Automatically Size a Text Box with User Input
 
 The following example demonstrates the effects of the  **[AutoSize](../../../api/Outlook.textbox.autosize.md)** property with a single-line **[TextBox](../../../api/Outlook.textbox.md)** and a multiline **TextBox**. The user can enter text into either of the  **TextBox** controls and turn **AutoSize** on or off independently of the contents of the **TextBox**. This code sample also uses the  **[Text](../../../api/Outlook.textbox.text.md)** property.
 

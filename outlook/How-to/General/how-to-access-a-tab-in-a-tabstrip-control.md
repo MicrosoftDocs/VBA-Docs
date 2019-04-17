@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Access a Tab in a TabStrip Control
+# Access a Tab in a TabStrip Control
 
 The following example accesses an individual tab of a  **[TabStrip](../../../api/Outlook.tabstrip.md)** in several ways:
 

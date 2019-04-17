@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Swap Columns of a Multicolumn List Box
+# Swap Columns of a Multicolumn List Box
 
 The following example swaps columns of a multicolumn  **[ListBox](../../../api/Outlook.listbox.md)**. The sample uses the  **[List](../../../api/Outlook.listbox.list.md)** property in two ways:
 

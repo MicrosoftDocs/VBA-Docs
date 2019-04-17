@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Control the Style and Selection Behavior of a List Box
+# Control the Style and Selection Behavior of a List Box
 
 The following example uses the  **[ListStyle](../../../api/Outlook.listbox.liststyle.md)** and **[MultiSelect](../../../api/Outlook.OlkListBox.MultiSelect.md)** properties to control the appearance of a **[ListBox](../../../api/Outlook.listbox.md)**. The user chooses a value for  **ListStyle** using the **[ToggleButton](../../../api/Outlook.togglebutton.md)** and chooses an **[OptionButton](../../../api/Outlook.optionbutton.md)** for one of the **MultiSelect** values. The appearance of the **ListBox** changes accordingly, as well as the selection behavior within the **ListBox**.
 

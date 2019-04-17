@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Display the List Portion of a Combo Box
+# Display the List Portion of a Combo Box
 
 The following example uses the  **[DropDown](../../../api/Outlook.combobox.dropdown.md)** method to display the list in a **[ComboBox](../../../api/Outlook.combobox.md)**. The user can display the list of a  **ComboBox** by clicking the **[CommandButton](../../../api/Outlook.commandbutton.md)**.
 

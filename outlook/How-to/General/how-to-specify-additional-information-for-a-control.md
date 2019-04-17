@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Specify Additional Information for a Control
+# Specify Additional Information for a Control
 
 The following example uses the  **Tag** property to store additional information about each control on the Microsoft Forms 2.0 **UserForm**. The user clicks a control and then clicks the  **[CommandButton](../../../api/Outlook.commandbutton.md)**. The contents of  **Tag** for the appropriate control are returned in the **[TextBox](../../../api/Outlook.textbox.md)**.
 

@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form
+# Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form
 
 The following example defines the  **Cycle** property for a **[Frame](../../../api/Outlook.frame.md)** and two **[Page](../../../api/Outlook.page.md)** objects in a **[MultiPage](../../../api/Outlook.multipage.md)**.
 

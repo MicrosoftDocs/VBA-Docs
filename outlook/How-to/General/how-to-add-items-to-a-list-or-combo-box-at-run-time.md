@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Add Items To a List or Combo Box at Run Time
+# Add Items To a List or Combo Box at Run Time
 
 In a  **[ListBox](../../../api/Outlook.listbox.md)** or **[ComboBox](../../../api/Outlook.combobox.md)** with a single column, use the **AddItem** method to add an individual entry to the list.
 
