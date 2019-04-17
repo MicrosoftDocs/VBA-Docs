@@ -1,4 +1,4 @@
-# [Office VBA Reference](overview/Index.md) 
+# [Office VBA Reference](overview/Index.md)
 ## Access
 ### [Overview](overview/Access.md)
 ### Concepts
@@ -35117,12 +35117,12 @@
 ####### [Exists](../Language/Reference/User-Interface-Help/exists-method.md)
 ####### [Items](../Language/Reference/User-Interface-Help/items-method.md)
 ####### [Keys](../Language/Reference/User-Interface-Help/keys-method.md)
-####### [Remove](../Language/Reference/User-Interface-Help/remove-method-filesystemobject-object.md)
+####### [Remove](../Language/Reference/User-Interface-Help/remove-method-dictionary-object.md)
 ####### [RemoveAll](../Language/Reference/User-Interface-Help/removeall-method.md)
 ###### Properties
 ####### [CompareMode](../Language/Reference/User-Interface-Help/comparemode-property.md)
-####### [Count](../Language/Reference/User-Interface-Help/count-property-filesystemobject-object.md)
-####### [Item](../Language/Reference/User-Interface-Help/item-property-filesystemobject-object.md)
+####### [Count](../Language/Reference/User-Interface-Help/count-property-dictionary-object.md)
+####### [Item](../Language/Reference/User-Interface-Help/item-property-dictionary-object.md)
 ####### [Key](../Language/Reference/User-Interface-Help/key-property.md)
 ##### [Drive object](../Language/Reference/User-Interface-Help/drive-object.md)
 ###### [Drives collection](../Language/Reference/User-Interface-Help/drives-collection.md)
@@ -35204,7 +35204,7 @@
 ###### [SubFolders property](../Language/Reference/User-Interface-Help/subfolders-property.md)
 ##### [TextStream object](../Language/Reference/User-Interface-Help/textstream-object.md)
 ###### Methods
-####### [Close](../Language/Reference/User-Interface-Help/close-method-filesystemobject-object.md)
+####### [Close](../Language/Reference/User-Interface-Help/close-method-textstream-object.md)
 ####### [Read](../Language/Reference/User-Interface-Help/read-method.md)
 ####### [ReadAll](../Language/Reference/User-Interface-Help/readall-method.md)
 ####### [ReadLine](../Language/Reference/User-Interface-Help/readline-method.md)

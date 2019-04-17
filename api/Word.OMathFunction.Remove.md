@@ -19,9 +19,9 @@ Removes a function from the collection of functions contained within an equation
 
 ## Syntax
 
-_expression_. `Remove`
+_expression_.**Remove**
 
- _expression_ An expression that returns a [OMathFunction](./Word.OMathFunction.md) object.
+_expression_ An expression that returns a [OMathFunction](./Word.OMathFunction.md) object.
 
 
 ## Return value

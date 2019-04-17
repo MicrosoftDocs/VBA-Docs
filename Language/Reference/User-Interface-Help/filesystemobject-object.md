@@ -21,7 +21,7 @@ Provides access to a computer's file system.
 
 ## Remarks
 
-The following code illustrates how the **FileSystemObject** is used to return a **[TextStream](textstream-object.md)** object that can be read from or written to:
+The following code illustrates how the **FileSystemObject** object is used to return a **[TextStream](textstream-object.md)** object that can be read from or written to:
 
 ```vb
 Set fs = CreateObject("Scripting.FileSystemObject")
@@ -35,14 +35,13 @@ In the example code:
 - The **[CreateObject](createobject-function.md)** function returns the **FileSystemObject** (`fs`). 
 - The **[CreateTextFile](createtextfile-method.md)** method creates the file as a **TextStream** object (`a`).
 - The **[WriteLine](writeline-method.md)** method writes a line of text to the created text file. 
-- The **[Close](close-method-filesystemobject-object.md)** method flushes the buffer and closes the file.
+- The **[Close](close-method-textstream-object.md)** method flushes the buffer and closes the file.
 
 ## Methods
 
 |Method|Description|
 |:-----|:----------|
 |[BuildPath](buildpath-method.md)|Appends a name to an existing path. |
-|[Close](close-method-filesystemobject-object.md)|Closes an open TextStream file. |
 |[CopyFile](copyfile-method.md)|Copies one or more files from one location to another. |
 |[CopyFolder](copyfolder-method.md)|Copies one or more folders from one location to another. |
 |[CreateFolder](createfolder-method.md)|Creates a new folder. |
@@ -68,16 +67,13 @@ In the example code:
 |[MoveFolder](movefolder-method.md)|Moves one or more folders from one location to another. |
 |[OpenAsTextStream](openastextstream-method.md)|Opens a specified file and returns a TextStream object that can be used to read from, write to, or append to the file. |
 |[OpenTextFile](opentextfile-method.md)|Opens a file and returns a TextStream object that can be used to access the file. |
-|[Remove](remove-method-filesystemobject-object.md)|Removes a key, item pair from a Dictionary object. |
 |[WriteLine](writeline-method.md)|Writes a specified string and new-line character to a TextStream file. |
 
 ## Properties
 
 |Property|Description|
 |:-------|:----------|
-|[Count](count-property-filesystemobject-object.md)|Returns the number of items in a collection or Dictionary object. |
 |[Drives](drives-property.md)|Returns a collection of all Drive objects on the computer. |
-|[Item](item-property-filesystemobject-object.md)|Sets or returns an item for a specified key in a Dictionary object; for collections, returns an item based on the specified key. |
 |[Name](name-property-filesystemobject-object.md)|Sets or returns the name of a specified file or folder. |
 |[Path](path-property-filesystemobject-object.md)|Returns the path for a specified file, folder, or drive. |
 |[Size](size-property-filesystemobject-object.md)|For files, returns the size, in bytes, of the specified file; for folders, returns the size, in bytes, of all files and subfolders contained in the folder. |

@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Path property (FileSystemObject)
+# Path property 
 
 Returns the path for a specified file, folder, or drive.
 

@@ -18,7 +18,7 @@ Removes a member from a [collection](../../Glossary/vbe-glossary.md#collection) 
 
 ## Syntax
 
-_object_. **Remove(**_collectionindex_**)**
+_object_.**Remove** (_collectionindex_)
 
 The **Remove** method syntax has these parts:
 

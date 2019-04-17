@@ -19,9 +19,9 @@ Removes an equation from the collection of equations in a document, range, or se
 
 ## Syntax
 
-_expression_. `Remove`
+_expression_.**Remove**
 
- _expression_ An expression that returns a [OMath](./Word.OMath.md) object.
+_expression_ An expression that returns a [OMath](./Word.OMath.md) object.
 
 
 ## See also

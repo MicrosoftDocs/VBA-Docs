@@ -16,7 +16,7 @@ Removes a [member](../../Glossary/vbe-glossary.md#member) from a **[Collection](
 
 ## Syntax
 
-_object_.**Remove** _index_
+_object_.**Remove** (_index_)
 
 The **Remove** method syntax has the following object qualifier and part:
 
@@ -31,8 +31,7 @@ If the value provided as _index_ doesn't match an existing member of the collect
 
 ## Example
 
-This example illustrates the use of the **Remove** method to remove objects from a **Collection** object, `MyClasses`. This code removes the object whose index is 1 on each iteration of the loop.
-
+This example illustrates the use of the **Remove** method to remove objects from a **Collection** object, _MyClasses_. This code removes the object whose index is 1 on each iteration of the loop.
 
 ```vb
 Dim Num, MyClasses

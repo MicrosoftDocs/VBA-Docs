@@ -1,16 +1,16 @@
 ---
-title: Item property (FileSystemObject object)
+title: Item property (Dictionary object)
 keywords: vblr6.chm2181946
 f1_keywords:
 - vblr6.chm2181946
 ms.prod: office
 ms.assetid: 3f3080fa-29bf-6bf1-bd6e-6b804c01a589
-ms.date: 12/19/2018
+ms.date: 04/18/2019
 localization_priority: Normal
 ---
 
 
-# Item property (FileSystemObject)
+# Item property
 
 Sets or returns an _item_ for a specified _key_ in a **[Dictionary](dictionary-object.md)** object. For collections, returns an _item_ based on the specified _key_. Read/write.
 
