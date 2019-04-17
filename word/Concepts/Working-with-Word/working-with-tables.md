@@ -30,8 +30,8 @@ Sub CreateNewTable()
  intCount = 1 
  
  For Each celTable In tblNew.Range.Cells 
- celTable.Range.InsertAfter "Cell " & intCount 
- intCount = intCount + 1 
+  celTable.Range.InsertAfter "Cell " & intCount 
+  intCount = intCount + 1 
  Next celTable 
  
  tblNew.AutoFormat Format:=wdTableFormatColorful2, _ 
@@ -42,16 +42,16 @@ End Sub
 
 ## Inserting text into a table cell
 
-The following example inserts text into the first cell of the first table in the active document. The **[Cell](../../../api/Word.Table.Cell.md)** method returns a single **Cell** object. The **Range**property returns a **Range** object. The **[Delete](../../../api/Word.Range.Delete.md)** method is used to delete the existing text and the **InsertAfter**method inserts the "Cell 1,1" text.
+The following example inserts text into the first cell of the first table in the active document. The **[Cell](../../../api/Word.Table.Cell.md)** method returns a single **Cell** object. The **Range** property returns a **Range** object. The **[Delete](../../../api/Word.Range.Delete.md)** method is used to delete the existing text and the **InsertAfter** method inserts the "Cell 1,1" text.
 
 
 ```vb
 Sub InsertTextInCell() 
  If ActiveDocument.Tables.Count >= 1 Then 
- With ActiveDocument.Tables(1).Cell(Row:=1, Column:=1).Range 
- .Delete 
- .InsertAfter Text:="Cell 1,1" 
- End With 
+  With ActiveDocument.Tables(1).Cell(Row:=1, Column:=1).Range 
+   .Delete 
+   .InsertAfter Text:="Cell 1,1" 
+  End With 
  End If 
 End Sub
 ```
@@ -70,9 +70,9 @@ Sub ReturnTableText()
  
  Set tblOne = ActiveDocument.Tables(1) 
  For Each celTable In tblOne.Rows(1).Cells 
- Set rngTable = ActiveDocument.Range(Start:=celTable.Range.Start, _ 
- End:=celTable.Range.End - 1) 
- MsgBox rngTable.Text 
+  Set rngTable = ActiveDocument.Range(Start:=celTable.Range.Start, _ 
+  End:=celTable.Range.End - 1) 
+  MsgBox rngTable.Text 
  Next celTable 
 End Sub
 ```
@@ -86,9 +86,9 @@ Sub ReturnCellText()
  
  Set tblOne = ActiveDocument.Tables(1) 
  For Each celTable In tblOne.Rows(1).Cells 
- Set rngTable = celTable.Range 
- rngTable.MoveEnd Unit:=wdCharacter, Count:=-1 
- MsgBox rngTable.Text 
+  Set rngTable = celTable.Range 
+  rngTable.MoveEnd Unit:=wdCharacter, Count:=-1 
+  MsgBox rngTable.Text 
  Next celTable 
 End Sub
 ```
@@ -102,8 +102,8 @@ The following example inserts tab-delimited text at the beginning of the active 
 ```vb
 Sub ConvertExistingText() 
  With Documents.Add.Content 
- .InsertBefore "one" & vbTab & "two" & vbTab & "three" & vbCr 
- .ConvertToTable Separator:=Chr(9), NumRows:=1, NumColumns:=3 
+  .InsertBefore "one" & vbTab & "two" & vbTab & "three" & vbCr 
+  .ConvertToTable Separator:=Chr(9), NumRows:=1, NumColumns:=3 
  End With 
 End Sub
 ```
@@ -123,17 +123,17 @@ Sub ReturnCellContentsToArray()
  Dim rngText As Range 
  
  If ActiveDocument.Tables.Count >= 1 Then 
- With ActiveDocument.Tables(1).Range 
- intCells = .Cells.Count 
- ReDim strCells(intCells) 
- intCount = 1 
- For Each celTable In .Cells 
- Set rngText = celTable.Range 
- rngText.MoveEnd Unit:=wdCharacter, Count:=-1 
- strCells(intCount) = rngText 
- intCount = intCount + 1 
- Next celTable 
- End With 
+  With ActiveDocument.Tables(1).Range 
+   intCells = .Cells.Count 
+   ReDim strCells(intCells) 
+   intCount = 1 
+   For Each celTable In .Cells 
+    Set rngText = celTable.Range 
+    rngText.MoveEnd Unit:=wdCharacter, Count:=-1 
+    strCells(intCount) = rngText 
+    intCount = intCount + 1 
+   Next celTable 
+  End With 
  End If 
 End Sub
 ```
@@ -151,17 +151,17 @@ Sub CopyTablesToNewDoc()
  Dim tblDoc As Table 
  
  If ActiveDocument.Tables.Count >= 1 Then 
- Set docOld = ActiveDocument 
- Set rngDoc = Documents.Add.Range(Start:=0, End:=0) 
- For Each tblDoc In docOld.Tables 
- tblDoc.Range.Copy 
- With rngDoc 
- .Paste 
- .Collapse Direction:=wdCollapseEnd 
- .InsertParagraphAfter 
- .Collapse Direction:=wdCollapseEnd 
- End With 
- Next 
+  Set docOld = ActiveDocument 
+  Set rngDoc = Documents.Add.Range(Start:=0, End:=0) 
+  For Each tblDoc In docOld.Tables 
+   tblDoc.Range.Copy 
+   With rngDoc 
+    .Paste 
+    .Collapse Direction:=wdCollapseEnd 
+    .InsertParagraphAfter 
+    .Collapse Direction:=wdCollapseEnd 
+   End With 
+  Next 
  End If 
 End Sub
 ```
