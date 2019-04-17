@@ -19,7 +19,7 @@ Returns a **String** value that represents the range reference in the language o
 
 ## Syntax
 
-_expression_. `Address`( _RowAbsolute_, _ColumnAbsolute_, _ReferenceStyle_, _External_, _RelativeTo_ )
+_expression_.**Address** (_RowAbsolute_, _ColumnAbsolute_, _ReferenceStyle_, _External_, _RelativeTo_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
