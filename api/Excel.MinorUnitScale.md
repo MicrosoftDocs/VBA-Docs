@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MinorUnitScale property (Excel Graph)
 
-Returns or sets the minor unit scale value for the category axis when the **CategoryType** property is set to **[xlTimeScale](excel.xlcategorytype.md)**. Read/write **[XlTimeUnit](excel.xltimeunit.md)**.
+Returns or sets the minor unit scale value for the category axis when the **[CategoryType](excel.categorytype.md)** property is set to **xlTimeScale** (**[XlCategoryType](excel.xlcategorytype.md)**). Read/write **[XlTimeUnit](excel.xltimeunit.md)**.
 
 ## Syntax
 

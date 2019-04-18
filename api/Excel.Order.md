@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Order property (Excel Graph)
 
-Returns or sets the trendline order (an integer greater than 1) when the trendline type is **[xlPolynomial](excel.xltrendlinetype.md)**. Read/write **Long**.
+Returns or sets the trendline order (an integer greater than 1) when the trendline type is **xlPolynomial** (**[XlTrendlineType](excel.xltrendlinetype.md)** enumeration). Read/write **Long**.
 
 ## Syntax
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Find
 ms.assetid: d9585265-8164-cb4d-a9e3-262f6e06b6b8
-ms.date: 06/08/2017
+ms.date: 04/19/2019
 localization_priority: Priority
 ---
 
@@ -18,7 +18,7 @@ Finds specific information in a range.
 
 ## Syntax
 
-_expression_. `Find`( _What_, _After_, _LookIn_, _LookAt_, _SearchOrder_, _SearchDirection_, _MatchCase_, _MatchByte_, _SearchFormat_ )
+_expression_.**Find** (_What_, _After_, _LookIn_, _LookAt_, _SearchOrder_, _SearchDirection_, _MatchCase_, _MatchByte_, _SearchFormat_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
@@ -28,38 +28,40 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **Variant**|The data to search for. Can be a string or any Microsoft Excel data type.|
-| _After_|Optional| **Variant**|The cell after which you want the search to begin. This corresponds to the position of the active cell when a search is done from the user interface. Notice that _After_ must be a single cell in the range. Remember that the search begins after this cell; the specified cell isn't searched until the method wraps back around to this cell. If you do not specify this argument, the search starts after the cell in the upper-left corner of the range.|
-| _LookIn_|Optional| **Variant**|Can be one of the following **xlFindLookIn** constants: **xlFormulas**, **xlValues**, or **xlNotes**.|
-| _LookAt_|Optional| **Variant**|Can be one of the following **xlLookAt** constants: **xlWhole** or **xlPart**.|
-| _SearchOrder_|Optional| **Variant**|Can be one of the following **xlSearchOrder** constants: **xlByRows** or **xlByColumns**.|
-| _SearchDirection_|Optional|[xlSearchDirection](Excel.xlSearchDirection.md)|The search direction.|
+| _After_|Optional| **Variant**|The cell after which you want the search to begin. This corresponds to the position of the active cell when a search is done from the user interface.<br/><br/>Notice that _After_ must be a single cell in the range. Remember that the search begins after this cell; the specified cell isn't searched until the method wraps back around to this cell.<br/><br/>If you do not specify this argument, the search starts after the cell in the upper-left corner of the range.|
+| _LookIn_|Optional| **Variant**|Can be one of the following **[XlFindLookIn](excel.xlfindlookin.md)** constants: **xlFormulas**, **xlValues**, or **xlComments**.|
+| _LookAt_|Optional| **Variant**|Can be one of the following **[XlLookAt](excel.xllookat.md)** constants: **xlWhole** or **xlPart**.|
+| _SearchOrder_|Optional| **Variant**|Can be one of the following **[XlSearchOrder](excel.xlsearchorder.md)** constants: **xlByRows** or **xlByColumns**.|
+| _SearchDirection_|Optional| **[XlSearchDirection](Excel.xlSearchDirection.md)** |The search direction.|
 | _MatchCase_|Optional| **Variant**| **True** to make the search case-sensitive. The default value is **False**.|
 | _MatchByte_|Optional| **Variant**|Used only if you have selected or installed double-byte language support. **True** to have double-byte characters match only double-byte characters. **False** to have double-byte characters match their single-byte equivalents.|
 | _SearchFormat_|Optional| **Variant**|The search format.|
 
 ## Return value
 
-A [Range](Excel.Range(object).md) object that represents the first cell where that information is found.
+A **Range** object that represents the first cell where that information is found.
 
 
 ## Remarks
 
 This method returns **Nothing** if no match is found. The **Find** method does not affect the selection or the active cell.
 
-The settings for _LookIn_,  _LookAt_,  _SearchOrder_, and  _MatchByte_ are saved each time you use this method. If you do not specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
+The settings for _LookIn_,  _LookAt_,  _SearchOrder_, and _MatchByte_ are saved each time you use this method. If you do not specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
 
-You can use the [FindNext](Excel.Range.FindNext.md) and [FindPrevious](Excel.Range.FindPrevious.md) methods to repeat the search.
+You can use the **[FindNext](Excel.Range.FindNext.md)** and **[FindPrevious](Excel.Range.FindPrevious.md)** methods to repeat the search.
 
 When the search reaches the end of the specified search range, it wraps around to the beginning of the range. To stop a search when this wraparound occurs, save the address of the first found cell, and then test each successive found-cell address against this saved address.
 
-To find cells that match more complicated patterns, use a `For Each...Next` statement with the **Like** operator. For example, the following code searches for all cells in the range A1:C5 that use a font whose name starts with the letters Cour. When Microsoft Excel finds a match, it changes the font to Times New Roman.
+To find cells that match more complicated patterns, use a **For Each...Next** statement with the **Like** operator. For example, the following code searches for all cells in the range A1:C5 that use a font whose name starts with the letters Cour. When Microsoft Excel finds a match, it changes the font to Times New Roman.
 
-`For Each c In [A1:C5] If c.Font.Name Like "Cour*" Then c.Font.Name = "Times New Roman" End If Next`
+```vb
+For Each c In [A1:C5] If c.Font.Name Like "Cour*" Then c.Font.Name = "Times New Roman" End If Next`
+
+```
 
 ## Example
 
 This example finds all cells in the range A1:A500 on worksheet one that contain the value 2, and changes it to 5.
-
 
 ```vb
 With Worksheets(1).Range("a1:a500") 
@@ -157,8 +159,5 @@ End Sub
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. -->
 
 
-## See also
-
-- [Range object](Excel.Range(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
