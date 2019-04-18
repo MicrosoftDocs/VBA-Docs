@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TableObject.RefreshStyle property (Excel)
 
-Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a record set returned by a query. Read/write **[XlCellInsertionMode](Excel.xlCellInsertionMode.md)** enumeration.
+Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a record set returned by a query. Read/write **[XlCellInsertionMode](Excel.XlCellInsertionMode.md)** enumeration.
 
 
 ## Syntax
