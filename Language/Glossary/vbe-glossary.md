@@ -177,7 +177,9 @@ Text added to code that explains how the code works. In Visual Basic, a comment 
 
 ## comparison operator
 
-A symbol or word indicating a relationship between two or more values or expressions. These operators include less than (**&lt;**), less than or equal to (**&lt; =**), greater than (**&gt;**), greater than or equal to (**> =**), not equal (**&lt;&gt;**), and equal (**=**). Additional comparison operators include **Is** and **Like**. Note that **Is** and **Like** can't be used as comparison operators in a **Select Case** statement.
+Symbol(s) or a word indicating a relationship between two or more values or expressions. These operators include less than (**&lt;**), less than or equal to (**&lt;=**), greater than (**&gt;**), greater than or equal to (**>=**), not equal (**&lt;&gt;**), and equal (**=**). Additional comparison operators include **Is** and **Like**. Note that **Is** and **Like** can't be used as comparison operators in a **Select Case** statement.
+
+See also [Comparison operators](../reference/user-interface-help/comparison-operators.md).
 
 
 ## compiler directive

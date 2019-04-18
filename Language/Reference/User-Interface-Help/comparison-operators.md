@@ -39,9 +39,9 @@ The following table contains a list of the comparison operators and the conditio
 |Operator|True if|False if|Null if|
 |:-----|:-----|:-----|:-----|
 |`<` (Less than)| _expression1_ < _expression2_| _expression1_ >= _expression2_| _expression1_ or _expression2_ = **Null**|
-|`< =` (Less than or equal to)| _expression1_ <= _expression2_| _expression1_ > _expression2_| _expression1_ or _expression2_ = **Null**|
+|`<=` (Less than or equal to)| _expression1_ <= _expression2_| _expression1_ > _expression2_| _expression1_ or _expression2_ = **Null**|
 |`>` (Greater than)| _expression1_ > _expression2_| _expression1_ <= _expression2_| _expression1_ or _expression2_ = **Null**|
-|`> =` (Greater than or equal to)| _expression1_ >= _expression2_| _expression1_ < _expression2_| _expression1_ or _expression2_ = **Null**|
+|`>=` (Greater than or equal to)| _expression1_ >= _expression2_| _expression1_ < _expression2_| _expression1_ or _expression2_ = **Null**|
 |`=` (Equal to)| _expression1_ = _expression2_| _expression1_ <> _expression2_| _expression1_ or _expression2_ = **Null**|
 |`<>` (Not equal to)| _expression1_ <> _expression2_| _expression1_ = _expression2_| _expression1_ or _expression2_ = **Null**|
 
