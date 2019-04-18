@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Name property (FileSystemObject)
+# Name property
 
 Sets or returns the name of a specified file or folder. Read/write.
 

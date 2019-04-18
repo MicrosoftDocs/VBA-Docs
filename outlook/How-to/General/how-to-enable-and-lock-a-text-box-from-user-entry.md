@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Enable and Lock a Text Box from User Entry
+# Enable and Lock a Text Box from User Entry
 
 The following example demonstrates the  **[Enabled](../../../api/Outlook.textbox.enabled.md)** and **[Locked](../../../api/Outlook.textbox.locked.md)** properties and how they complement each other. This example exposes each property independently with a **[CheckBox](../../../api/Outlook.checkbox.md)**, so you observe the settings individually and combined. This example also includes a second  **[TextBox](../../../api/Outlook.textbox.md)** so you can copy and paste information between the **TextBox** controls and verify the activities supported by the settings of these properties.
 

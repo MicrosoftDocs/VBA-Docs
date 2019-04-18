@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Set the Item at the Top of a List and the Item that Has Focus in the List
+# Set the Item at the Top of a List and the Item that Has Focus in the List
 
 The following example identifies the top item displayed in a  **[ListBox](../../../api/Outlook.listbox.md)** and the item that has the focus within the **ListBox**. This example uses the  **[TopIndex](../../../api/Outlook.listbox.topindex.md)** property to identify the item displayed at the top of the **ListBox** and the **[ListIndex](../../../api/Outlook.listbox.listindex.md)** property to identify the item that has the focus. The user selects an item in the **ListBox**. The displayed values of  **TopIndex** and **ListIndex** are updated when the user selects an item or when the user clicks the **[CommandButton](../../../api/Outlook.commandbutton.md)**.
 

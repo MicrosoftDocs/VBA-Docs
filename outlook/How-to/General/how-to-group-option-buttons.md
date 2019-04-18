@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Group Option Buttons
+# Group Option Buttons
 
 The following example uses the  **[GroupName](../../../api/Outlook.optionbutton.groupname.md)** property to create two groups of **[OptionButton](../../../api/Outlook.optionbutton.md)** controls on the same form.
 

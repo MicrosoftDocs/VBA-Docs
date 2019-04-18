@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Display the Number of Pages and Tabs in MultiPage and TabStrip Controls on a Form
+# Display the Number of Pages and Tabs in MultiPage and TabStrip Controls on a Form
 
 The following example displays the  **Count** property of the Microsoft Forms 2.0 **Controls**collection for the form, and the  **Count** property identifying the number of pages and tabs of each **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**.
 

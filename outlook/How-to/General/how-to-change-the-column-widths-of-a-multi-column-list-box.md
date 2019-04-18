@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Change the Column Widths of a Multi-Column List Box
+# Change the Column Widths of a Multi-Column List Box
 
 The following example uses the  **[ColumnWidths](../../../api/Outlook.listbox.columnwidths.md)** property to change the column widths of a multicolumn **[ListBox](../../../api/Outlook.listbox.md)**. The example uses three  **[TextBox](../../../api/Outlook.textbox.md)** controls to specify the individual column widths and uses the **[Click](../../../api/Outlook.commandbutton.click.md)** event to specify the units of measure of each **TextBox**.
 

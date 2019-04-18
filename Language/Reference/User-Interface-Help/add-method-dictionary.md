@@ -1,5 +1,5 @@
 ---
-title: Add method (Dictionary)
+title: Add method (Dictionary object)
 keywords: vblr6.chm2181948
 f1_keywords:
 - vblr6.chm2181948
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Add method (Dictionary)
+# Add method
 
 Adds a key and item pair to a **[Dictionary](dictionary-object.md)** object.
 

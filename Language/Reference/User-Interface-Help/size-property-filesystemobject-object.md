@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Size property (FileSystemObject)
+# Size property
 
 For files, returns the size, in bytes, of the specified file. For folders, returns the size, in bytes, of all files and subfolders contained in the folder.
 

@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Access a Page in a MultiPage Control
+# Access a Page in a MultiPage Control
 
 The following example accesses an individual page of a  **[MultiPage](../../../api/Outlook.multipage.md)** in several ways:
 

@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Add a Control to a Page
+# Add a Control to a Page
 
 The following example uses the  **Add** method of the Microsoft Forms 2.0 **Controls** collection to add a control to a form at run time.
 

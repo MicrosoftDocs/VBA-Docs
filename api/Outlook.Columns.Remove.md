@@ -19,7 +19,7 @@ Removes the  **[Column](Outlook.Column.md)** object specified by _Index_ and res
 
 ## Syntax
 
-_expression_. `Remove` (_Index_)
+_expression_.**Remove** (_Index_)
 
 _expression_ A variable that represents a '[Columns](Outlook.Columns.md)' object.
 

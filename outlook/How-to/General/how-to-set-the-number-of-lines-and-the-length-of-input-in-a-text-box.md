@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Set the Number of Lines and the Length of Input in a Text Box
+# Set the Number of Lines and the Length of Input in a Text Box
 
 The following example counts the characters and the number of lines of text in a  **[TextBox](../../../api/Outlook.textbox.md)** by using the **[LineCount](../../../api/Outlook.textbox.linecount.md)** and **[TextLength](../../../api/Outlook.textbox.textlength.md)** properties, and the **SetFocus** method. In this example, the user can type into a **TextBox**, and can retrieve current values of the  **LineCount** and **TextLength** properties.
 

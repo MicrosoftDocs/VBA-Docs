@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Type property (FileSystemObject)
+# Type property 
 
 Returns information about the type of a file or folder. For example, for files ending in .TXT, "Text Document" is returned.
 

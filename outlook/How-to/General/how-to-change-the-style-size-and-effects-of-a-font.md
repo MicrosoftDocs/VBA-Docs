@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Change the Style, Size, and Effects of a Font
+# Change the Style, Size, and Effects of a Font
 
 The following example demonstrates a  **[Font](../../../api/Outlook.font.md)** object and the **[Bold](../../../api/Outlook.font.bold.md)**,  **[Italic](../../../api/Outlook.font.italic.md)**,  **[Size](../../../api/Outlook.font.size.md)**,  **[Strikethrough](../../../api/Outlook.font.strikethrough.md)**,  **[Underline](../../../api/Outlook.font.underline.md)**, and  **[Weight](../../../api/Outlook.font.weight.md)** properties related to fonts. You can manipulate font properties of an object directly or by using an alias, as this example also shows.
 

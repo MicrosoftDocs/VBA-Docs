@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Reference the Parent Object of a Control
+# Reference the Parent Object of a Control
 
 The following example uses the Microsoft Forms 2.0  **Parent** property to refer to the control, form, or other object that contains a specific control or object.
 

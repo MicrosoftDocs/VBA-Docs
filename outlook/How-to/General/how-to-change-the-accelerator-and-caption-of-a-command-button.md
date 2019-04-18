@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Change the Accelerator and Caption of a Command Button
+# Change the Accelerator and Caption of a Command Button
 
 This example changes the  **[Accelerator](../../../api/Outlook.commandbutton.accelerator.md)** and **[Caption](../../../api/Outlook.commandbutton.caption.md)** properties of a **[CommandButton](../../../api/Outlook.commandbutton.md)** each time the user clicks the button by using the mouse or the accelerator key. The **[Click](../../../api/Outlook.commandbutton.click.md)** event contains the code to change the **Accelerator** and **Caption** properties.
 

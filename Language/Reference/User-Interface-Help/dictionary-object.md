@@ -43,7 +43,7 @@ d.Add "c", "Cairo"
 |[Exists](exists-method.md)|Returns a Boolean value that indicates whether a specified key exists in the **Dictionary** object. |
 |[Items](items-method.md)|Returns an array of all the items in a **Dictionary** object. |
 |[Keys](keys-method.md)|Returns an array of all the keys in a **Dictionary** object. |
-|[Remove](remove-method-filesystemobject-object.md)|Removes one specified key/item pair from the **Dictionary** object. |
+|[Remove](remove-method-dictionary-object.md)|Removes one specified key/item pair from the **Dictionary** object. |
 |[RemoveAll](removeall-method.md)|Removes all the key/item pairs in the **Dictionary** object. |
 
 
@@ -52,8 +52,8 @@ d.Add "c", "Cairo"
 |Property|Description|
 |:-------|:----------|
 |[CompareMode](comparemode-property.md)|Sets or returns the comparison mode for comparing keys in a **Dictionary** object. |
-|[Count](count-property-filesystemobject-object.md)|Returns the number of key/item pairs in a **Dictionary** object. |
-|[Item](item-property-filesystemobject-object.md)|Sets or returns the value of an item in a **Dictionary** object. |
+|[Count](count-property-dictionary-object.md)|Returns the number of key/item pairs in a **Dictionary** object. |
+|[Item](item-property-dictionary-object.md)|Sets or returns the value of an item in a **Dictionary** object. |
 |[Key](key-property.md)|Sets a new key value for an existing key value in a **Dictionary** object. |
 
 ## See also

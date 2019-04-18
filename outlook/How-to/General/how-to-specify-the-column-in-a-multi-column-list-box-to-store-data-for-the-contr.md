@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Specify the Column in a Multi-Column List Box to Store Data for the Control
+# Specify the Column in a Multi-Column List Box to Store Data for the Control
 
 The following example demonstrates how the  **[BoundColumn](../../../api/Outlook.listbox.boundcolumn.md)** property influences the value of a **[ListBox](../../../api/Outlook.listbox.md)**. The user can choose to set the value of the  **ListBox** to the index value of the specified row, or to a specified column of data in the **ListBox**.
 

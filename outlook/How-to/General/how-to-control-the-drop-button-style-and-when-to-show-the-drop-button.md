@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Control the Drop Button Style and When to Show the Drop Button
+# Control the Drop Button Style and When to Show the Drop Button
 
 The following example demonstrates the different symbols that you can specify for a drop-down arrow in a  **[ComboBox](../../../api/Outlook.combobox.md)** or **[TextBox](../../../api/Outlook.textbox.md)**. In this example, the user chooses a drop-down arrow style from a  **ComboBox**. This example also uses the  ** [TextBox.Locked](../../../api/Outlook.OlkTextBox.Locked.md)** property. To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 

@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Change the Order of Pages and Tabs
+# Change the Order of Pages and Tabs
 
 The following example uses the  **Index** property to change the order of the pages and tabs in a **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. The user chooses CommandButton1 to move the third page and tab to the front of the  **MultiPage** and **TabStrip**. The user chooses CommandButton2 to move the selected page and tab to the back of the  **MultiPage** and **TabStrip**.
 

@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Set the Tab Order of Controls in a Frame
+# Set the Tab Order of Controls in a Frame
 
 The following example uses the  **TabIndex** property to display and set the tab order for individual controls. The **TabIndex** property is a Microsoft Forms 2.0 property that applies to every control that can exist in a **[Frame](../../../api/Outlook.frame.md)**. The user can press TAB to reach the next control in the tab order and to display the  **TabIndex** of that control. The user can also click on any control, except a **[TextBox](../../../api/Outlook.textbox.md)** or **[ScrollBar](../../../api/Outlook.scrollbar.md)**, to display its  **TabIndex**. The user can change the  **TabIndex** of a control by specifying a new index value in the **TextBox** and clicking CommandButton3. Changing the **TabIndex** for one control also updates the **TabIndex** for other controls in the **Frame**.
 

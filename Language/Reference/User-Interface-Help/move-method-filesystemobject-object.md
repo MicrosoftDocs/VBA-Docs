@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Move method (FileSystemObject)
+# Move method 
 
 Moves a specified file or folder from one location to another.
 

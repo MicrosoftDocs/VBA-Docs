@@ -2603,6 +2603,22 @@
           {
             "source_path": "api/overview/properties-graph-visual-basic-reference.md",
             "redirect_url": "/office/vba/api/overview/excel/graph-visual-basic-reference"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/remove-method-filesystemobject-object.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/remove-method-dictionary-object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/count-property-filesystemobject-object.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/count-property-dictionary-object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/item-property-filesystemobject-object.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/item-property-dictionary-object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/close-method-filesystemobject-object.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/close-method-textstream-object"
           }
     ]
 }

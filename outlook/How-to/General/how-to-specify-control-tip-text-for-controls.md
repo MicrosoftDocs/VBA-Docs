@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Specify Control Tip Text for Controls
+# Specify Control Tip Text for Controls
 
 The following example defines the  **[ControlTipText](../../../api/Outlook.page.controltiptext.md)** property for three **[CommandButton](../../../api/Outlook.commandbutton.md)** controls and two **[Page](../../../api/Outlook.page.md)** objects in a **[MultiPage](../../../api/Outlook.multipage.md)**.
 

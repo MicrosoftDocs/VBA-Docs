@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Control the Text Box' Behavior on Clicking Enter
+# Control the Text Box' Behavior on Clicking Enter
 
 The following example uses the  **[EnterKeyBehavior](../../../api/Outlook.textbox.enterkeybehavior.md)** property to control the effect of ENTER in a **[TextBox](../../../api/Outlook.textbox.md)**. In this example, the user can specify either a single-line or multiline  **TextBox**.
 

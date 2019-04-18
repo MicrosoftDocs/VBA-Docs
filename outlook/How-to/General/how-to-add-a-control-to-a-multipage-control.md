@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# How to: Add a Control to a MultiPage Control
+# Add a Control to a MultiPage Control
 
 The following example uses the  **Add**,  **Clear**, and  **Remove** methods of the Microsoft Forms 2.0 **Controls** collection to add a control to and remove a control from a **[Page](../../../api/Outlook.page.md)** of a **[MultiPage](../../../api/Outlook.multipage.md)** at run time.
 

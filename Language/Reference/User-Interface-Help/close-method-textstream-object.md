@@ -1,5 +1,5 @@
 ---
-title: Close method (FileSystemObject object)
+title: Close method (TextStream object)
 keywords: vblr6.chm2182075
 f1_keywords:
 - vblr6.chm2182075
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Close method (FileSystemObject object)
+# Close method
 
 Closes an open **[TextStream](textstream-object.md)** file.
 
