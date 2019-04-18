@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Chart.FullSeriesCollection method (Excel)
 
-Enables retrieving the filtered out series specified by the Index argument.
+Enables retrieving the filtered out series specified by the _Index_ argument.
 
 ## Syntax
 
@@ -25,7 +25,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional|VARIANT|The indexed number of the filtered out **Series** object.|
+| _Index_|Optional|**Variant** |The indexed number of the filtered out **[Series](excel.series(object).md)** object.|
 
 ## Return value
 
@@ -39,10 +39,8 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 > [!NOTE] 
 > You can also use the series name in quotes:
 >   
-> *expression*.FullSeriesCollection(*"series name in quotes"*)
+> _expression_.**FullSeriesCollection**(_"series name in quotes"_)
 
-## See also
 
-- [Chart object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

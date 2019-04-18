@@ -26,17 +26,12 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**|Specifies how the picture should be copied. The default value is  **xlScreen**.|
-| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|The format of the picture. The default value is  **xlPicture**.|
-| _Size_|Optional| **xlPictureAppearance**|The size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default value is  **xlPrinter**.|
-
-## See also
+| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**|Specifies how the picture should be copied. The default value is **xlScreen**.|
+| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|The format of the picture. The default value is **xlPicture**.|
+| _Size_|Optional| **XlPictureAppearance**|The size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default value is **xlPrinter**.|
 
 
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

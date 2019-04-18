@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.ChartType property (Excel)
 
-Returns or sets the chart type. Read/write  **[XlChartType](Excel.XlChartType.md)**.
+Returns or sets the chart type. Read/write **[XlChartType](Excel.XlChartType.md)**.
 
 
 ## Syntax
@@ -33,7 +33,6 @@ Some chart types aren't available for PivotChart reports.
 
 This example sets the bubble size in chart group one to 200% of the default size if the chart is a 2D bubble chart.
 
-
 ```vb
 With Worksheets(1).ChartObjects(1).Chart 
  If .ChartType = xlBubble Then 
@@ -43,9 +42,6 @@ End With
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

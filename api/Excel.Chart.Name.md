@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Name property (Excel)
 
-Returns or sets a  **String** value representing the name of the object.
+Returns or sets a **String** value representing the name of the object.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 This property is read-only for chart objects (embedded charts).
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

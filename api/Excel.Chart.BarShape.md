@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.BarShape property (Excel)
 
-Returns or sets the shape used with the 3D bar or column chart. Read/write  **[XlBarShape](Excel.XlBarShape.md)**.
+Returns or sets the shape used with the 3D bar or column chart. Read/write **[XlBarShape](Excel.XlBarShape.md)**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**BarShape**
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

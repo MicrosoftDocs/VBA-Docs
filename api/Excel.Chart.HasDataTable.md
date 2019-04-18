@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.HasDataTable property (Excel)
 
- **True** if the chart has a data table. Read/write **Boolean**.
+**True** if the chart has a data table. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 This example causes the embedded chart data table to be displayed with an outline border and no cell borders.
 
-
 ```vb
 With Worksheets(1).ChartObjects(1).Chart 
  .HasDataTable = True 
@@ -41,9 +40,6 @@ End With
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

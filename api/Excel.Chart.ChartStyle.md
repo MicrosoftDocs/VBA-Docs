@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.ChartStyle property (Excel)
 
-Returns or sets the chart style for the chart. Read/write  **Variant**.
+Returns or sets the chart style for the chart. Read/write **Variant**.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 You can use a number from 1 to 48 to set the chart style.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

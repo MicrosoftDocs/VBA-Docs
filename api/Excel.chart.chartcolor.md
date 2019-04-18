@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Chart.ChartColor property (Excel)
 
-Returns or sets an  **Integer** that represents the color scheme for the chart. Read-write.
+Returns or sets an **Integer** that represents the color scheme for the chart. Read-write.
 
 
 ## Syntax
@@ -24,12 +24,9 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Property value
 
- **VARIANT**
+**VARIANT**
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

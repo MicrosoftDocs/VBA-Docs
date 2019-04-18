@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the exported file.|
@@ -43,7 +41,6 @@ Boolean
 
 This example exports chart one as a GIF file.
 
-
 ```vb
 Worksheets("Sheet1").ChartObjects(1) _ 
 .Chart. Export _ 
@@ -51,9 +48,5 @@ Worksheets("Sheet1").ChartObjects(1) _
 ```
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

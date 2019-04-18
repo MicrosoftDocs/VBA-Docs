@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 This example automatically scales Chart1. The example should be run on a 3D chart.
 
-
 ```vb
 With Charts("Chart1") 
  .RightAngleAxes = True 
@@ -37,9 +36,5 @@ End With
 ```
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
