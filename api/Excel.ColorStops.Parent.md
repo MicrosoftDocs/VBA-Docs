@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ColorStops.Parent
 ms.assetid: 252d24f4-7508-a2fd-1e39-799af297581c
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
 
 # ColorStops.Parent property (Excel)
 
-Returns the parent object for the specified object. Read-only
+Returns the parent object for the specified object. Read-only.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ColorStops](Excel.ColorStops.md)** 
 Object
 
 
-## See also
 
-
-[ColorStops Object](Excel.ColorStops.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
