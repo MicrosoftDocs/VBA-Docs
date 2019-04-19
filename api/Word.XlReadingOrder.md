@@ -13,12 +13,14 @@ localization_priority: Normal
 
 Specifies the reading order for the specified object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlContext**|-5002|According to context.|
 | **xlLTR**|-5003|Left-to-right.|
 | **xlRTL**|-5004|Right-to-left.|
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

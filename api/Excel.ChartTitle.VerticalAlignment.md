@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ChartTitle.VerticalAlignment
 ms.assetid: 9d675a02-b84e-84e0-6ccf-adb47b876c12
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
 
 # ChartTitle.VerticalAlignment property (Excel)
 
-Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
+Returns or sets a **Variant** value that represents the vertical alignment of the specified object.
 
 
 ## Syntax
@@ -28,9 +28,6 @@ _expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object
 
 The value of this property can be set to one of the **[XlVAlign](excel.xlvalign.md)** constants.
 
-## See also
 
-
-[ChartTitle Object](Excel.ChartTitle(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

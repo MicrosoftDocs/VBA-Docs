@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ChartTitle.FormulaLocal
 ms.assetid: 0bfe5792-c647-86de-ce37-f2011bc89c31
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
 
 # ChartTitle.FormulaLocal property (Excel)
 
-Gets or sets a  **String** value that represents the formula of the object using A1-style notation, in the language of the user. Read/write.
+Gets or sets a **String** value that represents the formula of the object by using A1-style notation, in the language of the user. Read/write.
 
 
 ## Syntax
@@ -31,12 +31,9 @@ String
 
 ## Remarks
 
-For more information about A1-style notation, see [How to: Refer to Cells and Ranges by Using A1 Notation](../excel/Concepts/Cells-and-Ranges/refer-to-cells-and-ranges-by-using-a1-notation.md).
+For more information about A1-style notation, see [Refer to cells and ranges by using A1 notation](../excel/Concepts/Cells-and-Ranges/refer-to-cells-and-ranges-by-using-a1-notation.md).
 
 
-## See also
 
-
-[ChartTitle Object](Excel.ChartTitle(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

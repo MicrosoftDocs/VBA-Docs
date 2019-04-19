@@ -19,7 +19,7 @@ Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents
 
 ## Syntax
 
-_expression_. `Characters`( `_Start_` , `_Length_` )
+_expression_.**Characters** (_Start_, _Length_)
 
  _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 

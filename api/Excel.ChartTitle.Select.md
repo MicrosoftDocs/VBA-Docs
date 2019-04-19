@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartTitle.Select
 ms.assetid: 3ca37ca1-c874-cf06-dc4a-38df1879a5e2
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object
 Variant
 
 
-## See also
 
-
-[ChartTitle Object](Excel.ChartTitle(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
