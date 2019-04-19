@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `PrintObject`
+_expression_.**PrintObject**
 
 _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 

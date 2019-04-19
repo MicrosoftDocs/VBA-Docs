@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObjects.Duplicate
 ms.assetid: 085e07e1-7b08-befb-1351-b9de3df26ddc
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 

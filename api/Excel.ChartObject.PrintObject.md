@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # ChartObject.PrintObject property (Excel)
 
- **True** if the object will be printed when the document is printed. Read/write **Boolean**.
+**True** if the object will be printed when the document is printed. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `PrintObject`
+_expression_.**PrintObject**
 
 _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)*
 
 This example sets embedded chart one on Sheet1 to be printed with the worksheet.
 
-
 ```vb
 Worksheets("Sheet1").ChartObjects(1).PrintObject = True
 ```
 
 
-## See also
 
-
-[ChartObject Object](Excel.ChartObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

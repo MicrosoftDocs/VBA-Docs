@@ -37,7 +37,7 @@ _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) obj
 | _IconFileName_|Optional| **Variant**|A string that specifies the file that contains the icon to be displayed. This argument is used only if  _DisplayAsIcon_ is **True**. If this argument isn't specified or the file contains no icons, the default icon for the OLE class is used.|
 | _IconIndex_|Optional| **Variant**|The number of the icon in the icon file. This is used only if  _DisplayAsIcon_ is **True** and _IconFileName_ refers to a valid file that contains icons. If an icon with the given index number doesn't exist in the file specified by _IconFileName_, the first icon in the file is used.|
 | _IconLabel_|Optional| **Variant**|A string that specifies a label to display beneath the icon. This is used only if  _DisplayAsIcon_ is **True**. If this argument is omitted or is an empty string (""), no caption is displayed.|
-| _Left_|Optional| **Variant**|The initial coordinates of the new object, in points, relative to the upper-left corner of cell A1 on a worksheet, or to the upper-left corner of a chart.|
+| _Left_|Optional| **Variant**|The initial coordinates of the new object, in [points](../language/glossary/vbe-glossary.md#point), relative to the upper-left corner of cell A1 on a worksheet, or to the upper-left corner of a chart.|
 | _Width_|Optional| **Variant**|The initial width of the new object, in points.|
 | _Height_|Optional| **Variant**|The initial height of the new object, in points.|
 | _Top_|Optional| **Variant**|The initial coordinates of the new object in points, relative to the upper-left corner of cell A1 on a worksheet, or to the upper-left corner of a chart.|

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.Top property (Project)
-Gets or sets the vertical distance, in points, from the top of the report pane to the top edge of the shape. Read-write  **Single**.
+Gets or sets the vertical distance, in [points](../language/glossary/vbe-glossary.md#point), from the top of the report pane to the top edge of the shape. Read-write  **Single**.
 
 ## Syntax
 

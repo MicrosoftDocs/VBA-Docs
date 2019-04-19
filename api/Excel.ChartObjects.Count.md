@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObjects.Count
 ms.assetid: 28d3d9fd-cf58-8b95-3f14-c336bcee1bb5
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 

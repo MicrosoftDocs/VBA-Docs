@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LegendKey.Height property (Word)
 
-Returns the height, in points, of the object. Read-only  **Double**.
+Returns the height, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read-only  **Double**.
 
 
 ## Syntax

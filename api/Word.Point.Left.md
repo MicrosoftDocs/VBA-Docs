@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Point.Left property (Word)
 
-Returns a value that represents the distance, in points, from the left edge of the object to the left edge of the chart area. Read-only.
+Returns a value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the object to the left edge of the chart area. Read-only.
 
 
 ## Syntax

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObjects.ShapeRange
 ms.assetid: 4813fce5-ad3f-861c-d6dc-63fb617ed4da
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the spec
 
 ## Syntax
 
-_expression_. `ShapeRange`
+_expression_.**ShapeRange**
 
  _expression_ An expression that returns a **[ChartObjects](Excel.ChartObjects.md)** object.
 

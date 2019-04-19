@@ -14,29 +14,25 @@ localization_priority: Normal
 
 # ChartObject.ShapeRange property (Excel)
 
-Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the specified object or objects. Read-only.
+Returns a **[ShapeRange](Excel.ShapeRange.md)** object that represents the specified object or objects. Read-only.
 
 
 ## Syntax
 
-_expression_. `ShapeRange`
+_expression_.**ShapeRange**
 
- _expression_ An expression that returns a **[ChartObject](Excel.ChartObject.md)** object.
+_expression_ An expression that returns a **[ChartObject](Excel.ChartObject.md)** object.
 
 
 ## Example
 
 This example creates a shape range that represents the embedded charts on worksheet one.
 
-
 ```vb
 Set sr = Worksheets(1).ChartObjects.ShapeRange
 ```
 
 
-## See also
 
-
-[ChartObject Object](Excel.ChartObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

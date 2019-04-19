@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ReflectionFormat.Offset property (Publisher)
 
-Returns or sets the amount of separation, in points, of the reflected image from the shape. Read/write.
+Returns or sets the amount of separation, in [points](../language/glossary/vbe-glossary.md#point), of the reflected image from the shape. Read/write.
 
 
 ## Syntax

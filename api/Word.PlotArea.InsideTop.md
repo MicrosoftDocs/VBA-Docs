@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PlotArea.InsideTop property (Word)
 
-Returns or sets the distance, in points, from the chart edge to the inside top edge of the plot area. Read/write  **Double**.
+Returns or sets the distance, in [points](../language/glossary/vbe-glossary.md#point), from the chart edge to the inside top edge of the plot area. Read/write  **Double**.
 
 
 ## Syntax

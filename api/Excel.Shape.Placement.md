@@ -19,7 +19,7 @@ Returns or sets an  **[XlPlacement](Excel.XlPlacement.md)** value that represent
 
 ## Syntax
 
-_expression_. `Placement`
+_expression_.**Placement**
 
 _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 

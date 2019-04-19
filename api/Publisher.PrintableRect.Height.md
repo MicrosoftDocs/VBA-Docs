@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PrintableRect.Height property (Publisher)
 
-Returns a  **Single** that represents the height, in points, of the printable rectangle. Read-only.
+Returns a  **Single** that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the printable rectangle. Read-only.
 
 
 ## Syntax

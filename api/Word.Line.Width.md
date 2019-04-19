@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Line.Width property (Word)
 
-Returns or sets the width, in points, of a line. Read/write  **Long**.
+Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of a line. Read/write  **Long**.
 
 
 ## Syntax

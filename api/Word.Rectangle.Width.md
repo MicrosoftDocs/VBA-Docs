@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Rectangle.Width property (Word)
 
-Returns or sets a  **Long** that represents the width, in points, of a rectangle. Read/write **Long**.
+Returns or sets a  **Long** that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of a rectangle. Read/write **Long**.
 
 
 ## Syntax

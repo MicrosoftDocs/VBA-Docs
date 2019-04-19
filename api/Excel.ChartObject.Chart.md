@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartObject.Chart property (Excel)
 
-Returns a  **[Chart](Excel.Chart(object).md)** object that represents the chart contained in the object. Read-only.
+Returns a **[Chart](Excel.Chart(object).md)** object that represents the chart contained in the object. Read-only.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)*
 
 This example adds a title to the first embedded chart on Sheet1.
 
-
 ```vb
 With Worksheets("Sheet1").ChartObjects(1).Chart 
  .HasTitle = True 
@@ -37,9 +36,6 @@ End With
 ```
 
 
-## See also
 
-
-[ChartObject Object](Excel.ChartObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

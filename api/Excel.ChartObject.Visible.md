@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartObject.Visible property (Excel)
 
-Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
+Returns or sets a **Boolean** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Visible**
 _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 
 
-## See also
 
-
-[ChartObject Object](Excel.ChartObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

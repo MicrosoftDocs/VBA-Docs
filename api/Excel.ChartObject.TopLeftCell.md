@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # ChartObject.TopLeftCell property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the cell that lies under the upper-left corner of the specified object. Read-only.
+Returns a **[Range](Excel.Range(object).md)** object that represents the cell that lies under the upper-left corner of the specified object. Read-only.
 
 
 ## Syntax
 
-_expression_. `TopLeftCell`
+_expression_.**TopLeftCell**
 
 _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 
@@ -28,16 +28,11 @@ _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)*
 
 This example displays the address of the cell beneath the upper-left corner of embedded chart one on Sheet1.
 
-
 ```vb
 MsgBox "The top-left corner is over cell " & _ 
  Worksheets("Sheet1").ChartObjects(1).TopLeftCell.Address
 ```
 
 
-## See also
-
-
-[ChartObject Object](Excel.ChartObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

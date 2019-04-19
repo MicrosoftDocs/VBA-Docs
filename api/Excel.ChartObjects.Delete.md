@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObjects.Delete
 ms.assetid: a39fca6c-1b6a-5693-b554-37788ec193c7
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 

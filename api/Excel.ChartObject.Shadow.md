@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartObject.Shadow property (Excel)
 
-Returns or sets a  **Boolean** value that determines if the font is a shadow font or if the object has a shadow.
+Returns or sets a **Boolean** value that determines if the font is a shadow font or if the object has a shadow.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)*
 
 ## Remarks
 
-For the  **Font** object, this property has no effect in Microsoft Windows, but its value is retained (it can be set and returned).
+For the **Font** object, this property has no effect in Windows, but its value is retained (it can be set and returned).
 
 
-## See also
 
-
-[ChartObject Object](Excel.ChartObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

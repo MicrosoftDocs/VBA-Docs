@@ -29,8 +29,8 @@ _expression_. `AddTextEffect` _(PresetTextEffect,_ _Text,_ _FontName,_ _FontSize
 | _FontSize_|Required|**Single**|The size (in points) of the font used in the WordArt.|
 | _FontBold_|Required|**MsoTriState**|Use the  **msoTrue** constant to bold the font; otherwise, use **msoFalse**.|
 | _FontItalic_|Required|**MsoTriState**|Use the  **msoTrue** constant to italicize the font; otherwise, use **msoFalse**.|
-| _Left_|Required|**Single**|The position, in points, of the left edge of the WordArt shape relative to the left edge of the report.|
-| _Top_|Required|**Single**|The position, in points, of the top edge of the WordArt shape relative to the top edge of the report.|
+| _Left_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the WordArt shape relative to the left edge of the report.|
+| _Top_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the WordArt shape relative to the top edge of the report.|
 | _PresetTextEffect_|Required|MSOPRESETTEXTEFFECT||
 | _Text_|Required|**String**||
 | _FontName_|Required|**String**||

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Top property (Word)
 
-Returns or sets the vertical position, in points, of the specified protected view window. Read/write  **Long**
+Returns or sets the vertical position, in [points](../language/glossary/vbe-glossary.md#point), of the specified protected view window. Read/write  **Long**
 
 
 ## Syntax

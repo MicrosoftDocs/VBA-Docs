@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.BoundHeight property (Publisher)
 
-Returns a  **Single** indicating the height, in points, of the bounding box for the specified text range. Read-only.
+Returns a  **Single** indicating the height, in [points](../language/glossary/vbe-glossary.md#point), of the bounding box for the specified text range. Read-only.
 
 
 ## Syntax

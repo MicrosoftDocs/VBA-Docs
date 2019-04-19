@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Page.ScrollTop Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that specifies the distance, in points, of the top edge of the visible form from the top edge of the **[Page](Outlook.page.md)**. Read/write.
+Returns or sets a  **Single** that specifies the distance, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the visible form from the top edge of the **[Page](Outlook.page.md)**. Read/write.
 
 
 ## Syntax

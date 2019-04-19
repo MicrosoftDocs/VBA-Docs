@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Frame.ScrollLeft Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that specifies the distance, in points, of the left edge of the visible form from the left edge of the **[Frame](Outlook.frame.md)**. Read/write.
+Returns or sets a  **Single** that specifies the distance, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the visible form from the left edge of the **[Frame](Outlook.frame.md)**. Read/write.
 
 
 ## Syntax

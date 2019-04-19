@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Top property (Excel)
 
-Returns or sets a  **Single** value that represents the distance, in points, from the top edge of the topmost shape in the shape range to the top edge of the worksheet.
+Returns or sets a  **Single** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the topmost shape in the shape range to the top edge of the worksheet.
 
 
 ## Syntax

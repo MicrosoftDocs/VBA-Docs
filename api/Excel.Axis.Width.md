@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Axis.Width property (Excel)
 
-Returns a **Double** value that represents the width, in points, of the object.
+Returns a **Double** value that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the object.
 
 
 ## Syntax

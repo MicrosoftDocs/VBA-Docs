@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ShapeRange.Width property (Excel)
 
-Returns or sets a  **Single** value that represents the width, in points, of the object.
+Returns or sets a  **Single** value that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the object.
 
 
 ## Syntax

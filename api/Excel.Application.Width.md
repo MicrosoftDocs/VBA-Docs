@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Width property (Excel)
 
-Returns or sets a **Double** value that represents the distance, in points, from the left edge of the application window to its right edge.
+Returns or sets a **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the application window to its right edge.
 
 
 ## Syntax

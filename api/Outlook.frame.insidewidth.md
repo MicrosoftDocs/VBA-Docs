@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Frame.InsideWidth Property (Outlook Forms Script)
 
-Returns a  **Long** that specifies the width, in points, of the client region inside a **[Frame](Outlook.frame.md)**. Read-only.
+Returns a  **Long** that specifies the width, in [points](../language/glossary/vbe-glossary.md#point), of the client region inside a **[Frame](Outlook.frame.md)**. Read-only.
 
 
 ## Syntax

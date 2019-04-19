@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.BoundWidth property (PowerPoint)
 
-Gets the width, in points, of the text bounding box for the specified text. Read-only.
+Gets the width, in [points](../language/glossary/vbe-glossary.md#point), of the text bounding box for the specified text. Read-only.
 
 
 ## Syntax

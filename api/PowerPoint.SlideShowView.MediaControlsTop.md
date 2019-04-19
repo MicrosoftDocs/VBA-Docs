@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideShowView.MediaControlsTop property (PowerPoint)
 
-Returns the distance, in points, from the top edge of the media control bounding box to the top edge of the  **Slide** object. Read-only.
+Returns the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the media control bounding box to the top edge of the  **Slide** object. Read-only.
 
 
 ## Syntax

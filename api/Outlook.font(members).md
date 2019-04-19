@@ -20,7 +20,7 @@ Defines the characteristics of the text used by a control.
 |:-----|:-----|
 | [Bold](Outlook.Font.bold.md)|Returns or sets a  **Boolean** that specifies whether text is normal or bold. Read/write.|
 | [Italic](Outlook.Font.italic.md)|Returns or sets a  **Boolean** that specifies whether text is normal or italic. Read/write.|
-| [Size](Outlook.Font.size.md)|Returns or sets a  **Currency** that indicates the height, in points, of displayed text. Read/write.|
+| [Size](Outlook.Font.size.md)|Returns or sets a  **Currency** that indicates the height, in [points](../language/glossary/vbe-glossary.md#point), of displayed text. Read/write.|
 | [Strikethrough](Outlook.Font.strikethrough.md)|Returns or sets a  **Boolean** that specifies whether the text appears with strikethrough marks. Read/write.|
 | [Underline](Outlook.Font.underline.md)|Returns or sets a  **Boolean** that specifies whether text is underlined. Read/write.|
 | [Weight](Outlook.Font.weight.md)|Returns or sets an  **Integer** that specifies the darkness of the type. Read/write.|

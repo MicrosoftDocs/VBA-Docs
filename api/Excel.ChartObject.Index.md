@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartObject.Index property (Excel)
 
-Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
+Returns a **Long** value that represents the index number of the object within the collection of similar objects.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Index**
 _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 
 
-## See also
 
-
-[ChartObject Object](Excel.ChartObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

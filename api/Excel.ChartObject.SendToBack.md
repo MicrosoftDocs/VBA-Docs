@@ -33,15 +33,10 @@ Variant
 
 This example sends embedded chart one on Sheet1 to the back of the z-order.
 
-
 ```vb
 Worksheets("Sheet1").ChartObjects(1).SendToBack
 ```
 
 
-## See also
-
-
-[ChartObject Object](Excel.ChartObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

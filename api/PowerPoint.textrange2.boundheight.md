@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # TextRange2.BoundHeight property (PowerPoint)
 
-Gets the height, in points, of the text bounding box for the specified text. Read-only.
+Gets the height, in [points](../language/glossary/vbe-glossary.md#point), of the text bounding box for the specified text. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartTitle.Width property (Excel)
 
-Returns the width, in points, of the object. Read-only.
+Returns the width, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read-only.
 
 
 ## Syntax

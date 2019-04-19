@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # View.MediaControlsHeight property (PowerPoint)
 
-Returns the height, in points, of the media controls. Read-only.
+Returns the height, in [points](../language/glossary/vbe-glossary.md#point), of the media controls. Read-only.
 
 
 ## Syntax

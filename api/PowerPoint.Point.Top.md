@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Point.Top property (PowerPoint)
 
-Returns a value that represents the distance, in points, from the top edge of the object to the top edge of the chart area. Read-only.
+Returns a value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the object to the top edge of the chart area. Read-only.
 
 
 ## Syntax

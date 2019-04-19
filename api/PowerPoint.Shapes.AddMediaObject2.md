@@ -33,10 +33,10 @@ _expression_. `AddMediaObject2`( `_FileName_`, `_LinkToFile_`, `_SaveWithDocumen
 | _FileName_|Required|**String**|The name of the file to be added.|
 | _LinkToFile_|Optional|**[MSOTRISTATE]**|Indicates whether to link to the file.|
 | _SaveWithDocument_|Optional|**[MSOTRISTATE]**|Indicates whether to save the media with the document.|
-| _Left_|Optional|**Single**|The distance, in points, from the left edge of the slide to the left edge of the media object.|
-| _Top_|Optional|**Single**|The distance, in points, from the top edge of the slide to the top edge of the media object.|
-| _Width_|Optional|**Single**|The width, in points, of the media object. Default value is -1.|
-| _Height_|Optional|**Single**|The height, in points, of the media object. Default value is -1.|
+| _Left_|Optional|**Single**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the slide to the left edge of the media object.|
+| _Top_|Optional|**Single**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the slide to the top edge of the media object.|
+| _Width_|Optional|**Single**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the media object. Default value is -1.|
+| _Height_|Optional|**Single**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the media object. Default value is -1.|
 
 ## Return value
 

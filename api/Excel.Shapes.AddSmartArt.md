@@ -31,10 +31,10 @@ _expression_ A variable that represents a '[Shapes](Excel.Shapes.md)' collection
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required| **[SmartArtLayout](Office.SmartArtLayout.md)**|An object that represents the layout to use.|
-| _Left_|Optional| **Variant**|The distance, in points, from the left edge of the object to the left edge of column A (on a worksheet) or the left edge of the chart area (on a chart).|
-| _Top_|Optional| **Variant**|The distance, in points, from the top edge of the object to the top edge of the worksheet.|
-| _Width_|Optional| **Variant**|The width, in points, of the object.|
-| _Height_|Optional| **Variant**|The width, in points, of the object.|
+| _Left_|Optional| **Variant**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the object to the left edge of column A (on a worksheet) or the left edge of the chart area (on a chart).|
+| _Top_|Optional| **Variant**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the object to the top edge of the worksheet.|
+| _Width_|Optional| **Variant**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the object.|
+| _Height_|Optional| **Variant**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the object.|
 
 ## Return value
 

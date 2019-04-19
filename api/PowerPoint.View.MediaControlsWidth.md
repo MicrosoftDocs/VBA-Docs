@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # View.MediaControlsWidth property (PowerPoint)
 
-Returns the width, in points, of the media control bounding box. Read-only.
+Returns the width, in [points](../language/glossary/vbe-glossary.md#point), of the media control bounding box. Read-only.
 
 
 ## Syntax

@@ -31,8 +31,8 @@ _expression_. `AddSmartArt`( `_Layout_`, `_Left_`, `_Top_`, `_Width_`, `_Height_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required|**[SMARTARTLAYOUT]**|The SmartArt diagram to add.|
-| _Left_|Optional|**Single**|The distance, in points, from the left edge of the slide to the left edge of the SmartArt diagram.|
-| _Top_|Optional|**Single**|The distance, in points, from the top edge of the slide to the top edge of the SmartArt diagram.|
+| _Left_|Optional|**Single**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the slide to the left edge of the SmartArt diagram.|
+| _Top_|Optional|**Single**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the slide to the top edge of the SmartArt diagram.|
 | _Width_|Optional|**Single**|The width of the SmartArt diagram.|
 | _Height_|Optional|**Single**|The height of the SmartArt diagram.|
 

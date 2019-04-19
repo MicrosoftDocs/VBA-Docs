@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObjects.PrintObject
 ms.assetid: 310a4571-e5e4-14c8-56a0-6d70a59f4588
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `PrintObject`
+_expression_.**PrintObject**
 
 _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md)** object.
 

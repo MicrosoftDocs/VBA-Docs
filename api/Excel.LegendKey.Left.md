@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LegendKey.Left property (Excel)
 
-Returns a  **Double** value that represents the distance, in points, from the left edge of the object to the left edge of the chart area.
+Returns a  **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the object to the left edge of the chart area.
 
 
 ## Syntax

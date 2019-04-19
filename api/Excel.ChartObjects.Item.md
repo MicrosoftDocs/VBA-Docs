@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObjects.Item
 ms.assetid: 0dbc6680-73ee-73a8-c3d8-f05faf6dd596
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.Height property (Excel)
 
-Returns a **Double** value that represents the height, in points, of the range. Read-only.
+Returns a **Double** value that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the range. Read-only.
 
 ## Syntax
 

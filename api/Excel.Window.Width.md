@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Width property (Excel)
 
-Returns or sets a  **Double** value that represents the width, in points, of the window.
+Returns or sets a  **Double** value that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the window.
 
 
 ## Syntax

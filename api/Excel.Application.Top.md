@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Top property (Excel)
 
-Returns or sets a **Double** value that represents the distance, in points, from the top edge of the screen to the top edge of the main Microsoft Excel window.
+Returns or sets a **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the screen to the top edge of the main Microsoft Excel window.
 
 
 ## Syntax

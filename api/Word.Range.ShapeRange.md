@@ -19,7 +19,7 @@ Returns a  **[ShapeRange](Word.shapeRange.md)** collection that represents all t
 
 ## Syntax
 
-_expression_. `ShapeRange`
+_expression_.**ShapeRange**
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

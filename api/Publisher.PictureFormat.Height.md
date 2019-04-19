@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PictureFormat.Height property (Publisher)
 
-Returns a  **Variant** that represents the height, in points, of the specified picture or OLE object. Read-only.
+Returns a  **Variant** that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the specified picture or OLE object. Read-only.
 
 
 ## Syntax

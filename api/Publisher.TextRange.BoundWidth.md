@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.BoundWidth property (Publisher)
 
-Returns a  **Single** indicating the width, in points, of the bounding box for the specified text range. Read-only.
+Returns a  **Single** indicating the width, in [points](../language/glossary/vbe-glossary.md#point), of the bounding box for the specified text range. Read-only.
 
 
 ## Syntax

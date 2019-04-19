@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Point.PieSliceLocation method (PowerPoint)
 
-Returns the vertical or horizontal position, in points, of a point on a chart item from the top or left edge of the object to the top or left edge of the chart area.
+Returns the vertical or horizontal position, in [points](../language/glossary/vbe-glossary.md#point), of a point on a chart item from the top or left edge of the object to the top or left edge of the chart area.
 
 
 ## Syntax

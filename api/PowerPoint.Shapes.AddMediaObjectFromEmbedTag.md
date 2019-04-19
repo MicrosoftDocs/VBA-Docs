@@ -31,10 +31,10 @@ _expression_. `AddMediaObjectFromEmbedTag`( `_EmbedTag_`, `_Left_`, `_Top_`, `_W
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EmbedTag_|Required|**String**|The embed tag.|
-| _Left_|Optional|**Single**|The distance, in points, from the left edge of the slide to the left edge of the media object.|
-| _Top_|Optional|**Single**|The distance, in points, from the top edge of the slide to the top edge of the media object.|
-| _Width_|Optional|**Single**|The width, in points, of the media object.|
-| _Height_|Optional|**Single**|The height, in points, of the media object.|
+| _Left_|Optional|**Single**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the slide to the left edge of the media object.|
+| _Top_|Optional|**Single**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the slide to the top edge of the media object.|
+| _Width_|Optional|**Single**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the media object.|
+| _Height_|Optional|**Single**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the media object.|
 
 ## Return value
 

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # ShapeRange.Left property (Project)
-Gets or sets the horizontal distance, in points, from the left side of the report to the left edge of the shape range. Read-write  **Single**.
+Gets or sets the horizontal distance, in [points](../language/glossary/vbe-glossary.md#point), from the left side of the report to the left edge of the shape range. Read-write  **Single**.
 
 ## Syntax
 
