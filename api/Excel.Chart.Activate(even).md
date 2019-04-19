@@ -28,13 +28,12 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 This event doesn't occur when you create a new window.
 
-When you switch between two windows showing the same workbook, the WindowActivate event occurs, but the Activate event for the workbook doesn't occur.
+When you switch between two windows showing the same workbook, the **WindowActivate** event occurs, but the **Activate** event for the workbook doesn't occur.
 
 
 ## Example
 
 This example sorts the range A1:A10 when the worksheet is activated.
-
 
 ```vb
 Private Sub Worksheet_Activate() 
@@ -43,9 +42,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

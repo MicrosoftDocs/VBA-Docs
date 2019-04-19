@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.HasLegend property (Excel)
 
- **True** if the chart has a legend. Read/write **Boolean**.
+**True** if the chart has a legend. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Example
 
-This example turns on the legend for Chart1 and then sets the legend font color to blue.
-
+This example turns on the legend for Chart1, and then sets the legend font color to blue.
 
 ```vb
 With Charts("Chart1") 
@@ -37,9 +36,6 @@ End With
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.TransitionMenuKeyAction property (Excel)
 
-Returns or sets the action taken when the Microsoft Excel menu key is pressed. Can be either **[xlExcelMenus](excel.constants.md)** or **xlLotusHelp**. Read/write **Long**.
+Returns or sets the action taken when the Microsoft Excel menu key is pressed. Can be either **xlExcelMenus** or **xlLotusHelp** (see the [Excel constants enumeration](excel.constants.md)). Read/write **Long**.
 
 
 ## Syntax

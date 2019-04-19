@@ -2,7 +2,7 @@
 title: What's new for VBA in Office 2016
 ms.prod: office
 ms.assetid: c0294abb-bc0e-495d-b387-4398378dd3ad
-ms.date: 11/13/2018
+ms.date: 04/19/2019
 localization_priority: Priority
 ---
 
@@ -26,7 +26,7 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[ChartGroup.BinsCountValue property (Excel)](../../api/Excel.chartgroup.binscountvalue.md)**|Specifies the number of bins in the histogram chart. Read/write **Long**.|
 |**[ChartGroup.BinsOverflowEnabled property (Excel)](../../api/Excel.chartgroup.binsoverflowenabled.md)**|Specifies whether a bin for values above the [BinsOverflowValue](../../api/Excel.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.|
 |**[ChartGroup.BinsOverflowValue property (Excel)](../../api/Excel.chartgroup.binsoverflowvalue.md)**|If an [BinsOverflowEnabled](../../api/Excel.chartgroup.binsoverflowenabled.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write **Double**.|
-|**[ChartGroup.BinsType property (Excel)](../../api/Excel.chartgroup.binstype.md)**|Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [xlBinsType](../../api/Excel.xlbinstype.md).|
+|**[ChartGroup.BinsType property (Excel)](../../api/Excel.chartgroup.binstype.md)**|Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [XlBinsType](../../api/Excel.xlbinstype.md).|
 |**[ChartGroup.BinsUnderflowEnabled property (Excel)](../../api/Excel.chartgroup.binsunderflowenabled.md)**|Specifies whether a bin for values below the [BinsUnderflowValue](../../api/Excel.chartgroup.binsunderflowvalue.md) is enabled. Read/write **Boolean**.|
 |**[ChartGroup.BinsUnderflowValue property (Excel)](../../api/Excel.chartgroup.binsunderflowvalue.md)**|If an [BinsUnderflowEnabled](../../api/Excel.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write **Double**.|
 |**[ChartGroup.BinWidthValue property (Excel)](../../api/Excel.chartgroup.binwidthvalue.md)**|Specifies the number of points in each range. Read/write **Double**.|
@@ -134,11 +134,11 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[WorksheetFunction.Forecast_ETS_Seasonality method (Excel)](../../api/Excel.worksheetfunction.forecast_ets_seasonality.md)**|Returns the length of the repetitive pattern Excel detects for the specified time series.|
 |**[WorksheetFunction.Forecast_ETS_STAT method (Excel)](../../api/Excel.worksheetfunction.forecast_ets_stat.md)**|Returns a statistical value as a result of time series forecasting.|
 |**[WorksheetFunction.Forecast_Linear method (Excel)](../../api/Excel.worksheetfunction.forecast_linear.md)**|Calculates, or predicts, a future value by using existing values. The predicted value is a y-value for a given x-value. The known values are existing x-values and y-values, and the new value is predicted by using linear regression. You can use this function to predict future sales, inventory requirements, or consumer trends.|
-|**[xlBinsType enumeration (Excel)](../../api/Excel.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Excel.chartgroup.binstype.md) property.|
-|**[xlForecastAggregation enumeration (Excel)](../../api/Excel.xlforecastaggregation.md)**|Constants passed to various **WorksheetFunction** and **Workbook** statistical forecasting methods.|
-|**[xlForecastChartType enumeration (Excel)](../../api/Excel.xlforecastcharttype.md)**|Constants passed to the [Workbook.CreateForecastSheet](../../api/Excel.workbook.createforecastsheet.md) Method.|
-|**[xlForecastDataCompletion enumeration (Excel)](../../api/Excel.xlforecastdatacompletion.md)**|Constants passed to various **WorksheetFunction** and **Workbook** statistical forecasting methods.|
-|**[xlParentDataLabelOptions enumeration (Excel)](../../api/Excel.xlparentdatalabeloptions.md)**|Constants passed to and returned by the **Series.ParentDataLabelOption** property.|
+|**[XlBinsType enumeration (Excel)](../../api/Excel.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Excel.chartgroup.binstype.md) property.|
+|**[XlForecastAggregation enumeration (Excel)](../../api/Excel.xlforecastaggregation.md)**|Constants passed to various **WorksheetFunction** and **Workbook** statistical forecasting methods.|
+|**[XlForecastChartType enumeration (Excel)](../../api/Excel.xlforecastcharttype.md)**|Constants passed to the [Workbook.CreateForecastSheet](../../api/Excel.workbook.createforecastsheet.md) Method.|
+|**[XlForecastDataCompletion enumeration (Excel)](../../api/Excel.xlforecastdatacompletion.md)**|Constants passed to various **WorksheetFunction** and **Workbook** statistical forecasting methods.|
+|**[XlParentDataLabelOptions enumeration (Excel)](../../api/Excel.xlparentdatalabeloptions.md)**|Constants passed to and returned by the **Series.ParentDataLabelOption** property.|
 
 ## Outlook
 
@@ -296,13 +296,13 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[ChartGroup.BinsCountValue property (PowerPoint)](../../api/PowerPoint.chartgroup.binscountvalue.md)**|Specifies the number of bins in the histogram chart. Read/write **Long**.|
 |**[ChartGroup.BinsOverflowEnabled property (PowerPoint)](../../api/PowerPoint.chartgroup.binsoverflowenabled.md)**|Specifies whether a bin for values above the ChartGroup.BinsOverflowValue property (PowerPoint) is enabled. Read/write **Boolean**.|
 |**[ChartGroup.BinsOverflowValue property (PowerPoint)](../../api/PowerPoint.chartgroup.binsoverflowvalue.md)**|If an [ChartGroup.BinsOverflowEnabled](../../api/PowerPoint.chartgroup.binsoverflowenabled.md) property (PowerPoint) is **True**, specifies the value above which an overflow bin is displayed. Read/write **Double**.|
-|**[ChartGroup.BinsType property (PowerPoint)](../../api/PowerPoint.chartgroup.binstype.md)**|Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [xlBinsType](../../api/PowerPoint.xlbinstype.md) Enumeration (PowerPoint).|
+|**[ChartGroup.BinsType property (PowerPoint)](../../api/PowerPoint.chartgroup.binstype.md)**|Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [XlBinsType](../../api/PowerPoint.xlbinstype.md) Enumeration (PowerPoint).|
 |**[ChartGroup.BinsUnderflowEnabled property (PowerPoint)](../../api/PowerPoint.chartgroup.binsunderflowenabled.md)**|Specifies whether a bin for values below the [ChartGroup.BinsUnderflowValue](../../api/PowerPoint.chartgroup.binsunderflowvalue.md) property (PowerPoint) is enabled. Read/write **Boolean**.|
 |**[ChartGroup.BinsUnderflowValue property (PowerPoint)](../../api/PowerPoint.chartgroup.binsunderflowvalue.md)**|If [ChartGroup.BinsUnderflowEnabled](../../api/PowerPoint.chartgroup.binsunderflowenabled.md) property (PowerPoint) is True, specifies the value below which an underflow bin is displayed. Read/write Double.|
 |**[ChartGroup.BinWidthValue property (PowerPoint)](../../api/PowerPoint.chartgroup.binwidthvalue.md)**|Specifies the number of points in each range. Read/write **Double**.|
 |**[DocumentWindow.ShowInsertAppDialog method (PowerPoint)](../../api/PowerPoint.documentwindow.showinsertappdialog.md)**||
 |**[Point.IsTotal property (PowerPoint)](../../api/PowerPoint.point.istotal.md)**|**True** if the point represents a total. Read/write **Boolean**.|
-|**[Series.ParentDataLabelOption property (PowerPoint)](../../api/PowerPoint.series.parentdatalabeloption.md)**|Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [xlParentDataLabelOptions](../../api/PowerPoint.xlparentdatalabeloptions.md) Enumeration (PowerPoint).|
+|**[Series.ParentDataLabelOption property (PowerPoint)](../../api/PowerPoint.series.parentdatalabeloption.md)**|Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XlParentDataLabelOptions](../../api/PowerPoint.xlparentdatalabeloptions.md) Enumeration (PowerPoint).|
 |**[Series.QuartileCalculationInclusiveMedian property (PowerPoint)](../../api/PowerPoint.series.quartilecalculationinclusivemedian.md)**|**True** if the series uses an inclusive median quartile calculation method. Read/write **Boolean**.|
 |**[Shape.HasInkXML property (PowerPoint)](../../api/PowerPoint.shape.hasinkxml.md)**|Returns an [MsoTriState](../../api/Office.MsoTriState.md) enumeration value that indicates whether the specified shape contains ink XML that can be retrieved via the [Shape.InkXML](../../api/PowerPoint.shape.inkxml.md) property. Read-only. An error is returned if the shape does not contain any ink XML.|
 |**[Shape.InkXML property (PowerPoint)](../../api/PowerPoint.shape.inkxml.md)**|Returns a **String** that contains the InkActionML associated with the specified shape. Read-only. If the specified shape does not contain a ink object more than one ink object occurs , an error is returned.|
@@ -312,8 +312,8 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[ShapeRange.IsNarration property (PowerPoint)](../../api/PowerPoint.shaperange.isnarration.md)**|Specifies whether the specified shape range contains a narration. Read/write. |
 |**[Shapes.AddInkShapeFromXML method (PowerPoint)](../../api/PowerPoint.shapes.addinkshapefromxml.md)**|Creates an ink shape. Returns a [Shape](../../api/PowerPoint.Shape.md) object that represents the new ink shape.|
 |**[SlideShowView.LaserPointerEnabled property (PowerPoint)](../../api/PowerPoint.slideshowview.laserpointerenabled.md)**|Returns **true** if the current slide show pointer is a laser pointer. This property is applicable only while the slide show is running. Read/write. This property allows a user to programmatically query and set the state of the pointer shown during slide show. The property will return false for all other pointer types. Users can also change the state of the current pointer by setting this property to **true** to turn on the laser pointer or **false** to turn off the laser pointer.|
-|**[xlBinsType enumeration (PowerPoint)](../../api/PowerPoint.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Excel.chartgroup.binstype.md) property.|
-|**[xlParentDataLabelOptions enumeration (PowerPoint)](../../api/PowerPoint.xlparentdatalabeloptions.md)**|Constants passed to and returned by the **Series.ParentDataLabelOption** property.|
+|**[XlBinsType enumeration (PowerPoint)](../../api/PowerPoint.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Excel.chartgroup.binstype.md) property.|
+|**[XlParentDataLabelOptions enumeration (PowerPoint)](../../api/PowerPoint.xlparentdatalabeloptions.md)**|Constants passed to and returned by the **Series.ParentDataLabelOption** property.|
 
 ## Visio
 
@@ -338,16 +338,16 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[ChartGroup.BinsCountValue property (Word)](../../api/Word.chartgroup.binscountvalue.md)**|Specifies the number of bins in the histogram chart. Read/write **Long**.|
 |**[ChartGroup.BinsOverflowEnabled property (Word)](../../api/Word.chartgroup.binsoverflowenabled.md)**|Specifies whether a bin for values above the [BinsOverflowValue](../../api/Excel.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.|
 |**[ChartGroup.BinsOverflowValue property (Word)](../../api/Word.chartgroup.binsoverflowvalue.md)**|If an [BinsOverflowEnabled](../../api/Excel.chartgroup.binsoverflowenabled.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write **Double**.|
-|**[ChartGroup.BinsType property (Word)](../../api/Word.chartgroup.binstype.md)**|Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [xlBinsType](../../api/Word.xlbinstype.md).|
+|**[ChartGroup.BinsType property (Word)](../../api/Word.chartgroup.binstype.md)**|Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [XlBinsType](../../api/Word.xlbinstype.md).|
 |**[ChartGroup.BinsUnderflowEnabled property (Word)](../../api/Word.chartgroup.binsunderflowenabled.md)**|Specifies whether a bin for values below the [BinsUnderflowValue](../../api/Word.chartgroup.binsunderflowvalue.md) is enabled. Read/write **Boolean**.|
 |**[ChartGroup.BinsUnderflowValue property (Word)](../../api/Word.chartgroup.binsunderflowvalue.md)**|If an [BinsUnderflowEnabled](../../api/Word.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write **Double**.|
 |**[ChartGroup.BinWidthValue property (Word)](../../api/Word.chartgroup.binwidthvalue.md)**|Specifies the number of points in each range. Read/write **Double**.|
 |**[CoAuthUpdates object (Word)](../../api/Word.coauthupdates.md)**|A collection of [CoAuthUpdate](../../api/Word.CoAuthUpdate.md) objects that represent the updates that were merged into the document at the last explicit save.|
 |**[Options.UseLocalUserInfo property (Word)](../../api/Word.options.uselocaluserinfo.md)**||
 |**[Point.IsTotal property (Word)](../../api/Word.point.istotal.md)**|**True** if the point represents a total. Read/write **Boolean**.|
-|**[Series.ParentDataLabelOption property (Word)](../../api/Word.series.parentdatalabeloption.md)**|Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [xlParentDataLabelOptions](../../api/Word.xlparentdatalabeloptions.md).|
+|**[Series.ParentDataLabelOption property (Word)](../../api/Word.series.parentdatalabeloption.md)**|Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XlParentDataLabelOptions](../../api/Word.xlparentdatalabeloptions.md).|
 |**[Series.QuartileCalculationInclusiveMedian property (Word)](../../api/Word.series.quartilecalculationinclusivemedian.md)**|**True** if the series uses an inclusive median quartile calculation method. Read/write **Boolean**.|
-|**[xlBinsType enumeration (Word)](../../api/Word.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Word.chartgroup.binstype.md) property.|
-|**[xlParentDataLabelOptions enumeration (Word)](../../api/Word.xlparentdatalabeloptions.md)**|Constants passed to and returned by the **Series.ParentDataLabelOption** property.|
+|**[XlBinsType enumeration (Word)](../../api/Word.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Word.chartgroup.binstype.md) property.|
+|**[XlParentDataLabelOptions enumeration (Word)](../../api/Word.xlparentdatalabeloptions.md)**|Constants passed to and returned by the **Series.ParentDataLabelOption** property.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

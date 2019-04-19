@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 This example arranges all open windows when the workbook is deactivated.
 
-
 ```vb
 Private Sub Workbook_Deactivate() 
  Application.Windows.Arrange xlArrangeStyleTiled 
@@ -36,9 +35,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

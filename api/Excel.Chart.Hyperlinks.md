@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Hyperlinks property (Excel)
 
-Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the hyperlinks for the chart.
+Returns a **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the hyperlinks for the chart.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Hyperlinks**
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

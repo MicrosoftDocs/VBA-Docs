@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Next property (Excel)
 
-Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the next sheet.
+Returns a **[Worksheet](Excel.Worksheet.md)** object that represents the next sheet.
 
 
 ## Syntax
@@ -26,14 +26,11 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Remarks
 
-If the object is a range, this property emulates the TAB key, although the property returns the next cell without selecting it.
+If the object is a range, this property emulates the Tab key, although the property returns the next cell without selecting it.
 
 On a protected sheet, this property returns the next unlocked cell. On an unprotected sheet, this property always returns the cell immediately to the right of the specified cell.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

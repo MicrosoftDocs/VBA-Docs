@@ -26,11 +26,9 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|Specifies the axis to return. Can be one of the following  **[XlAxisType](Excel.XlAxisType.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3D charts).|
+| _Type_|Optional| **Variant**|Specifies the axis to return. Can be one of the following **[XlAxisType](Excel.XlAxisType.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3D charts).|
 | _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|Specifies the axis group. If this argument is omitted, the primary group is used. 3D charts have only one axis group.|
 
 ## Return value
@@ -42,7 +40,6 @@ Object
 
 This example adds an axis label to the category axis in Chart1.
 
-
 ```vb
 With Charts("Chart1").Axes(xlCategory) 
  .HasTitle = True 
@@ -50,19 +47,17 @@ With Charts("Chart1").Axes(xlCategory)
 End With
 ```
 
+<br/>
+
 This example turns off major gridlines for the category axis in Chart1.
-
-
-
 
 ```vb
 Charts("Chart1").Axes(xlCategory).HasMajorGridlines = False
 ```
 
+<br/>
+
 This example turns off all gridlines for all axes in Chart1.
-
-
-
 
 ```vb
 For Each a In Charts("Chart1").Axes 
@@ -72,9 +67,5 @@ Next a
 ```
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

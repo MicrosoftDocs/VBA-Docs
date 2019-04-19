@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MajorUnitScale property (Excel Graph)
 
-Returns or sets the major unit scale value for the category axis when the **CategoryType** property is set to **[xlTimeScale](excel.xlcategorytype.md)**. Read/write **[XlTimeUnit](excel.xltimeunit.md)**.
+Returns or sets the major unit scale value for the category axis when the **[CategoryType](excel.categorytype.md)** property is set to **xlTimeScale** (**[XlCategoryType](excel.xlcategorytype.md)**). Read/write **[XlTimeUnit](excel.xltimeunit.md)**.
 
 ## Syntax
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Calculate event (Excel)
 
-Occurs after the chart plots new or changed data, for the  **Chart** object.
+Occurs after the chart plots new or changed data for the **Chart** object.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Return value
 
-nothing
+Nothing
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,17 +28,14 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Before_|Optional| **Variant**|The sheet before which the moved chart will be placed. You cannot specify  _Before_ if you specify _After_.|
+| _Before_|Optional| **Variant**|The sheet before which the moved chart will be placed. You cannot specify _Before_ if you specify _After_.|
 | _After_|Optional| **Variant**| The sheet after which the moved chart will be placed. You cannot specify _After_ if you specify _Before_.|
 
 ## Remarks
 
-If you don't specify either  _Before_ or _After_, Microsoft Excel creates a new workbook that contains the moved chart.
+If you don't specify either _Before_ or _After_, Microsoft Excel creates a new workbook that contains the moved chart.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

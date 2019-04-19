@@ -16,7 +16,6 @@ localization_priority: Normal
 
 Occurs when a chart element is double-clicked, before the default double-click action.
 
-
 ## Syntax
 
 _expression_.**BeforeDoubleClick** (_ElementID_, _Arg1_, _Arg2_, _Cancel_)
@@ -26,26 +25,22 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the default double-click action isn't performed when the procedure is finished.|
-| _Arg1_|Required| **Long**|Additional event information, depending on the value of  _ElementID_. For more information about this parameter, see the Remarks section.|
-| _Arg2_|Required| **Long**|Additional event information, depending on the value of  _ElementID_. For more information about this parameter, see the Remarks section.|
-| _ElementID_|Required| **Long**|The double-clicked object. The value of this parameter determines the expected values of  _Arg1_ and _Arg2_. For more information about this parameter, see the Remarks section.|
+| _Arg1_|Required| **Long**|Additional event information, depending on the value of _ElementID_. For more information about this parameter, see the Remarks section.|
+| _Arg2_|Required| **Long**|Additional event information, depending on the value of _ElementID_. For more information about this parameter, see the Remarks section.|
+| _ElementID_|Required| **Long**|The double-clicked object. The value of this parameter determines the expected values of _Arg1_ and _Arg2_. For more information about this parameter, see the Remarks section.|
 
 ## Remarks
 
-The  **[DoubleClick](Excel.Application.DoubleClick.md)** method doesn't cause this event to occur.
+The **[DoubleClick](Excel.Application.DoubleClick.md)** method doesn't cause this event to occur.
 
 This event doesn't occur when the user double-clicks the border of a cell.
 
-The meaning of  _Arg1_ and _Arg2_ depends on the _ElementID_ value, as shown in the following table.
+The meaning of _Arg1_ and _Arg2_ depends on the _ElementID_ value, as shown in the following table.
 
-
-
-|**_ElementID_**|**_Arg1_**|**_Arg2_**|
+|_ElementID_|_Arg1_|_Arg2_|
 |:-----|:-----|:-----|
 | **xlAxis**|AxisIndex|AxisType|
 | **xlAxisTitle**|AxisIndex|AxisType|
@@ -81,24 +76,21 @@ The meaning of  _Arg1_ and _Arg2_ depends on the _ElementID_ value, as shown in 
 
 The following table describes the meaning of the arguments.
 
-
-
-|**Argument**|**Description**|
+|Argument|Description|
 |:-----|:-----|
-|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **xlAxisGroup** constants: **xlPrimary** or **xlSecondary**.|
-|AxisType|Specifies the axis type. Can be one of the following  **xlAxisType** constants: **xlCategory**, **xlSeriesAxis**, or **xlValue**.|
-|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **xlPivotFieldOrientation** constants: **xlColumnField**, **xlDataField**, **xlPageField**, or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
-|GroupIndex|Specifies the offset within the  **[ChartGroups](Excel.ChartGroups(object).md)** collection for a specific chart group.|
-|PivotFieldIndex|Specifies the offset within the  **[PivotFields](Excel.PivotFields.md)** collection for a specific column (series), data, page, or row (category) field.|
-|PointIndex|Specifies the offset within the  **[Points](Excel.Points(object).md)** collection for a specific point within a series. The value ? 1 indicates that all data points are selected.|
-|SeriesIndex|Specifies the offset within the  **[Series](Excel.Series(object).md)** collection for a specific series.|
-|ShapeIndex|Specifies the offset within the  **[Shapes](Excel.Shapes.md)** collection for a specific shape.|
-|TrendlineIndex|Specifies the offset within the  **[Trendlines](Excel.Trendlines(object).md)** collection for a specific trendline within a series.|
+|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following **[XlAxisGroup](Excel.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary**.|
+|AxisType|Specifies the axis type. Can be one of the following **[XlAxisType](Excel.XlAxisType.md)** constants: **xlCategory**, **xlSeriesAxis**, or **xlValue**.|
+|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following **[XlPivotFieldOrientation](excel.xlpivotfieldorientation.md)** constants: **xlColumnField**, **xlDataField**, **xlPageField**, or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
+|GroupIndex|Specifies the offset within the **[ChartGroups](Excel.ChartGroups(object).md)** collection for a specific chart group.|
+|PivotFieldIndex|Specifies the offset within the **[PivotFields](Excel.PivotFields.md)** collection for a specific column (series), data, page, or row (category) field.|
+|PointIndex|Specifies the offset within the **[Points](Excel.Points(object).md)** collection for a specific point within a series. The value 1 indicates that all data points are selected.|
+|SeriesIndex|Specifies the offset within the **[Series](Excel.Series(object).md)** collection for a specific series.|
+|ShapeIndex|Specifies the offset within the **[Shapes](Excel.Shapes.md)** collection for a specific shape.|
+|TrendlineIndex|Specifies the offset within the **[Trendlines](Excel.Trendlines(object).md)** collection for a specific trendline within a series.|
 
 ## Example
 
 This example overrides the default double-click behavior for the chart floor.
-
 
 ```vb
 Private Sub Chart_BeforeDoubleClick(ByVal ElementID As Long, _ 
@@ -113,9 +105,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

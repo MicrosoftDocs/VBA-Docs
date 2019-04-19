@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.ChartArea property (Excel)
 
-Returns a  **[ChartArea](Excel.ChartArea(object).md)** object that represents the complete chart area for the chart. Read-only.
+Returns a **[ChartArea](Excel.ChartArea(object).md)** object that represents the complete chart area for the chart. Read-only.
 
 
 ## Syntax
@@ -26,8 +26,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Example
 
-This example sets the chart area interior color of Chart1 to red and sets the border color to blue.
-
+This example sets the chart area interior color of Chart1 to red, and sets the border color to blue.
 
 ```vb
 With Charts("Chart1").ChartArea 
@@ -37,9 +36,6 @@ End With
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

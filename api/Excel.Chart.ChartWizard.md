@@ -26,14 +26,12 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Optional| **Variant**|The range that contains the source data for the new chart. If this argument is omitted, Microsoft Excel edits the active chart sheet or the selected chart on the active worksheet.|
-| _Gallery_|Optional| **Variant**|One of the constants of  **[XlChartType](Excel.XlChartType.md)** specifying the chart type.|
-| _Format_|Optional| **Variant**|The option number for the built-in autoformats. Can be a number from 1 through 10, depending on the gallery type. If this argument is omitted, Microsoft Excel chooses a default value based on the gallery type and data source.|
-| _PlotBy_|Optional| **Variant**|Specifies whether the data for each series is in rows or columns. Can be one of the following  **[XlRowCol](Excel.XlRowCol.md)** constants: **xlRows** or **xlColumns**.|
+| _Gallery_|Optional| **Variant**|One of the constants of **[XlChartType](Excel.XlChartType.md)** specifying the chart type.|
+| _Format_|Optional| **Variant**|The option number for the built-in autoformats. Can be a number from 1 through 10, depending on the gallery type. If this argument is omitted, Excel chooses a default value based on the gallery type and data source.|
+| _PlotBy_|Optional| **Variant**|Specifies whether the data for each series is in rows or columns. Can be one of the following **[XlRowCol](Excel.XlRowCol.md)** constants: **xlRows** or **xlColumns**.|
 | _CategoryLabels_|Optional| **Variant**|An integer specifying the number of rows or columns within the source range that contain category labels. Legal values are from 0 (zero) through one less than the maximum number of the corresponding categories or series.|
 | _SeriesLabels_|Optional| **Variant**|An integer specifying the number of rows or columns within the source range that contain series labels. Legal values are from 0 (zero) through one less than the maximum number of the corresponding categories or series.|
 | _HasLegend_|Optional| **Variant**| **True** to include a legend.|
@@ -44,13 +42,12 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Remarks
 
-If  _Source_ is omitted and either the selection isn't an embedded chart on the active worksheet or the active sheet isn't an existing chart, this method fails and an error occurs.
+If _Source_ is omitted and either the selection isn't an embedded chart on the active worksheet or the active sheet isn't an existing chart, this method fails and an error occurs.
 
 
 ## Example
 
 This example reformats Chart1 as a line chart, adds a legend, and adds category and value axis titles.
-
 
 ```vb
 Charts("Chart1").ChartWizard _ 
@@ -59,9 +56,6 @@ Charts("Chart1").ChartWizard _
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

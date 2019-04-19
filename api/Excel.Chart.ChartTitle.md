@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.ChartTitle property (Excel)
 
-Returns a  **[ChartTitle](Excel.ChartTitle(object).md)** object that represents the title of the specified chart. Read-only.
+Returns a **[ChartTitle](Excel.ChartTitle(object).md)** object that represents the title of the specified chart. Read-only.
 
 
 ## Syntax
@@ -28,7 +28,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 This example sets the text for the title of Chart1.
 
-
 ```vb
 With Charts("Chart1") 
  .HasTitle = True 
@@ -37,9 +36,6 @@ End With
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

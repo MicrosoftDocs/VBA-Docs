@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.DisplayBlanksAs property (Excel)
 
-Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[XlDisplayBlanksAs](Excel.XlDisplayBlanksAs.md)** constants. Read/write **Long**.
+Returns or sets the way that blank cells are plotted on a chart. Can be one of the **[XlDisplayBlanksAs](Excel.XlDisplayBlanksAs.md)** constants. Read/write **Long**.
 
 
 ## Syntax
@@ -28,16 +28,10 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 This example sets Microsoft Excel to not plot blank cells in Chart1.
 
-
 ```vb
 Charts("Chart1").DisplayBlanksAs = xlNotPlotted
 ```
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
-[SparklineGroup Object](Excel.SparklineGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

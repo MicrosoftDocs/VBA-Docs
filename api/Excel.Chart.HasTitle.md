@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.HasTitle property (Excel)
 
- **True** if the axis or chart has a visible title. Read/write **Boolean**.
+**True** if the axis or chart has a visible title. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,12 +26,8 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Remarks
 
-A chart title is represented by a  **[ChartTitle](Excel.ChartTitle(object).md)** object.
+A chart title is represented by a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

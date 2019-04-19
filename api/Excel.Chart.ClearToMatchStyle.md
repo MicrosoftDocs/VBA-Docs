@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 Use this method to reset the chart elements formatting to automatic. If you use this method on a chart, all formatting (including overrides) will be reset.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

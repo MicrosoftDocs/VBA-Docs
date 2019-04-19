@@ -24,17 +24,13 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Return value
 
- **VOID**
+**VOID**
 
 
-### Remarks
+## Remarks
 
 Use this method to reset all the chart color formatting to the color style applied to the chart.
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

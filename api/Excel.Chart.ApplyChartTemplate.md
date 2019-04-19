@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file name for a chart template.|
@@ -37,9 +35,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 This method does not support taking constants for native or combination charts.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
