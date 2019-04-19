@@ -34,9 +34,5 @@ Variant
 Only embedded charts can be cut.
 
 
-## See also
-
-
-[ChartObjects Object](Excel.ChartObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartObjects.Placement property (Excel)
 
-Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlacement.md)** constant, that represents the way the objects are attached to the cells below them.
+Returns or sets a **Variant** value, containing an **[XlPlacement](Excel.XlPlacement.md)** constant, that represents the way the objects are attached to the cells below them.
 
 
 ## Syntax
@@ -26,11 +26,11 @@ _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md
 
 ## Example
 
-This example sets the objects on Sheet1 to be free-floating (they neither moves nor are they sized with underlying cells).
-
+This example sets the objects on Sheet1 to be free-floating (they neither move nor are they sized with underlying cells).
 
 ```vb
 Worksheets("Sheet1").ChartObjects.Placement = xlFreeFloating
 ```
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

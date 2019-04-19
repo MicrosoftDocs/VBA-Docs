@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartObjects.ProtectChartObject property (Excel)
 
- **True** if the embedded chart frame cannot be moved, resized, or deleted through the user interface. Read/write **Boolean**.
+**True** if the embedded chart frame cannot be moved, resized, or deleted through the user interface. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,20 +26,16 @@ _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md
 
 ## Remarks
 
-Setting this property to  **True** will not protect the embedded chart frame from being modified through the object model.
+Setting this property to **True** will not protect the embedded chart frame from being modified through the object model.
 
 
 ## Example
-
 
 ```vb
 Worksheets(1).ChartObjects(1).ProtectChartObject = True
 ```
 
 
-## See also
 
-
-[ChartObjects Object](Excel.ChartObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ChartObjects.PrintObject property (Excel)
 
- **True** if the objects will be printed when the document is printed. Read/write **Boolean**.
+**True** if the objects will be printed when the document is printed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,7 +27,6 @@ _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md
 ## Example
 
 This example sets the objects on Sheet1 to be printed with the worksheet.
-
 
 ```vb
 Worksheets("Sheet1").ChartObjects.PrintObject = True

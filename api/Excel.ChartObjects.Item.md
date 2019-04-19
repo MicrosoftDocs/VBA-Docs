@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number for the object.|
@@ -39,22 +37,18 @@ An Object value that represents an object contained by the collection.
 
 ## Remarks
 
-The text name of the object is the value of the  **Name** and **Value** properties.
+The text name of the object is the value of the **Name** and **Value** properties.
 
 
 ## Example
 
 This example activates embedded chart one.
 
-
 ```vb
 Worksheets("sheet1").ChartObjects.Item(1).Activate
 ```
 
 
-## See also
 
-
-[ChartObjects Object](Excel.ChartObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

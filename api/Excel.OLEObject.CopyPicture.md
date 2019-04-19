@@ -30,8 +30,8 @@ _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**|. Specifies how the picture should be copied. The default value is  **xlScreen**.|
-| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|. The format of the picture. The default value is  **xlPicture**.|
+| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**| Specifies how the picture should be copied. The default value is  **xlScreen**.|
+| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**| The format of the picture. The default value is  **xlPicture**.|
 
 ## Return value
 

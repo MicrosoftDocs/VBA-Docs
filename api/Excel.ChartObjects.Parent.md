@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md)** object.
 
 
-## See also
 
-
-[ChartObjects Object](Excel.ChartObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

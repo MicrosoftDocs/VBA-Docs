@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md
 Variant
 
 
-## See also
 
-
-[ChartObjects Object](Excel.ChartObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
