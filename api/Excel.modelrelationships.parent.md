@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm939075
 ms.prod: excel
 ms.assetid: f5cdea0a-1331-4a17-c63f-c58d84066914
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -24,13 +24,9 @@ _expression_ A variable that represents a **[ModelRelationships](Excel.modelrela
 
 ## Property value
 
- **OBJECT**
-
-
-## See also
+**OBJECT**
 
 
 
-[ModelRelationships Object](Excel.modelrelationships.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

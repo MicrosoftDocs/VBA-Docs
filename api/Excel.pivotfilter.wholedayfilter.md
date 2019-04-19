@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # PivotFilter.WholeDayFilter property (Excel)
 
-Sets or gets the filtering semantics for date filters. **Boolean**. Read/Write
+Sets or gets the filtering semantics for date filters. Read/write **Boolean**.
 
 
 ## Syntax
