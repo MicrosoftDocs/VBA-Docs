@@ -21,7 +21,7 @@ Returns or sets the name of the specified object. Read/write  **String**.
 
 _expression_.**Name**
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

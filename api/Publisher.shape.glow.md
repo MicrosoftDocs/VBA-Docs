@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Shape.Glow property (Publisher)
 
-Returns a  [GlowFormat](Publisher.glowformat.md) object that represents the glow formatting for a shape. Read-only.
+Returns a **[GlowFormat](Publisher.glowformat.md)** object that represents the glow formatting for a shape. Read-only.
 
 
 ## Syntax

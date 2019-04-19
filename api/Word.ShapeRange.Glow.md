@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ShapeRange.Glow property (Word)
 
-Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the glow formatting for a range of shapes. Read-only.
+Returns a **[GlowFormat](Word.GlowFormat.md)** object that represents the glow formatting for a range of shapes. Read-only.
 
 
 ## Syntax
 
-_expression_. `Glow`
+_expression_.**Glow**
 
- _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

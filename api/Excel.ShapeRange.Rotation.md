@@ -21,7 +21,7 @@ Returns or sets the rotation of the shape, in degrees. Read/write  **Single**.
 
 _expression_.**Rotation**
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Remarks

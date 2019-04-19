@@ -21,7 +21,7 @@ Converts the specified shape in the drawing layer of a document to an inline sha
 
 _expression_. `ConvertToInlineShape`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Return value

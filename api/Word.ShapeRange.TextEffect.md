@@ -21,7 +21,7 @@ Returns a  **TextEffectFormat** object that contains text-effect formatting prop
 
 _expression_. `TextEffect`
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

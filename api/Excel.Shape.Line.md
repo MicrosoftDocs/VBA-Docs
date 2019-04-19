@@ -19,7 +19,7 @@ Returns a  **[LineFormat](Excel.LineFormat.md)** object that contains line forma
 
 ## Syntax
 
-_expression_. `Line`
+_expression_.**Line**
 
 _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 

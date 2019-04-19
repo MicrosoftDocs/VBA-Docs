@@ -21,7 +21,7 @@ Returns a  **[FillFormat](Excel.FillFormat.md)** object for a specified shape or
 
 _expression_. `Fill`
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example

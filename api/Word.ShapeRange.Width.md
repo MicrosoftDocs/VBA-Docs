@@ -21,7 +21,7 @@ Returns or sets the width, in points, of the shapes within the range. Read/write
 
 _expression_.**Width**
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

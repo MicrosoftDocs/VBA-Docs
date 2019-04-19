@@ -21,7 +21,7 @@ Returns the coordinates of the specified freeform drawing's vertices (and contro
 
 _expression_. `Vertices`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

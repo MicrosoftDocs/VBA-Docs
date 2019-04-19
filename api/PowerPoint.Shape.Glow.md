@@ -19,7 +19,7 @@ Returns the glow format for the specified shape. Read-only.
 
 ## Syntax
 
-_expression_. `Glow`
+_expression_.**Glow**
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

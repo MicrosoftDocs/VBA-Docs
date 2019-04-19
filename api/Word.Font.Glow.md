@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Font.Glow property (Word)
 
-Returns a [GlowFormat](Word.GlowFormat.md) object that represents the glow formatting for the font used by the specified range of text. Read-only.
+Returns a **[GlowFormat](Word.GlowFormat.md)** object that represents the glow formatting for the font used by the specified range of text. Read-only.
 
 
 ## Syntax
 
-_expression_. `Glow`
+_expression_.**Glow**
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

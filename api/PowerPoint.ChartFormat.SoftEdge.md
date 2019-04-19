@@ -19,7 +19,7 @@ Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Offi
 
 ## Syntax
 
-_expression_. `SoftEdge`
+_expression_.**SoftEdge**
 
 _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.md)' object.
 

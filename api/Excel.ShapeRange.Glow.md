@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ShapeRange.Glow property (Excel)
 
-Returns a  **[GlowFormat](Office.GlowFormat.md)** object for a specified shape range that contains glow formatting properties for the shape range. Read-only.
+Returns a **[GlowFormat](Office.GlowFormat.md)** object for a specified shape range that contains glow formatting properties for the shape range. Read-only.
 
 
 ## Syntax
 
-_expression_. `Glow`
+_expression_.**Glow**
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Remarks

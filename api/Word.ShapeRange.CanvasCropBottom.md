@@ -21,7 +21,7 @@ Crops a percentage of the height of a drawing canvas from the bottom of the canv
 
 _expression_. `CanvasCropBottom`( `_Increment_` )
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters

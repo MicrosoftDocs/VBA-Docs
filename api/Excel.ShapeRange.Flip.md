@@ -21,7 +21,7 @@ Flips the specified shape around its horizontal or vertical axis.
 
 _expression_. `Flip`( `_FlipCmd_` )
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Parameters

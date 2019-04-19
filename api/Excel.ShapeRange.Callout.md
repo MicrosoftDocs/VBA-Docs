@@ -21,7 +21,7 @@ Returns a  **[CalloutFormat](Excel.CalloutFormat.md)** object that contains call
 
 _expression_. `Callout`
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example

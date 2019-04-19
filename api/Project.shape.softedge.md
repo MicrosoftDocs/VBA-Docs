@@ -12,7 +12,7 @@ Gets soft edge formatting properties for the shape. Read-only  **[SoftEdgeFormat
 
 ## Syntax
 
-_expression_. `SoftEdge`
+_expression_.**SoftEdge**
 
  _expression_ A variable that represents a 'Shape' object.
 

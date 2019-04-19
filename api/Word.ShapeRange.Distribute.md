@@ -21,7 +21,7 @@ Evenly distributes the shapes in the specified range of shapes. .
 
 _expression_. `Distribute`( `_Distribute_` , `_RelativeTo_` )
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters

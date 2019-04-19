@@ -23,7 +23,7 @@ _expression_ An expression that returns a **[Font2](Office.Font2.md)** object.
 
 ## Return value
 
-GlowFormat
+**[GlowFormat](Office.GlowFormat.md)**
 
 
 ## See also

@@ -19,7 +19,7 @@ Returns a  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents t
 
 ## Syntax
 
-_expression_. `SoftEdge`
+_expression_.**SoftEdge**
 
  _expression_ An expression that returns an '[InlineShape](Word.InlineShape.md)' object.
 

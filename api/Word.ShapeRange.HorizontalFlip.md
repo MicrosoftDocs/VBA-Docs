@@ -21,7 +21,7 @@ Indicates that a range of shapes has been flipped horizontally. Read-only  **Mso
 
 _expression_. `HorizontalFlip`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

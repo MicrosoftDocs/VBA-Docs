@@ -21,7 +21,7 @@ Returns or sets the vertical position of the specified shape or shape range in p
 
 _expression_.**Top**
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

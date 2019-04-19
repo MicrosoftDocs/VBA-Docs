@@ -21,7 +21,7 @@ Returns a  **Range** object that represents the anchoring range for the specifie
 
 _expression_. `Anchor`
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

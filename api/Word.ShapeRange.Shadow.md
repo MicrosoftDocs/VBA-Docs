@@ -21,7 +21,7 @@ Returns a  **ShadowFormat** object that represents the shadow formatting for the
 
 _expression_.**Shadow**
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

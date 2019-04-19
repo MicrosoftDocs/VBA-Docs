@@ -21,7 +21,7 @@ Creates a duplicate of the specified  **ShapeRange** object, adds the new range 
 
 _expression_. `Duplicate`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Example

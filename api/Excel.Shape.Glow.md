@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Shape.Glow property (Excel)
 
-Returns a  **[GlowFormat](Office.GlowFormat.md)** object for a specified shape that contains glow formatting properties for the shape. Read-only.
+Returns a **[GlowFormat](Office.GlowFormat.md)** object for a specified shape that contains glow formatting properties for the shape. Read-only.
 
 
 ## Syntax
 
-_expression_. `Glow`
+_expression_.**Glow**
 
 _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 

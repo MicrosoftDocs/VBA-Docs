@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the relative left position of a ra
 
 _expression_. `LeftRelative`
 
- _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

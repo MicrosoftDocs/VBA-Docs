@@ -21,7 +21,7 @@ Ungroups any grouped shapes in the specified range of shapes, disassembles pictu
 
 _expression_. `Ungroup`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Return value

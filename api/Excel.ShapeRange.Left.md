@@ -21,7 +21,7 @@ Returns or sets a  **Single** value that represents the distance, in points, fro
 
 _expression_.**Left**
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## See also

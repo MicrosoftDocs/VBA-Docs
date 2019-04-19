@@ -21,7 +21,7 @@ Scales the height of a range of shapes by a specified factor.
 
 _expression_. `ScaleHeight`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Moves the specified shape horizontally by the specified number of points.
 
 _expression_. `IncrementLeft`( `_Increment_` )
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Parameters

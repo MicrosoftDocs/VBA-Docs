@@ -21,7 +21,7 @@ Returns or sets the shape style for the shapes in the specified shape range. Rea
 
 _expression_. `ShapeStyle`
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also
