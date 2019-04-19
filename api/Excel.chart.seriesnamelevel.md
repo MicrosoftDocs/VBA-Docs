@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Chart.SeriesNameLevel property (Excel)
 
-Returns a  **[XlSeriesNameLevel enumeration (Excel)](Excel.xlseriesnamelevel.md)** constant referring to the level of where the series names are being sourced from. **Integer** Read/Write.
+Returns an **[XlSeriesNameLevel](Excel.xlseriesnamelevel.md)** constant referring to the level of where the series names are being sourced from. Read/write **Integer**.
 
 
 ## Syntax
@@ -24,13 +24,17 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Remarks
 
-If there is a hierarchy, 0 refers to the most parent level, 1 refers to its children, and so on. So, 0 equals the first level, 1 equals the second level, 2 equals the third level, and so on.
+If there is a hierarchy, 0 refers to the parent level, 1 refers to its children, and so on. So, 0 equals the first level, 1 equals the second level, 2 equals the third level, and so on.
+
+
+## Property value
+
+**XLSERIESNAMELEVEL**
 
 
 ## Example
 
-The following sample code uses the  **SeriesNameLevel** property to set the chart series names from previously created columns.
-
+The following sample code uses the **SeriesNameLevel** property to set the chart series names from previously created columns.
 
 ```vb
     Sheets(1).Range("C1:E1").Value2 = "Sample_Row1"
@@ -52,14 +56,6 @@ The following sample code uses the  **SeriesNameLevel** property to set the char
 ```
 
 
-## Property value
 
- **XLSERIESNAMELEVEL**
-
-
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,10 +14,10 @@ localization_priority: Normal
 
 # Chart.SeriesChange event (Excel)
 
-Occurs when the user changes the value of a chart data point by clicking a bar in the chart and dragging the top edge up or down thus changing the value of the data point.
+Occurs when the user changes the value of a chart data point by choosing a bar in the chart and dragging the top edge up or down thus changing the value of the data point.
 
-
- **Important**  This event is not functional in Excel 2007 and later versions. You should not use it in your code.
+> [!IMPORTANT] 
+> This event is not functional in Excel 2007 and later versions. You should not use it in your code.
 
 
 ## Syntax
@@ -29,12 +29,10 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SeriesIndex_|Required| **Long**| The offset within the **[Series](Excel.Series(object).md)** collection for the changed series.|
-| _PointIndex_|Required| **Long**|The offset within the  **[Points](Excel.Points(object).md)** collection for the changed point.|
+| _PointIndex_|Required| **Long**|The offset within the **[Points](Excel.Points(object).md)** collection for the changed point.|
 
 ## Return value
 
@@ -45,7 +43,6 @@ Nothing
 
 This example changes the point's border color when the user changes the point value.
 
-
 ```vb
 Private Sub Chart_SeriesChange(ByVal SeriesIndex As Long, _ 
  ByVal PointIndex As Long) 
@@ -55,9 +52,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

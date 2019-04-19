@@ -30,19 +30,19 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 |:-----|:-----|:-----|:-----|
 | _Key1_|Optional| **Variant**|Specifies the first sort field, either as a range name (String) or **Range** object; determines the values to be sorted.|
 | _Order1_|Optional| **xlSortOrder**|Determines the sort order for the values specified in _Key1_.|
-| _Key2_|Optional| **Variant**|Second sort field; cannot be used when sorting a pivot table.|
+| _Key2_|Optional| **Variant**|Second sort field; cannot be used when sorting a PivotTable.|
 | _Type_|Optional| **Variant**|Specifies which elements are to be sorted.|
 | _Order2_|Optional| **xlSortOrder**|Determines the sort order for the values specified in  _Key2_.|
-| _Key3_|Optional| **Variant**|Third sort field; cannot be used when sorting a pivot table.|
+| _Key3_|Optional| **Variant**|Third sort field; cannot be used when sorting a PivotTable.|
 | _Order3_|Optional| **xlSortOrder**|Determines the sort order for the values specified in _Key3_.|
 | _Header_|Optional| **xlYesNoGuess**|Specifies whether the first row contains header information. **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
 | _OrderCustom_|Optional| **Variant**|Specifies a one-based integer offset into the list of custom sort orders.|
-| _MatchCase_|Optional| **Variant**|Set to **True** to perform a case-sensitive sort, **False** to perform non-case sensitive sort; cannot be used with pivot tables.|
+| _MatchCase_|Optional| **Variant**|Set to **True** to perform a case-sensitive sort, **False** to perform non-case sensitive sort; cannot be used with PivotTables.|
 | _Orientation_|Optional| **xlSortOrientation**|Specifies if the sort should be by row (default) or column. Set **xlSortColumns** value to	1	to sort by column. Set **xlSortRows** value to 2 to sort by row. (This is the default value.) |
 | _SortMethod_|Optional| **xlSortMethod**|Specifies the sort method.|
-| _DataOption1_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in _Key1_; does not apply to pivot table sorting.|
-| _DataOption2_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in  _Key2_; does not apply to pivot table sorting.|
-| _DataOption3_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in _Key3_; does not apply to pivot table sorting.|
+| _DataOption1_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in _Key1_; does not apply to PivotTable sorting.|
+| _DataOption2_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in  _Key2_; does not apply to PivotTable sorting.|
+| _DataOption3_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in _Key3_; does not apply to PivotTable sorting.|
 
 ## Return value
 

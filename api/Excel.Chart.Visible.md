@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Visible property (Excel)
 
-Returns or sets an  **[XlSheetVisibility](Excel.XlSheetVisibility.md)** value that determines whether the object is visible.
+Returns or sets an **[XlSheetVisibility](Excel.XlSheetVisibility.md)** value that determines whether the object is visible.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Visible**
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

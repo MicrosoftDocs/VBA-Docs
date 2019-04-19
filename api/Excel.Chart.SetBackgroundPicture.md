@@ -26,15 +26,10 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the graphic file.|
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

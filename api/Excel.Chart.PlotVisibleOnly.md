@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.PlotVisibleOnly property (Excel)
 
- **True** if only visible cells are plotted. **False** if both visible and hidden cells are plotted. Read/write **Boolean**.
+**True** if only visible cells are plotted. **False** if both visible and hidden cells are plotted. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,15 +28,11 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 This example causes Microsoft Excel to plot only visible cells in Chart1.
 
-
 ```vb
 Charts("Chart1").PlotVisibleOnly = True
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

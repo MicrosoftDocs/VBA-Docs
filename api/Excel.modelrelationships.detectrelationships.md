@@ -27,7 +27,7 @@ _expression_ A variable that represents a 'ModelRelationships' object.
 
 
 |||||
-| _PivotTable_|Required|PIVOTTABLE|The pivot table in which to detect model relationships.|
+| _PivotTable_|Required|PIVOTTABLE|The PivotTable in which to detect model relationships.|
 
 ## Return value
 

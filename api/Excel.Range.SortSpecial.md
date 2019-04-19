@@ -34,9 +34,9 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 | _Key1_|Optional| **Variant**|The first sort field, as either text (a PivotTable field or range name) or a  **[Range](Excel.Range(object).md)** object ("Dept" or Cells(1, 1), for example).|
 | _Order1_|Optional| **[XlSortOrder](Excel.XlSortOrder.md)**|The sort order for the field or range specified in the  _Key1_ argument.|
 | _Type_|Optional| **Variant**|Specifies which elements are to be sorted. Use this argument only when sorting PivotTable reports.|
-| _Key2_|Optional| **Variant**|The second sort field, as either text (a PivotTable field or range name) or a  **Range** object. If you omit this argument, there?s no second sort field. Cannot be used when sorting PivotTable reports.|
+| _Key2_|Optional| **Variant**|The second sort field, as either text (a PivotTable field or range name) or a  **Range** object. If you omit this argument, there's no second sort field. Cannot be used when sorting PivotTable reports.|
 | _Order2_|Optional| **xlSortOrder**|The sort order for the field or range specified in the  _Key2_ argument. Cannot be used when sorting PivotTable reports.|
-| _Key3_|Optional| **Variant**|The third sort field, as either text (a range name) or a  **Range** object. If you omit this argument, there?s no third sort field. Cannot be used when sorting PivotTable reports.|
+| _Key3_|Optional| **Variant**|The third sort field, as either text (a range name) or a  **Range** object. If you omit this argument, there's no third sort field. Cannot be used when sorting PivotTable reports.|
 | _Order3_|Optional| **xlSortOrder**|The sort order for the field or range specified in the  _Key3_ argument. Cannot be used when sorting PivotTable reports.|
 | _Header_|Optional| **[XlYesNoGuess](Excel.XlYesNoGuess.md)**|Specifies whether or not the first row contains headers. Cannot be used when sorting PivotTable reports.|
 | _OrderCustom_|Optional| **Variant**|This argument is a one-based integer offset to the list of custom sort orders. If you omit  _OrderCustom_, (normal sort order) is used.|

@@ -41,7 +41,7 @@ PivotField
 
 ## Example
 
-This example adds a data field titled "Total Score" to a pivot table called "PivotTable1".
+This example adds a data field titled "Total Score" to a PivotTable called "PivotTable1".
 
 
  **Note**   This example assumes a table exists in which one of the columns contains a column titled "Score".

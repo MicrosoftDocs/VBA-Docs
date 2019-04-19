@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Chart.Shapes property (Excel)
 
-Returns a  **[Shapes](Excel.Shapes.md)** collection that represents all the shapes on the chart sheet. Read-only.
+Returns a **[Shapes](Excel.Shapes.md)** collection that represents all the shapes on the chart sheet. Read-only.
 
 
 ## Syntax
 
 _expression_.**Shapes**
 
- _expression_ An expression that returns a **[Chart](Excel.Chart(object).md)** object.
+_expression_ An expression that returns a **[Chart](Excel.Chart(object).md)** object.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

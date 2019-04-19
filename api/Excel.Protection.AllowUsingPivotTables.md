@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Protection.AllowUsingPivotTables property (Excel)
 
-Returns  **True** if the user is allowed to manipulate pivot tables on a protected worksheet. Read-only **Boolean**.
+Returns  **True** if the user is allowed to manipulate PivotTables on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ The  **AllowUsingPivotTables** property can be set by using the **[Protect](Exce
 
 ## Example
 
-This example allows the user to access the PivotTable report and notifies the user. It assumes a non-OLAP Pivot Table report exists on the active worksheet.
+This example allows the user to access the PivotTable report and notifies the user. It assumes a non-OLAP PivotTable report exists on the active worksheet.
 
 
 ```vb
@@ -41,12 +41,12 @@ Sub ProtectionOptions()
  
  ActiveSheet.Unprotect 
  
- ' Allow pivot tables to be manipulated on a protected worksheet. 
+ ' Allow PivotTables to be manipulated on a protected worksheet. 
  If ActiveSheet.Protection.Allow UsingPivotTables = False Then 
  ActiveSheet.Protect AllowUsingPivotTables:=True 
  End If 
  
- MsgBox "Pivot tables can be manipulated on the protected worksheet." 
+ MsgBox "PivotTables can be manipulated on the protected worksheet." 
  
 End Sub
 ```

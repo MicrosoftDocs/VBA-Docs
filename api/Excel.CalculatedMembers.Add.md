@@ -53,7 +53,7 @@ If you set the _Type_ argument of this method to **xlCalculatedSet**, you must c
 The following example adds a set to a PivotTable.
 
 > [!NOTE] 
-> Connection to the cube and existing pivot table is necessary for the sample to run.
+> Connection to the cube and existing PivotTable is necessary for the sample to run.
 
 ```vb
 Sub UseAddSet() 

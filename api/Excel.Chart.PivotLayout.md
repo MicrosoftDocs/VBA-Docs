@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.PivotLayout property (Excel)
 
-Returns a  **[PivotLayout](Excel.PivotLayout.md)** object that represents the placement of fields in a PivotTable report and the placement of axes in a PivotChart report. Read-only.
+Returns a **[PivotLayout](Excel.PivotLayout.md)** object that represents the placement of fields in a PivotTable report and the placement of axes in a PivotChart report. Read-only.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Remarks
 
-If the chart you specify isn't a PivotChart report, the value of this property is  **Nothing**.
+If the chart that you specify isn't a PivotChart report, the value of this property is **Nothing**.
 
 
 ## Example
 
 This example creates a list of all the PivotTable field names used in the first PivotChart report.
-
 
 ```vb
 Set objNewSheet = Worksheets.Add 
@@ -46,9 +45,6 @@ Next objPF
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

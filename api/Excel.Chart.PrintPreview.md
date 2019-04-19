@@ -26,25 +26,19 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EnableChanges_|Optional| **Variant**|Pass a  **Boolean** value to specify if the user can change the margins and other page setup options available in print preview.|
+| _EnableChanges_|Optional| **Variant**|Pass a **Boolean** value to specify if the user can change the margins and other page setup options available in print preview.|
 
 ## Example
 
 This example displays Sheet1 in print preview.
-
 
 ```vb
 Worksheets("Sheet1").PrintPreview
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

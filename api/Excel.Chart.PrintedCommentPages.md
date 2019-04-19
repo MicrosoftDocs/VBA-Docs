@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.PrintedCommentPages property (Excel)
 
-Returns the number of comment pages that will be printed for the current chart. Read-only
+Returns the number of comment pages that will be printed for the current chart. Read-only.
 
 
 ## Syntax
@@ -26,17 +26,14 @@ _expression_ A variable that returns a **[Chart](Excel.Chart(object).md)** objec
 
 ## Return value
 
- **Long**
+**Long**
 
 
 ## Remarks
 
-Because charts and chart sheets do not support comments, the  **PrintedCommentPages** property of the **Chart** object will always return zero.
+Because charts and chart sheets do not support comments, the **PrintedCommentPages** property of the **Chart** object will always return zero.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

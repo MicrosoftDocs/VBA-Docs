@@ -508,7 +508,7 @@ The better use you make of smart recalculation and multithreaded calculation in 
   - CUBEKPIMEMBER
   - CUBESETCOUNT
   - ADDRESS where the fifth parameter (the sheet_name) is given
-  - Any database function (DSUM, DAVERAGE, and so on) that refers to a pivot table
+  - Any database function (DSUM, DAVERAGE, and so on) that refers to a PivotTable
   - ERROR.TYPE
   - HYPERLINK
   - VBA and COM add-in user-defined functions

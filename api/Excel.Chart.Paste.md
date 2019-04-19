@@ -26,16 +26,13 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|Specifies the chart information to paste if a chart is on the Clipboard. Can be one of the following  **[XlPasteType](Excel.XlPasteType.md)** constants: **xlPasteFormats**, **xlPasteFormulas**, or **xlPasteAll**. The default value is **xlPasteAll**. If there?s data other than a chart on the Clipboard, this argument cannot be used.|
+| _Type_|Optional| **Variant**|Specifies the chart information to paste if a chart is on the Clipboard. Can be one of the following **[XlPasteType](Excel.XlPasteType.md)** constants: **xlPasteFormats**, **xlPasteFormulas**, or **xlPasteAll**. The default value is **xlPasteAll**. If there's data other than a chart on the Clipboard, this argument cannot be used.|
 
 ## Example
 
 This example pastes data from the range B1:B5 on Sheet1 into Chart1.
-
 
 ```vb
 Worksheets("Sheet1").Range("B1:B5").Copy 
@@ -43,9 +40,6 @@ Charts("Chart1").Paste
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
