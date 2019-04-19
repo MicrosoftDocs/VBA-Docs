@@ -19,7 +19,7 @@ Brings the shape or selected shapes to the front of the z-order.
 
 ## Syntax
 
-_expression_. `BringToFront`
+_expression_.**BringToFront**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

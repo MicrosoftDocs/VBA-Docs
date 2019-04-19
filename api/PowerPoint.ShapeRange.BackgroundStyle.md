@@ -21,7 +21,7 @@ Sets or returns the background style of the specified object. Read/write.
 
 _expression_. `BackgroundStyle`
 
- _expression_ An expression that returns a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ An expression that returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Remarks

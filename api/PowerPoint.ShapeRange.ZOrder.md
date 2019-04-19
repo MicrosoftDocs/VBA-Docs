@@ -21,7 +21,7 @@ Moves the specified shape range in front of or behind other shapes in the collec
 
 _expression_. `ZOrder`( `_ZOrderCmd_` )
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Parameters

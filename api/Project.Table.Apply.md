@@ -19,7 +19,7 @@ Applies the table to the current view.
 
 ## Syntax
 
-_expression_. `Apply`
+_expression_.**Apply**
 
  _expression_ An expression that returns a [Table](./Project.Table.md) object.
 

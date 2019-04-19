@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObject.Select
 ms.assetid: 76188499-f21b-40fd-f259-4cf3d5ab7716
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 

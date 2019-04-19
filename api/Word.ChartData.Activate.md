@@ -19,7 +19,7 @@ Activates the first window of the workbook associated with the chart.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
  _expression_ A variable that represents a '[ChartData](Word.ChartData.md)' object.
 

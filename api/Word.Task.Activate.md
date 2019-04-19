@@ -19,14 +19,12 @@ Activates the  **Task** object.
 
 ## Syntax
 
-_expression_. `Activate`( `_Wait_` )
+_expression_.**Activate** (_Wait_)
 
 _expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

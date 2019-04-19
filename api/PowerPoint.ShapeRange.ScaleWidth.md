@@ -21,7 +21,7 @@ Scales the width of the shapes in the range by a specified factor.
 
 _expression_. `ScaleWidth`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Parameters

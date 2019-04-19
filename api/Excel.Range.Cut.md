@@ -19,9 +19,9 @@ Cuts the object to the Clipboard or pastes it into a specified destination.
 
 ## Syntax
 
-_expression_. `Cut`( `_Destination_` )
+_expression_.**Cut** (_Destination_)
 
- _expression_ An expression that returns a **[Range](excel.range(object).md)** object.
+_expression_ An expression that returns a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters

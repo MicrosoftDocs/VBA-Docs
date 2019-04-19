@@ -21,7 +21,7 @@ Picks up all animation from the  **ShapeRange** object.
 
 _expression_. `PickupAnimation`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## See also

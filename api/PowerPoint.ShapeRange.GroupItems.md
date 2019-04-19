@@ -21,7 +21,7 @@ Returns a  **[GroupShapes](PowerPoint.GroupShapes.md)** object that represents t
 
 _expression_. `GroupItems`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

@@ -12,7 +12,7 @@ Cuts the shape range to the Clipboard.
 
 ## Syntax
 
-_expression_. `Cut`
+_expression_.**Cut**
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

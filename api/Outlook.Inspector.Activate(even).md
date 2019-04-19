@@ -19,7 +19,7 @@ Occurs when an inspector becomes the active window, either as a result of user a
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
 _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 

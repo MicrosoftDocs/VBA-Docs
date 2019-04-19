@@ -16,7 +16,7 @@ Specifies whether the specified shape range contains a narration. Read/write.
 
 _expression_. `IsNarration`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## See also

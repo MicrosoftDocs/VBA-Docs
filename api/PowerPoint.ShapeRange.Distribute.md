@@ -21,7 +21,7 @@ Evenly distributes the shapes in the specified range of shapes. You can specify 
 
 _expression_. `Distribute`( `_DistributeCmd_`, `_RelativeTo_` )
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Parameters

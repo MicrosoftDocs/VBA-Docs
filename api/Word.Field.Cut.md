@@ -19,7 +19,7 @@ Removes the specified field from the document and places it on the Clipboard.
 
 ## Syntax
 
-_expression_. `Cut`
+_expression_.**Cut**
 
 _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 

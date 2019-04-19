@@ -16,7 +16,7 @@ Activates the window, bringing the window to the front of the z-order.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

@@ -19,7 +19,7 @@ Applies the view to the Microsoft Outlook user interface.
 
 ## Syntax
 
-_expression_. `Apply`
+_expression_.**Apply**
 
 _expression_ A variable that represents a [View](Outlook.View.md) object.
 

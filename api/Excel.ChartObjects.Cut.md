@@ -19,7 +19,7 @@ Cuts the object to the Clipboard.
 
 ## Syntax
 
-_expression_. `Cut`
+_expression_.**Cut**
 
 _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md)** object.
 

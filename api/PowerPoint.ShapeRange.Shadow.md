@@ -21,7 +21,7 @@ Returns a  **[ShadowFormat](PowerPoint.ShadowFormat.md)** object that contains s
 
 _expression_.**Shadow**
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Example

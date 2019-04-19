@@ -19,7 +19,7 @@ Duplicates a selection.
 
 ## Syntax
 
-_expression_. `Duplicate`
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

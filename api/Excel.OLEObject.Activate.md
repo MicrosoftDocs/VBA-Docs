@@ -19,7 +19,7 @@ Activates the object.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
 _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 

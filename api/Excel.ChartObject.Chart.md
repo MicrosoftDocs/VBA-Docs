@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObject.Chart
 ms.assetid: 99adb730-fc7b-1033-03e0-aebc82d95814
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Returns a  **[Chart](Excel.Chart(object).md)** object that represents the chart 
 
 ## Syntax
 
-_expression_. `Chart`
+_expression_.**Chart**
 
 _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 

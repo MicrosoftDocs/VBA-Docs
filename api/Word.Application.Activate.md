@@ -19,7 +19,7 @@ Activates the specified object.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
 _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

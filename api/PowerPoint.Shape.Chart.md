@@ -19,7 +19,7 @@ Returns a  **Chart** object of the current **Shape** object. Read-only.
 
 ## Syntax
 
-_expression_. `Chart`
+_expression_.**Chart**
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

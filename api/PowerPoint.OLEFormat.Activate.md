@@ -19,7 +19,7 @@ Activates the specified object.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
  _expression_ A variable that represents an [OLEFormat](./PowerPoint.OLEFormat.md) object.
 

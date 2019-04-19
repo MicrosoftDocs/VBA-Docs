@@ -19,7 +19,7 @@ Duplicates the object and returns a reference to the new copy.
 
 ## Syntax
 
-_expression_. `Duplicate`
+_expression_.**Duplicate**
 
 _expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 

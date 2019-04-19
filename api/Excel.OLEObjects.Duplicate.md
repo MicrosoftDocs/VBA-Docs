@@ -19,7 +19,7 @@ Duplicates the object and returns a reference to the new copy.
 
 ## Syntax
 
-_expression_. `Duplicate`
+_expression_.**Duplicate**
 
 _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 

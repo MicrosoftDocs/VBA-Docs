@@ -21,7 +21,7 @@ Returns a  **[PictureFormat](PowerPoint.PictureFormat.md)** object that contains
 
 _expression_. `PictureFormat`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

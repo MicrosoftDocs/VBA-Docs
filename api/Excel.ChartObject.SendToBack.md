@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObject.SendToBack
 ms.assetid: a8f0f721-15ba-662f-ac17-0ac1657e3413
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Sends the object to the back of the z-order.
 
 ## Syntax
 
-_expression_. `SendToBack`
+_expression_.**SendToBack**
 
 _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 

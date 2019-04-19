@@ -19,7 +19,7 @@ Activates the specified document so that it becomes the active document.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

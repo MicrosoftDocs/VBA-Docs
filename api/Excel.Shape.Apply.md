@@ -19,7 +19,7 @@ Applies to the specified shape formatting that's been copied by using the  **[Pi
 
 ## Syntax
 
-_expression_. `Apply`
+_expression_.**Apply**
 
 _expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 

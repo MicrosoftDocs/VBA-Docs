@@ -21,7 +21,7 @@ Returns whether the specified shape is flipped around the horizontal axis. Read-
 
 _expression_. `HorizontalFlip`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

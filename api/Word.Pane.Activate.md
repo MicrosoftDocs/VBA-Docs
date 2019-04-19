@@ -19,7 +19,7 @@ Activates the specified pane.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
 _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 

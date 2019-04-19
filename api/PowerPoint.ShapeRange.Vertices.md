@@ -21,7 +21,7 @@ Returns the coordinates of the specified freeform drawing's vertices (and contro
 
 _expression_. `Vertices`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

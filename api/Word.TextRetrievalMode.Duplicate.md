@@ -19,7 +19,7 @@ Returns a read-only  **TextRetrievalMode** object that represents options relate
 
 ## Syntax
 
-_expression_. `Duplicate`
+_expression_.**Duplicate**
 
 _expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 

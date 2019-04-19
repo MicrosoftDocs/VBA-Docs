@@ -19,7 +19,7 @@ Copies the selected object to the Clipboard as a picture.  **Variant**.
 
 ## Syntax
 
-_expression_. `CopyPicture`( `_Appearance_` , `_Format_` )
+_expression_.**CopyPicture** (_Appearance_, _Format_)
 
 _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 

@@ -19,7 +19,7 @@ Replaces a range with the value of the specified AutoCorrect entry.
 
 ## Syntax
 
-_expression_. `Apply`( `_Range_` )
+_expression_.**Apply** (_Range_)
 
 _expression_ Required. A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 
