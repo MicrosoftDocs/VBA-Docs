@@ -36,6 +36,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 | _PrintToFile_|Optional| **Variant**| **True** to print to a file. If _PrToFileName_ is not specified, Excel prompts the user to enter the name of the output file.|
 | _Collate_|Optional| **Variant**| **True** to collate multiple copies.|
 | _PrToFileName_|Optional| **Variant**|If _PrintToFile_ is set to **True**, this argument specifies the name of the file that you want to print to.|
+| _IgnorePrintAreas_|Optional| **Variant**| **True** to ignore print areas and print the entire object.|
 
 ## Return value
 
