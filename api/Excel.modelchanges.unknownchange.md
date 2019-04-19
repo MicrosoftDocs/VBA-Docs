@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ModelChanges.UnknownChange property (Excel)
 
- **True** when a non-specified change was made to the model as part of a model transaction. **Boolean** Read-only
+ **True** when a non-specified change was made to the model as part of a model transaction. Read-only **Boolean**.
 
 
 ## Syntax

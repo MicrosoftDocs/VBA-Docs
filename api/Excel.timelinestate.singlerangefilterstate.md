@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TimelineState.SingleRangeFilterState property (Excel)
 
- **True** when the filtering state is a contiguous date range; **False** otherwise. **Boolean** Read-only
+ **True** when the filtering state is a contiguous date range; **False** otherwise. Read-only **Boolean**.
 
 
 ## Syntax

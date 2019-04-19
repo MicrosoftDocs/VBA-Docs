@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # WorkbookConnection.InModel property (Excel)
 
-Specifies whether or not the [WorkbookConnection](Excel.WorkbookConnection.md) has been added to the model. **Boolean** Read-only
+Specifies whether or not the [WorkbookConnection](Excel.WorkbookConnection.md) has been added to the model. Read-only **Boolean**.
 
 
 ## Syntax

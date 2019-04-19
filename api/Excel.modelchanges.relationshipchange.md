@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ModelChanges.RelationshipChange property (Excel)
 
- When **True**, one or more relationships in the model were changed (added, deleted or modified) as part of a model operation. When **False**, no relationships were changed during the operation. **Boolean** Read-only.
+ When **True**, one or more relationships in the model were changed (added, deleted or modified) as part of a model operation. When **False**, no relationships were changed during the operation. Read-only **Boolean**.
 
 
 ## Syntax
