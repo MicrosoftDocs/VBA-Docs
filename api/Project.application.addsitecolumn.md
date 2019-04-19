@@ -29,7 +29,7 @@ _expression_. `AddSiteColumn` _(ProjectField_,  _SharePointName)_
 | _ProjectField_|Optional|**[PjField](Project.PjField.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
 | _SharePointName_|Optional|**Variant**|The name of the new column.|
 | _ProjectField_|Optional|PJFIELD||
-| _SharePointName_|Optional|VARIANT||
+| _SharePointName_|Optional|**Variant**||
 |Name|Required/Optional|Data type|Description|
 
 ## Return value

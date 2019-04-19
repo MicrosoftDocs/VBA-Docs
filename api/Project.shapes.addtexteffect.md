@@ -32,8 +32,8 @@ _expression_. `AddTextEffect` _(PresetTextEffect,_ _Text,_ _FontName,_ _FontSize
 | _Left_|Required|**Single**|The position, in points, of the left edge of the WordArt shape relative to the left edge of the report.|
 | _Top_|Required|**Single**|The position, in points, of the top edge of the WordArt shape relative to the top edge of the report.|
 | _PresetTextEffect_|Required|MSOPRESETTEXTEFFECT||
-| _Text_|Required|STRING||
-| _FontName_|Required|STRING||
+| _Text_|Required|**String**||
+| _FontName_|Required|**String**||
 | _FontSize_|Required|FLOAT||
 | _FontBold_|Required|MSOTRISTATE||
 | _FontItalic_|Required|MSOTRISTATE||

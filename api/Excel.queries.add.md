@@ -26,9 +26,9 @@ _expression_ A variable that represents a 'Queries' object.
 
 
 
-| _Name_|Required|STRING|The name of the query.|
-| _Formula_|Required|STRING|The Power Query M formula for the new query.|
-| _Description_|Optional|VARIANT|The description of the query.|
+| _Name_|Required|**String**|The name of the query.|
+| _Formula_|Required|**String**|The Power Query M formula for the new query.|
+| _Description_|Optional|**Variant**|The description of the query.|
 
 ## Return value
 

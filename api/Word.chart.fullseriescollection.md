@@ -29,9 +29,9 @@ _expression_.**FullSeriesCollection** (_Index_)
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _Index_|Optional|VARIANT|The index number in the series collection of the series to return.|
+| _Index_|Optional|**Variant**|The index number in the series collection of the series to return.|
 |||||
-| _Index_|Optional|VARIANT||
+| _Index_|Optional|**Variant**||
 
 ## Return value
 

@@ -28,8 +28,8 @@ _expression_. `ZoomReport` _(Percent,_ _Entire)_
 |:-----|:-----|:-----|:-----|
 | _Percent_|Optional|**Variant**|The percent of the original size.|
 | _Entire_|Optional|**Variant**|The  _Entire_ parameter has no effect.|
-| _Percent_|Optional|VARIANT||
-| _Entire_|Optional|VARIANT||
+| _Percent_|Optional|**Variant**||
+| _Entire_|Optional|**Variant**||
 |Name|Required/Optional|Data type|Description|
 
 ## Return value

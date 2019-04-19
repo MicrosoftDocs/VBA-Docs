@@ -16,9 +16,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `VaryByCategories`
+_expression_.**VaryByCategories**
 
-_expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Remarks

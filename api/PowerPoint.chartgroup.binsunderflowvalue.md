@@ -17,7 +17,7 @@ If [ChartGroup.BinsUnderflowEnabled property (PowerPoint)](PowerPoint.chartgroup
 
 ## Syntax
 
-_expression_. `BinsUnderflowValue`
+_expression_.**BinsUnderflowValue**
 
 _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
 

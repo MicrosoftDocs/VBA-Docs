@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Has3DShading`
+_expression_.**Has3DShading**
 
- _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 
 
 ## Remarks

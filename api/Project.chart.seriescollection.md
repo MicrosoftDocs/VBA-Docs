@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Variant**|The name or index number of the series. If  _Index_ is not specified, the **SeriesCollection** method returns all of the series in the chart.|
-| _Index_|Optional|VARIANT||
+| _Index_|Optional|**Variant**||
 
 ## Return value
 

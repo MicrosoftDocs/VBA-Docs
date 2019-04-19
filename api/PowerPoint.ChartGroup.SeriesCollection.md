@@ -18,7 +18,7 @@ Returns all the series in the chart group.
 
 _expression_.**SeriesCollection** (_Index_)
 
-_expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Return value

@@ -28,9 +28,9 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|STRING|String representing the number you want to convert.|
-| _Arg2_|Required|STRING|Character used as the decimal separator in the string.|
-| _Arg3_|Required|STRING|Character used as the group separator in the string.|
+| _Arg1_|Required|**String**|String representing the number you want to convert.|
+| _Arg2_|Required|**String**|Character used as the decimal separator in the string.|
+| _Arg3_|Required|**String**|Character used as the group separator in the string.|
 
 ## Return value
 

@@ -27,12 +27,12 @@ _expression_. `InsertChartField`_(ChartFieldType,_ _Formula,_ _Position)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ChartFieldType_|Required|[MsoChartFieldType](overview/Library-Reference/msochartfieldtype-enumeration-office.md)|Specifies the type of chart field to insert into a data label.|
-| _Formula_|Optional|**string**|Specifies a cell (or range) if the  **MsoChartFieldFormula** constant is passed in for the _ChartFieldType_ parameter.|
-| _Position_|Optional|**integer**|Specifies the character position where the chart field is inserted. The default is to append the field to the end of the text. If the position value is out of range, the default is used.|
+| _Formula_|Optional|**String**|Specifies a cell (or range) if the  **MsoChartFieldFormula** constant is passed in for the _ChartFieldType_ parameter.|
+| _Position_|Optional|**Integer**|Specifies the character position where the chart field is inserted. The default is to append the field to the end of the text. If the position value is out of range, the default is used.|
 | _ChartFieldType_|Required|MSOCHARTFIELDTYPE||
-| _Formula_|Optional|STRING||
+| _Formula_|Optional|**String**||
 | _Position_|Optional|INT||
-|Name|Required/Optional|Data type|Description|
+
 
 ## Return value
 

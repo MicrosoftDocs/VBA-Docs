@@ -28,8 +28,8 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|VARIANT|start_date(Arg2) and end_date (Arg1) are the two dates between which you want to know the number of days.|
-| _Arg2_|Required|VARIANT|start_date(Arg2) and end_date (Arg1) are the two dates between which you want to know the number of days.|
+| _Arg1_|Required|**Variant**|start_date(Arg2) and end_date (Arg1) are the two dates between which you want to know the number of days.|
+| _Arg2_|Required|**Variant**|start_date(Arg2) and end_date (Arg1) are the two dates between which you want to know the number of days.|
 
 ## Return value
 

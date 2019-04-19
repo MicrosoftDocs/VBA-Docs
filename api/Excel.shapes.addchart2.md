@@ -28,13 +28,13 @@ _expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Optional|VARIANT|The chart style. Use "-1" to get the default style for the chart type specified in  **xlChartType**. |
-| _XlChartType_|Optional|VARIANT|The type of chart.|
-| _Left_|Optional|VARIANT|The position, in points, of the left edge of the chart, relative to the anchor.|
-| _Top_|Optional|VARIANT|The position, in points, of the top edge of the chart, relative to the anchor.|
-| _Width_|Optional|VARIANT|The width, in points, of the chart.|
-| _Height_|Optional|VARIANT|The height, in points, of the chart.|
-| _NewLayout_|Optional|VARIANT|If  **NewLayout** is **True**, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
+| _Style_|Optional|**Variant**|The chart style. Use "-1" to get the default style for the chart type specified in  **xlChartType**. |
+| _XlChartType_|Optional|**Variant**|The type of chart.|
+| _Left_|Optional|**Variant**|The position, in points, of the left edge of the chart, relative to the anchor.|
+| _Top_|Optional|**Variant**|The position, in points, of the top edge of the chart, relative to the anchor.|
+| _Width_|Optional|**Variant**|The width, in points, of the chart.|
+| _Height_|Optional|**Variant**|The height, in points, of the chart.|
+| _NewLayout_|Optional|**Variant**|If  **NewLayout** is **True**, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
 
 ## Return value
 

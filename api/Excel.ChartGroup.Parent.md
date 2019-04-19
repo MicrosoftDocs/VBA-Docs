@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartGroup.Parent
 ms.assetid: ab6946c9-2e0b-90ed-14ad-1f4f3a954b83
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object).md)** object.
 
 
-## See also
 
-
-[ChartGroup Object](Excel.ChartGroup(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

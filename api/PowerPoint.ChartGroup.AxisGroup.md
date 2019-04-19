@@ -21,7 +21,7 @@ Returns the type of axis group. Read/write  **[XlAxisGroup](PowerPoint.XlAxisGro
 
 _expression_.**AxisGroup**
 
-_expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## See also

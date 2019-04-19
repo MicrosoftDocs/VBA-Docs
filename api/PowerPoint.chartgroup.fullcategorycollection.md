@@ -29,7 +29,7 @@ _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Variant**|The index number in the full category collection of the category to return.|
-| _Index_|Optional|VARIANT||
+| _Index_|Optional|**Variant**||
 
 ## Return value
 

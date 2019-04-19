@@ -26,7 +26,7 @@ _expression_.**Add**_(Text)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _Text_|Required|STRING|The text of the comment to add.|
+| _Text_|Required|**String**|The text of the comment to add.|
 
 ## Return value
 

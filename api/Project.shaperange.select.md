@@ -24,7 +24,7 @@ _expression_.**Select** _(Replace)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Replace_|Optional|**Variant**|**True** replaces the current selection with the new selection. **False** adds the new selection to the current selection. The default value is **True**.|
-| _Replace_|Optional|VARIANT||
+| _Replace_|Optional|**Variant**||
 
 ## Return value
 

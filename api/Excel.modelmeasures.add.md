@@ -27,11 +27,11 @@ _expression_ A variable that represents a 'ModelMeasures' object.
 
 
 |||||
-| _MeasureName_|Required|STRING|The name of the model measure.|
+| _MeasureName_|Required|**String**|The name of the model measure.|
 | _AssociatedTable_|Required|MODELTABLE|The model table associated with the model measure. This is the table that contains the model measure, as seen in the  **Field List** task pane.|
-| _Formula_|Required|STRING|The Data Analysis Expressions (DAX) formula, inserted as a string.|
-| _FormatInformation_|Required|VARIANT|The formatting of the model measure. See Remarks. |
-| _Description_|Optional|VARIANT|The description associated with the model measure.|
+| _Formula_|Required|**String**|The Data Analysis Expressions (DAX) formula, inserted as a string.|
+| _FormatInformation_|Required|**Variant**|The formatting of the model measure. See Remarks. |
+| _Description_|Optional|**Variant**|The description associated with the model measure.|
 
 ## Return value
 

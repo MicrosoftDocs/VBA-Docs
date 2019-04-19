@@ -30,7 +30,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The number that you want to convert.|
 | _Arg2_|Required|DOUBLE|The base Radix that you want to convert the number into.|
-| _Arg3_|Optional|VARIANT|The minimum length of the returned string. If omitted leading zeros are not added.|
+| _Arg3_|Optional|**Variant**|The minimum length of the returned string. If omitted leading zeros are not added.|
 
 ## Return value
 

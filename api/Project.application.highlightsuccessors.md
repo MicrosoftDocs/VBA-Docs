@@ -27,7 +27,7 @@ _expression_. `HighlightSuccessors` _(Set)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|**True** to set task successor highlighting; **False** to clear task successor highlighting.|
-| _Set_|Optional|VARIANT||
+| _Set_|Optional|**Variant**||
 |Name|Required/Optional|Data type|Description|
 
 ## Return value

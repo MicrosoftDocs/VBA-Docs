@@ -19,9 +19,9 @@ Specifies how bars and columns are positioned. Read/write  **Long**.
 
 ## Syntax
 
-_expression_. `Overlap`
+_expression_.**Overlap**
 
-_expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Remarks

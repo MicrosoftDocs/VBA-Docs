@@ -19,9 +19,9 @@ Returns or sets the size, as a percentage of the primary pie, of the secondary s
 
 ## Syntax
 
-_expression_. `SecondPlotSize`
+_expression_.**SecondPlotSize**
 
- _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 
 
 ## Remarks

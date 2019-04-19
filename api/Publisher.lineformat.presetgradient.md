@@ -27,7 +27,7 @@ _expression_.**PresetGradient**(Style, Style, Variant, PresetGradientType)
 |:-----|:-----|:-----|:-----|
 |||||
 |Style|Required|MSOGRADIENTSTYLE||
-|Variant|Required|INT||
+|**Variant**|Required|INT||
 |PresetGradientType|Required|MSOPRESETGRADIENTTYPE||
 |Name|Required/Optional|Data type|Description|
 

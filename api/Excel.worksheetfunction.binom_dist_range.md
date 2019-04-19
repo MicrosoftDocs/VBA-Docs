@@ -31,7 +31,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 | _Arg1_|Required|DOUBLE|The number of independent trials.|
 | _Arg2_|Required|DOUBLE|The probability of success on each trial.|
 | _Arg3_|Required|DOUBLE|The number of successes in trials.|
-| _Arg4_|Optional|VARIANT|If provided, this function returns the probability that the number of successful trials shall lie between Arg3 and Arg4.|
+| _Arg4_|Optional|**Variant**|If provided, this function returns the probability that the number of successful trials shall lie between Arg3 and Arg4.|
 
 ## Return value
 

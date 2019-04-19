@@ -29,7 +29,7 @@ _expression_. `Start`_(serverUrl)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _serverUrl_|Required|STRING|The URL of the broadcast server.|
+| _serverUrl_|Required|**String**|The URL of the broadcast server.|
 
 ## Return value
 

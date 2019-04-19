@@ -29,7 +29,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Date-time code used by Microsoft Excel for date and time calculation.|
-| _Arg2_|Optional|VARIANT|This argument is not available in the function.|
+| _Arg2_|Optional|**Variant**|This argument is not available in the function.|
 
 ## Return value
 

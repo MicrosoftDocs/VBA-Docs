@@ -28,8 +28,8 @@ _expression_. `ApplyReport` _(Name,_ _ApplyTo)_
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the report.|
 | _ApplyTo_|Optional|**Variant**|The  _ApplyTo_ parameter is not used in Project.|
-| _Name_|Optional|VARIANT||
-| _ApplyTo_|Optional|VARIANT||
+| _Name_|Optional|**Variant**||
+| _ApplyTo_|Optional|**Variant**||
 
 ## Return value
 

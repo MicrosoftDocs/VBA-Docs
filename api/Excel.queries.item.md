@@ -27,7 +27,7 @@ _expression_ A variable that represents a 'Queries' object.
 
 
 |||||
-| _NameOrIndex_|Required|VARIANT|The name or index number of the item.|
+| _NameOrIndex_|Required|**Variant**|The name or index number of the item.|
 
 ## Return value
 

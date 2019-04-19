@@ -28,8 +28,8 @@ _expression_ A variable that represents a object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|STRING|Valid xml string.|
-| _Arg2_|Required|STRING|XPath query string.|
+| _Arg1_|Required|**String**|Valid xml string.|
+| _Arg2_|Required|**String**|XPath query string.|
 
 ### Remarks
 

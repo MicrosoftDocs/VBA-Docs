@@ -24,7 +24,7 @@ _expression_. `Item` _(Index)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
-| _Index_|Required|VARIANT||
+| _Index_|Required|**Variant**||
 
 ## Return value
 

@@ -28,10 +28,10 @@ _expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Before_|Optional|VARIANT|An object that specifies the sheet before which the new sheet is added.|
-| _After_|Optional|VARIANT|An object that specifies the sheet after which the new sheet is added.|
-| _Count_|Optional|VARIANT|The number of sheets to be added. The default value is one.|
-| _NewLayout_|Optional|VARIANT||
+| _Before_|Optional|**Variant**|An object that specifies the sheet before which the new sheet is added.|
+| _After_|Optional|**Variant**|An object that specifies the sheet after which the new sheet is added.|
+| _Count_|Optional|**Variant**|The number of sheets to be added. The default value is one.|
+| _NewLayout_|Optional|**Variant**||
 
 ## Return value
 

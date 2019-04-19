@@ -29,7 +29,7 @@ _expression_ A variable that represents a [Application](./PowerPoint.Application
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _themeFileName_|Required|**String**|The path of the theme file (*.thmx) to open.|
-| _themeFileName_|Required|STRING||
+| _themeFileName_|Required|**String**||
 
 ## Return value
 

@@ -28,7 +28,7 @@ _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|VARIANT|The index number of the data label to propagate.|
+| _Index_|Required|**Variant**|The index number of the data label to propagate.|
 
 ### Remarks
 

@@ -29,8 +29,8 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The value you want to round.|
-| _Arg2_|Optional|VARIANT|The multiple to which you want to round.|
-| _Arg3_|Optional|VARIANT|When given a nonzero number, this function will round towards zero.|
+| _Arg2_|Optional|**Variant**|The multiple to which you want to round.|
+| _Arg3_|Optional|**Variant**|When given a nonzero number, this function will round towards zero.|
 
 ## Return value
 

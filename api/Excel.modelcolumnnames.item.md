@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ModelColumnNames](Excel.modelcolumn
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|VARIANT|The index number or name for the object.|
+| _Index_|Required|**Variant**|The index number or name for the object.|
 
 ## Return value
 

@@ -31,8 +31,8 @@ _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md)
 |||||
 | _notesUrl_|Required|**String**|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 rich client.|
 | _notesWacUrl_|Required|**String**|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 web access client.|
-| _notesUrl_|Required|STRING||
-| _notesWacUrl_|Required|STRING||
+| _notesUrl_|Required|**String**||
+| _notesWacUrl_|Required|**String**||
 
 ## Return value
 

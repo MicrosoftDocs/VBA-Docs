@@ -28,11 +28,11 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 |||||
 | _Arg1_|Required|DOUBLE|Target Date: the data point for which you want to predict a value. Target date can be date/time or numeric. See Remarks.|
-| _Arg2_|Required|VARIANT|Values: the historical values, for which you want to forecast the next points.|
-| _Arg3_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
-| _Arg4_|Optional|VARIANT|Seasonality: A numeric value. See Remarks.|
-| _Arg5_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points,  **Forecast_ETS** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
-| _Arg6_|Optional|VARIANT|Aggregation: Although the timeline requires a constant step between data points,  **Forecast_ETS** aggregates multiple points that have the same time stamp. See Remarks.|
+| _Arg2_|Required|**Variant**|Values: the historical values, for which you want to forecast the next points.|
+| _Arg3_|Required|**Variant**|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
+| _Arg4_|Optional|**Variant**|Seasonality: A numeric value. See Remarks.|
+| _Arg5_|Optional|**Variant**|Data completions: Although the timeline requires a constant step between data points,  **Forecast_ETS** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
+| _Arg6_|Optional|**Variant**|Aggregation: Although the timeline requires a constant step between data points,  **Forecast_ETS** aggregates multiple points that have the same time stamp. See Remarks.|
 
 ## Return value
 

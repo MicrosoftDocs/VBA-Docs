@@ -17,7 +17,7 @@ Specifies whether a bin for values above the [ChartGroup.BinsOverflowValue prope
 
 ## Syntax
 
-_expression_. `BinsOverflowEnabled`
+_expression_.**BinsOverflowEnabled**
 
 _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
 

@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[DataFeedConnection](Excel.datafeedc
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ODCFileName_|Required|STRING|Location to save the file.|
-| _Description_|Optional|VARIANT|Description that will be saved in the file.|
-| _Keywords_|Optional|VARIANT|Space-separated keywords that can be used to search for this file.|
+| _ODCFileName_|Required|**String**|Location to save the file.|
+| _Description_|Optional|**Variant**|Description that will be saved in the file.|
+| _Keywords_|Optional|**Variant**|Space-separated keywords that can be used to search for this file.|
 
 ## Example
 

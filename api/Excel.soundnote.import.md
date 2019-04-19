@@ -29,7 +29,7 @@ _expression_ A variable that represents a **SoundNote** object.
 
 |Name|Required/Optional|Data type|Description|
 |:---|:---|:---|:---|
-| _FileName_|Required|STRING|The file name of the sound note to import.|
+| _FileName_|Required|**String**|The file name of the sound note to import.|
 
 
 

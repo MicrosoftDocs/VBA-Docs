@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 | **Name**| **Value**| **Description**|
-| _GroupSmtpAddress_|String|Smtp address of the group.|
+| _GroupSmtpAddress_|**String**|Smtp address of the group.|
 
 ## Return value
 

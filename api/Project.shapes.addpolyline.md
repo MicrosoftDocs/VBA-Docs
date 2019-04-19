@@ -24,7 +24,7 @@ _expression_. `AddPolyline` _(SafeArrayOfPoints)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the vertices of the polyline.|
-| _SafeArrayOfPoints_|Required|VARIANT||
+| _SafeArrayOfPoints_|Required|**Variant**||
 |Name|Required/Optional|Data type|Description|
 
 ## Return value

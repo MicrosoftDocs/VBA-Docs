@@ -29,12 +29,12 @@ The  **CreateUnifiedGroup** method takes the following parameters:
 
 
 | **Name**| **Data Type**| **Description**|
-| **Name**|String|Name of the group.|
-| **Alias**|String|Alias of the group.|
-| **Description**|String|Description of the group.|
+| **Name**|**String**|Name of the group.|
+| **Alias**|**String**|Alias of the group.|
+| **Description**|**String**|Description of the group.|
 | **FAutoSubscribeMembers**|Boolean|Subscribed members of the group.|
 | **GroupType**|OLUNIFIEDGROUPTYPE|Type of group: private or public.|
-| **GroupSmtpAddress**|String|Smtp address for the group.|
+| **GroupSmtpAddress**|**String**|Smtp address for the group.|
 
 A call to the  **CreateUnifiedGroup** method fails when: 1) the system is not online, 2) the alias already provided by the user, or 3) a server error occurs.
 

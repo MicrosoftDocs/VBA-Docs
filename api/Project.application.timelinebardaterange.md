@@ -29,9 +29,9 @@ _expression_. `TimelineBarDateRange`(  _CustomDates_,  _StartDate_,  _FinishDate
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CustomDates_|Optional|Boolean|Indicates if the timeline bar should use custom dates. If true, and the start and finish values are not specified, uses the current project's start and finish dates. If false, ignores any of the other values.|
-| _StartValue_|Optional|Variant|Start date.|
-| _FinishValue_|Optional|Variant|Finish date.|
-| _TimelineViewName_|Optional|String|Specifies the name of a timeline to use. The name can be the built-in timeline or an existing custom timeline such as "My Timeline". The default value is the name of the active timeline.|
+| _StartValue_|Optional|**Variant**|Start date.|
+| _FinishValue_|Optional|**Variant**|Finish date.|
+| _TimelineViewName_|Optional|**String**|Specifies the name of a timeline to use. The name can be the built-in timeline or an existing custom timeline such as "My Timeline". The default value is the name of the active timeline.|
 
 ## Return value
 

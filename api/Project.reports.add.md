@@ -24,7 +24,7 @@ _expression_.**Add** _(Name)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the report.|
-| _Name_|Required|STRING||
+| _Name_|Required|**String**||
 
 ## Return value
 

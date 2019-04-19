@@ -24,7 +24,7 @@ _expression_.**Range** (_Index_)
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Specifies one or more shapes to be included in the range. Can be an integer for the index number of a shape, a string for the name of a shape, or an array that contains either integers or strings.|
-| _Index_|Required|VARIANT||
+| _Index_|Required|**Variant**||
 |Name|Required/Optional|Data type|Description|
 
 ## Return value

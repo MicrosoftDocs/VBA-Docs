@@ -28,7 +28,7 @@ _expression_ A variable that represents a [ModelTables](Excel.modeltables.md) ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|VARIANT|The index number or name of the object.|
+| _Index_|Required|**Variant**|The index number or name of the object.|
 
 ## Return value
 

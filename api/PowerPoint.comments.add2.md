@@ -37,11 +37,11 @@ _expression_ A variable that represents a [Comments](./PowerPoint.Comments.md) o
 | _UserID_|Required|**String**|The ID of the user providing the comment.|
 | _Left_|Required|FLOAT||
 | _Top_|Required|FLOAT||
-| _Author_|Required|STRING||
-| _AuthorInitials_|Required|STRING||
-| _Text_|Required|STRING||
-| _ProviderID_|Required|STRING||
-| _UserID_|Required|STRING||
+| _Author_|Required|**String**||
+| _AuthorInitials_|Required|**String**||
+| _Text_|Required|**String**||
+| _ProviderID_|Required|**String**||
+| _UserID_|Required|**String**||
 
 ## Return value
 

@@ -19,9 +19,9 @@ For bar and column charts, returns or sets the space, as a percentage of the bar
 
 ## Syntax
 
-_expression_. `GapWidth`
+_expression_.**GapWidth**
 
- _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 
 
 ## Remarks
