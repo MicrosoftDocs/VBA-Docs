@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartArea.Parent
 ms.assetid: 61b456e7-7bba-2b71-4681-7e548248a512
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[ChartArea](Excel.ChartArea(object).md)** object.
 
 
-## See also
 
-
-[ChartArea Object](Excel.ChartArea(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
