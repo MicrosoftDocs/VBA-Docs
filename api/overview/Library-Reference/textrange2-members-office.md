@@ -42,10 +42,10 @@ Represents the text frame in a **Shape** or **ShapeRange** object.
 |Name|Description|
 |:-----|:-----|
 |[Application](../../Office.TextRange2.Application.md)|Used without an object qualifier, this property returns an **Application** object that represents the current instance of the Microsoft Office application. Used with an object qualifier, this property returns an **Application** object that represents the creator of the **TextRange2** object. When used with an OLE **Automation** object, it returns the object's application. Read-only.|
-|[BoundHeight](../../Office.TextRange2.BoundHeight.md)|Gets the height, in [points](../language/glossary/vbe-glossary.md#point), of the text bounding box for the specified text. Read-only.|
-|[BoundLeft](../../Office.TextRange2.BoundLeft.md)|Gets the left coordinate, in [points](../language/glossary/vbe-glossary.md#point), of the text bounding box for the specified text. Read-only.|
-|[BoundTop](../../Office.TextRange2.BoundTop.md)|Gets the top coordinate, in [points](../language/glossary/vbe-glossary.md#point), of the text bounding box for the specified text. Read-only.|
-|[BoundWidth](../../Office.TextRange2.BoundWidth.md)|Gets the width, in [points](../language/glossary/vbe-glossary.md#point), of the text bounding box for the specified text. Read-only.|
+|[BoundHeight](../../Office.TextRange2.BoundHeight.md)|Gets the height, in points, of the text bounding box for the specified text. Read-only.|
+|[BoundLeft](../../Office.TextRange2.BoundLeft.md)|Gets the left coordinate, in points, of the text bounding box for the specified text. Read-only.|
+|[BoundTop](../../Office.TextRange2.BoundTop.md)|Gets the top coordinate, in points, of the text bounding box for the specified text. Read-only.|
+|[BoundWidth](../../Office.TextRange2.BoundWidth.md)|Gets the width, in points, of the text bounding box for the specified text. Read-only.|
 |[Characters](../../Office.TextRange2.Characters.md)|Read-only.|
 |[Count](../../Office.TextRange2.Count.md)|Gets a **Long** indicating the number of items in the **TextRange2** collection. Read-only.|
 |[Creator](../../Office.TextRange2.Creator.md)|Gets a 32-bit integer that indicates the application in which the **TextRange2** object was created. Read-only.|
