@@ -24,10 +24,10 @@ _expression_. `AddShape` _(Type,_ _Left,_ _Top,_ _Width,_ _Height)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**MsoAutoShapeType**|Specifies the type of AutoShape to create.|
-| _Left_|Required|**Single**|The position, in points, of the left edge of the AutoShape.|
-| _Top_|Required|**Single**|The position, in points, of the top edge of the AutoShape.|
-| _Width_|Required|**Single**|The width, in points, of the AutoShape.|
-| _Height_|Required|**Single**|The height, in points, of the AutoShape.|
+| _Left_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the AutoShape.|
+| _Top_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the AutoShape.|
+| _Width_|Required|**Single**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the AutoShape.|
+| _Height_|Required|**Single**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the AutoShape.|
 | _Type_|Required|MSOAUTOSHAPETYPE||
 | _Left_|Required|FLOAT||
 | _Top_|Required|FLOAT||

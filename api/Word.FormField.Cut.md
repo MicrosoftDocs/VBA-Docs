@@ -19,7 +19,7 @@ Removes the specified form field from the document and places it on the Clipboar
 
 ## Syntax
 
-_expression_. `Cut`
+_expression_.**Cut**
 
 _expression_ Required. A variable that represents a '[FormField](Word.FormField.md)' object.
 

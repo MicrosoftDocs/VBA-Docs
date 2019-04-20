@@ -19,7 +19,7 @@ Activates the specified  **OLEFormat** object.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
 _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 

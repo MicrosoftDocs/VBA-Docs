@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReaderSpread.Height property (Publisher)
 
-Returns a  **Single** that represents the height, in points, of the page. Read-only.
+Returns a  **Single** that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the page. Read-only.
 
 
 ## Syntax

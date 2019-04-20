@@ -21,7 +21,7 @@ Returns a  **[CalloutFormat](PowerPoint.CalloutFormat.md)** object that contains
 
 _expression_. `Callout`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

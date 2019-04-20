@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ShapeRange.Top property (Excel)
 
-Returns or sets a  **Single** value that represents the distance, in points, from the top edge of the topmost shape in the shape range to the top edge of the worksheet.
+Returns or sets a  **Single** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the topmost shape in the shape range to the top edge of the worksheet.
 
 
 ## Syntax
 
 _expression_.**Top**
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## See also

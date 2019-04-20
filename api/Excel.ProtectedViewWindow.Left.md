@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Left property (Excel)
 
-Returns or sets a value that represents the distance, in points, from the left edge of the client area to the left edge of the Protected View window. Read/write
+Returns or sets a value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the client area to the left edge of the Protected View window. Read/write
 
 
 ## Syntax

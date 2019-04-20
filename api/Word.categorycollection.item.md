@@ -29,7 +29,7 @@ _expression_.**Item** (_Index_)
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _Index_|Required|VARIANT|The name or index number for the object.|
+| _Index_|Required|**Variant**|The name or index number for the object.|
 
 ## Return value
 

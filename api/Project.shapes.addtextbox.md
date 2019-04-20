@@ -24,10 +24,10 @@ _expression_. `AddTextbox` _(Orientation,_ _Left,_ _Top,_ _Width,_ _Height)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required|**MsoTextOrientation**|The orientation of the text box. Some constants may not be available, depending on the language that is installed.|
-| _Left_|Required|**Single**|The position, in points, of the left edge of the text box.|
-| _Top_|Required|**Single**|The position, in points, of the top edge of the text box.|
-| _Width_|Required|**Single**|The width, in points, of the text box.|
-| _Height_|Required|**Single**|The height, in points, of the text box.|
+| _Left_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the text box.|
+| _Top_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the text box.|
+| _Width_|Required|**Single**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the text box.|
+| _Height_|Required|**Single**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the text box.|
 | _Orientation_|Required|MSOTEXTORIENTATION||
 | _Left_|Required|FLOAT||
 | _Top_|Required|FLOAT||

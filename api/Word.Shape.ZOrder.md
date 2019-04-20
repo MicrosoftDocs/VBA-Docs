@@ -19,7 +19,7 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
 ## Syntax
 
-_expression_. `ZOrder`( `_ZOrderCmd_` )
+_expression_.**ZOrder** (_ZOrderCmd_)
 
  _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
 

@@ -19,7 +19,7 @@ Applies to the specified shape formatting that has been copied using the  **Pick
 
 ## Syntax
 
-_expression_. `Apply`
+_expression_.**Apply**
 
 _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 

@@ -28,7 +28,6 @@ _expression_ A variable that returns a **[Chart](Excel.Chart(object).md)** objec
 
 The following code example keeps the upper-left corner of the chart at the same location when the chart is resized.
 
-
 ```vb
 Private Sub myChartClass_Resize() 
  With ActiveChart.Parent 
@@ -39,9 +38,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

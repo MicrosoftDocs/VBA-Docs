@@ -28,7 +28,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|STRING|The number that you want to convert.|
+| _Arg1_|Required|**String**|The number that you want to convert.|
 | _Arg2_|Required|DOUBLE|The base Radix of the number you are converting.|
 
 ## Return value

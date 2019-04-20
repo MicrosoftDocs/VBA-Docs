@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrFileName_|Required|**String**|The name of the chart template.|
-| _bstrFileName_|Required|STRING||
+| _bstrFileName_|Required|**String**||
 
 ## Return value
 

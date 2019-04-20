@@ -29,7 +29,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotItem_|Required|PIVOTITEM|The member from which the drill down is performed.|
-| _PivotLine_|Optional|VARIANT|Specifies the line in the PivotTable where the operation starting member resides. In cases where PivotLine is not specified, defaults to the top PivotLine where the member appears.|
+| _PivotLine_|Optional|**Variant**|Specifies the line in the PivotTable where the operation starting member resides. In cases where PivotLine is not specified, defaults to the top PivotLine where the member appears.|
 
 ## Return value
 

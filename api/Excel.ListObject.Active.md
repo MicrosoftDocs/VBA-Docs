@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Active`
+_expression_.**Active**
 
 _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 

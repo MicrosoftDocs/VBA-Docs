@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Perspective property (Excel)
 
-Returns or sets a  **Long** value that represents the perspective for the 3D chart view.
+Returns or sets a **Long** value that represents the perspective for the 3D chart view.
 
 
 ## Syntax
@@ -26,13 +26,12 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Remarks
 
-The value of this property must be between 0 and 100. This property is ignored if the  **[RightAngleAxes](Excel.Chart.RightAngleAxes.md)** property is **True**.
+The value of this property must be between 0 and 100. This property is ignored if the **[RightAngleAxes](Excel.Chart.RightAngleAxes.md)** property is **True**.
 
 
 ## Example
 
 This example sets the perspective of Chart1 to 70. The example should be run on a 3D chart.
-
 
 ```vb
 Charts("Chart1").RightAngleAxes = False 
@@ -40,9 +39,5 @@ Charts("Chart1").Perspective = 70
 ```
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

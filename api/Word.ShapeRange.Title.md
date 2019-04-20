@@ -21,7 +21,7 @@ Returns or sets a  **String** that contains a title for the shapes in the specif
 
 _expression_.**Title**
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

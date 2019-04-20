@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Sheets.VPageBreaks property (Excel)
 
-Returns a  **[VPageBreaks](Excel.Sheets.VPageBreaks.md)** collection that represents the vertical page breaks on the sheet. Read-only.
+Returns a **[VPageBreaks](excel.vpagebreaks.md)** collection that represents the vertical page breaks on the sheet. Read-only.
 
 
 ## Syntax

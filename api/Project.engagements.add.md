@@ -25,10 +25,10 @@ _expression_.**Add**( _ResourceID_,  _ResourceID_,  _Start_,  _End_,  _TotalWork
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ResourceID_|Optional|VARIANT|Resource identifier of the Engagement.|
-| _Start_|Optional|VARIANT|Start date of the Engagement.|
-| _End_|Optional|VARIANT|Finish date of the Engagement.|
-| _TotalWork_|Optional|VARIANT|Work of the Engagement.|
+| _ResourceID_|Optional|**Variant**|Resource identifier of the Engagement.|
+| _Start_|Optional|**Variant**|Start date of the Engagement.|
+| _End_|Optional|**Variant**|Finish date of the Engagement.|
+| _TotalWork_|Optional|**Variant**|Work of the Engagement.|
 
 ## Return value
 

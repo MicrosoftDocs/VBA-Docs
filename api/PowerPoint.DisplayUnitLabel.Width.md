@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DisplayUnitLabel.Width property (PowerPoint)
 
-Returns the width, in points, of the object. Read-only.
+Returns the width, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read-only.
 
 
 ## Syntax

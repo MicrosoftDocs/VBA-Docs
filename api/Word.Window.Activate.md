@@ -21,7 +21,7 @@ Activates the specified window.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
 _expression_ Required. A variable that represents a [Window](Word.Window.md) object.
 

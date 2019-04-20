@@ -19,7 +19,7 @@ Creates a duplicate of the specified  **SlideRange** object, adds the new range 
 
 ## Syntax
 
-_expression_. `Duplicate`
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 

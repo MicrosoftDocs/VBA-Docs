@@ -19,7 +19,7 @@ Returns an  **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents t
 
 ## Syntax
 
-_expression_. `HPageBreaks`
+_expression_.**HPageBreaks**
 
 _expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
 

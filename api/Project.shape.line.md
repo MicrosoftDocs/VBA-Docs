@@ -12,7 +12,7 @@ Gets the line formatting properties for the shape. Read-only  **[LineFormat](htt
 
 ## Syntax
 
-_expression_. `Line`
+_expression_.**Line**
 
  _expression_ A variable that represents a 'Shape' object.
 

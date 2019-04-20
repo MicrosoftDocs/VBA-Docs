@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the relative top position of a ran
 
 _expression_. `TopRelative`
 
- _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

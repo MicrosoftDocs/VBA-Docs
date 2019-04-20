@@ -21,7 +21,7 @@ Returns the position of the specified shape in the z-order. Read-only.
 
 _expression_. `ZOrderPosition`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

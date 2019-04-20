@@ -21,7 +21,7 @@ Returns a  **Hyperlink** object that represents the hyperlink associated with th
 
 _expression_.**Hyperlink**
 
-_expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

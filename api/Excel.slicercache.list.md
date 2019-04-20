@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # SlicerCache.List property (Excel)
 
- **True** if the slicer cache is for a slicer on a table. **False** otherwise. **Boolean** Read-only
+ **True** if the slicer cache is for a slicer on a table. **False** otherwise. Read-only **Boolean**.
 
 
 ## Syntax

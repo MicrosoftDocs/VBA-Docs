@@ -21,7 +21,7 @@ Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text forma
 
 _expression_. `TextFrame2`
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## See also

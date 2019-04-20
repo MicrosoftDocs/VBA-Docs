@@ -12,7 +12,7 @@ Duplicates a shape and returns a reference to the copy.
 
 ## Syntax
 
-_expression_. `Duplicate`
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a 'Shape' object.
 

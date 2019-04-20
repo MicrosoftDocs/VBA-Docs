@@ -30,9 +30,9 @@ _expression_. `ApplyTemplate2`_(FileName,_ _Variant)_
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|Specifies the name of the design template.|
 | _Variant_|Required|**String**|Specifies the name of the variant to apply.|
-| _FileName_|Required|STRING||
-| _Variant_|Required|STRING||
-| _VariantGUID_|Required|STRING||
+| _FileName_|Required|**String**||
+| _Variant_|Required|**String**||
+| _VariantGUID_|Required|**String**||
 
 ## Return value
 

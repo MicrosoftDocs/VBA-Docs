@@ -21,7 +21,7 @@ Groups the shapes in the specified range, and returns the grouped shapes as a si
 
 _expression_. `Group`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

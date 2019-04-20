@@ -21,7 +21,7 @@ Returns a  **Shape** object that represents the common parent shape of a child s
 
 _expression_. `ParentGroup`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Returns a  **TextFrame2** object that contains the text for the specified range 
 
 _expression_. `TextFrame2`
 
- _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

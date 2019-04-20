@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PlotArea.InsideHeight property (Word)
 
-Returns or sets the inside height, in points, of the plot area. Read/write  **Double**.
+Returns or sets the inside height, in [points](../language/glossary/vbe-glossary.md#point), of the plot area. Read/write  **Double**.
 
 
 ## Syntax

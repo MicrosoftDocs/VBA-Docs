@@ -40,16 +40,16 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 | _FinishDate_|Optional|**Variant**|Specifies the finish date for the update.|
 | _Task_|Required|BOOL||
 | _Timephased_|Required|BOOL||
-| _GroupName_|Optional|STRING||
-| _FilterName_|Optional|STRING||
+| _GroupName_|Optional|**String**||
+| _FilterName_|Optional|**String**||
 | _LabelField_|Optional|PJFIELD||
 | _OutlineLevel_|Optional|INT||
-| _SafeArrayOfPjField_|Optional|VARIANT||
-| _SafeArrayOfPjTimescaledData_|Optional|VARIANT||
+| _SafeArrayOfPjField_|Optional|**Variant**||
+| _SafeArrayOfPjTimescaledData_|Optional|**Variant**||
 | _TimeScaleUnit_|Optional|PJTIMESCALEUNIT||
 | _TimescaleUnitCount_|Optional|INT||
-| _StartDate_|Optional|VARIANT||
-| _FinishDate_|Optional|VARIANT||
+| _StartDate_|Optional|**Variant**||
+| _FinishDate_|Optional|**Variant**||
 
 ## Return value
 

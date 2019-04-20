@@ -31,10 +31,10 @@ _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' c
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **MsoCalloutType**|The type of callout.|
-| _Left_|Required| **Single**|The position, in points, of the left edge of the callout's bounding box.|
-| _Top_|Required| **Single**|The position, in points, of the top edge of the callout's bounding box.|
-| _Width_|Required| **Single**|The width, in points, of the callout's bounding box.|
-| _Height_|Required| **Single**|The height, in points, of the callout's bounding box.|
+| _Left_|Required| **Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the callout's bounding box.|
+| _Top_|Required| **Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the callout's bounding box.|
+| _Width_|Required| **Single**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the callout's bounding box.|
+| _Height_|Required| **Single**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the callout's bounding box.|
 
 ## Return value
 

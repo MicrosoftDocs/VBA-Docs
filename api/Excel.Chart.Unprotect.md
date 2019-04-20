@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Password_|Optional| **Variant**|A string that denotes the case-sensitive password to use to unprotect the chart. If the chart isn't protected with a password, this argument is ignored.|
@@ -37,9 +35,5 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 If you forget the password, you cannot unprotect the sheet or workbook. It's a good idea to keep a list of your passwords and their corresponding document names in a safe place.
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

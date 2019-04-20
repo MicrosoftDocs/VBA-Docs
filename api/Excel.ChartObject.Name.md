@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ChartObject.Name
 ms.assetid: 3da85312-f508-499a-6799-c1e15e2259a0
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
 
 # ChartObject.Name property (Excel)
 
-Returns a  **String** value representing the name of the object.
+Returns a **String** value representing the name of the object.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)*
 This property is read-only for chart objects (embedded charts).
 
 
-## See also
 
-
-[ChartObject Object](Excel.ChartObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

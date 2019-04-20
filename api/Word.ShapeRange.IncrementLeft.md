@@ -21,7 +21,7 @@ Moves the specified shape horizontally by the specified number of points.
 
 _expression_. `IncrementLeft`( `_Increment_` )
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters

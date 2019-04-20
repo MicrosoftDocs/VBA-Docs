@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.ShowValueFieldButtons property (Excel)
 
-Returns or sets whether to display the value field buttons on a PivotChart. Read/write
+Returns or sets whether to display the value field buttons on a PivotChart. Read/write.
 
 
 ## Syntax
@@ -26,20 +26,19 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Remarks
 
-Set the  **ShowValueFieldButtons** property to **True** to display the **Value Field** buttons on the specified PivotChart. Set the property to **False** to hide the button.
+Set the **ShowValueFieldButtons** property to **True** to display the **Value Field** buttons on the specified PivotChart. Set the property to **False** to hide the button.
 
-The  **ShowValueFieldButtons** property corresponds to the **Show Value Field Buttons** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
+The **ShowValueFieldButtons** property corresponds to the **Show Value Field Buttons** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
 
 
 ## Example
 
 The following code example sets Chart 1 to display value field buttons.
-
 
 ```vb
 ActiveSheet.ChartObjects("Chart 1").Activate 
@@ -47,9 +46,6 @@ ActiveChart.ShowValueFieldButtons = True
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

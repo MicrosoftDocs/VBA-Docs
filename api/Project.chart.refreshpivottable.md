@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Chart.RefreshPivotTable method (Project)
-Gets updated values from a pivot table data source.
+Gets updated values from a PivotTable data source.
 
 ## Syntax
 

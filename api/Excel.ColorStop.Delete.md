@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ColorStop.Delete
 ms.assetid: 3ca053f6-74f7-e2c0-6db4-7daed73cca39
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ColorStop](Excel.ColorStop.md)** ob
 Nothing
 
 
-## See also
 
-
-[ColorStop Object](Excel.ColorStop.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

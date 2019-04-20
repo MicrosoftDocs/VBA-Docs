@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.Tab property (Excel)
 
-Returns a  **[Tab](Excel.Tab.md)** object for a chart.
+Returns a **[Tab](Excel.Tab.md)** object for a chart.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Tab**
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

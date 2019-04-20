@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.Left property (Excel)
 
-Returns a  **Variant** value that represents the distance, in points, from the left edge of column A to the left edge of the range.
+Returns a  **Variant** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of column A to the left edge of the range.
 
 
 ## Syntax

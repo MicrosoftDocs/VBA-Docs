@@ -34,10 +34,10 @@ _expression_ A variable that represents a [Slicers](Excel.Slicers.md) object.
 | _Level_|Optional| **Variant**|For OLAP data sources, the ordinal or the Multidimensional Expression (MDX) name of the level on which the slicer creation is based. Not supported for non-OLAP data sources. |
 | _Name_|Optional| **Variant**|The name of the slicer. Excel automatically generates a name if one is not specified. The name must be unique across all slicers within a workbook.|
 | _Caption_|Optional| **Variant**|The caption of the slicer.|
-| _Top_|Optional| **Variant**|The initial vertical position of the slicer, in points, relative to the upper-left corner of cell A1 on a worksheet.|
-| _Left_|Optional| **Variant**|The initial horizontal position of the slicer, in points, relative to the upper-left corner of cell A1 on a worksheet.|
-| _Width_|Optional| **Variant**|The initial width, in points, of the slicer control.|
-| _Height_|Optional| **Variant**|The initial height, in points, of the slicer control.|
+| _Top_|Optional| **Variant**|The initial vertical position of the slicer, in [points](../language/glossary/vbe-glossary.md#point), relative to the upper-left corner of cell A1 on a worksheet.|
+| _Left_|Optional| **Variant**|The initial horizontal position of the slicer, in [points](../language/glossary/vbe-glossary.md#point), relative to the upper-left corner of cell A1 on a worksheet.|
+| _Width_|Optional| **Variant**|The initial width, in [points](../language/glossary/vbe-glossary.md#point), of the slicer control.|
+| _Height_|Optional| **Variant**|The initial height, in [points](../language/glossary/vbe-glossary.md#point), of the slicer control.|
 
 ## Return value
 

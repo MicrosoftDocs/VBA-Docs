@@ -21,7 +21,7 @@ Returns or sets the number of degrees the specified shape is rotated around the 
 
 _expression_.**Rotation**
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

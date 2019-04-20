@@ -26,20 +26,14 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Replace_|Optional| **Variant**| (used only with sheets). **True** to replace the current selection with the specified object. **False** to extend the current selection to include any previously selected objects and the specified object.|
+| _Replace_|Optional| **Variant**| Used only with sheets. **True** to replace the current selection with the specified object. **False** to extend the current selection to include any previously selected objects and the specified object.|
 
 ## Remarks
 
-To select a cell or a range of cells, use the  **Select** method. To make a single cell the active cell, use the **[Activate](Excel.Chart.Activate(method).md)** method.
+To select a cell or a range of cells, use the **Select** method. To make a single cell the active cell, use the **[Activate](Excel.Chart.Activate(method).md)** method.
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

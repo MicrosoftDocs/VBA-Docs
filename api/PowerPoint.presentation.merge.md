@@ -29,7 +29,7 @@ _expression_. `Merge`_(Path)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The path, including filename, of the presentation to merge changes with.|
-| _Path_|Required|STRING||
+| _Path_|Required|**String**||
 
 ## Return value
 

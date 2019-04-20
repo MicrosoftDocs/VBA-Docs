@@ -21,7 +21,7 @@ Returns a  **Shape** object that represents the common parent shape of a range o
 
 _expression_. `ParentGroup`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ChartObjects.Locked
 ms.assetid: 6d9fc386-3dcc-c52f-d590-2749dac2378f
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
 
 # ChartObjects.Locked property (Excel)
 
-Returns or sets a  **Boolean** value that indicates if the objects are locked.
+Returns or sets a **Boolean** value that indicates if the objects are locked.
 
 
 ## Syntax
@@ -26,6 +26,7 @@ _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md
 
 ## Remarks
 
-This property returns  **True** if the objects are locked or **False** if the objects can be modified when the sheet is protected.
+This property returns **True** if the objects are locked, or **False** if the objects can be modified when the sheet is protected.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,7 +21,7 @@ Returns the position of the specified shape in the z-order. Read-only  **Long**.
 
 _expression_. `ZOrderPosition`
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Remarks

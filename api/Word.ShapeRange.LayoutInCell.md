@@ -21,7 +21,7 @@ Returns a  **Long** that represents whether a shape in a table is displayed insi
 
 _expression_. `LayoutInCell`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

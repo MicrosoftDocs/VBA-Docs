@@ -26,7 +26,7 @@ _expression_. `ChangePicture`_(FileName,_ _ChangePictureFlags)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _FileName_|Required|STRING|Specifies the full path of the replacement picture.|
+| _FileName_|Required|**String**|Specifies the full path of the replacement picture.|
 | _ChangePictureFlags_|Optional|INT32|Reserved for future implementation. Has no effect.|
 
 ## Return value

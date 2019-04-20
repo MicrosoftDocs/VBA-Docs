@@ -19,9 +19,9 @@ Moves the specified shape range in front of or behind other shapes in the collec
 
 ## Syntax
 
-_expression_. `ZOrder`( `_ZOrderCmd_` )
+_expression_.**ZOrder** (_ZOrderCmd_)
 
- _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters

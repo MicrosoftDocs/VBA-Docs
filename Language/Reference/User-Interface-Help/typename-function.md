@@ -28,14 +28,14 @@ The string returned by **TypeName** can be any one of the following:
 |:-----|:-----|
 |[object type](../../Glossary/vbe-glossary.md#object-type)|An object whose type is _objecttype_|
 |[Byte](../../Glossary/vbe-glossary.md#byte-data-type)|Byte value|
-|[Integer](../../Glossary/vbe-glossary.md#integer-data-type)|Integer|
+|[Integer](../../Glossary/vbe-glossary.md#integer-data-type)|**Integer**|
 |[Long](../../Glossary/vbe-glossary.md#long-data-type)|Long integer|
 |[Single](../../Glossary/vbe-glossary.md#single-data-type)|Single-precision floating-point number|
 |[Double](../../Glossary/vbe-glossary.md#double-data-type)|Double-precision floating-point number|
 |[Currency](../../Glossary/vbe-glossary.md#currency-data-type)|Currency value|
 |[Decimal](../../Glossary/vbe-glossary.md#decimal-data-type)|Decimal value|
 |[Date](../../Glossary/vbe-glossary.md#date-data-type)|Date value|
-|[String](../../Glossary/vbe-glossary.md#string-data-type)|String|
+|[String](../../Glossary/vbe-glossary.md#string-data-type)|**String**|
 |[Boolean](../../Glossary/vbe-glossary.md#boolean-data-type)|Boolean value|
 |**[Error](errors-keyword-summary.md)**|An error value|
 |[Empty](../../Glossary/vbe-glossary.md#empty)|Uninitialized|

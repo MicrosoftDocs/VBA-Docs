@@ -22,7 +22,7 @@ The following tables summarize the new VBA language updates for Office 2016.
 
 |Name|Description|
 |:-----|:-----|
-|**[Chart.ShowExpandCollapseEntireFieldButtons property (Excel)](../../api/Excel.chart.showexpandcollapseentirefieldbuttons.md)**|**True** to display the **Expand Entire Field** and **Collapse Entire Field** buttons on the specified pivot chart. Read/write **Boolean**.|
+|**[Chart.ShowExpandCollapseEntireFieldButtons property (Excel)](../../api/Excel.chart.showexpandcollapseentirefieldbuttons.md)**|**True** to display the **Expand Entire Field** and **Collapse Entire Field** buttons on the specified PivotChart. Read/write **Boolean**.|
 |**[ChartGroup.BinsCountValue property (Excel)](../../api/Excel.chartgroup.binscountvalue.md)**|Specifies the number of bins in the histogram chart. Read/write **Long**.|
 |**[ChartGroup.BinsOverflowEnabled property (Excel)](../../api/Excel.chartgroup.binsoverflowenabled.md)**|Specifies whether a bin for values above the [BinsOverflowValue](../../api/Excel.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.|
 |**[ChartGroup.BinsOverflowValue property (Excel)](../../api/Excel.chartgroup.binsoverflowvalue.md)**|If an [BinsOverflowEnabled](../../api/Excel.chartgroup.binsoverflowenabled.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write **Double**.|
@@ -100,7 +100,7 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[ModelMeasures.Item method (Excel)](../../api/Excel.modelmeasures.item.md)**|Returns a single object from a collection|
 |**[ModelMeasures.Parent property (Excel)](../../api/Excel.modelmeasures.parent.md)**|Returns the parent object for the specified object. Read-only.|
 |**[ModelRelationships.DetectRelationships method (Excel)](../../api/Excel.modelrelationships.detectrelationships.md)**|Detects model relationships in the specified [PivotTable](../../api/Excel.PivotTable.md).|
-|**[PivotField.AutoGroup method (Excel)](../../api/Excel.pivotfield.autogroup.md)**|Automatically groups the pivot fields in a pivot table.|
+|**[PivotField.AutoGroup method (Excel)](../../api/Excel.pivotfield.autogroup.md)**|Automatically groups the pivot fields in a PivotTable.|
 |**[Point.IsTotal property (Excel)](../../api/Excel.point.istotal.md)**|**True** if the point represents a total. Read/write **Boolean**.|
 |**[Queries object (Excel)](../../api/Excel.queries.md)**|The collection of [WorkbookQuery](../../api/Excel.workbookquery.md) objects|
 |**[Queries.Add method (Excel)](../../api/Excel.queries.add.md)**|Adds a new [WorkbookQuery](../../api/Excel.workbookquery.md) object to the **Queries** collection.|

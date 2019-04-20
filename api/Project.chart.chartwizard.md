@@ -34,17 +34,17 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 | _varCategoryTitle_|Optional|**Variant**|The category axis title.|
 | _varValueTitle_|Optional|**Variant**|The value axis title.|
 | _varExtraTitle_|Optional|**Variant**|The series axis title for 3D charts or the second value axis title for 2D charts.|
-| _varSource_|Optional|VARIANT||
-| _varGallery_|Optional|VARIANT||
-| _varFormat_|Optional|VARIANT||
-| _varPlotBy_|Optional|VARIANT||
-| _varCategoryLabels_|Optional|VARIANT||
-| _varSeriesLabels_|Optional|VARIANT||
-| _varHasLegend_|Optional|VARIANT||
-| _varTitle_|Optional|VARIANT||
-| _varCategoryTitle_|Optional|VARIANT||
-| _varValueTitle_|Optional|VARIANT||
-| _varExtraTitle_|Optional|VARIANT||
+| _varSource_|Optional|**Variant**||
+| _varGallery_|Optional|**Variant**||
+| _varFormat_|Optional|**Variant**||
+| _varPlotBy_|Optional|**Variant**||
+| _varCategoryLabels_|Optional|**Variant**||
+| _varSeriesLabels_|Optional|**Variant**||
+| _varHasLegend_|Optional|**Variant**||
+| _varTitle_|Optional|**Variant**||
+| _varCategoryTitle_|Optional|**Variant**||
+| _varValueTitle_|Optional|**Variant**||
+| _varExtraTitle_|Optional|**Variant**||
 
 ## Return value
 

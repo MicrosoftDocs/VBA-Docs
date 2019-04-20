@@ -180,10 +180,10 @@ Specifies which dialog box to display.
 | **xlDialogPivotFieldUngroup**|434| **Pivot Field Ungroup** dialog box|
 | **xlDialogPivotShowPages**|421| **Pivot Show Pages** dialog box|
 | **xlDialogPivotSolveOrder**|568| **Pivot Solve Order** dialog box|
-| **xlDialogPivotTableOptions**|567| **Pivot Table Options** dialog box|
-| **xlDialogPivotTableSlicerConnections**|1183| **Pivot Table Slicer Connections** dialog box|
-| **xlDialogPivotTableWhatIfAnalysisSettings**|1153| **Pivot Table What If Analysis Settings** dialog box|
-| **xlDialogPivotTableWizard**|312| **Pivot Table Wizard** dialog box|
+| **xlDialogPivotTableOptions**|567| **PivotTable Options** dialog box|
+| **xlDialogPivotTableSlicerConnections**|1183| **PivotTable Slicer Connections** dialog box|
+| **xlDialogPivotTableWhatIfAnalysisSettings**|1153| **PivotTable What If Analysis Settings** dialog box|
+| **xlDialogPivotTableWizard**|312| **PivotTable Wizard** dialog box|
 | **xlDialogPlacement**|300| **Placement** dialog box|
 | **xlDialogPrint**|8| **Print** dialog box|
 | **xlDialogPrinterSetup**|9| **Printer Setup** dialog box|
@@ -232,7 +232,7 @@ Specifies which dialog box to display.
 | **xlDialogShowToolbar**|220| **Show Toolbar** dialog box|
 | **xlDialogSize**|261| **Size** dialog box|
 | **xlDialogSlicerCreation**|1182| **Slicer Creation** dialog box|
-| **xlDialogSlicerPivotTableConnections**|1184| **Slicer Pivot Table Connections** dialog box|
+| **xlDialogSlicerPivotTableConnections**|1184| **Slicer PivotTable Connections** dialog box|
 | **xlDialogSlicerSettings**|1179| **Slicer Settings** dialog box|
 | **xlDialogSort**|39| **Sort** dialog box|
 | **xlDialogSortSpecial**|192| **Sort Special** dialog box|

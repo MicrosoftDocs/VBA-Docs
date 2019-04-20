@@ -29,7 +29,7 @@ _expression_. `CategoryCollection`_(Index)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _Index_|Optional|VARIANT|The index number in the visible category collection of the category to return.|
+| _Index_|Optional|**Variant**|The index number in the visible category collection of the category to return.|
 
 ## Return value
 

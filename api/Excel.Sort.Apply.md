@@ -19,7 +19,7 @@ Sorts the range based on the currently applied sort states.
 
 ## Syntax
 
-_expression_. `Apply`
+_expression_.**Apply**
 
 _expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 

@@ -17,7 +17,7 @@ If an [BinsOverflowEnabled](Excel.chartgroup.binsoverflowenabled.md) is **True**
 
 ## Syntax
 
-_expression_. `BinsOverflowValue`
+_expression_.**BinsOverflowValue**
 
  _expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
 

@@ -21,7 +21,7 @@ Makes the formatting of the specified shape the default formatting for the shape
 
 _expression_. `SetShapesDefaultProperties`
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example

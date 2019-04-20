@@ -28,8 +28,8 @@ _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _StartDate_|Required|VARIANT|The start of the filtering date range.|
-| _EndDate_|Required|VARIANT|The end of the filtering date range.|
+| _StartDate_|Required|**Variant**|The start of the filtering date range.|
+| _EndDate_|Required|**Variant**|The end of the filtering date range.|
 
 ## Return value
 

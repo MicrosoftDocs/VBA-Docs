@@ -12,7 +12,7 @@ Changes the view to display the report.
 
 ## Syntax
 
-_expression_. `Apply`
+_expression_.**Apply**
 
  _expression_ A variable that represents a 'Report' object.
 

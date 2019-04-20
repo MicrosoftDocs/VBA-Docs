@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartArea.Copy
 ms.assetid: cd96e7bb-ced8-08a6-000f-7926c37d5af2
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ChartArea](Excel.ChartArea(object).
 Variant
 
 
-## See also
 
-
-[ChartArea Object](Excel.ChartArea(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

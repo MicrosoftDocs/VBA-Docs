@@ -19,7 +19,7 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the spec
 
 ## Syntax
 
-_expression_. `ShapeRange`
+_expression_.**ShapeRange**
 
  _expression_ An expression that returns a [OLEObject](Excel.OLEObject.md) object.
 

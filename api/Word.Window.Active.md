@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Active`
+_expression_.**Active**
 
 _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 

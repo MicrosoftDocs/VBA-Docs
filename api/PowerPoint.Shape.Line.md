@@ -19,7 +19,7 @@ Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object that contains line 
 
 ## Syntax
 
-_expression_. `Line`
+_expression_.**Line**
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

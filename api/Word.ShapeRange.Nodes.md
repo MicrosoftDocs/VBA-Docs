@@ -21,7 +21,7 @@ Returns a  **ShapeNodes** collection that represents the geometric description o
 
 _expression_. `Nodes`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

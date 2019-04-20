@@ -19,9 +19,9 @@ Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3D - e
 
 ## Syntax
 
-_expression_. `ThreeD`
+_expression_.**ThreeD**
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example

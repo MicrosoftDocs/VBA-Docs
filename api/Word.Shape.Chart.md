@@ -19,7 +19,7 @@ Returns a  **Chart** object that represents a chart within the collection of sha
 
 ## Syntax
 
-_expression_. `Chart`
+_expression_.**Chart**
 
  _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
 

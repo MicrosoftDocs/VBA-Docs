@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Width property (Excel)
 
-Returns or sets a value that specifies the width, in points, of the specified Protected View window. Read/write
+Returns or sets a value that specifies the width, in [points](../language/glossary/vbe-glossary.md#point), of the specified Protected View window. Read/write
 
 
 ## Syntax

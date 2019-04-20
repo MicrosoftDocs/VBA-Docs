@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Height property (Excel)
 
-Returns or sets a value that represents the height, in points, of the Protected View window. Read/write
+Returns or sets a value that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the Protected View window. Read/write
 
 
 ## Syntax

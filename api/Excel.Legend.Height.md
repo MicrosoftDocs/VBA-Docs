@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Legend.Height property (Excel)
 
-Returns or sets a  **Double** value that represents the height, in points, of the object.
+Returns or sets a  **Double** value that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the object.
 
 
 ## Syntax

@@ -19,7 +19,7 @@ Returns a read-only  **LetterContent** object that represents the contents of a 
 
 ## Syntax
 
-_expression_. `Duplicate`
+_expression_.**Duplicate**
 
 _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 

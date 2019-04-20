@@ -21,7 +21,7 @@ Returns a  **[PictureFormat](Excel.PictureFormat.md)** object that contains pict
 
 _expression_. `PictureFormat`
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example

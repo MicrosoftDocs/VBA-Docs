@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the chart template.|
@@ -41,7 +39,6 @@ By default, this method saves the active chart to the user's chart template dire
 
 This example adds a new chart template based on the active chart.
 
-
 ```vb
 ActiveChart.SaveChartTemplate _ 
  Filename:="Presentation Chart" 
@@ -49,9 +46,6 @@ ActiveChart.SaveChartTemplate _
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

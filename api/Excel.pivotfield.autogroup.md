@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # PivotField.AutoGroup method (Excel)
 
-Automatically groups the pivot fields in a pivot table.
+Automatically groups the pivot fields in a PivotTable.
 
 
 ## Syntax

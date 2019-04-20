@@ -21,7 +21,7 @@ Returns or sets the height of the specified shape range. Read/write  **Single**.
 
 _expression_.**Height**
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

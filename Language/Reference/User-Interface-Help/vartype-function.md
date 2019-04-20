@@ -28,13 +28,13 @@ Either one of the following constants or the summation of a number of them is re
 |:-----|:-----|:-----|
 |**vbEmpty**|0|[Empty](../../Glossary/vbe-glossary.md#empty) (uninitialized)|
 |**vbNull**|1|[Null](../../Glossary/vbe-glossary.md#null) (no valid data)|
-|**vbInteger**|2|Integer|
+|**vbInteger**|2|**Integer**|
 |**vbLong**|3|Long integer|
 |**vbSingle**|4|Single-precision floating-point number|
 |**vbDouble**|5|Double-precision floating-point number|
 |**vbCurrency**|6|Currency value|
 |**vbDate**|7|Date value|
-|**vbString**|8|String|
+|**vbString**|8|**String**|
 |**vbObject**|9|Object|
 |**vbError**|10|Error value|
 |**vbBoolean**|11|Boolean value|

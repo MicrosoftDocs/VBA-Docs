@@ -29,9 +29,9 @@ _expression_. `CreateProjectSite` _(ParentSiteUrl,_ _NewSiteName,_ _LaunchBrowse
 | _ParentSiteUrl_|Optional|**Variant**|URL of the parent Project Web App site.|
 | _NewSiteName_|Optional|**Variant**|Name of the new project site.|
 | _LaunchBrowser_|Optional|**Variant**|**True** to launch the browser and open the new project site. The default value is **False**.|
-| _ParentSiteUrl_|Optional|VARIANT||
-| _NewSiteName_|Optional|VARIANT||
-| _LaunchBrowser_|Optional|VARIANT||
+| _ParentSiteUrl_|Optional|**Variant**||
+| _NewSiteName_|Optional|**Variant**||
+| _LaunchBrowser_|Optional|**Variant**||
 
 ## Return value
 

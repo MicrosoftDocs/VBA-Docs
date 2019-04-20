@@ -31,7 +31,7 @@ _expression_.**TwoColorGradient**(**_Style_**,  **_Variant_**)
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Style|Required| **MsoGradientStyle**|The gradient style.|
-|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+|**Variant**|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 
 ## Remarks
 

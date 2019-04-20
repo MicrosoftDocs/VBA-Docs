@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TableStyle.ShowAsAvailableTimelineStyle property (Excel)
 
-Returns or sets whether the specified table style is shown as available in the timeline styles gallery.  **Boolean**. Read/write
+Returns or sets whether the specified table style is shown as available in the timeline styles gallery.  Read/write **Boolean**.
 
 
 ## Syntax

@@ -21,7 +21,7 @@ Returns a  **[Table](PowerPoint.Table.md)** object that represents a table in a 
 
 _expression_. `Table`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

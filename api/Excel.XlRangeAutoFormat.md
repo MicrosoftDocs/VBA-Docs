@@ -26,7 +26,7 @@ Specifies the predefined format when a range is automatically formatted.
 | **xlRangeAutoFormatClassic1**|1|Classic 1.|
 | **xlRangeAutoFormatClassic2**|2|Classic 2.|
 | **xlRangeAutoFormatClassic3**|3|Classic 3.|
-| **xlRangeAutoFormatClassicPivotTable**|31|Classic pivot table.|
+| **xlRangeAutoFormatClassicPivotTable**|31|Classic PivotTable.|
 | **xlRangeAutoFormatColor1**|7|Color 1.|
 | **xlRangeAutoFormatColor2**|8|Color 2.|
 | **xlRangeAutoFormatColor3**|9|Color 3.|
@@ -38,7 +38,7 @@ Specifies the predefined format when a range is automatically formatted.
 | **xlRangeAutoFormatLocalFormat3**|19|Local Format 3.|
 | **xlRangeAutoFormatLocalFormat4**|20|Local Format 4.|
 | **xlRangeAutoFormatNone**|-4142|No specified format.|
-| **xlRangeAutoFormatPTNone**|42|No specified pivot table format.|
+| **xlRangeAutoFormatPTNone**|42|No specified PivotTable format.|
 | **xlRangeAutoFormatReport1**|21|Report 1.|
 | **xlRangeAutoFormatReport10**|30|Report 10.|
 | **xlRangeAutoFormatReport2**|22|Report 2.|

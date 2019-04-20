@@ -38,7 +38,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 The value of _ElementID_ after the method returns determines whether _Arg1_ and _Arg2_ contain any information, as shown in the following table.
 
-|ElementID constant|Constant value|Arg1|Arg2|
+|_ElementID_ constant|Constant value|_Arg1_|_Arg2_|
 |:-----|:-----|:-----|:-----|
 | **xlAxis**|21|AxisIndex|AxisType|
 | **xlAxisTitle**|17|AxisIndex|AxisType|

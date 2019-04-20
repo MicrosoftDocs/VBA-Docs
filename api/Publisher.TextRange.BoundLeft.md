@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.BoundLeft property (Publisher)
 
-Returns a  **Single** indicating the distance, in points, from the left edge of the leftmost page to the left edge of the bounding box for the specified text range. Read-only.
+Returns a  **Single** indicating the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the leftmost page to the left edge of the bounding box for the specified text range. Read-only.
 
 
 ## Syntax

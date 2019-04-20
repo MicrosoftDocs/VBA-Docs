@@ -29,7 +29,7 @@ _expression_. `Propagate`_(Index)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _Index_|Required|VARIANT|The index number in the  **DataLabels** collection of the data label to propagate.|
+| _Index_|Required|**Variant**|The index number in the  **DataLabels** collection of the data label to propagate.|
 
 ## Return value
 

@@ -25,7 +25,7 @@ _expression_.**Add** _(message)_
 
 |Name|**Optional/Required**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Message_|Required|String|Comment added to the Engagement.|
+| _Message_|Required|**String**|Comment added to the Engagement.|
 
 ## Return value
 

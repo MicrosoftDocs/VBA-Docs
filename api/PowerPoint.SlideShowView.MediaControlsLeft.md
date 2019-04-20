@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SlideShowView.MediaControlsLeft property (PowerPoint)
 
-Returns the distance, in points, from the left edge of the media control bounding box to the left edge of the  **Slide**. Read-only.
+Returns the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the media control bounding box to the left edge of the  **Slide**. Read-only.
 
 
 ## Syntax

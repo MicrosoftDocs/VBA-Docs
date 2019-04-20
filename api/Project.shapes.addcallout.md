@@ -24,10 +24,10 @@ _expression_. `AddCallout` _(Type,_ _Left,_ _Top,_ _Width,_ _Height)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**MsoCalloutType**|The type of callout.|
-| _Left_|Required|**Single**|The position, in points, of the left edge of the bounding box for the callout.|
-| _Top_|Required|**Single**|The position, in points, of the top edge of the bounding box for the callout.|
-| _Width_|Required|**Single**|The width, in points, of the bounding box for the callout.|
-| _Height_|Required|**Single**|The height, in points, of the bounding box for the callout.|
+| _Left_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the bounding box for the callout.|
+| _Top_|Required|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the bounding box for the callout.|
+| _Width_|Required|**Single**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the bounding box for the callout.|
+| _Height_|Required|**Single**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the bounding box for the callout.|
 | _Type_|Required|MSOCALLOUTTYPE||
 | _Left_|Required|FLOAT||
 | _Top_|Required|FLOAT||

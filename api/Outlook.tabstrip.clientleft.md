@@ -24,7 +24,7 @@ _expression_ A variable that represents a  **TabStrip** object.
 
 ## Remarks
 
-For  **[ClientHeight](Outlook.tabstrip.clientheight.md)** and **[ClientWidth](Outlook.tabstrip.clientwidth.md)**, specifies the distance, in points, from respectively the top and left edge of the TabStrip's container. For  **ClientLeft** and **[ClientTop](Outlook.tabstrip.clienttop.md)**, specifies the location, in points, of respectively the top and left edges of the TabStrip's container.
+For  **[ClientHeight](Outlook.tabstrip.clientheight.md)** and **[ClientWidth](Outlook.tabstrip.clientwidth.md)**, specifies the distance, in [points](../language/glossary/vbe-glossary.md#point), from respectively the top and left edge of the TabStrip's container. For  **ClientLeft** and **[ClientTop](Outlook.tabstrip.clienttop.md)**, specifies the location, in [points](../language/glossary/vbe-glossary.md#point), of respectively the top and left edges of the TabStrip's container.
 
 At run time,  **ClientLeft**,  **ClientTop**,  **ClientHeight**, and  **ClientWidth** automatically store the coordinates and dimensions of the **TabStrip** control's internal area, which is shared by objects in the **TabStrip**.
 

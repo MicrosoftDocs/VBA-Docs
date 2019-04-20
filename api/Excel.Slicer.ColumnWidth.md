@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Slicer.ColumnWidth property (Excel)
 
-Returns or sets the width, in points, of each column in the slicer. Read/write
+Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of each column in the slicer. Read/write
 
 
 ## Syntax

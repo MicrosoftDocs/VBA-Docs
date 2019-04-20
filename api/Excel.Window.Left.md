@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Window.Left property (Excel)
 
-Returns or sets a  **Double** value that represents the distance, in points, from the left edge of the client area to the left edge of the window.
+Returns or sets a  **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the client area to the left edge of the window.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ _expression_ A variable that represents an object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ModelTable_|Required|VARIANT|Either a model table name or a model table object.|
+| _ModelTable_|Required|**Variant**|Either a model table name or a model table object.|
 
 ## Return value
 

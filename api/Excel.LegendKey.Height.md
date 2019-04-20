@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LegendKey.Height property (Excel)
 
-Returns a  **Double** value that represents the height, in points, of the object.
+Returns a  **Double** value that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the object.
 
 
 ## Syntax

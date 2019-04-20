@@ -29,7 +29,7 @@ _expression_ A variable that represents a 'CategoryCollection' object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**VARIANT**|The name or index number for the object.|
-| _Index_|Required|VARIANT||
+| _Index_|Required|**Variant**||
 
 ## Return value
 

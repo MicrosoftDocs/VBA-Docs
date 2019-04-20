@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Font.Glow property (Publisher)
 
-Returns a  [GlowFormat](Publisher.glowformat.md) object that represents the glow formatting for the font used by the specified range of text. Read-only.
+Returns a **[GlowFormat](Publisher.glowformat.md)** object that represents the glow formatting for the font used by the specified range of text. Read-only.
 
 
 ## Syntax

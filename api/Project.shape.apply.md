@@ -12,7 +12,7 @@ Applies formatting to a shape, where the formatting information has been copied 
 
 ## Syntax
 
-_expression_. `Apply`
+_expression_.**Apply**
 
  _expression_ A variable that represents a 'Shape' object.
 

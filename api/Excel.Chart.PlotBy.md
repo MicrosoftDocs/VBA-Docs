@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.PlotBy property (Excel)
 
-Returns or sets the way columns or rows are used as data series on the chart. Can be one of the following  **[XlRowCol](Excel.XlRowCol.md)** constants: **xlColumns** or **xlRows**. Read/write **Long**.
+Returns or sets the way columns or rows are used as data series on the chart. Can be one of the following **[XlRowCol](Excel.XlRowCol.md)** constants: **xlColumns** or **xlRows**. Read/write **Long**.
 
 
 ## Syntax
@@ -26,23 +26,17 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Remarks
 
-For PivotChart reports, this property is read-only and always returns  **xlColumns**.
+For PivotChart reports, this property is read-only and always returns **xlColumns**.
 
 
 ## Example
 
 This example causes the embedded chart to plot data by columns.
 
-
 ```vb
 Worksheets(1).ChartObjects(1).Chart.PlotBy = xlColumns
 ```
 
 
-## See also
-
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

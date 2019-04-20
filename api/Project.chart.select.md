@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Replace_|Optional|**Variant**|**True** to replace the current selection with the specified chart. **False** to extend the current selection to include any previously selected charts.|
-| _Replace_|Optional|VARIANT||
+| _Replace_|Optional|**Variant**||
 
 ## Return value
 

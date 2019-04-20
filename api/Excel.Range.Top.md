@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.Top property (Excel)
 
-Returns a  **Variant** value that represents the distance, in points, from the top edge of row 1 to the top edge of the range.
+Returns a  **Variant** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of row 1 to the top edge of the range.
 
 
 ## Syntax

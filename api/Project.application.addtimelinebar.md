@@ -28,8 +28,8 @@ _expression_. `AddTimelineBar`
 |||||
 |:-----|:-----|:-----|:-----|
 |Name|Required/Optional|Data type|Description|
-| _BarPosition_|Optional|Integer|Indicates where to add the timeline bar. If a number isn't specified, it is added at the bottom. The top bar is 0 and the next is 1, and so on. |
-| _TimelineViewName_|Optional|String|Specifies the name of a timeline to use. The name can be the built-in timeline or an existing custom timeline such as "My Timeline". The default value is the name of the active timeline.|
+| _BarPosition_|Optional|**Integer**|Indicates where to add the timeline bar. If a number isn't specified, it is added at the bottom. The top bar is 0 and the next is 1, and so on. |
+| _TimelineViewName_|Optional|**String**|Specifies the name of a timeline to use. The name can be the built-in timeline or an existing custom timeline such as "My Timeline". The default value is the name of the active timeline.|
 
 ## Return value
 

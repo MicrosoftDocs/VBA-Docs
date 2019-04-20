@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextRange.BoundTop property (Publisher)
 
-Returns a  **Single** indicating the distance, in points, from the top edge of the topmost page to the top edge of the bounding box for the specified text range. Read-only.
+Returns a  **Single** indicating the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the topmost page to the top edge of the bounding box for the specified text range. Read-only.
 
 
 ## Syntax

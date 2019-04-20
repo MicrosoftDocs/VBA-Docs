@@ -19,7 +19,7 @@ Activates the first window associated with the workbook.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

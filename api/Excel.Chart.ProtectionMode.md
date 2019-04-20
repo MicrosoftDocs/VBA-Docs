@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.ProtectionMode property (Excel)
 
- **True** if user-interface-only protection is turned on. To turn on user interface protection, use the **[Protect](Excel.Chart.Protect.md)** method with the _UserInterfaceOnly_ argument set to **True**. Read-only **Boolean**.
+**True** if user-interface-only protection is turned on. To turn on user interface protection, use the **[Protect](Excel.Chart.Protect.md)** method with the _UserInterfaceOnly_ argument set to **True**. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,17 +26,13 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Example
 
-This example displays the status of the  **ProtectionMode** property.
-
+This example displays the status of the **ProtectionMode** property.
 
 ```vb
 MsgBox ActiveSheet.ProtectionMode
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,7 +27,7 @@ _expression_. `HighlightDrivingPredecessors` _(Set)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|**True** to set task driving predecessor highlighting; **False** to clear the task driving predecessor highlighting.|
-| _Set_|Optional|VARIANT||
+| _Set_|Optional|**Variant**||
 |Name|Required/Optional|Data type|Description|
 
 ## Return value

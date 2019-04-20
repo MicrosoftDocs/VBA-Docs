@@ -12,7 +12,7 @@ Applies formatting to a shape range, where the formatting information has been c
 
 ## Syntax
 
-_expression_. `Apply`
+_expression_.**Apply**
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

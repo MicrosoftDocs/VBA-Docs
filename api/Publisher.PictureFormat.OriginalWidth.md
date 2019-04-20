@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PictureFormat.OriginalWidth property (Publisher)
 
-Returns a  **Variant** that represents, in points, the width of the specified linked picture or OLE object. Read-only.
+Returns a  **Variant** that represents, in [points](../language/glossary/vbe-glossary.md#point), the width of the specified linked picture or OLE object. Read-only.
 
 
 ## Syntax

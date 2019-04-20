@@ -21,7 +21,7 @@ Copies the formatting of the specified shape. Use the  **Apply** method to apply
 
 _expression_. `PickUp`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Example

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Active`
+_expression_.**Active**
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

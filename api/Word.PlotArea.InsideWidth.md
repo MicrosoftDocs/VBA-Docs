@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PlotArea.InsideWidth property (Word)
 
-Returns or sets the inside width, in points, of the plot area. Read/write  **Double**.
+Returns or sets the inside width, in [points](../language/glossary/vbe-glossary.md#point), of the plot area. Read/write  **Double**.
 
 
 ## Syntax

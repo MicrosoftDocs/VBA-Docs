@@ -21,7 +21,7 @@ Returns or sets a  **Single** that represents the horizontal position, measured 
 
 _expression_.**Left**
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

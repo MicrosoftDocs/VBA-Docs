@@ -25,8 +25,8 @@ _expression_.**Copy** (_Source_, _NewName_)
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**Variant**|Name or  **Report** object of the report to copy.|
 | _NewName_|Required|**String**|Name of the new report.|
-| _Source_|Required|VARIANT||
-| _NewName_|Required|STRING||
+| _Source_|Required|**Variant**||
+| _NewName_|Required|**String**||
 
 ## Return value
 

@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # ChartFormat.Glow property (Word)
 
-Returns the glow formatting properties for the chart element. Read-only  **[GlowFormat](Word.GlowFormat.md)**.
+Returns the glow formatting properties for the chart element. Read-only **[GlowFormat](Word.GlowFormat.md)**.
 
 
 ## Syntax
 
-_expression_. `Glow`
+_expression_.**Glow**
 
  _expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
 

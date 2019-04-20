@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartObjects.Select
 ms.assetid: ef89d037-34d4-3c17-edb7-352b52e5ae4b
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -26,8 +26,6 @@ _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Replace_|Optional| **Variant**| **True** to replace the current selection with the specified object. **False** to extend the current selection to include any previously selected objects and the specified object.|
@@ -37,9 +35,6 @@ _expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md
 Variant
 
 
-## See also
 
-
-[ChartObjects Object](Excel.ChartObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

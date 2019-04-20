@@ -19,7 +19,7 @@ Copies the selected object to the Clipboard as a picture.  **Variant**.
 
 ## Syntax
 
-_expression_. `CopyPicture`( `_Appearance_` , `_Format_` )
+_expression_.**CopyPicture** (_Appearance_, _Format_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
@@ -30,8 +30,8 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**|. Specifies how the picture should be copied.|
-| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|. The format of the picture.|
+| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**| Specifies how the picture should be copied.|
+| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**| The format of the picture.|
 
 ## Return value
 

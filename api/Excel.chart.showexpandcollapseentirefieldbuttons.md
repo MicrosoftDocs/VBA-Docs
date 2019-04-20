@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Chart.ShowExpandCollapseEntireFieldButtons property (Excel)
 
- **True** to display the **Expand Entire Field** and **Collapse Entire Field** buttons on the specified pivot chart. Read/write **Boolean**.
+**True** to display the **Expand Entire Field** and **Collapse Entire Field** buttons on the specified PivotChart. Read/write **Boolean**.
 
 
 ## Syntax
@@ -22,9 +22,6 @@ _expression_.**ShowExpandCollapseEntireFieldButtons**
 _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.DefaultSheetDirection property (Excel)
 
-Returns or sets the default direction in which Microsoft Excel displays new windows and worksheets. Can be one of the following constants: **xlRTL** (right to left) or **xlLTR** (left to right). Read/write **Long**.
+Returns or sets the default direction in which Microsoft Excel displays new windows and worksheets. Can be one of the following **[XlReadingOrder](word.xlreadingorder.md)** constants: **xlRTL** (right to left) or **xlLTR** (left to right). Read/write **Long**.
 
 
 ## Syntax

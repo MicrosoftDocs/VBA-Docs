@@ -24,7 +24,7 @@ _expression_. `AddCurve` _(SafeArrayOfPoints)_
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve.|
-| _SafeArrayOfPoints_|Required|VARIANT||
+| _SafeArrayOfPoints_|Required|**Variant**||
 
 ## Return value
 

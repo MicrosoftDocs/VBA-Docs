@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # PivotLineCells.Full property (Excel)
 
-When  **True**, all of the  **PivotLineCells** in the **PivotLine** (including those that are hidden in compact form) are retrieved. **Boolean** Read-only
+When  **True**, all of the  **PivotLineCells** in the **PivotLine** (including those that are hidden in compact form) are retrieved. Read-only **Boolean**.
 
 
 ## Syntax

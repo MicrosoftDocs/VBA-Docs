@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 | _Layout_|Required|**Long**|Specifies the type of layout, where the value corresponds to a  **Quick Layout** item on the ribbon.|
 | _varChartType_|Optional|**Variant**|Can be one of the  **Office.XlChartType** constants.|
 | _Layout_|Required|INT32||
-| _varChartType_|Optional|VARIANT||
+| _varChartType_|Optional|**Variant**||
 
 ## Return value
 

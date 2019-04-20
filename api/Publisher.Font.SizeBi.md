@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Font.SizeBi property (Publisher)
 
-Returns or sets a  **Variant** value representing the size, in points, of the **Font** object for text in a right-to-left language. Valid range is 0.5 points to 999.5 points. Read/write.
+Returns or sets a  **Variant** value representing the size, in [points](../language/glossary/vbe-glossary.md#point), of the **Font** object for text in a right-to-left language. Valid range is 0.5 points to 999.5 points. Read/write.
 
 
 ## Syntax

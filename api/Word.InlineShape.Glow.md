@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # InlineShape.Glow property (Word)
 
-Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the formatting properties for a glow effect. Read-only.
+Returns a **[GlowFormat](Word.GlowFormat.md)** object that represents the formatting properties for a glow effect. Read-only.
 
 
 ## Syntax
 
-_expression_. `Glow`
+_expression_.**Glow**
 
  _expression_ An expression that returns an '[InlineShape](Word.InlineShape.md)' object.
 

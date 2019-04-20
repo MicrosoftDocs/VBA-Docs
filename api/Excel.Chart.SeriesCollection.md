@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.SeriesCollection method (Excel)
 
-Returns an object that represents either a single series (a  **[Series](Excel.Series(object).md)** object) or a collection of all the series (a **[SeriesCollection](Excel.SeriesCollection.md)** collection) in the chart or chart group.
+Returns an object that represents either a single series (a **[Series](Excel.Series(object).md)** object) or a collection of all the series (a **[SeriesCollection](Excel.SeriesCollection.md)** collection) in the chart or chart group.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -41,15 +39,10 @@ Object
 
 This example turns on data labels for series one in Chart1.
 
-
 ```vb
 Charts("Chart1").SeriesCollection(1).HasDataLabels = True
 ```
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

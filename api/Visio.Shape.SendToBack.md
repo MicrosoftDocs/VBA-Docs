@@ -19,7 +19,7 @@ Moves the shape or selected shapes to the back of the z-order.
 
 ## Syntax
 
-_expression_. `SendToBack`
+_expression_.**SendToBack**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

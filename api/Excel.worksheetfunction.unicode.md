@@ -28,7 +28,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|STRING|Character that you want the Unicode value of.|
+| _Arg1_|Required|**String**|Character that you want the Unicode value of.|
 
 ## Return value
 

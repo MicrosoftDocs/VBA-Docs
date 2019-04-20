@@ -27,7 +27,7 @@ _expression_ A variable that represents a 'ModelMeasures' object.
 
 
 |||||
-| _Index_|Required|VARIANT|The name or index number of the object.|
+| _Index_|Required|**Variant**|The name or index number of the object.|
 
 ## Return value
 

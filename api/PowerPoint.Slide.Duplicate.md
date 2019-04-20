@@ -19,7 +19,7 @@ Creates a duplicate of the specified  **Slide** object, adds the new slide to th
 
 ## Syntax
 
-_expression_. `Duplicate`
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

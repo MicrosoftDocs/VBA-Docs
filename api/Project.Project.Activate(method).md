@@ -16,7 +16,7 @@ Activates the project.
 
 ## Syntax
 
-_expression_. `Activate`
+_expression_.**Activate**
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ShapeRange.Left property (Excel)
 
-Returns or sets a  **Single** value that represents the distance, in points, from the left edge of the object to the left edge of column A (on a worksheet) or the left edge of the chart area (on a chart).
+Returns or sets a  **Single** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the object to the left edge of column A (on a worksheet) or the left edge of the chart area (on a chart).
 
 
 ## Syntax
 
 _expression_.**Left**
 
-_expression_ A variable that represents a [ShapeRange](Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## See also

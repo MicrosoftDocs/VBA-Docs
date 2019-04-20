@@ -19,7 +19,7 @@ Returns a  **LineFormat** object that contains line formatting properties for th
 
 ## Syntax
 
-_expression_. `Line`
+_expression_.**Line**
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 

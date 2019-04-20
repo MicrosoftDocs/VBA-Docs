@@ -21,7 +21,7 @@ Deletes the specified range of shapes.
 
 _expression_.**Delete**
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

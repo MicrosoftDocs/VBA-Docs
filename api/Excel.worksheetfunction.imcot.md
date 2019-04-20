@@ -28,7 +28,7 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|STRING|Complex number for which you want the cotangent.|
+| _Arg1_|Required|**String**|Complex number for which you want the cotangent.|
 
 ## Return value
 

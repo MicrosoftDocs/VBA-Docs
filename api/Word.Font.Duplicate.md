@@ -18,7 +18,7 @@ Returns a copy of a **Font** object that represents the character formatting of 
 
 ## Syntax
 
-_expression_. `Duplicate`
+_expression_.**Duplicate**
 
 _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 

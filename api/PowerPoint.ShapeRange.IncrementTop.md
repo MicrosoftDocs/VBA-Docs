@@ -21,7 +21,7 @@ Moves the specified shape range vertically by the specified number of points.
 
 _expression_. `IncrementTop`( `_Increment_` )
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Parameters

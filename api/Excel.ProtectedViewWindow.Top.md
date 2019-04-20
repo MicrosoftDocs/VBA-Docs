@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ProtectedViewWindow.Top property (Excel)
 
-Returns or sets a value that represents the distance, in points, from the top edge of the specified Protected View window to the top edge of the usable area. Read/write
+Returns or sets a value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the specified Protected View window to the top edge of the usable area. Read/write
 
 
 ## Syntax

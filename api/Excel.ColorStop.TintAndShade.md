@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ColorStop.TintAndShade
 ms.assetid: 64602eee-9196-fa9b-9a09-e11a4433b4f3
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -33,7 +33,6 @@ Variant
 
 Applies tint and shade to the active selection.
 
-
 ```vb
 Range("A1:A10").Select 
 With Selection.Interior.Gradient.ColorStop.Add(1) 
@@ -43,9 +42,6 @@ End With
 ```
 
 
-## See also
 
-
-[ColorStop Object](Excel.ColorStop.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

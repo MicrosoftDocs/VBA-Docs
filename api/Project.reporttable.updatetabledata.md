@@ -32,10 +32,10 @@ _expression_. `UpdateTableData` _(Task,_ _GroupName,_ _FilterName,_ _OutlineLeve
 | _OutlineLevel_|Optional|**Long**|The task outline level. The default value is -1, which the equivalent of  **Show All**. Not used for resource fields (when  _Task_ is **False**).|
 | _SafeArrayOfPjField_|Optional|**Variant**|Specifies an array of fields for the update, where each item in the array can be a [PjField](Project.PjField.md) constant.|
 | _Task_|Required|BOOL||
-| _GroupName_|Optional|STRING||
-| _FilterName_|Optional|STRING||
+| _GroupName_|Optional|**String**||
+| _FilterName_|Optional|**String**||
 | _OutlineLevel_|Optional|INT||
-| _SafeArrayOfPjField_|Optional|VARIANT||
+| _SafeArrayOfPjField_|Optional|**Variant**||
 
 ## Return value
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PictureFormat.Width property (Publisher)
 
-Returns a  **Variant** that represents the width, in points, of the specified picture. Read-only.
+Returns a  **Variant** that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the specified picture. Read-only.
 
 
 ## Syntax

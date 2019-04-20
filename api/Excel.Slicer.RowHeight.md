@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Slicer.RowHeight property (Excel)
 
-Returns or sets the height, in points, of each row in the specified slicer. Read/write.
+Returns or sets the height, in [points](../language/glossary/vbe-glossary.md#point), of each row in the specified slicer. Read/write.
 
 
 ## Syntax

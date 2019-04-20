@@ -17,7 +17,7 @@ Specifies whether a bin for values below the [BinsUnderflowValue](Word.chartgrou
 
 ## Syntax
 
-_expression_. `BinsUnderflowEnabled`
+_expression_.**BinsUnderflowEnabled**
 
  _expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
 

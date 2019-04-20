@@ -29,7 +29,7 @@ _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Variant**|The index number in the series collection of the series to return.|
-| _Index_|Optional|VARIANT||
+| _Index_|Optional|**Variant**||
 
 ## Return value
 

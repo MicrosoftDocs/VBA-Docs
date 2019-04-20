@@ -21,7 +21,7 @@ Returns a  **WrapFormat** object that contains the properties for wrapping text 
 
 _expression_. `WrapFormat`
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

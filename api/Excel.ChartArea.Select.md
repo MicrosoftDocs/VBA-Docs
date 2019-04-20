@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartArea.Select
 ms.assetid: c8660e02-72a5-46e5-c279-e2f6f09348fb
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[ChartArea](Excel.ChartArea(object).
 
 ## Return value
 
-A Variant value that represents the selected object.
+A **Variant** value that represents the selected object.
 
 
-## See also
 
-
-[ChartArea Object](Excel.ChartArea(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -4,14 +4,16 @@ ms.prod: excel
 api_name:
 - Excel.ColorFormat.Application
 ms.assetid: e9b68987-dceb-8bd6-13af-be60076e3e73
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
 
 # ColorFormat.Application property (Excel)
 
-When used without an object qualifier, this property returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
+When used without an object qualifier, this property returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. 
+
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
@@ -25,7 +27,6 @@ _expression_ A variable that represents a **[ColorFormat](Excel.ColorFormat.md)*
 
 This example displays a message about the application that created _myObject_.
 
-
 ```vb
 Set myObject = ActiveWorkbook 
 If myObject.Application.Value = "Microsoft Excel" Then 
@@ -36,9 +37,6 @@ End If
 ```
 
 
-## See also
 
-
-[ColorFormat Object](Excel.ColorFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

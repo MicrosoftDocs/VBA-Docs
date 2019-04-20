@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Slicer.Top property (Excel)
 
-Returns or sets the vertical position of the specified slicer, in points, relative to the upper-left corner of cell A1 on a worksheet. Read/write.
+Returns or sets the vertical position of the specified slicer, in [points](../language/glossary/vbe-glossary.md#point), relative to the upper-left corner of cell A1 on a worksheet. Read/write.
 
 
 ## Syntax

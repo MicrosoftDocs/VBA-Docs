@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ChartTitle.FormulaR1C1
 ms.assetid: 6e8f611d-2cd8-24d7-3cc8-f56ec611365a
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
 
 # ChartTitle.FormulaR1C1 property (Excel)
 
-Gets or sets a  **String** value that represents the formula of the object using R1C1-style notation, in English. Read/write.
+Gets or sets a **String** value that represents the formula of the object by using R1C1-style notation, in English. Read/write.
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object
 String
 
 
-## See also
 
-
-[ChartTitle Object](Excel.ChartTitle(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

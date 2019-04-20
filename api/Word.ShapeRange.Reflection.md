@@ -21,7 +21,7 @@ Returns a  **[ReflectionFormat](Word.ReflectionFormat.md)** object that represen
 
 _expression_. `Reflection`
 
- _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

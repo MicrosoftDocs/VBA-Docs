@@ -21,7 +21,7 @@ Returns  **True** if the current **ShapeRange** object has a SmartArt diagram. R
 
 _expression_. `HasSmartArt`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

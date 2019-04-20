@@ -21,7 +21,7 @@ Applies the formatting of a default shape for a document to the specified range 
 
 _expression_. `SetShapesDefaultProperties`
 
-_expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

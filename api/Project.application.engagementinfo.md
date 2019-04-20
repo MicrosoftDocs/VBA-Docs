@@ -30,7 +30,7 @@ _expression_. `EngagementInfo`( _EngagementUniqueID_,  _EngagementUniqueID_,  _R
 |Name|**Required/Optional**|Value|Description|
 | _EngagementUniqueID_|Optional|Dword|The unique ID of the engagement.|
 | _ResourceUniqueID_|Optional|Dword|The unique ID of the resource.|
-| _Description_|Optional|String|A description of the engagement.|
+| _Description_|Optional|**String**|A description of the engagement.|
 | _StartDate_|Optional|Date|The earliest date the resource can work on the engagement.|
 | _FinishDate_|Optional|Date|The latest date the resource can work on the engagement.|
 | _Units_|Optional|Real|The assignment unit the resource can work on the engagement.|

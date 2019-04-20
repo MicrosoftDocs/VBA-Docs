@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Height property (Excel)
 
-Returns or sets a **Double** value that represents the height, in points, of the main application window.
+Returns or sets a **Double** value that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the main application window.
 
 
 ## Syntax

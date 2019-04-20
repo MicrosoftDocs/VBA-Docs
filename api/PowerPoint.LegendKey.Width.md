@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # LegendKey.Width property (PowerPoint)
 
-Returns the width, in points, of the object. Read-only  **Double**.
+Returns the width, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read-only  **Double**.
 
 
 ## Syntax

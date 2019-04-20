@@ -29,12 +29,12 @@ _expression_. `AddWebVideo`_(EmbedCode,_ _VideoWidth,_ _VideoHeight,_ _PosterFra
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _EmbedCode_|Required|STRING|The embed code for the video.|
-| _VideoWidth_|Required|VARIANT|An integer that represents the width of the web video in pixels.|
-| _VideoHeight_|Required|VARIANT|An integer that represents the height of the web video in pixels.|
-| _PosterFrameImage_|Optional|VARIANT|A string that points to the file to use as the poster frame for the web video.|
-| _Url_|Optional|VARIANT|The URL to the video.|
-| _Range_|Optional|VARIANT|The range at which to insert the web video. If  _Range_ is omitted, the current selection is used.|
+| _EmbedCode_|Required|**String**|The embed code for the video.|
+| _VideoWidth_|Required|**Variant**|An integer that represents the width of the web video in pixels.|
+| _VideoHeight_|Required|**Variant**|An integer that represents the height of the web video in pixels.|
+| _PosterFrameImage_|Optional|**Variant**|A string that points to the file to use as the poster frame for the web video.|
+| _Url_|Optional|**Variant**|The URL to the video.|
+| _Range_|Optional|**Variant**|The range at which to insert the web video. If  _Range_ is omitted, the current selection is used.|
 
 ## Return value
 

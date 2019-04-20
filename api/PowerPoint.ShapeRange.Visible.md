@@ -21,7 +21,7 @@ Returns or sets the visibility of the specified object or the formatting applied
 
 _expression_.**Visible**
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value

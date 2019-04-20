@@ -27,8 +27,8 @@ _expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** ob
 
 
 |||||
-| _Orientation_|Optional|VARIANT|The orientation of the group.|
-| _Position_|Optional|VARIANT|The position of the group. |
+| _Orientation_|Optional|**Variant**|The orientation of the group.|
+| _Position_|Optional|**Variant**|The position of the group. |
 
 ## See also
 

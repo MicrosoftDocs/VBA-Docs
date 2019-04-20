@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextInput.Width property (Word)
 
-Returns or sets the width, in points, of the specified text input field. Read/write  **Long**.
+Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the specified text input field. Read/write  **Long**.
 
 
 ## Syntax

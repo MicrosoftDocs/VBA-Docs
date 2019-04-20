@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ChartGroup.AxisGroup
 ms.assetid: 2fa4488c-6a50-9aac-affe-a6f2b8afa62e
-ms.date: 06/08/2017
+ms.date: 04/20/2019
 localization_priority: Normal
 ---
 
 
 # ChartGroup.AxisGroup property (Excel)
 
-Returns or sets the group for the specified chart. Read/write
+Returns or sets the group for the specified chart. Read/write.
 
 
 ## Syntax
@@ -26,18 +26,17 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Return value
 
- **[XlAxisGroup](Excel.XlAxisGroup.md)**
+**[XlAxisGroup](Excel.XlAxisGroup.md)**
 
 
 ## Remarks
 
-For 3D charts, only  **xlPrimary** is valid.
+For 3D charts, only **xlPrimary** is valid.
 
 
 ## Example
 
 This example deletes the value axis if it is in the secondary group.
-
 
 ```vb
 With myChart.Axes(xlValue) 
@@ -47,9 +46,6 @@ End With
 ```
 
 
-## See also
 
-
-[ChartGroup Object](Excel.ChartGroup(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

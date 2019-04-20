@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # LegendEntry.Top property (PowerPoint)
 
-Returns the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read-only  **Double**.
+Returns the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read-only  **Double**.
 
 
 ## Syntax

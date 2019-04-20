@@ -19,7 +19,7 @@ Returns the 3D-effect formatting properties for the specified chart. Read-only  
 
 ## Syntax
 
-_expression_. `ThreeD`
+_expression_.**ThreeD**
 
  _expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
 

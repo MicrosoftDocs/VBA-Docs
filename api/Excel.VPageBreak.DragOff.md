@@ -31,7 +31,7 @@ _expression_ A variable that represents a [VPageBreak](Excel.VPageBreak.md) obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **[XlDirection](Excel.XlDirection.md)**|The direction in which the page break is dragged.|
-| _RegionIndex_|Required| **Long**|The print-area region index for the page break (the region where the mouse pointer is located when the mouse button is pressed if the user drags the page break). If the print area is contiguous, there?s only one print region. If the print area is discontiguous, there?s more than one print region.|
+| _RegionIndex_|Required| **Long**|The print-area region index for the page break (the region where the mouse pointer is located when the mouse button is pressed if the user drags the page break). If the print area is contiguous, there's only one print region. If the print area is discontiguous, there's more than one print region.|
 
 ## Remarks
 

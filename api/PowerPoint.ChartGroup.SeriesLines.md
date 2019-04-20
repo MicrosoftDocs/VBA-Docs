@@ -16,9 +16,9 @@ Returns the series lines for a 2D stacked bar, 2D stacked column, pie-of-pie, or
 
 ## Syntax
 
-_expression_. `SeriesLines`
+_expression_.**SeriesLines**
 
-_expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Example

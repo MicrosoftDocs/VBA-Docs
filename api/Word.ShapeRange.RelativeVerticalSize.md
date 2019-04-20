@@ -21,7 +21,7 @@ Returns or sets a  **[WdRelativeVerticalSize](Word.WdRelativeVerticalSize.md)** 
 
 _expression_. `RelativeVerticalSize`
 
- _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Page.Width property (Word)
 
-Returns a  **Long** that represents the width, in points, of the paper defined in the **Page Setup** dialog box. Read-only **Long**.
+Returns a  **Long** that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the paper defined in the **Page Setup** dialog box. Read-only **Long**.
 
 
 ## Syntax

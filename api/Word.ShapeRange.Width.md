@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ShapeRange.Width property (Word)
 
-Returns or sets the width, in points, of the shapes within the range. Read/write  **Long**.
+Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the shapes within the range. Read/write  **Long**.
 
 
 ## Syntax
 
 _expression_.**Width**
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## See also

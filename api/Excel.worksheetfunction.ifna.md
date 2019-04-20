@@ -28,8 +28,8 @@ _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFun
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|VARIANT|value: Any value or expression or reference.|
-| _Arg2_|Required|VARIANT|value_if_na: Any value or expression or reference.|
+| _Arg1_|Required|**Variant**|value: Any value or expression or reference.|
+| _Arg2_|Required|**Variant**|value_if_na: Any value or expression or reference.|
 
 ## Return value
 

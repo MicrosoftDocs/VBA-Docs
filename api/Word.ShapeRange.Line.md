@@ -19,9 +19,9 @@ Returns a  **LineFormat** object that contains line formatting properties for th
 
 ## Syntax
 
-_expression_. `Line`
+_expression_.**Line**
 
- _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks

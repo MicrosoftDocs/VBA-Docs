@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AxisTitle.Top property (Excel)
 
-Returns or sets a **Double** value that represents the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
+Returns or sets a **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
 
 
 ## Syntax

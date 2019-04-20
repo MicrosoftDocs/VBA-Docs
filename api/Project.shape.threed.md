@@ -12,7 +12,7 @@ Gets a  **ThreeDFormat** object that contains three-dimensional formatting prope
 
 ## Syntax
 
-_expression_. `ThreeD`
+_expression_.**ThreeD**
 
  _expression_ A variable that represents a 'Shape' object.
 

@@ -8,7 +8,7 @@ localization_priority: Normal
 
 
 # Shape.Width property (Project)
-Gets or sets the width, in points, of the shape. Read/write  **Long**.
+Gets or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the shape. Read/write  **Long**.
 
 ## Syntax
 

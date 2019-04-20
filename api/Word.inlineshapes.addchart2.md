@@ -31,8 +31,8 @@ _expression_. `AddChart2`_(Style,_ _Type,_ _Range,_ _NewLayout)_
 |||||
 | _Style_|Optional|INT32|The chart style. Use "-1" to get the default style for the chart type specified in  **Type**.|
 | _Type_|Optional|[XLCHARTTYPE](Excel.XlChartType.md)|The type of chart.|
-| _Range_|Optional|VARIANT|The range where the chart will be placed in the text. The chart replaces the range, unless the range is collapsed. If this argument is omitted, the chart is placed automatically.|
-| _NewLayout_|Optional|VARIANT|If  _NewLayout_ is true, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
+| _Range_|Optional|**Variant**|The range where the chart will be placed in the text. The chart replaces the range, unless the range is collapsed. If this argument is omitted, the chart is placed automatically.|
+| _NewLayout_|Optional|**Variant**|If  _NewLayout_ is true, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
 | _Type_|Optional|XLCHARTTYPE||
 
 ## Return value
