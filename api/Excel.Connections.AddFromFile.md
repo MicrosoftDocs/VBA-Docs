@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Connections.AddFromFile
 ms.assetid: 24b13d14-6e5e-ee76-d4a9-79441647a803
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Adds a connection from the specified file.
 
 ## Syntax
 
-_expression_. `AddFromFile`( `_FileName_` , `_FileName_` , `_FileName_` )
+_expression_.**AddFromFile** (_FileName_, _CreateModelConnection_, _ImportRelationships_)
 
 _expression_ A variable that represents a **[Connections](Excel.Connections.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,9 +37,6 @@ _expression_ A variable that represents a **[Connections](Excel.Connections.md)*
 WorkbookConnection
 
 
-## See also
 
-
-[Connections Object](Excel.Connections.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

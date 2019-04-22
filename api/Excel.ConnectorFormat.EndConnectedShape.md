@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.EndConnectedShape
 ms.assetid: e13d9b94-aa51-5895-8ad4-c40ba7397331
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # ConnectorFormat.EndConnectedShape property (Excel)
 
-Returns a  **[Shape](Excel.Shape.md)** object that represents the shape that the end of the specified connector is attached to. Read-only.
+Returns a **[Shape](Excel.Shape.md)** object that represents the shape that the end of the specified connector is attached to. Read-only.
 
 
 ## Syntax
 
-_expression_. `EndConnectedShape`
+_expression_.**EndConnectedShape**
 
 _expression_ A variable that represents a **[ConnectorFormat](Excel.ConnectorFormat.md)** object.
 
@@ -31,8 +31,7 @@ If the end of the specified connector isn't attached to a shape, this property g
 
 ## Example
 
-This example assumes that  _myDocument_ already contains two shapes attached by a connector named "Conn1To2." The code adds a rectangle and a connector to _myDocument_. The end of the new connector will be attached to the same connection site as the end of the connector named "Conn1To2," and the beginning of the new connector will be attached to connection site one on the new rectangle.
-
+This example assumes that _myDocument_ already contains two shapes attached by a connector named Conn1To2. The code adds a rectangle and a connector to _myDocument_. The end of the new connector will be attached to the same connection site as the end of the connector named Conn1To2, and the beginning of the new connector will be attached to connection site one on the new rectangle.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -52,9 +51,5 @@ End With
 ```
 
 
-## See also
-
-
-[ConnectorFormat Object](Excel.ConnectorFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

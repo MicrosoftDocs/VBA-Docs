@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.BeginConnectionSite
 ms.assetid: 606f6e75-3375-da45-b177-63318ef5f594
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # ConnectorFormat.BeginConnectionSite property (Excel)
 
-Returns an integer that specifies the connection site that the beginning of a connector is connected to. Read-only  **Long**.
+Returns an integer that specifies the connection site that the beginning of a connector is connected to. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `BeginConnectionSite`
+_expression_.**BeginConnectionSite**
 
 _expression_ A variable that represents a **[ConnectorFormat](Excel.ConnectorFormat.md)** object.
 
@@ -31,8 +31,7 @@ If the beginning of the specified connector isn't attached to a shape, this prop
 
 ## Example
 
-This example assumes that  _myDocument_ already contains two shapes attached by a connector named "Conn1To2." The code adds a rectangle and a connector to _myDocument_. The beginning of the new connector will be attached to the same connection site as the beginning of the connector named "Conn1To2," and the end of the new connector will be attached to connection site one on the new rectangle.
-
+This example assumes that _myDocument_ already contains two shapes attached by a connector named Conn1To2. The code adds a rectangle and a connector to _myDocument_. The beginning of the new connector will be attached to the same connection site as the beginning of the connector named Conn1To2, and the end of the new connector will be attached to connection site one on the new rectangle.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -52,9 +51,5 @@ End With
 ```
 
 
-## See also
-
-
-[ConnectorFormat Object](Excel.ConnectorFormat.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
