@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Comment.Parent
 ms.assetid: c533a5f3-06ea-5af8-c46a-20cb6661384f
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Comment](Excel.Comment.md)** object.
 
 
-## See also
 
-
-[Comment Object](Excel.Comment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

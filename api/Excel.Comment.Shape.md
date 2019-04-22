@@ -7,39 +7,35 @@ ms.prod: excel
 api_name:
 - Excel.Comment.Shape
 ms.assetid: f3e5f713-69b3-9cd8-81fa-9c677ed26869
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # Comment.Shape property (Excel)
 
-Returns a  **[Shape](Excel.Shape.md)** object that represents the shape attached to the specified comment.
+Returns a **[Shape](Excel.Shape.md)** object that represents the shape attached to the specified comment.
 
 
 ## Syntax
 
-_expression_. `Shape`
+_expression_.**Shape**
 
- _expression_ An expression that returns a **[Comment](Excel.Comment.md)** object.
+_expression_ A variable that represents a **[Comment](Excel.Comment.md)** object.
 
 
 ## Example
 
 This example selects comment two on the active sheet.
 
-
- **Note**  Ensure that the comments are not hidden. On the  **Review** Tab, choose `Comments`,  `Show All Comments`.
-
+> [!NOTE] 
+> Ensure that the comments are not hidden. On the **Review** tab, choose **Comments** > **Show All Comments**.
 
 ```vb
 ActiveSheet.Comments(2).Shape.Select
 ```
 
 
-## See also
 
-
-[Comment Object](Excel.Comment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
