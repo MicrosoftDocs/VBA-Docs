@@ -56,7 +56,7 @@ End Sub
 ## See also
 
 
-[Databar Object](Excel.Databar.md)
+[DataBar Object](Excel.DataBar.md)
 [Speech Object](Excel.Speech.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

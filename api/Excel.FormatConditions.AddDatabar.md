@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormatConditions.AddDatabar method (Excel)
 
-Returns a  **[Databar](Excel.Databar.md)** object representing a data bar conditional formatting rule for the specified range.
+Returns a **[DataBar](Excel.DataBar.md)** object representing a data bar conditional formatting rule for the specified range.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormatConditions](Excel.FormatConditi
 
 ## Return value
 
- **Databar** object
+ **DataBar** object
 
 
 ## Remarks

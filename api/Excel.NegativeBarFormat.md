@@ -19,7 +19,7 @@ Represents the color settings of the data bars for negative values that are defi
 
 ## Remarks
 
-The properties of the **NegativeBarFormat** object can be used to specify the fill color and border of the data bars for negative values. Use the **[NegativeBarFormat](Excel.Databar.NegativeBarFormat.md)** property of the **Databar** object that represents a data bar conditional formatting rule to access the **NegativeBarFormat** object associated with that rule.
+The properties of the **NegativeBarFormat** object can be used to specify the fill color and border of the data bars for negative values. Use the **[NegativeBarFormat](Excel.DataBar.NegativeBarFormat.md)** property of the **DataBar** object that represents a data bar conditional formatting rule to access the **NegativeBarFormat** object associated with that rule.
 
 ## Properties
 

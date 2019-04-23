@@ -1,32 +1,29 @@
 ---
-title: Databar.PTCondition property (Excel)
+title: DataBar.PTCondition property (Excel)
 keywords: vbaxl10.chm810088
 f1_keywords:
 - vbaxl10.chm810088
 ms.prod: excel
 api_name:
-- Excel.Databar.PTCondition
+- Excel.DataBar.PTCondition
 ms.assetid: 313c3c44-3ca5-dbc1-fcde-3c2c0c3e2c0e
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
-# Databar.PTCondition property (Excel)
+# DataBar.PTCondition property (Excel)
 
-Returns a  **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
+Returns a **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
 
 
 ## Syntax
 
 _expression_.**PTCondition**
 
-_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
+_expression_ A variable that represents a **[DataBar](Excel.DataBar.md)** object.
 
 
-## See also
 
-
-[Databar Object](Excel.Databar.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

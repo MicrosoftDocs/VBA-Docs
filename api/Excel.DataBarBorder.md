@@ -19,7 +19,7 @@ Represents the border of the data bars specified by a conditional formatting rul
 
 ## Remarks
 
-Use the **DataBarBorder** object to get or set the color and border type for data bars. To access the **DataBarBorder** object associated with a data bar conditional formatting rule, use the **[BarBorder](Excel.Databar.BarBorder.md)** property. After retrieving the **DataBarBorder** object, use its **Color** property to return a **[FormatColor](Excel.FormatColor.md)** object that you can use to set the color of the data bars.
+Use the **DataBarBorder** object to get or set the color and border type for data bars. To access the **DataBarBorder** object associated with a data bar conditional formatting rule, use the **[BarBorder](Excel.DataBar.BarBorder.md)** property. After retrieving the **DataBarBorder** object, use its **Color** property to return a **[FormatColor](Excel.FormatColor.md)** object that you can use to set the color of the data bars.
 
 
 ## Example
@@ -42,10 +42,10 @@ End With
 
 ## Properties
 
-- [Application](Excel.databarBorder.Application.md)
-- [Color](Excel.databarBorder.Color.md)
-- [Creator](Excel.databarBorder.Creator.md)
-- [Parent](Excel.databarBorder.Parent.md)
+- [Application](Excel.DataBarBorder.Application.md)
+- [Color](Excel.DataBarBorder.Color.md)
+- [Creator](Excel.DataBarBorder.Creator.md)
+- [Parent](Excel.DataBarBorder.Parent.md)
 - [Type](Excel.DataBarBorder.Type.md)
 
 ## See also

@@ -19,7 +19,7 @@ Represents how the shortest bar or longest bar is evaluated for a data bar condi
 
 ## Remarks
 
-The **ConditionValue** object is returned by using either the **[MaxPoint](Excel.Databar.MaxPoint.md)** or **[MinPoint](Excel.Databar.MinPoint.md)** property of the **Databar** object.
+The **ConditionValue** object is returned by using either the **[MaxPoint](Excel.DataBar.MaxPoint.md)** or **[MinPoint](Excel.DataBar.MinPoint.md)** property of the **DataBar** object.
 
 You can change the type of evaluation from the default setting (lowest value for the shortest bar and highest value for the longest bar) by using the **Modify** method.
 
@@ -31,7 +31,7 @@ The following example creates a range of data and then applies a data bar to the
 ```vb
 Sub CreateDataBarCF() 
  
- Dim cfDataBar As Databar 
+ Dim cfDataBar As DataBar 
  
  'Create a range of data with a couple of extreme values 
  With ActiveSheet 
