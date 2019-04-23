@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm584111
 ms.prod: excel
 ms.assetid: 5915da64-a019-bd6e-1b5a-ce523e9906c3
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -17,9 +17,9 @@ Used to toggle the  **Range** field if it exists on the data label range. Read/w
 
 ## Syntax
 
-_expression_. `ShowRange`
+_expression_.**ShowRange**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks

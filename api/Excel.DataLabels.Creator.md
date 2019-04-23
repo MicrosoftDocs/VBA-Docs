@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.Creator
 ms.assetid: 86b4beaa-9a5f-ca3e-7e4f-78b905e94bae
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks

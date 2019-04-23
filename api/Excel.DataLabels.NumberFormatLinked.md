@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.NumberFormatLinked
 ms.assetid: 67e1bd50-d41f-44b7-2bac-47fe5870de42
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `NumberFormatLinked`
+_expression_.**NumberFormatLinked**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## See also

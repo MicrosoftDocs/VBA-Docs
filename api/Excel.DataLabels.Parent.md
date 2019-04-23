@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.Parent
 ms.assetid: 57f1d0ff-13a5-8ec2-20bd-5589be8aae0c
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## See also

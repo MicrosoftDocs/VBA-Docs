@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.Delete
 ms.assetid: c643324c-10ef-8427-da3e-ce71a7143541
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Return value

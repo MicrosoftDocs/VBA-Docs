@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.Position
 ms.assetid: 1eb5e1c9-bdd1-f886-d1a7-aeb2f55b17d1
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **[XlDataLabelPosition](Excel.XlDataLabelPosition.md)** value
 
 _expression_.**Position**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## See also

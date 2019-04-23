@@ -7,26 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.DataLabel.Format
 ms.assetid: 8a99d824-e1f0-0935-1939-62252cb32522
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # DataLabel.Format property (Excel)
 
-Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
+Returns the **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Format**
 
-_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a **[DataLabel](excel.datalabel(object).md)** object.
 
 
-## See also
 
-
-[DataLabel Object](Excel.DataLabel(object).md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

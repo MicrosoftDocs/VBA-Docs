@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.NumberFormatLocal
 ms.assetid: f5ef1fd2-1532-df41-2be8-e18096751fa3
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value that represents the format code for the obj
 
 _expression_.**NumberFormatLocal**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks

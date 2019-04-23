@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowBubbleSize`
+_expression_.**ShowBubbleSize**
 
  _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 

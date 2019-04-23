@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowLegendKey`
+_expression_.**ShowLegendKey**
 
 _expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.ShowCategoryName
 ms.assetid: 37092a3b-a8fd-d731-7ca9-ce0d03295000
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowCategoryName`
+_expression_.**ShowCategoryName**
 
- _expression_ An expression that returns a [DataLabels](Excel.DataLabels(object).md) object.
+ _expression_ An expression that returns a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks

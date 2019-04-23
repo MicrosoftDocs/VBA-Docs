@@ -17,7 +17,7 @@ Set to  **True** to display the **Value From Cells** range field in all the char
 
 ## Syntax
 
-_expression_. `ShowRange`
+_expression_.**ShowRange**
 
 _expression_ A variable that represents a [DataLabels](./PowerPoint.DataLabels.md) object.
 

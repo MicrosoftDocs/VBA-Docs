@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.ShowPercentage
 ms.assetid: c8afd00d-3443-8366-6c74-d426237c6fd7
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `ShowPercentage`
+_expression_.**ShowPercentage**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks

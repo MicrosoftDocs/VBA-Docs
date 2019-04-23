@@ -19,7 +19,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the footnote separa
 
 ## Syntax
 
-_expression_. `Separator`
+_expression_.**Separator**
 
 _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 

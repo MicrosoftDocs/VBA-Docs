@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.Item
 ms.assetid: bc45ebcc-00f0-c253-0d68-002d8f20d750
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a single object from a collection.
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Parameters

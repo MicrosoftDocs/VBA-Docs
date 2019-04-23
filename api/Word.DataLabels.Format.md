@@ -21,7 +21,7 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 
 _expression_.**Format**
 
- _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
+ _expression_ A variable that represents a **[DataLabels](Word.DataLabels.md)** object.
 
 
 ## See also

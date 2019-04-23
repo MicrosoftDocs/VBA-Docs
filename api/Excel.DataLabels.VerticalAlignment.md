@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.VerticalAlignment
 ms.assetid: fac981a5-11a2-aef2-0f23-a163299c8a73
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value that represents the vertical alignment of t
 
 _expression_.**VerticalAlignment**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks

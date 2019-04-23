@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm584110
 ms.prod: excel
 ms.assetid: cf81fe7c-fb9c-bcd5-bd29-aef898c9c265
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Enables you to take the contents and formatting of a single data label and apply
 
 _expression_. `Propagate`_(Index)_
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Parameters

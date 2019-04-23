@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.ShowSeriesName
 ms.assetid: 19fcea65-a796-3c02-f162-33b5cb03aad3
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns or sets a  **Boolean** to indicate the series name display behavior for 
 
 ## Syntax
 
-_expression_. `ShowSeriesName`
+_expression_.**ShowSeriesName**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks

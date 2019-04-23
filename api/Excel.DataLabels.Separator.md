@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataLabels.Separator
 ms.assetid: bdcd548c-f992-064d-9638-95e1193c3b15
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Sets or returns a  **Variant** representing the separator used for the data labe
 
 ## Syntax
 
-_expression_. `Separator`
+_expression_.**Separator**
 
-_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a **[DataLabels](Excel.DataLabels(object).md)** object.
 
 
 ## Remarks
