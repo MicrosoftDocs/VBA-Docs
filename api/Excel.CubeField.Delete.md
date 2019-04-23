@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CubeField.Delete
 ms.assetid: bcbe57bc-879d-b6a4-27ae-ec87153b1111
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** ob
 
 ## Remarks
 
-You can delete cube fields only if you have created the cube fields yourself by using the  **[Add](Excel.CalculatedMembers.Add.md)** method with the **xlCalculatedSet** argument.
+You can delete cube fields only if you have created the cube fields yourself by using the **[Add](Excel.CalculatedMembers.Add.md)** method with the **xlCalculatedSet** constant (**[XlCalculatedMemberType](excel.xlcalculatedmembertype.md)**).
 
 
-## See also
 
-
-[CubeField Object](Excel.CubeField.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

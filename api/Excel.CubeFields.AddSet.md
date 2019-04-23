@@ -7,26 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.CubeFields.AddSet
 ms.assetid: 2f40d4f3-56fc-4d98-b214-623885dc26d6
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # CubeFields.AddSet method (Excel)
 
-Adds a new  **[CubeField](Excel.CubeField.md)** object to the **[CubeFields](Excel.CubeFields.md)** collection. The **CubeField** object corresponds to a set defined on the Online Analytical Processing (OLAP) provider for the cube.
+Adds a new **[CubeField](Excel.CubeField.md)** object to the **CubeFields** collection. The **CubeField** object corresponds to a set defined on the Online Analytical Processing (OLAP) provider for the cube.
 
 
 ## Syntax
 
-_expression_. `AddSet`( `_Name_` , `_Caption_` )
+_expression_.**AddSet** (_Name_, _Caption_)
 
 _expression_ A variable that represents a **[CubeFields](Excel.CubeFields.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,13 +38,12 @@ CubeField
 
 ## Remarks
 
-If a set with the name given in the argument  _Name_ does not exist, the **AddSet** method will return a run-time error.
+If a set with the name given in the argument _Name_ does not exist, the **AddSet** method will return a run-time error.
 
 
 ## Example
 
-In this example, Microsoft Excel adds a set titled "My Set" to the  **CubeField** object. This example assumes an OLAP PivotTable report exists on the active worksheet. Also, this example assumes a field titled "Product" exists.
-
+In this example, Microsoft Excel adds a set titled My Set to the **CubeField** object. This example assumes that an OLAP PivotTable report exists on the active worksheet, and that a field titled Product exists.
 
 ```vb
 Sub UseAddSet() 
@@ -76,9 +73,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CubeFields Object](Excel.CubeFields.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

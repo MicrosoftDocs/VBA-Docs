@@ -7,37 +7,34 @@ ms.prod: excel
 api_name:
 - Excel.CubeField.AllItemsVisible
 ms.assetid: 979461f1-69a9-9705-2f61-72a096d47a5a
-ms.date: 06/08/2017
+ms.date: 04/23/2019
 localization_priority: Normal
 ---
 
 
 # CubeField.AllItemsVisible property (Excel)
 
- The **AllItemsVisible** property checks whether manual filtering is applied to a PivotField or CubeField. Read-only **Boolean**.
+The **AllItemsVisible** property checks whether manual filtering is applied to a PivotField or CubeField. Read-only **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AllItemsVisible`
+_expression_.**AllItemsVisible**
 
 _expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks
 
-Default value is  **True** and is available for the **PivotField** and the **CubeField** objects.
+Default value is **True** and is available for the **PivotField** and the **CubeField** objects.
 
-For OLAP PivotTables, this property is only available for the  **CubeField** object. Trying to get or set it on the **PivotField** object in OLAP PivotTables will return a run-time error.
+For OLAP PivotTables, this property is only available for the **CubeField** object. Trying to get or set it on the **PivotField** object in OLAP PivotTables will return a run-time error.
 
-For PivotTables, this property is available for the  **PivotField** object.
+For PivotTables, this property is available for the **PivotField** object.
 
-This property is automatically set to  **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false).
-
-
-## See also
+This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false).
 
 
-[CubeField Object](Excel.CubeField.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
